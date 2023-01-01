@@ -46,7 +46,7 @@ def saveText(month, filename):
 
     for i in range(len(title)):
         
-        data = str(i+1)+" 번째 검색 내용 \n"+"제목 : "+title[i]+"\n"+"주소 : "+href[i]+"\n"+"설명 : "+desc[i]+"\n"
+        data = str(i+1)+" 번째 검색 내용 \n"+"제목 : "+title[i]+"\n"+"주소 : https://www.infoq.com/"+href[i]+"\n"+"설명 : "+desc[i]+"\n"
 
         f.write(data)
 
