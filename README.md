@@ -20,6 +20,13 @@ github_Address="github 주소"
 sourceDir="소스 주소"
 logFile="로그파일 주소 => ../push.log"
 
+## 예시
+## github_Id="SeJonJ"
+## github_Token="git token"
+## github_Address="github.com/SeJonJ/AutoGitPush.git"
+## sourceDir="/home/sejon/gitrepo/AutoGitPush"
+## logFile="../push.log"
+
 cd $sourceDir
 
 python3 main.py
@@ -38,8 +45,12 @@ git push https://$github_Id:$github_Token@$github_Address >> $logFile 2>&1
 echo "========= push OK (Date : $date) =========" && echo "========= push OK (Date : $date) =========" >> $logFile 2>&1
 ```
 
-## cronTab 설정 
+## cronTab
 ```
+# git 쓰기 모드로 변경
+chmod 750 gitPush.sh
+
+# crontab 설정
 crontab -e
 * 18 * * * bash파일위치 => * 18 * * * /home/jsj/gitrepo/gitPush.sh
 ```
