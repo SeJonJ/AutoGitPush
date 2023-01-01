@@ -56,7 +56,7 @@ def saveText(month, filename):
         
         ## 저장할 내용을 str 형태로 생성
         ## 반복문이니까 각 list 에서 i 번째 요소를 가져와서 str 로 저장한다
-        data = str(i+1)+" 번째 검색 내용 \n"+"제목 : "+title[i]+"\n"+"주소 : https://www.infoq.com/"+href[i]+"\n"+"설명 : "+desc[i]+"\n"
+        data = str(i+1)+" 번째 검색 내용 \n"+"제목 : "+title[i]+"\n"+"주소 : https://www.infoq.com"+href[i]+"\n"+"설명 : "+desc[i]+"\n"
 
         ## 실제로 파일 f 에 내용을 쓰기 write
         f.write(data)
