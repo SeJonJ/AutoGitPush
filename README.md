@@ -41,5 +41,5 @@ echo "========= push OK (Date : $date) =========" && echo "========= push OK (Da
 ## cronTab 설정 
 ```
 crontab -e
-* 6 * * * bash파일위치 => * 6 * * * /home/jsj/gitrepo/gitPush.sh
+* 18 * * * bash파일위치 => * 18 * * * /home/jsj/gitrepo/gitPush.sh
 ```

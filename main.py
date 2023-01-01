@@ -2,10 +2,10 @@ import crawler
 import createDir as dir
 from datetime import datetime
 
-# 데이터 가져오기
-title = crawler.getTitle()
-href = crawler.getHref()
-desc = crawler.getDesc()
+# 사이트에서 내용 크롤링하기
+crawler.getTitle()
+crawler.getHref()
+crawler.getDesc()
 
 # 이번달 디렉토리 없으면 생성
 date = datetime.today()
