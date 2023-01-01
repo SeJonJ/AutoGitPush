@@ -52,5 +52,5 @@ chmod 750 gitPush.sh
 
 # crontab 설정
 crontab -e
-* 18 * * * bash파일위치 => * 18 * * * /home/jsj/gitrepo/gitPush.sh
+00 18 * * * bash파일위치 => * 18 * * * /home/jsj/gitrepo/gitPush.sh
 ```
