@@ -42,7 +42,7 @@ def getDesc():
 
 # 내용 저장
 def saveText(month, filename):
-    f = open("./"+month+"/"+filename+".text", "w")
+    f = open("./"+month+"/"+filename+".txt", "w")
 
     for i in range(len(title)):
         
