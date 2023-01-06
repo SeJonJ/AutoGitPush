@@ -8,7 +8,7 @@ header = {
 
 ## 다른 사이트를 크롤링하기 위해서는 여기를 수정!!
 ## 단 다른 사이트는 파라미터를 요구할 수 있기 때문에 그 부분은 추가로 세팅해야함
-url = 'https://www.infoq.com/development/news/'
+url = 'https://www.infoq.com/news/'
 res = requests.get(url, headers=header)
 
 soup = bs4(res.text, 'html.parser')
