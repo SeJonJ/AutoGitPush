@@ -1,0 +1,135 @@
+1 번째 검색 내용 
+제목 : 
+
+                            Generating Text Inputs for Mobile App Testing Using GPT-3
+                        
+주소 : https://www.infoq.com/news/2023/01/ml-automated-gui-testing/?topicPageSponsorship=0325d426-69bc-457f-9567-6d2e0eebefce
+설명 : 
+                         A group of researchers from the Chinese Academy of Sciences and Monash University have presented a new approach to text input generation for mobile app testing based on a pre-trained large language model (LLM). Dubbed QTypist, the approach was evaluated on 106 Android apps and automated test tools, showing a significant improvement of testing performance.
+                    
+2 번째 검색 내용 
+제목 : 
+
+                            Java News Roundup: Jakarta Data Initial Release, Micronaut 3.8, JReleaser 1.4, Gradle 8.0-RC1
+                        
+주소 : https://www.infoq.com/news/2023/01/java-news-roundup-dec26-2022/?topicPageSponsorship=0325d426-69bc-457f-9567-6d2e0eebefce
+설명 : 
+                         It was very quiet for the week of December 26th, 2022, but InfoQ found a few news items of interest that include: Jakarta NoSQL 1.0.0-b5, Jakarta Data 1.0.0-b1, Micronaut 3.8.0, Apache Groovy 4.0.7, Gradle 8.0.0-RC1, and JReleaser 1.4.0.
+                    
+3 번째 검색 내용 
+제목 : 
+
+                            Using Code Instrumentation for Fault Injection at the Application Level at eBay
+                        
+주소 : https://www.infoq.com/news/2022/12/eBay-fault-injection-instrument/?topicPageSponsorship=0325d426-69bc-457f-9567-6d2e0eebefce
+설명 : 
+                         eBay engineers have been using fault injections techniques to improve the reliability of the notification platform and explore its weaknesses. While fault injection is a common industry practice, eBay attempted a novel approach leveraging instrumentation to bring fault injection within the application level.
+                    
+4 번째 검색 내용 
+제목 : 
+
+                            Microsoft’s New Memory Optimized Ebsv5 VM Sizes in Preview Offer More Performance
+                        
+주소 : https://www.infoq.com/news/2022/12/azure-memory-optimized-vms/?topicPageSponsorship=0325d426-69bc-457f-9567-6d2e0eebefce
+설명 : 
+                         Microsoft recently announced two additional Memory Optimized Virtual Machines (VM) sizes, E96bsv5 and E112ibsv5, to the Ebsv5 VM family developed with the NVMe protocol providing performance up to 260,000 IOPS and 8,000 MBps remote disk storage throughput.
+                    
+5 번째 검색 내용 
+제목 : 
+
+                            AWS Announces GA of DocumentDB Elastic Clusters
+                        
+주소 : https://www.infoq.com/news/2022/12/aws-documentdb-elastic-clusters/?topicPageSponsorship=0325d426-69bc-457f-9567-6d2e0eebefce
+설명 : 
+                         At the recent re:Invent conference, AWS announced the general availability of DocumentDB Elastic Clusters, a service that manages the elasticity and sharding for MongoDB workloads.
+                    
+6 번째 검색 내용 
+제목 : 
+
+                            Kubernetes 1.26 Released with Image Registry Changes, Enhanced Resource Allocation, and Metrics
+                        
+주소 : https://www.infoq.com/news/2022/12/kubernetes-1-26/?topicPageSponsorship=0325d426-69bc-457f-9567-6d2e0eebefce
+설명 : 
+                         The Cloud Native Computing Foundation (CNCF) released Kubernetes 1.26 with the name Electrifying. The release has new features, such as Image Registry Changes, Dynamic Resource Allocation, and Improved Metrics.
+                    
+7 번째 검색 내용 
+제목 : 
+
+                            Entity Framework 7 Brings Bulk Operations and JSON Columns
+                        
+주소 : https://www.infoq.com/news/2022/12/ef7-core-json/?topicPageSponsorship=0325d426-69bc-457f-9567-6d2e0eebefce
+설명 : 
+                         Version 7 of Entity Framework (EF) Core, Microsoft's object-to-database mapper library for .NET Framework, was released in November. The updated version brings performance updates when saving data, allows JSON column operations, enables efficient bulk operations, and contains many minor fixes and improvements. The EF7 Core is available for both .NET 7 and .NET 6.
+                    
+8 번째 검색 내용 
+제목 : 
+
+                            Eclipse Migration Toolkit for Java (EMT4J) Simplifies Upgrading Java Applications
+                        
+주소 : https://www.infoq.com/news/2022/12/eclipse-migration-toolkit-java/?topicPageSponsorship=0325d426-69bc-457f-9567-6d2e0eebefce
+설명 : 
+                         Adoptium announced Eclipse Migration Toolkit for Java (EMT4J), an open source Eclipse project capable of analyzing and upgrading applications from Java 8 to Java 11 and from Java 11 to Java 17. EMT4J will support upgrading to future LTS versions.
+                    
+9 번째 검색 내용 
+제목 : 
+
+                            Microsoft Brings Its Cloud Services and AI to the Edge
+                        
+주소 : https://www.infoq.com/news/2022/12/azure-deepstream-accelerator/?topicPageSponsorship=0325d426-69bc-457f-9567-6d2e0eebefce
+설명 : 
+                         Microsoft recently announced the open-source release of Azure DeepStream Accelerator (ADA) in collaboration with Neal Analytics and NVIDIA, allowing developers to build Edge AI solutions with native Azure Services integration quickly.
+                    
+10 번째 검색 내용 
+제목 : 
+
+                            Uber Improves Productivity with Remote Development Environment Devpod
+                        
+주소 : https://www.infoq.com/news/2022/12/uber-devpod-remote-dev-env/?topicPageSponsorship=0325d426-69bc-457f-9567-6d2e0eebefce
+설명 : 
+                         Engineers at Uber created their own remote development environment to improve developer experience and productivity by fixing a number of issues brought about by their adoption of a code monorepo.
+                    
+11 번째 검색 내용 
+제목 : 
+
+                            .NET MAUI Framework and .NET MAUI Community Toolkit Updated for .NET 7
+                        
+주소 : https://www.infoq.com/news/2022/12/maui-net7-toolkit/?topicPageSponsorship=0325d426-69bc-457f-9567-6d2e0eebefce
+설명 : 
+                         On November 8th, 2022, Microsoft announced the general availability of their .NET multiplatform framework MAUI for the recently launched .NET 7 major release. MAUI is now supported on both .NET 6 and .NET 7, running on Windows, macOS, iOS, Android and Tizen. The open-source MAUI Community Toolkit has also been updated in coordination.
+                    
+12 번째 검색 내용 
+제목 : 
+
+                            Java News Roundup: Spring Cloud 2022.0.0, Introducing SourceBuddy, Jarviz and Just
+                        
+주소 : https://www.infoq.com/news/2022/12/java-news-roundup-dec19-2022/?topicPageSponsorship=0325d426-69bc-457f-9567-6d2e0eebefce
+설명 : 
+                         This week's Java roundup for December 19th, 2022, features news from OpenJDK, JDK 20, JDK 21, Spring Cloud 2022.0.0, point releases for other Spring projects, Open Liberty 22.0.0.13, Quarkus 2.15.1, Micronaut 3.7.5, Helidon 3.1.0, Hibernate 6.2.CR1, Eclipse Vert.x 4.3.7, point releases for Groovy, Camel 3.20, MicroStream joins Eclipse, Kotlin 1.8-RC2, and introducing SourceBuddy, Jarviz and Just.
+                    
+13 번째 검색 내용 
+제목 : 
+
+                            AWS Announces Upcoming Security Changes in April 2023 for Amazon S3
+                        
+주소 : https://www.infoq.com/news/2022/12/amazon-s3-security-changes/?topicPageSponsorship=0325d426-69bc-457f-9567-6d2e0eebefce
+설명 : 
+                         Recently AWS announced it would make two changes to Amazon Simple Storage Service (Amazon S3): all buckets in a region will have S3 Block Public Access enabled and access control lists (ACLs) disabled by default. These changes will take effect in April 2023 and will be rolled out by the company in all AWS regions within weeks.
+                    
+14 번째 검색 내용 
+제목 : 
+
+                            OCaml 5 Brings Support for Concurrency and Shared Memory Parallelism
+                        
+주소 : https://www.infoq.com/news/2022/12/ocaml-5-concurrency-parallelism/?topicPageSponsorship=0325d426-69bc-457f-9567-6d2e0eebefce
+설명 : 
+                         Several years in the making, OCaml 5 introduces runtime support for shared memory parallelism and effect handlers, which are the basis for exception handling, concurrency, async I/O, and more.
+                    
+15 번째 검색 내용 
+제목 : 
+
+                            Google Cloud Introduces Autoclass for Cloud Storage to Automatically Optimize Costs
+                        
+주소 : https://www.infoq.com/news/2022/12/google-cloud-storage-autoclass/?topicPageSponsorship=0325d426-69bc-457f-9567-6d2e0eebefce
+설명 : 
+                         Google Cloud recently announced the availability of Autoclass for Cloud Storage, a bucket-level setting that automates the lifecycle management of objects based on their last access time. The new feature simplifies cost optimization for workloads with unpredictable and unknown access patterns.
+                    
