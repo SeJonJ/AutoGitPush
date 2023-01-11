@@ -1,13 +1,22 @@
 1 번째 검색 내용 
 제목 : 
 
+                            Android Extension SDK Aims to Simplify the Use of Modular System Components
+                        
+주소 : https://www.infoq.com/news/2023/01/android-extension-sdk/
+설명 : 
+                         Introduced with Android 10, Modular System Components enable updating end-user devices outside of the normal Android release cycles. The new Extension SDK framework, now public, aims to make their integration simpler for developers.
+                    
+2 번째 검색 내용 
+제목 : 
+
                             Deep Learning Pioneer Geoffrey Hinton Publishes New Deep Learning Algorithm
                         
 주소 : https://www.infoq.com/news/2023/01/hinton-forward-algorithm/
 설명 : 
                          Geoffrey Hinton, professor at the University of Toronto and engineering fellow at Google Brain, recently published a paper on the Forward-Forward algorithm (FF), a technique for training neural networks that uses two forward passes of data through the network, instead of backpropagation, to update the model weights.
                     
-2 번째 검색 내용 
+3 번째 검색 내용 
 제목 : 
 
                             Traefik Hub Enables Simple and Secure Container Publishing
@@ -15,15 +24,6 @@
 주소 : https://www.infoq.com/news/2023/01/traefik-hub-ga/
 설명 : 
                          Traefik Labs have announced the general availabiity of Traefik Hub, a tool designed to allow admins to quickly and securely publish Kubernetes and Docker containers.
-                    
-3 번째 검색 내용 
-제목 : 
-
-                            SBOM Quality and Availability Varies Greatly Across Projects
-                        
-주소 : https://www.infoq.com/news/2023/01/sbom-quality-availability/
-설명 : 
-                         A recent assessment of the quality and availability of SBOMs in open-source repositories found the availability and implementation to vary widely. The OpenSSF's Open Source Software Security Mobilization Plan has a dedicated stream to improving the availability, generation, and consumption of SBOMs.
                     
 4 번째 검색 내용 
 제목 : 
@@ -37,13 +37,22 @@
 5 번째 검색 내용 
 제목 : 
 
+                            SBOM Quality and Availability Varies Greatly Across Projects
+                        
+주소 : https://www.infoq.com/news/2023/01/sbom-quality-availability/
+설명 : 
+                         A recent assessment of the quality and availability of SBOMs in open-source repositories found the availability and implementation to vary widely. The OpenSSF's Open Source Software Security Mobilization Plan has a dedicated stream to improving the availability, generation, and consumption of SBOMs.
+                    
+6 번째 검색 내용 
+제목 : 
+
                             6 Essential Tracks at QCon London, March 27-29, 2023: Architecture, FinTech, ML, and More!
                         
 주소 : https://www.infoq.com/news/2023/01/qcon-london-tracks/
 설명 : 
                          QCon London international software conference returns this March 27-29 with its 17th edition. Technical leaders that are driving innovation and change in software will share the latest trends and techniques from their real-world projects to help you solve common challenges. Learn what are the emerging trends in 2023, how to adopt them, how to avoid pitfalls, and how to embrace the best practices.
                     
-6 번째 검색 내용 
+7 번째 검색 내용 
 제목 : 
 
                             HashiCorp Terraform Plugin Framework Now Generally Available
@@ -52,7 +61,7 @@
 설명 : 
                          HashiCorp has released the 1.0 version of the Terraform Plugin Framework. This framework improves upon and replaces the current Terraform Plugin SDKv2. It includes support for validators, path expressions, nested attributes, resource private state management, and custom types. Providers written in the new framework are executable binaries written in Go.
                     
-7 번째 검색 내용 
+8 번째 검색 내용 
 제목 : 
 
                             AWS Introduces Step Functions Distributed Map for Large-Scale Parallel Data Processing
@@ -61,7 +70,7 @@
 설명 : 
                          AWS recently announced a distributed map for Step Functions, a solution for large-scale parallel data processing. Optimized for S3, the new feature of the AWS orchestration service targets interactive and highly parallel serverless data processing workflows.
                     
-8 번째 검색 내용 
+9 번째 검색 내용 
 제목 : 
 
                             Just, a New CLI for Spring Boot Applications
@@ -70,7 +79,7 @@
 설명 : 
                          Just, a command line tool requiring zero configuration, increases the Java development experience while building Spring Boot applications. Just automatically reloads the application when there is a change in source code, build files or Docker compose files. The project also supports the creation of (native) applications and (native) Docker images.
                     
-9 번째 검색 내용 
+10 번째 검색 내용 
 제목 : 
 
                             Java News Roundup: Ideal Graph Visualizer Open-Sourced, TomEE MicroProfile 5.0 Certification
@@ -79,7 +88,7 @@
 설명 : 
                          This week's Java roundup for January 2nd, 2023, features news from JDK 20, JDK 21, Ideal Graph Visualizer open-sourced, Spring Tools 4.17.1, Open Liberty 23.0.0.1, Quarkus 2.15.2, Quarkus OpenAPI Generator 2.0, Apache Tomcat CVE, Apache TomEE certification, Apache James 3.7.3, Apache Camel 3.20.1, MyFaces Core 4.0-RC3, Ktor 2.2.2, JHipster Lite 0.25, JobRunr 5.3.3, SourceBuddy 2.1, CircleCI CVE.
                     
-10 번째 검색 내용 
+11 번째 검색 내용 
 제목 : 
 
                             Report Finds Heavy Use of Open-Source Solutions for Kubernetes Security
@@ -88,7 +97,7 @@
 설명 : 
                          A recent survey by Armo on the use of security software solutions with Kubernetes found that over half of respondents leverage open-source tooling. Companies using open-source tooling use on average 3.6 different tools. These open-source tools were predominately used for service mesh, network policy and micro-segmentation, and misconfiguration scanning.
                     
-11 번째 검색 내용 
+12 번째 검색 내용 
 제목 : 
 
                             PyTorch-Nightly Struck by Supply Chain Attack Exfiltrating Data and Files
@@ -97,7 +106,7 @@
 설명 : 
                          Developers who installed the nightly builds of PyTorch between December 25 and December 30, 2022, are recommended to uninstall it and purge their  pip cache to get rid of a malicious package, say PyTorch maintainers. The new attack highlights a recent trend.
                     
-12 번째 검색 내용 
+13 번째 검색 내용 
 제목 : 
 
                             Amazon ECS Adds Automated Rollbacks
@@ -106,7 +115,7 @@
 설명 : 
                          Amazon has released native support for automated rollbacks within their Amazon ECS service. This feature leverages Amazon CloudWatch metric alarms to monitor and, if necessary, reverts the in-progress deployment. This feature supports using any system metrics that CloudWatch Container Insights collects for Amazon ECS as well as custom metrics.
                     
-13 번째 검색 내용 
+14 번째 검색 내용 
 제목 : 
 
                             Zero Trust Access to Corporate Applications with AWS Verified Access
@@ -115,7 +124,7 @@
 설명 : 
                          At re:Invent 2022, AWS released a new enterprise application connectivity service, Verified Access. The service provides Zero Trust access to enterprise web applications by employing endpoints and policies to authenticate and authorize user requests against identity providers or device management systems. Verified Access is currently in public preview in 10 AWS regions.
                     
-14 번째 검색 내용 
+15 번째 검색 내용 
 제목 : 
 
                             Google Cloud Introduces Sensitive Actions to Improve Security for Premium Accounts
@@ -123,13 +132,4 @@
 주소 : https://www.infoq.com/news/2023/01/google-cloud-sensitive-actions/
 설명 : 
                          Google Cloud announced the preview of Sensitive Actions Service, a premium security feature to identify potentially risky behaviors on the cloud. The service detects when actions are taken in a GCP organization that could be damaging if taken by a malicious actor.
-                    
-15 번째 검색 내용 
-제목 : 
-
-                            GlassFish 7.0 Delivers Support for JDK 17 and Jakarta EE 10
-                        
-주소 : https://www.infoq.com/news/2023/01/glassfish-delivers-support-jdk17/
-설명 : 
-                         The Eclipse Foundation has released the latest version of its open-source application server, GlassFish 7.0, which is now available. The new release includes support for the MicroProfile Config, MicroProfile JWT Propagation, and Jakarta MVC 2.0 specifications. Changes to the API and JSON parts of the Jakarta Standard Tag Library and new Jakarta Authentication methods are also essential features.
                     
