@@ -1,0 +1,135 @@
+1 번째 검색 내용 
+제목 : 
+
+                            Improving Retrospective Effectiveness with End-of-Year and Focus Retrospectives
+                        
+주소 : https://www.infoq.com/news/2023/01/retrospective-effectiveness/
+설명 : 
+                         Doing end-of-year retrospectives can help to improve the effectiveness of agile retrospectives, by focusing on the actions done and the formats used. To increase the impact of retrospectives we can alternate between “global galactic” and focus retrospectives.
+                    
+2 번째 검색 내용 
+제목 : 
+
+                            Google Kubernetes Engine Adds Multishares for Filestore Enterprise
+                        
+주소 : https://www.infoq.com/news/2023/01/gke-filestore-multishares/
+설명 : 
+                         Google Cloud has moved Filestore Enterprise Multishares for Google Kubernetes Engine (GKE) into general availability. With Filestore Enterprise Multishares, multiple persistent volumes can be packed onto a Filestore Enterprise instance to improve storage utilization and reduce costs.
+                    
+3 번째 검색 내용 
+제목 : 
+
+                            SourceBuddy Compiles Dynamically Created Java Source Code
+                        
+주소 : https://www.infoq.com/news/2023/01/sourcebuddy/
+설명 : 
+                         SourceBuddy compiles dynamically created Java source code defined by a String or a file to a class file. SourceBuddy, requiring Java 17, is a simplified facade for the javac compiler, which delivers the same functionality.
+                    
+4 번째 검색 내용 
+제목 : 
+
+                            Android Extension SDK Aims to Simplify the Use of Modular System Components
+                        
+주소 : https://www.infoq.com/news/2023/01/android-extension-sdk/
+설명 : 
+                         Introduced with Android 10, Modular System Components enable updating end-user devices outside of the normal Android release cycles. The new Extension SDK framework, now public, aims to make their integration simpler for developers.
+                    
+5 번째 검색 내용 
+제목 : 
+
+                            Deep Learning Pioneer Geoffrey Hinton Publishes New Deep Learning Algorithm
+                        
+주소 : https://www.infoq.com/news/2023/01/hinton-forward-algorithm/
+설명 : 
+                         Geoffrey Hinton, professor at the University of Toronto and engineering fellow at Google Brain, recently published a paper on the Forward-Forward algorithm (FF), a technique for training neural networks that uses two forward passes of data through the network, instead of backpropagation, to update the model weights.
+                    
+6 번째 검색 내용 
+제목 : 
+
+                            Traefik Hub Enables Simple and Secure Container Publishing
+                        
+주소 : https://www.infoq.com/news/2023/01/traefik-hub-ga/
+설명 : 
+                         Traefik Labs have announced the general availability of Traefik Hub, a tool designed to allow admins to quickly and securely publish Kubernetes and Docker containers.
+                    
+7 번째 검색 내용 
+제목 : 
+
+                            Waymo Developed Collision Avoid Test to Evaluate Its Autonomous Driver
+                        
+주소 : https://www.infoq.com/news/2023/01/waymo-autonomous-driver/
+설명 : 
+                         Waymo developed a testing framework called Collision Avoidance Test (CAT) to evaluate the ability to avoid crush or potential hazard situations of its Waymo Driver, compared to a human driver.
+                    
+8 번째 검색 내용 
+제목 : 
+
+                            SBOM Quality and Availability Varies Greatly across Projects
+                        
+주소 : https://www.infoq.com/news/2023/01/sbom-quality-availability/
+설명 : 
+                         A recent assessment of the quality and availability of SBOMs in open-source repositories found the availability and implementation to vary widely. The OpenSSF's Open Source Software Security Mobilization Plan has a dedicated stream to improving the availability, generation, and consumption of SBOMs.
+                    
+9 번째 검색 내용 
+제목 : 
+
+                            Six Essential Tracks at QCon London, March 27-29, 2023: Architecture, FinTech, ML, and More!
+                        
+주소 : https://www.infoq.com/news/2023/01/qcon-london-tracks/
+설명 : 
+                         QCon London international software conference returns this March 27-29 with its 17th edition. Technical leaders who are driving innovation and change in software will share the latest trends and techniques from their real-world projects to help you solve common challenges. Learn about emerging trends in 2023, how to adopt them, how to avoid pitfalls, and how to embrace the best practices.
+                    
+10 번째 검색 내용 
+제목 : 
+
+                            HashiCorp Terraform Plugin Framework Now Generally Available
+                        
+주소 : https://www.infoq.com/news/2023/01/terraform-plugin-framework/
+설명 : 
+                         HashiCorp has released the 1.0 version of the Terraform Plugin Framework. This framework improves upon and replaces the current Terraform Plugin SDKv2. It includes support for validators, path expressions, nested attributes, resource private state management, and custom types. Providers written in the new framework are executable binaries written in Go.
+                    
+11 번째 검색 내용 
+제목 : 
+
+                            AWS Introduces Step Functions Distributed Map for Large-Scale Parallel Data Processing
+                        
+주소 : https://www.infoq.com/news/2023/01/aws-step-functions-distributed/
+설명 : 
+                         AWS recently announced a distributed map for Step Functions, a solution for large-scale parallel data processing. Optimized for S3, the new feature of the AWS orchestration service targets interactive and highly parallel serverless data processing workflows.
+                    
+12 번째 검색 내용 
+제목 : 
+
+                            Just, a New CLI for Spring Boot Applications
+                        
+주소 : https://www.infoq.com/news/2023/01/just-spring-boot-cli/
+설명 : 
+                         Just, a command line tool requiring zero configuration, increases the Java development experience while building Spring Boot applications. Just automatically reloads the application when there is a change in source code, build files or Docker compose files. The project also supports the creation of (native) applications and (native) Docker images.
+                    
+13 번째 검색 내용 
+제목 : 
+
+                            Java News Roundup: Ideal Graph Visualizer Open-Sourced, TomEE MicroProfile 5.0 Certification
+                        
+주소 : https://www.infoq.com/news/2023/01/java-news-roundup-jan02-2023/
+설명 : 
+                         This week's Java roundup for January 2nd, 2023, features news from JDK 20, JDK 21, Ideal Graph Visualizer open-sourced, Spring Tools 4.17.1, Open Liberty 23.0.0.1, Quarkus 2.15.2, Quarkus OpenAPI Generator 2.0, Apache Tomcat CVE, Apache TomEE certification, Apache James 3.7.3, Apache Camel 3.20.1, MyFaces Core 4.0-RC3, Ktor 2.2.2, JHipster Lite 0.25, JobRunr 5.3.3, SourceBuddy 2.1, CircleCI CVE.
+                    
+14 번째 검색 내용 
+제목 : 
+
+                            Report Finds Heavy Use of Open-Source Solutions for Kubernetes Security
+                        
+주소 : https://www.infoq.com/news/2023/01/kubernetes-security-armo/
+설명 : 
+                         A recent survey by Armo on the use of security software solutions with Kubernetes found that over half of respondents leverage open-source tooling. Companies using open-source tooling use on average 3.6 different tools. These open-source tools were predominately used for service mesh, network policy and micro-segmentation, and misconfiguration scanning.
+                    
+15 번째 검색 내용 
+제목 : 
+
+                            PyTorch-Nightly Struck by Supply Chain Attack Exfiltrating Data and Files
+                        
+주소 : https://www.infoq.com/news/2023/01/pytorch-supply-chain-attack/
+설명 : 
+                         Developers who installed the nightly builds of PyTorch between December 25 and December 30, 2022, are recommended to uninstall it and purge their  pip cache to get rid of a malicious package, say PyTorch maintainers. The new attack highlights a recent trend.
+                    
