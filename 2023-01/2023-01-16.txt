@@ -1,13 +1,22 @@
 1 번째 검색 내용 
 제목 : 
 
+                            Cloudflare DDoS Report Finds Increase in Attack Volume and Duration
+                        
+주소 : https://www.infoq.com/news/2023/01/cloudflare-ddos-report/
+설명 : 
+                         Cloudflare released its Distributed Denial of Service (DDoS) Threat Report for the fourth quarter of 2022. The report covers the DDoS attack landscape as detected by the Cloudflare network. HTTP DDoS attacks increased 79% year-over-year with ransom DDoS attacks seeing an increase as well. The report found that longer attacks on increasing especially with network-layer DDoS attacks.
+                    
+2 번째 검색 내용 
+제목 : 
+
                             Google Storage Transfer Service Now Supports Serverless Real-Time Replication Capability
                         
 주소 : https://www.infoq.com/news/2023/01/event-driven-transfer-sts/
 설명 : 
                          Recently Google announced the preview support for event-driven transfer capability for its Storage Transfer Service (STS), which allows users to move data from AWS S3 to Cloud Storage and copy data between multiple Cloud Storage buckets.
                     
-2 번째 검색 내용 
+3 번째 검색 내용 
 제목 : 
 
                             Prometheus Adds Long Term Support Model and Improved Remote Write Mode
@@ -16,7 +25,7 @@
 설명 : 
                          Prometheus, the open-source monitoring tool, has added a number of new features including a reduced functionality remote write mode. Additional improvements include a new HTTP service discovery mechanism, native histogram support, additional integrations for Alertmanager, and a new long-term support model.
                     
-3 번째 검색 내용 
+4 번째 검색 내용 
 제목 : 
 
                             3D Point Cloud Object from Text Prompts Using Diffusion Models
@@ -25,7 +34,7 @@
 설명 : 
                          OpenAI recently released an alternative method called Point-E for 3D object generation from text prompts that takes less than two minutes on a single GPU, versus the other methods that could take a few GPU hours. This new model is based on diffusion models, which are generative models like GLIDE and StableDiffusion.
                     
-4 번째 검색 내용 
+5 번째 검색 내용 
 제목 : 
 
                             Internal Platform Framework Kratix Releases Community Marketplace
@@ -34,16 +43,16 @@
 설명 : 
                          Kratix, an open-source framework for building internal platforms, has released a marketplace of community-provided Promises. Within Kratix, Promises represent components curated by the platform team that application teams can request. The Kratix Marketplace is open for submissions from the community.
                     
-5 번째 검색 내용 
+6 번째 검색 내용 
 제목 : 
 
                             Amazon S3 Encrypts All New Objects with AES-256
                         
 주소 : https://www.infoq.com/news/2023/01/aws-s3-default-encryption/
 설명 : 
-                         Since January 5th Amazon S3 encrypts all new objects by default with AES-256 to protect data at rest. S3 automatically applies server-side encryption using Amazon S3-managed keys for each new object, unless a different encryption option is specified.
+                         Since January 5th, Amazon S3 encrypts all new objects by default with AES-256 to protect data at rest. S3 automatically applies server-side encryption using Amazon S3-managed keys for each new object, unless a different encryption option is specified.
                     
-6 번째 검색 내용 
+7 번째 검색 내용 
 제목 : 
 
                             Unskilled Cybercriminals May Be Leveraging ChatGPT to Create Malware
@@ -52,25 +61,25 @@
 설명 : 
                          In a recent report, Israeli cybersecurity company Check Point warned that cybercriminals are already using ChatGPT to develop malicious programs on the Dark Web. According to Check Point, ChatGPT makes it possible for even unskilled threat actors to create functioning malware.
                     
-7 번째 검색 내용 
+8 번째 검색 내용 
 제목 : 
 
-                            Google AI Unveils Muse, a New Text-To-Image Transformer Model
+                            Google AI Unveils Muse, a New Text-to-Image Transformer Model
                         
 주소 : https://www.infoq.com/news/2023/01/google-muse-text-to-image/
 설명 : 
                          Google AI released a research paper about Muse, a new Text-To-Image Generation via Masked Generative Transformers that can produce photos of a high quality comparable to those produced by rival models like the DALL-E 2 and Imagen at a rate that is far faster.
                     
-8 번째 검색 내용 
+9 번째 검색 내용 
 제목 : 
 
                             Docker Desktop 4.16 Brings Docker Extensions to General Availability
                         
 주소 : https://www.infoq.com/news/2023/01/docker-desktop-416/
 설명 : 
-                         Docker Inc have released their first update of 2023 for the Docker Desktop product - version 4.16. The most significant improvement in this release is to bring Docker Extensions to general availability, and the release also offers a number of performance improvements.
+                         Docker Inc has released their first update of 2023 for the Docker Desktop product - version 4.16. The most significant improvement in this release is to bring Docker Extensions to general availability, and the release also offers a number of performance improvements.
                     
-9 번째 검색 내용 
+10 번째 검색 내용 
 제목 : 
 
                             Elastic 8.6 Released with Improvements to Observability, Security, and Search
@@ -79,7 +88,7 @@
 설명 : 
                          Elastic has released Elastic 8.6 with improvements across the entire Elastic Search Platform including Elastic Enterprise Search, Elastic Observability, Elastic Security, and Kibana. The release includes additional connector clients, better observability of dependencies, improvements to alerts generated from prebuilt security rules, and temporary data views.
                     
-10 번째 검색 내용 
+11 번째 검색 내용 
 제목 : 
 
                             Micronaut 3.8.0: Build Scalable Applications with the Updated CRaC Feature
@@ -88,7 +97,7 @@
 설명 : 
                          Just one week after the release of version 3.7.5,  the Micronaut Foundation released Micronaut 3.8.0. This new version brings several exciting features, including support for GraalVM 22.3.0, the ability to use @RequestBean annotations with Java records, and a new command that guides users in creating a Micronaut AWS Lambda project.
                     
-11 번째 검색 내용 
+12 번째 검색 내용 
 제목 : 
 
                             Improving Retrospective Effectiveness with End-of-Year and Focus Retrospectives
@@ -97,7 +106,7 @@
 설명 : 
                          Doing end-of-year retrospectives can help to improve the effectiveness of agile retrospectives, by focusing on the actions done and the formats used. To increase the impact of retrospectives we can alternate between “global galactic” and focus retrospectives.
                     
-12 번째 검색 내용 
+13 번째 검색 내용 
 제목 : 
 
                             Google Kubernetes Engine Adds Multishares for Filestore Enterprise
@@ -106,7 +115,7 @@
 설명 : 
                          Google Cloud has moved Filestore Enterprise Multishares for Google Kubernetes Engine (GKE) into general availability. With Filestore Enterprise Multishares, multiple persistent volumes can be packed onto a Filestore Enterprise instance to improve storage utilization and reduce costs.
                     
-13 번째 검색 내용 
+14 번째 검색 내용 
 제목 : 
 
                             SourceBuddy Compiles Dynamically Created Java Source Code
@@ -115,7 +124,7 @@
 설명 : 
                          SourceBuddy compiles dynamically created Java source code defined by a String or a file to a class file. SourceBuddy, requiring Java 17, is a simplified facade for the javac compiler, which delivers the same functionality.
                     
-14 번째 검색 내용 
+15 번째 검색 내용 
 제목 : 
 
                             Android Extension SDK Aims to Simplify the Use of Modular System Components
@@ -123,13 +132,4 @@
 주소 : https://www.infoq.com/news/2023/01/android-extension-sdk/
 설명 : 
                          Introduced with Android 10, Modular System Components enable updating end-user devices outside of the normal Android release cycles. The new Extension SDK framework, now public, aims to make their integration simpler for developers.
-                    
-15 번째 검색 내용 
-제목 : 
-
-                            Deep Learning Pioneer Geoffrey Hinton Publishes New Deep Learning Algorithm
-                        
-주소 : https://www.infoq.com/news/2023/01/hinton-forward-algorithm/
-설명 : 
-                         Geoffrey Hinton, professor at the University of Toronto and engineering fellow at Google Brain, recently published a paper on the Forward-Forward algorithm (FF), a technique for training neural networks that uses two forward passes of data through the network, instead of backpropagation, to update the model weights.
                     
