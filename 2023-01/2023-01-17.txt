@@ -1,6 +1,24 @@
 1 번째 검색 내용 
 제목 : 
 
+                            Sigstore Releases Python Client
+                        
+주소 : https://www.infoq.com/news/2023/01/sigstore-python-client/
+설명 : 
+                         Sigstore has announced the 1.0 stable release of sigstore-python, a Python-based Sigstore-compatible client. The client provides a CLI as well as an importable Python API. It is able to sign and verify with any Sigstore-supported identity and has ambient identity detection for supported environments.
+                    
+2 번째 검색 내용 
+제목 : 
+
+                            AWS Releases SimSpace Weaver for Real-Time Spatial Simulations
+                        
+주소 : https://www.infoq.com/news/2023/01/aws-simspace-weaver/
+설명 : 
+                         AWS recently released SimSpace Weaver, a managed option to run real-time spatial simulations across multiple EC2 instances. Distributing simulation workloads, the service can handle large real-world environments, crowd simulations, and immersive interactive experiences.
+                    
+3 번째 검색 내용 
+제목 : 
+
                             Java News Roundup: MicroProfile 6.0, Kotlin 1.8, Spring Framework Updates
                         
 주소 : https://www.infoq.com/news/2023/01/java-news-roundup-jan09-2023/
@@ -8,7 +26,7 @@
                          This week's Java roundup for January 9th, 2023, features news from JDK 20, JDK 21,
 Spring Framework 6.0.4 and 5.3.25, Spring Data 2022.0.1 and 2021.2.7, Spring Shell 2.1.5 and 3.0.0-RC1, MicroProfile 6.0, Quarkus 2.15.3, Micronaut 3.8.1, Micrometer Metrics 1.10.3, Micrometer Tracing 1.0.1, Project Reactor 2022.0.2, Piranha 23.1.0, Apache Tomcat 9.0.71, JHipster Lite 0.26.0 and Kotlin 1.8.0.
                     
-2 번째 검색 내용 
+4 번째 검색 내용 
 제목 : 
 
                             .NET 7 Brings Networking Improvements
@@ -17,7 +35,7 @@ Spring Framework 6.0.4 and 5.3.25, Spring Data 2022.0.1 and 2021.2.7, Spring She
 설명 : 
                          The .NET 7 launch has brought many improvements around the whole API surface of the .NET Framework. In networking operations, .NET 7 improves the capabilities and performance of the existing HTTP and WebSockets protocols. It exposed a new protocol called QUIC and has many performance improvements compared to .NET 6.
                     
-3 번째 검색 내용 
+5 번째 검색 내용 
 제목 : 
 
                             Critical Control Web Panel Vulnerability Still Under Exploit Months After Patch Available
@@ -26,7 +44,7 @@ Spring Framework 6.0.4 and 5.3.25, Spring Data 2022.0.1 and 2021.2.7, Spring She
 설명 : 
                          A 9.8 severity vulnerability in Control Web Panel, previously known as CentOS Web Panel, allows an attacker to remotely execute arbitrary shell commands through a very simple mechanism. Although readily patched, security organizations are reporting it is under active exploit.
                     
-4 번째 검색 내용 
+6 번째 검색 내용 
 제목 : 
 
                             Cloudflare DDoS Report Finds Increase in Attack Volume and Duration
@@ -35,7 +53,7 @@ Spring Framework 6.0.4 and 5.3.25, Spring Data 2022.0.1 and 2021.2.7, Spring She
 설명 : 
                          Cloudflare released its Distributed Denial of Service (DDoS) Threat Report for the fourth quarter of 2022. The report covers the DDoS attack landscape as detected by the Cloudflare network. HTTP DDoS attacks increased 79% year-over-year with ransom DDoS attacks seeing an increase as well. The report found that longer attacks on increasing especially with network-layer DDoS attacks.
                     
-5 번째 검색 내용 
+7 번째 검색 내용 
 제목 : 
 
                             Google Storage Transfer Service Now Supports Serverless Real-Time Replication Capability
@@ -44,7 +62,7 @@ Spring Framework 6.0.4 and 5.3.25, Spring Data 2022.0.1 and 2021.2.7, Spring She
 설명 : 
                          Recently Google announced the preview support for event-driven transfer capability for its Storage Transfer Service (STS), which allows users to move data from AWS S3 to Cloud Storage and copy data between multiple Cloud Storage buckets.
                     
-6 번째 검색 내용 
+8 번째 검색 내용 
 제목 : 
 
                             Prometheus Adds Long Term Support Model and Improved Remote Write Mode
@@ -53,7 +71,7 @@ Spring Framework 6.0.4 and 5.3.25, Spring Data 2022.0.1 and 2021.2.7, Spring She
 설명 : 
                          Prometheus, the open-source monitoring tool, has added a number of new features including a reduced functionality remote write mode. Additional improvements include a new HTTP service discovery mechanism, native histogram support, additional integrations for Alertmanager, and a new long-term support model.
                     
-7 번째 검색 내용 
+9 번째 검색 내용 
 제목 : 
 
                             3D Point Cloud Object from Text Prompts Using Diffusion Models
@@ -62,7 +80,7 @@ Spring Framework 6.0.4 and 5.3.25, Spring Data 2022.0.1 and 2021.2.7, Spring She
 설명 : 
                          OpenAI recently released an alternative method called Point-E for 3D object generation from text prompts that takes less than two minutes on a single GPU, versus the other methods that could take a few GPU hours. This new model is based on diffusion models, which are generative models like GLIDE and StableDiffusion.
                     
-8 번째 검색 내용 
+10 번째 검색 내용 
 제목 : 
 
                             Internal Platform Framework Kratix Releases Community Marketplace
@@ -71,7 +89,7 @@ Spring Framework 6.0.4 and 5.3.25, Spring Data 2022.0.1 and 2021.2.7, Spring She
 설명 : 
                          Kratix, an open-source framework for building internal platforms, has released a marketplace of community-provided Promises. Within Kratix, Promises represent components curated by the platform team that application teams can request. The Kratix Marketplace is open for submissions from the community.
                     
-9 번째 검색 내용 
+11 번째 검색 내용 
 제목 : 
 
                             Amazon S3 Encrypts All New Objects with AES-256
@@ -80,7 +98,7 @@ Spring Framework 6.0.4 and 5.3.25, Spring Data 2022.0.1 and 2021.2.7, Spring She
 설명 : 
                          Since January 5th, Amazon S3 encrypts all new objects by default with AES-256 to protect data at rest. S3 automatically applies server-side encryption using Amazon S3-managed keys for each new object, unless a different encryption option is specified.
                     
-10 번째 검색 내용 
+12 번째 검색 내용 
 제목 : 
 
                             Unskilled Cybercriminals May Be Leveraging ChatGPT to Create Malware
@@ -89,7 +107,7 @@ Spring Framework 6.0.4 and 5.3.25, Spring Data 2022.0.1 and 2021.2.7, Spring She
 설명 : 
                          In a recent report, Israeli cybersecurity company Check Point warned that cybercriminals are already using ChatGPT to develop malicious programs on the Dark Web. According to Check Point, ChatGPT makes it possible for even unskilled threat actors to create functioning malware.
                     
-11 번째 검색 내용 
+13 번째 검색 내용 
 제목 : 
 
                             Google AI Unveils Muse, a New Text-to-Image Transformer Model
@@ -98,7 +116,7 @@ Spring Framework 6.0.4 and 5.3.25, Spring Data 2022.0.1 and 2021.2.7, Spring She
 설명 : 
                          Google AI released a research paper about Muse, a new Text-To-Image Generation via Masked Generative Transformers that can produce photos of a high quality comparable to those produced by rival models like the DALL-E 2 and Imagen at a rate that is far faster.
                     
-12 번째 검색 내용 
+14 번째 검색 내용 
 제목 : 
 
                             Docker Desktop 4.16 Brings Docker Extensions to General Availability
@@ -107,7 +125,7 @@ Spring Framework 6.0.4 and 5.3.25, Spring Data 2022.0.1 and 2021.2.7, Spring She
 설명 : 
                          Docker Inc has released their first update of 2023 for the Docker Desktop product - version 4.16. The most significant improvement in this release is to bring Docker Extensions to general availability, and the release also offers a number of performance improvements.
                     
-13 번째 검색 내용 
+15 번째 검색 내용 
 제목 : 
 
                             Elastic 8.6 Released with Improvements to Observability, Security, and Search
@@ -115,22 +133,4 @@ Spring Framework 6.0.4 and 5.3.25, Spring Data 2022.0.1 and 2021.2.7, Spring She
 주소 : https://www.infoq.com/news/2023/01/elastic-8-6-release/
 설명 : 
                          Elastic has released Elastic 8.6 with improvements across the entire Elastic Search Platform including Elastic Enterprise Search, Elastic Observability, Elastic Security, and Kibana. The release includes additional connector clients, better observability of dependencies, improvements to alerts generated from prebuilt security rules, and temporary data views.
-                    
-14 번째 검색 내용 
-제목 : 
-
-                            Micronaut 3.8.0: Build Scalable Applications with the Updated CRaC Feature
-                        
-주소 : https://www.infoq.com/news/2023/01/micronaut-released-3-8-0/
-설명 : 
-                         Just one week after the release of version 3.7.5,  the Micronaut Foundation released Micronaut 3.8.0. This new version brings several exciting features, including support for GraalVM 22.3.0, the ability to use @RequestBean annotations with Java records, and a new command that guides users in creating a Micronaut AWS Lambda project.
-                    
-15 번째 검색 내용 
-제목 : 
-
-                            Improving Retrospective Effectiveness with End-of-Year and Focus Retrospectives
-                        
-주소 : https://www.infoq.com/news/2023/01/retrospective-effectiveness/
-설명 : 
-                         Doing end-of-year retrospectives can help to improve the effectiveness of agile retrospectives, by focusing on the actions done and the formats used. To increase the impact of retrospectives we can alternate between “global galactic” and focus retrospectives.
                     
