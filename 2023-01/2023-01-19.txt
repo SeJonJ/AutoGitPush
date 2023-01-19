@@ -1,0 +1,136 @@
+1 번째 검색 내용 
+제목 : 
+
+                            GitHub Introduces go-gh to Simplify the Creation of GitHub CLI Extensions
+                        
+주소 : https://www.infoq.com/news/2023/01/GitHub-simplifies-cli-extension/
+설명 : 
+                         Introduced in GitHub CLI 2.0, extensions allow developers to add new features by writing small Go programs. To make it easier to create extensions, GitHub is now releasing a new library, go-gh. Additionally, the latest version of GitHub CLI introduces two new commands to search and browse the catalog of available extensions.
+                    
+2 번째 검색 내용 
+제목 : 
+
+                            eBay New Recommendations Model with Three Billion Item Titles
+                        
+주소 : https://www.infoq.com/news/2023/01/ebay-recommendations-odel/
+설명 : 
+                         eBay developed a new recommendations model based on Natural Language Processing (NLP) techniques and in particular on BERT model. This new model, called “ranker” use the distance score between the embeddings as a feature, in this way the information in the titles of the products is analyzed from the semantic points of view.
+                    
+3 번째 검색 내용 
+제목 : 
+
+                            Making IntelliJ Work for the Dev: The Insights Exposed by the New Book Written by Gee and Scott
+                        
+주소 : https://www.infoq.com/news/2023/01/know-intellij-book/
+설명 : 
+                         Professional developers spend most of their productive time writing code in an IDE Getting to Know IntelliJ IDEA - is the new book that promises to teach you how to make your IDE work for you. In return, amplifying their productivity.  In order to extract its gist, InfoQ reached out to the authors - both former developer advocates at JetBrains with a couple of questions.
+                    
+4 번째 검색 내용 
+제목 : 
+
+                            MicroProfile 6.0 Delivers Alignment with Jakarta EE 10 and a New Specification
+                        
+주소 : https://www.infoq.com/news/2023/01/microprofile6-delivers-alignmens/
+설명 : 
+                         In a major move for the Java community, the MicroProfile Working Group has officially released MicroProfile 6.0. This anticipated release brings a host of new features and improvements, including alignment with the Jakarta 10 Core Profile and updates to several key specifications, such as Metrics, JWT Authentication, Open API, Reactive Messaging, and Reactive Streams Operators.
+                    
+5 번째 검색 내용 
+제목 : 
+
+                            Creating Great Psychologically Safe Teams
+                        
+주소 : https://www.infoq.com/news/2023/01/great-psychologically-safe-teams/
+설명 : 
+                         Sandy Mamoli, author and coach at Nomad8, recently appeared on the No Nonsense Agile Podcast to discuss her experience in creating safe, high-performing and self-selected teams. Keith Ferrazzi, author of Competing in the New World of Work, also recently wrote about his experience with using empowering social contracts to cultivate great teams. Both emphasized safety and candour.
+                    
+6 번째 검색 내용 
+제목 : 
+
+                            BigCode Project Releases Permissively Licensed Code Generation AI Model and Dataset
+                        
+주소 : https://www.infoq.com/news/2023/01/bigcode-stack/
+설명 : 
+                         The BigCode Project recently released The Stack, a 6.4TB dataset containing de-duplicated source code from permissively licensed GitHub repositories which can be used to train code generation AI models. BigCode also released SantaCoder, a 1.1B parameter code generation model trained on The Stack. SantaCoder outperforms similar open-source code generation models.
+                    
+7 번째 검색 내용 
+제목 : 
+
+                            Sigstore Releases Python Client
+                        
+주소 : https://www.infoq.com/news/2023/01/sigstore-python-client/
+설명 : 
+                         Sigstore has announced the 1.0 stable release of sigstore-python, a Python-based Sigstore-compatible client. The client provides a CLI as well as an importable Python API. It is able to sign and verify with any Sigstore-supported identity and has ambient identity detection for supported environments.
+                    
+8 번째 검색 내용 
+제목 : 
+
+                            AWS Releases SimSpace Weaver for Real-Time Spatial Simulations
+                        
+주소 : https://www.infoq.com/news/2023/01/aws-simspace-weaver/
+설명 : 
+                         AWS recently released SimSpace Weaver, a managed option to run real-time spatial simulations across multiple EC2 instances. Distributing simulation workloads, the service can handle large real-world environments, crowd simulations, and immersive interactive experiences.
+                    
+9 번째 검색 내용 
+제목 : 
+
+                            Java News Roundup: MicroProfile 6.0, Kotlin 1.8, Spring Framework Updates
+                        
+주소 : https://www.infoq.com/news/2023/01/java-news-roundup-jan09-2023/
+설명 : 
+                         This week's Java roundup for January 9th, 2023, features news from JDK 20, JDK 21,
+Spring Framework 6.0.4 and 5.3.25, Spring Data 2022.0.1 and 2021.2.7, Spring Shell 2.1.5 and 3.0.0-RC1, MicroProfile 6.0, Quarkus 2.15.3, Micronaut 3.8.1, Micrometer Metrics 1.10.3, Micrometer Tracing 1.0.1, Project Reactor 2022.0.2, Piranha 23.1.0, Apache Tomcat 9.0.71, JHipster Lite 0.26.0 and Kotlin 1.8.0.
+                    
+10 번째 검색 내용 
+제목 : 
+
+                            .NET 7 Brings Networking Improvements
+                        
+주소 : https://www.infoq.com/news/2023/01/dotnet-7-networking/
+설명 : 
+                         The .NET 7 launch has brought many improvements around the whole API surface of the .NET Framework. In networking operations, .NET 7 improves the capabilities and performance of the existing HTTP and WebSockets protocols. It exposed a new protocol called QUIC and has many performance improvements compared to .NET 6.
+                    
+11 번째 검색 내용 
+제목 : 
+
+                            Critical Control Web Panel Vulnerability Still Under Exploit Months After Patch Available
+                        
+주소 : https://www.infoq.com/news/2023/01/critical-control-web-panel-bug/
+설명 : 
+                         A 9.8 severity vulnerability in Control Web Panel, previously known as CentOS Web Panel, allows an attacker to remotely execute arbitrary shell commands through a very simple mechanism. Although readily patched, security organizations are reporting it is under active exploit.
+                    
+12 번째 검색 내용 
+제목 : 
+
+                            Cloudflare DDoS Report Finds Increase in Attack Volume and Duration
+                        
+주소 : https://www.infoq.com/news/2023/01/cloudflare-ddos-report/
+설명 : 
+                         Cloudflare released its Distributed Denial of Service (DDoS) Threat Report for the fourth quarter of 2022. The report covers the DDoS attack landscape as detected by the Cloudflare network. HTTP DDoS attacks increased 79% year-over-year with ransom DDoS attacks seeing an increase as well. The report found that longer attacks on increasing especially with network-layer DDoS attacks.
+                    
+13 번째 검색 내용 
+제목 : 
+
+                            Google Storage Transfer Service Now Supports Serverless Real-Time Replication Capability
+                        
+주소 : https://www.infoq.com/news/2023/01/event-driven-transfer-sts/
+설명 : 
+                         Recently Google announced the preview support for event-driven transfer capability for its Storage Transfer Service (STS), which allows users to move data from AWS S3 to Cloud Storage and copy data between multiple Cloud Storage buckets.
+                    
+14 번째 검색 내용 
+제목 : 
+
+                            Prometheus Adds Long Term Support Model and Improved Remote Write Mode
+                        
+주소 : https://www.infoq.com/news/2023/01/prometheus-lts-remote-write/
+설명 : 
+                         Prometheus, the open-source monitoring tool, has added a number of new features including a reduced functionality remote write mode. Additional improvements include a new HTTP service discovery mechanism, native histogram support, additional integrations for Alertmanager, and a new long-term support model.
+                    
+15 번째 검색 내용 
+제목 : 
+
+                            3D Point Cloud Object from Text Prompts Using Diffusion Models
+                        
+주소 : https://www.infoq.com/news/2023/01/openai-3d-point/
+설명 : 
+                         OpenAI recently released an alternative method called Point-E for 3D object generation from text prompts that takes less than two minutes on a single GPU, versus the other methods that could take a few GPU hours. This new model is based on diffusion models, which are generative models like GLIDE and StableDiffusion.
+                    
