@@ -1,0 +1,136 @@
+1 번째 검색 내용 
+제목 : 
+
+                            Creating Environments High in Psychological Safety with a Combined Top-Down and Bottom-Up Approach
+                        
+주소 : https://www.infoq.com/news/2023/01/psychological-safety-approach/
+설명 : 
+                         Leadership is critical for making psychological safety happen, but they need to lead by example and show that it’s safe for people to take interpersonal risks. Complementing leadership with team workshops in communication skills can enable people to speak up and feel safe to fail.
+                    
+2 번째 검색 내용 
+제목 : 
+
+                            Apache Druid 25.0 Delivers Multi-Stage Query Engine and Kubernetes Task Management
+                        
+주소 : https://www.infoq.com/news/2023/01/druid-analytics-database/
+설명 : 
+                         Apache Druid is a high-performance real-time datastore and its latest release, version 25.0, provides many improvements and enhancements. The main new features are: the multi-stage query (MSQ) task engine used for SQL-based ingestion is now production ready; Kubernetes can be used to launch and manage tasks eliminating the need for middle managers...
+                    
+3 번째 검색 내용 
+제목 : 
+
+                            Grafana Adds Outlier Detection to Its Machine Learning Toolkit
+                        
+주소 : https://www.infoq.com/news/2023/01/grafana-outlier-detection/
+설명 : 
+                         Grafana has released outlier detection as part of their Grafana Machine Learning toolkit. Outlier detection can be used to monitor a group of similar things and be alerted when some of them start to behave differently than the norm.
+                    
+4 번째 검색 내용 
+제목 : 
+
+                            Spring Cloud 2022.0.0 Delivers Updates to Sub-Projects and JDK 17 Baseline
+                        
+주소 : https://www.infoq.com/news/2023/01/spring-cloud-2022-0-0/
+설명 : 
+                         VMware has released Spring Cloud 2022.0.0, codenamed Kilburn, based upon the recently introduced Spring Framework 6 and Spring Boot 3. Spring Cloud 2022.0.0 is based on Spring Framework 6 requiring Java 17 and is compatible with Jakarta EE 9. This release supports Ahead of Time (AOT) compilation and the creation native images with GraalVM.
+                    
+5 번째 검색 내용 
+제목 : 
+
+                            GitHub Introduces go-gh to Simplify the Creation of GitHub CLI Extensions
+                        
+주소 : https://www.infoq.com/news/2023/01/GitHub-simplifies-cli-extension/
+설명 : 
+                         Introduced in GitHub CLI 2.0, extensions allow developers to add new features by writing small Go programs. To make it easier to create extensions, GitHub is now releasing a new library, go-gh. Additionally, the latest version of GitHub CLI introduces two new commands to search and browse the catalog of available extensions.
+                    
+6 번째 검색 내용 
+제목 : 
+
+                            eBay New Recommendations Model with Three Billion Item Titles
+                        
+주소 : https://www.infoq.com/news/2023/01/ebay-recommendations-odel/
+설명 : 
+                         eBay developed a new recommendations model based on Natural Language Processing (NLP) techniques and in particular on BERT model. This new model, called “ranker” use the distance score between the embeddings as a feature, in this way the information in the titles of the products is analyzed from the semantic points of view.
+                    
+7 번째 검색 내용 
+제목 : 
+
+                            Making IntelliJ Work for the Dev: the Insights Exposed by the New Book Written by Gee and Scott
+                        
+주소 : https://www.infoq.com/news/2023/01/know-intellij-book/
+설명 : 
+                         Professional developers spend most of their productive time writing code in an IDE Getting to Know IntelliJ IDEA- the new book that promises to teach you how to make your IDE work for you. In return, amplifying their productivity.  In order to extract its gist, InfoQ reached out- to the authors - both former developer advocates at JetBrains- with a couple of questions.
+                    
+8 번째 검색 내용 
+제목 : 
+
+                            MicroProfile 6.0 Delivers Alignment with Jakarta EE 10 and a New Specification
+                        
+주소 : https://www.infoq.com/news/2023/01/microprofile6-delivers-alignmens/
+설명 : 
+                         In a major move for the Java community, the MicroProfile Working Group has officially released MicroProfile 6.0. This anticipated release brings a host of new features and improvements, including alignment with the Jakarta 10 Core Profile and updates to several key specifications, such as Metrics, JWT Authentication, Open API, Reactive Messaging, and Reactive Streams Operators.
+                    
+9 번째 검색 내용 
+제목 : 
+
+                            Creating Great Psychologically Safe Teams
+                        
+주소 : https://www.infoq.com/news/2023/01/great-psychologically-safe-teams/
+설명 : 
+                         Sandy Mamoli, author and coach at Nomad8, recently appeared on the No Nonsense Agile Podcast to discuss her experience in creating safe, high-performing and self-selected teams. Keith Ferrazzi, author of Competing in the New World of Work, also recently wrote about his experience with using empowering social contracts to cultivate great teams. Both emphasized safety and candour.
+                    
+10 번째 검색 내용 
+제목 : 
+
+                            BigCode Project Releases Permissively Licensed Code Generation AI Model and Dataset
+                        
+주소 : https://www.infoq.com/news/2023/01/bigcode-stack/
+설명 : 
+                         The BigCode Project recently released The Stack, a 6.4TB dataset containing de-duplicated source code from permissively licensed GitHub repositories which can be used to train code generation AI models. BigCode also released SantaCoder, a 1.1B parameter code generation model trained on The Stack. SantaCoder outperforms similar open-source code generation models.
+                    
+11 번째 검색 내용 
+제목 : 
+
+                            Sigstore Releases Python Client
+                        
+주소 : https://www.infoq.com/news/2023/01/sigstore-python-client/
+설명 : 
+                         Sigstore has announced the 1.0 stable release of sigstore-python, a Python-based Sigstore-compatible client. The client provides a CLI as well as an importable Python API. It is able to sign and verify with any Sigstore-supported identity and has ambient identity detection for supported environments.
+                    
+12 번째 검색 내용 
+제목 : 
+
+                            AWS Releases SimSpace Weaver for Real-Time Spatial Simulations
+                        
+주소 : https://www.infoq.com/news/2023/01/aws-simspace-weaver/
+설명 : 
+                         AWS recently released SimSpace Weaver, a managed option to run real-time spatial simulations across multiple EC2 instances. Distributing simulation workloads, the service can handle large real-world environments, crowd simulations, and immersive interactive experiences.
+                    
+13 번째 검색 내용 
+제목 : 
+
+                            Java News Roundup: MicroProfile 6.0, Kotlin 1.8, Spring Framework Updates
+                        
+주소 : https://www.infoq.com/news/2023/01/java-news-roundup-jan09-2023/
+설명 : 
+                         This week's Java roundup for January 9th, 2023, features news from JDK 20, JDK 21,
+Spring Framework 6.0.4 and 5.3.25, Spring Data 2022.0.1 and 2021.2.7, Spring Shell 2.1.5 and 3.0.0-RC1, MicroProfile 6.0, Quarkus 2.15.3, Micronaut 3.8.1, Micrometer Metrics 1.10.3, Micrometer Tracing 1.0.1, Project Reactor 2022.0.2, Piranha 23.1.0, Apache Tomcat 9.0.71, JHipster Lite 0.26.0 and Kotlin 1.8.0.
+                    
+14 번째 검색 내용 
+제목 : 
+
+                            .NET 7 Brings Networking Improvements
+                        
+주소 : https://www.infoq.com/news/2023/01/dotnet-7-networking/
+설명 : 
+                         The .NET 7 launch has brought many improvements around the whole API surface of the .NET Framework. In networking operations, .NET 7 improves the capabilities and performance of the existing HTTP and WebSockets protocols. It exposed a new protocol called QUIC and has many performance improvements compared to .NET 6.
+                    
+15 번째 검색 내용 
+제목 : 
+
+                            Critical Control Web Panel Vulnerability Still Under Exploit Months After Patch Available
+                        
+주소 : https://www.infoq.com/news/2023/01/critical-control-web-panel-bug/
+설명 : 
+                         A 9.8 severity vulnerability in Control Web Panel, previously known as CentOS Web Panel, allows an attacker to remotely execute arbitrary shell commands through a very simple mechanism. Although readily patched, security organizations are reporting it is under active exploit.
+                    
