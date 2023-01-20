@@ -50,7 +50,7 @@
                         
 주소 : https://www.infoq.com/news/2023/01/ebay-recommendations-odel/
 설명 : 
-                         eBay developed a new recommendations model based on Natural Language Processing (NLP) techniques and in particular on BERT model. This new model, called “ranker” use the distance score between the embeddings as a feature, in this way the information in the titles of the products is analyzed from the semantic points of view.
+                         eBay developed a new recommendations model based on Natural Language Processing (NLP) techniques and in particular on BERT model. This new model, called “ranker,” uses the distance score between the embeddings as a feature; in this way the information in the titles of the products is analyzed from the semantic points of view.
                     
 7 번째 검색 내용 
 제목 : 
