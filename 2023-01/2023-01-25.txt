@@ -1,0 +1,137 @@
+1 번째 검색 내용 
+제목 : 
+
+                            AI Developers Release Open-Source Implementations of ChatGPT Training Algorithm
+                        
+주소 : https://www.infoq.com/news/2023/01/open-source-chatgpt/
+설명 : 
+                         AI research groups LAION and CarperAI have released OpenAssistant and trlX, open-source implementations of reinforcement learning from human feedback (RLHF), the Algorithm used to train ChatGPT. Independent AI developer Phil Wang has also open-sourced his own implementation of the algorithm.
+                    
+2 번째 검색 내용 
+제목 : 
+
+                            Log Analytics Feature in Cloud Logging Now Generally Available
+                        
+주소 : https://www.infoq.com/news/2023/01/log-analytics-cloud-logging-ga/
+설명 : 
+                         Google recently made its Cloud Logging Log Analytics feature generally available (GA), allowing users to search, aggregate, and transform all log data types, including application, network, and audit logs.
+                    
+3 번째 검색 내용 
+제목 : 
+
+                            Google Delivers Comprehensive Cloud Infrastructure Reliability Guide
+                        
+주소 : https://www.infoq.com/news/2023/01/google-cloud-reliable-infra/
+설명 : 
+                         Google recently delivered a cloud infrastructure reliability guide combining best practices and expertise from its engineers for its customers.
+                    
+4 번째 검색 내용 
+제목 : 
+
+                            Doordash Introduces ML to Understand the Marketplaces Status
+                        
+주소 : https://www.infoq.com/news/2023/01/doordash-ml-marketplace-status/
+설명 : 
+                         DoorDash introduces an ML model to predict the operational status of a store in order to increase the user experience and save thousands of orders cancellation. Understanding the merchant’s operational status and the ability to receive and fulfill orders is crucial for the DoorDash platform.
+                    
+5 번째 검색 내용 
+제목 : 
+
+                            Java News Roundup: Payara Platform, Liberica JDK Updates, JobRunr 6.0 Milestones
+                        
+주소 : https://www.infoq.com/news/2023/01/java-news-roundup-jan16-2023/
+설명 : 
+                         This week's Java roundup for January 16th, 2023, features news from JDK 20, JDK 21, Spring Cloud Gateway 4.0, Spring Boot 3.0.2 and 2.7.8, Spring Modulith 0.3, Liberica JDK versions 19.0.2, 17.0.6, 11.0.18 and 8u362, Payara Platform, Micronaut 3.8.2, WildFly 26.1.3, TomEE 8.0.14, first three milestone releases of Job Runr 6.0 and Gradle 8.0-RC2.
+                    
+6 번째 검색 내용 
+제목 : 
+
+                            Chromium to Allow the Use of Third-Party Rust Libraries to Improve Safety and Security
+                        
+주소 : https://www.infoq.com/news/2023/01/chromiun-rust-libs-integration/
+설명 : 
+                         The Chromium Project is going to add a Rust toolchain to its build system to enable the integration of third-party libraries written in Rust with the aim to improve security, safety, and speed up development.
+                    
+7 번째 검색 내용 
+제목 : 
+
+                            Kubernetes Report Finds Increase in Poorly Configured Workloads
+                        
+주소 : https://www.infoq.com/news/2023/01/kubernetes-poorly-configured/
+설명 : 
+                         Fairwinds, a provider of Kubernetes software, has released their Kubernetes Benchmark Report 2023. The report shows an overall trend of worsening configuration issues across the surveyed organizations. This includes increases in organizations running workloads allowing root access, workloads without memory limits set, and workloads impacted by image vulnerabilities.
+                    
+8 번째 검색 내용 
+제목 : 
+
+                            Amazon Athena Now Supports Apache Spark Engine
+                        
+주소 : https://www.infoq.com/news/2023/01/amazon-athena-apache-spark/
+설명 : 
+                         Amazon Athena now supports the open-source distributed processing system Apache Spark to run fast analytics workloads. Data analysts and engineers can use Jupyter Notebook in Athena to perform data processing and programmatically interact with Spark applications.
+                    
+9 번째 검색 내용 
+제목 : 
+
+                            State of DevOps Report Finds Platform Teams Lacking Product Management Support
+                        
+주소 : https://www.infoq.com/news/2023/01/state-devops-report-2023/
+설명 : 
+                         Puppet released the 2023 State of DevOps Report with a focus on Platform Engineering. The report found that organizations with platform engineering teams report increased developer velocity, improvements in system reliability, greater productivity, and better workflow standards. Organizations still need to work on adopting a product mindset with the platform teams.
+                    
+10 번째 검색 내용 
+제목 : 
+
+                            Google Address Validation API Is Generally Available to Improve Address Accuracy
+                        
+주소 : https://www.infoq.com/news/2023/01/google-address-validation-api/
+설명 : 
+                         Google recently announced the general availability of the Address Validation API. The new feature of the Google Maps Platform validates an address, standardizes it for mailing, and determines the best-known geocode location for it.
+                    
+11 번째 검색 내용 
+제목 : 
+
+                            GitHub Releases Copilot for Business amid Ongoing Legal Controversy
+                        
+주소 : https://www.infoq.com/news/2023/01/github-copilot-business/
+설명 : 
+                         GitHub has announced Copilot for Business, a business plan for their OpenAI-powered coding assistant Copilot. The release follows a recent class action lawsuit against Microsoft, GitHub, and OpenAI for violating open-source licenses.
+                    
+12 번째 검색 내용 
+제목 : 
+
+                            Git 2.39.1 Fixes Two Critical Remote Code Execution Vulnerabilities
+                        
+주소 : https://www.infoq.com/news/2023/01/git-remote-code-vulnerabilities/
+설명 : 
+                         Two vulnerabilities affecting Git's commit log formatting and .gitattributes parsing in Git versions up to and including Git 2.39 have been recently patched. Both may lead to remote code execution, so users are required to upgrade immediately to Git 2.39.1.
+                    
+13 번째 검색 내용 
+제목 : 
+
+                            New Features in Visual Studio 2022 17.5 Preview Releases
+                        
+주소 : https://www.infoq.com/news/2023/01/visual-studio-new-preview/
+설명 : 
+                         Microsoft released Visual Studio 2022 version 17.5 Preview 1 in November 2022, and Preview 2 in December 2022. 
+
+These new preview versions include several new features such as the Quick Add Dialog, Markdown preview support out-of-the box, and colorizing editor tabs using regular expression rules.
+                    
+14 번째 검색 내용 
+제목 : 
+
+                            Creating Environments High in Psychological Safety with a Combined Top-Down and Bottom-Up Approach
+                        
+주소 : https://www.infoq.com/news/2023/01/psychological-safety-approach/
+설명 : 
+                         Leadership is critical for making psychological safety happen, but they need to lead by example and show that it’s safe for people to take interpersonal risks. Complementing leadership with team workshops in communication skills can enable people to speak up and feel safe to fail.
+                    
+15 번째 검색 내용 
+제목 : 
+
+                            Apache Druid 25.0 Delivers Multi-Stage Query Engine and Kubernetes Task Management
+                        
+주소 : https://www.infoq.com/news/2023/01/druid-analytics-database/
+설명 : 
+                         Apache Druid is a high-performance real-time datastore and its latest release, version 25.0, provides many improvements and enhancements. The main new features are: the multi-stage query (MSQ) task engine used for SQL-based ingestion is now production ready, and Kubernetes can be used to launch and manage tasks eliminating the need for middle managers...
+                    
