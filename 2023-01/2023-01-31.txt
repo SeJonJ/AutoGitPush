@@ -1,0 +1,135 @@
+1 번째 검색 내용 
+제목 : 
+
+                            Google Releases Kubernetes GitOps Observability Dashboard
+                        
+주소 : https://www.infoq.com/news/2023/01/google-gitops-observability/
+설명 : 
+                         Google Cloud introduced Config Management Dashboard that allows the Platform Administrator or Operator to have a real-time picture of configuration syncs and failures across multiple Kubernetes clusters.
+                    
+2 번째 검색 내용 
+제목 : 
+
+                            Docker BuildKit Adds Support for Supply Chain Security Practices and Cache Backends
+                        
+주소 : https://www.infoq.com/news/2023/01/docker-buildkit-supply-chain/
+설명 : 
+                         Docker has released version 0.11 of BuildKit, the Docker backend for building images. The release adds a number of new features including attestation creation, reproducible build improvements, and cloud cache backend support.
+                    
+3 번째 검색 내용 
+제목 : 
+
+                            Optimized Reads and Optimized Writes Improve Amazon RDS Performances for MySQL Compatible Engines
+                        
+주소 : https://www.infoq.com/news/2023/01/aws-rds-optimized-reads-writes/
+설명 : 
+                         AWS recently introduced RDS Optimized Reads and RDS Optimized Writes, which are designed to enhance the performance of MySQL and MariaDB workloads running on RDS. These new functionalities can improve query performances and provide higher write throughput but are available on a limited subset of instances and have multiple prerequisites.
+                    
+4 번째 검색 내용 
+제목 : 
+
+                            Mockito 5 Supports Mocking Constructors, Static Methods and Final Classes Out of the Box
+                        
+주소 : https://www.infoq.com/news/2023/01/mockito-5/
+설명 : 
+                         Mockito has released version 5, switching the default mockmaker to mockito-inline in order to better support future versions of the JDK and allows mocking of constructors, static methods and final classes out of the box. The baseline increased from Java 8 to Java 11, as supporting both versions became costly and managing changes in the JDK such as with the SecurityManager proved difficult.
+                    
+5 번째 검색 내용 
+제목 : 
+
+                            Java News Roundup: JDK 20 in Rampdown Phase 2, New JEP Drafts, JobRunr 6.0, GraalVM 22.3.1
+                        
+주소 : https://www.infoq.com/news/2023/01/java-news-roundup-jan23-2023/
+설명 : 
+                         This week's Java roundup for January 23rd, 2023, features news from OpenJDK, JDK 20, JDK 21, GraalVM 22.3.1, TornadoVM 0.15, Spring Cloud Azure 5.0, Spring Shell 3.0.0 and 2.1.6, Spring Cloud 2022.0.1, Quarkus 2.16 and 3.0.Alpha3, Micronaut 3.8.3, JobRunr 6.0, MicroStream 8.0-EA2, Hibernate 6.2.CR2, Tomcat 10.1.5, Groovy 4.0.8 and 2.5.21, Camel Quarkus 2.16, JDKMon 17.0.45 and Foojay.io at FOSDEM.
+                    
+6 번째 검색 내용 
+제목 : 
+
+                            GCP Adds Simplified Operator for Connecting Google Kubernetes Engine to Cloud SQL
+                        
+주소 : https://www.infoq.com/news/2023/01/gcp-kubernetes-sql-connector/
+설명 : 
+                         Google Cloud has released a public preview of Cloud SQL Proxy Operator. The operator simplifies the process of connecting an application running in Google Kubernetes Engine with a database deployed in Cloud SQL.
+                    
+7 번째 검색 내용 
+제목 : 
+
+                            AWS Lambda Now Supports Maximum Concurrency for SQS as Event Source
+                        
+주소 : https://www.infoq.com/news/2023/01/aws-lambda-sqs-concurrency/
+설명 : 
+                         AWS Lambda now provides a way to control the maximum number of concurrent functions invoked by Amazon SQS as an event source. Setting the Maximum Concurrency, developers can determine the concurrency of the functions processing messages in individual SQS queues, simplifying the scalability of serverless applications.
+                    
+8 번째 검색 내용 
+제목 : 
+
+                            How Lyft Detects Android Memory Leaks in Production
+                        
+주소 : https://www.infoq.com/news/2023/01/lyft-android-memory-leaks/
+설명 : 
+                         While modern tooling for Android and iOS enable memory leak detection using local builds, this is not enough to guarantee an app shows correct memory behavior in production, where it runs on a wide range of devices in diverse conditions. For this reason, Lyft engineers combine A/B testing and memory observability to detect which features leak memory.
+                    
+9 번째 검색 내용 
+제목 : 
+
+                            Microsoft Unveils VALL-E, a Game-Changing TTS Language Model
+                        
+주소 : https://www.infoq.com/news/2023/01/microsoft-text-to-speech-valle/
+설명 : 
+                         Microsoft has introduced VALL-E, a novel language model method for text-to-speech synthesis (TTS) that employs audio codec codes as intermediate representations and can replicate anyone's voice after listening to just three seconds of audio recording.
+                    
+10 번째 검색 내용 
+제목 : 
+
+                            Kubernetes Java Client 17.0 Provides Support for Kubernetes 1.25
+                        
+주소 : https://www.infoq.com/news/2023/01/kubernetes-java-client/
+설명 : 
+                         Kubernetes Java Client supports the Kubernetes API and the current release 17.0.0 supports version 1.25 of the Kubernetes API. The client is able to dynamically retrieve information, for example for monitoring purposes, and allows changing and deleting items in the Kubernetes cluster. The Kubernetes client may be used as an alternative for the command line Kubernetes tool: kubectl [argument].
+                    
+11 번째 검색 내용 
+제목 : 
+
+                            How to Assess Software Quality
+                        
+주소 : https://www.infoq.com/news/2023/01/assess-software-quality/
+설명 : 
+                         The quality practices assessment model (QPAM) can be used to classify a team’s exhibited behavior into four dimensions: Beginning, Unifying, Practicing, and Innovating. It explores social and technical quality aspects like feedback loops, culture, code quality and technical debt, and deployment pipeline.
+                    
+12 번째 검색 내용 
+제목 : 
+
+                            Avoid Being an "Ivory Tower" Architect: the Relationship between Architects and Their Organisation
+                        
+주소 : https://www.infoq.com/news/2023/01/ivory-tower-architects/
+설명 : 
+                         In a recently published episode of Armchair Architects, the speakers discussed the relationship between software architects and the rest of the organisation. They detail how a successful architect can impact others by switching between going into the trenches and zooming into a tree and then being able to zoom out and estimate if that tree still fits into the forest.
+                    
+13 번째 검색 내용 
+제목 : 
+
+                            HC-tree is a High-Concurrency Backend for SQLite Supporting Replication
+                        
+주소 : https://www.infoq.com/news/2023/01/hctree-sqlite-concurrency/
+설명 : 
+                         HC-tree is a project aimed at building a new backend for SQLite specifically optimized for high-concurrency and lead-follower style replication. While still experimental, HC-tree can be used as an SQLite drop-in replacement, albeit with limitations.
+                    
+14 번째 검색 내용 
+제목 : 
+
+                            How Palo Alto Approaches Platform Engineering
+                        
+주소 : https://www.infoq.com/news/2023/01/palo-alto-platform-engineering/
+설명 : 
+                         Ramesh Nampelly, senior director of cloud infrastructure and platform engineering at Palo Alto, recently wrote about how Palo Alto approaches platform engineering. They built their own internal developer platform (IDP) based on the open-source tool Backstage. Their platform covers infrastructure provisioning, policy management, observability, and cost management.
+                    
+15 번째 검색 내용 
+제목 : 
+
+                            AI Developers Release Open-Source Implementations of ChatGPT Training Algorithm
+                        
+주소 : https://www.infoq.com/news/2023/01/open-source-chatgpt/
+설명 : 
+                         AI research groups LAION and CarperAI have released OpenAssistant and trlX, open-source implementations of reinforcement learning from human feedback (RLHF), the Algorithm used to train ChatGPT. Independent AI developer Phil Wang has also open-sourced his own implementation of the algorithm.
+                    
