@@ -1,13 +1,31 @@
 1 번째 검색 내용 
 제목 : 
 
+                            Apache Linkis Graduated to Apache Top-Level Project
+                        
+주소 : https://www.infoq.com/news/2023/02/apache-linkis-middleware/
+설명 : 
+                         Apache Linkis is a computation middleware that acts as a layer between upper-level applications and underlying engines, such as Apache Spark, Apache Hive and Apache Flink. It started as an Apache Incubator project in 2021 and graduated to a Top Level Project in January 2023.
+                    
+2 번째 검색 내용 
+제목 : 
+
+                            GraalVM Native Image on RISC-V
+                        
+주소 : https://www.infoq.com/news/2023/02/graalvm-native-image-risc-v/
+설명 : 
+                         The fifth generation of the Reduced Instruction Set Computer (RISC) architecture, called   RISC-V, was introduced in 2010. RISC is an open standard instruction set for processors, available for free, under open source licenses. GraalVM may now be used to compile and run native images on RISC-V machines.
+                    
+3 번째 검색 내용 
+제목 : 
+
                             DeepMind Announces Minecraft-Playing AI DreamerV3
                         
 주소 : https://www.infoq.com/news/2023/01/deepmind-dreamer-minecraft/
 설명 : 
                          Researchers from DeepMind and the University of Toronto announced DreamerV3, a reinforcement-learning (RL) algorithm for training AI models for many different domains. Using a single set of hyperparameters, DreamerV3 outperforms other methods on several benchmarks and can train an AI to collect diamonds in Minecraft without human instruction.
                     
-2 번째 검색 내용 
+4 번째 검색 내용 
 제목 : 
 
                             Uno Platform 4.7 Update Brings Simpler Solution and Performance Improvements
@@ -16,7 +34,7 @@
 설명 : 
                          The open-source UI framework for cross-platform C# and XAML applications, Uno, has been updated to version 4.7. It brings a simplified solution experience in Visual Studio, performance updates on different platforms and other minor updates.
                     
-3 번째 검색 내용 
+5 번째 검색 내용 
 제목 : 
 
                             AWS Gives Developers More Control over Lambda Function Runtime with Runtime Management Controls
@@ -25,7 +43,7 @@
 설명 : 
                          AWS recently introduced runtime management controls, which provide more visibility and control when Lambda applies runtime updates to functions.
                     
-4 번째 검색 내용 
+6 번째 검색 내용 
 제목 : 
 
                             Google Boosts Sandboxed Container File System Performance by Improving gVisor
@@ -34,7 +52,7 @@
 설명 : 
                          Google improved the file system implementation in gVisor, the open source isolation layer used in its commercial container-oriented offerings, such as App Engine, Cloud Run, and Cloud Functions. According to Google engineers Ayush Ranjan and Fabricio Voznika, the new gVisor file system, dubbed VFS2, may improve performance of file-intensive workloads by 50%-75% approximately.
                     
-5 번째 검색 내용 
+7 번째 검색 내용 
 제목 : 
 
                             Intel oneDAL Available in ML.NET
@@ -43,7 +61,7 @@
 설명 : 
                          The first preview release of ML.NET 3.0, available since December, contains the integration with Intel oneAPI Data Analytics Library that leverages SIMD extensions on 64-bit architectures, which are available on Intel and AMD processors.
                     
-6 번째 검색 내용 
+8 번째 검색 내용 
 제목 : 
 
                             Google Releases Kubernetes GitOps Observability Dashboard
@@ -52,7 +70,7 @@
 설명 : 
                          Google Cloud introduced Config Management Dashboard that allows the Platform Administrator or Operator to have a real-time picture of configuration syncs and failures across multiple Kubernetes clusters.
                     
-7 번째 검색 내용 
+9 번째 검색 내용 
 제목 : 
 
                             Docker BuildKit Adds Support for Supply Chain Security Practices and Cache Backends
@@ -61,7 +79,7 @@
 설명 : 
                          Docker has released version 0.11 of BuildKit, the Docker backend for building images. The release adds a number of new features including attestation creation, reproducible build improvements, and cloud cache backend support.
                     
-8 번째 검색 내용 
+10 번째 검색 내용 
 제목 : 
 
                             Optimized Reads and Optimized Writes Improve Amazon RDS Performances for MySQL Compatible Engines
@@ -70,7 +88,7 @@
 설명 : 
                          AWS recently introduced RDS Optimized Reads and RDS Optimized Writes, which are designed to enhance the performance of MySQL and MariaDB workloads running on RDS. These new functionalities can improve query performances and provide higher write throughput but are available on a limited subset of instances and have multiple prerequisites.
                     
-9 번째 검색 내용 
+11 번째 검색 내용 
 제목 : 
 
                             Mockito 5 Supports Mocking Constructors, Static Methods and Final Classes Out of the Box
@@ -79,7 +97,7 @@
 설명 : 
                          Mockito has released version 5, switching the default mockmaker to mockito-inline in order to better support future versions of the JDK and allows mocking of constructors, static methods and final classes out of the box. The baseline increased from Java 8 to Java 11, as supporting both versions became costly and managing changes in the JDK such as with the SecurityManager proved difficult.
                     
-10 번째 검색 내용 
+12 번째 검색 내용 
 제목 : 
 
                             Java News Roundup: JDK 20 in Rampdown Phase 2, New JEP Drafts, JobRunr 6.0, GraalVM 22.3.1
@@ -88,7 +106,7 @@
 설명 : 
                          This week's Java roundup for January 23rd, 2023, features news from OpenJDK, JDK 20, JDK 21, GraalVM 22.3.1, TornadoVM 0.15, Spring Cloud Azure 5.0, Spring Shell 3.0.0 and 2.1.6, Spring Cloud 2022.0.1, Quarkus 2.16 and 3.0.Alpha3, Micronaut 3.8.3, JobRunr 6.0, MicroStream 8.0-EA2, Hibernate 6.2.CR2, Tomcat 10.1.5, Groovy 4.0.8 and 2.5.21, Camel Quarkus 2.16, JDKMon 17.0.45 and Foojay.io at FOSDEM.
                     
-11 번째 검색 내용 
+13 번째 검색 내용 
 제목 : 
 
                             GCP Adds Simplified Operator for Connecting Google Kubernetes Engine to Cloud SQL
@@ -97,7 +115,7 @@
 설명 : 
                          Google Cloud has released a public preview of Cloud SQL Proxy Operator. The operator simplifies the process of connecting an application running in Google Kubernetes Engine with a database deployed in Cloud SQL.
                     
-12 번째 검색 내용 
+14 번째 검색 내용 
 제목 : 
 
                             AWS Lambda Now Supports Maximum Concurrency for SQS as Event Source
@@ -106,7 +124,7 @@
 설명 : 
                          AWS Lambda now provides a way to control the maximum number of concurrent functions invoked by Amazon SQS as an event source. Setting the Maximum Concurrency, developers can determine the concurrency of the functions processing messages in individual SQS queues, simplifying the scalability of serverless applications.
                     
-13 번째 검색 내용 
+15 번째 검색 내용 
 제목 : 
 
                             How Lyft Detects Android Memory Leaks in Production
@@ -114,22 +132,4 @@
 주소 : https://www.infoq.com/news/2023/01/lyft-android-memory-leaks/
 설명 : 
                          While modern tooling for Android and iOS enable memory leak detection using local builds, this is not enough to guarantee an app shows correct memory behavior in production, where it runs on a wide range of devices in diverse conditions. For this reason, Lyft engineers combine A/B testing and memory observability to detect which features leak memory.
-                    
-14 번째 검색 내용 
-제목 : 
-
-                            Microsoft Unveils VALL-E, a Game-Changing TTS Language Model
-                        
-주소 : https://www.infoq.com/news/2023/01/microsoft-text-to-speech-valle/
-설명 : 
-                         Microsoft has introduced VALL-E, a novel language model method for text-to-speech synthesis (TTS) that employs audio codec codes as intermediate representations and can replicate anyone's voice after listening to just three seconds of audio recording.
-                    
-15 번째 검색 내용 
-제목 : 
-
-                            Kubernetes Java Client 17.0 Provides Support for Kubernetes 1.25
-                        
-주소 : https://www.infoq.com/news/2023/01/kubernetes-java-client/
-설명 : 
-                         Kubernetes Java Client supports the Kubernetes API and the current release 17.0.0 supports version 1.25 of the Kubernetes API. The client is able to dynamically retrieve information, for example for monitoring purposes, and allows changing and deleting items in the Kubernetes cluster. The Kubernetes client may be used as an alternative for the command line Kubernetes tool: kubectl [argument].
                     
