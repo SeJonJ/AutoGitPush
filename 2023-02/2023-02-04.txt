@@ -1,0 +1,135 @@
+1 번째 검색 내용 
+제목 : 
+
+                            .NET Community Toolkit 8.1 Released
+                        
+주소 : https://www.infoq.com/news/2023/02/dot-net-community-toolkit-810/
+설명 : 
+                         Recently Microsoft released .NET Community Toolkit 8.1. This new release contains performance improvements to the MVVW Toolkit source generators. There are also new features such as custom attributes for ObservableProperty, MVVM Toolkit analyzers, IObservable<T> messenger extensions and support for .NET 7 and C# 11.
+                    
+2 번째 검색 내용 
+제목 : 
+
+                            Windows Terminal 1.17 Preview Released
+                        
+주소 : https://www.infoq.com/news/2023/02/windows-terminal-1-17/
+설명 : 
+                         Windows Terminal preview version 1.17, released on January 24th, bringing various features and bug-fixes to Microsoft’s own open source terminal application. Notable features include Dropdown Menu Customization, Process Restart support and an improved Color Schemes Page.
+                    
+3 번째 검색 내용 
+제목 : 
+
+                            Kubefirst Platform Improves Local Experience and Password Management
+                        
+주소 : https://www.infoq.com/news/2023/02/kubefirst-local-experience/
+설명 : 
+                         Kubefirst, an open-source infrastructure application platform, recently released version 1.11. This version adds improved support for their local installation including a new local DNS implementation, enables Traefik ingress controller for local installs, and adds trusted local TLS certificates.
+                    
+4 번째 검색 내용 
+제목 : 
+
+                            CNCF Kicks Off Cloud Native SecurityCon NA 2023
+                        
+주소 : https://www.infoq.com/news/2023/02/cloudnative-securitycon-na-2023/
+설명 : 
+                         The Cloud Native SecurityCon North America 2023 kicked off this week in Seattle. The first dedicated event focused on Cloud Native Security with over 800 attendees, 70 sessions, 50 sponsors, and vendors organized by the Cloud Native Computing Foundation (CNCF).
+                    
+5 번째 검색 내용 
+제목 : 
+
+                            Stanford Researchers Present AI Framework to Implement and Validate Complex Algorithms
+                        
+주소 : https://www.infoq.com/news/2023/02/parsel-code-generation/
+설명 : 
+                         Parsel, an AI framework created by a group of researchers at Stanford, uses large language model (LLM) reasoning to transform hierarchical functions descriptions in natural language into an implementation in code. Additionally, the researchers maintain, Parsel can be used for robot planning and theorem proving.
+                    
+6 번째 검색 내용 
+제목 : 
+
+                            Test Automation Requires a Strategy and Clean Code
+                        
+주소 : https://www.infoq.com/news/2023/02/test-automation-clean-code/
+설명 : 
+                         Having a good strategy for test automation can make it easier to implement test automation and reduce test maintenance costs. The test automation pyramid and automation test wheel can be of help when formulating a test automation strategy and plan. Test automation code should be clean code, and treated similarly to production code.
+                    
+7 번째 검색 내용 
+제목 : 
+
+                            AWS OpenSearch Serverless Now Generally Available
+                        
+주소 : https://www.infoq.com/news/2023/02/amazon-opensearch-serverless-ga/
+설명 : 
+                         Amazon recently announced the general availability of OpenSearch Serverless, a new serverless option for Amazon OpenSearch service, which automatically provisions and scales the underlying resources for faster data ingestion and query responses.
+                    
+8 번째 검색 내용 
+제목 : 
+
+                            Slack's Lessons Learned from Supporting Highly Regulated Workloads on AWS GovCloud
+                        
+주소 : https://www.infoq.com/news/2023/02/slack-aws-govcloud/
+설명 : 
+                         Archie Gunasekara, staff software engineer at Slack, and Andrew Martin, staff software engineer at Slack, recently shared their learnings in building GovSlack, an instance of Slack running on the AWS GovCloud region. They shared challenges in adapting to unsupported services, account creation, and account isolation.
+                    
+9 번째 검색 내용 
+제목 : 
+
+                            Google Unveils MusicLM, an AI That Can Generate Music from Text Prompts
+                        
+주소 : https://www.infoq.com/news/2023/02/google-musiclm-ai-music/
+설명 : 
+                         Google researchers have introduced MusicLM, an AI model that can generate high-fidelity music from text. MusicLM creates music at a constant 24 kHz throughout a number of minutes by modeling the conditional music generating process as a hierarchical sequence-to-sequence modeling problem.
+                    
+10 번째 검색 내용 
+제목 : 
+
+                            Apache Linkis Graduated to Apache Top-Level Project
+                        
+주소 : https://www.infoq.com/news/2023/02/apache-linkis-middleware/
+설명 : 
+                         Apache Linkis is a computation middleware that acts as a layer between upper-level applications and underlying engines, such as Apache Spark, Apache Hive and Apache Flink. It started as an Apache Incubator project in 2021 and graduated to a Top Level Project in January 2023.
+                    
+11 번째 검색 내용 
+제목 : 
+
+                            GraalVM Native Image on RISC-V
+                        
+주소 : https://www.infoq.com/news/2023/02/graalvm-native-image-risc-v/
+설명 : 
+                         The fifth generation of the Reduced Instruction Set Computer (RISC) architecture, called   RISC-V, was introduced in 2010. RISC is an open standard instruction set for processors, available for free, under open source licenses. GraalVM may now be used to compile and run native images on RISC-V machines.
+                    
+12 번째 검색 내용 
+제목 : 
+
+                            DeepMind Announces Minecraft-Playing AI DreamerV3
+                        
+주소 : https://www.infoq.com/news/2023/01/deepmind-dreamer-minecraft/
+설명 : 
+                         Researchers from DeepMind and the University of Toronto announced DreamerV3, a reinforcement-learning (RL) algorithm for training AI models for many different domains. Using a single set of hyperparameters, DreamerV3 outperforms other methods on several benchmarks and can train an AI to collect diamonds in Minecraft without human instruction.
+                    
+13 번째 검색 내용 
+제목 : 
+
+                            Uno Platform 4.7 Update Brings Simpler Solution and Performance Improvements
+                        
+주소 : https://www.infoq.com/news/2023/01/uno-platform-47-update/
+설명 : 
+                         The open-source UI framework for cross-platform C# and XAML applications, Uno, has been updated to version 4.7. It brings a simplified solution experience in Visual Studio, performance updates on different platforms and other minor updates.
+                    
+14 번째 검색 내용 
+제목 : 
+
+                            AWS Gives Developers More Control over Lambda Function Runtime with Runtime Management Controls
+                        
+주소 : https://www.infoq.com/news/2023/01/aws-lambda-runtime-management/
+설명 : 
+                         AWS recently introduced runtime management controls, which provide more visibility and control when Lambda applies runtime updates to functions.
+                    
+15 번째 검색 내용 
+제목 : 
+
+                            Google Boosts Sandboxed Container File System Performance by Improving gVisor
+                        
+주소 : https://www.infoq.com/news/2023/01/gvisor-file-system-improvements/
+설명 : 
+                         Google improved the file system implementation in gVisor, the open source isolation layer used in its commercial container-oriented offerings, such as App Engine, Cloud Run, and Cloud Functions. According to Google engineers Ayush Ranjan and Fabricio Voznika, the new gVisor file system, dubbed VFS2, may improve performance of file-intensive workloads by 50%-75% approximately.
+                    
