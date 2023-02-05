@@ -1,13 +1,31 @@
 1 번째 검색 내용 
 제목 : 
 
+                            Permit Elements Enables Low-Code User-Managed Access Control
+                        
+주소 : https://www.infoq.com/news/2023/02/permit-elements-access-control/
+설명 : 
+                         Permit.io has released Permit Elements, a low-code end-user authentication interface builder. Permit Elements allows developers to embed interfaces enabling their end-users to decide which roles have permission to perform actions. At the time of release, there are elements available for user management and audit logs.
+                    
+2 번째 검색 내용 
+제목 : 
+
+                            Infrastructure from Code: The New Wave of Cloud Infrastructure Management
+                        
+주소 : https://www.infoq.com/news/2023/02/infrastructure-code-cloud-manage/
+설명 : 
+                         Infrastructure-from-Code (IfC) is an approach that creates, configures, and manages cloud resources understanding a software application's source code, without explicit description.
+                    
+3 번째 검색 내용 
+제목 : 
+
                             Azure Now Supports Database as a Service Couchbase Capella
                         
 주소 : https://www.infoq.com/news/2023/02/capella-support-azure-dbaas/
 설명 : 
                          A cloud database platform company Couchbase recently announced that its Capella database as a Service (DBaaS) offering as a fully managed service is available on Azure.
                     
-2 번째 검색 내용 
+4 번째 검색 내용 
 제목 : 
 
                             AWS Patches Undocumented APIs Bypassing CloudTrail Event Logging
@@ -16,7 +34,7 @@
 설명 : 
                          AWS recently patched undocumented IAM APIs that bypassed CloudTrail logging. The vulnerability allowed a malicious user to perform reconnaissance activities on IAM without recording events in CloudTrail or being detected by Amazon GuardDuty.
                     
-3 번째 검색 내용 
+5 번째 검색 내용 
 제목 : 
 
                             Terraform Cloud Adds Dynamic Provider Credentials and OPA Support
@@ -25,7 +43,7 @@
 설명 : 
                          Hashicorp has released several new features into Terraform Cloud, their managed service offering for Terraform. The new features include dynamic provider credentials, native OPA support, and the addition of projects as an organization tool.
                     
-4 번째 검색 내용 
+6 번째 검색 내용 
 제목 : 
 
                             .NET Community Toolkit 8.1 Released
@@ -34,7 +52,7 @@
 설명 : 
                          Recently Microsoft released .NET Community Toolkit 8.1. This new release contains performance improvements to the MVVW Toolkit source generators. There are also new features such as custom attributes for ObservableProperty, MVVM Toolkit analyzers, IObservable<T> messenger extensions and support for .NET 7 and C# 11.
                     
-5 번째 검색 내용 
+7 번째 검색 내용 
 제목 : 
 
                             Windows Terminal 1.17 Preview Released
@@ -43,7 +61,7 @@
 설명 : 
                          Windows Terminal preview version 1.17, released on January 24th, bringing various features and bug-fixes to Microsoft’s own open source terminal application. Notable features include Dropdown Menu Customization, Process Restart support and an improved Color Schemes Page.
                     
-6 번째 검색 내용 
+8 번째 검색 내용 
 제목 : 
 
                             Kubefirst Platform Improves Local Experience and Password Management
@@ -52,7 +70,7 @@
 설명 : 
                          Kubefirst, an open-source infrastructure application platform, recently released version 1.11. This version adds improved support for their local installation including a new local DNS implementation, enables Traefik ingress controller for local installs, and adds trusted local TLS certificates.
                     
-7 번째 검색 내용 
+9 번째 검색 내용 
 제목 : 
 
                             CNCF Kicks Off Cloud Native SecurityCon NA 2023
@@ -61,7 +79,7 @@
 설명 : 
                          The Cloud Native SecurityCon North America 2023 kicked off this week in Seattle. The first dedicated event focused on Cloud Native Security with over 800 attendees, 70 sessions, 50 sponsors, and vendors organized by the Cloud Native Computing Foundation (CNCF).
                     
-8 번째 검색 내용 
+10 번째 검색 내용 
 제목 : 
 
                             Stanford Researchers Present AI Framework to Implement and Validate Complex Algorithms
@@ -70,7 +88,7 @@
 설명 : 
                          Parsel, an AI framework created by a group of researchers at Stanford, uses large language model (LLM) reasoning to transform hierarchical functions descriptions in natural language into an implementation in code. Additionally, the researchers maintain, Parsel can be used for robot planning and theorem proving.
                     
-9 번째 검색 내용 
+11 번째 검색 내용 
 제목 : 
 
                             Test Automation Requires a Strategy and Clean Code
@@ -79,7 +97,7 @@
 설명 : 
                          Having a good strategy for test automation can make it easier to implement test automation and reduce test maintenance costs. The test automation pyramid and automation test wheel can be of help when formulating a test automation strategy and plan. Test automation code should be clean code, and treated similarly to production code.
                     
-10 번째 검색 내용 
+12 번째 검색 내용 
 제목 : 
 
                             AWS OpenSearch Serverless Now Generally Available
@@ -88,7 +106,7 @@
 설명 : 
                          Amazon recently announced the general availability of OpenSearch Serverless, a new serverless option for Amazon OpenSearch service, which automatically provisions and scales the underlying resources for faster data ingestion and query responses.
                     
-11 번째 검색 내용 
+13 번째 검색 내용 
 제목 : 
 
                             Slack's Lessons Learned from Supporting Highly Regulated Workloads on AWS GovCloud
@@ -97,7 +115,7 @@
 설명 : 
                          Archie Gunasekara, staff software engineer at Slack, and Andrew Martin, staff software engineer at Slack, recently shared their learnings in building GovSlack, an instance of Slack running on the AWS GovCloud region. They shared challenges in adapting to unsupported services, account creation, and account isolation.
                     
-12 번째 검색 내용 
+14 번째 검색 내용 
 제목 : 
 
                             Google Unveils MusicLM, an AI That Can Generate Music from Text Prompts
@@ -106,7 +124,7 @@
 설명 : 
                          Google researchers have introduced MusicLM, an AI model that can generate high-fidelity music from text. MusicLM creates music at a constant 24 kHz throughout a number of minutes by modeling the conditional music generating process as a hierarchical sequence-to-sequence modeling problem.
                     
-13 번째 검색 내용 
+15 번째 검색 내용 
 제목 : 
 
                             Apache Linkis Graduated to Apache Top-Level Project
@@ -114,22 +132,4 @@
 주소 : https://www.infoq.com/news/2023/02/apache-linkis-middleware/
 설명 : 
                          Apache Linkis is a computation middleware that acts as a layer between upper-level applications and underlying engines, such as Apache Spark, Apache Hive and Apache Flink. It started as an Apache Incubator project in 2021 and graduated to a Top Level Project in January 2023.
-                    
-14 번째 검색 내용 
-제목 : 
-
-                            GraalVM Native Image on RISC-V
-                        
-주소 : https://www.infoq.com/news/2023/02/graalvm-native-image-risc-v/
-설명 : 
-                         The fifth generation of the Reduced Instruction Set Computer (RISC) architecture, called   RISC-V, was introduced in 2010. RISC is an open standard instruction set for processors, available for free, under open source licenses. GraalVM may now be used to compile and run native images on RISC-V machines.
-                    
-15 번째 검색 내용 
-제목 : 
-
-                            DeepMind Announces Minecraft-Playing AI DreamerV3
-                        
-주소 : https://www.infoq.com/news/2023/01/deepmind-dreamer-minecraft/
-설명 : 
-                         Researchers from DeepMind and the University of Toronto announced DreamerV3, a reinforcement-learning (RL) algorithm for training AI models for many different domains. Using a single set of hyperparameters, DreamerV3 outperforms other methods on several benchmarks and can train an AI to collect diamonds in Minecraft without human instruction.
                     
