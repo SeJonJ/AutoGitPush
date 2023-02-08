@@ -1,13 +1,40 @@
 1 번째 검색 내용 
 제목 : 
 
+                            OpenAI Releases an Advanced Classifier to Distinguish AI and Human Writing Styles
+                        
+주소 : https://www.infoq.com/news/2023/02/openai-chatgpt-writing/
+설명 : 
+                         OpenAI is releasing a trained classifier to distinguish between text written by a human and text written by AIs. This classifier comes from a growing need for technologies that can help discern between material authored by people and that written by machines.
+                    
+2 번째 검색 내용 
+제목 : 
+
+                            Software Security Report Finds JavaScript Applications Have Fewer Flaws Than Java and .NET
+                        
+주소 : https://www.infoq.com/news/2023/02/veracode-software-security/
+설명 : 
+                         Veracode's State of Software Security report for 2023 found that there is a 27% chance within a given month that security flaws will be introduced into an application. The report also found that JavaScript applications on average have fewer flaws and faster flaw resolution than Java and .NET applications.
+                    
+3 번째 검색 내용 
+제목 : 
+
+                            Microsoft OpenJDK Introduces Experimental Feature for Improving Escape Analysis
+                        
+주소 : https://www.infoq.com/news/2023/02/microsoft-openjdk-feature/
+설명 : 
+                         Microsoft announced an experimental feature, still under development, which improves the performance of escape analysis by increasing the opportunities for scalar replacement. Currently the feature is only available for Microsoft Build of OpenJDK, but might become part of OpenJDK in the future.
+                    
+4 번째 검색 내용 
+제목 : 
+
                             gopaddle, a Low Code Internal Developer Platform for MicroK8s and Edge
                         
 주소 : https://www.infoq.com/news/2023/02/gopaddle-ido-microk8s-edge/
 설명 : 
                          gopaddle is a low-code internal developer platform (IDP) for MicroK8s edge cloud. It aims to simplify and accelerate the development of edge cloud applications by providing a web-based interface to Kubernetes developers for creating, deploying, and managing applications.
                     
-2 번째 검색 내용 
+5 번째 검색 내용 
 제목 : 
 
                             Microsoft Open Sources AI Prompt Optimization Toolkit LMOps
@@ -16,7 +43,7 @@
 설명 : 
                          Microsoft Research open sourced LMOps, a collection of tools for improving text prompts used as input to generative AI models. The toolkit includes Promptist, which optimizes a user's text input for text-to-image generation, and Structured Prompting, a technique for including more examples in a few-shot learning prompt for text generation.
                     
-3 번째 검색 내용 
+6 번째 검색 내용 
 제목 : 
 
                             VMware Tanzu Application Platform Adds Buildpack Improvements and Application Limits
@@ -25,7 +52,7 @@
 설명 : 
                          VMware released a number of new features for the Tanzu Application Platform and the Tanzu Application Service. Tanzu Application Platform provides a multi-cloud platform that runs on Kubernetes. Tanzu Application Service is a delivery and operations platform. The features include buildpack improvements, API maturity scoring, services to prevent the impact of noisy neighbors, and shared routes.
                     
-4 번째 검색 내용 
+7 번째 검색 내용 
 제목 : 
 
                             JobRunr, the Java Scheduler Library, Released Version 6.0
@@ -34,7 +61,7 @@
 설명 : 
                          JobRunr, a Java library designed to handle background tasks in a reliable manner within a JVM instance, released the new version 6.0 after a year of development since the release of version 5.0 in March 2022.
                     
-5 번째 검색 내용 
+8 번째 검색 내용 
 제목 : 
 
                             Java News Roundup: Helidon 4.0-Alpha4, Spring, GlassFish, Quarkus, Ktor, (Re)Introducing RIFE2
@@ -43,7 +70,7 @@
 설명 : 
                          This week's Java roundup for January 30th, 2023, features news from JDK 20, JDK 21, Spring Tools 4.17.2, GlassFish 7.0.1, Quarkus 2.16.1, Helidon 4.0.0.-ALPHA4, Hibernate Search 6.1.8 and 5.11.12, PrimeFaces 11.0.10 And 12.0.3, Apache Commons CSV 1.10.0, JHipster Lite 0.27.0, Ktor 2.2.3 and (re)introducing RIFE2 1.0.
                     
-6 번째 검색 내용 
+9 번째 검색 내용 
 제목 : 
 
                             Octosuite: a GitHub Open Source Intelligence Framework
@@ -52,7 +79,7 @@
 설명 : 
                          Octosuite, an open-source intelligence (OSINT) framework, recently released its latest version 3.1.0. Octosuite provides a wide range of commands to investigate publicly-visible GitHub accounts and repositories through GitHub’s Public APIs. Written in Python, Octosuite provides a secure and user-friendly interface to easily search and explore data related to a repository, organization, or user.
                     
-7 번째 검색 내용 
+10 번째 검색 내용 
 제목 : 
 
                             Go 1.20 Improves Compiler Performance and Extends Coverage Support
@@ -61,7 +88,7 @@
 설명 : 
                          The latest release of the Go language, Go 1.20, improves compiler performance, bringing it back in line with Go 1.17. Additionally, the language now supports conversion from slice to arrays and revises struct comparison.
                     
-8 번째 검색 내용 
+11 번째 검색 내용 
 제목 : 
 
                             Infrastructure from Code: the New Wave of Cloud Infrastructure Management
@@ -70,7 +97,7 @@
 설명 : 
                          Infrastructure-from-Code (IfC) is an approach that creates, configures, and manages cloud resources understanding a software application's source code, without explicit description.
                     
-9 번째 검색 내용 
+12 번째 검색 내용 
 제목 : 
 
                             Permit Elements Enables Low-Code User-Managed Access Control
@@ -79,16 +106,16 @@
 설명 : 
                          Permit.io has released Permit Elements, a low-code end-user authentication interface builder. Permit Elements allows developers to embed interfaces enabling their end-users to decide which roles have permission to perform actions. At the time of release, there are elements available for user management and audit logs.
                     
-10 번째 검색 내용 
+13 번째 검색 내용 
 제목 : 
 
                             Azure Now Supports Database as a Service Couchbase Capella
                         
 주소 : https://www.infoq.com/news/2023/02/capella-support-azure-dbaas/
 설명 : 
-                         A cloud database platform company Couchbase recently announced that its Capella database as a Service (DBaaS) offering as a fully managed service is available on Azure.
+                         A cloud database platform company Couchbase recently announced that its Capella database as a Service (DBaaS) offering as a fully-managed service is available on Azure.
                     
-11 번째 검색 내용 
+14 번째 검색 내용 
 제목 : 
 
                             AWS Patches Undocumented APIs Bypassing CloudTrail Event Logging
@@ -97,7 +124,7 @@
 설명 : 
                          AWS recently patched undocumented IAM APIs that bypassed CloudTrail logging. The vulnerability allowed a malicious user to perform reconnaissance activities on IAM without recording events in CloudTrail or being detected by Amazon GuardDuty.
                     
-12 번째 검색 내용 
+15 번째 검색 내용 
 제목 : 
 
                             Terraform Cloud Adds Dynamic Provider Credentials and OPA Support
@@ -105,31 +132,4 @@
 주소 : https://www.infoq.com/news/2023/02/terraform-cloud-dynamic-creds/
 설명 : 
                          Hashicorp has released several new features into Terraform Cloud, their managed service offering for Terraform. The new features include dynamic provider credentials, native OPA support, and the addition of projects as an organization tool.
-                    
-13 번째 검색 내용 
-제목 : 
-
-                            .NET Community Toolkit 8.1 Released
-                        
-주소 : https://www.infoq.com/news/2023/02/dot-net-community-toolkit-810/
-설명 : 
-                         Recently Microsoft released .NET Community Toolkit 8.1. This new release contains performance improvements to the MVVW Toolkit source generators. There are also new features such as custom attributes for ObservableProperty, MVVM Toolkit analyzers, IObservable<T> messenger extensions and support for .NET 7 and C# 11.
-                    
-14 번째 검색 내용 
-제목 : 
-
-                            Windows Terminal 1.17 Preview Released
-                        
-주소 : https://www.infoq.com/news/2023/02/windows-terminal-1-17/
-설명 : 
-                         Windows Terminal preview version 1.17, released on January 24th, brings various features and bug-fixes to Microsoft’s own open source terminal application. Notable features include Dropdown Menu Customization, Process Restart support and an improved Color Schemes Page.
-                    
-15 번째 검색 내용 
-제목 : 
-
-                            Kubefirst Platform Improves Local Experience and Password Management
-                        
-주소 : https://www.infoq.com/news/2023/02/kubefirst-local-experience/
-설명 : 
-                         Kubefirst, an open-source infrastructure application platform, recently released version 1.11. This version adds improved support for their local installation including a new local DNS implementation, enables Traefik ingress controller for local installs, and adds trusted local TLS certificates.
                     
