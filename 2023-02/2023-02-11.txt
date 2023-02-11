@@ -1,13 +1,22 @@
 1 번째 검색 내용 
 제목 : 
 
+                            Service Mesh Kuma Improves Policy Handling and Debugging Experience
+                        
+주소 : https://www.infoq.com/news/2023/02/kuma-policy-handling/
+설명 : 
+                         Kuma, a service mesh technology, released version 2.1 with improved policies and an updated UI. The improved policies build upon the 2.0 release and move the remaining policies over to the new targetRef system. The targetRef system provides an improved matching system for defining policies.
+                    
+2 번째 검색 내용 
+제목 : 
+
                             Azure Announces Native New Relic Service for Full-Stack Observability
                         
 주소 : https://www.infoq.com/news/2023/02/azure-native-new-relic-service/
 설명 : 
                          Azure recently announced a native New Relic service for full-stack observability. The performance monitoring service allows monitoring and troubleshooting of cloud applications in real-time, providing metrics, traces, and logs.
                     
-2 번째 검색 내용 
+3 번째 검색 내용 
 제목 : 
 
                             Grafana Tempo Introduces New Query Language and Support for Apache Parquet
@@ -16,7 +25,7 @@
 설명 : 
                          Grafana has released Grafana Tempo 2.0 which introduces the new TraceQL query language and support for the Apache Parquet format. Grafana Tempo is an open-source tracing backend that works with object storage. The new TraceQL query language works with the Apache Parquet format to provide improved search times and queries aligned to traces.
                     
-3 번째 검색 내용 
+4 번째 검색 내용 
 제목 : 
 
                             How to Analyze Behavior and Influence Behavior Change with the ABC Model
@@ -25,7 +34,7 @@
 설명 : 
                          Having an agile mindset is not enough; we need to change behavior for adopting agile. With the Antecedent Behavior Consequence (ABC) Model, you can analyze the behavior, figure out what triggers it, and think about strategies to drive behavioral change.
                     
-4 번째 검색 내용 
+5 번째 검색 내용 
 제목 : 
 
                             Microsoft’s Fully-Managed Azure Load Testing Service Now Generally Available
@@ -34,7 +43,7 @@
 설명 : 
                          Microsoft recently announced the general availability of Azure Load Testing, a fully-managed load-testing service allowing customers to test the resiliency of their applications regardless of where they are hosted.
                     
-5 번째 검색 내용 
+6 번째 검색 내용 
 제목 : 
 
                             The Ten Year Journey of Facebook's App for iOS
@@ -43,7 +52,7 @@
 설명 : 
                          Facebook rewrote its iOS app in 2012 to take advantage of native performance and improve reliability and usability over its previous HTML5-based cross-platform implementation. In the ten years since the rewrite, the app codebase has evolved non-stop to account for the introduction of new features, to circumvent SDK limitations, and to keep up with changes in the iOS platform.
                     
-6 번째 검색 내용 
+7 번째 검색 내용 
 제목 : 
 
                             Azure Durable Functions Now Supports Storage Backends Microsoft Netherite and MSSQL
@@ -52,7 +61,7 @@
 설명 : 
                          Microsoft recently announced that Azure Durable Functions support for the new storage providers, Netherite and Microsoft SQL Server (MSSQL), is generally available.
                     
-7 번째 검색 내용 
+8 번째 검색 내용 
 제목 : 
 
                             OpenAI Releases an Advanced Classifier to Distinguish AI and Human Writing Styles
@@ -61,7 +70,7 @@
 설명 : 
                          OpenAI is releasing a trained classifier to distinguish between text written by a human and text written by AIs. This classifier comes from a growing need for technologies that can help discern between material authored by people and that written by machines.
                     
-8 번째 검색 내용 
+9 번째 검색 내용 
 제목 : 
 
                             Software Security Report Finds JavaScript Applications Have Fewer Flaws Than Java and .NET
@@ -70,7 +79,7 @@
 설명 : 
                          Veracode's State of Software Security report for 2023 found that there is a 27% chance within a given month that security flaws will be introduced into an application. The report also found that JavaScript applications on average have fewer flaws and faster flaw resolution than Java and .NET applications.
                     
-9 번째 검색 내용 
+10 번째 검색 내용 
 제목 : 
 
                             Microsoft OpenJDK Introduces Experimental Feature for Improving Escape Analysis
@@ -79,7 +88,7 @@
 설명 : 
                          Microsoft announced an experimental feature, still under development, which improves the performance of escape analysis by increasing the opportunities for scalar replacement. Currently the feature is only available for Microsoft Build of OpenJDK, but might become part of OpenJDK in the future.
                     
-10 번째 검색 내용 
+11 번째 검색 내용 
 제목 : 
 
                             gopaddle, a Low Code Internal Developer Platform for MicroK8s and Edge
@@ -88,7 +97,7 @@
 설명 : 
                          gopaddle is a low-code internal developer platform (IDP) for MicroK8s edge cloud. It aims to simplify and accelerate the development of edge cloud applications by providing a web-based interface to Kubernetes developers for creating, deploying, and managing applications.
                     
-11 번째 검색 내용 
+12 번째 검색 내용 
 제목 : 
 
                             Microsoft Open Sources AI Prompt Optimization Toolkit LMOps
@@ -97,7 +106,7 @@
 설명 : 
                          Microsoft Research open sourced LMOps, a collection of tools for improving text prompts used as input to generative AI models. The toolkit includes Promptist, which optimizes a user's text input for text-to-image generation, and Structured Prompting, a technique for including more examples in a few-shot learning prompt for text generation.
                     
-12 번째 검색 내용 
+13 번째 검색 내용 
 제목 : 
 
                             VMware Tanzu Application Platform Adds Buildpack Improvements and Application Limits
@@ -106,7 +115,7 @@
 설명 : 
                          VMware released a number of new features for the Tanzu Application Platform and the Tanzu Application Service. Tanzu Application Platform provides a multi-cloud platform that runs on Kubernetes. Tanzu Application Service is a delivery and operations platform. The features include buildpack improvements, API maturity scoring, services to prevent the impact of noisy neighbors, and shared routes.
                     
-13 번째 검색 내용 
+14 번째 검색 내용 
 제목 : 
 
                             JobRunr, the Java Scheduler Library, Releases Version 6.0
@@ -115,7 +124,7 @@
 설명 : 
                          JobRunr, a Java library designed to handle background tasks in a reliable manner within a JVM instance, released the new version 6.0 after a year of development since the release of version 5.0 in March 2022.
                     
-14 번째 검색 내용 
+15 번째 검색 내용 
 제목 : 
 
                             Java News Roundup: Helidon 4.0-Alpha4, Spring, GlassFish, Quarkus, Ktor, (Re)Introducing RIFE2
@@ -123,13 +132,4 @@
 주소 : https://www.infoq.com/news/2023/02/java-news-roundup-jan30-2023/
 설명 : 
                          This week's Java roundup for January 30th, 2023, features news from JDK 20, JDK 21, Spring Tools 4.17.2, GlassFish 7.0.1, Quarkus 2.16.1, Helidon 4.0.0.-ALPHA4, Hibernate Search 6.1.8 and 5.11.12, PrimeFaces 11.0.10 and 12.0.3, Apache Commons CSV 1.10.0, JHipster Lite 0.27.0, Ktor 2.2.3 and (re)introducing RIFE2 1.0.
-                    
-15 번째 검색 내용 
-제목 : 
-
-                            Octosuite: a GitHub Open Source Intelligence Framework
-                        
-주소 : https://www.infoq.com/news/2023/02/octosuite-github-osint-framework/
-설명 : 
-                         Octosuite, an open-source intelligence (OSINT) framework, recently released its latest version 3.1.0. Octosuite provides a wide range of commands to investigate publicly-visible GitHub accounts and repositories through GitHub’s Public APIs. Written in Python, Octosuite provides a secure and user-friendly interface to easily search and explore data related to a repository, organization, or user.
                     
