@@ -1,0 +1,135 @@
+1 번째 검색 내용 
+제목 : 
+
+                            Malicious PyPI Package Removes netstat, Tampers with SSH Config
+                        
+주소 : https://www.infoq.com/news/2023/02/malicious-pypi-rat-mutants/
+설명 : 
+                         A recent report by Sonatype security researcher Ax Sharma highlights newly discovered malicious packages on the PyPI registry, including aptx, which can install the Meterpreter trojan disguised as pip, delete the netstat system utility, and tamper with SSH authorized_keys file.
+                    
+2 번째 검색 내용 
+제목 : 
+
+                            Farewell to Subversion: GitHub Sunsets Support after 13 Years
+                        
+주소 : https://www.infoq.com/news/2023/02/github-subversion-svn/
+설명 : 
+                         Next January GitHub will remove Subversion support from GitHub.com, with GitHub Enterprise Server following soon after. Introduced in 2010 to provide developers with a path to Git, the SVN endpoint now receives only 0.02% of the requests to the source control service.
+                    
+3 번째 검색 내용 
+제목 : 
+
+                            Adding Video in .NET MAUI Apps with the New MediaElement
+                        
+주소 : https://www.infoq.com/news/2023/02/dot-net-maui-mediaelement/
+설명 : 
+                         Microsoft recently released another control for the .NET MAUI platform: MediaElement. This is one of the components of the .NET MAUI Community Toolkit that allows audio and video playback within .NET MAUI applications.
+                    
+4 번째 검색 내용 
+제목 : 
+
+                            Service Mesh Kuma Improves Policy Handling and Debugging Experience
+                        
+주소 : https://www.infoq.com/news/2023/02/kuma-policy-handling/
+설명 : 
+                         Kuma, a service mesh technology, released version 2.1 with improved policies and an updated UI. The improved policies build upon the 2.0 release and move the remaining policies over to the new targetRef system. The targetRef system provides an improved matching system for defining policies.
+                    
+5 번째 검색 내용 
+제목 : 
+
+                            Azure Announces Native New Relic Service for Full-Stack Observability
+                        
+주소 : https://www.infoq.com/news/2023/02/azure-native-new-relic-service/
+설명 : 
+                         Azure recently announced a native New Relic service for full-stack observability. The performance monitoring service allows monitoring and troubleshooting of cloud applications in real-time, providing metrics, traces, and logs.
+                    
+6 번째 검색 내용 
+제목 : 
+
+                            Grafana Tempo Introduces New Query Language and Support for Apache Parquet
+                        
+주소 : https://www.infoq.com/news/2023/02/tempo-traceql-parquet/
+설명 : 
+                         Grafana has released Grafana Tempo 2.0 which introduces the new TraceQL query language and support for the Apache Parquet format. Grafana Tempo is an open-source tracing backend that works with object storage. The new TraceQL query language works with the Apache Parquet format to provide improved search times and queries aligned to traces.
+                    
+7 번째 검색 내용 
+제목 : 
+
+                            How to Analyze Behavior and Influence Behavior Change with the ABC Model
+                        
+주소 : https://www.infoq.com/news/2023/02/analyze-influence-behavior/
+설명 : 
+                         Having an agile mindset is not enough; we need to change behavior for adopting agile. With the Antecedent Behavior Consequence (ABC) Model, you can analyze the behavior, figure out what triggers it, and think about strategies to drive behavioral change.
+                    
+8 번째 검색 내용 
+제목 : 
+
+                            Microsoft’s Fully-Managed Azure Load Testing Service Now Generally Available
+                        
+주소 : https://www.infoq.com/news/2023/02/azure-load-testing-service-ga/
+설명 : 
+                         Microsoft recently announced the general availability of Azure Load Testing, a fully-managed load-testing service allowing customers to test the resiliency of their applications regardless of where they are hosted.
+                    
+9 번째 검색 내용 
+제목 : 
+
+                            The Ten Year Journey of Facebook's App for iOS
+                        
+주소 : https://www.infoq.com/news/2023/02/Facebook-app-ten-years/
+설명 : 
+                         Facebook rewrote its iOS app in 2012 to take advantage of native performance and improve reliability and usability over its previous HTML5-based cross-platform implementation. In the ten years since the rewrite, the app codebase has evolved non-stop to account for the introduction of new features, to circumvent SDK limitations, and to keep up with changes in the iOS platform.
+                    
+10 번째 검색 내용 
+제목 : 
+
+                            Azure Durable Functions Now Supports Storage Backends Microsoft Netherite and MSSQL
+                        
+주소 : https://www.infoq.com/news/2023/02/durable-functions-netherite-ga/
+설명 : 
+                         Microsoft recently announced that Azure Durable Functions support for the new storage providers, Netherite and Microsoft SQL Server (MSSQL), is generally available.
+                    
+11 번째 검색 내용 
+제목 : 
+
+                            OpenAI Releases an Advanced Classifier to Distinguish AI and Human Writing Styles
+                        
+주소 : https://www.infoq.com/news/2023/02/openai-chatgpt-writing/
+설명 : 
+                         OpenAI is releasing a trained classifier to distinguish between text written by a human and text written by AIs. This classifier comes from a growing need for technologies that can help discern between material authored by people and that written by machines.
+                    
+12 번째 검색 내용 
+제목 : 
+
+                            Software Security Report Finds JavaScript Applications Have Fewer Flaws Than Java and .NET
+                        
+주소 : https://www.infoq.com/news/2023/02/veracode-software-security/
+설명 : 
+                         Veracode's State of Software Security report for 2023 found that there is a 27% chance within a given month that security flaws will be introduced into an application. The report also found that JavaScript applications on average have fewer flaws and faster flaw resolution than Java and .NET applications.
+                    
+13 번째 검색 내용 
+제목 : 
+
+                            Microsoft OpenJDK Introduces Experimental Feature for Improving Escape Analysis
+                        
+주소 : https://www.infoq.com/news/2023/02/microsoft-openjdk-feature/
+설명 : 
+                         Microsoft announced an experimental feature, still under development, which improves the performance of escape analysis by increasing the opportunities for scalar replacement. Currently the feature is only available for Microsoft Build of OpenJDK, but might become part of OpenJDK in the future.
+                    
+14 번째 검색 내용 
+제목 : 
+
+                            gopaddle, a Low Code Internal Developer Platform for MicroK8s and Edge
+                        
+주소 : https://www.infoq.com/news/2023/02/gopaddle-ido-microk8s-edge/
+설명 : 
+                         gopaddle is a low-code internal developer platform (IDP) for MicroK8s edge cloud. It aims to simplify and accelerate the development of edge cloud applications by providing a web-based interface to Kubernetes developers for creating, deploying, and managing applications.
+                    
+15 번째 검색 내용 
+제목 : 
+
+                            Microsoft Open Sources AI Prompt Optimization Toolkit LMOps
+                        
+주소 : https://www.infoq.com/news/2023/02/microsoft-lmops-tools/
+설명 : 
+                         Microsoft Research open sourced LMOps, a collection of tools for improving text prompts used as input to generative AI models. The toolkit includes Promptist, which optimizes a user's text input for text-to-image generation, and Structured Prompting, a technique for including more examples in a few-shot learning prompt for text generation.
+                    
