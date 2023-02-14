@@ -1,13 +1,49 @@
 1 번째 검색 내용 
 제목 : 
 
+                            Influxdata Releases Its New Database Engine in InfluxDB Cloud
+                        
+주소 : https://www.infoq.com/news/2023/02/influxdb-new-engine/
+설명 : 
+                         InfluxData releases in general availability the new version of its database engine called Influx IOx. It is now available to be used in InfluxDB Cloud.
+                    
+2 번째 검색 내용 
+제목 : 
+
+                            Software Supply Chain Framework OSC&R Created to Help Mitigate Security Threats
+                        
+주소 : https://www.infoq.com/news/2023/02/software-supply-chain-framework/
+설명 : 
+                         In collaboration with companies including Google, Microsoft, and GitLab, OX Security has released a security framework for assessing and evaluating software supply chain security risks. The Open Software Supply Chain Attack Reference (OSC&R) is a MITRE-like framework covering containers, open-source software, secrets hygiene, and CI/CD posture.
+                    
+3 번째 검색 내용 
+제목 : 
+
+                            Unsupervised Object Detection and Semantic Segmentation Using Deep Learning
+                        
+주소 : https://www.infoq.com/news/2023/02/unsupervised-object-detection/
+설명 : 
+                         Meta AI released CutLER, a state-of-the-art zero-shot unsupervised object detector which improves detection performance by over 2.7 times on 11 benchmark datasets for different domains like video frames, painting, sketches, etc. This model’s simplicity allows compatibility with different object-detection architectures across different domains.
+                    
+4 번째 검색 내용 
+제목 : 
+
+                            Java News Roundup: JDK 20 RC1, Open Liberty, Micronaut, Helidon, Hibernate, Groovy, Grails
+                        
+주소 : https://www.infoq.com/news/2023/02/java-news-roundup-feb06-2023/
+설명 : 
+                         This week's Java roundup for February 6th, 2023 features news from OpenJDK, JDK 20, JDK 21, Open Liberty 23.0.0.1 and 23.0.0.2-beta, Helidon 3.1.1, Quarkus 2.16.2 and 3.0.0.Alpha4, Micronaut 3.8.4, Hibernate ORM 6.2, 6.1.7 and 5.6.15, Grails 5.3.0, Apache Groovy 4.0.9 and 3.0.15, Apache Camel 3.20.2, Eclipse Vert.x 4.3.8, Gradle 8.0.0-RC5, Jarviz 0.2.0, Kotlin K2 compiler and Jfokus conference.
+                    
+5 번째 검색 내용 
+제목 : 
+
                             Containerd Adds Support for a New Container Type: Wasm Containers
                         
 주소 : https://www.infoq.com/news/2023/02/containerd-wasi/
 설명 : 
                          The runwasi project, written in Rust, became an official contained project, which enables containerd to support a new container type: Wasm (or WebAssembly) containers.
                     
-2 번째 검색 내용 
+6 번째 검색 내용 
 제목 : 
 
                             CloudNativeSecurityCon 2023: Identifying Suspicious Behaviors with eBPF
@@ -16,7 +52,7 @@
 설명 : 
                          At CloudNativeSecrityCon 2023 in Seattle, WA, Jeremy Cowan and Wasiq Muhammad, both engineers at AWS, presented on identifying suspicious behaviors with eBPP, its use cases, and how AWS is using it for threat detection and protection.
                     
-3 번째 검색 내용 
+7 번째 검색 내용 
 제목 : 
 
                             Malicious PyPI Package Removes netstat, Tampers with SSH Config
@@ -25,7 +61,7 @@
 설명 : 
                          A recent report by Sonatype security researcher Ax Sharma highlights newly discovered malicious packages on the PyPI registry, including aptx, which can install the Meterpreter trojan disguised as pip, delete the netstat system utility, and tamper with SSH authorized_keys file.
                     
-4 번째 검색 내용 
+8 번째 검색 내용 
 제목 : 
 
                             Farewell to Subversion: GitHub Sunsets Support after 13 Years
@@ -34,7 +70,7 @@
 설명 : 
                          Next January GitHub will remove Subversion support from GitHub.com, with GitHub Enterprise Server following soon after. Introduced in 2010 to provide developers with a path to Git, the SVN endpoint now receives only 0.02% of the requests to the source control service.
                     
-5 번째 검색 내용 
+9 번째 검색 내용 
 제목 : 
 
                             Adding Video in .NET MAUI Apps with the New MediaElement
@@ -43,7 +79,7 @@
 설명 : 
                          Microsoft recently released another control for the .NET MAUI platform: MediaElement. This is one of the components of the .NET MAUI Community Toolkit that allows audio and video playback within .NET MAUI applications.
                     
-6 번째 검색 내용 
+10 번째 검색 내용 
 제목 : 
 
                             Service Mesh Kuma Improves Policy Handling and Debugging Experience
@@ -52,7 +88,7 @@
 설명 : 
                          Kuma, a service mesh technology, released version 2.1 with improved policies and an updated UI. The improved policies build upon the 2.0 release and move the remaining policies over to the new targetRef system. The targetRef system provides an improved matching system for defining policies.
                     
-7 번째 검색 내용 
+11 번째 검색 내용 
 제목 : 
 
                             Azure Announces Native New Relic Service for Full-Stack Observability
@@ -61,7 +97,7 @@
 설명 : 
                          Azure recently announced a native New Relic service for full-stack observability. The performance monitoring service allows monitoring and troubleshooting of cloud applications in real-time, providing metrics, traces, and logs.
                     
-8 번째 검색 내용 
+12 번째 검색 내용 
 제목 : 
 
                             Grafana Tempo Introduces New Query Language and Support for Apache Parquet
@@ -70,7 +106,7 @@
 설명 : 
                          Grafana has released Grafana Tempo 2.0 which introduces the new TraceQL query language and support for the Apache Parquet format. Grafana Tempo is an open-source tracing backend that works with object storage. The new TraceQL query language works with the Apache Parquet format to provide improved search times and queries aligned to traces.
                     
-9 번째 검색 내용 
+13 번째 검색 내용 
 제목 : 
 
                             How to Analyze Behavior and Influence Behavior Change with the ABC Model
@@ -79,7 +115,7 @@
 설명 : 
                          Having an agile mindset is not enough; we need to change behavior for adopting agile. With the Antecedent Behavior Consequence (ABC) Model, you can analyze the behavior, figure out what triggers it, and think about strategies to drive behavioral change.
                     
-10 번째 검색 내용 
+14 번째 검색 내용 
 제목 : 
 
                             Microsoft’s Fully-Managed Azure Load Testing Service Now Generally Available
@@ -88,7 +124,7 @@
 설명 : 
                          Microsoft recently announced the general availability of Azure Load Testing, a fully-managed load-testing service allowing customers to test the resiliency of their applications regardless of where they are hosted.
                     
-11 번째 검색 내용 
+15 번째 검색 내용 
 제목 : 
 
                             The Ten Year Journey of Facebook's App for iOS
@@ -96,40 +132,4 @@
 주소 : https://www.infoq.com/news/2023/02/Facebook-app-ten-years/
 설명 : 
                          Facebook rewrote its iOS app in 2012 to take advantage of native performance and improve reliability and usability over its previous HTML5-based cross-platform implementation. In the ten years since the rewrite, the app codebase has evolved non-stop to account for the introduction of new features, to circumvent SDK limitations, and to keep up with changes in the iOS platform.
-                    
-12 번째 검색 내용 
-제목 : 
-
-                            Azure Durable Functions Now Supports Storage Backends Microsoft Netherite and MSSQL
-                        
-주소 : https://www.infoq.com/news/2023/02/durable-functions-netherite-ga/
-설명 : 
-                         Microsoft recently announced that Azure Durable Functions support for the new storage providers, Netherite and Microsoft SQL Server (MSSQL), is generally available.
-                    
-13 번째 검색 내용 
-제목 : 
-
-                            OpenAI Releases an Advanced Classifier to Distinguish AI and Human Writing Styles
-                        
-주소 : https://www.infoq.com/news/2023/02/openai-chatgpt-writing/
-설명 : 
-                         OpenAI is releasing a trained classifier to distinguish between text written by a human and text written by AIs. This classifier comes from a growing need for technologies that can help discern between material authored by people and that written by machines.
-                    
-14 번째 검색 내용 
-제목 : 
-
-                            Software Security Report Finds JavaScript Applications Have Fewer Flaws Than Java and .NET
-                        
-주소 : https://www.infoq.com/news/2023/02/veracode-software-security/
-설명 : 
-                         Veracode's State of Software Security report for 2023 found that there is a 27% chance within a given month that security flaws will be introduced into an application. The report also found that JavaScript applications on average have fewer flaws and faster flaw resolution than Java and .NET applications.
-                    
-15 번째 검색 내용 
-제목 : 
-
-                            Microsoft OpenJDK Introduces Experimental Feature for Improving Escape Analysis
-                        
-주소 : https://www.infoq.com/news/2023/02/microsoft-openjdk-feature/
-설명 : 
-                         Microsoft announced an experimental feature, still under development, which improves the performance of escape analysis by increasing the opportunities for scalar replacement. Currently the feature is only available for Microsoft Build of OpenJDK, but might become part of OpenJDK in the future.
                     
