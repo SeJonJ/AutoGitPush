@@ -1,13 +1,22 @@
 1 번째 검색 내용 
 제목 : 
 
+                            AWS Creates New Policy-Based Access Control Language Cedar
+                        
+주소 : https://www.infoq.com/news/2023/02/aws-policy-language-cedar/
+설명 : 
+                         AWS has created a new language for defining access permissions using policies called Cedar. Cedar is currently used within Amazon Verified Permissions and AWS Verified Access. Created by the AWS Automated Reasoning Group, Cedar is designed to be agnostic of AWS and simple to understand the effects of policies.
+                    
+2 번째 검색 내용 
+제목 : 
+
                             GitHub Enhances CodeQL, Extends Language Support, Available Queries, and More
                         
 주소 : https://www.infoq.com/news/2023/02/GitHub-extends-codeql/
 설명 : 
                          After adding support for Ruby at GitHub Universe 2022, CodeQL introduced Kotlin support in beta. Additionally, support for other languages has been extended to include more recent versions. GitHub has also extended available queries to fully cover several industry-wide vulnerability directories, and improved the CodeQL ecosystem.
                     
-2 번째 검색 내용 
+3 번째 검색 내용 
 제목 : 
 
                             AWS Publishes Reference Architecture and Implementations for Deployment Pipelines
@@ -16,7 +25,7 @@
 설명 : 
                          AWS recently released a reference architecture and a set of reference implementations for deployment pipelines. The recommended architectural patterns are based on best practices and lessons collected at Amazon and customer projects.
                     
-3 번째 검색 내용 
+4 번째 검색 내용 
 제목 : 
 
                             Visual Studio 2022 17.5 Preview 3 Build Acceleration
@@ -25,7 +34,7 @@
 설명 : 
                          Visual Studio 2022 17.5 Preview 3, released January 18th, brings the new build acceleration opt-in feature to Visual Studio. Build times are improved for all SDK-style projects. Larger projects in particular will see greater improvements in build times. Build acceleration works by avoiding excess calls to MSBuild when building a dependent project.
                     
-4 번째 검색 내용 
+5 번째 검색 내용 
 제목 : 
 
                             HashiCorp Boundary Adds Multi-Hop Sessions and Credential Templating
@@ -34,7 +43,7 @@
 설명 : 
                          HashiCorp has released version 0.12 of Boundary, their open-source identity-based access management service for infrastructure. This release introduces support for multi-hop sessions removing the need to expose Boundary workers running on private networks. Additional improvements include support for credential injection via Vault, assigning network addresses on targets, and credential templating.
                     
-5 번째 검색 내용 
+6 번째 검색 내용 
 제목 : 
 
                             Sonatype BOM Doctor Evaluates and Helps Patch Java Software Bills of Materials
@@ -43,7 +52,7 @@
 설명 : 
                          BOM Doctor is a free, GitHub-hosted tool created by Sonatype to scan software bills of materials (SBOMs) and identify vulnerabilities and legal issues.
                     
-6 번째 검색 내용 
+7 번째 검색 내용 
 제목 : 
 
                             MariaDB 11.0 Brings a New Optimizer Cost Model and More
@@ -52,7 +61,7 @@
 설명 : 
                          After 10 years since the last release, MariaDB Server 11.0 has been released, bringing a new optimizer cost model which aims to predict more accurately the actual cost of each query execution plan, removed InnoDB change buffer, and so on.
                     
-7 번째 검색 내용 
+8 번째 검색 내용 
 제목 : 
 
                             Sustainability for Development and Operations with DevSusOps
@@ -61,7 +70,7 @@
 설명 : 
                          For a sustainability transformation, a business has to figure out how to measure its carbon footprint, come up with a plan to change the way it powers everything, and change the products they’re making, and even the markets that they operate in. Adrian Cockcroft spoke about sustainability in development and operations at QCon San Francisco 2022.
                     
-8 번째 검색 내용 
+9 번째 검색 내용 
 제목 : 
 
                             Microsoft Joins the FinOps Foundation as a Premier Member
@@ -70,7 +79,7 @@
 설명 : 
                          Microsoft has officially joined the FinOps Foundation, a non-profit organization that promotes financial management in cloud technology.
                     
-9 번째 검색 내용 
+10 번째 검색 내용 
 제목 : 
 
                             New CloudWatch Metrics for AWS Lambda Asynchronous Invocations
@@ -79,7 +88,7 @@
 설명 : 
                          AWS recently added three new Amazon CloudWatch metrics for AWS Lambda: AsyncEventsReceived, AsyncEventAge, and AsyncEventsDropped, to monitor the performance of asynchronous event processing.
                     
-10 번째 검색 내용 
+11 번째 검색 내용 
 제목 : 
 
                             Microsoft Quietly Updates .NET Language Strategy
@@ -88,7 +97,7 @@
 설명 : 
                          On February 6th 2023, Kathleen Dollard, principal program manager on .NET team at Microsoft, posted an update of the .NET language strategy. The new document is a continuation of the same ideas from the previous one, written in 2017, where C# and F# are the evolving languages and VB.NET is a niche language.
                     
-11 번째 검색 내용 
+12 번째 검색 내용 
 제목 : 
 
                             Faster Startup Time and Lower Memory Usage: New CRT HTTP Client in AWS SDK for Java
@@ -97,7 +106,7 @@
 설명 : 
                          AWS recently announced the general availability of the Common Runtime (CRT) HTTP Client in the AWS SDK for Java 2.x. The new asynchronous client provides faster SDK startup time and a smaller memory footprint improving Lambda serverless workloads.
                     
-12 번째 검색 내용 
+13 번째 검색 내용 
 제목 : 
 
                             GitLab Improves Merge Requests, GitOps Functionality and More
@@ -106,7 +115,7 @@
 설명 : 
                          GitLab has released further point versions of their DevOps software package. Versions 15.3 through 15.9 been released on a monthly cadence. GitLab's first machine-learning powered feature improves merge request approvals, with other significant improvements and fixes ranging from GitOps enhancements, through improvements to IdP, to new functionality for DAST.
                     
-13 번째 검색 내용 
+14 번째 검색 내용 
 제목 : 
 
                             Platform Engineering Challenges: Small Teams, Build Versus Buy, and Building the Wrong Thing
@@ -115,7 +124,7 @@
 설명 : 
                          The team at Syntasso wrote a series of blog posts outlining twelve challenges that platform teams face. These challenges include having a small platform team support a large organization, failing to understand the needs of the platform users, and struggling with the build-vs-buy argument.
                     
-14 번째 검색 내용 
+15 번째 검색 내용 
 제목 : 
 
                             Android 14 Brings Partial Support for OpenJDK 17, Improved Privacy and Security, and More
@@ -123,13 +132,4 @@
 주소 : https://www.infoq.com/news/2023/02/android-14-preview/
 설명 : 
                          Google has announced the first Android 14 beta, which provides support for over 300 OpenJDK 17 classes. Additionally, it implements a number of features aimed to keep malicious apps at bay and extends support for foldable form factors, battery usage optimization, and more.
-                    
-15 번째 검색 내용 
-제목 : 
-
-                            Carnegie Mellon Researchers Develop AI Model for Human Detection via WiFi
-                        
-주소 : https://www.infoq.com/news/2023/02/human-detection-wifi/
-설명 : 
-                         Researchers from the Human Sensing Laboratory at Carnegie Mellon University (CMU) have published a paper on DensePose From WiFi, an AI model which can detect the pose of multiple humans in a room using only the signals from WiFi transmitters. In experiments on real-world data, the algorithm achieves an average precision of 87.2 at the 50% IOU threshold.
                     
