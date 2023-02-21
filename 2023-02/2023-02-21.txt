@@ -1,0 +1,135 @@
+1 번째 검색 내용 
+제목 : 
+
+                            Java News Roundup: Gradle 8.0, Maven, Payara Platform, Piranha, Spring Framework, MyFaces, Piranha
+                        
+주소 : https://www.infoq.com/news/2023/02/java-news-roundup-feb13-2023/
+설명 : 
+                         This week's Java roundup for February 13th, 2023 features news from OpenJDK, JDK 20, JDK 21, Native Build Tools 0.9.20, Spring 6.0.5, Spring Cloud Data Flow 2.10.1, Quarkus 2.16.3, Payara Platform, Micronaut 3.8.5, Helidon 3.1.2, Vert.x 3.9.15, Hibernate Search 6.2.Alpha2, MyFaces 4.0-RC5, Grails 5.3.2, Reactor 2022.0.3, Metrics 1.11-M1 and Tracing 1.1-M1, Maven 3.9, Gradle 8.0 and Piranha 22.3.
+                    
+2 번째 검색 내용 
+제목 : 
+
+                            JetBrains Releases Rider 2023.1 EAP 4
+                        
+주소 : https://www.infoq.com/news/2023/02/jetbrains-rider-2023-eap-4/
+설명 : 
+                         JetBrains released Rider 2023.1 EAP 4 on February 12. The latest Early Access Program for Rider contains such features as the ability to debug startup code for WASM .NET applications, support for  Astro tool, full IDE zoom, a feature related to importing Angular templates, and support for TypeScript in Vue template expressions.
+                    
+3 번째 검색 내용 
+제목 : 
+
+                            Ably Terraform Provider Aims to Power Realtime Architectures Using Infrastructure as Code
+                        
+주소 : https://www.infoq.com/news/2023/02/ably-terraform-provider/
+설명 : 
+                         Developed by Ably in partnership with HashiCorp, the Ably Terraform Provider enables using Terraform, a popular open-source infrastructure as code (IaC) tool, to provision and manage Ably solutions programmatically.
+                    
+4 번째 검색 내용 
+제목 : 
+
+                            Amazon Releases Elastic Kubernetes Service for Snowball Edge
+                        
+주소 : https://www.infoq.com/news/2023/02/amazon-kubernetes-snow/
+설명 : 
+                         Amazon has released Amazon Elastic Kubernetes Service (EKS) Anywhere on Snow. This release automates the creation and management of EKS clusters on AWS Snowball Edge devices. These devices are able to run with or without an internet connection.
+                    
+5 번째 검색 내용 
+제목 : 
+
+                            OpenAI is Rolling Out ChatGPT Plus as a Premium Service
+                        
+주소 : https://www.infoq.com/news/2023/02/openai-chatgpt-plus/
+설명 : 
+                         OpenAI has announced the release of ChatGPT Plus, a premium version of its well-liked ChatGPT chatbot. The new service intends to give users a premium experience that includes ChatGPT access during peak hours, priority access to new features and upgrades, and quicker response times.
+                    
+6 번째 검색 내용 
+제목 : 
+
+                            CloudNativeSecurityCon 2023: How to Secure Software Supply Chain at Scale
+                        
+주소 : https://www.infoq.com/news/2023/02/secure-supply-chain/
+설명 : 
+                         At CloudNativeSecrityCon 2023 in Seattle, WA, Hamil Kadakia, and Yonghe Zhao, software engineers at Yahoo’s security team, presented on securing Software Supply Chain at Scale, and how to put together policies to safeguard against Supply Chain attacks.
+                    
+7 번째 검색 내용 
+제목 : 
+
+                            AWS Releases New Graviton3-Based General Purpose (m7g) and Memory-Optimized (r7g) EC2 Instances
+                        
+주소 : https://www.infoq.com/news/2023/02/aws-graviton3-m7g-r7g-instances/
+설명 : 
+                         Amazon Web Services (AWS) has announced the release of new Graviton3-based General Purpose (m7g) and Memory-Optimized (r7g) Amazon EC2 instances, providing customers with enhanced performance and cost savings.
+                    
+8 번째 검색 내용 
+제목 : 
+
+                            AWS Creates New Policy-Based Access Control Language Cedar
+                        
+주소 : https://www.infoq.com/news/2023/02/aws-policy-language-cedar/
+설명 : 
+                         AWS has created a new language for defining access permissions using policies called Cedar. Cedar is currently used within Amazon Verified Permissions and AWS Verified Access. Created by the AWS Automated Reasoning Group, Cedar is designed to be agnostic of AWS and simple to understand the effects of policies.
+                    
+9 번째 검색 내용 
+제목 : 
+
+                            GitHub Enhances CodeQL, Extends Language Support, Available Queries, and More
+                        
+주소 : https://www.infoq.com/news/2023/02/GitHub-extends-codeql/
+설명 : 
+                         After adding support for Ruby at GitHub Universe 2022, CodeQL introduced Kotlin support in beta. Additionally, support for other languages has been extended to include more recent versions. GitHub has also extended available queries to fully cover several industry-wide vulnerability directories, and improved the CodeQL ecosystem.
+                    
+10 번째 검색 내용 
+제목 : 
+
+                            AWS Publishes Reference Architecture and Implementations for Deployment Pipelines
+                        
+주소 : https://www.infoq.com/news/2023/02/aws-deployment-pipelines/
+설명 : 
+                         AWS recently released a reference architecture and a set of reference implementations for deployment pipelines. The recommended architectural patterns are based on best practices and lessons collected at Amazon and customer projects.
+                    
+11 번째 검색 내용 
+제목 : 
+
+                            Visual Studio 2022 17.5 Preview 3 Build Acceleration
+                        
+주소 : https://www.infoq.com/news/2023/02/visual-studio-build-acceleration/
+설명 : 
+                         Visual Studio 2022 17.5 Preview 3, released January 18th, brings the new build acceleration opt-in feature to Visual Studio. Build times are improved for all SDK-style projects. Larger projects in particular will see greater improvements in build times. Build acceleration works by avoiding excess calls to MSBuild when building a dependent project.
+                    
+12 번째 검색 내용 
+제목 : 
+
+                            HashiCorp Boundary Adds Multi-Hop Sessions and Credential Templating
+                        
+주소 : https://www.infoq.com/news/2023/02/boundary-multi-hop-sessions/
+설명 : 
+                         HashiCorp has released version 0.12 of Boundary, their open-source identity-based access management service for infrastructure. This release introduces support for multi-hop sessions removing the need to expose Boundary workers running on private networks. Additional improvements include support for credential injection via Vault, assigning network addresses on targets, and credential templating.
+                    
+13 번째 검색 내용 
+제목 : 
+
+                            Sonatype BOM Doctor Evaluates and Helps Patch Java Software Bills of Materials
+                        
+주소 : https://www.infoq.com/news/2023/02/sonatype-bom-doctor-tool/
+설명 : 
+                         BOM Doctor is a free, GitHub-hosted tool created by Sonatype to scan software bills of materials (SBOMs) and identify vulnerabilities and legal issues.
+                    
+14 번째 검색 내용 
+제목 : 
+
+                            MariaDB 11.0 Brings a New Optimizer Cost Model and More
+                        
+주소 : https://www.infoq.com/news/2023/02/mariadb-11-0/
+설명 : 
+                         After 10 years since the last release, MariaDB Server 11.0 has been released, bringing a new optimizer cost model which aims to predict more accurately the actual cost of each query execution plan, removed InnoDB change buffer, and so on.
+                    
+15 번째 검색 내용 
+제목 : 
+
+                            Sustainability for Development and Operations with DevSusOps
+                        
+주소 : https://www.infoq.com/news/2023/02/sustainability-develop-operation/
+설명 : 
+                         For a sustainability transformation, a business has to figure out how to measure its carbon footprint, come up with a plan to change the way it powers everything, and change the products they’re making, and even the markets that they operate in. Adrian Cockcroft spoke about sustainability in development and operations at QCon San Francisco 2022.
+                    
