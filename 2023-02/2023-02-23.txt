@@ -1,0 +1,135 @@
+1 번째 검색 내용 
+제목 : 
+
+                            Netflix Built a Scalable Annotation Service Using Cassandra, Elasticsearch and Iceberg
+                        
+주소 : https://www.infoq.com/news/2023/02/netflix-annotations-cassandra/
+설명 : 
+                         Netflix recently published how it built Marken, a scalable annotation service using Cassandra, ElasticSearch and Iceberg. Marken allows storing and querying annotations, or tags, on arbitrary entities. Users define versioned schemas for their annotations, which include out-of-the-box support for temporal and spatial objects.
+                    
+2 번째 검색 내용 
+제목 : 
+
+                            SapMachine Vitals Provides Operating System and JVM Statistics
+                        
+주소 : https://www.infoq.com/news/2023/02/sapmachine-vitals/
+설명 : 
+                         SapMachine Vitals provides a monitoring tool that keeps a condensed history of operating system and JVM statistics. The feature is always on and may be used to retrieve information such as heap usage, Metaspace size, container memory statistics and limits, the number of classes loaded and the amount of threads spawned.
+                    
+3 번째 검색 내용 
+제목 : 
+
+                            Jarviz Delivers Inspection and Insights to JAR Files
+                        
+주소 : https://www.infoq.com/news/2023/02/introducing-jarviz/
+설명 : 
+                         A new Java JAR inspection and insights tool, called Jarviz, helps developers find different bytecode versions in a JAR, querying it for attributes, services, and more. Sonatype statistics show that there are 517,231 unique artifacts on Maven Central. At the same time, a new version of Java is released by the OpenJDK community every six months. InfoQ spoke to Andres Almiray, creator of Jarviz.
+                    
+4 번째 검색 내용 
+제목 : 
+
+                            Version 0.34.0 of Falco, an Open Source Runtime Security Tool was Recently Released
+                        
+주소 : https://www.infoq.com/news/2023/02/falco-open-source-rt-security/
+설명 : 
+                         Falco, an open-source runtime security tool recently announced their latest release version 0.34.0. Highlights of the latest release include support for older RHEL distros, the ability to download and update Falco rules at runtime, and the experimental release of a modern eBPF probe.
+                    
+5 번째 검색 내용 
+제목 : 
+
+                            Windows Forms Binding Improvements in .NET 7 for MVVM Support
+                        
+주소 : https://www.infoq.com/news/2023/02/winforms-binding-mvvm-net-7/
+설명 : 
+                         .NET 7 framework includes command binding preview features that aim to modernise Windows Forms applications. These features introduce new properties that allow the UI controls to be bound to view models and commands, like other .NET UI frameworks such as MAUI.
+                    
+6 번째 검색 내용 
+제목 : 
+
+                            Stanford Researchers Develop Brain-Computer Interface for Speech Synthesis
+                        
+주소 : https://www.infoq.com/news/2023/02/stanford-brain-computer/
+설명 : 
+                         Researchers from Stanford University have developed a brain-computer interface (BCI) for synthesizing speech from signals captured in a patient's brain and processed by a recurrent neural network (RNN). The prototype system can decode speech at 62 words-per-minute, 3.4x faster than previous BCI methods.
+                    
+7 번째 검색 내용 
+제목 : 
+
+                            Microsoft Announces the Preview of Serverless for Hyperscale in Azure SQL Database
+                        
+주소 : https://www.infoq.com/news/2023/02/azure-sql-hyperscale-serverless/
+설명 : 
+                         Recently, Microsoft announced the preview of serverless for Hyperscale in the Azure SQL Database, which brings together the benefits of serverless and Hyperscale into a single database solution.
+                    
+8 번째 검색 내용 
+제목 : 
+
+                            MicroStream Becomes Eclipse Foundation Member
+                        
+주소 : https://www.infoq.com/news/2023/02/microstream-eclipse-foundation/
+설명 : 
+                         MicroStream offers Micro Persistence with a Java-native object graph persistence layer, allowing for low-latency and in-memory data processing. MicroStream announced their participation in the Eclipse Foundation as a Committer Member.
+                    
+9 번째 검색 내용 
+제목 : 
+
+                            Java News Roundup: Gradle 8.0, Maven, Payara Platform, Piranha, Spring Framework, MyFaces, Piranha
+                        
+주소 : https://www.infoq.com/news/2023/02/java-news-roundup-feb13-2023/
+설명 : 
+                         This week's Java roundup for February 13th, 2023 features news from OpenJDK, JDK 20, JDK 21, Native Build Tools 0.9.20, Spring 6.0.5, Spring Cloud Data Flow 2.10.1, Quarkus 2.16.3, Payara Platform, Micronaut 3.8.5, Helidon 3.1.2, Vert.x 3.9.15, Hibernate Search 6.2.Alpha2, MyFaces 4.0-RC5, Grails 5.3.2, Reactor 2022.0.3, Metrics 1.11-M1 and Tracing 1.1-M1, Maven 3.9, Gradle 8.0 and Piranha 22.3.
+                    
+10 번째 검색 내용 
+제목 : 
+
+                            JetBrains Releases Rider 2023.1 EAP 4
+                        
+주소 : https://www.infoq.com/news/2023/02/jetbrains-rider-2023-eap-4/
+설명 : 
+                         JetBrains released Rider 2023.1 EAP 4 on February 12. The latest Early Access Program for Rider contains such features as the ability to debug startup code for WASM .NET applications, support for  Astro tool, full IDE zoom, a feature related to importing Angular templates, and support for TypeScript in Vue template expressions.
+                    
+11 번째 검색 내용 
+제목 : 
+
+                            Ably Terraform Provider Aims to Power Realtime Architectures Using Infrastructure as Code
+                        
+주소 : https://www.infoq.com/news/2023/02/ably-terraform-provider/
+설명 : 
+                         Developed by Ably in partnership with HashiCorp, the Ably Terraform Provider enables using Terraform, a popular open-source infrastructure as code (IaC) tool, to provision and manage Ably solutions programmatically.
+                    
+12 번째 검색 내용 
+제목 : 
+
+                            Amazon Releases Elastic Kubernetes Service for Snowball Edge
+                        
+주소 : https://www.infoq.com/news/2023/02/amazon-kubernetes-snow/
+설명 : 
+                         Amazon has released Amazon Elastic Kubernetes Service (EKS) Anywhere on Snow. This release automates the creation and management of EKS clusters on AWS Snowball Edge devices. These devices are able to run with or without an internet connection.
+                    
+13 번째 검색 내용 
+제목 : 
+
+                            OpenAI is Rolling Out ChatGPT Plus as a Premium Service
+                        
+주소 : https://www.infoq.com/news/2023/02/openai-chatgpt-plus/
+설명 : 
+                         OpenAI has announced the release of ChatGPT Plus, a premium version of its well-liked ChatGPT chatbot. The new service intends to give users a premium experience that includes ChatGPT access during peak hours, priority access to new features and upgrades, and quicker response times.
+                    
+14 번째 검색 내용 
+제목 : 
+
+                            CloudNativeSecurityCon 2023: How to Secure Software Supply Chain at Scale
+                        
+주소 : https://www.infoq.com/news/2023/02/secure-supply-chain/
+설명 : 
+                         At CloudNativeSecrityCon 2023 in Seattle, WA, Hamil Kadakia, and Yonghe Zhao, software engineers at Yahoo’s security team, presented on securing Software Supply Chain at Scale, and how to put together policies to safeguard against Supply Chain attacks.
+                    
+15 번째 검색 내용 
+제목 : 
+
+                            AWS Releases New Graviton3-Based General Purpose (m7g) and Memory-Optimized (r7g) EC2 Instances
+                        
+주소 : https://www.infoq.com/news/2023/02/aws-graviton3-m7g-r7g-instances/
+설명 : 
+                         Amazon Web Services (AWS) has announced the release of new Graviton3-based General Purpose (m7g) and Memory-Optimized (r7g) Amazon EC2 instances, providing customers with enhanced performance and cost savings.
+                    
