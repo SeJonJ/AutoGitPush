@@ -1,0 +1,137 @@
+1 번째 검색 내용 
+제목 : 
+
+                            GitHub Enhanced Copilot with New AI Model and Security-Oriented Capabilities
+                        
+주소 : https://www.infoq.com/news/2023/02/github-enhanced-copilot-codex/
+설명 : 
+                         GitHub Copilot adopted a new AI model which is both faster and more accurate than the previous one, says GitHub. Additionally, GitHub has started using AI to detect vulnerabilities in Copilot suggestion by blocking insecure coding patterns in real-time.
+                    
+2 번째 검색 내용 
+제목 : 
+
+                            DeepMind Open-Sources AI Interpretability Research Tool Tracr
+                        
+주소 : https://www.infoq.com/news/2023/02/deepmind-tracr/
+설명 : 
+                         Researchers at DeepMind have open-sourced TRAnsformer Compiler for RASP (Tracr), a compiler that translates programs into neural network models. Tracr is intended for research in mechanistic interpretability of Transformer AI models such as GPT-3.
+                    
+3 번째 검색 내용 
+제목 : 
+
+                            Azure Application Gateway Now Supports mTLS and OCSP
+                        
+주소 : https://www.infoq.com/news/2023/02/azure-application-gateway-mtls/
+설명 : 
+                         Microsoft has announced that its Azure Application Gateway, a cloud-based solution that provides secure, scalable, and reliable access to web applications, now supports mutual Transport Layer Security (mTLS) and Online Certificate Status Protocol (OCSP).
+                    
+4 번째 검색 내용 
+제목 : 
+
+                            ASP.NET Core 8 Preview 1 Available
+                        
+주소 : https://www.infoq.com/news/2023/02/asp-net-core-8-p1/
+설명 : 
+                         On February 21st, 2023, Microsoft released the first look at the upcoming .NET version, which will also feature a number of ASP.NET Core-powered web development advancements. 
+
+The .NET 8 version, has a particular focus on enhancing ASP.NET Core features. The most recent advancements will focus on areas like Blazor United, Authentication & Authorization experience, and Native AOT.
+                    
+5 번째 검색 내용 
+제목 : 
+
+                            CloudFlare Detects a Record 71 Million Request-Per-Second DDoS Attack
+                        
+주소 : https://www.infoq.com/news/2023/02/cloudflare-ddos-attack/
+설명 : 
+                         On the weekend of 11 and 12 February, the Super Bowl weekend, CloudFlare detected dozens of hyper-volumetrics DDoS attacks. These attacks peaked at 50-70 million requests per second (rps), with the highest at 71 million rps. This is the largest reported HTTP DDoS attack on record. This attack is 54% higher than the previous record registered in June 2022 with 46M rps.
+                    
+6 번째 검색 내용 
+제목 : 
+
+                            AWS Adds VPC Resource Map to Simplify Management of Virtual Networks
+                        
+주소 : https://www.infoq.com/news/2023/02/vpc-resource-map/
+설명 : 
+                         The VPC section of the AWS Management Console now provides visualization of VPC resources, such as the relationships between a VPC and its subnets, routing tables, and gateways. The map displays existing VPC resources and their routing on a single page, allowing a better understanding of the networking layout.
+                    
+7 번째 검색 내용 
+제목 : 
+
+                            Java News Roundup: NetBeans 17, Multiple Spring and Tomcat Updates, GraalVM Builds for JDK 20
+                        
+주소 : https://www.infoq.com/news/2023/02/java-news-roundup-feb20-2023/
+설명 : 
+                         This week's Java roundup for February 20th, 2023 features news from OpenJDK, JDK 20, JDK 21, GraalVM, GlassFish 7.0.2, point and milestone releases of numerous Spring projects, Helidon 4.0.0-ALPHA5, NetBeans 17, Apache Tomcat 11.0.0-M3, 10.1.6, 9.0.72 and 8.5.86, Apache Log4j 2.20.0, JHipster Lite 0.28.0, JobRunr 6.1.0, JBang 0.104.0, and Gradle 7.6.1 and 6.9.4.
+                    
+8 번째 검색 내용 
+제목 : 
+
+                            Slack Open Sources Hakana, a Type Checker for Hack Language
+                        
+주소 : https://www.infoq.com/news/2023/02/slack-type-checker-hakana/
+설명 : 
+                         Slack has recently open-sourced its type checker, Hakana. Based on Psalm and written in Rust, Hakana’s main objective is to enforce good code quality. Additionally, Hakana can also perform security analysis. Matt Brown, Senior Staff Engineer at Slack made the announcement in a blog post.
+                    
+9 번째 검색 내용 
+제목 : 
+
+                            Hugging Face and AWS Join Forces to Democratize AI
+                        
+주소 : https://www.infoq.com/news/2023/02/aws-hugging-face-ai/
+설명 : 
+                         Hugging Face, a top supplier of open-source machine learning tools, and AWS have joined together to increase the access to artificial intelligence (AI). Hugging Face's cutting-edge transformers and natural language processing (NLP) models will be made available to AWS customers as a result of the cooperation, making it simpler for them to develop and deploy AI applications.
+                    
+10 번째 검색 내용 
+제목 : 
+
+                            Microsoft Wants to Use ChatGPT to Control Robots through Language
+                        
+주소 : https://www.infoq.com/news/2023/02/chagpt-robotics-microsoft/
+설명 : 
+                         In a recent paper, researchers at Microsoft Autonomous Systems and Robotics Group showed how OpenAI's ChatGPT can be used for robotics applications, including how to design prompts and how to direct ChatGPT to use specific robotic libraries to program the task at hand.
+                    
+11 번째 검색 내용 
+제목 : 
+
+                            Transform Telco Network Deployment and Management with AWS Telco Network Builder
+                        
+주소 : https://www.infoq.com/news/2023/02/aws-telco-network-builder/
+설명 : 
+                         AWS recently announced the new service AWS Telco Network Builder (TNB), which enables customers to deploy, run, and scale telco networks on AWS infrastructure. It is designed for communication service providers (CSPs) who want to use AWS for their 5G networks.
+                    
+12 번째 검색 내용 
+제목 : 
+
+                            Google Cloud Adds New PCI DSS Policy Bundle
+                        
+주소 : https://www.infoq.com/news/2023/02/gcp-pci-dss-policy-bundle/
+설명 : 
+                         Google has recently added Payment Card Industry Data Security Standard (PCI DSS) Policy bundle to Anthos Config Management (ACM). In its version 3.2.1, security administrators can now understand compliance with PCI DSS requirements using the Policy Controller Dashboard.
+                    
+13 번째 검색 내용 
+제목 : 
+
+                            HashiCorp Nomad Adds SSO Support and Dynamic Metadata
+                        
+주소 : https://www.infoq.com/news/2023/02/nomad-sso-metadata/
+설명 : 
+                         HashiCorp has released version 1.5 of Nomad, currently in beta. Nomad is their orchestrator platform for deploying and managing both containerized and non-containerized environments. This release adds single sign-on and OIDC support as well as dynamic node metadata, job templates, and UI improvements.
+                    
+14 번째 검색 내용 
+제목 : 
+
+                            Immersive Stream for XR: Extended Reality Experiences from Google Cloud
+                        
+주소 : https://www.infoq.com/news/2023/02/google-immersive-stream-xr/
+설명 : 
+                         Google Cloud recently announced the general availability of Immersive Stream for XR, a managed service to host, render, and stream 3D and extended reality (XR) experiences. The new service makes the rendering of 3D and augmented reality no longer dependent on the hardware of smartphones.
+                    
+15 번째 검색 내용 
+제목 : 
+
+                            CloudNativeSecurityCon 2023: SBOMs, VEX, and Kubernetes
+                        
+주소 : https://www.infoq.com/news/2023/02/sboms-vex-kubernetes/
+설명 : 
+                         At CloudNativeSecrityCon 2023 in Seattle, WA, Kiran Kamity, founder and CEO of Deepfactor,  led a panel discussion on software supply chain security, the practical side of SBOMs, and VEX.
+                    
