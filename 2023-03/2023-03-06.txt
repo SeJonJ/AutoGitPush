@@ -1,0 +1,137 @@
+1 번째 검색 내용 
+제목 : 
+
+                            Microsoft Introduces Azure Operator Nexus to Simplify Deployment of Network Functions
+                        
+주소 : https://www.infoq.com/news/2023/03/microsoft-azure-operator-nexus/
+설명 : 
+                         Microsoft recently announced the public preview of Azure Operator Nexus, a hybrid, AI-enabled, carrier-grade cloud platform designed to meet the specific needs of network operators.
+                    
+2 번째 검색 내용 
+제목 : 
+
+                            Infrastructure as SQL on AWS: IaSQL Enters Beta Adding Multi-Region and Transactions
+                        
+주소 : https://www.infoq.com/news/2023/03/iasql-aws-beta/
+설명 : 
+                         The open-source service IaSQL recently announced its beta release. Designed to manage cloud infrastructure using SQL, IaSQL introduced support for AWS multi-region, new AWS services, and infrastructure changes as transactions.
+                    
+3 번째 검색 내용 
+제목 : 
+
+                            Traffic Protocol Analyzer Wireshark Gets its Own Foundation
+                        
+주소 : https://www.infoq.com/news/2023/03/wireshark-foundation/
+설명 : 
+                         The popular open-source protocol analyzer Wireshark has a new permanent home in the form of the Wireshark Foundation, which should provide the means for its further, long-term evolution, says Sysdig, which took over as the project's main sponsor in 2022.
+                    
+4 번째 검색 내용 
+제목 : 
+
+                            Open-Source COBOL .NET Compiler Otterkit Reaches Alpha
+                        
+주소 : https://www.infoq.com/news/2023/03/otterkit-cobol-net/
+설명 : 
+                         Otterkit is a free and open-source compiler for the COBOL programming language that runs on the .NET platform. It is currently in the alpha stage, under development to implement the COBOL 2023 standard.
+                    
+5 번째 검색 내용 
+제목 : 
+
+                            Gradle 8.0 Provides Improved Kotlin DSL and Build Times
+                        
+주소 : https://www.infoq.com/news/2023/03/gradle-8-0/
+설명 : 
+                         The Gradle team announced Gradle 8.0 which reduces the build duration and improves the Kotlin DSL, for example, Kotlin API 1.8 and Java 11 features may now be used in the build scripts.
+                    
+6 번째 검색 내용 
+제목 : 
+
+                            Developing Software to Manage Distributed Energy Systems at Scale
+                        
+주소 : https://www.infoq.com/news/2023/03/software-energy-systems/
+설명 : 
+                         Functional programming techniques can make software more composable, reliable, and testable. For systems at scale, trade-offs in edge vs. cloud computing can impact speed and security.
+                    
+7 번째 검색 내용 
+제목 : 
+
+                            Microsoft Launches New Cognitive Speech Services Features to Accelerate Language Learning
+                        
+주소 : https://www.infoq.com/news/2023/03/microsoft-cognitive-new-speech/
+설명 : 
+                         Microsoft recently launched new features for its Cognitive Speech Service to accelerate language learning with pronunciation assessment, new speech-to-text (STT) languages, and prebuilt and custom neural voice enhancements.
+                    
+8 번째 검색 내용 
+제목 : 
+
+                            Migrating From Enzyme to React Testing Library - Sentry Case Study
+                        
+주소 : https://www.infoq.com/news/2023/03/sentry-enzyme-migration-rtl/
+설명 : 
+                         The Sentry engineering team recently recounted on its blog the drivers and lessons learned from migrating its front-end tests code from Enzyme to the React Testing Library. The migration was triggered by Enzyme’s lack of support for newer versions of React. The migration took about 20 months and involved 17 engineers reviewing around 5,000 tests.
+                    
+9 번째 검색 내용 
+제목 : 
+
+                            GitHub Enhanced Copilot with New AI Model and Security-Oriented Capabilities
+                        
+주소 : https://www.infoq.com/news/2023/02/github-enhanced-copilot-codex/
+설명 : 
+                         GitHub Copilot adopted a new AI model which is both faster and more accurate than the previous one, says GitHub. Additionally, GitHub has started using AI to detect vulnerabilities in Copilot suggestion by blocking insecure coding patterns in real-time.
+                    
+10 번째 검색 내용 
+제목 : 
+
+                            DeepMind Open-Sources AI Interpretability Research Tool Tracr
+                        
+주소 : https://www.infoq.com/news/2023/02/deepmind-tracr/
+설명 : 
+                         Researchers at DeepMind have open-sourced TRAnsformer Compiler for RASP (Tracr), a compiler that translates programs into neural network models. Tracr is intended for research in mechanistic interpretability of Transformer AI models such as GPT-3.
+                    
+11 번째 검색 내용 
+제목 : 
+
+                            Azure Application Gateway Now Supports mTLS and OCSP
+                        
+주소 : https://www.infoq.com/news/2023/02/azure-application-gateway-mtls/
+설명 : 
+                         Microsoft has announced that its Azure Application Gateway, a cloud-based solution that provides secure, scalable, and reliable access to web applications, now supports mutual Transport Layer Security (mTLS) and Online Certificate Status Protocol (OCSP).
+                    
+12 번째 검색 내용 
+제목 : 
+
+                            ASP.NET Core 8 Preview 1 Available
+                        
+주소 : https://www.infoq.com/news/2023/02/asp-net-core-8-p1/
+설명 : 
+                         On February 21st, 2023, Microsoft released the first look at the upcoming .NET version, which will also feature a number of ASP.NET Core-powered web development advancements. 
+
+The .NET 8 version, has a particular focus on enhancing ASP.NET Core features. The most recent advancements will focus on areas like Blazor United, Authentication & Authorization experience, and Native AOT.
+                    
+13 번째 검색 내용 
+제목 : 
+
+                            CloudFlare Detects a Record 71 Million Request-Per-Second DDoS Attack
+                        
+주소 : https://www.infoq.com/news/2023/02/cloudflare-ddos-attack/
+설명 : 
+                         On the weekend of 11 and 12 February, the Super Bowl weekend, CloudFlare detected dozens of hyper-volumetrics DDoS attacks. These attacks peaked at 50-70 million requests per second (rps), with the highest at 71 million rps. This is the largest reported HTTP DDoS attack on record. This attack is 54% higher than the previous record registered in June 2022 with 46M rps.
+                    
+14 번째 검색 내용 
+제목 : 
+
+                            AWS Adds VPC Resource Map to Simplify Management of Virtual Networks
+                        
+주소 : https://www.infoq.com/news/2023/02/vpc-resource-map/
+설명 : 
+                         The VPC section of the AWS Management Console now provides visualization of VPC resources, such as the relationships between a VPC and its subnets, routing tables, and gateways. The map displays existing VPC resources and their routing on a single page, allowing a better understanding of the networking layout.
+                    
+15 번째 검색 내용 
+제목 : 
+
+                            Java News Roundup: NetBeans 17, Multiple Spring and Tomcat Updates, GraalVM Builds for JDK 20
+                        
+주소 : https://www.infoq.com/news/2023/02/java-news-roundup-feb20-2023/
+설명 : 
+                         This week's Java roundup for February 20th, 2023, features news from OpenJDK, JDK 20, JDK 21, GraalVM, GlassFish 7.0.2, point and milestone releases of numerous Spring projects, Helidon 4.0.0-ALPHA5, NetBeans 17, Apache Tomcat 11.0.0-M3, 10.1.6, 9.0.72 and 8.5.86, Apache Log4j 2.20.0, JHipster Lite 0.28.0, JobRunr 6.1.0, JBang 0.104.0, and Gradle 7.6.1 and 6.9.4.
+                    
