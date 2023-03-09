@@ -10,20 +10,20 @@
 2 번째 검색 내용 
 제목 : 
 
-                            Eclipse Adoptium: A 2022 Retrospective and a Look Towards the Future
-                        
-주소 : https://www.infoq.com/news/2023/03/eclipse-adoptium-2022-future/
-설명 : 
-                         Eclipse Adoptium provides Eclipse Temurin JDK and JRE binaries and introduced the Adoptium Marketplace in 2022 for third party runtimes. Adoptium produced 166 releases last year, each one verified by thousands of tests for the various supported platforms.
-                    
-3 번째 검색 내용 
-제목 : 
-
                             HashiCorp Vault Improves Multi-Namespace Workflows, Adds Managed Service for Azure
                         
 주소 : https://www.infoq.com/news/2023/03/vault-multi-namespace/
 설명 : 
                          HashiCorp has released version 1.13 of Vault, their secrets and identity management platform. This release includes multi-namespace access workflows, improvements to the Google Cloud secrets engine, usability improvements to MFA, and certificate revocation for cross-cluster management. HashiCorp has also released Vault as a managed service for Microsoft Azure environments.
+                    
+3 번째 검색 내용 
+제목 : 
+
+                            Eclipse Adoptium: A 2022 Retrospective and a Look Towards the Future
+                        
+주소 : https://www.infoq.com/news/2023/03/eclipse-adoptium-2022-future/
+설명 : 
+                         Eclipse Adoptium provides Eclipse Temurin JDK and JRE binaries and introduced the Adoptium Marketplace in 2022 for third party runtimes. Adoptium produced 166 releases last year, each one verified by thousands of tests for the various supported platforms.
                     
 4 번째 검색 내용 
 제목 : 
@@ -37,20 +37,20 @@
 5 번째 검색 내용 
 제목 : 
 
-                            WireMock Spring Boot Simplifies the WireMock Configuration for Spring Boot Applications
-                        
-주소 : https://www.infoq.com/news/2023/03/wiremock-spring-boot/
-설명 : 
-                         WireMock, a flexible tool for building API mocks, and the new WireMock Spring Boot simplifies the WireMock configuration for JUnit-based integration tests in Spring Boot applications.
-                    
-6 번째 검색 내용 
-제목 : 
-
                             .NET Upgrade Assistant Extension for Visual Studio Now Available
                         
 주소 : https://www.infoq.com/news/2023/03/dotnet-upgrade-assistant/
 설명 : 
                          The .NET Upgrade Assistant is a Microsoft tool that helps developers upgrade their .NET Framework apps to .NET 5 or later by analyzing code and dependencies, generating a report of issues, and providing code fixes. A new available extension makes it possible to update any .NET application to the most recent .NET version within Visual Studio.
+                    
+6 번째 검색 내용 
+제목 : 
+
+                            WireMock Spring Boot Simplifies the WireMock Configuration for Spring Boot Applications
+                        
+주소 : https://www.infoq.com/news/2023/03/wiremock-spring-boot/
+설명 : 
+                         WireMock, a flexible tool for building API mocks, and the new WireMock Spring Boot simplifies the WireMock configuration for JUnit-based integration tests in Spring Boot applications.
                     
 7 번째 검색 내용 
 제목 : 
