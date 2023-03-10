@@ -1,0 +1,135 @@
+1 번째 검색 내용 
+제목 : 
+
+                            JDK 20 and JDK 21: What We Know So Far
+                        
+주소 : https://www.infoq.com/news/2023/03/java-20-so-far/
+설명 : 
+                         JDK 20, the third non-LTS release since JDK 17, has reached its initial release candidate phase with a final set of seven (7) new features, in the form of JEPs, that can be separated into two categories: Core Java Library and Java Specification. We examine JDK 20 and predict what features may be targeted for JDK 21.
+                    
+2 번째 검색 내용 
+제목 : 
+
+                            How the Hybrid and Remote Working Revolution Impacts Maintaining Mental Health
+                        
+주소 : https://www.infoq.com/news/2023/03/hybrid-remote-mental-health/
+설명 : 
+                         Whether working remotely or in a hybrid environment, the way in which we work with one another is changing, and can impact mental health and well-being. Personality characteristics can influence how we respond to remote or hybrid working environments. Organizations can foster psychological safety by focusing on culture, transparency, clarity, learning from failure, and supportive leadership.
+                    
+3 번째 검색 내용 
+제목 : 
+
+                            Improve Logic Apps (Standard) Workflows Observability with Application Insights
+                        
+주소 : https://www.infoq.com/news/2023/03/logic-apps-application-insights/
+설명 : 
+                         Microsoft recently announced the release of the Public Preview Enhancements for Logic Apps Standard in Application Insights. These enhancements provide developers with more in-depth insights into the performance and health of their standard Logic Apps, making it easier to diagnose issues and optimize performance.
+                    
+4 번째 검색 내용 
+제목 : 
+
+                            High-Performance Computing for Researchers and Students with Amazon Lightsail for Research
+                        
+주소 : https://www.infoq.com/news/2023/03/amazon-lightsail-research-ga/
+설명 : 
+                         AWS recently announced the general availability (GA) of Amazon Lightsail for Research, a new offering designed to enable researchers and students to easily create and manage high-performance CPU or GPU research computers on the cloud.
+                    
+5 번째 검색 내용 
+제목 : 
+
+                            Eclipse Adoptium: A 2022 Retrospective and a Look Towards the Future
+                        
+주소 : https://www.infoq.com/news/2023/03/eclipse-adoptium-2022-future/
+설명 : 
+                         Eclipse Adoptium provides Eclipse Temurin JDK and JRE binaries and introduced the Adoptium Marketplace in 2022 for third party runtimes. Adoptium produced 166 releases last year, each one verified by thousands of tests for the various supported platforms.
+                    
+6 번째 검색 내용 
+제목 : 
+
+                            HashiCorp Vault Improves Multi-Namespace Workflows, Adds Managed Service for Azure
+                        
+주소 : https://www.infoq.com/news/2023/03/vault-multi-namespace/
+설명 : 
+                         HashiCorp has released version 1.13 of Vault, their secrets and identity management platform. This release includes multi-namespace access workflows, improvements to the Google Cloud secrets engine, usability improvements to MFA, and certificate revocation for cross-cluster management. HashiCorp has also released Vault as a managed service for Microsoft Azure environments.
+                    
+7 번째 검색 내용 
+제목 : 
+
+                            Road to Quarkus 3: Bets on the Flow API for Mutiny 2.0, Updates to Jakarta Namespace and More
+                        
+주소 : https://www.infoq.com/news/2023/03/road-quarkus-3/
+설명 : 
+                         Part of the cloud native pioneers, Quarkus reaches its third milestone not long after project Leyden seemed to restart on its path to make Java fit for the cloud. The version promises important structural changes, better performance and improved integration with third parties. InfoQ reached out to their team to find out what the users should need to know before getting started with it.
+                    
+8 번째 검색 내용 
+제목 : 
+
+                            WireMock Spring Boot Simplifies the WireMock Configuration for Spring Boot Applications
+                        
+주소 : https://www.infoq.com/news/2023/03/wiremock-spring-boot/
+설명 : 
+                         WireMock, a flexible tool for building API mocks, and the new WireMock Spring Boot simplifies the WireMock configuration for JUnit-based integration tests in Spring Boot applications.
+                    
+9 번째 검색 내용 
+제목 : 
+
+                            .NET Upgrade Assistant Extension for Visual Studio Now Available
+                        
+주소 : https://www.infoq.com/news/2023/03/dotnet-upgrade-assistant/
+설명 : 
+                         The .NET Upgrade Assistant is a Microsoft tool that helps developers upgrade their .NET Framework apps to .NET 5 or later by analyzing code and dependencies, generating a report of issues, and providing code fixes. A new available extension makes it possible to update any .NET application to the most recent .NET version within Visual Studio.
+                    
+10 번째 검색 내용 
+제목 : 
+
+                            NVIDIA Open-Sources Robot Learning Framework Orbit
+                        
+주소 : https://www.infoq.com/news/2023/03/nvidia-orbit/
+설명 : 
+                         A team of researchers from NVIDIA, ETH Zurich, and the University of Toronto open-sourced Orbit, a simulation-based robot learning framework. Orbit includes wrappers for four learning libraries, a suite of benchmark tasks, and simulation for several robot platforms, as well as interfaces for deploying trained agents on physical robots.
+                    
+11 번째 검색 내용 
+제목 : 
+
+                            Microsoft Azure Launches Cloud-Based Voice Gateway for Operators
+                        
+주소 : https://www.infoq.com/news/2023/03/azure-communications-gateway-ga/
+설명 : 
+                         Microsoft Azure recently announced the general availability of Azure Communications Gateway. This product lets operators connect their fixed and mobile voice networks to Teams Phone, Microsoft's cloud-based system.
+                    
+12 번째 검색 내용 
+제목 : 
+
+                            What's New in Entity Framework Core 8
+                        
+주소 : https://www.infoq.com/news/2023/03/ef-core-8/
+설명 : 
+                         Entity Framework Core 8, scheduled to release in November 2023, brings new features and new improvements to features already introduced in EF Core 7. Notable features include: support for raw SQL queries for unmapped types, lazy-loading improvements and support for TimeOnly and DateOnly SQL Server data types.
+                    
+13 번째 검색 내용 
+제목 : 
+
+                            OpenAI Unleashes ChatGPT and Whisper APIs for Next-Gen Language Capabilities
+                        
+주소 : https://www.infoq.com/news/2023/03/openai-chatgpt-whisper/
+설명 : 
+                         OpenAI has announced that it’s now letting third-party developers integrate ChatGPT and Whisper into their apps and services via API, offering access to AI-powered language and speech-to-text capabilities. As compared to using the company's current language approach, these APIs will make it easier for businesses to integrate ChatGPT and Whisper into their platforms.
+                    
+14 번째 검색 내용 
+제목 : 
+
+                            New JavaScript Incremental Computing Library Delivers Better UX for Single-Page Apps
+                        
+주소 : https://www.infoq.com/news/2023/03/incremental-computing-signia/
+설명 : 
+                         The team behind the collaborative whiteboard tldraw recently published a library that brings incremental computing to JavaScript. Signia seeks to overcome fundamental performance limitations of tldraw’s chosen UI and reactive framework and ultimately provide better interactive apps with better user experience. Signia can however be used standalone or in conjunction with any UI framework.
+                    
+15 번째 검색 내용 
+제목 : 
+
+                            Cross-Industry Report Identifies Top 10 Open-Source Software Risks
+                        
+주소 : https://www.infoq.com/news/2023/03/top-open-source-software-risks/
+설명 : 
+                         Promoted by Endor Labs and featuring contributions from over 20 industry experts, the new Endor Labs Station 9 report identifies the top operational and security risks in open-source software.
+                    
