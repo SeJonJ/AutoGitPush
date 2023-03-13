@@ -1,13 +1,22 @@
 1 번째 검색 내용 
 제목 : 
 
+                            Java's Collections Framework Gets a Makeover with New Sequenced Collection Types
+                        
+주소 : https://www.infoq.com/news/2023/03/collections-framework-makeover/
+설명 : 
+                         JEP 431: Sequenced Collections has been promoted from Candidate to Proposed to Target status for JDK 21. It proposes introducing "a new family of interfaces that represent the concept of a collection whose elements are arranged in a well-defined sequence or ordering, as a structural property of the collection."
+                    
+2 번째 검색 내용 
+제목 : 
+
                             Open-Source Package ngrok-go Aims to Make it Easier to Embed Ingress into Go Apps
                         
 주소 : https://www.infoq.com/news/2023/03/ngrok-go-ingress-package/
 설명 : 
                          Ngrok-go is an idiomatic Go package that enables Go applications to securely receive network requests through ngrok's ingress-as-a-service platform as if they were listening on a local port.
                     
-2 번째 검색 내용 
+3 번째 검색 내용 
 제목 : 
 
                             AWS Lambda Supports Powertools for .NET to Simplify Observability
@@ -16,7 +25,7 @@
 설명 : 
                          AWS recently announced that the open-source library Lambda Powertools now supports .NET. The developer library helps implement observability when running Lambda functions based on .NET 6 or above, reducing the amount of custom code.
                     
-3 번째 검색 내용 
+4 번째 검색 내용 
 제목 : 
 
                             Google Service Weaver Enables Coding as a Monolith and Deploying as Microservices
@@ -25,7 +34,7 @@
 설명 : 
                          Google has released Service Weaver, an open-source framework for building and deploying distributed applications. The Go-based framework includes a set of programming libraries that enable writing applications as a single modular binary. The other component is a set of deployers that allow for configuring the runtime topology and running the application locally or in the cloud.
                     
-4 번째 검색 내용 
+5 번째 검색 내용 
 제목 : 
 
                             Microsoft Claims SQL Server Performs Better on Azure Than AWS
@@ -34,7 +43,7 @@
 설명 : 
                          In a recent benchmark, Microsoft claims that SQL Server on Azure Virtual Machines can be up to 57% faster and cost up to 54% less than running a similar workload on AWS EC2.
                     
-5 번째 검색 내용 
+6 번째 검색 내용 
 제목 : 
 
                             How DevZero Enables Developers with Remote Development Environments
@@ -43,7 +52,7 @@
 설명 : 
                          DevZero is a platform that provides developers with an efficient way to create and manage development environments. It's a cloud-based service that replaces the traditional local development environment with a scalable alternative.
                     
-6 번째 검색 내용 
+7 번째 검색 내용 
 제목 : 
 
                             .NET MAUI Community Toolkit 5.0.0: Enhancing User Experience with New Features and Bug Fixes
@@ -52,7 +61,7 @@
 설명 : 
                          .NET MAUI Community Toolkit version 5.0.0, is packed with updates to enhance user experience with improved accessibility and functionality. Features and updates including the SemanticOrderView, FileSaverResult, FolderPickerResult, and StateContainer offer greater control and flexibility to application users. Updates and bug fixes contribute to smoother and more efficient application performance.
                     
-7 번째 검색 내용 
+8 번째 검색 내용 
 제목 : 
 
                             JetBrains Adds Taint Analysis for PHP to Qodana Code Quality Platform
@@ -61,7 +70,7 @@
 설명 : 
                          Qodana, JetBrains' code quality platform, provides now support for PHP taint analysis in early preview. The feature aims to allow developers to detect taints in their programs, i.e. spots that are vulnerable to malicious inputs.
                     
-8 번째 검색 내용 
+9 번째 검색 내용 
 제목 : 
 
                             Terraform 1.4 Release Adds Native Null Resource and Extends OPA Support
@@ -70,7 +79,7 @@
 설명 : 
                          HashiCorp has released Terraform 1.4 with a number of improvements for working within Terraform Cloud environments. These improvements include CLI support for structured run outputs and OPA policy results. Additional improvements include a native replacement for the Null utility provider.
                     
-9 번째 검색 내용 
+10 번째 검색 내용 
 제목 : 
 
                             Introducing Hilla 2.0: Reactive Endpoints, Native Image, Simplified Theming, SSO Kit, and More
@@ -79,7 +88,7 @@
 설명 : 
                          Hilla, the type-safe web framework for Spring Boot, has announced the release of version 2.0. This release utilizes Spring Boot 3, Java 17, and Jakarta EE 10, providing access to the latest features in the Java ecosystem. It includes an improved TypeScript generator, web socket support for reactive endpoints, support for GraalVM native images, a simplified theming mechanism, and a new SSO kit.
                     
-10 번째 검색 내용 
+11 번째 검색 내용 
 제목 : 
 
                             JDK 20 and JDK 21: What We Know So Far
@@ -88,7 +97,7 @@
 설명 : 
                          JDK 20, the third non-LTS release since JDK 17, has reached its initial release candidate phase with a final set of seven (7) new features, in the form of JEPs, that can be separated into two categories: Core Java Library and Java Specification. We examine JDK 20 and predict what features may be targeted for JDK 21.
                     
-11 번째 검색 내용 
+12 번째 검색 내용 
 제목 : 
 
                             How the Hybrid and Remote Working Revolution Impacts Maintaining Mental Health
@@ -97,7 +106,7 @@
 설명 : 
                          Whether working remotely or in a hybrid environment, the way in which we work with one another is changing, and can impact mental health and well-being. Personality characteristics can influence how we respond to remote or hybrid working environments. Organizations can foster psychological safety by focusing on culture, transparency, clarity, learning from failure, and supportive leadership.
                     
-12 번째 검색 내용 
+13 번째 검색 내용 
 제목 : 
 
                             Improve Logic Apps (Standard) Workflows Observability with Application Insights
@@ -106,7 +115,7 @@
 설명 : 
                          Microsoft recently announced the release of the Public Preview Enhancements for Logic Apps Standard in Application Insights. These enhancements provide developers with more in-depth insights into the performance and health of their standard Logic Apps, making it easier to diagnose issues and optimize performance.
                     
-13 번째 검색 내용 
+14 번째 검색 내용 
 제목 : 
 
                             High-Performance Computing for Researchers and Students with Amazon Lightsail for Research
@@ -115,7 +124,7 @@
 설명 : 
                          AWS recently announced the general availability (GA) of Amazon Lightsail for Research, a new offering designed to enable researchers and students to easily create and manage high-performance CPU or GPU research computers on the cloud.
                     
-14 번째 검색 내용 
+15 번째 검색 내용 
 제목 : 
 
                             HashiCorp Vault Improves Multi-Namespace Workflows, Adds Managed Service for Azure
@@ -123,13 +132,4 @@
 주소 : https://www.infoq.com/news/2023/03/vault-multi-namespace/
 설명 : 
                          HashiCorp has released version 1.13 of Vault, their secrets and identity management platform. This release includes multi-namespace access workflows, improvements to the Google Cloud secrets engine, usability improvements to MFA, and certificate revocation for cross-cluster management. HashiCorp has also released Vault as a managed service for Microsoft Azure environments.
-                    
-15 번째 검색 내용 
-제목 : 
-
-                            Eclipse Adoptium: a 2022 Retrospective and a Look towards the Future
-                        
-주소 : https://www.infoq.com/news/2023/03/eclipse-adoptium-2022-future/
-설명 : 
-                         Eclipse Adoptium provides Eclipse Temurin JDK and JRE binaries and introduced the Adoptium Marketplace in 2022 for third party runtimes. Adoptium produced 166 releases last year, each one verified by thousands of tests for the various supported platforms.
                     
