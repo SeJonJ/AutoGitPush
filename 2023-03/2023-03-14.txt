@@ -1,0 +1,135 @@
+1 번째 검색 내용 
+제목 : 
+
+                            Java News Roundup: Sequenced Collections for JDK 21, Vector API for JDK 20, Gen ZGC, Hilla 2.0
+                        
+주소 : https://www.infoq.com/news/2023/03/java-news-roundup-mar06-2023/
+설명 : 
+                         This week's Java roundup for March 6th, 2023 features news from OpenJDK, JDK 20, JDK 21, Spring Cloud Data Flow 2.10.2, Spring Modulith 0.5, Quarkus 2.16.14 and 3.0.0.Alpha5, Open Liberty 23.0.0.2, Micronaut 3.8.7, Helidon 2.6.0, Apache Tomcat 11.0.0-M4, Apache Camel-4.0.0-M2, JobRunr 6.1.1, Jarviz 0.3.0 and Hilla 2.0.
+                    
+2 번째 검색 내용 
+제목 : 
+
+                            JetBrains Releases Rider 2023.1 EAP 6 with Improvements of UI and Debugging Experience
+                        
+주소 : https://www.infoq.com/news/2023/03/jetbrains-rider-2023-eap-6/
+설명 : 
+                         Recently JetBrains released Rider 2023.1 EAP 6. This new release contains some UI improvements: adding Compact Mode, project tabs for macOS users and the option to split the tool window area. Additionally, EAP 6 improves the debugging experience for developers.
+                    
+3 번째 검색 내용 
+제목 : 
+
+                            Java's Collections Framework Gets a Makeover with New Sequenced Collection Types
+                        
+주소 : https://www.infoq.com/news/2023/03/collections-framework-makeover/
+설명 : 
+                         JEP 431: Sequenced Collections has been promoted from Candidate to Proposed to Target status for JDK 21. It proposes introducing "a new family of interfaces that represent the concept of a collection whose elements are arranged in a well-defined sequence or ordering, as a structural property of the collection."
+                    
+4 번째 검색 내용 
+제목 : 
+
+                            Open-Source Package ngrok-go Aims to Make it Easier to Embed Ingress into Go Apps
+                        
+주소 : https://www.infoq.com/news/2023/03/ngrok-go-ingress-package/
+설명 : 
+                         Ngrok-go is an idiomatic Go package that enables Go applications to securely receive network requests through ngrok's ingress-as-a-service platform as if they were listening on a local port.
+                    
+5 번째 검색 내용 
+제목 : 
+
+                            AWS Lambda Supports Powertools for .NET to Simplify Observability
+                        
+주소 : https://www.infoq.com/news/2023/03/aws-lambda-powertools-net/
+설명 : 
+                         AWS recently announced that the open-source library Lambda Powertools now supports .NET. The developer library helps implement observability when running Lambda functions based on .NET 6 or above, reducing the amount of custom code.
+                    
+6 번째 검색 내용 
+제목 : 
+
+                            Google Service Weaver Enables Coding as a Monolith and Deploying as Microservices
+                        
+주소 : https://www.infoq.com/news/2023/03/google-weaver-framework/
+설명 : 
+                         Google has released Service Weaver, an open-source framework for building and deploying distributed applications. The Go-based framework includes a set of programming libraries that enable writing applications as a single modular binary. The other component is a set of deployers that allow for configuring the runtime topology and running the application locally or in the cloud.
+                    
+7 번째 검색 내용 
+제목 : 
+
+                            Microsoft Claims SQL Server Performs Better on Azure Than AWS
+                        
+주소 : https://www.infoq.com/news/2023/03/benchmark-sql-server-azure-aws/
+설명 : 
+                         In a recent benchmark, Microsoft claims that SQL Server on Azure Virtual Machines can be up to 57% faster and cost up to 54% less than running a similar workload on AWS EC2.
+                    
+8 번째 검색 내용 
+제목 : 
+
+                            How DevZero Enables Developers with Remote Development Environments
+                        
+주소 : https://www.infoq.com/news/2023/03/devzero-remote-dev-environments/
+설명 : 
+                         DevZero is a platform that provides developers with an efficient way to create and manage development environments. It's a cloud-based service that replaces the traditional local development environment with a scalable alternative.
+                    
+9 번째 검색 내용 
+제목 : 
+
+                            .NET MAUI Community Toolkit 5.0.0: Enhancing User Experience with New Features and Bug Fixes
+                        
+주소 : https://www.infoq.com/news/2023/03/dotnet-maui-community-toolkit-5/
+설명 : 
+                         .NET MAUI Community Toolkit version 5.0.0 is packed with updates to enhance user experience with improved accessibility and functionality. Features and updates including the SemanticOrderView, FileSaverResult, FolderPickerResult, and StateContainer offer greater control and flexibility to application users. Updates and bug fixes contribute to smoother and more efficient application performance.
+                    
+10 번째 검색 내용 
+제목 : 
+
+                            JetBrains Adds Taint Analysis for PHP to Qodana Code Quality Platform
+                        
+주소 : https://www.infoq.com/news/2023/03/Qodana-php-taint-analysis/
+설명 : 
+                         Qodana, JetBrains' code quality platform, now provides support for PHP taint analysis in early preview. The feature aims to allow developers to detect taints in their programs, i.e. spots that are vulnerable to malicious inputs.
+                    
+11 번째 검색 내용 
+제목 : 
+
+                            Terraform 1.4 Release Adds Native Null Resource and Extends OPA Support
+                        
+주소 : https://www.infoq.com/news/2023/03/terraform-1-4-null-resource/
+설명 : 
+                         HashiCorp has released Terraform 1.4 with a number of improvements for working within Terraform Cloud environments. These improvements include CLI support for structured run outputs and OPA policy results. Additional improvements include a native replacement for the Null utility provider.
+                    
+12 번째 검색 내용 
+제목 : 
+
+                            Introducing Hilla 2.0: Reactive Endpoints, Native Image, Simplified Theming, SSO Kit, and More
+                        
+주소 : https://www.infoq.com/news/2023/03/introducing-hilla-20/
+설명 : 
+                         Hilla, the type-safe web framework for Spring Boot, has announced the release of version 2.0. This release utilizes Spring Boot 3, Java 17, and Jakarta EE 10, providing access to the latest features in the Java ecosystem. It includes an improved TypeScript generator, web socket support for reactive endpoints, support for GraalVM native images, a simplified theming mechanism, and a new SSO kit.
+                    
+13 번째 검색 내용 
+제목 : 
+
+                            JDK 20 and JDK 21: What We Know So Far
+                        
+주소 : https://www.infoq.com/news/2023/03/java-20-so-far/
+설명 : 
+                         JDK 20, the third non-LTS release since JDK 17, has reached its initial release candidate phase with a final set of seven (7) new features, in the form of JEPs, that can be separated into two categories: Core Java Library and Java Specification. We examine JDK 20 and predict what features may be targeted for JDK 21.
+                    
+14 번째 검색 내용 
+제목 : 
+
+                            How the Hybrid and Remote Working Revolution Impacts Maintaining Mental Health
+                        
+주소 : https://www.infoq.com/news/2023/03/hybrid-remote-mental-health/
+설명 : 
+                         Whether working remotely or in a hybrid environment, the way in which we work with one another is changing, and can impact mental health and well-being. Personality characteristics can influence how we respond to remote or hybrid working environments. Organizations can foster psychological safety by focusing on culture, transparency, clarity, learning from failure, and supportive leadership.
+                    
+15 번째 검색 내용 
+제목 : 
+
+                            Improve Logic Apps (Standard) Workflows Observability with Application Insights
+                        
+주소 : https://www.infoq.com/news/2023/03/logic-apps-application-insights/
+설명 : 
+                         Microsoft recently announced the release of the Public Preview Enhancements for Logic Apps Standard in Application Insights. These enhancements provide developers with more in-depth insights into the performance and health of their standard Logic Apps, making it easier to diagnose issues and optimize performance.
+                    
