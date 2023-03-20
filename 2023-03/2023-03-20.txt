@@ -1,13 +1,32 @@
 1 번째 검색 내용 
 제목 : 
 
+                            Microsoft Adds Support for Pod Sandboxing to Azure Kubernetes Service
+                        
+주소 : https://www.infoq.com/news/2023/03/azure-kubernetes-pod-sandbox/
+설명 : 
+                         Microsoft has released, in preview, support for pod sandboxing in the Azure Kubernetes Service (AKS). Available within all Azure regions for a subset of Azure VM sizes, pod sandboxing provides an isolation boundary between the container application and the shared kernel and compute resources of the container host.
+                    
+2 번째 검색 내용 
+제목 : 
+
+                            Java News Roundup: New JEPs, GraalVM 23 Early-Access, Infinispan, Mojarra, Micrometer Metrics
+                        
+주소 : https://www.infoq.com/news/2023/03/java-news-roundup-mar13-2023/
+설명 : 
+                         This week's Java roundup for March 13th, 2023 features news from OpenJDK, JDK 20, JDK 21,
+GraalVM 23.0 early-access, Spring Tools 4.18, Quarkus 3.0-Alpha6, Hibernate ORM 6.2 CR4, Micrometer Metrics 1.11, Micrometer Tracing 1.1, Infinispan 14.0.7, Piranha 23.3, Project Reactor 2022.0.5, Eclipse Mojarra 4.0.2, Apache Groovy 4.0.10 and 3.0.16, JHipster Lite 0.29.0, JReleaser 1.5.1 and JobRunr 6.1.2.
+                    
+3 번째 검색 내용 
+제목 : 
+
                             Distributed Application Runtime (Dapr) v1.10 Released
                         
 주소 : https://www.infoq.com/news/2023/03/dapr-version-one-ten-released/
 설명 : 
                          Recently, the Dapr maintainers released V1.10 of Distributed Application Runtime (Dapr), a developer framework for building cloud-native applications, making it easier to run multiple microservices on Kubernetes and interact with external state stores/databases, secret stores, pub/sub-brokers, and other cloud services and self-hosted solutions.
                     
-2 번째 검색 내용 
+4 번째 검색 내용 
 제목 : 
 
                             Kwok, a Tool to Spin up Kubernetes Nodes in a Second
@@ -16,7 +35,7 @@
 설명 : 
                          Kubernetes community announces the availability of Kwok, a toolkit to set up a Kubernetes cluster of thousands of nodes in seconds. All the nodes are simulated, in this way, the fake cluster has a low resource footprint and can be up and running on a laptop. This tool is developed to test Kubernetes controllers at scale without spinning up any portion of the infrastructure.
                     
-3 번째 검색 내용 
+5 번째 검색 내용 
 제목 : 
 
                             AWS Introduces Global Condition Context Keys to Improve EC2 Security
@@ -25,7 +44,7 @@
 설명 : 
                          AWS recently introduced global condition context keys to restrict the usage of EC2 instance credentials to the instance itself. The new keys allow the creation of policies that can limit the use of role credentials to only the location from where they originated, reducing the risk of credential exfiltration.
                     
-4 번째 검색 내용 
+6 번째 검색 내용 
 제목 : 
 
                             Microsoft Brings Kubernetes to the Edge with AKS Edge Essentials
@@ -34,7 +53,7 @@
 설명 : 
                          Microsoft recently announced the general availability release of AKS Edge Essentials, a new Azure Kubernetes Service (AKS) offering designed to simplify edge computing for developers and IT professionals.
                     
-5 번째 검색 내용 
+7 번째 검색 내용 
 제목 : 
 
                             Announcing TypeScript 5.0 Beta
@@ -43,7 +62,7 @@
 설명 : 
                          Microsoft has released the TypeScript 5.0 beta version, which aims to simplify, speed up and reduce the size of TypeScript. The beta release incorporates new decorators standards that enable users to customize classes and their members in a reusable manner. It also allows developers to write cleaner and more maintainable code.
                     
-6 번째 검색 내용 
+8 번째 검색 내용 
 제목 : 
 
                             Meta AI’s Large Language Model with 10x Fewer Parameters
@@ -52,7 +71,7 @@
 설명 : 
                          Meta AI recently released a new large language model called Language Large Models Meta AI (LLaMA) that outperforms foundational models such as GPT-3 and is competitive with PaLM, despite having 10 times fewer parameters.  LLaMA has better performance in language tasks such as natural questions, common-sense reasoning and mathematical reasoning.
                     
-7 번째 검색 내용 
+9 번째 검색 내용 
 제목 : 
 
                             Amazon Aurora PostgreSQL Adds Write-Through Cache to Improve Logical Replication Performance
@@ -61,7 +80,7 @@
 설명 : 
                          Amazon Aurora PostgreSQL-Compatible databases recently introduced a logical replication write-through cache to reduce the amount of storage I/O during logical decoding. The new feature decreases the replication lag, improving read I/O and transaction catch-up time.
                     
-8 번째 검색 내용 
+10 번째 검색 내용 
 제목 : 
 
                             Server-Side Swift Gets Swift Certificates and Swift ASN.1 Packages
@@ -70,7 +89,7 @@
 설명 : 
                          The Swift team has just released two new server-side packages that aim to provide developers with a faster and safer implementation of X.509 certificates, including their underlying ASN.1 DER encoding/decoding mechanism.
                     
-9 번째 검색 내용 
+11 번째 검색 내용 
 제목 : 
 
                             ASP.NET Core 8 Preview 2: QuickGrid and Enhanced Blazor WebAssembly Performance
@@ -79,7 +98,7 @@
 설명 : 
                          .NET 8 Preview 2 brings several enhancements to the ASP.NET Core. The highlights of the release are the Blazor QuickGrid component, which promises to simplify data presentation and manipulation, and improved performance for Blazor WebAssembly through the use of the new runtime feature called jiterpreter.
                     
-10 번째 검색 내용 
+12 번째 검색 내용 
 제목 : 
 
                             Programming Foundations for Test Automation
@@ -88,7 +107,7 @@
 설명 : 
                          Proper programming foundations can improve your test automation, making it easier to maintain testing code, and reduce stress. A foundation of the theory and basic principles of coding and programming can help to bring test automation to the next level. Object-oriented programming principles can help to overcome code smells.
                     
-11 번째 검색 내용 
+13 번째 검색 내용 
 제목 : 
 
                             Google AI Updates Universal Speech Model to Scale Automatic Speech Recognition beyond 100 Languages
@@ -97,7 +116,7 @@
 설명 : 
                          Google AI has recently unveiled a new update for their Universal Speech Model (USM), to support the 1,000 Languages Initiative. The new model performs better than OpenAI Whisper for all segments of automation speech recognition.
                     
-12 번째 검색 내용 
+14 번째 검색 내용 
 제목 : 
 
                             AWS Application Composer to Visualize and Create Serverless Workloads Now Generally Available
@@ -106,7 +125,7 @@
 설명 : 
                          AWS Application Composer, a visual builder that enables users to compose and configure serverless applications from AWS services backed by deployment-ready infrastructure as code (IaC), is now generally available (GA).
                     
-13 번째 검색 내용 
+15 번째 검색 내용 
 제목 : 
 
                             Apple Brings Comparative Group Analytics to App Store Connect
@@ -114,22 +133,4 @@
 주소 : https://www.infoq.com/news/2023/03/apple-peer-group-analytics/
 설명 : 
                          Peer group benchmarks is a new App Store Connect feature aimed to help developers track the performance of their apps relative to other similar apps.
-                    
-14 번째 검색 내용 
-제목 : 
-
-                            ChatGPT Now Available in Preview on Microsoft’s Azure OpenAI Service
-                        
-주소 : https://www.infoq.com/news/2023/03/azure-openai-chatgpt-preview/
-설명 : 
-                         ChatGPT is now available in preview on Microsoft’s Azure OpenAI service allowing developers to integrate ChatGPT directly into a host of different enterprise and end-user applications using a token-based pricing system.
-                    
-15 번째 검색 내용 
-제목 : 
-
-                            Microsoft Open-Sources Weather Forecasting Deep Learning Model ClimaX
-                        
-주소 : https://www.infoq.com/news/2023/03/microsoft-climate-ai/
-설명 : 
-                         Researchers from Microsoft's Autonomous Systems and Robotics Research group have open-sourced ClimaX, a deep learning foundation model for weather and climate modeling. ClimaX can be fine-tuned for a variety of prediction tasks and performs as well as or better than state-of-the-art models on several benchmarks.
                     
