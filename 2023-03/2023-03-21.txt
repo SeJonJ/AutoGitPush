@@ -5,7 +5,7 @@
                         
 주소 : https://www.infoq.com/news/2023/03/typescript-5-ga/
 설명 : 
-                         After announcing TypeScript 5.0 Beta three months ago, TypeScript 5 has finally reached general availability. Among the most relevant changes are extended support for decorators to enable their placement before or after export and export defaults; the new bundler module resolution option, and more.
+                         After announcing TypeScript 5.0 Beta three months ago, TypeScript 5 has finally reached general availability. Among the most relevant changes are extended support for decorators to enable their placement before or after export and export defaults, the new bundler module resolution option, and more.
                     
 2 번째 검색 내용 
 제목 : 
@@ -41,8 +41,7 @@
                         
 주소 : https://www.infoq.com/news/2023/03/java-news-roundup-mar13-2023/
 설명 : 
-                         This week's Java roundup for March 13th, 2023 features news from OpenJDK, JDK 20, JDK 21,
-GraalVM 23.0 early-access, Spring Tools 4.18, Quarkus 3.0-Alpha6, Hibernate ORM 6.2 CR4, Micrometer Metrics 1.11, Micrometer Tracing 1.1, Infinispan 14.0.7, Piranha 23.3, Project Reactor 2022.0.5, Eclipse Mojarra 4.0.2, Apache Groovy 4.0.10 and 3.0.16, JHipster Lite 0.29.0, JReleaser 1.5.1 and JobRunr 6.1.2.
+                         This week's Java roundup for March 13th, 2023, features news from OpenJDK, JDK 20, JDK 21, GraalVM 23.0 early-access, Spring Tools 4.18, Quarkus 3.0-Alpha6, Hibernate ORM 6.2 CR4, Micrometer Metrics 1.11, Micrometer Tracing 1.1, Infinispan 14.0.7, Piranha 23.3, Project Reactor 2022.0.5, Eclipse Mojarra 4.0.2, Apache Groovy 4.0.10 and 3.0.16, JHipster Lite 0.29.0, JReleaser 1.5.1 and JobRunr 6.1.2.
                     
 6 번째 검색 내용 
 제목 : 
