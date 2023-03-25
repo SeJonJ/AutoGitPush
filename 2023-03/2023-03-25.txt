@@ -1,13 +1,31 @@
 1 번째 검색 내용 
 제목 : 
 
+                            Survey on Supply Chain Practices Finds Perceived Usefulness of Practice Correlates with Adoption
+                        
+주소 : https://www.infoq.com/news/2023/03/slsa-survey-adoption/
+설명 : 
+                         A recent survey on supply chain security practices found that some practices are widely adopted but key practices are lagging behind. Key practices, such as generating provenance, were noted for lagging behind in adoption. The survey also found that the perceived usefulness of a practice is highly correlated with the adoption of that practice.
+                    
+2 번째 검색 내용 
+제목 : 
+
+                            AWS Announces Open Source Mountpoint for Amazon S3
+                        
+주소 : https://www.infoq.com/news/2023/03/mountpoint-amazon-s3/
+설명 : 
+                         During the latest Pi Day, AWS announced Mountpoint for Amazon S3, an open-source file client to deliver high throughput access on Amazon S3. Currently in alpha, the local mount point provides high single-instance transfer rates and is primarily intended for data lake applications.
+                    
+3 번째 검색 내용 
+제목 : 
+
                             AWS and NVIDIA to Collaborate on Next-Gen EC2 P5 Instances for Accelerating Generative AI
                         
 주소 : https://www.infoq.com/news/2023/03/aws-p5-nvidia-ai/
 설명 : 
                          AWS and NVIDIA announced the development of a highly scalable, on-demand AI infrastructure that is specifically designed for training large language models and creating advanced generative AI applications. The collaboration aims to create the most optimized and efficient system of its kind, capable of meeting the demands of increasingly complex AI tasks.
                     
-2 번째 검색 내용 
+4 번째 검색 내용 
 제목 : 
 
                             Explore the Latest Updates to WinForms Visual Basic Application Framework
@@ -16,7 +34,7 @@
 설명 : 
                          Recent updates to the WinForms Visual Basic Application Framework, including the ability to convert older .NET Framework-based apps to .NET 6, 7, or 8+ and new features like the Windows Forms Out-of-Process Designer. Upgrading to newer frameworks creates opportunities to support modern technologies like EF Core and many more valuable updates.
                     
-3 번째 검색 내용 
+5 번째 검색 내용 
 제목 : 
 
                             AWS Announces Kubernetes 1.25 Support for EKS
@@ -25,7 +43,7 @@
 설명 : 
                          AWS has recently announced that Amazon Elastic Kubernetes Service (EKS) now supports Kubernetes version 1.25. Highlights of this update include support for Pod Security Admission (PSA), general availability of ephemeral containers, and new values for control groups API version 2.
                     
-4 번째 검색 내용 
+6 번째 검색 내용 
 제목 : 
 
                             Green Software Development - What Can You Do Now, and Where is the Industry Heading?
@@ -34,7 +52,7 @@
 설명 : 
                          Making code more efficient often ends up saving carbon. Storing less information and compressing it can also lower your carbon footprint. There are open-source projects and standards and guides available that can be used to increase sustainability in software development. Measurement standardization is needed to compare the environmental impact of cloud suppliers.
                     
-5 번째 검색 내용 
+7 번째 검색 내용 
 제목 : 
 
                             Improving Developer Experience in Non-Technical Organisations with BMK
@@ -43,7 +61,7 @@
 설명 : 
                          BMK has recently written about the challenges and DevEx compromises faced by engineers within traditionally  non-technical enterprises. McKinsey Digital also recently published a report which asserts that every company is a software company.  We report on BMK and McKinsey's recommendations for non-technical firms to improve their delivery by adopting safer software cultures.
                     
-6 번째 검색 내용 
+8 번째 검색 내용 
 제목 : 
 
                             AWS Releases New Cloud-Optimized Linux Distribution with Amazon Linux 2023
@@ -52,7 +70,7 @@
 설명 : 
                          Recently, AWS announced the general availability of Amazon Linux 2023 (AL2023), a third-generation distribution with a high-security standard, predictable lifecycle, and deterministic updates.
                     
-7 번째 검색 내용 
+9 번째 검색 내용 
 제목 : 
 
                             HashiCorp Consul Improves Envoy Integration, Adds Debugging Tool
@@ -61,7 +79,7 @@
 설명 : 
                          HashiCorp has released Consul 1.15, adding new features that improve interacting with Envoy and troubleshooting issues within the service mesh platform. The release introduces improvements to Envoy access logging as well as adding in Consul Envoy extensions. To improve the troubleshooting experience, a new service-to-service troubleshooting tool has been added.
                     
-8 번째 검색 내용 
+10 번째 검색 내용 
 제목 : 
 
                             Java 20 Delivers Features for Projects Amber, Loom and Panama
@@ -70,7 +88,7 @@
 설명 : 
                          Oracle has released version 20 of the Java programming language and virtual machine with a final feature set that includes seven (7) JEPs. This release features JEPs that provide continued contribution toward Project Amber, Project Loom and Project Panama along with new rounds of preview and incubation.
                     
-9 번째 검색 내용 
+11 번째 검색 내용 
 제목 : 
 
                             Google Uses AutoML to Discover More Efficient AI Training Algorithm
@@ -79,7 +97,7 @@
 설명 : 
                          Researchers at Google have open-sourced EvoLved sIgn mOmeNtum (Lion), an optimization algorithm for training neural networks, which was discovered using an automated machine learning (AutoML) evolutionary algorithm. Models trained with Lion can achieve better accuracy on several benchmarks than models trained with other optimizers, while requiring fewer compute cycles to converge.
                     
-10 번째 검색 내용 
+12 번째 검색 내용 
 제목 : 
 
                             TypeScript 5 GA Extends Decorators, Stabilizes New Module Resolution Option, and More
@@ -88,7 +106,7 @@
 설명 : 
                          After announcing TypeScript 5.0 Beta three months ago, TypeScript 5 has finally reached general availability. Among the most relevant changes are extended support for decorators to enable their placement before or after export and export defaults, the new bundler module resolution option, and more.
                     
-11 번째 검색 내용 
+13 번째 검색 내용 
 제목 : 
 
                             The Sentence Similarity Scenario in ML.NET Model Builder
@@ -97,7 +115,7 @@
 설명 : 
                          Microsoft recently published information about adding the Sentence Similarity scenario in Model Builder. This scenario allows the training of custom sentence similarity models. Together with the addition of this scenario to the Model Builder, it is no longer necessary to install the Model Builder GPU extension.
                     
-12 번째 검색 내용 
+14 번째 검색 내용 
 제목 : 
 
                             Stack Overflow Sentiment Survey Aims to Identify Experimental and Proven Technologies
@@ -106,7 +124,7 @@
 설명 : 
                          Stack Overflow has published its 2023 Emergent Tech Sentiment Survey, aiming to gauge how developers perceive utility and impact of a range of "buzz-worthy" technologies like quantum computing, nanotechnology, blockchain, and others, as well as other more established ones including cloud computing, machine learning, robotics, and more.
                     
-13 번째 검색 내용 
+15 번째 검색 내용 
 제목 : 
 
                             Microsoft Adds Support for Pod Sandboxing to Azure Kubernetes Service
@@ -114,22 +132,4 @@
 주소 : https://www.infoq.com/news/2023/03/azure-kubernetes-pod-sandbox/
 설명 : 
                          Microsoft has released, in preview, support for pod sandboxing in the Azure Kubernetes Service (AKS). Available within all Azure regions for a subset of Azure VM sizes, pod sandboxing provides an isolation boundary between the container application and the shared kernel and compute resources of the container host.
-                    
-14 번째 검색 내용 
-제목 : 
-
-                            Java News Roundup: New JEPs, GraalVM 23 Early-Access, Infinispan, Mojarra, Micrometer Metrics
-                        
-주소 : https://www.infoq.com/news/2023/03/java-news-roundup-mar13-2023/
-설명 : 
-                         This week's Java roundup for March 13th, 2023, features news from OpenJDK, JDK 20, JDK 21, GraalVM 23.0 early-access, Spring Tools 4.18, Quarkus 3.0-Alpha6, Hibernate ORM 6.2 CR4, Micrometer Metrics 1.11, Micrometer Tracing 1.1, Infinispan 14.0.7, Piranha 23.3, Project Reactor 2022.0.5, Eclipse Mojarra 4.0.2, Apache Groovy 4.0.10 and 3.0.16, JHipster Lite 0.29.0, JReleaser 1.5.1 and JobRunr 6.1.2.
-                    
-15 번째 검색 내용 
-제목 : 
-
-                            Distributed Application Runtime (Dapr) v1.10 Released
-                        
-주소 : https://www.infoq.com/news/2023/03/dapr-version-one-ten-released/
-설명 : 
-                         Recently, the Dapr maintainers released V1.10 of Distributed Application Runtime (Dapr), a developer framework for building cloud-native applications, making it easier to run multiple microservices on Kubernetes and interact with external state stores/databases, secret stores, pub/sub-brokers, and other cloud services and self-hosted solutions.
                     
