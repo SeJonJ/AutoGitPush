@@ -1,13 +1,22 @@
 1 번째 검색 내용 
 제목 : 
 
+                            Uno Platform 4.8: New App Template Wizard & Design System Package Import, .NET 8 Preview 2, and More
+                        
+주소 : https://www.infoq.com/news/2023/03/uno-platform-4-8-released/
+설명 : 
+                         Uno Platform released version 4.8 of their framework for building native mobile, desktop, and WebAssembly apps. The latest version brings over 200 fixes and new features, as well as support for .NET 8 Preview 2. The highlight of the new release is the new startup experience, new App Template Wizard, OpenGL Acceleration, Design System Package Import, updates for Reactive / MVUX, and many more.
+                    
+2 번째 검색 내용 
+제목 : 
+
                             Google Cloud Spanner Introduces Configurable Read-Only Replicas and Zero-Downtime Move Service
                         
 주소 : https://www.infoq.com/news/2023/03/cloud-spanner-read-replicas/
 설명 : 
                          Google recently announced new regional and multi-regional capabilities for Cloud Spanner. The distributed SQL database now supports configurable read-only replicas and introduced a "zero-downtime" instance move service.
                     
-2 번째 검색 내용 
+3 번째 검색 내용 
 제목 : 
 
                             Docker+Wasm Reaches Technical Preview 2, Includes Three New Runtime Engines
@@ -16,16 +25,16 @@
 설명 : 
                          Docker has announced the second technical preview of Docker+Wasm, aiming to make it easier to run Wasm workloads and extending runtime support by including Fermyon's spin, Deislabs' slight, and Bytecode Alliance's wasmtime runtime engines.
                     
-3 번째 검색 내용 
+4 번째 검색 내용 
 제목 : 
 
-                            Google Distributed Cloud Hosted Is Now Generally Available
+                            Google Distributed Cloud Hosted Now Generally Available
                         
 주소 : https://www.infoq.com/news/2023/03/google-distributed-cloud-hosted/
 설명 : 
                          Google recently announced the general availability of Google Distributed Cloud (GDC) Hosted, an offering for customers with the most stringent requirements, including classified, restricted, and top-secret data. It complements Google Distributed Cloud Edge and Google Distributed Cloud Virtual, which generally became available in 2022.
                     
-4 번째 검색 내용 
+5 번째 검색 내용 
 제목 : 
 
                             Survey on Supply Chain Practices Finds Perceived Usefulness of Practice Correlates with Adoption
@@ -34,7 +43,7 @@
 설명 : 
                          A recent survey on supply chain security practices found that some practices are widely adopted but key practices are lagging behind. Key practices, such as generating provenance, were noted for lagging behind in adoption. The survey also found that the perceived usefulness of a practice is highly correlated with the adoption of that practice.
                     
-5 번째 검색 내용 
+6 번째 검색 내용 
 제목 : 
 
                             AWS Announces Open Source Mountpoint for Amazon S3
@@ -43,7 +52,7 @@
 설명 : 
                          During the latest Pi Day, AWS announced Mountpoint for Amazon S3, an open-source file client to deliver high throughput access on Amazon S3. Currently in alpha, the local mount point provides high single-instance transfer rates and is primarily intended for data lake applications.
                     
-6 번째 검색 내용 
+7 번째 검색 내용 
 제목 : 
 
                             AWS and NVIDIA to Collaborate on Next-Gen EC2 P5 Instances for Accelerating Generative AI
@@ -52,7 +61,7 @@
 설명 : 
                          AWS and NVIDIA announced the development of a highly scalable, on-demand AI infrastructure that is specifically designed for training large language models and creating advanced generative AI applications. The collaboration aims to create the most optimized and efficient system of its kind, capable of meeting the demands of increasingly complex AI tasks.
                     
-7 번째 검색 내용 
+8 번째 검색 내용 
 제목 : 
 
                             Explore the Latest Updates to WinForms Visual Basic Application Framework
@@ -61,7 +70,7 @@
 설명 : 
                          Recent updates to the WinForms Visual Basic Application Framework, including the ability to convert older .NET Framework-based apps to .NET 6, 7, or 8+ and new features like the Windows Forms Out-of-Process Designer. Upgrading to newer frameworks creates opportunities to support modern technologies like EF Core and many more valuable updates.
                     
-8 번째 검색 내용 
+9 번째 검색 내용 
 제목 : 
 
                             AWS Announces Kubernetes 1.25 Support for EKS
@@ -70,7 +79,7 @@
 설명 : 
                          AWS has recently announced that Amazon Elastic Kubernetes Service (EKS) now supports Kubernetes version 1.25. Highlights of this update include support for Pod Security Admission (PSA), general availability of ephemeral containers, and new values for control groups API version 2.
                     
-9 번째 검색 내용 
+10 번째 검색 내용 
 제목 : 
 
                             Green Software Development - What Can You Do Now, and Where is the Industry Heading?
@@ -79,7 +88,7 @@
 설명 : 
                          Making code more efficient often ends up saving carbon. Storing less information and compressing it can also lower your carbon footprint. There are open-source projects and standards and guides available that can be used to increase sustainability in software development. Measurement standardization is needed to compare the environmental impact of cloud suppliers.
                     
-10 번째 검색 내용 
+11 번째 검색 내용 
 제목 : 
 
                             Improving Developer Experience in Non-Technical Organisations with BMK
@@ -88,7 +97,7 @@
 설명 : 
                          BMK has recently written about the challenges and DevEx compromises faced by engineers within traditionally  non-technical enterprises. McKinsey Digital also recently published a report which asserts that every company is a software company.  We report on BMK and McKinsey's recommendations for non-technical firms to improve their delivery by adopting safer software cultures.
                     
-11 번째 검색 내용 
+12 번째 검색 내용 
 제목 : 
 
                             AWS Releases New Cloud-Optimized Linux Distribution with Amazon Linux 2023
@@ -97,7 +106,7 @@
 설명 : 
                          Recently, AWS announced the general availability of Amazon Linux 2023 (AL2023), a third-generation distribution with a high-security standard, predictable lifecycle, and deterministic updates.
                     
-12 번째 검색 내용 
+13 번째 검색 내용 
 제목 : 
 
                             HashiCorp Consul Improves Envoy Integration, Adds Debugging Tool
@@ -106,7 +115,7 @@
 설명 : 
                          HashiCorp has released Consul 1.15, adding new features that improve interacting with Envoy and troubleshooting issues within the service mesh platform. The release introduces improvements to Envoy access logging as well as adding in Consul Envoy extensions. To improve the troubleshooting experience, a new service-to-service troubleshooting tool has been added.
                     
-13 번째 검색 내용 
+14 번째 검색 내용 
 제목 : 
 
                             Java 20 Delivers Features for Projects Amber, Loom and Panama
@@ -115,7 +124,7 @@
 설명 : 
                          Oracle has released version 20 of the Java programming language and virtual machine with a final feature set that includes seven (7) JEPs. This release features JEPs that provide continued contribution toward Project Amber, Project Loom and Project Panama along with new rounds of preview and incubation.
                     
-14 번째 검색 내용 
+15 번째 검색 내용 
 제목 : 
 
                             Google Uses AutoML to Discover More Efficient AI Training Algorithm
@@ -123,13 +132,4 @@
 주소 : https://www.infoq.com/news/2023/03/google-lion-optimizer/
 설명 : 
                          Researchers at Google have open-sourced EvoLved sIgn mOmeNtum (Lion), an optimization algorithm for training neural networks, which was discovered using an automated machine learning (AutoML) evolutionary algorithm. Models trained with Lion can achieve better accuracy on several benchmarks than models trained with other optimizers, while requiring fewer compute cycles to converge.
-                    
-15 번째 검색 내용 
-제목 : 
-
-                            TypeScript 5 GA Extends Decorators, Stabilizes New Module Resolution Option, and More
-                        
-주소 : https://www.infoq.com/news/2023/03/typescript-5-ga/
-설명 : 
-                         After announcing TypeScript 5.0 Beta three months ago, TypeScript 5 has finally reached general availability. Among the most relevant changes are extended support for decorators to enable their placement before or after export and export defaults, the new bundler module resolution option, and more.
                     
