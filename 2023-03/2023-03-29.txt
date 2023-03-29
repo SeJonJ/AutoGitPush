@@ -1,0 +1,135 @@
+1 번째 검색 내용 
+제목 : 
+
+                            Effective and Efficient Observability with OpenTelemetry
+                        
+주소 : https://www.infoq.com/news/2023/03/effective-observability-otel/
+설명 : 
+                         Daniel Gomez Blanco, Principal Engineer at Skyscanner, shared his experiences at QCon London on a large-scale observability initiative at his company, based on adopting OpenTelemetry across hundreds of services and the motivation and value gained from adopting open standards across the entire organization.
+                    
+2 번째 검색 내용 
+제목 : 
+
+                            ChatGPT Is Fun, but the Future Is Fully Autonomous AI for Code at QCon London
+                        
+주소 : https://www.infoq.com/news/2023/03/diffblue-chatgpt-code-generation/
+설명 : 
+                         At QCon London, DiffBlue CEO Mathew Lodge discussed AI-powered code generation and reinforcement learning-based testing tools. Large Language Models like GPT-3.5 excel at code completion, while tools like DiffBlue Cover focus on autonomous test case generation, improving software quality & efficiency.
+                    
+3 번째 검색 내용 
+제목 : 
+
+                            PyTorch 2.0 Compiler Improves Model Training Speed
+                        
+주소 : https://www.infoq.com/news/2023/03/pytorch-release-compile/
+설명 : 
+                         The PyTorch Foundation recently released PyTorch version 2.0, a 100% backward compatible update. The main API contribution of the release is a compile function for deep learning models, which speeds up training. Internal benchmarks on 163 open-source AI projects showed that the models ran on average 43% faster during training.
+                    
+4 번째 검색 내용 
+제목 : 
+
+                            The Commoditization of the Software Stack:How Application-first Cloud Services are Changing the Game
+                        
+주소 : https://www.infoq.com/news/2023/03/application-first-cloud-services/
+설명 : 
+                         Cloud services are evolving, which influences how developers build distributed applications. At QCon London, Bilgin Ibryam, Product Manager at Diagrid, discussed the intersection of cloud-native technologies like Dapr with developer-focused cloud services.
+                    
+5 번째 검색 내용 
+제목 : 
+
+                            Low-Code API Builder Postman Flows Moves into General Availability
+                        
+주소 : https://www.infoq.com/news/2023/03/postman-flows-low-code-api/
+설명 : 
+                         Postman moved Postman Flows, their low-code API building tool, into general availability. Postman Flows provides a collaborative, graphical interface for building API-driven applications and workflows. It integrates with the Postman API Network to access publicly available APIs.
+                    
+6 번째 검색 내용 
+제목 : 
+
+                            The AI Revolution Is Just Getting Started: Leslie Miley Bids Us to Act Now against Its Bias and CO2
+                        
+주소 : https://www.infoq.com/news/2023/03/ai-bias/
+설명 : 
+                         At his inaugural keynote of the QCON London conference, Leslie Miley - Technical Advisor for the CTO at Microsoft, spoke about AI Bias and Sustainability. How the march towards transformative technologies, like large-scale AI and even crypto, has an inherent cost in the increased CO2 that comes with deployment at scale.  More than just context and impact, he suggests mitigation techniques.
+                    
+7 번째 검색 내용 
+제목 : 
+
+                            Oracle Introduces a New Java SE Universal Subscription
+                        
+주소 : https://www.infoq.com/news/2023/03/new-java-licensing-by-oracle/
+설명 : 
+                         Oracle has introduced the new Java SE Universal subscription and pricing, replacing the now legacy Java SE and Java SE Desktop subscriptions as of January 2023. According to the FAQ released by Oracle, this new change should simplify tracking and management of licensed environments since the permitted use is universal across desktops, servers, and third-party clouds.
+                    
+8 번째 검색 내용 
+제목 : 
+
+                            Java News Roundup: JDK 20 Released, Spring Releases, Quarkus, Helidon, Micronaut, Open Liberty
+                        
+주소 : https://www.infoq.com/news/2023/03/java-news-roundup-mar20-2023/
+설명 : 
+                         This week's Java roundup for March 20th, 2023 features news from OpenJDK, JDK 20, JDK 21, Amazon Corretto 20, BellSoft Liberica JDK 20, multiple Spring milestone and point releases, Quarkus 3.0.0.Beta1 and 2.16.5, Helidon 3.2.0, Open Liberty 23.0.0.3-beta, Micronaut 4.0.0-M1, Camel Quarkus 3.0.0-M1, JBang 0.105.1, Failsafe 3.3.1, Maven 3.9.1 and Gradle 8.1-RC1.
+                    
+9 번째 검색 내용 
+제목 : 
+
+                            Microsoft Previews Azure API Management Workspaces
+                        
+주소 : https://www.infoq.com/news/2023/03/azure-api-management-workspaces/
+설명 : 
+                         Microsoft recently added a new feature to Azure API Management with Workspaces, designed to enable developers to manage multiple API services from a single location, allowing them to easily view and modify all of their API services in one place.
+                    
+10 번째 검색 내용 
+제목 : 
+
+                            Uno Platform 4.8: New App Template Wizard & Design System Package Import, .NET 8 Preview 2, and More
+                        
+주소 : https://www.infoq.com/news/2023/03/uno-platform-4-8-released/
+설명 : 
+                         Uno Platform released version 4.8 of their framework for building native mobile, desktop, and WebAssembly apps. The latest version brings over 200 fixes and new features, as well as support for .NET 8 Preview 2. The highlight of the new release is the new startup experience, new App Template Wizard, OpenGL Acceleration, Design System Package Import, updates for Reactive / MVUX, and many more.
+                    
+11 번째 검색 내용 
+제목 : 
+
+                            Google Cloud Spanner Introduces Configurable Read-Only Replicas and Zero-Downtime Move Service
+                        
+주소 : https://www.infoq.com/news/2023/03/cloud-spanner-read-replicas/
+설명 : 
+                         Google recently announced new regional and multi-regional capabilities for Cloud Spanner. The distributed SQL database now supports configurable read-only replicas and introduced a "zero-downtime" instance move service.
+                    
+12 번째 검색 내용 
+제목 : 
+
+                            Docker+Wasm Reaches Technical Preview 2, Includes Three New Runtime Engines
+                        
+주소 : https://www.infoq.com/news/2023/03/docker-wasm-containers-preview-2/
+설명 : 
+                         Docker has announced the second technical preview of Docker+Wasm, aiming to make it easier to run Wasm workloads and extending runtime support by including Fermyon's spin, Deislabs' slight, and Bytecode Alliance's wasmtime runtime engines.
+                    
+13 번째 검색 내용 
+제목 : 
+
+                            Google Distributed Cloud Hosted Now Generally Available
+                        
+주소 : https://www.infoq.com/news/2023/03/google-distributed-cloud-hosted/
+설명 : 
+                         Google recently announced the general availability of Google Distributed Cloud (GDC) Hosted, an offering for customers with the most stringent requirements, including classified, restricted, and top-secret data. It complements Google Distributed Cloud Edge and Google Distributed Cloud Virtual, which became generally available in 2022.
+                    
+14 번째 검색 내용 
+제목 : 
+
+                            Survey on Supply Chain Practices Finds Perceived Usefulness of Practice Correlates with Adoption
+                        
+주소 : https://www.infoq.com/news/2023/03/slsa-survey-adoption/
+설명 : 
+                         A recent survey on supply chain security practices found that some practices are widely adopted but key practices are lagging behind. Key practices, such as generating provenance, were noted for lagging behind in adoption. The survey also found that the perceived usefulness of a practice is highly correlated with the adoption of that practice.
+                    
+15 번째 검색 내용 
+제목 : 
+
+                            AWS Announces Open Source Mountpoint for Amazon S3
+                        
+주소 : https://www.infoq.com/news/2023/03/mountpoint-amazon-s3/
+설명 : 
+                         During the latest Pi Day, AWS announced Mountpoint for Amazon S3, an open-source file client to deliver high throughput access on Amazon S3. Currently in alpha, the local mount point provides high single-instance transfer rates and is primarily intended for data lake applications.
+                    
