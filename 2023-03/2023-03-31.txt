@@ -1,0 +1,135 @@
+1 번째 검색 내용 
+제목 : 
+
+                            Cloud Provider Sustainability: The Need for a Workload Carbon Footprint Standard
+                        
+주소 : https://www.infoq.com/news/2023/03/carbon-footprint-standard/
+설명 : 
+                         Adrian Cockcroft, tech advisor and former VP for sustainability architecture at Amazon, shared his vision at QCon London on sustainability commitments for cloud providers and the current challenges in determining their supply chain carbon footprint. Cockcroft advocated for a new real-time carbon footprint standard.
+                    
+2 번째 검색 내용 
+제목 : 
+
+                            KubeEdge Achieves SLSA Level 3 Compliance
+                        
+주소 : https://www.infoq.com/news/2023/03/kubeedge-slsa-level-3/
+설명 : 
+                         KubeEdge, a CNCF incubating project, recently met the Supply Chain Levels for Software Artifacts (SLSA) 3 compliance. SLSA 3 certifies the end-to-end security of KubeEdge's software supply chain process, ensuring that binary and container image artifacts are protected from malicious tampering.
+                    
+3 번째 검색 내용 
+제목 : 
+
+                            BBC’s Enablement Team Principles Focus On Openness, Collaboration, and Respect
+                        
+주소 : https://www.infoq.com/news/2023/03/bbc-enablement-principles/
+설명 : 
+                         At QCon London BBC shared the 5 enablement principles paving the road for their teams towards improved development and release processes. Egan shared techniques, challenges and learnings from her team’s journey, with the major takeaway being that the principles have almost nothing to do with the tools themselves.
+                    
+4 번째 검색 내용 
+제목 : 
+
+                            Celebrity Vulnerabilities: Effective Response to Critical Production Threats
+                        
+주소 : https://www.infoq.com/news/2023/03/celebrity-vulnerabilities-qcon/
+설명 : 
+                         Alyssa Miller, chief information security officer of EpiqGlobal, presented at QCon London about the lessons learned from three major open-source security events, the Equifax breach via Struts, the Log4j vulnerabilities, and the Spring4Shell exploit.
+                    
+5 번째 검색 내용 
+제목 : 
+
+                            Learnings from Measuring Psychological Safety
+                        
+주소 : https://www.infoq.com/news/2023/03/measuring-psychological-safety/
+설명 : 
+                         Asking people how they feel about taking certain types of risks can give insight into the level of psychological safety and help uncover issues. Discussing the answers can strengthen the level of safety of more mature teams and help less mature teams to understand how they could improve.
+                    
+6 번째 검색 내용 
+제목 : 
+
+                            Living on the Edge: Boosting Your Site's Performance with Edge Computing
+                        
+주소 : https://www.infoq.com/news/2023/03/site-performance-edge-computing/
+설명 : 
+                         Erica Pisani, senior software engineer at Netlify, presented at QCon London on what edge is, how running code and serving data on the edge can improve site performance, and how to leverage these options effectively in a site to maximize site performance with minimal architectural changes.
+                    
+7 번째 검색 내용 
+제목 : 
+
+                            Rebecca Parsons - ThoughtWorks CTO: by 2025 We'll See Evolution in Architecture, But Not Revolution
+                        
+주소 : https://www.infoq.com/news/2023/03/evolutionary-architecture-2025/
+설명 : 
+                         On the second day of the QCon London conference, Rebecca Parsons, chief technical officer at ThoughtWorks, revisited the idea of evolutionary architecture imaging how it might evolve until 2025. Starting from the definition, she visited each of the definitory attributes anticipating how they will evolve in the next period. Concluding that we will see evolution, but not a revolution.
+                    
+8 번째 검색 내용 
+제목 : 
+
+                            The Swift Package Index Now Backed by Apple
+                        
+주소 : https://www.infoq.com/news/2023/03/apple-swift-package-index/
+설명 : 
+                         The Swift Package Index was created about three years ago by Dave Verwer and Sven A. Schmidt, with the aim of making it easier for Swift developers to search and discover Swift packages. The project is now officially sponsored by Apple,  thus making it the official place to go for anything related to Swift packages
+                    
+9 번째 검색 내용 
+제목 : 
+
+                            Effective and Efficient Observability with OpenTelemetry
+                        
+주소 : https://www.infoq.com/news/2023/03/effective-observability-otel/
+설명 : 
+                         Daniel Gomez Blanco, principal engineer at Skyscanner, shared his experiences at QCon London on a large-scale observability initiative at his company, based on adopting OpenTelemetry across hundreds of services and the motivation and value gained from adopting open standards across the entire organization.
+                    
+10 번째 검색 내용 
+제목 : 
+
+                            ChatGPT is Fun, But the Future is Fully Autonomous AI for Code at QCon London
+                        
+주소 : https://www.infoq.com/news/2023/03/diffblue-chatgpt-code-generation/
+설명 : 
+                         At QCon London, DiffBlue CEO Mathew Lodge discussed AI-powered code generation and reinforcement learning-based testing tools. Large Language Models like GPT-3.5 excel at code completion, while tools like DiffBlue Cover focus on autonomous test case generation, improving software quality & efficiency.
+                    
+11 번째 검색 내용 
+제목 : 
+
+                            PyTorch 2.0 Compiler Improves Model Training Speed
+                        
+주소 : https://www.infoq.com/news/2023/03/pytorch-release-compile/
+설명 : 
+                         The PyTorch Foundation recently released PyTorch version 2.0, a 100% backward compatible update. The main API contribution of the release is a compile function for deep learning models, which speeds up training. Internal benchmarks on 163 open-source AI projects showed that the models ran on average 43% faster during training.
+                    
+12 번째 검색 내용 
+제목 : 
+
+                            The Commoditization of Software Stack: How Application-First Cloud Services are Changing the Game
+                        
+주소 : https://www.infoq.com/news/2023/03/application-first-cloud-services/
+설명 : 
+                         Cloud services are evolving, which influences how developers build distributed applications. At QCon London, Bilgin Ibryam, product manager at Diagrid, discussed the intersection of cloud-native technologies like Dapr with developer-focused cloud services.
+                    
+13 번째 검색 내용 
+제목 : 
+
+                            Low-Code API Builder Postman Flows Moves into General Availability
+                        
+주소 : https://www.infoq.com/news/2023/03/postman-flows-low-code-api/
+설명 : 
+                         Postman moved Postman Flows, their low-code API building tool, into general availability. Postman Flows provides a collaborative, graphical interface for building API-driven applications and workflows. It integrates with the Postman API Network to access publicly available APIs.
+                    
+14 번째 검색 내용 
+제목 : 
+
+                            The AI Revolution Is Just Getting Started: Leslie Miley Bids Us to Act Now against Its Bias and CO2
+                        
+주소 : https://www.infoq.com/news/2023/03/ai-bias/
+설명 : 
+                         At his inaugural keynote of the QCON London conference, Leslie Miley, technical advisor for the CTO at Microsoft, spoke about AI Bias and Sustainability, and how the march towards transformative technologies, like large-scale AI and even crypto, has an inherent cost in the increased CO2 that comes with deployment at scale.  More than just context and impact, he suggests mitigation techniques.
+                    
+15 번째 검색 내용 
+제목 : 
+
+                            Oracle Introduces a New Java SE Universal Subscription
+                        
+주소 : https://www.infoq.com/news/2023/03/new-java-licensing-by-oracle/
+설명 : 
+                         Oracle has introduced the new Java SE Universal subscription and pricing, replacing the now legacy Java SE and Java SE Desktop subscriptions as of January 2023. According to the FAQ released by Oracle, this new change should simplify tracking and management of licensed environments since the permitted use is universal across desktops, servers, and third-party clouds.
+                    
