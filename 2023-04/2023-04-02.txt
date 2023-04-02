@@ -1,13 +1,22 @@
 1 번째 검색 내용 
 제목 : 
 
+                            AWS Data on EKS Provides Opinionated Data Workload Blueprints
+                        
+주소 : https://www.infoq.com/news/2023/04/aws-data-eks-blueprints/
+설명 : 
+                         AWS has released Data on EKS (DoEKS) an open-source project providing templates, guidance, and best practices for deploying data workloads on Amazon Elastic Kubernetes Service (EKS). While the main focus is on running Apache Spark on Amazon EKS, blueprints also exist for other data workloads such as Ray, Apache Airflow, Argo Workflows, and Kubeflow.
+                    
+2 번째 검색 내용 
+제목 : 
+
                             Amazon OpenSearch Service Introduces Security Analytics
                         
 주소 : https://www.infoq.com/news/2023/04/aws-opensearch-securty-analytics/
 설명 : 
                          Amazon recently announced the general availability of security analytics for OpenSearch Service. The new capability of the successor of ElasticSearch Service provides threat monitoring, detection, and alerting features to help manage security threats.
                     
-2 번째 검색 내용 
+3 번째 검색 내용 
 제목 : 
 
                             Microsoft Previews Azure Cosmos DB for MongoDB vCore Service
@@ -16,7 +25,7 @@
 설명 : 
                          Microsoft recently announced the preview of Azure Cosmos DB for MongoDB vCore, a fully-managed MongoDB-compatible database service that provides developers with a familiar architecture for building modern applications with native Azure integrations and a low total cost of ownership.
                     
-3 번째 검색 내용 
+4 번째 검색 내용 
 제목 : 
 
                             GitLab Ultimate Adds Code Viewing Ability for Guest Roles
@@ -25,7 +34,7 @@
 설명 : 
                          GitLab has added customizable roles to its Ultimate subscription, enabling customers to define their roles, based on the current Guest role. The minimal viable change allows Ultimate users to add one additional permission to the Guest role, which grants users the ability to view code, known as Guest+1.
                     
-4 번째 검색 내용 
+5 번째 검색 내용 
 제목 : 
 
                             Why Cloud Zombies Are Destroying the Planet and How You Can Stop Them
@@ -34,7 +43,7 @@
 설명 : 
                          At QCon London, Holly Cummins, Quarkus senior principal software engineer at RedHat, talked about how utilization and elasticity relate to sustainability. In addition, she introduced a range of practical zombie-hunting techniques, including absurdly simple automation, LightSwitchOps, and FinOps.
                     
-5 번째 검색 내용 
+6 번째 검색 내용 
 제목 : 
 
                             Microsoft Semantic Kernel Enables LLM Integration with Conventional Programs
@@ -43,7 +52,7 @@
 설명 : 
                          Microsoft has open sourced Semantic Kernel (SK), a lightweight SDK enabling the integration of large language models (LLMs) with conventional programs which can leverage prompt templating, vectorized memory, intelligent planning, and other capabilities.
                     
-6 번째 검색 내용 
+7 번째 검색 내용 
 제목 : 
 
                             Cloud Provider Sustainability: the Need for a Workload Carbon Footprint Standard
@@ -52,7 +61,7 @@
 설명 : 
                          Adrian Cockcroft, tech advisor and former VP for sustainability architecture at Amazon, shared his vision at QCon London on sustainability commitments for cloud providers and the current challenges in determining their supply chain carbon footprint. Cockcroft advocated for a new real-time carbon footprint standard.
                     
-7 번째 검색 내용 
+8 번째 검색 내용 
 제목 : 
 
                             KubeEdge Achieves SLSA Level 3 Compliance
@@ -61,7 +70,7 @@
 설명 : 
                          KubeEdge, a CNCF incubating project, recently met the Supply Chain Levels for Software Artifacts (SLSA) 3 compliance. SLSA 3 certifies the end-to-end security of KubeEdge's software supply chain process, ensuring that binary and container image artifacts are protected from malicious tampering.
                     
-8 번째 검색 내용 
+9 번째 검색 내용 
 제목 : 
 
                             BBC’s Enablement Team Principles Focus on Openness, Collaboration, and Respect
@@ -70,7 +79,7 @@
 설명 : 
                          At QCon London BBC shared the five enablement principles paving the road for their teams towards improved development and release processes. Steph Egan shared techniques, challenges and learnings from her team’s journey, with the major takeaway being that the principles have almost nothing to do with the tools themselves.
                     
-9 번째 검색 내용 
+10 번째 검색 내용 
 제목 : 
 
                             Celebrity Vulnerabilities: Effective Response to Critical Production Threats
@@ -79,7 +88,7 @@
 설명 : 
                          Alyssa Miller, chief information security officer of EpiqGlobal, presented at QCon London about the lessons learned from three major open-source security events, the Equifax breach via Struts, the Log4j vulnerabilities, and the Spring4Shell exploit.
                     
-10 번째 검색 내용 
+11 번째 검색 내용 
 제목 : 
 
                             Learnings from Measuring Psychological Safety
@@ -88,7 +97,7 @@
 설명 : 
                          Asking people how they feel about taking certain types of risks can give insight into the level of psychological safety and help uncover issues. Discussing the answers can strengthen the level of safety of more mature teams and help less mature teams to understand how they could improve.
                     
-11 번째 검색 내용 
+12 번째 검색 내용 
 제목 : 
 
                             Living on the Edge: Boosting Your Site's Performance with Edge Computing
@@ -97,7 +106,7 @@
 설명 : 
                          Erica Pisani, senior software engineer at Netlify, presented at QCon London on what edge is, how running code and serving data on the edge can improve site performance, and how to leverage these options effectively in a site to maximize site performance with minimal architectural changes.
                     
-12 번째 검색 내용 
+13 번째 검색 내용 
 제목 : 
 
                             Rebecca Parsons - Thoughtworks CTO: by 2025 We'll See Evolution in Architecture, But Not Revolution
@@ -106,7 +115,7 @@
 설명 : 
                          On the second day of the QCon London conference, Rebecca Parsons, chief technical officer at Thoughtworks, revisited the idea of evolutionary architecture imaging how it might evolve until 2025. Starting from the definition, she visited each of the definitory attributes anticipating how they will evolve in the next period. Concluding that we will see evolution, but not a revolution.
                     
-13 번째 검색 내용 
+14 번째 검색 내용 
 제목 : 
 
                             The Swift Package Index Now Backed by Apple
@@ -115,7 +124,7 @@
 설명 : 
                          The Swift Package Index was created about three years ago by Dave Verwer and Sven A. Schmidt, with the aim of making it easier for Swift developers to search and discover Swift packages. The project is now officially sponsored by Apple,  thus making it the official place to go for anything related to Swift packages
                     
-14 번째 검색 내용 
+15 번째 검색 내용 
 제목 : 
 
                             Effective and Efficient Observability with OpenTelemetry
@@ -123,13 +132,4 @@
 주소 : https://www.infoq.com/news/2023/03/effective-observability-otel/
 설명 : 
                          Daniel Gomez Blanco, principal engineer at Skyscanner, shared his experiences at QCon London on a large-scale observability initiative at his company, based on adopting OpenTelemetry across hundreds of services and the motivation and value gained from adopting open standards across the entire organization.
-                    
-15 번째 검색 내용 
-제목 : 
-
-                            ChatGPT is Fun, But the Future is Fully Autonomous AI for Code at QCon London
-                        
-주소 : https://www.infoq.com/news/2023/03/diffblue-chatgpt-code-generation/
-설명 : 
-                         At QCon London, DiffBlue CEO Mathew Lodge discussed AI-powered code generation and reinforcement learning-based testing tools. Large Language Models like GPT-3.5 excel at code completion, while tools like DiffBlue Cover focus on autonomous test case generation, improving software quality & efficiency.
                     
