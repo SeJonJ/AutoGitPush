@@ -1,13 +1,31 @@
 1 번째 검색 내용 
 제목 : 
 
+                            Microsoft Showcases Reliable Web App Patterns for Resilient Cloud Applications
+                        
+주소 : https://www.infoq.com/news/2023/04/reliable-web-app-pattern/
+설명 : 
+                         Microsoft has shared the source code and the documentation for the Reliable Web App pattern, a set of best practices that help on-premise web application developers create secure, reliable and cost-optimised cloud applications in Azure with minimal changes.
+                    
+2 번째 검색 내용 
+제목 : 
+
+                            Amazon GuardDuty Adds EKS Runtime Monitoring and RDS Protection
+                        
+주소 : https://www.infoq.com/news/2023/04/guardduty-eks-runtime-monitoring/
+설명 : 
+                         Amazon GuardDuty added Amazon EKS Runtime Monitoring and RDS Protection for Amazon Aurora. EKS Runtime Monitoring can detect runtime threats from over 30 different security findings. RDS Protection adds support for profiling and monitoring access activity to Aurora databases.
+                    
+3 번째 검색 내용 
+제목 : 
+
                             OpenAI Announces GPT-4, Their Next Generation GPT Model
                         
 주소 : https://www.infoq.com/news/2023/04/openai-gpt4/
 설명 : 
                          OpenAI recently announced GPT-4, the next generation of their GPT family of large language models (LLM). GPT-4 can accept both text and image inputs and outperforms state-of-the-art systems on several natural language processing (NLP) benchmarks. The model also scored in the 90th percentile on a simulated bar exam.
                     
-2 번째 검색 내용 
+4 번째 검색 내용 
 제목 : 
 
                             Google Announces Preview of AlloyDB Omni: Run a PostgreSQL-Compatible Database Anywhere
@@ -16,7 +34,7 @@
 설명 : 
                          Google recently announced the preview of AlloyDB Omni, a downloadable edition of AlloyDB designed to run on-premises, at the edge, across clouds, or even on developer laptops.
                     
-3 번째 검색 내용 
+5 번째 검색 내용 
 제목 : 
 
                             Web Framework Astro Now Features Static, Server, and Hybrid Rendering for Faster Web Sites
@@ -25,7 +43,7 @@
 설명 : 
                          HTML-first web framework Astro recently released Astro 2.0 and complements previously available static and dynamic server rendering with new hybrid rendering capabilities. Hybrid rendering allows prerendering specific pages for faster performance.
                     
-4 번째 검색 내용 
+6 번째 검색 내용 
 제목 : 
 
                             Why Technical Experience Matters
@@ -34,7 +52,7 @@
 설명 : 
                          Sven Reimers, System Engineer at Airbus Defence & Space, shared a few lessons on his journey about How To Build a Lifelong Career in Software Development and the Value of Engineering at QCon London. In this session, Sven discussed what one can do to advance in a technical career based on real world experience.
                     
-5 번째 검색 내용 
+7 번째 검색 내용 
 제목 : 
 
                             Java News Roundup: JDK 21 Release Schedule, Payara Platform, JBang, JHipster, WildFly
@@ -43,7 +61,7 @@
 설명 : 
                          This week's Java roundup for March 27th, 2023 features news from OpenJDK, JDK 21, GlassFish 7.0.3, Spring point and milestone releases, Payara Platform, Quarkus 3.0.CR1, Micronaut 3.8.8, WildFly 28 Beta1, Hibernate ORM 6.2, Groovy 4.0.11, Camel 3.20.3, James 3.7.4, Eclipse Vert.x 4.4.1, JHipster Quarkus Blueprint 2.0, JHipster Lite 0.30, JBang 0.106, Gradle 8.1-CR2 and new Foojay.io calendar.
                     
-6 번째 검색 내용 
+8 번째 검색 내용 
 제목 : 
 
                             The Web's Next Transition
@@ -52,7 +70,7 @@
 설명 : 
                          Software Engineer Educator, Kent C. Dodds opened the Modern Frontend Development and Architecture track at QCon London with his keynote on The Web’s Next Transition, focused on Modern Infrastructure and Techniques.
                     
-7 번째 검색 내용 
+9 번째 검색 내용 
 제목 : 
 
                             Tales of Kafka at Cloudflare
@@ -61,7 +79,7 @@
 설명 : 
                          At QCon London, Andrea Medda, Senior Systems Engineer at Cloudflare, and Matt Boyle, Engineering Manager at Cloudflare, shared the lessons their platform services team learned from enabling the use of Apache Kafka at the scale of 1 trillion messages.
                     
-8 번째 검색 내용 
+10 번째 검색 내용 
 제목 : 
 
                             Swift 5.8 Adds Function Back-Deployment and Upcoming Feature Support
@@ -70,7 +88,7 @@
 설명 : 
                          The latest release of Swift introduces support for piecemeal adoption of upcoming features, which allows developers to start using new features that will become stable in Swift 6. Additionally, it opens the way for making new features retroactively available in earlier OSes.
                     
-9 번째 검색 내용 
+11 번째 검색 내용 
 제목 : 
 
                             Entity Framework Core 8 Preview 2 Released
@@ -79,7 +97,7 @@
 설명 : 
                          Entity Framework Core 8 Preview 2 was released on March 14th. The most notable feature in EF Core 8 preview 2 is support for SQL Server hierarchical data.
                     
-10 번째 검색 내용 
+12 번째 검색 내용 
 제목 : 
 
                             Strategies and Principles to Scale and Evolve MLOps - at QCon London
@@ -88,7 +106,7 @@
 설명 : 
                          At the QCon London conference, Hien Luu, senior engineering manager for the Machine Learning Platform at DoorDash, discussed strategies and principles for scaling and evolving MLOps. With 85% of ML projects failing, understanding MLOps at an engineering level is crucial. Luu shared three core principles: "Dream Big, Start Small," "1% Better Every Day," and "Customer Obsession."
                     
-11 번째 검색 내용 
+13 번째 검색 내용 
 제목 : 
 
                             Responsible AI: from Principle to Practice at QCon London
@@ -97,7 +115,7 @@
 설명 : 
                          At the QCon London conference, Microsoft's Mehrnoosh Sameki discussed Responsible AI principles and tools. She emphasized fairness, reliability, safety, privacy, inclusiveness, transparency, and accountability. Tools such as Fairlearn, InterpretML, and the Responsible AI dashboard help implement these principles.
                     
-12 번째 검색 내용 
+14 번째 검색 내용 
 제목 : 
 
                             AWS Data on EKS Provides Opinionated Data Workload Blueprints
@@ -106,7 +124,7 @@
 설명 : 
                          AWS has released Data on EKS (DoEKS), an open-source project providing templates, guidance, and best practices for deploying data workloads on Amazon Elastic Kubernetes Service (EKS). While the main focus is on running Apache Spark on Amazon EKS, blueprints also exist for other data workloads such as Ray, Apache Airflow, Argo Workflows, and Kubeflow.
                     
-13 번째 검색 내용 
+15 번째 검색 내용 
 제목 : 
 
                             Amazon OpenSearch Service Introduces Security Analytics
@@ -114,22 +132,4 @@
 주소 : https://www.infoq.com/news/2023/04/aws-opensearch-securty-analytics/
 설명 : 
                          Amazon recently announced the general availability of security analytics for OpenSearch Service. The new capability of the successor of ElasticSearch Service provides threat monitoring, detection, and alerting features to help manage security threats.
-                    
-14 번째 검색 내용 
-제목 : 
-
-                            Microsoft Previews Azure Cosmos DB for MongoDB vCore Service
-                        
-주소 : https://www.infoq.com/news/2023/03/azure-cosmosdb-mongodb-vcore/
-설명 : 
-                         Microsoft recently announced the preview of Azure Cosmos DB for MongoDB vCore, a fully-managed MongoDB-compatible database service that provides developers with a familiar architecture for building modern applications with native Azure integrations and a low total cost of ownership.
-                    
-15 번째 검색 내용 
-제목 : 
-
-                            GitLab Ultimate Adds Code Viewing Ability for Guest Roles
-                        
-주소 : https://www.infoq.com/news/2023/03/gitlab-ultimate-guest-roles/
-설명 : 
-                         GitLab has added customizable roles to its Ultimate subscription, enabling customers to define their roles, based on the current Guest role. The minimal viable change allows Ultimate users to add one additional permission to the Guest role, which grants users the ability to view code, known as Guest+1.
                     
