@@ -1,13 +1,22 @@
 1 번째 검색 내용 
 제목 : 
 
+                            Azure Previews ND H100 V5 Virtual Machines to Accelerate Generative AI
+                        
+주소 : https://www.infoq.com/news/2023/04/azure-nd-H100-nvidia/
+설명 : 
+                         Azure recently announced the preview of the ND H100 v5, virtual machines that integrate the latest Nvidia H100 Tensor Core GPUs and support Quantum-2 InfiniBand networking. According to Microsoft, the new option will offer AI developers improved performance and scaling across thousands of GPUs.
+                    
+2 번째 검색 내용 
+제목 : 
+
                             New Rust-Based Web Bundler Rspack Touts up to 10X Speed Improvement over Webpack
                         
 주소 : https://www.infoq.com/news/2023/04/rust-rspack-webpack-compatible/
 설명 : 
                          Chinese internet technology company Bytedance and Valor Software recently open-sourced Rspack, a web bundler written in Rust that aims to be a fast, drop-in replacement for Webpack. Some early benchmarks show 10x improvement in cold start time.
                     
-2 번째 검색 내용 
+3 번째 검색 내용 
 제목 : 
 
                             AI, ML & Data News Roundup: OpenAI, Microsoft, Meta and Bloomberg
@@ -16,7 +25,7 @@
 설명 : 
                          This week's roundup for April 3rd, 2023 includes the most recent news and information from the fields of data science, machine learning, and artificial intelligence.
                     
-3 번째 검색 내용 
+4 번째 검색 내용 
 제목 : 
 
                             Improving Web Accessibility with Semantic HTML and Testing Techniques and Tools
@@ -25,7 +34,7 @@
 설명 : 
                          Web accessibility benefits all of us. Designers, developers, and testers can check for web accessibility and can make the web and services more inclusive, for instance by using semantic HTML, following web standards when coding, and testing for web accessibility. Countries are introducing regulations to enforce inclusive standards.
                     
-4 번째 검색 내용 
+5 번째 검색 내용 
 제목 : 
 
                             GitHub Adds SBOM Export to Make it Easier to Comply with Security Requirements
@@ -34,7 +43,7 @@
 설명 : 
                          GitHub has announced a new SBOM export feature meant to be used as part of security compliance workflows and tools. The new feature allows you to export NTIA-compliant SBOM easily, says GitHub.
                     
-5 번째 검색 내용 
+6 번째 검색 내용 
 제목 : 
 
                             Visual Studio 2022 v17.6 Preview 2: Productivity, Game Development and Enterprise Management
@@ -43,7 +52,7 @@
 설명 : 
                          Visual Studio 2022 v17.6 Preview 2 is available, bringing new features and improvements for boosting productivity, game development, and enterprise management. The release includes updates such as a new Android Manifest Editor, Unreal Engine Code Analysis, HLSL Tools Extension, Create Member Function features, Git Stage and Commit During Build, Merge Dialog updates, and breakpoint groups, etc.
                     
-6 번째 검색 내용 
+7 번째 검색 내용 
 제목 : 
 
                             Microsoft Showcases Reliable Web App Patterns for Resilient Cloud Applications
@@ -52,7 +61,7 @@
 설명 : 
                          Microsoft has shared the source code and the documentation for the Reliable Web App pattern, a set of best practices that help on-premise web application developers create secure, reliable and cost-optimised cloud applications in Azure with minimal changes.
                     
-7 번째 검색 내용 
+8 번째 검색 내용 
 제목 : 
 
                             Amazon GuardDuty Adds EKS Runtime Monitoring and RDS Protection
@@ -61,7 +70,7 @@
 설명 : 
                          Amazon GuardDuty added Amazon EKS Runtime Monitoring and RDS Protection for Amazon Aurora. EKS Runtime Monitoring can detect runtime threats from over 30 different security findings. RDS Protection adds support for profiling and monitoring access activity to Aurora databases.
                     
-8 번째 검색 내용 
+9 번째 검색 내용 
 제목 : 
 
                             OpenAI Announces GPT-4, Their Next Generation GPT Model
@@ -70,7 +79,7 @@
 설명 : 
                          OpenAI recently announced GPT-4, the next generation of their GPT family of large language models (LLM). GPT-4 can accept both text and image inputs and outperforms state-of-the-art systems on several natural language processing (NLP) benchmarks. The model also scored in the 90th percentile on a simulated bar exam.
                     
-9 번째 검색 내용 
+10 번째 검색 내용 
 제목 : 
 
                             Google Announces Preview of AlloyDB Omni: Run a PostgreSQL-Compatible Database Anywhere
@@ -79,7 +88,7 @@
 설명 : 
                          Google recently announced the preview of AlloyDB Omni, a downloadable edition of AlloyDB designed to run on-premises, at the edge, across clouds, or even on developer laptops.
                     
-10 번째 검색 내용 
+11 번째 검색 내용 
 제목 : 
 
                             Web Framework Astro Now Features Static, Server, and Hybrid Rendering for Faster Web Sites
@@ -88,7 +97,7 @@
 설명 : 
                          HTML-first web framework Astro recently released Astro 2.0 and complements previously available static and dynamic server rendering with new hybrid rendering capabilities. Hybrid rendering allows prerendering specific pages for faster performance.
                     
-11 번째 검색 내용 
+12 번째 검색 내용 
 제목 : 
 
                             Why Technical Experience Matters: Sven Reimers at QCon London
@@ -97,7 +106,7 @@
 설명 : 
                          Sven Reimers, system engineer at Airbus Defence & Space, shared a few lessons on his journey about How To Build a Lifelong Career in Software Development and the Value of Engineering at QCon London. In this session, Reimers discussed what one can do to advance in a technical career based on real world experience.
                     
-12 번째 검색 내용 
+13 번째 검색 내용 
 제목 : 
 
                             Java News Roundup: JDK 21 Release Schedule, Payara Platform, JBang, JHipster, WildFly
@@ -106,7 +115,7 @@
 설명 : 
                          This week's Java roundup for March 27th, 2023, features news from OpenJDK, JDK 21, GlassFish 7.0.3, Spring point and milestone releases, Payara Platform, Quarkus 3.0.CR1, Micronaut 3.8.8, WildFly 28 Beta1, Hibernate ORM 6.2, Groovy 4.0.11, Camel 3.20.3, James 3.7.4, Eclipse Vert.x 4.4.1, JHipster Quarkus Blueprint 2.0, JHipster Lite 0.30, JBang 0.106, Gradle 8.1-CR2 and new Foojay.io calendar.
                     
-13 번째 검색 내용 
+14 번째 검색 내용 
 제목 : 
 
                             The Web's Next Transition: Kent C. Dodds at QCon London
@@ -115,7 +124,7 @@
 설명 : 
                          Software engineer educator Kent C. Dodds opened the Modern Frontend Development and Architecture track at QCon London with his keynote on The Web’s Next Transition, focused on Modern Infrastructure and Techniques.
                     
-14 번째 검색 내용 
+15 번째 검색 내용 
 제목 : 
 
                             Tales of Kafka at Cloudflare: Andrea Medda and Matt Boyle at QCon London
@@ -123,13 +132,4 @@
 주소 : https://www.infoq.com/news/2023/04/cloudflare-kafka-lessons-learned/
 설명 : 
                          At QCon London, Andrea Medda, senior systems engineer at Cloudflare, and Matt Boyle, engineering manager at Cloudflare, shared the lessons their platform services team learned from enabling the use of Apache Kafka at the scale of 1 trillion messages.
-                    
-15 번째 검색 내용 
-제목 : 
-
-                            Swift 5.8 Adds Function Back-Deployment and Upcoming Feature Support
-                        
-주소 : https://www.infoq.com/news/2023/04/swift-5-8-released/
-설명 : 
-                         The latest release of Swift introduces support for piecemeal adoption of upcoming features, which allows developers to start using new features that will become stable in Swift 6. Additionally, it opens the way for making new features retroactively available in earlier OSes.
                     
