@@ -1,13 +1,31 @@
 1 번째 검색 내용 
 제목 : 
 
+                            Bloomberg Unveils a GPT Finance-Focused AI Model
+                        
+주소 : https://www.infoq.com/news/2023/04/bloomberg-gpt-ai/
+설명 : 
+                         Bloomberg has released BloombergGPT, a new large language model (LLM) that has been trained on enormous amounts of financial data and can help with a range of natural language processing (NLP) activities for the financial sector.
+                    
+2 번째 검색 내용 
+제목 : 
+
+                            Computer Networks: Myths, Missteps, and Mysteries - Radia Perlman at QCon London
+                        
+주소 : https://www.infoq.com/news/2023/04/perlman-qcon/
+설명 : 
+                         Radia Perlman, EMC Fellow and one of the pioneers of early network design, presented a keynote at QCon London that explored how networking protocols and technologies have evolved to become today’s Internet. In her talk, she responded to some of the common questions (e.g. Why do we need both Ethernet and IP?) and explored how things might have looked if they were designed today.
+                    
+3 번째 검색 내용 
+제목 : 
+
                             Import Maps, Now Available in All Browsers, Improves Module Resolution in JavaScript
                         
 주소 : https://www.infoq.com/news/2023/04/import-maps-generally-available/
 설명 : 
                          With Safari 16.4 recently adding support for import maps, JavaScript developers can now use import maps in all modern browsers. Older browsers can use a polyfill. Import maps bring better module resolution for JavaScript applications.
                     
-2 번째 검색 내용 
+4 번째 검색 내용 
 제목 : 
 
                             Open Source Git Project Releases Version 2.40
@@ -16,7 +34,7 @@
 설명 : 
                          Recently, the open-source Git project released its latest version 2.40, bringing some new features and bug fixes. Highlights of this release include updates to git jump tool, enhancements to cat-file tool, and faster response on Windows.
                     
-3 번째 검색 내용 
+5 번째 검색 내용 
 제목 : 
 
                             JEP 444: Virtual Threads Arrive in JDK 21, Ushering a New Era of Concurrency
@@ -25,7 +43,7 @@
 설명 : 
                          JEP 444, Virtual Threads, was promoted from Candidate to Proposed to Target status for JDK 21. This feature offers a lightweight threading model to simplify the creation, management, and monitoring of high-throughput concurrent Java applications, allowing developers to efficiently handle millions of tasks and make better use of system resources.
                     
-4 번째 검색 내용 
+6 번째 검색 내용 
 제목 : 
 
                             Microsoft Enhances Azure Learning with Learn Rooms
@@ -34,7 +52,7 @@
 설명 : 
                          Microsoft recently announced a new offering for learning Azure with Learn Rooms, a part of the Microsoft Learn community designed to allow learners to connect with other learners and technical experts with similar interests in Azure.
                     
-5 번째 검색 내용 
+7 번째 검색 내용 
 제목 : 
 
                             Azure Previews ND H100 V5 Virtual Machines to Accelerate Generative AI
@@ -43,7 +61,7 @@
 설명 : 
                          Azure recently announced the preview of the ND H100 v5, virtual machines that integrate the latest Nvidia H100 Tensor Core GPUs and support Quantum-2 InfiniBand networking. According to Microsoft, the new option will offer AI developers improved performance and scaling across thousands of GPUs.
                     
-6 번째 검색 내용 
+8 번째 검색 내용 
 제목 : 
 
                             New Rust-Based Web Bundler Rspack Touts up to 10X Speed Improvement over Webpack
@@ -52,16 +70,16 @@
 설명 : 
                          Chinese internet technology company Bytedance and Valor Software recently open-sourced Rspack, a web bundler written in Rust that aims to be a fast, drop-in replacement for Webpack. Some early benchmarks show 10x improvement in cold start time.
                     
-7 번째 검색 내용 
+9 번째 검색 내용 
 제목 : 
 
                             AI, ML & Data News Roundup: OpenAI’s GPT-4, Microsoft’s Semantic Kernel, Meta SAM and BloombergGPT
                         
 주소 : https://www.infoq.com/news/2023/04/ai-ml-data-news-april3-2023/
 설명 : 
-                         This week's roundup for April 3rd, 2023 includes the most recent news and information from the fields of data science, machine learning, and artificial intelligence.
+                         This week's roundup for April 3rd, 2023, includes the most recent news and information from the fields of data science, machine learning, and artificial intelligence.
                     
-8 번째 검색 내용 
+10 번째 검색 내용 
 제목 : 
 
                             Improving Web Accessibility with Semantic HTML and Testing Techniques and Tools
@@ -70,7 +88,7 @@
 설명 : 
                          Web accessibility benefits all of us. Designers, developers, and testers can check for web accessibility and can make the web and services more inclusive, for instance by using semantic HTML, following web standards when coding, and testing for web accessibility. Countries are introducing regulations to enforce inclusive standards.
                     
-9 번째 검색 내용 
+11 번째 검색 내용 
 제목 : 
 
                             GitHub Adds SBOM Export to Make it Easier to Comply with Security Requirements
@@ -79,7 +97,7 @@
 설명 : 
                          GitHub has announced a new SBOM export feature meant to be used as part of security compliance workflows and tools. The new feature allows you to export NTIA-compliant SBOM easily, says GitHub.
                     
-10 번째 검색 내용 
+12 번째 검색 내용 
 제목 : 
 
                             Visual Studio 2022 v17.6 Preview 2: Productivity, Game Development and Enterprise Management
@@ -88,7 +106,7 @@
 설명 : 
                          Visual Studio 2022 v17.6 Preview 2 is available, bringing new features and improvements for boosting productivity, game development, and enterprise management. The release includes updates such as a new Android Manifest Editor, Unreal Engine Code Analysis, HLSL Tools Extension, Create Member Function features, Git Stage and Commit During Build, Merge Dialog updates, and breakpoint groups, etc.
                     
-11 번째 검색 내용 
+13 번째 검색 내용 
 제목 : 
 
                             Microsoft Showcases Reliable Web App Patterns for Resilient Cloud Applications
@@ -97,7 +115,7 @@
 설명 : 
                          Microsoft has shared the source code and the documentation for the Reliable Web App pattern, a set of best practices that help on-premise web application developers create secure, reliable and cost-optimised cloud applications in Azure with minimal changes.
                     
-12 번째 검색 내용 
+14 번째 검색 내용 
 제목 : 
 
                             Amazon GuardDuty Adds EKS Runtime Monitoring and RDS Protection
@@ -106,7 +124,7 @@
 설명 : 
                          Amazon GuardDuty added Amazon EKS Runtime Monitoring and RDS Protection for Amazon Aurora. EKS Runtime Monitoring can detect runtime threats from over 30 different security findings. RDS Protection adds support for profiling and monitoring access activity to Aurora databases.
                     
-13 번째 검색 내용 
+15 번째 검색 내용 
 제목 : 
 
                             OpenAI Announces GPT-4, Their Next Generation GPT Model
@@ -114,22 +132,4 @@
 주소 : https://www.infoq.com/news/2023/04/openai-gpt4/
 설명 : 
                          OpenAI recently announced GPT-4, the next generation of their GPT family of large language models (LLM). GPT-4 can accept both text and image inputs and outperforms state-of-the-art systems on several natural language processing (NLP) benchmarks. The model also scored in the 90th percentile on a simulated bar exam.
-                    
-14 번째 검색 내용 
-제목 : 
-
-                            Google Announces Preview of AlloyDB Omni: Run a PostgreSQL-Compatible Database Anywhere
-                        
-주소 : https://www.infoq.com/news/2023/04/google-cloud-alloydb-omni/
-설명 : 
-                         Google recently announced the preview of AlloyDB Omni, a downloadable edition of AlloyDB designed to run on-premises, at the edge, across clouds, or even on developer laptops.
-                    
-15 번째 검색 내용 
-제목 : 
-
-                            Web Framework Astro Now Features Static, Server, and Hybrid Rendering for Faster Web Sites
-                        
-주소 : https://www.infoq.com/news/2023/04/astro-2-hybrid-rendering/
-설명 : 
-                         HTML-first web framework Astro recently released Astro 2.0 and complements previously available static and dynamic server rendering with new hybrid rendering capabilities. Hybrid rendering allows prerendering specific pages for faster performance.
                     
