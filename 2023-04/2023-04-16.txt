@@ -1,13 +1,22 @@
 1 번째 검색 내용 
 제목 : 
 
+                            AWS Lambda Introduces Response Payload Streaming
+                        
+주소 : https://www.infoq.com/news/2023/04/aws-lambda-response-streaming/
+설명 : 
+                         Amazon recently announced that AWS Lambda functions can progressively stream response payloads back to the client. The new feature improves performance for web and mobile applications and is currently available for Node.js 14.x and newer runtimes, as well as custom ones.
+                    
+2 번째 검색 내용 
+제목 : 
+
                             Android Studio Flamingo Brings Live Edit for Composable, Improved Build Toolchain, and More
                         
 주소 : https://www.infoq.com/news/2023/04/android-studio-flamingo/
 설명 : 
                          The latest stable release of Android Studio, dubbed Flamingo, brings Live Edit for Composable UIs, new app inspection features, updated IntelliJ, and more.
                     
-2 번째 검색 내용 
+3 번째 검색 내용 
 제목 : 
 
                             Patcher, a Tool to Keep Updating Infrastructure as a Code
@@ -16,7 +25,7 @@
 설명 : 
                          Gruntwork announces the beta availability of Patcher, a tool to automatically keep updating the infrastructure as a code, even with breaking changes.
                     
-3 번째 검색 내용 
+4 번째 검색 내용 
 제목 : 
 
                             Amazon VPC Lattice Now GA with New Capabilities for Service-to-Service Connectivity
@@ -25,7 +34,7 @@
 설명 : 
                          Announced in preview at the latest re:Invent conference, Amazon VPC Lattice is now generally available, with new capabilities for service-to-service connectivity, security, and monitoring. The pricing model raised some concerns in the community.
                     
-4 번째 검색 내용 
+5 번째 검색 내용 
 제목 : 
 
                             Remote Development with JetBrains Rider
@@ -34,7 +43,7 @@
 설명 : 
                          JetBrains provides access to Remote Development Beta. The tool works by locally running a thin client and connecting to the IDE backend which gives a fully functional user interface. It can be handled by JetBrains Rider or JetBrains Gateway. The workflow of the tool is smooth as editing is done locally and the JetBrains client synchronises changes with the backend.
                     
-5 번째 검색 내용 
+6 번째 검색 내용 
 제목 : 
 
                             AWS Supply Chain Now Generally Available with New Features
@@ -43,7 +52,7 @@
 설명 : 
                          AWS’s Supply Chain cloud application has recently been made generally available, offering unified data, actionable insights powered by machine learning, and contextual collaboration features to reduce costs and mitigate risk.
                     
-6 번째 검색 내용 
+7 번째 검색 내용 
 제목 : 
 
                             LocalStack 2.0: Open-Source Tool for Local Cloud Development Gets Significant Updates
@@ -52,7 +61,7 @@
 설명 : 
                          The company LocalStack recently announced the general availability of LocalStack 2.0, an open-source tool for the local development and testing of cloud applications.
                     
-7 번째 검색 내용 
+8 번째 검색 내용 
 제목 : 
 
                             HuggingGPT: Leveraging LLMs to Solve Complex AI Tasks with Hugging Face Models
@@ -61,7 +70,7 @@
 설명 : 
                          A recent paper by researchers at Zhejiang University and Microsoft Research Asia explores the use of large language models (LLMs) as a controller to manage existing AI models available in communities like Hugging Face.
                     
-8 번째 검색 내용 
+9 번째 검색 내용 
 제목 : 
 
                             From Cloud-Hosted to Cloud-Native: Rosemary Wang at QCon London
@@ -70,7 +79,7 @@
 설명 : 
                          Rosemary Wang, developer advocate at HashiCorp, delivered a presentation at QCon London that focused on five key considerations for technology practitioners looking to optimize the advantages of running platforms and applications in the cloud: adaptability, observability, immutability, elasticity, and changeability.
                     
-9 번째 검색 내용 
+10 번째 검색 내용 
 제목 : 
 
                             Leading in Hybrid and Remote Environments: Skills to Develop and Tools That Can Help
@@ -79,7 +88,7 @@
 설명 : 
                          Leading in hybrid and remote environments requires that managers develop new skills like coaching, facilitation, and being able to do difficult conversations remotely. With digital tools, we can include less dominant and more reflective people to get wider reflections from different brains and personalities. This can result in more diverse and inclusive working environments.
                     
-10 번째 검색 내용 
+11 번째 검색 내용 
 제목 : 
 
                             Deno Improves Node.js Support: Built-in Modules, package.json, Dynamic Import and Worker Compilation
@@ -88,7 +97,7 @@
 설명 : 
                          Recent releases of Deno (1.30, 1.31, and 1.32) make it easier for Node.js developers to transition to Deno projects. Deno 1.30 improves support for Node built-in modules and import maps. Deno 1.31 adds package.json support and includes the Node compatibility layer into the Deno runtime. Deno 1.32 adds deno compile support for web workers and dynamic imports.
                     
-11 번째 검색 내용 
+12 번째 검색 내용 
 제목 : 
 
                             EventMesh Serverless Platform Promoted to Apache Top-Level Project
@@ -97,7 +106,7 @@
 설명 : 
                          Apache EventMesh is a fully serverless platform used to build distributed event-driven applications and last month has graduated to Top-Level Project of Apache Software Foundation. EventMesh uses a publish/subscribe pattern to enable serverless, event-driven capabilities for a wide variety of components and applications
                     
-12 번째 검색 내용 
+13 번째 검색 내용 
 제목 : 
 
                             Startup Fermyon Releases Spin 1.0 for WebAssembly Serverless Applications
@@ -106,7 +115,7 @@
 설명 : 
                          Fermyon recently announced Spin 1.0, an open-source developer tool and framework for developing serverless applications with WebAssembly (Wasm).
                     
-13 번째 검색 내용 
+14 번째 검색 내용 
 제목 : 
 
                             Meta AI Introduces the Segment Anything Model, a Game-Changing Model for Object Segmentation
@@ -115,7 +124,7 @@
 설명 : 
                          Meta AI has introduced the Segment Anything Model (SAM), aiming to democratize image segmentation by introducing a new task, dataset, and model. The project features the Segment Anything Model (SAM) and the Segment Anything 1-Billion mask dataset (SA-1B), which is the most extensive segmentation dataset to date.
                     
-14 번째 검색 내용 
+15 번째 검색 내용 
 제목 : 
 
                             HashiCorp Policy-as-Code Framework Sentinel Adds Multiple Developer Experience Improvements
@@ -123,13 +132,4 @@
 주소 : https://www.infoq.com/news/2023/04/hashicorp-sentinel-devex/
 설명 : 
                          HashiCorp has released a number of improvements to Sentinel, their policy-as-code framework. The new features include an improved import configuration syntax, a new static import feature, support for named functions, and per-policy parameter values. There are also new helper functions to determine if a value is undefined.
-                    
-15 번째 검색 내용 
-제목 : 
-
-                            Twitter Open-Sources Recommendation Algorithm
-                        
-주소 : https://www.infoq.com/news/2023/04/twitter-algorithm/
-설명 : 
-                         Twitter recently open-sourced several components of their system for recommending tweets for a user's Twitter timeline. The release includes the code for several of the services and jobs that run the algorithm, as well as code for training machine learning models for embedding and ranking tweets.
                     
