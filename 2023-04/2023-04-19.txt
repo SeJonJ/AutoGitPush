@@ -1,0 +1,135 @@
+1 번째 검색 내용 
+제목 : 
+
+                            Microsoft Open-Sources Multimodal Chatbot Visual ChatGPT
+                        
+주소 : https://www.infoq.com/news/2023/04/microsoft-visual-chatgpt/
+설명 : 
+                         Microsoft Research recently open-sourced Visual ChatGPT, a chatbot system that can generate and manipulate images in response to human textual prompts. The system combines OpenAI's ChatGPT with 22 different visual foundation models (VFM) to support multi-modal interactions.
+                    
+2 번째 검색 내용 
+제목 : 
+
+                            Real-Time Messaging Architecture at Slack
+                        
+주소 : https://www.infoq.com/news/2023/04/real-time-messaging-slack/
+설명 : 
+                         Slack recently described how it sends millions of messages daily in real-time across the globe. The company provides a comprehensive insight into its architecture, designed to manage real-time messages at scale. It highlights the unique challenges posed by delivering real-time messages across different time zones and regions and how Slack's engineers designed the infrastructure to handle them.
+                    
+3 번째 검색 내용 
+제목 : 
+
+                            Docker 4.18 Extends Scout, Adds Container File Explorer, Docker Init, and More
+                        
+주소 : https://www.infoq.com/news/2023/04/docker-4-18-released/
+설명 : 
+                         Docker Desktop's latest 4.18 release, brings a wealth of new features, including vulnerability quickview, recommendations, and image diffing for Docker Scout, stable Container File Explorer, an init command to quickly add Docker to a project, and experimental Compose File Watch to monitor changes inside a project.
+                    
+4 번째 검색 내용 
+제목 : 
+
+                            .NET MAUI 8 Preview 3: UI improvements, Memory Management, and NuGet Versioning
+                        
+주소 : https://www.infoq.com/news/2023/04/dotnet-maui-8-preview-3/
+설명 : 
+                         Microsoft has recently released the third preview of the .NET MAUI framework in .NET 8. This latest release includes UI improvements, focusing on memory management also. In addition, Preview 3 also brings support for NuGet package versions of the app. This means that developers will now have the ability to preview future builds and lock their applications to a specific version of .NET MAUI.
+                    
+5 번째 검색 내용 
+제목 : 
+
+                            Java News Roundup: JEPs for JDK 21, MicroStream to Eclipse, Helidon, Piranha, Gradle 8.1
+                        
+주소 : https://www.infoq.com/news/2023/04/java-news-roundup-apr10-2023/
+설명 : 
+                         This week's Java roundup for April 10th, 2023 features news from OpenJDK, JDK 21, Spring Framework and Spring Data updates, GraalVM Build Tools 0.9.21, MicroStream becomes an Eclipse Project, Micronaut 3.8.9, Helidon 4.0.0.Alpha6, Hibernate ORM 6.2.1, Micrometer Metrics 1.11.0-RC1, 1.10.6 and 1.9.10, Micrometer Tracing 1.1.0-RC1 and 1.0.4, Piranha 23.4.0, Project Reactor 2022.0.6 and Gradle 8.1.
+                    
+6 번째 검색 내용 
+제목 : 
+
+                            AWS Lambda Introduces Response Payload Streaming
+                        
+주소 : https://www.infoq.com/news/2023/04/aws-lambda-response-streaming/
+설명 : 
+                         Amazon recently announced that AWS Lambda functions can progressively stream response payloads back to the client. The new feature improves performance for web and mobile applications and is currently available for Node.js 14.x and newer runtimes, as well as custom ones.
+                    
+7 번째 검색 내용 
+제목 : 
+
+                            Android Studio Flamingo Brings Live Edit for Composable, Improved Build Toolchain, and More
+                        
+주소 : https://www.infoq.com/news/2023/04/android-studio-flamingo/
+설명 : 
+                         The latest stable release of Android Studio, dubbed Flamingo, brings Live Edit for Composable UIs, new app inspection features, updated IntelliJ, and more.
+                    
+8 번째 검색 내용 
+제목 : 
+
+                            Patcher, a Tool to Keep Updating Infrastructure as a Code
+                        
+주소 : https://www.infoq.com/news/2023/04/patcher-iac-upgrade/
+설명 : 
+                         Gruntwork announces the beta availability of Patcher, a tool to automatically keep updating the infrastructure as a code, even with breaking changes.
+                    
+9 번째 검색 내용 
+제목 : 
+
+                            Amazon VPC Lattice Now GA with New Capabilities for Service-to-Service Connectivity
+                        
+주소 : https://www.infoq.com/news/2023/04/aws-vpc-lattice-ga/
+설명 : 
+                         Announced in preview at the latest re:Invent conference, Amazon VPC Lattice is now generally available, with new capabilities for service-to-service connectivity, security, and monitoring. The pricing model raised some concerns in the community.
+                    
+10 번째 검색 내용 
+제목 : 
+
+                            Remote Development with JetBrains Rider
+                        
+주소 : https://www.infoq.com/news/2023/04/remote-development-with-rider/
+설명 : 
+                         JetBrains provides access to Remote Development Beta. The tool works by locally running a thin client and connecting to the IDE backend which gives a fully functional user interface. It can be handled by JetBrains Rider or JetBrains Gateway. The workflow of the tool is smooth as editing is done locally and the JetBrains client synchronises changes with the backend.
+                    
+11 번째 검색 내용 
+제목 : 
+
+                            AWS Supply Chain Now Generally Available with New Features
+                        
+주소 : https://www.infoq.com/news/2023/04/aws-supply-chain-ga/
+설명 : 
+                         AWS’s Supply Chain cloud application has recently been made generally available, offering unified data, actionable insights powered by machine learning, and contextual collaboration features to reduce costs and mitigate risk.
+                    
+12 번째 검색 내용 
+제목 : 
+
+                            LocalStack 2.0: Open-Source Tool for Local Cloud Development Gets Significant Updates
+                        
+주소 : https://www.infoq.com/news/2023/04/localstack-aws-version-two-ga/
+설명 : 
+                         The company LocalStack recently announced the general availability of LocalStack 2.0, an open-source tool for the local development and testing of cloud applications.
+                    
+13 번째 검색 내용 
+제목 : 
+
+                            HuggingGPT: Leveraging LLMs to Solve Complex AI Tasks with Hugging Face Models
+                        
+주소 : https://www.infoq.com/news/2023/04/hugginggpt-complex-ai-tasks/
+설명 : 
+                         A recent paper by researchers at Zhejiang University and Microsoft Research Asia explores the use of large language models (LLMs) as a controller to manage existing AI models available in communities like Hugging Face.
+                    
+14 번째 검색 내용 
+제목 : 
+
+                            From Cloud-Hosted to Cloud-Native: Rosemary Wang at QCon London
+                        
+주소 : https://www.infoq.com/news/2023/04/becoming-cloud-native-qcon/
+설명 : 
+                         Rosemary Wang, developer advocate at HashiCorp, delivered a presentation at QCon London that focused on five key considerations for technology practitioners looking to optimize the advantages of running platforms and applications in the cloud: adaptability, observability, immutability, elasticity, and changeability.
+                    
+15 번째 검색 내용 
+제목 : 
+
+                            Leading in Hybrid and Remote Environments: Skills to Develop and Tools That Can Help
+                        
+주소 : https://www.infoq.com/news/2023/04/leading-hybrid-skills-tools/
+설명 : 
+                         Leading in hybrid and remote environments requires that managers develop new skills like coaching, facilitation, and being able to do difficult conversations remotely. With digital tools, we can include less dominant and more reflective people to get wider reflections from different brains and personalities. This can result in more diverse and inclusive working environments.
+                    
