@@ -1,0 +1,135 @@
+1 번째 검색 내용 
+제목 : 
+
+                            CDK for Terraform Improves HCL Conversion and Terraform Cloud Interactions
+                        
+주소 : https://www.infoq.com/news/2023/04/cdk-terraform-convert/
+설명 : 
+                         HashiCorp has released a number of new improvements to the CDK for Terraform (CDKTF). These improvements include enhanced type coercion, iterators support, and function support. Other improvements target the experience of working with CDKTF within Terraform Cloud or Terraform Enterprise. This includes improvements to plan and apply and the automated creation of Terraform workspaces.
+                    
+2 번째 검색 내용 
+제목 : 
+
+                            AWS Updates the Well-Architected Framework
+                        
+주소 : https://www.infoq.com/news/2023/04/aws-well-architected-framework/
+설명 : 
+                         AWS recently released an update to the Well-Architected Framework. The new version strengthens prescriptive guidance with over 100 best practices updated across all six pillars of the framework.
+                    
+3 번째 검색 내용 
+제목 : 
+
+                            AI, ML & Data News Roundup: HuggingGPT, AWS Bedrock, Microsoft Visual ChatGPT, and StableLM
+                        
+주소 : https://www.infoq.com/news/2023/04/ai-ml-data-news-april17-2023/
+설명 : 
+                         The latest update for the week of April 17th, 2023, includes the recent advancements and announcements in the domains of data science, machine learning, and artificial intelligence. The spotlight this week is on top players like Hugging Face, AWS, Microsoft, and Stability AI, who have introduced groundbreaking innovations.
+                    
+4 번째 검색 내용 
+제목 : 
+
+                            QCon New York: Five Tracks to Level-up on the Latest Software Development Practices
+                        
+주소 : https://www.infoq.com/news/2023/04/qcon-ny-tracks/
+설명 : 
+                         The 2023 edition of the QCon New York (June 13-15) software development conference, hosted by InfoQ, is set to bring together over 800 senior software developers. The three-day conference will feature over 80 innovative senior software practitioners  from early adopter companies sharing how they are solving current challenges, providing new ideas and perspectives across multiple domains.
+                    
+5 번째 검색 내용 
+제목 : 
+
+                            Boosting Quarkus Native Performance: Should You Stick with Space/Time or Switch to Adaptive GC?
+                        
+주소 : https://www.infoq.com/news/2023/04/boosting-quarkus-native/
+설명 : 
+                         Quarkus, the Kubernetes Native Java Framework, has switched its default garbage collection policy from space/time to adaptive GC for native runtime in version 2.13.6.Final. Adaptive GC is designed to trigger GCs aggressively in order to keep memory consumption low. This makes it effective in situations where a low memory footprint is essential, and it appears to perform better under heavy stress.
+                    
+6 번째 검색 내용 
+제목 : 
+
+                            AWS Lambda Finally Supports Python 3.10
+                        
+주소 : https://www.infoq.com/news/2023/04/aws-lambda-python-3-10-runtime/
+설명 : 
+                         AWS recently announced that Lambda supports Python 3.10 as both a managed runtime and container base image, allowing developers to leverage the improvements and features of the runtime.
+                    
+7 번째 검색 내용 
+제목 : 
+
+                            Node.js 20 Released, Features Experimental Permission Model for Improved Security
+                        
+주소 : https://www.infoq.com/news/2023/04/node-20-new-permission-model/
+설명 : 
+                         The Node.js team recently released Node v20 (Current release). Node v20 will be ready for full production deployments after entering the long-term support (LTS) stage in October. Key features include an experimental permission model for improved security and building Node applications into standalone executables.
+                    
+8 번째 검색 내용 
+제목 : 
+
+                            Android Auto Now Supports IoT Apps Running in Cars
+                        
+주소 : https://www.infoq.com/news/2023/04/android-auto-iot-apps/
+설명 : 
+                         Android IoT apps enable running internet of things (IoT) apps in cars powered by Android Auto and Android Automotive. This will open up the possibility of controlling IoT devices like home security, lights, doors, and more, directly from within a car.
+                    
+9 번째 검색 내용 
+제목 : 
+
+                            What Engineers and Companies Can Do to Increase Social Impact
+                        
+주소 : https://www.infoq.com/news/2023/04/engineers-social-impact/
+설명 : 
+                         Engineers in the tech industry have the means for social impact through their network, skills, and experience. Companies can create impact by making business practices socially-minded. Inclusive training considers the circumstances and backgrounds of individuals, with minimum entry barriers to ensure broad participation, including ethnicity, gender, neurodiversity, and socio-economic background.
+                    
+10 번째 검색 내용 
+제목 : 
+
+                            Microsoft Offers More App Service Plans Choices
+                        
+주소 : https://www.infoq.com/news/2023/04/new-azure-app-service-plans/
+설명 : 
+                         Microsoft recently announced two new offerings in the Premium v3 (Pv3) service tier and expansion in the Isolated v2 tier of Azure App Service.
+                    
+11 번째 검색 내용 
+제목 : 
+
+                            Svelte Furthers Enterprise Readiness with SvelteKit General Availability and Svelte 4 Roadmap
+                        
+주소 : https://www.infoq.com/news/2023/04/svelte-kit-svelte-4-roadmap/
+설명 : 
+                         Svelte, consistently voted the Web framework with the highest retention among the top 4 frameworks (next to React, Angular, and Vue), furthers enterprise readiness with SvelteKit's general availability, a new interactive documentation site, and the Svelte 4 roadmap.
+                    
+12 번째 검색 내용 
+제목 : 
+
+                            AWS Enters the Generative AI Race with Bedrock and Titan Foundation Models
+                        
+주소 : https://www.infoq.com/news/2023/04/aws-bedrock-titan/
+설명 : 
+                         AWS announced their entry into the generative AI race with the launch of Amazon Bedrock and Titan foundation models. Amazon aims to democratize access to generative AI technology, catering to customers across various industries and use cases. This groundbreaking development positions Amazon as a formidable competitor in the rapidly growing AI market.
+                    
+13 번째 검색 내용 
+제목 : 
+
+                            Microsoft Open-Sources Multimodal Chatbot Visual ChatGPT
+                        
+주소 : https://www.infoq.com/news/2023/04/microsoft-visual-chatgpt/
+설명 : 
+                         Microsoft Research recently open-sourced Visual ChatGPT, a chatbot system that can generate and manipulate images in response to human textual prompts. The system combines OpenAI's ChatGPT with 22 different visual foundation models (VFM) to support multi-modal interactions.
+                    
+14 번째 검색 내용 
+제목 : 
+
+                            Real-Time Messaging Architecture at Slack
+                        
+주소 : https://www.infoq.com/news/2023/04/real-time-messaging-slack/
+설명 : 
+                         Slack recently described how it sends millions of messages daily in real-time across the globe. The company provides a comprehensive insight into its architecture, designed to manage real-time messages at scale. It highlights the unique challenges posed by delivering real-time messages across different time zones and regions and how Slack's engineers designed the infrastructure to handle them.
+                    
+15 번째 검색 내용 
+제목 : 
+
+                            Docker 4.18 Extends Scout, Adds Container File Explorer, Docker Init, and More
+                        
+주소 : https://www.infoq.com/news/2023/04/docker-4-18-released/
+설명 : 
+                         Docker Desktop's latest 4.18 release, brings a wealth of new features, including vulnerability quickview, recommendations, and image diffing for Docker Scout, stable Container File Explorer, an init command to quickly add Docker to a project, and experimental Compose File Watch to monitor changes inside a project.
+                    
