@@ -1,13 +1,31 @@
 1 번째 검색 내용 
 제목 : 
 
+                            Google Announces Machine Learning Powered API Abuse Detection
+                        
+주소 : https://www.infoq.com/news/2023/04/google-cloud-api-abuse-detection/
+설명 : 
+                         Google recently announced an API abuse detection dashboard powered by machine learning algorithms.
+                    
+2 번째 검색 내용 
+제목 : 
+
+                            Java Gets a Boost with String Templates: Simplifying Code and Improving Security
+                        
+주소 : https://www.infoq.com/news/2023/04/java-gets-a-boost-with-string/
+설명 : 
+                         JEP 430, String Templates (Preview), has been promoted from Proposed to Target to Targeted status for JDK 21, a feature JEP type that proposes to enhance the Java programming language with string templates, which are similar to string literals but contain embedded expressions incorporated into the string template at run time.
+                    
+3 번째 검색 내용 
+제목 : 
+
                             Late Architecture with Functional Programming
                         
 주소 : https://www.infoq.com/news/2023/04/late-arch-functional-programming/
 설명 : 
                          Many approaches to software architecture assume that the architecture is planned at the beginning. Unfortunately, architecture planned in this way is hard to change later. Functional programming can help achieve loose coupling to the point that advance planning can be kept to a minimum, and architectural decisions can be changed later.
                     
-2 번째 검색 내용 
+4 번째 검색 내용 
 제목 : 
 
                             Meta's Toolformer Uses APIs to Outperform GPT-3 on Zero-Shot NLP Tasks
@@ -16,7 +34,7 @@
 설명 : 
                          Meta AI Research announced Toolformer, a language model that learns to call APIs to help solve natural language processing (NLP) tasks. Toolformer automatically annotates a training dataset which is used to fine-tune the model and can outperform the much larger GPT-3 model on several zero-shot NLP tasks.
                     
-3 번째 검색 내용 
+5 번째 검색 내용 
 제목 : 
 
                             ASP.NET Core Updates in .NET 8 Preview 3: Native AOT Support and More
@@ -25,7 +43,7 @@
 설명 : 
                          Recently Microsoft released .NET 8 Preview 3. This new release contains many new improvements to ASP.NET Core such as support for native AOT, server-side rendering with Blazor, rendering Razor components outside of ASP.NET Core, sections support in Blazor or monitoring Blazor Server circuit activity.
                     
-4 번째 검색 내용 
+6 번째 검색 내용 
 제목 : 
 
                             Google Introduces Digital Sovereignty Explorer for European Organizations
@@ -34,7 +52,7 @@
 설명 : 
                          Google Cloud recently released the Digital Sovereignty Explorer, a free online and interactive tool to determine a digital sovereignty strategy on the cloud using a multiple-choice format. The tool currently focuses on European organizations and deployments.
                     
-5 번째 검색 내용 
+7 번째 검색 내용 
 제목 : 
 
                             Java News Roundup: New OpenJDK JEPs, Payara Platform, Spring and Tomcat Updates, WildFly 28
@@ -43,7 +61,7 @@
 설명 : 
                          This week's Java roundup for April 17th, 2023, features news from OpenJDK, JDK 21, JMC 8.3.1, BellSoft, Spring Boot, Spring Security, Spring Session, Spring Authorization Server, Spring Integration, Spring for GraphQL and Spring Shell, WildFly 28, Payara Platform, Open Liberty 23.0.0.4-beta, Micronaut 3.9, Apache Tomcat updates, Ktor 2.3, JHipster Lite 0.32, JBang 0.106.3 and Gradle 8.1.1.
                     
-6 번째 검색 내용 
+8 번째 검색 내용 
 제목 : 
 
                             IDPs with Poor User Experience are Destined to Fail
@@ -54,7 +72,7 @@
 
 In a comprehensive blog post detailing what great design and UX (user experience) means, Villalba expands on how to best leverage these to build an IDP (internal developer platform) that is user-friendly and hence more likely to be adopted widely.
                     
-7 번째 검색 내용 
+9 번째 검색 내용 
 제목 : 
 
                             Android 14 Beta 1 Hits the Block
@@ -63,7 +81,7 @@ In a comprehensive blog post detailing what great design and UX (user experience
 설명 : 
                          Now available to developers, the first beta of Android 14 focuses on privacy, security, performance, developer productivity, and user customization. In addition, it improves user experience with large-screen devices on tablets and foldables.
                     
-8 번째 검색 내용 
+10 번째 검색 내용 
 제목 : 
 
                             Spotify Reveals Metrics for Success of Developer Portal Backstage
@@ -74,7 +92,7 @@ In a comprehensive blog post detailing what great design and UX (user experience
 
 Hgh-frequency Backstage users deploy software more often and in less time, with higher perceived productivity, and employees using it also stay longer with the company.
                     
-9 번째 검색 내용 
+11 번째 검색 내용 
 제목 : 
 
                             C# 12: Preview of Three New Features Coming
@@ -83,7 +101,7 @@ Hgh-frequency Backstage users deploy software more often and in less time, with 
 설명 : 
                          Microsoft has published the release post which covers the three exciting new features that will be included in the upcoming release of C# 12, the latest version of its popular programming language. These features include primary constructors for non-record classes and structs, using aliases for any type, and default values for lambda expression parameters.
                     
-10 번째 검색 내용 
+12 번째 검색 내용 
 제목 : 
 
                             New Visual Studio Code Data Mapper for Azure Logic Apps
@@ -92,7 +110,7 @@ Hgh-frequency Backstage users deploy software more often and in less time, with 
 설명 : 
                          Microsoft recently announced a new data mapper for Azure Logic Apps available as a Visual Studio Code extension. The mapper capability is currently in public preview.
                     
-11 번째 검색 내용 
+13 번째 검색 내용 
 제목 : 
 
                             Meta Open-Sourced AI Tool to Animate Child and Amateur Drawings of Human Figure
@@ -101,7 +119,7 @@ Hgh-frequency Backstage users deploy software more often and in less time, with 
 설명 : 
                          Based on a joint research by Meta AI Research, Tencent America, MIT CSAIL, and Carnegie Mellon, Meta released Animated Drawings, an AI-based tool to create animations from hand drawn human-like characters.
                     
-12 번째 검색 내용 
+14 번째 검색 내용 
 제목 : 
 
                             CDK for Terraform Improves HCL Conversion and Terraform Cloud Interactions
@@ -110,7 +128,7 @@ Hgh-frequency Backstage users deploy software more often and in less time, with 
 설명 : 
                          HashiCorp has released a number of new improvements to the CDK for Terraform (CDKTF). These improvements include enhanced type coercion, iterators support, and function support. Other improvements target the experience of working with CDKTF within Terraform Cloud or Terraform Enterprise. This includes improvements to plan and apply and the automated creation of Terraform workspaces.
                     
-13 번째 검색 내용 
+15 번째 검색 내용 
 제목 : 
 
                             AWS Updates the Well-Architected Framework
@@ -118,22 +136,4 @@ Hgh-frequency Backstage users deploy software more often and in less time, with 
 주소 : https://www.infoq.com/news/2023/04/aws-well-architected-framework/
 설명 : 
                          AWS recently released an update to the Well-Architected Framework. The new version strengthens prescriptive guidance with over 100 best practices updated across all six pillars of the framework.
-                    
-14 번째 검색 내용 
-제목 : 
-
-                            AI, ML & Data News Roundup: HuggingGPT, AWS Bedrock, Microsoft Visual ChatGPT, and StableLM
-                        
-주소 : https://www.infoq.com/news/2023/04/ai-ml-data-news-april17-2023/
-설명 : 
-                         The latest update for the week of April 17th, 2023, includes the recent advancements and announcements in the domains of data science, machine learning, and artificial intelligence. The spotlight this week is on top players like Hugging Face, AWS, Microsoft, and Stability AI, who have introduced groundbreaking innovations.
-                    
-15 번째 검색 내용 
-제목 : 
-
-                            QCon New York: Five Tracks to Level-up on the Latest Software Development Practices
-                        
-주소 : https://www.infoq.com/news/2023/04/qcon-ny-tracks/
-설명 : 
-                         The 2023 edition of the QCon New York (June 13-15) software development conference, hosted by InfoQ, is set to bring together over 800 senior software developers. The three-day conference will feature over 80 innovative senior software practitioners  from early adopter companies sharing how they are solving current challenges, providing new ideas and perspectives across multiple domains.
                     
