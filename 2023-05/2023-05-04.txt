@@ -1,0 +1,135 @@
+1 번째 검색 내용 
+제목 : 
+
+                            Efficiently Applying LLMs to Transform Semi-Structured Data
+                        
+주소 : https://www.infoq.com/news/2023/05/data-transformation-using-llms/
+설명 : 
+                         LLMs can be an effective way to generate structured data from semi-structured data, although an expensive one. A team of Stanford and Cornell researchers claim to have found a technique to reduce inference costs by 110x while improving inference quality.
+                    
+2 번째 검색 내용 
+제목 : 
+
+                            Prime Video Switched from Serverless to EC2 and ECS to Save Costs
+                        
+주소 : https://www.infoq.com/news/2023/05/prime-ec2-ecs-saves-costs/
+설명 : 
+                         Prime Video, Amazon’s video streaming service, has explained how it re-architected the audio/video quality inspection solution to reduce operational costs and address scalability problems. It moved the workload to EC2 and ECS compute services, and achieved a 90% reduction in operational costs as a result.
+                    
+3 번째 검색 내용 
+제목 : 
+
+                            Stability AI Open-Sources 7B Parameter Language Model StableLM
+                        
+주소 : https://www.infoq.com/news/2023/05/stablelm-release/
+설명 : 
+                         Stability AI released two sets of pre-trained model weights for StableLM, a suite of large language models (LLM). The models are trained on 1.5 trillion text tokens and are licensed for commercial use under CC BY-SA-4.0.
+                    
+4 번째 검색 내용 
+제목 : 
+
+                            AWS Announces Amazon OpenSearch Ingestion for Streamlined Data Ingestion
+                        
+주소 : https://www.infoq.com/news/2023/05/aws-opensearch-service-ingestion/
+설명 : 
+                         AWS recently announced Amazon OpenSearch Ingestion, a capability of Amazon OpenSearch Service that provides a serverless, auto-scaled, managed data collector that receives, transforms, and delivers data to Amazon OpenSearch Service domains or Amazon OpenSearch Serverless collections.
+                    
+5 번째 검색 내용 
+제목 : 
+
+                            Yelp Adopted the MVI Architecture to Improve Performance and Testability of Their Android App
+                        
+주소 : https://www.infoq.com/news/2023/05/yelp-mvi-android-performance/
+설명 : 
+                         Four years into the adoption of the Model-View-Intent (MVI) architecture for their Android app, Yelp engineer Paul Martin says it allowed them to have performant screens and improve unit testing.
+                    
+6 번째 검색 내용 
+제목 : 
+
+                            Java News Roundup: Quarkus 3.0, MicroStream 8.0, JEP 442, GraalVM, Infinispan
+                        
+주소 : https://www.infoq.com/news/2023/05/java-news-roundup-apr24-2023/
+설명 : 
+                         This week's Java roundup for April 24th, 2023, features news from OpenJDK, JDK 21, GlassFish 7.0.4, GraalVM 22.3.2, Microsoft OpenJDK, Spring releases. Quarkus 3.0.0, MicroStream 8.0.0, Micronaut 3.9.1, Hibernate ORM 6.2.2, Hibernate Reactive 2.0.0.CR1, Infinispan 15.0.0.Dev01, Apache Camel 3.20.4, Camel Quarkus 2.13.3, JUnit 5.9.3, JReleaser 1.6.0, JobRunr 6.1.4, JDKMon 17.0.49 and Foojay.io.
+                    
+7 번째 검색 내용 
+제목 : 
+
+                            Google Cloud Announces GA of Cloud Run Jobs
+                        
+주소 : https://www.infoq.com/news/2023/05/google-cloud-run-jobs/
+설명 : 
+                         Google Cloud recently announced the general availability of Cloud Run jobs, a serverless option to execute scripts and jobs that do not respond to HTTP requests. A new execution environment provides increased CPU, network performance, and support for network file systems.
+                    
+8 번째 검색 내용 
+제목 : 
+
+                            Uno Platform for Figma Preview 5: Enhanced Features for Designers and Developers
+                        
+주소 : https://www.infoq.com/news/2023/04/uno-platform-figma-plugin-5/
+설명 : 
+                         Uno Platform has released Preview 5 of its Figma plugin, offering enhanced features for designers and developers. The latest version of the plugin allows the creation of custom colors, enables the import of Design Systems Packages (DSP), and offers new controls such as Pips Pager, TabBar, and ItemsRepeater for greater flexibility in creating dynamic designs.
+                    
+9 번째 검색 내용 
+제목 : 
+
+                            How to Build a Successful Cloud Capability on a Heavily Regulated Organization
+                        
+주소 : https://www.infoq.com/news/2023/04/regulated-organization-sirvent/
+설명 : 
+                         Ana Sirvent, AWS practice lead at KPMG UK, shared her experience at QCon London on how to work with public cloud on heavily regulated organizations. Sirvent explained how to build trust with security, compliance, and client risk teams while delivering quickly and leveraging cloud services.
+                    
+10 번째 검색 내용 
+제목 : 
+
+                            Amazon CodeCatalyst Moves to GA with Amazon CodeWhisperer Support
+                        
+주소 : https://www.infoq.com/news/2023/04/amazon-codecatalyst-ga/
+설명 : 
+                         Amazon moved CodeCatalyst into full general availability with a number of new features. CodeCatalyst provides templates to streamline creating the project's infrastructure, CI/CD pipelines, development environments, and issue management system. New features with the GA release include better support for GitHub repos, integration with Amazon CodeWhisperer, and support for AWS Graviton processors.
+                    
+11 번째 검색 내용 
+제목 : 
+
+                            Momento Topics: A Serverless Event Messaging System for Pub-Sub
+                        
+주소 : https://www.infoq.com/news/2023/04/serverless-pubsub-momento-topics/
+설명 : 
+                         Momento now offers Momento Topics, a serverless event messaging system that supports publish-subscribe communication patterns. This service is designed to provide a messaging pipeline for event architectures, and subsequent feature releases will allow direct AWS Lambda invocations and change data capture events triggered from Momento Cache.
+                    
+12 번째 검색 내용 
+제목 : 
+
+                            Autopilot Became the Default Operation Mode for Google Kubernetes Engine
+                        
+주소 : https://www.infoq.com/news/2023/04/autopilot-google-kubernetes/
+설명 : 
+                         Google announced that Autopilot is now the default and recommended operation mode for GKE clusters. Autopilot was introduced in 2021 and is a cluster mode of operation that simply manages the Kubernetes clusters. All the management tasks are demanded by Autopilot which creates clusters based on the best practices learned from Google SRE and engineering.
+                    
+13 번째 검색 내용 
+제목 : 
+
+                            Google Cloud Deploy Adds Canary and Parallel Deployment Support
+                        
+주소 : https://www.infoq.com/news/2023/04/google-deploy-parallel-canary/
+설명 : 
+                         Google Cloud has released canary and parallel deployment support for Google Cloud Deploy. Both features work for Google Kubernetes Engine, Cloud Run, and Anthos. The features can be combined together for more advanced rollout strategies.
+                    
+14 번째 검색 내용 
+제목 : 
+
+                            Hugging Face Presents HuggingChat, Open Source Alternative to ChatGPT
+                        
+주소 : https://www.infoq.com/news/2023/04/hugging-chat-open-source/
+설명 : 
+                         HuggingChat is a new AI-powered chatbot available for testing on Hugging Face. HuggingChat is able to carry through many tasks that have made ChatGPT attract lot of interest recently, including drafting articles, solving coding problems, or answering questions.
+                    
+15 번째 검색 내용 
+제목 : 
+
+                            Google Announces Machine Learning Powered API Abuse Detection
+                        
+주소 : https://www.infoq.com/news/2023/04/google-cloud-api-abuse-detection/
+설명 : 
+                         Google recently announced an API abuse detection dashboard powered by machine learning algorithms.
+                    
