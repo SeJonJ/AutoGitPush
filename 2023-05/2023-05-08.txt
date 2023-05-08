@@ -1,13 +1,31 @@
 1 번째 검색 내용 
 제목 : 
 
+                            Kubernetes 1.27 Released with Freeze on Legacy Image Registry and In-Place Update of Pod Resources
+                        
+주소 : https://www.infoq.com/news/2023/05/kubernetes-1-27/
+설명 : 
+                         The Cloud Native Computing Foundation (CNCF) released Kubernetes 1.27 with the name chill vibes. The release has new features, such as In-place Update of Pod Resources, Limit of Parallel Image Pulls, and Multiple Service CIDRs.
+                    
+2 번째 검색 내용 
+제목 : 
+
+                            Java News Roundup: JEPs for JDK 21, Spring Cloud AWS 3.0, OptaPlanner to Timefold
+                        
+주소 : https://www.infoq.com/news/2023/05/java-news-roundup-may01-2023/
+설명 : 
+                         This week's Java roundup for May 1st, 2023 features news from OpenJDK, JDK 21, Spring Boot 3.1.0-RC2, Spring Modulith 0.6, Spring Cloud for Amazon Web Services 3.0.0, Spring Cloud Data Flow 2.10.3, Spring Tools 4.18.2, Infinispan 14.0.9.Final, Open Liberty 23.0.0.4, Quarkus 3.0.2 and 2.16.7, Helidon 3.2.1, Apache Camel 4.0.0-M3, Arquillian 1.7.0 and OptaPlanner transitions to Timefold.
+                    
+3 번째 검색 내용 
+제목 : 
+
                             Running Large Language Models Natively on Mobile and Laptops
                         
 주소 : https://www.infoq.com/news/2023/05/mlc-llm-mobile-laptops/
 설명 : 
                          MLC LLM is a new open source project aimed to enable deploying large language models on a variety of hardware platforms and applications. It additionally includes a framework to optimize model performance for each specific use case.
                     
-2 번째 검색 내용 
+4 번째 검색 내용 
 제목 : 
 
                             .NET Community Toolkit 8.2: MVVM Toolkit Attributes, Performance Enhancements, and More
@@ -16,16 +34,16 @@
 설명 : 
                          Microsoft has released the latest version of its .NET Community Toolkit, version 8.2, and it comes with several new enhancements and features. According to the release, this new version brings performance enhancements both at runtime and in the MVVM Toolkit source generators, new code fixers aimed at boosting productivity, and a number of user-requested features.
                     
-3 번째 검색 내용 
+5 번째 검색 내용 
 제목 : 
 
-                            Vercel Announces New Storage and Security Offerings for the Egde
+                            Vercel Announces New Storage and Security Offerings for the Edge
                         
 주소 : https://www.infoq.com/news/2023/05/vercel-storage-security-services/
 설명 : 
                          Vercel recently announced a suite of serverless storage offerings for their cloud platform with Vercel KV, Postgres, and Blob, powered by the company’s infrastructure partners, Neon and Upstash. In addition, the company also launched  Vercel Secure Compute, Visual Editing, and Spaces.
                     
-4 번째 검색 내용 
+6 번째 검색 내용 
 제목 : 
 
                             From Extinct Computers to Statistical Nightmares: Adventures in Performance
@@ -34,7 +52,7 @@
 설명 : 
                          Thomas Dullien, distinguished software engineer at Elastic, shared at QCon London some lessons learned from analyzing the performance of large-scale compute systems.
                     
-5 번째 검색 내용 
+7 번째 검색 내용 
 제목 : 
 
                             Open Liberty 23.0.0.3 Unveiled: Embracing Cloud-Native Java Microservices, Jakarta EE 10 and beyond
@@ -43,7 +61,7 @@
 설명 : 
                          IBM unveiled Open Liberty 23.0.0.3, boasting support for Java SE 20, Jakarta EE 10, and MicroProfile 6.0. This significant release introduces the Jakarta EE 10 Core Profile, Web Profile, and Platform and enhancements to various features that comprise the profiles. Additionally, the release includes MicroProfile Telemetry 1.0 and updates to Metrics, OpenAPI, and JWT Authentication specifications.
                     
-6 번째 검색 내용 
+8 번째 검색 내용 
 제목 : 
 
                             How Open-Source Maintainers Can Deal with Toxic Behavior
@@ -52,7 +70,7 @@
 설명 : 
                          Three toxic behaviors that open-source maintainers experience are entitlement, people venting their frustration, and outright attacks. Growing a thick skin and ignoring the behavior can lead to a negative spiral of angriness and sadness. Instead, we should call out the behavior and remind people that open source means collaboration and cooperation.
                     
-7 번째 검색 내용 
+9 번째 검색 내용 
 제목 : 
 
                             AWS Introduces Athena Provisioned Capacity
@@ -61,7 +79,7 @@
 설명 : 
                          AWS recently announced a new feature Provisioned Capacity for Athena, that allows users to run SQL queries on fully-managed compute capacity for a fixed price and no long-term commitments.
                     
-8 번째 검색 내용 
+10 번째 검색 내용 
 제목 : 
 
                             Efficiently Applying LLMs to Transform Semi-Structured Data
@@ -70,7 +88,7 @@
 설명 : 
                          LLMs can be an effective way to generate structured data from semi-structured data, although an expensive one. A team of Stanford and Cornell researchers claim to have found a technique to reduce inference costs by 110x while improving inference quality.
                     
-9 번째 검색 내용 
+11 번째 검색 내용 
 제목 : 
 
                             Prime Video Switched from Serverless to EC2 and ECS to Save Costs
@@ -79,7 +97,7 @@
 설명 : 
                          Prime Video, Amazon’s video streaming service, has explained how it re-architected the audio/video quality inspection solution to reduce operational costs and address scalability problems. It moved the workload to EC2 and ECS compute services, and achieved a 90% reduction in operational costs as a result.
                     
-10 번째 검색 내용 
+12 번째 검색 내용 
 제목 : 
 
                             Stability AI Open-Sources 7B Parameter Language Model StableLM
@@ -88,7 +106,7 @@
 설명 : 
                          Stability AI released two sets of pre-trained model weights for StableLM, a suite of large language models (LLM). The models are trained on 1.5 trillion text tokens and are licensed for commercial use under CC BY-SA-4.0.
                     
-11 번째 검색 내용 
+13 번째 검색 내용 
 제목 : 
 
                             AWS Announces Amazon OpenSearch Ingestion for Streamlined Data Ingestion
@@ -97,7 +115,7 @@
 설명 : 
                          AWS recently announced Amazon OpenSearch Ingestion, a capability of Amazon OpenSearch Service that provides a serverless, auto-scaled, managed data collector that receives, transforms, and delivers data to Amazon OpenSearch Service domains or Amazon OpenSearch Serverless collections.
                     
-12 번째 검색 내용 
+14 번째 검색 내용 
 제목 : 
 
                             Yelp Adopted the MVI Architecture to Improve Performance and Testability of Their Android App
@@ -106,7 +124,7 @@
 설명 : 
                          Four years into the adoption of the Model-View-Intent (MVI) architecture for their Android app, Yelp engineer Paul Martin says it allowed them to have performant screens and improve unit testing.
                     
-13 번째 검색 내용 
+15 번째 검색 내용 
 제목 : 
 
                             Java News Roundup: Quarkus 3.0, MicroStream 8.0, JEP 442, GraalVM, Infinispan
@@ -114,22 +132,4 @@
 주소 : https://www.infoq.com/news/2023/05/java-news-roundup-apr24-2023/
 설명 : 
                          This week's Java roundup for April 24th, 2023, features news from OpenJDK, JDK 21, GlassFish 7.0.4, GraalVM 22.3.2, Microsoft OpenJDK, Spring releases. Quarkus 3.0.0, MicroStream 8.0.0, Micronaut 3.9.1, Hibernate ORM 6.2.2, Hibernate Reactive 2.0.0.CR1, Infinispan 15.0.0.Dev01, Apache Camel 3.20.4, Camel Quarkus 2.13.3, JUnit 5.9.3, JReleaser 1.6.0, JobRunr 6.1.4, JDKMon 17.0.49 and Foojay.io.
-                    
-14 번째 검색 내용 
-제목 : 
-
-                            Google Cloud Announces GA of Cloud Run Jobs
-                        
-주소 : https://www.infoq.com/news/2023/05/google-cloud-run-jobs/
-설명 : 
-                         Google Cloud recently announced the general availability of Cloud Run jobs, a serverless option to execute scripts and jobs that do not respond to HTTP requests. A new execution environment provides increased CPU, network performance, and support for network file systems.
-                    
-15 번째 검색 내용 
-제목 : 
-
-                            Uno Platform for Figma Preview 5: Enhanced Features for Designers and Developers
-                        
-주소 : https://www.infoq.com/news/2023/04/uno-platform-figma-plugin-5/
-설명 : 
-                         Uno Platform has released Preview 5 of its Figma plugin, offering enhanced features for designers and developers. The latest version of the plugin allows the creation of custom colors, enables the import of Design Systems Packages (DSP), and offers new controls such as Pips Pager, TabBar, and ItemsRepeater for greater flexibility in creating dynamic designs.
                     
