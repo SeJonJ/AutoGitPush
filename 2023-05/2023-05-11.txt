@@ -1,13 +1,31 @@
 1 번째 검색 내용 
 제목 : 
 
+                            .NET Upgrade Assistant Now Supports Azure Functions Upgrades and .NET 8
+                        
+주소 : https://www.infoq.com/news/2023/05/dotnet-upgrade-assistant/
+설명 : 
+                         Microsoft has released a new version of .NET Upgrade Assistant in Visual Studio, which provides a set of new enhancements and support for different platforms and frameworks. The tool now supports .NET 8 and it also brings enhancements like an upgrade for Azure Functions, alongside .NET MAUI, WinUI and support for ARM64.
+                    
+2 번째 검색 내용 
+제목 : 
+
+                            Huawei Open Sources Kuasar, a Rust-Based Container Runtime
+                        
+주소 : https://www.infoq.com/news/2023/05/kuasar/
+설명 : 
+                         Kuasar, a Rust-based container runtime that supports multiple types of sandboxers, is open-sourced. As a unified container runtime, Kuasar already supports MicroVM sandboxes such as Cloud Hypervisor, StratoVirt, and QEMU, app kernel sandboxes like Quark, and Wasm sandboxes like WasmEdge.
+                    
+3 번째 검색 내용 
+제목 : 
+
                             Upbound Releases Managed Control Plane Service
                         
 주소 : https://www.infoq.com/news/2023/05/upbound-managed-control-plane/
 설명 : 
                          Upbound, the creators of Crossplane, has released a fully-managed control plane based on Crossplane. Crossplane is a Cloud Native Computing Foundation	 incubating project that provides a low-code experience for building control planes. Upbound Managed Control Planes (MCPs) manage the control plane components and provide access via both a UI and a CLI.
                     
-2 번째 검색 내용 
+4 번째 검색 내용 
 제목 : 
 
                             Google is Rolling out Passkeys to Make Passwords a Relic of the Past
@@ -16,7 +34,7 @@
 설명 : 
                          Google has begun rolling out support for passkeys across Google Accounts on all major platforms. Passkeys will be available as an additional authentication option alongside pre-existing mechanisms, including passwords, 2-step verification, and so on.
                     
-3 번째 검색 내용 
+5 번째 검색 내용 
 제목 : 
 
                             OpenAI's Open-Source ChatGPT Plugin - Q&A with Roy Miara
@@ -25,7 +43,7 @@
 설명 : 
                          OpenAI recently announced plugin support for ChatGPT, allowing the language model to access external tools and databases. The company also open-sourced the code for a knowledge retrieval plugin, which organizations can use to provide ChatGPT-based access to their own documents and data.
                     
-4 번째 검색 내용 
+6 번째 검색 내용 
 제목 : 
 
                             Quarkus 3.0 Released: Improving Cloud-Native Java Development with Jakarta EE 10 Support
@@ -34,7 +52,7 @@
 설명 : 
                          Following six alpha releases, a beta release, and two release candidates, Red Hat has launched the highly anticipated Quarkus 3.0 release this past week. This update brings a host of new features, including support for Jakarta EE 10, MicroProfile 6.0, Hibernate ORM 6.0, and Hibernate Reactive 2.0.
                     
-5 번째 검색 내용 
+7 번째 검색 내용 
 제목 : 
 
                             Remult, a Crud Framework for Fullstack Typescript
@@ -43,7 +61,7 @@
 설명 : 
                          Remult is a full-stack CRUD library that simplifies development by leveraging TypeScript models, providing a type-safe API client and query builder.
                     
-6 번째 검색 내용 
+8 번째 검색 내용 
 제목 : 
 
                             Kubernetes 1.27 Released with Freeze on Legacy Image Registry and In-Place Update of Pod Resources
@@ -52,7 +70,7 @@
 설명 : 
                          The Cloud Native Computing Foundation (CNCF) released Kubernetes 1.27 with the name chill vibes. The release has new features, such as In-place Update of Pod Resources, Limit of Parallel Image Pulls, and Multiple Service CIDRs.
                     
-7 번째 검색 내용 
+9 번째 검색 내용 
 제목 : 
 
                             Java News Roundup: JEPs for JDK 21, Spring Cloud AWS 3.0, OptaPlanner to Timefold
@@ -61,7 +79,7 @@
 설명 : 
                          This week's Java roundup for May 1st, 2023, features news from OpenJDK, JDK 21, Spring Boot 3.1.0-RC2, Spring Modulith 0.6, Spring Cloud for Amazon Web Services 3.0.0, Spring Cloud Data Flow 2.10.3, Spring Tools 4.18.2, Infinispan 14.0.9.Final, Open Liberty 23.0.0.4, Quarkus 3.0.2 and 2.16.7, Helidon 3.2.1, Apache Camel 4.0.0-M3, Arquillian 1.7.0 and OptaPlanner transitions to Timefold.
                     
-8 번째 검색 내용 
+10 번째 검색 내용 
 제목 : 
 
                             Running Large Language Models Natively on Mobile and Laptops
@@ -70,7 +88,7 @@
 설명 : 
                          MLC LLM is a new open source project aimed to enable deploying large language models on a variety of hardware platforms and applications. It additionally includes a framework to optimize model performance for each specific use case.
                     
-9 번째 검색 내용 
+11 번째 검색 내용 
 제목 : 
 
                             .NET Community Toolkit 8.2: MVVM Toolkit Attributes, Performance Enhancements, and More
@@ -79,7 +97,7 @@
 설명 : 
                          Microsoft has released the latest version of its .NET Community Toolkit, version 8.2, and it comes with several new enhancements and features. According to the release, this new version brings performance enhancements both at runtime and in the MVVM Toolkit source generators, new code fixers aimed at boosting productivity, and a number of user-requested features.
                     
-10 번째 검색 내용 
+12 번째 검색 내용 
 제목 : 
 
                             Vercel Announces New Storage and Security Offerings for the Edge
@@ -88,7 +106,7 @@
 설명 : 
                          Vercel recently announced a suite of serverless storage offerings for their cloud platform with Vercel KV, Postgres, and Blob, powered by the company’s infrastructure partners, Neon and Upstash. In addition, the company also launched  Vercel Secure Compute, Visual Editing, and Spaces.
                     
-11 번째 검색 내용 
+13 번째 검색 내용 
 제목 : 
 
                             From Extinct Computers to Statistical Nightmares: Adventures in Performance
@@ -97,7 +115,7 @@
 설명 : 
                          Thomas Dullien, distinguished software engineer at Elastic, shared at QCon London some lessons learned from analyzing the performance of large-scale compute systems.
                     
-12 번째 검색 내용 
+14 번째 검색 내용 
 제목 : 
 
                             Open Liberty 23.0.0.3 Unveiled: Embracing Cloud-Native Java Microservices, Jakarta EE 10 and beyond
@@ -106,7 +124,7 @@
 설명 : 
                          IBM unveiled Open Liberty 23.0.0.3, boasting support for Java SE 20, Jakarta EE 10, and MicroProfile 6.0. This significant release introduces the Jakarta EE 10 Core Profile, Web Profile, and Platform and enhancements to various features that comprise the profiles. Additionally, the release includes MicroProfile Telemetry 1.0 and updates to Metrics, OpenAPI, and JWT Authentication specifications.
                     
-13 번째 검색 내용 
+15 번째 검색 내용 
 제목 : 
 
                             How Open-Source Maintainers Can Deal with Toxic Behavior
@@ -114,22 +132,4 @@
 주소 : https://www.infoq.com/news/2023/05/open-source-toxic-behavior/
 설명 : 
                          Three toxic behaviors that open-source maintainers experience are entitlement, people venting their frustration, and outright attacks. Growing a thick skin and ignoring the behavior can lead to a negative spiral of angriness and sadness. Instead, we should call out the behavior and remind people that open source means collaboration and cooperation.
-                    
-14 번째 검색 내용 
-제목 : 
-
-                            AWS Introduces Athena Provisioned Capacity
-                        
-주소 : https://www.infoq.com/news/2023/05/aws-athena-provisioned-capacity/
-설명 : 
-                         AWS recently announced a new feature Provisioned Capacity for Athena, that allows users to run SQL queries on fully-managed compute capacity for a fixed price and no long-term commitments.
-                    
-15 번째 검색 내용 
-제목 : 
-
-                            Efficiently Applying LLMs to Transform Semi-Structured Data
-                        
-주소 : https://www.infoq.com/news/2023/05/data-transformation-using-llms/
-설명 : 
-                         LLMs can be an effective way to generate structured data from semi-structured data, although an expensive one. A team of Stanford and Cornell researchers claim to have found a technique to reduce inference costs by 110x while improving inference quality.
                     
