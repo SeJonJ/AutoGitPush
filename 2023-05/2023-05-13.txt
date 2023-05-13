@@ -1,0 +1,135 @@
+1 번째 검색 내용 
+제목 : 
+
+                            Google Previews Studio Bot, a Coding Bot for Android Development
+                        
+주소 : https://www.infoq.com/news/2023/05/google-studio-bot-android/
+설명 : 
+                         At Google I/O 2023, Google has previewed Studio Bot, an AI-powered coding bot integrated in Android Studio latest version, codenamed Hedgehog. Studio Bot aims to help developers generate code, unit tests, and fix errors.
+                    
+2 번째 검색 내용 
+제목 : 
+
+                            Hugging Face Releases StarCoder, the Next-Generation LLM for Seamless Code Generation
+                        
+주소 : https://www.infoq.com/news/2023/05/hugging-face-starcoder/
+설명 : 
+                         Hugging Face and ServiceNow, have partnered to develop StarCoder, a new open-source language model for code. The model created as a part of the BigCode initiative is an improved version of the StarCoderBase model trained on 35 billion Python tokens. StarCoder, is a free AI code-generating system alternative to GitHub’s Copilot, DeepMind’s AlphaCode, and Amazon’s CodeWhisperer.
+                    
+3 번째 검색 내용 
+제목 : 
+
+                            How to Improve Testing by Using a Gentle Nudge
+                        
+주소 : https://www.infoq.com/news/2023/05/improve-testing-nudge/
+설명 : 
+                         Nudging gives us opportunities to positively influence our behavior. Its principles can be applied in testing to increase attention or to enhance the product's quality. Nudging makes use of our biases. This term may cause concern for testers as it poses a risk to delivering useful software. However, scientists have also recognized its potential to positively influence our behavior.
+                    
+4 번째 검색 내용 
+제목 : 
+
+                            Simplify HTTP Request Buffering with Queue-Level Routing Configuration and BufferTask API
+                        
+주소 : https://www.infoq.com/news/2023/05/buffer-http-requests-cloud-tasks/
+설명 : 
+                         Google recently added two new features for Cloud Tasks with queue-level routing configuration and BufferTask API in public preview. The two new features combined enable creating of HTTP tasks and adding to a queue without needing the Tasks client library.
+                    
+5 번째 검색 내용 
+제목 : 
+
+                            .NET Upgrade Assistant Now Supports Azure Functions Upgrades and .NET 8
+                        
+주소 : https://www.infoq.com/news/2023/05/dotnet-upgrade-assistant/
+설명 : 
+                         Microsoft has released a new version of .NET Upgrade Assistant in Visual Studio, which provides a set of new enhancements and support for different platforms and frameworks. The tool now supports .NET 8 and it also brings enhancements like an upgrade for Azure Functions, alongside .NET MAUI, WinUI and support for ARM64.
+                    
+6 번째 검색 내용 
+제목 : 
+
+                            Huawei Open Sources Kuasar, a Rust-Based Container Runtime
+                        
+주소 : https://www.infoq.com/news/2023/05/kuasar/
+설명 : 
+                         Kuasar, a Rust-based container runtime that supports multiple types of sandboxers, is open-sourced. As a unified container runtime, Kuasar already supports MicroVM sandboxes such as Cloud Hypervisor, StratoVirt, and QEMU, app kernel sandboxes like Quark, and Wasm sandboxes like WasmEdge.
+                    
+7 번째 검색 내용 
+제목 : 
+
+                            Upbound Releases Managed Control Plane Service
+                        
+주소 : https://www.infoq.com/news/2023/05/upbound-managed-control-plane/
+설명 : 
+                         Upbound, the creators of Crossplane, has released a fully-managed control plane based on Crossplane. Crossplane is a Cloud Native Computing Foundation	 incubating project that provides a low-code experience for building control planes. Upbound Managed Control Planes (MCPs) manage the control plane components and provide access via both a UI and a CLI.
+                    
+8 번째 검색 내용 
+제목 : 
+
+                            Google is Rolling out Passkeys to Make Passwords a Relic of the Past
+                        
+주소 : https://www.infoq.com/news/2023/05/google-passkeys-rollout/
+설명 : 
+                         Google has begun rolling out support for passkeys across Google Accounts on all major platforms. Passkeys will be available as an additional authentication option alongside pre-existing mechanisms, including passwords, 2-step verification, and so on.
+                    
+9 번째 검색 내용 
+제목 : 
+
+                            OpenAI's Open-Source ChatGPT Plugin - Q&A with Roy Miara
+                        
+주소 : https://www.infoq.com/news/2023/05/chatgpt-retrieval-plugin/
+설명 : 
+                         OpenAI recently announced plugin support for ChatGPT, allowing the language model to access external tools and databases. The company also open-sourced the code for a knowledge retrieval plugin, which organizations can use to provide ChatGPT-based access to their own documents and data.
+                    
+10 번째 검색 내용 
+제목 : 
+
+                            Quarkus 3.0 Released: Improving Cloud-Native Java Development with Jakarta EE 10 Support
+                        
+주소 : https://www.infoq.com/news/2023/05/quarkus-improves-cloud-native/
+설명 : 
+                         Following six alpha releases, a beta release, and two release candidates, Red Hat has launched the highly anticipated Quarkus 3.0 release this past week. This update brings a host of new features, including support for Jakarta EE 10, MicroProfile 6.0, Hibernate ORM 6.0, and Hibernate Reactive 2.0.
+                    
+11 번째 검색 내용 
+제목 : 
+
+                            Remult, a Crud Framework for Fullstack Typescript
+                        
+주소 : https://www.infoq.com/news/2023/05/remult-crud-typescript/
+설명 : 
+                         Remult is a full-stack CRUD library that simplifies development by leveraging TypeScript models, providing a type-safe API client and query builder.
+                    
+12 번째 검색 내용 
+제목 : 
+
+                            Kubernetes 1.27 Released with Freeze on Legacy Image Registry and In-Place Update of Pod Resources
+                        
+주소 : https://www.infoq.com/news/2023/05/kubernetes-1-27/
+설명 : 
+                         The Cloud Native Computing Foundation (CNCF) released Kubernetes 1.27 with the name chill vibes. The release has new features, such as In-place Update of Pod Resources, Limit of Parallel Image Pulls, and Multiple Service CIDRs.
+                    
+13 번째 검색 내용 
+제목 : 
+
+                            Java News Roundup: JEPs for JDK 21, Spring Cloud AWS 3.0, OptaPlanner to Timefold
+                        
+주소 : https://www.infoq.com/news/2023/05/java-news-roundup-may01-2023/
+설명 : 
+                         This week's Java roundup for May 1st, 2023, features news from OpenJDK, JDK 21, Spring Boot 3.1.0-RC2, Spring Modulith 0.6, Spring Cloud for Amazon Web Services 3.0.0, Spring Cloud Data Flow 2.10.3, Spring Tools 4.18.2, Infinispan 14.0.9.Final, Open Liberty 23.0.0.4, Quarkus 3.0.2 and 2.16.7, Helidon 3.2.1, Apache Camel 4.0.0-M3, Arquillian 1.7.0 and OptaPlanner transitions to Timefold.
+                    
+14 번째 검색 내용 
+제목 : 
+
+                            Running Large Language Models Natively on Mobile and Laptops
+                        
+주소 : https://www.infoq.com/news/2023/05/mlc-llm-mobile-laptops/
+설명 : 
+                         MLC LLM is a new open source project aimed to enable deploying large language models on a variety of hardware platforms and applications. It additionally includes a framework to optimize model performance for each specific use case.
+                    
+15 번째 검색 내용 
+제목 : 
+
+                            .NET Community Toolkit 8.2: MVVM Toolkit Attributes, Performance Enhancements, and More
+                        
+주소 : https://www.infoq.com/news/2023/05/dot-net-community-toolkit-820/
+설명 : 
+                         Microsoft has released the latest version of its .NET Community Toolkit, version 8.2, and it comes with several new enhancements and features. According to the release, this new version brings performance enhancements both at runtime and in the MVVM Toolkit source generators, new code fixers aimed at boosting productivity, and a number of user-requested features.
+                    
