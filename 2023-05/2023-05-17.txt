@@ -1,0 +1,135 @@
+1 번째 검색 내용 
+제목 : 
+
+                            Google's Universal Speech Model Performs Speech Recognition on Hundreds of Languages
+                        
+주소 : https://www.infoq.com/news/2023/05/universal-speech-model/
+설명 : 
+                         Google Research announced Universal Speech Model (USM), a 2B parameter automated speech recognition (ASR) model trained on over 12M hours of speech audio. USM can recognize speech in over 100 languages, including low-resource languages, and achieves new state-of-the-art performance on several benchmarks.
+                    
+2 번째 검색 내용 
+제목 : 
+
+                            Java Gets a Boost with the Record Pattern, Enabling More Expressive Coding
+                        
+주소 : https://www.infoq.com/news/2023/05/java-gets-boost-with-record/
+설명 : 
+                         JEP 440, finalizing Record Patterns, has been promoted from Proposed to Target to Targeted status for JDK 21, following feedback-driven enhancements in JEP 432 and JEP 405. Record patterns now allow for powerful data navigation and processing when used with type patterns. The main change from JEP 432 is the removal of record patterns in the header of an enhanced for statement.
+                    
+3 번째 검색 내용 
+제목 : 
+
+                            GCC 13 Supports New C2x Features, Including nullptr, Enhanced Enumerations, and More
+                        
+주소 : https://www.infoq.com/news/2023/05/gcc13-c2x-features/
+설명 : 
+                         At Google I/O 2023, Google has previewed Studio Bot, an AI-powered coding bot integrated in Android Studio latest version, codenamed Hedgehog. Studio Bot aims to help developers generate code, unit tests, and fix errors.
+                    
+4 번째 검색 내용 
+제목 : 
+
+                            Josh Long at Devoxx UK: Showcasing Bootiful Spring 6 and Spring Boot 3
+                        
+주소 : https://www.infoq.com/news/2023/05/bootiful-spring/
+설명 : 
+                         At his Devoxx UK presentation, Josh Long - Spring Developer Advocate at VMWare - coded his way through the new features coming in Spring Framework 6, and Spring Boot 3 emphasizing the benefits at the Java language level in the latest versions starting with version 17. He showcased the graphql support, the new declarative client, the new tracing, the native support and the new jakarta ee baseline.
+                    
+5 번째 검색 내용 
+제목 : 
+
+                            Java News Roundup: JDK 21 Updates, Spring Data 2023.0, JobRunr 6.2, Micronaut 4.0 Milestones
+                        
+주소 : https://www.infoq.com/news/2023/05/java-news-roundup-may08-2023/
+설명 : 
+                         This week's Java roundup for May 8th, 2023 features news from OpenJDK, JDK 21, GraalVM Native Build Tools 0.9.22, Spring Framework, Spring Data and Spring Shell releases, Micronaut 4.0-M3, Quarkus 3.0.3, Eclipse Vert.x releases, Micrometer Metrics and Tracing releases, Groovy 4.0.12, Tomcat releases, Maven 3.9.2, Piranha 23.5.0, Reactor 2022.0.7, JobRunr 6.2, JDKMon releases and Devoxx UK.
+                    
+6 번째 검색 내용 
+제목 : 
+
+                            AWS Verified Access Now GA with Support for WAF and Signed Identity Context
+                        
+주소 : https://www.infoq.com/news/2023/05/aws-verified-access-ga/
+설명 : 
+                         AWS recently announced the general availability of Verified Access, a managed service that provides secure access to corporate applications without relying on a VPN. With the GA, the cloud provider introduced support for AWS WAF and the ability to pass signed identity context to end applications.
+                    
+7 번째 검색 내용 
+제목 : 
+
+                            GitHub Overhauls Code Search Using New Search Engine
+                        
+주소 : https://www.infoq.com/news/2023/05/GitHub-new-search-released/
+설명 : 
+                         GitHub has introduced its new code search feature, including a redesigned search interface, a new code view, and a search engine rebuilt from scratch to be faster, more capable, and to better understand code, says GitHub software engineer Colin Merkel.
+                    
+8 번째 검색 내용 
+제목 : 
+
+                            Holly Cummins at Devoxx UK: How Would the Business Benefit from Your Greener Java Application?
+                        
+주소 : https://www.infoq.com/news/2023/05/green-java/
+설명 : 
+                         At her Devoxx UK presentation, Holly Cummins, senior software principal engineer at Redhat, presented approaches that could make Java applications more cost and energy efficient. Moreover, the business would benefit too. Showcasing the work done by her team with quarkus she states that choosing wisely between the JVM or native options in your application can save up to two-times costs and carbon.
+                    
+9 번째 검색 내용 
+제목 : 
+
+                            Open Source MongoDB Alternative FerretDB Now Generally Available
+                        
+주소 : https://www.infoq.com/news/2023/05/ferretdb-mongodb-ga/
+설명 : 
+                         FerretDB, an open-source MongoDB alternative database, recently announced its general availability. Released under the Apache 2.0 license, the project allows developers to use existing PostgreSQL infra to run MongoDB workloads.
+                    
+10 번째 검색 내용 
+제목 : 
+
+                            Google Previews Studio Bot, a Coding Bot for Android Development
+                        
+주소 : https://www.infoq.com/news/2023/05/google-studio-bot-android/
+설명 : 
+                         At Google I/O 2023, Google has previewed Studio Bot, an AI-powered coding bot integrated in Android Studio latest version, codenamed Hedgehog. Studio Bot aims to help developers generate code, unit tests, and fix errors.
+                    
+11 번째 검색 내용 
+제목 : 
+
+                            Hugging Face Releases StarCoder, the Next-Generation LLM for Seamless Code Generation
+                        
+주소 : https://www.infoq.com/news/2023/05/hugging-face-starcoder/
+설명 : 
+                         Hugging Face and ServiceNow have partnered to develop StarCoder, a new open-source language model for code. The model created as a part of the BigCode initiative is an improved version of the StarCoderBase model trained on 35 billion Python tokens. StarCoder is a free AI code-generating system alternative to GitHub’s Copilot, DeepMind’s AlphaCode, and Amazon’s CodeWhisperer.
+                    
+12 번째 검색 내용 
+제목 : 
+
+                            How to Improve Testing by Using a Gentle Nudge
+                        
+주소 : https://www.infoq.com/news/2023/05/improve-testing-nudge/
+설명 : 
+                         Nudging gives us opportunities to positively influence our behavior. Its principles can be applied in testing to increase attention or to enhance the product's quality. Nudging makes use of our biases. This term may cause concern for testers as it poses a risk to delivering useful software. However, scientists have also recognized its potential to positively influence our behavior.
+                    
+13 번째 검색 내용 
+제목 : 
+
+                            Simplify HTTP Request Buffering with Queue-Level Routing Configuration and BufferTask API
+                        
+주소 : https://www.infoq.com/news/2023/05/buffer-http-requests-cloud-tasks/
+설명 : 
+                         Google recently added two new features for Cloud Tasks with queue-level routing configuration and BufferTask API in public preview. The two new features combined enable creating of HTTP tasks and adding to a queue without needing the Tasks client library.
+                    
+14 번째 검색 내용 
+제목 : 
+
+                            .NET Upgrade Assistant Now Supports Azure Functions Upgrades and .NET 8
+                        
+주소 : https://www.infoq.com/news/2023/05/dotnet-upgrade-assistant/
+설명 : 
+                         Microsoft has released a new version of .NET Upgrade Assistant in Visual Studio, which provides a set of new enhancements and support for different platforms and frameworks. The tool now supports .NET 8 and it also brings enhancements like an upgrade for Azure Functions, alongside .NET MAUI, WinUI and support for ARM64.
+                    
+15 번째 검색 내용 
+제목 : 
+
+                            Huawei Open Sources Kuasar, a Rust-Based Container Runtime
+                        
+주소 : https://www.infoq.com/news/2023/05/kuasar/
+설명 : 
+                         Kuasar, a Rust-based container runtime that supports multiple types of sandboxers, is open-sourced. As a unified container runtime, Kuasar already supports MicroVM sandboxes such as Cloud Hypervisor, StratoVirt, and QEMU, app kernel sandboxes like Quark, and Wasm sandboxes like WasmEdge.
+                    
