@@ -1,13 +1,22 @@
 1 번째 검색 내용 
 제목 : 
 
+                            Google Maps Previews Aerial View API
+                        
+주소 : https://www.infoq.com/news/2023/05/google-maps-aerial-view-api/
+설명 : 
+                         At the recent Google I/O conference, the cloud provider announced the preview release of Aerial View API, a new option to access cinematic videos of points of interest. Immersive View for routes, Photorealistic 3D Tiles, new route customization capabilities, and reusable web components are other Google Maps improvements.
+                    
+2 번째 검색 내용 
+제목 : 
+
                             What Software Developers Can Do to Learn Effectively
                         
 주소 : https://www.infoq.com/news/2023/05/software-developers-learn/
 설명 : 
                          Software developers are constantly learning new languages, frameworks, tools, and techniques. It can be challenging to decide which topic to learn, estimate our competence level, prevent becoming overwhelmed, and keep our learning effective.  For better learning,  break it down into realistically sized phases, and repeat the same topic several times to really get to experience it properly.
                     
-2 번째 검색 내용 
+3 번째 검색 내용 
 제목 : 
 
                             Meta Switches to MySQL Raft to Improve Reliability and Operational Simplicity
@@ -16,7 +25,7 @@
 설명 : 
                          Meta is rolling out MySQL Raft in its data centers to replace its current MySQL semisynchronous databases. The new consensus engine helps operation and allows MySQL servers to take responsibility for promotions and membership.
                     
-3 번째 검색 내용 
+4 번째 검색 내용 
 제목 : 
 
                             Is ChatGPT Fit For Every Purpose: Alan Turing Ethics Fellow Presents Checklist in Devoxx UK Keynote
@@ -26,7 +35,7 @@
                          During her keynote at Devoxx UK, Mhairi Aitken
 talked about the limitations of AI when grappling with the complexities of human language. She provided a checklist to be used when inspecting the AI Foundations before building on top of them. Also she urged them to be guided by ethical and social considerations when engaging with AI as a general-purpose AI model may not be fit for every purpose.
                     
-4 번째 검색 내용 
+5 번째 검색 내용 
 제목 : 
 
                             How AirBnb Improved its CI Pipeline for iOS Using AWS and Terraform
@@ -35,7 +44,7 @@ talked about the limitations of AI when grappling with the complexities of human
 설명 : 
                          AirBnb has historically managed its own fleet of Macs to run its iOS continuous integration pipeline. Thanks to AWS providing support for Macs, AirBnb engineers could migrate their iOS CI infrastructure to AWS to increase flexibility, consistency, and efficiency.
                     
-5 번째 검색 내용 
+6 번째 검색 내용 
 제목 : 
 
                             Xamarin.Forms and Xamarin.Essentials Align with Android 13
@@ -44,7 +53,7 @@ talked about the limitations of AI when grappling with the complexities of human
 설명 : 
                          Microsoft made the announcement that Xamarin.Forms and Xamarin.Essentials have been updated to target Android 13, aligning with Google's requirement for new Android apps to target at least Android 13 starting from August 2023. The update aims to ensure compatibility with the latest Android version and provide a smooth transition to the future of cross-platform development, .NET MAUI.
                     
-6 번째 검색 내용 
+7 번째 검색 내용 
 제목 : 
 
                             Adopting Artificial Intelligence: Things Leaders Need to Know
@@ -53,7 +62,7 @@ talked about the limitations of AI when grappling with the complexities of human
 설명 : 
                          Artificial intelligence (AI) can help companies identify new opportunities and products, and stay ahead of the competition. Senior software managers should understand the basics of how this new technology works, why agility is important in developing AI products, and how to hire or train people for new roles.
                     
-7 번째 검색 내용 
+8 번째 검색 내용 
 제목 : 
 
                             StackFeed: Cloud Service Updates as a Service
@@ -62,7 +71,7 @@ talked about the limitations of AI when grappling with the complexities of human
 설명 : 
                          In the fast-paced field of cloud services, staying current with service updates is often challenging. The recently announced StackFeed aims to address this issue, especially for software architects managing multi-cloud architectures. Architects select cloud services they're interested in, and StackFeed generates a customised service update feed consumable using an RSS reader, Slack or Teams.
                     
-8 번째 검색 내용 
+9 번째 검색 내용 
 제목 : 
 
                             The Guardian Optimizes Mobile Push-Notification Delivery Architecture
@@ -71,7 +80,7 @@ talked about the limitations of AI when grappling with the complexities of human
 설명 : 
                          The technology team at the Guardian has taken on making mobile push notifications faster to improve readers' experience. The original architecture, optimized for concurrency, has been suffering from delays in notification delivery. The engineers used improved observability to make significant gains through experimentation.
                     
-9 번째 검색 내용 
+10 번째 검색 내용 
 제목 : 
 
                             AWS Announces the General Availability of Private Access to the Management Console
@@ -80,7 +89,7 @@ talked about the limitations of AI when grappling with the complexities of human
 설명 : 
                          AWS recently announced the general availability (GA) of private access to the AWS management console. Private access is a new security feature that allows customers to limit access to the AWS Management Console from their Virtual Private Cloud (VPC) or connected networks to a set of trusted AWS accounts and organizations.
                     
-10 번째 검색 내용 
+11 번째 검색 내용 
 제목 : 
 
                             .NET MAUI Community Toolkit 5.1.0: Lazy View and Keyboard Extensions
@@ -89,7 +98,7 @@ talked about the limitations of AI when grappling with the complexities of human
 설명 : 
                          The latest release of the .NET MAUI Community toolkit, version 5.1.0, brings two main features and several bug fixes for the last version.
                     
-11 번째 검색 내용 
+12 번째 검색 내용 
 제목 : 
 
                             Google's Universal Speech Model Performs Speech Recognition on Hundreds of Languages
@@ -98,7 +107,7 @@ talked about the limitations of AI when grappling with the complexities of human
 설명 : 
                          Google Research announced Universal Speech Model (USM), a 2B parameter automated speech recognition (ASR) model trained on over 12M hours of speech audio. USM can recognize speech in over 100 languages, including low-resource languages, and achieves new state-of-the-art performance on several benchmarks.
                     
-12 번째 검색 내용 
+13 번째 검색 내용 
 제목 : 
 
                             Java Gets a Boost with the Record Pattern, Enabling More Expressive Coding
@@ -107,7 +116,7 @@ talked about the limitations of AI when grappling with the complexities of human
 설명 : 
                          JEP 440, finalizing Record Patterns, has been promoted from Proposed to Target to Targeted status for JDK 21, following feedback-driven enhancements in JEP 432 and JEP 405. Record patterns now allow for powerful data navigation and processing when used with type patterns. The main change from JEP 432 is the removal of record patterns in the header of an enhanced for statement.
                     
-13 번째 검색 내용 
+14 번째 검색 내용 
 제목 : 
 
                             GCC 13 Supports New C2x Features, Including nullptr, Enhanced Enumerations, and More
@@ -116,7 +125,7 @@ talked about the limitations of AI when grappling with the complexities of human
 설명 : 
                          At Google I/O 2023, Google has previewed Studio Bot, an AI-powered coding bot integrated in Android Studio latest version, codenamed Hedgehog. Studio Bot aims to help developers generate code, unit tests, and fix errors.
                     
-14 번째 검색 내용 
+15 번째 검색 내용 
 제목 : 
 
                             Josh Long at Devoxx UK: Showcasing Bootiful Spring 6 and Spring Boot 3
@@ -124,13 +133,4 @@ talked about the limitations of AI when grappling with the complexities of human
 주소 : https://www.infoq.com/news/2023/05/bootiful-spring/
 설명 : 
                          At his Devoxx UK presentation, Josh Long - Spring developer advocate at VMWare - coded his way through the new features coming in Spring Framework 6, and Spring Boot 3, emphasizing the benefits at the Java language level in the latest versions starting with version 17. He showcased the graphql support, the new declarative client, the new tracing, the native support and the new jakarta ee baseline.
-                    
-15 번째 검색 내용 
-제목 : 
-
-                            Java News Roundup: JDK 21 Updates, Spring Data 2023.0, JobRunr 6.2, Micronaut 4.0 Milestones
-                        
-주소 : https://www.infoq.com/news/2023/05/java-news-roundup-may08-2023/
-설명 : 
-                         This week's Java roundup for May 8th, 2023, features news from OpenJDK, JDK 21, GraalVM Native Build Tools 0.9.22, Spring Framework, Spring Data and Spring Shell releases, Micronaut 4.0-M3, Quarkus 3.0.3, Eclipse Vert.x releases, Micrometer Metrics and Tracing releases, Groovy 4.0.12, Tomcat releases, Maven 3.9.2, Piranha 23.5.0, Reactor 2022.0.7, JobRunr 6.2, JDKMon releases and Devoxx UK.
                     
