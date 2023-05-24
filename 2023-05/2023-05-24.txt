@@ -1,13 +1,22 @@
 1 번째 검색 내용 
 제목 : 
 
+                            ASP.NET Core in .NET 8 Preview 4: Blazor Streaming, Form Handling, Native AOT, Identity API and More
+                        
+주소 : https://www.infoq.com/news/2023/05/asp-net-core-8-p4/
+설명 : 
+                         The latest release of .NET 8 Preview 4 brings significant improvements to ASP.NET Core. Notable enhancements include Blazor's streaming rendering and form handling, expanded support for form binding in minimal APIs, Native AOT compilation for improved performance, enhanced authentication and authorization with Identity API endpoints, and the addition of metrics for application monitoring.
+                    
+2 번째 검색 내용 
+제목 : 
+
                             Meta Open-Sources Computer Vision Foundation Model DINOv2
                         
 주소 : https://www.infoq.com/news/2023/05/meta-dinov2-vision/
 설명 : 
                          Meta AI Research open-sourced DINOv2, a foundation model for computer vision (CV) tasks. DINOv2 is pretrained on a curated dataset of 142M images and can be used as a backbone for several tasks, including image classification, video action recognition, semantic segmentation, and depth estimation.
                     
-2 번째 검색 내용 
+3 번째 검색 내용 
 제목 : 
 
                             Open-Source Access Control With OpenFGA
@@ -16,7 +25,7 @@
 설명 : 
                          Auth0 released version 1.0 of OpenFGA, an open-source authorization server for fine grained access control use cases. This release indicates the stability of OpenFGA’s APIs and its readiness for production deployments.
                     
-3 번째 검색 내용 
+4 번째 검색 내용 
 제목 : 
 
                             Apache Pulsar 3.0 Delivers a New LTS Version and Efficiency Improvements
@@ -25,7 +34,7 @@
 설명 : 
                          The Apache Software Foundation has released version 3.0 of Apache Pulsar, the distributed messaging and streaming platform. Pulsar 3.0 introduces the Long-Term Support release and many performance and scalability improvements.
                     
-4 번째 검색 내용 
+5 번째 검색 내용 
 제목 : 
 
                             Java News Roundup: Azul Zulu Support for CRaC, Spring Boot Updates Mitigate CVEs, OpenJDK JEPs
@@ -34,7 +43,7 @@
 설명 : 
                          This week's Java roundup for May 15th, 2023 features news from OpenJDK, JDK 21, Azul Zulu, point releases of Spring Boot, Spring Security, Spring Security Kerberos, Spring Integration, Spring Batch, Spring for GraphQL, Spring Authorization Server, Spring LDAP, Micronaut, Open Liberty, TornadoVM, Hibernate ORM, Apache TomEE, Apache Tika, OpenXava, JBang, JDKMon and Spring I/O conference.
                     
-5 번째 검색 내용 
+6 번째 검색 내용 
 제목 : 
 
                             Jetpack Compose Brings Performance Improvements, Better Tooling Integration, and Updates Material 3
@@ -43,7 +52,7 @@
 설명 : 
                          At its Google I/O conference, Google has announced a new iteration of its Jetpack Compose UI toolkit for Android. Among its many improvements, Jetpack Compose has now better performance, extended support within Android Studio, a new Material 3 library, and more.
                     
-6 번째 검색 내용 
+7 번째 검색 내용 
 제목 : 
 
                             CockroachDB Updates: Available on Azure, Multi-Region Support, and Enhanced Migration Capabilities
@@ -52,7 +61,7 @@
 설명 : 
                          Cockroach Labs recently announced several updates to its CockroachDB: CockroachDB dedicated is available in limited access on Azure, multi-region capabilities in CockroachDB serverless in preview, and new and improved capabilities in CockroachDB MOLT (Migration of Legacy Technology).
                     
-7 번째 검색 내용 
+8 번째 검색 내용 
 제목 : 
 
                             Google Maps Previews Aerial View API
@@ -61,7 +70,7 @@
 설명 : 
                          At the recent Google I/O conference, the cloud provider announced the preview release of Aerial View API, a new option to access cinematic videos of points of interest. Immersive View for routes, Photorealistic 3D Tiles, new route customization capabilities, and reusable web components are other Google Maps improvements.
                     
-8 번째 검색 내용 
+9 번째 검색 내용 
 제목 : 
 
                             What Software Developers Can Do to Learn Effectively
@@ -70,7 +79,7 @@
 설명 : 
                          Software developers are constantly learning new languages, frameworks, tools, and techniques. It can be challenging to decide which topic to learn, estimate our competence level, prevent becoming overwhelmed, and keep our learning effective.  For better learning,  break it down into realistically sized phases, and repeat the same topic several times to really get to experience it properly.
                     
-9 번째 검색 내용 
+10 번째 검색 내용 
 제목 : 
 
                             Meta Switches to MySQL Raft to Improve Reliability and Operational Simplicity
@@ -79,7 +88,7 @@
 설명 : 
                          Meta is rolling out MySQL Raft in its data centers to replace its current MySQL semisynchronous databases. The new consensus engine helps operation and allows MySQL servers to take responsibility for promotions and membership.
                     
-10 번째 검색 내용 
+11 번째 검색 내용 
 제목 : 
 
                             Is ChatGPT Fit for Every Purpose: Alan Turing Ethics Fellow Presents Checklist in Devoxx UK Keynote
@@ -89,7 +98,7 @@
                          During her keynote at Devoxx UK, Mhairi Aitken
 talked about the limitations of AI when grappling with the complexities of human language. Further, she provided checklist developers use to inspect the AI Foundations before building on top of them. She urged us to be guided by ethical and social considerations when building on AI, as a general-purpose AI model may not be fit for every purpose.
                     
-11 번째 검색 내용 
+12 번째 검색 내용 
 제목 : 
 
                             How AirBnb Improved its CI Pipeline for iOS Using AWS and Terraform
@@ -98,7 +107,7 @@ talked about the limitations of AI when grappling with the complexities of human
 설명 : 
                          AirBnb has historically managed its own fleet of Macs to run its iOS continuous integration pipeline. Thanks to AWS providing support for Macs, AirBnb engineers could migrate their iOS CI infrastructure to AWS to increase flexibility, consistency, and efficiency.
                     
-12 번째 검색 내용 
+13 번째 검색 내용 
 제목 : 
 
                             Xamarin.Forms and Xamarin.Essentials Align with Android 13
@@ -107,7 +116,7 @@ talked about the limitations of AI when grappling with the complexities of human
 설명 : 
                          Microsoft made the announcement that Xamarin.Forms and Xamarin.Essentials have been updated to target Android 13, aligning with Google's requirement for new Android apps to target at least Android 13 starting from August 2023. The update aims to ensure compatibility with the latest Android version and provide a smooth transition to the future of cross-platform development, .NET MAUI.
                     
-13 번째 검색 내용 
+14 번째 검색 내용 
 제목 : 
 
                             Adopting Artificial Intelligence: Things Leaders Need to Know
@@ -116,7 +125,7 @@ talked about the limitations of AI when grappling with the complexities of human
 설명 : 
                          Artificial intelligence (AI) can help companies identify new opportunities and products, and stay ahead of the competition. Senior software managers should understand the basics of how this new technology works, why agility is important in developing AI products, and how to hire or train people for new roles.
                     
-14 번째 검색 내용 
+15 번째 검색 내용 
 제목 : 
 
                             StackFeed: Cloud Service Updates as a Service
@@ -124,13 +133,4 @@ talked about the limitations of AI when grappling with the complexities of human
 주소 : https://www.infoq.com/news/2023/05/stackfeed-cloud-service-updates/
 설명 : 
                          In the fast-paced field of cloud services, staying current with service updates is often challenging. The recently announced StackFeed aims to address this issue, especially for software architects managing multi-cloud architectures. Architects select cloud services they're interested in, and StackFeed generates a customised service update feed consumable using an RSS reader, Slack or Teams.
-                    
-15 번째 검색 내용 
-제목 : 
-
-                            The Guardian Optimizes Mobile Push-Notification Delivery Architecture
-                        
-주소 : https://www.infoq.com/news/2023/05/guardian-push-architecture/
-설명 : 
-                         The technology team at the Guardian has taken on making mobile push notifications faster to improve readers' experience. The original architecture, optimized for concurrency, has been suffering from delays in notification delivery. The engineers used improved observability to make significant gains through experimentation.
                     
