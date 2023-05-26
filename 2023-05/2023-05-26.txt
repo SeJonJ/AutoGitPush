@@ -1,0 +1,136 @@
+1 번째 검색 내용 
+제목 : 
+
+                            Applying Test-Driven Development in the Cloud
+                        
+주소 : https://www.infoq.com/news/2023/05/test-driven-development-cloud/
+설명 : 
+                         In the cloud, application development can be treated end-to-end with its accompanying infrastructure. This makes it possible to use test-driven development (TDD) and refactoring on the full application, which can bring down maintenance costs.
+                    
+2 번째 검색 내용 
+제목 : 
+
+                            Azure Container Storage Now in Public Preview
+                        
+주소 : https://www.infoq.com/news/2023/05/azure-container-storage-preview/
+설명 : 
+                         Microsoft recently announced the public preview of Azure Container Storage, a volume management service built natively for containers.
+                    
+3 번째 검색 내용 
+제목 : 
+
+                            OpenAI is Using GPT-4 to Explain Neurons' Behavior in GPT-2
+                        
+주소 : https://www.infoq.com/news/2023/05/openai-gpt4-explains-gpt2/
+설명 : 
+                         A recent paper by a group of researchers at OpenAI outlines a novel approach to solve one of the limitations of current deep neural networks (DNNs), namely their lack of interpretability. By Using GPT-4, the researchers aim to build a technique to explain what events cause a neuron to activate, as a first step towards automating DNN interpretability.
+                    
+4 번째 검색 내용 
+제목 : 
+
+                            Breaking down Barriers: Introducing JDK 21’s Approach to Beginner-Friendly Java Programming
+                        
+주소 : https://www.infoq.com/news/2023/05/beginner-friendly-java/
+설명 : 
+                         JEP 445, Unnamed Classes and Instance Main Methods (Preview), has been promoted from its Proposed to Target to Targeted status. This feature of JEP, formerly entitled Implicit Classes and Enhanced Main Methods (Preview), proposes to "evolve the Java language so that students can write their first programs without needing to understand language features designed for large programs.”
+                    
+5 번째 검색 내용 
+제목 : 
+
+                            ASP.NET Core in .NET 8 Preview 4: Blazor Streaming, Form Handling, Native AOT, Identity API and More
+                        
+주소 : https://www.infoq.com/news/2023/05/asp-net-core-8-p4/
+설명 : 
+                         The latest release of .NET 8 Preview 4 brings significant improvements to ASP.NET Core. Notable enhancements include Blazor's streaming rendering and form handling, expanded support for form binding in minimal APIs, Native AOT compilation for improved performance, enhanced authentication and authorization with Identity API endpoints, and the addition of metrics for application monitoring.
+                    
+6 번째 검색 내용 
+제목 : 
+
+                            Meta Open-Sources Computer Vision Foundation Model DINOv2
+                        
+주소 : https://www.infoq.com/news/2023/05/meta-dinov2-vision/
+설명 : 
+                         Meta AI Research open-sourced DINOv2, a foundation model for computer vision (CV) tasks. DINOv2 is pretrained on a curated dataset of 142M images and can be used as a backbone for several tasks, including image classification, video action recognition, semantic segmentation, and depth estimation.
+                    
+7 번째 검색 내용 
+제목 : 
+
+                            Open-Source Access Control with OpenFGA
+                        
+주소 : https://www.infoq.com/news/2023/05/open-fine-grained-authorization/
+설명 : 
+                         Auth0 released version 1.0 of OpenFGA, an open-source authorization server for fine grained access control use cases. This release indicates the stability of OpenFGA’s APIs and its readiness for production deployments.
+                    
+8 번째 검색 내용 
+제목 : 
+
+                            Apache Pulsar 3.0 Delivers a New LTS Version and Efficiency Improvements
+                        
+주소 : https://www.infoq.com/news/2023/05/apache-pulsar-messaging/
+설명 : 
+                         The Apache Software Foundation has released version 3.0 of Apache Pulsar, the distributed messaging and streaming platform. Pulsar 3.0 introduces the Long-Term Support release and many performance and scalability improvements.
+                    
+9 번째 검색 내용 
+제목 : 
+
+                            Java News Roundup: Azul Zulu Support for CRaC, Spring Boot Updates Mitigate CVEs, OpenJDK JEPs
+                        
+주소 : https://www.infoq.com/news/2023/05/java-news-roundup-may15-2023/
+설명 : 
+                         This week's Java roundup for May 15th, 2023 features news from OpenJDK, JDK 21, Azul Zulu, point releases of Spring Boot, Spring Security, Spring Security Kerberos, Spring Integration, Spring Batch, Spring for GraphQL, Spring Authorization Server, Spring LDAP, Micronaut, Open Liberty, TornadoVM, Hibernate ORM, Apache TomEE, Apache Tika, OpenXava, JBang, JDKMon and Spring I/O conference.
+                    
+10 번째 검색 내용 
+제목 : 
+
+                            Jetpack Compose Brings Performance Improvements, Better Tooling Integration, and Updates Material 3
+                        
+주소 : https://www.infoq.com/news/2023/05/android-jetpack-compose-2023/
+설명 : 
+                         At its Google I/O conference, Google has announced a new iteration of its Jetpack Compose UI toolkit for Android. Among its many improvements, Jetpack Compose has now better performance, extended support within Android Studio, a new Material 3 library, and more.
+                    
+11 번째 검색 내용 
+제목 : 
+
+                            CockroachDB Updates: Available on Azure, Multi-Region Support, and Enhanced Migration Capabilities
+                        
+주소 : https://www.infoq.com/news/2023/05/cockroachdb-azure-multi-region/
+설명 : 
+                         Cockroach Labs recently announced several updates to its CockroachDB: CockroachDB dedicated is available in limited access on Azure, multi-region capabilities in CockroachDB serverless in preview, and new and improved capabilities in CockroachDB MOLT (Migration of Legacy Technology).
+                    
+12 번째 검색 내용 
+제목 : 
+
+                            Google Maps Previews Aerial View API
+                        
+주소 : https://www.infoq.com/news/2023/05/google-maps-aerial-view-api/
+설명 : 
+                         At the recent Google I/O conference, the cloud provider announced the preview release of Aerial View API, a new option to access cinematic videos of points of interest. Immersive View for routes, Photorealistic 3D Tiles, new route customization capabilities, and reusable web components are other Google Maps improvements.
+                    
+13 번째 검색 내용 
+제목 : 
+
+                            What Software Developers Can Do to Learn Effectively
+                        
+주소 : https://www.infoq.com/news/2023/05/software-developers-learn/
+설명 : 
+                         Software developers are constantly learning new languages, frameworks, tools, and techniques. It can be challenging to decide which topic to learn, estimate our competence level, prevent becoming overwhelmed, and keep our learning effective.  For better learning,  break it down into realistically sized phases, and repeat the same topic several times to really get to experience it properly.
+                    
+14 번째 검색 내용 
+제목 : 
+
+                            Meta Switches to MySQL Raft to Improve Reliability and Operational Simplicity
+                        
+주소 : https://www.infoq.com/news/2023/05/meta-facebook-mysql-raft/
+설명 : 
+                         Meta is rolling out MySQL Raft in its data centers to replace its current MySQL semisynchronous databases. The new consensus engine helps operation and allows MySQL servers to take responsibility for promotions and membership.
+                    
+15 번째 검색 내용 
+제목 : 
+
+                            Is ChatGPT Fit for Every Purpose: Alan Turing Ethics Fellow Presents Checklist in Devoxx UK Keynote
+                        
+주소 : https://www.infoq.com/news/2023/05/ai-foundation-checklist/
+설명 : 
+                         During her keynote at Devoxx UK, Mhairi Aitken
+talked about the limitations of AI when grappling with the complexities of human language. Further, she provided checklist developers use to inspect the AI Foundations before building on top of them. She urged us to be guided by ethical and social considerations when building on AI, as a general-purpose AI model may not be fit for every purpose.
+                    
