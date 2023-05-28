@@ -1,13 +1,22 @@
 1 번째 검색 내용 
 제목 : 
 
+                            Cloudflare Workers Introduces connect() API to Create TCP Sockets
+                        
+주소 : https://www.infoq.com/news/2023/05/cloudflare-workers-connect-api/
+설명 : 
+                         During the recent developer week, Cloudflare announced a Worker API to create outbound TCP sockets. The new socket API allows developers to connect back to TCP-based infra directly from a Worker, including databases.
+                    
+2 번째 검색 내용 
+제목 : 
+
                             AI, ML & Data News Roundup: Generative Fill, Copilot, Aria, and Brain Chips
                         
 주소 : https://www.infoq.com/news/2023/05/ai-ml-data-news-may22-2023/
 설명 : 
                          The most recent update, covering the week starting May 22nd, 2023, encompasses the latest progress and declarations in the fields of data science, machine learning, and artificial intelligence. This week, the focus is on prominent figures such Adobe, Microsoft, Opera, and the University of Lausanne.
                     
-2 번째 검색 내용 
+3 번째 검색 내용 
 제목 : 
 
                             eBay and lastminute.com Adopt Contract Testing to Drive Architecture Evolution
@@ -16,7 +25,7 @@
 설명 : 
                          Lastminute.com has adopted contract tests to mitigate difficulties resulting from using system-level integration tests and to improve the feedback cycle and development process while eBay is using contract testing to help safely evolve their internal APIs and support client teams' requirements.
                     
-3 번째 검색 내용 
+4 번째 검색 내용 
 제목 : 
 
                             AWS Adds Multi-AZ with Standby Support to OpenSearch Service
@@ -25,7 +34,7 @@
 설명 : 
                          OpenSearch Service recently introduced support for Multi-AZ with Standby, a new deployment option for the search and analytics engine that provides 99.99% availability and better performance for business-critical workloads.
                     
-4 번째 검색 내용 
+5 번째 검색 내용 
 제목 : 
 
                             Curiosity and Self-Awareness are Must-Haves for Handling Conflict
@@ -34,7 +43,7 @@
 설명 : 
                          When you're in a team, collaborating with others, it's crucial to embrace diverse opinions and dissent;  you need to have good conflicts. Conflicts have bad reputations, but with curiosity you can harvest more positive outcomes and build trust and psychological safety. Self-awareness of your emotions and reactions can help prevent saying or doing something that you might regret later.
                     
-5 번째 검색 내용 
+6 번째 검색 내용 
 제목 : 
 
                             Applying Test-Driven Development in the Cloud
@@ -43,7 +52,7 @@
 설명 : 
                          In the cloud, application development can be treated end-to-end with its accompanying infrastructure. This makes it possible to use test-driven development (TDD) and refactoring on the full application, which can bring down maintenance costs.
                     
-6 번째 검색 내용 
+7 번째 검색 내용 
 제목 : 
 
                             Azure Container Storage Now in Public Preview
@@ -52,7 +61,7 @@
 설명 : 
                          Microsoft recently announced the public preview of Azure Container Storage, a volume management service built natively for containers.
                     
-7 번째 검색 내용 
+8 번째 검색 내용 
 제목 : 
 
                             OpenAI is Using GPT-4 to Explain Neurons' Behavior in GPT-2
@@ -61,7 +70,7 @@
 설명 : 
                          A recent paper by a group of researchers at OpenAI outlines a novel approach to solve one of the limitations of current deep neural networks (DNNs), namely their lack of interpretability. By Using GPT-4, the researchers aim to build a technique to explain what events cause a neuron to activate, as a first step towards automating DNN interpretability.
                     
-8 번째 검색 내용 
+9 번째 검색 내용 
 제목 : 
 
                             Breaking down Barriers: Introducing JDK 21’s Approach to Beginner-Friendly Java Programming
@@ -70,7 +79,7 @@
 설명 : 
                          JEP 445, Unnamed Classes and Instance Main Methods (Preview), has been promoted from its Proposed to Target to Targeted status. This feature of JEP, formerly entitled Implicit Classes and Enhanced Main Methods (Preview), proposes to "evolve the Java language so that students can write their first programs without needing to understand language features designed for large programs.”
                     
-9 번째 검색 내용 
+10 번째 검색 내용 
 제목 : 
 
                             ASP.NET Core in .NET 8 Preview 4: Blazor Streaming, Form Handling, Native AOT, Identity API and More
@@ -79,7 +88,7 @@
 설명 : 
                          The latest release of .NET 8 Preview 4 brings significant improvements to ASP.NET Core. Notable enhancements include Blazor's streaming rendering and form handling, expanded support for form binding in minimal APIs, Native AOT compilation for improved performance, enhanced authentication and authorization with Identity API endpoints, and the addition of metrics for application monitoring.
                     
-10 번째 검색 내용 
+11 번째 검색 내용 
 제목 : 
 
                             Meta Open-Sources Computer Vision Foundation Model DINOv2
@@ -88,7 +97,7 @@
 설명 : 
                          Meta AI Research open-sourced DINOv2, a foundation model for computer vision (CV) tasks. DINOv2 is pretrained on a curated dataset of 142M images and can be used as a backbone for several tasks, including image classification, video action recognition, semantic segmentation, and depth estimation.
                     
-11 번째 검색 내용 
+12 번째 검색 내용 
 제목 : 
 
                             Open-Source Access Control with OpenFGA
@@ -97,7 +106,7 @@
 설명 : 
                          Auth0 released version 1.0 of OpenFGA, an open-source authorization server for fine grained access control use cases. This release indicates the stability of OpenFGA’s APIs and its readiness for production deployments.
                     
-12 번째 검색 내용 
+13 번째 검색 내용 
 제목 : 
 
                             Apache Pulsar 3.0 Delivers a New LTS Version and Efficiency Improvements
@@ -106,7 +115,7 @@
 설명 : 
                          The Apache Software Foundation has released version 3.0 of Apache Pulsar, the distributed messaging and streaming platform. Pulsar 3.0 introduces the Long-Term Support release and many performance and scalability improvements.
                     
-13 번째 검색 내용 
+14 번째 검색 내용 
 제목 : 
 
                             Java News Roundup: Azul Zulu Support for CRaC, Spring Boot Updates Mitigate CVEs, OpenJDK JEPs
@@ -115,7 +124,7 @@
 설명 : 
                          This week's Java roundup for May 15th, 2023 features news from OpenJDK, JDK 21, Azul Zulu, point releases of Spring Boot, Spring Security, Spring Security Kerberos, Spring Integration, Spring Batch, Spring for GraphQL, Spring Authorization Server, Spring LDAP, Micronaut, Open Liberty, TornadoVM, Hibernate ORM, Apache TomEE, Apache Tika, OpenXava, JBang, JDKMon and Spring I/O conference.
                     
-14 번째 검색 내용 
+15 번째 검색 내용 
 제목 : 
 
                             Jetpack Compose Brings Performance Improvements, Better Tooling Integration, and Updates Material 3
@@ -123,13 +132,4 @@
 주소 : https://www.infoq.com/news/2023/05/android-jetpack-compose-2023/
 설명 : 
                          At its Google I/O conference, Google has announced a new iteration of its Jetpack Compose UI toolkit for Android. Among its many improvements, Jetpack Compose has now better performance, extended support within Android Studio, a new Material 3 library, and more.
-                    
-15 번째 검색 내용 
-제목 : 
-
-                            CockroachDB Updates: Available on Azure, Multi-Region Support, and Enhanced Migration Capabilities
-                        
-주소 : https://www.infoq.com/news/2023/05/cockroachdb-azure-multi-region/
-설명 : 
-                         Cockroach Labs recently announced several updates to its CockroachDB: CockroachDB dedicated is available in limited access on Azure, multi-region capabilities in CockroachDB serverless in preview, and new and improved capabilities in CockroachDB MOLT (Migration of Legacy Technology).
                     
