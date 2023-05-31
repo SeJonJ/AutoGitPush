@@ -1,0 +1,135 @@
+1 번째 검색 내용 
+제목 : 
+
+                            OpenAI Launches its Official ChatGPT App for iOS
+                        
+주소 : https://www.infoq.com/news/2023/05/openai-chatgpt-ios-app/
+설명 : 
+                         OpenAI made its official ChatGPT app available on the US App Store, providing voice-based input, GPT-4 support for paying users, and faster response times. The company said they will soon start the roll out to additional countries and that an Android version is in the making.
+                    
+2 번째 검색 내용 
+제목 : 
+
+                            Unlocking Software Engineering Potential for Better Products
+                        
+주소 : https://www.infoq.com/news/2023/05/software-engineering-potential/
+설명 : 
+                         Becoming an empowered team means solving problems rather than shipping features. Empowering software engineers and involving them early in discovery work can result in better products. If we measure outcomes rather than output, we can also hold teams accountable. Supporting software engineers to empower them means trusting them and getting out of their way.
+                    
+3 번째 검색 내용 
+제목 : 
+
+                            Microsoft Open-Sources 13 Billion Parameter Language and Vision Chatbot LLaVA
+                        
+주소 : https://www.infoq.com/news/2023/05/microsoft-llava-chatbot/
+설명 : 
+                         Researchers from Microsoft, the University of Wisconsin–Madison, and Columbia University have open-sourced Large Language and Vision Assistant (LLaVA). LLaVA is based on a CLIP image encoder and a LLaMA language decoder, is fine-tuned on a synthetic instruction-following dataset, and achieved state-of-the-art accuracy on the ScienceQA benchmark.
+                    
+4 번째 검색 내용 
+제목 : 
+
+                            Grafana Adds Service Accounts and Improves Debugging Experience
+                        
+주소 : https://www.infoq.com/news/2023/05/grafana-service-accounts/
+설명 : 
+                         Grafana Labs has released version 9.5 of Grafana including improvements to Grafana Alerting, service accounts, and improvements to the dashboards. Support bundles were also released providing a simpler way to gather and share debugging information about the Grafana stack. AWS has announced support for Grafana 9.4 within their Amazon Managed Grafana service.
+                    
+5 번째 검색 내용 
+제목 : 
+
+                            Java News Roundup: Java Turns 28, Payara Platform, Micronaut 4.0-M5, Spring Updates, JHipster Lite
+                        
+주소 : https://www.infoq.com/news/2023/05/java-news-roundup-may22-2023/
+설명 : 
+                         This week's Java roundup for May 22nd, 2023 features news from OpenJDK, JDK 21, Spring Cloud 2022.0.3, Spring Shell 3.1.0, 3.0.4 and 2.1.10, Spring Security Kerberos 2.0-RC2, Payara Platform, Quarkus 3.0.4 and 2.13.8, WildFly 28.0.1, Micronaut 4.0-M5, Helidon 2.6.1, MicroStream 8.1.0, Apache Camel 3.20.5, JDKMon 17.0.61, JHipster Lite 0.33.0, Java’s 28th Birthday and Azul State of Java survey.
+                    
+6 번째 검색 내용 
+제목 : 
+
+                            JetBrains Compose Multiplatform for iOS Reaches Alpha
+                        
+주소 : https://www.infoq.com/news/2023/05/compose-multiplatform-ios-alpha/
+설명 : 
+                         After adding support for desktop apps and the Web, JetBrains multiplatform declarative UI toolkit now runs on iOS in alpha.
+                    
+7 번째 검색 내용 
+제목 : 
+
+                            Cloudflare Workers Introduces connect() API to Create TCP Sockets
+                        
+주소 : https://www.infoq.com/news/2023/05/cloudflare-workers-connect-api/
+설명 : 
+                         During the recent developer week, Cloudflare announced a Worker API to create outbound TCP sockets. The new socket API allows developers to connect back to TCP-based infra directly from a Worker, including databases.
+                    
+8 번째 검색 내용 
+제목 : 
+
+                            AI, ML & Data News Roundup: Generative Fill, Copilot, Aria, and Brain Chips
+                        
+주소 : https://www.infoq.com/news/2023/05/ai-ml-data-news-may22-2023/
+설명 : 
+                         The most recent update, covering the week starting May 22nd, 2023, encompasses the latest progress and declarations in the fields of data science, machine learning, and artificial intelligence. This week, the focus is on prominent figures such Adobe, Microsoft, Opera, and the University of Lausanne.
+                    
+9 번째 검색 내용 
+제목 : 
+
+                            eBay and lastminute.com Adopt Contract Testing to Drive Architecture Evolution
+                        
+주소 : https://www.infoq.com/news/2023/05/ebay-contract-testing-evolution/
+설명 : 
+                         Lastminute.com has adopted contract tests to mitigate difficulties resulting from using system-level integration tests and to improve the feedback cycle and development process while eBay is using contract testing to help safely evolve their internal APIs and support client teams' requirements.
+                    
+10 번째 검색 내용 
+제목 : 
+
+                            AWS Adds Multi-AZ with Standby Support to OpenSearch Service
+                        
+주소 : https://www.infoq.com/news/2023/05/aws-opensearch-multi-az/
+설명 : 
+                         OpenSearch Service recently introduced support for Multi-AZ with Standby, a new deployment option for the search and analytics engine that provides 99.99% availability and better performance for business-critical workloads.
+                    
+11 번째 검색 내용 
+제목 : 
+
+                            Curiosity and Self-Awareness are Must-Haves for Handling Conflict
+                        
+주소 : https://www.infoq.com/news/2023/05/curiosity-self-aware-conflict/
+설명 : 
+                         When you're in a team, collaborating with others, it's crucial to embrace diverse opinions and dissent;  you need to have good conflicts. Conflicts have bad reputations, but with curiosity you can harvest more positive outcomes and build trust and psychological safety. Self-awareness of your emotions and reactions can help prevent saying or doing something that you might regret later.
+                    
+12 번째 검색 내용 
+제목 : 
+
+                            Applying Test-Driven Development in the Cloud
+                        
+주소 : https://www.infoq.com/news/2023/05/test-driven-development-cloud/
+설명 : 
+                         In the cloud, application development can be treated end-to-end with its accompanying infrastructure. This makes it possible to use test-driven development (TDD) and refactoring on the full application, which can bring down maintenance costs.
+                    
+13 번째 검색 내용 
+제목 : 
+
+                            Azure Container Storage Now in Public Preview
+                        
+주소 : https://www.infoq.com/news/2023/05/azure-container-storage-preview/
+설명 : 
+                         Microsoft recently announced the public preview of Azure Container Storage, a volume management service built natively for containers.
+                    
+14 번째 검색 내용 
+제목 : 
+
+                            OpenAI is Using GPT-4 to Explain Neurons' Behavior in GPT-2
+                        
+주소 : https://www.infoq.com/news/2023/05/openai-gpt4-explains-gpt2/
+설명 : 
+                         A recent paper by a group of researchers at OpenAI outlines a novel approach to solve one of the limitations of current deep neural networks (DNNs), namely their lack of interpretability. By Using GPT-4, the researchers aim to build a technique to explain what events cause a neuron to activate, as a first step towards automating DNN interpretability.
+                    
+15 번째 검색 내용 
+제목 : 
+
+                            Breaking down Barriers: Introducing JDK 21’s Approach to Beginner-Friendly Java Programming
+                        
+주소 : https://www.infoq.com/news/2023/05/beginner-friendly-java/
+설명 : 
+                         JEP 445, Unnamed Classes and Instance Main Methods (Preview), has been promoted from its Proposed to Target to Targeted status. This feature of JEP, formerly entitled Implicit Classes and Enhanced Main Methods (Preview), proposes to "evolve the Java language so that students can write their first programs without needing to understand language features designed for large programs.”
+                    
