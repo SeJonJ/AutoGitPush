@@ -1,13 +1,22 @@
 1 번째 검색 내용 
 제목 : 
 
+                            Cloudflare  Enhances Performance for Serverless Database D1
+                        
+주소 : https://www.infoq.com/news/2023/06/cloudflare-serverless-d1/
+설명 : 
+                         Cloudflare recently announced a revamp of its serverless relational database D1. Built on top of SQLite, D1 has a new architecture that provides better read and write performances and support for JSON functions.
+                    
+2 번째 검색 내용 
+제목 : 
+
                             Debugging Difficult Conversations as a Pathway to Happy and Productive Teams
                         
 주소 : https://www.infoq.com/news/2023/06/debug-difficult-conversations/
 설명 : 
                          Any time we talk to someone or to a group when there are high stakes and/or high emotions, difficult conversations can happen. If we ignore difficult conversations they typically don’t resolve themselves, in fact, they often get worse. Handling difficult conversations involves thinking about the logistics, having the proper mindset, and preparing yourselves.
                     
-2 번째 검색 내용 
+3 번째 검색 내용 
 제목 : 
 
                             AWS Shifts Strategy: Public GitHub Documentation to Be Retired
@@ -16,7 +25,7 @@
 설명 : 
                          In the next few days, AWS will start retiring the AWS documentation currently available on GitHub. After reviewing the results of the project and considering the overhead of manually keeping the internal documentation in sync, the cloud provider recently decided to retire most of its public repositories.
                     
-3 번째 검색 내용 
+4 번째 검색 내용 
 제목 : 
 
                             Visual Studio 2022 17.7 Preview 1: Productivity, Cloud and Game Development Enhancements
@@ -25,7 +34,7 @@
 설명 : 
                          Microsoft has announced the release of the first preview of Visual Studio 2022 version 17.7. This new version brings a range of improvements and features aimed at enhancing developer productivity. It also includes enhancements for .NET and cloud development, as well as for C++ and game development.
                     
-4 번째 검색 내용 
+5 번째 검색 내용 
 제목 : 
 
                             Microsoft Build 2023:  Bing AI and Copilot Plugins for ChatGPT OpenAI, Microsoft Fabric and More
@@ -34,7 +43,7 @@
 설명 : 
                          This year's Microsoft Build was focused on artificial intelligence, with new Copilot experience additions for Windows 11 and Edge, as well as new Bing AI and Copilot plugins for ChatGPT OpenAI. Key announcements also included the Microsoft Fabric analytics platform, the introduction of the Microsoft Dev Box for development environments, and upgrades within Microsoft Azure.
                     
-5 번째 검색 내용 
+6 번째 검색 내용 
 제목 : 
 
                             How Big Tech Lost Its Way - Regulation and Freedom
@@ -43,7 +52,7 @@
 설명 : 
                          Technology plays an ever increasing part in our lives, yet big tech seems to be running out of control, showing behavior that is at odds with its principles. Regulation is starting to develop, but laws are rarely applied. The leaders of big tech companies should realise their job is culture. At QCon London 2023, Andy Walker gave a talk about how big tech lost its way.
                     
-6 번째 검색 내용 
+7 번째 검색 내용 
 제목 : 
 
                             Unified Analytics Platform: Microsoft Fabric
@@ -52,7 +61,7 @@
 설명 : 
                          At the recent annual Build Conference, Microsoft introduced a unified analytics platform with Microsoft Fabric that brings together all the data and analytics that organizations need.
                     
-7 번째 검색 내용 
+8 번째 검색 내용 
 제목 : 
 
                             Minecraft Welcomes Its First LLM-Powered Agent
@@ -61,7 +70,7 @@
 설명 : 
                          Researchers from Caltech, Stanford, the University of Texas, and NVIDIA have collaboratively developed and released Voyager, an LLM power agent that utilizes GPT-4 to engage in Minecraft gameplay. Voyager demonstrates remarkable capabilities by learning, retaining knowledge, and showcasing exceptional expertise in Minecraft.
                     
-8 번째 검색 내용 
+9 번째 검색 내용 
 제목 : 
 
                             Microsoft Authentication Library 4.54.0 Supports Managed Identities
@@ -70,7 +79,7 @@
 설명 : 
                          Version 4.54.0 of MSAL, Microsoft authentication library for .NET, brings official support for using managed identities when authenticating services that run in Azure. Furthermore, it features better error information for UWP applications and several bug fixes.
                     
-9 번째 검색 내용 
+10 번째 검색 내용 
 제목 : 
 
                             Azure Deployment Environments Now Generally Available
@@ -79,7 +88,7 @@
 설명 : 
                          At the annual Build conference, Microsoft announced Azure Deployment Environments' general availability (GA). This service allows development teams to create segregated instances within Azure for deploying and managing applications in different stages, such as development, testing, and production, to ensure controlled and consistent deployment processes.
                     
-10 번째 검색 내용 
+11 번째 검색 내용 
 제목 : 
 
                             Infracopilot, a Conversational Infrastructure-as-Code Editor
@@ -88,7 +97,7 @@
 설명 : 
                          Klotho announced InfraCopilot, an infrastructure as a Code (IaC) editor with natural language processing capabilities. The user can chat with InfraCopilot describing their infrastructure needs and it translates these ideas into a low-level architecture. Users can then iterate with incremental high-level and low-level architecture changes.
                     
-11 번째 검색 내용 
+12 번째 검색 내용 
 제목 : 
 
                             OpenAI Launches its Official ChatGPT App for iOS
@@ -97,7 +106,7 @@
 설명 : 
                          OpenAI made its official ChatGPT app available on the US App Store, providing voice-based input, GPT-4 support for paying users, and faster response times. The company said they will soon start the roll out to additional countries and that an Android version is in the making.
                     
-12 번째 검색 내용 
+13 번째 검색 내용 
 제목 : 
 
                             Unlocking Software Engineering Potential for Better Products
@@ -106,7 +115,7 @@
 설명 : 
                          Becoming an empowered team means solving problems rather than shipping features. Empowering software engineers and involving them early in discovery work can result in better products. If we measure outcomes rather than output, we can also hold teams accountable. Supporting software engineers to empower them means trusting them and getting out of their way.
                     
-13 번째 검색 내용 
+14 번째 검색 내용 
 제목 : 
 
                             Microsoft Open-Sources 13 Billion Parameter Language and Vision Chatbot LLaVA
@@ -115,7 +124,7 @@
 설명 : 
                          Researchers from Microsoft, the University of Wisconsin–Madison, and Columbia University have open-sourced Large Language and Vision Assistant (LLaVA). LLaVA is based on a CLIP image encoder and a LLaMA language decoder, is fine-tuned on a synthetic instruction-following dataset, and achieved state-of-the-art accuracy on the ScienceQA benchmark.
                     
-14 번째 검색 내용 
+15 번째 검색 내용 
 제목 : 
 
                             Grafana Adds Service Accounts and Improves Debugging Experience
@@ -123,13 +132,4 @@
 주소 : https://www.infoq.com/news/2023/05/grafana-service-accounts/
 설명 : 
                          Grafana Labs has released version 9.5 of Grafana including improvements to Grafana Alerting, service accounts, and improvements to the dashboards. Support bundles were also released providing a simpler way to gather and share debugging information about the Grafana stack. AWS has announced support for Grafana 9.4 within their Amazon Managed Grafana service.
-                    
-15 번째 검색 내용 
-제목 : 
-
-                            Java News Roundup: Java Turns 28, Payara Platform, Micronaut 4.0-M5, Spring Updates, JHipster Lite
-                        
-주소 : https://www.infoq.com/news/2023/05/java-news-roundup-may22-2023/
-설명 : 
-                         This week's Java roundup for May 22nd, 2023, features news from OpenJDK, JDK 21, Spring Cloud 2022.0.3, Spring Shell 3.1.0, 3.0.4 and 2.1.10, Spring Security Kerberos 2.0-RC2, Payara Platform, Quarkus 3.0.4 and 2.13.8, WildFly 28.0.1, Micronaut 4.0-M5, Helidon 2.6.1, MicroStream 8.1.0, Apache Camel 3.20.5, JDKMon 17.0.61, JHipster Lite 0.33.0, Java’s 28th Birthday and Azul State of Java survey.
                     
