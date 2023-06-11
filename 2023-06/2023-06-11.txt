@@ -1,0 +1,135 @@
+1 번째 검색 내용 
+제목 : 
+
+                            Streamlining Java with JEP 443: Ushering in a New Era of Java Code Readability
+                        
+주소 : https://www.infoq.com/news/2023/06/streamlining-java-with-jep-443/
+설명 : 
+                         JEP 443, Unnamed Patterns and Variables (Preview), has been Completed from Targeted status for JDK 21. This preview JEP proposes to "enhance the language with unnamed patterns, which match a record component without stating the component's name or type, and unnamed variables, which can be initialized but not used."
+                    
+2 번째 검색 내용 
+제목 : 
+
+                            GitHub Announces Code Scanning and Security Advisory Support for Swift
+                        
+주소 : https://www.infoq.com/news/2023/06/GitHub-code-scanning-swift/
+설명 : 
+                         GitHub has launched code scanning support for Swift in beta and announced it will include Swift security advisories in its Advisory Database to extend the capabilities of its Dependabot vulnerability monitor.
+                    
+3 번째 검색 내용 
+제목 : 
+
+                            JunoDB: PayPal Open Sources Key-Value Store Powering 350 Billion Daily Requests
+                        
+주소 : https://www.infoq.com/news/2023/06/paypal-junodb-kv-store/
+설명 : 
+                         PayPal recently open-sourced JunoDB, a distributed key-value store that uses RocksDB as the underlying storage engine. A highly available and security-focused database, JunoDB serves daily 350 billion requests at PayPal.
+                    
+4 번째 검색 내용 
+제목 : 
+
+                            Structured Concurrency in JDK 21: A Leap Forward in Concurrent Programming
+                        
+주소 : https://www.infoq.com/news/2023/06/structured-concurrency-jdk-21/
+설명 : 
+                         JEP 453, Structured Concurrency (Preview), has been Integrated from the Targeted status for JDK 21. Formerly an incubating API, this initial preview incorporates enhancements in response to feedback from the previous two rounds of incubation: JEP 428, Structured Concurrency (Incubator), delivered in JDK 19; and JEP 437, Structured Concurrency (Second Incubator), delivered in JDK 20.
+                    
+5 번째 검색 내용 
+제목 : 
+
+                            Embracing Complexity by Asking Questions, Listening, and Building a Shared Understanding
+                        
+주소 : https://www.infoq.com/news/2023/06/embracing-complexity/
+설명 : 
+                         When dealing with an environment that feels complex, people commonly look for ways to reduce variability and increase control for dealing with complexity. An alternative approach is to embrace complexity by acknowledging that it exists, asking questions and listening, and constructing a shared understanding based on different perspectives. This lets us improve how we adapt on an ongoing basis.
+                    
+6 번째 검색 내용 
+제목 : 
+
+                            Uno Platform 4.9: Media Player Element, WebView2 and Native Host Support for Skia
+                        
+주소 : https://www.infoq.com/news/2023/06/uno-platform-4-9-released/
+설명 : 
+                         Uno Platform released version 4.9 of their framework for building native mobile, desktop, and WebAssembly apps. The latest version brings the MediaPlayerElement control and WebView2 support which are two community long awaited features. Also, beyond these additions, the release includes over 100 other improvements and enhancements, including the native host support for Skia.
+                    
+7 번째 검색 내용 
+제목 : 
+
+                            Introducing Azure Monitor OpenTelemetry Distro
+                        
+주소 : https://www.infoq.com/news/2023/06/azure-opentelemtry-distro/
+설명 : 
+                         At the end of May, Microsoft introduced the Azure Monitor OpenTelemetry Distro.  Azure Monitor and all Azure SDKs support OpenTelemetry, integrating with APM systems such as Prometheus and Grafana. Microsoft Azure provides the Azure Monitor OpenTelemetry Distro, facilitating the deployment of this technology and increasing the observability of applications.
+                    
+8 번째 검색 내용 
+제목 : 
+
+                            JBang 0.107.0 Delivers Java 21 Preview, OpenAI Integration, and More
+                        
+주소 : https://www.infoq.com/news/2023/06/jbang-107/
+설명 : 
+                         JBang 0.107.0 provides a preview of Java 21, integrating with the OpenAI plugins via the quickstart port from Python and further integration with ChatGPT to generate Java code.
+                    
+9 번째 검색 내용 
+제목 : 
+
+                            What Carbon Neutral Really Means and How Net-Zero Is Different
+                        
+주소 : https://www.infoq.com/news/2023/06/carbon-neutral-net-zero/
+설명 : 
+                         Carbon neutrality means that the total amount of emissions is either eliminated, neutralized, or compensated. Net-zero is a target that doesn’t include compensation and puts more emphasis on avoiding carbon emissions. Many products, data centers, or companies are already carbon neutral, but few have reached net-zero. The problem with offsetting approaches is that you continue to emit carbon.
+                    
+10 번째 검색 내용 
+제목 : 
+
+                            ETTrace is an Open-Source Profiler for iOS Aiming to Simplify Performance Optimization
+                        
+주소 : https://www.infoq.com/news/2023/06/ettrace-ios-time-profiler/
+설명 : 
+                         Recently open-sourced by Emerge Tools, maker of several analysis tools for iOS apps, ETTrace aims to simplify iOS performance profiling by providing intuitive visualizations and straightforward operation.
+                    
+11 번째 검색 내용 
+제목 : 
+
+                            Google Announces State-of-the-Art PaLM 2 Language Model Powering Bard
+                        
+주소 : https://www.infoq.com/news/2023/06/google-palm2-bard/
+설명 : 
+                         Google DeepMind recently announced PaLM 2, a large language model (LLM) powering Bard and over 25 other product features. PaLM 2 significantly outperforms the previous version of PaLM on a wide range of benchmarks, while being smaller and cheaper to run.
+                    
+12 번째 검색 내용 
+제목 : 
+
+                            Avalonia UI for .NET: Project Overview from Mike James
+                        
+주소 : https://www.infoq.com/news/2023/06/avalonia-mike-james/
+설명 : 
+                         Avalonia UI is an open-source and cross-platform UI framework for .NET developers, designed to facilitate the development of desktop applications that can run on Windows, macOS, Linux, iOS, Android, and WebAssembly. InfoQ interviewed Mike James, CEO of Avalonia UI, in order to understand more about this UI framework and its features.
+                    
+13 번째 검색 내용 
+제목 : 
+
+                            Windows Dev Drive - Storage Volume Customized for Developers with Improved Performance
+                        
+주소 : https://www.infoq.com/news/2023/06/windows-dev-drive/
+설명 : 
+                         Microsoft released Dev Drive at the Build 2023 developer conference, a custom storage volume geared for developers. Built on top of Microsoft's proprietary ReFS (Resilient File System), Dev Drive is optimized for heavy I/O operations and has improved performance and security capabilities.
+                    
+14 번째 검색 내용 
+제목 : 
+
+                            Google Open Sources Bazel Plugin to Automate Secure Distroless Image Creation
+                        
+주소 : https://www.infoq.com/news/2023/06/bazel-rules-oci-distroless-image/
+설명 : 
+                         Google and Bazel consulting firm Aspect announced version 1.0 of Bazel plugin rules_oci. Aimed to simplify secure container image creation using Bazel with special emphasis on Distroless images, the new plugin obsoletes rules_docker and improves it on a number of counts.
+                    
+15 번째 검색 내용 
+제목 : 
+
+                            Google Cloud Expands Cloud Interconnect Portfolio and Enhances Networking Capabilities
+                        
+주소 : https://www.infoq.com/news/2023/06/google-cross-cloud-interconnect/
+설명 : 
+                         Recently Google Cloud announced a significant expansion of its Cloud Interconnect portfolio by unveiling Cross-Cloud Interconnect. The new offering enables organizations to connect any public cloud with Google Cloud securely and efficiently, allowing seamless application deployment across multiple clouds and simplified SaaS networking in a multicloud environment.
+                    
