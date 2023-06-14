@@ -1,0 +1,135 @@
+1 번째 검색 내용 
+제목 : 
+
+                            Meta's Open-Source Massively Multilingual Speech AI Handles over 1,100 Languages
+                        
+주소 : https://www.infoq.com/news/2023/06/meta-mms-speech-ai/
+설명 : 
+                         Meta AI open-sourced the Massively Multilingual Speech (MMS) model, which supports automatic speech recognition (ASR) and text-to-speech synthesis (TTS) in over 1,100 languages and language identification (LID) in over 4,000 languages. MMS can outperform existing models and covers nearly 10x the number of languages.
+                    
+2 번째 검색 내용 
+제목 : 
+
+                            AWS DMS Serverless Brings Automated Scalability and Performance Optimization with Database Migration
+                        
+주소 : https://www.infoq.com/news/2023/06/aws-dms-serverless-option/
+설명 : 
+                         AWS recently announced a new option in its Database Migration Service (DMS) called serverless. It automatically sets up, scales, and manages migration resources to make database migrations easier and more cost-effective.
+                    
+3 번째 검색 내용 
+제목 : 
+
+                            .NET Upgrade Assistant: CLI Tool Synced with Visual Studio Extension Engine
+                        
+주소 : https://www.infoq.com/news/2023/06/dotnet-upgrade-assistant-cli/
+설명 : 
+                         A new and updated version of the Upgrade Assistant CLI tool. The latest release ensures that the CLI tool now includes all the new features which are already available in the Visual Studio Extension. The latest release now offers developers a choice between Visual Studio and CLI experiences, allowing them to take advantage of the latest features and improvements offered by the .NET upgrade tool.
+                    
+4 번째 검색 내용 
+제목 : 
+
+                            AWS Announced the Support of Kubernetes Version 1.27 for Amazon EKS
+                        
+주소 : https://www.infoq.com/news/2023/06/aws-eks-kubernetes-chill-vibes/
+설명 : 
+                         AWS announced the support of Kubernetes version 1.27, called Chill Vibes, for Amazon EKS and Amazon EKS Distro. In this version of Kubernetes there are a lot of new features that are generally available and some of them are potentially destructive for the clusters.
+                    
+5 번째 검색 내용 
+제목 : 
+
+                            .NET Hot Reload Adds Support for Modifying Generics
+                        
+주소 : https://www.infoq.com/news/2023/06/dotnet-hot-reload-generics/
+설명 : 
+                         In the .NET 8 Preview 4 release, .NET Hot Reload implements support for modifying generic methods, reducing the number of changes that require restarting for the change to take effect.
+                    
+6 번째 검색 내용 
+제목 : 
+
+                            Apple Introduces SwiftData, a SwiftUI-Ready Core Data Replacement
+                        
+주소 : https://www.infoq.com/news/2023/06/swiftdata-persistent-framework/
+설명 : 
+                         At WWDC 2023, Apple introduced SwiftData, a new framework that provides a declarative, Swift-first API enabling to work with data persistence in iOS apps. SwiftData can easily make a Swift class into a persistent model and is especially suited to be used with SwiftUI.
+                    
+7 번째 검색 내용 
+제목 : 
+
+                            Latest Updates for Azure App Service Presented at Microsoft Build 2023
+                        
+주소 : https://www.infoq.com/news/2023/06/app-service-build-2023/
+설명 : 
+                         The Microsoft Build 2023 event showcased the latest updates and additions to the Azure App Service. The event, held in person in Seattle, included some group sessions, demonstrations and Q&A sessions on Azure App Service with such topics as changes within PremiumV3, Automatic Scaling or memory optimisation for ASEv3.
+                    
+8 번째 검색 내용 
+제목 : 
+
+                            Ruiz and Almiray at Devoxx UK: Lessons on How to Escape the Maven Dependency Hell
+                        
+주소 : https://www.infoq.com/news/2023/06/maven-puzzlers-devoxxuk/
+설명 : 
+                         During their Devoxx UK talk Ixchel Ruiz, Developer Advocate at JFrog, and Andres Almiray, Principal Product Manager at Oracle, presented multiple “maven puzzlers" together with their potential solutions to escaping the Apache Maven dependencies hell. In an effort to be as comprehensive as possible, they spoke about direct, transient and even inherited dependencies from parent POMs.
+                    
+9 번째 검색 내용 
+제목 : 
+
+                            Java News Roundup: JDK 21 in Rampdown, JEP 404, JDK 22 Expert Group, Jakarta EE 11 Updates
+                        
+주소 : https://www.infoq.com/news/2023/06/java-news-roundup-jun05-2023/
+설명 : 
+                         This week's Java roundup for June 5th, 2023 features news from OpenJDK, JDK 21 in Rampdown, JDK 22 expert group, Jakarta EE 11 update, Spring Security Kerberos 2.0.0, Quarkus 3.1.1, Micronaut 3.9.3, Eclipse Vert.x 4.4.3, Apache Commons IO 2.13, Apache Tomcat 11.0.0-M7 and 9.0.76, Infinispan 14.0.10 and 13.0.17, JHipster Lite 0.34, OpenXava 7.1.1, Yupiik Fusion 1.0.3, Gradle 8.2-RC2 and JNation.
+                    
+10 번째 검색 내용 
+제목 : 
+
+                            Automating Platform Upgrades at eBay
+                        
+주소 : https://www.infoq.com/news/2023/06/ebay-platform-upgrade-automation/
+설명 : 
+                         eBay recently provided insights into their adoption of a pipeline-driven automation solution, enabling them to achieve continuous updates to their framework and infrastructure. The solution architecture has the potential to become more versatile as it adopts a pluggable and loosely coupled approach, allowing for easier extensibility.
+                    
+11 번째 검색 내용 
+제목 : 
+
+                            AWS Open-Sources Policy-Based Access Control Language Cedar
+                        
+주소 : https://www.infoq.com/news/2023/06/aws-cedar-open-source/
+설명 : 
+                         AWS has open-sourced Cedar, their language for defining access permissions using policies. Cedar is integrated within both Amazon Verified Permissions and AWS Verified Access. Cedar can also be integrated directly into an application via the provided SDK and language specification.
+                    
+12 번째 검색 내용 
+제목 : 
+
+                            Amazon Security Lake for Centralized Security Data Management Now GA
+                        
+주소 : https://www.infoq.com/news/2023/06/amazon-security-lake-ga/
+설명 : 
+                         AWS recently announced the general availability of Security Lake, a managed service to automate the sourcing, aggregation, normalization, and data management of security data. The new service centralizes data from AWS environments, SaaS providers, on-premises, and cloud sources into a data lake stored in an AWS account.
+                    
+13 번째 검색 내용 
+제목 : 
+
+                            Streamlining Java with JEP 443: Ushering in a New Era of Java Code Readability
+                        
+주소 : https://www.infoq.com/news/2023/06/streamlining-java-with-jep-443/
+설명 : 
+                         JEP 443, Unnamed Patterns and Variables (Preview), has been Completed from Targeted status for JDK 21. This preview JEP proposes to "enhance the language with unnamed patterns, which match a record component without stating the component's name or type, and unnamed variables, which can be initialized but not used."
+                    
+14 번째 검색 내용 
+제목 : 
+
+                            GitHub Announces Code Scanning and Security Advisory Support for Swift
+                        
+주소 : https://www.infoq.com/news/2023/06/GitHub-code-scanning-swift/
+설명 : 
+                         GitHub has launched code scanning support for Swift in beta and announced it will include Swift security advisories in its Advisory Database to extend the capabilities of its Dependabot vulnerability monitor.
+                    
+15 번째 검색 내용 
+제목 : 
+
+                            JunoDB: PayPal Open Sources Key-Value Store Powering 350 Billion Daily Requests
+                        
+주소 : https://www.infoq.com/news/2023/06/paypal-junodb-kv-store/
+설명 : 
+                         PayPal recently open-sourced JunoDB, a distributed key-value store that uses RocksDB as the underlying storage engine. A highly available and security-focused database, JunoDB serves daily 350 billion requests at PayPal.
+                    
