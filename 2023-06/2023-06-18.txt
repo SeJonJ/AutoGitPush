@@ -1,13 +1,22 @@
 1 번째 검색 내용 
 제목 : 
 
+                            GitHub Push Protection Moved to General Availability
+                        
+주소 : https://www.infoq.com/news/2023/06/github-push-protection/
+설명 : 
+                         GitHub has moved push protection into general availability and made it free for all public repositories. Push protection helps detect secrets in code as changes are pushed. As part of the GA release, push protection is also available to all private repositories with a GitHub Advanced Security (GHAS) license.
+                    
+2 번째 검색 내용 
+제목 : 
+
                             QCon New York 2023: Day Two Recap
                         
 주소 : https://www.infoq.com/news/2023/06/day-two-qcon-ny-2023/
 설명 : 
                          Day Two of the 9th annual QCon New York conference was held on June 14th, 2023 at the New York Marriott at the Brooklyn Bridge in Brooklyn, New York. This three-day event, organized by C4Media, included a keynote address by Alicia Dwyer Cianciolo and presentations from four conference tracks and one sponsored track.
                     
-2 번째 검색 내용 
+3 번째 검색 내용 
 제목 : 
 
                             CBL-Mariner: Azure Linux Distribution Now Generally Available
@@ -16,7 +25,7 @@
 설명 : 
                          Microsoft recently announced the general availability of Azure Linux container host for AKS. Available on GitHub under the CBL-Mariner project codename, the lightweight Linux distribution includes only the packages needed to run workloads on a cloud environment.
                     
-3 번째 검색 내용 
+4 번째 검색 내용 
 제목 : 
 
                             Introduction of System.ServiceModel 6.0 for Calling WCF/CoreWCF
@@ -25,7 +34,7 @@
 설명 : 
                          The release of System.ServiceModel 6.0 provides client support for calling WCF/CoreWCF functions. These NuGet packages, collectively known as the WCF client, enable .NET platform applications to interact seamlessly with WCF or CoreWCF services.
                     
-4 번째 검색 내용 
+5 번째 검색 내용 
 제목 : 
 
                             Datadog Creates Scalable Data Ingestion Architecture
@@ -34,7 +43,7 @@
 설명 : 
                          Datadog created a dedicated data ingestion architecture offering exactly-once semantics for their third-generation event store, Husky. The event-driven architecture (EDA) can accommodate bursts in traffic in the multi-tenant platform with reasonable ingestion latency and acceptable operational costs.
                     
-5 번째 검색 내용 
+6 번째 검색 내용 
 제목 : 
 
                             AWS Lambda Now Supports Ruby 3.2 Runtime
@@ -43,7 +52,7 @@
 설명 : 
                          AWS continues to bring support for new versions of runtimes for AWS Lambda. Recently, the company announced the support of the Ruby 3.2 runtime.
                     
-6 번째 검색 내용 
+7 번째 검색 내용 
 제목 : 
 
                             How Resilience Can Help to Get Better at Resolving Incidents
@@ -52,7 +61,7 @@
 설명 : 
                          Applying resilience throughout the incident lifecycle by taking a holistic look at the sociotechnical system can help to turn incidents into learning opportunities. Resilience can help folks get better at resolving incidents and improve collaboration. It can also give organizations time to realize their plans.
                     
-7 번째 검색 내용 
+8 번째 검색 내용 
 제목 : 
 
                             Improving Developer Experience in a Small Organization
@@ -61,7 +70,7 @@
 설명 : 
                          A way to improve developer experience is by removing time-consuming tasks and bottlenecks from developers and from the platform team that supports them. How you introduce changes matters; creating an understanding of the “why” before performing a change can smoothen the rollout.
                     
-8 번째 검색 내용 
+9 번째 검색 내용 
 제목 : 
 
                             Swift OpenAPI Generator Aims at Streamlining HTTP Client/Server Communication
@@ -70,7 +79,7 @@
 설명 : 
                          Apple has introduced a new open source package, the Swift OpenAPI Generator, aimed at generating the code required to handle client/server communication through an HTTP API based on its OpenAPI document.
                     
-9 번째 검색 내용 
+10 번째 검색 내용 
 제목 : 
 
                             QCon New York 2023: Day One Recap
@@ -79,7 +88,7 @@
 설명 : 
                          Day One of the 9th annual QCon New York conference was held on June 13th, 2023, at the New York Marriott at the Brooklyn Bridge in Brooklyn, New York. This three-day event, organized by C4Media, included a keynote address by Radia Perlman and presentations from four conference tracks and one sponsored track.
                     
-10 번째 검색 내용 
+11 번째 검색 내용 
 제목 : 
 
                             OpenAI Announces Function Calling, Allowing Developers to Describe Functions
@@ -88,7 +97,7 @@
 설명 : 
                          OpenAI has introduced updates to the API, including a capability called function calling, which allows developers to describe functions to GPT-4 and GPT-3.5 and have the models create code to execute those functions.
                     
-11 번째 검색 내용 
+12 번째 검색 내용 
 제목 : 
 
                             Azure API Center for Centralized API Discovery and Governance in Preview
@@ -97,7 +106,7 @@
 설명 : 
                          At the recent annual Build conference, Microsoft introduced the preview of Microsoft Azure API Center – a new Azure service and a part of the Azure API Management platform that enables tracking APIs in a centralized location for discovery, reuse, and governance.
                     
-12 번째 검색 내용 
+13 번째 검색 내용 
 제목 : 
 
                             LinkedIn’s LIquid Graph Database: Scaling Real-Time Data Access for 930+ Million Members
@@ -106,7 +115,7 @@
 설명 : 
                          LinkedIn recently published how LIquid, its graph database, automates the indexing and real-time access of all connections to members, schools, skills, companies, positions, jobs, events, etc. This knowledge graph, known as the Economic Graph, has 270 billion edges and growing, currently handling a workload of 2 million queries per second.
                     
-13 번째 검색 내용 
+14 번째 검색 내용 
 제목 : 
 
                             Nvidia's NeMo Guardrails Enhances Safety in Generative AI Applications
@@ -115,7 +124,7 @@
 설명 : 
                          Nvidia's new NeMo Guardrails package for large language models (LLMs) helps developers prevent LLM risks like harmful or offensive content and access to sensitive data, by providing an essential layer of protection in an increasingly AI-driven landscape.
                     
-14 번째 검색 내용 
+15 번째 검색 내용 
 제목 : 
 
                             C# Dev Kit for Visual Studio Code
@@ -123,13 +132,4 @@
 주소 : https://www.infoq.com/news/2023/06/csharp-dev-kit/
 설명 : 
                          Microsoft has introduced the C# Dev Kit, a new extension to Visual Studio Code, offering an enhanced C# development environment for Linux, macOS and Windows. This kit, combined with the C# extension, uses an open-source Language Server Protocol (LSP) host to provide an efficient and configurable environment.
-                    
-15 번째 검색 내용 
-제목 : 
-
-                            Meta's Open-Source Massively Multilingual Speech AI Handles over 1,100 Languages
-                        
-주소 : https://www.infoq.com/news/2023/06/meta-mms-speech-ai/
-설명 : 
-                         Meta AI open-sourced the Massively Multilingual Speech (MMS) model, which supports automatic speech recognition (ASR) and text-to-speech synthesis (TTS) in over 1,100 languages and language identification (LID) in over 4,000 languages. MMS can outperform existing models and covers nearly 10x the number of languages.
                     
