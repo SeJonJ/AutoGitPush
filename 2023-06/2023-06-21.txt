@@ -1,0 +1,135 @@
+1 번째 검색 내용 
+제목 : 
+
+                            Enhancing Java Concurrency with Scoped Values in JDK 21 (Preview)
+                        
+주소 : https://www.infoq.com/news/2023/06/scoped-values-java-21/
+설명 : 
+                         Scoped Values is now in JDK 21 as a Preview Feature. Alongside Virtual Threads and Structured Concurrency, Scoped Values add to the growing list of enhancements to Java and Project Loom.
+                    
+2 번째 검색 내용 
+제목 : 
+
+                            Java News Roundup: GraalVM 23.0.0, Payara Platform, Spring 6.1-M1, QCon New York
+                        
+주소 : https://www.infoq.com/news/2023/06/java-news-roundup-jun12-2023/
+설명 : 
+                         This week's Java roundup for June 12th, 2023 features news from OpenJDK, JDK 22, JDK 21, GraalVM 23, various releases of: GraalVM Build Tools, Spring Framework, Spring Data, Spring Shell, Payara Platform, Micronaut, Open Liberty, Quarkus, Micrometer, Hibernate ORM and Reactive, Project Reactor, Piranha, Apache TomEE, Apache Tomcat, JDKMon, JBang, JHipster, Yupiik Bundlebee; and QCon New York 2023.
+                    
+3 번째 검색 내용 
+제목 : 
+
+                            Voxel51 Open-Sources Computer Vision Dataset Assistant VoxelGPT - Q&A with Jason Corso
+                        
+주소 : https://www.infoq.com/news/2023/06/voxel-gpt/
+설명 : 
+                         Voxel51 recently open-sourced VoxelGPT, an AI assistant that interfaces with GPT-3.5 to produce Python code for querying computer vision datasets. InfoQ spoke with Jason Corso, co-founder and CSO of Voxel51, who shared their lessons and insights gained while developing VoxelGPT.
+                    
+4 번째 검색 내용 
+제목 : 
+
+                            AWS Launches Amazon S3 Dual-Layer Server-Side Encryption with Keys Stored in AWS KMS
+                        
+주소 : https://www.infoq.com/news/2023/06/aws-s3-dsse-kms/
+설명 : 
+                         Recently AWS launched Amazon S3 dual-layer server-side encryption with keys stored in AWS Key Management Service (DSSE-KMS), a new encryption option in Amazon S3 that applies two layers of encryption to objects when they are uploaded to an Amazon Simple Storage Service (Amazon S3) bucket.
+                    
+5 번째 검색 내용 
+제목 : 
+
+                            Airbnb Improves Web Performance With HTTP Streaming
+                        
+주소 : https://www.infoq.com/news/2023/06/airbnb-web-http-streaming/
+설명 : 
+                         Airbnb introduced HTTP streaming to improve the page-loading performance of their website. They reduced the First Contentful Paint (FCP) metric by around 100 milliseconds on every page tested, including the homepage. They also minimized the impact of slow backend queries on the loading times.
+                    
+6 번째 검색 내용 
+제목 : 
+
+                            Exploring the Cost Efficiency of AWS Spot Instances: A Research Investigation
+                        
+주소 : https://www.infoq.com/news/2023/06/aws-spot-instances-cost-research/
+설명 : 
+                         A recent research study delved into the cost advantage offered by AWS Spot Instances in terms of an organization's overall cloud spending. By analyzing the preemption rates of t3/t4 Spot Instances within the research group, the data revealed a notable surge in demand for spot instances as a whole.
+                    
+7 번째 검색 내용 
+제목 : 
+
+                            AI, ML, Data Engineering News Round Up: Vertex, AlphaDev, Function Calling, Gorilla, and Falcon
+                        
+주소 : https://www.infoq.com/news/2023/06/ai-ml-data-news-june12-2023/
+설명 : 
+                         The latest update, spanning from June 12th, 2023, highlights the recent advancements and announcements in the domains of data science, machine learning, and artificial intelligence. This week's spotlight is on notable entities such as Google, OpenAI, UC Berkeley, and AWS.
+                    
+8 번째 검색 내용 
+제목 : 
+
+                            ASP.NET Core in .NET 8 Preview 5: Improved Debugging, Blazor Updates, SignalR Reconnects, and More
+                        
+주소 : https://www.infoq.com/news/2023/06/aspnet-core-8-preview-5/
+설명 : 
+                         .NET 8 Preview 5 brings significant additions to ASP.NET Core. Notable enhancements include an improved debugging experience for ASP.NET Core, changes regarding the servers and middleware, the introduction of new features and improvements in Blazor, enhanced API authoring capabilities, seamless reconnect functionality in SignalR, and improvements and changes in authentication and authorization.
+                    
+9 번째 검색 내용 
+제목 : 
+
+                            Canonical Sunbeam Aims to Simplify Migrating from Small-Scale Legacy IT Solutions to OpenStack
+                        
+주소 : https://www.infoq.com/news/2023/06/canonical-sunbeam-openstack/
+설명 : 
+                         Canonical has announced a new open-source project to enable organizations to transition their small-scale proprietary IT solutions to OpenStack. Named Sunbeam, the project is free of charge and does not require an expensive professional services engagement, says Canonical
+                    
+10 번째 검색 내용 
+제목 : 
+
+                            GitHub Push Protection Moved to General Availability
+                        
+주소 : https://www.infoq.com/news/2023/06/github-push-protection/
+설명 : 
+                         GitHub has moved push protection into general availability and made it free for all public repositories. Push protection helps detect secrets in code as changes are pushed. As part of the GA release, push protection is also available to all private repositories with a GitHub Advanced Security (GHAS) license.
+                    
+11 번째 검색 내용 
+제목 : 
+
+                            QCon New York 2023: Day Two Recap
+                        
+주소 : https://www.infoq.com/news/2023/06/day-two-qcon-ny-2023/
+설명 : 
+                         Day Two of the 9th annual QCon New York conference was held on June 14th, 2023, at the New York Marriott at the Brooklyn Bridge in Brooklyn, New York. This three-day event, organized by C4Media, included a keynote address by Alicia Dwyer Cianciolo and presentations from four conference tracks and one sponsored track.
+                    
+12 번째 검색 내용 
+제목 : 
+
+                            CBL-Mariner: Azure Linux Distribution Now Generally Available
+                        
+주소 : https://www.infoq.com/news/2023/06/azure-linux-cbl-mariner/
+설명 : 
+                         Microsoft recently announced the general availability of Azure Linux container host for AKS. Available on GitHub under the CBL-Mariner project codename, the lightweight Linux distribution includes only the packages needed to run workloads on a cloud environment.
+                    
+13 번째 검색 내용 
+제목 : 
+
+                            Introduction of System.ServiceModel 6.0 for Calling WCF/CoreWCF
+                        
+주소 : https://www.infoq.com/news/2023/06/system-service-model-6-0/
+설명 : 
+                         The release of System.ServiceModel 6.0 provides client support for calling WCF/CoreWCF functions. These NuGet packages, collectively known as the WCF client, enable .NET platform applications to interact seamlessly with WCF or CoreWCF services.
+                    
+14 번째 검색 내용 
+제목 : 
+
+                            AWS Lambda Now Supports Ruby 3.2 Runtime
+                        
+주소 : https://www.infoq.com/news/2023/06/aws-lambda-ruby-3-2-support/
+설명 : 
+                         AWS continues to bring support for new versions of runtimes for AWS Lambda. Recently, the company announced the support of the Ruby 3.2 runtime.
+                    
+15 번째 검색 내용 
+제목 : 
+
+                            Datadog Creates Scalable Data Ingestion Architecture
+                        
+주소 : https://www.infoq.com/news/2023/06/datadog-husky-data-ingestion/
+설명 : 
+                         Datadog created a dedicated data ingestion architecture offering exactly-once semantics for their third-generation event store, Husky. The event-driven architecture (EDA) can accommodate bursts in traffic in the multi-tenant platform with reasonable ingestion latency and acceptable operational costs.
+                    
