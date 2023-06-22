@@ -1,13 +1,22 @@
 1 번째 검색 내용 
 제목 : 
 
+                            Discord Migrates Trillions of Messages From Cassandra to ScyllaDB
+                        
+주소 : https://www.infoq.com/news/2023/06/discord-cassandra-scylladb/
+설명 : 
+                         Discord has migrated trillions of message records from Apache Cassandra to ScyllaDB, reducing the size of the largest cluster from 177 Cassandra nodes to 72 ScyllaDB nodes and reducing tail latencies for reads and writes. The move has unlocked new product use cases because of the improved database stability and performance.
+                    
+2 번째 검색 내용 
+제목 : 
+
                             SwiftUI 5 Leaves Combine behind, Extends Animations, and More
                         
 주소 : https://www.infoq.com/news/2023/06/swiftui-5-wwdc-2023-observation/
 설명 : 
                          At WWDC 2023, Apple presented the latest iteration of its declarative framework for UI programming. SwiftUI 5 completely overhauls its reactive foundations by replacing Combine with the new Observation framework. Additionally, it adds support for phased animations, improves ScrollView, new gestures, and more.
                     
-2 번째 검색 내용 
+3 번째 검색 내용 
 제목 : 
 
                             Visual Studio 2022 17.7 Preview 2: Productivity, Performance and C++ Enhancements
@@ -16,7 +25,7 @@
 설명 : 
                          Microsoft has released the second preview of Visual Studio 2022 version 17.7. Preview 2 brings a range of improvements and features aimed at enhancing developer productivity and improving performance and collaboration. It also includes enhancements for .NET development, as well as for C++ and game development.
                     
-3 번째 검색 내용 
+4 번째 검색 내용 
 제목 : 
 
                             Azure Cosmos DB Integration with Vercel Now in Public Preview
@@ -25,7 +34,7 @@
 설명 : 
                          Microsoft recently announced the public preview of the Vercel and Azure Cosmos DB integration allowing developers to easily create Vercel applications with an already configured Azure Cosmos DB database.
                     
-4 번째 검색 내용 
+5 번째 검색 내용 
 제목 : 
 
                             Terraform Adds Support for Azure Linux, Introduces New CI/CD Tool
@@ -34,7 +43,7 @@
 설명 : 
                          HashiCorp has released a number of new improvements to Terraform and Terraform Cloud. Within Terraform Cloud, there is a new CI/CD pipeline integration tool. Terraform has added support for Azure Linux container host for Azure Kubernetes Service. The HashiCorp Terraform AWS provider version 5.0 was released with improved support for default tags.
                     
-5 번째 검색 내용 
+6 번째 검색 내용 
 제목 : 
 
                             AWS Payment Cryptography: New Service for Payment Processing Applications
@@ -43,7 +52,7 @@
 설명 : 
                          At the recent re:Inforce conference, AWS announced Payment Cryptography, a new service to manage payment cryptography operations. The new elastic option simplifies key management for payment processing applications, helping customers meet PCI security requirements.
                     
-6 번째 검색 내용 
+7 번째 검색 내용 
 제목 : 
 
                             Enhancing Java Concurrency with Scoped Values in JDK 21 (Preview)
@@ -52,7 +61,7 @@
 설명 : 
                          Scoped Values is now in JDK 21 as a Preview Feature. Alongside Virtual Threads and Structured Concurrency, Scoped Values add to the growing list of enhancements to Java and Project Loom.
                     
-7 번째 검색 내용 
+8 번째 검색 내용 
 제목 : 
 
                             Java News Roundup: GraalVM 23.0.0, Payara Platform, Spring 6.1-M1, QCon New York
@@ -61,7 +70,7 @@
 설명 : 
                          This week's Java roundup for June 12th, 2023 features news from OpenJDK, JDK 22, JDK 21, GraalVM 23, various releases of: GraalVM Build Tools, Spring Framework, Spring Data, Spring Shell, Payara Platform, Micronaut, Open Liberty, Quarkus, Micrometer, Hibernate ORM and Reactive, Project Reactor, Piranha, Apache TomEE, Apache Tomcat, JDKMon, JBang, JHipster, Yupiik Bundlebee; and QCon New York 2023.
                     
-8 번째 검색 내용 
+9 번째 검색 내용 
 제목 : 
 
                             Voxel51 Open-Sources Computer Vision Dataset Assistant VoxelGPT - Q&A with Jason Corso
@@ -70,7 +79,7 @@
 설명 : 
                          Voxel51 recently open-sourced VoxelGPT, an AI assistant that interfaces with GPT-3.5 to produce Python code for querying computer vision datasets. InfoQ spoke with Jason Corso, co-founder and CSO of Voxel51, who shared their lessons and insights gained while developing VoxelGPT.
                     
-9 번째 검색 내용 
+10 번째 검색 내용 
 제목 : 
 
                             AWS Launches Amazon S3 Dual-Layer Server-Side Encryption with Keys Stored in AWS KMS
@@ -79,7 +88,7 @@
 설명 : 
                          Recently AWS launched Amazon S3 dual-layer server-side encryption with keys stored in AWS Key Management Service (DSSE-KMS), a new encryption option in Amazon S3 that applies two layers of encryption to objects when they are uploaded to an Amazon Simple Storage Service (Amazon S3) bucket.
                     
-10 번째 검색 내용 
+11 번째 검색 내용 
 제목 : 
 
                             Airbnb Improves Web Performance with HTTP Streaming
@@ -88,7 +97,7 @@
 설명 : 
                          Airbnb introduced HTTP streaming to improve the page-loading performance of their website. They reduced the First Contentful Paint (FCP) metric by around 100 milliseconds on every page tested, including the homepage. They also minimized the impact of slow backend queries on the loading times.
                     
-11 번째 검색 내용 
+12 번째 검색 내용 
 제목 : 
 
                             Exploring the Cost Efficiency of AWS Spot Instances: a Research Investigation
@@ -97,7 +106,7 @@
 설명 : 
                          A recent research study delved into the cost advantage offered by AWS Spot Instances in terms of an organization's overall cloud spending. By analyzing the preemption rates of t3/t4 Spot Instances within the research group, the data revealed a notable surge in demand for spot instances as a whole.
                     
-12 번째 검색 내용 
+13 번째 검색 내용 
 제목 : 
 
                             AI, ML, Data Engineering News Round Up: Vertex, AlphaDev, Function Calling, Gorilla, and Falcon
@@ -106,7 +115,7 @@
 설명 : 
                          The latest update, spanning from June 12th, 2023, highlights the recent advancements and announcements in the domains of data science, machine learning, and artificial intelligence. This week's spotlight is on notable entities such as Google, OpenAI, UC Berkeley, and AWS.
                     
-13 번째 검색 내용 
+14 번째 검색 내용 
 제목 : 
 
                             ASP.NET Core in .NET 8 Preview 5: Improved Debugging, Blazor Updates, SignalR Reconnects, and More
@@ -115,7 +124,7 @@
 설명 : 
                          .NET 8 Preview 5 brings significant additions to ASP.NET Core. Notable enhancements include an improved debugging experience for ASP.NET Core, changes regarding the servers and middleware, the introduction of new features and improvements in Blazor, enhanced API authoring capabilities, seamless reconnect functionality in SignalR, and improvements and changes in authentication and authorization.
                     
-14 번째 검색 내용 
+15 번째 검색 내용 
 제목 : 
 
                             Canonical Sunbeam Aims to Simplify Migrating from Small-Scale Legacy IT Solutions to OpenStack
@@ -123,13 +132,4 @@
 주소 : https://www.infoq.com/news/2023/06/canonical-sunbeam-openstack/
 설명 : 
                          Canonical has announced a new open-source project to enable organizations to transition their small-scale proprietary IT solutions to OpenStack. Named Sunbeam, the project is free of charge and does not require an expensive professional services engagement, says Canonical
-                    
-15 번째 검색 내용 
-제목 : 
-
-                            GitHub Push Protection Moved to General Availability
-                        
-주소 : https://www.infoq.com/news/2023/06/github-push-protection/
-설명 : 
-                         GitHub has moved push protection into general availability and made it free for all public repositories. Push protection helps detect secrets in code as changes are pushed. As part of the GA release, push protection is also available to all private repositories with a GitHub Advanced Security (GHAS) license.
                     
