@@ -1,13 +1,22 @@
 1 번째 검색 내용 
 제목 : 
 
+                            Amazon SQS Supports Reprocessing Messages From Dead-Letter Queue
+                        
+주소 : https://www.infoq.com/news/2023/06/aws-sqs-dlq-redrive/
+설명 : 
+                         AWS recently announces support for dead-letter queue redrive in SQS using the AWS SDK or the Command Line Interface. The new capability allows developers to move unconsumed messages out of an existing dead-letter queue and back to their source queue.
+                    
+2 번째 검색 내용 
+제목 : 
+
                             QCon New York 2023: Day Three Recap
                         
 주소 : https://www.infoq.com/news/2023/06/day-three-qcon-ny-2023/
 설명 : 
                          Day Three of the 9th annual QCon New York conference was held on June 15th, 2023 at the New York Marriott at the Brooklyn Bridge in Brooklyn, New York. This three-day event, organized by C4Media, included keynote addresses by Suhail Patel and Sarah Bird, and presentations from four conference tracks.
                     
-2 번째 검색 내용 
+3 번째 검색 내용 
 제목 : 
 
                             QCon New York 2023 Panel Discussion: Navigating the Future - LLM in Production
@@ -16,7 +25,7 @@
 설명 : 
                          The recent QCon New York conference featured a panel discussion titled "Navigating the Future: LLM in Production." Some key takeaways are that there are two trends in LLMS: closed models behind APIs and open-source models, and that organizations using LLMs will need to think deeply about testing and evaluating the models themselves, with a strong emphasis on risk mitigation.
                     
-3 번째 검색 내용 
+4 번째 검색 내용 
 제목 : 
 
                             .NET MAUI in .NET 8 Preview 5 Available:  Bug Fixes and Performance Improvements
@@ -25,7 +34,7 @@
 설명 : 
                          NET MAUI in .NET 8 Preview 5 is available and contains bug fixes and performance improvements for cross-platform application development. It includes changes to iOS keyboard scrolling, test improvements, performance enhancements to the {Binding} mechanism and Android label layout. The announcement provoked different emotions in the community.
                     
-4 번째 검색 내용 
+5 번째 검색 내용 
 제목 : 
 
                             Tweaking Network Latency for Search with HTTP/3 at Dropbox
@@ -34,7 +43,7 @@
 설명 : 
                          Dropbox recently experimented with HTTP/3 to improve network latency. Harnessing the enhanced head-of-line blocking in HTTP/3, the team at Dropbox observed a notable reduction in latency, particularly at the 90th percentile (p90) and higher.
                     
-5 번째 검색 내용 
+6 번째 검색 내용 
 제목 : 
 
                             Treat Your CI System as a Product for Faster and Better Feedback
@@ -43,7 +52,7 @@
 설명 : 
                          Improving the feedback time of a continuous integration (CI) system and optimizing the test methods and classes resulted in more effective feedback for development teams. CI systems are an important part of the development process and should be treated as such.
                     
-6 번째 검색 내용 
+7 번째 검색 내용 
 제목 : 
 
                             Discord Migrates Trillions of Messages from Cassandra to ScyllaDB
@@ -52,7 +61,7 @@
 설명 : 
                          Discord has migrated trillions of message records from Apache Cassandra to ScyllaDB, reducing the size of the largest cluster from 177 Cassandra nodes to 72 ScyllaDB nodes and reducing tail latencies for reads and writes. The move has unlocked new product use cases because of the improved database stability and performance.
                     
-7 번째 검색 내용 
+8 번째 검색 내용 
 제목 : 
 
                             SwiftUI 5 Leaves Combine behind, Extends Animations, and More
@@ -61,7 +70,7 @@
 설명 : 
                          At WWDC 2023, Apple presented the latest iteration of its declarative framework for UI programming. SwiftUI 5 completely overhauls its reactive foundations by replacing Combine with the new Observation framework. Additionally, it adds support for phased animations, improves ScrollView, new gestures, and more.
                     
-8 번째 검색 내용 
+9 번째 검색 내용 
 제목 : 
 
                             Visual Studio 2022 17.7 Preview 2: Productivity, Performance and C++ Enhancements
@@ -70,7 +79,7 @@
 설명 : 
                          Microsoft has released the second preview of Visual Studio 2022 version 17.7. Preview 2 brings a range of improvements and features aimed at enhancing developer productivity and improving performance and collaboration. It also includes enhancements for .NET development, as well as for C++ and game development.
                     
-9 번째 검색 내용 
+10 번째 검색 내용 
 제목 : 
 
                             Azure Cosmos DB Integration with Vercel Now in Public Preview
@@ -79,7 +88,7 @@
 설명 : 
                          Microsoft recently announced the public preview of the Vercel and Azure Cosmos DB integration allowing developers to easily create Vercel applications with an already configured Azure Cosmos DB database.
                     
-10 번째 검색 내용 
+11 번째 검색 내용 
 제목 : 
 
                             Terraform Adds Support for Azure Linux, Introduces New CI/CD Tool
@@ -88,7 +97,7 @@
 설명 : 
                          HashiCorp has released a number of new improvements to Terraform and Terraform Cloud. Within Terraform Cloud, there is a new CI/CD pipeline integration tool. Terraform has added support for Azure Linux container host for Azure Kubernetes Service. The HashiCorp Terraform AWS provider version 5.0 was released with improved support for default tags.
                     
-11 번째 검색 내용 
+12 번째 검색 내용 
 제목 : 
 
                             AWS Payment Cryptography: New Service for Payment Processing Applications
@@ -97,7 +106,7 @@
 설명 : 
                          At the recent re:Inforce conference, AWS announced Payment Cryptography, a new service to manage payment cryptography operations. The new elastic option simplifies key management for payment processing applications, helping customers meet PCI security requirements.
                     
-12 번째 검색 내용 
+13 번째 검색 내용 
 제목 : 
 
                             Enhancing Java Concurrency with Scoped Values in JDK 21 (Preview)
@@ -106,7 +115,7 @@
 설명 : 
                          Scoped Values is now in JDK 21 as a Preview Feature. Alongside Virtual Threads and Structured Concurrency, Scoped Values add to the growing list of enhancements to Java and Project Loom.
                     
-13 번째 검색 내용 
+14 번째 검색 내용 
 제목 : 
 
                             Java News Roundup: GraalVM 23.0.0, Payara Platform, Spring 6.1-M1, QCon New York
@@ -115,7 +124,7 @@
 설명 : 
                          This week's Java roundup for June 12th, 2023 features news from OpenJDK, JDK 22, JDK 21, GraalVM 23, various releases of: GraalVM Build Tools, Spring Framework, Spring Data, Spring Shell, Payara Platform, Micronaut, Open Liberty, Quarkus, Micrometer, Hibernate ORM and Reactive, Project Reactor, Piranha, Apache TomEE, Apache Tomcat, JDKMon, JBang, JHipster, Yupiik Bundlebee; and QCon New York 2023.
                     
-14 번째 검색 내용 
+15 번째 검색 내용 
 제목 : 
 
                             Voxel51 Open-Sources Computer Vision Dataset Assistant VoxelGPT - Q&A with Jason Corso
@@ -123,13 +132,4 @@
 주소 : https://www.infoq.com/news/2023/06/voxel-gpt/
 설명 : 
                          Voxel51 recently open-sourced VoxelGPT, an AI assistant that interfaces with GPT-3.5 to produce Python code for querying computer vision datasets. InfoQ spoke with Jason Corso, co-founder and CSO of Voxel51, who shared their lessons and insights gained while developing VoxelGPT.
-                    
-15 번째 검색 내용 
-제목 : 
-
-                            AWS Launches Amazon S3 Dual-Layer Server-Side Encryption with Keys Stored in AWS KMS
-                        
-주소 : https://www.infoq.com/news/2023/06/aws-s3-dsse-kms/
-설명 : 
-                         Recently AWS launched Amazon S3 dual-layer server-side encryption with keys stored in AWS Key Management Service (DSSE-KMS), a new encryption option in Amazon S3 that applies two layers of encryption to objects when they are uploaded to an Amazon Simple Storage Service (Amazon S3) bucket.
                     
