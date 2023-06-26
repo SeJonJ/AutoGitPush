@@ -1,0 +1,135 @@
+1 번째 검색 내용 
+제목 : 
+
+                            Apple Releases visionOS SDK to Developers Along with Reality Composer Pro
+                        
+주소 : https://www.infoq.com/news/2023/06/apple-visions-sdk-available/
+설명 : 
+                         Developers can now download the software development kit required to create apps for its forthcoming Vision Pro mixed reality headset, Apple announced. Besides making the SDK available, Apple also unveiled a program to bring physical devices to selected labs around the world and more initiatives for developers to test their apps.
+                    
+2 번째 검색 내용 
+제목 : 
+
+                            AWS Signer Simplifies Signing and Verifying Container Images
+                        
+주소 : https://www.infoq.com/news/2023/06/aws-signer-container/
+설명 : 
+                         AWS has released AWS Signer Container Image Signing (AWS Signer) to provide native AWS support for signing and verifying container images in registries such as Amazon Elastic Container Registry (Amazon ECR). AWS Signer manages code signing certificates, public and private keys, and provides lifecycle management tooling.
+                    
+3 번째 검색 내용 
+제목 : 
+
+                            GitLab 16: Value Stream Dashboards, Remote Development Workspaces, and AI-Powered Code Suggestions
+                        
+주소 : https://www.infoq.com/news/2023/06/gitlab-16-released/
+설명 : 
+                         GitLab has recently announced version 16, which introduces several enhancements. These include Value Streams Dashboards, generative Artificial intelligence (AI)-powered code suggestions, and workflow features with remote development workspaces (in beta).
+                    
+4 번째 검색 내용 
+제목 : 
+
+                            Microsoft Azure Event Grid MQTT Protocol Support and Pull Message Delivery Are Now in Public Preview
+                        
+주소 : https://www.infoq.com/news/2023/06/azure-eventgrid-mqtt-support/
+설명 : 
+                         Microsoft recently announced the public preview of bi-directional communication via MQTT version 5 and MQTT version 3.1.1 protocols for its Azure Event Grid service.
+                    
+5 번째 검색 내용 
+제목 : 
+
+                            Amazon SQS Supports Reprocessing Messages from Dead-Letter Queue
+                        
+주소 : https://www.infoq.com/news/2023/06/aws-sqs-dlq-redrive/
+설명 : 
+                         AWS recently announces support for dead-letter queue redrive in SQS using the AWS SDK or the Command Line Interface. The new capability allows developers to move unconsumed messages out of an existing dead-letter queue and back to their source queue.
+                    
+6 번째 검색 내용 
+제목 : 
+
+                            QCon New York 2023: Day Three Recap
+                        
+주소 : https://www.infoq.com/news/2023/06/day-three-qcon-ny-2023/
+설명 : 
+                         Day Three of the 9th annual QCon New York conference was held on June 15th, 2023, at the New York Marriott at the Brooklyn Bridge in Brooklyn, New York. This three-day event, organized by C4Media, included keynote addresses by Suhail Patel and Sarah Bird, and presentations from four conference tracks.
+                    
+7 번째 검색 내용 
+제목 : 
+
+                            QCon New York 2023 Panel Discussion: Navigating the Future - LLM in Production
+                        
+주소 : https://www.infoq.com/news/2023/06/qcon-ny-llm-panel/
+설명 : 
+                         The recent QCon New York conference featured a panel discussion titled "Navigating the Future: LLM in Production." Some key takeaways are that there are two trends in LLMS: closed models behind APIs and open-source models, and that organizations using LLMs will need to think deeply about testing and evaluating the models themselves, with a strong emphasis on risk mitigation.
+                    
+8 번째 검색 내용 
+제목 : 
+
+                            .NET MAUI in .NET 8 Preview 5 Available:  Bug Fixes and Performance Improvements
+                        
+주소 : https://www.infoq.com/news/2023/06/net-maui-net-8/
+설명 : 
+                         NET MAUI in .NET 8 Preview 5 is available and contains bug fixes and performance improvements for cross-platform application development. It includes changes to iOS keyboard scrolling, test improvements, performance enhancements to the {Binding} mechanism and Android label layout. The announcement provoked different emotions in the community.
+                    
+9 번째 검색 내용 
+제목 : 
+
+                            Tweaking Network Latency for Search with HTTP/3 at Dropbox
+                        
+주소 : https://www.infoq.com/news/2023/06/dropbox-network-latency-http3/
+설명 : 
+                         Dropbox recently experimented with HTTP/3 to improve network latency. Harnessing the enhanced head-of-line blocking in HTTP/3, the team at Dropbox observed a notable reduction in latency, particularly at the 90th percentile (p90) and higher.
+                    
+10 번째 검색 내용 
+제목 : 
+
+                            Treat Your CI System as a Product for Faster and Better Feedback
+                        
+주소 : https://www.infoq.com/news/2023/06/CI-product-feedback/
+설명 : 
+                         Improving the feedback time of a continuous integration (CI) system and optimizing the test methods and classes resulted in more effective feedback for development teams. CI systems are an important part of the development process and should be treated as such.
+                    
+11 번째 검색 내용 
+제목 : 
+
+                            Discord Migrates Trillions of Messages from Cassandra to ScyllaDB
+                        
+주소 : https://www.infoq.com/news/2023/06/discord-cassandra-scylladb/
+설명 : 
+                         Discord has migrated trillions of message records from Apache Cassandra to ScyllaDB, reducing the size of the largest cluster from 177 Cassandra nodes to 72 ScyllaDB nodes and reducing tail latencies for reads and writes. The move has unlocked new product use cases because of the improved database stability and performance.
+                    
+12 번째 검색 내용 
+제목 : 
+
+                            SwiftUI 5 Leaves Combine behind, Extends Animations, and More
+                        
+주소 : https://www.infoq.com/news/2023/06/swiftui-5-wwdc-2023-observation/
+설명 : 
+                         At WWDC 2023, Apple presented the latest iteration of its declarative framework for UI programming. SwiftUI 5 completely overhauls its reactive foundations by replacing Combine with the new Observation framework. Additionally, it adds support for phased animations, improves ScrollView, new gestures, and more.
+                    
+13 번째 검색 내용 
+제목 : 
+
+                            Visual Studio 2022 17.7 Preview 2: Productivity, Performance and C++ Enhancements
+                        
+주소 : https://www.infoq.com/news/2023/06/vs2022-v17-7-preview-2/
+설명 : 
+                         Microsoft has released the second preview of Visual Studio 2022 version 17.7. Preview 2 brings a range of improvements and features aimed at enhancing developer productivity and improving performance and collaboration. It also includes enhancements for .NET development, as well as for C++ and game development.
+                    
+14 번째 검색 내용 
+제목 : 
+
+                            Azure Cosmos DB Integration with Vercel Now in Public Preview
+                        
+주소 : https://www.infoq.com/news/2023/06/azure-cosmosdb-vercel-preview/
+설명 : 
+                         Microsoft recently announced the public preview of the Vercel and Azure Cosmos DB integration allowing developers to easily create Vercel applications with an already configured Azure Cosmos DB database.
+                    
+15 번째 검색 내용 
+제목 : 
+
+                            Terraform Adds Support for Azure Linux, Introduces New CI/CD Tool
+                        
+주소 : https://www.infoq.com/news/2023/06/hashicorp-azure-linux/
+설명 : 
+                         HashiCorp has released a number of new improvements to Terraform and Terraform Cloud. Within Terraform Cloud, there is a new CI/CD pipeline integration tool. Terraform has added support for Azure Linux container host for Azure Kubernetes Service. The HashiCorp Terraform AWS provider version 5.0 was released with improved support for default tags.
+                    
