@@ -1,0 +1,135 @@
+1 번째 검색 내용 
+제목 : 
+
+                            Microsoft Guidance Offers Language for Controlling Large Language Models
+                        
+주소 : https://www.infoq.com/news/2023/06/guidance-microsoft-language/
+설명 : 
+                         Microsoft has recently introduced a domain-specific language called Guidance, to improve developers' ability to manage contemporary language models. The new framework integrates aspects such as generation, prompting, and logical control into a unified process for developers. The inclusion of regex pattern guides ensures the enforcement of formats, allowing for the natural completion of prompts.
+                    
+2 번째 검색 내용 
+제목 : 
+
+                            Google's PaLM-E Combines Vision and Language AI for Robot Control
+                        
+주소 : https://www.infoq.com/news/2023/06/google-palm-e-robot/
+설명 : 
+                         Researchers from Google's Robotics team recently announced PaLM-E, a combination of their PaLM and Vision Transformer (ViT) models designed for controlling robots. PaLM-E handles multimodal input data from robotic sensor and outputs text commands to control the robot's actuators. Besides performing well on several robotics tasks, PaLM-E also outperforms other models on the OK-VQA benchmark.
+                    
+3 번째 검색 내용 
+제목 : 
+
+                            SharePoint Framework 1.17 Introduces Web Part Top Actions and Change to Update Cadence
+                        
+주소 : https://www.infoq.com/news/2023/06/spfx-1-17-updates/
+설명 : 
+                         Microsoft released version 1.17 of the SharePoint Framework in April 2023, which together with new features and bug fixes also ushers a shorter release cycle for minor fixes. The version has already seen four minor updates in the two and half months since the launch.
+                    
+4 번째 검색 내용 
+제목 : 
+
+                            Microsoft Previews .NET Framework Custom Code for Azure Logic Apps Standard
+                        
+주소 : https://www.infoq.com/news/2023/06/logic-apps-custom-code/
+설명 : 
+                         Microsoft recently introduced .NET Framework Custom Code for Logic Apps Standard in public preview, allowing developers to call compiled .NET Framework code from a built-in action in their workflow.
+                    
+5 번째 검색 내용 
+제목 : 
+
+                            Microsoft Open Sources AzDetectSuite Library for Detection Engineering in Azure
+                        
+주소 : https://www.infoq.com/news/2023/06/microsoft-azdetectsuite-azure/
+설명 : 
+                         The Microsoft security team recently released AzDetectSuite, a collection of KQL queries and detection alerts against security threads on Azure and AzureAD. The open-source project provides basic detection capabilities at a low cost, targeting small environments within the Microsoft cloud platform.
+                    
+6 번째 검색 내용 
+제목 : 
+
+                            New Azure Cosmos DB Features to Boost Performance and Optimize Cost
+                        
+주소 : https://www.infoq.com/news/2023/06/azure-cosmosdb-performance-cost/
+설명 : 
+                         Microsoft has recently unveiled several new features for Azure Cosmos DB to enhance cost efficiency, boost performance, and increase elasticity. These features are burst capacity, hierarchical partition keys, serverless container storage of 1 TB, and priority-based execution.
+                    
+7 번째 검색 내용 
+제목 : 
+
+                            Java News Roundup: JNoSQL 1.0, Liberica NIK 23.0, Micronaut 4.0-RC2, Log4j 3.0-Alpha1, KCDC, JCON
+                        
+주소 : https://www.infoq.com/news/2023/06/java-news-roundup-jun19-2023/
+설명 : 
+                         This week's Java roundup for June 19th, 2023 features news from JDK 22, JDK 21, updates to: Spring Boot; Spring Security; Spring Vault; Spring for GraphQL; Spring Authorization Server and Spring Modulith; Liberica NIK 23.0, Semeru 20.0.1, Micronaut 4.0-RC2 and 3.9.4, JNoSQL 1.0, Vert.x 4.4.4, updates to: Apache Tomcat, Camel, Log4j and JMeter; JHipster Lite 0.35, KCDC 2023 and JCON Europe 2023.
+                    
+8 번째 검색 내용 
+제목 : 
+
+                            Apple Releases visionOS SDK to Developers Along with Reality Composer Pro
+                        
+주소 : https://www.infoq.com/news/2023/06/apple-visions-sdk-available/
+설명 : 
+                         Developers can now download the software development kit required to create apps for its forthcoming Vision Pro mixed reality headset, Apple announced. Besides making the SDK available, Apple also unveiled a program to bring physical devices to selected labs around the world and more initiatives for developers to test their apps.
+                    
+9 번째 검색 내용 
+제목 : 
+
+                            AWS Signer Simplifies Signing and Verifying Container Images
+                        
+주소 : https://www.infoq.com/news/2023/06/aws-signer-container/
+설명 : 
+                         AWS has released AWS Signer Container Image Signing (AWS Signer) to provide native AWS support for signing and verifying container images in registries such as Amazon Elastic Container Registry (Amazon ECR). AWS Signer manages code signing certificates, public and private keys, and provides lifecycle management tooling.
+                    
+10 번째 검색 내용 
+제목 : 
+
+                            GitLab 16: Value Stream Dashboards, Remote Development Workspaces, and AI-Powered Code Suggestions
+                        
+주소 : https://www.infoq.com/news/2023/06/gitlab-16-released/
+설명 : 
+                         GitLab has recently announced version 16, which introduces several enhancements. These include Value Streams Dashboards, generative Artificial intelligence (AI)-powered code suggestions, and workflow features with remote development workspaces (in beta).
+                    
+11 번째 검색 내용 
+제목 : 
+
+                            Microsoft Azure Event Grid MQTT Protocol Support and Pull Message Delivery Are Now in Public Preview
+                        
+주소 : https://www.infoq.com/news/2023/06/azure-eventgrid-mqtt-support/
+설명 : 
+                         Microsoft recently announced the public preview of bi-directional communication via MQTT version 5 and MQTT version 3.1.1 protocols for its Azure Event Grid service.
+                    
+12 번째 검색 내용 
+제목 : 
+
+                            Amazon SQS Supports Reprocessing Messages from Dead-Letter Queue
+                        
+주소 : https://www.infoq.com/news/2023/06/aws-sqs-dlq-redrive/
+설명 : 
+                         AWS recently announces support for dead-letter queue redrive in SQS using the AWS SDK or the Command Line Interface. The new capability allows developers to move unconsumed messages out of an existing dead-letter queue and back to their source queue.
+                    
+13 번째 검색 내용 
+제목 : 
+
+                            QCon New York 2023: Day Three Recap
+                        
+주소 : https://www.infoq.com/news/2023/06/day-three-qcon-ny-2023/
+설명 : 
+                         Day Three of the 9th annual QCon New York conference was held on June 15th, 2023, at the New York Marriott at the Brooklyn Bridge in Brooklyn, New York. This three-day event, organized by C4Media, included keynote addresses by Suhail Patel and Sarah Bird, and presentations from four conference tracks.
+                    
+14 번째 검색 내용 
+제목 : 
+
+                            QCon New York 2023 Panel Discussion: Navigating the Future - LLM in Production
+                        
+주소 : https://www.infoq.com/news/2023/06/qcon-ny-llm-panel/
+설명 : 
+                         The recent QCon New York conference featured a panel discussion titled "Navigating the Future: LLM in Production." Some key takeaways are that there are two trends in LLMS: closed models behind APIs and open-source models, and that organizations using LLMs will need to think deeply about testing and evaluating the models themselves, with a strong emphasis on risk mitigation.
+                    
+15 번째 검색 내용 
+제목 : 
+
+                            .NET MAUI in .NET 8 Preview 5 Available:  Bug Fixes and Performance Improvements
+                        
+주소 : https://www.infoq.com/news/2023/06/net-maui-net-8/
+설명 : 
+                         NET MAUI in .NET 8 Preview 5 is available and contains bug fixes and performance improvements for cross-platform application development. It includes changes to iOS keyboard scrolling, test improvements, performance enhancements to the {Binding} mechanism and Android label layout. The announcement provoked different emotions in the community.
+                    
