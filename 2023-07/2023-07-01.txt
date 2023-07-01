@@ -1,13 +1,22 @@
 1 번째 검색 내용 
 제목 : 
 
+                            Amazon Introduces Live Tail in CloudWatch Logs for Real-Time Exploration of Logs
+                        
+주소 : https://www.infoq.com/news/2023/07/aws-cloudwatch-logs-live-tail/
+설명 : 
+                         Amazon recently announced CloudWatch Logs Live Tail, an option to analyze logs in near real-time. Currently only available in the AWS console, the interactive log analytics feature helps developers detect and debug application anomalies.
+                    
+2 번째 검색 내용 
+제목 : 
+
                             Insights from GitHub's Survey - Developers Embrace AI, Collaboration, and Communication Skills
                         
 주소 : https://www.infoq.com/news/2023/06/github-devex-survey/
 설명 : 
                          Recently, GitHub released the findings of a survey that involved 500 developers from enterprise companies in the United States, with the objective of understanding their perspectives on the developer experience. The survey revealed that 92% of developers incorporate AI into their day-to-day work, they are actively seeking enhanced collaboration, and placing emphasis on communication skills.
                     
-2 번째 검색 내용 
+3 번째 검색 내용 
 제목 : 
 
                             KSOC Labs Release the First Kubernetes Bill of Materials (KBOMs)
@@ -18,7 +27,7 @@
 
 The project includes an initial specification and implementation that works across cloud providers, on-prem, and DIY environments.
                     
-3 번째 검색 내용 
+4 번째 검색 내용 
 제목 : 
 
                             Challenges and Skills for Staff+ Engineering, Learnings from QCon New York
@@ -27,7 +36,7 @@ The project includes an initial specification and implementation that works acro
 설명 : 
                          The QCon New York 2023 track Staff+ Engineering: New Skills, New Challenges comprised four talks that went into decisions with buy-in, growing people, the art of staff+, and deciding between individual contributions and leading people.
                     
-4 번째 검색 내용 
+5 번째 검색 내용 
 제목 : 
 
                             Microsoft Empowers Government Agencies with Secure Access to Generative AI Capabilities
@@ -36,7 +45,7 @@ The project includes an initial specification and implementation that works acro
 설명 : 
                          Microsoft continues to prioritize the development of cloud services that align with US regulatory standards and cater to government requirements for security and compliance. The latest addition to their tools is the integration of generative AI capabilities through Microsoft Azure OpenAI Service, which aims to enhance government agencies' efficiency, productivity, and data insights.
                     
-5 번째 검색 내용 
+6 번째 검색 내용 
 제목 : 
 
                             eBay Doubles Team Velocity after Reworking Their Most Important Page
@@ -45,7 +54,7 @@ The project includes an initial specification and implementation that works acro
 설명 : 
                          eBay consolidated services responsible for serving their View Item page, which has over 250 million daily page loads, to remove code duplication and improve developer productivity. As a result, they doubled the team velocity and can now deploy changes to this page even daily, with a much lower change failure rate.
                     
-6 번째 검색 내용 
+7 번째 검색 내용 
 제목 : 
 
                             OpenJDK Project CRaC Cracks Mainstream Adoption
@@ -54,7 +63,7 @@ The project includes an initial specification and implementation that works acro
 설명 : 
                          The OpenJDK project CRaC drastically reduces the startup time of a Java application and its Time to Peak performance. It does so by taking a memory snapshot at runtime and restoring it in later runs. Azul, the creator of CRaC, now ships an OpenJDK 17 distribution with built-in support for CRaC. Micronaut and Quarkus already support CRaC, and Spring Framework will do so in November 2023.
                     
-7 번째 검색 내용 
+8 번째 검색 내용 
 제목 : 
 
                             Rx.NET v6.0: Enhancing Compatibility, Trimming Support, and Many More
@@ -63,7 +72,7 @@ The project includes an initial specification and implementation that works acro
 설명 : 
                          Last month, the team behind Rx.NET announced the release of the 6.0 version. The latest version of the library brings several improvements and aligns itself with the current .NET ecosystem. While the update doesn't introduce significant new functionality, it focuses on enhancing compatibility, supporting the latest versions of .NET, and addressing common pain points for developers.
                     
-8 번째 검색 내용 
+9 번째 검색 내용 
 제목 : 
 
                             Considering Remote Mob Programming in a High Stakes Environment
@@ -72,7 +81,7 @@ The project includes an initial specification and implementation that works acro
 설명 : 
                          Remote mob programming helped a team in a high-stakes environment to be resilient, work under pressure,  and deliver successfully. Setting expectations on the first call and being serious about the reasons for doing mob programming ensured that the team kept doing it.
                     
-9 번째 검색 내용 
+10 번째 검색 내용 
 제목 : 
 
                             Swift 5.9 Brings Macro Expansion Power to the Language
@@ -81,7 +90,7 @@ The project includes an initial specification and implementation that works acro
 설명 : 
                          Introduced at WWDC 2023, Swift 5.9, now available in beta, brings a major extension to the language capabilities through support for generating code at compile-time using macros.
                     
-10 번째 검색 내용 
+11 번째 검색 내용 
 제목 : 
 
                             Public Preview of JSON Schema Support in Azure Event Hubs Schema Registry for Kafka Applications
@@ -90,7 +99,7 @@ The project includes an initial specification and implementation that works acro
 설명 : 
                          Microsoft recently announced that the Azure Event Hubs schema registry now includes JSON schema support, providing Kafka applications with a centralized repository for schema documents used in messaging-centric and event-driven applications. The JSON schema support is currently in public preview.
                     
-11 번째 검색 내용 
+12 번째 검색 내용 
 제목 : 
 
                             QCon New York 2023: Living on the Edge with Erica Pisani
@@ -99,7 +108,7 @@ The project includes an initial specification and implementation that works acro
 설명 : 
                          Erica Pisani, Sr. Software Engineer at Netlify, presented Living on the Edge at QCon New York 2023. Pisani discussed: edge computing anatomy; communication between users, edge locations and origin servers; various edge computing challenges with corresponding solutions; and introduced the AWS Snowball Edge Device. Pisani spoke to InfoQ to learn more about edge computing.
                     
-12 번째 검색 내용 
+13 번째 검색 내용 
 제목 : 
 
                             Avalonia UI v11 Release Candidate 1: Breaking Changes and API Stabilization
@@ -108,7 +117,7 @@ The project includes an initial specification and implementation that works acro
 설명 : 
                          The Avalonia UI team made an announcement regarding the anticipated version 11 Release Candidate 1. In their official release post, they emphasized the significance of this milestone, as it signifies a crucial step forward for the project. The primary focus of this RC is to stabilize the API, bringing the final release of v11 even closer to completion.
                     
-13 번째 검색 내용 
+14 번째 검색 내용 
 제목 : 
 
                             Slack Leverages Bespoke Tracing Architecture for Message Notifications
@@ -117,7 +126,7 @@ The project includes an initial specification and implementation that works acro
 설명 : 
                          Slack leveraged its bespoke tracing architecture to help with investigating notification-delivery issues. Tracing helped resolve notification issues 30% faster and reduced escalations to the development team. It also simplified the analytics pipeline and unlocked new use cases for the data science team.
                     
-14 번째 검색 내용 
+15 번째 검색 내용 
 제목 : 
 
                             Microsoft Guidance Offers Language for Controlling Large Language Models
@@ -125,13 +134,4 @@ The project includes an initial specification and implementation that works acro
 주소 : https://www.infoq.com/news/2023/06/guidance-microsoft-language/
 설명 : 
                          Microsoft has recently introduced a domain-specific language called Guidance, to improve developers' ability to manage contemporary language models. The new framework integrates aspects such as generation, prompting, and logical control into a unified process for developers. The inclusion of regex pattern guides ensures the enforcement of formats, allowing for the natural completion of prompts.
-                    
-15 번째 검색 내용 
-제목 : 
-
-                            Google's PaLM-E Combines Vision and Language AI for Robot Control
-                        
-주소 : https://www.infoq.com/news/2023/06/google-palm-e-robot/
-설명 : 
-                         Researchers from Google's Robotics team recently announced PaLM-E, a combination of their PaLM and Vision Transformer (ViT) models designed for controlling robots. PaLM-E handles multimodal input data from robotic sensor and outputs text commands to control the robot's actuators. Besides performing well on several robotics tasks, PaLM-E also outperforms other models on the OK-VQA benchmark.
                     
