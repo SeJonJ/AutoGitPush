@@ -1,13 +1,31 @@
 1 번째 검색 내용 
 제목 : 
 
+                            AWS Launches AWS Appfabric Empowering SaaS Applications with Enhanced Productivity and Security
+                        
+주소 : https://www.infoq.com/news/2023/07/aws-appfabric-saas-security/
+설명 : 
+                         Recently AWS announced the general availability (GA) of AWS AppFabric. This no-code service enhances companies’ existing investment in software-as-a-service (SaaS) applications with improved security, management, and productivity.
+                    
+2 번째 검색 내용 
+제목 : 
+
+                            Google Announced General Availability of New Features for Cloud Firewall
+                        
+주소 : https://www.infoq.com/news/2023/07/google-firewall-new-features/
+설명 : 
+                         Google announced the expansion of the offer for Google Cloud Firewall. Cloud Firewall is the GCP firewall service that is cloud native and distributed. The new features now in general availability are threat intelligence for Cloud Firewall, geo-location objects, address groups, and local IP ranges
+                    
+3 번째 검색 내용 
+제목 : 
+
                             UC Berkeley Researchers Open-Source API-Calling Language Model Gorilla
                         
 주소 : https://www.infoq.com/news/2023/07/microsoft-gorilla/
 설명 : 
                          Researchers from UC Berkeley and Microsoft have open-sourced Gorilla, a large language model (LLM) that can write code to call APIs. In experiments measuring generated code accuracy, Gorilla outperforms several baseline models, including GPT-4.
                     
-2 번째 검색 내용 
+4 번째 검색 내용 
 제목 : 
 
                             EC2 Instance Connect Endpoint Enables Secure Connectivity between Public and Private Networks
@@ -16,7 +34,7 @@
 설명 : 
                          AWS recently announced Amazon EC2 Instance Connect (EIC) Endpoint, a new feature that allows users to connect securely to their instances and other Amazon Virtual Private Cloud (Amazon VPC) resources from the Internet.
                     
-3 번째 검색 내용 
+5 번째 검색 내용 
 제목 : 
 
                             JEP 441: Transforming Java with Pattern Matching for switch
@@ -25,7 +43,7 @@
 설명 : 
                          JEP 441, Pattern Matching for the switch, is completed in JDK 21, following four previews in JDKs 17-20 (JEPs 406, 420, 427, 433). It finalizes the feature, addressing feedback from previews, and enhances the language with pattern matching for switch expressions and statements.
                     
-4 번째 검색 내용 
+6 번째 검색 내용 
 제목 : 
 
                             Apple Extends Core ML, Create ML, and Vision Frameworks for iOS 17
@@ -34,7 +52,7 @@
 설명 : 
                          At its recent WWDC 2023 developer conference, Apple presented a number of extensions and updates to its machine learning and vision ecosystem, including updates to its Core ML framework, new features for the Create ML modeling tool, and new vision APIs for image segmentation, animal body pose detection, and 3D human body pose.
                     
-5 번째 검색 내용 
+7 번째 검색 내용 
 제목 : 
 
                             How LinkedIn Serves Over 4.8 Million Member Profiles per Second
@@ -43,7 +61,7 @@
 설명 : 
                          LinkedIn introduced Couchbase as a centralized caching tier for scaling member profile reads to handle increasing traffic that has outgrown their existing database cluster. The new solution achieved over 99% hit rate, helped reduce tail latencies by more than 60% and costs by 10% annually.
                     
-6 번째 검색 내용 
+8 번째 검색 내용 
 제목 : 
 
                             Java News Roundup: Open Liberty InstantOn and Liberty Tools, Gradle 8.2, Spring Cloud, GlassFish
@@ -52,7 +70,7 @@
 설명 : 
                          This week's Java roundup for June 26th, 2023 features news from JDK 22, JDK 21, point releases and release candidates for Spring Cloud, Spring Shell, GlassFish, Micronaut, Quarkus, Open Liberty, Hibernate ORM, Hibernate Search, Apache Groovy, Apache Camel, Maven, JHipster Lite, JReleaser, JobRunr, RefactorFirst, OpenXava, Resilience4j, Failsafe, Yupiik Fusion and Gradle.
                     
-7 번째 검색 내용 
+9 번째 검색 내용 
 제목 : 
 
                             Uno Platform Visual Studio Code Extension Introduces Mobile Debugging
@@ -61,7 +79,7 @@
 설명 : 
                          Uno Platform, a framework for building native mobile, desktop, and WebAssembly apps with C# and XAML, released a new version of the Visual Studio Code extension. The new version adds support for building mobile applications as well as debugging them directly from Visual Studio Code.
                     
-8 번째 검색 내용 
+10 번째 검색 내용 
 제목 : 
 
                             Amazon Introduces Live Tail in CloudWatch Logs for Real-Time Exploration of Logs
@@ -70,7 +88,7 @@
 설명 : 
                          Amazon recently announced CloudWatch Logs Live Tail, an option to analyze logs in near real-time. Currently only available in the AWS console, the interactive log analytics feature helps developers detect and debug application anomalies.
                     
-9 번째 검색 내용 
+11 번째 검색 내용 
 제목 : 
 
                             Insights from GitHub's Survey - Developers Embrace AI, Collaboration, and Communication Skills
@@ -79,7 +97,7 @@
 설명 : 
                          Recently, GitHub released the findings of a survey that involved 500 developers from enterprise companies in the United States, with the objective of understanding their perspectives on the developer experience. The survey revealed that 92% of developers incorporate AI into their day-to-day work, they are actively seeking enhanced collaboration, and placing emphasis on communication skills.
                     
-10 번째 검색 내용 
+12 번째 검색 내용 
 제목 : 
 
                             KSOC Labs Release the First Kubernetes Bill of Materials (KBOMs)
@@ -90,7 +108,7 @@
 
 The project includes an initial specification and implementation that works across cloud providers, on-prem, and DIY environments.
                     
-11 번째 검색 내용 
+13 번째 검색 내용 
 제목 : 
 
                             Challenges and Skills for Staff+ Engineering, Learnings from QCon New York
@@ -99,7 +117,7 @@ The project includes an initial specification and implementation that works acro
 설명 : 
                          The QCon New York 2023 track Staff+ Engineering: New Skills, New Challenges comprised four talks that went into decisions with buy-in, growing people, the art of staff+, and deciding between individual contributions and leading people.
                     
-12 번째 검색 내용 
+14 번째 검색 내용 
 제목 : 
 
                             Microsoft Empowers Government Agencies with Secure Access to Generative AI Capabilities
@@ -108,7 +126,7 @@ The project includes an initial specification and implementation that works acro
 설명 : 
                          Microsoft continues to prioritize the development of cloud services that align with US regulatory standards and cater to government requirements for security and compliance. The latest addition to their tools is the integration of generative AI capabilities through Microsoft Azure OpenAI Service, which aims to enhance government agencies' efficiency, productivity, and data insights.
                     
-13 번째 검색 내용 
+15 번째 검색 내용 
 제목 : 
 
                             eBay Doubles Team Velocity after Reworking Their Most Important Page
@@ -116,22 +134,4 @@ The project includes an initial specification and implementation that works acro
 주소 : https://www.infoq.com/news/2023/06/ebay-view-item-page-rework/
 설명 : 
                          eBay consolidated services responsible for serving their View Item page, which has over 250 million daily page loads, to remove code duplication and improve developer productivity. As a result, they doubled the team velocity and can now deploy changes to this page even daily, with a much lower change failure rate.
-                    
-14 번째 검색 내용 
-제목 : 
-
-                            OpenJDK Project CRaC Cracks Mainstream Adoption
-                        
-주소 : https://www.infoq.com/news/2023/06/crac-cracks-mainstream-adoption/
-설명 : 
-                         The OpenJDK project CRaC drastically reduces the startup time of a Java application and its Time to Peak performance. It does so by taking a memory snapshot at runtime and restoring it in later runs. Azul, the creator of CRaC, now ships an OpenJDK 17 distribution with built-in support for CRaC. Micronaut and Quarkus already support CRaC, and Spring Framework will do so in November 2023.
-                    
-15 번째 검색 내용 
-제목 : 
-
-                            Rx.NET v6.0: Enhancing Compatibility, Trimming Support, and Many More
-                        
-주소 : https://www.infoq.com/news/2023/06/rx-dotnet-6/
-설명 : 
-                         Last month, the team behind Rx.NET announced the release of the 6.0 version. The latest version of the library brings several improvements and aligns itself with the current .NET ecosystem. While the update doesn't introduce significant new functionality, it focuses on enhancing compatibility, supporting the latest versions of .NET, and addressing common pain points for developers.
                     
