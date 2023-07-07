@@ -1,0 +1,135 @@
+1 번째 검색 내용 
+제목 : 
+
+                            Being an Agent of Change for Others and Yourself
+                        
+주소 : https://www.infoq.com/news/2023/07/agent-change-others-yourself/
+설명 : 
+                         Everyone can be an agent of change, even with small contributions. You can also be an agent of change for yourself by focusing on what you can control. Knowing why to change matters, and exploring it you may find out that it’s not the time yet to make a change.
+                    
+2 번째 검색 내용 
+제목 : 
+
+                            AWS Step Functions Introduces Versions and Aliases for Enhanced Deployment Resiliency
+                        
+주소 : https://www.infoq.com/news/2023/07/step-functions-versions-aliases/
+설명 : 
+                         Recently, AWS announced the availability of versions and aliases in Step Functions to improve resiliency for deployments of serverless workflows.
+                    
+3 번째 검색 내용 
+제목 : 
+
+                            Java Enhances Z Garbage Collector with Generational Capabilities
+                        
+주소 : https://www.infoq.com/news/2023/07/java-enhance-zgc/
+설명 : 
+                         JEP 439, Generational ZGC, has been promoted from Targeted to Completed for JDK 21. This JEP proposes to improve application performance by extending the Z Garbage Collector (ZGC) to maintain separate generations for young and old objects. This will allow ZGC to collect young objects, which tend to die young, more frequently.
+                    
+4 번째 검색 내용 
+제목 : 
+
+                            Manifest Confusion Paves the Way to New npm Supply Chain Threats
+                        
+주소 : https://www.infoq.com/news/2023/07/manifest-confusion-npm-bug/
+설명 : 
+                         A recent report by former npm engineering manager Darcy Clarke found that the npm registry does not validate manifest information against the contents of its corresponding package tarball. This creates a double source of truth that attackers can exploit to hide scripts or dependencies, says Clarke.
+                    
+5 번째 검색 내용 
+제목 : 
+
+                            Sysdig Announces Cloud Native Application Protection Platform
+                        
+주소 : https://www.infoq.com/news/2023/07/sysdig-cn-application-protection/
+설명 : 
+                         Sysdig recently unveiled the industry's first Cloud Native Application Protection Platform (CNAPP) with end-to-end detection and response capabilities. This platform combines cloud detection and response (CDR) with CNAPP, integrating the power of open-source Falco for both agent and agentless deployment models.
+                    
+6 번째 검색 내용 
+제목 : 
+
+                            AWS Launches AWS Appfabric Empowering SaaS Applications with Enhanced Productivity and Security
+                        
+주소 : https://www.infoq.com/news/2023/07/aws-appfabric-saas-security/
+설명 : 
+                         Recently AWS announced the general availability (GA) of AWS AppFabric. This no-code service enhances companies’ existing investment in software-as-a-service (SaaS) applications with improved security, management, and productivity.
+                    
+7 번째 검색 내용 
+제목 : 
+
+                            Google Announced General Availability of New Features for Cloud Firewall
+                        
+주소 : https://www.infoq.com/news/2023/07/google-firewall-new-features/
+설명 : 
+                         Google announced the expansion of the offer for Google Cloud Firewall. Cloud Firewall is the GCP firewall service that is cloud native and distributed. The new features now in general availability are threat intelligence for Cloud Firewall, geo-location objects, address groups, and local IP ranges
+                    
+8 번째 검색 내용 
+제목 : 
+
+                            UC Berkeley Researchers Open-Source API-Calling Language Model Gorilla
+                        
+주소 : https://www.infoq.com/news/2023/07/microsoft-gorilla/
+설명 : 
+                         Researchers from UC Berkeley and Microsoft have open-sourced Gorilla, a large language model (LLM) that can write code to call APIs. In experiments measuring generated code accuracy, Gorilla outperforms several baseline models, including GPT-4.
+                    
+9 번째 검색 내용 
+제목 : 
+
+                            EC2 Instance Connect Endpoint Enables Secure Connectivity between Public and Private Networks
+                        
+주소 : https://www.infoq.com/news/2023/07/ec2-instance-connect-endpoint/
+설명 : 
+                         AWS recently announced Amazon EC2 Instance Connect (EIC) Endpoint, a new feature that allows users to connect securely to their instances and other Amazon Virtual Private Cloud (Amazon VPC) resources from the Internet.
+                    
+10 번째 검색 내용 
+제목 : 
+
+                            JEP 441: Transforming Java with Pattern Matching for switch
+                        
+주소 : https://www.infoq.com/news/2023/07/tranforming-java-pattern/
+설명 : 
+                         JEP 441, Pattern Matching for the switch, is completed in JDK 21, following four previews in JDKs 17-20 (JEPs 406, 420, 427, 433). It finalizes the feature, addressing feedback from previews, and enhances the language with pattern matching for switch expressions and statements.
+                    
+11 번째 검색 내용 
+제목 : 
+
+                            Apple Extends Core ML, Create ML, and Vision Frameworks for iOS 17
+                        
+주소 : https://www.infoq.com/news/2023/07/coreml-createml-vision-ios-17/
+설명 : 
+                         At its recent WWDC 2023 developer conference, Apple presented a number of extensions and updates to its machine learning and vision ecosystem, including updates to its Core ML framework, new features for the Create ML modeling tool, and new vision APIs for image segmentation, animal body pose detection, and 3D human body pose.
+                    
+12 번째 검색 내용 
+제목 : 
+
+                            How LinkedIn Serves over 4.8 Million Member Profiles per Second
+                        
+주소 : https://www.infoq.com/news/2023/07/linkedin-member-profile-caching/
+설명 : 
+                         LinkedIn introduced Couchbase as a centralized caching tier for scaling member profile reads to handle increasing traffic that has outgrown their existing database cluster. The new solution achieved over 99% hit rate, helped reduce tail latencies by more than 60% and costs by 10% annually.
+                    
+13 번째 검색 내용 
+제목 : 
+
+                            Java News Roundup: Open Liberty InstantOn and Liberty Tools, Gradle 8.2, Spring Cloud, GlassFish
+                        
+주소 : https://www.infoq.com/news/2023/07/java-news-roundup-jun26-2023/
+설명 : 
+                         This week's Java roundup for June 26th, 2023, features news from JDK 22, JDK 21, point releases and release candidates for Spring Cloud, Spring Shell, GlassFish, Micronaut, Quarkus, Open Liberty, Hibernate ORM, Hibernate Search, Apache Groovy, Apache Camel, Maven, JHipster Lite, JReleaser, JobRunr, RefactorFirst, OpenXava, Resilience4j, Failsafe, Yupiik Fusion and Gradle.
+                    
+14 번째 검색 내용 
+제목 : 
+
+                            Uno Platform Visual Studio Code Extension Introduces Mobile Debugging
+                        
+주소 : https://www.infoq.com/news/2023/07/uno-platform-debugging/
+설명 : 
+                         Uno Platform, a framework for building native mobile, desktop, and WebAssembly apps with C# and XAML, released a new version of the Visual Studio Code extension. The new version adds support for building mobile applications as well as debugging them directly from Visual Studio Code.
+                    
+15 번째 검색 내용 
+제목 : 
+
+                            Amazon Introduces Live Tail in CloudWatch Logs for Real-Time Exploration of Logs
+                        
+주소 : https://www.infoq.com/news/2023/07/aws-cloudwatch-logs-live-tail/
+설명 : 
+                         Amazon recently announced CloudWatch Logs Live Tail, an option to analyze logs in near real-time. Currently only available in the AWS console, the interactive log analytics feature helps developers detect and debug application anomalies.
+                    
