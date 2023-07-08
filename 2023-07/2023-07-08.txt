@@ -1,0 +1,135 @@
+1 번째 검색 내용 
+제목 : 
+
+                            Enhanced Testcontainers and Development-Time Containers Support in Spring Boot 3.1
+                        
+주소 : https://www.infoq.com/news/2023/07/enhanced-testcontainers-support/
+설명 : 
+                         Spring Boot 3.1, the latest version of the popular Java-based framework for building stand-alone, production-grade applications, introduces enhanced support for development-time containers. This new feature was the focus of a recent livestream by Josh Long, a Spring developer advocate, on his YouTube channel "Coffee + Software with Josh Long."
+                    
+2 번째 검색 내용 
+제목 : 
+
+                            OpenAI Introduces Superalignment to Address Rogue Superintelligent AI
+                        
+주소 : https://www.infoq.com/news/2023/07/openai-superalignment-ai-safety/
+설명 : 
+                         OpenAI announced the formation of a specialized Superalignment team with the objective of preventing the emergence of rogue Superintelligent AI. OpenAI highlighted the need to align AI systems with human values and emphasized the importance of proactive measures to prevent potential harm.
+                    
+3 번째 검색 내용 
+제목 : 
+
+                            Cloudflare Introduces Smart Hints to Automate Web Performance Optimisation
+                        
+주소 : https://www.infoq.com/news/2023/07/cloudflare-smart-hints/
+설명 : 
+                         Cloudflare has introduced Smart Hints to eliminate the need for manual configuration of Early Hints and Fetch Priorities, By leveraging Cloudflare's network, Smart Hints streamline the optimization process and aim to provide performance improvements without requiring manual configuration.
+                    
+4 번째 검색 내용 
+제목 : 
+
+                            Being an Agent of Change for Others and Yourself
+                        
+주소 : https://www.infoq.com/news/2023/07/agent-change-others-yourself/
+설명 : 
+                         Everyone can be an agent of change, even with small contributions. You can also be an agent of change for yourself by focusing on what you can control. Knowing why to change matters, and exploring it you may find out that it’s not the time yet to make a change.
+                    
+5 번째 검색 내용 
+제목 : 
+
+                            AWS Step Functions Introduces Versions and Aliases for Enhanced Deployment Resiliency
+                        
+주소 : https://www.infoq.com/news/2023/07/step-functions-versions-aliases/
+설명 : 
+                         Recently, AWS announced the availability of versions and aliases in Step Functions to improve resiliency for deployments of serverless workflows.
+                    
+6 번째 검색 내용 
+제목 : 
+
+                            Java Enhances Z Garbage Collector with Generational Capabilities
+                        
+주소 : https://www.infoq.com/news/2023/07/java-enhance-zgc/
+설명 : 
+                         JEP 439, Generational ZGC, has been promoted from Targeted to Completed for JDK 21. This JEP proposes to improve application performance by extending the Z Garbage Collector (ZGC) to maintain separate generations for young and old objects. This will allow ZGC to collect young objects, which tend to die young, more frequently.
+                    
+7 번째 검색 내용 
+제목 : 
+
+                            Manifest Confusion Paves the Way to New npm Supply Chain Threats
+                        
+주소 : https://www.infoq.com/news/2023/07/manifest-confusion-npm-bug/
+설명 : 
+                         A recent report by former npm engineering manager Darcy Clarke found that the npm registry does not validate manifest information against the contents of its corresponding package tarball. This creates a double source of truth that attackers can exploit to hide scripts or dependencies, says Clarke.
+                    
+8 번째 검색 내용 
+제목 : 
+
+                            Sysdig Announces Cloud Native Application Protection Platform
+                        
+주소 : https://www.infoq.com/news/2023/07/sysdig-cn-application-protection/
+설명 : 
+                         Sysdig recently unveiled the industry's first Cloud Native Application Protection Platform (CNAPP) with end-to-end detection and response capabilities. This platform combines cloud detection and response (CDR) with CNAPP, integrating the power of open-source Falco for both agent and agentless deployment models.
+                    
+9 번째 검색 내용 
+제목 : 
+
+                            AWS Launches AWS Appfabric Empowering SaaS Applications with Enhanced Productivity and Security
+                        
+주소 : https://www.infoq.com/news/2023/07/aws-appfabric-saas-security/
+설명 : 
+                         Recently AWS announced the general availability (GA) of AWS AppFabric. This no-code service enhances companies’ existing investment in software-as-a-service (SaaS) applications with improved security, management, and productivity.
+                    
+10 번째 검색 내용 
+제목 : 
+
+                            Google Announces General Availability of New Features for Cloud Firewall
+                        
+주소 : https://www.infoq.com/news/2023/07/google-firewall-new-features/
+설명 : 
+                         Google announced the expansion of the offer for Google Cloud Firewall. Cloud Firewall is the GCP firewall service that is cloud native and distributed. The new features now in general availability are threat intelligence for Cloud Firewall, geo-location objects, address groups and local IP ranges.
+                    
+11 번째 검색 내용 
+제목 : 
+
+                            UC Berkeley Researchers Open-Source API-Calling Language Model Gorilla
+                        
+주소 : https://www.infoq.com/news/2023/07/microsoft-gorilla/
+설명 : 
+                         Researchers from UC Berkeley and Microsoft have open-sourced Gorilla, a large language model (LLM) that can write code to call APIs. In experiments measuring generated code accuracy, Gorilla outperforms several baseline models, including GPT-4.
+                    
+12 번째 검색 내용 
+제목 : 
+
+                            EC2 Instance Connect Endpoint Enables Secure Connectivity between Public and Private Networks
+                        
+주소 : https://www.infoq.com/news/2023/07/ec2-instance-connect-endpoint/
+설명 : 
+                         AWS recently announced Amazon EC2 Instance Connect (EIC) Endpoint, a new feature that allows users to connect securely to their instances and other Amazon Virtual Private Cloud (Amazon VPC) resources from the Internet.
+                    
+13 번째 검색 내용 
+제목 : 
+
+                            JEP 441: Transforming Java with Pattern Matching for switch
+                        
+주소 : https://www.infoq.com/news/2023/07/tranforming-java-pattern/
+설명 : 
+                         JEP 441, Pattern Matching for the switch, is completed in JDK 21, following four previews in JDKs 17-20 (JEPs 406, 420, 427, 433). It finalizes the feature, addressing feedback from previews, and enhances the language with pattern matching for switch expressions and statements.
+                    
+14 번째 검색 내용 
+제목 : 
+
+                            Apple Extends Core ML, Create ML, and Vision Frameworks for iOS 17
+                        
+주소 : https://www.infoq.com/news/2023/07/coreml-createml-vision-ios-17/
+설명 : 
+                         At its recent WWDC 2023 developer conference, Apple presented a number of extensions and updates to its machine learning and vision ecosystem, including updates to its Core ML framework, new features for the Create ML modeling tool, and new vision APIs for image segmentation, animal body pose detection, and 3D human body pose.
+                    
+15 번째 검색 내용 
+제목 : 
+
+                            How LinkedIn Serves over 4.8 Million Member Profiles per Second
+                        
+주소 : https://www.infoq.com/news/2023/07/linkedin-member-profile-caching/
+설명 : 
+                         LinkedIn introduced Couchbase as a centralized caching tier for scaling member profile reads to handle increasing traffic that has outgrown their existing database cluster. The new solution achieved over 99% hit rate, helped reduce tail latencies by more than 60% and costs by 10% annually.
+                    
