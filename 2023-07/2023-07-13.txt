@@ -1,0 +1,135 @@
+1 번째 검색 내용 
+제목 : 
+
+                            New Migration Capabilities in Application Migration Service: Global View, Import/Export and More
+                        
+주소 : https://www.infoq.com/news/2023/07/aws-mgn-new-updates/
+설명 : 
+                         AWS recently announced three significant updates with Global View, Import and Export from local disk, and additional post-launch actions in the Application Migration Service (MGN) to enhance migration capabilities.
+                    
+2 번째 검색 내용 
+제목 : 
+
+                            Vaadin 24.1.0: Enhancing Web Application Development with New Features and Optimizations
+                        
+주소 : https://www.infoq.com/news/2023/07/vaadin-release-24/
+설명 : 
+                         Vaadin, the open-source platform for building business-oriented single-page web applications, has announced the release of Vaadin 24.1.0. This latest version brings a host of new features and improvements, further enhancing the platform's capabilities and providing developers with more tools to create robust, high-performing web applications.
+                    
+3 번째 검색 내용 
+제목 : 
+
+                            .NET Community Toolkit 8.2.1: New Code Fixers, Diagnostics and QoL Improvements
+                        
+주소 : https://www.infoq.com/news/2023/07/dot-net-community-toolkit-821/
+설명 : 
+                         Microsoft has published the latest version of its .NET Community Toolkit, version 8.2.1, with several new enhancements and features. According to the release, this new version brings quality-of-life improvements across all libraries, performance optimizations to the MVVM Toolkit source generators, new code fixers and improved diagnostics.
+                    
+4 번째 검색 내용 
+제목 : 
+
+                            Instacart Creates a Self-Serve Apache Flink Platform on Kubernetes
+                        
+주소 : https://www.infoq.com/news/2023/07/instacart-flink-kubernetes/
+설명 : 
+                         Instacart moved their Apache Flink workloads from AWS EMR to Kubernetes to meet the high demand for data processing use cases using Flink within the organization, as using EMR became problematic for many teams with different requirements. As a result, they made the platform easier to use and reduced their operational and infrastructure costs.
+                    
+5 번째 검색 내용 
+제목 : 
+
+                            How Spotify Carries through Experiments at Scale for Spotify Home
+                        
+주소 : https://www.infoq.com/news/2023/07/spotify-home-experiments-scale/
+설명 : 
+                         Spotify runs more than 250 online experiments annually on its Spotify Home platform, which are used by dozen of different teams. To accomplish running experiments at such scale, Spotify uses a number of different tools, explains Spotify product manager Nik Goyle.
+                    
+6 번째 검색 내용 
+제목 : 
+
+                            Modern Cryptography in OpenJDK: Introduction of Key Encapsulation Mechanisms API
+                        
+주소 : https://www.infoq.com/news/2023/07/modern-cryptography-on-openjdk/
+설명 : 
+                         JEP 452, Key Encapsulation Mechanism API, has been marked as completed for JDK 21. This JEP introduces a modern encryption technique for securing symmetric keys using public key cryptography. The API supports various KEM algorithms, including RSA-KEM, ECIES, and those under NIST's Post-Quantum Cryptography standardization.
+                    
+7 번째 검색 내용 
+제목 : 
+
+                            Google's Speech AI AudioPaLM Performs Translation with Voice Transfer
+                        
+주소 : https://www.infoq.com/news/2023/07/google-audiopalm/
+설명 : 
+                         Researchers at Google announced AudioPaLM, a large language model (LLM) that performs text-to-speech (TTS), automated speech recognition (ASR), and speech-to-speech translation (S2ST) with voice transfer. AudioPaLM is based on the PaLM-2 LLM and outperforms OpenAI's Whisper on translation benchmarks.
+                    
+8 번째 검색 내용 
+제목 : 
+
+                            AWS Introduces Remote Invoke Feature in AWS SAM CLI, Enabling Seamless Testing of Lambda Functions
+                        
+주소 : https://www.infoq.com/news/2023/07/aws-sam-remote-invoke/
+설명 : 
+                         AWS recently announced the launch of the remote invoke feature in AWS Serverless Application Model (SAM) Command Line Interface (CLI) for AWS Lambda, allowing developers to quickly invoke their AWS Lambda functions deployed to the AWS cloud.
+                    
+9 번째 검색 내용 
+제목 : 
+
+                            Java News Roundup: Jakarta EE 11 Updates, Quarkus LTS, Micronaut, Foojay Board, DevBCN, JCrete
+                        
+주소 : https://www.infoq.com/news/2023/07/java-news-roundup-jul03-2023/
+설명 : 
+                         This week's Java roundup for July 3rd, 2023, features news from JDK 22, JDK 21, Jakarta EE 11 updates, Micronaut 4.0.0-RC1, Quarkus 3.2.0 and 2.16.8, Helidon 3.2.2, Apache Camel 4.0.0-RC1, Hibernate Search 6.2.0, Hibernate Reactive 2.0.2, Infinispan 15.0.0.Dev02, JDKMon 17.0.69, JBang 0.109.0, Kotlin 1.9.0, Foojay.io updates, and DevBCN and JCrete conferences.
+                    
+10 번째 검색 내용 
+제목 : 
+
+                            Descaling for Delivery and Using AI to Enhance Software Development: Learnings from QCon New York
+                        
+주소 : https://www.infoq.com/news/2023/07/descaling-AI-development/
+설명 : 
+                         The track Optimizing Teams for Fast Flow - Surviving in the Post-agile Aftermath at QCon New York 2023 comprised two talks in the morning that went into replacing an agile process with engineering and conversational software delivery using AI.
+                    
+11 번째 검색 내용 
+제목 : 
+
+                            JetBrains Launches the Kotlin Notebook Plugin for IntelliJ IDEA
+                        
+주소 : https://www.infoq.com/news/2023/07/kotlin-notebook-plugin/
+설명 : 
+                         Using the experimental Kotlin Notebook plugin for IntelliJ IDEA, developers will be able to combine code, visualizations, and text, as well as to run code snippets and view their results, all in a single document.
+                    
+12 번째 검색 내용 
+제목 : 
+
+                            Enhancing AI Capabilities: Google Cloud Integrates Vector Search in Managed Databases
+                        
+주소 : https://www.infoq.com/news/2023/07/gcp-databases-vector-search/
+설명 : 
+                         Google Cloud recently added support for the pgvector on Cloud SQL for PostgreSQL and AlloyDB for PostgreSQL. The extension brings vector search operations to the managed databases, allowing developers to store vector embeddings generated by large language models (LLMs) and perform similarity searches.
+                    
+13 번째 검색 내용 
+제목 : 
+
+                            Distributed PostgreSQL Benchmarks: Azure Cosmos DB, CockroachDB, and YugabyteDB
+                        
+주소 : https://www.infoq.com/news/2023/07/distributed-postgresql-benchmark/
+설명 : 
+                         Microsoft recently discussed the results of distributed PostgreSQL benchmarks, comparing transaction processing and price performance for Azure Cosmos DB for PostgreSQL, CockroachDB, and Yugabyte. With different implementation trade-offs, the results show a higher throughput for Azure Cosmos DB but highlight the challenges of benchmarking distributed databases.
+                    
+14 번째 검색 내용 
+제목 : 
+
+                            Enhanced Testcontainers and Development-Time Containers Support in Spring Boot 3.1
+                        
+주소 : https://www.infoq.com/news/2023/07/enhanced-testcontainers-support/
+설명 : 
+                         Spring Boot 3.1, the latest version of the popular Java-based framework for building stand-alone, production-grade applications, introduces enhanced support for development-time containers. This new feature was the focus of a recent livestream by Josh Long, a Spring developer advocate, on his YouTube channel "Coffee + Software with Josh Long."
+                    
+15 번째 검색 내용 
+제목 : 
+
+                            OpenAI Introduces Superalignment to Address Rogue Superintelligent AI
+                        
+주소 : https://www.infoq.com/news/2023/07/openai-superalignment-ai-safety/
+설명 : 
+                         OpenAI announced the formation of a specialized Superalignment team with the objective of preventing the emergence of rogue Superintelligent AI. OpenAI highlighted the need to align AI systems with human values and emphasized the importance of proactive measures to prevent potential harm.
+                    
