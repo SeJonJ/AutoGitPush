@@ -1,0 +1,135 @@
+1 번째 검색 내용 
+제목 : 
+
+                            Google Releases Cloud SQL Enterprise Plus for MySQL and PostgreSQL
+                        
+주소 : https://www.infoq.com/news/2023/07/google-cloud-sql-enterprise-plus/
+설명 : 
+                         Google Cloud recently announced the Cloud SQL Enterprise Plus edition for MySQL and PostgreSQL of the managed database service. The new edition provides performance optimizations for read and write operations, improved machine types and configurations, and an integrated SSD–backed data cache option.
+                    
+2 번째 검색 내용 
+제목 : 
+
+                            First Amazon EC2 Instances with Graviton3E Processors Now GA
+                        
+주소 : https://www.infoq.com/news/2023/07/aws-ec2-graviton3e/
+설명 : 
+                         AWS has recently announced the general availability of the C7gn and the Hpc7g instances, both using the new Graviton3E processors. The C7gn instances are designed for network-intensive workloads while the Hpc7g instances are tailored for high-performance computing ones.
+                    
+3 번째 검색 내용 
+제목 : 
+
+                            Azure Brings Vertical Scaling, Monitor Alerts and More for Apache Cassandra Managed Instance
+                        
+주소 : https://www.infoq.com/news/2023/07/azure-apache-cassandra-updates23/
+설명 : 
+                         Microsoft has recently released some new features for Azure Managed Instance for Apache Cassandra, such as upgrading the Apache Cassandra version to 4.0 GA, Azure Monitor alerts and insights, deallocating cluster resources to improve costs, vertical scaling and more.
+                    
+4 번째 검색 내용 
+제목 : 
+
+                            ASP.NET Core in .NET 8 Preview 6: Blazor Updates and More
+                        
+주소 : https://www.infoq.com/news/2023/07/aspnet-core-8-preview-6/
+설명 : 
+                         The latest release of .NET 8 Preview 6 brings significant additions and changes to ASP.NET Core. The most notable enhancements for this release of ASP.NET Core are related to the Blazor alongside the updates regarding the debugging experience, testing metrics, API authoring, servers, middleware and many more.
+                    
+5 번째 검색 내용 
+제목 : 
+
+                            A Culture of Continuous Experimentation: Learnings from QCon New York
+                        
+주소 : https://www.infoq.com/news/2023/07/culture-continuous-experiment/
+설명 : 
+                         At QCon New York 2023, Sarah Aslanifar presented Building a Culture of Continuous Experimentation. She showed how fostering a culture of continuous experimentation and leveraging the principle of continuous learning can drive efficiency, eliminate waste, and improve product outcomes.
+                    
+6 번째 검색 내용 
+제목 : 
+
+                            AWS Introduces New Clickstream Analytics on AWS Solution for Mobile and Web Applications
+                        
+주소 : https://www.infoq.com/news/2023/07/new-aws-clickstream-analytics/
+설명 : 
+                         AWS recently announced a new service called Clickstream Analytics on AWS, an end-to-end solution to collect, ingest, analyze, and visualize clickstream data inside organizations’ web and mobile applications.
+                    
+7 번째 검색 내용 
+제목 : 
+
+                            AI Assistant Comes to ReSharper
+                        
+주소 : https://www.infoq.com/news/2023/07/ai-assistant-resharper/
+설명 : 
+                         JetBrains released an AI-powered version of ReSharper, its developer productivity extension for Microsoft Visual Studio. The new version, ReSharper 2023.2, is the first that will come with AI-powered development assistance.
+                    
+8 번째 검색 내용 
+제목 : 
+
+                            Testing across a Large Number of Inputs with Property-Based Testing
+                        
+주소 : https://www.infoq.com/news/2023/07/property-based-testing/
+설명 : 
+                         Property-based testing is an approach that involves specifying statements that should always be true, rather than relying on specific examples. It enables you to test functions across a large number of inputs with fewer tests. Every run of a property-based test will use different inputs, which can give you confidence your code works in a general case.
+                    
+9 번째 검색 내용 
+제목 : 
+
+                            New AWS .NET Distributed Cache Provider for DynamoDB in Preview
+                        
+주소 : https://www.infoq.com/news/2023/07/aws-net-distributed-cache-dynamo/
+설명 : 
+                         Recently AWS announced the preview release of the AWS .NET Distributed Cache Provider for DynamoDB. This library enables Amazon DynamoDB to be used as the storage for ASP.NET Core’s distributed cache framework.
+                    
+10 번째 검색 내용 
+제목 : 
+
+                            New Migration Capabilities in Application Migration Service: Global View, Import/Export and More
+                        
+주소 : https://www.infoq.com/news/2023/07/aws-mgn-new-updates/
+설명 : 
+                         AWS recently announced three significant updates with Global View, Import and Export from local disk, and additional post-launch actions in the Application Migration Service (MGN) to enhance migration capabilities.
+                    
+11 번째 검색 내용 
+제목 : 
+
+                            Vaadin 24.1.0: Enhancing Web Application Development with New Features and Optimizations
+                        
+주소 : https://www.infoq.com/news/2023/07/vaadin-release-24/
+설명 : 
+                         Vaadin, the open-source platform for building business-oriented single-page web applications, has announced the release of Vaadin 24.1.0. This latest version brings a host of new features and improvements, further enhancing the platform's capabilities and providing developers with more tools to create robust, high-performing web applications.
+                    
+12 번째 검색 내용 
+제목 : 
+
+                            .NET Community Toolkit 8.2.1: New Code Fixers, Diagnostics and QoL Improvements
+                        
+주소 : https://www.infoq.com/news/2023/07/dot-net-community-toolkit-821/
+설명 : 
+                         Microsoft has published the latest version of its .NET Community Toolkit, version 8.2.1, with several new enhancements and features. According to the release, this new version brings quality-of-life improvements across all libraries, performance optimizations to the MVVM Toolkit source generators, new code fixers and improved diagnostics.
+                    
+13 번째 검색 내용 
+제목 : 
+
+                            Instacart Creates a Self-Serve Apache Flink Platform on Kubernetes
+                        
+주소 : https://www.infoq.com/news/2023/07/instacart-flink-kubernetes/
+설명 : 
+                         Instacart moved their Apache Flink workloads from AWS EMR to Kubernetes to meet the high demand for data processing use cases using Flink within the organization, as using EMR became problematic for many teams with different requirements. As a result, they made the platform easier to use and reduced their operational and infrastructure costs.
+                    
+14 번째 검색 내용 
+제목 : 
+
+                            How Spotify Carries through Experiments at Scale for Spotify Home
+                        
+주소 : https://www.infoq.com/news/2023/07/spotify-home-experiments-scale/
+설명 : 
+                         Spotify runs more than 250 online experiments annually on its Spotify Home platform, which are used by dozen of different teams. To accomplish running experiments at such scale, Spotify uses a number of different tools, explains Spotify product manager Nik Goyle.
+                    
+15 번째 검색 내용 
+제목 : 
+
+                            Modern Cryptography in OpenJDK: Introduction of Key Encapsulation Mechanisms API
+                        
+주소 : https://www.infoq.com/news/2023/07/modern-cryptography-on-openjdk/
+설명 : 
+                         JEP 452, Key Encapsulation Mechanism API, has been marked as completed for JDK 21. This JEP introduces a modern encryption technique for securing symmetric keys using public key cryptography. The API supports various KEM algorithms, including RSA-KEM, ECIES, and those under NIST's Post-Quantum Cryptography standardization.
+                    
