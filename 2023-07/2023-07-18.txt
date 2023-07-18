@@ -1,0 +1,135 @@
+1 번째 검색 내용 
+제목 : 
+
+                            Google Announces Graph for Understanding Artifact (GUAC) v0.1
+                        
+주소 : https://www.infoq.com/news/2023/07/google-announces-guac-0-1/
+설명 : 
+                         The Open Source Security Team at Google has recently introduced GUAC (Graph for Understanding Artifact) v0.1, a tool designed for security professionals. GUAC focuses on metadata synthesis and aggregation, addressing the requirement outlined in the U.S. Executive Order on Cybersecurity. This tool aims to assist security professionals in assessing the security posture of the supply chain.
+                    
+2 번째 검색 내용 
+제목 : 
+
+                            Micronaut 4.0.0 Brings Java Virtual Threads, GraalVM Support and Experimental HTTP/3 Features
+                        
+주소 : https://www.infoq.com/news/2023/07/micronaut-brings-virtual-thread/
+설명 : 
+                         The Micronaut Foundation has recently announced the general availability (GA) release of Micronaut Framework 4.0.0. This major release brings a plethora of updates and improvements to the popular JVM-based framework, enhancing its performance, modularity, and compatibility with other technologies.
+                    
+3 번째 검색 내용 
+제목 : 
+
+                            Microsoft Dev Box Now Generally Available
+                        
+주소 : https://www.infoq.com/news/2023/07/microsoft-azure-dev-box-ga/
+설명 : 
+                         Microsoft recently announced the general availability (GA) of Microsoft Dev Box, a service providing developers access to preconfigured and centrally managed dev boxes.
+                    
+4 번째 검색 내용 
+제목 : 
+
+                            Yelp Rebuilds Corrupted Cassandra Cluster Using Its Data Streaming Architecture
+                        
+주소 : https://www.infoq.com/news/2023/07/yelp-corrupted-cassandra-rebuild/
+설명 : 
+                         Yelp created a solution to sanitize data from the corrupted Apache Cassandra cluster utilizing its data streaming architecture. The team explored many potential options to address the data corruption issue but, ultimately, had to move the data into a new cluster to remove corrupted records in the process.
+                    
+5 번째 검색 내용 
+제목 : 
+
+                            Visual Studio 2022 17.7 Preview 3 With Productivity Updates
+                        
+주소 : https://www.infoq.com/news/2023/07/vs2022-v17-7-preview-3/
+설명 : 
+                         Microsoft has released the third preview of Visual Studio 2022 version 17.7. Preview 3 brings a range of improvements and features aimed at enhancing developer productivity and helping maintain clean code. Preview 3 is focused on a new tool called # includes cleanup for C++ developers. The latest version is already available for download.
+                    
+6 번째 검색 내용 
+제목 : 
+
+                            Java News Roundup: Micronaut 4.0, Payara Platform, Spring Web Flow 3.0, JetBrains AI Assistant
+                        
+주소 : https://www.infoq.com/news/2023/07/java-news-roundup-jul10-2023/
+설명 : 
+                         This week's Java roundup for July 10th, 2023 features news from JDK 22, JDK 21, Spring Web Flow 3.0, Micronaut 4.0, Payara Platform, point and milestone releases of: Spring projects, Open Liberty, Helidon, Hibernate Reactive, Tomcat, Micrometer Metrics and Tracing, Piranha, Project Reactor, JHipster, JHipster Lite, Yupiik Fusion, Maven and Gradle; and AI Assistant in JetBrains IDEs.
+                    
+7 번째 검색 내용 
+제목 : 
+
+                            Google Releases Cloud SQL Enterprise Plus for MySQL and PostgreSQL
+                        
+주소 : https://www.infoq.com/news/2023/07/google-cloud-sql-enterprise-plus/
+설명 : 
+                         Google Cloud recently announced the Cloud SQL Enterprise Plus edition for MySQL and PostgreSQL of the managed database service. The new edition provides performance optimizations for read and write operations, improved machine types and configurations, and an integrated SSD–backed data cache option.
+                    
+8 번째 검색 내용 
+제목 : 
+
+                            First Amazon EC2 Instances with Graviton3E Processors Now GA
+                        
+주소 : https://www.infoq.com/news/2023/07/aws-ec2-graviton3e/
+설명 : 
+                         AWS has recently announced the general availability of the C7gn and the Hpc7g instances, both using the new Graviton3E processors. The C7gn instances are designed for network-intensive workloads while the Hpc7g instances are tailored for high-performance computing ones.
+                    
+9 번째 검색 내용 
+제목 : 
+
+                            Azure Brings Vertical Scaling, Monitor Alerts and More for Apache Cassandra Managed Instance
+                        
+주소 : https://www.infoq.com/news/2023/07/azure-apache-cassandra-updates23/
+설명 : 
+                         Microsoft has recently released some new features for Azure Managed Instance for Apache Cassandra, such as upgrading the Apache Cassandra version to 4.0 GA, Azure Monitor alerts and insights, deallocating cluster resources to improve costs, vertical scaling and more.
+                    
+10 번째 검색 내용 
+제목 : 
+
+                            ASP.NET Core in .NET 8 Preview 6: Blazor Updates and More
+                        
+주소 : https://www.infoq.com/news/2023/07/aspnet-core-8-preview-6/
+설명 : 
+                         The latest release of .NET 8 Preview 6 brings significant additions and changes to ASP.NET Core. The most notable enhancements for this release of ASP.NET Core are related to the Blazor alongside the updates regarding the debugging experience, testing metrics, API authoring, servers, middleware and many more.
+                    
+11 번째 검색 내용 
+제목 : 
+
+                            A Culture of Continuous Experimentation: Learnings from QCon New York
+                        
+주소 : https://www.infoq.com/news/2023/07/culture-continuous-experiment/
+설명 : 
+                         At QCon New York 2023, Sarah Aslanifar presented Building a Culture of Continuous Experimentation. She showed how fostering a culture of continuous experimentation and leveraging the principle of continuous learning can drive efficiency, eliminate waste, and improve product outcomes.
+                    
+12 번째 검색 내용 
+제목 : 
+
+                            AWS Introduces New Clickstream Analytics on AWS Solution for Mobile and Web Applications
+                        
+주소 : https://www.infoq.com/news/2023/07/new-aws-clickstream-analytics/
+설명 : 
+                         AWS recently announced a new service called Clickstream Analytics on AWS, an end-to-end solution to collect, ingest, analyze, and visualize clickstream data inside organizations’ web and mobile applications.
+                    
+13 번째 검색 내용 
+제목 : 
+
+                            AI Assistant Comes to ReSharper
+                        
+주소 : https://www.infoq.com/news/2023/07/ai-assistant-resharper/
+설명 : 
+                         JetBrains released an AI-powered version of ReSharper, its developer productivity extension for Microsoft Visual Studio. The new version, ReSharper 2023.2, is the first that will come with AI-powered development assistance.
+                    
+14 번째 검색 내용 
+제목 : 
+
+                            Testing across a Large Number of Inputs with Property-Based Testing
+                        
+주소 : https://www.infoq.com/news/2023/07/property-based-testing/
+설명 : 
+                         Property-based testing is an approach that involves specifying statements that should always be true, rather than relying on specific examples. It enables you to test functions across a large number of inputs with fewer tests. Every run of a property-based test will use different inputs, which can give you confidence your code works in a general case.
+                    
+15 번째 검색 내용 
+제목 : 
+
+                            New AWS .NET Distributed Cache Provider for DynamoDB in Preview
+                        
+주소 : https://www.infoq.com/news/2023/07/aws-net-distributed-cache-dynamo/
+설명 : 
+                         Recently AWS announced the preview release of the AWS .NET Distributed Cache Provider for DynamoDB. This library enables Amazon DynamoDB to be used as the storage for ASP.NET Core’s distributed cache framework.
+                    
