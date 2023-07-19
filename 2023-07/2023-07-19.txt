@@ -1,13 +1,49 @@
 1 번째 검색 내용 
 제목 : 
 
+                            Bun Releases Native Bundler and Introduces Macros
+                        
+주소 : https://www.infoq.com/news/2023/07/bun-native-bundler-macros/
+설명 : 
+                         Bun is an all-in-one toolkit for JavaScript and TypeScript apps that aims to replace Node.js. Bun has recently launched its fast native JavaScript bundler, bringing enhanced bundling capabilities to the Bun ecosystem. The new bundler, now in beta, offers a comprehensive set of features and tools to simplify and accelerate the process of building frontend applications.
+                    
+2 번째 검색 내용 
+제목 : 
+
+                            Microsoft Azure Cross-Region (Global) Load Balancer Now Generally Available
+                        
+주소 : https://www.infoq.com/news/2023/07/azure-crossregion-load-balancer/
+설명 : 
+                         Microsoft recently announced the general availability (GA) of Azure cross-region (Global) Load Balancer in all Azure public and national cloud regions.
+                    
+3 번째 검색 내용 
+제목 : 
+
+                            LinkedIn Adopts Protocol Buffers for Microservices Integration and Reduces Latency by up to 60%
+                        
+주소 : https://www.infoq.com/news/2023/07/linkedin-protocol-buffers-restli/
+설명 : 
+                         LinkedIn adopted Protocol Buffers for exchanging data between microservices more efficiently across its platform and integrated it with Rest.li, their open-source REST framework. After the company-wide rollout, they reduced the latency by up to 60% and improved resource utilization at the same time.
+                    
+4 번째 검색 내용 
+제목 : 
+
+                            Introduction to Mojo Programming Language
+                        
+주소 : https://www.infoq.com/news/2023/07/mojo-programming-language/
+설명 : 
+                         Mojo is a newly presented programming language that combines the simplicity of Python with the speed and memory security of Rust. It is at an early stage of development and offers users an online playground to explore its features. Mojo aims for excellence in data science and machine learning, providing a fast alternative to Python. There are plans to make it available to open-source gradually.
+                    
+5 번째 검색 내용 
+제목 : 
+
                             Kotlin 1.9 Brings New Language Features and Improved Multiplatform/Native Support
                         
 주소 : https://www.infoq.com/news/2023/07/kotlin-1-9-released/
 설명 : 
                          The latest release of Kotlin introduces a number of new language features, including the ..< operator for open ranges, extended regular expressions, and more. Additionally, it brings improvements to both Kotlin Multiplatform and Kotlin/Native.
                     
-2 번째 검색 내용 
+6 번째 검색 내용 
 제목 : 
 
                             Approaches and Techniques to Break Down Silos: Learnings from QCon New York
@@ -16,7 +52,7 @@
 설명 : 
                          At QCon New York 2023, Emily Webber presented Bridging Silos and Overcoming Collaboration Antipatterns in Multidisciplinary Organisations, where she showed a worrying trend in the industry of specialisation and silos at the expense of collaboration, shared responsibility, and valuable outcomes. She shared some approaches and techniques to break silos down to work together better.
                     
-3 번째 검색 내용 
+7 번째 검색 내용 
 제목 : 
 
                             Berkeley Open-Sources AI Image-Editing Model InstructPix2Pix
@@ -25,7 +61,7 @@
 설명 : 
                          Researchers from the Berkeley Artificial Intelligence Research (BAIR) Lab have open-sourced InstructPix2Pix, a deep-learning model that follows human instructions to edit images. InstructPix2Pix was trained on synthetic data and outperforms a baseline AI image-editing model.
                     
-4 번째 검색 내용 
+8 번째 검색 내용 
 제목 : 
 
                             EU AI Act: The Regulatory Framework on the Usage of Machine Learning in the European Union
@@ -34,7 +70,7 @@
 설명 : 
                          After the first publication of the proposal on the operation of machine learning applications in 2021, on June 14th negotiations have started for the realization of the legislation in the EU Council. The EU countries are expected to reach an agreement by the end of 2023. The EU Act takes a risk-based approach and plans to avoid disproportionate prescriptions when executing the regulations.
                     
-5 번째 검색 내용 
+9 번째 검색 내용 
 제목 : 
 
                             AWS Lambda Recursive Loop Detection: Prevent Functions Running in a Recursive or Infinite Loop
@@ -42,7 +78,7 @@
 주소 : https://www.infoq.com/news/2023/07/detecting-loops-aws-lambda/
 설명 : 
 
-6 번째 검색 내용 
+10 번째 검색 내용 
 제목 : 
 
                             Databricks Unveils Lakehouse AI and MosaicML Acquisition at Data + AI Summit
@@ -51,7 +87,7 @@
 설명 : 
                          The Data and AI company Databricks recently unveiled Lakehouse AI, a suite of tools for building and governing generative AI models, including large language models (LLMs), within the Databricks platform. Among the tools were LakehouseIQ, a "knowledge engine" that uses AI to understand a company's unique data, culture, and language in order to improve natural language interfaces like chatbots.
                     
-7 번째 검색 내용 
+11 번째 검색 내용 
 제목 : 
 
                             Google Announces Graph for Understanding Artifact (GUAC) v0.1
@@ -60,7 +96,7 @@
 설명 : 
                          The Open Source Security Team at Google has recently introduced GUAC (Graph for Understanding Artifact) v0.1, a tool designed for security professionals. GUAC focuses on metadata synthesis and aggregation, addressing the requirement outlined in the U.S. Executive Order on Cybersecurity. This tool aims to assist security professionals in assessing the security posture of the supply chain.
                     
-8 번째 검색 내용 
+12 번째 검색 내용 
 제목 : 
 
                             Micronaut 4.0.0 Brings Java Virtual Threads, GraalVM Support and Experimental HTTP/3 Features
@@ -69,7 +105,7 @@
 설명 : 
                          The Micronaut Foundation has recently announced the general availability (GA) release of Micronaut Framework 4.0.0. This major release brings a plethora of updates and improvements to the popular JVM-based framework, enhancing its performance, modularity, and compatibility with other technologies.
                     
-9 번째 검색 내용 
+13 번째 검색 내용 
 제목 : 
 
                             Microsoft Dev Box Now Generally Available
@@ -78,7 +114,7 @@
 설명 : 
                          Microsoft recently announced the general availability (GA) of Microsoft Dev Box, a service providing developers access to preconfigured and centrally managed dev boxes.
                     
-10 번째 검색 내용 
+14 번째 검색 내용 
 제목 : 
 
                             Yelp Rebuilds Corrupted Cassandra Cluster Using Its Data Streaming Architecture
@@ -87,7 +123,7 @@
 설명 : 
                          Yelp created a solution to sanitize data from the corrupted Apache Cassandra cluster utilizing its data streaming architecture. The team explored many potential options to address the data corruption issue but, ultimately, had to move the data into a new cluster to remove corrupted records in the process.
                     
-11 번째 검색 내용 
+15 번째 검색 내용 
 제목 : 
 
                             Visual Studio 2022 17.7 Preview 3 With Productivity Updates
@@ -95,40 +131,4 @@
 주소 : https://www.infoq.com/news/2023/07/vs2022-v17-7-preview-3/
 설명 : 
                          Microsoft has released the third preview of Visual Studio 2022 version 17.7. Preview 3 brings a range of improvements and features aimed at enhancing developer productivity and helping maintain clean code. Preview 3 is focused on a new tool called # includes cleanup for C++ developers. The latest version is already available for download.
-                    
-12 번째 검색 내용 
-제목 : 
-
-                            Java News Roundup: Micronaut 4.0, Payara Platform, Spring Web Flow 3.0, JetBrains AI Assistant
-                        
-주소 : https://www.infoq.com/news/2023/07/java-news-roundup-jul10-2023/
-설명 : 
-                         This week's Java roundup for July 10th, 2023 features news from JDK 22, JDK 21, Spring Web Flow 3.0, Micronaut 4.0, Payara Platform, point and milestone releases of: Spring projects, Open Liberty, Helidon, Hibernate Reactive, Tomcat, Micrometer Metrics and Tracing, Piranha, Project Reactor, JHipster, JHipster Lite, Yupiik Fusion, Maven and Gradle; and AI Assistant in JetBrains IDEs.
-                    
-13 번째 검색 내용 
-제목 : 
-
-                            Google Releases Cloud SQL Enterprise Plus for MySQL and PostgreSQL
-                        
-주소 : https://www.infoq.com/news/2023/07/google-cloud-sql-enterprise-plus/
-설명 : 
-                         Google Cloud recently announced the Cloud SQL Enterprise Plus edition for MySQL and PostgreSQL of the managed database service. The new edition provides performance optimizations for read and write operations, improved machine types and configurations, and an integrated SSD–backed data cache option.
-                    
-14 번째 검색 내용 
-제목 : 
-
-                            First Amazon EC2 Instances with Graviton3E Processors Now GA
-                        
-주소 : https://www.infoq.com/news/2023/07/aws-ec2-graviton3e/
-설명 : 
-                         AWS has recently announced the general availability of the C7gn and the Hpc7g instances, both using the new Graviton3E processors. The C7gn instances are designed for network-intensive workloads while the Hpc7g instances are tailored for high-performance computing ones.
-                    
-15 번째 검색 내용 
-제목 : 
-
-                            Azure Brings Vertical Scaling, Monitor Alerts and More for Apache Cassandra Managed Instance
-                        
-주소 : https://www.infoq.com/news/2023/07/azure-apache-cassandra-updates23/
-설명 : 
-                         Microsoft has recently released some new features for Azure Managed Instance for Apache Cassandra, such as upgrading the Apache Cassandra version to 4.0 GA, Azure Monitor alerts and insights, deallocating cluster resources to improve costs, vertical scaling and more.
                     
