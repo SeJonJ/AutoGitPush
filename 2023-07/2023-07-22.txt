@@ -1,13 +1,22 @@
 1 번째 검색 내용 
 제목 : 
 
+                            Google Releases Hive-BigQuery Open-Source Connector
+                        
+주소 : https://www.infoq.com/news/2023/07/google-hive-bigquery-connector/
+설명 : 
+                         Google recently announced the general availability of the Hive-BigQuery Connector, simplifying integration and migrations between Apache Hive and Google BigQuery. The open-source connector is a Hive storage handler that enables Hive to interact with BigQuery's storage layer.
+                    
+2 번째 검색 내용 
+제목 : 
+
                             Microsoft Introduces the Public Preview of Vector Search Feature in Azure Cognitive Search
                         
 주소 : https://www.infoq.com/news/2023/07/microsoft-launches-vector-search/
 설명 : 
                          At its annual Inspire conference, Microsoft recently announced the public preview of Vector search in Azure Cognitive Search, a capability for building applications powered by large language models. It is a new capability for indexing, storing, and retrieving vector embeddings from a search index.
                     
-2 번째 검색 내용 
+3 번째 검색 내용 
 제목 : 
 
                             .NET MAUI 8 Preview 6: Visual Studio Code Extension, Bug Fixes & Native AOT for iOS
@@ -16,7 +25,7 @@
 설명 : 
                          Microsoft has recently released the sixth preview of the .NET Multi-platform App UI (MAUI) framework in .NET 8 roadmap. As reported, this latest release resolves a number of high-impact issues, including Visual Studio for Mac 17.6.1 support, Native AOT for iOS and the new Visual Studio Code extension for .NET MAUI development.
                     
-3 번째 검색 내용 
+4 번째 검색 내용 
 제목 : 
 
                             Meta AI Reveals CM3leon, an Advanced Text-to-Image Generative Model
@@ -25,7 +34,7 @@
 설명 : 
                          Meta AI has introduced CM3leon, a novel multimodal model combining text and image production. This model is the first of its type, using a modified formula from text-only language models to deliver remarkable outcomes with unequaled computational efficiency.
                     
-4 번째 검색 내용 
+5 번째 검색 내용 
 제목 : 
 
                             Sustainable Software Systems Using Circular Economy Principles
@@ -34,7 +43,7 @@
 설명 : 
                          The circular economy is a framework that aims to keep products and materials in use for as long as possible, reducing waste and pollution, and regenerating natural systems. As practitioners or change enablers, we can support sustainable product development using concepts from the circular economy in our daily work.
                     
-5 번째 검색 내용 
+6 번째 검색 내용 
 제목 : 
 
                             Microsoft Azure Managed Lustre for HPC and AI Workloads Now Generally Available
@@ -43,7 +52,7 @@
 설명 : 
                          Microsoft recently announced the general availability (GA) of Azure Managed Lustre, a managed file system for high-performance computing (HPC) and AI workloads.
                     
-6 번째 검색 내용 
+7 번째 검색 내용 
 제목 : 
 
                             Bun Releases Native Bundler and Introduces Macros
@@ -52,7 +61,7 @@
 설명 : 
                          Bun is an all-in-one toolkit for JavaScript and TypeScript apps that aims to replace Node.js. Bun has recently launched its fast native JavaScript bundler, bringing enhanced bundling capabilities to the Bun ecosystem. The new bundler, now in beta, offers a comprehensive set of features and tools to simplify and accelerate the process of building frontend applications.
                     
-7 번째 검색 내용 
+8 번째 검색 내용 
 제목 : 
 
                             Microsoft Azure Cross-Region (Global) Load Balancer Now Generally Available
@@ -61,7 +70,7 @@
 설명 : 
                          Microsoft recently announced the general availability (GA) of Azure cross-region (Global) Load Balancer in all Azure public and national cloud regions.
                     
-8 번째 검색 내용 
+9 번째 검색 내용 
 제목 : 
 
                             LinkedIn Adopts Protocol Buffers for Microservices Integration and Reduces Latency by up to 60%
@@ -70,7 +79,7 @@
 설명 : 
                          LinkedIn adopted Protocol Buffers for exchanging data between microservices more efficiently across its platform and integrated it with Rest.li, their open-source REST framework. After the company-wide rollout, they reduced the latency by up to 60% and improved resource utilization at the same time.
                     
-9 번째 검색 내용 
+10 번째 검색 내용 
 제목 : 
 
                             Introduction to Mojo Programming Language
@@ -79,7 +88,7 @@
 설명 : 
                          Mojo is a newly presented programming language that combines the simplicity of Python with the speed and memory security of Rust. It is at an early stage of development and offers users an online playground to explore its features. Mojo aims for excellence in data science and machine learning, providing a fast alternative to Python. There are gradual plans to make it available to open-source.
                     
-10 번째 검색 내용 
+11 번째 검색 내용 
 제목 : 
 
                             Kotlin 1.9 Brings New Language Features and Improved Multiplatform/Native Support
@@ -88,7 +97,7 @@
 설명 : 
                          The latest release of Kotlin introduces a number of new language features, including the ..< operator for open ranges, extended regular expressions, and more. Additionally, it brings improvements to both Kotlin Multiplatform and Kotlin/Native.
                     
-11 번째 검색 내용 
+12 번째 검색 내용 
 제목 : 
 
                             Approaches and Techniques to Break Down Silos: Learnings from QCon New York
@@ -96,15 +105,6 @@
 주소 : https://www.infoq.com/news/2023/07/break-down-silos/
 설명 : 
                          At QCon New York 2023, Emily Webber presented Bridging Silos and Overcoming Collaboration Antipatterns in Multidisciplinary Organisations, where she showed a worrying trend in the industry of specialisation and silos at the expense of collaboration, shared responsibility, and valuable outcomes. She shared some approaches and techniques to break silos down to work together better.
-                    
-12 번째 검색 내용 
-제목 : 
-
-                            Berkeley Open-Sources AI Image-Editing Model InstructPix2Pix
-                        
-주소 : https://www.infoq.com/news/2023/07/berkeley-instruct-pix2pix/
-설명 : 
-                         Researchers from the Berkeley Artificial Intelligence Research (BAIR) Lab have open-sourced InstructPix2Pix, a deep-learning model that follows human instructions to edit images. InstructPix2Pix was trained on synthetic data and outperforms a baseline AI image-editing model.
                     
 13 번째 검색 내용 
 제목 : 
@@ -118,17 +118,17 @@
 14 번째 검색 내용 
 제목 : 
 
+                            Berkeley Open-Sources AI Image-Editing Model InstructPix2Pix
+                        
+주소 : https://www.infoq.com/news/2023/07/berkeley-instruct-pix2pix/
+설명 : 
+                         Researchers from the Berkeley Artificial Intelligence Research (BAIR) Lab have open-sourced InstructPix2Pix, a deep-learning model that follows human instructions to edit images. InstructPix2Pix was trained on synthetic data and outperforms a baseline AI image-editing model.
+                    
+15 번째 검색 내용 
+제목 : 
+
                             AWS Lambda Recursive Loop Detection: Prevent Functions Running in a Recursive or Infinite Loop
                         
 주소 : https://www.infoq.com/news/2023/07/detecting-loops-aws-lambda/
 설명 : 
 
-15 번째 검색 내용 
-제목 : 
-
-                            Databricks Unveils Lakehouse AI and MosaicML Acquisition at Data + AI Summit
-                        
-주소 : https://www.infoq.com/news/2023/07/lakehouse-ai-mosaicml/
-설명 : 
-                         The Data and AI company Databricks recently unveiled Lakehouse AI, a suite of tools for building and governing generative AI models, including large language models (LLMs), within the Databricks platform. Among the tools were LakehouseIQ, a "knowledge engine" that uses AI to understand a company's unique data, culture, and language in order to improve natural language interfaces like chatbots.
-                    
