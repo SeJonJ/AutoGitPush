@@ -1,13 +1,22 @@
 1 번째 검색 내용 
 제목 : 
 
+                            Pfizer Uses Serverless Architecture on AWS to Scale Processing of Digital Biomarkers
+                        
+주소 : https://www.infoq.com/news/2023/07/pfizer-serverless-biomarkers/
+설명 : 
+                         Pfizer upgraded the serverless architecture for processing digital biomarker data at scale to make it more flexible and configurable. They created a framework that uses a file processing pipeline built with AWS Step Functions and other serverless services, as well as a custom Python package for data ingestion and processing.
+                    
+2 번째 검색 내용 
+제목 : 
+
                             Meta's Voicebox Outperforms State-of-the-Art Models on Speech Synthesis
                         
 주소 : https://www.infoq.com/news/2023/07/meta-tts-voicebox/
 설명 : 
                          Meta recently announced Voicebox, a speech generation model that can perform text-to-speech (TTS) synthesis in six languages, as well as edit and remove noise from speech recordings. Voicebox is trained on over 50k hours of audio data and outperforms previous state-of-the-art models on several TTS benchmarks.
                     
-2 번째 검색 내용 
+3 번째 검색 내용 
 제목 : 
 
                             AI, ML, Data Engineering News Round Up: Claude 2, Stable Doodle, CM3leon, Llama 2, Azure and xAI
@@ -16,7 +25,7 @@
 설명 : 
                          The most recent update, covering developments from July 17th, 2023, showcases significant progress and announcements in the fields of data science, machine learning, and artificial intelligence. This week's focus centers on Anthropic, Stability AI, Microsoft, Meta and xAI.
                     
-3 번째 검색 내용 
+4 번째 검색 내용 
 제목 : 
 
                             AWS Introduces Amazon Route 53 Resolver on AWS Outposts Rack
@@ -25,7 +34,7 @@
 설명 : 
                          AWS recently announced that Amazon Route 53 Resolver is now available on AWS Outposts rack providing on-premises services and applications with local Domain Name Service (DNS) resolution directly from Outposts. In addition, local Route 53 Resolver endpoints also enable DNS resolution between Outposts and on-premises DNS servers.
                     
-4 번째 검색 내용 
+5 번째 검색 내용 
 제목 : 
 
                             Java News Roundup: WildFly 29, JDK 21 in RDP2, Helidon 4.0-M1, Oracle Critical Patch Updates
@@ -34,7 +43,7 @@
 설명 : 
                          This week's Java roundup for July 17th, 2023 features news from JDK 22, JDK 21, JDK 20, BellSoft, releases of: Spring Boot; Spring Framework; Spring for GraphQL; Spring Session; Spring Integration and Spring HATEOAS; WildFly 29, Quarkus 3.2.1, Helidon 4.0-M1, Micronaut 4.0.1, Hibernate 6.3-CR1, MicroProfile Config 3.1, Infinispan 14.0.13, PrimeFaces 12.0.5, OpenXava 7.1.3 and Gradle 8.3-RC1.
                     
-5 번째 검색 내용 
+6 번째 검색 내용 
 제목 : 
 
                             Building Cyber-Physical Systems with Agile: Learnings from QCon New York
@@ -43,7 +52,7 @@
 설명 : 
                          In her QCon New York 2023 talk Success Patterns for building Cyber-Physical Systems with Agile, Robin Yeman explored how we can use agile practices at scale for large initiatives with multiple teams, building cyber-physical safety-critical systems with a scope that includes software, firmware, and hardware development.
                     
-6 번째 검색 내용 
+7 번째 검색 내용 
 제목 : 
 
                             Implementing Application Level Encryption at Scale: Insights from Atlassian’s Use of AWS and Cryptor
@@ -52,7 +61,7 @@
 설명 : 
                          Atlassian recently published how it performs Application Level Encryption at scale on AWS while utilising high cache hit rates and maintaining low costs. Atlassian's solution runs over 12,500 instances and manages over 1,540 KMS keys. It performs over 11 billion decryptions and 811 million encryptions daily, costing $2,500 per month versus a potential $1,000,000 per month using a naive solution.
                     
-7 번째 검색 내용 
+8 번째 검색 내용 
 제목 : 
 
                             Grammarly Replaces Its In-House Data Lake With Databricks Platform Using Medallion Architecture
@@ -61,7 +70,7 @@
 설명 : 
                          Grammarly adopted the medallion architecture while migrating from their in-house data lake, storing Parquet files in AWS S3, to the Delta Lake lakehouse. The company created a new event store for over 6000 event types from 40 internal and external clients and, in the process, improved data quality and reduced the data-delivery time by 94%.
                     
-8 번째 검색 내용 
+9 번째 검색 내용 
 제목 : 
 
                             GitHub Details Key Prompt Engineering Practices Used to Build Copilot
@@ -70,7 +79,7 @@
 설명 : 
                          Prompt engineering is key to create effective LLM-based applications and it does not require to have a PhD in machine learning or generative AI, say GitHub engineers Albert Ziegler and John Berryman, who also shared the lessons they learned developing GitHub Copilot.
                     
-9 번째 검색 내용 
+10 번째 검색 내용 
 제목 : 
 
                             JetBrains Unveils AI Assistant for IntelliJ-based IDEs and .NET Tools
@@ -79,7 +88,7 @@
 설명 : 
                          JetBrains, the software development company known for creating the IntelliJ IDEA, has announced the introduction of a new AI Assistant in its Early Access Program (EAP) builds for all IntelliJ-based IDEs and .NET tools. This significant addition is aimed at transforming the landscape of software development tools by integrating generative AI and large language models into JetBrains' products.
                     
-10 번째 검색 내용 
+11 번째 검색 내용 
 제목 : 
 
                             Google Introduces a Standalone Integration Platform as a Service on Their Cloud Platform
@@ -88,7 +97,7 @@
 설명 : 
                          Google recently announced the general availability of Google Cloud’s Application Integration – a standalone Integration Platform as a Service (iPaaS) designed to help customers connect their applications visually, without code.
                     
-11 번째 검색 내용 
+12 번째 검색 내용 
 제목 : 
 
                             Google Releases Hive-BigQuery Open-Source Connector
@@ -97,7 +106,7 @@
 설명 : 
                          Google recently announced the general availability of the Hive-BigQuery Connector, simplifying integration and migrations between Apache Hive and Google BigQuery. The open-source connector is a Hive storage handler that enables Hive to interact with BigQuery's storage layer.
                     
-12 번째 검색 내용 
+13 번째 검색 내용 
 제목 : 
 
                             Microsoft Introduces the Public Preview of Vector Search Feature in Azure Cognitive Search
@@ -106,7 +115,7 @@
 설명 : 
                          At its annual Inspire conference, Microsoft recently announced the public preview of Vector search in Azure Cognitive Search, a capability for building applications powered by large language models. It is a new capability for indexing, storing, and retrieving vector embeddings from a search index.
                     
-13 번째 검색 내용 
+14 번째 검색 내용 
 제목 : 
 
                             .NET MAUI 8 Preview 6: Visual Studio Code Extension, Bug Fixes & Native AOT for iOS
@@ -115,7 +124,7 @@
 설명 : 
                          Microsoft has recently released the sixth preview of the .NET Multi-platform App UI (MAUI) framework in .NET 8 roadmap. As reported, this latest release resolves a number of high-impact issues, including Visual Studio for Mac 17.6.1 support, Native AOT for iOS and the new Visual Studio Code extension for .NET MAUI development.
                     
-14 번째 검색 내용 
+15 번째 검색 내용 
 제목 : 
 
                             Meta AI Reveals CM3leon, an Advanced Text-to-Image Generative Model
@@ -123,13 +132,4 @@
 주소 : https://www.infoq.com/news/2023/07/meta-ai-cm3leon/
 설명 : 
                          Meta AI has introduced CM3leon, a novel multimodal model combining text and image production. This model is the first of its type, using a modified formula from text-only language models to deliver remarkable outcomes with unequaled computational efficiency.
-                    
-15 번째 검색 내용 
-제목 : 
-
-                            Sustainable Software Systems Using Circular Economy Principles
-                        
-주소 : https://www.infoq.com/news/2023/07/circular-economy-principles/
-설명 : 
-                         The circular economy is a framework that aims to keep products and materials in use for as long as possible, reducing waste and pollution, and regenerating natural systems. As practitioners or change enablers, we can support sustainable product development using concepts from the circular economy in our daily work.
                     
