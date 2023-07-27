@@ -1,0 +1,135 @@
+1 번째 검색 내용 
+제목 : 
+
+                            OpenJDK's JEP 451: Balancing Serviceability and Integrity in JVM
+                        
+주소 : https://www.infoq.com/news/2023/07/jep-451-balancing-serviceability/
+설명 : 
+                         JEP 451, Prepare to Disallow the Dynamic Loading of Agents, has been completed from Target status for JDK 21. This JEP has evolved from its original intent to disallow the dynamic loading of agents into a running JVM by default to issue warnings when agents are dynamically loaded into a running JVM.
+                    
+2 번째 검색 내용 
+제목 : 
+
+                            Docker Desktop 4.21 Brings Builds Beta, Docker Init and Scout Improvements, and More
+                        
+주소 : https://www.infoq.com/news/2023/07/docker-desktop-4-21/
+설명 : 
+                         Docker has released Docker Desktop 4.21. This version brings Docker Builds beta, support for new wasm runtimes, Docker Init support for Rust, Docker Scout dashboard enhancements, and more.
+                    
+3 번째 검색 내용 
+제목 : 
+
+                            LangChain - Working with Large Language Models, Made Easy
+                        
+주소 : https://www.infoq.com/news/2023/07/langchain-llm-made-easy/
+설명 : 
+                         LangChain is a framework that simplifies working with large language models (LLMs) such as OpenAI GPT4 or Google PaLM by providing abstractions for common use cases. It supports both JavaScript and Python.
+                    
+4 번째 검색 내용 
+제목 : 
+
+                            Microsoft Introduces Azure Deployment Stacks in Public Preview
+                        
+주소 : https://www.infoq.com/news/2023/07/azure-deployment-stacks-preview/
+설명 : 
+                         Microsoft recently announced the public preview of deployment stacks in Azure, a new resource type for managing a collection of Azure resources as a single unit for faster update and delete (cleanup). In addition, it brings more granular capabilities for preventing unwanted changes to resources.
+                    
+5 번째 검색 내용 
+제목 : 
+
+                            Pfizer Uses Serverless Architecture on AWS to Scale Processing of Digital Biomarkers
+                        
+주소 : https://www.infoq.com/news/2023/07/pfizer-serverless-biomarkers/
+설명 : 
+                         Pfizer upgraded the serverless architecture for processing digital biomarker data at scale to make it more flexible and configurable. They created a framework that uses a file processing pipeline built with AWS Step Functions and other serverless services, as well as a custom Python package for data ingestion and processing.
+                    
+6 번째 검색 내용 
+제목 : 
+
+                            Meta's Voicebox Outperforms State-of-the-Art Models on Speech Synthesis
+                        
+주소 : https://www.infoq.com/news/2023/07/meta-tts-voicebox/
+설명 : 
+                         Meta recently announced Voicebox, a speech generation model that can perform text-to-speech (TTS) synthesis in six languages, as well as edit and remove noise from speech recordings. Voicebox is trained on over 50k hours of audio data and outperforms previous state-of-the-art models on several TTS benchmarks.
+                    
+7 번째 검색 내용 
+제목 : 
+
+                            AI, ML, Data Engineering News Round Up: Claude 2, Stable Doodle, CM3leon, Llama 2, Azure and xAI
+                        
+주소 : https://www.infoq.com/news/2023/07/ai-ml-data-news-july17-2023/
+설명 : 
+                         The most recent update, covering developments from July 17th, 2023, showcases significant progress and announcements in the fields of data science, machine learning, and artificial intelligence. This week's focus centers on Anthropic, Stability AI, Microsoft, Meta and xAI.
+                    
+8 번째 검색 내용 
+제목 : 
+
+                            AWS Introduces Amazon Route 53 Resolver on AWS Outposts Rack
+                        
+주소 : https://www.infoq.com/news/2023/07/aws-amazon-route53-resolver/
+설명 : 
+                         AWS recently announced that Amazon Route 53 Resolver is now available on AWS Outposts rack providing on-premises services and applications with local Domain Name Service (DNS) resolution directly from Outposts. In addition, local Route 53 Resolver endpoints also enable DNS resolution between Outposts and on-premises DNS servers.
+                    
+9 번째 검색 내용 
+제목 : 
+
+                            Java News Roundup: WildFly 29, JDK 21 in RDP2, Helidon 4.0-M1, Oracle Critical Patch Updates
+                        
+주소 : https://www.infoq.com/news/2023/07/java-news-roundup-jul17-2023/
+설명 : 
+                         This week's Java roundup for July 17th, 2023 features news from JDK 22, JDK 21, JDK 20, BellSoft, releases of: Spring Boot; Spring Framework; Spring for GraphQL; Spring Session; Spring Integration and Spring HATEOAS; WildFly 29, Quarkus 3.2.1, Helidon 4.0-M1, Micronaut 4.0.1, Hibernate 6.3-CR1, MicroProfile Config 3.1, Infinispan 14.0.13, PrimeFaces 12.0.5, OpenXava 7.1.3 and Gradle 8.3-RC1.
+                    
+10 번째 검색 내용 
+제목 : 
+
+                            Building Cyber-Physical Systems with Agile: Learnings from QCon New York
+                        
+주소 : https://www.infoq.com/news/2023/07/cyber-physical-systems-agile/
+설명 : 
+                         In her QCon New York 2023 talk Success Patterns for building Cyber-Physical Systems with Agile, Robin Yeman explored how we can use agile practices at scale for large initiatives with multiple teams, building cyber-physical safety-critical systems with a scope that includes software, firmware, and hardware development.
+                    
+11 번째 검색 내용 
+제목 : 
+
+                            Implementing Application Level Encryption at Scale: Insights from Atlassian’s Use of AWS and Cryptor
+                        
+주소 : https://www.infoq.com/news/2023/07/atlassian-encryption-at-scale/
+설명 : 
+                         Atlassian recently published how it performs Application Level Encryption at scale on AWS while utilising high cache hit rates and maintaining low costs. Atlassian's solution runs over 12,500 instances and manages over 1,540 KMS keys. It performs over 11 billion decryptions and 811 million encryptions daily, costing $2,500 per month versus a potential $1,000,000 per month using a naive solution.
+                    
+12 번째 검색 내용 
+제목 : 
+
+                            Grammarly Replaces Its In-House Data Lake With Databricks Platform Using Medallion Architecture
+                        
+주소 : https://www.infoq.com/news/2023/07/grammarly-medallion-architecture/
+설명 : 
+                         Grammarly adopted the medallion architecture while migrating from their in-house data lake, storing Parquet files in AWS S3, to the Delta Lake lakehouse. The company created a new event store for over 6000 event types from 40 internal and external clients and, in the process, improved data quality and reduced the data-delivery time by 94%.
+                    
+13 번째 검색 내용 
+제목 : 
+
+                            GitHub Details Key Prompt Engineering Practices Used to Build Copilot
+                        
+주소 : https://www.infoq.com/news/2023/07/copilot-prompt-engineering/
+설명 : 
+                         Prompt engineering is key to create effective LLM-based applications and it does not require to have a PhD in machine learning or generative AI, say GitHub engineers Albert Ziegler and John Berryman, who also shared the lessons they learned developing GitHub Copilot.
+                    
+14 번째 검색 내용 
+제목 : 
+
+                            JetBrains Unveils AI Assistant for IntelliJ-based IDEs and .NET Tools
+                        
+주소 : https://www.infoq.com/news/2023/07/jetbrains-unveils-ai-assistant/
+설명 : 
+                         JetBrains, the software development company known for creating the IntelliJ IDEA, has announced the introduction of a new AI Assistant in its Early Access Program (EAP) builds for all IntelliJ-based IDEs and .NET tools. This significant addition is aimed at transforming the landscape of software development tools by integrating generative AI and large language models into JetBrains' products.
+                    
+15 번째 검색 내용 
+제목 : 
+
+                            Google Introduces a Standalone Integration Platform as a Service on Their Cloud Platform
+                        
+주소 : https://www.infoq.com/news/2023/07/gcp-application-integration-ga/
+설명 : 
+                         Google recently announced the general availability of Google Cloud’s Application Integration – a standalone Integration Platform as a Service (iPaaS) designed to help customers connect their applications visually, without code.
+                    
