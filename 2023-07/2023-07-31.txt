@@ -1,0 +1,136 @@
+1 번째 검색 내용 
+제목 : 
+
+                            Microsoft Previews Azure Boost to Improve Remote Storage Throughput and IOPS Performance
+                        
+주소 : https://www.infoq.com/news/2023/07/azure-boost-remote-storage/
+설명 : 
+                         During the recent  Inspire 2023 conference, Microsoft announced the preview of Azure Boost to improve remote storage throughput and IOPS performance. Separating the hypervisor and host OS functions from the host infrastructure, the new option allows up to 10 Gbps throughput and  400K IOPS.
+                    
+2 번째 검색 내용 
+제목 : 
+
+                            Detecting Malicious Behaviour in GKE Using OSS Memory Analysis Tools
+                        
+주소 : https://www.infoq.com/news/2023/07/malicious-behaviour-gke/
+설명 : 
+                         The Spotify R&D team recently shared how they analyze the memory of a Google Kubernetes Engine (GKE) cluster node when suspicious behaviour is detected. The primary goal is to understand if something malicious is occurring within their workloads. A new methodology they developed is based on dumping the kernels of the cluster nodes using open source tools: AVML, dwarf2json, and Volatility 3.
+                    
+3 번째 검색 내용 
+제목 : 
+
+                            Amazon Aurora PostgreSQL Adds pgvector to Support Embeddings from Generative AI
+                        
+주소 : https://www.infoq.com/news/2023/07/aws-aurora-pgvector/
+설명 : 
+                         AWS recently announced that the PostgreSQL-compatible edition of Amazon Aurora now supports pgvector for vector storage and similarity search. Aurora is the latest managed PostgreSQL database supporting the open-source extension to store and search embeddings from machine learning models.
+                    
+4 번째 검색 내용 
+제목 : 
+
+                            Consul 1.16 Released with Reliability, UX and Security Improvements
+                        
+주소 : https://www.infoq.com/news/2023/07/consul-1-16/
+설명 : 
+                         Consul 1.16 - the latest version of Hashicorp's service mesh tool - has been released. This release contains many enhancements that improve service mesh reliability, user experience, and security.
+                    
+5 번째 검색 내용 
+제목 : 
+
+                            Meta Open Sources New AI Model Llama 2
+                        
+주소 : https://www.infoq.com/news/2023/07/meta-new-ai-model/
+설명 : 
+                         Meta is open-sourcing its large language model, Llama 2. The model’s code and weights are being made available free of charge for both research and commercial use. 
+Llama 2 is the result of the expanded partnership between Meta and Microsoft, with the latter being the preferred partner for the new model.
+                    
+6 번째 검색 내용 
+제목 : 
+
+                            Grab Reduces Traffic Cost for Kafka Consumers on AWS to Zero
+                        
+주소 : https://www.infoq.com/news/2023/07/grab-apache-kafka-aws-cost/
+설명 : 
+                         Grab took advantage of the ability of Apache Kafka consumers to connect to the broker node in the same availability zone (AZ) introduced in Kafka 2.3 and reduced the traffic cost on AWS to zero for reconfigured consumers. The change has substantially reduced overall infrastructure costs for running Apache Kafka on AWS.
+                    
+7 번째 검색 내용 
+제목 : 
+
+                            .NET Lambda Annotations Framework Now Generally Available
+                        
+주소 : https://www.infoq.com/news/2023/07/dotnet-lambda-framework/
+설명 : 
+                         .NET Lambda Annotations Framework is now generally available. It simplifies AWS Lambda development for .NET developers using custom attributes and source generators, allowing easy translation into standard Lambda programming during compilation. Moreover, it supports Dependency Injection and CloudFormation integration, improving Lambda function creation and deployment in AWS.
+                    
+8 번째 검색 내용 
+제목 : 
+
+                            GraalVM Gets Large Performance Boost, New Release Cadence and New License
+                        
+주소 : https://www.infoq.com/news/2023/07/graalvm-java-17-20/
+설명 : 
+                         The GraalVM Native Image Ahead-of-Time (AOT) compiler for Java creates native executables that start faster and use less memory. Oracle GraalVM for Java 17 and 20 makes three performance boosters free for production use under a new license. GraalVM will simultaneously release with Java, supporting the current Java and LTS versions, and the previous LTS version for one additional year.
+                    
+9 번째 검색 내용 
+제목 : 
+
+                            Android Studio Giraffe is Now Stable
+                        
+주소 : https://www.infoq.com/news/2023/07/android-studio-giraffe-stable/
+설명 : 
+                         Android Studio Giraffe is now stable, bringing in the new IntelliJ 2022.3, a new IDE look and feel, improved Live Edit, Compose animation previews, and more.
+                    
+10 번째 검색 내용 
+제목 : 
+
+                            Why Your Workloads Do Not Run on Renewable Energy (Yet) and What to Do about it
+                        
+주소 : https://www.infoq.com/news/2023/07/workloads-renewable-energy/
+설명 : 
+                         Renewable energy is an important step on the way to fight climate change. The energy produced by burning fossil resources is one of the main drivers of carbon emissions. But running a datacenter on renewable energy all the time is difficult. Usually - with only a few exceptions - your workloads do not run on renewable energy.
+                    
+11 번째 검색 내용 
+제목 : 
+
+                            Microsoft Announces Preview of Azure Application Gateway for Containers
+                        
+주소 : https://www.infoq.com/news/2023/07/azure-preview-gateway-containers/
+설명 : 
+                         Microsoft recently announced the preview of Azure Application Gateway for Containers - a new application (layer 7) load balancing and dynamic traffic management product for workloads running in a Kubernetes cluster. It extends Azure's Application Load Balancing portfolio and is a new offering under the Application Gateway product family.
+                    
+12 번째 검색 내용 
+제목 : 
+
+                            OpenJDK's JEP 451: Balancing Serviceability and Integrity in JVM
+                        
+주소 : https://www.infoq.com/news/2023/07/jep-451-balancing-serviceability/
+설명 : 
+                         JEP 451, Prepare to Disallow the Dynamic Loading of Agents, has been completed from Target status for JDK 21. This JEP has evolved from its original intent to disallow the dynamic loading of agents into a running JVM by default to issue warnings when agents are dynamically loaded into a running JVM.
+                    
+13 번째 검색 내용 
+제목 : 
+
+                            Docker Desktop 4.21 Brings Builds Beta, Docker Init and Scout Improvements, and More
+                        
+주소 : https://www.infoq.com/news/2023/07/docker-desktop-4-21/
+설명 : 
+                         Docker has released Docker Desktop 4.21. This version brings Docker Builds beta, support for new wasm runtimes, Docker Init support for Rust, Docker Scout dashboard enhancements, and more.
+                    
+14 번째 검색 내용 
+제목 : 
+
+                            LangChain - Working with Large Language Models, Made Easy
+                        
+주소 : https://www.infoq.com/news/2023/07/langchain-llm-made-easy/
+설명 : 
+                         LangChain is a framework that simplifies working with large language models (LLMs) such as OpenAI GPT4 or Google PaLM by providing abstractions for common use cases. It supports both JavaScript and Python.
+                    
+15 번째 검색 내용 
+제목 : 
+
+                            Microsoft Introduces Azure Deployment Stacks in Public Preview
+                        
+주소 : https://www.infoq.com/news/2023/07/azure-deployment-stacks-preview/
+설명 : 
+                         Microsoft recently announced the public preview of deployment stacks in Azure, a new resource type for managing a collection of Azure resources as a single unit for faster update and delete (cleanup). In addition, it brings more granular capabilities for preventing unwanted changes to resources.
+                    
