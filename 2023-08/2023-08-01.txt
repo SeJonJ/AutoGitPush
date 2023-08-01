@@ -1,0 +1,136 @@
+1 번째 검색 내용 
+제목 : 
+
+                            Java News Roundup: Grails 6.0, PrimeFaces 13.0, JUnit 5.10, GraalVM, TornadoVM, New JEP Drafts
+                        
+주소 : https://www.infoq.com/news/2023/07/java-news-roundup-jul24-2023/
+설명 : 
+                         This week's Java roundup for July 24th, 2023 features news from OpenJDK, JDK 22, JDK 21, GraalVM Community Components 23.0.1, Spring Cloud 2022.0.4, Spring Security and Spring Shell point releases, Grails 6.0, TornadoVM 0.15.2, Liberica NIK 23.0.1, PrimeFaces 13.0, Quarkus 3.2.2, Hibernate Reactive 2.0.4, Micronaut 4.0.2, JBang 0.110, JHipster Lite 0.39, JUnit 5.10 and Gradle 8.3-RC2.
+                    
+2 번째 검색 내용 
+제목 : 
+
+                            F# Extends its String Interpolation Syntax to Reduce Escaping
+                        
+주소 : https://www.infoq.com/news/2023/07/sharp-interpolation-syntax/
+설명 : 
+                         F# has introduced a new syntax feature in preview to make it easier to work with interpolated strings. The main advantage of the new syntax is it allows to customize how many curly braces delimit an interpolated expression, thus reducing the need for escaping special characters.
+                    
+3 번째 검색 내용 
+제목 : 
+
+                            Microsoft Releases .NET 8 Preview 6
+                        
+주소 : https://www.infoq.com/news/2023/07/ms-releases-dotnet-8-preview6/
+설명 : 
+                         Earlier this month, Microsoft released the sixth preview of .NET 8. The new version of the framework, expected to be released later this year, will be a Long Term Support (LTS) release. This preview brings performance improvements and features such as a new WASM mode, more source generators, library updates, and NativeAOT support on iOS.
+                    
+4 번째 검색 내용 
+제목 : 
+
+                            Amazon Bedrock Unveils New Agents Feature
+                        
+주소 : https://www.infoq.com/news/2023/07/aws-bedrock-ai-agents/
+설명 : 
+                         Amazon announced the release of agents for Amazon Bedrock, a new feature that allows developers to quickly create fully managed agents. By performing API calls to enterprise systems, agents for Amazon Bedrock speed up the release of generative AI applications that can manage and carry out activities.
+                    
+5 번째 검색 내용 
+제목 : 
+
+                            Introduction of Auth0 Templates for .NET
+                        
+주소 : https://www.infoq.com/news/2023/07/intro-of-auth0-net/
+설명 : 
+                         Auth0 Templates for .NET offers pre-built project templates with integrated Auth0 support for authentication and authorization. The development process is simplified, enabling the creation of Auth0-integrated .NET projects through familiar approaches from built-in templates. The project is open-source.
+                    
+6 번째 검색 내용 
+제목 : 
+
+                            Microsoft Previews Azure Boost to Improve Remote Storage Throughput and IOPS Performance
+                        
+주소 : https://www.infoq.com/news/2023/07/azure-boost-remote-storage/
+설명 : 
+                         During the recent  Inspire 2023 conference, Microsoft announced the preview of Azure Boost to improve remote storage throughput and IOPS performance. Separating the hypervisor and host OS functions from the host infrastructure, the new option allows up to 10 Gbps throughput and  400K IOPS.
+                    
+7 번째 검색 내용 
+제목 : 
+
+                            Detecting Malicious Behaviour in GKE Using OSS Memory Analysis Tools
+                        
+주소 : https://www.infoq.com/news/2023/07/malicious-behaviour-gke/
+설명 : 
+                         The Spotify R&D team recently shared how they analyze the memory of a Google Kubernetes Engine (GKE) cluster node when suspicious behaviour is detected. The primary goal is to understand if something malicious is occurring within their workloads. A new methodology they developed is based on dumping the kernels of the cluster nodes using open source tools: AVML, dwarf2json, and Volatility 3.
+                    
+8 번째 검색 내용 
+제목 : 
+
+                            Amazon Aurora PostgreSQL Adds pgvector to Support Embeddings from Generative AI
+                        
+주소 : https://www.infoq.com/news/2023/07/aws-aurora-pgvector/
+설명 : 
+                         AWS recently announced that the PostgreSQL-compatible edition of Amazon Aurora now supports pgvector for vector storage and similarity search. Aurora is the latest managed PostgreSQL database supporting the open-source extension to store and search embeddings from machine learning models.
+                    
+9 번째 검색 내용 
+제목 : 
+
+                            Consul 1.16 Released with Reliability, UX and Security Improvements
+                        
+주소 : https://www.infoq.com/news/2023/07/consul-1-16/
+설명 : 
+                         Consul 1.16 - the latest version of Hashicorp's service mesh tool - has been released. This release contains many enhancements that improve service mesh reliability, user experience, and security.
+                    
+10 번째 검색 내용 
+제목 : 
+
+                            Meta Open Sources New AI Model Llama 2
+                        
+주소 : https://www.infoq.com/news/2023/07/meta-new-ai-model/
+설명 : 
+                         Meta is open-sourcing its large language model, Llama 2. The model’s code and weights are being made available free of charge for both research and commercial use. 
+Llama 2 is the result of the expanded partnership between Meta and Microsoft, with the latter being the preferred partner for the new model.
+                    
+11 번째 검색 내용 
+제목 : 
+
+                            Grab Reduces Traffic Cost for Kafka Consumers on AWS to Zero
+                        
+주소 : https://www.infoq.com/news/2023/07/grab-apache-kafka-aws-cost/
+설명 : 
+                         Grab took advantage of the ability of Apache Kafka consumers to connect to the broker node in the same availability zone (AZ) introduced in Kafka 2.3 and reduced the traffic cost on AWS to zero for reconfigured consumers. The change has substantially reduced overall infrastructure costs for running Apache Kafka on AWS.
+                    
+12 번째 검색 내용 
+제목 : 
+
+                            .NET Lambda Annotations Framework Now Generally Available
+                        
+주소 : https://www.infoq.com/news/2023/07/dotnet-lambda-framework/
+설명 : 
+                         .NET Lambda Annotations Framework is now generally available. It simplifies AWS Lambda development for .NET developers using custom attributes and source generators, allowing easy translation into standard Lambda programming during compilation. Moreover, it supports Dependency Injection and CloudFormation integration, improving Lambda function creation and deployment in AWS.
+                    
+13 번째 검색 내용 
+제목 : 
+
+                            GraalVM Gets Large Performance Boost, New Release Cadence and New License
+                        
+주소 : https://www.infoq.com/news/2023/07/graalvm-java-17-20/
+설명 : 
+                         The GraalVM Native Image Ahead-of-Time (AOT) compiler for Java creates native executables that start faster and use less memory. Oracle GraalVM for Java 17 and 20 makes three performance boosters free for production use under a new license. GraalVM will simultaneously release with Java, supporting the current Java and LTS versions, and the previous LTS version for one additional year.
+                    
+14 번째 검색 내용 
+제목 : 
+
+                            Android Studio Giraffe Now Stable
+                        
+주소 : https://www.infoq.com/news/2023/07/android-studio-giraffe-stable/
+설명 : 
+                         Android Studio Giraffe is now stable, bringing in the new IntelliJ 2022.3, a new IDE look and feel, improved Live Edit, Compose animation previews, and more.
+                    
+15 번째 검색 내용 
+제목 : 
+
+                            Why Your Workloads Do Not Run on Renewable Energy (Yet) and What to Do about it
+                        
+주소 : https://www.infoq.com/news/2023/07/workloads-renewable-energy/
+설명 : 
+                         Renewable energy is an important step on the way to fight climate change. The energy produced by burning fossil resources is one of the main drivers of carbon emissions. But running a datacenter on renewable energy all the time is difficult. Usually - with only a few exceptions - your workloads do not run on renewable energy.
+                    
