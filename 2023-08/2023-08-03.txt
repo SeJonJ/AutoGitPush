@@ -1,13 +1,31 @@
 1 번째 검색 내용 
 제목 : 
 
+                            AWS Launches General Availability of Amazon EC2 P5 Instances for AI/ML and HPC Workloads
+                        
+주소 : https://www.infoq.com/news/2023/08/nvidia-aws-ec2-p5-ga/
+설명 : 
+                         AWS recently announced the general availability (GA) of Amazon EC2 P5 instances powered by the latest NVIDIA H100 Tensor Core GPUs suitable for users that require high performance and scalability in AI/ML and HPC workloads. The GA is a follow-up to the earlier announcement of the development of the infrastructure.
+                    
+2 번째 검색 내용 
+제목 : 
+
+                            Avalonia Reaches v11 GA Release
+                        
+주소 : https://www.infoq.com/news/2023/08/avalonia-v11-ga/
+설명 : 
+                         Beginning this month, the Avalonia team announced the release of version 11.0 of their framework, bringing significant changes and new features. These changes include features like automated testing capabilities, improved accessibility support, the introduction of Input Method Editor (IME) support for text input, and advanced text rendering and layout options.
+                    
+3 번째 검색 내용 
+제목 : 
+
                             AWS to Begin Charging for Public IPv4 Addresses
                         
 주소 : https://www.infoq.com/news/2023/08/aws-ec2-public-ipv4/
 설명 : 
                          AWS recently announced that starting from February 2024, they will be charging for public IPv4 addresses. According to the cloud provider, this change aligns AWS with other cloud providers, encourages frugal usage of a scarce resource, and accelerates the adoption of IPv6.
                     
-2 번째 검색 내용 
+4 번째 검색 내용 
 제목 : 
 
                             AWS Introduces a Generative AI-Powered Clinical Documentation Tool with HealthScribe in Preview
@@ -16,7 +34,7 @@
 설명 : 
                          AWS recently announced a new HIPAA-eligible service called AWS HealthScribe in a preview that uses speech recognition and generative AI (powered by Amazon Bedrock) to generate clinical documentation.
                     
-3 번째 검색 내용 
+5 번째 검색 내용 
 제목 : 
 
                             New C# 12 Preview Features Available
@@ -25,7 +43,7 @@
 설명 : 
                          Earlier this month, together with Visual Studio 17.7 Preview 3, Microsoft released new preview features for C# 12. The new language version will be the default for .NET 8, expected to be released later this year. The latest available features for C# 12 are inline arrays and interceptors (preview only).
                     
-4 번째 검색 내용 
+6 번째 검색 내용 
 제목 : 
 
                             Researchers Publish Attack Algorithm for ChatGPT and Other LLMs
@@ -34,7 +52,7 @@
 설명 : 
                          Researchers from Carnegie Mellon University (CMU) have published LLM Attacks, an algorithm for constructing adversarial attacks on a wide range of large language models (LLMs), including ChatGPT, Claude, and Bard. The attacks are generated automatically and are successful 84% of the time on GPT-3.5 and GPT-4, and 66% of the time on PaLM-2.
                     
-5 번째 검색 내용 
+7 번째 검색 내용 
 제목 : 
 
                             OpenTelemetry Protocol (OTLP) 1.0.0 Released
@@ -43,7 +61,7 @@
 설명 : 
                          Recently, the OpenTelemetry Protocol (OTLP) 1.0.0 was released. OLTP specification describes telemetry data's encoding, transport, and delivery mechanism between telemetry sources, intermediate nodes such as collectors, and telemetry backends. It is a general-purpose telemetry data delivery protocol designed in the scope of the OpenTelemetry project.
                     
-6 번째 검색 내용 
+8 번째 검색 내용 
 제목 : 
 
                             Java News Roundup: Grails 6.0, PrimeFaces 13.0, JUnit 5.10, GraalVM, TornadoVM, New JEP Drafts
@@ -52,7 +70,7 @@
 설명 : 
                          This week's Java roundup for July 24th, 2023, features news from OpenJDK, JDK 22, JDK 21, GraalVM Community Components 23.0.1, Spring Cloud 2022.0.4, Spring Security and Spring Shell point releases, Grails 6.0, TornadoVM 0.15.2, Liberica NIK 23.0.1, PrimeFaces 13.0, Quarkus 3.2.2, Hibernate Reactive 2.0.4, Micronaut 4.0.2, JBang 0.110, JHipster Lite 0.39, JUnit 5.10 and Gradle 8.3-RC2.
                     
-7 번째 검색 내용 
+9 번째 검색 내용 
 제목 : 
 
                             F# Extends its String Interpolation Syntax to Reduce Escaping
@@ -61,7 +79,7 @@
 설명 : 
                          F# has introduced a new syntax feature in preview to make it easier to work with interpolated strings. The main advantage of the new syntax is it allows to customize how many curly braces delimit an interpolated expression, thus reducing the need for escaping special characters.
                     
-8 번째 검색 내용 
+10 번째 검색 내용 
 제목 : 
 
                             Microsoft Releases .NET 8 Preview 6
@@ -70,7 +88,7 @@
 설명 : 
                          Earlier this month, Microsoft released the sixth preview of .NET 8. The new version of the framework, expected to be released later this year, will be a Long Term Support (LTS) release. This preview brings performance improvements and features such as a new WASM mode, more source generators, library updates, and NativeAOT support on iOS.
                     
-9 번째 검색 내용 
+11 번째 검색 내용 
 제목 : 
 
                             Amazon Bedrock Unveils New Agents Feature
@@ -79,7 +97,7 @@
 설명 : 
                          Amazon announced the release of agents for Amazon Bedrock, a new feature that allows developers to quickly create fully managed agents. By performing API calls to enterprise systems, agents for Amazon Bedrock speed up the release of generative AI applications that can manage and carry out activities.
                     
-10 번째 검색 내용 
+12 번째 검색 내용 
 제목 : 
 
                             Introduction of Auth0 Templates for .NET
@@ -88,7 +106,7 @@
 설명 : 
                          Auth0 Templates for .NET offers pre-built project templates with integrated Auth0 support for authentication and authorization. The development process is simplified, enabling the creation of Auth0-integrated .NET projects through familiar approaches from built-in templates. The project is open-source.
                     
-11 번째 검색 내용 
+13 번째 검색 내용 
 제목 : 
 
                             Microsoft Previews Azure Boost to Improve Remote Storage Throughput and IOPS Performance
@@ -97,7 +115,7 @@
 설명 : 
                          During the recent  Inspire 2023 conference, Microsoft announced the preview of Azure Boost to improve remote storage throughput and IOPS performance. Separating the hypervisor and host OS functions from the host infrastructure, the new option allows up to 10 Gbps throughput and  400K IOPS.
                     
-12 번째 검색 내용 
+14 번째 검색 내용 
 제목 : 
 
                             Detecting Malicious Behaviour in GKE Using OSS Memory Analysis Tools
@@ -106,7 +124,7 @@
 설명 : 
                          The Spotify R&D team recently shared how they analyze the memory of a Google Kubernetes Engine (GKE) cluster node when suspicious behaviour is detected. The primary goal is to understand if something malicious is occurring within their workloads. A new methodology they developed is based on dumping the kernels of the cluster nodes using open source tools: AVML, dwarf2json, and Volatility 3.
                     
-13 번째 검색 내용 
+15 번째 검색 내용 
 제목 : 
 
                             Amazon Aurora PostgreSQL Adds pgvector to Support Embeddings from Generative AI
@@ -114,23 +132,4 @@
 주소 : https://www.infoq.com/news/2023/07/aws-aurora-pgvector/
 설명 : 
                          AWS recently announced that the PostgreSQL-compatible edition of Amazon Aurora now supports pgvector for vector storage and similarity search. Aurora is the latest managed PostgreSQL database supporting the open-source extension to store and search embeddings from machine learning models.
-                    
-14 번째 검색 내용 
-제목 : 
-
-                            Consul 1.16 Released with Reliability, UX and Security Improvements
-                        
-주소 : https://www.infoq.com/news/2023/07/consul-1-16/
-설명 : 
-                         Consul 1.16 - the latest version of Hashicorp's service mesh tool - has been released. This release contains many enhancements that improve service mesh reliability, user experience, and security.
-                    
-15 번째 검색 내용 
-제목 : 
-
-                            Meta Open Sources New AI Model Llama 2
-                        
-주소 : https://www.infoq.com/news/2023/07/meta-new-ai-model/
-설명 : 
-                         Meta is open-sourcing its large language model, Llama 2. The model’s code and weights are being made available free of charge for both research and commercial use. 
-Llama 2 is the result of the expanded partnership between Meta and Microsoft, with the latter being the preferred partner for the new model.
                     
