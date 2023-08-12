@@ -1,13 +1,22 @@
 1 번째 검색 내용 
 제목 : 
 
+                            MySQL Changes Versioning Model Announcing First Innovation Release 8.1.0
+                        
+주소 : https://www.infoq.com/news/2023/08/mysql-innovation-release/
+설명 : 
+                         Oracle recently announced a change in the versioning model for MySQL, introducing the MySQL Innovation and Long-Term Supported releases. The first innovation release is MySQL 8.1.0 , which includes InnoDB cluster read replicas.
+                    
+2 번째 검색 내용 
+제목 : 
+
                             Chrome Supports Key Pinning on Android to Improve Security
                         
 주소 : https://www.infoq.com/news/2023/08/android-chrome-key-pinning/
 설명 : 
                          Key pinning, a technique used to prevent an attacker from tricking a vulnerable certificate authority (CA) into issuing an apparently valid certificate for a server, is now used in Chrome for Android, version 106, to help prevent man-in-the-middle attacks against Google services.
                     
-2 번째 검색 내용 
+3 번째 검색 내용 
 제목 : 
 
                             The Challenges of AI Product Development
@@ -16,7 +25,7 @@
 설명 : 
                          Developing artificial intelligence (AI) products involves creating models and feeding data to train them, testing the models, and deploying them. Software engineers can support the adoption of AI and machine learning (ML) in companies by building an understanding of the technologies, encouraging experimentation, and ensuring compliance with regulations and ethical standards.
                     
-3 번째 검색 내용 
+4 번째 검색 내용 
 제목 : 
 
                             Microsoft Announces General Availability for Its Telco Offering Azure Operator Nexus
@@ -25,7 +34,7 @@
 설명 : 
                          Microsoft recently announced the general availability (GA) of Azure Operator Nexus, a carrier-grade and hybrid platform built to allow telecom operators to modernize and transform their networks. It is designed to bring the performance and resiliency of carrier-grade network functions to traditional cloud infrastructures.
                     
-4 번째 검색 내용 
+5 번째 검색 내용 
 제목 : 
 
                             Ai4 2023 Day Two Main Stage Recap
@@ -34,7 +43,7 @@
 설명 : 
                          Day Two of Ai4 2023 conference was held on August 9th, 2023, at the MGM Grand hotel in Las Vegas, Nevada. This two-day event is organized by Fora Group and includes tracks focused on various industries, including automotive, financial, healthcare, and government. The day began with six mainstage presentations from leaders in AI technology.
                     
-5 번째 검색 내용 
+6 번째 검색 내용 
 제목 : 
 
                             Java Joins the Ranks in Semantic Kernel SDK
@@ -43,7 +52,7 @@
 설명 : 
                          Microsoft has announced the availability of its Semantic Kernel software development kit (SDK) for Java, designed to mesh Large Language Models (LLMs) with popular programming languages, extending support beyond C# and Python.
                     
-6 번째 검색 내용 
+7 번째 검색 내용 
 제목 : 
 
                             Google Makes it Easier to Create Go Applications on Google Cloud
@@ -52,7 +61,7 @@
 설명 : 
                          Google released four templates developers can use to bootstrap Go applications using gonew, an experimental tool aimed at instantiating Go projects.
                     
-7 번째 검색 내용 
+8 번째 검색 내용 
 제목 : 
 
                             Amazon EC2 M7i and M7i-flex Instances Now Available for General-Purpose Workloads
@@ -61,7 +70,7 @@
 설명 : 
                          AWS recently announced the general availability (GA) of Amazon EC2 M7i and M7i-flex instances, equipped with custom 4th Gen Intel Xeon Scalable processors (code name Sapphire Rapids). The Amazon EC2 M7i and M7i-flex instances are instance types intended for general-purpose workloads providing a balance of compute, memory, and networking resources.
                     
-8 번째 검색 내용 
+9 번째 검색 내용 
 제목 : 
 
                             ReSharper 2023.2: New Features, AI Assistant, and Predictive Debugger Mode
@@ -70,7 +79,7 @@
 설명 : 
                          Beginning this month, the JetBrains team announced the release of ReSharper version 2023.2, bringing significant new features for C# and C++ programming languages, performance improvements, alongside productivity tools related to unit testing, assembly difference analysis, AI Assistant and predictive debugger mode.
                     
-9 번째 검색 내용 
+10 번째 검색 내용 
 제목 : 
 
                             Ai4 2023 Day One Main Stage Recap
@@ -79,7 +88,7 @@
 설명 : 
                          Day One of Ai4 2023 conference was held on August 8th, 2023, at the MGM Grand hotel in Las Vegas, Nevada. This two-day event is organized by Fora Group and includes tracks focused on various industries, including automotive, financial, healthcare, and government. The day began with six mainstage presentations from leaders in AI technology.
                     
-10 번째 검색 내용 
+11 번째 검색 내용 
 제목 : 
 
                             Java News Roundup: Liberica JDK Performance Edition, GraalVM JDK 21 Builds, Open Liberty, Quarkus
@@ -88,7 +97,7 @@
 설명 : 
                          This week's Java roundup for July 31st, 2023, features news from OpenJDK, JDK 22, JDK 21, GlassFish 7.0.7, GraalVM JDK 21 Developer Builds, Liberica JDK Performance Edition, JNoSQL 1.0.1, Spring Tools 4.19.1, Open Liberty 23.0.0.8-beta and 23.0.0.7, Micronaut 4.0.3, Quarkus 3.2.3 and 2.16.9, Apache Camel 4.0.0-RC2, JHipster Lite 0.40, Ktor 2.3.3, Maven 3.9.4 and Gradle 8.3-RC3.
                     
-11 번째 검색 내용 
+12 번째 검색 내용 
 제목 : 
 
                             Cultivating Professional Relationships in Remote Teams
@@ -97,7 +106,7 @@
 설명 : 
                          Sumeet Moghe,  author of The Async-First Playbook, recently wrote about building cohesive professional relationships in teams. Similarly, Laurie Barth, senior software engineer at Netflix, has written about the use of intentional communication in making remote teams effective. We report on a number of techniques that they have shared for cultivating professional cohesion in remote teams.
                     
-12 번째 검색 내용 
+13 번째 검색 내용 
 제목 : 
 
                             Enhancing Security with Google Cloud's Service Account Key Expiry Feature
@@ -106,7 +115,7 @@
 설명 : 
                          Google Cloud has recently introduced service account key expiry to address security challenges associated with long-lived service account keys. With this capability, the company states that "customers can now configure an Organization Policy at the organization, folder, and project level to limit the usable duration of new service account keys”.
                     
-13 번째 검색 내용 
+14 번째 검색 내용 
 제목 : 
 
                             Unity Extension for Visual Studio Code: Preview Release
@@ -115,7 +124,7 @@
 설명 : 
                          Microsoft released the initial preview of its Unity extension for Visual Studio Code. Extension builds upon the existing C# Dev Kit and C# extensions, providing developers with a toolkit for Unity development across Windows, macOS, and Linux. The integration aims to simplify the coding and debugging experience for Unity developers, regardless of the platform while using Visual Studio Code.
                     
-14 번째 검색 내용 
+15 번째 검색 내용 
 제목 : 
 
                             Cadence 1.0: Uber Releases Its Scalable Workflow Orchestration Platform
@@ -123,13 +132,4 @@
 주소 : https://www.infoq.com/news/2023/08/uber-cadence-workflow-platform/
 설명 : 
                          Uber released a major version of its workflow orchestration platform named Cadence after six years in development. Uber and other companies use Cadence to build stateful services at scale using native programming languages.
-                    
-15 번째 검색 내용 
-제목 : 
-
-                            Tabnine Chat: AI Code Assistant Using Natural Language Launches in Beta
-                        
-주소 : https://www.infoq.com/news/2023/08/tabnine-chat-beta/
-설명 : 
-                         Tabnine has recently announced the beta of Tabnine Chat to interact with Tabnine’s AI models using natural language. The chat application works inside the IDE, allows organizations to train on permissive code only, and can run on isolated environment deployment.
                     
