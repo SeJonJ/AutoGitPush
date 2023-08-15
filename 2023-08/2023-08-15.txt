@@ -1,13 +1,22 @@
 1 번째 검색 내용 
 제목 : 
 
+                            Amazon Introduces AWS HealthImaging to Store and Analyze Medical Imaging Data
+                        
+주소 : https://www.infoq.com/news/2023/08/aws-healthimaging-medical-data/
+설명 : 
+                         At the recent AWS Summit in New York, Amazon announced AWS HealthImaging. The new HIPAA-eligible service helps healthcare providers to store, analyze, and share medical imaging data at scale.
+                    
+2 번째 검색 내용 
+제목 : 
+
                             Java News Roundup: Payara Cloud, MicroProfile Telemetry, Foojay.io Calendar, JVM Language Summit
                         
 주소 : https://www.infoq.com/news/2023/08/java-news-roundup-aug07-2023/
 설명 : 
                          This week's Java roundup for August 7th, 2023 features news from JDK 22, JDK 21, GraalVM Native Build Tools 0.9.24, Spring Cloud 2023.0.0-M1, Spring Modulith 1.0-RC1, Payara Cloud, Quarkus 3.2.4, MicroProfile Telemetry 1.1, OpenXava 7.1.4, Foojay.io calendar and JVM Language Summit 2023.
                     
-2 번째 검색 내용 
+3 번째 검색 내용 
 제목 : 
 
                             Oracle Data Provider for .Net: Asynchronous Programming, OpenTelemetry, and More
@@ -16,7 +25,7 @@
 설명 : 
                          Oracle prereleased a new version of Oracle Data Provider for .NET (ODP.NET), its ADO.NET data access library for the Oracle database. The new version, 23c, is available as a Developer Release, which means it is still not ready for production use. However, it already brings two of the most highly community-requested features: asynchronous programming and support to OpenTelemetry.
                     
-3 번째 검색 내용 
+4 번째 검색 내용 
 제목 : 
 
                             Ai4 2023 Panel Discussion: Generative AI in Business and Society
@@ -25,7 +34,7 @@
 설명 : 
                          The recent Ai4 conference featured a panel discussion titled "Generative AI in Business and Society." Some key takeaways are that generative AI offers many opportunities for operational efficiency and product personalization, that companies need to balance privacy concerns with personalization, and they need to understand how generative AI is used across their organization.
                     
-4 번째 검색 내용 
+5 번째 검색 내용 
 제목 : 
 
                             MySQL Changes Versioning Model Announcing First Innovation Release 8.1.0
@@ -34,7 +43,7 @@
 설명 : 
                          Oracle recently announced a change in the versioning model for MySQL, introducing the MySQL Innovation and Long-Term Supported releases. The first innovation release is MySQL 8.1.0 , which includes InnoDB cluster read replicas.
                     
-5 번째 검색 내용 
+6 번째 검색 내용 
 제목 : 
 
                             Chrome Supports Key Pinning on Android to Improve Security
@@ -43,7 +52,7 @@
 설명 : 
                          Key pinning, a technique used to prevent an attacker from tricking a vulnerable certificate authority (CA) into issuing an apparently valid certificate for a server, is now used in Chrome for Android, version 106, to help prevent man-in-the-middle attacks against Google services.
                     
-6 번째 검색 내용 
+7 번째 검색 내용 
 제목 : 
 
                             The Challenges of AI Product Development
@@ -52,7 +61,7 @@
 설명 : 
                          Developing artificial intelligence (AI) products involves creating models and feeding data to train them, testing the models, and deploying them. Software engineers can support the adoption of AI and machine learning (ML) in companies by building an understanding of the technologies, encouraging experimentation, and ensuring compliance with regulations and ethical standards.
                     
-7 번째 검색 내용 
+8 번째 검색 내용 
 제목 : 
 
                             Microsoft Announces General Availability for Its Telco Offering Azure Operator Nexus
@@ -61,7 +70,7 @@
 설명 : 
                          Microsoft recently announced the general availability (GA) of Azure Operator Nexus, a carrier-grade and hybrid platform built to allow telecom operators to modernize and transform their networks. It is designed to bring the performance and resiliency of carrier-grade network functions to traditional cloud infrastructures.
                     
-8 번째 검색 내용 
+9 번째 검색 내용 
 제목 : 
 
                             Ai4 2023 Summary Day Two: AI Legal Issues, AI in Education & Deploying AI
@@ -70,7 +79,7 @@
 설명 : 
                          Day Two of Ai4 2023 conference was held on August 9th, 2023, at the MGM Grand hotel in Las Vegas, Nevada. This two-day event is organized by Fora Group and includes tracks focused on various industries, including automotive, financial, healthcare, and government. The day began with six mainstage presentations from leaders in AI technology.
                     
-9 번째 검색 내용 
+10 번째 검색 내용 
 제목 : 
 
                             Semantic Kernel LLM Java SDK Now Available, Simplifying GenAI Integration
@@ -79,7 +88,7 @@
 설명 : 
                          Microsoft has announced the availability of its Semantic Kernel software development kit (SDK) for Java, designed to mesh Large Language Models (LLMs) with popular programming languages, extending support beyond C# and Python.
                     
-10 번째 검색 내용 
+11 번째 검색 내용 
 제목 : 
 
                             Google Makes it Easier to Create Go Applications on Google Cloud
@@ -88,7 +97,7 @@
 설명 : 
                          Google released four templates developers can use to bootstrap Go applications using gonew, an experimental tool aimed at instantiating Go projects.
                     
-11 번째 검색 내용 
+12 번째 검색 내용 
 제목 : 
 
                             Amazon EC2 M7i and M7i-flex Instances Now Available for General-Purpose Workloads
@@ -97,7 +106,7 @@
 설명 : 
                          AWS recently announced the general availability (GA) of Amazon EC2 M7i and M7i-flex instances, equipped with custom 4th Gen Intel Xeon Scalable processors (code name Sapphire Rapids). The Amazon EC2 M7i and M7i-flex instances are instance types intended for general-purpose workloads providing a balance of compute, memory, and networking resources.
                     
-12 번째 검색 내용 
+13 번째 검색 내용 
 제목 : 
 
                             ReSharper 2023.2: New Features, AI Assistant, and Predictive Debugger Mode
@@ -106,7 +115,7 @@
 설명 : 
                          Beginning this month, the JetBrains team announced the release of ReSharper version 2023.2, bringing significant new features for C# and C++ programming languages, performance improvements, alongside productivity tools related to unit testing, assembly difference analysis, AI Assistant and predictive debugger mode.
                     
-13 번째 검색 내용 
+14 번째 검색 내용 
 제목 : 
 
                             Ai4 2023 Summary Day One: AI-based Filmmaking, AI Responsible Use & Enterprise Adoption
@@ -115,7 +124,7 @@
 설명 : 
                          Day One of Ai4 2023 conference was held on August 8th, 2023, at the MGM Grand hotel in Las Vegas, Nevada. This two-day event is organized by Fora Group and includes tracks focused on various industries, including automotive, financial, healthcare, and government. The day began with six mainstage presentations from leaders in AI technology.
                     
-14 번째 검색 내용 
+15 번째 검색 내용 
 제목 : 
 
                             Java News Roundup: Liberica JDK Performance Edition, GraalVM JDK 21 Builds, Open Liberty, Quarkus
@@ -123,13 +132,4 @@
 주소 : https://www.infoq.com/news/2023/08/java-news-roundup-jul31-2023/
 설명 : 
                          This week's Java roundup for July 31st, 2023, features news from OpenJDK, JDK 22, JDK 21, GlassFish 7.0.7, GraalVM JDK 21 Developer Builds, Liberica JDK Performance Edition, JNoSQL 1.0.1, Spring Tools 4.19.1, Open Liberty 23.0.0.8-beta and 23.0.0.7, Micronaut 4.0.3, Quarkus 3.2.3 and 2.16.9, Apache Camel 4.0.0-RC2, JHipster Lite 0.40, Ktor 2.3.3, Maven 3.9.4 and Gradle 8.3-RC3.
-                    
-15 번째 검색 내용 
-제목 : 
-
-                            Cultivating Professional Relationships in Remote Teams
-                        
-주소 : https://www.infoq.com/news/2023/08/professional-relationships/
-설명 : 
-                         Sumeet Moghe,  author of The Async-First Playbook, recently wrote about building cohesive professional relationships in teams. Similarly, Laurie Barth, senior software engineer at Netflix, has written about the use of intentional communication in making remote teams effective. We report on a number of techniques that they have shared for cultivating professional cohesion in remote teams.
                     
