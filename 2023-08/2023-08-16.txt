@@ -1,0 +1,135 @@
+1 번째 검색 내용 
+제목 : 
+
+                            Ai4 2023: Generative AI Testing Lessons from Hussein Mehanna of Cruise
+                        
+주소 : https://www.infoq.com/news/2023/08/generative-ai-testing/
+설명 : 
+                         The recent Ai4 conference featured a talk by Hussein Mehanna of Cruise titled "How Autonomous Vehicles Will Inform And Improve AI Model Testing." Some key takeaways are that systems should handle the "long tail," developers should measure model output quality, and developers should push their systems to fail.
+                    
+2 번째 검색 내용 
+제목 : 
+
+                            Inside InfluxDB 3.0: Exploring InfluxDB’s Scalable and Decoupled Architecture
+                        
+주소 : https://www.infoq.com/news/2023/08/influxdb-3-architecture/
+설명 : 
+                         InfluxData recently unveiled the system architecture for InfluxDB 3.0, its newest time-series DB. Its architecture encompasses four major components responsible for data ingestion, querying, compaction, and garbage collection and includes two main storage types. The architecture caters to operating the DB on-premise and natively on major cloud providers.
+                    
+3 번째 검색 내용 
+제목 : 
+
+                            New Google Cloud H3 Virtual Machine Series for High-Performance Computing Workloads in Preview
+                        
+주소 : https://www.infoq.com/news/2023/08/google-cloud-hpc-vms-preview/
+설명 : 
+                         Recently Google launched a new H3 Virtual Machine (VM) Series designed for High-Performance Computing (HPC) workloads. The series of VMs are available in public preview for Compute Engine and Google Kubernetes Engine (GKE) users and offers 88 cores (Simultaneous multi-threading disabled) and 352 GB of memory.
+                    
+4 번째 검색 내용 
+제목 : 
+
+                            HashiCorp Adopts Business Source License for All Products
+                        
+주소 : https://www.infoq.com/news/2023/08/hashicorp-adopts-bsl/
+설명 : 
+                         HashiCorp, the maker of popular open source infrastructure as code (IaC) tooling such as Terraform and Vault, announced last week that it is changing its source code license from MPL 2.0 to the BSL 1.1 on all future releases of HashiCorp products. HashiCorp APIs, SDKs, and almost all other libraries will remain MPL 2.0. The initial community reaction has primarily been negative.
+                    
+5 번째 검색 내용 
+제목 : 
+
+                            Jupyter AI Brings Generative AI to Notebooks
+                        
+주소 : https://www.infoq.com/news/2023/08/jupyter-ai-notebooks/
+설명 : 
+                         The open-source Project Jupyter, used by millions for data science and machine learning, has released Jupyter AI, a free tool bringing powerful generative AI capabilities to Jupyter notebooks.
+                    
+6 번째 검색 내용 
+제목 : 
+
+                            AI, ML, Data Engineering News Roundup: Jupyter AI, AudioCraft, OverflowAI, StableCode and Tabnine
+                        
+주소 : https://www.infoq.com/news/2023/08/ai-ml-data-news-august7-2023/
+설명 : 
+                         The latest update, which covers developments until August 7, 2023, highlights significant accomplishments and statements made in the fields of artificial intelligence, machine learning, and data science. This week's major news involved Jupyter, Meta AI, Overflow, Stability AI and Tabnine.
+                    
+7 번째 검색 내용 
+제목 : 
+
+                            Amazon Introduces AWS HealthImaging to Store and Analyze Medical Imaging Data
+                        
+주소 : https://www.infoq.com/news/2023/08/aws-healthimaging-medical-data/
+설명 : 
+                         At the recent AWS Summit in New York, Amazon announced AWS HealthImaging. The new HIPAA-eligible service helps healthcare providers to store, analyze, and share medical imaging data at scale.
+                    
+8 번째 검색 내용 
+제목 : 
+
+                            Java News Roundup: Payara Cloud, MicroProfile Telemetry, Foojay.io Calendar, JVM Language Summit
+                        
+주소 : https://www.infoq.com/news/2023/08/java-news-roundup-aug07-2023/
+설명 : 
+                         This week's Java roundup for August 7th, 2023 features news from JDK 22, JDK 21, GraalVM Native Build Tools 0.9.24, Spring Cloud 2023.0.0-M1, Spring Modulith 1.0-RC1, Payara Cloud, Quarkus 3.2.4, MicroProfile Telemetry 1.1, OpenXava 7.1.4, Foojay.io calendar and JVM Language Summit 2023.
+                    
+9 번째 검색 내용 
+제목 : 
+
+                            Oracle Data Provider for .Net: Asynchronous Programming, OpenTelemetry, and More
+                        
+주소 : https://www.infoq.com/news/2023/08/odp-net-asynchronous-programming/
+설명 : 
+                         Oracle prereleased a new version of Oracle Data Provider for .NET (ODP.NET), its ADO.NET data access library for the Oracle database. The new version, 23c, is available as a Developer Release, which means it is still not ready for production use. However, it already brings two of the most highly community-requested features: asynchronous programming and support to OpenTelemetry.
+                    
+10 번째 검색 내용 
+제목 : 
+
+                            Ai4 2023 Panel Discussion: Generative AI in Business and Society
+                        
+주소 : https://www.infoq.com/news/2023/08/ai4-generative-ai-panel/
+설명 : 
+                         The recent Ai4 conference featured a panel discussion titled "Generative AI in Business and Society." Some key takeaways are that generative AI offers many opportunities for operational efficiency and product personalization, that companies need to balance privacy concerns with personalization, and they need to understand how generative AI is used across their organization.
+                    
+11 번째 검색 내용 
+제목 : 
+
+                            MySQL Changes Versioning Model Announcing First Innovation Release 8.1.0
+                        
+주소 : https://www.infoq.com/news/2023/08/mysql-innovation-release/
+설명 : 
+                         Oracle recently announced a change in the versioning model for MySQL, introducing the MySQL Innovation and Long-Term Supported releases. The first innovation release is MySQL 8.1.0 , which includes InnoDB cluster read replicas.
+                    
+12 번째 검색 내용 
+제목 : 
+
+                            Chrome Supports Key Pinning on Android to Improve Security
+                        
+주소 : https://www.infoq.com/news/2023/08/android-chrome-key-pinning/
+설명 : 
+                         Key pinning, a technique used to prevent an attacker from tricking a vulnerable certificate authority (CA) into issuing an apparently valid certificate for a server, is now used in Chrome for Android, version 106, to help prevent man-in-the-middle attacks against Google services.
+                    
+13 번째 검색 내용 
+제목 : 
+
+                            The Challenges of AI Product Development
+                        
+주소 : https://www.infoq.com/news/2023/08/AI-product-development/
+설명 : 
+                         Developing artificial intelligence (AI) products involves creating models and feeding data to train them, testing the models, and deploying them. Software engineers can support the adoption of AI and machine learning (ML) in companies by building an understanding of the technologies, encouraging experimentation, and ensuring compliance with regulations and ethical standards.
+                    
+14 번째 검색 내용 
+제목 : 
+
+                            Microsoft Announces General Availability for Its Telco Offering Azure Operator Nexus
+                        
+주소 : https://www.infoq.com/news/2023/08/azure-operator-nexus-ga/
+설명 : 
+                         Microsoft recently announced the general availability (GA) of Azure Operator Nexus, a carrier-grade and hybrid platform built to allow telecom operators to modernize and transform their networks. It is designed to bring the performance and resiliency of carrier-grade network functions to traditional cloud infrastructures.
+                    
+15 번째 검색 내용 
+제목 : 
+
+                            Ai4 2023 Summary Day Two: AI Legal Issues, AI in Education & Deploying AI
+                        
+주소 : https://www.infoq.com/news/2023/08/ai4-mainstage-day2/
+설명 : 
+                         Day Two of Ai4 2023 conference was held on August 9th, 2023, at the MGM Grand hotel in Las Vegas, Nevada. This two-day event is organized by Fora Group and includes tracks focused on various industries, including automotive, financial, healthcare, and government. The day began with six mainstage presentations from leaders in AI technology.
+                    
