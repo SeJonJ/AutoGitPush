@@ -1,0 +1,135 @@
+1 번째 검색 내용 
+제목 : 
+
+                            Keeping Go "Boring" in Go 1.21: How Google Grants Backward Compatibility
+                        
+주소 : https://www.infoq.com/news/2023/08/golang-backward-compatibility/
+설명 : 
+                         In a recent article, Google engineer Russ Cox detailed what Google does to make sure each new Go release honors Go's backward-compatibility guarantee. This includes generalizing GODEBUG in Go 1.21 to cover even subtle incompatibility cases.
+                    
+2 번째 검색 내용 
+제목 : 
+
+                            Faster Standard Retrievals from S3 Glacier Flexible Retrieval and S3 Batch Operations
+                        
+주소 : https://www.infoq.com/news/2023/08/amazon-s3-glacier-performance/
+설명 : 
+                         Recently AWS announced the general availability of faster standard retrievals from S3 Glacier Flexible Retrieval. According to the company, the retrieval can be up to 85% faster and applies to the Standard retrieval tier when using S3 Batch Operations.
+                    
+3 번째 검색 내용 
+제목 : 
+
+                            A Ruthless Approach for Better Security by Identifying Key Risks and Ignoring Others
+                        
+주소 : https://www.infoq.com/news/2023/08/better-security-key-risks/
+설명 : 
+                         Risk management techniques can be used to decide which security and privacy aspects are important. You can simplify the risk impact calculations by identifying low, medium and high and critical losses, and by taking likelihoods from the industry to do likelihood calculations. This helps you to identify a few key risks, and ruthlessly ignore the rest.
+                    
+4 번째 검색 내용 
+제목 : 
+
+                            New Downfall Attack Could Lead to Sensitive Data Leakage  on Intel Processors
+                        
+주소 : https://www.infoq.com/news/2023/08/downafall-attack-intel-cpus/
+설명 : 
+                         Security researcher Daniel Moghimi discovered a new side-channel vulnerability affecting Intel processors that could be exploited to steal data from other users or apps running on the same computer. Dubbed Downfall, the vulnerability has been patched by Intel and mitigated by most major OS vendors.
+                    
+5 번째 검색 내용 
+제목 : 
+
+                            ASP.NET Core in .NET 8 Preview 7: Blazor, Native AOT, Antiforgery and More
+                        
+주소 : https://www.infoq.com/news/2023/08/aspnet-core-8-preview-7/
+설명 : 
+                         The latest release of .NET 8 Preview 7 brings significant additions and changes to ASP.NET Core. The most notable enhancements for this release of ASP.NET Core are related to the Blazor alongside the updates regarding the Native AOT, Identity, new SPA Visual Studio templates, Antiforgery middleware additions and many more.
+                    
+6 번째 검색 내용 
+제목 : 
+
+                            Running Apache Flink Applications on AWS KDA: Lessons Learnt at Deliveroo
+                        
+주소 : https://www.infoq.com/news/2023/08/deliveroo-apache-flink-aws-kda/
+설명 : 
+                         Deliveroo introduced Apache Flink into its technology stack for enriching and merging events consumed from Apache Kafka or Kinesis Streams. The company opted to use AWS Kinesis Data Analytics (KDA) service to manage Apache Flink clusters on AWS and shared its experiences from running Flink applications on KDA.
+                    
+7 번째 검색 내용 
+제목 : 
+
+                            Ai4 2023: Generative AI Testing Lessons from Hussein Mehanna of Cruise
+                        
+주소 : https://www.infoq.com/news/2023/08/generative-ai-testing/
+설명 : 
+                         The recent Ai4 conference featured a talk by Hussein Mehanna of Cruise titled "How Autonomous Vehicles Will Inform and Improve AI Model Testing." Some key takeaways are that systems should handle the "long tail," developers should measure model output quality, and developers should push their systems to fail.
+                    
+8 번째 검색 내용 
+제목 : 
+
+                            Inside InfluxDB 3.0: Exploring InfluxDB’s Scalable and Decoupled Architecture
+                        
+주소 : https://www.infoq.com/news/2023/08/influxdb-3-architecture/
+설명 : 
+                         InfluxData recently unveiled the system architecture for InfluxDB 3.0, its newest time-series DB. Its architecture encompasses four major components responsible for data ingestion, querying, compaction, and garbage collection and includes two main storage types. The architecture caters to operating the DB on-premise and natively on major cloud providers.
+                    
+9 번째 검색 내용 
+제목 : 
+
+                            New Google Cloud H3 Virtual Machine Series for High-Performance Computing Workloads in Preview
+                        
+주소 : https://www.infoq.com/news/2023/08/google-cloud-hpc-vms-preview/
+설명 : 
+                         Recently Google launched a new H3 Virtual Machine (VM) Series designed for High-Performance Computing (HPC) workloads. The series of VMs are available in public preview for Compute Engine and Google Kubernetes Engine (GKE) users and offers 88 cores (Simultaneous multi-threading disabled) and 352 GB of memory.
+                    
+10 번째 검색 내용 
+제목 : 
+
+                            HashiCorp Adopts Business Source License for All Products
+                        
+주소 : https://www.infoq.com/news/2023/08/hashicorp-adopts-bsl/
+설명 : 
+                         HashiCorp, the maker of popular open source infrastructure as code (IaC) tooling such as Terraform and Vault, announced last week that it is changing its source code license from MPL 2.0 to the BSL 1.1 on all future releases of HashiCorp products. HashiCorp APIs, SDKs, and almost all other libraries will remain MPL 2.0. The initial community reaction has primarily been negative.
+                    
+11 번째 검색 내용 
+제목 : 
+
+                            Jupyter AI Brings Generative AI to Notebooks
+                        
+주소 : https://www.infoq.com/news/2023/08/jupyter-ai-notebooks/
+설명 : 
+                         The open-source Project Jupyter, used by millions for data science and machine learning, has released Jupyter AI, a free tool bringing powerful generative AI capabilities to Jupyter notebooks.
+                    
+12 번째 검색 내용 
+제목 : 
+
+                            AI, ML, Data Engineering News Roundup: Jupyter AI, AudioCraft, OverflowAI, StableCode and Tabnine
+                        
+주소 : https://www.infoq.com/news/2023/08/ai-ml-data-news-august7-2023/
+설명 : 
+                         The latest update, which covers developments until August 7, 2023, highlights significant accomplishments and statements made in the fields of artificial intelligence, machine learning, and data science. This week's major news involved Jupyter, Meta AI, Overflow, Stability AI and Tabnine.
+                    
+13 번째 검색 내용 
+제목 : 
+
+                            Amazon Introduces AWS HealthImaging to Store and Analyze Medical Imaging Data
+                        
+주소 : https://www.infoq.com/news/2023/08/aws-healthimaging-medical-data/
+설명 : 
+                         At the recent AWS Summit in New York, Amazon announced AWS HealthImaging. The new HIPAA-eligible service helps healthcare providers to store, analyze, and share medical imaging data at scale.
+                    
+14 번째 검색 내용 
+제목 : 
+
+                            Java News Roundup: Payara Cloud, MicroProfile Telemetry, Foojay.io Calendar, JVM Language Summit
+                        
+주소 : https://www.infoq.com/news/2023/08/java-news-roundup-aug07-2023/
+설명 : 
+                         This week's Java roundup for August 7th, 2023, features news from JDK 22, JDK 21, GraalVM Native Build Tools 0.9.24, Spring Cloud 2023.0.0-M1, Spring Modulith 1.0-RC1, Payara Cloud, Quarkus 3.2.4, MicroProfile Telemetry 1.1, OpenXava 7.1.4, Foojay.io calendar and JVM Language Summit 2023.
+                    
+15 번째 검색 내용 
+제목 : 
+
+                            Oracle Data Provider for .Net: Asynchronous Programming, OpenTelemetry, and More
+                        
+주소 : https://www.infoq.com/news/2023/08/odp-net-asynchronous-programming/
+설명 : 
+                         Oracle prereleased a new version of Oracle Data Provider for .NET (ODP.NET), its ADO.NET data access library for the Oracle database. The new version, 23c, is available as a Developer Release, which means it is still not ready for production use. However, it already brings two of the most highly community-requested features: asynchronous programming and support to OpenTelemetry.
+                    
