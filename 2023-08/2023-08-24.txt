@@ -1,13 +1,22 @@
 1 번째 검색 내용 
 제목 : 
 
+                            MetaGPT Leverages Human Collaboration Techniques for Multi-agent-based Software Engineering
+                        
+주소 : https://www.infoq.com/news/2023/08/metagpt-agent-collaboration/
+설명 : 
+                         Created by a team of researchers from Chinese and US universities, MetaGPT is a new LLM-based meta programming framework aiming to enable collaboration in multi-agent systems by leveraging human procedural knowledge to enhance robustness, reduce errors, and engineer software solutions for complex tasks.
+                    
+2 번째 검색 내용 
+제목 : 
+
                             Grails 6.0 Released: Embracing Modern Java, Enhanced Micronaut Integration, and More
                         
 주소 : https://www.infoq.com/news/2023/08/grails-6-released/
 설명 : 
                          The Grails Foundation has released version 6.0 of Grails, delivering a minimal JDK 11 version; support for Spring Framework 5.3.28, Spring Boot 2.7.12, and Gradle 7.6.1; the debut of Grails Forge UI, a starter project similar to Spring Initializr, and others; and enhanced integration of the Micronaut Framework.
                     
-2 번째 검색 내용 
+3 번째 검색 내용 
 제목 : 
 
                             Redis 7.2 Is Now Available with Scalable Search, Auto Tiering, Triggers and Functions
@@ -16,7 +25,7 @@
 설명 : 
                          Redis Inc recently announced the unified release of Redis 7.2, which includes several new features like auto-tiering, native triggers, and a preview of an enhanced, scalable search capability that provides increased performance for query and search scenarios, including vector similarity search (VSS).
                     
-3 번째 검색 내용 
+4 번째 검색 내용 
 제목 : 
 
                             .NET MAUI in .NET 8 Preview 7 with Keyboard Accelerators, Fixes and Improvements
@@ -25,7 +34,7 @@
 설명 : 
                          .NET MAUI is now available in .NET 8 Preview 7. This version introduces keyboard accelerators and more bug fixes and enhancements. This is the final familiarisation release of .NET 8. With this announcement came further community concerns about the framework.
                     
-4 번째 검색 내용 
+5 번째 검색 내용 
 제목 : 
 
                             Kubeflow, the Machine Learning Toolkit for Kubernetes, Has Been Accepted as CNCF Incubation Project
@@ -34,7 +43,7 @@
 설명 : 
                          The Cloud Native Computing Foundations (CNCF) has recently announced that Kubeflow, the toolkit to deploy machine learning (ML) workflow onto Kubernetes, was accepted as a CNCF incubating project after the vote of the Technical Oversight Committee (TOC).
                     
-5 번째 검색 내용 
+6 번째 검색 내용 
 제목 : 
 
                             LMSYS Org Releases Chatbot Arena and LLM Evaluation Datasets
@@ -43,7 +52,7 @@
 설명 : 
                          Large Model Systems Organization (LMSYS Org) recently released Chatbot Arena, a comparison platform for large language models (LLMs), where users can pick the better response from a pair of chatbots. LMSYS also released a dataset containing conversations from the Arena as well as a dataset of human annotations of results from evaluating LLMs on the MT-Bench benchmark.
                     
-6 번째 검색 내용 
+7 번째 검색 내용 
 제목 : 
 
                             Vector Engine for Amazon Opensearch Serverless Now in Preview
@@ -52,7 +61,7 @@
 설명 : 
                          AWS announced the preview release of vector storage and search capability within Amazon OpenSearch Serverless. The capability is intended to support machine learning augmented search experiences and generative AI applications.
                     
-7 번째 검색 내용 
+8 번째 검색 내용 
 제목 : 
 
                             Golem Unveils a Resilient Computing Platform for Serverless Workers with WebAssembly Component Model
@@ -61,7 +70,7 @@
 설명 : 
                          Recently Golem released its flagship product Golem Cloud, a durable computing platform allowing developers to build and deploy long-running, stateful serverless workers that are resistant to failures, upgrades, and updates. The product is currently in developer preview.
                     
-8 번째 검색 내용 
+9 번째 검색 내용 
 제목 : 
 
                             Java News Roundup: JDK 21 RC1, Apache Camel 4.0, Payara Platform, Apache Tomcat, Micronaut
@@ -70,7 +79,7 @@
 설명 : 
                          This week's Java roundup for August 14th, 2023 features news from OpenJDK, JDK 22, JDK 21, Apache Camel 4.0.0, Payara Platform and point and milestone releases of: Spring Framework, Spring Data, Spring Modulith, Apache Tomcat, Micronaut, Micrometer Metrics and Tracing, Project Reactor, Hibernate Search, Infinispan, JHipster React Native, JBang, Piranha, Byte Buddy, JobRunr, Arquillian and Gradle.
                     
-9 번째 검색 내용 
+10 번째 검색 내용 
 제목 : 
 
                             NuGet 6.7 Announced With Enhanced Security Features
@@ -78,15 +87,6 @@
 주소 : https://www.infoq.com/news/2023/08/nuget-6-7/
 설명 : 
                          The NuGet team announced NuGet 6.7, an update that introduces a set of advanced security features. These enhancements span from updated package source mapping to the integration of vulnerability APIs, updated package version dropdowns, and the addition of warning messages to tackle trust chain issues.
-                    
-10 번째 검색 내용 
-제목 : 
-
-                            Obituary: Stefan Tilkov
-                        
-주소 : https://www.infoq.com/news/2023/08/obituary-stefan-tilkov/
-설명 : 
-                         With great sadness, we announce that former InfoQ editor and CEO/co-founder of INNOQ Stefan Tilkov has unexpectedly passed away. Stefan was a regular presenter on the global software development conference circuit, a well-known technical writer, and a mentor to many.
                     
 11 번째 검색 내용 
 제목 : 
@@ -100,13 +100,22 @@
 12 번째 검색 내용 
 제목 : 
 
+                            Obituary: Stefan Tilkov
+                        
+주소 : https://www.infoq.com/news/2023/08/obituary-stefan-tilkov/
+설명 : 
+                         With great sadness, we announce that former InfoQ editor and CEO/co-founder of INNOQ Stefan Tilkov has unexpectedly passed away. Stefan was a regular presenter on the global software development conference circuit, a well-known technical writer, and a mentor to many.
+                    
+13 번째 검색 내용 
+제목 : 
+
                             Visual Studio 2022 17.7 with .NET and C++ Development Features, Performance Improvements, and More
                         
 주소 : https://www.infoq.com/news/2023/08/visual-studio-2022/
 설명 : 
                          Visual Studio 2022 17.7 is now generally available. It brings plenty of features and improvements to create a high-level developer experience, based on community feedback. There are new features within .NET and C++ development as well as these ones that improve overall performance. The latest version is available for download.
                     
-13 번째 검색 내용 
+14 번째 검색 내용 
 제목 : 
 
                             Mountpoint for Amazon S3 Now GA to Access Bucket Like Local File System
@@ -115,7 +124,7 @@
 설명 : 
                          During the latest AWS Storage Day event, Amazon announced the general availability of Mountpoint for Amazon S3. The new open-source file client provides through a file interface the elastic storage and throughput of Amazon S3, supporting data transfer at up to 100 Gb/second between each EC2 instance and the object storage.
                     
-14 번째 검색 내용 
+15 번째 검색 내용 
 제목 : 
 
                             Keeping Go "Boring" in Go 1.21: How Google Grants Backward Compatibility
@@ -123,13 +132,4 @@
 주소 : https://www.infoq.com/news/2023/08/golang-backward-compatibility/
 설명 : 
                          In a recent article, Google engineer Russ Cox detailed what Google does to make sure each new Go release honors Go's backward-compatibility guarantee. This includes generalizing GODEBUG in Go 1.21 to cover even subtle incompatibility cases.
-                    
-15 번째 검색 내용 
-제목 : 
-
-                            Faster Standard Retrievals from S3 Glacier Flexible Retrieval and S3 Batch Operations
-                        
-주소 : https://www.infoq.com/news/2023/08/amazon-s3-glacier-performance/
-설명 : 
-                         Recently AWS announced the general availability of faster standard retrievals from S3 Glacier Flexible Retrieval. According to the company, the retrieval can be up to 85% faster and applies to the Standard retrieval tier when using S3 Batch Operations.
                     
