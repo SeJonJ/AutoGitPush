@@ -1,0 +1,135 @@
+1 번째 검색 내용 
+제목 : 
+
+                            Fluid Framework 2.0 Alpha Features SharedTree Distributed Data Structure and Developer Tools
+                        
+주소 : https://www.infoq.com/news/2023/08/fluid-framework-v2-alpha/
+설명 : 
+                         Microsoft is readying version 2.0 of their Fluid Framework for real-time collaboration. The available alpha and internal releases add a new object-oriented shared data structure and browser-based developer tooling.
+                    
+2 번째 검색 내용 
+제목 : 
+
+                            Embracing Complexity and Emergence in Organisations
+                        
+주소 : https://www.infoq.com/news/2023/08/embrace-complexity-emergence/
+설명 : 
+                         Focusing on the actual emerging organisation and the work people are doing can make a difference in embracing complexity and dealing with it a bit better. Psychological safety is critical for people giving feedback without fearing retribution or negative consequences. Fred Hebert spoke about embracing complexity at QCon New York 2023.
+                    
+3 번째 검색 내용 
+제목 : 
+
+                            Cost-Effective Solution for Infrequent Data Access and Retention with Azure Blob Storage Cold Tier
+                        
+주소 : https://www.infoq.com/news/2023/08/azure-blob-storage-cold-tier/
+설명 : 
+                         Microsoft recently announced the general availability of the Azure Blob Storage Cold Tier, an online tier designed explicitly for efficiently storing infrequently accessed or modified data while ensuring immediate availability.
+                    
+4 번째 검색 내용 
+제목 : 
+
+                            MetaGPT Leverages Human Collaboration Techniques for Multi-agent-based Software Engineering
+                        
+주소 : https://www.infoq.com/news/2023/08/metagpt-agent-collaboration/
+설명 : 
+                         Created by a team of researchers from Chinese and US universities, MetaGPT is a new LLM-based meta programming framework aiming to enable collaboration in multi-agent systems by leveraging human procedural knowledge to enhance robustness, reduce errors, and engineer software solutions for complex tasks.
+                    
+5 번째 검색 내용 
+제목 : 
+
+                            Grails 6.0 Released: Embracing Modern Java, Enhanced Micronaut Integration, and More
+                        
+주소 : https://www.infoq.com/news/2023/08/grails-6-released/
+설명 : 
+                         The Grails Foundation has released version 6.0 of Grails, delivering a minimal JDK 11 version; support for Spring Framework 5.3.28, Spring Boot 2.7.12, and Gradle 7.6.1; the debut of Grails Forge UI, a starter project similar to Spring Initializr, and others; and enhanced integration of the Micronaut Framework.
+                    
+6 번째 검색 내용 
+제목 : 
+
+                            Redis 7.2 Now Available with Scalable Search, Auto Tiering, Triggers and Functions
+                        
+주소 : https://www.infoq.com/news/2023/08/new-redis-version-available/
+설명 : 
+                         Redis Inc recently announced the unified release of Redis 7.2, which includes several new features like auto-tiering, native triggers, and a preview of an enhanced, scalable search capability that provides increased performance for query and search scenarios, including vector similarity search (VSS).
+                    
+7 번째 검색 내용 
+제목 : 
+
+                            .NET MAUI in .NET 8 Preview 7 with Keyboard Accelerators, Fixes and Improvements
+                        
+주소 : https://www.infoq.com/news/2023/08/dotnet-maui-preview-7/
+설명 : 
+                         .NET MAUI is now available in .NET 8 Preview 7. This version introduces keyboard accelerators and more bug fixes and enhancements. This is the final familiarisation release of .NET 8. With this announcement came further community concerns about the framework.
+                    
+8 번째 검색 내용 
+제목 : 
+
+                            Kubeflow, the Machine Learning Toolkit for Kubernetes, Has Been Accepted as CNCF Incubation Project
+                        
+주소 : https://www.infoq.com/news/2023/08/kubeflow-cncf-project/
+설명 : 
+                         The Cloud Native Computing Foundations (CNCF) has recently announced that Kubeflow, the toolkit to deploy machine learning (ML) workflow onto Kubernetes, was accepted as a CNCF incubating project after the vote of the Technical Oversight Committee (TOC).
+                    
+9 번째 검색 내용 
+제목 : 
+
+                            LMSYS Org Releases Chatbot Arena and LLM Evaluation Datasets
+                        
+주소 : https://www.infoq.com/news/2023/08/lmsys-chatbot-leaderboard/
+설명 : 
+                         Large Model Systems Organization (LMSYS Org) recently released Chatbot Arena, a comparison platform for large language models (LLMs), where users can pick the better response from a pair of chatbots. LMSYS also released a dataset containing conversations from the Arena as well as a dataset of human annotations of results from evaluating LLMs on the MT-Bench benchmark.
+                    
+10 번째 검색 내용 
+제목 : 
+
+                            Vector Engine for Amazon Opensearch Serverless Now in Preview
+                        
+주소 : https://www.infoq.com/news/2023/08/vector-engine-opensearch-preview/
+설명 : 
+                         AWS announced the preview release of vector storage and search capability within Amazon OpenSearch Serverless. The capability is intended to support machine learning augmented search experiences and generative AI applications.
+                    
+11 번째 검색 내용 
+제목 : 
+
+                            Golem Unveils a Resilient Computing Platform for Serverless Workers with WebAssembly Component Model
+                        
+주소 : https://www.infoq.com/news/2023/08/unveiling-golem-cloud-wasm/
+설명 : 
+                         Recently Golem released its flagship product Golem Cloud, a durable computing platform allowing developers to build and deploy long-running, stateful serverless workers that are resistant to failures, upgrades, and updates. The product is currently in developer preview.
+                    
+12 번째 검색 내용 
+제목 : 
+
+                            Java News Roundup: JDK 21 RC1, Apache Camel 4.0, Payara Platform, Apache Tomcat, Micronaut
+                        
+주소 : https://www.infoq.com/news/2023/08/java-news-roundup-aug14-2023/
+설명 : 
+                         This week's Java roundup for August 14th, 2023 features news from OpenJDK, JDK 22, JDK 21, Apache Camel 4.0.0, Payara Platform and point and milestone releases of: Spring Framework, Spring Data, Spring Modulith, Apache Tomcat, Micronaut, Micrometer Metrics and Tracing, Project Reactor, Hibernate Search, Infinispan, JHipster React Native, JBang, Piranha, Byte Buddy, JobRunr, Arquillian and Gradle.
+                    
+13 번째 검색 내용 
+제목 : 
+
+                            NuGet 6.7 Announced with Enhanced Security Features
+                        
+주소 : https://www.infoq.com/news/2023/08/nuget-6-7/
+설명 : 
+                         The NuGet team announced NuGet 6.7, an update that introduces a set of advanced security features. These enhancements span from updated package source mapping to the integration of vulnerability APIs, updated package version dropdowns, and the addition of warning messages to tackle trust chain issues.
+                    
+14 번째 검색 내용 
+제목 : 
+
+                            Pinterest Revamps Its Asynchronous Computing Platform with Kubernetes and Apache Helix
+                        
+주소 : https://www.infoq.com/news/2023/08/pinterest-pacer-kubernetes/
+설명 : 
+                         Pinterest created the next-generation asynchronous computing platform, Pacer, to replace the older solution, Pinlater, which the company outgrew, resulting in scalability and reliability challenges. The new architecture leverages Kubernetes for scheduling job-execution workers and Apache Helix for cluster management.
+                    
+15 번째 검색 내용 
+제목 : 
+
+                            Obituary: Stefan Tilkov
+                        
+주소 : https://www.infoq.com/news/2023/08/obituary-stefan-tilkov/
+설명 : 
+                         With great sadness, we announce that former InfoQ editor and CEO/co-founder of INNOQ Stefan Tilkov has unexpectedly passed away. Tilkov was a regular presenter on the global software development conference circuit, a well-known technical writer, and a mentor to many.
+                    
