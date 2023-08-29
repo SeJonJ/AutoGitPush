@@ -1,0 +1,135 @@
+1 번째 검색 내용 
+제목 : 
+
+                            GPT-3.5 Turbo Can Now Be Fine-Tuned for Improved Quality And Performance
+                        
+주소 : https://www.infoq.com/news/2023/08/got-3-5-fine-tuning/
+설명 : 
+                         OpenAI has made GPT-3.5 Turbo available to developers, with the added bonus of allowing them to customize the model to improve performance for their specific use cases. According to OpenAI, fine-tuning GPT-3.5 Turbo can even outperform base GPT-4 for certain tasks.
+                    
+2 번째 검색 내용 
+제목 : 
+
+                            Java News Roundup: Introducing Spring AI, Spring Modulith 1.0, Testcontainers Desktop
+                        
+주소 : https://www.infoq.com/news/2023/08/java-news-roundup-aug21-2023/
+설명 : 
+                         This week's Java roundup for August 21st, 2023 features news from OpenJDK, JDK 22, JDK 21, Jakarta EE, BellSoft, Spring Modulith 1.0, Spring Boot, Spring Authorization Server, Spring Batch, Spring AI, Testcontainers, Open Liberty, Quarkus, MicroProfile Metrics and Telemetry, Micronaut, Groovy, Tomcat, Grails, JHipster Lite, Vert.x Pinot Client, Yupiik Fusion and SpringOne conference.
+                    
+3 번째 검색 내용 
+제목 : 
+
+                            Improving Developer Efficiency with Policy Automation at DoorDash
+                        
+주소 : https://www.infoq.com/news/2023/08/doordash-policy-automation/
+설명 : 
+                         DoorDash recently leveraged Open Policy Agent to enhance the efficiency of their developers. The infrastructure team at DoorDash observed several advantages from this, including quicker reviews of changes to infrastructure policies, more comprehensive tagging of resources, and a notable decrease in the number of incidents resulting from policy violations.
+                    
+4 번째 검색 내용 
+제목 : 
+
+                            Ngrok Starts Offering One Static Domain to All of its Free Users
+                        
+주소 : https://www.infoq.com/news/2023/08/ngrok-free-static-domain/
+설명 : 
+                         To make it easier for developers to expose their local services to the Internet while developing them, ngrok is now providing them with the possibility to create and use one static domain for free, instead of relying on time-limited, random domains.
+                    
+5 번째 검색 내용 
+제목 : 
+
+                            Teams Toolkit for Visual Studio: Automated Lifecycles and Integrated Bot Debugging
+                        
+주소 : https://www.infoq.com/news/2023/08/visual-studio-teams-toolkit/
+설명 : 
+                         The Teams Toolkit for Visual Studio allows .NET developers to build, debug, and release applications for Microsoft Teams. Its latest version introduces powerful capabilities, including automated Teams App lifecycles and integrated bot debugging via built-in tunneling within the Visual Studio environment.
+                    
+6 번째 검색 내용 
+제목 : 
+
+                            Amazon Interactive Video Service Announces Real-Time Streaming
+                        
+주소 : https://www.infoq.com/news/2023/08/aws-ivs-real-time-streaming/
+설명 : 
+                         Amazon recently announced IVS Real-Time Streaming, a new option of the Interactive Video Service to deliver real-time live streams for latency-sensitive use cases. To address different network conditions for the viewers, IVS supports layered encoding (simulcast).
+                    
+7 번째 검색 내용 
+제목 : 
+
+                            Fluid Framework 2.0 Alpha Features SharedTree Distributed Data Structure and Developer Tools
+                        
+주소 : https://www.infoq.com/news/2023/08/fluid-framework-v2-alpha/
+설명 : 
+                         Microsoft is readying version 2.0 of their Fluid Framework for real-time collaboration. The available alpha and internal releases add a new object-oriented shared data structure and browser-based developer tooling.
+                    
+8 번째 검색 내용 
+제목 : 
+
+                            Embracing Complexity and Emergence in Organisations
+                        
+주소 : https://www.infoq.com/news/2023/08/embrace-complexity-emergence/
+설명 : 
+                         Focusing on the actual emerging organisation and the work people are doing can make a difference in embracing complexity and dealing with it a bit better. Psychological safety is critical for people giving feedback without fearing retribution or negative consequences. Fred Hebert spoke about embracing complexity at QCon New York 2023.
+                    
+9 번째 검색 내용 
+제목 : 
+
+                            Cost-Effective Solution for Infrequent Data Access and Retention with Azure Blob Storage Cold Tier
+                        
+주소 : https://www.infoq.com/news/2023/08/azure-blob-storage-cold-tier/
+설명 : 
+                         Microsoft recently announced the general availability of the Azure Blob Storage Cold Tier, an online tier designed explicitly for efficiently storing infrequently accessed or modified data while ensuring immediate availability.
+                    
+10 번째 검색 내용 
+제목 : 
+
+                            MetaGPT Leverages Human Collaboration Techniques for Multi-Agent-Based Software Engineering
+                        
+주소 : https://www.infoq.com/news/2023/08/metagpt-agent-collaboration/
+설명 : 
+                         Created by a team of researchers from Chinese and US universities, MetaGPT is a new LLM-based meta programming framework aiming to enable collaboration in multi-agent systems by leveraging human procedural knowledge to enhance robustness, reduce errors, and engineer software solutions for complex tasks.
+                    
+11 번째 검색 내용 
+제목 : 
+
+                            Grails 6.0 Released: Embracing Modern Java, Enhanced Micronaut Integration, and More
+                        
+주소 : https://www.infoq.com/news/2023/08/grails-6-released/
+설명 : 
+                         The Grails Foundation has released version 6.0 of Grails, delivering a minimal JDK 11 version; support for Spring Framework 5.3.28, Spring Boot 2.7.12, and Gradle 7.6.1; the debut of Grails Forge UI, a starter project similar to Spring Initializr, and others; and enhanced integration of the Micronaut Framework.
+                    
+12 번째 검색 내용 
+제목 : 
+
+                            Redis 7.2 Now Available with Scalable Search, Auto Tiering, Triggers and Functions
+                        
+주소 : https://www.infoq.com/news/2023/08/new-redis-version-available/
+설명 : 
+                         Redis Inc recently announced the unified release of Redis 7.2, which includes several new features like auto-tiering, native triggers, and a preview of an enhanced, scalable search capability that provides increased performance for query and search scenarios, including vector similarity search (VSS).
+                    
+13 번째 검색 내용 
+제목 : 
+
+                            .NET MAUI in .NET 8 Preview 7 with Keyboard Accelerators, Fixes and Improvements
+                        
+주소 : https://www.infoq.com/news/2023/08/dotnet-maui-preview-7/
+설명 : 
+                         .NET MAUI is now available in .NET 8 Preview 7. This version introduces keyboard accelerators and more bug fixes and enhancements. This is the final familiarisation release of .NET 8. With this announcement came further community concerns about the framework.
+                    
+14 번째 검색 내용 
+제목 : 
+
+                            Kubeflow, the Machine Learning Toolkit for Kubernetes, Has Been Accepted as CNCF Incubation Project
+                        
+주소 : https://www.infoq.com/news/2023/08/kubeflow-cncf-project/
+설명 : 
+                         The Cloud Native Computing Foundations (CNCF) has recently announced that Kubeflow, the toolkit to deploy machine learning (ML) workflow onto Kubernetes, was accepted as a CNCF incubating project after the vote of the Technical Oversight Committee (TOC).
+                    
+15 번째 검색 내용 
+제목 : 
+
+                            LMSYS Org Releases Chatbot Arena and LLM Evaluation Datasets
+                        
+주소 : https://www.infoq.com/news/2023/08/lmsys-chatbot-leaderboard/
+설명 : 
+                         Large Model Systems Organization (LMSYS Org) recently released Chatbot Arena, a comparison platform for large language models (LLMs), where users can pick the better response from a pair of chatbots. LMSYS also released a dataset containing conversations from the Arena as well as a dataset of human annotations of results from evaluating LLMs on the MT-Bench benchmark.
+                    
