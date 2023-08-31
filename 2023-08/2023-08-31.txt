@@ -1,13 +1,49 @@
 1 번째 검색 내용 
 제목 : 
 
+                            OpenSSF New Manifesto Urges the Software Industry to Take Responsibility for Open Source Security
+                        
+주소 : https://www.infoq.com/news/2023/08/openssf-consumption-manifesto/
+설명 : 
+                         The Open Source Consumption Manifesto from OpenSSF aims to make the software industry more aware of its responsibility when it comes to ensuring the software supply chain remains secure and healthy.
+                    
+2 번째 검색 내용 
+제목 : 
+
+                            .NET Upgrade Assistant: Project Features Upgrade and .NET MAUI Improvements
+                        
+주소 : https://www.infoq.com/news/2023/08/dotnet-upgrade-assistant/
+설명 : 
+                         Microsoft has announced an updated version of the .NET Upgrade Assistant in Visual Studio. The new release brings on a series of enhancements designed to simplify the migration process for .NET MAUI. Notably, developers can now also upgrade project features without needing to change the existing .NET version.
+                    
+3 번째 검색 내용 
+제목 : 
+
+                            AWS Introduces M7a General Purpose AMD Genoa Instances
+                        
+주소 : https://www.infoq.com/news/2023/08/aws-ec2-m7a-amd/
+설명 : 
+                         Amazon recently announced the availability of the M7a instances powered by the 4th generation AMD EPYC (Genoa) processors. The new general-purpose instances are priced higher than the previous generation AMD M6a and the latest Intel M7i instances.
+                    
+4 번째 검색 내용 
+제목 : 
+
                             Budget for Project Users in Google Cloud Lowers the Barrier to Create and Manage Budgets
                         
 주소 : https://www.infoq.com/news/2023/08/google-cloud-spend-project-owner/
 설명 : 
-                         Google recently introduced budgets for project users, allowing users with a Project Owner or Project Editor role to create budgets for their projects without needing access to the higher-level billing account permissions to get notifications based on their cloud spend. This Cloud Billing feature is currently in preview.
+                         Google recently introduced budgets for project users, allowing users with a project owner or project editor role to create budgets for their projects without needing access to the higher-level billing account permissions to get notifications based on their cloud spend. This Cloud Billing feature is currently in preview.
                     
-2 번째 검색 내용 
+5 번째 검색 내용 
+제목 : 
+
+                            MicroStream Debuts Eclipse Store Java Persistence Framework at Eclipse Foundation
+                        
+주소 : https://www.infoq.com/news/2023/08/debut-of-eclipse-store/
+설명 : 
+                         MicroStream, an open-source Java persistence framework, recently announced the first release of Eclipse Store under the auspices of the Eclipse Foundation. This first release contains two core components from MicroStream, its Serializer and StorageManager restructured as Eclipse Serializer, and Eclipse Store, respectively.
+                    
+6 번째 검색 내용 
 제목 : 
 
                             Spring AI Provides Integration with OpenAI and Azure OpenAI
@@ -16,16 +52,7 @@
 설명 : 
                          The experimental Spring AI project was introduced during the SpringOne conference and allows the creation of AI applications by using common concepts of Spring. Currently the project integrates Azure OpenAI and OpenAI as AI backends. Use cases like content generation, code generation, semantic search and summarization are supported by the project.
                     
-3 번째 검색 내용 
-제목 : 
-
-                            MicroStream Debuts Eclipse Store Java Persistence Framework at Eclipse Foundation
-                        
-주소 : https://www.infoq.com/news/2023/08/debut-of-eclipse-store/
-설명 : 
-                         MicroStream, an open-source Java persistence framework, recently announced the first release of Eclipse Store under the auspices of the Eclipse Foundation. This first release contains two core components from MicroStream, its Serializer and StorageManager restructured as Eclipse Serializer and Eclipse Store, respectively.
-                    
-4 번째 검색 내용 
+7 번째 검색 내용 
 제목 : 
 
                             Spring Modulith 1.0 Gains Production-Readiness, IDE Support and Improved Testability
@@ -34,7 +61,7 @@
 설명 : 
                          Spring Modulith 1.0 was promoted from its experimental status and became a fully supported Spring project. It structures Spring Boot 3 applications through modules and events. That module structure is now visible in IDEs like Spring Tool Suite and Visual Studio Code. The Event Publication Registry persists event completion faster. And Integration Tests Scenarios ease testing events.
                     
-5 번째 검색 내용 
+8 번째 검색 내용 
 제목 : 
 
                             Stability AI Launches Open Source Chatbot Stable Chat
@@ -43,7 +70,7 @@
 설명 : 
                          Stability AI, makers of the image generation AI Stable Diffusion, recently launched Stable Chat, a web-based chat interface for their open-access language model Stable Beluga. At the time of its release, Stable Beluga was the best-performing open large language model (LLM) on the HuggingFace leaderboard.
                     
-6 번째 검색 내용 
+9 번째 검색 내용 
 제목 : 
 
                             Google Launches Three New Cloud Storage Options: Cloud Storage FUSE, Parallelstore, NetApp Volumes
@@ -52,25 +79,25 @@
 설명 : 
                          Google recently launched three new cloud storage options: Cloud Storage FUSE for Artificial Intelligence (AI) applications that require file system semantics, a parallel file system Parallelstore for demanding AI and HPC applications that use GPUs, and NetApp Volumes for enterprise applications running in the cloud.
                     
-7 번째 검색 내용 
+10 번째 검색 내용 
 제목 : 
 
-                            GPT-3.5 Turbo Can Now Be Fine-Tuned for Improved Quality And Performance
+                            GPT-3.5 Turbo Can Now Be Fine-Tuned for Improved Quality and Performance
                         
 주소 : https://www.infoq.com/news/2023/08/got-3-5-fine-tuning/
 설명 : 
                          OpenAI has made GPT-3.5 Turbo available to developers, with the added bonus of allowing them to customize the model to improve performance for their specific use cases. According to OpenAI, fine-tuning GPT-3.5 Turbo can even outperform base GPT-4 for certain tasks.
                     
-8 번째 검색 내용 
+11 번째 검색 내용 
 제목 : 
 
                             Java News Roundup: Introducing Spring AI, Spring Modulith 1.0, Testcontainers Desktop
                         
 주소 : https://www.infoq.com/news/2023/08/java-news-roundup-aug21-2023/
 설명 : 
-                         This week's Java roundup for August 21st, 2023 features news from OpenJDK, JDK 22, JDK 21, Jakarta EE, BellSoft, Spring Modulith 1.0, Spring Boot, Spring Authorization Server, Spring Batch, Spring AI, Testcontainers, Open Liberty, Quarkus, MicroProfile Metrics and Telemetry, Micronaut, Groovy, Tomcat, Grails, JHipster Lite, Vert.x Pinot Client, Yupiik Fusion and SpringOne conference.
+                         This week's Java roundup for August 21st, 2023, features news from OpenJDK, JDK 22, JDK 21, Jakarta EE, BellSoft, Spring Modulith 1.0, Spring Boot, Spring Authorization Server, Spring Batch, Spring AI, Testcontainers, Open Liberty, Quarkus, MicroProfile Metrics and Telemetry, Micronaut, Groovy, Tomcat, Grails, JHipster Lite, Vert.x Pinot Client, Yupiik Fusion and SpringOne conference.
                     
-9 번째 검색 내용 
+12 번째 검색 내용 
 제목 : 
 
                             Improving Developer Efficiency with Policy Automation at DoorDash
@@ -79,7 +106,7 @@
 설명 : 
                          DoorDash recently leveraged Open Policy Agent to enhance the efficiency of their developers. The infrastructure team at DoorDash observed several advantages from this, including quicker reviews of changes to infrastructure policies, more comprehensive tagging of resources, and a notable decrease in the number of incidents resulting from policy violations.
                     
-10 번째 검색 내용 
+13 번째 검색 내용 
 제목 : 
 
                             Ngrok Starts Offering One Static Domain to All of its Free Users
@@ -88,7 +115,7 @@
 설명 : 
                          To make it easier for developers to expose their local services to the Internet while developing them, ngrok is now providing them with the possibility to create and use one static domain for free, instead of relying on time-limited, random domains.
                     
-11 번째 검색 내용 
+14 번째 검색 내용 
 제목 : 
 
                             Teams Toolkit for Visual Studio: Automated Lifecycles and Integrated Bot Debugging
@@ -97,7 +124,7 @@
 설명 : 
                          The Teams Toolkit for Visual Studio allows .NET developers to build, debug, and release applications for Microsoft Teams. Its latest version introduces powerful capabilities, including automated Teams App lifecycles and integrated bot debugging via built-in tunneling within the Visual Studio environment.
                     
-12 번째 검색 내용 
+15 번째 검색 내용 
 제목 : 
 
                             Amazon Interactive Video Service Announces Real-Time Streaming
@@ -105,31 +132,4 @@
 주소 : https://www.infoq.com/news/2023/08/aws-ivs-real-time-streaming/
 설명 : 
                          Amazon recently announced IVS Real-Time Streaming, a new option of the Interactive Video Service to deliver real-time live streams for latency-sensitive use cases. To address different network conditions for the viewers, IVS supports layered encoding (simulcast).
-                    
-13 번째 검색 내용 
-제목 : 
-
-                            Fluid Framework 2.0 Alpha Features SharedTree Distributed Data Structure and Developer Tools
-                        
-주소 : https://www.infoq.com/news/2023/08/fluid-framework-v2-alpha/
-설명 : 
-                         Microsoft is readying version 2.0 of their Fluid Framework for real-time collaboration. The available alpha and internal releases add a new object-oriented shared data structure and browser-based developer tooling.
-                    
-14 번째 검색 내용 
-제목 : 
-
-                            Embracing Complexity and Emergence in Organisations
-                        
-주소 : https://www.infoq.com/news/2023/08/embrace-complexity-emergence/
-설명 : 
-                         Focusing on the actual emerging organisation and the work people are doing can make a difference in embracing complexity and dealing with it a bit better. Psychological safety is critical for people giving feedback without fearing retribution or negative consequences. Fred Hebert spoke about embracing complexity at QCon New York 2023.
-                    
-15 번째 검색 내용 
-제목 : 
-
-                            Cost-Effective Solution for Infrequent Data Access and Retention with Azure Blob Storage Cold Tier
-                        
-주소 : https://www.infoq.com/news/2023/08/azure-blob-storage-cold-tier/
-설명 : 
-                         Microsoft recently announced the general availability of the Azure Blob Storage Cold Tier, an online tier designed explicitly for efficiently storing infrequently accessed or modified data while ensuring immediate availability.
                     
