@@ -1,0 +1,135 @@
+1 번째 검색 내용 
+제목 : 
+
+                            Google Expands Vertex AI Search and Conversation Capabilities
+                        
+주소 : https://www.infoq.com/news/2023/09/vertex-ai-search-conversation/
+설명 : 
+                         At its Google Cloud Next conference, Google officially introduced new capabilities for its enterprise AI platform, Vertex AI, which aim to enable more advanced user workflows, among other things.
+                    
+2 번째 검색 내용 
+제목 : 
+
+                            Azure Announces Jumpstart Agora
+                        
+주소 : https://www.infoq.com/news/2023/09/azure-jumpstart-agora/
+설명 : 
+                         Microsoft recently introduced Jumpstart Agora, a new initiative to provide end-to-end industry scenarios for cloud-to-edge solutions. The first project that has been released is Contoso Supermarket, a sample point-of-sale application.
+                    
+3 번째 검색 내용 
+제목 : 
+
+                            JDK 21 and JDK 22: What We Know So Far
+                        
+주소 : https://www.infoq.com/news/2023/09/java-21-so-far/
+설명 : 
+                         JDK 21, the next Long-Term Support (LTS) release since JDK 17, has reached its initial release candidate phase with a final set of 15 new features, in the form of JEPs, that can be separated into four categories: Core Java Library, Java Language Specification, HotSpot and Security Library. We examine JDK 21 and predict what features may be targeted for JDK 22.
+                    
+4 번째 검색 내용 
+제목 : 
+
+                            How Spotify Improved its LLM Chatbot in Sidekick
+                        
+주소 : https://www.infoq.com/news/2023/08/Spotify-sidekick-llm-improvement/
+설명 : 
+                         While using a Large Language Model chatbot opens the door to innovative solutions, Spotify engineer Ates Goral argues that crafting the user experience so it is as natural as possible requires some specific efforts to order to reduce latency.
+                    
+5 번째 검색 내용 
+제목 : 
+
+                            OpenTF Foundation Released OpenTF Manifesto
+                        
+주소 : https://www.infoq.com/news/2023/08/opentf-manifesto-terraform/
+설명 : 
+                         On August 15, OpenTF Foundation released the OpenTF Manifesto after the announcement by Hashicorp, on August 10, to change the license from Mozilla Public License (v2.0) (MPL) to Business Source License (v1.1) (BUSL), on all future Terraform releases.
+                    
+6 번째 검색 내용 
+제목 : 
+
+                            How Big Tech Lost its Way - Accountability and Leadership
+                        
+주소 : https://www.infoq.com/news/2023/08/big-tech-accountability/
+설명 : 
+                         Accountability in big tech companies seems to be lacking; it’s rare for people in senior positions to be held accountable. Engineers should be conscious of the culture they want to work in and watch out for their well-being, whereas companies should invest in their leaders to support people’s best work. Andy Walker gave a talk about how big tech lost its way at QCon London 2023.
+                    
+7 번째 검색 내용 
+제목 : 
+
+                            External REST Endpoint Invocation in SQL Azure Now Generally Available
+                        
+주소 : https://www.infoq.com/news/2023/08/azure-sql-rest-endpoint-ga/
+설명 : 
+                         Microsoft recently announced the general availability (GA) of Azure SQL Database External REST Endpoint Integration – an ability to call a REST endpoint natively from Azure SQL Database.
+                    
+8 번째 검색 내용 
+제목 : 
+
+                            OpenSSF New Manifesto Urges the Software Industry to Take Responsibility for Open Source Security
+                        
+주소 : https://www.infoq.com/news/2023/08/openssf-consumption-manifesto/
+설명 : 
+                         The Open Source Consumption Manifesto from OpenSSF aims to make the software industry more aware of its responsibility when it comes to ensuring the software supply chain remains secure and healthy.
+                    
+9 번째 검색 내용 
+제목 : 
+
+                            .NET Upgrade Assistant: Project Features Upgrade and .NET MAUI Improvements
+                        
+주소 : https://www.infoq.com/news/2023/08/dotnet-upgrade-assistant/
+설명 : 
+                         Microsoft has announced an updated version of the .NET Upgrade Assistant in Visual Studio. The new release brings on a series of enhancements designed to simplify the migration process for .NET MAUI. Notably, developers can now also upgrade project features without needing to change the existing .NET version.
+                    
+10 번째 검색 내용 
+제목 : 
+
+                            AWS Introduces M7a General Purpose AMD Genoa Instances
+                        
+주소 : https://www.infoq.com/news/2023/08/aws-ec2-m7a-amd/
+설명 : 
+                         Amazon recently announced the availability of the M7a instances powered by the 4th generation AMD EPYC (Genoa) processors. The new general-purpose instances are priced higher than the previous generation AMD M6a and the latest Intel M7i instances.
+                    
+11 번째 검색 내용 
+제목 : 
+
+                            Budget for Project Users in Google Cloud Lowers the Barrier to Create and Manage Budgets
+                        
+주소 : https://www.infoq.com/news/2023/08/google-cloud-spend-project-owner/
+설명 : 
+                         Google recently introduced budgets for project users, allowing users with a project owner or project editor role to create budgets for their projects without needing access to the higher-level billing account permissions to get notifications based on their cloud spend. This Cloud Billing feature is currently in preview.
+                    
+12 번째 검색 내용 
+제목 : 
+
+                            Spring AI Provides Integration with OpenAI and Azure OpenAI
+                        
+주소 : https://www.infoq.com/news/2023/08/spring-ai/
+설명 : 
+                         The experimental Spring AI project was introduced during the SpringOne conference and allows the creation of AI applications by using common concepts of Spring. Currently the project integrates Azure OpenAI and OpenAI as AI backends. Use cases like content generation, code generation, semantic search and summarization are supported by the project.
+                    
+13 번째 검색 내용 
+제목 : 
+
+                            MicroStream Debuts Eclipse Store Java Persistence Framework at Eclipse Foundation
+                        
+주소 : https://www.infoq.com/news/2023/08/debut-of-eclipse-store/
+설명 : 
+                         MicroStream, an open-source Java persistence framework, recently announced the first release of Eclipse Store under the auspices of the Eclipse Foundation. This first release contains two core components from MicroStream, its Serializer and StorageManager restructured as Eclipse Serializer, and Eclipse Store, respectively.
+                    
+14 번째 검색 내용 
+제목 : 
+
+                            Spring Modulith 1.0 Gains Production-Readiness, IDE Support and Improved Testability
+                        
+주소 : https://www.infoq.com/news/2023/08/spring-modulith-1-0/
+설명 : 
+                         Spring Modulith 1.0 was promoted from its experimental status and became a fully supported Spring project. It structures Spring Boot 3 applications through modules and events. That module structure is now visible in IDEs like Spring Tool Suite and Visual Studio Code. The Event Publication Registry persists event completion faster. And Integration Tests Scenarios ease testing events.
+                    
+15 번째 검색 내용 
+제목 : 
+
+                            Stability AI Launches Open Source Chatbot Stable Chat
+                        
+주소 : https://www.infoq.com/news/2023/08/stable-chat/
+설명 : 
+                         Stability AI, makers of the image generation AI Stable Diffusion, recently launched Stable Chat, a web-based chat interface for their open-access language model Stable Beluga. At the time of its release, Stable Beluga was the best-performing open large language model (LLM) on the HuggingFace leaderboard.
+                    
