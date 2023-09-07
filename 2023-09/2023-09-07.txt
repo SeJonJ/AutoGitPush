@@ -1,13 +1,22 @@
 1 번째 검색 내용 
 제목 : 
 
+                            Direct VPC Egress for Cloud Run in Preview
+                        
+주소 : https://www.infoq.com/news/2023/09/direct-vpc-cloud-run-preview/
+설명 : 
+                         Google Cloud announced the preview release of Direct VPC egress for Cloud Run. The capability enables traffic from Cloud Run containers to access Virtual Private Cloud (VPC) networks without Serverless VPC Access connectors, allowing for cheaper connection routes with larger bandwidth.
+                    
+2 번째 검색 내용 
+제목 : 
+
                             Google Cloud Unveils AlloyDB AI: Transforming PostgreSQL with Advanced Vector Embeddings and AI
                         
 주소 : https://www.infoq.com/news/2023/09/google-cloud-alloydb-ai-preview/
 설명 : 
                          During the recent Google Cloud Next, Google announced AlloyDB AI in preview as an integral part of AlloyDB for PostgreSQL, allowing developers to build generative (gen) Artificial Intelligence (AI) applications leveraging large language models (LLMs) with their real-time operational data through built-in, end-to-end support for vector embeddings.
                     
-2 번째 검색 내용 
+3 번째 검색 내용 
 제목 : 
 
                             Delivery Hero Optimizes Member System with Event-Driven Architecture
@@ -16,7 +25,7 @@
 설명 : 
                          Baemin, a food delivery service experiencing rapid growth, has successfully navigated the transition from a monolithic architecture to a more flexible, microservices-based system. A cornerstone of this transformation is the implementation of an event-driven architecture.
                     
-3 번째 검색 내용 
+4 번째 검색 내용 
 제목 : 
 
                             OpenAI Introduces ChatGPT Enterprise for Business-Focus
@@ -25,7 +34,7 @@
 설명 : 
                          OpenAI is introducing ChatGPT Enterprise, which provides enterprise-grade protection and privacy, limitless higher-speed GPT-4 access, extended context windows for processing longer inputs, additional data analysis capabilities, customization possibilities, and much more.
                     
-4 번째 검색 내용 
+5 번째 검색 내용 
 제목 : 
 
                             6 Tracks Not to Miss at QCon San Francisco, October 2-6, 2023: ML, Architecture, Resilience & More!
@@ -34,7 +43,7 @@
 설명 : 
                          At InfoQ’s international software development conference, QCon San Francisco (October 2-6) 2023, senior software practitioners driving innovation and change in software development will explore real-world architectures, technology, and techniques to help you solve such challenges.
                     
-5 번째 검색 내용 
+6 번째 검색 내용 
 제목 : 
 
                             Meta Open-Sources Code Generation LLM Code Llama
@@ -43,7 +52,7 @@
 설명 : 
                          Meta recently open-sourced Code Llama, a code generation LLM which is based on the Llama 2 foundation model and carries the same community license. Code Llama was fine-tuned on 500B tokens of code and is available in three model sizes ranging up to 34B parameters. In evaluations on code-generation benchmarks, the model outperformed all other open-source models and is comparable to ChatGPT.
                     
-6 번째 검색 내용 
+7 번째 검색 내용 
 제목 : 
 
                             Intra-Account Collection Copy in Azure Cosmos DB for MongoDB in Public Preview
@@ -52,7 +61,7 @@
 설명 : 
                          Microsoft recently introduced the public preview of Intra-Account Collection Copy for Azure Cosmos DB for MongoDB, allowing users to copy collections within the same account - offering enhanced data management and migration capabilities.
                     
-7 번째 검색 내용 
+8 번째 검색 내용 
 제목 : 
 
                             Google Expands Duet AI in Google Cloud for App Development, DevOps, and More
@@ -61,7 +70,7 @@
 설명 : 
                          At Google Cloud Next, Google has expanded its always-on collaborator Duet AI with new features aimed at helping developers with application development, DevOps, database management and migration, data analysis and visualization, as well as cybersecurity.
                     
-8 번째 검색 내용 
+9 번째 검색 내용 
 제목 : 
 
                             Visual Studio for Mac Retirement Officially Announced
@@ -70,7 +79,7 @@
 설명 : 
                          In a recent announcement, Microsoft revealed the Visual Studio for Mac Integrated Development Environment (IDE) retirement. As of August 31, 2024, Visual Studio for Mac 17.6 will discontinue receiving support, marking it as the end of an era for Mac-based .NET developers.
                     
-9 번째 검색 내용 
+10 번째 검색 내용 
 제목 : 
 
                             Stack Overflow Announced OverflowAI Initiative for Generative AI
@@ -79,7 +88,7 @@
 설명 : 
                          Stack Overflow announced the roadmap for the integration of generative AI into their public platform, Stack Overflow for Teams, and brand new product areas, like an IDE integration that brings the vast knowledge of 58 million questions and answers from their community right into the area where developers find focus and get work done.
                     
-10 번째 검색 내용 
+11 번째 검색 내용 
 제목 : 
 
                             Java News Roundup: Single Query Loading, GraalVM, GlassFish, JReleaser, Quarkus, Micronaut
@@ -88,7 +97,7 @@
 설명 : 
                          This week's Java roundup for August 28th, 2023, features news from OpenJDK, JDK 22, JDK 21, GraalVM Native Build Tools 0.9.25, Single Query Loading in Spring JDBC, Quarkus 3.3.1, 3.2.5.Final and 2.16.10.Final, Micronaut 4.1.0 and 4.0.6, Wildfly 29.0.1, Hibernate ORM 6.3.0 and 6.2.8, Hibernate Reactive 2.0.5, GlassFish 7.0.8, Eclipse Vert.x 4.4.5, JKube 1.14.0, JReleaser 1.8.0 and OpenXava 7.1.5.
                     
-11 번째 검색 내용 
+12 번째 검색 내용 
 제목 : 
 
                             Google Expands Vertex AI Search and Conversation Capabilities
@@ -97,7 +106,7 @@
 설명 : 
                          At its Google Cloud Next conference, Google officially introduced new capabilities for its enterprise AI platform, Vertex AI, which aim to enable more advanced user workflows, among other things.
                     
-12 번째 검색 내용 
+13 번째 검색 내용 
 제목 : 
 
                             Azure Announces Jumpstart Agora
@@ -106,7 +115,7 @@
 설명 : 
                          Microsoft recently introduced Jumpstart Agora, a new initiative to provide end-to-end industry scenarios for cloud-to-edge solutions. The first project that has been released is Contoso Supermarket, a sample point-of-sale application.
                     
-13 번째 검색 내용 
+14 번째 검색 내용 
 제목 : 
 
                             JDK 21 and JDK 22: What We Know So Far
@@ -115,7 +124,7 @@
 설명 : 
                          JDK 21, the next Long-Term Support (LTS) release since JDK 17, has reached its initial release candidate phase with a final set of 15 new features, in the form of JEPs, that can be separated into four categories: Core Java Library, Java Language Specification, HotSpot and Security Library. We examine JDK 21 and predict what features may be targeted for JDK 22.
                     
-14 번째 검색 내용 
+15 번째 검색 내용 
 제목 : 
 
                             How Spotify Improved its LLM Chatbot in Sidekick
@@ -123,13 +132,4 @@
 주소 : https://www.infoq.com/news/2023/08/Spotify-sidekick-llm-improvement/
 설명 : 
                          While using a Large Language Model chatbot opens the door to innovative solutions, Spotify engineer Ates Goral argues that crafting the user experience so it is as natural as possible requires some specific efforts to order to reduce latency.
-                    
-15 번째 검색 내용 
-제목 : 
-
-                            OpenTF Foundation Released OpenTF Manifesto
-                        
-주소 : https://www.infoq.com/news/2023/08/opentf-manifesto-terraform/
-설명 : 
-                         On August 15, OpenTF Foundation released the OpenTF Manifesto after the announcement by Hashicorp, on August 10, to change the license from Mozilla Public License (v2.0) (MPL) to Business Source License (v1.1) (BUSL), on all future Terraform releases.
                     
