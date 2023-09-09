@@ -1,13 +1,22 @@
 1 번째 검색 내용 
 제목 : 
 
+                            Cross-Cloud Network: Google Introduces Platform to Connect Applications Across Clouds
+                        
+주소 : https://www.infoq.com/news/2023/09/google-cross-cloud-network/
+설명 : 
+                         During the recent Google Cloud Next conference, the cloud provider announced Cross-Cloud Network, a solution to connect applications across different clouds. The new platform aims to simplify multi-cloud networking with a focus on speed and security.
+                    
+2 번째 검색 내용 
+제목 : 
+
                             Uno Platform 4.10: MAUI Embedding, Hot Restart and Lightweight Styling
                         
 주소 : https://www.infoq.com/news/2023/09/uno-platform-4-10-released/
 설명 : 
                          This week, Uno Platform released version 4.10. Developers can now easily integrate .NET MAUI-specific controls from top 3rd-party vendors, extending this capability across iOS, Android, MacOS, and Windows. Additionally, Uno Platform enables iOS app debugging with Hot Restart Support, control customization through Lightweight Styling, and more security support with Browser CSP for WebAssembly.
                     
-2 번째 검색 내용 
+3 번째 검색 내용 
 제목 : 
 
                             Terraform Cloud Supports Ephemeral Workspaces in Public Beta
@@ -16,7 +25,7 @@
 설명 : 
                          Ephemeral workspaces allows their users to set timeouts to automatically destroy unused resources, reducing infrastructure costs and the effort required for manual resource clean-up. Ephemeral workspaces are now available in public beta on Terraform Cloud Plus.
                     
-3 번째 검색 내용 
+4 번째 검색 내용 
 제목 : 
 
                             Google Announces Ray Support for Vertex AI to Boost Machine Learning Workflows
@@ -25,7 +34,7 @@
 설명 : 
                          Google has announced that it is expanding its open-source support for Vertex AI, its machine learning platform, by adding support for Ray, an open-source unified compute framework. This move is aimed at efficiently scaling AI workloads and enhancing the productivity and operational efficiency of data science teams.
                     
-4 번째 검색 내용 
+5 번째 검색 내용 
 제목 : 
 
                             Navigating Open Source Integration through a DevOps Lens
@@ -34,7 +43,7 @@
 설명 : 
                          Taking a DevOps perspective on open source can help to incorporate an OSS project into your environment. DevOps engineers are comfortable with using third-party integrations, and they align with the open source mindset of breaking down barriers between different groups and promoting teamwork.
                     
-5 번째 검색 내용 
+6 번째 검색 내용 
 제목 : 
 
                             Level-up on emerging software trends: QCon London Software Development Conference, April 8-10, 2024
@@ -43,7 +52,7 @@
 설명 : 
                          QCon London, the Software International Development Conference organized by InfoQ, returns to the city on April 8-10, 2024. Over the last 17 years, QCon has always focused on the people who create and work with future technologies. The Program Committee carefully curates the QCon topics based on the important trends and essential best practices you need to know about.
                     
-6 번째 검색 내용 
+7 번째 검색 내용 
 제목 : 
 
                             Duet AI Integration for Google Apigee API Management and Application Integration
@@ -52,7 +61,7 @@
 설명 : 
                          At its Cloud Next event, Google announced the introduction of Duet AI into its cloud services Apigee API Management and Application integration to support developers in building APIs, integration flows, and extensions that connect Vertex AI or ChatGPT to real-world data through APIs. These capabilities will come in a private preview through Google Cloud’s Trusted Tester program in the coming weeks
                     
-7 번째 검색 내용 
+8 번째 검색 내용 
 제목 : 
 
                             Rider 2023.2 with C# Updates, UX/UI Enhancements and AI Assistant
@@ -61,7 +70,7 @@
 설명 : 
                          Rider 2023.2 is now generally available. This version contains improvements to C# language support. They are related to code readability and improve the programming experience. Further, there are some UI/UX enhancements. JetBrains presented also AI Assistant which for now is limited access.
                     
-8 번째 검색 내용 
+9 번째 검색 내용 
 제목 : 
 
                             Direct VPC Egress for Cloud Run in Preview
@@ -70,7 +79,7 @@
 설명 : 
                          Google Cloud announced the preview release of Direct VPC egress for Cloud Run. The capability enables traffic from Cloud Run containers to access Virtual Private Cloud (VPC) networks without Serverless VPC Access connectors, allowing for cheaper connection routes with larger bandwidth.
                     
-9 번째 검색 내용 
+10 번째 검색 내용 
 제목 : 
 
                             Google Cloud Unveils AlloyDB AI: Transforming PostgreSQL with Advanced Vector Embeddings and AI
@@ -79,7 +88,7 @@
 설명 : 
                          During the recent Google Cloud Next, Google announced AlloyDB AI in preview as an integral part of AlloyDB for PostgreSQL, allowing developers to build generative (gen) Artificial Intelligence (AI) applications leveraging large language models (LLMs) with their real-time operational data through built-in, end-to-end support for vector embeddings.
                     
-10 번째 검색 내용 
+11 번째 검색 내용 
 제목 : 
 
                             Delivery Hero Optimizes Member System with Event-Driven Architecture
@@ -88,7 +97,7 @@
 설명 : 
                          Baemin, a food delivery service experiencing rapid growth, has successfully navigated the transition from a monolithic architecture to a more flexible, microservices-based system. A cornerstone of this transformation is the implementation of an event-driven architecture.
                     
-11 번째 검색 내용 
+12 번째 검색 내용 
 제목 : 
 
                             OpenAI Introduces ChatGPT Enterprise for Business-Focus
@@ -97,7 +106,7 @@
 설명 : 
                          OpenAI is introducing ChatGPT Enterprise, which provides enterprise-grade protection and privacy, limitless higher-speed GPT-4 access, extended context windows for processing longer inputs, additional data analysis capabilities, customization possibilities, and much more.
                     
-12 번째 검색 내용 
+13 번째 검색 내용 
 제목 : 
 
                             6 Tracks Not to Miss at QCon San Francisco, October 2-6, 2023: ML, Architecture, Resilience & More!
@@ -106,7 +115,7 @@
 설명 : 
                          At InfoQ’s international software development conference, QCon San Francisco (October 2-6) 2023, senior software practitioners driving innovation and change in software development will explore real-world architectures, technology, and techniques to help you solve such challenges.
                     
-13 번째 검색 내용 
+14 번째 검색 내용 
 제목 : 
 
                             Meta Open-Sources Code Generation LLM Code Llama
@@ -115,7 +124,7 @@
 설명 : 
                          Meta recently open-sourced Code Llama, a code generation LLM which is based on the Llama 2 foundation model and carries the same community license. Code Llama was fine-tuned on 500B tokens of code and is available in three model sizes ranging up to 34B parameters. In evaluations on code-generation benchmarks, the model outperformed all other open-source models and is comparable to ChatGPT.
                     
-14 번째 검색 내용 
+15 번째 검색 내용 
 제목 : 
 
                             Intra-Account Collection Copy in Azure Cosmos DB for MongoDB in Public Preview
@@ -123,13 +132,4 @@
 주소 : https://www.infoq.com/news/2023/09/azure-cosmos-intra-account-copy/
 설명 : 
                          Microsoft recently introduced the public preview of Intra-Account Collection Copy for Azure Cosmos DB for MongoDB, allowing users to copy collections within the same account - offering enhanced data management and migration capabilities.
-                    
-15 번째 검색 내용 
-제목 : 
-
-                            Google Expands Duet AI in Google Cloud for App Development, DevOps, and More
-                        
-주소 : https://www.infoq.com/news/2023/09/google-duet-ai-cloud/
-설명 : 
-                         At Google Cloud Next, Google has expanded its always-on collaborator Duet AI with new features aimed at helping developers with application development, DevOps, database management and migration, data analysis and visualization, as well as cybersecurity.
                     
