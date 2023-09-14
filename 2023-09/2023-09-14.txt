@@ -1,13 +1,22 @@
 1 번째 검색 내용 
 제목 : 
 
+                            .NET MAUI in .NET 8 RC 1: Quality Improvements and Xcode 15 Beta Support
+                        
+주소 : https://www.infoq.com/news/2023/09/dotnet-maui-8-rc-1/
+설명 : 
+                         Microsoft has recently released the first Release Candidate version of the .NET Multi-platform App UI (MAUI) framework in the .NET 8 roadmap. As reported, this release candidate version is focused on code quality, various UI improvements, and performance optimizations and it comes with Xcode 15 beta support for Apple SDKs.
+                    
+2 번째 검색 내용 
+제목 : 
+
                             RustRover is a New Standalone IDE  for Rust from JetBrains
                         
 주소 : https://www.infoq.com/news/2023/09/rustrover-ide-early-access/
 설명 : 
                          JetBrains has announced its new standalone Rust IDE, RustRover, which is now accessible under an early access program and will bring Rust support on a par with other languages supported by JetBrains IDE, says the company.
                     
-2 번째 검색 내용 
+3 번째 검색 내용 
 제목 : 
 
                             Enhanced Error Handling for Step Functions Provides Developers with Fine-Grained Control over Retry
@@ -16,7 +25,7 @@
 설명 : 
                          AWS recently announced the availability of enhanced error handling capabilities in AWS Step Functions workflows allowing developers to identify errors more clearly and provide them with fine-grained control over their retry strategies.
                     
-3 번째 검색 내용 
+4 번째 검색 내용 
 제목 : 
 
                             Windows Community Toolkit 8.0.0 Simplifies Code Portability on Windows Platform
@@ -25,7 +34,7 @@
 설명 : 
                          Microsoft released version 8.0.0 of the Windows Community Toolkit in September 2023. The updated version unifies the namespaces for both WinUI 3 and UWP code, simplifying the code portability for developers.
                     
-4 번째 검색 내용 
+5 번째 검색 내용 
 제목 : 
 
                             Abu Dhabi Releases Largest Openly-Available Language Model Falcon 180B
@@ -34,7 +43,7 @@
 설명 : 
                          The Abu Dhabi government's Technology Innovation Institute (TII) released Falcon 180B, currently the largest openly-available large language model (LLM). Falcon 180B contains 180 billion parameters and outperforms GPT-3.5 on the MMLU benchmark.
                     
-5 번째 검색 내용 
+6 번째 검색 내용 
 제목 : 
 
                             AWS Unveils Multi-Model Endpoints for PyTorch on SageMaker
@@ -43,7 +52,7 @@
 설명 : 
                          AWS has introduced Multi-Model Endpoints for PyTorch on Amazon SageMaker. This latest development promises to revolutionize the AI landscape, offering users more flexibility and efficiency when deploying machine learning models.
                     
-6 번째 검색 내용 
+7 번째 검색 내용 
 제목 : 
 
                             Azure Container Apps Workload Profiles, Dedicated Plans, More Networking Features, and Jobs GA
@@ -52,7 +61,7 @@
 설명 : 
                          Microsoft recently announced the general availability of several Azure Container App features: workload profiles environment, dedicated plan, additional networking features, and jobs.
                     
-7 번째 검색 내용 
+8 번째 검색 내용 
 제목 : 
 
                             LinkedIn's Open-Source "iris-message-processor" Achieves 86.6x Faster Escalation Management Speeds
@@ -61,7 +70,7 @@
 설명 : 
                          LinkedIn developed a new open-source service called "iris-message-processor" to enhance the performance and reliability of its existing Iris escalation management system. "iris-message-processor" significantly improves processing speeds, being ~4.6x faster under average loads and ~86.6x faster under high loads than its predecessor.
                     
-8 번째 검색 내용 
+9 번째 검색 내용 
 제목 : 
 
                             AI, ML, Data Engineering News Roundup: Stable Chat, Vertex AI, ChatGPT and Code Llama
@@ -70,7 +79,7 @@
 설명 : 
                          The most recent update, which covers developments through September 4, 2023, highlights significant pronouncements and accomplishments in the fields of artificial intelligence, machine learning, and data science. Developments from Stability AI, Google, OpenAI, and Meta were among this week's significant stories.
                     
-9 번째 검색 내용 
+10 번째 검색 내용 
 제목 : 
 
                             Weekly Update on Large Language Models: PointLLM, WALL-E, AskIt, and Jais
@@ -79,7 +88,7 @@
 설명 : 
                          The most recent compilation of advanced research, inventive applications, and notable unveilings in the realm of Large Language Models (LLMs) during the week starting September 4th, 2023.
                     
-10 번째 검색 내용 
+11 번째 검색 내용 
 제목 : 
 
                             Java News Roundup: JDK 22 Release Schedule, Project Babylon, Helidon 4.0-RC2, MicroProfile 6.1-RC1
@@ -88,7 +97,7 @@
 설명 : 
                          This week's Java roundup for September 4th, 2023, features news from OpenJDK, JDK 22, JDK 21, GraalVM Native Build Tools 0.9.26, Quarkus 3.3.2, MicroProfile 6.1-RC1, MicroProfile Config 3.1-RC2, Helidon 4.0.0-M2, Open Liberty 23.0.0.9-beta, Hibernate Search 7.0.0.Beta1, Infinispan 14.0.17.Final, Eclipse Mojarra 4.0.4, JDKMon 17.0.71, JHipster 8.0.0-beta.3 and 7.9.4 and JavaZone 2023 Conference.
                     
-11 번째 검색 내용 
+12 번째 검색 내용 
 제목 : 
 
                             AWS Lambda Deprecates Go Runtime
@@ -97,7 +106,7 @@
 설명 : 
                          AWS Lambda is deprecating the go1.x runtime, announcing support for Go exclusively in the Amazon Linux 2 runtime. The announcement and the need to migrate by the end of the year to the custom provided.al2 runtime raised concerns in the Go community.
                     
-12 번째 검색 내용 
+13 번째 검색 내용 
 제목 : 
 
                             Cross-Cloud Network: Google Introduces Platform to Connect Applications across Clouds
@@ -106,7 +115,7 @@
 설명 : 
                          During the recent Google Cloud Next conference, the cloud provider announced Cross-Cloud Network, a solution to connect applications across different clouds. The new platform aims to simplify multi-cloud networking with a focus on speed and security.
                     
-13 번째 검색 내용 
+14 번째 검색 내용 
 제목 : 
 
                             Uno Platform 4.10: MAUI Embedding, Hot Restart and Lightweight Styling
@@ -115,7 +124,7 @@
 설명 : 
                          This week, Uno Platform released version 4.10. Developers can now easily integrate .NET MAUI-specific controls from top 3rd-party vendors, extending this capability across iOS, Android, MacOS, and Windows. Additionally, Uno Platform enables iOS app debugging with Hot Restart Support, control customization through Lightweight Styling, and more security support with Browser CSP for WebAssembly.
                     
-14 번째 검색 내용 
+15 번째 검색 내용 
 제목 : 
 
                             Terraform Cloud Supports Ephemeral Workspaces in Public Beta
@@ -123,13 +132,4 @@
 주소 : https://www.infoq.com/news/2023/09/terraform-ephemeral-workspaces/
 설명 : 
                          Ephemeral workspaces allows their users to set timeouts to automatically destroy unused resources, reducing infrastructure costs and the effort required for manual resource clean-up. Ephemeral workspaces are now available in public beta on Terraform Cloud Plus.
-                    
-15 번째 검색 내용 
-제목 : 
-
-                            Google Announces Ray Support for Vertex AI to Boost Machine Learning Workflows
-                        
-주소 : https://www.infoq.com/news/2023/09/Google-Announces-Ray-Support/
-설명 : 
-                         Google has announced that it is expanding its open-source support for Vertex AI, its machine learning platform, by adding support for Ray, an open-source unified compute framework. This move is aimed at efficiently scaling AI workloads and enhancing the productivity and operational efficiency of data science teams.
                     
