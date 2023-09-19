@@ -1,0 +1,135 @@
+1 번째 검색 내용 
+제목 : 
+
+                            Java News Roundup: JCP 25th Anniversary, Foreign Function & Memory API, Eclipse Epicyro
+                        
+주소 : https://www.infoq.com/news/2023/09/java-news-roundup-sep11-2023/
+설명 : 
+                         This week's Java roundup for September 11th, 2023 features news from OpenJDK, JCP, JDK 22, JDK 21, Payara Platform, Eclipse Epicyro, Grails Plugin Portal and milestone and point releases for: Spring Framework, Spring Data, Spring Tools, Quarkus, Micronaut, Helidon, MicroProfile Telemetry, Groovy, Camel Quarkus, Micrometer Metrics and Tracing, Piranha, JobRunr, JHipster Lite and Project Reactor.
+                    
+2 번째 검색 내용 
+제목 : 
+
+                            Azure Launches Free Playground for WordPress on App Service
+                        
+주소 : https://www.infoq.com/news/2023/09/azure-wordpress-free-playground/
+설명 : 
+                         One year after introducing WordPress on Azure App Service, Microsoft has started offering a free hosting tier for developers to explore with WordPress on Azure without incurring any costs (almost).
+                    
+3 번째 검색 내용 
+제목 : 
+
+                            Reddit Adopts Server-Driven UI for Its New Feed Architecture Across Mobile Apps
+                        
+주소 : https://www.infoq.com/news/2023/09/reddit-feed-server-driven-ui/
+설명 : 
+                         Reddit reworked its feeds functionality in the iOS mobile app and introduced it to the Android app. In both cases, they used the Server-Driven UI (SDUI) as their communication approach, which allows localized content layout changes without mobile app releases.
+                    
+4 번째 검색 내용 
+제목 : 
+
+                            JCP EC Industry Experts Reveal Their Favorite JDK 21 Feature at Special Oracle Event in NYC
+                        
+주소 : https://www.infoq.com/news/2023/09/jcp-25th-anniversary/
+설명 : 
+                         At a special event hosted by the New York Java Special Interest Group and Garden State Java User Group at BNY Mellon in New York City, industry experts from the Java Community Process (JCP) Executive Committee participated in a panel discussion to reveal their favorite features from the upcoming release of JDK 21. Included in the festivities was a celebration of the 25th anniversary of the JCP.
+                    
+5 번째 검색 내용 
+제목 : 
+
+                            Go 1.21 Toolchain is Now Reproducible to Help Safeguard from Supply-Chain Attacks
+                        
+주소 : https://www.infoq.com/news/2023/09/go-toolchain-reproducible-builds/
+설명 : 
+                         Go 1.21 toolchain is the first Go toolchain to be perfectly reproducible. This makes it possible to reduce the risk that a malicious actor can tamper with the output binaries, explains Google engineer Russ Cox, to carry through a supply chain attack.
+                    
+6 번째 검색 내용 
+제목 : 
+
+                            AWS Introduces Dedicated Local Zones for Sovereignty Requirements
+                        
+주소 : https://www.infoq.com/news/2023/09/aws-dedicated-local-zones/
+설명 : 
+                         AWS has recently introduced Dedicated Local Zones, enabling customers to isolate sensitive workloads to meet their digital sovereignty requirements. This new option is designed for public sector and regulated industry customers who need dedicated infrastructure.
+                    
+7 번째 검색 내용 
+제목 : 
+
+                            Grafana Beyla Provides Auto-Instrumented Observability through eBPF
+                        
+주소 : https://www.infoq.com/news/2023/09/grafana-beyla-observability/
+설명 : 
+                         Grafana has released Grafana Beyla, an open-source eBPF auto-instrumentation tool for application observability. Beyla is able to report span information and RED metrics (Rate-Errors-Duration) for both Linux HTTP/S and gRPC services. This is accomplished without having to make code modifications for inserting probes.
+                    
+8 번째 검색 내용 
+제목 : 
+
+                            Handling Conflicts by Dealing with Emotions
+                        
+주소 : https://www.infoq.com/news/2023/09/conflicts-dealing-emotions/
+설명 : 
+                         Emotions are at the heart of conflicts, influencing their initiation, escalation and dynamics. Effectively managing your own emotions and understanding those of others can greatly impact the outcome of a conflict. Two steps to be taken are to label emotions, and take control and determine which emotion you want to focus on.
+                    
+9 번째 검색 내용 
+제목 : 
+
+                            AWS Launches AWS Private CA Connector for Active Directory
+                        
+주소 : https://www.infoq.com/news/2023/09/aws-private-ca-active-directory/
+설명 : 
+                         AWS recently launched the AWS Private Certificate Authority (CA) Connector for Active Directory (AD). It is a new feature that allows enterprises to use AWS Private CA as a drop-in replacement for self-managed enterprise certificate authorities without the need to deploy, patch, or update local agents or proxy servers.
+                    
+10 번째 검색 내용 
+제목 : 
+
+                            .NET MAUI in .NET 8 RC 1: Quality Improvements and Xcode 15 Beta Support
+                        
+주소 : https://www.infoq.com/news/2023/09/dotnet-maui-8-rc-1/
+설명 : 
+                         Microsoft has recently released the first Release Candidate version of the .NET Multi-platform App UI (MAUI) framework in the .NET 8 roadmap. As reported, this release candidate version is focused on code quality, various UI improvements, and performance optimizations and it comes with Xcode 15 beta support for Apple SDKs.
+                    
+11 번째 검색 내용 
+제목 : 
+
+                            RustRover is a New Standalone IDE  for Rust from JetBrains
+                        
+주소 : https://www.infoq.com/news/2023/09/rustrover-ide-early-access/
+설명 : 
+                         JetBrains has announced its new standalone Rust IDE, RustRover, which is now accessible under an early access program and will bring Rust support on a par with other languages supported by JetBrains IDE, says the company.
+                    
+12 번째 검색 내용 
+제목 : 
+
+                            Enhanced Error Handling for Step Functions Provides Developers with Fine-Grained Control over Retry
+                        
+주소 : https://www.infoq.com/news/2023/09/step-functions-retry-control/
+설명 : 
+                         AWS recently announced the availability of enhanced error handling capabilities in AWS Step Functions workflows allowing developers to identify errors more clearly and provide them with fine-grained control over their retry strategies.
+                    
+13 번째 검색 내용 
+제목 : 
+
+                            Windows Community Toolkit 8.0.0 Simplifies Code Portability on Windows Platform
+                        
+주소 : https://www.infoq.com/news/2023/09/windows-community-toolkit-8/
+설명 : 
+                         Microsoft released version 8.0.0 of the Windows Community Toolkit in September 2023. The updated version unifies the namespaces for both WinUI 3 and UWP code, simplifying the code portability for developers.
+                    
+14 번째 검색 내용 
+제목 : 
+
+                            Abu Dhabi Releases Largest Openly-Available Language Model Falcon 180B
+                        
+주소 : https://www.infoq.com/news/2023/09/falcon-180b-llm/
+설명 : 
+                         The Abu Dhabi government's Technology Innovation Institute (TII) released Falcon 180B, currently the largest openly-available large language model (LLM). Falcon 180B contains 180 billion parameters and outperforms GPT-3.5 on the MMLU benchmark.
+                    
+15 번째 검색 내용 
+제목 : 
+
+                            AWS Unveils Multi-Model Endpoints for PyTorch on SageMaker
+                        
+주소 : https://www.infoq.com/news/2023/09/aws-sagemaker-pytorch/
+설명 : 
+                         AWS has introduced Multi-Model Endpoints for PyTorch on Amazon SageMaker. This latest development promises to revolutionize the AI landscape, offering users more flexibility and efficiency when deploying machine learning models.
+                    
