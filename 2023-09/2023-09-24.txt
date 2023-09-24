@@ -1,0 +1,137 @@
+1 번째 검색 내용 
+제목 : 
+
+                            Node.js Alternative Bun Now Generally Available
+                        
+주소 : https://www.infoq.com/news/2023/09/bun-ga-nodejs-alternative/
+설명 : 
+                         The release 1.0 of the JavaScript toolkit Bun has been recently announced. Aiming to be a drop-in replacement for Node.js, Bun is garnering attention from the JavaScript and serverless communities for its speed and ease of use.
+                    
+2 번째 검색 내용 
+제목 : 
+
+                            Microsoft AI Researchers Accidentally Exposed 38TB of Sensitive Data
+                        
+주소 : https://www.infoq.com/news/2023/09/microsoft-38tb-data-leak/
+설명 : 
+                         Security researchers at cloud-security company Wiz discovered a data leak affecting Microsoft's AI GitHub repository, including a huge amount of private data and a disk backup of two employees' workstations with sensitive data.
+                    
+3 번째 검색 내용 
+제목 : 
+
+                            Implementation of Zero-Configuration Service Mesh at Netflix.
+                        
+주소 : https://www.infoq.com/news/2023/09/zero-config-service-mesh-netflix/
+설명 : 
+                         Netflix describes in this post why they engaged the Envoy community and Kinvolk to implement a new feature for Envoy, the open-source proxy developed by Lyft. This new feature called On-Demand Cluster Discovery helped Netflix to implement a zero-configuration service mesh.
+                    
+4 번째 검색 내용 
+제목 : 
+
+                            How to Create a UI That's Both Robust and User Friendly
+                        
+주소 : https://www.infoq.com/news/2023/09/UI-robust-user-friendly/
+설명 : 
+                         The key challenge in building UIs is balancing ease of use and maintainability, with scale and complexity. It requires thoughtful component design and an understanding of common usage paths to create a UI that's both robust and user-friendly. Automation can be a game-changer when it comes to improving efficiency and consistency in your codebase.
+                    
+5 번째 검색 내용 
+제목 : 
+
+                            Google Compute Engine Future Reservations in Public Preview
+                        
+주소 : https://www.infoq.com/news/2023/09/google-vm-future-reservations/
+설명 : 
+                         Google recently introduced a new future reservation feature in public preview for its Compute Engine, allowing users to request compute capacity for a future date.
+                    
+6 번째 검색 내용 
+제목 : 
+
+                            Visual Studio 2022 17.8 Preview 2: Productivity, C++ Enhancements, and Debugging Improvements
+                        
+주소 : https://www.infoq.com/news/2023/09/vs2022-v17-8-preview-2/
+설명 : 
+                         Microsoft has released the second preview of Visual Studio 2022 version 17.8. Preview 2 brings a range of improvements and features aimed at enhancing developer productivity and code debugging as well as some additional C++ and Game Dev enhancements. The latest version is available for download, and developers have the opportunity to explore and utilise its advancements in the preview version.
+                    
+7 번째 검색 내용 
+제목 : 
+
+                            Node.js 2023 Edition Available
+                        
+주소 : https://www.infoq.com/news/2023/09/node-js-2023-edition/
+설명 : 
+                         The Node.js team has recently released version 20.6.0, which brings improvements in environment variable configuration, module resolution, module customization, and experimental support for C++ garbage collection.
+This update streamlines the management of environment variables.
+                    
+8 번째 검색 내용 
+제목 : 
+
+                            AI a “Must-Have” in GitLab’s 2023 Global DevSecOps Report
+                        
+주소 : https://www.infoq.com/news/2023/09/gitlab-global-devsecops-ai/
+설명 : 
+                         GitLab has released their 2023 Global DevSecOps AI report, with the key finding that AI and ML use is evolving from a "nice-to-have" to a "must-have".
+The report shows that 23% of organizations are already using AI in software development, and of those, 60% are using it daily. Furthermore, 65% of respondents said they are using AI and ML for testing now, or would be within the next three years.
+                    
+9 번째 검색 내용 
+제목 : 
+
+                            GitHub Dependabot Gets Customizable Auto-Triage Rules to Reduce False Positives
+                        
+주소 : https://www.infoq.com/news/2023/09/GitHub-dependabot-auto-triage/
+설명 : 
+                         After launching Dependabot's auto-dismiss policies a few months ago to reduce the number of false positive alerts, GitHub is now adding custom rules support for developers to define the criteria to auto-dismiss and reopen alerts.
+                    
+10 번째 검색 내용 
+제목 : 
+
+                            Java 21, the Next LTS Release, Delivers Virtual Threads, Record Patterns and Pattern Matching
+                        
+주소 : https://www.infoq.com/news/2023/09/java21-released/
+설명 : 
+                         Oracle has released version 21 of the Java programming language and virtual machine. As the first release offering long-term support since JDK 17 in 2021, the final feature set includes 15 JEPs. Three of these - Virtual Threads, Record Patterns and Pattern Matching for switch - have completed their respective rounds of previews and are now finalized.
+                    
+11 번째 검색 내용 
+제목 : 
+
+                            Meta Open-Sources Multilingual Translation Foundation Model SeamlessM4T
+                        
+주소 : https://www.infoq.com/news/2023/09/meta-seamless-translation/
+설명 : 
+                         Meta recently open-sourced Massively Multilingual & Multimodal Machine Translation (SeamlessM4T), a multilingual translation AI that can translate both speech audio and text data across nearly 100 languages. SeamlessM4T is trained on 1 million hours of audio data and outperforms the current state-of-the-art speech-to-text translation model.
+                    
+12 번째 검색 내용 
+제목 : 
+
+                            SharePoint Framework 1.18 Refreshes Viva Connections Cards and Supports Node 18
+                        
+주소 : https://www.infoq.com/news/2023/09/spfx-1-18-viva-connections/
+설명 : 
+                         Microsoft recently released version 1.18 of SharePoint Framework with several updates, focused on Viva Connections' components feature updates but also bringing updates for some long-standing dependencies.
+                    
+13 번째 검색 내용 
+제목 : 
+
+                            Cloudflare One Data Protection Suite for Data Security across Web, Private, and SaaS Applications
+                        
+주소 : https://www.infoq.com/news/2023/09/cloudflare-one-data-protection/
+설명 : 
+                         Cloudflare recently announced its One Data Protection Suite, a unified set of advanced security solutions designed to protect data across every environment – web, private, and SaaS applications. The company states the suite is powered by Cloudflare’s Security Service Edge (SSE), allowing customers to streamline compliance in the cloud, mitigate data exposure and loss of source code.
+                    
+14 번째 검색 내용 
+제목 : 
+
+                            HashiCorp Vault Secrets Operator for Kubernetes Moves into General Availability
+                        
+주소 : https://www.infoq.com/news/2023/09/hashicorp-vault-kubernetes/
+설명 : 
+                         HashiCorp has moved the HashiCorp Vault Secrets Operator for Kubernetes into general availability. This Kubernetes Operator combines Vault's secret management tooling with the Kubernetes Secrets cache. The operator also handles secret rotation and has controllers for the various secret-specific custom resources.
+                    
+15 번째 검색 내용 
+제목 : 
+
+                            State of Serverless 2023 Report Suggests Increasing Serverless Adoption
+                        
+주소 : https://www.infoq.com/news/2023/09/state-serverless-report/
+설명 : 
+                         Datadog recently published the 'State of Serverless 2023' report, an annual analysis tracking the adoption of serverless technologies in cloud workloads. The major cloud providers are witnessing substantial growth in serverless usage, especially for container-based solutions.
+                    
