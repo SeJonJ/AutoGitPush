@@ -1,13 +1,31 @@
 1 번째 검색 내용 
 제목 : 
 
+                            Testcontainers Desktop Provides Support for Investigations and Debugging
+                        
+주소 : https://www.infoq.com/news/2023/09/testcontainers-desktop/
+설명 : 
+                         AtomicJar has introduced the freely available Testcontainers Desktop. Testcontainers Desktop supports several features that aren't available in the Testcontainers framework and offers better support for investigations and debugging with fixed ports for containers and the option to freeze and reuse containers. Lastly the application supports switching easily between container runtimes.
+                    
+2 번째 검색 내용 
+제목 : 
+
+                            High Performance Functions in Rust on RDS PostgreSQL
+                        
+주소 : https://www.infoq.com/news/2023/09/rust-rds-postgresql/
+설명 : 
+                         AWS announced the general availability of the Rust procedural language handler, PL/Rust, for Amazon Relational Database Service (RDS) instances running versions 13 and 14 of PostgreSQL. This builds on the previous release in May 2023 that enabled the functionality only  for instances running PostgreSQL version 15.
+                    
+3 번째 검색 내용 
+제목 : 
+
                             Kubernetes 1.28 Released with New Repositories and Fixes for Privilege Escalation in Windows
                         
 주소 : https://www.infoq.com/news/2023/09/kubernetes-1-28/
 설명 : 
                          The Cloud Native Computing Foundation (CNCF) released Kubernetes 1.28 named Planternetes. The release has new features such as mixed version proxy, support for CDI injection into containers, and sidecar container awareness.
                     
-2 번째 검색 내용 
+4 번째 검색 내용 
 제목 : 
 
                             AWS CodeArtifact Now Supports the Swift Package Manager
@@ -16,7 +34,7 @@
 설명 : 
                          AWS-based software artifact repository CodeArtifact now supports the Swift Package Manager, in addition to Maven, NuGet, npm, pip, and others. This allows developers to store and retrieve Swift packages using Apple's official package manager just like they do when using other repositories.
                     
-3 번째 검색 내용 
+5 번째 검색 내용 
 제목 : 
 
                             Google Cloud Adds Service for Managing Terraform Deployments
@@ -25,7 +43,7 @@
 설명 : 
                          Google Cloud announced last week the addition of Terraform as a managed service. The service, known as Infrastructure Manager, manages the deployment of Terraform configurations into Google Cloud. Infrastructure Manager provides an interface for querying the state of the deployment and resources as defined within the configuration.
                     
-4 번째 검색 내용 
+6 번째 검색 내용 
 제목 : 
 
                             Microsoft Announces Copilot Copyright Commitment to Address IP Infringement Concerns
@@ -34,7 +52,7 @@
 설명 : 
                          Microsoft recently published the Copilot Copyright Commitment to address concerns about potential IP infringement claims from content produced by generative AI. Under this commitment, which covers various products, including GitHub Copilot, Microsoft will take responsibility for potential legal risks if a customer faces copyright challenges.
                     
-5 번째 검색 내용 
+7 번째 검색 내용 
 제목 : 
 
                             Node.js Alternative Bun Now Generally Available
@@ -43,7 +61,7 @@
 설명 : 
                          The release 1.0 of the JavaScript toolkit Bun has been recently announced. Aiming to be a drop-in replacement for Node.js, Bun is garnering attention from the JavaScript and serverless communities for its speed and ease of use.
                     
-6 번째 검색 내용 
+8 번째 검색 내용 
 제목 : 
 
                             Microsoft AI Researchers Accidentally Exposed 38TB of Sensitive Data
@@ -52,7 +70,7 @@
 설명 : 
                          Security researchers at cloud-security company Wiz discovered a data leak affecting Microsoft's AI GitHub repository, including a huge amount of private data and a disk backup of two employees' workstations with sensitive data.
                     
-7 번째 검색 내용 
+9 번째 검색 내용 
 제목 : 
 
                             Implementation of Zero-Configuration Service Mesh at Netflix.
@@ -61,7 +79,7 @@
 설명 : 
                          Netflix describes in this post why they engaged the Envoy community and Kinvolk to implement a new feature for Envoy, the open-source proxy developed by Lyft. This new feature called On-Demand Cluster Discovery helped Netflix to implement a zero-configuration service mesh.
                     
-8 번째 검색 내용 
+10 번째 검색 내용 
 제목 : 
 
                             How to Create a UI That's Both Robust and User Friendly
@@ -70,7 +88,7 @@
 설명 : 
                          The key challenge in building UIs is balancing ease of use and maintainability, with scale and complexity. It requires thoughtful component design and an understanding of common usage paths to create a UI that's both robust and user-friendly. Automation can be a game-changer when it comes to improving efficiency and consistency in your codebase.
                     
-9 번째 검색 내용 
+11 번째 검색 내용 
 제목 : 
 
                             Google Compute Engine Future Reservations in Public Preview
@@ -79,7 +97,7 @@
 설명 : 
                          Google recently introduced a new future reservation feature in public preview for its Compute Engine, allowing users to request compute capacity for a future date.
                     
-10 번째 검색 내용 
+12 번째 검색 내용 
 제목 : 
 
                             Visual Studio 2022 17.8 Preview 2: Productivity, C++ Enhancements, and Debugging Improvements
@@ -88,7 +106,7 @@
 설명 : 
                          Microsoft has released the second preview of Visual Studio 2022 version 17.8. Preview 2 brings a range of improvements and features aimed at enhancing developer productivity and code debugging as well as some additional C++ and Game Dev enhancements. The latest version is available for download, and developers have the opportunity to explore and utilise its advancements in the preview version.
                     
-11 번째 검색 내용 
+13 번째 검색 내용 
 제목 : 
 
                             Node.js 2023 Edition Available
@@ -98,7 +116,7 @@
                          The Node.js team has recently released version 20.6.0, which brings improvements in environment variable configuration, module resolution, module customization, and experimental support for C++ garbage collection.
 This update streamlines the management of environment variables.
                     
-12 번째 검색 내용 
+14 번째 검색 내용 
 제목 : 
 
                             AI a “Must-Have” in GitLab’s 2023 Global DevSecOps Report
@@ -108,7 +126,7 @@ This update streamlines the management of environment variables.
                          GitLab has released their 2023 Global DevSecOps AI report, with the key finding that AI and ML use is evolving from a "nice-to-have" to a "must-have".
 The report shows that 23% of organizations are already using AI in software development, and of those, 60% are using it daily. Furthermore, 65% of respondents said they are using AI and ML for testing now, or would be within the next three years.
                     
-13 번째 검색 내용 
+15 번째 검색 내용 
 제목 : 
 
                             GitHub Dependabot Gets Customizable Auto-Triage Rules to Reduce False Positives
@@ -116,22 +134,4 @@ The report shows that 23% of organizations are already using AI in software deve
 주소 : https://www.infoq.com/news/2023/09/GitHub-dependabot-auto-triage/
 설명 : 
                          After launching Dependabot's auto-dismiss policies a few months ago to reduce the number of false positive alerts, GitHub is now adding custom rules support for developers to define the criteria to auto-dismiss and reopen alerts.
-                    
-14 번째 검색 내용 
-제목 : 
-
-                            Java 21, the Next LTS Release, Delivers Virtual Threads, Record Patterns and Pattern Matching
-                        
-주소 : https://www.infoq.com/news/2023/09/java21-released/
-설명 : 
-                         Oracle has released version 21 of the Java programming language and virtual machine. As the first release offering long-term support since JDK 17 in 2021, the final feature set includes 15 JEPs. Three of these - Virtual Threads, Record Patterns and Pattern Matching for switch - have completed their respective rounds of previews and are now finalized.
-                    
-15 번째 검색 내용 
-제목 : 
-
-                            Meta Open-Sources Multilingual Translation Foundation Model SeamlessM4T
-                        
-주소 : https://www.infoq.com/news/2023/09/meta-seamless-translation/
-설명 : 
-                         Meta recently open-sourced Massively Multilingual & Multimodal Machine Translation (SeamlessM4T), a multilingual translation AI that can translate both speech audio and text data across nearly 100 languages. SeamlessM4T is trained on 1 million hours of audio data and outperforms the current state-of-the-art speech-to-text translation model.
                     
