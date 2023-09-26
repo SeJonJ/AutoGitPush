@@ -1,0 +1,137 @@
+1 번째 검색 내용 
+제목 : 
+
+                            Hugging Face's Guide to Optimizing LLMs in Production
+                        
+주소 : https://www.infoq.com/news/2023/09/hugging-face-optimizing-llms/
+설명 : 
+                         When it comes to deploying Large Language Models (LLMs) in production, the two major challenges originate from the huge amount of parameters they require and the necessity of handling very long input sequences to represent contextual information. Hugging Face has documented a list of techniques to tackle those hurdles based on their experience serving such models.
+                    
+2 번째 검색 내용 
+제목 : 
+
+                            Testcontainers Desktop Provides Support for Investigations and Debugging
+                        
+주소 : https://www.infoq.com/news/2023/09/testcontainers-desktop/
+설명 : 
+                         AtomicJar has introduced the freely available Testcontainers Desktop. Testcontainers Desktop supports several features that aren't available in the Testcontainers framework and offers better support for investigations and debugging with fixed ports for containers and the option to freeze and reuse containers. Lastly the application supports switching easily between container runtimes.
+                    
+3 번째 검색 내용 
+제목 : 
+
+                            High Performance Functions in Rust on RDS PostgreSQL
+                        
+주소 : https://www.infoq.com/news/2023/09/rust-rds-postgresql/
+설명 : 
+                         AWS announced the general availability of the Rust procedural language handler, PL/Rust, for Amazon Relational Database Service (RDS) instances running versions 13 and 14 of PostgreSQL. This builds on the previous release in May 2023 that enabled the functionality only  for instances running PostgreSQL version 15.
+                    
+4 번째 검색 내용 
+제목 : 
+
+                            Kubernetes 1.28 Released with New Repositories and Fixes for Privilege Escalation in Windows
+                        
+주소 : https://www.infoq.com/news/2023/09/kubernetes-1-28/
+설명 : 
+                         The Cloud Native Computing Foundation (CNCF) released Kubernetes 1.28 named Planternetes. The release has new features such as mixed version proxy, support for CDI injection into containers, and sidecar container awareness.
+                    
+5 번째 검색 내용 
+제목 : 
+
+                            AWS CodeArtifact Now Supports the Swift Package Manager
+                        
+주소 : https://www.infoq.com/news/2023/09/asw-codeartifact-swift-support/
+설명 : 
+                         AWS-based software artifact repository CodeArtifact now supports the Swift Package Manager, in addition to Maven, NuGet, npm, pip, and others. This allows developers to store and retrieve Swift packages using Apple's official package manager just like they do when using other repositories.
+                    
+6 번째 검색 내용 
+제목 : 
+
+                            Google Cloud Adds Service for Managing Terraform Deployments
+                        
+주소 : https://www.infoq.com/news/2023/09/google-cloud-terraform/
+설명 : 
+                         Google Cloud announced last week the addition of Terraform as a managed service. The service, known as Infrastructure Manager, manages the deployment of Terraform configurations into Google Cloud. Infrastructure Manager provides an interface for querying the state of the deployment and resources as defined within the configuration.
+                    
+7 번째 검색 내용 
+제목 : 
+
+                            Microsoft Announces Copilot Copyright Commitment to Address IP Infringement Concerns
+                        
+주소 : https://www.infoq.com/news/2023/09/copilot-copyright-commitment/
+설명 : 
+                         Microsoft recently published the Copilot Copyright Commitment to address concerns about potential IP infringement claims from content produced by generative AI. Under this commitment, which covers various products, including GitHub Copilot, Microsoft will take responsibility for potential legal risks if a customer faces copyright challenges.
+                    
+8 번째 검색 내용 
+제목 : 
+
+                            Node.js Alternative Bun Now Generally Available
+                        
+주소 : https://www.infoq.com/news/2023/09/bun-ga-nodejs-alternative/
+설명 : 
+                         The release 1.0 of the JavaScript toolkit Bun has been recently announced. Aiming to be a drop-in replacement for Node.js, Bun is garnering attention from the JavaScript and serverless communities for its speed and ease of use.
+                    
+9 번째 검색 내용 
+제목 : 
+
+                            Microsoft AI Researchers Accidentally Exposed 38TB of Sensitive Data
+                        
+주소 : https://www.infoq.com/news/2023/09/microsoft-38tb-data-leak/
+설명 : 
+                         Security researchers at cloud-security company Wiz discovered a data leak affecting Microsoft's AI GitHub repository, including a huge amount of private data and a disk backup of two employees' workstations with sensitive data.
+                    
+10 번째 검색 내용 
+제목 : 
+
+                            Implementation of Zero-Configuration Service Mesh at Netflix.
+                        
+주소 : https://www.infoq.com/news/2023/09/zero-config-service-mesh-netflix/
+설명 : 
+                         Netflix describes in this post why they engaged the Envoy community and Kinvolk to implement a new feature for Envoy, the open-source proxy developed by Lyft. This new feature called On-Demand Cluster Discovery helped Netflix to implement a zero-configuration service mesh.
+                    
+11 번째 검색 내용 
+제목 : 
+
+                            How to Create a UI That's Both Robust and User Friendly
+                        
+주소 : https://www.infoq.com/news/2023/09/UI-robust-user-friendly/
+설명 : 
+                         The key challenge in building UIs is balancing ease of use and maintainability, with scale and complexity. It requires thoughtful component design and an understanding of common usage paths to create a UI that's both robust and user-friendly. Automation can be a game-changer when it comes to improving efficiency and consistency in your codebase.
+                    
+12 번째 검색 내용 
+제목 : 
+
+                            Google Compute Engine Future Reservations in Public Preview
+                        
+주소 : https://www.infoq.com/news/2023/09/google-vm-future-reservations/
+설명 : 
+                         Google recently introduced a new future reservation feature in public preview for its Compute Engine, allowing users to request compute capacity for a future date.
+                    
+13 번째 검색 내용 
+제목 : 
+
+                            Visual Studio 2022 17.8 Preview 2: Productivity, C++ Enhancements, and Debugging Improvements
+                        
+주소 : https://www.infoq.com/news/2023/09/vs2022-v17-8-preview-2/
+설명 : 
+                         Microsoft has released the second preview of Visual Studio 2022 version 17.8. Preview 2 brings a range of improvements and features aimed at enhancing developer productivity and code debugging as well as some additional C++ and Game Dev enhancements. The latest version is available for download, and developers have the opportunity to explore and utilise its advancements in the preview version.
+                    
+14 번째 검색 내용 
+제목 : 
+
+                            Node.js 2023 Edition Available
+                        
+주소 : https://www.infoq.com/news/2023/09/node-js-2023-edition/
+설명 : 
+                         The Node.js team has recently released version 20.6.0, which brings improvements in environment variable configuration, module resolution, module customization, and experimental support for C++ garbage collection.
+This update streamlines the management of environment variables.
+                    
+15 번째 검색 내용 
+제목 : 
+
+                            AI a “Must-Have” in GitLab’s 2023 Global DevSecOps Report
+                        
+주소 : https://www.infoq.com/news/2023/09/gitlab-global-devsecops-ai/
+설명 : 
+                         GitLab has released their 2023 Global DevSecOps AI report, with the key finding that AI and ML use is evolving from a "nice-to-have" to a "must-have".
+The report shows that 23% of organizations are already using AI in software development, and of those, 60% are using it daily. Furthermore, 65% of respondents said they are using AI and ML for testing now, or would be within the next three years.
+                    
