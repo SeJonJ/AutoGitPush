@@ -1,13 +1,22 @@
 1 번째 검색 내용 
 제목 : 
 
+                            Allegro Uses Control Theory for Workload Balancing in Its Apache Kafka PubSub Platform
+                        
+주소 : https://www.infoq.com/news/2023/09/allegro-hermes-dynamic-balancing/
+설명 : 
+                         Allegro, the largest eCommerce platform in Poland, implemented dynamic workload balancing in Hermes, its open-source publish-subscribe message broker, built on top of Apache Kafka. The new workload balancing algorithm achieves more uniform resource utilization and lower infrastructure costs.
+                    
+2 번째 검색 내용 
+제목 : 
+
                             Microsoft Introduces Public Preview of Socket.IO Support on Azure Web PubSub
                         
 주소 : https://www.infoq.com/news/2023/09/socket-io-support-azure/
 설명 : 
                          Microsoft recently added support for Socket.IO on Azure in public preview, allowing developers to leverage a fully-managed cloud solution through Web PubSub for Socket.IO.
                     
-2 번째 검색 내용 
+3 번째 검색 내용 
 제목 : 
 
                             Gatling Supports Java DSL for Java and Kotlin Based Performance Tests
@@ -16,7 +25,7 @@
 설명 : 
                          The load testing tool Gatling is designed for ease of use, maintainability and performance. Originally a Scala DSL was provided to write the test scenarios. Some time ago, a Java DSL was released, which makes it possible to write test scenarios in Java or Kotlin.
                     
-3 번째 검색 내용 
+4 번째 검색 내용 
 제목 : 
 
                             Multi-Modal LLM NExT-GPT Handles Text, Images, Videos, and Audio
@@ -25,7 +34,7 @@
 설명 : 
                          The NExT Research Center at the National University of Singapore (NUS) recently open-sourced NExT-GPT, an "any-to-any" multi-modal large language model (LLM) that can handle text, images, videos, and audio as input or output. NExT-GPT is based on existing pre-trained models and only required updating 1% of its total parameters during training.
                     
-4 번째 검색 내용 
+5 번째 검색 내용 
 제목 : 
 
                             Azure Update Manager as Successor of Update Management Center Now Generally Available
@@ -34,7 +43,7 @@
 설명 : 
                          Microsoft recently announced the general availability of Azure Update Manager, known previously as Update Management Center - a SaaS solution to manage and govern software updates to Windows and Linux machines across Azure, on-premises, and multi-cloud environments.
                     
-5 번째 검색 내용 
+6 번째 검색 내용 
 제목 : 
 
                             Java News Roundup: JDK 21, GraalVM for JDK 21, Apache Pinot 1.0, Eclipse Epicyro 3.0
@@ -43,7 +52,7 @@
 설명 : 
                          This week's Java roundup for September 18th, 2023, features news from OpenJDK, JDK 22, JDK 21, GraalVM, Corretto, Liberica, Epicyro 3.0, Pinot 1.0, and releases for: Spring Boot; Spring Integration; Spring Batch; Spring Cloud Dataflow; Spring Security; Spring GraphQL; Spring Authorization Server; Spring Apache Pulsar; Spring Modulith; Quarkus; Open Liberty; Micronaut; Hibernate; OpenXava; Gradle.
                     
-6 번째 검색 내용 
+7 번째 검색 내용 
 제목 : 
 
                             Hugging Face's Guide to Optimizing LLMs in Production
@@ -52,7 +61,7 @@
 설명 : 
                          When it comes to deploying Large Language Models (LLMs) in production, the two major challenges originate from the huge amount of parameters they require and the necessity of handling very long input sequences to represent contextual information. Hugging Face has documented a list of techniques to tackle those hurdles based on their experience serving such models.
                     
-7 번째 검색 내용 
+8 번째 검색 내용 
 제목 : 
 
                             Testcontainers Desktop Provides Support for Investigations and Debugging
@@ -61,7 +70,7 @@
 설명 : 
                          AtomicJar has introduced the freely available Testcontainers Desktop. Testcontainers Desktop supports several features that aren't available in the Testcontainers framework and offers better support for investigations and debugging with fixed ports for containers and the option to freeze and reuse containers. Lastly, the application supports switching easily between container runtimes.
                     
-8 번째 검색 내용 
+9 번째 검색 내용 
 제목 : 
 
                             High Performance Functions in Rust on RDS PostgreSQL
@@ -70,7 +79,7 @@
 설명 : 
                          AWS announced the general availability of the Rust procedural language handler, PL/Rust, for Amazon Relational Database Service (RDS) instances running versions 13 and 14 of PostgreSQL. This builds on the previous release in May 2023 that enabled the functionality only  for instances running PostgreSQL version 15.
                     
-9 번째 검색 내용 
+10 번째 검색 내용 
 제목 : 
 
                             Kubernetes 1.28 Released with New Repositories and Fixes for Privilege Escalation in Windows
@@ -79,7 +88,7 @@
 설명 : 
                          The Cloud Native Computing Foundation (CNCF) released Kubernetes 1.28 named Planternetes. The release has new features such as mixed version proxy, support for CDI injection into containers, and sidecar container awareness.
                     
-10 번째 검색 내용 
+11 번째 검색 내용 
 제목 : 
 
                             AWS CodeArtifact Now Supports the Swift Package Manager
@@ -88,7 +97,7 @@
 설명 : 
                          AWS-based software artifact repository CodeArtifact now supports the Swift Package Manager, in addition to Maven, NuGet, npm, pip, and others. This allows developers to store and retrieve Swift packages using Apple's official package manager just like they do when using other repositories.
                     
-11 번째 검색 내용 
+12 번째 검색 내용 
 제목 : 
 
                             Google Cloud Adds Service for Managing Terraform Deployments
@@ -97,7 +106,7 @@
 설명 : 
                          Google Cloud announced last week the addition of Terraform as a managed service. The service, known as Infrastructure Manager, manages the deployment of Terraform configurations into Google Cloud. Infrastructure Manager provides an interface for querying the state of the deployment and resources as defined within the configuration.
                     
-12 번째 검색 내용 
+13 번째 검색 내용 
 제목 : 
 
                             Microsoft Announces Copilot Copyright Commitment to Address IP Infringement Concerns
@@ -106,7 +115,7 @@
 설명 : 
                          Microsoft recently published the Copilot Copyright Commitment to address concerns about potential IP infringement claims from content produced by generative AI. Under this commitment, which covers various products, including GitHub Copilot, Microsoft will take responsibility for potential legal risks if a customer faces copyright challenges.
                     
-13 번째 검색 내용 
+14 번째 검색 내용 
 제목 : 
 
                             Node.js Alternative Bun Now Generally Available
@@ -115,7 +124,7 @@
 설명 : 
                          The release 1.0 of the JavaScript toolkit Bun has been recently announced. Aiming to be a drop-in replacement for Node.js, Bun is garnering attention from the JavaScript and serverless communities for its speed and ease of use.
                     
-14 번째 검색 내용 
+15 번째 검색 내용 
 제목 : 
 
                             Microsoft AI Researchers Accidentally Exposed 38TB of Sensitive Data
@@ -123,13 +132,4 @@
 주소 : https://www.infoq.com/news/2023/09/microsoft-38tb-data-leak/
 설명 : 
                          Security researchers at cloud-security company Wiz discovered a data leak affecting Microsoft's AI GitHub repository, including a huge amount of private data and a disk backup of two employees' workstations with sensitive data.
-                    
-15 번째 검색 내용 
-제목 : 
-
-                            Implementation of Zero-Configuration Service Mesh at Netflix.
-                        
-주소 : https://www.infoq.com/news/2023/09/zero-config-service-mesh-netflix/
-설명 : 
-                         Netflix describes in this post why they engaged the Envoy community and Kinvolk to implement a new feature for Envoy, the open-source proxy developed by Lyft. This new feature called On-Demand Cluster Discovery helped Netflix to implement a zero-configuration service mesh.
                     
