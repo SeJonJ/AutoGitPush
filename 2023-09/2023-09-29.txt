@@ -1,13 +1,22 @@
 1 번째 검색 내용 
 제목 : 
 
+                            GraalVM for JDK 21 Delivers Performance Enhancements and Improved Developer Experience
+                        
+주소 : https://www.infoq.com/news/2023/09/graalvm-java-21/
+설명 : 
+                         Oracle has recently announced the release of GraalVM for JDK 21. GraalVM is a JDK that uses an alternative just-in-time (JIT) compiler but it also includes a Native Image module, a technology that allows Java applications to run as native executables, without the need for a JVM. This can improve the performance of Java applications in terms of speed, memory, and size.
+                    
+2 번째 검색 내용 
+제목 : 
+
                             Digital Ocean Launches its Managed Kafka Service
                         
 주소 : https://www.infoq.com/news/2023/09/digital-ocean-kafka-service/
 설명 : 
                          Digital Ocean enters the arena of fully managed Kafka services with its new offering aimed at simplifying management and maintenance of the popular event streaming platform. Digital Ocean Kafka targets startups and SMBs by offering them an all-inclusive, flat-rate pricing model.
                     
-2 번째 검색 내용 
+3 번째 검색 내용 
 제목 : 
 
                             A Collaborative Approach to Web Applications Accessibility
@@ -15,15 +24,6 @@
 주소 : https://www.infoq.com/news/2023/09/collaborative-web-accessibility/
 설명 : 
                          Developers and designers can work together to share knowledge and experience when working on creating accessible applications. Accessibility issues can be treated as any other bug, something that needs to be solved first. Accessibility should be embraced as something very serious and important to society, and approached as a business opportunity.
-                    
-3 번째 검색 내용 
-제목 : 
-
-                            AWS Expands its Cloud Mac Minis Offering with M2 Pro Mac Instances
-                        
-주소 : https://www.infoq.com/news/2023/09/amazon-ec2-m2-pro-mac/
-설명 : 
-                         AWS recently announced the general availability of Amazon EC2 M2 Pro Mac instances (mac2-m2pro.metal) as a virtual Mac offering on its Elastic Computing Cloud (EC2).
                     
 4 번째 검색 내용 
 제목 : 
@@ -39,13 +39,22 @@ Sift automates various aspects of incident investigation.  Sift provides valuabl
 5 번째 검색 내용 
 제목 : 
 
+                            AWS Expands its Cloud Mac Minis Offering with M2 Pro Mac Instances
+                        
+주소 : https://www.infoq.com/news/2023/09/amazon-ec2-m2-pro-mac/
+설명 : 
+                         AWS recently announced the general availability of Amazon EC2 M2 Pro Mac instances (mac2-m2pro.metal) as a virtual Mac offering on its Elastic Computing Cloud (EC2).
+                    
+6 번째 검색 내용 
+제목 : 
+
                             Allegro Uses Control Theory for Workload Balancing in Its Apache Kafka PubSub Platform
                         
 주소 : https://www.infoq.com/news/2023/09/allegro-hermes-dynamic-balancing/
 설명 : 
                          Allegro, the largest eCommerce platform in Poland, implemented dynamic workload balancing in Hermes, its open-source publish-subscribe message broker, built on top of Apache Kafka. The new workload balancing algorithm achieves more uniform resource utilization and lower infrastructure costs.
                     
-6 번째 검색 내용 
+7 번째 검색 내용 
 제목 : 
 
                             Microsoft Introduces Public Preview of Socket.IO Support on Azure Web PubSub
@@ -54,7 +63,7 @@ Sift automates various aspects of incident investigation.  Sift provides valuabl
 설명 : 
                          Microsoft recently added support for Socket.IO on Azure in public preview, allowing developers to leverage a fully-managed cloud solution through Web PubSub for Socket.IO.
                     
-7 번째 검색 내용 
+8 번째 검색 내용 
 제목 : 
 
                             Gatling Supports Java DSL for Java and Kotlin-Based Performance Tests
@@ -63,7 +72,7 @@ Sift automates various aspects of incident investigation.  Sift provides valuabl
 설명 : 
                          The load testing tool Gatling is designed for ease of use, maintainability and performance. Originally a Scala DSL was provided to write the test scenarios. Some time ago, a Java DSL was released, which makes it possible to write test scenarios in Java or Kotlin.
                     
-8 번째 검색 내용 
+9 번째 검색 내용 
 제목 : 
 
                             Multi-Modal LLM NExT-GPT Handles Text, Images, Videos, and Audio
@@ -72,7 +81,7 @@ Sift automates various aspects of incident investigation.  Sift provides valuabl
 설명 : 
                          The NExT Research Center at the National University of Singapore (NUS) recently open-sourced NExT-GPT, an "any-to-any" multi-modal large language model (LLM) that can handle text, images, videos, and audio as input or output. NExT-GPT is based on existing pre-trained models and only required updating 1% of its total parameters during training.
                     
-9 번째 검색 내용 
+10 번째 검색 내용 
 제목 : 
 
                             Azure Update Manager as Successor of Update Management Center Now Generally Available
@@ -81,7 +90,7 @@ Sift automates various aspects of incident investigation.  Sift provides valuabl
 설명 : 
                          Microsoft recently announced the general availability of Azure Update Manager, known previously as Update Management Center - a SaaS solution to manage and govern software updates to Windows and Linux machines across Azure, on-premises, and multi-cloud environments.
                     
-10 번째 검색 내용 
+11 번째 검색 내용 
 제목 : 
 
                             Java News Roundup: JDK 21, GraalVM for JDK 21, Apache Pinot 1.0, Eclipse Epicyro 3.0
@@ -90,7 +99,7 @@ Sift automates various aspects of incident investigation.  Sift provides valuabl
 설명 : 
                          This week's Java roundup for September 18th, 2023, features news from OpenJDK, JDK 22, JDK 21, GraalVM, Corretto, Liberica, Epicyro 3.0, Pinot 1.0, and releases for: Spring Boot; Spring Integration; Spring Batch; Spring Cloud Dataflow; Spring Security; Spring GraphQL; Spring Authorization Server; Spring Apache Pulsar; Spring Modulith; Quarkus; Open Liberty; Micronaut; Hibernate; OpenXava; Gradle.
                     
-11 번째 검색 내용 
+12 번째 검색 내용 
 제목 : 
 
                             Hugging Face's Guide to Optimizing LLMs in Production
@@ -99,7 +108,7 @@ Sift automates various aspects of incident investigation.  Sift provides valuabl
 설명 : 
                          When it comes to deploying Large Language Models (LLMs) in production, the two major challenges originate from the huge amount of parameters they require and the necessity of handling very long input sequences to represent contextual information. Hugging Face has documented a list of techniques to tackle those hurdles based on their experience serving such models.
                     
-12 번째 검색 내용 
+13 번째 검색 내용 
 제목 : 
 
                             Testcontainers Desktop Provides Support for Investigations and Debugging
@@ -108,7 +117,7 @@ Sift automates various aspects of incident investigation.  Sift provides valuabl
 설명 : 
                          AtomicJar has introduced the freely available Testcontainers Desktop. Testcontainers Desktop supports several features that aren't available in the Testcontainers framework and offers better support for investigations and debugging with fixed ports for containers and the option to freeze and reuse containers. Lastly, the application supports switching easily between container runtimes.
                     
-13 번째 검색 내용 
+14 번째 검색 내용 
 제목 : 
 
                             High Performance Functions in Rust on RDS PostgreSQL
@@ -117,7 +126,7 @@ Sift automates various aspects of incident investigation.  Sift provides valuabl
 설명 : 
                          AWS announced the general availability of the Rust procedural language handler, PL/Rust, for Amazon Relational Database Service (RDS) instances running versions 13 and 14 of PostgreSQL. This builds on the previous release in May 2023 that enabled the functionality only  for instances running PostgreSQL version 15.
                     
-14 번째 검색 내용 
+15 번째 검색 내용 
 제목 : 
 
                             Kubernetes 1.28 Released with New Repositories and Fixes for Privilege Escalation in Windows
@@ -125,13 +134,4 @@ Sift automates various aspects of incident investigation.  Sift provides valuabl
 주소 : https://www.infoq.com/news/2023/09/kubernetes-1-28/
 설명 : 
                          The Cloud Native Computing Foundation (CNCF) released Kubernetes 1.28 named Planternetes. The release has new features such as mixed version proxy, support for CDI injection into containers, and sidecar container awareness.
-                    
-15 번째 검색 내용 
-제목 : 
-
-                            AWS CodeArtifact Now Supports the Swift Package Manager
-                        
-주소 : https://www.infoq.com/news/2023/09/asw-codeartifact-swift-support/
-설명 : 
-                         AWS-based software artifact repository CodeArtifact now supports the Swift Package Manager, in addition to Maven, NuGet, npm, pip, and others. This allows developers to store and retrieve Swift packages using Apple's official package manager just like they do when using other repositories.
                     
