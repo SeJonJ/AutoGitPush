@@ -1,13 +1,31 @@
 1 번째 검색 내용 
 제목 : 
 
+                            CoreWCF 1.4.0 Released: RabbitMQ and Apache Kafka Support Added
+                        
+주소 : https://www.infoq.com/news/2023/09/corewcf-140-released/
+설명 : 
+                         This month, there have been several significant releases in the CoreWCF ecosystem. Version 1.4.0 was rolled out, featuring new transport options such as RabbitMQ (AMQP) and Apache Kafka. While these additions were well-received, it's worth noting that the transports MSMQ and NetNamedPipe remain in the preview stage, indicating ongoing development efforts.
+                    
+2 번째 검색 내용 
+제목 : 
+
+                            Azure Database Drops Support for MariaDB
+                        
+주소 : https://www.infoq.com/news/2023/09/azure-database-mariadb/
+설명 : 
+                         Microsoft recently announced that Azure Database will drop support for MariaDB. Over the coming months, users will no longer be able to create new MariaDB databases through the console or CLI, with a scheduled sunset for existing instances in 2025.
+                    
+3 번째 검색 내용 
+제목 : 
+
                             The Linux Foundation & CNCF Kick Off KubeCon + CloudNativeCon + Open Source Summit China 2023
                         
 주소 : https://www.infoq.com/news/2023/09/kubecon-oss-china-2023/
 설명 : 
                          KubeCon + CloudNativeCon + Open Source Summit China 2023 kicked off this week in Shanghai. It’s the premier event for developers, technologists, and technology leaders in Asia concerning all things Open Source, Kubernetes, and Cloud Native. The event attracted over 2000 attendees and  20 sponsors and included 150 sessions.
                     
-2 번째 검색 내용 
+4 번째 검색 내용 
 제목 : 
 
                             Confluent Announces Apache Flink on Confluent Cloud in Open Preview
@@ -16,7 +34,7 @@
 설명 : 
                          Confluent recently announced the open preview of Apache Flink on Confluent Cloud as a fully-managed service for stream processing. The company claims that the managed service will make it easier for companies to filter, join, and enrich data streams with Flink.
                     
-3 번째 검색 내용 
+5 번째 검색 내용 
 제목 : 
 
                             Linkerd 2.14 Improves Support on Flat Networks and Gateway API Conformance
@@ -24,7 +42,7 @@
 주소 : https://www.infoq.com/news/2023/09/linkerd-214-released/
 설명 : 
 
-4 번째 검색 내용 
+6 번째 검색 내용 
 제목 : 
 
                             Jacoco Agent Measures Code Coverage for Any Test
@@ -33,7 +51,7 @@
 설명 : 
                          Jacoco is an open-source code coverage library for Java distributed under the Eclipse Public License. The library is often used in Java projects to measure the coverage of unit or integration tests. But it's also possible to measure the coverage of any test, which uses a running application, with the Jacoco agent.
                     
-5 번째 검색 내용 
+7 번째 검색 내용 
 제목 : 
 
                             GraalVM for JDK 21 Delivers Performance Enhancements and Improved Developer Experience
@@ -42,7 +60,7 @@
 설명 : 
                          Oracle has recently announced the release of GraalVM for JDK 21. GraalVM is a JDK that uses an alternative just-in-time (JIT) compiler but it also includes a Native Image module, a technology that allows Java applications to run as native executables, without the need for a JVM. This can improve the performance of Java applications in terms of speed, memory, and size.
                     
-6 번째 검색 내용 
+8 번째 검색 내용 
 제목 : 
 
                             Digital Ocean Launches its Managed Kafka Service
@@ -51,7 +69,7 @@
 설명 : 
                          Digital Ocean enters the arena of fully-managed Kafka services with its new offering aimed at simplifying management and maintenance of the popular event streaming platform. Digital Ocean Kafka targets startups and SMBs by offering them an all-inclusive, flat-rate pricing model.
                     
-7 번째 검색 내용 
+9 번째 검색 내용 
 제목 : 
 
                             A Collaborative Approach to Web Applications Accessibility
@@ -60,7 +78,7 @@
 설명 : 
                          Developers and designers can work together to share knowledge and experience when working on creating accessible applications. Accessibility issues can be treated as any other bug, something that needs to be solved first. Accessibility should be embraced as something very serious and important to society, and approached as a business opportunity.
                     
-8 번째 검색 내용 
+10 번째 검색 내용 
 제목 : 
 
                             AWS Expands its Cloud Mac Minis Offering with M2 Pro Mac Instances
@@ -69,7 +87,7 @@
 설명 : 
                          AWS recently announced the general availability of Amazon EC2 M2 Pro Mac instances (mac2-m2pro.metal) as a virtual Mac offering on its Elastic Computing Cloud (EC2).
                     
-9 번째 검색 내용 
+11 번째 검색 내용 
 제목 : 
 
                             Grafana Introduces ML Tool Sift to Improve Incident Response
@@ -80,7 +98,7 @@
 
 Sift automates various aspects of incident investigation.  Sift provides valuable insights into potential issues within Kubernetes environments, helping engineers focus on resolving incidents.
                     
-10 번째 검색 내용 
+12 번째 검색 내용 
 제목 : 
 
                             Allegro Uses Control Theory for Workload Balancing in its Apache Kafka PubSub Platform
@@ -89,7 +107,7 @@ Sift automates various aspects of incident investigation.  Sift provides valuabl
 설명 : 
                          Allegro, the largest eCommerce platform in Poland, implemented dynamic workload balancing in Hermes, its open-source publish-subscribe message broker, built on top of Apache Kafka. The new workload balancing algorithm achieves more uniform resource utilization and lower infrastructure costs.
                     
-11 번째 검색 내용 
+13 번째 검색 내용 
 제목 : 
 
                             Microsoft Introduces Public Preview of Socket.IO Support on Azure Web PubSub
@@ -98,7 +116,7 @@ Sift automates various aspects of incident investigation.  Sift provides valuabl
 설명 : 
                          Microsoft recently added support for Socket.IO on Azure in public preview, allowing developers to leverage a fully-managed cloud solution through Web PubSub for Socket.IO.
                     
-12 번째 검색 내용 
+14 번째 검색 내용 
 제목 : 
 
                             Gatling Supports Java DSL for Java and Kotlin-Based Performance Tests
@@ -107,7 +125,7 @@ Sift automates various aspects of incident investigation.  Sift provides valuabl
 설명 : 
                          The load testing tool Gatling is designed for ease of use, maintainability and performance. Originally a Scala DSL was provided to write the test scenarios. Some time ago, a Java DSL was released, which makes it possible to write test scenarios in Java or Kotlin.
                     
-13 번째 검색 내용 
+15 번째 검색 내용 
 제목 : 
 
                             Multi-Modal LLM NExT-GPT Handles Text, Images, Videos, and Audio
@@ -115,22 +133,4 @@ Sift automates various aspects of incident investigation.  Sift provides valuabl
 주소 : https://www.infoq.com/news/2023/09/next-gpt-multimodal/
 설명 : 
                          The NExT Research Center at the National University of Singapore (NUS) recently open-sourced NExT-GPT, an "any-to-any" multi-modal large language model (LLM) that can handle text, images, videos, and audio as input or output. NExT-GPT is based on existing pre-trained models and only required updating 1% of its total parameters during training.
-                    
-14 번째 검색 내용 
-제목 : 
-
-                            Azure Update Manager as Successor of Update Management Center Now Generally Available
-                        
-주소 : https://www.infoq.com/news/2023/09/azure-update-manager-ga/
-설명 : 
-                         Microsoft recently announced the general availability of Azure Update Manager, known previously as Update Management Center - a SaaS solution to manage and govern software updates to Windows and Linux machines across Azure, on-premises, and multi-cloud environments.
-                    
-15 번째 검색 내용 
-제목 : 
-
-                            Java News Roundup: JDK 21, GraalVM for JDK 21, Apache Pinot 1.0, Eclipse Epicyro 3.0
-                        
-주소 : https://www.infoq.com/news/2023/09/java-news-roundup-sep18-2023/
-설명 : 
-                         This week's Java roundup for September 18th, 2023, features news from OpenJDK, JDK 22, JDK 21, GraalVM, Corretto, Liberica, Epicyro 3.0, Pinot 1.0, and releases for: Spring Boot; Spring Integration; Spring Batch; Spring Cloud Dataflow; Spring Security; Spring GraphQL; Spring Authorization Server; Spring Apache Pulsar; Spring Modulith; Quarkus; Open Liberty; Micronaut; Hibernate; OpenXava; Gradle.
                     
