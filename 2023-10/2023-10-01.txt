@@ -1,11 +1,11 @@
 1 번째 검색 내용 
 제목 : 
 
-                            Docker 4.22 Introduces Resource Saver and Improvements to Docker Compose
+                            Amazon EBS Volumes Support Storage Fencing Using NVMe Reservations
                         
-주소 : https://www.infoq.com/news/2023/09/docker-4-22-released/
+주소 : https://www.infoq.com/news/2023/10/aws-ebs-fencing-nvme/
 설명 : 
-                         Docker Desktop 4.22 has been released, featuring the new Resource Saver functionality designed to reduce idle memory and CPU usage, ensuring optimal utilization of machine resources. Additionally, Docker Compose now supports the inclusion of subprojects, simplifying the process of modularizing complex applications into separate Compose files.
+                         AWS recently introduced support for NVMe reservations, a set of industry-standard storage fencing protocols, on io2 and io2 Block Express EBS volumes. Controlling and coordinating access from multiple instances to a shared volume, reservations are used by shared storage applications to ensure data consistency.
                     
 2 번째 검색 내용 
 제목 : 
@@ -19,13 +19,22 @@
 3 번째 검색 내용 
 제목 : 
 
+                            Docker 4.22 Introduces Resource Saver and Improvements to Docker Compose
+                        
+주소 : https://www.infoq.com/news/2023/09/docker-4-22-released/
+설명 : 
+                         Docker Desktop 4.22 has been released, featuring the new Resource Saver functionality designed to reduce idle memory and CPU usage, ensuring optimal utilization of machine resources. Additionally, Docker Compose now supports the inclusion of subprojects, simplifying the process of modularizing complex applications into separate Compose files.
+                    
+4 번째 검색 내용 
+제목 : 
+
                             CRI-O Graduates from CNCF, Sees Increased Adoption in Cloud Native Environments
                         
 주소 : https://www.infoq.com/news/2023/09/cncf-crio-graduation/
 설명 : 
                          The Cloud Native Computing Foundation announced the graduation of the CRI-O project which provides a secure, performant, and stable Container Runtime Interface (CRI) implementation for kubelet in Kubernetes production environments. The project has been adopted by seven new organizations, released 11 new minor versions, and had more than 4,000 commits to the main branch.
                     
-4 번째 검색 내용 
+5 번째 검색 내용 
 제목 : 
 
                             Azure API Center Now in Public Preview
@@ -34,7 +43,7 @@
 설명 : 
                          Microsoft recently announced the public preview of Azure API Center - a part of the Azure API Management platform that serves as a central hub where users can keep track of all their APIs company-wide, making them readily discoverable, reusable, and manageable.
                     
-5 번째 검색 내용 
+6 번째 검색 내용 
 제목 : 
 
                             CoreWCF 1.4.0 Released: RabbitMQ and Apache Kafka Support Added
@@ -43,7 +52,7 @@
 설명 : 
                          This month, there have been several significant releases in the CoreWCF ecosystem. Version 1.4.0 was rolled out, featuring new transport options such as RabbitMQ (AMQP) and Apache Kafka. While these additions were well-received, it's worth noting that the transports MSMQ and NetNamedPipe remain in the preview stage, indicating ongoing development efforts.
                     
-6 번째 검색 내용 
+7 번째 검색 내용 
 제목 : 
 
                             Azure Database Drops Support for MariaDB
@@ -52,7 +61,7 @@
 설명 : 
                          Microsoft recently announced that Azure Database will drop support for MariaDB. Over the coming months, users will no longer be able to create new MariaDB databases through the console or CLI, with a scheduled sunset for existing instances in 2025.
                     
-7 번째 검색 내용 
+8 번째 검색 내용 
 제목 : 
 
                             The Linux Foundation & CNCF Kick Off KubeCon + CloudNativeCon + Open Source Summit China 2023
@@ -60,15 +69,6 @@
 주소 : https://www.infoq.com/news/2023/09/kubecon-oss-china-2023/
 설명 : 
                          KubeCon + CloudNativeCon + Open Source Summit China 2023 kicked off this week in Shanghai. It’s the premier event for developers, technologists, and technology leaders in Asia concerning all things Open Source, Kubernetes, and Cloud Native. The event attracted over 2000 attendees and  20 sponsors and included 150 sessions.
-                    
-8 번째 검색 내용 
-제목 : 
-
-                            Confluent Announces Apache Flink on Confluent Cloud in Open Preview
-                        
-주소 : https://www.infoq.com/news/2023/09/confluent-apache-flink-preview/
-설명 : 
-                         Confluent recently announced the open preview of Apache Flink on Confluent Cloud as a fully-managed service for stream processing. The company claims that the managed service will make it easier for companies to filter, join, and enrich data streams with Flink.
                     
 9 번째 검색 내용 
 제목 : 
@@ -82,13 +82,22 @@
 10 번째 검색 내용 
 제목 : 
 
+                            Confluent Announces Apache Flink on Confluent Cloud in Open Preview
+                        
+주소 : https://www.infoq.com/news/2023/09/confluent-apache-flink-preview/
+설명 : 
+                         Confluent recently announced the open preview of Apache Flink on Confluent Cloud as a fully-managed service for stream processing. The company claims that the managed service will make it easier for companies to filter, join, and enrich data streams with Flink.
+                    
+11 번째 검색 내용 
+제목 : 
+
                             Jacoco Agent Measures Code Coverage for Any Test
                         
 주소 : https://www.infoq.com/news/2023/09/jacoco-agent-code-coverage/
 설명 : 
                          Jacoco is an open-source code coverage library for Java distributed under the Eclipse Public License. The library is often used in Java projects to measure the coverage of unit or integration tests. But it's also possible to measure the coverage of any test, which uses a running application, with the Jacoco agent.
                     
-11 번째 검색 내용 
+12 번째 검색 내용 
 제목 : 
 
                             GraalVM for JDK 21 Delivers Performance Enhancements and Improved Developer Experience
@@ -97,7 +106,7 @@
 설명 : 
                          Oracle has recently announced the release of GraalVM for JDK 21. GraalVM is a JDK that uses an alternative just-in-time (JIT) compiler but it also includes a Native Image module, a technology that allows Java applications to run as native executables, without the need for a JVM. This can improve the performance of Java applications in terms of speed, memory, and size.
                     
-12 번째 검색 내용 
+13 번째 검색 내용 
 제목 : 
 
                             Digital Ocean Launches its Managed Kafka Service
@@ -106,7 +115,7 @@
 설명 : 
                          Digital Ocean enters the arena of fully-managed Kafka services with its new offering aimed at simplifying management and maintenance of the popular event streaming platform. Digital Ocean Kafka targets startups and SMBs by offering them an all-inclusive, flat-rate pricing model.
                     
-13 번째 검색 내용 
+14 번째 검색 내용 
 제목 : 
 
                             A Collaborative Approach to Web Applications Accessibility
@@ -115,7 +124,7 @@
 설명 : 
                          Developers and designers can work together to share knowledge and experience when working on creating accessible applications. Accessibility issues can be treated as any other bug, something that needs to be solved first. Accessibility should be embraced as something very serious and important to society, and approached as a business opportunity.
                     
-14 번째 검색 내용 
+15 번째 검색 내용 
 제목 : 
 
                             Grafana Introduces ML Tool Sift to Improve Incident Response
@@ -125,13 +134,4 @@
                          Grafana Labs has introduced "Sift," a feature for Grafana Cloud designed to enhance incident response management (IRM) by automating system checks and expediting issue resolution.
 
 Sift automates various aspects of incident investigation.  Sift provides valuable insights into potential issues within Kubernetes environments, helping engineers focus on resolving incidents.
-                    
-15 번째 검색 내용 
-제목 : 
-
-                            AWS Expands its Cloud Mac Minis Offering with M2 Pro Mac Instances
-                        
-주소 : https://www.infoq.com/news/2023/09/amazon-ec2-m2-pro-mac/
-설명 : 
-                         AWS recently announced the general availability of Amazon EC2 M2 Pro Mac instances (mac2-m2pro.metal) as a virtual Mac offering on its Elastic Computing Cloud (EC2).
                     
