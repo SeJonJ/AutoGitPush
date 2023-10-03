@@ -1,13 +1,24 @@
 1 번째 검색 내용 
 제목 : 
 
+                            AWS Lambda Under the Hood: Mike Danilov at QCon San-Francisco
+                        
+주소 : https://www.infoq.com/news/2023/10/aws-lambda-under-the-hood/
+설명 : 
+                         During the first day of QCon Dan-Francisco 2023, Mike Danilov, a Senior Principal Engineer at AWS, presented on AWS Lambda and what is under the hood. The talk is a part of the “Architectures You’ve Always Wondered About.”
+
+Danilov's talk centered around invoke routing, compute infrastructure, and cold starts topics.
+                    
+2 번째 검색 내용 
+제목 : 
+
                             Rethinking 'Rethinking Reactivity' - Svelte 5 Introduces Runes
                         
 주소 : https://www.infoq.com/news/2023/10/svelte-5-runes/
 설명 : 
                          In their “Introducing runes” blog post, the Svelte team presents new syntax to express reactive dependencies in web applications. The extra syntax may increase the maintainability of complex web applications, further advancing Svelte’s enterprise readiness.
                     
-2 번째 검색 내용 
+3 번째 검색 내용 
 제목 : 
 
                             Scale Higher Per-Database Storage Limits and Create More Databases with Cloudflare D1 Open Beta
@@ -18,7 +29,7 @@
 
 The open beta of D1 continues on earlier company investments, with the most recent enhanced performance. With the open beta of D1, the company adds higher per-database storage limits and the ability to create more databases.
                     
-3 번째 검색 내용 
+4 번째 검색 내용 
 제목 : 
 
                             Transitioning to SwiftUI at Airbnb
@@ -27,7 +38,7 @@ The open beta of D1 continues on earlier company investments, with the most rece
 설명 : 
                          In 2022, the iOS team at Airbnb decided SwiftUI was sufficiently mature to be adopted for their official app. This required a careful transition, explains Airbnb staff engineer Bryn Bodayle.
                     
-4 번째 검색 내용 
+5 번째 검색 내용 
 제목 : 
 
                             Nomura Leverages HashiCorp Consul for Microservices Discovery on AWS EC2
@@ -36,7 +47,7 @@ The open beta of D1 continues on earlier company investments, with the most rece
 설명 : 
                          With the help of AWS and HashiCorp consultants, Nomura created a solution for service discovery for complex microservices environments. The solution leverages HashiCorp Consul and is based on a hierarchical, rule-based algorithm. It supports discovery by service name, DNS latency, and custom tags.
                     
-5 번째 검색 내용 
+6 번째 검색 내용 
 제목 : 
 
                             Java News Roundup: New JEP Candidates, Spring Cloud, GlassFish, Helidon, Open Liberty, Apache Camel
@@ -45,7 +56,7 @@ The open beta of D1 continues on earlier company investments, with the most rece
 설명 : 
                          This week's Java roundup for September 25th, 2023 features news from OpenJDK, JDK 22, Eclipse GlassFish 7.0.9, Build 21-jextract+1-2, Spring Cloud 2023.0.0-M2, Helidon 4.0.0-RC1, Open Liberty 23.0.0.10-beta, Apache Camel 4.0.1 and 3.21.1, JHipster Lite 0.43.0, JDKMon 17.0.77 and 17.0.75, JobRunr 6.3.2, Yupiik Fusion 1.0.8 and Gradle 8.4.0-RC3.
                     
-6 번째 검색 내용 
+7 번째 검색 내용 
 제목 : 
 
                             Microsoft Announces a New Azure SQL Database Free Offer in Public Preview
@@ -54,7 +65,7 @@ The open beta of D1 continues on earlier company investments, with the most rece
 설명 : 
                          Microsoft recently announced the public preview of a new Azure SQL Database free offering. This offering provides users a 32 GB General Purpose, serverless Azure SQL database with 100,000 vCore seconds of compute free monthly.
                     
-7 번째 검색 내용 
+8 번째 검색 내용 
 제목 : 
 
                             Amazon EBS Volumes Support Storage Fencing Using NVMe Reservations
@@ -63,7 +74,7 @@ The open beta of D1 continues on earlier company investments, with the most rece
 설명 : 
                          AWS recently introduced support for NVMe reservations, a set of industry-standard storage fencing protocols, on io2 and io2 Block Express EBS volumes. Controlling and coordinating access from multiple instances to a shared volume, reservations are used by shared storage applications to ensure data consistency.
                     
-8 번째 검색 내용 
+9 번째 검색 내용 
 제목 : 
 
                             Generative AI Service AWS Bedrock Now Generally Available
@@ -72,7 +83,7 @@ The open beta of D1 continues on earlier company investments, with the most rece
 설명 : 
                          After announcing Bedrock last April in preview, Amazon is now making its fully-managed service for generative AI apps generally available.
                     
-9 번째 검색 내용 
+10 번째 검색 내용 
 제목 : 
 
                             Docker 4.22 Introduces Resource Saver and Improvements to Docker Compose
@@ -81,7 +92,7 @@ The open beta of D1 continues on earlier company investments, with the most rece
 설명 : 
                          Docker Desktop 4.22 has been released, featuring the new Resource Saver functionality designed to reduce idle memory and CPU usage, ensuring optimal utilization of machine resources. Additionally, Docker Compose now supports the inclusion of subprojects, simplifying the process of modularizing complex applications into separate Compose files.
                     
-10 번째 검색 내용 
+11 번째 검색 내용 
 제목 : 
 
                             CRI-O Graduates from CNCF, Sees Increased Adoption in Cloud Native Environments
@@ -90,7 +101,7 @@ The open beta of D1 continues on earlier company investments, with the most rece
 설명 : 
                          The Cloud Native Computing Foundation announced the graduation of the CRI-O project which provides a secure, performant, and stable Container Runtime Interface (CRI) implementation for kubelet in Kubernetes production environments. The project has been adopted by seven new organizations, released 11 new minor versions, and had more than 4,000 commits to the main branch.
                     
-11 번째 검색 내용 
+12 번째 검색 내용 
 제목 : 
 
                             Azure API Center Now in Public Preview
@@ -99,7 +110,7 @@ The open beta of D1 continues on earlier company investments, with the most rece
 설명 : 
                          Microsoft recently announced the public preview of Azure API Center - a part of the Azure API Management platform that serves as a central hub where users can keep track of all their APIs company-wide, making them readily discoverable, reusable, and manageable.
                     
-12 번째 검색 내용 
+13 번째 검색 내용 
 제목 : 
 
                             CoreWCF 1.4.0 Released: RabbitMQ and Apache Kafka Support Added
@@ -108,7 +119,7 @@ The open beta of D1 continues on earlier company investments, with the most rece
 설명 : 
                          This month, there have been several significant releases in the CoreWCF ecosystem. Version 1.4.0 was rolled out, featuring new transport options such as RabbitMQ (AMQP) and Apache Kafka. While these additions were well-received, it's worth noting that the transports MSMQ and NetNamedPipe remain in the preview stage, indicating ongoing development efforts.
                     
-13 번째 검색 내용 
+14 번째 검색 내용 
 제목 : 
 
                             Azure Database Drops Support for MariaDB
@@ -117,7 +128,7 @@ The open beta of D1 continues on earlier company investments, with the most rece
 설명 : 
                          Microsoft recently announced that Azure Database will drop support for MariaDB. Over the coming months, users will no longer be able to create new MariaDB databases through the console or CLI, with a scheduled sunset for existing instances in 2025.
                     
-14 번째 검색 내용 
+15 번째 검색 내용 
 제목 : 
 
                             The Linux Foundation & CNCF Kick off KubeCon + CloudNativeCon + Open Source Summit China 2023
@@ -125,13 +136,4 @@ The open beta of D1 continues on earlier company investments, with the most rece
 주소 : https://www.infoq.com/news/2023/09/kubecon-oss-china-2023/
 설명 : 
                          KubeCon + CloudNativeCon + Open Source Summit China 2023 kicked off this week in Shanghai. It’s the premier event for developers, technologists, and technology leaders in Asia concerning all things Open Source, Kubernetes, and Cloud Native. The event attracted over 2000 attendees and  20 sponsors and included 150 sessions.
-                    
-15 번째 검색 내용 
-제목 : 
-
-                            Linkerd 2.14 Improves Support on Flat Networks and Gateway API Conformance
-                        
-주소 : https://www.infoq.com/news/2023/09/linkerd-214-released/
-설명 : 
-                         Version 2.14 of Linkerd, a service mesh and graduated CNCF project, has been released, with improved enterprise multi-cluster support, full Kubernetes Gateway API conformance, and many other changes.
                     
