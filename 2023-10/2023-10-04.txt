@@ -1,13 +1,22 @@
 1 번째 검색 내용 
 제목 : 
 
+                            Distributed Materialized Views: How Airbnb’s Riverbed Processes 2.4 Billion Daily Events
+                        
+주소 : https://www.infoq.com/news/2023/10/airbnb-riverbed-introduction/
+설명 : 
+                         Airbnb created Rivedbed, a Lambda-like data framework for producing and managing distributed materialized views. The framework supports over 50 read-heavy use cases where data is sourced from multiple data sources within the company’s service-oriented architecture (SOA) platform. It uses Apache Kafka and Apache Spark for online and offline components, respectively.
+                    
+2 번째 검색 내용 
+제목 : 
+
                             Generative AI: Shaping a New Future for Fraud Prevention, by Neha Narkhede at QCon San Francisco
                         
 주소 : https://www.infoq.com/news/2023/10/generative-ai-fraud-prevention/
 설명 : 
                          At the recent QCon San Francisco conference, Neha Narkhede gave a keynote on how generative AI can help improve the state of the art in fraud prevention. She discussed the "knowledge fabric", which is able to capture all information and knowledge on current fraud methods. She also introduced six foundational pillars of AI Risk Decisioning.
                     
-2 번째 검색 내용 
+3 번째 검색 내용 
 제목 : 
 
                             QCon San Francisco 2023 Day 1: Architectures, Data Engineering, Infra Languages, Staff+ Skills
@@ -16,7 +25,7 @@
 설명 : 
                          The 17th annual QCon San Francisco conference was held at the Hyatt Regency San Francisco in San Francisco, California. This five-day event, organized by C4Media, consists of three days of presentations and two days of workshops. Day One, scheduled on October 2nd, 2023, included a keynote address by Suhail Patel and presentations from four conference tracks and two sponsored tracks.
                     
-3 번째 검색 내용 
+4 번째 검색 내용 
 제목 : 
 
                             Managing 238 Million Memberships of Netflix: Surabhi Diwan at QCon San Francisco
@@ -27,7 +36,7 @@
 
 Diwan's work at Netflix involves the backend work regarding membership engineering, which is critical for both signups and streaming at Netflix.
                     
-4 번째 검색 내용 
+5 번째 검색 내용 
 제목 : 
 
                             Canonical Launches Charmed MLFlow to Simplify Management and Maintenance of ML Workflows
@@ -36,7 +45,7 @@ Diwan's work at Netflix involves the backend work regarding membership engineeri
 설명 : 
                          Based on the open-source MLflow platform, Canonical Charmed MLFlow aims to simplify the task of managing machine learning workflows and artifacts by using alternative packaging system and orchestration engine.
                     
-5 번째 검색 내용 
+6 번째 검색 내용 
 제목 : 
 
                             GitHub's Learnings from Building Copilot - An Enterprise LLM Application
@@ -47,7 +56,7 @@ Diwan's work at Netflix involves the backend work regarding membership engineeri
 
 In a post on GitHub's blog, AI product leader Shuyin Zhao describes how -- over three years -- they broke the project down into three stages - "find it", "nail it" and "scale it", and successfully launched GitHub Copilot.
                     
-6 번째 검색 내용 
+7 번째 검색 내용 
 제목 : 
 
                             Unpacking how Ads Ranking Works @ Pinterest: Aayush Mudgal at QCon San Francisco
@@ -56,7 +65,7 @@ In a post on GitHub's blog, AI product leader Shuyin Zhao describes how -- over 
 설명 : 
                          At QCon San Francisco Aayush Mudgal gave a talk on Pinterest's ad ranking strategy. Pinterest does both candidate retrieval and ranking, supported by user interaction data and what they are currently watching. They use neural networks to create embeddings for ads and users, where ads which are close to the user should be relevant. They train and deploy models on a daily basis.
                     
-7 번째 검색 내용 
+8 번째 검색 내용 
 제목 : 
 
                             OpenAI Announces ChatGPT Voice and Image Features
@@ -65,7 +74,7 @@ In a post on GitHub's blog, AI product leader Shuyin Zhao describes how -- over 
 설명 : 
                          OpenAI recently announced new voice and image features for ChatGPT. A new backend model, GPT-4V, will handle image inputs, and an updated DALL-E model will be integrated to generate images. In addition, users of the mobile ChatGPT app will be able to hold voice conversations with the chatbot.
                     
-8 번째 검색 내용 
+9 번째 검색 내용 
 제목 : 
 
                             AWS Lambda under the Hood: Mike Danilov at QCon San Francisco
@@ -76,7 +85,7 @@ In a post on GitHub's blog, AI product leader Shuyin Zhao describes how -- over 
 
 Danilov's talk centered around invoke routing, compute infrastructure, and cold starts topics.
                     
-9 번째 검색 내용 
+10 번째 검색 내용 
 제목 : 
 
                             Rethinking 'Rethinking Reactivity' - Svelte 5 Introduces Runes
@@ -85,7 +94,7 @@ Danilov's talk centered around invoke routing, compute infrastructure, and cold 
 설명 : 
                          In their “Introducing runes” blog post, the Svelte team presents new syntax to express reactive dependencies in web applications. The extra syntax may increase the maintainability of complex web applications, further advancing Svelte’s enterprise readiness.
                     
-10 번째 검색 내용 
+11 번째 검색 내용 
 제목 : 
 
                             Scale Higher Per-Database Storage Limits and Create More Databases with Cloudflare D1 Open Beta
@@ -96,7 +105,7 @@ Danilov's talk centered around invoke routing, compute infrastructure, and cold 
 
 The open beta of D1 continues on earlier company investments, with the most recent enhanced performance. With the open beta of D1, the company adds higher per-database storage limits and the ability to create more databases.
                     
-11 번째 검색 내용 
+12 번째 검색 내용 
 제목 : 
 
                             Transitioning to SwiftUI at Airbnb
@@ -105,7 +114,7 @@ The open beta of D1 continues on earlier company investments, with the most rece
 설명 : 
                          In 2022, the iOS team at Airbnb decided SwiftUI was sufficiently mature to be adopted for their official app. This required a careful transition, explains Airbnb staff engineer Bryn Bodayle.
                     
-12 번째 검색 내용 
+13 번째 검색 내용 
 제목 : 
 
                             Nomura Leverages HashiCorp Consul for Microservices Discovery on AWS EC2
@@ -114,7 +123,7 @@ The open beta of D1 continues on earlier company investments, with the most rece
 설명 : 
                          With the help of AWS and HashiCorp consultants, Nomura created a solution for service discovery for complex microservices environments. The solution leverages HashiCorp Consul and is based on a hierarchical, rule-based algorithm. It supports discovery by service name, DNS latency, and custom tags.
                     
-13 번째 검색 내용 
+14 번째 검색 내용 
 제목 : 
 
                             Java News Roundup: New JEP Candidates, Spring Cloud, GlassFish, Helidon, Open Liberty, Apache Camel
@@ -123,7 +132,7 @@ The open beta of D1 continues on earlier company investments, with the most rece
 설명 : 
                          This week's Java roundup for September 25th, 2023 features news from OpenJDK, JDK 22, Eclipse GlassFish 7.0.9, Build 21-jextract+1-2, Spring Cloud 2023.0.0-M2, Helidon 4.0.0-RC1, Open Liberty 23.0.0.10-beta, Apache Camel 4.0.1 and 3.21.1, JHipster Lite 0.43.0, JDKMon 17.0.77 and 17.0.75, JobRunr 6.3.2, Yupiik Fusion 1.0.8 and Gradle 8.4.0-RC3.
                     
-14 번째 검색 내용 
+15 번째 검색 내용 
 제목 : 
 
                             Microsoft Announces a New Azure SQL Database Free Offer in Public Preview
@@ -131,13 +140,4 @@ The open beta of D1 continues on earlier company investments, with the most rece
 주소 : https://www.infoq.com/news/2023/10/public-preview-azure-sql-free/
 설명 : 
                          Microsoft recently announced the public preview of a new Azure SQL Database free offering. This offering provides users a 32 GB General Purpose, serverless Azure SQL database with 100,000 vCore seconds of compute free monthly.
-                    
-15 번째 검색 내용 
-제목 : 
-
-                            Amazon EBS Volumes Support Storage Fencing Using NVMe Reservations
-                        
-주소 : https://www.infoq.com/news/2023/10/aws-ebs-fencing-nvme/
-설명 : 
-                         AWS recently introduced support for NVMe reservations, a set of industry-standard storage fencing protocols, on io2 and io2 Block Express EBS volumes. Controlling and coordinating access from multiple instances to a shared volume, reservations are used by shared storage applications to ensure data consistency.
                     
