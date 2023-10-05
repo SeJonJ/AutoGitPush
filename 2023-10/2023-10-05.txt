@@ -10,13 +10,22 @@
 2 번째 검색 내용 
 제목 : 
 
+                            Chronon - Airbnb’s End-to-End Feature Platform at QConSF 2023
+                        
+주소 : https://www.infoq.com/news/2023/10/chronon-at-qconsf2023/
+설명 : 
+                         At QConSF, Airbnb Staff Software Engineer Nikhil Simha presented Chronon, Airbnb's solution to address the challenges of managing and serving the vast number of features used in machine learning models. The platform focuses on four key areas: core APIs, training data generation, feature serving, and feature observability.
+                    
+3 번째 검색 내용 
+제목 : 
+
                             Disaster Recovery across a Million Pieces: Michelle Brush at QCon San Francisco
                         
 주소 : https://www.infoq.com/news/2023/10/disaster-recovery-million-pieces/
 설명 : 
                          During the second day of QCon San Francisco 2023, Michelle Brush, an engineering director, SRE at Google, discussed challenges, patterns, and practices for disaster recovery actions in massively distributed systems in her session. The session is part of the "Designing for Resilience" track.
                     
-3 번째 검색 내용 
+4 번째 검색 내용 
 제목 : 
 
                             Effective Performance Engineering at Twitter-Scale: Yao Yue at QCon San Francisco
@@ -25,7 +34,7 @@
 설명 : 
                          During the second day of QCon San Francisco 2023, Yao Yue, the founder of IOP Systems, presented on performance engineering. In her session Yue discussed the evolving performance engineering in the modern era. For decades, hardware advancements have kept many performance engineers on the sidelines, but now, in a pivotal moment, their skills are more crucial than ever.
                     
-4 번째 검색 내용 
+5 번째 검색 내용 
 제목 : 
 
                             Distributed Materialized Views: How Airbnb’s Riverbed Processes 2.4 Billion Daily Events
@@ -34,7 +43,7 @@
 설명 : 
                          Airbnb created Riverbed, a Lambda-like data framework for producing and managing distributed materialized views. The framework supports over 50 read-heavy use cases where data is sourced from multiple data sources within the company’s service-oriented architecture (SOA) platform. It uses Apache Kafka and Apache Spark for online and offline components, respectively.
                     
-5 번째 검색 내용 
+6 번째 검색 내용 
 제목 : 
 
                             Generative AI: Shaping a New Future for Fraud Prevention, by Neha Narkhede at QCon San Francisco
@@ -43,7 +52,7 @@
 설명 : 
                          At the recent QCon San Francisco conference, Neha Narkhede gave a keynote on how generative AI can help improve the state of the art in fraud prevention. She discussed the "knowledge fabric", which is able to capture all information and knowledge on current fraud methods. She also introduced six foundational pillars of AI Risk Decisioning.
                     
-6 번째 검색 내용 
+7 번째 검색 내용 
 제목 : 
 
                             QCon San Francisco 2023 Day 1: Architectures, Data Engineering, Infra Languages, Staff+ Skills
@@ -52,15 +61,6 @@
 설명 : 
                          The 17th annual QCon San Francisco conference was held at the Hyatt Regency San Francisco in San Francisco, California. This five-day event, organized by C4Media, consists of three days of presentations and two days of workshops. Day One, scheduled on October 2nd, 2023, included a keynote address by Suhail Patel and presentations from four conference tracks and two sponsored tracks.
                     
-7 번째 검색 내용 
-제목 : 
-
-                            Build and Deploy Retrieval Augmented Generative Pipelines with Haystack
-                        
-주소 : https://www.infoq.com/news/2023/10/build-rag-with-haystack/
-설명 : 
-                         During the first day of QCon San-Francisco 2023, Tuana Celik and Thomas Stadelmann from deepset, the creators of the open-source large language model (LLM) framework Haystack, gave a talk on how to build and deploy Retrieval Augmented Generative (RAG) pipelines using their platform.
-                    
 8 번째 검색 내용 
 제목 : 
 
@@ -68,7 +68,7 @@
                         
 주소 : https://www.infoq.com/news/2023/10/membership-management-netflix/
 설명 : 
-                         During the first day of QCon Dan-Francisco 2023, Surabhi Diwan, a senior software engineer at Netflix, presented on managing 238 million Memberships of Netflix. The talk is a part of the “Architectures You’ve Always Wondered About.”
+                         During the first day of QCon Dan-Francisco 2023, Surabhi Diwan, a senior software engineer at Netflix, presented on managing 238 million Memberships of Netflix. The talk is a part of the “Architectures You’ve Always Wondered About" track.
 
 Diwan's work at Netflix involves the backend work regarding membership engineering, which is critical for both signups and streaming at Netflix.
                     
