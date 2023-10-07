@@ -1,0 +1,135 @@
+1 번째 검색 내용 
+제목 : 
+
+                            QCon San Francisco 2023: Streamlining Cloud Development with Deno by Ryan Dahl
+                        
+주소 : https://www.infoq.com/news/2023/10/streamlining-cloud-deno-dahl/
+설명 : 
+                         Ryan Dahl, Co-Founder and CEO at Deno and Software Engineer best known for creating Node.js, presented “Streamlining Cloud Development with Deno” at QCon San Francisco 2023. Dahl introduced Deno, an open source next-generation JavaScript runtime, and discussed the benefits of using this framework. Dahl also provided numerous demos on how to build and deploy cloud applications with Deno.
+                    
+2 번째 검색 내용 
+제목 : 
+
+                            Modern Compute Stack for Scaling Large AI/ML/LLM Workloads at QCon San Francisco
+                        
+주소 : https://www.infoq.com/news/2023/10/modern-compute-stack-qcon/
+설명 : 
+                         Jules Damji, a lead developer advocate at Anyscale Inc., discussed the difficulties data scientists encounter when managing infrastructure for machine learning models.  He emphasized the necessity for a framework that supports the latest machine learning libraries, is easily manageable, and can scale to accommodate large datasets and models.  Damji introduced Ray as a potential solution.
+                    
+3 번째 검색 내용 
+제목 : 
+
+                            QCon San Francisco 2023 Day 3: Architecting the Cloud, Deep Tech, Frontend Trends, Org Resilience
+                        
+주소 : https://www.infoq.com/news/2023/10/day-three-qcon-sf-2023/
+설명 : 
+                         The 17th annual QCon San Francisco conference was held at the Hyatt Regency San Francisco in San Francisco, California. This five-day event, organized by C4Media, consists of three days of presentations and two days of workshops. Day Three, scheduled on October 4th, 2023, included a keynote address by Will Larson and presentations from four conference tracks and one sponsored track.
+                    
+4 번째 검색 내용 
+제목 : 
+
+                            Combating AI-Generated Fake Images with JavaScript Libraries, by Kate Sills at QCon San Francisco
+                        
+주소 : https://www.infoq.com/news/2023/10/combating-fake-images-qcon-sf/
+설명 : 
+                         At the recent QCon San Francisco conference Kate Sills gave a talk about combating AI-generated fake images using existing JavaScript libraries. She advocated for using cryptographic timestamping to ensure the time photos were taken, and using digital signatures to verify that the image was made by a legitimate source.
+                    
+5 번째 검색 내용 
+제목 : 
+
+                            QCon San Francisco 2023 Day 2: Design for Resilience, Platform Engineering, Modern ML, JVM Trends
+                        
+주소 : https://www.infoq.com/news/2023/10/day-two-qcon-sf-2023/
+설명 : 
+                         The 17th annual QCon San Francisco conference was held at the Hyatt Regency San Francisco in San Francisco, California. This five-day event, organized by C4Media, consists of three days of presentations and two days of workshops. Day Two, scheduled on October 3rd, 2023, included a keynote address by Neha Narkhede and presentations from four conference tracks and one sponsored track.
+                    
+6 번째 검색 내용 
+제목 : 
+
+                            An Engineering Perspective on Cloud Cost Optimization: Erik Peterson at QCon San Francisco
+                        
+주소 : https://www.infoq.com/news/2023/10/engineering-optimize-cost/
+설명 : 
+                         A single line of code can shape an organization's financial future. Erik Peterson, the CTO and founder at CloudZero, presented during day three at QCon San Francisco about the engineering’s perspective on cloud cost optimization. His session was part of the “Architecting for the Cloud” track.
+                    
+7 번째 검색 내용 
+제목 : 
+
+                            Defensible Moats: Unlocking Enterprise Value with Large Language Models at QCon San Francisco
+                        
+주소 : https://www.infoq.com/news/2023/10/defensible-moats-qconsf/
+설명 : 
+                         In a recent presentation at QConSFrancisco, Nischal HP discussed the challenges enterprises face when building LLM-powered applications using APIs alone. These challenges include data fragmentation, the absence of a shared business vocabulary, privacy concerns regarding data, and diverse objectives among stakeholders.
+                    
+8 번째 검색 내용 
+제목 : 
+
+                            The Challenges of Producing Quality Code When Using AI-Based Generalistic Models
+                        
+주소 : https://www.infoq.com/news/2023/10/producing-quality-code-AI/
+설명 : 
+                         Using AI with generalistic models to do very specific things like generating code can cause problems. Producing code with AI is like using code from someone else who you don’t know which may not match your standards and quality. Creating specialised or dedicated models can be a way out.
+                    
+9 번째 검색 내용 
+제목 : 
+
+                            Resharper 2023.2 Brings Predictive Debugger
+                        
+주소 : https://www.infoq.com/news/2023/10/resharper-predictive-debugger/
+설명 : 
+                         At the beginning of August JetBrains introduced predictive debugger in the 2023.2 version of ReSharper, its developer productivity extension for Microsoft Visual Studio. The predictive debugger anticipates the future of code execution without actually executing the code and provides visual cues to aid in understanding code behavior.
+                    
+10 번째 검색 내용 
+제목 : 
+
+                            Lessons from Leading the Serverless First Journey at Capital One: George Mao at QCon San Francisco
+                        
+주소 : https://www.infoq.com/news/2023/10/capitol-one-aws-serverless/
+설명 : 
+                         During the third day of QCon San Francisco, George Mao, a senior distinguished engineer at Capital One, presented on his company's journey into serverless, the best practices they picked up, and the lessons learned along the way. The session was part of the “Architecting for the Cloud” track.
+                    
+11 번째 검색 내용 
+제목 : 
+
+                            Practical Advice for Retrieval Augmented Generation (RAG), by Sam Partee at QCon San Francisco
+                        
+주소 : https://www.infoq.com/news/2023/10/practical-advice-RAG/
+설명 : 
+                         At the recent QCon San Francisco conference, Sam Partee, principal engineer at Redis, gave a talk about Retrieval Augmented Generation (RAG). He discussed Generative Search, which combines large language models (LLMs) with vector databases to improve information retrieval. Partee discussed several innovative tricks such as Hypothetical Document Embeddings (HyDE), and semantic caching. 
+                    
+12 번째 검색 내용 
+제목 : 
+
+                            Chronon - Airbnb’s End-to-End Feature Platform at QConSF 2023
+                        
+주소 : https://www.infoq.com/news/2023/10/chronon-at-qconsf2023/
+설명 : 
+                         At QConSF, Airbnb staff software engineer Nikhil Simha presented Chronon, Airbnb's solution to address the challenges of managing and serving the vast number of features used in machine learning models. The platform focuses on four key areas: core APIs, training data generation, feature serving, and feature observability.
+                    
+13 번째 검색 내용 
+제목 : 
+
+                            Disaster Recovery across a Million Pieces: Michelle Brush at QCon San Francisco
+                        
+주소 : https://www.infoq.com/news/2023/10/disaster-recovery-million-pieces/
+설명 : 
+                         During the second day of QCon San Francisco 2023, Michelle Brush, an engineering director, SRE at Google, discussed challenges, patterns, and practices for disaster recovery actions in massively distributed systems in her session. The session is part of the "Designing for Resilience" track.
+                    
+14 번째 검색 내용 
+제목 : 
+
+                            Effective Performance Engineering at Twitter-Scale: Yao Yue at QCon San Francisco
+                        
+주소 : https://www.infoq.com/news/2023/10/performance-engineering-scale/
+설명 : 
+                         During the second day of QCon San Francisco 2023, Yao Yue, the founder of IOP Systems, presented on performance engineering. In her session Yue discussed the evolving performance engineering in the modern era. For decades, hardware advancements have kept many performance engineers on the sidelines, but now, in a pivotal moment, their skills are more crucial than ever.
+                    
+15 번째 검색 내용 
+제목 : 
+
+                            Distributed Materialized Views: How Airbnb’s Riverbed Processes 2.4 Billion Daily Events
+                        
+주소 : https://www.infoq.com/news/2023/10/airbnb-riverbed-introduction/
+설명 : 
+                         Airbnb created Riverbed, a Lambda-like data framework for producing and managing distributed materialized views. The framework supports over 50 read-heavy use cases where data is sourced from multiple data sources within the company’s service-oriented architecture (SOA) platform. It uses Apache Kafka and Apache Spark for online and offline components, respectively.
+                    
