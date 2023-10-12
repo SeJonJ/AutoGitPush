@@ -1,0 +1,135 @@
+1 번째 검색 내용 
+제목 : 
+
+                            Visual Studio Code: C# Dev Kit Now Generally Available
+                        
+주소 : https://www.infoq.com/news/2023/10/csharp-dev-kit-ga/
+설명 : 
+                         Microsoft recently made the C# Dev Kit generally available for everyone. Microsoft introduced the C# Dev Kit extension back in June this year, and it should make coding in C# easier on multiple platforms. As reported it brings an improved editor-first C# development experience to Linux, macOS, and Windows.  The kit and the C# extension use open-source technology.
+                    
+2 번째 검색 내용 
+제목 : 
+
+                            Stability AI Releases Generative Audio Model Stable Audio
+                        
+주소 : https://www.infoq.com/news/2023/10/stable-audio/
+설명 : 
+                         Harmonai, the audio research lab of Stability AI, has released Stable Audio, a diffusion model for text-controlled audio generation. Stable Audio is trained on 19,500 hours of audio data and can generate 44.1kHz quality audio in realtime using a single NVIDIA A100 GPU.
+                    
+3 번째 검색 내용 
+제목 : 
+
+                            Amazon DataZone Generally Available: Share and Access Data across AWS Accounts
+                        
+주소 : https://www.infoq.com/news/2023/10/amazon-datazone-governance-ga/
+설명 : 
+                         AWS recently announced the general availability (GA) of Amazon DataZone. This data management service allows users to catalog, discover, share, and govern data stored across AWS, on-premises, and third-party sources.
+                    
+4 번째 검색 내용 
+제목 : 
+
+                            QCon SF 2023: How Netflix Really Uses Java by Paul Bakker
+                        
+주소 : https://www.infoq.com/news/2023/10/java-at-netflix-bakker/
+설명 : 
+                         Paul Bakker, Java Platform at Netflix, Java Champion, and Co-Author of "Java 9 Modularity," presented How Netflix Really Uses Java at the 2023 QCon San Francisco conference. Bakker described the evolution of the architecture behind their movie application, introduced the GraphQL Federation, and described how Java is used at Netflix that includes plans to support JDK 21.
+                    
+5 번째 검색 내용 
+제목 : 
+
+                            Java News Roundup: New JEP Candidates, Azul, Gradle 8.4, QCon San Francisco, Devoxx Belgium
+                        
+주소 : https://www.infoq.com/news/2023/10/java-news-roundup-oct02-2023/
+설명 : 
+                         This week's Java roundup for October 2nd, 2023, features news from OpenJDK, JDK 22, Azul Code Inventory, Spring Shell 3.1.4, 3.0.8 and 2.1.13, JNoSQL 1.0.2, Quarkus 3.4.2, Micronaut 4.1.3, Hibernate Search 6.2.2, PrimeFaces 12.0.6, 11.0.12, 10.0.19 and 8.0.24, Maven 3.9.5, Camel 3.20.7, Tomcat Native 1.2.39, Testcontainers 1.19.1, JBang 0.111.0, Gradle 8.4, QCon San Francisco and Devoxx Belgium.
+                    
+6 번째 검색 내용 
+제목 : 
+
+                            How Amazon Prime Video Delivers 99.999% Availability While Reducing Costs
+                        
+주소 : https://www.infoq.com/news/2023/10/prime-video-availability-costs/
+설명 : 
+                         Amazon Prime Video created a highly available live video streaming architecture by combining redundant components to achieve the five-nines of availability that they require for their platform. The company optimized the deployment topology and video encoding to reduce costs while ensuring optimal video quality for users.
+                    
+7 번째 검색 내용 
+제목 : 
+
+                            Github Advanced Security Generally Available for Azure DevOps
+                        
+주소 : https://www.infoq.com/news/2023/10/github-advanced-secure-azure/
+설명 : 
+                         Microsoft announced the general availability of GitHub Advanced Security for Azure DevOps, allowing users to integrate code, secret, and dependency scanning into their Azure Repos and benefit from the latest updates.
+                    
+8 번째 검색 내용 
+제목 : 
+
+                            Cloudflare Turnstile: CAPTCHA Replacement Now GA and Available for Free
+                        
+주소 : https://www.infoq.com/news/2023/10/cloudflare-turnstile-ga-free/
+설명 : 
+                         Cloudflare recently announced that Turnstile is now generally available and free for everyone. Designed as an alternative to traditional challenge-response tests, Turnstile is a checkbox designed to preserve user privacy, stop bots, and enhance the user experience.
+                    
+9 번째 검색 내용 
+제목 : 
+
+                            Eating One's Own Dogfood: GitHub Using Actions and Runners for GitHub.com
+                        
+주소 : https://www.infoq.com/news/2023/10/running-GitHub-using-actions/
+설명 : 
+                         To improve how they ship software in a scalable and effective way, GitHub has adopted GitHub Actions for a part of their continuous integration system. In particular, they leveraged the new Actions larger runners to get to run 15,000 CI jobs across 150,000 cores. In the process they also extended larger runners capabilities for all their users.
+                    
+10 번째 검색 내용 
+제목 : 
+
+                            Cloudflare Hyperdrive: Access PostgreSQL Databases Globally
+                        
+주소 : https://www.infoq.com/news/2023/10/cloudflare-hyperdrive-postgres/
+설명 : 
+                         During the recent "Birthday Week 2023", Cloudflare announced the open beta of Hyperdrive, a new service that uses Cloudflare global network to speed up queries to existing databases. The service currently supports PostgreSQL-compatible databases, with support for MySQL expected soon.
+                    
+11 번째 검색 내용 
+제목 : 
+
+                            QCon SF 2023: Streamlining Cloud Development with Deno by Ryan Dahl
+                        
+주소 : https://www.infoq.com/news/2023/10/streamlining-cloud-deno-dahl/
+설명 : 
+                         Ryan Dahl, Co-Founder and CEO at Deno and Software Engineer best known for creating Node.js, presented “Streamlining Cloud Development with Deno” at QCon San Francisco 2023. Dahl introduced Deno, an open source next-generation JavaScript runtime, and discussed the benefits of using this framework. Dahl also provided numerous demos on how to build and deploy cloud applications with Deno.
+                    
+12 번째 검색 내용 
+제목 : 
+
+                            A Modern Compute Stack for Scaling Large AI, ML, & LLM Workloads at QCon SF
+                        
+주소 : https://www.infoq.com/news/2023/10/modern-compute-stack-qcon/
+설명 : 
+                         Jules Damji, a lead developer advocate at Anyscale Inc., discussed the difficulties data scientists encounter when managing infrastructure for machine learning models.  He emphasized the necessity for a framework that supports the latest machine learning libraries, is easily manageable, and can scale to accommodate large datasets and models.  Damji introduced Ray as a potential solution.
+                    
+13 번째 검색 내용 
+제목 : 
+
+                            QCon San Francisco 2023 Day 3: Architecting the Cloud, Deep Tech, Frontend Trends, Org Resilience
+                        
+주소 : https://www.infoq.com/news/2023/10/day-three-qcon-sf-2023/
+설명 : 
+                         The 17th annual QCon San Francisco conference was held at the Hyatt Regency San Francisco in San Francisco, California. This five-day event, organized by C4Media, consists of three days of presentations and two days of workshops. Day Three, scheduled on October 4th, 2023, included a keynote address by Will Larson and presentations from four conference tracks and one sponsored track.
+                    
+14 번째 검색 내용 
+제목 : 
+
+                            Combating AI-Generated Fake Images with JavaScript Libraries, by Kate Sills at QCon San Francisco
+                        
+주소 : https://www.infoq.com/news/2023/10/combating-fake-images-qcon-sf/
+설명 : 
+                         At the recent QCon San Francisco conference Kate Sills gave a talk about combating AI-generated fake images using existing JavaScript libraries. She advocated for using cryptographic timestamping to ensure the time photos were taken, and using digital signatures to verify that the image was made by a legitimate source.
+                    
+15 번째 검색 내용 
+제목 : 
+
+                            QCon San Francisco 2023 Day 2: Design for Resilience, Platform Engineering, Modern ML, JVM Trends
+                        
+주소 : https://www.infoq.com/news/2023/10/day-two-qcon-sf-2023/
+설명 : 
+                         The 17th annual QCon San Francisco conference was held at the Hyatt Regency San Francisco in San Francisco, California. This five-day event, organized by C4Media, consists of three days of presentations and two days of workshops. Day Two, scheduled on October 3rd, 2023, included a keynote address by Neha Narkhede and presentations from four conference tracks and one sponsored track.
+                    
