@@ -1,13 +1,40 @@
 1 번째 검색 내용 
 제목 : 
 
+                            Deno 1.37: Significant Developer-Focused Enhancements
+                        
+주소 : https://www.infoq.com/news/2023/10/deno-jupyter-integration/
+설명 : 
+                         Deno 1.37 introduces enhancements to the developer experience, particularly through its seamless integration with Jupyter notebooks. This integration enables developers to use JavaScript and TypeScript within Jupyter notebooks for tasks such as data analysis, machine learning, and interactive report creation.
+                    
+2 번째 검색 내용 
+제목 : 
+
+                            Microsoft Playwright Testing: Scalable End-to-End Testing for Modern Web Apps
+                        
+주소 : https://www.infoq.com/news/2023/10/microsoft-playwright-testing/
+설명 : 
+                         Microsoft recently announced the public preview of Microsoft Playwright Testing, a new service for running Playwright tests at scale through Azure.
+                    
+3 번째 검색 내용 
+제목 : 
+
+                            Google Cloud Ops Agent Can Now Monitor Nvidia GPUs
+                        
+주소 : https://www.infoq.com/news/2023/10/google-cloud-nvidia-gpu/
+설명 : 
+                         Google Cloud announced that Ops Agent, the agent for collecting telemetry from Compute Engine instances, can now collect and aggregate metrics from NVIDIA GPUs on VMs.
+                    
+4 번째 검색 내용 
+제목 : 
+
                             AWS Application Composer Now Supports All Cloudformation Resources
                         
 주소 : https://www.infoq.com/news/2023/10/aws-application-composer-updates/
 설명 : 
                          AWS announced the availability of all AWS CloudFormation resource types within AWS Application Composer. This builds on the GA release which only allowed 13 CloudFormation resource types to be used.
                     
-2 번째 검색 내용 
+5 번째 검색 내용 
 제목 : 
 
                             TorchServe Potentially Exposed to Remote Code Execution
@@ -16,7 +43,7 @@
 설명 : 
                          Israeli-based security company Oligo has uncovered multiple vulnerabilities in TorchServe, the tool used to serve PyTorch models, that could allow an attacker to run arbitrary code on vulnerable systems. The vulnerabilities have been promptly fixed in TorchServe version 0.82.
                     
-3 번째 검색 내용 
+6 번째 검색 내용 
 제목 : 
 
                             Java News Roundup: Foreign Function & Memory API, OpenJDK JEPs, Apache Tomcat CVEs
@@ -25,7 +52,7 @@
 설명 : 
                          This week's Java roundup for October 9th, 2023 features news from OpenJDK, JDK 22, Apache Tomcat CVEs, Devoxx Morocco, and milestone, point and release candidates of: Spring Framework; Spring Data; Micronaut; Quarkus; Micrometer Metrics; Micrometer Tracing; Apache Kafka; Apache Camel; Eclipse Vert.x; Project Reactor; JHipster Lite; Piranha; and RefactorFirst.
                     
-4 번째 검색 내용 
+7 번째 검색 내용 
 제목 : 
 
                             GitHub Copilot Chat in Open Beta: Now Available for All Individuals in Visual Studio and VS Code
@@ -34,7 +61,7 @@
 설명 : 
                          GitHub Copilot Chat is a chat interface that allows developers to ask and receive answers to coding-related questions directly within a supported IDE. It is currently in open beta and available for all GitHub Copilot individual users across Visual Studio and VS Code.
                     
-5 번째 검색 내용 
+8 번째 검색 내용 
 제목 : 
 
                             PlanetScale's Challenge to Oracle: Forking MySQL and Introducing Vector Search
@@ -43,7 +70,7 @@
 설명 : 
                          PlanetScale recently announced the intention to fork MySQL adding vector search.  While PostgreSQL has been the default open-source choice for vector search, the company behind the Vitess database wants to release a version of MySQL and PlanetScale with vector support.
                     
-6 번째 검색 내용 
+9 번째 검색 내용 
 제목 : 
 
                             Google Improves Cloud Spanner: More Compute and Storage without Price Increase
@@ -52,7 +79,7 @@
 설명 : 
                          Google recently announced various improvements to Cloud Spanner, its distributed, decoupled relational database service with a “50% increase in throughput and 2.5 times the storage per node than before” without a price change.
                     
-7 번째 검색 내용 
+10 번째 검색 내용 
 제목 : 
 
                             Terraform 1.6 Makes Testing Framework Generally Available
@@ -61,7 +88,7 @@
 설명 : 
                          HashiCorp has released Terraform 1.6 with several new improvements including a new testing framework. Additional improvements include changes to config-driven import, Terraform Cloud CLI workflows, and the Amazon S3 backend. This version marks the first release of Terraform to be under the Business Source License v1.1 (BSL 1.1).
                     
-8 번째 검색 내용 
+11 번째 검색 내용 
 제목 : 
 
                             Cloudflare Sippy: Incrementally Migrate Data from Amazon S3 to Reduce Egress Fees
@@ -70,7 +97,7 @@
 설명 : 
                          Cloudflare recently announced the open beta of Sippy, an incremental data migration service that copies data from Amazon S3 to Cloudflare R2 only the first time the data is requested.  Sippy is designed to minimize migration-specific egress fees by leveraging requests within existing application flows while simultaneously copying objects to R2.
                     
-9 번째 검색 내용 
+12 번째 검색 내용 
 제목 : 
 
                             Durable Execution for Control Planes: Sergey Bykov at QCon San Francisco
@@ -79,7 +106,7 @@
 설명 : 
                          During the third day of QCon San Francisco, Sergey Bykov, an SDE at Temporal Technologies, presented on Durable Execution for Control Planes: Building Temporal Cloud on Temporal. In his talk, Bykov introduced the concept of Durable Execution with a real-world example of how his company uses it to build the Control Plane for Temporal Cloud, including lessons learned.
                     
-10 번째 검색 내용 
+13 번째 검색 내용 
 제목 : 
 
                             GraalVM Replaces the GraalVM Updater with Language Libraries
@@ -88,7 +115,7 @@
 설명 : 
                          The GraalVM team announced that Java libraries will replace the GraalVM Updater (gu) starting with JDK 21. The updater enabled the installation and management of GraalVM language runtimes and utilities. Libraries are available for languages such as JavaScript, Node.js, Python, WebAssembly and Ruby.
                     
-11 번째 검색 내용 
+14 번째 검색 내용 
 제목 : 
 
                             Swift 5.9 Brings a Macro System and C++ Interoperability
@@ -97,7 +124,7 @@
 설명 : 
                          In addition to an expressive macro system and a limited form of C++ interoperability, Swift 5.9, now officially available, also introduces parameter packs, ownership-based memory management, and more.
                     
-12 번째 검색 내용 
+15 번째 검색 내용 
 제목 : 
 
                             Benefits of Doing Remote Mob Programming in a High Stakes Environment
@@ -105,31 +132,4 @@
 주소 : https://www.infoq.com/news/2023/10/benefits-remote-mob-programming/
 설명 : 
                          A new team that needed to work remotely in a high-stakes environment decided to try out mob programming. It helped them to quickly go through forming-storming-norming-performing. With mobbing, the team learned new technologies, found solutions for dealing with others in stressful situations, and discovered how to work effectively together remotely.
-                    
-13 번째 검색 내용 
-제목 : 
-
-                            Visual Studio Code: C# Dev Kit Now Generally Available
-                        
-주소 : https://www.infoq.com/news/2023/10/csharp-dev-kit-ga/
-설명 : 
-                         Microsoft recently made the C# Dev Kit generally available for everyone. Microsoft introduced the C# Dev Kit extension back in June this year, and it should make coding in C# easier on multiple platforms. As reported it brings an improved editor-first C# development experience to Linux, macOS, and Windows.  The kit and the C# extension use open-source technology.
-                    
-14 번째 검색 내용 
-제목 : 
-
-                            Stability AI Releases Generative Audio Model Stable Audio
-                        
-주소 : https://www.infoq.com/news/2023/10/stable-audio/
-설명 : 
-                         Harmonai, the audio research lab of Stability AI, has released Stable Audio, a diffusion model for text-controlled audio generation. Stable Audio is trained on 19,500 hours of audio data and can generate 44.1kHz quality audio in realtime using a single NVIDIA A100 GPU.
-                    
-15 번째 검색 내용 
-제목 : 
-
-                            Amazon DataZone Generally Available: Share and Access Data across AWS Accounts
-                        
-주소 : https://www.infoq.com/news/2023/10/amazon-datazone-governance-ga/
-설명 : 
-                         AWS recently announced the general availability (GA) of Amazon DataZone. This data management service allows users to catalog, discover, share, and govern data stored across AWS, on-premises, and third-party sources.
                     
