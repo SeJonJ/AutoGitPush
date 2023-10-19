@@ -1,0 +1,135 @@
+1 번째 검색 내용 
+제목 : 
+
+                            AWS Announces the Preview of Amazon CodeWhisperer Customization Capability
+                        
+주소 : https://www.infoq.com/news/2023/10/aws-codewhisperer-customization/
+설명 : 
+                         Amazon Web Services has announced the preview of Amazon CodeWhisperer Customization Capability. This new functionality empowers users to fine-tune CodeWhisperer, enabling it to provide more precise suggestions by incorporating an organization's proprietary APIs, internal libraries, classes, methods, and industry best practices.
+                    
+2 번째 검색 내용 
+제목 : 
+
+                            Cloudflare Post-Quantum Cryptography Now Generally Available, Including Origin Servers
+                        
+주소 : https://www.infoq.com/news/2023/10/cloudflare-post-quantum-crypto/
+설명 : 
+                         Cloudflare has announced the general availability of post-quantum cryptography for a number of its services and internal systems. While promising a higher standard of privacy for the post-quantum era, the new feature depends on post-cryptography support in browsers and on the final link between Cloudflare and origin servers.
+                    
+3 번째 검색 내용 
+제목 : 
+
+                            Uber Migrates 4000+ Microservices to a New Multi-Cloud Platform Running Kubernetes and Mesos
+                        
+주소 : https://www.infoq.com/news/2023/10/uber-up-cloud-microservices/
+설명 : 
+                         Uber moved most of its containerized microservices from µDeploy to a new multi-cloud platform named Up in preparation for migrating a considerable portion of its compute footprint to the cloud. The company spent two years working on making its many microservices portable so that they can be migrated between different compute infrastructure and container management platforms.
+                    
+4 번째 검색 내용 
+제목 : 
+
+                            System Initiative Software Goes Open Source; Aims to Model and Automate Infrastructure Management
+                        
+주소 : https://www.infoq.com/news/2023/10/system-initiative-open-source/
+설명 : 
+                         System Initiative, a customizable power tool, recently open-sourced all of its software under the Apache License 2.0. The release of System Initiative's software to the open-source community aims at improving the DevOps landscape, with a specific emphasis on simulating the user’s infrastructure and using it to manage real-world systems.
+                    
+5 번째 검색 내용 
+제목 : 
+
+                            Google DeepMind Announces LLM-Based Robot Controller RT-2
+                        
+주소 : https://www.infoq.com/news/2023/10/deepmind-robot-transformer/
+설명 : 
+                         Google DeepMind recently announced Robotics Transformer 2 (RT-2), a vision-language-action (VLA) AI model for controlling robots. RT-2 uses a fine-tuned LLM to output motion control commands. It can perform tasks not explicitly included in its training data and improves on baseline models by up to 3x on emergent skill evaluations.
+                    
+6 번째 검색 내용 
+제목 : 
+
+                            Reddit Unveils REV2: Modernised Rule-Execution with Kubernetes, Kafka, and Flink Stateful Functions
+                        
+주소 : https://www.infoq.com/news/2023/10/reddit-rev2/
+설명 : 
+                         Reddit's Safety Engineering team recently published how it modernised its Rule-Execution system, which detects and acts on policy-violating content in real time. The new architecture includes improvements like transitioning from legacy EC2-based systems to Kubernetes, better rule version control with Github and S3 storage, and the capability to scale more efficiently with Flink Stateful Functions.
+                    
+7 번째 검색 내용 
+제목 : 
+
+                            Microsoft Playwright Testing: Scalable End-to-End Testing for Modern Web Apps
+                        
+주소 : https://www.infoq.com/news/2023/10/microsoft-playwright-testing/
+설명 : 
+                         Microsoft recently announced the public preview of Microsoft Playwright Testing, a new service for running Playwright tests at scale through Azure.
+                    
+8 번째 검색 내용 
+제목 : 
+
+                            Deno 1.37: Significant Developer-Focused Enhancements
+                        
+주소 : https://www.infoq.com/news/2023/10/deno-jupyter-integration/
+설명 : 
+                         Deno 1.37 introduces enhancements to the developer experience, particularly through its seamless integration with Jupyter notebooks. This integration enables developers to use JavaScript and TypeScript within Jupyter notebooks for tasks such as data analysis, machine learning, and interactive report creation.
+                    
+9 번째 검색 내용 
+제목 : 
+
+                            Google Cloud Ops Agent Can Now Monitor Nvidia GPUs
+                        
+주소 : https://www.infoq.com/news/2023/10/google-cloud-nvidia-gpu/
+설명 : 
+                         Google Cloud announced that Ops Agent, the agent for collecting telemetry from Compute Engine instances, can now collect and aggregate metrics from NVIDIA GPUs on VMs.
+                    
+10 번째 검색 내용 
+제목 : 
+
+                            TorchServe Potentially Exposed to Remote Code Execution
+                        
+주소 : https://www.infoq.com/news/2023/10/torcheserve-remote-execution/
+설명 : 
+                         Israeli-based security company Oligo has uncovered multiple vulnerabilities in TorchServe, the tool used to serve PyTorch models, that could allow an attacker to run arbitrary code on vulnerable systems. The vulnerabilities have been promptly fixed in TorchServe version 0.82.
+                    
+11 번째 검색 내용 
+제목 : 
+
+                            AWS Application Composer Now Supports All Cloudformation Resources
+                        
+주소 : https://www.infoq.com/news/2023/10/aws-application-composer-updates/
+설명 : 
+                         AWS announced the availability of all AWS CloudFormation resource types within AWS Application Composer. This builds on the GA release which only allowed 13 CloudFormation resource types to be used.
+                    
+12 번째 검색 내용 
+제목 : 
+
+                            Java News Roundup: Foreign Function & Memory API, OpenJDK JEPs, Apache Tomcat CVEs
+                        
+주소 : https://www.infoq.com/news/2023/10/java-news-roundup-oct09-2023/
+설명 : 
+                         This week's Java roundup for October 9th, 2023, features news from OpenJDK, JDK 22, Apache Tomcat CVEs, Devoxx Morocco, and milestone, point and release candidates of: Spring Framework; Spring Data; Micronaut; Quarkus; Micrometer Metrics; Micrometer Tracing; Apache Kafka; Apache Camel; Eclipse Vert.x; Project Reactor; JHipster Lite; Piranha; and RefactorFirst.
+                    
+13 번째 검색 내용 
+제목 : 
+
+                            GitHub Copilot Chat in Open Beta: Now Available for All Individuals in Visual Studio and VS Code
+                        
+주소 : https://www.infoq.com/news/2023/10/github-copilot-chat-open-beta/
+설명 : 
+                         GitHub Copilot Chat is a chat interface that allows developers to ask and receive answers to coding-related questions directly within a supported IDE. It is currently in open beta and available for all GitHub Copilot individual users across Visual Studio and VS Code.
+                    
+14 번째 검색 내용 
+제목 : 
+
+                            PlanetScale's Challenge to Oracle: Forking MySQL and Introducing Vector Search
+                        
+주소 : https://www.infoq.com/news/2023/10/planetscale-fork-mysql/
+설명 : 
+                         PlanetScale recently announced the intention to fork MySQL adding vector search.  While PostgreSQL has been the default open-source choice for vector search, the company behind the Vitess database wants to release a version of MySQL and PlanetScale with vector support.
+                    
+15 번째 검색 내용 
+제목 : 
+
+                            Google Improves Cloud Spanner: More Compute and Storage without Price Increase
+                        
+주소 : https://www.infoq.com/news/2023/10/cloud-spanner-price-performance/
+설명 : 
+                         Google recently announced various improvements to Cloud Spanner, its distributed, decoupled relational database service with a “50% increase in throughput and 2.5 times the storage per node than before” without a price change.
+                    
