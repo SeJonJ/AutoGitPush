@@ -1,13 +1,31 @@
 1 번째 검색 내용 
 제목 : 
 
+                            JetBrains Rider 2023.3 EAP 2 Is Out: Debugger Data Flow Analysis, All-In-One Diff Viewer and More
+                        
+주소 : https://www.infoq.com/news/2023/10/jetbrains-rider-2023-eap-2/
+설명 : 
+                         JetBrains released Rider 2023.3 EAP 2. This Early Access Program for Rider contains such features as Debugger Data Flow Analysis, Quick Search feature and All-In-One Diff Viewer. The JetBrains Rider team also presented the Entity Framework Core user interface plugin and added some new inspections within Dynamic Program Analysis.
+                    
+2 번째 검색 내용 
+제목 : 
+
+                            Contentsquare Uses Microservices and Apache Kafka for Notification Delivery
+                        
+주소 : https://www.infoq.com/news/2023/10/contentsquare-notifications/
+설명 : 
+                         Contentsquare needed notification functionality for many use cases within its platform. The company created a generic solution spanning multiple services as part of its microservice architecture. During the implementation, the developers had to improve observability and overcome some scalability challenges.
+                    
+3 번째 검색 내용 
+제목 : 
+
                             How Growing Tech Engineers Enables Growing Yourself as a Leader
                         
 주소 : https://www.infoq.com/news/2023/10/growing-tech-engineers/
 설명 : 
                          It’s challenging to grow into a new role when you are still holding on to what you have been good at and really love, and what you’ve been doing in your previous role. By attaching to everything you used to do, you are also depriving the people around you of an opportunity to grow and learn to master those skills and take on those responsibilities too.
                     
-2 번째 검색 내용 
+4 번째 검색 내용 
 제목 : 
 
                             New Docker Compose Functionality Banishes Alt-Tabbing and Bind Mounts
@@ -16,7 +34,7 @@
 설명 : 
                          Docker has announced the general availability of Docker Compose Watch - a tool to enhance the efficiency of application development, making it easier for developers to maintain their focus while coding.
                     
-3 번째 검색 내용 
+5 번째 검색 내용 
 제목 : 
 
                             AWS Announces the Preview of Amazon CodeWhisperer Customization Capability
@@ -25,7 +43,7 @@
 설명 : 
                          Amazon Web Services has announced the preview of Amazon CodeWhisperer Customization Capability. This new functionality empowers users to fine-tune CodeWhisperer, enabling it to provide more precise suggestions by incorporating an organization's proprietary APIs, internal libraries, classes, methods, and industry best practices.
                     
-4 번째 검색 내용 
+6 번째 검색 내용 
 제목 : 
 
                             Cloudflare Post-Quantum Cryptography Now Generally Available, Including Origin Servers
@@ -34,7 +52,7 @@
 설명 : 
                          Cloudflare has announced the general availability of post-quantum cryptography for a number of its services and internal systems. While promising a higher standard of privacy for the post-quantum era, the new feature depends on post-cryptography support in browsers and on the final link between Cloudflare and origin servers.
                     
-5 번째 검색 내용 
+7 번째 검색 내용 
 제목 : 
 
                             Uber Migrates 4000+ Microservices to a New Multi-Cloud Platform Running Kubernetes and Mesos
@@ -43,7 +61,7 @@
 설명 : 
                          Uber moved most of its containerized microservices from µDeploy to a new multi-cloud platform named Up in preparation for migrating a considerable portion of its compute footprint to the cloud. The company spent two years working on making its many microservices portable so that they can be migrated between different compute infrastructure and container management platforms.
                     
-6 번째 검색 내용 
+8 번째 검색 내용 
 제목 : 
 
                             System Initiative Software Goes Open Source; Aims to Model and Automate Infrastructure Management
@@ -52,7 +70,7 @@
 설명 : 
                          System Initiative, a customizable power tool, recently open-sourced all of its software under the Apache License 2.0. The release of System Initiative's software to the open-source community aims at improving the DevOps landscape, with a specific emphasis on simulating the user’s infrastructure and using it to manage real-world systems.
                     
-7 번째 검색 내용 
+9 번째 검색 내용 
 제목 : 
 
                             Google DeepMind Announces LLM-Based Robot Controller RT-2
@@ -61,7 +79,7 @@
 설명 : 
                          Google DeepMind recently announced Robotics Transformer 2 (RT-2), a vision-language-action (VLA) AI model for controlling robots. RT-2 uses a fine-tuned LLM to output motion control commands. It can perform tasks not explicitly included in its training data and improves on baseline models by up to 3x on emergent skill evaluations.
                     
-8 번째 검색 내용 
+10 번째 검색 내용 
 제목 : 
 
                             Reddit Unveils REV2: Modernised Rule-Execution with Kubernetes, Kafka, and Flink Stateful Functions
@@ -70,7 +88,7 @@
 설명 : 
                          Reddit's Safety Engineering team recently published how it modernised its Rule-Execution system, which detects and acts on policy-violating content in real time. The new architecture includes improvements like transitioning from legacy EC2-based systems to Kubernetes, better rule version control with Github and S3 storage, and the capability to scale more efficiently with Flink Stateful Functions.
                     
-9 번째 검색 내용 
+11 번째 검색 내용 
 제목 : 
 
                             Microsoft Playwright Testing: Scalable End-to-End Testing for Modern Web Apps
@@ -79,7 +97,7 @@
 설명 : 
                          Microsoft recently announced the public preview of Microsoft Playwright Testing, a new service for running Playwright tests at scale through Azure.
                     
-10 번째 검색 내용 
+12 번째 검색 내용 
 제목 : 
 
                             Deno 1.37: Significant Developer-Focused Enhancements
@@ -88,7 +106,7 @@
 설명 : 
                          Deno 1.37 introduces enhancements to the developer experience, particularly through its seamless integration with Jupyter notebooks. This integration enables developers to use JavaScript and TypeScript within Jupyter notebooks for tasks such as data analysis, machine learning, and interactive report creation.
                     
-11 번째 검색 내용 
+13 번째 검색 내용 
 제목 : 
 
                             Google Cloud Ops Agent Can Now Monitor Nvidia GPUs
@@ -97,7 +115,7 @@
 설명 : 
                          Google Cloud announced that Ops Agent, the agent for collecting telemetry from Compute Engine instances, can now collect and aggregate metrics from NVIDIA GPUs on VMs.
                     
-12 번째 검색 내용 
+14 번째 검색 내용 
 제목 : 
 
                             TorchServe Potentially Exposed to Remote Code Execution
@@ -106,7 +124,7 @@
 설명 : 
                          Israeli-based security company Oligo has uncovered multiple vulnerabilities in TorchServe, the tool used to serve PyTorch models, that could allow an attacker to run arbitrary code on vulnerable systems. The vulnerabilities have been promptly fixed in TorchServe version 0.82.
                     
-13 번째 검색 내용 
+15 번째 검색 내용 
 제목 : 
 
                             AWS Application Composer Now Supports All Cloudformation Resources
@@ -114,22 +132,4 @@
 주소 : https://www.infoq.com/news/2023/10/aws-application-composer-updates/
 설명 : 
                          AWS announced the availability of all AWS CloudFormation resource types within AWS Application Composer. This builds on the GA release which only allowed 13 CloudFormation resource types to be used.
-                    
-14 번째 검색 내용 
-제목 : 
-
-                            Java News Roundup: Foreign Function & Memory API, OpenJDK JEPs, Apache Tomcat CVEs
-                        
-주소 : https://www.infoq.com/news/2023/10/java-news-roundup-oct09-2023/
-설명 : 
-                         This week's Java roundup for October 9th, 2023, features news from OpenJDK, JDK 22, Apache Tomcat CVEs, Devoxx Morocco, and milestone, point and release candidates of: Spring Framework; Spring Data; Micronaut; Quarkus; Micrometer Metrics; Micrometer Tracing; Apache Kafka; Apache Camel; Eclipse Vert.x; Project Reactor; JHipster Lite; Piranha; and RefactorFirst.
-                    
-15 번째 검색 내용 
-제목 : 
-
-                            GitHub Copilot Chat in Open Beta: Now Available for All Individuals in Visual Studio and VS Code
-                        
-주소 : https://www.infoq.com/news/2023/10/github-copilot-chat-open-beta/
-설명 : 
-                         GitHub Copilot Chat is a chat interface that allows developers to ask and receive answers to coding-related questions directly within a supported IDE. It is currently in open beta and available for all GitHub Copilot individual users across Visual Studio and VS Code.
                     
