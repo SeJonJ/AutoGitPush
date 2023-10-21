@@ -1,0 +1,135 @@
+1 번째 검색 내용 
+제목 : 
+
+                            OpenSilver 2.0 Adds VB.NET, RIA Services and Live XAML Preview
+                        
+주소 : https://www.infoq.com/news/2023/10/opensilver-20-vbnet/
+설명 : 
+                         OpenSilver 2.0, a new version of the replacement for the old Silverlight web application framework, brings support for Visual Basic.NET and RIA Services. It also updates the tooling, featuring a live XAML preview designer in Visual Studio.
+                    
+2 번째 검색 내용 
+제목 : 
+
+                            JetBrains Rider 2023.3 EAP 2 Is Out: Debugger Data Flow Analysis, All-In-One Diff Viewer and More
+                        
+주소 : https://www.infoq.com/news/2023/10/jetbrains-rider-2023-eap-2/
+설명 : 
+                         JetBrains released Rider 2023.3 EAP 2. This Early Access Program for Rider contains such features as Debugger Data Flow Analysis, Quick Search feature and All-In-One Diff Viewer. The JetBrains Rider team also presented the Entity Framework Core user interface plugin and added some new inspections within Dynamic Program Analysis.
+                    
+3 번째 검색 내용 
+제목 : 
+
+                            Contentsquare Uses Microservices and Apache Kafka for Notification Delivery
+                        
+주소 : https://www.infoq.com/news/2023/10/contentsquare-notifications/
+설명 : 
+                         Contentsquare needed notification functionality for many use cases within its platform. The company created a generic solution spanning multiple services as part of its microservice architecture. During the implementation, the developers had to improve observability and overcome some scalability challenges.
+                    
+4 번째 검색 내용 
+제목 : 
+
+                            How Growing Tech Engineers Enables Growing Yourself as a Leader
+                        
+주소 : https://www.infoq.com/news/2023/10/growing-tech-engineers/
+설명 : 
+                         It’s challenging to grow into a new role when you are still holding on to what you have been good at and really love, and what you’ve been doing in your previous role. By attaching to everything you used to do, you are also depriving the people around you of an opportunity to grow and learn to master those skills and take on those responsibilities too.
+                    
+5 번째 검색 내용 
+제목 : 
+
+                            New Docker Compose Functionality Banishes Alt-Tabbing and Bind Mounts
+                        
+주소 : https://www.infoq.com/news/2023/10/docker-compose-watch/
+설명 : 
+                         Docker has announced the general availability of Docker Compose Watch - a tool to enhance the efficiency of application development, making it easier for developers to maintain their focus while coding.
+                    
+6 번째 검색 내용 
+제목 : 
+
+                            AWS Announces the Preview of Amazon CodeWhisperer Customization Capability
+                        
+주소 : https://www.infoq.com/news/2023/10/aws-codewhisperer-customization/
+설명 : 
+                         Amazon Web Services has announced the preview of Amazon CodeWhisperer Customization Capability. This new functionality empowers users to fine-tune CodeWhisperer, enabling it to provide more precise suggestions by incorporating an organization's proprietary APIs, internal libraries, classes, methods, and industry best practices.
+                    
+7 번째 검색 내용 
+제목 : 
+
+                            Cloudflare Post-Quantum Cryptography Now Generally Available, Including Origin Servers
+                        
+주소 : https://www.infoq.com/news/2023/10/cloudflare-post-quantum-crypto/
+설명 : 
+                         Cloudflare has announced the general availability of post-quantum cryptography for a number of its services and internal systems. While promising a higher standard of privacy for the post-quantum era, the new feature depends on post-cryptography support in browsers and on the final link between Cloudflare and origin servers.
+                    
+8 번째 검색 내용 
+제목 : 
+
+                            Uber Migrates 4000+ Microservices to a New Multi-Cloud Platform Running Kubernetes and Mesos
+                        
+주소 : https://www.infoq.com/news/2023/10/uber-up-cloud-microservices/
+설명 : 
+                         Uber moved most of its containerized microservices from µDeploy to a new multi-cloud platform named Up in preparation for migrating a considerable portion of its compute footprint to the cloud. The company spent two years working on making its many microservices portable so that they can be migrated between different compute infrastructure and container management platforms.
+                    
+9 번째 검색 내용 
+제목 : 
+
+                            System Initiative Software Goes Open Source; Aims to Model and Automate Infrastructure Management
+                        
+주소 : https://www.infoq.com/news/2023/10/system-initiative-open-source/
+설명 : 
+                         System Initiative, a customizable power tool, recently open-sourced all of its software under the Apache License 2.0. The release of System Initiative's software to the open-source community aims at improving the DevOps landscape, with a specific emphasis on simulating the user’s infrastructure and using it to manage real-world systems.
+                    
+10 번째 검색 내용 
+제목 : 
+
+                            Google DeepMind Announces LLM-Based Robot Controller RT-2
+                        
+주소 : https://www.infoq.com/news/2023/10/deepmind-robot-transformer/
+설명 : 
+                         Google DeepMind recently announced Robotics Transformer 2 (RT-2), a vision-language-action (VLA) AI model for controlling robots. RT-2 uses a fine-tuned LLM to output motion control commands. It can perform tasks not explicitly included in its training data and improves on baseline models by up to 3x on emergent skill evaluations.
+                    
+11 번째 검색 내용 
+제목 : 
+
+                            Reddit Unveils REV2: Modernised Rule-Execution with Kubernetes, Kafka, and Flink Stateful Functions
+                        
+주소 : https://www.infoq.com/news/2023/10/reddit-rev2/
+설명 : 
+                         Reddit's Safety Engineering team recently published how it modernised its Rule-Execution system, which detects and acts on policy-violating content in real time. The new architecture includes improvements like transitioning from legacy EC2-based systems to Kubernetes, better rule version control with Github and S3 storage, and the capability to scale more efficiently with Flink Stateful Functions.
+                    
+12 번째 검색 내용 
+제목 : 
+
+                            Microsoft Playwright Testing: Scalable End-to-End Testing for Modern Web Apps
+                        
+주소 : https://www.infoq.com/news/2023/10/microsoft-playwright-testing/
+설명 : 
+                         Microsoft recently announced the public preview of Microsoft Playwright Testing, a new service for running Playwright tests at scale through Azure.
+                    
+13 번째 검색 내용 
+제목 : 
+
+                            Deno 1.37: Significant Developer-Focused Enhancements
+                        
+주소 : https://www.infoq.com/news/2023/10/deno-jupyter-integration/
+설명 : 
+                         Deno 1.37 introduces enhancements to the developer experience, particularly through its seamless integration with Jupyter notebooks. This integration enables developers to use JavaScript and TypeScript within Jupyter notebooks for tasks such as data analysis, machine learning, and interactive report creation.
+                    
+14 번째 검색 내용 
+제목 : 
+
+                            Google Cloud Ops Agent Can Now Monitor Nvidia GPUs
+                        
+주소 : https://www.infoq.com/news/2023/10/google-cloud-nvidia-gpu/
+설명 : 
+                         Google Cloud announced that Ops Agent, the agent for collecting telemetry from Compute Engine instances, can now collect and aggregate metrics from NVIDIA GPUs on VMs.
+                    
+15 번째 검색 내용 
+제목 : 
+
+                            TorchServe Potentially Exposed to Remote Code Execution
+                        
+주소 : https://www.infoq.com/news/2023/10/torcheserve-remote-execution/
+설명 : 
+                         Israeli-based security company Oligo has uncovered multiple vulnerabilities in TorchServe, the tool used to serve PyTorch models, that could allow an attacker to run arbitrary code on vulnerable systems. The vulnerabilities have been promptly fixed in TorchServe version 0.82.
+                    
