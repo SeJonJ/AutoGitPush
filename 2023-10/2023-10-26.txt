@@ -1,13 +1,22 @@
 1 번째 검색 내용 
 제목 : 
 
+                            Apple Adds Delivery Metrics to Its Push Notification Console
+                        
+주소 : https://www.infoq.com/news/2023/10/iOS-push-deliery-metrics/
+설명 : 
+                         To help developers gauge delivery of notifications in production, the Push Notification Console now includes metrics to get insights into the behavior of an app and its integration with the Apple Push Notification service (APNs).
+                    
+2 번째 검색 내용 
+제목 : 
+
                             PyTorch 2.1 Release Supports Automatic Dynamic Shape Support and Distributed Training Enhancements
                         
 주소 : https://www.infoq.com/news/2023/10/pytorch21-at-pytorch-con-2023/
 설명 : 
                          PyTorch Conference 2023 presented an overview of PyTorch 2.1. ExecuTorch was introduced to enhance PyTorch's performance on mobile and edge devices. The conference also had a focus on community with new members added to the PyTorch Foundation and a Docathon announced.
                     
-2 번째 검색 내용 
+3 번째 검색 내용 
 제목 : 
 
                             Node.js 21 Release Updates V8 Engine, WebSteams Module and Test Runner
@@ -16,7 +25,7 @@
 설명 : 
                          The Node.js team has recently released Node.js 21. This release introduces changes such as updates to the V8 JavaScript engine, stable fetch and WebStreams modules, an experimental flag for altering module defaults, a built-in WebSocket client, and enhancements to the test runner. Notably, as an odd-numbered release, Node.js 21 will not receive LTS (long-term support) status.
                     
-3 번째 검색 내용 
+4 번째 검색 내용 
 제목 : 
 
                             Microsoft Announces Radius: a New Open Application Platform for the Cloud
@@ -25,7 +34,7 @@
 설명 : 
                          Microsoft has recently announced Radius, a cloud-native application platform designed to facilitate collaboration between developers and platform engineers who assist them in delivering and managing cloud-native applications. This platform ensures that these applications adhere to corporate standards for cost-efficiency, operational efficiency, and security as the default approach.
                     
-4 번째 검색 내용 
+5 번째 검색 내용 
 제목 : 
 
                             NGINX Modules Can Now Be Written in Rust
@@ -34,16 +43,16 @@
 설명 : 
                          NGINX announced the availability of ngx-rust project which allows developers to write NGINX modules in Rust. The Rust programming language has emerged as a powerful and popular choice due to its stability, security features a rich ecosystem, and strong community support.
                     
-5 번째 검색 내용 
+6 번째 검색 내용 
 제목 : 
 
-                            Foreign Function & Memory API to Bridge the Gap Between Java and Native Libraries
+                            Foreign Function & Memory API to Bridge the Gap between Java and Native Libraries
                         
 주소 : https://www.infoq.com/news/2023/10/foreign-function-and-memory-api/
 설명 : 
-                         After its review has concluded, JEP 454, Foreign Function & Memory API, has been promoted from Targeted to Integrated for JDK 22. This JEP proposes to finalize this feature after two rounds of incubation and three rounds of preview. The API aims to replace traditional, complex methods like JNI, offering a more efficient and secure approach.
+                         After its review concluded, JEP 454, Foreign Function & Memory API has been promoted from Targeted to Integrated for JDK 22. This JEP proposes to finalize this feature after two rounds of incubation and three rounds of preview. The API aims to replace traditional, complex methods like JNI, offering a more efficient and secure approach.
                     
-6 번째 검색 내용 
+7 번째 검색 내용 
 제목 : 
 
                             Google Open-Sources AI Fine-Tuning Method Distilling Step-by-Step
@@ -52,7 +61,7 @@
 설명 : 
                          A team from the University of Washington and Google Research recently open-sourced Distilling Step-by-Step, a technique for fine-tuning smaller language models. Distilling Step-by-Step requires less training data than standard fine-tuning and results in smaller models that can outperform few-shot prompted large language models (LLMs) that have 700x the parameters.
                     
-7 번째 검색 내용 
+8 번째 검색 내용 
 제목 : 
 
                             Nvidia Introduces Eureka, an AI Agent Powered by GPT-4 That Can Train Robots
@@ -61,25 +70,25 @@
 설명 : 
                          Nvidia Research revealed that it has created a brand-new AI agent named Eureka that is driven by OpenAI's GPT-4 and is capable of teaching robots sophisticated abilities on its own.
                     
-8 번째 검색 내용 
+9 번째 검색 내용 
 제목 : 
 
-                            Python-like Numerical Computation Library MatX Brings Transforms as Operators and Other Features
+                            Python-Like Numerical Computation Library MatX Brings Transforms as Operators and Other Features
                         
 주소 : https://www.infoq.com/news/2023/10/Nvidia-matx-cpp-numerical-lib/
 설명 : 
                          Developed by Nvidia for its own GPUs, MatX is a C++ library that aims to bring near-native performance in numerical computing using a high-level syntax not far from those available in Python scipy or MATLAB. Its latest release brings a number of new features, including the possibility to use transforms as operators, new operators such as upsample, downsample, pwelch, and more.
                     
-9 번째 검색 내용 
+10 번째 검색 내용 
 제목 : 
 
                             Java News Roundup: Unnamed Variables and Patterns, WildFly 30, MicroProfile 6.1, Payara Platform
                         
 주소 : https://www.infoq.com/news/2023/10/java-news-roundup-oct16-2023/
 설명 : 
-                         This week's Java roundup for October 16th, 2023 features news from OpenJDK, JDK 22, BellSoft, Oracle VS Code extension, WildFly 30, Payara Platform, MicroProfile 6.1, EclipseCon and releases for GraalVM Native Build Tools, Spring Boot, Spring Security, Spring Authorization Server, Spring Cloud Dataflow, Micronaut, Quarkus, Open Liberty, Apache TomEE, Apache Tomcat, JHipster and JHipster Lite.
+                         This week's Java roundup for October 16th, 2023, features news from OpenJDK, JDK 22, BellSoft, Oracle VS Code extension, WildFly 30, Payara Platform, MicroProfile 6.1, EclipseCon and releases for GraalVM Native Build Tools, Spring Boot, Spring Security, Spring Authorization Server, Spring Cloud Dataflow, Micronaut, Quarkus, Open Liberty, Apache TomEE, Apache Tomcat, JHipster and JHipster Lite.
                     
-10 번째 검색 내용 
+11 번째 검색 내용 
 제목 : 
 
                             ASP.NET Core .NET 8 RC 2: Blazor, Identity, SignalR and More
@@ -88,16 +97,16 @@
 설명 : 
                          The latest release of .NET 8 Release Candidate 2 brings a lot of additions and changes to ASP.NET Core. This release is planned to be the last one before the final version of .NET 8 is released. The most notable enhancements for this release of ASP.NET Core are related to the Blazor alongside the updates regarding the Identity, API Authoring, SignalR, and new SPA templates for CLI.
                     
-11 번째 검색 내용 
+12 번째 검색 내용 
 제목 : 
 
-                            Monzo Employs Targeted Traffic Shedding Against Stampeding Herd Effect From the Mobile App
+                            Monzo Employs Targeted Traffic Shedding against Stampeding Herd Effect from the Mobile App
                         
 주소 : https://www.infoq.com/news/2023/10/monzo-app-traffic-shedding/
 설명 : 
                          Monzo developed a solution for shedding traffic in case its platform comes under intense and unexpected load that could lead to an outage. Traffic spikes can be generated by the mobile app and triggered by push notifications or other bursts in user activity. The solution can reduce the read traffic by almost 50% with 90% overall accuracy without noticeable customer impact.
                     
-12 번째 검색 내용 
+13 번째 검색 내용 
 제목 : 
 
                             Amazon RDS for PostgreSQL Now Supports pgactive for Active-Active Replication
@@ -106,7 +115,7 @@
 설명 : 
                          AWS recently announced the general availability of pgactive on RDS for PostgreSQL. The replication extension for PostgreSQL supports asynchronous active-active replication for streaming data between database instances, enhancing resiliency and flexibility.
                     
-13 번째 검색 내용 
+14 번째 검색 내용 
 제목 : 
 
                             How Spotify Transitioned to Bazel to Build their iOS App
@@ -115,7 +124,7 @@
 설명 : 
                          After three years experimenting with Bazel, in 2020 Spotify decided to adopt it as their official build system for the Spotify iOS app. Thanks to this, they could reduce build times to a fourth, explains Spotify engineer Patrick Balestra.
                     
-14 번째 검색 내용 
+15 번째 검색 내용 
 제목 : 
 
                             Cloudflare Claims Migration to Their Services Can Reduce Network Carbon Emissions by 78-96%
@@ -123,13 +132,4 @@
 주소 : https://www.infoq.com/news/2023/10/cloudflare-carbon-emissions/
 설명 : 
                          A study conducted by the consultancy firm Analysys Mason suggests that shifting networking and security workloads to Cloudflare can significantly reduce network carbon emissions. According to the report, Cloudflare’s networking products can help companies lower their carbon emissions and meet sustainability objectives.
-                    
-15 번째 검색 내용 
-제목 : 
-
-                            OpenSilver 2.0 Adds VB.NET, RIA Services and Live XAML Preview
-                        
-주소 : https://www.infoq.com/news/2023/10/opensilver-20-vbnet/
-설명 : 
-                         OpenSilver 2.0, a new version of the replacement for the old Silverlight web application framework, brings support for Visual Basic.NET and RIA Services. It also updates the tooling, featuring a live XAML preview designer in Visual Studio.
                     
