@@ -1,0 +1,135 @@
+1 번째 검색 내용 
+제목 : 
+
+                            Shopify Open-sources Ruvy, a Toolchain to Create Wasm Modules from Ruby Code
+                        
+주소 : https://www.infoq.com/news/2023/11/shopify-ruvy-ruby-wasm/
+설명 : 
+                         Recently open-sourced by Spotify, Ruvy is a WebAssembly toolchain capable to translate Ruby code into Wasm modules. Based on ruby.wasm, Ruvy is implemented in Rust and includes some optimizations to improve performance and to simplify Wasm module execution.
+                    
+2 번째 검색 내용 
+제목 : 
+
+                            JAX London 2023: Team Dynamics, Developer Platforms, and the Adoption of AI
+                        
+주소 : https://www.infoq.com/news/2023/11/jax-london-2023-team-ai/
+설명 : 
+                         For the tenth time, Java fans attended JAX London in the first week of October. The keynotes argued that teams are the real product of software development, soft skills are anything but soft, developers should want to use internal platforms, and that AI won't take developer jobs – developers using AI will. JAX London will return in the first week of October 2024.
+                    
+3 번째 검색 내용 
+제목 : 
+
+                            AWS Adds New Code Generation Models to Amazon SageMaker JumpStart
+                        
+주소 : https://www.infoq.com/news/2023/10/sagemaker-jumpstart-code/
+설명 : 
+                         AWS recently announced the availability of two new foundation models in Amazon SageMaker JumpStart: Code Llama and Mistral 7B. These models can be deployed with one click to provide AWS users with private inference endpoints for code generation tasks.
+                    
+4 번째 검색 내용 
+제목 : 
+
+                            MediaPipe Now Supports On-Device Text-to-Image Generation on Android
+                        
+주소 : https://www.infoq.com/news/2023/10/mediapipe-image-generator/
+설명 : 
+                         Announced a few months ago, MediaPipe diffusion plugin is now available as an experimental tool on Android devices. Named Image Generator, the plugin can generate images entirely on-device in approximately 15 seconds on high end devices, says Google.
+                    
+5 번째 검색 내용 
+제목 : 
+
+                            Goldsky’s Streaming-First Architecture for Blockchain Data with Flink,  Redpanda and Kubernetes
+                        
+주소 : https://www.infoq.com/news/2023/10/goldsky-blockchain-streaming/
+설명 : 
+                         Goldsky created a platform for the real-time processing of blockchain data. The platform allows clients to extract data from blockchains into their own databases to support product features, but without running the data pipeline infrastructure. The event-driven architecture (EDA) of Goldsky leverages Apache Flink, Redpanda, Kubernetes, and cloud provider services.
+                    
+6 번째 검색 내용 
+제목 : 
+
+                            Java News Roundup: Helidon 4.0, Eclipse Serializer 1.0, JEPs for JDK 22
+                        
+주소 : https://www.infoq.com/news/2023/10/java-news-roundup-oct23-2023/
+설명 : 
+                         This week's Java roundup for October 23rd, 2023 features news from OpenJDK, JDK 22, Jakarta Data 1.0-M1, GraalVM 21.0.1, Spring 6.1-RC2, Spring Modulith 1.1-RC1, Spring Vault 3.1-RC1, Helidon 4.0, Eclipse Serializer 1.0, Quarkus 3.5, Liberica NIK 22.3.4, Hibernate ORM 6.4-CR1, Hibernate Search 7.0-CR1, Maven 4.0.0-alpha8, Camel 4.0.2, Camel Quarkus 3.5, JHipster Lite 0.46 and JDKMonitor.
+                    
+7 번째 검색 내용 
+제목 : 
+
+                            Amazon MSK Replicator: Active-Passive and Active-Active Clusters for Apache Kafka Service
+                        
+주소 : https://www.infoq.com/news/2023/10/amazon-msk-replicator/
+설명 : 
+                         AWS has recently announced MSK Replicator, a new option for cross-region and same-region streaming data replication. The new feature of the Amazon Managed Streaming for Apache Kafka service provides automatic asynchronous replication across clusters, enhancing availability and ensuring business continuity.
+                    
+8 번째 검색 내용 
+제목 : 
+
+                            How DoorDash Rearchitected its Cache to Improve Scalability and Performance
+                        
+주소 : https://www.infoq.com/news/2023/10/doordash-multilayered-cache/
+설명 : 
+                         DoorDash rearchitected the heterogeneous caching system they were using across all of their microservices and created a common, multi-layered cache providing a generic mechanism and solving a number of issues coming from the adoption of a fragmented cache.
+                    
+9 번째 검색 내용 
+제목 : 
+
+                            .NET MAUI in .NET 8 RC2: Enhanced Performance, Fixed UI & Control Issues
+                        
+주소 : https://www.infoq.com/news/2023/10/dotnet-maui-8-rc-2/
+설명 : 
+                         .NET MAUI has been integrated into the .NET 8 release candidate 2, bringing developers closer to the general availability of .NET 8. This release, supported by a go-live license, focuses on resolving regression issues. As reported, efforts have also been made to recover performance that was impacted during enhancements to features such as hot reload, visual state manager, bindings, and app themes.
+                    
+10 번째 검색 내용 
+제목 : 
+
+                            Tesla Introduces Official Developer APIs for Third-Party Integration
+                        
+주소 : https://www.infoq.com/news/2023/10/tesla-developer-apis/
+설명 : 
+                         Tesla has recently unveiled its first API documentation to support the integration of third-party applications. While primarily designed for fleet management, these APIs have captured the interest of developers, who see it as a potential starting point for the development of an app ecosystem.
+                    
+11 번째 검색 내용 
+제목 : 
+
+                            JetBrains Launches IntelliJ-Based Writing Tool WriterSide
+                        
+주소 : https://www.infoq.com/news/2023/10/jetbrains-writerside/
+설명 : 
+                         With WriterSide, JetBrains aims to allow developers and writers to create technical documentation using a write, test, build workflow. The new tool is based on IntelliJ-platform IDEs and has been used to create most of JetBrains products' documentation for the last few years.
+                    
+12 번째 검색 내용 
+제목 : 
+
+                            Sustainable Product Development Using Agile and Value Stream Mapping
+                        
+주소 : https://www.infoq.com/news/2023/10/sustainable-product-development/
+설명 : 
+                         Sustainable product development can be done by combining agile with concepts from the circular economy in our daily work. Value stream mapping can be extended to incorporate circular economy principles to optimize the flow of materials, information, and energy usage.
+                    
+13 번째 검색 내용 
+제목 : 
+
+                            Apple Adds Delivery Metrics to Its Push Notification Console
+                        
+주소 : https://www.infoq.com/news/2023/10/iOS-push-deliery-metrics/
+설명 : 
+                         To help developers gauge delivery of notifications in production, the Push Notification Console now includes metrics to get insights into the behavior of an app and its integration with the Apple Push Notification service (APNs).
+                    
+14 번째 검색 내용 
+제목 : 
+
+                            PyTorch 2.1 Release Supports Automatic Dynamic Shape Support and Distributed Training Enhancements
+                        
+주소 : https://www.infoq.com/news/2023/10/pytorch21-at-pytorch-con-2023/
+설명 : 
+                         PyTorch Conference 2023 presented an overview of PyTorch 2.1. ExecuTorch was introduced to enhance PyTorch's performance on mobile and edge devices. The conference also had a focus on community with new members added to the PyTorch Foundation and a Docathon announced.
+                    
+15 번째 검색 내용 
+제목 : 
+
+                            Microsoft Announces Radius: a New Open Application Platform for the Cloud
+                        
+주소 : https://www.infoq.com/news/2023/10/microsoft-azure-radius-platform/
+설명 : 
+                         Microsoft has recently announced Radius, a cloud-native application platform designed to facilitate collaboration between developers and platform engineers who assist them in delivering and managing cloud-native applications. This platform ensures that these applications adhere to corporate standards for cost-efficiency, operational efficiency, and security as the default approach.
+                    
