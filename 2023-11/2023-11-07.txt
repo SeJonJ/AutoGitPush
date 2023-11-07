@@ -1,13 +1,31 @@
 1 번째 검색 내용 
 제목 : 
 
+                            Polly v8 Release: Concept of Resilience Pipelines, Built-in Telemetry and More
+                        
+주소 : https://www.infoq.com/news/2023/11/Polly-v8/
+설명 : 
+                         Polly v8 is officially released. This version brings such enhancements like adding the concept of resilience pipelines, the built-in telemetry support and some changes within configuration for individual resilience strategies.
+                    
+2 번째 검색 내용 
+제목 : 
+
+                            eBPF Kubernetes Security Tool Tetragon Improves Performance and Stability
+                        
+주소 : https://www.infoq.com/news/2023/11/kubernetes-ebpf-tetragon/
+설명 : 
+                         Isovalent has announced the 1.0 release of Cilium Tetragon, their eBPF-based Kubernetes security observability and runtime enforcement tool. Policies and filters can be applied directly via eBPF to monitor process execution, privilege escalations, and file and network activity.
+                    
+3 번째 검색 내용 
+제목 : 
+
                             Diagrid Launches Catalyst, a Serverless, Fully-Managed Dapr Offering
                         
 주소 : https://www.infoq.com/news/2023/11/diagrid-managed-dapr/
 설명 : 
                          Today Diagrid announced the launch of a managed Dapr offering, the industry's first set of APIs focused on eliminating fragmentation when building distributed applications.
                     
-2 번째 검색 내용 
+4 번째 검색 내용 
 제목 : 
 
                             Java News Roundup: JHipster 8.0, Implicit Classes and Instance Main Methods, Kotlin 1.9.20
@@ -16,7 +34,7 @@
 설명 : 
                          This week's Java roundup for October 30th, 2023 features news from OpenJDK, JDK 22, GlassFish 7.0.10, Spring Boot 3.2-RC2, Spring Cloud 2023.0-RC1, Spring Cloud Stream Applications 2022.0, Spring Statemachine 4.0-M1, Spring Tools 4.20.1, Open Liberty 23.0.11-beta, Micronaut 4.1.6, Grails 6.1, TomEE 8.0.16, Infinispan 14.0.20, JHipster 8.0, JHipster Lite 0.47, JReleaser 1.9 and Kotlin 1.9.20.
                     
-3 번째 검색 내용 
+5 번째 검색 내용 
 제목 : 
 
                             Kotlin Multiplatform Reaches Stability
@@ -25,7 +43,7 @@
 설명 : 
                          Kotlin Multiplatform, a solution created by JetBrains to enable the use of Kotlin to share native code across different platforms is now stable and ready for production use, says JetBrains engineer Ekaterina Petrova.
                     
-4 번째 검색 내용 
+6 번째 검색 내용 
 제목 : 
 
                             Do Gen AI and OSS Regulation Bring Us Further Away From Exiting the Dependency Hell?
@@ -34,7 +52,7 @@
 설명 : 
                          “The security of the software supply chain problem” still persists according to the yearly State Of Supply Chain report. It improved, but there is still a long way to go, given that 96% of all vulnerable downloads were avoidable. Besides the usual insights of how far from exiting the "dependency hell" we are, the novel challenges of 2023 include the legislative adoption of Gen AI-associated risks.
                     
-5 번째 검색 내용 
+7 번째 검색 내용 
 제목 : 
 
                             Cloudflare, Google and AWS Disclose HTTP/2 Zero-Day Vulnerability
@@ -43,7 +61,7 @@
 설명 : 
                          On October 10th, Cloudflare, Google, and AWS disclosed a novel zero-day vulnerability attack known as the "HTTP/2 Rapid Reset." This attack exploits a weakness in the HTTP/2 protocol to generate enormous Distributed Denial of Service (DDoS) attacks, up to almost 400 million requests per second (rps).
                     
-6 번째 검색 내용 
+8 번째 검색 내용 
 제목 : 
 
                             CloudWatch Introduces Best Practice Alarm Recommendations for 19 AWS Services
@@ -52,7 +70,7 @@
 설명 : 
                          AWS has recently introduced "out-of-the-box" best practice alarm recommendations for Amazon CloudWatch. This new option is designed to improve observability on the AWS platform, allowing users to easily add alarms from the console and download templates for CloudFormation, Terraform, and the CLI.
                     
-7 번째 검색 내용 
+9 번째 검색 내용 
 제목 : 
 
                             Visual Studio 2022 17.8 Preview 3: Structured Diagnostics, SQL Server Data Tools Upgrade and More
@@ -61,7 +79,7 @@
 설명 : 
                          Microsoft released Visual Studio 2022 17.8 Preview 3. This version is focused mainly on addressing community feedback and resolved almost 100 tickets. Additionally, there are some new features: an “Update on Close” option, Unreal Engine macro specifier suggestions, structured diagnostics, and an upgrade in SQL Server Data Tools.
                     
-8 번째 검색 내용 
+10 번째 검색 내용 
 제목 : 
 
                             Uno Platform 5.0 Release: C# Markup and Productivity Improvements
@@ -70,7 +88,7 @@
 설명 : 
                          This week, Uno Platform released version 5.0 of their framework for building native mobile, desktop, and WebAssembly apps. With this version, developers can now develop the .NET application using only one language with C# Markup and entirely using C# programming language as an approach. The release also brings Figma to the C# Markup tool, Hot Reload and MVUX improvements.
                     
-9 번째 검색 내용 
+11 번째 검색 내용 
 제목 : 
 
                             Ethical Machine Learning with Explainable AI and Impact Analysis
@@ -79,7 +97,7 @@
 설명 : 
                          As more decisions are made or influenced by machines, there’s a growing need for a code of ethics for artificial intelligence. The main question is, “I can build it, but should I?” Explainable AI can provide checks and balances for fairness and explainability, and engineers can analyze the systems' impact on people's lives and mental health.
                     
-10 번째 검색 내용 
+12 번째 검색 내용 
 제목 : 
 
                             EqualsVerifier Delivers Improved Support for JPA Entities
@@ -88,7 +106,7 @@
 설명 : 
                          The EqualsVerifier library may be used in Java unit tests to automatically verify equals() implementations inside a project and provides one hundred percent code coverage on equals() and hashCode() methods. Recent releases improved support for JPA, by requiring the use of getters instead of using fields, and solving several related bugs.
                     
-11 번째 검색 내용 
+13 번째 검색 내용 
 제목 : 
 
                             Shopify Open-Sources Ruvy, a Toolchain to Create Wasm Modules from Ruby Code
@@ -97,7 +115,7 @@
 설명 : 
                          Recently open-sourced by Spotify, Ruvy is a WebAssembly toolchain capable to translate Ruby code into Wasm modules. Based on ruby.wasm, Ruvy is implemented in Rust and includes some optimizations to improve performance and to simplify Wasm module execution.
                     
-12 번째 검색 내용 
+14 번째 검색 내용 
 제목 : 
 
                             JAX London 2023: Team Dynamics, Developer Platforms, and the Adoption of AI
@@ -106,7 +124,7 @@
 설명 : 
                          For the tenth time, Java fans attended JAX London in the first week of October. The keynotes argued that teams are the real product of software development, soft skills are anything but soft, developers should want to use internal platforms, and that AI won't take developer jobs – developers using AI will. JAX London will return in the first week of October 2024.
                     
-13 번째 검색 내용 
+15 번째 검색 내용 
 제목 : 
 
                             AWS Adds New Code Generation Models to Amazon SageMaker JumpStart
@@ -114,22 +132,4 @@
 주소 : https://www.infoq.com/news/2023/10/sagemaker-jumpstart-code/
 설명 : 
                          AWS recently announced the availability of two new foundation models in Amazon SageMaker JumpStart: Code Llama and Mistral 7B. These models can be deployed with one click to provide AWS users with private inference endpoints for code generation tasks.
-                    
-14 번째 검색 내용 
-제목 : 
-
-                            MediaPipe Now Supports On-Device Text-to-Image Generation on Android
-                        
-주소 : https://www.infoq.com/news/2023/10/mediapipe-image-generator/
-설명 : 
-                         Announced a few months ago, MediaPipe diffusion plugin is now available as an experimental tool on Android devices. Named Image Generator, the plugin can generate images entirely on-device in approximately 15 seconds on high end devices, says Google.
-                    
-15 번째 검색 내용 
-제목 : 
-
-                            Goldsky’s Streaming-First Architecture for Blockchain Data with Flink,  Redpanda and Kubernetes
-                        
-주소 : https://www.infoq.com/news/2023/10/goldsky-blockchain-streaming/
-설명 : 
-                         Goldsky created a platform for the real-time processing of blockchain data. The platform allows clients to extract data from blockchains into their own databases to support product features, but without running the data pipeline infrastructure. The event-driven architecture (EDA) of Goldsky leverages Apache Flink, Redpanda, Kubernetes, and cloud provider services.
                     
