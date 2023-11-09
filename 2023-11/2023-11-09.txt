@@ -1,13 +1,31 @@
 1 번째 검색 내용 
 제목 : 
 
+                            Mojo SDK Is Available
+                        
+주소 : https://www.infoq.com/news/2023/11/Mojo-SDK/
+설명 : 
+                         Mojo SDK is available for developers. It contains the mojo driver, the Visual Studio Code extension and the Jupyter kernel. For now, SDK is available for MacOS and Linux.
+                    
+2 번째 검색 내용 
+제목 : 
+
+                            WildFly 30 Gets Ready for JDK 21
+                        
+주소 : https://www.infoq.com/news/2023/11/wildfly-30-ready-for-jdk21/
+설명 : 
+                         WildFly, an application framework written in Java and developed and maintained by Red Hat, released its latest version 30 in October 2023. The key focus of this release was to prepare for the latest LTS Java version 21, one feature request and several dependency upgrades and bug fixes.
+                    
+3 번째 검색 내용 
+제목 : 
+
                             AI Researchers Improve LLM-Based Reasoning by Mimicking Learning From Mistakes
                         
 주소 : https://www.infoq.com/news/2023/11/math-learning-from-mistake/
 설명 : 
                          Researchers from Microsoft, Peking University, and Xiâ€™an Jiaotong University claim to have developed a technique to improve large language models (LLMs) ability to solve math problems by replicating how humans learn from their own mistakes.
                     
-2 번째 검색 내용 
+4 번째 검색 내용 
 제목 : 
 
                             AWS Restructures and Consolidates Its Well-Architected Framework
@@ -16,7 +34,7 @@
 설명 : 
                          AWS published a new set of updates to its Well-Architected Framework, with changes across all six pillars of the framework. The performance efficiency and operational excellence pillars have been restructured and consolidated to reduce the number of best practices. Other pillars received improved implementation guidance, including recommendations and steps on reusable architecture patterns.
                     
-3 번째 검색 내용 
+5 번째 검색 내용 
 제목 : 
 
                             OpenAI Announces New Models and APIs at First Developer Day Conference
@@ -25,7 +43,7 @@
 설명 : 
                          OpenAI announced additions and price reductions across its platform at its first Developer Day. The updates include the introduction of a new GPT-4 Turbo model, an Assistants API, and multimodal capabilities, among others.
                     
-4 번째 검색 내용 
+6 번째 검색 내용 
 제목 : 
 
                             Microsoft releases DeepSpeed-FastGen for High-Throughput Text Generation
@@ -34,7 +52,7 @@
 설명 : 
                          Microsoft has announced the alpha release of DeepSpeed-FastGen, a system designed to improve the deployment and serving of large language models (LLMs). DeepSpeed-FastGen is the synergistic composition of DeepSpeed-MII and DeepSpeed-Inference . DeepSpeed-FastGen is based on the Dynamic SplitFuse technique. The system currently supports several model architectures.
                     
-5 번째 검색 내용 
+7 번째 검색 내용 
 제목 : 
 
                             Jina AI's Open-Source Embedding Model Outperforms OpenAI's Ada
@@ -43,7 +61,7 @@
 설명 : 
                          Multimodal AI company Jina AI recently released jina-embeddings-v2, a sentence embedding model. The model supports context lengths up to 8192 tokens and outperforms OpenAI's text-embedding-ada-002 on several embedding benchmarks.
                     
-6 번째 검색 내용 
+8 번째 검색 내용 
 제목 : 
 
                             Seven Essential Tracks at QCon London 2024: GenAI, FinTech, Platform Engineering & More!
@@ -52,7 +70,7 @@
 설명 : 
                          InfoQ’s international software development conference, QCon London, returns on April 8-10, 2024. The conference will feature 15 carefully curated tracks and 60 technical talks over 3 days.
                     
-7 번째 검색 내용 
+9 번째 검색 내용 
 제목 : 
 
                             Polly v8 Release: Concept of Resilience Pipelines, Built-in Telemetry and More
@@ -61,7 +79,7 @@
 설명 : 
                          Polly v8 is officially released. This version brings such enhancements like adding the concept of resilience pipelines, the built-in telemetry support and some changes within configuration for individual resilience strategies.
                     
-8 번째 검색 내용 
+10 번째 검색 내용 
 제목 : 
 
                             eBPF Kubernetes Security Tool Tetragon Improves Performance and Stability
@@ -70,7 +88,7 @@
 설명 : 
                          Isovalent has announced the 1.0 release of Cilium Tetragon, their eBPF-based Kubernetes security observability and runtime enforcement tool. Policies and filters can be applied directly via eBPF to monitor process execution, privilege escalations, and file and network activity.
                     
-9 번째 검색 내용 
+11 번째 검색 내용 
 제목 : 
 
                             Diagrid Launches Catalyst, a Serverless, Fully-Managed Dapr Offering
@@ -79,7 +97,7 @@
 설명 : 
                          Today Diagrid announced the launch of a managed Dapr offering, the industry's first set of APIs focused on eliminating fragmentation when building distributed applications.
                     
-10 번째 검색 내용 
+12 번째 검색 내용 
 제목 : 
 
                             Java News Roundup: JHipster 8.0, Implicit Classes and Instance Main Methods, Kotlin 1.9.20
@@ -88,7 +106,7 @@
 설명 : 
                          This week's Java roundup for October 30th, 2023 features news from OpenJDK, JDK 22, GlassFish 7.0.10, Spring Boot 3.2-RC2, Spring Cloud 2023.0-RC1, Spring Cloud Stream Applications 2022.0, Spring Statemachine 4.0-M1, Spring Tools 4.20.1, Open Liberty 23.0.11-beta, Micronaut 4.1.6, Grails 6.1, TomEE 8.0.16, Infinispan 14.0.20, JHipster 8.0, JHipster Lite 0.47, JReleaser 1.9 and Kotlin 1.9.20.
                     
-11 번째 검색 내용 
+13 번째 검색 내용 
 제목 : 
 
                             Kotlin Multiplatform Reaches Stability
@@ -97,7 +115,7 @@
 설명 : 
                          Kotlin Multiplatform, a solution created by JetBrains to enable the use of Kotlin to share native code across different platforms is now stable and ready for production use, says JetBrains engineer Ekaterina Petrova.
                     
-12 번째 검색 내용 
+14 번째 검색 내용 
 제목 : 
 
                             Do Gen AI and OSS Regulation Bring Us Further Away From Exiting the Dependency Hell?
@@ -106,7 +124,7 @@
 설명 : 
                          “The security of the software supply chain problem” still persists according to the yearly State Of Supply Chain report. It improved, but there is still a long way to go, given that 96% of all vulnerable downloads were avoidable. Besides the usual insights of how far from exiting the "dependency hell" we are, the novel challenges of 2023 include the legislative adoption of Gen AI-associated risks.
                     
-13 번째 검색 내용 
+15 번째 검색 내용 
 제목 : 
 
                             Cloudflare, Google and AWS Disclose HTTP/2 Zero-Day Vulnerability
@@ -114,22 +132,4 @@
 주소 : https://www.infoq.com/news/2023/11/http2-rapid-reset-vulnerability/
 설명 : 
                          On October 10th, Cloudflare, Google, and AWS disclosed a novel zero-day vulnerability attack known as the "HTTP/2 Rapid Reset." This attack exploits a weakness in the HTTP/2 protocol to generate enormous Distributed Denial of Service (DDoS) attacks, up to almost 400 million requests per second (rps).
-                    
-14 번째 검색 내용 
-제목 : 
-
-                            CloudWatch Introduces Best Practice Alarm Recommendations for 19 AWS Services
-                        
-주소 : https://www.infoq.com/news/2023/11/aws-cloudwatch-best-practices/
-설명 : 
-                         AWS has recently introduced "out-of-the-box" best practice alarm recommendations for Amazon CloudWatch. This new option is designed to improve observability on the AWS platform, allowing users to easily add alarms from the console and download templates for CloudFormation, Terraform, and the CLI.
-                    
-15 번째 검색 내용 
-제목 : 
-
-                            Visual Studio 2022 17.8 Preview 3: Structured Diagnostics, SQL Server Data Tools Upgrade and More
-                        
-주소 : https://www.infoq.com/news/2023/11/visual-studio-2022-17-8/
-설명 : 
-                         Microsoft released Visual Studio 2022 17.8 Preview 3. This version is focused mainly on addressing community feedback and resolved almost 100 tickets. Additionally, there are some new features: an “Update on Close” option, Unreal Engine macro specifier suggestions, structured diagnostics, and an upgrade in SQL Server Data Tools.
                     
