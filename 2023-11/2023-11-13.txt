@@ -1,13 +1,22 @@
 1 번째 검색 내용 
 제목 : 
 
+                            Java News Roundup: JEPs for JDK 22, Spring Shell, Quarkus, Apache Camel, JDKMon, J-Fall 2023
+                        
+주소 : https://www.infoq.com/news/2023/11/java-news-roundup-nov06-2023/
+설명 : 
+                         This week's Java roundup for November 6th, 2023 features news from OpenJDK, JDK 22, Spring Shell 3.2.0-M3, 3.1.5, 3.0.9 and 2.1.14, Quarkus 3.5.1 and 3.2.8, Apache Camel 3.14.10, Apache Camel Quarkus 3.2.2, JDKMon 17.0.81, Arquillian 1.7.2.Final, Gradle 8.5.0-RC1 and J-Fall 2023.
+                    
+2 번째 검색 내용 
+제목 : 
+
                             AWS Announces European Sovereign Cloud for Government Agencies and Regulated Industries
                         
 주소 : https://www.infoq.com/news/2023/11/aws-european-sovereign-cloud/
 설명 : 
                          AWS has recently announced that it is working on a European Sovereign Cloud, a new European region that will be operationally independent of all existing AWS regions. No availability date has been provided for the new option that targets government agencies and regulated industries that store sensitive data and run critical workloads in the European Union (EU).
                     
-2 번째 검색 내용 
+3 번째 검색 내용 
 제목 : 
 
                             MySQL 8.2 Introduces Transparent Read/Write Splitting
@@ -16,7 +25,7 @@
 설명 : 
                          Oracle has recently announced the general availability of MySQL 8.2, which includes support for Read/Write Splitting. This long-awaited feature has been introduced in the latest innovation release and helps optimize database performance and scalability.
                     
-3 번째 검색 내용 
+4 번째 검색 내용 
 제목 : 
 
                             Fermyon Spin 2.0 Adds Support for WebAssembly Components and WASI Preview 2
@@ -25,7 +34,7 @@
 설명 : 
                          Spin 2.0, an open-source tool to build and run serverless WebAssembly apps, gets support for WebAssembly components, improves performance and developer experience, and lays the foundation for Wasm portability across runtimes and implementations.
                     
-4 번째 검색 내용 
+5 번째 검색 내용 
 제목 : 
 
                             AWS Unveils Gemini, a Distributed Training System for Swift Failure Recovery in Large Model Training
@@ -34,7 +43,7 @@
 설명 : 
                          AWS and Rice University have introduced Gemini, a new distributed training system to redefine failure recovery in large-scale deep learning models. According to the research paper, Gemini adopts a daring strategy by utilizing CPU memory to ensure previously unheard-of speeds in failure recovery, overcoming obstacles related to high recovery costs and constrained checkpoint storage capacity.
                     
-5 번째 검색 내용 
+6 번째 검색 내용 
 제목 : 
 
                             Azure Synapse Link for Cosmos DB: New Analytics Capabilities
@@ -43,7 +52,7 @@
 설명 : 
                          In recent news from the Azure team, Azure Synapse Link introduces a set of new capabilities, including its compatibility with existing MongoDB collections, integration with continuous backup, and custom partitioning, empowering users to leverage analytics workloads with ease and efficiency on top of Azure Cosmos DB data.
                     
-6 번째 검색 내용 
+7 번째 검색 내용 
 제목 : 
 
                             How Good Companies Can Leverage Agile to Fight Civilizational Debt
@@ -52,7 +61,7 @@
 설명 : 
                          Growth, profit, and shareholder value are the cornerstones of today’s economic system, which according to Piotr Trojanowski have proven outdated, reductionistic and not sustainable. He proposes taking the cost of growth into account by using the concept of civilizational debt in agile transformations, and applying agile to realizing humankind's mission through our work.
                     
-7 번째 검색 내용 
+8 번째 검색 내용 
 제목 : 
 
                             Cohere Unveils Advanced Embedding Model Embed v3
@@ -61,7 +70,7 @@
 설명 : 
                          Cohere has unveiled Embed v3, their most advanced embedding model designed to transform semantic search and generative AI.
                     
-8 번째 검색 내용 
+9 번째 검색 내용 
 제목 : 
 
                             Microsoft Introduces New Tiers for Its API Management Service in Azure
@@ -70,7 +79,7 @@
 설명 : 
                          Microsoft recently announced the public preview of two new Azure API Management tiers: Basic v2 and Standard v2.
                     
-9 번째 검색 내용 
+10 번째 검색 내용 
 제목 : 
 
                             Mojo Language SDK Available: Mojo Driver, VS Code extension, and Jupyter Kernel
@@ -79,7 +88,7 @@
 설명 : 
                          Mojo SDK is available for developers. It contains the mojo driver, the Visual Studio Code extension and the Jupyter kernel. For now, SDK is available for MacOS and Linux.
                     
-10 번째 검색 내용 
+11 번째 검색 내용 
 제목 : 
 
                             WildFly 30 Gets Ready for JDK 21
@@ -88,16 +97,16 @@
 설명 : 
                          WildFly, an application framework written in Java and developed and maintained by Red Hat, released its latest version 30 in October 2023. The key focus of this release was to prepare for the latest LTS Java version 21, one feature request and several dependency upgrades and bug fixes.
                     
-11 번째 검색 내용 
+12 번째 검색 내용 
 제목 : 
 
                             AI Researchers Improve LLM-Based Reasoning by Mimicking Learning from Mistakes
                         
 주소 : https://www.infoq.com/news/2023/11/math-learning-from-mistake/
 설명 : 
-                         Researchers from Microsoft, Peking University, and Xiâ€™an Jiaotong University claim to have developed a technique to improve large language models' (LLMs) ability to solve math problems by replicating how humans learn from their own mistakes.
+                         Researchers from Microsoft, Peking University, and Xiâ���™an Jiaotong University claim to have developed a technique to improve large language models' (LLMs) ability to solve math problems by replicating how humans learn from their own mistakes.
                     
-12 번째 검색 내용 
+13 번째 검색 내용 
 제목 : 
 
                             AWS Restructures and Consolidates Its Well-Architected Framework
@@ -106,7 +115,7 @@
 설명 : 
                          AWS published a new set of updates to its Well-Architected Framework, with changes across all six pillars of the framework. The performance efficiency and operational excellence pillars have been restructured and consolidated to reduce the number of best practices. Other pillars received improved implementation guidance, including recommendations and steps on reusable architecture patterns.
                     
-13 번째 검색 내용 
+14 번째 검색 내용 
 제목 : 
 
                             OpenAI Announces New Models and APIs at First Developer Day Conference
@@ -115,7 +124,7 @@
 설명 : 
                          OpenAI announced additions and price reductions across its platform at its first Developer Day. The updates include the introduction of a new GPT-4 Turbo model, an Assistants API, and multimodal capabilities, among others.
                     
-14 번째 검색 내용 
+15 번째 검색 내용 
 제목 : 
 
                             Microsoft Releases DeepSpeed-FastGen for High-Throughput Text Generation
@@ -123,13 +132,4 @@
 주소 : https://www.infoq.com/news/2023/11/microsoft-releases-dsfastgen/
 설명 : 
                          Microsoft has announced the alpha release of DeepSpeed-FastGen, a system designed to improve the deployment and serving of large language models (LLMs). DeepSpeed-FastGen is the synergistic composition of DeepSpeed-MII and DeepSpeed-Inference . DeepSpeed-FastGen is based on the Dynamic SplitFuse technique. The system currently supports several model architectures.
-                    
-15 번째 검색 내용 
-제목 : 
-
-                            Jina AI's Open-Source Embedding Model Outperforms OpenAI's Ada
-                        
-주소 : https://www.infoq.com/news/2023/11/jina-ai-embeddings/
-설명 : 
-                         Multimodal AI company Jina AI recently released jina-embeddings-v2, a sentence embedding model. The model supports context lengths up to 8192 tokens and outperforms OpenAI's text-embedding-ada-002 on several embedding benchmarks.
                     
