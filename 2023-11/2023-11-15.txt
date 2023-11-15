@@ -1,13 +1,22 @@
 1 번째 검색 내용 
 제목 : 
 
+                            New Amazon SQS Bindings Added to CoreWCF
+                        
+주소 : https://www.infoq.com/news/2023/11/corewcf-sqs/
+설명 : 
+                         Amazon delivered a new binding for CoreWCF, the open-source replacement for Windows Communication Foundation. The new binding supports the Amazon Simple Queue Service (SQS) in both server and client code. The new binding allows simple migration of legacy Microsoft MSMQ binding to an AWS cloud-based implementation.
+                    
+2 번째 검색 내용 
+제목 : 
+
                             xAI Introduces Large Language Model Grok
                         
 주소 : https://www.infoq.com/news/2023/11/xai-grok/
 설명 : 
                          xAI, the AI company founded by Elon Musk, recently announced Grok, a large language model. Grok can access current knowledge of the world via the X platform and outperforms other LLMs of comparable size, including GPT-3.5, on several benchmarks.
                     
-2 번째 검색 내용 
+3 번째 검색 내용 
 제목 : 
 
                             Elastic Jobs in Azure SQL: Microsoft Entra ID, Secure Connectivity and Scalability Updates
@@ -16,7 +25,7 @@
 설명 : 
                          Azure SQL Database Elastic Jobs preview faces a refresh, introducing customer-requested features and additions including Microsoft Entra ID support, Service-managed Private Link for secure connections, Azure Alerts integration for job status monitoring, and enhanced scalability of Job Agent's tier.
                     
-3 번째 검색 내용 
+4 번째 검색 내용 
 제목 : 
 
                             Application Developer Con Offers Deep Dives into Developer-Focused CNCF Projects
@@ -25,7 +34,7 @@
 설명 : 
                          Monday the 6th of November in Chicago Illinois, Application Developer Con was held during the co-located events at KubeCon North America 2023. The full day event focused on cloud native developers and featured talks on CNCF projects (such as OpenFGA, Dapr, TestContainers, and OpenFeature), eventing, patterns like choreography/orchestration, and ways of working in today’s cloud native environments.
                     
-4 번째 검색 내용 
+5 번째 검색 내용 
 제목 : 
 
                             Grafana Cloud Kubernetes Monitoring with Machine Learning Predictions
@@ -34,7 +43,7 @@
 설명 : 
                          Managing cloud costs can be challenging as Kubernetes fleets scale. To address this issue, Grafana Cloud has introduced a cost-monitoring feature within Kubernetes Monitoring. In particular, Grafana Cloud’s Kubernetes Monitoring now offers ML predictions for CPU and memory usage.
                     
-5 번째 검색 내용 
+6 번째 검색 내용 
 제목 : 
 
                             Android Telecom Library Aims to Simplify the Creation of Voice and Video Apps
@@ -43,7 +52,7 @@
 설명 : 
                          Available in Alpha, the new Telecom jetpack library simplifies the process of creating voice and/or video calling applications for Android developers by providing several APIs to support common functionality like answering/declining, audio routing, and so on.
                     
-6 번째 검색 내용 
+7 번째 검색 내용 
 제목 : 
 
                             Java News Roundup: JEPs for JDK 22, Spring Shell, Quarkus, Apache Camel, JDKMon, J-Fall 2023
@@ -52,7 +61,7 @@
 설명 : 
                          This week's Java roundup for November 6th, 2023 features news from OpenJDK, JDK 22, Spring Shell 3.2.0-M3, 3.1.5, 3.0.9 and 2.1.14, Quarkus 3.5.1 and 3.2.8, Apache Camel 3.14.10, Apache Camel Quarkus 3.2.2, JDKMon 17.0.81, Arquillian 1.7.2.Final, Gradle 8.5.0-RC1 and J-Fall 2023.
                     
-7 번째 검색 내용 
+8 번째 검색 내용 
 제목 : 
 
                             AWS Announces European Sovereign Cloud for Government Agencies and Regulated Industries
@@ -61,7 +70,7 @@
 설명 : 
                          AWS has recently announced that it is working on a European Sovereign Cloud, a new European region that will be operationally independent of all existing AWS regions. No availability date has been provided for the new option that targets government agencies and regulated industries that store sensitive data and run critical workloads in the European Union (EU).
                     
-8 번째 검색 내용 
+9 번째 검색 내용 
 제목 : 
 
                             MySQL 8.2 Introduces Transparent Read/Write Splitting
@@ -70,7 +79,7 @@
 설명 : 
                          Oracle has recently announced the general availability of MySQL 8.2, which includes support for Read/Write Splitting. This long-awaited feature has been introduced in the latest innovation release and helps optimize database performance and scalability.
                     
-9 번째 검색 내용 
+10 번째 검색 내용 
 제목 : 
 
                             Fermyon Spin 2.0 Adds Support for WebAssembly Components and WASI Preview 2
@@ -79,7 +88,7 @@
 설명 : 
                          Spin 2.0, an open-source tool to build and run serverless WebAssembly apps, gets support for WebAssembly components, improves performance and developer experience, and lays the foundation for Wasm portability across runtimes and implementations.
                     
-10 번째 검색 내용 
+11 번째 검색 내용 
 제목 : 
 
                             AWS Unveils Gemini, a Distributed Training System for Swift Failure Recovery in Large Model Training
@@ -88,7 +97,7 @@
 설명 : 
                          AWS and Rice University have introduced Gemini, a new distributed training system to redefine failure recovery in large-scale deep learning models. According to the research paper, Gemini adopts a daring strategy by utilizing CPU memory to ensure previously unheard-of speeds in failure recovery, overcoming obstacles related to high recovery costs and constrained checkpoint storage capacity.
                     
-11 번째 검색 내용 
+12 번째 검색 내용 
 제목 : 
 
                             Azure Synapse Link for Cosmos DB: New Analytics Capabilities
@@ -97,7 +106,7 @@
 설명 : 
                          In recent news from the Azure team, Azure Synapse Link introduces a set of new capabilities, including its compatibility with existing MongoDB collections, integration with continuous backup, and custom partitioning, empowering users to leverage analytics workloads with ease and efficiency on top of Azure Cosmos DB data.
                     
-12 번째 검색 내용 
+13 번째 검색 내용 
 제목 : 
 
                             How Good Companies Can Leverage Agile to Fight Civilizational Debt
@@ -106,7 +115,7 @@
 설명 : 
                          Growth, profit, and shareholder value are the cornerstones of today’s economic system, which according to Piotr Trojanowski have proven outdated, reductionistic and not sustainable. He proposes taking the cost of growth into account by using the concept of civilizational debt in agile transformations, and applying agile to realizing humankind's mission through our work.
                     
-13 번째 검색 내용 
+14 번째 검색 내용 
 제목 : 
 
                             Cohere Unveils Advanced Embedding Model Embed v3
@@ -115,7 +124,7 @@
 설명 : 
                          Cohere has unveiled Embed v3, their most advanced embedding model designed to transform semantic search and generative AI.
                     
-14 번째 검색 내용 
+15 번째 검색 내용 
 제목 : 
 
                             Microsoft Introduces New Tiers for Its API Management Service in Azure
@@ -123,13 +132,4 @@
 주소 : https://www.infoq.com/news/2023/11/azure-apim-new-tiers-preview/
 설명 : 
                          Microsoft recently announced the public preview of two new Azure API Management tiers: Basic v2 and Standard v2.
-                    
-15 번째 검색 내용 
-제목 : 
-
-                            Mojo Language SDK Available: Mojo Driver, VS Code extension, and Jupyter Kernel
-                        
-주소 : https://www.infoq.com/news/2023/11/Mojo-SDK/
-설명 : 
-                         Mojo SDK is available for developers. It contains the mojo driver, the Visual Studio Code extension and the Jupyter kernel. For now, SDK is available for MacOS and Linux.
                     
