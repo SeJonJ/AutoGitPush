@@ -1,0 +1,135 @@
+1 번째 검색 내용 
+제목 : 
+
+                            How Spotify Fights Global Warming by Taking Their Mobile App Size Under Control
+                        
+주소 : https://www.infoq.com/news/2023/11/spotify-app-size-growth-process/
+설명 : 
+                         Adding new features has often a hidden impact on app size, with several undesired effects, including user disengagement and unnecessary carbon emissions. To keep app size under control, Spotify engineers established pre-PR and post-PR processes to help prevent an estimated 10MB app size growth over six months.
+                    
+2 번째 검색 내용 
+제목 : 
+
+                            ZEDEDA Launches Managed Kubernetes for the Distributed Edge
+                        
+주소 : https://www.infoq.com/news/2023/11/zededa-edge-kubernetes/
+설명 : 
+                         ZEDEDA, a San Jose based developer and provider of edge computing virtualization software, announced during KubeCon NA 2023 a managed Kubernetes solution for the edge. The service is based on a partnership with SUSE and offers a centrally managed, turn-key User edge solution built on the open source operating system Eve and Rancher’s lightweight Kubernetes distribution K3s.
+                    
+3 번째 검색 내용 
+제목 : 
+
+                            Azure Bastion Developer SKU: Cheaper Secure Connectivity to Azure Virtual Machines
+                        
+주소 : https://www.infoq.com/news/2023/11/azure-bastion-developer-sku/
+설명 : 
+                         Azure has recently announced the public preview of Bastion Developer SKU, the latest addition to the managed bastion service on Azure. The new option targets dev/test users seeking secure and simple VM connections without the need for additional features or scalability.
+                    
+4 번째 검색 내용 
+제목 : 
+
+                            What's New in C# 12: Primary Constructors, Collection Expressions, and More
+                        
+주소 : https://www.infoq.com/news/2023/11/csharp-12-released/
+설명 : 
+                         As part of the .NET 8 launch, on November 14th Microsoft unveiled the new features of C# 12, the latest version of the popular .NET programming language. As announced the most notable improvements include collection expressions, primary constructors for all classes and structs, syntax to alias any type, and default parameters for lambda expressions.
+                    
+5 번째 검색 내용 
+제목 : 
+
+                            OpenAI Launches GPTs to Enable Creating No-Code, Custom Versions of ChatGPT
+                        
+주소 : https://www.infoq.com/news/2023/11/openai-gpts-custom-chatgpt/
+설명 : 
+                         At the recent OpenAI developer conference, OpenAI announced it is rolling out GPTs, custom versions of ChatGPT created for specific tasks. Developers will also be able to share their GPTs on the forthcoming ChatGPT Store and monetize them, the company says.
+                    
+6 번째 검색 내용 
+제목 : 
+
+                            Things We Tend to Overlook Going from Architecture to Release
+                        
+주소 : https://www.infoq.com/news/2023/11/overlooked-architecture-release/
+설명 : 
+                         People tend to overlook things when developing a new software product or service because they don’t have to think about them on a daily basis. Companies should create an environment where everyone can express their opinion and concerns and encourage bringing up questions to explore different angles and increase understanding.
+                    
+7 번째 검색 내용 
+제목 : 
+
+                            AWS Introduces Amazon Linux 2023 Runtime for Lambda
+                        
+주소 : https://www.infoq.com/news/2023/11/al2023-aws-lambda-functions/
+설명 : 
+                         AWS recently introduced Amazon Linux 2023 (AL2023) as a managed runtime and container base image for its Lambda service. The runtime provides an OS-only environment for developers to run Lambda functions.
+                    
+8 번째 검색 내용 
+제목 : 
+
+                            KubeCon NA 2023: Kubernetes Storage Platform to Run Real-Time Analytic Databases
+                        
+주소 : https://www.infoq.com/news/2023/11/kubernetes-real-time-databases/
+설명 : 
+                         Kubernetes storage platform provides a portable and flexible foundation for data management to help developers build their own data solutions. Robert Hodges spoke last week at KubeCon CloudNativeCon North America 2023 Conference on different techniques his teams developed to build their own data platform.
+                    
+9 번째 검색 내용 
+제목 : 
+
+                            Microsoft Refreshes its Well-Architected Framework
+                        
+주소 : https://www.infoq.com/news/2023/11/azure-well-architected-framework/
+설명 : 
+                         Microsoft recently announced a comprehensive refresh of the Well-Architected Framework (WAF) for designing and running optimized workloads on Azure.
+                    
+10 번째 검색 내용 
+제목 : 
+
+                            New Amazon SQS Bindings Added to CoreWCF
+                        
+주소 : https://www.infoq.com/news/2023/11/corewcf-sqs/
+설명 : 
+                         Amazon delivered a new binding for CoreWCF, the open-source replacement for Windows Communication Foundation. The new binding supports the Amazon Simple Queue Service (SQS) in both server and client code. The new binding allows simple migration of legacy Microsoft MSMQ binding to an AWS cloud-based implementation.
+                    
+11 번째 검색 내용 
+제목 : 
+
+                            xAI Introduces Large Language Model Grok
+                        
+주소 : https://www.infoq.com/news/2023/11/xai-grok/
+설명 : 
+                         xAI, the AI company founded by Elon Musk, recently announced Grok, a large language model. Grok can access current knowledge of the world via the X platform and outperforms other LLMs of comparable size, including GPT-3.5, on several benchmarks.
+                    
+12 번째 검색 내용 
+제목 : 
+
+                            Elastic Jobs in Azure SQL: Microsoft Entra ID, Secure Connectivity and Scalability Updates
+                        
+주소 : https://www.infoq.com/news/2023/11/azure-sql-database-elastic-jobs/
+설명 : 
+                         Azure SQL Database Elastic Jobs preview faces a refresh, introducing customer-requested features and additions including Microsoft Entra ID support, Service-managed Private Link for secure connections, Azure Alerts integration for job status monitoring, and enhanced scalability of Job Agent's tier.
+                    
+13 번째 검색 내용 
+제목 : 
+
+                            AppDeveloperCon Offers Deep Dives into Developer-Focused CNCF Projects
+                        
+주소 : https://www.infoq.com/news/2023/11/app-dev-con-kubecon-2023/
+설명 : 
+                         Monday the 6th of November in Chicago Illinois, Application Developer Con was held during the co-located events at KubeCon North America 2023. The full day event focused on cloud native developers and featured talks on CNCF projects (such as OpenFGA, Dapr, TestContainers, and OpenFeature), eventing, patterns like choreography/orchestration, and ways of working in today’s cloud native environments.
+                    
+14 번째 검색 내용 
+제목 : 
+
+                            Grafana Cloud Kubernetes Monitoring with Machine Learning Predictions
+                        
+주소 : https://www.infoq.com/news/2023/11/grafana-kubernetes-ml-monitoring/
+설명 : 
+                         Managing cloud costs can be challenging as Kubernetes fleets scale. To address this issue, Grafana Cloud has introduced a cost-monitoring feature within Kubernetes Monitoring. In particular, Grafana Cloud’s Kubernetes Monitoring now offers ML predictions for CPU and memory usage.
+                    
+15 번째 검색 내용 
+제목 : 
+
+                            Android Telecom Library Aims to Simplify the Creation of Voice and Video Apps
+                        
+주소 : https://www.infoq.com/news/2023/11/android-jetpack-telecom-library/
+설명 : 
+                         Available in Alpha, the new Telecom jetpack library simplifies the process of creating voice and/or video calling applications for Android developers by providing several APIs to support common functionality like answering/declining, audio routing, and so on.
+                    
