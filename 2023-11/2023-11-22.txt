@@ -1,0 +1,135 @@
+1 번째 검색 내용 
+제목 : 
+
+                            Spotify Open-Sources Voyager Nearest-Neighbor Search Library
+                        
+주소 : https://www.infoq.com/news/2023/11/spotify-ann-voyager/
+설명 : 
+                         Spotify Engineering recently open-sourced Voyager, an approximate nearest-neighbor (ANN) search library. Voyager is based on the hierarchical navigable small worlds (HNSW) algorithm and is 10 times faster than Spotify's previous ANN library, Annoy.
+                    
+2 번째 검색 내용 
+제목 : 
+
+                            Java News Roundup: Spring Framework 6.1, Spring Data 2023.1, Payara Platform, JEPs for JDK 22
+                        
+주소 : https://www.infoq.com/news/2023/11/java-news-roundup-nov13-2023/
+설명 : 
+                         This week's Java roundup for November 13th, 2023 features news from OpenJDK, JDK 22, and monthly, milestone and point releases of: Spring Framework; Spring Data; Payara Platform; Open Liberty; Micronaut; Grails; Quarkus; Tomcat; Apache Camel; Vert.x; Mojarra; Micrometer Metrics and Tracing; Project Reactor; Piranha; JDKMon; JobRunr; JHipster Lite; Testcontainers for Java; Arquillian; and Gradle.
+                    
+3 번째 검색 내용 
+제목 : 
+
+                            .NET Aspire: Cloud-Native App Development With Microsoft's Latest Project
+                        
+주소 : https://www.infoq.com/news/2023/11/dotnet-aspire/
+설명 : 
+                         Microsoft released .NET 8 last week, one of the most notable news within the launch was .NET Aspire. The cloud-native development stack for building resilient, observable, and configurable cloud-native applications with the dotnet. .NET Aspire includes a curated set of components enhanced for cloud-native by including service discovery, telemetry, resilience, and health checks by default.
+                    
+4 번째 검색 내용 
+제목 : 
+
+                            Timescale Introduces Dynamic PostgreSQL, an Alternative to Serverless Databases
+                        
+주소 : https://www.infoq.com/news/2023/11/timescale-dynamic-postgresql/
+설명 : 
+                         Timescale recently introduced Dynamic PostgreSQL, a new cloud-managed option to scale the database capacity within a predefined vCPU range. Promoted as “buy the base and rent the peak”, the new option scales the capacity according to the load, trying to address the unpredictability and variability of serverless options.
+                    
+5 번째 검색 내용 
+제목 : 
+
+                            How Spotify Fights Global Warming by Taking Their Mobile App Size under Control
+                        
+주소 : https://www.infoq.com/news/2023/11/spotify-app-size-growth-process/
+설명 : 
+                         Adding new features has often a hidden impact on app size, with several undesired effects, including user disengagement and unnecessary carbon emissions. To keep app size under control, Spotify engineers established pre-PR and post-PR processes to help prevent an estimated 10MB app size growth over six months.
+                    
+6 번째 검색 내용 
+제목 : 
+
+                            ZEDEDA Launches Managed Kubernetes for the Distributed Edge
+                        
+주소 : https://www.infoq.com/news/2023/11/zededa-edge-kubernetes/
+설명 : 
+                         ZEDEDA, a San Jose-based developer and provider of edge computing virtualization software, announced during KubeCon NA 2023 a managed Kubernetes solution for the edge. The service is based on a partnership with SUSE and offers a centrally-managed, turn-key User edge solution built on the open source operating system Eve and Rancher’s lightweight Kubernetes distribution K3s.
+                    
+7 번째 검색 내용 
+제목 : 
+
+                            Azure Bastion Developer SKU: Cheaper Secure Connectivity to Azure Virtual Machines
+                        
+주소 : https://www.infoq.com/news/2023/11/azure-bastion-developer-sku/
+설명 : 
+                         Azure has recently announced the public preview of Bastion Developer SKU, the latest addition to the managed bastion service on Azure. The new option targets dev/test users seeking secure and simple VM connections without the need for additional features or scalability.
+                    
+8 번째 검색 내용 
+제목 : 
+
+                            What's New in C# 12: Primary Constructors, Collection Expressions, and More
+                        
+주소 : https://www.infoq.com/news/2023/11/csharp-12-released/
+설명 : 
+                         As part of the .NET 8 launch, on November 14th Microsoft unveiled the new features of C# 12, the latest version of the popular .NET programming language. As announced the most notable improvements include collection expressions, primary constructors for all classes and structs, syntax to alias any type, and default parameters for lambda expressions.
+                    
+9 번째 검색 내용 
+제목 : 
+
+                            OpenAI Launches GPTs to Enable Creating No-Code, Custom Versions of ChatGPT
+                        
+주소 : https://www.infoq.com/news/2023/11/openai-gpts-custom-chatgpt/
+설명 : 
+                         At the recent OpenAI developer conference, OpenAI announced it is rolling out GPTs, custom versions of ChatGPT created for specific tasks. Developers will also be able to share their GPTs on the forthcoming ChatGPT Store and monetize them, the company says.
+                    
+10 번째 검색 내용 
+제목 : 
+
+                            Things We Tend to Overlook Going from Architecture to Release
+                        
+주소 : https://www.infoq.com/news/2023/11/overlooked-architecture-release/
+설명 : 
+                         People tend to overlook things when developing a new software product or service because they don’t have to think about them on a daily basis. Companies should create an environment where everyone can express their opinion and concerns and encourage bringing up questions to explore different angles and increase understanding.
+                    
+11 번째 검색 내용 
+제목 : 
+
+                            AWS Introduces Amazon Linux 2023 Runtime for Lambda
+                        
+주소 : https://www.infoq.com/news/2023/11/al2023-aws-lambda-functions/
+설명 : 
+                         AWS recently introduced Amazon Linux 2023 (AL2023) as a managed runtime and container base image for its Lambda service. The runtime provides an OS-only environment for developers to run Lambda functions.
+                    
+12 번째 검색 내용 
+제목 : 
+
+                            KubeCon NA 2023: Kubernetes Storage Platform to Run Real-Time Analytic Databases
+                        
+주소 : https://www.infoq.com/news/2023/11/kubernetes-real-time-databases/
+설명 : 
+                         Kubernetes storage platform provides a portable and flexible foundation for data management to help developers build their own data solutions. Robert Hodges spoke last week at KubeCon CloudNativeCon North America 2023 Conference on different techniques his teams developed to build their own data platform.
+                    
+13 번째 검색 내용 
+제목 : 
+
+                            Microsoft Refreshes its Well-Architected Framework
+                        
+주소 : https://www.infoq.com/news/2023/11/azure-well-architected-framework/
+설명 : 
+                         Microsoft recently announced a comprehensive refresh of the Well-Architected Framework (WAF) for designing and running optimized workloads on Azure.
+                    
+14 번째 검색 내용 
+제목 : 
+
+                            New Amazon SQS Bindings Added to CoreWCF
+                        
+주소 : https://www.infoq.com/news/2023/11/corewcf-sqs/
+설명 : 
+                         Amazon delivered a new binding for CoreWCF, the open-source replacement for Windows Communication Foundation. The new binding supports the Amazon Simple Queue Service (SQS) in both server and client code. The new binding allows simple migration of legacy Microsoft MSMQ binding to an AWS cloud-based implementation.
+                    
+15 번째 검색 내용 
+제목 : 
+
+                            xAI Introduces Large Language Model Grok
+                        
+주소 : https://www.infoq.com/news/2023/11/xai-grok/
+설명 : 
+                         xAI, the AI company founded by Elon Musk, recently announced Grok, a large language model. Grok can access current knowledge of the world via the X platform and outperforms other LLMs of comparable size, including GPT-3.5, on several benchmarks.
+                    
