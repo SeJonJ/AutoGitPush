@@ -1,13 +1,22 @@
 1 번째 검색 내용 
 제목 : 
 
+                            Google AlloyDB Omni: PostgreSQL-Compatible Database for On-Premises and VMware Cloud Foundation
+                        
+주소 : https://www.infoq.com/news/2023/11/google-alloydb-omni-ga/
+설명 : 
+                         Google Cloud recently announced the general availability of AlloyDB Omni, a downloadable version of the PostgreSQL-compatible database service AlloyDB. The new version is designed to run on-premises, has built-in support for generative AI, and will be available on VMware Cloud Foundation.
+                    
+2 번째 검색 내용 
+제목 : 
+
                             KubeCon NA 2023: Ishan Sharma on Real-Time Generative AI for Gaming Apps Running on Kubernetes
                         
 주소 : https://www.infoq.com/news/2023/11/real-time-generative-ai-gameplay/
 설명 : 
                          Kubernetes provides a great platform for gaming applications using generative artificial intelligence (GenAI) for both game development and gameplay. Ishan Sharma from Google spoke at the recent KubeCon CloudNativeCon NA 2023 Conference about real-time GenAI inference integrated with distributed game servers running on Kubernetes.
                     
-2 번째 검색 내용 
+3 번째 검색 내용 
 제목 : 
 
                             Principled API Design at the Heart of Canva’s Apps SDK
@@ -16,7 +25,7 @@
 설명 : 
                          Canva created a new plugin framework to allow developers to create apps implementing custom functionality within its product. The team used iterative development and strongly emphasized API design principles to ensure the SDK supporting plugin development was developer-friendly, safe, and evolvable.
                     
-3 번째 검색 내용 
+4 번째 검색 내용 
 제목 : 
 
                             Google Announces New DeepMind Model, Lyria, to Generate High-Quality Music
@@ -25,16 +34,16 @@
 설명 : 
                          Google has introduced Google DeepMind's Lyria, an AI music generation model able to generate vocals, lyrics, and background tracks mimicking the style of popular artists. The model is experimentally available on YouTube through two distinct AI experiments.
                     
-4 번째 검색 내용 
+5 번째 검색 내용 
 제목 : 
 
-                            Canonical Releases a Low-Touch, Open Source Cloud Solution With MicroCloud
+                            Canonical Releases a Low-Touch, Open Source Cloud Solution with MicroCloud
                         
 주소 : https://www.infoq.com/news/2023/11/canonical-microcloud-open-source/
 설명 : 
-                         Canonical recently announced the general availability of MicroCloud, a low-touch, open source cloud solution designed for scalable clusters and edge deployments. It is aimed at edge computing, as well as for customers in need of a small-scale private cloud.
+                         Canonical recently announced the general availability of MicroCloud, a low-touch, open source cloud solution designed for scalable clusters and edge deployments. It's aimed at edge computing, as well as for customers in need of a small-scale private cloud.
                     
-5 번째 검색 내용 
+6 번째 검색 내용 
 제목 : 
 
                             Spotify Open-Sources Voyager Nearest-Neighbor Search Library
@@ -43,7 +52,7 @@
 설명 : 
                          Spotify Engineering recently open-sourced Voyager, an approximate nearest-neighbor (ANN) search library. Voyager is based on the hierarchical navigable small worlds (HNSW) algorithm and is 10 times faster than Spotify's previous ANN library, Annoy.
                     
-6 번째 검색 내용 
+7 번째 검색 내용 
 제목 : 
 
                             Java News Roundup: Spring Framework 6.1, Spring Data 2023.1, Payara Platform, JEPs for JDK 22
@@ -52,7 +61,7 @@
 설명 : 
                          This week's Java roundup for November 13th, 2023 features news from OpenJDK, JDK 22, and monthly, milestone and point releases of: Spring Framework; Spring Data; Payara Platform; Open Liberty; Micronaut; Grails; Quarkus; Tomcat; Apache Camel; Vert.x; Mojarra; Micrometer Metrics and Tracing; Project Reactor; Piranha; JDKMon; JobRunr; JHipster Lite; Testcontainers for Java; Arquillian; and Gradle.
                     
-7 번째 검색 내용 
+8 번째 검색 내용 
 제목 : 
 
                             .NET Aspire: Cloud-Native App Development With Microsoft's Latest Project
@@ -61,7 +70,7 @@
 설명 : 
                          Microsoft released .NET 8 last week, one of the most notable news within the launch was .NET Aspire. The cloud-native development stack for building resilient, observable, and configurable cloud-native applications with the dotnet. .NET Aspire includes a curated set of components enhanced for cloud-native by including service discovery, telemetry, resilience, and health checks by default.
                     
-8 번째 검색 내용 
+9 번째 검색 내용 
 제목 : 
 
                             Timescale Introduces Dynamic PostgreSQL, an Alternative to Serverless Databases
@@ -70,7 +79,7 @@
 설명 : 
                          Timescale recently introduced Dynamic PostgreSQL, a new cloud-managed option to scale the database capacity within a predefined vCPU range. Promoted as “buy the base and rent the peak”, the new option scales the capacity according to the load, trying to address the unpredictability and variability of serverless options.
                     
-9 번째 검색 내용 
+10 번째 검색 내용 
 제목 : 
 
                             How Spotify Fights Global Warming by Taking Their Mobile App Size under Control
@@ -79,7 +88,7 @@
 설명 : 
                          Adding new features has often a hidden impact on app size, with several undesired effects, including user disengagement and unnecessary carbon emissions. To keep app size under control, Spotify engineers established pre-PR and post-PR processes to help prevent an estimated 10MB app size growth over six months.
                     
-10 번째 검색 내용 
+11 번째 검색 내용 
 제목 : 
 
                             ZEDEDA Launches Managed Kubernetes for the Distributed Edge
@@ -88,7 +97,7 @@
 설명 : 
                          ZEDEDA, a San Jose-based developer and provider of edge computing virtualization software, announced during KubeCon NA 2023 a managed Kubernetes solution for the edge. The service is based on a partnership with SUSE and offers a centrally-managed, turn-key User edge solution built on the open source operating system Eve and Rancher’s lightweight Kubernetes distribution K3s.
                     
-11 번째 검색 내용 
+12 번째 검색 내용 
 제목 : 
 
                             Azure Bastion Developer SKU: Cheaper Secure Connectivity to Azure Virtual Machines
@@ -97,7 +106,7 @@
 설명 : 
                          Azure has recently announced the public preview of Bastion Developer SKU, the latest addition to the managed bastion service on Azure. The new option targets dev/test users seeking secure and simple VM connections without the need for additional features or scalability.
                     
-12 번째 검색 내용 
+13 번째 검색 내용 
 제목 : 
 
                             What's New in C# 12: Primary Constructors, Collection Expressions, and More
@@ -106,7 +115,7 @@
 설명 : 
                          As part of the .NET 8 launch, on November 14th Microsoft unveiled the new features of C# 12, the latest version of the popular .NET programming language. As announced the most notable improvements include collection expressions, primary constructors for all classes and structs, syntax to alias any type, and default parameters for lambda expressions.
                     
-13 번째 검색 내용 
+14 번째 검색 내용 
 제목 : 
 
                             OpenAI Launches GPTs to Enable Creating No-Code, Custom Versions of ChatGPT
@@ -115,7 +124,7 @@
 설명 : 
                          At the recent OpenAI developer conference, OpenAI announced it is rolling out GPTs, custom versions of ChatGPT created for specific tasks. Developers will also be able to share their GPTs on the forthcoming ChatGPT Store and monetize them, the company says.
                     
-14 번째 검색 내용 
+15 번째 검색 내용 
 제목 : 
 
                             Things We Tend to Overlook Going from Architecture to Release
@@ -123,13 +132,4 @@
 주소 : https://www.infoq.com/news/2023/11/overlooked-architecture-release/
 설명 : 
                          People tend to overlook things when developing a new software product or service because they don’t have to think about them on a daily basis. Companies should create an environment where everyone can express their opinion and concerns and encourage bringing up questions to explore different angles and increase understanding.
-                    
-15 번째 검색 내용 
-제목 : 
-
-                            AWS Introduces Amazon Linux 2023 Runtime for Lambda
-                        
-주소 : https://www.infoq.com/news/2023/11/al2023-aws-lambda-functions/
-설명 : 
-                         AWS recently introduced Amazon Linux 2023 (AL2023) as a managed runtime and container base image for its Lambda service. The runtime provides an OS-only environment for developers to run Lambda functions.
                     
