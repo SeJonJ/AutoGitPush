@@ -1,13 +1,22 @@
 1 번째 검색 내용 
 제목 : 
 
+                            What's New in ASP.NET Core 8.0 : Performance, Blazor, AOT, Identity, Metrics and More
+                        
+주소 : https://www.infoq.com/news/2023/11/asp-net-core-8-released/
+설명 : 
+                         In the most recent release of .NET 8, ASP.NET Core undergoes substantial improvements, with a primary focus on elevating Performance and fortifying Blazor. Notable updates extend to AOT, Identity, SignalR, Metrics, and various other features, marking a significant leap forward for ASP.NET Core developers.
+                    
+2 번째 검색 내용 
+제목 : 
+
                             Meta Announces Generative AI Models Emu Video and Emu Edit
                         
 주소 : https://www.infoq.com/news/2023/11/meta-emu-ai/
 설명 : 
                          Meta AI Research announced two new generative AI models: Emu Video, which can generate short videos given a text prompt, and Emu Edit, which can edit images given text-based instructions. Both models are based on Meta's Emu foundation model and exhibit state-of-the-art performance on several benchmarks.
                     
-2 번째 검색 내용 
+3 번째 검색 내용 
 제목 : 
 
                             Revolutionizing Digital Identity: How Verifiable Credentials Offer a New Era of Privacy and Control
@@ -16,7 +25,7 @@
 설명 : 
                          Auth0 recently published an in-depth explanation of Verifiable Credentials (VCs). The article emphasizes the potential of VCs to transform how identities are managed online. It highlights the limitations of current identity systems and how VCs can address these gaps, particularly in allowing identity claims to be disclosed without issuers knowing, thereby enhancing privacy and control for users.
                     
-3 번째 검색 내용 
+4 번째 검색 내용 
 제목 : 
 
                             Swift 5.9 Backtracer is Now Concurrency-Aware, Improves Readability and Linux Support
@@ -25,7 +34,7 @@
 설명 : 
                          Besides extending the language through macros and borrow-stile memory management, Swift 5.9 also introduces some helpful features for program debugging, including an out-of-process crash handler, just-in-time debugging support, and backtracking to makes it easier to interpret control flow when using structured concurrency.
                     
-4 번째 검색 내용 
+5 번째 검색 내용 
 제목 : 
 
                             Transformers.js: ML for the Web, Now with Text-to-Speech
@@ -34,7 +43,7 @@
 설명 : 
                          Transformers.js, the JavaScript counterpart to the Python Transformers library, is designed for running Transformers models directly within web browsers, eliminating the necessity for external server processing. In the recent update to version 2.7, Transformers.js introduced enhancements, including notable text-to-speech (TTS) support.
                     
-5 번째 검색 내용 
+6 번째 검색 내용 
 제목 : 
 
                             Microsoft Brings AI to Logic Apps (Standard) with Workflow Assistant in Public Preview
@@ -43,7 +52,7 @@
 설명 : 
                          Microsoft recently announced a workflow assistant for Logic Apps (standard), the company’s integration Platform as a Service (iPaaS) offering in public preview. With the assistant, developers have a chat interface that provides access to Azure Logic Apps documentation and best practices without requiring them to navigate documentation or search online forums.
                     
-6 번째 검색 내용 
+7 번째 검색 내용 
 제목 : 
 
                             Java News Roundup: Spring Boot 3.2, Spring Pulsar 1.0, Hibernate 6.4, JEP 447 Targeted to JDK 22
@@ -52,7 +61,7 @@
 설명 : 
                          This week's Java roundup for November 20th, 2023 features news from OpenJDK, JDK 22, JCON World 2023, and point, milestone and GA releases for: Spring Boot, Spring Framework, Spring Security, Spring Authorization Server, Spring GraphQL, Spring Integration, Spring Session, Spring Vault, Quarkus, Hibernate ORM, Hibernate Search, Infinispan, JHipster, JBang, OpenXava, Testcontainers and Gradle.
                     
-7 번째 검색 내용 
+8 번째 검색 내용 
 제목 : 
 
                             Amazon EC2 Enhances Defense in Depth with Default IMDSv2
@@ -61,7 +70,7 @@
 설명 : 
                          To improve defense against open firewalls, reverse proxies, and SSRF vulnerabilities, AWS has recently announced that new Amazon EC2 instance types will support only version 2 of the EC2 Instance Metadata Service (IMDSv2). For transition support, customers will still be able to enable IMDSv1.
                     
-8 번째 검색 내용 
+9 번째 검색 내용 
 제목 : 
 
                             Git-for-Data, Version-Controlled Database Dolt Gets PostgreSQL-Flavor
@@ -70,7 +79,7 @@
 설명 : 
                          DoltgreSQL builds on top of the version-controlled database Dolt to provide Git-like log, diff, branch, and merge functionality for your Postgres database schema and data.
                     
-9 번째 검색 내용 
+10 번째 검색 내용 
 제목 : 
 
                             Visual Studio 17.9 Preview 1: Refreshed UI, Debugging, AI, Productivity and More
@@ -79,7 +88,7 @@
 설명 : 
                          Microsoft has released the first preview of Visual Studio version 17.9. Preview 1 brings a range of improvements and features aimed at enhancing developer productivity. Including some AI features like GitHub Copilot, IntelliSense support for Unreal Engine projects, memory management and debugging improvements and this preview version is packed with refreshed UI.
                     
-10 번째 검색 내용 
+11 번째 검색 내용 
 제목 : 
 
                             Microsoft Debuts Custom Chips for Cloud and AI: Azure Maia AI Accelerator and Azure Cobalt CPU
@@ -88,7 +97,7 @@
 설명 : 
                          During the recent Ignite conference, Microsoft introduced two custom-designed chips for their cloud infrastructure: Microsoft Azure Maia AI Accelerator (Athena), optimized for artificial intelligence (AI) tasks and generative AI, and Microsoft Azure Cobalt CPU, an Arm-based processor tailored to run general-purpose compute workloads on the Microsoft Cloud.
                     
-11 번째 검색 내용 
+12 번째 검색 내용 
 제목 : 
 
                             Anthropic Announces Claude 2.1 LLM with Wider Context Window and Support for AI Tools
@@ -97,7 +106,7 @@
 설명 : 
                          According to Anthropic, the newest version of Claude delivers many “advancements in key capabilities for enterprises—including an industry-leading 200K token context window, significant reductions in rates of model hallucination, system prompts and our new beta feature: tool use.” Anthropic also announced reduced pricing to improve cost efficiency for our customers across models.
                     
-12 번째 검색 내용 
+13 번째 검색 내용 
 제목 : 
 
                             .NET Framework Custom Code for Azure Logic Apps (Standard) is Generally Available
@@ -106,7 +115,7 @@
 설명 : 
                          During the recent Ignite conference, Microsoft announced the general availability (GA) of .NET Framework Custom Code for Azure Logic Apps (standard), which allows developers to extend their low-code solutions with custom code.
                     
-13 번째 검색 내용 
+14 번째 검색 내용 
 제목 : 
 
                             OpenTelemetry Logging Marked Stable: Morgan McClean at KubeCon NA
@@ -115,7 +124,7 @@
 설명 : 
                          Logging is a core capability of applications today. OpenTelemetry (OTel) has stabilized logging  as another available signal within the project. OTel Logging offers improvements to traditional logging.
                     
-14 번째 검색 내용 
+15 번째 검색 내용 
 제목 : 
 
                             How to Become a High-Performing Software Team
@@ -123,13 +132,4 @@
 주소 : https://www.infoq.com/news/2023/11/high-performing-software-team/
 설명 : 
                          The four major elements that enable high-performing software teams are purpose, decentralized decision-making, high trust with psychological safety, and embracing uncertainty. Teams can improve their performance by experimenting with their ways of working.
-                    
-15 번째 검색 내용 
-제목 : 
-
-                            Microsoft Introduces Azure Integration Environments and Business Process Tracking in Public Preview
-                        
-주소 : https://www.infoq.com/news/2023/11/azure-integration-environments/
-설명 : 
-                         Microsoft recently introduced Azure Integration Environments in public preview, a new capability that allows organizations to assemble their resources into logical groupings to manage and monitor their integration resources more effectively.
                     
