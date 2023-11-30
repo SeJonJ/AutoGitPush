@@ -55,20 +55,20 @@
 7 번째 검색 내용 
 제목 : 
 
-                            Transformers.js: ML for the Web, Now with Text-to-Speech
-                        
-주소 : https://www.infoq.com/news/2023/11/transformersjs-ml-for-web/
-설명 : 
-                         Transformers.js, the JavaScript counterpart to the Python Transformers library, is designed for running Transformers models directly within web browsers, eliminating the necessity for external server processing. In the recent update to version 2.7, Transformers.js introduced enhancements, including notable text-to-speech (TTS) support.
-                    
-8 번째 검색 내용 
-제목 : 
-
                             Microsoft Brings AI to Logic Apps (Standard) with Workflow Assistant in Public Preview
                         
 주소 : https://www.infoq.com/news/2023/11/logic-app-workflow-assistant/
 설명 : 
                          Microsoft recently announced a workflow assistant for Logic Apps (standard), the company’s integration Platform as a Service (iPaaS) offering in public preview. With the assistant, developers have a chat interface that provides access to Azure Logic Apps documentation and best practices without requiring them to navigate documentation or search online forums.
+                    
+8 번째 검색 내용 
+제목 : 
+
+                            Transformers.js: ML for the Web, Now with Text-to-Speech
+                        
+주소 : https://www.infoq.com/news/2023/11/transformersjs-ml-for-web/
+설명 : 
+                         Transformers.js, the JavaScript counterpart to the Python Transformers library, is designed for running Transformers models directly within web browsers, eliminating the necessity for external server processing. In the recent update to version 2.7, Transformers.js introduced enhancements, including notable text-to-speech (TTS) support.
                     
 9 번째 검색 내용 
 제목 : 
@@ -77,7 +77,7 @@
                         
 주소 : https://www.infoq.com/news/2023/11/java-news-roundup-nov20-2023/
 설명 : 
-                         This week's Java roundup for November 20th, 2023 features news from OpenJDK, JDK 22, JCON World 2023, and point, milestone and GA releases for: Spring Boot, Spring Framework, Spring Security, Spring Authorization Server, Spring GraphQL, Spring Integration, Spring Session, Spring Vault, Quarkus, Hibernate ORM, Hibernate Search, Infinispan, JHipster, JBang, OpenXava, Testcontainers and Gradle.
+                         This week's Java roundup for November 20th, 2023, features news from OpenJDK, JDK 22, JCON World 2023, and point, milestone and GA releases for: Spring Boot, Spring Framework, Spring Security, Spring Authorization Server, Spring GraphQL, Spring Integration, Spring Session, Spring Vault, Quarkus, Hibernate ORM, Hibernate Search, Infinispan, JHipster, JBang, OpenXava, Testcontainers and Gradle.
                     
 10 번째 검색 내용 
 제목 : 
