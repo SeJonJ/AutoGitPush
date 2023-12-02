@@ -1,0 +1,135 @@
+1 번째 검색 내용 
+제목 : 
+
+                            Recap of AWS re:Invent 2023
+                        
+주소 : https://www.infoq.com/news/2023/12/aws-reinvent-2023-recap/
+설명 : 
+                         The 12th edition of re:Invent has just ended in Las Vegas. As expected, artificial intelligence was a key topic of the conference, with Amazon Bedrock and Amazon Q,  a new type of generative AI-powered assistant, the main focus of Adam Selipsky’s keynote.
+                    
+2 번째 검색 내용 
+제목 : 
+
+                            Javet 3.0.2 Released: Bridging Java and JavaScript with Enhanced Features
+                        
+주소 : https://www.infoq.com/news/2023/12/javet-302-released/
+설명 : 
+                         Javet, a fusion of Java and V8 (JAVa + V + EighT), has recently released its version 3.0.2, marking a significant advancement in embedding Node.js and V8 in Java. This version includes Node.js v20.10.0 and V8 v12.0.267.8, highlighting the project's commitment to staying current with the latest developments in these technologies.
+                    
+3 번째 검색 내용 
+제목 : 
+
+                            ClickHouse Keeper: Efficient Apache ZooKeeper Alternative Created with C++ and Raft
+                        
+주소 : https://www.infoq.com/news/2023/12/clickhouse-keeper-raft/
+설명 : 
+                         ClickHouse project team created an in-house replacement for Apache Zookeeper as it needed a more efficient implementation that would also address some of Zookeeper's shortcomings. Now, ClickHouse Keeper is an essential part of the ClickHouse project and a cornerstone of this open-source analytical database, but can also be used independently for many distributed coordination use cases.
+                    
+4 번째 검색 내용 
+제목 : 
+
+                            Sentry Introduces Non-Open-Source Functional Source License
+                        
+주소 : https://www.infoq.com/news/2023/12/functional-source-license/
+설명 : 
+                         Sentry has recently announced the creation and adoption of the Functional Source License (FSL), a non-compete license that converts to Apache 2.0 or MIT after two years. Similar to the Business Source License (BSL) but with a shorter non-compete period and less variability, the new license received mixed feelings from the community.
+                    
+5 번째 검색 내용 
+제목 : 
+
+                            Chaos Engineering Service Azure Chaos Studio Now Generally Available
+                        
+주소 : https://www.infoq.com/news/2023/11/azure-chaos-studio-ga/
+설명 : 
+                         Two years after entering public preview, reliability experimentation service Azure Chaos Studio is now generally available. Among its most recent features are experiment templates, dynamic targets, load testing faults, and more.
+                    
+6 번째 검색 내용 
+제목 : 
+
+                            Applying the Analytic Hierarchy Process for Tech Decisions
+                        
+주소 : https://www.infoq.com/news/2023/11/analytic-hierarchy-process/
+설명 : 
+                         The analytic hierarchy process uses pairwise comparisons and scoring for criteria between the alternatives to give insights into what the best option is and why. John Riviello spoke about applying the analytic hierarchy process to decide what JavaScript framework to use at QCon New York 2023.
+                    
+7 번째 검색 내용 
+제목 : 
+
+                            AWS Announces Amazon Q, a New Generative AI–Powered Assistant
+                        
+주소 : https://www.infoq.com/news/2023/11/aws-amazon-q-ai/
+설명 : 
+                         AWS has introduced Amazon Q, a new generative AI-powered assistant designed for professional applications. This assistant is configurable to align with your company's requirements, facilitating conversations, issue resolution, content generation, and action-taking through the utilization of information present in your code, enterprise systems, and data repositories.
+                    
+8 번째 검색 내용 
+제목 : 
+
+                            How HubSpot Uses Apache Kafka Swimlanes for Timely Processing of Workflow Actions
+                        
+주소 : https://www.infoq.com/news/2023/11/hubspot-apache-kafka-swimlanes/
+설명 : 
+                         HubSpot adopted routing messages over multiple Kafka topics (called swimlanes) for the same producer to avoid the build-up in the consumer group lag and prioritize the processing of real-time traffic. Using a combination of automatic and manual detection of traffic spikes, the company ensures the majority of customers’ workflows execute without delays.
+                    
+9 번째 검색 내용 
+제목 : 
+
+                            Partitioned Namespaces for Azure Service Bus Premium Are Now Generally Available
+                        
+주소 : https://www.infoq.com/news/2023/11/azure-service-bus-partitioning/
+설명 : 
+                         During the recent Ignite conference, Microsoft announced the general availability (GA) of partitioned namespaces feature for Azure Service Bus, which allows customers to use partitioning for the premium messaging tier.
+                    
+10 번째 검색 내용 
+제목 : 
+
+                            What's New in ASP.NET Core 8.0 : Performance, Blazor, AOT, Identity, Metrics and More
+                        
+주소 : https://www.infoq.com/news/2023/11/asp-net-core-8-released/
+설명 : 
+                         In the most recent release of .NET 8, ASP.NET Core undergoes substantial improvements, with a primary focus on elevating Performance and fortifying Blazor. Notable updates extend to AOT, Identity, SignalR, Metrics, and various other features, marking a significant leap forward for ASP.NET Core developers.
+                    
+11 번째 검색 내용 
+제목 : 
+
+                            Meta Announces Generative AI Models Emu Video and Emu Edit
+                        
+주소 : https://www.infoq.com/news/2023/11/meta-emu-ai/
+설명 : 
+                         Meta AI Research announced two new generative AI models: Emu Video, which can generate short videos given a text prompt, and Emu Edit, which can edit images given text-based instructions. Both models are based on Meta's Emu foundation model and exhibit state-of-the-art performance on several benchmarks.
+                    
+12 번째 검색 내용 
+제목 : 
+
+                            Revolutionizing Digital Identity: How Verifiable Credentials Offer a New Era of Privacy and Control
+                        
+주소 : https://www.infoq.com/news/2023/11/verifiable-credentials/
+설명 : 
+                         Auth0 recently published an in-depth explanation of Verifiable Credentials (VCs). The article emphasizes the potential of VCs to transform how identities are managed online. It highlights the limitations of current identity systems and how VCs can address these gaps, particularly in allowing identity claims to be disclosed without issuers knowing, thereby enhancing privacy and control for users.
+                    
+13 번째 검색 내용 
+제목 : 
+
+                            Swift 5.9 Backtracer is Now Concurrency-Aware, Improves Readability and Linux Support
+                        
+주소 : https://www.infoq.com/news/2023/11/swift-5-9-backtracer-debugger/
+설명 : 
+                         Besides extending the language through macros and borrow-stile memory management, Swift 5.9 also introduces some helpful features for program debugging, including an out-of-process crash handler, just-in-time debugging support, and backtracking to makes it easier to interpret control flow when using structured concurrency.
+                    
+14 번째 검색 내용 
+제목 : 
+
+                            Transformers.js: ML for the Web, Now with Text-to-Speech
+                        
+주소 : https://www.infoq.com/news/2023/11/transformersjs-ml-for-web/
+설명 : 
+                         Transformers.js, the JavaScript counterpart to the Python Transformers library, is designed for running Transformers models directly within web browsers, eliminating the necessity for external server processing. In the recent update to version 2.7, Transformers.js introduced enhancements, including notable text-to-speech (TTS) support.
+                    
+15 번째 검색 내용 
+제목 : 
+
+                            Microsoft Brings AI to Logic Apps (Standard) with Workflow Assistant in Public Preview
+                        
+주소 : https://www.infoq.com/news/2023/11/logic-app-workflow-assistant/
+설명 : 
+                         Microsoft recently announced a workflow assistant for Logic Apps (standard), the company’s integration Platform as a Service (iPaaS) offering in public preview. With the assistant, developers have a chat interface that provides access to Azure Logic Apps documentation and best practices without requiring them to navigate documentation or search online forums.
+                    
