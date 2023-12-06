@@ -1,0 +1,135 @@
+1 번째 검색 내용 
+제목 : 
+
+                            AWS Announces Finch 1.0,  an Open Source Client for Container Development
+                        
+주소 : https://www.infoq.com/news/2023/12/aws-finch-container-development/
+설명 : 
+                         Recently, AWS announced the general availability of Finch, an open-source tool that aims to simplify container development on macOS. Finch allows users to build, run, and publish Linux containers on their macOS, and interact with container registries such as Amazon ECR.
+                    
+2 번째 검색 내용 
+제목 : 
+
+                            Stability AI Open-Sources Video Generation Model Stable Video Diffusion
+                        
+주소 : https://www.infoq.com/news/2023/12/stable-video-diffusion/
+설명 : 
+                         Stability AI released the code and model weights for Stable Video Diffusion (SVD), a video generation AI model. When given an input image as context, the model can generate 25 video frames at a resolution of 576x1024 pixels.
+                    
+3 번째 검색 내용 
+제목 : 
+
+                            Addressing Orphaned Pods on Netflix’s Titus Container Platform
+                        
+주소 : https://www.infoq.com/news/2023/12/orphaned-pods-netflix-titus/
+설명 : 
+                         Netflix's engineering team disclosed the investigation, identification, and resolution of the issue about "orphaned" pods causing inconvenience to engineers on Titus, shedding light on the journey from kernel panics to Kubernetes (k8s) and ultimately providing operators with the tools to understand why nodes are going away
+                    
+4 번째 검색 내용 
+제목 : 
+
+                            JHipster 8 Upgrades to Spring Boot 3, Hibernate 6.2, Node 18 LTS, Vue 3 and  Angular 16
+                        
+주소 : https://www.infoq.com/news/2023/12/jhipster-version8-release/
+설명 : 
+                         JHipster - the web and microservices applications generator - released its 8th version on November 2nd. Starting with this version Hashicorp Consul will be the default service discovery mechanism, devcontainer will be available and each application that acts as a gateway or is a monolith will have CORS enabled. Also, multiple versions were updated and unmaintained components were removed.
+                    
+5 번째 검색 내용 
+제목 : 
+
+                            OpenSSL 3.2 Brings Support for QUIC, Windows Certificate Store, and More
+                        
+주소 : https://www.infoq.com/news/2023/12/openssl-3-2-released/
+설명 : 
+                         The latest version of OpenSSL, OpenSSL 3.2.0, brings significant new features, including client support for QUIC, new digital signature algorithms, new certificate compression options, SSL/TLS security level increase, and more.
+                    
+6 번째 검색 내용 
+제목 : 
+
+                            Java News Roundup: JDK 22, Spring CVEs, Liberica JDK, JDKMon 21, Jupyter for Java, Gradle 8.5
+                        
+주소 : https://www.infoq.com/news/2023/12/java-news-roundup-nov27-2023/
+설명 : 
+                         This week's Java roundup for November 27th, 2023 features news from OpenJDK, JDK 22, Jakarta Data 1.0-M2, JNoSQL 1.0.3, LibericaJDK, Spring CVEs, Spring Shell 3.2.0-RC1, Quarkus 3.6, Open Liberty 23.0.12-beta, Helidon 4.0.1, Hibernate Reactive 2.2, Hibernate Search 7.1-A1, Grails 5.3.4, Groovy 5.0.0-A3, Camel Quarkus 3.6, Maven 3.9.6, JDKMon 21, PrimeFaces 12.0.7, Jupyter for Java and Gradle 8.5.
+                    
+7 번째 검색 내용 
+제목 : 
+
+                            LinkedIn Migrates Espresso to HTTP2 and Reduces Connections by 88% and Latency by 75%
+                        
+주소 : https://www.infoq.com/news/2023/12/linkedin-espresso-http2/
+설명 : 
+                         LinkedIn was able to dramatically improve the scalability and performance of its Espresso database by migrating it from HTTP1.1 to HTTP2, resulting in a reduction in the number of connections, latency, and garbage collection times. To achieve these gains, the team had to optimize the Netty’s default HTTP2 stack to make it fit their needs.
+                    
+8 번째 검색 내용 
+제목 : 
+
+                            Canonical Takes a Chisel to Ubuntu with Ultra-Small Container Images
+                        
+주소 : https://www.infoq.com/news/2023/12/canonical-chiselled-ubuntu/
+설명 : 
+                         Canonical has officially released chiselled Ubuntu containers, offering production-ready, secure, and ultra-small container images with a focus on efficiency and security. These container images allow users to build images that only contain their application and its runtime dependencies, excluding unnecessary operating system-level packages, utilities, or libraries.
+                    
+9 번째 검색 내용 
+제목 : 
+
+                            Key Lessons for Mobile Release Management from DoorDash
+                        
+주소 : https://www.infoq.com/news/2023/12/doordash-mobile-release-process/
+설명 : 
+                         The release process for DoorDash mobile apps is based on clear-cut responsibilities shared across teams, effective communication, testing, and strict rules about handling regressions and hotfixes, explains DoorDash engineer Manolo SaÃ±udo. While not all organizations work at DoorDash scale, many aspects of their approach can prove useful to smaller organizations, too.
+                    
+10 번째 검색 내용 
+제목 : 
+
+                            Recap of AWS re:Invent 2023: Amazon Q, Frugal Architectures, Database Upgrades
+                        
+주소 : https://www.infoq.com/news/2023/12/aws-reinvent-2023-recap/
+설명 : 
+                         The 12th edition of re:Invent has just ended in Las Vegas. As expected, artificial intelligence was a key topic of the conference, with Amazon Bedrock and Amazon Q,  a new type of generative AI-powered assistant, the main focus of Adam Selipsky’s keynote.
+                    
+11 번째 검색 내용 
+제목 : 
+
+                            Javet 3.0.2 Released: Bridging Java and JavaScript with Enhanced Features
+                        
+주소 : https://www.infoq.com/news/2023/12/javet-302-released/
+설명 : 
+                         Javet, a fusion of Java and V8 (JAVa + V + EighT), has recently released its version 3.0.2, marking a significant advancement in embedding Node.js and V8 in Java. This version includes Node.js v20.10.0 and V8 v12.0.267.8, highlighting the project's commitment to staying current with the latest developments in these technologies.
+                    
+12 번째 검색 내용 
+제목 : 
+
+                            ClickHouse Keeper: Efficient Apache ZooKeeper Alternative Created with C++ and Raft
+                        
+주소 : https://www.infoq.com/news/2023/12/clickhouse-keeper-raft/
+설명 : 
+                         ClickHouse project team created an in-house replacement for Apache Zookeeper as it needed a more efficient implementation that would also address some of Zookeeper's shortcomings. Now, ClickHouse Keeper is an essential part of the ClickHouse project and a cornerstone of this open-source analytical database, but can also be used independently for many distributed coordination use cases.
+                    
+13 번째 검색 내용 
+제목 : 
+
+                            Sentry Introduces Non-Open-Source Functional Source License
+                        
+주소 : https://www.infoq.com/news/2023/12/functional-source-license/
+설명 : 
+                         Sentry has recently announced the creation and adoption of the Functional Source License (FSL), a non-compete license that converts to Apache 2.0 or MIT after two years. Similar to the Business Source License (BSL) but with a shorter non-compete period and less variability, the new license received mixed feelings from the community.
+                    
+14 번째 검색 내용 
+제목 : 
+
+                            Chaos Engineering Service Azure Chaos Studio Now Generally Available
+                        
+주소 : https://www.infoq.com/news/2023/11/azure-chaos-studio-ga/
+설명 : 
+                         Two years after entering public preview, reliability experimentation service Azure Chaos Studio is now generally available. Among its most recent features are experiment templates, dynamic targets, load testing faults, and more.
+                    
+15 번째 검색 내용 
+제목 : 
+
+                            Applying the Analytic Hierarchy Process for Tech Decisions
+                        
+주소 : https://www.infoq.com/news/2023/11/analytic-hierarchy-process/
+설명 : 
+                         The analytic hierarchy process uses pairwise comparisons and scoring for criteria between the alternatives to give insights into what the best option is and why. John Riviello spoke about applying the analytic hierarchy process to decide what JavaScript framework to use at QCon New York 2023.
+                    
