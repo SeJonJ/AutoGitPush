@@ -1,13 +1,22 @@
 1 번째 검색 내용 
 제목 : 
 
+                            Microsoft Integrates Copilot with Azure Quantum Elements for Advancing Scientific Research
+                        
+주소 : https://www.infoq.com/news/2023/12/azure-quantum-elements/
+설명 : 
+                         At the recent Ignite conference, Microsoft demonstrated the advantages of combining AI and Azure Quantum Elements, a suite of services and tools for quantum chemistry and materials science. With the integration of Copilot, the new solution allows researchers to explore more materials, speed up chemistry simulations, and experiment with existing quantum hardware.
+                    
+2 번째 검색 내용 
+제목 : 
+
                             Automated Horizontal Scaling with Amazon Aurora Limitless Database
                         
 주소 : https://www.infoq.com/news/2023/12/amazon-aurora-limitless-database/
 설명 : 
                          AWS recently announced the preview of Amazon Aurora Limitless Database, a new capability supporting automated horizontal scaling to process millions of write transactions per second and manage petabytes of data in a single Aurora database.
                     
-2 번째 검색 내용 
+3 번째 검색 내용 
 제목 : 
 
                             Microsoft Open-Sources ThreadX and the Azure RTOS Development Suite
@@ -16,7 +25,7 @@
 설명 : 
                          Microsoft contributed Azure RTOS, including real-time OS ThreadX, to the Eclipse Foundation and made it available under the MIT license.
                     
-3 번째 검색 내용 
+4 번째 검색 내용 
 제목 : 
 
                             The Value of Repaying Good Technical Debt
@@ -25,7 +34,7 @@
 설명 : 
                          Bad technical debt is the stuff that has been lingering around; teams need to work around it or fix the fallout as a consequence of this bad technical debt. Good technical debt is intentional, enables benefits for the organisation, and is controlled. Teams can use a disciplined approach for managing and repaying technical debt, for instance by using the wall of technical debt.
                     
-4 번째 검색 내용 
+5 번째 검색 내용 
 제목 : 
 
                             Amazon Unveils Titan AI Image Generator
@@ -34,7 +43,7 @@
 설명 : 
                          Amazon unveiled Titan Image Generator, currently in preview for AWS customers on Bedrock, Amazon's AI development platform. As a member of Amazon's Titan family of generative AI models, Titan Image Generator has the capability to generate new images based on a text description or customize existing images.
                     
-5 번째 검색 내용 
+6 번째 검색 내용 
 제목 : 
 
                             AWS Introduces Amazon CloudFront KeyValueStore: a Low Latency Datastore for CloudFront Functions
@@ -43,7 +52,7 @@
 설명 : 
                          AWS recently announced Amazon CloudFront KeyValueStore, a secure global low-latency key-value datastore that allows read access from within CloudFront Functions, enabling advanced customizable logic at the CloudFront edge locations.
                     
-6 번째 검색 내용 
+7 번째 검색 내용 
 제목 : 
 
                             OCI Database: Oracle Embraces PostgreSQL
@@ -52,7 +61,7 @@
 설명 : 
                          Oracle has recently announced the general availability of OCI Database with PostgreSQL version 14.9. With the first managed PostgreSQL service available on Oracle Cloud, all cloud providers now offer a PostgreSQL-compatible managed option.
                     
-7 번째 검색 내용 
+8 번째 검색 내용 
 제목 : 
 
                             Amazon S3 Introduces High-Performance Storage Class
@@ -61,7 +70,7 @@
 설명 : 
                          During the recent re:Invent conference, AWS announced the general availability of S3 Express One Zone, a high-performance, single-AZ storage class that provides single-digit millisecond data access. Reducing request costs, the new storage class is designed for processing data in AI/ML training and financial modeling.
                     
-8 번째 검색 내용 
+9 번째 검색 내용 
 제목 : 
 
                             JEP 457: Streamlining Java Development with the Class-File API
@@ -70,7 +79,7 @@
 설명 : 
                          JEP 457, Class-File API (Preview), has been Integrated into JDK 22, proposing a new API for parsing, generating, and transforming Java class files. This API will initially replace ASM within the JDK with plans for a public API. Goetz, the Java language architect at Oracle, described ASM as outdated and provided details on the API's evolution.
                     
-9 번째 검색 내용 
+10 번째 검색 내용 
 제목 : 
 
                             AWS Announces Finch 1.0,  an Open Source Client for Container Development
@@ -79,7 +88,7 @@
 설명 : 
                          Recently, AWS announced the general availability of Finch, an open-source tool that aims to simplify container development on macOS. Finch allows users to build, run, and publish Linux containers on their macOS, and interact with container registries such as Amazon ECR.
                     
-10 번째 검색 내용 
+11 번째 검색 내용 
 제목 : 
 
                             Stability AI Open-Sources Video Generation Model Stable Video Diffusion
@@ -88,7 +97,7 @@
 설명 : 
                          Stability AI released the code and model weights for Stable Video Diffusion (SVD), a video generation AI model. When given an input image as context, the model can generate 25 video frames at a resolution of 576x1024 pixels.
                     
-11 번째 검색 내용 
+12 번째 검색 내용 
 제목 : 
 
                             Addressing Orphaned Pods on Netflix’s Titus Container Platform
@@ -97,7 +106,7 @@
 설명 : 
                          Netflix's engineering team disclosed the investigation, identification, and resolution of the issue about "orphaned" pods causing inconvenience to engineers on Titus, shedding light on the journey from kernel panics to Kubernetes (k8s) and ultimately providing operators with the tools to understand why nodes are going away
                     
-12 번째 검색 내용 
+13 번째 검색 내용 
 제목 : 
 
                             JHipster 8 Upgrades to Spring Boot 3, Hibernate 6.2, Node 18 LTS, Vue 3 and  Angular 16
@@ -106,7 +115,7 @@
 설명 : 
                          JHipster - the web and microservices applications generator - released its 8th version on November 2nd. Starting with this version Hashicorp Consul will be the default service discovery mechanism, devcontainer will be available and each application that acts as a gateway or is a monolith will have CORS enabled. Also, multiple versions were updated and unmaintained components were removed.
                     
-13 번째 검색 내용 
+14 번째 검색 내용 
 제목 : 
 
                             OpenSSL 3.2 Brings Support for QUIC, Windows Certificate Store, and More
@@ -115,7 +124,7 @@
 설명 : 
                          The latest version of OpenSSL, OpenSSL 3.2.0, brings significant new features, including client support for QUIC, new digital signature algorithms, new certificate compression options, SSL/TLS security level increase, and more.
                     
-14 번째 검색 내용 
+15 번째 검색 내용 
 제목 : 
 
                             Java News Roundup: JDK 22, Spring CVEs, Liberica JDK, JDKMon 21, Jupyter for Java, Gradle 8.5
@@ -123,13 +132,4 @@
 주소 : https://www.infoq.com/news/2023/12/java-news-roundup-nov27-2023/
 설명 : 
                          This week's Java roundup for November 27th, 2023, features news from OpenJDK, JDK 22, Jakarta Data 1.0-M2, JNoSQL 1.0.3, LibericaJDK, Spring CVEs, Spring Shell 3.2.0-RC1, Quarkus 3.6, Open Liberty 23.0.12-beta, Helidon 4.0.1, Hibernate Reactive 2.2, Hibernate Search 7.1-A1, Grails 5.3.4, Groovy 5.0.0-A3, Camel Quarkus 3.6, Maven 3.9.6, JDKMon 21, PrimeFaces 12.0.7, Jupyter for Java and Gradle 8.5.
-                    
-15 번째 검색 내용 
-제목 : 
-
-                            LinkedIn Migrates Espresso to HTTP2 and Reduces Connections by 88% and Latency by 75%
-                        
-주소 : https://www.infoq.com/news/2023/12/linkedin-espresso-http2/
-설명 : 
-                         LinkedIn was able to dramatically improve the scalability and performance of its Espresso database by migrating it from HTTP1.1 to HTTP2, resulting in a reduction in the number of connections, latency, and garbage collection times. To achieve these gains, the team had to optimize the Netty’s default HTTP2 stack to make it fit their needs.
                     
