@@ -1,22 +1,31 @@
 1 번째 검색 내용 
 제목 : 
 
+                            Google Launches New Multi-modal Gemini AI Model
+                        
+주소 : https://www.infoq.com/news/2023/12/google-launches-gemini/
+설명 : 
+                         On December 6, Alphabet released the first phase of its next-generation AI model, Gemini. Gemini was overseen and driven by its CEO, Sundar Pichai and Google DeepMind. Gemini is the first model to outperform human experts on MMLU (Massive Multitask Language Understanding), one of the most popular methods to test the performance of language models.
+                    
+2 번째 검색 내용 
+제목 : 
+
                             Microsoft Announces Git Partial Clone Support in Azure DevOps
                         
 주소 : https://www.infoq.com/news/2023/12/git-partial-clone-azure-devops/
 설명 : 
                          Azure DevOps has recently extended support for Git Partial Clone to all its users. Partial clones represent a streamlined version of git clones initiated through specific command line arguments. Repositories that employ partial clones have demonstrated an average reduction of 88.6% in cloning time.
                     
-2 번째 검색 내용 
+3 번째 검색 내용 
 제목 : 
 
-                            .NET Chiselled Ubuntu Container Images Are Now Generally Available
+                            .NET Chiselled Ubuntu Container Images Now Generally Available
                         
 주소 : https://www.infoq.com/news/2023/12/dotnet-ubuntu-chiselled-ga/
 설명 : 
-                         At the end of November, the .NET chiselled Ubuntu container images achieved general availability. Microsoft announced that images are now suitable for production to use across .NET 6, 7, and 8 versions. Stating that chiselled images are the result of a long-term partnership and design collaboration between Canonical and Microsoft.
+                         At the end of November, the .NET chiselled Ubuntu container images achieved general availability. Microsoft announced that images are now suitable for production to use across .NET 6, 7, and 8 versions, stating that chiselled images are the result of a long-term partnership and design collaboration between Canonical and Microsoft.
                     
-3 번째 검색 내용 
+4 번째 검색 내용 
 제목 : 
 
                             Ngrok JavaScript and Python SDKs Aim to Turn Ingress into a High-Level Abstraction
@@ -25,7 +34,7 @@
 설명 : 
                          The new ngrok JavaScript and Python SDKs enable embedding secure ingress into apps with a single line of code. It includes out-of-the-box support for capabilities such as high performance, resilience, security and observability, allowing developers to focus on their functional requirements.
                     
-4 번째 검색 내용 
+5 번째 검색 내용 
 제목 : 
 
                             Microsoft Integrates Copilot with Azure Quantum Elements for Advancing Scientific Research
@@ -33,15 +42,6 @@
 주소 : https://www.infoq.com/news/2023/12/azure-quantum-elements/
 설명 : 
                          At the recent Ignite conference, Microsoft demonstrated the advantages of combining AI and Azure Quantum Elements, a suite of services and tools for quantum chemistry and materials science. With the integration of Copilot, the new solution allows researchers to explore more materials, speed up chemistry simulations, and experiment with existing quantum hardware.
-                    
-5 번째 검색 내용 
-제목 : 
-
-                            Automated Horizontal Scaling with Amazon Aurora Limitless Database
-                        
-주소 : https://www.infoq.com/news/2023/12/amazon-aurora-limitless-database/
-설명 : 
-                         AWS recently announced the preview of Amazon Aurora Limitless Database, a new capability supporting automated horizontal scaling to process millions of write transactions per second and manage petabytes of data in a single Aurora database.
                     
 6 번째 검색 내용 
 제목 : 
@@ -55,13 +55,22 @@
 7 번째 검색 내용 
 제목 : 
 
+                            Automated Horizontal Scaling with Amazon Aurora Limitless Database
+                        
+주소 : https://www.infoq.com/news/2023/12/amazon-aurora-limitless-database/
+설명 : 
+                         AWS recently announced the preview of Amazon Aurora Limitless Database, a new capability supporting automated horizontal scaling to process millions of write transactions per second and manage petabytes of data in a single Aurora database.
+                    
+8 번째 검색 내용 
+제목 : 
+
                             The Value of Repaying Good Technical Debt
                         
 주소 : https://www.infoq.com/news/2023/12/repaying-good-technical-debt/
 설명 : 
                          Bad technical debt is the stuff that has been lingering around; teams need to work around it or fix the fallout as a consequence of this bad technical debt. Good technical debt is intentional, enables benefits for the organisation, and is controlled. Teams can use a disciplined approach for managing and repaying technical debt, for instance by using the wall of technical debt.
                     
-8 번째 검색 내용 
+9 번째 검색 내용 
 제목 : 
 
                             Amazon Unveils Titan AI Image Generator
@@ -70,7 +79,7 @@
 설명 : 
                          Amazon unveiled Titan Image Generator, currently in preview for AWS customers on Bedrock, Amazon's AI development platform. As a member of Amazon's Titan family of generative AI models, Titan Image Generator has the capability to generate new images based on a text description or customize existing images.
                     
-9 번째 검색 내용 
+10 번째 검색 내용 
 제목 : 
 
                             AWS Introduces Amazon CloudFront KeyValueStore: a Low Latency Datastore for CloudFront Functions
@@ -79,7 +88,7 @@
 설명 : 
                          AWS recently announced Amazon CloudFront KeyValueStore, a secure global low-latency key-value datastore that allows read access from within CloudFront Functions, enabling advanced customizable logic at the CloudFront edge locations.
                     
-10 번째 검색 내용 
+11 번째 검색 내용 
 제목 : 
 
                             OCI Database: Oracle Embraces PostgreSQL
@@ -88,7 +97,7 @@
 설명 : 
                          Oracle has recently announced the general availability of OCI Database with PostgreSQL version 14.9. With the first managed PostgreSQL service available on Oracle Cloud, all cloud providers now offer a PostgreSQL-compatible managed option.
                     
-11 번째 검색 내용 
+12 번째 검색 내용 
 제목 : 
 
                             Amazon S3 Introduces High-Performance Storage Class
@@ -97,7 +106,7 @@
 설명 : 
                          During the recent re:Invent conference, AWS announced the general availability of S3 Express One Zone, a high-performance, single-AZ storage class that provides single-digit millisecond data access. Reducing request costs, the new storage class is designed for processing data in AI/ML training and financial modeling.
                     
-12 번째 검색 내용 
+13 번째 검색 내용 
 제목 : 
 
                             JEP 457: Streamlining Java Development with the Class-File API
@@ -106,7 +115,7 @@
 설명 : 
                          JEP 457, Class-File API (Preview), has been Integrated into JDK 22, proposing a new API for parsing, generating, and transforming Java class files. This API will initially replace ASM within the JDK with plans for a public API. Goetz, the Java language architect at Oracle, described ASM as outdated and provided details on the API's evolution.
                     
-13 번째 검색 내용 
+14 번째 검색 내용 
 제목 : 
 
                             AWS Announces Finch 1.0,  an Open Source Client for Container Development
@@ -115,7 +124,7 @@
 설명 : 
                          Recently, AWS announced the general availability of Finch, an open-source tool that aims to simplify container development on macOS. Finch allows users to build, run, and publish Linux containers on their macOS, and interact with container registries such as Amazon ECR.
                     
-14 번째 검색 내용 
+15 번째 검색 내용 
 제목 : 
 
                             Stability AI Open-Sources Video Generation Model Stable Video Diffusion
@@ -123,13 +132,4 @@
 주소 : https://www.infoq.com/news/2023/12/stable-video-diffusion/
 설명 : 
                          Stability AI released the code and model weights for Stable Video Diffusion (SVD), a video generation AI model. When given an input image as context, the model can generate 25 video frames at a resolution of 576x1024 pixels.
-                    
-15 번째 검색 내용 
-제목 : 
-
-                            Addressing Orphaned Pods on Netflix’s Titus Container Platform
-                        
-주소 : https://www.infoq.com/news/2023/12/orphaned-pods-netflix-titus/
-설명 : 
-                         Netflix's engineering team disclosed the investigation, identification, and resolution of the issue about "orphaned" pods causing inconvenience to engineers on Titus, shedding light on the journey from kernel panics to Kubernetes (k8s) and ultimately providing operators with the tools to understand why nodes are going away
                     
