@@ -1,13 +1,22 @@
 1 번째 검색 내용 
 제목 : 
 
+                            Stream API Evolution: A Closer Look at JEP 461's Stream Gatherers
+                        
+주소 : https://www.infoq.com/news/2023/12/stream-api-evolution/
+설명 : 
+                         After its review concluded, JEP 461, Stream Gatherers (Preview), has been completed for JDK 22. This JEP proposes to enhance the Stream API to support custom intermediate operations. "This will allow stream pipelines to transform data in ways that are not easily achievable with the existing built-in intermediate operations."
+                    
+2 번째 검색 내용 
+제목 : 
+
                             JetBrains Launches AI Assistant Integrated in its 2023.3 Release IDEs
                         
 주소 : https://www.infoq.com/news/2023/12/jetbrains-ai-assistant-ga/
 설명 : 
                          JetBrains refreshes all of its IDEs in the last release of the year and promotes its integrated AI Assistant out of preview into general availability for paying customers. Besides its strong integration with the IDEs, JetBrains AI Assistant tries to stand out thanks to its support for multiple LLMs.
                     
-2 번째 검색 내용 
+3 번째 검색 내용 
 제목 : 
 
                             Microsoft's Orca 2 LLM Outperforms Models That Are 10x Larger
@@ -16,7 +25,7 @@
 설명 : 
                          Microsoft Research released its Orca 2 LLM, a fine-tuned version of Llama 2 that performs as well as or better than models that contain 10x the number of parameters. Orca 2 uses a synthetic training dataset and a new technique called Prompt Erasure to achieve this performance.
                     
-3 번째 검색 내용 
+4 번째 검색 내용 
 제목 : 
 
                             Amazon ElastiCache Serverless: a New Option for Scaling Cache Capacity Instantly
@@ -25,7 +34,7 @@
 설명 : 
                          AWS recently announced the general availability of Amazon ElastiCache Serverless, a new serverless option allowing users to quickly create a cache and instant scale capacity based on application traffic patterns. In addition, the serverless option is compatible with open-source caching solutions Redis and Memcached.
                     
-4 번째 검색 내용 
+5 번째 검색 내용 
 제목 : 
 
                             HashiCorp Terraform Cloud Operator for Kubernetes Improves Scalability and Performance
@@ -34,7 +43,7 @@
 설명 : 
                          HashiCorp has released v2 of their Terraform Cloud Operator for Kubernetes. The Operator enables managing Terraform Cloud workspaces through a single Kubernetes custom resource. The release adds support for multiple customer resources, setting the watch scope to specific namespaces, improved synchronization, and newly exposed metrics.
                     
-5 번째 검색 내용 
+6 번째 검색 내용 
 제목 : 
 
                             Java News Roundup: JDK 22 in Rampdown, JDK 23 Expert Group, Spring Cloud 2023.0, TornadoVM 1.0
@@ -43,7 +52,7 @@
 설명 : 
                          This week's Java roundup for December 4th, 2023 features news highlighting: JDK 22 having moved to Rampdown Phase One; formation of the JDK 23 expert group; JEP 464, Scope Values (Second Preview) targeted for JDK 22; Spring Cloud 2023.0.0; TornadoVM 1.0.0; and JHipster Lite 1.0.0.
                     
-6 번째 검색 내용 
+7 번째 검색 내용 
 제목 : 
 
                             Android Studio Hedgehog Upgrades to IntelliJ 2023.1, Improves Developer Experience, and More
@@ -52,7 +61,7 @@
 설명 : 
                          The latest release of Android Studio, dubbed Hedgehog, is now stable. It includes IntelliJ 2023.1, new features for improving app performance, boosting developer productivity, and creating UI using Jetpack Compose.
                     
-7 번째 검색 내용 
+8 번째 검색 내용 
 제목 : 
 
                             Apache Pinot 1.0 Provides a Realtime Distributed OLAP datastore
@@ -61,7 +70,7 @@
 설명 : 
                          Apache Pinot is an open source column-oriented distributed data store written in Java. Pinot is designed to use Online Analytical processing (OLAP) in order to answer multi-dimensional analytical (MDA) queries with low latency.
                     
-8 번째 검색 내용 
+9 번째 검색 내용 
 제목 : 
 
                             Google Launches New Multi-modal Gemini AI Model
@@ -70,7 +79,7 @@
 설명 : 
                          On December 6, Alphabet released the first phase of its next-generation AI model, Gemini. Gemini was overseen and driven by its CEO, Sundar Pichai and Google DeepMind. Gemini is the first model to outperform human experts on MMLU (Massive Multitask Language Understanding), one of the most popular methods to test the performance of language models.
                     
-9 번째 검색 내용 
+10 번째 검색 내용 
 제목 : 
 
                             Microsoft Announces Git Partial Clone Support in Azure DevOps
@@ -79,7 +88,7 @@
 설명 : 
                          Azure DevOps has recently extended support for Git Partial Clone to all its users. Partial clones represent a streamlined version of git clones initiated through specific command line arguments. Repositories that employ partial clones have demonstrated an average reduction of 88.6% in cloning time.
                     
-10 번째 검색 내용 
+11 번째 검색 내용 
 제목 : 
 
                             .NET Chiselled Ubuntu Container Images Now Generally Available
@@ -88,7 +97,7 @@
 설명 : 
                          At the end of November, the .NET chiselled Ubuntu container images achieved general availability. Microsoft announced that images are now suitable for production to use across .NET 6, 7, and 8 versions, stating that chiselled images are the result of a long-term partnership and design collaboration between Canonical and Microsoft.
                     
-11 번째 검색 내용 
+12 번째 검색 내용 
 제목 : 
 
                             Ngrok JavaScript and Python SDKs Aim to Turn Ingress into a High-Level Abstraction
@@ -97,7 +106,7 @@
 설명 : 
                          The new ngrok JavaScript and Python SDKs enable embedding secure ingress into apps with a single line of code. It includes out-of-the-box support for capabilities such as high performance, resilience, security and observability, allowing developers to focus on their functional requirements.
                     
-12 번째 검색 내용 
+13 번째 검색 내용 
 제목 : 
 
                             Microsoft Integrates Copilot with Azure Quantum Elements for Advancing Scientific Research
@@ -106,7 +115,7 @@
 설명 : 
                          At the recent Ignite conference, Microsoft demonstrated the advantages of combining AI and Azure Quantum Elements, a suite of services and tools for quantum chemistry and materials science. With the integration of Copilot, the new solution allows researchers to explore more materials, speed up chemistry simulations, and experiment with existing quantum hardware.
                     
-13 번째 검색 내용 
+14 번째 검색 내용 
 제목 : 
 
                             Automated Horizontal Scaling with Amazon Aurora Limitless Database
@@ -115,7 +124,7 @@
 설명 : 
                          AWS recently announced the preview of Amazon Aurora Limitless Database, a new capability supporting automated horizontal scaling to process millions of write transactions per second and manage petabytes of data in a single Aurora database.
                     
-14 번째 검색 내용 
+15 번째 검색 내용 
 제목 : 
 
                             Microsoft Open-Sources ThreadX and the Azure RTOS Development Suite
@@ -123,13 +132,4 @@
 주소 : https://www.infoq.com/news/2023/12/threads-rtos-open-sourced/
 설명 : 
                          Microsoft contributed Azure RTOS, including real-time OS ThreadX, to the Eclipse Foundation and made it available under the MIT license.
-                    
-15 번째 검색 내용 
-제목 : 
-
-                            The Value of Repaying Good Technical Debt
-                        
-주소 : https://www.infoq.com/news/2023/12/repaying-good-technical-debt/
-설명 : 
-                         Bad technical debt is the stuff that has been lingering around; teams need to work around it or fix the fallout as a consequence of this bad technical debt. Good technical debt is intentional, enables benefits for the organisation, and is controlled. Teams can use a disciplined approach for managing and repaying technical debt, for instance by using the wall of technical debt.
                     
