@@ -1,13 +1,31 @@
 1 번째 검색 내용 
 제목 : 
 
+                            AWS Improves Kubernetes Monitoring with New Enhanced Observability for Amazon EKS
+                        
+주소 : https://www.infoq.com/news/2023/12/aws-kubernetes-observability/
+설명 : 
+                         AWS has released several monitoring and observability-themed improvements. The releases include Amazon CloudWatch Container Insights with Enhanced Observability for Amazon EKS on EC2 a fully managed service that provides visibility into containerized workloads. Other releases include a new Amazon Managed Service for Prometheus collector and Amazon Managed Grafana community plugins.
+                    
+2 번째 검색 내용 
+제목 : 
+
+                            AWS Exposes Free Tier API to Help Developers Avoid Unexpected Bills
+                        
+주소 : https://www.infoq.com/news/2023/12/aws-free-tier-api/
+설명 : 
+                         AWS has recently introduced a Free Tier API allowing developers to check their AWS Free Tier usage and monitor progress toward the free tier limits. This API can be accessed directly through the AWS CLI or integrated into applications using the SDKs, reducing the chance of unexpected bills.
+                    
+3 번째 검색 내용 
+제목 : 
+
                             Microsoft Released ML.NET 3.0: Deep Learning and Data Processing Improvements
                         
 주소 : https://www.infoq.com/news/2023/12/ml-dotnet-3-release/
 설명 : 
                          ML.NET version 3.0 has been officially released, introducing new features and enhancements. Notably, deep learning capabilities have been significantly expanded with advancements in Object Detection, Named Entity Recognition, and Question Answering and more.
                     
-2 번째 검색 내용 
+4 번째 검색 내용 
 제목 : 
 
                             Amazon RDS Now Supports IBM Db2
@@ -16,7 +34,7 @@
 설명 : 
                          During the recent re:Invent conference, AWS announced that Amazon RDS now offers support for IBM Db2, including both the Standard Edition and Advanced Edition. Db2 becomes the sixth engine supported by this managed database service, joining PostgreSQL, MySQL, MariaDB, SQL Server, and Oracle.
                     
-3 번째 검색 내용 
+5 번째 검색 내용 
 제목 : 
 
                             Microsoft Announces Copilot for Azure, an AI Assistant for IT Professionals
@@ -25,7 +43,7 @@
 설명 : 
                          Microsoft has introduced Copilot for Azure, an AI-based tool designed to enhance the management and operation of cloud infrastructure and services. It leverages the capabilities of large language models (LLMs) with Azure's Resource Model to provide a comprehensive understanding and handling of Azure's functionalities, spanning from cloud services to edge technology.
                     
-4 번째 검색 내용 
+6 번째 검색 내용 
 제목 : 
 
                             JEP 423: Introducing Region Pinning to G1 Garbage Collector in OpenJDK
@@ -34,7 +52,7 @@
 설명 : 
                          After its review concluded, JEP 423, Region Pinning for G1, has been Integrated into JDK 22. This JEP proposes to reduce GC latency by implementing region pinning for the G1 garbage collector. This will extend G1 so that arbitrary regions may be pinned during both major and minor collection operations, so that disabling the garbage collection process may be avoided while implementing JNI.
                     
-5 번째 검색 내용 
+7 번째 검색 내용 
 제목 : 
 
                             Spring Boot 3.2 Delivers Support for Virtual Threads and Modern RestClient and JdbcClient
@@ -43,7 +61,7 @@
 설명 : 
                          The Spring Boot team released Spring Boot 3.2 in November 2023. This latest release is packed with features, the most noteworthy of which is the support for Virtual Threads and Coordinated Restore at Checkpoint (CRaC). Other features include SSL Bundle reloading, Rest Client and JDBC Client interface support, observability improvements, and many others.
                     
-6 번째 검색 내용 
+8 번째 검색 내용 
 제목 : 
 
                             Meta and IBM Lead Formation of AI Alliance to Drive Open-Source Innovation
@@ -52,7 +70,7 @@
 설명 : 
                          A new consortium, led by Meta and IBM, has been formed to support open-source AI. The AI Alliance comprises numerous organizations from various sectors, including software, hardware, nonprofit, public, and academic, with the goal of collaboratively developing tools and programs to facilitate open development.
                     
-7 번째 검색 내용 
+9 번째 검색 내용 
 제목 : 
 
                             Why Leading without Blame Matters to Leaders and Teams
@@ -61,7 +79,7 @@
 설명 : 
                          According to Diana Larsen, a culture of blame is a waste of human potential. People cannot achieve their best and most creative work when their energy goes into avoiding shame and blame. To lead without blame requires a shift toward learning and curiosity, she argues. It begins by building or restoring a relationship of trust and trustworthiness with the people.
                     
-8 번째 검색 내용 
+10 번째 검색 내용 
 제목 : 
 
                             Intuitive Application Resource Management with myApplications in the AWS Management Console
@@ -70,7 +88,7 @@
 설명 : 
                          AWS recently announced at its re:Invent conference the general availability of myApplications. myApplications in the AWS Management Console can help customers manage and monitor the cost, health, security posture, and performance of their applications on AWS more effectively.
                     
-9 번째 검색 내용 
+11 번째 검색 내용 
 제목 : 
 
                             Stream API Evolution: a Closer Look at JEP 461's Stream Gatherers
@@ -79,7 +97,7 @@
 설명 : 
                          After its review concluded, JEP 461, Stream Gatherers (Preview), has been completed for JDK 22. This JEP proposes to enhance the Stream API to support custom intermediate operations. "This will allow stream pipelines to transform data in ways that are not easily achievable with the existing built-in intermediate operations."
                     
-10 번째 검색 내용 
+12 번째 검색 내용 
 제목 : 
 
                             JetBrains Launches AI Assistant Integrated in its 2023.3 Release IDEs
@@ -88,7 +106,7 @@
 설명 : 
                          JetBrains refreshes all of its IDEs in the last release of the year and promotes its integrated AI Assistant out of preview into general availability for paying customers. Besides its strong integration with the IDEs, JetBrains AI Assistant tries to stand out thanks to its support for multiple LLMs.
                     
-11 번째 검색 내용 
+13 번째 검색 내용 
 제목 : 
 
                             Microsoft's Orca 2 LLM Outperforms Models That Are 10x Larger
@@ -97,7 +115,7 @@
 설명 : 
                          Microsoft Research released its Orca 2 LLM, a fine-tuned version of Llama 2 that performs as well as or better than models that contain 10x the number of parameters. Orca 2 uses a synthetic training dataset and a new technique called Prompt Erasure to achieve this performance.
                     
-12 번째 검색 내용 
+14 번째 검색 내용 
 제목 : 
 
                             Amazon ElastiCache Serverless: a New Option for Scaling Cache Capacity Instantly
@@ -106,7 +124,7 @@
 설명 : 
                          AWS recently announced the general availability of Amazon ElastiCache Serverless, a new serverless option allowing users to quickly create a cache and instant scale capacity based on application traffic patterns. In addition, the serverless option is compatible with open-source caching solutions Redis and Memcached.
                     
-13 번째 검색 내용 
+15 번째 검색 내용 
 제목 : 
 
                             HashiCorp Terraform Cloud Operator for Kubernetes Improves Scalability and Performance
@@ -114,22 +132,4 @@
 주소 : https://www.infoq.com/news/2023/12/hashicorp-terraform-kubernetes/
 설명 : 
                          HashiCorp has released v2 of their Terraform Cloud Operator for Kubernetes. The Operator enables managing Terraform Cloud workspaces through a single Kubernetes custom resource. The release adds support for multiple customer resources, setting the watch scope to specific namespaces, improved synchronization, and newly exposed metrics.
-                    
-14 번째 검색 내용 
-제목 : 
-
-                            Java News Roundup: JDK 22 in Rampdown, JDK 23 Expert Group, Spring Cloud 2023.0, TornadoVM 1.0
-                        
-주소 : https://www.infoq.com/news/2023/12/java-news-roundup-dec04-2023/
-설명 : 
-                         This week's Java roundup for December 4th, 2023, features news highlighting: JDK 22 having moved to Rampdown Phase One; formation of the JDK 23 expert group; JEP 464, Scope Values (Second Preview) targeted for JDK 22; Spring Cloud 2023.0.0; TornadoVM 1.0.0; and JHipster Lite 1.0.0.
-                    
-15 번째 검색 내용 
-제목 : 
-
-                            Android Studio Hedgehog Upgrades to IntelliJ 2023.1, Improves Developer Experience, and More
-                        
-주소 : https://www.infoq.com/news/2023/12/android-studio-hedgehog-stable/
-설명 : 
-                         The latest release of Android Studio, dubbed Hedgehog, is now stable. It includes IntelliJ 2023.1, new features for improving app performance, boosting developer productivity, and creating UI using Jetpack Compose.
                     
