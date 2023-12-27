@@ -1,13 +1,22 @@
 1 번째 검색 내용 
 제목 : 
 
+                            Why LinkedIn chose gRPC+Protobuf over REST+JSON: Q&A with Karthik Ramgopal and Min Chen
+                        
+주소 : https://www.infoq.com/news/2023/12/linkedin-grpc-protobuf-rest-json/
+설명 : 
+                         LinkedIn announced that it would be moving to gRPC with Protocol Buffers for the inter-service communication in its microservices platform, where previously an open-source Rest.li framework was used with JSON as a primary serialization format. InfoQ contacted Karthik Ramgopal and Min Chen to learn more about the decision and company motivations behind it.
+                    
+2 번째 검색 내용 
+제목 : 
+
                             Zoom Open-sources New Vulnerability Impact Scoring System VISS
                         
 주소 : https://www.infoq.com/news/2023/12/zoom-vulnerability-score-viss/
 설명 : 
                          Zoom Vulnerability Impact Scoring System, or VISS for short, aims to help organizations enforce security measures based on a new approach to vulnerability scoring that prioritizes actual demonstrated impact over theoretical security impact possibilities.
                     
-2 번째 검색 내용 
+3 번째 검색 내용 
 제목 : 
 
                             OpenAI Publishes GPT Prompt Engineering Guide
@@ -16,7 +25,7 @@
 설명 : 
                          OpenAI recently published a guide to Prompt Engineering. The guide lists six strategies for eliciting better responses from their GPT models, with a particular focus on examples for their latest version, GPT-4.
                     
-3 번째 검색 내용 
+4 번째 검색 내용 
 제목 : 
 
                             .NET Aspire - Preview 2: Improvements for Dashboard, Hosting, Components, Dapr, and More
@@ -25,7 +34,7 @@
 설명 : 
                          Last week Microsoft announced the availability of the .NET Aspire second preview. This preview brings changes and improvements regarding the dashboard, hosting, components, Dapr and many more. The .NET Aspire is a new cloud-native development stack announced by Microsoft and the .NET team back in November during the .NET Conf Event.
                     
-4 번째 검색 내용 
+5 번째 검색 내용 
 제목 : 
 
                             Java News Roundup: Jakarta EE 11-M1, Payara Platform, Quarkus Release Plan, Spring Releases
@@ -34,7 +43,7 @@
 설명 : 
                          This week's Java roundup for December 18th, 2023 features news highlighting: Jakarta EE 11-M1 and GA release plan; Payara Platform December 2023 release; point releases for Spring Boot, Spring Cloud and Spring Security; Quakrus release plan; and CVE-2023-46131, a Grails data binding vulnerability.
                     
-5 번째 검색 내용 
+6 번째 검색 내용 
 제목 : 
 
                             Using Gemini AI in Android Apps with the New Google AI SDK
@@ -43,7 +52,7 @@
 설명 : 
                          Google introduced its new Google AI SDK to simplify integrating Gemini Pro, its best-performing model to date, in Android apps. Using this SDK, developers need not build and manage their own backend infrastructure.
                     
-6 번째 검색 내용 
+7 번째 검색 내용 
 제목 : 
 
                             Amazon Q Code Transformation: Automating Java Application Upgrades
@@ -52,7 +61,7 @@
 설명 : 
                          AWS has recently announced the preview of Amazon Q Code Transformation, a service designed to simplify the process of upgrading existing Java application code through generative artificial intelligence. The new feature aims to minimize legacy code and automate common language upgrade tasks required to move off older language versions.
                     
-7 번째 검색 내용 
+8 번째 검색 내용 
 제목 : 
 
                             AWS Unveils Fourth-Generation Graviton Processor with R8g EC2 Instances
@@ -61,7 +70,7 @@
 설명 : 
                          During the recent re:Invent, AWS announced the preview of memory-optimized R8g instances powered by the fourth-generation Graviton processor. The new instances are designed for memory-intensive workloads, including databases, in-memory caches, and real-time big data analytics.
                     
-8 번째 검색 내용 
+9 번째 검색 내용 
 제목 : 
 
                             NuGet 6.8 Released with Enhanced Security Features
@@ -70,7 +79,7 @@
 설명 : 
                          NuGet 6.8 was released and integration with Visual Studio 2022 has been introduced. NuGet 6.8 brings significant enhancements, including NuGetAudit for package vulnerability notifications, an opt-out option for HTTPS Everywhere warnings, Package Source Mappings, Conditional Package Updating in Visual Studio, and more.
                     
-9 번째 검색 내용 
+10 번째 검색 내용 
 제목 : 
 
                             The Frugal Architect: AWS Promotes Cost Awareness for Sustainability
@@ -79,7 +88,7 @@
 설명 : 
                          Dr. Werner Vogels, AWS' CTO, dedicated the first part of his re:Invent keynote to discussing the laws of frugal architectures, cloud-native architectures aiming at delivering cost-aware, sustainable, and maintainable solutions. Vogels laid out seven simple laws based on his and AWS’ experience building and evolving cloud platform services, with cost implications as one of the primary drivers.
                     
-10 번째 검색 내용 
+11 번째 검색 내용 
 제목 : 
 
                             Adopting Agile in Specific Business Domains Using Domain-Driven Agility
@@ -88,7 +97,7 @@
 설명 : 
                          According to Nikola Bogdanov, the real challenge in agile transformations is adapting to business domain specifics and industry constraints; understanding agile is not the problem that needs to be solved. He presented domain-driven agility which utilizes design thinking to visualize agile adoption and make it empirical.
                     
-11 번째 검색 내용 
+12 번째 검색 내용 
 제목 : 
 
                             InfoQ Dev Summit in Boston: Two Days of Talks for Senior Developers
@@ -97,7 +106,7 @@
 설명 : 
                          InfoQ is delighted to announce a new two-day conference, InfoQ Dev Summit Boston 2024, taking place June 24-25, 2024. This event is designed to help senior developers navigate their immediate development challenges, focusing exclusively on the technical aspects that matter right now.
                     
-12 번째 검색 내용 
+13 번째 검색 내용 
 제목 : 
 
                             AWS Announces Amazon Braket Direct: Reserve Dedicated Capacity on Different Quantum Devices
@@ -106,7 +115,7 @@
 설명 : 
                          AWS recently announced the availability of Amazon Braket Direct, a new Amazon Braket program allowing quantum researchers to dive deeper into quantum computing.
                     
-13 번째 검색 내용 
+14 번째 검색 내용 
 제목 : 
 
                             BellSoft Released Liberica with CRaC for Improved Startup Speed of Applications
@@ -115,7 +124,7 @@
 설명 : 
                          BellSoft has released versions 17 and 21 Liberica JDK with Coordinated Restore at Checkpoint (CRaC). This feature allows developers to create a snapshot of a running application at any point in time (checkpoint). This snapshot is then used to start the application in milliseconds by restoring the state of the application.
                     
-14 번째 검색 내용 
+15 번째 검색 내용 
 제목 : 
 
                             Microsoft Announces Small Language Model Phi-2
@@ -123,13 +132,4 @@
 주소 : https://www.infoq.com/news/2023/12/microsoft-llm-phi/
 설명 : 
                          Microsoft Research announced Phi-2, a 2.7 billion-parameter Transformer-based language model. Phi-2 is trained on 1.4T tokens of synthetic data generated by GPT-3.5 and outperforms larger models on a variety of benchmarks.
-                    
-15 번째 검색 내용 
-제목 : 
-
-                            Cloudflare's Journey in ML and AI: MLOps Platform and Best Practices
-                        
-주소 : https://www.infoq.com/news/2023/12/cloudflare-mlops-platform/
-설명 : 
-                         Cloudflare's blog described its MLOps platform and best practices for running Artificial Intelligence (AI) deployment at scale. Cloudflare's products, including WAF attack scoring, bot management, and global threat identification, rely on constantly evolving Machine Learning (ML) models. These models are pivotal in enhancing customer protection and augmenting support services.
                     
