@@ -1,0 +1,135 @@
+1 번째 검색 내용 
+제목 : 
+
+                            Collecting Git Performance Data Using trace2receiver and OpenTelemetry
+                        
+주소 : https://www.infoq.com/news/2023/12/git-perf-data-telemetry/
+설명 : 
+                         GitHub recently introduced trace2receiver, an open-source tool that integrates with OpenTelemetry to analyze Git performance data. This tool allows users to identify performance issues, detect early signs of trouble, and highlight areas where Git itself can be enhanced.
+                    
+2 번째 검색 내용 
+제목 : 
+
+                            Stable Diffusion in Java (SD4J) Enables Generating Images With Deep Learning
+                        
+주소 : https://www.infoq.com/news/2023/12/stable-diffusion-in-java/
+설명 : 
+                         Stable Diffusion in Java (SD4J) is a modified port of the Stable Diffusion C# implementation with support for negative text inputs. Stable diffusion is a deep learning text to image model based on diffusion. SD4J can be used, via the GUI or programmatically in Java applications, to generate images.
+                    
+3 번째 검색 내용 
+제목 : 
+
+                            Zendesk Moves from DynamoDB to MySQL and S3 to Save over 80% in Costs
+                        
+주소 : https://www.infoq.com/news/2023/12/zendesk-dynamodb-mysql-s3-cost/
+설명 : 
+                         Zendesk reduced its data storage costs by over 80% by migrating from DynamoDB to a tiered storage solution using MySQL and S3. The company considered different storage technologies and decided to combine the relational database and the object store to strike a balance between querybility and scalability while keeping the costs down.
+                    
+4 번째 검색 내용 
+제목 : 
+
+                            Quarkus LangChain4J Extension Allows Developers to Integrate LLMs in Their Quarkus Applications
+                        
+주소 : https://www.infoq.com/news/2023/12/quarkus-langchain-llm-integratio/
+설명 : 
+                         Inspired by the presentation “Java Meets AI” at Devoxx BE 2023, the Quarkus team started working on an extension based on the LangChain4J library, the Java re-implementation of the langchain library. This would allow developers to integrate LLMs Quarkus applications. The current is version, 0.5. The extension was built using Quarkus' usual declarative style, resembling the REST client.
+                    
+5 번째 검색 내용 
+제목 : 
+
+                            Upsides and Downsides of Open Source Adoption
+                        
+주소 : https://www.infoq.com/news/2023/12/upsides-downsides-open-source/
+설명 : 
+                         Benefits of open source projects are supporting rapid innovation, the flexibility provided to customize and adapt tools, and transparency of the code which can enhance security efforts. The downsides are that security by obscurity doesn’t apply, open source is potentially prone to abuse, and when open source tools are not backed up by companies, it might result in a lower level of maintainability.
+                    
+6 번째 검색 내용 
+제목 : 
+
+                            Google Unveils Duet AI for Developers Offering AI-Powered Coding Assistance and Chat Functionality
+                        
+주소 : https://www.infoq.com/news/2023/12/google-duet-ai-developers/
+설명 : 
+                         Recently, Google announced the general availability (GA) of its Duet AI for Developers, providing developers with IDE coding assistant and chat.
+                    
+7 번째 검색 내용 
+제목 : 
+
+                            GitLab Launches Browser-Based Dynamic Application Security Testing (DAST) Scan
+                        
+주소 : https://www.infoq.com/news/2023/12/gitlab-browser-based-dast/
+설명 : 
+                         GitLab has recently introduced a browser-based Dynamic Application Security Testing (DAST) feature in version 16.4 (or DAST 4.0.9). This development is part of GitLab's ongoing efforts to enhance browser-based DAST by integrating passive checks. The release includes active check-in capabilities.
+                    
+8 번째 검색 내용 
+제목 : 
+
+                            Why LinkedIn chose gRPC+Protobuf over REST+JSON: Q&A with Karthik Ramgopal and Min Chen
+                        
+주소 : https://www.infoq.com/news/2023/12/linkedin-grpc-protobuf-rest-json/
+설명 : 
+                         LinkedIn announced that it would be moving to gRPC with Protocol Buffers for the inter-service communication in its microservices platform, where previously an open-source Rest.li framework was used with JSON as a primary serialization format. InfoQ contacted Karthik Ramgopal and Min Chen to learn more about the decision and company motivations behind it.
+                    
+9 번째 검색 내용 
+제목 : 
+
+                            Zoom Open-sources New Vulnerability Impact Scoring System VISS
+                        
+주소 : https://www.infoq.com/news/2023/12/zoom-vulnerability-score-viss/
+설명 : 
+                         Zoom Vulnerability Impact Scoring System, or VISS for short, aims to help organizations enforce security measures based on a new approach to vulnerability scoring that prioritizes actual demonstrated impact over theoretical security impact possibilities.
+                    
+10 번째 검색 내용 
+제목 : 
+
+                            OpenAI Publishes GPT Prompt Engineering Guide
+                        
+주소 : https://www.infoq.com/news/2023/12/openai-prompt-engineering/
+설명 : 
+                         OpenAI recently published a guide to Prompt Engineering. The guide lists six strategies for eliciting better responses from their GPT models, with a particular focus on examples for their latest version, GPT-4.
+                    
+11 번째 검색 내용 
+제목 : 
+
+                            .NET Aspire - Preview 2: Improvements for Dashboard, Hosting, Components, Dapr, and More
+                        
+주소 : https://www.infoq.com/news/2023/12/dotnet-aspire-preview2/
+설명 : 
+                         Last week Microsoft announced the availability of the .NET Aspire second preview. This preview brings changes and improvements regarding the dashboard, hosting, components, Dapr and many more. The .NET Aspire is a new cloud-native development stack announced by Microsoft and the .NET team back in November during the .NET Conf Event.
+                    
+12 번째 검색 내용 
+제목 : 
+
+                            Java News Roundup: Jakarta EE 11-M1, Payara Platform, Quarkus Release Plan, Spring Releases
+                        
+주소 : https://www.infoq.com/news/2023/12/java-news-roundup-dec18-2023/
+설명 : 
+                         This week's Java roundup for December 18th, 2023, features news highlighting: Jakarta EE 11-M1 and GA release plan; Payara Platform December 2023 release; point releases for Spring Boot, Spring Cloud and Spring Security; Quakrus release plan; and CVE-2023-46131, a Grails data binding vulnerability.
+                    
+13 번째 검색 내용 
+제목 : 
+
+                            Using Gemini AI in Android Apps with the New Google AI SDK
+                        
+주소 : https://www.infoq.com/news/2023/12/gemini-pro-android-sdk/
+설명 : 
+                         Google introduced its new Google AI SDK to simplify integrating Gemini Pro, its best-performing model to date, in Android apps. Using this SDK, developers need not build and manage their own backend infrastructure.
+                    
+14 번째 검색 내용 
+제목 : 
+
+                            Amazon Q Code Transformation: Automating Java Application Upgrades
+                        
+주소 : https://www.infoq.com/news/2023/12/amazon-q-code-transformation/
+설명 : 
+                         AWS has recently announced the preview of Amazon Q Code Transformation, a service designed to simplify the process of upgrading existing Java application code through generative artificial intelligence. The new feature aims to minimize legacy code and automate common language upgrade tasks required to move off older language versions.
+                    
+15 번째 검색 내용 
+제목 : 
+
+                            AWS Unveils Fourth-Generation Graviton Processor with R8g EC2 Instances
+                        
+주소 : https://www.infoq.com/news/2023/12/aws-ec2-graviton4/
+설명 : 
+                         During the recent re:Invent, AWS announced the preview of memory-optimized R8g instances powered by the fourth-generation Graviton processor. The new instances are designed for memory-intensive workloads, including databases, in-memory caches, and real-time big data analytics.
+                    
