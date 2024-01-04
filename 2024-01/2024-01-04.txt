@@ -1,0 +1,135 @@
+1 번째 검색 내용 
+제목 : 
+
+                            OpenSSF Adds Attestations to SBOMs to Validate How Software is Built
+                        
+주소 : https://www.infoq.com/news/2024/01/sbomit-attestations/
+설명 : 
+                         The Open Source Security Foundation (OpenSSF) has recently announced SBOMit, a tool designed to bolster Software Bills of Materials (SBOMs) with in-toto attestations. This development, announced under the OpenSSF Security Tooling Working Group, increases transparency and security in the software development process.
+                    
+2 번째 검색 내용 
+제목 : 
+
+                            Roblox Builds New Cellular Infrastructure to Improve Gaming Experience
+                        
+주소 : https://www.infoq.com/news/2024/01/roblox-cellular-infrastructure/
+설명 : 
+                         The online game platform and creation system Roblox has detailed how they have made their infrastructure more efficient and resilient, to support the demands of more than 70 million active daily users engaged in immersive 3D experiences.
+                    
+3 번째 검색 내용 
+제목 : 
+
+                            Waymo Publishes Report Showing Lower Crash Rates Than Human Drivers
+                        
+주소 : https://www.infoq.com/news/2024/01/waymo-safety-report/
+설명 : 
+                         Alphabet's autonomous taxi company Waymo recently published a report showing its autonomous driver software outperforms human drivers on several benchmarks. The analysis covers over seven million miles of driving with no human behind the wheel, with Waymo cars having a 85% reduction in crashes involving an injury.
+                    
+4 번째 검색 내용 
+제목 : 
+
+                            Java News Roundup: GlassFish 8.0-M1, 2023 Highlights from Spring, BellSoft and WildFly
+                        
+주소 : https://www.infoq.com/news/2024/01/java-news-roundup-dec25-2023/
+설명 : 
+                         It was very quiet for the week of December 25th, 2023, but InfoQ found a few news items of interest that include: Eclipse GlassFish 8.0.0-M1, Apache Camel 3.22.0, Gradle 8.6-RC1, an updated draft specification for JEP 455, and retrospectives into the 2023 highlights from Spring, BellSoft and WildFly.
+                    
+5 번째 검색 내용 
+제목 : 
+
+                            Uber’s Checkenv Detects Cross-Environment RPC Calls to Prevent Data Leakage
+                        
+주소 : https://www.infoq.com/news/2024/01/uber-checkenv/
+설명 : 
+                         Uber introduces CheckEnv, a tool using graphs to detect and manage cross-environment RPC calls in microservices, enhancing system reliability and preventing unintended interactions.
+                    
+6 번째 검색 내용 
+제목 : 
+
+                            Griffin 2.0: Instacart Revamps Its Machine Learning Platform
+                        
+주소 : https://www.infoq.com/news/2024/01/instacart-machine-learning/
+설명 : 
+                         Instacart created the next-generation platform based on experiences using the original Griffin machine-learning platform. The company wanted to improve user experience and help manage all ML workloads. The revamped platform leverages the latest developments in MLOps and introduces new capabilities for current and future applications.
+                    
+7 번째 검색 내용 
+제목 : 
+
+                            MySQL Introduces Javascript Support in Preview
+                        
+주소 : https://www.infoq.com/news/2024/01/mysql-javascript-procedures/
+설명 : 
+                         Oracle recently announced that the MySQL database server now supports JavaScript functions and procedures. JavaScript for stored routines is currently in preview and only available in the MySQL Enterprise Edition and MySQL Heatwave.
+                    
+8 번째 검색 내용 
+제목 : 
+
+                            Styra's Policy as Code Report: Identity and Access Management Drives Adoption
+                        
+주소 : https://www.infoq.com/news/2023/12/styra-policy-as-code-report/
+설명 : 
+                         The State of Policy as Code report from Styra, based on a survey of 285 U.S. developers and technical decision-makers, highlighted that 97% of respondents believe policy as code is crucial for efficient software building in cloud environments. The report's key findings highlight policy as the code's role in enhancing development efficiency, security, and simplicity.
+                    
+9 번째 검색 내용 
+제목 : 
+
+                            Amazon Route 53 Resolver Introduces DNS over HTTPS Support for Enhanced Security and Compliance
+                        
+주소 : https://www.infoq.com/news/2023/12/amazon-route-53-resolver-doh/
+설명 : 
+                         AWS recently announced that Amazon Route 53 Resolver will support using the Domain Name System (DNS) over HTTPS (DoH) protocol for both inbound and outbound Resolver endpoints.
+                    
+10 번째 검색 내용 
+제목 : 
+
+                            Microsoft.CodeCoverage v17.8 Released with New dotnet-coverage Tool and Other Improvements
+                        
+주소 : https://www.infoq.com/news/2023/12/microsoft-code-coverage-17-8/
+설명 : 
+                         Microsoft recently revealed an upgraded version of its developer tools, version 17.8.0, introducing significant improvements to Microsoft.CodeCoverage tools. Notably, the update includes the introduction of the dotnet-coverage tool. Additional enhancements comprise new report formats, an auto-merge tool, performance upgrades, and improved documentation.
+                    
+11 번째 검색 내용 
+제목 : 
+
+                            Amazon Aurora Introduces Long-Awaited RDS Data API to Simplify Serverless Workloads
+                        
+주소 : https://www.infoq.com/news/2023/12/aurora-serverless-data-api/
+설명 : 
+                         Recently, AWS introduced a new Data API for Aurora Serverless v2 and Aurora provisioned database instances. Currently available for PostgreSQL clusters only, the Data API doesn't require persistent connections to a database cluster, addressing a long-awaited need among developers to simplify serverless deployments.
+                    
+12 번째 검색 내용 
+제목 : 
+
+                            Bazel 7 Released with New Dependency Management System and More
+                        
+주소 : https://www.infoq.com/news/2023/12/bazel-7-released/
+설명 : 
+                         Recently announced at BazelCon 23, Bazel 7 materializes several new features that have been in development for multiple years, including the new modular external dependency management system Bzlmod, a new optimizing "Build without the Bytes" mode, improved multi-target build performance thanks to Project Skymeld, and more.
+                    
+13 번째 검색 내용 
+제목 : 
+
+                            Collecting Git Performance Data Using trace2receiver and OpenTelemetry
+                        
+주소 : https://www.infoq.com/news/2023/12/git-perf-data-telemetry/
+설명 : 
+                         GitHub recently introduced trace2receiver, an open-source tool that integrates with OpenTelemetry to analyze Git performance data. This tool allows users to identify performance issues, detect early signs of trouble, and highlight areas where Git itself can be enhanced.
+                    
+14 번째 검색 내용 
+제목 : 
+
+                            Stable Diffusion in Java (SD4J) Enables Generating Images with Deep Learning
+                        
+주소 : https://www.infoq.com/news/2023/12/stable-diffusion-in-java/
+설명 : 
+                         Stable Diffusion in Java (SD4J) is a modified port of the Stable Diffusion C# implementation with support for negative text inputs. Stable diffusion is a deep learning text to image model based on diffusion. SD4J can be used, via the GUI or programmatically in Java applications, to generate images.
+                    
+15 번째 검색 내용 
+제목 : 
+
+                            Zendesk Moves from DynamoDB to MySQL and S3 to Save over 80% in Costs
+                        
+주소 : https://www.infoq.com/news/2023/12/zendesk-dynamodb-mysql-s3-cost/
+설명 : 
+                         Zendesk reduced its data storage costs by over 80% by migrating from DynamoDB to a tiered storage solution using MySQL and S3. The company considered different storage technologies and decided to combine the relational database and the object store to strike a balance between querybility and scalability while keeping the costs down.
+                    
