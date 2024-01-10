@@ -1,0 +1,135 @@
+1 번째 검색 내용 
+제목 : 
+
+                            Researchers at Stanford Use Brain Signals to Control Intelligent Robots
+                        
+주소 : https://www.infoq.com/news/2024/01/noir-using-eeg-robot-control/
+설명 : 
+                         In a paper presented at the 7th Annual Conference on Robot Learning last November, a team of Stanford University researchers presented an intelligent human brain-robot interface that enables controlling a robot through brain signals. Dubbed NOIR, short for Neural Signal Operated Intelligent Robots, the system uses electroencephalography (EEG) to communicate human intentions to the robots.
+                    
+2 번째 검색 내용 
+제목 : 
+
+                            JEP 447: Refining Java Constructors for Enhanced Flexibility
+                        
+주소 : https://www.infoq.com/news/2024/01/java-constructors-enhancement/
+설명 : 
+                         After its review concluded, JEP 447, Statements before super(...) (Preview), was delivered for JDK 22. This JEP, under Project Amber, proposes to allow statements that do not reference an instance being created to appear before super() calls in a constructor and preserve existing safety and initialization guarantees for constructors.
+                    
+3 번째 검색 내용 
+제목 : 
+
+                            OpenAI Adopts Preparedness Framework for AI Safety
+                        
+주소 : https://www.infoq.com/news/2024/01/openai-safety-framework/
+설명 : 
+                         OpenAI recently published a beta version of their Preparedness Framework for mitigating AI risks. The framework lists four risk categories and definitions of risk levels for each, as well as defining OpenAI's safety governance procedures.
+                    
+4 번째 검색 내용 
+제목 : 
+
+                            Java News Roundup: Spring Shell, Micronaut, JReleaser, JobRunr
+                        
+주소 : https://www.infoq.com/news/2024/01/java-news-roundup-jan01-2024/
+설명 : 
+                         This week's Java roundup for January 1st, 2024 features news highlighting: Spring Shell, Micronaut, JReleaser, JobRunr, Sharat Chander acknowledging the 2023 accomplishments from the Java Community, and 2023 highlights from the Apache Camel projects.
+                    
+5 번째 검색 내용 
+제목 : 
+
+                            AWS to Shut down Aurora Serverless v1, Their Sole Relational Database with Scaling Capacity to Zero
+                        
+주소 : https://www.infoq.com/news/2024/01/aurora-serverless-v1-retirement/
+설명 : 
+                         Recently, AWS notified existing customers running Amazon Aurora that Serverless v1 support will be discontinued, with the service scheduled to shut down within a year. The absence of scaling to zero in the newer Aurora Serverless v2 has raised concerns within the community regarding potential increased costs and the absence of a "true" serverless relational database on AWS.
+                    
+6 번째 검색 내용 
+제목 : 
+
+                            How LinkedIn Uses Machine Learning to Address Content-Related Threats and Abuse
+                        
+주소 : https://www.infoq.com/news/2024/01/linkedin-automl-content-filter/
+설명 : 
+                         To help detect and remove content that violates their standard policies, LinkedIn has been using its AutoML framework, which trains classifiers and experiments with multiple model architectures in parallel, explain LinkedIn engineers Shubham Agarwal and Rishi Gupta.
+                    
+7 번째 검색 내용 
+제목 : 
+
+                            Microsoft Announces AppCAT: Simplifying Azure Migration for .NET Apps
+                        
+주소 : https://www.infoq.com/news/2024/01/appcat-azure-dotnet/
+설명 : 
+                         Microsoft team has released a new tool, called Azure Migrate application and code assessment tool for .NET (AppCAT). This tool is intended to help developers in the migration of on-premises .NET applications to Azure. AppCAT tool facilitates the assessment of .NET source code, configurations, and binaries, identifying potential issues and opportunities during the migration process to Azure.
+                    
+8 번째 검색 내용 
+제목 : 
+
+                            The Challenges of Building Cyber-Physical Systems
+                        
+주소 : https://www.infoq.com/news/2024/01/cyber-physical-systems/
+설명 : 
+                         There are several challenges in building hardware-reliant cyber-physical systems, such as hardware lead times, organisational structure, common language, system decomposition, cross-team communication, alignment, and culture. A solution to such challenges is to apply agile at the systems level, and to architect both hardware and software into modular components.
+                    
+9 번째 검색 내용 
+제목 : 
+
+                            Microsoft and Oracle Launch Oracle Database@Azure for Azure Customers
+                        
+주소 : https://www.infoq.com/news/2024/01/microsoft-oracle-database-azure/
+설명 : 
+                         Microsoft and Oracle recently announced the general availability of Oracle Database@Azure, allowing Azure customers to procure, deploy, and use Oracle Database@Azure with the Azure portal and APIs.
+                    
+10 번째 검색 내용 
+제목 : 
+
+                            OpenSSF Adds Attestations to SBOMs to Validate How Software is Built
+                        
+주소 : https://www.infoq.com/news/2024/01/sbomit-attestations/
+설명 : 
+                         The Open Source Security Foundation (OpenSSF) has recently announced SBOMit, a tool designed to bolster Software Bills of Materials (SBOMs) with in-toto attestations. This development, announced under the OpenSSF Security Tooling Working Group, increases transparency and security in the software development process.
+                    
+11 번째 검색 내용 
+제목 : 
+
+                            Roblox Builds New Cellular Infrastructure to Improve Gaming Experience
+                        
+주소 : https://www.infoq.com/news/2024/01/roblox-cellular-infrastructure/
+설명 : 
+                         The online game platform and creation system Roblox has detailed how they have made their infrastructure more efficient and resilient, to support the demands of more than 70 million active daily users engaged in immersive 3D experiences.
+                    
+12 번째 검색 내용 
+제목 : 
+
+                            Waymo Publishes Report Showing Lower Crash Rates Than Human Drivers
+                        
+주소 : https://www.infoq.com/news/2024/01/waymo-safety-report/
+설명 : 
+                         Alphabet's autonomous taxi company Waymo recently published a report showing its autonomous driver software outperforms human drivers on several benchmarks. The analysis covers over seven million miles of driving with no human behind the wheel, with Waymo cars having a 85% reduction in crashes involving an injury.
+                    
+13 번째 검색 내용 
+제목 : 
+
+                            Java News Roundup: GlassFish 8.0-M1, 2023 Highlights from Spring, BellSoft and WildFly
+                        
+주소 : https://www.infoq.com/news/2024/01/java-news-roundup-dec25-2023/
+설명 : 
+                         It was very quiet for the week of December 25th, 2023, but InfoQ found a few news items of interest that include: Eclipse GlassFish 8.0.0-M1, Apache Camel 3.22.0, Gradle 8.6-RC1, an updated draft specification for JEP 455, and retrospectives into the 2023 highlights from Spring, BellSoft and WildFly.
+                    
+14 번째 검색 내용 
+제목 : 
+
+                            Uber’s Checkenv Detects Cross-Environment RPC Calls to Prevent Data Leakage
+                        
+주소 : https://www.infoq.com/news/2024/01/uber-checkenv/
+설명 : 
+                         Uber introduces CheckEnv, a tool using graphs to detect and manage cross-environment RPC calls in microservices, enhancing system reliability and preventing unintended interactions.
+                    
+15 번째 검색 내용 
+제목 : 
+
+                            Griffin 2.0: Instacart Revamps Its Machine Learning Platform
+                        
+주소 : https://www.infoq.com/news/2024/01/instacart-machine-learning/
+설명 : 
+                         Instacart created the next-generation platform based on experiences using the original Griffin machine-learning platform. The company wanted to improve user experience and help manage all ML workloads. The revamped platform leverages the latest developments in MLOps and introduces new capabilities for current and future applications.
+                    
