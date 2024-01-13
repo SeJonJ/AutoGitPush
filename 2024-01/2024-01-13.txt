@@ -1,13 +1,22 @@
 1 번째 검색 내용 
 제목 : 
 
+                            Amazon CloudWatch Alarms Can Now Directly Trigger Lambda Functions
+                        
+주소 : https://www.infoq.com/news/2024/01/amazon-cloudwatch-alarms-lambda/
+설명 : 
+                         AWS recently announced that Amazon CloudWatch alarms now support AWS Lambda functions as an action for state changes. This new feature enables developers to automate remediation actions when detecting an unhealthy resource.
+                    
+2 번째 검색 내용 
+제목 : 
+
                             OpenAI GPT Store is a Nascent Marketplace for Custom ChatGPTs
                         
 주소 : https://www.infoq.com/news/2024/01/openai-gpt-store/
 설명 : 
                          OpenAI has started rolling out its new GPT Store, announced a few months ago along with GPTs, to provide a mechanism for ChatGPT Plus, Team and Enterprise users to share custom ChatGPT-based chatbots they create.
                     
-2 번째 검색 내용 
+3 번째 검색 내용 
 제목 : 
 
                             Amazon Opensearch Zero Etl with S3 and New OR1 Instances
@@ -16,7 +25,7 @@
 설명 : 
                          Amazon has announced the preview of the Amazon OpenSearch Service's zero-extraction, transformation, and loading (ETL) integration with Amazon S3, offering a novel method to analyze operational logs in Amazon S3 and S3-based data lakes without the need to switch between services. Amazon also announced the new OR1 instances for Amazon OpenSearch Service.
                     
-3 번째 검색 내용 
+4 번째 검색 내용 
 제목 : 
 
                             Arc-Enabled Servers Run Command Public Preview Feature: Remote Management for Various Environments
@@ -25,7 +34,7 @@
 설명 : 
                          Microsoft has recently announced a significant preview feature related to Arc-enabled servers, introducing the Run Command. This feature allows customers to manage Azure Arc-enabled servers remotely and securely.
                     
-4 번째 검색 내용 
+5 번째 검색 내용 
 제목 : 
 
                             lastminute.com Improves Search Scalability Using Microservices with RabbitMQ and Redis
@@ -34,7 +43,7 @@
 설명 : 
                          The team at lastminute.com rearchitected the search result aggregation process by breaking up the single service into multiple ones and introducing asynchronous integration. Developers used RabbitMQ for messaging and Redis for storing results from data suppliers. The revised architecture improved scalability and deployability and reduced resource utilization.
                     
-5 번째 검색 내용 
+6 번째 검색 내용 
 제목 : 
 
                             KSP2 Aims to Improve Kotlin Meta-Programming, Adds Support for the K2 Kotlin Compiler
@@ -43,7 +52,7 @@
 설명 : 
                          Currently available in preview, KSP 2.0, the evolution of Kotlin Symbol Processing (KSP), introduces a new architecture aimed at resolving some limitations in KSP 1.0 and adds support for the new K2 Kotlin compiler, explain Google software engineers Ting-Yuan Huang and Jiaxiang Chen.
                     
-6 번째 검색 내용 
+7 번째 검색 내용 
 제목 : 
 
                             How Playing Games Enables Engaging Ways of Learning Agility
@@ -52,7 +61,7 @@
 설명 : 
                          Games can help us create a collaborative, joyful, and fun experience in which we play to solve complex problems. According to Jakub Perlak, people can play games that have a meaningful purpose, and have fun in doing so. Games create space for intentional cognitive activity which helps us when learning something new and adapting to changes that are important for agility.
                     
-7 번째 검색 내용 
+8 번째 검색 내용 
 제목 : 
 
                             Angular 17, a Brand New Look
@@ -61,7 +70,7 @@
 설명 : 
                          Angular, a popular Single Page Application (SPA) framework, recently released version 17, introducing a declarative block template syntax and overhauling the framework documentation and logo.
                     
-8 번째 검색 내용 
+9 번째 검색 내용 
 제목 : 
 
                             What's New in F# 8.0: Simpler, Enhanced Uniformity, and Improved Performance
@@ -70,7 +79,7 @@
 설명 : 
                          Back in November, during the .NET Conf Microsoft released F# 8.0 as part of the .NET 8 release. The new version of F# brings in many features to make F# programs simpler, more uniform, and performant. The new features are related to language changes, improved diagnostics, quality-of-life improvements, and performance boosts for project compilation and upgrades.
                     
-9 번째 검색 내용 
+10 번째 검색 내용 
 제목 : 
 
                             Researchers at Stanford Use Brain Signals to Control Intelligent Robots
@@ -79,7 +88,7 @@
 설명 : 
                          In a paper presented at the 7th Annual Conference on Robot Learning last November, a team of Stanford University researchers presented an intelligent human brain-robot interface that enables controlling a robot through brain signals. Dubbed NOIR, short for Neural Signal Operated Intelligent Robots, the system uses electroencephalography (EEG) to communicate human intentions to the robots.
                     
-10 번째 검색 내용 
+11 번째 검색 내용 
 제목 : 
 
                             JEP 447: Refining Java Constructors for Enhanced Flexibility
@@ -88,7 +97,7 @@
 설명 : 
                          After its review concluded, JEP 447, Statements before super(...) (Preview), was delivered for JDK 22. This JEP, under Project Amber, proposes to allow statements that do not reference an instance being created to appear before super() calls in a constructor and preserve existing safety and initialization guarantees for constructors.
                     
-11 번째 검색 내용 
+12 번째 검색 내용 
 제목 : 
 
                             OpenAI Adopts Preparedness Framework for AI Safety
@@ -97,7 +106,7 @@
 설명 : 
                          OpenAI recently published a beta version of their Preparedness Framework for mitigating AI risks. The framework lists four risk categories and definitions of risk levels for each, as well as defining OpenAI's safety governance procedures.
                     
-12 번째 검색 내용 
+13 번째 검색 내용 
 제목 : 
 
                             Java News Roundup: Spring Shell, Micronaut, JReleaser, JobRunr
@@ -106,7 +115,7 @@
 설명 : 
                          This week's Java roundup for January 1st, 2024, features news highlighting: Spring Shell, Micronaut, JReleaser, JobRunr, Sharat Chander acknowledging the 2023 accomplishments from the Java Community, and 2023 highlights from the Apache Camel projects.
                     
-13 번째 검색 내용 
+14 번째 검색 내용 
 제목 : 
 
                             AWS to Shut down Aurora Serverless v1, Their Sole Relational Database with Scaling Capacity to Zero
@@ -115,7 +124,7 @@
 설명 : 
                          Recently, AWS notified existing customers running Amazon Aurora that Serverless v1 support will be discontinued, with the service scheduled to shut down within a year. The absence of scaling to zero in the newer Aurora Serverless v2 has raised concerns within the community regarding potential increased costs and the absence of a "true" serverless relational database on AWS.
                     
-14 번째 검색 내용 
+15 번째 검색 내용 
 제목 : 
 
                             How LinkedIn Uses Machine Learning to Address Content-Related Threats and Abuse
@@ -123,13 +132,4 @@
 주소 : https://www.infoq.com/news/2024/01/linkedin-automl-content-filter/
 설명 : 
                          To help detect and remove content that violates their standard policies, LinkedIn has been using its AutoML framework, which trains classifiers and experiments with multiple model architectures in parallel, explain LinkedIn engineers Shubham Agarwal and Rishi Gupta.
-                    
-15 번째 검색 내용 
-제목 : 
-
-                            Microsoft Announces AppCAT: Simplifying Azure Migration for .NET Apps
-                        
-주소 : https://www.infoq.com/news/2024/01/appcat-azure-dotnet/
-설명 : 
-                         Microsoft team has released a new tool, called Azure Migrate application and code assessment tool for .NET (AppCAT). This tool is intended to help developers in the migration of on-premises .NET applications to Azure. AppCAT tool facilitates the assessment of .NET source code, configurations, and binaries, identifying potential issues and opportunities during the migration process to Azure.
                     
