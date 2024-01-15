@@ -1,13 +1,58 @@
 1 번째 검색 내용 
 제목 : 
 
+                            Fluid Framework 2.0 Beta: SharedTree Distributed Data Structure and SharePoint Embedded
+                        
+주소 : https://www.infoq.com/news/2024/01/fluid-framework-2-0-beta/
+설명 : 
+                         Microsoft announced, that Fluid Framework 2.0 has entered its Beta phase. The beta introduces the SharedTree Distributed Data Structure (DDS) for an intuitive programming interface supporting various data types, along with support for SharePoint Embedded, enabling developers to retain collaborative data within a Microsoft 365 tenant.
+                    
+2 번째 검색 내용 
+제목 : 
+
+                            Netflix Creates Incremental Processing Solution Using Maestro and Apache Iceberg
+                        
+주소 : https://www.infoq.com/news/2024/01/netflix-incremental-processing/
+설명 : 
+                         Netflix created a new solution for incremental processing in its data platform. The incremental approach reduces the cost of computing resources and execution time significantly as it avoids processing complete datasets. The company used its Maestro workflow engine and Apache Iceberg to improve data freshness and accuracy and plans to provide managed backfill capabilities.
+                    
+3 번째 검색 내용 
+제목 : 
+
+                            HashiCorp Adds Automated Generation of Terraform Provider Code
+                        
+주소 : https://www.infoq.com/news/2024/01/terraform-provider-generation/
+설명 : 
+                         HashiCorp has released a technical preview of their Terraform provider code generation toolset. This includes a new tool that generates Terraform provider code from an OpenAPI specification. The release also includes a tool that can generate Terraform plugin framework code from a provider code specification.
+                    
+4 번째 검색 내용 
+제목 : 
+
+                            GitHub CodeQL Code Scanning Now Supports Setting a Threat Model
+                        
+주소 : https://www.infoq.com/news/2024/01/github-codeql-threat-model/
+설명 : 
+                         GitHub has recently extended its CodeQL-based code scanner by adding the possibility to specify the desired threat model. The new feature is available in beta for the Java language.
+                    
+5 번째 검색 내용 
+제목 : 
+
+                            Java News Roundup: Final JEP Drafts, Payara 2024 Roadmap, TornadoVM Plugin for IntelliJ
+                        
+주소 : https://www.infoq.com/news/2024/01/java-news-roundup-jan08-2024/
+설명 : 
+                         This week's Java roundup for January 8th, 2024 features news highlighting: JEP drafts for final versions of OpenJDK features String Templates and Implicitly Declared Classes and Instance Main Methods; the Payara Platform 2024 roadmap; and a new TornadoVM plugin for IntelliJ IDEA.
+                    
+6 번째 검색 내용 
+제목 : 
+
                             Custom GPTs from OpenAI May Leak Sensitive Information
                         
 주소 : https://www.infoq.com/news/2024/01/gpts-may-leak-sensitive-info/
 설명 : 
-                         After it was reported that OpenAI has started rolling out its new GPT Store, it was also discovered that some of the data they’re built on is easily exposed. multiple groups have begun finding that the system has the potential to leak otherwise sensitive information.
+                         After it was reported that OpenAI has started rolling out its new GPT Store, it was also discovered that some of the data they’re built on is easily exposed. Multiple groups have begun finding that the system has the potential to leak otherwise sensitive information.
                     
-2 번째 검색 내용 
+7 번째 검색 내용 
 제목 : 
 
                             Google Eliminates Exit Fees and Advocates against Restrictive Cloud Licensing
@@ -16,7 +61,7 @@
 설명 : 
                          Google recently announced that it will eliminate exit fees for customers who wish to stop using Google Cloud and migrate their data to another cloud provider and/or on premises.
                     
-3 번째 검색 내용 
+8 번째 검색 내용 
 제목 : 
 
                             Airbnb’s CI/CD Framework Employs Salesforce DX, Git, and Buildkite for Efficient Software Delivery
@@ -25,7 +70,7 @@
 설명 : 
                          Airbnb recently discussed a DevOps framework tailored to their CRM platform, integrating Salesforce DX, Git, and Buildkite. This framework facilitates the involvement of all stakeholders, from developers to low-code users, in the development and deployment process. Using the DevOps framework, Airbnb has reduced deployment time from 90 to 15 minutes.
                     
-4 번째 검색 내용 
+9 번째 검색 내용 
 제목 : 
 
                             DoorDash Develops New Sessionization Platform with Flink to Improve Notification Delivery Timeliness
@@ -34,7 +79,7 @@
 설명 : 
                          DoorDash has significantly enhanced its user engagement by leveraging Apache Flink for real-time session detection and notification delivery. This move marks a substantial advancement in user interaction and cart conversion rates.
                     
-5 번째 검색 내용 
+10 번째 검색 내용 
 제목 : 
 
                             OpenTofu 1.6.0 Now Generally Available: New Module Testing, Enhanced S3 Backend, and Many More
@@ -43,7 +88,7 @@
 설명 : 
                          OpenTofu 1.6.0 is now generally available. A community-driven open-source fork of Terraform under the Linux Foundation, now offers a stable release with many features, including advanced testing features for configurations and modules, enhanced S3 state backend with new authentication methods, a new provider and module registry, and many more improvements and bug fixes.
                     
-6 번째 검색 내용 
+11 번째 검색 내용 
 제목 : 
 
                             Amazon CloudWatch Alarms Can Now Directly Trigger Lambda Functions
@@ -52,7 +97,7 @@
 설명 : 
                          AWS recently announced that Amazon CloudWatch alarms now support AWS Lambda functions as an action for state changes. This new feature enables developers to automate remediation actions when detecting an unhealthy resource.
                     
-7 번째 검색 내용 
+12 번째 검색 내용 
 제목 : 
 
                             OpenAI GPT Store is a Nascent Marketplace for Custom ChatGPTs
@@ -61,7 +106,7 @@
 설명 : 
                          OpenAI has started rolling out its new GPT Store, announced a few months ago along with GPTs, to provide a mechanism for ChatGPT Plus, Team and Enterprise users to share custom ChatGPT-based chatbots they create.
                     
-8 번째 검색 내용 
+13 번째 검색 내용 
 제목 : 
 
                             Amazon Opensearch Zero Etl with S3 and New OR1 Instances
@@ -70,7 +115,7 @@
 설명 : 
                          Amazon has announced the preview of the Amazon OpenSearch Service's zero-extraction, transformation, and loading (ETL) integration with Amazon S3, offering a novel method to analyze operational logs in Amazon S3 and S3-based data lakes without the need to switch between services. Amazon also announced the new OR1 instances for Amazon OpenSearch Service.
                     
-9 번째 검색 내용 
+14 번째 검색 내용 
 제목 : 
 
                             Arc-Enabled Servers Run Command Public Preview Feature: Remote Management for Various Environments
@@ -79,7 +124,7 @@
 설명 : 
                          Microsoft has recently announced a significant preview feature related to Arc-enabled servers, introducing the Run Command. This feature allows customers to manage Azure Arc-enabled servers remotely and securely.
                     
-10 번째 검색 내용 
+15 번째 검색 내용 
 제목 : 
 
                             lastminute.com Improves Search Scalability Using Microservices with RabbitMQ and Redis
@@ -87,49 +132,4 @@
 주소 : https://www.infoq.com/news/2024/01/lastminute-search-rabbitmq-redis/
 설명 : 
                          The team at lastminute.com rearchitected the search result aggregation process by breaking up the single service into multiple ones and introducing asynchronous integration. Developers used RabbitMQ for messaging and Redis for storing results from data suppliers. The revised architecture improved scalability and deployability and reduced resource utilization.
-                    
-11 번째 검색 내용 
-제목 : 
-
-                            KSP2 Aims to Improve Kotlin Meta-Programming, Adds Support for the K2 Kotlin Compiler
-                        
-주소 : https://www.infoq.com/news/2024/01/ksp2-kotlin-metaprogramming/
-설명 : 
-                         Currently available in preview, KSP 2.0, the evolution of Kotlin Symbol Processing (KSP), introduces a new architecture aimed at resolving some limitations in KSP 1.0 and adds support for the new K2 Kotlin compiler, explain Google software engineers Ting-Yuan Huang and Jiaxiang Chen.
-                    
-12 번째 검색 내용 
-제목 : 
-
-                            How Playing Games Enables Engaging Ways of Learning Agility
-                        
-주소 : https://www.infoq.com/news/2024/01/playing-games-learning-agility/
-설명 : 
-                         Games can help us create a collaborative, joyful, and fun experience in which we play to solve complex problems. According to Jakub Perlak, people can play games that have a meaningful purpose, and have fun in doing so. Games create space for intentional cognitive activity which helps us when learning something new and adapting to changes that are important for agility.
-                    
-13 번째 검색 내용 
-제목 : 
-
-                            Angular 17, a Brand New Look
-                        
-주소 : https://www.infoq.com/news/2024/01/angular-17-new-branding/
-설명 : 
-                         Angular, a popular Single Page Application (SPA) framework, recently released version 17, introducing a declarative block template syntax and overhauling the framework documentation and logo.
-                    
-14 번째 검색 내용 
-제목 : 
-
-                            What's New in F# 8.0: Simpler, Enhanced Uniformity, and Improved Performance
-                        
-주소 : https://www.infoq.com/news/2024/01/fsharp-8-0/
-설명 : 
-                         Back in November, during the .NET Conf Microsoft released F# 8.0 as part of the .NET 8 release. The new version of F# brings in many features to make F# programs simpler, more uniform, and performant. The new features are related to language changes, improved diagnostics, quality-of-life improvements, and performance boosts for project compilation and upgrades.
-                    
-15 번째 검색 내용 
-제목 : 
-
-                            Researchers at Stanford Use Brain Signals to Control Intelligent Robots
-                        
-주소 : https://www.infoq.com/news/2024/01/noir-using-eeg-robot-control/
-설명 : 
-                         In a paper presented at the 7th Annual Conference on Robot Learning last November, a team of Stanford University researchers presented an intelligent human brain-robot interface that enables controlling a robot through brain signals. Dubbed NOIR, short for Neural Signal Operated Intelligent Robots, the system uses electroencephalography (EEG) to communicate human intentions to the robots.
                     
