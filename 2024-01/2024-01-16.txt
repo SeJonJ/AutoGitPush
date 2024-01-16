@@ -5,7 +5,7 @@
                         
 주소 : https://www.infoq.com/news/2024/01/jetbrains-javascript-days-2023/
 설명 : 
-                         JetBrains JavaScript Days 2023 recently concluded, offering developers a wealth of practical insights into the dynamic realms of Angular, AI integration, TypeScript, ECMAScript development, React best practices, JavaScript tooling improvements, and innovative view transitions. The series of talks featured in-depth discussions, providing valuable knowledge for developers in web development.
+                         JetBrains JavaScript Days 2023 recently concluded, offering developers insights into Angular, AI integration, TypeScript, ECMAScript development, React best practices, JavaScript tooling improvements, and innovative view transitions. The series of talks featured in-depth discussions, providing valuable knowledge for developers in web development.
                     
 2 번째 검색 내용 
 제목 : 
@@ -118,18 +118,18 @@
 14 번째 검색 내용 
 제목 : 
 
-                            Arc-Enabled Servers Run Command Public Preview Feature: Remote Management for Various Environments
-                        
-주소 : https://www.infoq.com/news/2024/01/run-command-arc-azure/
-설명 : 
-                         Microsoft has recently announced a significant preview feature related to Arc-enabled servers, introducing the Run Command. This feature allows customers to manage Azure Arc-enabled servers remotely and securely.
-                    
-15 번째 검색 내용 
-제목 : 
-
                             Amazon OpenSearch Zero ETL with S3 and New OR1 Instances
                         
 주소 : https://www.infoq.com/news/2024/01/opensearch-etl-s3/
 설명 : 
                          Amazon has announced the preview of the Amazon OpenSearch Service's zero-extraction, transformation, and loading (ETL) integration with Amazon S3, offering a novel method to analyze operational logs in Amazon S3 and S3-based data lakes without the need to switch between services. Amazon also announced the new OR1 instances for Amazon OpenSearch Service.
+                    
+15 번째 검색 내용 
+제목 : 
+
+                            Arc-Enabled Servers Run Command Public Preview Feature: Remote Management for Various Environments
+                        
+주소 : https://www.infoq.com/news/2024/01/run-command-arc-azure/
+설명 : 
+                         Microsoft has recently announced a significant preview feature related to Arc-enabled servers, introducing the Run Command. This feature allows customers to manage Azure Arc-enabled servers remotely and securely.
                     
