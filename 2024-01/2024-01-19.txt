@@ -1,13 +1,40 @@
 1 번째 검색 내용 
 제목 : 
 
+                            NuGetSolver: Easier Dependency Conflicts Resolution in Visual Studio
+                        
+주소 : https://www.infoq.com/news/2024/01/introducing-nuget-solver/
+설명 : 
+                         In a collaborative effort with Microsoft Research, a new experimental Visual Studio extension, NuGetSolver, has been introduced this week. The goal behind the tool is to simplify resolving NuGet dependency conflicts in Visual Studio projects. This extension efficiently addresses common NuGet errors and warnings, helping developers to be more productive inside of VS.
+                    
+2 번째 검색 내용 
+제목 : 
+
+                            ReSharper 2023.3: AI Assistant, C# 12 and C++ Support, Entity Framework Specific Analyses and More
+                        
+주소 : https://www.infoq.com/news/2024/01/resharper-2023-3/
+설명 : 
+                         ReSharper 2023.3 is already available. This release contains AI Assistant, extending support for C# 12 and C++, Entity Framework-specific analyses, JetBrains Grazie as the built-in grammar and spelling checker.
+                    
+3 번째 검색 내용 
+제목 : 
+
+                            Shopify’s Approach to Leverage Recursive Embedding and Clustering to Enhanced Data Explainability
+                        
+주소 : https://www.infoq.com/news/2024/01/shopify-clustering/
+설명 : 
+                         One of the main challenges of any online business is to get actionable insight from their data for decision-making. Shopify shares its methodology and experience to solve this problem by clustering diverse data sets through a unique method involving dimensionality reduction, recursion, and supervised machine learning.
+                    
+4 번째 검색 내용 
+제목 : 
+
                             Building a Dedicated Platform for Frontend Developers at the Norwegian Government
                         
 주소 : https://www.infoq.com/news/2024/01/platform-frontend-developers/
 설명 : 
                          Recognizing the challenges faced by frontend developers, the Norwegian Labour and Welfare Administration decided to build a dedicated platform to address their needs. It offers services like a CDN, an observability stack for monitoring and debugging, and feature management using Unleash. The platform is treated as a product to drive adoption and improve the developer experience.
                     
-2 번째 검색 내용 
+5 번째 검색 내용 
 제목 : 
 
                             Apple Allows US App Store Apps to Link to External Purchase Methods
@@ -16,7 +43,7 @@
 설명 : 
                          A recent decision by the US Supreme Court forces Apple to make it possible for iOS and iPad apps to link to alternative payment systems. The decision only applies to apps published in the US App Store and raised some debate since Apple still wants to collect a commission on external purchases.
                     
-3 번째 검색 내용 
+6 번째 검색 내용 
 제목 : 
 
                             Real-Time Data Streaming Capabilities with AppSync Integration in Amazon EventBridge Event Bus
@@ -25,7 +52,7 @@
 설명 : 
                          AWS recently announced that Amazon EventBridge Event Bus supports AWS AppSync as an Event Bus's target, enabling developers to stream real-time updates such as sports scores from their applications to frontend applications, including mobile and desktop.
                     
-4 번째 검색 내용 
+7 번째 검색 내용 
 제목 : 
 
                             Rider 2023.3: AI Asistant, .NET 8 Support, C# 12 and F# 8 Features, Debugging Improvements and More
@@ -34,7 +61,7 @@
 설명 : 
                          JetBrains has released Rider 2023.3, the latest version of their cross-platform .NET IDE. This release contains an AI Assistant, support for .NET 8 SDK and an extended list of C# 12 and F# 8 features. There are also improvements regarding debugging, running multiple projects, UI/UX and Unity.
                     
-5 번째 검색 내용 
+8 번째 검색 내용 
 제목 : 
 
                             Slack Migrates to Cell-Based Architecture on AWS to Mitigate Gray Failures
@@ -43,7 +70,7 @@
 설명 : 
                          Slack migrated most of the critical user-facing services from a monolithic to a cell-based architecture over the last 1.5 years. The move was triggered by the impact of networking outages affecting a single availability zone, causing user-impacting service degradation. The new architecture allows incrementally draining all the traffic away from the affected availability zone within 5 minutes.
                     
-6 번째 검색 내용 
+9 번째 검색 내용 
 제목 : 
 
                             Amazon ECS Integration with Amazon EBS for Data Processing Workloads and Flexible Storage
@@ -52,7 +79,7 @@
 설명 : 
                          AWS recently announced that Amazon Elastic Container Service (Amazon ECS) supports an integration with Amazon Elastic Block Store (Amazon EBS), which makes it easier for users to run a broader range of data processing workloads.
                     
-7 번째 검색 내용 
+10 번째 검색 내용 
 제목 : 
 
                             .NET MAUI Community Toolkit 7.0.0 Aligns to .NET 8
@@ -61,7 +88,7 @@
 설명 : 
                          On November 15th, 2023, Microsoft announced version 7.0.0 of their open-source MAUI Community Toolkit. The new version adds support for .NET 8 and brings several bug fixes.
                     
-8 번째 검색 내용 
+11 번째 검색 내용 
 제목 : 
 
                             Google Announces Video Generation LLM VideoPoet
@@ -70,7 +97,7 @@
 설명 : 
                          Google Research recently published their work on VideoPoet, a large language model (LLM) that can generate video. VideoPoet was trained on 2 trillion tokens of text, audio, image, and video data, and in evaluations by human judges its output was preferred over that of other models.
                     
-9 번째 검색 내용 
+12 번째 검색 내용 
 제목 : 
 
                             Regionally-Scoped Google’s Cloud Armor Security Policies
@@ -79,7 +106,7 @@
 설명 : 
                          Google announced the general availability of regionally-scoped security policies for Google Cloud Armor: Google's premier DDoS defense and Web Application Firewall (WAF) solution.
                     
-10 번째 검색 내용 
+13 번째 검색 내용 
 제목 : 
 
                             JetBrains JavaScript Day 2023
@@ -88,7 +115,7 @@
 설명 : 
                          JetBrains JavaScript Day 2023 recently concluded, offering developers insights into Angular, AI integration, TypeScript, ECMAScript development, React best practices, JavaScript tooling improvements, and innovative view transitions. The series of talks featured in-depth discussions, providing valuable knowledge for developers in web development.
                     
-11 번째 검색 내용 
+14 번째 검색 내용 
 제목 : 
 
                             Fluid Framework 2.0 Beta: SharedTree Distributed Data Structure and SharePoint Embedded
@@ -97,7 +124,7 @@
 설명 : 
                          Microsoft announced, that Fluid Framework 2.0 has entered its Beta phase. The beta introduces the SharedTree Distributed Data Structure (DDS) for an intuitive programming interface supporting various data types, along with support for SharePoint Embedded, enabling developers to retain collaborative data within a Microsoft 365 tenant.
                     
-12 번째 검색 내용 
+15 번째 검색 내용 
 제목 : 
 
                             Netflix Creates Incremental Processing Solution Using Maestro and Apache Iceberg
@@ -105,31 +132,4 @@
 주소 : https://www.infoq.com/news/2024/01/netflix-incremental-processing/
 설명 : 
                          Netflix created a new solution for incremental processing in its data platform. The incremental approach reduces the cost of computing resources and execution time significantly as it avoids processing complete datasets. The company used its Maestro workflow engine and Apache Iceberg to improve data freshness and accuracy and plans to provide managed backfill capabilities.
-                    
-13 번째 검색 내용 
-제목 : 
-
-                            HashiCorp Adds Automated Generation of Terraform Provider Code
-                        
-주소 : https://www.infoq.com/news/2024/01/terraform-provider-generation/
-설명 : 
-                         HashiCorp has released a technical preview of their Terraform provider code generation toolset. This includes a new tool that generates Terraform provider code from an OpenAPI specification. The release also includes a tool that can generate Terraform plugin framework code from a provider code specification.
-                    
-14 번째 검색 내용 
-제목 : 
-
-                            GitHub CodeQL Code Scanning Now Supports Setting a Threat Model
-                        
-주소 : https://www.infoq.com/news/2024/01/github-codeql-threat-model/
-설명 : 
-                         GitHub has recently extended its CodeQL-based code scanner by adding the possibility to specify the desired threat model. The new feature is available in beta for the Java language.
-                    
-15 번째 검색 내용 
-제목 : 
-
-                            Java News Roundup: Final JEP Drafts, Payara 2024 Roadmap, TornadoVM Plugin for IntelliJ
-                        
-주소 : https://www.infoq.com/news/2024/01/java-news-roundup-jan08-2024/
-설명 : 
-                         This week's Java roundup for January 8th, 2024 features news highlighting: JEP drafts for final versions of OpenJDK features String Templates and Implicitly Declared Classes and Instance Main Methods; the Payara Platform 2024 roadmap; and a new TornadoVM plugin for IntelliJ IDEA.
                     
