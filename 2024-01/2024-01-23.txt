@@ -1,0 +1,139 @@
+1 번째 검색 내용 
+제목 : 
+
+                            Java News Roundup: JDK 22 in Rampdown Phase Two, JEPs for JDK 23, Jakarta EE 11, GraalVM
+                        
+주소 : https://www.infoq.com/news/2024/01/java-news-roundup-jan15-2024/
+설명 : 
+                         This week's Java roundup for January 15th, 2024 features news highlighting: JEP 455 Proposed to Target for JDK 23, JDK 22 in Rampdown Phase Two, an updated Jakarta EE 11 release plan, GraalVM, and Oracle’s Critical Patch Update for January 2024.
+                    
+2 번째 검색 내용 
+제목 : 
+
+                            Learning from Big Tech’s Engineering Productivity Metrics
+                        
+주소 : https://www.infoq.com/news/2024/01/engineering-productivity-metrics/
+설명 : 
+                         Gergely Orosz and Abi Noda published a Pragmatic Engineer article titled Measuring Developer Productivity: Real-World Examples. InfoQ reports on insights from Noda’s survey of engineering metrics used across 17 well-known tech giants. Noda found that rather than wholesale adoption of frameworks like DORA, leading teams use a mix of org-specific qualitative and quantitative metrics.
+                    
+3 번째 검색 내용 
+제목 : 
+
+                            Using ChatGPT for Amplifying Software Testing Practices and Assist Software Delivery
+                        
+주소 : https://www.infoq.com/news/2024/01/chatgpt-software-test-delivery/
+설명 : 
+                         Artificial intelligence can assist software delivery and be used to automate software testing and optimize project work. Dimitar Panayotov uses ChatGPT to generate test data, create email templates, and produce explanations based on test results. This saves him time that he can invest to become more productive.
+                    
+4 번째 검색 내용 
+제목 : 
+
+                            Async Ops and Scalable Keyspaces Make Threads Go Viral
+                        
+주소 : https://www.infoq.com/news/2024/01/meta-threads-infrastructure/
+설명 : 
+                         Meta's Engineering team have published a post explaining how they built the infrastructure for Threads, their new online social media and networking service.
+
+The decision to launch was abrupt, with the infrastructure teams having just two days' notice. However, the teams were confident in Meta's infrastructure's maturity and past performance to effectively support the app's rapid growth.
+                    
+5 번째 검색 내용 
+제목 : 
+
+                            GitHub Copilot Chat Now Generally Available
+                        
+주소 : https://www.infoq.com/news/2024/01/github-copilot-chat-ga/
+설명 : 
+                         GitHub Copilot Chat, a natural language-powered coding tool, is now generally available, according to a recent announcement by GitHub. The tool, a part of GitHub Copilot, is designed to elevate natural language as a universal programming language.
+
+GitHub Copilot Chat, powered by GPT-4, is a contextually-aware AI assistant tailored for development scenarios.
+                    
+6 번째 검색 내용 
+제목 : 
+
+                            Visual Studio 2022 - 17.9 Preview 3: Brings All-in-One Search Improvements
+                        
+주소 : https://www.infoq.com/news/2024/01/visualstudio-17-9-preview-3/
+설명 : 
+                         Visual Studio 2022 17.9 Preview 3 introduces significant enhancements to the Code Search, also known as the All-In-One Search, feature. This update significantly improves the search experience, enabling users to explore any word or character string throughout their solution. Other changes are related to Xcode 15.1 support, additions to Microsoft Teams toolkit and other bug fixes.
+                    
+7 번째 검색 내용 
+제목 : 
+
+                            Xcode 15.2 Stabilizes Support for the Apple Vision Pro Spatial Computing  Headset
+                        
+주소 : https://www.infoq.com/news/2024/01/apple-visionos-xcode-15-2/
+설명 : 
+                         Apple released the first stable version of its new visionOS SDK, providing support to create apps for the Apple Vision Pro and submitting them to the App Store. The new SDK is available in Xcode 15.2.
+                    
+8 번째 검색 내용 
+제목 : 
+
+                            The Code Written in Timefold Outsmarted the Solution Provided by ChatGPT for Devoxx Talks Scheduling
+                        
+주소 : https://www.infoq.com/news/2024/01/timefold-chatgpt-optimal-plan/
+설명 : 
+                         Stephan Jansen, Java Champion and Devoxx founder, tinkered with ChatGPT to “create the perfect conference schedule”. He managed to obtain feasible results for one day but not for the whole five-day conference. Geoffrey de Smet, founder of Timefold (formerly OptaPlanner), argued that the AI Assistant fails by not being able to treat soft constraints as effectively as a specialized planning library.
+                    
+9 번째 검색 내용 
+제목 : 
+
+                            Cloudflare Releases 2024 API Security and Management Report
+                        
+주소 : https://www.infoq.com/news/2024/01/cloudflare-api-security-report/
+설명 : 
+                         Cloudflare recently released its 2024 API Security and Management Report, providing insights, predictions, and recommendations for safeguarding APIs in the new year. The report analyses the growing risk of shadow APIs, the most common API errors, and global API usage across different industries.
+                    
+10 번째 검색 내용 
+제목 : 
+
+                            LLMs May Learn Deceptive Behavior and Act as Persistent Sleeper Agents
+                        
+주소 : https://www.infoq.com/news/2024/01/llms-persistent-sleeper-agents/
+설명 : 
+                         AI researchers at OpenAI competitor Anthropic trained proof-of-concept LLMs showing deceptive behavior triggered by specific hints in the prompts. Furthermore, they say, once deceptive behavior was trained into the model, there was no way to circumvent it using standard techniques.
+                    
+11 번째 검색 내용 
+제목 : 
+
+                            B2B Data Interchange: Managed Electronic Data Interchange (EDI) on AWS
+                        
+주소 : https://www.infoq.com/news/2024/01/b2b-data-interchange-edi/
+설명 : 
+                         AWS recently introduced B2B Data Interchange, a platform allowing organizations to automate and monitor the transformation of EDI-based business transactions. The service provides a low-code interface for managing trading partners and translating EDI documents into JSON and XML formats.
+                    
+12 번째 검색 내용 
+제목 : 
+
+                            NuGetSolver: Easier Dependency Conflicts Resolution in Visual Studio
+                        
+주소 : https://www.infoq.com/news/2024/01/introducing-nuget-solver/
+설명 : 
+                         In a collaborative effort with Microsoft Research, a new experimental Visual Studio extension, NuGetSolver, has been introduced this week. The goal behind the tool is to simplify resolving NuGet dependency conflicts in Visual Studio projects. This extension efficiently addresses common NuGet errors and warnings, helping developers to be more productive inside of VS.
+                    
+13 번째 검색 내용 
+제목 : 
+
+                            ReSharper 2023.3: AI Assistant, C# 12 and C++ Support, Entity Framework Specific Analyses and More
+                        
+주소 : https://www.infoq.com/news/2024/01/resharper-2023-3/
+설명 : 
+                         ReSharper 2023.3 is already available. This release contains AI Assistant, extending support for C# 12 and C++, Entity Framework-specific analyses, and JetBrains Grazie as the built-in grammar and spelling checker.
+                    
+14 번째 검색 내용 
+제목 : 
+
+                            Shopify’s Approach to Leverage Recursive Embedding and Clustering to Enhanced Data Explainability
+                        
+주소 : https://www.infoq.com/news/2024/01/shopify-clustering/
+설명 : 
+                         One of the main challenges of any online business is to get actionable insight from their data for decision-making. Shopify shares its methodology and experience to solve this problem by clustering diverse data sets through a unique method involving dimensionality reduction, recursion, and supervised machine learning.
+                    
+15 번째 검색 내용 
+제목 : 
+
+                            Building a Dedicated Platform for Frontend Developers at the Norwegian Government
+                        
+주소 : https://www.infoq.com/news/2024/01/platform-frontend-developers/
+설명 : 
+                         Recognizing the challenges faced by frontend developers, the Norwegian Labour and Welfare Administration decided to build a dedicated platform to address their needs. It offers services like a CDN, an observability stack for monitoring and debugging, and feature management using Unleash. The platform is treated as a product to drive adoption and improve the developer experience.
+                    
