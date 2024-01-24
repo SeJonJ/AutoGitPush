@@ -1,13 +1,22 @@
 1 번째 검색 내용 
 제목 : 
 
+                            Microsoft Dev Proxy v0.14: OpenAPI Spec Generation, CRUD API Simulation and Many More
+                        
+주소 : https://www.infoq.com/news/2024/01/microsoft-dev-proxy-0-14/
+설명 : 
+                         Last week Microsoft announced Dev Proxy v0.14.0 introducing several noteworthy features. Among the additions are the ability to combine rate limiting with mock responses, simplified OpenAPI spec generation, CRUD API simulation, improved macOS setup, easy access to Dev Proxy presets, enhanced mock structures, the introduction of JSON schemas, and various performance and stability improvements.
+                    
+2 번째 검색 내용 
+제목 : 
+
                             Mistral AI's Open-Source Mixtral 8x7B Outperforms GPT-3.5
                         
 주소 : https://www.infoq.com/news/2024/01/mistral-ai-mixtral/
 설명 : 
                          Mistral AI recently released Mixtral 8x7B, a sparse mixture of experts (SMoE) large language model (LLM). The model contains 46.7B total parameters, but performs inference at the same speed and cost as models one-third that size. On several LLM benchmarks, it outperformed both Llama 2 70B and GPT-3.5, the model powering ChatGPT.
                     
-2 번째 검색 내용 
+3 번째 검색 내용 
 제목 : 
 
                             DoorDash Uses Service Mesh and Cell-Based Architecture to Significantly Reduce Data Transfer Costs
@@ -16,7 +25,7 @@
 설명 : 
                          In a recent move, DoorDash has significantly optimized its cloud infrastructure costs. The company faced increased cross-AZ data transfer costs when transitioning to a microservices architecture. To substantially reduce this cost, DoorDash implemented zone-aware routing with its Envoy-based service mesh, taking advantage of its Cell-Based Architecture.
                     
-3 번째 검색 내용 
+4 번째 검색 내용 
 제목 : 
 
                             2023 JavaScript Rising Stars
@@ -25,7 +34,7 @@
 설명 : 
                          The recent report from Rising Stars highlights the trends in the JavaScript ecosystem and showcases standout projects based on GitHub Stars in 2023. Overall, the most popular project was shadcn/ui, a collection of UI components that can be used to create custom components. The JavaScript runtime Bun continued its momentum, making it the second most popular project.
                     
-4 번째 검색 내용 
+5 번째 검색 내용 
 제목 : 
 
                             Java News Roundup: JDK 22 in Rampdown Phase Two, JEPs for JDK 23, Jakarta EE 11, GraalVM
@@ -34,7 +43,7 @@
 설명 : 
                          This week's Java roundup for January 15th, 2024 features news highlighting: JEP 455 Proposed to Target for JDK 23, JDK 22 in Rampdown Phase Two, an updated Jakarta EE 11 release plan, GraalVM, and Oracle’s Critical Patch Update for January 2024.
                     
-5 번째 검색 내용 
+6 번째 검색 내용 
 제목 : 
 
                             Learning from Big Tech’s Engineering Productivity Metrics
@@ -43,7 +52,7 @@
 설명 : 
                          Gergely Orosz and Abi Noda published a Pragmatic Engineer article titled Measuring Developer Productivity: Real-World Examples. InfoQ reports on insights from Noda’s survey of engineering metrics used across 17 well-known tech giants. Noda found that rather than wholesale adoption of frameworks like DORA, leading teams use a mix of org-specific qualitative and quantitative metrics.
                     
-6 번째 검색 내용 
+7 번째 검색 내용 
 제목 : 
 
                             Using ChatGPT for Amplifying Software Testing Practices and Assist Software Delivery
@@ -52,7 +61,7 @@
 설명 : 
                          Artificial intelligence can assist software delivery and be used to automate software testing and optimize project work. Dimitar Panayotov uses ChatGPT to generate test data, create email templates, and produce explanations based on test results. This saves him time that he can invest to become more productive.
                     
-7 번째 검색 내용 
+8 번째 검색 내용 
 제목 : 
 
                             Async Ops and Scalable Keyspaces Make Threads Go Viral
@@ -63,7 +72,7 @@
 
 The decision to launch was abrupt, with the infrastructure teams having just two days' notice. However, the teams were confident in Meta's infrastructure's maturity and past performance to effectively support the app's rapid growth.
                     
-8 번째 검색 내용 
+9 번째 검색 내용 
 제목 : 
 
                             GitHub Copilot Chat Now Generally Available
@@ -74,7 +83,7 @@ The decision to launch was abrupt, with the infrastructure teams having just two
 
 GitHub Copilot Chat, powered by GPT-4, is a contextually-aware AI assistant tailored for development scenarios.
                     
-9 번째 검색 내용 
+10 번째 검색 내용 
 제목 : 
 
                             Visual Studio 2022 - 17.9 Preview 3: Brings All-in-One Search Improvements
@@ -83,7 +92,7 @@ GitHub Copilot Chat, powered by GPT-4, is a contextually-aware AI assistant tail
 설명 : 
                          Visual Studio 2022 17.9 Preview 3 introduces significant enhancements to the Code Search, also known as the All-In-One Search, feature. This update significantly improves the search experience, enabling users to explore any word or character string throughout their solution. Other changes are related to Xcode 15.1 support, additions to Microsoft Teams toolkit and other bug fixes.
                     
-10 번째 검색 내용 
+11 번째 검색 내용 
 제목 : 
 
                             Xcode 15.2 Stabilizes Support for the Apple Vision Pro Spatial Computing  Headset
@@ -92,7 +101,7 @@ GitHub Copilot Chat, powered by GPT-4, is a contextually-aware AI assistant tail
 설명 : 
                          Apple released the first stable version of its new visionOS SDK, providing support to create apps for the Apple Vision Pro and submitting them to the App Store. The new SDK is available in Xcode 15.2.
                     
-11 번째 검색 내용 
+12 번째 검색 내용 
 제목 : 
 
                             The Code Written in Timefold Outsmarted the Solution Provided by ChatGPT for Devoxx Talks Scheduling
@@ -101,7 +110,7 @@ GitHub Copilot Chat, powered by GPT-4, is a contextually-aware AI assistant tail
 설명 : 
                          Stephan Jansen, Java Champion and Devoxx founder, tinkered with ChatGPT to “create the perfect conference schedule”. He managed to obtain feasible results for one day but not for the whole five-day conference. Geoffrey de Smet, founder of Timefold (formerly OptaPlanner), argued that the AI Assistant fails by not being able to treat soft constraints as effectively as a specialized planning library.
                     
-12 번째 검색 내용 
+13 번째 검색 내용 
 제목 : 
 
                             Cloudflare Releases 2024 API Security and Management Report
@@ -110,7 +119,7 @@ GitHub Copilot Chat, powered by GPT-4, is a contextually-aware AI assistant tail
 설명 : 
                          Cloudflare recently released its 2024 API Security and Management Report, providing insights, predictions, and recommendations for safeguarding APIs in the new year. The report analyses the growing risk of shadow APIs, the most common API errors, and global API usage across different industries.
                     
-13 번째 검색 내용 
+14 번째 검색 내용 
 제목 : 
 
                             LLMs May Learn Deceptive Behavior and Act as Persistent Sleeper Agents
@@ -119,7 +128,7 @@ GitHub Copilot Chat, powered by GPT-4, is a contextually-aware AI assistant tail
 설명 : 
                          AI researchers at OpenAI competitor Anthropic trained proof-of-concept LLMs showing deceptive behavior triggered by specific hints in the prompts. Furthermore, they say, once deceptive behavior was trained into the model, there was no way to circumvent it using standard techniques.
                     
-14 번째 검색 내용 
+15 번째 검색 내용 
 제목 : 
 
                             B2B Data Interchange: Managed Electronic Data Interchange (EDI) on AWS
@@ -127,13 +136,4 @@ GitHub Copilot Chat, powered by GPT-4, is a contextually-aware AI assistant tail
 주소 : https://www.infoq.com/news/2024/01/b2b-data-interchange-edi/
 설명 : 
                          AWS recently introduced B2B Data Interchange, a platform allowing organizations to automate and monitor the transformation of EDI-based business transactions. The service provides a low-code interface for managing trading partners and translating EDI documents into JSON and XML formats.
-                    
-15 번째 검색 내용 
-제목 : 
-
-                            NuGetSolver: Easier Dependency Conflicts Resolution in Visual Studio
-                        
-주소 : https://www.infoq.com/news/2024/01/introducing-nuget-solver/
-설명 : 
-                         In a collaborative effort with Microsoft Research, a new experimental Visual Studio extension, NuGetSolver, has been introduced this week. The goal behind the tool is to simplify resolving NuGet dependency conflicts in Visual Studio projects. This extension efficiently addresses common NuGet errors and warnings, helping developers to be more productive inside of VS.
                     
