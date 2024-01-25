@@ -41,7 +41,7 @@
                         
 주소 : https://www.infoq.com/news/2024/01/java-news-roundup-jan15-2024/
 설명 : 
-                         This week's Java roundup for January 15th, 2024 features news highlighting: JEP 455 Proposed to Target for JDK 23, JDK 22 in Rampdown Phase Two, an updated Jakarta EE 11 release plan, GraalVM, and Oracle’s Critical Patch Update for January 2024.
+                         This week's Java roundup for January 15th, 2024, features news highlighting: JEP 455 Proposed to Target for JDK 23, JDK 22 in Rampdown Phase Two, an updated Jakarta EE 11 release plan, GraalVM, and Oracle’s Critical Patch Update for January 2024.
                     
 6 번째 검색 내용 
 제목 : 
@@ -68,7 +68,7 @@
                         
 주소 : https://www.infoq.com/news/2024/01/meta-threads-infrastructure/
 설명 : 
-                         Meta's Engineering team have published a post explaining how they built the infrastructure for Threads, their new online social media and networking service.
+                         Meta's Engineering team has published a post explaining how they built the infrastructure for Threads, their new online social media and networking service.
 
 The decision to launch was abrupt, with the infrastructure teams having just two days' notice. However, the teams were confident in Meta's infrastructure's maturity and past performance to effectively support the app's rapid growth.
                     
@@ -86,7 +86,7 @@ GitHub Copilot Chat, powered by GPT-4, is a contextually-aware AI assistant tail
 10 번째 검색 내용 
 제목 : 
 
-                            Visual Studio 2022 - 17.9 Preview 3: Brings All-in-One Search Improvements
+                            Visual Studio 2022 - 17.9 Preview 3 Brings All-in-One Search Improvements
                         
 주소 : https://www.infoq.com/news/2024/01/visualstudio-17-9-preview-3/
 설명 : 
