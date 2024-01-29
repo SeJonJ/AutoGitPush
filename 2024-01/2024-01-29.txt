@@ -1,0 +1,135 @@
+1 번째 검색 내용 
+제목 : 
+
+                            Cloud Monitoring Metrics in BigQuery Provides Improved GKE Cost Analysis
+                        
+주소 : https://www.infoq.com/news/2024/01/gcp-gke-bigquery-costanalysis/
+설명 : 
+                         Google brings Cloud Monitoring metrics in BigQuery as a new capability in preview to combine billing data with resource utilization metrics. The combination allows users to perform detailed cost analyses in BigQuery. In addition, the company provides an out-of-the-box Looker Studio template that combines Cloud Monitoring and detailed billing metrics for Google Kubernetes Engine (GKE).
+                    
+2 번째 검색 내용 
+제목 : 
+
+                            Microsoft Copilot: Copilot Pro, Copilot for Microsoft 365, Copilot GPT and More
+                        
+주소 : https://www.infoq.com/news/2024/01/microsoft-copilot/
+설명 : 
+                         Microsoft has released Copilot Pro and Copilot for Microsoft 365, and is providing free access to those tools for smaller organizations and educational faculty. They also created the Copilot mobile application. Moreover, Copilot is also available in the Microsoft 365 mobile application.
+                    
+3 번째 검색 내용 
+제목 : 
+
+                            AWS Console-to-Code: Generating Code for Console Actions
+                        
+주소 : https://www.infoq.com/news/2024/01/aws-console-code-preview/
+설명 : 
+                         AWS recently introduced Console-to-Code, offering a new capability to transform actions executed in the console into reusable code for AWS CDK and CloudFormation. This generative AI feature is currently in preview, supporting only Amazon EC2, and provides a guided path for creating resources and testing prototypes.
+                    
+4 번째 검색 내용 
+제목 : 
+
+                            Jetpack Compose 1.6 Brings Improved Performance and Extends Supported APIs
+                        
+주소 : https://www.infoq.com/news/2024/01/jetpack-compose-1-6-released/
+설명 : 
+                         The latest release of Android UI toolkit Jetpack Compose aims to improve overall performance and extends supported APIs, including drag and drop, selection by mouse, spline-based keyframe animations, and more.
+                    
+5 번째 검색 내용 
+제목 : 
+
+                            Discord Scales to 1 Million+ Online MidJourney Users in a Single Server
+                        
+주소 : https://www.infoq.com/news/2024/01/discord-midjourney-performance/
+설명 : 
+                         Discord optimized its platform to serve over one million online users in a single server while maintaining a responsive user experience. The company evolved the guild component, which is responsible for fanning out billions of message notifications, in a series of performance and scalability improvements supported by system observability and performance tuning.
+                    
+6 번째 검색 내용 
+제목 : 
+
+                            Microsoft Introduces New MSTest Runner: Portability, Reliability, Extensibility and More
+                        
+주소 : https://www.infoq.com/news/2024/01/introducing-new-ms-test-runner/
+설명 : 
+                         Microsoft has introduced the MSTest Runner, a lightweight test runner designed specifically for MSTest tests. The primary goal of MSTest Runner is to enhance test portability, reliability, and speed while providing an extensible testing experience for users.
+                    
+7 번째 검색 내용 
+제목 : 
+
+                            Microsoft Launches Azure Quantum Development Kit 1.0
+                        
+주소 : https://www.infoq.com/news/2024/01/microsoft-azure-quantum-qdk/
+설명 : 
+                         Microsoft recently announced the 1.0 release of the Azure Quantum Development Kit (QDK), a significant rewrite of the prior QDK, emphasizing speed, simplicity, and a browser experience for developers. QDK is mostly rewritten in Rust, which compiles to WebAssembly for VS Code or the web and native binaries for Python.
+                    
+8 번째 검색 내용 
+제목 : 
+
+                            Cake Build Tool Updated to .NET 8 in v4.0.0
+                        
+주소 : https://www.infoq.com/news/2024/01/cake-build-dotnet-8/
+설명 : 
+                         Cake, the open-source .NET build automation system with a full C# DSL, has been updated to version 4.0.0, which supports .NET 8 runtime. The new version also brings minor improvements and dependency updates.
+                    
+9 번째 검색 내용 
+제목 : 
+
+                            LeftoverLocals May Leak LLM Responses on Apple, Qualcomm, and AMD GPUs
+                        
+주소 : https://www.infoq.com/news/2024/01/leftoverlocals-vulnerabilty/
+설명 : 
+                         Security firm Trail of Bits disclosed a vulnerability allowing malicious actors to recover data from GPU local memory on Apple, Qualcomm, AMD, and Imagination GPUs. Dubbed LeftoverLocals, the vulnerability affects any application using the GPU, including Large Language Models (LLMs) and machine learning (ML) models.
+                    
+10 번째 검색 내용 
+제목 : 
+
+                            Why Stable Software Teams Aren't Always Best: Self-Selection Reteaming at Redgate
+                        
+주소 : https://www.infoq.com/news/2024/01/self-selection-reteaming/
+설명 : 
+                         There are advantages to having the same group of people stay together, especially in achieving a time-bound software development project. However, in a world where we increasingly see product or stream-aligned teams who own long-living software from creation through to delivery, operation, and ongoing improvements, then optimising for very stable teams is not the best idea, Chris Smith argues.
+                    
+11 번째 검색 내용 
+제목 : 
+
+                            Microsoft Dev Proxy v0.14: OpenAPI Spec Generation, CRUD API Simulation and Many More
+                        
+주소 : https://www.infoq.com/news/2024/01/microsoft-dev-proxy-0-14/
+설명 : 
+                         Last week Microsoft announced Dev Proxy v0.14.0, introducing several noteworthy features. Among the additions are the ability to combine rate limiting with mock responses, simplified OpenAPI spec generation, CRUD API simulation, improved macOS setup, easy access to Dev Proxy presets, enhanced mock structures, the introduction of JSON schemas, and various performance and stability improvements.
+                    
+12 번째 검색 내용 
+제목 : 
+
+                            Mistral AI's Open-Source Mixtral 8x7B Outperforms GPT-3.5
+                        
+주소 : https://www.infoq.com/news/2024/01/mistral-ai-mixtral/
+설명 : 
+                         Mistral AI recently released Mixtral 8x7B, a sparse mixture of experts (SMoE) large language model (LLM). The model contains 46.7B total parameters, but performs inference at the same speed and cost as models one-third that size. On several LLM benchmarks, it outperformed both Llama 2 70B and GPT-3.5, the model powering ChatGPT.
+                    
+13 번째 검색 내용 
+제목 : 
+
+                            DoorDash Uses Service Mesh and Cell-Based Architecture to Significantly Reduce Data Transfer Costs
+                        
+주소 : https://www.infoq.com/news/2024/01/doordash-service-mesh/
+설명 : 
+                         In a recent move, DoorDash has significantly optimized its cloud infrastructure costs. The company faced increased cross-AZ data transfer costs when transitioning to a microservices architecture. To substantially reduce this cost, DoorDash implemented zone-aware routing with its Envoy-based service mesh, taking advantage of its Cell-Based Architecture.
+                    
+14 번째 검색 내용 
+제목 : 
+
+                            2023 JavaScript Rising Stars
+                        
+주소 : https://www.infoq.com/news/2024/01/javascript-rising-stars/
+설명 : 
+                         The recent report from Rising Stars highlights the trends in the JavaScript ecosystem and showcases standout projects based on GitHub Stars in 2023. Overall, the most popular project was shadcn/ui, a collection of UI components that can be used to create custom components. The JavaScript runtime Bun continued its momentum, making it the second most popular project.
+                    
+15 번째 검색 내용 
+제목 : 
+
+                            Java News Roundup: JDK 22 in Rampdown Phase Two, JEPs for JDK 23, Jakarta EE 11, GraalVM
+                        
+주소 : https://www.infoq.com/news/2024/01/java-news-roundup-jan15-2024/
+설명 : 
+                         This week's Java roundup for January 15th, 2024, features news highlighting: JEP 455 Proposed to Target for JDK 23, JDK 22 in Rampdown Phase Two, an updated Jakarta EE 11 release plan, GraalVM, and Oracle’s Critical Patch Update for January 2024.
+                    
