@@ -1,0 +1,135 @@
+1 번째 검색 내용 
+제목 : 
+
+                            Java Enhances Pattern Matching with Primitive Type Support in JEP 455
+                        
+주소 : https://www.infoq.com/news/2024/02/java-enhances-pattern-matching/
+설명 : 
+                         JEP 455, Primitive Types in Patterns, instanceof, and switch (Preview), has been promoted from Proposed to Target to Targeted for JDK 23. This JEP, under the auspices of Project Amber, proposes to enhance pattern matching by allowing primitive type patterns in all pattern contexts, and extend instanceof and switch to work with all primitive types.
+                    
+2 번째 검색 내용 
+제목 : 
+
+                            Uno Platform 5.1 Release: Live Wizard, New UI Controls and Performance Improvements
+                        
+주소 : https://www.infoq.com/news/2024/02/uno-platform-5-1-release/
+설명 : 
+                         Uno Platform released version 5.1, with the inclusion of a Solution Template Wizard for non-Visual Studio users. This highly requested feature has been extended to JetBrains Rider and VS Code users through the new LIVE Wizard version, which should simplify project setup steps. Other changes include Uno.Sdk for a smaller csproj footprint, three new controls and notable performance enhancements.
+                    
+3 번째 검색 내용 
+제목 : 
+
+                            How Continuous Mobile Development Can Benefit from Test Automation
+                        
+주소 : https://www.infoq.com/news/2024/02/continuous-mobile-development/
+설명 : 
+                         Test automation can support continuous mobile software development, by reducing manual testing efforts, minimizing human errors, and accelerating the release cycle. Burak Ergören shared his experiences from automating their mobile testing at QA Challenge Accepted 2023.
+                    
+4 번째 검색 내용 
+제목 : 
+
+                            Docker Now on AWS Cloudshell
+                        
+주소 : https://www.infoq.com/news/2024/01/docker-aws-cloudshell/
+설명 : 
+                         AWS recently announced that AWS CloudShell now provides access to Docker Engine for its users. With this integration, containers can be locally prototyped and pushed to registries prior to deploying them on AWS.
+                    
+5 번째 검색 내용 
+제목 : 
+
+                            Kubernetes 1.29 Released with KMS V2 Improvements and nftables Support
+                        
+주소 : https://www.infoq.com/news/2024/01/kubernetes-1-29/
+설명 : 
+                         The Cloud Native Computing Foundation (CNCF) released Kubernetes 1.29 named Mandala last month. The latest release introduces new features such as load balancer IP mode for services,  mutable pod resources for Windows containers, and nftables for the kube-proxy.
+                    
+6 번째 검색 내용 
+제목 : 
+
+                            Meta Releases Code Generation Model Code Llama 70B, Nearing GPT-3.5 Performance
+                        
+주소 : https://www.infoq.com/news/2024/01/code-llama-70b-released/
+설명 : 
+                         Code Llama 70B is Meta's new code generation AI model. Thanks to its 70 billion parameters, it is "the largest and best-performing model in the Code Llama family", Meta says.
+                    
+7 번째 검색 내용 
+제목 : 
+
+                            TornadoVM Launches TornadoInsight Plugin for IntelliJ IDEA
+                        
+주소 : https://www.infoq.com/news/2024/01/introducing-tornadoinsight/
+설명 : 
+                         TornadoInsight is an open-source IntelliJ plugin released in December 2023 to improve developers’ experience while working with TornadoVM. Its key features include an on-the-fly static checker and a dynamic testing framework. The plugin is available on JetBrains Marketplace and is available to install and use with JetBrains IDE versions 2022.3 and above.
+                    
+8 번째 검색 내용 
+제목 : 
+
+                            Stability AI Releases 1.6 Billion Parameter Language Model Stable LM 2
+                        
+주소 : https://www.infoq.com/news/2024/01/stabie-lm-2/
+설명 : 
+                         Stability AI released two sets of pre-trained model weights for Stable LM 2, a 1.6B parameter language model. Stable LM 2 is trained on 2 trillion tokens of text data from seven languages and can be run on common laptop computers.
+                    
+9 번째 검색 내용 
+제목 : 
+
+                            Hugging Face and Google Cloud Announce Collaboration
+                        
+주소 : https://www.infoq.com/news/2024/01/hugging-face-gcp-ai/
+설명 : 
+                         Hugging Face and Google Cloud have announced a strategic alliance to advance machine learning and open AI research. Google Cloud customers, Hugging Face Hub users, and open source are the three main focuses of the strategic partnership. Google wants to make cutting-edge AI discoveries available through Hugging Face's open-source frameworks.
+                    
+10 번째 검색 내용 
+제목 : 
+
+                            Well-Architected Migration Lens for Streamlined Cloud Transition
+                        
+주소 : https://www.infoq.com/news/2024/01/well-architected-migration-lens/
+설명 : 
+                         AWS has introduced the AWS Well-Architected Migration Lens, an extension of the Well-Architected Framework. This extension incorporates best practices and implementation guidance that customers can utilize in their migration program across the three phases: Assess, Mobilize, and Migrate.
+                    
+11 번째 검색 내용 
+제목 : 
+
+                            Harnessing AI-Generated Cloudformation with Application Composer
+                        
+주소 : https://www.infoq.com/news/2024/01/generative-ai-cloudformation/
+설명 : 
+                         The AWS Toolkit for VS Code has recently extended its support to include AWS Application Composer, introduced a year ago in the AWS Management Console. This enhancement empowers users to seamlessly craft Infrastructure as Code (IaC) for a comprehensive range of over 1100 AWS CloudFormation resources.
+                    
+12 번째 검색 내용 
+제목 : 
+
+                            Zonal Autoshift on AWS: Optimizing Infrastructure Reliability
+                        
+주소 : https://www.infoq.com/news/2024/01/aws-zona-autoshift/
+설명 : 
+                         Zonal autoshift, a new capability of Amazon Route 53 Application Recovery Controller, automatically shifts traffic away from an Availability Zone (AZ) when a potential failure is identified by the cloud provider. The service redirects the traffic back once the AZ failure is resolved.
+                    
+13 번째 검색 내용 
+제목 : 
+
+                            Java News Roundup: WildFly 31, Eclipse Store 1.1, Liberica NIK, Quarkus, JHipster Lite
+                        
+주소 : https://www.infoq.com/news/2024/01/java-news-roundup-jan22-2024/
+설명 : 
+                         This week's Java roundup for January 22nd, 2024 features news highlighting: WildFly 31.0.0, Eclipse Store 1.1.0, BellSoft Liberica Native Image Kit, multiple releases of Quarkus and JHipster Lite, and Jakarta EE 11 updates.
+                    
+14 번째 검색 내용 
+제목 : 
+
+                            How RevenueCat Manages Caching for Handling over 1.2 Billion Daily API Requests
+                        
+주소 : https://www.infoq.com/news/2024/01/revenuecat-cache-management/
+설명 : 
+                         RevenueCat extensively uses caching to improve the availability and performance of its product API while ensuring consistency. The company shared its techniques to deliver the platform, which can handle over 1.2 billion daily API requests. The team at RevenueCat created an open-source memcache client that provides several advanced features.
+                    
+15 번째 검색 내용 
+제목 : 
+
+                            Visual Studio GitHub Copilot Extension Introduces New Features and Enhancements
+                        
+주소 : https://www.infoq.com/news/2024/01/vs-github-copilot-new-features/
+설명 : 
+                         The latest release of the Visual Studio GitHub Copilot Chat Extension introduces two noteworthy productivity features, slash commands and context variables. Additionally, developers can explore preview features like the Exception Assistant, Test failure Analysis, Suggestions for Breakpoint Expressions, Commit message suggestions and many more.
+                    
