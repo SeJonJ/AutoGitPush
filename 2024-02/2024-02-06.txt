@@ -1,13 +1,22 @@
 1 번째 검색 내용 
 제목 : 
 
+                            Uber Improves Resiliency of Microservices with Adaptive Load Shedding
+                        
+주소 : https://www.infoq.com/news/2024/02/uber-dynamic-load-shedding/
+설명 : 
+                         Uber created a new load-shedding library for its microservice platform, serving over 130 million customers and handling aggregated peaks of millions of requests per second (RPSs). The company replaced the solution based on QALM with Cinnamon library, which, in addition to graceful degradation, can dynamically and continuously adjust the capacity of the service and the amount of load shedding.
+                    
+2 번째 검색 내용 
+제목 : 
+
                             Java News Roundup: LibericaJDK with RISC-V, Payara Platform, Gradle 8.6, LangChain4j, Spring Cloud
                         
 주소 : https://www.infoq.com/news/2024/02/java-news-roundup-jan29-2024/
 설명 : 
                          This week's Java roundup for January 29th, 2024 features news highlighting: LibericaJDK 21 with support for RISC-V, January release of Payara Platform, Gradle 8.6, LangChain4j 0.26, GraalVM Native Build Tools 0.10, and multiple releases of Open Liberty and Eclipse Vert.x.
                     
-2 번째 검색 내용 
+3 번째 검색 내용 
 제목 : 
 
                             Simplifying Java Development: Introducing Multi-File Program Launching
@@ -16,7 +25,7 @@
 설명 : 
                          JEP 458, Launch Multi-File Source-Code Programs, has been Closed/Delivered for JDK 22. This JEP proposes to enhance the Java Launcher to execute an application supplied as one or more files of Java source code. This allows a more gradual transition from small applications to larger ones by postponing a full-blown project setup.
                     
-3 번째 검색 내용 
+4 번째 검색 내용 
 제목 : 
 
                             Microsoft Introduces Visual Studio Code Extension for SharePoint Embedded
@@ -25,7 +34,7 @@
 설명 : 
                          Last week Microsoft released a preview release of SharePoint Embedded extension for Visual Studio Code. The extension enables developers to easily set up Azure Entra app registrations for SharePoint Embedded. It also helps manage free trial container types, create guest apps, load sample apps, and export settings for use with the SharePoint Embedded Postman Collection.
                     
-4 번째 검색 내용 
+5 번째 검색 내용 
 제목 : 
 
                             ScaleOps Automates Rightsizing to Slash Kubernetes Costs
@@ -34,7 +43,7 @@
 설명 : 
                          ScaleOps, a startup working in the cloud resource management sector, has unveiled a fully-automated cloud-native cost saving platform. ScaleOps claims to slash cloud costs by up to 80%, with a fully-automated platform that continuously optimizes and manages cloud-native resources during runtime.
                     
-5 번째 검색 내용 
+6 번째 검색 내용 
 제목 : 
 
                             Public Preview of the Arc Visual Studio Code Extension
@@ -43,7 +52,7 @@
 설명 : 
                          Microsoft recently introduced the Arc Visual Studio Code Extension in public review. This extension improves the developer experience for both workloads that are running on the Edge and services that are built to be published on the Azure Marketplace.
                     
-6 번째 검색 내용 
+7 번째 검색 내용 
 제목 : 
 
                             AWS Has Started Charging for Public IPv4 Usage
@@ -52,7 +61,7 @@
 설명 : 
                          Since the beginning of February, AWS has been charging every public IPv4 address used by customers. While the 0.005 USD per hour charge might encourage developers to be more frugal with the usage of public IPv4 addresses, AWS is estimated to generate an extra annual revenue ranging between 400 million and 1 billion USD.
                     
-7 번째 검색 내용 
+8 번째 검색 내용 
 제목 : 
 
                             Google Project IDX Integrates iOS and Android Emulator, Extends Templates Library, and More
@@ -61,7 +70,7 @@
 설명 : 
                          Six months after its launch, Google has extended its experimental AI-powered, Cloud-based, shared workspace Project IDX with the introduction of integrated iOS simulator and Android emulator, new project templates, better integration with the Nix package manager, and more.
                     
-8 번째 검색 내용 
+9 번째 검색 내용 
 제목 : 
 
                             GitHub Upgrades its MySQL Infrastructure from v5.7 to 8.0
@@ -70,7 +79,7 @@
 설명 : 
                          GitHub recently upgraded its MySQL infrastructure from version 5.7 to 8.0. The motivation behind this upgrade was 5.7 reaching the end of life, and a need to leverage the latest security patches, bug fixes, and performance enhancements offered by MySQL 8.0.
                     
-9 번째 검색 내용 
+10 번째 검색 내용 
 제목 : 
 
                             Pinecone Introduces its Serverless Vector Database
@@ -79,7 +88,7 @@
 설명 : 
                          Pinecone recently announced the public preview of its new serverless vector database, designed to reduce infrastructure management costs while improving the accuracy of generative AI applications.
                     
-10 번째 검색 내용 
+11 번째 검색 내용 
 제목 : 
 
                             Java Enhances Pattern Matching with Primitive Type Support in JEP 455
@@ -88,7 +97,7 @@
 설명 : 
                          JEP 455, Primitive Types in Patterns, instanceof, and switch (Preview), has been promoted from Proposed to Target to Targeted for JDK 23. This JEP, under the auspices of Project Amber, proposes to enhance pattern matching by allowing primitive type patterns in all pattern contexts, and extend instanceof and switch to work with all primitive types.
                     
-11 번째 검색 내용 
+12 번째 검색 내용 
 제목 : 
 
                             Uno Platform 5.1 Release: Live Wizard, New UI Controls and Performance Improvements
@@ -97,7 +106,7 @@
 설명 : 
                          Uno Platform released version 5.1, with the inclusion of a Solution Template Wizard for non-Visual Studio users. This highly requested feature has been extended to JetBrains Rider and VS Code users through the new LIVE Wizard version, which should simplify project setup steps. Other changes include Uno.Sdk for a smaller csproj footprint, three new controls and notable performance enhancements.
                     
-12 번째 검색 내용 
+13 번째 검색 내용 
 제목 : 
 
                             How Continuous Mobile Development Can Benefit from Test Automation
@@ -106,7 +115,7 @@
 설명 : 
                          Test automation can support continuous mobile software development by reducing manual testing efforts, minimizing human errors, and accelerating the release cycle. Burak Ergören shared his experiences from automating their mobile testing at QA Challenge Accepted 2023.
                     
-13 번째 검색 내용 
+14 번째 검색 내용 
 제목 : 
 
                             Docker Now on AWS Cloudshell
@@ -115,7 +124,7 @@
 설명 : 
                          AWS recently announced that AWS CloudShell now provides access to Docker Engine for its users. With this integration, containers can be locally prototyped and pushed to registries prior to deploying them on AWS.
                     
-14 번째 검색 내용 
+15 번째 검색 내용 
 제목 : 
 
                             Kubernetes 1.29 Released with KMS V2 Improvements and nftables Support
@@ -123,13 +132,4 @@
 주소 : https://www.infoq.com/news/2024/01/kubernetes-1-29/
 설명 : 
                          The Cloud Native Computing Foundation (CNCF) released Kubernetes 1.29 named Mandala last month. The latest release introduces new features such as load balancer IP mode for services,  mutable pod resources for Windows containers, and nftables for the kube-proxy.
-                    
-15 번째 검색 내용 
-제목 : 
-
-                            Meta Releases Code Generation Model Code Llama 70B, Nearing GPT-3.5 Performance
-                        
-주소 : https://www.infoq.com/news/2024/01/code-llama-70b-released/
-설명 : 
-                         Code Llama 70B is Meta's new code generation AI model. Thanks to its 70 billion parameters, it is "the largest and best-performing model in the Code Llama family", Meta says.
                     
