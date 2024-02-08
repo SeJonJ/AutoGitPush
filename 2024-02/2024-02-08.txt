@@ -1,0 +1,135 @@
+1 번째 검색 내용 
+제목 : 
+
+                            AWS Launches CDK Migrate and CloudFormation IaC Generator for Infrastructure as Code Adoption
+                        
+주소 : https://www.infoq.com/news/2024/02/aws-cdk-migrate-ga/
+설명 : 
+                         AWS announced the general availability (GA) of CDK Migrate, a component of the AWS Cloud Development Kit (CDK – an open source project), which enables developers to migrate AWS CloudFormation templates, previously deployed CloudFormation stacks or resources created outside of Infrastructure as Code (IaC) into a CDK application.
+                    
+2 번째 검색 내용 
+제목 : 
+
+                            Cloudflare Foundations: A Comprehensive Rust Library for Building Robust, Scalable Services
+                        
+주소 : https://www.infoq.com/news/2024/02/cloudflare-foundations-rust/
+설명 : 
+                         Cloudflare announced the release of Foundations: a powerful Rust library for building distributed, production-grade systems. Initially developed as part of the Oxy proxy framework, Foundations has evolved into a versatile library designed to simplify the complexities of deploying and managing services at scale.
+                    
+3 번째 검색 내용 
+제목 : 
+
+                            Microsoft Migrates a Real-Time Service to .NET Core for Performance Gains
+                        
+주소 : https://www.infoq.com/news/2024/02/office-rtc-migrated-dotnet-core/
+설명 : 
+                         Microsoft migrated the real-time co-authoring service in the Microsoft Office suite of applications from .NET Framework 4.7.2 to .NET 7 last year. They achieved 30% CPU reduction, 60% memory reduction, and 50% API latency reduction compared to the original service.
+                    
+4 번째 검색 내용 
+제목 : 
+
+                            OpenAI Releases New Embedding Models and Improved GPT-4 Turbo
+                        
+주소 : https://www.infoq.com/news/2024/02/openai-model-updates/
+설명 : 
+                         OpenAI recently announced the release of several updates to their models, including two new embedding models and updates to GPT-4 Turbo and GPT-3.5 Turbo. The company also announced improvements to their free text moderation tool and to their developer API management tools.
+                    
+5 번째 검색 내용 
+제목 : 
+
+                            TikTok Owner Open-Sources Next Gen Kubernetes Federation Tool
+                        
+주소 : https://www.infoq.com/news/2024/02/bytedance-kubeadmiral/
+설명 : 
+                         ByteDance, the company behind popular global platforms like TikTok, has unveiled KubeAdmiral, its next-generation cluster federation system for Kubernetes, designed to manage multiple clusters with the efficiency and effectiveness comparable to a seasoned navy admiral commanding a fleet.  KubeAdmiral scales to run more than 10 million pods across dozens of federated Kubernetes clusters.
+                    
+6 번째 검색 내용 
+제목 : 
+
+                            Uber Improves Resiliency of Microservices with Adaptive Load Shedding
+                        
+주소 : https://www.infoq.com/news/2024/02/uber-dynamic-load-shedding/
+설명 : 
+                         Uber created a new load-shedding library for its microservice platform, serving over 130 million customers and handling aggregated peaks of millions of requests per second (RPSs). The company replaced the solution based on QALM with Cinnamon library, which, in addition to graceful degradation, can dynamically and continuously adjust the capacity of the service and the amount of load shedding.
+                    
+7 번째 검색 내용 
+제목 : 
+
+                            Java News Roundup: LibericaJDK with RISC-V, Payara Platform, Gradle 8.6, LangChain4j, Spring Cloud
+                        
+주소 : https://www.infoq.com/news/2024/02/java-news-roundup-jan29-2024/
+설명 : 
+                         This week's Java roundup for January 29th, 2024 features news highlighting: LibericaJDK 21 with support for RISC-V, January release of Payara Platform, Gradle 8.6, LangChain4j 0.26, GraalVM Native Build Tools 0.10, and multiple releases of Open Liberty and Eclipse Vert.x.
+                    
+8 번째 검색 내용 
+제목 : 
+
+                            Simplifying Java Development: Introducing Multi-File Program Launching
+                        
+주소 : https://www.infoq.com/news/2024/02/multi-file-program-launching/
+설명 : 
+                         JEP 458, Launch Multi-File Source-Code Programs, has been Closed/Delivered for JDK 22. This JEP proposes to enhance the Java Launcher to execute an application supplied as one or more files of Java source code. This allows a more gradual transition from small applications to larger ones by postponing a full-blown project setup.
+                    
+9 번째 검색 내용 
+제목 : 
+
+                            Microsoft Introduces Visual Studio Code Extension for SharePoint Embedded
+                        
+주소 : https://www.infoq.com/news/2024/02/sharepoint-embedded-vs-extension/
+설명 : 
+                         Last week Microsoft released a preview release of SharePoint Embedded extension for Visual Studio Code. The extension enables developers to easily set up Azure Entra app registrations for SharePoint Embedded. It also helps manage free trial container types, create guest apps, load sample apps, and export settings for use with the SharePoint Embedded Postman Collection.
+                    
+10 번째 검색 내용 
+제목 : 
+
+                            ScaleOps Automates Rightsizing to Slash Kubernetes Costs
+                        
+주소 : https://www.infoq.com/news/2024/02/scaleops-container-slash-costs/
+설명 : 
+                         ScaleOps, a startup working in the cloud resource management sector, has unveiled a fully-automated cloud-native cost saving platform. ScaleOps claims to slash cloud costs by up to 80%, with a fully-automated platform that continuously optimizes and manages cloud-native resources during runtime.
+                    
+11 번째 검색 내용 
+제목 : 
+
+                            Public Preview of the Arc Visual Studio Code Extension
+                        
+주소 : https://www.infoq.com/news/2024/02/arc-vs-code/
+설명 : 
+                         Microsoft recently introduced the Arc Visual Studio Code Extension in public review. This extension improves the developer experience for both workloads that are running on the Edge and services that are built to be published on the Azure Marketplace.
+                    
+12 번째 검색 내용 
+제목 : 
+
+                            AWS Has Started Charging for Public IPv4 Usage
+                        
+주소 : https://www.infoq.com/news/2024/02/aws-ipv4-charges/
+설명 : 
+                         Since the beginning of February, AWS has been charging every public IPv4 address used by customers. While the 0.005 USD per hour charge might encourage developers to be more frugal with the usage of public IPv4 addresses, AWS is estimated to generate an extra annual revenue ranging between 400 million and 1 billion USD.
+                    
+13 번째 검색 내용 
+제목 : 
+
+                            Google Project IDX Integrates iOS and Android Emulator, Extends Templates Library, and More
+                        
+주소 : https://www.infoq.com/news/2024/02/google-project-idx-ios-android/
+설명 : 
+                         Six months after its launch, Google has extended its experimental AI-powered, Cloud-based, shared workspace Project IDX with the introduction of integrated iOS simulator and Android emulator, new project templates, better integration with the Nix package manager, and more.
+                    
+14 번째 검색 내용 
+제목 : 
+
+                            GitHub Upgrades its MySQL Infrastructure from v5.7 to 8.0
+                        
+주소 : https://www.infoq.com/news/2024/02/github-mysql-upgrade-v8/
+설명 : 
+                         GitHub recently upgraded its MySQL infrastructure from version 5.7 to 8.0. The motivation behind this upgrade was 5.7 reaching the end of life, and a need to leverage the latest security patches, bug fixes, and performance enhancements offered by MySQL 8.0.
+                    
+15 번째 검색 내용 
+제목 : 
+
+                            Pinecone Introduces its Serverless Vector Database
+                        
+주소 : https://www.infoq.com/news/2024/02/pinecone-serverless-database/
+설명 : 
+                         Pinecone recently announced the public preview of its new serverless vector database, designed to reduce infrastructure management costs while improving the accuracy of generative AI applications.
+                    
