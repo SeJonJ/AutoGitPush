@@ -1,13 +1,22 @@
 1 번째 검색 내용 
 제목 : 
 
+                            Enhancing Observability: Amazon CloudWatch Logs Introduces Account-Level Subscription Filter
+                        
+주소 : https://www.infoq.com/news/2024/02/aws-cloudwatch-logs-filters/
+설명 : 
+                         The recent update to Amazon CloudWatch Logs introduces support for account-level subscription filtering. With this enhancement, developers can now access a real-time feed of CloudWatch Logs from all logs groups and have it delivered to a single destination for further processing.
+                    
+2 번째 검색 내용 
+제목 : 
+
                             InfoQ & QCon Events: Level up on Generative AI, Security, Platform Engineering, and More Upcoming
                         
 주소 : https://www.infoq.com/news/2024/02/infoq-qcon-events-2024/
 설명 : 
                          As we navigate through these transformative times, the upcoming InfoQ events stand as a platform to help you stay ahead, learn valuable insights, and find practical solutions to your development challenges in 2024 and beyond.  The events are carefully curated for senior software engineers, architects, and team leaders, offering practitioner insights into emerging trends, patterns, and practices.
                     
-2 번째 검색 내용 
+3 번째 검색 내용 
 제목 : 
 
                             How To Develop a Culture of Quality in Software Organizations
@@ -16,7 +25,7 @@
 설명 : 
                          According to Erika Chestnut, software organizations can develop a culture of quality with a clear commitment from leadership, not only to endorse quality efforts in software teams, but also to actively champion them. This commitment and advocacy should manifest in data-driven decision-making that strikes a balance between innovation and quality, ensuring that we maintain the highest quality.
                     
-3 번째 검색 내용 
+4 번째 검색 내용 
 제목 : 
 
                             Azure Monitor Metrics Data Plane API for Enhanced Resource Insight Gathering
@@ -25,7 +34,7 @@
 설명 : 
                          Microsoft recently announced the general availability (GA) of Azure Monitor Metrics Data Plane API, which makes resource insight gathering more efficient by providing developers the capability to retrieve the metric data for up to 50 resource IDs in the same subscription and region in a single batch API call thus improving query throughput and reducing the risk of throttling.
                     
-4 번째 검색 내용 
+5 번째 검색 내용 
 제목 : 
 
                             NVIDIA Introduces Metropolis Microservices for Jetson to Run AI Apps at the Edge
@@ -34,7 +43,7 @@
 설명 : 
                          NVIDIA has expanded its Nvidia Metropolis Microservices Cloud-based AI solution to run on the NVIDIA Jetson IoT embedded platform, including support for video streaming and AI-based perception.
                     
-5 번째 검색 내용 
+6 번째 검색 내용 
 제목 : 
 
                             Instacart Creates Real-Time Item Availability Architecture with ML and Event Processing
@@ -43,7 +52,7 @@
 설명 : 
                          Instacart combined machine learning with event-based processing to create an architecture that provides customers with an indication of item availability in near real-time. The new solution helped to improve user satisfaction and retention by reducing order cancellations due to out-of-stock items. The team also created a multi-model experimentation framework to help enhance model quality.
                     
-6 번째 검색 내용 
+7 번째 검색 내용 
 제목 : 
 
                             AWS Launches CDK Migrate and CloudFormation IaC Generator for Infrastructure as Code Adoption
@@ -52,7 +61,7 @@
 설명 : 
                          AWS announced the general availability (GA) of CDK Migrate, a component of the AWS Cloud Development Kit (CDK – an open source project), which enables developers to migrate AWS CloudFormation templates, previously deployed CloudFormation stacks or resources created outside of Infrastructure as Code (IaC) into a CDK application.
                     
-7 번째 검색 내용 
+8 번째 검색 내용 
 제목 : 
 
                             Cloudflare Foundations: a Comprehensive Rust Library for Building Robust, Scalable Services
@@ -61,7 +70,7 @@
 설명 : 
                          Cloudflare announced the release of Foundations: a powerful Rust library for building distributed, production-grade systems. Initially developed as part of the Oxy proxy framework, Foundations has evolved into a versatile library designed to simplify the complexities of deploying and managing services at scale.
                     
-8 번째 검색 내용 
+9 번째 검색 내용 
 제목 : 
 
                             Microsoft Migrates a Real-Time Service to .NET Core for Performance Gains
@@ -70,7 +79,7 @@
 설명 : 
                          Microsoft migrated the real-time co-authoring service in the Microsoft Office suite of applications from .NET Framework 4.7.2 to .NET 7 last year. They achieved 30% CPU reduction, 60% memory reduction, and 50% API latency reduction compared to the original service.
                     
-9 번째 검색 내용 
+10 번째 검색 내용 
 제목 : 
 
                             OpenAI Releases New Embedding Models and Improved GPT-4 Turbo
@@ -79,7 +88,7 @@
 설명 : 
                          OpenAI recently announced the release of several updates to their models, including two new embedding models and updates to GPT-4 Turbo and GPT-3.5 Turbo. The company also announced improvements to their free text moderation tool and to their developer API management tools.
                     
-10 번째 검색 내용 
+11 번째 검색 내용 
 제목 : 
 
                             TikTok Owner Open-Sources Next Gen Kubernetes Federation Tool
@@ -88,7 +97,7 @@
 설명 : 
                          ByteDance, the company behind popular global platforms like TikTok, has unveiled KubeAdmiral, its next-generation cluster federation system for Kubernetes, designed to manage multiple clusters with the efficiency and effectiveness comparable to a seasoned navy admiral commanding a fleet.  KubeAdmiral scales to run more than 10 million pods across dozens of federated Kubernetes clusters.
                     
-11 번째 검색 내용 
+12 번째 검색 내용 
 제목 : 
 
                             Uber Improves Resiliency of Microservices with Adaptive Load Shedding
@@ -97,7 +106,7 @@
 설명 : 
                          Uber created a new load-shedding library for its microservice platform, serving over 130 million customers and handling aggregated peaks of millions of requests per second (RPSs). The company replaced the solution based on QALM with Cinnamon library, which, in addition to graceful degradation, can dynamically and continuously adjust the capacity of the service and the amount of load shedding.
                     
-12 번째 검색 내용 
+13 번째 검색 내용 
 제목 : 
 
                             Java News Roundup: LibericaJDK with RISC-V, Payara Platform, Gradle 8.6, LangChain4j, Spring Cloud
@@ -106,7 +115,7 @@
 설명 : 
                          This week's Java roundup for January 29th, 2024, features news highlighting: LibericaJDK 21 with support for RISC-V, January release of Payara Platform, Gradle 8.6, LangChain4j 0.26, GraalVM Native Build Tools 0.10, and multiple releases of Open Liberty and Eclipse Vert.x.
                     
-13 번째 검색 내용 
+14 번째 검색 내용 
 제목 : 
 
                             Simplifying Java Development: Introducing Multi-File Program Launching
@@ -115,7 +124,7 @@
 설명 : 
                          JEP 458, Launch Multi-File Source-Code Programs, has been Closed/Delivered for JDK 22. This JEP proposes to enhance the Java Launcher to execute an application supplied as one or more files of Java source code. This allows a more gradual transition from small applications to larger ones by postponing a full-blown project setup.
                     
-14 번째 검색 내용 
+15 번째 검색 내용 
 제목 : 
 
                             Microsoft Introduces Visual Studio Code Extension for SharePoint Embedded
@@ -123,13 +132,4 @@
 주소 : https://www.infoq.com/news/2024/02/sharepoint-embedded-vs-extension/
 설명 : 
                          Last week Microsoft released a preview release of SharePoint Embedded extension for Visual Studio Code. The extension enables developers to easily set up Azure Entra app registrations for SharePoint Embedded. It also helps manage free trial container types, create guest apps, load sample apps, and export settings for use with the SharePoint Embedded Postman Collection.
-                    
-15 번째 검색 내용 
-제목 : 
-
-                            ScaleOps Automates Rightsizing to Slash Kubernetes Costs
-                        
-주소 : https://www.infoq.com/news/2024/02/scaleops-container-slash-costs/
-설명 : 
-                         ScaleOps, a startup working in the cloud resource management sector, has unveiled a fully-automated cloud-native cost saving platform. ScaleOps claims to slash cloud costs by up to 80%, with a fully-automated platform that continuously optimizes and manages cloud-native resources during runtime.
                     
