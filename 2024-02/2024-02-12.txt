@@ -1,13 +1,31 @@
 1 번째 검색 내용 
 제목 : 
 
+                            HashiCorp Enhances Proactive Secrets Discovery with HCP Vault Radar
+                        
+주소 : https://www.infoq.com/news/2024/02/hcp-vault-beta/
+설명 : 
+                         Infrastructure automation software company HashiCorp have announced a limited beta phase for HCP Vault Radar, a Software-as-a-Service (SaaS) based secrets discovery product. HCP Vault Radar is a secret scanning product that focuses on the proactive discovery of unmanaged or leaked secrets, allowing organizations to take swift action if secret information is exposed.
+                    
+2 번째 검색 내용 
+제목 : 
+
+                            Java News Roundup: JDK 22 RC1, JBoss EAP 8.0, GlassFish 8.0-M2, LangChain4j 0.27
+                        
+주소 : https://www.infoq.com/news/2024/02/java-news-roundup-feb05-2024/
+설명 : 
+                         This week's Java roundup for February 5th, 2024 features news highlighting: the first release candidate of JDK 22, JBoss Enterprise Application Platform 8.0, IBM Semeru Runtimes first quarter 2024 updates, LangChain4j 0.27.0, and multiple point releases for Micronaut, Helidon and Eclipse Vert.x.
+                    
+3 번째 검색 내용 
+제목 : 
+
                             Microsoft Shares Lessons Learned on Building AI Copilots
                         
 주소 : https://www.infoq.com/news/2024/02/ms-lessons-learned-copilots/
 설명 : 
                          Researchers at Microsoft and GitHub Inc. have conducted an in-depth study into the challenges, opportunities, and needs associated with building AI-powered product copilots. The research involved interviews with 26 professional software engineers from various companies who are responsible for developing these advanced tools.
                     
-2 번째 검색 내용 
+4 번째 검색 내용 
 제목 : 
 
                             Pinterest Open-Sources a Production-Ready PubSub Java Client for Kafka, Flink, and MemQ
@@ -16,7 +34,7 @@
 설명 : 
                          Pinterest open-sourced its generic PubSub client library, PSC, which has been heavily used in production for a year and a half. The library helped the engineering teams by increasing developer velocity, and the scalability and stability of services using it. Over 90% of Java applications have migrated to PSC with minimal changes.
                     
-3 번째 검색 내용 
+5 번째 검색 내용 
 제목 : 
 
                             Grafana v10.3: Visualizations, Alerting, Management and Log Analysis Improvements
@@ -25,7 +43,7 @@
 설명 : 
                          Grafana 10.3 introduces a range of enhancements spanning visualization, instance management, alerting, and log analysis. These upgrades include improved tooltips and zoom functionality for data navigation, alongside features for tracking metric changes and visualizing system health. Additionally, improvements in alerting and log analysis are also available.
                     
-4 번째 검색 내용 
+6 번째 검색 내용 
 제목 : 
 
                             Enhancing Observability: Amazon CloudWatch Logs Introduces Account-Level Subscription Filter
@@ -34,7 +52,7 @@
 설명 : 
                          The recent update to Amazon CloudWatch Logs introduces support for account-level subscription filtering. With this enhancement, developers can now access a real-time feed of CloudWatch Logs from all logs groups and have it delivered to a single destination for further processing.
                     
-5 번째 검색 내용 
+7 번째 검색 내용 
 제목 : 
 
                             InfoQ & QCon Events: Level up on Generative AI, Security, Platform Engineering, and More Upcoming
@@ -43,7 +61,7 @@
 설명 : 
                          As we navigate through these transformative times, the upcoming InfoQ events stand as a platform to help you stay ahead, learn valuable insights, and find practical solutions to your development challenges in 2024 and beyond.  The events are carefully curated for senior software engineers, architects, and team leaders, offering practitioner insights into emerging trends, patterns, and practices.
                     
-6 번째 검색 내용 
+8 번째 검색 내용 
 제목 : 
 
                             How to Develop a Culture of Quality in Software Organizations
@@ -52,7 +70,7 @@
 설명 : 
                          According to Erika Chestnut, software organizations can develop a culture of quality with a clear commitment from leadership, not only to endorse quality efforts in software teams, but also to actively champion them. This commitment and advocacy should manifest in data-driven decision-making that strikes a balance between innovation and quality, ensuring that we maintain the highest quality.
                     
-7 번째 검색 내용 
+9 번째 검색 내용 
 제목 : 
 
                             NVIDIA Introduces Metropolis Microservices for Jetson to Run AI Apps at the Edge
@@ -61,7 +79,7 @@
 설명 : 
                          NVIDIA has expanded its Nvidia Metropolis Microservices Cloud-based AI solution to run on the NVIDIA Jetson IoT embedded platform, including support for video streaming and AI-based perception.
                     
-8 번째 검색 내용 
+10 번째 검색 내용 
 제목 : 
 
                             Azure Monitor Metrics Data Plane API for Enhanced Resource Insight Gathering
@@ -70,7 +88,7 @@
 설명 : 
                          Microsoft recently announced the general availability (GA) of Azure Monitor Metrics Data Plane API, which makes resource insight gathering more efficient by providing developers with the capability to retrieve the metric data for up to 50 resource IDs in the same subscription and region in a single batch API call, thus improving query throughput and reducing the risk of throttling.
                     
-9 번째 검색 내용 
+11 번째 검색 내용 
 제목 : 
 
                             Instacart Creates Real-Time Item Availability Architecture with ML and Event Processing
@@ -79,7 +97,7 @@
 설명 : 
                          Instacart combined machine learning with event-based processing to create an architecture that provides customers with an indication of item availability in near real-time. The new solution helped to improve user satisfaction and retention by reducing order cancellations due to out-of-stock items. The team also created a multi-model experimentation framework to help enhance model quality.
                     
-10 번째 검색 내용 
+12 번째 검색 내용 
 제목 : 
 
                             AWS Launches CDK Migrate and CloudFormation IaC Generator for Infrastructure as Code Adoption
@@ -88,7 +106,7 @@
 설명 : 
                          AWS announced the general availability (GA) of CDK Migrate, a component of the AWS Cloud Development Kit (CDK – an open source project), which enables developers to migrate AWS CloudFormation templates, previously deployed CloudFormation stacks or resources created outside of Infrastructure as Code (IaC) into a CDK application.
                     
-11 번째 검색 내용 
+13 번째 검색 내용 
 제목 : 
 
                             Cloudflare Foundations: a Comprehensive Rust Library for Building Robust, Scalable Services
@@ -97,7 +115,7 @@
 설명 : 
                          Cloudflare announced the release of Foundations: a powerful Rust library for building distributed, production-grade systems. Initially developed as part of the Oxy proxy framework, Foundations has evolved into a versatile library designed to simplify the complexities of deploying and managing services at scale.
                     
-12 번째 검색 내용 
+14 번째 검색 내용 
 제목 : 
 
                             Microsoft Migrates a Real-Time Service to .NET Core for Performance Gains
@@ -106,7 +124,7 @@
 설명 : 
                          Microsoft migrated the real-time co-authoring service in the Microsoft Office suite of applications from .NET Framework 4.7.2 to .NET 7 last year. They achieved 30% CPU reduction, 60% memory reduction, and 50% API latency reduction compared to the original service.
                     
-13 번째 검색 내용 
+15 번째 검색 내용 
 제목 : 
 
                             OpenAI Releases New Embedding Models and Improved GPT-4 Turbo
@@ -114,22 +132,4 @@
 주소 : https://www.infoq.com/news/2024/02/openai-model-updates/
 설명 : 
                          OpenAI recently announced the release of several updates to their models, including two new embedding models and updates to GPT-4 Turbo and GPT-3.5 Turbo. The company also announced improvements to their free text moderation tool and to their developer API management tools.
-                    
-14 번째 검색 내용 
-제목 : 
-
-                            TikTok Owner Open-Sources Next Gen Kubernetes Federation Tool
-                        
-주소 : https://www.infoq.com/news/2024/02/bytedance-kubeadmiral/
-설명 : 
-                         ByteDance, the company behind popular global platforms like TikTok, has unveiled KubeAdmiral, its next-generation cluster federation system for Kubernetes, designed to manage multiple clusters with the efficiency and effectiveness comparable to a seasoned navy admiral commanding a fleet.  KubeAdmiral scales to run more than 10 million pods across dozens of federated Kubernetes clusters.
-                    
-15 번째 검색 내용 
-제목 : 
-
-                            Uber Improves Resiliency of Microservices with Adaptive Load Shedding
-                        
-주소 : https://www.infoq.com/news/2024/02/uber-dynamic-load-shedding/
-설명 : 
-                         Uber created a new load-shedding library for its microservice platform, serving over 130 million customers and handling aggregated peaks of millions of requests per second (RPSs). The company replaced the solution based on QALM with Cinnamon library, which, in addition to graceful degradation, can dynamically and continuously adjust the capacity of the service and the amount of load shedding.
                     
