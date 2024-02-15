@@ -1,0 +1,135 @@
+1 번째 검색 내용 
+제목 : 
+
+                            DoorDash Uses CockroachDB to Create Config Management Platform for Microservices
+                        
+주소 : https://www.infoq.com/news/2024/02/doordash-config-cockroachdb/
+설명 : 
+                         DoorDash created a configuration management platform to help its logistics team maintain the growing number of business preferences and configuration values. The company used CockroachDB for persistence and simplified the architecture compared with the previous solution. The new platform enables experimentation, improves configuration value lifecycle, and provides flexibility and extendibility.
+                    
+2 번째 검색 내용 
+제목 : 
+
+                            MIT Researchers Use Explainable AI Model to Discover New Antibiotics
+                        
+주소 : https://www.infoq.com/news/2024/02/mit-antibiotic-ai/
+설명 : 
+                         Researchers from MIT's Collins lab used an explainable deep-learning model to discover chemical compounds which could fight the MRSA bacteria. The model uses graph algorithms to identify chemical compounds which are likely to have antibiotic properties. Additional models predict whether or not the chemicals would be harmful to humans.
+                    
+3 번째 검색 내용 
+제목 : 
+
+                            Apache Pekko: Simplifying Concurrent Development With the Actor Model
+                        
+주소 : https://www.infoq.com/news/2024/02/apache-pekko-actor/
+설명 : 
+                         Apache Pekko is an open-source framework designed to simplify the development of concurrent, distributed, resilient, and elastic applications. Leveraging the Actor Model, Pekko offers high-level abstractions for concurrency, allowing developers to focus on business logic rather than low-level implementation details.
+                    
+4 번째 검색 내용 
+제목 : 
+
+                            Skills and Insights for First-Time Managers
+                        
+주소 : https://www.infoq.com/news/2024/02/first-time-manager-skills/
+설명 : 
+                         The skills and capabilities required to be an effective first-time engineering manager are often orthogonal to those of an IC. These range  from people management through to delivery of projects.  We report on recent podcasts featuring Ben Greenberg, Matt Stratton and Shopify's James Stanier as they share practical management patterns for prospective, new and seasoned engineering managers.
+                    
+5 번째 검색 내용 
+제목 : 
+
+                            Microsoft Copilot Studio Enables AI-Driven Conversational Interfaces for Business Applications
+                        
+주소 : https://www.infoq.com/news/2024/02/copilot-studio-powerva-available/
+설명 : 
+                         Microsoft recently announced the low-code tool Microsoft Copilot Studio at Ignite 2023. Copilot Studio users can both build standalone copilots and customize Microsoft Copilot for Microsoft 365 — thus using AI-driven conversational capabilities for ad-hoc enterprise use cases.
+                    
+6 번째 검색 내용 
+제목 : 
+
+                            Optimizing Java for Modern Hardware: The Continuous Evolution of the Vector API
+                        
+주소 : https://www.infoq.com/news/2024/02/evolution-of-the-vector-api/
+설명 : 
+                         JEP 460, Vector API (Seventh Incubator), has been delivered for JDK 22, marking the culmination of iterative enhancements from its initial incubation in JDK 16 through to JEP 448 in JDK 21. This latest version, part of Project Panama, introduces significant improvements upon feedback from six previous rounds of incubation.
+                    
+7 번째 검색 내용 
+제목 : 
+
+                            iOS Developers Can Now Use Non-Apple App Stores in the EU, at a Fee
+                        
+주소 : https://www.infoq.com/news/2024/02/apple-dma-compliance/
+설명 : 
+                         Responding to the European Commission Digital Markets Act (DMA), which aims to regulate the "gatekeeper power" of digital companies, Apple has opened up the possibility for developers to distribute their iPhone apps through alternative marketplaces in EU countries. Developers, though, will be required to pay a new Core Technology Fee if they do.
+                    
+8 번째 검색 내용 
+제목 : 
+
+                            TLS 1.3 Preview Now Available in Azure API Management
+                        
+주소 : https://www.infoq.com/news/2024/02/azure-api-management-tls-preview/
+설명 : 
+                         Azure API Management is set to introduce TLS 1.3 support in its V1 and V2 tiers starting in the initial week of February 2024. According to Microsoft, the rollout will occur progressively across regions. Inbound traffic for both V1 and V2 tiers will inherently support TLS 1.3 for incoming requests from API clients.
+                    
+9 번째 검색 내용 
+제목 : 
+
+                            HashiCorp Enhances Proactive Secrets Discovery with HCP Vault Radar
+                        
+주소 : https://www.infoq.com/news/2024/02/hcp-vault-beta/
+설명 : 
+                         Infrastructure automation software company HashiCorp have announced a limited beta phase for HCP Vault Radar, a Software-as-a-Service (SaaS) based secrets discovery product. HCP Vault Radar is a secret scanning product that focuses on the proactive discovery of unmanaged or leaked secrets, allowing organizations to take swift action if secret information is exposed.
+                    
+10 번째 검색 내용 
+제목 : 
+
+                            Java News Roundup: JDK 22 RC1, JBoss EAP 8.0, GlassFish 8.0-M2, LangChain4j 0.27
+                        
+주소 : https://www.infoq.com/news/2024/02/java-news-roundup-feb05-2024/
+설명 : 
+                         This week's Java roundup for February 5th, 2024 features news highlighting: the first release candidate of JDK 22, JBoss Enterprise Application Platform 8.0, IBM Semeru Runtimes first quarter 2024 updates, LangChain4j 0.27.0, and multiple point releases for Micronaut, Helidon and Eclipse Vert.x.
+                    
+11 번째 검색 내용 
+제목 : 
+
+                            Microsoft Shares Lessons Learned on Building AI Copilots
+                        
+주소 : https://www.infoq.com/news/2024/02/ms-lessons-learned-copilots/
+설명 : 
+                         Researchers at Microsoft and GitHub Inc. have conducted an in-depth study into the challenges, opportunities, and needs associated with building AI-powered product copilots. The research involved interviews with 26 professional software engineers from various companies who are responsible for developing these advanced tools.
+                    
+12 번째 검색 내용 
+제목 : 
+
+                            Pinterest Open-Sources a Production-Ready PubSub Java Client for Kafka, Flink, and MemQ
+                        
+주소 : https://www.infoq.com/news/2024/02/pinterest-pubsub-kafka-flink/
+설명 : 
+                         Pinterest open-sourced its generic PubSub client library, PSC, which has been heavily used in production for a year and a half. The library helped the engineering teams by increasing developer velocity, and the scalability and stability of services using it. Over 90% of Java applications have migrated to PSC with minimal changes.
+                    
+13 번째 검색 내용 
+제목 : 
+
+                            Grafana v10.3: Visualizations, Alerting, Management and Log Analysis Improvements
+                        
+주소 : https://www.infoq.com/news/2024/02/grafana-v10-3-release/
+설명 : 
+                         Grafana 10.3 introduces a range of enhancements spanning visualization, instance management, alerting, and log analysis. These upgrades include improved tooltips and zoom functionality for data navigation, alongside features for tracking metric changes and visualizing system health. Additionally, improvements in alerting and log analysis are also available.
+                    
+14 번째 검색 내용 
+제목 : 
+
+                            Enhancing Observability: Amazon CloudWatch Logs Introduces Account-Level Subscription Filter
+                        
+주소 : https://www.infoq.com/news/2024/02/aws-cloudwatch-logs-filters/
+설명 : 
+                         The recent update to Amazon CloudWatch Logs introduces support for account-level subscription filtering. With this enhancement, developers can now access a real-time feed of CloudWatch Logs from all logs groups and have it delivered to a single destination for further processing.
+                    
+15 번째 검색 내용 
+제목 : 
+
+                            InfoQ & QCon Events: Level up on Generative AI, Security, Platform Engineering, and More Upcoming
+                        
+주소 : https://www.infoq.com/news/2024/02/infoq-qcon-events-2024/
+설명 : 
+                         As we navigate through these transformative times, the upcoming InfoQ events stand as a platform to help you stay ahead, learn valuable insights, and find practical solutions to your development challenges in 2024 and beyond.  The events are carefully curated for senior software engineers, architects, and team leaders, offering practitioner insights into emerging trends, patterns, and practices.
+                    
