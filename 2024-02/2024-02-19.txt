@@ -1,13 +1,39 @@
 1 번째 검색 내용 
 제목 : 
 
+                            AI and FinOps Predicted to Lead Observability Innovation in 2024
+                        
+주소 : https://www.infoq.com/news/2024/02/observability-2024-predictions/
+설명 : 
+
+2 번째 검색 내용 
+제목 : 
+
+                            Announcing Docker Build Cloud
+                        
+주소 : https://www.infoq.com/news/2024/02/docker-build-cloud/
+설명 : 
+                         Docker recently announced the general availability of their cloud-based Container Image builder, Docker Build Cloud. Docker Build Cloud offers a remote shared-cache and native builders for AMD64 and ARM64 CPU architectures.
+                    
+3 번째 검색 내용 
+제목 : 
+
+                            Java News Roundup: New JEP Candidates, Milestone Releases for Spring Projects and Micrometer
+                        
+주소 : https://www.infoq.com/news/2024/02/java-news-roundup-feb12-2024/
+설명 : 
+                         This week's Java roundup for February 12th, 2024 features news highlighting: new JEP candidates, JEP 465 and JEP 466, milestone and point releases of Spring Framework, Spring Data, Micrometer and Project Reactor, Hibernate Search 7.1.0-RC1 and Infinispan 15.0.0.Dev01.
+                    
+4 번째 검색 내용 
+제목 : 
+
                             Netflix Announces SafeTest, Its Custom Approach to Front-End Testing
                         
 주소 : https://www.infoq.com/news/2024/02/netflix-safetest-front-end-test/
 설명 : 
                          Moshe Kolodny recently introduced SafeTest, described as a novel approach to front-end web testing. SafeTest orchestrates a test runner, a browser automation library, a UI framework, and dependency injection capabilities to alleviate the pain points of traditional UI testing methods. SafeTest is currently used at Netflix.
                     
-2 번째 검색 내용 
+5 번째 검색 내용 
 제목 : 
 
                             Zurich Insurance Group's Journey with Scalable Account Vending and AWS Account Factory for Terraform
@@ -16,7 +42,7 @@
 설명 : 
                          AWS recently highlighted Zurich Insurance Group's use of AWS Account Factory for Terraform, which enabled them to attain the desired performance parameters needed to facilitate the provisioning of more than 3000 accounts. Zurich Insurance Group streamlined its Cloud Adoption Strategy by using the Scalable Account Vending solution, automating the process of setting up new AWS environments easily.
                     
-3 번째 검색 내용 
+6 번째 검색 내용 
 제목 : 
 
                             OpenAI is Adding Memory Capabilities to ChatGPT to Improve Conversations
@@ -25,7 +51,7 @@
 설명 : 
                          By letting ChatGPT remember conversations, OpenAI hopes to reduce the need for users to provide repetitive context information and make future chats more helpful. Users will be able to ask what to remember explicitly, what to forget, or turn off the feature entirely.
                     
-4 번째 검색 내용 
+7 번째 검색 내용 
 제목 : 
 
                             Google Announces Multi-Modal Gemini 1.5 with Million Token Context Length
@@ -34,7 +60,7 @@
 설명 : 
                          One week after announcing Gemini 1.0 Ultra, Google announced additional details about its next generation model, Gemini 1.5. The new iteration comes with an expansion of its context window and the adoption of a "Mixture of Experts" (MoE) architecture, promising to make the AI both faster and more efficient. The new model also includes expanded multimodal capabilities.
                     
-5 번째 검색 내용 
+8 번째 검색 내용 
 제목 : 
 
                             Typescript 5.4 Beta Released with Noinfer Utility Type and Improved Type Inference
@@ -43,7 +69,7 @@
 설명 : 
                          Daniel Rosenwasser, senior program manager for TypeScript, recently announced the beta release of TypeScript 5.4. TypeScript 5.4 features improved type inference, a new NoInfer utility type, and breaking changes.
                     
-6 번째 검색 내용 
+9 번째 검색 내용 
 제목 : 
 
                             Red Hat Enterprise Linux Modifies Pricing Model for Cloud Deployments
@@ -52,7 +78,7 @@
 설명 : 
                          Red Hat has recently announced a revised pricing tied to vCPU count for Red Hat Enterprise Linux (RHEL) deployments across major cloud providers, including AWS, Azure, and Google Cloud. The updated pricing will be effective on April 1st and has sparked concerns among certain users.
                     
-7 번째 검색 내용 
+10 번째 검색 내용 
 제목 : 
 
                             NVIDIA Unveils Chat with RTX, a Locally Run AI Chatbot
@@ -61,7 +87,7 @@
 설명 : 
                          NVIDIA has introduced Chat with RTX, allowing users to build their own personalized chatbot experience. Unlike many cloud-based solutions, Chat with RTX operates entirely on a local Windows PC or workstation, offering enhanced data privacy and control.
                     
-8 번째 검색 내용 
+11 번째 검색 내용 
 제목 : 
 
                             OpenAI Launches AI Text-to-Video Generator Sora
@@ -70,7 +96,7 @@
 설명 : 
                          Sora is OpenAI's new generative AI model to create videos from textual prompts. Currently in preview, the new model is able to create photorealistic videos up to 60 seconds long leveraging its ability to understand how things exist in the real world and combining multiple shots together without character or style disruption.
                     
-9 번째 검색 내용 
+12 번째 검색 내용 
 제목 : 
 
                             OpenSilver 2.1 Brings F# Support for the Silverlight Reimplementation
@@ -79,7 +105,7 @@
 설명 : 
                          OpenSilver 2.1, an update for the remake of the discontinued Silverlight web application framework, introduces support for F# language. The update also contains migrated samples from the original toolkit and allows developers to use themes.
                     
-10 번째 검색 내용 
+13 번째 검색 내용 
 제목 : 
 
                             How to Prevent and Repay Technical Debt: What Teams, Tech Leads and Managers Can Do
@@ -88,7 +114,7 @@
 설명 : 
                          Tech leads, project managers, and managers can prevent technical debt by giving software developers more time; in addition, they can plan for spare time and refactoring sprints to allow teams to improve code. To prioritise technical debt, development teams can show how much time we can save if we invest, and how complicated the software will become in the future if we don’t repay technical debt.
                     
-11 번째 검색 내용 
+14 번째 검색 내용 
 제목 : 
 
                             DoorDash Uses CockroachDB to Create Config Management Platform for Microservices
@@ -97,7 +123,7 @@
 설명 : 
                          DoorDash created a configuration management platform to help its logistics team maintain the growing number of business preferences and configuration values. The company used CockroachDB for persistence and simplified the architecture compared with the previous solution. The new platform enables experimentation, improves configuration value lifecycle, and provides flexibility and extendibility.
                     
-12 번째 검색 내용 
+15 번째 검색 내용 
 제목 : 
 
                             MIT Researchers Use Explainable AI Model to Discover New Antibiotics
@@ -105,31 +131,4 @@
 주소 : https://www.infoq.com/news/2024/02/mit-antibiotic-ai/
 설명 : 
                          Researchers from MIT's Collins lab used an explainable deep-learning model to discover chemical compounds which could fight the MRSA bacteria. The model uses graph algorithms to identify chemical compounds which are likely to have antibiotic properties. Additional models predict whether or not the chemicals would be harmful to humans.
-                    
-13 번째 검색 내용 
-제목 : 
-
-                            Apache Pekko: Simplifying Concurrent Development with the Actor Model
-                        
-주소 : https://www.infoq.com/news/2024/02/apache-pekko-actor/
-설명 : 
-                         Apache Pekko is an open-source framework designed to simplify the development of concurrent, distributed, resilient, and elastic applications. Leveraging the Actor Model, Pekko offers high-level abstractions for concurrency, allowing developers to focus on business logic rather than low-level implementation details.
-                    
-14 번째 검색 내용 
-제목 : 
-
-                            Skills and Insights for First-Time Managers
-                        
-주소 : https://www.infoq.com/news/2024/02/first-time-manager-skills/
-설명 : 
-                         The skills and capabilities required to be an effective first-time engineering manager are often orthogonal to those of an IC. These range  from people management through to delivery of projects.  We report on recent podcasts featuring Ben Greenberg, Matt Stratton and Shopify's James Stanier as they share practical management patterns for prospective, new and seasoned engineering managers.
-                    
-15 번째 검색 내용 
-제목 : 
-
-                            Microsoft Copilot Studio Enables AI-Driven Conversational Interfaces for Business Applications
-                        
-주소 : https://www.infoq.com/news/2024/02/copilot-studio-powerva-available/
-설명 : 
-                         Microsoft recently announced the low-code tool Microsoft Copilot Studio at Ignite 2023. Copilot Studio users can both build standalone copilots and customize Microsoft Copilot for Microsoft 365 — thus using AI-driven conversational capabilities for ad-hoc enterprise use cases.
                     
