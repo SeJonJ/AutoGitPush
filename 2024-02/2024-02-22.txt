@@ -1,0 +1,134 @@
+1 번째 검색 내용 
+제목 : 
+
+                            How Airbnb Migrated from Buck to Bazel with Minimal Interference to Developers
+                        
+주소 : https://www.infoq.com/news/2024/02/airbnb-bazel-migration-ios/
+설명 : 
+                         Following in the line of other organizations migrating their build pipelines to Bazel, Airbnb provided a detailed walk-through of the process that led them to leave Buck behind and improve both build times as well as project generation and loading times.
+                    
+2 번째 검색 내용 
+제목 : 
+
+                            Grab Improves Kafka on Kubernetes Fault Tolerance with Strimzi, AWS AddOns and EBS
+                        
+주소 : https://www.infoq.com/news/2024/02/grab-kafka-kubernetes-aws-nth/
+설명 : 
+                         Grab updated its Kafka on Kubernetes setup to improve fault tolerance and completely eliminate human intervention in case of unexpected Kafka broker terminations. To address the shortcomings of the initial design, the team integrated with AWS Node Termination Handler (NTH), used the Load Balancer Controller for target group mapping, and switched to ELB volumes for storage.
+                    
+3 번째 검색 내용 
+제목 : 
+
+                            Oracle Graal Cloud Native 4.2.1 Brings Java 21 Support, New Cloud Integrations, and More
+                        
+주소 : https://www.infoq.com/news/2024/02/gcn-4-2-1/
+설명 : 
+                         Oracle has released the Graal Cloud Native 4.2.1, its own build of the open source Micronaut framework. This version brings support for Java 21 including Graal Native Image, cloud integration with Google Cloud Platform, new guides for Google Cloud, launcher and client updates, and more.
+                    
+4 번째 검색 내용 
+제목 : 
+
+                            Google Renames Bard to Gemini
+                        
+주소 : https://www.infoq.com/news/2024/02/google-bard-gemini/
+설명 : 
+                         Google announced that their Bard chatbot will now be called Gemini. The company also announced the launch of Gemini Advanced, the largest version of their Gemini language model, along with two new mobile apps for interacting with the model.
+                    
+5 번째 검색 내용 
+제목 : 
+
+                            AWS Introduces an Experimental Low Latency Runtime for Faster, More Efficient Serverless Apps
+                        
+주소 : https://www.infoq.com/news/2024/02/aws-llrt-lambda-experimental/
+설명 : 
+                         AWS recently open-sourced its JavaScript runtime, called LLRT (Low Latency Runtime), an experimental, lightweight JavaScript runtime designed to address the growing demand for fast and efficient Serverless applications.
+                    
+6 번째 검색 내용 
+제목 : 
+
+                            Loco Is a New Framework for Rust Inspired by Rails
+                        
+주소 : https://www.infoq.com/news/2024/02/loco-new-framework-rust-rails/
+설명 : 
+                         Loco is a new framework inspired by Rails, that allows developers to write MVC-style applications in Rust. Loco builds on the comprehensive Rust ecosystem to enhance the application development experience. Rust's language features, such as concurrency, safety, strong typing, and performance, are some of the advantages over Rails or its derivatives.
+                    
+7 번째 검색 내용 
+제목 : 
+
+                            .NET Aspire Preview 3: Expanded Component Support with Azure OpenAI, MySQL, CosmosDB, Kafka and More
+                        
+주소 : https://www.infoq.com/news/2024/02/dotnet-aspire-preview3-released/
+설명 : 
+                         Last week, Microsoft revealed the availability of the .NET Aspire - third preview. Preview 3 brings changes including UI improvements to the dashboard, and new component support for Azure OpenAI, Kafka, Oracle, MySQL, CosmosDB & Orleans, and many more.
+                    
+8 번째 검색 내용 
+제목 : 
+
+                            AI and FinOps Predicted to Lead Observability Innovation in 2024
+                        
+주소 : https://www.infoq.com/news/2024/02/observability-2024-predictions/
+설명 : 
+
+9 번째 검색 내용 
+제목 : 
+
+                            Docker Build Cloud: Using Cloud Compute and Cache to Decrease Image Build Times
+                        
+주소 : https://www.infoq.com/news/2024/02/docker-build-cloud/
+설명 : 
+                         Docker recently announced the general availability of their cloud-based Container Image builder, Docker Build Cloud. Docker Build Cloud offers a remote shared-cache and native builders for AMD64 and ARM64 CPU architectures.
+                    
+10 번째 검색 내용 
+제목 : 
+
+                            Java News Roundup: New JEP Candidates, Milestone Releases for Spring Projects and Micrometer
+                        
+주소 : https://www.infoq.com/news/2024/02/java-news-roundup-feb12-2024/
+설명 : 
+                         This week's Java roundup for February 12th, 2024 features news highlighting: new JEP candidates, JEP 465 and JEP 466, milestone and point releases of Spring Framework, Spring Data, Micrometer and Project Reactor, Hibernate Search 7.1.0-RC1 and Infinispan 15.0.0.Dev01.
+                    
+11 번째 검색 내용 
+제목 : 
+
+                            Netflix Announces SafeTest, Its Custom Approach to Front-End Testing
+                        
+주소 : https://www.infoq.com/news/2024/02/netflix-safetest-front-end-test/
+설명 : 
+                         Moshe Kolodny recently introduced SafeTest, described as a novel approach to front-end web testing. SafeTest orchestrates a test runner, a browser automation library, a UI framework, and dependency injection capabilities to alleviate the pain points of traditional UI testing methods. SafeTest is currently used at Netflix.
+                    
+12 번째 검색 내용 
+제목 : 
+
+                            Zurich Insurance Group's Journey with Scalable Account Vending and AWS Account Factory for Terraform
+                        
+주소 : https://www.infoq.com/news/2024/02/zurich-insurance-group-aws-sav/
+설명 : 
+                         AWS recently highlighted Zurich Insurance Group's use of AWS Account Factory for Terraform, which enabled them to attain the desired performance parameters needed to facilitate the provisioning of more than 3000 accounts. Zurich Insurance Group streamlined its Cloud Adoption Strategy by using the Scalable Account Vending solution, automating the process of setting up new AWS environments easily.
+                    
+13 번째 검색 내용 
+제목 : 
+
+                            OpenAI is Adding Memory Capabilities to ChatGPT to Improve Conversations
+                        
+주소 : https://www.infoq.com/news/2024/02/openai-chatgpt-memory/
+설명 : 
+                         By letting ChatGPT remember conversations, OpenAI hopes to reduce the need for users to provide repetitive context information and make future chats more helpful. Users will be able to ask what to remember explicitly, what to forget, or turn off the feature entirely.
+                    
+14 번째 검색 내용 
+제목 : 
+
+                            Google Announces Multi-Modal Gemini 1.5 with Million Token Context Length
+                        
+주소 : https://www.infoq.com/news/2024/02/google-announces-gemini-15/
+설명 : 
+                         One week after announcing Gemini 1.0 Ultra, Google announced additional details about its next generation model, Gemini 1.5. The new iteration comes with an expansion of its context window and the adoption of a "Mixture of Experts" (MoE) architecture, promising to make the AI both faster and more efficient. The new model also includes expanded multimodal capabilities.
+                    
+15 번째 검색 내용 
+제목 : 
+
+                            Typescript 5.4 Beta Released with Noinfer Utility Type and Improved Type Inference
+                        
+주소 : https://www.infoq.com/news/2024/02/typescript-5-4-beta-release/
+설명 : 
+                         Daniel Rosenwasser, senior program manager for TypeScript, recently announced the beta release of TypeScript 5.4. TypeScript 5.4 features improved type inference, a new NoInfer utility type, and breaking changes.
+                    
