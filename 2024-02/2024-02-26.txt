@@ -1,0 +1,135 @@
+1 번째 검색 내용 
+제목 : 
+
+                            The Creators of the Atom Code Editor Open-Sourced Zed, Their New Rust-Based High-Performance Editor
+                        
+주소 : https://www.infoq.com/news/2024/02/zed-code-editor-open-sourced/
+설명 : 
+                         Nathan Sobo recently open-sourced Zed, a code editor that focuses on performance, integrates AI capabilities, and supports software teams’ collaboration out of the box. For performance, Zed leverages a Rust code base, multicore- and GPU-optimized code, with a custom Rust GUI framework. For collaboration, Zed relies on CRDTs and team channels. Zed is currently Mac only.
+                    
+2 번째 검색 내용 
+제목 : 
+
+                            NuGet 6.9 Released: dotnet Search Command Support and Visual Studio UI Multitargeting
+                        
+주소 : https://www.infoq.com/news/2024/02/nuget-6-9-released/
+설명 : 
+                         In the latest release of NuGet version 6.9, developers can expect several new features and bug fixes which have been introduced. Among the key additions are enhancements to the multi-targeting experience within Visual Studio and the incorporation of support for the dotnet search command are added.
+                    
+3 번째 검색 내용 
+제목 : 
+
+                            Swift OpenAPI Generator Reaches 1.0
+                        
+주소 : https://www.infoq.com/news/2024/02/swift-openapi-generator-1-0/
+설명 : 
+                         Open-sourced six months ago, the Swift OpenAPI Generator is now stable. Version 1.0 brings new features and a simplified API.
+                    
+4 번째 검색 내용 
+제목 : 
+
+                            Amazon Q Data Integration in AWS Glue Simplifies Data Transformation on AWS
+                        
+주소 : https://www.infoq.com/news/2024/02/amazon-q-aws-glue-etl/
+설명 : 
+                         Recently, AWS announced the preview of a new feature for AWS Glue, enabling customers to use natural language for authoring and troubleshooting data integration jobs. With Amazon Q data integration in AWS Glue, developers can provide a description of their data integration workload, and the service will generate an ETL script.
+                    
+5 번째 검색 내용 
+제목 : 
+
+                            Google Introduces Firestore Multiple Databases
+                        
+주소 : https://www.infoq.com/news/2024/02/firestore-multiple-databases/
+설명 : 
+                         Google Cloud recently announced the general availability of Firestore Multiple Databases. The new feature is designed to isolate customer data and facilitate the management of microservices, as well as development, test, and staging environments.
+                    
+6 번째 검색 내용 
+제목 : 
+
+                            Major Browser Vendors Announce Interop 2024 to Solve Incompatibility Issues
+                        
+주소 : https://www.infoq.com/news/2024/02/interop-2024-announced/
+설명 : 
+                         Browser makers Apple, Google, Microsoft, and Mozilla, alongside consultancies Bocoup and Igalia, recently announced Interop 2024, a project to promote web browser interoperability. Interop 2024 includes 17 focus areas addressing layout, styling, user interaction concerns, and more.
+                    
+7 번째 검색 내용 
+제목 : 
+
+                            How Moral Values and Ethics Impact Software Delivery
+                        
+주소 : https://www.infoq.com/news/2024/02/moral-values-software-delivery/
+설명 : 
+                         Ethics and morality ensure fairness and integrity, which according to Anton Angelov is crucial for software professionals and society. The rise of technological advances, globalization, and demographic changes pose challenges to maintaining moral values in software delivery. Angelov believes that it is crucial for the QA industry to have a strong ethical framework.
+                    
+8 번째 검색 내용 
+제목 : 
+
+                            Bun Announces Cross-Platform Shell Scripting in JavaScript and TypeScript
+                        
+주소 : https://www.infoq.com/news/2024/02/bun-announces-bun-shell/
+설명 : 
+                         Bun recently announced the release of Bun Shell, offering JavaScript and TypeScript developers a cross-platform shell. This release aims to simplify the execution of shell scripts in JavaScript and TypeScript, providing a bash-like environment with features such as globbing, environment variables, redirection, and piping. The release is alpha quality and may undergo breaking changes in the future.
+                    
+9 번째 검색 내용 
+제목 : 
+
+                            Sudo for Windows - Elevating Command Execution in Windows 11
+                        
+주소 : https://www.infoq.com/news/2024/02/sudo-windows/
+설명 : 
+                         Microsoft announced that Sudo for Windows will be available in the latest Windows 11 Insider Preview Build 26052. This tool transforms how users execute elevated commands directly from an unelevated console session. Sudo for Windows provides an intuitive and familiar solution, eliminating the need to open a new elevated console and enhancing the user experience.
+                    
+10 번째 검색 내용 
+제목 : 
+
+                            How Airbnb Migrated from Buck to Bazel with Minimal Interference to Developers
+                        
+주소 : https://www.infoq.com/news/2024/02/airbnb-bazel-migration-ios/
+설명 : 
+                         Following in the line of other organizations migrating their build pipelines to Bazel, Airbnb provided a detailed walk-through of the process that led them to leave Buck behind and improve both build times as well as project generation and loading times.
+                    
+11 번째 검색 내용 
+제목 : 
+
+                            Grab Improves Kafka on Kubernetes Fault Tolerance with Strimzi, AWS AddOns and EBS
+                        
+주소 : https://www.infoq.com/news/2024/02/grab-kafka-kubernetes-aws-nth/
+설명 : 
+                         Grab updated its Kafka on Kubernetes setup to improve fault tolerance and completely eliminate human intervention in case of unexpected Kafka broker terminations. To address the shortcomings of the initial design, the team integrated with AWS Node Termination Handler (NTH), used the Load Balancer Controller for target group mapping, and switched to ELB volumes for storage.
+                    
+12 번째 검색 내용 
+제목 : 
+
+                            Oracle Graal Cloud Native 4.2.1 Brings Java 21 Support, New Cloud Integrations, and More
+                        
+주소 : https://www.infoq.com/news/2024/02/gcn-4-2-1/
+설명 : 
+                         Oracle has released the Graal Cloud Native 4.2.1, its own build of the open source Micronaut framework. This version brings support for Java 21 including Graal Native Image, cloud integration with Google Cloud Platform, new guides for Google Cloud, launcher and client updates, and more.
+                    
+13 번째 검색 내용 
+제목 : 
+
+                            Google Renames Bard to Gemini
+                        
+주소 : https://www.infoq.com/news/2024/02/google-bard-gemini/
+설명 : 
+                         Google announced that their Bard chatbot will now be called Gemini. The company also announced the launch of Gemini Advanced, the largest version of their Gemini language model, along with two new mobile apps for interacting with the model.
+                    
+14 번째 검색 내용 
+제목 : 
+
+                            AWS Introduces an Experimental Low Latency Runtime for Faster, More Efficient Serverless Apps
+                        
+주소 : https://www.infoq.com/news/2024/02/aws-llrt-lambda-experimental/
+설명 : 
+                         AWS recently open-sourced its JavaScript runtime, called LLRT (Low Latency Runtime), an experimental, lightweight JavaScript runtime designed to address the growing demand for fast and efficient Serverless applications.
+                    
+15 번째 검색 내용 
+제목 : 
+
+                            Loco is a New Framework for Rust Inspired by Rails
+                        
+주소 : https://www.infoq.com/news/2024/02/loco-new-framework-rust-rails/
+설명 : 
+                         Loco is a new framework inspired by Rails, that allows developers to write MVC-style applications in Rust. Loco builds on the comprehensive Rust ecosystem to enhance the application development experience. Rust's language features, such as concurrency, safety, strong typing, and performance, are some of the advantages over Rails or its derivatives.
+                    
