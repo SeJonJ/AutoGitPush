@@ -1,13 +1,31 @@
 1 번째 검색 내용 
 제목 : 
 
+                            Google Introduces Gemma, a New Open Source AI Model for Developers
+                        
+주소 : https://www.infoq.com/news/2024/02/google-gemma-open-model/
+설명 : 
+                         Google announced the launch of Gemma, a new open source AI model. Developed using the technology that underpinned Google's Gemini AI models, Gemma aims to provide developers with advanced tools to create AI applications conscientiously.
+                    
+2 번째 검색 내용 
+제목 : 
+
+                            Baseline OpenAI end-to-end Chat Reference Architecture
+                        
+주소 : https://www.infoq.com/news/2024/02/chat-ref-arch-openai/
+설명 : 
+                         Microsoft published the baseline OpenAI end-to-end chat reference architecture. This baseline contains information about components, flows and security. There are also details about performance, monitoring and deployment guidance. Microsoft also prepared the reference implementation to deploy and run the solution.
+                    
+3 번째 검색 내용 
+제목 : 
+
                             State of FinOps 2024: Reducing Waste and Embracing AI
                         
 주소 : https://www.infoq.com/news/2024/02/state-of-finops/
 설명 : 
                          In the 2024 State of FinOps survey, Engineering Enablement has been replaced by a focus on cost and waste reduction. This shows maturity of FinOps as the persona getting the most value from FinOps remains the engineer. The confluence of AI and FinOps observability aims to optimise cloud spend visibility and improve insights into early AI experimentation, as well as sustainability goals.
                     
-2 번째 검색 내용 
+4 번째 검색 내용 
 제목 : 
 
                             Java News Roundup: JDK 22 RC2, Multiple Releases in the Spring Ecosystem, Payara Platform
@@ -16,7 +34,7 @@
 설명 : 
                          This week's Java roundup for February 19th, 2024 features news highlighting: JDK 22 in release candidate 2, the February 2024 edition of the Payara Platform, numerous milestone and point releases in the Spring ecosystem, multiple releases of Apache Tomcat and Log4j and Gradle 8.7-RC1.
                     
-3 번째 검색 내용 
+5 번째 검색 내용 
 제목 : 
 
                             Vue 3.4 Released, Minimizes Reactive Computations, Speeds up Template Parsing
@@ -25,7 +43,7 @@
 설명 : 
                          The Vue team recently released Vue 3.4. The new release features a new template parser that claims to be twice as fast and a more efficient reactivity system that reduces unnecessary component re-renders.
                     
-4 번째 검색 내용 
+6 번째 검색 내용 
 제목 : 
 
                             The Creators of the Atom Code Editor Open-Source Zed, Their New Rust-Based High-Performance Editor
@@ -34,7 +52,7 @@
 설명 : 
                          Nathan Sobo recently open-sourced Zed, a code editor that focuses on performance, integrates AI capabilities, and supports software teams’ collaboration out of the box. For performance, Zed leverages a Rust code base, multicore- and GPU-optimized code, with a custom Rust GUI framework. For collaboration, Zed relies on CRDTs and team channels. Zed is currently Mac only.
                     
-5 번째 검색 내용 
+7 번째 검색 내용 
 제목 : 
 
                             NuGet 6.9 Released: dotnet Search Command Support and Visual Studio UI Multitargeting
@@ -43,7 +61,7 @@
 설명 : 
                          In the latest release of NuGet version 6.9, developers can expect several new features and bug fixes which have been introduced. Among the key additions are enhancements to the multi-targeting experience within Visual Studio, and the incorporation of support for the dotnet search command.
                     
-6 번째 검색 내용 
+8 번째 검색 내용 
 제목 : 
 
                             Swift OpenAPI Generator Reaches 1.0
@@ -52,7 +70,7 @@
 설명 : 
                          Open-sourced six months ago, the Swift OpenAPI Generator is now stable. Version 1.0 brings new features and a simplified API.
                     
-7 번째 검색 내용 
+9 번째 검색 내용 
 제목 : 
 
                             Amazon Q Data Integration in AWS Glue Simplifies Data Transformation on AWS
@@ -61,7 +79,7 @@
 설명 : 
                          Recently, AWS announced the preview of a new feature for AWS Glue, enabling customers to use natural language for authoring and troubleshooting data integration jobs. With Amazon Q data integration in AWS Glue, developers can provide a description of their data integration workload, and the service will generate an ETL script.
                     
-8 번째 검색 내용 
+10 번째 검색 내용 
 제목 : 
 
                             Google Introduces Firestore Multiple Databases
@@ -70,7 +88,7 @@
 설명 : 
                          Google Cloud recently announced the general availability of Firestore Multiple Databases. The new feature is designed to isolate customer data and facilitate the management of microservices, as well as development, test, and staging environments.
                     
-9 번째 검색 내용 
+11 번째 검색 내용 
 제목 : 
 
                             Major Browser Vendors Announce Interop 2024 to Solve Incompatibility Issues
@@ -79,7 +97,7 @@
 설명 : 
                          Browser makers Apple, Google, Microsoft, and Mozilla, alongside consultancies Bocoup and Igalia, recently announced Interop 2024, a project to promote web browser interoperability. Interop 2024 includes 17 focus areas addressing layout, styling, user interaction concerns, and more.
                     
-10 번째 검색 내용 
+12 번째 검색 내용 
 제목 : 
 
                             How Moral Values and Ethics Impact Software Delivery
@@ -88,7 +106,7 @@
 설명 : 
                          Ethics and morality ensure fairness and integrity, which according to Anton Angelov is crucial for software professionals and society. The rise of technological advances, globalization, and demographic changes pose challenges to maintaining moral values in software delivery. Angelov believes that it is crucial for the QA industry to have a strong ethical framework.
                     
-11 번째 검색 내용 
+13 번째 검색 내용 
 제목 : 
 
                             Bun Announces Cross-Platform Shell Scripting in JavaScript and TypeScript
@@ -97,7 +115,7 @@
 설명 : 
                          Bun recently announced the release of Bun Shell, offering JavaScript and TypeScript developers a cross-platform shell. This release aims to simplify the execution of shell scripts in JavaScript and TypeScript, providing a bash-like environment with features such as globbing, environment variables, redirection, and piping. The release is alpha quality and may undergo breaking changes in the future.
                     
-12 번째 검색 내용 
+14 번째 검색 내용 
 제목 : 
 
                             Sudo for Windows - Elevating Command Execution in Windows 11
@@ -106,7 +124,7 @@
 설명 : 
                          Microsoft announced that Sudo for Windows will be available in the latest Windows 11 Insider Preview Build 26052. This tool transforms how users execute elevated commands directly from an unelevated console session. Sudo for Windows provides an intuitive and familiar solution, eliminating the need to open a new elevated console and enhancing the user experience.
                     
-13 번째 검색 내용 
+15 번째 검색 내용 
 제목 : 
 
                             How Airbnb Migrated from Buck to Bazel with Minimal Interference to Developers
@@ -114,22 +132,4 @@
 주소 : https://www.infoq.com/news/2024/02/airbnb-bazel-migration-ios/
 설명 : 
                          Following in the line of other organizations migrating their build pipelines to Bazel, Airbnb provided a detailed walk-through of the process that led them to leave Buck behind and improve both build times as well as project generation and loading times.
-                    
-14 번째 검색 내용 
-제목 : 
-
-                            Grab Improves Kafka on Kubernetes Fault Tolerance with Strimzi, AWS AddOns and EBS
-                        
-주소 : https://www.infoq.com/news/2024/02/grab-kafka-kubernetes-aws-nth/
-설명 : 
-                         Grab updated its Kafka on Kubernetes setup to improve fault tolerance and completely eliminate human intervention in case of unexpected Kafka broker terminations. To address the shortcomings of the initial design, the team integrated with AWS Node Termination Handler (NTH), used the Load Balancer Controller for target group mapping, and switched to ELB volumes for storage.
-                    
-15 번째 검색 내용 
-제목 : 
-
-                            Oracle Graal Cloud Native 4.2.1 Brings Java 21 Support, New Cloud Integrations, and More
-                        
-주소 : https://www.infoq.com/news/2024/02/gcn-4-2-1/
-설명 : 
-                         Oracle has released the Graal Cloud Native 4.2.1, its own build of the open source Micronaut framework. This version brings support for Java 21 including Graal Native Image, cloud integration with Google Cloud Platform, new guides for Google Cloud, launcher and client updates, and more.
                     
