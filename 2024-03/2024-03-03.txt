@@ -1,0 +1,135 @@
+1 번째 검색 내용 
+제목 : 
+
+                            Data Solutions Framework: An Open Source Project for Building Data Solutions on AWS
+                        
+주소 : https://www.infoq.com/news/2024/03/aws-data-solutions-framework-cdk/
+설명 : 
+                         AWS recently released the Data Solutions Framework (DSF), an opinionated open-source framework designed to accelerate the creation of data solutions on AWS. Built using the AWS CDK, the framework exposes abstractions and patterns as building blocks for constructing data solutions and is available in TypeScript (npm) and Python (PyPi).
+                    
+2 번째 검색 내용 
+제목 : 
+
+                            LLM Strategies, Platform Engineering, Observability and More: InfoQ Dev Summit Boston 2024
+                        
+주소 : https://www.infoq.com/news/2024/03/dev-summit-boston-2024-talks/
+설명 : 
+                         Join us at InfoQ Dev Summit Boston, running June 24-25, to network with your peers and experience a curated agenda with topics such as Generative AI, security, and modern web applications. The conference will feature 20+ technical talks by senior software practitioners over two days, with parallel breakout sessions emphasizing the essential topics development teams should prioritize now.
+                    
+3 번째 검색 내용 
+제목 : 
+
+                            The Guardian Creates a Newsroom Collaboration Tool Using Serverless, React and GraphQL
+                        
+주소 : https://www.infoq.com/news/2024/03/guardian-pinboard-serverless/
+설명 : 
+                         The Guardian created Pinboard, a discussion and asset-sharing tool integrated into a variety of content management platforms used by the company. The solution uses a range of technologies, including Typescript for coding the business logic, different serverless services for code execution, API endpoints, and GraphQL server, as well as AWS RDS (PostgreSQL) for storage.
+                    
+4 번째 검색 내용 
+제목 : 
+
+                            JBoss Enterprise Application Platform 8.0 Delivers Support for Jakarta EE 10
+                        
+주소 : https://www.infoq.com/news/2024/03/jboss-eap-8/
+설명 : 
+                         Red Hat released version 8.0 of the JBoss Enterprise Application Platform, an open-source Jakarta EE-compliant platform, in February 2024. The latest release brings several improvements to the platform, including support for Jakarta EE 10, changes to the management console and CLI, and removal of legacy security subsystems.
+                    
+5 번째 검색 내용 
+제목 : 
+
+                            Apple Debuts Post-Quantum Cryptography Cipher PQ3 for iMessage Communication
+                        
+주소 : https://www.infoq.com/news/2024/02/apple-post-quantum-pq3/
+설명 : 
+                         Apple announced a new quantum-resistant encryption protocol that will be used to secure iMessage communications, PQ3 against attack scenarios known as "harvest now, decrypt later".
+                    
+6 번째 검색 내용 
+제목 : 
+
+                            Apple Open Sources Pkl, a Configuration as Code Programming Language
+                        
+주소 : https://www.infoq.com/news/2024/02/apple-pkl-configuration-lang/
+설명 : 
+                         Recently, Apple open-sourced Pkl, pronounced "Pickle," a configuration-as-code language. Pkl has the the goal of streamlining configuration management, by serving as a command-line utility, software library, or build plugin.
+                    
+7 번째 검색 내용 
+제목 : 
+
+                            What Software Developers Can Do to Prevent Forgetting or Overlooking Things
+                        
+주소 : https://www.infoq.com/news/2024/02/software-developers-forgetting/
+설명 : 
+                         According to Ilian Iliev, software developers tend to forget to do things they do not have to think about every day, which can cause delays or impact the functionality of the product during a software project. To prevent overlooking something, he suggested starting early with automating deployment, setting up error logging, and using lists and reminders of things that were forgotten previously.
+                    
+8 번째 검색 내용 
+제목 : 
+
+                            Uber's CacheFront: Powering 40M Reads per Second with Significantly Reduced Latency
+                        
+주소 : https://www.infoq.com/news/2024/02/uber-cachefront/
+설명 : 
+                         Uber developed an innovative caching solution, CacheFront, for its in-house distributed database, Docstore. CacheFront enables over 40M reads per second from online storage and achieves substantial performance improvements, including a 75% reduction in P75 latency and over 67% reduction in P99.9 latency, demonstrating its effectiveness in enhancing system efficiency and scalability.
+                    
+9 번째 검색 내용 
+제목 : 
+
+                            Azure Elastic Storage Area Network Solution Generally Available in the Cloud
+                        
+주소 : https://www.infoq.com/news/2024/02/azure-elastic-san-ga/
+설명 : 
+                         Microsoft recently announced the general availability (GA) of its iSCSI-based Azure Elastic SAN, a fully-managed and cloud-native storage area network (SAN) offering.
+                    
+10 번째 검색 내용 
+제목 : 
+
+                            Docker Desktop 4.27 Brings Docker Init GA with Java Support, Synchronized File Shares, and More
+                        
+주소 : https://www.infoq.com/news/2024/02/docker-desktop-4-27/
+설명 : 
+                         Docker has released Docker Desktop 4.27. This version brings Docker Init GA with Java support, synchronized File Shares, support for Test Containers with Enhanced Container Isolation, Docker build cloud, Docker Debug and more.
+                    
+11 번째 검색 내용 
+제목 : 
+
+                            Cloudflare Recaps Thanksgiving 2023 Incident and Response Actions
+                        
+주소 : https://www.infoq.com/news/2024/02/cloudflare-thanksgiving-23-inc/
+설명 : 
+                         On Thanksgiving Day 2023, Cloudflare detected a threat actor on their self-hosted Atlassian server. Their security team responded by removing access and initiating an investigation. CrowdStrike's Forensic team was brought in for an independent analysis, the analysis. No Cloudflare customer data or systems were compromised.
+                    
+12 번째 검색 내용 
+제목 : 
+
+                            Booking.com Doubles Delivery Performance Using DORA Metrics and Micro Frontends
+                        
+주소 : https://www.infoq.com/news/2024/02/booking-dora-micro-frontends/
+설명 : 
+                         The team in Booking.com’s fintech business unit implemented a series of improvements across the backend and the frontend of its platform and was able to double the delivery performance, as measured by DORA metrics. Additionally, the Micro Frontends (MFE) pattern was used to break up the monolithic FE application into multiple decomposed apps that could be deployed separately.
+                    
+13 번째 검색 내용 
+제목 : 
+
+                            Deno 1.40 Released, Features Upcoming JavaScript’s Temporal API and Decorators
+                        
+주소 : https://www.infoq.com/news/2024/02/deno-1-40-decorators-temporal/
+설명 : 
+                         The Deno team recently released Deno 1.40. Deno 1.40 implements upcoming JavaScript’s Temporal API for advanced date and time operations; and the latest JavaScript’s decorator proposal for meta- and aspect-oriented programming.
+                    
+14 번째 검색 내용 
+제목 : 
+
+                            Google Announces 200M Parameter AI Forecasting Model TimesFM
+                        
+주소 : https://www.infoq.com/news/2024/02/google-timesfm-forecasting/
+설명 : 
+                         Google Research announced TimesFM, a 200M parameter Transformer-based foundation model for time-series forecasting. TimesFM is trained on nearly 100B data points and has zero-shot forecasting performance comparable to or better than supervised-learning models.
+                    
+15 번째 검색 내용 
+제목 : 
+
+                            Google Introduces Gemma, a New Open Source AI Model for Developers
+                        
+주소 : https://www.infoq.com/news/2024/02/google-gemma-open-model/
+설명 : 
+                         Google announced the launch of Gemma, a new open source AI model. Developed using the technology that underpinned Google's Gemini AI models, Gemma aims to provide developers with advanced tools to create AI applications conscientiously.
+                    
