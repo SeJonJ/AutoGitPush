@@ -1,13 +1,40 @@
 1 번째 검색 내용 
 제목 : 
 
+                            Glasskube an Emerging Kubernetes Package Management
+                        
+주소 : https://www.infoq.com/news/2024/03/glasskube-kubernetes-management/
+설명 : 
+                         The cloud-native landscape is thriving, but a crucial aspect remains missing: a robust package management system. Glasskube, an open-source emerging project in this domain,  with its first release (v0.0.1) wants to close this gap.
+                    
+2 번째 검색 내용 
+제목 : 
+
+                            Slack Conquers Deployment Fears with Z-score Monitoring
+                        
+주소 : https://www.infoq.com/news/2024/03/slack-z-score-monitoring/
+설명 : 
+                         An engineer at team communication platform Slack has written about confronting their fear of deployments and successfully implementing a bot to monitor them instead. Describing a seemingly scary delegation of responsibility, Sean McIlroy explains the reasoning and logic behind giving a pivotal role to their ReleaseBot in a detailed blog post.
+                    
+3 번째 검색 내용 
+제목 : 
+
+                            JQuery 4.0.0 Beta Released with Important Deprecations and Breaking Changes
+                        
+주소 : https://www.infoq.com/news/2024/03/jquery-4-beta-release-note/
+설명 : 
+                         Timmy Willison recently announced the beta release of jQuery 4.0. The new version of jQuery is a large release with numerous bug fixes, performance improvements, and some breaking changes. IE<11 browsers are no longer supported, many APIs have been removed, jQuery aligns the ordering of focus events on that of browsers, and now supports FormData.
+                    
+4 번째 검색 내용 
+제목 : 
+
                             Amazon Announces One Billion Parameter Speech Model BASE TTS
                         
 주소 : https://www.infoq.com/news/2024/03/amazon-base-tts/
 설명 : 
                          Amazon Science recently published their work on Big Adaptive Streamable TTS with Emergent abilities (BASE TTS). BASE TTS supports voice-cloning and outperforms baseline TTS models when evaluated by human judges. Further, Amazon's experiments show that scaling model and data size improves the subjective quality of the model's output.
                     
-2 번째 검색 내용 
+5 번째 검색 내용 
 제목 : 
 
                             Visual Studio 2022 - 17.10 Preview 1: Productivity, Debugging, Diagnostics and More Improvements
@@ -16,7 +43,7 @@
 설명 : 
                          Microsoft released Visual Studio 2022 17.10 - Preview 1 version with significant enhancements to areas like productivity, debugging, diagnostics, game development and Microsoft 365 development tools.
                     
-3 번째 검색 내용 
+6 번째 검색 내용 
 제목 : 
 
                             GitHub Delivers Copilot Enterprise for Large Organizations
@@ -25,7 +52,7 @@
 설명 : 
                          GitHub Copilot Enterprise, a Copilot plan available for enterprises that use GitHub Enterprise Cloud, is now generally available. It offers AI capabilities to improve the user's experience on GitHub.com, including the option to communicate with Copilot directly in the browser and to access Copilot's context from different project repositories.
                     
-4 번째 검색 내용 
+7 번째 검색 내용 
 제목 : 
 
                             Mistral AI Models Are Now Available on Amazon Bedrock
@@ -34,7 +61,7 @@
 설명 : 
                          Mistral AI has made its Mixtral 8x7B and Mistral 7B foundation models available on Amazon Bedrock. These models, now accessible via Amazon Bedrock's single API, aim to offer users a broader selection of high-performing models for building generative AI applications.
                     
-5 번째 검색 내용 
+8 번째 검색 내용 
 제목 : 
 
                             CNCF Survey: Half of Organizations Spend More with Kubernetes, Mostly Due to Overprovisioning
@@ -43,7 +70,7 @@
 설명 : 
                          CNCF published the results of its latest microsurvey report on cloud-native FinOps and cloud financial management (CFM). Kubernetes has driven cloud spending up for 49% of respondents, while 28% stated their costs remain unchanged and 24% saved after migrating to Kubernetes. Respondents listed overprovisioning, lack of awareness and responsibility, and sprawl as the main factors for overspending.
                     
-6 번째 검색 내용 
+9 번째 검색 내용 
 제목 : 
 
                             Android Studio Iguana Brings Crashlytics Integration, Compose UI Check, Baseline Profiles Wizard
@@ -52,7 +79,7 @@
 설명 : 
                          The latest version of Android Studio, dubbed Iguana, brings several new features, including better integration with Crashlytics; Compose UI Check, a new tool to verify Compose UI design and behavior; improved rendering for Compose views; a wizard to create baseline profiles, and more.
                     
-7 번째 검색 내용 
+10 번째 검색 내용 
 제목 : 
 
                             AWS CodePipeline Embraces Monorepos, GitFlow and Branches
@@ -61,7 +88,7 @@
 설명 : 
                          AWS has announced new features in CodePipeline, their managed continuous delivery service facilitating automated release pipelines for application and infrastructure updates. These additions aim to support teams employing various delivery strategies, providing customers with more flexibility in their pipeline designs.
                     
-8 번째 검색 내용 
+11 번째 검색 내용 
 제목 : 
 
                             Java News Roundup: New OpenJDK JEPs, Spring Functions Catalog, Apache Kafka, Quarkus, JReleaser
@@ -70,7 +97,7 @@
 설명 : 
                          This week's Java roundup for February 26th, 2024 features news highlighting: JEP 468, Derived Record Creation (Preview); JEP 467, Markdown Documentation Comments; a new Spring Functions Catalog; end-of-life planned for the Spring Framework 6.0 and 5.3 release trains; and point releases for Apache Kafka, Quarkus and JReleaser.
                     
-9 번째 검색 내용 
+12 번째 검색 내용 
 제목 : 
 
                             JDK 22 and JDK 23: What We Know So Far
@@ -79,7 +106,7 @@
 설명 : 
                          JDK 22, the first non-LTS release since JDK 21, has reached its second release candidate phase with a final set of 12 new features, in the form of JEPs, that can be separated into four categories: Core Java Library, Java Language Specification, HotSpot and Java Tools. We examine JDK 22 and predict what features have, or could be, targeted for JDK 23.
                     
-10 번째 검색 내용 
+13 번째 검색 내용 
 제목 : 
 
                             Data Solutions Framework: an Open Source Project for Building Data Solutions on AWS
@@ -88,7 +115,7 @@
 설명 : 
                          AWS recently released the Data Solutions Framework (DSF), an opinionated open-source framework designed to accelerate the creation of data solutions on AWS. Built using the AWS CDK, the framework exposes abstractions and patterns as building blocks for constructing data solutions and is available in TypeScript (npm) and Python (PyPi).
                     
-11 번째 검색 내용 
+14 번째 검색 내용 
 제목 : 
 
                             LLM Strategies, Platform Engineering, Observability and More: InfoQ Dev Summit Boston 2024
@@ -97,7 +124,7 @@
 설명 : 
                          Join us at InfoQ Dev Summit Boston, running June 24-25, to network with your peers and experience a curated agenda with topics such as Generative AI, security, and modern web applications. The conference will feature 20+ technical talks by senior software practitioners over two days, with parallel breakout sessions emphasizing the essential topics development teams should prioritize now.
                     
-12 번째 검색 내용 
+15 번째 검색 내용 
 제목 : 
 
                             The Guardian Creates a Newsroom Collaboration Tool Using Serverless, React and GraphQL
@@ -105,31 +132,4 @@
 주소 : https://www.infoq.com/news/2024/03/guardian-pinboard-serverless/
 설명 : 
                          The Guardian created Pinboard, a discussion and asset-sharing tool integrated into a variety of content management platforms used by the company. The solution uses a range of technologies, including Typescript for coding the business logic, different serverless services for code execution, API endpoints, and GraphQL server, as well as AWS RDS (PostgreSQL) for storage.
-                    
-13 번째 검색 내용 
-제목 : 
-
-                            JBoss Enterprise Application Platform 8.0 Delivers Support for Jakarta EE 10
-                        
-주소 : https://www.infoq.com/news/2024/03/jboss-eap-8/
-설명 : 
-                         Red Hat released version 8.0 of the JBoss Enterprise Application Platform, an open-source Jakarta EE-compliant platform, in February 2024. The latest release brings several improvements to the platform, including support for Jakarta EE 10, changes to the management console and CLI, and removal of legacy security subsystems.
-                    
-14 번째 검색 내용 
-제목 : 
-
-                            Apple Debuts Post-Quantum Cryptography Cipher PQ3 for iMessage Communication
-                        
-주소 : https://www.infoq.com/news/2024/02/apple-post-quantum-pq3/
-설명 : 
-                         Apple announced a new quantum-resistant encryption protocol that will be used to secure iMessage communications, PQ3 against attack scenarios known as "harvest now, decrypt later".
-                    
-15 번째 검색 내용 
-제목 : 
-
-                            Apple Open Sources Pkl, a Configuration as Code Programming Language
-                        
-주소 : https://www.infoq.com/news/2024/02/apple-pkl-configuration-lang/
-설명 : 
-                         Recently, Apple open-sourced Pkl, pronounced "Pickle," a configuration-as-code language. Pkl has the the goal of streamlining configuration management, by serving as a command-line utility, software library, or build plugin.
                     
