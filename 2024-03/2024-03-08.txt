@@ -1,0 +1,135 @@
+1 번째 검색 내용 
+제목 : 
+
+                            GUAC Joins OpenSSF as Incubating Project
+                        
+주소 : https://www.infoq.com/news/2024/03/guac-incubating-openssf/
+설명 : 
+                         The Graph for Understanding Artifact Composition (GUAC) has joined the Open Source Security Foundation (OpenSSF) as an incubating project. GUAC provides a tool and underlying API to analyse and visualise software bill of materials (SBOM) along with threat intelligence feeds to determine whether vulnerabilities impact an application.
+                    
+2 번째 검색 내용 
+제목 : 
+
+                            Lapce Is a Native Open-Source Code Editor Written in Rust and Supporting Remote Development
+                        
+주소 : https://www.infoq.com/news/2024/03/lapce-rust-editor/
+설명 : 
+                         Written in Rust, Lapce sports a native GUI leveraging GPU acceleration and an extensible plugin system based on WASI. It comes with support for syntax highlighting, code completion, and code diagnostics using any LSP-compliant server.
+                    
+3 번째 검색 내용 
+제목 : 
+
+                            Making Software Development Boring to Deliver Business Value
+                        
+주소 : https://www.infoq.com/news/2024/03/software-development-boring/
+설명 : 
+                         Given there’s a limit to our cognitive abilities and our comprehension of complex systems, Corstian Boerman argues that software development should become boring. He suggests moving infrastructure out of the way so that it does not burden the day-to-day development process, and focusing on delivering business value in a predictable and repeatable way.
+                    
+4 번째 검색 내용 
+제목 : 
+
+                            Uber Builds Scalable Chat Using Microservices with GraphQL Subscriptions and Kafka
+                        
+주소 : https://www.infoq.com/news/2024/03/uber-chat-graphql-subscriptions/
+설명 : 
+                         Uber replaced a legacy architecture built using the WAMP protocol with a new solution that takes advantage of GraphQL subscriptions. The main drivers for creating a new architecture were challenges around reliability, scalability, observability/debugibility, as well as technical debt impeding the team’s ability to maintain the existing solution.
+                    
+5 번째 검색 내용 
+제목 : 
+
+                            Glasskube an Emerging Kubernetes Package Management System
+                        
+주소 : https://www.infoq.com/news/2024/03/glasskube-kubernetes-management/
+설명 : 
+                         The cloud-native landscape is thriving, but a crucial aspect remains missing: a robust package management system. Glasskube, an open-source emerging project in this domain,  with its first release (v0.0.1) wants to close this gap.
+                    
+6 번째 검색 내용 
+제목 : 
+
+                            Slack Conquers Deployment Fears with Z-score Monitoring
+                        
+주소 : https://www.infoq.com/news/2024/03/slack-z-score-monitoring/
+설명 : 
+                         An engineer at team communication platform Slack has written about confronting their fear of deployments and successfully implementing a bot to monitor them instead. Describing a seemingly scary delegation of responsibility, Sean McIlroy explains the reasoning and logic behind giving a pivotal role to their ReleaseBot in a detailed blog post.
+                    
+7 번째 검색 내용 
+제목 : 
+
+                            JQuery 4.0.0 Beta Released with Important Deprecations and Breaking Changes
+                        
+주소 : https://www.infoq.com/news/2024/03/jquery-4-beta-release-note/
+설명 : 
+                         Timmy Willison recently announced the beta release of jQuery 4.0. The new version of jQuery is a large release with numerous bug fixes, performance improvements, and some breaking changes. IE<11 browsers are no longer supported, many APIs have been removed, jQuery aligns the ordering of focus events on that of browsers, and now supports FormData.
+                    
+8 번째 검색 내용 
+제목 : 
+
+                            Amazon Announces One Billion Parameter Speech Model BASE TTS
+                        
+주소 : https://www.infoq.com/news/2024/03/amazon-base-tts/
+설명 : 
+                         Amazon Science recently published their work on Big Adaptive Streamable TTS with Emergent abilities (BASE TTS). BASE TTS supports voice-cloning and outperforms baseline TTS models when evaluated by human judges. Further, Amazon's experiments show that scaling model and data size improves the subjective quality of the model's output.
+                    
+9 번째 검색 내용 
+제목 : 
+
+                            Visual Studio 2022 - 17.10 Preview 1: Productivity, Debugging, Diagnostics and More Improvements
+                        
+주소 : https://www.infoq.com/news/2024/03/visual-studio-1710-preview-1/
+설명 : 
+                         Microsoft released Visual Studio 2022 17.10 - Preview 1 version with significant enhancements to areas like productivity, debugging, diagnostics, game development and Microsoft 365 development tools.
+                    
+10 번째 검색 내용 
+제목 : 
+
+                            GitHub Delivers Copilot Enterprise for Large Organizations
+                        
+주소 : https://www.infoq.com/news/2024/03/github-copilot-enterprise-ga/
+설명 : 
+                         GitHub Copilot Enterprise, a Copilot plan available for enterprises that use GitHub Enterprise Cloud, is now generally available. It offers AI capabilities to improve the user's experience on GitHub.com, including the option to communicate with Copilot directly in the browser and to access Copilot's context from different project repositories.
+                    
+11 번째 검색 내용 
+제목 : 
+
+                            Mistral AI Models Are Now Available on Amazon Bedrock
+                        
+주소 : https://www.infoq.com/news/2024/03/mistral-ai-aws/
+설명 : 
+                         Mistral AI has made its Mixtral 8x7B and Mistral 7B foundation models available on Amazon Bedrock. These models, now accessible via Amazon Bedrock's single API, aim to offer users a broader selection of high-performing models for building generative AI applications.
+                    
+12 번째 검색 내용 
+제목 : 
+
+                            CNCF Survey: Half of Organizations Spend More with Kubernetes, Mostly Due to Overprovisioning
+                        
+주소 : https://www.infoq.com/news/2024/03/cncf-finops-kubernetes-overspend/
+설명 : 
+                         CNCF published the results of its latest microsurvey report on cloud-native FinOps and cloud financial management (CFM). Kubernetes has driven cloud spending up for 49% of respondents, while 28% stated their costs remain unchanged and 24% saved after migrating to Kubernetes. Respondents listed overprovisioning, lack of awareness and responsibility, and sprawl as the main factors for overspending.
+                    
+13 번째 검색 내용 
+제목 : 
+
+                            Android Studio Iguana Brings Crashlytics Integration, Compose UI Check, Baseline Profiles Wizard
+                        
+주소 : https://www.infoq.com/news/2024/03/android-studio-iguana-stable/
+설명 : 
+                         The latest version of Android Studio, dubbed Iguana, brings several new features, including better integration with Crashlytics; Compose UI Check, a new tool to verify Compose UI design and behavior; improved rendering for Compose views; a wizard to create baseline profiles, and more.
+                    
+14 번째 검색 내용 
+제목 : 
+
+                            AWS CodePipeline Embraces Monorepos, GitFlow and Branches
+                        
+주소 : https://www.infoq.com/news/2024/03/aws-codepipeline-triggers-execut/
+설명 : 
+                         AWS has announced new features in CodePipeline, their managed continuous delivery service facilitating automated release pipelines for application and infrastructure updates. These additions aim to support teams employing various delivery strategies, providing customers with more flexibility in their pipeline designs.
+                    
+15 번째 검색 내용 
+제목 : 
+
+                            Java News Roundup: New OpenJDK JEPs, Spring Functions Catalog, Apache Kafka, Quarkus, JReleaser
+                        
+주소 : https://www.infoq.com/news/2024/03/java-news-roundup-feb26-2024/
+설명 : 
+                         This week's Java roundup for February 26th, 2024, features news highlighting: JEP 468, Derived Record Creation (Preview); JEP 467, Markdown Documentation Comments; a new Spring Functions Catalog; end-of-life planned for the Spring Framework 6.0 and 5.3 release trains; and point releases for Apache Kafka, Quarkus and JReleaser.
+                    
