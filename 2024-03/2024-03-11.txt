@@ -1,13 +1,22 @@
 1 번째 검색 내용 
 제목 : 
 
+                            Java News Roundup: JHipster Blueprints, Jox Channel Library, Infinispan 15.0 Release Candidate
+                        
+주소 : https://www.infoq.com/news/2024/03/java-news-roundup-mar04-2024/
+설명 : 
+                         This week's Java roundup for March 4th, 2024 features news highlighting: Version 3.0 releases of Micronaut and Quarkus Blueprints for JHipster, introducing the Jox Channel library, first release candidate of Infinispan 15.0, point releases of Quarkus, Micronaut, Testcontainers for Java and JetBrains Ktor.
+                    
+2 번째 검색 내용 
+제목 : 
+
                             Enhanced Protection for Large Language Models (LLMs) against Cyber Threats with Cloudflare for AI
                         
 주소 : https://www.infoq.com/news/2024/03/cloudflare-firewall-for-ai/
 설명 : 
                          Cloudflare recently announced a new capability called Firewall for AI in its Web Application Firewall (WAF) offering. The capability adds a new layer of protection that will identify abuse and attacks before they reach and tamper with Large Language Models (LLMs).
                     
-2 번째 검색 내용 
+3 번째 검색 내용 
 제목 : 
 
                             Google BigQuery Introduces Vector Search
@@ -16,7 +25,7 @@
 설명 : 
                          Google recently announced that BigQuery now supports vector search. The new functionality enables vector similarity search required by data and AI use cases such as semantic search, similarity detection, and retrieval-augmented generation (RAG) with a large language model (LLM).
                     
-3 번째 검색 내용 
+4 번째 검색 내용 
 제목 : 
 
                             Anthropic Unveils Claude 3 Models, Highlighting Opus and Its Near-Human Capabilities
@@ -25,7 +34,7 @@
 설명 : 
                          Anthropic has introduced the Claude 3 family models, surpassing other industry models such as GPT-4. The Claude 3 family consists of three distinct models: Haiku, Sonnet, and Opus, arranged in ascending order of capability, each designed to cater to diverse user needs in terms of intelligence, speed, and cost.
                     
-4 번째 검색 내용 
+5 번째 검색 내용 
 제목 : 
 
                             GUAC Joins OpenSSF as Incubating Project
@@ -34,7 +43,7 @@
 설명 : 
                          The Graph for Understanding Artifact Composition (GUAC) has joined the Open Source Security Foundation (OpenSSF) as an incubating project. GUAC provides a tool and underlying API to analyse and visualise software bill of materials (SBOM) along with threat intelligence feeds to determine whether vulnerabilities impact an application.
                     
-5 번째 검색 내용 
+6 번째 검색 내용 
 제목 : 
 
                             Lapce is a Native Open-Source Code Editor Written in Rust and Supporting Remote Development
@@ -43,7 +52,7 @@
 설명 : 
                          Written in Rust, Lapce sports a native GUI leveraging GPU acceleration and an extensible plugin system based on WASI. It comes with support for syntax highlighting, code completion, and code diagnostics using any LSP-compliant server.
                     
-6 번째 검색 내용 
+7 번째 검색 내용 
 제목 : 
 
                             Making Software Development Boring to Deliver Business Value
@@ -52,7 +61,7 @@
 설명 : 
                          Given there’s a limit to our cognitive abilities and our comprehension of complex systems, Corstian Boerman argues that software development should become boring. He suggests moving infrastructure out of the way so that it does not burden the day-to-day development process, and focusing on delivering business value in a predictable and repeatable way.
                     
-7 번째 검색 내용 
+8 번째 검색 내용 
 제목 : 
 
                             Uber Builds Scalable Chat Using Microservices with GraphQL Subscriptions and Kafka
@@ -61,7 +70,7 @@
 설명 : 
                          Uber replaced a legacy architecture built using the WAMP protocol with a new solution that takes advantage of GraphQL subscriptions. The main drivers for creating a new architecture were challenges around reliability, scalability, observability/debugibility, as well as technical debt impeding the team’s ability to maintain the existing solution.
                     
-8 번째 검색 내용 
+9 번째 검색 내용 
 제목 : 
 
                             Slack Conquers Deployment Fears with Z-score Monitoring
@@ -70,7 +79,7 @@
 설명 : 
                          An engineer at team communication platform Slack has written about confronting their fear of deployments and successfully implementing a bot to monitor them instead. Describing a seemingly scary delegation of responsibility, Sean McIlroy explains the reasoning and logic behind giving a pivotal role to their ReleaseBot in a detailed blog post.
                     
-9 번째 검색 내용 
+10 번째 검색 내용 
 제목 : 
 
                             Glasskube an Emerging Kubernetes Package Management System
@@ -79,7 +88,7 @@
 설명 : 
                          The cloud-native landscape is thriving, but a crucial aspect remains missing: a robust package management system. Glasskube, an open-source emerging project in this domain,  with its first release (v0.0.1) wants to close this gap.
                     
-10 번째 검색 내용 
+11 번째 검색 내용 
 제목 : 
 
                             JQuery 4.0.0 Beta Released with Important Deprecations and Breaking Changes
@@ -88,7 +97,7 @@
 설명 : 
                          Timmy Willison recently announced the beta release of jQuery 4.0. The new version of jQuery is a large release with numerous bug fixes, performance improvements, and some breaking changes. IE<11 browsers are no longer supported, many APIs have been removed, jQuery aligns the ordering of focus events on that of browsers, and now supports FormData.
                     
-11 번째 검색 내용 
+12 번째 검색 내용 
 제목 : 
 
                             Amazon Announces One Billion Parameter Speech Model BASE TTS
@@ -97,7 +106,7 @@
 설명 : 
                          Amazon Science recently published their work on Big Adaptive Streamable TTS with Emergent abilities (BASE TTS). BASE TTS supports voice-cloning and outperforms baseline TTS models when evaluated by human judges. Further, Amazon's experiments show that scaling model and data size improves the subjective quality of the model's output.
                     
-12 번째 검색 내용 
+13 번째 검색 내용 
 제목 : 
 
                             Visual Studio 2022 - 17.10 Preview 1: Productivity, Debugging, Diagnostics and More Improvements
@@ -106,7 +115,7 @@
 설명 : 
                          Microsoft released Visual Studio 2022 17.10 - Preview 1 version with significant enhancements to areas like productivity, debugging, diagnostics, game development and Microsoft 365 development tools.
                     
-13 번째 검색 내용 
+14 번째 검색 내용 
 제목 : 
 
                             GitHub Delivers Copilot Enterprise for Large Organizations
@@ -115,7 +124,7 @@
 설명 : 
                          GitHub Copilot Enterprise, a Copilot plan available for enterprises that use GitHub Enterprise Cloud, is now generally available. It offers AI capabilities to improve the user's experience on GitHub.com, including the option to communicate with Copilot directly in the browser and to access Copilot's context from different project repositories.
                     
-14 번째 검색 내용 
+15 번째 검색 내용 
 제목 : 
 
                             Mistral AI Models Are Now Available on Amazon Bedrock
@@ -123,13 +132,4 @@
 주소 : https://www.infoq.com/news/2024/03/mistral-ai-aws/
 설명 : 
                          Mistral AI has made its Mixtral 8x7B and Mistral 7B foundation models available on Amazon Bedrock. These models, now accessible via Amazon Bedrock's single API, aim to offer users a broader selection of high-performing models for building generative AI applications.
-                    
-15 번째 검색 내용 
-제목 : 
-
-                            CNCF Survey: Half of Organizations Spend More with Kubernetes, Mostly Due to Overprovisioning
-                        
-주소 : https://www.infoq.com/news/2024/03/cncf-finops-kubernetes-overspend/
-설명 : 
-                         CNCF published the results of its latest microsurvey report on cloud-native FinOps and cloud financial management (CFM). Kubernetes has driven cloud spending up for 49% of respondents, while 28% stated their costs remain unchanged and 24% saved after migrating to Kubernetes. Respondents listed overprovisioning, lack of awareness and responsibility, and sprawl as the main factors for overspending.
                     
