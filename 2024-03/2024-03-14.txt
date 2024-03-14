@@ -5,7 +5,7 @@
                         
 주소 : https://www.infoq.com/news/2024/03/android-fused-orientation-api/
 설명 : 
-                         The Fused Orientation Provider (FOP) is a new Android API that uses signals from motion sensors embedded in a smartphone to provide consistent and reliable device orientation. FOP is distributed through Google Play Services and is available on all devices running Android 5 independently from their manufacturers.
+                         The Fused Orientation Provider (FOP) is a new Android API that uses signals from motion sensors embedded in a smartphone to provide consistent and reliable device orientation. FOP is distributed through Google Play Services and is available on all devices running Android 5, independently from their manufacturers.
                     
 2 번째 검색 내용 
 제목 : 
