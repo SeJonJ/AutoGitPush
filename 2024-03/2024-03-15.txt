@@ -1,0 +1,135 @@
+1 번째 검색 내용 
+제목 : 
+
+                            Finch 1.1.1: AWS Enhances Windows Compatibility for Open Source Container Development Tool
+                        
+주소 : https://www.infoq.com/news/2024/03/aws-finch-windows-support/
+설명 : 
+                         AWS recently announced the general availability of Windows support for Finch, an open-source CLI tool. Finch enables developers to create, execute, and distribute Linux containers on both Windows and macOS. It streamlines container development by combining a minimalistic native client with select open-source components.
+                    
+2 번째 검색 내용 
+제목 : 
+
+                            How Continuous Discovery Helps Software Teams to Take Product Decisions
+                        
+주소 : https://www.infoq.com/news/2024/03/continuous-discovery-software/
+설명 : 
+                         Continuous discovery for product development is regular research that involves the entire software product team, and that can actively inform product decisions. Equating continuous discovery to weekly conversations with one or more customers can be misleading. Combining quantitative and qualitative research methods can help software teams gather data and understand what is behind the data.
+                    
+3 번째 검색 내용 
+제목 : 
+
+                            AdonisJS v6 Released: TypeScript, ESM, and Beyond
+                        
+주소 : https://www.infoq.com/news/2024/03/adonisjsv6-released/
+설명 : 
+                         AdonisJS, a Node.js web application framework, has released its latest major release AdonisJS v6. Notable highlights include a transition to ECMAScript Modules (ESM), an improved and simplified IoC container, improved TypeScript integration, and a more straightforward approach to route and controller binding.
+                    
+4 번째 검색 내용 
+제목 : 
+
+                            Android Fused Orientation Provider Aims to Improve Device Orientation Management
+                        
+주소 : https://www.infoq.com/news/2024/03/android-fused-orientation-api/
+설명 : 
+                         The Fused Orientation Provider (FOP) is a new Android API that uses signals from motion sensors embedded in a smartphone to provide consistent and reliable device orientation. FOP is distributed through Google Play Services and is available on all devices running Android 5, independently from their manufacturers.
+                    
+5 번째 검색 내용 
+제목 : 
+
+                            McDonald's Streamlines CI with GitHub Actions and Reusable Workflows
+                        
+주소 : https://www.infoq.com/news/2024/03/mcdonalds-ci-github-actions/
+설명 : 
+                         Recently McDonald’s talked about how they leveraged GitHub Actions to emphasize readability, maintainability, and reduce code duplication. Their goals included establishing a streamlined CI process, enhancing developer productivity, and implementing pipeline observability and monitoring.
+                    
+6 번째 검색 내용 
+제목 : 
+
+                            Freenginx: Core Nginx Developer Announces Fork of Popular Web Server
+                        
+주소 : https://www.infoq.com/news/2024/03/freenginx-ngnix-web-server/
+설명 : 
+                         Recently, a former employee of F5 and main contributor of the Nginx project announced the fork Freenginx of the popular web server. The new project was started to address a security dispute and wants to be a drop-in replacement of Nginx, run by developers rather than corporate entities.
+                    
+7 번째 검색 내용 
+제목 : 
+
+                            RWKV Project Open-Sources LLM Eagle 7B
+                        
+주소 : https://www.infoq.com/news/2024/03/rwkv-llm-eagle-7b/
+설명 : 
+                         The RWKV Project recently open-sourced Eagle 7B, a 7.52B parameter large language model (LLM). Eagle 7B is trained on 1.1 trillion tokens of text in over 100 languages and outperforms other similarly-sized models on multilingual benchmarks.
+                    
+8 번째 검색 내용 
+제목 : 
+
+                            InfoQ to Phase out Comments by March 18th, 2024
+                        
+주소 : https://www.infoq.com/news/2024/03/phase-out-comments/
+설명 : 
+                         We are going to start phasing out reader commenting features across the website by March 18th, 2024.  We are planning on new features that will provide our community with more meaningful ways to engage with each other, especially around Trend Reports. So stay tuned!
+                    
+9 번째 검색 내용 
+제목 : 
+
+                            Falco, Cloud-Native Security Tool for Kubernetes, Graduates from CNCF
+                        
+주소 : https://www.infoq.com/news/2024/03/cncf-falco-kubernetes-graduation/
+설명 : 
+                         CNCF announced the graduation of Falco, a tool designed for Linux systems and a de facto Kubernetes threat-detection engine. The project successfully met all graduation requirements, including undergoing the due diligence process, completing a third-party security audit, and obtaining the software licensing approvals.
+                    
+10 번째 검색 내용 
+제목 : 
+
+                            Swift 5.10 Brings Full Data Isolation Compile-Time Safety to Concurrent Code
+                        
+주소 : https://www.infoq.com/news/2024/03/swift-5-10-released/
+설명 : 
+                         The latest Swift release, Swift 5.10, includes just a few new proposals that nevertheless represent an important achievement for the language concurrency model, which is now able to ensure full data isolation at the compiler level, explains Swift team engineer Holly Borla.
+                    
+11 번째 검색 내용 
+제목 : 
+
+                            Microsoft Dev Proxy v0.15: Mock the APIs Secured with Entra and Many More
+                        
+주소 : https://www.infoq.com/news/2024/03/microsoft-dev-proxy-0-15/
+설명 : 
+                         Microsoft has recently unveiled Dev Proxy v0.15.0, featuring a range of enhancements aimed at streamlining app development processes. Among a big list of improvements, the most notable addition is the ability to mock APIs that are secured with Entra. Other additions are related to the simulation of OAuth flows, improved monitoring URLs, improved support of CORS, custom commands and many more.
+                    
+12 번째 검색 내용 
+제목 : 
+
+                            Java News Roundup: JHipster Blueprints, Jox Channel Library, Infinispan 15.0 Release Candidate
+                        
+주소 : https://www.infoq.com/news/2024/03/java-news-roundup-mar04-2024/
+설명 : 
+                         This week's Java roundup for March 4th, 2024, features news highlighting: Version 3.0 releases of Micronaut and Quarkus Blueprints for JHipster, introducing the Jox Channel library, first release candidate of Infinispan 15.0, point releases of Quarkus, Micronaut, Testcontainers for Java and JetBrains Ktor.
+                    
+13 번째 검색 내용 
+제목 : 
+
+                            Enhanced Protection for Large Language Models (LLMs) against Cyber Threats with Cloudflare for AI
+                        
+주소 : https://www.infoq.com/news/2024/03/cloudflare-firewall-for-ai/
+설명 : 
+                         Cloudflare recently announced a new capability called Firewall for AI in its Web Application Firewall (WAF) offering. The capability adds a new layer of protection that will identify abuse and attacks before they reach and tamper with Large Language Models (LLMs).
+                    
+14 번째 검색 내용 
+제목 : 
+
+                            Google BigQuery Introduces Vector Search
+                        
+주소 : https://www.infoq.com/news/2024/03/bigquery-vector-search/
+설명 : 
+                         Google recently announced that BigQuery now supports vector search. The new functionality enables vector similarity search required by data and AI use cases such as semantic search, similarity detection, and retrieval-augmented generation (RAG) with a large language model (LLM).
+                    
+15 번째 검색 내용 
+제목 : 
+
+                            Anthropic Unveils Claude 3 Models, Highlighting Opus and Its Near-Human Capabilities
+                        
+주소 : https://www.infoq.com/news/2024/03/anthropic-claude-ai/
+설명 : 
+                         Anthropic has introduced the Claude 3 family models, surpassing other industry models such as GPT-4. The Claude 3 family consists of three distinct models: Haiku, Sonnet, and Opus, arranged in ascending order of capability, each designed to cater to diverse user needs in terms of intelligence, speed, and cost.
+                    
