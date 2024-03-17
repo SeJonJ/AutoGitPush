@@ -1,6 +1,8 @@
 import requests
 from bs4 import BeautifulSoup as bs4
-import os
+import ollama as ollama
+import slack as slack
+
 
 header = {
     'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36'
@@ -27,8 +29,10 @@ def getTitle():
     for data in html1:
         data.text.replace('\n','')
         data.text.replace('\n\n','')
+        ## 제목 text 데이터를 ollama 를 이용해서 번역
+        result = ollama.transrateTO("Korean", data.text)
         ## 파이썬에서 list 에 저장할때는 append 사용 => list.add 와 같은 의미
-        title.append(data.text)
+        title.append(result)
 
     return title
 
@@ -42,23 +46,32 @@ def getHref():
 # 설명 리스트 return
 def getDesc():
     for data in html2:
-        desc.append(data.text)
-
+        ## 설명 text 데이터를 ollama 를 이용해서 번역
+        result = ollama.transrateTO("Korean", data.text)
+        desc.append(result)
+        
     return desc
 
 # 내용 저장
 def saveText(month, filename):
     ## w 는 쓰기 모드로 파일을 연다는 것을 의미
     f = open("./"+month+"/"+filename+".txt", "w")
+    ## slack 에 보내기 위한 전체 내용이 합쳐진 string
+    all_search_results = ""
 
     ## title 의 길이만큼, 즉 크롤링해온 내용만큼 for 문 시작
     for i in range(len(title)):
         
         ## 저장할 내용을 str 형태로 생성
         ## 반복문이니까 각 list 에서 i 번째 요소를 가져와서 str 로 저장한다
-        data = str(i+1)+" 번째 검색 내용 \n"+"제목 : "+title[i]+"\n"+"주소 : https://www.infoq.com"+href[i]+"\n"+"설명 : "+desc[i]+"\n"
+        # data = str(i+1)+" 번째 검색 내용 \n"+"제목 : "+title[i]+"\n"+"주소 : https://www.infoq.com"+href[i]+"\n"+"설명 : "+desc[i]+"\n"
+        data = str(i+1) + " 번째 검색 내용\n" + "제목: " + title[i] + "\n" + "주소: https://www.infoq.com" + href[i] + "\n" + "설명: " + desc[i] + "\n\n"
+        all_search_results += data
 
         ## 실제로 파일 f 에 내용을 쓰기 write
         f.write(data)
 
     f.close()
+
+    ## slack send
+    slack.sendSlackMsg(all_search_results)
