@@ -1,5 +1,9 @@
 import os
 import requests
+from dotenv import load_dotenv
+
+# .env 파일을 로드
+load_dotenv()
 
 ## slack api url
 url = "https://slack.com/api/chat.postMessage"

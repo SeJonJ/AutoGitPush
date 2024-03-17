@@ -3,6 +3,10 @@ from langchain.prompts import PromptTemplate
 from langchain.prompts.few_shot import FewShotPromptTemplate
 from langchain.callbacks import StreamingStdOutCallbackHandler
 import os
+from dotenv import load_dotenv
+
+# .env 파일을 로드
+load_dotenv()
 
 base_ollama_url = os.getenv('OLLAMA_URL_LOCAL')
 ollama = ChatOllama(
