@@ -14,5 +14,5 @@ month = date.strftime('%Y-%m')
 dir.createDirectory(month)
 
 # 3. 내용 저장
-filename = date.strftime('%Y-%m-%d')
+filename = date.strftime('test')
 crawler.saveText(month, filename)
