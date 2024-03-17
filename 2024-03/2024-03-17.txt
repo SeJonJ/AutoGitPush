@@ -1,0 +1,137 @@
+1 번째 검색 내용 
+제목 : 
+
+                            Erlang-Runtime Statically-Typed Functional Language Gleam Reaches 1.0
+                        
+주소 : https://www.infoq.com/news/2024/03/gleam-erlang-virtual-machine-1-0/
+설명 : 
+                         Gleam, an actor-based highly-concurrent functional language running on the Erlang virtual machine (BEAM), has reached version 1.0, which means it is now ready to be used in production systems with a guarantee of backward compatibility based on semantic versioning.
+                    
+2 번째 검색 내용 
+제목 : 
+
+                            Microsoft Introduces Static Web Apps' New Feature: Distributed Functions for Enhanced Performance
+                        
+주소 : https://www.infoq.com/news/2024/03/azure-swa-distributed-functions/
+설명 : 
+                         Microsoft has announced a new Azure Static Web Apps feature called distributed functions. It automatically distributes managed functions to high-demand regions of Static Web Apps.
+                    
+3 번째 검색 내용 
+제목 : 
+
+                            AWS Waives Egress Fees for Customers Exiting the Cloud
+                        
+주소 : https://www.infoq.com/news/2024/03/aws-egress-fees/
+설명 : 
+                         AWS has recently announced free egress traffic for customers leaving the cloud and withdrawing their data from the AWS infrastructure. This initiative follows the guidelines of the European Data Act and is designed to help customers switch to alternative cloud providers or on-premises data centers.
+                    
+4 번째 검색 내용 
+제목 : 
+
+                            Hashnode Creates Scalable Feed Architecture on AWS with Step Functions, EventBridge and Redis
+                        
+주소 : https://www.infoq.com/news/2024/03/hashnode-feeds-serverless-redis/
+설명 : 
+                         Hashnode created a scalable event-driven architecture (EDA) for composing feed data for thousands of users. The company used serverless services on AWS, including Lambda, Step Functions, EventBridge, and Redis Cache. The solution leverages Step Functions' distributed maps feature that enables high-concurrency processing.
+                    
+5 번째 검색 내용 
+제목 : 
+
+                            Azure OpenAI's “Use Your Data” Feature Now Generally Available
+                        
+주소 : https://www.infoq.com/news/2024/03/azure-openai-your-data-ga/
+설명 : 
+                         Microsoft has officially made On Your Data generally available in Azure OpenAI Service. This feature enables users to harness the full power of OpenAI models, including GPT-4, and seamlessly integrate the advanced features of the RAG (Retrieval Augmented Generation) model with their data. According to the company, all this is backed by enterprise-grade security on Azure.
+                    
+6 번째 검색 내용 
+제목 : 
+
+                            CloudFormation IaC Generator Scans and Imports Existing AWS Resources
+                        
+주소 : https://www.infoq.com/news/2024/03/cloudformation-iac-generator/
+설명 : 
+                         Amazon Web Services (AWS) has introduced new tools to simplify infrastructure management for its customers, announcing the "IaC Generator" and "CDK Migrate" tools.
+
+"CDK Migrate" has been recently covered at InfoQ, whilst the IaC Generator allows enineers to create CloudFormation templates based on pre-existing resources and their relationships.
+                    
+7 번째 검색 내용 
+제목 : 
+
+                            Finch 1.1.1: AWS Enhances Windows Compatibility for Open Source Container Development Tool
+                        
+주소 : https://www.infoq.com/news/2024/03/aws-finch-windows-support/
+설명 : 
+                         AWS recently announced the general availability of Windows support for Finch, an open-source CLI tool. Finch enables developers to create, execute, and distribute Linux containers on both Windows and macOS. It streamlines container development by combining a minimalistic native client with select open-source components.
+                    
+8 번째 검색 내용 
+제목 : 
+
+                            How Continuous Discovery Helps Software Teams to Take Product Decisions
+                        
+주소 : https://www.infoq.com/news/2024/03/continuous-discovery-software/
+설명 : 
+                         Continuous discovery for product development is regular research that involves the entire software product team, and that can actively inform product decisions. Equating continuous discovery to weekly conversations with one or more customers can be misleading. Combining quantitative and qualitative research methods can help software teams gather data and understand what is behind the data.
+                    
+9 번째 검색 내용 
+제목 : 
+
+                            AdonisJS v6 Released: TypeScript, ESM, and beyond
+                        
+주소 : https://www.infoq.com/news/2024/03/adonisjsv6-released/
+설명 : 
+                         AdonisJS, a Node.js web application framework, has released its latest major release AdonisJS v6. Notable highlights include a transition to ECMAScript Modules (ESM), an improved and simplified IoC container, improved TypeScript integration, and a more straightforward approach to route and controller binding.
+                    
+10 번째 검색 내용 
+제목 : 
+
+                            Android Fused Orientation Provider Aims to Improve Device Orientation Management
+                        
+주소 : https://www.infoq.com/news/2024/03/android-fused-orientation-api/
+설명 : 
+                         The Fused Orientation Provider (FOP) is a new Android API that uses signals from motion sensors embedded in a smartphone to provide consistent and reliable device orientation. FOP is distributed through Google Play Services and is available on all devices running Android 5, independently from their manufacturers.
+                    
+11 번째 검색 내용 
+제목 : 
+
+                            McDonald's Streamlines CI with GitHub Actions and Reusable Workflows
+                        
+주소 : https://www.infoq.com/news/2024/03/mcdonalds-ci-github-actions/
+설명 : 
+                         Recently McDonald’s talked about how they leveraged GitHub Actions to emphasize readability, maintainability, and reduce code duplication. Their goals included establishing a streamlined CI process, enhancing developer productivity, and implementing pipeline observability and monitoring.
+                    
+12 번째 검색 내용 
+제목 : 
+
+                            Freenginx: Core Nginx Developer Announces Fork of Popular Web Server
+                        
+주소 : https://www.infoq.com/news/2024/03/freenginx-ngnix-web-server/
+설명 : 
+                         Recently, a former employee of F5 and main contributor of the Nginx project announced the fork Freenginx of the popular web server. The new project was started to address a security dispute and wants to be a drop-in replacement of Nginx, run by developers rather than corporate entities.
+                    
+13 번째 검색 내용 
+제목 : 
+
+                            RWKV Project Open-Sources LLM Eagle 7B
+                        
+주소 : https://www.infoq.com/news/2024/03/rwkv-llm-eagle-7b/
+설명 : 
+                         The RWKV Project recently open-sourced Eagle 7B, a 7.52B parameter large language model (LLM). Eagle 7B is trained on 1.1 trillion tokens of text in over 100 languages and outperforms other similarly-sized models on multilingual benchmarks.
+                    
+14 번째 검색 내용 
+제목 : 
+
+                            InfoQ to Phase out Comments by March 18th, 2024
+                        
+주소 : https://www.infoq.com/news/2024/03/phase-out-comments/
+설명 : 
+                         We are going to start phasing out reader commenting features across the website by March 18th, 2024.  We are planning on new features that will provide our community with more meaningful ways to engage with each other, especially around Trend Reports. So stay tuned!
+                    
+15 번째 검색 내용 
+제목 : 
+
+                            Falco, Cloud-Native Security Tool for Kubernetes, Graduates from CNCF
+                        
+주소 : https://www.infoq.com/news/2024/03/cncf-falco-kubernetes-graduation/
+설명 : 
+                         CNCF announced the graduation of Falco, a tool designed for Linux systems and a de facto Kubernetes threat-detection engine. The project successfully met all graduation requirements, including undergoing the due diligence process, completing a third-party security audit, and obtaining the software licensing approvals.
+                    
