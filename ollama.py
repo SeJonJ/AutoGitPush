@@ -34,7 +34,7 @@ prompt = FewShotPromptTemplate(
 )
 
 
-def transrateTO(lang, text):
+def translateTO(lang, text):
     chain = prompt | ollama
     ## suffix 에서 각각 {lang}, {contents} 에 해당하는 부분에 대한 값을 지정한다.
     ## lang 은 번역할 언어, text 는 번역할 text 를 의미하며, 여기서는 크롤링된 데이터
@@ -43,6 +43,6 @@ def transrateTO(lang, text):
         "contents" : text,
     })
 
-    ## langchain 을 통해서 나온 경과는 모두 'content'='{결과}' 형식으로 저장, 출력된다.
+    ## langchain 을 통해서 나온 결과는 모두 'content'='{결과}' 형식으로 저장, 출력된다.
     ## 따라서 result 에서 content 만 가져온다. 
     return result.content

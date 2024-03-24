@@ -30,7 +30,7 @@ def getTitle():
         data.text.replace('\n','')
         data.text.replace('\n\n','')
         ## 제목 text 데이터를 ollama 를 이용해서 번역
-        result = ollama.transrateTO("Korean", data.text)
+        result = ollama.translateTO("Korean", data.text)
         ## 파이썬에서 list 에 저장할때는 append 사용 => list.add 와 같은 의미
         title.append(result)
 
@@ -47,7 +47,7 @@ def getHref():
 def getDesc():
     for data in html2:
         ## 설명 text 데이터를 ollama 를 이용해서 번역
-        result = ollama.transrateTO("Korean", data.text)
+        result = ollama.translateTO("Korean", data.text)
         desc.append(result)
         
     return desc
