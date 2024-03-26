@@ -1,88 +1,92 @@
 1 번째 검색 내용
-제목: 자바 뉴스 요약: JDK 22, GraalVM을 위한 JDK 22, JDK 23의 제안 일정, JMC 9.0
-주소: https://www.infoq.com/news/2024/03/java-news-roundup-mar18-2024/
-설명: 이 주 3월 18일 자바 요약 기사에서는 다음과 같은 뉴스를 강조합니다: JDK 22의 GA 출시, JDK 22용 GraalVM, JDK 23의 제안된 출시 일정, JDK Mission Control 9.0, BellSoft Liberica JDK 및 Azul Zulu JDK 22입니다.
+제목: AI, 오케스트레이션, 네이티브 네트워크 및 심지어 K8sGPT: KubeCon EU에서 CNCF 사ン드박스 프로젝트 새로운 고객 소개
+
+(Note: The translation may not be perfect as some terms might have specific meanings in the context of the original text. Please verify the meaning and context before using it.)
+주소: https://www.infoq.com/news/2024/03/kubecon-cncf-sandboxed-projects/
+설명: 최근 KubeCon EU 2024 콘퍼런스에서 강조된 내용으로, 12월에 다양한 분야에서 새로운 프로젝트가 CNCF 사ン드박스에 참여했습니다: CI/CD에는 kube-burner, 컨테이너 런타임에는 Kuasar, 관측성에는 K8sgpt, 차오즈 인지공학에는 KRKN, API 게이트웨이에는 easegress, 클라우드네이티브 네트워크에는 spider pool, 스케줄링 및 오리진에는 kubestellar이 참여했습니다.
 
 2 번째 검색 내용
-제목: 데카톤이 FE팀을 강화하기 위해 BFF(Backend for Frontend) 패턴 적용
+제목: ASP.NET Core 업데이트 .NET 9 미리보기 2: Blazor, OIDC, OAuth, HTTP.sys 구성
 
-(Note: The translation may not be perfect as it is a technical term. Please verify the accuracy if needed.)
+(주의: 이 번역은 인공지능으로 자동 생성되었습니다. 정확한 내용을 보장하지는 않습니다.)
+주소: https://www.infoq.com/news/2024/03/asp-net-core-net-9/
+설명: 마이크로소프트는 .NET 9 Preview 2를 발표하였습니다. 이 버전에서 ASP.NET Core에 대한 몇몇 업데이트가 포함되어 있으며, Blazor 컴포넌트 생성자 주입, 그리고 Blazor 상호 작용 서버 컴포넌트에 대한 WebSocket 압축이 포함되어 있습니다. 또한, 개발자들은 OIDC와 OAuth 매개변수를 사용자 정의하고 HTTP.sys 확장 인증 플래그를 구성할 수 있어 인증 통합을 간소화할 수 있습니다.
+
+3 번째 검색 내용
+제목: 자바 뉴스 요약: JDK 22, GraalVM을 위한 JDK 22, JDK 23의 제안 일정, JMC 9.0
+주소: https://www.infoq.com/news/2024/03/java-news-roundup-mar18-2024/
+설명: 이 주 3월 18일 자바 뉴스 요약에는 다음과 같은 소식이 강조됩니다: JDK 22의 GA 출시, JDK 22용 GraalVM, JDK 23의 제안된 출시 일정, JDK Mission Control 9.0, BellSoft Liberica JDK 및 Azul Zulu의 JDK 22입니다.
+
+4 번째 검색 내용
+제목: Decathlon은 BFF 패턴을 사용하여 FE 팀에게 능력을 부여합니다.
 주소: https://www.infoq.com/news/2024/03/decathlon-backend-for-frontend/
 설명: 데카톤은 회사 전체적인 추천으로 Backend For Frontend(BFF) 아키텍처 패턴을 설립하였고, 이를 엔지니어링 팀들에게 采用에 대한 가이드라인을 제공했습니다. 이 네 부분의 시리즈는 패턴을 소개하고 그 이점과 단점을 탐색합니다. 회사도 BFF 패턴을 사용하는 대안을 공유하고 아키텍처적인 고려 사항을 검토합니다.
 
-3 번째 검색 내용
-제목: [INST] 소세(SUSE)가 쿠버네티스와 에지 관리 제품에 대한 업그레이드를 발표합니다. [/INST]
-주소: https://www.infoq.com/news/2024/03/suse-rancher-prime-edge-3/
-설명: SUSE, 개방형 소프트웨어 솔루션 제공자로서 SUSE Linux Enterprise, Rancher Prime(Kubernetes 관리 플랫폼), 그리고 NeuVector Prime(Kubernetes 컨테이너 보안 플랫폼)을 포함한 개방형 소프트웨어 솔루션을 제공하는 SUSE는 클라우드 네이티브와 Edge 포트폴리오의 유명한 업그레이드를 밝혔습니다. 이러한 개선 사항은 고객들이 다양한 환경에서 비즈니스 중요 워크로드를 안전하게 배포 및 관리할 수 있도록 도와야 합니다.
-
-4 번째 검색 내용
-제목: CNCF 인슈비에서 Striimzi를 간소화한 Kafka on Kubernetes를 위해 인슈비에 인슈비하고 있습니다.
-주소: https://www.infoq.com/news/2024/03/cncf-strimzi-kafka-kubernetes/
-설명: 클라우드 네이티브 컴퓨팅 재단(CNCF)은 애프로치 카프카를 쿠버네티스에서 간편하게 배포하기 위해 Strimzi를 인큐빙 프로젝트로 승인했습니다. Strimzi는 Kubernetes API를 확장하여 카프카와 상호 작용하는데 쿠버네티스 원시적인 방식을 제공합니다. 이를 통해 카프카의 구성, 배포 및 운영을 Kubernetes에서 더 쉽게 할 수 있습니다.
-
 5 번째 검색 내용
-제목: 오라클은 Oracle Cloud Native 1.8을 발표하고, ARM과 Kubernetes 1.28를 지원합니다.
-주소: https://www.infoq.com/news/2024/03/oracle-cloud-native-supports-arm/
-설명: 오라클 리눅스 팀은 최근에 오라클 클라우드 네이티브 환경 1.8을 발표했습니다. 이는 공개 클라우드 환경과 내부 설치 구성에서 컨테이너화된 애플리케이션을 배포하기 위해 확장 가능한 Kubernetes 분산 버전입니다. 이 릴리스는 Kubernetes 1.28를 포함하고 있으며, x86_64와 aarch64 아키텍처에서 최신 Oracle Linux 8과 Oracle Linux 9의 지원을 도입합니다.
+제목: [INST] 소세(SUSE)가 쿠버네티스와 에지 관리 제품의 업그레이드를 발표합니다.
+[/INST]
+주소: https://www.infoq.com/news/2024/03/suse-rancher-prime-edge-3/
+설명: SUSE, 개방형 소프트웨어 솔루션 제공자로서, SUSE Linux Enterprise, Rancher Prime(Kubernetes 관리 플랫폼), 그리고 NeuVector Prime(Kubernetes 컨테이너 보안 플랫폼)과 같은 개방형 소프트웨어 솔루션을 포함하여, 클라우드 네이티브와 Edge 포트폴리오에 대한 의미적인 업그레이드를 공개했습니다. 이러한 향상사항은 고객들이 다양한 환경에서 비즈니스 중요 워크로드를 안전하게 배포 및 관리할 수 있도록 도와야 합니다.
 
 6 번째 검색 내용
-제목: 작업: 인스턴트 번역
-원문: Actionforge is a VS Code Extension to Build GitHub Workflows Visually
-번역: Actionforge는 Visual Studio Code 확장 프로그램입니다. 이를 사용하여 GitHub 워크플로우를 시각적으로 구축할 수 있습니다.
-주소: https://www.infoq.com/news/2024/03/actionforge-github-action-gui/
-설명: 액션포지는 깃허브 액션 워크플로우의 시각적인, 노드 기반 인터페이스를 제공하여 그 뒷받침 YAML 텍스트 정의를 마스킹합니다. Visual Studio Code에 패키지되어 사용되며, 외부 서비스 없이 이제 베타 버전으로 사용할 수 있습니다.
+제목: CNCF 인슈비에서 Strimzi를 간소화된 Kafka on Kubernetes로 인슈비하여 간소화
+
+(Note: The translation may not be perfect as it is a technical term. Please confirm the accuracy with a professional translator if needed.)
+주소: https://www.infoq.com/news/2024/03/cncf-strimzi-kafka-kubernetes/
+설명: 클라우드 네이티브 컴퓨팅 재단(CNCF)은 애프로치 카프카를 쿠버네티스에서 간편하게 배포하기 위해 Strimzi를 인큐빙 프로젝트로 승인했습니다. Strimzi는 Kubernetes API를 확장하여 카프카와 상호 작용하는데 쿠버네티스 원시적인 방식을 제공합니다. 이러한 연산자들은 Kafka의 구성, 배포 및 운영을 쿠버네티스에서 더 쉽게 만듭니다.
 
 7 번째 검색 내용
-제목: 앤자스닷컴 RDS는 고성능 데이터베이스 작업에 적합한 더 빠른 저장소 소개
-[INST] Amazon RDS Introduces Faster Storage for High-Performance Database Workloads [/INST]
+제목: 오라클은 Oracle Cloud Native 1.8을 발표하고, ARM과 Kubernetes 1.28를 지원합니다.
+주소: https://www.infoq.com/news/2024/03/oracle-cloud-native-supports-arm/
+설명: 오라클 리눅스 팀은 최근에 오라클 클라우드 네이티브 환경 1.8을 발표했습니다. 이는 공개 클라우드 환경과 온프레미스 설정에서 컨테이너화된 애플리케이션을 배포하기 위해 확장성 있는 Kubernetes 분산 버전입니다. 이 릴리즈에는 Kubernetes 1.28가 포함되어 있으며, x86_64와 aarch64 아키텍처에서 최신 Oracle Linux 8과 Oracle Linux 9의 지원이 도입되었습니다.
+
+8 번째 검색 내용
+제목: 작업: INST
+원문: Actionforge is a VS Code Extension to Build GitHub Workflows Visually
+번역: 액션포지는 VS Code 확장 프로그램으로, GitHub 워크플로우를 시각적으로 구축하는데 사용됩니다.
+작업: /INST
+주소: https://www.infoq.com/news/2024/03/actionforge-github-action-gui/
+설명: 액션포지는 깃허브 액션 워크플로우의 시각적인, 노드 기반 인터페이스를 제공하여 그 뒤에 있는 YAML 텍스트 정의를 마스킹합니다. Visual Studio Code의 확장으로 패키지되어 사용되며, 외부 서비스가 필요하지 않고 이제 베타 버전으로 제공됩니다.
+
+9 번째 검색 내용
+제목: 앤자스닷컴 RDS는 고성능 데이터베이스 작업을 위한 더 빠른 저장소 소개
+[INST] Amazon RDS Introduces Faster Storage for High-Performance Database Workloads를 한글로 번역하였습니다. [/INST]
 주소: https://www.infoq.com/news/2024/03/rds-io2-storage-piops/
 설명: AWS는 최근에 Amazon RDS에서 io2 블록 익스프레스 볼륨 지원을 도입했습니다. 기존의 PIOPS io1과 같은 가격으로, 새로운 io2 블록 익스프레스 볼륨은 모든 데이터베이스 엔진에 호환되며, 고성능, 고대역폭, 저지연시 데이터베이스 워크로드를 위해 설계되었습니다.
 
-8 번째 검색 내용
-제목: 전환: Discord 엔지니어링 팀을 클라우드 개발 환경으로 전환하는 것
+10 번째 검색 내용
+제목: 전환: 디스코드의 엔지니어링 팀을 클라우드 개발 환경으로 전환하는 것
 
-[INST] Discord의 엔지니어링 팀을 클라우드 개발 환경으로 전환하는 것 [/INST]
+[INST] Transitioning Discord’s Engineering Team to Cloud Development Environments [/INST]
 주소: https://www.infoq.com/news/2024/03/discord-cloud-development-env/
 설명: 최근 디스코드의 Internal Developer Experience팀은 백엔드와 인프라 개발을 Linux기반의 클라우드 개발 환경으로 전환하는 방법에 대해 언급했습니다. Coder와의 협력을 통해, 개발자들은 MacBook를 사용하지 않고 원격 개발 환경에서 작업하게 되었습니다.
 
-9 번째 검색 내용
+11 번째 검색 내용
 제목: 개발 환경 관리자 Daytona가 이제 오픈 소스입니다.
 주소: https://www.infoq.com/news/2024/03/daytona-open-source/
-설명: 데이튼아는 최근에 개발 환경 관리(DEM)를 오픈소스로 공개했다. 현재 알파 릴리즈 상태인 데이튼아는 단일 명령으로 완전히 구성된 개발 환경을 시작할 수 있게 설계되었습니다.
-
-10 번째 검색 내용
-제목: 마이크로소프트가 .NET 스마트 컴포넌트 도입: AI 기능을 지원하는 UI 컨트롤
-[INST] Microsoft Introduces .NET Smart Components: AI-Powered UI Controls
-주소: https://www.infoq.com/news/2024/03/dotnet-smart-ai-components/
-설명: 마이크로소프트는 최근에 .NET 스마트 컴포넌트를 소개했습니다. 이 컴포넌트는 .NET 애플리케이션의 개발 생산성을 높이기 위해 AI 기능을 제공하는 UI 컨트롤입니다. 마이크로소프트는 이러한 컴포넌트가 기존의 .NET 애플리케이션에 AI 기능을 간단하게 통합할 수 있도록 설계되었다고 주장하고 있으며, 개발자들에게 필요한 최소한의 노력을 요구합니다.
-
-11 번째 검색 내용
-제목: 구글 클라우드가 보안 명령 센터 엔터프라이즈를 출시합니다.
-주소: https://www.infoq.com/news/2024/03/google-cloud-security-enterprise/
-설명: 구글 클라우드는 엔터프라이즈 보안 명령 센터(SSC)를 개발하여, 엔터프라이즈 보안 운영과 함께 활용할 수 있는 클라우드 위험 관리 솔루션을 출시했습니다. 이 솔루션은 다중 클라우드 환경에서 위험을 관리하고 완화하는데 도움이 됩니다. Mandiant의 전문성으로 강화되어 있습니다.
+설명: 데이튼아는 최근에 개발 환경 관리(DEM)가 오픈소스로 공개되었습니다. 현재 알파 릴리즈 상태인 데이튼아는 단일 명령으로 완전히 구성된 개발 환경을 시작할 수 있게 설계되었습니다.
 
 12 번째 검색 내용
+제목: 마이크로소프트가 .NET 스마트 컴포넌트 도입: AI 강화된 UI 컨트롤
+[INST] Microsoft Introduces .NET Smart Components: AI-Powered UI Controls
+주소: https://www.infoq.com/news/2024/03/dotnet-smart-ai-components/
+설명: 마이크로소프트는 최근에 .NET 스마트 컴포넌트를 소개했습니다. 이것은 AI 기능을 제공하고 .NET 애플리케이션의 개발 생산성을 높이는 UI 컨트롤입니다. 마이크로소프트는 이러한 컴포넌트가 기존의 .NET 애플리케이션에 AI 기능을 간단하게 통합할 목적으로 설계되었다고 주장하며, 개발자들에게 최소한의 노력이 필요하다는 것을 언급했습니다.
+
+13 번째 검색 내용
+제목: 구글 클라우드가 보안 명령 센터 엔터프라이즈를 출시합니다.
+주소: https://www.infoq.com/news/2024/03/google-cloud-security-enterprise/
+설명: 구글 클라우드는 엔터프라이즈 보안 명령 센터(SSC)를 개발하여, 엔터프라이즈 보안 운영과 함께 활용할 수 있는 클라우드 위험 관리 솔루션을 출시했습니다. 이 솔루션은 다중 클라우드 환경에서 위험을 관리하고 완화할 수 있도록 도와주며, 맨데이트 전문가의 지식으로 강화됩니다.
+
+14 번째 검색 내용
 제목: 클라우드플레어가 런 프레임워크인 핑오라를 오픈소스로 공개합니다.
 [/INST]
 주소: https://www.infoq.com/news/2024/03/cloudflare-open-sources-pingora/
-설명: 최근에는 Cloudflare가 Rust 기반의 Pingora 프레임워크를 개방적으로 공개하였습니다. 이 프레임워크는 Apache License version 2.0 아래로 개방적으로 공개되었습니다. 이 프록시 솔루션은 HTTP/1, HTTP/2, gRPC, 및 웹소켓 트래픽을 유연하게 처리하며, 적응형 로드 밸런싱과 장애 복구 메커니즘을 지원합니다.
-
-13 번째 검색 내용
-제목: 소프트웨어 개발에서 실험 문화 기르기
-
-(Note: The translation may not be perfect as it is a direct translation of the English phrase. In Korean, it would be more natural to say "소프트웨어 개발에서 실험 문화를 기르는 것이 중요하다" which means "Fostering an experimentation culture is important in software development.")
-주소: https://www.infoq.com/news/2024/03/experimental-culture-software/
-설명: 실험적 문화는 사고의 방식입니다. 새로운 것을 시도하고 함께 배우며, 복잡한 소프트웨어 문제를 해결하고, 함께 가치를 창출합니다. 소프트웨어 기업에서의 실험적 문화는 강력한 관리 지원이 필요하며, 심리적 안전감이 있어야 합니다. (Terhi Aho에 따르면)
-
-14 번째 검색 내용
-제목: 엑스피디아가 미크로 프론트엔드와 그래프QL 최적화를 통해 항공권 검색 속도 향상
-
-(Note: The translation may not be perfect as it is a machine translation. Please review and make any necessary adjustments.)
-주소: https://www.infoq.com/news/2024/03/expedia-graphql-micro-frontends/
-설명: 엑스피디아가 웹과 모바일 애플리케이션에 다양한 최적화를 적용하여 비행 검색 속도를 52% 감소까지 높였습니다(페이지 사용 가능 시간). 이러한 개선을 지원하기 위해 회사는 애플리케이션의 관찰성을 향상시켰습니다. Expedia Flights 웹 애플리케이션은 Micro Frontend Architecture(MFA)로 마이그레이션되었습니다(유연성, 재사용성과 더 나은 최적화를 허용하기 위해).
+설명: 최근에는 Cloudflare가 Rust 기반의 HTTP 프록시 서비스를 만드는 Pingora 프레임워크를 오픈소스로 공개했습니다. 이 프레임워크는 Apache License version 2.0 아래에 오픈 소스되었으며, HTTP/1, HTTP/2, gRPC, 웹 소켓 트래픽을 처리하는데 맞춤형 로드 밸런싱과 장애 복구 기능을 지원합니다.
 
 15 번째 검색 내용
-제목: 자바 22은 외국어 메모리와 메모리 API, 무명 변수와 패턴, 그리고 JavaOne의 복귀를 제공합니다.
-주소: https://www.infoq.com/news/2024/03/java22-released/
-설명: 오라클은 Java 프로그래밍 언어와 가상 기계의 버전 22를 발표했습니다. JDK 21 이후에 처음으로 LTS(Long Term Support)가 아닌 릴리스로, 최종 기능 세트는 12개의 JEP(Java Enhancement Proposal)를 포함합니다. 이 중에서 두 가지 - Foreign Function & Memory API와 Unnamed Variables & Patterns -는 각각의 미리 보기 라운드를 완료하고 현재는 최종 완성된 상태입니다.
+제목: 소프트웨어 개발에서 실험 문화 기르기
+
+(Note: The translation may not be perfect as it is a direct translation. In Korean, the phrase would typically be structured as "소프트웨어 개발에서 실험 문화를 기르자" or "소프트웨어 개발에서 실험 문화 기르기".)
+주소: https://www.infoq.com/news/2024/03/experimental-culture-software/
+설명: 실험적 문화는 사고의 방식입니다. 새로운 것을 시도하고 함께 배우며, 복잡한 소프트웨어 문제를 해결하고, 함께 가치를 창출합니다. 소프트웨어 기업에서의 실험적 문화는 강력한 관리 지원이 필요하며, 심리적 안전감이 있어야 합니다. (Terhi Aho에 따르면)
 
