@@ -1,0 +1,86 @@
+1 번째 검색 내용
+제목: 연구자들은 오픈소스 LLM 잠금 해제 방어 알고리즘, SafeDecoding을 개발했습니다.
+주소: https://www.infoq.com/news/2024/03/safedecoding-jailbreak-defense/
+설명: 웨이스턴대, 펜시라니아 주립대, 앤런 인스티퓨트 AI에서 출신한 연구자들은 대규모 언어 모델(LLM)을 해킹 공격으로부터 보호하기 위해 SafeDecoding 기술을 오픈소스로 공개했습니다. SafeDecoding은 기본 해킹 방어 수준보다 뛰어난 성능을 발휘하면서도 계산 부담이 큰 것으로 나타나지 않았습니다.
+
+2 번째 검색 내용
+제목: 강화된 엔지니어링 디자인 및 협력을 위한 Azure의 새로운 안전 시뮬레이션 작업장
+
+(Note: The translation may not be perfect as some phrases might not have a direct equivalent in Korean. However, it conveys the general meaning of the original sentence.)
+주소: https://www.infoq.com/news/2024/03/azure-public-preview-mswb/
+설명: Microsoft는 최근 Azure 모델링 및 시뮬레이션 작업장(MSWB)의 공개 미리 보기를 출시했습니다. 이 완전히 관리되는 엔지니어링 환경은 데이터와 IP를 보호하면서 안전한 사용자 협력을 가능하게 합니다. 이를 위해 다중 계층 보안 및 액세스 제어 솔루션을 사용합니다.
+
+3 번째 검색 내용
+제목: AI, 오케스트레이션, 네이티브 네트워크 및 K8sGPT: KubeCon EU에서 CNCF 사안드박스 프로젝트 소개
+
+(Note: The translation may not be perfect as some terms might have specific meanings in the context of technology. Please verify the meaning and correctness with a professional translator if necessary.)
+주소: https://www.infoq.com/news/2024/03/kubecon-cncf-sandboxed-projects/
+설명: 최근 KubeCon EU 2024 콘퍼런스에서 강조된 내용으로, 12월에 다양한 카테고리에서 새로운 프로젝트가 CNCF 사ン드박스에 가입했습니다: CI/CD에는 kube-burner, 컨테이너 런타임에는 Kuasar, 관측성에는 K8sgpt, 차오즈 엔지니어링에는 KRKN, API 게이트웨이에는 easegress, 클라우드 네이티브 네트워크에는 spider pool, 스케줄링 및 오리진에는 kubestellar이 포함되었습니다.
+
+4 번째 검색 내용
+제목: ASP.NET Core 업데이트: .NET 9 미리보기 2에서 Blazor, OIDC, OAuth, 및 HTTP.sys 구성
+
+(원문의 내용을 참고하여 번역한 내용입니다.)
+주소: https://www.infoq.com/news/2024/03/asp-net-core-net-9/
+설명: 마이크로소프트는 .NET 9 Preview 2를 발표하였습니다. 이 버전에서는 ASP.NET Core에 대한 몇 가지 업데이트가 포함되어 있습니다: Blazor 컴포넌트 생성자 주입, 그리고 Blazor 상호 작용 서버 컴포넌트에 대한 WebSocket 압축이 포함되었습니다. 또한 개발자들은 OIDC와 OAuth 매개변수를 사용자 정의하고 HTTP.sys 확장 인증 플래그를 구성하여 인증 통합을 간소화할 수 있습니다.
+
+5 번째 검색 내용
+제목: 자바 뉴스 요약: JDK 22, GraalVM을 위한 JDK 22, JDK 23의 제안 일정, JMC 9.0
+주소: https://www.infoq.com/news/2024/03/java-news-roundup-mar18-2024/
+설명: 이 주 3월 18일 자바 요약 기사에서는 다음과 같은 뉴스를 강조합니다: JDK 22의 GA 출시, JDK 22용 GraalVM, JDK 23의 제안된 발표 일정, JDK Mission Control 9.0, BellSoft Liberica JDK 및 Azul Zulu의 JDK 22입니다.
+
+6 번째 검색 내용
+제목: Decathlon은 BFF 패턴을 사용하여 FE 팀에게 능력을 부여합니다.
+주소: https://www.infoq.com/news/2024/03/decathlon-backend-for-frontend/
+설명: 데카톤은 회사 전체적인 추천으로 Backend For Frontend(BFF) 아키텍처 패턴을 설립하였고, 이를 엔지니어링 팀들에게 采用에 대한 가이드라인을 제공했습니다. 이 네 부분의 시리즈는 패턴을 소개하고 그 이점과 위험성을 탐색합니다. 회사도 BFF 패턴을 사용하는 대안을 공유하고 아키텍처적인 고려 사항을 검토합니다.
+
+7 번째 검색 내용
+제목: [INST] 소세(SUSE)가 쿠버네티스와 엣지 관리 제품에 대한 업그레이드를 발표합니다. [/INST]
+주소: https://www.infoq.com/news/2024/03/suse-rancher-prime-edge-3/
+설명: SUSE, 개방형 소프트웨어 솔루션 제공자로서 SUSE Linux Enterprise, Rancher Prime(Kubernetes 관리 플랫폼), 그리고 NeuVector Prime(Kubernetes 컨테이너 보안 플랫폼)을 포함한 개방형 소프트웨어 솔루션을 제공하는 SUSE는 클라우드 네이티브와 Edge 포트폴리오의 유명한 업그레이드를 밝혔습니다. 이러한 개선 사항은 고객들이 다양한 환경에서 비즈니스 중요 워크로드를 안전하게 배포하고 관리할 수 있도록 도와야 합니다.
+
+8 번째 검색 내용
+제목: CNCF 인슈비에서 Strimzi를 간소화된 Kafka on Kubernetes로 인슈비하고 있습니다.
+주소: https://www.infoq.com/news/2024/03/cncf-strimzi-kafka-kubernetes/
+설명: 클라우드 네이티브 컴퓨팅 재단(CNCF)은 애프로치 카프카를 쿠버네티스에서 간편하게 배포하기 위해 Strimzi를 인큐빙 프로젝트로 승인했습니다. Strimzi는 Kubernetes API를 확장하여 카프카와 상호작용하는데 쿠버네티스 원시적인 방법을 제공합니다. 이러한 운영자들은 Kafka의 구성, 배포 및 운영을 쉽게 만듭니다.
+
+9 번째 검색 내용
+제목: 오라클은 Oracle Cloud Native 1.8을 발표하고, ARM과 Kubernetes 1.28를 지원합니다.
+주소: https://www.infoq.com/news/2024/03/oracle-cloud-native-supports-arm/
+설명: 오라클 리눅스 팀은 최근에 오라클 클라우드 네이티브 환경 1.8을 발표했습니다. 이는 공개 클라우드 환경과 내부 설치 구성에서 컨테이너화된 애플리케이션을 배포하기 위해 확장 가능한 Kubernetes 분산 버전입니다. 이 릴리스에는 Kubernetes 1.28이 포함되어 있으며, x86_64와 aarch64 아키텍처에서 최신 Oracle Linux 8과 Oracle Linux 9 릴리스에 대한 지원을 도입합니다.
+
+10 번째 검색 내용
+제목: 작업: 인스턴트 번역
+원문: Actionforge is a VS Code Extension to Build GitHub Workflows Visually
+번역: Actionforge는 Visual Studio Code 확장 프로그램입니다. 이를 사용하여 GitHub 워크플로우를 시각적으로 구축할 수 있습니다.
+주소: https://www.infoq.com/news/2024/03/actionforge-github-action-gui/
+설명: 액션포지는 깃허브 액션 워크플로우의 시각적인, 노드 기반 인터페이스를 제공하여 그 뒤에 있는 YAML 텍스트 정의를 마스킹합니다. Visual Studio Code의 확장으로 패키지되어 사용되며, 외부 서비스가 필요하지 않고 이제 베타 버전으로 제공됩니다.
+
+11 번째 검색 내용
+제목: 앤자스닷컴 RDS는 고성능 데이터베이스 작업에 적합한 빠른 저장소를 소개합니다.
+주소: https://www.infoq.com/news/2024/03/rds-io2-storage-piops/
+설명: AWS는 최근에 Amazon RDS에서 io2 블록 익스프레스 볼륨 지원을 도입했습니다. 기존의 PIOPS io1과 같은 가격으로, 새로운 io2 블록 익스프레스 볼륨은 모든 데이터베이스 엔진에 호환되며, 고성능, 고대역폭, 저지연시 데이터베이스 워크로드를 위해 설계되었습니다.
+
+12 번째 검색 내용
+제목: 전환: 디스코드의 엔지니어링 팀을 클라우드 개발 환경으로 전환하는 것
+
+[INST] Transitioning Discord’s Engineering Team to Cloud Development Environments [/INST]
+주소: https://www.infoq.com/news/2024/03/discord-cloud-development-env/
+설명: 최근 디스코드의 Internal Developer Experience팀은 백엔드와 인프라 개발을 Linux 기반의 클라우드 개발 환경으로 전환하는 방법에 대해 언급했습니다. Coder와의 협력을 통해, 개발자들은 MacBook를 사용하지 않고 원격 개발 환경에서 작업하게 되었습니다.
+
+13 번째 검색 내용
+제목: 개발 환경 관리자 Daytona가 이제 오픈 소스입니다.
+주소: https://www.infoq.com/news/2024/03/daytona-open-source/
+설명: Daytona는 최근에 개발 환경 관리(DEM)를 오픈소스로 공개했습니다. 현재 알파 릴리즈 상태인 Daytona는 단일 명령으로 완전히 구성된 개발 환경을 시작할 수 있게 설계되었습니다.
+
+14 번째 검색 내용
+제목: 마이크로소프트가 .NET 스마트 컴포넌트 도입: AI 기능을 지원하는 UI 컨트롤
+[INST] Microsoft Introduces .NET Smart Components: AI-Powered UI Controls
+주소: https://www.infoq.com/news/2024/03/dotnet-smart-ai-components/
+설명: 마이크로소프트는 최근에 .NET 스마트 컴포넌트를 소개했습니다. 이것은 AI 기능을 제공하고 .NET 애플리케이션의 개발 생산성을 향상시키는 UI 컨트롤입니다. 마이크로소프트는 이러한 컴포넌트가 기존의 .NET 애플리케이션에 AI 기능을 간단하게 통합할 수 있도록 설계되었다고 주장했습니다. 개발자들에게 필요한 최소한의 노력이 요구됩니다.
+
+15 번째 검색 내용
+제목: 구글 클라우드가 보안 명령 센터 엔터프라이즈를 출시합니다.
+주소: https://www.infoq.com/news/2024/03/google-cloud-security-enterprise/
+설명: 구글 클라우드는 엔터프라이즈 보안 명령 센터(SSC)를 개발하여 클라우드 보안 전략을 제공합니다. 이 솔루션은 다중 클라우드 환경에서 위험을 관리하고 완화하는데 도움이 됩니다. Mandiant의 전문성으로 강화되었습니다.
+
