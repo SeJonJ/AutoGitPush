@@ -1,0 +1,95 @@
+1 번째 검색 내용
+제목: 디지털오션 개발: CPU 기반 자동 조정을 위한 앱 플랫폼 소개
+
+(Note: The translation may not be perfect, as Korean grammar and sentence structure can differ significantly from English. Please review the translation for accuracy.)
+주소: https://www.infoq.com/news/2024/03/digital-ocean-autoscaling/
+설명: 디지털오션은 자동화된 수평 확장을 위한 앱 플랫폼 PaaS를 출시하였습니다. 이로 인해 개발자들은 CPU 부하에 따라 서비스를 상향 또는 하향 조정할 수 있는 부담을 덜어주고 싶었습니다.
+
+2 번째 검색 내용
+제목: Vitess 버전 19 발표: MySQL 5.7 지원 중단, MySQL 호환성 개선
+
+(Note: The translation may not be perfect as it is a machine translation. Please review and make any necessary adjustments.)
+주소: https://www.infoq.com/news/2024/03/vitess-19-released/
+설명: 최근에는 Vitess가 v19 안정 릴리즈를 출시했습니다. 이 업데이트의 주요 기능은 MySQL과의 여러 테이블 삭제 작업에 대한 쿼리 호환성을 개선하고, 스트림 합병에 대한 모니터링 메트릭을 추가하며, 증분 백업 지원 및 다양한 성능 향상과 같은 기능입니다.
+
+3 번째 검색 내용
+제목: 네틸플릭스는 메타플로우를 사용하여 일반적인 AI/ML 응용 프로그램을 대규모로 관리합니다.
+주소: https://www.infoq.com/news/2024/03/netflix-metaflow/
+설명: 넷플릭스는 최근에 메타플로우(Metaflow)를 위한 오픈소스 기계학습 인프라 프레임워크인 기계학습 플랫폼(MLP) 팀이 제공하는 에코시스템을 발표했다. Metaflow를 위한 여러 가지 통합을 생성함으로써, 넷플릭스는 이미 여러 엔지니어링 팀들이 유지관리하고 있는 수백 개의 Metaflow 프로젝트를 가지고 있다.
+
+4 번째 검색 내용
+제목: .NET Aspire Preview 4: 데이터베이스 관리 도구, Podman과 더 많은 클라우드 API 지원 추가
+[INST] .NET Aspire Preview 4: 데이터베이스 관리 도구, Podman과 더 많은 클라우드 API 지원 추가 [/INST]
+주소: https://www.infoq.com/news/2024/03/dotnet-aspire-preview4-released/
+설명: 이 달에 Microsoft는 .NET Aspire의 4번째 미리보기 버전의 사용 가능성을 밝혔습니다. Preview 4는 프레임워크의 여러 측면에서 개선 사항을 제공하며, 주요 커뮤니티 요청에 대한 대처를 위해 개발되었습니다. 중요한 영역은 Entity Framework 구성 향상, Podman 지원, 더 많은 Cloud API 지원 및 리소스 관리가 쉽게 되도록 애플리케이션 모델에 대한 조정입니다.
+
+5 번째 검색 내용
+제목: [INST] 아зу SQL 데이터베이스에서 개인 미리보기에서 코픽이트 지원
+[/INST]
+주소: https://www.infoq.com/news/2024/03/sql-azure-copilot-preview/
+설명: 마이크로소프트는 SQL Azure의 자연어 기반 SQL 변환을 제공하고 데이터베이스 관리에 대한 자신감 증진을 위해 Copilot의 개인 미리보기를 발표했습니다.
+
+6 번째 검색 내용
+제목: 그랄VM에서 JDK 22 지원: JDK 22 JEP와 새로운 트루펠 버전 지원
+
+(Note: The translation may not be perfect as it is a technical term. Please verify the accuracy if needed.)
+주소: https://www.infoq.com/news/2024/03/graalvm-jdk-22/
+설명: 오라클은 JDK 22를 최근에 릴리즈한 후, Oracle GraalVM을 JDK 22에 내장하여 지원합니다. Java 22의 대부분의 JDK Enhancement Proposals(JEP)를 지원하고 있습니다.
+
+7 번째 검색 내용
+제목: 단거: Dagger는 CI/CD 개발자 기능을 활성화하고 Dagger버스를 열어줍니다.
+
+[INST] Translate my sentence into Korean :
+
+                            Dagger Enables Developer Functions for CI/CD and Opens the Daggerverse
+                         [/INST]
+주소: https://www.infoq.com/news/2024/03/dagger-functions-daggerverse/
+설명: 오픈소스 다거 프로젝트, "어디서나 실행되는" CI/CD 코드를 목표로 하며 최근에는 0.10 버전을 릴리즈했습니다. 이 릴리즈에서는 사용자 정의 Dagger 함수가 도입되었으며, CI 스크립트를 간소화하면서 개발자들이 더 깨끗한, 효율적인 파이프라인을 위해 기능성을 확장합니다. 또한 Daggerverse - 공개 Dagger 함수를 검색할 수 있는 인덱스가 발표되었습니다.
+
+8 번째 검색 내용
+제목: 테라폼 1.7에서는 설정 기반의 제거 및 테스트 모킹이 개선되어 오픈토프우 전에 구현됩니다.
+주소: https://www.infoq.com/news/2024/03/terraform-test-mocking-remove/
+설명: 해시코퍼프 1.7 버전 출시: Hashicorp는 인프라스트럭처 코드(IaC) 도구의 인기 있는 Terraform 1.7 버전 출시를 발표했습니다. Terraform은 관리되는 스택의 상태 데이터에서 자원을 안전하게 제거할 수 있는 config-driven remove 기능을 지원합니다. 새로운 버전에는 mock 공급자와 오버라이드, 테스트 프레임워크의 여러 개선 사항도 포함되어 있습니다.
+
+9 번째 검색 내용
+제목: 연구자들은 오픈소스 LLM 잠금 해제 방어 알고리즘, SafeDecoding을 개발했습니다.
+주소: https://www.infoq.com/news/2024/03/safedecoding-jailbreak-defense/
+설명: University of Washington, Pennsylvania State University, 및 Allen Institute for AI의 연구자들이 대규모 언어 모델(LLM)에 대한 탈출 공격을 방지하기 위한 SafeDecoding 기술을 오픈소스로 제공했습니다. SafeDecoding은 기본 탈출 방어 시스템보다 성능이 높으며, 의미적인 계산 부담 없이 구현됩니다.
+
+10 번째 검색 내용
+제목: 강화된 엔지니어링 디자인 및 협력을 위한 Azure의 새로운 안전 시뮬레이션 작업장
+
+(Note: The translation may not be perfect as some words might have been abbreviated or translated literally. Please review the translation and make any necessary adjustments.)
+주소: https://www.infoq.com/news/2024/03/azure-public-preview-mswb/
+설명: 마이크로소프트는 최근에 Azure 모델링 및 시뮬레이션 작업장(MSWB)의 공개 미리 보기를 출시했습니다. 이 완전히 관리되는 엔지니어링 환경은 데이터와 IP를 보호하면서 안전한 사용자 협력을 허용합니다. 이를 위해 다중 계층 보안 및 액세스 제어 솔루션을 적용합니다.
+
+11 번째 검색 내용
+제목: AI, 오케스트레이션, 네이티브 네트워크 및 K8sGPT: KubeCon EU에서 CNCF 사안드박스 프로젝트 소개
+
+(Note: The Korean translation may not be perfect as it involves technical terms and acronyms. Please verify the accuracy of the translation if necessary.)
+주소: https://www.infoq.com/news/2024/03/kubecon-cncf-sandboxed-projects/
+설명: 최근 KubeCon EU 2024 콘퍼런스에서 강조된 내용으로, 12월에 다양한 분야에서 새로운 프로젝트가 CNCF 사ン드박스에 참여했습니다: CI/CD에는 kube-burner, 컨테이너 런타임에는 Kuasar, 관측성에는 K8sgpt, 차오쉬 엔지니어링에는 KRKN, API 게이트웨이에는 easegress, 클라우드 네이티브 네트워크에는 spider pool, 스케줄링 및 오리진에는 kubestellar이 참여했습니다.
+
+12 번째 검색 내용
+제목: ASP.NET Core 업데이트 .NET 9 미리보기 2: Blazor, OIDC, OAuth, HTTP.sys 구성
+
+(주의: 이 번역은 컴퓨터 지식이 필요한 내용이므로 사람들이 이해하기 어렵게 될 수 있습니다.)
+주소: https://www.infoq.com/news/2024/03/asp-net-core-net-9/
+설명: 마이크로소프트는 .NET 9 Preview 2를 발표하였습니다. 이 버전에서는 ASP.NET Core에 대한 몇몇 업데이트가 포함되어 있습니다: Blazor 컴포넌트 생성자 주입, 그리고 Blazor 상호 작용 서버 컴포넌트에 대한 WebSocket 압축이 포함되었습니다. 또한 개발자들은 OIDC와 OAuth 매개변수를 사용자 정의하고 HTTP.sys 확장 인증 플래그를 구성하여 인증 통합을 간소화할 수 있습니다.
+
+13 번째 검색 내용
+제목: 자바 뉴스 요약: JDK 22, GraalVM을 위한 JDK 22, JDK 23의 제안 일정, JMC 9.0
+주소: https://www.infoq.com/news/2024/03/java-news-roundup-mar18-2024/
+설명: 이 주 3월 18일 자바 요약은 JDK 22 GA 릴리스, JDK 22에 대한 GraalVM, JDK 23의 제안된 릴리스 일정, JDK Mission Control 9.0, BellSoft Liberica JDK 및 Azul Zulu JDK 22를 강조하고 있습니다.
+
+14 번째 검색 내용
+제목: Decathlon은 BFF 패턴을 사용하여 FE 팀을 강화합니다.
+주소: https://www.infoq.com/news/2024/03/decathlon-backend-for-frontend/
+설명: 데카톤은 회사 전체적인 추천으로 Backend For Frontend(BFF) 아키텍처 패턴을 설립하였고, 이를 엔지니어링 팀에서의 채택을 위한 가이드라인을 제공했습니다. 이 네 부분 시리즈는 패턴을 소개하고 이의 이점과 단점을 탐색합니다. 회사도 BFF 패턴을 사용하는 대안을 공유하고 아키텍처적인 고려 사항을 검토합니다.
+
+15 번째 검색 내용
+제목: [INST] 소세(SUSE)가 쿠버네티스와 에지 관리 제품의 업그레이드를 발표합니다.
+[/INST]
+주소: https://www.infoq.com/news/2024/03/suse-rancher-prime-edge-3/
+설명: SUSE, 개방형 소프트웨어 솔루션 제공업체로, SUSE Linux Enterprise, Rancher Prime(Kubernetes 관리 플랫폼), 그리고 NeuVector Prime(Kubernetes 컨테이너 보안 플랫폼)을 포함한 개방형 소프트웨어 솔루션을 제공합니다. 이 회사는 클라우드 네이티브와 Edge 포트폴리오에 대한 의미있는 업그레이드를 발표했습니다. 이러한 개선 사항은 고객들이 다양한 환경에서 비즈니스 중요 워크로드를 안전하게 배포하고 관리할 수 있도록 도와야 합니다.
+
