@@ -1,91 +1,86 @@
 1 번째 검색 내용
-제목: KubeCon EU: 백스테이지, 크로스플레인 및 기타 기관이 CNCF 졸업 준비중입니다.
-주소: https://www.infoq.com/news/2024/03/kubecon-cncf-incubated-projects/
-설명: CNCF 인슈비에서 출몰하려는 더 많은 프로젝트가 클라우드 네이티브 생태계를 확장시키는데 준비중입니다. Backstage 커뮤니티는 더 강력한 아키텍처를 개발하였으며, Crossplane은 개발자의 DX를 향상시키기 위해 노력했습니다. KubeFlow와 Volcano, 모두 Kubernetes 생태계에서 AI 채택을 높이는데 도움이 될 수 있는 툴들이 설치가 더 쉽고 각각의 기능을 향상시키는데 집중하고 있습니다.
+제목: 해시코퍼프 2.3 버전의 테라폼 클라우드 오퍼레이터를 쿠버네티스에 출시했습니다.
+주소: https://www.infoq.com/news/2024/03/terraform-kubernetes-operator/
+설명: 해시코르프는 최근에 Kubernetes용 Terraform Cloud 오퍼레이터의 버전 2.3를 발표했습니다. 새로운 기능으로 워크스페이스 실행을 선언적으로 시작할 수 있는 기능이 추가되었습니다. Kubernetes-native 경험을 제공하면서 Terraform 워크플로우를 활용하기 위해 소개된 Kubernetes용 Terraform Cloud Operator는 2023년 11월에 발표되었습니다.
 
 2 번째 검색 내용
-제목: 소프트웨어 개발에서 기술 부채를 다스리는 방법
-
-(Note: The translation may not be perfect as it is a direct translation from English to Korean. In Korean, the sentence structure might be different and more natural-sounding.)
-주소: https://www.infoq.com/news/2024/03/tech-debt-software/
-설명: 마르진 휴이즌빈드에 따르면, 기술 부채를 예방하는 데 중요한 것은 의무감입니다. 의무감을 갖기 위해서는 부채를 무시하기 어렵게 만들어야 합니다. 이러한 힌리스티크인 것들은 기술 부채를 다스리는 데 도움이 될 수 있습니다: 작은 문제를 즉시 해결하는 것, 개선에 대한 시간 박스를 동의하고, 혼란스러운 것들을 혼란스러운 것으로 보이도록 만드는 것입니다.
+제목: KubeCon EU: 백스테이지, 크로스플레인 및 기타 기관이 CNCF 졸업을 준비중입니다.
+주소: https://www.infoq.com/news/2024/03/kubecon-cncf-incubated-projects/
+설명: CNCF 인슈비에서 출몰하는 더 많은 프로젝트가 클라우드 네이티브 생태계를 확장시키는데 준비중입니다. Backstage 커뮤니티는 더욱 강력한 아키텍처를 개발하였으며, Crossplane은 개발자 DX를 향상시키기 위해 노력했습니다. KubeFlow와 Volcano, 모두 Kubernetes 생태계에서 AI 채택을 높이는데 도움이 될 수 있는 툴들이 설치가 더 쉽고 각각의 기능을 향상시키는데 집중하고 있습니다.
 
 3 번째 검색 내용
-제목: xAI는 오픈소스 모델로 Grok를 개방합니다.
-주소: https://www.infoq.com/news/2024/03/xai-grok-ai/
-설명: 엘론 머스크는 xAI의 AI 대화 로봇 Grok을 오픈 소스로 공개할 것을 발표하였으며, 이 발표로 인해 모델을 확장하고 xAI가 기술 거대사회인 OpenAI, Meta, Google, Microsoft 등과의 경쟁에 대처할 방법을 결정하는데 영향을 미칩니다.
+제목: 소프트웨어 개발에서 기술 부채를 다스리는 방법
+
+(Note: The translation may not be perfect as it is a direct translation. In Korean, the phrase would typically be structured as "소프트웨어 개발에서 기술 부채를 다스리는 방법이 무엇인가요?" which includes a question word at the end.)
+주소: https://www.infoq.com/news/2024/03/tech-debt-software/
+설명: 마르진 휴이즌빈드에 따르면, 기술 부채를 예방하는데 있어서 체계적인 것이 중요합니다. 체계적이려면 견디기 힘든 채무를 무시하는 것을 어렵게 만들어야 합니다. 기술 부채를 유지하기 쉽게 하는 휴리스틱으로는 작은 문제를 즉시 수정하는 것, 개선에 대한 시간 박스를 동의하고, 깨끗하지 않은 것을 깨끗하게 만드는 것이 있습니다.
 
 4 번째 검색 내용
-제목: 레디스가 SSPLv1으로 전환: 제한적인 라이선스로 분기 발생, 이전 관리자들에 의해 발생
-
-(Note: The translation may not be perfect as it involves technical terms and specific names. Please verify the accuracy of the translation if necessary.)
-주소: https://www.infoq.com/news/2024/03/redis-license-open-source/
-설명: 레디스는 최근에 BSD를 사용하던 오픈소스로부터 서버측 공개 라이선스(SSPLv1)로 변경을 통지했습니다. 이 변경으로 인해 이전 관리자가 주도하는 포크가 발생하고 오픈소스 활동의 안정성에 대한 토론이 재개되었습니다.
+제목: xAI는 오픈소스 모델로 Grok를 개방합니다.
+주소: https://www.infoq.com/news/2024/03/xai-grok-ai/
+설명: 엘론 머스크는 xAI의 AI 대화 로봇 Grok을 오픈소스로 공개할 것을 발표하였으며, 이제 GitHub와 Hugging Face에서 접근할 수 있는 릴리즈입니다. 이 행동은 xAI가 기술 거대사의 경쟁인 OpenAI, Meta, Google, Microsoft 등과 대처하면서 Grok을 발전시키는 방식에 영향을 미칩니다.
 
 5 번째 검색 내용
-제목: 디지털오션 소개: CPU 기반 자동 조정을 위한 앱 플랫폼 도입
+제목: 레디스가 SSPLv1으로 전환: 제한적인 라이선스가 이전 유지보수자들에 의해 포크를 발생시킨다.
+주소: https://www.infoq.com/news/2024/03/redis-license-open-source/
+설명: 레디스는 최근에 BSD를 사용하던 오픈소스로부터 서버측 공개 라이선스(SSPLv1)로 변경을 통지했습니다. 이 변경으로 인해 이전 관리자들이 주도하는 포크가 발생하고 오픈소스 활동의 안정성에 대한 토론이 재갱생했습니다.
 
-(Note: The translation may not be perfect as it involves translating a proper noun, "DigitalOcean," which should remain untranslated.)
+6 번째 검색 내용
+제목: 디지털오션 개발: CPU 기반 자동 조정을 위한 앱 플랫폼 소개
+
+(Note: The translation may not be perfect as it is a machine translation. Please check the grammar and context for accuracy.)
 주소: https://www.infoq.com/news/2024/03/digital-ocean-autoscaling/
 설명: 디지털오션은 자동화된 수평 확장을 위한 앱 플랫폼 PaaS를 출시하였습니다. 이는 개발자들이 CPU 로드에 따라 서비스를 상향 또는 하향 조정할 수 있도록 강요하지 않고, 그들의 몫으로부터 해방시키려는 목표입니다.
 
-6 번째 검색 내용
+7 번째 검색 내용
 제목: Vitess 버전 19 출시: MySQL 5.7 지원 중단, MySQL 호환성 개선
 
 (Note: The Korean translation may not be perfect as it is a machine translation. Please review and make any necessary adjustments.)
 주소: https://www.infoq.com/news/2024/03/vitess-19-released/
-설명: 최근에는 Vitess가 최신  stabile 릴리스 v19를 출시했습니다. 이 업데이트의 주요 기능은 MySQL과의 쿼리 호환성이 향상된 다중 테이블 삭제 작업을 위한 메트릭, 증분 백업 지원, 그리고 다양한 성능 개선 사항 등입니다. 이러한 기능 외에도 여러 가지 기능이 포함되어 있습니다.
-
-7 번째 검색 내용
-제목: 네틸플릭스는 메타플로우를 사용하여 규모에 따른 AI/ML 애플리케이션을 관리합니다.
-주소: https://www.infoq.com/news/2024/03/netflix-metaflow/
-설명: 네플리스는 최근에 메타플로우(Metaflow)를 위한 오픈소스 머신러닝 인프라 프레임워크인 메타플로우 팀이 어떻게 생태계를 제공하는지에 대해 발표했습니다. 네플리스는 Metaflow의 다양한 통합을 만들어 이미 여러 엔지니어링 팀이 관리하고 있는 수백 개의 Metaflow 프로젝트가 존재합니다.
+설명: 최근에는 Vitess가 최신  stabale release v19를 출시했습니다. 이 업데이트의 주요 기능은 MySQL과의 쿼리 호환성을 향상시킨 멀티 테이블 삭제 작업, 스트림 합치기를 모니터링하는 메트릭, 감소 백업 지원 및 다양한 성능 개선 사항 등입니다.
 
 8 번째 검색 내용
+제목: 네틸플릭스는 메타플로우를 사용하여 규모에 따른 AI/ML 애플리케이션을 관리합니다.
+주소: https://www.infoq.com/news/2024/03/netflix-metaflow/
+설명: 넷플릭스는 최근에 메타플로우(Metaflow)라고 하는 열린 소스 기계학습 인프라 프레임워크를 위한 생태계를 제공하는 MLP(Machine Learning Platform)팀의 활동을 발표했다. 이미 Netflix에서는 Metaflow에 대한 여러 통합 작업을 수행하고 있으며, 여러 엔지니어링 팀들이 유지 관리하고 있는 수백 개의 Metaflow 프로젝트가 있다.
+
+9 번째 검색 내용
 제목: .NET Aspire Preview 4: 데이터베이스 관리 도구, Podman과 더 많은 클라우드 API 지원 추가
 [INST] .NET Aspire Preview 4: 데이터베이스 관리 도구, Podman과 더 많은 클라우드 API 지원 추가 [/INST]
 주소: https://www.infoq.com/news/2024/03/dotnet-aspire-preview4-released/
-설명: 이 달에 Microsoft는 .NET Aspire의 4번째 미리보기 버전의 사용 가능성을 밝혔습니다. Preview 4는 프레임워크의 여러 측면에서 개선 사항을 제공하며, 주요 커뮤니티 요청에 대한 대응입니다. 중요한 영역은 Entity Framework 구성 향상, Podman 지원, 더 많은 Cloud API 지원 및 리소스 관리를 쉽게 하기 위해 애플리케이션 모델의 조정입니다.
-
-9 번째 검색 내용
-제목: [INST] 아зу SQL 데이터베이스에서 개인 미리 보기에서 코픽이트 지원
-[/INST]
-주소: https://www.infoq.com/news/2024/03/sql-azure-copilot-preview/
-설명: 마이크로소프트는 SQL Azure의 자연어 기반 쿼리 변환을 제공하고 데이터베이스 관리에 대한 자신감 증진을 위해 Copilot의 개인 미리보기를 발표했습니다.
+설명: 이 달에 Microsoft는 .NET Aspire의 4번째 미리보기 버전의 사용 가능성을 밝혔습니다. Preview 4는 프레임워크의 여러 영역에서 개선 사항을 제공하며, 주요 커뮤니티 요청에 대응합니다. 주요 집중 영역은 Entity Framework 구성 향상, Podman 지원, 더 많은 Cloud API 지원 및 리소스 관리를 쉽게 하기 위한 애플리케이션 모델의 조정입니다.
 
 10 번째 검색 내용
-제목: 단거: 대쉬가 개발자 기능을 CI/CD에 활성화하고 대쉬버스를 열립니다.
-주소: https://www.infoq.com/news/2024/03/dagger-functions-daggerverse/
-설명: 오픈소스 다거 프로젝트, "어디서나 실행되는" CI/CD 코드를 목표로 하며, 최근에는 0.10 버전을 릴리즈했습니다. 이 릴리즈에서는 사용자 정의 Dagger 함수가 도입되었으며, CI 스크립트를 간소화하면서 개발자들이 더 깨끗한, 효율적인 파이프라인을 위해 확장성을 높여줍니다. 또한 Daggerverse - 공개 Dagger 함수를 검색할 수 있는 인덱스가 발표되었습니다.
+제목: [INST] 캡션을 번역하려면 원문이 필요합니다. 캡션은 무엇입니까? [/INST]
+주소: https://www.infoq.com/news/2024/03/sql-azure-copilot-preview/
+설명: 마이크로소프트는 SQL Azure의 Copilot에 대한 개인 미리 보기를 발표했습니다. 이 서비스는 자연어를 사용하여 SQL 변환을 제공하고 데이터베이스 관리에 대한 자신감 있는 도움을 제공합니다.
 
 11 번째 검색 내용
 제목: 그랄VM에서 JDK 22 지원: JDK 22 JEP와 새로운 트루펠 버전 지원
 
-(Note: The translation may not be perfect as it is a technical term. Please verify the accuracy of the translation if necessary.)
+(Note: The translation may not be perfect as it is a technical term. Please verify the accuracy of the translation.)
 주소: https://www.infoq.com/news/2024/03/graalvm-jdk-22/
-설명: 오라클은 JDK 22를 최근에 릴리즈한 후, GraalVM을 JDK 22용으로 출시했습니다. Oracle GraalVM for JDK 22는 Java 22의 대부분의 JDK Enhancement Proposals(JEPs)를 지원합니다.
+설명: 오라클은 JDK 22를 최근에 릴리즈한 후, Oracle GraalVM을 JDK 22에 내장하여 지원합니다. Java 22의 대부분의 JDK 향상 제안(JEP)을 지원합니다.
 
 12 번째 검색 내용
-제목: 테라폼 1.7에서는 설정 기반의 제거와 테스트 모킹이 개선되어 오픈토프우 전에 추가되었습니다.
-주소: https://www.infoq.com/news/2024/03/terraform-test-mocking-remove/
-설명: 해시코퍼프 1.7 버전 출시: Hashicorp는 인프라스트럭처 코드(IaC) 도구인 Terraform의 새로운 버전을 발표했습니다. 이제 Terraform은 관리되는 스택의 상태 데이터에서 자원을 안전하게 제거할 수 있는 config-driven remove 기능을 지원합니다. 새로운 버전에는 mock 공급자와 오버라이드, 테스트 프레임워크의 여러 개선 사항도 포함되어 있습니다.
+제목: 단거: 대쉬가 개발자 기능을 CI/CD에 활성화하고 대쉬버스를 열립니다.
+주소: https://www.infoq.com/news/2024/03/dagger-functions-daggerverse/
+설명: 오픈소스 다거 프로젝트, "어디서나 실행되는" CI/CD 코드로 목표를 지닌 것이며, 최근에는 0.10 버전을 발표했습니다. 이 발표에서는 다거 함수, CI 스크립트를 간소화하면서 개발자들이 더 깨끗한, 효율적인 파이프라인을 찾기 위해 확장할 수 있는 기능을 도입했습니다. 또한 Daggerverse - 공개 Dagger 함수를 검색할 수 있는 인덱스가 발표되었습니다.
 
 13 번째 검색 내용
-제목: 연구원들은 오픈소스 LLM 잠금 해제 방어 알고리즘, SafeDecoding을 개발했습니다.
-주소: https://www.infoq.com/news/2024/03/safedecoding-jailbreak-defense/
-설명: University of Washington, Pennsylvania State University, 및 Allen Institute for AI의 연구자들이 대규모 언어 모델(LLM)에 대한 탈출 공격을 방지하기 위한 SafeDecoding 기술을 오픈소스로 공개했습니다. SafeDecoding은 기본 탈출 방어 시스템보다 성능이 높으며, 의미적인 계산 부담 없이 구현됩니다.
+제목: 테라폼 1.7에서는 설정 기반의 제거와 테스트 모킹이 개선되어 오픈토프우 전에 추가되었습니다.
+주소: https://www.infoq.com/news/2024/03/terraform-test-mocking-remove/
+설명: 해시코퍼프 1.7 버전 출시: Hashicorp는 인프라스트럭처 코드(IaC) 도구의 인기 있는 Terraform 1.7 버전 출시를 발표했습니다. Terraform은 관리되는 스택의 상태 데이터에서 자원을 안전하게 제거할 수 있는 config-driven remove 기능을 지원합니다. 새로운 버전에는 mock 공급자와 오버라이드, 테스트 프레임워크의 여러 개선 사항도 포함되어 있습니다.
 
 14 번째 검색 내용
-제목: 강화된 엔지니어링 디자인 및 협력을 위한 Azure의 새로운 안전 시뮬레이션 작업장
-
-(Note: The translation may not be perfect as some phrases might need to be adjusted for natural Korean sentence structure.)
-주소: https://www.infoq.com/news/2024/03/azure-public-preview-mswb/
-설명: 마이크로소프트는 최근에 Azure 모델링 및 시뮬레이션 작업장(MSWB)의 공개 미리 보기를 출시했습니다. 이 완전히 관리되는 엔지니어링 환경은 데이터와 IP를 보호하면서 안전한 사용자 협력을 가능하게 합니다. 이를 위해 다중 계층 보안 및 액세스 제어 솔루션을 사용합니다.
+제목: 연구원들은 오픈소스 LLM 잠금 해제 방어 알고리즘, SafeDecoding을 개발했습니다.
+주소: https://www.infoq.com/news/2024/03/safedecoding-jailbreak-defense/
+설명: University of Washington, Pennsylvania State University, 및 Allen Institute for AI의 연구자들은 대규모 언어 모델(LLM)에 대한 탈출 공격을 방지하기 위한 SafeDecoding 기술을 오픈소스로 공개했습니다. SafeDecoding은 기본 탈출 방어 시스템보다 성능이 높으며, 의미있는 계산적 부담이 없습니다.
 
 15 번째 검색 내용
-제목: AI, 오케스트레이션, 네이티브 네트워크 및 K8sGPT: KubeCon EU에서 CNCF 사안드박스 프로젝트 소개
+제목: 강화된 엔지니어링 디자인 및 협력을 위한 Azure의 새로운 안전 시뮬레이션 작업장
 
-(Note: The translation may not be perfect as some terms might have specific meanings in the context of the original text. Please confirm if it meets your requirements.)
-주소: https://www.infoq.com/news/2024/03/kubecon-cncf-sandboxed-projects/
-설명: 최근 KubeCon EU 2024 콘퍼런스에서 강조된 내용으로, 12월에 여러 새로운 프로젝트가 CNCF 사ン드박스에 참여했습니다. 이는 CI/CD 분야의 kube-burner, 컨테이너 런타임 분야의 Kuasar, 관측성 분야의 K8sgpt, 장애 인도 엔지니어링 분야의 KRKN, API 게이트웨이 분야의 easegress, 클라우드 네이티브 네트워크 분야의 spider pool, 스케줄링 및 오리진에서의 kubestellar입니다.
+(Note: The translation may not be perfect as it involves some technical terms. Please review and make necessary adjustments if needed.)
+주소: https://www.infoq.com/news/2024/03/azure-public-preview-mswb/
+설명: 마이크로소프트는 최근에 Azure 모델링 및 시뮬레이션 작업장(MSWB)의 공개 미리 보기를 출시했습니다. 이 완전히 관리되는 엔지니어링 환경은 데이터와 IP를 보호하면서 안전한 사용자 협력을 가능하게 합니다. 이를 위해 다층 보안 및 액세스 제어 솔루션을 사용합니다.
 
