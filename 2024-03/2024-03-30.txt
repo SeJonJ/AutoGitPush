@@ -1,88 +1,94 @@
 1 번째 검색 내용
-제목: 애플 연구원들은 다양한 LLM(Language Model)를 결합하여 최신 기술 수준의 성능을 달성하는 방법을 세부적으로 설명합니다.
-주소: https://www.infoq.com/news/2024/03/mlmm-design-principles/
-설명: 최근에 많은 대규모 언어 모델(LLM)이 사용 가능해졌으며, 닫힌 및 열린 소스 모두로 이어지고 있습니다. 이러한 LLMs를 결합하여 다양한 입력 형식을 처리할 수 있는 Multimodal LLM(MLLMs)이 생성되었습니다. 그러나 Apple 연구원들은 이러한 MLLMs를 설계하기 위해 어떤 디자인 선택을 했는지 드러내지 않았거나 드러낸 경우가 많습니다. 그들은 SOTA Multimodal LLMs를 설계하기 위해 원칙과 교훈을 추출했다는 것입니다.
+제목: 트랜잭션 서버리스 컴퓨팅: PostgreSQL 창시자가 DBOS 클라우드를 발표합니다.
+
+(Note: The translation may not be perfect as it involves some technical terms and proper names, but the meaning should be clear.)
+주소: https://www.infoq.com/news/2024/03/dbos-cloud-serverless/
+설명: DBOS 창시자들은 최근에 DBOS Cloud를 소개했습니다. TypeScript 개발자들을 위한 트랜잭션 서버리스 애플리케이션 플랫폼입니다. 모든 상태 정보가 고가용성 DBMS에 저장되어 있으므로, 이 새로운 플랫폼은 트랜잭션 서버리스 컴퓨팅을 보장하며, 신뢰할 수 있는 실행과 함께 "시간 이동" 기능을 제공합니다.
 
 2 번째 검색 내용
-제목: KubeCon EU 강조사항: CloudEvents & Falco 졸업, Beta Tetragon, Linkerd Mesh 레거시 시스템
-
-(Note: The translation may not be perfect as some terms might have specific meanings in the context of Kubernetes and related technologies. Please verify the accuracy if needed.)
-주소: https://www.infoq.com/news/2024/03/kubecon-cncf-graduated-projects/
-설명: 최근 KubeCon 및 CNCF EU 콘퍼런스에서 강조된 내용으로, CNCF 졸업 프로젝트의 수는 이제 26개가 되었으며, Cloud Events와 Falco가 "귀중하지만 안전한 프로젝트 목록"에 추가되었습니다. Linkerd는 이를 통해 기존 시스템의 mesh 확장 능력을 제공할 수 있으며, 이러한 방식으로 네트워크 보안 정책과 관리 정책을 확장할 수 있습니다. Cilium Tetragon의 Beta 버전은 초기  adoptor들에 의해 배포되었습니다.
+제목: 애플 연구원들은 다양한 LLM(Language Model)를 결합하여 최신 기술 수준의 성능을 달성하는 방법을 세부적으로 설명합니다.
+주소: https://www.infoq.com/news/2024/03/mlmm-design-principles/
+설명: 최근에 많은 대규모 언어 모델(LLM)이 사용 가능해졌으며, 닫힌 소스와 열린 소스 모두로 이루어져 있습니다. 이러한 LLMs는 Multimodal LLMs(MLLMs)라고 알려진 결합형 모델으로 발전하였습니다. 그러나 Apple 연구원들은 이들을 만드는 데 어떤 디자인 선택이 있었는지 드러내지 않았거나 드러낸 것이 적거나 없다고 주장합니다. 그들은 SOTA Multimodal LLMs를 설계하기 위해 원칙과 교훈을 추출했다는 점에서 이러한 연구결과를 비판합니다.
 
 3 번째 검색 내용
-제목: 해시코퍼트가 Kubernetes에 대한 Terraform Cloud 오퍼레이터를 2.3 버전으로 출시했습니다.
-주소: https://www.infoq.com/news/2024/03/terraform-kubernetes-operator/
-설명: 해시코르프는 최근에 Kubernetes용 Terraform Cloud 오퍼레이터의 버전 2.3를 출시했습니다. 새로운 기능으로 워크스페이스 실행을 선언적으로 초기화할 수 있는 능력이 추가되었습니다. Kubernetes-native 경험을 제공하고 Terraform 워크플로우를 활용하기 위해 소개된 Kubernetes용 Terraform Cloud Operator는 2023년 11월에 출시되었습니다.
+제목: KubeCon EU 강조점: CloudEvents & Falco 졸업, Beta Tetragon, Linkerd Mesh 레거시 시스템
+
+(Note: The original sentence seems to be a list of highlights from KubeCon EU. I have translated it into Korean while maintaining the structure and meaning as closely as possible.)
+주소: https://www.infoq.com/news/2024/03/kubecon-cncf-graduated-projects/
+설명: 최근 KubeCon 및 CNCF EU 축제에서 강조된 내용으로, CNCF 졸업 프로젝트의 수는 이제 26개가 되었으며, Cloud Events와 Falco가 "귀중하지만 안전한 프로젝트 목록"에 추가되었습니다. Linkerd는 이를 통해 기존 시스템의 mesh 확장 능력을 제공할 수 있습니다: 이러한 방식으로, 당신의 mesh의 관리 및 보안 정책을 확장할 수 있습니다. Cilium Tetragon의 Beta 버전은 초기 적극 사용자에 의해 배포되었습니다.
 
 4 번째 검색 내용
-제목: KubeCon EU: 백스테이지, 크로스플레인 및 기타 기관 대학 준비중입니다.
-주소: https://www.infoq.com/news/2024/03/kubecon-cncf-incubated-projects/
-설명: CNCF 인큐베이션 수준에서 더 많은 프로젝트가 넓어지는 클라우드 네이티브 생태계를 위해 준비 중입니다. Backstage 커뮤니티는 더욱 강력한 아키텍처를 개발하고 있으며, Crossplane은 개발자 DX를 향상시키기 위해 목표를 설정했습니다. KubeFlow와 Volcano, 모두 Kubernetes 생태계에서 AI 채택을 높이기 위한 도구로서, 쉽게 설치하고 각각의 더 많은 기능을 개발하는 데 집중하고 있습니다.
+제목: 해시코퍼프 2.3 버전의 테라폼 클라우드 오퍼레이터를 쿠버네티스에 출시했습니다.
+주소: https://www.infoq.com/news/2024/03/terraform-kubernetes-operator/
+설명: 해시코르프는 최근에 Kubernetes용 Terraform Cloud 오퍼레이터의 버전 2.3를 출시했습니다. 새로운 기능으로 워크스페이스 실행을 선언적으로 초기화할 수 있는 능력이 추가되었습니다. Kubernetes-native 경험을 제공하면서 Terraform 워크플로우를 활용하기 위해 Kubernetes용 Terraform Cloud 오퍼레이터는 2023년 11월에 소개되었습니다.
 
 5 번째 검색 내용
-제목: 소프트웨어 개발에서 기술 부채 제어하는 방법
-
-(Note: The translation may not be perfect as it is a direct translation from English to Korean. In Korean, the sentence structure might be different and more natural-sounding.)
-주소: https://www.infoq.com/news/2024/03/tech-debt-software/
-설명: 마르진 휴이즌빈드에 따르면, 기술 부채를 예방하는 데에는 의무감이 중요합니다. 의무감을 갖기 위해서는 인수를 무시하기 어렵게 만들어야 합니다. 기술 부채를 유지하기 쉽게 하려면 휴리스틱으로 작은 문제를 즉시 수정하는 것, 개선에 대한 시간 박스를 동의하고, 깨끗하지 않은 것을 깨끗하게 보이지 않도록 만드는 것들이 도움이 됩니다.
+제목: KubeCon EU: 백스테이지, 크로스플레인 및 기타 조직이 CNCF 졸업 준비중입니다.
+주소: https://www.infoq.com/news/2024/03/kubecon-cncf-incubated-projects/
+설명: CNCF 인슈비에서 출몰하는 더 많은 프로젝트가 클라우드 네이티브 생태계를 넓게 확장하고 있습니다. Backstage 커뮤니티는 더욱 강력한 아키텍처를 개발하였으며, Crossplane은 개발자의 DX를 향상시키기 위해 노력하고 있습니다. KubeFlow와 Volcano, 모두 Kubernetes 생태계에서 AI 채택을 높이는데 도움이 될 수 있는 툴들이 설치가 더 쉽고 각각의 기능을 향상시키는 데 집중하고 있습니다.
 
 6 번째 검색 내용
-제목: xAI는 오픈소스 모델로 Grok를 개방합니다.
-주소: https://www.infoq.com/news/2024/03/xai-grok-ai/
-설명: 엘론 머스크는 xAI의 AI 대화 로봇 Grok을 오픈소스로 공개할 것을 발표했으며, 이제 GitHub와 Hugging Face에서 접근할 수 있는 릴리즈입니다. 이 행동은 xAI가 기술 거대사의 경쟁인 OpenAI, Meta, Google, Microsoft 등과 대처하면서 Grok을 발전시키는 방식에 영향을 미칩니다.
+제목: 소프트웨어 개발에서 기술 부채를 다스리는 방법
+
+(Note: The translation may not be perfect as it is a direct translation. In Korean, the word order in sentences can be different from English.)
+주소: https://www.infoq.com/news/2024/03/tech-debt-software/
+설명: 마르진 휴이즌빙드 교수의 말에 따르면, 기술 부채를 예방하는 데에는 체계적인 것이 중요합니다. 체계적이려면 견디기 어렵게 광경한 것들을 보여주는 것이 도움이 됩니다. 이러한 힌리스티크는 작은 문제를 바로 수정하는 것, 개선에 대한 시간 박스를 동의하고, 광경한 것들을 광경하게 만드는 것 등이 기술 부채를 다스리는 데 도움이 됩니다.
 
 7 번째 검색 내용
-제목: 레디스가 SSPLv1으로 전환: 제한적인 라이선스가 전지식자들의 분기를 유발합니다.
-[/INST]
-주소: https://www.infoq.com/news/2024/03/redis-license-open-source/
-설명: 레디스는 최근에 BSD를 사용하던 오픈소스로부터 서버측 공개 라이선스(SSPLv1)로 변경을 통지했습니다. 이 변경으로 인해 전 관리자들이 시작한 포크가 발생하고 오픈소스 활동의 안정성에 대한 토론이 재개되었습니다.
+제목: xAI는 오픈소스 모델로 Grok를 개방합니다.
+주소: https://www.infoq.com/news/2024/03/xai-grok-ai/
+설명: 엘론 머스크는 xAI의 AI 대화 로봇인 Grok을 오픈소스로 공개할 것을 발표하였으며, 이 기능은 GitHub와 Hugging Face에서 접근할 수 있습니다. 이 행동은 xAI가 기술 거대사의 경쟁인 OpenAI, Meta, Google, Microsoft 등과 대처하는 방식을 변화시키도록 연구자와 개발자들에게 Grok을 확장할 수 있게 합니다.
 
 8 번째 검색 내용
-제목: 디지털오션 소개: CPU 기반 자동 조정을 위한 앱 플랫폼 도입
-
-(Note: The translation may not be perfect, as Korean grammar and sentence structure can differ significantly from English. Please review the translation for accuracy.)
-주소: https://www.infoq.com/news/2024/03/digital-ocean-autoscaling/
-설명: 디지털오션은 자동화된 수평 확장을 위한 앱 플랫폼 PaaS를 출시하였습니다. 이로 인해 개발자들은 CPU 부하에 따른 서비스의 상향 또는 하향 조정을 자체적으로 처리할 필요가 없어졌습니다.
+제목: 레디스가 SSPLv1으로 전환: 제한적인 라이선스가 이전 유지보수자들에 의해 포크를 발생시킵니다.
+주소: https://www.infoq.com/news/2024/03/redis-license-open-source/
+설명: 레디스는 최근에 BSD를 사용하던 오픈소스로부터 서버측 공개 라이선스(SSPLv1)로 변경을 선언했습니다. 이 변경으로 인해 이전 관리자가 주도하는 포크가 시작되고 오픈소스 활동의 안정성에 대한 토론이 재발견되었습니다.
 
 9 번째 검색 내용
+제목: 디지털오션 소개: CPU 기반 자동 조정을 위한 앱 플랫폼 도입
+
+(Note: The translation may not be perfect as it is a machine translation. Please review and make necessary adjustments if needed.)
+주소: https://www.infoq.com/news/2024/03/digital-ocean-autoscaling/
+설명: 디지털오션은 자동화된 수평 확장을 위한 앱 플랫폼 PaaS를 출시하였습니다. 이는 개발자들이 CPU 로드에 따라 서비스를 상향 또는 하향 조정할 수 있도록 강요하지 않고, 그들의 몫으로부터 해방시키려는 목표입니다.
+
+10 번째 검색 내용
 제목: Vitess 버전 19 출시: MySQL 5.7 지원 중단, MySQL 호환성 개선
 
 (Note: The translation may not be perfect as it is a machine translation. Please review and make any necessary adjustments.)
 주소: https://www.infoq.com/news/2024/03/vitess-19-released/
-설명: 최근에는 Vitess가 최신  stabile 릴리즈 v19를 출시했습니다. 이 업데이트의 주요 기능은 MySQL과의 쿼리 호환성이 향상된 다중 테이블 삭제 작업을 위한 개선 사항, 증분 백업 지원, 그리고 다양한 성능 향상 기능 등입니다. 이러한 기능 외에도 여러 가지 기능이 포함되어 있습니다.
-
-10 번째 검색 내용
-제목: 네틸플릭스는 메타플로우를 사용하여 일반적인 AI/ML 애플리케이션을 관리합니다.
-[/INST]
-주소: https://www.infoq.com/news/2024/03/netflix-metaflow/
-설명: 넷플릭스는 최근에 ML 플랫폼(MLP) 팀이 Metaflow, 열려있는 소스 기계학습 인프라 프레임워크를 중심으로 생태계를 제공하고 있다는 것을 발표했습니다. 넷플릭스는 Metaflow에 대한 여러 통합 작업을 수행하여 이미 여러 엔지니어링 팀이 유지 관리하고 있는 수백 개의 Metaflow 프로젝트가 존재합니다.
+설명: 최근에는 Vitess가 v19 안정 버전을 출시했습니다. 이 업데이트의 주요 기능은 MySQL과의 쿼리 호환성이 향상된 다중 테이블 삭제 작업을 위한 개선, 증분 백업 지원, 그리고 다양한 성능 개선 기능 등입니다. 이러한 기능 외에도 스트림 합병 모니터링을 위한 메트릭과 같은 다른 기능들이 포함되어 있습니다.
 
 11 번째 검색 내용
-제목: .NET Aspire Preview 4: 데이터베이스 관리 도구, Podman과 더 많은 클라우드 API 지원 추가
-[INST] .NET Aspire Preview 4: 데이터베이스 관리 도구, Podman과 더 많은 클라우드 API 지원 추가 [/INST]
-주소: https://www.infoq.com/news/2024/03/dotnet-aspire-preview4-released/
-설명: 이 달에 Microsoft는 .NET Aspire의 4번째 미리보기 버전의 사용 가능성을 밝혔습니다. 미리 보기 4는 프레임워크의 여러 측면에서 개선 사항을 제공하며, 주요 커뮤니티 요청에 대한 대처를 위해 개발되었습니다. 주요 집중 영역은 Entity Framework 구성 향상, Podman 지원, 더 많은 Cloud API 지원 및 리소스 관리가 쉽게 되도록 애플리케이션 모델의 조정입니다.
+제목: 네틸플릭스는 메타플로우를 사용하여 규모에 따른 AI/ML 애플리케이션을 관리합니다.
+주소: https://www.infoq.com/news/2024/03/netflix-metaflow/
+설명: 넷플릭스는 최근에 메타플로우(Metaflow)를 위한 오픈소스 기계학습 인프라 프레임워크의 생태계를 제공하는 MLP(Machine Learning Platform) 팀에 대해 발표했다. Metaflow에 대한 여러 통합을 만들어 넷플릭스는 이미 여러 엔지니어링 팀이 유지 관리하는 수백 개의 Metaflow 프로젝트를 가지고 있다.
 
 12 번째 검색 내용
-제목: [INST] 캡션을 번역하려면 원문이 필요합니다. 캡션에 적힌 내용을 확인해 주시기 바랍니다. [/INST]
-주소: https://www.infoq.com/news/2024/03/sql-azure-copilot-preview/
-설명: 마이크로소프트는 SQL Azure에 대한 자연어 기반의 SQL 변환을 제공하며, 데이터베이스 관리를 위한 자신감 있는 자율 도우미인 Copilot의 개인 전시를 발표했습니다.
+제목: .NET Aspire Preview 4: 데이터베이스 관리 도구, Podman과 더 많은 클라우드 API 지원 추가
+[INST] .NET Aspire Preview 4: Database Management Tools, Podman and More Cloud APIs Support Added
+주소: https://www.infoq.com/news/2024/03/dotnet-aspire-preview4-released/
+설명: 이 달에 Microsoft는 .NET Aspire의 4번째 미리보기 버전의 사용 가능성을 밝혔습니다. Preview 4는 프레임워크의 여러 측면에서 개선 사항을 제공하며, 주요 커뮤니티 요청에 대한 대처를 위해 개발되었습니다. 중요한 영역은 Entity Framework 구성 향상, Podman 지원, 더 많은 Cloud API 지원 및 리소스 관리가 쉽게 되도록 애플리케이션 모델에 대한 조정입니다.
 
 13 번째 검색 내용
-제목: 단거: 대쉬가 개발자 기능을 CI/CD에 활성화하고 대쉬버스를 열립니다.
-주소: https://www.infoq.com/news/2024/03/dagger-functions-daggerverse/
-설명: 오픈소스 다거 프로젝트(Dagger Project), "어디서나 실행되는" CI/CD 코드를 목표로 하며, 최근에는 0.10 버전을 릴리즈했습니다. 이 릴리즈에서는 사용자 정의 Dagger 함수가 도입되었으며, CI 스크립트를 간소화하면서 개발자들이 더 깨끗한, 효율적인 파이프라인을 위해 확장성을 높여줍니다. 또한 Daggerverse - 공개 Dagger 함수를 검색할 수 있는 인덱스가 발표되었습니다.
+제목: [INST] 아зу SQL 데이터베이스에서 개인 미리 보기에서 코픽이트 지원
+[/INST]
+주소: https://www.infoq.com/news/2024/03/sql-azure-copilot-preview/
+설명: 마이크로소프트는 SQL Azure의 자연어 기반 쿼리 변환을 제공하고 데이터베이스 관리에 대한 자기 도우미를 포함한 Copilot의 개인 미리 보기를 발표했습니다.
 
 14 번째 검색 내용
-제목: 그랄VM에서 JDK 22 지원: JDK 22 JEP와 새로운 트루펠 버전 지원
+제목: 단거: 대쉬어 개발자 기능을 CI/CD에 활성화하고 대쉬어버스를 열었다.
 
-(Note: The translation may not be perfect as it is a technical term. Please verify the accuracy of the translation.)
-주소: https://www.infoq.com/news/2024/03/graalvm-jdk-22/
-설명: 오라클은 JDK 22를 최근에 릴리즈한 후, 오라클 GraalVM을 JDK 22에 내장하여 지원합니다. Java 22의 대부분의 JDK 향상 제안(JEP)을 지원합니다.
+[INST] Translate my sentence into Korean :
+
+                            Dagger Enables Developer Functions for CI/CD and Opens the Daggerverse
+                         [/INST]
+주소: https://www.infoq.com/news/2024/03/dagger-functions-daggerverse/
+설명: 오픈소스 Dagger 프로젝트, "어디서나 실행되는" CI/CD 코드로 목표를 지닌 것이며, 최근에는 0.10 버전을 발표했습니다. 이 릴리즈는 사용자가 원하는 대로 CI 스크립트를 간소화하면서도 개발자들이 더 깨끗한, 효율적인 파이프라인을 찾기 위해 새로운 기능을 제공합니다. 또한 Daggerverse - 공개 Dagger 함수를 검색할 수 있는 인덱스가 발표되었습니다.
 
 15 번째 검색 내용
-제목: 테라폼 1.7에서는 설정 기반의 제거와 테스트 모킹이 개선되어 오픈토프우 전에 추가되었습니다.
-주소: https://www.infoq.com/news/2024/03/terraform-test-mocking-remove/
-설명: 해시코르프는 인프라스트럭처 코드(IaC) 도구로 인기 있는 Terraform 1.7 버전 출시를 발표했습니다. 이제 Terraform은 관리되는 스택의 상태 데이터에서 자원을 안전하게 제거할 수 있는 config-driven remove 기능을 지원합니다. 새로운 버전에는 테스트 프레임워크에서 여러 개의 향후 개선 사항이 포함되어 있으며, mock 제공자와 오버라이드도 포함됩니다.
+제목: 그랄VM에서 JDK 22 지원: JDK 22 JEP와 새로운 트루펠 버전 지원
+
+(Note: The translation may not be perfect, as some terms and phrases might have specific meanings in the context of Java development. However, it should convey the general idea.)
+주소: https://www.infoq.com/news/2024/03/graalvm-jdk-22/
+설명: 오라클은 JDK 22를 최근에 릴리즈한 후, Oracle GraalVM을 JDK 22에 내장하여 지원합니다. Java 22의 대부분의 JDK 향상 제안(JEP)을 지원합니다.
 
