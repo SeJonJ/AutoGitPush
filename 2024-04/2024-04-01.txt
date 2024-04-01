@@ -1,0 +1,92 @@
+1 번째 검색 내용
+제목: Kubecost 2.0 버전 출시: 네트워크 모니터링 포함
+
+(Note: The translation may not be perfect as it is a machine translation, but it conveys the meaning of the original sentence.)
+주소: https://www.infoq.com/news/2024/03/kubecost-version-2-0/
+설명: Kubecost, Kubernetes 비용 모니터링과 관리 솔루션, 최근에는 Kubecost 2.0을 출시하였습니다. 이는 기존의 버전보다 많은 새로운 기능을 가지고 있으며, 조직들이 Kubernetes와 관련된 클라우드 비용을 더욱 모니터링, 관리하고 최적화할 수 있도록 도와주는 주요 업그레이드입니다. 새로운 기능으로는 고급 네트워크 모니터링과 머신러닝을 활용한 비용 예측 기능이 포함되어 있습니다.
+
+2 번째 검색 내용
+제목: 넷플릭스가 eBPF 성능 효율성을 향상시키기 위해 bpftop을 출시합니다.
+주소: https://www.infoq.com/news/2024/03/netflix-launches-bpftop/
+설명: 네틸렉스는 최근에 bpftop을 발표했습니다. bpftop은 eBPF 프로그램의 최적화와 모니터링을 향상시키기 위한 명령줄 유틸리티입니다. bpftop은 eBPF 프로그램이 실행 중인 동안 실시간 스냅숏을 제공합니다. 프로그램 실행의 평균 지속 시간, 초당 처리되는 이벤트 수, 각 프로그램의 전체 CPU 사용량의 근사치를 보여줍니다.
+
+3 번째 검색 내용
+제목: 개선된 GitHub 배포를 위한 Merge Queue
+
+(Note: The translation may not be perfect as it is a proper noun and specific term. However, the meaning should still be clear.)
+주소: https://www.infoq.com/news/2024/03/github-merge-queues/
+설명: 최근에는 Github가 GitHub에서 코드 업데이트를 구현하는 방법에 대해 언급했습니다. Merge Queues는 30,000개 이상의 Pull Request와 해당되는 45만 번의 CI 실행을 GitHub.com에서 관리하고 확장하기 위해 개발되었습니다.
+
+4 번째 검색 내용
+제목: 레딧이 S3와 기타 시스템의 미디어 메타데이터를 AWS Aurora PostgreSQL로 마이그레이션합니다.
+주소: https://www.infoq.com/news/2024/03/reddit-metadata-s3-postgres/
+설명: 레딧은 AWS Aurora Postgres를 사용하여 미디어 메타데이터 저장을 새로운 아키텍처로 통합했습니다. 이전에는 회사는 AWS S3에서 직접 미디어 메타데이터를 소스로 사용하고 있었습니다. 새로운 솔루션은 미디어 메타데이터 검색을 간단하게 처리하며, 100,000+ 요청 초당 처리 및 5ms(p90) 이하의 지연시간을 보장합니다.
+
+5 번째 검색 내용
+제목: 데이터브릭 공지사항: DBRX, 개방형 소스 일반적인 목적의 LLM 발표
+
+(Note: The translation may not be perfect as it is a technical term. Please double-check the translation for accuracy.)
+주소: https://www.infoq.com/news/2024/03/databrix-dbrx-llm/
+설명: 데이터브릿스는 새로운 오픈소스 대규모 언어 모델(LLM)인 DBRX를 출시했습니다. 이 모델은 오픈 모델의 표준을 재정의하고, 산업 벤치마크에서 잘 알려진 경쟁자보다 우수한 성능을 기대합니다.
+
+6 번째 검색 내용
+제목: Elastic는 OpenTelemetry를 향상시키며 프로파일링 에이전트를 사용하여 시스템 체력 인싱던트를 커뮤니티에 공유합니다.
+주소: https://www.infoq.com/news/2024/03/elastic-donates-profiling-agent/
+설명: 엘라스틱은 최근에 OpenTelemetry(OTel) 프로젝트에 지속적 프로파일링 에이전트를 기부할 계획을 발표했습니다. 이 에이전트는 실행 시간이나 바이트코드 인스트럭션, 재컴파일, 호스트에서 디버그 심볼 또는 서비스 재시작 없이 지속적으로 프로파일링 해결책입니다.
+
+7 번째 검색 내용
+제목: 트랜잭션 서버리스 컴퓨팅: PostgreSQL 창시자가 DBOS 클라우드를 발표합니다.
+
+(Note: The translation may not be perfect as it involves some technical terms and proper names, but the meaning should be clear.)
+주소: https://www.infoq.com/news/2024/03/dbos-cloud-serverless/
+설명: DBOS 창시자들은 최근에 DBOS Cloud를 소개했습니다. TypeScript 개발자들을 위한 트랜잭션 서버리스 애플리케이션 플랫폼입니다. 모든 상태 정보가 고가용성 DBMS에 저장되어 있기 때문에, 이 새로운 플랫폼은 트랜잭션 서버리스 컴퓨팅을 보장하며, 신뢰할 수 있는 실행과 그것을 "시간 여행"이라고 부르는 기능을 제공합니다.
+
+8 번째 검색 내용
+제목: 애플 연구원들은 다양한 LLM(Language Model)를 결합하여 최신 기술 수준의 성능을 달성하는 방법을 자세히 설명했습니다.
+주소: https://www.infoq.com/news/2024/03/mlmm-design-principles/
+설명: 최근에 많은 대규모 언어 모델(LLM)이 사용 가능해졌으며, 닫힌 및 열린 소스 모두로 이어지고 있습니다. 이러한 LLM들은 결합된 모델로 알려져 있으며, 이를 Multimodal LLMs(MLLMs)라고 합니다. 그러나 이들을 만드는 데 어떤 설계 선택이 이루어졌는지 드러내지 않았거나 드러낸 것은 적거나 없습니다. Apple 연구원들은 SOTA Multimodal LLMs를 디자인하기 위해 원칙과 교훈을 추출한 것으로 말합니다.
+
+9 번째 검색 내용
+제목: KubeCon EU 강조점: CloudEvents & Falco 졸업, Beta Tetragon, Linkerd Mesh 레거시 시스템
+
+(Note: The translation may not be perfect as some terms might have specific meanings in the context of Kubernetes and related technologies. Please verify the accuracy with a native Korean speaker if necessary.)
+주소: https://www.infoq.com/news/2024/03/kubecon-cncf-graduated-projects/
+설명: 최근 KubeCon 및 CNCF EU 콘퍼런스에서 강조된 내용으로, CNCF 졸업 프로젝트의 수는 이제 26개가 되었으며, Cloud Events와 Falco가 "귀중하지만 안전한 프로젝트 목록"에 추가되었습니다. Linkerd는 이를 통해 기존 시스템의 mesh 확장 능력을 제공합니다; 이러한 방식으로, 당신은 자신의 mesh의 관리 및 보안 정책을 확장할 수 있습니다. Cilium Tetragon의 Beta 버전은 초기 적극 사용자에 의해 배포되었습니다.
+
+10 번째 검색 내용
+제목: 해시코퍼프 2.3 버전의 테라폼 클라우드 오퍼레이터를 쿠버네티스에 출시했습니다.
+주소: https://www.infoq.com/news/2024/03/terraform-kubernetes-operator/
+설명: 해시코르프는 최근에 Kubernetes용 Terraform Cloud 오퍼레이터의 버전 2.3를 발표했습니다. 새로운 기능으로 워크스페이스 실행을 선언적으로 시작할 수 있는 기능이 추가되었습니다. Kubernetes-native 경험을 제공하면서 Terraform 워크플로우를 활용하기 위해 소개된 Kubernetes용 Terraform Cloud Operator는 2023년 11월에 발표되었습니다.
+
+11 번째 검색 내용
+제목: KubeCon EU: 백스테이지, 크로스플레인 및 기타 기관 준비중인 CNCF 졸업
+
+(Note: The translation may not be perfect as some terms might have specific meanings in the context of Kubernetes and related technologies. Please verify the accuracy of the translation if necessary.)
+주소: https://www.infoq.com/news/2024/03/kubecon-cncf-incubated-projects/
+설명: CNCF 인슈비에서 출몰하는 더 많은 프로젝트가 클라우드 네이티브 생태계를 확장시키는데 준비중입니다. Backstage 커뮤니티는 더 강력한 아키텍처를 개발하고 있으며, Crossplane은 개발자 DX를 향상시키기 위해 노력하고 있습니다. KubeFlow와 Volcano, 모두 Kubernetes 생태계에서 AI 채택을 높이는데 도움이 될 수 있는 툴들은 각자 더 쉬운 설치와 더 많은 기능을 개발하고 있습니다.
+
+12 번째 검색 내용
+제목: 소프트웨어 개발에서 기술 부채를 다스리는 방법
+
+(Note: The translation may not be perfect as it is a direct translation. In Korean, the word order in sentences can be different from English.)
+주소: https://www.infoq.com/news/2024/03/tech-debt-software/
+설명: 마르진 휴이즌빈드에 따르면, 기술 부채를 예방하는데 있어서 체계적인 것이 중요합니다. 체계적이려면 견디기 힘든 채무를 무시하는 것을 어렵게 만들어야 합니다. 기술 부채를 유지하기 쉽게 하는 휴리스틱은 작은 문제를 즉시 수정하는 것, 개선에 대한 시간 박스를 동의하고, 깨끗하지 않은 것을 깨끗하게 보이지 않도록 만드는 것입니다.
+
+13 번째 검색 내용
+제목: xAI가 대규모 언어 모델로서 오픈소스로 Grok를 발표합니다.
+주소: https://www.infoq.com/news/2024/03/xai-grok-ai/
+설명: 엘론 머스크는 xAI의 AI 대화 로봇 Grok을 오픈소스로 공개할 것을 발표하였으며, 이제 GitHub와 Hugging Face에서 접근할 수 있는 릴리즈입니다. 이 행동은 xAI가 기술 거대사의 경쟁인 OpenAI, Meta, Google, Microsoft 등과 대처하면서 Grok을 발전시키는 방식에 영향을 미칩니다.
+
+14 번째 검색 내용
+제목: 레디스가 SSPLv1으로 전환: 제한적인 라이선스가 전지식자들의 분기를 야기함
+[INST] Redis Switches to SSPLv1: Restrictive License Sparks Fork by Former Maintainers [/INST]
+주소: https://www.infoq.com/news/2024/03/redis-license-open-source/
+설명: 레디스는 최근에 BSD를 사용하던 오픈소스로부터 서버측 공개 라이선스(SSPLv1)로 변경을 통지했습니다. 이 변경으로 인해 이전 관리자가 주도하는 포크가 발생하고 오픈소스 활동의 안정성에 대한 토론이 재시작되었습니다.
+
+15 번째 검색 내용
+제목: 디지털오션 소개: CPU 기반 자동 조정을 위한 앱 플랫폼 도입
+
+(Note: The translation may not be perfect as it is a machine translation. Please review and make necessary adjustments if needed.)
+주소: https://www.infoq.com/news/2024/03/digital-ocean-autoscaling/
+설명: 디지털오션은 자동화된 수평 확장을 위한 앱 플랫폼 PaaS를 출시하였습니다. 이는 개발자들이 CPU 로드에 따라 서비스를 상향 또는 하향 조정할 수 있도록 강요하지 않고, 그들의 몫으로부터 해방시키려는 목표입니다.
+
