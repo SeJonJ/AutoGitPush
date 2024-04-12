@@ -1,94 +1,97 @@
 1 번째 검색 내용
-제목: 소프트웨어 팀에서 심리적 안전감을 높여 애그일 방식 도입
+제목: QCon 런던: 링크드인에서 gRPC 마이그레이션 자동화
 
-(Note: The translation may not be perfect as it is a direct translation. In Korean, the adjective usually comes before the noun, so the sentence structure might need to be adjusted for natural flow in Korean.)
-주소: https://www.infoq.com/news/2024/04/psychological-safety-software/
-설명: Agile 사고방식을 테스트하기 위해, 소프트웨어 팀은 키크오프 연습, 커피 브레이크를 공유하며, 성공을 축하하며, 서랍 질문과 1:1 대화를 통해 심리적 안전감을 향상시키는데 집중했습니다. 이러한 노력은 그들의 소프트웨어 팀에서 심리적 안전감을 높여주었습니다.
+(Note: The original sentence seems to be a title or heading, so the translation may not follow the standard Korean grammar structure. However, it conveys the meaning correctly.)
+주소: https://www.infoq.com/news/2024/04/qcon-london-grpc-linkedin/
+설명: QCon London 2024에서 Karthik Ramgopal과 Min Chen는 AI가 LinkedIn이 Rest.li를 Google의 gRPC로 50,000개의 제품 엔드포인트의 원격 프로시저 호출(RPC) 프로토콜을 변경하는데 도움을 주었다고 설명했습니다. 계획된 2-3년간의 수동 마이그레이션은 AI를 지원한 마이그레이션으로 2-3분기로 줄어들었으며, 2000개의 서비스에 걸쳐 2000만 줄의 코드가 변경되었습니다 - 업무 중단 없이.
 
 2 번째 검색 내용
+제목: 소프트웨어 팀에서 심리적 안전감을 높여 애그일 방식 도입
+
+(Note: The translation may not be perfect as it is a direct translation. In Korean, the adjective usually comes after the noun, so the sentence structure might need to be adjusted for natural flow in Korean.)
+주소: https://www.infoq.com/news/2024/04/psychological-safety-software/
+설명: Agile 사고방식을 테스트하기 위해, 소프트웨어 팀은 기꺼이 참여하는 환경을 만들기 위한 키크오프 연습, 커피 시간에 함께 나누기, 성공을 축하하기, 스탠드업 질문, 1:1 대화를 통해 심리적 안전감을 높였습니다. 이러한 활동은 그들의 소프트웨어 팀에서 심리적 안전감을 높여주었습니다.
+
+3 번째 검색 내용
 제목: Azure API Management Basic V2와 Standard V2 GA: 확장성, 보안, 네트워킹 향상
 
-(Note: The translation may not be perfect as it is a machine translation. Please review and make any necessary adjustments.)
+(Note: The translation may not be perfect as it is a machine translation. Please review and make necessary adjustments if needed.)
 주소: https://www.infoq.com/news/2024/04/azure-apim-new-tiers-ga/
 설명: 마이크로소프트는 최근에 Azure API 관리의 새로운 가격 책정 계층인 Basic v2와 Standard v2의 일반적인 사용 가능성을 발표했습니다. 이것은 개발 프로젝트에서 작은 것부터 대규모 애플리케이션까지 다양한 유연성과 확장성을 제공합니다.
 
-3 번째 검색 내용
-제목: QCon 런던: 현대적인 아키텍처에서 긴 기간 동안 실행 능력 향상시키기
-
-(Note: The Korean translation may not be a perfect literal translation, but it conveys the meaning of the original sentence.)
-주소: https://www.infoq.com/news/2024/04/qcon-london-long-running-tasks/
-설명: QCon 런던 2024에서 Bernd Ruecker는 긴 실행 시간의 작업을 비동기적으로 처리하여 프로세스 오케스트레이션 플랫폼으로 구현해야 한다고 추천했습니다. 이러한 플랫폼은 서비스 boundary와 효율성을 더 잘 제공하며, 사고적인 시스템 복잡성과 위험을 줄입니다. 플랫폼의 중앙 집중화를 조직에서는 애플리케이션의 오케스트레이션 적용을 쉽게 만듭니다.
-
 4 번째 검색 내용
+제목: QCon 론도ン: 현대적인 아키텍처에서 긴 기간 동안 실행 능력 향상시키기
+
+(Note: The Korean translation may not be perfect as it involves translating technical terms and conference names. Please review the translation for accuracy.)
+주소: https://www.infoq.com/news/2024/04/qcon-london-long-running-tasks/
+설명: QCon London 2024에서 Bernd Ruecker는 긴 실행 시간의 작업을 비동기적으로 처리하여 프로세스 오케스트레이션 플랫폼으로 구현해야 한다고 추천했습니다. 이러한 플랫폼은 서비스 경계와 효율성을 향상시키며, 사고적인 시스템 복잡성과 위험을 줄입니다. 플랫폼의 중앙 집중화를 조직에서는 애플리케이션의 오케스트레이션 적응을 쉽게 만들어 줍니다.
+
+5 번째 검색 내용
 제목: QCon 런던: 결정 만들기의 예술, 과학 및 심리학
 
 (Note: The Korean language does not use spaces between words, so the translation is written as a continuous string.)
 주소: https://www.infoq.com/news/2024/04/qcon-london-decision-making/
-설명: QCon 런던 2024에서 BBC의 아키텍처 대표인 한네스 릭스젤프스는 결정 만들기에 관한 잘 받아진 발표를 했습니다.
+설명: QCon 런던 2024에서 BBC의 아키텍처 부장인 한네스 릭스젤프스는 결정 만들기에 관한 잘 받아들여진 발표를 했습니다.
 
-릭스젤프스는 결정 만들기 분야에 예술, 과학, 심리학을 적용하는 데 있어 주요 이유와 적합한 방법론, 결정을 잘 내리기 위해 우리의 능력에 영향을 주는 편균 효과를 중심으로 개인과 비즈니스 상황에서 좋은 결정을 내리기 위해 적합한 방법론을 집중적으로 다루었습니다.
+릭스젤프스는 결정 만들기 분야에 예술, 과학, 심리학을 적용하는 데 있어 주요 이유와 적합한 방법론, 결정을 잘 내리기 위해 우리가 개인과 비즈니스 상황에서 바이에이스의 영향을 중심으로 집중했습니다.
 
-5 번째 검색 내용
-제목: QCon London: 듀오링고가 슈퍼보울 휴식 기간에 400만 번의 푸시 알림을 6초 내에 전송하는 방법
+6 번째 검색 내용
+제목: QCon London: 듀오링고가 슈퍼보울 휴식 동안 400만 번의 푸시 알림을 6초 내에 전송하는 방법
 
 (Note: The Korean translation may not be a direct word-for-word translation, but it conveys the meaning of the original sentence.)
 주소: https://www.infoq.com/news/2024/04/qcon-london-duolingo-super-bowl/
-설명: 슈퍼볼 마케팅 캠페인의 일부로, Duolingo는 회사의 5초 광고가 광고 간격에 방송되었을 때 400만 개의 모바일 푸시 알림을 전송했습니다. QCon London에서 Duolingo의 엔지니어들은 7개 미국 도시의 수백만 사용자에게 메시지를 브로드캐스팅하는데 응답하는 비동기 AWS 아키텍처를 소개했습니다.
+설명: 슈퍼볼 마케팅 캠페인의 일부로, Duolingo는 회사의 5초 광고가 광고 간격에 방송되었을 때 400만 개의 모바일 푸시 알림을 전송했습니다. Doulingo의 엔지니어들은 QCon London에서 7개 미국 도시의 수백만 명의 사용자에게 메시지를 브로드캐스팅하는데 응답하는 비동기 AWS 아키텍처를 소개했습니다.
 
-6 번째 검색 내용
+7 번째 검색 내용
 제목: QCon 런던: 효율적인 서버리스 개발
 
 (Note: The given text seems to be a title or heading. In Korean, it would be written in all capital letters as shown above.)
 주소: https://www.infoq.com/news/2024/04/aws-serverless-best-practices/
-설명: QCon 런던에서 Lumigo의 서버리스 팔로우어 Yan Cui는 AWS 서버리스 기술을 사용한 효과적인 로컬 개발 패턴을 공유했습니다. 주요 주제는 테스팅 접근 방식, 배포 실천 사항, 및 애플리케이션 환경입니다.
-
-7 번째 검색 내용
-제목: 대형 언어 모델을 사용한 코드에 대해서는 Loubna Ben Allal이 QCon London에서 설명하였습니다.
-주소: https://www.infoq.com/news/2024/04/llms-code-qcon/
-설명: QCon 런던에서 Loubna Ben Allal은 코드용 대규모 언어 모델(LLMs)을 다뤘습니다. 그는 코드 완성 모델의 생명주기를 논의했으며, 이는 거대한 코드 데이터셋에서 전처리 수행 후 튜닝과 지속적인 적응을 포함합니다. 그는 특히 오픈소스 모델을 다루었으며, 이들은 플랫폼으로 Hugging Face와 같은 것을 활용합니다.
+설명: QCon 런던에서 Lumigo의 서버리스 발전자인 Yan Cui는 AWS 서버리스 기술을 사용한 효과적인 로컬 개발에 대한 패턴을 공유했습니다. 주요 주제는 테스트 접근 방식, 배포 실천 사항, 및 애플리케이션 환경입니다.
 
 8 번째 검색 내용
-제목: NVIDIA가 다음 세대 AI 슈퍼칩 '블랙웰'을 발표합니다.
+제목: 대규모 언어 모델을 사용한 코드에 대해서는 Loubna Ben Allal이 QCon London에서 설명하였습니다.
+
+(Translation: At QCon London, Loubna Ben Allal explained large language models for code.)
+주소: https://www.infoq.com/news/2024/04/llms-code-qcon/
+설명: QCon 런던에서 Loubna Ben Allal은 코드용 대규모 언어 모델(LLMs)을 다뤘습니다. 그는 코드 완성 모델의 생명주기를 다루었으며, 이는 거대한 코드 데이터로 전체 학습을 수행하고 튜닝과 지속적인 적응을 포함합니다. 그는 특히 오픈소스 모델에 대해 다루었으며, 이들은 플랫폼으로 Hugging Face와 같은 것을 사용하고 있습니다.
+
+9 번째 검색 내용
+제목: NVIDIA 다음 세대 AI 슈퍼칩 Blackwell 발표
+
+(Note: The translation may not be perfect as it is a proper noun and some words might not have direct translations in Korean. However, the meaning should still be conveyed.)
 주소: https://www.infoq.com/news/2024/04/nvidia-blackwell-superchip/
 설명: NVIDIA는 최근에 다음 세대 GPU 아키텍처인 Blackwell을 발표했습니다. Blackwell은 이전 세대 하드웨어보다 4배 빠르게 대규모 언어 모델(LLM)를 학습할 수 있는 최대의 GPU로, 200조 이상의 트랜지스터를 갖고 있습니다.
 
-9 번째 검색 내용
+10 번째 검색 내용
 제목: QCon 런던: 메타는 모노리스 아키텍처를 사용하여 스레드를 5개월 만에 배포했습니다.
 주소: https://www.infoq.com/news/2024/04/meta-threads-instagram-5-months/
-설명: 자한 말카니는 QCon London 2024에서 Meta의 시장 기회를 식별하여 마켓팅까지 5개월 만에 Threads 앱을 출시하는 여정에 대해 언급했습니다. 회사는 Instagram의 이미 존재하는 모노리스 아키텍처를 활용하고 빠르게 반복하여 새로운 텍스트 기반 마이크로블로깅 서비스를 기록 시간 내에 개발했습니다.
-
-10 번째 검색 내용
-제목: 효율적인 DevSecOps 워크플로우를 AI의 조금의 도움으로: Michael Friedrich과의 Q&A
-주소: https://www.infoq.com/news/2024/04/qcon-london-devsecops-ai/
-설명: QCon 런던에서 Michael Friedrich, GitLab의 고급 개발자 추천가이, AI가 DevSecOps 워크플로우에서 어떻게 도움이 될 수 있는지 논의했습니다. 세션은 첫 번째 컨퍼런스 날짜의 클라우드 네이티브 엔지니어링 트랙에 속해 있었으며, InfoQ는 세션 후에 Friedrich를 인터뷰했습니다.
+설명: 자한 말카니는 QCon London 2024에서 Meta의 시장 기회를 식별하여 마켓팅까지 5개월 만에 Threads 앱을 출시하는 여정에 대해 언급했습니다. 회사는 Instagram의 이미 존재하는 모노리스 아키텍처를 활용하고 빠르게 반복하여 새로운 텍스트 기반 마이크로블로깅 서비스를 만들어 냈습니다.
 
 11 번째 검색 내용
-제목: LLM 배포 탐색: 팁, 트릭, 기술을 통해 메리엄 아닉의 QCon 런던에서
-
-(Note: LLM is an abbreviation for "Legal Lifecycle Management," which may not have a direct translation in Korean. In this case, it's best to keep the term in English.)
-주소: https://www.infoq.com/news/2024/04/llm-deployment-tips-tricks/
-설명: QCon 런던에서 Meryem Arik는 Large Language Models(LLMs)를 배포하는 것을 논의했습니다. 초기 개념 증명에는 호스팅 솔루션이 유리하지만, 확장성 요구 사항으로 자체 호스팅을 선택하여 비용을 절약하고, 사용자 정의 모델을 통해 성능을 향상시키며, 개인정보와 보안 요구 사항을 충족합니다. 그는 배포 제한에 대한 이해를 강조하고, 효율성을 위해 양자화를 적용하며, GPU 리소스를 최대한 활용하기 위해 추론 최적화를 중점으로 다루었습니다.
+제목: 효율적인 DevSecOps 워크플로우를 AI의 조금의 도움으로: Michael Friedrich과의 Q&A
+주소: https://www.infoq.com/news/2024/04/qcon-london-devsecops-ai/
+설명: QCon 런던에서 Michael Friedrich, GitLab의 상위 개발자 어드바이케이트는 AI가 DevSecOps 워크플로우에서 도움이 되는 방법을 논의했습니다. 세션은 첫 번째 컨퍼런스 날에 Cloud-Native Engineering 트랙의 일부였습니다. InfoQ는 세션 후에 Friedrich를 인터뷰하였습니다.
 
 12 번째 검색 내용
-제목: 자바 뉴스 요약: 새로운 JEP 후보, 프로젝트 비시반, 케이터 플러그인 저장소, JDKUpdater
-주소: https://www.infoq.com/news/2024/04/java-news-roundup-apr01-2024/
-설명: 이번 주의 Java 뉴스 요약 2024년 4월 1일에는 다음과 같은 소식을 강조합니다: JEP 후보: JEP 469, Vector API (8차 시험판); JEP 473, Stream Gatherers (2차 미리 보기); JEP 474, ZGC: 기본적으로 생성형 모드, Project Bisbane, Ktor 플러그인 저장소와 JDKUpdater의 도입.
+제목: LLM 배포 탐색: 팁, 트릭, 기술을 통해 메리엄 아릿의 QCon 런던에서
+
+(Note: LLM is an abbreviation and should not be translated. The rest of the sentence has been translated into Korean.)
+주소: https://www.infoq.com/news/2024/04/llm-deployment-tips-tricks/
+설명: QCon 런던에서 Meryem Arik는 Large Language Models(LLMs)를 배포하는 것을 토의했습니다. 초기 개념 증명에는 호스팅 솔루션이 유리하지만, 확장성 요구 사항으로 자체 호스팅을 선택하여 비용을 줄이고, 사용자 지정 모델을 통해 성능을 향상시키며, 개인정보와 보안 요구 사항을 충족할 수 있습니다. 그는 배포 제한에 대한 이해, 효율성을 위한 퀴언티제이션과 인프레런스 최적화를 통한 GPU 리소스의 전체 활용을 강조하였습니다.
 
 13 번째 검색 내용
-제목: C++은 Rust와 같은 다른 언어처럼 안전한 언어가 되는지 여부입니까?
-주소: https://www.infoq.com/news/2024/04/cpp-memory-safety-sutter/
-설명: 최근 기사에서, C++ 전문가와 ISO C++ 위원회 장인 Herb Sutter는 Rust 및 기억 안전 언어(MSLs)와 같은 기억 안전 언어의 모습으로 언어를 안전하게 만드는 데 필요한 것에 대한 견해를 표현했습니다. 그의 레시피는 다른 MSLs와 같이 도구에 의존하는 것, 안전한 언어 기능을 홍보하는 것, 손상된 기능은 컴파일러 플래그로 뒷치기하고 더 많은 것입니다.
+제목: 자바 뉴스 요약: 새로운 JEP 후보, 프로젝트 비시반, 케이터 플러그인 저장소, JDKUpdater
+주소: https://www.infoq.com/news/2024/04/java-news-roundup-apr01-2024/
+설명: 이번 주의 자바 요약서(Java Roundup)는 2024년 4월 1일에 다음과 같은 뉴스를 강조합니다: 새로운 JEP 후보: JEP 469, Vector API (8차 시험판); JEP 473, Stream Gatherers (2차 미리 보기); 그리고 JEP 474, ZGC: 생성적 모드로 기본 설정, Project Bisbane, Ktor 플러그인 저장소와 JDKUpdater를 소개합니다.
 
 14 번째 검색 내용
-제목: AWS 데드라인 클라우드: 클라우드 기반 렌더 팜에 대한 Q&A(질문과 답변)를 통해 Antony Passemard와 대화하십시오.
-주소: https://www.infoq.com/news/2024/04/introducing-aws-deadline-cloud/
-설명: AWS는 최근에 Deadline Cloud를 소개했습니다. 이 서비스는 창조적인 팀이 렌더링 작업을 효율적으로 관리하도록 설계되었습니다. 이 서비스는 영상 & 연예(M&E) 및 건축, 공학, 건설(AEC) 산업의 고객들에게 필요한 최종 프레임을 영화, TV, 게임, 산업 디자인 비주얼라이제이션, 그리고 기타 디지털 미디어를 생성하는데 특히 유용합니다.
+제목: C++은 Rust와 같은 다른 언어처럼 안전한 언어가 되는지 여부입니까?
+주소: https://www.infoq.com/news/2024/04/cpp-memory-safety-sutter/
+설명: 최근 기사에서, C++ 전문가와 ISO C++ 위원회 장인 Herb Sutter는 Rust 및 기억 안전 언어(MSLs)와 같은 안전 언어로 C++를 만드는 데 필요한 것에 대한 견해를 표현했습니다. 그의 레시피는 기타 MSLS와 마찬가지로 도구에 의존하고, 안전한 언어 기능을 홍보하며, 위험한 기능은 컴파일러 플래그로 뒷치기하는 것 등입니다.
 
 15 번째 검색 내용
-제목: [INST] 한국어로 번역: 
-
-Visual Studio 17.10 Preview 2: GitHub Copilot-Powered Pull Requests, SSDT 지원 VS에서 ARM64
-[/INST]
-주소: https://www.infoq.com/news/2024/04/visual-studio-17-10-p2/
-설명: 마이크로소프트는 Visual Studio 17.10 Preview 2를 발표했습니다. 이 릴리즈에는 GitHub Copilot을 지원하는 Pull Request, VS에서 ARM64용 SQL Server Developer Tools 지원 및 Managed Memory Window에서 Garbage Collection Insights 지원이 포함되어 있습니다.
+제목: AWS 데드라인 클라우드: 클라우드 기반 렌더 팜에 대한 Q&A(질문과 답변)를 통해 Antony Passemard와 소통하십시오.
+주소: https://www.infoq.com/news/2024/04/introducing-aws-deadline-cloud/
+설명: AWS는 최근에 Deadline Cloud를 소개했습니다. 이 서비스는 창조적인 팀이 렌더링 작업을 효율적으로 관리하도록 설계되었습니다. 이 서비스는 영상 & 재생(M&E) 및 건축, 공학, 건설(AEC) 산업의 고객들에게 필요한 최종 프레임을 영화, TV, 게임, 산업 디자인 시각화, 그리고 기타 디지털 미디어에 대해 특히 유용합니다.
 
