@@ -1,0 +1,104 @@
+1 번째 검색 내용
+제목: 자바 뉴스 요약: JobRunr 7.0, 공용재단 소개, 페이어라 플랫폼, 데브넥서스
+주소: https://www.infoq.com/news/2024/04/java-news-roundup-apr08-2024/
+설명: 이번 주 4월 8일 Java 요약서는 JobRunr 7.0, Commonhaus Foundation 소개, 4월 2024 Payara Platform 편집본, JEP 473 Stream Gatherers(두 번째 미리보기), JEP 469 Vector API(8차 시도자), JDK 23에 대상으로 제안되고 Devnexus 2024을 다룬다.
+
+2 번째 검색 내용
+제목: 클라우드 네이티브 컴퓨팅 재단의 클라우드 이벤트 출범: 클레멘스 바스터와의 Q&A
+
+(Note: The translation may not be perfect as it involves translating proper nouns and technical terms. Please review the translation for accuracy.)
+주소: https://www.infoq.com/news/2024/04/cncf-cloudevents-graduation/
+설명: 이 해에는 Cloud Native Computing Foundation(CNCF)가 CloudEvents가 졸업한 것을 발표했습니다. CloudEvents는 플랫폼, 서비스, 시스템 간의 상호 운용성을 보장하기 위해 이벤트 메타데이터를 표준화된 방식으로 노출할 수 있도록 설계된 사양입니다.
+
+3 번째 검색 내용
+제목: QCon 런던: LinkedIn의 AI/ML 데이터 플랫폼을 구축하면서 배운 교훈
+
+(Note: The Korean translation may not be perfect as it is a direct translation. The sentence structure and grammar might need adjustments for natural flow in the Korean language.)
+주소: https://www.infoq.com/news/2024/04/linkedin-ai-platform-venicedb/
+설명: QCon 런던 2024 콘퍼런스에서 LinkedIn의 Félix GV는 회사의 제품을 운영하는데 사용되는 AI/ML 플랫폼에 대해 설명했습니다. 그는 특히 Venice DB, 기능 지속성을 위한 NoSQL 데이터 저장소에 집중했습니다. 발표자는 플랫폼의 진화와 운영에서 배운 교훈을 공유했으며, 클러스터 관리와 라이브러리 버전 관리에 대해 설명했습니다.
+
+4 번째 검색 내용
+제목: 최적화된 Adidas 컨테이너 플랫폼 사용 GitOps
+
+(Note: The translation may not be perfect as it is a technical term. Please verify the accuracy if needed.)
+주소: https://www.infoq.com/news/2024/04/adidas-container-platform-gitops/
+설명: 어디다
+
+5 번째 검색 내용
+제목: AWS Batch에서는 대규모 시뮬레이션을 위해 다중 컨테이너 작업 소개
+
+(Note: The translation may not be perfect as it is a machine translation. Please review and make any necessary adjustments.)
+주소: https://www.infoq.com/news/2024/04/aws-batch-multi-container-jobs/
+설명: 최근에 AWS는 관리 콘솔을 통해 AWS Batch에서 다중 컨테이너 작업의 지원을 발표했습니다. 이 새로운 기능은 특히 복잡한 시스템, 예를 들어 자율주행 차량과 로봇 분야에서 테스트하는 시뮬레이션을 실행하는 프로세스를 간소화합니다.
+
+6 번째 검색 내용
+제목: 건축물을 통해 예상치 못한 경쟁력 장점을 얻는 방법: 란비르 차울라의 QCon 론도니아에서
+[INST] Translate the sentence into Korean: Building a Platform to Gain an Unexpected Competitive Advantage: Ranbir Chawla at QCon London
+주소: https://www.infoq.com/news/2024/04/migrate-to-event-based/
+설명: 퀘론 런던에서의 발표 중, 랜비르 차울라는 그의 팀이 "아키텍처 퍼펙트 스톰"과 매우 수동적인 운영 시스템을 벗어나 현대적인 이벤트 기반 아키텍처를 가진 제품 회사로 이동한 여정을 소개했습니다. 회사는 이제 자원에게 실질적인 비즈니스 결과를 제공하고, 개발자들이 작업에서 기쁨을 느낄 수 있도록 확신을 가지고 관심을 두고 있습니다.
+
+7 번째 검색 내용
+제목: 리프트가 iOS Live Activities를 활용하여 사용자 경험을 향상시키는 방법
+
+[INST] Korean translation of the sentence: "How Lyft Leveraged iOS Live Activities to Enhance User Experience" is "리프트가 iOS Live Activities를 활용하여 사용자 경험을 향상시키는 방법". [/INST]
+주소: https://www.infoq.com/news/2024/04/lyft-live-activities-ios/
+설명: 사용자에게 시기적인 업데이트를 제공하는 것은 모바일 경험을 개선하는 데 중요한 역할을 합니다, Lyft iOS 엔지니어 Max Husar이 설명합니다. 그러나 이는 개발 범위와 노력을 늘리게 됩니다. Lyft 엔지니어들은 iOS ActivityKit을 사용하여 앱에 동적인 콘텐츠를 추가하는 것으로 유연성, 신뢰도, 재사용성의 균형을 이루기 위해 노력했습니다.
+
+8 번째 검색 내용
+제목: 경계 없는 클라우드 QCon 런던에서의 질문과 대답: 아도라 누움도와의 인터뷰
+
+(Note: The translation may not be perfect as it is a direct translation from English to Korean. It would be better if a native Korean speaker checks and adjusts the translation for proper grammar and sentence structure.)
+주소: https://www.infoq.com/news/2024/04/borderless-cloud-qcon-london/
+설명: QCon 런던에서 Adora Nkowno, NexaScale의 고급 소프트웨어 공학자는 애플리케이션 아키텍처, 배포 프로세스, CI/CD 파이프라인에서 다양한 클라우드를 간편하게 통합하는 데 있는 복잡성을 논의했습니다. 그의 세션은 컨퍼런스의 첫 번째 날에 진행되는 Cloud-Native Engineering 트랙의 일부였으며, InfoQ는 인터뷰를 진행했습니다.
+
+9 번째 검색 내용
+제목: QCon 런던: 링크드인에서 gRPC 마이그레이션 자동화
+
+(Note: The given text seems to be a title or heading. In Korean, it would be written in all capital letters as per the original format.)
+주소: https://www.infoq.com/news/2024/04/qcon-london-grpc-linkedin/
+설명: QCon London 2024에서 Karthik Ramgopal과 Min Chen는 AI가 LinkedIn이 Rest.li를 Google의 gRPC로 50,000개의 제품 엔드포인트의 원격 프로시저 콜(RPC) 프로토콜을 변경하는 데 도움을 주었다고 설명했습니다. 계획된 2-3년간의 수동 마이그레이션은 AI를 지원한 마이그레이션으로 2-3분기로 줄어들었으며, 2000개의 서비스에 걸쳐 2000만 줄의 코드가 변경되었습니다 - 업무 중단 없이.
+
+10 번째 검색 내용
+제목: 소프트웨어 팀에서 심리적 안전감을 높여 애그일 방식 도입
+
+(Note: The translation may not be perfect as it is a direct translation. In Korean, the adjective usually comes after the noun, so the sentence structure might need to be adjusted for natural flow in Korean.)
+주소: https://www.infoq.com/news/2024/04/psychological-safety-software/
+설명: Agile 사고방식을 테스트하기 위해, 소프트웨어 팀은 키크오프 연습, 커피 브레이크를 공유하며, 성공을 축하하며, 스탠드업 질문과 1:1 대화를 통해 심리적 안전감을 향상시키는데 집중했습니다. 이러한 방법으로 그들의 소프트웨어 팀에서 심리적 안전감을 높였습니다.
+
+11 번째 검색 내용
+제목: Azure API Management Basic V2 및 Standard V2 GA: 확장성, 보안 및 네트워킹 향상
+
+(Note: The translation may not be perfect as it is a machine translation. Please review and make any necessary adjustments.)
+주소: https://www.infoq.com/news/2024/04/azure-apim-new-tiers-ga/
+설명: 마이크로소프트는 최근에 Azure API 관리의 새로운 가격 책정 계층인 Basic v2와 Standard v2의 일반적인 사용 가능성을 발표했습니다. 이것은 개발 프로젝트에서 작은 것부터 기업 수준의 애플리케이션까지 확장성과 유연성을 제공합니다.
+
+12 번째 검색 내용
+제목: QCon 런던: 현대적인 아키텍처에서 긴 기간 동안 실행 능력 향상시키기
+
+(Note: The Korean translation may not be perfect as it involves translating technical terms and conference names. Please review the translation for accuracy.)
+주소: https://www.infoq.com/news/2024/04/qcon-london-long-running-tasks/
+설명: QCon 런던 2024에서 Bernd Ruecker는 긴 실행 시간의 작업을 비동기적으로 처리하여 프로세스 오케스트레이션 플랫폼으로 구현해야 한다고 추천했습니다. 이러한 플랫폼은 서비스 boundary와 효율성을 더 잘 제공하며, 사고적인 시스템 복잡성과 위험을 줄입니다. 기관 내에서 플랫폼을 중앙 집중화함으로써 애플리케이션의 오케스트레이션 적응 정도를 쉽게 만들 수 있습니다.
+
+13 번째 검색 내용
+제목: QCon 런던: 결정 만들기의 예술, 과학 및 심리학
+
+(Note: The Korean language uses a different writing system called Hangul. In the translation above, I have provided the Romanized form of the Korean text, which is commonly used in English-language contexts.)
+주소: https://www.infoq.com/news/2024/04/qcon-london-decision-making/
+설명: QCon 런던 2024에서 BBC의 아키텍처 부장인 한네스 릭스젤프스는 결정 만들기에 관한 잘 받아진 발표를 했습니다.
+
+릭스젤프스는 결정 만들기 분야에 예술, 과학, 심리학을 적용하는 데 있어 주요 이유와 적합한 방법론, 결정을 잘 내리기 위해 우리의 능력에 영향을 미치는 편균 효과를 중심으로 개인과 비즈니스 상황에서 좋은 결정을 내리기 위해 적합한 방법론을 집중적으로 다루었습니다.
+
+14 번째 검색 내용
+제목: QCon 런던: 두로인고가 슈퍼보울 휴식 동안 400만 번의 푸시 알림을 6초 내에 전송하는 방법
+
+(Note: The Korean translation may not be a direct word-for-word translation, but it conveys the meaning of the original sentence.)
+주소: https://www.infoq.com/news/2024/04/qcon-london-duolingo-super-bowl/
+설명: 슈퍼볼 마케팅 캠페인의 일부로, Duolingo는 회사의 5초 광고가 광고 간격에 방송되었을 때 400만 개의 모바일 푸시 알림을 보냈습니다. QCon London에서 Duolingo의 엔지니어들은 7개 미국 도시의 수백만 사용자에게 메시지를 송신하는데 응답적인 AWS 아키텍처를 소개했습니다.
+
+15 번째 검색 내용
+제목: QCon 런던: 효율적인 서버리스 개발
+
+(Note: The given text seems to be a title or heading. In Korean, it would be written in all capital letters as shown above.)
+주소: https://www.infoq.com/news/2024/04/aws-serverless-best-practices/
+설명: QCon 런던에서 Lumigo의 서버리스 발전자인 Yan Cui는 AWS 서버리스 기술을 사용한 효과적인 로컬 개발 패턴을 공유했습니다. 주요 주제는 테스팅 접근 방식, 배포 실천 사례, 및 애플리케이션 환경입니다.
+
