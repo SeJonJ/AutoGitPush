@@ -1,0 +1,92 @@
+1 번째 검색 내용
+제목: 구글은 에이전트 빌더를 발표하고, 확장된 지니 1.5, 오픈소스 추가물을 발표합니다.
+주소: https://www.infoq.com/news/2024/04/gcn-agent-builder/
+설명: 구글 클라우드 넥스트 2024 이벤트에서는 Google이 Vertex AI Agent Builder의 출시, Gemini 1.5 Pro의 공개 미리 보기 및 Vertex AI 플랫폼에 오픈소스 언어 모델을 추가를 발표했습니다.
+
+2 번째 검색 내용
+제목: Thoughtworks의 데이터와 AI 전문가 대표는 왜 강력한 데이터 제품을 만드는 것이 중요한지, 그리고 어떻게 만들어야 하는지에 대해 QCon London에서 인사이트를 공유합니다.
+주소: https://www.infoq.com/news/2024/04/data-product-principles/
+설명: QCon 런던에서 발표한 Danilo Sato, Thoughtworks의 데이터 & AI 부장, 데이터 제품을 구현할 때 도메인 주도 설계와 Team Topologies 원칙을 다시 강조했습니다. 이는 데이터 책임이 "왼쪽으로" 개발자에게 이동하는 더 복잡한 환경에서 효과적인 데이터 캡슐화를 보장합니다.
+
+3 번째 검색 내용
+제목: [INST] 국가적 클라우드 서비스를 포함한 네온 네비게이션 디자인 결정과 교환 선택: 조hn 스프레이와의 Q&A [/INST]
+주소: https://www.infoq.com/news/2024/04/stateful-cloud-services-qcon/
+설명: 퀘론 런던에서 John Spray, neon.tech의 스토리지 엔지니어링 리드, 상태 있는 클라우드 서비스 설계의 종종 무시되는 복잡성을 다뤘습니다. Neon Serverless Postgres를 사용하여 이를 연구하였으며, 이 세션은 컨퍼런스의 첫 번째 날에 진행되는 Cloud-Native Engineering 트랙의 일부로 진행되었습니다. InfoQ는 인터뷰를 진행했습니다.
+
+4 번째 검색 내용
+제목: QCon 런던: 트레인라인에서 마이크로 서비스 아키텍처와 기술 조직 확장
+
+(Note: The given sentence seems to be a title or heading, and it may not have a direct translation in Korean. However, I translated the main components of the sentence into Korean.)
+주소: https://www.infoq.com/news/2024/04/trainline-architecture-evolution/
+설명: 최근 QCon London 컨퍼런스에서 Trainline의 CTO는 회사의 시스템 아키텍처와 조직 구조가 지난 5년간 발전한 것을 언급했습니다. 회사는 시장 변화와 고객 기대치의 증가로 인해 기술 플랫폼의 성능과 신뢰도를 개선하여 적응해야 했습니다.
+
+5 번째 검색 내용
+제목: 오픈 소스의 Elastic의 OpenTelemetry SDK를 위한 .NET
+
+(Note: The translation may not be perfect as it is a technical term. However, this should give you an idea of how the sentence would be translated into Korean.)
+주소: https://www.infoq.com/news/2024/04/elastics-open-telemetry-net/
+설명: 엘라스틱이 엘라스틱 버전의 OpenTelemetry SDK for .NET에 대한 알파 릴리스를 발표했습니다. 이 배포판은 추적, 메트릭 및 로그 수집을 사전 구성합니다. 또한 이 배포판은 OTLP 엑스포터가 기본적으로 활성화되도록 보장합니다. 프로젝트는 오픈소스입니다.
+
+6 번째 검색 내용
+제목: [INST] 응용 보안 설계를 공학 생산성에 최적화하기
+[/INST]
+주소: https://www.infoq.com/news/2024/04/secure-engineering-productivity/
+설명: 레이라 벨 메인은 2024년 응용 보안 트렌드에 대한 웹닷을 진행했습니다. 그는 개발, 보안, 운영(DevSecOps) 초기 단계에서 분리된 프로젝트를 포기하고 개발자의 생산성을 최적화하는 솔루션을 제시함으로써 변화를 이끌어내야 한다고 강조했습니다. 닉키 로버슨은 최근에도 보안 플랫폼 엔지니어링에 대한 개발자 경험을 중심으로 하는 접근 방식의 중요성에 대해 언급했습니다.
+
+7 번째 검색 내용
+제목: 수정하십시오. SDLC를 고셔야 조직에서 인간 지능형 AI를 채택하기 전에: QCon London에서 반응한 밴온의 호충입니다.
+
+(Note: The translation may not be perfect as it is a direct translation from English to Korean without considering the context and grammar rules of the Korean language.)
+주소: https://www.infoq.com/news/2024/04/ai-sdlc-adoption/
+설명: QCon 런던에서 발표한 트레이시 바톤, MITRE의 아키텍트와 연구원은 AI가 소프트웨어 개발 생명주기를 향상시킬 것임을 주장했지만, 현재는 "코드 완성"이라는 단계에 있으며 "코드 생성" 단계가 아님을 강조하였습니다. 발표 중에는 항상 사람들을 포함시키고 회사의 SDLC를 수정하기 전에 AI를 인용하는 것이 중요하다는 점을 강조하였습니다.
+
+8 번째 검색 내용
+제목: 구글은 사용자 인터페이스와 정보그래픽을 이해하는 AI 모델, 스크린AI를 개발합니다.
+주소: https://www.infoq.com/news/2024/04/google-screenai/
+설명: 구글 연구소는 최근에 정보그래픽과 사용자 인터페이스를 이해하는데 다중 모델 AI 모델인 ScreenAI를 개발했습니다. ScreenAI는 PaLI 아키텍처에 기반한 것으로 여러 작업에서 최신 기술 수준의 성능을 달성합니다.
+
+9 번째 검색 내용
+제목: 그림자 API 검색을 위한 Google 클라우드 환경 미리보기
+
+(Note: The translation may not be perfect as it involves technical terms. Please review the translation for accuracy.)
+주소: https://www.infoq.com/news/2024/04/google-apigee-shadow-api/
+설명: 구글 클라우드 넥스트 동안, 구글은 고급 API 보안의 일부로 쉐도우 API 감지의 미리 보기 릴리스를 발표했습니다. Apigee API 관리 솔루션의 이 관리형 API 브로커 서비스는 Google Cloud에서 API를 설계하고, 보안화하고, 배포하고, 모니터링하고, 분석할 수 있습니다.
+
+10 번째 검색 내용
+제목: 자바 뉴스 요약: JobRunr 7.0, 공통하우스 재단 소개, 페이어라 플랫폼, 데브넥서스
+주소: https://www.infoq.com/news/2024/04/java-news-roundup-apr08-2024/
+설명: 이번 주 4월 8일 Java 요약서는 JobRunr 7.0, Commonhaus Foundation의 소개, 4월 2024 Payara Platform 에디션, JEP 473 Stream Gatherers(두 번째 미리보기), JEP 469 Vector API(8차 시도자), JDK 23 대상으로 제안되고, Devnexus 2024에 대한 뉴스를 강조합니다.
+
+11 번째 검색 내용
+제목: 클라우드 네이티브 컴퓨팅 재단의 클라우드 이벤트 출범: 클레멘스 바스터와의 Q&A
+
+(Note: The translation may not be perfect as it is a technical term. Please double-check the translation for accuracy.)
+주소: https://www.infoq.com/news/2024/04/cncf-cloudevents-graduation/
+설명: 이 해에는 Cloud Native Computing Foundation(CNCF)가 CloudEvents가 졸업한 것을 발표했습니다. CloudEvents는 플랫폼, 서비스, 시스템 간의 상호 운용성을 보장하기 위해 이벤트 메타데이터를 표준화된 방식으로 노출할 수 있도록 설계된 사양입니다.
+
+12 번째 검색 내용
+제목: QCon 런던: LinkedIn의 AI/ML 데이터 플랫폼을 구축하면서 배운 교훈
+
+(Note: The Korean translation may not be perfect as it is a direct translation. It is recommended to have it checked by a native speaker or professional translator for accuracy.)
+주소: https://www.infoq.com/news/2024/04/linkedin-ai-platform-venicedb/
+설명: QCon 런던 2024 컨퍼런스에서 LinkedIn의 Félix GV는 회사의 제품을 운영하는데 사용되는 AI/ML 플랫폼에 대해 설명했습니다. 그는 특히 Venice DB, 기능 지속성을 위한 NoSQL 데이터 저장소에 집중했습니다. 발표자는 플랫폼의 진화와 운영에서 배운 교훈을 공유했으며, 클러스터 관리와 라이브러리 버전 관리에 대해 설명했습니다.
+
+13 번째 검색 내용
+제목: 최적화된 Adidas 컨테이너 플랫폼 사용 GitOps
+
+(Note: The translation may not be perfect as it is a technical term. Please verify the accuracy if needed.)
+주소: https://www.infoq.com/news/2024/04/adidas-container-platform-gitops/
+설명: 어디다
+
+14 번째 검색 내용
+제목: AWS Batch에서는 대규모 시뮬레이션을 위해 다중 컨테이너 작업 도입
+
+(Note: The translation may not be perfect as it is a machine translation. Please check the meaning and context before using it.)
+주소: https://www.infoq.com/news/2024/04/aws-batch-multi-container-jobs/
+설명: 최근에 AWS는 관리 콘솔을 통해 AWS Batch에서 다중 컨테이너 작업의 지원을 발표했습니다. 이 새로운 기능은 특히 복잡한 시스템, 예를 들어 자율주행 차량과 로봇 분야에서 테스트하는 시뮬레이션을 실행하는 프로세스를 간소화합니다.
+
+15 번째 검색 내용
+제목: [INST] 기대하지 못한 경쟁력 우위를 얻기 위해 구축할 플랫폼: 라ン비르 차울라의 QCon 론도어 [/INST]
+주소: https://www.infoq.com/news/2024/04/migrate-to-event-based/
+설명: 퀘론 런던에서 진행한 발표 중에 Ranbir Chawla는 팀이 "아키텍처 퍼펙트 스톤"과 매우 수동적인 운영 시스템을 통과하여 현대적인 이벤트 기반 아키텍처를 가진 제품 회사로 이동한 여정을 소개했습니다. 회사는 이제 자원에게 실질적인 비즈니스 결과를 제공하고, 개발자들이 작업에서 기쁨을 느낄 수 있도록 확신을 가지고 관심을 두고 있습니다.
+
