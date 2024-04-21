@@ -1,0 +1,87 @@
+1 번째 검색 내용
+제목: 클라우드플레어 R2 스토리지에서 이벤트 알림과 주기적으로 접근하는 저장소 티어 도입
+
+(Note: The translation may not be perfect as it involves technical terms and specific product names. However, the meaning of the sentence is conveyed.)
+주소: https://www.infoq.com/news/2024/04/cloudflare-r2-event-notification/
+설명: 최근의 개발자 주간 동안, Cloudflare는 R2 객체 저장소가 데이터 변경에 대한 이벤트 알림을 지원하고 있다는 것을 발표했습니다. 이를 통해 Workers가 자동으로 응답합니다. 또한, Super Slurper 마이그레이션 서비스가 Google Cloud Storage에 지원을 확장하고 있으며, 개인 베타에서 새로운 infrequent access 저장소 티어가 사용 가능합니다.
+
+2 번째 검색 내용
+제목: 안드로이드 15 베타는 소리 조절, 사тели트 연결 개선 등 다양한 기능을 제공합니다.
+주소: https://www.infoq.com/news/2024/04/android-15-beta/
+설명: 구글은 Android 15 베타를 발표했습니다. 이 버전에서는 소리 제어, 화면 기록 감지, 기본적으로 엣지-투-엣지 앱, 위성 연결 개선 및 OpenJDK 코어 라이브러리, 새로운 SQLite API 및 더 많은 기능이 포함되었습니다.
+
+3 번째 검색 내용
+제목: 새로운 클라우드 관리 지침이 마이크로소프트 클라우드 적용 프레임워크에서 Azure에 추가되었습니다.
+주소: https://www.infoq.com/news/2024/04/azure-cloud-governance-guidance/
+설명: 마이크로소프트는 최근에 Azure의 Cloud Adoption Framework(CAF)의 Govern 섹션에 대한 중요한 업데이트를 발표했습니다. 이는 여러 도메인, INCLUDING IDENTITY, COST MANAGEMENT, AND AI에서 클라우드 관리 지침을 향상시키고, 시작업체부터 대규모 기업까지 더 나은 기업을 지원하는 데 도움이 되는 것입니다.
+
+4 번째 검색 내용
+제목: 엑스피디아가 Kubernetes 워크로드용 컨테이너 시작자동조정기(CSA)를 오픈소스로 공개합니다.
+주소: https://www.infoq.com/news/2024/04/expedia-startup-autoscaler/
+설명: 엑스피디아의 성능과 신뢰성 팀은 최근에 컨테이너 시작자동조정기(CSA)를 오픈소스로 공개했습니다. 이는 Kubernetes 컨트롤러입니다. 이 기능을 활용하여 사용자가 정의한 시작/후시작 구성에 따라 컨테이너의 CPU와/또는 메모리 리소스를 시작 중에 동적으로 조절할 수 있습니다.
+
+5 번째 검색 내용
+제목: 에어비엔비가 머신러닝 기능 플랫폼 크로노를 오픈소스로 공개합니다.
+주소: https://www.infoq.com/news/2024/04/airbnb-chronon-open-sourced/
+설명: 크로노(Chronon), 에어비앤비가 原始 데이터를 ML 준비 기능으로 변환하는 데 필요한 인프라를 생성하는 플랫폼입니다. 에어비앤비 ML 인프라 공학자 Varant Zanoyan이 설명하면, 크로노는 다양한 데이터 소스를 지원하고 저지연시 스트리밍을 제공하려고 합니다.
+
+6 번째 검색 내용
+제목: [INST] 지속 가능한 소프트웨어 개발을 위한 방법 [/INST]
+주소: https://www.infoq.com/news/2024/04/sustainable-software-development/
+설명: 소프트웨어 지속성은 환경 목적으로 컴퓨팅하고 자원을 적절하게 사용하는 것입니다. 코랄 캘레로 대로 따라하면, 소프트웨어 공학자들은 소프트웨어를 전체적으로 보아야 하며, 소프트웨어의 환경적 영향을 인식해야 합니다. 소프트웨어 공학자들이 지속 가능한 소프트웨어 개발을 위해 사용할 수 있는 몇몇 도구와 프레임워크가 존재합니다.
+
+7 번째 검색 내용
+제목: 빌딩 SaaS를 스크래치에서 시작하여 클라우드 네이티브 패턴을 사용하는 깊은 탐구: 클라우드 기반 스타트업의 눈을 뗄 수 없는 곳
+
+(Note: The translation may not be perfect as it is a direct translation from English to Korean. It would be helpful to have more context or information about the specific topic to provide a more accurate translation.)
+주소: https://www.infoq.com/news/2024/04/saas-cloud-native-qcon-london/
+설명: 조니 콜빈지, Diagrid의 창업 소프트웨어 공학자로서, QCon 런던에 참석하여 Diagrid Cloud 플랫폼의 진화적 설계 및 구현 사례 연구를 논의했습니다. 이 연구는 Diagrid의 SaaS 제품을 지원하는 기반입니다.
+
+8 번째 검색 내용
+제목: KubeCon EU: 머젠벤스의 Pod 보안 정책에서 검증 허가 정책으로 이전
+
+(Note: The translation may not be perfect as it is a direct translation. Korean grammar and sentence structure can be different from English.)
+주소: https://www.infoq.com/news/2024/04/kubernetes-vap-migration/
+설명: KubeCon EU에서 Mercedes Benz팀은 Pod Security Policies를 Validation Admission Policies로 변경하여 1000개 이상의 Kubernetes 클러스터를 보호하는 마이그레이션 여정을 소개했습니다. 이 솔루션은 Kyverno의 향상된 성능으로 인해 선택되었습니다.
+
+9 번째 검색 내용
+제목: 구글은 에이전트 빌더를 발표하고, 확장된 지니 1.5, 오픈소스 추가를 발표합니다.
+주소: https://www.infoq.com/news/2024/04/gcn-agent-builder/
+설명: 구글 클라우드 넥스트 2024 행사에서는 Google이 Vertex AI Agent Builder의 출시, Gemini 1.5 Pro의 공개 미리 보기 및 Vertex AI 플랫폼에 오픈소스 언어 모델을 추가를 발표했습니다.
+
+10 번째 검색 내용
+제목: Thoughtworks의 데이터와 AI 부장은 QCon 런던에서 강력한 데이터 제품을 구축하는 데 필요한 인사이트를 공유합니다.
+주소: https://www.infoq.com/news/2024/04/data-product-principles/
+설명: QCon 런던에서 발표한 Danilo Sato, Thoughtworks의 데이터 & AI 부장, 데이터 제품을 구현할 때 도메인 주도 설계와 Team Topologies 원칙을 다시 강조했습니다. 이는 데이터 책임이 "왼쪽으로" 개발자에게 이동하는 더 복잡한 환경에서 효과적인 데이터 캡슐화를 보장합니다.
+
+11 번째 검색 내용
+제목: [INST] 국가적 클라우드 서비스를 포함한 네온 네비게이션 디자인 결정과 교환 선택: 조hn 스프레이와의 Q&A [/INST]
+주소: https://www.infoq.com/news/2024/04/stateful-cloud-services-qcon/
+설명: 퀘론 런던에서 John Spray, neon.tech의 스토리지 엔지니어링 리드, 상태 있는 클라우드 서비스 설계의 종종 무시되는 복잡성을 Neon Serverless Postgres를 사례 연구로 다뤘습니다. 세션은 첫 번째 컨퍼런스 날에 Cloud-Native Engineering 트랙의 일부였으며, InfoQ는 인터뷰를 진행했습니다.
+
+12 번째 검색 내용
+제목: QCon 런던: 트레인라인에서 마이크로 서비스 아키텍처와 기술 조직 확장
+
+(Note: The given sentence seems to be a title or heading, and the Korean translation is provided as requested. However, it may not be an exact word-for-word translation due to differences in grammar and structure between English and Korean.)
+주소: https://www.infoq.com/news/2024/04/trainline-architecture-evolution/
+설명: 최근 QCon London 컨퍼런스에서 Trainline의 CTO는 회사의 시스템 아키텍처와 조직 구조가 지난 5년간 발전한 것을 언급했습니다. 회사는 시장 변화와 고객 기대치의 증가로 인해 기술 플랫폼의 성능과 신뢰도를 개선하여 적응해야 했습니다.
+
+13 번째 검색 내용
+제목: 오픈 소스의 Elastic의 OpenTelemetry SDK를 위한 .NET
+
+(Note: The translation may not be perfect as it is a technical term. Please verify the accuracy if needed.)
+주소: https://www.infoq.com/news/2024/04/elastics-open-telemetry-net/
+설명: 엘라스틱이 엘라스틱 버전의 OpenTelemetry SDK for .NET에 대한 알파 릴리스를 발표했습니다. 이 분포는 추적, 메트릭 및 로그 수집을 사전 구성합니다. 또한 이 분포는 OTLP 엑스포터가 기본적으로 활성화되도록 보장합니다. 프로젝트는 오픈소스입니다.
+
+14 번째 검색 내용
+제목: [INST] 응용 보안 설계 최적화를 위한 공학 생산성 향상 [/INST]
+주소: https://www.infoq.com/news/2024/04/secure-engineering-productivity/
+설명: 레이라 벨 메인은 2024년 응용 보안 트렌드에 대한 웹닷을 진행했습니다. 그는 개발, 보안, 운영(DevSecOps) 초기 단계에서 독립적인 프로젝트를 이루어지는 것에서 이동하여 개발자의 생산성을 최적화하는 솔루션을 제시할 필요가 있다는 점을 강조했습니다. 닉키 로버슨은 최근에도 보안 플랫폼 엔지니어링에 대한 개발자 경험 중심의 접근 방식의 중요성을 다루었습니다.
+
+15 번째 검색 내용
+제목: 수정하십시오. SDLC를 고치기 전에 조직에서 일반적인 AI를 채택하지 마십시오: 콘 런던에서 본의 부름
+
+(Note: The translation may not be perfect as it is a complex sentence. Please double-check the translation for accuracy.)
+주소: https://www.infoq.com/news/2024/04/ai-sdlc-adoption/
+설명: QCon 런던에서 발표한 트레이시 바톤, MITRE의 아키텍트와 연구원은 AI가 소프트웨어 개발 생명주기를 향상시킬 것임을 주장했지만, 현재는 "코드 완성"이라는 단계에 있다고 밝혔습니다. 그의 발표에서는 항상 인간을 포함하고 회사의 SDLC를 수정하기 전에 AI를 친화적으로 대처하는 것이 중요하다는 점을 강조했습니다.
+
