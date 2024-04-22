@@ -1,89 +1,89 @@
 1 번째 검색 내용
-제목: Swift 비동기 프로그래밍 레시피를 확인하려면 GitHub에서 이 링크를 클릭하십시오.
-주소: https://www.infoq.com/news/2024/04/swift-concurrent-recipes/
-설명: 스위프트 개발자인 Matt Massicotte, 이전에 Crashlytics와 Apple에서 근무한 사람이 최근에 GitHub 저장소를 설정하여 Swift 동시성을 쉽게 사용하고 반복적인 문제를 해결하는데 도움이 되는 몇 가지 유용한 레시피를 모아 놓았다. 동시에 가장 일반적인 굴절을 피할 수 있는 것을 고려하고 있습니다.
+제목: 엘프 애플리케이션의 스트리밍 아키텍처를 Apache Beam과 Apache Flink로 갱신합니다.
+주소: https://www.infoq.com/news/2024/04/yelp-streaming-apache-beam-flink/
+설명: 엘프는 트랜잭션 데이터 스트리밍 아키텍처를 재구성하여 애프로치 비임과 애프로치 플링크를 사용했습니다. 회사는 분산된 트랜잭션 데이터 스트리밍 파이프라인을 Amazon Redshift와 내부 데이터 레이크에 대한 분석 시스템으로 대체했습니다. 애프로치 데이터 스트리밍 프로젝트를 사용하여 통합된 및 유연한 솔루션을 만들었습니다.
 
 2 번째 검색 내용
-제목: 제조가 우선순위 - 마틴 스웨이트스의 마이크로서비스를 구축하는 외부에서 내부 접근 방식
-
-(Note: The translation may not be perfect as it is a direct translation from English to Korean. It would be better if a native Korean speaker checks and refines the translation.)
-주소: https://www.infoq.com/news/2024/04/qcon-london-outsidein-testing/
-설명: 마틴 스웨이트스, 오버시블성 사랑자, 개발자 및 개발자 대표인 honeycomb.io에서 작업하는 그는 "프로덕션은 우선순위가 높다 - 외부 기반으로 마이크로 서비스 구축의 접근 방식"이라는 주제로 발표했습니다. 세션은 '시스템 연결: API, 프로토콜, 오버시블성' 트랙의 일부입니다.
+제목: 빠른 비동기 프로그래밍 레시피를 확인하려면 깃허브에서 이 링크를 클릭하십시오.
+주소: https://www.infoq.com/news/2024/04/swift-concurrent-recipes/
+설명: 스위프트 개발자인 Matt Massicotte가 이전에 Crashlytics와 Apple에서 근무한 후 최근에 GitHub 저장소를 시작하여, Swift 동기화를 쉽게 사용하고 반복적인 문제를 해결하는데 도움이 되는 몇 가지 유용한 레시피를 모아 놓았습니다. 동시에 가장 일반적인 굴절을 피할 수 있는 것으로 인식하며, 이러한 문제를 해결하는데 도움이 되는 몇 가지 유용한 레시피를 모아 놓았습니다.
 
 3 번째 검색 내용
-제목: 클라우드플레어 R2 스토리지에서 이벤트 알림 및 Infrequent Access 저장소 티어 도입
+제목: 제조가 우선순위 - 외부에서 내로 이동하는 마이크로 서비스를 구축하는 방법을 설명하는 Martin Thwaites의 작품
 
-(Note: The Korean translation may not be a direct word-for-word translation, but it conveys the meaning of the original sentence.)
-주소: https://www.infoq.com/news/2024/04/cloudflare-r2-event-notification/
-설명: 최근의 개발자 주간 동안, Cloudflare는 R2 객체 저장소가 데이터 변경에 대한 이벤트 알림을 지원하고 있다는 것을 공지했습니다. 이를 통해 Workers가 자동으로 실행됩니다. 또한, Super Slurper 마이그레이션 서비스가 Google Cloud Storage에 대한 지원을 확장하고 개인 베타에서 새로운 infrequent access 저장소 계층이 사용 가능합니다.
+[INST] Korean translation of the sentence: [/INST]
+제조가 우선순위 - 외부에서 내로 이동하는 마이크로 서비스를 구축하는 방법을 설명하는 Martin Thwaites의 작품
+주소: https://www.infoq.com/news/2024/04/qcon-london-outsidein-testing/
+설명: 마틴 스웨이트스, 관찰성 사역자, 개발자 및 개발자 대리인 honeycomb.io에서 작업하는 사람, "프로덕션은 첫 번째 - 외부 입장에서 마이크로 서비스 구축의 방법"을 소개했습니다. 세션은 "시스템 연결: API, 프로토콜, 관찰성" 트랙의 일부였습니다.
 
 4 번째 검색 내용
-제목: 안드로이드 15 베타는 소리 조절, 사тели트 연결 개선 등 다양한 기능을 제공합니다.
-주소: https://www.infoq.com/news/2024/04/android-15-beta/
-설명: 구글은 Android 15 Beta를 발표했습니다. 이 버전에서는 소리 제어, 화면 레코딩 탐지, 기본적으로 엣지부터 엣지까지의 앱, 위성 연결 개선 및 OpenJDK 코어 라이브러리, 새로운 SQLite API, 그리고 더 많은 기능이 포함되었습니다.
+제목: 클라우드플레어 R2 스토리지에서는 이벤트 알림과 주기적으로 접근하는 저장소 티어를 도입합니다.
+주소: https://www.infoq.com/news/2024/04/cloudflare-r2-event-notification/
+설명: 최근의 개발자 주간 동안, Cloudflare는 R2 객체 저장소에서 이벤트 알림을 지원하고 있음을 발표했습니다. 데이터 변경에 대한 자동 트리거를 위해 Workers가 응답합니다. 또한, Super Slurper 마이그레이션 서비스는 Google Cloud Storage에 지원을 확장하고 개인 베타에서 새로운 infrequent access 저장소 티어가 사용 가능합니다.
 
 5 번째 검색 내용
-제목: 새로운 클라우드 관리 지침이 마이크로소프트 클라우드 적용 프레임워크에서 Azure에 추가되었습니다.
-주소: https://www.infoq.com/news/2024/04/azure-cloud-governance-guidance/
-설명: 마이크로소프트는 최근에 Azure의 Cloud Adoption Framework(CAF)의 Govern 섹션에 대한 중요한 업데이트를 발표했습니다. 이 업데이트는 여러 도메인, INCLUDING IDENTITY, COST MANAGEMENT, AND AI에서 클라우드 관리 지침을 향상시키며, 이를 통해 시작업체부터 대규모 기업까지 다양한 조직들이 클라우드 여정에서 더 나은 지원을 받도록 합니다.
+제목: 안드로이드 15 베타는 소리 조절, 사тели트 연결 개선 등 다양한 기능을 제공합니다.
+주소: https://www.infoq.com/news/2024/04/android-15-beta/
+설명: 구글은 Android 15 Beta를 발표했습니다. 이 버전에서는 소리 제어, 화면 기록 탐지, 기본적으로 엣지-to-엣지 앱, 위성 연결 개선 및 OpenJDK 코어 라이브러리, 새로운 SQLite API, 그리고 더 많은 기능이 포함되었습니다.
 
 6 번째 검색 내용
-제목: 엑스피디아가 Kubernetes 워크로드용 컨테이너 시작자동조정기(CSA)를 오픈소스로 공개합니다.
-주소: https://www.infoq.com/news/2024/04/expedia-startup-autoscaler/
-설명: 엑스피디아의 성능과 신뢰성 팀은 최근에 컨테이너 시작자동조정기(CSA)를 오픈소스로 공개했습니다. 이는 Kubernetes 컨트롤러입니다. 이 기능은 Pod 리소스의 실시간 업데이트를 활용하여, 사용자가 정의한 시작/후처리 구성에 따라 컨테이너의 CPU와/또는 메모리 리소스를 동적으로 조절합니다.
+제목: 새로운 클라우드 지도자 지침이 마이크로소프트 클라우드 적용 프레임워크에서 Azure에 포함되었습니다.
+주소: https://www.infoq.com/news/2024/04/azure-cloud-governance-guidance/
+설명: 마이크로소프트는 최근에 Azure의 Cloud Adoption Framework(CAF)의 Govern 섹션에 대한 중요한 업데이트를 발표했습니다. 이 업데이트는 여러 도메인, 예를 들어 식별성, 비용 관리 및 AI와 같은 클라우드 지원을 위한 지침을 향상시키고 다양한 기업, 즉 스타트업부터 대규모 기업까지, 그들의 클라우드 여정에 더 나은 지원을 제공하는 데 도움이 됩니다.
 
 7 번째 검색 내용
-제목: 에어비엔비가 머신러닝 기능 플랫폼 크로노를 오픈소스로 공개합니다.
-주소: https://www.infoq.com/news/2024/04/airbnb-chronon-open-sourced/
-설명: 크로노(Chronon), 에어비앤비가 原始 데이터를 ML 준비 기능으로 변환하는데 필요한 인프라를 생성하는 플랫폼입니다. 에어비앤비 ML 인프라 엔지니어 바랑 자노야빈(Varant Zanoyan)은, 크로노가 다양한 데이터 소스를 지원하고 낮은 대기시간 스트리밍을 제공하는 것을 목표로 합니다.
+제목: 엑스피디아가 Kubernetes 워크로드용 컨테이너 시작자동조정기(CSA)를 오픈소스로 공개합니다.
+주소: https://www.infoq.com/news/2024/04/expedia-startup-autoscaler/
+설명: 엑스피디아의 성능과 신뢰성 팀은 최근에 컨테이너 시작자동조정기(CSA)를 오픈소스로 공개했습니다. 이는 Kubernetes 컨트롤러입니다. Pod 리소스의 인앤플레이스 업데이트 기능을 활용하여, 사용자가 정의한 시작/후시작 구성에 따라 컨테이너의 CPU와/또는 메모리 리소스를 실행 중인 동안 동적으로 조절합니다.
 
 8 번째 검색 내용
-제목: [INST] 지속 가능한 소프트웨어 개발을 위한 방법 [/INST]
-주소: https://www.infoq.com/news/2024/04/sustainable-software-development/
-설명: 소프트웨어 지속성은 환경 목적으로 컴퓨팅하고 자원을 적절하게 사용하는 것입니다. 코랄 카레로는 소프트웨어 공학자들이 소프트웨어를 전체적으로 보아야 하며, 소프트웨어의 환경적 영향을 인식해야 한다고 주장했습니다. 소프트웨어 공학자들이 지속 가능한 소프트웨어 개발을 위해 사용할 수 있는 몇몇 도구와 프레임워크가 있습니다.
+제목: 에어비엔비가 머신러닝 기능 플랫폼 크로노를 오픈소스로 공개합니다.
+주소: https://www.infoq.com/news/2024/04/airbnb-chronon-open-sourced/
+설명: 크로노(Chronon), 에어비앤비가 原始 데이터를 ML 준비 기능으로 변환하는 데 필요한 인프라를 생성하는 플랫폼입니다. 에어비앤비 ML 인프라 공학자 Varant Zanoyan이 설명하면, 크로노는 다양한 데이터 소스를 지원하고 저지연산 스트리밍을 목표로 합니다.
 
 9 번째 검색 내용
-제목: 빌딩 SaaS를 스크래치에서 시작하여 클라우드 네이티브 패턴을 사용한 깊은 탐구: 클라우드 기반 스타트업의 소개
-
-(Note: The translation may not be perfect as it involves technical terms and specific industry jargon. Please review the translation for accuracy.)
-주소: https://www.infoq.com/news/2024/04/saas-cloud-native-qcon-london/
-설명: 조니 콜빈지, Diagrid의 창업 소프트웨어 공학자로서, QCon London에서 발표하였으며, Diagrid Cloud 플랫폼의 진화적 설계와 구현 사례 연구를 토대로 이야기했습니다.
-                     [/INST]
+제목: [INST] 지속 가능한 소프트웨어 개발을 위한 방법 [/INST]
+주소: https://www.infoq.com/news/2024/04/sustainable-software-development/
+설명: 소프트웨어 지속성은 환경 목적으로 계산을 수행하고 자원을 적절하게 사용함을 포함합니다. 코랄 캘레로 대로 따라하는 것은, 소프트웨어 엔지니어들이 소프트웨어를 전체적으로 보고 소프트웨어의 환경 영향에 대해 인식해야 한다는 것입니다. 소프트웨어 엔지니어들이 지속 가능한 소프트웨어 개발을 위해 사용할 수 있는 몇몇 도구와 프레임워크가 있습니다.
 
 10 번째 검색 내용
-제목: KubeCon EU: 머젠바엔의 Pod 보안 정책에서 검증 허가 정책으로의 마이그레이션
+제목: 빌딩 SaaS를 스크래치에서 시작하여 클라우드 네이티브 패턴을 사용하는 깊은 탐구: 클라우드 기반 스타트업의 눈에 띄는 분석
 
-(Note: The translation may not be perfect as it involves technical terms. Please review and make any necessary adjustments.)
+(Note: The translation may not be perfect, but it conveys the meaning of the original sentence.)
+주소: https://www.infoq.com/news/2024/04/saas-cloud-native-qcon-london/
+설명: 조니 콜빈지, Diagrid의 창업 소프트웨어 공학자로서, QCon London에서 발표하고 Diagrid Cloud 플랫폼의 진화적 설계와 구현 사례 연구를 토대로 논의했습니다.
+                     [/INST]
+
+11 번째 검색 내용
+제목: KubeCon EU: 머젠벤스의 Pod 보안 정책에서 검증 허가 정책으로 이전
+
+(Note: The translation may not be perfect as it involves technical terms. Please double-check the translation for accuracy.)
 주소: https://www.infoq.com/news/2024/04/kubernetes-vap-migration/
 설명: KubeCon EU에서 Mercedes Benz팀은 Pod Security Policies를 Validation Admission Policies로 변경하여 1000개 이상의 Kubernetes 클러스터를 보호하는 마이그레이션 여정을 소개했습니다. 이 솔루션은 Kyverno의 향상된 성능으로 인해 선택되었습니다.
 
-11 번째 검색 내용
+12 번째 검색 내용
 제목: 구글은 에이전트 빌더를 발표하고, 확장된 지니 1.5, 오픈소스 추가 기능을 발표합니다.
 주소: https://www.infoq.com/news/2024/04/gcn-agent-builder/
-설명: 구글 클라우드 넥스트 2024 이벤트에서는 Google이 Vertex AI Agent Builder의 출시, 공개 미리 보기로 선언된 Gemini 1.5 Pro와 열린 소스 언어 모델을 Vertex AI 플랫폼에 추가를 통지했습니다.
+설명: 구글 클라우드 넥스트 2024 이벤트에서는 Google이 Vertex AI Agent Builder의 출시, 공개 미리 보기인 Gemini 1.5 Pro가 최고의 생성형 AI 모델로 알려진 구글의 최신 버전, 그리고 Vertex AI 플랫폼에 오픈소스 언어 모델을 추가한 것을 발표했습니다.
 
-12 번째 검색 내용
-제목: Thoughtworks의 데이터와 AI 전문가 대표는 왜 강력한 데이터 제품을 만드는 것이 중요한지, 그리고 어떻게 만들 수 있는지에 대해 QCon London에서 인사이트를 공유합니다.
+13 번째 검색 내용
+제목: Thoughtworks의 데이터와 AI 전문가 대표는 QCon London에서 강력한 데이터 제품을 구축하기 위한 팁을 공유합니다.
 주소: https://www.infoq.com/news/2024/04/data-product-principles/
 설명: QCon 런던에서 발표한 Danilo Sato, Thoughtworks의 데이터 & AI 부장, 데이터 제품을 구현할 때 도메인 주도 설계와 Team Topologies 원칙을 다시 강조했습니다. 이는 데이터 책임이 "왼쪽으로" 개발자에게 이동하는 더 복잡한 환경에서 효과적인 데이터 캡슐화를 보장합니다.
 
-13 번째 검색 내용
-제목: [INST] 국가 서비스를 포함한 상태 유지 클라우드 서비스의 Neon 설계 결정과 교환 선택: 조hn Spray와의 Q&A
-                         [/INST]
-주소: https://www.infoq.com/news/2024/04/stateful-cloud-services-qcon/
-설명: 퀘론 런던에서 John Spray, neon.tech의 스토리지 엔지니어링 리드, 상태 있는 클라우드 서비스 설계의 종종 무시되는 복잡성을 다뤘습니다. Neon Serverless Postgres를 사례 연구로 사용하여 그의 세션은 컨퍼런스의 첫 번째 날에 있는 Cloud-Native Engineering 트랙의 일부였으며, InfoQ는 인터뷰를 진행했습니다.
-
 14 번째 검색 내용
-제목: QCon 런던: 트레인라인에서 마이크로 서비스 아키텍처와 기술 조직 확장
+제목: [INST] 국가별 번역결과 
 
-(Note: The given text seems to be a title or heading. In Korean, it would be written in all capital letters as per the original format.)
-주소: https://www.infoq.com/news/2024/04/trainline-architecture-evolution/
-설명: 최근 QCon London 컨퍼런스에서 Trainline의 CTO는 회사의 시스템 아키텍처와 조직 구조가 지난 5년간 발전한 것을 언급했습니다. 회사는 시장 변화와 고객 기대치의 증가로 인해 기술 플랫폼의 성능과 신뢰도를 개선하여 적응해야 했습니다.
+영어: Stateful Cloud Services at Neon Navigating Design Decisions and Trade-Offs: Q&A with John Spray
+한글: 네온의 상태 유지 클라우드 서비스를 위한 디자인 결정과 트레이드오프 탐색: 존 스프레이와의 Q&A
+[/INST]
+주소: https://www.infoq.com/news/2024/04/stateful-cloud-services-qcon/
+설명: 퀘론 런던에서 John Spray, neon.tech의 저장 엔지니어링 리드,는 무상태 클라우드 서비스 설계의 종종 무시되는 복잡성을 Neon Serverless Postgres를 사례 연구로 다뤘습니다. 세션은 첫 번째 컨퍼런스 날에 Cloud-Native Engineering 트랙의 일부로 진행되었으며, InfoQ는 인터뷰를 실시했습니다.
 
 15 번째 검색 내용
-제목: 오픈 소스의 Elastic의 OpenTelemetry SDK를 위한 .NET
+제목: QCon 런던: 트레인라인에서 마이크로 서비스 아키텍처와 기술 조직 확장
 
-(Note: The translation may not be perfect as it is a technical term. Please confirm the accuracy with a native Korean speaker if necessary.)
-주소: https://www.infoq.com/news/2024/04/elastics-open-telemetry-net/
-설명: 엘라스틱이 오픈텔레미티 SDK for .NET의 엘라스틱 분포의 알파 릴리스를 발표했습니다. 이 분포는 트레이스, 메트릭 및 로그 수집을 사전 구성합니다. 또한 이 분포는 OTLP 엑스포터가 기본적으로 활성화되도록 보장합니다. 프로젝트는 오픈소스입니다.
+(Note: The given sentence seems to be a title or heading, and it may not have a direct translation in Korean. However, I translated the main components of the sentence into Korean.)
+주소: https://www.infoq.com/news/2024/04/trainline-architecture-evolution/
+설명: 최근 QCon London 컨퍼런스에서 Trainline의 CTO는 회사의 시스템 아키텍처와 조직 구조가 지난 5년간 발전한 것을 언급했습니다. 회사는 시장 변화와 고객 기대치의 증가로 인해 기술 플랫폼의 성능과 신뢰도를 개선하여 적응해야 했습니다.
 
