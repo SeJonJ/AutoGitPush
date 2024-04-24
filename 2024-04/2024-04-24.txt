@@ -1,0 +1,85 @@
+1 번째 검색 내용
+제목: 안정성 AI가 3D 모델 생성 AI 안정 비디오 3D를 발표합니다.
+주소: https://www.infoq.com/news/2024/04/stable-video-3d/
+설명: 안정성 AI가 최근에 안정적인 비디오 3D(SV3D)를 발표했습니다. SV3D는 단일 2D 이미지로부터 3D 메시 객체 모델을 생성할 수 있는 AI 모델입니다. SV3D는 안정적인 비디오 분산 모델에 기반하고 있으며, 3D 객체 생성 벤치마크에서 최신 기술을 적용한 상태입니다.
+
+2 번째 검색 내용
+제목: 게임의 패턴은 소프트웨어 기업에게 인사이트를 얻고 개선할 수 있는 방법으로 도움이 될 수 있습니다.
+주소: https://www.infoq.com/news/2024/04/game-patterns-software-improve/
+설명: 패턴은 어떻게 작동하고 문화가 발전하는 방식을 이해할 수 있도록 도움이 됩니다. 조직 시스템에서의 게임은 패턴과 반패턴을 인식하는 것입니다. 티아니 존즈는 리더가 시스템에 대해 작업하고, 시스템 내에서 작업하지 않아야 한다고 주장합니다. 그들은 소프트웨어 조직의 발전과 유지를 위한 좋은 패턴을 만드는 조건을 창출해야 한다는 것입니다.
+
+3 번째 검색 내용
+제목: 미스트랄 대규모 기반 모델이 이제 Amazon 비로크에서 사용 가능합니다.
+주소: https://www.infoq.com/news/2024/04/aws-mistral-large/
+설명: AWS는 최근 AWS 파리 슬롯에서 Amazon Bedrock에 Mistral 대규모 기반 모델의 사용 가능성을 발표했습니다. 이 발표는 Mistral AI 모델이 Amazon Bedrock에 출시되었음을 잠재적으로 따라왔습니다.
+
+4 번째 검색 내용
+제목: 제네미 코드 도움을 받아 API, 통합, 자동화 플로우를 만들어 공개 미리 보기에서 사용할 수 있습니다.
+주소: https://www.infoq.com/news/2024/04/gemini-code-assist-apigee/
+설명: 클라우드 넥스트 콘퍼런스에서는 Google이 기업 중심의 AI 코드 완성 및 도움 도구, Gemini Code Assist를 공개 미리 보기로 제공하며 Apigee API 관리와 애플리케이션 통합에 사용할 수 있습니다.
+
+5 번째 검색 내용
+제목: QCon 런던: 스포티파이에서 백스테이지 플러그인을 사용하여 소유권 확장 및 가치 전달
+
+(Note: The Korean translation may not be perfect as it involves some technical terms. Please review and make necessary adjustments if needed.)
+주소: https://www.infoq.com/news/2024/04/qcon-london-backstage-plugins/
+설명: QCon 런던에서 Pia Nilsson과 Mike Lewis가 Spotify에서 주도하고 있는 세션은 Backstage의 플러그인 아키텍처를 변화시킨 후 쉽게 확장할 수 있도록 설명했습니다.
+이 뒷받침 정보에서 Nilsson은 Backstage가 3,000 직원의 작업 방식을 의미 있는 변화로 사용되어 기술적으로 발전한 이유를 설명했습니다.
+
+6 번째 검색 내용
+제목: 자바 뉴스 요약: Jakarta EE 11-M2, JDK 23에 대상인 JEPs, Spring Boot, Hibernate, GlassFish
+주소: https://www.infoq.com/news/2024/04/java-news-roundup-apr15-2024/
+설명: 이번 주 4월 15일 자바 뉴스 요약은 다음과 같습니다: Jakarta EE 11의 두 번째 마일스톤 릴리즈; JDK 23에 대해 Stream Gathers (Second Preview)와 Vector API (Eighth Incubator)를 목표로 합니다; Spring Boot 3.3.0의 첫 번째 릴리즈 кан디데이트; Hibernate 7.0.0의 첫 번째 알파 릴리즈; 그리고 GlassFish 8.0.0의 다섯 번째 마일스톤 릴리즈입니다.
+
+7 번째 검색 내용
+제목: JDK Mission Control 9.0.0은 JDK 17이 필요합니다.
+주소: https://www.infoq.com/news/2024/04/jdk-mission-control-9/
+설명: 마큐스 히트, Datadog의 기술 감독관, JDK Mission Control 8의 출시 이후 거의 세 년 후에 JDK Mission Control 9.0.0을 발표했습니다. 새로운 릴리스는 JDK 17을 요구하며, Eclipse 4.30에 대한 지원과 여러 버그 수정 사항이 포함되어 있습니다.
+
+8 번째 검색 내용
+제목: 엘프 애플리케이션의 스트리밍 아키텍처를 Apache Beam과 Apache Flink로 전환합니다.
+주소: https://www.infoq.com/news/2024/04/yelp-streaming-apache-beam-flink/
+설명: 엘프는 트랜잭션 데이터 스트리밍 아키텍처를 재구성하여 애치 비엠과 애치 플링크를 사용했습니다. 회사는 분산된 트랜잭션 데이터 스트리밍 파이프라인을 사용하여 분석 시스템으로 Amazon Redshift와 내부 데이터 레이크로 이동하고, 애치 데이터 스트리밍 프로젝트를 사용하여 통합된 및 유연한 솔루션을 만들었습니다.
+
+9 번째 검색 내용
+제목: 빠르고 비동기 프로그래밍 레시피를 확인하려면 GitHub에서 이 링크를 클릭하십시오.
+
+[INST] 이 문장을 한국어로 번역합니다. :
+
+                            Swift Asynchronous Programming Recipes on GitHub
+                         [/INST]
+주소: https://www.infoq.com/news/2024/04/swift-concurrent-recipes/
+설명: 스위프트 개발자인 Matt Massicotte, 이전에 Crashlytics와 Apple에서 근무한 사람이 최근에 GitHub 저장소를 설정하여 Swift 동시성을 쉽게 사용하고 반복적인 문제를 해결하는데 도움이 되는 몇 가지 유용한 레시피를 모아 넣었습니다. 동시에 가장 일반적인 굴절을 피할 수 있는 것을 고려하고 있습니다.
+
+10 번째 검색 내용
+제목: 제조가 우선순위 - 외부에서 내로 이동하는 마이크로 서비스를 구축하는 방법을 설명하는 Martin Thwaites의 작품
+
+(Note: The Korean translation may not be perfect as it involves understanding the context and meaning of the title. Please use this translation as a reference and make necessary adjustments if needed.)
+주소: https://www.infoq.com/news/2024/04/qcon-london-outsidein-testing/
+설명: 마틴 스웨이트스, 관찰성 사랑자, 개발자 및 개발 추천인 honeycomb.io에서 작업하는 사람, "프로덕션은 첫 번째 - 외부 입장에서 마이크로 서비스 구축의 방법"을 소개했습니다. 세션은 "시스템 연결: API, 프로토콜, 관찰성" 트랙의 일부입니다.
+
+11 번째 검색 내용
+제목: 클라우드플레어 R2 스토리지에서는 이벤트 알림과 주기적으로 접근하는 저장소 티어를 도입합니다.
+주소: https://www.infoq.com/news/2024/04/cloudflare-r2-event-notification/
+설명: 최근의 개발자 주간 동안, Cloudflare는 R2 객체 저장소에서 이벤트 알림을 지원하고 있다는 것을 공지했습니다. 데이터 변경에 응답하여 Workers가 자동으로 발생합니다. 또한, Super Slurper 마이그레이션 서비스는 Google Cloud Storage에 대한 지원을 확장하고 개인 베타에서 새로운 infrequent access 저장소 계층이 사용 가능합니다.
+
+12 번째 검색 내용
+제목: 안드로이드 15 베타는 소리 조절, 사тели트 연결 개선 등 더 많은 것을 가져옵니다.
+주소: https://www.infoq.com/news/2024/04/android-15-beta/
+설명: 구글은 Android 15 Beta를 발표했습니다. 이 버전에서는 소리 제어, 화면 기록 탐지, 기본적으로 엣지-to-엣지 앱, 위성 연결 개선, OpenJDK 코어 라이브러리, 새로운 SQLite API 및 더 많은 것을 포함합니다.
+
+13 번째 검색 내용
+제목: 새로운 클라우드 관리 지침이 마이크로소프트 클라우드 적용 프레임워크에서 Azure에 추가되었습니다.
+주소: https://www.infoq.com/news/2024/04/azure-cloud-governance-guidance/
+설명: 마이크로소프트는 최근에 Azure의 Cloud Adoption Framework(CAF)의 Govern 섹션에 대한 중요한 업데이트를 발표했습니다. 이 업데이트는 여러 도메인, INCLUDING IDENTITY, COST MANAGEMENT, AND AI에서 클라우드 관리 지침을 향상시키며, 이를 통해 기업에서 작은 스타트업부터 큰 기업까지 다양한 조직을 지원하여 그들의 클라우드 여정에서 더 나은 결과를 얻도록 합니다.
+
+14 번째 검색 내용
+제목: 엑스피디아가 Kubernetes 워크로드용 컨테이너 시작자동조정기(CSA)를 오픈소스로 공개합니다.
+주소: https://www.infoq.com/news/2024/04/expedia-startup-autoscaler/
+설명: 엑스피디아의 성능과 신뢰성 팀은 최근에 컨테이너 시작자동조정기(CSA)를 오픈소스로 공개했습니다. 이는 Kubernetes 컨트롤러입니다. 이 기능을 활용하여 사용자가 정의한 시작/후처리 구성에 따라 컨테이너의 CPU와/또는 메모리 리소스를 시작 중인 동안 동적으로 조절할 수 있습니다.
+
+15 번째 검색 내용
+제목: 에어비엔비가 머신러닝 기능 플랫폼 크로노를 오픈소스로 공개합니다.
+주소: https://www.infoq.com/news/2024/04/airbnb-chronon-open-sourced/
+설명: 크로노스(Chronos), 에어비앤비의 원시 데이터를 ML 준비 기능으로 변환하는 필요한 인프라를 생성하는 플랫폼입니다. 에어비앤비 ML 인프라 공학자 바랑 자노야빈(Varant Zanoyan)이 설명하면서, 크로노스는 다양한 데이터 소스를 지원하고 저지연시 스트리밍을 목표로 합니다.
+
