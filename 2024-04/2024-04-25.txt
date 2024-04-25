@@ -1,85 +1,86 @@
 1 번째 검색 내용
-제목: Azure 이벤트 그리드가 MQTT 마지막 뜻과 찬성서를 공개 미리 보기에 지원합니다.
-주소: https://www.infoq.com/news/2024/04/azure-eventgrid-lwt-preview/
-설명: 최근에는 Microsoft이 Azure Event Grid의 MQTT 브로커 기능에서 Last Will and Testament (LWT) 지원을 공개 미리 보기로 발표했습니다. 이 기능은 MQTTv3.1.1과 MQTTv5 사양에 준수됩니다.
+제목: 봄이제 스프링 아카데미 프로 콘텐츠에 대한 무료 접근을 제공합니다.
+주소: https://www.infoq.com/news/2024/04/spring-academy-pro-free/
+설명: 스프링 팀은 스프링 아카데미에서 제공하는 Pro Content를 향상시키기 위해 이전에 지불한 구독이 필요없도록 선언했습니다. 이로 인해 스프링 커뮤니티의 학습 경험이 개선됩니다. 앞으로는 새로운 콘텐츠를 제공할 계획입니다.
 
 2 번째 검색 내용
-제목: 안정성 AI가 3D 모델 생성 AI 안정 비디오 3D를 발표합니다.
-주소: https://www.infoq.com/news/2024/04/stable-video-3d/
-설명: 안정성 AI가 최근에 안정적인 비디오 3D(SV3D)를 발표했습니다. SV3D는 단일 2D 이미지로부터 3D 메시 객체 모델을 생성할 수 있는 AI 모델입니다. SV3D는 안정적인 비디오 분산 모델에 기반하며 3D 객체 생성 벤치마크에서 상태 OF-THE-ART 결과를 제공합니다.
+제목: Azure 이벤트 그리드가 MQTT 마지막 뜻과 찬성서를 공개 미리 보기에 지원합니다.
+주소: https://www.infoq.com/news/2024/04/azure-eventgrid-lwt-preview/
+설명: 최근에는 Microsoft이 Azure Event Grid의 MQTT 브로커 기능에서 Last Will and Testament (LWT) 지원을 공개 미리 보기로 발표했습니다. 이 기능은 MQTTv3.1.1과 MQTTv5 사양을 준수합니다.
 
 3 번째 검색 내용
-제목: 게임의 패턴은 소프트웨어 기업에게 인사이트를 얻고 개선할 수 있는 방법으로 도움이 될 수 있습니다.
-주소: https://www.infoq.com/news/2024/04/game-patterns-software-improve/
-설명: 패턴은 어떻게 작동하고 문화가 발전하는 방식을 이해할 수 있도록 도움이 됩니다. 조직 시스템에서의 게임은 패턴과 반-패턴을 인식하는 것입니다. 티아니 존즈에 따르면, 리더들은 시스템에 대해 작업하고 그것 안에서 작업하지 않아야 합니다. 소프트웨어 조직의 발전과 유지를 위한 좋은 패턴을 만들기 위해 조건을 창출할 것입니다.
+제목: 안정성 AI가 3D 모델 생성 AI 안정 비디오 3D를 발표합니다.
+주소: https://www.infoq.com/news/2024/04/stable-video-3d/
+설명: 안정성 AI는 최근에 단일 2D 이미지로부터 3D 메시 객체 모델을 생성할 수 있는 AI 모델인 Stable Video 3D(SV3D)를 발표했습니다. SV3D는 안정적인 비디오 분산 모델에 기반하며 3D 객체 생성 벤치마크에서 최신 기술을 생성합니다.
 
 4 번째 검색 내용
-제목: [INST] 미스트랄 대규모 기반 모델이 이제 Amazon 비로크에서 사용 가능합니다. [/INST]
-주소: https://www.infoq.com/news/2024/04/aws-mistral-large/
-설명: AWS는 최근 AWS 파리 슬롯에서 Amazon Bedrock에 Mistral 대규모 기반 모델의 사용 가능성을 발표했습니다. 이 발표는 Mistral AI 모델이 Amazon Bedrock에 출시되었음을 잠시 전에 발표된 것으로 이어졌습니다.
+제목: 게임의 패턴은 소프트웨어 기업에게 인사이트를 얻고 개선할 수 있는 방법으로 도움이 될 수 있습니다.
+주소: https://www.infoq.com/news/2024/04/game-patterns-software-improve/
+설명: 패턴은 어떻게 작동하고 문화가 발전하는 방식을 이해할 수 있도록 도움이 됩니다. 조직 시스템에서의 게임은 패턴과 반패턴을 인식하는 것입니다. 티아니 존즈는 리더가 시스템에 대해 작업하고, 시스템 내에서 작업하지 않아야 한다고 주장합니다. 그들은 소프트웨어 조직에서 좋은 패턴의 발전과 유지를 위한 조건을 창출해야 한다는 것입니다.
 
 5 번째 검색 내용
-제목: 제네미 코드 도움말을 통해 API, 통합 및 자동화 흐름을 만들어 공개 미리 보기에서 사용할 수 있습니다.
-주소: https://www.infoq.com/news/2024/04/gemini-code-assist-apigee/
-설명: 클라우드 넥스트 컨퍼런스에서 Google은 기업을 중심으로 하는 AI 코드 완성 및 도움 도구, Gemini Code Assist를 공개 미리 보기로 Apigee API Management와 Application Integration에 제공했습니다.
+제목: [INST] 미스트랄 대규모 기반 모델이 이제 Amazon 비로크에서 사용 가능합니다. [/INST]
+주소: https://www.infoq.com/news/2024/04/aws-mistral-large/
+설명: AWS는 최근 AWS 파리 슬롯에서 Amazon Bedrock에서 Mistral 대규모 기반 모델의 사용 가능성을 발표했습니다. 이 발표는 Mistral AI 모델이 Amazon Bedrock에 출시되었음을 따라 몇 일 전에 발표되었습니다.
 
 6 번째 검색 내용
-제목: QCon 런던: 스포티파이에서 백스테이지 플러그인을 사용하여 소유권 확장 및 가치 전달
-
-(Note: The given sentence seems to be a title or heading. In Korean, it would be written in the same format as above.)
-주소: https://www.infoq.com/news/2024/04/qcon-london-backstage-plugins/
-설명: QCon 런던에서 Pia Nilsson과 Mike Lewis는 Spotify의 플러그인 아키텍처를 확장하기 쉽게 진화시킨 Backstage의 세션을 주도했습니다.
-이 뒷받침 정보에서 Nilsson은, Backstage가 3000명의 직원의 작업 방식을 의미있는 변화로 바꾸기 위한 기술로 발전하는 방식을 설명했습니다.
+제목: 제네미 코드 도움이 필요하여 API, 통합, 자동화 플로우를 만들려면 공개 미리 보기에서 사용할 수 있습니다.
+주소: https://www.infoq.com/news/2024/04/gemini-code-assist-apigee/
+설명: 클라우드 넥스트 콘퍼런스에서는 Google이 기업 중심의 AI 코드 완성 및 도움 도구, Gemini Code Assist를 공개 미리 보기로 제공하며 Apigee API 관리 및 애플리케이션 통합에 사용할 수 있습니다.
 
 7 번째 검색 내용
-제목: 자바 뉴스 요약: Jakarta EE 11-M2, JDK 23에 대상인 JEPs, Spring Boot, Hibernate, GlassFish
+제목: QCon 런던: 스포티파이에서 백스테이지 플러그인을 사용하여 소유권 확장 및 가치 전달
+
+(Note: The Korean translation may not be perfect as it involves some technical terms. Please confirm the accuracy with a professional translator if necessary.)
+주소: https://www.infoq.com/news/2024/04/qcon-london-backstage-plugins/
+설명: QCon 런던에서 Pia Nilsson과 Mike Lewis는 Spotify의 플러그인 아키텍처를 확장하기 쉽게 진화시킨 Backstage의 세션을 주도했습니다.
+
+Backstage의 출현 배경에 대해 Nilsson은 3,000명의 직원이 의미있는 방식으로 작업 방식을 변화시키기 위한 기술로 Backstage가 발생하였음을 설명했습니다.
+
+8 번째 검색 내용
+제목: 자바 뉴스 요약: Jakarta EE 11-M2, JDK 23의 JEPs, Spring Boot, Hibernate, GlassFish
 주소: https://www.infoq.com/news/2024/04/java-news-roundup-apr15-2024/
 설명: 이번 주 4월 15일 자바 뉴스 요약은 다음과 같습니다: Jakarta EE 11의 두 번째 마일스톤 릴리즈; JDK 23에 대상된 Stream Gathers (Second Preview)와 Vector API (Eighth Incubator); Spring Boot 3.3.0의 첫 번째 릴리즈 кан디데이트; Hibernate 7.0.0의 첫 번째 알파 릴리즈; 그리고 GlassFish 8.0.0의 다섯 번째 마일스톤 릴리즈입니다.
 
-8 번째 검색 내용
+9 번째 검색 내용
 제목: JDK Mission Control 9.0.0은 JDK 17이 필요합니다.
 주소: https://www.infoq.com/news/2024/04/jdk-mission-control-9/
-설명: 마큼스 히트, Datadog의 기술 감독관, JDK Mission Control 8의 출시 이후 약 3년간 전달되었습니다. 새로운 릴리스는 JDK 17을 필요로하며, Eclipse 4.30에 대한 지원 및 여러 버그 수정 사항과 새로운 기능이 포함되어 있습니다.
+설명: 마큐스 히트, Datadog의 공정 부서 대표, JDK Mission Control 8의 출시 이후 약 3년간 지난 후에 JDK Mission Control 9.0.0을 발표했습니다. 새로운 릴리스는 JDK 17을 필요로하며, Eclipse 4.30의 지원과 여러 버그 수정 사항이 포함되어 있으며 새로운 기능 중 하나입니다.
 
-9 번째 검색 내용
+10 번째 검색 내용
 제목: 엘프 애플리케이션의 스트리밍 아키텍처를 Apache Beam과 Apache Flink로 전환합니다.
 주소: https://www.infoq.com/news/2024/04/yelp-streaming-apache-beam-flink/
 설명: 엘프는 트랜잭션 데이터 스트리밍 아키텍처를 재구성하여 애프로치 비임과 애프로치 플링크를 사용했습니다. 회사는 분산된 트랜잭션 데이터 스트리밍 파이프라인을 사용하여 분석 시스템으로 Amazon Redshift와 내부 데이터 레이크로 이동하고, 애프로치 데이터 스트리밍 프로젝트를 사용하여 통합된 및 유연한 솔루션을 만들었습니다.
 
-10 번째 검색 내용
+11 번째 검색 내용
 제목: [INST] 코드를 번역하지 않습니다. 대신, 제공된 문장을 한글로 번역합니다.
 
 빠른 비동기 프로그래밍 레시피는 GitHub에서 찾아보세요.
 [/INST]
 주소: https://www.infoq.com/news/2024/04/swift-concurrent-recipes/
-설명: 스위프트 개발자인 Matt Massicotte, 이전에 Crashlytics와 Apple에서 근무한 사람이 최근에 GitHub 저장소를 설정하여 Swift 동시성을 쉽게 사용하고 반복적인 문제를 해결하는데 도움이 되는 몇 가지 유용한 레시피를 모아 넣었습니다. 동시에 가장 일반적인 트랩을 피할 수 있는 것으로 인식하고 있습니다.
-
-11 번째 검색 내용
-제목: 제조가 우선순위 - 외부에서 내로 이동하는 마이크로 서비스 구축의 방법으로 Martin Thwaites
-
-(Note: The Korean translation may not be perfect as it involves translating a book title and author's name, which can have different representations depending on the context or style.)
-주소: https://www.infoq.com/news/2024/04/qcon-london-outsidein-testing/
-설명: 마틴 스웨이트스, 관찰성 사랑자, 개발자 및 개발 추천인 Honeycomb.io에서 작업하는 사람, "프로덕션은 첫 번째 - 외부 입장에서 마이크로 서비스 구축의 방법"을 소개했습니다. 세션은 "시스템 연결: API, 프로토콜, 관찰성" 트랙의 일부였습니다.
+설명: 스위프트 개발자인 Matt Massicotte, 이전에 Crashlytics와 Apple에서 근무한 사람이 최근에 GitHub 저장소를 시작하여 Swift 동기화를 쉽게 사용하고 반복적인 문제를 해결하는데 도움이 되는 몇 가지 유용한 레시피를 모아 넣었습니다. 동시에 가장 일반적인 낙관적인 부작용을 피할 수 있는 것을 고려하고 있습니다.
 
 12 번째 검색 내용
-제목: 클라우드플레어 R2 스토리지에서 이벤트 알림 및 Infrequent Access 저장소 티어 도입
+제목: 제조가 우선순위 - 마틴 스웨이트스의 마이크로서비스를 구축하는 외부에서 내부 접근 방식
 
-(Note: The translation may not be perfect as it is a technical term. Please double-check the translation for accuracy.)
-주소: https://www.infoq.com/news/2024/04/cloudflare-r2-event-notification/
-설명: 최근의 개발자 주간 동안, Cloudflare는 R2 객체 저장소가 데이터 변경에 대한 이벤트 알림을 지원하고 있다는 것을 발표했습니다. 이를 통해 Workers가 자동으로 응답합니다. 또한, Super Slurper 마이그레이션 서비스가 Google Cloud Storage에 지원을 확장하고 있으며, 개인 베타에서 새로운 infrequent access 저장소 계층이 사용 가능합니다.
+(Note: The translation may not be perfect as it is a direct translation from English to Korean. It would be better if a native Korean speaker checks and confirms the translation.)
+주소: https://www.infoq.com/news/2024/04/qcon-london-outsidein-testing/
+설명: 마틴 스웨이트스, 관찰성 사랑자, 개발자 및 개발 추천인 해컬럼브.아이오의 멤버, "프로덕션은 첫 번째 - 외부에서 내부로 접근하여 마이크로 서비스 구축"이라는 주제로 발표했습니다. 세션은 "시스템 연결: API, 프로토콜, 관찰성" 트랙의 일부입니다.
 
 13 번째 검색 내용
-제목: 안드로이드 15 베타는 소리 조절, 사тели트 연결 개선 등 다양한 기능을 제공합니다.
-주소: https://www.infoq.com/news/2024/04/android-15-beta/
-설명: 구글은 Android 15 Beta를 발표했습니다. 이 버전에서는 소리 제어, 화면 레코딩 탐지, 기본적으로 엣지-to-엣지 앱, 위성 연결 개선, OpenJDK 코어 라이브러리, 새로운 SQLite API 및 더 많은 것을 포함합니다.
+제목: 클라우드플레어 R2 스토리지에서 이벤트 알림 및 Infrequent Access 저장소 티어 도입
+
+(Note: The translation may not be perfect as it is a technical term. Please verify the accuracy if needed.)
+주소: https://www.infoq.com/news/2024/04/cloudflare-r2-event-notification/
+설명: 최근의 개발자 주간 동안, Cloudflare는 R2 객체 저장소에서 이벤트 알림을 지원하고 있음을 발표했습니다. 데이터 변경에 대한 자동 트리거로 Workers가 응답합니다. 또한, 마이그레이션 서비스 Super Slurper는 Google Cloud Storage에 지원을 확장하고 개인 베타에서 새로운 infrequent access 저장소 티어가 사용 가능합니다.
 
 14 번째 검색 내용
-제목: 새로운 클라우드 지도자 지침이 마이크로소프트 클라우드 적용 프레임워크에서 Azure에 포함되었습니다.
-주소: https://www.infoq.com/news/2024/04/azure-cloud-governance-guidance/
-설명: 마이크로소프트는 최근에 Azure의 Cloud Adoption Framework(CAF)의 Govern 섹션에 대한 유의미한 업데이트를 발표했습니다. 이 업데이트는 여러 도메인, INCLUDING IDENTITY, COST MANAGEMENT, AND AI에서 클라우드 관리 지침을 향상시키고 있으며, 이를 통해 기업의 크기에 관계없이 스타트업부터 대규모 기업까지 더 나은 기업을 지원하여 클라우드 여정에서 참가자들을 돕습니다.
+제목: 안드로이드 15 베타는 소리 조절, 사тели트 연결 개선 등 다양한 기능을 제공합니다.
+주소: https://www.infoq.com/news/2024/04/android-15-beta/
+설명: 구글은 Android 15 Beta를 발표했습니다. 이 버전에서는 소리 제어, 화면 기록 탐지, 기본적으로 엣지부터 엣지까지의 앱, 위성 연결 개선 및 OpenJDK 코어 라이브러리, 새로운 SQLite API, 그리고 더 많은 기능이 포함되었습니다.
 
 15 번째 검색 내용
-제목: 엑스피디아가 Kubernetes 워크로드용 컨테이너 시작자동조정기(CSA)를 오픈소스로 공개합니다.
-주소: https://www.infoq.com/news/2024/04/expedia-startup-autoscaler/
-설명: 엑스피디아의 성능과 신뢰성 팀은 최근에 컨테이너 시작자동조정기(CSA)를 오픈소스로 공개했습니다. 이는 Kubernetes 컨트롤러입니다. 이 기능은 Pod 리소스의 실시간 업데이트를 활용하여, 사용자가 정의한 시작/후시작 구성에 따라 컨테이너의 CPU와/또는 메모리 리소스를 동적으로 조절합니다.
+제목: 새로운 클라우드 관리 지침이 마이크로소프트 클라우드 적용 프레임워크에서 Azure에 추가되었습니다.
+주소: https://www.infoq.com/news/2024/04/azure-cloud-governance-guidance/
+설명: 마이크로소프트는 최근에 Azure의 Cloud Adoption Framework(CAF)의 Govern 섹션에 대한 유의미한 업데이트를 발표했습니다. 이 업데이트는 여러 도메인, INCLUDING IDENTITY, COST MANAGEMENT, AND AI에서 클라우드 관리 지침을 향상시키고 있으며, 이를 통해 기업의 크기가 작은 스타트업부터 큰 기업까지 더 나은 기업을 지원하여 클라우드 여정에서 도움을 줄입니다.
 
