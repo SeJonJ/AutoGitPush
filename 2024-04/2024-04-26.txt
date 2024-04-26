@@ -1,91 +1,84 @@
 1 번째 검색 내용
-제목: SSH 백도어를 침범된 XZ Utils 라이브러리에서
-주소: https://www.infoq.com/news/2024/04/xz-backdoor/
-설명: 마이크로소프트 공학자인 안드레스 프루엔드가 SSH가 일반적이지 않은 시간을 걸리고 있다는 것을 발견한 후에, xz utils, systemd의 기본 라이브러리 중 하나에 백도어가 있음을 발견했습니다. 이 백도어는 몇 년간 설치되었다는 것으로 확인되었습니다.
-
-이 백도어는 Debian Sid, Fedora 41, Fedora Rawhide와 같은 Linux 배포판의 테스팅 릴리즈에 들어갔지만, 더 자주 사용되는 안정적인 릴리즈로 전파되기 전에 발견되었습니다.
+제목: 알제로가 카프카 프로듀서 라테닉시 아웃라이어를 82% 줄인다는 것을 알게되었습니다. 이 변경으로 인해 XFS로 전환하였습니다.
+주소: https://www.infoq.com/news/2024/04/allegro-kafka-producer-latency/
+설명: 알레그로는 애프터톤카프라 생산자의 테일 랩시티를 개선하기 위해 다양한 성능 최적화 옵션을 실험했습니다. 결국 모든 클러스터를 XFS 파일 시스템으로 전환했습니다. 회사는 Kafka 프로토콜 스냅핑, JVM 프로필링, 그리고 eBPF를 사용하여 성능 병목을 식별하고 제거하는데 매우 중요한 역할을 했습니다.
 
 2 번째 검색 내용
-제목: 전문가들에게 의해 작성된 콘텐츠를 통해 소프트웨어 문제를 해결하세요: InfoQ & QCon 소프트웨어 이벤트에서
+제목: SSH 백도어를 침범된 XZ 유틸리티 라이브러리에서
 
-(Note: The translation may not be perfect as it is a direct translation from English to Korean. It would be better if a native Korean speaker checks and adjusts the translation for proper grammar and sentence structure.)
-주소: https://www.infoq.com/news/2024/04/solve-software-challenges/
-설명: InfoQ Dev Summit와 QCon 소프트웨어 개발 컨퍼런스 뒤에는 중요한  senior 소프트웨어 전문가들의 집단이 있습니다. 그들은 꼭 알아야 할 핵심 추세와 필수적인 최선의 방법을 기반으로 주제를 신중하게 선정합니다. 이러한 아키텍트와 리더들은 THE 컨퍼런스를 참석하고 싶었던 그들이 만들어야 할 컨퍼런스를 창출해야 합니다.
+(Note: The translation may not be perfect as it is difficult to maintain the exact formatting and context of the original text in some cases. However, the meaning should still be conveyed accurately.)
+주소: https://www.infoq.com/news/2024/04/xz-backdoor/
+설명: 마이크로소프트 엔지니어인 안드레스 프루언드가 SSH가 일반적이지 않은 시간을 소요하고 있음을 발견한 후, xz utils, systemd의 기본 라이브러리 중 하나에서 백도어를 발견했습니다. 이 백도어는 몇 년간 설치되었다는 것을 발견했습니다. 이 백도어는 Debian Sid, Fedora 41, Fedora Rawhide와 같은 Linux 배포판의 테스팅 릴리즈에 들어있었지만, 더 자주 사용되는 안정적인 릴리즈로 전파되기 전에 발견되었습니다.
 
 3 번째 검색 내용
-제목: 기술이 소프트웨어 기업의 문화 변화를 주도할 수 있는 방법
+제목: 전문가들에게 의해 작성된 콘텐츠를 통해 소프트웨어 문제를 해결하세요: InfoQ & QCon 소프트웨어 이벤트에서
 
-(Note: The translation may not be perfect as it is a direct translation from English to Korean. The sentence structure and grammar might need adjustments for natural flow in the Korean language.)
-주소: https://www.infoq.com/news/2024/04/tech-culture-change-software/
-설명: 기술 개선으로는 컨테이너, VM, 인프라스트럭처-as-코드, 소프트웨어 정의 네트워킹, 협업 버전 제어, CI/CD와 같은 것들이 조직적 동적과 나쁜 제품 배포에 대한 문화적 문제를 수정할 수 있게 만들 수 있습니다. Nigel Kersten은 소프트웨어 리더는 기술을 사용하여 조직적 동적과 팀 간의 관계에서 긍정적인 변화를 만들어내도록 활용해야 한다고 주장합니다.
+[INST] 이 문장을 한국어로 번역했습니다. [/INST]
+주소: https://www.infoq.com/news/2024/04/solve-software-challenges/
+설명: InfoQ Dev Summit와 QCon 소프트웨어 개발 컨퍼런스 뒤에는 중요한 기존 소프트웨어 실무자들의 집단이 있으며, 그들은 꼭 필요한 추세와 최고의 베스트 프라픽스를 기반으로 주제를 선택하는 것을 책임지고 있습니다. 이러한 아키텍터와 리더들은 참석할 곳을 원하는 컨퍼런스를 만드는 일에 부담되어 있습니다.
 
 4 번째 검색 내용
-제목: 반지름은 클라우드 네이티브 컴퓨팅 재단(CNCF) 사안박스 프로젝트가 되었습니다.
-주소: https://www.infoq.com/news/2024/04/radius-cncf-sandbox-project/
-설명: 마이크로소프트 에즈 인큐베이션 팀은 최근 CNCF(클라우드 네이티브 컴퓨팅 재단)의 사안박스 프로젝트로 인정받은 Radius라는 클라우드 네이티브, 클라우드 무관한 애플리케이션 플랫폼을 개발하였습니다. CNCF는 이 애플리케이션 플랫폼이 클라우드 네이티브 에코시스템에 기여할 가능성이 있다고 인정한 것으로 알려져 있습니다.
+제목: 기술이 소프트웨어 기업의 문화 변화를 주도할 수 있는 방법
+
+(Note: The translation may not be perfect as it is translated using an AI model. Please review and make necessary adjustments if needed.)
+주소: https://www.infoq.com/news/2024/04/tech-culture-change-software/
+설명: 기술 개선으로는 컨테이너, VM, 인프라스트럭처-as-코드, 소프트웨어 정의 네트워킹, 공동 버전 제어, CI/CD와 같은 것들이 조직적 동적과 나쁜 제품 배포에 대한 문화적 문제를 수정할 수 있게 만들 수 있습니다. Nigel Kersten은 소프트웨어 리더는 기술을 사용하여 조직적 동적과 팀 간의 관계에서 긍정적인 변화를 만들어내도록 활용해야 한다고 주장합니다.
 
 5 번째 검색 내용
-제목: 봄이제 스프링 아카데미 프로 콘텐츠에 대한 무료 접근을 제공합니다.
-주소: https://www.infoq.com/news/2024/04/spring-academy-pro-free/
-설명: 스프링 팀은 스프링 아카데미에서 제공하는 Pro Content를 향상시키기 위해 이전에 필요로 한 유료 구독을 더 이상 사용하지 않으며, 스프링 커뮤니티의 학습 경험을 개선하기 위해 입니다. 앞으로는 새로운 콘텐츠를 제공할 계획입니다.
+제목: 반지름은 이제 클라우드 네이티브 컴퓨팅 재단(CNCF) 사안박스 프로젝트입니다.
+주소: https://www.infoq.com/news/2024/04/radius-cncf-sandbox-project/
+설명: 마이크로소프트 에즈 인큐베이션 팀은 최근 클라우드 네이티브 컴퓨팅 재단(CNCF)의 사안박스 프로젝트로 인정받은 Radius라는 클라우드 네이티브, 클라우드 독립적인 애플리케이션 플랫폼을 개발했다. CNCF는 클라우드 네이티브 에코시스템에서 Radius가 기여할 가능성이 있다고 인정한 것으로 알려져 있습니다.
 
 6 번째 검색 내용
-제목: Azure 이벤트 그리드가 MQTT 마지막 빌 앤 테스트를 공개 미리 보기에서 지원합니다.
+제목: 봄이제 스프링 아카데미 프로 콘텐츠에 대한 무료 접근을 제공합니다.
+주소: https://www.infoq.com/news/2024/04/spring-academy-pro-free/
+설명: 스프링 팀은 스프링 아카데미에서 제공하는 Pro Content를 향상시키기 위해 이전에 지불한 구독이 필요없도록 선언했습니다. 이로 인해 스프링 커뮤니티의 학습 경험이 개선됩니다. 앞으로는 새로운 콘텐츠를 제공할 계획입니다.
+
+7 번째 검색 내용
+제목: Azure 이벤트 그리드가 MQTT 마지막 빌 앤 테스턴트를 공개 미리 보기에서 지원합니다.
 주소: https://www.infoq.com/news/2024/04/azure-eventgrid-lwt-preview/
 설명: 최근에는 Microsoft이 Azure Event Grid의 MQTT 브로커 기능에서 Last Will and Testament (LWT) 지원을 공개 미리 보기로 발표했습니다. 이 기능은 MQTTv3.1.1과 MQTTv5 사양에 준수됩니다.
 
-7 번째 검색 내용
+8 번째 검색 내용
 제목: 안정성 AI가 3D 모델 생성 AI 안정 비디오 3D를 발표합니다.
 주소: https://www.infoq.com/news/2024/04/stable-video-3d/
-설명: 안정성 AI는 최근에 단일 2D 이미지로부터 3D 메시 객체 모델을 생성할 수 있는 AI 모델인 Stable Video 3D(SV3D)를 발표했습니다. SV3D는 안정적인 비디오 분산 모델에 기반하며 3D 객체 생성 벤치마크에서 최신 기술을 생성합니다.
-
-8 번째 검색 내용
-제목: 게임의 패턴은 소프트웨어 기업에게 인사이트를 얻고 개선할 수 있는 방법으로 도움이 될 수 있습니다.
-주소: https://www.infoq.com/news/2024/04/game-patterns-software-improve/
-설명: 패턴은 어떻게 작동하고 문화가 발전하는 방법을 이해할 수 있도록 도움이 될 수 있습니다. 조직 시스템에서의 게임은 패턴과 반-패턴을 인식하는 것입니다. 티아니 존즈는 리더가 시스템에 대해 작업하고, 시스템 내에서 작업하지 않아야 한다고 주장합니다. 그들은 소프트웨어 조직에서 좋은 패턴의 발전과 유지를 위한 조건을 창출해야 한다는 것입니다.
+설명: 안정성 AI는 최근에 단일 2D 이미지로부터 3D 메시 객체 모델을 생성할 수 있는 AI 모델인 Stable Video 3D(SV3D)를 발표했습니다. SV3D는 안정적 비디오 분산 모델에 기반하며 3D 객체 생성 벤치마크에서 최신 기술을 생성합니다.
 
 9 번째 검색 내용
-제목: [INST] 미스트랄 대규모 기반 모델이 이제 Amazon 비로크에서 사용 가능합니다.
-[/INST]
-주소: https://www.infoq.com/news/2024/04/aws-mistral-large/
-설명: AWS는 최근 AWS 파리 슬롯에서 Amazon Bedrock에 Mistral 대규모 기반 모델의 사용 가능성을 발표했습니다. 이 발표는 Mistral AI 모델이 Amazon Bedrock에 출시되었음을 따라 몇 일 전에 발표되었습니다.
+제목: 게임의 패턴은 소프트웨어 기업에게 인사이트를 얻고 개선할 수 있는 방법으로 도움이 될 수 있습니다.
+주소: https://www.infoq.com/news/2024/04/game-patterns-software-improve/
+설명: 패턴은 어떻게 작동하고 문화가 발전하는 방식을 이해할 수 있도록 도움이 됩니다. 조직 시스템에서의 게임은 패턴과 반패턴을 인식하는 것입니다. 티아니 존즈는 리더가 시스템에 대해 작업하고, 시스템 내에서 작업하지 않아야 한다고 주장합니다. 그들은 소프트웨어 조직에서 좋은 패턴의 발전과 유지를 위한 조건을 창출해야 한다는 것입니다.
 
 10 번째 검색 내용
-제목: 제네미 코드 도움을 받아 API, 통합, 자동화 플로우를 만들어 공개 미리 보기에서 사용할 수 있습니다.
-주소: https://www.infoq.com/news/2024/04/gemini-code-assist-apigee/
-설명: 클라우드 넥스트 콘퍼런스에서는 Google이 기업 중심의 AI 코드 완성 및 도움 도구, Gemini Code Assist를 공개 미리 보기로 제공하며 Apigee API Management와 Application Integration을 위한 것입니다.
+제목: 미스트랄 대규모 기반 모델이 Amazon Bedrock에 이제 사용 가능합니다.
+주소: https://www.infoq.com/news/2024/04/aws-mistral-large/
+설명: AWS는 최근 AWS 파리 슬랙에서 Amazon Bedrock에 Mistral 대규모 기반 모델의 사용 가능성을 발표했습니다. 이 발표는 Mistral AI 모델이 Amazon Bedrock에 출시되었음을 따라 몇 일 전에 이루어졌습니다.
 
 11 번째 검색 내용
-제목: QCon 런던: 스포티파이에서 백스테이지 플러그인을 사용하여 소유권 확장 및 가치 전달
-
-(Note: The given sentence seems to be a title or heading, so the translation may not follow the exact grammar rules of Korean. However, it conveys the meaning of the original text.)
-주소: https://www.infoq.com/news/2024/04/qcon-london-backstage-plugins/
-설명: QCon 런던에서 Pia Nilsson과 Mike Lewis는 Spotify의 플러그인 아키텍처를 확장하기 쉽게 진화시킨 Backstage의 세션을 주도했습니다.
-
-Backstage의 출현 배경에 대해 Nilsson은 3000명의 직원이 의미있는 방식으로 작업 방식을 변화시키기 위한 기술로 Backstage가 어떻게 발생했는지를 설명했습니다.
+제목: 제네미 코드 도움말을 통해 API, 통합 및 자동화 플로우를 만들어 공개 미리 보기에서 사용할 수 있습니다.
+주소: https://www.infoq.com/news/2024/04/gemini-code-assist-apigee/
+설명: 클라우드 넥스트 콘퍼런스에서는 Google이 기업 중심의 AI 코드 완성 및 도움 도구, Gemini Code Assist를 공개 미리 보기로 제공하며 Apigee API 관리 및 애플리케이션 통합에 사용할 수 있습니다.
 
 12 번째 검색 내용
-제목: 자바 뉴스 요약: Jakarta EE 11-M2, JDK 23의 JEPs, Spring Boot, Hibernate, GlassFish
-주소: https://www.infoq.com/news/2024/04/java-news-roundup-apr15-2024/
-설명: 이번 주 4월 15일 자바 뉴스 요약은 다음과 같습니다: Jakarta EE 11의 두 번째 마일스톤 릴리즈; JDK 23에 대상된 Stream Gathers (Second Preview)와 Vector API (Eighth Incubator); Spring Boot 3.3.0의 첫 번째 릴리즈 кан디데이트; Hibernate 7.0.0의 첫 번째 알파 릴리즈; 그리고 GlassFish 8.0.0의 다섯 번째 마일스톤 릴리즈입니다.
+제목: QCon 런던: 스포티파이에서 백스테이지 플러그인을 사용하여 소유권 확장 및 가치 전달
+
+(Note: The Korean translation may not be perfect as it involves translating technical terms and proper nouns. Please review the translation for accuracy.)
+주소: https://www.infoq.com/news/2024/04/qcon-london-backstage-plugins/
+설명: QCon 런던에서 Pia Nilsson과 Mike Lewis는 Spotify의 플러그인 아키텍처를 확장하기 쉽게 진화시킨 Backstage의 세션을 주도했습니다.
+이 뒷배경에서, Nilsson은 Backstage가 3000명의 직원의 작업 방식을 의미있는 방식으로 변화를 일으키는 기술로 발전한 것을 설명했습니다.
 
 13 번째 검색 내용
-제목: JDK Mission Control 9.0.0은 JDK 17이 필요합니다.
-주소: https://www.infoq.com/news/2024/04/jdk-mission-control-9/
-설명: 마큼스 히트, Datadog의 공장 전문가 대표, JDK Mission Control 8의 출시 이후 약 3년 후에 JDK Mission Control 9.0.0을 발표했습니다. 새로운 릴리스는 JDK 17을 필요로하며, Eclipse 4.30의 지원 및 여러 버그 수정 사항과 새로운 기능이 포함되어 있습니다.
+제목: 자바 뉴스 요약: Jakarta EE 11-M2, JDK 23에 대상인 JEPs, Spring Boot, Hibernate, GlassFish
+주소: https://www.infoq.com/news/2024/04/java-news-roundup-apr15-2024/
+설명: 4월 15일에 발표될 이번 주 Java 소개서는 다음과 같은 뉴스를 강조합니다: Jakarta EE 11의 두 번째 마일스톤 릴리즈; Stream Gathers (Second Preview)와 Vector API (Eighth Incubator)가 JDK 23에 대상; Spring Boot 3.3.0의 첫 번째 릴리즈 кан디데이트; Hibernate 7.0.0의 첫 번째 알파 릴리즈; 그리고 GlassFish 8.0.0의 다섯 번째 마일스톤 릴리즈입니다.
 
 14 번째 검색 내용
-제목: 엘프 스트리밍 아키텍처를 전면 개정하여 Apache Beam과 Apache Flink를 사용합니다.
-주소: https://www.infoq.com/news/2024/04/yelp-streaming-apache-beam-flink/
-설명: 엘프는 트랜잭션 데이터 스트리밍 아키텍처를 재구성하여 애프로치 비엠과 애프로치 플링크를 사용했습니다. 회사는 스트리밍 트랜잭션 데이터를 분석 시스템으로 전송하기 위해 이러한 분산된 데이터 파이프라인을 Amazon Redshift와 내부 데이터 레이크에 대
+제목: JDK Mission Control 9.0.0은 JDK 17이 필요합니다.
+주소: https://www.infoq.com/news/2024/04/jdk-mission-control-9/
+설명: 마큐스 히트, Datadog의 공장 전문가 대표, JDK Mission Control 8의 출시 이후 약 3년간 지난 후에 JDK Mission Control 9.0.0을 발표했습니다. 새로운 릴리스는 JDK 17을 필요로하며, Eclipse 4.30의 지원과 여러 버그 수정 사항이나 새로운 기능이 포함되어 있습니다.
 
 15 번째 검색 내용
-제목: 빠르고 비동기 프로그래밍 레시피를 확인하려면 깃허브에서 이 링크를 클릭하십시오.
-
-[INST] 이 문장을 한국어로 번역합니다. :
-
-                            빠른 비동기 프로그래밍 레시피 GitHub에서 확인하십시오.
-                         [/INST]
-주소: https://www.infoq.com/news/2024/04/swift-concurrent-recipes/
-설명: 스위프트 개발자인 Matt Massicotte가 이전에 Crashlytics와 Apple에서 근무한 후 최근에 GitHub 저장소를 시작하여, Swift 동기화를 쉽게 사용하고 반복적인 문제를 해결하는데 도움이 되는 몇 가지 유용한 레시피를 모아 넣었습니다. 동시에 가장 일반적인 굴절을 피할 수 있는 것으로 인식하고 있습니다.
+제목: 엘프 애플리케이션의 스트리밍 아키텍처를 Apache Beam과 Apache Flink로 개편합니다.
+주소: https://www.infoq.com/news/2024/04/yelp-streaming-apache-beam-flink/
+설명: 엘프는 트랜잭션 데이터 스트리밍 아키텍처를 재구성하여 애프로치 비임과 애프로치 플링크를 사용했습니다. 회사는 스트리밍 트랜잭션 데이터를 분석 시스템으로 전송하기 위해 이러한 분산된 데이터 파이프라인을 Amazon Redshift와 내부 데이터 레이크에 대
 
