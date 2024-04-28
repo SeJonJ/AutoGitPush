@@ -1,0 +1,88 @@
+1 번째 검색 내용
+제목: [INST] 레드햇 오픈쉬프트 Q1 2024 개선 사항 소개 [/INST]
+주소: https://www.infoq.com/news/2024/04/redhat-openshift-2024-q1/
+설명: 레드햇은 레드햇 오픈쉬프트 4.15를 기반으로 Kubernetes 1.28과 CRI-O 1.28을 사용하여 일반적으로 사용할 수 있도록 공지했습니다. 레드햇 오픈쉬프트는 개발자와 DevOps가 애플리케이션을 빌드하고 배포할 수 있는 애플리케이션 플랫폼입니다.
+
+2 번째 검색 내용
+제목: 아쉬론 프로세서: 구글이 첫 번째 ARM 기반 CPU 발표
+
+(Note: The translation may not be perfect as it is a machine translation. Please check the grammar and context before using it.)
+주소: https://www.infoq.com/news/2024/04/google-axion-processor-arm/
+설명: 최근 Google Next '24 회의에서는 Google이 데이터 센터에 특화된 첫 번째 Arm 기반 CPU, Axion을 공개했습니다. Arm Neoverse V2 CPU 아키텍처를 사용하여 새로운 프로세서는 이 해에 고객에게 제공될 것입니다.
+
+3 번째 검색 내용
+제목: 라칼 그레이브스는 QCon 런던에서: 모рал적인 AI는 데이터 보안 사고의 영향을 줄일 수 있습니다.
+주소: https://www.infoq.com/news/2024/04/ethical-ai-data-minisation/
+설명: QCon 런던에서 Rachael Greaves, Castle Systems의 대표 이사, 데이터 최소화를 통한 방법으로 데이터 유출의 영향을 줄이는 의무와 이점을 발표했습니다. AI 자동 분류 도구와 자동 결정 도구는 데이터 볼륨이 증가함에 따라 기존의 도구로는 어려움을 겪을 때 도움이 됩니다. 그러나  эти 원칙을 고려하지 않으면 결정을 도전할 수 없습니다.
+
+4 번째 검색 내용
+제목: 제트브레인스가 개발 도구를 관리하는 것을 간소화하기 위해 IDE 서비스 출시
+
+(Note: The translation may not be perfect as it is a machine translation. Please review and make any necessary adjustments.)
+주소: https://www.infoq.com/news/2024/04/jetbrains-ide-services-ga/
+설명: 제트브레인 IDE 서비스는 기업이 제트브레인 도구 에코시스템을 더 효율적으로 관리하고 개발자의 생산성을 엔터프라이즈 수준에서 높이는 데 도움이 되기 위해 AI, 원격 협업 등과 통합됩니다.
+
+5 번째 검색 내용
+제목: .NET Aspire Preview 6: 보안 및 테스트 향상, 새로운 기능 추가 및 더 많은 것들
+
+(Note: The translation may not be perfect as it is a direct translation from English to Korean. It would be better if a native Korean speaker checks and adjusts the translation for proper grammar and sentence structure.)
+주소: https://www.infoq.com/news/2024/04/dotnet-aspire-preview6-released/
+설명: 이번 주 Microsoft는 .NET Aspire 프로젝트의 Preview 6를 발표했습니다. 플랫폼의 안전성과 신뢰도를 향상시키기 위해 의미있는 변경 사항이 구현되었습니다. 이 릴리스, 버전 8.0.0-preview.6.24214.1은 템플릿, 컴포넌트, 대시보드, 테스팅과 같은 다양한 영역에서 중요한 추가 사항을 소개합니다.
+
+6 번째 검색 내용
+제목: 알제로가 카프카 프로듀서 라테닉시 아웃라이어를 82% 줄인 후 스위치를 XFS로 변경합니다.
+주소: https://www.infoq.com/news/2024/04/allegro-kafka-producer-latency/
+설명: 알레그로는 애틱스카프라 생산자의 테일 랩시티를 개선하기 위해 다양한 성능 최적화 옵션을 실험했습니다. 결국 모든 클러스터를 XFS 파일 시스템으로 전환했습니다. 회사는 Kafka 프로토콜 스냅핑, JVM 프로파일링 및 eBPF를 사용하여 성능 병목을 식별하고 제거하는데 매우 중요한 역할을 했습니다.
+
+7 번째 검색 내용
+제목: SSH 백도어는 손상된 XZ Utils 라이브러리에서 얻음
+[INST] Translate my sentence into Korean :
+
+                            SSH Backdoor from Compromised XZ Utils Library
+                         [/INST]
+주소: https://www.infoq.com/news/2024/04/xz-backdoor/
+설명: 마이크로소프트 공학자인 안드레스 프루엔드가 SSH가 일반적이지 않은 시간을 걸리고 있음을 발견하면서, xz utils라는 시스템d의 기본 라이브러리 중 하나에 백도어가 존재함을 발견했습니다. 이 백도어는 몇 년간 설치되었다는 것으로 확인되었습니다.
+이 백도어는 Debian Sid, Fedora 41, Fedora Rawhide와 같은 Linux 배포판의 테스팅 릴리즈에 들어갔지만, 더 자주 사용되는 안정적인 릴리즈로 전파되기 전에 발견되었습니다.
+
+8 번째 검색 내용
+제목: 전문가들에게 의해 전문가들에게 작성됨: InfoQ & QCon 소프트웨어 이벤트에서 소프트웨어 문제를 해결하십시오.
+주소: https://www.infoq.com/news/2024/04/solve-software-challenges/
+설명: InfoQ Dev Summit와 QCon 소프트웨어 개발 컨퍼런스 뒤에는 중요한 고급 소프트웨어 실무자들의 모임이 있으며, 그들은 꼭 필요한 추세와 최고의 기술을 선택하여 주제를 조직합니다. 이러한 아키텍트와 리더는 참석할 가치 있는 컨퍼런스를 만들어내야 한다는 업무에 부응하고 있습니다.
+
+9 번째 검색 내용
+제목: 기술이 소프트웨어 기업의 문화 변화를 주도할 수 있는 방법
+
+(Note: The translation may not be perfect as it is a direct translation from English to Korean. It would be better if the sentence was restructured to fit the Korean language structure.)
+주소: https://www.infoq.com/news/2024/04/tech-culture-change-software/
+설명: 기술 개선으로는 컨테이너, VM, 인프라스트럭처-as-코드, 소프트웨어 정의 네트워킹, 협력형 버전 제어, CI/CD와 같은 것들이 조직적 동적과 나쁜 제품 배포에 대한 문화적 문제를 수정할 수 있게 만들 수 있습니다. Nigel Kersten은 소프트웨어 리더는 기술을 사용하여 조직적 동적과 팀 간의 관계에서 긍정적인 변화를 만들어내도록 활용해야 한다고 주장합니다.
+
+10 번째 검색 내용
+제목: 반지름은 현재 클라우드 네이티브 컴퓨팅 재단(CNCF) 사안박스 프로젝트입니다.
+주소: https://www.infoq.com/news/2024/04/radius-cncf-sandbox-project/
+설명: 마이크로소프트 에즈 인큐베이션 팀은 최근 CNCF(클라우드 네이티브 컴퓨팅 재단)의 사안박스 프로젝트로 인정받은 Radius라는 클라우드 네이티브, 클라우드 무관한 응용 플랫폼을 개발하고 있다. CNCF는 이 솔루션의 클라우드 네이티브 에코시스템에 기여할 가능성이 있다고 인정한 것으로 알려져 있습니다.
+
+11 번째 검색 내용
+제목: 봄이제 스프링 아카데미 프로 콘텐츠에 대한 무료 접근을 제공합니다.
+주소: https://www.infoq.com/news/2024/04/spring-academy-pro-free/
+설명: 스프링 팀은 스프링 아카데미에서 제공하는 Pro Content를 향상시키기 위해 이전에 지불한 구독이 필요없도록 선언했습니다. 이로 인해 스프링 커뮤니티의 학습 경험이 개선됩니다. 앞으로는 새로운 콘텐츠를 제공할 계획입니다.
+
+12 번째 검색 내용
+제목: Azure 이벤트 그리드가 MQTT 마지막 빌 앤 테스트를 공개 미리 보기에서 지원합니다.
+주소: https://www.infoq.com/news/2024/04/azure-eventgrid-lwt-preview/
+설명: 최근에는 Microsoft이 Azure Event Grid의 MQTT 브로커 기능에서 Last Will and Testament (LWT) 지원을 공개 미리 보기로 발표했습니다. 이 기능은 MQTTv3.1.1과 MQTTv5 사양에 준수됩니다.
+
+13 번째 검색 내용
+제목: 안정성 AI가 3D 모델 생성 AI 안정 비디오 3D를 발표합니다.
+주소: https://www.infoq.com/news/2024/04/stable-video-3d/
+설명: 안정성 AI가 최근에 안정적인 비디오 3D(SV3D)를 출시했습니다. SV3D는 단일 2D 이미지로부터 3D 메쉬 객체 모델을 생성할 수 있는 AI 모델입니다. SV3D는 안정적인 비디오 분산 모델에 기반하며 3D 객체 생성 벤치마크에서 최신 기술을 생성합니다.
+
+14 번째 검색 내용
+제목: 게임의 패턴은 소프트웨어 기업에게 인사이트를 얻고 개선할 수 있는 방법으로 도움이 될 수 있습니다.
+주소: https://www.infoq.com/news/2024/04/game-patterns-software-improve/
+설명: 패턴은 것들이 어떻게 작동하고 문화가 발전함을 이해할 수 있도록 도움이 됩니다. 조직 시스템에서의 게임은 패턴과 반-패턴을 인식하는 것입니다. 티아니 존즈에 따르면, 리더들은 시스템에 있어서 작업하지 않고 시스템 자체를 개선해야 하며, 소프트웨어 조직의 발전과 유지보수에 좋은 패턴을 만들기 위한 조건을 창출해야 합니다.
+
+15 번째 검색 내용
+제목: 미스트랄 대형 기반 모델이 Amazon Bedrock에 이제 사용 가능합니다.
+주소: https://www.infoq.com/news/2024/04/aws-mistral-large/
+설명: AWS는 최근 AWS 파리 슬롯에서 Amazon Bedrock에 Mistral 대규모 기반 모델의 사용 가능성을 발표했습니다. 이 발표는 Mistral AI 모델이 Amazon Bedrock에 출시된 일자 후에 몇 일 지난 것입니다.
+
