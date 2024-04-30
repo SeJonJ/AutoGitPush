@@ -1,0 +1,85 @@
+1 번째 검색 내용
+제목: 자바 뉴스 요약: 와일드플라이 32, JEPs 제안을 JDK 23에 대상으로 설정, 하이버네이트 6.5, 잡런럿 7.1
+주소: https://www.infoq.com/news/2024/04/java-news-roundup-apr22-2024/
+설명: 이번 주 4월 22일 자바 뉴스 요약에는 다음과 같은 소식을 강조합니다: WildFly 32의 출시; JEP 476, 모듈 가져오기 선언(미리보기), JEP 474, ZGC: 세대 기본 모드, 그리고 JEP 467, Markdown 문서 주석이 제안되어 JDK 23에 대상으로 대상지정되었습니다; Hibernate ORM 6.5; 그리고 JobRunr 7.1입니다.
+
+2 번째 검색 내용
+제목: 네틱플릭스는 엘라스틱서치 퍼커레이트 쿼리를 사용하여 역방향 검색을 효율적으로 구현합니다.
+주소: https://www.infoq.com/news/2024/04/netflix-percolate-queries/
+설명: 넷플릭스 엔지니어들은 최근에 Elasticsearch Percolate Queries를 사용하여 연결된 그래프의 엔티티를 "역방향 검색"으로 쿼리한다는 방법을 발표했습니다. 역방향 검색은 문서가 쿼리와 일치하는 것을 찾는 대신, 문서를 일치하는 쿼리를 찾는 것을 의미합니다. 이러한 기능은 구독자와 구독되는 엔티티 간에 직접적인 연결이 없는 동적인 구독 시나리오에서 유용하게 사용됩니다.
+
+3 번째 검색 내용
+제목: 메타는 미술 현실 메타 호리즌 OS를 제3자에게 공유합니다.
+주소: https://www.infoq.com/news/2024/04/meta-opens-meta-horizon-quest/
+설명: 메타는 메타퀘스트 장치를 운영하는 데 사용되는 운영 체제를 응용 프로그램을 더 넓은 대상으로 개발자들이 쉽게 만들 수 있도록 제3자 하드웨어 제조업체에게 열어 주고, 큰 생태계를 창출하는 것을 목표로 합니다.
+
+4 번째 검색 내용
+제목: 신뢰할 수 있는 웹 앱 패턴: 이제 Azure 마이그레이션을 최적화하며, 향상된 인프라와 보안 기능을 포함합니다.
+주소: https://www.infoq.com/news/2024/04/reliable-web-app-pattern-updates/
+설명: 마이크로소프트는 .NET 웹 앱에 대한 Azure 마이그레이션을 더 쉽게 하기 위해 생산 인프라와 네트워크 보안을 개선하기 위한 사용자 피드백에 따른 업데이트를 포함한 .NET Reliable Web App (RWA) 패턴의 업데이트를 발표했습니다.
+
+5 번째 검색 내용
+제목: [INST] 델빗넥스 2024는 자바 개발자 컨퍼런스의 20년간의 기념식을 축하합니다. [/INST]
+주소: https://www.infoq.com/news/2024/04/devnexus-2024/
+설명: 20년차 기념식으로 Devnexus 2024는 2024년 4월 9일부터 11일까지 조지아 월드 콘гре스 센터에서 진행되었습니다. 이 이벤트에서는 Java 커뮤니티의 발표자들이 워크숍과 토픽 트랙인 아기리; 아키텍처; 인공지능; 클라우드 기술; 코어 자바; 재키아 이이; 코어 자바; 및 보안과 관련된 워크숍과 발표를 진행했습니다.
+
+6 번째 검색 내용
+제목: [INST] 레드햇 오픈쉬프트 Q1 2024 개선 사항 소개 [/INST]
+주소: https://www.infoq.com/news/2024/04/redhat-openshift-2024-q1/
+설명: 레드햇은 레드햇 오픈쉬프트 4.15를 기반으로 Kubernetes 1.28과 CRI-O 1.28을 사용하여 일반적으로 사용할 수 있도록 공지했습니다. 레드햇 오픈쉬프트는 개발자와 DevOps가 애플리케이션을 빌드하고 배포할 수 있는 애플리케이션 플랫폼입니다.
+
+7 번째 검색 내용
+제목: Axion Processor: 구글이 첫 번째 ARM 기반 CPU를 발표합니다.
+주소: https://www.infoq.com/news/2024/04/google-axion-processor-arm/
+설명: 최근 Google Next '24 회의에서는 Google이 데이터 센터에 특화된 첫 번째 Arm 기반 CPU, Axion을 공개했습니다. Arm Neoverse V2 CPU 아키텍처를 사용하여 새로운 프로세서는 이 해에 고객에게 제공될 것입니다.
+
+8 번째 검색 내용
+제목: 라칼 그레이브스는 퀘닌 론도ン에서:  эти 인공지능은 데이터 사기의 영향을 줄일 수 있습니다.
+주소: https://www.infoq.com/news/2024/04/ethical-ai-data-minisation/
+설명: QCon 런던에서 Rachael Greaves, Castle Systems의 대표 이사, 데이터 최소화를 통한 데이터 유출의 영향을 줄이기 위한 의무와 이점을 발표했습니다. AI 자동 분류 도구와 자동 결정 도구는 데이터 볼륨이 증가함에 따라 항상  эти 원칙을 고려하면서 사용되어, 결정을 도전할 수 있도록 합니다.
+
+9 번째 검색 내용
+제목: 제트브레인스가 개발 도구를 관리하기 쉽게 만들기 위해 IDE 서비스 출시
+
+(Note: The translation may not be perfect as it is a direct translation. Korean grammar and sentence structure can be different from English.)
+주소: https://www.infoq.com/news/2024/04/jetbrains-ide-services-ga/
+설명: 제트브레인 IDE 서비스는 기업이 제트브레인 도구 에코시스템을 더 효율적으로 관리하고 개발자의 생산성을 엔터프라이즈 수준에서 높이는데 도움을 주기 위해 AI, 원격 협업 등과 통합되어 있습니다.
+
+10 번째 검색 내용
+제목: .NET Aspire Preview 6: 보안 및 테스트 향상, 새로운 기능 추가 및 더 많은 것
+
+(Note: The translation may not be perfect as it is a direct translation from English to Korean. It would be better if a native Korean speaker checks and adjusts the translation for proper grammar and sentence structure.)
+주소: https://www.infoq.com/news/2024/04/dotnet-aspire-preview6-released/
+설명: 이번 주 Microsoft는 .NET Aspire 프로젝트의 Preview 6를 발표했습니다. 플랫폼의 안전성과 신뢰도를 향상시키기 위해 의미있는 변경 사항이 구현되었습니다. 이 릴리스, 버전 8.0.0-preview.6.24214.1은 템플릿, 컴포넌트, 대시보드, 테스팅과 같은 다양한 영역에서 중요한 추가 사항을 소개합니다.
+
+11 번째 검색 내용
+제목: 알레그로가 캐프카 프로듀서 라테닉시 아웃라이어를 82% 줄인 후 엑스텍스에 전환
+
+(Note: The translation may not be perfect as it is a technical term. Please confirm the accuracy with a professional translator if necessary.)
+주소: https://www.infoq.com/news/2024/04/allegro-kafka-producer-latency/
+설명: 알레그로는 애프터톤카프라 생산자의 테일 랩시티를 개선하기 위해 다양한 성능 최적화 옵션을 실험했습니다. 결국 모든 클러스터를 XFS 파일 시스템으로 전환했습니다. 회사는 Kafka 프로토콜 스냅핑, JVM 프로필링, 그리고 eBPF를 사용하여 성능 병목을 식별하고 제거하는데 매우 중요한 역할을 했습니다.
+
+12 번째 검색 내용
+제목: SSH 백도어를 침범된 XZ 유틸리티 라이브러리에서
+
+(Note: The translation may not be perfect as it is difficult to maintain the exact formatting and structure of the original text in Korean.)
+주소: https://www.infoq.com/news/2024/04/xz-backdoor/
+설명: 마이크로소프트 공장원 Andres Freund가 SSH가 일반적인 것보다 더 긴 시간을 소요하는 것을 발견한 후, 시스템D의 기본 라이브러리 중 하나인 xz utils에서 백도어를 발견했습니다. 이 백도어는 몇 년간 설치되었으며, Debian Sid, Fedora 41, 그리고 Fedora Rawhide와 같은 Linux 배포판의 테스팅 릴리즈에 들어갔지만, 더 널리 사용되는 안정적인 릴리즈로 전파되기 전에 발견되었습니다.
+
+13 번째 검색 내용
+제목: 전문가들에게 의해 전문가들에게 작성됨: InfoQ & QCon 소프트웨어 이벤트에서 소프트웨어 문제를 해결하세요.
+주소: https://www.infoq.com/news/2024/04/solve-software-challenges/
+설명: InfoQ Dev Summit와 QCon 소프트웨어 개발 컨퍼런스 뒤에는 중요한 경험이 있는 고급 소프트웨어 전문가들의 모임이 있으며, 그들은 꼭 알아야 할 최신 추세와 필수 최선의 실천 방법을 기반으로 주제를 선택하고 관리합니다. 이러한 설계자와 리더들은 참석하고 싶었던 컨퍼런스를 만드는 것에 부담을 받습니다.
+
+14 번째 검색 내용
+제목: 기술이 소프트웨어 기업의 문화 변화를 주도할 수 있는 방법
+
+(Note: The translation may not be perfect as it is a direct translation from English to Korean. It would be better if the sentence was rephrased or translated by a native Korean speaker for better accuracy and fluency.)
+주소: https://www.infoq.com/news/2024/04/tech-culture-change-software/
+설명: 기술 개선으로는 컨테이너, VM, 인프라스트럭처-as-코드, 소프트웨어 정의 네트워킹, 협업 버전 제어, CI/CD와 같은 것들이 조직적 동적과 나쁜 제품 배포에 대한 문화적 문제를 수정할 수 있게 만들 수 있습니다. Nigel Kersten은 소프트웨어 리더는 기술을 사용하여 조직적 동적과 팀 간의 관계에서 긍정적인 변화를 만들어내도록 활용해야 한다고 주장합니다.
+
+15 번째 검색 내용
+제목: 반지름은 클라우드 네이티브 컴퓨팅 재단(CNCF) 사안박스 프로젝트가 되었습니다.
+주소: https://www.infoq.com/news/2024/04/radius-cncf-sandbox-project/
+설명: 마이크로소프트 에즈 인큐베이션 팀은 최근 클라우드 네이티브 컴퓨팅 재단(CNCF)의 사안박스 프로젝트로 인정받은 Radius라는 클라우드 네이티브, 클라우드 독립적인 애플리케이션 플랫폼을 개발했다. CNCF는 이 플랫폼이 클라우드 네이티브 에코시스템에 기여할 가능성이 있다고 인정한 것으로 알려져 있습니다.
+
