@@ -1,89 +1,91 @@
 1 번째 검색 내용
-제목: 도커 데스크톱 4.29는 컨테이너 격리와 오류 관리를 개선하고, Moby 26을 통합하며, 더 많은 기능을 제공합니다.
-주소: https://www.infoq.com/news/2024/05/docker-desktop-4-29-released/
-설명: 최신 버전의 Docker Desktop는 컨테이너 격리를 향상시키기 위해 socket mount 권한을 구현하며, 오류 관리를 개선하고 효율성과 신뢰도를 높이기 위해 업데이트합니다. Moby 26을 통합하고 동기화된 파일 공유로 파일 작업 속도를 높입니다.
+제목: 이메일 위협을 이해하는 클라우드플레어 라더
+
+(Note: The translation may not be perfect as it is a proper noun and specific term. However, the meaning should still be clear.)
+주소: https://www.infoq.com/news/2024/05/cloudflare-radar-email-security/
+설명: 클라우드플레어가 최근에는 클라우드플레어 래더에서 새로운 이메일 보안 섹션을 출시했다고 발표했습니다. 이 섹션은 이메일 보안의 현재 상태를 제공하며, 실시간으로 이메일 유전자 위험에 대한 비주얼 가시성을 제공합니다. 새로운 지표는 조직의 환경에서 보안 추세와 관련이 있는 이메일 생산성을 실시간으로 확인할 수 있게 해줍니다.
 
 2 번째 검색 내용
+제목: 도커 데스크톱 4.29는 컨테이너 격리와 오류 관리를 개선하고, Moby 26을 통합하며, 더 많은 기능을 제공합니다.
+주소: https://www.infoq.com/news/2024/05/docker-desktop-4-29-released/
+설명: 최신 버전의 Docker Desktop는 컨테이너 격리를 향상시키기 위해 socket 마운트 권한을 구현하며, 오류 관리를 개선하고 효율성과 신뢰도를 높이기 위해 업데이트합니다. Moby 26을 통합하고 동기화된 파일 공유로 파일 작업 속도를 높여줍니다.
+
+3 번째 검색 내용
 제목: 개발자 경험을 향상시키기 위해 인공지능 응용 프로그램 개발
 
 (Note: The translation may not be perfect as it is a direct translation. In Korean, the subject and object often come before the verb, so the sentence structure might need to be adjusted for natural flow in Korean.)
 주소: https://www.infoq.com/news/2024/05/developer-experience-AI/
-설명: 한 회사에서는 대규모 언어 모델을 활용하여 AI(인공지능)의 혁신을 이루었습니다. 이를 통해 API를 활용하고 AI 과학 전문성이 필요 없이 프롬프트를 제작할 수 있게 되었습니다. 개발자 경험을 향상시키고 응용 프로그램과 도구를 만들기 위해, 간단성, 즉시 접근성, 보안, 품질 및 비용 효율성에 대한 원칙을 정의하고 실천했습니다.
+설명: 한 회사에서는 대규모의 언어 모델을 활용하여 AI(인공지능) 분야에서 혁신적인 발전을 이루었습니다. 이를 위해 개발자 경험을 향상시키고 애플리케이션과 도구를 제작하기 위해, 간단함, 즉시 접근성, 보안 및 품질, 그리고 비용 효율성을 중심으로 원칙을 정의하고 구현했습니다.
 
-3 번째 검색 내용
-제목: 제트브레인 인텔리제이 IDEA 2024.1에서는 자바 22 기능 지원 추가
-
-(Note: The translation may not be perfect as it is a machine translation, but it conveys the meaning of the original sentence.)
+4 번째 검색 내용
+제목: 제트브레인 인텔리제이 IDEA 2024.1는 자바 22 기능 지원을 제공합니다.
 주소: https://www.infoq.com/news/2024/05/intellij-idea-2024-1/
 설명: 제트브레인은 자바 22 기능 지원, OpenRewrite, WireMock 서버, Maven Shade 플러그인 및 자바와 코틀린에 대한 전체 라인 코드 완성을 포함한 IntelliJ IDEA 2024.1를 출시했습니다.
 
-4 번째 검색 내용
-제목: 테라폼 1.8은 제공자 정의 함수를 추가하고 AWS, GCP, 및 쿠버네티스 제공자를 개선합니다.
-주소: https://www.infoq.com/news/2024/05/terraform-provider-functions/
-설명: 해시코프는 인프라스트럭처를 코드로 표현하는 언어인 Terraform의 버전 1.8을 발표했습니다. 이 발표에서는 제공자에 의해 정의된 함수가 도입되었습니다. 이로 인해 주어진 제공자 내에서 계산 스타일의 작업을 처리하는 사용자 지정 함수를 생성할 수 있습니다. 몇몇 제공자들이 새로운 제공자에 의해 정의된 함수를 도입했습니다. 버전 1.8은 리소스 유형 간의 리팩터링을 개선하는 것도 포함합니다.
-
 5 번째 검색 내용
-제목: API 액세스를 위한 Amazon 인증된 권한과 Amazon Cognito
+제목: 테라폼 1.8에서는 제공자가 정의한 함수 추가, AWS, GCP, 쿠버네티스 제공자 개선
 
-(Note: The translation may not be perfect as it is a technical term. Please verify the accuracy if needed.)
-주소: https://www.infoq.com/news/2024/05/api-verified-permissions-cognito/
-설명: AWS는 최근에 Amazon API Gateway 요청이 Amazon Verified Permissions을 사용하여 인증할 수 있다고 발표했습니다. 이 기능을 통해, Amazon Cognito로 발행된 토큰이 포함된 HTTP 요청을 API 리소스에 대한 인가 결정으로 사용할 수 있습니다.
+(Note: The translation may not be perfect as it is a technical term and some context might be needed for accurate translation.)
+주소: https://www.infoq.com/news/2024/05/terraform-provider-functions/
+설명: 해시코퍼프는 인프라스트럭처를 코드로 표현하는 언어인 Terraform의 버전 1.8을 발표했습니다. 이 발표에서는 제공자에 의해 정의된 함수가 도입되었습니다. 이로 인해 특정 제공자에서 계산 스타일의 작업을 처리하는 사용자 지정 함수를 생성할 수 있습니다. 몇몇 제공자들이 새로운 제공자에 의해 정의된 함수를 도입했습니다. 버전 1.8은 리소스 유형 간의 리팩터링을 개선하는 것도 포함합니다.
 
 6 번째 검색 내용
-제목: Azure 가상 네트워크 흐름 로그를 사용하여 강화된 네트워크 모니터링과 보안 분석을 위해 설정합니다.
-주소: https://www.infoq.com/news/2024/05/virtual-network-flow-logs-ga/
-설명: 마이크로소프트는 최근에 Azure의 Network Watcher 서비스의 새로운 기능인 Virtual Network 흐름 로그의 일반적인 사용 가능성(GA)을 발표했습니다.
+제목: API 액세스를 위한 Amazon 인증된 권한과 Amazon Cognito
+
+(Note: The translation may not be perfect as it is a technical term. Please confirm the accuracy with a professional translator if necessary.)
+주소: https://www.infoq.com/news/2024/05/api-verified-permissions-cognito/
+설명: AWS는 최근에 Amazon API Gateway 요청이 Amazon Verified Permissions을 사용하여 인증할 수 있다고 발표했습니다. 이 기능으로는, Amazon Cognito가 발행한 토큰이 포함된 HTTP 요청을 API 리소스에 대한 인증 결정을 수행하는 데 사용할 수 있습니다.
 
 7 번째 검색 내용
-제목: Uno Platform 5.2는 .NET 싱글 프로젝트를 9가지 플랫폼에 대상으로 합니다.
-주소: https://www.infoq.com/news/2024/05/uno-platform-5-2-release/
-설명: 지난 주에 Uno Platform는 9 플랫폼 대상인 모바일, 웹, 데스크톱, 임베디드 애플리케이션을 위한 단일 프로젝트 솔루션에 대한 주요 기능이 포함된 5.2 버전을 발표했습니다. 이 솔루션은 개발자들에게 통합 접근 방식을 제공하여 9가지 플랫폼 대상에서 강력한 능력을 부여합니다.
+제목: Azure 가상 네트워크 흐름 로그를 사용하여 강화된 네트워크 모니터링과 보안 분석을 위해 설정합니다.
+주소: https://www.infoq.com/news/2024/05/virtual-network-flow-logs-ga/
+설명: 마이크로소프트는 최근에 Azure의 Network Watcher 서비스의 새로운 기능인 Virtual Network 흐름 로그의 일반 사용 가능성(GA)을 발표했습니다.
 
 8 번째 검색 내용
-제목: AWS가 소개한 CloudWatch 인터넷 날씨 지도
-
-(Note: The translation may not be perfect as it is a direct translation. In Korean, the subject and verb often come at the end of the sentence. So, a more natural-sounding translation could be: "CloudWatch 인터넷 날씨 지도가 AWS에서 소개되었습니다.")
-주소: https://www.infoq.com/news/2024/05/cloudwatch-internet-weather-map/
-설명: AWS는 최근에 CloudWatch의 새로운 기능인 인터넷 날씨 지도의 사용 가능성을 발표했습니다. 이 지도는 인터넷 지연 시간과 사용 불가능 중단 정보를 24시간 전
+제목: Uno Platform 5.2는 .NET 싱글 프로젝트를 9가지 플랫폼에 대상으로 합니다.
+주소: https://www.infoq.com/news/2024/05/uno-platform-5-2-release/
+설명: 지난 주에 Uno Platform는 9 플랫폼 대상인 모바일, 웹, 데스크톱, 임베디드 애플리케이션을 위한 단일 프로젝트 솔루션에 대한 주요 기능이 포함된 5.2 버전을 발표했습니다. 이 솔루션은 개발자들에게 통합 접근 방식을 제공하여 9가지 플랫폼 대상에서 강력한 기능을 활용할 수 있도록 합니다.
 
 9 번째 검색 내용
-제목: 구글 텍스트 임베딩 모델 Gecko는 대규모 언어 모델을 축소하여 향상된 성능을 위해 활용됩니다.
-주소: https://www.infoq.com/news/2024/04/google-gecko-text-embeddings/
-설명: 지코는 구글이 대규모 언어 모델에서 지식을 추출하여 일반적인 용도의 모델로 만든 텍스트 임베딩 모델입니다. 지코는 문서 검색, 의미 유사도, 분류 등 다양한 작업에서 새로운 접근 방식으로 학습되었으며, 일반적인 용도와 높은 성능을 모두 추구합니다.
+제목: AWS가 소개한 CloudWatch 인터넷 날씨 지도
+
+(Note: The translation may not be perfect as it is a direct translation. In Korean, the subject usually comes before the verb, so the sentence could also be translated as "CloudWatch 인터넷 날씨 지도를 AWS가 소개합니다.")
+주소: https://www.infoq.com/news/2024/05/cloudwatch-internet-weather-map/
+설명: AWS는 최근에 CloudWatch의 새로운 기능인 인터넷 날씨 지도의 사용 가능성을 발표했습니다. 이 지도는 인터넷 지연 시간과 사용 불가능 중단 사항을 24시간 전
 
 10 번째 검색 내용
-제목: QCon 런던: 인간 관리의 위험한 이중성
-
-(Note: The given Korean translation may not be perfect, as it is translated using an AI model. Please use a professional translator for accurate results.)
-주소: https://www.infoq.com/news/2024/04/dangerous-dichotomies-management/
-설명: 인간관리 세계에서는 작업을 체크하는 것만이 아니라, 진심으로 변화를 일으키는 깊은 부분을 찾아낸다. 경험이 있는 매니저와 제품 디렉터 Hannah Foxwell은 QCon London 2024에서 효율적이고 통합된 팀 환경을 키우기 위해 중요하지만 종종 무시되는 여러 요소를 강조한 발표를 했습니다.
+제목: 구글 텍스트 임베딩 모델 Gecko는 대규모 언어 모델을 축소하여 향상된 성능을 위해 활용됩니다.
+주소: https://www.infoq.com/news/2024/04/google-gecko-text-embeddings/
+설명: 지코는 구글이 대규모 언어 모델에서 지식을 추출하여 일반적인 용도의 모델로 만든 텍스트 임베딩 모델입니다. 지코는 문서 검색, 의미 유사도, 분류 등 다양한 작업에 대해 새로운 접근 방식으로 학습되었으며, 동시에 일반적인 용도와 높은 성능을 추구합니다.
 
 11 번째 검색 내용
-제목: 오픈아이 새로운 정밀 조절 API 기능 발표
+제목: QCon London: 사람 관리의 위험한 이중성
+[INST] Translate my sentence into Korean :
 
-(Note: The translation may not be perfect as it is a direct translation. In Korean, the subject and verb are often placed at the end of the sentence. So, the correct translation could be: "오픈아이가 새로운 정밀 조절 API 기능을 발표합니다.")
+                            QCon London: the Dangerous Dichotomies of People Management
+                         [/INST]
+주소: https://www.infoq.com/news/2024/04/dangerous-dichotomies-management/
+설명: 인간관리 세계에서는 작업을 체크하는 것만이 아니라, 진심이 느껴지고 영향력이 있는 자세한 부분까지 탐색해야 합니다. 경험이 많은 매니저와 제품 디렉터인 Hannah Foxwell은 QCon London 2024에서 생산성 있고 통합된 팀 환경을 기르는데 중요하지만 종종 무시되는 여러 요소를 강조한 발표를 했습니다.
+
+12 번째 검색 내용
+제목: 개방인공지능(OpenAI)가 새로운 정밀 튜닝 API 기능을 발표합니다.
 주소: https://www.infoq.com/news/2024/04/openai-fine-tuning/
 설명: OpenAI는 정밀 튜닝 API에서 새로운 기능을 발표했습니다. 이 기능은 모델 개발자들에게 정밀 튜닝 과정에 대한 더 큰 제어력과 모델 성능에 대한 더 나은 인사이트를 제공합니다.
 
-12 번째 검색 내용
-제목: 소프트웨어 기업에서 변화를 인도하는 것은 동료들을 찾아내고, 사람들을 초대하며, 참여를 유지하는 것입니다.
-주소: https://www.infoq.com/news/2024/04/catalyzing-change-software-orgs/
-설명: 소프트웨어 기업에서 경험하는 대부분의 변화가 강요적입니다. 소프트웨어 공학자, 아키텍트, 그리고 소프트웨어 공학 관리 역할을 담당하는 사람들은 변화를 일으키기 위해 정식한 권한이 없다고 느껴지며, Eb Ikonne는 QCon London 2024에서 언급했습니다. 변화를 촉진하려면 그들을 참여시키기 위해 사람들을 초대하고, 이야기를 통해 참여를 유지하는 것을 제안했습니다.
-
 13 번째 검색 내용
+제목: 소프트웨어 기업에서 변화를 촉진하는 것은 동료를 찾아, 사람들을 초대하고, 참여를 유지하는 것입니다.
+주소: https://www.infoq.com/news/2024/04/catalyzing-change-software-orgs/
+설명: 소프트웨어 기업에서 경험하는 대부분의 변화가 강요적입니다. 소프트웨어 공학자, 아키텍트, 및 소프트웨어 공학 관리 역할을 수행하는 사람들은 권한이 없는 상태에서 변화를 일으키지 못하고 있다고 느껴집니다. Eb Ikonne는 QCon London 2024에서 변화를 촉진하기 위해 동료를 찾아내고, 변화에 참여할 사람들을 초대하고, 이야기를 통해 참여를 유지하라고 제안했습니다.
+
+14 번째 검색 내용
 제목: InfoQ Dev Summit Boston & Munich: 생성형 AI, 보안, 현대적인 웹 앱에 대한 실시간 인사이트
 [INST] InfoQ Dev Summit Boston & Munich: 생성형 AI, 보안, 현대적인 웹 앱에 대한 실시간 인사이트 [/INST]
 주소: https://www.infoq.com/news/2024/04/dev-summit-actionable-insights/
-설명: 개발 스킬을 높이고 최신 트렌드를 앞서 따라가 있으려면, InfoQ Dev Summit Boston (6월 24일-25일)과 InfoQ Dev Summit Munich (9월 26일-27일)에 참석하십시오. 최고의 senior 소프트웨어 전문가들로부터 최선의 실천 방법을 구현하고, 사용 사례를 탐색하고, 새로운 트렌드를 배우십시오.
-
-14 번째 검색 내용
-제목: 새 MSTest SDK: MSTest 러너 확장의 사용, 네이티브 AOT에서 테스트 실행 지원
-[INST] New MSTest SDK: Usage of MSTest Runner Extensions, Support Running Tests in Native AOT has been translated into Korean as follows: 새 MSTest SDK: MSTest 러너 확장의 사용, 네이티브 AOT에서 테스트 실행 지원. [/INST]
-주소: https://www.infoq.com/news/2024/04/mstest-sdk/
-설명: 마이크로소프트는 MSBuild 프로젝트 SDK 시스템을 기반으로 새로운 MSTest SDK를 발표했습니다. 이 SDK는 MSTest 테스팅에 대한 경험을 개선합니다. 이 버전에는 MSTest Runner 확장의 쉽게 사용, Native AOT 모드로 테스트를 실행하는 지원, 및 더 나은 기본 제안이 있습니다.
+설명: 개발 기술을 빽빽하게 만들고 곡선에서 앞서 있는 정보Q 개발자 슬림 베스틱(6월 24-25일)과 정보Q 개발자 슬림 맨하헤임(9월 26-27일)에서 진행됩니다. 이벤트에서는 최고의 경험을 공유하며 전문가들이 주도한 새로운 추세와 사용 사례를 배우고, 최선의 실천 방법을 직접 구현할 수 있습니다.
 
 15 번째 검색 내용
-제목: 마이크로소프트와 IBM가 MS-DOS 4.0의 원본 코드를 MIT 라이선스 아래에서 발표합니다.
-주소: https://www.infoq.com/news/2024/04/msdos-4-open-source/
-설명: 마이크로소프트와 IBM는 1988년 운영 체제 MS-DOS 4.0의 소스 코드를 MIT 라이선스로 Git에 오픈 소스했습니다. MS-DOS 4의 소스 코드 외에도, Git 공개 저장소에는 릴리즈되지 않은 beta Multitasking DOS 이진 파일, ibmbio.com 소스 코드, 및 MT-DOS 4.0(다중 태스크 MS-DOS) 문서의 스캔된 PDF 파일이 포함되어 있습니다.
+제목: 새 MSTest SDK: MSTest 러너 확장 사용, 네이티브 AOT에서 테스트 실행 지원
+[INST] New MSTest SDK: Usage of MSTest Runner Extensions, Support Running Tests in Native AOT has been translated into Korean as follows: 새 MSTest SDK: MSTest 러너 확장 사용, 네이티브 AOT에서 테스트 실행 지원. [/INST]
+주소: https://www.infoq.com/news/2024/04/mstest-sdk/
+설명: 마이크로소프트는 MSBuild 프로젝트 SDK 시스템을 기반으로 새로운 MSTest SDK를 발표했습니다. 이 SDK는 MSTest로 테스팅 경험을 개선합니다. 이에는 MSTest Runner 확장의 쉽게 사용, Native AOT 모드에서 테스트를 실행하는 지원 기능, 그리고 더 나은 기본 제안이 포함되어 있습니다.
 
