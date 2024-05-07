@@ -1,0 +1,83 @@
+1 번째 검색 내용
+제목: [INST] 코드를 번역하려면 코드를 입력해주세요. [/INST]
+
+[INST] 제공된 텍스트는 코드가 아니라 문장입니다. 다음은 이 문장을 한글로 번역한 내용입니다: "Podman 5은 Mac과 Windows에서 성능과 안정성을 개선하는 부분적으로 재작성된 방식으로 향상됩니다." [/INST]
+주소: https://www.infoq.com/news/2024/05/podman-5-released/
+설명: 최신 버전의 컨테이너 관리 도구 Podman에서는 macOS와 Windows에서 하이퍼바이저 지원을 개선하기 위해 podman machine 명령어의 완전한 재작성을 추가했습니다. 또한, 매니페스트 파일에 OCI 아티팩트를 지원하며, rootless 네트워킹을 위해 기본적으로 Pasta를 채택하고 컨테이너.conf 구성 파일을 개선했습니다.
+
+2 번째 검색 내용
+제목: 디빌젤 지니 인텔리제이 플러그인은 로컬 또는 클라우드 기반의 LLM 모델에 접근을 제공합니다.
+주소: https://www.infoq.com/news/2024/05/devoxx-genie-intellij-plugin/
+설명: Devoxx Genie, 100% Java 기반 JetBrains IntelliJ IDEA 플러그인입니다. 이 플러그인은 단위 테스트를 생성하고 소스 코드를 설명, 검토하고 개선하는데 로컬 또는 클라우드 기반의 Large Language Model(LLM)을 사용합니다.
+
+3 번째 검색 내용
+제목: 무한스팬(Infinispan)이 고급 RESP 엔드포인트를 지원하며 JDK 17을 필요로 하는 15.0.0 버전을 공개합니다.
+주소: https://www.infoq.com/news/2024/05/infinispan-15/
+설명: 인피니스팬, Java로 작성된 열린 소스 키/값 데이터 저장소와 데이터 그리드 플랫폼입니다. 15.0.0 버전을 공개하였습니다. 이 릴리즈는 중요한 기점입니다. 특히, RESP 엔드포인트에서 대부분의 코어 레디스 명령을 구현합니다, 인트라클러스터 통신을 최적화하며, 추적 하위 시스템과 서버 관리 콘솔을 향상시킵니다. 최소 JDK를 JDK 17로 업데이트합니다.
+
+4 번째 검색 내용
+제목: 자바 뉴스 요약: OpenJDK JEPs, Spring 프로젝트, 큐어크스, 하이버네이트, 지피스터, 제리리즈
+주소: https://www.infoq.com/news/2024/05/java-news-roundup-apr29-2024/
+설명: 이번 4월 29일 자바 주요 소식은 JEP 476, 모듈 가져오기 선언(미리보기), JEP 474, ZGC: 세대 기본 모드를 위한 JDK 23을 대상으로 하고 있으며, 새로운 JEP 후보들과 Spring 프로젝트, Quarkus, Hibernate ORM, Hibernate Reactor, JHipster, JHipster Lite, 및 JReleaser에 대한 업데이트를 포함합니다.
+
+5 번째 검색 내용
+제목: 콘플루언트 클라우드에서 Apache Flink은 AI 기능이 포함된 일반적으로 사용 가능한 상태입니다.
+주소: https://www.infoq.com/news/2024/05/confluent-apache-flink-ga/
+설명: 지난 달에 Confluent는 Apache Flink용 Confluent Cloud의 일반 사용 가능성(GA)을 발표했습니다. 이 완전히 관리형 서비스는 실시간 데이터 처리를 지원하고 재사용 가능한 데이터 스트림의 생성을 허용합니다. 이 서비스는 Amazon Web Services(AWS), Google Cloud, Microsoft Azure에서 사용할 수 있습니다.
+
+6 번째 검색 내용
+제목: 노드.제스22 릴리즈되며 ESM 모듈과 웹 API에 대한 지원이 증가했습니다.
+주소: https://www.infoq.com/news/2024/05/node-22-released/
+설명: 노드.제스(Node.js) 팀은 최근에 Node.js 22를 발표했습니다. 주요 기능으로는 JavaScript 원시 모듈과 웹 API와의 호환성이 향상되었으며, 성능 개선이 있습니다.
+
+7 번째 검색 내용
+제목: AWS S3 비인가 요청 결제 문제: 빈 S3 버킷은 비용을 크게 증가시킬 수 있습니다.
+주소: https://www.infoq.com/news/2024/05/aws-empty-s3-bucket-billing/
+설명: 마크제 포츠즈(Maciej Pocwierz), 고급 소프트웨어 공학자는 최근에 중요한 문제를 드러냈습니다. S3 바킷이 비어있을 때 기대하지 못한 크기의 AWS 청구서가 발생할 수 있다는 것입니다. 그의 경우, 단일 날에 약 10억 번의 S3 PUT 요청이 실행되어 거의 무시할 수 없는 청구서가 발생했습니다.
+
+8 번째 검색 내용
+제목: 개방형 소스 APM(Application Performance Management) 및 관측성 도구 Coroot가 현재 제공중입니다.
+주소: https://www.infoq.com/news/2024/05/coroot-apm-observability/
+설명: 오픈소스 응용 프로그램 성능 모니터링 시스템 Coroot이 현재 일반적으로 사용할 수 있습니다. DataDog와 NewRelic의 대안으로 발표되었으며, eBPF를 활용하여 시스템 성능에 대한 인사이트를 제공하고 eterogeneous 인프라를 모니터링 하는 관측성 도구입니다.
+
+9 번째 검색 내용
+제목: 인스턴스 번역결과
+
+인에스 모탄이 콘 런던에서: 경제의 규모 이점은 AI 혁명을 독점할 수 없다.
+주소: https://www.infoq.com/news/2024/05/ai-revolution-monopol/
+설명: QCon 런던에서 진행한 발표 중, Ines Montani, explosion.ai의 창업자 및 CEO로써 spaCy를 제작한 사람은, AI 공간에서 경제규모의 이점만으로 독점을 형성하기 위해서는 부족합니다. 또한, 개방형 소스 기술과 모델은 모두 "Gen AI 혁명"에 따라 변화하는 것을 가능하게 할 것입니다.
+
+10 번째 검색 내용
+제목: 제프 474: 자바의 ZGC에서 기본적으로 사용되는 생성적 모드가 표준입니다.
+주소: https://www.infoq.com/news/2024/05/java-zgc-update/
+설명: JEP 474, ZGC: 기본적으로 생성적 모드, JDK 23에 대상되었습니다. 이 JEP은 Z Garbage Collector(ZGC)를 비생성적 모드에서 생성적 모드로 기본적으로 사용하도록 제안합니다. 비생성적 모드는 미래의 JDK 릴리스에서 弃用되고 제거될 것입니다. 이로 인해 두 모드를 유지보수하는 비용이 줄어들며, 미래의 개발은 기본적으로 생성적 ZGC에 주로 집중할 수 있습니다.
+
+11 번째 검색 내용
+제목: 이메일 위협을 이해하는 클라우드플레어 라더
+
+(Note: The translation may not be perfect as it is a proper noun and specific term. However, the meaning should still be clear.)
+주소: https://www.infoq.com/news/2024/05/cloudflare-radar-email-security/
+설명: 클라우드플레어가 최근에는 클라우드플레어 래더에서 이메일 보안 섹션의 출시를 발표했습니다. 이 섹션은 이메일 보안의 현재 상태에 대한 洞察를 제공합니다. 새로운 지표는 실시간으로 이메일 유출 위협에 대한 시각을 제공하며, 조직은 환경 내의 트렌드와 클라우드플레어에서 관찰되는 보다 광범위한 보안 관측을 연결할 수 있습니다.
+
+12 번째 검색 내용
+제목: 도커 데스크탑 4.29는 컨테이너 격리와 오류 관리를 개선하고, Moby 26을 통합하며, 더 많은 기능을 제공합니다.
+주소: https://www.infoq.com/news/2024/05/docker-desktop-4-29-released/
+설명: 최신 버전의 Docker Desktop는 컨테이너 격리를 향상시키기 위해 socket mount 권한을 구현하며, 오류 관리를 개선하고 효율성과 신뢰도를 높여주기 위해 업데이트합니다. Moby 26을 통합하고 동기화된 파일 공유로 파일 작업 속도를 높입니다.
+
+13 번째 검색 내용
+제목: 개발자 경험을 향상시키기 위해 인공지능 응용 프로그램 개발
+
+(Note: The translation may not be perfect as it is a direct translation. In Korean, the subject and object often come before the verb, so the sentence structure might need to be adjusted for better readability.)
+주소: https://www.infoq.com/news/2024/05/developer-experience-AI/
+설명: 한 회사에서는 대규모의 언어 모델을 활용하여 AI(인공지능) 분야에서 혁신적인 발전을 이루었습니다. 이를 위해 개발자 경험을 향상시키고 애플리케이션과 도구를 제작하기 위해, 간단함, 즉시 접근성, 보안성 및 품질, 그리고 비용 효율성을 중심으로 원칙을 정의하고 구현했습니다.
+
+14 번째 검색 내용
+제목: 제트브레인 인텔리제이 IDEA 2024.1는 자바 22 기능 지원을 제공합니다.
+주소: https://www.infoq.com/news/2024/05/intellij-idea-2024-1/
+설명: 제트브레인은 Java 22 기능 지원, OpenRewrite, WireMock 서버, Maven Shade 플러그인 및 Java와 Kotlin에 대한 전체 라인 코드 완성을 포함한 IntelliJ IDEA 2024.1를 발표했습니다.
+
+15 번째 검색 내용
+제목: 테라폼 1.8에서는 제공자 정의 함수가 추가되고, AWS, GCP, 그리고 Kubernetes 제공자가 개선됩니다.
+주소: https://www.infoq.com/news/2024/05/terraform-provider-functions/
+설명: 해시코퍼프는 인프라스트럭처를 코드로 표현하는 언어인 Terraform의 버전 1.8을 발표했습니다. 이 발표에서는 제공자에 의해 정의된 함수가 도입되었습니다. 이로 인해 주어진 제공자 내에서 계산 스타일의 작업을 처리하는 사용자 지정 함수를 생성할 수 있습니다. 몇몇 제공자들이 새로운 제공자에 의해 정의된 함수를 도입했습니다. 버전 1.8은 리소스 유형 간의 리팩터링을 개선하는 것도 포함합니다.
+
