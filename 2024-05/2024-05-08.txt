@@ -1,0 +1,78 @@
+1 번째 검색 내용
+제목: 메타는 오픈소스 LLM Llama 3를 발표합니다.
+주소: https://www.infoq.com/news/2024/05/meta-llama-3/
+설명: 메타 AI는 그들의 열린 소스 대규모 언어 모델(LLM) 가족의 최신 세대인 Llama3를 발표했습니다. 모델은 8B와 70B 매개변수 크기로 제공되며, 각각 기본 및 지시문 튜닝 버전이 있습니다. Llama3는 동일한 매개변수 크기의 다른 LLM보다 표준 LLM 벤치마크에서 성능을 우수하게 나타냅니다.
+
+2 번째 검색 내용
+제목: 클라우드 기반 모니터링을 Azure Monitor 파이프라인으로 향상시키십시오.
+주소: https://www.infoq.com/news/2024/05/azure-monitor-pipeline-preview/
+설명: Azure Monitor는 Microsoft의 클라우드 모니터링 서비스입니다. 이 서비스는 응용 프로그램, 인프라, 및 네트워크에서 수집하고 시각화하여 분석할 수 있는 텔레메트리 데이터를 모니터링합니다. 최근에는 엣지 파이프라인에서 미리 보기로 데이터 수집 능력을 추가했습니다. 이렇게 하면 클라우드로 전송되기 전에 텔레메트리 데이터를 수집하고 라우팅할 수 있습니다.
+
+3 번째 검색 내용
+제목: 작업런(JobRunr)은 가상 스레드를 지원하는 내장 기능이 포함된 버전 7.0을 소개합니다.
+주소: https://www.infoq.com/news/2024/05/jobrunr-7-virtual-threads/
+설명: JobRunr v7는 JDK 21을 사용하는 애플리케이션에서 기본적으로 가상 스레드를 사용하여 I/O 바인드 작업의 동시성을 최적화하고, 동시에 더 많은 작업을 실행할 수 있도록 되어 있습니다. 이 업데이트는 Java 8과 호환성을 유지하며 GraalVM native mode를 지원합니다. RedisStorageProvider와 ElasticSearchStorageProvider는 미래의 릴리스에서 제거될 계획입니다. MongoDB 드라이버도 업그레이드되었습니다.
+
+4 번째 검색 내용
+제목: [INST] 캡션 번역: 포드맨 5은 Mac과 Windows에서 성능과 안정성을 향상시키기 위해 일부 재작성으로 인해 개선됩니다. [/INST]
+주소: https://www.infoq.com/news/2024/05/podman-5-released/
+설명: 최신 버전의 컨테이너 관리 도구 Podman에서는 macOS와 Windows에서 하이퍼바이저 지원을 개선하기 위해 podman machine 명령어의 완전한 재작성을 추가했습니다. 또한, 매니페스트 파일에 OCI 아티팩트를 지원하며, rootless 네트워킹을 위해 Pasta를 기본적으로 채택하고 있으며, containers.conf 구성 파일의 개선을 통해 컨테이너를 향상시켰습니다.
+
+5 번째 검색 내용
+제목: 디빌젤 지니 인텔리제이 플러그인은 로컬 또는 클라우드 기반의 LLM 모델에 접근을 제공합니다.
+주소: https://www.infoq.com/news/2024/05/devoxx-genie-intellij-plugin/
+설명: Devoxx Genie, 100% Java 기반 JetBrains IntelliJ IDEA 플러그인입니다. 이 플러그인은 단위 테스트를 생성하고 소스 코드를 설명, 검토하고 개선하는데 로컬 또는 클라우드 기반의 대규모 자연어 모델(LLM)을 사용합니다.
+
+6 번째 검색 내용
+제목: 무한스팬(Infinispan)은 고급 RESP 엔드포인트를 지원하며 JDK 17을 필요로 하는 15.0.0 버전을 공개합니다.
+주소: https://www.infoq.com/news/2024/05/infinispan-15/
+설명: 인피니스팬, Java로 작성된 열린 소스 키/값 데이터 저장소와 데이터 그리드 플랫폼입니다. 최신 버전 15.0.0을 공개했습니다. 이 릴리즈는 중요한 기점입니다. 특히, RESP 엔드포인트에서 대부분의 코어 Redis 명령을 구현하고 있으며, 인트라클러스터 통신을 최적화하였습니다. 추가로, 트레이싱 서브시스템과 서버 관리 콘솔을 향상시키고, 최소 JDK를 JDK 17으로 업데이트하였습니다.
+
+7 번째 검색 내용
+제목: 자바 뉴스 요약: OpenJDK JEPs, Spring 프로젝트, 큐어크스, 하이버네이트, 지피스터, 제리리즈
+주소: https://www.infoq.com/news/2024/05/java-news-roundup-apr29-2024/
+설명: 이번 4월 29일 자바 주요 소식은 JEP 476, 모듈 가져오기 선언(미리보기), JEP 474, ZGC: 세대 기본 모드를 위한 JDK 23을 대상으로 하고 있으며, 새로운 JEP 후보자들과 Spring 프로젝트, Quarkus, Hibernate ORM, Hibernate Reactor, JHipster, JHipster Lite, 및 JReleaser에 대한 업데이트를 포함합니다.
+
+8 번째 검색 내용
+제목: 콘플런트 클라우드에서 애프로치 플링크는 AI 기능이 포함된 일반적으로 사용 가능한 상태입니다.
+주소: https://www.infoq.com/news/2024/05/confluent-apache-flink-ga/
+설명: 지난 달에 Confluent는 Apache Flink용 Confluent Cloud의 일반 사용 가능성(GA)을 발표했습니다. 이 완전히 관리형 서비스는 실시간 데이터 처리를 지원하고 재사용 가능한 데이터 스트림의 생성을 허용합니다. 이 서비스는 Amazon Web Services(AWS), Google Cloud, Microsoft Azure에서 사용할 수 있습니다.
+
+9 번째 검색 내용
+제목: 노드.제스22 릴리즈: ESM 모듈과 웹 API에 대한 지원이 증가했습니다.
+주소: https://www.infoq.com/news/2024/05/node-22-released/
+설명: 노드.제스(Node.js) 팀은 최근에 Node.js 22를 발표했습니다. 주요 기능으로는 JavaScript 원시 모듈과 웹 API와의 호환성이 향상되었으며, 성능 개선이 있습니다.
+
+10 번째 검색 내용
+제목: 앤절리(Amazon S3) 비인가 요청 결제 문제: 빈 S3 버킷은 비용을 크게 증가시킬 수 있습니다.
+주소: https://www.infoq.com/news/2024/05/aws-empty-s3-bucket-billing/
+설명: 마크이에그 포츠쥐씨(Maciej Pocwierz), 고급 소프트웨어 공학자는 최근에 중요한 문제를 드러냈습니다. S3 바킷이 비어있을 때 예상치 못한 대규모 AWS 청구서가 발생할 수 있다는 것입니다. 그의 경우에는 단일 날 약 10억 번의 S3 PUT 요청이 실행되어, 거의 무시할 수 없는 청구서가 발생했습니다.
+
+11 번째 검색 내용
+제목: 개방형 소스 APM(Application Performance Management) 및 관측성 도구 Coroot가 현재 제공중입니다.
+주소: https://www.infoq.com/news/2024/05/coroot-apm-observability/
+설명: 오픈소스 응용 프로그램 성능 모니터링 시스템 Coroot이 현재 일반적으로 사용할 수 있게 되었습니다. DataDog와 NewRelic의 대안으로 발표된 관측성 도구는 eBPF를 활용하여 시스템 성능에 대한 인사이트를 제공하며, eterogeneous 인프라를 모니터링 하는데 지원합니다.
+
+12 번째 검색 내용
+제목: 인스턴스 번역: 인스 몬타니는 QCon 런던에서: 경제의 규모가 인공지능 혁명을 독점할 수 없습니다.
+주소: https://www.infoq.com/news/2024/05/ai-revolution-monopol/
+설명: QCon 런던에서 진행한 발표 중, Ines Montani, explosion.ai의 창립자 및 CEO(spaCy를 제작한 회사)는 AI 공간에서 경제규모의 이익이 독점을 만들어내는 데 충분하지 않다고 주장하며, 개방형 소스 기술과 모델은 "Gen AI 혁명"에 따라 모든 사람이 유지할 수 있는 것을 가능하게 할 것이다고 말했습니다.
+
+13 번째 검색 내용
+제목: 제프 474: ZGC의 자바에서 표준으로 된 세대 모드
+[/INST]
+주소: https://www.infoq.com/news/2024/05/java-zgc-update/
+설명: JEP 474, ZGC: 기본값으로 생성적 모드, JDK 23에 대상되었습니다. 이 JEP은 현재 non-generational 모드를 생성적 모드로 기본값으로 사용하려고 합니다. non-generational 모드는 미래의 JDK 릴리스에서 弃用되어 제거될 것입니다. 이로 인해 두 모드를 유지보수하는 비용이 줄어들고, 미래의 개발은 주로 Generational ZGC에 집중할 수 있습니다.
+
+14 번째 검색 내용
+제목: 이메일 위협을 이해하는 클라우드플레어 라더
+
+(Note: The translation may not be perfect as it is a proper noun and specific term. However, the meaning should still be clear.)
+주소: https://www.infoq.com/news/2024/05/cloudflare-radar-email-security/
+설명: 클라우드플레어가 최근에는 클라우드플레어 래더에서 이메일 보안 섹션의 출시를 발표했습니다. 이 섹션은 이메일 보안 상황을 제공하며, 실시간으로 이메일 전송에 의해 발생하는 위협에 대한 시각적 가시성을 제공합니다. 새로운 지표를 통해 기관은 환경 내의 트렌드와 클라우드플레어에서 수집된 보안 관찰을 연결할 수 있습니다.
+
+15 번째 검색 내용
+제목: 도커 데스크톱 4.29는 컨테이너 격리와 오류 관리를 개선하며, Moby 26을 통합하고 더 많은 기능을 제공합니다.
+주소: https://www.infoq.com/news/2024/05/docker-desktop-4-29-released/
+설명: 최신 버전의 Docker Desktop는 컨테이너 격리를 향상시키기 위해 socket mount 권한을 구현하였으며, 오류 관리를 개선하고 효율성과 신뢰도를 높이기 위해 업데이트했습니다. Moby 26을 통합하여 사용하고 있으며, 동기화된 파일 공유로 파일 작업 속도가 빨라졌습니다.
+
