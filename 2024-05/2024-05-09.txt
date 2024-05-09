@@ -1,12 +1,12 @@
 1 번째 검색 내용
-제목: GitHub는 Dependabot을 GitHub Actions를 통해 활성화하며, 공급 체인 보안 향상에 기여합니다.
+제목: GitHub는 Dependabot을 GitHub Actions를 통해 활성화하며, 공급 체인 보안 향상을 위해 개선합니다.
 주소: https://www.infoq.com/news/2024/05/github-dependabot-supply-chain/
-설명: GitHub는 저장소의 보안과 견고성을 개선하기 위해 두 가지 기능을 발표했습니다. 첫 번째 기능은 Dependabot이 GitHub Actions 워크플로우로 실행되도록 허용하는 것입니다. 호스팅된 및 자체 호스팅 러너를 사용합니다. 두 번째 릴리즈는 저장소 관리자가 빌드 아티펩트의 유산을 간단하게 생성할 수 있는 공개 베타를 소개합니다.
+설명: GitHub는 저장소의 보안과 견고함을 개선하기 위해 두 가지 기능을 발표했습니다. 첫 번째 기능은 Dependabot이 GitHub Actions 워크플로우로 실행되도록 허용하는 것입니다. 호스팅된 및 자체 호스팅 러너를 사용할 수 있습니다. 두 번째 릴리즈는 Artifact Attestations의 공개 베타를 소개합니다. 저장소 관리자가 빌드 작품의 유전자를 간단하게 생성할 수 있도록 간편화합니다.
 
 2 번째 검색 내용
 제목: 메타는 오픈소스 LLM Llama 3를 발표합니다.
 주소: https://www.infoq.com/news/2024/05/meta-llama-3/
-설명: 메타 AI는 대규모 언어 모델(LLM) 가족의 최신 세대인 Llama 3를 발표했습니다. 모델은 8B와 70B 매개변수 크기로 제공되며, 각각 기본 및 지시문 튜닝 버전이 있습니다. Llama3는 동일한 매개변수 크기의 다른 LLM에 비해 표준 LLM 벤치마크에서 더 우수합니다.
+설명: 메타 AI는 그들의 열린 소스 대규모 언어 모델(LLM) 가족의 최신 세대인 Llama 3을 발표했습니다. 모델은 8B와 70B 매개변수 크기를 선택할 수 있으며, 각각에는 기본 및 지시문 튜닝 버전이 있습니다. Llama3는 동일한 매개변수 크기의 다른 LLM보다 표준 LLM 벤치마크에서 더 우수합니다.
 
 3 번째 검색 내용
 제목: 클라우드 기반 모니터링을 Azure Monitor 파이프라인으로 향상시키십시오.
@@ -14,69 +14,67 @@
 설명: Azure Monitor는 Microsoft의 클라우드 모니터링 서비스입니다. 이 서비스는 응용 프로그램, 인프라, 및 네트워크에서 수집하고 시각화하여 분석할 수 있는 텔레메트리 데이터를 모니터링합니다. 최근 회사는 미리 보기에서 엣지 파이프라인과 함께 데이터 수집 능력을 추가했습니다. 이렇게 하면 클라우드로 전송되기 전에 텔레메트리 데이터를 수집하고 라우팅할 수 있습니다.
 
 4 번째 검색 내용
-제목: 작업런(JobRunr)은 가상 스레드에 내장 지원을 포함한 버전 7.0을 소개합니다.
+제목: JobRunr은 가상 스레드에 내장된 지원을 포함한 버전 7.0을 소개합니다.
 주소: https://www.infoq.com/news/2024/05/jobrunr-7-virtual-threads/
 설명: JobRunr v7는 JDK 21을 사용하는 애플리케이션에서 기본적으로 가상 스레드로 설정되어, I/O 바인드 작업의 동시성을 최적화하고 더 많은 작업을 동시에 실행할 수 있도록 합니다. 이 업데이트는 Java 8과의 호환성을 유지하며 GraalVM native mode를 지원합니다. RedisStorageProvider와 ElasticSearchStorageProvider는 미래의 릴리스에서 제거될 계획입니다. MongoDB 드라이버도 업그레이드되었습니다.
 
 5 번째 검색 내용
-제목: [INST] 코드를 번역하려면 코드를 입력해주세요. [/INST]
-
-[INST] 제공된 텍스트는 코드가 아니라 문장입니다. 다음은 이 문장을 한글로 번역한 내용입니다: "Podman 5은 Mac과 Windows에서 성능과 안정성을 개선하는 부분적 재작성을 통해 향상됩니다." [/INST]
+제목: [INST] 코드를 번역하려면 원본 코드를 제공해주세요. [/INST]
 주소: https://www.infoq.com/news/2024/05/podman-5-released/
-설명: 최신 버전의 컨테이너 관리 도구 Podman에서는 macOS와 Windows에서 하이퍼바이저 지원을 개선하기 위해 podman machine 명령어의 완전한 재작성을 추가했습니다. 또한, 매니페스트 파일에 OCI 아티팩트를 지원하며, rootless 네트워킹을 위해 Pasta를 기본적으로 채택하고 있으며, containers.conf 구성 파일을 개선했습니다.
+설명: 최신 버전의 컨테이너 관리 도구 Podman에서는 macOS와 Windows의 하이퍼바이저 지원을 개선하기 위해 podman machine 명령어의 완전한 재작성을 추가했습니다. 또한, 매니페스트 파일에 OCI 아티팩트를 지원하며, rootless 네트워킹을 위해 Pasta를 기본적으로 채택하고 있으며, containers.conf 구성 파일의 개선을 통해 컨테이너에 대한 지원을 향상시켰습니다.
 
 6 번째 검색 내용
-제목: Devoxx Genie IntelliJ 플러그인은 로컬 또는 클라우드 기반의 LLM 모델에 접근을 제공합니다.
+제목: 디빌젤 지니 인텔리제이 플러그인은 로컬 또는 클라우드 기반의 LLM 모델에 접근을 제공합니다.
 주소: https://www.infoq.com/news/2024/05/devoxx-genie-intellij-plugin/
-설명: Devoxx Genie, 100% Java 기반 JetBrains IntelliJ IDEA 플러그인입니다. 이 플러그인은 단위 테스트를 생성하고 소스 코드를 설명하고, 검토하고 개선하는데 로컬 또는 클라우드 기반의 Large Language Model(LLM)을 사용합니다.
+설명: Devoxx Genie, 100% Java 기반 JetBrains IntelliJ IDEA 플러그인입니다. 이는 단위 테스트를 생성하고 소스 코드를 설명, 검토하고 개선하기 위해 로컬 또는 클라우드 기반의 대규모 자연어 모델(LLM)을 사용합니다.
 
 7 번째 검색 내용
 제목: 무한스팬(Infinispan)은 고급 RESP 엔드포인트를 지원하며 JDK 17을 필요로 하는 15.0.0 버전을 공개합니다.
 주소: https://www.infoq.com/news/2024/05/infinispan-15/
-설명: 인피니스팬, Java로 작성된 열린 소스 키/값 데이터 저장소와 데이터 그리드 플랫폼입니다. 최신 버전 15.0.0을 공개했습니다. 이 릴리즈는 중요한 기점입니다. 특히, RESP 엔드포인트에서 대부분의 코어 Redis 명령을 구현하고 있으며, 인트라클러스터 통신을 최적화하였습니다. 추가로, 트레이싱 서브시스템과 서버 관리 콘솔을 향상시키고, 최소 JDK를 JDK 17으로 업데이트했습니다.
+설명: 인피니스팬, Java로 작성된 오픈소스 키/값 데이터 저장소와 데이터 그리드 플랫폼입니다. 최신 버전 15.0.0을 공개했습니다. 이 릴리즈는 중요한 기점입니다. 특히, RESP 엔드포인트에서 대부분의 코어 Redis 명령을 구현하고 있으며, 인트라클러스터 통신을 최적화하였습니다. 추가로 트레이싱 서브시스템과 서버 관리 콘솔을 향상시키고 JDK 17으로 최소 사용되는 JDK를 업데이트했습니다.
 
 8 번째 검색 내용
 제목: 자바 뉴스 요약: OpenJDK JEPs, Spring 프로젝트, 큐어크스, 하이버네이트, 지피스터, 제리리즈
 주소: https://www.infoq.com/news/2024/05/java-news-roundup-apr29-2024/
-설명: 이번 4월 29일 자바 주요 소식은 JEP 476, 모듈 가져오기 선언(미리보기), JEP 474, ZGC: 세대 기본 모드로 목표지점인 JDK 23을 위한 것들; 새로운 JEP 후보자들과 Spring 프로젝트, Quarkus, Hibernate ORM, Hibernate Reactor, JHipster, JHipster Lite, 및 JReleaser에 대한 업데이트를 포함합니다.
+설명: 이번 주 4월 29일 Java 요약서는 JEP 476, 모듈 가져오기 선언(미리보기), JEP 474, ZGC: 세대 기본 모드를 위한 JDK 23을 대상으로 하고 있으며, 새로운 JEP 후보들과 Spring 프로젝트, Quarkus, Hibernate ORM, Hibernate Reactor, JHipster, JHipster Lite, 및 JReleaser에 대한 업데이트를 포함합니다.
 
 9 번째 검색 내용
-제목: 콘플런트 클라우드의 Apache Flink은 이제 AI 기능을 포함한 일반적으로 사용 가능합니다.
+제목: 콘플런트 클라우드에서 애프로치 플링크는 AI 기능이 포함된 일반적으로 사용 가능한 상태입니다.
 주소: https://www.infoq.com/news/2024/05/confluent-apache-flink-ga/
 설명: 지난 달에 Confluent는 Apache Flink용 Confluent Cloud의 일반 사용 가능성(GA)을 발표했습니다. 이 완전히 관리형 서비스는 실시간 데이터 처리를 지원하고, 재사용 가능한 데이터 스트림의 생성을 허용합니다. 이 서비스는 Amazon Web Services(AWS), Google Cloud, Microsoft Azure에서 사용할 수 있습니다.
 
 10 번째 검색 내용
-제목: 노드.제스22가 ESM 모듈과 웹 API에 대한 지원을 높이로 출시되었습니다.
+제목: 노드.제스22 릴리즈: ESM 모듈과 웹 API에 대한 지원이 증가했습니다.
 주소: https://www.infoq.com/news/2024/05/node-22-released/
-설명: 노드.제스(Node.js) 팀은 최근에 Node.js 22를 발표했습니다. 주요 기능으로는 JavaScript 원시 모듈과 웹 API와의 호환성이 향상되었으며, 성능 개선이 있습니다.
+설명: 노드.제스(Node.js) 팀은 최근에 Node.js 22를 발표했습니다. 주요 기능으로는 JavaScript 원시 모듈과 웹 API와의 호환성이 향상되었으며, 성능 개선이 있음을 포함합니다.
 
 11 번째 검색 내용
 제목: 앤절리(Amazon S3) 비인가 요청 결제 문제: 빈 S3 버킷은 비용을 크게 증가시킬 수 있습니다.
 주소: https://www.infoq.com/news/2024/05/aws-empty-s3-bucket-billing/
-설명: 마크잠 포츠쟈르즈(Maciej Pocwierz), 고급 소프트웨어 공학자는 최근에 중요한 문제를 드러냈습니다. 비어 있는 S3 버킷은 예상치 못한 대규모 AWS 청구서를 초래할 수 있습니다. 그의 경우에는 단일 날에 약 10억 번의 S3 PUT 요청이 실행되어, 무시할 수 없는 청구서가 발생했습니다.
+설명: 마크셀 포츠쟈르즈(Maciej Pocwierz), 고급 소프트웨어 공학자는 최근에 중요한 문제를 드러냈습니다. S3 바킷이 비어 있을 때 예상치 못한 대규모 AWS 청구서가 발생할 수 있다는 것입니다. 그의 경우에는 단일 날에 약 10억 번의 S3 PUT 요청이 실행되어, 거의 무시할 수 없는 청구서가 발생했습니다.
 
 12 번째 검색 내용
-제목: 개방형 소스 APM(Application Performance Management) 및 관측성 도구 Coroot가 이제 GA(General Availability)로 발표되었습니다.
+제목: 개방형 소스 APM(Application Performance Management) 및 관측성 도구 Coroot가 이제 GA(General Availability, 일반 사용 가능)로 되었습니다.
 주소: https://www.infoq.com/news/2024/05/coroot-apm-observability/
-설명: 오픈소스 응용 프로그램 성능 모니터링 시스템 Coroot이 현재 일반적으로 사용할 수 있게 되었습니다. DataDog와 NewRelic의 대안으로 발표된 관측성 도구는 eBPF를 활용하여 시스템 성능에 대한 인사이트를 제공하며, eterogeneous 인프라스트럭처의 모니터링을 지원합니다.
+설명: 오픈소스 응용 프로그램 성능 모니터링 시스템 Coroot이 현재 일반적으로 사용할 수 있게 되었습니다. DataDog와 NewRelic의 대안으로 발표된 관측성 도구는 eBPF를 활용하여 시스템 성능에 대한 인사이트를 제공하며, eterogeneous 인프라를 모니터링 하는데 지원합니다.
 
 13 번째 검색 내용
 제목: 인스턴스 번역결과:
 
-인에스 모탄이 콘 런던에서: 경제의 규모 이점은 AI 혁명을 독점할 수 없다.
+인에스 모탄이 콘 런던에서: 경제의 규모 이익은 AI 혁명을 독점할 수 없다.
 주소: https://www.infoq.com/news/2024/05/ai-revolution-monopol/
-설명: QCon 런던에서 발표한 인스 모탄이, spaCy를 제작한 explosion.ai의 동창 창업자 및 CEO로서 맞춤형 AI 공간에서 경제규모의 효율성만은 독점을 창출하는데 충분하지 않다고 주장했으며, 개방형 소스 기술과 모델을 통해 "Gen AI 혁명"에 따라 모든 사람이 갱신할 수 있는 것이다.
+설명: QCon 런던에서 발표한 인스 모탄이, spaCy의 제작자와 대표로서 참여한 것으로 알려진 explosion.ai의 공동창립자 및 CEO는, AI 분야에서 경제규모의 효율성만을 통해 독점권을 형성하기 위해서는 부족합니다. 오픈소스 기술과 모델을 활용함으로써 모든 사람들이 "Gen AI 혁명"에 따라가는 것이 가능하다고 주장했습니다.
 
 14 번째 검색 내용
-제목: 제프 474: ZGC의 자바에서 표준으로 된 세대 모드
+제목: 제프 474: ZGC의 자바에서 표준화된 세대 모드
 [/INST]
 주소: https://www.infoq.com/news/2024/05/java-zgc-update/
-설명: JEP 474, ZGC: 기본값으로 생성적 모드, JDK 23에 대상되었습니다. 이 JEP은 현재의 비생성적 모드를 생성적 모드로 기본값으로 변경하는 Z Garbage Collector(ZGC)를 사용할 것을 제안합니다. 비생성적 모드는 미래의 JDK 릴리스에서 弃用되고 제거될 것입니다. 이로 인해 두 모드를 유지보수하는 비용이 줄어들며, 미래의 개발은 기본적으로 Generational ZGC를 중점적으로 집중할 수 있습니다.
+설명: JEP 474, ZGC: 기본값으로 생성적 모드, JDK 23에 대상되었습니다. 이 JEP은 현재의 비생성적 모드를 생성적 모드로 기본값으로 변경하는 Z Garbage Collector(ZGC)를 제안합니다. 비생성적 모드는 미래의 JDK 릴리스에서 Deprecated되고 제거될 것입니다. 이로 인해 두 모드를 유지보수하는 비용이 줄어들며, 미래의 개발은 기본적으로 Generational ZGC에 집중할 수 있습니다.
 
 15 번째 검색 내용
 제목: 이메일 위협을 이해하는 클라우드플레어 라더
 
 (Note: The translation may not be perfect as it is a proper noun and specific term. However, the meaning should still be clear.)
 주소: https://www.infoq.com/news/2024/05/cloudflare-radar-email-security/
-설명: 클라우드플레어가 최근에는 클라우드플레어 래더에서 이메일 보안 섹션의 출시를 발표했습니다. 이 섹션은 이메일 보안의 현재 상태에 대한 洞察를 제공합니다. 새로운 지표는 실시간으로 이메일 유출 위협에 대한 시각을 제공하며, 조직은 환경 내의 트렌드와 클라우드플레어에서 관찰되는 보다 광범위한 보안 관측을 연결할 수 있습니다.
+설명: 클라우드플레어가 최근에는 클라우드플레어 래더에서 새로운 이메일 보안 섹션을 출시했다고 발표했습니다. 이 섹션은 이메일 보안의 현재 상태에 대한 洞인을 제공할 것입니다. 새로운 지표는 실시간으로 이메일 전송으로 인한 위협에 대한 시각을 제공하며, 조직은 환경 내의 트렌드를 보다 넓은 보안 관찰을 통해 Cloudflare와 관련된 상호 작용을 연계할 수 있습니다.
 
