@@ -1,0 +1,87 @@
+1 번째 검색 내용
+제목: QCon 런던: 의료 분야에서 클라우드로 전환 - On-Prem에서 모던화
+
+(Note: The Korean translation may not be perfect as it involves translating a specific event name and its context. Please review the translation for accuracy.)
+주소: https://www.infoq.com/news/2024/05/onprem-cloud-migration-qcon/
+설명: QCon 런던에서 Leander Vanderbijl, Livi의 고급 엔지니어,는 온프레미스 솔루션을 클라우드로 이동하는 여정을 다룹니다. 그는 이 여정에서 겪은 도전과 선택의 사고를 포함합니다. 세션은 '시스템 연결: API, 프로토콜, 관찰성' 트랙의 일부입니다.
+
+2 번째 검색 내용
+제목: [INST] 아마존 Q 비즈니스와 아마존 Q 개발자가 일반적으로 사용 가능해졌습니다.
+[/INST]
+주소: https://www.infoq.com/news/2024/05/amazon-q-developer-business/
+설명: AWS는 최근에 Amazon Q를 일반적으로 사용할 수 있도록 공지했습니다. Amazon Q는 비즈니스와 개발자들을 위한 생성형 AI 기능이 내장되어 있는 助手입니다. Amazon Q Developer는 실시간으로 코드 제안과 추천을 제공하며, Amazon Q Business는 구조화된 및 비구조화된 데이터에서 회사가 인사이트를 얻을 수 있도록 합니다.
+
+3 번째 검색 내용
+제목: 현대 데이터 아키텍처, ML, 및 강력성 주제가 QCon 산프란시스코 2024년에 발표되었습니다.
+주소: https://www.infoq.com/news/2024/05/topics-announced-qcon-sf-2024/
+설명: QCon 산프란시스코는 11월 18일부터 22일까지 열리며, 2024년에 관심을 가져야 하는 혁신과 새로운 트렌드에 집중합니다. 국제 소프트웨어 실무자들의 기술 발표로 인해 QCon은 팀으로 돌려보내는 데 사용할 수 있는 실시간 인사이트와 스킬을 제공합니다.
+
+4 번째 검색 내용
+제목: 인간, 지구, 雲과 AI: QCon 런던에서의 주요 결론
+
+(Note: The Korean translation may not be perfect as it is a machine translation. Please review and make any necessary adjustments.)
+주소: https://www.infoq.com/news/2024/05/qcon-london-takeaways-arch/
+설명: 이 해의 QCon London은 소프트웨어 아키텍처와 직접적으로 또는 간접적으로 관련된 다양한 발표를 제공했습니다. AI의 등장에서 이를 포함하여 클라우드 관련 영역까지, 그리고 일반적인 클래식과 같은 아키텍처 품질 특성까지 다양한 주제로 발표가 있었습니다. 이 컨퍼런스에서는 소셜기술적 측면의 소프트웨어 아키텍처와 엔지니어링과 지속 가능성을 고려하여 다양한 발표가 진행되었습니다.
+
+5 번째 검색 내용
+제목: QCon 런던: 개발자 경험 구성
+
+(Note: The given text seems to be a title or heading, and the translation provided is for the Korean language. If you need further assistance with the translation or have any other questions, please let me know.)
+주소: https://www.infoq.com/news/2024/05/curating-developer-experience/
+설명: QCon 런던 2024년에 진행된 발표 "개발자 경험 극대화"에서는, 베팅 회사 Flutter에서 Developer Experience(DevEx)를 운영 철학으로 받아들이는 것을 중심으로 Andy Burgin이 발표했습니다.
+
+DevEx의 생산성 향상과 팀 간 협력과 공감을 장려하는 데 있어 잠재적인 가치를 인정한 Burgin은 Flutter가 DevEx를 구현하고 발전시키는 방법을 설명했습니다.
+
+6 번째 검색 내용
+제목: [INST]  Korean: 
+
+                            기계학습 시스템 구축에 대한 도전과 해결책
+                         [/INST]
+주소: https://www.infoq.com/news/2024/05/build-machine-learning-systems/
+설명: 캠일라 몬토네넬 대로, 기계학습 시스템을 구축하는 데에서의 주요한 문제는 모델을 생성하고 유지보수하는 것입니다. MLOps 플랫폼과 솔루션은 기계 시스템을 구축하는데 필요한 컴포넌트를 포함합니다. MLOps는 도구에 대한 것이 아님, 문화와 실천의 집합입니다. 몬토네넬은 데이터 과학 및 기계 학습 엔지니어링의 실천 간격을 연결해야 한다는 것을 제안합니다.
+
+7 번째 검색 내용
+제목: GitHub는 Dependabot을 GitHub Actions를 통해 활성화하며, 공급 체인 보안 향상에 기여합니다.
+주소: https://www.infoq.com/news/2024/05/github-dependabot-supply-chain/
+설명: GitHub는 저장소의 보안과 견고성을 개선하기 위해 두 가지 기능을 발표했습니다. 첫 번째 기능은 Dependabot이 GitHub Actions 워크플로우로 실행되도록 허용하는 것입니다. 호스팅된 및 자체 호스팅 러너를 사용할 수 있습니다. 두 번째 릴리즈는 Artifact Attestations의 공개 베타를 소개합니다. 저장소 관리자가 빌드 작품의 유전자를 간단하게 생성할 수 있도록 간편화합니다.
+
+8 번째 검색 내용
+제목: 메타는 오픈소스 LLM Llama 3를 발표합니다.
+주소: https://www.infoq.com/news/2024/05/meta-llama-3/
+설명: 메타 AI는 대규모 언어 모델(LLM) 가족의 최신 세대인 Llama 3를 발표했습니다. 모델은 8B와 70B 매개변수 크기로 제공되며, 각각 기본 및 지시문 튜닝 버전이 있습니다. Llama3는 동일한 매개변수 크기의 다른 LLM에 비해 표준 LLM 벤치마크에서 더 우수합니다.
+
+9 번째 검색 내용
+제목: 클라우드 기반 모니터링을 Azure Monitor 파이프라인으로 향상시키십시오.
+주소: https://www.infoq.com/news/2024/05/azure-monitor-pipeline-preview/
+설명: Azure Monitor는 Microsoft의 클라우드 모니터링 서비스입니다. 이 서비스는 응용 프로그램, 인프라, 및 네트워크에서 수집하고 시각화하여 분석할 수 있는 텔레메트리 데이터를 모니터링합니다. 최근 회사는 미리 보기에서 엣지 파이프라인과 함께 데이터 수집 기능을 추가했습니다. 이렇게 하면 클라우드로 전송되기 전에 텔레메트리 데이터를 수집하고 라우팅할 수 있습니다.
+
+10 번째 검색 내용
+제목: JobRunr은 가상 스레드에 내장된 지원을 포함한 버전 7.0을 소개합니다.
+주소: https://www.infoq.com/news/2024/05/jobrunr-7-virtual-threads/
+설명: JobRunr v7는 JDK 21을 사용하는 애플리케이션에서 기본적으로 가상 스레드로 설정되어, I/O 바인드 작업의 동시성을 최적화하고 더 많은 작업을 동시에 실행할 수 있도록 합니다. 이 업데이트는 Java 8과의 호환성을 유지하며 GraalVM native mode를 지원합니다. RedisStorageProvider와 ElasticSearchStorageProvider는 미래의 릴리스에서 제거될 계획입니다. MongoDB 드라이버도 업그레이드되었습니다.
+
+11 번째 검색 내용
+제목: [INST] 코드를 부분적으로 재작성하여 Mac과 Windows에서 성능과 안정성을 향상시킨 Podman 5입니다. [/INST]
+주소: https://www.infoq.com/news/2024/05/podman-5-released/
+설명: 최신 버전의 컨테이너 관리 도구 Podman에서는 macOS와 Windows에서 하이퍼바이저 지원을 개선하기 위해 podman machine 명령어의 완전한 재작성을 추가했습니다. 또한, 매니페스트 파일에 OCI 아티팩트를 지원하며, rootless 네트워킹을 위해 Pasta를 기본적으로 채택하고 있으며, containers.conf 구성 파일을 개선했습니다.
+
+12 번째 검색 내용
+제목: 디빌젤 지니 인텔리제이 플러그인은 로컬 또는 클라우드 기반의 LLM 모델에 접근을 제공합니다.
+주소: https://www.infoq.com/news/2024/05/devoxx-genie-intellij-plugin/
+설명: Devoxx Genie는 100% Java 기반의 JetBrains IntelliJ IDEA 플러그인으로, 단위 테스트를 생성하고 소스 코드를 설명, 검토하고 개선하기 위해 로컬이나 클라우드 기반의 대규모 자연어 모델(LLM)을 사용합니다.
+
+13 번째 검색 내용
+제목: 무한스캔(Infinispan)은 고급 RESP 엔드포인트를 지원하며 JDK 17을 필요로 하는 15.0.0 버전을 공개합니다.
+주소: https://www.infoq.com/news/2024/05/infinispan-15/
+설명: 인피니스팬, Java로 작성된 오픈소스 키/값 데이터 저장소와 데이터 그리드 플랫폼입니다. 최신 버전 15.0.0을 공개했습니다. 이 릴리즈는 중요한 기점입니다. 특히, RESP 엔드포인트에서 대부분의 코어 Redis 명령을 구현하고 있으며, 인트라클러스터 통신을 최적화하였습니다. 추가로 트레이싱 서브시스템과 서버 관리 콘솔을 향상시키고 JDK 17으로 최소 사용되는 JDK를 업데이트했습니다.
+
+14 번째 검색 내용
+제목: 자바 뉴스 요약: OpenJDK JEPs, Spring 프로젝트, 큐어크스, 하이버네이트, 지피스터, 제리리즈
+주소: https://www.infoq.com/news/2024/05/java-news-roundup-apr29-2024/
+설명: 이번 주 4월 29일 Java 요약서는 JEP 476, 모듈 가져오기 선언(미리보기), JEP 474, ZGC: 세대 기본 모드를 위한 JDK 23을 대상으로 하고 있으며, 새로운 JEP 후보자들과 Spring 프로젝트, Quarkus, Hibernate ORM, Hibernate Reactor, JHipster, JHipster Lite, 및 JReleaser에 대한 업데이트를 포함합니다.
+
+15 번째 검색 내용
+제목: 콘플런트 클라우드에서 애프로치 플링크는 AI 기능이 포함된 일반적으로 사용 가능한 상태입니다.
+주소: https://www.infoq.com/news/2024/05/confluent-apache-flink-ga/
+설명: 지난 달에 Confluent는 Apache Flink용 Confluent Cloud의 일반 사용 가능성(GA)을 발표했습니다. 이 완전히 관리형 서비스는 실시간 데이터 처리를 지원하고, 재사용 가능한 데이터 스트림의 생성을 허용합니다. 이 서비스는 Amazon Web Services(AWS), Google Cloud, Microsoft Azure에서 사용할 수 있습니다.
+
