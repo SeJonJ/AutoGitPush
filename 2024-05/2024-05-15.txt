@@ -1,0 +1,93 @@
+1 번째 검색 내용
+제목: 넘어가는 비밀번호: 엘라스틱의 프로액티브한 피싱 저지 대응형 인증
+
+(Note: The translation may not be perfect as it involves some technical terms. Please review the translation for accuracy.)
+주소: https://www.infoq.com/news/2024/05/elastic-phishing-resistant-mfa/
+설명: 최근에는 검색 기반 솔루션을 지원하는 Elastic 플랫폼이 MFA(다단계 인증)의 장점을 논의했습니다. 이 안전한 인증 방법은 비밀번호, SMS 코드 또는 생체 기록을 사용하는 일반적인 MFA를 초과하여 여러 단계의 보호 및 암호화된 등록 프로세스를 사용합니다.
+
+2 번째 검색 내용
+제목: 애플 오픈소스로 발표: 1억 개 매개변수 언어 모델 OpenELM
+주소: https://www.infoq.com/news/2024/05/apple-llm-openelm/
+설명: 애플은 트랜스포머 기반의 언어 모델인 OpenELM를 발표했습니다. OpenELM는 스케일된 주목 메커니즘을 사용하여 효율적인 매개변수 할당을 위해 더 많은 언어 모델과 같은 크기의 모델보다 성능이 높아지며, 훈련에 필요한 토큰 수가 적습니다.
+
+3 번째 검색 내용
+제목: 기술 미리 보기 GitHub Copilot 워크스페이스: 코폴리트-네이티브 개발자 환경
+
+(Note: The translation may not be perfect as it is a direct translation from English to Korean. It would be better if a native Korean speaker checks and adjusts the translation for proper grammar and sentence structure.)
+주소: https://www.infoq.com/news/2024/05/github-copilot-workspace-preview/
+설명: 최근에는 GitHub이 특별히 Copilot을 위해 GPT-4 Turbo를 기반으로 구축된 GitHub Copilot Workspace라는 개발자 환경을 기술 미리보기로 출시했습니다. 이 워크스페이스에서는 개발자들이 자연어를 사용하여 빠르게 아이디어를 생성하고, 계획을 세우고, 코드를 구축하고, 테스트하고, 실행할 수 있습니다.
+
+4 번째 검색 내용
+제목: 스포티파이가 새로운 제품으로 백스테이지 IDP를 강화합니다.
+주소: https://www.infoq.com/news/2024/05/spotify-supercharges-backstage/
+설명: 오디오 스트리밍 및 미디어 서비스 제공자인 스포티파이는 백스테이지를 향상시키기 위해 IDP(Integration Development Platform)에 맞춤형 새로운 제품과 서비스 세트를 발표했습니다.
+
+스포티파이의 플랫폼 개발자 경험 Senior Director of Engineering Pia Nilsson은 Backstage 프레임워크를 통해 개발자 포털을 향상시키기 위해 세 가지 새로운 제품을 소개합니다.
+
+5 번째 검색 내용
+제목: GitLab와 Google Cloud는 개발을 간소화하고 보안을 향상시키기 위해 협력합니다.
+주소: https://www.infoq.com/news/2024/05/gitlab-google-cloud-integration/
+설명: 구글 클라우드 넥스트 '24에서는 GitLab이 개발자 경험을 향상시키고 클라우드 기반 개발 워크플로우를 간소화하는데 목적을 가진 통합 시리즈를 발표했습니다. 이러한 통합, 현재 공개 베타 단계에 있습니다. GitLab의 DevOps 플랫폼을 구글 클라우드의 인프라와 서비스로 결합하는 것입니다.
+
+6 번째 검색 내용
+제목: 클라우드플레어에서의 Fortran을 WebAssembly를 활용한 이점 활용하기
+
+(Note: The translation may not be perfect as it is a technical term. Please verify the accuracy if needed.)
+주소: https://www.infoq.com/news/2024/05/cloudflare-workers-fortran/
+설명: 클라우드플레어는 최근에 웹 애스먼리(WebAssembly)로 실행되는 포트란(Fortran)을 Cloudflare Workers에서 실행하는 방법을 보여줬습니다. 이 프로젝트는 LLVM Flang의 최근 발전을 활용하여 포트란을 Wasm으로 컴파일할 수 있게 되었습니다.
+
+7 번째 검색 내용
+제목: 마이크로소프트 개발 프록시 v0.17가 이제 Azure API Center와 통합됩니다.
+주소: https://www.infoq.com/news/2024/05/microsoft-dev-proxy-0-17/
+설명: 마이크로소프트는 최근에 Dev Proxy v0.17.0을 발표하였습니다. 이 버전은 API 등록의 범위를 향상시키고, Azure API Center를 통해 API 준수성을 확인할 수 있도록 합니다. 생산형 API 사용에 대한 확인이 가능하며, 테스트를 향상시키는 것으로 모킹 요청을 개선하였습니다. Windows와 macOS에서의 쉽게 획득과 설정이 간소화되어 접근성이 향상되었습니다.
+
+8 번째 검색 내용
+제목: 제목: JEP 476: Java 개발 간소화를 위한 모듈 가져오기
+
+설명: JEP 476은 Java 개발을 간소화하고 효율적인 모듈 가져오기를 제안합니다. 이 기능으로 개발자들은 프로젝트에서 사용되는 모듈을 더 쉽게 가져올 수 있습니다. 이를 통해 Java 개발의 효율성과 간편성이 향상됩니다.
+주소: https://www.infoq.com/news/2024/05/simplifying-java-module-import/
+설명: JEP 476, "모듈 가져오기 선언(미리 보기)"이 JDK 23에 통합되었습니다. 이 미리 보기 기능은 Java 프로그래밍 언어를 향상시키고, 모듈에서 내보내는 모든 패키지를 간결하게 가져오는 것을 목표로 합니다. 이러한 기능은 모듈 자체에 코드가 있지 않으면 모듈 간 재사용을 단순화하는 데 도움이 됩니다.
+
+9 번째 검색 내용
+제목: AWS는 클라우드워치 앱 시그널에 Python 애플리케이션의 자동 인스트루먼테이션을 추가합니다.
+주소: https://www.infoq.com/news/2024/05/cloudwatch-signals-python/
+설명: AWS는 파이썬 애플리케이션의 자동 인스트럭션을 Amazon CloudWatch Application Signals 기능에 지원했습니다. Application Signals은 AWS Distro for OpenTelemetry를 사용하여 Python 애플리케이션을 코드 변경 없이 인스트럭션할 수 있게 합니다. Application Signals는 서비스 수준 목표(SLOs)를 모니터링하고 AWS 관찰성 및 모니터링 도구와 함께 작동합니다.
+
+10 번째 검색 내용
+제목: 자바 뉴스 요약: 새로운 JEP, Payara 플랫폼, Spring Boot 10년 차 패널티캡
+
+(Note: The Korean translation may not be perfect as the original sentence contains some abbreviations and acronyms that might not have direct translations in Korean. However, I tried to provide a rough translation.)
+주소: https://www.infoq.com/news/2024/05/java-news-roundup-may06-2024/
+설명: 이번 주 6월 6일 Java 요약서는 Payara Platform의 May 에디션과 새로운 JEP 후보인 다음을 강조합니다: JEP 477, Implicitly Declared Classes and Instance Main Methods (Third Preview), JEP 480, Structured Concurrency (Third Preview), JEP 479, Windows 32-bit x86 포트 제거와 JEP 478, Key Derivation API (Preview).
+
+11 번째 검색 내용
+제목: QCon 론도ン: 의료 분야에서 - On-Prem을 클라우드로 전환하는 모던화
+
+(Note: QCon is a conference series, and "London" is a proper noun, so it should not be translated. The rest of the sentence can be translated as above.)
+주소: https://www.infoq.com/news/2024/05/onprem-cloud-migration-qcon/
+설명: QCon 런던에서 Leander Vanderbijl, Livi의 고급 공학자로서는 온프레미스 솔루션을 클라우드로 이동하는 여정을 논의했습니다. 그는 이 여정에서 직면한 도전과 선택을 이끌어내는 사고를 포함했습니다. 세션은 "시스템 연결: API, 프로토콜, 관찰성" 트랙의 일부입니다.
+
+12 번째 검색 내용
+제목: 앤젬론Q 비즈니스와 앤젬론Q 개발자가 일반적으로 사용 가능합니다.
+주소: https://www.infoq.com/news/2024/05/amazon-q-developer-business/
+설명: AWS는 최근에 Amazon Q를 일반적으로 사용할 수 있도록 공지했습니다. Amazon Q는 기업과 개발자들을 위해 생성형 AI가 강화된 대화 助手입니다. Amazon Q Developer는 실시간으로 코드 제안과 추천을 제공하며, Amazon Q Business는 구조화되고 비구조화된 데이터에서 기업이 인사이트를 얻게 합니다.
+
+13 번째 검색 내용
+제목: 현대 데이터 아키텍처, ML, 및 강력성 주제가 QCon 산프란시스코 2024년에 발표되었습니다.
+주소: https://www.infoq.com/news/2024/05/topics-announced-qcon-sf-2024/
+설명: QCon 산프란시스코는 11월 18일부터 22일까지 진행되며, 2024년에 관심을 가져야 하는 혁신과 새로운 트렌드에 집중합니다. 국제 소프트웨어 실무자들의 기술 발표로 인한 실시간 사용 가능한 지식과 핵심 인사이트를 팀에 돌려놓을 수 있는 QCon입니다.
+
+14 번째 검색 내용
+제목: 인간, 지구, 클라우드, 및 AI: QCon 런던에서의 주요 결론
+
+(Note: The Korean translation may not be perfect as it is a machine translation. Please review and make necessary adjustments if needed.)
+주소: https://www.infoq.com/news/2024/05/qcon-london-takeaways-arch/
+설명: 이 해의 QCon London은 소프트웨어 아키텍처와 직접적으로 또는 간접적으로 관련된 다양한 발표를 제공했습니다. AI의 등장에서 시작하여 클라우드 관련 영역까지, 일반적인 클래식 아키텍처 품질 특성까지 포함한 모든 것이 있었습니다. 이 컨퍼런스에서는 소셜티칭 측면의 소프트웨어 아키텍처와 엔지니어링과 지속 가능성을 광범위하게 고려한 발표도 많이 있었습니다.
+
+15 번째 검색 내용
+제목: QCon 런던: 개발자 경험 구성
+
+(Note: The given text seems to be a title or heading. In Korean, it would be written in all capital letters as per the original format.)
+주소: https://www.infoq.com/news/2024/05/curating-developer-experience/
+설명: QCon 런던 2024에서 "개발자 경험 극대화"라는 주제로 진행된 토크에서, 슈터링 이사인 안디 버기님은 베팅 회사 Flutter에서 Developer Experience(DevEx)를 운영 철학으로 받아들이는 것의 가능성을 인정하며, DevEx가 생산성을 향상시키고 팀 간 협력과 공감을 장려할 수 있다는 점을 설명했습니다.
+
