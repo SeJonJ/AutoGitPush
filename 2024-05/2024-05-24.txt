@@ -1,0 +1,97 @@
+1 번째 검색 내용
+제목: Agile 소프트웨어 개발을 다문화 팀에서 효과적으로 운영하는 방법
+
+(Note: The translation may not be perfect as it is a direct translation. In Korean, the subject and object often come before the verb, so the sentence structure might need to be adjusted for natural flow in Korean.)
+주소: https://www.infoq.com/news/2024/05/software-dev-multicultural-teams/
+설명: 동등성은 팀원들에게 같은 기회와 허용을 제공하지만, 균형은 개인적이고 고유한 필요를 충족시키는 환경을 창조하는 것입니다. 엘모한드 모ха메드 대로 다문화 팀에서의 커뮤니케이션은 정확하고 명확해야 하며, 컨텍스트에 의존도가 낮아야 합니다.
+
+2 번째 검색 내용
+제목: 구글 I/O 2024 요약: 곤미 1.5, 프로젝트 아스트라, AI 강화 검색 엔진
+주소: https://www.infoq.com/news/2024/05/google-io-2024/
+설명: 구글은 지난해에 열린 Google I/O 2024 개발자 컨퍼런스에서 다양한 소식이 전달되었습니다. 예상대로 AI는 이 행사의 중심에 있었으며, 거의 모든 Google 제품에 적용되었습니다. 이 행사에서 주요한 소식을 정리해 보겠습니다.
+
+3 번째 검색 내용
+제목: QCon 런던: 팀 탑로픽시
+
+(Note: The given text seems to be a title or heading. In Korean, it would be written as above.)
+주소: https://www.infoq.com/news/2024/05/qcon-london-2024-team-topologies/
+설명: QCon 런던 2024에서 Ricardo Nuno Almeida는 m3ter에서 Team Topologies를 적용하는 것에 대해 말했습니다.
+
+Almeida, m3ter의 상위 소프트웨어 엔지니어링 매니저, 성공을 위해 어떻게 유연성이 중요하였는지 설명하고, 성장 요구사항과 변경된 우선 순위에 맞춰 팀 토폴로지를 발전시키는 m3ter의 여정을 통해 이야기했습니다.
+
+4 번째 검색 내용
+제목: 구글은 장치에서 생성형 AI를 활성화하기 위해 크롬에 제네시스 나노를 추가합니다.
+주소: https://www.infoq.com/news/2024/05/chrome-gemini-nano/
+설명: 구글의 2024년 개발자 컨퍼런스 Google I/O에서는 장치에서 대규모 언어 모델 지원을 현실로 만들기 위해 크롬에 Gemini Nano, 그의 가장 작은 모델을 통합할 계획을 발표했습니다.
+
+5 번째 검색 내용
+제목: 새로운 리눅스 발표 4월 2024 Java 보고서
+
+(Note: The translation may not be perfect as it is a direct translation without considering the context or proper grammar rules in Korean. It's always recommended to have a native speaker review the translation for accuracy.)
+주소: https://www.infoq.com/news/2024/05/new-relic-java-2024/
+설명: 새로운 리얼 이크 2024년 春版의 Java 생태계 상태 보고서를 출시했습니다:
+
+이 보고서는 개발자 연구와 달리, 수백만 개의 실제 프로덕션 JVM에서 직접 보고된 데이터를 기반으로 하며, 자신 보고가 아닙니다.
+
+6 번째 검색 내용
+제목: InfoQ Dev Summit Boston: 메모리얼 데이 세일로 최대 60% 할인하여 저장하십시오.
+주소: https://www.infoq.com/news/2024/05/dev-summit-memorial-day-offer/
+설명: InfoQ Dev Summit Boston (6월 24일-25일)는 메모리얼 데이 셀 특별 할인 판매를 진행하고 있습니다. 이 할인은 최대 60%까지 적용되며, 이 기회에 20명 이상의 고급 소프트웨어 실무자들로부터 현재 중요한 개발 우선 순위에 대한 실시간 인사이트를 배울 수 있습니다. 보안, 생성형 AI, 모던 웹 앱 등과 관련된 질문에 대한 명확한 답변을 얻으십시오. 이러한 기술 발표를 두 일 동안 수강하세요.
+
+7 번째 검색 내용
+제목: 앤절론 EC2 C7i-flex 인스턴스: 계산 중심 작업에 대한 가격-성능 이점
+
+(Note: The translation may not be perfect as some terms might have specific meanings in the context of Amazon Web Services. Please verify the accuracy if needed.)
+주소: https://www.infoq.com/news/2024/05/ec2-c7i-flex-instances/
+설명: AWS는 Amazon EC2 C7i-flex 인스턴스의 일반 사용 가능성을 발표했습니다. 회사에 따르면, C6i 인스턴스보다 19% 이상의 가격 성능을 제공합니다.
+
+8 번째 검색 내용
+제목: 그랄 클라우드 네이티브 인텔리제이 아이디어 플러그인은 마이크로나츠 기반의 클라우드 무관한 프로젝트를 지원합니다.
+주소: https://www.infoq.com/news/2024/05/graal-cloud-native-intellij/
+설명: 오라클은 오픈소스 Graal Cloud Native (GCN) IntelliJ IDEA Plugin의 버전 1.0.0을 IntelliJ Ultimate, Community, 및 Aqua에 대해 소개했습니다. GCN은 Micronaut 프레임워크를 기반으로 한 클라우드 무관한 개발 프레임워크입니다. 플러그인은 IntelliJ에서 프로젝트를 한 번만 생성하고 여러 클라우드 플랫폼에서 실행할 수 있는 새로운 프로젝트 마법사를 제공합니다.
+
+9 번째 검색 내용
+제목: [INST] 숏텍스트 번역: WildFly 3.2는 Jakarta EE 11의 미리보기를 제공하고 WildFly Glow의 최종 버전을 발표합니다. [/INST]
+주소: https://www.infoq.com/news/2024/05/wildfly32-glow-jakartaee11/
+설명: 숏코드 번역결과: WildFly팀은 WildFly Glow도구를 포함한 WildFly32를 릴리스했습니다. 이 도구는 애플리케이션 아티펩트를 분석하여 필요한 의존성을 결정하고 패키지 레이어를 제안합니다. WildFly32는 Jakarta EE10, MicroProfile, JDK 11, 17, 21을 지원하며, Jakarta EE 11의 미리보기도 제공합니다.
+
+10 번째 검색 내용
+제목: 웹 어셈블리를 사용하여 PostgreSQL을 브라우저에서 실행하기
+[INST] Translate my sentence into Korean :
+
+                            웹 어셈블리를 사용하여 PostgreSQL을 브라우저에서 실행하기
+                         [/INST]
+주소: https://www.infoq.com/news/2024/05/pglite-wasm-postgres-browser/
+설명: 최근에 발표된 PGlite를 통해, WASM으로 빌드된 Postgres가 TypeScript 클라이언트 라이브러리로 패키징되어, 브라우저에서 Postgres 쿼리를 실행할 수 있으며, 추가적인 종속성이 필요하지 않습니다. PGlite는 반응형, 실시간, 로컬 우선 앱에 사용됩니다.
+
+11 번째 검색 내용
+제목: 구글은 스페이너의 신뢰도를 향상시키기 위해 어떻게 Chaos Testing을 수행하는가요?
+
+[INST] How Google Does Chaos Testing to Improve Spanner's Reliability [/INST]
+주소: https://www.infoq.com/news/2024/05/google-spanner-chaos-testing/
+설명: To ensure their Spanner database keeps working reliably, Google engineers use chaos testing to inject faults into production-like instances and stress the system's ability to behave in a correct way in the face of unexpected failures.
+
+[INST] 신뢰할 수 있는 방식으로 작동하기 위해 Spanner 데이터베이스를 유지하려면, Google 공학자들은 예상되지 않는 실패에 대응하여 올바른 방식으로 행동할 수 있는 시스템의 능력을 테스트하기 위해 장애를 생성하여 프로덕션과 유사한 인스턴스에 삽입합니다. [/INST]
+
+12 번째 검색 내용
+제목: [INST] 오픈애이가 GPT-4o를 새로운 기본 모델으로 발표합니다. [/INST]
+주소: https://www.infoq.com/news/2024/05/openai-gpt4o/
+설명: 오픈AI는 최신 버전인 GPT-4o를 최근에 발표했습니다. GPT-4o는 GPT-4의 이전 버전보다 빠르며, 음성, 시각, 다국어 작업 처리 능력이 향상되었으며, Google의 Gemini를 제외한 모든 모델에 비해 여러 벤치마크에서 우수한 결과를 보였습니다.
+
+13 번째 검색 내용
+제목: JEP 467: Java 문서 개선을 Markdown 지원으로 확장
+
+(Note: The above translation is a direct translation of the given text. In Korean, it's common to use the verb at the end of the sentence. So, you might want to consider reordering the sentence for better readability in Korean.)
+주소: https://www.infoq.com/news/2024/05/jep467-markdown-in-javadoc/
+설명: JEP 467, "Markdown Documentation Comments",은 JDK 23의 목표로 승격되었습니다. 이 기능은 JavaDoc 문서화 주석을 HTML과 JavaDoc @ 태그의 섞인 대신 Markdown으로 작성할 수 있도록 합니다. 이는 원본 형식에서 쉽게 작성하고 읽을 수 있는 문서화 주석을 허용합니다.
+
+14 번째 검색 내용
+제목: [INST] 언리슈퍼의 전체 인프라가 내부적인 Google Cloud 오류로 삭제되었습니다. [/INST]
+주소: https://www.infoq.com/news/2024/05/google-cloud-unisuper-outage/
+설명: 오스트레일리아 연금 펀드 관리자인 UniSuper가 Google Cloud를 Infrastructure-as-a-Service(IaaS) 계약으로 사용하여, 전체 인프라 구독이 삭제되었을 때 재생성 방지(DR) 대책이 없다는 것을 발견했습니다.
+
+15 번째 검색 내용
+제목: AI 연구실 확장은 Podman 데스크탑 사용자들이 로컬에서 LLM을 실험할 수 있게 해주며, 이를 통해 AI 기술의 발전과 개선에 기여합니다.
+주소: https://www.infoq.com/news/2024/05/podman-local-llms/
+설명: 1.0 버전 출시 후 한 년 지난 이래, Podman Desktop은 Podman AI Lab 플러그인을 발표하며 개발자들이 대규모 언어 모델을 로컬 기계에서 작업하도록 도와줄 것을 약속했습니다. Podman AI Lab은 LLM(Large Language Model) 워크플로우를 간소화하며, 생성형 AI 탐색, 내장된 레시피 카톡, 선택한 모델, 로컬 서비스, OpenAI와 호환되는 API, 코드 스니펫, 플레이그라운드 환경을 포함합니다.
+
