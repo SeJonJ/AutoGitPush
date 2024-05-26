@@ -1,0 +1,105 @@
+1 번째 검색 내용
+제목: 빌드 요청, 디버깅, 프로파일러 및 다양한 개선 사항이 포함된 Visual Studio 2022 17.11 Preview 1
+주소: https://www.infoq.com/news/2024/05/vs-2022-preview-1/
+설명: 마이크로소프트는 Visual Studio 2022 17.11 Preview 1을 발표했습니다. 이 릴리즈에는 pull request, 기본 단축키, 디버깅 및 Visual Studio 프로파일러와 관련된 기능이 포함되어 있으며, 새로운 릴리즈에서는 *.vsconfig 파일에 대한 향상 사항이 도입되었습니다.
+
+2 번째 검색 내용
+제목: 마이크로소프트는 빌드에서 Azure 함수의 펙리 미리 보기를 공개적으로 소개합니다: 플렉스 사용량 계획
+
+(Note: The translation may not be perfect as it is a direct translation from English to Korean. It would be better if a native Korean speaker checks and adjusts the translation for proper grammar and sentence structure.)
+주소: https://www.infoq.com/news/2024/05/azure-functions-flex-consumption/
+설명: 매년 진행되는 Build 컨퍼런스에서 Microsoft는 Azure 함수에 대한 탑재 소비 플랜을 발표하였습니다. 이 플랜은 사용자들에게 빠르고 큰 유동적 규모, 인스턴스 크기 선택, 개인 네트워킹, 가용성 영역, 및 더 높은 동시 실행 제어를 제공합니다.
+
+3 번째 검색 내용
+제목: 허니콤브 실시간 사용자 모니터링 도구 발표
+
+[/INST]
+주소: https://www.infoq.com/news/2024/05/honeycomb-frontend-observability/
+설명: Honeycomb는 웹 애플리케이션 성능을 향상시키기 위해 새로운 도구인 Honeycomb for Frontend Observability를 개발하였습니다. 이 도구는 OpenTelemetry 인стру먼트레이션을 통합하여 Core Web Vitals 데이터를 수집하고 분석합니다. 주요 기능인 Web Launchpad는 사이트 성능에 대한 깊은 洞察를 제공하며, 이러한 메트릭에 영향을 미치는 문제를 식별하고 해결하는 데 도움이 됩니다.
+
+4 번째 검색 내용
+제목: AWS는 생성형 AI 응용 프로그램을 빌드하기 위한 Amazon Bedrock Studio 소개
+
+(Note: The translation may not be perfect as it is a machine translation. Please check for accuracy if needed.)
+주소: https://www.infoq.com/news/2024/05/amazon-bedrock-studio/
+설명: AWS는 최근에 Amazon Bedrock Studio를 발표했습니다. 개발자들이 협업하고 생성형 AI 응용 프로그램을 빌드할 수 있는 웹 인터페이스입니다. 현재 공개 미리 보기 상태로, 빠른 프로토타입 환경은 여러 기반 모델, 지식 기반, 에이전트, 및 가이드라일을 접근할 수 있습니다.
+
+5 번째 검색 내용
+제목: Agile 소프트웨어 개발을 다문화 팀에서 효과적으로 실행하는 방법 찾기
+
+(Note: The translation may not be perfect as it is a direct translation. It would be better to have it translated by a professional translator or someone fluent in both languages.)
+주소: https://www.infoq.com/news/2024/05/software-dev-multicultural-teams/
+설명: 동등성은 팀원들에게 같은 기회와 허용을 제공하지만, 균형은 개인적이고 고유한 필요를 충족시키는 환경을 창조하는 것입니다. 엘모한드 모ха메드 대로 다문화 팀에서의 통신은 정확하고 명확해야 하며, 컨텍스트에 높은 의존도를 가지면 안됩니다.
+
+6 번째 검색 내용
+제목: 구글 I/O 2024 요약: 곤미 1.5, 프로젝트 아스트라, AI 기반 검색 엔진
+
+[INST] Translate my sentence into Korean :
+                            Recap of Google I/O 2024: Gemini 1.5, Project Astra, AI-powered Search Engine
+                         [/INST]
+주소: https://www.infoq.com/news/2024/05/google-io-2024/
+설명: 구글은 지난해에 열린 Google I/O 2024 개발자 컨퍼런스에서 다양한 소식이 전달되었습니다. 예상대로 AI는 이 행사의 중심에 있었으며, 거의 모든 Google 제품에 적용되었습니다. 이 행사에서 발표한 주요 소식을 요약해보겠습니다.
+
+7 번째 검색 내용
+제목: QCon 런던: 팀 탑로지 소설
+
+(주의: 제공된 문장은 제목이며, 실제 대화에는 아래와 같은 형식으로 사용됩니다. 예를 들어, "QCon 런던"은 대화의 시작이 되며, "[/INST]"는 대화의 끝을 나타냅니다.)
+주소: https://www.infoq.com/news/2024/05/qcon-london-2024-team-topologies/
+설명: QCon 런던 2024에서 Ricardo Nuno Almeida는 m3ter에서 Team Topologies를 적응시키는 것에 대해 말했습니다.
+
+Almeida, m3ter의 상위 소프트웨어 엔지니어링 매니저, 성공을 위해서 어떻게 적응이 중요한지 설명하고 m3ter가 성장 요구와 변화하는 우선 순위를 만족하기 위해 팀 토폴로지를 발전시키는 여정을 실시간으로 진행했습니다.
+
+8 번째 검색 내용
+제목: 구글은 장치에서 생성형 AI를 활성화하기 위해 크롬에 제네시스 나노를 추가합니다.
+주소: https://www.infoq.com/news/2024/05/chrome-gemini-nano/
+설명: 구글의 2024년 개발자 컨퍼런스인 Google I/O에서는 장치에서 대규모 언어 모델 지원을 현실로 만들기 위해 크롬에 Gemini Nano, 그의 가장 작은 모델을 추가하고 있다는 것을 발표했습니다.
+
+9 번째 검색 내용
+제목: 새로운 리눅스 발표 4월 2024년 Java 보고서
+
+(Note: The translation may not be perfect as it is a direct translation. In Korean, the word order in sentences can be different from English.)
+주소: https://www.infoq.com/news/2024/05/new-relic-java-2024/
+설명: 새로운 리눅스는 2024년 春季에 자바 생태계의 상태를 다루는 보고서의 새로운 버전을 출시했습니다.
+
+이 보고서는 개발자 연구와 달리, 이를 기반으로 하는 데에는 수백만 개의 실제 생산 JVM에서 직접 보고된 데이터가 사용되었으며, 자신이 보고한 것은 아닙니다.
+
+10 번째 검색 내용
+제목: InfoQ Dev Summit Boston: 메모리얼 데이 세일로 최대 60% 할인하여 저장하십시오.
+주소: https://www.infoq.com/news/2024/05/dev-summit-memorial-day-offer/
+설명: InfoQ Dev Summit Boston (6월 24일-25일)는 메모리얼 데이 셀 특별 판매로 최대 60%의 할인을 제공하고 있습니다. 이 기회에 20명 이상의 소프트웨어 실무자들로부터 현재 중요한 개발 우선 순위에 대한 실행 가능한 인사이트를 배울 수 있습니다. 생성 AI, 보안, 모던 웹 앱 등에 대한 명확한 이해를 얻으십시오. 소프트웨어 실무자들로부터 두 일 동안의 기술 발표에서 더 많은 것을 배울 수 있습니다.
+
+11 번째 검색 내용
+제목: 앤젬론(Amazon) EC2 C7i-flex 인스턴스: 계산 중심 작업에 대한 가격-성능 이점
+
+[INST] 앤젬론(Amazon) EC2 C7i-flex 인스턴스: 계산 중심 작업에 대한 가격-성능 이점 [/INST]
+주소: https://www.infoq.com/news/2024/05/ec2-c7i-flex-instances/
+설명: AWS는 Amazon EC2 C7i-flex 인스턴스의 일반 사용 가능성을 발표했습니다. 회사에 따르면, C6i 인스턴스보다 19% 이상의 가격 성능이 향상됩니다.
+
+12 번째 검색 내용
+제목: 그랄 클라우드 네이티브 인텔리제이 아이디어 플러그인은 마이크로나츠 기반의 클라우드 무관한 프로젝트를 지원합니다.
+주소: https://www.infoq.com/news/2024/05/graal-cloud-native-intellij/
+설명: 오라클은 오픈소스 Graal Cloud Native (GCN) IntelliJ IDEA Plugin의 1.0.0 버전을 IntelliJ Ultimate, Community, 및 Aqua에 대해 소개했습니다. GCN은 Micronaut 프레임워크를 기반으로 한 클라우드 무관한 개발 프레임워크입니다. 플러그인은 IntelliJ에서 프로젝트를 한 번만 생성하고 여러 클라우드 플랫폼에서 실행할 수 있는 새로운 프로젝트 위즈드를 제공합니다.
+
+13 번째 검색 내용
+제목: [INST] �ildFly 32는 Jakarta EE 11의 미리보기를 제공하고 WildFly Glow의 최종 버전을 발표합니다. [/INST]
+주소: https://www.infoq.com/news/2024/05/wildfly32-glow-jakartaee11/
+설명: �ildFly 팀은 WildFly 32를 발표했습니다. 이 버전에는 WildFly Glow 도구가 포함되어 있으며, 이 도구는 애플리케이션 아티펩트를 분석하여 필요한 의존성을 결정하고 패키지 레이어를 제안합니다. WildFly 32는 Jakarta EE 10, MicroProfile, JDK 11, 17, 21을 지원하며, 또한 Jakarta EE 11의 미리보기를 소개합니다.
+
+14 번째 검색 내용
+제목: 웹 어셈블리를 사용하여 브라우저에서 PostgreSQL 실행
+[INST] Translate my sentence into Korean :
+
+                            웹 어셈블리를 사용하여 브라우저에서 PostgreSQL 실행
+                         [/INST]
+주소: https://www.infoq.com/news/2024/05/pglite-wasm-postgres-browser/
+설명: 최근에 발표된 PGlite를 통해, WASM으로 빌드된 Postgres가 TypeScript 클라이언트 라이브러리로 패키징되어, 브라우저에서 Postgres 쿼리를 실행할 때 추가적인 의존성 없이 개발자들은 사용할 수 있습니다. PGlite는 반응형, 실시간, 로컬 우선 앱에 사용됩니다.
+
+15 번째 검색 내용
+제목: 구글은 스페이너의 신뢰도를 향상시키기 위해 어떻게 챠오스 테스팅을 수행하는가요?
+
+[INST] Translate my sentence into Korean: [/INST]
+주소: https://www.infoq.com/news/2024/05/google-spanner-chaos-testing/
+설명: To ensure their Spanner database keeps working reliably, Google engineers use chaos testing to inject faults into production-like instances and stress the system's ability to behave in a correct way in the face of unexpected failures.
+
+[INST] 신뢰할 수 있는 방식으로 작동하기 위해 Spanner 데이터베이스를 유지하려면, Google 공학자들은 예상되지 않는 실패에 대응하여 올바른 방식으로 행동할 수 있는 시스템의 능력을 테스트하기 위해 차오스 테스팅을 사용하여 생산성과 유사한 인스턴스에 오류를 삽입합니다. [/INST]
+
