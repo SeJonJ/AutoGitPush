@@ -1,0 +1,87 @@
+1 번째 검색 내용
+제목: 코틀린 2.0 출시: 새로운, 더 빠른, 유연한 K2 컴파일러를 포함합니다.
+주소: https://www.infoq.com/news/2024/05/kotlin-2-k2-compiler/
+설명: 제트브레인은 새로운 K2 컴파일러와 함께 Kotlin 2.0을 발표했습니다. 언어 자체에서는 새로운 구문도 없지만, K2 컴파일러는 몇 가지 이점을 제공합니다. 이를 포함한 더 빠른 빌드, 스마트 캐스트와 함께 확장된 분석 능력, 그리고 기본적으로 다플랫폼 지원입니다.
+
+2 번째 검색 내용
+제목: 자바 뉴스 요약: 자바가 29세를 맞이하며, 코틀린 2.0, 자바 1.0 의미 있는 커널, OpenJDK 업데이트 등
+
+(Note: The translation may not be perfect as it is a machine translation. Please check for accuracy.)
+주소: https://www.infoq.com/news/2024/05/java-news-roundup-may20-2024/
+설명: 이번 주 5월 20일의 Java 뉴스 요약에는 다음과 같은 소식이 강조됩니다: Java의 29번째 생일; Kotlin 2.0, Semantic Kernel for Java 1.0의 출시; JEP 477, Implicitly Declared Classes and Instance Main Methods(3차 미리보기)가 JDK 23에 대상되어 있습니다; 그리고 4개의 JEP이 JDK 23에 대상으로 제안되었습니다.
+
+3 번째 검색 내용
+제목: JEP 477은 초보자의 경험을 향상시키기 위해 암묵적으로 선언된 클래스와 인스턴스 메인 메서드를 추가합니다.
+주소: https://www.infoq.com/news/2024/05/jep477-implicit-classes-main/
+설명: JEP 477, "암묵적으로 선언된 클래스와 인스턴스 메인 메서드(3차 미리보기)"는 Targeted 상태로 승격되었습니다. 이 JEP은 "Java 언어를 변화시키여 학생들이 대규모 프로그램을 위해 설계된 언어 기능을 이해하지 않아도 첫 번째 프로그램을 작성할 수 있도록" 제안합니다. 이 JEP은 Brian Goetz의 2022년 9월에 게시한 "입구 벽을 건너오기 쉽게 만드는 길을 열어주는" 블로그 포스트를 전달합니다.
+
+4 번째 검색 내용
+제목: 공개 미리 보기: Azure 컴퓨팅 풀을 통한 Azure 컴퓨팅 용량 관리 간소화
+
+(Note: The translation may not be perfect as it is a technical term. Please double-check the translation for accuracy.)
+주소: https://www.infoq.com/news/2024/05/azure-compute-fleet-management/
+설명: 매년 진행되는 Build 회의에서 Microsoft는 Azure Compute Fleet, VM 유형, 가용성 영역, 가격 모델 등을 통합하여 Azure 컴퓨팅 용량의 배포와 관리를 간소화하고 원하는 규모, 성능, 비용을 달성할 수 있는 새로운 서비스를 공개 미리 보기로 발표했습니다.
+
+5 번째 검색 내용
+제목: 스프링 생태계 릴리즈 중심에는 스프링 부트, 스프링 세션, 그리고 스프링 보안에 집중합니다.
+주소: https://www.infoq.com/news/2024/05/spring-releases-may20-2024/
+설명: 스프링 에코시스템에서 5월 20일 주에 발생한 활동의 폭풍으로, GA 릴리즈를 강조하며 Spring Boot 3.3.0, Spring Security 6.3.0, Spring Session 3.3.0, 그리고 Spring Integration 1.3.0이 발표되었습니다.
+
+6 번째 검색 내용
+제목: 마이크로소프트는 마이크로소프트 그래프에 대한 Bicep 템플릿 지원을 공개 미리 보기로 출시합니다.
+주소: https://www.infoq.com/news/2024/05/public-preview-bicep-templates/
+설명: 마이크로소프트는 2021년 5월 21일부터 Microsoft Graph 리소스용 Bicep 템플릿이 공개 검토에 참여될 것을 발표했습니다. Bicep 템플릿은 Microsoft Graph 리소스 배포를 간편하게 처리하고, 선언형 구문을 사용하여 효율적인 인프라 정의와 반복 배포에 적합한 데브옵스 및 인프라스-코드 워크플로우에 최적화됩니다.
+
+7 번째 검색 내용
+제목: 빌드 요청, 디버깅, 프로파일러 및 기타 개선 사항이 포함된 Visual Studio 2022 17.11 Preview 1
+주소: https://www.infoq.com/news/2024/05/vs-2022-preview-1/
+설명: 마이크로소프트는 Visual Studio 2022 17.11 Preview 1을 발표했습니다. 이 릴리즈에는 pull request, 기본 단축키, 디버깅 및 Visual Studio 프로파일러와 관련된 기능이 포함되어 있으며, 새로운 릴리즈에서는 *.vsconfig 파일에 대한 향상 사항이 도입되었습니다.
+
+8 번째 검색 내용
+제목: 마이크로소프트는 빌드에서 Azure 함수의 펙리 미리 보기를 공개적으로 소개합니다.
+[Flex 사용량 계획]을 위해 Microsoft는 Build 이벤트에서 Azure Functions의 Public Preview를 소개했습니다.
+주소: https://www.infoq.com/news/2024/05/azure-functions-flex-consumption/
+설명: 매년 진행되는 Build 컨퍼런스에서 Microsoft는 Azure 함수용 탕스 소비 플랜을 발표하였습니다. 이 플랜은 사용자들에게 빠르고 큰 유동적 확장성, 인스턴스 크기 선택, 개인 네트워킹, 가용성 영역, 그리고 더 높은 동시 처리 제어를 제공합니다.
+
+9 번째 검색 내용
+제목: 허니컴 프론트엔드 관측성 도구 발표: 실제 사용자 모니터링에 대한 개선된 기능을 포함합니다.
+주소: https://www.infoq.com/news/2024/05/honeycomb-frontend-observability/
+설명: 허니컴브가 새로운 툴인 허니컴브 프론트엔드 관측성에 대한 이전 액세스 프로그램을 소개했습니다. 이 도구는 웹 애플리케이션 성능을 향상시키기 위해 OpenTelemetry 인стру먼트레이션을 통합하여 Core Web Vitals 데이터를 수집하고 분석합니다. 주요 기능, 웹 라ン치패드는 사이트 성능에 대한 깊은 인사이트를 제공하며, 이러한 메트릭에 영향을 미치는 문제를 식별하고 해결하는 데 도움이 됩니다.
+
+10 번째 검색 내용
+제목: AWS가 생성형 AI 응용 프로그램을 빌드하는 데 사용되는 Amazon Bedrock Studio를 소개합니다.
+주소: https://www.infoq.com/news/2024/05/amazon-bedrock-studio/
+설명: AWS는 최근에 Amazon Bedrock Studio를 발표했습니다. 개발자들이 협업하고 생성형 AI 응용 프로그램을 빌드할 수 있는 웹 인터페이스입니다. 현재 공개 미리 보기 상태로, 빠른 프로토타입 환경은 여러 기반 모델, 지식 기반, 에이전트, 및 가드레일에 대한 액세스를 제공합니다.
+
+11 번째 검색 내용
+제목: 다국적 팀에서 애그일 소프트웨어 개발을 실행하는 방법 찾기
+
+(Note: The translation may not be perfect as it is a direct translation of the English title. In Korean, it would be more appropriate to use "다국적 팀에서 애그일 소프트웨어 개발을 효과적으로 실행하는 방법 찾기" which means "Finding ways to effectively implement agile software development in multicultural teams.")
+주소: https://www.infoq.com/news/2024/05/software-dev-multicultural-teams/
+설명: 동등성은 팀원들에게 같은 기회와 허용을 제공하지만, 균형은 개인적이고 고유한 필요를 충족시키는 환경을 창조하는 것입니다. 엘모한드 모ха메드 대로 다문화 팀에서의 통신은 정확하고 명확해야 하며, 컨텍스트에 높은 의존도를 가지면 안 됩니다.
+
+12 번째 검색 내용
+제목: 구글 I/O 2024 요약: 곤미 1.5, 프로젝트 아스트라, AI 강화 검색 엔진
+주소: https://www.infoq.com/news/2024/05/google-io-2024/
+설명: 구글은 지난해에 열린 Google I/O 2024 개발자 컨퍼런스에서 다양한 소식이 전달되었습니다. 그것은 예상대로 AI가 모든 Google 제품에 포함되어 있었습니다. 이 이벤트의 주요 소식을 요약해 보겠습니다.
+
+13 번째 검색 내용
+제목: QCon 런던: 팀 탑로픽시에서의 m3ter의 이야기
+
+(Note: The given text seems to be a title or heading. In Korean, it would be written in all capital letters as per the original format.)
+주소: https://www.infoq.com/news/2024/05/qcon-london-2024-team-topologies/
+설명: QCon 런던 2024에서 Ricardo Nuno Almeida는 m3ter에서 Team Topologies를 적응시키는 것에 대해 언급했습니다.
+
+Almeida, m3ter의 고급 소프트웨어 엔지니어링 매니저, 성공을 위해서 어떻게 적응이 중요한지 언급하며, m3ter가 성장 요구와 변경된 우선 순위를 만족시키기 위해 팀 토폴로지를 발전시키는 여정을 실시간으로 설명했습니다.
+
+14 번째 검색 내용
+제목: 구글은 장치에서 생성형 AI를 활성화하기 위해 크롬에 제네시스 나노를 추가합니다.
+주소: https://www.infoq.com/news/2024/05/chrome-gemini-nano/
+설명: 구글의 2024년 개발자 컨퍼런스인 Google I/O에서는 장치에서 대규모 언어 모델 지원을 현실로 만들기 위해 크롬에 Gemini Nano, 그룹의 가장 작은 모델을 통합할 계획을 발표했습니다.
+
+15 번째 검색 내용
+제목: 새로운 리눅스 발표 4월 2024년 Java 보고서
+주소: https://www.infoq.com/news/2024/05/new-relic-java-2024/
+설명: 새로운 리눅스는 2024년 春季에 Java 생태계의 상태를 다루는 보고서의 출시를 선언했습니다.
+이 보고서는 개발자 연구와 달리, 이 보고서는 백신 기계(JVM)에서 직접 보고된 데이터로 기반을 둔 것으로, 자체 보고가 아닙니다.
+
