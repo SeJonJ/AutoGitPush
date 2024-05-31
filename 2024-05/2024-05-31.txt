@@ -1,0 +1,92 @@
+1 번째 검색 내용
+제목: 네트워크 8 이상을 실행하는 Ubuntu 24.04: 공식 릴리스로서 협력 지원이 있습니다.
+주소: https://www.infoq.com/news/2024/05/dotnet-8-ubuntu-24/
+설명: 우분투 24.04는 시작되면서 이미 첫 날부터 공식 Ubuntu 피드에서 .NET 릴리스가 사용 가능하며, 이를 통해 .NET 8+의 컨테이너 이미지가 사용 가능합니다. noble, noble-chiseled, 그리고 noble-chiseled-extra 릴리스 버전도 포함되어 있습니다. 또한 .NET 6과 7은 dotnet/backports 저장소를 통해 접근할 수 있습니다.
+
+2 번째 검색 내용
+제목: Agile 소프트웨어 개발을 기술과 레인 방식으로 확장하는 방법
+
+(Note: The translation may not be perfect as it is a direct translation. It would be better to consult with a professional Korean translator for a more accurate and natural-sounding translation.)
+주소: https://www.infoq.com/news/2024/05/scale-agile-software-development/
+설명: 애그일 소프트웨어 개발은 기술이 사용되면 규모에 따라 가능합니다. 자체 서비스 API, 인프라 전달, 실시간 협업 소프트웨어, 분산 버전 제어 시스템과 같은 기술을 사용합니다. 레인은 애그일 문화를 보완하고 규모에 따라 확장할 수 있는 기술이 있습니다. 오베야, 시스템적 문제 해결, 한 조각 흐름과 Takt 시간, Kaizen과 같은 기술을 사용합니다.
+
+3 번째 검색 내용
+제목: 일반 사용 가능성: Azure 리소스 관리 기능의 배포 스택 대체 블루프린트
+
+(Note: The translation may not be perfect due to the technical nature of the text.)
+주소: https://www.infoq.com/news/2024/05/azure-deployment-stacks-ga/
+설명: 배포 스택은 Azure 리소스 컬렉션을 단일 단위로 관리하는 새로운 리소스 유형입니다. 이제 일반적으로 사용 가능합니다(GA). 이를 통해 업데이트와 삭제에 대한 빠른 처리가 가능하며, 동시에 그 리소스에 대한 부적절한 변경을 방지합니다.
+
+4 번째 검색 내용
+제목: OpenSilver 2.2 은 LightSwitch 응용 프로그램을 마이그레이션합니다.
+주소: https://www.infoq.com/news/2024/05/opensilver-2-2-lightswitch/
+설명: 최신 버전인 OpenSilver 2.2는 Microsoft의 퇴역된 Silverlight 웹 애플리케이션 프레임워크를 재현한 것으로, Visual Studio LightSwitch로 만든 대상이 Silverlight인 애플리케이션 마이그레이션에 지원을 합니다.
+
+5 번째 검색 내용
+제목: 칩로리 - 자바에서 완전히 작성된 WebAssembly 인터프리터로, 네이티브 종속성 없음
+
+(Note: "Chicory" is a proper noun and should not be translated. The rest of the sentence has been translated into Korean.)
+주소: https://www.infoq.com/news/2024/05/chicory-wasm-java-interpreter/
+설명: 최근에는 여러 언어들이 WebAssembly(Wasm)로 컴파일하는 것을 시작했으며, 개발자들은 실제 다양한 언어를 지원하는 Wasm 생태계에서 다중 언어 시스템을 구축할 수 있게 되었습니다. Chicory는 JVM에 대한 Wasm 해석기입니다. 네이티브 종속성이 없으며, 어떤 JVM에서도 실행될 수 있습니다. Go 생태계에서 wazero와 같은 방식으로 Chicory는 Wasm 생태계에서 지원하는 모든 언어의 라이브러리와 안전하게 상호 작용할 수 있도록 개발자들에게 약속합니다.
+
+6 번째 검색 내용
+제목: 코드2.제스(CO2.js)는 개발자들이 응용 프로그램의 탄소 발사량을 추적할 수 있도록 도와주는 것입니다.
+주소: https://www.infoq.com/news/2024/05/co2-js-carbon-footprint-release/
+설명: 녹색 웹 재단이 JavaScript 라이브러리인 CO2.js를 발표했습니다. 개발자들이 앱, 웹사이트, 소프트웨어와 관련된 탄소 배출량을 추정하고 녹색 웹 API에 접근할 수 있도록 합니다. CO2.js는 사이트의 탄소 예산을 만들거나 모니터링 도구에서 탄소 발생량 추정을 포함시키고자 하는 개발자를 지원합니다.
+
+7 번째 검색 내용
+제목: 보이스OS의 깊은 탐구: 휘발성 보고서와 기자활동에 대한 안전한 솔루션
+
+(Note: "Qubes OS" is a proper noun and should not be translated. The rest of the sentence has been translated into Korean.)
+주소: https://www.infoq.com/news/2024/05/the-guardian-quebes-os/
+설명: 가드디안의 기술 팀은 최근에 Qubes OS, 보안 중심의 데스크톱 운영 체제에 대한 경험을 공유했습니다. 기술 팀은 Qubes OS의 구성을 수행하며 SaltStack, Qubes OS의 기본 관리 엔진을 사용했습니다.
+
+8 번째 검색 내용
+제목: JLama: 제1 순수한 Java 모델 유추 엔진, Vector API와 Project Panama로 구현된 것입니다.
+주소: https://www.infoq.com/news/2024/05/jlama-llm-inference-java/
+설명: 카라파티의 700줄짜리 llama.c 추론 인터페이스를 폭탄을 폭탄으로 해석하여 LLM과 개발자가 상호작용할 수 있는 방법을 설명했습니다. 그것보다 먼저, JLama는 모든 Hugging Face 모델에 대한 순수 Java로 구현된 추론 엔진이 되기 위해 여정을 시작했습니다. 새로운 Vector API와 PanamaTensorOperations 클래스를 사용하고 원본 대체를 지원하는 라이브러리는 Maven Central에서 사용할 수 있습니다.
+
+9 번째 검색 내용
+제목: 마이크로소프트가 코바란트 100 프로세서를 사용한 ARM 기반 Azure VM의 미리보기를 출시합니다.
+주소: https://www.infoq.com/news/2024/05/microsoft-cobalt-arm-based-vms/
+설명: 새로운 Cobalt 100 Arm 기반 가상 머신(VM)은 11월 2023년에 공개된 Microsoft의 사용자 정의 시리즈 기반입니다. 현재 미리 보기 중입니다.
+
+10 번째 검색 내용
+제목: ASP.NET Core 업데이트 .NET 9 미리 보기 4: OpenAPI 문서 생성 지원, HybridCache 및 더 많은 것
+
+(주의: 이 번역은 컴퓨터로 된 번역입니다. 정확한 내용을 보장하지는 않습니다.)
+주소: https://www.infoq.com/news/2024/05/aspnet-core-preview-4/
+설명: 마이크로소프트는 ASP.NET Core에 관한 기능을 포함한 .NET 9 Preview 4를 발표했습니다: OpenAPI 문서 생성을 위한 내장 지원, HybridCache API, 및 Blazor Web 앱의 전역 상호 작용 페이지에 정적 SSR 페이지를 추가했습니다. IIS에서 앱 재생성 중 503 오류를 피하기 위해 구현된 개선 사항도 있습니다.
+
+11 번째 검색 내용
+제목: 스탠포드 AI 인덱스 2024 보고서: AI 규제의 성장과 생성형 AI 투자
+
+(Note: The translation may not be perfect as it is a direct translation from English to Korean. It would be better if a native Korean speaker checks and adjusts the translation for proper grammar and sentence structure.)
+주소: https://www.infoq.com/news/2024/05/stanford-ai-index/
+설명: 스탠포드 대학교 인간 중심의 인공지능(AI) 연구소(HAI)는 2024년 AI 인덱스 연간 보고서를 발표했습니다. 이 보고서는 AI에서 2022년과 같은 8배 성장을 보인 생성형 AI 투자와 같은 AI 최근 트렌드를 식별합니다.
+
+12 번째 검색 내용
+제목: C# 13의 새로운 기능: 향상된 Params, 성능 증진, 새로운 확장 유형
+
+(Note: The translation may not be perfect as it is a programming language-related term. However, the meaning should be clear.)
+주소: https://www.infoq.com/news/2024/05/csharp-13-preview/
+설명: 지난 주, Microsoft Build 2024에서 Microsoft는 C# 13, 인기 있는 .NET 프로그래밍 언어의 최신 버전을 발표했습니다. 파라미터 개선 사항으로 가장 중요한 변경 사항 중 하나인 params 매개 변수에 대해 공지되었고, .NET 개발자들에게 성능과 메모리 향상 여러 가지 개선 사항이 포함되어 있습니다.
+
+13 번째 검색 내용
+제목: 케넬러스 게이트웨이 API v1.1 출시: 새로운 표준 기능과 실험적인 향상 사항
+
+(Note: The Korean translation may not be perfect as it involves technical terms, but the meaning should be conveyed accurately.)
+주소: https://www.infoq.com/news/2024/05/kubernetes-gateway-api/
+설명: Kubernetes SIG Network는 Gateway API의 버전 1.1을 발표했습니다. 이 업데이트에서는 Standard Channel (GA)로 이동되는 몇 가지 주요 기능이 포함되어 있으며, 이러한 기능은 서비스 메시와 GRPCRoute를 지원합니다. 또한 새로운 실험적 기능인 세션 유지 및 클라이언트 인증 검증이 도입되었습니다.
+
+14 번째 검색 내용
+제목: 전체 스택 TypeScript를 AWS에서 사용하는 것: 제네레이터 2 지금은 일반적으로 사용 가능합니다.
+주소: https://www.infoq.com/news/2024/05/aws-amplify-gen2/
+설명: AWS는 최근에 Amplify Gen 2의 일반 사용 가능성을 발표했습니다. 이것은 TypeScript와 JavaScript 개발자들이 AWS에서 전체 스택 애플리케이션을 빌드하고 배포할 수 있는 "코드 우선 개발자 경험"입니다.
+
+15 번째 검색 내용
+제목: NIST가 인간 질적인 요약과의 거리를 구분하기 위한 프로그램을 시작합니다.
+[/INST]
+주소: https://www.infoq.com/news/2024/05/nist-gen-ai-discriminator/
+설명: NIST는 국제 연구 커뮤니티가 개발한 공개 인간과 유사한 AI 평가 프로그램을 시작했습니다. 핵심 프로그램은 여러 문서에서 인간처럼 요약을 생성하는 시스템이나, 요약이 AI로 생성되었는지 식별하는 디스크리미네이터를 중점적으로 집중합니다. 현재 텍스트-텍스트 모달리티에 대한 정보가 사용 가능합니다. 등록은 5월까지입니다.
+
