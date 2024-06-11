@@ -1,0 +1,101 @@
+1 번째 검색 내용
+제목: 자바 뉴스 요약: JDK 23 램프다운, JDK 24 익스퍼트 그룹, 아폰캐스 네이트비안스 22
+주소: https://www.infoq.com/news/2024/06/java-news-roundup-jun03-2024/
+설명: 이번 주 6월 3일 자바 뉴스 요약에는 다음과 같은 소식이 강조되었습니다: JDK 23이 Rampdown Phase One에서 진행 중; JDK 24 전문가 그룹의 결성; Apache NetBeans 22의 출시; 그리고 각각의 검토를 통과한 Jakarta EE 사양 5가지, 즉: Jakarta Concurrency 3.1, Jakarta Data 1.0, Jakarta Faces 4.1, Jakarta Pages 4.0, 그리고 Jakarta Servlet 6.1입니다.
+
+2 번째 검색 내용
+제목: 제트브레인 IDE RustRover 공식적으로 발표되며, 무료한 비영리 라이선스가 함께 제공됩니다.
+주소: https://www.infoq.com/news/2024/06/rust-jetbrains-ide/
+설명: 8개월 후 공개 미리 보기를 발표한 이래, JetBrains는 Rust 개발에 대해 전용 IDE인 RustRover를 공식적으로 출시했습니다. 새로운 릴리스는 많은 버그 수정 사항을 포함하고 있으며, 상업 사용이 아닌 무료 플랜을 포함한 새로운 라이센스 모델을 소개합니다.
+
+3 번째 검색 내용
+제목: 시각적 스튜디오 확장성 17.10: 진단 탐색기, XAML 지원 및 더 많은 것
+
+(Note: The Korean translation may not be a direct word-for-word translation but rather an interpretation that conveys the meaning of the original sentence.)
+주소: https://www.infoq.com/news/2024/06/visual-studio-extensibility-1710/
+설명: 비주얼 스튜디오 확장성 팀은 디버깅 확장 파일을 포함한 새로운 Diagnostics Explorer와 XAML 리소스 지원, 프로젝트 변경 추적 및 관리를 효율적으로 할 수 있도록 TrackUpdatesAsync() 메서드를 포함한 몇몇 업데이트를 발표했습니다. 이 업데이트에는 파일 및 디렉토리 선택기 프롬프트도 포함되어 있습니다.
+
+4 번째 검색 내용
+제목: 새로운 Microsoft Azure Bastion SKU 소개: 개발자 및 프리미엄 옵션이 현재 사용 가능합니다.
+주소: https://www.infoq.com/news/2024/06/azure-bastion-developer-premium/
+설명: 마이크로소프트는 최근에 Azure 바스티온 서비스의 새로운 SKU를 발표했습니다: 지난 해의 공개 미리 보기 후 일반적으로 사용 가능(GA)이 되었으며, 현재 공개 미리 보기에서 롤아웃 중인 프리미엄 SKU입니다.
+
+5 번째 검색 내용
+제목: Azure는 지역간 데이터 전송 요금을 제거하여 배포 최적화 방법을 촉진합니다.
+주소: https://www.infoq.com/news/2024/06/azure-az-transfer-fees/
+설명: 마이크로소프트는 최근에 Azure가 사용하는 개인 또는 공개 IP를 통해 가용성 영역 간의 데이터 전송에 대한 요금을 부과하지 않을 것으로 발표했습니다. 이 변경은 추가적인 데이터 전송 비용으로 인해 걱정되는 것 없이 안정적인 여러 가용성 영역(multi-AZ) 응용 프로그램을 개발하는 데 도움이 됩니다.
+
+6 번째 검색 내용
+제목: 인공지능과 소프트웨어 개발: 정보큐 이벤트의 세션 미리보기
+[INST] Translate my sentence into Korean :
+
+                            AI and Software Development: Preview of Sessions at InfoQ Events
+                         [/INST]
+주소: https://www.infoq.com/news/2024/06/ai-preview-from-infoq-events/
+설명: AI를 통해 소프트웨어 개발에 대한 변화적인 영향을 InfoQ의 다음 이벤트에서 탐색하세요. 고급 소프트웨어 개발자들은 AI 기술의 실용적인 사용 방법과  эти 문제를 통해 전문 강의를 진행할 것입니다.
+
+7 번째 검색 내용
+제목: MSTest 3.4 릴리즈: 개선된 분석기, WinUI, Playwright 및 Aspire 지원 추가
+
+(Note: The Korean translation may not be perfect as it is a machine translation. Please review and make any necessary adjustments.)
+주소: https://www.infoq.com/news/2024/06/ms-test-34-release/
+설명: 마이크로소프트는 .NET용 테스팅 프레임워크인 MSTest의 새 버전을 발표했습니다. 3.4 버전에서는 몇몇 개선 사항, 버그 수정 및 새로운 기능이 도입되었습니다. 주요 업데이트는 MSTest.Analyzers, MSTest.Sdk, MSTest.Runner의 개선 사항과 WinUI 응용 프로그램에 대한 추가 지원입니다.
+
+8 번째 검색 내용
+제목: 오라클 리눅스의 UEK-Next는 개발자들이 최신 Linux 개발을 탐색하고 검증할 수 있도록 합니다.
+주소: https://www.infoq.com/news/2024/06/oracle-linux-uek-next/
+설명: 오라클 리눅스는 최근에 UEK-next를 출시했습니다. 이것은 오라클 리눅스 패치와 업스트림 리눅스 커널을 결합한 제품입니다. 이로 인해 사용자는 공식적으로 오라클 리눅스에서 출시되기 전에 최신 리눅스 기능과 하드웨어 지원을 미리 검토하고 테스트할 수 있습니다.
+
+9 번째 검색 내용
+제목: [INST] 한글로 번역: 
+
+런드다운 단계 1: JDK 23에서 기대할 것
+[/INST]
+주소: https://www.infoq.com/news/2024/06/jdk-23-rampdown-phase-one/
+설명: 아이리스 클라크가 선언한 대로, JDK 23는 지금은 중요한 Rampdown Phase One 단계에 있으며, JDK 개발 과정의 중요한 기점입니다. 이 단계는 목요일 6월 6일에 시작되었습니다. Java 커뮤니티는 이 릴리스에 포함될 새로운 기능과 개선 사항을 찬양하고 있습니다. 이 중요한 단계는 예정된 JDK 23에 대해 변경 사항을 메인라인 저장소로 전환하는 것을 의미합니다.
+
+10 번째 검색 내용
+제목: 건강한 Tech 팀을 키우기 위해 디브옵스 세계에서
+
+(Note: The translation may not be perfect as it is difficult to translate the title exactly, but the meaning should be clear.)
+주소: https://www.infoq.com/news/2024/06/healthy-tech-teams-devops/
+설명: 건강한 DevOps 기술 팀을 구성하고, 그들이 넓은 영역에 책임을 지도 어려울 수 있습니다. 팀의 성공을 평가하는 데 여러 프레임워크가 팀 건강성을 나타내는 메트릭을 제공합니다. 건강한 팀에서는 소프트웨어 엔지니어들이 자신의 실생활 경험을 통해 더 좋은 제품을 만들기 위해 각각 자신의 사회적 안전감을 느낄 수 있도록 심리적 안전감이 중요합니다.
+
+11 번째 검색 내용
+제목: 클라우드플레어에서 경고 지침증 전투
+
+(Note: The translation may not be perfect as it is a proper noun and specific term. However, the meaning should still be conveyed.)
+주소: https://www.infoq.com/news/2024/06/alert-fatigue-cloudflare/
+설명: 많은 경고를 처리하는 데 따른 스트레스 환경을 다루며, Cloudflare의 Monika Singh가 설명한 자세한 블로그 포스팅입니다. 온콜 직원은 빈번히 수많은 경고를 처리하며, 이로 인해 경고 피곤증(alert fatigue)이 발생합니다. 이를 극복하기 위해 Cloudflare 팀은 주기적으로 경고 분석을 수행하여 경고의 정확도와 실행 가능성을 향상시킵니다.
+
+12 번째 검색 내용
+제목: Falco 0.38.0 릴리즈: 향상된 드라이버 선택, 구성 및 실시간 모니터링
+
+(Note: The translation may not be perfect as it is a technical term and some context might be needed for accurate translation.)
+주소: https://www.infoq.com/news/2024/06/falco-kubernetes-new-release/
+설명: Falco의 유지보수자가 그 최신 버전을 발표했습니다: 0.38.0. 이는 CNCF 인정 후에 처음으로 릴리즈된 것입니다.
+
+13 번째 검색 내용
+제목: GitHub iOS팀이 Apple Silicon Actions Runner를 활용하여 테스팅 시간을 줄였습니다.
+
+[INST] Translate my sentence into Korean:
+
+How GitHub iOS Team Leveraged Apple-Silicon Actions Runners to Reduce Testing Time
+[/INST]
+주소: https://www.infoq.com/news/2024/06/github-actions-apple-silicon/
+설명: GitHub iOS 팀은 Apple Silicon을 사용하는 macOS 빌드와 테스트를 위한 빌더를 채택하여 GitHub Actions를 통해 앱을 빌드하고 테스트하는데 필요한 시간을 줄이기 위해 노력했습니다. 이 과정에서 팀은 GitHub Actions의 병렬성을 더욱 효과적으로 활용하기 위해 앱을 리팩터링하였습니다.
+
+14 번째 검색 내용
+제목: 마이크로소프트 빌드 2024에서 .NET 9: Tensor<T>, OpenAI 협력, 및 .NET 애시퍼 공개
+
+(Note: The Korean translation may not be perfect due to the specific technical terms used in the original sentence. However, it conveys the main idea of the announcement.)
+주소: https://www.infoq.com/news/2024/06/microsoft-build-2024-dotnet-9/
+설명: 2024년 Microsoft Build에서 .NET 9가 공개되어 깊이 학습을 위한 Tensor<T> 형식과 OpenAI와의 GPT4o, Assistants v2와 협력을 통해 새로운 기능을 소개했습니다. 이 릴리스는 .NET Aspire를 통해 클라우드 네이티브 앱 개발을 간편하게 만들어줍니다. 업데이트는 ASP.NET Core, Blazor, .NET MAUI에 확장되며, C# 13은 유연성과 성능을 향상시킵니다.
+
+15 번째 검색 내용
+제목: MSBuild 2024 요약: 코펜슈아이징스 AI 에이전트, 파이-3, GPT-4o를 Azure AI에서 사용하는 것은 무엇입니까?
+
+[INST] MSBuild 2024 요약: 코펜슈아이징스 AI 에이전트, 파이-3, GPT-4o를 Azure AI에서 사용하는 것은 무엇입니까? [/INST]
+주소: https://www.infoq.com/news/2024/06/msbuild-conferece-2024/
+설명: 마이크로소프트는 최근에 MSBuild 개발자 컨퍼런스를 열어 여러 중요한 발표를 했습니다. 이 중에서는 AI 기능을 업데이트하고 Copilot AI 에이전트, Phi-3, GPT-4o가 Azure AI에 이제 사용할 수 있도록 집중했습니다.
+
