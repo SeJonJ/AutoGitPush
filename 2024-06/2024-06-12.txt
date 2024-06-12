@@ -1,87 +1,88 @@
 1 번째 검색 내용
-제목: Mistral은 AI 코드 생성 모델인 Codestral을 소개합니다.
-주소: https://www.infoq.com/news/2024/06/mistral-codestral-ai/
-설명: 미스트랄 AI는 코드를 중심으로 한 AI 모델인 코데스트랄을 공개했습니다. 코데스트랄은 개발자들에게 코딩 작업을 효율적이고 정확하게 생성하는 도움을 제공합니다.
+제목: Apache Skywalking v10: 분산 시스템의 애플리케이션 성능 모니터링 도구
+
+(Note: The Korean translation may not be a direct word-for-word translation, but it conveys the meaning of the original sentence.)
+주소: https://www.infoq.com/news/2024/06/skywalking-apm/
+설명: Apache 소프트웨어 재단은 분산 시스템에 대한 통합 모니터링, 트레이스, 및 분석을 제공하기 위해 개방형 관측성 플랫폼인 Apache SkyWalking의 버전10를 출시했습니다. 이 버전에는 많은 새로운 기능과 향상 사항이 포함되어 있습니다...
 
 2 번째 검색 내용
-제목: 마이크로소프트는 Azure Monitor를 Query Editor와 PromQL 지원으로 향상시킵니다.
-주소: https://www.infoq.com/news/2024/06/azure-monitor-query-editor/
-설명: 마이크로소프트는 최근 Azure Monitor Metrics에서 Query Editor의 공개 미리 보기를 발표하였습니다. 이것은 사용자가 Azure Monitor 워크스페이스 내에서 PromQL 쿼리를 직접 생성하고 실행할 수 있게 합니다. 이로 인해 도구 간 전환이 필요 없어지며, 메트릭 데이터의 다양한 유형에서 작업할 때 워크플로우를 단순화하고 생산성을 높여줍니다.
+제목: Mistral은 AI 코드 생성 모델인 Codestral을 소개합니다.
+주소: https://www.infoq.com/news/2024/06/mistral-codestral-ai/
+설명: 미스트랄 AI는 코드에 집중한 AI 모델인 코데스트랄을 공개했습니다. 코데스트랄은 개발자들이 코딩 작업에서 효율성과 정확함을 제공하며, 코드 생성에 있어 효율적이고 정확한 도움을 제공합니다.
 
 3 번째 검색 내용
-제목: 제트브레인 아쿼아 IDE를 테스트 자동화에 대해 일반적으로 사용할 수 있게 되었습니다.
-주소: https://www.infoq.com/news/2024/06/aqua-ide-test-automation/
-설명: 아크와(Aqua), 테스트 자동화에 대한 첫 IDE입니다. 이제 일반적으로 사용할 수 있습니다. 이 IDE는 여러 언어를 지원하고 Selenium과 Cypress와 같은 주요 테스팅 프레임워크에도 호환됩니다. JetBrains는 무료 개인 비영리 및 결제 상업 계획을 소개합니다. 또한, Aqua는 All Products Pack에 포함되어 있습니다.
+제목: 마이크로소프트는 Azure Monitor를 Query Editor와 PromQL 지원으로 향상시킵니다.
+주소: https://www.infoq.com/news/2024/06/azure-monitor-query-editor/
+설명: 마이크로소프트는 최근 Azure Monitor Metrics에서 Query Editor의 공개 미리 보기를 발표하였습니다. 이로 인해 사용자들은 Azure Monitor 워크스페이스 내에서 PromQL 쿼리를 직접 생성하고 실행할 수 있게 되었으며, 이는 도구 간 전환이 필요 없이 작업 흐름을 단순화하고 다양한 메트릭 데이터와 함께 작업할 때 생산성을 높여줍니다.
 
 4 번째 검색 내용
-제목: 메타는 MEGALODON LLM을 효율적인 긴 시퀀스 모델링을 위해 오픈소스로 공개합니다.
-주소: https://www.infoq.com/news/2024/06/meta-llm-megalodon/
-설명: 메타, 남부 캘리포니아 대학교, 카리지 맨슨 대학교, 산디에고 캘리포니아 대학교의 연구원들이 최근 MEGALODON을 개방형 소스로 공개했습니다. MEGALODON은 제한 없는 문맥 길이를 가진 큰 언어 모델(LLM)입니다. MEGALODON은 계산적 복잡성이 선형이며, 비슷한 크기의 Llama2 모델보다 다양한 벤치마크에서 우수하게 성능을 나타냅니다.
+제목: 제트브레인 아쿼아 IDE를 테스트 자동화에 대해 일반적으로 사용할 수 있게 되었습니다.
+주소: https://www.infoq.com/news/2024/06/aqua-ide-test-automation/
+설명: 아쿠아, 테스트 자동화의 첫 번째 IDE입니다. 이제 일반적으로 사용할 수 있습니다. IDE는 여러 언어와 주요한 테스팅 프레임워크인 Selenium과 Cypress와 호환됩니다. JetBrains은 무료 개인 비영리 및 결제 상업적 계획을 소개합니다. 또한, 아쿠아는 All Products Pack에 포함되어 있습니다.
 
 5 번째 검색 내용
-제목: Slack은 대규모 언어 모델과 함께 AST(Abstract Syntax Tree)를 결합하여 자동으로 80%의 15,000개 단위 테스트를 변환합니다.
-주소: https://www.infoq.com/news/2024/06/slack-automatic-test-conversion/
-설명: 슬랙의 기술 팀은 최근에 엠니즈를 리액트 테스팅 라이브러리(RTL)로 자동으로 변환하기 위해 대규모 언어 모델(LLM)을 사용하는 방법을 발표했습니다. 슬랙은 AST 변환과 AI를 활용한 자동화를 결합하여 80%의 성공 률을 달성하였으며, 수동 노력이 크게 줄어들었습니다.
+제목: 메타는 MEGALODON LLM을 효율적인 긴 시퀀스 모델링을 위해 오픈소스로 공개합니다.
+주소: https://www.infoq.com/news/2024/06/meta-llm-megalodon/
+설명: 메타, 남부 캘리포니아 대학교, 카리지 맨션 대학교, 산디에이고 캘리포니아 대학교의 연구원들이 최근 MEGALODON을 개방 소스로 공개했습니다. MEGALODON은 제한되지 않는 문맥 길이를 가진 큰 언어 모델(LLM)입니다. MEGALODON은 계산 복잡도가 선형적이며, 비슷한 크기의 Llama 2 모델보다 다양한 벤치마크에서 성능이 우수합니다.
 
 6 번째 검색 내용
-제목: 자바 뉴스 요약: JDK 23 램프다운, JDK 24 익스퍼트 그룹, 아폴로 네이트비안스 22
-주소: https://www.infoq.com/news/2024/06/java-news-roundup-jun03-2024/
-설명: 이번 주 6월 3일 자바 뉴스 요약은 JDK 23의 Rampdown Phase One, JDK 24 전문가 그룹 창설, Apache NetBeans 22 출시 및 다섯 가지 Jakarta EE 사양, 즉 Jakarta Concurrency 3.1, Jakarta Data 1.0, Jakarta Faces 4.1, Jakarta Pages 4.0과 Jakarta Servlet 6.1이 각자 심사를 통과했음을 강조합니다.
+제목: Slack은 대규모 언어 모델과 함께 AST(Abstract Syntax Tree)를 결합하여 자동으로 80%의 15,000개 단위 테스트 케이스를 변환합니다.
+주소: https://www.infoq.com/news/2024/06/slack-automatic-test-conversion/
+설명: 슬랙의 기술 팀은 최근에 엄청난 언어 모델(LLM)을 사용하여 Enzyme를 React Testing Library(RTL)로 자동으로 15,000개의 단위 및 통합 테스트를 변환했습니다. 슬랙은 AST 변환과 AI가 힘을 빌려 자동화한 창의적인 접근 방식으로 80%의 변환 성공률을 달성했습니다. 이는 수동 노력을 크게 줄였습니다.
 
 7 번째 검색 내용
-제목: 제트브레인 IDE RustRover 공식적으로 발표되며, 무료로 비영리 사용 라이선스가 제공됩니다.
-주소: https://www.infoq.com/news/2024/06/rust-jetbrains-ide/
-설명: 8개월 후 공개 미리 보기를 발표한 이래, JetBrains는 Rust 개발에 대해 전용 IDE인 RustRover를 공식적으로 출시했습니다. 새로운 릴리스는 많은 버그 수정 사항을 포함하고 있으며, 상업 사용이 아닌 무료 계획도 포함한 새로운 라이센스 모델을 소개합니다.
+제목: 자바 뉴스 요약: JDK 23 램프다운, JDK 24 익스퍼트 그룹, 아폴로 네이트비안스 22
+주소: https://www.infoq.com/news/2024/06/java-news-roundup-jun03-2024/
+설명: 이번 주 6월 3일 자바 뉴스 요약에는 다음과 같은 소식이 강조됩니다: JDK 23이 Rampdown Phase One에서; JDK 24 전문가 그룹의 창립; Apache NetBeans 22의 출시; 그리고 각각의 검토를 통과한 5개의 Jakarta EE 사양: Jakarta Concurrency 3.1, Jakarta Data 1.0, Jakarta Faces 4.1, Jakarta Pages 4.0, 그리고 Jakarta Servlet 6.1.
 
 8 번째 검색 내용
-제목: 빌드 번호: 17.10
-[인스톨러] Visual Studio 확장성 17.10: 진단 탐색기, XAML 지원 및 더 많은 기능 [/인스톨러]
-주소: https://www.infoq.com/news/2024/06/visual-studio-extensibility-1710/
-설명: VisualStudio.Extensibility 팀은 디버깅 확장 및 XAML 리소스를 지원하는 새로운 Diagnostics Explorer와, 프로젝트 변경을 더 효율적으로 추적하고 관리할 수 있도록 TrackUpdatesAsync() 메서드를 포함한 몇몇 업데이트를 발표했습니다. 이 업데이트에는 파일과 디렉토리 선택기 프롬프트도 포함되어 있습니다.
+제목: 제트브레인 IDE RustRover 공식적으로 릴리스되며 무료한 비영업 라이선스가 제공됩니다.
+주소: https://www.infoq.com/news/2024/06/rust-jetbrains-ide/
+설명: 8개월 후 공개 미리 보기를 발표한 이래, JetBrains는 Rust 개발에 대해 전용 IDE인 RustRover를 공식적으로 출시했습니다. 새로운 릴리스는 많은 버그 수정 사항을 포함하고 있으며, 상업 사용이 아닌 무료 플랜을 포함한 새로운 라이센스 모델을 소개합니다.
 
 9 번째 검색 내용
-제목: 새로운 Microsoft Azure 바스티온 SKU 소개: 개발자 및 프리미엄 옵션이 현재 사용 가능합니다.
-주소: https://www.infoq.com/news/2024/06/azure-bastion-developer-premium/
-설명: 마이크로소프트는 지난 해의 공개 미리 보기를 따라 최근에 Azure Bastion 서비스의 새로운 SKU를 발표했습니다: 개발자 SKU가 지난 해의 공개 미리 보기 후 일반적으로 사용 가능(GA)이 되었으며, 프리미엄 SKU는 현재 공개 미리 보기에서 롤아웃 중입니다.
+제목: 시각적 스탬프 2021년 10월: 진단 탐색기, XAML 지원 및 더 많은 것
+
+(주의: 이 번역은 컴퓨터 언어를 사용하여 생성되었으며, 완벽한 한국어로의 번역은 아닐 수 있습니다.)
+주소: https://www.infoq.com/news/2024/06/visual-studio-extensibility-1710/
+설명: 비주얼 스튜디오 확장성 팀은 디버깅 확장 파일을 포함한 새로운 Diagnostics Explorer와 XAML 리소스 지원, 프로젝트 변경 추적 및 관리를 더 효율적으로 할 수 있도록 TrackUpdatesAsync() 메서드와 파일 및 디렉토리 선택기 제안을 포함한 몇 가지 업데이트를 발표했습니다.
 
 10 번째 검색 내용
-제목: Azure는 지역간 데이터 전송 요금을 제거하여 배포 최적화 방법을 촉진합니다.
-주소: https://www.infoq.com/news/2024/06/azure-az-transfer-fees/
-설명: 마이크로소프트는 최근에 Azure가 사용하는 개인 또는 공개 IP를 통해 가용성 영역 간의 데이터 전송에 대한 요금을 부과하지 않을 것으로 발표했습니다. 이 변경은 추가적인 데이터 전송 비용으로 인해 걱정되는 것 없이 안정적인 여러 가용성 영역(AZ) 애플리케이션을 개발하기 더 쉽게 만들어 주실 것입니다.
+제목: 새로운 Microsoft Azure Bastion SKU 소개: 개발자 및 프리미엄 옵션이 현재 사용 가능합니다.
+주소: https://www.infoq.com/news/2024/06/azure-bastion-developer-premium/
+설명: 마이크로소프트는 최근에 Azure 바스티온 서비스의 새로운 SKU를 발표했습니다: 지난 해의 공개 미리 보기 후 일반적으로 사용 가능(GA)이 되었으며, 프리미엄 SKU는 현재 공개 미리 보기에서 롤아웃 중입니다.
 
 11 번째 검색 내용
+제목: Azure는 지역간 데이터 전송 요금을 제거하여 배포 최적화 방법을 촉진합니다.
+주소: https://www.infoq.com/news/2024/06/azure-az-transfer-fees/
+설명: 마이크로소프트는 최근에 Azure가 사용하는 개인 또는 공개 IP를 통해 가용성 영역 간의 데이터 전송에 대한 요금을 부과하지 않게 되었다고 발표했습니다. 이 변경으로 인해 다중 AZ 애플리케이션 개발에 추가적인 데이터 전송 비용 문제가 없어지게 됩니다.
+
+12 번째 검색 내용
 제목: 인공지능과 소프트웨어 개발: 정보큐 이벤트의 세션 미리보기
 [INST] Translate my sentence into Korean :
 
                             AI and Software Development: Preview of Sessions at InfoQ Events
                          [/INST]
 주소: https://www.infoq.com/news/2024/06/ai-preview-from-infoq-events/
-설명: AI를 통해 소프트웨어 개발에 전환적인 영향을 확인하려면 InfoQ의 다음 이벤트에 참석하십시오. 고급 소프트웨어 개발자들은 AI 기술의 실용적인 사용 방법과  эти 문제를 통해 전문 강의를 진행합니다.
-
-12 번째 검색 내용
-제목: MSTest 3.4 릴리즈: 개선된 분석기, WinUI, Playwright 및 Aspire 지원 추가
-
-(Note: The Korean translation may not be perfect as it is a machine translation. Please review and make any necessary adjustments.)
-주소: https://www.infoq.com/news/2024/06/ms-test-34-release/
-설명: 마이크로소프트는 .NET용 테스팅 프레임워크인 MSTest의 새 버전을 출시했습니다. 3.4 버전에서는 몇 가지 개선 사항, 버그 수정 및 새로운 기능이 도입되었습니다. 주요 업데이트는 MSTest.Analyzers, MSTest.Sdk, MSTest.Runner의 개선 사항과 WinUI 응용 프로그램에 대한 추가 지원입니다.
+설명: AI를 통해 소프트웨어 개발에 전환적인 영향을 확인하려면 InfoQ의 다음 이벤트에서 참석해주세요. 고급 소프트웨어 개발자들은 AI 기술의 실용적인 사용 방법과  эти 문제를 통합 강의로 공유할 것입니다.
 
 13 번째 검색 내용
-제목: 오라클 리눅스의 UEK-Next는 개발자들이 최신 Linux 개발을 탐색하고 검증할 수 있도록 합니다.
-주소: https://www.infoq.com/news/2024/06/oracle-linux-uek-next/
-설명: 오라클 리눅스는 최근에 UEK-next를 출시했습니다. 이것은 오라클 리눅스 패치와 업스트림 리눅스 커널을 결합한 제품입니다. 이로 인해 사용자는 공식적으로 오라클 리눅스에서 출시되기 전에 최신 Linux 기능과 하드웨어 지원을 미리 확인하고 테스트할 수 있습니다.
+제목: MSTest 3.4 릴리즈: 개선된 분석기, WinUI, Playwright 및 Aspire 지원 추가
+
+(Note: The translation may not be perfect as it is a technical term. Please verify the accuracy if needed.)
+주소: https://www.infoq.com/news/2024/06/ms-test-34-release/
+설명: 마이크로소프트는 .NET용 테스팅 프레임워크인 MSTest의 새 버전을 출시했습니다. 3.4 버전에서는 몇 가지 개선 사항, 버그 수정 및 새로운 기능이 도입되었습니다. 주요 업데이트는 MSTest.Analyzers, MSTest.Sdk, MSTest.Runner에 대한 개선 사항과 WinUI 응용 프로그램에 대한 추가 지원입니다.
 
 14 번째 검색 내용
+제목: 오라클 리눅스의 UEK-Next는 개발자들이 최신 Linux 개발을 탐색하고 검증할 수 있도록 합니다.
+주소: https://www.infoq.com/news/2024/06/oracle-linux-uek-next/
+설명: 오라클 리눅스는 최근에 UEK-next를 출시했습니다. 이것은 오라클 리눅스 패치와 업스트림 리눅스 커널을 결합한 제품입니다. 이로 인해 사용자는 공식적으로 오라클 리눅스에서 출시되기 전에 최신 Linux 기능과 하드웨어 지원을 미리 검토하고 테스트할 수 있습니다.
+
+15 번째 검색 내용
 제목: [INST] 한글로 번역: 
 
 런드다운 단계 1: JDK 23에서 기대할 것
 [/INST]
 주소: https://www.infoq.com/news/2024/06/jdk-23-rampdown-phase-one/
-설명: 아이리스 클라크가 선언한 대로, JDK 23는 지금은 중요한 Rampdown Phase One 단계에 있으며, JDK 개발 과정의 중요한 기점입니다. 이 단계는 목요일 6월 6일에 시작되었습니다. Java 커뮤니티는 이 릴리스에 포함될 새로운 기능과 개선 사항을 찬양하고 있습니다. 이 중요한 단계는 JDK 23으로 전환되려는 변경 사항을 주 저장소에 전송하는 것을 의미합니다.
-
-15 번째 검색 내용
-제목: 건강한 Tech 팀 창출을 위한 DevOps 세계에서의 기여
-
-(Note: The translation may not be perfect as it is difficult to translate the title of an event or concept word-for-word. However, this translation conveys the general meaning of the original English title.)
-주소: https://www.infoq.com/news/2024/06/healthy-tech-teams-devops/
-설명: 건강한 DevOps 기술 팀을 구성하고, 넓은 영역에 대한 책임을 지는 것은 어려울 수 있습니다. 팀의 성공을 평가하려면 팀 건강을 나타내는 메트릭이 여러 프레임워크에서 제공됩니다. 건강한 팀에서는 소프트웨어 엔지니어들이 자신의 실생활 경험을 통해 더 나은 제품을 만들기 위해 각각 안전하게 느끼고 참여할 수 있도록 심리적 안전감이 중요합니다.
+설명: 아이리스 클라크가 선언한 대로, JDK 23는 지금 중요한 Rampdown Phase One 단계에 있으며, JDK 개발 과정의 중요한 기점입니다. 이 단계는 목요일 6월 6일에 시작되었습니다. Java 커뮤니티는 이 릴리스에 포함될 새로운 기능과 개선 사항을 찬양하고 있습니다. 이 중요한 단계는 JDK 23에 대
 
