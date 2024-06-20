@@ -1,84 +1,85 @@
 1 번째 검색 내용
 제목: 생성형 AI 기능을 포함한 로직앱 표준과 Azure OpenAI와 AI 검색 커넥터를 사용하여 구현합니다.
 주소: https://www.infoq.com/news/2024/06/logic-apps-azure-generative-ai/
-설명: 마이크로소프트는 이미 이전에 공개 미리 보기로 발표한 Logic Apps Standard의 Azure OpenAI와 Azure AI Search 커넥터가 현재 일반적으로 사용 가능하다고 발표했습니다. 이러한 커넥터는 Azure Integration Services에 완전히 통합되어 있어, 개발자들은 응용 프로그램의 기능을 고급 AI 기능으로 향상시키기 위해 강력한 도구를 제공받습니다.
+설명: 마이크로소프트는 이미 이전에 공개 미리 보기로 발표한 Logic Apps Standard의 Azure OpenAI와 Azure AI Search 커넥터가 일반적으로 사용 가능하다고 발표했습니다. 이러한 커넥터는 Azure Integration Services에 완전히 통합되어 있어, 개발자들은 응용 프로그램의 기능을 고급 AI 기능으로 향상시키기 위해 강력한 도구를 제공받습니다.
 
 2 번째 검색 내용
-제목: Xcode 16은 사용자 정의 모델을 사용한 예측 코드 완성 기능을 제공합니다.
+제목: Xcode 16은 사용자 정의 모델을 사용한 예측 코드 완성을 제공합니다.
 주소: https://www.infoq.com/news/2024/06/xcode-16-predictive-code-complet/
-설명: WWDC 2024에서 Xcode와 Swift Playground 상위 관리자인 켄 오르는 Xcode 16의 다음 버전의 주요 기능을 소개했습니다. 이러한 기능은 예측 코드 완성과 많은 버그 수정 및 개선입니다.
+설명: WWDC 2024에서 Xcode와 Swift Playground 상위 관리자인 켄 오르는 Xcode 16의 다음 버전의 주요 기능을 소개했습니다. 이러한 기능은 예측 코드 완성과 많은 버그 수정 및 향상입니다.
 
 3 번째 검색 내용
 제목: WDL 1.2.0: 생물학 분야에서의 워크플로우 설명 언어 향상
 [/INST]
 주소: https://www.infoq.com/news/2024/06/workflow-description-language/
-설명: 워크플로우 설명 언어(WDL) 팀은 생물정보학에서 워크플로우 설명의 유연성과 사용성을 향상시키기 위한 중요한 업데이트로 WDL 1.2.0을 발표했습니다. 새로운 버전에서는 워크플로우 관리와 실행을 간소화하고, 개발자와 연구원들이 워크플로우를 구현하고 관리하기 쉽게 만드는 몇 가지 주요 기능과 향상 사항을 도입합니다.
+설명: 워크플로우 설명 언어(WDL) 팀은 생물정보학에서 워크플로우 설명의 유연성과 사용성을 개선하기 위한 중요한 업데이트인 WDL 1.2.0을 발표했습니다. 이 새로운 버전에서는 워크플로우 관리 및 실행을 간소화하고 개발자와 연구원들이 워크플로우를 구현하고 관리하기 쉽게 하는데 도움이 될 몇 가지 주요 기능과 향상사항을 소개합니다.
 
 4 번째 검색 내용
-제목: .NET Inline C# 액션 기능을 통해 Logic Apps에서 개발자들에게 더 많은 유연성과 제어를 제공합니다:
+제목: .NET Inline C# Action 기능을 통해 Logic Apps에서 개발자들에게 더 많은 유연성과 제어를 제공합니다:
 [/INST]
 주소: https://www.infoq.com/news/2024/06/logic-app-inline-code-action/
-설명: 마이크로소프트는 Azure Logic Apps 서비스에 대한 중요한 개선 사항을 발표했습니다. .NET C# 인라인 코드 실행을 도입하여 작업 흐름 내에서 C# 코드를 직접 호출할 수 있는 새로운 기능을 추가했습니다. 이 새로운 기능은 개발자들에게 사용자 정의 논리와 복잡한 작업에 대한 유연성과 제어를 제공합니다.
+설명: 마이크로소프트는 Azure Logic Apps 서비스에 대한 중요한 개선 사항을 발표했습니다. .NET C# 인라인 코드 실행을 도입하여 작업 플로우에서 C# 코드를 직접 호출할 수 있는 새로운 기능을 추가했습니다. 이 새로운 기능은 개발자들에게 사용자 정의 논리와 복잡한 작업에 대한 유연성과 제어를 더 크게 제공합니다.
 
 5 번째 검색 내용
 제목: 자바 뉴스 요약: Keycloak 25, Jakarta EE 11 업데이트, Spring Framework, Hibernate ORM, Vaadin 24.4
 주소: https://www.infoq.com/news/2024/06/java-news-roundup-jun10-2024/
-설명: 이번 주 6월 10일 Java 뉴스 요약에는 다음과 같은 소식이 강조됩니다: Keycloak 25, Jakarta Authentication 3.1과 Jakarta Security 4.0의 릴리즈 리뷰, Spring Framework 6.2.0-M4와 해당 서비스 릴리즈, Spring Data 서비스 릴리즈, Hibernate 6.6.0.CR1과 7.0.0.Alpha3, 그리고 Vaadin 24.4의 릴리즈입니다.
+설명: 이번 주 6월 10일 Java 뉴스 요약에는 다음과 같은 소식을 강조합니다: Keycloak 25, Jakarta Authentication 3.1과 Jakarta Security 4.0의 릴리즈 리뷰, Spring Framework 6.2.0-M4와 해당 서비스 릴리즈, Spring Data 서비스 릴리즈, Hibernate 6.6.0.CR1과 7.0.0.Alpha3, 그리고 Vaadin 24.4의 릴리즈입니다.
 
 6 번째 검색 내용
 제목: 애플 WWDC: iOS18와 애플 지능형 공고
 주소: https://www.infoq.com/news/2024/06/wwdc-2024-apple-intelligence/
-설명: WWDC 2024에서 Apple은 "Apple Intelligence"를 공개하였습니다. iOS 18, iPadOS 18, macOS Sequoia로 이르는 아이폰, 아이패드, 맥의 핵심에 AI를 순조로운 방식으로 통합하는 것이 Apple Intelligence의 목표입니다.
+설명: WWDC 2024에서 Apple은 "Apple Intelligence"를 공개하였습니다. iOS 18, iPadOS 18, macOS Sequoia로 이루어진 AI 기능 세트입니다. Apple의 목표는 iPhone, iPad, 그리고 Mac 경험의 심장에 AI를 순조로운 방식으로 통합하는 것입니다.
 
 7 번째 검색 내용
-제목: 엠존 EC2 U7i 인스턴스: 896 vCPU와 메모리 최대 32티비트를 위한 고메모리 작업 로드
+제목: 엠존 EC2 U7i 인스턴스: 896 vCPU와 메모리 최대 32TiB를 위한 고메모리 작업 로드
 [/INST]
 주소: https://www.infoq.com/news/2024/06/aws-ec2-u7i-high-memory/
-설명: AWS가 최근에는 U7i 인스턴스의 일반 사용 가능성을 발표했습니다. 대규모 작업의 수직 확장을 간소화하여 설계되었으며, SAP HANA, Oracle, SQL Server와 같은 큰 메모리 데이터베이스를 지원하는 것이 목적입니다.
+설명: AWS는 최근에 U7i 인스턴스의 일반 사용 가능성을 발표했습니다. 대규모 작업의 수직 확장을 간소화하여 설계되었으며, SAP HANA, Oracle, SQL Server와 같은 큰 메모리 데이터베이스를 지원하는 새로운 U7i 인스턴스입니다.
 
 8 번째 검색 내용
-제목: 도커 데스크톱 4.31은 에어그랩 컨테이너, 더 빠른 빌드 및 다양한 기능을 제공합니다.
+제목: 도커 데스크톱 4.31은 에어그잡 컨테이너, 빠른 빌드 및 더 많은 기능을 제공합니다.
 주소: https://www.infoq.com/news/2024/06/docker-desktop-4-31/
-설명: 최신 Docker Desktop 릴리즈에는 보안과 준수성을 개선하기 위해 공기화 컨테이너를 도입합니다, 클라우드 기반 빌드와의 더 나은 통합을 통해 성능을 향상시키기 위해서입니다, Compose 구성 파일 보기, 그리고 더 많은 것들이 포함되어 있습니다.
+설명: 최신 Docker Desktop 릴리즈에는 보안과 준수를 개선하기 위해 공기 격리 컨테이너가 도입되었으며, 클라우드 기반 빌드와의 통합을 개선하여 성능을 향상시키는 데 도움이 됩니다. 또한 Compose 구성 파일 보기가 포함되어 있으며, 이러한 변경 사항과 더불어 여러 기능이 추가되었습니다.
 
 9 번째 검색 내용
 제목: Elastic가 Tines를 통해 SIEM 조사를 자동화합니다.
 주소: https://www.infoq.com/news/2024/06/elastic-siem-automation-tines/
-설명: Elastic의 정보보안 팀은 최근에 Tines를 사용하여 작업 자동화를 세부적으로 설명했습니다. 이 시스템은 Security Information and Event Management (SIEM) 시스템에서 알림을 자동으로 분류하여, 실제 위협을 식별하고 우선 순위를 지정할 능력을 향상시키는데 도움이 됩니다.
+설명: 엘라스틱의 정보보안 팀은 최근에 Tines를 사용하여 작업 자동화를 진행했습니다. 이 시스템은 보안 정보와 이벤트 관리(SIEM) 시스템에서 발생한 경고를 자동으로 분류하여, 실제 위협을 식별하고 우선 순위를 지정할 능력을 향상시키는 데 목적이 있습니다.
 
 10 번째 검색 내용
-제목: OpenAI가 공식 .NET 라이브러리를 발표합니다.
+제목: [INST] 오픈애이가 공식 .NET 라이브러리를 발표합니다.
+[/INST]
 주소: https://www.infoq.com/news/2024/06/openai-microsoft-dotnet/
-설명: 지난 주에는 OpenAI가 공식 .NET 라이브러리의 첫 번째 베타 버전을 폭로했습니다. 이 버전은 .NET 개발자들이 시도할 수 있는 NuGet 패키지로 제공됩니다. 이 릴리스는 Microsoft의 Build 2024 컨퍼런스에서 발표되었으며, OpenAI와의 협력을 통해 .NET 생태계를 고급 AI 기능으로 향상시키는 것을 강조합니다.
+설명: 지난 주에는 OpenAI가 공식 .NET 라이브러리의 첫 번째 베타 버전을 공개했습니다. 이 버전은 .NET 개발자들이 시도할 수 있는 NuGet 패키지로 제공됩니다. 이 릴리스는 Microsoft의 Build 2024 컨퍼런스에서 발표되었으며, OpenAI와의 협력을 통해 .NET 생태계를 고급 AI 기능으로 향상시키는 것을 강조합니다.
 
 11 번째 검색 내용
-제목: 증가한 예술가 플랫폼 Cara의 인기로 인해, Vercel 기능 비용이 크게 증가했습니다.
+제목: 인기가 높은 아티스트 플랫폼 Cara의 증가로 대체적으로 크게 변경된 Vercel 기능 비용이 발생했습니다.
 주소: https://www.infoq.com/news/2024/06/vercel-serverless-scale-expenses/
-설명: 카라의 웹과 모바일 앱, 예술가들을 위한 플랫폼이다. 인스타그램과 X의 경험을 결합하여 사용자가 포트폴리오를 보여주고 피드에서 업데이트를 공유할 수 있는 공간을 제공한다. 앱의 서버리스 백엔드, Vercel Functions로 동력화되어, 갑자기 사용량이 높아져 짧은 시간 내에 $98,280의 비용이 발생했다.
+설명: 카라의 웹과 모바일 앱, 예술가들을 위한 플랫폼이다. 인스타그램과 X의 경험을 결합하여 사용자가 포트폴리오를 보여주고 피드에서 업데이트를 공유할 수 있는 공간을 제공한다. 앱의 서버리스 백엔드, Vercel Functions로 동력화되어, 갑자기 사용량이 증가한 것으로 인해 최근 98,280달러의 비용이 발생했다.
 
 12 번째 검색 내용
 제목: Azure 코스모스 DB 통합을 Vercel에서 일반적으로 사용 가능
 
-(Note: The translation may not be perfect as it is a machine translation. Please review and make necessary adjustments if needed.)
+(Note: The translation may not be perfect as it is a machine translation. Please review and make any necessary adjustments.)
 주소: https://www.infoq.com/news/2024/06/azure-cosmos-db-vercel/
-설명: 마이크로소프트는 지난 한 해 전에 공개 미리 보기로 발표한 Vercel과 Azure Cosmos DB 통합의 일반 사용 가능성을 발표했습니다. Sajeetharan Sinnathurai, Microsoft의 제품 매니저, 향후 기능 중 인공지능 템플릿와 통합된 벡터 검색 기능이 포함되어 있으며, 커뮤니티 피드백에 응답하는 것을 발표했습니다.
+설명: 마이크로소프트는 지난 한 해 전에 공개 미리 보기로 발표한 Vercel과 Azure Cosmos DB 통합의 일반 사용 가능성을 발표했습니다. Sajeetharan Sinnathurai, Microsoft의 제품 매니저, 향후 기능 중 인공지능 템플릿와 통합된 벡터 검색 기능이 포함되어 있음을 발표했으며, 커뮤니티 피드백에 응답하는 것으로 알려져 있습니다.
 
 13 번째 검색 내용
-제목: 모바일 테스트 자동화를 개선하여 지속적 통합, 중앙 로깅, 메트릭 분석을 사용하라.
+제목: 모바일 테스트 자동화를 개선하기 위해 지속적 통합, 중앙 로깅, 메트릭 분석을 사용하라.
 주소: https://www.infoq.com/news/2024/06/mobile-test-automation/
-설명: 지속적 통합은 자동화된 모바일 테스트를 향상시킬 수 있습니다. 병렬 테스트를 실행하는 여러 모바일 장치의 테스트 데이터는 모니터링을 지원하기 위해 결합될 수 있습니다. 수동 테스팅에서 Jira 티켓은 테스터가 올바른 소프트웨어 버전을 사용하여 수동 테스팅을 할 수 있도록 빌드 프로세스를 트리거할 수 있습니다.
+설명: 지속적 통합은 자동화된 모바일 테스트를 향상시킬 수 있습니다. 병렬 테스트를 실행하는 여러 모바일 장치의 테스트 데이터를 통합할 수 있어 모니터링을 지원할 수 있습니다. 수동 테스팅에서 Jira 티켓이 빌드 프로세스를 시작하도록 트리거되어, 테스터가 올바른 소프트웨어 버전을 사용하여 수동 테스팅을 할 수 있도록 합니다.
 
 14 번째 검색 내용
 제목: 클라우드플레어의 잠시 이상한 서비스 변경 영향: 온라인 카지노에서
 
-(Note: The Korean translation may not be a direct word-for-word translation, but it conveys the meaning of the original sentence.)
+(Note: The Korean translation may not be perfect as it involves translating a specific context and proper nouns. Please make sure to review the translation before using it.)
 주소: https://www.infoq.com/news/2024/06/cloudflare-service-change-impact/
-설명: 최근 온라인 카지노 웹사이트는 Cloudflare가 서비스를 긴급히 중단한 것으로 인해 심각한 장애를 겪었습니다. Robin Dev, 카지노의 시스템 운영 엔지니어, 이 사건의 발생 과정과 그 결과를 자세히 설명한 블로그 포스트에서 이를 밝혔습니다.
+설명: 최근 온라인 카지노 웹사이트는 Cloudflare가 서비스를 긴급히 중단한 것으로 인해 심각한 장애를 겪었습니다. Robin Dev, 카지노의 시스템 운영 엔지니어, 이 사건의 발생 과정과 그 결과를 자세히 설명한 블로그 글에서 이를 밝혔습니다.
 
 15 번째 검색 내용
 제목: Apache Skywalking v10: 분산 시스템의 애플리케이션 성능 모니터링 도구
 
-(Note: The Korean translation may not be perfect, as the original sentence contains some technical terms that might have specific meanings in the context of Apache Skywalking. Please verify the accuracy with a professional translator or someone familiar with the subject matter.)
+(Note: The translation may not be perfect as it is a technical term. Please verify the accuracy if needed.)
 주소: https://www.infoq.com/news/2024/06/skywalking-apm/
-설명: Apache 소프트웨어 재단은 분산 시스템에 대한 통합 모니터링, 트레이싱, 및 분석을 제공하기 위해 개방형 관측성 플랫폼인 Apache SkyWalking의 버전10를 발표했습니다. 이 버전에는 많은 새로운 기능과 향상 사항이 포함되어 있습니다...
+설명: Apache 소프트웨어 재단은 분산 시스템에 대한 완전한 모니터링, 추적 및 분석을 제공하기 위해 설계된 개방형 관측성 플랫폼인 Apache SkyWalking의 버전 10을 발표했습니다. 이 버전에는 많은 새로운 기능과 향상 사항이 포함되어 있습니다...
 
