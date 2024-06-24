@@ -1,86 +1,85 @@
 1 번째 검색 내용
-제목: 케네틴스 1.30 릴리스: 문맥 로깅, 향상된 성능, 보안
+제목: 스프링 생태계 릴리즈 주요 포인트: 스프링 부트, 스프링 시큐리티, 스프링 모듈리스
+
+(Note: The translation may not be perfect as it is a direct translation from English to Korean. The sentence structure and grammar might need adjustments for natural Korean.)
+주소: https://www.infoq.com/news/2024/06/spring-releases-jun17-2024/
+설명: 6월 17일 주에서는 Spring 생태계에서 많은 활동이 있었으며, 다음과 같은 포인트 리눅스를 강조했습니다: Spring Boot 3.3.1과 3.2.7; Spring Security 6.3.1, 6.2.5, 및 5.8.13; Spring Session 3.3.1과 3.2.4; 그리고 Spring Modulith 1.2.1, 1.1.6, 및 1.0.9.
+
+2 번째 검색 내용
+제목: 케네틴즈 1.30 릴리스: 문맥 로깅, 향상된 성능, 보안
 
 (Note: The translation may not be perfect as it is a machine translation. Please review and make necessary adjustments if needed.)
 주소: https://www.infoq.com/news/2024/06/kubernetes-1-30/
 설명: 클라우드 네이티브 컴퓨팅 재단(CNCF)은 4월에 Uwubernetes로 명명된 Kubernetes 1.30을 발표했습니다. 이 발표는 재귀 읽기 전용 마운트, 작업 완료 정책, 빠른 재귀 SELinux 레이블 변경과 같은 기능을 소개했습니다.
 
-2 번째 검색 내용
+3 번째 검색 내용
 제목: 애플은 첫 번째 AI 코드 생성 모델, 스위프트 어시스트를 발표합니다.
 주소: https://www.infoq.com/news/2024/06/apple-swift-assist-llm/
 설명: [INST] 코드 작업에 대한 동료 도구로 설명되며, Swift Assist는 개발자들이 아이디어를 코드로 변환하고 고급 문제에 집중할 수 있도록 도와주려고 합니다. Apple의 Cloud에서 실행되는 모델로 동작하며, Xcode에 통합되어 인간 언어로 표현된 프롬프트에서 코드를 생성할 수 있습니다. [/INST]
 
-3 번째 검색 내용
-제목: 핀터스트 쉽트다운 세계에서 가장 큰 HBase 배포 중 하나를 닫습니다.
-주소: https://www.infoq.com/news/2024/06/pinterest-deprecates-hbase/
-설명: [INST] 핀터레스트의 엔지니어링 팀은 HBase 클러스터를 낮추었습니다. 유지보수와 인프라 비용이 높고, HBase 전문가가 부족하며, 제품 기능이 제한되어 있기 때문입니다. 핀터레스트가 TiDB와 다른 데이터베이스 기술로 전환된 후, 커뮤니티는 이것이 Hadoop과 HDFS를 위에 놓인 비관계형 데이터베이스의 하락을 나타내는 또 다른 증거인지 의문에 착각하고 있습니다. [/INST]
-
 4 번째 검색 내용
-제목: 네트워크 MUI 커뮤니티 툴키트 9.0.0 버그 수정, 카메라뷰 추가
-
-(Note: The translation may not be perfect as it is a technical term. Please verify the accuracy if needed.)
-주소: https://www.infoq.com/news/2024/06/net-maui-toolkit-9-camera/
-설명: 5월 3일, 2024년, Microsoft는 .NET MAUI Community Toolkit의 9.0.0 버전을 공개 소스로 발표했습니다. 새로운 버전은 CompareConverter 클래스의 사용을 향상시키고 몇 가지 버그 수정을 추가합니다, 하나는 브레이킹 변경입니다. 이 버전은 도구 키트에 대한 비 주기적인 추가로 따라왔습니다.
+제목: 핀터스트 세계적으로 가장 큰 HBase 배포 중단
+[/INST]
+주소: https://www.infoq.com/news/2024/06/pinterest-deprecates-hbase/
+설명: 핀터레스트의 엔지니어링 팀은 최근 HBase 클러스터를 사용하지 않을 정도로 저장, 인프라 비용이 높고, HBase 전문가가 부족하며, 제품의 기능이 제한적이기 때문에 폐지했습니다. 핀터레스트가 TiDB와 기타 데이터베이스 기술로 전환된 후, 커뮤니티는 이것이 Hadoop과 HDFS를 위에서 실행되는 비관계형 데이터베이스의 하락을 나타내는 또 다른 증거인지 의문에 착각하고 있습니다.
 
 5 번째 검색 내용
-제목: 소프트웨어 엔지니어링 역할에서 관리 역할으로 전환하는 것
-
-(Note: The translation may not be perfect as it is difficult to translate the phrase "transitioning" into Korean in a way that accurately captures its meaning. However, the overall idea of moving from a software engineering role to a management role is conveyed.)
-주소: https://www.infoq.com/news/2024/06/software-engineering-to-manager/
-설명: 소프트웨어 공학자들은 좋은 지도자가 되기 위해 매일 관리 실습 기회를 활용할 수 있습니다. Peter Gillard-Moss는 QCon London에서 관리자로 성장하는 경험을 공유하고, 지도자가 되려는 엔지니어들에게 팁과 아이디어를 제공했습니다.
+제목: 네트워크 MUI 커뮤니티 툴키트 9.0.0은 버그를 수정하고 카메라뷰를 추가합니다.
+주소: https://www.infoq.com/news/2024/06/net-maui-toolkit-9-camera/
+설명: 2024년 5월 3일, Microsoft는 .NET MAUI Community Toolkit의 9.0.0 버전을 공개 소스로 발표했습니다. 새로운 버전은 CompareConverter 클래스의 사용을 향상시키고 몇 가지 버그 수정을 추가하며, 이 중 하나는 브레이킹 변경입니다. 이 버전은 도구 키트에 대한 비주어 추가로 따라왔습니다.
 
 6 번째 검색 내용
-제목: 구글은 클라우드 SQL MySQL과 PostgreSQL의 EOL(End-of-Life) 버전에 대한 확장된 지원을 제공합니다.
-주소: https://www.infoq.com/news/2024/06/google-cloud-mysql-postgresql/
-설명: 구글 클라우드는 끝맺힌 생명 클라우드 SQL MySQL과 PostgreSQL 버전에 대한 확장된 지원을 선언하여 사용자가 데이터베이스 작업을 유지하고 업그레이드를 더 효율적으로 계획할 수 있도록 도와주기 위해 2025년 2월 1일부터 버전들 예를 들어 MySQL 5.6, 5.7과 PostgreSQL 9.6에서 12는 표준 지원 날짜를 넘어서 사용할 수 있도록 확장 지원 단계로 진입합니다.
+제목: 소프트웨어 엔지니어링 역할에서 관리 역할으로 전환하는 것
+
+(Note: The translation may not be perfect as it is difficult to maintain the exact structure and meaning of the original sentence in Korean. However, the essence of the sentence is conveyed.)
+주소: https://www.infoq.com/news/2024/06/software-engineering-to-manager/
+설명: 소프트웨어 공학자들은 좋은 지도자가 되기 위해 매일 관리 실습 기회를 활용할 수 있다. Peter Gillard-Moss는 QCon London에서 관리자로 된 경험을 공유하고, 지도자가 되고 싶은 엔지니어들에게 팁과 아이디어를 제공했다.
 
 7 번째 검색 내용
-제목: 생성형 AI 기능을 포함한 Logic Apps Standard와 Azure OpenAI 및 AI 검색 연결자
-
-(Note: The translation may not be perfect as it is a technical term. Please verify the accuracy if needed.)
-주소: https://www.infoq.com/news/2024/06/logic-apps-azure-generative-ai/
-설명: 마이크로소프트는 이미 이전에 공개 미리 보기로 발표한 Logic Apps Standard의 Azure OpenAI와 Azure AI Search 커넥터가 현재 일반적으로 사용 가능하다고 발표했습니다. 이러한 커넥터는 Azure Integration Services에 완전히 통합되어 있어, 개발자들은 응용 프로그램의 기능을 고급 AI 기능으로 향상시키기 위해 강력한 도구를 제공받습니다.
+제목: 구글은 클라우드 SQL MySQL과 PostgreSQL의 EOL(End-of-Life) 버전에 대한 확장된 지원을 제공합니다.
+주소: https://www.infoq.com/news/2024/06/google-cloud-mysql-postgresql/
+설명: 구글 클라우드는 끝났다고 지정된 Cloud SQL MySQL과 PostgreSQL 버전에 대한 확장된 지원을 선언하였습니다. 2025년 2월 1일부터, MySQL 5.6, 5.7과 PostgreSQL 9.6부터 12와 같은 버전은 표준 지원 날짜를 넘어서 사용할 수 있는 확장 지원 단계에 진입합니다.
 
 8 번째 검색 내용
+제목: 생성형 AI 기능을 포함한 로직 앱 표준과 Azure OpenAI 및 AI 검색 커넥터를 사용하여 구현합니다.
+주소: https://www.infoq.com/news/2024/06/logic-apps-azure-generative-ai/
+설명: 마이크로소프트는 이미 이전에 공개 미리 보기로 발표한 Logic Apps Standard의 Azure OpenAI와 Azure AI Search 커넥터가 이제 일반적으로 사용 가능합니다. 이러한 커넥터는 Azure Integration Services에 완전히 통합되어 있어, 개발자들은 응용 프로그램의 기능을 고급 AI 기능으로 향상시키기 위해 강력한 도구를 제공받습니다.
+
+9 번째 검색 내용
 제목: Xcode 16은 사용자 정의 모델을 사용한 예측 코드 완성을 제공합니다.
 주소: https://www.infoq.com/news/2024/06/xcode-16-predictive-code-complet/
 설명: WWDC 2024에서 Xcode와 Swift Playground 상위 관리자인 켄 오르는 Xcode 16의 다음 버전의 주요 기능을 소개했습니다. 이러한 기능은 예측 코드 완성과 많은 버그 수정 및 향상입니다.
 
-9 번째 검색 내용
-제목: WDL 1.2.0: 생물정보학을 위한 워크플로우 설명 언어 향상
+10 번째 검색 내용
+제목: WDL 1.2.0: 생물학 분야에서의 워크플로우 설명 언어 향상
 [/INST]
 주소: https://www.infoq.com/news/2024/06/workflow-description-language/
-설명: 워크플로 설명 언어(WDL) 팀은 생물정보학에서 워크플로 설명의 유연성과 사용성을 개선하기 위한 중요한 업데이트인 WDL 1.2.0을 발표했습니다. 이 새로운 버전에서는 워크플로 관리 및 실행을 간소화하고 개발자와 연구원들이 워크플로를 구현하고 관리하기 쉽게 만드는 몇 가지 주요 기능과 향상 사항이 도입되었습니다.
-
-10 번째 검색 내용
-제목: .NET Inline C# Action 기능을 통해 Logic Apps에서 개발자들에게 더 많은 유연성과 제어를 제공합니다:
-[/INST]
-주소: https://www.infoq.com/news/2024/06/logic-app-inline-code-action/
-설명: 마이크로소프트는 Azure Logic Apps 서비스에 대한 중요한 개선을 발표하였습니다. .NET C# 인라인 코드 실행을 도입함으로써 이 새로운 기능은 개발자들이 작업 플로우에서 C# 코드를 직접 호출할 수 있게 되며, 사용자 정의 로직과 복잡한 작업에 대한 유연성과 제어가 향상됩니다.
+설명: 워크플로우 설명 언어(WDL) 팀은 생물정보학에서 워크플로우 설명의 유연성과 사용성을 개선하기 위한 중요한 업데이트인 WDL 1.2.0을 발표했습니다. 이 새로운 버전에서는 워크플로우 관리 및 실행을 간소화하고 개발자와 연구원들이 워크플로우를 구현하고 관리하기 쉽게 만드는 몇 가지 주요 기능과 향상 사항이 도입되었습니다.
 
 11 번째 검색 내용
-제목: 자바 뉴스 요약: Keycloak 25, Jakarta EE 11 업데이트, Spring Framework, Hibernate ORM, Vaadin 24.4
-주소: https://www.infoq.com/news/2024/06/java-news-roundup-jun10-2024/
-설명: 이번 주 6월 10일 Java 뉴스 요약에는 다음과 같은 소식이 강조됩니다: Keycloak 25, Jakarta Authentication 3.1과 Jakarta Security 4.0의 릴리즈 리뷰, Spring Framework 6.2.0-M4와 해당 서비스 릴리즈, Spring Data 서비스 릴리즈, Hibernate 6.6.0.CR1과 7.0.0.Alpha3, 그리고 Vaadin 24.4의 릴리즈입니다.
+제목: .NET Inline C# 액션 기능을 통해 Logic Apps에서 개발자들에게 더 많은 유연성과 제어를 제공합니다:
+[/INST]
+주소: https://www.infoq.com/news/2024/06/logic-app-inline-code-action/
+설명: 마이크로소프트는 Azure Logic Apps 서비스에 대한 중요한 개선 사항을 발표했습니다. .NET C# 인라인 코드 실행을 도입하여 개발자들은 워크플로우에서 C# 코드를 직접 호출할 수 있게 되며, 이 새로운 기능으로는 사용자 정의 논리와 복잡한 작업에 대한 유연성과 제어가 향상됩니다.
 
 12 번째 검색 내용
-제목: 애플 WWDC: iOS18와 애플 지능형 공고
-주소: https://www.infoq.com/news/2024/06/wwdc-2024-apple-intelligence/
-설명: WWDC 2024에서 Apple은 "Apple Intelligence"를 공개하였습니다. iOS 18, iPadOS 18, macOS Sequoia로 이르는 아이폰, 아이패드, 맥의 핵심에 AI를 순조로운 방식으로 통합하는 것이 Apple Intelligence의 목표입니다.
+제목: 자바 뉴스 요약: Keycloak 25, Jakarta EE 11 업데이트, Spring Framework, Hibernate ORM, Vaadin 24.4
+주소: https://www.infoq.com/news/2024/06/java-news-roundup-jun10-2024/
+설명: 이번 주 6월 10일 Java 뉴스 요약에는 다음과 같은 소식이 강조되어 있습니다: Keycloak 25, Jakarta Authentication 3.1과 Jakarta Security 4.0의 릴리즈 리뷰, Spring Framework 6.2.0-M4와 해당 서비스 릴리즈, Spring Data 서비스 릴리즈, Hibernate 6.6.0.CR1과 7.0.0.Alpha3, 그리고 Vaadin 24.4의 릴리즈입니다.
 
 13 번째 검색 내용
-제목: 엠존 EC2 U7i 인스턴스: 896 vCPU와 메모리 최대 32TiB를 위한 고메모리 작업 로드
-[/INST]
-주소: https://www.infoq.com/news/2024/06/aws-ec2-u7i-high-memory/
-설명: AWS는 최근에 U7i 인스턴스의 일반 사용 가능성을 발표했습니다. 대규모 작업의 수직 확장을 간소화하여 설계되었으며, SAP HANA, Oracle, SQL Server와 같은 큰 메모리 데이터베이스를 지원하는 것이 목적입니다.
+제목: 애플 WWDC: iOS18와 애플 지능형 공고
+주소: https://www.infoq.com/news/2024/06/wwdc-2024-apple-intelligence/
+설명: WWDC 2024에서 Apple은 "Apple Intelligence"를 공개하였습니다. iOS 18, iPadOS 18, macOS Sequoia로 이루어진 AI 기능 패키지입니다. Apple의 목표는 iPhone, iPad, 그리고 Mac 경험의 심장에 AI를 순조로운 방식으로 통합하는 것입니다.
 
 14 번째 검색 내용
-제목: 도커 데스크톱 4.31은 에어그랩 컨테이너, 더 빠른 빌드 및 다양한 기능을 제공합니다.
-주소: https://www.infoq.com/news/2024/06/docker-desktop-4-31/
-설명: 최신 Docker Desktop 릴리즈는 보안과 준수를 개선하기 위해 공기 격리 컨테이너를 소개합니다, 클라우드 기반 빌드와의 더 나은 통합을 통해 성능을 향상시키기 위해, Compose 구성 파일 보기, 그리고 더 많은 것들입니다.
+제목: 엠존 EC2 U7i 인스턴스: 896 vCPU와 메모리 최대 32티비트를 위한 고메모리 작업 로드
+[/INST]
+주소: https://www.infoq.com/news/2024/06/aws-ec2-u7i-high-memory/
+설명: AWS는 최근에 U7i 인스턴스의 일반 사용 가능성을 발표했습니다. 대규모 작업의 수직 확장을 간소화하여 설계되었으며, SAP HANA, Oracle, SQL Server와 같은 큰 메모리 데이터베이스를 지원하는 새로운 U7i 인스턴스입니다.
 
 15 번째 검색 내용
-제목: Elastic가 Tines를 통해 SIEM 조사를 자동화합니다.
-주소: https://www.infoq.com/news/2024/06/elastic-siem-automation-tines/
-설명: Elastic의 정보보안 팀은 최근에 Tines를 사용하여 작업 자동화를 세부적으로 설명했습니다. 이 시스템은 Security Information and Event Management(SIEM) 시스템에서 알림을 자동으로 분류하고, 실제 위협을 식별하고 우선 순위를 지정할 능력을 향상시키는 데 도움이 됩니다.
+제목: 도커 데스크탑 4.31은 에어그랩 컨테이너, 더 빠른 빌드 및 다양한 기능을 제공합니다.
+주소: https://www.infoq.com/news/2024/06/docker-desktop-4-31/
+설명: 최신 Docker Desktop 릴리즈는 보안과 준수를 개선하기 위해 공기 격리 컨테이너를 소개합니다, 클라우드 기반 빌드와의 더 나은 통합을 통해 성능을 향상시키기 위해, Compose 구성 파일 보기, 그리고 더 많은 것들입니다.
 
