@@ -19,31 +19,49 @@ ollama = ChatOllama(
     # ]
 )
 
-examples = []
-
 example_prompt = PromptTemplate.from_template(
     "Human : {question} \n AI : {answer}"
 )
 
+# Text translate examples
+text_translate_examples = [
+    {
+        "question": "Translate my sentence into Korean: Artificial intelligence is transforming the world. It has applications in various fields such as healthcare, finance, and transportation. and Provide - #hashtags",
+        "answer": "인공지능은 세계를 변화시키고 있습니다. 이것은 의료, 금융, 교통과 같은 다양한 분야에 응용되고 있습니다.\n#인공지능 #의료 #금융 #교통"
+    }
+]
+
 ## llm 사용을 위한 프롬프트
 ## lang, contents 는 모두 langchain 에서 변수로 받아올 수 있다
-prompt = FewShotPromptTemplate(
+text_prompt = FewShotPromptTemplate(
     example_prompt=example_prompt,
-    examples=examples,
-    suffix=""" 
-    1. translate the user-supplied {contents} into the language corresponding to {lang}.
-    2. Analyse the translated content to extract representative hashtags that represent the key topics of each paragraph.
-    3. Combine the translated content and hashtags to provide the final result to the user.
-    4. Provide the final result in the format: 
-        - Translated content
-        - #hashtags
-    """, 
+    examples=text_translate_examples,
+    suffix="Translate my sentence into {lang} : {contents} and Provide - #hashtags. Add 3 hashtags related to the translated content.",
     input_variables=["lang", "contents"]
 )
 
+title_prompt = FewShotPromptTemplate(
+    example_prompt=example_prompt,
+    examples=[],
+    suffix="Translate my sentence into {lang} : {contents}",
+    input_variables=["lang", "contents"]
+)
 
-def translateTO(lang, text):
-    chain = prompt | ollama
+def titleTranslateTO(lang, text):
+    chain = title_prompt | ollama
+    ## suffix 에서 각각 {lang}, {contents} 에 해당하는 부분에 대한 값을 지정한다.
+    ## lang 은 번역할 언어, text 는 번역할 text 를 의미하며, 여기서는 크롤링된 데이터
+    result = chain.invoke({
+        "lang" : lang,
+        "contents" : text,
+    })
+
+    ## langchain 을 통해서 나온 결과는 모두 'content'='{결과}' 형식으로 저장, 출력된다.
+    ## 따라서 result 에서 content 만 가져온다. 
+    return result.content
+    
+def textTranslateTO(lang, text):
+    chain = text_prompt | ollama
     ## suffix 에서 각각 {lang}, {contents} 에 해당하는 부분에 대한 값을 지정한다.
     ## lang 은 번역할 언어, text 는 번역할 text 를 의미하며, 여기서는 크롤링된 데이터
     result = chain.invoke({
