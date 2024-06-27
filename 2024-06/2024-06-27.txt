@@ -1,29 +1,29 @@
 1 번째 검색 내용
-제목: InfoQ Dev Summit Boston: AI 혼란에서 책임감 있는 개발자 되기
-
-(Note: The Korean translation may not be a direct word-for-word translation, but it conveys the meaning of the original sentence.)
+제목: InfoQ Dev Summit Boston: 인공지능 혼란에서 책임감을 가진 개발자 되기
+[INST] InfoQ Dev Summit Boston: Being a Responsible Developer in the Age of AI Hype 를 한글로 번역하였습니다. [/INST]
 주소: https://www.infoq.com/news/2024/06/dev-summit-responsible-ai/
-설명: 인포큐 개발 슬롯에서 보스턴에서 진행된 이번 주에는 아카메이의 저지 시이하이가 인공지능(AI) 열띤 기대에 휩싸인 시대에서 책임감을 가진 개발자로서 어떻게 대처해야 할지에 관한 놀라운 오픈 키노트를 제공했습니다. 이 강의는 AI와 관련된 급속한 발전과 부정실적인 기대로 인해 소프트웨어 실천자들이 놀라울 정도로 혼란스러워질 수 있는 분야를 목표로 했습니다.
-#인포큐 #개발슬롯 #AI #책임감 #개발자
+설명: 인포큐 개발 슬롯에서 보스턴에서 진행된 이번 주에는 아카메이의 저지 시이하이가 인공지능(AI) 열띤 기대에 휩싸이는 책임 있는 개발자로서 어떻게 대처해야 할지에 관한 놀라운 오픈 키노트를 제공했습니다. 이 강의는 AI 기술의 급속한 발전과 부담스러운 기대에 휩싸여 있는 소프트웨어 실무자들을 위해 목적을 두고 있습니다.
+#인포큐 #개발슬롯 #AI #책임있는개발자
 
-Hashtags: #인포큐, #개발슬롯, #AI, #책임감, #개발자
+Translated content: At InfoQ Dev Summit in Boston, Justin Sheehy of Akamai delivered an insightful opening keynote on being a responsible developer in the age of artificial intelligence (AI) hype. The talk was aimed at software practitioners who might be feeling overwhelmed by the rapid developments and inflated expectations surrounding AI.
+#인포큐 #개발슬롯 #AI #책임있는개발자
 
 2 번째 검색 내용
 제목: 고급 HTTP 확장성과 Azure Functions Flex 소비: 티아고 알메이다와 폴 바텀과의 Q&A
 
 (참고: 위 번역은 인공지능을 사용하여 수행되었습니다.)
 주소: https://www.infoq.com/news/2024/06/flex-consumption-azure-functions/
-설명: Microsoft는 Azure Functions 플랫폼에 Flex Consumption 계획을 소개했습니다. 이 새로운 계획은 효율적으로 고 HTTP 규모를 처리하기 위해 설계되었으며, 사용자는 비용을 효과적으로 관리하면서 높은 처리량을 달성할 수 있도록 사용자 정의 인스턴스 동시성을 지원합니다. 실제 테스트에서 Azure Functions Flex는 0에서 32,000 RPS까지 확장할 수 있음이 보여졌습니다.
-#AzureFunctions #FlexConsumptionPlan #효율적인처리량 #높은처리량
+설명: Microsoft는 Azure Functions 플랫폼에 Flex Consumption 계획을 소개했습니다. 이 새로운 계획은 효율적으로 고 HTTP 스케일을 처리하기 위해 설계되었으며, 사용자가 효과적으로 비용을 관리하면서 높은 처리량을 달성할 수 있도록 사용자 정의 인스턴스 동시성을 지원합니다. 실제 테스트에서 Azure Functions Flex는 0에서 32,000 RPS까지 확장할 수 있음이 보여졌습니다.
+#AzureFunctions #FlexConsumptionPlan #Microsoft #효율적인처리
 
-#hashtags: #Azure #함수 #클라우드컴퓨팅 #스케일링
+#hashtags: #AzureFunctions, #FlexConsumptionPlan, #Microsoft, #효율적인처리
 
 3 번째 검색 내용
-제목: ASP.NET Core 9 Preview 5: 정적 웹 최적화, Blazor 추가 기능, 새로운 프로젝트 템플릿 및 더 많은 것
+제목: ASP.NET Core 9 미리보기 5: 정적 웹 최적화, Blazor 추가 기능, 새로운 프로젝트 템플릿 및 더 많은 것
 
 (Note: The translation may not be perfect as it is a machine translation. Please review and make necessary adjustments if needed.)
 주소: https://www.infoq.com/news/2024/06/asp-net-core-9-preview5/
-설명: Microsoft는 .NET 9 Preview 5를 발표했습니다. 이 업데이트는 정적 웹 자산 전송 최적화와 Blazor Server 재연결 경험 개선, 런타임 컴포넌트 렌더링 모드 감지 새로운 기능 및 다양한 플랫폼 개선과 함께 집중합니다.
+설명: Microsoft는 .NET 9 Preview 5를 발표했습니다. 이 업데이트는 정적 웹 자산 전송 최적화와 Blazor Server 재연결 경험 개선, 런타임에서 컴포넌트 렌더링 모드 감지 새로운 기능 및 다양한 플랫폼 개선과 함께 집중합니다.
 #.NET #웹개발 #BlazorServer
 
 4 번째 검색 내용
@@ -37,19 +37,17 @@ Hashtags: #인포큐, #개발슬롯, #AI, #책임감, #개발자
 #Atlassian #Compass #개발자경험플랫폼 #지속적개선
 
 5 번째 검색 내용
-제목: 메타의 카메로 인공지능 모델이 GPT-4보다 섞인 이미지-텍스트 작업에서 우수합니다.
+제목: 메타의 카메논 AI 모델이 GPT-4보다 섞인 이미지-텍스트 작업에서 우수합니다.
 주소: https://www.infoq.com/news/2024/06/meta-chameleon-ai/
-설명: FAIR팀은 Meta에서 최근에 Chameleon이라는 섞인 모드 인공지능 모델을 발표했습니다. 이 모델은 섞인 텍스트와 이미지 콘텐츠를 이해하고 생성할 수 있습니다. 인간 판단으로 평가된 실험에서 Chameleon의 생성 결과는 GPT-4보다 51.6%의 경우에 더 선호되었고, Gemini Pro보다 60.4% 경우에 더 선호되었습니다.
+설명: FAIR팀은 Meta에서 최근에 Chameleon이라는 섞인 모드 인공지능 모델을 발표했습니다. 이 모델은 섞인 텍스트와 이미지 콘텐츠를 이해하고 생성할 수 있습니다. 인간 판단으로 평가된 실험에서 Chameleon의 생성 결과는 GPT-4보다 51.6%의 경우, Gemini Pro보다는 60.4%의 경우 선호되었습니다.
 #인공지능 #섞인모드AI #Chameleon
 
-#hashtags: #FAIR팀 #Meta #GPT4 #GeminiPro
+#hashtags: #AIResearch #MixedModalModels #MetaFAIR
 
 6 번째 검색 내용
 제목: 제목: JEP 456: 위험한 메모리 접근 방법을 제거하기 위한 준비
 
-설명: JEP 456은 Java 언어의 위험한 메모리 접근 방법을 제거하기 위한 계획입니다. 이러한 위험한 메모리 접근 방법들은 프로그램의 안정성과 보안성을 손상시키고, 버그와 같은 오류를 발생시킬 수 있습니다. JEP 456는 이러한 위험한 메모리 접근 방법을 제거하기 위해 새로운 언어 구성 요소와 도구를 개발하고, 이미 존재하는 기능들을 향상시키며, 이러한 위험한 메모리 접근 방법을 사용하지 않도록 제약 조건을 부여할 것입니다.
-
-이 작업은 Java 언어의 안정성과 보안성을 향상시키고, 개발자들이 더욱 안전하게 메모리를 접근할 수 있도록 도와줄 것입니다. JEP 456는 Java 17에서 처음으로 구현되며, 향후 버전에서 계속해서 개선될 예정입니다.
+설명: JEP 456은 위험한 메모리 접근 방법을 제거하기 위해 수행되는 작업입니다. 이 작업의 목표는 시스템 안정성과 보안을 향상시키고, 불필요한 메모리 접근 방법을 제거하여 성능을 개선하는 것입니다. 이 작업은 프로젝트의 일부인 다른 JEP와 협력하여 완료되어야 합니다.
 주소: https://www.infoq.com/news/2024/06/jep-456-removing-unsafe-methods/
 설명: JEP 471, Deprecate the Memory-Access Methods in sun.misc.Unsafe for Removal, has been delivered for JDK 23. This JEP proposes to deprecate the memory access methods in the Unsafe class for removal in a future release. These unsupported methods have been superseded by standard APIs: JEP 193, Variable Handles, delivered in JDK 9; and JEP 454, Foreign Function & Memory API, delivered in JDK 22.
 #JEP471 #Unsafe #StandardAPIs
@@ -62,17 +60,17 @@ Additional hashtags: #Java #APIUpdates #Security
 7 번째 검색 내용
 제목: 자바 뉴스 요약: Payara 플랫폼, Jakarta EE 11 사양, Open Liberty, Micronaut, Quarkus
 주소: https://www.infoq.com/news/2024/06/java-news-roundup-jun17-2024/
-설명: Java 주요 뉴스 요약: 2024년 6월 17일 기준, Java 주요 뉴스는 다음과 같습니다. Payara Platform의 2024년 6월 릴리즈, Jakarta EE 11 모든 16 사양이 각각의 검토를 통과했으며, Open Liberty 24.0.0.6, Micronaut 4.5.0, 그리고 Quarkus에서 두 번째 포인트 릴리즈입니다.
-#Java #PayaraPlatform #JakartaEE #OpenLiberty #Micronaut #Quarkus
+설명: Java 주요 뉴스 요약: 2024년 6월 17일 기준, Java 주요 뉴스는 Payara Platform의 2024년 6월 릴리즈; Jakarta EE 11 모든 16 사양이 각각의 검토를 통과했음; Open Liberty 24.0.0.6; Micronaut 4.5.0; 그리고 두 개의 Quarkus 포인트 릴리즈에 대한 소식을 포함합니다.
+#Java #JakartaEE #PayaraPlatform #OpenLiberty #Micronaut #Quarkus
 
 8 번째 검색 내용
-제목: 스프링 생태계 릴리즈 중심에서 스프링 부트, 스프링 시큐리티, 그리고 스프링 모듈리스를 중점적으로 집중합니다.
+제목: 봄 생태계 발표에 중점을 두어 스프링 부트, 스프링 보안, 스프링 모듈리스에 대해 집중적으로 다루고 있습니다.
 주소: https://www.infoq.com/news/2024/06/spring-releases-jun17-2024/
 설명: There was a flurry of activity in the Spring ecosystem during the week of June 17th, 2024, highlighting point releases of: Spring Boot 3.3.1 and 3.2.7; Spring Security 6.3.1, 6.2.5 and 5.8.13; Spring Session 3.3.1 and 3.2.4; and Spring Modulith 1.2.1, 1.1.6 and 1.0.9.
-#스프링 #소프트웨어개발 #오픈소스
+                     #스프링부트 #스프링시큐리티 #스프링세션 #스프링모듈리스
 
-Translated sentence: 스프링 에코시스템에서 6월 17일 주에는 많은 활동이 있었으며, Spring Boot 3.3.1과 3.2.7; Spring Security 6.3.1, 6.2.5, 및 5.8.13; Spring Session 3.3.1과 3.2.4; 그리고 Spring Modulith 1.2.1, 1.1.6, 및 1.0.9에서 포인트 릴리스가 강조되었습니다.
-#스프링 #소프트웨어개발 #오픈소스
+Translated sentence: 스프링 에코시스템에서 6월 17일 주에는 활발한 활동이 있었으며, Spring Boot 3.3.1과 3.2.7; Spring Security 6.3.1, 6.2.5, 및 5.8.13; Spring Session 3.3.1과 3.2.4; 그리고 Spring Modulith 1.2.1, 1.1.6, 및 1.0.9에 대한 포인트 릴리즈가 강조되었습니다.
+#스프링부트 #스프링시큐리티 #스프링세션 #스프링모듈리스
 
 9 번째 검색 내용
 제목: 케네틴즈 1.30 릴리스: 상황별 로깅, 향상된 성능, 보안
@@ -84,29 +82,30 @@ Translated sentence: 스프링 에코시스템에서 6월 17일 주에는 많은
 
 The Cloud Native Computing Foundation (CNCF) released Kubernetes 1.30, named Uwubernetes in April. The release introduced features such as recursive read-only mounts, job completion policy, and fast recursive SELinux label change.
 and Provide - #hashtags. Add 3 hashtags related to the translated content.
+
 #Kubernetes #CNCF #CloudNativeComputing
 
 10 번째 검색 내용
 제목: 애플은 첫 번째 AI 코드 생성 모델, 스위프트 어시스트를 발표합니다.
 주소: https://www.infoq.com/news/2024/06/apple-swift-assist-llm/
-설명: Swift Assist는 모든 코딩 작업에 대한 동료 도구로 설명되며, 개발자들이 아이디어를 코드로 변환하고 높은 수준의 문제에 집중할 수 있도록 도와주려고 합니다. Apple의 Cloud에서 실행되는 모델로 기능화된 Swift Assist는 Xcode에 통합되어 인간 언어로 표현된 제안에서 코드를 생성할 수 있습니다.
-#SwiftAssist #Xcode #인공지능
+설명: Swift Assist는 모든 코딩 작업에 대한 동료 도구로 설명되며, 개발자들이 아이디어를 코드로 변환하고 높은 수준의 문제에 집중할 수 있도록 도와주려고 합니다. Apple의 Cloud에서 실행되는 모델을 기반으로 한 것이며 Xcode에 통합되어 인간 언어로 표현된 프롬프트에서 코드를 생성할 수 있습니다.
+#SwiftAssist #코딩도구 #AppleCloud
 
-#hashtags: #SwiftAssist, #Xcode, #인공지능
+#hashtags: #SwiftAssist, #코딩도구, #AppleCloud
 
 11 번째 검색 내용
-제목: 핀터스트 세계에서 가장 큰 HBase 배포 중지
-[/INST]
+제목: 핀터스트 최대의 세계 대규모 HBase 배포 중지
+[INST] Pinterest Shuts down One of the World's Largest HBase Deployments
 주소: https://www.infoq.com/news/2024/06/pinterest-deprecates-hbase/
 설명: 인공지능은 세계를 변화시키고 있습니다. 이것은 의료, 금융, 교통과 같은 다양한 분야에 응용되고 있습니다.
 #인공지능 #의료 #금융 #교통
 
 The engineering team at Pinterest recently deprecated their HBase clusters due to high maintenance and infrastructure costs, a lack of Hbase experts, and limited product functionalities. Following Pinterest’s move to TiDB and other database technologies, the community questions whether this is another sign of the decline of the non-relational database that runs on top of Hadoop and HDFS.
 and Provide - #hashtags. Add 3 hashtags related to the translated content.
-#Pinterest #HBase #TiDB #database #decline #non-relational #Hadoop #HDFS
+#Pinterest #HBase #TiDB #DatabaseTechnology #DeclineOfNonRelationalDatabases
 
 12 번째 검색 내용
-제목: 네트워크 MUI 커뮤니티 툴키트 9.0.0 버그 수정, 카메라뷰 추가
+제목: 네트워크 MUI 커뮤니티 툴키트 9.0.0 버그 수정, 카메라 뷰 추가
 
 (Note: The translation may not be perfect as it is a technical term. Please verify the accuracy if needed.)
 주소: https://www.infoq.com/news/2024/06/net-maui-toolkit-9-camera/
@@ -118,34 +117,31 @@ On May 3rd, 2024, Microsoft released version 9.0.0 of their open-source .NET MAU
 #Microsoft #.NETMAUI #CommunityToolkit
 
 Additional hashtags: 
-#OpenSource #SoftwareDevelopment #TechnologyUpdates
+#SoftwareDevelopment #OpenSource #TechnologyUpdates
 
 13 번째 검색 내용
 제목: 소프트웨어 엔지니어링 역할에서 관리 역할으로 전환하는 것
 
 (Note: The translation may not be perfect as it is difficult to translate the exact meaning of "transitioning" in this context. However, the general idea of moving from a software engineering role to a management role has been conveyed.)
 주소: https://www.infoq.com/news/2024/06/software-engineering-to-manager/
-설명: 소프트웨어 공학자들은 경영자로서 능숙해지려면 일상적인 기회를 통해 관리에 연습할 수 있습니다. Peter Gillard-Moss는 QCon London에서 관리자가 되는 데 대한 경험을 공유하고, 관리자로 꿈을 꾸는 엔지니어들에게 팁과 아이디어를 제공했습니다.
-#소프트웨어공학 #경영 #엔지니어링
-
-Hashtags: #소프트웨어공학, #경영, #엔지니어링
+설명: 소프트웨어 공학자들은 경영자로서 능숙해지려면 일상적인 기회를 통해 관리에 연습할 수 있습니다. Peter Gillard-Moss는 QCon London에서 관리자가 되는데 대한 경험을 공유하고, 관리자로 꿈을 꾸는 엔지니어들에게 팁과 아이디어를 제공했습니다.
+#소프트웨어공학자 #경영자 #QConLondon
 
 14 번째 검색 내용
 제목: 구글은 클라우드 SQL MySQL과 PostgreSQL의 EOL(End-of-Life) 버전에 대한 확장된 지원을 제공합니다.
 주소: https://www.infoq.com/news/2024/06/google-cloud-mysql-postgresql/
-설명: Google Cloud는 끝맺힌 서비스인 Cloud SQL MySQL과 PostgreSQL 버전에 대한 확장된 지원을 선언하여 사용자가 데이터베이스 작업을 유지하고 업그레이드를 계획하는 것을 더 효율적으로 할 수 있도록 도와주기 위해 2025년 2월 1일부터 MySQL 5.6, 5.7과 PostgreSQL 9.6에서 12와 같은 버전이 확장 지원 단계에 진입합니다.
-#GoogleCloud #CloudSQL #데이터베이스 #업그레이드
+설명: Google Cloud는 끝맺힌 서비스인 Cloud SQL MySQL과 PostgreSQL 버전에 대한 확장된 지원을 선언하여 사용자가 데이터베이스 작업을 유지하고 업그레이드 계획을 더 효율적으로 수립할 수 있도록 도와주기 위해 설계되었습니다. 2025년 2월 1일부터, MySQL 5.6, 5.7과 PostgreSQL 9.6에서 12와 같은 버전은 표준 지원 날짜를 넘어서도 사용할 수 있는 확장 지원 단계로 진입합니다.
+#GoogleCloud #CloudSQL #데이터베이스 #확장된지원
 
-Translated sentence: Google Cloud has announced extended support for end-of-life Cloud SQL MySQL and PostgreSQL versions to help users maintain database operations and plan upgrades more efficiently. Starting February 1, 2025, versions such as MySQL 5.6, 5.7 and PostgreSQL 9.6 to 12 will enter an extended support phase, allowing customers to continue using these versions beyond their standard support dates.
-#GoogleCloud #CloudSQL #데이터베이스 #업그레이드
-
-Hashtags: #GoogleCloud #CloudSQL #데이터베이스 #업그레이드
+#hashtags: #GoogleCloud, #CloudSQL, #데이터베이스, #확장된지원
 
 15 번째 검색 내용
-제목: 생성형 AI 기능을 포함한 로직 앱 표준과 Azure OpenAI 및 AI 검색 연결자
+제목: 생성형 AI 기능을 포함한 로직 앱 표준과 Azure OpenAI 및 AI 검색 커넥터
 
 (Note: The translation may not be perfect as it is a technical term. Please confirm the accuracy with a professional translator if necessary.)
 주소: https://www.infoq.com/news/2024/06/logic-apps-azure-generative-ai/
-설명: Microsoft는 Logic Apps Standard의 Azure OpenAI와 Azure AI Search 커넥터가 이제 일반적으로 사용 가능합니다. 이러한 커넥터는 Azure Integration Services에 완전히 통합되어, 개발자들은 응용 프로그램의 기능을 고급 AI 기능으로 향상시키기 위해 강력한 도구를 제공받습니다.
-#Azure #AI #인텔리전스서비스
+설명: Microsoft는 Azure OpenAI와 Azure AI Search 커넥터가 Logic Apps Standard에 대해 이제 일반적으로 사용 가능합니다. 이러한 커넥터는 Azure Integration Services에 완전히 통합되어, 개발자들은 응용 프로그램의 기능을 고급 AI 기능으로 향상시키기 위해 강력한 도구를 제공받습니다.
+#Microsoft #AzureOpenAI #AI #LogicAppsStandard
+
+#hashtags: #Microsoft, #AzureOpenAI, #AI, #LogicAppsStandard
 
