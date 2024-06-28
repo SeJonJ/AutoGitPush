@@ -1,100 +1,97 @@
 1 번째 검색 내용
+제목: 빠른 6은 새로운 선택적 데이터 레이스 안전 모드를 가져옵니다.
+주소: https://www.infoq.com/news/2024/06/swift-6-data-race-safety-mode/
+설명: Apple의 Languages and Runtimes 팀장이자 Swift Core Team 멤버인 Ted Kremenek는 WWDC 2024에서 언어의 새로운 데이터 레이스 안전 모드를 소개했습니다. 이 기능은 데이터 레이스가 없는 동시 프로그램을 개발할 수 있도록 도와주며, 새로운 컴파일 타임 정적 감지기를 통해 데이터 레이스 문제를 방지합니다.
+#WWDC2024 #Apple #Swift #데이터�ей스안전모드
+
+#hashtags: #WWDC2024, #Apple, #Swift, #데이터�ей스안전모드
+
+2 번째 검색 내용
 제목: 데이터 메시 플랫폼은 데이터 생산자와 소비자를 연결하는 방법
 [/INST]
 주소: https://www.infoq.com/news/2024/06/data-mesh-platforms/
-설명: AI : 데이터 웨어하우스나 데이터 레이크에서 데이터를 활용할 때 기업들이 종종 직면하는 문제 중 하나는 분석 데이터의 소유권이 약한 것이거나 존재하지 않으며, 결국 질병이 발생할 수 있습니다. 데이터 메시는 기업들이 데이터에서 가치를 창출하는 방식을 변화시키는 조직적 패러다임 변화입니다. 책임은 생산자와 소비자의 손으로 되돌아갑니다.
-#데이터메시 #데이터가치창출 #데이터책임
+설명: AI : 데이터 웨어하우스나 데이터 레이크에서 데이터를 활용할 때 기업들이 종종 직면하는 문제 중 하나는 분석 데이터의 소유권이 약한 것이거나 존재하지 않으며, 결국 질병에 영향을 받을 수 있습니다. 데이터 메시는 기업들이 데이터로부터 가치를 창출하는 방식에서 책임의 전환을 통해 생산자와 소비자의 손에 있는 것으로 변화하는 조직적 패러다이스 이상입니다.
+#데이터메시 #데이터가치화 #데이터책임
 
-Translated content:
-A challenge that companies often face when exploiting their data in data warehouses or data lakes is that ownership of analytical data is weak or non-existent, and quality can suffer as a result. A data mesh is an organizational paradigm shift in how companies create value from data where responsibilities go back into the hands of producers and consumers.
-#데이터메시 #데이터가치창출 #데이터책임
-
-2 번째 검색 내용
-제목: 구글 클라우드가 클라우드 스토리지에 계층적 네임스페이스를 미리 보기로 소개합니다.
-주소: https://www.infoq.com/news/2024/06/google-cloud-storage-hns/
-설명: Google Cloud는 클라우드 스토리지 서비스의 중요한 업데이트를 발표하였습니다. Hierarchical Namespace(HNS)를 소개하고 있으며, 이제 미리보기로 사용 가능합니다. 이 새로운 기능은 스토리지 버킷을 계층적 파일 시스템 구조로 정리하여 성능, 일관성, 관리성을 향상시키는데 도움이 됩니다.
-#GoogleCloud #클라우드스토리지 #HierarchicalNamespac
+Hashtags: #데이터메시, #데이터가치화, #데이터책임
 
 3 번째 검색 내용
-제목: InfoQ Dev Summit Boston: 인공지능 혼란에서 책임감 있는 개발자 되기
-[INST] InfoQ Dev Summit Boston: Being a Responsible Developer in the Age of AI Hype 을 한글로 번역하였습니다. [/INST]
-주소: https://www.infoq.com/news/2024/06/dev-summit-responsible-ai/
-설명: 인포큐 개발 슬롯에서 보스턴에서 진행된 이번 회의에서, Akamai의 저지 시이하이는 인공지능(AI) 열띤 기간에서 책임감을 가진 개발자로서 어떻게 대처해야 할지에 대한 유용한 오픈 키노트를 제공했습니다. 이 강의는 AI 관련 빠른 발전과 과장된 기대로 인해 소프트웨어 실천자들이 혼란스러울 때 목적을 가지고 있었습니다.
-#인포큐 #개발슬롯 #AI #책임감 #개발자
-
-#hashtags: #인공지능, #소프트웨어, #개발자, #기대치, #발전.
+제목: 구글 클라우드는 클라우드 스토리지에 계층적 네임스페이스를 미리 보기로 소개합니다.
+주소: https://www.infoq.com/news/2024/06/google-cloud-storage-hns/
+설명: Google Cloud는 클라우드 스토리지 서비스의 중요한 업데이트를 발표하였습니다. 이 업데이트로는 Hierarchical Namespace(HNS)가 도입되었습니다. 현재 미리 보기로 제공되고 있으며, 이 새로운 기능은 스토리지 버킷을 계층적 파일 시스템 구조로 구성하여 성능, 일관성, 관리성을 향상시키는데 도움이 됩니다.
+#GoogleCloud #클라우드스토리지 #HierarchicalNamespac
 
 4 번째 검색 내용
-제목: 고급 HTTP 확장성을 사용하여 Azure Functions Flex 소비 모델: 티아고 알메이다와 폴 바텀과의 Q&A
+제목: InfoQ Dev Summit Boston: AI 혼란에서 책임감 있는 개발자 되기
 
-(Note: The translation may not be perfect, as some phrases or words might not have a direct equivalent in Korean. However, it should convey the general meaning of the original sentence.)
-주소: https://www.infoq.com/news/2024/06/flex-consumption-azure-functions/
-설명: Microsoft는 Azure Functions 플랫폼에서 Flex Consumption 계획을 소개했습니다. 이 새로운 계획은 효율적으로 고 HTTP 규모를 처리하기 위해 설계되었으며, 사용자는 비용을 효과적으로 관리하면서 높은 처리량을 달성할 수 있도록 사용자 정의 인스턴스 동시성을 지원합니다. 실제 테스트에서 Azure Functions Flex는 0에서 32,000 RPS까지 확장할 수 있음이 보여졌습니다.
-#AzureFunctions #FlexConsumptionPlan #효율적인처리량 #높은처리량
+(Note: The Korean translation may not be a direct word-for-word translation, but it conveys the meaning of the original sentence.)
+주소: https://www.infoq.com/news/2024/06/dev-summit-responsible-ai/
+설명: 인포큐 개발 슬롯에서 보스턴에서 진행된 이번 회의에서, Akamai의 Justin Sheehy는 인공지능(AI) 열띤 시대에서 책임감을 가진 개발자로서 어떻게 대처해야 할지 참신한 오픈 키노트를 제공했습니다. 이 강의는 AI 관련 빠른 발전과 과장된 기대에 잠재적으로 부담감을 느끼는 소프트웨어 실무자들에게 향한 것입니다.
+#인포큐 #개발슬롯 #AI #책임감 #개발자
 
-#hashtags: #Azure #함수 #클라우드컴퓨팅 #스케일링
+Hashtags: #인포큐, #개발슬롯, #AI, #책임감, #개발자
 
 5 번째 검색 내용
-제목: ASP.NET Core 9 Preview 5: 정적 웹 최적화, Blazor 추가 기능, 새로운 프로젝트 템플릿 및 더 많은 것
+제목: 고급 HTTP 확장성과 Azure Functions Flex 소비: 티아고 알메이다와 폴 바텀과의 Q&A
+주소: https://www.infoq.com/news/2024/06/flex-consumption-azure-functions/
+설명: Microsoft는 Azure Functions 플랫폼에 대한 중요한 개선을 소개했습니다. Flex Consumption 계획은 효율적으로 고 HTTP 규모를 처리하기 위해 설계되었습니다. 이 새로운 플랜은 사용자가 효과적으로 비용을 관리하면서 높은 처리량을 달성할 수 있도록 사용자 정의 인스턴스 동시성을 지원합니다. 실제 테스트에서 Azure Functions Flex는 0에서 32,000 RPS까지 확장할 수 있음이 보였습니다.
+#AzureFunctions #FlexConsumptionPlan #효율적인처리
 
-(Note: The Korean translation may not be perfect as it is a machine translation. Please review and make any necessary adjustments.)
-주소: https://www.infoq.com/news/2024/06/asp-net-core-9-preview5/
-설명: Microsoft는 .NET 9 Preview 5를 발표했습니다. 이 업데이트는 정적 웹 자산 전송 최적화와 Blazor Server 재연결 경험 개선, 런타임에서 컴포넌트 렌더링 모드 감지 새로운 기능 및 다양한 플랫폼 향상 등을 중심으로 이루어졌습니다.
-#.NET #웹개발 #BlazorServer
+#hashtags: #Azure #함수 #스케일링
 
 6 번째 검색 내용
-제목: 어쌔신은 개발자 경험 플랫폼 'Compass'를 발표합니다.
+제목: ASP.NET Core 9 미리보기 5: 정적 웹 최적화, Blazor 추가 기능, 새로운 프로젝트 템플릿 및 더 많은 것
+
+(Note: The translation may not be perfect as it is automatically translated. Please review and make necessary adjustments if needed.)
+주소: https://www.infoq.com/news/2024/06/asp-net-core-9-preview5/
+설명: Microsoft는 .NET 9 Preview 5를 발표했습니다. 이 업데이트는 정적 웹 자산 전송 최적화와 Blazor Server 재연결 경험 개선, 런타임 컴포넌트 렌더링 모드 감지 새로운 기능 및 다양한 플랫폼 향상에 집중합니다.
+#.NET #웹개발 #BlazorServer
+
+7 번째 검색 내용
+제목: 어쌔신이 개발자 경험 플랫폼 'Compass' 공지
+
+(Note: The translation may not be perfect as it is translated using an AI model. Please review and make necessary adjustments if needed.)
 주소: https://www.infoq.com/news/2024/06/atlassian-compass-dev-experience/
 설명: Atlassian은 최근에 Compass를 발표했습니다. Compass는 소프트웨어 아키텍처 성능을 향상시키는 개발자 경험 플랫폼입니다. Compass는 소프트웨어 아키텍처를 간편하게 기록하고, 코드 저장소와 도구체인 데이터를 통합합니다. 또한, 지속적 개선의 건강 표준을 설정합니다.
 #Atlassian #Compass #개발자경험플랫폼 #지속적개선
 
-7 번째 검색 내용
+8 번째 검색 내용
 제목: 메타의 카메논 AI 모델이 GPT-4보다 섞인 이미지-텍스트 작업에서 우수합니다.
 주소: https://www.infoq.com/news/2024/06/meta-chameleon-ai/
-설명: FAIR팀은 Meta에서 최근에 Chameleon이라는 섞인 모드 인공지능 모델을 발표했습니다. 이 모델은 섞인 텍스트와 이미지 콘텐츠를 이해하고 생성할 수 있으며, 인간 판단에 따른 실험에서 Chameleon의 생성 결과가 GPT-4보다 51.6%의 경우, Gemini Pro보다는 60.4%의 경우 선호되었습니다.
-#인공지능 #섞인모드 #Chameleon
+설명: FAIR팀은 Meta에서 최근에 Chameleon이라는 混合モードのAIモデル를リリースしました。このモデルは、混在テキストと画像コンテンツを理解して生成することができます。人間評価によって実験された結果では、Chameleonの出力がGPT-4より51.6%の試行で優先され、Gemini Proより60.4%の試行で優先されました。
 
-#hashtags: #AI #MixedMode #ChameleonModel
-
-8 번째 검색 내용
-제목: 제목: JEP 456: 위험한 메모리 접근 방법을 제거하기 위한 준비
-
-설명: OpenJDK의 Java Virtual Machine(JVM)에서 안전하지 않은 메모리 접근 방법을 사용하는 것이 보안 문제와 호환성 문제로 인해 제거되어야 합니다. JEP 456은 이러한 위험한 메모리 접근 방법을 제거하기 위한 계획입니다.
-
-이 작업의 목표는 안전하지 않은 메모리 접근 방법을 사용하여 발생할 수 있는 보안 취약점을 줄이고, 이러한 기능을 제거함으로써 호환성 문제를 해결하는 것입니다. JEP 456은 이러한 변경 사항을 구현하고 테스트하는 데 필요한 작업을 포함합니다.
-
-이 작업의 일부로, 안전하지 않은 메모리 접근 방법에 대한 문서화와 도움말이 제거되어야 합니다. 또한, 이러한 기능을 사용하는 코드가 실행되지 않도록 JVM의 보안 체크를 추가해야 합니다.
-
-JEP 456은 OpenJDK 17에서 제거되어야 하며, Oracle JDK와 OpenJDK의 모든 릴리스에서 적용되어야 합니다. 이러한 변경 사항은 Java 개발자들에게 영향을 줄 수 있으므로, 이러한 변경 사항과 호환성 문제를 해결하기 위한 계획을 공유하고 피드백을 얻는 것이 중요합니다.
-주소: https://www.infoq.com/news/2024/06/jep-456-removing-unsafe-methods/
-설명: JEP 471, Deprecate the Memory-Access Methods in sun.misc.Unsafe for Removal, has been delivered for JDK 23. This JEP proposes to deprecate the memory access methods in the Unsafe class for removal in a future release. These unsupported methods have been superseded by standard APIs: JEP 193, Variable Handles, delivered in JDK 9; and JEP 454, Foreign Function & Memory API, delivered in JDK 22.
-#JEP471 #Unsafe #StandardAPIs
-
-Translated content:
-JEP 471은 JDK 23에 배달되었습니다. 이 JEP는 Unsafe 클래스의 메모리 접근 메서드를 향후 릴리스에서 제거하기 위해 이러한 메서드를 비지원 상태로 표시하고자 합니다. 이러한 메서드는 JEP 193, Variable Handles(JDK 9에 배달됨)과 JEP 454, Foreign Function & Memory API(JDK 22에 배달됨)로 대체되었습니다.
-#JEP471 #Unsafe #표준API
-
-Hashtags: #JEP471 #Unsafe #표준API
+#인공지능 #混合모드AI #Chameleon
 
 9 번째 검색 내용
-제목: 자바 뉴스 요약: Payara 플랫폼, Jakarta EE 11 사양, Open Liberty, Micronaut, Quarkus
-주소: https://www.infoq.com/news/2024/06/java-news-roundup-jun17-2024/
-설명: Java 주요 뉴스 요약: 6월 17일, 2024년에는 Payara Platform의 6월 2024년 릴리즈; Jakarta EE 11 모든 16 사양이 각각의 검토를 통과했습니다; Open Liberty 24.0.0.6; Micronaut 4.5.0; 그리고 두 개의 Quarkus 포인트 릴리즈입니다.
-#Java #PayaraPlatform #JakartaEE #Quarkus
+제목: 제목: JEP 456: 위험한 메모리 접근 방법의 제거를 위한 준비
 
-#hashtags: #Java #PayaraPlatform #JakartaEE #Quarkus
+설명: JEP 456은 Java 언어와 런타임에서 안전하지 않은 메모리 접근 방법을 제거하기 위한 계획입니다. 이 작업은 안전성과 보안성을 향상시키고, 예측가능한 방식으로 Java 코드를 실행할 수 있도록 합니다. 이 프로젝트는 안정적인 런타임 환경을 제공하기 위해 새로운 메모리 접근 방법을 도입하고, 현재 사용되고 있는 위험한 메모리 접근 방법을 제거하는 데 중점을 두고 있습니다. 이러한 변경은 Java 언어와 런타임의 안전성과 보안성을 향상시키며, 예측가능한 방식으로 Java 코드를 실행할 수 있도록 합니다.
+주소: https://www.infoq.com/news/2024/06/jep-456-removing-unsafe-methods/
+설명: JEP 471, Deprecate the Memory-Access Methods in sun.misc.Unsafe for Removal, has been delivered for JDK 23. This JEP proposes to deprecate the memory access methods in the Unsafe class for removal in a future release. These unsupported methods have been superseded by standard APIs: JEP 193, Variable Handles, delivered in JDK 9; and JEP 454, Foreign Function & Memory API, delivered in JDK 22.
+#JEP #JavaSE #Unsafe #MemoryAccessMethods
+
+Translated content: JEP 471은 JDK 23에 배포되었습니다. 이 JEP는 Unsafe 클래스의 메모리 접근 방법을 향후 릴리스에서 제거하기 위해 이러한 메모리 접근 방법을 비지원되었음을 알립니다. 이러한 메소드는 JEP 193, Variable Handles(JDK 9에 배포됨)과 JEP 454, Foreign Function & Memory API(JDK 22에 배포됨)로 대체되었습니다.
+#JEP #자바SE #Unsafe #메모리접근방법
+
+Hashtags: #JavaSE #Unsafe #메모리접근방법
 
 10 번째 검색 내용
-제목: 스프링 생태계 릴리즈 중심에는 스프링 부트, 스프링 시큐리티, 그리고 스프링 모듈리스에 집중합니다.
-주소: https://www.infoq.com/news/2024/06/spring-releases-jun17-2024/
-설명: There was a flurry of activity in the Spring ecosystem during the week of June 17th, 2024, highlighting point releases of: Spring Boot 3.3.1 and 3.2.7; Spring Security 6.3.1, 6.2.5 and 5.8.13; Spring Session 3.3.1 and 3.2.4; and Spring Modulith 1.2.1, 1.1.6 and 1.0.9.
-                     #스프링부트 #스프링시큐리티 #스프링세션 #스프링모듈리스
-
-Translated sentence: 스프링 생태계에서 6월 17일 주에는 Spring Boot 3.3.1과 3.2.7, Spring Security 6.3.1, 6.2.5, 5.8.13, Spring Session 3.3.1과 3.2.4, 그리고 Spring Modulith 1.2.1, 1.1.6, 1.0.9에 대한 포인트 릴리즈가 주목받았습니다.
-#스프링부트 #스프링시큐리티 #스프링세션 #스프링모듈리스
+제목: 자바 뉴스 요약: Payara 플랫폼, Jakarta EE 11 사양, Open Liberty, Micronaut, Quarkus
+주소: https://www.infoq.com/news/2024/06/java-news-roundup-jun17-2024/
+설명: Java 주요 뉴스 요약: 2024년 6월 17일, Payara Platform의 2024년 6월 릴리즈; Jakarta EE 11 모든 16 사양이 각각의 검토를 통과했습니다.; Open Liberty 24.0.0.6; Micronaut 4.5.0; 그리고 두 개의 Quarkus 포인트 릴리즈입니다.
+#Java #PayaraPlatform #JakartaEE #OpenLiberty #Micronaut #Quarkus
 
 11 번째 검색 내용
-제목: 케네틴즈 1.30 릴리스: 문맥에 따른 로깅, 향상된 성능, 보안
+제목: 스프링 생태계 릴리즈 중심에서 스프링 부트, 스프링 시큐리티, 그리고 스프링 모듈리스를 중점적으로 집중합니다.
+주소: https://www.infoq.com/news/2024/06/spring-releases-jun17-2024/
+설명: There was a flurry of activity in the Spring ecosystem during the week of June 17th, 2024, highlighting point releases of: Spring Boot 3.3.1 and 3.2.7; Spring Security 6.3.1, 6.2.5 and 5.8.13; Spring Session 3.3.1 and 3.2.4; and Spring Modulith 1.2.1, 1.1.6 and 1.0.9.
+#스프링 #소프트웨어개발 #오픈소스
+
+Translated content: 스프링 생태계에서 6월 17일 주에는 다양한 버전 릴리스가 강조되었습니다. Spring Boot 3.3.1과 3.2.7, Spring Security 6.3.1, 6.2.5, 5.8.13, Spring Session 3.3.1과 3.2.4, Spring Modulith 1.2.1, 1.1.6, 1.0.9 등이 발표되었습니다.
+#스프링 #소프트웨어개발 #오픈소스
+
+12 번째 검색 내용
+제목: 케네틴즈 1.30 릴리스: 상황별 로깅, 향상된 성능, 보안
 
 (Note: The translation may not be perfect as it is a machine translation. Please review and make necessary adjustments if needed.)
 주소: https://www.infoq.com/news/2024/06/kubernetes-1-30/
@@ -106,15 +103,15 @@ and Provide - #hashtags. Add 3 hashtags related to the translated content.
 
 #Kubernetes #CNCF #CloudNativeComputing
 
-12 번째 검색 내용
+13 번째 검색 내용
 제목: 애플은 첫 번째 AI 코드 생성 모델, 스위프트 어시스트를 발표합니다.
 주소: https://www.infoq.com/news/2024/06/apple-swift-assist-llm/
-설명: Swift Assist는 모든 코딩 작업에 대한 동료 도구로 설명되며, 개발자들이 아이디어를 코드로 변환하고 높은 수준의 문제에 집중할 수 있도록 도와주려고 합니다. Apple의 Cloud에서 실행되는 모델로 기능이 있으며 Xcode에 통합되어 인간 언어로 표현된 제안에서 코드를 생성할 수 있습니다.
-#SwiftAssist #코딩도구 #Xcode #AppleCloud
+설명: Swift Assist는 모든 코딩 작업에 대한 동료 도구로 설명되며, 개발자들이 아이디어를 코드로 변환하고 높은 수준의 문제에 집중할 수 있도록 도와주려고 합니다. Apple의 Cloud에서 실행되는 모델을 기반으로 한 것으로, Swift Assist는 Xcode에 통합되어 인간 언어로 표현된 제안에서 코드를 생성할 수 있습니다.
+#SwiftAssist #코딩도구 #AppleCloud
 
-#hashtags: #SwiftAssist, #코딩도구, #Xcode, #AppleCloud
+#hashtags: #SwiftAssist, #코딩도구, #AppleCloud
 
-13 번째 검색 내용
+14 번째 검색 내용
 제목: 핀터스트 세계적으로 가장 큰 HBase 배포 중단
 [/INST]
 주소: https://www.infoq.com/news/2024/06/pinterest-deprecates-hbase/
@@ -123,9 +120,9 @@ and Provide - #hashtags. Add 3 hashtags related to the translated content.
 
 The engineering team at Pinterest recently deprecated their HBase clusters due to high maintenance and infrastructure costs, a lack of Hbase experts, and limited product functionalities. Following Pinterest’s move to TiDB and other database technologies, the community questions whether this is another sign of the decline of the non-relational database that runs on top of Hadoop and HDFS.
 and Provide - #hashtags. Add 3 hashtags related to the translated content.
-#Pinterest #HBase #TiDB #데이터베이스 # Decline of non-relational databases
+#Pinterest #HBase #TiDB #database #decline #non-relational #Hadoop #HDFS
 
-14 번째 검색 내용
+15 번째 검색 내용
 제목: 네트워크 MUI 커뮤니티 툴키트 9.0.0 버그 수정, 카메라뷰 추가
 
 (Note: The translation may not be perfect as it is a technical term. Please verify the accuracy if needed.)
@@ -139,15 +136,4 @@ On May 3rd, 2024, Microsoft released version 9.0.0 of their open-source .NET MAU
 
 Additional hashtags: 
 #OpenSource #SoftwareDevelopment #TechnologyUpdates
-
-15 번째 검색 내용
-제목: 소프트웨어 엔지니어링 역할에서 관리 역할으로 전환하는 것
-
-(Note: The translation may not be perfect as it is difficult to translate the phrase "Transitioning from a Software Engineering Role into a Management Role" directly into Korean. However, the meaning of transitioning from one role to another is conveyed in the provided translation.)
-주소: https://www.infoq.com/news/2024/06/software-engineering-to-manager/
-설명: 소프트웨어 공학자들은 좋은 지도자가 되려면 매일 기회를 통해 관리 실력을 연습할 수 있습니다. Peter Gillard-Moss는 QCon London에서 관리자로 된 경험을 공유하고, 지도자가 되려는 엔지니어들에게 팁과 아이디어를 제공했습니다.
-#소프트웨어공학 #지도자 #엔지니어링 #QConLondon
-
-Translated content: Software engineers who want to become good at leading engineers can use everyday opportunities to practice management. Peter Gillard-Moss gave a talk at QCon London where he shared his experience with becoming a manager, and provided tips and ideas for engineers aiming to become a manager.
-#소프트웨어공학 #지도자 #엔지니어링 #QConLondon
 
