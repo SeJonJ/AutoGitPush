@@ -1,137 +1,131 @@
 1 번째 검색 내용
+제목: 우버의 대규모 데이터 인프라를 구글 클라우드 플랫폼으로 현대화하는 여정
+
+(Note: The translation may not be perfect as it is a direct translation. It would be better to have it reviewed by a professional translator or someone fluent in both languages.)
+주소: https://www.infoq.com/news/2024/06/uber-bigdata-migration-gcp/
+설명: Uber는 최근 공식 엔지니어링 블로그에서 Google Cloud Platform(GCP)로 배치 데이터 분석 및 기계학습(ML) 훈련 스택를 마이그레이션하는 전략을 공개했습니다. Uber는 세계에서 가장 큰 Hadoop 설치를 운영하고 있으며, 각 지역에서 10만 대 이상의 서버를 통해 오빸바이트 이상의 데이터를 관리하고 있습니다.
+#Uber #GoogleCloudPlatform #Hadoop #기계학습
+
+Hashtags: #Uber, #GoogleCloudPlatform, #Hadoop, #기계학습
+
+2 번째 검색 내용
+제목: 뉴스 제목: AWS에서의 생산성이 없는 엔드포인트를 공격 면적으로 간주하기
+[/INST]
+주소: https://www.infoq.com/news/2024/06/surface-attack-endpoint-aws/
+설명: 보안팀이 Datadog에서 최근에는 AWS에서 비제품 엔드포인트가 공격 표면으로 사용되어 조언 열거를 끊임없이 수행할 수 있는 보안 문제를 공개했습니다. AWS는 이러한 특정 우회를 해결하였습니다.
+#보안 #AWS #데이터도그
+
+3 번째 검색 내용
 제목: [INST] 레디스 클라우드 패키지 소개
 [/INST]
 주소: https://www.infoq.com/news/2024/06/redis-cloud-packages/
-설명: AI : Redis는 Redis Cloud Packages라는 새로운 제품을 발표했습니다. 이것은 특정 작업 로드와 사용 사례에 맞춰 미리 구성된 Redis Cloud 인스턴스의 조합입니다. 이를 통해 사용자는 수동 구성을 건너뛸 수 있고, Redis 인스턴스를 관리하는 귀찮음을 제거할 수 있으며, 개발자들에게 더 접근할 수 있고 효율적인 방식으로 제공됩니다. 사용자는 캐시, NoSQL 또는 벡터 데이터베이스를 위한 패키지를 사용할 수 있습니다.
-#Redis #RedisCloudPackages #개발자에게 더 접근하기 쉽고 효율적인 방식으로 제공됨
+설명: AI : Redis는 Redis Cloud Packages라는 새로운 제품을 발표했습니다. 이것은 특정 작업 로드와 사용 사례에 맞춰 미리 구성된 Redis Cloud 인스턴스의 조합입니다. 이를 통해 사용자는 수동 구성을 건너뛸 수 있고, Redis 인스턴스를 관리하는 귀찮음을 제거할 수 있으며, 개발자들에게 더 접근 가능하고 효율적인 방식으로 제공됩니다. 사용자는 캐시, NoSQL 또는 벡터 데이터베이스와 같은 패키지를 사용할 수 있습니다.
+#Redis #RedisCloudPackages #개발자에게 더 접근 가능하고 효율적인 방식으로 제공됨
 
-Hashtags: #Redis #RedisCloudPackages #개발자에게 더 접근하기 쉽고 효율적인 방식으로 제공됨
+Hashtags: #Redis #RedisCloudPackages #개발자에게 더 접근 가능하고 효율적인 방식으로 제공됨
 
-2 번째 검색 내용
-제목: GitHub를 통해 코드 푸시 처리 신뢰도가 얼마나 향상되었는지 알아보겠습니다.
+4 번째 검색 내용
+제목: GitHub를 통해 코드 푸시 처리 신뢰도가 향상된 방법
+
+[INST] GitHub를 통해 코드 푸시 처리 신뢰도가 향상되었습니다. [/INST]
 주소: https://www.infoq.com/news/2024/06/github-push-process-enhancement/
-설명: GitHub는 개발자들이 플랫폼에서 주기적으로 수행하는 코드 푸시의 신뢰성과 효율성을 향상시키기 위해 여러 技术 업그레이드를 실시했습니다. 이 조치는 발생할 수 있는 잠재적 문제를 해결하고, GitHub에서 코드를 주기적으로 푸시하는 사용자들에게 더 나은 경험을 제공하려고 합니다.
-#GitHub #코드푸시 #신뢰성 #효율성
+설명: GitHub는 개발자들이 플랫폼에서 주기적으로 수행하는 코드 푸시의 신뢰성과 효율성을 향상시키기 위해 여러 기술적 업그레이드를 발표했습니다. 이 변경 사항은 코드 푸시에 대한 잠재적 문제를 해결하고, GitHub에서 코드를 주기적으로 푸시하는 사용자들을 위해 더 나은 경험을 제공하려고 합니다.
+#GitHub #코드푸시 #개발자 #효율성
 
 #hashtags:
-1. #개발자와의_협력
-2. #코드관리_최적화
-3. #GitHub_업그레이드_소식을_알아보세요.
+1. #GitHubUpgrade
+2. #CodeReliability
+3. #DeveloperExperience
 
-3 번째 검색 내용
-제목: 앤젬론이 소프트웨어 개발에 도입되는 Amazon의 AI 助手가 아마존 Q 스위트의 일부로 제공됩니다.
+5 번째 검색 내용
+제목: 앤젬로봇이 소프트웨어 개발에 도입되는 것으로, 앤젬 Q 스위트의 일부로 Amazon이 AI 助手를 제공합니다.
 주소: https://www.infoq.com/news/2024/06/amazon-q-developer-agent/
-설명: Amazon은 최근에 Amazon Q Developer Agent를 출시했습니다. 이것은 개발자가 자연어 입력을 사용하여 통합 개발 환경(IDE)에서 기능, 버그 수정 및 단위 테스트를 생성하는데 인공지능 기반의 도움자입니다. 이 시스템은 대규모 언어 모델과 생성형 AI를 사용하여 개발자의 자연어 요청을 이해하고, 필요한 코드 변경을 생성합니다.
-#인공지능 #AmazonQDeveloperAgent #통합개발환경
+설명: Amazon은 최근에 Amazon Q Developer Agent를 출시했습니다. 이것은 개발자가 자연어 입력을 사용하여 통합 개발 환경(IDE)에서 기능, 버그 수정, 단위 테스트를 생성하는데 인공지능 기반의 도움자입니다. 이 시스템은 대규모 언어 모델과 생성형 AI를 사용하여 개발자의 자연어 요청을 이해하고, 필요한 코드 변경을 생성합니다.
+#인공지능 #개발자도움자 #통합개발환경 #코드변경
 
 #hashtags:
 1. #AI_assistant
 2. #IDE_development
-3. #NaturalLanguageProcessing
+3. #Code_generation
 
-4 번째 검색 내용
-제목: 빠른 6은 새로운 선택적 데이터 레이스 안전 모드를 제공합니다.
+6 번째 검색 내용
+제목: 빠른 6은 새로운 선택적 데이터 레이스 안전 모드를 가져옵니다.
 주소: https://www.infoq.com/news/2024/06/swift-6-data-race-safety-mode/
-설명: Apple의 Languages and Runtimes 팀장이자 Swift 코어 팀에 소속된 Ted Kremenek는 WWDC 2024에서 Swift 6의 새로운 데이터 레이스 안전 모드를 소개했습니다. 이 새로운 컴파일 시간 정적 감지기로 인해 데이터 레이스가 없는 동시 프로그램을 개발자들이 작성할 수 있도록 도와줄 것을 약속합니다.
+설명: Apple의 Languages and Runtimes 팀장이자 Swift 코어 팀에 소속된 Ted Kremenek는 WWDC 2024에서 Swift 6의 새로운 데이터 레이스 안전 모드를 소개했습니다. 이 새로운 컴파일 시간 정적 감지기로 인해 데이터 레이스가 없는 동시 프로그램을 개발자들이 작성할 수 있도록 도와줄 것입니다.
 #WWDC2024 #Swift6 #데이터레이스안전모드
 
-#hashtags: #Apple #WWDC #Swift프로그래밍
+#hashtags: #WWDC, #Apple, #Swift, #TedKremenek
 
-5 번째 검색 내용
+7 번째 검색 내용
 제목: 데이터 메시 플랫폼은 데이터 생산자와 소비자를 연결하는 방법
 [/INST]
 주소: https://www.infoq.com/news/2024/06/data-mesh-platforms/
-설명: AI : 데이터 웨어하우스나 데이터 레이크에서 데이터를 활용할 때 기업들이 맞닥뉴기 하는 문제 중 하나는 분석 데이터의 소유권이 약한 혹은 존재하지 않으며, 결국 질적인 문제가 발생할 수 있다는 것입니다. 데이터 메시는 기업들이 데이터에서 가치를 창출하는 방식을 전환하는 조직적 패러다임 변화로, 책임은 생산자와 소비자의 손으로 되돌려지며 이를 통해 데이터 분석 질적인 문제가 개선됩니다.
-#데이터메시 #데이터분석 #데이터소유권
+설명: AI : 데이터 웨어하우스나 데이터 레이크에서 데이터를 활용할 때 기업들이 종종 직면하는 문제 중 하나는 분석 데이터의 소유권이 약한 것이거나 존재하지 않으며, 결국 질병에 영향을 받을 수 있습니다. 데이터 메시는 기업들이 데이터로부터 가치를 창출하는 방식에서 책임의 전환을 통해 생산자와 소비자의 손으로 돌아오는 조직적 패러다임 변화입니다.
+#데이터메시 #데이터가치화 #데이터책임
 
-#hashtags: #데이터분석, #데이터소유권, #데이터메시
-
-6 번째 검색 내용
-제목: 구글 클라우드가 클라우드 스토리지에 계층적 네임스페이스를 미리 보기로 소개합니다.
-주소: https://www.infoq.com/news/2024/06/google-cloud-storage-hns/
-설명: Google Cloud는 클라우드 스토리지 서비스의 중요한 업데이트를 발표하였습니다. Hierarchical Namespace(HNS)를 소개하며, 이제 미리 보기로 사용 가능합니다. 이 새로운 기능은 스토리지 버킷을 계층적 파일 시스템 구조로 정리할 수 있게 하여, 성능, 일관성, 관리성을 향상시키고 있습니다.
-#GoogleCloud #클라우드스토리지 #HierarchicalNamespac
-
-7 번째 검색 내용
-제목: InfoQ Dev Summit Boston: AI 혼란에서 책임감 있는 개발자 되기
-
-(Note: The Korean translation may not be a perfect literal translation, but it conveys the meaning of the original sentence.)
-주소: https://www.infoq.com/news/2024/06/dev-summit-responsible-ai/
-설명: 인포큐 개발 슬롯에서 보스턴에서 진행된 이번 회의에서, Akamai의 저지 시이하이는 인공지능(AI) 열띤 기간에서 책임감을 가진 개발자로서 어떻게 대처해야 할지에 대한 놀라운 오픈 키노트를 제공했습니다. 이 발표는 AI와 관련된 빠른 발전과 과장된 기대값으로 소프트웨어 실천자들이 혼란스러울 수 있는 개발자를 위한 것입니다.
-#인포큐 #개발슬롯 #AI #책임감 #개발자
-
-#hashtags: #인공지능, #소프트웨어, #기대값, #빠른발전, #책임감개발자
+Hashtags: #데이터메시, #데이터가치화, #데이터책임
 
 8 번째 검색 내용
+제목: 구글 클라우드는 클라우드 스토리지에 계층적 네임스페이스를 미리 보기로 소개합니다.
+주소: https://www.infoq.com/news/2024/06/google-cloud-storage-hns/
+설명: Google Cloud는 클라우드 스토리지 서비스의 중요한 업데이트를 발표하였습니다. Hierarchical Namespace(HNS)를 소개하며, 이제 미리보기로 사용 가능합니다. 이 새로운 기능으로 사용자는 스토리지 버킷을 계층적 파일 시스템 구조로 정리할 수 있어, 성능, 일관성, 관리성이 향상됩니다.
+#GoogleCloud #클라우드스토리지 #HierarchicalNamespac
+
+9 번째 검색 내용
+제목: InfoQ Dev Summit Boston: 인공지능 혼란에서 책임감 있는 개발자 되기
+[INST] InfoQ Dev Summit Boston: Being a Responsible Developer in the Age of AI Hype 을 한글로 번역하였습니다. [/INST]
+주소: https://www.infoq.com/news/2024/06/dev-summit-responsible-ai/
+설명: 인포큐 개발 슬롯에서 보스턴에서 진행된 이번 회의에서, Akamai의 저지 시이하이는 인공지능(AI) 열띤 기간에서 책임감을 가진 개발자로서 어떻게 대처해야 할지에 대한 놀라운 오픈 키노트를 제공했습니다. 이 강의는 AI 관련 빠른 발전과 과장된 기대로부터 소프트웨어 실천자들이 당황하지 않도록 목적을 가지고 있었습니다.
+#인포큐 #개발슬롯 #AI #책임감 #개발자
+
+#hashtags: #인공지능, #소프트웨어, #개발자, #책임감, #인포큐_개발_슬롯
+
+10 번째 검색 내용
 제목: 고급 HTTP 확장성과 Azure Functions Flex 소비: 티아고 알메이다와 폴 바텀과의 Q&A
 주소: https://www.infoq.com/news/2024/06/flex-consumption-azure-functions/
 설명: Microsoft는 Azure Functions 플랫폼에 Flex Consumption 계획을 소개했습니다. 이 새로운 계획은 효율적으로 고 HTTP 규모를 처리하기 위해 설계되었으며, 사용자는 비용을 효과적으로 관리하면서 높은 처리량을 달성할 수 있도록 사용자 정의 인스턴스 동시성을 지원합니다. 실제 테스트에서 Azure Functions Flex는 0에서 32,000 RPS까지 확장할 수 있음이 보여졌습니다.
-#AzureFunctions #FlexConsumptionPlan #효율적인처리
+#AzureFunctions #FlexConsumptionPlan #효율적인처리량 #높은처리량
 
-#hashtags: #Azure #함수 #확장성 #비용관리
+#hashtags: #Azure #함수 #클라우드컴퓨팅 #스케일링
 
-#hashtags: #FlexConsumption #Microsoft #높은처리량 #고규모처리
+11 번째 검색 내용
+제목: ASP.NET Core 9 Preview 5: 정적 웹 최적화, Blazor 추가 기능, 새로운 프로젝트 템플릿 및 더 많은 것
 
-9 번째 검색 내용
-제목: ASP.NET Core 9 미리보기 5: 정적 웹 최적화, Blazor 추가 기능, 새로운 프로젝트 템플릿 및 더 많은 것
-
-(Note: The translation may not be perfect as it is automatically translated. Please review and make necessary adjustments if needed.)
+(Note: The Korean translation may not be perfect as it is a machine translation. Please review and make necessary adjustments if needed.)
 주소: https://www.infoq.com/news/2024/06/asp-net-core-9-preview5/
 설명: Microsoft는 .NET 9 Preview 5를 발표했습니다. 이 업데이트는 정적 웹 자산 전송 최적화와 Blazor Server 재연결 경험 개선, 런타임에서 구성 렌더링 모드 감지를 위한 새로운 기능 및 다양한 플랫폼 개선과 함께 집중합니다.
 #.NET #웹개발 #BlazorServer
 
-10 번째 검색 내용
-제목: 어쌔신은 개발자 경험 플랫폼 'Compass'를 발표합니다.
+12 번째 검색 내용
+제목: 어댑셀라니안이 개발자 경험 플랫폼 '컴패스'를 소개합니다.
 주소: https://www.infoq.com/news/2024/06/atlassian-compass-dev-experience/
-설명: Atlassian은 최근에 Compass를 발표했습니다. Compass는 소프트웨어 아키텍처 성능을 향상시키는 개발자 경험 플랫폼입니다. Compass는 소프트웨어 아키텍처를 간편하게 기록하고, 코드 저장소와 도구체인 데이터를 통합합니다. 또한 지속적 개선의 건강 표준을 설정합니다.
+설명: Atlassian은 최근에 Compass를 발표했습니다. Compass는 소프트웨어 아키텍처 성능을 향상시키는 개발자 경험 플랫폼입니다. Compass는 소프트웨어 아키텍처를 간편하게 기록하고, 코드 저장소와 도구체인 데이터를 통합합니다. 또한, 지속적 개선의 건강 표준을 설정합니다.
 #Atlassian #Compass #개발자경험플랫폼 #지속적개선
 
-11 번째 검색 내용
-제목: 메타의 카메논 AI 모델이 GPT-4보다 섞인 이미지-텍스트 작업에서 우수합니다.
+13 번째 검색 내용
+제목: 메타의 카메로 인공지능 모델이 GPT-4보다 섞인 이미지-텍스트 작업에서 우수합니다.
 주소: https://www.infoq.com/news/2024/06/meta-chameleon-ai/
-설명: FAIR팀의 Meta에서 최근 Chameleon이라는 섞인 모드 인공지능 모델을 발표했습니다. 이 모델은 섞인 텍스트와 이미지 콘텐츠를 이해하고 생성할 수 있습니다. 인간 판단으로 평가된 실험에서 Chameleon의 생성 결과는 GPT-4보다 51.6%의 경우에서 선호되었고, Gemini Pro보다 60.4%의 경우에서도 선호되었습니다.
+설명: FAIR팀은 Meta에서 최근에 Chameleon이라는 섞인 모드 인공지능 모델을 발표했습니다. 이 모델은 섞인 텍스트와 이미지 콘텐츠를 이해하고 생성할 수 있습니다. 인간 평가자들로부터 평가받은 실험에서 Chameleon의 생성된 결과는 GPT-4보다 51.6%의 경우, Gemini Pro보다는 60.4%의 경우 선호되었습니다.
 #인공지능 #섞인모드AI #Chameleon
 
-#hashtags: #FAIR #Meta #GPT4 #GeminiPro
+Hashtags: #인공지능, #섞인모드AI, #Chameleon
 
-12 번째 검색 내용
+14 번째 검색 내용
 제목: 제목: JEP 456: 위험한 메모리 접근 방법을 제거하기 위한 준비
 
-설명: JEP 456은 Java 언어의 안전성과 안정성을 높이기 위해 위험한 메모리 접근 방법들을 제거하는 데 초점을 맞춥니다. 이러한 메모리 접근 방법은 안전하지 않고 예측할 수 없는 문제를 일으킬 수 있기 때문입니다. JEP 456는 이러한 위험한 메모리 접근 방법을 사용하지 않도록 강요하고, 안전한 대체 방법을 제공합니다. 이를 통해 Java 언어의 안정성과 보안성은 더욱 높일 수 있습니다.
+설명: JEP 456은 위험한 메모리 접근 방법을 제거하기 위해 수행되는 작업입니다. 이 작업의 목표는 안전하고 효율적인 메모리 접근 방법을 사용하도록 시스템을 변경하는 것입니다. 이를 위해 개발자들은 새로운 메모리 접근 방법을 구현하고, 기존의 위험한 메모리 접근 방법을 제거하는 데 필요한 도구와 프로세스를 개발해야 합니다. 이러한 변경은 시스템의 안정성과 보안성을 향상시키며, 동시에 성능 저하를 최소화하는 데 기여할 것입니다.
 주소: https://www.infoq.com/news/2024/06/jep-456-removing-unsafe-methods/
 설명: JEP 471, Deprecate the Memory-Access Methods in sun.misc.Unsafe for Removal, has been delivered for JDK 23. This JEP proposes to deprecate the memory access methods in the Unsafe class for removal in a future release. These unsupported methods have been superseded by standard APIs: JEP 193, Variable Handles, delivered in JDK 9; and JEP 454, Foreign Function & Memory API, delivered in JDK 22.
-#JEP #JavaSE #Unsafe #MemoryAccessMethods
+#JEP471 #Unsafe #StandardAPIs
 
-Translated content: JEP 471은 JDK 23에 전달되었습니다. 이 JEP는 Unsafe 클래스의 메모리 접근 메서드를 향후 릴리스에서 제거하기 위해 이러한 메서드를 비지원 상태로 표시하고자 합니다. 이러한 메서드는 JEP 193, Variable Handles(JDK 9에 전달됨)과 JEP 454, Foreign Function & Memory API(JDK 22에 전달됨)에 의해 대체되었습니다.
-#JEP #자바SE #Unsafe #메모리접근메서드
+Translated content: JEP 471은 JDK 23에 전달되었습니다. 이 JEP는 Unsafe 클래스의 메모리 접근 메서드를 미래의 릴리즈에서 제거하기 위해 이 메서드들을 비지원 상태로 표시하고자 합니다. 이러한 메서드는 JEP 193, Variable Handles(JDK 9에 전달됨)과 JEP 454, Foreign Function & Memory API(JDK 22에 전달됨)에 의해 대체되었습니다.
+#JEP471 #Unsafe #표준API
 
-Hashtags: #JavaSE #Unsafe #메모리접근메서드
+Hashtags: #인공지능 #머신러닝 #데이터과학
 
-13 번째 검색 내용
+15 번째 검색 내용
 제목: 자바 뉴스 요약: Payara 플랫폼, Jakarta EE 11 사양, Open Liberty, Micronaut, Quarkus
 주소: https://www.infoq.com/news/2024/06/java-news-roundup-jun17-2024/
 설명: Java 주요 뉴스 요약: 2024년 6월 17일, Payara Platform의 2024년 6월 릴리즈; Jakarta EE 11 모든 16 사양이 각각의 검토를 통과했습니다; Open Liberty 24.0.0.6; Micronaut 4.5.0; 그리고 두 개의 Quarkus 포인트 릴리즈입니다.
-#Java #PayaraPlatform #JakartaEE #OpenLiberty #Micronaut #Quarkus
-
-14 번째 검색 내용
-제목: 스프링 생태계 릴리즈 중심에서 스프링 부트, 스프링 시큐리티, 그리고 스프링 모듈리스를 중점적으로 집중합니다.
-주소: https://www.infoq.com/news/2024/06/spring-releases-jun17-2024/
-설명: There was a flurry of activity in the Spring ecosystem during the week of June 17th, 2024, highlighting point releases of: Spring Boot 3.3.1 and 3.2.7; Spring Security 6.3.1, 6.2.5 and 5.8.13; Spring Session 3.3.1 and 3.2.4; and Spring Modulith 1.2.1, 1.1.6 and 1.0.9.
-#스프링 #소프트웨어개발 #오픈소스
-
-Translated content: 스프링 생태계에서 6월 17일 주에는 많은 활동이 있었으며, Spring Boot 3.3.1과 3.2.7; Spring Security 6.3.1, 6.2.5, 및 5.8.13; Spring Session 3.3.1과 3.2.4; 그리고 Spring Modulith 1.2.1, 1.1.6, 및 1.0.9에서 포인트 릴리스가 강조되었습니다.
-#스프링 #소프트웨어개발 #오픈소스
-
-15 번째 검색 내용
-제목: Kubernetes 1.30 출시: 상황별 로깅, 성능 개선 및 보안 향상
-
-(Note: The translation may not be perfect as it is a machine translation. Please check for accuracy before using.)
-주소: https://www.infoq.com/news/2024/06/kubernetes-1-30/
-설명: 인공지능은 세계를 변화시키고 있습니다. 이것은 의료, 금융, 교통과 같은 다양한 분야에 응용되고 있습니다.
-#인공지능 #의료 #금융 #교통
-
-The Cloud Native Computing Foundation (CNCF) released Kubernetes 1.30, named Uwubernetes in April. The release introduced features such as recursive read-only mounts, job completion policy, and fast recursive SELinux label change.
-and Provide - #hashtags. Add 3 hashtags related to the translated content.
-
-#Kubernetes #CNCF #CloudNativeComputing
+#Java #JakartaEE #PayaraPlatform #OpenLiberty
 
