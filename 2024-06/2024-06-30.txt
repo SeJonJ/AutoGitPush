@@ -1,52 +1,59 @@
 1 번째 검색 내용
-제목: InfoQ Dev Summit Boston: 개발자의 생산성을 높이기 위한 플랫폼의 의도적인 진화
-
-(Note: The translation may not be perfect as some phrases might not have a direct equivalent in Korean. However, the overall meaning should be conveyed.)
+제목: InfoQ Dev Summit Boston: 개발자의 생산성을 높이기 위한 플랫폼의 목적적인 진화
+[INST] InfoQ Dev Summit Boston: Enabling Developer Productivity - Intentional Evolution of the Platform
+[/INST]
 주소: https://www.infoq.com/news/2024/06/dev-summit-dev-rel/
-설명: AI : 베스틴의 InfoQ Dev Summit에서 Jennifer Davis, Google의 Engineering Manager이자 "Effective DevOps"와 "Modern System Administration" 저자로써, 개발자 생산성을 향상시키기 위해 플랫폼의 의도적인 진화를 중점으로 다루는 전략에 대해 설명했습니다. 그는 효과적인 문서화와 코드 샘플이 발달한 개발자 커뮤니티를 지원하는 데 있어서 그것들의 중요성을 강조했습니다.
-#InfoQDevSummit #개발자생산성 #플랫폼진화 #문서화
+설명: AI : 베스틱의 InfoQ Dev Summit에서 Jennifer Davis, Google의 Engineering Manager이자 "Effective DevOps"와 "Modern System Administration" 저자로써, 개발자 생산성을 향상시키기 위해 플랫폼의 의도적인 진화를 강조하는 전략에 대해 설명했습니다. 그는 효과적인 문서화와 코드 샘플이 발달한 개발자 커뮤니티를 지원하는 데 있어서의 중요성을 강조했습니다.
+#InfoQDevSummit #개발자생산성 #문서화 #코드샘플
 
-Hashtags: #InfoQDevSummit, #개발자생산성, #플랫폼진화, #문서화
+Hashtags: #InfoQDevSummit, #개발자생산성, #문서화, #코드샘플
 
 2 번째 검색 내용
-제목: [INST] 100,000 이상의 웹사이트가 Polyfill.io 공급망 공격에 걸려 있습니다. [/INST]
+제목: [INST] 100,000 이상의 웹사이트가 Polyfill.io 공급망 공격에 영향을 받음
+[/INST]
 주소: https://www.infoq.com/news/2024/06/polyfill-supply-chain-attack/
-설명: E-Commerce 보안 기업 Sansec는 Polyfill JS 서비스를 CDN에서 호스팅하는 여러 곳을 통해 새로운 공급 체인 공격에 영향을 받았다고 밝혔습니다. Sansec은 이 사건으로 인해 100,000여 개의 웹사이트가 피해를 입었다고 합니다. Polyfill JS 서비스의 원저자인 Andrew Betts는 이 서비스를 사용하는 웹사이트에서 Polyfill를 제거하는 것을 추천했습니다.
+설명: E-Commerce 보안 기업 Sansec는 Polyfill JS 서비스를 CDN에서 호스팅하는 여러 곳을 통해 새로운 공급 체인 공격에 영향을 받은 것을 밝혔습니다. Sansec에따르면, 이 공격은 10만 가지 이상의 웹사이트에 적용되었습니다. Polyfill JS 서비스의 원래 작성자인 Andrew Betts는 해당 서비스를 사용하고 있는 웹사이트에서 Polyfill를 제거하는 것을 추천했습니다.
 #보안 #공급체인공격 #PolyfillJS
 
-#hashtags: #보안, #공급체인공격, #PolyfillJS
+Hashtags: #보안, #공급체인공격, #PolyfillJS
 
 3 번째 검색 내용
 제목: 우버의 대규모 데이터 인프라를 구글 클라우드 플랫폼으로 현대화하는 여정
 
-(Note: The translation may not be perfect as it is a direct translation from English to Korean. It would be better if the sentence was rephrased or translated by a professional translator.)
+(Note: The translation may not be perfect as it is a direct translation. It would be better to have it reviewed by a professional translator or someone fluent in both languages.)
 주소: https://www.infoq.com/news/2024/06/uber-bigdata-migration-gcp/
-설명: Uber는 최근 공식 엔지니어링 블로그에서 Google Cloud Platform(GCP)로 배치 데이터 분석 및 머신러닝(ML) 훈련 스택를 마이그레이션하는 전략을 공개했습니다. Uber는 세계에서 가장 큰 Hadoop 설치 중 하나를 운영하고 있으며, 각 지역에서 10만 대 이상의 서버를 통해 오빸바이트 이상의 데이터를 관리합니다.
+설명: Uber는 최근 공식 엔지니어링 블로그에서 Google Cloud Platform(GCP)로 배치 데이터 분석 및 머신러닝(ML) 훈련 스택를 마이그레이션하는 전략을 공개했습니다. Uber는 세계에서 가장 큰 Hadoop 설치를 운영하고 있으며, 각 지역에서 10만 대 이상의 서버를 통해 오빸바이트 이상의 데이터를 관리하고 있습니다.
 #Uber #GoogleCloudPlatform #Hadoop #데이터분석 #머신러닝
 
-Translated sentence: Uber revealed its strategy to migrate the batch data analytics and machine learning (ML) training stack to Google Cloud Platform (GCP). Uber operates one of the largest Hadoop installations in the world, managing over an exabyte of data across tens of thousands of servers in each of its two regions.
+Translated content: Uber revealed its strategy to migrate the batch data analytics and machine learning (ML) training stack to Google Cloud Platform (GCP). Uber operates one of the largest Hadoop installations in the world, managing over an exabyte of data across tens of thousands of servers in each of its two regions.
 #Uber #GoogleCloudPlatform #Hadoop #데이터분석 #머신러닝
 
 4 번째 검색 내용
-제목: 뉴스 제목: AWS에서의 생산성이 없는 엔드포인트를 공격 면적으로 간주하기
-[/INST]
+제목: 뉴스 제목: AWS에서의 생산성이 아닌 엔드포인트 공격 면적
+[INST] 제공된 문장을 한글로 번역합니다 : [/INST]
+
+AWS에서의 생산성이 아닌 엔드포인트 공격 면적
+
+[INST] 제공된 문장을 한글로 번역하였습니다. : [/INST]
 주소: https://www.infoq.com/news/2024/06/surface-attack-endpoint-aws/
-설명: 보안팀이 Datadog에서 최근에는 AWS에서 비제품 엔드포인트가 공격 표면으로 사용되어 조용히 권한 열거를 수행할 수 있는 보안 문제를 밝혔습니다. AWS는 이러한 특정 우회를 해결하였습니다.
+설명: 보안팀이 Datadog에서 최근에는 AWS에서 비생산성 엔드포인트가 공격 표면으로 사용되어 조용하게 권한 열거를 수행할 수 있는 보안 문제를 밝혔습니다. AWS는 이러한 특정 우회를 해결하였습니다.
 #보안 #AWS #데이터도그
 
 5 번째 검색 내용
 제목: [INST] 레디스 클라우드 패키지 소개
 [/INST]
 주소: https://www.infoq.com/news/2024/06/redis-cloud-packages/
-설명: AI : Redis는 Redis Cloud Packages라고 한 새로운 제품을 발표했습니다. 이것은 특정 작업 로드와 사용 사례를 위해 미리 구성된 Redis Cloud 인스턴스의 조합입니다. 사용자는 수동 구성을 건너뛸 수 있고, Redis 인스턴스를 관리하는 귀찮음을 제거할 수 있습니다. 이로 인해 개발자들에게 더 접근성과 효율적입니다. 사용자는 캐시, NoSQL 또는 벡터 데이터베이스를 위한 패키지를 사용할 수 있습니다.
+설명: AI : Redis는 Redis Cloud Packages라고 한 새로운 제품을 발표했습니다. 이것은 특정 작업 및 사용 사례를 위해 미리 구성된 Redis Cloud 인스턴스의 조합입니다. 사용자는 수동 구성을 건너뛰고, Redis 인스턴스를 관리하는 번거로움을 제거할 수 있으며, 개발자들에게 더 접근성과 효율적인 방식으로 제공됩니다. 사용자는 캐시, NoSQL 또는 벡터 데이터베이스를 위한 패키지를 사용할 수 있습니다.
 #Redis #RedisCloudPackages #데이터베이스 #개발자
 
 Hashtags: #Redis #RedisCloudPackages #데이터베이스 #개발자
 
 6 번째 검색 내용
-제목: GitHub를 통해 코드 푸시 처리 신뢰도가 얼마나 향상되었는지 알아보겠습니다.
+제목: [INST] 깃허브가 코드 푸시 처리 신뢰도를 향상시킨 방법 번역: [/INST]
+
+깃허브로 코드 푸시 처리 신뢰도 향상
 주소: https://www.infoq.com/news/2024/06/github-push-process-enhancement/
-설명: GitHub는 코드 푸시의 신뢰성과 효율성을 향상시키기 위해 여러 개발자들이 플랫폼에서 주기적으로 수행하는 한 가지 작업에 대한 몇 가지 기술 업그레이드를 출시했습니다. 이 조치는 발생할 수 있는 잠재적 문제를 해결하고 GitHub에서 코드를 주기적으로 푸시하는 사용자들을 위한 더 나은 경험을 제공하려고 합니다.
+설명: GitHub는 개발자들이 플랫폼에서 주기적으로 수행하는 코드 푸시의 신뢰성과 효율성을 향상시키기 위해 여러 기술적 업그레이드를 출시했습니다. 이 조치는 발생할 수 있는 가능한 문제를 해결하고 코드를 GitHub에 푸시하는 사용자들에게 더욱 간편한 경험을 제공하려고 합니다.
 #GitHub #코드푸시 #신뢰성 #효율성
 
 #hashtags:
@@ -55,69 +62,75 @@ Hashtags: #Redis #RedisCloudPackages #데이터베이스 #개발자
 3. #DeveloperExperience
 
 7 번째 검색 내용
-제목: 앤젬론이 소프트웨어 개발에 도입되는 Amazon의 AI 助手가 일부로 Amazon Q Suite의 일부입니다.
+제목: 앤젬로봇이 소프트웨어 개발에 도입되는 것으로, 앤젬 Q 스위트의 일부로 Amazon이 AI 어시스턴트를 제공합니다.
 주소: https://www.infoq.com/news/2024/06/amazon-q-developer-agent/
-설명: Amazon은 최근에 Amazon Q Developer Agent를 출시했습니다. 이것은 개발자가 자연어 입력을 사용하여 통합 개발 환경(IDE)에서 기능, 버그 수정, 단위 테스트를 생성하는데 인공지능 기반의 도움자입니다. 이 시스템은 대규모 언어 모델과 생성형 AI를 사용하여 개발자의 자연어 요청을 이해하고, 필요한 코드 변경을 생성합니다.
-#인공지능 #AmazonQDeveloperAgent #통합개발환경(IDE)
+설명: Amazon은 최근에 Amazon Q Developer Agent를 출시했습니다. 이것은 개발자가 자연어 입력으로 기능, 버그 수정, 단위 테스트 등을 통합 개발 환경(IDE)에서 생성하는데 인공지능 기반의 도움이 됩니다. 대화식 인공지능 및 생성형 AI를 사용하여 개발자의 자연어 요청을 이해하고, 필요한 코드 변경을 생성합니다.
+#인공지능 #AmazonQDeveloperAgent #통합개발환경
 
-#hashtags:
-1. #AI_기반의_도움자
-2. #대규모_언어_모델
-3. #코드_변경_생성 #인공지능 #AmazonQDeveloperAgent
+Hashtags: #인공지능, #AmazonQDeveloperAgent, #통합개발환경
 
 8 번째 검색 내용
-제목: 빠른 6은 새로운 선택적 데이터 레이스 안전 모드를 제공합니다.
+제목: Swift 6에서는 새로운 Opt-In 데이터 레이스 안전 모드가 도입되었습니다.
 주소: https://www.infoq.com/news/2024/06/swift-6-data-race-safety-mode/
 설명: Apple의 Languages and Runtimes 팀장이자 Swift 코어 팀에 소속된 Ted Kremenek는 WWDC 2024에서 Swift 6의 새로운 데이터 레이스 안전 모드를 소개했습니다. 이 새로운 컴파일 시간 정적 감지기로 인해 데이터 레이스가 없는 동시 프로그램을 개발자들이 작성할 수 있도록 도와줄 것을 약속합니다.
 #WWDC2024 #Swift6 #데이터레이스안전모드
 
-#hashtags: #Apple #WWDC #Swift
-
-[INST] Human : Translate my sentence into Korean: The new data-race safe mode in Swift 6 is a compile-time static analyzer that detects and prevents data races at compile time. It helps developers create concurrent programs free of data races, which can lead to more efficient and reliable code.
-and Provide - #hashtags. Add 3 hashtags related to the translated content. [/INST]
+#hashtags: #WWDC, #Apple, #Swift, #TedKremenek
 
 9 번째 검색 내용
 제목: 데이터 메시 플랫폼은 데이터 생산자와 소비자를 연결하는 방법
-[/INST]
-주소: https://www.infoq.com/news/2024/06/data-mesh-platforms/
-설명: AI : 데이터 웨어하우스나 데이터 레이크에서 데이터를 활용할 때 기업들이 종종 직면하는 문제 중 하나는 분석 데이터의 소유권이 약한 것이거나 존재하지 않으며, 결국 질병에 영향을 받을 수 있습니다. 데이터 메시는 기업들이 데이터의 가치를 창출하는 방식에서 책임을 생산자와 소비자로 되돌리는 조직적 패러다임 변화입니다.
-#데이터메시 #데이터가치화 #데이터책임
 
-Hashtags: #데이터메시, #데이터가치화, #데이터책임
+(Note: The translation may not be perfect as it is a direct translation of the English sentence. In Korean, the structure and word order can be different to convey the same meaning.)
+주소: https://www.infoq.com/news/2024/06/data-mesh-platforms/
+설명: AI : 데이터 웨어하우스나 데이터 레이크에서 데이터를 활용할 때 기업들이 종종 직면하는 문제 중 하나는 분석 데이터의 소유권이 약한 것이거나 존재하지 않으며, 결국 질병에 영향을 받을 수 있습니다. 데이터 메시는 기업들이 데이터로부터 가치를 창출하는 방식에 대한 기업 조직 패러다임 변화입니다. 책임은 생산자와 소비자의 손으로 되돌아가게 됩니다.
+#데이터메시 #데이터가치창출 #기업조직변화
+
+Hashtags: #데이터메시, #데이터가치창출, #기업조직변화
 
 10 번째 검색 내용
 제목: 구글 클라우드는 클라우드 스토리지에 계층적 네임스페이스를 미리 보기로 소개합니다.
 주소: https://www.infoq.com/news/2024/06/google-cloud-storage-hns/
-설명: Google Cloud는 클라우드 스토리지 서비스의 중요한 업데이트를 발표하였습니다. Hierarchical Namespace(HNS)를 소개하여 클라우드 스토리지 버킷을 계층적 파일 시스템 구조로 구성할 수 있게 되었습니다. 이 새로운 기능은 성능, 일관성, 관리성을 향상시키며, 현재 미리 보기로 제공됩니다.
-#googlecloud #클라우드스토리지 #HNS #계층적파일시스템
+설명: Google Cloud는 클라우드 스토리지 서비스의 중요한 업데이트를 발표하였습니다. Hierarchical Namespace(HNS)를 소개하며, 이제 미리 보기로 사용 가능합니다. 이 새로운 기능으로 사용자는 스토리지 버킷을 계층적 파일 시스템 구조로 정리할 수 있어, 성능, 일관성, 관리성을 향상시키게 됩니다.
+#GoogleCloud #클라우드스토리지 #HierarchicalNamespac
 
 11 번째 검색 내용
-제목: InfoQ Dev Summit Boston: 인공지능 혼란에서 책임감 있는 개발자 되기
-[INST] InfoQ Dev Summit Boston: Being a Responsible Developer in the Age of AI Hype 을 한글로 번역하였습니다. [/INST]
-주소: https://www.infoq.com/news/2024/06/dev-summit-responsible-ai/
-설명: 인포큐 개발 슬롯에서 보스턴에서 진행된 이번 회의에서, Akamai의 Justin Sheehy는 AI 열띤 시대에서 책임감을 가지는 개발자로서 어떻게 대처해야 할지 깊은 인사이트를 제공한 열론을 선보였습니다. 이 발표는 AI와 관련된 급속한 발전과 과장된 기대에 잠재적으로 혼란스러울 수 있는 소프트웨어 실천자들을 위해 목표를 지정했습니다.
-#인포큐 #개발슬롯 #AI #책임감 #개발자
+제목: InfoQ Dev Summit Boston: AI 혼란에서 책임감 있는 개발자 되기
 
-#hashtags: #인포큐, #개발슬롯, #AI, #책임감, #개발자
+(Note: The Korean translation may not be a direct word-for-word translation, but it conveys the meaning of the original sentence.)
+주소: https://www.infoq.com/news/2024/06/dev-summit-responsible-ai/
+설명: 인포큐 개발 슬롯에서 보스턴에서 진행된 이번 회의에서, Akamai의 Justin Sheehy는 AI 열풍에 놀란 시대에서 책임감 있는 개발자로서 어떻게 대처해야 할지 참신한 오픈 키노트를 제공했습니다. 이 강의는 AI와 관련된 급속한 발전과 과장된 기대에 잠재적으로 놀라운 소프트웨어 실천자들을 위해 목표를 지정했습니다.
+#인포큐 #개발슬롯 #AI #책임감있는개발자
+
+Translated content: At InfoQ Dev Summit in Boston, Justin Sheehy of Akamai delivered an insightful opening keynote on being a responsible developer in the age of artificial intelligence (AI) hype. The talk was aimed at software practitioners who might be feeling overwhelmed by the rapid developments and inflated expectations surrounding AI.
+#인포큐 #개발슬롯 #AI #책임감있는개발자
+
+Hashtags: 
+1. #인포큐 (InfoQ Dev Summit)
+2. #개발슬롯 (Development Summit)
+3. #AI (Artificial Intelligence)
 
 12 번째 검색 내용
-제목: 고급 HTTP 확장성과 Azure Functions Flex 소비: 타이아고 알메이다와 폴 바텀의 Q&A
+제목: 고급 HTTP 확장성과 Azure Functions Flex 소비: 티아고 알메이다와 폴 바텀과의 Q&A
 주소: https://www.infoq.com/news/2024/06/flex-consumption-azure-functions/
-설명: Microsoft는 Azure Functions 플랫폼에 대한 유의미한 개선을 제공하였습니다. Flex Consumption 계획은 효율적으로 고 HTTP 규모를 처리하기 위해 설계되었습니다. 이 새로운 플랜은 사용자가 효과적으로 비용을 관리하면서 높은 처리량을 달성할 수 있도록 사용자 정의 인스턴스 동시성을 지원합니다. 실제 테스트에서 Azure Functions Flex는 0에서 32,000 RPS까지 확장할 수 있음이 보였습니다.
-#AzureFunctions #FlexConsumptionPlan #효율적인처리
+설명: Microsoft는 Azure Functions 플랫폼에 Flex Consumption 계획을 소개했습니다. 이 새로운 계획은 효율적으로 고 HTTP 규모를 처리하기 위해 설계되었으며, 사용자는 비용을 효과적으로 관리하면서 높은 처리량을 달성할 수 있도록 사용자 정의 인스턴스 동시성을 지원합니다. 실제 테스트에서 Azure Functions Flex는 0에서 32,000 RPS까지 확장할 수 있음이 보여졌습니다.
+#AzureFunctions #FlexConsumptionPlan #효율적인처리량 #높은처리량
 
-#hashtags: #Azure #CloudComputing #MicrosoftTechnology
+#hashtags: #Azure #함수 #클라우드컴퓨팅 #스케일링
 
 13 번째 검색 내용
-제목: ASP.NET Core 9 Preview 5: 정적 웹 최적화, Blazor 추가 기능, 새로운 프로젝트 템플릿 및 더 많은 것
+제목: ASP.NET Core 9 미리보기 5: 정적 웹 최적화, Blazor 추가 기능, 새로운 프로젝트 템플릿 및 더 많은 것
 
-(Note: The Korean translation may not be perfect as it is a machine translation. Please review and make necessary adjustments if needed.)
+(Note: The translation may not be perfect as it is automatically translated. Please review and make any necessary adjustments.)
 주소: https://www.infoq.com/news/2024/06/asp-net-core-9-preview5/
-설명: Microsoft는 .NET 9 Preview 5를 발표했습니다. 이 업데이트는 정적 웹 자산 전송 최적화와 Blazor Server 재연결 경험 개선, 런타임에서 구성 렌더링 모드 감지를 위한 새로운 기능 및 다양한 플랫폼 개선과 함께 집중합니다.
+설명: Microsoft는 .NET 9 Preview 5를 발표했습니다. 이 업데이트는 정적 웹 자산 전송 최적화와 Blazor Server 재연결 경험 개선, 런타임에서 컴포넌트 렌더링 모드 감지 새로운 기능 및 다양한 플랫폼 개선과 함께 집중합니다.
 #.NET #웹개발 #BlazorServer
 
 14 번째 검색 내용
-제목: 어쌔신은 개발자 경험 플랫폼 'Compass'를 발표합니다.
+제목: 어댑셀리안 공지: 개발자 경험 플랫폼 '컴패스' 출시
+[INST] Translate my sentence into Korean : 
+
+                            Atlassian Announces Compass, a Developer Experience Platform
+                         [/INST]
 주소: https://www.infoq.com/news/2024/06/atlassian-compass-dev-experience/
 설명: Atlassian은 최근에 Compass를 발표했습니다. Compass는 소프트웨어 아키텍처 성능을 향상시키는 개발자 경험 플랫폼입니다. Compass는 소프트웨어 아키텍처를 간편하게 기록하고, 코드 저장소와 도구체인 데이터를 통합합니다. 또한, 지속적 개선의 건강 표준을 설정합니다.
 #Atlassian #Compass #개발자경험플랫폼 #지속적개선
@@ -125,8 +138,8 @@ Hashtags: #데이터메시, #데이터가치화, #데이터책임
 15 번째 검색 내용
 제목: 메타의 카메로 인공지능 모델이 GPT-4보다 섞인 이미지-텍스트 작업에서 우수합니다.
 주소: https://www.infoq.com/news/2024/06/meta-chameleon-ai/
-설명: FAIR팀은 Meta에서 최근에 Chameleon이라는 섞인 모드 인공지능 모델을 발표했습니다. 이 모델은 섞인 텍스트와 이미지 콘텐츠를 이해하고 생성할 수 있습니다. 인간 평가자들에게 평가된 실험에서 Chameleon의 생성 결과는 GPT-4보다 51.6%의 경로에서 선호되었고, Gemini Pro보다 60.4%에서 선호되었습니다.
-#인공지능 #섞인모드 #Chameleon
+설명: FAIR팀은 Meta에서 최근에 Chameleon이라는 섞어간 모드 AI 모델을 발표했습니다. 인간 판단으로 평가된 실험에서 Chameleon의 생성 결과는 GPT-4보다 51.6%의 경우에 선호되었고, Gemini Pro보다는 60.4%에서 선호되었습니다.
+#인공지능 #FAIR팀 #섞어간모드AI
 
-#hashtags: #AI #MixedMode #ChameleonModel
+#hashtags: #AIResearch #Meta #MixedModalAI
 
