@@ -1,0 +1,144 @@
+1 번째 검색 내용
+제목: InfoQ Dev Summit Boston: Java 애플리케이션을 Kubernetes에서 최적화하는 기초 넘어서 - 베스톤
+
+(주의: 이 번역은 인공지능으로 자동 생성되었습니다. 정확한 내용을 보장하지 않습니다.)
+주소: https://www.infoq.com/news/2024/06/dev-summit-optimize-java-k8s/
+설명: AI : 베스틴의 InfoQ Dev Summit에서 Bruno Borges, Microsoft의 원장 프로젝트 매니저로 지난 여섯 년 이상 근무한 사람은 Java 애플리케이션을 Kubernetes에서 최적화하는 데 있어 인사이트를 공유했습니다. 세션은 주로 JVM 효율성, CPU 제한의 영향을 이해하고, 가비지 컬렉션 프로세스를 효과적으로 관리하는 데 집중했습니다.
+#InfoQDevSummit #Java #Kubernetes #JVMergonomics
+
+Hashtags: #InfoQDevSummit, #Java, #Kubernetes, #JVMergonomics
+
+2 번째 검색 내용
+제목: AWS가 강화된 보안을 위해 Passkey 지원 추가, 루트 사용자에게 MFA 강제 적용
+
+(Note: The translation may not be perfect as it is a technical term. Please verify the accuracy if needed.)
+주소: https://www.infoq.com/news/2024/06/aws-mfa-passkey-support/
+설명: AWS는 최근에 두 가지 새로운 보안 기능을 발표했습니다. 첫째, 이제 passkeys를 MFA(다단계 인증)에 사용할 수 있으며, root와 IAM 사용자에게 추가적인 보안을 제공합니다. 둘째, AWS는 이제 root 사용자 계정에서 AWS 조직에서 시작하여 MFA를 필요로 합니다. 이 요구 사항은 해당 연도 내에 기타 계정으로 확장될 것입니다.
+#AWS #보안 #MFA #인증
+#hashtags: #AWSsecurity, #MFA, #rootuser, #IAMuser
+
+3 번째 검색 내용
+제목: 개발자 생산성 향상: 플랫폼의 의도적 진화를 위한 InfoQ Dev Summit Boston
+
+(Note: The translation may not be perfect as it is a direct translation from English to Korean. The meaning and context should be understood correctly.)
+주소: https://www.infoq.com/news/2024/06/dev-summit-dev-rel/
+설명: AI : 베스틴의 InfoQ Dev Summit에서 Jennifer Davis, Google의 Engineering Manager이자 "Effective DevOps"와 "Modern System Administration" 저자로써, 개발자 생산성을 향상시키기 위해 플랫폼의 의도적인 진화를 위한 전략에 대해 설명했습니다. 그는 효과적인 문서화와 코드 샘플이 발달된 개발자 커뮤니티를 지원하는 데 중요함을 강조했습니다.
+#InfoQDevSummit #개발자생산성 #플랫폼진화 #문서화
+
+Hashtags: #InfoQDevSummit, #개발자생산성, #플랫폼진화, #문서화
+
+4 번째 검색 내용
+제목: [INST] 100,000 이상의 웹사이트가 Polyfill.io 공급망 공격에 영향을 받음
+[/INST]
+주소: https://www.infoq.com/news/2024/06/polyfill-supply-chain-attack/
+설명: E-Commerce 보안 기업 Sansec는 Polyfill JS 서비스를 CDN에 의해 호스팅되고 있을 때 새로운 공급 체인 공격이 발생하고 있음을 밝혔습니다. 산섭은 이 사건으로 인해 10만 가지 이상의 웹사이트에 영향을 받았음을 알려주었습니다. Polyfill JS 서비스의 원저자인 Andrew Betts는 이 서비스를 사용하고 있는 웹사이트에서 Polyfill를 제거하는 것을 추천했습니다.
+#보안 #공급체인공격 #PolyfillJS
+
+Hashtags: #보안, #공급체인공격, #PolyfillJS
+
+5 번째 검색 내용
+제목: 우버의 대규모 데이터 인프라를 구글 클라우드 플랫폼으로 현대화하는 여정
+
+(Note: The translation may not be perfect as it is a direct translation from English to Korean. It would be better if a native Korean speaker checks and adjusts the translation for proper grammar and sentence structure.)
+주소: https://www.infoq.com/news/2024/06/uber-bigdata-migration-gcp/
+설명: Uber는 최근 공식 엔지니어링 블로그에서 Google Cloud Platform(GCP)로 배치 데이터 분석 및 머신러닝(ML) 훈련 스택를 마이그레이션하는 전략을 공개했습니다. Uber는 세계에서 가장 큰 Hadoop 설치를 운영하고 있으며, 각 지역에서 수십만 대의 서버를 통해 오빸바이트 이상의 데이터를 관리하고 있습니다.
+#Uber #GoogleCloudPlatform #Hadoop #데이터분석 #머신러닝
+
+Translated sentence: Uber revealed its strategy to migrate the batch data analytics and machine learning (ML) training stack to Google Cloud Platform (GCP). Uber operates one of the largest Hadoop installations in the world, managing over an exabyte of data across tens of thousands of servers in each of its two regions.
+#Uber #GoogleCloudPlatform #Hadoop #데이터분석 #머신러닝
+
+6 번째 검색 내용
+제목: 뉴스 제목: AWS에서의 생산성이 아닌 엔드포인트 공격 면적
+[INST] 제공된 문장을 한국어로 번역합니다 : [/INST]
+
+AWS에서의 생산성이 없는 엔드포인트를 공격 면적으로 간주하기
+
+(Note: The translation may not be perfect as it is a technical term. Please verify the accuracy if needed.)
+주소: https://www.infoq.com/news/2024/06/surface-attack-endpoint-aws/
+설명: 보안팀이 Datadog에서 최근에는 AWS에서 비제품 엔드포인트가 공격 표면으로 사용되어 끊임없이 권한 열거를 수행할 수 있는 보안 문제를 공개했습니다. AWS는 이러한 특정 우회를 해결하였습니다.
+#보안 #AWS #데이터도그
+
+7 번째 검색 내용
+제목: [INST] 레디스 클라우드 패키지 소개
+[/INST]
+주소: https://www.infoq.com/news/2024/06/redis-cloud-packages/
+설명: AI : Redis는 Redis Cloud Packages라는 새로운 제품을 발표했습니다. 이것은 특정 작업 로드와 사용 사례에 맞춰 미리 구성된 Redis Cloud 인스턴스의 조합입니다. 사용자는 수동 구성을 건너뛸 수 있고, Redis 인스턴스를 관리하는 데 대한 귀찮음을 제거할 수 있습니다. 이로 인해 개발자들에게 더 접근성과 효율적입니다. 사용자는 캐시, NoSQL 또는 벡터 데이터베이스를 위한 패키지를 사용할 수 있습니다.
+#Redis #클라우드 #데이터베이스 #개발자
+
+#hashtags: #RedisCloudPackages, #Accessibility, #EfficiencyForDevelopers
+
+8 번째 검색 내용
+제목: [INST] 깃허브가 코드 푸시 처리 신뢰도를 개선한 방법 번역:
+
+                            깃허브가 코드 푸시 처리 신뢰도 향상 [/INST]
+주소: https://www.infoq.com/news/2024/06/github-push-process-enhancement/
+설명: GitHub는 개발자들이 플랫폼에서 주기적으로 수행하는 코드 푸시의 신뢰성과 효율성을 향상시키기 위해 여러 기술적 업그레이드를 실시했습니다. 이 조치는 발생할 수 있는 잠재적 문제를 해결하고, GitHub에서 코드를 주기적으로 푸시하는 사용자들을 위한 더 나은 경험을 제공하려고 합니다.
+#GitHub #코드푸시 #신뢰성 #효율성
+
+#hashtags:
+1. #개발자들에게 편리한 GitHub
+2. #코드푸시_향상
+3. #GitHub_업그레이드
+
+9 번째 검색 내용
+제목: 앤젬로 인공지능 어시스턴트를 소프트웨어 개발에 적용하며, 이는 애맨즈 Q 스위트의 일부입니다.
+주소: https://www.infoq.com/news/2024/06/amazon-q-developer-agent/
+설명: Amazon은 최근에 Amazon Q Developer Agent를 출시했습니다. 이것은 개발자가 자연어 입력을 사용하여 통합 개발 환경(IDE)에서 기능, 버그 수정, 단위 테스트를 생성하는데 인공지능 기반의 도우미입니다. 이 도우미는 대화식 인공지능 모델과 생성형 AI를 사용하여 개발자의 자연어 요청을 이해하고, 필요한 코드 변경을 생성합니다.
+#인공지능 #AmazonQDeveloperAgent #통합개발환경
+
+#hashtags:
+1. #AI_도우미
+2. #통합개발환경_기능
+3. #자연어처리
+
+10 번째 검색 내용
+제목: 빠른 6은 새로운 선택적 데이터 레이스 안전 모드를 가져옵니다.
+주소: https://www.infoq.com/news/2024/06/swift-6-data-race-safety-mode/
+설명: Apple의 Languages and Runtimes 팀장이자 Swift 코어 팀에 소속된 Ted Kremenek는 WWDC 2024에서 Swift 6의 새로운 데이터 레이스 안전 모드를 소개했습니다. 이 새로운 컴파일 시간 정적 감지기로 인해 데이터 레이스가 없는 동시 프로그램을 개발자들이 작성할 수 있도록 도와줄 것을 약속합니다.
+#WWDC2024 #Swift6 #데이터레이스안전모드
+
+#hashtags: #WWDC, #Apple, #Swift, #TedKremenek
+
+11 번째 검색 내용
+제목: 데이터 메시 플랫폼은 데이터 생산자와 소비자를 연결하는 방법
+[/INST]
+주소: https://www.infoq.com/news/2024/06/data-mesh-platforms/
+설명: AI : 데이터 웨어하우스나 데이터 레이크에서 데이터를 활용할 때 기업들이 종종 직면하는 문제 중 하나는 분석 데이터의 소유권이 약한 것이거나 존재하지 않으며, 결국 질병에 영향을 받을 수 있습니다. 데이터 메시는 기업들이 데이터로부터 가치를 창출하는 방식에서 책임을 생산자와 소비자의 HANDS에 되돌리는 조직적 패러다임 변화입니다.
+#데이터메시 #데이터가치화 #데이터책임
+
+Hashtags: #데이터메시, #데이터가치화, #데이터책임
+
+12 번째 검색 내용
+제목: 구글 클라우드는 클라우드 스토리지에 계층적 네임스페이스를 미리 보기로 소개합니다.
+주소: https://www.infoq.com/news/2024/06/google-cloud-storage-hns/
+설명: Google Cloud는 클라우드 스토리지 서비스의 중요한 업데이트를 발표하였습니다. Hierarchical Namespace(HNS)를 소개하며, 이제 미리 보기로 사용 가능합니다. 이 새로운 기능으로 사용자는 스토리지 버킷을 계층적 파일 시스템 구조로 정리할 수 있어, 성능, 일관성, 관리성이 향상됩니다.
+#GoogleCloud #클라우드스토리지 #HierarchicalNamespac
+
+13 번째 검색 내용
+제목: InfoQ Dev Summit Boston: 인공지능 혼란에서 책임감 있는 개발자 되기
+[INST] InfoQ Dev Summit Boston: Being a Responsible Developer in the Age of AI Hype 을 한글로 번역하였습니다. [/INST]
+주소: https://www.infoq.com/news/2024/06/dev-summit-responsible-ai/
+설명: 인포큐 개발 슬롯에서 보스턴에서 진행된 이번 회의에서, Akamai의 저지 시이하이는 인공지능(AI) 열띤 시대에서 책임감을 가지고 개발자로서 있어야 하는 데 관한 놀라운 개방 키노트를 제공했습니다. 이 강의는 AI와 관련된 빠른 발전과 과장된 기대에 휩싸여 있는 소프트웨어 실천자들을 위한 것입니다.
+#인포큐 #개발슬롯 #AI #책임감 #개발자
+
+#hashtags: #인공지능, #AI, #책임감, #개발자, #소프트웨어, #발전, #기대, #열띤시대, #인포큐, #개발슬롯
+
+14 번째 검색 내용
+제목: 고급 HTTP 확장성과 Azure Functions Flex 소비: 타이아고 알메이다와 폴 바텀과의 Q&A
+주소: https://www.infoq.com/news/2024/06/flex-consumption-azure-functions/
+설명: Microsoft는 Azure Functions 플랫폼에서 Flex Consumption 계획을 소개하였습니다. 이 새로운 계획은 고급 HTTP 스케일을 효율적으로 처리하기 위해 설계되었으며, 사용자가 효과적으로 비용을 관리하면서 높은 처리량을 달성할 수 있도록 사용자 정의 인스턴스 동시성을 지원합니다. 실제 테스트에서 Azure Functions Flex는 0에서 32,000 RPS까지 확장할 수 있음이 보여졌습니다.
+#AzureFunctions #FlexConsumptionPlan #효과적인비용관리
+
+Translated content: Microsoft has introduced a significant enhancement to its Azure Functions platform with the Flex Consumption plan, designed to handle high HTTP scale efficiently. This new plan supports customizable per-instance concurrency, allowing users to achieve high throughput while managing costs effectively. In practical tests, Azure Functions Flex demonstrated the ability to scale from zero to 32,000 RPS.
+#AzureFunctions #FlexConsumptionPlan #효과적인비용관리
+
+Hashtags: #AzureFunctions, #FlexConsumptionPlan, #효과적인비용관리
+
+15 번째 검색 내용
+제목: ASP.NET Core 9 Preview 5: 정적 웹 최적화, Blazor 추가 기능, 새로운 프로젝트 템플릿 및 더 많은 것
+
+(Note: The translation may not be perfect as it is a machine translation. Please review and make any necessary adjustments.)
+주소: https://www.infoq.com/news/2024/06/asp-net-core-9-preview5/
+설명: Microsoft는 .NET 9 Preview 5를 발표했습니다. 이 업데이트는 정적 웹 자산 전송 최적화와 Blazor Server 재연결 경험 개선, 런타임 구성 렌더링 모드 감지 새로운 기능 및 다양한 플랫폼 개선과 함께 집중합니다.
+#.NET #웹개발 #BlazorServer
+
