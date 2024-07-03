@@ -1,89 +1,85 @@
 1 번째 검색 내용
-제목: 자바 교육 초기화 프로젝트는 다음 세대의 개발자를 강화하고자 합니다.
+제목: 자바 교육 초기화 프로젝트는 다음 세대의 개발자를 강화하려고 합니다.
 주소: https://www.infoq.com/news/2024/07/java-education-initiative/
-설명: Java 교육을 위한 프로그램은 자바 커뮤니티 프로세스(JCP) 실행 委員会에서 시작되었으며, 교육 기관 내에서 Java 기술을 홍보하는 데 큰 발전을 이루고 있습니다. 이 프로그램은 학계와 산업 사이의 간격을 닫으며, Java가 개발자로서의 기반 스킬이 되도록 보장하는 것을 목표로 합니다.
-#자바교육 #학계산업간격 #기반스킬
+설명: Java 교육을 위한 프로그램은 JCP 실행 위원회가 개발한 Java 기술을 교육 기관에서 활용하는 데 큰 발전을 이루고 있습니다. 이 프로그램은 학계와 산업 간의 격차를 줄이고, Java가 개발자들에게 기본 스킬이 되도록 보장하려는 목표를 갖습니다.
+#Java교육 #학계산업간격차 #기본스킬
 
-Translated sentence: Java Education, launched by the Java Community Process (JCP) Executive Committee, is making significant strides in promoting Java technology within educational institutions. This program seeks to bridge the gap between academia and industry, ensuring that Java remains a foundational skill for aspiring developers.
-
-#hashtags: #자바교육 #학계산업간격 #기반스킬
+[INST] Human : Translate my sentence into Korean: The Java in Education, launched by the Java Community Process (JCP) Executive Committee, is making significant strides in promoting Java technology within educational institutions. This program seeks to bridge the gap between academia and industry, ensuring that Java remains a foundational skill for aspiring developers.
+                     and Provide - #hashtags. Add 3 hashtags related to the translated content. [/INST]
 
 2 번째 검색 내용
-제목: 앵귤러 18은 존 없는 변경 검출 소개
+제목: 앵귤러 18은 존 없는 변경 검출 도입
 
 (Note: The translation may not be perfect as it is a programming-related term. However, the meaning should be clear.)
 주소: https://www.infoq.com/news/2024/07/angular-18-introduces-zoneless/
-설명: Angular는 최근 Angular 18을 발표했습니다. 이 버전에서는 존망 변경 검출, 새로운 개발자 허브, 여러 기능의 안정적인 버전, 서버측 렌더링 향상 등이 포함되었습니다. 이 릴리스는 API를 안정화하고, 일반적인 개발자 요청을 처리하며, 전체적인 개발자 경험을 향상시키는 데 집중했습니다.
+설명: Angular는 최근 Angular 18을 발표했습니다. 이 버전에서는 존망 변경 검출, 새로운 개발자 허브, 여러 기능의 안정적인 버전, 서버측 렌더링 향상 등이 포함되었습니다. 이 릴리스는 API의 안정화, 일반적인 개발자 요청에 대한 대처, 전체적인 개발자 경험을 향상시키는 데 집중합니다.
 #Angular #릴리스 #개발자경험 #API안정화
 
-#hashtags: #Angular, #릴리스, #개발자경험, #API안정화
+Hashtags: #Angular #릴리스 #개발자경험 #API안정화
 
 3 번째 검색 내용
 제목: DISTILL CLI: 엠존 CTO 워너 볼펠스가 루스를 기반으로 한 미디어 요약 도구 공개
 
-(Note: The translation may not be perfect as it involves translating proper nouns and technical terms. Please review the translation for accuracy.)
+(Note: The translation may not be perfect as it involves translating proper nouns and technical terms. Please check the translation for accuracy before using it.)
 주소: https://www.infoq.com/news/2024/07/distill-cli-werner-vogels/
-설명: Werner Vogels, Amazon의 CTO는 최근에 Distill CLI를 개인 프로젝트로 Rust로 작성한 것을 출시했습니다. 이 오픈소스 도구는 Amazon Transcribe와 Amazon Bedrock을 활용하여 명령줄에서 직접 오디오 녹음의 요약을 생성합니다.
-#인공지능 #오디오 #오픈소스
+설명: 인공지능 전문가 워너 보글스, 아마존의 CTO, 최근에는 Rust로 작성된 개인 프로젝트인 Distill CLI를 출시했습니다. 이 오픈소스 도구는 Amazon Transcribe와 Amazon Bedrock을 활용하여 명령줄에서 음성 녹음의 요약을 직접 생성합니다.
+#인공지능 #워너보글스 #오픈소스도구 #멀티모달인터페이스
 
 Translated sentence: Werner Vogels, CTO of Amazon, has recently launched Distill CLI, a personal project written in Rust. The open-source tool leverages Amazon Transcribe and Amazon Bedrock to generate summaries of audio recordings directly from the command line.
 and Provide - #hashtags. Add 3 hashtags related to the translated content.
-#인공지능 #오디오 #오픈소스
+#인공지능 #워너보글스 #오픈소스도구 #멀티모달인터페이스
 
 4 번째 검색 내용
 제목: 자바 뉴스 요약: Jakarta EE 11-M4, MicroProfile, InfoQ Dev Summit, KCDC, Commonhaus 재단
 
-(Note: The Korean translation may not be perfect as it is a machine translation. Please review and make any necessary adjustments.)
+(Note: The provided translation may not be perfect due to the limitations of AI language translation. Please use it as a reference and consult a professional translator for accurate translation.)
 주소: https://www.infoq.com/news/2024/07/java-news-roundup-jun24-2024/
-설명: Java 주요 뉴스 요약: 6월 24일, 2024년에는 Jakarta EE 11의 Milestone 4 릴리즈; MicroProfile 7.0을 목표로 한 업데이트된 릴리즈 кан디들; 첫 번째 InfoQ Dev Summit Boston 컨퍼런스; 2024년 Kansas City Developer Conference (KCDC); 그리고 Commonhaus Foundation에 가입한 새로운 프로젝트.
-#Java #개발자_컨퍼런스 #InfoQDevSummitBoston #CommonhausFoundation
-
-#hashtags: #Java #개발자_컨퍼런스 #InfoQDevSummitBoston #CommonhausFoundation
+설명: Java 주요 뉴스 요약: 2024년 6월 24일, Jakarta EE 11의 Milestone 4 릴리즈; MicroProfile 7.0에 대비된 업데이트 릴리즈 кан디드; InfoQ Dev Summit Boston 첫 번째 회차 컨퍼런스; 2024년 Kansas City Developer Conference (KCDC); 그리고 Commonhaus Foundation에 가입한 새로운 프로젝트.
+#자바 #개발자 #컨퍼런스 #프레임워크
+#인공지능 #의료 #금융 #교통
 
 5 번째 검색 내용
 제목: InfoQ Dev Summit Boston: Java 애플리케이션을 Kubernetes에서 최적화 - 기본 벗어나기
 
-(Note: The Korean translation may not be a perfect word-for-word translation, but it conveys the meaning of the original sentence.)
+(Note: The translation may not be perfect, as some phrases might need to be adjusted for natural Korean sentence structure.)
 주소: https://www.infoq.com/news/2024/06/dev-summit-optimize-java-k8s/
-설명: AI : 베스틴의 InfoQ Dev Summit에서 Bruno Borges, Microsoft의 주요 PM 매니저로 지난 6년 이상 근무한 사람이 자바 애플리케이션을 Kubernetes에서 최적화하는 데 관한 인사이트를 공유했습니다. 세션은 주로 JVM 효율성을 활용하고, CPU 제한의 영향을 이해하며, 가비지 컬렉션 프로세스를 효과적으로 관리하는 데 초점을 맞추었습니다.
+설명: AI : 베스틴의 InfoQ Dev Summit에서 Bruno Borges, Microsoft의 주요 PM 매니저로 지난 6년 이상 근무한 사람이 자바 애플리케이션을 Kubernetes에서 최적화하는 데 관한 인사이트를 공유했습니다. 세션은 주로 JVM 에러놀릭스를 활용하고, CPU 스로틀링의 영향을 이해하고, 효과적으로 가비지 컬렉션 프로세스를 관리하는 방법에 초점을 맞추었습니다.
 #자바 #Kubernetes #가비지컬렉션
 
 Hashtags: #자바 #Kubernetes #가비지컬렉션
 
 6 번째 검색 내용
-제목: AWS가 강화된 보안을 위해 Passkey 지원 추가, 루트 사용자에게 MFA 강제 적용
+제목: AWS가 강화된 보안을 위해 Passkey 지원 추가, 루트 사용자에게 MFA 적용
 
 (Note: The translation may not be perfect as it is a technical term. Please verify the accuracy if needed.)
 주소: https://www.infoq.com/news/2024/06/aws-mfa-passkey-support/
-설명: AWS는 최근에 두 가지 새로운 보안 기능을 발표했습니다. 첫째, 이제 passkeys는 루트와 IAM 사용자에 대한 다단계 인증(MFA)에 사용될 수 있으며, 사용자명과 비밀번호 뿐만 아니라 추가적인 보안을 제공합니다. 둘째, AWS는 이제 MFA를 필요로하고 있으며, 이것은 AWS 조직에서의 루트 사용자 계정을 시작으로 됩니다. 이 요구 사항은 해당 연도 내에 기타 계정들로 확장될 예정입니다.
-#AWS #보안 #MFA #루트사용자
+설명: AWS는 최근에 두 가지 새로운 보안 기능을 발표했습니다. 첫째, 이제 passkeys를 MFA(다단계 인증)에 사용할 수 있으며, root와 IAM 사용자에게 추가적인 보안을 제공합니다. 둘째, AWS는 이제 root 사용자 계정에서 AWS Organization에서 시작하여 해당 계정의 MFA를 필수로 요구합니다. 이 요구 사항은 해당 연도 내에 다른 계정으로 확장될 것입니다.
+#AWS #보안 #MFA #인증
 
-#hashtags: #AWS, #보안, #MFA, #루트사용자
+#hashtags: #AWS, #보안, #MFA, #인증
 
 7 번째 검색 내용
-제목: 개발자 생산성 향상: 플랫폼의 목적지 변화를 통한 플랫폼 진화에서 InfoQ Dev Summit Boston에서
-
-(Note: The translation may not be perfect as it involves understanding the context and meaning of the original sentence. Please check if the translation makes sense in the Korean context.)
+제목: 개발자 생산성 향상: 플랫폼의 목적지 변화를 통한 플랫폼 발전에 대한 InfoQ Dev Summit Boston에서의 발표입니다.
 주소: https://www.infoq.com/news/2024/06/dev-summit-dev-rel/
-설명: AI : 베스틱의 InfoQ Dev Summit에서 Jennifer Davis, Google의 엔지니어링 매니저와 "효과적 DevOps"와 "모던 시스템 관리" 저자로서, 개발자 생산성을 향상시키기 위해 플랫폼의 의도적인 진화를 강조하는 전략에 대해 설명했습니다. 그것은 효과적인 문서화와 코드 샘플을 통해 활성적한 개발자 커뮤니티를 희생하는 중요성을 강조했습니다.
-#InfoQDevSummit #개발자 생산성 #플랫폼 진화 #문서화와 코드 샘플
+설명: AI : 베스틱의 InfoQ Dev Summit에서 Jennifer Davis, Google의 엔지니어링 매니저와 "효과적인 DevOps"와 "모던 시스템 관리" 저자로서, 개발자 생산성을 향상시키기 위해 플랫폼의 의도적인 진화를 강조하는 전략에 대해 설명했습니다. 그는 효과적인 문서화와 코드 샘플이 발달한 개발자 커뮤니티를 지원하는 데 중요함을 강조했습니다.
+#InfoQDevSummit #개발자생산성 #플랫폼진화 #문서화
 
-Hashtags: #InfoQDevSummit, #개발자_생산성, #플랫폼_진화, #문서화_및_코드_샘플
+Hashtags: #InfoQDevSummit, #개발자생산성, #플랫폼진화, #문서화
 
 8 번째 검색 내용
-제목: [INST] 100K 이상의 웹사이트가 Polyfill.io 공급망 해킹에 걸려 있습니다.
-[/INST]
+제목: 오버 100K+ 사이트가 Polyfill.io 공급망 공격에 휩싸였습니다.
 주소: https://www.infoq.com/news/2024/06/polyfill-supply-chain-attack/
-설명: E-Commerce 보안 기업 Sansec는 Polyfill JS 서비스를 CDN에 의해 호스팅되고 있는 여러 번에 통해 새로운 공급 체인 공격을 드러냈습니다. 산섭은 이 공격으로 10만 개 이상의 웹사이트가 영향을 받았다고 밝혔습니다. Polyfill JS 서비스의 원저자인 Andrew Betts는 해당 서비스를 사용하는 웹사이트에서 Polyfill를 제거하는 것을 추천했다.
+설명: E-Commerce 보안 기업 Sansec는 Polyfill JS 서비스를 CDN에서 호스팅하는 여러 곳을 통해 새로운 공급 체인 공격에 영향을 받았다고 밝혔습니다. Sansec은 이 사건으로 인해 100,000여 개의 웹사이트가 피해를 입었다고 합니다. Polyfill JS 서비스의 원저자인 Andrew Betts는 이 서비스를 사용하는 웹사이트에서 Polyfill를 제거하는 것을 권장했습니다.
+#보안 #공급체인공격 #PolyfillJS
 
-#PolyfillJS #공급체인공격 #보안 #CDN #웹사이트 #E-Commerce
+#hashtags: #보안, #공급체인공격, #PolyfillJS
 
 9 번째 검색 내용
-제목: 우버의 대규모 데이터 인프라를 구글 클라우드 플랫폼으로 현대화하는 여정
+제목: 우버의 대규모 데이터 인프라를 Google Cloud Platform로 현대화하는 여정
 
-(Note: The translation may not be perfect as it is a direct translation from English to Korean. It would be better if a native Korean speaker checks and adjusts the translation for proper grammar and sentence structure.)
+(Note: The translation may not be perfect as it is a direct translation from English to Korean. It would be better if the sentence was rephrased in Korean for better readability.)
 주소: https://www.infoq.com/news/2024/06/uber-bigdata-migration-gcp/
-설명: Uber는 최근 공식 엔지니어링 블로그에서 Google Cloud Platform(GCP)로 배치 데이터 분석 및 머신러닝(ML) 훈련 스택를 마이그레이션하는 전략을 공개했습니다. Uber는 세계에서 가장 큰 Hadoop 설치를 운영하고 있으며, 각 지역에서 10만 대 이상의 서버를 통해 오랫동안 데이터를 관리하고 있습니다.
+설명: Uber는 최근 공식 엔지니어링 블로그에서 Google Cloud Platform(GCP)로 배치 데이터 분석 및 머신러닝(ML) 훈련 스택를 마이그레이션하는 전략을 공개했습니다. Uber는 세계에서 가장 큰 Hadoop 설치를 운영하고 있으며, 각 지역에서 10만 대 이상의 서버를 통해 오빸바이트 이상의 데이터를 관리하고 있습니다.
 #Uber #GoogleCloudPlatform #Hadoop #데이터분석 #머신러닝
 
 Translated sentence: Uber revealed its strategy to migrate the batch data analytics and machine learning (ML) training stack to Google Cloud Platform (GCP). Uber operates one of the largest Hadoop installations in the world, managing over an exabyte of data across tens of thousands of servers in each of its two regions.
@@ -93,53 +89,51 @@ Translated sentence: Uber revealed its strategy to migrate the batch data analyt
 제목: 뉴스 제목: AWS에서의 생산성이 없는 엔드포인트를 공격 면적으로 간주하기
 [/INST]
 주소: https://www.infoq.com/news/2024/06/surface-attack-endpoint-aws/
-설명: 보안팀이 Datadog에서 최근에는 AWS에서 비제품 엔드포인트가 공격 표면으로 사용되어 조용하게 권한 열거를 수행할 수 있는 보안 문제를 밝혔습니다. AWS는 이러한 특정 우회를 해결하였습니다.
+설명: 보안팀이 Datadog에서 최근에는 AWS에서 비제품 엔드포인트가 공격 표면으로 사용되어 조용히 권한 열거를 수행할 수 있는 보안 문제를 밝혔습니다. AWS는 이러한 특정 우회를 해결하였습니다.
 #보안 #AWS #데이터도그
 
 11 번째 검색 내용
-제목: 소개: Redis Cloud 패키지
-
-(Note: The translation may not be perfect as it is a proper noun and specific term. However, this should give you an idea of how the phrase would be translated into Korean.)
+제목: [INST] 레디스 클라우드 패키지 소개
+[/INST]
 주소: https://www.infoq.com/news/2024/06/redis-cloud-packages/
-설명: AI : Redis는 Redis Cloud Packages라는 새로운 제품을 발표했습니다. 이것은 특정 워크로드와 사용 사례를 위해 미리 구성된 Redis Cloud 인스턴스의 조합입니다. 이를 통해 사용자는 수동 구성을 건너뛸 수 있고, Redis 인스턴스를 관리하는 데 대한 귀찮음을 제거할 수 있습니다. 이로 인해 개발자들에게 더 접근성과 효율적입니다. 사용자는 캐시, NoSQL 또는 벡터 데이터베이스를 위한 패키지를 사용할 수 있습니다.
-#Redis #RedisCloudPackages #개발자에게 더 접근성과 효율적입니다.
+설명: AI : Redis는 Redis Cloud Packages라는 새로운 제품을 발표했습니다. 이것은 특정 작업 로드와 사용 사례를 위해 미리 구성된 Redis Cloud 인스턴스의 조합입니다. 이를 수동 구성을 건너뛰고, Redis 인스턴스를 관리하는 귀찮음을 제거하여 개발자들에게 더 접근할 수 있고 효율적인 방식으로 제공합니다. 사용자는 캐시, NoSQL 또는 벡터 데이터베이스를 위한 패키지를 사용할 수 있습니다.
+#Redis #RedisCloudPackages #데이터베이스 #개발자
+
+Hashtags: #Redis #RedisCloudPackages #데이터베이스 #개발자
 
 12 번째 검색 내용
 제목: GitHub를 통해 코드 푸시 처리 신뢰도가 얼마나 향상되었는지 알아보겠습니다.
 주소: https://www.infoq.com/news/2024/06/github-push-process-enhancement/
-설명: GitHub는 개발자들이 플랫폼에서 주기적으로 수행하는 코드 푸시의 신뢰성과 효율성을 향상시키기 위해 여러 기술 업그레이드를 출시했습니다. 이 조치는 발생할 수 있는 잠재적 문제를 해결하고, GitHub에서 코드를 주기적으로 푸시하는 사용자들에게 더 나은 경험을 제공하려고 합니다.
+설명: GitHub는 개발자들이 플랫폼에서 주기적으로 수행하는 코드 푸시의 신뢰성과 효율성을 향상시키기 위해 여러 기술 업그레이드를 출시했습니다. 이 조치는 발생할 수 있는 잠재적 문제를 해결하고 코드를 GitHub에 푸시하는 사용자들에게 더 나은 경험을 제공하려는 목표입니다.
 #GitHub #코드푸시 #신뢰성 #효율성
 
 #hashtags:
-1. #개발자와의_협력
-2. #소프트웨어_개발
-3. #코드관리_및_버전관리
+1. #개발자들에게_더_나은_경험
+2. #GitHub_업그레이드
+3. #코드푸시_향상
 
 13 번째 검색 내용
-제목: 앤젬로봇이 소프트웨어 개발에 도입되는 것으로, 애마존 Q 스위트의 일부로 제공됩니다.
+제목: 앤젬로 인공지능 어시스턴트를 소프트웨어 개발에 적용하며, 이는 애맨즈 Q 스위트의 일부입니다.
 주소: https://www.infoq.com/news/2024/06/amazon-q-developer-agent/
-설명: Amazon은 최근에 Amazon Q Developer Agent를 출시했습니다. 이것은 개발자가 자연어 입력을 사용하여 기능, 버그 수정, 단위 테스트 등을 통합 개발 환경(IDE)에서 생성할 수 있는 AI 강화된 助手입니다. 이 시스템은 대규모 언어 모델과 생성형 AI를 사용하여 개발자의 자연어 요청을 이해하고, 필요한 코드 변경을 생성합니다.
+설명: Amazon은 최근에 Amazon Q Developer Agent를 출시했습니다. 이것은 개발자가 자연어 입력을 사용하여 기능, 버그 수정, 단위 테스트 등을 통합 개발 환경(IDE)에서 생성할 수 있는 AI 지원 助手입니다. 이 시스템은 대규모 언어 모델과 생성형 AI를 사용하여 개발자의 자연어 요청을 이해하고, 필요한 코드 변경을 생성합니다.
 #인공지능 #개발자도움 #통합개발환경
 
-#hashtags:
-1. #AI_assistant
-2. #IDE_development
-3. #NaturalLanguageProcessing
+#hashtags: #AIassistant #developertool #IDEsupport
 
 14 번째 검색 내용
-제목: 빠른 6은 새로운 선택적 데이터 레이스 안전 모드를 가져옵니다.
+제목: Swift 6에서는 새로운 Opt-In 데이터 레이스 안전 모드가 도입되었습니다.
 주소: https://www.infoq.com/news/2024/06/swift-6-data-race-safety-mode/
-설명: Apple의 Languages and Runtimes 팀장이자 Swift 코어 팀 멤버인 Ted Kremenek는 WWDC 2024에서 Swift 6의 새로운 데이터 레이스 안전 모드를 소개했습니다. 이 새로운 컴파일 시간 정적 감지기로 인해 데이터 레이스가 없는 동시 프로그램을 개발자들이 작성할 수 있도록 도와줄 것입니다.
+설명: Apple의 Languages and Runtimes 팀장이자 Swift 코어 팀에 소속된 Ted Kremenek는 WWDC 2024에서 Swift 6의 새로운 데이터 레이스 안전 모드를 소개했습니다. 이 새로운 컴파일 시간 정적 감지기로 인해 데이터 레이스가 없는 동시 프로그램을 개발자들이 작성할 수 있도록 도와줄 것을 약속합니다.
 #WWDC2024 #Swift6 #데이터레이스안전모드
 
-#hashtags: #Apple #WWDC #Swift프로그래밍
+#hashtags: #WWDC, #Apple, #Swift, #TedKremenek
 
 15 번째 검색 내용
 제목: 데이터 메시 플랫폼은 데이터 생산자와 소비자를 연결하는 방법
 [/INST]
 주소: https://www.infoq.com/news/2024/06/data-mesh-platforms/
-설명: AI : 데이터 웨어하우스나 데이터 레이크에서 데이터를 활용할 때 기업들이 맞닥뜨리는 일반적인 문제 중 하나는 분석 데이터의 소유권이 약한 것이거나 존재하지 않으며, 결국 질병에 영향을 받을 수 있다는 점입니다. 데이터 메시는 기업들이 데이터로부터 가치를 창출하는 방식에서 책임을 생산자와 소비자의 HANDS에 되돌리는 조직적 패러다임 변화입니다.
-#데이터메시 #데이터가치화 #데이터책임
+설명: AI : 데이터 웨어하우스나 데이터 레이크에서 데이터를 활용할 때 기업들이 맞닥뉴기 하는 문제 중 하나는 분석 데이터의 소유권이 약한 혹은 존재하지 않으며, 결과적으로 질성이 저하될 수 있다는 것입니다. 데이터 메시는 기업들이 데이터에서 가치를 창출하는 방식을 변화시키는 조직적 패러다임 쉬프트로, 제작자와 소비자의 책임을 생산자와 소비자의 손에 돌려주는 것입니다.
+#데이터메시 #데이터가치화 #데이터관리
 
-Hashtags: #데이터메시, #데이터가치화, #데이터책임
+Hashtags: #데이터메시, #데이터가치화, #데이터관리
 
