@@ -1,0 +1,153 @@
+1 번째 검색 내용
+제목: 자바 교육 초기화 프로젝트는 다음 세대의 개발자를 강화하려고 합니다.
+주소: https://www.infoq.com/news/2024/07/java-education-initiative/
+설명: Java 교육을 위한 프로그램은 JCP 실행 위원회가 개발한 Java 기술을 교육 기관에서 활성화하는데 큰 발전을 이루고 있습니다. 이 프로그램은 학계와 산업 간의 격차를 줄이고자 하며, Java가 개발자들에게 기초적인 기술임을 보장합니다.
+#Java교육 #학계산업간격차 #기초기술 #개발자
+
+#hashtags: #JavaEducation, #AcademicIndustryGap, #FoundationSkillForDevelopers
+
+2 번째 검색 내용
+제목: 앵귤러 18은 존 없는 변경 검출 소개
+
+(Note: The translation may not be perfect as it is a programming-related term. However, the meaning should still be understandable.)
+주소: https://www.infoq.com/news/2024/07/angular-18-introduces-zoneless/
+설명: Angular는 최근 Angular 18을 발표했습니다. 이 버전에서는 존망 변경 검출, 새로운 개발자 허브, 여러 기능의 안정적인 버전, 서버측 렌더링 향상 등이 포함되었습니다. 이 릴리스는 API 안정화, 일반적인 개발자 요청에 대한 처리, 전체 개발자 경험을 향상시키기 위해 주로 집중합니다.
+#Angular #릴리스 #개발자경험 #API안정화
+
+Hashtags: #Angular, #Release, #DeveloperExperience, #APIStability
+
+3 번째 검색 내용
+제목: DISTILL CLI: 엠존 기술자장인 워너 볼펜스가 루스를 기반으로 한 미디어 요약 도구 공개
+
+(Note: The translation may not be perfect as it involves translating technical terms and proper names. Please verify the accuracy of the translation if necessary.)
+주소: https://www.infoq.com/news/2024/07/distill-cli-werner-vogels/
+설명: Werner Vogels, Amazon의 CTO는 최근에 Rust로 작성된 개인 프로젝트인 Distill CLI를 출시했습니다. 이 오픈소스 도구는 Amazon Transcribe와 Amazon Bedrock을 활용하여 명령줄에서 직접 오디오 녹음의 요약을 생성합니다.
+#인공지능 #오디오 #AmazonTranscribe
+
+4 번째 검색 내용
+제목: 자바 뉴스 요약: Jakarta EE 11-M4, MicroProfile, InfoQ Dev Summit, KCDC, Commonhaus 재단
+
+(Note: The Korean translation may not be perfect as it is a machine translation. Please review and make any necessary adjustments.)
+주소: https://www.infoq.com/news/2024/07/java-news-roundup-jun24-2024/
+설명: Java 주요 뉴스 요약: 6월 24일, 2024년에는 다음과 같은 뉴스를 강조합니다. Jakarta EE 11의 Milestone 4 릴리즈; MicroProfile 7.0을 위한 업데이트된 릴리즈 кан디들; InfoQ Dev Summit Boston 첫 번째 회의; 2024년 Kansas City Developer Conference (KCDC); 그리고 Commonhaus Foundation에 가입한 새로운 프로젝트.
+#Java #뉴스요약 #개발자회의 #프로젝트가입
+
+#hashtags:
+1. #JavaNews
+2. #DeveloperConference
+3. #CommonhausFoundation
+
+5 번째 검색 내용
+제목: InfoQ Dev Summit Boston: Java 애플리케이션을 Kubernetes에서 최적화하는 기초 넘어서
+
+(주의: 이 번역은 컴퓨터로 생성되었으며, 정확한 내용과 문맥에 따라 오류가 있을 수 있습니다.)
+주소: https://www.infoq.com/news/2024/06/dev-summit-optimize-java-k8s/
+설명: AI : 베스틴의 InfoQ Dev Summit에서 Bruno Borges, Microsoft의 주요 PM 매니저로 지난 6년 이상 근무한 사람이 자바 애플리케이션을 Kubernetes에서 최적화하는 데 관한 인사이트를 공유했습니다. 세션은 주로 JVM 효율성을 활용하고, CPU 제한의 영향을 이해하며, 가비지 컬렉션 프로세스를 효과적으로 관리하는 데 초점을 맞추었습니다.
+#자바 #Kubernetes #가비지컬렉션
+
+#hashtags:
+1. #JavaOptimization
+2. #KubernetesEfficiency
+3. #GarbageCollectionManagement
+
+6 번째 검색 내용
+제목: AWS가 강화된 보안을 위해 Passkey 지원 추가, 루트 사용자에게 MFA 적용
+
+(Note: The translation may not be perfect as it is a technical term. Please verify the accuracy if needed.)
+주소: https://www.infoq.com/news/2024/06/aws-mfa-passkey-support/
+설명: AWS는 최근에 두 가지 새로운 보안 기능을 발표했습니다. 첫째, 이제 passkeys를 MFA(다단계 인증)에 사용할 수 있으며, root와 IAM 사용자에게 추가적인 보안을 제공합니다. 둘째, AWS는 이제 AWS Organization의 root 사용자 계정에서 MFA를 필요로 하고 있으며, 이 요구 사항은 해당 년도 내에 기타 계정들에 확장될 것입니다.
+#AWS #보안 #MFA #인증
+
+#hashtags: #AWS #보안 #MFA #인증
+
+7 번째 검색 내용
+제목: 개발자 생산성 향상: 플랫폼의 목적지 변화를 통한 플랫폼 발전을 위해 InfoQ Dev Summit Boston에서
+
+(Note: The translation may not be perfect as it involves understanding the context and meaning of the original sentence. Please verify the translation if necessary.)
+주소: https://www.infoq.com/news/2024/06/dev-summit-dev-rel/
+설명: AI : 베스틱의 InfoQ Dev Summit에서 Jennifer Davis, Google의 엔지니어링 매니저와 "효과적인 DevOps"와 "모던 시스템 관리" 저자로서, 개발자 생산성을 향상시키기 위해 플랫폼의 의도적인 진화를 강조하는 전략에 대해 설명했습니다. 그것은 효과적인 문서화와 코드 샘플이 활성화된 긴밀한 개발자 커뮤니티를 희생하는 데 중요함을 강조했습니다.
+#InfoQDevSummit #개발자 생산성 #플랫폼 진화 #문서화와 코드 샘플
+
+Hashtags: #InfoQDevSummit, #개발자_생산성, #플랫폼_진화, #문서화_및_코드_샘플
+
+8 번째 검색 내용
+제목: [INST] 100K 이상의 웹사이트가 Polyfill.io 공급망 해킹에 걸려 있습니다.
+[/INST]
+주소: https://www.infoq.com/news/2024/06/polyfill-supply-chain-attack/
+설명: E-Commerce 보안 기업 Sansec는 Polyfill JS 서비스를 CDN에서 호스팅하는 여러 곳을 통해 새로운 공급 체인 공격에 영향을 받은 것을 밝혔습니다. Sansec에 따르면, 이 공격은 10만 개 이상의 웹사이트에 적용되었습니다. Polyfill JS 서비스의 원래 작성자인 Andrew Betts는 해당 서비스를 사용하고 있는 웹사이트에서 Polyfill를 제거하는 것을 제안했습니다.
+#보안 #공급체인공격 #PolyfillJS
+
+Hashtags: #보안, #공급체인공격, #PolyfillJS
+
+9 번째 검색 내용
+제목: 우버의 대규모 데이터 인프라를 구글 클라우드 플랫폼으로 현대화하는 여정
+
+(Note: The translation may not be perfect as it is a direct translation from English to Korean. It would be better if a native Korean speaker checks and adjusts the sentence for proper grammar and structure.)
+주소: https://www.infoq.com/news/2024/06/uber-bigdata-migration-gcp/
+설명: Uber는 최근 공식 엔지니어링 블로그에서 Google Cloud Platform(GCP)로 배치 데이터 분석 및 머신러닝(ML) 훈련 스택를 마이그레이션하는 전략을 공개했습니다. Uber는 세계에서 가장 큰 Hadoop 설치를 운영하고 있으며, 각 지역에서 10만 대 이상의 서버를 통해 오빸바이트 이상의 데이터를 관리하고 있습니다.
+#Uber #GoogleCloudPlatform #Hadoop #데이터분석 #머신러닝
+
+Translated content hashtags: #Uber, #GoogleCloudPlatform, #Hadoop, #데이터분석, #머신러닝
+
+10 번째 검색 내용
+제목: 뉴스 제목: AWS에서의 생산성이 아닌 엔드포인트 공격 면적
+[INST] 제공된 문장을 한국어로 번역합니다. : 
+
+                            생산성이 아닌 엔드포인트를 AWS의 공격 면적으로
+                         [/INST]
+주소: https://www.infoq.com/news/2024/06/surface-attack-endpoint-aws/
+설명: 보안팀이 Datadog에서 최근에는 AWS에서 비생산성 엔드포인트가 공격 면적으로 사용되어 조용하게 권한 열거를 수행할 수 있는 보안 문제를 밝혔습니다. AWS는 이러한 특정 우회를 해결했습니다.
+#보안 #AWS #공격 #우회
+
+#hashtags: #보안, #AWS, #공격, #우회
+
+11 번째 검색 내용
+제목: [INST] 레디스 클라우드 패키지 소개
+[/INST]
+주소: https://www.infoq.com/news/2024/06/redis-cloud-packages/
+설명: AI : Redis는 Redis Cloud Packages라고 한 새로운 제품을 발표했습니다. 이것은 특정 작업 로드와 사용 사례를 위해 미리 구성된 Redis Cloud 인스턴스의 조합입니다. 이를 통해 사용자는 수동 구성을 건너뛸 수 있고, Redis 인스턴스를 관리하는 귀찮음을 제거할 수 있으며, 개발자들에게 더 접근성과 효율적인 방식으로 제공됩니다. 사용자는 캐시, NoSQL 또는 벡터 데이터베이스를 위한 패키지를 사용할 수 있습니다.
+#Redis #RedisCloudPackages #데이터베이스 접근성 #효율적인 개발자 도구
+
+Hashtags: #Redis #RedisCloudPackages #데이터베이스 접근성 #효율적인 개발자 도구
+
+12 번째 검색 내용
+제목: GitHub를 통해 코드 푸시 처리 신뢰도가 향상된 방법
+
+[INST] GitHub를 통해 코드 푸시 처리 신뢰도가 향상되었습니다. [/INST]
+주소: https://www.infoq.com/news/2024/06/github-push-process-enhancement/
+설명: GitHub는 코드 푸시의 신뢰성과 효율성을 향상시키기 위해 여러 개발자들이 플랫폼에서 주기적으로 수행하는 한 가지 작업에 대한 몇 가지 기술 업그레이드를 출시했습니다. 이 조치는 발생할 수 있는 잠재적 문제를 해결하고 GitHub에서 코드를 주기적으로 푸시하는 사용자들을 위한 더 나은 경험을 제공하려고 합니다.
+#GitHub #코드푸시 #신뢰성 #효율성
+
+#hashtags:
+1. #GitHubUpgrade
+2. #CodeReliability
+3. #DeveloperExperience
+
+13 번째 검색 내용
+제목: 앤젬로봇이 소프트웨어 개발에 도입되는 것으로, 애마존 Q 스위트의 일부로 제공됩니다.
+주소: https://www.infoq.com/news/2024/06/amazon-q-developer-agent/
+설명: Amazon은 최근에 Amazon Q Developer Agent를 출시했습니다. 이것은 개발자가 자연어 입력을 사용하여 통합 개발 환경(IDE)에서 기능, 버그 수정 및 단위 테스트를 생성하는데 인공지능 기반의 도움자입니다. 이 시스템은 대규모 언어 모델과 생성형 AI를 사용하여 개발자의 자연어 요청을 이해하고, 필요한 코드 변경을 생성합니다.
+#인공지능 #AmazonQDeveloperAgent #통합개발환경(IDE)
+
+#hashtags:
+1. #AI_기반의_도움자
+2. #대규모_언어_모델
+3. #코드_변경_생성 #인공지능 #AmazonQDeveloperAgent
+
+14 번째 검색 내용
+제목: 빠른 6은 새로운 선택적 데이터 레이스 안전 모드를 제공합니다.
+주소: https://www.infoq.com/news/2024/06/swift-6-data-race-safety-mode/
+설명: Apple의 Languages and Runtimes 팀장이자 Swift 코어 팀에 소속된 Ted Kremenek는 WWDC 2024에서 Swift 6의 새로운 데이터 레이스 안전 모드를 소개했습니다. 이 새로운 컴파일 시간 정적 감지기로 인해 데이터 레이스가 없는 동시 프로그램을 개발자들이 작성할 수 있도록 도와줄 것을 약속합니다.
+#WWDC2024 #Swift6 #데이터레이스안전모드
+
+#hashtags: #Apple #WWDC #Swift프로그래밍
+
+15 번째 검색 내용
+제목: 데이터 메시 플랫폼은 데이터 생산자와 소비자를 연결하는 방법
+[/INST]
+주소: https://www.infoq.com/news/2024/06/data-mesh-platforms/
+설명: AI : 데이터 웨어하우스나 데이터 레이크에서 데이터를 활용할 때 기업들이 종종 직면하는 문제 중 하나는 분석 데이터의 소유권이 약한 것이거나 존재하지 않으며, 결국 질병에 영향을 받을 수 있습니다. 데이터 메시는 기업들이 데이터로부터 가치를 창출하는 방식에 대한 조직적 패러다임 변화입니다. 책임은 생산자와 소비자의 손으로 되돌아가게 됩니다.
+#데이터메시 #데이터가치창출 #데이터책임
+
+Hashtags: #데이터메시, #데이터가치창출, #데이터책임
+
