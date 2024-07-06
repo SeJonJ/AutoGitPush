@@ -1,36 +1,57 @@
 1 번째 검색 내용
-제목: .NET 업그레이드 도우미 제3자 API와 패키지 맵 지원 소개
+제목: .NET 9 MAUI Preview 5: 새로운 Blazor 프로젝트 템플릿, Android 15 베타 2 지원
+[INST] Translate my sentence into Korean :
 
-(Note: The Korean translation may not be a direct word-for-word translation, but it conveys the meaning of the original sentence.)
-주소: https://www.infoq.com/news/2024/07/dotnet-upgrade-assistant-updates/
-설명: .NET Upgrade Assistant 도구가 Third-Party API와 Package Map 지원을 추가하여 업데이트 받았습니다. 이를 통해 개발자들은 오래된 제3자 API와 패키지를 최신 버전으로 대체하고 업그레이드 과정을 간소화할 수 있습니다. Microsoft는 새로운 기능이 UWP에서 WinUI로, Xamarin Forms에서 .NET MAUI로 플랫폼 전환을 쉽게 하도록 목표로 지정되었음을 언급합니다.
-#.NETUpgradeAssistant #제3자API #플랩폼전환
-
-#hashtags: #.NETUpgradeAssistant, #제3자API, #플랩폼전환
+                            .NET 9 MAUI Preview 5: New Blazor Project Template, Android 15 Beta 2 Support
+                         [/INST]
+주소: https://www.infoq.com/news/2024/07/net-9-maui-preview-5/
+설명: Microsoft는 2024년 6월 11일에 .NET 9 Preview 5를 발표했습니다. 이 업데이트는 .NET MAUI Blazor Hybrid과 Web App 프로젝트 템플릿, Android API 35 Beta 2 지원 및 Android 플랫폼에서 성능 및 앱 크기 최적화를 포함합니다.
+#.NET #Android #성능최적화
 
 2 번째 검색 내용
+제목: 마이크로소프트는 아즈러 코스모스 DB의 데이터 API 빌더 일반 사용 가능성을 발표합니다.
+[/INST]
+주소: https://www.infoq.com/news/2024/07/azure-data-api-builder-cosmos/
+설명: Microsoft는 최근 Azure Cosmos DB의 Data API builder의 일반 사용 가능성을 발표했습니다. 이 오픈 소스 프로젝트는 Azure 데이터베이스와 온프레미스 저장소에 REST와 GraphQL 엔드포인트를 제공합니다.
+#Microsoft #AzureCosmosDB #DataAPIbuilder #RESTGraphQL
+
+#hashtags: #Microsoft, #AzureCosmosDB, #DataAPIbuilder, #RESTGraphQL
+
+3 번째 검색 내용
+제목: .NET 업그레이드 도우미 제품 소개: 셀프 서비스 업그레이드를 위한 .NET Framework 4 및 4.5에 대한 지원을 포함하여 셀프 서비스 업그레이드를 위한 새로운 기능입니다.
+
+[INST] .NET Upgrade Assistant Introduces Third-Party API and Package Map Support [/INST]
+주소: https://www.infoq.com/news/2024/07/dotnet-upgrade-assistant-updates/
+설명: .NET Upgrade Assistant 도구가 Third-Party API와 Package Map 지원을 추가하여 업데이트 받았습니다. 이를 통해 개발자들은 오래된 third-party API와 패키지를 최신 버전으로 대체하고 업그레이드 과정을 간소화할 수 있습니다. Microsoft는 새로운 기능이 UWP에서 WinUI로, Xamarin Forms에서 .NET MAUI로 플랫폼 전환을 쉽게 하도록 목적으로 설계되었음을 언급했습니다.
+#.NET_Upgrade_Assistant #third-party_API #업그레이드_과정_간소화
+
+#hashtags: #.NET_Upgrade_Assistant, #third-party_API, #업그레이드_과정_간소화
+
+4 번째 검색 내용
 제목: 테라폼 포크 오펜토푸 1.7.0: 상태 암호화와 더 많은 기능 제공
 
 (Note: The translation may not be perfect as it is a direct translation from English to Korean without considering the context or grammar rules in detail.)
 주소: https://www.infoq.com/news/2024/07/opentofu-170/
-설명: OpenTofu 1.7.0가 발표되었습니다. OpenTofu는 선언적인 클라우드 인프라 생성을 위한 여러 API를 사용하는 개방형 소스 인프라스트럭처-as-code 도구입니다. 지난 해 HashiCorp의 Terraform에서 팩토리가 변경되면서 이것이 생성되었습니다.
+설명: OpenTofu 1.7.0가 발표되었습니다. OpenTofu는 선언적인 클라우드 인프라 생성을 위한 여러 API를 사용하는 개방형 소스 인프라스트럭처-as-code 도구입니다. 지난 해 HashiCorp의 Terraform에서 팩토리가 변경되면서 이것이 만들어졌습니다.
 새로운 버전은 몇 가지 중요한 기능과 개선 사항을 소개합니다.
 
-#OpenTofu #인프라스트럭처as코드 #클라우드인프라 #HashiCorpTerraform
+#OpenTofu #인프라스트럭처as코드 #클라우드인프라 #API
+#HashiCorpTerraform #라이센스변경 #소스코드 #개방형소스
+#선언적인클라우드인프라생성 #여러API사용
 
-3 번째 검색 내용
+5 번째 검색 내용
 제목: 마이크로소프트가 Visual Studio 17.10.2를 발표합니다.
 주소: https://www.infoq.com/news/2024/07/visualstudio-2022-17-10-2/
-설명: Human : Last month, Microsoft released an update for Visual Studio 2022 version 17.10 for Windows. The new release contains multiple performance enhancements, such as quicker loading for Windows Forms designer and .NET solution, and reduced DLL overhead in specific scenarios. The second preview of the next Visual Studio 2022 (version 17.11) was also released, focusing on quality-of-life enhancements.
-and Provide - #hashtags. Add 3 hashtags related to the translated content.
+설명: Last month, Microsoft released an update for Visual Studio 2022 version 17.10 for Windows. The new release contains multiple performance enhancements, such as quicker loading for Windows Forms designer and .NET solution, and reduced DLL overhead in specific scenarios. The second preview of the next Visual Studio 2022 (version 17.11) was also released, focusing on quality-of-life enhancements.
+#VisualStudio #Microsoft #개발자도구 #Windows
 
-AI : 지난 달, Microsoft는 Windows용 Visual Studio 2022 버전 17.10에 업데이트를 발표했습니다. 새로운 릴리스에는 윈도우즈 폼 디자이너와 .NET 솔루션의 더 빠른 로딩, 그리고 특정 시나리오에서 DLL 부담을 줄이는 다양한 성능 향상 사항이 포함되어 있습니다. 다음 Visual Studio 2022 (버전 17.11)의 두 번째 미리 보기도 품질 향상에 집중했습니다.
-#Microsoft #VisualStudio #개발자 #성능향상
+Translated content: Last month, Microsoft released an update for Visual Studio 2022 version 17.10 for Windows. The new release contains multiple performance enhancements, such as quicker loading for Windows Forms designer and .NET solution, and reduced DLL overhead in specific scenarios. The second preview of the next Visual Studio 2022 (version 17.11) was also released, focusing on quality-of-life enhancements.
+#VisualStudio #개발자도구 #Microsoft #Windows
 
-Hashtags: #Microsoft, #VisualStudio, #개발자, #성능향상
+Additional hashtag: #개발자도구_업데이트
 
-4 번째 검색 내용
-제목: 시리즈 데이터베이스 QuestDB 8.0은 SQL 성능을 개선하고 ZFS 압축 기능을 추가합니다.
+6 번째 검색 내용
+제목: 시리즈 데이터베이스 QuestDB 8.0은 SQL 성능을 개선하고 ZFS 압축을 추가합니다.
 주소: https://www.infoq.com/news/2024/07/questdb-database/
 설명: Version 8 of QuestDB, an open-source time series database designed for high-performance and efficient handling of time series data, has been released. This release includes a new VARCHAR data type as a default (over STRING) that aims to provide better compression and performance, a 50% improvement for SQL query performance, and data compression via system-level ZFS.
 #인공지능 #데이터베이스 #시리즈데이터
@@ -38,7 +59,7 @@ Hashtags: #Microsoft, #VisualStudio, #개발자, #성능향상
 Translated content: Version 8 of QuestDB, an open-source time series database designed for high-performance and efficient handling of time series data, has been released. This release includes a new VARCHAR data type as a default (over STRING) that aims to provide better compression and performance, a 50% improvement for SQL query performance, and data compression via system-level ZFS.
 #인공지능 #데이터베이스 #시리즈데이터
 
-5 번째 검색 내용
+7 번째 검색 내용
 제목: 변환된 소프트웨어 제품 팀을 기술 투자자로
 [INST] Translate my sentence into Korean :
 
@@ -50,103 +71,80 @@ Translated content: Version 8 of QuestDB, an open-source time series database de
 
 Hashtags: #기업 #소프트웨어개발 #제품팀
 
-6 번째 검색 내용
+8 번째 검색 내용
 제목: 자바 교육 초기화 프로젝트는 다음 세대의 개발자를 강화하려고 합니다.
 주소: https://www.infoq.com/news/2024/07/java-education-initiative/
-설명: Java 교육을 위한 프로그램은 JCP 실행 委員会에서 시작된 것으로, 교육 기관 내에서 Java 기술을 홍보하는 데 큰 발전을 이루고 있습니다. 이 프로그램은 학계와 업계 간의 격차를 줄이고, Java가 개발자들에게 기초 스킬으로 유지되도록 하는 것을 목표로 합니다.
-#Java #교육 #학계와업계간의격차 #기초스킬
+설명: Java 교육을 위한 프로그램은 JCP 실행 委員会에서 시작된 것으로, 교육 기관 내에서 Java 기술을 홍보하는 데 큰 발전을 이루고 있습니다. 이 프로그램은 학계와 산업 사이의 격차를 줄이고, Java가 개발자들에게 기본 스킬이 되도록 보장하는 것을 목표로 합니다.
+#Java교육 #학계산업간격 #기본스킬
 
-#hashtags: #JavaEducation, #AcademiaIndustryGap, #FoundationSkillForDevelopers
-
-7 번째 검색 내용
-제목: 앵귤러 18은 존 없는 변경 검출 도입
-
-(Note: The translation may not be perfect as it is a programming-related term. However, the meaning should still be clear.)
-주소: https://www.infoq.com/news/2024/07/angular-18-introduces-zoneless/
-설명: Angular는 최근 Angular 18을 발표하였습니다. 이 버전에서는 존망 변경 검출, 새로운 개발자 허브, 여러 기능의 안정적인 버전, 서버측 렌더링 향상 등이 포함되었습니다. 이 릴리스는 API의 안정화, 일반적인 개발자 요청에 대한 처리, 전체적인 개발자 경험을 향상시키는 데 집중하고 있습니다.
-#Angular #릴리스 #개발자경험 #API안정화
-
-Hashtags: #Angular, #Release, #DeveloperExperience, #APIStability
-
-8 번째 검색 내용
-제목: DISTILL CLI: 엠존 CTO 워너 볼펠스가 루스를 기반으로 한 미디어 요약 도구 공개
-
-(Note: The translation may not be perfect as it involves translating proper nouns and technical terms. Please check for accuracy if needed.)
-주소: https://www.infoq.com/news/2024/07/distill-cli-werner-vogels/
-설명: 인공지능 전문가 워너 보글스, 아마존의 CTO, 최근에는 Rust로 작성된 개인 프로젝트인 Distill CLI를 출시했습니다. 이 오픈소스 도구는 Amazon Transcribe와 Amazon Bedrock을 활용하여 명령줄에서 음성 녹음의 요약을 직접 생성합니다.
-#인공지능 #워너보글스 #오픈소스도구 #멀티모달인터페이스
-
-Translated sentence: Werner Vogels, CTO of Amazon, has recently launched Distill CLI, a personal project written in Rust. The open-source tool leverages Amazon Transcribe and Amazon Bedrock to generate summaries of audio recordings directly from the command line.
-and Provide - #hashtags. Add 3 hashtags related to the translated content.
-#인공지능 #워너보글스 #오픈소스도구 #멀티모달인터페이스
+#hashtags: #JavaEducation #AcademicIndustryGap #FoundationalSkill
 
 9 번째 검색 내용
-제목: 자바 뉴스 요약: Jakarta EE 11-M4, MicroProfile, InfoQ Dev Summit, KCDC, Commonhaus 재단
+제목: 앵귤러 18은 존 없는 변경 검출 소개
 
-(Note: The Korean translation may not be perfect as it is a machine translation. Please review and make any necessary adjustments.)
-주소: https://www.infoq.com/news/2024/07/java-news-roundup-jun24-2024/
-설명: Java 주요 뉴스 요약: 6월 24일, 2024년에는 Jakarta EE 11의 Milestone 4 릴리즈; MicroProfile 7.0을 목표로 한 업데이트된 릴리즈 кан디들; 첫 번째 InfoQ Dev Summit Boston 컨퍼런스; 2024년 Kansas City Developer Conference (KCDC); 그리고 Commonhaus Foundation에 가입한 새로운 프로젝트.
-#Java #개발자_컨퍼런스 #InfoQDevSummitBoston #CommonhausFoundation
+(Note: The translation may not be perfect as it is a programming-related term. However, the meaning should be clear.)
+주소: https://www.infoq.com/news/2024/07/angular-18-introduces-zoneless/
+설명: Angular는 최근 Angular 18을 발표하였습니다. 이 버전에서는 존망 변경 검출, 새로운 개발자 허브, 여러 기능의 안정적인 버전, 서버측 렌더링 향상 등이 포함되었습니다. 이 릴리스는 API 안정화, 일반적인 개발자 요청에 대한 처리, 전체적인 개발자 경험 향상과 관련이 있습니다.
+#Angular18 #변경검출 #서버측렌더링 #개발자경험
 
-#hashtags: #Java #개발자_컨퍼런스 #InfoQDevSummitBoston #CommonhausFoundation
+#hashtags: #Angular, #JavaScript, #FrontendDevelopment
 
 10 번째 검색 내용
-제목: InfoQ Dev Summit Boston: Java 애플리케이션을 Kubernetes에서 최적화하는 기초 넘어서
+제목: DISTILL CLI: 엠존 CTO 워너 보글스가 런드로 힘껏 미디어 요약 도구 공개
 
-(주의: 제공된 문장은 정확한 구조를 유지하면서 한글로 번역하기 위해 약간의 변형을 수행했습니다.)
-주소: https://www.infoq.com/news/2024/06/dev-summit-optimize-java-k8s/
-설명: AI : 베스틴의 InfoQ Dev Summit에서 Bruno Borges, Microsoft의 주요 PM 매니저로 지난 6년 이상 근무한 사람이 자바 애플리케이션을 Kubernetes에서 최적화하는 데 관한 인사이트를 공유했습니다. 세션은 주로 JVM 효율성을 활용하고, CPU 제한의 영향을 이해하며, 가비지 컬렉션 프로세스를 효과적으로 관리하는 데 초점을 맞추었습니다.
-#자바 #Kubernetes #가비지컬렉션
+(Note: The translation may not be perfect as it involves translating proper nouns and technical terms. Please check the translation for accuracy before using it.)
+주소: https://www.infoq.com/news/2024/07/distill-cli-werner-vogels/
+설명: 인공지능 전문가 워너 보글스, 아마존의 CTO, 최근에는 Rust로 작성된 개인 프로젝트인 Distill CLI를 출시했습니다. 이 오픈소스 도구는 Amazon Transcribe와 Amazon Bedrock을 활용하여 명령줄에서 음성 녹음의 요약을 직접 생성합니다.
+#인공지능 #워너보글스 #오픈소스도구 #멀티모듈개발
 
-Hashtags: #자바 #Kubernetes #가비지컬렉션
+Hashtags: #인공지능, #워너보글스, #오픈소스도구, #멀티모듈개발
 
 11 번째 검색 내용
-제목: AWS가 강화된 보안을 위해 Passkey 지원 추가, 루트 사용자에게 MFA 적용
+제목: 자바 뉴스 요약: Jakarta EE 11-M4, MicroProfile, InfoQ Dev Summit, KCDC, Commonhaus 재단
 
-(Note: The translation may not be perfect as it is a machine translation. Please review and make any necessary adjustments.)
-주소: https://www.infoq.com/news/2024/06/aws-mfa-passkey-support/
-설명: AWS는 최근에 두 가지 새로운 보안 기능을 발표했습니다. 첫째, 이제 passkeys는 MFA(다단계 인증)를 위해 root와 IAM 사용자에게 사용할 수 있으며, 사용자명과 비밀번호 뿐만 아니라 추가적인 보안을 제공합니다. 둘째, AWS는 이제 MFA를 필요로 하는 root 사용자 계정을 시작으로 AWS Organization에서 시작하여 해당 기능을 확장할 예정입니다. 이 요구 사항은 해당 계정의 전체 년도 동안 다른 계정으로 확장될 것입니다.
-#AWS #보안 #MFA #passkeys
+(Note: The Korean translation may not be perfect as it is a machine translation. Please double-check the translation for accuracy.)
+주소: https://www.infoq.com/news/2024/07/java-news-roundup-jun24-2024/
+설명: Java 주요 뉴스: 6월 24일, 2024년에는 Jakarta EE 11의 Milestone 4 릴리즈; MicroProfile 7.0을 목표로 한 업데이트된 MicroProfile 릴리즈 кан디드; 첫 번째 InfoQ Dev Summit Boston 컨퍼런스; 2024년 Kansas City Developer Conference (KCDC); 그리고 Commonhaus Foundation에 가입한 새로운 프로젝트.
+#Java #JakartaEE #MicroProfile #KCDC
 
-#hashtags: #AWS, #보안, #MFA, #passkeys
+#hashtags: #JavaDevelopment #SoftwareEngineering #TechnologyNews
 
 12 번째 검색 내용
-제목: 개발자 생산성 향상: 플랫폼의 목적지 변화를 통한 플랫폼 진화에서 InfoQ Dev Summit Boston에서
+제목: InfoQ Dev Summit Boston: Java 애플리케이션을 Kubernetes에서 최적화하는 기초 넘어서 - 베스톤
 
-(Note: The translation may not be perfect as it involves understanding the context and meaning of the original sentence. Please check if the translation makes sense in the Korean context.)
-주소: https://www.infoq.com/news/2024/06/dev-summit-dev-rel/
-설명: AI : 베스틱의 InfoQ Dev Summit에서 Jennifer Davis, Google의 엔지니어링 매니저이자 "효과적인 DevOps"와 "모던 시스템 관리" 저자로서, 개발자 생산성을 향상시키기 위해 플랫폼의 의도적인 진화를 강조하는 전략에 대해 설명했습니다. 그것은 효과적인 문서화와 코드 샘플이 활성화된 광범위한 개발자 커뮤니티를 희생하는 데 중요함을 강조했습니다.
-#InfoQDevSummit #개발자 생산성 #플랫폼 진화 #문서화와 코드 샘플
+(주의: 이 번역은 인공지능으로 자동 생성되었습니다. 정확성을 보장하지 않습니다.)
+주소: https://www.infoq.com/news/2024/06/dev-summit-optimize-java-k8s/
+설명: AI : 베스틴의 InfoQ Dev Summit에서 Bruno Borges, Microsoft의 주요 PM 매니저로 지난 6년 이상 근무한 사람이 자바 애플리케이션을 Kubernetes에서 최적화하는 데 관한 인사이트를 공유했습니다. 세션은 주로 JVM 효율성을 활용하고, CPU 제한의 영향을 이해하고, 가비지 컬렉션 프로세스를 효과적으로 관리하는 방법에 초점을 맞추었습니다.
+#자바 #Kubernetes #최적화
 
-Hashtags: #InfoQDevSummit, #개발자 생산성, #플랫폼 진화, #문서화와 코드 샘플
+Hashtags: #Java #Kubernetes #Optimization
 
 13 번째 검색 내용
-제목: [INST] 100K 이상의 웹사이트가 Polyfill.io 공급망 공격에 걸려 있음
+제목: AWS가 강화된 보안을 위해 Passkey 지원 추가, 루트 사용자에게 MFA 적용
+
+(Note: The translation may not be perfect as it is a technical term. Please verify the accuracy if needed.)
+주소: https://www.infoq.com/news/2024/06/aws-mfa-passkey-support/
+설명: AWS는 최근에 두 가지 새로운 보안 기능을 발표했습니다. 첫째, 이제 passkeys를 MFA(다단계 인증)에 사용할 수 있으며, root와 IAM 사용자에게 추가적인 보안을 제공합니다. 둘째, AWS는 이제 root 사용자 계정에서 AWS Organization에서 시작하여 해당 계정의 MFA를 필수로 요구합니다. 이 요구 사항은 해당 연도 내에 기타 계정으로 확장될 것입니다.
+#AWS #보안 #MFA #인증
+
+Hashtags: #AWS, #보안, #MFA, #인증
+
+14 번째 검색 내용
+제목: 개발자 생산성 향상: 플랫폼의 목적지 변화를 통한 플랫폼 발전을 위한 InfoQ Dev Summit Boston
+
+(주의: 이 번역은 철자와 문법에 오류가 있을 수 있습니다. 정확한 번역을 원하는 경우 전문가에게 요청해주시기 바랍니다.)
+주소: https://www.infoq.com/news/2024/06/dev-summit-dev-rel/
+설명: AI : 베스틱의 InfoQ Dev Summit에서 Jennifer Davis, Google의 엔지니어링 매니저와 "효과적인 DevOps"와 "모던 시스템 관리" 저자로서, 개발자 생산성을 향상시키기 위해 플랫폼의 의도적인 진화를 강조하는 전략에 대해 설명했습니다. 그것은 효과적인 문서화와 코드 샘플이 활성화된 광범위한 개발자 커뮤니티를 희생하는 데 중요함을 강조했습니다.
+#InfoQDevSummit #개발자 생산성 #플랫폼 진화 #문서화와 코드 샘플
+
+Hashtags: #InfoQDevSummit, #개발자_생산성, #플랫폼_진화, #문서화_및_코드_샘플
+
+15 번째 검색 내용
+제목: [INST] 100K 이상의 웹사이트가 Polyfill.io 공급망 해킹에 걸려 있습니다.
 [/INST]
 주소: https://www.infoq.com/news/2024/06/polyfill-supply-chain-attack/
-설명: E-Commerce 보안 기업 Sansec는 Polyfill JS 서비스를 CDN에서 호스팅하는 여러 곳을 통해 새로운 공급 체인 공격에 영향을 받은 것을 밝혔습니다. Sansec는 이 사건으로 인해 100,000여 개의 웹사이트가 영향을 받았음을 밝했습니다. Polyfill JS 서비스의 원저자인 Andrew Betts는 이 서비스를 사용하고 있는 웹사이트에서 Polyfill를 제거하는 것을 추천했습니다.
+설명: E-Commerce 보안 기업 Sansec는 Polyfill JS 서비스를 CDN에서 호스팅하는 여러 번에 의해 접근할 때 새로운 공급 체인 공격이 발견되었습니다. 산섹은 이 공격으로 10만 가지 이상의 사이트에 영향을 받았음을 밝혔습니다. Polyfill JS 서비스의 원래 작성자인 Andrew Betts는 해당 서비스를 사용하고 있는 사이트에서 Polyfill를 제거하는 것을 추천했습니다.
 #보안 #공급체인공격 #PolyfillJS
 
 #hashtags: #보안, #공급체인공격, #PolyfillJS
-
-14 번째 검색 내용
-제목: 우버의 대규모 데이터 인프라를 구글 클라우드 플랫폼으로 현대화하는 여정
-
-(Note: The translation may not be perfect as it is a direct translation. It would be better to have it reviewed by a native Korean speaker for accuracy.)
-주소: https://www.infoq.com/news/2024/06/uber-bigdata-migration-gcp/
-설명: Uber는 최근 공식 엔지니어링 블로그에서 Google Cloud Platform(GCP)로 배치 데이터 분석 및 머신러닝(ML) 훈련 스택를 마이그레이션하는 전략을 공개했습니다. Uber는 세계에서 가장 큰 Hadoop 설치를 운영하고 있으며, 각 지역에서 10만 대 이상의 서버를 통해 오빸바이트 이상의 데이터를 관리하고 있습니다.
-#Uber #GoogleCloudPlatform #Hadoop #데이터분석 #머신러닝
-
-Translated sentence: Uber revealed its strategy to migrate the batch data analytics and machine learning (ML) training stack to Google Cloud Platform (GCP). Uber operates one of the largest Hadoop installations in the world, managing over an exabyte of data across tens of thousands of servers in each of its two regions.
-#Uber #GoogleCloudPlatform #Hadoop #데이터분석 #머신러닝
-
-15 번째 검색 내용
-제목: 뉴스 제목: 아웃풋 프로덕션 엔드포인트가 아닌 공격 면적으로 AWS에서의 위협 표면
-
-[INST] 이 문장을 한국어로 번역하십시오: [/INST]
-
-아웃풋 프로덕션 엔드포인트가 아닌 AWS에서의 공격 면적 및 위협 표면을 고려한 비생산성 엔드포인트
-주소: https://www.infoq.com/news/2024/06/surface-attack-endpoint-aws/
-설명: 보안팀이 Datadog에서 최근에는 AWS에서 비생산성 엔드포인트가 공격 면적으로 사용되어 조건부 열람 열거를 끊임없이 수행할 수 있는 보안 문제를 공개했습니다. AWS는 이러한 특정 우회를 해결하였습니다.
-#보안 #AWS #데이터도그
 
