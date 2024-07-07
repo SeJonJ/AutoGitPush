@@ -1,10 +1,24 @@
 1 번째 검색 내용
-제목: .NET 9 MAUI Preview 5: 새로운 Blazor 프로젝트 템플릿, Android 15 베타 2 지원
-주소: https://www.infoq.com/news/2024/07/net-9-maui-preview-5/
-설명: Microsoft는 2024년 6월 11일에 .NET 9 Preview 5를 발표했습니다. 이 업데이트는 .NET MAUI Blazor Hybrid과 Web App 프로젝트 템플릿, Android API 35 Beta 2 지원 및 Android 플랫폼에서 성능 및 앱 크기 최적화를 포함합니다.
-#.NET #Android #성능최적화
+제목: AWS가 갱신한 잘 설계된 프레임워크와 Lens 카탈로그
+
+(Note: The translation may not be perfect as some terms like "Well-Architected Framework" and "Lens Catalog" are specific to AWS and might not have direct translations in Korean.)
+주소: https://www.infoq.com/news/2024/07/well-architected-framework-lens/
+설명: AWS는 최근에 Well-Architected Framework와 Lens Catalog의 업데이트를 발표했습니다. 보안과 관찰성에 큰 중점을 두고 있으며, 새로운 릴리스는 클라우드에서 최적화된, 안전하고 강력한 워크로드를 구축하고 유지하기 위한 아키텍처 최선의 방법을 확장했습니다.
+#AWS #클라우드 #보안 #관찰성
+
+Hashtags: #AWS, #클라우드, #보안, #관찰성
 
 2 번째 검색 내용
+제목: .NET 9 MAUI Preview 5: 새로운 Blazor 프로젝트 템플릿, Android 15 Beta 2 지원
+[INST] Translate my sentence into Korean :
+
+                            .NET 9 MAUI Preview 5: New Blazor Project Template, Android 15 Beta 2 Support
+                         [/INST]
+주소: https://www.infoq.com/news/2024/07/net-9-maui-preview-5/
+설명: Microsoft는 6월 11일 2024년 .NET 9 Preview 5를 발표했습니다. 이 업데이트에는 .NET MAUI Blazor Hybrid와 Web App 프로젝트 템플릿, Android API 35 Beta 2 지원 및 Android 플랫폼에서 성능 및 앱 크기 최적화가 포함되어 있습니다.
+#.NET #Android #성능최적화
+
+3 번째 검색 내용
 제목: 마이크로소프트는 아즈러 코스모스 DB의 데이터 API 빌더 일반 사용 가능성을 발표합니다.
 [/INST]
 주소: https://www.infoq.com/news/2024/07/azure-data-api-builder-cosmos/
@@ -13,41 +27,40 @@
 
 #hashtags: #Azure, #데이터베이스, #API
 
-[INST] Human : Translate my sentence into Korean: The new version of the software has been released. It includes bug fixes and performance improvements. and Provide - #hashtags. Add 3 hashtags related to the translated content. [/INST]
-
-3 번째 검색 내용
-제목: .NET 업그레이드 도우미 제3자 API와 패키지 맵 지원 소개
-
-(Note: The translation may not be perfect as it is a machine translation. Please review and make necessary adjustments if needed.)
-주소: https://www.infoq.com/news/2024/07/dotnet-upgrade-assistant-updates/
-설명: .NET Upgrade Assistant 도구가 Third-Party API와 Package Map 지원을 추가하여 업데이트 받았습니다. 이를 통해 개발자들은 오래된 제3자 API와 패키지를 최신 버전으로 대체하여 업그레이드 과정을 간소화할 수 있습니다. Microsoft는 새로운 기능이 UWP에서 WinUI로, Xamarin Forms에서 .NET MAUI로 플랫폼 전환을 쉽게 하도록 목표로 지정되었음을 언급합니다.
-#.NETUpgradeAssistant #제3자API #플랩폼전환
-
-#hashtags: #.NETUpgradeAssistant, #제3자API, #플랩폼전환
+[INST] Human : Translate my sentence into Korean: The new version of the game has been released. It includes new levels and features. and Provide - #hashtags. Add 3 hashtags related to the translated content. [/INST]
 
 4 번째 검색 내용
-제목: 테라폼 포크 오픈토퓨 1.7.0: 상태 암호화와 더 많은 기능 제공
+제목: .NET 업그레이드 도우미 제3자 API와 패키지 맵 지원 소개
 
 (Note: The translation may not be perfect as it is a machine translation, but it should convey the meaning of the original sentence.)
-주소: https://www.infoq.com/news/2024/07/opentofu-170/
-설명: OpenTofu 1.7.0가 발표되었습니다. OpenTofu는 선언적인 클라우드 인프라 생성을 위한 여러 API를 사용하여 다양한 분야에서 응용되고 있습니다. HashiCorp의 Terraform에서 지난 해 변경된 라이선스 후 이것을 포크했습니다.
-                    새로운 버전은 몇 가지 중요한 기능과 개선 사항을 소개합니다.
-                    #OpenTofu #인프라관리도구 #클라우드솔루션 #라이선스변경
+주소: https://www.infoq.com/news/2024/07/dotnet-upgrade-assistant-updates/
+설명: .NET Upgrade Assistant 도구가 Third-Party API와 Package Map 지원을 추가하여 업데이트 받았습니다. 이를 통해 개발자들은 오래된 제3자 API와 패키지를 최신 버전으로 대체하고 업그레이드 과정을 간소화할 수 있습니다. Microsoft는 새로운 기능이 UWP에서 WinUI로, Xamarin Forms에서 .NET MAUI로 플랫폼 전환을 쉽게 하도록 목적으로 설계되었음을 언급했습니다.
+#.NETUpgradeAssistant #제3자API #플랫폼전환
 
-#hashtags: #OpenTofu, #인프라관리도구, #클라우드솔루션, #라이선스변경
+#hashtags: #.NETUpgradeAssistant, #제3자API, #플랫폼전환
 
 5 번째 검색 내용
+제목: 테라폼 포크 오펄루 1.7.0: 상태 암호화와 더 많은 기능 제공
+
+(Note: The translation may not be perfect as it involves some technical terms and context understanding.)
+주소: https://www.infoq.com/news/2024/07/opentofu-170/
+설명: OpenTofu 1.7.0이 발표되었습니다. OpenTofu는 선언적인 클라우드 인프라 생성을 위한 여러 API를 사용하여 다양한 분야에서 응용되는 개방형 소스 인프라스트럭처-as-code 도구입니다. 지난 해 HashiCorp의 Terraform에서 팩토리가 변경되면서 이것이 변경되었습니다.
+새로운 버전은 몇 가지 중요한 기능과 개선 사항을 소개합니다.
+
+#OpenTofu #인프라스트럭처as코드 #클라우드인프라 #HashiCorpTerraform
+
+#hashtags: #OpenTofu, #인프라스트럭처as코드, #클라우드인프라, #HashiCorpTerraform
+
+6 번째 검색 내용
 제목: 마이크로소프트가 Visual Studio 17.10.2를 발표합니다.
 주소: https://www.infoq.com/news/2024/07/visualstudio-2022-17-10-2/
 설명: Last month, Microsoft released an update for Visual Studio 2022 version 17.10 for Windows. The new release contains multiple performance enhancements, such as quicker loading for Windows Forms designer and .NET solution, and reduced DLL overhead in specific scenarios. The second preview of the next Visual Studio 2022 (version 17.11) was also released, focusing on quality-of-life enhancements.
-#VisualStudio #Microsoft #개발자도구
+#VisualStudio #Microsoft #개발자도구 #Windows
 
-Translated sentence: 지난 달, Microsoft는 Windows용 Visual Studio 2022 버전 17.10에 업데이트를 릴리스했습니다. 새로운 릴리스에는 윈도우즈 폼 디자이너와 .NET 솔루션의 더 빠른 로딩, 그리고 특정 시나리오에서 DLL 오버헤드를 줄이는 다양한 성능 향상 사항이 포함되어 있습니다. 다음 Visual Studio 2022 (버전 17.11)의 두 번째 미리보기도 품질 향상에 집중하고 있었습니다.
-#VisualStudio #Microsoft #개발자도구
+Translated content: Last month, Microsoft released an update for Visual Studio 2022 version 17.10 for Windows. The new release contains multiple performance enhancements, such as quicker loading for Windows Forms designer and .NET solution, and reduced DLL overhead in specific scenarios. The second preview of the next Visual Studio 2022 (version 17.11) was also released, focusing on quality-of-life enhancements.
+#VisualStudio #Microsoft #개발자도구 #Windows
 
-Hashtags: #VisualStudio #Microsoft #개발자도구
-
-6 번째 검색 내용
+7 번째 검색 내용
 제목: 시리즈 데이터베이스 QuestDB 8.0은 SQL 성능을 개선하고 ZFS 압축을 추가합니다.
 주소: https://www.infoq.com/news/2024/07/questdb-database/
 설명: Version 8 of QuestDB, an open-source time series database designed for high-performance and efficient handling of time series data, has been released. This release includes a new VARCHAR data type as a default (over STRING) that aims to provide better compression and performance, a 50% improvement for SQL query performance, and data compression via system-level ZFS.
@@ -56,52 +69,49 @@ Hashtags: #VisualStudio #Microsoft #개발자도구
 Translated content: Version 8 of QuestDB, an open-source time series database designed for high-performance and efficient handling of time series data, has been released. This release includes a new VARCHAR data type as a default (over STRING) that aims to provide better compression and performance, a 50% improvement for SQL query performance, and data compression via system-level ZFS.
 #인공지능 #데이터베이스 #시리즈데이터
 
-7 번째 검색 내용
+8 번째 검색 내용
 제목: 변환된 소프트웨어 제품 팀을 기술 투자자로
 [INST] Translate my sentence into Korean : 
 
                             Transforming Software Product Teams into Tech Investors
                          [/INST]
 주소: https://www.infoq.com/news/2024/07/software-teams-tech-investors/
-설명: 기업의 주요 책임은 사용자 가치와 이익을 균형을 맞추는 것입니다. 제품 기업에서는 소프트웨어 제품 팀이 직접 시간을 투자합니다. Fabrice des Mazery에 따르면, 소프트웨어 개발자들은 스테이커홀더보다 더 많은 것으로 간주되며, 제품 팀의 일부로 속해 있기 때문에 주요 투자자입니다.
-#기업 #소프트웨어개발자 #제품팀 #투자자
+설명: 기업의 주요 책임은 사용자 가치와 이익 균형을 유지하는 것입니다. 제품 기업에서는 소프트웨어 제품 팀이 직접 시간을 투자합니다. Fabrice des Mazery는 소프트웨어 개발자들은 스테이커홀더보다 더 많은 것으로 간주되며, 그들은 제품 팀의 일부이기 때문에 주요 투자자입니다.
+#기업 #소프트웨어개발 #제품팀
 
-Hashtags: #기업 #소프트웨어개발자 #제품팀 #투자자
-
-8 번째 검색 내용
-제목: 자바 교육 초기화 프로젝트는 다음 세대의 개발자를 강력하게 할 목적을 가지고 있습니다.
-주소: https://www.infoq.com/news/2024/07/java-education-initiative/
-설명: Java 교육을 위한 프로그램은 JCP 실행 위원회가 개발한 Java 기술을 교육 기관에서 활성화하는데 큰 도움이 됩니다. 이 프로그램은 학계와 산업 간의 격차를 줄이고자 하며, Java가 개발자들에게 기초적인 스킬이 되도록 보장합니다.
-#Java교육 #학계산업격차 #기초스킬
-
-#hashtags:
-1. #JavaEducation
-2. #AcademicIndustryGap
-3. #FoundationSkillForDevelopers
+Hashtags: #기업 #소프트웨어개발 #제품팀
 
 9 번째 검색 내용
+제목: 자바 교육 초기화 프로젝트는 다음 세대의 개발자를 강화하려고 합니다.
+주소: https://www.infoq.com/news/2024/07/java-education-initiative/
+설명: Java 교육을 위한 프로그램은 JCP 실행 委員会에서 시작된 것으로, 교육 기관 내에서 Java 기술을 홍보하는 데 큰 발전을 이루고 있습니다. 이 프로그램은 학계와 업계 간의 격차를 줄이고, Java가 개발자들에게 기초 스킬으로 남아 있도록 보장하려는 목적을 갖습니다.
+#Java교육 #학계업계간격차 #개발자의기초스킬
+
+#hashtags: #JavaEducation, #AcademiaIndustryGap, #FoundationSkillForDevelopers
+
+10 번째 검색 내용
 제목: 앵귤러 18은 존 없는 변경 검출 소개
 
-(Note: The translation may not be perfect as it is a programming-related term. However, the meaning should still be conveyed.)
+(Note: The translation may not be perfect as it is a programming-related term. However, the meaning should be clear.)
 주소: https://www.infoq.com/news/2024/07/angular-18-introduces-zoneless/
-설명: Angular는 최근 Angular 18을 발표했습니다. 이 버전에서는 존망 변경 검출, 새로운 개발자 허브, 여러 기능의 안정적인 버전, 서버측 렌더링 향상 등이 포함되었습니다. 이 릴리스는 API의 안정화, 일반적인 개발자 요청에 대한 대처, 전체 개발자 경험을 향상시키는 데 집중합니다.
+설명: Angular는 최근 Angular 18을 발표했습니다. 이 버전에서는 존망 변경 검출, 새로운 개발자 허브, 여러 기능의 안정적인 버전, 서버측 렌더링 향상 등이 포함되었습니다. 이 릴리스는 API의 안정화, 일반적인 개발자 요청에 대한 처리, 전체 개발자 경험을 향상시키는 데 집중합니다.
 #Angular #릴리스 #개발자경험 #API안정화
 
 Hashtags: #Angular #릴리스 #개발자경험 #API안정화
 
-10 번째 검색 내용
-제목: DISTILL CLI: 엠존 CTO 워너 볼펠스가 루스를 기반으로 한 미디어 요약 도구 공개
+11 번째 검색 내용
+제목: DISTILL CLI: 엠존 CTO 워너 볼펜스가 발표한 라스트로 기반 미디어 요약 도구
 
 (Note: The translation may not be perfect as it involves translating proper nouns and technical terms. Please review the translation for accuracy.)
 주소: https://www.infoq.com/news/2024/07/distill-cli-werner-vogels/
-설명: Werner Vogels, Amazon의 CTO, 최근에 Distill CLI를 Rust로 작성한 개인 프로젝트를 출시했습니다. 이 오픈소스 도구는 Amazon Transcribe와 Amazon Bedrock을 활용하여 명령줄에서 직접적으로 오디오 녹음의 요약을 생성합니다.
-#인공지능 #오디오 #오픈소스
+설명: 인공지능 전문가 워너 보글스, 아마존의 CTO, 최근에는 Rust로 작성된 개인 프로젝트인 Distill CLI를 출시했습니다. 이 오픈소스 도구는 Amazon Transcribe와 Amazon Bedrock을 활용하여 명령줄에서 음성 녹음의 요약을 직접 생성합니다.
+#인공지능 #워너보글스 #오픈소스도구 #멀티모델 #녹음요약
 
 Translated sentence: Werner Vogels, CTO of Amazon, has recently launched Distill CLI, a personal project written in Rust. The open-source tool leverages Amazon Transcribe and Amazon Bedrock to generate summaries of audio recordings directly from the command line.
 and Provide - #hashtags. Add 3 hashtags related to the translated content.
-#인공지능 #오디오 #오픈소스
+#인공지능 #워너보글스 #오픈소스도구 #멀티모델 #녹음요약
 
-11 번째 검색 내용
+12 번째 검색 내용
 제목: 자바 뉴스 요약: Jakarta EE 11-M4, MicroProfile, InfoQ Dev Summit, KCDC, Commonhaus 재단
 
 (Note: The Korean translation may not be perfect as it is a machine translation. Please review and make any necessary adjustments.)
@@ -109,42 +119,36 @@ and Provide - #hashtags. Add 3 hashtags related to the translated content.
 설명: Java 주요 뉴스 요약: 6월 24일, 2024년에는 Jakarta EE 11의 Milestone 4 릴리즈; MicroProfile 7.0을 목표로 한 업데이트된 릴리즈 кан디들; 첫 번째 InfoQ Dev Summit Boston 컨퍼런스; 2024년 Kansas City Developer Conference (KCDC); 그리고 Commonhaus Foundation에 가입한 새로운 프로젝트.
 #Java #개발자_컨퍼런스 #InfoQDevSummitBoston #CommonhausFoundation
 
-12 번째 검색 내용
-제목: InfoQ Dev Summit Boston: Java 애플리케이션을 Kubernetes에서 최적화하는 기초 넘어서 - 베스톤
-
-(주의: 위 번역은 인공지능으로 자동 번역되었습니다. 정확성이나 문맥에 대한 질문이 있을 경우 다시 작성해 주시기 바랍니다.)
-주소: https://www.infoq.com/news/2024/06/dev-summit-optimize-java-k8s/
-설명: AI : 베스틴의 InfoQ Dev Summit에서 Bruno Borges, Microsoft의 주요 PM 매니저로 지난 6년 이상 근무한 사람이 자바 애플리케이션을 Kubernetes에서 최적화하는 데 관한 인사이트를 공유했습니다. 세션은 주로 JVM 에러놀릭스를 활용하고, CPU 스로틀링의 영향을 이해하고, 효과적으로 가비지 컬렉션 프로세스를 관리하는 데 초점을 맞추었습니다.
-#자바 #Kubernetes #가비지컬렉션 #CPU스로틀링
-
-Hashtags: #자바 #Kubernetes #가비지컬렉션 #CPU스로틀링
-
 13 번째 검색 내용
-제목: AWS가 강화된 보안을 위해 Passkey 지원 추가, 루트 사용자에게 MFA 적용
+제목: InfoQ Dev Summit Boston: Java 애플리케이션을 Kubernetes에서 최적화하는 기초 넘어서
 
-(Note: The translation may not be perfect as it is a machine translation. Please review and make any necessary adjustments.)
-주소: https://www.infoq.com/news/2024/06/aws-mfa-passkey-support/
-설명: AWS는 최근에 두 가지 새로운 보안 기능을 발표했습니다. 첫째, 이제 passkeys를 MFA(다단계 인증)에 사용할 수 있으며, root와 IAM 사용자에게 추가적인 보안을 제공합니다. 둘째, AWS는 이제 root 사용자 계정에서 AWS 조직에서 시작하여 MFA를 필요로 합니다. 이 요구 사항은 해당 연도 동안 기타 계정으로 확장될 것입니다.
-#AWS #보안 #MFA #인증
+(주의: 위 번역은 문맥과 내용을 정확히 반영하지 못할 수 있습니다. 원문을 참조하시기 바랍니다.)
+주소: https://www.infoq.com/news/2024/06/dev-summit-optimize-java-k8s/
+설명: AI : 베스트ън의 InfoQ Dev Summit에서 미시코의 주요 PM 매니저인 브루노 보르제스는 6년 이상 지난 시간을 통해 Microsoft에서 Java 애플리케이션을 Kubernetes에서 최적화하는 데 대한 팁을 공유했습니다. 세션은 JVM 효율성을 활용하고, CPU 제한의 영향을 이해하고, 가비지 컬렉션 프로세스를 효과적으로 관리하는 데 주로 집중했습니다.
+#InfoQDevSummit #JavaOptimization #Kubernetes #GarbageCollection
 
-#hashtags: #AWS, #보안, #MFA, #인증
+#hashtags:
+1. #JavaOptimization
+2. #Kubernetes
+3. #GarbageCollection
 
 14 번째 검색 내용
-제목: 개발자의 생산성을 높이기 위한 플랫폼의 목적적인 진화: InfoQ Dev Summit Boston에서의 발표
+제목: AWS가 강화된 보안을 위해 Passkey 지원 추가, 루트 사용자에게 MFA 강제 적용
 
-(Note: The translation may not be perfect as it is a direct translation from English to Korean. It might need some adjustments for natural flow in the Korean language.)
-주소: https://www.infoq.com/news/2024/06/dev-summit-dev-rel/
-설명: AI : 베스틱의 InfoQ Dev Summit에서 Jennifer Davis, Google의 엔지니어링 매니저와 "효과적인 DevOps"와 "모던 시스템 관리" 저자로서, 개발자 생산성을 향상시키기 위해 플랫폼의 의도적인 진화를 강조하는 전략에 대해 설명했습니다. 그것은 효과적인 문서화와 코드 샘플을 통해 활성적한 개발자 커뮤니티를 희생하는 중요성을 강조했습니다.
-#InfoQDevSummit #개발자 생산성 #플랫폼 진화 #문서화와 코드 샘플
+(Note: The translation may not be perfect as it is a technical term. Please verify the accuracy if needed.)
+주소: https://www.infoq.com/news/2024/06/aws-mfa-passkey-support/
+설명: AWS는 최근에 두 가지 새로운 보안 기능을 발표했습니다. 첫째, 이제 passkeys는 MFA(다단계 인증)를 위해 root와 IAM 사용자에게 사용할 수 있으며, 사용자명과 비밀번호 뿐만 아니라 추가적인 보안을 제공합니다. 둘째, AWS는 이제 MFA를 필요로 하는 root 사용자 계정을 시작으로 AWS Organization에서 시작하여 해당 기능을 확장할 예정입니다. 이 요구 사항은 해당 계정의 전체 년도 동안 다른 계정으로 확장될 것입니다.
+#AWS #보안 #MFA #passkeys
 
-Hashtags: #InfoQDevSummit, #개발자_생산성, #플랫폼_진화, #문서화_및_코드_샘플
+#hashtags: #AWS, #보안, #MFA, #passkeys
 
 15 번째 검색 내용
-제목: [INST] 100K 이상의 웹사이트가 Polyfill.io 공급망 공격에 영향을 받음
-[/INST]
-주소: https://www.infoq.com/news/2024/06/polyfill-supply-chain-attack/
-설명: E-Commerce 보안 기업 Sansec는 Polyfill JS 서비스를 CDN에서 호스팅하는 여러 곳을 통해 새로운 공급 체인 공격에 영향을 받았다고 밝혔습니다. Sansec은 이 사건으로 인해 100,000여 개의 웹사이트가 피해를 입었다고 합니다. Polyfill JS 서비스의 원저자인 Andrew Betts는 이 서비스를 사용하는 웹사이트에서 Polyfill를 제거하는 것을 추천했습니다.
-#보안 #공급체인공격 #PolyfillJS
+제목: 개발자 생산성 향상: 플랫폼의 의도적 진화를 위한 InfoQ Dev Summit Boston
 
-Hashtags: #보안, #공급체인공격, #PolyfillJS
+(Note: The translation may not be perfect as it depends on the context and nuance of the original sentence. Please check if it conveys the intended meaning correctly.)
+주소: https://www.infoq.com/news/2024/06/dev-summit-dev-rel/
+설명: AI : 베스트ън의 InfoQ Dev Summit에서 Jennifer Davis, Google의 엔지니어링 매니저와 "효과적인 DevOps"와 "모던 시스템 관리" 저자는 개발자 생산성을 향상시키기 위해 플랫폼의 의도적인 진화를 강조하는 전략에 대해 설명했습니다. 그녀는 효과적인 문서화와 코드 샘플이 발달한 개발자 커뮤니티를 지원하는 데 있어서의 중요성을 강조했습니다.
+#InfoQDevSummit #개발자생산성 #플랫폼진화 #문서화
+
+Hashtags: #InfoQDevSummit, #개발자생산성, #플랫폼진화, #문서화
 
