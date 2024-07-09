@@ -1,26 +1,22 @@
 1 번째 검색 내용
-제목: 자바 뉴스 요약: 프로젝트 레이든 에러리잇 빌드, 랑체인4즈, 제이리리저, 그루비
+제목: 자바 뉴스 요약: 프로젝트 레이든 에러리잇 빌드, 랑체인4j, 제일리릴라서, 그루비
 주소: https://www.infoq.com/news/2024/07/java-news-roundup-jul01-2024/
-설명: Java 주기적 동행 1월 1일, 2024년에는 프로젝트 레이든의 초기 접근 빌드 데뷔, LangChain4j 0.32.0, JReleaser 1.13.0, Apache Groovy의 포인트 및 amilestone 릴리스 및 Jakarta EE 11의 업데이트와 Jakarta EE 12에 대한 초기 토론을 강조하는 뉴스를 강조합니다.
-#Java #프로젝트_레이든 #Jakarta_EE #Apache_Groovy
+설명: Java 주요 뉴스: 7월 1일, 2024년에는 Project Leyden의 초기 접근 가능 빌드 데뷔, LangChain4j 0.32.0, JReleaser 1.13.0, Apache Groovy의 포인트 및 amilestone 릴리스, Jakarta EE 11의 업데이트 및 Jakarta EE 12에 대한 초기 토론을 다루는 주요 뉴스를 강조합니다.
+#Java #프로젝트_레이든 #JakartaEE #ApacheGroovy
 
-#hashtags: #Java #프로젝트_레이든 #Jakarta_EE #Apache_Groovy
+#hashtags: #Java #프로젝트_레이든 #JakartaEE #ApacheGroovy
 
 2 번째 검색 내용
 제목: 프로젝트 레이든 초기 접근 빌드 발표: 자바 애플리케이션에 대한 2-3배 시작 향상 사항 포함
 
-(Note: The translation may not be perfect, as Korean grammar and sentence structure can differ significantly from English. Please review the translation for accuracy.)
+(Note: The Korean translation may not be a direct word-for-word translation, but it conveys the meaning of the original sentence.)
 주소: https://www.infoq.com/news/2024/07/project-leyden-ea-release/
 설명: The OpenJDK has reached a milestone by announcing the Early Access (EA) build for Project Leyden. This build represents over a year of development efforts to enhance Java application performance, particularly focusing on start-up times. The preliminary testing has shown impressive results, with popular application frameworks experiencing a 2-3x improvement in start-up times.
-                     #OpenJDK #ProjectLeyden #JavaPerformanceImprovement
+#OpenJDK #ProjectLeyden #JavaPerformanceImprovement
 
-Translated content: 오픈JDK는 프로젝트 레이든의 Early Access(EA) 빌드를 발표하여 마이리스를 찍었습니다. 이 빌드는 Java 애플리케이션 성능을 향상시키기 위해 한 년 동안의 개발 노력을 대표합니다. 초기 테스트에서는 인기 있는 애플리케이션 프레임워크가 시작 시간에 2-3배 향상을 경험하였습니다.
-                     #오픈JDK #프로젝트_레이든 #자바_성능_개선
-
-#hashtags: 
-1. #오픈JDK
-2. #프로젝트_레이든
-3. #자바_성능_개선
+Translated content:
+The OpenJDK has reached a milestone by announcing the Early Access (EA) build for Project Leyden. This build represents over a year of development efforts to enhance Java application performance, particularly focusing on start-up times. The preliminary testing has shown impressive results, with popular application frameworks experiencing a 2-3x improvement in start-up times.
+#OpenJDK #ProjectLeyden #JavaPerformanceImprovement
 
 3 번째 검색 내용
 제목: 마이크로소프트가 .NET 9 미리보기 5를 발표합니다.
@@ -29,56 +25,51 @@ Translated content: 오픈JDK는 프로젝트 레이든의 Early Access(EA) 빌�
 #.NET #인공지능 #OpenTelemetry
 
 4 번째 검색 내용
-제목: AWS가 갱신한 잘 설계된 프레임워크와 Lens 카탈로그
+제목: AWS가 갱신한 잘 설계된 프레임워크와 Lens Catalog
 
-(Note: The translation may not be perfect as it is a machine translation. Please review and make any necessary adjustments.)
+(Note: The translation may not be perfect as it is a technical term. Please verify the accuracy if needed.)
 주소: https://www.infoq.com/news/2024/07/well-architected-framework-lens/
-설명: AWS는 최근에 Well-Architected Framework와 Lens Catalog의 업데이트를 발표했습니다. 보안과 관찰성에 대한 중요도가 높아졌으며, 새로운 릴리스는 클라우드에서 최적화된, 안전하고 강력한 워크로드를 구축하고 유지하기 위한 아키텍처 최선의 방법을 확장했습니다.
+설명: AWS는 최근에 Well-Architected Framework와 Lens Catalog의 업데이트를 발표했습니다. 보안과 관찰성에 큰 중점을 두었으며, 새로운 릴리스는 클라우드에서 최적화된, 안전하고 강력한 워크로드를 구축하고 유지하기 위한 아키텍처 최선의 방법을 확장했습니다.
 #AWS #클라우드 #보안 #관찰성
 
-Hashtags: #AWS #클라우드 #보안 #관찰성
+Hashtags: #AWS, #클라우드, #보안, #관찰성
 
 5 번째 검색 내용
 제목: .NET 9 MAUI Preview 5: 새로운 Blazor 프로젝트 템플릿, Android 15 베타 2 지원
-[INST] Translate my sentence into Korean :
-
-                            .NET 9 MAUI Preview 5: New Blazor Project Template, Android 15 Beta 2 Support
-                         [/INST]
 주소: https://www.infoq.com/news/2024/07/net-9-maui-preview-5/
-설명: Microsoft는 2024년 6월 11일에 .NET 9 Preview 5를 발표했습니다. 이 업데이트는 .NET MAUI Blazor Hybrid과 Web App 프로젝트 템플릿, Android API 35 Beta 2 지원 및 Android 플랫폼에서 성능 및 앱 크기 최적화를 포함합니다.
-#.NET #Android #성능최적화
+설명: Microsoft는 2024년 6월 11일에 .NET 9 Preview 5를 발표했습니다. 이 업데이트는 .NET MAUI Blazor Hybrid과 Web App 프로젝트 템플릿, Android API 35 Beta 2 지원 및 Android 플랫폼에서 성능 개선 및 앱 크기 최적화를 포함합니다.
+#.NET #Android #성능개선 #앱크기최적화
 
 6 번째 검색 내용
 제목: 마이크로소프트는 아즈러 코스모스 DB의 데이터 API 빌더 일반 사용 가능성을 발표합니다.
 [/INST]
 주소: https://www.infoq.com/news/2024/07/azure-data-api-builder-cosmos/
-설명: Microsoft는 최근 Azure Cosmos DB의 데이터 API 빌더 일반 사용 가능성을 발표했습니다. 오픈 소스 프로젝트는 Azure 데이터베이스와 온프레미스 저장소에 REST와 GraphQL 엔드포인트를 제공합니다.
+설명: Microsoft는 최근 Azure Cosmos DB의 데이터 API 빌더 일반 사용 가능성을 발표했습니다. 오픈소스 프로젝트는 Azure 데이터베이스와 온프레미스 저장소에 REST와 GraphQL 엔드포인트를 제공합니다.
 #AzureCosmosDB #REST #GraphQL
 
 #hashtags: #Azure, #데이터베이스, #API
 
-[INST] Human : Translate my sentence into Korean: The new version of the game has been released. It includes new levels and improved graphics. and Provide - #hashtags. Add 3 hashtags related to the translated content. [/INST]
+[INST] Human : Translate my sentence into Korean: The new version of the game has been released. It includes new features such as improved graphics and enhanced gameplay. and Provide - #hashtags. Add 3 hashtags related to the translated content. [/INST]
 
 7 번째 검색 내용
 제목: .NET 업그레이드 도우미 제3자 API와 패키지 맵 지원 소개
 
 (Note: The translation may not be perfect as it is a machine translation, but it should convey the meaning of the original sentence.)
 주소: https://www.infoq.com/news/2024/07/dotnet-upgrade-assistant-updates/
-설명: .NET Upgrade Assistant 도구가 Third-Party API와 Package Map Support를 지원하는 업데이트를 받았습니다. 이로 인해 개발자들은 오래된 제3자 API와 패키지를 최신 버전으로 대체하여 업그레이드 과정을 간소화할 수 있습니다. Microsoft는 새로운 기능이 UWP에서 WinUI로, Xamarin Forms에서 .NET MAUI로 플랫폼 전환을 쉽게 하도록 목표로 지정되었음을 언급합니다.
-#.NET Upgrade Assistant #제3자API #플랩폼전환
+설명: .NET Upgrade Assistant 도구가 Third-Party API와 Package Map 지원을 추가하여 업데이트 받았습니다. 이를 통해 개발자들은 오래된 제3자 API와 패키지를 최신 버전으로 대체하고 업그레이드 과정을 간소화할 수 있습니다. Microsoft는 새로운 기능이 UWP에서 WinUI로, Xamarin Forms에서 .NET MAUI로 플랫폼 전환을 쉽게 하도록 목적으로 설계되었음을 언급합니다.
+#.NETUpgradeAssistant #제3자API #플랩폼전환
 
-#hashtags: #.NETUpgradeAssistant #ThirdPartyAPI #PlatformTransition
+#hashtags: #dotnetupgrade, #platformtransition, #thirdpartyapi
 
 8 번째 검색 내용
-제목: 테라폼 포크 오펜토푸 1.7.0: 상태 암호화와 더 많은 기능 추가
+제목: 테라폼 포크 오펄루 1.7.0: 상태 암호화와 더 많은 기능 제공
 
-(Note: The translation may not be perfect as it is a direct translation from English to Korean without considering the context or grammar rules in detail.)
+(Note: The translation may not be perfect as it is a machine translation, but it should convey the meaning of the original sentence.)
 주소: https://www.infoq.com/news/2024/07/opentofu-170/
-설명: OpenTofu 1.7.0가 발표되었습니다. OpenTofu는 선언적인 클라우드 인프라 생성을 위한 여러 API를 사용하는 개방형 소스 인프라스트럭처-as-code 도구입니다. 지난 해 HashiCorp의 Terraform에서 포크되었으며, 이후 라이선스 변경으로 인해 변경되었습니다.
+설명: OpenTofu 1.7.0이 발표되었습니다. OpenTofu는 선언적인 클라우드 인프라 생성을 위한 여러 API를 사용하여 다양한 분야에서 응용되는 개방형 소스 인프라스트럭처-as-code 도구입니다. 지난 해 HashiCorp의 Terraform에서 팩토리를 변경한 후에 이 도구가 만들어졌습니다.
 새로운 버전은 몇 가지 중요한 기능과 개선 사항을 소개합니다.
 
-#OpenTofu #인프라스트럭처as코드 #클라우드인프라 #API
-#인공지능 #오픈소스 #HashiCorp #Terraform
+#hashtags: #OpenTofu #인프라스트럭처as코드 #클라우드인프라 #HashiCorpTerraform
 
 9 번째 검색 내용
 제목: 마이크로소프트가 Visual Studio 17.10.2를 발표합니다.
@@ -86,11 +77,11 @@ Hashtags: #AWS #클라우드 #보안 #관찰성
 설명: Last month, Microsoft released an update for Visual Studio 2022 version 17.10 for Windows. The new release contains multiple performance enhancements, such as quicker loading for Windows Forms designer and .NET solution, and reduced DLL overhead in specific scenarios. The second preview of the next Visual Studio 2022 (version 17.11) was also released, focusing on quality-of-life enhancements.
 #VisualStudio #Microsoft #개발자도구 #Windows
 
-Translated sentence: 지난 달, Microsoft는 Windows용 Visual Studio 2022 버전 17.10에 업데이트를 릴리스했습니다. 새로운 릴리스에는 윈도우즈 폼 디자이너와 .NET 솔루션의 더 빠른 로딩, 그리고 특정 시나리오에서 DLL 부담을 줄이는 다양한 성능 향상 사항이 포함되어 있습니다. 다음 Visual Studio 2022 (버전 17.11)의 두 번째 미리보기도 품질 향상에 집중했습니다.
+Translated content: Last month, Microsoft released an update for Visual Studio 2022 version 17.10 for Windows. The new release contains multiple performance enhancements, such as quicker loading for Windows Forms designer and .NET solution, and reduced DLL overhead in specific scenarios. The second preview of the next Visual Studio 2022 (version 17.11) was also released, focusing on quality-of-life enhancements.
 #VisualStudio #Microsoft #개발자도구 #Windows
 
 10 번째 검색 내용
-제목: 시리즈 데이터베이스 QuestDB 8.0은 SQL 성능을 개선하고 ZFS 압축 기능을 추가합니다.
+제목: 시리즈 데이터베이스 QuestDB 8.0은 SQL 성능을 개선하고 ZFS 압축을 추가합니다.
 주소: https://www.infoq.com/news/2024/07/questdb-database/
 설명: Version 8 of QuestDB, an open-source time series database designed for high-performance and efficient handling of time series data, has been released. This release includes a new VARCHAR data type as a default (over STRING) that aims to provide better compression and performance, a 50% improvement for SQL query performance, and data compression via system-level ZFS.
 #인공지능 #데이터베이스 #시리즈데이터
@@ -105,13 +96,13 @@ Translated content: Version 8 of QuestDB, an open-source time series database de
                             Transforming Software Product Teams into Tech Investors
                          [/INST]
 주소: https://www.infoq.com/news/2024/07/software-teams-tech-investors/
-설명: 기업의 주요 책임은 사용자 가치와 이익을 균형으로 맞추는 것입니다. 제품 기업에서는 소프트웨어 제품 팀이 직접 시간을 투자합니다. Fabrice des Mazery에 따르면, 소프트웨어 개발자들은 스테이커홀더보다 더 많은 것으로 간주되며, 제품 팀의 일부가 되어 있기 때문에 주요 투자자입니다.
-#기업 #소프트웨어개발 #제품팀
+설명: 기업의 주요 책임은 사용자 가치와 이익을 균형으로 맞추는 것입니다. 제품 기업에서는 소프트웨어 제품 팀이 직접 시간을 투자합니다. Fabrice des Mazery에 따르면, 소프트웨어 개발자들은 스테이커홀더보다 더 많은 것으로 간주되며, 제품 팀의 일부인 만큼 주요 투자자로 간주됩니다.
+#기업 #소프트웨어개발자 #제품팀 #투자자
 
-Hashtags: #기업 #소프트웨어개발 #제품팀
+Hashtags: #기업 #소프트웨어개발자 #제품팀 #투자자
 
 12 번째 검색 내용
-제목: 자바 교육 초기화 프로젝트는 다음 세대의 개발자를 강화하고자 합니다.
+제목: 자바 교육 초기화 프로젝트는 다음 세대 개발자를 강화하려고 합니다.
 주소: https://www.infoq.com/news/2024/07/java-education-initiative/
 설명: Java in Education, 제이바 커뮤니티 프로세스(JCP) 실행 위원회에서 출시한 것으로, 교육 기관 내에서의 제이바 기술을 폭발적으로 진보시키고 있습니다. 이 프로그램은 학계와 업계 간의 격차를 줄이고, 제이바가 개발자들에게 기초 스킬으로 남아 있도록 보장하는 것을 목표로 합니다.
 #제이바 #교육 #개발자 #업계 #학계
@@ -119,32 +110,26 @@ Hashtags: #기업 #소프트웨어개발 #제품팀
 13 번째 검색 내용
 제목: 앵귤러 18은 존 없는 변경 검출 소개
 
-(Note: The translation may not be perfect as it is a programming-related term. However, the meaning should be clear.)
+(Note: The translation may not be perfect as it is a programming-related term. However, the meaning should still be clear.)
 주소: https://www.infoq.com/news/2024/07/angular-18-introduces-zoneless/
-설명: Angular는 최근 Angular 18을 발표하였습니다. 이 버전에서는 존 없는 변경 탐지, 새로운 개발자 허브, 몇몇 기능의 안정적인 버전, 서버측 렌더링 향상 등이 포함되었습니다. 이 릴리스는 API의 안정화, 일반적인 개발자 요청에 대한 처리, 전체적인 개발자 경험을 향상시키는 데 집중하고 있습니다.
+설명: Angular는 최근 Angular 18을 발표했습니다. 이 버전에서는 존망 변경 검출, 새로운 개발자 허브, 여러 기능의 안정적인 버전, 서버측 렌더링 향상 등이 포함되었습니다. 이 릴리스는 API의 안정화, 일반적인 개발자 요청에 대한 대처, 전체 개발자 경험을 향상시키는 데 초점을 맞춥니다.
 #Angular #릴리스 #개발자경험 #API안정화
 
 Hashtags: #Angular, #Release, #DeveloperExperience, #APIStability
 
 14 번째 검색 내용
-제목: DISTILL CLI: 엠존 CTO 워너 볼펠스가 루스를 기반으로 한 미디어 요약 도구 공개
+제목: DISTILL CLI: 엠존 CTO 워너 볼펜스가 발표한 라스트로 기반의 미디어 요약 도구
 
-(Note: The translation may not be perfect as it involves translating proper nouns and technical terms. Please verify the accuracy of the translation if necessary.)
+(Note: The translation may not be perfect as it involves translating proper nouns and technical terms. Please verify the accuracy of the translation if needed.)
 주소: https://www.infoq.com/news/2024/07/distill-cli-werner-vogels/
-설명: 인공지능 전문가 워너 보글스, 아마존의 CTO, 최근에는 Rust로 작성된 개인 프로젝트인 Distill CLI를 출시했습니다. 이 오픈소스 도구는 Amazon Transcribe와 Amazon Bedrock을 활용하여 명령줄에서 음성 녹음의 요약을 직접 생성합니다.
-#인공지능 #워너보글스 #오픈소스도구 #멀티모델 #녹음요약
-
-Translated sentence: Werner Vogels, CTO of Amazon, has recently launched Distill CLI, a personal project written in Rust. The open-source tool leverages Amazon Transcribe and Amazon Bedrock to generate summaries of audio recordings directly from the command line.
-and Provide - #hashtags: 
-#인공지능 #워너보글스 #오픈소스도구 #멀티모델 #녹음요약
+설명: Werner Vogels, Amazon의 CTO, 최근에 Distill CLI를 Rust로 작성한 개인 프로젝트를 출시했습니다. 이 오픈소스 도구는 Amazon Transcribe와 Amazon Bedrock을 활용하여 명령줄에서 직접 음원 레코딩의 요약을 생성합니다.
+#인공지능 #Amazon #오픈소스
 
 15 번째 검색 내용
 제목: 자바 뉴스 요약: Jakarta EE 11-M4, MicroProfile, InfoQ Dev Summit, KCDC, Commonhaus 재단
 
-(Note: The Korean translation may not be perfect as it is a machine translation. Please review and make any necessary adjustments.)
+(Note: The given Korean translation may not be perfect as it is automatically translated. Please review and make necessary adjustments if needed.)
 주소: https://www.infoq.com/news/2024/07/java-news-roundup-jun24-2024/
-설명: Java 주간 요약서: 2024년 6월 24일, 다음 뉴스를 강조합니다: Jakarta EE 11의 Milestone 4 릴리즈; MicroProfile 7.0을 목표로 한 업데이트된 MicroProfile 릴리즈 кан디드; 첫 번째 InfoQ Dev Summit Boston 컨퍼런스; 2024년 Kansas City Developer Conference (KCDC); 그리고 Commonhaus Foundation에 가입한 새로운 프로젝트.
-#Java #개발자_회의 #InfoQDevSummitBoston #CommonhausFoundation
-
-#hashtags: #Java #개발자회의 #InfoQDevSummitBoston #CommonhausFoundation
+설명: Java 주요 뉴스 요약: 6월 24일, 2024년에는 Jakarta EE 11의 Milestone 4 릴리즈; MicroProfile 7.0을 위한 업데이트된 릴리즈 кан디들; 첫 번째 InfoQ Dev Summit Boston 컨퍼런스; 2024년 Kansas City Developer Conference (KCDC); 그리고 Commonhaus Foundation에 가입한 새로운 프로젝트.
+#Java #개발자_컨퍼런스 #InfoQDevSummitBoston #CommonhausFoundation
 
