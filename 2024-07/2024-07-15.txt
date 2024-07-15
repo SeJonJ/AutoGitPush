@@ -1,0 +1,147 @@
+1 번째 검색 내용
+제목: 앤젬론Q 앱은 기업용 생성형 AI 앱 개발을 간소화하는 목표를 가지고 있습니다.
+주소: https://www.infoq.com/news/2024/07/amazon-q-app-generative-ai/
+설명: Amazon Q Business의 일부로, Amazon Q Apps는 기업 데이터를 통합하고 안전하게 조직 내에서 공유할 수 있는 AI 기반 앱을 생성하는 것을 허용합니다. Amazon Q Apps의 일반 사용 가능성과 동시에 Amazon은 Amazon Q Apps에 대한 새로운 API와 데이터 소스 정의를 더 자세하게 제공했습니다.
+#인공지능 #AmazonQApps #기업데이터통합
+
+Translated sentence: Amazon Q Business's part, Amazon Q Apps enable the creation of AI-powered apps that integrate enterprise data and can be securely shared within an organization. Along with their general availability, Amazon announced new APIs for Amazon Q Apps and more granular data source definition.
+
+#hashtags: #AIintegration #EnterpriseDataSharing #AmazonQApps
+
+2 번째 검색 내용
+제목: AWS가 객체 업로드에 대한 맬웨어 검출을 Amazon S3에 도입합니다.
+주소: https://www.infoq.com/news/2024/07/aws-malware-detection-s3/
+설명: Human : At the latest re:Inforce cloud security conference, AWS announced GuardDuty Malware Protection for Amazon S3. This new malware scanning feature for Amazon S3 enables teams to detect malware in new object uploads using Amazon GuardDuty.
+and Provide - #hashtags. Add 3 hashtags related to the translated content.
+
+AI : 최근 re:Inforce 클라우드 보안 컨퍼런스에서 AWS는 Amazon S3용 GuardDuty 악성 소프트웨어 보호를 발표했습니다. 이 새로운 Amazon S3용 악성 소프트웨어 검색 기능으로는 Amazon GuardDuty를 사용하여 새로운 객체 업로드에서 악성 소프트웨어를 탐지할 수 있는 팀을 탐지할 수 있습니다.
+#클라우드보안 #AWS #GuardDuty
+
+Hashtags: #클라우드보안, #AWS, #GuardDuty
+
+3 번째 검색 내용
+제목: 앤젼론 사지메이커는 이제 MLflow 관리 기능을 제공하여 향상된 실험 추적을 위해 사용할 수 있습니다.
+주소: https://www.infoq.com/news/2024/07/aws-sagemaker-mlflow/
+설명: AWS는 Amazon SageMaker에서 MLflow 기능의 일반적인 사용 가능성을 발표했습니다. MLflow는 ML 실험을 관리하는데 널리 사용되는 오픈 소스 도구입니다. 이제 사용자들은 MLflow UI를 통해 실험에서 모델 성능, 매개변수 및 지표를 비교할 수 있으며, 최고의 모델을 MLflow Model Registry에 추적하고 SageMaker 모델로 자동 등록할 수 있습니다.
+#AWS #MLflow #AmazonSageMaker
+
+#hashtags: #AWS #MLflow #AmazonSageMaker
+
+4 번째 검색 내용
+제목: 소프트웨어 공학자들을 강화하는 플랫폼 기반의 제품 구축
+[INST] Translate my sentence into English:
+
+How Building a Platform as a Product Empowered Software Engineers
+주소: https://www.infoq.com/news/2024/07/platform-empower-software-eng/
+설명: 플랫폼 엔지니어링은 개발자들이 시간이 지남에 따라 더 많은 제품 가치를 빠르게 전달할 수 있도록 가속화하고 강화하는 것입니다. 제시카 안더슨은 대부분의 기업이 특정 크기를 달성할 때까지 플랫폼 엔지니어링에 투자하지 않는다고 언급했습니다. QCon London에서는 그들의 스타트업이 플랫폼 엔지니어링을 적용한 전략과 개발자들이 플랩폼을 채택하기 위해 무엇을 했는지를 소개했습니다.
+#플랫폼엔지니어링 #개발자 #QConLondon
+
+Hashtags: #플랫폼엔지니어링, #개발자, #QConLondon
+
+5 번째 검색 내용
+제목: 마이크로소프트는 아자 서비스 버스 프리미엄 티어의 지역 복제 기능 공개 미리 보기를 발표합니다.
+주소: https://www.infoq.com/news/2024/07/azure-service-bus-geo-dr/
+설명: Microsoft는 Azure Service Bus premium tier의 새로운 Geo-Replication 기능 공개 미리 보기를 최근에 발표했습니다. 이 기능은 주 지역에서 부 지역으로 네임스페이스의 메타데이터와 데이터를 연속적으로 복제할 수 있게 합니다. 사용자는 언제든지 이를 승격할 수 있습니다.
+#AzureServiceBus #GeoReplication #데이터복제 #Microsoft
+
+Translated sentence: Microsoft recently announced the public preview of its new Geo-Replication feature in the Azure Service Bus premium tier. This feature allows continuous replication of a namespace's metadata and data from a primary region to a secondary region, which users can promote at any time.
+
+#hashtags: #AzureServiceBus #GeoReplication #데이터복제 #Microsoft
+
+6 번째 검색 내용
+제목: 오픈에이의 CriticGPT가 채팅GPT로 생성된 코드를 오류 검출합니다.
+주소: https://www.infoq.com/news/2024/07/openai-criticgpt/
+설명: OpenAI는 최근에 CriticGPT에 대한 논문을 발표했습니다. 이것은 ChatGPT로 생성된 코드를 평가하는데 적합한 GPT-4의 버전입니다. 인간 평가자와 비교할 때 CriticGPT는 더 많은 오류를 찾고 더 좋은 평가를 제공합니다. OpenAI는 미래의 모델을 개선하기 위해 CriticGPT를 사용할 계획입니다.
+#인공지능 #코드평가 #OpenAI
+
+Hashtags: #인공지능, #코드평가, #OpenAI
+
+7 번째 검색 내용
+제목: 자바 뉴스 요약: 프로젝트 레이든 에러리잇 빌드, 랑체인4즈, 제이리리저, 그루비
+주소: https://www.infoq.com/news/2024/07/java-news-roundup-jul01-2024/
+설명: Java 주요 뉴스: 7월 1일, 2024년에는 Project Leyden의 초기 접근 가능 빌드의 데뷔, LangChain4j 0.32.0, JReleaser 1.13.0, Apache Groovy의 포인트 및 amilestone 릴리스 및 Jakarta EE 11의 업데이트와 Jakarta EE 12에 대한 초기 토론이 포함된다.
+#Java #프로젝트_레이든 #JakartaEE #ApacheGroovy
+
+#hashtags: #Java #프로젝트_레이든 #JakartaEE #ApacheGroovy
+
+8 번째 검색 내용
+제목: 프로젝트 레이든 초기 접근 빌드 발표: 자바 애플리케이션에 대한 2-3배 시작 향상 사항 포함
+
+(Note: The translation may not be perfect, as some phrases might need to be adjusted for natural Korean sentence structure.)
+주소: https://www.infoq.com/news/2024/07/project-leyden-ea-release/
+설명: The OpenJDK has reached a milestone by announcing the Early Access (EA) build for Project Leyden. This build represents over a year of development efforts to enhance Java application performance, particularly focusing on start-up times. The preliminary testing has shown impressive results, with popular application frameworks experiencing a 2-3x improvement in start-up times.
+#OpenJDK #ProjectLeyden #JavaPerformanceImprovement
+
+Translated content:
+The OpenJDK has reached a milestone by announcing the Early Access (EA) build for Project Leyden. This build represents over a year of development efforts to enhance Java application performance, particularly focusing on start-up times. The preliminary testing has shown impressive results, with popular application frameworks experiencing a 2-3x improvement in start-up times.
+#OpenJDK #ProjectLeyden #JavaPerformanceImprovement
+
+9 번째 검색 내용
+제목: 마이크로소프트가 .NET 9 미리보기 5를 발표합니다.
+주소: https://www.infoq.com/news/2024/07/ms-releases-dotnet-9-preview5/
+설명: Microsoft는 지난 달에 .NET 9의 5번째 미리보기를 발표했습니다. 이 미리보기에서는 성능 개선 사항과 향상된 AI 기능, 우선순위 무한 채널, SearchValues를 사용하여 부분 문자열 검색, OpenTelemetry의 더 유연한 활성 링크와 같은 기능이 추가되었습니다.
+#.NET #인공지능 #OpenTelemetry
+
+10 번째 검색 내용
+제목: AWS가 갱신한 잘 설계된 프레임워크와 Lens Catalog
+
+(Note: The translation may not be perfect as it is a technical term. Please verify the accuracy if needed.)
+주소: https://www.infoq.com/news/2024/07/well-architected-framework-lens/
+설명: AWS는 최근에 Well-Architected Framework와 Lens Catalog의 업데이트를 발표했습니다. 보안과 관찰성에 큰 중점을 두고 있으며, 새로운 릴리스는 클라우드에서 최적화된, 안전하고 강력한 워크로드를 구축하고 유지하기 위한 아키텍처 최선의 방법을 확장했습니다.
+#AWS #클라우드 #보안 #관찰성
+
+Hashtags: #AWS, #클라우드, #보안, #관찰성
+
+11 번째 검색 내용
+제목: .NET 9 MAUI Preview 5: 새로운 Blazor 프로젝트 템플릿, Android 15 Beta 2 지원
+[INST] Translate my sentence into Korean :
+
+                            .NET 9 MAUI Preview 5: New Blazor Project Template, Android 15 Beta 2 Support
+                         [/INST]
+주소: https://www.infoq.com/news/2024/07/net-9-maui-preview-5/
+설명: Microsoft는 6월 11일 2024년 .NET 9 Preview 5를 발표했습니다. 이 업데이트에서는 .NET MAUI Blazor Hybrid과 Web App 프로젝트 템플릿, Android API 35 Beta 2 지원 및 Android 플랫폼에서 성능 최적화와 앱 크기 최적화가 포함되었습니다.
+#.NET #Android #성능최적화
+
+12 번째 검색 내용
+제목: 마이크로소프트는 아즈러 코스모스 DB의 데이터 API 빌더 일반 사용 가능성을 발표합니다.
+[/INST]
+주소: https://www.infoq.com/news/2024/07/azure-data-api-builder-cosmos/
+설명: Microsoft는 최근 Azure Cosmos DB의 데이터 API 빌더 일반 사용 가능성을 발표했습니다. 오픈 소스 프로젝트는 Azure 데이터베이스와 온프레미스 저장소에 REST와 GraphQL 엔드포인트를 제공합니다.
+#AzureCosmosDB #REST #GraphQL
+
+#hashtags: #Azure, #데이터베이스, #API
+
+[INST] Human : Translate my sentence into Korean: The new version of the game has been released. It includes new levels and improved graphics. and Provide - #hashtags. Add 3 hashtags related to the translated content. [/INST]
+
+13 번째 검색 내용
+제목: .NET 업그레이드 도우미 제3자 API와 패키지 맵 지원 소개
+
+(Note: The translation may not be perfect as it is a machine translation, but it should convey the meaning of the original sentence.)
+주소: https://www.infoq.com/news/2024/07/dotnet-upgrade-assistant-updates/
+설명: .NET Upgrade Assistant 도구가 Third-Party API와 Package Map Support를 지원하는 업데이트를 받았습니다. 이로 인해 개발자들은 오래된 제3자 API와 패키지를 최신 버전으로 대체하여 업그레이드 과정을 간소화할 수 있습니다. Microsoft는 새로운 기능이 UWP에서 WinUI로, Xamarin Forms에서 .NET MAUI로 플랫폼 전환을 쉽게 하도록 목표로 지정되었음을 언급합니다.
+#.NET Upgrade Assistant #제3자API #플랫폼전환
+
+#hashtags: #.NETUpgradeAssistant #ThirdPartyAPI #PlatformTransition
+
+14 번째 검색 내용
+제목: 테라폼 포크 오픈토퓨 1.7.0: 상태 암호화와 더 많은 기능 제공
+
+(Note: The translation may not be perfect as it is a direct translation from English to Korean without considering the grammar and structure of the Korean language.)
+주소: https://www.infoq.com/news/2024/07/opentofu-170/
+설명: OpenTofu 1.7.0이 발표되었습니다. OpenTofu는 선언형 클라우드 인프라 생성을 위한 여러 API를 사용하여 다양한 분야에서 오픈소스 인프라층 도구입니다. 지난 해 HashiCorp의 Terraform에서 포크되었으며, 이후 라이선스 변경으로 인해 변경되었습니다.
+새로운 버전은 몇 가지 중요한 기능과 개선 사항을 소개합니다.
+
+#OpenTofu #인프라층도구 #클라우드인프라생성 #선언형
+
+15 번째 검색 내용
+제목: 마이크로소프트가 Visual Studio 17.10.2를 발표합니다.
+주소: https://www.infoq.com/news/2024/07/visualstudio-2022-17-10-2/
+설명: Last month, Microsoft released an update for Visual Studio 2022 version 17.10 for Windows. The new release contains multiple performance enhancements, such as quicker loading for Windows Forms designer and .NET solution, and reduced DLL overhead in specific scenarios. The second preview of the next Visual Studio 2022 (version 17.11) was also released, focusing on quality-of-life enhancements.
+#VisualStudio #Microsoft #개발자도구 #Windows
+
+Translated content: Last month, Microsoft released an update for Visual Studio 2022 version 17.10 for Windows. The new release contains multiple performance enhancements, such as quicker loading for Windows Forms designer and .NET solution, and reduced DLL overhead in specific scenarios. The second preview of the next Visual Studio 2022 (version 17.11) was also released, focusing on quality-of-life enhancements.
+#VisualStudio #개발자도구 #Windows #Microsoft
+
+Translated content: Last month, Microsoft released an update for Visual Studio 2022 version 17.10 for Windows. The new release contains multiple performance enhancements, such as quicker loading for Windows Forms designer and .NET solution, and reduced DLL overhead in specific scenarios. The second preview of the next Visual Studio 2022 (version 17.11) was also released, focusing on quality-of-life enhancements.
+#개발자도구 #Windows #Microsoft #VisualStudio
+
