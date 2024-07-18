@@ -1,0 +1,153 @@
+1 번째 검색 내용
+제목: 마이크로소프트 엔트라 스위트 현재 일반적으로 사용 가능합니다: 제로트러스 모델 기반의 식별성과 보안
+
+(Microsoft Entra Suite Now Generally Available: Identity and Security Based Upon Zero-Trust Models)
+주소: https://www.infoq.com/news/2024/07/zero-trust-microsoft-entra-suite/
+설명: Microsoft는 Entra Suite의 일반 사용 가능성을 발표했습니다. 회사에 따르면, 이 스위트는 식별과 보안을 통합하여 보안 운영에 더 統一된 접근 방식을 지원합니다.
+#Microsoft #EntraSuite #보안 #식별
+
+#hashtags: #보안기술, #MicrosoftEntraSuite, #식별통합로그로그로그
+
+2 번째 검색 내용
+제목: Ngrok 트래픽 인스페크터는 네트워크 트래픽에 관측성을 제공합니다.
+주소: https://www.infoq.com/news/2024/07/ngrok-traffic-inspector/
+설명: 인공지능은 세계를 변화시키고 있습니다. 이것은 의료, 금융, 교통과 같은 다양한 분야에 응용되고 있습니다.
+#인공지능 #의료 #금육 #교통
+
+The ngrok Traffic Inspector provides observability for traffic towards APIs or services to better understand what is happening and help identify any issues. Since it was previewed earlier this year, the Traffic Inspector has acquired new capabilities based on user feedback and is now officially available through the ngrok dashboard.
+                     and Provide - #hashtags. Add 3 hashtags related to the translated content.
+
+번역결과: 인공지능 트래픽 살펴보기는 API 또는 서비스로 이동하는 트래픽에 대한 관찰성을 제공하여 발생하는 문제를 이해하고 해결하는데 도움이 됩니다. 이 년 초에 미리보기로 발표되었으며, 사용자 피드백에 따른 새로운 능력을 획득하여 ngrok 대시보드를 통해 공식적으로 사용할 수 있습니다.
+#트래픽살펴보기 #API #서비스 #ngrok
+
+#hashtags: #트래픽분석 #인공지능 #API서비스 #ngrok대시보드
+
+3 번째 검색 내용
+제목: [INST] 제공되는 번역: 
+
+MySQL 9.0 혁신 릴리스가 현재 사용 가능합니다.
+[/INST]
+주소: https://www.infoq.com/news/2024/07/mysql-90-innovation-release/
+설명: On July 1st, Oracle announced the release of MySQL 8.0.38, the initial update for the 8.4 Long Term Support (LTS) series, and the inaugural MySQL 9.0 release. The Innovation release introduces new features, such as vector and JavaScript support. In contrast, the two LTS releases focus on stability, providing security updates, bug fixes, and performance improvements.
+#오라클 #MySQL #데이터베이스 #업데이트
+
+Translated content: 
+On July 1st, Oracle announced the release of MySQL 8.0.38, the initial update for the 8.4 Long Term Support (LTS) series, and the inaugural MySQL 9.0 release. The Innovation release introduces new features, such as vector and JavaScript support. In contrast, the two LTS releases focus on stability, providing security updates, bug fixes, and performance improvements.
+#오라클 #MySQL #데이터베이스 #업데이트
+
+Hashtags: 
+#오라클 #MySQL #데이터베이스 #업데이트
+
+4 번째 검색 내용
+제목: 큐 지원을 위한 Apache Kafka: KIP-932와 SoftwareMill의 KMQ
+
+(Note: The translation may not be perfect as it is a technical term. Please verify the accuracy if needed.)
+주소: https://www.infoq.com/news/2024/07/apache-kafka-queues/
+설명: Apache Kafka 커뮤니티는 인기 있는 메시징 플랫폼에서 큐와 같은 사용 사례를 활성화하는 데 집중하고 있습니다. 이 작업은 KIP-932(카프카 개선 제안)의 진행 중인 과정에서 협력적인 메시지 소비를 위한 공유 그룹 추상화를 도입합니다. 동시에, SoftwareMill은 기존의 콘슈머 그룹 추상화와 호환되는 대안 솔루션을 제작했습니다.
+#ApacheKafka #메시징플랫폼 #공유그룹추상화 #콘슈머그룹추상화
+
+Hashtags: #ApacheKafka, #메시징플랫폼, #공유그룹추상화, #콘슈머그룹추상화
+
+5 번째 검색 내용
+제목: 구글이 27B 매개변수 제품 2 언어 모델을 오픈 소스로 공개합니다.
+주소: https://www.infoq.com/news/2024/07/google-gemma-2/
+설명: 인공지능 기업 Google DeepMind는 Gemma 2를 오픈소스로 공개했습니다. Google은 Gemma 아키텍처의 여러 개선 사항을 적용하고 지식 압축 기법을 사용하여 모델에게 최신 기술 수준의 성능을 제공했습니다: Gemma 2는 비교적 같은 크기의 다른 모델보다 우수하며, 2배 큰 모델과도 경쟁합니다.
+#인공지능 #GoogleDeepMind #Gemma2
+
+#hashtags: #AI #Google #NaturalLanguageProcessing
+
+6 번째 검색 내용
+제목: 앤자스 워크스페이스 풀: 유연하고 맞춤형 가상 데스크톱 환경
+
+(Note: The translation may not be perfect as it is a machine translation. Please review and make necessary adjustments if needed.)
+주소: https://www.infoq.com/news/2024/07/amazon-workspaces-pools/
+설명: Amazon은 Amazon WorkSpaces의 새로운 기능인 WorkSpaces Pools을 발표했습니다. 이 기능은 사용자 그룹에서 비영구적인 가상 데스크톱을 제공합니다. 관리자는 영구적과 비영구적 데스크톱 포트폴리오를 Graphic User Interface, 명령 줄 또는 API 기능으로 관리할 수 있습니다.
+#AmazonWorkSpaces #가상데스크톱 #비영구적데스크톱
+
+#hashtags: #CloudComputing #VirtualDesktop #AmazonWebServices
+
+7 번째 검색 내용
+제목: 제목: JEP 472: JDK 24에서 JNI 사용을 제한하기 위해 준비하기
+
+JEP 472는 JDK 24에서 JNI(Java Native Interface)의 사용을 제한하기 위한 조치를 취할 것임을 나타내는 명령입니다. JNI는 Java와 네이티브 코드 간의 인터페이스를 제공하며, 이를 통해 Java 애플리케이션이 네이티브 라이브러리에 접근할 수 있습니다. 그러나 JNI는 보안 취약점으로 인한 위험성이 있어, JDK 24에서 이를 제한하거나 제거할 계획입니다.
+
+JEP 472는 JDK 24에서 JNI의 사용을 제한하기 위해 어떤 조치를 취할지 명시하고 있습니다. 이러한 조치들은 JNI의 보안 취약점을 줄이고, Java 애플리케이션의 안정성과 성능을 향상시키기 위해 수행될 것입니다.
+
+JEP 472는 JDK 24에서 JNI 사용을 제한하기 위해 준비하고 있습니다. 이를 통해 Java 애플리케이션의 보안과 성능이 향상되며, JNI의 취약점도 줄어듭니다.
+주소: https://www.infoq.com/news/2024/07/jep-472-restrict-jni-jdk-24/
+설명: JEP 472, now Proposed를 대상으로 이동하여, Java Native Interface(JNI)를 사용할 때 경고를 발생시키고 Foreign Function & Memory(FFM) API를 일관된 경고로 조정하려고 합니다. 이는 미래의 릴리스에서 JNI와 FFM API를 기본적으로 통합성을 보장하기 위해 개발자들을 준비시키는 것입니다.
+#JEP472 #JNI #FFM_API #통합성
+
+Translated sentence: JEP 472, now Proposed to Target, aims to issue warnings for using the Java Native Interface (JNI) and adjust the Foreign Function & Memory (FFM) API for consistent warnings. This prepares developers for future releases that restrict JNI and the FFM API to ensure integrity by default.
+#JEP472 #JNI #FFM_API #integrity
+
+8 번째 검색 내용
+제목: 자바 뉴스 요약: JDK 24 업데이트, 스프링 프레임워크, 피란하 클라우드, 그래들 8.9, 아큐리쟈 1.9
+주소: https://www.infoq.com/news/2024/07/java-news-roundup-jul08-2024/
+설명: Java 주요 뉴스 요약: 2024년 7월 8일 이후에는 JEP 472, JNI 사용을 제한하기 위해 타겟으로 설정될 예정입니다; Spring Framework의 마일스톤 및 포인트 릴리즈; 매월 Piranha Cloud 릴리즈; 그리고 Gradle 8.9 및 Arquillian 1.9의 릴리즈입니다.
+#Java #SpringFramework #Gradle #Arquillian #PiranhaCloud
+
+9 번째 검색 내용
+제목: 앤젬론Q 앱은 기업용 생성형 AI 앱 개발을 간소화하는 목표를 가지고 있습니다.
+주소: https://www.infoq.com/news/2024/07/amazon-q-app-generative-ai/
+설명: Amazon Q Business의 일부로, Amazon Q Apps는 기업 데이터를 통합하고 안전하게 조직 내에서 공유할 수 있는 AI 기반 앱을 생성하는 것을 허용합니다. Amazon Q Apps의 일반 사용 가능성과 동시에 Amazon은 Amazon Q Apps에 대한 새로운 API와 데이터 소스 정의를 더 자세하게 제공했습니다.
+#AmazonQApps #AI기반앱 #기업데이터통합 #안전공유
+
+Translated content hashtags: #AmazonQBusiness, #EnterpriseDataIntegration, #SecureDataSharing
+
+10 번째 검색 내용
+제목: AWS가 Amazon S3의 객체 업로드에 대한 맬웨어 감지를 소개합니다.
+주소: https://www.infoq.com/news/2024/07/aws-malware-detection-s3/
+설명: Human : At the latest re:Inforce cloud security conference, AWS announced GuardDuty Malware Protection for Amazon S3. This new malware scanning feature for Amazon S3 enables teams to detect malware in new object uploads using Amazon GuardDuty.
+and Provide - #hashtags. Add 3 hashtags related to the translated content.
+
+AI : 최근 re:Inforce 클라우드 보안 컨퍼런스에서 AWS는 Amazon S3용 GuardDuty 마λ웨어 보호를 발표했습니다. 이 새로운 Amazon S3용 마비러 검색 기능은 Amazon GuardDuty를 사용하여 새로운 객체 업로드에서 마비러를 탐지할 수 있게 합니다.
+#re:Inforce #클라우드보안 #AWS #GuardDuty #AmazonS3 #마비러검색 #마비러탐지
+
+Hashtags: #re:Inforce, #클라우드보안, #AWS, #GuardDuty, #AmazonS3, #마비러검색, #마비러탐지
+
+11 번째 검색 내용
+제목: 앤젼론 세이지메이커는 이제 MLflow 관리 기능을 제공하여 향상된 실험 추적을 위해 사용할 수 있습니다.
+주소: https://www.infoq.com/news/2024/07/aws-sagemaker-mlflow/
+설명: AWS는 Amazon SageMaker에서 MLflow 기능의 일반적인 사용 가능성을 발표했습니다. MLflow는 ML 실험을 관리하는데 널리 사용되는 오픈 소스 도구입니다. 이제 사용자들은 MLflow UI를 통해 실험에서 모델 성능, 매개변수 및 메트릭을 비교할 수 있으며, 최고의 모델을 MLflow Model Registry에 추적하고 SageMaker 모델로 자동 등록할 수 있습니다.
+#AWS #MLflow #AmazonSageMaker
+
+#hashtags: #AWS #MLflow #AmazonSageMaker
+
+12 번째 검색 내용
+제목: 소프트웨어 공학자들을 강화하는 플랫폼 기반의 제품 구축
+[INST] Translate my sentence into English:
+
+How Building a Platform as a Product Empowered Software Engineers
+주소: https://www.infoq.com/news/2024/07/platform-empower-software-eng/
+설명: 플랫폼 엔지니어링은 개발자들이 시간이 지남에 따라 더 많은 제품 가치를 빠르게 전달할 수 있도록 가속화하고 강화하는 것입니다. 제시카 안더슨은 대부분의 기업이 플랫폼 엔지니어링에 투자를 할 때까지 특정 크기를 달성하기를 기다리는 것을 언급했습니다. QCon London에서는 그들의 스타트업이 플랫폼 엔지니어링을 채택한 전략과 개발자들이 플랩폼을 채택하기 위해 무엇을 했는지를 소개했습니다.
+#플랫폼엔지니어링 #개발자 #QConLondon
+
+Hashtags: #플랫폼엔지니어링, #개발자, #QConLondon
+
+13 번째 검색 내용
+제목: 마이크로소프트는 아즈어 서비스 버스 프리미엄 티어의 지역 복제 기능에 대한 공개 미리 보기를 발표합니다.
+주소: https://www.infoq.com/news/2024/07/azure-service-bus-geo-dr/
+설명: Microsoft는 Azure Service Bus premium tier의 새로운 Geo-Replication 기능 공개 미리 보기를 최근에 발표했습니다. 이 기능은 주 지역에서 부 지역으로 네임스페이스의 메타데이터와 데이터를 연속적으로 복제할 수 있게 합니다. 사용자는 언제든지 이를 승격할 수 있습니다.
+#AzureServiceBus #GeoReplication #데이터복제 #Microsoft
+
+Translated sentence: Microsoft recently announced the public preview of its new Geo-Replication feature in the Azure Service Bus premium tier. This feature allows continuous replication of a namespace's metadata and data from a primary region to a secondary region, which users can promote at any time.
+
+#hashtags: #AzureServiceBus #GeoReplication #데이터복제 #Microsoft
+
+14 번째 검색 내용
+제목: 오픈애이의 CriticGPT가 채팅GPT로 생성된 코드에서 오류를 찾습니다.
+주소: https://www.infoq.com/news/2024/07/openai-criticgpt/
+설명: OpenAI는 최근 CriticGPT에 대한 논문을 발표했습니다. 이것은 ChatGPT로 생성된 코드를 평가하는데 적응되어 있으며, 인간 평가자와 비교할 때 더 많은 버그를 찾고 더 좋은 평가를 제공합니다. OpenAI는 CriticGPT를 향후 모델의 개선에 사용하려고 합니다.
+#인공지능 #코드평가 #OpenAI
+
+Hashtags: #인공지능, #코드평가, #OpenAI
+
+15 번째 검색 내용
+제목: 자바 뉴스 요약: 프로젝트 레이든 에러리잇 빌드, 랑체인4즈, 제일리즈러, 그루비
+주소: https://www.infoq.com/news/2024/07/java-news-roundup-jul01-2024/
+설명: Java 주요 뉴스: 7월 1일, 2024년 이번 주의 Java 주요 뉴스는 Project Leyden의 초기 접근 가능 빌드의 데뷔, LangChain4j 0.32.0, JReleaser 1.13.0, Apache Groovy의 포인트 및 amilestone 릴리스 및 Jakarta EE 11의 업데이트와 Jakarta EE 12에 대한 초기 토론을 다루고 있습니다.
+#Java #프로젝트_레이든 #JakartaEE #ApacheGroovy
+
+#hashtags: #JavaDevelopment #ProgrammingNews #SoftwareUpdates
+
