@@ -1,0 +1,140 @@
+1 번째 검색 내용
+제목: RADIUS 프로토콜 취약점으로 인해 네트워크 장치 인증 노출
+
+(Note: The translation may not be perfect as it is a technical term. Please double-check the translation if necessary.)
+주소: https://www.infoq.com/news/2024/07/radius-vulnerability/
+설명: AI : 보안 연구자들은 RADIUS(원격 인증 전화 서비스) 프로토콜, 대부분의 시스템에서 사용되고 있는 프로토콜에 중요한 취약점을 발견했습니다. 이 취약점은 공격자가 네트워크 장치에 무단으로 접근할 수 있도록 할 수 있습니다. Cloudflare 직원들은 이러한 발견 결과를 설명하면서, 네트워크 프로토콜의 오래된 기능을 보호하는 데 대한 지속적인 보안 문제에 대해 강조했습니다.
+#보안 #RADIUS #네트워크 #프로토콜
+
+#hashtags: #보안, #RADIUS, #네트워크, #프로토콜
+
+2 번째 검색 내용
+제목: [INST] 규모에 따른 네비게이션 소프트웨어 아키텍처: 데코튼의 아키텍처 과정에서 얻은 인사이트 [/INST]
+주소: https://www.infoq.com/news/2024/07/decathlon-architecture-process/
+설명: Raphaël Tahar, Decathlon의 직원 공장장이자 규모에 따른 아키텍처 과정을 공유했습니다. 그는 아키텍처 커미티, C4 모델, 시스템 사고와 같은 방법론들을 결합하며, Decathlon이 인фор멘티드, 전략적인 결정을 내리기 위해 팀에게 잘 준비되도록 중요성을 강조했습니다.
+#아키텍처 #C4모델 #시스템사고
+
+Hashtags: #아키텍처 #C4모델 #시스템사고
+
+3 번째 검색 내용
+제목: AWS는 SageMaker Studio에서 Amazon Q Developer를 소개하여 ML 워크플로우를 간소화합니다.
+주소: https://www.infoq.com/news/2024/07/aws-sagemaker-q/
+설명: AWS는 Amazon SageMaker Studio에서 Amazon Q Developer를 새로운 기능으로 추가되었습니다. 이 생성형 AI 지원 助手는 SageMaker의 JupyterLab 경험에 내장되어 있으며, 각 작업에 적합한 최고의 도구 추천, 단계별 안내, 코드 생성 및 문제 해결 지원을 제공합니다.
+#인공지능 #AWS #SageMaker
+
+#hashtags:
+1. #AIassistant
+2. #JupyterLab
+3. #CodeGeneration
+
+4 번째 검색 내용
+제목: 구글 클라우드가 스페너에 지역 분할 도입: 낮은 지연 시간과 비용 최적화
+
+[INST] Translate my sentence into Korean : 
+                            Google Cloud Introduces Geo-Partitioning for Spanner: Reduced Latency and Cost Optimization
+                         [/INST]
+주소: https://www.infoq.com/news/2024/07/spanner-geo-partitioning-preview/
+설명: Google Cloud는 Spanner, 그의 완전히 관리형, 전역 분산 데이터베이스에 지오 파티션을 추가하였습니다. 회사는 이 새로운 기능이 지리적으로 분산된 응용 프로그램과 사용자에게 성능과 사용자 경험을 개선하고 운영 비용을 최적화하는 것을 목표로 합니다.
+#GoogleCloud #Spanner #지오파티션 #데이터베이스
+
+5 번째 검색 내용
+제목: QCon 런던: 네플리스가 서버 주도 알림을 통해 시간과 비용을 절약합니다.
+주소: https://www.infoq.com/news/2024/07/netflix-server-driven-ui/
+설명: At QCon London 2024, Christopher Luu explained how Netflix uses server-driven UIs for rich notifications. This saves developer time through reuse across platforms and better testing but adds effort for backward compatibility. Developers write notifications by embedding so-called Customer Lifecycle Component System (CLCS) components in JavaScript, similar to how React UIs embed HTML in JavaScript.
+#QConLondon #Netflix #server-drivenUIs #richnotifications
+
+At QCon London 2024, Christopher Luu explained how Netflix uses server-driven UIs for rich notifications. This saves developer time through reuse across platforms and better testing but adds effort for backward compatibility. Developers write notifications by embedding so-called Customer Lifecycle Component System (CLCS) components in JavaScript, similar to how React UIs embed HTML in JavaScript.
+#QConLondon #Netflix #server-drivenUIs #richnotifications
+
+6 번째 검색 내용
+제목: HashiCorp는 강화된 Kubernetes와 Nomad 통합을 포함한 Consul 1.19를 발표합니다.
+주소: https://www.infoq.com/news/2024/07/consul-1-19-released/
+설명: HashiCorp는 Consul 1.19의 일반 사용 가능성을 발표했습니다. 이 버전에서는 서비스 네트워킹 플랫폼에 대한 여러 개선 사항을 소개하고 있으며, 사용자 경험을 향상시키고, 유연성과 통합 기능을 강화하는 것이 목표입니다.
+#HashiCorp #Consul #서비스네트워킹플랫폼 #사용자경험향상
+
+7 번째 검색 내용
+제목: 혼란한 상황에서 CrowdStrike가 업데이트를 통해 전 세계적으로 8.5억대의 Windows 기기를 대상으로 빈긴치 수리함을 확인합니다.
+주소: https://www.infoq.com/news/2024/07/crowdstrike-bsod-global-incident/
+설명: CrowdStrike, 미국의 사이버보안 기술 회사는 최근에 전세계적으로 Windows를 실행하고 있는 추정 850만 대의 컴퓨터를 빌트(bricked)시키는 제품 업데이트를 발표했습니다. 이 회사는 클라우드 워크로드 보호, 엔드포인트 보안, 위협 지식, 사이버 공격 응답 서비스를 제공합니다.
+#CrowdStrike #사이버보안 #Windows #엔드포인트보안
+
+#hashtags: #사이버보안기업 #클라우드워크로드보호 #엔드포인트보안서비스
+
+8 번째 검색 내용
+제목: OpenAI가 GPT-4o mini 모델을 개발하여 출시하며, 침략 저항력이 향상된 것입니다.
+
+[INST] OpenAI가 GPT-4o mini 모델을 개발하여 출시하며, 침략 저항력이 향상된 것입니다. [/INST]
+주소: https://www.infoq.com/news/2024/07/gpt-4o-mini/
+설명: OpenAI는 GPT-4o mini, GPT-4o 모델의 작은 버전을 발표했습니다. GPT-4o mini는 GPT-3.5 Turbo보다 여러 LLM 벤치마크에서 우수하며, OpenAI의 첫 번째 모델이며 지시문 계층 방법으로 훈련되어 모델의 해킹 저항력과 시스템 제안 추출 방지가 향상됩니다.
+#인공지능 #GPT-4oMini #OpenAI
+
+Hashtags: #인공지능, #GPT-4oMini, #OpenAI
+
+9 번째 검색 내용
+제목: 자바 뉴스 요약: JDK 23의 Rampdown Phase Two, 그랄 개발 키트, 페이어라 플랫폼, JSpecify
+주소: https://www.infoq.com/news/2024/07/java-news-roundup-jul15-2024/
+설명: AI : 이번 주 7월 15일의 Java 뉴스 요약은 JDK 23 Rampdown Phase Two: 7월 2024 Payara Platform 출시; Graal Development Kit를 사용한 Micronaut 4.5.0; GraalVM을 위한 JDK 22 Community 22.0.2; JSpecify 1.0.0, MicroProfile 7.0-RC1, Open Liberty 24.0.0.7; 그리고 7월 2024 Oracle Critical Patch Update를 다루고 있습니다.
+#Java #뉴스요약 #JDK23 #PayaraPlatform
+
+Hashtags: #Java #RampdownPhaseTwo #PayaraPlatformRelease
+
+10 번째 검색 내용
+제목: 제목: JEP 481: 범위 값 API의 3차 미리보기 - JDK 23에서의 주요 개선 사항
+
+본문: JEP 481은 JDK 23에서 범위 값 API의 3차 미리보기를 제공합니다. 이 미리보기는 범위 값 API의 주요 개선 사항을 포함하고 있습니다. 이러한 개선 사항은 JDK 23에서 범위 값 API를 더욱 효과적으로 사용할 수 있도록 합니다.
+주소: https://www.infoq.com/news/2024/07/jep-481-enhanced-scoped-values/
+설명: JEP 481, Scoped Values (Third Preview), 이제는 Extent-Local Variables (Incubator)로 알려져 있었던 기능은 한 변경 사항을 포함하여 인수 및 미리 보기를 통해 한 라운드의 혼란과 두 번의 미리 보기를 거쳐 추가적인 경험과 피드백을 얻기 위해 세 번째 미리 보기를 제공합니다. 이 기능은 스레드 내부와 외부에서 불변 데이터를 공유하는 것을 허용합니다.
+#JEP481 #ScopedValues #스레드 #불변데이터
+
+#hashtags: #JEP481, #ScopedValues, #스레드, #불변데이터
+
+11 번째 검색 내용
+제목: 봄 생태계는 다양한 기원 발표를 제공합니다.
+주소: https://www.infoq.com/news/2024/07/spring-releases-jul15-2024/
+설명: AI : 7월 15일 주에는 Spring 생태계에서 많은 활동이 있었으며, 다음과 같은 기록 릴리스가 발표되었습니다: Spring Boot 3.4.0-M1; Spring Framework 6.2.0-M6; Spring Security 6.4.0-M1; Spring Session 3.4.0-M1; Spring Integration 6.4.0-M1; Spring Modulith 1.3.0-M1; Spring AMQP 3.2.0-M1; 그리고 Spring for Apache Kafka 3.3.0-M1.
+#Spring #릴리스 #기술 #발표
+
+Hashtags: #Spring #릴리스 #기술 #발표
+
+12 번째 검색 내용
+제목: Swift 6에서는 낮은 수준 프로그래밍을 위한 임베디드 스위프트 소개
+
+(Note: There is no Swift 6, but I translated the sentence as if it were a headline or title.)
+주소: https://www.infoq.com/news/2024/07/embedded-swift/
+설명: AI : Swift 6에서는 임베디드 장치의 특정한 제약 조건을 해결하기 위해 새로운 컴파일 모드를 도입했으며, 커널과 같은 낮은 수준의 코드에도 적용할 수 있습니다. 임베디드 Swift는 대부분의 언어를 포함하여 값 및 참조 형식, 클로저, 옵셔널, 오류 처리, 제네릭 등을 다루는 완전한 구성 요소를 포함합니다.
+#Swift6 #임베디드Swift #낮은수준코드
+
+#hashtags: #Swift프로그래밍 #임베디드시스템 #낮은수준코딩
+#Swift6 #임베디드Swift #오류처리
+
+Translated sentence: Swift 6에서는 임베디드 장치의 특정한 제약 조건을 해결하기 위해 새로운 컴파일 모드를 도입했으며, 커널과 같은 낮은 수준의 코드에도 적용할 수 있습니다. 임베디드 Swift는 대부분의 언어를 포함하여 값 및 참조 형식, 클로저, 옵셔널, 오류 처리, 제네릭 등을 다루는 완전한 구성 요소를 포함합니다.
+#hashtags: #Swift프로그래밍 #임베디드시스템 #낮은수준코딩
+#Swift6 #임베디드Swift #오류처리
+
+13 번째 검색 내용
+제목: 레디스는 벡터 의미 검색에 대한 성능을 향상시키기 위해 다중 스레드 쿼리 엔진을 사용합니다.
+주소: https://www.infoq.com/news/2024/07/redis-vector-database-genai-rag/
+설명: Redis, 메모리 데이터 구조 저장소로서 최근에는 Redis Query Engine의 향상된 버전을 발표했습니다. 이 시점에서는 검색 증강 생성(RAG)용 절차적 AI 응용프로그램에서 벡터 데이터베이스의 중요도가 높아져서입니다. Redis는 Query Engine의 개선 사항을 다양한 스레드를 사용하여 쿼리 처리량을 향상시키고 낮은 지연 시간을 유지하는 중요한 변경 사항을 발표했습니다.
+#Redis #벡터데이터베이스 #검색증강생성(RAG) #쿼리처리량
+
+#hashtags: #Redis #벡터데이터베이스 #검색증강생성(RAG) #쿼리처리량
+
+14 번째 검색 내용
+제목: 마이크로소프트가 .NET 9 미리보기 6를 발표합니다.
+주소: https://www.infoq.com/news/2024/07/ms-releases-dotnet-9-preview6/
+설명: 인공지능 : 지난 주 Microsoft는 .NET 9 프레임워크의 6번째 미리보기를 발표하였습니다. .NET Runtime, SDK, 라이브러리, C# 및 ASP.NET Core, Blazor, .NET MAUI와 같은 프레임워크에서 여러 업데이트를 소개했습니다. 발표된 내용에 따르면, 목표는 성능을 향상시키고, 개발자 경험을 개선하며, 기능을 확장하는 것입니다.
+#.NET #CSharp #ASPNETCore
+
+#hashtags:
+#.NET9 #성능향상 #개발자경험개선
+
+15 번째 검색 내용
+제목: 메타버스에서의 테스팅 모습
+
+(Note: The given text seems to be a title or heading, and it has been translated as such. If you need a full sentence translation, please provide more context.)
+주소: https://www.infoq.com/news/2024/07/testing-metaverse/
+설명: The "metaverse" typically refers to a collective virtual shared space that is created by the convergence of a virtually enhanced physical reality and a persistent virtual reality. According to Jonathon Wright, testing requires a mix of manual testing, automated testing, user testing, emulators, and simulators. Real-world testing environments are used to cover as many scenarios as possible.
+#메타버스 #테스팅 #가상현실
+
+Translated content hashtags: #메타버스, #테스팅, #가상현실
+
