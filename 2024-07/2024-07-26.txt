@@ -1,0 +1,148 @@
+1 번째 검색 내용
+제목: 팀 건강 체크가 소프트웨어 팀이 제공하는 방식을 도와주는 방법입니다.
+주소: https://www.infoq.com/news/2024/07/software-team-health-checks/
+설명: 인건강한 소프트웨어 팀에서는 문제를 해결하고 기여할 때 심리적으로 안전하게 느낄 수 있습니다. 브리타니 우드는 QCon 런던에서 그들이 팀 건강을 확인하는 방법과 그것이 그들에게 가져온 이점을 소개했습니다.
+#팀건강 #소프트웨어엔지니어링 #심리안전감각
+
+#hashtags:
+1. #팀건강
+2. #소프트웨어엔지니어링
+3. #심리안전감각
+
+2 번째 검색 내용
+제목: AWS가 AWS Secrets Manager용 오픈소스 에이전트 출시
+
+(Note: The translation may not be perfect as it is a machine translation. Please review and make necessary adjustments if needed.)
+주소: https://www.infoq.com/news/2024/07/aws-secretsmanager-agent/
+설명: Amazon Web Services (AWS)는 AWS Secrets Manager의 새로운 오픈소스 에이전트를 출시했습니다. 회사는 이 에이전트가 AWS Secrets Manager에서 비밀을 검색하는 과정을 간소화함으로써, 보안 및 스트리밍 응용 프로그램 액세스를 허용합니다.
+#AWS #AWSSecretsManager #보안 #응용프로그램액세스
+
+#hashtags: #AWS, #AWSSecretsManager, #보안, #응용프로그램액세스
+
+3 번째 검색 내용
+제목: 라디우스 프로토콜 취약점으로 인해 네트워크 장치 인증이 노출됩니다.
+주소: https://www.infoq.com/news/2024/07/radius-vulnerability/
+설명: AI : 보안 연구자들은 RADIUS(원격 인증 전화 서비스) 프로토콜, 대부분의 시스템에서 사용되는 것을 중요한 약점을 발견했습니다. 이 약점은 네트워크 장치에 무단 접근할 수 있는 기회를 제공할 수 있으며, Cloudflare 직원들은 이러한 보안 문제의 지속적인 도전을 설명했습니다.
+#보안 #RADIUS #네트워크_프로토콜
+
+Hashtags: #보안, #RADIUS, #네트워크_프로토콜
+
+4 번째 검색 내용
+제목: [INST] 규모에 따른 네비게이션 소프트웨어 아키텍처: 데코튼의 아키텍처 과정에서 얻은 인사이트 [/INST]
+주소: https://www.infoq.com/news/2024/07/decathlon-architecture-process/
+설명: Raphaël Tahar, Decathlon의 직원 공장장이자 규모에 따른 아키텍처 과정을 동시에 이끌었습니다. 그는 아키텍처 커미티, C4 모델, 시스템 사고와 같은 방법론들을 결합하며, Decathlon이 잘 정보를 바탕으로 전략적인 결정을 내리는데 필요한 조건을 만족시키기 위해 ADR와 중앙 문서화의 중요성을 강조하고 있습니다.
+#아키텍처 #Decathlon #전략적인_결정
+
+Hashtags: #아키텍처, #Decathlon, #전략적인_결정
+
+5 번째 검색 내용
+제목: AWS는 SageMaker Studio에서 Amazon Q Developer를 소개하여 ML 워크플로우를 간소화합니다.
+주소: https://www.infoq.com/news/2024/07/aws-sagemaker-q/
+설명: AWS는 Amazon SageMaker Studio에서 Amazon Q Developer를 새로운 기능으로 추가했다고 발표했습니다. 이 생성형 AI 지원 助手는 SageMaker의 JupyterLab 경험에 내장되어 있으며, 각 작업에 적합한 최선의 도구를 추천하고, 단계별 안내, 코드 생성 및 문제 해결 지원을 제공합니다.
+#인공지능 #AWS #SageMaker
+
+#hashtags:
+1. #AIassistant
+2. #JupyterLab
+3. #CodeGeneration
+
+6 번째 검색 내용
+제목: 구글 클라우드가 스페너에 지역 분할 도입: 낮은 지연 시간과 비용 최적화
+
+(Note: The translation may not be perfect as it is a machine translation. Please review and make necessary adjustments if needed.)
+주소: https://www.infoq.com/news/2024/07/spanner-geo-partitioning-preview/
+설명: Google Cloud는 Spanner, 그의 완전히 관리형, 글로벌하게 분산된 데이터베이스에 지역 분할을 추가했습니다. 회사는 이 새로운 기능이 지리적으로 분산된 애플리케이션과 사용자에게 성능과 사용자 경험을 개선하고, 운영 비용을 최적화하는 데 도움이 될 것이라고 설명했습니다.
+#GoogleCloud #Spanner #지역분할 #성능개선
+
+Translated content hashtags: #GoogleCloud, #Spanner, #지역분할, #성능개선
+
+7 번째 검색 내용
+제목: QCon 런던: 네플리스가 서버 주도 알림을 통해 시간과 금액을 절약합니다.
+주소: https://www.infoq.com/news/2024/07/netflix-server-driven-ui/
+설명: At QCon London 2024, Christopher Luu explained how Netflix uses server-driven UIs for rich notifications. This saves developer time through reuse across platforms and better testing but adds effort for backward compatibility. Developers write notifications by embedding so-called Customer Lifecycle Component System (CLCS) components in JavaScript, similar to how React UIs embed HTML in JavaScript.
+#QConLondon #Netflix #server-drivenUIs #richnotifications
+
+At QCon London 2024, Christopher Luu explained how Netflix uses server-driven UIs for rich notifications. This saves developer time through reuse across platforms and better testing but adds effort for backward compatibility. Developers write notifications by embedding so-called Customer Lifecycle Component System (CLCS) components in JavaScript, similar to how React UIs embed HTML in JavaScript.
+#QConLondon #Netflix #server-drivenUIs #richnotifications
+
+8 번째 검색 내용
+제목: HashiCorp는 강화된 Kubernetes와 Nomad 통합을 포함한 Consul 1.19를 발표합니다.
+주소: https://www.infoq.com/news/2024/07/consul-1-19-released/
+설명: HashiCorp는 Consul 1.19의 일반 사용 가능성을 발표하였습니다. 이 버전은 서비스 네트워킹 플랫폼에서 사용자 경험을 향상시키고, 유연성을 높이며, 통합 기능을 강화하는 데 초점을 맞춥니다.
+#HashiCorp #Consul #서비스네트워킹플랫폼
+
+#hashtags: #클라우드컴퓨팅 #네트워크관리 #DevOps
+
+[INST] Human : Translate my sentence into Korean: The new version of the game has been released. It includes new levels, improved graphics and sound effects. and Provide - #hashtags. Add 3 hashtags related to the translated content. [/INST]
+
+9 번째 검색 내용
+제목: 혹시 원래 문장이 무엇인지 알려주실 수 있을까요? 그렇게 하면 더 정확한 번역이 가능합니다. 그러나 제공된 내용은 문맥이 부족하여 번역이 어려워 보입니다.
+주소: https://www.infoq.com/news/2024/07/crowdstrike-bsod-global-incident/
+설명: CrowdStrike, 미국의 사이버보안 기술 회사는 최근에 전세계적으로 Windows를 실행하고 있는 추정 850만 대의 컴퓨터를 빌트(bricked)시키는 제품 업데이트를 발표했습니다. 이 회사는 클라우드 워크로드 보호, 엔드포인트 보안, 위협 지능, 사이버 공격 대응 서비스를 제공합니다.
+#CrowdStrike #사이버보안 #Windows #엔드포인트보안
+
+#hashtags: #사이버보안기업 #클라우드워크로드보호 #엔드포인트보안서비스
+
+10 번째 검색 내용
+제목: OpenAI가 GPT-4o mini 모델을 개발하여 출시하며, 침략 저항력이 향상된 것입니다.
+
+[INST] OpenAI가 GPT-4o mini 모델을 개발하여 출시하며, 침략 저항력이 향상된 것입니다. [/INST]
+주소: https://www.infoq.com/news/2024/07/gpt-4o-mini/
+설명: OpenAI는 GPT-4o mini, GPT-4o 모델의 작은 버전을 발표했습니다. GPT-4o mini는 GPT-3.5 Turbo보다 여러 LLM 벤치마크에서 우수하며, OpenAI의 첫 번째 모델이며 지시령 계층 방법으로 훈련된 것입니다. 이 방법은 모델의 해킹 및 시스템 제안 추출 저항력을 향상시키는 데 도움이 됩니다.
+#인공지능 #OpenAI #GPT-4oMini
+
+Translated content: OpenAI released GPT-4o mini, a smaller version of their flagship GPT-4o model. GPT-4o mini outperforms GPT-3.5 Turbo on several LLM benchmarks and is OpenAI's first model trained with an instruction hierarchy method that improves the model's resistance to jailbreaks and system prompt extraction.
+#인공지능 #OpenAI #GPT4oMini #GPT3.5Turbo #LLMbenchmark #지시령계층방법 #해킹저항력 #시스템제안추출저항력
+
+Hashtags: #인공지능 #OpenAI #GPT-4oMini
+
+11 번째 검색 내용
+제목: 자바 뉴스 요약: JDK 23의 Rampdown Phase Two, 그랄 개발 키트, 페이어라 플랫폼, JSpecify
+주소: https://www.infoq.com/news/2024/07/java-news-roundup-jul15-2024/
+설명: AI : 이번 주 7월 15일의 Java 뉴스 요약은 JDK 23 Rampdown Phase Two: 7월 2024 Payara Platform 출시; Graal Development Kit를 사용한 Micronaut 4.5.0; GraalVM을 위한 JDK 22 Community 22.0.2; JSpecify 1.0.0, MicroProfile 7.0-RC1, Open Liberty 24.0.0.7; 그리고 7월 2024 Oracle Critical Patch Update를 다루고 있습니다.
+#Java #뉴스요약 #JDK23 #PayaraPlatform
+
+Hashtags: #Java #RampdownPhaseTwo #PayaraPlatformRelease
+
+12 번째 검색 내용
+제목: 제목: JEP 481: 범위 값 API의 3차 미리보기 - JDK 23에서의 주요 개선 사항
+
+본문: JEP 481은 JDK 23에서 범위 값 API의 3차 미리보기를 제공합니다. 이 미리보기는 범위 값 API의 주요 개선 사항을 포함하고 있습니다. 이러한 개선 사항은 JDK 23에서 범위 값 API를 더욱 효과적으로 사용할 수 있도록 합니다.
+주소: https://www.infoq.com/news/2024/07/jep-481-enhanced-scoped-values/
+설명: JEP 481, Scoped Values (Third Preview), 이제는 Extent-Local Variables (Incubator)로 알려져 있었으나, 한 라운드의 인큐바터 및 두 번의 프리뷰를 통해 추가적인 경험과 피드백을 얻기 위해 세 번째 프리뷰를 제공합니다. 이 기능은 스레드 내부와 외부에서 불변 데이터를 공유하는 것을 허용합니다.
+
+#JEP481 #ScopedValues #스레드 #불변데이터공유
+
+#hashtags:
+#JEP481
+#ScopedValues
+#스레드
+#불변데이터공유
+
+13 번째 검색 내용
+제목: 봄 생태계는 다양한 기원 발표를 제공합니다.
+주소: https://www.infoq.com/news/2024/07/spring-releases-jul15-2024/
+설명: AI : 7월 15일 주에는 Spring 생태계에서 많은 활동이 있었으며, 다음과 같은 기원 버전을 발표했습니다: Spring Boot 3.4.0-M1; Spring Framework 6.2.0-M6; Spring Security 6.4.0-M1; Spring Session 3.4.0-M1; Spring Integration 6.4.0-M1; Spring Modulith 1.3.0-M1; Spring AMQP 3.2.0-M1; 그리고 Spring for Apache Kafka 3.3.0-M1.
+#Spring #프로젝트 #개발자
+
+14 번째 검색 내용
+제목: Swift 6에서는 낮은 수준 프로그래밍을 위한 임베디드 스쿼이트 소개
+
+(Note: There is no "Introduces" in this translation as it may not be necessary or appropriate to include it in the Korean version. The main idea of the sentence, introducing embedded Swift for low-level programming in Swift 6, is still conveyed.)
+주소: https://www.infoq.com/news/2024/07/embedded-swift/
+설명: AI : Swift 6에서는 임베디드 장치의 특정한 제약 조건을 해결하기 위해 새로운 컴파일레이션 모드를 도입했으며, 커널과 다른 낮은 수준의 코드에도 적용됩니다. 임베디드 Swift는 Swift의 대부분을 포함하고 있으며, 가치형 및 참조형 유형, 클로저, 옵셔널, 오류 처리, 제네릭 등을 포함합니다.
+#임베디드Swift #Swift6 #낮은수준코드
+
+Hashtags: #임베디드Swift, #Swift6, #낮은수준코드
+
+15 번째 검색 내용
+제목: 레디스는 벡터 의미 검색에 대한 성능을 향상시키기 위해 다중 스레드 쿼리 엔진을 사용합니다.
+주소: https://www.infoq.com/news/2024/07/redis-vector-database-genai-rag/
+설명: Redis, 메모리 데이터 구조 저장소로서 최근에는 Redis Query Engine의 향상된 버전을 발표했습니다. 이 시점에서는 검색 증강 생성(RAG)용 절차적 AI 응용프로그램에서 벡터 데이터베이스의 중요도가 높아져서입니다. Redis는 Query Engine의 개선 사항을 다중 스레딩을 활용하여 쿼리 처리량을 향상시키고 낮은 지연 시간을 유지하는 것으로 발표했습니다.
+#Redis #벡터데이터베이스 #검색증강생성(RAG) #쿼리처리량
+
+Translated content: Redis, the in-memory data structure store, has recently released its enhanced Redis Query Engine. This comes at a time when vector databases are gaining prominence due to their importance in retrieval-augmented generation (RAG) for GenAI applications. Redis announced significant improvements to its Query Engine, using multi-threading to enhance query throughput while maintaining low latency.
+#Redis #벡터데이터베이스 #검색증강생성(RAG) #쿼리처리량
+
+Hashtags: #Redis #벡터데이터베이스 #검색증강생성(RAG) #쿼리처리량
+
