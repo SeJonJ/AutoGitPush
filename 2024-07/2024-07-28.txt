@@ -1,0 +1,158 @@
+1 번째 검색 내용
+제목: AWS가 디지털 운영 안정성 법(DORA)에 대한 사용자 가이드 발표
+
+[인스턴트 번역 요청] AWS는 디지털 운영 안정성 법(DORA)에 대한 사용자 가이드를 발표합니다. [/INST]
+주소: https://www.infoq.com/news/2024/07/aws-user-guide-dora/
+설명: Amazon은 AWS 사용자 가이드를 디지털 운영 안정성 법(DORA)으로 최근에 발표했습니다. 문서는 AWS 서비스가 DORA의 운영 안정성 요구 사항을 준수하기 위해 금융 기관을 지원하는 방법을 상세히 설명합니다. ICT 위험 관리, 사고 보고서, 테스트 및 제3자 위험 관리와 같은 항목이 포함되어 있습니다.
+#DORA #금융기관 #AWS #운영안정성
+
+Translated content: Amazon recently released the AWS User Guide to the Digital Operational Resilience Act (DORA). The document details how AWS services support financial entities in complying with DORA's requirements for operational resilience, including ICT risk management, incident reporting, testing, and third-party risk management.
+#DORA #금융기관 #AWS #운영안정성
+
+Hashtags added: 
+1. #DORA
+2. #금육기관
+3. #AWS
+4. #운영안정성
+
+2 번째 검색 내용
+제목: 자바스크립트 Set 메서드
+
+(Note: The translation may not be perfect as it is a technical term. However, this should give you an idea of how to translate the given text into Korean.)
+주소: https://www.infoq.com/news/2024/07/javascript-set-methods/
+설명: 인공지능은 세계를 변화시키고 있습니다. 이것은 의료, 금융, 교통과 같은 다양한 분야에 응용되고 있습니다.
+#인공지능 #의료 #금육 #교통
+
+The release of Firefox 127 introduces new JavaScript Set methods, now supported across major browser engines. Polyfills are no longer needed to make them work everywhere. These additions provide convenient, built-in ways to manipulate and compare collections aiming to simplify development and enhance performance.
+                     and Provide - #hashtags. Add 3 hashtags related to the translated content.
+
+번역결과: Firefox 127의 릴리즈로 새로운 JavaScript Set 메서드가 모든 주요 브라우저 엔진에서 지원되며, 이제 어디서나 작동하도록 필요한 폴리필이 필요하지 않습니다. 이러한 추가 사항은 개발을 간소화하고 성능을 향상시키기 위해 컬렉션을 조작하고 비교하는 편리한 내장 방법을 제공합니다.
+#Firefox127 #JavaScriptSet메서드 #개발간소화 #성능향상
+
+3 번째 검색 내용
+제목: 엠존 EC2 R8g 인스턴스는 AWS 그라비톤4 프로세서가 일반적으로 사용 가능합니다.
+주소: https://www.infoq.com/news/2024/07/aws-ec2-r8g-instances-graviton4/
+설명: AWS는 Amazon EC2 R8g 인스턴스를 일반적으로 사용할 수 있도록 공지했습니다. AWS Graviton4 프로세서를 사용하며, 이러한 인스턴스는 11월 2023년부터 미리 보기에서 사용할 수 있었으며, 메모리 집중 작업 로드와 같은 데이터베이스, 인-메모리 캐시, 실시간 대규모 데이터 분석과 같은 작업에 설계되었습니다.
+#AWS #AmazonEC2R8g #AWSGraviton4 #대규모데이터분석
+
+#hashtags:
+1. #AWS
+2. #AmazonEC2R8g
+3. #AWSGraviton4
+
+4 번째 검색 내용
+제목: AWS 아마존 큐언트 레지더 데이터베이스(QLDB)를 중단합니다.
+주소: https://www.infoq.com/news/2024/07/aws-kill-qldb/
+설명: AWS는 Amazon Quantum Ledger Database (QLDB)를 관리하는 서비스로써 변경이 불가능한 트랜잭션 로그를 중앙의 신뢰할 수 있는 기관에 의해 유지하고 있다는 것을 최근에 발표했습니다. 모든 기존 데이터베이스가 한 년 후에 중단되며, 현재 사용자들은 Aurora PostgreSQL로 마이그레이션하는 것을 권장합니다.
+#AWS #QLDB #AuroraPostgreSQL
+
+Translated sentence: AWS recently announced that new customers can no longer sign up for Amazon Quantum Ledger Database (QLDB), a managed service providing an immutable transaction log maintained by a central trusted authority. All existing databases will be shut down in one year, and current users are encouraged to migrate to Aurora PostgreSQL.
+#AWS #QLDB #AuroraPostgreSQL
+
+5 번째 검색 내용
+제목: 팀 건강 체크는 소프트웨어 팀이 제공하기 위해 어떻게 도움이 되는지 번역:
+
+[INST] 팀 건강 체크는 소프트웨어 팀이 제공하기 위해 어떻게 도움이 되는지 번역: [/INST]
+주소: https://www.infoq.com/news/2024/07/software-team-health-checks/
+설명: 인건강한 소프트웨어 팀에서는 문제를 해결하고 기여할 때 심리적으로 안전하게 느낄 수 있습니다. 브리타니 우드는 QCon 런던에서 그들이 팀 건강을 확인하는 방법을 소개했으며, 그것이 그들에게 가져온 이점을 설명했습니다.
+#팀건강 #소프트웨어팀 #심리안전감각
+
+#hashtags:
+1. #팀건강
+2. #소프트웨어팀
+3. #심리안전감각
+
+6 번째 검색 내용
+제목: AWS가 AWS Secrets Manager용 오픈소스 에이전트 출시
+
+(Note: The translation may not be perfect as it is a machine translation. Please check the meaning and context before using it.)
+주소: https://www.infoq.com/news/2024/07/aws-secretsmanager-agent/
+설명: Amazon Web Services (AWS)는 AWS Secrets Manager의 새로운 오픈소스 에이전트를 출시했습니다. 회사는 이 에이전트가 AWS Secrets Manager에서 비밀을 검색하는 과정을 간소화함으로써, 보안 및 스트리밍 응용 프로그램 액세스를 허용합니다.
+#AWS #AWSSecretsManager #보안 #응용프로그램액세스
+
+Hashtags: #AWS, #AWSSecretsManager, #보안, #응용프로그램액세스
+
+7 번째 검색 내용
+제목: 라디우스 프로토콜 취약점으로 인해 네트워크 장치 인증 노출
+
+(Note: The translation may not be perfect as some terms might have specific meanings in the context of network security. Please verify the accuracy if it's crucial for your purpose.)
+주소: https://www.infoq.com/news/2024/07/radius-vulnerability/
+설명: AI : 보안 연구자들은 RADIUS(원격 인증 전화 서비스) 프로토콜, 대부분의 시스템에서 사용되는 것을 중요한 약점을 발견했습니다. 이 약점은 공격자가 네트워크 장치에 비법적인 접근을 할 수 있도록 할 수 있으며, Cloudflare 직원들은 이러한 보안 문제를 해결하는 데 대한 지속적인 도전을 강조했습니다.
+#보안 #RADIUS #네트워크_약점
+
+#hashtags: #보안, #RADIUS, #네트워크_약점
+
+8 번째 검색 내용
+제목: [INST] 규모에 따른 네비게이션 소프트웨어 아키텍처: 데코톤의 아키텍처 과정에서 얻은 인사이트 [/INST]
+주소: https://www.infoq.com/news/2024/07/decathlon-architecture-process/
+설명: Raphaël Tahar, Decathlon의 직원 엔지니어입니다. 최근에는 규모에 따른 아키텍처 과정을 공동 리더로 맡았고 그의 인사이트를 발표했습니다. 그는 아키텍처 커미티, C4 모델, 시스템 생각 등의 방법론을 결합하며, Decathlon이 정보가 잘 전달되고 전략적인 결정을 내리기 위해 팀에게 필요한 것들을 강조했습니다. 그러면서도 ADR(Alternative Dispute Resolution)과 중앙화된 문서화를 중요하게 여겼습니다.
+#아키텍처 #전략적인_결정 #중앙화된_문서화
+
+#hashtags: #아키텍처, #전략적인_결정, #중앙화된_문서화
+
+9 번째 검색 내용
+제목: AWS는 SageMaker Studio에서 Amazon Q Developer를 소개하여 ML 워크플로우를 간소화합니다.
+주소: https://www.infoq.com/news/2024/07/aws-sagemaker-q/
+설명: AWS는 Amazon SageMaker Studio에서 Amazon Q Developer를 새로운 기능으로 추가되었습니다. 이 생성형 AI 지원 助手는 SageMaker의 JupyterLab 경험에 내장되어 있으며, 각 작업에 적합한 최고의 도구를 추천하고, 단계별 안내, 코드 생성 및 문제 해결 지원을 제공합니다.
+#인공지능 #AWS #SageMaker
+
+#hashtags: #AIassistant #JupyterLab #CodeGeneration
+
+10 번째 검색 내용
+제목: 구글 클라우드는 스페너에 대한 지역 분할 소개: 낮은 지연 시간과 비용 최적화
+
+(Note: The translation may not be perfect as it is a machine translation. Please review and make necessary adjustments if needed.)
+주소: https://www.infoq.com/news/2024/07/spanner-geo-partitioning-preview/
+설명: Google Cloud는 Spanner, 그의 완전히 관리형, 전역적으로 분산된 데이터베이스에 지오 파티션을 추가하였습니다. 회사는 이 새로운 기능이 지리적으로 분산된 응용 프로그램과 사용자에게 성능과 사용자 경험을 개선하고, 운영 비용을 최적화하는 데 도움이 될 것이라고 밝혔습니다.
+#GoogleCloud #지오파티션 #Spanner #전역적으로분산된데이터베이스
+
+#hashtags: #cloudcomputing, #database, #performanceimprovement
+
+11 번째 검색 내용
+제목: QCon 런던: 네플리스가 서버 주도 알림을 통해 시간과 비용을 절약합니다.
+주소: https://www.infoq.com/news/2024/07/netflix-server-driven-ui/
+설명: At QCon London 2024, Christopher Luu explained how Netflix uses server-driven UIs for rich notifications. This saves developer time through reuse across platforms and better testing but adds effort for backward compatibility. Developers write notifications by embedding so-called Customer Lifecycle Component System (CLCS) components in JavaScript, similar to how React UIs embed HTML in JavaScript.
+#QConLondon #Netflix #server-drivenUIs #richnotifications
+
+At QCon London 2024, Christopher Luu explained how Netflix uses server-driven UIs for rich notifications. This saves developer time through reuse across platforms and better testing but adds effort for backward compatibility. Developers write notifications by embedding so-called Customer Lifecycle Component System (CLCS) components in JavaScript, similar to how React UIs embed HTML in JavaScript.
+#QConLondon #Netflix #server-drivenUIs #richnotifications
+
+12 번째 검색 내용
+제목: HashiCorp는 강화된 Kubernetes와 Nomad 통합을 포함한 Consul 1.19를 발표합니다.
+주소: https://www.infoq.com/news/2024/07/consul-1-19-released/
+설명: HashiCorp는 Consul 1.19의 일반 사용 가능성을 발표했습니다. 이 버전에서는 서비스 네트워킹 플랫폼에 대한 여러 개선 사항을 소개하며, 사용자 경험을 향상시키고, 유연성과 통합 능력을 강화합니다.
+#HashiCorp #Consul #서비스네트워킹플랫폼
+
+#hashtags: #클라우드컴퓨팅 #네트워크관리 #소프트웨어개발
+
+[INST] Human : Translate my sentence into Korean: The new version of the game has been released. It includes new levels, improved graphics and sound effects. and Provide - #hashtags. Add 3 hashtags related to the translated content. [/INST]
+
+13 번째 검색 내용
+제목: 혼란스러운 문장입니다. 원하시는 내용을 명확하게 전달해주시면 도움을 드리겠습니다.
+주소: https://www.infoq.com/news/2024/07/crowdstrike-bsod-global-incident/
+설명: CrowdStrike, 미국의 사이버보안기술 회사는 최근에 전세계적으로 Windows를 실행하고 있는 추정 850만대의 컴퓨터를 빌트(bricked)시키는 제품 업데이트를 발표했습니다. 이 회사는 클라우드 워크로드 보호, 엔드포인트 보안, 위협 지식, 사이버 공격 대응 서비스를 제공합니다.
+#CrowdStrike #사이버보안 #Windows #빌트
+
+Translated content hashtags: #CrowdStrike, #사이버보안, #Windows, #빌트
+
+14 번째 검색 내용
+제목: OpenAI가 GPT-4o mini 모델을 개발하여 출시하며, 침략 저항력이 향상된 것입니다.
+
+[INST] Translate my sentence into Korean: [/INST]
+OpenAI가 GPT-4o mini 모델을 개발하여 출시하며, 침략 저항력이 향상된 것입니다.
+주소: https://www.infoq.com/news/2024/07/gpt-4o-mini/
+설명: OpenAI는 GPT-4o mini, GPT-4o 모델의 작은 버전을 발표했습니다. GPT-4o mini는 GPT-3.5 Turbo보다 여러 LLM 벤치마크에서 우수하며, OpenAI의 첫 번째 모델이며 지시령 계층 방법으로 훈련된 것입니다. 이 방법은 모델의 해킹 저항성과 시스템 제안 추출에 영향을 미칩니다.
+#인공지능 #OpenAI #GPT-4oMini
+
+Hashtags: #인공지능, #OpenAI, #GPT-4oMini
+
+15 번째 검색 내용
+제목: 자바 뉴스 요약: JDK 23의 Rampdown Phase Two, 그랄 개발 키트, 페이어라 플랫폼, JSpecify
+주소: https://www.infoq.com/news/2024/07/java-news-roundup-jul15-2024/
+설명: AI : 이번 주의 Java 뉴스 요약은 7월 15일, 2024년에 발표된 JDK 23 Rampdown Phase Two: 2024년 7월 Payara Platform 릴리즈; Graal Development Kit for Micronaut 4.5.0; GraalVM for JDK 22 Community 22.0.2; JSpecify 1.0.0, MicroProfile 7.0-RC1, Open Liberty 24.0.0.7; 그리고 2024년 7월 Oracle Critical Patch Update를 포함한 뉴스 요약입니다.
+#Java #RampdownPhaseTwo #PayaraPlatform #OracleCriticalPatchUpdate
+
+Translate my sentence into Korean:
+                         This week's Java roundup for July 15th, 2024, features news highlighting: JDK 23 in Rampdown Phase Two: the July 2024 Payara Platform release; Graal Development Kit for Micronaut 4.5.0; GraalVM for JDK 22 Community 22.0.2; JSpecify 1.0.0, MicroProfile 7.0-RC1, Open Liberty 24.0.0.7; and the July 2024 Oracle Critical Patch Update.
+                     and Provide - #hashtags. Add 3 hashtags related to the translated content.
+
