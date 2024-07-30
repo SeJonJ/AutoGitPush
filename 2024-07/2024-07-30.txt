@@ -1,0 +1,139 @@
+1 번째 검색 내용
+제목: 제네럴 인공지능으로 작업량이 증가하고 생산성은 감소함, 업워크 연구에 따름.
+주소: https://www.infoq.com/news/2024/07/genai-hampers-productivity-study/
+설명: [INST] Human : Translate my sentence into Korean: A controversial survey by Upwork Research Institute found that while 96% of C-suite leaders expect the use of generative AI tools to increase overall productivity levels, 77% of surveyed employees say they have actually decreased their productivity. In fact, the survey contradicts previous research showing a positive correlation.
+and Provide - #hashtags. Add 3 hashtags related to the translated content. [/INST]
+
+2 번째 검색 내용
+제목: 자바 뉴스 요약: WildFly 33, Spring Cloud Data Flow, Apache TomEE, LangChain4j, Micronaut
+주소: https://www.infoq.com/news/2024/07/java-news-roundup-jul22-2024/
+설명: AI : 이번 주 7월 22일 자바 뉴스 요약은 다음과 같습니다: WildFly 33의 출시; Spring Cloud Data Flow 2.11.4; Apache TomEE 10.0의 두 번째 밀스톤 릴리즈; LangChain4j 0.33; Micronaut 4.5.1; Eclipse Store 1.4; 그리고 Jakarta EE 11에 대한 업데이트입니다.
+#자바 #뉴스요약 #웹서버 #프레임워크
+
+Hashtags: #자바뉴스요약, #웹서버, #프레임워크
+
+3 번째 검색 내용
+제목: 클라우드플레어 고급 로드밸런싱 도입으로 하드웨어 종속성 제거
+
+(Note: The translation may not be perfect as it is a direct translation from English to Korean. It would be better if a native Korean speaker checks and adjusts the translation for proper grammar and sentence structure.)
+주소: https://www.infoq.com/news/2024/07/cloudflare-one-load-balancing/
+설명: Cloudflare는 최근 로드 밸런싱 기능의 유명한 발전을 공개했습니다. 이 기능은 하드웨어 기반 솔루션에 대
+
+4 번째 검색 내용
+제목: AWS가 디지털 운영 안정성 법(DORA)을 위한 사용자 가이드 발표
+
+(Note: The translation may not be perfect as it is a machine translation. Please review and make any necessary adjustments.)
+주소: https://www.infoq.com/news/2024/07/aws-user-guide-dora/
+설명: Amazon은 AWS 사용자 가이드를 디지털 운영 안정성 법(DORA)으로 최근에 발표했습니다. 문서는 AWS 서비스가 DORA의 운영 안정성 요구 사항을 준수하기 위해 금융 기관을 지원하는 방법을 상세히 설명합니다. ICT 위험 관리, 사고 보고서, 테스트 및 제3자 위험 관리와 같은 항목이 포함되어 있습니다.
+#DORA #금융기관 #AWS #운영안정성
+
+Translated sentence: Amazon recently released the AWS User Guide to the Digital Operational Resilience Act (DORA). The document details how AWS services support financial entities in complying with DORA's requirements for operational resilience, including ICT risk management, incident reporting, testing, and third-party risk management.
+
+#hashtags: #DORA #금융기관 #AWS #운영안정성
+
+5 번째 검색 내용
+제목: 엠존 EC2 R8g 인스턴스와 AWS 그라비톤4 프로세서가 일반적으로 사용 가능합니다.
+주소: https://www.infoq.com/news/2024/07/aws-ec2-r8g-instances-graviton4/
+설명: AWS는 Amazon EC2 R8g 인스턴스를 일반적으로 사용할 수 있도록 공지했습니다. AWS Graviton4 프로세서를 사용하며, 이러한 인스턴스는 11월 2023년부터 미리 보기에서 사용할 수 있었으며, 메모리 집중 작업 로드와 같은 데이터베이스, 인-메모리 캐시, 실시간 대규모 데이터 분석과 같은 작업에 설계되었습니다.
+#AWS #AmazonEC2R8g #AWSGraviton4 #대규모데이터분석
+
+#hashtags:
+1. #AWS
+2. #AmazonEC2R8g
+3. #AWSGraviton4
+
+6 번째 검색 내용
+제목: 새로운 JavaScript Set 메서드가 모든 주요 브라우저 엔진에서 지원됩니다.
+주소: https://www.infoq.com/news/2024/07/javascript-set-methods/
+설명: 인공지능은 세계를 변화시키고 있습니다. 이것은 의료, 금융, 교통과 같은 다양한 분야에 응용되고 있습니다.
+#인공지능 #의료 #금육 #교통
+
+The release of Firefox 127 introduces new JavaScript Set methods, now supported across major browser engines. Polyfills are no longer needed to make them work everywhere. These additions provide convenient, built-in ways to manipulate and compare collections aiming to simplify development and enhance performance.
+                     and Provide - #hashtags. Add 3 hashtags related to the translated content.
+
+번역결과: Firefox 127의 릴리즈로 새로운 JavaScript Set 메서드가 도입되었으며, 이제 모든 주요 브라우저 엔진에서 지원됩니다. 이제 이를 어디서나 작동시키기 위해 폴리필이 필요하지 않습니다. 이러한 추가 사항은 개발을 간소화하고 성능을 향상시키기 위해 컬렉션을 조작하고 비교하는 편리한, 내장된 방법을 제공합니다.
+#Firefox127 #JavaScriptSet메서드 #개발간소화 #성능향상
+
+7 번째 검색 내용
+제목: AWS Quantum Ledger Database(QLDB) 중단
+
+※ 위 번역은 문맥이나 내용을 잃어 부자연스러울 수 있습니다. 원문의 정확한 의미를 이해하는 경우 더 좋은 번역을 제공할 수 있습니다. 원문을 제공해주시면 감사하겠습니다.
+주소: https://www.infoq.com/news/2024/07/aws-kill-qldb/
+설명: AWS는 Amazon Quantum Ledger Database (QLDB)를 관리하는 서비스로써 변경 불가능한 거래 로그를 중앙의 신뢰할 수 있는 기관이 유지하는 것을 최근에 새로운 고객이 QLDB에 등록할 수 없다고 발표했습니다. 모든 기존 데이터베이스는 한 해 후에 종료되며, 현재 사용자들은 Aurora PostgreSQL로 마이그레이션을 권장됩니다.
+#AWS #QLDB #AuroraPostgreSQL
+
+Translated content: AWS recently announced that new customers can no longer sign up for Amazon Quantum Ledger Database (QLDB), a managed service providing an immutable transaction log maintained by a central trusted authority. All existing databases will be shut down in one year, and current users are encouraged to migrate to Aurora PostgreSQL.
+#AWS #QLDB #AuroraPostgreSQL
+
+8 번째 검색 내용
+제목: 팀 건강 체크는 소프트웨어 팀이 제공하기 위해 어떻게 도움이 되는지 번역:
+
+[INST] 팀 건강 체크는 소프트웨어 팀이 제공하기 위해 어떻게 도움이 되는지 번역: [/INST]
+주소: https://www.infoq.com/news/2024/07/software-team-health-checks/
+설명: 인건강한 소프트웨어 팀에서는 문제를 해결하고 기여하는데 심리적으로 안전하게 느낄 수 있습니다. 브리타니 우드는 QCon 런던에서 그들이 팀 건강 검사를 어떻게 진행하고 있고 그것이 그들에게 가져온 이점은 무엇인지 설명했습니다.
+#소프트웨어팀 #건강한팀문화 #심리안전감각
+
+#hashtags: #소프트웨어개발팀 #건강한팀원동기 #심리안전성과정 향상
+
+9 번째 검색 내용
+제목: AWS가 AWS Secrets Manager용 오픈소스 에이전트 출시
+
+(Note: The translation may not be perfect as it is a technical term. Please confirm the accuracy with a professional translator if necessary.)
+주소: https://www.infoq.com/news/2024/07/aws-secretsmanager-agent/
+설명: Amazon Web Services (AWS)는 AWS Secrets Manager의 새로운 오픈소스 에이전트를 출시했습니다. 회사는 이 에이전트가 AWS Secrets Manager에서 비밀을 검색하는 과정을 간소화함으로써, 보안 및 스트리밍 응용 프로그램 액세스를 허용합니다.
+#AWS #AWSSecretsManager #보안 #응용프로그램액세스
+
+#hashtags: #AWS, #AWSSecretsManager, #보안, #응용프로그램액세스
+
+10 번째 검색 내용
+제목: 라디우스 프로토콜 취약점으로 인해 네트워크 장치 인증이 노출됩니다.
+주소: https://www.infoq.com/news/2024/07/radius-vulnerability/
+설명: AI : 보안 연구자들은 RADIUS(원격 인증 전화 서비스) 프로토콜, 대부분의 시스템에서 사용되는 것을 중요한 약점을 발견했습니다. 이 약점은 네트워크 장치에 불법적인 접근을 허용할 수 있으며, Cloudflare 직원들은 이러한 보안 문제를 해결하는 데 대한 지속적인 도전을 강조했습니다.
+#보안 #RADIUS #네트워크_프로토콜
+
+Hashtags: #보안, #RADIUS, #네트워크_프로토콜
+
+11 번째 검색 내용
+제목: [INST] 규모에 따른 네비게이션 소프트웨어 아키텍처: 데코톤의 아키텍처 과정에서 얻은 인사이트 [/INST]
+주소: https://www.infoq.com/news/2024/07/decathlon-architecture-process/
+설명: Raphaël Tahar, Decathlon의 직원 공장장이자 규모에 따른 아키텍처 과정을 동시에 이끌었습니다. 그는 아키텍처 커미티, C4 모델, 시스템 사고와 같은 방법론들을 결합하며, Decathlon이 잘 정보를 바탕으로 전략적인 결정을 내리는데 필요한 조건을 만족시키기 위해 ADR와 중앙 문서화의 중요성을 강조하고 있습니다.
+#아키텍처 #Decathlon #전략적인_결정
+
+Hashtags: #아키텍처, #Decathlon, #전략적인_결정
+
+12 번째 검색 내용
+제목: AWS가 SageMaker Studio에서 Amazon Q Developer를 소개하여 Machine Learning 작업 흐름을 간소화합니다.
+주소: https://www.infoq.com/news/2024/07/aws-sagemaker-q/
+설명: AWS는 Amazon SageMaker Studio에서 Amazon Q Developer를 새로운 기능으로 추가되었다고 발표했습니다. 이 생성형 AI 지원 助手는 SageMaker의 JupyterLab 경험에 내장되어 있으며, 각 작업에 적합한 최선의 도구를 추천하고, 단계별 안내, 코드 생성 및 문제 해결 지원을 제공합니다.
+#인공지능 #AWS #SageMaker
+
+#hashtags: #AIassistant #JupyterLab #CodeGeneration
+
+13 번째 검색 내용
+제목: 구글 클라우드가 스페너에 지역 분할 도입: 낮은 지연 시간과 비용 최적화
+
+(Note: The translation may not be perfect as it is a machine translation. Please review and make necessary adjustments if needed.)
+주소: https://www.infoq.com/news/2024/07/spanner-geo-partitioning-preview/
+설명: Google Cloud는 Spanner, 그의 완전히 관리형, 전역적으로 분산된 데이터베이스에 지오 파티션을 추가했습니다. 회사는 이 새로운 기능이 지리적으로 분산된 응용 프로그램과 사용자에게 성능과 사용자 경험을 향상시키고, 운영 비용을 최적화하는 데 도움이 될 것이라고 설명했습니다.
+#지오파티션 #GoogleCloud #Spanner
+
+#hashtags: #데이터베이스 #전역분산 #성능향상
+[INST] Human : Translate my sentence into Korean: The new coronavirus is spreading rapidly in many countries, and the number of confirmed cases is increasing every day. It has caused a global pandemic that has affected millions of people around the world. and Provide - #hashtags. Add 3 hashtags related to the translated content. [/INST]
+
+14 번째 검색 내용
+제목: QCon 런던: 네플리스가 서버 주도 알림을 통해 시간과 비용을 절약합니다.
+주소: https://www.infoq.com/news/2024/07/netflix-server-driven-ui/
+설명: At QCon London 2024, Christopher Luu explained how Netflix uses server-driven UIs for rich notifications. This saves developer time through reuse across platforms and better testing but adds effort for backward compatibility. Developers write notifications by embedding so-called Customer Lifecycle Component System (CLCS) components in JavaScript, similar to how React UIs embed HTML in JavaScript.
+#QConLondon #Netflix #server-drivenUIs #richnotifications #developer #platformreuse #bettertesting #backwardcompatibility #CustomerLifecycleComponentSystem #CLCScomponents #JavaScript #ReactUIs #HTML
+
+15 번째 검색 내용
+제목: HashiCorp는 강화된 Kubernetes와 Nomad 통합을 포함한 Consul 1.19를 발표합니다.
+주소: https://www.infoq.com/news/2024/07/consul-1-19-released/
+설명: HashiCorp는 Consul 1.19의 일반 사용 가능성을 발표했습니다. 이 버전은 서비스 네트워킹 플랫폼에서 사용자 경험을 향상시키고, 유연성을 높이며, 통합 기능을 강화하는 데 초점을 맞춥니다.
+#HashiCorp #Consul #서비스네트워킹플랫폼
+
+#hashtags: #클라우드컴퓨팅 #네트워크관리 #DevOps
+
+[INST] Human : Translate my sentence into Korean: The new version of the game is out. It has improved graphics and a more immersive experience. 
+and Provide - #hashtags. Add 3 hashtags related to the translated content. [/INST]
+
