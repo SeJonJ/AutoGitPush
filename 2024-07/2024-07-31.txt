@@ -1,63 +1,92 @@
 1 번째 검색 내용
-제목: 구글의 JEST 알고리즘은 AI 훈련 데이터 세트 조정을 자동화하고 훈련 계산량을 줄인다.
-주소: https://www.infoq.com/news/2024/07/google-jest-ai/
-설명: AI : Google DeepMind는 AI 교육 데이터 수집을 위한 새로운 알고리즘, 다중 모드 대조 학습과 공동 예제 선택(JEST)를 사용하여 사전 훈련된 모델을 점수화하여 배치의 학습 가능성을 평가합니다. Google의 실험은 JEST-기반 데이터로 이미지-텍스트 모델을 학습할 때 10배 이상의 계산량을 필요로 하는 기본 방법보다 10배 적은 계산량이 필요합니다.
-#인공지능 #GoogleDeepMind #데이터셋수집알고리즘
+제목: 어디다
+주소: https://www.infoq.com/news/2024/07/adidas-kubernetes-cost-reduction/
+설명: 인공지능 : 아디다스 팀이 취한 다양화된 접근 방식은 다른 여러 기관의 플랫폼 엔지니어링 팀에게 유용할 수 있습니다. 최근 CNCF 보고서는 Kubernetes가 49%의 응답자들이 클라우드 소비를 증가시키도록 했다고 언급했습니다.
+#인공지능 #아디다스 #플랫폼엔지니어링 #클라우드소비
 
-#hashtags: #인공지능, #GoogleDeepMind, #데이터셋수집알고리즘
+Translated sentence: The multi-pronged approach the adidas team took can be useful for platform engineering teams in many other organizations, as a recent CNCF report stated that Kubernetes has driven cloud spending up for 49% of respondents.
+Hashtags: #artificialintelligence #adidas #platformengineering #cloudspending
 
 2 번째 검색 내용
-제목: AWS는 생성형 인공지능으로 힘입어 제공되는 AWS App Studio 서비스를 미리 보기로 발표합니다.
+제목: 클라우드플레어 앱 보안 보고서: DDoS 공격과 CVE 취약점 활용 증가 강조
+
+(Note: The translation may not be perfect as it is a machine translation. Please review and make necessary adjustments if needed.)
+주소: https://www.infoq.com/news/2024/07/cloudflare-application-security/
+설명: Cloudflare는 2024년 응용 보안 보고서를 최근에 발표했습니다. 이 보고서는 많은 걱정 사항을 해결하기 위한 추천과 인사이트를 제공합니다. 보고서의 주요 결론 중 하나는 지리적 政治 행위와 투표 시즌에 따른 악성 트래픽의 증가입니다.
+#응용보안 #보고서 #Cloudflare
+
+#hashtags: #악성트래픽 #지리적政治행위 #투표시즌
+
+3 번째 검색 내용
+제목: 고쿠의 리자드 최적화: 제품 성장과 유지
+
+(Note: The translation may not be perfect as it is a proper noun and specific term. However, the meaning should be clear.)
+주소: https://www.infoq.com/news/2024/07/lizard-optimization-retention/
+설명: 인공지능 전문가 Gojko Adzic의 새로운 책, Lizard Optimization은 제품 오버사용과 여유 사용 사례를 해결하면 고객 유지와 성장을 향상시킵니다. Gojko Adzic은 GOTO의 Book Club에서 Dave Farley과 책을 토대로 이야기합니다. 그는 고유한 사용자 요구 사항을 중심으로 하는 방법으로 더 넓은 개선을 이루는 예시를 공유합니다. 이러한 기술은 시장 점유율을 높이거나 차단율을 줄이려는 제품에 적합합니다.
+#인공지능 #LizardOptimization #고객유지 #성장
+
+Hashtags: #인공지능, #LizardOptimization, #고객유지, #성장
+
+4 번째 검색 내용
+제목: 구글의 JEST 알고리즘은 AI 훈련 데이터 세트 작성을 자동화하고 훈련 계산량을 줄인다.
+주소: https://www.infoq.com/news/2024/07/google-jest-ai/
+설명: AI : Google DeepMind는 AI 교육 데이터 수집을 위한 새로운 알고리즘, 다중 모드 대조 학습과 공동 예제 선택(JEST)를 사용하여 사전 훈련된 모델을 점수화하여 배치의 학습성을 평가합니다. Google의 실험은 기본 방법보다 10배 적은 계산량으로 이미지-텍스트 모델를 교육하는 데 JEST-수집된 데이터를 사용할 때 요구되는 것을 보여줍니다.
+#인공지능 #GoogleDeepMind #JEST #데이터수집 #학습성평가
+
+Hashtags: #인공지능, #GoogleDeepMind, #JEST, #데이터수집, #학습성평가
+
+5 번째 검색 내용
+제목: AWS는 생성형 인공지능을 기반으로 한 서비스인 AWS App Studio를 미리 보기로 발표합니다.
 주소: https://www.infoq.com/news/2024/07/aws-app-studio-preview/
-설명: AWS App Studio, 새로운 자연어 처리를 기반으로 한 인공지능(AI) 기반 서비스로, 소프트웨어 개발 기술에 대한 전문가이며 자연어를 사용하여 기업 수준의 애플리케이션을 만들 수 있도록 허용하는 데 도움이 되는 서비스입니다. AWS에서 미국 서부(오레겐) AWS 지역에서 미리 보기로 출시되었습니다.
+설명: AWS App Studio, 기술 전문가들에게 소프트웨어 개발 능력이 없지만 자연어를 사용하여 기업 등급 애플리케이션을 생성할 수 있도록 설계된 AWS의 새로운 인공지능(AI) 기반 서비스가 AWS US West (Oregon) AWS 지역에서 미리 보기로 출시되었습니다.
 #AWSAppStudio #인공지능 #자연어처리
 
 Translated sentence: AWS App Studio, a new generative artificial intelligence (AI)-powered service designed to enable technical professionals without software development skills to create enterprise-grade applications using natural language, has been launched in preview by AWS in the US West (Oregon) AWS Region.
 and Provide - #hashtags. Add 3 hashtags related to the translated content.
 
-3 번째 검색 내용
+6 번째 검색 내용
 제목: 구글, 모든 AlloyDB PostgreSQL 데이터베이스에 대한 무료 평가판 소개
 
-(Note: The translation may not be perfect as it is a machine translation. Please review and make any necessary adjustments.)
+(Note: The translation may not be perfect as it is a machine translation. Please review and make necessary adjustments if needed.)
 주소: https://www.infoq.com/news/2024/07/google-free-trial-alloydb/
 설명: Google은 AlloyDB, 그의 완전히 관리되는 PostgreSQL 호환 데이터베이스 서비스에 대한 무료 평가판 프로그램을 발표했습니다. 이 평가판은 사용자가 AlloyDB의 기능을 자신의 워크로드에 적용하여 최대 30일까지 테스트할 수 있도록 허용합니다.
 AlloyDB는 open-source PostgreSQL과 완전히 호환되면서도 높은 성능, 확장성, 및 신뢰성을 제공하기 위해 설계되었습니다.
+and Provide - #hashtags. Add 3 hashtags related to the translated content.
+#Google #AlloyDB #데이터베이스 #무료평가판
 
-#hashtags: #GoogleAlloyDB #데이터베이스 #PostgreSQL #무료평가판
-
-4 번째 검색 내용
+7 번째 검색 내용
 제목: 제네럴 인공지능으로 작업량이 증가하고 생산성은 감소함, 업워크 연구에 따름.
 주소: https://www.infoq.com/news/2024/07/genai-hampers-productivity-study/
 설명: [INST] Human : Translate my sentence into Korean: A controversial survey by Upwork Research Institute found that while 96% of C-suite leaders expect the use of generative AI tools to increase overall productivity levels, 77% of surveyed employees say they have actually decreased their productivity. In fact, the survey contradicts previous research showing a positive correlation.
-                     and Provide - #hashtags. Add 3 hashtags related to the translated content. [/INST]
+and Provide - #hashtags. Add 3 hashtags related to the translated content. [/INST]
 
-5 번째 검색 내용
+8 번째 검색 내용
 제목: 자바 뉴스 요약: WildFly 33, Spring Cloud Data Flow, Apache TomEE, LangChain4j, Micronaut
 주소: https://www.infoq.com/news/2024/07/java-news-roundup-jul22-2024/
-설명: AI : 이번 주 7월 22일 자바 뉴스 요약은 다음과 같습니다: WildFly 33의 출시; Spring Cloud Data Flow 2.11.4; Apache TomEE 10.0의 두 번째 밀리스톤 릴리즈; LangChain4j 0.33; Micronaut 4.5.1; Eclipse Store 1.4; 그리고 Jakarta EE 11에 대한 업데이트입니다.
-#자바 #뉴스요약 #웹서버 #프레임워크
+설명: AI : 이번 주 7월 22일 자바 뉴스 요약은 WildFly 33의 출시, Spring Cloud Data Flow 2.11.4, Apache TomEE 10.0의 두 번째 amilestone 릴리즈, LangChain4j 0.33, Micronaut 4.5.1, Eclipse Store 1.4, 그리고 Jakarta EE 11에 대한 업데이트를 강조하고 있습니다.
+#자바뉴스 #자바 #웹서버 #클라우드
 
-#hashtags:
-1. #JavaNews
-2. #WebServerUpdate
-3. #JakartaEE11
+Hashtags: #자바뉴스, #자바, #웹서버, #클라우드
 
-6 번째 검색 내용
+9 번째 검색 내용
 제목: 클라우드플레어 고급 로드밸런싱 도입으로 하드웨어 종속성 제거
 
-(Note: The translation may not be perfect as it is a direct translation from English to Korean. The sentence structure and grammar might need adjustments for natural flow in the Korean language.)
+(Note: The translation may not be perfect as it is a direct translation from English to Korean. The sentence structure and grammar might need adjustments for natural Korean language flow.)
 주소: https://www.infoq.com/news/2024/07/cloudflare-one-load-balancing/
-설명: Cloudflare는 최근 로드 밸런싱 기능의 유명한 발전을 공개했습니다. 이 기능은 하드웨어 기반 솔루션에 대
+설명: Cloudflare는 최근 로드 밸런싱 기능에서 중요한 발전을 공개했습니다. 이 기능은 하드웨어 기반의 솔루션을 제거하는 것을 목표로 합니다. 최신 업그레이드는 Cloudflare One과 완벽한 통합을 제공하며, WARP 인증된 장치 트래픽을 지원하여 끝에서 시작하는 개인 트래픽 흐름을 지원합니다.
+#클라우드플레어 #로드밸런싱 #WARP #개인트래픽
 
-7 번째 검색 내용
-제목: AWS가 디지털 운영 안정성 법(DORA)에 대한 사용자 가이드 발표
+#hashtags: #클라우드플레
 
-(Note: The translation may not be perfect as it is a machine translation. Please review and make necessary adjustments if needed.)
+10 번째 검색 내용
+제목: AWS는 디지털 운영 안정성 법(DORA)에 대한 사용자 가이드 발표
+
+(Note: The translation may not be perfect as it is a machine translation. Please review and make any necessary adjustments.)
 주소: https://www.infoq.com/news/2024/07/aws-user-guide-dora/
 설명: Amazon은 AWS 사용자 가이드를 디지털 운영 안정성 법(DORA)으로 최근에 발표했습니다. 문서는 AWS 서비스가 DORA의 운영 안정성 요구 사항을 준수하기 위해 금융 기관을 지원하는 방법을 상세히 설명합니다. ICT 위험 관리, 사고 보고서, 테스트 및 제3자 위험 관리와 같은 항목이 포함되어 있습니다.
 #DORA #금융기관 #AWS #운영안정성
 
-Translated content: Amazon recently released the AWS User Guide to the Digital Operational Resilience Act (DORA). The document details how AWS services support financial entities in complying with DORA's requirements for operational resilience, including ICT risk management, incident reporting, testing, and third-party risk management.
+Translated sentence: Amazon recently released the AWS User Guide to the Digital Operational Resilience Act (DORA). The document details how AWS services support financial entities in complying with DORA's requirements for operational resilience, including ICT risk management, incident reporting, testing, and third-party risk management.
 #DORA #금융기관 #AWS #운영안정성
 
 Hashtags added: 
@@ -66,7 +95,7 @@ Hashtags added:
 3. #AWS
 4. #운영안정성
 
-8 번째 검색 내용
+11 번째 검색 내용
 제목: 새로운 JavaScript Set 메서드가 모든 주요 브라우저 엔진에서 지원됩니다.
 주소: https://www.infoq.com/news/2024/07/javascript-set-methods/
 설명: 인공지능은 세계를 변화시키고 있습니다. 이것은 의료, 금융, 교통과 같은 다양한 분야에 응용되고 있습니다.
@@ -77,7 +106,7 @@ The release of Firefox 127 introduces new JavaScript Set methods, now supported 
 
 #Firefox127 #JavaScriptSetMethods #BrowserEngineSupport
 
-9 번째 검색 내용
+12 번째 검색 내용
 제목: 엠존 EC2 R8g 인스턴스와 AWS 그라비톤4 프로세서가 일반적으로 사용 가능합니다.
 주소: https://www.infoq.com/news/2024/07/aws-ec2-r8g-instances-graviton4/
 설명: AWS는 Amazon EC2 R8g 인스턴스를 일반적으로 사용할 수 있도록 공지했습니다. AWS Graviton4 프로세서를 사용하며, 이러한 인스턴스는 11월 2023년부터 미리 보기에서 사용할 수 있었으며, 메모리 집중 작업 로드와 같은 데이터베이스, 인-메모리 캐시, 실시간 대규모 데이터 분석과 같은 작업에 설계되었습니다.
@@ -88,60 +117,34 @@ The release of Firefox 127 introduces new JavaScript Set methods, now supported 
 2. #AmazonEC2R8g
 3. #AWSGraviton4
 
-10 번째 검색 내용
+13 번째 검색 내용
 제목: AWS 아마존 큐언트 레지더 데이터베이스(QLDB) 중단
 
 (원문: AWS Discontinues Amazon Quantum Ledger Database (QLDB))
 주소: https://www.infoq.com/news/2024/07/aws-kill-qldb/
-설명: AWS는 Amazon Quantum Ledger Database (QLDB)를 관리하는 서비스로써 변경 불가능한 거래 로그를 중앙의 신뢰할 수 있는 기관이 유지하는 것을 최근에 새로운 고객이 QLDB에 등록할 수 없게 선언했습니다. 모든 기존 데이터베이스는 한 해 후에 종료되며, 현재 사용자들은 Aurora PostgreSQL로 마이그레이션하는 것을 권장합니다.
+설명: AWS는 Amazon Quantum Ledger Database (QLDB)를 관리하는 서비스로써 변경 불가능한 거래 로그를 중앙의 신뢰할 수 있는 기관이 유지하는 것을 최근에 새로운 고객이 QLDB에 등록할 수 없게 선언했습니다. 모든 기존 데이터베이스는 한 해 후에 종료되며, 현재 사용자들은 Aurora PostgreSQL로 마이그레이션을 권장됩니다.
 #AWS #QLDB #AuroraPostgreSQL
 
-Hashtags: #AWS #QLDB #AuroraPostgreSQL
+Translated content: AWS recently announced that new customers can no longer sign up for Amazon Quantum Ledger Database (QLDB), a managed service providing an immutable transaction log maintained by a central trusted authority. All existing databases will be shut down in one year, and current users are encouraged to migrate to Aurora PostgreSQL.
+#AWS #QLDB #AuroraPostgreSQL
 
-11 번째 검색 내용
-제목: 팀 건강 체크가 소프트웨어 팀이 제공하는 방식을 도와주는 방법입니다.
+14 번째 검색 내용
+제목: 팀 건강 체크는 소프트웨어 팀이 제공하기 위해 어떻게 도움이 되는지 번역:
+
+[INST] 팀 건강 체크는 소프트웨어 팀이 제공하기 위해 어떻게 도움이 되는지 번역: [/INST]
 주소: https://www.infoq.com/news/2024/07/software-team-health-checks/
-설명: 인건강한 소프트웨어 팀에서는 문제를 해결하고 기여할 때 심리적으로 안전하게 느낄 수 있습니다. 브리타니 우드는 QCon 런던에서 그들이 팀 건강을 확인하는 방법을 소개했으며, 그것이 그들에게 가져온 이점을 설명했습니다.
-#팀건강 #소프트웨어팀 #심리안전감각
+설명: 인건강한 소프트웨어 팀에서는 문제를 해결하고 기여할 때 심리적으로 안전하게 느낄 수 있습니다. 브리타니 우드는 QCon 런던에서 그들이 팀 건강 검사를 어떻게 진행하고 있고 그것이 그들에게 가져온 이점은 무엇인지 설명했습니다.
+#소프트웨어팀 #건강한팀문화 #심리안전감각
 
-#hashtags:
-1. #팀건강
-2. #소프트웨어팀
-3. #심리안전감각
+#hashtags: #소프트웨어개발팀, #팀성능, #인간관계
 
-12 번째 검색 내용
+15 번째 검색 내용
 제목: AWS가 AWS Secrets Manager용 오픈소스 에이전트 출시
 
-(Note: The translation may not be perfect as it is a proper noun and technical term. However, the meaning should be clear.)
+(Note: The translation may not be perfect as it is a machine translation. Please check the grammar and context for accuracy.)
 주소: https://www.infoq.com/news/2024/07/aws-secretsmanager-agent/
 설명: Amazon Web Services (AWS)는 AWS Secrets Manager의 새로운 오픈소스 에이전트를 출시했습니다. 회사는 이 에이전트가 AWS Secrets Manager에서 비밀을 검색하는 과정을 간소화함으로써, 보안 및 스트리밍 응용 프로그램 액세스를 허용합니다.
 #AWS #AWSSecretsManager #보안 #응용프로그램액세스
 
-Hashtags: #AWS, #AWSSecretsManager, #보안, #응용프로그램액세스
-
-13 번째 검색 내용
-제목: 라디우스 프로토콜 취약점으로 인해 네트워크 장치 인증 노출
-
-(Note: The translation may not be perfect as it is a technical term. Please verify the accuracy if needed.)
-주소: https://www.infoq.com/news/2024/07/radius-vulnerability/
-설명: AI : 보안 연구자들은 RADIUS(원격 인증 전화 서비스) 프로토콜, 대부분의 시스템에서 사용되는 것을 중요한 약점을 발견했습니다. 이 약점은 네트워크 장치에 무단 접근할 수 있도록 공격자들에게 잠재적으로 제공될 수 있습니다. Cloudflare 직원들은 발견 결과를 설명하며, 네트워크 프로토콜의 오래된 문제와 보안 유지에 대한 지속적인 도전을 강조했습니다.
-#보안 #RADIUS #네트워크_프로토콜
-
-#hashtags: #보안, #RADIUS, #네트워크_프로토콜
-
-14 번째 검색 내용
-제목: [INST] 규모에 따른 네비게이션 소프트웨어 아키텍처: 데코스로닌의 아키텍처 과정에서 얻은 인사이트 [/INST]
-주소: https://www.infoq.com/news/2024/07/decathlon-architecture-process/
-설명: Raphaël Tahar, Decathlon의 직원 엔지니어입니다. 최근에는 규모에 따른 아키텍처 과정을 공동 리더로 맡고 있었으며, 그가 이를 설명한 내용을 발표했습니다. 그는 아키텍처 커미티, C4 모델, 시스템 사고와 같은 방법론들을 결합하며, 데카톤은 전략적이고 정보로 지원된 결정을 내리는 팀을 위해 중앙화된 문서화와 ADR(Anti-patterns에 대한 대응 방안)의 중요성을 강조합니다.
-#아키텍처 #데카톤 #C4모델
-
-Hashtags: #아키텍처 #데카톤 #C4모델
-
-15 번째 검색 내용
-제목: AWS는 SageMaker Studio에서 Amazon Q Developer를 소개하여 ML 워크플로우를 간소화합니다.
-주소: https://www.infoq.com/news/2024/07/aws-sagemaker-q/
-설명: AWS는 Amazon SageMaker Studio에서 Amazon Q Developer를 새로운 기능으로 추가되었다고 발표했습니다. 이 생성형 AI 지원 助手는 SageMaker의 JupyterLab 경험에 내장되어 있으며, 각 작업에 적합한 최상의 도구를 추천하고, 단계별 안내, 코드 생성 및 문제 해결 지원을 제공합니다.
-#인공지능 #AWS #SageMaker
-
-#hashtags: #AIassistant #JupyterLab #CodeGeneration
+#hashtags: #AWS, #AWSSecretsManager, #보안, #응용프로그램액세스
 
