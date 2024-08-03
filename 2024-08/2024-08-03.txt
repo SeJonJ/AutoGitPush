@@ -1,125 +1,109 @@
 1 번째 검색 내용
-제목: AWS 다양한 서비스 중단, 커뮤니티에서의 우려 증대
-
-(Note: AWS refers to Amazon Web Services, which is a proper noun. In Korean, it remains as "AWS" but with the addition of the Korean word for "Amazon," which is "엑스소셜" or "eksoseol.")
+제목: AWS 다양한 서비스 중지, 커뮤니티에서의 우려를 일으킨다.
 주소: https://www.infoq.com/news/2024/08/aws-discontinue-services/
-설명: AWS는 처음으로 이력에서 몇 일 만에 여러 관리 서비스를 중지했습니다. 중단된 서비스 중 하나는 소스 제어 AWS CodeCommit, 클라우드 기반 IDE AWS Cloud9, 그리고 시계열 예측 서비스 Amazon Forecast입니다. 이러한 중지 사항은 커뮤니티에서 명확한 통신의 부재로 인해 걱정을 끼쳤습니다.
-#AWS #관리서비스 #소스제어 #예측서비스
+설명: AWS는 처음으로 이력에서 몇 일 만에 여러 관리 서비스를 중지했습니다. 중단된 서비스 중 하나는 소스 제어 AWS CodeCommit, 클라우드 기반 IDE AWS Cloud9, 그리고 시간 시리즈 예측 서비스 Amazon Forecast입니다. 이러한 중지 사항은 커뮤니티에서 명확한 통신의 부재로 인해 걱정을 끼쳤습니다.
+#AWS #관리_서비스 #소스_제어 #예측_서비스
 
-#hashtags: #AWS #관리서비스 #소스제어 #예측서비스 #클라우드기반IDE #걱정 #명확한통신
+#hashtags: #AWS #관리_서비스 #소스_제어 #예측_서비스 #클라우드_기반_IDE #걱정 #명확한_통신 #커뮤니티
 
 2 번째 검색 내용
 제목: 메타는 AI 추론을 최적화하여 꼬리 사용률을 개선합니다.
 주소: https://www.infoq.com/news/2024/08/meta-tail-utilisation/
-설명: Meta (formerly Facebook)는 기계학습 모델 서비스 인프라의 효율성과 신뢰도를 크게 개선하였습니다. 이를 위해 꼬리 사용량을 최적화하는 것에 집중했습니다.
+설명: Meta (formerly Facebook)는 기계학습 모델 서비스 인프라의 효율성과 신뢰도를 크게 개선하였습니다. 이것은 꼬리 사용량을 최적화하는 것으로 집중했습니다.
 #Meta #기계학습 #효율성 #신뢰도
 
 #hashtags: #기업기술 #인프라구축 #데이터분석
 
 3 번째 검색 내용
-제목: 증가하는 생산성을 위해 이중 목적 스트림 정렬과 플랫폼 소프트웨어 팀으로 되어 있습니다.
+제목: 증가하는 생산성을 위해 이중 목적 스트림으로 정렬된 및 플랫폼 소프트웨어 팀으로 되어있습니다.
 주소: https://www.infoq.com/news/2024/08/dual-purpose-software-team/
-설명: 소프트웨어 팀은 효율적이고 질의 유지를 위해 많은 작업량을 처리하기 위해 두 가지 목적을 가진다: 스트림 정렬과 플랫폼입니다. 그들은 주요 응용 프로그램을 API-first로 재작성하고, 고객에게 노출되는 제품과 함께 마이크로 리눅스를 구현하여 종단점 사용자에게 빠르게 가치를 제공하고 팀의 성과 흐름을 유지할 수 있도록 합니다.
+설명: 소프트웨어 팀은 효율적이고 질의 유지를 위해 늘어난 작업량을 관리하기 위해 두 가지 목적을 달성할 수 있도록 변화를 이루었습니다: 스트림 정렬과 플랫폼입니다. 그들은 주요 응용 프로그램을 API-first로 재작성하고, 고객에게 노출되는 제품과 함께 마이크로 릴리스를 구현했습니다. 이러한 방식으로 종단 간 사용자에게 가치를 제공하고 팀에게 일관된 성과의 흐름을 유지할 수 있었습니다.
+#소프트웨어 #효율성 #API-first
 
-#소프트웨어 #API-first #마이크로서비스 #효율성
-#인공지능 #의료 #금융 #교통
+#hashtags: #스트림_정렬 #플랫폼 #마이크로서비스
 
 4 번째 검색 내용
-제목: 구글 클라우드는 스캔너를 두 지역 구성으로 향상시킵니다.
+제목: 구글 클라우드는 스캔너를 더블 지역 구성으로 향상시킵니다.
 주소: https://www.infoq.com/news/2024/08/spanner-dual-region/
-설명: Google Cloud는 Spanner, 분산된 관계형 데이터베이스 서비스를 완전히 관리하고 있습니다. 이제 두 지역 구성 옵션을 제공합니다. 국가별 데이터 주거 규칙을 준수하는 기업에게 이 개선 사항으로 도움이 될 것입니다.
-#GoogleCloud #Spanner #데이터베이스 #데이터 주거 규칙
+설명: Google Cloud는 Spanner, 분산된 관계형 데이터베이스 서비스를 완전히 관리하고 있습니다. 이제 두 지역 구성 옵션을 제공합니다. 국가별 데이터 주거 규칙을 준수하는 기업에게 이 개선 사항으로 도움이 됩니다. 이를 통해 고객은 국가별 클라우드 지원이 제한되는 국가에서 데이터 고유성을 보장하면서 높은 가용성을 확보할 수 있습니다.
+#GoogleCloud #Spanner #데이터 주거 #클라우드 지원
 
-Translate my sentence into Korean:
-                         The new update to Google Cloud's fully-managed distributed SQL database service, Spanner, now offers a dual-region configuration option. This enhancement aims to help enterprises comply with data residency norms across countries with limited cloud support while ensuring high availability.
-                     and Provide - #hashtags. Add 3 hashtags related to the translated content. [/INST]
+Translated sentence: Google Cloud has introduced a significant update to its fully-managed distributed SQL database service, Spanner, which now offers a dual-region configuration option. The company aims with this enhancement to assist enterprises in complying with data residency norms across countries with limited cloud support while ensuring high availability.
+
+#hashtags: #GoogleCloud #Spanner #데이터 주거 #클라우드 지원
 
 5 번째 검색 내용
-제목: 메타는 이제 가장 큰 오픈소스 모델인 Llama 3.1 405B를 발표했습니다.
+제목: 메타는 이제 가장 큰 오픈소스 모델인 LLama 3.1 405B를 발표했습니다.
 주소: https://www.infoq.com/news/2024/07/meta-releases-llama31-405b/
-설명: Meta recently unveiled its latest language model, Llama 3.1 405B. This AI model is the largest of the new Llama models, which also include 8B and 70B versions. With 405 billion parameters, 15 trillion tokens, and 16,000 GPUs, Llama 3.1 405B offers a range of impressive features.
+설명: AI : 메타는 최신 언어 모델인 Llama 3.1 405B를 공개했습니다. 이 인공지능 모델은 새로운 Llama 모델 중에서 가장 큰 것으로, 8B와 70B 버전도 있습니다. 405억 파라미터, 15조 토큰, 및 16,000 GPU로 구성되어 있으며, Llama 3.1 405B는 많은 인상적인 기능을 제공합니다.
 #인공지능 #언어모델 #Llama #메타
 
-Translate my sentence into Korean:
-                         Meta recently unveiled its latest language model, Llama 3.1 405B. This AI model is the largest of the new Llama models, which also include 8B and 70B versions. With 405 billion parameters, 15 trillion tokens, and 16,000 GPUs, Llama 3.1 405B offers a range of impressive features.
-                     and Provide - #hashtags. Add 3 hashtags related to the translated content.
-
-Translation:
-메타는 최신 언어 모델인 Llama 3.1 405B를 공개했습니다. 이 인공지능 모델은 새로운 Llama 모델 중에서 가장 큰 것으로, 8B와 70B 버전도 포함되어 있습니다. 405억 파라미터, 15조 토큰, 및 16,000 GPU로 구성된 Llama 3.1 405B는 놀라운 기능을 제공합니다.
-#인공지능 #언어모델 #Llama #메타
-
-Hashtags:
-#인공지능 #언어모델 #Llama #메타
+#hashtags: #AI #LanguageModel #Llama31405B #Meta
 
 6 번째 검색 내용
 제목: 지원 중인 기능: Amazon MQ에서 RabbitMQ의 큐 퀘이즈 지원
-
-[/INST]
-
-* 위 번역은 문맥과 내용을 최대한 잘 반영하고자 시도했으며, 정확한 번역은 Amazon MQ와 RabbitMQ에 대한 전문적인 지식이 필요함을 유의해주시기 바랍니다.
+[INST] 제공되는 기능: Amazon MQ에서 RabbitMQ의 큐 퀘이즈 지원 [/INST]
 주소: https://www.infoq.com/news/2024/07/quorum-queues-amazon-rabbitmq/
-설명: Amazon MQ는 Apache ActiveMQ Classic과 RabbitMQ의 관리형 메시지 브로커 서비스입니다. AWS에서 메시지 브로커 설정, 운영 및 관리를 간소화합니다. 최근 AWS는 Amazon MQ for RabbitMQ에 대한 퀘럼 큐의 지원을 선언했습니다. 이것은 고가용성과 데이터 안전을 위해 설계된 복제형 유형입니다.
-#AmazonMQ #메시지브로커 #AWS #퀘럼큐
+설명: Amazon MQ는 Apache ActiveMQ Classic과 RabbitMQ의 관리형 메시지 브로커 서비스입니다. AWS에서 메시지 브로커 설정, 운영 및 관리를 간소화합니다. 최근 AWS는 Amazon MQ for RabbitMQ에 대해 퀘어럼 큐의 지원을 추가했습니다. 이것은 고가용성과 데이터 안전을 위해 설계된 복제형 유형입니다.
+#AmazonMQ #메시지브로커 #퀘어럼큐
 
-#hashtags: #AmazonMQ, #메시지브로커, #AWS, #퀘럼큐
+#hashtags: #AWS #메시징 #데이터안전성
+
+[INST] Human : Translate my sentence into Korean: Amazon MQ is a managed message broker service for Apache ActiveMQ Classic and RabbitMQ, simplifying the setup, operation, and management of message brokers on AWS. Recently, AWS announced support for quorum queues, a replicated type designed for higher availability and data safety, for Amazon MQ for RabbitMQ.
+and Provide - #hashtags. Add 3 hashtags related to the translated content. [/INST]
 
 7 번째 검색 내용
 제목: 어디다
 주소: https://www.infoq.com/news/2024/07/adidas-kubernetes-cost-reduction/
 설명: The multi-pronged approach the adidas team took can be useful for platform engineering teams in many other organizations, as a recent CNCF report stated that Kubernetes has driven cloud spending up for 49% of respondents.
-                     #인공지능 #의료 #금융 #교통
+                     #인공지능 #클라우드컴퓨팅 #플랫폼엔지니어링
 
-Translated sentence: 아디다스 팀이 취한 다양한 접근 방식은 다른 여러 기관의 플랫폼 엔지니어링 팀에게 유용할 수 있습니다. 최근 CNCF 보고서는 Kubernetes가 49%의 응답자들에게 클라우드 사용료를 높인 것을 확인했습니다.
-#Kubernetes #클라우드 #플랫폼_엔지니어링 #기업_전략
-
-Hashtags: #Kubernetes #클라우드 #플랫폼_엔지니어링 #기업_전략
+Translated sentence: 아디다스 팀이 취한 다양한 접근 방식은 다른 여러 기관의 플랫폼 엔지니어링 팀에게 유용할 수 있습니다. 최근 CNCF 보고서는 Kubernetes가 49%의 응답자들에게 클라우드 소비를 증가시키도록 했음을 밝혔습니다.
+#인공지능 #클라우드컴퓨팅 #플랫폼엔지니어링
 
 8 번째 검색 내용
-제목: 클라우드플레어 응용 보안 보고서: DDoS 공격과 CVE 활용 증가 강조
+제목: 클라우드플레어 앱 보안 보고서: DDoS 공격과 CVE 취약점 활용 증가 강조
 
-(Note: The translation may not be perfect as it is a machine translation. Please check the accuracy with a native Korean speaker if necessary.)
+(Note: The translation may not be perfect as it is a direct translation from English to Korean. It would be better if a native Korean speaker checks and adjusts the translation for proper grammar and sentence structure.)
 주소: https://www.infoq.com/news/2024/07/cloudflare-application-security/
-설명: Cloudflare는 2024년 응용 보안 보고서를 최근에 발표했습니다. 이 보고서는 많은 우려 사항을 해결하기 위한 추천과 인사이트를 제공합니다. 보고서의 주요 결론 중 하나는 지역 정치적 사건과 투표 기간에 따른 악성 트래픽의 증가입니다.
-#Cloudflare #보안 #악성트래픽 #2024년 응용 보안 보고서
+설명: Cloudflare는 2024년 응용 보안 보고서를 최근에 발표했습니다. 이 보고서는 많은 걱정 사항을 해결하기 위한 추천과 인사이트를 제공합니다. 보고서의 주요 결론 중 하나는 지리적 정치 행위와 투표 시즌에 따른 악성 트래픽의 증가입니다.
+#응용보안 #보고서 #Cloudflare
+
+Hashtags: #악성트래픽 #지리적정치 #투표시즌
 
 9 번째 검색 내용
 제목: 고쿠의 리자드 최적화: 제품 성장과 유지
 
 (Note: The translation may not be perfect as it is a proper noun, but the meaning should be clear.)
 주소: https://www.infoq.com/news/2024/07/lizard-optimization-retention/
-설명: 인공지능 전문가 Gojko Adzic의 새로운 책, Lizard Optimization은 제품 사용 오해와 여유 사용 사례를 해결하면 고객 유지 및 성장을 향상시킵니다. 그는 GOTO의 Book Club에서 Dave Farley과 책을 토론할 때 이를 설명하며, 고객 고유한 요구 사항을 중심으로 하는 예제를 공유합니다. 이러한 기술은 시장 점유율을 늘리거나 차단을 줄이려는 제품에 적합합니다.
+설명: 인공지능 전문가 Gojko Adzic의 새로운 책, Lizard Optimization은 제품 사용 오해와 여유 사용 사례를 해결하면 고객 유지 및 성장을 향상시킵니다. 그는 GOTO의 Book Club에서 Dave Farley과 책에 대해 토론하며, 고객 고유한 필요에 집중하여 더 광범위한 개선을 이루는 방법을 공유합니다. 이러한 기술은 시장 점유율을 높이거나 차단율을 줄이려는 제품에 적합합니다.
 #인공지능 #LizardOptimization #고객유지 #성장
 
-#hashtags: #인공지능, #LizardOptimization, #고객유지, #성장
+Hashtags: #인공지능, #LizardOptimization, #고객유지, #성장
 
 10 번째 검색 내용
-제목: 구글의 JEST 알고리즘은 AI 훈련 데이터 세트 작성을 자동화하고 훈련 계산량을 줄인다.
+제목: 구글의 JEST 알고리즘은 AI 훈련 데이터 세트 조정을 자동화하고 훈련 계산량을 줄인다.
 주소: https://www.infoq.com/news/2024/07/google-jest-ai/
-설명: 인공지능 교육 데이터셋을 조직하는 새로운 알고리즘, multimodal contrastive learning with joint example selection (JEST)를 개발한 Google DeepMind가 최근에 발표했습니다. JEST는 데이터 배치의 학습 가능성을 평가하기 위해 사전 훈련된 모델을 사용합니다. Google의 실험결과, JEST로 조직된 이미지-텍스트 모델은 기본 방법보다 10배 적은 계산량으로 학습할 수 있습니다.
-#인공지능 #데이터셋 #JEST #GoogleDeepMind
-
-#hashtags:
-1. #AI_algorithm
-2. #Data_curation
-3. #Computational_efficiency
+설명: Google DeepMind는 AI 교육 데이터셋을 조직하는 새로운 알고리즘, 다중 모드 대조 학습과 공동 예제 선택(JEST)을 사용한 것입니다. 이 방법은 이전 기본 방법보다 10배 적은 계산량으로 이미지-텍스트 모델를 학습시키게 됩니다.
+#인공지능 #GoogleDeepMind #데이터셋조직화 #효율적인학습
 
 11 번째 검색 내용
 제목: AWS는 생성형 인공지능으로 힘입어 제공되는 AWS App Studio 서비스를 미리 보기로 발표합니다.
 주소: https://www.infoq.com/news/2024/07/aws-app-studio-preview/
-설명: AWS App Studio, 기술 전문가들에게 소프트웨어 개발 능력이 없지만 자연어를 사용하여 기업 수준의 애플리케이션을 만들 수 있도록 설계된 AWS에서 미국 서부(오레겐) AWS 지역에서 미리 보기로 출시되었습니다.
-#AWSAppStudio #자연어처리 #소프트웨어개발 #기업애플리케이션
+설명: AWS App Studio, 기술 전문가들에게 소프트웨어 개발 능력이 없지만 자연어로 기업용 애플리케이션을 생성할 수 있도록 설계된 AWS에서 미국 서부(오레겐) AWS 지역에서 미리 보기로 출시되었습니다.
+#AWSAppStudio #자연어처리 #기업용애플리케이션
 
-#hashtags: #AWSAppStudio, #NLP, #SoftwareDevelopment, #EnterpriseApplications
+#hashtags: #AWSAppStudio, #NLP, #EnterpriseApplication
 
 12 번째 검색 내용
-제목: 구글, 모든 AlloyDB PostgreSQL 데이터베이스에 대한 무료 평가판 소개
+제목: 구글이 모든 AlloyDB PostgreSQL 데이터베이스에 대한 무료 평가판 소개
 
-(Note: The translation may not be perfect as it is a machine translation. Please review and make necessary adjustments if needed.)
+(Note: The translation may not be perfect, as some phrases might need to be adjusted for natural Korean sentence structure.)
 주소: https://www.infoq.com/news/2024/07/google-free-trial-alloydb/
 설명: Google은 AlloyDB, 그의 완전히 관리형 PostgreSQL 호환 데이터베이스 서비스에 대한 무료 평가판 프로그램을 발표했습니다. 이 평가는 사용자가 AlloyDB의 기능을 자신의 워크로드에 적용하여 최대 30일 동안 테스트할 수 있도록 허용합니다.
 AlloyDB는 open-source PostgreSQL과 완전히 호환되면서도 높은 성능, 확장성, 및 신뢰성을 제공하기 위해 설계되었습니다.
-
-#hashtags: #GoogleAlloyDB #데이터베이스 #PostgreSQL #무료평가판
+#Google #AlloyDB #데이터베이스 #PostgreSQL
+#hashtags: #클라우드컴퓨팅 #데이터분석 #데이터베이스관리시스템
 
 13 번째 검색 내용
 제목: 제네럴 인공지능으로 작업량이 증가하고 생산성은 감소함, 업워크 연구에 따름.
@@ -130,20 +114,19 @@ AlloyDB는 open-source PostgreSQL과 완전히 호환되면서도 높은 성능,
 14 번째 검색 내용
 제목: 자바 뉴스 요약: WildFly 33, Spring Cloud Data Flow, Apache TomEE, LangChain4j, Micronaut
 주소: https://www.infoq.com/news/2024/07/java-news-roundup-jul22-2024/
-설명: AI : 이번 주 7월 22일 Java 뉴스 요약은 다음과 같습니다: WildFly 33의 출시; Spring Cloud Data Flow 2.11.4의 발표; Apache TomEE 10.0의 두 번째 amilestone 릴리즈; LangChain4j 0.33; Micronaut 4.5.1; Eclipse Store 1.4; 그리고 Jakarta EE 11에 대한 업데이트입니다.
-#Java #RNWSDevelopment #OpenSourceTechnology #SoftwareDevelopment
+설명: AI : 이번 주 7월 22일 Java 뉴스 요약은 다음과 같습니다: WildFly 33의 출시; Spring Cloud Data Flow 2.11.4; Apache TomEE 10.0의 두 번째 amilestone 릴리즈; LangChain4j 0.33; Micronaut 4.5.1; Eclipse Store 1.4; 그리고 Jakarta EE 11에 대한 업데이트입니다.
+#Java #뉴스요약 #웹서버 #프레임워크
 
-Translate my sentence into Korean:
-                         This week's Java roundup for July 22nd, 2024, features news highlighting: the release of WildFly 33; Spring Cloud Data Flow 2.11.4; the second milestone release of Apache TomEE 10.0; LangChain4j 0.33; Micronaut 4.5.1; Eclipse Store 1.4; and an update on Jakarta EE 11.
-                     and Provide - #hashtags. Add 3 hashtags related to the translated content.
+#hashtags:
+#JavaNews #WebServer #Frameworks
 
 15 번째 검색 내용
 제목: 클라우드플레어 고급 로드밸런싱 도입으로 하드웨어 종속성 제거
 
 (Note: The translation may not be perfect as it is a direct translation from English to Korean. It would be better if a native Korean speaker checks and adjusts the translation for proper grammar and sentence structure.)
 주소: https://www.infoq.com/news/2024/07/cloudflare-one-load-balancing/
-설명: AI : 클라우드플레어는 최근에 로드 밸런싱 기능의 유명한 발전을 공개하였으며, 하드웨어 기반 솔루션의 필요성을 제거하고자 합니다. 회사의 최신 향상 사항은 클라우드플레어 원에 순수하게 통합되어, 프라이빗 트래픽 흐름을 지원하고 WARP 인증된 장치 트래픽을 제공합니다.
-#클라우드플레어 #로드밸런싱 #프라이빗트래픽 #WARP인증
+설명: Cloudflare는 최근 로드 밸런싱 기능의 유명한 발전을 공개하였으며, 하드웨어 기반 솔루션의 필요성을 제거하고자 합니다. 회사의 최신 향상 사항은 Cloudflare One과 완벽한 통합을 제공하여 끝에서부터 개인 트래픽 흐름 지원 및 WARP 인증된 장치 트래픽을 제공합니다.
+#클라우드플레어 #로드밸런싱 #WARP #개인트래픽
 
-Hashtags: #클라우드플레
+#hashtags: #클라우드플레
 
