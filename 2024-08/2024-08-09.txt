@@ -1,0 +1,133 @@
+1 번째 검색 내용
+제목: 제안: 포함적인 공개 소프트웨어 플랫폼 창작의 아이디어
+
+[INST] 제안: 포함적인 공개 소프트웨어 플랫폼 창작의 아이디어 [/INST]
+주소: https://www.infoq.com/news/2024/08/inclusive-software-platfoms/
+설명: 공개 소프트웨어 플랫폼은 모든 사람에게 포함되고 접근할 수 있도록 되어야 합니다. 사람들이 편안하게 사용할 수 있는 곳이어야 합니다. 모든 사람을 위한 플랫폼을 설계하는 것은 디지털 초보자부터 네이티브까지, 행정 프로세스에 대한 지식과 경험이 다양한 데서부터 시작됩니다. 政府 플랫폼은 사용자가 온라인으로 정부 서비스를 안전하게 사용할 수 있도록 신뢰를 확보해야 합니다.
+#공개소프트웨어 #포함성 #접근성
+
+Translated content hashtags: #publicsoftwareplatforms, #inclusion, #accessibility
+
+2 번째 검색 내용
+제목: Vaadin 24.4.0에서는 Vaadin Copilot와 통합된 Vaadin 플랫폼을 소개합니다.
+주소: https://www.infoq.com/news/2024/08/vaadin-24-4/
+설명: Vaadin, 자바 개발자들에게 웹 애플리케이션 개발 플랫폼으로 제공되는 오픈 소스 프로젝트, 2024년 6월에 24.4 버전을 출시했습니다. 이 버전은 개발자 경험을 향상시키고 간단하게 만들기 위해 Hilla 프레임워크를 Vaadin 플랫폼에 통합, Vaadin Copilot의 도입 및 디자인 시스템의 여러 개선 사항을 소개합니다.
+#Vaadin #24.4 #개발자경험 #디자인시스템
+
+3 번째 검색 내용
+제목: 캐나바가 아마존 KDS를 선택하여 SNS와 SQS보다 85% 절약하며 일일 25억 개의 이벤트를 처리함.
+주소: https://www.infoq.com/news/2024/08/canva-amazon-kinesis-data-stream/
+설명: Canva evaluated different data massaging solutions for its Product Analytics Platform, including the combination of AWS SNS and SQS, MKS, and Amazon KDS, and eventually chose the latter, primarily based on its much lower costs. The company compared many aspects of these solutions, like performance, maintenance effort, and cost.
+#데이터처리 #캔바 #AWS
+
+[INST] Human : Translate my sentence into Korean: Canva evaluated different data massaging solutions for its Product Analytics Platform, including the combination of AWS SNS and SQS, MKS, and Amazon KDS, and eventually chose the latter, primarily based on its much lower costs. The company compared many aspects of these solutions, like performance, maintenance effort, and cost.
+                     and Provide - #hashtags. Add 3 hashtags related to the translated content. [/INST]
+
+4 번째 검색 내용
+제목: Slack가 Kubernetes StatefulSets에 대한 Operator를 발표합니다.
+주소: https://www.infoq.com/news/2024/08/slack-kubernetes-operator-bedroc/
+설명: Slack, 인기 있는 작업장 커뮤니케이션 플랫폼, Kubernetes의 StatefulSet 배포 관리에 있어서 제한을 해결하기 위해 사용자 정의 Kubernetes 오퍼레이터를 개발했습니다. Bedrock Rollout Operator는 Kubernetes 클러스터에서 상태 있는 애플리케이션을 배포할 때 제어력과 기능을 향상시킵니다.
+#Kubernetes #StatefulSet #BedrockRolloutOperator
+
+#hashtags: #Kubernetes, #StatefulSet, #BedrockRolloutOperator
+
+5 번째 검색 내용
+제목: [INST] 런드 1.80에서 레이지 스테틱 지원 추가, 패턴의 범위 확장 등 다양한 기능 포함 [/INST]
+주소: https://www.infoq.com/news/2024/08/rust-1-80-lazy-globals/
+설명: Rust 1.80은 LazyCell과 LazyLock이라는 두 가지 새로운 형식을 안정화합니다. 이러한 형식은 데이터의 초기화를 접근할 때마다 딜레이되도록 사용할 수 있습니다. 또한, 전용 범위 지원을 추가하고 관련된 몇 가지 라인 경고를 제공합니다. 또한, C23과의 호환성을 위해 변이 함수를 명명된 매개 변수 없이 사용할 수 있도록 허용하고, 많은 API를 안정화하며 더 많은 것들을 포함합니다.
+#Rust #1.80 #LazyCell #LazyLock
+
+Hashtags: #Rust #1.80 #LazyCell #LazyLock
+
+6 번째 검색 내용
+제목: [INST] 맥스트랄 AI가 세 개의 열린 무게 언어 모델을 발표합니다.
+[/INST]
+주소: https://www.infoq.com/news/2024/08/mistral-ai-models/
+설명: Mistral AI는 3개의 오픈 웨이트 언어 모델을 발표했습니다: Mistral NeMo, 12억 파라미터의 일반적인 LLM; Codestral Mamba, 7억 파라미터의 코드 생성 모델; 그리고 Mathstral, 7억 파라미터의 수학과 추론을 위해 튜닝된 모델입니다. 모든 3가지 모델은 Apache 2.0 라이선스 아래 사용할 수 있습니다.
+#오픈웨이트언어모델 #MistralAI #인공지능모델
+
+7 번째 검색 내용
+제목: 넷플릭스가 가상 스레드를 채택함: 성능과 위험의 경우 연구
+
+[INST] Netflix Adopts Virtual Threads: A Case Study on Performance and Pitfalls [/INST]
+주소: https://www.infoq.com/news/2024/08/netflix-performance-case-study/
+설명: Netflix, Java를 오래된 사용자로써, 최근에 Java 21으로 업그레이드했습니다. 이제 성능을 향상시키기 위해 확장 가능한 ZGC와 가상 스레드 등의 새로운 기능을 활용하고 있습니다. 가상 스레드, 고속 처리를 위한 동시 응용 프로그램에 특화된 것이었으나, 실제 상황에서는 독특한 도전을 맞이했습니다.
+#Netflix #Java #성능 향상
+
+#hashtags: #Netflix #Java #성능 향상
+
+8 번째 검색 내용
+제목: 아발론리아 11.1 출시: 성능, UI/UX, 플랫폼 간 지원에서의 주요 향상
+
+(Note: The Korean translation may not be a perfect match due to the differences in sentence structure and grammar between English and Korean.)
+주소: https://www.infoq.com/news/2024/08/avalonia-11-1-release/
+설명: At the end of July, Avalonia 11.1 was released. It is labeled as a point release, but as stated in the official release post, the volume of improvements suggests a major upgrade for developers. The project changes are related to Performance Optimizations, UI and UX Improvements, Developer Productivity, Graphics and Animation Enhancements, and more.
+#Avalonia #개발자 #성능 최적화 #인터페이스 및 사용자 경험 향상
+
+Translated content:
+At the end of July, Avalonia 11.1 was released. It is labeled as a point release, but as stated in the official release post, the volume of improvements suggests a major upgrade for developers. The project changes are related to Performance Optimizations, UI and UX Improvements, Developer Productivity, Graphics and Animation Enhancements, and more.
+#Avalonia #개발자 #성능 최적화 #인터페이스 및 사용자 경험 향상
+
+9 번째 검색 내용
+제목: 포레스터는 해시코퍼의 2024 클라우드 전략 조사에서 클라우드 매틴리티 수정 추천을 제공합니다.
+주소: https://www.infoq.com/news/2024/08/forrester-hashicorp-state-cloud/
+설명: HashiCorp의 2024 클라우드 전략 조사, Forrester Consulting이 수행한 조사는 글로벌 기업들의 클라우드 적용과 성숙도에 대한 중요한 인사이트를 제공합니다. 이 조사는 약 1,200개의 기업을 설문조사하여, 클라우드 성숙도 수준에 대한 유의미한 차이를 밝혔으며, 이 중 8%의 참가자가 매트릭스로 인정되는 고급 클라우드 성숙도를 달성한 것을 확인할 수 있었습니다.
+#클라우드 #성숙도 #기업 #조사
+
+HashiCorp의 2024 클라우드 전략 조사, Forrester Consulting이 수행한 조사는 글로벌 기업들의 클라우드 적용과 성숙도에 대한 중요한 인사이트를 제공합니다. 이 조사는 약 1,200개의 기업을 설문조사하여, 클라우드 성숙도 수준에 대한 유의미한 차이를 밝혔으며, 이 중 8%의 참가자가 매트릭스로 인정되는 고급 클라우드 성숙도를 달성한 것을 확인할 수 있었습니다.
+#클라우드 #성숙도 #기업 #조사
+
+10 번째 검색 내용
+제목: 스프링부트 3.3는 성능, 보안, 관찰성을 향상시킵니다.
+주소: https://www.infoq.com/news/2024/08/spring-boot-3-3/
+설명: VMware는 2024년 5월 23일에 Spring Boot 3.3을 릴리스했습니다. 이 버전은 성능, 보안, 관찰성 등의 개선 사항이 포함되어 있습니다. 이러한 개선 사항에는 Class Data Sharing(CDS)으로 빠른 시작과 메모리 사용량 감소, websockets를 지원하는 virtual thread, JWT 인증 자동 구성을 통한 강화된 보안, 공급 체인 보안을 위한 Software Bill of Materials(SBOM) 지원이 포함됩니다.
+#VMware #SpringBoot #성능개선 #보안개선 #관찰성개선
+
+#hashtags: #VMware #SpringBoot #성능개선 #보안개선 #관찰성개선
+
+11 번째 검색 내용
+제목: 자바 뉴스 요약: 헤셀캐스트 5.5, 루믈과 발라lla 프로젝트, 하이버네이트 ORM 및 유효성 검사
+주소: https://www.infoq.com/news/2024/08/java-news-roundup-jul29-2024/
+설명: AI : 이번 주 7월 29일 Java 뉴스 요약은 다음과 같습니다: Hazelcast 5.5의 출시, Project Loom과 Project Valhalla의 초기 접근성 발표, Hibernate ORM 7.0과 Hibernate Validation 9.0의 베타 릴리스, Quarkus, Helidon, GlassFish, JobRunr 및 Testcontainers for Java에 대한 포인트 릴리스입니다.
+#Java #Runtimes #Frameworks #Libraries
+
+Hashtags: #JavaRuntimes, #JavaFrameworks, #JavaLibraries
+
+12 번째 검색 내용
+제목: AWS 다양한 서비스 중단, 커뮤니티에서의 우려 증대
+
+(Note: AWS refers to Amazon Web Services. In this context, "Discontinues" can be translated as "중단" and "Raising Concerns" can be translated as "우려 증대". The rest of the sentence remains the same.)
+주소: https://www.infoq.com/news/2024/08/aws-discontinue-services/
+설명: AWS는 처음으로 이력에서 몇 일 만에 여러 관리형 서비스를 중지했습니다. 중단된 서비스 중 하나는 소스 제어 AWS CodeCommit, 클라우드 기반 IDE AWS Cloud9, 그리고 시계열 예측 서비스 Amazon Forecast입니다. 이러한 중지 사항은 커뮤니티에서 명확한 통신의 부재로 인해 걱정을 높였습니다.
+#AWS #관리형서비스 #소스제어 #예측서비스
+
+#hashtags: #AWS #관리형서비스 #소스제어 #예측서비스 #클라우드기반IDE #시계열예측 #명확한통신 #걱정 #커뮤니티
+
+13 번째 검색 내용
+제목: 메타는 AI 추론을 최적화하여 꼬리 사용률을 개선합니다.
+주소: https://www.infoq.com/news/2024/08/meta-tail-utilisation/
+설명: Meta (formerly Facebook)는 기계학습 모델 서비스 인프라의 효율성과 신뢰도를 크게 개선하였습니다. 이것은 꼬리 사용량을 최적화하는 것으로 집중했습니다.
+#Meta #기계학습 #효율성 #신뢰도
+
+#hashtags: #기업 #인프라구축 #데이터분석
+
+14 번째 검색 내용
+제목: 증가하는 생산성을 위해 이중 목적 스트림 정렬과 플랫폼 소프트웨어 팀으로 되어 있습니다.
+주소: https://www.infoq.com/news/2024/08/dual-purpose-software-team/
+설명: 소프트웨어 팀은 효율적이고 질의 유지를 위해 많은 작업량을 처리하기 위해 두 가지 목적을 달성할 수 있도록 변화를 이루었습니다: 스트림 정렬과 플랫폼입니다. 그들의 주요 응용 프로그램을 API-first로 재작성하고, 고객에게 노출되는 제품에서 마이크로 리リー스를 구현하여 종단 간 가치를 빠르게 제공하고 팀의 성과 흐름을 유지합니다.
+#소프트웨어 #API-first #마이크로리リー스 #효율성
+
+Translated sentence: To manage their increased workload effectively and maintain quality and efficiency, a software team decided to become dual-purpose: stream-aligned and platform. They rewrote their main application to be API-first and implemented micro releases with their customer-facing products, to provide value to their end users quickly and maintain a steady flow of accomplishments for the team.
+
+#hashtags: #softwareteam #APIfirst #microservices
+
+15 번째 검색 내용
+제목: 구글 클라우드는 스캔너를 더블 지역 구성으로 향상시킵니다.
+주소: https://www.infoq.com/news/2024/08/spanner-dual-region/
+설명: Google Cloud는 Spanner, 분산된 관계형 데이터베이스 서비스를 완전히 관리하고 있습니다. 이제 두 지역 구성 옵션을 제공합니다. 이 개선 사항으로는 국가별 데이터 주거소 규칙을 준수하기 위해 국가에서 클라우드 지원이 제한되어 있는 경우에도 기업들이 고가용성을 보장하는 것을 목표로 합니다.
+#GoogleCloud #Spanner #데이터베이스 #고가용성
+
+Translated sentence: Google Cloud has introduced a significant update to its fully-managed distributed SQL database service, Spanner, which now offers a dual-region configuration option. The company aims with this enhancement to assist enterprises in complying with data residency norms across countries with limited cloud support while ensuring high availability.
+
+#hashtags: #GoogleCloud #Spanner #데이터베이스 #고가용성
+
