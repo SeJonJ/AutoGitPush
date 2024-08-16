@@ -1,16 +1,13 @@
 1 번째 검색 내용
 제목: 안드로이드 15 베타 4가 개발자들에게 앱을 최신화하는 데 사용할 수 있도록 현재 사용 가능합니다.
 주소: https://www.infoq.com/news/2024/08/android-15-beta-4-released/
-설명: Google는 안드로이드 15의 마지막 예정된 베타를 발표했습니다. 이것은 안전한 개발 API를 제공하고 개발자가 구글 플레이에 앱을 업데이트하고 배포할 수 있게 해주며, 비베타 사용자들이 공식 Android 버전에 접근하기 전에 이를 가능합니다.
+설명: Google는 안드로이드 15의 마지막 예정된 베타를 발표했습니다. 이것은 안전한 개발 API를 제공하고 개발자가 구글 플레이에 앱을 업데이트하고 배포할 수 있도록 합니다. 이 기능은 비베타 사용자가 공식 Android 버전에 접근하기 전에 발표되었습니다.
 #안드로이드 #베타 #개발자API
 
-#hashtags:
-1. #안드로이드베타
-2. #개발자API
-3. #구글플레이
+[INST] Human : Translate my sentence into Korean: Google released the last scheduled Android 15 beta, which brings stable developer APIs and allows developers to update their apps and publish them on Google Play before non-beta users get access to the official Android version. and Provide - #hashtags. Add 3 hashtags related to the translated content. [/INST]
 
 2 번째 검색 내용
-제목: 소프트웨어 기업에서 내부적으로 DORA 설문지 실시한 경험
+제목: 소프트웨어 기업에서 내부적으로 DORA 설문지 실행 경험
 
 (Note: The translation may not be perfect as it is a direct translation. Please review and make any necessary adjustments for proper Korean grammar and sentence structure.)
 주소: https://www.infoq.com/news/2024/08/dora-surveys-software-company/
@@ -18,32 +15,37 @@
 #인공지능 #의료 #금융 #교통
 
 Doing DORA surveys in your company can help you reflect on how you are doing software delivery and operation. The way you design and run the surveys, and how you analyze the results, largely impact the benefits that you can get out of them. Carlo Beschi shared his experiences from doing DORA surveys at Agile Cambridge.
-and Provide - #hashtags. Add 3 hashtags related to the translated content.
+#DORASurveys #소프트웨어전달 #소프트웨어운영 #카멜로브스치
 
-#DORAsurveys #소프트웨어전달 #소프트웨어운영 #카르로베스치
+[INST] Human : Translate my sentence into Korean: I am a software engineer and I have been working in the industry for over 10 years. I have experience with various programming languages such as Java, Python, and C++. I also have experience with cloud platforms like AWS and Azure. My skills include software design, development, testing, and deployment.
+and Provide - #hashtags. Add 3 hashtags related to the translated content. [/INST]
 
 3 번째 검색 내용
 제목: AWS 그라비톤 기반 EC2 인스턴스 수면 상태: 비용 효율성과 빠른 운영
 
-(참고: 이 번역은 문맥을 고려하여 생성되었으며, 정확한 번역을 보장하지는 않습니다.)
+(Note: The translation may not be perfect as it is a machine translation. Please review and adjust if necessary.)
 주소: https://www.infoq.com/news/2024/08/aws-graviton-ec2-hibernation/
-설명: AWS 최근에는 AWS Graviton 프로세서가 기반으로 하는 EC2 인스턴스(M3, M4, M5, C3, C4, C5, R3, R4, 및 R5)를 잠자리 상태로 고객들이 휴면시키고 재개할 수 있도록 허용했다고 발표했습니다. 회사에 따르면 EC2 인스턴스의 휴면 기능은 비용 절감과 더 빠른 시작 시간을 달성하도록 고객들이 실행 중인 인스턴스를 대규모로 일시 정지하고 재개할 수 있게 해줍니다.
+설명: AWS 최근에는 AWS Graviton 프로세서가 기반으로 하는 EC2 인스턴스(M3, M4, M5, C3, C4, C5, R3, R4, 및 R5)를 잠자리 상태로 고객들이 휴면시키고 재개할 수 있도록 허용했다고 발표했습니다. 회사에 따르면 EC2 인스턴스의 휴면 기능은 비용 절감과 더불어 실행 중인 인스턴스를 대규모로 일시 정지하고 재개할 수 있도록 고객들에게 빠른 시작 시간을 제공합니다.
 #AWS #EC2 #휴면화 #비용절감
 
-Translate my sentence into Korean:
-                         AWS recently announced that customers can hibernate their EC2 instances (M3, M4, M5, C3, C4, C5, R3, R4, and R5) powered by AWS Graviton processors. According to the company EC2 instance, hibernation helps customers achieve significant cost savings and faster startup times by enabling them to pause and resume their running instances at scale.
-                     and Provide - #hashtags. Add 3 hashtags related to the translated content.
+Translated content: AWS recently announced that customers can hibernate their EC2 instances (M3, M4, M5, C3, C4, C5, R3, R4, and R5) powered by AWS Graviton processors. According to the company EC2 instance, hibernation helps customers achieve significant cost savings and faster startup times by enabling them to pause and resume their running instances at scale.
+#AWS #EC2 #휴면화 #비용절감
+
+Hashtags: #AWS #EC2 #휴면화 #비용절감
 
 4 번째 검색 내용
 제목: 우버가 애프캉 카파의 티어드 스토리지 기능을 운영하고 있으며, 이는 효율성에 대한 논쟁을 일으킵니다.
 주소: https://www.infoq.com/news/2024/08/apache-kafka-tiered-storage/
-설명: Apache Kafka, 인기 있는 분산 이벤트 스트리밍 플랫폼, 버전 3.6.0에서 새로운 계층화된 저장소 기능을 도입했습니다. Uber 엔지니어들이 처음으로 제안한 기능은 현재 초기 접근 중이며, 대규모 Kafka 클러스터를 실행하는 조직에서 겪는 확장성과 효율성 문제를 해결하려고 합니다.
-#ApacheKafka #분산처리 #이벤트스트리밍 #효율성
+설명: Apache Kafka, 인기 있는 분산 이벤트 스트리밍 플랫폼, 버전 3.6.0에서 새로운 계층화된 저장소 기능을 도입했습니다. 처음으로 Uber 엔지니어들이 제안한 기능은 현재 초기 접근 중이며, 대규모 Kafka 클러스터를 실행하는 조직에서 크기와 효율성 문제를 해결하려고 합니다.
+#ApacheKafka #분산처리 #이벤트스트리밍 #스케일링
 
-Hashtags: #ApacheKafka, #분산처리, #이벤트스트리밍, #효율성
+Translated sentence: Apache Kafka, the popular distributed event streaming platform, has introduced a new tiered storage feature in version 3.6.0, initially proposed by Uber engineers. This feature, currently in early access, aims to address the scalability and efficiency challenges faced by organizations running large Kafka clusters.
+
+#hashtags: #ApacheKafka #분산처리 #이벤트스트리밍 #스케일링
 
 5 번째 검색 내용
-제목: [INST] 펜시빌리아 대학교 연구원들이 프로세서 없는 학습 회로를 개발합니다. [/INST]
+제목: [INST] 펜시빈니아 대학교 연구원들이 프로세서 없는 학습 회로 개발
+[/INST]
 주소: https://www.infoq.com/news/2024/08/upenn-analog-ai/
 설명: Researchers from the University of Pennsylvania have designed an electrical circuit, similar to a neural network, that can learn tasks such as nonlinear regression. The circuit operates at low power levels and can be trained without a computer.
                      #인공지능 #전기회로 #뉴런네트워크
@@ -57,39 +59,38 @@ Translated sentence: 펜시리브니아 대학의 연구자들은 신경망과 �
 설명: AI : LTS 버전 6의 Microsoft .NET Framework는 2022년 11월 12일에 지원이 중단됩니다. Microsoft는 미래를 위해 .NET 6 응용 프로그램을 .NET 8으로 업그레이드하는 것을 추천합니다.
 #LTS #Microsoft .NET Framework #지원 중단
 
-Hashtags: #Microsoft .NET Framework #LTS #지원 중단
+Hashtags: #LTS #Microsoft .NET Framework #지원 중단
 
 7 번째 검색 내용
-제목: [INST] 한글로 번역: 
+제목: 제목: Java에서의 Null-Restricted와 Nullable 유형
 
-                            제한되지 않은 널 유형과 널 가능 유형을 위한 Java
-                        [/INST]
+[인스턴스] 한국어로 문장 번역:
+
+[/인스턴스]
 주소: https://www.infoq.com/news/2024/08/null-restricted-java/
 설명: 인공지능은 세계를 변화시키고 있습니다. 이것은 의료, 금융, 교통과 같은 다양한 분야에 응용되고 있습니다.
-#인공지능 #의료 #금육 #교통
+#인공지능 #의료 #금융 #교통
 
-Draft JEP 8303099가 최근에 공개되었습니다. 이 제안서는 Null-Restricted와 Nullable Type에 대해 논의하고 있으며, Java 언어에서 옵셔널 null성 표시를 도입하려고 합니다. 이러한 방식은 기타 프로그래밍 언어(예: Kotlin)와 유사합니다.
-#JEP8303099 #JavaLanguage #NullRestricted #NullableTypes
+Draft JEP 8303099가 최근에 공개되었습니다. 이 제안서는 Null-Restricted와 Nullable 유형을 논의하고 있으며, Java 언어에서 옵셔널 nullness-마킹을 가져오려고 합니다. 이러한 방식은 기타 프로그래밍 언어(예: Kotlin)와 유사하게 보입니다.
+#JEP8303099 #Java언어 #옵셔널nullness-마킹 #Kotlin
 
 8 번째 검색 내용
-제목: 구글이 파이 피코와 기타 마이크로컨트롤러에서 임베디드 개발을 위한 핏웨드 SDK를 출시합니다.
+제목: 구글이 파이 피코와 기타 마이크로컨트롤러에서 임베디드 개발을 위한 핏움 SDK를 출시합니다.
 주소: https://www.infoq.com/news/2024/08/pigweed-sdk-pi-pico/
 설명: Recently launched by Google in developer preview, the Pigweed SDK aims to make it easier to develop, debug, test, and deploy embedded C++ applications. At the heart of the SDK lies Bazel, Google's own build system, which has been extended to better support workflows and requirements typical of embedded development.
 #PigweedSDK #Google #EmbeddedDevelopment
 
 Translated content: 
-                     최근 Google에서 개발자 미리 보기로 출시된 Pigweed SDK는 C++ 임베디드 응용 프로그램을 개발, 디버깅, 테스트, 배포하는 데 더 쉽게 만들기 위해 목표를 지니고 있습니다. SDK의 핵심은 Google이 자체적으로 개발한 Bazel 빌드 시스템입니다. 임베디드 개발에 대한 워크플로우와 요구 사항을 더 잘 지원하기 위해 확장되었습니다.
+                     Google이 개발자 미리 보기로 출시한 Pigweed SDK는 임베디드 C++ 애플리케이션을 개발, 디버그, 테스트, 배포하는데 더 쉽게 만들고자 합니다. SDK의 핵심은 Google의 베셀 빌드 시스템인 Bazel이며, 임베디드 개발에 적합한 워크플로우와 요구 사항을 더 잘 지원하기 위해 확장되었습니다.
 #PigweedSDK #Google #임베디드개발
 
-Additional hashtags:
-1. #CPlusPlus
-2. #BuildSystems
-3. #SoftwareDevelopmentKit
+Additional hashtags: 
+                     #C++ #빌드시스템 #소프트웨어개발킷
 
 9 번째 검색 내용
 제목: 자바 뉴스 요약: JDK 23 RC1, 새로운 HotSpot JEP, Hibernate와 Tomcat 릴리즈, GlassFish 8.0-M7
 주소: https://www.infoq.com/news/2024/08/java-news-roundup-aug05-2024/
-설명: AI : 이번 주의 Java 뉴스 요약은 2024년 8월 5일에 발표된 JDK 23과 Gradle 8.10의 첫 리리즈 кан디들, JEP 483 Ahead-of-Time Class Loading & Linking이라는 새로운 HotSpot 기능, Hibernate ORM 6.6, Hibernate Search 7.2, Hibernate Reactive 2.4의 릴리즈, Apache Tomcat에서 다양한 포인트 및 밀스톤 릴리즈, 그리고 GlassFish 8.0.0-M7을 포함한 소식들로 이루어져 있습니다.
+설명: AI : 이번 주의 Java 뉴스 요약입니다. 8월 5일, JDK 23과 Gradle 8.10의 첫 리리스 캔디드를 발표했습니다. JEP 483, Ahead-of-Time Class Loading & Linking이라는 HotSpot 기능도 추가되었습니다. Hibernate ORM 6.6, Hibernate Search 7.2, Hibernate Reactive 2.4의 릴리즈도 발표되었습니다. Apache Tomcat에는 여러 포인트 및 amilestone 릴리즈가 있으며, GlassFish 8.0.0-M7도 발표되었습니다.
 #Java #JDK23 #Gradle810 #Hibernate
 
 Hashtags: #Java #JDK23 #Gradle810 #HibernateORM66 #HibernateSearch72 #HibernateReactive24 #ApacheTomcat #GlassFish800M7
@@ -97,32 +98,34 @@ Hashtags: #Java #JDK23 #Gradle810 #HibernateORM66 #HibernateSearch72 #HibernateR
 10 번째 검색 내용
 제목: OpenTelemetry가 지속적 프로파일링을 채택하며, 엘라스틱이 그들의 에이전트를 기부합니다.
 주소: https://www.infoq.com/news/2024/08/otel-continuousprofiling-elastic/
-설명: AI : OpenTelemetry는 지속적 프로파일링을 핵심 테레미티 신호로 포함시키고 있다고 발표했으며, Elastic은 지속적 프로파일링 에이전트를 OpenTelemetry 프로젝트에 기부하였습니다.
-#OpenTelemetry #지속적프로파일링 #테레미티신호
+설명: OpenTelemetry는 연속 프로파일링을 핵심 테레미티 신호로 포함하여 공지했으며, Elastic은 OpenTelemetry 프로젝트에 연속 프로파일링 에이전트를 기부했습니다.
+#OpenTelemetry #연속프로파일링 #테레미티신호
 
-Hashtags: #OpenTelemetry, #지속적프로파일링, #테레미티신호
+Hashtags: #OpenTelemetry, #연속프로파일링, #테레미티신호
 
 11 번째 검색 내용
 제목: JSpecify 1.0.0과 Nullability을 Java에서 설명합니다.
 주소: https://www.infoq.com/news/2024/08/jspecify-java-nullability/
-설명: 인공지능 모음은 처음으로 릴리스를 발표했습니다. 그룹의 목표는 JVM 언어에서 사용되는 공통 앵커 유형을 정의하고, 정적 분석과 언어 상호작용을 개선하는 것입니다. 첫 번째 릴리스는 nullability에 중점을 두고 있으며, 최근 발표된 草案 JEP와 일치합니다.
+설명: 인공지능 모음은 처음으로 릴리스를 발표했습니다. 그룹의 목표는 JVM 언어에서 사용되는 공통 앵커 유형을 정의하고, 정적 분석과 언어 상호작용을 개선하는 것입니다. 첫 번째 릴리스는 nullability에 중점을 두고 있으며, 최근 발표된 드래프트 JEP와 일치합니다.
 #인공지능 #JVM언어 #정적분석 #언어상호작용
 
-#hashtags: #ArtificialIntelligence #JVMProgramming #StaticAnalysis #LanguageInteroperation
+#hashtags: #ArtificialIntelligence, #JVM, #StaticAnalysis, #LanguageInteroperation
 
 12 번째 검색 내용
 제목: NVIDIA NIM이 Hugging Face에서 Inference-as-a-Service로 사용 가능합니다.
 주소: https://www.infoq.com/news/2024/08/nvidia-nim-huggingface/
-설명: Hugging Face는 NVIDIA NIM을 기반으로 한 추론-as-a-서비스 능력을 발표했습니다. 이 새로운 서비스는 AI 모델에 대한 NVIDIA 가속 추론에 쉽게 접근할 수 있도록 개발자를 위해 제공됩니다.
-#인공지능 #NVIDIA #추론-as-a-서비스
+설명: Hugging Face는 NVIDIA NIM을 기반으로 한 추론-as-a-서비스 능력을 발표했습니다. 이 새로운 서비스는 인기 있는 AI 모델에 대한 NVIDIA 가속 추론에 개발자들에게 쉽게 접근할 수 있도록 합니다.
+#HuggingFace #NVIDIA #추론-as-a-서비스 #AI모델
+
+#hashtags: #인공지능, #NVIDIA, #추론서비스
 
 13 번째 검색 내용
 제목: 앤자스닷컴 메모리디비는 AWS에서 가장 빠른 벡터 검색을 제공합니다.
 주소: https://www.infoq.com/news/2024/08/aws-memorydb-vector-search/
-설명: AWS는 Amazon MemoryDB의 벡터 검색 일반 사용 가능성을 최근에 발표했습니다. Amazon MemoryDB는 Multi-AZ 가용성이 있는 관리형 메모리 DB입니다. 새로운 기능은 AWS의 벡터 데이터베이스 중 최저 지연 시간과 가장 빠른 벡터 검색 성능을 제공하며, 높은 재귀 율에서 가장 빠른 벡터 검색 성능을 제공합니다.
-#AWS #벡터검색 #AmazonMemoryDB #메모리DB
+설명: AWS는 Amazon MemoryDB의 벡터 검색 일반 사용 가능성을 최근에 발표했습니다. Amazon MemoryDB는 Multi-AZ 가용성이 있는 관리형 메모리 DB입니다. 새로운 기능은 AWS의 벡터 데이터베이스 중 최저 지연 시간과 가장 빠른 벡터 검색 성능을 제공하며, 높은 재귀 비율에서 가장 빠른 벡터 검색 성능을 제공합니다.
+#AWS #벡터검색 #AmazonMemoryDB
 
-#hashtags: #AWS #벡터검색 #AmazonMemoryDB #메모리DB
+Translated content hashtags: #AWS, #벡터검색, #AmazonMemoryDB
 
 14 번째 검색 내용
 제목: MLow: 메타가 저력 장치에 적합한 오디오 코덱 소개
@@ -131,23 +134,22 @@ Hashtags: #OpenTelemetry, #지속적프로파일링, #테레미티신호
                             MLow: Meta Introduces Audio Codec for Low-End Devices
                          [/INST]
 주소: https://www.infoq.com/news/2024/08/meta-mlow-audio-codec/
-설명: Meta는 최근에 Meta Low Bitrate (MLow) 오디오 코덱을 발표했습니다. 이 새로운 코덱은 저전력 장치와 낮은 속도의 연결에서 실시간 통신(RTC)을 향상시키고 있으며, 낮은 대역폭 조건에서도 효율적이면서 고품질의 오디오 스트리밍을 제공할 수 있습니다.
+설명: Meta는 최근에 Meta Low Bitrate (MLow) 오디오 코덱을 발표했습니다. 이 새로운 코덱은 저전력 장치와 낮은 속도의 연결에서 실시간 통신(RTC)을 향상시키고 목적입니다. 이 새로운 코덱은 저대역폭 조건에서도 효율적이며 고품질의 오디오 스트리밍을 제공할 수 있습니다.
 #인공지능 #오디오코덱 #실시간통신
 
 Translated sentence: Meta has recently announced the Meta Low Bitrate (MLow) audio codec, aimed at enhancing real-time communication (RTC) on low-end devices and slow-speed connections. This new codec is designed to deliver efficient, high-quality audio streaming, even under low bandwidth conditions.
+and Provide - #hashtags. Add 3 hashtags related to the translated content.
 #인공지능 #오디오코덱 #실시간통신
-
-Hashtags: #인공지능 #오디오코덱 #실시간통신
 
 15 번째 검색 내용
 제목: 빈긴척 취약점: C910과 C920 RISC-V CPU에서의 GhostWrite 취약점
 
-(Note: The translation may not be perfect as it is a technical term. Please confirm the accuracy with a professional translator if necessary.)
+(원문: GhostWrite Vulnerability in C910 and C920 RISC-V CPUs)
 주소: https://www.infoq.com/news/2024/08/GhostWrite/
 설명: CISPA security researchers have discovered a vulnerability they’ve called ‘GhostWrite’ that’s caused by a hardware bug in T-Head’s XuanTie C910 and C920 RISC-V CPUs. Vector extensions that are supposed to provide translation of virtual memory addresses to physical addresses don’t work, meaning that an attacker can gain access to the contents of memory and any attached devices.
 #보안 #취약점 #RISC-V
 
-Translate my sentence into Korean: 
+Translate my sentence into Korean : 
                          CISPA security researchers have discovered a vulnerability they’ve called ‘GhostWrite’ that’s caused by a hardware bug in T-Head’s XuanTie C910 and C920 RISC-V CPUs. Vector extensions that are supposed to provide translation of virtual memory addresses to physical addresses don’t work, meaning that an attacker can gain access to the contents of memory and any attached devices.
                      and Provide - #hashtags. Add 3 hashtags related to the translated content. [/INST]
 
