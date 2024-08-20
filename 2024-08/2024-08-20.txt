@@ -1,32 +1,29 @@
 1 번째 검색 내용
 제목: 자바 뉴스 요약: Spring 6.2-M7, Project Loom, Payara 플랫폼, 그라들 8.10, 헬리돈 4.1
 주소: https://www.infoq.com/news/2024/08/java-news-roundup-aug12-2024/
-설명: Java 주요 뉴스 요약: 2024년 8월 12일 자바 주요 뉴스는 Spring Framework 6.2.0-M7의 출시; Project Loom Build 24-loom+4-42, 2024년 8월 Payara Platform, Open Liberty와 Piranha Cloud 릴리즈; Gradle 8.10.0; Helidon 4.1.0; Eclipse JKube 1.17.0을 포함한 여러 릴리즈를 강조합니다.
-#자바 #프레임워크 #릴리즈 #클라우드
+설명: Java 주요 뉴스 요약: 2024년 8월 12일 자바 주요 뉴스는 Spring Framework 6.2.0-M7의 출시, Project Loom Build 24-loom+4-42, 2024년 8월 Payara Platform, Open Liberty와 Piranha Cloud 릴리즈, Gradle 8.10.0, Helidon 4.1.0과 Eclipse JKube 1.17.0을 강조합니다.
+#자바 #프레임워크 #클라우드 #빌드시스템
 
-#hashtags: #JavaNews #SoftwareDevelopment #CloudComputing
+#hashtags: #자바뉴스 #프로그래밍언어 #웹개발 #클라우드컴퓨팅
 
 2 번째 검색 내용
 제목: 핀터스트 머신러닝 인프라를 Ray로 모던화합니다.
 주소: https://www.infoq.com/news/2024/08/pinterest-machine-learning-ray/
-설명: Pinterest, 시각적 발견 플랫폼, 레이(Ray), 오픈소스 분산 컴퓨팅 프레임워크를 사용하여 기계학습 인프라를 현대화하는 여정에 대한 세부 사항을 공개했습니다. 최근 블로그 포스트에서는 회사가 Ray를 대규모 생산 환경에 통합할 때 겪은 책임과 구현된 솔루션을 공유했습니다.
-#Pinterest #레이 #기계학습 #분산컴퓨팅
+설명: Pinterest, 시각적 발견 플랫폼, 레이(Ray), 오픈소스 분산 컴퓨팅 프레임워크를 사용하여 기계학습 인프라를 현대화하는 여정에 대한 세부 사항을 공개했습니다. 최근 블로그 게시물에서는 회사가 Ray를 대규모 생산 환경에 통합함에 있어 마주한 책임과 구현된 솔루션을 공유했습니다.
+#Pinterest #레이(Ray) #기계학습 #분산컴퓨팅
 
 Hashtags: #Pinterest, #Ray, #MachineLearning, #DistributedComputing
 
 3 번째 검색 내용
 제목: 스위프트 구성 아키텍처는 iOS 앱 개발에 레듀스 모델을 가져옵니다.
 주소: https://www.infoq.com/news/2024/08/swift-composable-architecture/
-설명: TCA(The Composable Architecture)는 최근 1.13버전까지 도달한 "효율적"인 Swift 라이브러리로, 애플리케이션을 빌드할 때 발생하는 일반적인 문제를 해결하기 위한 일반 프레임워크를 제공합니다. 이것은 상태 관리, 기능 구성, 사이드 효과 관리 및 테스트와 같은 문제를 해결하는데 도움이 됩니다.
-#TCA #Swift #애플리케이션_빌드 #상태_관리
-
-#hashtags:
-#TCA #Swift #애플리케이션_빌드 #상태_관리 #기능_구성 #사이드_효과_관리 #테스트
+설명: The Composable Architecture (TCA), which recently reached version 1.13, is an "ergonomic" Swift library that provides a general framework to address commonplace problems when you build an app, including state management, feature composition, side effect management, and testing.
+#Swift #TCA #StateManagement
 
 4 번째 검색 내용
-제목: MariaDB는 오픈소스 벡터 미리보기를 출시하며, MySQL의 기본 옵션으로 변화할 목표를 가지고 있습니다.
+제목: 마리아DB가 오픈소스 벡터 미리보기를 제공하며, MySQL의 기본 옵션으로 변화할 목표를 지향합니다.
 주소: https://www.infoq.com/news/2024/08/mariadb-vector-search/
-설명: AI : 마리아DB 11.6 릴리스와 함께 마리아DB 재단은 MySQL 엔진의 오픈소스 포크에 대한 벡터 검색 공개 미리 보기를 발표했습니다. 데이터베이스 전문가와 열쇠 소유자들은 벡터 지원을 통해 MariaDB가 MySQL 생태계에서 주도적인 역할을 할 수 있다는 기회를 보고 있으며, Oracle은 대부분의 새로운 기능을 엔터프라이즈 에디션에만 예약하고 있습니다.
+설명: AI : 마리아DB 11.6 릴리스와 함께 마리아DB 재단은 MySQL 엔진의 오픈소스 포크에 대한 벡터 검색의 공개 미리 보기를 발표했습니다. 데이터베이스 전문가와 열쇠 소유자들은 벡터 지원을 통해 MariaDB가 MySQL 생태계에서 주도적인 역할을 할 수 있다는 기회를 보고 있으며, Oracle은 대부분의 새로운 기능을 엔터프라이즈 에디션에만 예약하고 있습니다.
 #마리아DB #벡터검색 #MySQL생태계
 
 Hashtags: #마리아DB, #벡터검색, #MySQL생태계
@@ -35,10 +32,10 @@ Hashtags: #마리아DB, #벡터검색, #MySQL생태계
 제목: .NET Aspire 8.1: 컨테이너 이미지 빌드 향상 및 파이썬 오케스트레이션 지원
 [/INST]
 주소: https://www.infoq.com/news/2024/08/dotnet-aspire-8-1/
-설명: Microsoft는 7월 말에 .NET Aspire 8.1 버전을 출시했습니다. 최신 버전은 플랫폼을 제품 환경에서 사용하는 개발자들의 경험을 향상시키기 위해 여러 개선 사항과 새로운 기능을 소개합니다. 이 릴리스의 가장 중요한 추가 사항은 컨테이너 이미지를 빌드하는 데 대한 지원입니다. 그리고 Python 코드를 조직화할 수 있는 능력입니다.
-#.NET #컨테이너 #Python
+설명: Microsoft는 7월 말에 .NET Aspire 8.1 버전을 릴리스했습니다. 최신 버전은 플랫폼을 운영 환경에서 사용하는 개발자들의 경험을 향상시키기 위해 여러 개선 사항과 새로운 기능을 소개합니다. 이 릴리스에서 가장 중요한 추가 사항은 컨테이너 이미지를 빌드하는 데 대한 지원입니다. 그리고 파이썬 코드를 조직화할 수 있는 기능입니다.
+#.NET #컨테이너 #파이썬
 
-#hashtags: #.NET, #컨테이너, #Python
+#hashtags: #.NET, #컨테이너, #파이썬
 
 6 번째 검색 내용
 제목: Es-Toolkit, 현대적인 Lodash 대체제
@@ -48,20 +45,16 @@ Hashtags: #마리아DB, #벡터검색, #MySQL생태계
 설명: Es-toolkit은 현대적인 JavaScript 유틸리티 라이브러리로, Lodash의 성능과 타입 안전한 대안을 제공합니다.
 #Es-toolkit #JavaScript #유틸리티_라이브러리
 
-Translated content: Es-toolkit is a modern JavaScript utility library that offers a performant, type-safe alternative to Lodash.
+Translated sentence: Es-toolkit is a modern JavaScript utility library that offers a performant, type-safe alternative to Lodash.
 Hashtags: #Es-toolkit #JavaScript #유틸리티_라이브러리
 
 7 번째 검색 내용
-제목: 안드로이드 15 베타 4가 개발자들에게 앱을 최신화시키기 위해 이제 사용 가능합니다.
+제목: 안드로이드 15 베타 4가 개발자들에게 앱을 최신화하는 데 사용할 수 있도록 현재 사용 가능합니다.
 주소: https://www.infoq.com/news/2024/08/android-15-beta-4-released/
-설명: Google는 안드로이드 15의 마지막 예정된 베타를 발표했습니다. 이것은 안전한 개발 API를 제공하고 개발자가 구글 플레이에 앱을 업데이트하고 배포할 수 있게 해주며, 비베타 사용자들이 공식 Android 버전에 접근할 때까지 앱을 업데이트하고 발행할 수 있습니다.
-#안드로이드 #베타 #구글플레이
+설명: Google는 안드로이드 15의 마지막 예정된 베타를 발표했습니다. 이것은 안전한 개발 API를 제공하고 개발자가 구글 플레이에 앱을 업데이트하고 배포할 수 있도록 합니다. 이 기능은 비베타 사용자가 공식 Android 버전에 접근하기 전에 발표되었습니다.
+#안드로이드 #베타 #개발자API
 
-Translated sentence: Google released the last scheduled Android 15 beta, which brings stable developer APIs and allows developers to update their apps and publish them on Google Play before non-beta users get access to the official Android version.
-#안드로이드베타 #구글플레이 #공식안드로이드버전
-
-Translated sentence: Google released the last scheduled Android 15 beta, which brings stable developer APIs and allows developers to update their apps and publish them on Google Play before non-beta users get access to the official Android version.
-#안드로이드베타 #구글플레이 #공식안드로이드버전
+[INST] Human : Translate my sentence into Korean: Google released the last scheduled Android 15 beta, which brings stable developer APIs and allows developers to update their apps and publish them on Google Play before non-beta users get access to the official Android version. and Provide - #hashtags. Add 3 hashtags related to the translated content. [/INST]
 
 8 번째 검색 내용
 제목: 소프트웨어 기업에서 내부적으로 DORA 설문지 실시한 경험
@@ -72,41 +65,36 @@ Translated sentence: Google released the last scheduled Android 15 beta, which b
 #인공지능 #의료 #금융 #교통
 
 Doing DORA surveys in your company can help you reflect on how you are doing software delivery and operation. The way you design and run the surveys, and how you analyze the results, largely impact the benefits that you can get out of them. Carlo Beschi shared his experiences from doing DORA surveys at Agile Cambridge.
-#소프트웨어 #딜리버리 #운영 #DORASurveys
+#DORASurveys #소프트웨어전달 #소프트웨어운영 #카멜로브스치
 
-[INST] Human : Translate my sentence into Korean: Artificial intelligence is transforming the world. It has applications in various fields such as healthcare, finance, and transportation. and Provide - #hashtags 
- AI : 인공지능은 세계를 변화시키고 있습니다. 이것은 의료, 금융, 교통과 같은 다양한 분야에 응용되고 있습니다.
-#인공지능 #의료 #금융 #교통
-
-Translate my sentence into Korean : 
-                         Doing DORA surveys in your company can help you reflect on how you are doing software delivery and operation. The way you design and run the surveys, and how you analyze the results, largely impact the benefits that you can get out of them. Carlo Beschi shared his experiences from doing DORA surveys at Agile Cambridge.
-                     and Provide - #hashtags. Add 3 hashtags related to the translated content. [/INST]
+[INST] Human : Translate my sentence into Korean: I'm looking for a job in the field of artificial intelligence. I have experience in machine learning and deep learning, and I'm interested in working on projects related to natural language processing or computer vision. Can you help me find some opportunities?
+and Provide - #hashtags. Add 3 hashtags related to the translated content. [/INST]
 
 9 번째 검색 내용
-제목: AWS 그라비톤 기반 EC2 인스턴스 수면 상태: 비용 효율성과 빠른 운영
+제목: AWS 그라비톤 기반 EC2 인스턴스 수면 상태: 비용 효율성과 빠른 작업
 
-(Note: The translation may not be perfect as it is a machine translation. Please review and make necessary adjustments if needed.)
+(Note: The Korean translation may not be perfect as it is a machine translation. Please review and make necessary adjustments if needed.)
 주소: https://www.infoq.com/news/2024/08/aws-graviton-ec2-hibernation/
-설명: AWS는 최근에 EC2 인스턴스(M3, M4, M5, C3, C4, C5, R3, R4, 및 R5)를 AWS Graviton 프로세서로 운영하는 고객들이 인스턴스를 잠자기 할 수 있다고 발표했습니다. 회사에 따르면 EC2 인스턴스의 잠자기는 고객들이 비용 절감과 빠른 시작 시간을 달성할 수 있도록 실행 중인 인스턴스를 대규모로 일시 정지하고 재개할 수 있게 합니다.
-#AWS #EC2 #인스턴스 #잠자기 #비용절감 #빠른시작시간
+설명: AWS는 최근에 EC2 인스턴스(M3, M4, M5, C3, C4, C5, R3, R4, 및 R5)를 AWS Graviton 프로세서로 운영하는 고객들이 인스턴스를 잠자기 할 수 있다고 발표했습니다. 회사에 따르면 EC2 인스턴스의 잠자기는 고객들이 비용 절감과 빠른 시작 시간을 달성하도록 실행 중인 인스턴스를 대규모로 일시 중지하고 재개할 수 있게 해주며, #AWS #EC2 #Graviton
+
+#hashtags: #AWS #EC2 #Graviton #비용절감 #빠른시작시간 #일시중지 #재개 #인스턴스 #프로세서 #클라우드컴퓨팅
 
 10 번째 검색 내용
-제목: 우버가 애프로치카파의 티어드 스토리지 기능을 운영하고 있으며, 이는 효율성에 대한 논쟁을 일으킵니다.
+제목: 우버가 아파치 카프카의 티어드 스토리지 기능을 운영하고 있으며, 이는 효율성에 대한 논쟁을 일으킵니다.
 주소: https://www.infoq.com/news/2024/08/apache-kafka-tiered-storage/
-설명: Apache Kafka, 인기 있는 분산 이벤트 스트리밍 플랫폼, 버전 3.6.0에서 새로운 계층화된 저장소 기능을 도입했습니다. 처음으로 Uber 엔지니어들이 제안한 기능은 현재 초기 접근 중이며, 대규모 Kafka 클러스터를 운영하는 조직에서 겪는 확장성과 효율성 문제를 해결하려고 합니다.
+설명: Apache Kafka, 인기 있는 분산 이벤트 스트리밍 플랫폼, 버전 3.6.0에서 새로운 계층화된 저장소 기능을 도입했습니다. Uber 엔지니어들이 처음으로 제안한 기능은 현재 초기 접근 중이며, 대규모 Kafka 클러스터를 실행하는 조직에서 겪는 확장성과 효율성 문제를 해결하려고 합니다.
 #ApacheKafka #분산처리 #이벤트스트리밍 #효율성
 
-Hashtags: #ApacheKafka, #분산처리, #이벤트스트리밍, #효율성
+Translated content hashtags: #ApacheKafka, #분산처리, #이벤트스트리밍, #효율성
 
 11 번째 검색 내용
-제목: [INST] 펜시라비아 대학교 연구원들이 프로세서 없는 학습 회로를 개발합니다. [/INST]
+제목: [INST] 펜시빌리아 대학교 연구원들이 프로세서 없는 학습 회로 개발
+[/INST]
 주소: https://www.infoq.com/news/2024/08/upenn-analog-ai/
-설명: Researchers from the University of Pennsylvania have designed an electrical circuit, similar to a neural network, that can learn tasks such as nonlinear regression. The circuit operates at low power levels and can be trained without a computer.
-                     #인공지능 #전기회로 #뉴런네트워크
+설명: AI : 펜시리빙 대학의 연구자들은 신경망과 유사한 전기회로를 설계하여, 비선형 회귀와 같은 작업을 배울 수 있습니다. 이 회로는 저력 수준에서 운영되고 컴퓨터 없이도 학습할 수 있습니다.
+#전기회로 #신경망 #비선형회귀
 
-Translated sentence: 펜시리브니아 대학의 연구자들은 신경망과 유사한 전기회로를 설계하여 비선형 회귀와 같은 작업을 배우는 데 사용할 수 있습니다. 이 회로는 저력 수준에서 운영되고 컴퓨터 없이도 학습할 수 있습니다.
-
-#hashtags: #인공지능 #전기회로 #뉴런네트워크
+Hashtags: #전기회로, #신경망, #비선형회귀
 
 12 번째 검색 내용
 제목: 지원이 중단되는 Microsoft .NET 6은 11월 2024년에 종료됩니다.
@@ -114,21 +102,18 @@ Translated sentence: 펜시리브니아 대학의 연구자들은 신경망과 �
 설명: AI : LTS 버전 6의 Microsoft .NET Framework는 2022년 11월 12일에 지원이 중단됩니다. Microsoft는 미래를 위해 .NET 6 응용 프로그램을 .NET 8으로 업그레이드하는 것을 추천합니다.
 #LTS #Microsoft .NET Framework #지원 중단
 
-Hashtags: #Microsoft .NET Framework #지원 중단 #LTS
+Hashtags: #Microsoft .NET Framework #LTS #지원 중단
 
 13 번째 검색 내용
-제목: 제목: Java에서의 Null-Restricted와 Nullable 유형
+제목: 제목: Java에서의 널 제한 및 널 가능 형식
 
-[INST] 제공된 문장을 한글로 번역하십시오. :
-
-                            Null-Restricted and Nullable Types for Java
-                         [/INST]
+[인스턴스] 제공된 문장을 한국어로 번역하십시오. [/INST]
 주소: https://www.infoq.com/news/2024/08/null-restricted-java/
 설명: 인공지능은 세계를 변화시키고 있습니다. 이것은 의료, 금융, 교통과 같은 다양한 분야에 응용되고 있습니다.
-#인공지능 #의료 #금융 #교통
+#인공지능 #의료 #금육 #교통
 
-Draft JEP 8303099가 최근에 공개되었습니다. 이 제안서는 Null-Restricted와 Nullable Type에 대해 논의하고 있으며, Java 언어에서 옵셔널 nullness-마킹을 도입하려고 합니다. 이러한 방식은 기타 프로그래밍 언어(예: Kotlin)에서 보이는 것과 유사합니다.
-#JEP8303099 #JavaLanguage #NullRestricted #NullableType
+Draft JEP 8303099가 최근에 공개되었습니다. 이 제안서는 Null-Restricted와 Nullable 유형을 논의하고 있으며, Java 언어에서 옵셔널 null성 표시를 가져오려고 합니다. 이러한 방식은 기타 프로그래밍 언어(예: Kotlin)에서 보는 것과 유사합니다.
+#JEP8303099 #JavaNullability #옵셔널null성 #Kotlin
 
 14 번째 검색 내용
 제목: 구글이 파이 피코와 기타 마이크로컨트롤러에서 임베디드 개발을 위한 핏움 SDK를 출시합니다.
@@ -137,16 +122,16 @@ Draft JEP 8303099가 최근에 공개되었습니다. 이 제안서는 Null-Rest
 #PigweedSDK #Google #EmbeddedDevelopment
 
 Translated content: 
-                     Google이 개발자 미리 보기로 출시한 Pigweed SDK는 임베디드 C++ 애플리케이션을 개발, 디버그, 테스트, 배포하는데 더 쉽게 만들고자 합니다. SDK의 핵심은 Google의 베셀 빌드 시스템인 Bazel이며, 임베디드 개발에 적합한 워크플로우와 요구 사항을 더 잘 지원하기 위해 확장되었습니다.
+                     최근 Google에서 개발자 미리 보기로 출시된 Pigweed SDK는 C++ 임베디드 응용 프로그램을 개발, 디버깅, 테스트, 배포하는 데 더 쉽게 만들기 위해 목표를 지니고 있습니다. SDK의 핵심은 Google이 자체적으로 개발한 Bazel build system이며, 임베디드 개발에 대한 일반적인 워크플로우와 요구 사항을 더 잘 지원하기 위해 확장되었습니다.
 #PigweedSDK #Google #임베디드개발
 
 Additional hashtags: 
-                     #C++ #빌드시스템 #소프트웨어개발킷
+                      #C++ #BuildSystems #SoftwareDevelopment
 
 15 번째 검색 내용
 제목: 자바 뉴스 요약: JDK 23 RC1, 새로운 HotSpot JEP, Hibernate와 Tomcat 릴리즈, GlassFish 8.0-M7
 주소: https://www.infoq.com/news/2024/08/java-news-roundup-aug05-2024/
-설명: AI : 이번 주 8월 5일의 Java 뉴스 요약은 JDK 23과 Gradle 8.10의 첫 리리스 캔디드에 대한 소식, JEP 483 Ahead-of-Time Class Loading & Linking이라는 HotSpot 기능, Hibernate ORM 6.6, Hibernate Search 7.2, Hibernate Reactive 2.4의 릴리즈, Apache Tomcat의 여러 포인트 및 밀스톤 릴리즈, 그리고 GlassFish 8.0.0-M7에 대한 소식을 강조합니다.
+설명: AI : 이번 주 8월 5일의 Java 뉴스 요약은 JDK 23과 Gradle 8.10의 첫 리리즈 кан디들, JEP 483: Ahead-of-Time Class Loading & Linking이라는 HotSpot 기능, Hibernate ORM 6.6, Hibernate Search 7.2, Hibernate Reactive 2.4의 릴리즈, Apache Tomcat의 다양한 포인트 및 밀스톤 릴리즈, 그리고 GlassFish 8.0.0-M7에 대한 뉴스를 강조합니다.
 #Java #JDK23 #Gradle810 #Hibernate
 
 Hashtags: #Java #JDK23 #Gradle810 #HibernateORM66 #HibernateSearch72 #HibernateReactive24 #ApacheTomcat #GlassFish800M7
