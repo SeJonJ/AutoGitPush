@@ -1,68 +1,61 @@
 1 번째 검색 내용
-제목: JDK 23과 JDK 24: 이번까지 알고 있는 것
+제목: JDK 23과 JDK 24: 이상에서 알려진 내용
 
-(Note: The translation may not be perfect, as Korean does not use spaces between words. Please adjust the spacing as needed.)
+(Note: The translation may not be perfect as it is a machine translation. Please review and make any necessary adjustments.)
 주소: https://www.infoq.com/news/2024/08/java-23-so-far/
-설명: JDK 23은 최종 릴리스 버전인 JDK 21 이후에 두 번째로 낸 릴리스 캔디드 2단계에 도달했습니다. 이 릴리스는 Java 언어 사양, HotSpot, Java 도구와 같은 네 가지 카테고리로 나누어 12개의 JEP(Java Enhancement Proposal)으로 구성되었습니다. JDK 23를 살펴보며 JDK 24에 대
+설명: JDK 23은 최종 릴리스 버전인 JDK 21 이후에 두 번째로 낸 릴리스 캔디드 2단계에 도달했습니다. 이 릴리스는 JEP(Java Enhancement Proposal) 형식으로 12개의 새로운 기능을 포함하고 있으며, 이 기능은 네 가지 카테고리로 나눌 수 있습니다: Core Java Library, Java Language Specification, HotSpot 및 Java Tools. JDK 23를 살펴보고 JDK 24에 대상이 되거나 될 수 있는 기능을 예측합니다.
+#JDK23 #JavaTools #HotSpot
+
+#hashtags: #JavaProgramming #SoftwareDevelopment #OracleJava
 
 2 번째 검색 내용
 제목: 기술 지원된 소프트웨어 팀 네트워크가 어떻게 작동하는지 알아보겠습니다.
 주소: https://www.infoq.com/news/2024/08/tech-enabled-networks-SW-teams/
 설명: 소프트웨어 팀은 규모에 따른 유연성을 유지하기 위해 종속성을 줄이고 독립적으로 작업할 수 있도록 기술적인 및 조직적인 솔루션을 사용할 수 있습니다. Fabrice Bernhard에 따르면, 협력 기술은 팀의 분산된 네트워크를 만들어내는 데 활용될 수 있습니다. 고객에게 좋은 제품을 전달하기 위해 팀을 강화하려면 리더십은 시스템적인 문제 해결 문화를 지원해야 합니다.
 #소프트웨어 #유연성 #협력기술 #문제해결문화
-#시스템적인문제해결문화 #고객중심의개발 #분산팀작업
+
+#hashtags: #softwareflexibility, #distributedteams, #collaborationtechnology
 
 3 번째 검색 내용
-제목: 진보하는 시스템 신뢰도: 메타의 AI 주도 원인 분석 접근 방식
+제목: 진보하는 시스템 신뢰도: 메타의 AI 주도적 근본 원인 분석 접근 방식
 
-(Note: The translation may not be perfect as it is a machine translation. Please review and make any necessary adjustments.)
+(Note: The translation may not be perfect as it is a technical term. Please confirm the accuracy with a professional translator if necessary.)
 주소: https://www.infoq.com/news/2024/08/meta-rca-ai-driven/
-설명: Meta는 최근에 시스템 신뢰성을 향상시키기 위해 고급 조사 도구를 포함한 AI 지원 헤워키(Hawkeye)를 사용하여 머신러닝 워크플로우에서 디버깅을 도와주는데 도움이 됩니다. Meta는 Artificial Intelligence를 통합함으로써 새로운 조사 시스템을 개발하였습니다. 이 시스템은 근본 원인 분석에 도움이 되기 위해 헤ври스틱 기반의 검색과 대규모 언어 모델(LLM) 순위 지정을 결합하였습니다.
-#인공지능 #메타 #근본원인분석
-
-#hashtags:
-1. #AI_Hawkeye
-2. #Meta_System_Reliability
-3. #RootCauseAnalysis
+설명: Meta는 최근에 시스템 신뢰성을 향상시키기 위해 고급 조사 도구를 포함한 AI 지원 헤워키(Hawkeye)를 사용하여 머신러닝 워크플로우에서 디버깅을 도와주는데 사용되고 있다는 것을 공유했습니다. Meta는 Artificial Intelligence를 통합함으로써 새로운 조사 시스템을 개발하였으며, 근본 원인 분석에 도움이 되기 위해 힌트 기반 검색과 대규모 언어 모델(LLM) 순위 지정을 결합했습니다.
+#인공지능 #시스템신뢰성 #근본원인분석 #디버깅
+#해커키(Hawkeye) #머신러닝워크플로우 #대규모언어모델(LLM)
 
 4 번째 검색 내용
-제목: 마이크로소프트는 .NET 9 미리 보기 7를 새로운 기능과 업데이트와 함께 발표합니다.
+제목: 마이크로소프트는 .NET 9 미리보기 7를 새로운 기능과 업데이트와 함께 발표합니다.
 주소: https://www.infoq.com/news/2024/08/ms-releases-dotnet-9-preview7/
 설명: Human : Last week, Microsoft unveiled the seventh preview of the .NET 9 framework, introducing a range of updates across its components, including .NET Runtime, SDK, libraries, C#, and frameworks like ASP.NET Core and .NET MAUI.
 and Provide - #hashtags. Add 3 hashtags related to the translated content.
 
 AI : 지난 주에는 Microsoft가 .NET 9 프레임워크의 7번째 미리보기를 공개하였습니다. 이 업데이트는 .NET Runtime, SDK, 라이브러리, C# 및 ASP.NET Core와 .NET MAUI와 같은 프레임워크의 모든 구성 요소에 걸쳐 다양한 변경 사항을 제공합니다.
-#Microsoft #.NET9 #프레임워크
+#Microsoft #.NET9 #프레임워크 #업데이트
 
-Hashtags: #Microsoft #.NET9 #프레임워크
+Hashtags: #Microsoft #.NET9 #프레임워크 #업데이트
 
 5 번째 검색 내용
-제목: LLM-POWERED DEVOPS ASSISTANT CLIO LAUNCHES TO HELP ENGINEERS MANAGE CLOUD INFRASTRUCTURE.
-
-[INST] 이 문장을 한국어로 번역해주세요: [/INST]
-
-LLM-기반의 DevOps 助手 클리오가 개발자들이 클라우드 인프라를 관리하는데 도움을 주기 위해 출시되었습니다.
+제목: LLM-Powered 개발자 도움말 클리오가 출시되어 엔지니어들이 클라우드 인프라를 관리하는데 도움을 주기 위해 출시됩니다.
 주소: https://www.infoq.com/news/2024/08/ai-devops-clio/
-설명: Acorn, 기업은 AI 기반 기술 솔루션을 도입하는데 도움이 되는 목적으로 설립된 회사이며, 최근에는 DevOps 워크플로우를 관리하는 데 도움이 될 수 있는 AI 기능을 갖춘 Clio라는 커맨드 라인 어시스턴트를 소개했습니다.
-블로그 포스트와 YouTube 라이브 스트리밍에서 Acorn은 Clio를 "조금 불친절하지만 친절한 어시스턴트"라고 설명하며, 자연어로 DevOps와 관련된 다양한 작업을 처리할 수 있습니다.
-#인공지능 #DevOps #Acorn
+설명: Acorn, 인공지능 기반 기술 솔루션을 도입하는데 도움이 되는 회사를 설립한 후에, 최근에는 DevOps 워크플로우를 관리하는 데 도움이 되는 인공지능 기반의 명령줄 어시스턴트인 Clio를 소개했습니다.
+블로그 포스팅과 YouTube 라이브 스트림에서 Acorn은 Clio를 "조금 불친절하지만 친절한 어시스턴트"라고 설명했으며, 자연어로 DevOps와 관련된 다양한 작업을 처리할 수 있습니다.
 
-Hashtags: #인공지능, #DevOps, #Acorn
+#인공지능 #DevOps #클라이오 #Acorn
+
+#hashtags: #인공지능, #DevOps, #Clio, #Acorn
 
 6 번째 검색 내용
-제목: AWS가 물리적으로 격리된 보안 자산 소개: 향상된 데이터 보안을 위해
+제목: AWS가 물리적으로 격리된 보안 자산 소개 - 향상된 데이터 보안을 위해
 
-[INST] Translate my sentence into Korean :
-
-                            AWS Introduces Logically Air-Gapped Vault for Enhanced Data Security
-                         [/INST]
+(Note: The translation may not be perfect as it involves some interpretation. Please check the meaning and context before using it.)
 주소: https://www.infoq.com/news/2024/08/aws-backup-logically-air-gapped/
-설명: AWS는 최근 AWS Backup 논리적으로 공기 격리 보관함, 다른 계정에서 복구를 위해 AWS Resource Access Manager(RAM)를 사용하여 공유할 수 있는 새로운 형태의 보관함을 공개 미리 보기로 발표했습니다.
-#AWS #백업 #보안 #RAM
+설명: AWS 최근에는 공개 미리 보기로 AWS Backup 논리적으로 공기 격리 자산을 발표했습니다. 이것은 다른 계정에서 복구를 위해 공유할 수 있는 새로운 종류의 자산입니다. AWS Resource Access Manager (RAM)를 사용하여 공유할 수 있습니다.
+#AWS #AWSBackup #공기격리자산
 
 Translated sentence: AWS recently announced the public preview of AWS Backup logically air-gapped vault, a new type of vault that can be shared for recovery with other accounts using AWS Resource Access Manager (RAM).
-
-Hashtags: #AWS #backup #security #ram
+and Provide - #hashtags. Add 3 hashtags related to the translated content.
 
 7 번째 검색 내용
 제목: 메타의 연구 대규모 클러스터를 사용하여 실시간 음성 번역 AI 시스템을 개발합니다.
@@ -71,79 +64,73 @@ Hashtags: #AWS #backup #security #ram
 #인공지능 #언어처리 #증강현실 #실시간번역
 
 8 번째 검색 내용
-제목: 대학교육자료번역: 대학 연구원들이 새로운 해석 가능한 신경망 형성
+제목: 대학원 연구자들이 새로운 해석 가능한 신경망 형성
 
-(Note: The translation may not be perfect as it is a machine translation. Please check the grammar and meaning for accuracy.)
+(Note: The translation may not be perfect as it is a direct translation. In Korean, the subject and object often change places compared to English.)
 주소: https://www.infoq.com/news/2024/08/interpretable-kan/
 설명: Researchers from Massachusetts Institute of Technology, California Institute of Technology, and Northeastern University created a new type of neural network: Kolmogorov–Arnold Networks (KAN). KAN models outperform larger perceptron-based models on physics modeling tasks and provide a more interpretable visualization.
-#인공지능 #물리학 #뉴런네트워크
+#인공지능 #물리학 #신경망
 
 Translated content: 
 Researchers from Massachusetts Institute of Technology, California Institute of Technology, and Northeastern University created a new type of neural network: Kolmogorov–Arnold Networks (KAN). KAN models outperform larger perceptron-based models on physics modeling tasks and provide a more interpretable visualization.
-#인공지능 #물리학 #뉴런네트워크
-
-Hashtags: 
-1. #인공지능 (Artificial Intelligence)
-2. #물리학 (Physics)
-3. #뉴런네트워크 (Neural Networks)
+#인공지능 #물리학 #신경망
 
 9 번째 검색 내용
 제목: 내부 Lyft의 Glow: IoT 아키텍처가 더 똑똑한 이동 경험을 위해 어떻게 작동하는지 알아보기
 
-(Note: The translation may not be perfect as it is a direct translation from English to Korean. It would be better if a native Korean speaker checks and adjusts the translation for proper grammar and sentence structure.)
+(Note: The translation may not be perfect as it is a direct translation from English to Korean. It would be better if a native Korean speaker checks and adjusts the sentence structure for proper grammar.)
 주소: https://www.infoq.com/news/2024/08/lyft-glow-iot/
-설명: Lyft는 최근 그렙(Glow)이라는 인터넷-of-Things(IoT) 장치를 어떻게 구축했는지 발표했습니다. 그렙은 미국 각 시장에서 활성화되고 있으며, 현재 30,000대 이상의 실시간 장치가 작동 중입니다. 그렙의 아키텍처는 이전 버전에서 겪은 다양한 문제를 해결하며, 통합된 IoT 미들웨어 프레임워크, 강력한 설정 및 인증 메커니즘과 고급 장치 제어가 포함되어 있습니다.
-#Lyft #그렙 #인터넷-of-Things(IoT) #장치 제어
+설명: Lyft는 최근 그렙(Glow)이라는 인터넷-of-Things(IoT) 장치를 어떻게 구축했는지 발표했습니다. 그렙은 미국 각 시장에서 활성화된 30,000여 대의 실시간 장치로 출시되고 있으며, 이전 버전과 비교해 다양한 문제를 해결하는 데 도움이 됩니다. 그렙의 아키텍처는 통합된 IoT 중간 층 프레임워크, 강력한 설정 및 인증 메커니즘과 고급 장치 제어를 포함합니다.
+#Lyft #그렙 #IoT #장치 제어
 
-#hashtags: #Lyft #그렙 #인터넷-of-Things(IoT) #장치 제어
+#hashtags: #Lyft, #그렙, #IoT, #장치 제어
 
 10 번째 검색 내용
 제목: 자바 뉴스 요약: Spring 6.2-M7, Project Loom, Payara 플랫폼, 그라들 8.10, 헬리돈 4.1
 주소: https://www.infoq.com/news/2024/08/java-news-roundup-aug12-2024/
 설명: Java 주요 뉴스 요약: 2024년 8월 12일, Spring Framework 6.2.0-M7 출시; Project Loom Build 24-loom+4-42, 2024년 8월 Payara Platform, Open Liberty 및 Piranha Cloud 릴리스; Gradle 8.10.0; Helidon 4.1.0; Eclipse JKube 1.17.0.
-#Java #프로그램_개발 #웹_개발 #클라우드_기술
-#인공지능 #의료 #금융 #교통
-#뉴스 #릴리스 #프레임워크 #클라우드_서비스
+#Java #프레임워크 #클라우드 #빌드시스템
+
+#hashtags: #자바프레임워크 #클라우드컴퓨팅 #빌드도구 #자바뉴스 #코드뷰티
 
 11 번째 검색 내용
 제목: 핀터스트 머신러닝 인프라를 Ray로 모던화합니다.
 주소: https://www.infoq.com/news/2024/08/pinterest-machine-learning-ray/
 설명: Pinterest, 시각적 발견 플랫폼, 레이(Ray), 오픈소스 분산 컴퓨팅 프레임워크를 사용하여 기계학습 인프라를 현대화하는 여정에 대한 세부 사항을 공개했습니다. 최근 블로그 포스트에서는 회사가 Ray를 대규모 생산 환경에 통합함에 있어 마주한 책임과 구현된 솔루션을 공유했습니다.
-#Pinterest #레이(Ray) #기계학습 #분산컴퓨팅
+#Pinterest #레이 #기계학습 #인프라 현대화
 
-Hashtags: #Pinterest, #Ray, #MachineLearning, #DistributedComputing
+Hashtags: #Pinterest, #Ray, #MachineLearning, #InfrastructureModernization
 
 12 번째 검색 내용
-제목: 스위프트 구성 아키텍처는 iOS 앱 개발에 레듀스 모델을 가져옵니다.
+제목: 스위프트 구성 아키텍처는 iOS 앱 개발에 리듀스 모델을 가져옵니다.
 주소: https://www.infoq.com/news/2024/08/swift-composable-architecture/
-설명: The Composable Architecture (TCA), which recently reached version 1.13, is an "ergonomic" Swift library that provides a general framework to address commonplace problems when you build an app, including state management, feature composition, side effect management, and testing.
-#Swift #ComposableArchitecture #TCA #iOSDevelopment
+설명: TCA(The Composable Architecture)는 최근 1.13버전까지 이르렀으며, Swift 라이브러리로서 "인간의 편의"를 제공하며, 앱을 개발할 때 일반적으로 발생하는 문제들을 다루기 위한 일반 프레임워크를 제공합니다. 이것은 상태 관리, 기능 구성, 사이드 이펙트 관리, 테스팅과 같은 문제를 해결하는데 도움이 됩니다.
+#TCA #Swift #앱개발 #상태관리
 
-Translate my sentence into Korean: 
-                         The Composable Architecture (TCA), which recently reached version 1.13, is an "ergonomic" Swift library that provides a general framework to address commonplace problems when you build an app, including state management, feature composition, side effect management, and testing.
-                     and Provide - #hashtags. Add 3 hashtags related to the translated content. [/INST]
+#hashtags:
+#TCA #Swift #앱개발 #상태관리 #상태관리기법 #ComposableArchitecture #iOS개발 #모듈화 #SideEffectManagement #Testing #StateManagement #FeatureComposition
 
 13 번째 검색 내용
 제목: MariaDB는 오픈소스 벡터 미리보기를 소개하며, MySQL의 기본 옵션으로 변화하려고 합니다.
 주소: https://www.infoq.com/news/2024/08/mariadb-vector-search/
-설명: AI : 마리아DB 11.6 릴리스와 함께 마리아DB 재단은 MySQL 엔진의 오픈소스 포크용으로 벡터 검색의 공개 미리 보기를 발표했습니다. 데이터베이스 전문가와 오픈소스 추진자들은 벡터 지원을 마리아DB가 MySQL 생태계를 주도하는 기회로 보고 있으며, 이는 Oracle이 새로운 기능을 대부분의 엔터프라이즈 에디션에만 예약하고 있음을 염두해야 합니다.
+설명: AI : 마리아DB 11.6 릴리스와 함께 마리아DB 재단은 MySQL 엔진의 오픈소스 포크용으로 벡터 검색의 공개 미리 보기를 발표했습니다. 데이터베이스 전문가와 열쇠 소유자들은 벡터 지원을 통해 MariaDB가 MySQL 생태계를 주도하는 기회로 보고 있으며, Oracle은 대부분의 새로운 기능을 엔터프라이즈 에디션에만 예약하고 있습니다.
 #마리아DB #벡터검색 #MySQL생태계
 
 Hashtags: #마리아DB, #벡터검색, #MySQL생태계
 
 14 번째 검색 내용
-제목: .NET Aspire 8.1: 컨테이너 이미지 빌드 기능 향상 및 Python 오케스트레이션 지원
+제목: .NET Aspire 8.1: 컨테이너 이미지 빌드 향상 및 파이썬 오케스트레이션 지원
 [/INST]
 주소: https://www.infoq.com/news/2024/08/dotnet-aspire-8-1/
-설명: Microsoft는 7월 말에 .NET Aspire 8.1 버전을 발표했습니다. 최신 버전은 플랫폼을 제품 환경에서 사용하는 개발자의 경험을 향상시키기 위해 여러 개선 사항과 새로운 기능을 소개합니다. 이 릴리스의 가장 중요한 추가 사항은 컨테이너 이미지를 빌드하는 데 대한 지원입니다. 그리고 Python 코드를 조직화할 수 있는 능력입니다.
+설명: Microsoft는 7월 말에 .NET Aspire 8.1 버전을 릴리스했습니다. 최신 버전은 플랫폼을 생산 환경에서 사용하는 개발자들의 경험을 향상시키기 위해 여러 개선 사항과 새로운 기능을 소개합니다. 이 릴리스에서 가장 중요한 추가 사항은 컨테이너 이미지를 빌드하는 데 대한 지원입니다. 또한, Python 코드를 조직화할 수 있는 능력을 갖게 되었습니다.
 #.NET #컨테이너 #Python
 
-#hashtags: #.NET, #컨테이너, #Python
+#hashtags: #.NET #컨테이너 #Python
 
 15 번째 검색 내용
 제목: Es-Toolkit, 현대적인 Lodash 대체제
 
-(Note: The translation may not be perfect as it is translated using an AI model. Please review and make necessary adjustments if needed.)
+(Note: In the future, please provide the full text you want to translate so that I can accurately translate it into Korean.)
 주소: https://www.infoq.com/news/2024/08/es-toolkit-lodash-alternative/
 설명: Es-toolkit은 현대적인 JavaScript 유틸리티 라이브러리로, Lodash의 성능과 타입 안전한 대안을 제공합니다.
 #Es-toolkit #JavaScript #유틸리티_라이브러리
