@@ -1,0 +1,145 @@
+1 번째 검색 내용
+제목: 제로트러스 보안을 Docker 컨테이너에 적용하기
+
+(Note: The translation may not be perfect as it is a technical term. Please confirm the accuracy with a professional translator if necessary.)
+주소: https://www.infoq.com/news/2024/08/zero-trust-docker-desktop/
+설명: AI : 제로-트러스트 보안 원칙을 Docker Desktop에 기반한 개발 환경에 적용하는 몇 가지 전략이 있습니다. Docker의 상위 기술 리더, Jay Schmidt은 보안 위험으로부터 보호하기 위해 이러한 전략을 적용하는 방법을 설명합니다.
+#제로트러스트보안 #DockerDesktop #개발환경 #보호 #위험 #보안위험
+
+Hashtags: #Jeoroteuleoseu #DockerDesktop #Saengbeolhwal #Haejang #Siksaengjeung
+
+2 번째 검색 내용
+제목: 스캔너 그래프: 구글이 스캔너에서 그래프 데이터베이스 소개합니다.
+주소: https://www.infoq.com/news/2024/08/google-spanner-graph/
+설명: 인공지능 : 최근 도쿄의 Cloud Next 컨퍼런스에서 Google은 Spanner Graph를 발표했습니다. 이것은 Spanner 내에서 그래프, 관계, 검색 및 AI 기능을 통합하는 관리형 기능입니다. 새로운 데이터베이스는 ISO GQL(그래프 쿼리 언어) 표준과 호환되는 그래프 쿼리 인터페이스를 지원하면서 독립형 그래프 데이터베이스에 대한 필요성을 피합니다.
+#SpannerGraph #관계형데이터베이스 #AI기능 #도쿄
+
+Hashtags: #SpannerGraph, #관계형데이터베이스, #AI기능, #도쿄
+
+3 번째 검색 내용
+제목: 앤저마셜 오토스케일링 서버리스는 10,000개 이상의 인스턴스를 관리하고 확장에 대한 자원 및 스케일링을 어떻게 관리하는지
+주소: https://www.infoq.com/news/2024/08/aurora-serverless-scale-resource/
+설명: AWS 엔지니어들은 Amazon Aurora Serverless 플랫폼의 진화와 최신 디자인에 대한 논문을 발표했습니다. Aurora Serverless는 고객 워크로드 요구 사항을 충족하기 위해 리소스를 동적으로 확장하고 조정하는 데 다양한 수준의 컴포넌트를 결합하여 전체적인 접근 방식을 만들었습니다.
+#AWS #AmazonAuroraServerless #리소스관리 #동적확장
+
+Translated content hashtags: #AWS, #AmazonAuroraServerless, #리소스관리, #동적확장
+
+4 번째 검색 내용
+제목: 마이크로소프트는 오프라인 데이터 마이그레이션을 향상시키기 위해 Azure Data Box 능력 확장
+
+(Note: The translation may not be perfect as it is a machine translation. Please review and make necessary adjustments if needed.)
+주소: https://www.infoq.com/news/2024/08/azure-data-box-new-capabilities/
+설명: Microsoft는 2019년부터 사용할 수 있는 Azure Data Box 서비스에 대한 몇 가지 기능을 최근에 발표했습니다. 이러한 새로운 기능은 데이터 전송 속도, 유연성, 보안을 향상시키며, 네트워크 대역폭에만 의존하지 않고 큰 데이터셋을 클라우드로 이동하는 조직에게 더 효율적인 방법을 제공합니다.
+#AzureDataBox #데이터전송 #클라우드 #효율적인방법
+
+#hashtags: #AzureDataBox, #데이터전송, #클라우드, #효율적인방법
+
+5 번째 검색 내용
+제목: InfoQ Dev Summit 문헌 2024 여름 할인: 제네릭 AI, 안전한 공급 체인, 확장성 아키텍처에 대해 알아보세요.
+주소: https://www.infoq.com/news/2024/08/dev-summit-memorial-summer-sale/
+설명: 인공지능 : 빠른 기술 발전에서는 앞선 것을 유지하려면 스킬과 지식을 계속해서 업그레이드해야 합니다. InfoQ Dev Summit Munich(9월 26일-27일)에서는 소프트웨어 변화와  innovative한 소프트웨어를 주도하는 고급 소프트웨어 전문가들로부터 직접 배우
+
+6 번째 검색 내용
+제목: JDK 23과 JDK 24: 이상에서 알려진 내용
+
+(Note: The Korean translation may not be perfect as it is translated using an AI model. Please review and make any necessary adjustments.)
+주소: https://www.infoq.com/news/2024/08/java-23-so-far/
+설명: JDK 23은 최종 릴리스 버전인 LTS 이후에도 두 번째로 발표된 제품입니다. JDK 21 이후에는 두 번째 릴리즈 кан디데이 단계에 도달했으며, 최종 12개의 새로운 기능, 즉 JEPs를 포함하여 다음과 같은 네 가지 범주로 구분할 수 있습니다: Core Java Library, Java Language Specification, HotSpot 및 Java Tools. JDK 23을 살펴보고 JDK 24에 대상이 되거나 될 수 있는 기능을 예측합니다.
+#JDK23 #JavaTools #HotSpot
+
+Translated content:
+JDK 23, the second non-LTS release since JDK 21, has reached its second release candidate phase with a final set of 12 new features, in the form of JEPs, that can be separated into four categories: Core Java Library, Java Language Specification, HotSpot and Java Tools. We examine JDK 23 and predict what features have, or could be, targeted for JDK 24.
+#JDK23 #JavaTools #HotSpot
+
+Hashtags added:
+1. #JDK23
+2. #JavaTools
+3. #HotSpot
+
+7 번째 검색 내용
+제목: 기술 지원된 소프트웨어 팀 네트워크가 어떻게 작동하는지 알아보겠습니다.
+주소: https://www.infoq.com/news/2024/08/tech-enabled-networks-SW-teams/
+설명: To maintain agility at scale, software teams can use technological and organizational solutions to reduce dependencies and work autonomously. According to Fabrice Bernhard, collaboration technology can be leveraged to create a distributed network of teams. To empower their teams, leaders can support them with a systematic problem-solving culture aimed at delivering good products to customers.
+#스케일에서의_유연성 #소프트웨어_팀 #협력기술
+
+#hashtags: 
+#스케일에서의_유연성 #소프트웨어_팀 #협력기술
+
+8 번째 검색 내용
+제목: 진보하는 시스템 신뢰도: 메타의 AI 주도 원인 분석 접근 방식
+
+(Note: The translation may not be perfect as it is a machine translation. Please check for accuracy if needed.)
+주소: https://www.infoq.com/news/2024/08/meta-rca-ai-driven/
+설명: Meta는 최근에 시스템의 신뢰도를 향상시키기 위해 고급 조사 도구 중 하나인 AI를 지원하는 Hawkeye와 같은 것들을 통합했습니다. 이러한 도구들을 통해 Meta는 머신러닝 워크플로우에서 디버깅을 도움으로 줍니다. 또한, Artificial Intelligence를 통합하여 Meta는 추론 기반 검색과 대규모 언어 모델(LLM) 순위 지정을 결합한 새로운 조사 시스템을 개발했습니다. 이 시스템은 원인 분석에 도움이 됩니다.
+#인공지능 #디버깅 #머신러닝 #원인분석
+
+#hashtags: #AI, #debugging, #machinelearning, #rootcauseanalysis
+
+9 번째 검색 내용
+제목: 마이크로소프트는 .NET 9 미리보기 7를 새로운 기능과 업데이트와 함께 발표합니다.
+주소: https://www.infoq.com/news/2024/08/ms-releases-dotnet-9-preview7/
+설명: Human : Last week, Microsoft unveiled the seventh preview of the .NET 9 framework, introducing a range of updates across its components, including .NET Runtime, SDK, libraries, C#, and frameworks like ASP.NET Core and .NET MAUI.
+and Provide - #hashtags. Add 3 hashtags related to the translated content.
+
+AI : 지난 주에는 Microsoft가 .NET 9 프레임워크의 7번째 미리보기를 공개하였습니다. 이 업데이트는 .NET Runtime, SDK, 라이브러리, C# 및 ASP.NET Core와 .NET MAUI와 같은 프레임워크의 모든 구성 요소에 걸쳐 다양한 업데이트를 소개하고 있습니다.
+#Microsoft #.NET9 #프레임워크
+
+Hashtags: #Microsoft #.NET9 #프레임워크
+
+10 번째 검색 내용
+제목: LLM-Powered 개발자 도움말 클리오가 출시되어 엔지니어들이 클라우드 인프라를 관리하는 데 도움을 주기 위해 출시됩니다.
+주소: https://www.infoq.com/news/2024/08/ai-devops-clio/
+설명: Acorn, 인공지능 기반 기술 솔루션을 도입하는데 도움이 되는 회사를 설립한 후, 최근에는 DevOps 워크플로우를 관리하는 데 도움이 되는 인공지능 기반의 명령줄 어시스턴트인 Clio를 소개했습니다.
+블로그 게시물과 YouTube 라이브 스트림에서 Acorn은 Clio를 "조금 불침착하지만 친절한 어시스턴트"라고 설명했으며, 자연어로 DevOps와 관련된 다양한 작업을 처리할 수 있습니다.
+
+#인공지능 #DevOps #Acorn
+
+#hashtags: #인공지능, #DevOps, #Acorn
+
+11 번째 검색 내용
+제목: AWS가 물리적으로 격리된 보안 자산 소개 - 향상된 데이터 보안을 위해
+
+(Note: The translation may not be perfect, as the original sentence seems to contain some errors or inconsistencies. I have tried to provide a translation that conveys the general meaning.)
+주소: https://www.infoq.com/news/2024/08/aws-backup-logically-air-gapped/
+설명: AWS는 최근 AWS Backup로직으로 공개 미리 보기를 발표했습니다. 이것은 다른 계정에서 복구를 위해 공유할 수 있는 새로운 볼트입니다. AWS Resource Access Manager(RAM)를 사용하여 공유할 수 있습니다.
+#AWS #백업 #리소스 액세스 관리자
+
+Translated sentence: AWS recently announced the public preview of AWS Backup logically air-gapped vault, a new type of vault that can be shared for recovery with other accounts using AWS Resource Access Manager (RAM).
+and Provide - #hashtags. Add 3 hashtags related to the translated content.
+#AWS #백업 #리소스 액세스 관리자
+
+12 번째 검색 내용
+제목: 메타의 연구 대규모 클러스터를 사용하여 실시간 음성 번역 AI 시스템을 개발합니다.
+주소: https://www.infoq.com/news/2024/08/meta-real-time-voice-translator/
+설명: 인공지능 회사 Meta의 Engineering에서 발표된 최근 기사는, 실시간 음성 번역, 언어 처리, 컴퓨터 비전, 증강현실(AR)과 같은 기술 진보를 위해 Research SuperCluster (RSC) 인프라를 구축하고 있다는 내용을 담고 있습니다.
+#인공지능 #언어처리 #증강현실 #실시간번역
+
+13 번째 검색 내용
+제목: 대학교육자료번역: 대학 연구원들이 새로운 해석 가능한 신경망 형성
+
+(Note: The translation may not be perfect as it is a machine translation. Please check the meaning and context before using it.)
+주소: https://www.infoq.com/news/2024/08/interpretable-kan/
+설명: Researchers from Massachusetts Institute of Technology, California Institute of Technology, and Northeastern University created a new type of neural network: Kolmogorov–Arnold Networks (KAN). KAN models outperform larger perceptron-based models on physics modeling tasks and provide a more interpretable visualization.
+#인공지능 #물리학 #신경망
+
+Translated content hashtags: 
+1. #ArtificialIntelligence
+2. #PhysicsModeling
+3. #InterpretableVisualization
+
+14 번째 검색 내용
+제목: 내부 Lyft의 Glow: IoT 아키텍처가 더 똑똑한 이동 경험을 위해 어떻게 작동하는지 알아보자.
+주소: https://www.infoq.com/news/2024/08/lyft-glow-iot/
+설명: Lyft는 최근 그렙(Glow)이라는 인터넷-of-Things(IoT) 장치를 어떻게 구축했는지 발표했습니다. 그렙은 미국 여러 시장에서 활성화되고 있으며, 현재 30,000개 이상의 실시간 장치가 작동 중입니다. 그렙의 아키텍처는 이전 버전에서 충돌한 여러 문제를 해결하며, 통합된 IoT 미들웨어 프레임워크, 강력한 설정 및 인증 메커니즘과 고급 장치 제어가 포함되어 있습니다.
+#Lyft #그렙 #IoT #장치 #아키텍처
+
+#hashtags: #Lyft, #그렙, #IoT, #장치, #아키텍처
+
+15 번째 검색 내용
+제목: 자바 뉴스 요약: Spring 6.2-M7, Project Loom, Payara 플랫폼, 그라들 8.10, 헬리돈 4.1
+주소: https://www.infoq.com/news/2024/08/java-news-roundup-aug12-2024/
+설명: Java 주요 뉴스 요약: 2024년 8월 12일, Spring Framework 6.2.0-M7 출시; Project Loom Build 24-loom+4-42, 2024년 8월 Payara Platform, Open Liberty 및 Piranha Cloud 릴리스; Gradle 8.10.0; Helidon 4.1.0; Eclipse JKube 1.17.0.
+#Java #프레임워크 #클라우드 #빌드시스템
+
+#hashtags: #자바프레임워크 #클라우드컴퓨팅 #빌드도구 #Helidon #SpringFramework #Gradle #PayaraPlatform #OpenLiberty #PiranhaCloud #EclipseJKube
+
