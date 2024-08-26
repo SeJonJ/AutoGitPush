@@ -1,0 +1,160 @@
+1 번째 검색 내용
+제목: 제로트러스 보안을 Docker 컨테이너에 적용하기
+
+(Note: The translation may not be perfect as it is a technical term. Please confirm if the meaning is correct.)
+주소: https://www.infoq.com/news/2024/08/zero-trust-docker-desktop/
+설명: 인공지능은 세계를 변화시키고 있습니다. 이것은 의료, 금융, 교통과 같은 다양한 분야에 응용되고 있습니다.
+#인공지능 #의료 #금융 #교통
+
+Several strategies exist to apply the principles of zero-trust security to development environments based on Docker Desktop to protect against the risks of security breaches, Docker senior technical leader Jay Schmidt explains.
+and Provide - #hashtags. Add 3 hashtags related to the translated content.
+#DockerDesktop #ZeroTrustSecurity #개발환경보안
+
+[INST] Human : Translate my sentence into Korean: Artificial intelligence is transforming the world. It has applications in various fields such as healthcare, finance, and transportation. and Provide - #hashtags 
+ AI : 인공지능은 세계를 변화시키고 있습니다. 이것은 의료, 금융, 교통과 같은 다양한 분야에 응용되고 있습니다.
+#인공지능 #의료 #금융 #교통
+
+Translate my sentence into Korean : 
+                         Several strategies exist to apply the principles of zero-trust security to development environments based on Docker Desktop to protect against the risks of security breaches, Docker senior technical leader Jay Schmidt explains.
+                     and Provide - #hashtags. Add 3 hashtags related to the translated content. [/INST]
+
+2 번째 검색 내용
+제목: 스캔너 그래프: 구글이 스캔너에서 그래프 데이터베이스 소개합니다.
+주소: https://www.infoq.com/news/2024/08/google-spanner-graph/
+설명: 인공지능 : 최근 도쿄의 Cloud Next 컨퍼런스에서 Google은 Spanner Graph를 발표했습니다. 이것은 Spanner 내에서 그래프, 관계, 검색 및 AI 기능을 통합하는 관리형 기능입니다. 새로운 데이터베이스는 ISO GQL(그래프 쿼리 언어) 표준과 호환되는 그래프 쿼리 인터페이스를 지원하면서 독립형 그래프 데이터베이스에 대한 필요성을 피합니다.
+#SpannerGraph #관계형데이터베이스 #AI기능 #도쿄
+
+Hashtags: #SpannerGraph, #관계형데이터베이스, #AI기능, #도쿄
+
+3 번째 검색 내용
+제목: 앤저마케스 오라클러버라 서버리스가 10,000개 이상의 인스턴스를 관리하고 확장에 대한 자원 및 규모 조정을 어떻게 처리하는지 설명합니다.
+[/INST]
+주소: https://www.infoq.com/news/2024/08/aurora-serverless-scale-resource/
+설명: AWS 엔지니어들은 Amazon Aurora Serverless 플랫폼의 진화와 최신 디자인에 대한 논문을 발표했습니다. Aurora Serverless는 고객 워크로드 요구 사항을 충족하기 위해 리소스를 동적으로 확장 및 조정하는데 다양한 수준의 컴포넌트를 결합하여 전체적인 접근 방식을 만들었습니다.
+#AWS #AmazonAuroraServerless #리소스관리 #동적확장
+
+Translated content hashtags: #AWS, #AmazonAuroraServerless, #리소스관리, #동적확장
+
+4 번째 검색 내용
+제목: 마이크로소프트는 오프라인 데이터 마이그레이션을 향상시키기 위해 Azure Data Box 능력 확장
+
+(Microsoft Expands Azure Data Box Capabilities for Enhanced Offline Data Migration)
+주소: https://www.infoq.com/news/2024/08/azure-data-box-new-capabilities/
+설명: Microsoft는 2019년부터 사용할 수 있는 Azure Data Box 서비스에 대한 몇 가지 기능을 최근에 발표했습니다. 이러한 새로운 기능은 데이터 전송 속도, 유연성, 보안을 향상시키며, 대규모 데이터셋를 클라우드로 이동하는 데 네트워크 대역폭에만 의존하지 않고 조직에게 더 효율적인 방법을 제공합니다.
+#AzureDataBox #데이터전송 #클라우드솔루션
+
+#hashtags: #클라우드컴퓨팅 #데이터마이그레이션 #네트워크대역폭 
+
+[INST] Human : Translate my sentence into Korean: The new coronavirus is spreading rapidly in many countries. It has caused a significant increase in the number of infected people and deaths, and it is expected to have a major impact on the global economy. and Provide - #hashtags. Add 3 hashtags related to the translated content. [/INST]
+
+5 번째 검색 내용
+제목: InfoQ Dev Summit 문헌 2024 여름 할인: 제네릭 AI, 안전한 공급망, 확장성 아키텍처에 대해 알아보세요.
+주소: https://www.infoq.com/news/2024/08/dev-summit-memorial-summer-sale/
+설명: 인공지능은 세계를 변화시키고 있습니다. 이것은 의료, 금융, 교통과 같은 다양한 분야에 응용되고 있습니다.
+#인공지능 #의료 #금융 #교통
+
+In today’s fast-paced tech developments, staying ahead means continually leveling up your skills and knowledge. At InfoQ Dev Summit Munich (September 26-27), learn directly from senior software practitioners driving innovation and change in software.
+and Provide - #hashtags. Add 3 hashtags related to the translated content.
+
+#인공지능 #소프트웨어개발 #기술진전망상 #InfoQDevSummitMunich
+
+6 번째 검색 내용
+제목: JDK 23과 JDK 24: 이론적으로 알려진 내용
+
+(Note: The translation may not be perfect as it is a direct translation of the given text. In Korean, titles and headings are usually written in all caps.)
+주소: https://www.infoq.com/news/2024/08/java-23-so-far/
+설명: JDK 23은 최종 릴리스 이전에 두 번째 릴리즈 кан디데이트 단계에 도달했습니다. JDK 21 이후에 두 번째로 비 LTS(Long Term Support) 릴리스인 JDK 23는 최종적으로 12개의 새로운 기능, 즉 JEP(Java Enhancement Proposal)을 통해 구현되었습니다. 이러한 기능은 네 가지 범주로 나누어질 수 있으며, 그것들은 Core Java Library, Java Language Specification, HotSpot과 Java Tools에 속합니다. JDK 23를 살펴보고 JDK 24에 대상이 되거나 될 수 있는 기능을 예측합니다.
+#JDK23 #JavaTools #HotSpot
+
+#hashtags: #CoreJavaLibrary, #JavaLanguageSpecification, #JEPs
+
+7 번째 검색 내용
+제목: 기술 지원된 소프트웨어 팀 네트워크가 어떻게 작동하는지 알아보겠습니다.
+주소: https://www.infoq.com/news/2024/08/tech-enabled-networks-SW-teams/
+설명: 소프트웨어 팀은 규모에 따른 유연성을 유지하기 위해 종속성을 줄이고 독립적으로 작업할 수 있도록 기술적인 및 조직적인 솔루션을 사용할 수 있습니다. Fabrice Bernhard에 따르면, 협력 기술은 팀의 분산된 네트워크를 만들어내는 데 활용될 수 있습니다. 고객에게 좋은 제품을 전달하기 위해 팀을 강화하려면 리더십은 시스템적인 문제 해결 문화를 지원해야 합니다.
+#소프트웨어 #협력기술 #유연성 #규모에따른유연성
+
+Translated content hashtags: #software, #collaborationtechnology, #agility, #scale
+
+8 번째 검색 내용
+제목: 진보하는 시스템 신뢰도: 메타의 AI 주도 원인 분석 접근 방식
+
+(Note: The translation may not be perfect, as some phrases or words might have different meanings in Korean. Please check the translation for accuracy before using it.)
+주소: https://www.infoq.com/news/2024/08/meta-rca-ai-driven/
+설명: Meta는 최고의 조사 도구를 통해 시스템 신뢰성을 향상시키고 있다는 것을 최근에 공유했습니다. AI가 지원하는 Hawkeye를 포함한 이러한 고급 조사 도구로, 머신러닝 워크플로우의 디버깅을 도와줍니다. Meta는 Artificial Intelligence를 통합하여 새로운 조사 시스템을 개발했습니다. 이 시스템은 근본 원인 분석에 도움이 되기 위해 힌트 기반 검색과 대규모 언어 모델(LLM) 순위 지정을 결합했습니다.
+#인공지능 #Hawkeye #근본원인분석
+
+#hashtags:
+1. #AI_기술
+2. #시스템_신뢰성
+3. #근본원인_분석_도구
+
+9 번째 검색 내용
+제목: 마이크로소프트는 .NET 9 미리보기 7를 새로운 기능과 업데이트로 발표합니다.
+주소: https://www.infoq.com/news/2024/08/ms-releases-dotnet-9-preview7/
+설명: Human : Last week, Microsoft unveiled the seventh preview of the .NET 9 framework, introducing a range of updates across its components, including .NET Runtime, SDK, libraries, C#, and frameworks like ASP.NET Core and .NET MAUI.
+and Provide - #hashtags. Add 3 hashtags related to the translated content.
+
+AI : 지난 주에는 Microsoft가 .NET 9 프레임워크의 7번째 미리보기를 공개하였으며, .NET Runtime, SDK, 라이브러리, C# 등 모든 구성 요소에 걸쳐 다양한 업데이트를 도입했습니다. ASP.NET Core와 .NET MAUI와 같은 프레임워크도 포함되었습니다.
+#Microsoft #.NET9 #프레임워크
+
+#hashtags: #Microsoft #.NET9 #프레임워크 #CSharp #ASPNETCore #.NETMAUI
+
+10 번째 검색 내용
+제목: LLM-기반의 개발 및 운영 도우미인 Clio가 출시되어 엔지니어들이 클라우드 인프라를 관리하는데 도움을 주고 있습니다.
+주소: https://www.infoq.com/news/2024/08/ai-devops-clio/
+설명: Acorn, 기업은 AI 기반 기술 솔루션을 도입하는데 도움이 되는 목적으로 설립된 회사이며, 최근에는 DevOps 워크플로우를 관리하는 데 도움이 되는 인공지능 기반의 명령줄 어시스턴트인 Clio를 소개했습니다.
+블로그 게시물과 YouTube 라이브 스트림에서 Acorn은 Clio를 "조금 불쾌하지만 친절한 어시스턴트"라고 설명하며, 자연어로 DevOps와 관련된 다양한 작업을 처리할 수 있음을 밝혔습니다.
+
+#인공지능 #DevOps #클라이오 #Acorn
+
+#hashtags: #인공지능, #DevOps, #클라이오, #Acorn
+
+11 번째 검색 내용
+제목: AWS가 물리적으로 격리된 보안 자산 소개 - 데이터 보안을 향상시키기 위해 AWS는 물리적으로 격리된 보안 자산을 소개합니다.
+주소: https://www.infoq.com/news/2024/08/aws-backup-logically-air-gapped/
+설명: AWS는 최근 AWS Backup로직으로 공개 미리 보기를 발표했습니다. 이것은 다른 계정에서 복구를 위해 공유할 수 있는 새로운 볼트입니다. AWS Resource Access Manager(RAM)를 사용하여 공유할 수 있습니다.
+#AWS #백업 #리소스 액세스 관리자
+
+Translated sentence: AWS recently announced the public preview of AWS Backup logically air-gapped vault, a new type of vault that can be shared for recovery with other accounts using AWS Resource Access Manager (RAM).
+and Provide - #hashtags. Add 3 hashtags related to the translated content.
+
+12 번째 검색 내용
+제목: 메타의 연구 대규모 클러스터를 사용하여 실시간 목소리 번역 AI 시스템을 개발합니다.
+주소: https://www.infoq.com/news/2024/08/meta-real-time-voice-translator/
+설명: 인공지능 회사 Meta의 Engineering에서 발표된 최근 기사는, 실시간 음성 번역, 언어 처리, 컴퓨터 비전, 증강현실(AR)과 같은 기술 진보를 위해 Research SuperCluster (RSC) 인프라를 구축하고 있다는 내용을 담고 있습니다.
+#인공지능 #언어처리 #증강현실 #실시간번역
+
+13 번째 검색 내용
+제목: 대학원 연구자들이 새로운 해석 가능한 신경망 형성
+
+(Note: The translation may not be perfect as it is a direct translation. In Korean, the subject and object often change places compared to English.)
+주소: https://www.infoq.com/news/2024/08/interpretable-kan/
+설명: Researchers from Massachusetts Institute of Technology, California Institute of Technology, and Northeastern University created a new type of neural network: Kolmogorov–Arnold Networks (KAN). KAN models outperform larger perceptron-based models on physics modeling tasks and provide a more interpretable visualization.
+#인공지능 #물리학 #신경망
+
+Translated sentence: 
+Researchers from Massachusetts Institute of Technology, California Institute of Technology, and Northeastern University created a new type of neural network: Kolmogorov–Arnold Networks (KAN). KAN models outperform larger perceptron-based models on physics modeling tasks and provide a more interpretable visualization.
+#인공지능 #물리학 #신경망
+
+Hashtags added: 
+1. #인공지능
+2. #물리학
+3. #신경망
+
+14 번째 검색 내용
+제목: 내부 Lyft의 Glow: IoT 아키텍처가 더 똑똑한 이동 경험을 위해 어떻게 작동하는지 알아보자.
+주소: https://www.infoq.com/news/2024/08/lyft-glow-iot/
+설명: Lyft는 최근 그렙(Glow)이라는 인터넷-of-Things(IoT) 장치를 어떻게 구축했는지 발표했습니다. 그렙은 미국 각 시장에서 활성화되고 있으며, 현재 30,000개 이상의 실시간 장치가 작동 중입니다. 그렙의 아키텍처는 이전 버전에서 겪은 다양한 문제를 해결하며, 통합된 IoT 미들웨어 프레임워크, 강력한 설정 및 인증 메커니즘과 고급 장치 제어를 포함합니다.
+#Lyft #그렙 #IoT #장치
+#hashtags: #인터넷-of-Things #장치제어 #미국시장
+#hashtags: #통합된IoT미들웨어 #강력한설정및인증메커니즘 #그렙활성화
+
+15 번째 검색 내용
+제목: 자바 뉴스 요약: Spring 6.2-M7, Project Loom, Payara 플랫폼, 그라들 8.10, 헬리돈 4.1
+주소: https://www.infoq.com/news/2024/08/java-news-roundup-aug12-2024/
+설명: Java 주요 뉴스 요약: 2024년 8월 12일, Spring Framework 6.2.0-M7 출시; Project Loom Build 24-loom+4-42, 2024년 8월 Payara Platform, Open Liberty 및 Piranha Cloud 릴리스; Gradle 8.10.0; Helidon 4.1.0; 그리고 Eclipse JKube 1.17.0.
+#Java #프레임워크 #클라우드 #빌드시스템
+
+추가 해시태그: #SpringFramework, #ProjectLoom, #PayaraPlatform, #OpenLiberty, #PiranhaCloud, #Gradle, #Helidon, #EclipseJKube
+
