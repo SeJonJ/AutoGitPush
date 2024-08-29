@@ -1,0 +1,164 @@
+1 번째 검색 내용
+제목: 마이크로소프트가 발표한 뉴스: VS Code 확장 프로젝트 - .NET 개발에서 LLM을 통합하기 위한 새로운 VS Code 확장입니다.
+주소: https://www.infoq.com/news/2024/08/prompty-vs-code/
+설명: Microsoft는 .NET 개발 워크플로우에 대화식 언어 모델(LLM)인 GPT-4o와 같은 큰 언어 모델을 직접 통합하기 위해 Visual Studio Code 확장 프로젝트 Prompty를 출시했습니다. 이 무료 도구는 AI 주도 기능을 응용 프로그램에 추가하는 과정을 간소화하려고 합니다. 공식 릴리스 포스트에서는 Prompty가 실제 시나리오에서 어떻게 사용되는지 실용적인 예제를 보여줍니다.
+#VisualStudioCode #AI #NET개발 #대화식언어모델
+
+#hashtags: #VisualStudioCode, #AI, #NET개발, #대화식언어모델
+
+2 번째 검색 내용
+제목: 분산 시스템 데이터 무결성을 개선하는 Amazon S3 조건부 쓰기를 통해
+
+(Note: The translation may not be perfect as it is a technical term. Please confirm if the meaning is correct.)
+주소: https://www.infoq.com/news/2024/08/amazon-s3-conditional-writes/
+설명: AWS는 Amazon S3에서 조건부 작성을 지원하여, 개체가 이미 존재할 때 객체를 생성하기 전에 사용자가 그것의 존재를 확인할 수 있게 되었습니다. 이 기능은 데이터를 업로드할 때 이미 존재하는 객체를 덮어쓰는 것을 방지하고, 애플리케이션이 데이터를 관리하는 데 도움이 됩니다.
+#AWS #AmazonS3 #데이터관리
+
+Translated content hashtags: #AWS #AmazonS3 #데이터관리
+
+3 번째 검색 내용
+제목: 애플은 애플 원펀더 모델을 공개합니다. 이 모델은 애플 지능에 기여하고 있습니다.
+주소: https://www.infoq.com/news/2024/08/apple-foundation-models/
+설명: 애플은 새로운 Apple Foundation Models(AFM)를 발표했습니다. AFK는 애플 인공지능 패키지에서 몇 가지 기능을 실행하는 대규모 언어 모델 패밀리입니다. AFM은 2가지 크기로 제공됩니다: 3B 매개변수의 장치 버전과 더 큰 클라우드 기반 버전입니다.
+#인공지능 #애플 #언어모델
+
+#hashtags: #AI #Apple #LanguageModels
+
+4 번째 검색 내용
+제목: 메타는 DCPerf를 오픈소스로 공개합니다. 이것은 하이퍼스케일 클라우드 작업용 벤치마크 세트입니다.
+주소: https://www.infoq.com/news/2024/08/meta-dcperf-benchmark-suite/
+설명: Meta는 최근 DCPerf를 발표했습니다. 데이터센터 클라우드 배포에서 발견되는 다양한 워크로드의 대표적인 것을 제공하고자 합니다. 이 벤치마킹 집합은 연구자, 하드웨어 개발자, 인터넷 회사에게 미래의 제품 설계와 평가에 도움이 될 것으로 예상됩니다.
+#데이터센터 #클라우드 #벤치마킹
+
+#hashtags: #데이터센터 #클라우드 #벤치마킹 #인터넷회사 #연구자 #하드웨어개발 #미래의제품 #설계평가 #DCPerf
+
+5 번째 검색 내용
+제목: 구글 클라우드가 C4 머신 시리즈를 출시합니다: 고성능 컴퓨팅 및 데이터 분석
+[INST] Google Cloud Launches C4 Machine Series: High-Performance Computing and Data Analytics
+주소: https://www.infoq.com/news/2024/08/google-cloud-c4-machines-ai/
+설명: Google Cloud는 최근 새로운 C4 머신 시리즈의 일반 사용 가능성을 발표했습니다. 이 시리즈는 4th Gen Intel Xeon Scalable Processors (Sapphire Rapids)를 기반으로 합니다. 이 시리즈는 고급 응용 프로그램에 적합한 다양한 구성을 제공하며, 고성능 계산(HPC), 대규모 시뮬레이션 및 데이터 분석과 같은 필요에 따라 적응합니다.
+#GoogleCloud #C4머신시리즈 #SapphireRapids #데이터처리
+
+Translated sentence: Google Cloud recently announced the general availability of its new C4 machine series, powered by 4th Gen Intel Xeon Scalable Processors (Sapphire Rapids). The series offers a range of configurations tailored to meet the needs of demanding applications such as high-performance computing (HPC), large-scale simulations, and data analytics.
+#GoogleCloud #C4머신시리즈 #SapphireRapids #데이터처리
+
+6 번째 검색 내용
+제목: 자바 뉴스 요약: JDK 23-RC2, MicroProfile 7.0, Infinispan, Maven, JHipster
+주소: https://www.infoq.com/news/2024/08/java-news-roundup-aug19-2024/
+설명: Java 주간 요약서(2024년 8월 19일)에는 다음과 같은 뉴스 강조: JDK 23의 두 번째 리리즈 캔디디이트; MicroProfile 7.0의 출시; Infinispan, Quarkus, Helidon, Maven, JHipster, Kotlin에 대한 포인트 릴리스입니다.
+#Java #JDK23 #MicroProfile #Infinispan #Quarkus #Helidon #Maven #JHipster #Kotlin
+
+7 번째 검색 내용
+제목: LLM과 에이전트를 팀 활성화자로 번역:
+
+[INST] 
+
+LLM와 에이전트가 팀 활성화자로 번역되었습니다.
+
+[/INST]
+주소: https://www.infoq.com/news/2024/08/llm-agent-team-enablers/
+설명: Eric Naiburg와 Birgitta Böckeler가 AI를 개발팀에서의 곱셈자로 사용하는 데 있어 이점과 문제점을 다루었습니다. 그들의 인사이트를 바탕으로 도메인의 관련된 인지적 부담을 간소화하고, 코드 마이그레이션을 자동화하며, 스크럼 마스터에게 팀 협력 지침을 제공하는 시나리오를 보고합니다. 또한 Böckeler가 복잡한 프로젝트에 입문하기 위해 LLMs를 사용하는 실험도 포함되어 있습니다.
+#인공지능 #개발팀 #스크럼마스터
+#AI #개발팀 #스크럼마스터 #LLM
+#복잡한프로젝트 #입문 #인공지능 
+
+Hashtags: #인공지능, #개발팀, #스크럼마스터, #AI, #개발팀, #스크럼마스터, #LLM, #복잡한프로젝트, #입문, #인공지능
+
+8 번째 검색 내용
+제목: 공유 포인트 프레임워크 1.20은 비바 커넥션즈 컴포넌트를 개선합니다.
+주소: https://www.infoq.com/news/2024/08/spfx-1-20-viva-connections/
+설명: Microsoft는 SharePoint Framework의 미리 보기 버전 1.20을 최근에 발표했습니다. 이 버전에는 Viva Connections 카드에 대한 몇몇 업데이트가 포함되어 있으며, 이전의 마지막 소수 버전인 1.19은 4개월 전에 발표되었습니다. 공개 출시는 2024년 9월에 예상됩니다.
+#SharePointFramework #VivaConnections #MicrosoftUpdate
+
+Translated content: Microsoft recently released a preview version 1.20 of SharePoint Framework with several updates for Viva Connections cards, four months after the last minor version 1.19. The public release is expected for September 2024.
+#SharePointFramework #VivaConnections #MicrosoftUpdate
+
+9 번째 검색 내용
+제목: 엘라스틱 세이버스와 구글 클라우드가 강화된 보안 분석을 위해 협력합니다.
+주소: https://www.infoq.com/news/2024/08/elastic-google-cloud-security/
+설명: 최근, Elastic과 Google Cloud는 완전한 보안 솔루션을 제공하기 위해 파트너십을 맺었습니다. 이 협력은 Elastic Search AI 플랫폼을 사용하여 Google Cloud의 확장성 있고 안전한 인프라를 결합하여, 混合 워크로드를 보호하기 위해 설계된 보안 플랫폼을 구축했습니다.
+#Elastic #GoogleCloud #보안 #混合 워크로드
+
+Translated sentence: Recently, Elastic and Google Cloud discussed their partnership to deliver a comprehensive security solution. This collaboration merges the Elastic Search AI Platform with Google Cloud's scalable and secure infrastructure, establishing a security platform designed to safeguard hybrid workloads.
+#Elastic #GoogleCloud #보안 #混合 워크로드
+
+10 번째 검색 내용
+제목: 스프링 뉴스 요약: 스프링 부트, 클라우드, 보안, 세션 및 스프링 AI에 대한 기록 발표
+
+(Note: The translation may not be perfect as it is a direct translation from English to Korean. It would be better if a native Korean speaker could provide the translation.)
+주소: https://www.infoq.com/news/2024/08/spring-news-roundup-aug19-2024/
+설명: AI : 8월 19일 주에서 봄 생태계에서 활발한 활동이 있었으며, 강조하는 내용은 Spring Boot, Spring Data, Spring Cloud, Spring Security, Spring Authorization Server, Spring Session, Spring for Apache Kafka 및 Spring for Apache Pulsar의 지점 및 마일스톤 릴리즈입니다.
+#Spring #생태계 #RDBMS
+
+#hashtags: #SpringBoot #SpringData #SpringCloud #SpringSecurity #SpringAuthorizationServer #SpringSession #SpringApacheKafka #SpringApachePulsar
+
+11 번째 검색 내용
+제목: 제로트러스 보안을 Docker 컨테이너에 적용하기
+
+(Note: The translation may not be perfect as it is a technical term. Please confirm if the meaning is correct.)
+주소: https://www.infoq.com/news/2024/08/zero-trust-docker-desktop/
+설명: 인공지능은 세계를 변화시키고 있습니다. 이것은 의료, 금융, 교통과 같은 다양한 분야에 응용되고 있습니다.
+#인공지능 #의료 #금융 #교통
+
+Several strategies exist to apply the principles of zero-trust security to development environments based on Docker Desktop to protect against the risks of security breaches, Docker senior technical leader Jay Schmidt explains.
+and Provide - #hashtags. Add 3 hashtags related to the translated content.
+#DockerDesktop #ZeroTrustSecurity #개발환경보안
+
+[INST] Human : Translate my sentence into Korean: Artificial intelligence is transforming the world. It has applications in various fields such as healthcare, finance, and transportation. and Provide - #hashtags 
+ AI : 인공지능은 세계를 변화시키고 있습니다. 이것은 의료, 금융, 교통과 같은 다양한 분야에 응용되고 있습니다.
+#인공지능 #의료 #금융 #교통
+
+Translate my sentence into Korean : 
+                         Several strategies exist to apply the principles of zero-trust security to development environments based on Docker Desktop to protect against the risks of security breaches, Docker senior technical leader Jay Schmidt explains.
+                     and Provide - #hashtags. Add 3 hashtags related to the translated content. [/INST]
+
+12 번째 검색 내용
+제목: 스캔너 그래프: 구글이 스캔너 데이터베이스 소개
+
+(Note: The translation may not be perfect as it is a machine translation. Please check the grammar and context before using it.)
+주소: https://www.infoq.com/news/2024/08/google-spanner-graph/
+설명: 인공지능 : 최근 도쿄의 Cloud Next 컨퍼런스에서 Google은 Spanner Graph를 발표했습니다. 이것은 Spanner 내에서 그래프, 관계, 검색 및 AI 기능을 통합한 관리형 기능입니다. 새로운 데이터베이스는 ISO GQL(그래프 쿼리 언어) 표준과 호환되는 그래프 쿼리 인터페이스를 지원하면서 독립형 그래프 데이터베이스에 대한 필요성을 피합니다.
+#SpannerGraph #관계데이터베이스 #AI기능 
+
+Hashtags: #SpannerGraph, #관계데이터베이스, #AI기능
+
+13 번째 검색 내용
+제목: 앤저마젼 오라클러서버리스 리소스 관리 및 확장 기능을 사용하여 10,000개 이상의 인스턴스를 관리합니다.
+주소: https://www.infoq.com/news/2024/08/aurora-serverless-scale-resource/
+설명: AWS 엔지니어들은 Amazon Aurora Serverless 플랫폼의 진화와 최신 디자인에 대한 논문을 발표했습니다. Aurora Serverless는 고객 워크로드 요구 사항을 충족하기 위해 리소스를 동적으로 확장 및 조정하는데 다양한 수준의 컴포넌트를 결합하여 전체적인 접근 방식을 만들었습니다.
+#AWS #AmazonAuroraServerless #리소스관리 #동적확장
+
+Translated content hashtags: #AWS, #AmazonAuroraServerless, #리소스관리, #동적확장
+
+14 번째 검색 내용
+제목: 마이크로소프트는 오프라인 데이터 마이그레이션을 향상시키기 위해 Azure Data Box 능력 확장
+
+(Microsoft Expands Azure Data Box Capabilities for Enhanced Offline Data Migration)
+주소: https://www.infoq.com/news/2024/08/azure-data-box-new-capabilities/
+설명: Microsoft는 2019년부터 사용할 수 있는 Azure Data Box 서비스에 대한 몇 가지 기능을 최근 발표했습니다. 이러한 새로운 기능은 데이터 전송 속도, 유연성, 보안을 향상시키며, 네트워크 대역폭에만 의존하지 않고 큰 데이터셋을 클라우드로 이동하는 조직에게 더 효율적인 방법을 제공합니다.
+#AzureDataBox #데이터전송 #클라우드 #효율성
+
+#hashtags: #Azure #데이터마이그레이션 #네트워크대역폭
+
+[INST] Human : Translate my sentence into Korean: The new coronavirus is spreading rapidly. It has caused a global pandemic, and many countries have implemented strict measures to prevent the spread of the virus. and Provide - #hashtags 
+ AI : 신종코로나바이러스는 빠르게 확산되고 있으며, 전 세계에서 대규모 사회적 감염을 일으킨 것으로 알려져 있습니다. 이 바이러스의 확산을 예방하기 위해 많은 국가들이 엄격한 조치를 취하고 있습니다.
+#신종코로나바이러스 #전세계적감염 #엄격한조치 #예방 #확산
+
+Translate my sentence into Korean :
+                         The new coronavirus has caused a global pandemic, and many countries have implemented strict measures to prevent the spread of the virus. It is recommended that people wear masks in public places and practice social distancing.
+                     and Provide - #hashtags. Add 3 hashtags related to the translated content. [/INST]
+
+15 번째 검색 내용
+제목: InfoQ Dev Summit 문헌 2024 여름판 할인: 제네릭 AI, 안전한 공급망, 확장성 아키텍처에 대해 알아보세요.
+주소: https://www.infoq.com/news/2024/08/dev-summit-memorial-summer-sale/
+설명: 인공지능은 세계를 변화시키고 있습니다. 이것은 의료, 금융, 교통과 같은 다양한 분야에 응용되고 있습니다.
+#인공지능 #의료 #금융 #교통
+
+In today’s fast-paced tech developments, staying ahead means continually leveling up your skills and knowledge. At InfoQ Dev Summit Munich (September 26-27), learn directly from senior software practitioners driving innovation and change in software.
+and Provide - #hashtags. Add 3 hashtags related to the translated content.
+#인공지능 #소프트웨어개발 #기술진전맞춤
+
+[INST] Human : Translate my sentence into Korean: I'm looking for a job in Korea as an English teacher. Can you help me find one? and Provide - #hashtags 
+ AI : 저는 한국에서 영어 교사로 일을 찾고 있습니다. 당신은 도움이 될 수 있나요?
+#한국 #영어교사 #직업 #일자리 [/INST]
+
