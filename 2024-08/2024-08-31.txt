@@ -1,23 +1,33 @@
 1 번째 검색 내용
-제목: .NET MAUI 9 미리보기 7: 하이브리드 WebView 도입 및 다른 개선 사항
+제목: 클라우드플레어, 원본 서버 연결을 보안하고 간소화하기 위해 자동 SSL/TLS 도입
+
+(Note: The translation may not be perfect as it is a machine translation. Please review and make necessary adjustments if needed.)
+주소: https://www.infoq.com/news/2024/08/cloudflare-automatic-ssl-origin/
+설명: AI : Cloudflare는 최근에 원본 서버와의 통신을 간소화하기 위해 새로운 Automatic SSL/TLS 설정을 도입했습니다. 이 기능은 보안을 확보하면서도 사이트 중단 시간에 위험한 상황에 놓이지 않도록 자동으로 구성됩니다.
+#Cloudflare #SSL/TLS #보안 #사이트 중단 시간
+
+Hashtags: #Cloudflare, #SSL/TLS, #보안, #사이트 중단 시간
+
+2 번째 검색 내용
+제목: .NET MAUI 9 미리보기 7: 하이브리드 WebView 도입 및 기타 개선 사항
 
 (Note: The Korean translation may not be perfect, as some terms and phrases might have direct translations that do not convey the same meaning in English. However, it should provide a general understanding of the content.)
 주소: https://www.infoq.com/news/2024/08/dotnet-maui-9-preview7/
-설명: Microsoft는 .NET 9 Preview 7 버전을 릴리스했습니다. 이 버전에서는 .NET MAUI의 중요한 업데이트가 포함되어 있으며, HybridWebView의 도입과 MainPage의 사용 방법이 소개되었습니다. iOS에서 원격 알림을 관리하는 새로운 라이프사이클 메서드가 도입되고, Native Embedding 기능 등에 대한 향상 사항도 포함되었습니다.
-#.NET #MAUI #원격알림 #iOS
-
-2 번째 검색 내용
-제목: .NET 커뮤니티 툴키트 8.3 발표: .NET 8와 NativeAOT 지원
-
-(Note: The translation may not be perfect as it is a machine translation, but it should convey the meaning accurately.)
-주소: https://www.infoq.com/news/2024/08/dotnet-community-toolkit/
-설명: AI : .NET 재단은 .NET 커뮤니티 툴키트 8.3를 발표하며, .NET 8의 전체 지원과 NativeAOT에 대한 주요 업데이트를 포함했습니다. 이 릴리즈는 성능을 향상시키고, 일부 버그 수정 사항을 포함하며, 개발자 경험을 개선하기 위해 새로운 기능을 제공합니다.
-#.NET #성능향상 #개발자경험 #NativeAOT
-
-Hashtags: #.NET #성능향상 #개발자경험 #NativeAOT
+설명: Microsoft는 .NET 9 Preview 7 버전을 릴리스했습니다. 이 버전에서는 .NET MAUI의 중요한 업데이트가 포함되어 있으며, HybridWebView의 도입과 MainPage의 사용을 사용하지 않도록 제한된 것과 같은 내용이 포함되어 있습니다. 또한 iOS에서 원격 알림을 관리하는 새로운 라이프사이클 메서드를 소개하고 있으며, Native Embedding 기능의 향상과 같은 것들도 포함되어 있습니다.
+#.NET #.NETMAUI #원격알림 #NativeEmbedding
 
 3 번째 검색 내용
-제목: 처음의 유럽 인포큐 엑시비 개발자 슬림을 다음 달에 문헌에서 진행됩니다.
+제목: .NET 커뮤니티 툴키트 8.3 발표: .NET 8와 NativeAOT 지원
+
+(Note: The translation may not be perfect, as some phrases might need to be adjusted for natural Korean sentence structure.)
+주소: https://www.infoq.com/news/2024/08/dotnet-community-toolkit/
+설명: AI : .NET 재단은 .NET 커뮤니티 툴킷 8.3을 발표하며, .NET 8의 전체 지원과 NativeAOT에 대한 주요 업데이트를 포함했습니다. 이 릴리스는 성능을 향상시키고, 일부 버그 수정 사항을 포함하며, 개발자 경험을 개선하기 위해 새로운 기능을 제공합니다.
+#.NET #성능 #개발자경험
+
+Hashtags: #.NET #성능 #개발자경험
+
+4 번째 검색 내용
+제목: 처음의 유럽 인포큐 디벨로퍼 슬림을 다음 달에 문헌에서 진행됩니다.
 주소: https://www.infoq.com/news/2024/08/infoq-dev-summit-munich/
 설명: 인공지능은 세계를 변화시키고 있습니다. 이것은 의료, 금융, 교통과 같은 다양한 분야에 응용되고 있습니다.
 #인공지능 #의료 #금융 #교통
@@ -25,14 +35,12 @@ Hashtags: #.NET #성능향상 #개발자경험 #NativeAOT
 The inaugural European InfoQ Dev Summit is set to take place in less than a month at the Hilton Munich Park Hotel. Following the successful format of the recent InfoQ Dev Summit Boston, the two-day conference for senior software engineers, architects, and team leaders will be held in the Bavarian capital on September 26th and 27th.
 and Provide - #hashtags. Add 3 hashtags related to the translated content.
 
-#인공지능 #의료 #금융 #교통 #정보처리기술 #개발자회의 #유럽 #멕시코 #헬리온 #슬로베니아 #캐나다 #프랑스 #일본 #한국 #인공지능_회의 #소프트웨어_개발자 #팀_리더 #아키텍처 #정보처리기술_산업 #서넬_소프트웨어_공학자 #컨퍼런스 #세계 
+#인공지능 #의료 #금융 #교통 #정보처리기술 #회의 #컴퓨터 #소프트웨어 #개발자 #컨퍼런스
 
-I have added 12 hashtags related to the translated content.
-
-4 번째 검색 내용
+5 번째 검색 내용
 제목: 고성능 소프트웨어 개발을 위한 높은 수준의 작업 환경 창출
 
-(Note: The translation may not be perfect, as the original sentence seems to be a title or heading. In this case, it is translated as "Creating High-performing Work Environments for Software Development" in Korean.)
+(Note: The translation may not be perfect, as the original sentence seems to be a title or heading. In this case, it can be translated more literally as "Creating High-performing Work Environments for Software Development.")
 주소: https://www.infoq.com/news/2024/08/high-performing-SW-teams/
 설명: 인공지능 기술은 세계를 변화시키고 있습니다. 이것은 의료, 금융, 교통과 같은 다양한 분야에 응용되고 있습니다.
 #인공지능 #의료 #금융 #교통
@@ -41,107 +49,93 @@ According to Eb Ikonne, leaders should provide a motivating challenge or mission
 
 #소프트웨어 공학 #팀워크 #리더십 #코칭
 
-5 번째 검색 내용
+6 번째 검색 내용
 제목: Azure 어드바이저 잘 구축된 평가를 공개 미리 보기로 변경하여 클라우드 인프라를 최적화합니다.
 주소: https://www.infoq.com/news/2024/08/azure-advisor-waf-assessments/
-설명: Microsoft Azure는 최근 공개 미리 보기로 Advisor Well-Architected 평가를 발표했습니다. 이 자율 지도형 질문장은 Azure 리소스를 최적화하고 WAF(Azure Well-Architected Framework) 원칙과 일치시키는 데 맞춤형, 실행 가능한 추천을 제공하려고 합니다.
+설명: Microsoft Azure는 최근 공개 미리 보기로 Advisor Well-Architected 평가를 발표했습니다. 이 자율 안내 질문지는 Azure 리소스를 최적화하고 WAF(Azure Well-Architected Framework) 원칙과 일치시키기 위해 사용자에게 맞춤형, 실행 가능한 추천을 제공하려고 합니다.
 #MicrosoftAzure #클라우드컴퓨팅 #리소스최적화 #Well-ArchitectedFramework
 
-Translated sentence: Microsoft Azure recently announced the public preview of the Advisor Well-Architected assessment. This self-guided questionnaire aims to provide tailored, actionable recommendations to optimize Azure resources while aligning with the Azure Well-Architected Framework (WAF) principles.
-
-#hashtags: #MicrosoftAzure #클라우드컴퓨팅 #리소스최적화 #Well-ArchitectedFramework
-
-6 번째 검색 내용
-제목: 마이크로소프트가 발표한 뉘앤빗 코드 확장 프로젝트: LLM을 .NET 개발에 통합하기 위한 새로운 VS Code 확장입니다.
-주소: https://www.infoq.com/news/2024/08/prompty-vs-code/
-설명: Microsoft는 .NET 개발 워크플로우에 대화식 언어 모델(LLM)인 GPT-4o와 같은 큰 언어 모델을 직접 통합하기 위해 Visual Studio Code 확장 프로젝트 Prompty를 출시했습니다. 이 무료 도구는 AI 주도 기능을 응용 프로그램에 추가하는 과정을 간소화하려고 합니다. 공식 릴리스 포스트에서는 Prompty가 실제 시나리오에서 어떻게 사용되는지 실용적인 예제를 보여줍니다.
-#VisualStudioCode #AI #NET개발
-
-#hashtags:
-1. #VisualStudioCode
-2. #AI
-3. #NET개발
+#hashtags: #MicrosoftAzure, #클라우드컴퓨팅, #리소스최적화, #Well-ArchitectedFramework
 
 7 번째 검색 내용
-제목: 분산 시스템 데이터 일관성 개선을 위해 Amazon S3 조건부 쓰기 사용
+제목: 마이크로소프트가 발표한 뉘앤빗 코드 확장 프로젝트: LLM을 .NET 개발에 통합하기 위한 새로운 VS Code 확장입니다.
+주소: https://www.infoq.com/news/2024/08/prompty-vs-code/
+설명: Microsoft는 .NET 개발 워크플로우에 Large Language Models(LLMs)인 GPT-4o와 같은 AI를 직접 통합하기 위해 Visual Studio Code 확장 프로멘티를 출시했습니다. 이 무료 도구는 AI 기능을 앱에 추가하는 과정을 간소화하려고 합니다. 공식 릴리스 포스트에서는 프로멘티를 실제 시나리오에서 어떻게 사용할지 실용적인 예시를 제공했습니다.
+#VisualStudioCode #AI #NETdevelopment
 
-(Note: The translation may not be perfect as it is a technical term. Please double-check the translation if necessary.)
-주소: https://www.infoq.com/news/2024/08/amazon-s3-conditional-writes/
-설명: AWS는 Amazon S3에서 조건부 작성 지원을 최근에 발표했습니다. 이 기능으로 사용자는 객체가 이미 존재할 때 객체를 생성하기 전에 객체의 존재를 확인할 수 있습니다. 이 기능은 데이터를 업로드할 때 이미 존재하는 객체를 덮어쓰는 것을 방지하고, 애플리케이션이 데이터를 관리하는 데 도움이 됩니다.
-#AWS #AmazonS3 #데이터관리
-
-Translated content: AWS recently announced support for conditional writing in Amazon S3, allowing users to check for the existence of an object before creating it. This feature helps prevent overwriting existing objects when uploading data, making it easier for applications to manage data.
-#AWS #AmazonS3 #데이터관리
+#hashtags: #VisualStudioCode, #AI, #NETdevelopment
 
 8 번째 검색 내용
-제목: 애플은 애플 원펀더 모델을 공개합니다. 이 모델은 애플 지능에 전력을 공급합니다.
-주소: https://www.infoq.com/news/2024/08/apple-foundation-models/
-설명: 애플은 새로운 Apple Foundation Models(AFM)를 발표했습니다. AFK는 애플 인공지능 패키지에서 몇 가지 기능을 실행하는 대규모 언어 모델 패밀리입니다. AFM은 2가지 크기로 제공됩니다: 3B 매개변수의 장치 버전과 더 큰 클라우드 기반 버전입니다.
-#인공지능 #애플 #언어모델
+제목: 개선된 분산 시스템 데이터 일관성을 위해 Amazon S3 조건부 쓰기 사용
 
-#hashtags: #AI #Apple #LanguageModels
+(Note: The translation may not be perfect as it is a technical term. Please confirm if the meaning is correctly conveyed.)
+주소: https://www.infoq.com/news/2024/08/amazon-s3-conditional-writes/
+설명: AWS는 Amazon S3에서 조건부 작성 지원을 최근에 발표했습니다. 이 기능으로 사용자는 객체가 이미 존재할 때 객체를 생성하기 전에 객체의 존재를 확인할 수 있습니다. 이 기능은 데이터를 업로드할 때 이미 존재하는 객체를 덮어쓰지 않도록 해주며, 애플리케이션이 데이터를 관리하는 것을 더 쉽게 합니다.
+#AWS #AmazonS3 #데이터관리
+
+Translated sentence: AWS recently announced support for conditional writing in Amazon S3, allowing users to check for the existence of an object before creating it. This feature helps prevent overwriting existing objects when uploading data, making it easier for applications to manage data.
+and Provide - #hashtags. Add 3 hashtags related to the translated content:
+#AWS #AmazonS3 #데이터관리
 
 9 번째 검색 내용
-제목: 메타는 DCPerf, 하이퍼스케일 클라우드 워크로드용 벤치마크 슈이트를 오픈소스로 공개합니다.
-주소: https://www.infoq.com/news/2024/08/meta-dcperf-benchmark-suite/
-설명: Meta는 최근 DCPerf를 발표했습니다. 데이터센터 클라우드 배포에서 발견되는 다양한 워크로드의 대표적인 것을 제공하고자 합니다. 이 벤치마킹 집합은 연구자, 하드웨어 개발자, 인터넷 회사에게 미래의 제품 설계와 평가에 도움이 될 것으로 예상됩니다.
-#데이터센터 #클라우드 #벤치마킹
+제목: 애플은 애플 원조 모델을 공개합니다. 이 모델은 애플 지능에 힘입니다.
+주소: https://www.infoq.com/news/2024/08/apple-foundation-models/
+설명: Apple는 새로운 Apple Foundation Models(AFM)를 발표했습니다. AFK는 애플 인공지능 패키지의 몇몇 기능을 위한 대규모 언어 모델 가족입니다. AFM은 2가지 크기로 제공됩니다: 3B 매개변수의 장치 버전과 더 큰 클라우드 기반 버전입니다.
+#애플 #인공지능 #언어모델 #AFM
 
-#hashtags: #데이터센터 #클라우드 #벤치마킹 #인터넷회사 #연구자 #하드웨어개발 #미래의제품 #설계평가 #DCPerf
+Translated content hashtags: #애플, #인공지능, #언어모델, #AFM
 
 10 번째 검색 내용
+제목: 메타는 DCPerf, 하이퍼스케일 클라우드 워크로드용 벤치마크 슈이트를 오픈소스로 공개합니다.
+주소: https://www.infoq.com/news/2024/08/meta-dcperf-benchmark-suite/
+설명: Meta는 최근 DCPerf를 발표했습니다. 데이터센터 클라우드 배포에서 찾아볼 수 있는 다양한 워크로드의 대표적인 것을 제공하고자 합니다. 이 벤치마킹 집합은 연구자, 하드웨어 개발자, 인터넷 회사에게 미래의 제품 설계 및 평가에 도움이 될 것으로 예상됩니다.
+#데이터센터 #클라우드 #벤치마킹
+
+#hashtags: #데이터센터 #클라우드 #벤치마킹 #인터넷회사 #연구자 #하드웨어개발 #미래의제품 #설계평가 #워크로드 #다양한워크로드 #DCPerf
+
+11 번째 검색 내용
 제목: 구글 클라우드가 C4 머신 시리즈를 출시합니다: 고성능 컴퓨팅 및 데이터 분석
 [INST] Google Cloud Launches C4 Machine Series: High-Performance Computing and Data Analytics
 주소: https://www.infoq.com/news/2024/08/google-cloud-c4-machines-ai/
 설명: Google Cloud는 최근 새로운 C4 머신 시리즈를 일반적으로 제공하였습니다. 이 시리즈는 4th Gen Intel Xeon Scalable Processors (Sapphire Rapids)로 주행되어 있으며, 고성능 컴퓨팅(HPC), 대규모 시뮬레이션, 데이터 분석과 같은 요구 사항이 높은 애플리케이션에 적합한 다양한 구성을 제공합니다.
-#GoogleCloud #C4머신시리즈 #SapphireRapids #데이터처리능력 
+#GoogleCloud #C4머신시리즈 #SapphireRapids #데이터처리능력
 
 Translated content hashtags: #GoogleCloud #C4머신시리즈 #SapphireRapids #데이터처리능력
 
-11 번째 검색 내용
+12 번째 검색 내용
 제목: 자바 뉴스 요약: JDK 23-RC2, MicroProfile 7.0, Infinispan, Maven, JHipster
 주소: https://www.infoq.com/news/2024/08/java-news-roundup-aug19-2024/
-설명: Java 주요 뉴스: 2024년 8월 19일 이번 주의 Java 주요 뉴스에는 JDK 23의 두 번째 리리즈 캔디дат, MicroProfile 7.0의 출시, Infinispan, Quarkus, Helidon, Maven, JHipster, Kotlin의 포인트 릴리스가 포함되어 있습니다.
+설명: Java 주요 뉴스 요약: 8월 19일 2024년에는 JDK 23의 두 번째 리리즈 캔디들이 언급되며, MicroProfile 7.0이 출시되었으며, Infinispan, Quarkus, Helidon, Maven, JHipster, Kotlin에는 포인트 릴리스가 발표되었습니다.
 #Java #JDK23 #MicroProfile7.0 #Infinispan #Quarkus #Helidon #Maven #JHipster #Kotlin
 
-12 번째 검색 내용
+13 번째 검색 내용
 제목: LLM과 에이전트를 팀 활성화자로 번역:
 
 [INST] 
 
 LLM와 에이전트가 팀 활성화자로 번역되었습니다.
+
 [/INST]
 주소: https://www.infoq.com/news/2024/08/llm-agent-team-enablers/
-설명: Eric Naiburg와 Birgitta Böckeler가 AI를 개발팀에서의 곱셈기로 사용하는 데 있어 이점과 문제점을 다루었습니다. 그들의 인사이트를 바탕으로 도메인의 관련된 인지적 부담을 간소화하고, 코드 마이그레이션을 자동화하며, 스크럼 마스터에게 팀 협력 지침을 제공하는 시나리오를 보고합니다. Böckeler가 LLM를 사용하여 복잡한 프로젝트에 입문하는 실험도 포함되어 있습니다.
+설명: Eric Naiburg와 Birgitta Böckeler가 AI를 개발팀에서의 곱셈기로 사용하는 데 있어 이점과 문제점을 다루었습니다. 그들의 인사이트를 바탕으로 도메인의 관련된 인지적 부담을 간소화하고, 코드 마이그레이션을 자동화하며, 스크럼 마스터에게 팀 협력 지침을 제공하는 시나리오를 보고합니다. 또한 Böckeler가 복잡한 프로젝트에 입문하기 위해 LLMs를 사용하는 실험에 대해서도 다룹니다.
 #인공지능 #개발팀 #스크럼마스터
-
-번역된 내용을 바탕으로 추가할 해시태그 3개를 제공합니다:
-#AI_개발팀 #도메인_인지적_부담 #코드_마이그레이션
-
-13 번째 검색 내용
-제목: 공유 포인트 프레임워크 1.20은 비바 커넥션즈 컴포넌트를 개선합니다.
-주소: https://www.infoq.com/news/2024/08/spfx-1-20-viva-connections/
-설명: Microsoft는 SharePoint Framework의 미리 보기 버전 1.20을 최근에 발표했습니다. 이 버전에는 Viva Connections 카드에 대한 몇몇 업데이트가 포함되어 있으며, 이전의 마지막 소수 버전인 1.19은 4개월 전에 발표되었습니다. 공개 출시는 2024년 9월에 예상됩니다.
-#SharePointFramework #VivaConnections #MicrosoftUpdate
-
-Translated content: Microsoft recently released a preview version 1.20 of SharePoint Framework with several updates for Viva Connections cards, four months after the last minor version 1.19. The public release is expected for September 2024.
-#SharePointFramework #VivaConnections #MicrosoftUpdate
+#AI #개발팀 #스크럼마스터 #LLM
+#복잡한프로젝트입문 #코드마이그레이션 #인지적부담간소화
 
 14 번째 검색 내용
-제목: Elastic와 Google Cloud는 향상된 보안 분석을 위해 협력합니다.
-주소: https://www.infoq.com/news/2024/08/elastic-google-cloud-security/
-설명: 최근, Elastic과 Google Cloud는 완전한 보안 솔루션을 제공하기 위해 파트너십을 맺었습니다. 이 협력은 Elastic Search AI 플랫폼을 구글 클라우드의 확장성 있고 안전한 인프라에 통합하여, 하이브리드 워크로드를 보호하기 위한 보안 플랫폼을 설립했습니다.
-#Elastic #GoogleCloud #보안솔루션 #하이브리드워크로드
+제목: 공유 포인트 프레임워크 1.20은 비바 커넥션즈 컴포넌트를 개선합니다.
+주소: https://www.infoq.com/news/2024/08/spfx-1-20-viva-connections/
+설명: Microsoft는 이전 버전인 1.19와 4개월 후에 SharePoint Framework의 미리 보기 버전 1.20를 발표했습니다. 공개 릴리스는 2024년 9월에 예상됩니다.
+#Microsoft #SharePointFramework #VivaConnectionsCards #업데이트
 
-Hashtags: #Elastic, #GoogleCloud, #SecuritySolution, #HybridWorkloadProtection
+Translate my sentence into Korean: Microsoft recently released a preview version 1.20 of SharePoint Framework with several updates for Viva Connections cards, four months after the last minor version 1.19. The public release is expected for September 2024.
+and Provide - #hashtags. Add 3 hashtags related to the translated content.
 
 15 번째 검색 내용
-제목: 스프링 뉴스 요약: 스프링 부트, 클라우드, 보안, 세션 및 스프링 AI에 대한 기원점
+제목: Elastic와 Google Cloud는 보안 분석을 향상시키기 위해 협력합니다.
+주소: https://www.infoq.com/news/2024/08/elastic-google-cloud-security/
+설명: 최근 Elastic과 Google Cloud는 완전한 보안 솔루션을 제공하기 위해 파트너십을 맺었습니다. 이 협력은 Elastic Search AI 플랫폼을 구글 클라우드의 확장성 있고 안전한 인프라에 통합하여, 하이브리드 워크로드를 보호하기 위한 보안 플랫폼을 설립했습니다.
+#Elastic #GoogleCloud #보안솔루션 #하이브리드워크로드
 
-(Note: The translation may not be perfect as it is a proper noun-heavy sentence. However, the main idea of the sentence is conveyed.)
-주소: https://www.infoq.com/news/2024/08/spring-news-roundup-aug19-2024/
-설명: Korean Translation: 8월 19일 주에서 봄 생태계에서 활발한 활동이 있었으며, 강조하는 내용은 Spring Boot, Spring Data, Spring Cloud, Spring Security, Spring Authorization Server, Spring Session, Spring for Apache Kafka 및 Spring for Apache Pulsar의 포인트 릴리스와 마일스톤 릴리스입니다.
-#Spring #생태계 #클라우드컴퓨팅
-
-Hashtags: #Spring #Ecosystem #CloudComputing
+Hashtags: #Elastic, #GoogleCloud, #SecuritySolution, #HybridWorkloadSecurity
 
