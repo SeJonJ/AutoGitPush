@@ -1,101 +1,125 @@
 1 번째 검색 내용
-제목: 알리바바가 수학과 음성 대화를 위한 두 개의 열린 자연어 모델을 발표합니다.
-주소: https://www.infoq.com/news/2024/09/alibaba-qwen2-models/
-설명: Alibaba는 수학 문제를 해결하는 데 최적화된 여러 개의 LLM(언어 모델) 시리즈인 Qwen2-Math를 발표했습니다. 또한, 음성이나 텍스트 입력을 받아들일 수 있는 다양한 모달 LLM 가족인 Qwen2-Audio도 발표되었습니다. 둘 다 Alibaba의 Qwen2 LLM 시리즈에 기반하며, Qwen2-Math의 대부분 버전은 Apache 2.0 라이선스로 사용할 수 있습니다.
-#Alibaba #Qwen2-Math #Qwen2-Audio #LLM
+제목: 티쿡이 모노레포 성능을 개선하기 위해 도구를 발표합니다.
+주소: https://www.infoq.com/news/2024/09/tiktok-monorepo-sparo/
+설명: 공학자들은 TikTok에서 모노레포지토리를 사용하면서 발생하는 문제를 해결하기 위한 새로운 도구 - Sparo -를 발표했습니다. 이것은 큰 레포지토리에 관련된 성능 문제를 여러 가지 해결합니다.
+#모노레포지토리 #성능문제 #Sparo
 
-#hashtags: #AI #언어모델 #Alibaba #Qwen2-Math #Qwen2-Audio
+#hashtags: #모노레포지토리, #성능문제, #Sparo
 
 2 번째 검색 내용
-제목: 네트워크 애스파이어 8.2: 컴포넌트 이름을 통합으로 변경, 테스팅 향상, 그리고 다양한 개선 사항
-주소: https://www.infoq.com/news/2024/09/dotnet-aspire-8-2/
-설명: .NET Aspire 8.2는 사용자 가입, 테스트 및 전반적인 생활 질병 개선에 집중한 향상 사항이 포함된 공식 릴리스되었습니다. 이 버전의 유명한 변경 사항 중 하나는 Components가 Integrations로 이름이 바뀌었습니다. "Integrations"는 지난 주기 및 플랫폼과의 설정, 초기화 및 상호 작용에 도움이 되는 패키지를 의미합니다.
-#.NETAspire #Integrations #클라우드서비스 #플랫폼연동
+제목: Uno Platform 5.3 출시되었습니다.
+주소: https://www.infoq.com/news/2024/09/uno-plaftorm-5-3-released/
+설명: A few weeks ago, Uno released version 5.3 of their multi-platform UI framework for .NET developers. The highlight of the new release is the official support for JetBrains Rider. Other relevant features include improved Hot Reload experience, two new UI controls, new font options, and support for SkiaSharp 3 Previews.
+#Uno #.NET #multi-platform
 
-Translated sentence: .NET Aspire 8.2 has been officially released, bringing enhancements focused on onboarding, testing, and overall quality-of-life improvements. A significant change in this version is the renaming of Components to Integrations. The term "Integrations" now means packages that assist with the setup, initialization, and interaction with major cloud services and platforms.
-
-#hashtags: #.NETAspire #Integrations #클라우드서비스 #플랫폼연동
+Translated content:
+A few weeks ago, Uno released version 5.3 of their multi-platform UI framework for .NET developers. The highlight of the new release is the official support for JetBrains Rider. Other relevant features include improved Hot Reload experience, two new UI controls, new font options, and support for SkiaSharp 3 Previews.
+#Uno #.NET #multi-platform
 
 3 번째 검색 내용
+제목: 알리바바가 수학과 목소리 채팅을 위한 두 개의 오픈 빈도 언어 모델 발표
+
+(Note: The translation may not be perfect as it is a direct translation from English to Korean. The sentence structure and grammar might need adjustments for natural Korean language flow.)
+주소: https://www.infoq.com/news/2024/09/alibaba-qwen2-models/
+설명: Alibaba는 수학 문제를 해결하는 데 최적화된 여러 개의 LLM(Language Model) 가족인 Qwen2-Math를, 음성이나 텍스트 입력을 받아서 다양한 모델로 구성된 다중 모달 LLM 가족인 Qwen2-Audio를 발표했습니다. 모두 Alibaba의 Qwen2 LLM 시리즈 기반이며, Qwen2-Math의 대부분은 Apache 2.0 라이선스 아래 제공됩니다.
+#인공지능 #Alibaba #Qwen2-Math #Qwen2-Audio
+
+Hashtags: #인공지능, #Alibaba, #Qwen2-Math, #Qwen2-Audio
+
+4 번째 검색 내용
+제목: .NET Aspire 8.2: 컴포넌트 이름을 Integrations로 변경, 향상된 테스팅, 및 더 많은 개선 사항
+[/INST]
+주소: https://www.infoq.com/news/2024/09/dotnet-aspire-8-2/
+설명: NET Aspire 8.2는 사용자 입장에서 보드닉, 테스팅, 전반적인 생활 질 개선을 중심으로 공식 발표되었습니다. 이 버전의 주요한 변경 사항 중 하나는 Components를 Integrations로 이름 변경입니다. "Integrations"는 지금은 대규모 클라우드 서비스와 플랫폼에 대한 설정, 초기화 및 상호 작용을 도움이 되는 패키지를 의미합니다.
+#NETAspire #클라우드서비스 #Integrations
+
+#hashtags:
+1. #NETAspire
+2. #클라우드서비스
+3. #Integrations
+
+5 번째 검색 내용
 제목: Azure API Management GA의 작업 공간: 런타임 격리와 연합 모델의 API 관리
 
 (Note: The translation may not be perfect as it is a technical term. Please verify the accuracy if needed.)
 주소: https://www.infoq.com/news/2024/09/workspaces-azure-apim-ga/
-설명: Microsoft는 Azure API Management에서 Workspaces를 출시하여 개발자들이 단일 플랫폼에서 다수의 API 서비스를 관리할 수 있게 합니다. 이 기능은 API 감독을 향상시키고, 중앙화된 및 연방적인 관리 모델을 지원하며, 실행 격리를 보장합니다. 강화된 조직을 위한 이деал입니다. 이 프리미엄 티어 도구는 API 개발을 간소화하면서도 강력한 보안과 제어를 유지합니다.
+설명: Microsoft는 Azure API Management에서 Workspaces를 출시하였습니다. 개발자들은 이제 단일 플랫폼에서 여러 API 서비스를 관리할 수 있습니다. 이 기능은 API 감시를 향상시키고, 중앙화된 및 연합 관리 모델을 지원하며, 실행 격리를 보장합니다. 강화된 조직을 위해 적합한 이 프리미엄 티어 도구는 API 개발을 간소화하면서도 강력한 보안과 제어를 유지합니다.
 #AzureAPIManagement #API개발 #보안 #제어
 
-#hashtags: #AzureAPIManagement, #API개발, #보안, #제어
-
-4 번째 검색 내용
-제목: Figma가 ECS에서 Kubernetes로 이동하여 CNCF 생태계를 활용하고 비용을 줄이기 위해 이뤄졌습니다.
-주소: https://www.infoq.com/news/2024/09/figma-ecs-kubernetes-eks/
-설명: Figma는 AWS ECS에서 Kubernetes(EKS)로 계산 플랫폼을 이전하여 12개월 이내에 고객 영향을 최소화하였습니다. 회사는 주로 CNCF를 지원하는 큰 생태계의 이점을 살리기 위해 Kubernetes를 실행하기로 결정했습니다. 또한, 비용 절감, 개발자 경험 향상, 및 증진성 향상에 따른 이동이 이뤄졌습니다.
-#Figma #Kubernetes #CNCF #비용절감 #개발자경험향상 #증진성향상
-
-5 번째 검색 내용
-제목: 자바 뉴스 요약: 클래스-파일 API, 글래시프리슬, 제이힌스터, 제이리레이저, 하이브네이트 서치, 마이크로나우트
-주소: https://www.infoq.com/news/2024/09/java-news-roundup-aug26-2024/
-설명: Java 주요 뉴스 요약: 2024년 8월 26일 이번 주의 Java 주요 뉴스는 JEP 484, Class-File API가 Candidate 상태로 승진되었으며, GlassFish 7.0.17, JHipster 8.7.0, JReleaser 1.14.0, Hibernate Search 7.1.2와 7.2.1, 그리고 Micronaut Framework 4.6.0이 발표되었습니다.
-#Java #JEP484 #ClassFileAPI #MicronautFramework
-#Java #GlassFish #JHipster #JReleaser
-#HibernateSearch #MicronautFramework #ClassFileAPI #JEP484
+#hashtags: #Azure, #API, #Microsoft, #Workspaces
 
 6 번째 검색 내용
+제목: Figma가 ECS에서 Kubernetes로 이동하여 CNCF 생태계를 활용하고 비용을 줄이기 위해 이뤄졌습니다.
+주소: https://www.infoq.com/news/2024/09/figma-ecs-kubernetes-eks/
+설명: Figma는 AWS ECS에서 Kubernetes(EKS)로 계산 플랫폼을 이전하여 12개월 이내에 고객 영향을 최소화하였습니다. 회사는 주로 CNCF가 지원하는 큰 생태계를 활용할 수 있도록 Kubernetes를 채택하기 위해 이동했으며, 비용 절감, 개발자 경험의 향상, 그리고 증대된 내구성을 추구하는 데 이를 통해 이동하였습니다.
+#Figma #Kubernetes #CNCF #비용절감 #개발자경험향상 #내구성향상
+
+7 번째 검색 내용
+제목: 자바 뉴스 요약: 클래스-파일 API, 글래시프리즈, 제이힙스터, 제이리레저, 하이브네이트 서치, 마이크로나우트
+주소: https://www.infoq.com/news/2024/09/java-news-roundup-aug26-2024/
+설명: Java 주요 뉴스 요약: 2024년 8월 26일 이번 주의 Java 주요 뉴스는 JEP 484, Class-File API가 Candidate 상태로 승진한 것을 포함하여 GlassFish 7.0.17, JHipster 8.7.0, JReleaser 1.14.0, Hibernate Search 7.1.2와 7.2.1, 그리고 Micronaut Framework 4.6.0을 강조합니다.
+#Java #JEP484 #ClassFileAPI #MicronautFramework
+#hashtags: #JavaNews #JavaDevelopment #SoftwareDevelopment
+
+8 번째 검색 내용
 제목: 그록-2 베타 버전이 X 플랫폼에서 발표되었습니다.
 주소: https://www.infoq.com/news/2024/09/grok-x-llm/
 설명: AI : 그록-2 언어 모델은 X 플랫폼에서 베타로 발표되었으며, Grok-2 mini와 함께 공개되었습니다. 이 모델은 LMSYS 리더보드에서 "sus-column-r"로 테스트되어 클로드 3.5 손넷과 GPT-4-Turbo보다 더 높은 Elo 점수를 달성했습니다. Grok-2 mini, 속도와 성능의 균형을 제공하기 위해 작은 변종입니다.
 #그록2 #언어모델 #베타발표 #Elo점수
 
-Hashtags: #언어처리 #인공지능 #머신러닝
-
-7 번째 검색 내용
-제목: 개방형 소프트웨어 커뮤니티에서 걱정이 늘어나고 있습니다. 코크로아치데이(CockroachDB)가 코어 무료 버전을 중단합니다.
-주소: https://www.infoq.com/news/2024/09/cockroachdb-license-concerns/
-설명: CockroachDB Labs는 최근 분산 SQL 데이터베이스의 라이선스 모델을 변경하여 무료 Core 버전을 중단하고, Enterprise 버전만 제공하도록 변경했습니다. 이전에는 오픈소스 라이선스로부터 벗어나 이러한 변경으로 인해 오픈소스 단일 벤더가 관리하는 솔루션의 미래에 대한 질문이 더 많이 제기되었습니다.
-#CockroachDBLabs #라이선스모델변경 #오픈소스 #단일벤더관리
-
-Hashtags: #CockroachDBLabs, #라이선스모델변경, #오픈소스, #단일벤더관리
-
-8 번째 검색 내용
-제목: 마이크로소프트가 고급 AI 개발을 위해 오픈소스 Phi-3.5 모델 출시
-
-(Note: The translation may not be perfect, as some words or phrases might need to be adjusted for proper Korean grammar and syntax.)
-주소: https://www.infoq.com/news/2024/08/microsoft-phi-3-5/
-설명: Microsoft는 Phi-3.5 시리즈에서 새로운 3개의 오픈소스 AI 모델을 출시했습니다: Phi-3.5-mini-instruct, Phi-3.5-MoE-instruct, 그리고 Phi-3.5-vision-instruct. MIT 라이선스로 허용되어 있으며, 이러한 모델은 개발자들에게 다양한 작업을 수행하는데 강력한 도구를 제공합니다. 이러한 작업은 사유, 다국어 처리, 그리고 이미지와 비디오 분석과 같습니다.
-#인공지능 #Microsoft #Phi-3.5-시리즈
-
-#hashtags: #AI모델 #오픈소스 #데이터처리
+#hashtags:
+1. #AI_LanguageModel
+2. #BetaRelease
+3. #PerformanceAndSpeedBalance
 
 9 번째 검색 내용
-제목: 클라우드플레어, 원본 서버 연결을 보안하고 간소화하기 위해 자동 SSL/TLS 도입
+제목: 개방형 소프트웨어 커뮤니티에서 걱정이 늘어나고 있습니다. CockroachDB는 코어 무료 버전을 중단합니다.
+주소: https://www.infoq.com/news/2024/09/cockroachdb-license-concerns/
+설명: CockroachDB Labs는 최근 분산 SQL 데이터베이스의 라이선스 모델을 변경하여 무료 Core 버전을 중단하고, Enterprise 버전만 제공하도록 변경했습니다. 이전에는 오픈소스 라이선스로부터 멀어진 것을 따라서, 이 최근의 변경으로 인해 단일 벤더가 관리하는 오픈 소스 솔루션의 미래에 대한 질문이 더 많이 생겼습니다.
+#CockroachDBLabs #라이선스모델변경 #단일벤더오픈소스
 
-(Note: The translation may not be perfect as it is a machine translation. Please review and make any necessary adjustments.)
+#hashtags: #CockroachDBLabs, #라이선스모델변경, #단일벤더오픈소스
+
+10 번째 검색 내용
+제목: 마이크로소프트가 고급 AI 개발을 위해 오픈 소스 Phi-3.5 모델 출시
+
+(Note: The translation may not be perfect as it is a direct translation from English to Korean without considering the context or grammar rules in detail.)
+주소: https://www.infoq.com/news/2024/08/microsoft-phi-3-5/
+설명: Microsoft는 Phi-3.5 시리즈에서 새로운 3개의 오픈소스 AI 모델을 출시했습니다: Phi-3.5-mini-instruct, Phi-3.5-MoE-instruct, 및 Phi-3.5-vision-instruct. MIT 라이선스 아래 사용 가능하며, 이러한 모델은 개발자들에게 다양한 작업을 위해 강력한 도구를 제공합니다, 이해, 다국어 처리, 그리고 이미지와 비디오 분석과 같은 기능입니다.
+#인공지능 #오픈소스AI모델 #MicrosoftPhi-3.5
+
+Hashtags: #인공지능, #오픈소스AI모델, #MicrosoftPhi-3.5
+
+11 번째 검색 내용
+제목: 클라우드플레어, 원본 서버 연결을 보안하고 간소화하기 위해 자동 SSL/TLS 소개
+
+(Note: The translation may not be perfect as it is a machine translation. Please review and make necessary adjustments if needed.)
 주소: https://www.infoq.com/news/2024/08/cloudflare-automatic-ssl-origin/
-설명: AI : Cloudflare는 최근에 원본 서버와의 통신을 간소화하기 위해 자동 SSL/TLS 설정을 도입했습니다. 이 기능은 보안을 확보하면서 사이트 중단 시간에 위험하지 않게 자동으로 구성됩니다.
+설명: AI : Cloudflare는 최근에 원본 서버와의 통신을 간소화하기 위해 새로운 Automatic SSL/TLS 설정을 도입했습니다. 이 기능은 보안을 확보하면서 사이트 중단 시간에 위험하지 않게 자동으로 구성됩니다.
 #Cloudflare #SSL/TLS #보안 #사이트 중단 시간
 
 Hashtags: #Cloudflare, #SSL/TLS, #보안, #사이트 중단 시간
 
-10 번째 검색 내용
-제목: .NET MAUI 9 미리보기 7: 하이브리드 WebView 도입 및 기타 개선 사항
+12 번째 검색 내용
+제목: .NET MAUI 9 미리보기 7: 하이브리드 WebView 소개 및 다른 개선 사항
 
-(Note: The translation may not be perfect as it is a machine translation. Please review and make any necessary adjustments.)
+(Note: The Korean translation may not be a direct word-for-word translation, but it conveys the meaning of the original sentence.)
 주소: https://www.infoq.com/news/2024/08/dotnet-maui-9-preview7/
-설명: Microsoft는 .NET 9 Preview 7 버전을 발표했습니다. 이 버전에서는 .NET MAUI의 중요한 업데이트가 포함되어 있으며, HybridWebView의 도입과 MainPage의 사용 방법이 제거되었습니다. 또한 iOS에서 원격 알림을 관리하는 새로운 라이프사이클 메소드를 도입하고 네이티브 임베딩 기능의 향상과 더불어 추가되었습니다.
-#.NET #MAUI #원격알림 #네이티브임베딩
+설명: Microsoft는 .NET 9 Preview 7 버전을 릴리스했습니다. 이 버전에서는 .NET MAUI에 대한 중요한 업데이트가 있으며, HybridWebView의 도입과 MainPage의 사용 여부를 사용자 정의할 수 없게 되었습니다. iOS에서 원격 알림을 관리하는 새로운 라이프사이클 메서드가 도입되고, Native Embedding 기능과 더불어 여러 개선 사항이 포함되었습니다.
+#.NET #.NETMAUI #원격알림
 
-11 번째 검색 내용
+13 번째 검색 내용
 제목: .NET 커뮤니티 툴키트 8.3 발표: .NET 8와 NativeAOT 지원
 
-(Note: The translation may not be perfect, as Korean grammar and sentence structure can differ significantly from English.)
+(Note: The translation may not be perfect, but it conveys the meaning of the original sentence.)
 주소: https://www.infoq.com/news/2024/08/dotnet-community-toolkit/
-설명: AI : .NET 재단은 .NET 커뮤니티 툴키트 8.3를 발표하며, .NET 8의 전체 지원과 NativeAOT에 대한 주요 업데이트를 포함했습니다. 이 릴리즈는 성능을 향상시키고, 일부 버그 수정 및 개발자 경험을 개선하기 위해 새로운 기능을 제공합니다.
-#.NET #커뮤니티툴키트 #성능향상 #개발자경험
+설명: AI : .NET 재단은 .NET 커뮤니티 툴킷 8.3를 발표하며, .NET 8의 전체 지원과 NativeAOT에 대한 주요 업데이트를 포함했습니다. 이 릴리즈는 성능을 향상시키고, 일부 버그 수정 사항을 포함하며, 개발자 경험을 향상시키기 위해 새로운 기능을 제공합니다.
+#.NET #성능 #개발자경험 #NativeAOT
 
-Hashtags: #.NET, #커뮤니티툴키트, #성능향상, #개발자경험
+Hashtags: #.NET #성능 #개발자경험 #NativeAOT
 
-12 번째 검색 내용
-제목: 처음의 유럽 인포큐 디벨로퍼 슬러미트는 다음 달에 문헌에서 열리게 됩니다.
+14 번째 검색 내용
+제목: 처음의 유럽 인포큐 디벨로퍼 슬림을 다음 달에 문헌에서 진행됩니다.
 주소: https://www.infoq.com/news/2024/08/infoq-dev-summit-munich/
 설명: 인공지능은 세계를 변화시키고 있습니다. 이것은 의료, 금융, 교통과 같은 다양한 분야에 응용되고 있습니다.
 #인공지능 #의료 #금융 #교통
@@ -103,12 +127,16 @@ Hashtags: #.NET, #커뮤니티툴키트, #성능향상, #개발자경험
 The inaugural European InfoQ Dev Summit is set to take place in less than a month at the Hilton Munich Park Hotel. Following the successful format of the recent InfoQ Dev Summit Boston, the two-day conference for senior software engineers, architects, and team leaders will be held in the Bavarian capital on September 26th and 27th.
 and Provide - #hashtags. Add 3 hashtags related to the translated content.
 
-#인공지능 #의료 #금융 #교통 #정보처리기술 #개발자회의 #유럽 #멕시코 #헬리온 #슬로베니아 #센터 #캐나다 #웨스트 #캘리포니아 #인프라스트럭처#개발자회의 #정보처리기술 #개발자회의 #유럽 #멕시코 #헬리온 #슬로베니아 #센터 #캐나다 #웨스트 #캘리포니아 #인프라스트럭처
+번역결과: 에вро펑티브 인포쿼 디비슨은 한 달 안에 망토의 히슨턴 파크 핫럭스에서 열리고, 최근 인포쿼 디비슨 보스턴의 성공적인 형식을 따라 9월 26일과 27일에 진행될 두 날짜의 세니어 소프트웨어 엔지니어, 아키텍트, 팀 리더들이 참석할 컨퍼런스입니다.
+#인포쿼디비슨 #에вро펑티브 #소프트웨어엔지니어링 #팀리더십
 
-13 번째 검색 내용
+번역결과: 에вро펑티브 인포쿼 디비슨은 한 달 안에 망토의 히슨턴 파크 핫럭스에서 열리고, 최근 인포쿼 디비슨 보스턴의 성공적인 형식을 따라 9월 26일과 27일에 진행될 두 날짜의 세니어 소프트웨어 엔지니어, 아키텍트, 팀 리더들이 참석할 컨퍼런스입니다.
+#인포쿼디비슨 #에вро펑티브 #소프트웨어엔지니어링 #팀리더십
+
+15 번째 검색 내용
 제목: 고성능 소프트웨어 개발을 위한 높은 수준의 작업 환경 창출
 
-(Note: The translation may not be perfect, as the original sentence seems to be a title or heading. In this case, it would be more appropriate to translate it as "고성능 소프트웨어 개발을 위한 작업 환경 창출" or something similar.)
+(Note: The translation may not be perfect as it is a direct translation of the English phrase. In Korean, it would be more natural to say "고성능 작업 환경을 갖춘 소프트웨어 개발" or "소프트웨어 개발에 높은 수준의 작업 환경을 창출하기 위해".)
 주소: https://www.infoq.com/news/2024/08/high-performing-SW-teams/
 설명: 인공지능 기술은 세계를 변화시키고 있습니다. 이것은 의료, 금융, 교통과 같은 다양한 분야에 응용되고 있습니다.
 #인공지능 #의료 #금융 #교통
@@ -116,24 +144,4 @@ and Provide - #hashtags. Add 3 hashtags related to the translated content.
 According to Eb Ikonne, leaders should provide a motivating challenge or mission so that the software engineering team understands what success looks like. They can provide an enabling structure for effective teamwork, address things that negatively impact team success, and reduce or remove friction. Coaching can help people discover how to work effectively together.
                      and Provide - #hashtags. Add 3 hashtags related to the translated content.
 #리더십 #소프트웨어엔지니어링팀 #협업 #코칭
-
-14 번째 검색 내용
-제목: Azure 어드바이저 잘 구축된 평가를 공개 미리 보기로 변경하여 클라우드 인프라 최적화
-
-(Note: The translation may not be perfect as it involves translating technical terms and proper nouns. Please review the translation for accuracy.)
-주소: https://www.infoq.com/news/2024/08/azure-advisor-waf-assessments/
-설명: Microsoft Azure는 최근 공개 미리 보기로 Advisor Well-Architected 평가를 발표했습니다. 이 자율 지도형 질문장은 Azure 리소스를 최적화하고 WAF(Azure Well-Architected Framework) 원칙과 일치시키는 데 맞춤형, 실행 가능한 추천을 제공하려고 합니다.
-#MicrosoftAzure #클라우드컴퓨팅 #리소스최적화 #Well-ArchitectedFramework
-
-Translated sentence: Microsoft Azure recently announced the public preview of the Advisor Well-Architected assessment. This self-guided questionnaire aims to provide tailored, actionable recommendations to optimize Azure resources while aligning with the Azure Well-Architected Framework (WAF) principles.
-
-#hashtags: #MicrosoftAzure #클라우드컴퓨팅 #리소스최적화 #Well-ArchitectedFramework
-
-15 번째 검색 내용
-제목: 마이크로소프트가 발표한 뉘앤빗 코드 확장 프로젝트: LLM을 .NET 개발에 통합하기 위한 새로운 VS Code 확장입니다.
-주소: https://www.infoq.com/news/2024/08/prompty-vs-code/
-설명: Microsoft는 .NET 개발 워크플로우에 대화식 언어 모델(LLM)인 GPT-4o와 같은 큰 언어 모델을 직접 통합하기 위해 Visual Studio Code 확장 프로젝트 Prompty를 출시했습니다. 이 무료 도구는 AI 주도 기능을 응용 프로그램에 추가하는 과정을 간소화하려고 합니다. 공식 릴리스 포스트에서는 Prompty가 실제 시나리오에서 어떻게 사용되는지 실용적인 예제를 보여줍니다.
-#VisualStudioCode #AI #NET_개발 #대화식_언어_모델
-
-#hashtags: #VisualStudioCode, #AI, #NET_개발, #대화식_언어_모델
 
