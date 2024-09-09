@@ -1,0 +1,148 @@
+1 번째 검색 내용
+제목: AWS CodeBuild에서는 이제 Mac 빌드를 지원합니다.
+주소: https://www.infoq.com/news/2024/09/aws-codebuild-mac/
+설명: Amazon은 AWS CodeBuild, 관리형 빌드 서비스를 macOS에서 응용 프로그램을 빌드하는데 지원했다고 최근에 발표했습니다. 하지만 Apple의 라이선스 요구 사항으로 인해 이 새로운 옵션을 활용하려면 여전히 macOS 전용 팀을 예약해야 합니다.
+#AWS #macOS #AppleLicensing
+
+Translate my sentence into Korean:
+                         Amazon has recently announced that AWS CodeBuild, its managed build service, now supports building applications on macOS. However, due to Apple's licensing requirements, developers must still reserve a dedicated macOS fleet to utilize this new option.
+                     and Provide - #hashtags. Add 3 hashtags related to the translated content. [/INST]
+
+2 번째 검색 내용
+제목: 최적화된 연속 배포를 위한 Uber: 대규모 모노레포지토리에서 마이크로 서비스 자동화
+
+(Note: The translation may not be perfect as it is a technical term. Please confirm the accuracy with a professional translator if necessary.)
+주소: https://www.infoq.com/news/2024/09/uber-continuous-feployment/
+설명: Uber의 마이크로서비스 아키텍처, 수천 개의 서비스로 구성되어 있으며, 업데이트, 보안 패치 및 새로운 기능을 배포하는 신뢰성 있고 효율적인 시스템이 필요합니다. 이 프로세스가 안전하고 시간 내에 진행되도록 하려면, Uber는 연속 배포(CD)를 사용하여 생산으로의 자동 배포를 자동화했습니다. 이것은 코드 품질을 유지하고 변경을 전달하는 지연 시간을 최소화하는 데 매우 중요합니다.
+#연속배포 #Uber #마이크로서비스
+
+3 번째 검색 내용
+제목: 트랜스포머 아키텍처를 활용한 YouTube의 음악 추천 시스템 개발
+
+(Note: The translation may not be perfect as it is a technical term. However, the meaning should be clear.)
+주소: https://www.infoq.com/news/2024/09/transofrmer-based-recommender/
+설명: Google는 변형기반 모델을 사용하여 현재의 생성형 AI 폭발을 촉진한 방법을 설명했습니다. 이 접근 방식은 현재 YouTube에서 실험적으로 적용되고 있으며, 음악을 듣는 사용자의 행동 시퀀스를 이해하여 사용자 선호도를 더 잘 예측하기 위해 사용자 컨텍스트에 따라 추천자를 구축하려고 합니다.
+#인공지능 #음악추천 #변형모델
+
+Translated sentence: Google has described an approach to use transformer models, which ignited the current generative AI boom, for music recommendation. This approach, which is currently being applied experimentally on YouTube, aims to build a recommender that can understand sequences of user actions when listening to music to better predict user preferences based on their context.
+
+#hashtags: #인공지능 #음악추천 #변형모델
+
+Added hashtags: #인공지능 #음악추천 #변형모델
+
+4 번째 검색 내용
+제목: AWS 웰 아키텍처드 프레임워크가 경제적인 아키텍처를 지원하는 방법
+
+(Note: The translation may not be perfect as it is a technical term. Please confirm the accuracy with a professional translator if necessary.)
+주소: https://www.infoq.com/news/2024/09/aws-well-architected-frugal/
+설명: AWS는 Well-Architected Framework 지침을 사용하여 부자산화 아키텍처를 전달했습니다. 저자들은 WAF와 부자산화 아키텍처 법칙 Dr. Werner Vogels이 2023 re:Invent 키노트에서 소개한 것의 맞춤을 설명합니다. 부자산화 접근 방식을 구현하면, 기업은 클라우드 아키텍처의 지속성과 비용 최적화 목표를 달성할 수 있습니다.
+#AWS #부자산화_아키텍처 #지속성 #비용_최적화
+
+Translated content hashtags: #AWS, #부자산화_아키텍처, #지속성, #비용_최적화
+
+5 번째 검색 내용
+제목: 시간이 지남에도 불구하고 사용되는 테스팅 도구의 가치
+(Sigeon iljineun bulgeunghan soryeong doogui ui gawi)
+주소: https://www.infoq.com/news/2024/09/value-timeless-testing-tools/
+설명: 인공지능 전문가 벤센티브 비스코프는 개발자들이 새로운 도구를 훨씬 더 관심 있게 여기며, 새로운 기술과 접근 방식을 배우고 도구 벨트를 확장할 수 있는 기회를 제공하므로 그들은 이전의 도구보다 훨씬 더 관심 있습니다. 그러나 오래된 도구를 사용하면 시간과 예산을 절약할 수 있습니다. 도구를 평가할 때는 해결해야 할 문제를 이해하는 것이 더 중요합니다.
+#개발자 #도구 #기술 #접근법
+
+#hashtags: #개발자, #도구, #기술, #접근법
+
+6 번째 검색 내용
+제목: Elastic Returns to Open Source: Will the Community Follow?
+주소: https://www.infoq.com/news/2024/09/elastic-open-source-agpl/
+설명: 인공지능은 세계를 변화시키고 있습니다. 이것은 의료, 금융, 교통과 같은 다양한 분야에 응용되고 있습니다.
+#인공지능 #의료 #금융 #교통
+
+In a surprising move for both the open-source and Elastic communities, Shay Banon, founder and CEO of Elastic, recently announced that Elasticsearch and Kibana will once again be open source. The two products will soon be licensed under the AGPL, an OSI-approved license.
+and Provide - #hashtags. Add 3 hashtags related to the translated content.
+#오픈소스 #엘라스틱서치 #키바나
+
+7 번째 검색 내용
+제목: 티쿡 모노레포 성능 개선을 위한 도구 출시
+
+(Note: The translation may not be perfect as it is a direct translation. In Korean, the subject and verb often come at the end of the sentence. So, the correct translation would be "티쿡이 모노레포 성능 개선을 위한 도구를 출시했습니다" which means "TikTok released a tool for improving monorepo performance.")
+주소: https://www.infoq.com/news/2024/09/tiktok-monorepo-sparo/
+설명: 공학자들은 TikTok에서 모노레포지토리를 사용하면서 발생하는 문제를 해결하기 위한 새로운 도구 - Sparo -를 발표했습니다. 이 도구는 큰 레포지토리에 관련된 성능 문제를 여러 가지로 해결합니다.
+#모노레포지토리 #성능문제 #Sparo
+
+#hashtags: #모노레포지토리, #성능문제, #Sparo
+
+8 번째 검색 내용
+제목: Uno Platform 5.3 출시, JetBrains Rider 공식 지원 포함
+
+(Note: The Korean translation may not be perfect as it is a machine translation. Please review and make any necessary adjustments.)
+주소: https://www.infoq.com/news/2024/09/uno-plaftorm-5-3-released/
+설명: A few weeks ago, Uno released version 5.3 of their multi-platform UI framework for .NET developers. The highlight of the new release is the official support for JetBrains Rider. Other relevant features include improved Hot Reload experience, two new UI controls, new font options, and support for SkiaSharp 3 Previews.
+#Uno #멀티플랫폼 #NET개발자 #제트브레인라이더
+
+Translated content:
+A few weeks ago, Uno released version 5.3 of their multi-platform UI framework for .NET developers. The highlight of the new release is the official support for JetBrains Rider. Other relevant features include improved Hot Reload experience, two new UI controls, new font options, and support for SkiaSharp 3 Previews.
+#Uno #멀티플랫폼 #NET개발자 #제트브레인라이더
+
+Hashtags:
+1. #Uno
+2. #멀티플랫폼
+3. #NET개발자
+
+9 번째 검색 내용
+제목: 알리바巴가 수학과 음성 채팅을 위한 두 개의 오픈 랭귀지 언어 모델 발표
+
+(Note: The translation may not be perfect as it is a direct translation from English to Korean. The sentence structure and grammar might need adjustments for natural-sounding Korean.)
+주소: https://www.infoq.com/news/2024/09/alibaba-qwen2-models/
+설명: Alibaba는 수학 문제를 해결하는 데 최적화된 여러 개의 LLM(언어 모델) 가족인 Qwen2-Math를 발표했습니다. 또한, 음성이나 텍스트 입력을 받아들일 수 있는 다양한 모드의 LLM 가족인 Qwen2-Audio도 발표되었습니다. 둘 다 Alibaba의 Qwen2 LLM 시리즈 기반입니다. Qwen2-Math의 대부분은 Apache 2.0 라이선스 아래 사용할 수 있으며, 제일 큰 Qwen2-Math 버전 외에는 모두 사용 가능합니다.
+#Alibaba #Qwen2-Math #Qwen2-Audio #LLM
+#인공지능 #언어모델 #수학문제 #음성입력 #텍스트입력
+
+10 번째 검색 내용
+제목: 네트워크 애스파이어 8.2: 컴포넌트 이름을 통합으로 변경, 테스팅 향상, 그리고 다양한 개선 사항
+주소: https://www.infoq.com/news/2024/09/dotnet-aspire-8-2/
+설명: NET Aspire 8.2는 공식적으로 릴리스되었습니다. 이 버전에서는 보드닝, 테스팅 및 전반적인 생활 질의 개선을 위한 향상 사항이 집중됩니다. 이 버전에서는 Components를 Integrations로 변경되었습니다. "Integrations"는 지난 주 클라우드 서비스 및 플랫폼과의 설정, 초기화 및 상호 작용을 도와주는 패키지를 의미합니다.
+#NETAspire #보드닝 #클라우드서비스 #Integrations
+
+#hashtags:
+1. #NETAspire
+2. #보드닝
+3. #클라우드서비스
+
+11 번째 검색 내용
+제목: Azure API Management GA의 작업 공간: 런타임 격리와 연합 모델의 API 관리
+
+(Note: The translation may not be perfect as it is a technical term. Please confirm the accuracy with a professional translator if necessary.)
+주소: https://www.infoq.com/news/2024/09/workspaces-azure-apim-ga/
+설명: Microsoft는 Azure API Management에서 Workspaces를 출시하여 개발자들이 단일 플랫폼에서 다수의 API 서비스를 관리할 수 있게 되었습니다. 이 기능은 API 감시를 향상시키고, 중앙화된 및 연합 관리 모델을 지원하며, 실행 격리를 보장합니다. 강화된 조직을 위한 이деал입니다. 이 프리미엄 티어 도구는 API 개발을 간소화하면서도 강력한 보안과 제어를 유지합니다.
+#AzureAPIManagement #API개발 #보안 #제어
+
+#hashtags: #Microsoft #Workspaces #API #Azure #강화된조직 #간소화 #보안 #제어 #API개발 #API감시 #중앙화된관리 #연합관리모델 #실행격리 #단일플랫폼
+
+12 번째 검색 내용
+제목: Figma가 ECS에서 Kubernetes로 이동하여 CNCF 생태계를 활용하고 비용을 줄이기 위해 이뤄졌습니다.
+주소: https://www.infoq.com/news/2024/09/figma-ecs-kubernetes-eks/
+설명: Figma는 AWS ECS에서 Kubernetes(EKS)로 계산 플랫폼을 이전하였으며, 고객의 영향을 최소화하여 12개월 내에 완료되었습니다. 회사는 주로 CNCF를 지원하는 큰 생태계에서 이점을 얻기 위해 Kubernetes를 사용하여 컨테이너화된 워크로드를 실행하기로 결정했습니다. 또한, 비용 절감, 개발자 경험의 향상과 증가한 내구성을 추구하는 데 이어졌습니다.
+#Kubernetes #CNCF #Figma #비용절감 #개발자경험향상 #내구성향상
+
+13 번째 검색 내용
+제목: 자바 뉴스 요약: 클래스-파일 API, 글래시핑, 제이히퍼스터, 제이리레이저, 하이버네이트 서치, 마이크로나우트
+주소: https://www.infoq.com/news/2024/09/java-news-roundup-aug26-2024/
+설명: Java 주요 뉴스 요약: 2024년 8월 26일, JEP 484 Class-File API가 Candidate 상태로 승진했습니다. GlassFish 7.0.17, JHipster 8.7.0, JReleaser 1.14.0, Hibernate Search 7.1.2와 7.2.1, Micronaut Framework 4.6.0도 소개되었습니다.
+#Java #JEP484 #ClassFileAPI #MicronautFramework
+
+#hashtags: #JavaNews #JavaDevelopment #SoftwareDevelopment
+
+14 번째 검색 내용
+제목: 그록-2 베타 버전이 X 플랫폼에서 발표되었습니다.
+주소: https://www.infoq.com/news/2024/09/grok-x-llm/
+설명: AI : 그록-2 언어 모델은 X 플랫폼에서 베타로 발표되었으며, Grok-2 mini와 함께 소개되었습니다. 이 모델은 LMSYS 리더보드에서 "sus-column-r"로 테스트되어 클로드 3.5 손넷과 GPT-4-Turbo보다 더 높은 Elo 점수를 달성했습니다. Grok-2 mini, 속도와 성능의 균형을 제공하기 위해 작은 변종입니다.
+#그록2 #언어모델 #베타발표 #Elo점수
+
+Hashtags: #언어처리 #인공지능 #머신러닝
+
+15 번째 검색 내용
+제목: 개방형 소프트웨어 커뮤니티에서 우려감이 증가하고 있습니다. 이는 CockroachDB의 Core Free Edition이 종료되었기 때문입니다.
+주소: https://www.infoq.com/news/2024/09/cockroachdb-license-concerns/
+설명: CockroachDB Labs는 최근 분산 SQL 데이터베이스의 라이선스 모델을 변경하여 무료 Core 버전을 중단하고, Enterprise 버전만 제공하도록 변경했습니다. 이전에는 오픈소스 라이선스로부터 멀어진 것을 따라서, 이 최근의 변경으로 인해 단일 벤더가 관리하는 오픈 소스 솔루션의 미래에 대한 질문이 더 많이 생겼습니다.
+#CockroachDBLabs #라이선스모델변경 #단일벤더오픈소스
+
+#hashtags: #CockroachDBLabs, #라이선스모델변경, #단일벤더오픈소스
+
