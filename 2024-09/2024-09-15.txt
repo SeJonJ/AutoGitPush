@@ -1,19 +1,17 @@
 1 번째 검색 내용
-제목: 앤자스 인트로디스 스토리지 브라우저를 소개합니다. (Amazon Introduces Storage Browser for S3)
+제목: 앤자스 소개: S3 저장소 브라우저
+[INST] Amazon Introduces Storage Browser for S3 [/INST]
+
+이 문장은 "앤자스가 S3에 대한 저장소 브라우저를 소개합니다"의 뜻입니다.
 주소: https://www.infoq.com/news/2024/09/amazon-storage-browser-s3/
-설명: Amazon은 최근에 Amazon S3에 저장된 데이터에 접근하기 위한 간단한 인터페이스를 제공하는 Storage Browser의 알파 릴리즈를 발표했습니다. 프로젝트는 AWS Amplify JavaScript와 React 클라이언트 라이브러리에서 사용할 수 있습니다.
+설명: Amazon은 최근에 Amazon S3에 저장된 데이터에 대한 간단한 인터페이스를 제공하는 Storage Browser의 알파 릴리즈를 발표했습니다. 프로젝트는 AWS Amplify JavaScript와 React 클라이언트 라이브러리에서 사용할 수 있습니다.
 #AmazonS3 #StorageBrowser #AWSAmplify
 
 Translated content: Amazon has recently announced the alpha release of Storage Browser for Amazon S3, providing end users with a simple interface for accessing data stored in S3. The project is available in the AWS Amplify JavaScript and React client libraries.
 #AmazonS3 #StorageBrowser #AWSAmplify
 
-Hashtags added: 
-1. #AmazonS3
-2. #StorageBrowser
-3. #AWSAmplify
-
 2 번째 검색 내용
-제목: 코어 WCF는 아즈루 스토리지 큐 바인딩 가져옵니다.
+제목: 코어 WCF는 아즈러 스토리지 큐 바인딩 가져옵니다.
 주소: https://www.infoq.com/news/2024/09/corewcf-azure-storage-queues/
 설명: Microsoft는 CoreWCF 서비스 라이브러리와 WCF 클라이언트 라이브러리를 Azure 스토리지 큐에 바인딩을 추가했습니다. 새로운 바인딩은 신뢰성 있고 확장 가능한 메시징 솔루션으로 Azure 서비스 큐를 사용할 수 있게 개발자들에게 도움이 됩니다. 또한, Microsoft MSMQ WCF 솔루션을 Azure 클라우드 기반 아키텍처로 간단하게 마이그레이션할 수 있습니다.
 #Azure #WCF #MSMQ
@@ -24,19 +22,19 @@ Hashtags added:
 제목: [INST] 소프트웨어 기업에서의 빠른 흐름 활성화
 [/INST]
 주소: https://www.infoq.com/news/2024/09/fast-flow-software-organizations/
-설명: 문장을 한국어로 번역하고 해시태그를 제공하십시오: 조직에서 문화 문제가 사라지도록 방해물을 제거하고 인식 부담을 줄이는 것이 가능합니다. Nigel Kersten은 명확한 전략을 시작으로 쉽게 전달할 수 있도록 하고, 스트림 정렬 팀과 플랫폼 팀을 만드는 경로를 따라가라고 제안했습니다.
-#조직 #문화 #방해물 #인식부담
+설명: 문장을 한국어로 번역하고 해시태그를 제공하십시오: 조직에서 문화 문제가 사라지도록 장애물을 제거하고 인식 부담을 줄이는 것은 핵심 전략을 명확하게 전달할 수 있는 것으로 시작하고, 스트림 맞춤 팀과 플랫폼 팀을 만드는 경로를 따라가라고 Nigel Kersten이 제안했습니다.
+#조직 #문화문제 #장애물제거
 
-번역된 내용에 대한 해시태그 3개를 추가합니다: [/INST]
-#조직 #문화 #방해물 #인식부담 #NigelKersten #전략 #스트림정렬팀 #플랫폼팀
+번역된 내용에 대한 해시태그 3개를 추가합니다:
+#조직문화 #장애물제거 #인식부담줄이기
 
 4 번째 검색 내용
-제목: 리프트가 협력 프로토콜 버퍼 디자인에 대한 최고 실천 방법을 홍보합니다.
+제목: 리프트가 협력형 프로토콜 버퍼 디자인에 대한 최고 실천 방법을 홍보합니다.
 주소: https://www.infoq.com/news/2024/09/lyft-protocol-buffers-design/
-설명: Lyft는 Protocol Buffers를 사용하여 시스템 간 통합에 대한 경험을 공유했습니다. 이 글은 협력적인 프로토콜 설계를 중심으로 팀과 시스템 간에 공유되는 정의에 초점을 맞추고 있으며, 지식 공유, 일관성, 개발 프로세스 질과 원시 효율성 최적화보다는 이러한 접근 방식을 홍보합니다.
-#ProtocolBuffers #Lyft #시스템통합 #지식공유
+설명: Lyft는 Protocol Buffers를 사용하여 시스템 간 통합에 대해 경험을 공유했습니다. 이 글은 협력적인 프로토콜 디자인을 중심으로 팀과 시스템 간에 공유되는 정의를 개선하는 데 초점을 맞추고 있습니다. 회사는 지식 공유, 일관성, 개발 프로세스 품질 향상과 原시 효율화 최적화에 비해 이러한 접근 방식을 홍보합니다.
+#ProtocolBuffers #시스템통합 #지식공유 #개발프로세스품질
 
-Translated content hashtags: #ProtocolBuffers, #Lyft, #시스템통합, #지식공유
+Translated content hashtags: #ProtocolBuffers, #시스템통합, #지식공유, #개발프로세스품질
 
 5 번째 검색 내용
 제목: [INST]  Korean translation: 
@@ -44,61 +42,56 @@ Translated content hashtags: #ProtocolBuffers, #Lyft, #시스템통합, #지식�
                             스위프트 서버 사이드 개발의 미래를 실현한 Vapor 5
                         [/INST]
 주소: https://www.infoq.com/news/2024/09/swift-vapor-5-roadmap/
-설명: Swift 서버 사이드 개발 프레임워크 Vapor의 현재 버전 출시 후 4년 이상 지난 동안, Vapor 5를 위한 팀은 Swift 6 병행성 기능을 활용하고 프레임워크의 미래 발전에 기초를 둔 것입니다. Swift 6이 공식적으로 출시되면 초기 alpha 릴리스가 준비될 예정입니다.
-#Swift #Vapor #서버사이드개발
+설명: Swift 서버 사이드 개발 프레임워크 Vapor의 현재 버전 출시 후 4년 이상 지난 이래, Swift 6 동시성 기능을 활용하고 프레임워크의 미래 진화에 기초를 둔 Vapor 5를 개발하고 있습니다. Swift 6이 공식적으로 출시되면 초기 alpha 릴리스가 준비될 예정입니다.
+#Swift #Vapor #서버사이드개발프레임워크
 
 6 번째 검색 내용
-제목: 보안 전문가들이 공항 보안 흐름을 SQL 삽입으로 활용하여 이용한다.
+제목: 보안 전문가들이 공항 보안 흐름을 SQL 삽입으로 활용한다.
 주소: https://www.infoq.com/news/2024/09/sql-injection-airport-security/
-설명: 인터넷 게시물에서 "공항 보안 체크를 SQL 삽입으로 우회하기"라는 제목의 글에서, 두 개발자는 비행사와 항공조리원들이 공항 보안 검사를 우회할 수 있는 간단한 SQL 삽입 공격을 실시했다고 최근에 밝혔습니다.
-#SQL인젝션 #보안 #항공 #공항보안
+설명: 인터넷 스팸 : 기사 "공항 보안 체크를 건너뛰기 위해 SQL 삽입"에서는 두 보안 연구자가 비행조종사와 비행 attendants가 공항 보안 검색을 건너뛸 수 있는 서비스에 SQL 삽입 공격을 간단하게 실행할 수 있다는 것을 최근에 보여줬습니다.
+#SQL인젝션 #보안 #공항보안
 
-#hashtags: #SQL인젝션, #보안, #항공, #공항보안
+Translated content: In the article "Bypassing airport security via SQL injection," two security researchers recently demonstrated how they executed a simple SQL injection attack on a service that enables pilots and flight attendants to bypass airport security screening.
+#SQL인젝션 #보안 #공항보안
+
+Hashtags added: #SQL인젝션, #보안, #공항보안
 
 7 번째 검색 내용
 제목: 구글은 게임 시뮬레이션 AI 게임 NGen을 발표합니다.
 주소: https://www.infoq.com/news/2024/09/google-gamengen/
-설명: AI : 구글의 연구팀이 최근에 GameNGen이라는 생성형 AI 모델를 발표했습니다. 이 모델은 Doom 비디오 게임을 20프레임 초당(FPS)으로 시뮬레이션할 수 있으며, 인간 평가에서 실제 게임과 약간 차이만 있어도 매우 좋은 평가를 받았습니다.
-#인공지능 #게임NGen #Doom #AI모델
-
-Hashtags: #인공지능, #게임NGen, #Doom, #AI모델
+설명: AI : 구글에서 출신한 연구팀이 최근에 GameNGen이라는 생성형 AI 모델를 발표했습니다. 이 모델은 Doom, 즉 비디오 게임을 시뮬레이션할 수 있으며, 20프레임 초당(FPS)으로 시뮬레이션할 수 있습니다. 인간 평가에서는 실제 게임과 거의 동등하게 선호되었습니다.
+#인공지능 #게임NGen #비디오게임 #AI시뮬레이션
 
 8 번째 검색 내용
 제목: 헬릭스ML 홈페이지에서는 헬릭스 1.0 릴리즈를 발표합니다.
 [/INST]
 주소: https://www.infoq.com/news/2024/09/helix-production-ready/
-설명: HelixML은 생성형 AI용 Helix 플랫폼을 1.0 버전으로 제품 준비 상태로 발표했습니다. "사설 GenAI 스택"이라고 부르며, 플랫폼은 LLM과 다양한 연결 가능한 인터페이스 레이어와 응용 프로그램을 제공합니다. 컴포넌트를 모든 버전 관리하여 시작할 수 있으며, 후속 배포와 확장에 대한 이후 간소화를 위해 사용할 수 있습니다.
-#HelixML #생성형AI #LLM #제품준비상태
+설명: HelixML은 생성 AI용 Helix 플랫폼이 버전 1.0에서 제품 준비상태입니다. "개인 GenAI 스택"으로 설명되며, 플랫폼은 LLM과 다양한 연결 가능한 인터페이스 레이어와 응용 프로그램을 제공합니다. 컴포넌트는 모든 버전 관리를 통해 사용되며, 시작은 노트북으로 하여금 후속 배포와 확장이 쉬워집니다.
+#HelixML #생성AI #LLM #제품준비상태
 
-#hashtags: #AI #컴퓨터과학 #개발자
-
-[INST] Human : Translate my sentence into Korean: I am a software engineer who has been working on AI for the past 5 years. I have experience in developing various AI models and applications, including natural language processing, computer vision, and reinforcement learning. I am currently working on a project that involves developing an AI-based recommendation system for e-commerce platforms.
-and Provide - #hashtags. Add 3 hashtags related to the translated content. [/INST]
+#hashtags: #AI #HelixPlatform #개인GenAI스택
 
 9 번째 검색 내용
-제목: 마이크로소프트 .NET 컨퍼런스: AI에 집중하기
+제목: Microsoft .NET CONF: AI 중심
 
-(Note: The translation may not be perfect as it is a machine translation. Please review and make any necessary adjustments.)
+(Note: The original sentence seems to be a mix of English and Korean characters. If you want the translation to follow the same format, please provide more context or clarify the intended meaning.)
 주소: https://www.infoq.com/news/2024/09/dotnet-conf-focus-ai/
-설명: 지난 달 2024년 최신판 .NET Conf: Focus 시리즈에서 AI 개발 주제를 다루는 이벤트가 진행되었습니다. 이 이벤트는 모든 수준의 개발자들을 대상으로 하며, .NET 에코시스템에서 인공지능을 사용하는 방법을 보여주는 정보적이고 실제 세션을 포함했습니다. 이 이벤트는 Focus 시리즈 중에서 가장 기술적인 것 중 하나였으며, 많은 고품질의 깊이 탐색 세션이 있었습니다.
-#인공지능 #.NETConf #개발자
+설명: 지난 달 2024년 최신판 .NET Conf: Focus 시리즈에서 AI 개발 주제를 다루는 이벤트가 진행되었습니다. 이 이벤트는 모든 수준의 개발자들을 대상으로 하며, .NET 에코시스템에서 인공지능을 사용하는 방법을 보여주는 정보적이고 실습 세션을 포함했습니다. 이 이벤트는 Focus 시리즈 중에서 가장 기술적인 것 중 하나였으며, 많은 고품질의 깊이 탐색 세션이 있었습니다.
+#.NETConf #인공지능개발 #.NET에코시스템
 
 Translated content: Last month the latest edition of the .NET Conf: Focus series for 2024 took place, featuring AI development topics. The event targeted developers of all levels, with both informative and hands-on sessions showcasing how to use artificial intelligence within the .NET ecosystem. This was one of the most technical events ever in the Focus series, with many high-quality, deep-dive sessions.
-#인공지능 #.NETConf #개발자
 
-Hashtags: #인공지능 #.NETConf #개발자
+#hashtags: #.NETConf #인공지능개발 #.NET에코시스템
 
 10 번째 검색 내용
-제목: 자바 뉴스 요약: 스트림 수집기, 프로젝트 루룩, 하이브레이트 빈디케이터, 랑체인4j, 클로저
+제목: 자바 뉴스 요약: 스트림 수집기, 프로젝트 루룩, 하이브레이트 빈디셔터, 랑체인4j, 클로저
 주소: https://www.infoq.com/news/2024/09/java-news-roundup-sep02-2024/
-설명: AI : 9월 2일, 2024년 이번 주의 Java 뉴스 요약에는 다음 내용이 포함되어 있습니다: JEP 485, Stream Gatherers가 Candidate로 승진; Project Loom Build 24-loom+7-60; Hibernate Validator 9.0.0.Beta3; LangChain4j 0.34.0; 그리고 Clojure 1.12.0입니다.
+설명: AI : 9월 2일, 2024년 이번 주의 Java 뉴스 요약에는 다음 내용이 포함되어 있습니다: JEP 485, Stream Gatherers가 Candidate로 승진되었으며, Project Loom Build 24-loom+7-60; Hibernate Validator 9.0.0.Beta3; LangChain4j 0.34.0; 그리고 Clojure 1.12.0입니다.
 #Java #프로그래밍 #기술뉴스 #개발자
 
-#인공지능 #데이터분석 #머신러닝 #AI
-#프로젝트루믹 #실시간처리 #코틀린 #멀티코어
-#HibernateValidator #유효성검사 #웹개발 #데이터베이스
-#LangChain4j #NLP #자연어처리 #AI 라이브러리
-#Clojure #함수형프로그래밍 #LISP #클로저
+Translate my sentence into Korean :
+                         This week's Java roundup for September 2nd, 2024, features news highlighting: JEP 485, Stream Gatherers, promoted to Candidate; Project Loom Build 24-loom+7-60; Hibernate Validator 9.0.0.Beta3; LangChain4j 0.34.0; and Clojure 1.12.0.
+                     and Provide - #hashtags. Add 3 hashtags related to the translated content.
 
 11 번째 검색 내용
 제목: AWS CodeBuild에서는 이제 Mac 빌드를 지원합니다.
@@ -111,21 +104,19 @@ Translate my sentence into Korean :
                      and Provide - #hashtags. Add 3 hashtags related to the translated content. [/INST]
 
 12 번째 검색 내용
-제목: 최적화된 연속 배포를 위한 Uber: 대규모 모노레포지토리에서 마이크로 서비스 자동화
+제목: 최적화된 지속적 배포를 위한 Uber: 대규모 모노레포에서 마이크로 서비스 자동화
 
-(Note: The translation may not be perfect as it involves technical terms and specific context. Please review the translation for accuracy.)
+(Note: The translation may not be perfect as it is a technical term. Please confirm the accuracy with a professional translator if necessary.)
 주소: https://www.infoq.com/news/2024/09/uber-continuous-feployment/
-설명: Uber의 마이크로서비스 아키텍처, 수천 개의 서비스로 구성되어 있으며, 업데이트, 보안 패치 및 새로운 기능을 배포하는 신뢰성 있고 효율적인 시스템이 필요합니다. 이 프로세스가 안전하고 시간 내에 진행되도록 하려면, Uber는 연속 배포(CD)를 사용하여 생산으로의 자동 배포를 자동화했습니다. 이것은 코드 품질을 유지하고 변경 사항을 전달하는 지연 시간을 최소화하는 데 매우 중요합니다.
-#연속배포 #마이크로서비스 #Uber
-
-Hashtags: #연속배포, #마이크로서비스, #Uber
+설명: Uber의 마이크로서비스 아키텍처, 수천 개의 서비스로 구성되어 있으며, 업데이트, 보안 패치 및 새로운 기능을 배포하는 신뢰성 있고 효율적인 시스템이 필요합니다. 이 과정이 안전하고 시간 내에 진행되도록 하려면, Uber는 연속 배포(CD)를 사용하여 생산으로의 자동 배포를 자동화했습니다. 이것은 코드 품질을 유지하고 변경 사항을 전달하는 지연 시간을 최소화하는 데 매우 중요합니다.
+#연속배포 #Uber #마이크로서비스
 
 13 번째 검색 내용
 제목: 트랜스포머 아키텍처를 활용한 YouTube의 음악 추천 시스템 개발
 
 (Note: The translation may not be perfect as it is a technical term. However, the meaning should be clear.)
 주소: https://www.infoq.com/news/2024/09/transofrmer-based-recommender/
-설명: Google은 변형기반 모델을 사용하는 접근 방식을 설명했습니다, 이것이 현재의 생성형 AI 폭발을 인도한 것입니다. 이 접근법은 현재 YouTube에서 실험적으로 적용되고 있으며, 음악을 듣는 사용자의 행동 시퀀스를 이해하여 사용자 선호도를 더 잘 예측하기 위해 사용자 컨텍스트에 따라 사용자 선호도를 더 잘 예측하는 추천 시스템을 구축하려고 합니다.
+설명: Google은 변형기반 모델을 사용하는 접근 방식을 설명했습니다, 이것이 현재의 생성형 AI 폭발을 인도한 것입니다. 이 접근 방식은 현재 YouTube에서 실험적으로 적용되고 있으며, 음악을 듣는 사용자의 행동 시퀘언스를 이해하여 사용자 선호도를 더 잘 예측하기 위해 사용자 컨텍스트에 따라 사용자 선호도를 더 잘 예측하는 추천자를 구축하려고 합니다.
 #인공지능 #음악추천 #변형기반모델
 
 Translated sentence: Google has described an approach to use transformer models, which ignited the current generative AI boom, for music recommendation. This approach, which is currently being applied experimentally on YouTube, aims to build a recommender that can understand sequences of user actions when listening to music to better predict user preferences based on their context.
@@ -133,20 +124,20 @@ Translated sentence: Google has described an approach to use transformer models,
 #hashtags: #인공지능 #음악추천 #변형기반모델
 
 14 번째 검색 내용
-제목: AWS 웰 아키텍처드 프레임워크가 경제적인 아키텍처를 지원하는 방식
+제목: AWS 웰 아키텍처드 프레임워크가 부자산 아키텍처를 지원하는 방식
 
-(Note: The translation may not be perfect, as some phrases might need to be adjusted for natural Korean sentence structure.)
+(Note: The translation may not be perfect as it is a technical term. Please double-check the translation for accuracy.)
 주소: https://www.infoq.com/news/2024/09/aws-well-architected-frugal/
-설명: AWS는 Well-Architected Framework 지침을 사용하여 부자산화 아키텍처를 전달했습니다. 저자들은 WAF와 부자산화 아키텍처 법칙 Dr. Werner Vogels이 2023 re:Invent 키노트에서 소개한 것의 일치 영역을 설명합니다. 부자산화 접근 방식을 구현하면, 기업들은 클라우드 아키텍처의 지속성과 비용 최적화 목표를 달성할 수 있습니다.
-#부자산화 #Well-ArchitectedFramework #지속성 #비용최적화
+설명: AWS는 Well-Architected Framework 지침을 사용하여 부자산화 아키텍처를 제공했습니다. 저자들은 WAF와 부자산화 아키텍처 법칙 Dr. Werner Vogels이 2023 re:Invent 키노트에서 소개한 것의 일치 영역을 나열했습니다. 부자산화 접근 방식을 구현하면, 기업들은 클라우드 아키텍처의 지속성과 비용 최적화 목표를 달성할 수 있습니다.
+#AWS #부자산화_아키텍처 #지속성 #비용_최적화
 
-Translated content hashtags: #AWS, #Well-ArchitectedFramework, #FrugalArchitecture, #Sustainability, #CostOptimization, #CloudArchitecture, #DrWernerVogels, #reInvent2023.
+Translated content hashtags: #AWS, #부자산화_아키텍처, #지속성, #비용_최적화
 
 15 번째 검색 내용
 제목: 시간이 지남에도 불구하고 사용되는 테스팅 도구의 가치
-(Sigeon iljineun bulgeunghan soryeong doogui ui gawi)
+(Sigeon iljineun bulgeun gwaenghwal e taebeorhaesseo deulguneun tesuteuigo uideung)
 주소: https://www.infoq.com/news/2024/09/value-timeless-testing-tools/
-설명: 인공지능 전문가 벤쩨솔프(Benjamin Bischoff)는 개발자들이 새로운 도구를 훨씬 더 관심 있게 여기며, 새로운 기술과 접근 방식을 배우고 도구 벨트를 확장할 수 있는 기회를 제공하므로 그들은 이전의 도구보다 훨씬 더 관심 있습니다. 그러나 오래된 도구를 사용하면 시간과 예산을 절약할 수 있습니다. 도구를 평가할 때는 해결해야 할 문제를 이해하는 것이 더 중요합니다 than jumping straight into the tools.
+설명: 인공지능 전문가 벤쩨철프(Benjamin Bischoff)는 개발자들이 새로운 도구를 훨씬 더 관심 있게 여기며, 새로운 기술과 접근 방식을 배우고 도구 벨트를 확장할 수 있는 기회를 제공하므로 그들은 이전의 도구보다 훨씬 더 관심 있습니다. 그러나 오래된 도구를 사용하면 시간과 예산을 절약할 수 있습니다. 도구를 평가할 때는 해결해야 할 문제를 이해하는 것이 더 중요합니다.
 #인공지능 #개발자 #도구선택 #문제해결
 
 Hashtags: #인공지능, #개발자, #도구선택, #문제해결
