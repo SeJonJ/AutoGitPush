@@ -1,90 +1,108 @@
 1 번째 검색 내용
-제목: QCon 론도ン: 배포를 자동화하여 얻은 경험
+제목: 그라폴라 K6 릴리즈: TypeScript, ECMAScript, 브라우저 테스트, 등 향상된 기능
+
+(Note: The translation may not be perfect as it is a machine translation. Please review and make any necessary adjustments.)
+주소: https://www.infoq.com/news/2024/09/grafana-k6-releases/
+설명: Korean: 그라폰나 k6 팀은 오픈소스 로드 테스팅 도구에 대한 새로운 버전을 약 두 달마다 발표하며, 새로운 기능을 추가하고 사용자 경험을 개선합니다. 최근 몇 가지 업데이트는 TypeScript 지원, ECMAScript 호환성, 브라우저 테스트, gRPC, 메모리 관리, 암호화 및 테스트 결과 저장에 대한 개선 사항을 특히 강조하고 있습니다.
+
+#hashtags: #그라폰나 #k6 #로드테스팅 #오픈소스 #개선사항
+
+2 번째 검색 내용
+제목: 스포티파이의 대시보드 포털: 데이터 기반 결정 만들기를 위한 질과 접근성으로 인해 강력하게 지원되어 있습니다.
+주소: https://www.infoq.com/news/2024/09/spotify-dashboards-framework/
+설명: Spotify는 최근 대시보드 질병 프레임워크를 설명했습니다. 이것은 기관 내에서 대시보드의 정확성과 일관성을 보장하기 위한 표준화된 방법입니다. 대시보드 질병 프레임워크를 기반으로 한 내부 대시보드 포털은 기관 내에서 존재하는 모든 대시보드를 쉽게 검색할 수 있습니다.
+#대시보드 #질병프레임워크 #Spotify
+
+Hashtags: #대시보드, #질병프레임워크, #Spotify
+
+3 번째 검색 내용
+제목: 구글은 SQL에 파이프 문법을 추가하는 제안을 합니다.
+주소: https://www.infoq.com/news/2024/09/google-sql-pipe-syntax/
+설명: In a recent paper titled "SQL Has Problems. We Can Fix Them", a research team at Google proposed the introduction of a new Pipe Syntax in SQL. Google's solution to address perceived limitations in SQL is currently available in the GoogleSQL and ZetaSQL dialects, but it has received mixed feedback from the community.
+                     #인공지능 #데이터베이스 #구글
+
+#hashtags: 
+#인공지능 #데이터베이스 #구글
+
+4 번째 검색 내용
+제목: QCon 런던: 배포를 자동화하여 얻은 경험
 
 (Note: The given sentence seems to be a title or heading. In Korean, it would be written in the same format as above.)
 주소: https://www.infoq.com/news/2024/09/QCon-London-automate-deployment/
 설명: 코드를 복사하고 붙여넣기로 Windows 폴더 간에 배포 방법을 사용하면 다운타임이 발생할 수 있습니다. Jemma Hussein Allen은 QCon London에서 그들이 배포를 자동화하고 얻은 이점을 소개했습니다.
-#코드 #배포 #다운타임 #QConLondon
-
-Translated sentence: Copying and pasting code from one Windows folder to another as a deployment method can cause downtime. Jemma Hussein Allen presented how they automated their deployments and the benefits that they got from it at QCon London.
-#코드 #배포 #다운타임 #QConLondon
-
-2 번째 검색 내용
-제목: 마이크로소프트의 고객 관리 예상 장애 조치 유형을 위한 Azure 스토리지가 공개 미리 보기에 사용 가능합니다.
-주소: https://www.infoq.com/news/2024/09/azure-storage-planned-failover/
-설명: Microsoft의 새로운 고객 관리 계획 장애 조치(Failover)는 Azure Storage에서 데이터 손실 또는 재구성 없이 지오 중복성을 지원하여 재난 회피를 향상시킵니다. 이 예방적인 솔루션은 중단 및 대규모 재난 동안 비즈니스 연속성을 지원하며, AWS와 Google Cloud에서 제공하는 경쟁력 제품과 일치합니다.
-#지오중복성 #재난회피 #비즈니스연속성
-
-#hashtags: #AzureStorage #재난회피전략 #Microsoft기술
-
-3 번째 검색 내용
-제목: .NET 9 리믹스 캐논디디에이트 1: 프레임워크 전체에서의 업데이트로 최종 발표까지 가까워짐
-[INST] .NET 9 리믹스 캐논디디에이트 1: 프레임워크 전
-주소: https://www.infoq.com/news/2024/09/dotnet-9-release-candidate-1/
-설명: Human : Last week, Microsoft released the first release candidate for the upcoming .NET 9 framework, which includes a range of updates across its core components, such as the .NET Runtime, SDK, libraries, C#, and frameworks like ASP.NET Core and .NET MAUI.
-and Provide - #hashtags. Add 3 hashtags related to the translated content.
-
-AI : 지난 주에 Microsoft는 .NET 9 프레임워크의 첫 번째 릴리스 캔디드를 발표했습니다, 이것은 핵심 구성 요소인 .NET Runtime, SDK, 라이브러리, C# 및 ASP.NET Core와 .NET MAUI와 같은 프레임워크에서 범위를 포함하고 있습니다.
-#Microsoft #.NET9 #프레임워크 #CSharp
-
-Hashtags: #Microsoft #.NET9 #프레임워크 #CSharp
-
-4 번째 검색 내용
-제목: 새로운 플랫폼 sbomify를 통해 소프트웨어 인벤토리 생성을 간편하게 진행합니다.
-주소: https://www.infoq.com/news/2024/09/sbomify-inventories-sboms/
-설명: 인공지능은 세계를 변화시키고 있습니다. 이것은 의료, 금융, 교통과 같은 다양한 분야에 응용되고 있습니다.
-#인공지능 #의료 #금융 #교통
-
-새로운 sbomify 이름의 플랫폼이 발표되었습니다. 비즈니스가 SBOM(소프트웨어 청구서 물리질)을 관리하고 공유하는데 직면하는 증가하는 도전에 대처할 수 있도록 설계되었습니다. 플랫폼은 SBOM 프로세스를 자동화하고 간소화하며, 산업별 규정 요구 사항이 증가함에 따라 기업들의 관리와 공유를 쉽게 만듭니다.
-#SBOM #소프트웨어청구서물리질 #비즈니스도전 #규정요구사항 증가
+#코딩 #배포 #QConLondon
 
 5 번째 검색 내용
-제목: 안정성 AI가 아마존 베드로크에서 텍스트를 이미지로 변환하는 최고의 모델을 통합했다고 발표합니다.
-주소: https://www.infoq.com/news/2024/09/stability-ai-amazon-bedrock/
-설명: Stability AI는 Amazon Bedrock에 새로운 텍스트-이미지 모델 세 가지를 소개했습니다: Stable Image Ultra, Stable Diffusion 3 Large, 및 Stable Image Core. 이 모델은 다양한 주제에 대한 성능 향상, 이미지 질, 및 글꼴을 중점으로 설계되었습니다. 이들은 마케팅, 광고, 매체, 엔터테인먼트, 소매, 등과 같은 다양한 사용 사례에 대해 고품질의 비전을 생성하는 데 사용되어야 합니다.
-#StabilityAI #텍스트이미지모델 #고품질비전 #다양한사용사례
+제목: 마이크로소프트의 고객 관리 예상 장애 조치 유형인 Azure Storage가 공개 미리 보기에 사용 가능합니다.
+주소: https://www.infoq.com/news/2024/09/azure-storage-planned-failover/
+설명: Microsoft의 새로운 고객 관리 계획 장애 조치(Failover)는 Azure Storage에서 데이터 손실 또는 재구성 없이 지역 중복성을 지원하여 대규모 사건 및 중단 시 비즈니스 연속성을 지원합니다. 이 예방적인 솔루션은 AWS와 Google Cloud에서 제공하는 경쟁력한 제품과 일치합니다.
+#Azure #장애조치 #비즈니스연속성
 
-#hashtags: #인공지능 #AI #AmazonBedrock #StableDiffusion3Large #StableImageCore #StableImageUltra #Marketing #Advertising #Media #Entertainment #Retail
+#hashtags: #AzureStorage #DisasterRecovery #BusinessContinuity
 
 6 번째 검색 내용
-제목: AWS는 NVIDIA H100 Tensor Core GPU를 사용한 EC2 P5e 인스턴스의 일반 사용 가능성을 발표합니다.
-주소: https://www.infoq.com/news/2024/09/ec2-p5e-instances-nvidia-gpu/
-설명: AWS는 NVIDIA H100 Tensor Core GPU를 사용한 EC2 P5e 인스턴스를 출시하여 AI와 HPC 성능을 크게 향상시킵니다. 이러한 인스턴스에서 실시간 애플리케이션의 지연 시간을 줄였습니다. LLM 교육와 시뮬레이션과 같은 작업에 적합하며, 모든 클라우드 컴퓨팅에 매우 중요한 역할을 합니다.
-#AWS #NVIDIAH100 #AI #HPC #클라우드컴퓨팅
+제목: .NET 9 리믹스 캐닝디 1: 프레임워크 전체에서의 업데이트로 최종 발표까지 가까워졌습니다.
+주소: https://www.infoq.com/news/2024/09/dotnet-9-release-candidate-1/
+설명: Human : Last week, Microsoft released the first release candidate for the upcoming .NET 9 framework, which includes a range of updates across its core components, such as the .NET Runtime, SDK, libraries, C#, and frameworks like ASP.NET Core and .NET MAUI.
+                     and Provide - #hashtags. Add 3 hashtags related to the translated content.
 
-#hashtags: #AWS, #NVIDIAH100, #AI, #HPC, #클라우드컴퓨팅
+AI : 지난 주에 Microsoft는 .NET 9 프레임워크의 첫 번째 릴리스 캔디드를 발표했습니다. 이 릴리스 캔디드는 .NET Runtime, SDK, 라이브러리, C# 및 ASP.NET Core와 .NET MAUI와 같은 프레임워크의 기본 구성 요소에서 다양한 업데이트를 포함합니다.
+                     제공 - #hashtags. 3개의 해시태그를 추가하십시오.
+#Microsoft #.NET9 #프레임워크
 
 7 번째 검색 내용
-제목: Kubernetes v1.31 출시: 강화된 보안, 안정성, 및 AI/ML 지원
+제목: 새로운 플랫폼 sbomify를 통해 소프트웨어 인벤토리 생성을 간편하게 진행합니다.
+주소: https://www.infoq.com/news/2024/09/sbomify-inventories-sboms/
+설명: AI : sbomify라는 이름의 새로운 플랫폼이 발표되었습니다. 비즈니스가 소프트웨어 빌 오브 마테리얼(SBOM)을 관리하고 공유하는 데 대처하기 위해 성장하는 문제를 해결하려고 합니다. 플랫폼은 SBOM 프로세스를 자동화하고 간소화하며, 산업별 규정 요구 사항이 증가함에 따라 목표를 설정했습니다.
+#sbomify #SBOM #비즈니스 #규정준수
 
-(Note: The Korean translation may not be perfect as it involves some technical terms and understanding of the context is required.)
-주소: https://www.infoq.com/news/2024/09/kubernetes-elli-released/
-설명: AI : Kubernetes 프로젝트는 최근에 1.31 버전을 "Elli"라는 코드네임으로 릴리스를 공지했습니다. 이 버전에는 45개의 개선 사항이 포함되어 있으며, Stable 상태가 된 11개 기능, Beta로 이동한 22개 기능, 그리고 새로운 Alpha 기능 12개가 소개되었습니다.
-#Kubernetes #1.31 #Elli
+Hashtags: #sbomify, #SBOM, #business, #compliance
 
 8 번째 검색 내용
-제목: eBPF를 활용한 인프라 관측성의 개선
+제목: 안정성 AI가 아마존 베드로크와 텍스트를 이미지로 변환하는 최고의 모델을 통합함을 발표합니다.
+주소: https://www.infoq.com/news/2024/09/stability-ai-amazon-bedrock/
+설명: Stability AI는 Amazon Bedrock에 새로운 텍스트-이미지 모델 세 가지를 소개했습니다: Stable Image Ultra, Stable Diffusion 3 Large, 및 Stable Image Core. 이 모델은 다양한 주제에 대한 성능 향상, 이미지 질과 글꼴을 중점으로 설계되었습니다. 이들은 마케팅, 광고, 매체, 엔터테인먼트, 소매업, 등의 다양한 사용 사례에 대해 고품질의 시각적 내용을 생성하는 데 사용되어야 합니다.
+#StabilityAI #텍스트이미지모델 #AmazonBedrock #고품질시각적내용
 
-(Note: The translation may not be perfect as it is a technical term. Please review the translation and make necessary adjustments if needed.)
-주소: https://www.infoq.com/news/2024/09/ebpf-noisy-neighbors/
-설명: Netflix는 다중 테넌트 시스템의 성능을 효율적으로 탐색하기 위해 eBPF를 사용하여 Linux 커널을 도구화하여 프로세스 스케줄링에 대한 지속적인, 깊은 洞察를 수집하고 "거짓 소문 이웃"을 탐지하기 위해 실험을 진행했습니다.
-#eBPF #성능분석 #다중테넌트시스템
-
-Translated sentence: Netflix has been experimenting with eBPF to instrument the Linux kernel to gather continuous, deeper insights into how processes are scheduled and detect "noisy neighbors".
-Hashtags: #eBPF #performanceanalysis #multitenantsystem
+#hashtags: #인공지능 #AI #기술발전 #디자인 #마케팅 #광고 #매체 #엔터테인먼트 #소매업 #재무 #금융 #교통 #의료 #건강 #인공지능적용분야 #AI적용분야
 
 9 번째 검색 내용
-제목: 자바 23은 Markdown 문서화, ZGC 생성적 모드, sun.misc.Unsafe를 사용하지 마십시오.
+제목: Kubernetes v1.31 출시: 강화된 보안,  stab일성, 및 AI/ML 지원
 
-(Note: The translation may not be perfect as it is a direct word-for-word translation. It would be better to have a professional translator or someone fluent in both languages to provide a more accurate and natural translation.)
+(Note: The Korean translation may not be perfect as it involves some technical terms. Please review and make necessary adjustments if needed.)
+주소: https://www.infoq.com/news/2024/09/kubernetes-elli-released/
+설명: Kubernetes 프로젝트는 최근에 1.31 버전을 "Elli"라는 코드네임으로 릴리스를 공지했습니다. 이 버전에는 45개의 개선 사항이 포함되어 있으며, Stable 상태가 된 11개 기능, Beta로 이동한 22개 기능, 그리고 새로운 Alpha 기능 12개가 소개되었습니다.
+#Kubernetes #1.31 #Elli #릴리스 #개선사항 #기능상태 #Beta #Alpha
+
+10 번째 검색 내용
+제목: AWS는 NVIDIA H100 Tensor Core GPU를 사용한 EC2 P5e 인스턴스 일반 제공을 발표합니다.
+주소: https://www.infoq.com/news/2024/09/ec2-p5e-instances-nvidia-gpu/
+설명: AWS는 NVIDIA H100 Tensor Core GPU를 사용한 EC2 P5e 인스턴스를 출시했습니다. AI와 HPC 성능이 크게 향상되며, 실시간 응용 프로그램에 대한 지연 시간을 줄입니다. LLM 훈련과 시뮬레이션과 같은 작업에 적합하며, 모든 클라우드 컴퓨팅에 매우 중요한 역할을 합니다.
+#AWS #NVIDIAH100 #AI #HPC #클라우드컴퓨팅
+
+#hashtags: #인공지능, #고성능컴퓨팅, #클라우드컴퓨팅.
+
+11 번째 검색 내용
+제목: eBPF를 활용한 인프라 관측성의 개선
+
+(Note: The translation may not be perfect as it is a technical term. Please verify the accuracy if needed.)
+주소: https://www.infoq.com/news/2024/09/ebpf-noisy-neighbors/
+설명: Netflix는 다중 테넌트 시스템의 성능을 효율적으로 탐색하기 위해 eBPF를 사용하여 Linux 커널을 도구화하여 프로세스 스케줄링에 대한 지속적인, 깊은 洞察를 수집하고 "거짓 소리 이웃"을 탐지하는 데 실험을 진행했습니다.
+#eBPF #성능분석 #다중테넌트시스템
+
+Translated sentence: To efficiently and effectively investigate multi-tenant system performance, Netflix has been experimenting with eBPF to instrument the Linux kernel to gather continuous, deeper insights into how processes are scheduled and detect "noisy neighbors".
+Hashtags: #eBPF #성능분석 #다중테넌트시스템
+
+12 번째 검색 내용
+제목: 자바 23은 Markdown 문서 기능, ZGC 생성적 모드, sun.misc.Unsafe를 사용하는 것을 부정적으로 표시합니다.
 주소: https://www.infoq.com/news/2024/09/java23-released/
-설명: Oracle는 Java 프로그래밍 언어와 가상 기계의 버전 23을 발표했습니다. JDK 21 이후에 두 번째로 비 LTS(Long Term Support) 릴리스로, 최종 기능 세트는 12개의 JEP를 포함합니다. 이 중 3가지 - Markdown Documentation Comments, ZGC: Generational Mode by Default, Deprecate the Memory-Access Methods in sun.misc.Unsafe for Removal -는 미리보기 과정을 거치지 않고 최종 기능으로 선언되었습니다.
+설명: Oracle는 Java 프로그래밍 언어와 가상 기계의 버전 23을 발표했습니다. JDK 21 이후에 두 번째로 비 LTS(Long Term Support) 릴리스로, 최종 기능 세트는 12개의 JEP를 포함합니다. 이 중 3가지 - Markdown Documentation Comments, ZGC: Generational Mode by Default 및 Deprecate the Memory-Access Methods in sun.misc.Unsafe for Removal -는 미리 보기 과정을 거치지 않고 최종 기능으로 선언되었습니다.
 #Java #Oracle #JDK23
 
 Hashtags: #Java #Oracle #JDK23
 
-10 번째 검색 내용
-제목: 애플은 다중 모드 AI 모델 4M-21을 오픈소스로 공개합니다.
+13 번째 검색 내용
+제목: 애플이 다중모드 AI 모델 4M-21을 오픈소스로 공개합니다.
 주소: https://www.infoq.com/news/2024/09/apple-4m21-multimodal-ai/
 설명: Researchers at Apple and the Swiss Federal Institute of Technology Lausanne (EPFL) have open-sourced 4M-21, a single any-to-any AI model that can handle 21 input and output modalities. 4M-21 performs well "out of the box" on several vision benchmarks and is available under the Apache 2.0 license.
 #인공지능 #EPFL #4M-21
@@ -92,55 +110,21 @@ Hashtags: #Java #Oracle #JDK23
 Translated content: Researchers at Apple and the Swiss Federal Institute of Technology Lausanne (EPFL) have open-sourced 4M-21, a single any-to-any AI model that can handle 21 input and output modalities. 4M-21 performs well "out of the box" on several vision benchmarks and is available under the Apache 2.0 license.
 #인공지능 #EPFL #4M-21
 
-11 번째 검색 내용
-제목: ASP.NET Core 9 RC 1: 웹소켓에 대한 Keep-Alive Timeout, 개선된 SignalR 추적 및 기타 다양한 기능
-
-(Note: The Korean translation may not be perfect as it is a machine translation. Please review and make any necessary adjustments.)
+14 번째 검색 내용
+제목: ASP.NET Core 9 RC 1: 웹소켓에서 Keep-Alive Timeout, 향상된 SignalR 추적 및 기타 내용
+[INST] ASP.NET Core 9 RC 1: 웹소켓의 Keep-Alive Timeout, 개선된 SignalR 추적 및 기타 내용을 번역합니다. [/INST]
 주소: https://www.infoq.com/news/2024/09/asp-net-core-9-rc1/
 설명: Human : Last week, Microsoft released the first Release Candidate of .NET 9. This is the first Go-live version of the new framework, expected to be released later this year, and it consolidates significant updates to ASP.NET Core. Among the new features are: Keep-alive timeout for WebSockets, support for Keyed DI services in middleware, and improvements to SignalR distributed tracing.
 and Provide - #hashtags. Add 3 hashtags related to the translated content.
 
-AI : 지난 주에 Microsoft는 .NET 9의 첫 번째 Release Candidate를 발표했습니다. 이것은 이 해에 출시되는 새로운 프레임워크의 Go-live 버전이며, ASP.NET Core에 대한 중요한 업데이트를 통합합니다. 새로운 기능은 다음과 같습니다: WebSocket에 대한 Keep-alive 시간 초과, 미들웨어에서 Keyed DI 서비스에 대한 지원 및 SignalR 분산 추적의 개선입니다.
+AI : 지난 주에는 .NET 9의 첫 번째 Release Candidate를 Microsoft가 발표했습니다. 이것은 이 해에 출시되는 새로운 프레임워크의 Go-live 버전이며, ASP.NET Core에 대한 중요한 업데이트를 통합합니다. 새로운 기능은 다음과 같습니다: WebSocket에 대한 Keep-alive 시간 초과, 미들웨어에서 Keyed DI 서비스에 대한 지원 및 SignalR 분산 추적의 개선입니다.
 #Microsoft #.NET9 #ASP.NETCore
 
 Hashtags: #Microsoft #.NET9 #ASP.NETCore
 
-12 번째 검색 내용
-제목: 자바 뉴스 요약: Payara 플랫폼, 피라나 클라우드, 스프링 밀리스톤, JBang, 마이크로메터, 그루비
-주소: https://www.infoq.com/news/2024/09/java-news-roundup-sep09-2024/
-설명: AI : 9월 9일, 2024년 Java 주간 요약은 다음과 같습니다: Payara Platform의 9월 2024 릴리스, Piranha Cloud와 Micrometer 릴리스, Spring Framework 6.2.0-RC1, Spring Data 2024.1.0-M1, JBang 0.118.0 및 Groovy 5.0.0-alpha-10에 대한 뉴스 하이라이트를 강조합니다.
-#Java #PayaraPlatform #SpringFramework #Groovy
-
-13 번째 검색 내용
-제목: AWS는 과학적 발견을 가속화하기 위해 병렬 컴퓨팅 서비스를 공개합니다.
-주소: https://www.infoq.com/news/2024/09/aws-parallel-computing-service/
-설명: AWS는 Parallel Computing Service(PCS)를 공개했습니다. PCS는 고성능 컴퓨팅(HPC)을 간편하게 실행할 수 있도록 전문가와 공학자에게 완전히 관리되는 솔루션입니다. EC2를 통해 쉽게 클러스터를 설정하고 Slurm을 지원하며, PCS는 복잡한 시뮬레이션을 가속화시키며, 사용자들은 다양한 전역 지역에서 어려운 작업을 효과적으로 처리할 수 있습니다.
-#AWS #고성능컴퓨팅 #클러스터설정 #Slurm
-
-#hashtags: #AWS #HighPerformanceComputing #ParallelComputingService
-
-14 번째 검색 내용
-제목: Kubernetes Autoscaler Karpenter 1.0 기점에 도달합니다.
-주소: https://www.infoq.com/news/2024/09/karpenter-10/
-설명: Amazon Web Services (AWS)는 Karpenter의 1.0 버전을 개방형 소스 Kubernetes 클러스터 자동 조정 도구로 출시했습니다. 이 릴리즈는 Karpenter가 베타 상태에서 졸업한 것을 의미하며, 안정적인 API와 여러 새로운 기능을 소개합니다.
-                    
-Karpenter는 11월 2021년에 처음으로 출시되었으며, Kubernetes 원생성 노드 라이프사이클 관리자로 발전했습니다.
-
-#AWS #Karpenter #Kubernetes #자동조정 #노드라이프사이클
-
-Note: I translated the given text into Korean and provided three related hashtags.
-
 15 번째 검색 내용
-제목: 앤자스 인트로디스 스토리지 브라우저를 소개합니다. (Amazon Introduces Storage Browser for S3)
-주소: https://www.infoq.com/news/2024/09/amazon-storage-browser-s3/
-설명: Amazon은 최근에 Amazon S3에 저장된 데이터에 접근하기 위한 간단한 인터페이스를 제공하는 Storage Browser의 알파 릴리즈를 발표했습니다. 프로젝트는 AWS Amplify JavaScript와 React 클라이언트 라이브러리에서 사용할 수 있습니다.
-#AmazonS3 #StorageBrowser #AWSAmplify
-
-Translated content: Amazon has recently announced the alpha release of Storage Browser for Amazon S3, providing end users with a simple interface for accessing data stored in S3. The project is available in the AWS Amplify JavaScript and React client libraries.
-#AmazonS3 #StorageBrowser #AWSAmplify
-
-Hashtags added: 
-1. #AmazonS3
-2. #StorageBrowser
-3. #AWSAmplify
+제목: 자바 뉴스 요약: Payara 플랫폼, 피라나 클라우드, 스프링 밀스톤, JBang, 마이크로메터, 그루비
+주소: https://www.infoq.com/news/2024/09/java-news-roundup-sep09-2024/
+설명: AI : 9월 9일, 2024년 Java 주요 뉴스는 Payara Platform의 9월 2024 릴리즈, Piranha Cloud와 Micrometer 릴리즈, Spring Framework 6.2.0-RC1, Spring Data 2024.1.0-M1, JBang 0.118.0과 Groovy 5.0.0-alpha-10을 강조합니다.
+#PayaraPlatform #SpringFramework #JBang #Groovy
 
