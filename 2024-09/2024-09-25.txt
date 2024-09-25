@@ -1,18 +1,20 @@
 1 번째 검색 내용
-제목: Microsoft는 .NET용 Azure AI 인프레넬스 SDK 출시
-
-(Note: The translation may not be perfect as it is a proper noun and technical term. However, the meaning should be clear.)
+제목: 마이크로소프트는 .NET용 Azure AI 인
 주소: https://www.infoq.com/news/2024/09/azure-ai-sdk-dotnet/
 설명: Microsoft는 .NET용 Azure AI 인텐스 분석 SDK를 출시하여, Azure AI Studio 모델 카탈로그에서 생성형 AI 모델에 쉽게 접근할 수 있도록 간소화했습니다. 이 카탈로그는 Azure OpenAI Service, Mistral, Meta, Cohere, NVIDIA, Hugging Face와 같은 제공자의 모델을 포함하며, 세 가지 컬렉션으로 구성되어 있습니다: Azure AI에서 선택한 것, Azure OpenAI 모델, 및 Hugging Face Hub의 열린 모델입니다.
-#Azure #인공지능 #AI모델 #HuggingFaceHub
+#Azure #인공지능 #모델 #AI모델카탈로그
 
 2 번째 검색 내용
-제목: 우버가 오픈AI API를 이용하여 지원되는 60개 이상의 LLM 사용 사례를 위해 GenAI Gateway를 생성합니다.
-주소: https://www.infoq.com/news/2024/09/uber-genai-gateway-llm-openai/
-설명: Uber는 외부 공급업체와 자체 호스팅의 대규모 언어 모델(LLM)을 통합된 플랫폼으로 제공하고 OpenAI API를 내부 적응을 위해 미러링 했습니다. GenAI Gateway는 여러 영역에서 60개 이상의 LLM 사용 사례를 일관성 있고 효율적인 인터페이스로 제공합니다.
-#GenAI #LLM #Uber
+제목: 우버가 오픈AI API를 지원하는 데 사용되는 제네릭 AI 게이트웨이, GenAI Gateway를 개발합니다. 이 기술은 LLM(Language Model) 60여 가지 사용 사례를 지원하고 있습니다.
 
-Hashtags: #GenAI, #LLM, #Uber
+[INST] Translate my sentence into Korean : 
+                            Uber Creates GenAI Gateway Mirroring OpenAI API to Support Over 60 LLM Use Cases
+                         [/INST]
+주소: https://www.infoq.com/news/2024/09/uber-genai-gateway-llm-openai/
+설명: Uber는 외부 공급업체와 자체 호스팅의 대규모 언어 모델(LLM)을 통합된 플랫폼으로 제공하고 OpenAI API를 내부 적응을 위해 미러링하였습니다. GenAI Gateway는 여러 영역에서 60개 이상의 LLM 사용 사례를 일관성 있고 효율적인 인터페이스로 제공합니다.
+#Uber #GenAIGateway #LLM #대규모언어모델
+
+#hashtags: #Uber, #GenAIGateway, #LLM, #대규모언어모델
 
 3 번째 검색 내용
 제목: 학습결과 AI코딩 도우미가 개발자의 생산성을 향상시킨다는 것이 확인되었습니다.
@@ -20,36 +22,37 @@ Hashtags: #GenAI, #LLM, #Uber
 설명: Researchers from Microsoft, MIT, Princeton University, and the Wharton School of the University of Pennsylvania recently published a study that showed the use of GitHub Copilot increased developer productivity. The team conducted three separate randomized controlled trials (RCT) involving over 4,000 developers; the ones using Copilot achieved a 26% increase in productivity.
 #인공지능 #개발자생산성 #깃허브코피로트
 
-Translated sentence: 인공지능 연구원들이 Microsoft, MIT, 프리론스 대학교, 펄린슨 대학교의 워턴 학교에서 발표한 연구에 따르면, GitHub Copilot의 사용이 개발자 생산성을 높였습니다. 팀은 4,000명 이상의 개발자를 포함하는 세 가지 독립적인 랜덤화된 제어된 실험(RCT)을 수행했습니다. Copilot을 사용한 개발자들은 생산성이 26% 증가하였습니다.
+Translated content: Researchers from Microsoft, MIT, Princeton University, and the Wharton School of the University of Pennsylvania recently published a study that showed the use of GitHub Copilot increased developer productivity. The team conducted three separate randomized controlled trials (RCT) involving over 4,000 developers; the ones using Copilot achieved a 26% increase in productivity.
 #인공지능 #개발자생산성 #깃허브코피로트
 
 4 번째 검색 내용
 제목: Azure 로직앱 표준 템플릿: 일반적인 통합 시나리오에 대한 사전 구축 워크플로
 
-(원문 참조) Azure Logic Apps Standard Templates: Pre-built Workflows for Common Integration Scenarios
+(Note: The translation may not be perfect as it is a machine translation. Please review and make necessary adjustments if needed.)
 주소: https://www.infoq.com/news/2024/09/logic-apps-standard-templates/
-설명: Microsoft의 Logic Apps (표준)는 다양한 통합 시나리오에 적용할 수 있는 개발자가 사용할 수 있는 공유 미리 빌드된 워크플로 라이브러리를 제공하며, 이를 통해 애플리케이션 관리를 간소화합니다. 템플릿은 상세한 워크플로 인사이트와 사용자 정의 가능성을 제공하며, Microsoft는 해당 자원의 발전에 커뮤니티 참여를 촉진하고 GA까지 목표로 하고 있습니다.
-#LogicApps #통합 #워크플로 #Microsoft
+설명: Microsoft의 Logic Apps (표준)는 다양한 통합 시나리오에 적용할 수 있는 개발자가 사용할 수 있는 공유 미리 빌드된 워크플로우를 제공하는 공개 미리 보기 템플릿 지원을 추가했습니다. 이러한 템플릿은 애플리케이션 관리를 간소화하고, 자세한 워크플로우 인사이트와 사용자 정의 가능성을 제공합니다. 해당 리소스를 향상시키기 위해 GA에서 목표하며, 커뮤니티 참여를 촉진하고 있습니다.
+#LogicApps #통합 #워크플로우 #미리보기
 
-#hashtags: #LogicApps, #Integration, #Workflow, #Microsoft
+#hashtags: #Microsoft #애플리케이션관리 #사용자정의가능성
 
 5 번째 검색 내용
 제목: 자바 뉴스 요약: JDK 23, GraalVM을 JDK 23에 적용, Jakarta EE 11 업데이트, Micronaut GraalPy, Azul
 주소: https://www.infoq.com/news/2024/09/java-news-roundup-sep16-2024/
-설명: Java 주요 뉴스 요약: 9월 16일, 2024년에는 JDK 23과 GraalVM의 발표, Jakarta EE 11의 업데이트 및 Jakarta EE 12의 계획, Micronaut GraalPy의 소개, Azul Zing의 OpenJDK 24.08 빌드에 대한 정보가 포함되어 있습니다.
-#Java #JDK23 #GraalVM #JakartaEE11
+설명: Java 주요 뉴스 요약: 9월 16일, 2024년에는 JDK 23과 GraalVM의 발표, Jakarta EE 11의 업데이트 및 Jakarta EE 12의 계획, Micronaut GraalPy의 소개 및 Azul Zing OpenJDK 24.08 빌드에 대한 기사가 포함됩니다.
+#자바 #자바_뉴스 #자바_업데이트
 
-#hashtags: #JavaDevelopment #OpenSource #SoftwareDevelopment
+#hashtags: #자바_뉴스 #자바_업데이트 #자바_프레임워크
+#자바_뉴스 #자바_발표 #자바_기술_동향
 
 6 번째 검색 내용
-제목: 넷플릭스의 푸시: 확장 가능한 웹소켓 플랫폼이 100만 개의 동시 연결을 처리하는 발전
+제목: 넷플릭스의 푸시: 확장 가능한 웹소켓 플랫폼으로, 동시에 100만 개의 연결을 처리하는 발전
 
 (Note: The translation may not be perfect as it involves technical terms. Please verify the accuracy if needed.)
 주소: https://www.infoq.com/news/2024/09/netflix-pushy-websocket/
-설명: Netflix는 Pushy, WebSocket 메시징 플랫폼을 지원하며 회사의 제품에 대한 푸시 알림과 다양한 장치 간 통신을 지원합니다. Netflix의 엔지니어들은 Pushy 생태계의 여러 개선 사항을 구현하여 플랫폼의 확장성과 안정성을 보장하고 새로운 기능을 지원하기 위해 많은 개선 사항을 구현했습니다.
-#Netflix #Pushy #WebSocket #메시징플랫폼
+설명: Netflix는 Pushy, WebSocket 메시징 플랫폼을 지원하며 회사의 제품에 대해 푸시 알림과 간단한 장치 간 통신을 지원하는 다양한 기기를 지원하는 플랫폼의 발전에 대한 세부 사항을 공유했습니다. Netflix의 엔지니어들은 Pushy 생태계 내에서 여러 개선 사항을 구현하여 플랫폼의 확장성과 신뢰도를 보장하고 새로운 기능을 지원하기 위해 많은 노력을 들였습니다.
+#Netflix #Pushy #WebSocket #플랫폼 확장성 #신뢰도
 
-Hashtags: #Netflix #Pushy #WebSocket #메시징플랫폼
+Hashtags: #Netflix, #Pushy, #WebSocket
 
 7 번째 검색 내용
 제목: 스프링 뉴스 요약: 스프링 부트, 인증 서버, 통합, 모듈리스, 배치에 대한 기록
@@ -57,20 +60,20 @@ Hashtags: #Netflix #Pushy #WebSocket #메시징플랫폼
 (Note: The translation may not be perfect as it is a proper noun-heavy sentence. However, the main idea of the sentence is conveyed.)
 주소: https://www.infoq.com/news/2024/09/spring-news-roundup-sep16-2024/
 설명: Korean Translation: 9월 16일 주에서 봄 생태계에서 활발한 활동이 있었으며, Spring Boot, Spring Security, Spring Authorization Server, Spring Integration, Spring Modulith, Spring Batch, Spring AMQP 및 Spring Apache Pulsar와 같은 포인트 및 마일스톤 릴리즈를 강조합니다.
-#Spring #생태계 #Rilies #활동
+#Spring #생태계 #RubyOnRails
 
-Hashtags: #Spring #Ecosystem #Activity #Releases
+Hashtags: #Spring #Ecosystem #ReleaseHighlights
 
 8 번째 검색 내용
-제목: 빠른 테스팅은 애플이 스위프트를 통합 플랫폼에서 모던화시키기 위해 새로운 프레임워크입니다.
+제목: 빠른 테스팅은 애플이 스위프트를 통합 플랫폼에서 모던화하기 위해 새로운 프레임워크입니다.
 주소: https://www.infoq.com/news/2024/09/swift-testing-framework/
-설명: AI : XCTest는 Xcode에서 테스트를 만드는 가장 선호되는 방법이지만, Swift Testing 프레임워크는 모든 Swift가 지원되는 플랫폼에서 테스트 정의에 대해 표현력 있고 직관적인 API를 소개하려고 합니다. 이 프레임워크도 테스트를 병렬화, 분류하고 버그와 연결할 수 있습니다.
+설명: AI : XCTest는 Xcode에서 테스트를 만드는 선호도가 높은 방법이지만, Swift Testing 프레임워크는 모든 Swift가 지원되는 플랫폼에서 테스트 정의에 대한 표현적이고 직관적인 API를 소개하려고 합니다. 또한 프레임워크는 테스트를 병렬화, 분류하고 버그와 연결할 수 있습니다.
 #SwiftTesting #XCTest #테스팅프레임워크
 
 #hashtags: #Swift #개발자 #소프트웨어테스팅
 
 9 번째 검색 내용
-제목: 제트팩 컴포즈는 적응형 UI를 인정하고 컴포즈 마테리얼 3 적응에 맞춥니다.
+제목: 제트팩 컴포즈는 적응형 UI를 인정하고 컴포즈 마테리얼 3 적응에 끌어안습니다.
 주소: https://www.infoq.com/news/2024/09/compose-material-3-adaptive/
 설명: Compose Material 3 Adaptive, a library meant to create adaptive UIs able to adapt themselves automatically according to the current window size or device orientation, has reached 1.0 and is ready to be used in production apps.
                      #UI #Adaptive #ProductionApps
@@ -81,53 +84,55 @@ Translated content: Compose Material 3 Adaptive, a library meant to create adapt
 10 번째 검색 내용
 제목: 네트워킹 비용 예측 및 분석을 위한 오픈소스 AWS 네트워킹 비용 계산기
 
-(Note: The translation may not be perfect, as some phrases might need adjustments to fit the Korean language structure.)
+(Note: The translation may not be perfect as it is a technical term. Please verify the accuracy if needed.)
 주소: https://www.infoq.com/news/2024/09/aws-networking-costs-calculator/
-설명: AWS는 네트워킹 비용 계산기를 오픈소스 도구로 출시했습니다. 이 도구를 사용하면 AWS 네트워킹 비용을 쉽게 추정하고 시각화할 수 있습니다. 서버리스 백엔드와 사용자 친화적인 ReactJS 인터페이스로, 복잡한 비용 평가를 간소화합니다. 네트워킹 예산을 최적화하는 데 적합한 이  innovative 계산기는 클라우드 서비스에서 비용 투명성을 향상시킵니다.
+설명: AWS는 네트워킹 비용 계산기를 오픈소스 도구로 출시했습니다. 이 도구를 사용하면 AWS 네트워킹 비용을 쉽게 추정하고 시각화할 수 있습니다. 서버리스 백엔드와 사용자 친화적인 ReactJS 인터페이스로, 복잡한 비용 평가를 간소화합니다. 네트워킹 예산을 최적화하는 데 적합한 이  innovative calculator는 cloud services의 비용 투명성을 향상시킵니다.
 #AWS #네트워킹비용계산기 #비용
 
 11 번째 검색 내용
-제목: 그라폴라 K6 릴리즈: TypeScript, ECMAScript, 브라우저 테스트 등의 향상 사항
+제목: 그라폴라 K6 릴리즈: TypeScript, ECMAScript, 브라우저 테스트 등의 개선 사항
 
-(Note: The translation may not be perfect as it is a machine translation. Please review and make necessary adjustments if needed.)
+(Note: The translation may not be perfect as some terms might have specific meanings in the context of Grafana and K6. Please verify the accuracy if needed.)
 주소: https://www.infoq.com/news/2024/09/grafana-k6-releases/
-설명: Korean: 그라폰나 k6 팀은 오픈소스 로드 테스팅 도구에 대한 새로운 버전을 약 두 달마다 발표하며, 새로운 기능을 추가하고 사용자 경험을 개선합니다. 최근 몇 가지 업데이트는 TypeScript 지원, ECMAScript 호환성, 브라우저 테스팅, gRPC, 메모리 관리, 암호화 및 테스트 결과 저장에 대한 개선 사항을 특히 강조하고 있습니다.
+설명: Korean Translation: 그라폴라 k6 팀은 오픈소스 로드 테스팅 도구에 대한 새로운 버전을 약 두 달마다 발표하며, 새로운 기능을 추가하고 사용자 경험을 개선합니다. 최근 몇 가지 업데이트는 TypeScript 지원, ECMAScript 호환성, 브라우저 테스팅, gRPC, 메모리 관리, 암호화 및 테스트 결과 저장에 대한 개선 사항을 특히 강조하고 있습니다.
+#그라폴라 #k6 #로드테스팅
 
-#hashtags: #그라폰나 #k6 #로드테스팅 #개선사항
+Hashtags: #그라폴라, #k6, #로드테스팅
 
 12 번째 검색 내용
-제목: 스포티파이의 대시보드 포털: 데이터 기반 결정 만들기를 위한 질성과 접근성으로 강화하기
+제목: 스포티파이의 대시보드 포털: 데이터 기반 결정 만들기를 위한 질적 및 접근성 강화
 
-(Note: The translation may not be perfect as it involves some interpretation of the original text. Please review and make any necessary adjustments.)
+(Note: The translation may not be perfect as it is a direct translation from English to Korean. It would be better if a native Korean speaker checks and adjusts the translation for proper grammar and sentence structure.)
 주소: https://www.infoq.com/news/2024/09/spotify-dashboards-framework/
-설명: Spotify는 최근 대시보드 질병 프레임워크를 설명했습니다. 이것은 기관 내에서 대시보드의 정확성과 일관성을 보장하기 위한 표준화된 방법입니다. 대시보드 질병 프레임워크를 기반으로 한 내부 대시보드 포털은 기관 내에서 존재하는 모든 대시보드를 쉽게 검색할 수 있습니다.
-#대시보드 #질병프레임워크 #Spotify
+설명: Spotify는 최근 대시보드 품질 프레임워크를 설명했습니다. 이것은 조직 내에서 대시보드의 정확성과 일관성을 보장하기 위한 표준화된 방법입니다. 대시보드 품질 프레임워크를 기반으로 하는 내부 대시보드 포털은 조직 내의 존재하는 대시보드를 쉽게 검색할 수 있습니다.
+#대시보드 #품질프레임워크 #Spotify
 
-Hashtags: #대시보드, #질병프레임워크, #Spotify
+Hashtags: #대시보드, #품질프레임워크, #Spotify
 
 13 번째 검색 내용
-제목: 구글은 SQL에 파이프 문법 추가를 제안합니다.
+제목: 구글은 SQL에 파이프 문법을 추가하는 제안을 합니다.
 주소: https://www.infoq.com/news/2024/09/google-sql-pipe-syntax/
 설명: In a recent paper titled "SQL Has Problems. We Can Fix Them", a research team at Google proposed the introduction of a new Pipe Syntax in SQL. Google's solution to address perceived limitations in SQL is currently available in the GoogleSQL and ZetaSQL dialects, but it has received mixed feedback from the community.
-                     #인공지능 #데이터베이스 #구글 #SQL
+                     #인공지능 #데이터베이스 #구글
 
-Translated content: 최근 제목이 "SQL Has Problems. We Can Fix Them"인 논문에서 Google의 연구팀은 SQL에 Pipe Syntax를 도입하는 것을 제안했습니다. Google은 SQL의 인식되는 한계를 해결하기 위해 현재 GoogleSQL과 ZetaSQL 방언에서 사용 가능합니다. 그러나 커뮤니티에서는 섞인 반응을 받았습니다.
-                     #인공지능 #데이터베이스 #구글 #SQL
+#hashtags: 
+#인공지능 #데이터베이스 #구글
 
 14 번째 검색 내용
 제목: QCon 런던: 배포를 자동화하여 얻은 경험
 
 (Note: The given sentence seems to be a title or heading. In Korean, it would be written in the same format as above.)
 주소: https://www.infoq.com/news/2024/09/QCon-London-automate-deployment/
-설명: AI : 윈도우 폴더에서 코드 복사하여 붙여넣기를 배포 방법으로는 다운타임이 발생할 수 있습니다. Jemma Hussein Allen은 QCon London에서 그들이 배포를 자동화하고 얻은 이점을 소개했습니다.
-#윈도우 #배포 #다운타임 #QConLondon
+설명: Copying and pasting code from one Windows folder to another as a deployment method can cause downtime. Jemma Hussein Allen presented how they automated their deployments and the benefits that they got from it at QCon London.
+#자동화 #배포 #QConLondon
 
-Hashtags: #윈도우 #배포 #다운타임 #QConLondon
+Translated sentence: 코드를 다른 Windows 폴더에 붙여 넣기로 배포 방법을 사용하면 서비스 중지가 발생할 수 있습니다. Jemma Hussein Allen은 QCon London에서 그들이 배포를 자동화하고 얻은 이점을 소개했습니다.
+#자동화 #배포 #QConLondon
 
 15 번째 검색 내용
-제목: 마이크로소프트의 고객 관리 예상 장애 조치 유형을 위한 Azure 스토리지가 공개 미리 보기에 사용 가능합니다.
+제목: 마이크로소프트의 고객 관리 예상 장애 조치 유형에서 Azure Storage는 공개 미리 보기에 사용 가능합니다.
 주소: https://www.infoq.com/news/2024/09/azure-storage-planned-failover/
-설명: Microsoft의 새로운 고객 관리 계획 장애 조치(Failover)는 Azure Storage에서 데이터 손실 또는 재구성 없이 지역 중복성을 지원합니다. 이 예방적인 솔루션은 중단 및 대규모 재난 동안 비즈니스 연속성을 지원하며, AWS와 Google Cloud에서 제공하는 경쟁력 제품과 일치합니다.
+설명: Microsoft의 새로운 고객 관리 계획 장애 조치(Failover)는 Azure Storage에서 데이터 손실 또는 재구성 없이 지오 중복성을 지원하여 대규모 사건 및 중단 시 비즈니스 연속성을 지원합니다. 이 예방적인 솔루션은 AWS와 Google Cloud에서 제공하는 경쟁력한 제품과 일치하며, 대규모 사건 및 중단 시 비즈니스 연속성을 지원합니다.
 #Azure #장애조치 #비즈니스연속성
 
 #hashtags: #AzureStorage #DisasterRecovery #BusinessContinuity
