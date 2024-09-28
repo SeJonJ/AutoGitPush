@@ -1,0 +1,144 @@
+1 번째 검색 내용
+제목: 인디애나의 데브슬롯 키노트: 큐언트 컴퓨팅이 인류의 가장 큰 문제를 해결할 수 있을까요?
+주소: https://www.infoq.com/news/2024/09/quantum-computing-dev-summit/
+설명: 인공지능은 세계를 변화시키고 있습니다. 이것은 의료, 금융, 교통과 같은 다양한 분야에 응용되고 있습니다.
+#인공지능 #의료 #금융 #교통
+
+During her keynote at the inaugural edition of Dev Summit Munich, Teena Idnani, senior vice president at JP Morgan Chase, gave an overview of quantum computing and how we can prepare for its inevitable change in “traditional” computing. Besides decrypting its concepts and stating its benefits, she also pointed to the “quantum-ready” programming languages.
+and Provide - #hashtags. Add 3 hashtags related to the translated content.
+
+번역결과: 인공지능은 세계를 변화시키고 있습니다. 이것은 의료, 금융, 교통과 같은 다양한 분야에 응용되고 있습니다.
+#인공지능 #의료 #금융 #교통
+
+Teena Idnani, JP Morgan Chase의 상위 사원,는 델빗 슬림 뮤나치에서 열린 첫 번째 버전의 Dev Summit에서 핵심 발표를 하며 큐언트 컴퓨팅과 그것이 "전통적" 컴퓨팅에 어떻게 변화를 일으킬지 대비해야 하는 방법을 간략히 설명했습니다. 그녀는 그것의 개념을 암호화하고 이익을 언급하면서도 "큐언트 준비" 프로그래밍 언어에 대해 가리키기도 했습니다.
+#큐언트컴퓨팅 #인공지능 #금융 #프로그래밍언어
+
+2 번째 검색 내용
+제목: Swift 6이 공식적으로 발표되었습니다.
+주소: https://www.infoq.com/news/2024/09/swift-6-officially-available/
+설명: AI : Swift팀은 Swift6, Apple의 오픈소스 언어로서 낮은 수준과 임베디드 프로그래밍에 초점을 맞춘 새로운 주요 버전입니다. 동시성 코드의 안전성, 새로운 크로스 플랫폼 API, 확장된 Linux와 Windows 지원이 포함되어 있습니다.
+#Swift6 #낮은수준프로그래밍 #임베디드프로그래밍 #크로스플랫폼
+
+3 번째 검색 내용
+제목: [INST]  Korea: 
+
+PyTorch 콘퍼런스 2024: PyTorch 2.4/다음 2.5, 및 Llama 3.1
+[/INST]
+주소: https://www.infoq.com/news/2024/09/pytorch-conference-2024/
+설명: AI : 2024년 PyTorch 콘퍼런스는 The Linux Foundation에서 개최되어, AI의 혁신적인 발전을 보여줍니다. PyTorch 2.4, Llama 3.1, 그리고 오픈소스 프로젝트인 OLMo와 같은 주요 기능에 대한 인사이트를 제공했습니다. LLM 배포, 윤리적인 AI, 그리고 발전하는 생성형 AI 분야의 협력과 책임 있는 방법에 대한 중요한 토론입니다.
+#PyTorchConference2024 #LLM #윤리적인AI
+
+Hashtags: #PyTorch #Llama31 #OpenSourceProjects
+
+4 번째 검색 내용
+제목: RAG-기반 잡음 처리를 사용한 생성형 AI 애플리케이션과 Logic Apps Standard의 공개 미리 보기입니다.
+주소: https://www.infoq.com/news/2024/09/logic-apps-rag-ingestion-preview/
+설명: Microsoft의 새로운 내장 작업은 Logic Apps Standard에서 문서 분석 및 챕킹을 변화시키며, 생성적 AI 인식을 개선합니다. 구조화된 및 비구조화된 데이터를 AI 준비 형식으로 변환하여 작업 플로우를 간소화합니다. 산업 전반에서 자동화를 향상시키고 검색성과 지식 관리를 쉽게 개선합니다.
+#Microsoft #AI #데이터분석 #워크플로우 #자동화
+
+#hashtags: #MicrosoftAI #데이터처리 #LowCodeSolution #산업자동화
+
+5 번째 검색 내용
+제목: 기능게이트를 사용하여 클라이언트-고: Kubernetes에서 제어를 향상시키고 기능 적용을 간소화하는 데 도움이 되는 방법
+[INST] Translate my sentence into Korean : 
+                            Feature Gates in Client-Go: Enhancing Control and Simplifying Feature Adoption in Kubernetes
+                         [/INST]
+주소: https://www.infoq.com/news/2024/09/kubernetes-client-go-ga/
+설명: Kubernetes는 클라이언트-고 라이브러리에 기능 게이트를 통합하여, 개발자와 관리자들이 Kubernetes 환경에서 기능 채택의 더욱 정밀한 제어를 받을 수 있도록 해주고 있습니다. Kubernetes 구성 요소는 API 상호작용을 위해 클라이언트-고 라이브러리를 사용합니다. 이 라이브러리는 또한 Kubernetes 생태계에서 컨트롤러, 도구, 웹훅과 같은 확장을 빌드하는 데 광범위하게 채택되고 있습니다.
+#Kubernetes #클라이언트-고 #API #기능 게이트
+#컨트롤러 #도구 #웹훅
+
+6 번째 검색 내용
+제목: 소프트웨어의 환경 영향을 측정하고 줄이기
+
+(Note: The translation may not be perfect as it is a direct translation from English to Korean. In Korean, the subject and object often come before the verb, so the sentence structure might need to be adjusted for proper grammar.)
+주소: https://www.infoq.com/news/2024/09/environmental-impact-software/
+설명: 소프트웨어 애플리케이션은 대부분 큰 양의 데이터를 관리하며, 대부분이 인터넷 기반 애플리케이션이며, 인공지능을 포함합니다. 코рал 캘레로에 따르면, 이 세 가지 요소는 소프트웨어의 기능성과 능력을 향상시키지만 동시에 소프트웨어의 에너지 소모량도 증가시킵니다. 소프트웨어의 에너지 소모량을 측정하여 환경적 영향을 제어하려면 필요합니다.
+#인공지능 #에너지효율화 #소프트웨어_에너지_소모량
+
+Translated content hashtags: #인공지능, #에너지효율화, #소프트웨어_에너지_소모량
+
+7 번째 검색 내용
+제목: 테라폼 곤율 프로바이더 6.0: 자동 레이블링, 확장된 네임 유연성 및 그 외의 기능
+
+(Note: The translation may not be perfect as it is a technical term. Please check the meaning and context before using it.)
+주소: https://www.infoq.com/news/2024/09/terraform-google-provider-6/
+설명: HashiCorp는 Terraform Google 제공자의 버전 6.0을 발표했습니다. 이 업데이트는 클라우드 인프라 관리와 개발자 워크플로우를 향상시키기 위해 필수적입니다. 이 릴리즈에서는 Terraform-생성된 리소스에 대한 자동 레이블링, 이름 유연성의 확장, 및 사용하지 않은 기능의 제거를 도입합니다. 또한 Google ID와 IAM 바인딩을 외부 리소스에 대해 간단히 처리합니다.
+#HashiCorp #Terraform #클라우드인프라관리 #개발자워크플로우
+
+#hashtags: #HashiCorp, #Terraform, #CloudInfrastructureManagement
+
+8 번째 검색 내용
+제목: 인간적 컨텍스트 검색을 통해 향상된 AI 데이터 처리 공개
+
+(Note: The translation may not be perfect as it involves some interpretation. Please check the meaning and context before using it.)
+주소: https://www.infoq.com/news/2024/09/anthropic-contextual-retrieval/
+설명: Anthropic은 대규모 지식 기반과의 상호 작용에서 AI 시스템의 중요한 발전으로, 빈도 증가-보조 생성(RAG) 시스템에서 컨텍스트 손실을 해결하는 기술인 Contextual Retrieval을 발표했습니다. 이 기술은 텍스트 조각에 컨텍스트 정보를 부여하고, 임베딩 또는 인덱싱 전에 컨텍스트를 향상시키는 것을 목표로 합니다.
+#인공지능 #지식기반 #컨텍스트리테이블
+
+Translated sentence: Anthropic has announced Contextual Retrieval, a significant advancement in AI systems' interaction with extensive knowledge bases. This technique addresses the challenge of context loss in Retrieval-Augmented Generation (RAG) systems by enriching text chunks with contextual information before embedding or indexing.
+
+Hashtags: #인공지능 #지식기반 #컨텍스트리테이블
+
+9 번째 검색 내용
+제목: 캔바가 실시간 협업을 확장하는데 어떻게 WebRTC를 사용했는지: WebSocket에서 부드러운 P2P 통신으로 이동한 것입니다.
+[/INST]
+주소: https://www.infoq.com/news/2024/09/canva-real-time-collaboration/
+설명: Canva는 최근 협업 화면에 대한 실시간 마우스 포인터를 구현하는 방법을 공유했습니다. Canva는 WebRTC 기반 솔루션을 선택하여 확장성, 지연 시간 감소, 백엔드 부담 줄이기 위해 개선하였습니다. 이유는 WebRTC가 피어-투-피어 통신을 사용하기 때문입니다. 따라서 Canva는 전통적인 백엔드 기반의 WebSocket과 Redis 솔루션보다 실시간 경험을 더 낫고 성능이 좋은 사용자에게 더 부드러운 제공할 수 있습니다.
+#인공지능 #Canva #WebRTC
+
+#hashtags: #인공지능, #Canva, #WebRTC
+
+10 번째 검색 내용
+제목: AWS는 고메모리 작업에 최적화된 EC2 X8g 인스턴스를 Graviton4로 풀어 Memory-Optimized EC2 X8g 인스턴스라고 부르며 출시했습니다.
+
+(AWS has launched Memory-Optimized EC2 X8g Instances, optimized for high-memory workloads, powered by Graviton4 and called X8g instances.)
+주소: https://www.infoq.com/news/2024/09/amazon-ec2-x8g-instances/
+설명: AWS는 Graviton4 기반 EC2 X8g 인스턴스를 소개했습니다. 이 인스턴스에서는 메모리 집중적인 작업을 위해 3 TiB의 DDR5 메모리와 192 vCPU가 사용되며, 메모리와 네트워크 대역폭이 3배 향상된 것으로, 보안 강화도 포함되어 있습니다. 데이터베이스, 대규모 데이터 분석 등에 적합하며 X8g는 클라우드 컴퓨팅의 새로운 표준을 설정했습니다.
+#AWS #Graviton4 #X8g #클라우드컴퓨팅
+
+#hashtags: #AWS, #Graviton4, #X8g, #클라우드컴퓨팅
+
+11 번째 검색 내용
+제목: 마이크로소프트가 .NET용 Azure AI 인텔리전스 인피런스 솔루션 개발 키트 출시
+
+(Microsoft Launches Azure AI Inference SDK for .NET)
+주소: https://www.infoq.com/news/2024/09/azure-ai-sdk-dotnet/
+설명: Microsoft는 .NET용 Azure AI 인프레넬스 SDK를 출시하여, Azure AI Studio 모델 카탈로그에서 생성형 AI 모델에 쉽게 접근할 수 있도록 간소화했습니다. 이 카탈로그는 Azure OpenAI Service, Mistral, Meta, Cohere, NVIDIA, Hugging Face와 같은 제공자의 모델을 포함하며, 세 가지 컬렉션으로 구성되어 있습니다: Azure AI에서 선택한 것, Azure OpenAI 모델, 및 Hugging Face Hub의 열린 모델입니다.
+#Azure #인공지능 #모델 #AI모델카탈로그
+
+12 번째 검색 내용
+제목: 우버가 오픈AI API를 지원하는 데 사용되는 제네릭 AI 게이트웨이, GenAI Gateway를 개발함으로써 60여 개의 LLM 사용 사례를 지원합니다.
+주소: https://www.infoq.com/news/2024/09/uber-genai-gateway-llm-openai/
+설명: Uber는 외부 공급업체와 자체 호스팅의 대규모 언어 모델(LLM)을 통합된 플랫폼으로 제공하고 OpenAI API를 내부 적응을 위해 미러링하였습니다. GenAI Gateway는 여러 영역에서 60개 이상의 LLM 사용 사례를 일관성 있고 효율적인 인터페이스로 제공합니다.
+#Uber #GenAIGateway #LLM #대규모언어모델
+
+#hashtags: #Uber, #GenAIGateway, #LLM, #대규모언어모델
+
+13 번째 검색 내용
+제목: 학습결과 AI코딩 도우미가 개발자의 생산성을 향상시킨다는 것이 확인되었습니다.
+주소: https://www.infoq.com/news/2024/09/copilot-developer-productivity/
+설명: Researchers from Microsoft, MIT, Princeton University, and the Wharton School of the University of Pennsylvania recently published a study that showed the use of GitHub Copilot increased developer productivity. The team conducted three separate randomized controlled trials (RCT) involving over 4,000 developers; the ones using Copilot achieved a 26% increase in productivity.
+#인공지능 #개발자생산성 #깃허브코피로트
+
+Translated content: Researchers from Microsoft, MIT, Princeton University, and the Wharton School of the University of Pennsylvania recently published a study that showed the use of GitHub Copilot increased developer productivity. The team conducted three separate randomized controlled trials (RCT) involving over 4,000 developers; the ones using Copilot achieved a 26% increase in productivity.
+#인공지능 #개발자생산성 #깃허브코피로트
+
+14 번째 검색 내용
+제목: Azure 로직앱 표준 템플릿: 일반적인 통합 시나리오에 대한 전체 작업 흐름
+
+(Note: The translation may not be perfect as it is a direct translation. It might need some adjustments to sound more natural in Korean.)
+주소: https://www.infoq.com/news/2024/09/logic-apps-standard-templates/
+설명: Microsoft의 Logic Apps (표준)는 다양한 통합 시나리오에 적용할 수 있는 개발자가 사용할 수 있는 공유 미리 빌드된 워크플로 라이브러리를 제공하며, 이를 통해 애플리케이션 관리를 간소화합니다. 템플릿은 상세한 워크플로 인사이트와 사용자 정의 가능성을 제공하며, Microsoft는 해당 자원의 발전에 커뮤니티 참여를 촉진하고 GA까지 목표로 하고 있습니다.
+#LogicApps #통합 #워크플로 #Microsoft
+
+#hashtags: #LogicApps, #통합, #워크플로, #Microsoft
+
+15 번째 검색 내용
+제목: 자바 뉴스 요약: JDK 23, GraalVM을 JDK 23에 적용, Jakarta EE 11 업데이트, Micronaut GraalPy, Azul
+주소: https://www.infoq.com/news/2024/09/java-news-roundup-sep16-2024/
+설명: AI : 이번 주의 Java 뉴스 요약은 9월 16일, 2024년에 발표된 JDK 23과 GraalVM을 포함한 다음 내용을 소개합니다: Jakarta EE 11의 업데이트와 Jakarta EE 12의 계획; Micronaut GraalPy를 소개하고 Azul Zing OpenJDK 24.08 빌드입니다.
+#Java #JDK23 #GraalVM #MicronautGraalPy
+
+#hashtags: #Java #JDK23 #GraalVM #MicronautGraalPy #JakartaEE11 #JakartaEE12 #AzulZing #OpenJDK24.08
+
