@@ -1,32 +1,43 @@
 1 번째 검색 내용
+제목: 안드로이드 15는 태블릿에서 데스크탑과 같은 창 기반 UX를 제공합니다.
+주소: https://www.infoq.com/news/2024/09/desktop-windowing-android-15/
+설명: AI : 최근 Android 15 릴리스의 Beta 2에서는 태블릿용 데스크톱 창 기능이 개발자 미리보기로 도입되었습니다. 새로운 기능으로 "자유형 윈도우"를 생성하여 사용자가 데스크탑 컴퓨터와 비슷한 방식으로 크기를 조정하거나 이동할 수 있는 다양한 앱을 표시할 수 있게 됩니다.
+#Android15 #데스크톱창 #자유형윈도우
+
+Hashtags: #Android15, #데스크톱창, #자유형윈도우
+
+2 번째 검색 내용
 제목: 딜리루 보안 리드에서 개발자 센티미 망투르에서: 클라우드 오류가 대규모 데이터 해킹을 일으킬 수 있습니다.
 주소: https://www.infoq.com/news/2024/09/visibility-cspm/
 설명: During her presentation at the inaugural edition of Dev Summit Munich, Danielle Sudai, security operations lead at Deliveroo, explored the fundamentals of cloud security posture management, stressing how a single misconfiguration can damage your company's security. She emphasised the importance of bridging the gap between the different layers of the organisation, from governance to technology.
-#DevSummitMunich #CloudSecurity #OrganizationalGapBridging
+#인공지능 #데이터보안 #클라우드보안
 
 Translated content: 
-                         during her presentation at the inaugural edition of Dev Summit Munich, Danielle Sudai, security operations lead at Deliveroo, explored the fundamentals of cloud security posture management, emphasizing how a single misconfiguration can damage your company's security. She stressed the importance of bridging the gap between different layers of the organization, from governance to technology.
-                     and Provide - #hashtags. Add 3 hashtags related to the translated content.
-#DevSummitMunichKR #CloudSecurityKR #OrganizationalGapBridgingKR
+During her presentation at the inaugural edition of Dev Summit Munich, Danielle Sudai, security operations lead at Deliveroo, explored the fundamentals of cloud security posture management, stressing how a single misconfiguration can damage your company's security. She emphasised the importance of bridging the gap between the different layers of the organisation, from governance to technology.
+#인공지능 #데이터보안 #클라우드보안
 
-2 번째 검색 내용
-제목: 계획, 자동화 및 모노레포: 몽조의 코드 마이그레이션을 통해 2800개의 마이크로서비스 간 코드 마이그레이션
-[/INST]
+Hashtags: 
+#인공지능 #데이터보안 #클라우드보안
+
+3 번째 검색 내용
+제목: 계획, 자동화 및 모노레포: 몽조의 코드 마이그레이션을 통해 2800개의 마이크로 서비스 간 어떻게 이루었는지
+
+(Note: The translation may not be perfect as it is a complex sentence. However, the main idea of the sentence is conveyed.)
 주소: https://www.infoq.com/news/2024/09/monzo-microservices-migrations/
-설명: Monzo 제품은 2800개 이상의 확장성 있는 마이크로서비스 기반 플랫폼에 의해 지원됩니다. 회사는 규범 및 무거운 자동화를 통해 규모에 따른 코드 마이그레이션을 주도하고 문제가 발생한 경우 조건부 서비스를 지원하여 조금씩 전진하고 빠르게 롤백할 수 있는 긴급 사태에 대처할 수 있습니다. 마이그레이션은 서비스 소유자 팀보다는 중앙 팀에 의해 지연과 일관성을 피하기 위해 관리됩니다.
+설명: Monzo 제품은 2800개의 서비스를 기반으로 하는 광범위한 마이크로 서비스 기반 플랫폼에 지원됩니다. 회사는 규범 및 무거운 자동화를 통해 규모에 따른 코드 마이그레이션을 주도하고 문제가 발생한 경우 조금씩 전진하고 빠르게 롤백할 수 있는 구성 서비스를 지원합니다. 마이그레이션은 서비스 소유자 팀보다는 중앙 팀에 의해 지연과 일관성을 피하기 위해 관리됩니다.
 #Monzo #마이크로서비스 #코드마이그레이션 #자동화
 #인공지능 #의료 #금융 #교통
 
-3 번째 검색 내용
+4 번째 검색 내용
 제목: AWS 키 관리 서비스가 안전한 통신을 위해 ECDH를 지원합니다.
 주소: https://www.infoq.com/news/2024/09/aws-kms-ecdh-key-agreement/
-설명: 이 여름, AWS는 KMS(키 관리 서비스)가 Elliptic Curve Diffie-Hellman(ECDH) 키 동의 지원을 추가했다고 발표했습니다. AWS 보안팀은 최근에 DeriveSharedSecret API를 사용하여 유효한 공유 비밀번호를 도출하여 안전한 통신 채널을 설정할 수 있는 방법을 보였습니다.
+설명: 이 여름, AWS는 KMS(키 관리 서비스)가 Elliptic Curve Diffie-Hellman(ECDH) 키 동의 지원을 추가했다고 발표했습니다. AWS 보안팀은 최근에 새로운 DeriveSharedSecret API를 사용하여 공유된 비밀 키를 도출하여 안전한 통신 채널을 설정할 수 있는 방법을 보여줍니다.
 #AWS #키관리서비스 #보안 #안전통신
 
 Hashtags: #AWS, #키관리서비스, #보안, #안전통신
 
-4 번째 검색 내용
-제목: 인든니의 키노트 디브슬렛 뮤나: 큐언트 컴퓨팅이 인류의 가장 큰 문제를 해결할지 여부입니까?
+5 번째 검색 내용
+제목: 인디애나의 데브슬롯 키노트: 큐언트 컴퓨팅이 인류의 가장 큰 문제를 해결할 수 있을까요?
 주소: https://www.infoq.com/news/2024/09/quantum-computing-dev-summit/
 설명: 인공지능은 세계를 변화시키고 있습니다. 이것은 의료, 금융, 교통과 같은 다양한 분야에 응용되고 있습니다.
 #인공지능 #의료 #금융 #교통
@@ -34,110 +45,101 @@ Hashtags: #AWS, #키관리서비스, #보안, #안전통신
 During her keynote at the inaugural edition of Dev Summit Munich, Teena Idnani, senior vice president at JP Morgan Chase, gave an overview of quantum computing and how we can prepare for its inevitable change in “traditional” computing. Besides decrypting its concepts and stating its benefits, she also pointed to the “quantum-ready” programming languages.
 and Provide - #hashtags. Add 3 hashtags related to the translated content.
 
-번역결과: 인공지능은 세계를 변화시키고 있습니다. 이것은 의료, 금융, 교통과 같은 다양한 분야에 응용되고 있습니다.
-#인공지능 #의료 #금융 #교통
+번역결과:
+Teena Idnani, JP Morgan Chase의 상위 사장은 뮤니크에서 개최된 데브슬림 1회 시리즈의 주요 발표자로 출연하여 큐언트 컴퓨팅과 전통적인 컴퓨팅에 대한 변화를 예측할 수 있는 방법을 설명했습니다. 그녀는 큐언트 컴퓨팅의 개념을 해독하고, 그것의 이점을 강조하면서도 "큐언트 준비" 프로그래밍 언어에 대한 가리키기도 했습니다.
+#큐언트컴퓨팅 #데브슬림 #JP Morgan Chase #Teena Idnani
 
-Teena Idnani, JP Morgan Chase의 상위 사장, 델프 슬롯먼에서 개최된 초대형 개발 슬롯먼에서 주요 발표자로 출연하며, 큐언트 컴퓨팅과 전통적인 컴퓨팅에서의 불가피한 변화를 준비하는 방법을 간략히 설명했습니다. 그녀는 큐언트 컴퓨팅의 개념을 해독하고, 그것의 이점을 언급하며, 또한 "큐언트 준비" 프로그래밍 언어에 대해 언급했습니다.
-#큐언트컴퓨팅 #인공지능 #JP Morgan Chase
-
-번역결과: Teena Idnani, JP Morgan Chase의 상위 사장, 델프 슬롯먼에서 개최된 초대형 개발 슬롯먼에서 주요 발표자로 출연하며, 큐언트 컴퓨팅과 전통적인 컴퓨팅에서의 불가피한 변화를 준비하는 방법을 간략히 설명했습니다. 그녀는 큐언트 컴퓨팅의 개념을 해독하고, 그것의 이점을 언급하며, 또한 "큐언트 준비" 프로그래밍 언어에 대해 언급했습니다.
-#큐언트컴퓨팅 #인공지능 #JP Morgan Chase
-
-5 번째 검색 내용
-제목: Swift 6이 공식적으로 발표되었습니다.
-주소: https://www.infoq.com/news/2024/09/swift-6-officially-available/
-설명: AI : Swift팀은 Swift6, Apple의 오픈소스 언어로서 낮은 수준과 임베디드 프로그래밍에 초점을 맞춘 새로운 주요 버전입니다. 이것은 동시에 안전한 코드, 새로운 크로스 플랫폼 API, 확장된 Linux와 Windows 지원을 포함합니다.
-#Swift6 #낮은수준프로그래밍 #임베디드프로그래밍 #크로스플랫폼 #Linux #Windows
-
-Hashtags: #Swift6, #LowLevelProgramming, #EmbeddedProgramming, #CrossPlatform, #LinuxSupport, #WindowsSupport
+번역결과:
+Teena Idnani, JP Morgan Chase의 상위 사장은 뮤니크에서 개최된 데브슬림 1회 시리즈의 주요 발표자로 출연하여 큐언트 컴퓨팅과 전통적인 컴퓨팅에 대한 변화를 예측할 수 있는 방법을 설명했습니다. 그녀는 큐언트 컴퓨팅의 개념을 해독하고, 그것의 이점을 강조하면서도 "큐언트 준비" 프로그래밍 언어에 대한 가리키기도 했습니다.
+#큐언트컴퓨팅 #데브슬림 #JP Morgan Chase #Teena Idnani
 
 6 번째 검색 내용
-제목: [INST]  Korean translation of the given sentence:
-
-                            파이토치 콘퍼런스 2024: 파이토치 2.4/다음 2.5, 및 라마 3.1
-                        [/INST]
-주소: https://www.infoq.com/news/2024/09/pytorch-conference-2024/
-설명: AI : 2024년 PyTorch 콘퍼런스는 The Linux Foundation에서 개최되어, AI의 혁신적인 발전을 보여줍니다. PyTorch 2.4, Llama 3.1, 그리고 오픈소스 프로젝트인 OLMo와 같은 주요 주제에 대한 인사이트를 제공했습니다. LLM 배포, 윤리적인 AI, 그리고 발전하는 생성형 AI 분야의 협력과 책임 있는 실천을 강조한 Torchtune과 TorchChat와 같은 혁신적인 라이브러리에 대한 중요한 토론이 이루어졌습니다.
-#PyTorchConference2024 #AI발전 #오픈소스프로젝트 #윤리적인AI
-
-Hashtags: #PyTorchConference2024, #AIAdvancements, #OpenSourceProjects
+제목: Swift 6이 공식적으로 발표되었습니다.
+주소: https://www.infoq.com/news/2024/09/swift-6-officially-available/
+설명: AI : Swift팀은 Swift6, Apple의 오픈소스 언어로서 낮은 수준과 임베디드 프로그래밍에 초점을 맞춘 새로운 주요 버전입니다. 동시성 코드의 안전성, 새로운 크로스 플랫폼 API, 확장된 Linux와 Windows 지원이 포함되어 있습니다.
+#Swift6 #낮은수준프로그래밍 #임베디드프로그래밍 #크로스플랫폼
 
 7 번째 검색 내용
-제목: RAG-기반 잡음 처리를 사용한 생성형 AI 애플리케이션과 Logic Apps Standard의 공개 미리 보기입니다.
-주소: https://www.infoq.com/news/2024/09/logic-apps-rag-ingestion-preview/
-설명: Microsoft의 새로운 내장 작업은 Logic Apps Standard에서 문서 분석과 섬광 처리를 혁신시키며, 생성적 AI 입력을 변화시킵니다. 구조화된 및 비구조화된 데이터를 AI 준비 형식으로 변환하여 작업 플로우를 간소화합니다. 산업 전반에서 자동화를 확장하고, 검색성과 지식 관리를 쉽게 향상시킵니다.
-#Microsoft #AI #데이터처리 #워크플로우 #자동화
+제목: [INST]  Korean translation of the given sentence is:
 
-#hashtags: #MicrosoftAI #DataProcessing #WorkflowAutomation #KnowledgeManagement
+"PyTorch 콘퍼런스 2024: PyTorch 2.4/다음 2.5, 그리고 Llama 3.1"
+                         [/INST]
+주소: https://www.infoq.com/news/2024/09/pytorch-conference-2024/
+설명: AI : 2024년 PyTorch 콘퍼런스는 Linux 재단이 주최한 이벤트에서 AI의 혁신적인 발전을 보여줍니다. PyTorch 2.4, Llama 3.1, 그리고 오픈소스 프로젝트인 OLMo와 같은 주요 기능에 대한 인사이트를 제공했습니다. LLM 배포, 윤리적인 AI, 그리고 생성형 AI의 발전 속에서 협력과 책임 있는 방법을 강조한 키 토픽들이 논의되었습니다.
+#PyTorchConference2024 #AI발전 #윤리적인AI #생성형AI
+
+Hashtags: #PyTorchConference2024, #AIAdvancements, #ResponsibleAI
 
 8 번째 검색 내용
-제목: 기능 게이트를 사용하여 Kubernetes에서 클라이언트-고: 제어의 향상과 기능 적응을 간소화합니다.
-주소: https://www.infoq.com/news/2024/09/kubernetes-client-go-ga/
-설명: Kubernetes는 클라이언트-고 라이브러리에 기능 게이트를 통합하여, 개발자와 관리자가 Kubernetes 환경에서 기능 채택의 더욱 정밀한 제어를 제공합니다. Kubernetes 구성 요소는 API 상호 작용을 위해 클라이언트-고 라이브러리를 사용합니다. 이 라이브러리는 또한 Kubernetes 생태계에서 확장 빌드, 컨트롤러, 도구 및 웹훅과 같은 기능을 위해 광범위하게 채택되었습니다.
-#Kubernetes #클라이언트-고 #API #기능 게이트
+제목: RAG-기반 잡음 처리를 사용한 생성형 AI 애플리케이션에서 Logic Apps Standard의 공개 미리 보기입니다.
+주소: https://www.infoq.com/news/2024/09/logic-apps-rag-ingestion-preview/
+설명: Microsoft의 새로운 내장 작업은 Logic Apps Standard에서 문서 분석 및 챕킹을 변화시키며, 생성적 AI 인식을 개선합니다. 구조화된 및 비구조화된 데이터를 AI 준비 형식으로 변환하여 작업 플로우를 간소화합니다. 산업 전반에서 자동화를 향상시키고 검색성과 지식 관리를 쉽게 개선합니다.
+#Microsoft #AI #데이터분석 #워크플로우 #자동화
 
-#hashtags: #Kubernetes #클라이언트-고 #API #기능 게이트
+#hashtags: #MicrosoftAI #데이터처리 #LowCodeSolution #산업자동화
 
 9 번째 검색 내용
+제목: 기능게이트를 사용하여 클라이언트-고: Kubernetes에서 제어를 향상시키고 기능 적용을 간소화하는 데 도움이 되는 방법을 설명합니다.
+[/INST]
+주소: https://www.infoq.com/news/2024/09/kubernetes-client-go-ga/
+설명: Kubernetes는 클라이언트-고 라이브러리에 기능 게이트를 통합하여, 개발자와 관리자가 Kubernetes 환경에서 기능 채택의 더욱 정밀한 제어를 제공합니다. Kubernetes 구성 요소는 API 상호 작용을 위해 클라이언트-고 라이브러리를 사용합니다. 이 라이브러리는 또한 Kubernetes 생태계에서 확장 빌드, 컨트롤러, 도구 및 웹훅과 같은 기능을 위해 광범위하게 채택되었습니다.
+#Kubernetes #클라이언트-고 #기능 게이트 #API 상호작용
+
+#hashtags: #Kubernetes #클라이언트-고 #기능 게이트 #API 상호작용
+
+10 번째 검색 내용
 제목: 소프트웨어의 환경 영향을 측정하고 줄이기
 
-(Note: The translation may not be perfect as it is a direct translation from English to Korean. In Korean, the subject and object often come before the verb, so the sentence structure might need to be adjusted for proper grammar.)
+(Note: The translation may not be perfect as it is a direct translation. In Korean, the subject and object often come before the verb, so the sentence structure might need to be adjusted for natural-sounding Korean.)
 주소: https://www.infoq.com/news/2024/09/environmental-impact-software/
-설명: 소프트웨어 애플리케이션은 대부분 큰 양의 데이터를 관리하며, 대부분이 인터넷 기반 애플리케이션이며, 인공지능을 포함합니다. 코рал 카레로에 따르면, 이 세 가지 요소는 소프트웨어의 능력성과 기능성을 향상시키지만 동시에 소프트웨어의 에너지 소모량이 증가하였습니다. 소프트웨어의 에너지 소모량을 측정하여 환경적 영향을 제어하려면 필요합니다.
+설명: 소프트웨어 애플리케이션은 대부분 큰 양의 데이터를 관리하며, 대부분이 인터넷 기반 애플리케이션이며, 인공지능을 포함합니다. 코рал 카레로는 이러한 세 가지 요소가 소프트웨어의 기능성과 능력을 향상시키지만 동시에 소프트웨어의 에너지 소모량이 증가하였음을 언급합니다. 소프트웨어의 에너지 소모량을 측정하여 환경적 영향을 제어하려면 필요합니다.
 #인공지능 #소프트웨어 #에너지소모량 #환경영향
 
 #hashtags: #AI #softwareapplications #energyconsumption #environmentalimpact
 
-10 번째 검색 내용
-제목: 테라폼 곤율 프로바이더 6.0: 자동 레이블링, 확장된 네임 ﬂ렉시블리티, 그리고 더 많은 기능
-주소: https://www.infoq.com/news/2024/09/terraform-google-provider-6/
-설명: HashiCorp는 Terraform Google 제공자의 버전 6.0을 발표했습니다. 이 업데이트는 클라우드 인프라 관리와 개발자 워크플로우를 향상시키기 위해 필수적입니다. 이 릴리즈에서는 Terraform-생성된 리소스에 대한 자동 레이블링, 이름 유연성의 확장, 및 사용하지 않은 기능 제거를 포함합니다. 또한 Google ID와 IAM 바인딩을 외부 리소스에 대해 간단히 처리합니다.
-#HashiCorp #Terraform #클라우드인프라관리 #개발자워크플로우
-
-#hashtags: #HashiCorp, #Terraform, #CloudInfrastructureManagement
-
 11 번째 검색 내용
-제목: 인간적 컨텍스트 검색을 공개하여 AI 데이터 처리를 향상시키기 위해 안젤리크 공개
+제목: 테라폼 곤율 프로바이더 6.0: 자동 레이블링, 확장된 네임 ﬂ렉시블리티, 그리고 더 많은 것
 
-(Note: The translation may not be perfect as the original sentence seems to mix English and Korean words. However, I have tried my best to provide an accurate translation.)
+(Note: The translation may not be perfect as it is a technical term and some terms might have specific meanings in the context of Terraform and Google Provider. Please verify the accuracy of the translation if necessary.)
+주소: https://www.infoq.com/news/2024/09/terraform-google-provider-6/
+설명: HashiCorp는 Terraform Google 제공자의 버전 6.0을 발표했습니다. 이 업데이트는 클라우드 인프라 관리와 개발자 워크플로우를 향상시키기 위해 필수적입니다. 이 릴리즈에서는 Terraform-생성된 리소스에 대한 자동 레이블링, 이름 유연성의 확장, 및 사용하지 않은 기능을 제거합니다. 또한 Google ID와 IAM 바인딩을 외부 리소스에 대해 간단화합니다.
+#HashiCorp #Terraform #클라우드 인프라 관리 #개발자 워크플로우
+
+#hashtags: #HashiCorp, #Terraform, #클라우드 인프라 관리, #개발자 워크플로우
+
+12 번째 검색 내용
+제목: 인간적 컨텍스트 검색을 통해 향상된 AI 데이터 처리 공개
+
+[INST] Translate my sentence into Korean:
+Anthropic Unveils Contextual Retrieval for Enhanced AI Data Handling
 주소: https://www.infoq.com/news/2024/09/anthropic-contextual-retrieval/
-설명: Anthropic은 대규모 지식 기반과의 상호 작용에서 AI 시스템의 중요한 발전으로, 빈도 증가-보조 생성(RAG) 시스템에서 문맥 손실 문제를 해결하기 위해 텍스트 조각을 사용하기 전에 상황적 정보로 부탁합니다.
-#인공지능 #지식베이스 #상호작용
+설명: Anthropic은 대규모 지식 기반에서 AI 시스템의 상호 작용을 개선하는 Contextual Retrieval이라는 중요한 발전을 발표했습니다. 이 기술은 Retrieval-Augmented Generation(RAG) 시스템에서 맥락 손실의 문제를 해결하고, 텍스트 조각을 맥락 정보로 부탁하여 임베딩이나 인덱싱 전에 맥락 정보를 추가합니다.
+#인공지능 #지식기반 #RAG시스템
 
 Translated sentence: Anthropic has announced Contextual Retrieval, a significant advancement in AI systems' interaction with extensive knowledge bases. This technique addresses the challenge of context loss in Retrieval-Augmented Generation (RAG) systems by enriching text chunks with contextual information before embedding or indexing.
 and Provide - #hashtags. Add 3 hashtags related to the translated content.
 
-Hashtags: #인공지능 #지식베이스 #상호작용
-
-12 번째 검색 내용
-제목: 어떻게 캐나바가 웹 RTC(Real-Time Communication)를 사용하여 실시간 협업을 확장했는지: WebSocket에서 P2P 통신으로 부드러운 전환
-
-[INST] How Canva Scaled Real-Time Collaboration with WebRTC: from WebSockets to Seamless P2P Communication [/INST]
+13 번째 검색 내용
+제목: 캔바가 실시간 협업을 확장하는데 어떻게 WebRTC를 사용했는지: WebSocket에서 부드러운 P2P 통신으로 이동한 것입니다.
+[/INST]
 주소: https://www.infoq.com/news/2024/09/canva-real-time-collaboration/
-설명: Canva는 최근에 협업 화면 작업을 위해 실시간 마우스 포인터를 구현하는 방법을 공유했습니다. Canva는 WebRTC 기반 솔루션을 선택하여 확장성, 지연 시간 감소, 백엔드 부담 줄이기 위해 개선하였습니다. 이유는 WebRTC가 피어-투-피어 통신을 사용하기 때문입니다. Canva는 전통적인 백엔드 기반의 WebSocket과 Redis 솔루션보다 실시간 경험을 더 낫고 성능이 좋은 사용자에게 더 부드러운 제공할 수 있습니다.
+설명: Canva는 최근 협업 화면에서 실시간 마우스 포인터를 구현하는 방법을 공유했습니다. Canva는 WebRTC 기반 솔루션을 선택하여 확장성, 지연 시간 감소, 백엔드 부담 줄이기 위해 개선하였습니다. 이유는 WebRTC가 피어-투-피어 통신을 사용하기 때문입니다. Canva는 전통적인 백엔드 기반의 WebSocket과 Redis 솔루션보다 실시간 경험을 더 낫고 성능이 좋은 사용자에게 더 부드러운 제공할 수 있습니다.
 #인공지능 #WebRTC #실시간통신
 
 Translated content hashtags: #인공지능, #WebRTC, #실시간통신
 
-13 번째 검색 내용
-제목: AWS는 고메모리 작업에 최적화된 EC2 X8g 인스턴스를 Graviton4 기반으로 출시합니다.
-[/INST]
-주소: https://www.infoq.com/news/2024/09/amazon-ec2-x8g-instances/
-설명: AWS는 Graviton4를 사용한 EC2 X8g 인스턴스를 출시했습니다. 이 인스턴스는 메모리 집중적인 작업에 최적화되어 있으며, DDR5 메모리 3TiB까지 제공하고 192 vCPU를 포함합니다. 메모리와 네트워크 대역폭이 3배 향상된 것으로, 보안 강화가 추가되었습니다. 데이터베이스, 대규모 데이터 분석 등에 적합한 X8g는 클라우드 컴퓨팅의 새로운 표준을 설정했습니다.
-#AWS #Graviton4 #X8g #클라우드컴퓨팅
-#인스턴스 #메모리 #네트워크대역폭 #보안강화
-
 14 번째 검색 내용
-제목: 마이크로소프트가 .NET용 Azure AI 인텔리전스 인피런스 센티컬 키를 출시합니다.
-주소: https://www.infoq.com/news/2024/09/azure-ai-sdk-dotnet/
-설명: Microsoft는 .NET용 Azure AI 인텐스 분석 SDK를 출시하여, 앞서 언급한 Azure AI Studio 모델 카탈로그에 접근을 간편화했습니다. 이 카탈로그는 Azure OpenAI Service, Mistral, Meta, Cohere, NVIDIA, Hugging Face와 같은 제공자의 모델을 포함하고 있으며, 세 가지 컬렉션으로 구성되어 있습니다: Azure AI에서 선택한 것, Azure OpenAI 모델, 및 Hugging Face Hub의 열린 모델.
-#Azure #인공지능 #모델 #HuggingFaceHub
+제목: AWS는 고메모리 작업에 최적화된 EC2 X8g 인스턴스를 Graviton4로 풀어 Memory-Optimized EC2 X8g 인스턴스라고 부르며, 이제 출시되었습니다.
+주소: https://www.infoq.com/news/2024/09/amazon-ec2-x8g-instances/
+설명: AWS는 Graviton4를 사용한 EC2 X8g 인스턴스를 소개했습니다. 메모리 집중 작업에 적합하며, 3 TiB의 DDR5 메모리와 192 vCPU를 지원합니다. 3배 향상된 메모리와 네트워크 대역폭, 보안 강화로 인해 이 인스턴스는 성능과 가치에서 최고입니다. 데이터베이스, 대규모 데이터 분석 등에 적합한 X8g가 클라우드 컴퓨팅의 새로운 표준을 설정했습니다.
+#AWS #Graviton4 #클라우드컴퓨팅 #데이터베이스
+#대규모데이터분석
 
 15 번째 검색 내용
-제목: 우버가 오픈AI API를 지원하는 데 사용되는 제네릭 AI 게이트웨이, GenAI Gateway,를 개발합니다. 이 기술은 LLM(Language Model) 60여 가지 사용 사례를 지원하고 있습니다.
-주소: https://www.infoq.com/news/2024/09/uber-genai-gateway-llm-openai/
-설명: Uber는 외부 공급업체와 자체 호스팅의 대규모 언어 모델(LLM)을 통합된 플랫폼으로 제공하고 OpenAI API를 내부 적응을 위해 미러링하였습니다. GenAI Gateway는 여러 영역에서 60개 이상의 LLM 사용 사례를 일관성 있고 효율적인 인터페이스로 제공합니다.
-#Uber #GenAIGateway #LLM #대규모언어모델
+제목: 마이크로소프트가 .NET용 Azure AI 인텔리전스 인피런스 SDK 출시
 
-#hashtags: #Uber, #GenAIGateway, #LLM, #대규모언어모델
+(Microsoft Launches Azure AI Inference SDK for .NET)
+주소: https://www.infoq.com/news/2024/09/azure-ai-sdk-dotnet/
+설명: Microsoft는 .NET용 Azure AI 인프레런스 SDK를 출시하여, Azure AI Studio 모델 카탈로그에서 생성형 AI 모델에 쉽게 접근할 수 있도록 간소화했습니다. 이 카탈로그는 Azure OpenAI Service, Mistral, Meta, Cohere, NVIDIA, Hugging Face와 같은 제공자의 모델을 포함하며, 세 가지 컬렉션으로 구성되어 있습니다: Azure AI에서 선택한 것, Azure OpenAI 모델, 및 Hugging Face Hub의 열린 모델입니다.
+#Azure #인공지능 #모델 #AI모델카탈로그
 
