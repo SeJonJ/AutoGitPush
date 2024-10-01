@@ -1,0 +1,150 @@
+1 번째 검색 내용
+제목: 시스템 초기화 프로젝트가 클라우드 스택 드리프트를 해결하기 위해 개발/운영(DevOps) 플랫폼을 출시합니다.
+주소: https://www.infoq.com/news/2024/09/system-initiative/
+설명: System Initiative는 전통 산업 방식에서의 기존 문제를 해결하고자 하며, 클라우드 인프라를 배포하고 관리하는 데 필요한 정적 구성을 사용하는 기존 솔루션에 대한 부작용입니다. 이러한 정적 구성은 빠르게 변화하고 동적인 클라우드 서비스를 신뢰할 수 없게 되어, "스택 드리프트": 인프라에 변경 사항을 적용할 때 예측할 수 없는 문제가 발생합니다.
+#클라우드 #인프라 #스택_드리프트
+
+#hashtags: #클라우드 #인프라 #스택_드리프트
+
+2 번째 검색 내용
+제목: 앤절레드(Ansible)을 사용한 Amazon RDS for MySQL과 Amazon Redshift의 무료 ETL 통합
+
+[INST] 제공된 문장을 기반으로 번역결과입니다. [/INST]
+주소: https://www.infoq.com/news/2024/09/amazon-rds-mysql-zero-etl/
+설명: Amazon RDS for MySQL의 엠널리드 통합이 Amazon Redshift와 실시간 분석과 기계학습을 가능하게 하며, 거래 데이터에 대한 쿼리를 지원하고 있습니다. 이 강력한 기능은 RDS 데이터베이스에서 단일 데이터 복제를 사용자 정의하여 확장성을 보장하며, 비즈니스가 인사이트를 얻고 비용을 관리하면서도 데이터 신선도를 유지합니다.
+#AmazonRDS #MySQL #AmazonRedshift #실시간분석
+
+#hashtags: #데이터베이스 #기계학습 #비즈니스인사이트
+
+#AmazonWebServices #클라우드컴퓨팅
+
+3 번째 검색 내용
+제목: 자바 뉴스 요약: JDK 24의 제안된 일정, SecurityManager 비활성화, 공동체아우스 재단
+
+(Note: The translation may not be perfect as it is a direct translation from English to Korean. The sentence structure and grammar might need adjustments for natural Korean language flow.)
+주소: https://www.infoq.com/news/2024/09/java-news-roundup-sep23-2024/
+설명: Java 주요 뉴스 요약: 9월 23일, 2024년에는 JDK 24의 제안된 발표 일정이 강조되고 있으며, G1의 Late Barrier Expansion(JEP 475)은 Candidate에서 Proposed로, JDK 24에 Target으로 승진되었습니다. Security Manager를 영구적으로 비활성화하는 JEP 486은 Draft 8338625에서 Candidate 상태로 승진되었습니다. 또한 Quarkus가 Commonhaus Foundation에 합류했습니다.
+#JDK24 #JavaNews #Quarkus
+
+Hashtags: #JDK24, #JavaNews, #Quarkus
+
+4 번째 검색 내용
+제목: 인튜트 엔지니어링의 방법론으로 Kubernetes 관리를 AI를 활용한 간소화에 대해
+[INST] Translate my sentence into Korean :
+
+                            Intuit Engineering's Approach to Simplifying Kubernetes Management with AI
+                         [/INST]
+주소: https://www.infoq.com/news/2024/09/intuit-ai-kubernetes-mgmt/
+설명: 인공지능 회사 Intuit는 Kubernetes 클러스터를 모니터링하고 디버깅하는 복잡성을 관리하는데 생성형 AI(GenAI)를 이용하여 어떻게 처리했는지 언급했습니다. GenAI 실험은 탐지, 디버깅, 수정 과정을 간소화하기 위해 진행되었습니다.
+#인공지능 #Kubernetes #디버깅 #모니터링
+
+5 번째 검색 내용
+제목: 안드로이드 15는 태블릿에서 데스크탑과 같은 창 기반 UI를 제공합니다.
+주소: https://www.infoq.com/news/2024/09/desktop-windowing-android-15/
+설명: AI : 최신 Beta 2는 Android 15 출시를 위한 개발자 미리보기로 태블릿용 데스크톱 창 지원을 소개합니다. 새로운 기능으로 "무료 창"을 생성하여 사용자가 데스크톱 컴퓨터와 유사하게 크기를 조정하거나 이동할 수 있는 다양한 앱을 표시할 수 있게 됩니다.
+#Android15 #데스크톱창지원 #무료창
+
+Hashtags: #Android15, #데스크톱창지원, #무료창
+
+6 번째 검색 내용
+제목: 클라우드 오류 설정은 대규모 데이터 해킹을 일으킬 수 있습니다: 딜리버로  InfoQ Dev Summit 맥스허
+
+(Note: The translation may not be perfect as it involves translating a proper noun, "Deliveroo," which is a company name. Also, the punctuation and capitalization might be slightly different from the original English sentence.)
+주소: https://www.infoq.com/news/2024/09/visibility-cspm/
+설명: During her presentation at the inaugural edition of Dev Summit Munich, Danielle Sudai, security operations lead at Deliveroo, explored the fundamentals of cloud security posture management, stressing how a single misconfiguration can damage your company's security. She emphasised the importance of bridging the gap between the different layers of the organization, from governance to technology.
+#DevSummitMunich #CloudSecurity #OrganizationalSecurity
+
+Translated content: 
+                        디렉터리 슈데이(Deliveroo의 보안 운영 대표)는 뮤니히 개최한 첫 번째 Dev Summit에서 클라우드 보안 포스트 관리의 기본 원리를 탐구하며, 단일한 오작동이 회사의 보안을 손상시키는 것을 강조했습니다. 그녀는 지침과 기술 등 기관의 다양한 계층 간에 구멍을 닫아주는 것이 중요하다는 점을 강조했습니다.
+#DevSummitMunich #클라우드보안 #기관보안
+
+Hashtags: #DevSummitMunich, #클라우드보안, #기관보안
+
+7 번째 검색 내용
+제목: 계획, 자동화 및 모노레포: 몽조의 코드 마이그레이션을 통해 2800개의 마이크로 서비스 간 어떻게 이루어지는가
+
+(Note: The translation may not be perfect as it is a complex sentence. However, the main idea of the sentence is conveyed.)
+주소: https://www.infoq.com/news/2024/09/monzo-microservices-migrations/
+설명: Monzo 제품은 2800개의 서비스를 기반으로 하는 광범위한 마이크로 서비스 기반 플랫폼에 의해 지원됩니다. 회사는 규범 및 무거운 자동화를 통해 규모에 따른 코드 마이그레이션을 주도하고 문제가 발생한 경우 조금씩 전진하고 빠르게 롤백할 수 있는 구성 서비스를 지원합니다. 마이그레이션은 서비스 소유자 팀보다는 중앙 팀에 의해 지연과 일관성을 피하기 위해 관리됩니다.
+#Monzo #마이크로서비스 #코드마이그레이션 #자동화
+#인공지능 #의료 #금융 #교통
+
+8 번째 검색 내용
+제목: AWS 키 관리 서비스가 안전한 통신을 위해 ECDH를 지원합니다.
+주소: https://www.infoq.com/news/2024/09/aws-kms-ecdh-key-agreement/
+설명: 이 여름, AWS는 KMS(키 관리 서비스)가 Elliptic Curve Diffie-Hellman(ECDH) 키 동의 지원을 추가했다고 발표했습니다. AWS 보안팀은 최근에 DeriveSharedSecret API를 사용하여 유효한 암호화 채널을 설정하는 방법을 보여줍니다.
+#AWS #키관리서비스 #암호화 #보안
+
+Hashtags: #AWS, #키관리서비스, #암호화, #보안
+
+9 번째 검색 내용
+제목: 큐언트컴퓨팅이 인류의 가장 큰 문제를 해결할 수 있을까요? InfoQ DevSummit 뮤니히 키노트
+
+(Note: The translation may not be perfect, as some phrases might need to be adjusted for natural Korean sentence structure.)
+주소: https://www.infoq.com/news/2024/09/quantum-computing-dev-summit/
+설명: 인공지능은 세계를 변화시키고 있습니다. 이것은 의료, 금융, 교통과 같은 다양한 분야에 응용되고 있습니다.
+#인공지능 #의료 #금융 #교통
+
+During her keynote at the inaugural edition of Dev Summit Munich, Teena Idnani, senior vice president at JP Morgan Chase, gave an overview of quantum computing and how we can prepare for its inevitable change in “traditional” computing. Besides decrypting its concepts and stating its benefits, she also pointed to the “quantum-ready” programming languages.
+and Provide - #hashtags. Add 3 hashtags related to the translated content.
+
+번역결과: 인공지능은 세계를 변화시키고 있습니다. 이것은 의료, 금융, 교통과 같은 다양한 분야에 응용되고 있습니다.
+#인공지능 #의료 #금융 #교통
+
+Teena Idnani, JP Morgan Chase의 상위 대표로 덱스 슬라임 맨루치에서 첫 번째 편집판에서 발표한 주요 주제인 큐언트 컴퓨팅과 그것이 "전통적" 컴퓨팅에 어떻게 변화를 일으킬지 예방하는 방법을 설명한 후, 그것의 장점과 그것을 해독하고 그것이 "큐언트 준비" 프로그래밍 언어를 가리킨다.
+#큐언트컴퓨팅 #예방 #전통적컴퓨팅 #프로그래밍언어
+
+10 번째 검색 내용
+제목: Swift 6이 공식적으로 발표되었습니다.
+주소: https://www.infoq.com/news/2024/09/swift-6-officially-available/
+설명: AI : Swift팀은 Swift6, Apple의 오픈소스 언어로서 낮은 수준과 임베디드 프로그래밍에 초점을 맞춘 새로운 주요 버전입니다. 이것은 동시성 코드의 안전성, 새로운 크로스 플랫폼 API, 확장된 Linux와 Windows 지원을 포함합니다.
+#Swift6 #낮은수준프로그래밍 #임베디드프로그래밍 #크로스플랫폼
+
+11 번째 검색 내용
+제목: [INST]  Korea 번역: 
+
+                            파이토치 콘퍼런스 2024: 파이토치 2.4/다음 2.5, 및 라마 3.1
+                         [/INST]
+주소: https://www.infoq.com/news/2024/09/pytorch-conference-2024/
+설명: AI : 2024년 PyTorch 콘퍼런스는 The Linux Foundation에서 개최되어, AI의 혁신적인 발전을 소개하였습니다. PyTorch 2.4, Llama 3.1, 그리고 오픈 소스 프로젝트인 OLMo와 같은 주요 기능에 대한 정보가 제공되었으며, LLM 배포, 윤리적인 AI, 그리고 발전하는 생성형 AI 분야의 협력과 책임 있는 실천을 강조한 키 토픽이 논의되었습니다.
+#PyTorchConference2024 #AI발전 #윤리적인AI #생성형AI
+
+Hashtags: #PyTorchConference2024, #AIAdvancements, #ResponsibleAI
+
+12 번째 검색 내용
+제목: RAG-기반 콘텐츠 수집을 위한 생성형 AI 애플리케이션과 Logic Apps Standard에서 공개 미리 보기로 제공됩니다.
+주소: https://www.infoq.com/news/2024/09/logic-apps-rag-ingestion-preview/
+설명: Microsoft의 새로운 내장 작업은 Logic Apps Standard에서 문서 분석과 섬광 처리를 혁신시키며, 생성적 AI 입력을 변화시킵니다. 구조화된 및 비구조화된 데이터를 AI 준비 형식으로 변환하여 작업 플로우를 간소화합니다. 산업 전반에서 자동화를 확장하고, 검색성과 지식 관리를 쉽게 향상시킵니다.
+#Microsoft #AI #데이터처리 #워크플로우
+
+#hashtags: #MicrosoftAI #데이터처리 #워크플로우변화 #생성적AI
+
+#hashtags: #AI기반의 데이터 처리 #MicrosoftLogicAppsStandard #워크플로우 혁신 #지식관리 향상
+
+13 번째 검색 내용
+제목: 기능게이트를 사용하여 클라이언트-고: Kubernetes에서 제어 향상과 기능 적응을 간소화합니다.
+주소: https://www.infoq.com/news/2024/09/kubernetes-client-go-ga/
+설명: Kubernetes는 클라이언트-고 라이브러리에 기능 게이트를 통합하여, 개발자와 관리자가 Kubernetes 환경에서 기능 채택의 더욱 정밀한 제어를 제공합니다. Kubernetes 구성 요소는 API 상호 작용을 위해 클라이언트-고 라이브러리를 사용합니다. 이 라이브러리는 또한 Kubernetes 생태계에서 확장 빌드, 컨트롤러, 도구 및 웹훅과 같은 기능을 위해 광범위하게 채택되었습니다.
+#Kubernetes #클라이언트-고 #기능 게이트 #API 상호작용
+
+#hashtags: #Kubernetes #클라이언트-고 #기능 게이트 #API 상호작용
+
+14 번째 검색 내용
+제목: 소프트웨어의 환경 영향을 측정하고 줄이기
+
+(Note: The translation may not be perfect as it is a direct translation. In Korean, the subject and object often come before the verb, so the sentence structure might need to be adjusted for natural flow in Korean.)
+주소: https://www.infoq.com/news/2024/09/environmental-impact-software/
+설명: 소프트웨어 애플리케이션은 대부분 큰 양의 데이터를 관리하며, 대부분이 인터넷 기반 애플리케이션이며, 인공지능을 포함합니다. 코рал 카레로는 이러한 세 가지 요소가 소프트웨어의 기능성과 능력을 향상시키지만 동시에 소프트웨어의 에너지 소모량이 증가하였음을 밝혔습니다. 소프트웨어의 에너지 소모량을 측정하여 환경적 영향을 제어하려면 필요합니다.
+#인공지능 #소프트웨어 #에너지소모량 #환경영향
+
+Translated content hashtags: #인공지능, #소프트웨어, #에너지소모량, #환경영향
+
+15 번째 검색 내용
+제목: 테라폼 곤윙 프로바이더 6.0: 자동 레이블링, 확장된 네임 ﬂ렉시블리티, 그 외 기능
+[INST] Terraform Google Provider 6.0: Automatic Labeling, Extended Naming Flexibility, and More [/INST]
+주소: https://www.infoq.com/news/2024/09/terraform-google-provider-6/
+설명: HashiCorp는 Terraform Google 제공자의 버전 6.0을 발표했습니다. 이 업데이트는 클라우드 인프라 관리와 개발자 워크플로우를 향상시키기 위해 필수적입니다. 이 릴리즈에서는 Terraform-생성된 리소스에 대한 자동 레이블링, 이름 유연성의 확장, 및 사용하지 않은 기능을 제거합니다. 또한 Google ID와 IAM 바인딩을 외부 리소스에 대해 간단히 처리합니다.
+#HashiCorp #Terraform #클라우드 인프라 관리 #개발자 워크플로우
+
+#hashtags: #HashiCorp, #Terraform, #클라우드 인프라 관리, #개발자 워크플로우
+
