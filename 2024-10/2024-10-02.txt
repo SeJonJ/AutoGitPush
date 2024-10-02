@@ -1,0 +1,155 @@
+1 번째 검색 내용
+제목: 구글이 목소리 복원을 위한 음성 전송 AI 개발
+
+(Note: The translation may not be perfect as it is a machine translation. Please check the meaning and context before using it.)
+주소: https://www.infoq.com/news/2024/10/google-voice-transfer-ai/
+설명: AI : 구글 연구팀은 특정 사람의 목소리로 텍스트를 말하는(TTS) 기능을 사용자에게 맞춰 개발한 무대 없는 음성 전송(VT) 모델를 개발했습니다. 이 기술은 예를 들어 박인슨 질병이나 ALS로 목소리를 잃은 발언자에게 TTS 장치를 사용하여 원래의 목소리를 재현할 수 있습니다. 이 모델은 언어에도 적용됩니다.
+#인공지능 #목소리 #TTS #발언자
+
+#hashtags:
+1. #인공지능_기술
+2. #목소리_재생
+3. #발언자_도우미
+
+2 번째 검색 내용
+제목: AWS 서비스 종료, 포함 중인 서비스: AWS App Mesh와 Amazon FSx 파일 게이트웨이
+
+(주의: 이 번역은 기계 번역으로 부분적으로 정확할 수 있습니다.)
+주소: https://www.infoq.com/news/2024/10/aws-retires-services/
+설명: AWS는 블로그 포스트에서 여러 서비스의 휴대를 예정하고 있다는 것을 발표했습니다. AWS App Mesh와 AWS DeepComposer과 같은 몇 가지 서비스가 포함되어 있습니다. 이 새로운 휴대 웨이브는 여름에 이루어진 비슷한 세트의 휴대를 따라 AWS 클라우드 제공자의 오래된 기존 서비스에 대한 약속이 변화하는 것을 의미합니다.
+#AWS #클라우드 #서비스_휴대
+
+#hashtags:
+1. #AWS
+2. #클라우드
+3. #서비스_휴대
+
+3 번째 검색 내용
+제목: 시스템 초기화를 통해 DevOps 플랫폼을 출시하여 클라우드 스택 드리프트 문제 해결
+
+(Note: The translation may not be perfect as it is a machine translation. Please review and make any necessary adjustments.)
+주소: https://www.infoq.com/news/2024/09/system-initiative/
+설명: System Initiative는 전통 산업 실무에서 사용되는 일부 기본적인 문제를 해결하려고 합니다. 특히, 클라우드 인프라에 대한 정적 구성을 요구하는 현재 솔루션은 빠르게 변화하고 동적인 클라우드 서비스를 신뢰할 수 없게 됩니다. 이로 인해 "스택 드리프트"가 발생합니다: 인프라에 변경 사항을 적용할 때 예측하기 어려워집니다.
+#클라우드_인프라 #스택_드리프트 #시스템_초기화
+
+Translated sentence: System Initiative aims to tackle some long-standing problems in conventional industry practices for deploying and managing cloud infrastructure. Specifically, existing solutions requiring static configurations for cloud infrastructure cannot reliably reflect fast-changing and dynamic cloud services, leading to "stack drift": unpredictability when engineers apply changes to infrastructure.
+
+Hashtags: #cloud_infrastructure #stack_drift #system_initialization
+
+4 번째 검색 내용
+제목: 앤자스 리디스(Amazon RDS)를 사용한 MySQL의 0-ETL 통합과 앤자스 레드시프트(Amazon Redshift)의 연결
+
+(Note: The translation may not be perfect, as some terms and phrases might not have direct equivalents in Korean. However, it conveys the general meaning of the original sentence.)
+주소: https://www.infoq.com/news/2024/09/amazon-rds-mysql-zero-etl/
+설명: Amazon RDS for MySQL의 실시간 통합 기능이 Amazon Redshift와 함께 일반적으로 사용 가능하며, 거래 데이터에서 근접 실시간 분석과 머신러닝을 지원합니다. 이 강력한 기능은 RDS 데이터베이스에서 사용자 정의 데이터 복제를 지원하고, 비즈니스가 인사이트를 얻으며 비용을 관리하면서도 데이터 신선성을 유지합니다.
+#AmazonRDS #MySQL #실시간분석 #머신러닝
+#AmazonRedshift #데이터복제 #비즈니스인사이트
+#데이터 신선성 관리 #비용 제어
+
+5 번째 검색 내용
+제목: 자바 뉴스 요약: JDK 24의 제안된 일정, SecurityManager 비활성화, 공용하우스 재단
+
+(Note: The translation may not be perfect as some phrases might not have a direct equivalent in Korean. However, it conveys the main ideas of the original sentence.)
+주소: https://www.infoq.com/news/2024/09/java-news-roundup-sep23-2024/
+설명: Java 주요 뉴스 요약: 9월 23일, 2024년에는 JDK 24의 제안된 발표 일정이 강조되며, G1의 Late Barrier Expansion을(를) JEP 475로 알려졌으며, Candidate에서 Proposed에 이어 Target으로 승진한 것으로 볼 수 있습니다. 또한, Security Manager를 영구적으로 비활성화하는 JEP 486가 JEP Draft 8338625에서 Candidate 상태로 승진했습니다. Quarkus가 Commonhaus Foundation에 합류하는 소식도 강조되었습니다.
+#Java #JDK24 #Quarkus #CommonhausFoundation
+
+Hashtags: #Java #JDK24 #Quarkus #CommonhausFoundation
+
+6 번째 검색 내용
+제목: 인튜트 엔지니어링의 방법론으로 Kubernetes 관리를 AI를 활용한 간소화에 대해
+[INST] Translate my sentence into Korean :
+
+                            Intuit Engineering's Approach to Simplifying Kubernetes Management with AI
+                         [/INST]
+주소: https://www.infoq.com/news/2024/09/intuit-ai-kubernetes-mgmt/
+설명: Intuit recently talked about how they managed the complexities of monitoring and debugging Kubernetes clusters using Generative AI (GenAI). The GenAI experiments were conducted to streamline detection, debugging, and remediation processes.
+                     #인공지능 #컨테이너화상 #모니터링
+
+Translated content: Intuit recently talked about how they managed the complexities of monitoring and debugging Kubernetes clusters using Generative AI (GenAI). The GenAI experiments were conducted to streamline detection, debugging, and remediation processes.
+                     #인공지능 #컨테이너화상 #모니터링
+
+Hashtags: #인공지능, #컨테이너화상, #모니터링
+
+7 번째 검색 내용
+제목: 안드로이드 15는 태블릿에서 데스크탑과 같은 창 기반 UX를 제공합니다.
+주소: https://www.infoq.com/news/2024/09/desktop-windowing-android-15/
+설명: AI : 최근 Android 15 릴리스에 들어갈 Beta 2가 발표되었습니다. 이 버전에서는 태블릿용 데스크톱 창 기능을 개발자 미리보기로 도입했습니다. 새로운 기능으로 "자유형 윈도우"를 생성할 수 있는 사용자 인터페이스가 추가되었으며, 데스크톱 컴퓨터와 같은 방식으로 크기를 조정하거나 이동할 수 있습니다.
+#Android15 #데스크톱창 #태블릿 #자유형윈도우
+
+Hashtags: #Android15, #데스크톱창, #태블릿, #자유형윈도우
+
+8 번째 검색 내용
+제목: 클라우드 오류 설정은 큰 데이터 해킹을 일으킬 수 있습니다: 딜리버로  InfoQ Dev Summit 맥스헤인
+
+(Note: The translation may not be perfect as it is a direct translation from English to Korean. It would be better if a native Korean speaker checks and adjusts the translation for proper grammar and sentence structure.)
+주소: https://www.infoq.com/news/2024/09/visibility-cspm/
+설명: During her presentation at the inaugural edition of Dev Summit Munich, Danielle Sudai, security operations lead at Deliveroo, explored the fundamentals of cloud security posture management, stressing how a single misconfiguration can damage your company's security. She emphasised the importance of bridging the gap between the different layers of the organisation, from governance to technology.
+                     #DevSummitMunich #CloudSecurity #OrganizationalGapBridging
+
+Translated content: 
+During her presentation at the inaugural edition of Dev Summit Munich, Danielle Sudai, security operations lead at Deliveroo, explored the fundamentals of cloud security posture management, stressing how a single misconfiguration can damage your company's security. She emphasised the importance of bridging the gap between the different layers of the organisation, from governance to technology.
+                     #DevSummitMunich #CloudSecurity #OrganizationalGapBridging
+
+9 번째 검색 내용
+제목: 계획, 자동화 및 모노레포: 몽조의 코드 마이그레이션을 통해 2800개의 마이크로 서비스 간 코드 마이그레이션
+[/INST]
+주소: https://www.infoq.com/news/2024/09/monzo-microservices-migrations/
+설명: Monzo 제품은 2800개 이상의 확장성 있는 마이크로 서비스 기반 플랫폼에 의해 지원됩니다. 회사는 규범 및 무거운 자동화를 통해 규모에 따른 코드 마이그레이션을 주도하고 문제가 발생한 경우 조건부 서비스를 지원하여 조금씩 전진하고 빠르게 롤백할 수 있는 긴급 사태에 대처할 수 있습니다. 마이그레이션은 서비스 소유자 팀보다는 중앙 팀에 의해 지연과 일관성을 피하기 위해 관리됩니다.
+#Monzo #마이크로서비스 #코드마이그레이션 #자동화
+#인공지능 #의료 #금융 #교통
+
+10 번째 검색 내용
+제목: AWS 키 관리 서비스가 안전한 통신을 위해 ECDH를 지원합니다.
+주소: https://www.infoq.com/news/2024/09/aws-kms-ecdh-key-agreement/
+설명: 이 여름, AWS는 KMS(키 관리 서비스)가 Elliptic Curve Diffie-Hellman(ECDH) 키 동의 지원을 추가했다고 발표했습니다. AWS의 보안팀은 최근에 새로운 DeriveSharedSecret API를 사용하여 유효한 통신 채널을 설정하는 데 도움이 되는 공유된 암호화 키를 파생시킬 수 있다는 것을 보여줍니다.
+#AWS #키관리서비스 #보안 #암호화
+
+Translated sentence: This summer, AWS announced that the AWS Key Management Service (KMS) supports the Elliptic Curve Diffie-Hellman (ECDH) key agreement. The security team at AWS recently showed how the new DeriveSharedSecret API enables the establishment of secure communication channels by using a derived shared secret.
+
+Hashtags: #AWS #키관리서비스 #보안 #암호화
+
+11 번째 검색 내용
+제목: 큐언트컴퓨팅이 인류의 가장 큰 문제를 해결할 수 있을까요? InfoQ DevSummit 뮤니히 키노트
+
+(Note: The translation may not be perfect, as some phrases might need to be adjusted for natural Korean sentence structure.)
+주소: https://www.infoq.com/news/2024/09/quantum-computing-dev-summit/
+설명: 인공지능 : 뮤니크에서 개최된 첫 번째 Dev Summit의 주요 발표자로 활동하는 JP Morgan Chase 대표 소장 티나 이드나니는 큐언트 컴퓨팅과 그것이 "전통" 컴퓨팅에 미치게 될 불가피한 변화를 준비하는 방법을 간략히 설명했습니다. 그녀는 큐언트 컴퓨팅의 개념을 해독하고 그것의 이점을 강조하며, 또한 "큐언트 준비" 프로그래밍 언어에 대해서도 언급했습니다.
+#큐언트컴퓨팅 #JP Morgan Chase #Dev Summit Munich
+
+Hashtags: #큐언트컴퓨팅, #JP Morgan Chase, #Dev Summit Munich
+
+12 번째 검색 내용
+제목: Swift 6이 공식적으로 발표되었습니다.
+주소: https://www.infoq.com/news/2024/09/swift-6-officially-available/
+설명: AI : Swift팀은 Swift6, Apple의 오픈소스 언어로서 낮은 수준과 임베디드 프로그래밍에 초점을 맞춘 새로운 주요 버전입니다. 이것은 동시에 안전한 코드, 새로운 크로스 플랫폼 API, 확장된 Linux와 Windows 지원을 포함합니다.
+#Swift6 #낮은수준프로그래밍 #임베디드프로그래밍 #크로스플랫폼
+
+13 번째 검색 내용
+제목: [INST]  Korea 번역: 
+
+                            파이토치 콘퍼런스 2024: 파이토치 2.4/다음 2.5, 및 라마 3.1
+                         [/INST]
+주소: https://www.infoq.com/news/2024/09/pytorch-conference-2024/
+설명: AI : 2024년 PyTorch 콘퍼런스는 The Linux Foundation에서 개최되어, AI의 혁신적인 발전을 보여줍니다. PyTorch 2.4, Llama 3.1, 그리고 오픈소스 프로젝트인 OLMo와 같은 주요 기능에 대한 인사이트를 제공했습니다. LLM 배포, 윤리적인 AI, 그리고 발전하는 생성형 AI 분야의 협력과 책임 있는 실천을 강조한 키 토픽이 논의되었습니다.
+#PyTorchConference2024 #AI발전 #윤리적인AI #생성형AI
+
+Hashtags: #PyTorchConference2024, #AIAdvancements, #ResponsibleAI
+
+14 번째 검색 내용
+제목: RAG-기반 잡음 처리를 사용한 생성형 AI 애플리케이션과 Logic Apps Standard의 공개 미리 보기입니다.
+주소: https://www.infoq.com/news/2024/09/logic-apps-rag-ingestion-preview/
+설명: AI : Microsoft의 새로운 내장 작업은 Logic Apps Standard에서 문서 분석과 칩킹을 혁신시키며, 생성적 AI 인식을 변화시킵니다. 낮은 코드 솔루션으로 구조화된 및 비구조화된 데이터를 AI 준비 형식으로 변환하여 작업 플로우를 간소화합니다. 산업 전반에서 자동화를 확장하고, 검색성과 지식 관리를 쉽게 향상시킵니다.
+#Microsoft #AI #데이터분석 #워크플로우 #자동화
+
+Hashtags: #Microsoft #AI #데이터분석 #워크플로우 #자동화
+
+15 번째 검색 내용
+제목: 기능게이트를 사용하여 클라이언트-고: Kubernetes에서 제어를 향상시키고 기능 적용을 간소화하는 데 도움이 되는 방법을 설명합니다.
+[/INST]
+주소: https://www.infoq.com/news/2024/09/kubernetes-client-go-ga/
+설명: Kubernetes는 클라이언트-고 라이브러리에 기능 게이트를 통합하여, 개발자와 관리자가 Kubernetes 환경에서 기능 채택의 더욱 정밀한 제어를 제공합니다. Kubernetes 구성 요소는 API 상호 작용을 위해 클라이언트-고 라이브러리를 사용합니다. 이 라이브러리는 또한 Kubernetes 생태계에서 확장 빌드, 컨트롤러, 도구 및 웹훅과 같은 기능을 위해 광범위하게 채택되었습니다.
+#Kubernetes #클라이언트-고 #API #기능 게이트
+
+#hashtags: #Kubernetes #클라이언트-고 #API #기능 게이트
+
