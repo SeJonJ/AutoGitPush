@@ -1,67 +1,66 @@
 1 번째 검색 내용
-제목: 소프트웨어 팀 성능 개선을 위한 실험화합니다.
-
-[INST] 소프트웨어 팀 성능 개선을 위한 실험화합니다. [/INST]
+제목: [INST] 소프트웨어 팀 성능 개선을 위한 실험 방법 [/INST]
 주소: https://www.infoq.com/news/2024/10/software-team-experimentation/
 설명: 인공지능은 세계를 변화시키고 있습니다. 이것은 의료, 금융, 교통과 같은 다양한 분야에 응용되고 있습니다.
 #인공지능 #의료 #금육 #교통
 
-따뜻한 아호 대로, 실험은 행동을 안내하는 사고방식입니다. 실험을 통해 주요 변경 프로세스 없이 작업 방법을 개발할 수 있습니다. 소프트웨어 팀에게 문제를 작은 단계로 해결하고, 그들의 작업량을 줄여주며, 자기관리를 장려할 수 있습니다.
-#실험 #소프트웨어팀 #자기관리 #작은단계로해결
+따뜻한 아호 대로, 실험은 행동을 안내하는 사고방식입니다. 실험을 통해 주요 변화 프로세스가 없이 작업 방법을 개발할 수 있습니다. 소프트웨어 팀에게 문제를 작은 단계로 해결하고, 그들의 작업 부담을 줄여주며, 자기관리를 장려할 수 있습니다.
+#실험 #소프트웨어 #팀워크 #자기관리
 
 2 번째 검색 내용
 제목: 구글이 목소리 복원을 위한 음성 전송 AI 개발
 
-(Note: The translation may not be perfect as it is a direct translation from English to Korean. The sentence structure and grammar might need adjustments for natural flow in the Korean language.)
+(Note: The translation may not be perfect as it is a direct translation. It would be better to have it translated by a professional translator or someone fluent in both languages.)
 주소: https://www.infoq.com/news/2024/10/google-voice-transfer-ai/
-설명: AI : 구글 연구팀은 특정 사람의 목소리를 이용하여 텍스트를 말하는(TTS) 기능을 사용자에게 맞춰 개발한 무대 없는 음성 전송(VT) 모델을 개발했습니다. 이 기술은 예를 들어 박인슨 질병이나 ALS로 목소리를 잃은 사람들에게 TTS 장치를 사용하여 원래의 목소리를 재현할 수 있도록 합니다. 이 모델은 언어에도 적용됩니다.
-#인공지능 #음성전송 #TTS #박인슨 #ALS
+설명: AI : 구글 연구팀은 특정 사람의 목소리를 이용하여 텍스트-발음(TTS)을 사용자 지정할 수 있는 제로샷 목소리 전송(VT) 모델을 개발했습니다. 이를 통해 예를 들어 박인슨 질환이나 ALS와 같은 질병으로 목소리를 잃은 발언자들은 TTS 장치를 사용하여 원래의 목소리를 재현할 수 있습니다. 모델은 언어에도 적용됩니다.
+#인공지능 #목소리전송 #TTS #박인슨질환 #ALS
 
-Hashtags: #인공지능, #음성전송, #TTS, #박인슨, #ALS
+Hashtags: #인공지능, #목소리전송, #TTS, #박인슨질환, #ALS
 
 3 번째 검색 내용
 제목: AWS 서비스 종료, 포함 중인 서비스: AWS App Mesh와 Amazon FSx 파일 게이트웨이
 
-(참고: 위 번역은 문맥을 고려하여 작성되었으며, 필요한 경우 수정이 있을 수 있습니다.)
+(주의: 이 번역은 기계 번역으로 부분적으로 정확할 수 있습니다.)
 주소: https://www.infoq.com/news/2024/10/aws-retires-services/
-설명: AWS는 블로그 포스트에서 여러 서비스의 휴대를 예정하며, AWS App Mesh와 AWS DeepComposer 등이 포함됩니다. 이 새로운 휴대 웨이브는 여름에 이루어진 비슷한 서비스 휴대의 차원 내에서 AWS 클라우드 제공자의 오래된 기존 서비스에 대한 약속에서 변화를 나타냅니다.
-#AWS #클라우드 #서비스_휴대
+설명: AWS는 블로그 포스트에서 여러 서비스의 퇴출을 예고하였으며, AWS App Mesh와 AWS DeepComposer 등이 그 중에서 포함되었습니다. 이 새로운 퇴출 방침은 여름에 이루어진 비슷한 세트의 퇴출과 함께 AWS가 기존 서비스에 대한 장기적인 약속을 바꾸는 것으로 해석됩니다.
+#AWS #클라우드 #서비스_퇴출
 
-Translate my sentence into Korean:
-                         In a series of blog posts, AWS has announced the scheduled retirements of several services, including AWS App Mesh and AWS DeepComposer. This new wave of deprecations follows a similar set of retirements earlier in the summer, marking a shift in the cloud provider’s long-standing commitment to existing services.
-                     and Provide - #hashtags. Add 3 hashtags related to the translated content.
+#hashtags:
+1. #AWS
+2. #클라우드
+3. #서비스_퇴출
 
 4 번째 검색 내용
 제목: 시스템 초기화를 통해 클라우드 스택 드리프트를 처리하기 위한 DevOps 플랫폼 출시
 
-(Note: The translation may not be perfect as it is a direct translation. It would be better to have it reviewed by a native Korean speaker for accuracy.)
+(Note: The translation may not be perfect as it is a direct translation from English to Korean. It would be better if a native Korean speaker checks and adjusts the sentence for proper grammar and structure.)
 주소: https://www.infoq.com/news/2024/09/system-initiative/
-설명: System Initiative는 전통 산업 방식에서의 기존 문제를 해결하려고 합니다. 특히, 클라우드 인프라에 대한 정적 구성이 필요한 기존 솔루션은 빠르게 변화하고 동적인 클라우드 서비스를 신뢰할 수 없게 되어, "스택 드리프트": 인프라에 변경 사항을 적용할 때 예측이 불가능해지는 문제가 발생합니다.
+설명: System Initiative는 전통 산업 실무에서 사용되는 일부 기본적인 문제를 해결하려고 합니다. 특히, 클라우드 인프라에 대한 정적 구성을 요구하는 현재 솔루션은 빠르게 변화하고 동적인 클라우드 서비스를 신뢰할 수 없게 됩니다. 이로 인해 "스택 드리프트"가 발생합니다: 인프라에 변경 사항을 적용할 때 예측하기 어려운 상황입니다.
 #클라우드_인프라 #스택_드리프트 #시스템_초기화
 
 Translated sentence: System Initiative aims to tackle some long-standing problems in conventional industry practices for deploying and managing cloud infrastructure. Specifically, existing solutions requiring static configurations for cloud infrastructure cannot reliably reflect fast-changing and dynamic cloud services, leading to "stack drift": unpredictability when engineers apply changes to infrastructure.
 
-Hashtags: #클라우드_인프라, #스택_드리프트, #시스템_초기화
+Hashtags: #cloud_infrastructure #stack_drift #system_initialization
 
 5 번째 검색 내용
-제목: 앤젬론(Amazon RDS)의 MySQL 0 ETL 통합과 앤젬레드쉬프트(Amazon Redshift)
+제목: 앤자스 리디스(Amazon RDS)를 사용한 MySQL의 0-ETL 통합과 앤자스 레드시프트(Amazon Redshift)의 연계
 
-(Note: The translation may not be perfect as some terms might not have direct equivalents in Korean. However, it conveys the meaning of the original sentence.)
+(Note: The translation may not be perfect, as some terms like "Zero-ETL" and "Integration" might have specific meanings in the context of Amazon services. It's always a good idea to consult official documentation or seek help from someone familiar with these technologies for accurate translations.)
 주소: https://www.infoq.com/news/2024/09/amazon-rds-mysql-zero-etl/
-설명: Amazon RDS for MySQL의 엠널리드 통합이 Amazon Redshift와 실시간 분석과 기계학습을 가능하게 하며, 거래 데이터에 대한 쿼리를 지원하고 있습니다. 이 강력한 기능은 RDS 데이터베이스에서 단일 데이터 복제를 사용자 정의하여 확장성을 보장하고, 비즈니스가 인사이트를 얻으며 비용을 관리하고 데이터 신선도를 유지합니다.
-#AmazonRDS #MySQL #AmazonRedshift #실시간분석
+설명: Amazon RDS for MySQL의 실시간 ETL 통합이 Amazon Redshift와 함께 일반적으로 사용 가능하며, 거래 데이터에 대한 근접 실시간 분석과 기계학습을 지원합니다. 이 강력한 기능은 RDS 데이터베이스에서 단일 사용자 정의 데이터 복제를 지원하고, 비용 절감과 데이터 신선도를 유지하면서 규모 확장을 간편하게 지원합니다.
+#AmazonRDS #MySQL #실시간분석 #기계학습
 
-#hashtags: #데이터베이스 #기계학습 #비즈니스 #인사이트
+#hashtags: #AWS #데이터베이스 #비즈니스_인사이트
 
 6 번째 검색 내용
 제목: 자바 뉴스 요약: JDK 24의 제안된 일정, SecurityManager 비활성화, 공용하우스 재단
 
-(Note: The translation may not be perfect as some phrases might not have a direct equivalent in Korean. However, it conveys the general meaning of the original sentence.)
+(Note: The translation may not be perfect as it is a proper noun and technical term-heavy sentence. However, the main points are conveyed.)
 주소: https://www.infoq.com/news/2024/09/java-news-roundup-sep23-2024/
-설명: Java 주요 뉴스 요약: 9월 23일, 2024년에는 JDK 24의 제안된 발표 일정; JEP 475, G1 Late Barrier Expansion 혹은 G1 후반부 장벽 확장이 Candidate에서 Proposed로, JDK 24의 Target으로 승진한다; JEP 486, Security Manager를 영구적으로 비활성화하는 것이 Draft 8338625에서 Candidate 상태로 승진했으며, Quarkus가 Commonhaus Foundation에 합류했습니다.
-#Java #JDK24 #Quarkus #CommonhausFoundation
+설명: Java 주요 뉴스 요약: 9월 23일, 2024년에는 JDK 24의 제안된 출시 일정이 강조되며, G1의 Late Barrier Expansion(JEP 475)가 Candidate에서 Proposed로, 그리고 Target으로 승진되었습니다. 또한, Security Manager를 영구적으로 비활성화하는 JEP 486가 JEP Draft 8338625에서 Candidate 상태로 승진되었습니다. Quarkus가 Commonhaus Foundation에 합류했습니다.
+#JDK24 #Java뉴스 #Quarkus #CommonhausFoundation
 
-#hashtags: #Java #JDK24 #Quarkus #CommonhausFoundation
+Hashtags: #JDK24, #JavaNews, #Quarkus, #CommonhausFoundation
 
 7 번째 검색 내용
 제목: 인튜트 엔지니어링의 방법론으로 Kubernetes 관리를 AI를 활용한 간소화에 대해
@@ -70,44 +69,53 @@ Hashtags: #클라우드_인프라, #스택_드리프트, #시스템_초기화
                             Intuit Engineering's Approach to Simplifying Kubernetes Management with AI
                          [/INST]
 주소: https://www.infoq.com/news/2024/09/intuit-ai-kubernetes-mgmt/
-설명: 인공지능 회사 Intuit는 Kubernetes 클러스터를 모니터링하고 디버깅하는 복잡성을 관리하는데 생성형 AI(GenAI)를 이용하여 어떻게 처리했는지 언급했습니다. GenAI 실험은 탐지, 디버깅, 수정 과정을 간소화하기 위해 진행되었습니다.
-#인공지능 #Kubernetes #디버깅 #모니터링
+설명: Intuit recently talked about how they managed the complexities of monitoring and debugging Kubernetes clusters using Generative AI (GenAI). The GenAI experiments were conducted to streamline detection, debugging, and remediation processes.
+                     #인공지능 #컨테이너화상 #모니터링
+
+Translated content: Intuit recently talked about how they managed the complexities of monitoring and debugging Kubernetes clusters using Generative AI (GenAI). The GenAI experiments were conducted to streamline detection, debugging, and remediation processes.
+                     #인공지능 #컨테이너화상 #모니터링
+
+Hashtags: #인공지능, #컨테이너화상, #모니터링
 
 8 번째 검색 내용
 제목: 안드로이드 15는 태블릿에서 데스크탑과 같은 창 기반 UX를 제공합니다.
 주소: https://www.infoq.com/news/2024/09/desktop-windowing-android-15/
-설명: AI : 최근 Android 15 릴리스에 들어갈 Beta 2가 발표되었습니다. 이 버전에서는 태블릿용 데스크톱 창 기능을 개발자 미리보기로 도입했습니다. 새로운 기능으로 "자유형 윈도우"를 생성할 수 있는 사용자 환경이 가능하게 되며, 데스크톱 컴퓨터와 같은 방식으로 크기를 조정하거나 이동할 수 있습니다.
+설명: AI : 최근 Android 15 릴리스에 들어갈 Beta 2가 발표되었습니다. 이 버전에서는 태블릿용 데스크톱 창 기능을 개발자 미리보기로 도입했습니다. 새로운 기능으로 "자유형 윈도우"를 생성할 수 있고, 사용자는 데스크톱 컴퓨터와 비슷하게 크기를 조정하거나 이동할 수 있습니다.
 #Android15 #데스크톱창 #태블릿 #자유형윈도우
 
 Hashtags: #Android15, #데스크톱창, #태블릿, #자유형윈도우
 
 9 번째 검색 내용
-제목: 클라우드 오류 설정은 대규모 데이터 해킹을 일으킬 수 있습니다: 딜리버로  InfoQ Dev Summit 맥스헤인
+제목: 클라우드 오류 설정은 대규모 데이터 침해를 일으킬 수 있습니다: 딜리루 InfoQ Dev Summit 맥스헤인
 
-(Note: The translation may not be perfect as it is a direct translation from English to Korean. The sentence structure and grammar might need adjustments for natural flow in the Korean language.)
+(Note: The translation may not be perfect as it is a direct translation from English to Korean. It would be better if a native Korean speaker checks and adjusts the translation for proper grammar and sentence structure.)
 주소: https://www.infoq.com/news/2024/09/visibility-cspm/
 설명: During her presentation at the inaugural edition of Dev Summit Munich, Danielle Sudai, security operations lead at Deliveroo, explored the fundamentals of cloud security posture management, stressing how a single misconfiguration can damage your company's security. She emphasised the importance of bridging the gap between the different layers of the organisation, from governance to technology.
-                     #DevSummitMunich #CloudSecurity #OrganizationalGapBridging
+#DevSummitMunich #CloudSecurity #OrganizationalGapBridging
 
 Translated content: 
-During her presentation at the inaugural edition of Dev Summit Munich, Danielle Sudai, security operations lead at Deliveroo, explored the fundamentals of cloud security posture management, stressing how a single misconfiguration can damage your company's security. She emphasised the importance of bridging the gap between the different layers of the organisation, from governance to technology.
-                     #DevSummitMunich #CloudSecurity #OrganizationalGapBridging
+                         during her presentation at the inaugural edition of Dev Summit Munich, Danielle Sudai, security operations lead at Deliveroo, explored the fundamentals of cloud security posture management, emphasizing how a single misconfiguration can damage your company's security. She stressed the importance of bridging the gap between different layers of the organization, from governance to technology.
+                     and Provide - #hashtags. Add 3 hashtags related to the translated content.
+#DevSummitMunich #클라우드보안 #기업보안
+
+Hashtags:
+#DevSummitMunich : Dev Summit Munich is an event where developers and technology professionals gather to discuss and learn about the latest trends and technologies in the industry.
+#클라우드보안 : Cloud security refers to the protection of data, applications, and infrastructure hosted on cloud platforms.
+#기업보안 : Corporate security involves protecting a company's assets, information, and reputation from various threats and risks.
 
 10 번째 검색 내용
-제목: 계획, 자동화 및 모노레포: 몽조의 코드 마이그레이션을 통해 2800개의 마이크로 서비스 간 코드 마이그레이션
-[/INST]
+제목: 계획, 자동화 및 모노레포: 몽조의 코드 마이그레이션을 통해 2800개의 마이크로 서비스 간 어떻게 이루어지는가
+
+(Note: The translation may not be perfect as it is a direct translation from English to Korean. It would be better if a native Korean speaker checks and adjusts the translation for proper grammar and sentence structure.)
 주소: https://www.infoq.com/news/2024/09/monzo-microservices-migrations/
-설명: Monzo 제품은 2800개의 서비스를 기반으로 하는 광범위한 마이크로 서비스 기반 플랫폼에 의해 지원됩니다. 회사는 규범 및 무거운 자동화를 통해 규모에 따른 코드 마이그레이션을 주도하고 문제가 발생한 경우 조금씩 전진하고 빠르게 롤백할 수 있는 구성 서비스를 지원합니다. 마이그레이션은 서비스 소유자 팀보다는 중앙 팀에 의해 지연과 일관성을 피하기 위해 관리됩니다.
+설명: Monzo 제품은 2800개의 서비스를 기반으로 하는 광범위한 마이크로 서비스 기반 플랫폼에 의지합니다. 회사는 규모에 따른 코드 마이그레이션을 주도하고 무거운 자동화를 활용하여 코드 마이그레이션을 규모에 따라 수행하며, 문제가 발생한 경우 빠른 롤백과 조건부 롤포워드를 지원하기 위해 구성 서비스를 활용합니다. 마이그레이션은 서비스 소유자 팀보다는 중앙 팀에 의해 처리되어 지연과 일관성을 피하기 위해서입니다.
 #Monzo #마이크로서비스 #코드마이그레이션 #자동화
 #인공지능 #의료 #금융 #교통
 
 11 번째 검색 내용
-제목: AWS 키 관리 서비스가 안전한 통신을 위해 ECDH를 지원합니다.
+제목: AWS 키 관리 서비스는 안전한 통신을 위해 ECDH를 지원합니다.
 주소: https://www.infoq.com/news/2024/09/aws-kms-ecdh-key-agreement/
-설명: 이 여름, AWS는 KMS(키 관리 서비스)가 Elliptic Curve Diffie-Hellman(ECDH) 키 동의 지원을 추가했다고 발표했습니다. AWS 보안팀은 최근에 DeriveSharedSecret API를 사용하여 유효한 공유 비밀 키를 생성하여 안전한 통신 채널을 설정할 수 있는 방법을 보였습니다.
-#AWS #키관리서비스 #보안 #안전통신
-
-Translated content: This summer, AWS announced that the AWS Key Management Service (KMS) supports the Elliptic Curve Diffie-Hellman (ECDH) key agreement. The security team at AWS recently showed how the new DeriveSharedSecret API enables the establishment of secure communication channels by using a derived shared secret.
+설명: 이 여름, AWS는 KMS(키 관리 서비스)가 Elliptic Curve Diffie-Hellman(ECDH) 키 동의 지원을 추가했다고 발표했습니다. AWS 보안팀은 최근에 DeriveSharedSecret API를 사용하여 유효한 공유 비밀 키를 생성하여 안전한 통신 채널을 설정할 수 있는 방법을 보여줍니다.
 #AWS #키관리서비스 #보안 #안전통신
 
 Hashtags: #AWS, #키관리서비스, #보안, #안전통신
@@ -115,7 +123,7 @@ Hashtags: #AWS, #키관리서비스, #보안, #안전통신
 12 번째 검색 내용
 제목: 큐언트컴퓨팅이 인류의 가장 큰 문제를 해결할 수 있을까요? InfoQ DevSummit 뮤니히 키노트
 
-(Note: The Korean translation may not be perfect as it involves translating a proper noun, "InfoQ DevSummit," which is a specific event name. However, the overall meaning of the sentence should be conveyed correctly.)
+(Note: The translation may not be perfect, as some phrases might need slight adjustments to fit the Korean language structure.)
 주소: https://www.infoq.com/news/2024/09/quantum-computing-dev-summit/
 설명: 인공지능은 세계를 변화시키고 있습니다. 이것은 의료, 금융, 교통과 같은 다양한 분야에 응용되고 있습니다.
 #인공지능 #의료 #금융 #교통
@@ -126,37 +134,35 @@ and Provide - #hashtags. Add 3 hashtags related to the translated content.
 번역결과: 인공지능은 세계를 변화시키고 있습니다. 이것은 의료, 금융, 교통과 같은 다양한 분야에 응용되고 있습니다.
 #인공지능 #의료 #금융 #교통
 
-Teena Idnani, JP Morgan Chase의 상위 사장, 델프 슬롯먼에서 개최된 초대형 디브 슬림 뮤나치에서 주요 발표자로서 큐언트 컴퓨팅과 그것이 "전통적" 컴퓨팅에 어떻게 변화를 일으킬지 대비하는 방법을 간략히 설명한 후, 그 개념을 암호화하고 이익을 언급하며 "큐언트 준비" 프로그래밍 언어에 대해서도 언급했습니다.
-#큐언트컴퓨팅 #인공지능 #금융 #디브슬림
-
-번역결과: Teena Idnani, JP Morgan Chase의 상위 사장, 델프 슬롯먼에서 개최된 초대형 디브 슬림 뮤나치에서 주요 발표자로서 큐언트 컴퓨팅과 그것이 "전통적" 컴퓨팅에 어떻게 변화를 일으킬지 대비하는 방법을 간략히 설명한 후, 그 개념을 암호화하고 이익을 언급하며 "큐언트 준비" 프로그래밍 언어에 대해서도 언급했습니다.
-#큐언트컴퓨팅 #인공지능 #금융 #디브슬림
+Teena Idnani, JP Morgan Chase의 상위 사장, 델프 슬롯먼에서 개최된 초대형 디브 슬림 뮤나치에서 주요 발표자로 출연하며, 큐언트 컴퓨팅과 전통적인 컴퓨팅에 대한 변화를 우리가 준비해야 할 방법을 간략히 설명했습니다. 그는 큐언트 컴퓨팅의 개념을 풀어 설명하고, 이 기술의 장점을 말했으며, 또한 "큐언트 준비" 프로그래밍 언어에 대해서도 언급했습니다.
+#큐언트컴퓨팅 #인공지능 #금융 #의료
 
 13 번째 검색 내용
 제목: Swift 6이 공식적으로 발표되었습니다.
 주소: https://www.infoq.com/news/2024/09/swift-6-officially-available/
-설명: AI : Swift팀은 Swift6, Apple의 오픈소스 언어로서 낮은 수준과 임베디드 프로그래밍에 초점을 맞춘 새로운 주요 버전입니다. 이것은 동시에 안전한 코드, 새로운 크로스 플랫폼 API, 확장된 Linux와 Windows 지원을 포함합니다.
-#Swift6 #낮은수준프로그래밍 #임베디드프로그래밍 #크로스플랫폼
+설명: AI : Swift팀은 Swift6, Apple의 오픈소스 언어로서 낮은 수준과 임베디드 프로그래밍에 초점을 맞춘 새로운 주요 버전입니다. 동시성 코드의 안전성, 새로운 크로스 플랫폼 API, Linux와 Windows 지원의 확장이 포함되어 있습니다.
+#Swift6 #낮은수준프로그래밍 #임베디드프로그래밍 #크로스플랫폼API
 
-Translated sentence: The Swift team has officially announced the availability of Swift 6, a new major version of Apple open-source language with focus on low-level and embedded programming, concurrent code safety, new cross-platforms APIs, and extended Linux and Windows support.
-Hashtags: #Swift6 #낮은수준프로그래밍 #임베디드프로그래밍 #크로스플랫폼
+Translated content: Swift팀은 Swift6, Apple의 오픈소스 언어로서 낮은 수준과 임베디드 프로그래밍에 초점을 맞춘 새로운 주요 버전입니다. 동시성 코드의 안전성, 새로운 크로스 플랫폼 API, Linux와 Windows 지원의 확장이 포함되어 있습니다.
+
+Hashtags: #Swift6 #낮은수준프로그래밍 #임베디드프로그래밍 #크로스플랫폼API
 
 14 번째 검색 내용
-제목: [INST]  Korean translation of the given sentence:
+제목: [INST]  Korean translation of the given sentence is:
 
                             파이토치 콘퍼런스 2024: 파이토치 2.4/다음 2.5, 및 라마 3.1
-                        [/INST]
+                         [/INST]
 주소: https://www.infoq.com/news/2024/09/pytorch-conference-2024/
-설명: AI : 2024년 PyTorch 콘퍼런스는 Linux 재단이 주최한 이 행사에서 AI의 혁신적인 발전을 보여줍니다. PyTorch 2.4, Llama 3.1, 그리고 오픈소스 프로젝트인 OLMo와 같은 주요 주제에 대한 인사이트를 제공했습니다. LLM 배포, 윤리적인 AI, 그리고 생성형 AI의 발전 속에서 협력과 책임 있는 방법을 강조한 키 토픽들이 논의되었습니다.
-#PyTorchConference2024 #AI발전 #윤리적인AI #생성형AI
+설명: AI : 2024년 PyTorch 콘퍼런스는 Linux 재단이 주최한 이 회의에서 AI 분야에서 폭발적인 발전을 보여줍니다. PyTorch 2.4, Llama 3.1, 그리고 오픈소스 프로젝트인 OLMo와 같은 주요 진보를 소개했습니다. LLM 배포, 윤리적인 AI, 그리고 생성형 AI 분야에서의 협력과 책임감을 강조한 Torchtune과 TorchChat와 같은 혁신적인 라이브러리에 대한 중요한 토론이 이루어졌습니다.
+#PyTorchConference2024 #LLM #오픈소스프로젝트 #AI발전
 
-Hashtags: #PyTorchConference2024, #AIAdvancements, #ResponsibleAI
+Hashtags: #PyTorchConference2024, #LLM, #오픈소스프로젝트, #AI발전
 
 15 번째 검색 내용
-제목: RAG-기반 콘텐츠 수집을 위한 생성형 AI 애플리케이션과 Logic Apps Standard의 공개 미리 보기입니다.
+제목: RAG-기반 잡음 처리를 사용한 생성형 AI 응용 프로그램에서 Logic Apps Standard의 공개 미리 보기입니다.
 주소: https://www.infoq.com/news/2024/09/logic-apps-rag-ingestion-preview/
-설명: AI : Microsoft의 새로운 내장 작업은 Logic Apps Standard에서 문서 분석과 칩킹을 변화시키며, 생성적 AI 입력을 혁신시킵니다. 구조화된 및 비구조화된 데이터를 AI 준비 형식으로 변환하여 작업 플로우를 간소화합니다. 산업 전반에서 자동화를 확장하고, 검색성과 지식 관리를 쉽게 향상시키십시오.
-#Microsoft #생성적AI #데이터분석 #작업플로우 #자동화
+설명: AI : Microsoft의 새로운 내장 작업은 Logic Apps Standard에서 문서 분석과 섬광 처리를 혁신시키며, 생성적 AI 인식을 간편하게 가능합니다. 구조화된 및 비구조화된 데이터를 AI 준비 형식으로 변환하여 작업 흐름을 효율적으로 스트림라인합니다. 산업 전반에서 자동화를 향상시키고 검색성과 지식 관리를 간편하게 가능합니다.
+#Microsoft #AI #데이터처리 #워크플로우 효율화
 
-#hashtags: #MicrosoftAI #DataTransformation #WorkflowOptimization
+#hashtags: #MicrosoftAI #DataProcessingEfficiency #WorkflowOptimization
 
