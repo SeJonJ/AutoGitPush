@@ -1,0 +1,140 @@
+1 번째 검색 내용
+제목: [INST] 미트프록시 1.1 릴리즈: 전체 HTTP/3 지원 및 DNS 향상
+[/INST]
+주소: https://www.infoq.com/news/2024/10/mitmproxy-11-released/
+설명: Mitmproxy released version 11, introducing some upgrades, including full support for HTTP/3 in both transparent and reverse proxy modes. Alongside the HTTP/3 advancements, this release brings a range of DNS-related improvements, enhanced privacy features, and better handling of modern web protocols.
+                     #mitmproxy #HTTP3 #프록시 #웹프로토콜
+
+Translated content: 
+Mitmproxy는 11버전을 릴리스하며, HTTP/3의 완전한 지원을 모든 투명하고 역방향 프록시 모드에서 포함하고 있습니다. HTTP/3 진보와 동시에 이 릴리스는 DNS 관련 개선, 개인정보 보호 기능 향상, 현대적인 웹 프로토콜을 더 잘 처리하고 있습니다.
+#mitmproxy #HTTP3 #프록시 #웹프로토콜
+
+2 번째 검색 내용
+제목: 밸키 8.0가 개선된 메모리 효율성으로 GA되었습니다.
+주소: https://www.infoq.com/news/2024/10/valkey-80-memory-efficiency/
+설명: AI : 리눅스 재단은 Redis의 후계자로 개발된 오픈소스 인메모리 저장 솔루션인 Valkey 8.0의 일반 사용 가능성을 발표했습니다. 개발자들은 슬롯당 사전을 소개하고 키를 직접 사전 항목에 임베딩하여 노드당 추가 키의 저장을 20% 이상 증가시킬 수 있습니다.
+#Valkey #인메모리저장솔루션 #오픈소스 #리눅스재단
+
+Hashtags: #Valkey, #인메모리저장솔루션, #오픈소스, #리눅스재단
+
+3 번째 검색 내용
+제목: 마이크로소프트는 고성능 작업을 위한 Azure FXv2-Series VMs의 공개 미리 보기를 출시합니다.
+주소: https://www.infoq.com/news/2024/10/azure-fxv2-series-vms/
+설명: Microsoft는 새로운 Azure FXv2-series Virtual Machines의 공개 미리 보기를 출시했습니다. 이것은 고성능과 계산 집중 작업에 적합한 것으로, 최신 5세대 Intel Xeon Platinum 8573C 프로세서를 사용합니다. FXv2-series는 두 모델을 포함하고 있으며, 이들은 FXv1-series에 비해 크게 개선되었습니다.
+#Azure #VirtualMachines #HighPerformanceComputing
+
+#hashtags:
+1. #Azure
+2. #VirtualMachines
+3. #HighPerformanceComputing
+
+4 번째 검색 내용
+제목: 컴파일러 익스플로러는 저수준 Android 앱 최적화에 대한 인사이트를 제공합니다.
+주소: https://www.infoq.com/news/2024/10/compiler-explorer-android/
+설명: Android 개발자들은 Google에서 Java와 Kotlin 프로그래밍 언어를 지원하는 Compiler Explorer, 컴파일러가 실시간으로 작동하는 열람 가능한 도구를 개발했습니다. Compiler Explorer를 사용하면 Android 개발자들은 앱의 성능을 최적화할 수 있습니다. 이를 위해 컴파일러가 실제로 작동하는 방식을 관찰하고, 사전에 정의된 최선의 방법보다는 더 나은 결과를 얻을 수 있습니다.
+#Android #CompilerExplorer #JavaKotlin
+
+#hashtags: #AndroidDevelopment #ProgrammingLanguages #PerformanceOptimization
+
+5 번째 검색 내용
+제목: 마이크로소프트는 Dev Proxy v0.21을 출시합니다: 새로운 기능으로 API 테스트와 개발 효율성이 향상됩니다.
+주소: https://www.infoq.com/news/2024/10/microsoft-dev-proxy-0-21/
+설명: Microsoft는 Dev Proxy v0.21 발표를 통해 API 키와 OAuth2를 사용하여 인증 및 권한 부여를 시뮬레이션할 수 있는 몇 가지 중요한 기능을 소개했습니다. 또한 JWT 토큰 테스트에 용이하게 빠르게 생성할 수 있는 기능, Dev Proxy의 새로운 버전, 그리고 기타 개선 사항이 포함되었습니다.
+#DevProxy #API키 #OAuth2
+
+#hashtags: #인공지능 #의료 #금융 #교통
+
+6 번째 검색 내용
+제목: [INST] 소프트웨어 팀 성능 개선을 위한 실험 방법 [/INST]
+주소: https://www.infoq.com/news/2024/10/software-team-experimentation/
+설명: 인공지능은 세계를 변화시키고 있습니다. 이것은 의료, 금융, 교통과 같은 다양한 분야에 응용되고 있습니다.
+#인공지능 #의료 #금육 #교통
+
+따뜻한 아호 대로, 실험은 행동을 안내하는 사고방식입니다. 실험을 통해 주요 변경 프로세스 없이 작업 방법을 개발할 수 있습니다. 소프트웨어 팀에게 문제를 작은 단계로 해결하고, 그들의 작업량을 줄여주며, 자기관리를 장려할 수 있습니다.
+#실험 #소프트웨어팀 #자기관리 #작은단계로해결
+
+7 번째 검색 내용
+제목: 구글이 목소리 복원용 AI 개발
+
+(Note: The translation may not be perfect as it is a direct translation. In Korean, the subject and verb often come at the end of the sentence. Also, the word "Develops" can be translated to "개발" or "개발중인" depending on the context.)
+주소: https://www.infoq.com/news/2024/10/google-voice-transfer-ai/
+설명: AI : 구글 연구팀은 특정 사람의 목소리를 사용하여 텍스트-발음(TTS)을 사용자 지정할 수 있는 제로샷 목소리 전송(VT) 모델을 개발했습니다. 이를 통해 예를 들어 박인슨 질병이나 ALS에 의해 목소리를 잃은 발언자들은 TTS 장치를 사용하여 원래 목소리를 재현할 수 있습니다. 모델은 언어에도 적용됩니다.
+#인공지능 #목소리전송 #TTS #박인슨 #ALS
+
+Hashtags: #인공지능, #목소리전송, #TTS, #박인슨, #ALS
+
+8 번째 검색 내용
+제목: AWS 서비스 종료, 포함 중인 서비스: AWS App Mesh와 Amazon FSx 파일 게이트웨이
+
+(Note: The translation may not be perfect as it is a direct translation. It would be better to have it translated by a professional translator or use a professional translation tool.)
+주소: https://www.infoq.com/news/2024/10/aws-retires-services/
+설명: AWS는 블로그 포스트에서 여러 서비스의 폐지를 예고하였으며, AWS App Mesh와 AWS DeepComposer 등이 포함됩니다. 이 새로운 폐지 웨이브는 여름에 이루어진 이전 폐지들과 유사한 패턴을 따르며, 클라우드 제공자의 오래된 기존 서비스에 대한 약속에서 변화를 나타냅니다.
+#AWS #폐지 #클라우드_서비스
+
+Translated content: AWS has announced the scheduled retirements of several services, including AWS App Mesh and AWS DeepComposer. This new wave of deprecations follows a similar set of retirements earlier in the summer, marking a shift in the cloud provider’s long-standing commitment to existing services.
+#AWS #폐지 #클라우드_서비스
+
+Hashtags: #AWS #폐지 #클라우드_서비스
+
+9 번째 검색 내용
+제목: 시스템 초기화를 통해 클라우드 스택 드리프트를 처리하기 위해 DevOps 플랫폼을 출시합니다.
+주소: https://www.infoq.com/news/2024/09/system-initiative/
+설명: System Initiative는 전통 산업 방식에서의 기존 문제를 해결하기 위한 목표입니다. 특히, 클라우드 인프라에 대한 정적 구성이 필요로 하는 기존 솔루션은 빠르게 변화하고 동적인 클라우드 서비스를 신뢰할 수 없게 되어, "스택 드리프트": 인프라에 변경 사항을 적용할 때 예측이 불가능해지는 문제가 발생합니다.
+
+#클라우드 #인프라 #스택_드리프트
+
+10 번째 검색 내용
+제목: 앤젬론(Amazon RDS)의 MySQL 0 ETL 통합과 앤젬레드쉬프트(Amazon Redshift)
+
+(주의: 이 번역은 인공지능으로 생성되었습니다. 정확한 내용 및 구조를 보장하지는 않습니다.)
+주소: https://www.infoq.com/news/2024/09/amazon-rds-mysql-zero-etl/
+설명: Amazon RDS for MySQL의 엠티엘 없는 Amazon Redshift와의 통합이 일반적으로 사용 가능하게 되었습니다. 이를 통해 거래 데이터에서 근접 실시간 분석과 기계학습을 수행할 수 있습니다. 이 강력한 기능은 RDS 데이터베이스에서 단일 사용자 지정 데이터 복제를 허용하고, 비즈니스가 인사이트를 얻으며 비용을 관리하면서도 데이터의 신선함을 유지합니다.
+#AmazonRDS #MySQL #실시간분석 #기계학습
+
+11 번째 검색 내용
+제목: 자바 뉴스 요약: JDK 24의 제안된 일정, SecurityManager 비활성화, 공용하우스 재단
+
+(Note: The translation may not be perfect as some phrases might not have a direct equivalent in Korean. However, it conveys the main ideas of the original sentence.)
+주소: https://www.infoq.com/news/2024/09/java-news-roundup-sep23-2024/
+설명: Java 주요 뉴스 요약: 9월 23일, 2024년에는 JDK 24의 제안된 출시 일정; JEP 475, G1 Late Barrier Expansion 혹은 G1 후반부 장벽 확장이 Candidate에서 Proposed로, JDK 24에 대상으로 승진; JEP 486, Security Manager를 영구적으로 비활성화하는 것이 Draft 8338625에서 후보 상태로 승진; Quarkus가 Commonhaus Foundation에 합류함.
+
+#Java #JDK24 #Quarkus #CommonhausFoundation
+
+12 번째 검색 내용
+제목: 인튜트 엔지니어링의 방법론으로 Kubernetes 관리를 AI를 활용한 간소화에 대해 설명합니다.
+주소: https://www.infoq.com/news/2024/09/intuit-ai-kubernetes-mgmt/
+설명: 인공지능 회사 Intuit는 Kubernetes 클러스터를 모니터링하고 디버깅하는 데 복잡한 문제를 해결하는 방법을 언급했습니다. 이 작업은 탐지, 디버깅, 및 수정 프로세스를 간소화하기 위해 생성형 AI(GenAI) 실험을 진행했습니다.
+#인공지능 #Kubernetes #디버깅 #모니터링
+
+13 번째 검색 내용
+제목: 안드로이드 15는 태블릿에서 데스크탑과 같은 창 기반 UX를 제공합니다.
+주소: https://www.infoq.com/news/2024/09/desktop-windowing-android-15/
+설명: AI : 최근 Android 15 릴리스에 들어갈 Beta 2가 발표되었습니다. 이 버전에서는 태블릿용 데스크톱 창 기능을 개발자 미리보기로 도입했습니다. 새로운 기능으로 "자유형 윈도우"를 생성할 수 있고, 사용자는 데스크톱 컴퓨터와 같은 방식으로 크기를 조정하거나 이동할 수 있습니다.
+#Android15 #데스크톱창 #태블릿 #자유형윈도우
+
+Hashtags: #Android15, #데스크톱창, #태블릿, #자유형윈도우
+
+14 번째 검색 내용
+제목: 클라우드 오류 설정은 대규모 데이터 해킹을 일으킬 수 있습니다: 딜리버로  InfoQ Dev Summit 맥스헤인
+
+(Note: The translation may not be perfect as it involves translating a sentence with proper nouns and event names. Please check the meaning and context before using this translation.)
+주소: https://www.infoq.com/news/2024/09/visibility-cspm/
+설명: During her presentation at the inaugural edition of Dev Summit Munich, Danielle Sudai, security operations lead at Deliveroo, explored the fundamentals of cloud security posture management, stressing how a single misconfiguration can damage your company's security. She emphasised the importance of bridging the gap between the different layers of the organisation, from governance to technology.
+#인공지능 #데이터보안 #클라우드보안
+
+Translated content: 
+During her presentation at the inaugural edition of Dev Summit Munich, Danielle Sudai, security operations lead at Deliveroo, explored the fundamentals of cloud security posture management, stressing how a single misconfiguration can damage your company's security. She emphasised the importance of bridging the gap between the different layers of the organisation, from governance to technology.
+#인공지능 #데이터보안 #클라우드보안
+
+Hashtags: 
+#인공지능 #데이터보안 #클라우드보안
+
+15 번째 검색 내용
+제목: 계획, 자동화 및 모노레포: 몬조의 코드 마이그레이션을 통해 2800개의 마이크로 서비스 간 어떻게 이루어지는가
+
+(Note: The translation may not be perfect as it is a direct translation from English to Korean. It would be better if a native Korean speaker checks and adjusts the translation for proper grammar and sentence structure.)
+주소: https://www.infoq.com/news/2024/09/monzo-microservices-migrations/
+설명: Monzo 제품은 2800개 이상의 확장성 있는 마이크로서비스 기반 플랫폼에 의해 지원됩니다. 회사는 규범 및 무거운 자동화를 통해 규모에 따른 코드 마이그레이션을 주도하고 문제가 발생한 경우 조건부 서비스를 지원하여 조금씩 전진하고 빠르게 롤백할 수 있는 긴급 상황을 처리합니다. 마이그레이션은 서비스 소유자 팀보다는 중앙 팀에 의해 지연과 일관성 문제를 피하기 위해 관리됩니다.
+#Monzo #마이크로서비스 #코드_마이그레이션 #자동화
+#인공지능 #의료 #금융 #교통
+
