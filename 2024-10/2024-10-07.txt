@@ -1,0 +1,147 @@
+1 번째 검색 내용
+제목: 오픈애이가 GPT-4o를 지원하고 API 개선을 포함한 .NET 라이브러리의 안정적인 버전을 발표합니다.
+주소: https://www.infoq.com/news/2024/10/openai-dotnet-library/
+설명: OpenAI는 6월에 베타 출시된 공식 .NET 라이브러리의 안정적인 버전을 발표했습니다. NuGet 패키지로 사용 가능하며, 최신 모델인 GPT-4o와 GPT-4o mini를 지원하고 있으며, 전체 OpenAI REST API를 지원합니다. 출시에는 동기화(sync)와 비동기(async) API, 스트리밍 채팅 완성, 및 API 일관성을 향상시키기 위한 키 변경 사항이 포함되어 있습니다.
+#인공지능 #OpenAI #.NET #라이브러리
+
+#hashtags: #인공지능, #OpenAI, #.NET, #라이브러리
+
+2 번째 검색 내용
+제목: [INST] 미트프록시 1.1 릴리즈: 전체 HTTP/3 지원 및 DNS 향상 사항
+[/INST]
+주소: https://www.infoq.com/news/2024/10/mitmproxy-11-released/
+설명: Mitmproxy released version 11, introducing some upgrades, including full support for HTTP/3 in both transparent and reverse proxy modes. Alongside the HTTP/3 advancements, this release brings a range of DNS-related improvements, enhanced privacy features, and better handling of modern web protocols.
+#mitmproxy #HTTP3 #프록시 #네트워크
+
+Translated content: 
+Mitmproxy는 11 버전을 발표하며, HTTP/3의 전체 지원을 모든 투명한 및 역방향 프록시 모드에서 포함한 몇 가지 업그레이드를 소개했습니다. HTTP/3 진보와 동시에 이 릴리즈는 DNS 관련 개선, 개인정보 보호 기능의 향상, 현대적인 웹 프로토콜을 더 잘 처리하는 데 도움이 됩니다.
+#mitmproxy #HTTP3 #프록시 #네트워크
+
+Hashtags: #mitmproxy, #HTTP3, #프록시, #네트워크
+
+3 번째 검색 내용
+제목: 밸키 8.0가 개선된 메모리 효율성으로 GA되었습니다.
+주소: https://www.infoq.com/news/2024/10/valkey-80-memory-efficiency/
+설명: AI : Linux 재단은 Redis의 후계자로 개발된 오픈소스 인메모리 저장 솔루션인 Valkey 8.0의 일반 사용 가능성을 발표했습니다. 딕셔너리를 슬롯당 하나씩 소개하고 키를 직접 딕셔너리 항목에 임베딩하여, 개발자들은 노드당 추가 키의 저장을 허용하는데 최대 20% 더 많은 용량을 달성할 수 있습니다.
+#Linux재단 #Valkey8.0 #인메모리저장솔루션
+
+Hashtags: #오픈소스 #데이터베이스 #저장소 #Redis의후계자 #Linux재단발표 #Valkey8.0일반사용가능성 #인메모리저장솔루션 #딕셔너리 #키임베딩 #노드당추가키저장 #최대20% 더 많은 용량 #데이터베이스 성능 향상 #개발자들에게 도움이 되는 기술
+
+4 번째 검색 내용
+제목: 마이크로소프트는 고성능 작업에 적합한 Azure FXv2-Series VMs의 공개 미리 보기를 출시합니다.
+주소: https://www.infoq.com/news/2024/10/azure-fxv2-series-vms/
+설명: Microsoft는 새로운 Azure FXv2-series Virtual Machines의 공개 미리 보기를 출시했습니다. 이것은 고성능과 계산 집중 작업에 적합한 것으로, 최신 5세대 Intel Xeon Platinum 8573C 프로세서를 사용합니다. FXv2-series는 두 모델을 포함하고 있으며, 이들은 FXv1-series에 비해 크게 개선되었습니다.
+#Azure #FXv2-series #VirtualMachines #Microsoft
+
+#hashtags:
+1. #Azure
+2. #FXv2-series
+3. #VirtualMachines
+
+5 번째 검색 내용
+제목: 컴파일러 익스플로러는 낮은 수준의 Android 앱 최적화에 대한 인사이트를 제공합니다.
+주소: https://www.infoq.com/news/2024/10/compiler-explorer-android/
+설명: Android 엔지니어들은 Google에서 Java와 Kotlin 프로그래밍 언어를 지원하는 Compiler Explorer, 컴파일러가 실시간으로 작동하는 개방형 소스 도구로 추가되었습니다. Compiler Explorer를 사용하면 Android 엔지니어들은 앱의 성능을 최적화하기 위해 컴파일러가 실제로 작동하는 방식을 관찰하고, 이전에 정의된 베스트 프라텍티스를 사용하지 않아도 됩니다.
+#Android #CompilerExplorer #Kotlin
+
+#hashtags: #AndroidEngineering #JavaProgramming #RealTimeCompilation
+
+6 번째 검색 내용
+제목: 마이크로소프트는 Dev Proxy v0.21을 출시합니다: 새로운 기능으로 API 테스트와 개발 효율성이 향상됩니다.
+주소: https://www.infoq.com/news/2024/10/microsoft-dev-proxy-0-21/
+설명: Microsoft는 Dev Proxy v0.21 발표를 통해 API 키와 OAuth2를 사용하여 인증 및 권한 부여를 시뮬레이션할 수 있는 몇 가지 중요한 기능을 소개했습니다. 또한 JWT 토큰 테스트에 용이하게 빠르게 생성할 수 있는 기능, Dev Proxy의 새로운 버전 및 기타 개선 사항이 포함되었습니다.
+#DevProxy #API키 #OAuth2
+
+#hashtags: #인공지능 #의료 #금융 #교통
+
+7 번째 검색 내용
+제목: [INST] 소프트웨어 팀 성능 개선을 위한 실험 방법 [/INST]
+주소: https://www.infoq.com/news/2024/10/software-team-experimentation/
+설명: 인공지능은 세계를 변화시키고 있습니다. 이것은 의료, 금융, 교통과 같은 다양한 분야에 응용되고 있습니다.
+#인공지능 #의료 #금육 #교통
+
+따뜻한 아호 대로, 실험은 행동을 안내하는 사고방식입니다. 실험을 통해 주요 변경 프로세스 없이 작업 방법을 개발할 수 있습니다. 소프트웨어 팀에게 문제를 작은 단계로 해결하고, 그들의 작업량을 줄여주며, 자기관리를 장려할 수 있습니다.
+#실험 #소프트웨어 #팀워크 #자기관리
+
+8 번째 검색 내용
+제목: 구글이 목소리 복원을 위한 음성 전송 AI 개발
+
+(Note: The translation may not be perfect as it is a direct translation from English to Korean. It would be better if a native Korean speaker checks and adjusts the translation for proper grammar and sentence structure.)
+주소: https://www.infoq.com/news/2024/10/google-voice-transfer-ai/
+설명: AI : 구글 연구팀은 특정 사람의 목소리를 사용하여 텍스트-발음(TTS)을 사용자 지정할 수 있는 제로샷 목소리 전송(VT) 모델을 개발했습니다. 이를 통해 예를 들어 박인슨 질환이나 ALS와 같은 질병으로 목소리를 잃은 발언자들은 TTS 장치를 사용하여 원래의 목소리를 재현할 수 있습니다. 모델은 언어에도 적용됩니다.
+#인공지능 #목소리전송 #TTS #박인슨질환 #ALS
+
+Hashtags: #인공지능, #목소리전송, #TTS, #박인슨질환, #ALS
+
+9 번째 검색 내용
+제목: AWS 서비스 종료, 포함 중인 서비스: AWS App Mesh와 Amazon FSx 파일 게이트웨이
+
+(Note: The translation may not be perfect due to the specific terminology used in the original sentence. However, it conveys the general meaning of the sentence.)
+주소: https://www.infoq.com/news/2024/10/aws-retires-services/
+설명: AWS는 블로그 포스트에서 여러 서비스의 휴대를 예고하였으며, AWS App Mesh와 AWS DeepComposer 등이 그 중에 있습니다. 이 새로운 휴대 웨이브는 여름에 이루어진 비슷한 서비스 휴대의 변화를 따라 AWS 클라우드 제공업체의 오래된 기존 서비스에 대한 약속을 바꾸는 것으로 해석됩니다.
+#AWS #클라우드 #서비스_휴대
+
+#hashtags:
+1. #AWS
+2. #클라우드
+3. #서비스_휴대
+
+10 번째 검색 내용
+제목: 시스템 초기화를 통해 DevOps 플랫폼을 출시하여 클라우드 스택 드리프트 문제 해결
+
+(Note: The translation may not be perfect as it is a machine translation. Please review and make necessary adjustments if needed.)
+주소: https://www.infoq.com/news/2024/09/system-initiative/
+설명: System Initiative는 전통 산업 실무에서 사용되는 일부 기본적인 문제를 해결하려고 합니다. 특히, 클라우드 인프라에 대한 정적 구성을 요구하는 현재 솔루션은 빠르게 변화하고 동적인 클라우드 서비스를 신뢰할 수 없게 됩니다. 이로 인해 "스택 드리프트"가 발생합니다: 인프라에 변경 사항을 적용할 때 예측하기 어려워집니다.
+#클라우드_인프라 #스택_드리프트 #시스템_초기화
+
+Translated sentence: System Initiative aims to tackle some long-standing problems in conventional industry practices for deploying and managing cloud infrastructure. Specifically, existing solutions requiring static configurations for cloud infrastructure cannot reliably reflect fast-changing and dynamic cloud services, leading to "stack drift": unpredictability when engineers apply changes to infrastructure.
+
+Hashtags: #클라우드_인프라 #스택_드리프트 #시스템_초기화
+
+11 번째 검색 내용
+제목: 앤자스 레드시프트와의 0-ETL 통합을 위한 아마존 RDS를 위한 MySQL
+
+(Note: The translation may not be perfect as it is a technical term. Please confirm the accuracy with a native Korean speaker if necessary.)
+주소: https://www.infoq.com/news/2024/09/amazon-rds-mysql-zero-etl/
+설명: Amazon RDS for MySQL의 실시간 통합 기능이 Amazon Redshift와 함께 일반적으로 사용 가능하며, 거래 데이터에 대한 근접 실시간 분석과 머신러닝을 지원합니다. 이 강력한 기능은 RDS 데이터베이스에서 단일 사용자 정의 데이터 복제를 허용하고, 비즈니스가 인사이트를 얻으며 비용을 관리하면서도 데이터 신선도를 유지하는 스케일링을 간편하게 지원합니다.
+#AmazonRDS #MySQL #실시간분석 #머신러닝
+#비즈니스인사이트 #데이터 신선도 #비용 관리 #스케일링
+
+12 번째 검색 내용
+제목: 자바 뉴스 요약: JDK 24의 제안된 일정, SecurityManager 비활성화, 공용하우스 재단
+
+(Note: The translation may not be perfect as it is a proper noun and technical term. However, the meaning should be clear.)
+주소: https://www.infoq.com/news/2024/09/java-news-roundup-sep23-2024/
+설명: Java 주요 뉴스 요약: 9월 23일, 2024년에는 JDK 24의 제안된 발표 일정이 강조되며, G1의 Late Barrier Expansion(JEP 475)가 Candidate에서 Proposed로, 그리고 Target으로 승진하였습니다. 또한 Security Manager를 영구적으로 비활성화하는 JEP 486가 JEP Draft 8338625에서 Candidate 상태로 승진되었습니다. Quarkus가 Commonhaus Foundation에 합류하는 소식도 강조됩니다.
+#JDK24 #Java뉴스 #Quarkus #CommonhausFoundation
+
+13 번째 검색 내용
+제목: 인튜트 엔지니어링의 방법론으로 Kubernetes 관리를 AI를 활용한 간소화에 대해
+[INST] Translate my sentence into Korean :
+
+                            Intuit Engineering's Approach to Simplifying Kubernetes Management with AI
+                         [/INST]
+주소: https://www.infoq.com/news/2024/09/intuit-ai-kubernetes-mgmt/
+설명: 인공지능 회사 Intuit는 Kubernetes 클러스터를 모니터링하고 디버깅하는 복잡성을 관리하는데 생성형 AI(GenAI)를 이용하여 어떻게 처리했는지 언급했습니다. GenAI 실험은 탐지, 디버깅, 수정 과정을 간소화하기 위해 진행되었습니다.
+#인공지능 #Kubernetes #디버깅 #모니터링
+
+14 번째 검색 내용
+제목: 안드로이드 15는 태블릿에서 데스크탑과 같은 창 기반 UX를 제공합니다.
+주소: https://www.infoq.com/news/2024/09/desktop-windowing-android-15/
+설명: AI : 최근 Android 15 릴리스의 Beta 2에서는 태블릿용 데스크톱 창 기능이 개발자 미리보기로 도입되었습니다. 새로운 기능으로 "자유형 윈도우"를 생성하여 사용자가 데스크탑 컴퓨터와 같은 방식으로 크기를 조정하거나 이동할 수 있는 다양한 앱을 표시할 수 있게 됩니다.
+#Android15 #데스크톱창 #자유형윈도우
+
+Hashtags: #Android15, #데스크톱창, #자유형윈도우
+
+15 번째 검색 내용
+제목: 클라우드 오류 설정은 큰 데이터 해킹을 일으킬 수 있습니다: 딜리버로 InfoQ Dev Summit 맥스허인
+
+(Note: The translation may not be perfect as it involves translating a sentence with proper nouns and event names.)
+주소: https://www.infoq.com/news/2024/09/visibility-cspm/
+설명: During her presentation at the inaugural edition of Dev Summit Munich, Danielle Sudai, security operations lead at Deliveroo, explored the fundamentals of cloud security posture management, stressing how a single misconfiguration can damage your company's security. She emphasised the importance of bridging the gap between the different layers of the organisation, from governance to technology.
+#DevSummitMunich #CloudSecurity #OrganizationalGapBridging
+
+Translated content: 
+                         During her presentation at the inaugural edition of Dev Summit Munich, Danielle Sudai, security operations lead at Deliveroo, explored the fundamentals of cloud security posture management, stressing how a single misconfiguration can damage your company's security. She emphasised the importance of bridging the gap between the different layers of the organisation, from governance to technology.
+#DevSummitMunich #CloudSecurity #OrganizationalGapBridging
+
