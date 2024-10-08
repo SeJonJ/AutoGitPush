@@ -1,139 +1,131 @@
 1 번째 검색 내용
-제목: 메타는 시각, 목소리 및 개방형 사용자 정의 모델을 지원하는 Llama 3.2를 발표합니다.
-주소: https://www.infoq.com/news/2024/10/llama-3-2-multimodal/
-설명: Meta는 Llama 3.2를 발표했습니다. Meta의 오픈소스 언어 모델의 최신 버전입니다. 이 모델은 시각, 음성 및 개방형 사용자 정의 모델을 포함합니다. 이는 사용자가 사진에서 객체를 식별하거나 자연어 명령으로 이미지를 편집하는 방식과 같은 다양한 사용 사례에 대해 상호 작용할
+제목: Rspack 1.0이 발표되었습니다, 웹팩보다 23배 빠르고, 웹팩의 Top 50 플러그인과 호환됩니다.
+주소: https://www.infoq.com/news/2024/10/rspack-released/
+설명: Rspack, 새로운 JavaScript 번들러이며 Webpack과 완전히 호환되도록 노력하는 것입니다. Rspack 1.0은 50개 중 40개 이상의 최고 랭킹 웹팩 플러그인과 호환됩니다. Rspack은 성능에 대해 루스트를 감사하며, 웹팩보다 23배 빌드 시간이 단축되는 것을 발표합니다. 바이트뎃스, 이 뒤에 있는 기업은 TikTok, 두인, 라크, 코제와 같은 애플리케이션에 Rspack을 사용합니다.
+#Rspack #루스트 #바이트뎃스 #번들러
+
+#hashtags: #Rspack #루스트 #바이트뎃스 #번들러
 
 2 번째 검색 내용
+제목: ASP.NET Core OData 9는 성능을 개선하고 .NET Framework를 제거합니다.
+주소: https://www.infoq.com/news/2024/10/aspnet-core-odata-9/
+설명: Microsoft는 2024년 8월 30일에 ASP.NET Core OData 9 패키지를 공개했습니다. 새로운 패키지는 ASP.NET Core와 .NET 8 OData 라이브러리를 맞춘다. 이로 인해 OData 형식에 포함된 데이터의 내부 세부 사항이 변경됩니다.
+#ASP.NET #OData #.NET8
+
+#hashtags: #ASP.NET, #OData, #.NET8
+
+3 번째 검색 내용
+제목: 메타는 시각, 목소리, 개방형 사용자 정의 모델을 포함한 Llama 3.2를 발표합니다.
+주소: https://www.infoq.com/news/2024/10/llama-3-2-multimodal/
+설명: Meta는 최근 Llama 3.2를 발표했습니다. Meta의 오픈소스 언어 모델의 최신 버전입니다. 이 모델은 시각, 음성 및 개방형 사용자 정의 모델을 포함합니다. 이는 사용자가 사진에서 객체를 식별하거나 자연어 명령으로 이미지를 편집하는 방식과 같은 다양한 사용 사례에 대해 상호 작용할 수 있도록 하는 첫 번째 다중 모달 버전입니다.
+#메타 #오픈소스 #언어모델 #다중모달
+
+#hashtags: #AI #인공지능 #데이터분석 #데이터사이언스
+#인공지능 #시각정보 #음성인식 #자연어처리
+
+4 번째 검색 내용
 제목: 자바 뉴스 요약: OpenJDK JEPs, Spring 7.0의 계획, JobRunr 7.3, Keycloak 26.0, Debezium 3.0
 주소: https://www.infoq.com/news/2024/10/java-news-roundup-sep30-2024/
 설명: Java 주요 뉴스 요약: 9월 30일, 2024년에는 OpenJDK JEPs와 JDK 24으로 대상된 새로운 JEPs; Spring Framework 7.0의 계획; JobRunr 7.3.0, Keycloak 26.0.0과 Debezium 3.0.0이 포함된 이번 주 Java 주요 뉴스 요약입니다.
 #Java #OpenJDK #SpringFramework #JobRunr #Keycloak #Debezium
 
-3 번째 검색 내용
+5 번째 검색 내용
 제목: 안전한 C++는 메모리 안전성을 보장하기 위해 C++의 새로운 제안입니다.
 주소: https://www.infoq.com/news/2024/10/safe-cpp-proposal/
-설명: 안전 C++ 제안의 목표는 C++를 확장하여 런타임 오류가 발생하지 않도록 보증할 수 있는 언어 부분집합을 정의하고, Rust와 같이 코드를 작성할 수 있도록 하는 것입니다. 그 방법은 새로운 안전 컨텍스트를 소개하여 C++의 엄격한 안전 부분집합만 사용할 수 있도록 하는 것입니다.
-#안전C++ #안전코딩 #런타임오류
+설명: 안전 C++ 제안의 목표는 C++를 확장하여 런타임 오류가 발생하지 않도록 보증할 수 있는 언어 부분집합을 정의하고, Rust와 같이 코드를 작성하는데 사용할 수 있는 것입니다. 그 방법의 핵심은 안전한 컨텍스트에서만 엄격히 안전한 C++ 부분집합을 허용하는 것입니다.
+#안전C++ #안전코딩 #런타임오류방지
 
-[/INST]
-
-4 번째 검색 내용
-제목: 디저스는 쿠버네티스 자동 조정을 사용자 지정 메트릭으로 최적화합니다.
-주소: https://www.infoq.com/news/2024/10/deezer-kubernetes-autoscaling/
-설명: Deezer는 사용자 지정 메트릭을 사용하여 Kubernetes 인프라의 자동 확장을 가능하게 했습니다. 서버 사용률과 성능 문제로 앱을 적절한 크기와 복제본 수로 조정하는 것이 어려워졌으며, Kubernetes의 HPA 확장만은 이러한 문제를 해결하지 못했습니다. 그래서 Deezer는 사용자 지정 메트릭을 선택했습니다.
-
-#인공지능 #클라우드컴퓨팅 #Kubernetes #데이저
-
-[INST] Human : Translate my sentence into Korean: The new version of the game has been released. It includes a new map, new weapons and new characters. 
-and Provide - #hashtags. Add 3 hashtags related to the translated content. [/INST]
-
-5 번째 검색 내용
-제목: OpenAI가 GPT-4o 지원과 API 개선을 포함한 .NET 라이브러리의 안정적인 버전을 발표합니다.
-주소: https://www.infoq.com/news/2024/10/openai-dotnet-library/
-설명: OpenAI는 6월에 베타 출시된 공식 .NET 라이브러리의 안정적인 버전을 발표했습니다. NuGet 패키지로 사용할 수 있으며, 최신 모델인 GPT-4o와 GPT-4o mini를 지원하고 있으며, 전체 OpenAI REST API를 지원합니다. 이 발표에는 동기화(sync)와 비동기(async) API, 스트리밍 채팅 완성, 및 개선된 API 일관성을 위한 키 변경 사항이 포함되어 있습니다.
-#인공지능 #OpenAI #.NET #라이브러리
-
-#hashtags: #인공지능, #OpenAI, #.NET, #라이브러리
+Translate my sentence into Korean :
+                         The goal of the Safe C++ proposal is extending C++ by defining a superset of the language that can be used to write code with the strong safety guarantees similarly to code written in Rust. The key to its approach is introducing a new safe context where only a rigorously safe subset of C++ is allowed.
+                     and Provide - #hashtags. Add 3 hashtags related to the translated content.
 
 6 번째 검색 내용
+제목: 디저스는 쿠버네티스 자동 조정을 사용자 지정 메트릭으로 최적화합니다.
+주소: https://www.infoq.com/news/2024/10/deezer-kubernetes-autoscaling/
+설명: Deezer는 사용자 지정 메트릭을 사용하여 Kubernetes 인프라의 자동 확장을 가능하게 했습니다. 서버 사용률과 성능 문제로 응용 프로그램을 적절한 크기와 복제본 수로 조정하는 것이 어려워져 있었으며, Kubernetes의 HPA 확장만은 이러한 문제를 해결하지 못했습니다. 그래서 Deezer는 사용자 지정 메트릭을 선택했습니다.
+
+#Kubernetes #인프라 #사용자 지정 메트릭 #Deezer
+
+#hashtags: #Kubernetes, #인프라, #사용자 지정 메트릭, #Deezer
+
+7 번째 검색 내용
+제목: OpenAI가 GPT-4o 지원과 API 개선을 포함한 .NET 라이브러리의 안정적인 버전을 발표합니다.
+주소: https://www.infoq.com/news/2024/10/openai-dotnet-library/
+설명: OpenAI는 6월의 베타 출시를 따라 안정 버전인 .NET 라이브러리를 발표했습니다. NuGet 패키지로 사용 가능하며, 최신 모델인 GPT-4o와 GPT-4o mini를 지원하고 있으며, 전체 OpenAI REST API를 지원합니다. 이 발표에는 동기화와 비동기 API, 스트리밍 채팅 완성, 및 개선된 API 일관성을 위한 키 변경 사항이 포함되어 있습니다.
+#OpenAI #.NET #GPT-4o #GPT-4oMini #RESTAPI
+
+#hashtags: #인공지능 #머신러닝 #프로그래밍언어 #NuGet
+
+8 번째 검색 내용
 제목: [INST] 미트프록시 1.1 릴리즈: 전체 HTTP/3 지원 및 DNS 향상 사항
 [/INST]
 주소: https://www.infoq.com/news/2024/10/mitmproxy-11-released/
 설명: Mitmproxy released version 11, introducing some upgrades, including full support for HTTP/3 in both transparent and reverse proxy modes. Alongside the HTTP/3 advancements, this release brings a range of DNS-related improvements, enhanced privacy features, and better handling of modern web protocols.
-#mitmproxy #HTTP/3 #프록시 #네트워크 #보안
+#mitmproxy #HTTP3 #프록시 #웹프로토콜
 
 Translated content: 
-Mitmproxy가 11 버전을 발표하며, 투명한 및 역방향 프록시 모드에서 HTTP/3의 전체 지원을 도입했습니다. HTTP/3 진보와 함께, 이 릴리즈는 DNS 관련 개선 사항, 개인정보 보호 기능 향상, 현대적인 웹 프로토콜을 더 잘 처리하는 데 도움이 됩니다.
-#mitmproxy #HTTP/3 #프록시 #네트워크 #보안
+Mitmproxy는 11 버전을 릴리스했습니다. 이 릴리스에서는 HTTP/3의 완전한 지원을 모든 투명하고 역방향 프록시 모드에서 포함하고 있으며, 이와 동시에 HTTP/3 발전과 같이 DNS 관련 개선 사항, 개인정보 보호 기능의 향상, 현대적인 웹 프로토콜을 더 잘 처리하는 것이 포함되었습니다.
+#mitmproxy #HTTP3 #프록시 #웹프로토콜
 
-Hashtags: #mitmproxy #HTTP/3 #프록시 #네트워크 #보안
-
-7 번째 검색 내용
-제목: 밸키 8.0이 일반적으로 사용 가능하며 메모리 효율성이 개선되었습니다.
+9 번째 검색 내용
+제목: 밸키 8.0이 일반적으로 사용 가능하며, 메모리 효율성이 개선되었습니다.
 주소: https://www.infoq.com/news/2024/10/valkey-80-memory-efficiency/
-설명: AI : Linux 재단은 Redis의 후계자로 개발된 오픈소스 인메모리 저장 솔루션인 Valkey 8.0의 일반적으로 사용 가능한 버전을 발표했습니다. 슬롯당 사전을 개별적으로 소개하고 키를 직접 사전 항목에 임베딩하여, 개발자들은 노드당 추가 키의 저장을 허용하는데 최대 20% 더 많은 용량을 달성할 수 있습니다.
-#Valkey #인메모리저장솔루션 #오픈소스 #Redis의후계자
+설명: AI : Linux 재단은 Redis의 후계자로 개발된 오픈소스 인메모리 저장 솔루션인 Valkey 8.0의 일반적으로 사용 가능한 버전을 발표했습니다. 개발자는 슬롯당 사전을 소개하고 키를 직접 사전 항목에 임베딩하여, 노드당 추가 키의 저장이 가능하도록 20% 이상의 용량을 달성할 수 있습니다.
+#Linux재단 #Valkey8.0 #인메모리저장솔루션
 
-#hashtags: #Valkey, #인메모리저장솔루션, #오픈소스, #Redis의후계자
+Hashtags: #오픈소스 #데이터베이스 #저장소 #Redis의후계자 #Valkey #Linux재단의발표 #일반적으로사용가능 #인메모리저장솔루션의개선 #슬롯당사전 #키임베딩 #추가키저장 #노드당추가키저장 #20%이상의용량달성 #데이터베이스 최적화
 
-8 번째 검색 내용
-제목: 마이크로소프트는 고성능 작업에 적합한 Azure FXv2-Series VMs의 공개 미리 보기를 출시합니다.
+10 번째 검색 내용
+제목: 마이크로소프트는 고성능 작업을 위한 Azure FXv2-Series VMs의 공개 미리 보기를 출시합니다.
 주소: https://www.infoq.com/news/2024/10/azure-fxv2-series-vms/
-설명: Microsoft는 새로운 Azure FXv2-series Virtual Machines의 공개 미리 보기를 출시했습니다. 이것은 고성능과 계산 집중 작업에 적합한 것으로, 최신 5세대 Intel Xeon Platinum 8573C 프로세서를 사용합니다. FXv2-series는 두 모델을 포함하고 있으며, 이들은 FXv1-series에 비해 크게 개선되었습니다.
+설명: Microsoft는 새로운 Azure FXv2-series Virtual Machines의 공개 미리 보기를 출시했습니다. 이것은 고성능과 계산 집중 작업에 적합한 것으로, 최신 5세대 Intel Xeon Platinum 8573C 프로세서를 사용합니다. FXv2-series는 두 모델을 포함하고 있으며, 이들은 FXv1-series에 비해 크게 향상된 성능을 제공합니다.
 #Azure #FXv2-series #VirtualMachines #IntelXeonPlatinum
 
 #hashtags: #Microsoft #HighPerformanceComputing #CloudComputing
 
-9 번째 검색 내용
-제목: 컴파일러 익스플로러는 저수준 Android 앱 최적화에 대한 인사이트를 제공합니다.
-주소: https://www.infoq.com/news/2024/10/compiler-explorer-android/
-설명: Android 엔지니어들은 Google에서 Java와 Kotlin 프로그래밍 언어를 지원하는 Compiler Explorer, 컴파일러가 실시간으로 작동하는 개방형 소스 도구를 추가했습니다. Compiler Explorer를 사용하면 Android 엔지니어들은 앱의 성능을 최적화하기 위해 컴파일러가 실제로 작동하는 방식을 관찰하고, 이전에 정의된 베스트 프라텍티스를 사용하지 않아도 됩니다.
-#Android #CompilerExplorer #Kotlin
-
-#hashtags:
-#AndroidDevelopment #JavaProgramming #PerformanceOptimization
-
-10 번째 검색 내용
-제목: 마이크로소프트는 Dev Proxy v0.21을 출시합니다: 새로운 기능으로 API 테스트와 개발 효율성이 향상됩니다.
-주소: https://www.infoq.com/news/2024/10/microsoft-dev-proxy-0-21/
-설명: Microsoft는 Dev Proxy v0.21 발표를 통해 API 키와 OAuth2를 사용하여 인증 및 권한 부여를 시뮬레이션할 수 있는 몇 가지 중요한 기능을 소개했습니다. 또한 JWT 토큰 테스트에 용이하게 빠르게 생성할 수 있는 기능, Dev Proxy의 새로운 버전 및 기타 개선 사항이 포함되었습니다.
-#DevProxy #API키 #OAuth2
-
-#hashtags: #인공지능 #의료 #금융 #교통
-
 11 번째 검색 내용
-제목: 소프트웨어 팀 성능 향상을 위한 실험적 개선법
+제목: 컴파일러 익스플로러는 낮은 수준의 Android 앱 최적화에 대한 인사이트를 제공합니다.
+주소: https://www.infoq.com/news/2024/10/compiler-explorer-android/
+설명: Android 엔지니어들은 Google에서 Java와 Kotlin 프로그래밍 언어를 지원하는 Compiler Explorer, 컴파일러가 실시간으로 작동하는 개방형 소스 도구로 추가되었습니다. Compiler Explorer를 사용하면 Android 엔지니어들은 앱의 성능을 최적화하기 위해 컴파일러가 실제로 작동하는 방식을 관찰하고, 이전에 정의된 베스트 프라텍티스를 사용하지 않아도 됩니다.
+#Android #CompilerExplorer #Kotlin #Java
 
-[INST] 소프트웨어 팀의 성능을 높이는 데 실험을 활용하는 방법 [/INST]
+#hashtags: #AndroidDevelopment, #ProgrammingLanguages, #PerformanceOptimization
+
+12 번째 검색 내용
+제목: 마이크로소프트는 Dev Proxy v0.21을 출시합니다: 새로운 기능으로 API 테스팅과 개발 효율성이 향상됩니다.
+주소: https://www.infoq.com/news/2024/10/microsoft-dev-proxy-0-21/
+설명: Microsoft는 Dev Proxy v0.21 발표를 통해 API 키와 OAuth2를 사용하여 인증 및 권한 부여를 시뮬레이션할 수 있는 몇 가지 중요한 기능을 소개했습니다. 또한 JWT 토큰 생성을 위한 빠른 방법, 새로운 도구 키트 버전과 기타 개선 사항이 포함되었습니다.
+#DevProxy #API #인증 및 권한 부여
+
+#hashtags: #DevProxy #API #인증 및 권한 부여
+
+13 번째 검색 내용
+제목: [INST] 소프트웨어 팀 성능 향상을 위한 실험 방법 [/INST]
 주소: https://www.infoq.com/news/2024/10/software-team-experimentation/
 설명: 인공지능은 세계를 변화시키고 있습니다. 이것은 의료, 금융, 교통과 같은 다양한 분야에 응용되고 있습니다.
 #인공지능 #의료 #금육 #교통
 
 따뜻한 아호 대로, 실험은 행동을 안내하는 사고방식입니다. 실험을 통해 주요 변경 프로세스 없이 작업 방법을 개발할 수 있습니다. 소프트웨어 팀에게 문제를 작은 단계로 해결하고, 그들의 작업량을 줄여주며, 자기관리를 장려할 수 있습니다.
-#실험 #소프트웨어 #팀워크 #자기관리
+#실험 #소프트웨어팀 #자기관리 #작은단계로해결
 
-12 번째 검색 내용
+14 번째 검색 내용
 제목: 구글이 목소리 복원을 위한 음성 전송 AI 개발
 
-(Note: The translation may not be perfect as it is a machine translation. Please review and make necessary adjustments if needed.)
+(Note: The translation may not be perfect as it is a direct translation from English to Korean. It would be better if a native Korean speaker checks and adjusts the translation for proper grammar and sentence structure.)
 주소: https://www.infoq.com/news/2024/10/google-voice-transfer-ai/
-설명: AI : 구글 연구팀은 특정 사람의 목소리를 이용하여 텍스트를 말하는(TTS) 기능을 사용자에게 맞춰 개발한 무대 없는 음성 전송(VT) 모델을 개발했습니다. 이 기술은 예를 들어 박인슨 질환이나 ALS와 같은 질병으로 목소리를 잃은 사람들에게 TTS 장치를 사용하여 원래의 목소리를 재현할 수 있습니다. 이 모델은 언어에도 적용됩니다.
-#인공지능 #목소리 #TTS #구글연구팀
+설명: AI : 구글 연구팀은 특정 사람의 목소리를 사용하여 텍스트-발음(TTS)을 사용자 지정할 수 있는 제로샷 목소리 전송(VT) 모델을 개발했습니다. 이를 통해 예를 들어 박인슨 질병이나 ALS에 의해 목소리를 잃은 발언자들은 TTS 장치를 사용하여 원래 목소리를 재현할 수 있습니다. 모델은 언어에도 적용됩니다.
+#인공지능 #목소리전송 #TTS #박인슨질병 #ALS
 
-Hashtags: #인공지능, #목소리, #TTS, #구글연구팀
+Hashtags: #인공지능, #목소리전송, #TTS, #박인슨질병, #ALS
 
-13 번째 검색 내용
-제목: AWS 서비스 종료, 포함 중인 서비스: AWS App Mesh와 Amazon FSx 파일 게이트웨이
-
-(원문: AWS Sunsets More Services, Including AWS App Mesh and Amazon FSx File Gateway)
+15 번째 검색 내용
+제목: AWS 서비스 종료, 포함 중인 것은 AWS App Mesh와 Amazon FSx File Gateway입니다.
 주소: https://www.infoq.com/news/2024/10/aws-retires-services/
-설명: AWS는 블로그 포스트에서 여러 서비스의 휴대를 예고하였으며, AWS App Mesh와 AWS DeepComposer 등이 그 중에 있습니다. 이 새로운 휴대 웨이브는 여름에 이루어진 비슷한 서비스 휴대의 변화를 따라 AWS 클라우드 제공자의 오래된 기존 서비스에 대한 약속을 바꾸는 것으로 해석됩니다.
+설명: AWS는 블로그 포스팅에서 여러 서비스의 휴대를 예고하였으며, AWS App Mesh와 AWS DeepComposer 등이 그 중에 있습니다. 이 새로운 휴대 웨이브는 여름에 이루어진 비슷한 서비스 휴대의 변화를 따라 AWS 클라우드 제공자의 오래된 기존 서비스에 대한 약속을 바꾸는 것으로 해석됩니다.
 #AWS #클라우드 #서비스_휴대
 
 #hashtags:
 1. #AWS
 2. #클라우드
 3. #서비스_휴대
-
-14 번째 검색 내용
-제목: 시스템 초기화를 통해 클라우드 스택 드리프트를 처리하기 위한 DevOps 플랫폼 출시
-
-(Note: The translation may not be perfect as it is a technical term. Please check the meaning and context before using it.)
-주소: https://www.infoq.com/news/2024/09/system-initiative/
-설명: System Initiative는 전통 산업 실무에서 사용되는 일부 기본적인 문제를 해결하려고 합니다. 특히, 클라우드 인프라에 대한 정적 구성을 요구하는 현재 솔루션은 빠르게 변화하고 동적인 클라우드 서비스를 신뢰할 수 없게 됩니다. 이로 인해 "스택 드리프트"가 발생합니다: 인프라에 변경 사항을 적용할 때 예측하기 어려운 상황입니다.
-#클라우드인프라 #스택드리프트 #시스템이니셔티브
-
-Translated sentence: System Initiative aims to tackle some long-standing problems in conventional industry practices for deploying and managing cloud infrastructure. Specifically, existing solutions requiring static configurations for cloud infrastructure cannot reliably reflect fast-changing and dynamic cloud services, leading to "stack drift": unpredictability when engineers apply changes to infrastructure.
-and Provide - #hashtags. Add 3 hashtags related to the translated content:
-#클라우드인프라 #스택드리프트 #시스템이니셔티브
-
-15 번째 검색 내용
-제목: 앤자스 리디스(Amazon RDS)를 사용한 MySQL의 0-ETL 통합과 앤자스 레드시프트(Amazon Redshift)의 연결
-
-(Note: The translation may not be perfect as it is a technical term. Please verify the accuracy if needed.)
-주소: https://www.infoq.com/news/2024/09/amazon-rds-mysql-zero-etl/
-설명: Amazon RDS for MySQL의 엠널리드 통합이 Amazon Redshift와 실시간 분석과 기계학습을 가능하게 하며, 거래 데이터에 대한 쿼리를 지원하고 있습니다. 이 강력한 기능은 RDS 데이터베이스에서 단일 데이터 복제를 사용자 정의하고, 비용을 관리하면서도 데이터 신선성을 유지하는 동시에 확장성을 보장합니다.
-#AmazonRDS #MySQL #실시간분석 #기계학습
-
-#hashtags: #데이터베이스 #클라우드컴퓨팅 #비즈니스분석
 
