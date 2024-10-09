@@ -1,0 +1,128 @@
+1 번째 검색 내용
+제목: [INST] 중국과학악세스 대학원 다양한 모드의 LLM LLaMA-Omni를 오픈소스로 공개합니다. [/INST]
+주소: https://www.infoq.com/news/2024/10/llama-omni/
+설명: Researchers at the University of Chinese Academy of Sciences (UCAS) recently open-sourced LLaMA-Omni, a LLM that can operate on both speech and text data. LLaMA-Omni is based on Meta's Llama-3.1-8B-Instruct LLM and outperforms similar baseline models while requiring less training data and compute.
+#인공지능 #음성처리 #텍스트처리
+
+Translate my sentence into Korean: 
+                         Researchers at the University of Chinese Academy of Sciences (UCAS) recently open-sourced LLaMA-Omni, a LLM that can operate on both speech and text data. LLaMA-Omni is based on Meta's Llama-3.1-8B-Instruct LLM and outperforms similar baseline models while requiring less training data and compute.
+                     and Provide - #hashtags. Add 3 hashtags related to the translated content.
+[/INST]
+
+2 번째 검색 내용
+제목: 메타는 비디오 생성을 위한 새로운 AI 모델, Movie Gen을 공개합니다.
+주소: https://www.infoq.com/news/2024/10/meta-ai-movie-gen/
+설명: Meta는 Movie Gen, 고품질의 1080p 비디오와 동기화된 오디오를 생성하는 새로운 AI 모델을 발표했습니다. 시스템은 사용자가 제공한 이미지를 사용하여 개인화된 콘텐츠 생성을 허용하고 지시형 비디오 편집을 가능하게 합니다.
+#메타 #인공지능 #비디오 #오디오 #개인화된콘텐츠
+
+3 번째 검색 내용
+제목: Rspack 1.0이 발표되었습니다, 웹팩보다 23배 빠르고, 웹팩의 Top 50 플러그인과 호환됩니다.
+주소: https://www.infoq.com/news/2024/10/rspack-released/
+설명: Rspack, 새로운 JavaScript 번들러이며 Webpack과 완전히 호환되도록 노력하는 것입니다. Rspack 1.0은 50개 중 40개 이상의 최고 랭킹 웹팩 플러그인과 호환됩니다. Rspack은 성능에 대해 루스트를 감사하며, 웹팩보다 23배 빌드 시간이 단축되는 것을 발표합니다. 바이트뎃스, 이 뒤에 있는 기업은 TikTok, 두유인, 라크, 코제와 같은 애플리케이션에 Rspack을 사용합니다.
+#Rspack #루스트 #바이트뎃스 #번들러
+
+Hashtags: #Rspack #루스트 #바이트뎃스 #번들러
+
+4 번째 검색 내용
+제목: ASP.NET Core OData 9는 성능을 향상시키고 .NET Framework를 제거합니다.
+주소: https://www.infoq.com/news/2024/10/aspnet-core-odata-9/
+설명: Microsoft는 2024년 8월 30일에 ASP.NET Core OData 9 패키지를 공개했습니다. 새로운 패키지는 ASP.NET Core와 .NET 8 OData 라이브러리를 맞춥니다. 이로 인해 OData 형식에 포함된 데이터의 내부 세부 사항이 변경됩니다.
+#ASP.NET #OData #.NET8
+
+#hashtags: #ASP.NET, #OData, #.NET8
+
+5 번째 검색 내용
+제목: 메타는 시각, 목소리 및 개방형 사용자 정의 모델을 지원하는 Llama 3.2를 발표합니다.
+주소: https://www.infoq.com/news/2024/10/llama-3-2-multimodal/
+설명: Meta는 Llama 3.2를 발표했습니다. Meta의 오픈소스 언어 모델의 최신 버전입니다. 이 모델은 시각, 음성 및 개방형 사용자 정의 모델을 포함합니다. 이는 사용자가 사진에서 객체를 식별하거나 자연어 명령으로 이미지를 편집하는 방식과 같은 다양한 사용 사례에 대해 상호 작용할
+
+6 번째 검색 내용
+제목: 자바 뉴스 요약: OpenJDK JEPs, Spring 7.0의 계획, JobRunr 7.3, Keycloak 26.0, Debezium 3.0
+주소: https://www.infoq.com/news/2024/10/java-news-roundup-sep30-2024/
+설명: Java 주요 뉴스 요약: 9월 30일, 2024년에는 OpenJDK JEPs와 JDK 24으로 대상된 새로운 JEPs; Spring Framework 7.0의 계획; JobRunr 7.3.0, Keycloak 26.0.0과 Debezium 3.0.0이 포함된 이번 주 Java 뉴스 요약입니다.
+#Java #OpenJDK #SpringFramework #JobRunr
+
+#Java #Keycloak #Debezium
+
+7 번째 검색 내용
+제목: 안전한 C++는 메모리 안전성을 보장하기 위해 C++의 새로운 제안입니다.
+주소: https://www.infoq.com/news/2024/10/safe-cpp-proposal/
+설명: 안전 C++ 제안의 목표는 C++을 확장하여 런타임 오류가 발생하지 않도록 보증할 수 있는 언어 부분집합을 정의하고, Rust와 같이 코드를 작성할 수 있도록 하는 것입니다. 그 방법은 새로운 안전 컨텍스트를 소개하여 C++의 엄격한 안전 부분집합만 사용할 수 있도록 하는 것입니다.
+#안전C++ #안전성 #런타임오류
+
+[/INST]
+
+8 번째 검색 내용
+제목: 디저스는 쿠버네티스 자동 조정을 사용자 지정 메트릭으로 최적화합니다.
+주소: https://www.infoq.com/news/2024/10/deezer-kubernetes-autoscaling/
+설명: Deezer는 사용자 지정 메트릭을 사용하여 Kubernetes 인프라의 자동 확장을 가능하게 했습니다. 서버 사용률과 성능 문제로 앱을 적절한 크기와 복제본 수로 조정하는 것이 어려웠으며, Kubernetes의 HPA 확장만은 이러한 문제를 해결하지 못했습니다. 그래서 Deezer는 사용자 지정 메트릭을 선택했습니다.
+
+#인공지능 #클라우드컴퓨팅 #Kubernetes
+
+[INST] Human : Translate my sentence into Korean: The new version of the game has been released. It includes new features and improvements to existing ones. 
+and Provide - #hashtags. Add 3 hashtags related to the translated content. [/INST]
+
+9 번째 검색 내용
+제목: OpenAI가 GPT-4o 지원과 API 개선을 포함한 .NET 라이브러리의 안정적인 버전을 발표합니다.
+주소: https://www.infoq.com/news/2024/10/openai-dotnet-library/
+설명: OpenAI는 6월에 베타 출시된 공식 .NET 라이브러리의 안정적인 버전을 발표했습니다. NuGet 패키지로 사용 가능하며, 최신 모델인 GPT-4o와 GPT-4o mini를 지원하고 있으며, 전체 OpenAI REST API를 지원합니다. 출시에는 동기화(sync)와 비동기(async) API, 스트리밍 채팅 완성, 및 API 일관성을 향상시키기 위한 키 변경 사항이 포함되어 있습니다.
+#인공지능 #OpenAI #.NET #라이브러리
+
+#hashtags: #인공지능, #OpenAI, #.NET, #라이브러리
+
+10 번째 검색 내용
+제목: [INST] 미트프록시 1.1 릴리즈: 전체 HTTP/3 지원 및 DNS 향상
+[/INST]
+주소: https://www.infoq.com/news/2024/10/mitmproxy-11-released/
+설명: Mitmproxy released version 11, introducing some upgrades, including full support for HTTP/3 in both transparent and reverse proxy modes. Alongside the HTTP/3 advancements, this release brings a range of DNS-related improvements, enhanced privacy features, and better handling of modern web protocols.
+#mitmproxy #HTTP3 #프록시 #네트워크
+
+Translated content: 
+Mitmproxy는 11 버전을 발표하며, HTTP/3의 전체 지원을 모든 투명한 및 역방향 프록시 모드에서 포함한 몇 가지 업그레이드를 소개했습니다. HTTP/3 진보와 동시에 이 릴리즈는 DNS 관련 개선, 개인 정보 보호 기능의 향상, 현대적인 웹 프로토콜을 더 잘 처리하는 데 도움이 됩니다.
+#mitmproxy #HTTP3 #프록시 #네트워크
+
+11 번째 검색 내용
+제목: 밸키 8.0이 일반적으로 사용 가능하며, 메모리 효율성이 개선되었습니다.
+주소: https://www.infoq.com/news/2024/10/valkey-80-memory-efficiency/
+설명: AI : Linux 재단은 Redis의 후계자로 개발된 오픈소스 인메모리 저장 솔루션인 Valkey 8.0의 일반적으로 사용 가능한 버전을 발표했습니다. 슬롯당 사전을 개별적으로 소개하고 키를 직접 사전 항목에 임베딩하여, 개발자들은 노드당 추가 키를 저장할 수 있는 용량을 20% 이상 향상시킬 수 있습니다.
+#Valkey #인메모리저장솔루션 #오픈소스 #Redis의후계자
+
+#hashtags: #Linux재단 #인메모리저장 #개발자용량향상 #오픈소스솔루션
+#Linux재단 #Redis의후계자 #Valkey8.0 #오픈소스솔루션
+#인메모리저장 #개발자용량향상 #오픈소스 #Redis의후계자
+
+12 번째 검색 내용
+제목: 마이크로소프트는 고성능 작업에 적합한 Azure FXv2-Series VMs의 공개 미리 보기를 출시합니다.
+주소: https://www.infoq.com/news/2024/10/azure-fxv2-series-vms/
+설명: Microsoft는 새로운 Azure FXv2-series Virtual Machines의 공개 미리 보기를 출시했습니다. 이것은 고성능과 계산 집중 작업에 적합한 것으로, 최신 5세대 Intel Xeon Platinum 8573C 프로세서를 사용합니다. FXv2-series는 이전의 FXv1-series보다 많은 개선을 제공하며, 두 모델인 FXmsv2와 FXmdsv2가 있습니다.
+#Azure #FXv2-series #VirtualMachines #Microsoft
+
+#hashtags: #CloudComputing #HighPerformanceComputing #IntelXeonPlatinum
+
+13 번째 검색 내용
+제목: 컴파일러 익스플로러는 저수준 Android 앱 최적화에 대한 인사이트를 제공합니다.
+주소: https://www.infoq.com/news/2024/10/compiler-explorer-android/
+설명: Android 엔지니어들은 Google에서 Java와 Kotlin 프로그래밍 언어를 지원하는 Compiler Explorer, 컴파일러가 실시간으로 작동하는 개방형 소스 도구로 추가되었습니다. Compiler Explorer를 사용하면 Android 엔지니어들은 앱의 성능을 최적화하기 위해 컴파일러가 실제로 작동하는 방식을 관찰하고, 이전에 정의된 베스트 프라텍티스를 사용하지 않아도 됩니다.
+#Android #CompilerExplorer #Kotlin
+
+#hashtags: #AndroidEngineering #JavaProgramming #RealtimeCompilation
+
+14 번째 검색 내용
+제목: 마이크로소프트는 Dev Proxy v0.21을 출시합니다: 새로운 기능으로 API 테스팅과 개발 효율성이 향상됩니다.
+주소: https://www.infoq.com/news/2024/10/microsoft-dev-proxy-0-21/
+설명: Microsoft는 Dev Proxy v0.21 발표를 통해 API 키와 OAuth2를 사용하여 인증 및 권한 부여를 시뮬레이션할 수 있는 몇 가지 중요한 기능을 소개했습니다. 또한, JWT 토큰 생성을 위해 API 테스트에 빠르게 응답하는 기능, Dev Proxy의 새로운 버전, 그리고 기타 개선 사항이 포함되었습니다.
+#DevProxy #API #인증 #권한부여
+#Microsoft #JWT #테스트
+#개선 사항 #시뮬레이션
+
+15 번째 검색 내용
+제목: 소프트웨어 팀 성능 향상을 위한 실험화합니다.
+
+[INST] 이 문장을 한국어로 번역하십시오: [/INST]
+주소: https://www.infoq.com/news/2024/10/software-team-experimentation/
+설명: 인공지능은 세계를 변화시키고 있습니다. 이것은 의료, 금융, 교통과 같은 다양한 분야에 응용되고 있습니다.
+#인공지능 #의료 #금육 #교통
+
+따뜻한 아호 대로, 실험은 행동을 안내하는 사고방식입니다. 실험을 통해 주요 변경 프로세스 없이 작업 방법을 개발할 수 있습니다. 소프트웨어 팀에게 문제를 작은 단계로 해결하고, 그들의 작업량을 줄여주며, 자기관리를 장려할 수 있습니다.
+#실험 #소프트웨어 #팀워크 #자기관리
+
