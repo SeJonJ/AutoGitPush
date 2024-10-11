@@ -1,0 +1,143 @@
+1 번째 검색 내용
+제목: 오픈앤아이 개발자 데이터베이스 2024(SF)는 실시간 API, 비전 정교화 및 더 많은 기능을 공지합니다.
+[INST] OpenAI Developer Day 2024 (SF) Announces Real-Time API, Vision Fine-Tuning, and More
+[/INST]
+주소: https://www.infoq.com/news/2024/10/openai-sf-dev-day/
+설명: On October 1, 2024, OpenAI SF DevDay unveiled innovative features, including a Real-Time API enabling instant voice interactions and function calling. Enhanced model distillation and vision fine-tuning empower developers to customize AI for diverse applications. Upcoming events in London and Singapore will further expand these capabilities.
+#인공지능 #오픈에이 #SFDevDay
+
+Translated content: 
+On October 1, 2024, OpenAI SF DevDay unveiled innovative features, including a Real-Time API enabling instant voice interactions and function calling. Enhanced model distillation and vision fine-tuning empower developers to customize AI for diverse applications. Upcoming events in London and Singapore will further expand these capabilities.
+#인공지능 #오픈에이 #SFDevDay
+
+2 번째 검색 내용
+제목: 리눅스 커널을 실시간 스케줄링을 지원하는 상자에서 사용할 수 있도록 구성합니다.
+주소: https://www.infoq.com/news/2024/10/linux-6-12-real-time/
+설명: Linux 6.12는 기본 코드에서 실시간 처리를 지원하도록 공식적으로 포함되며, PREEMPT_RT가 모든 지원 아키텍처에 적용될 수 있는 PR로 인해 이뤄졌습니다. 이는 정적인 시간 보장를 필요로 하는 애플리케이션, 예를 들어 항공, 로봇, 자동차, 및 통신과 같은 분야에서 사용되지만, 데스크톱의 사용자 경험에도 개선을 가져올 수 있습니다.
+#Linux612 #실시간처리 #사용자경험개선
+
+Hashtags: #Linux612, #RealTimeProcessing, #UserExperienceImprovement
+
+3 번째 검색 내용
+제목: 설정하는 데이터 메시 기업
+
+[INST] 제공된 문장을 한국어로 번역합니다. :
+
+                            데이터 메시 조직 설정
+                         [/INST]
+주소: https://www.infoq.com/news/2024/10/data-mesh-organization/
+설명: 데이터 메시 조직: 제공자, 소비자 및 플랫폼입니다. 플랫폼 팀의 미션은 제품자와 소비자의 삶을 간단하고, 효율적이며, 스트레스 없는 것으로 만들어주는 것입니다. 데이터는 발견되고 이해할 수 있어야 하며, 신뢰성 있고 안전하게 및 쉽게 조직 내에서 공유되어야 합니다.
+#데이터메시 #데이터플랫폼 #데이터공유
+
+Translated content hashtags: #데이터메시, #데이터플랫폼, #데이터공유
+
+4 번째 검색 내용
+제목: 
+주소: https://www.infoq.com/news/2024/10/open-llm-leaderboard-v2-launch/
+설명: Hugging Face는 최근 Open LLM Leaderboard v2를 발표했습니다, 대규모 언어 모델의 평가 벤치마크 플랫폼의 업그레이드 버전입니다. Hugging Face는 Open LLM Leaderboard를 만들어 참조 모델에 대한 표준화된 평가 설정을 제공하여, 재생성 가능하고 비교 가능한 결과를 보장합니다.
+#HuggingFace #OpenLLMLeaderboard #대규모언어모델 #평가벤치마크
+
+#hashtags: #AI #NLP #데이터사이언스
+
+5 번째 검색 내용
+제목: JFrog이 개발, 운영 보안을 강화한 DevSecOps 플랫폼으로 통합
+
+(Note: The translation may not be perfect as it is a machine translation. Please review and make necessary adjustments if needed.)
+주소: https://www.infoq.com/news/2024/10/jfrog-devsecops-platform/
+설명: JFrog는 JFrog Runtime을 보안 기능 집합에 추가하여, 소프트웨어 공급 체인 플랫폼의 실시간 취약성 검출을 제공했습니다. 이 업데이트는 Kubernetes 클러스터와 클라우드 네이티브 응용 프로그램을 사용하는 개발자와 DevSecOps 팀에게 목적되어 있습니다.
+#JFrog #보안 #소프트웨어공급체인 #Kubernetes
+#클라우드네이티브응용프로그램 #DevSecOps
+
+6 번째 검색 내용
+제목: 데이터 팀 조사: 데이터앱과 제공된 가치의 지연
+
+(Note: The Korean translation may not be perfect as it depends on the context and specific meaning of the terms used in the original sentence. Please ensure that the translated text makes sense in the intended context.)
+주소: https://www.infoq.com/news/2024/10/data-teams-dataops-lag/
+설명: 우리는 Jesse Anderson의 2024 Data Teams 조사를 보고합니다. 이 조사에서는 DataOps 기능 부재, 느린 LLM 채택, 데이터 팀의 가치 생성 인식에 대한 걱정이 있었습니다. 이 조사는 데이터 과학, 엔지니어링, 및 운영 기능을 가진 팀의 중요성을 강조했습니다. 또한 Petr Janda의 최근 팟캐스트에서는 다른 팀과 평등을 위해 더 많은 엔지니어링 수준이 필요하다는 것을 다루었습니다.
+#데이터_팀 #데이터_오챠스 #엔지니어링_수준
+
+Translated content: We report on Jesse Anderson's 2024 Data Teams Survey which showed a lag in DataOps capabilities, slow LLM adoption, and a concerning decline in perceived value creation by data teams. It called out the importance of teams spread with data science, engineering, and operations capabilities. We also cover Petr Janda's recent podcast on the need for more engineering rigour for parity with other teams.
+#datateams #dataops #engineeringrigor
+
+7 번째 검색 내용
+제목: Uno 플랫폼 5.4를 통해 앱 성능이 개선됩니다.
+주소: https://www.infoq.com/news/2024/10/uno-platform-54-performance/
+설명: Uno 플랫폼은 최신 업데이트인 버전 5.4를 공개했습니다. 이 업데이트에는 290여 가지 새로운 기능과 향상 사항이 포함되어 있습니다. 이 업데이트의 일부로, 팀은 엔터프라이즈 고객들이 제기한 문제점을 우선적으로 처리하며, Uno 플랫폼에 구축된 애플리케이션의 전반적인 성능을 향상시키는 데 집중했습니다.
+#Uno플랫폼 #엔터프라이즈 #애플리케이션성능 #업데이트
+
+#hashtags:
+1. #UnoPlatformUpdate
+2. #EnterpriseApplicationPerformance
+3. #UnoPlatformEnhancements
+
+8 번째 검색 내용
+제목: MongoDB 8.0이 현재 사용 가능합니다. 성능 향상과 향상된 셔딩 기능이 포함되어 있습니다.
+주소: https://www.infoq.com/news/2024/10/mongodb-80-performances/
+설명: MongoDB는 MongoDB 8.0의 일반 사용 가능성을 발표했습니다. 이 버전에서는 성능 개선 사항과 새로운 기능이 도입되었습니다. 주요 강조 사항은 임베디드 셔딩 구성 서버, 질의 가능한 암호화에 대한 확장된 지원 및 셔딩 키를 필요로 하는 것이 아닌 컬렉션을 셔딩 간에 이동할 수 있다는 점입니다.
+#MongoDB #8.0 #성능개선 #암호화
+
+Hashtags: #MongoDB, #8.0, #성능개선, #암호화
+
+9 번째 검색 내용
+제목: 파이썬 3.13의 최신 기능 소개
+
+(Note: The translation may not be perfect as it is a direct translation from English to Korean without considering the context or grammar rules of the Korean language.)
+주소: https://www.infoq.com/news/2024/10/python-313-latest-features/
+설명: Python 3.13은 간소화된 기능을 포함한 개선된 상호작용 인터프리터를 도입하며, 무료 스레드 모드와 함께 Just-in-Time(JIT) 컴파일러를 소개합니다. 마지막으로 업데이트는 여러 기능을 제거하고 CLI용 랜덤 함수를 도입합니다.
+#Python3.13 #인터프리터 #JIT컴파일러 #랜덤함수
+
+Translated content: Python 3.13 introduces a revamped interactive interpreter with streamlined features like multi-line editing, experimental free-threaded mode, alongside the introduction of a Just-in-Time (JIT) compiler. Lastly, the update removes several outdated modules and introduces random function for the CLI
+#Python3.13 #인터프리터 #JIT컴파일러 #랜덤함수
+
+10 번째 검색 내용
+제목: PayPal이 Cosmos.AI MLOps 플랫폼에 LLM과 GenAI 지원을 추가합니다.
+주소: https://www.infoq.com/news/2024/10/paypal-cosmosai-llm-genai/
+설명: PayPal은 Cosmos.AI 머신러닝 운영화(MLOps) 플랫폼을 대규모 언어 모델(LLM)을 개발하는 생성형 AI 응용 프로그램에 지원하기 위해 확장했습니다. 회사는 벤더, 오픈소스 및 자체 조정 LLMs의 지원을 통합하고 검색 증강 생성(RAG), 의미 캐시, 프롬프트 관리, 오라클레이션, 및 AI 응용 프로그램 호스팅과 같은 기능을 제공했습니다.
+#PayPal #CosmosAI #MLOps #생성형AI
+#인공지능 #머신러닝 #LLM #오픈소스 #AI응용프로그램호스팅
+
+11 번째 검색 내용
+제목: [INST] 중국과학악세스 대학원 개방형 다양한 모드의 LLM LLaMA-Omni
+주소: https://www.infoq.com/news/2024/10/llama-omni/
+설명: Researchers at the University of Chinese Academy of Sciences (UCAS) recently open-sourced LLaMA-Omni, an LLM that can operate on both speech and text data. LLaMA-Omni is based on Meta's Llama-3.1-8B-Instruct LLM and outperforms similar baseline models while requiring less training data and compute.
+#인공지능 #음성처리 #텍스트처리
+
+Translate my sentence into Korean: 
+                         Researchers at the University of Chinese Academy of Sciences (UCAS) recently open-sourced LLaMA-Omni, an LLM that can operate on both speech and text data. LLaMA-Omni is based on Meta's Llama-3.1-8B-Instruct LLM and outperforms similar baseline models while requiring less training data and compute.
+                     and Provide - #hashtags. Add 3 hashtags related to the translated content.
+
+Translation: 
+                         UCAS 대학원 연구자들은 최근에 LLaMA-Omni, 음성과 텍스트 데이터를 처리할 수 있는 LLM를 오픈소스로 공개했습니다. LLaMA-Omni는 Meta의 Llama-3.1-8B-Instruct LLM에 기반하며, 유사한 기본 모델과 비교할 때 성능이 더 좋으면서도 학습 데이터와 컴퓨팅 자원을 적게 필요로 합니다.
+#인공지능 #음성처리 #텍스트처리
+
+Hashtags: #인공지능 #음성처리 #텍스트처리
+
+12 번째 검색 내용
+제목: 메타는 비디오 생성을 위한 새로운 AI 모델, Movie Gen을 공개합니다.
+주소: https://www.infoq.com/news/2024/10/meta-ai-movie-gen/
+설명: Meta는 Movie Gen, 고품질의 1080p 비디오와 동기화된 음성을 생성하는 AI 모델입니다. 이 시스템은 사용자가 제공한 이미지를 사용하여 개인화된 콘텐츠 생성을 허용하고 인스트럭션 기반의 비디오 편집을 활성화합니다.
+#인공지능 #비디오 #음성동기화
+
+#hashtags: #AI #VideoEditing #PersonalizedContent
+
+13 번째 검색 내용
+제목: Rspack 1.0이 발표되었습니다, 웹팩보다 23배 빠르고, 웹팩의 Top 50 플러그인과 호환됩니다.
+주소: https://www.infoq.com/news/2024/10/rspack-released/
+설명: Rspack, 새로운 JavaScript 번들러이며 Webpack과 완전히 호환되도록 노력하는 것입니다. Rspack 1.0은 50개 중 40개 이상의 최고 랭킹 웹팩 플러그인과 호환됩니다. Rspack은 성능에 대한 감사를 루스트에게 표현하며, 웹팩보다 23배 빌드 시간이 단축되는 것을 발표합니다. 바이트뎃스, 이 밑에 있는 애플리케이션인 티쿼크, 두유인, 라크, 코제를 사용하고 있습니다.
+#Rspack #루스트 #성능 #바이트뎃스
+
+Hashtags: #Rspack #루스트 #성능 #바이트뎃스
+
+14 번째 검색 내용
+제목: ASP.NET Core OData 9는 성능을 개선하고 .NET Framework를 제거합니다.
+주소: https://www.infoq.com/news/2024/10/aspnet-core-odata-9/
+설명: Microsoft는 2024년 8월 30일에 ASP.NET Core OData 9 패키지를 공개했습니다. 새로운 패키지는 ASP.NET Core와 .NET 8 OData 라이브러리를 맞춘다. 이로 인해 OData 형식에 포함된 데이터의 내부 세부 사항이 변경됩니다.
+#ASP.NET #OData #.NET8
+
+#hashtags: #ASP.NET, #OData, #.NET8
+
+15 번째 검색 내용
+제목: 메타는 시각, 목소리, 개방형 사용자 정의 모델을 포함한 Llama 3.2를 발표합니다.
+주소: https://www.infoq.com/news/2024/10/llama-3-2-multimodal/
+설명: Meta는 최근 Llama 3.2를 발표했습니다, Meta의 개방형 언어 모델의 최신 버전입니다. 이 모델은 시각, 음성 및 개방형 사용자 정의 모델을 포함하고 있으며, 사용자가 사진에서 객체를 식별하거나 자연어 명령어로 이미지를 편집하는 등 다른 사용 사례와 같은 방식으로 시각 데이터와 상호 작용할
+
