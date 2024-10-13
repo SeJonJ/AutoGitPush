@@ -1,14 +1,32 @@
 1 번째 검색 내용
-제목: 스케일링 우버의 배치 데이터 플랫폼: 데이터 메시 원칙으로 클라우드 여행
+제목: 임시 ID: 클라우드플레어의 최신 사기 검출 도구
 
-(Note: The translation may not be perfect as it is a technical term, but the meaning should be clear.)
-주소: https://www.infoq.com/news/2024/10/uber-batch-data-mesh/
-설명: 몇 달 전에 Uber는 Google Cloud Platform(GCP)로 배치 데이터 분석 및 기계학습 플랫폼의 클라우드 마이그레이션을 시작했습니다. 최근 엔지니어링 블로그에서 Uber는 배치 데이터 클라우드 마이그레이션에 중요한 데이터 메쉬 원칙을 포함하여 추가적인 정보를 제공했습니다.
-#Uber #GoogleCloudPlatform #데이터메시 #클라우드마이그레이션
+(Note: The translation may not be perfect as it is a direct translation without considering the context or grammar rules of the Korean language. It's always recommended to have a professional translator for accurate translations.)
+주소: https://www.infoq.com/news/2024/10/cloudflare-ephemeral-id/
+설명: 인공지능은 세계를 변화시키고 있습니다. 이것은 의료, 금융, 교통과 같은 다양한 분야에 응용되고 있습니다.
+#인공지능 #의료 #금융 #교통
 
-Hashtags: #Uber, #GoogleCloudPlatform, #데이터메시, #클라우드마이그레이션
+During its recent Birthday Week, Cloudflare introduced Ephemeral IDs, a new feature for fraud detection. The tool identifies fraudulent activity—whether from bots or humans—by linking behavior to a specific client rather than an IP address.
+and Provide - #hashtags. Add 3 hashtags related to the translated content.
+
+번역결과: 최근의 생일주기 중에 Cloudflare는 악성 행위 탐지를 위한 새로운 기능인 Ephemeral IDs를 소개했습니다. 도구는 IP 주소가 아닌 특정 클라이언트에 행동을 연결하여 악성 행위가 보험기업이나 사람에서든 보험기업이든 인간에서든 식별합니다.
+#클라우드플레어 #악성행위탐지 #EphemeralIDs
+
+번역결과: 최근의 생일주기 중에 Cloudflare는 악성 행위 탐지를 위한 새로운 기능인 Ephemeral IDs를 소개했습니다. 도구는 IP 주소가 아닌 특정 클라이언트에 행동을 연결하여 악성 행위가 보험기업이나 사람에서든 보험기업이든 인간에서든 식별합니다.
+#클라우드플레어 #악성행위탐지 #EphemeralIDs
 
 2 번째 검색 내용
+제목: 스케일링 우버의 배치 데이터 플랫폼: 데이터 메시 원칙으로 클라우드 여행
+
+(Note: The translation may not be perfect as it involves some understanding of the context and terminology used in the original sentence.)
+주소: https://www.infoq.com/news/2024/10/uber-batch-data-mesh/
+설명: 몇 달 전에 Uber는 Google Cloud Platform(GCP)로 배치 데이터 분석 및 기계학습 플랫폼의 클라우드 마이그레이션을 시작했습니다. 최근 엔지니어링 블로그에서 Uber는 배치 데이터 클라우드 마이그레이션에 중요한 데이터 메시 원칙을 적용하는 추가 정보를 제공했습니다.
+#Uber #GoogleCloudPlatform #데이터메시 #기계학습
+
+Translated content: Some months ago, Uber started the migration to the cloud, on Google Cloud Platform (GCP), of its batch data analytics and machine learning platform. In a recent post on its engineering blog, Uber provided additional information regarding its batch data cloud migration that incorporated crucial data mesh principles.
+#Uber #GoogleCloudPlatform #데이터메시 #기계학습
+
+3 번째 검색 내용
 제목: [INST] 웹어셈블리가 컨테이너의 다음 진화적 단계일지도 모르겠습니다: Fermyon에서 InfoQ DevSummit 맥스헤인
                          [/INST]
 주소: https://www.infoq.com/news/2024/10/serverless-computing-webassembly/
@@ -19,128 +37,112 @@ Translated content:
 During her presentation at the inaugural edition of the InfoQ Dev Summit Munich, Danielle Lancashire, principal software engineer at Fermyon and co-chair of the CNCF wasm-wg, hinted at WebAssembly containers as a greener alternative and a potential evolution from the current containerised approach to serverless computing.
 #인포큐 #웹어셈블리 #서버리스컴퓨팅
 
-3 번째 검색 내용
-제목: NVIDIA는 NVLM 1.0 공개: 열린 소스 다중 모달 LLM를 포함하여 향상된 텍스트와 시각적 능력입니다.
-주소: https://www.infoq.com/news/2024/10/nvlm-nvidia-open-source/
-설명: NVIDIA는 NVLM 1.0을 공개 소스로 제시하였습니다, 이것은 시각-언어와 텍스트만 있는 작업에서 강력한 성능을 보여줍니다. NVLM 1.0은 다변모달 학습 후 텍스트 기반 작업에서 개선된 결과를 보였으며, 현재의 모델 중 하나로 특별합니다. 모델 가중치는 Hugging Face에서 이제 사용할 수 있고, 곧 훈련 코드를 발표할 예정입니다.
-#NVIDIA #NVLM #자연어처리 #딥러닝
-
-#hashtags: #NVIDIA, #NVLM, #자연어처리, #딥러닝
-
 4 번째 검색 내용
-제목: InfoQ Dev Summit 맥스헤인: 1BRC를 최적화하는 방법을 알아보자.
-주소: https://www.infoq.com/news/2024/10/optimize-java-1brc/
-설명: Java 애플리케이션은 1.5초 내에 1억 행 챌린지(1BRC)를 통과했습니다. 1BRC 창시자인 Gunnar Morling은 InfoQ Dev Summit Munich 2024에서 최적화 사항을 상세히 설명했습니다. 모든 Java 애플리케이션에 적용할 수 있는 일반적인 최적화로 실행 시간을 290초에서 20초로 줄였습니다. 1.5초까지 도달하기 위해서는 대부분의 Java 애플리케이션에서 사용할 수 있는 낙타적용 최적화를 포기해야 합니다. 그라알VM과 같은 경우에만 고려해야 할 수도 있습니다.
-#Java #1BRC #최적화 #그라알VM
+제목: NVIDIA는 NVLM 1.0 공개: 여러 모드 지원 오픈소스 LLM를 포함하여 향상된 텍스트와 시각적 능력입니다.
+주소: https://www.infoq.com/news/2024/10/nvlm-nvidia-open-source/
+설명: NVIDIA는 NVLM 1.0을 공개 소스로 베타 발표했습니다. 이것은 시각-언어와 텍스트만 있는 작업에서 강력하게 성능이 나오며, 다중 모드 학습 후 텍스트 기반 작업에서 개선된다는 점에서 현재 모델 중 특별한 것입니다. 모델 가중치는 Hugging Face에 이미 공개되었고, 곧 훈련 코드도 발표될 예정입니다.
+#NVIDIA #NVLM #자연어처리 #다중모달학습
 
-#hashtags: #JavaOptimization, #PerformanceImprovement, #BigDataChallenge
+#hashtags: #NVIDIA, #NVLM, #자연어처리, #다중모달학습
 
 5 번째 검색 내용
-제목: 오픈앤아이 개발자 데이터베이스 2024(SF)는 실시간 API, 비전 정밀 조정 및 더 많은 기능을 공지합니다.
-주소: https://www.infoq.com/news/2024/10/openai-sf-dev-day/
-설명: On October 1, 2024, OpenAI SF DevDay unveiled innovative features, including a Real-Time API enabling instant voice interactions and function calling. Enhanced model distillation and vision fine-tuning empower developers to customize AI for diverse applications. Upcoming events in London and Singapore will further expand these capabilities.
-                     #OpenAI #SFDevDay #인공지능기능확장
-
-#hashtags: 
-#OpenAI
-#SFDevDay
-#인공지능기능확장
+제목: InfoQ Dev Summit 맥스헤인: 1BRC를 최적화하는 방법을 알아보자.
+주소: https://www.infoq.com/news/2024/10/optimize-java-1brc/
+설명: Java 애플리케이션은 1.5초 내에 1억 행 챌린지(1BRC)를 통과했습니다. 1BRC 창시자인 Gunnar Morling은 InfoQ Dev Summit Munich 2024에서 최적화 사항을 상세히 설명했습니다. 모든 Java 애플리케이션에 적용할 수 있는 일반적인 최적화로 실행 시간을 290초에서 20초로 줄였습니다. 1.5초까지 도달하기 위해서는 대부분의 Java 애플리케이션에서 사용할 수 있는 특정 최적화를 포기해야 합니다. 그라알VM과 같은 몇몇 애플리케이션에만 적용되어야 할 것으로 보입니다.
+#Java #최적화 #1BRC #그라알VM
+#hashtags: #자바최적화, #1억행챌린지, #그라알VM최적화, #GunnarMorling
 
 6 번째 검색 내용
-제목: Linux 커널은 실시간 스케줄링을 지원하도록 기본 제공됩니다.
-주소: https://www.infoq.com/news/2024/10/linux-6-12-real-time/
-설명: Linux 6.12는 기본 코드에서 실시간 처리를 지원하는데 공식적으로 포함되며, PREEMPT_RT가 모든 지원 아키텍처에 적용될 수 있도록 PR가 추가되었습니다. 이 기능은 정적인 시간 보장를 필요로 하는 애플리케이션, 예를 들어 항공, 로봇, 자동차, 및 통신과 같은 분야에서 사용되지만, 데스크톱의 사용자 경험에도 개선을 가져올 수 있습니다.
-#Linux612 #실시간처리 #사용자경험개선
+제목: 오픈앤아이 개발자 데이터 2024(SF)는 실시간 API, 비전 정밀 조정 및 더 많은 기능을 공지합니다.
+주소: https://www.infoq.com/news/2024/10/openai-sf-dev-day/
+설명: On October 1, 2024, OpenAI SF DevDay unveiled innovative features, including a Real-Time API enabling instant voice interactions and function calling. Enhanced model distillation and vision fine-tuning empower developers to customize AI for diverse applications. Upcoming events in London and Singapore will further expand these capabilities.
+#인공지능 #오픈앤아이 #SFDevDay
 
-Hashtags: #Linux612, #RealtimeProcessing, #UserExperienceImprovement
+Translated sentence: 
+                        10월 1일에 OpenAI SF DevDay는 실시간 API를 통해 즉각적인 목소리 상호작용과 기능 호출을 지원하는 새로운 기능을 공개했습니다. 향상된 모델 디스탠리화와 시각 정교화 처리는 개발자들이 AI를 다양한 응용에 맞게 사용자 지정할 수 있도록 강화합니다. 로н던과 싱가포르에서 열릴 향후 행사는 이러한 기능을 더 넓게 확장시킬 것입니다.
+#인공지능 #오픈앤아이 #SFDevDay
+
+Hashtags: #인공지능, #오픈앤아이, #SFDevDay
 
 7 번째 검색 내용
-제목: 데이터 메시 기업 설립
+제목: Linux 커널을 실시간 스케줄링을 지원하는 상자에서 사용할 수 있도록 합니다.
+주소: https://www.infoq.com/news/2024/10/linux-6-12-real-time/
+설명: Linux 6.12는 기본 코드에서 실시간 처리를 지원하도록 공식적으로 포함되며, PREEMPT_RT가 모든 지원 아키텍처에 적용될 수 있는 PR로 인해 이루어집니다. 이 기능은 정적인 시간 보장를 요구하는 애플리케이션, 예를 들어 항공, 로봇, 자동차, 및 통신과 같은 분야에서 사용되지만, 데스크톱의 사용자 경험에도 개선을 가져올 수 있습니다.
+#Linux612 #실시간처리 #사용자경험개선
 
-(Note: The translation may not be perfect, as the term "Data Mesh" is relatively new and might not have an exact equivalent in Korean. However, this translation conveys the general idea of setting up a Data Mesh Organization.)
-주소: https://www.infoq.com/news/2024/10/data-mesh-organization/
-설명: 데이터 메시 기관: 제공자, 소비자 및 플랫폼입니다. 플랫폼 팀의 미션은 제품자와 소비자의 삶을 간단하고, 효율적이며, 스트레스 없는 것으로 만들어주는 것입니다. 데이터는 발견되고 이해되어야 하며, 신뢰할 수 있어야 하고 기관 내에서 안전하게 및 쉽게 공유되어야 합니다.
-#데이터메시 #제공자 #소비자 #플랫폼
-
-#hashtags: #데이터관리, #기업효율화, #데이터보안
+#hashtags: #Linux612, #RealtimeProcessing, #UserExperienceImprovement
 
 8 번째 검색 내용
+제목: 데이터 메시 기업 설립
+
+(Note: The translation may not be perfect as it is difficult to translate the term "Data Mesh" directly into Korean. However, the phrase "데이터 메시" is commonly used in Korean to represent the concept of Data Mesh.)
+주소: https://www.infoq.com/news/2024/10/data-mesh-organization/
+설명: 데이터 메시지 조직: 생산자, 소비자 및 플랫폼입니다. 플랫폼 팀의 미션은 생산자와 소비자의 삶을 간단하고, 효율적이며, 스트레스 없는 것으로 만들어주는 것입니다. 데이터는 발견되고 이해할 수 있어야 하며, 신뢰성 있고 안전하게 및 쉽게 조직 내에서 공유되어야 합니다.
+#데이터메시지 #데이터플랫폼 #데이터생산자 #데이터소비자
+
+Translated content hashtags: #데이터메시지, #데이터플랫폼, #데이터생산자, #데이터소비자
+
+9 번째 검색 내용
 제목: 
 주소: https://www.infoq.com/news/2024/10/open-llm-leaderboard-v2-launch/
-설명: Hugging Face는 최근 Open LLM Leaderboard v2를 발표했습니다, 대규모 언어 모델의 평가 벤치마크 플랫폼의 업그레이드 버전입니다. Hugging Face는 Open LLM Leaderboard를 통해 참조 모델에 대한 표준화된 평가 설정을 제공하여, 재현 및 비교할 수 있는 결과를 보장합니다.
+설명: Hugging Face는 최근 Open LLM Leaderboard v2를 발표하였습니다, 대규모 언어 모델의 평가 벤치마크 플랫폼의 업그레이드 버전입니다. Hugging Face는 Open LLM Leaderboard를 통해 참조 모델에 대한 표준화된 평가 설정을 제공하여, 재생성 가능하고 비교 가능한 결과를 보장합니다.
 #HuggingFace #OpenLLMLeaderboard #대규모언어모델 #평가벤치마크
 
 #hashtags: #AI #NLP #데이터사이언스
 
-9 번째 검색 내용
-제목: JFrog이 개발, 운영 보안을 강화한 DevSecOps 플랫폼으로 통합
-
-(Note: The translation may not be perfect as it is a machine translation. Please review and make any necessary adjustments.)
-주소: https://www.infoq.com/news/2024/10/jfrog-devsecops-platform/
-설명: JFrog는 보안 기능 집합에 JFrog Runtime을 도입하였습니다. 이것은 소프트웨어 공급 체인 플랫폼의 실시간 취약점 검출을 추가하여, Kubernetes 클러스터와 클라우드 네이티브 애플리케이션에 작업하는 개발자와 DevSecOps 팀에게 향한 업데이트입니다.
-#JFrog #보안 #소프트웨어공급체인 #클라우드네이티브
-
-#hashtags: #보안기능, #개발자, #DevSecOps, #Kubernetes, #클라우드, #소프트웨어공급체인플랫폼, #JFrogRuntime
-
 10 번째 검색 내용
-제목: 데이터 팀 조사: 데이터오프스의 지연과 제공된 가치
-
-(Note: The translation may not be perfect as it is difficult to translate the specific context of "Data Teams Survey" and "Value Delivered" directly into Korean. However, this is a rough translation that conveys the general meaning.)
-주소: https://www.infoq.com/news/2024/10/data-teams-dataops-lag/
-설명: 우리는 Jesse Anderson의 2024 Data Teams 조사에 대해 보고합니다. 이 조사는 DataOps 기능 부재, 느린 LLM 채택, 데이터 팀의 가치 생성을 감소시키는 걱정스러운 추세를 보여줍니다. 이 조사는 데이터 과학, 엔지니어링, 및 운영 능력이 있는 팀의 중요성을 강조합니다. 또한 Petr Janda의 최근 팟캐스트에서 데이터 팀과 같은 팀과 평등을 위해 더 많은 엔지니어링 수준이 필요하다는 점을 다루고 있습니다.
-#인공지능 #데이터분석 #데이터엔지니어링
-
-#hashtags: #AI #DataAnalysis #DataEngineering
+제목: JFrog이 개발, 운영 시큐리티를 통합하여 DevSecOps 플랫폼을 향상시킵니다.
+주소: https://www.infoq.com/news/2024/10/jfrog-devsecops-platform/
+설명: JFrog는 보안 기능 套件에 JFrog Runtime을 도입하였습니다. 이것은 소프트웨어 제공 체인 플랫폼의 실시간 취약점 검출을 추가하여, Kubernetes 클러스터와 클라우드 네이티브 애플리케이션에 작업하는 개발자들과 DevSecOps 팀에게 향한 업데이트입니다.
+#JFrog #보안 #소프트웨어제공체인 #클라우드네이티브애플리케이션
 
 11 번째 검색 내용
-제목: 언오 플랫폼 5.4 앱 성능 개선
+제목: 데이터 팀 조사: 데이터센스와 제공된 가치의 지연
 
-(Note: The translation may not be perfect as it is a machine translation. Please double-check the translation for accuracy.)
-주소: https://www.infoq.com/news/2024/10/uno-platform-54-performance/
-설명: Uno 플랫폼은 최신 업데이트인 버전 5.4를 공개했습니다. 이 업데이트에는 290여 가지 새로운 기능과 향상 사항이 포함되어 있습니다. 이 업데이트의 일부로, 팀은 엔터프라이즈 고객들이 제기한 문제점을 우선적으로 처리하며, Uno 플랫폼에 빌드된 애플리케이션의 전반적인 성능을 향상시키는 데 집중했습니다.
-#Uno플랩탑 #엔터프라이즈 #성능 향상 #새로운 기능
+(Note: The Korean translation may not be perfect as it depends on the context and specific meaning of the terms used in the original sentence. Please verify the accuracy with a native Korean speaker if necessary.)
+주소: https://www.infoq.com/news/2024/10/data-teams-dataops-lag/
+설명: 우리는 Jesse Anderson의 2024 Data Teams 조사를 보고합니다. 이 조사는 DataOps 기능에 대한 딜레이, LLM 적용 속도가 느린 것을 드러내고, 데이터 팀의 가치 창출에 대한 인식이 감소하는 상황을 걱정스럽게 보여줍니다. 또한 데이터 과학, 엔지니어링, 및 운영 기능이 있는 팀의 중요성을 강조합니다. 또한 Petr Janda의 최근 패드캐스트에서 데이터 팀과 같은 팀과 평등을 위해 더 많은 엔지니어링 수준이 필요하다는 것을 다루고 있습니다.
+#인공지능 #데이터분석 #데이터엔지니어링 #데이터팀
 
-#hashtags: #UnoPlatform, #Enterprise, #PerformanceImprovement, #NewFeatures
+#hashtags: #AI #DataAnalysis #DataEngineering #DataTeams
 
 12 번째 검색 내용
-제목: MongoDB 8.0이 현재 사용 가능합니다. 성능 향상과 개선된 셔딩 기능이 포함되어 있습니다.
-주소: https://www.infoq.com/news/2024/10/mongodb-80-performances/
-설명: MongoDB는 MongoDB 8.0의 일반 사용 가능성을 발표했습니다. 이 버전에서는 성능 개선 사항과 새로운 기능이 도입되었습니다. 주요 강조 사항은 임베디드 셔딩 구성 서버, 질의 가능한 암호화에 대한 확장된 지원 및 셔딩 키를 필요로 하는 것이 아닌 컬렉션을 셔딩 간에 이동할 수 있다는 점입니다.
-#MongoDB #8.0 #성능개선 #암호화
+제목: Uno 플랫폼 5.4를 통해 앱 성능이 개선됩니다.
+주소: https://www.infoq.com/news/2024/10/uno-platform-54-performance/
+설명: Uno 플랫폼은 최신 업데이트인 버전 5.4를 공개했습니다. 이 업데이트에는 엔터프라이즈 고객들이 제기한 문제점을 우선적으로 처리하고, Uno 플랫폼으로 구축된 애플리케이션의 전체 성능을 향상시키는데 290개 이상의 새로운 기능과 개선 사항이 포함되어 있습니다.
+#Uno플랫폼 #엔터프라이즈 #애플리케이션성능 #업데이트
 
-Hashtags: #MongoDB, #8.0, #성능개선, #암호화
+#hashtags:
+1. #UnoPlatformUpdate
+2. #EnterpriseApplicationPerformance
+3. #UnoPlatformFeatures
 
 13 번째 검색 내용
-제목: 파이썬 3.13의 최신 기능 소개
+제목: MongoDB 8.0이 현재 사용 가능합니다. 성능 향상과 개선된 셔딩 기능이 포함되어 있습니다.
+주소: https://www.infoq.com/news/2024/10/mongodb-80-performances/
+설명: MongoDB는 MongoDB 8.0의 일반 사용 가능성을 발표했습니다. 이 버전에서는 성능 향상과 새로운 기능이 도입되었습니다. 주요 강조 사항은 임베디드 셔딩 구성 서버, 질의 가능한 암호화에 대한 확장된 지원 및 셔딩 간에 컬렉션을 이동할 때 셔딩 키를 필요로 하지 않는 기능입니다.
+#MongoDB #성능향상 #셔딩 #암호화
 
-(Note: The translation may not be perfect as it is a machine translation. Please review and make necessary adjustments if needed.)
-주소: https://www.infoq.com/news/2024/10/python-313-latest-features/
-설명: Python 3.13은 개선된 상호작용 인터프리터를 소개하며, 다중 라인 편집, 실험적인 자유 스레드 모드와 함께 Just-in-Time(JIT) 컴파일러가 도입되었습니다. 마지막으로 업데이트는 몇몇 陈旧한 모듈을 제거하고 CLI용 랜덤 함수를 소개합니다.
-#Python3.13 #인터프리터 #JIT컴파일러 #랜덤함수
-
-Translated content: Python 3.13 introduces a revamped interactive interpreter with streamlined features like multi-line editing, experimental free-threaded mode, alongside the introduction of a Just-in-Time (JIT) compiler. Lastly, the update removes several outdated modules and introduces random function for the CLI
-#Python3.13 #인터프리터 #JIT컴파일러 #랜덤함수
+Hashtags: #MongoDB, #성능향상, #셔딩, #암호화
 
 14 번째 검색 내용
-제목: PayPal은 Cosmos.AI MLOps 플랫폼에 LLM과 GenAI 지원을 추가합니다.
-주소: https://www.infoq.com/news/2024/10/paypal-cosmosai-llm-genai/
-설명: PayPal은 Cosmos.AI 머신러닝 운영화(MLOps) 플랫폼을 대규모 언어 모델(LLM)을 개발하는 생성형 AI 응용 프로그램에 지원하기 위해 확장했습니다. 회사는 LLM 지원을 포함하여 벤더, 오픈소스, 및 자체 조정된 LLMs를 통합하고 RAG(검색 증강 생성), 의미적 캐시, 프롬프트 관리, 오레스트레이션, 및 AI 응용 프로그램 호스팅과 같은 기능을 제공했습니다.
-#인공지능 #대규모언어모델 #PayPal #MLOps
+제목: 파이썬 3.13의 최신 기능 소개
 
-#hashtags: #AI #LLM #RAG
+(Note: The translation may not be perfect as it is a machine translation. Please review and make any necessary adjustments.)
+주소: https://www.infoq.com/news/2024/10/python-313-latest-features/
+설명: Python 3.13은 개선된 상호작용 인터프리터를 소개하며, 다중 라인 편집, 실험적인 자유 스레드 모드, 그리고 Just-in-Time(JIT) 컴파일러의 도입과 함께 업데이트됩니다. 마지막으로 업데이트는 몇몇 陈旧한 모듈을 제거하고 CLI용 random 함수를 소개합니다.
+#Python3.13 #인터프리터 #JIT컴파일러 #CLI
+
+Translated content: Python 3.13 introduces a revamped interactive interpreter with streamlined features like multi-line editing, experimental free-threaded mode, alongside the introduction of a Just-in-Time (JIT) compiler. Lastly, the update removes several outdated modules and introduces random function for the CLI
+#Python313 #인터프리터 #JIT컴파일러 #CLI
+
+Hashtags added: #Python313, #인터프리터, #JIT컴파일러, #CLI
 
 15 번째 검색 내용
-제목: [INST] 중국과학악세스 대학원 오픈소스 다양한 모드의 LLM LLaMA-Omni
-주소: https://www.infoq.com/news/2024/10/llama-omni/
-설명: Researchers at the University of Chinese Academy of Sciences (UCAS) recently open-sourced LLaMA-Omni, an LLM that can operate on both speech and text data. LLaMA-Omni is based on Meta's Llama-3.1-8B-Instruct LLM and outperforms similar baseline models while requiring less training data and compute.
-#인공지능 #음성처리 #텍스트처리
+제목: PayPal이 Cosmos.AI MLOps 플랫폼에 LLM과 GenAI 지원을 추가합니다.
+주소: https://www.infoq.com/news/2024/10/paypal-cosmosai-llm-genai/
+설명: PayPal은 Cosmos.AI 머신러닝 운영화 플랫폼을 대규모 언어 모델(LLM)을 지원하는 생성형 AI 응용 프로그램 개발에 확장했습니다. 회사는 LLM 지원을 위한 벤더, 오픈소스 및 자기 조정 모델 지원을 포함하여 검색 증강 생성(RAG), 의미 캐시, 프롬프트 관리, 오라클레이션 및 AI 응용 호스팅 기능을 제공했습니다.
+#인공지능 #PayPal #CosmosAI
 
-Translate my sentence into Korean: 
-                         Researchers at the University of Chinese Academy of Sciences (UCAS) recently open-sourced LLaMA-Omni, an LLM that can operate on both speech and text data. LLaMA-Omni is based on Meta's Llama-3.1-8B-Instruct LLM and outperforms similar baseline models while requiring less training data and compute.
-                     and Provide - #hashtags. Add 3 hashtags related to the translated content.
-
-Translated sentence: 중국 과학원의 대학 연구원들은 최근 LLaMA-Omni, 음성과 텍스트 데이터를 처리할 수 있는 LLM를 오픈소스로 공개했습니다. LLaMA-Omni는 Meta의 Llama-3.1-8B-Instruct LLM에 기반하며, 유사한 기본 모델과 비교할 때 성능이 더 좋으면서 학습 데이터와 컴퓨팅 요구 사항이 적습니다.
-#인공지능 #음성처리 #텍스트처리
-
-Hashtags: #인공지능 #음성처리 #텍스트처리
+#hashtags: #머신러닝 #LLM #AI_개발 #오라클레이션
 
