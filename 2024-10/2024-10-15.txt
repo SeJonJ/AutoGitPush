@@ -1,34 +1,31 @@
 1 번째 검색 내용
 제목: 우버가 MySQL 풀 업그레이드를 완료하며, 성능과 보안을 향상시킨다.
 주소: https://www.infoq.com/news/2024/10/uber-mysql-80-upgrade/
-설명: Uber는 MySQL 데이터베이스 풀을 개선하기 위해 버전 5.7에서 8.0으로 업그레이드를 진행했습니다. 팀은 MySQL의 새로운 버전에서 성능과 동시성 개선 사항을 활용하고 싶었으며, MySQL 5.7은 2023년 10월에 종료되는 end-of-life 상태였습니다. 작업은 한 년 이상 소요되었으며, 19개 프로덕션 영역에서 3개 지역에서 2,100개 클러스터와 16,000개 노드를 업그레이드했습니다.
+설명: Uber는 MySQL 데이터베이스 풀을 개선하기 위해 버전 5.7에서 8.0으로 업그레이드를 진행했습니다. 팀은 MySQL의 성능과 동시성 향상이 새로운 버전에서 제공되는 것을 활용하고자 하였으며, MySQL 5.7은 2023년 10월에 End-of-Life 상태가 될 것입니다. 작업은 한 년 이상 소요되었으며, 19개의 프로덕션 영역에서 3개의 지역에서 2,100개의 클러스터와 16,000개의 노드를 업그레이드하였습니다.
 #MySQL #Uber #데이터베이스_업그레이드
 
 #hashtags: #MySQL #Uber #데이터베이스_업그레이드
 
 2 번째 검색 내용
-제목: OpenAI가 실시간 API의 공개 베타를 출시하며, 저항 발음 상호 작용을 위한 낮은 지연 시간을 제공합니다.
+제목: OpenAI가 실시간 API의 공개 베타를 출시하여 저지연산 음성 상호작용을 위해 사용됩니다.
 주소: https://www.infoq.com/news/2024/10/realtime-api-openai/
-설명: AI : OpenAI는 Realtime API의 공개 베타를 출시하여, 개발자들이 애플리케이션 내에서 낮은 지연 시간과 다양한 음성 상호 작용을 구현할 수 있는 기능을 제공합니다. 또한, 채팅 완성 API에서 오디오 입력/출력이 지원되어 목소리 기반 애플리케이션의 옵션이 확장되었습니다. 초기 피드백은 음성 옵션이 제한적이고 응답이 잘린 부분을 강조합니다.
-#인공지능 #OpenAI #RealtimeAPI
+설명: AI : OpenAI는 Realtime API의 공개 베타를 시작하였습니다. 개발자들은 애플리케이션 내에서 낮은 지연 시간과 다양한 음성 상호 작용을 구현할 수 있는 기능을 제공받을 수 있습니다. 또한, 채팅 완성 API에서는 오디오 입력/출력이 지원되어 목소리 기반의 애플리케이션의 옵션이 확장되었습니다. 초기 피드백은 음성 옵션의 제한성과 응답 자르기에 대한 제한적인 지원을 강조합니다.
+#OpenAI #RealtimeAPI #음성기반애플리케이션
 
-#hashtags:
-1. #인공지능_개발자
-2. #목소리_기반_애플리케이션
-3. #OpenAI_베타_출시
+Hashtags: #OpenAI, #RealtimeAPI, #음성기반애플리케이션
 
 3 번째 검색 내용
 제목: 자바 뉴스 요약: JDK 24, Tomcat 11.0, Cassandra 5.0, EclipseStore 2.0, Payara 플랫폼, Ktor 3.0
 주소: https://www.infoq.com/news/2024/10/java-news-roundup-oct07-2024/
-설명: AI : 10월 7일에 발표된 Java 주요 소식은 JEP 489, Vector API (Ninth Incubator), 및 JEP 484, Class-File API를 JDK 24로 대상으로 하고 있습니다; Apache프로젝트인 Tomcat 11.0.0과 Cassandra 5.0.0의 발표; EclipseStore 2.0.0의 발표; 그리고 Ktor 3.0.0의 발표입니다.
+설명: AI : 10월 7일에 발표된 Java 주요 소식은 JEP 489, Vector API (Ninth Incubator), 및 JEP 484, Class-File API를 JDK 24로 대상으로 하고 있습니다; Apache프로젝트인 Tomcat 11.0.0과 Cassandra 5.0.0의 출시; EclipseStore 2.0.0의 출시; 그리고 Ktor 3.0.0의 출시입니다.
 #Java #JDK24 #ApacheTomcat
 
-Hashtags: #Java #JDK24 #ApacheCassandra
+#hashtags: #Java #JDK24 #ApacheCassandra #EclipseStore #Ktor3.0.0
 
 4 번째 검색 내용
-제목: 임시 ID: 클라우드플레어의 최신 기능으로서의 악성 검출
+제목: 임시 ID: 클라우드플레어의 최신 기능으로서 사칙 검출 도구
 
-(Note: The translation may not be perfect as it is a direct translation without considering the context or grammar of the Korean language. It's recommended to have it checked by a professional translator for better accuracy.)
+(Note: The translation may not be perfect as it is a direct translation without considering the context or grammar rules of the Korean language. It's always recommended to have a professional translator for accurate translations.)
 주소: https://www.infoq.com/news/2024/10/cloudflare-ephemeral-id/
 설명: 인공지능은 세계를 변화시키고 있습니다. 이것은 의료, 금융, 교통과 같은 다양한 분야에 응용되고 있습니다.
 #인공지능 #의료 #금융 #교통
@@ -36,26 +33,30 @@ Hashtags: #Java #JDK24 #ApacheCassandra
 During its recent Birthday Week, Cloudflare introduced Ephemeral IDs, a new feature for fraud detection. The tool identifies fraudulent activity—whether from bots or humans—by linking behavior to a specific client rather than an IP address.
 and Provide - #hashtags. Add 3 hashtags related to the translated content.
 
-번역결과: 최근의 생일주기 중에 Cloudflare는 악성 행위 탐지를 위한 새로운 기능인 Ephemeral IDs를 소개했습니다. 이 도구는 IP 주소가 아닌 특정 클라이언트에 대해 행동을 연결하여, 봇이나 사람에서 악성 활동을 식별합니다.
+번역결과: 최근의 생일주기 중에 Cloudflare는 악성 행위 탐지를 위한 새로운 기능인 Ephemeral IDs를 소개했습니다. 이 도구는 IP 주소가 아닌 특정 클라이언트에 행동을 연결하여 악성 행위, 여러분이 봇이나 사람인지 여부에 관계없이 식별합니다.
 #Cloudflare #EphemeralIDs #악성행위탐지 #IP주소
 
-번역결과: 최근의 생일주기 중에 Cloudflare는 악성 행위 탐지를 위한 새로운 기능인 Ephemeral IDs를 소개했습니다. 이 도구는 IP 주소가 아닌 특정 클라이언트에 대해 행동을 연결하여, 봇이나 사람에서 악성 활동을 식별합니다.
+번역결과: 최근의 생일주기 중에 Cloudflare는 악성 행위 탐지를 위한 새로운 기능인 Ephemeral IDs를 소개했습니다. 이 도구는 IP 주소가 아닌 특정 클라이언트에 행동을 연결하여 악성 행위, 여러분이 봇이나 사람인지 여부에 관계없이 식별합니다.
+#Cloudflare #EphemeralIDs #악성행위탐지 #IP주소
+
+번역결과: 최근의 생일주기 중에 Cloudflare는 악성 행위 탐지를 위한 새로운 기능인 Ephemeral IDs를 소개했습니다. 이 도구는 IP 주소가 아닌 특정 클라이언트에 행동을 연결하여 악성 행위, 여러분이 봇이나 사람인지 여부에 관계없이 식별합니다.
 #Cloudflare #EphemeralIDs #악성행위탐지 #IP주소
 
 5 번째 검색 내용
 제목: 스케일링 우버의 배치 데이터 플랫폼: 데이터 메시 원칙으로 클라우드 여행
 
-(Note: The translation may not be perfect as it involves some understanding of the context. Please check if it makes sense in the given context.)
+(Note: The translation may not be perfect as it is a technical term, but the meaning should be clear.)
 주소: https://www.infoq.com/news/2024/10/uber-batch-data-mesh/
 설명: 인공지능은 세계를 변화시키고 있습니다. 이것은 의료, 금융, 교통과 같은 다양한 분야에 응용되고 있습니다.
 #인공지능 #의료 #금융 #교통
 
 Some months ago, Uber started the migration to the cloud, on Google Cloud Platform (GCP), of its batch data analytics and machine learning platform. In a recent post on its engineering blog, Uber provided additional information regarding its batch data cloud migration that incorporated crucial data mesh principles.
 and Provide - #hashtags. Add 3 hashtags related to the translated content.
-#Uber #클라우드 #데이터분석 #인공지능 #머신러닝
+#Uber #클라우드 #데이터분석 #머신러닝 #데이타메쉬 #구글클라우드플랫폼
 
 6 번째 검색 내용
-제목: [INST] 웹어셈블리가 컨테이너의 다음 진화적 단계인지 모를까: 펄미온이 정보Q 개발자 슬림뮤나에서 [/INST]
+제목: [INST] 웹어셈블리가 컨테이너의 다음 진화적 단계일지도 모르겠습니다: Fermyon에서 InfoQ DevSummit 맥스헤인
+                         [/INST]
 주소: https://www.infoq.com/news/2024/10/serverless-computing-webassembly/
 설명: During her presentation at the inaugural edition of the InfoQ Dev Summit Munich, Danielle Lancashire, principal software engineer at Fermyon and co-chair of the CNCF wasm-wg, hinted at WebAssembly containers as a greener alternative and a potential evolution from the current containerised approach to serverless computing.
                      #웹어셈블리 #서버리스컴퓨팅 #환경보호
@@ -65,45 +66,38 @@ During her presentation at the inaugural edition of the InfoQ Dev Summit Munich,
                      #웹어셈블리 #서버리스컴퓨팅 #환경보호
 
 7 번째 검색 내용
-제목: NVIDIA는 NVLM 1.0을 공개합니다.: 오픈소스 다중 모드 LLM를 포함하여 향상된 텍스트 및 시각 기능이 있습니다.
+제목: NVIDIA는 NVLM 1.0을 공개합니다.: 오픈소스 다중모달 LLM를 포함하여 향상된 텍스트와 시각 기능이 있습니다.
 주소: https://www.infoq.com/news/2024/10/nvlm-nvidia-open-source/
-설명: NVIDIA는 NVLM 1.0을 공개 소스 다중 모드 대형 자연어 모델(LLM)으로 폭포하였습니다. 시각-언어와 텍스트만 있는 작업에서 강력한 성능을 보여줍니다. NVLM 1.0은 다중 모드 훈련 후 텍스트 기반 작업에서 개선된 결과를 보였으며, 현재의 모델 중 하나로 특별합니다. 모델 가중치는 Hugging Face에서 이제 사용할 수 있고, 곧 훈련 코드가 발표되기 전까지입니다.
-#NVIDIA #NVLM #대형자연어모델 #HuggingFace
-
-Translated content: NVIDIA unveiled NVLM 1.0, an open-source multimodal large language model (LLM) that performs strongly on both vision-language and text-only tasks. NVLM 1.0 shows improvements in text-based tasks after multimodal training, standing out among current models. The model weights are now available on Hugging Face, with the training code set to be released shortly.
-#NVIDIA #NVLM #대형자연어모델 #HuggingFace
-
-Hashtags: #NVIDIA, #NVLM, #대형자연어모델, #HuggingFace
+설명: NVIDIA는 NVLM 1.0을 공개 소스로 제시하였습니다, 이것은 시각-언어와 텍스트만 있는 작업에서 강력한 성능을 보여줍니다. NVLM 1.0은 다변모달 학습 후 텍스트 기반 작업에서 개선된 결과를 보였으며, 현재의 모델 중 하나로 특별합니다. 모델 가중치는 Hugging Face에 이미 사용할 수 있으며, 곧 훈련 코드를 공개할 예정입니다.
+#NVIDIA #NVLM #자연어처리
 
 8 번째 검색 내용
 제목: InfoQ Dev Summit 맥스헤인: 1BRC를 최적화하는 방법을 알아보자.
 주소: https://www.infoq.com/news/2024/10/optimize-java-1brc/
-설명: Java 애플리케이션은 1.5초에 1억 행 챌린지(1BRC)를 통과했습니다. 1BRC는 2024년 InfoQ Dev Summit Munich에서 창시자 Gunnar Morling이 최적화 작업을 세부사항으로 설명했습니다. 모든 Java 애플리케이션에 적용할 수 있는 일반적인 최적화를 통해 실행 시간을 290초에서 20초로 줄였습니다. 1.5초까지 도달하기 위해서는 대부분의 Java 애플리케이션에서 사용할 수 있는 낭비적인 최적화를 포기해야 합니다. 그라알VM과 같은 특정 애플리케이션에만 적용되는 최적화가 필요했습니다.
-#Java #1BRC #최적화 #그라알VM
-
-#hashtags: #JavaOptimization, #1BillionRowChallenge, #GunnarMorling
+설명: Java 애플리케이션은 1.5초 내에 1억 행 챌린지(1BRC)를 통과했습니다. 1BRC의 창시자인 Gunnar Morling은 InfoQ Dev Summit Munich 2024에서 최적화 사항을 상세히 설명했습니다. 모든 Java 애플리케이션에 적용할 수 있는 일반적인 최적화로 실행 시간을 290초에서 20초로 줄였습니다. 1.5초까지 도달하기 위해서는 대부분의 Java 애플리케이션에서 사용할 수 있는 특별한 최적화를 필요로합니다. 그라알VM과 같은 몇몇 애플리케이션에만 적용되어야 할 것으로 보입니다.
+#Java #최적화 #1BRC #그라알VM
+#hashtags: #자바최적화, #1억행챌린지, #그라알VM, #GunnarMorling
 
 9 번째 검색 내용
-제목: 오픈애이 개발자 일상 2024(SF)는 실시간 API, 비전 정교화 및 더 많은 기능을 공지합니다.
+제목: 오픈애이 개발자 일상 2024(SF)는 실시간 API, 비전 정밀 튜닝 및 더 많은 기능을 공지합니다.
 주소: https://www.infoq.com/news/2024/10/openai-sf-dev-day/
 설명: On October 1, 2024, OpenAI SF DevDay unveiled innovative features, including a Real-Time API enabling instant voice interactions and function calling. Enhanced model distillation and vision fine-tuning empower developers to customize AI for diverse applications. Upcoming events in London and Singapore will further expand these capabilities.
-                     #OpenAI #SFDevDay #인공지능기능확장
+#인공지능 #오픈아이 #SFDevDay
 
-#hashtags: 
-#OpenAI
-#SFDevDay
-#인공지능기능확장
+Translated content: 
+On October 1, 2024, OpenAI SF DevDay unveiled innovative features, including a Real-Time API enabling instant voice interactions and function calling. Enhanced model distillation and vision fine-tuning empower developers to customize AI for diverse applications. Upcoming events in London and Singapore will further expand these capabilities.
+#인공지능 #오픈아이 #SFDevDay
+
+Hashtags: 
+#인공지능 #오픈아이 #SFDevDay
 
 10 번째 검색 내용
-제목: [INST] 이 문장을 한국어로 번역하십시오:
-
-                            리눅스 커널을 실시간 스케줄링을 지원하는 상자에서 사용할 수 있도록 구성합니다.
-                        [/INST]
+제목: Linux 커널은 실시간 스케줄링을 지원하는 상자에서 사용할 수 있습니다.
 주소: https://www.infoq.com/news/2024/10/linux-6-12-real-time/
-설명: Linux 6.12는 기본 코드에서 실시간 처리를 지원하도록 공식적으로 포함되며, PREEMPT_RT가 모든 지원 아키텍처에 적용될 수 있는 PR로 인해 이뤄졌습니다. 이는 정적 시간 보장을 필요로 하는 애플리케이션, 예를 들어 항공, 로봇, 자동차, 및 통신과 같은 분야에서 사용되지만, 데스크톱의 사용자 경험에도 개선을 가져올 수 있습니다.
+설명: Linux 6.12는 기본 코드에서 실시간 처리를 지원하는데 대한 PR로 인해 모든 지원 아키텍처에서 PREEMPT_RT가 활성화되었습니다. 이는 정적인 시간 보장가능 필요 있는 응용 프로그램, 예를 들어 항공, 로봇, 자동차, 및 통신에 대한 지원을 받았습니다. 이는 데스크톱의 사용자 경험에도 개선을 가져올 수 있습니다.
 #Linux612 #실시간처리 #사용자경험개선
 
-#hashtags: #Linux612, #RealTimeProcessing, #UserExperienceImprovement
+#hashtags: #Linux612, #RealtimeProcessing, #UserExperienceImprovement
 
 11 번째 검색 내용
 제목: 데이터 메시 기업 설립
@@ -119,38 +113,36 @@ Translated content hashtags: #데이터메시지, #플랫폼, #생산자소비�
 제목: 
 주소: https://www.infoq.com/news/2024/10/open-llm-leaderboard-v2-launch/
 설명: Hugging Face는 최근 Open LLM Leaderboard v2를 발표했습니다, 대규모 언어 모델의 평가 벤치마크 플랫폼의 업그레이드 버전입니다. Hugging Face는 Open LLM Leaderboard를 만들어 참조 모델에 대한 표준화된 평가 설정을 제공하여, 재생성 가능하고 비교 가능한 결과를 보장합니다.
-#HuggingFace #OpenLLMLeaderboard #대규모언어모델 #평가벤치마크
-
-#hashtags: #AI #NLP #데이터사이언스
+#HuggingFace #OpenLLMLeaderboard #대규모언어모델
 
 13 번째 검색 내용
-제목: JFrog이 개발, 운영 보안을 강화한 개선된 DevSecOps 플랫폼으로 통합
+제목: JFrog이 개발, 운영 보안을 강화한 DevSecOps 플랫폼으로 통합
 
-(Note: The translation may not be perfect as it is a machine translation. Please review and make any necessary adjustments.)
+(Note: The translation may not be perfect as it is a machine translation. Please review and make necessary adjustments if needed.)
 주소: https://www.infoq.com/news/2024/10/jfrog-devsecops-platform/
-설명: JFrog는 보안 기능 집합에 JFrog Runtime을 도입하였습니다. 이것은 소프트웨어 공급 체인 플랫폼의 실시간 취약성 검출을 추가하여, Kubernetes 클러스터와 클라우드 네이티브 애플리케이션을 다루는 개발자들과 DevSecOps 팀에게 목적을 두었습니다.
-#JFrog #보안 #소프트웨어공급체인 #클라우드네이티브
+설명: JFrog는 보안 기능 套件에 JFrog Runtime을 도입하여, 소프트웨어 공급 체인 플랫폼에서 실시간 취약성 검출을 추가했습니다. 이 업데이트는 Kubernetes 클러스터와 클라우드 네이티브 응용 프로그램을 사용하는 개발자와 DevSecOps 팀에게 목적되어 있습니다.
+#JFrog #보안 #소프트웨어공급체인 #Kubernetes
 
-#hashtags: #JFrog, #보안, #소프트웨어공급체인, #클라우드네이티브
+Hashtags: #JFrog, #보안, #소프트웨어공급체인, #Kubernetes
 
 14 번째 검색 내용
-제목: 데이터 팀 조사: 데이터센스와 제공된 가치의 지연
+제목: 데이터 팀 조사: 데이터오프스의 지연과 제공된 가치
 
-(Note: The Korean translation may not be perfect as it depends on the context and specific meaning of the words in the original sentence. Please make sure to review the translation for accuracy before using it.)
+(Note: The Korean translation may not be perfect as it is a machine translation. Please review and make necessary adjustments if needed.)
 주소: https://www.infoq.com/news/2024/10/data-teams-dataops-lag/
-설명: 우리는 Jesse Anderson의 2024 Data Teams 조사에 대해 보고합니다. 이 조사는 DataOps 기능 부재, 느린 LLM 채택, 데이터 팀의 가치 생성을 감소시키는 걱정스러운 추세를 보여줍니다. 이 조사는 데이터 과학, 엔지니어링, 및 운영 능력이 있는 팀의 중요성을 강조합니다. 또한 Petr Janda의 최근 팟캐스트에서 데이터 팀과 같은 팀과 평등을 위해 더 많은 엔지니어링 수준이 필요하다는 것을 다루고 있습니다.
-#인공지능 #데이터분석 #데이터엔지니어링
+설명: 우리는 Jesse Anderson의 2024 Data Teams 조사를 보고합니다. 이 조사는 DataOps 기능에 대한 병잡, LLM 채택 속도가 느린 것을 드러내고, 데이터 팀의 가치 창출에 대한 인식이 감소하는 상황을 걱정스럽게 보여줍니다. 또한 데이터 과학, 엔지니어링, 및 운영 기능이 있는 팀의 중요성을 강조합니다. 또한 Petr Janda의 최근 패드캐스트에서 데이터 팀과 같은 팀과 평등을 위해 더 많은 엔지니어링 수준이 필요하다는 점을 다루고 있습니다.
+#데이터팀 #데이터엔지니어링 #데이터오챗 #데이터과학
 
-#hashtags: #AI #DataAnalysis #DataEngineering
+#hashtags: #데이터분석 #머신러닝 #데이터엔지니어링 #데이터오챗 #데이터팀 #인공지능 #AI #데이터분석기술 #데이터과학
 
 15 번째 검색 내용
 제목: Uno 플랫폼 5.4를 통해 앱 성능이 개선됩니다.
 주소: https://www.infoq.com/news/2024/10/uno-platform-54-performance/
-설명: Uno 플랫폼은 최신 업데이트, 버전 5.4를 공개하였습니다. 이 업데이트에는 엔터프라이즈 고객들이 제기한 문제점을 우선적으로 처리하고, Uno 플랫폼으로 구축된 애플리케이션의 전반적인 성능을 향상시키는데 290개 이상의 새로운 기능과 개선 사항이 포함되어 있습니다.
-#Uno플랫폼 #엔터프라이즈 #애플리케이션성능 #업데이트
+설명: Uno 플랫폼은 최신 업데이트인 버전 5.4를 공개했습니다. 이 업데이트에는 290여 가지 새로운 기능과 향상 사항이 포함되어 있습니다. 이 업데이트의 일부로, 팀은 엔터프라이즈 고객들이 제기한 문제점을 우선적으로 처리하며, Uno 플랫폼에 빌드된 애플리케이션의 전반적인 성능을 향상시키는 데 집중했습니다.
+#Uno플랩탑 #엔터프라이즈 #성능향상 #새로운기능
 
 #hashtags:
-1. #UnoPlatformUpdate
-2. #EnterpriseApplicationPerformance
-3. #UnoPlatformFeaturesEnhancement
+1. #Uno플랩탑
+2. #엔터프라이즈
+3. #성능향상 #새로운기능
 
