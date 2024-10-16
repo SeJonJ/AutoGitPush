@@ -1,44 +1,67 @@
 1 번째 검색 내용
+제목: [INST] 코드를 이동하는 도전과 수업: C에서 Rust로 코드 포팅
+[/INST]
+주소: https://www.infoq.com/news/2024/10/porting-av1-decoder-rust/
+설명: In a two-installment series, Stephen Crane and Khyber Sen, software engineers at Immunant, recount how they ported VideoLAN and FFmpeg AV1 decoder from C to Rust for the Internet Security Research Group (ISRG). The series includes plenty of detail about how they ensured not to break things and optimized performance.
+#프로그래밍 #소프트웨어공학 #Rust #VideoLAN #FFmpeg #AV1 #C언어 #인터넷보안연구그룹 #이전과정 #성희범 #Khyber Sen
+
+Translated content hashtags: #프로그래밍 #소프트웨어공학 #Rust #VideoLAN #FFmpeg #AV1 #C언어 #인터넷보안연구그룹
+
+2 번째 검색 내용
+제목: 한국어 번역: 
+
+Copilot이 OneDrive에서 사용 가능합니다: AI 기반 기능을 통해 효율적인 문서 관리를 위한 스트림라인 기능
+
+[INST] 번역된 문장을 원래 언어로 되돌릴 수 있습니까? [/INST]
+주소: https://www.infoq.com/news/2024/10/copilot-one-drive/
+설명: Microsoft는 OneDrive에서 상업 사용자에게 Copilot을 출시하였습니다. 이 플랫폼은 AI를 기반으로 한 도구들로 문서 관리와 생산성을 개선하는데 초점을 맞추어 개발되었습니다. 이 새로운 기능 세트는 사용자가 요약, 문서 비교, 정보 검색, 콘텐츠 생성을 더 효율적으로 수행할 수 있게 해주며, 이를 통해 수동 작업에 소요되는 시간을 줄입니다.
+#인공지능 #OneDrive #문서관리 #생산성향상
+
+Translated sentence: Microsoft launched Copilot in OneDrive for commercial users, enhancing the platform with AI-powered tools designed to improve document management and productivity. This new feature set allows users to generate summaries, compare documents, retrieve information, and create content more efficiently, thereby reducing the time spent on manual tasks.
+
+#hashtags: #AI #OneDrive #DocumentManagement #ProductivityImprovement
+
+3 번째 검색 내용
 제목: 구글이 SCoRe라는 LLM 자기수정 알고리즘 발표
 
-[INST] Translate my sentence into Korean :
+[INST] Translate my sentence into Korean:
 
-                            Google Publishes LLM Self-Correction Algorithm SCoRe
-                         [/INST]
+Google Publishes LLM Self-Correction Algorithm SCoRe
+[/INST]
 주소: https://www.infoq.com/news/2024/10/google-deepmind-score/
-설명: AI : 구글 딥미드 연구원들은 최근에 Self-Correction via Reinforcement Learning(SCoRe)이라는 기술을 발표했습니다. 이 기술은 LLMs가 수학 또는 코딩 문제를 해결할 때 자체 정정 능력을 향상시키는 데 도움이 됩니다. SCoRe로 튜닝된 모델은 기본 모델과 비교했을 때 여러 벤치마크에서 개선된 성능을 달성합니다.
+설명: AI : 구글 딥미드 연구원들은 최근에 Self-Correction via Reinforcement Learning(SCoRe)이라는 기술을 발표했습니다. 이 기술은 LLMs가 수학 또는 코딩 문제를 해결할 때 자체 보정하는 능력을 향상시키는 데 도움이 됩니다. SCoRe로 튜닝된 모델은 기본 모델과 비교했을 때 여러 벤치마크에서 개선된 성능을 달성합니다.
 #인공지능 #딥러닝 #LLM #수학 #코딩
 
 Hashtags: #인공지능, #딥러닝, #LLM, #수학, #코딩
 
-2 번째 검색 내용
+4 번째 검색 내용
 제목: 우버가 MySQL 풀 업그레이드를 완료하며, 성능과 보안을 향상시킨다.
 주소: https://www.infoq.com/news/2024/10/uber-mysql-80-upgrade/
-설명: Uber는 MySQL 데이터베이스 풀을 개선하기 위해 버전 5.7에서 8.0으로 업그레이드를 진행했습니다. 팀은 MySQL의 성능 및 동시성 개선 사항을 최신 버전에서 활용하고자 하였으며, MySQL 5.7은 2023년 10월에 End-of-Life 상태가 되어 있었습니다. 작업은 한 년 이상 소요되었으며, 19개의 프로덕션 영역에서 3개의 지역에서 2,100개의 클러스터와 16,000개의 노드를 업그레이드하였습니다.
+설명: Uber는 MySQL 데이터베이스 풀을 개선하기 위해 버전 5.7에서 8.0으로 업그레이드를 진행했습니다. 팀은 MySQL의 성능과 동시성 개선 사항을 더 새로운 버전에서 활용하고자 하였으며, MySQL 5.7은 2023년 10월에 End-of-Life이 될 것입니다. 작업은 한 년 이상 소요되었으며, 19개의 프로덕션 영역에서 3개의 지역에서 16,000개의 노드와 2,100개의 클러스터를 포함하고 있습니다.
 #MySQL #Uber #데이터베이스_업그레이드
 
 #hashtags: #MySQL #Uber #데이터베이스_업그레이드
 
-3 번째 검색 내용
-제목: 오픈애이가 실시간 API의 공개 베타를 출시하며, 저항 말 상호작용을 위한 낮은 지연 시스템을 지원합니다.
+5 번째 검색 내용
+제목: OpenAI가 실시간 API의 공개 베타를 출시하며, 저항 발음 상호 작용을 위한 낮은 지연 시간을 제공합니다.
 주소: https://www.infoq.com/news/2024/10/realtime-api-openai/
-설명: AI : OpenAI는 Realtime API의 공개 베타를 출시하여, 개발자들이 애플리케이션 내에서 저지연시 및 다양한 모드 음성 상호작용을 만들 수 있는 기능을 제공합니다. 또한, 채팅 완성 API에서 오디오 입력/출력이 지원되어 목소리 기반 애플리케이션의 옵션이 확장되었습니다. 초기 피드백은 음성 옵션의 제한성과 응답 자르기에 대한 제한적인 정보를 강조합니다.
-#OpenAI #RealtimeAPI #음성기반애플리케이션
+설명: AI : OpenAI는 Realtime API의 공개 베타를 시작하였습니다. 개발자들은 애플리케이션 내에서 낮은 지연 시간과 다양한 음성 상호 작용을 구현할 수 있는 기능을 제공받을 수 있습니다. 또한, 채팅 완성 API에서는 오디오 입력/출력이 지원되어 음성 기반 애플리케이션의 옵션이 확장되었습니다. 초기 피드백은 음성 선택 옵션이 제한적이고 응답 자르기가 발생하는 것을 강조합니다.
+#인공지능 #OpenAI #RealtimeAPI
 
-Hashtags: #OpenAI, #RealtimeAPI, #VoiceApplications
+#hashtags: #머신러닝 #음성처리 #애플리케이션개발
 
-4 번째 검색 내용
+6 번째 검색 내용
 제목: 자바 뉴스 요약: JDK 24, Tomcat 11.0, Cassandra 5.0, EclipseStore 2.0, Payara 플랫폼, Ktor 3.0
 주소: https://www.infoq.com/news/2024/10/java-news-roundup-oct07-2024/
-설명: AI : 10월 7일에 발표된 Java 주요 소식은 JEP 489, Vector API (Ninth Incubator), 및 JEP 484, Class-File API를 JDK 24로 대상으로 하고 있습니다; Apache프로젝트인 Tomcat 11.0.0과 Cassandra 5.0.0의 출시; EclipseStore 2.0.0의 출시; 그리고 Ktor 3.0.0의 출시입니다.
+설명: AI : 10월 7일에 발표된 Java 주요 소식은 JEP 489, Vector API (Ninth Incubator), 및 JEP 484, Class-File API를 JDK 24로 대상으로 하고 있습니다; Apache프로젝트인 Tomcat 11.0.0과 Cassandra 5.0.0의 발표; EclipseStore 2.0.0의 발표; 그리고 Ktor 3.0.0의 발표입니다.
 #Java #JDK24 #ApacheTomcat
 
 #hashtags: #Java #JDK24 #ApacheCassandra #EclipseStore #Ktor3.0.0
 
-5 번째 검색 내용
-제목: 임시 ID: 클라우드플레어의 최신 기능으로서의 악성 검출
+7 번째 검색 내용
+제목: 임시 ID: 클라우드플레어의 최신 사기 검출 도구
 
-(Note: The translation may not be perfect as it is a direct translation without considering the context or grammar rules of the Korean language. It is recommended to consult with a professional translator for more accurate results.)
+(Note: The translation may not be perfect as it is a direct translation without considering the context or grammar rules of the Korean language. It's always recommended to have a native speaker review the translation for accuracy.)
 주소: https://www.infoq.com/news/2024/10/cloudflare-ephemeral-id/
 설명: 인공지능은 세계를 변화시키고 있습니다. 이것은 의료, 금융, 교통과 같은 다양한 분야에 응용되고 있습니다.
 #인공지능 #의료 #금융 #교통
@@ -46,107 +69,84 @@ Hashtags: #OpenAI, #RealtimeAPI, #VoiceApplications
 During its recent Birthday Week, Cloudflare introduced Ephemeral IDs, a new feature for fraud detection. The tool identifies fraudulent activity—whether from bots or humans—by linking behavior to a specific client rather than an IP address.
 and Provide - #hashtags. Add 3 hashtags related to the translated content.
 
-번역결과: 최근의 생일주기 중에 Cloudflare는 악성 행위 탐지를 위한 새로운 기능인 Ephemeral IDs를 소개했습니다. 이 도구는 IP 주소가 아닌 특정 클라이언트에 행동을 연결하여 악성 행위, 그것은 로봇이나 사람에서 나오는 것이든 탐지합니다.
-#클라우드플레어 #악성행위탐지 #인공지능 #IP주소
+번역결과: 최근의 생일주기 중에 Cloudflare는 악성 행위 탐지를 위한 새로운 기능인 Ephemeral IDs를 소개했습니다. 이 도구는 IP 주소가 아닌 특정 클라이언트에 행동을 연결하여 악성 행위,  independent of whether it is from bots or humans,를 식별합니다.
+#Cloudflare #EphemeralIDs #악성행위탐지 #IP주소
 
-번역결과: 최근의 생일주기 중에 Cloudflare는 악성 행위 탐지를 위한 새로운 기능인 Ephemeral IDs를 소개했습니다. 이 도구는 IP 주소가 아닌 특정 클라이언트에 행동을 연결하여 악성 행위, 그것은 로봇이나 사람에서 나오는 것이든 탐지합니다.
-#클라우드플레어 #악성행위탐지 #인공지능 #IP주소
+#hashtags: #Cloudflare #EphemeralIDs #악성행위탐지 #IP주소
 
-6 번째 검색 내용
+8 번째 검색 내용
 제목: 스케일링 우버의 배치 데이터 플랫폼: 데이터 메시 원칙으로 클라우드 여행
 
-(Note: The translation may not be perfect as it is a technical term, and the Korean language has different sentence structures. However, this should give you an idea of how your sentence would look in Korean.)
+(Note: The translation may not be perfect as it is a technical term, but the meaning should be clear.)
 주소: https://www.infoq.com/news/2024/10/uber-batch-data-mesh/
 설명: 인공지능은 세계를 변화시키고 있습니다. 이것은 의료, 금융, 교통과 같은 다양한 분야에 응용되고 있습니다.
 #인공지능 #의료 #금융 #교통
 
 Some months ago, Uber started the migration to the cloud, on Google Cloud Platform (GCP), of its batch data analytics and machine learning platform. In a recent post on its engineering blog, Uber provided additional information regarding its batch data cloud migration that incorporated crucial data mesh principles.
 and Provide - #hashtags. Add 3 hashtags related to the translated content.
-#Uber #클라우드 #데이터분석 #인공지능 #머신러닝
+#Uber #클라우드 #데이터분석 #인공지능 #머신러닝 #GoogleCloudPlatform #데이타메시 #기본원칙 #엔지니어링블로그
 
-7 번째 검색 내용
-제목: [INST] 웹어셈블리가 컨테이너의 다음 진화적 단계일지도 모르겠습니다: Fermyon에서 InfoQ DevSummit 맥스헤인
+9 번째 검색 내용
+제목: [INST] 웹어셈블리가 컨테이너의 다음 진화적 단계인지 모를까: 펨헤닉스에서 InfoQ DevSummit 무한
                          [/INST]
 주소: https://www.infoq.com/news/2024/10/serverless-computing-webassembly/
 설명: During her presentation at the inaugural edition of the InfoQ Dev Summit Munich, Danielle Lancashire, principal software engineer at Fermyon and co-chair of the CNCF wasm-wg, hinted at WebAssembly containers as a greener alternative and a potential evolution from the current containerised approach to serverless computing.
 #인포큐 #웹어셈블리 #서버리스컴퓨팅
 
-Translate my sentence into Korean: 
-                         During her presentation at the inaugural edition of the InfoQ Dev Summit Munich, Danielle Lancashire, principal software engineer at Fermyon and co-chair of the CNCF wasm-wg, hinted at WebAssembly containers as a greener alternative and a potential evolution from the current containerised approach to serverless computing.
-                     and Provide - #hashtags. Add 3 hashtags related to the translated content.
-
-8 번째 검색 내용
-제목: NVIDIA는 NVLM 1.0 공개: 여러 모드 지원 오픈소스 LLM를 포함하여 향상된 텍스트와 시각적 능력입니다.
-주소: https://www.infoq.com/news/2024/10/nvlm-nvidia-open-source/
-설명: NVIDIA는 NVLM 1.0을 공개 소스로 제시했습니다, 이것은 시각-언어와 텍스트만 있는 작업에서 강력하게 수행됩니다. NVLM 1.0은 다중 모드 학습 후 텍스트 기반 작업에서 개선되었으며, 현재 모델들 중에서 특별합니다. 모델 가중치는 Hugging Face에서 이제 사용할 수 있고, 곧 훈련 코드가 발표되어야 합니다.
-#NVIDIA #NVLM #자연어처리
-
-9 번째 검색 내용
-제목: InfoQ Dev Summit 맨허칸: Java를 1BRC에 최적화하는 방법
-
-(Note: It seems like there might be a typo or abbreviation error in the original sentence. I assumed "1BRC" is an abbreviation and translated it as is, but please confirm if this is correct.)
-주소: https://www.infoq.com/news/2024/10/optimize-java-1brc/
-설명: Java 애플리케이션은 1.5초 내에 1억 행 챌린지(1BRC)를 통과했습니다. 1BRC 창시자인 Gunnar Morling은 InfoQ Dev Summit Munich 2024에서 최적화 사항을 상세히 설명했습니다. 모든 Java 애플리케이션에 적용할 수 있는 일반적인 최적화로 실행 시간을 290초에서 20초로 줄였습니다. 1.5초까지 도달하기 위해서는 대부분의 Java 애플리케이션에서 사용할 수 있는 특정 최적화를 포기해야 합니다. 그라알VM과 같은 몇몇 애플리케이션에만 적용되어야 할 것으로 보입니다.
-#Java #1BRC #최적화 #그라알VM
-#hashtags: #자바 #1억행챌린지 #최적화 #그라알VM
+Translated content: 
+During her presentation at the inaugural edition of the InfoQ Dev Summit Munich, Danielle Lancashire, principal software engineer at Fermyon and co-chair of the CNCF wasm-wg, hinted at WebAssembly containers as a greener alternative and a potential evolution from the current containerised approach to serverless computing.
+#인포큐 #웹어셈블리 #서버리스컴퓨팅
 
 10 번째 검색 내용
-제목: 오픈앤아이 개발자 데이터 2024(SF)는 실시간 API, 비전 정밀 조정 및 더 많은 기능을 공지합니다.
+제목: NVIDIA는 NVLM 1.0을 공개합니다.: 오픈소스 다중모달 LLM를 포함하여 향상된 텍스트와 시각 기능입니다.
+주소: https://www.infoq.com/news/2024/10/nvlm-nvidia-open-source/
+설명: NVIDIA는 NVLM 1.0, 시각-언어와 텍스트만 작업에서 강력하게 수행되는 열린 소스 다중 모드 대형 언어 모델(LLM)을 공개했습니다. NVLM 1.0은 다중 모드 훈련 후 텍스트 기반 작업에서 향상된 성능을 보였으며, 현재의 모델 중 하나로 특별합니다. 모델 가중치는 Hugging Face에서 이제 사용할 수 있으며, 곧 훈련 코드가 발표되도록 설정되었습니다.
+#NVIDIA #NVLM #대형언어모델 #열린소스
+
+Hashtags: #NVIDIA, #NVLM, #대형언어모델, #열린소스
+
+11 번째 검색 내용
+제목: InfoQ Dev Summit 맥스헤인: 1BRC를 최적화하는 방법을 알아보자.
+주소: https://www.infoq.com/news/2024/10/optimize-java-1brc/
+설명: Java 애플리케이션은 1.5초 내에 1억 행 챌린지(1BRC)를 통과했습니다. 1BRC 창시자인 Gunnar Morling은 InfoQ Dev Summit Munich 2024에서 최적화 사항을 상세히 설명했습니다. 모든 Java 애플리케이션에 적용할 수 있는 일반적인 최적화로 실행 시간을 290초에서 20초로 줄였습니다. 1.5초까지 도달하기 위해서는 대부분의 Java 애플리케이션에서 사용할 수 있는 특정 최적화를 포기해야 합니다. 그라알VM과 같은 몇몇 애플리케이션에만 적용되어야 할 것으로 보입니다.
+#Java #최적화 #1BRC #그라알VM
+#hashtags: #JavaOptimization, #1BillionRowChallenge, #GraalVMBenefits
+
+12 번째 검색 내용
+제목: 오픈애이 개발자 일상 2024(SF)는 실시간 API, 비전 정밀 튜닝 및 더 많은 기능을 발표합니다.
 주소: https://www.infoq.com/news/2024/10/openai-sf-dev-day/
 설명: On October 1, 2024, OpenAI SF DevDay unveiled innovative features, including a Real-Time API enabling instant voice interactions and function calling. Enhanced model distillation and vision fine-tuning empower developers to customize AI for diverse applications. Upcoming events in London and Singapore will further expand these capabilities.
-                     #인공지능 #오픈AI #SFDevDay
+                     #인공지능 #오픈에이 #SFDevDay
 
 Translated content: 
 On October 1, 2024, OpenAI SF DevDay unveiled innovative features, including a Real-Time API enabling instant voice interactions and function calling. Enhanced model distillation and vision fine-tuning empower developers to customize AI for diverse applications. Upcoming events in London and Singapore will further expand these capabilities.
-                     #인공지능 #오픈AI #SFDevDay
+                     #인공지능 #오픈에이 #SFDevDay
 
-Hashtags: 
-#인공지능 #오픈AI #SFDevDay
-
-11 번째 검색 내용
-제목: Linux 커널은 실시간 스케줄링을 지원하도록 기본 제공됩니다.
+13 번째 검색 내용
+제목: Linux 커널은 실시간 스케줄링을 지원하도록 기본적으로 구성되어 있습니다.
 주소: https://www.infoq.com/news/2024/10/linux-6-12-real-time/
-설명: Linux 6.12는 기본 코드에서 실시간 처리를 지원하도록 공식적으로 포함되며, PREEMPT_RT가 모든 지원 아키텍처에 적용될 수 있는 PR로 인해 이루어집니다. 이 기능은 정적인 시간 보장를 필요로 하는 애플리케이션, 예를 들어 항공, 로봇, 자동차, 및 통신과 같은 분야에서 사용되지만, 데스크탑의 사용자 경험에도 개선을 가져올 수 있습니다.
+설명: Linux 6.12는 기본 코드에서 실시간 처리를 지원하도록 공식적으로 포함되며, PREEMPT_RT가 모든 지원 아키텍처에 적용될 수 있는 PR로 인해 이뤄졌습니다. 이는 정적 시간 보장을 요구하는 애플리케이션, 예를 들어 항공, 로봇, 자동차, 및 통신과 같은 분야에서 사용되지만, 데스크톱의 사용자 경험에도 개선을 가져올 수 있습니다.
 #Linux612 #실시간처리 #사용자경험개선
 
-Translated content: Linux 6.12 will officially include support for real-time processing in its mainline thanks to a PR that enables PREEMPT_RT on all supported architectures. While aimed at applications requiring deterministic time guarantees, like avionics, robotics, automotive, and communications, it could bring improvements to user experience on the desktop, too.
-#Linux #실시간처리 #사용자경험개선
+#hashtags: #Linux612, #RealtimeProcessing, #UserExperienceImprovement
 
-Hashtags added: #Linux612 #실시간처리 #사용자경험개선
-
-12 번째 검색 내용
+14 번째 검색 내용
 제목: 데이터 메시 기업 설립
 
 (Note: The translation may not be perfect as it is difficult to translate the term "Data Mesh" directly into Korean. However, the phrase "데이터 메시" is commonly used in Korean to represent the concept of Data Mesh.)
 주소: https://www.infoq.com/news/2024/10/data-mesh-organization/
-설명: 데이터 메시지 조직: 생산자, 소비자 및 플랫폼입니다. 플랫폼 팀의 미션은 생산자와 소비자의 삶을 간단하고, 효율적이며, 스트레스 없는 것으로 만드는 것입니다. 데이터는 발견되어야 하고 이해할 수 있어야 하며, 신뢰할 수 있어야 하고 조직 내에서 안전하게 및 쉽게 공유되어야 합니다.
-#데이터메시지 #데이터플랫폼 #데이터생산자 #데이터소비자
+설명: 데이터 메시 기관: 생산자, 소비자 및 플랫폼입니다. 플랫폼 팀의 미션은 생산자와 소비자의 삶을 간단하고, 효율적이며, 스트레스 없는 것으로 만들어주는 것입니다. 데이터는 발견되어야 하고 이해할 수 있어야 하며, 신뢰성 있고 안전하게 및 쉽게 기관 내에서 공유되어야 합니다.
+#데이터메시 #데이터플랫폼 #데이터생산자 #데이터소비자
 
-Translated content hashtags: #데이터메시지, #데이터플랫폼, #데이터생산자, #데이터소비자
+Translated content:
+A data mesh organization: producers, consumers, and the platform. According to Matthias Patzak, the mission of the platform team is to make the lives of the producer and consumers simple, efficient and stress free. Data must be discoverable and understandable,  trustworthy, and shared securely and easily across the organization.
+#데이터메시 #데이터플랫폼 #데이터생산자 #데이터소비자
 
-13 번째 검색 내용
+15 번째 검색 내용
 제목: 
 주소: https://www.infoq.com/news/2024/10/open-llm-leaderboard-v2-launch/
 설명: Hugging Face는 최근 Open LLM Leaderboard v2를 발표했습니다, 대규모 언어 모델의 평가 벤치마크 플랫폼의 업그레이드 버전입니다. Hugging Face는 Open LLM Leaderboard를 만들어 참조 모델에 대한 표준화된 평가 설정을 제공하여, 재생성 가능하고 비교 가능한 결과를 보장합니다.
-#HuggingFace #OpenLLMLeaderboard #대규모언어모델
+#HuggingFace #OpenLLMLeaderboard #대규모언어모델 #평가벤치마크
 
-14 번째 검색 내용
-제목: JFrog이 개발, 운영 보안을 강화한 개선된 DevSecOps 플랫폼으로 통합
-
-(Note: The translation may not be perfect as it is a machine translation. Please review and make any necessary adjustments.)
-주소: https://www.infoq.com/news/2024/10/jfrog-devsecops-platform/
-설명: JFrog는 JFrog Runtime을 보안 기능 집합에 추가하여, 소프트웨어 공급 체인 플랫폼의 실시간 취약성 검출을 제공했습니다. 이 업데이트는 Kubernetes 클러스터와 클라우드 네이티브 응용 프로그램을 사용하는 개발자와 DevSecOps 팀에게 목적되어 있습니다.
-#JFrog #보안 #소프트웨어공급체인 #클라우드네이티브
-
-Hashtags: #JFrog, #보안, #소프트웨어공급체인, #클라우드네이티브
-
-15 번째 검색 내용
-제목: 데이터 팀 조사: 데이터앱과 제공된 가치의 지연
-
-(Note: The Korean translation may not be perfect as it involves understanding the context and meaning of the original English sentence. Please verify the translation if necessary.)
-주소: https://www.infoq.com/news/2024/10/data-teams-dataops-lag/
-설명: 우리는 Jesse Anderson의 2024 Data Teams 조사에 대해 보고합니다. 이 조사는 DataOps 기능 부재, 느린 LLM 채택, 데이터 팀의 가치 생성 인식에 대한 걱정을 표시하고 있었습니다. 또한 데이터 과학, 엔지니어링, 및 운영 기능이 팀에 분산되어 있어야 한다는 중요성을 강조했습니다. 또한 Petr Janda의 최근 팟캐스트에서 다른 팀과 평등을 위해 더 많은 엔지니어링 수준이 필요하다는 것을 다루었습니다.
-#데이터_팀 #데이터_오챠스 #LLM #엔지니어링_수준
-
-#hashtags: #데이터_분석 #데이터_엔지니어링 #데이터_운영 #데이터_과학 #데이터_팀워크 #데이터_기술 #LLM_채택 #엔지니어링_수준_필요 #DataOps_능력 #팟캐스트 #Petr_Janda
+#hashtags: #AI #NLP #데이터사이언스
 
