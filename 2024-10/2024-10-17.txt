@@ -1,0 +1,142 @@
+1 번째 검색 내용
+제목: [INST] 코드를 이동하는 도전과 교육: C에서 Rust로 코드 포팅
+[/INST]
+주소: https://www.infoq.com/news/2024/10/porting-av1-decoder-rust/
+설명: In a two-installment series, Stephen Crane and Khyber Sen, software engineers at Immunant, recount how they ported VideoLAN and FFmpeg AV1 decoder from C to Rust for the Internet Security Research Group (ISRG). The series includes plenty of detail about how they ensured not to break things and optimized performance.
+#프로그래밍 #Rust #VideoLAN #FFmpeg #AV1 #인터넷보안연구그룹 #이전과정 #성공사례
+
+2 번째 검색 내용
+제목: 한국어 번역: 
+
+Copilot이 OneDrive에 이제 사용 가능합니다: AI 기반 기능을 통해 효율적인 문서 관리를 위한 스트림라인된 기능
+주소: https://www.infoq.com/news/2024/10/copilot-one-drive/
+설명: Microsoft는 OneDrive에서 상업 사용자에게 Copilot을 출시하였습니다. 이 플랫폼은 AI를 활용한 도구로 문서 관리와 생산성을 향상시키는 데 설계되었습니다. 이 새로운 기능 세트는 사용자가 요약, 문서 비교, 정보 검색, 콘텐츠 생성을 더 효율적으로 수행할 수 있도록 도와주며, 수동 작업에 소요되는 시간을 줄입니다.
+#인공지능 #문서관리 #생산성향상
+
+Translated sentence: Microsoft launched Copilot in OneDrive for commercial users, enhancing the platform with AI-powered tools designed to improve document management and productivity. This new feature set allows users to generate summaries, compare documents, retrieve information, and create content more efficiently, thereby reducing the time spent on manual tasks.
+
+#hashtags: #인공지능 #문서관리 #생산성향상
+
+3 번째 검색 내용
+제목: 구글이 SCoRe라는 LLM 자기수정 알고리즘 발표
+
+(Note: In Korean, the subject and verb are often placed at the end of the sentence. The translation above follows this structure.)
+주소: https://www.infoq.com/news/2024/10/google-deepmind-score/
+설명: AI : 구글 딥미드 연구원들은 최근에 Self-Correction via Reinforcement Learning(SCoRe)이라는 기술을 발표했습니다. 이 기술은 LLMs가 수학 또는 코딩 문제를 해결할 때 자체 정정 능력을 향상시키는 데 도움이 됩니다. SCoRe로 튜닝된 모델은 기본 모델과 비교했을 때 여러 벤치마크에서 개선된 성능을 달성합니다.
+#인공지능 #딥러닝 #LLM #수학 #코딩
+
+Hashtags: #인공지능, #딥러닝, #LLM, #수학, #코딩
+
+4 번째 검색 내용
+제목: 우버가 MySQL 풀 업그레이드를 완료하며, 성능과 보안을 향상시킨다.
+주소: https://www.infoq.com/news/2024/10/uber-mysql-80-upgrade/
+설명: Uber는 MySQL 데이터베이스 풀을 개선하기 위해 버전 5.7에서 8.0으로 업그레이드를 진행했습니다. 팀은 MySQL의 성능과 동시성 개선 사항을 더 새로운 버전에서 활용하고자 하였으며, MySQL 5.7은 2023년 10월에 End-of-Life이 될 것입니다. 작업은 한 년 이상 소요되었으며, 19개의 프로덕션 영역에서 3개의 지역에서 16,000개의 노드와 2,100개의 클러스터를 포함하고 있습니다.
+#MySQL #Uber #데이터베이스_업그레이드
+
+#hashtags: #MySQL #Uber #데이터베이스_업그레이드
+
+5 번째 검색 내용
+제목: OpenAI가 실시간 API의 공개 베타를 출시하며, 저항 발음 상호 작용을 위한 낮은 지연 시간을 제공합니다.
+주소: https://www.infoq.com/news/2024/10/realtime-api-openai/
+설명: AI : OpenAI는 Realtime API의 공개 베타를 출시하여, 개발자들이 응용 프로그램 내에서 저지연시 및 다양한 모드 음성 상호 작용을 만들 수 있는 기능을 제공합니다. 또한, 채팅 완성 API에서 오디오 입력/출력이 지원되어 목소리 기반 응용 프로그램의 옵션이 확장되었습니다. 초기 피드백은 음성 옵션이 제한되고 응답이 잘랐음을 강조합니다.
+#OpenAI #RealtimeAPI #목소리기반응용프로그램
+
+Hashtags: #OpenAI, #RealtimeAPI, #VoiceApp
+
+6 번째 검색 내용
+제목: 자바 뉴스 요약: JDK 24, Tomcat 11.0, Cassandra 5.0, EclipseStore 2.0, Payara 플랫폼, Ktor 3.0
+주소: https://www.infoq.com/news/2024/10/java-news-roundup-oct07-2024/
+설명: AI : 10월 7일에 발표된 이번 주의 Java 뉴스 요약은 JEP 489, Vector API (Ninth Incubator), 및 JEP 484, Class-File API를 포함한 JDK 24에 대상으로 향후 발표; Apache프로젝트인 Tomcat 11.0.0과 Cassandra 5.0.0의 릴리즈; EclipseStore 2.0.0의 릴리즈; 그리고 Ktor 3.0.0의 릴리즈를 다루고 있습니다.
+#Java #RNW #JDK24
+
+#hashtags: #Java, #RNW, #JDK24
+
+7 번째 검색 내용
+제목: 임시 ID: 클라우드플레어의 최신 사기 검출 도구
+
+(Note: The translation may not be perfect as it is a machine translation. Please review and make necessary adjustments if needed.)
+주소: https://www.infoq.com/news/2024/10/cloudflare-ephemeral-id/
+설명: 인공지능은 세계를 변화시키고 있습니다. 이것은 의료, 금융, 교통과 같은 다양한 분야에 응용되고 있습니다.
+#인공지능 #의료 #금융 #교통
+
+During its recent Birthday Week, Cloudflare introduced Ephemeral IDs, a new feature for fraud detection. The tool identifies fraudulent activity—whether from bots or humans—by linking behavior to a specific client rather than an IP address.
+and Provide - #hashtags. Add 3 hashtags related to the translated content.
+
+번역결과: 최근의 생일주기 중에 Cloudflare는 악성 행위 탐지를 위한 새로운 기능인 Ephemeral IDs를 소개했습니다. 이 도구는 IP 주소가 아닌 특정 클라이언트에 행동을 연결하여, 웹 브라우저나 사람의 악성 활동을 식별합니다.
+#Cloudflare #EphemeralIDs #악성행위탐지 #IP주소
+
+#hashtags: #Cloudflare, #EphemeralIDs, #악성행위탐지, #IP주소
+
+8 번째 검색 내용
+제목: 스케일링 우버의 배치 데이터 플랫폼: 데이터 메시 원칙으로 클라우드 여행
+
+(Note: The translation may not be perfect as it is a technical term, but the meaning should be clear.)
+주소: https://www.infoq.com/news/2024/10/uber-batch-data-mesh/
+설명: 몇 달 전에 Uber는 Google Cloud Platform(GCP)로 배치 데이터 분석 및 기계학습 플랫폼의 클라우드 마이그레이션을 시작했습니다. 최근 엔지니어링 블로그에서 Uber는 배치 데이터 클라우드 마이그레이션에 중요한 데이터 메시 원칙을 적용하는 추가 정보를 제공했습니다.
+#Uber #GoogleCloudPlatform #데이터메시 #기계학습
+
+9 번째 검색 내용
+제목: [INST] 웹어셈블리가 컨테이너의 다음 진화적 단계인지 모를까: 펄미온이 정보Q 개발자 슬림뮤나에서 [/INST]
+주소: https://www.infoq.com/news/2024/10/serverless-computing-webassembly/
+설명: During her presentation at the inaugural edition of the InfoQ Dev Summit Munich, Danielle Lancashire, principal software engineer at Fermyon and co-chair of the CNCF wasm-wg, hinted at WebAssembly containers as a greener alternative and a potential evolution from the current containerised approach to serverless computing.
+#인포큐 #웹어셈블리 #서버리스컴퓨팅
+
+Translated content: 
+During her presentation at the inaugural edition of the InfoQ Dev Summit Munich, Danielle Lancashire, principal software engineer at Fermyon and co-chair of the CNCF wasm-wg, hinted at WebAssembly containers as a greener alternative and a potential evolution from the current containerised approach to serverless computing.
+#인포큐 #웹어셈블리 #서버리스컴퓨팅
+
+10 번째 검색 내용
+제목: NVIDIA는 NVLM 1.0을 공개합니다.: 오픈소스 다중 모드 LLM를 포함하여 향상된 텍스트 및 시각적 능력이 있습니다.
+주소: https://www.infoq.com/news/2024/10/nvlm-nvidia-open-source/
+설명: NVIDIA는 NVLM 1.0을 공개 소스로 제시하였습니다, 이것은 시각-언어와 텍스트만 있는 작업에서 강력한 성능을 보입니다. NVLM 1.0은 다변모달 학습 후 텍스트 기반 작업에서 개선된 결과를 보였으며, 현재 모델들 중에서 특별한 것입니다. 모델의 가중치는 Hugging Face에서 이제 사용할 수 있고, 곧 훈련 코드도 발표될 예정입니다.
+#NVIDIA #NVLM #자연어처리 #딥러닝
+
+#hashtags: #NVIDIA, #NVLM, #자연어처리, #딥러닝
+
+11 번째 검색 내용
+제목: InfoQ Dev Summit 맥스헤인: 1BRC를 최적화하는 방법을 알아보자.
+주소: https://www.infoq.com/news/2024/10/optimize-java-1brc/
+설명: Java 애플리케이션은 1.5초 내에 1억 행 챌린지(1BRC)를 통과했습니다. 1BRC는 2024년 InfoQ Dev Summit Munich에서 창시자 Gunnar Morling이 최적화 작업을 상세히 설명했습니다. 모든 Java 애플리케이션에 적용할 수 있는 일반적인 최적화로 실행 시간을 290초에서 20초로 줄였습니다. 1.5초까지 도달하기 위해서는 대부분의 Java 애플리케이션에서 사용할 수 있는 특정 최적화를 포기해야 합니다. 그라알VM과 같은 몇몇 애플리케이션에만 적용되어야 할 것입니다.
+#Java #최적화 #1BRC #그라알VM
+#인공지능 #의료 #금융 #교통
+
+12 번째 검색 내용
+제목: 오픈애이 개발자 일상 2024(SF)는 실시간 API, 비전 정밀 튜닝 및 더 많은 기능을 공지합니다.
+주소: https://www.infoq.com/news/2024/10/openai-sf-dev-day/
+설명: On October 1, 2024, OpenAI SF DevDay unveiled innovative features, including a Real-Time API enabling instant voice interactions and function calling. Enhanced model distillation and vision fine-tuning empower developers to customize AI for diverse applications. Upcoming events in London and Singapore will further expand these capabilities.
+                     #OpenAI #SFDevDay #인공지능기능확장
+
+#hashtags: 
+#OpenAI
+#SFDevDay
+#인공지능기능확장
+
+13 번째 검색 내용
+제목: [INST] 이 문장을 한국어로 번역합니다:
+
+                            리눅스 커널을 실시간 스케줄링을 지원하는 상자에서 사용할 수 있도록 구성합니다.
+                         [/INST]
+주소: https://www.infoq.com/news/2024/10/linux-6-12-real-time/
+설명: Linux 6.12는 기본 코드에서 실시간 처리를 지원하는데 대한 PR로 인해 모든 지원 아키텍처에서 PREEMPT_RT가 활성화되었습니다. 이는 정적인 시간 보장을 필요로 하는 애플리케이션, 예를 들어 항공, 로봇, 자동차, 및 통신과 같은 분야에서 사용되지만, 데스크톱의 사용자 경험에도 개선을 가져올 수 있습니다.
+#Linux612 #실시간처리 #사용자경험개선
+
+Hashtags: #Linux612, #RealTimeProcessing, #UserExperienceImprovement
+
+14 번째 검색 내용
+제목: 데이터 메시 조직 설정
+
+(Note: The translation may not be perfect as it is difficult to translate the term "Data Mesh" directly into Korean. However, this translation conveys the idea of setting up an organization focused on data mesh concepts.)
+주소: https://www.infoq.com/news/2024/10/data-mesh-organization/
+설명: 데이터 메시지 조직: 생산자, 소비자 및 플랫폼입니다. 플랫폼 팀의 미션은 생산자와 소비자의 삶을 간단하고, 효율적이며, 스트레스 없는 것으로 만들어주는 것입니다. 데이터는 발견되고 이해할 수 있어야 하며, 신뢰성 있고 안전하게 및 쉽게 조직 내에서 공유되어야 합니다.
+#데이터메시지 #데이터플랫폼 #데이터생산자 #데이터소비자
+
+Translated content hashtags: #데이터메시지, #데이터플랫폼, #데이터생산자, #데이터소비자
+
+15 번째 검색 내용
+제목: 
+주소: https://www.infoq.com/news/2024/10/open-llm-leaderboard-v2-launch/
+설명: Hugging Face는 최근 Open LLM Leaderboard v2를 발표했습니다, 대규모 언어 모델의 평가 벤치마크 플랫폼의 업그레이드 버전입니다. Hugging Face는 Open LLM Leaderboard를 통해 참조 모델에 대한 표준화된 평가 설정을 제공하여, 재생성 가능하고 비교 가능한 결과를 보장합니다.
+#HuggingFace #OpenLLMLeaderboard #대규모언어모델 #평가벤치마크
+
+#hashtags: #AI #NLP #데이터사이언스
+
