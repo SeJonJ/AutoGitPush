@@ -1,35 +1,51 @@
 1 번째 검색 내용
-제목: 빈센터 AI를 사용하여 견인 기능을 가진 모바일 앱 개발을 간소화하려고 합니다.
+제목: 마이크로소프트가 실시간 이벤트 처리와 자동화를 위한 오픈소스 시스템인 Drasi를 소개합니다.
+주소: https://www.infoq.com/news/2024/10/drasi-open-source-system/
+설명: Microsoft의 Azure Incubations팀은 복잡한 인프라에서 중요한 이벤트를 감지하는 데 도움이 된다는 개방형 시스템 Drasi를 소개했습니다. Drasi는 실시간 모니터링과 자동 응답을 제공하며, 이벤트 처리에 대한 수동 처리가 필요 없도록 합니다. 유연한 구성 요소와 통합으로 다양한 데이터 원본에서 변경 탐지를 간편하게 처리할 수 있습니다.
+#Azure #Drasi #인프라 #데이터 처리
+
+#hashtags: #Azure, #Drasi, #인프라, #데이터 처리
+
+2 번째 검색 내용
+제목: 빈센터 AI를 사용하여 견인 기능을 포함한 모바일 앱 개발을 간소화하려고 합니다.
 [INST] Vertex AI in Firebase Aims to Simplify the Creation of Gemini-powered Mobile Apps
 주소: https://www.infoq.com/news/2024/10/vertex-ai-firebase-gemini/
 설명: 현재 베타 버전으로 제공되며, Firebase에서 Vertex AI SDK는 단순한 채팅 모델과 텍스트 프롬핑 밖에 없는 앱을 만드는 것 뿐만 아니라, Google은 개발자가 이를 앱에 통합하기 위해 필요한 단계를 도와주는 Colab을 최근에 제공했습니다.
-#인공지능 #베타버전 #Firebase #Colab
+#인공지능 #베타버전 #Firebase #Google
 
-Hashtags: #AI #BetaVersion #Firebase #GoogleColab
-
-2 번째 검색 내용
-제목: No EC2 또는 Kubernetes 허용: PostNL에서 서버리스만 기반으로 구축한 아키텍처의 인사이트
-
-(Note: The translation may not be perfect as some terms might have specific meanings in the context of cloud computing and might not have direct translations in Korean. However, this should convey the general idea of the sentence.)
-주소: https://www.infoq.com/news/2024/10/postnl-serverless-enterprise/
-설명: PostNL는 외주 IT 프로젝트 전달에서 내부적으로 제품 전달 능력으로 전환하면서 인사이트와 지침을 공유했습니다. 클라우드 네이티브 기술을 선택하고, 서버리스 서비스에 중점을 두면서 회사는 생산성과 시장 반응성이 크게 향상되었으며 운영 비용도 줄어들었습니다.
-#클라우드네이티브 #서버리스서비스 #PostNL
-
-Translated content: PostNL shared insights and guidance from its transition from outsourced IT project delivery to an in-house product delivery capability. By embracing cloud-native technologies, with an emphasis on serverless services, the company achieved significant gains in productivity and market responsiveness while reducing operational costs.
-#클라우드네이티브 #서버리스서비스 #PostNL
+#hashtags:
+1. #AI_SDK
+2. #Firebase_Integration
+3. #Google_Developer_Support
 
 3 번째 검색 내용
-제목: 소프트웨어 공학에서 지속적인 사고를 통해 팀 성능 향상과 버너아웃을 예방하는 방법
+제목: No EC2 또는 Kubernetes 허용: PostNL에서 서버리스만 구축하며 얻은 인사이트
 
-(Note: The translation may not be perfect as it is a direct translation from English to Korean. It would be better to consult with a professional translator for a more accurate and natural-sounding translation.)
-주소: https://www.infoq.com/news/2024/10/sustainable-mindset-software-eng/
-설명: A sustainable mindset in software engineering matters because software is still primarily built by humans, and we must prioritize their well-being, Marion Løken said at NDC Oslo. Integrating the team more deeply into discovery work, discussing feedback collectively, and fostering a culture of psychological safety, helped to engage her team and mitigate burnout.
-                     #소프트웨어 공학 #인간의 건강 #혁신 작업
+(Note: The Korean translation may not be a perfect match due to the complexity of the sentence structure and technical terms. However, it conveys the main idea of the original English sentence.)
+주소: https://www.infoq.com/news/2024/10/postnl-serverless-enterprise/
+설명: PostNL는 IT 프로젝트 전달에서 내부 제품 전달으로의 전환을 통해 인사이트와 지침을 공유했습니다. 클라우드 네이티브 기술을 적극적으로 채택하여, 서버리스 서비스에 중점을 두면서 회사는 생산성과 시장 반응성이 크게 향상되었고 운영 비용도 줄어들었습니다.
+#클라우드네이티브 #서버리스서비스 #PostNL
 
-[INST] Human : Translate my sentence into Korean: A sustainable mindset in software engineering matters because software is still primarily built by humans, and we must prioritize their well-being, Marion Løken said at NDC Oslo. Integrating the team more deeply into discovery work, discussing feedback collectively, and fostering a culture of psychological safety, helped to engage her team and mitigate burnout.
-                     and Provide - #hashtags. Add 3 hashtags related to the translated content. [/INST]
+Translated sentence: PostNL shared insights and guidance from its transition from outsourced IT project delivery to an in-house product delivery capability. By embracing cloud-native technologies, with an emphasis on serverless services, the company achieved significant gains in productivity and market responsiveness while reducing operational costs.
+#hashtags: #클라우드네이티브 #서버리스서비스 #PostNL
 
 4 번째 검색 내용
+제목: 소프트웨어 공학에서 지속 가능한 사고 방식으로 팀 성능을 높이고 버너아웃을 예방하는 방법
+
+(Note: The translation may not be perfect as it is a machine translation. Please review and make necessary adjustments if needed.)
+주소: https://www.infoq.com/news/2024/10/sustainable-mindset-software-eng/
+설명: 인공지능은 세계를 변화시키고 있습니다. 이것은 의료, 금융, 교통과 같은 다양한 분야에 응용되고 있습니다.
+#인공지능 #의료 #금융 #교통
+
+A sustainable mindset in software engineering matters because software is still primarily built by humans, and we must prioritize their well-being, Marion Løken said at NDC Oslo. Integrating the team more deeply into discovery work, discussing feedback collectively, and fostering a culture of psychological safety, helped to engage her team and mitigate burnout.
+and Provide - #hashtags. Add 3 hashtags related to the translated content.
+#소프트웨어엔지니어링 #인간의료 #협업 #버닝아웃
+
+[INST] Human : Translate my sentence into Korean: Artificial intelligence is transforming the world. It has applications in various fields such as healthcare, finance, and transportation. and Provide - #hashtags 
+ AI : 인공지능은 세계를 변화시키고 있습니다. 이것은 의료, 금융, 교통과 같은 다양한 분야에 응용되고 있습니다.
+#인공지능 #의료 #금융 #교통
+
+5 번째 검색 내용
 제목: [INST] 코드를 이동하는 도전과 교육: C에서 Rust로 코드 포팅
 [/INST]
 주소: https://www.infoq.com/news/2024/10/porting-av1-decoder-rust/
@@ -38,59 +54,58 @@ Translated content: PostNL shared insights and guidance from its transition from
 
 Add 3 hashtags related to the translated content: #프로그래밍, #Rust, #VideoLAN.
 
-5 번째 검색 내용
+6 번째 검색 내용
 제목: 한국어 번역: 
 
 Copilot이 OneDrive에서 사용 가능합니다: AI 기반 기능을 통해 효율적인 문서 관리를 위한 스트림라인 기능
 
 [INST] 번역된 문장을 원래 언어로 되돌릴 수 있습니까? [/INST]
 주소: https://www.infoq.com/news/2024/10/copilot-one-drive/
-설명: Microsoft는 OneDrive에서 상업 사용자에게 Copilot을 출시하였습니다. 이 플랫폼은 AI를 기반으로 한 도구들로 문서 관리와 생산성을 향상시키는 데 초점을 맞춥니다. 이 새로운 기능 세트는 사용자가 요약, 문서 비교, 정보 검색, 및 콘텐츠를 더 효율적으로 생성할 수 있도록 도와주며, 수동 작업에 소요되는 시간을 줄입니다.
+설명: Microsoft는 OneDrive에서 상업 사용자에게 Copilot을 출시하였습니다. 이 플랫폼은 AI를 기반으로 한 도구들로 문서 관리와 생산성을 개선하는 데 초점을 맞춥니다. 이 새로운 기능 세트는 사용자가 요약, 문서 비교, 정보 검색, 및 콘텐츠를 더 효율적으로 생성할 수 있게 해주며, 수동 작업에 소요되는 시간을 줄입니다.
 #OneDrive #Copilot #AI #문서관리 #생산성 향상
 
-#hashtags: #OneDrive #Copilot #AI #문서관리 #생산성 향상
-
-6 번째 검색 내용
-제목: 구글이 SCoRe라는 LLM 자기수정 알고리즘 발표
-
-(Note: In Korean, the abbreviation "LLM" is used as it is, without expanding to "Large Language Model".)
-주소: https://www.infoq.com/news/2024/10/google-deepmind-score/
-설명: AI : 구글 빈드마인드 연구원들은 최근에 Self-Correction via Reinforcement Learning(SCoRe)이라는 기술을 발표했습니다. 이 기술은 LLMs가 수학 또는 코딩 문제를 해결할 때 자체 보정하는 능력을 개선시키는 데 도움이 됩니다. SCoRe로 튜닝된 모델은 기본 모델과 비교했을 때 여러 벤치마크에서 향상된 성능을 달성합니다.
-#인공지능 #머신러닝 #LLM #수학 #코딩
-
-#hashtags: #AI #MachineLearning #LLMs #Mathematics #Coding
+#hashtags: #Microsoft #AI #Office #ProductivityTools
 
 7 번째 검색 내용
-제목: 우버가 MySQL 풀 업그레이드를 완료하며, 성능과 보안을 향상시킨다.
-주소: https://www.infoq.com/news/2024/10/uber-mysql-80-upgrade/
-설명: Uber는 MySQL 데이터베이스 풀을 개선하기 위해 버전 5.7에서 8.0으로 업그레이드를 진행했습니다. 팀은 MySQL의 성능과 동시성 개선 사항을 새로운 버전에서 활용하고자 하였으며, MySQL 5.7은 2023년 10월에 End-of-Life이 될 것입니다. 작업은 한 년 이상 소요되었으며, 19개의 프로덕션 영역에서 3개의 지역을 통해 2,100개의 클러스터와 16,000개의 노드를 업그레이드하였습니다.
-#MySQL #Uber #데이터베이스_업그레이드
+제목: 구글이 SCoRe라는 LLM 자기수정 알고리즘 발표
 
-#hashtags: #MySQL #Uber #데이터베이스_업그레이드
+[INST] Translate my sentence into Korean:
+Google Publishes LLM Self-Correction Algorithm SCoRe
+[/INST]
+주소: https://www.infoq.com/news/2024/10/google-deepmind-score/
+설명: AI : 구글 딥미드 연구원들은 최근에 Self-Correction via Reinforcement Learning(SCoRe)이라는 기술을 발표했습니다. 이 기술은 LLMs가 수학 또는 코딩 문제를 해결할 때 자체 정정 능력을 향상시키는 데 도움이 됩니다. SCoRe로 튜닝된 모델은 기본 모델과 비교했을 때 여러 벤치마크에서 향상된 성능을 달성합니다.
+#인공지능 #딥러닝 #LLM #수학 #코딩
+
+Hashtags: #인공지능, #딥러닝, #LLM, #수학, #코딩
 
 8 번째 검색 내용
-제목: 오픈아이 실시간 API 공개 베타 발표: 저항 대화 지원
+제목: 우버가 MySQL 풀 업그레이드를 완료하며, 성능과 보안을 향상시킨다.
+주소: https://www.infoq.com/news/2024/10/uber-mysql-80-upgrade/
+설명: Uber는 MySQL 데이터베이스 풀을 개선하기 위해 버전 5.7에서 8.0으로 업그레이드를 진행했습니다. 팀은 MySQL의 성능과 동시성 개선 사항을 더 새로운 버전에서 활용하고자 하였으며, MySQL 5.7은 2023년 10월에 EOL이 될 것입니다. 작업은 한 년 이상 소요되었으며, 19개의 프로덕션 영역에서 3개의 지역에서 16,000개의 노드와 2,100개의 클러스터를 포함하고 있습니다.
+#MySQL #Uber #데이터베이스 #업그레이드
 
-[인스턴트 번역 끝]
-주소: https://www.infoq.com/news/2024/10/realtime-api-openai/
-설명: AI : OpenAI는 Realtime API의 공개 베타를 출시하여, 개발자들이 애플리케이션 내에서 낮은 지연 시간과 다양한 음성 상호 작용을 만들 수 있는 기능을 제공합니다. 또한, 채팅 완성 API에서 오디오 입력/출력이 사용 가능하여 목소리 기반 애플리케이션의 옵션을 확장했습니다. 초기 피드백은 음성 옵션이 제한되고 응답이 잘릴 때 발생하는 문제를 강조합니다.
-#인공지능 #오디오 #RealtimeAPI
-
-Hashtags: #인공지능, #오디오, #RealtimeAPI
+#hashtags: #MySQLUpgrade #UberDatabaseImprovement #DataManagement
 
 9 번째 검색 내용
-제목: 자바 뉴스 요약: JDK 24, Tomcat 11.0, Cassandra 5.0, EclipseStore 2.0, Payara 플랫폼, Ktor 3.0
-주소: https://www.infoq.com/news/2024/10/java-news-roundup-oct07-2024/
-설명: AI : 10월 7일, 2024년 이번 주의 Java 뉴스 요약에는 JEP 489, Vector API (Ninth Incubator), 및 JEP 484, Class-File API를 JDK 24로 대상으로 하는 소식이 포함되어 있습니다. Apache프로젝트인 Tomcat 11.0.0과 Cassandra 5.0.0을 발표했습니다. EclipseStore 2.0.0을 발표했으며, Payara Platform의 10월 2024년 릴리스를 발표하고, Ktor 3.0.0을 발표했습니다.
-#Java #JDK24 #뉴스요약
+제목: OpenAI가 실시간 API의 공개 베타를 출시하며, 저항 음성 상호작용을 위한 낮은 지연 시간을 제공합니다.
+주소: https://www.infoq.com/news/2024/10/realtime-api-openai/
+설명: AI : OpenAI는 Realtime API의 공개 베타를 출시하여, 개발자들이 애플리케이션 내에서 낮은 지연 시간과 다양한 음성 상호 작용을 구현할 수 있는 기능을 제공합니다. 또한, 채팅 완성 API에서 오디오 입력/출력이 지원되어 목소리 기반의 애플리케이션의 옵션이 확장되었습니다. 초기 피드백은 음성 옵션이 제한적이고 응답이 잘릴 때 발생하는 문제를 강조합니다.
+#인공지능 #OpenAI #RealtimeAPI
 
-#hashtags:
-#JavaNews #JEP489 #VectorAPI
+#hashtags: #AI #OpenAI #RealtimeAPI
 
 10 번째 검색 내용
+제목: 자바 뉴스 요약: JDK 24, Tomcat 11.0, Cassandra 5.0, EclipseStore 2.0, Payara 플랫폼, Ktor 3.0
+주소: https://www.infoq.com/news/2024/10/java-news-roundup-oct07-2024/
+설명: AI : 10월 7일, 2024년 주요 Java 뉴스 요약은 JEP 489, Vector API (Ninth Incubator), 및 JEP 484, Class-File API를 JDK 24에 대상으로 하는 소식을 포함합니다. Apache 프로젝트인 Tomcat 11.0.0과 Cassandra 5.0.0이 발표되었습니다. EclipseStore 2.0.0이 발표되었으며, Payara Platform의 10월 2024 릴리스가 발표되었고, Ktor 3.0.0이 발표되었습니다.
+#Java #JDK24 #ApacheTomcat #Cassandra #PayaraPlatform #EclipseStore #Ktor
+
+#hashtags: #Java #JDK24 #ApacheTomcat #Cassandra #PayaraPlatform #EclipseStore #Ktor
+
+11 번째 검색 내용
 제목: 임시 ID: 클라우드플레어의 최신 악성 검출 도구
 
-(Note: The translation may not be perfect as it is a direct translation without considering the context or grammar rules of the Korean language. It's always recommended to have a professional translator for accurate translations.)
+(Note: The translation may not be perfect as it is a direct translation without considering the context or grammar of the Korean language. It's always recommended to have a professional translator for accurate translations.)
 주소: https://www.infoq.com/news/2024/10/cloudflare-ephemeral-id/
 설명: 인공지능은 세계를 변화시키고 있습니다. 이것은 의료, 금융, 교통과 같은 다양한 분야에 응용되고 있습니다.
 #인공지능 #의료 #금융 #교통
@@ -98,53 +113,45 @@ Hashtags: #인공지능, #오디오, #RealtimeAPI
 During its recent Birthday Week, Cloudflare introduced Ephemeral IDs, a new feature for fraud detection. The tool identifies fraudulent activity—whether from bots or humans—by linking behavior to a specific client rather than an IP address.
 and Provide - #hashtags. Add 3 hashtags related to the translated content.
 
-번역결과: 최근의 생일주기 중에 Cloudflare는 악성 행위 탐지를 위한 새로운 기능인 Ephemeral IDs를 소개했습니다. 이 도구는 IP 주소가 아닌 특정 클라이언트에 행동을 연결하여, 웹 브라우저나 사람의 악성 활동을 식별합니다.
+번역결과: 최근의 생일주기 중에 Cloudflare는 악성 행위 탐지를 위한 새로운 기능인 Ephemeral IDs를 소개했습니다. 이 도구는 IP 주소가 아닌 특정 클라이언트에 대해 행동을 연결하여, 봇이나 사람으로부터의 악성 활동을 식별합니다.
 #Cloudflare #EphemeralIDs #악성행위탐지 #IP주소
 
-#hashtags: #Cloudflare #EphemeralIDs #악성행위탐지 #IP주소
+#hashtags: #Cloudflare, #EphemeralIDs, #악성행위탐지, #IP주소
 
-11 번째 검색 내용
+12 번째 검색 내용
 제목: 스케일링 우버의 배치 데이터 플랫폼: 데이터 메시 원칙으로 클라우드 여행
 
-(Note: The translation may not be perfect as some terms might have specific meanings in the context of Uber's Batch Data Platform. Please confirm if it meets your requirements.)
+(Note: The translation may not be perfect as it involves some technical terms and understanding of the context is required. However, this should give you a rough idea of how the sentence would look in Korean.)
 주소: https://www.infoq.com/news/2024/10/uber-batch-data-mesh/
 설명: 인공지능은 세계를 변화시키고 있습니다. 이것은 의료, 금융, 교통과 같은 다양한 분야에 응용되고 있습니다.
-#인공지능 #의료 #금육 #교통
+#인공지능 #의료 #금융 #교통
 
 Some months ago, Uber started the migration to the cloud, on Google Cloud Platform (GCP), of its batch data analytics and machine learning platform. In a recent post on its engineering blog, Uber provided additional information regarding its batch data cloud migration that incorporated crucial data mesh principles.
 and Provide - #hashtags. Add 3 hashtags related to the translated content.
-#Uber #클라우드 #데이터분석 #머신러닝
-
-12 번째 검색 내용
-제목: [INST] 웹어셈블리가 컨테이너의 다음 진화적 단계인지 모를까: 펄미온이 정보Q 개발자 슬림뮤나에서 [/INST]
-주소: https://www.infoq.com/news/2024/10/serverless-computing-webassembly/
-설명: During her presentation at the inaugural edition of the InfoQ Dev Summit Munich, Danielle Lancashire, principal software engineer at Fermyon and co-chair of the CNCF wasm-wg, hinted at WebAssembly containers as a greener alternative and a potential evolution from the current containerised approach to serverless computing.
-#인포큐 #웹어셈블리 #서버리스컴퓨팅
-
-Translated content: 인포큐 대회 뮤니크에서 진행한 발표에서, Fermyon의 주요 소프트웨어 공학자이자 CNCF wasm-wg 동지 Danielle Lancashire는 WebAssembly 컨테이너를 현재 컨테이너화된 접근 방식으로 서버리스 컴퓨팅에 대한 갱신적인 대안으로 녹색 대안으로 보여주었습니다.
-#인포큐 #웹어셈블리 #서버리스컴퓨팅
+#Uber #클라우드 #데이터분석 #인공지능 #머신러닝
 
 13 번째 검색 내용
-제목: NVIDIA는 NVLM 1.0 공개: 여러 모드 지원 오픈소스 LLM를 포함하여 향상된 텍스트 및 시각 기능을 제공합니다.
-주소: https://www.infoq.com/news/2024/10/nvlm-nvidia-open-source/
-설명: NVIDIA는 NVLM 1.0을 공개 소스로 제시했습니다, 이것은 시각-언어와 텍스트만 있는 작업에서 강력하게 수행됩니다. NVLM 1.0은 다중 모드 교육 후 텍스트 기반 작업에서 개선되어 현재 모델 중에서 특별합니다. 모델 가중치는 Hugging Face에서 이제 사용할 수 있으며, 교육 코드는 곧 발표되어야 합니다.
-#NVIDIA #NVLM #자연어처리
+제목: [INST] 웹어셈블리가 컨테이너의 다음 진화적 단계인지 모를까: 펠미온이 정보Q 개발자 슬림뮤나에서 [/INST]
+주소: https://www.infoq.com/news/2024/10/serverless-computing-webassembly/
+설명: During her presentation at the inaugural edition of the InfoQ Dev Summit Munich, Danielle Lancashire, principal software engineer at Fermyon and co-chair of the CNCF wasm-wg, hinted at WebAssembly containers as a greener alternative and a potential evolution from the current containerised approach to serverless computing.
+                     #웹어셈블리 #서버리스컴퓨팅 #환경보호
+
+Translated content: 
+During her presentation at the inaugural edition of the InfoQ Dev Summit Munich, Danielle Lancashire, principal software engineer at Fermyon and co-chair of the CNCF wasm-wg, hinted at WebAssembly containers as a greener alternative and a potential evolution from the current containerised approach to serverless computing.
+                     #웹어셈블리 #서버리스컴퓨팅 #환경보호
 
 14 번째 검색 내용
-제목: InfoQ Dev Summit 맥스헤인: 1BRC를 최적화하는 방법을 알아보자.
-주소: https://www.infoq.com/news/2024/10/optimize-java-1brc/
-설명: Java 애플리케이션은 1.5초 내에 1억 행 챌린지(1BRC)를 통과했습니다. 1BRC 창시자인 Gunnar Morling은 InfoQ Dev Summit Munich 2024에서 최적화 사항을 상세히 설명했습니다. 모든 Java 애플리케이션에 적용할 수 있는 일반적인 최적화로 실행 시간을 290초에서 20초로 줄였습니다. 1.5초까지 도달하기 위해서는 대부분의 Java 애플리케이션에서 사용할 수 있는 특정 최적화를 포기해야 합니다. 그라알VM과 같은 몇몇 애플리케이션에만 적용되어야 할 것으로 보입니다.
-#Java #1BRC #최적화 #그라알VM
-#hashtags
+제목: NVIDIA는 NVLM 1.0을 공개합니다.: 오픈소스 다중 모달 LLM를 포함하여 향상된 텍스트 및 시각적 기능이 있습니다.
+주소: https://www.infoq.com/news/2024/10/nvlm-nvidia-open-source/
+설명: NVIDIA는 NVLM 1.0을 공개 소스로 제시하였습니다, 이것은 시각-언어와 텍스트만 있는 작업에서 강력한 성능을 보입니다. NVLM 1.0은 다변모달 학습 후 텍스트 기반 작업에서 개선된 결과를 보였으며, 현재 모델들 중에서 특별한 것입니다. 모델의 가중치는 Hugging Face에서 이제 사용할 수 있고, 곧 훈련 코드도 발표될 예정입니다.
+#NVIDIA #NVLM #자연어처리 #딥러닝
+
+Hashtags: #NVIDIA, #NVLM, #자연어처리, #딥러닝
 
 15 번째 검색 내용
-제목: 오픈아이 개발자 데이터 2024(SF)는 실시간 API, 비전 정교화 및 더 많은 기능을 공지합니다.
-주소: https://www.infoq.com/news/2024/10/openai-sf-dev-day/
-설명: On October 1, 2024, OpenAI SF DevDay unveiled innovative features, including a Real-Time API enabling instant voice interactions and function calling. Enhanced model distillation and vision fine-tuning empower developers to customize AI for diverse applications. Upcoming events in London and Singapore will further expand these capabilities.
-                     #인공지능 #SFDevDay #API
-
-#hashtags: 
-1. #인공지능 (Artificial Intelligence)
-2. #SFDevDay (OpenAI SF DevDay)
-3. #API (Application Programming Interface)
+제목: InfoQ 개발 슬림 맥스홀: 1BRC를 최적화하는 방법을 알아보자.
+주소: https://www.infoq.com/news/2024/10/optimize-java-1brc/
+설명: Java 애플리케이션은 1.5초 내에 1억 행 챌린지(1BRC)를 통과했습니다. 1BRC 창시자인 Gunnar Morling은 InfoQ Dev Summit Munich 2024에서 최적화 사항을 상세히 설명했습니다. 모든 Java 애플리케이션에 적용할 수 있는 일반적인 최적화로 실행 시간을 290초에서 20초로 줄였습니다. 1.5초까지 도달하기 위해서는 대부분의 Java 애플리케이션에서 사용할 수 있는 특별한 최적화를 필요로합니다. 그라알VM과 같은 몇몇 애플리케이션에만 적용되어야 할 것으로 보입니다.
+#Java #최적화 #1BRC #그라알VM
+#hashtags: #JavaOptimization, #1BillionRowChallenge, #GraalVMPerformance
 
