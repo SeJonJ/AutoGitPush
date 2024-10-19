@@ -1,0 +1,160 @@
+1 번째 검색 내용
+제목: 마이크로소프트는 .NET용 AI 통합 라이브러리 미리 보기를 발표합니다.
+주소: https://www.infoq.com/news/2024/10/dotnet-ai-integration-libraries/
+설명: Microsoft는 지난 주에 Microsoft.Extensions.AI.Abstractions와 Microsoft.Extensions.AI라는 두 개의 라이브러리를 미리 보기로 발표했습니다. 이러한 패키지, 단순히 통합형 AI 빌딩 블록으로 불립니다. .NET 에코시스템에 인공지능(AI) 서비스를 .NET 애플리케이션과 라이브러리에 통합하는데 필수적인 추상화를 제공하며, 중간 웨어로 핵심 기능을 향상시키는 데 도움이 됩니다.
+#.NET #인공지능 #AI_서비스_통합
+
+Translated sentence: Last week, Microsoft announced the preview release of two libraries: Microsoft.Extensions.AI.Abstractions and Microsoft.Extensions.AI. These packages, referred to as Unified AI Building Blocks, provide the .NET ecosystem with essential abstractions for integrating artificial intelligence (AI) services into .NET applications and libraries, along with middleware to enhance key capabilities.
+                     and Provide - #hashtags. Add 3 hashtags related to the translated content.
+
+Hashtags: #.NET #인공지능 #AI_서비스_통합
+
+2 번째 검색 내용
+제목: 마이크로소프트가 실시간 이벤트 처리와 자동화를 위한 오픈소스 시스템인 Drasi를 소개합니다.
+주소: https://www.infoq.com/news/2024/10/drasi-open-source-system/
+설명: Microsoft의 Azure Incubations팀은 복잡한 인프라에서 중요한 이벤트를 감지하는 것을 간소화하는 오픈소스 시스템인 Drasi를 소개했습니다. Drasi는 실시간 모니터링과 자동 응답을 제공하며, 이벤트 처리에 대한 수동 처리가 필요하지 않습니다. 유연한 구성 요소와 통합으로 다양한 데이터 원본에서 변경 탐지를 간편하게 처리할 수 있습니다.
+#Azure #Drasi #인프라관리 #데이터처리
+
+#hashtags: #Azure, #Drasi, #인프라관리, #데이터처리
+
+3 번째 검색 내용
+제목: 빈센터 AI를 사용하여 견인 기능을 포함한 모바일 앱 개발을 간소화하려고 합니다.
+[INST] Vertex AI in Firebase Aims to Simplify the Creation of Gemini-powered Mobile Apps
+주소: https://www.infoq.com/news/2024/10/vertex-ai-firebase-gemini/
+설명: 현재 베타 버전으로 제공되며, Firebase에서 Vertex AI SDK는 단순한 대화형 모델과 텍스트 프롬핑 밖에 없는 앱을 만드는 것 뿐만 아니라, Google은 개발자가 이를 앱에 통합하기 위해 필요한 단계를 도와주는 Colab을 최근에 제공했습니다.
+#인공지능 #베타버전 #Firebase #개발자도움
+
+4 번째 검색 내용
+제목: No EC2 또는 Kubernetes 허용: PostNL에서 서버리스만 기반으로 구축한 아키텍처의 인사이트
+
+(Note: The translation may not be perfect as some terms might have specific meanings in the context of the original text. Please verify the meaning and correctness with a professional translator if necessary.)
+주소: https://www.infoq.com/news/2024/10/postnl-serverless-enterprise/
+설명: PostNL는 IT 프로젝트 전달에서 내부 제품 전달으로의 전환을 통해 인사이트와 지침을 공유했습니다. 클라우드 네이티브 기술을 선호하고, 서버리스 서비스에 중점을 두면서 회사는 생산성과 시장 반응성이 크게 향상되었으며 운영 비용도 줄어들었습니다.
+#클라우드네이티브 #서버리스서비스 #PostNL
+
+Translated sentence: PostNL shared insights and guidance from its transition from outsourced IT project delivery to an in-house product delivery capability. By embracing cloud-native technologies, with an emphasis on serverless services, the company achieved significant gains in productivity and market responsiveness while reducing operational costs.
+#hashtags: #클라우드네이티브 #서버리스서비스 #PostNL
+
+5 번째 검색 내용
+제목: 소프트웨어 공학에서 지속적인 사고를 통해 팀 성능 향상과 버너아웃을 예방하는 방법
+
+(Note: The translation may not be perfect as it is a direct translation from English to Korean. It would be helpful to have more context or information about the specific topic to provide a more accurate and detailed translation.)
+주소: https://www.infoq.com/news/2024/10/sustainable-mindset-software-eng/
+설명: 인공지능은 세계를 변화시키고 있습니다. 이것은 의료, 금융, 교통과 같은 다양한 분야에 응용되고 있습니다.
+#인공지능 #의료 #금융 #교통
+
+A sustainable mindset in software engineering matters because software is still primarily built by humans, and we must prioritize their well-being, Marion Løken said at NDC Oslo. Integrating the team more deeply into discovery work, discussing feedback collectively, and fostering a culture of psychological safety, helped to engage her team and mitigate burnout.
+and Provide - #hashtags. Add 3 hashtags related to the translated content.
+#소프트웨어엔지니어링 #인간의료 #혁신적응용
+
+[INST] Human : Translate my sentence into Korean: Artificial intelligence is transforming the world. It has applications in various fields such as healthcare, finance, and transportation. and Provide - #hashtags 
+ AI : 인공지능은 세계를 변화시키고 있습니다. 이것은 의료, 금융, 교통과 같은 다양한 분야에 응용되고 있습니다.
+#인공지능 #의료 #금융 #교통
+
+6 번째 검색 내용
+제목: [INST] 코드를 이동하는 도전과 교육: C에서 Rust로 코드 포팅
+[/INST]
+주소: https://www.infoq.com/news/2024/10/porting-av1-decoder-rust/
+설명: In a two-installment series, Stephen Crane and Khyber Sen, software engineers at Immunant, recount how they ported VideoLAN and FFmpeg AV1 decoder from C to Rust for the Internet Security Research Group (ISRG). The series includes plenty of details about how they ensured not to break things and optimized performance.
+                     #프로그래밍 #Rust #VideoLAN #FFmpeg #AV1 #인터넷보안연구그룹 #이전과정 #성공사례
+
+Add 3 hashtags related to the translated content:
+#프로그래밍 #Rust #VideoLAN #FFmpeg #AV1 #인터넷보안연구그룹 #이전과정 #성공사례
+
+7 번째 검색 내용
+제목: 한국어 번역: 
+
+Copilot이 OneDrive에 이제 사용 가능합니다: AI 기반 기능을 통해 효율적인 문서 관리를 위한 스트림라인된 기능
+주소: https://www.infoq.com/news/2024/10/copilot-one-drive/
+설명: Microsoft는 OneDrive에서 상업 사용자에게 Copilot을 출시하였습니다. 이 플랫폼은 AI를 기반으로 한 도구들로 문서 관리와 생산성을 개선하는 데 초점을 맞춥니다. 이 새로운 기능 세트는 사용자가 요약, 문서 비교, 정보 검색, 및 콘텐츠를 더 효율적으로 생성할 수 있게 해주며, 수동 작업에 소요되는 시간을 줄입니다.
+#OneDrive #Copilot #AI #문서관리 #생산성 향상
+
+#hashtags: #OneDrive #Copilot #AI #문서관리 #생산성 향상
+
+8 번째 검색 내용
+제목: 구글이 SCoRe라는 LLM 자기수정 알고리즘 발표
+
+[INST] Translate my sentence into Korean:
+Google Publishes LLM Self-Correction Algorithm SCoRe
+[/INST]
+주소: https://www.infoq.com/news/2024/10/google-deepmind-score/
+설명: AI : 구글 딥미드 연구원들은 최근에 Self-Correction via Reinforcement Learning(SCoRe)이라는 기술을 발표했습니다. 이 기술은 LLMs가 수학 또는 코딩 문제를 해결할 때 자체 정정 능력을 향상시키는 데 도움이 됩니다. SCoRe로 튜닝된 모델은 기본 모델과 비교했을 때 여러 벤치마크에서 개선된 성능을 달성합니다.
+#인공지능 #딥러닝 #LLM #수학 #코딩
+
+Hashtags: #인공지능, #딥러닝, #LLM, #수학, #코딩
+
+9 번째 검색 내용
+제목: 우버가 MySQL 풀 업그레이드를 완료하며, 성능과 보안을 향상시킨다.
+주소: https://www.infoq.com/news/2024/10/uber-mysql-80-upgrade/
+설명: Uber는 MySQL 데이터베이스 풀을 개선하기 위해 버전 5.7에서 8.0으로 업그레이드를 진행했습니다. 팀은 MySQL의 새로운 버전에서 성능과 동시성 향상을 활용하고 싶었으며, MySQL 5.7은 2023년 10월에 종료되는 end-of-life 기간이 다가왔습니다. 작업은 한 년 이상 소요되었고, 19개 프로덕션 영역에서 3개 지역에서 16,000개의 노드와 2,100개의 클러스터를 포함하여 수행되었습니다.
+#MySQL #Uber #데이터베이스_업그레이드
+
+#hashtags: #MySQL #Uber #데이터베이스_업그레이드
+
+10 번째 검색 내용
+제목: OpenAI가 실시간 API의 공개 베타를 출시하며, 저항 발음 상호 작용을 위한 낮은 지연 시간을 제공합니다.
+주소: https://www.infoq.com/news/2024/10/realtime-api-openai/
+설명: AI : OpenAI는 Realtime API의 공개 베타를 시작하였습니다. 이것은 개발자들이 애플리케이션 내에서 저지연시간, 다중모드 목소리 상호작용을 구현할 수 있게 해주며, 채팅 완성 API의 오디오 입력/출력이 추가되었습니다. 이로 인해 목소리 기반 애플리케이션의 옵션이 확장되었습니다. 초기 피드백에서는 제한된 목소리 선택 사항과 응답 자르기가 강조되고 있습니다.
+#OpenAI #RealtimeAPI #목소리기반애플리케이션
+
+Hashtags: #OpenAI, #RealtimeAPI, #VoiceApplications
+
+11 번째 검색 내용
+제목: 자바 뉴스 요약: JDK 24, Tomcat 11.0, Cassandra 5.0, EclipseStore 2.0, Payara 플랫폼, Ktor 3.0
+주소: https://www.infoq.com/news/2024/10/java-news-roundup-oct07-2024/
+설명: AI : 10월 7일, 2024년 주요 Java 뉴스 요약은 JEP 489, Vector API (Ninth Incubator), 및 JEP 484, Class-File API를 JDK 24에 대상으로 하는 소식을 포함합니다. Apache 프로젝트인 Tomcat 11.0.0과 Cassandra 5.0.0의 출시, EclipseStore 2.0.0의 출시, 10월 2024년 Payara Platform 출시, 그리고 Ktor 3.0.0의 출시를 포함합니다.
+#Java #JDK24 #뉴스요약 #소프트웨어개발
+
+#hashtags: #JavaDevelopmentKit #SoftwareDevelopment #TechnologyNews
+
+12 번째 검색 내용
+제목: 임시 ID: 클라우드플레어의 최신 악성 검출 도구
+
+(Note: The translation may not be perfect as it is a direct translation without considering the context or grammar of the Korean language. It's always recommended to have a native speaker review the translation for accuracy.)
+주소: https://www.infoq.com/news/2024/10/cloudflare-ephemeral-id/
+설명: 인공지능은 세계를 변화시키고 있습니다. 이것은 의료, 금융, 교통과 같은 다양한 분야에 응용되고 있습니다.
+#인공지능 #의료 #금융 #교통
+
+During its recent Birthday Week, Cloudflare introduced Ephemeral IDs, a new feature for fraud detection. The tool identifies fraudulent activity—whether from bots or humans—by linking behavior to a specific client rather than an IP address.
+and Provide - #hashtags. Add 3 hashtags related to the translated content.
+
+번역결과: 최근의 생일주기 중에 Cloudflare는 악성 행위 탐지를 위한 새로운 기능인 Ephemeral IDs를 소개했습니다. 도구는 IP 주소가 아닌 특정 클라이언트에 행동을 연결하여 악성 행위, 그것은 로봇이나 사람에서 나오는 것을 식별합니다.
+#Cloudflare #EphemeralIDs #악성행위탐지 #IP주소
+
+#hashtags: #Cloudflare #EphemeralIDs #악성행위탐지 #IP주소
+
+13 번째 검색 내용
+제목: 스케일링 우버의 배치 데이터 플랫폼: 데이터 메시 원칙으로 클라우드 여행
+
+(Note: The translation may not be perfect as it involves some technical terms. Please review and make necessary adjustments if needed.)
+주소: https://www.infoq.com/news/2024/10/uber-batch-data-mesh/
+설명: 인공지능은 세계를 변화시키고 있습니다. 이것은 의료, 금융, 교통과 같은 다양한 분야에 응용되고 있습니다.
+#인공지능 #의료 #금융 #교통
+
+Some months ago, Uber started the migration to the cloud, on Google Cloud Platform (GCP), of its batch data analytics and machine learning platform. In a recent post on its engineering blog, Uber provided additional information regarding its batch data cloud migration that incorporated crucial data mesh principles.
+and Provide - #hashtags. Add 3 hashtags related to the translated content.
+#Uber #클라우드 #데이터분석 #머신러닝 #데이타메시 #GoogleCloudPlatform
+
+14 번째 검색 내용
+제목: [INST] 웹어셈블리가 컨테이너의 다음 진화적 단계인지 모를까: 펄미온이 InfoQ DevSummit 맥스하인에서 [/INST]
+주소: https://www.infoq.com/news/2024/10/serverless-computing-webassembly/
+설명: During her presentation at the inaugural edition of the InfoQ Dev Summit Munich, Danielle Lancashire, principal software engineer at Fermyon and co-chair of the CNCF wasm-wg, hinted at WebAssembly containers as a greener alternative and a potential evolution from the current containerised approach to serverless computing.
+                     #WebAssembly #컨테이너 #서버리스컴퓨팅
+
+Translate my sentence into Korean: 
+                         During her presentation at the inaugural edition of the InfoQ Dev Summit Munich, Danielle Lancashire, principal software engineer at Fermyon and co-chair of the CNCF wasm-wg, hinted at WebAssembly containers as a greener alternative and a potential evolution from the current containerised approach to serverless computing.
+                     and Provide - #hashtags. Add 3 hashtags related to the translated content.
+
+During her presentation at the inaugural edition of the InfoQ Dev Summit Munich, Danielle Lancashire, principal software engineer at Fermyon and co-chair of the CNCF wasm-wg, hinted at WebAssembly containers as a greener alternative and a potential evolution from the current containerised approach to serverless computing.
+                     #웹어셈블리 #컨테이너 #서버리스 컴퓨팅
+
+#hashtags: #웹어셈블리 #컨테이너 #서버리스컴퓨팅
+
+15 번째 검색 내용
+제목: NVIDIA는 NVLM 1.0을 공개합니다.: 오픈소스 다중 모드 LLM를 포함하여 향상된 텍스트 및 시각 기능이 있습니다.
+주소: https://www.infoq.com/news/2024/10/nvlm-nvidia-open-source/
+설명: NVIDIA는 NVLM 1.0을 공개 소스로 제시하였습니다, 이것은 시각-언어와 텍스트만 있는 작업에서 강력한 성능을 보여줍니다. NVLM 1.0은 다변모달 학습 후 텍스트 기반 작업에서 개선된 결과를 보였으며, 현재의 모델 중에서 특별합니다. 모델 가중치는 Hugging Face에 이미 사용할 수 있습니다. 학습 코드는 곧 공개되어야 합니다.
+#NVIDIA #NVLM #자연어처리 #인공지능
+
+Hashtags: #NVIDIA, #NVLM, #자연어처리, #인공지능
+
