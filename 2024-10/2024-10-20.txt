@@ -1,0 +1,155 @@
+1 번째 검색 내용
+제목: 구글 클라우드는 메모리스토어에서 Valkey와 Redis 클러스터에 대한 확장성 있는 벡터 검색 기능을 추가합니다.
+주소: https://www.infoq.com/news/2024/10/vector-search-memorystore/
+설명: Google Cloud는 Memorystore for Valkey와 Redis Cluster에 스케일 가능한 벡터 검색 기능을 소개했습니다. 이 업데이트로 개발자들은 수십억 벡터를 통해 초미세 지연 시간에서 벡터 검색을 실행할 수 있습니다.
+#GoogleCloud #스케일가능한벡터검색 #벡터검색 #초미세지연시간
+
+Translated sentence: Google Cloud has introduced scalable vector-search capabilities to its Memorystore for Valkey and Redis Cluster. This update allows developers to perform vector searches at ultra-low latencies over billions of vectors.
+
+#hashtags: #GoogleCloud #스케일가능한벡터검색 #벡터검색 #초미세지연시간
+
+2 번째 검색 내용
+제목: 포드맨 데스크탑 1.13 릴리즈: 하이퍼-V 지원과 추가 개선 사항
+
+(Note: The translation may not be perfect as it is a machine translation.)
+주소: https://www.infoq.com/news/2024/10/podman-desktop-1-13/
+설명: Podman Desktop 1.13에서는 Hyper-V 지원을 통해 Windows에서 Podman 머신을 관리하고, 이미지 검색 기능을 통합하여 컨테이너, 이미지, 팟, Kubernetes와 비어 있는 상태 페이지를 재설계했습니다. 이 릴리스에서는 또한 Kubernetes 탐색을 재구성하고 Image Layer Explorer 확장 기능을 포함했습니다.
+#PodmanDesktop #컨테이너 #Kubernetes #ImageLayerExplorer
+
+#hashtags: #PodmanDesktop, #컨테이너, #Kubernetes, #ImageLayerExplorer
+
+3 번째 검색 내용
+제목: 마이크로소프트는 .NET용 AI 통합 라이브러리 미리 보기를 발표합니다.
+주소: https://www.infoq.com/news/2024/10/dotnet-ai-integration-libraries/
+설명: Microsoft는 지난 주에 Microsoft.Extensions.AI.Abstractions와 Microsoft.Extensions.AI라는 두 개의 라이브러리를 미리 보기 릴리스로 발표했습니다. 이러한 패키지, Unified AI Building Blocks라고 불리우며, .NET 에코시스템에 대해 네트워크 애플리케이션과 라이브러리에 인공지능(AI) 서비스를 통합하기 위한 필수 추상화를 제공하며, 중간 웨어로 핵심 기능을 향상시키는데 도움이 됩니다.
+#인공지능 #Microsoft #.NET #미리보기릴리스
+
+Translated content: Microsoft announced the preview release of two libraries: Microsoft.Extensions.AI.Abstractions and Microsoft.Extensions.AI. These packages, referred to as Unified AI Building Blocks, provide the .NET ecosystem with essential abstractions for integrating artificial intelligence (AI) services into .NET applications and libraries, along with middleware to enhance key capabilities.
+#인공지능 #Microsoft #.NET #미리보기릴리스
+
+Hashtags: #인공지능 #Microsoft #.NET #미리보기릴리스
+
+4 번째 검색 내용
+제목: 마이크로소프트가 실시간 이벤트 처리와 자동화를 위한 오픈소스 시스템인 Drasi를 소개합니다.
+주소: https://www.infoq.com/news/2024/10/drasi-open-source-system/
+설명: Microsoft의 Azure Incubations팀은 복잡한 인프라에서 중요한 이벤트를 감지하는 데 도움이 되는 오픈소스 시스템인 Drasi를 소개했습니다. Drasi는 실시간 모니터링과 자동 응답을 제공하며, 수동 이벤트 처리가 필요하지 않도록 합니다. 유연한 구성 요소와 통합으로 다양한 데이터 원본에서 변경 탐지를 간편하게 처리할 수 있습니다.
+#Azure #Drasi #이벤트감지 #데이터처리
+
+#hashtags: #Azure, #Drasi, #eventdetection, #dataprocessing
+
+5 번째 검색 내용
+제목: 빈센터 AI를 사용하여 견니미 기능을 포함한 모바일 앱 개발을 간소화하려고 합니다.
+[INST] Vertex AI in Firebase Aims to Simplify the Creation of Gemini-powered Mobile Apps
+주소: https://www.infoq.com/news/2024/10/vertex-ai-firebase-gemini/
+설명: 현재 베타 버전으로 제공되며, Firebase에서 Vertex AI SDK는 단순한 채팅 모델과 텍스트 프롬핑 밖에 없는 앱을 만들어내는 것 뿐만 아니라 Google이 개발자가 앱에 통합하기 위해 필요한 단계를 도와주는 Colab을 제공했습니다.
+#인공지능 #Firebase #앱개발
+
+6 번째 검색 내용
+제목: No EC2 또는 Kubernetes 허용: PostNL에서 서버리스만 구축하며 얻은 인사이트
+
+(Note: The Korean translation may not be a perfect match due to the idiomatic nature of the original English sentence. However, it conveys the main idea of the title.)
+주소: https://www.infoq.com/news/2024/10/postnl-serverless-enterprise/
+설명: PostNL는 IT 프로젝트 전달에서 내부 제품 전달으로의 전환을 통해 인사이트와 지침을 공유했습니다. 클라우드 네이티브 기술을 적극적으로 채택하여, 서버리스 서비스에 중점을 두면서 회사는 생산성과 시장 반응성에 대한 의미있는 획득을 이루었으며 운영 비용을 줄였습니다.
+#클라우드네이티브 #서버리스서비스 #PostNL
+
+Translated sentence: PostNL shared insights and guidance from its transition from outsourced IT project delivery to an in-house product delivery capability. By embracing cloud-native technologies, with an emphasis on serverless services, the company achieved significant gains in productivity and market responsiveness while reducing operational costs.
+#hashtags: #클라우드네이티브 #서버리스서비스 #PostNL
+
+7 번째 검색 내용
+제목: [INST] 소프트웨어 공학에서 지속가능한 사고방식으로 팀 성능을 높이고 버너아웃을 예방하는 방법 [/INST]
+주소: https://www.infoq.com/news/2024/10/sustainable-mindset-software-eng/
+설명: 인공지능은 세계를 변화시키고 있습니다. 이것은 의료, 금융, 교통과 같은 다양한 분야에 응용되고 있습니다.
+#인공지능 #의료 #금융 #교통
+
+A sustainable mindset in software engineering matters because software is still primarily built by humans, and we must prioritize their well-being, Marion Løken said at NDC Oslo. Integrating the team more deeply into discovery work, discussing feedback collectively, and fostering a culture of psychological safety helped to engage her team and mitigate burnout.
+and Provide - #hashtags. Add 3 hashtags related to the translated content.
+#소프트웨어엔지니어링 #인간의료 #혁신적응용 #기술안전문화
+
+[INST] Human : Translate my sentence into Korean: Artificial intelligence is transforming the world. It has applications in various fields such as healthcare, finance, and transportation. and Provide - #hashtags 
+ AI : 인공지능은 세계를 변화시키고 있습니다. 이것은 의료, 금융, 교통과 같은 다양한 분야에 응용되고 있습니다.
+#인공지능 #의료 #금융 #교통
+
+Translate my sentence into Korean : 
+                         A sustainable mindset in software engineering matters because software is still primarily built by humans, and we must prioritize their well-being, Marion Løken said at NDC Oslo. Integrating the team more deeply into discovery work, discussing feedback collectively, and fostering a culture of psychological safety helped to engage her team and mitigate burnout.
+                     and Provide - #hashtags. Add 3 hashtags related to the translated content. [/INST]
+
+8 번째 검색 내용
+제목: [INST] 코드를 이동하는 도전과 교육: C에서 Rust로 코드 포팅
+[/INST]
+주소: https://www.infoq.com/news/2024/10/porting-av1-decoder-rust/
+설명: In a two-installment series, Stephen Crane and Khyber Sen, software engineers at Immunant, recount how they ported VideoLAN and FFmpeg AV1 decoder from C to Rust for the Internet Security Research Group (ISRG). The series includes plenty of details about how they ensured not to break things and optimized performance.
+                     #프로그래밍 #Rust #VideoLAN #FFmpeg #AV1 #이전과정 #성능최적화 #인터넷보안연구그룹 #소프트웨어공학자 #코드변환
+
+Add 3 hashtags related to the translated content: #프로그래밍, #Rust, #VideoLAN.
+
+9 번째 검색 내용
+제목: 한국어 번역: 
+
+Copilot이 OneDrive에 이제 사용 가능합니다: AI 기반 기능을 통해 효율적인 문서 관리를 위한 스트림라인된 기능
+주소: https://www.infoq.com/news/2024/10/copilot-one-drive/
+설명: Microsoft는 OneDrive에서 상업 사용자에게 Copilot을 출시하였습니다. 이 플랫폼은 AI를 기반으로 한 도구들로 문서 관리와 생산성을 개선하는 데 초점을 맞춥니다. 이 새로운 기능 세트는 사용자가 요약, 문서 비교, 정보 검색, 및 콘텐츠를 더 효율적으로 생성할 수 있도록 도와주며, 수동 작업에 소요되는 시간을 줄입니다.
+#OneDrive #Copilot #AI #문서관리 #생산성향상
+
+#hashtags: #OneDrive #Copilot #AI #문서관리 #생산성향상
+
+10 번째 검색 내용
+제목: 구글이 SCoRe라는 LLM 자기수정 알고리즘 발표
+
+(Note: In Korean, the abbreviation "LLM" is used as it is, without expanding to "Large Language Model.")
+주소: https://www.infoq.com/news/2024/10/google-deepmind-score/
+설명: AI : 구글 딥미드 연구원들은 최근에 Self-Correction via Reinforcement Learning(SCoRe)이라는 기술을 발표했습니다. 이 기술은 LLMs가 수학 또는 코딩 문제를 해결할 때 자체 정정 능력을 향상시키는 데 도움이 됩니다. SCoRe로 튜닝된 모델은 기본 모델과 비교했을 때 여러 벤치마크에서 향상된 성능을 달성합니다.
+#인공지능 #딥러닝 #LLM
+
+Hashtags: #인공지능, #딥러닝, #LLM
+
+11 번째 검색 내용
+제목: 우버가 MySQL 풀 업그레이드를 완료하며, 성능과 보안을 향상시킵니다.
+주소: https://www.infoq.com/news/2024/10/uber-mysql-80-upgrade/
+설명: Uber는 MySQL 데이터베이스 풀을 개선하기 위해 버전 5.7에서 8.0으로 업그레이드를 진행했습니다. 팀은 MySQL의 성능과 동시성 개선 사항을 새로운 버전에서 활용하고자 하였으며, MySQL 5.7은 2023년 10월에 end-of-life가 될 것입니다. 작업은 한 년 이상 소요되었고, 19개 프로덕션 영역에서 3개 지역에서 16,000개의 노드와 2,100개의 클러스터를 업그레이드해야 했습니다.
+#MySQL #Uber #데이터베이스 #업그레이드
+
+#hashtags: #MySQL #Uber #데이터베이스 #업그레이드
+
+12 번째 검색 내용
+제목: OpenAI가 실시간 API의 공개 베타를 출시하며, 낮은 지연 시간의 음성 상호작용을 위해 사용됩니다.
+주소: https://www.infoq.com/news/2024/10/realtime-api-openai/
+설명: AI : OpenAI는 Realtime API의 공개 베타를 시작하였습니다. 개발자들이 애플리케이션 내에서 낮은 지연 시간과 다양한 음성 상호 작용을 구현할 수 있는 기능을 제공하고 있습니다. 또한, 채팅 완료 API에서는 오디오 입력/출력이 지원되어 목소리 기반의 애플리케이션의 옵션이 확장되었습니다. 초기 피드백은 음성 옵션이 제한적이고 응답이 잘린 부분을 강조합니다.
+#OpenAI #RealtimeAPI #목소리기반애플리케이션
+
+Hashtags: #OpenAI, #RealtimeAPI, #목소리기반애플리케이션
+
+13 번째 검색 내용
+제목: 자바 뉴스 요약: JDK 24, Tomcat 11.0, Cassandra 5.0, EclipseStore 2.0, Payara 플랫폼, Ktor 3.0
+주소: https://www.infoq.com/news/2024/10/java-news-roundup-oct07-2024/
+설명: AI : 10월 7일에 발표된 Java 주요 소식은 JEP 489, Vector API (Ninth Incubator), 및 JEP 484, Class-File API를 JDK 24로 대상으로 하고 있습니다; Apache프로젝트인 Tomcat 11.0.0과 Cassandra 5.0.0의 릴리즈; EclipseStore 2.0.0의 릴리즈; 그리고 Ktor 3.0.0의 릴리즈입니다.
+#Java #JDK24 #Tomcat11 #Cassandra5 #EclipseStore2 #PayaraPlatform #Ktor3
+
+Hashtags: #Java #JDK24 #Tomcat11 #Cassandra5 #EclipseStore2 #PayaraPlatform #Ktor3
+
+14 번째 검색 내용
+제목: 임시 ID: 클라우드플레어의 최신 악성 검출 도구
+
+(Note: The translation may not be perfect as it is a direct translation without considering the context or grammar of the Korean language. It's recommended to have it checked by a professional translator for better accuracy.)
+주소: https://www.infoq.com/news/2024/10/cloudflare-ephemeral-id/
+설명: 인공지능은 세계를 변화시키고 있습니다. 이것은 의료, 금융, 교통과 같은 다양한 분야에 응용되고 있습니다.
+#인공지능 #의료 #금융 #교통
+
+During its recent Birthday Week, Cloudflare introduced Ephemeral IDs, a new feature for fraud detection. The tool identifies fraudulent activity—whether from bots or humans—by linking behavior to a specific client rather than an IP address.
+and Provide - #hashtags. Add 3 hashtags related to the translated content.
+
+번역결과: 최근의 생일주기 중에 Cloudflare는 악성 행위 탐지를 위한 새로운 기능인 Ephemeral IDs를 소개했습니다. 이 도구는 IP 주소가 아닌 특정 클라이언트에 행동을 연결하여, 봇이나 사람으로부터의 악성 활동을 식별합니다.
+#Cloudflare #EphemeralIDs #악성행위탐지 #IP주소
+
+#hashtags: #Cloudflare, #EphemeralIDs, #악성행위탐지, #IP주소
+
+15 번째 검색 내용
+제목: 스케일링 우버의 배치 데이터 플랫폼: 데이터 메시 원칙으로 클라우드 여행
+
+(Note: The translation may not be perfect as it is a technical term and the Korean language has different sentence structure.)
+주소: https://www.infoq.com/news/2024/10/uber-batch-data-mesh/
+설명: 몇 달 전에 Uber는 Google Cloud Platform(GCP)로 배치 데이터 분석 및 기계학습 플랫폼의 클라우드 마이그레이션을 시작했습니다. 최근 엔지니어링 블로그에서 Uber는 배치 데이터 클라우드 마이그레이션에 중요한 데이터 메시 원칙을 통합한 추가적인 정보를 제공했습니다.
+#Uber #GoogleCloudPlatform #데이터메시 #기계학습
+
+Translated content: Some months ago, Uber started the migration to the cloud, on Google Cloud Platform (GCP), of its batch data analytics and machine learning platform. In a recent post on its engineering blog, Uber provided additional information regarding its batch data cloud migration that incorporated crucial data mesh principles.
+#Uber #GoogleCloudPlatform #데이터메시 #기계학습
+
