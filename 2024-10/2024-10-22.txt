@@ -1,0 +1,166 @@
+1 번째 검색 내용
+제목: 자바 뉴스 요약: WildFly 34, 스트림 수집기, Oracle CPU, 큐어크버스 출시 과정
+
+(Note: The translation may not be perfect as it is a technical term. Please check the meaning and context before using it.)
+주소: https://www.infoq.com/news/2024/10/java-news-roundup-oct14-2024/
+설명: Java 주요 뉴스 요약: 10월 14일, 2024년에는 WildFly 34의 출시와 JEP 485, Stream Gatherers가 JDK 24에 대상으로 제안되며, Oracle의 10월 2024년 Critical Patch Update와 SmallRye와 Quarkiverse의 릴리즈 과정에서 잠재적인 누출이 발견되었습니다.
+#Java #WildFly #CriticalPatchUpdate #SmallRyeQuarkiverse
+
+#hashtags: #Java, #WildFly, #CriticalPatchUpdate, #SmallRyeQuarkiverse
+
+2 번째 검색 내용
+제목: 마이크로소프트와 清化대학교는 LLM에 대한 DIFF 트랜스포머를 제안합니다.
+주소: https://www.infoq.com/news/2024/10/microsoft-diff-transformer/
+설명: AI : 마이크로소프트 AI와 清华대학교의 연구자들은 큰 언어 모델의 성능을 개선하기 위해 새로운 아키텍처인 차분 트랜스포머(DIFF Transformer)를 소개했습니다. 이 모델은 모델이 컨텍스트를 처리하는 방식을 향상시키고, 관련 없는 정보로부터의 분산력을 최소화하기 위해 주목 메커니즘을 개선합니다.
+#인공지능 #DIFFTransformer #언어모델 #마이크로소프트AI
+
+#hashtags: #인공지능, #DIFFTransformer, #언어모델
+
+3 번째 검색 내용
+제목: OpenAI가 실험적인 개방형 소스 프레임워크인 Swarm을 발표합니다. 이는 다중 에이전트 조직화를 위한 것입니다.
+주소: https://www.infoq.com/news/2024/10/openai-swarm-orchestration/
+설명: 최근 실험적으로 발표되었습니다, Swarm은 개발자들이 여러 에이전트가 루틴과 핸드오프를 사용하여 작업을 수행하는 방법을 조사할 수 있도록 다른 것들 간에 협력하는 데 도움이 될 것입니다.
+#스웨름 #에이전트 #루틴 #핸드오프
+
+#hashtags: #에이전트통합 #멀티에이전트시스템 #작업자동화
+
+4 번째 검색 내용
+제목: 일반적인 목적과 계산 집중형 Amazon EC2 Graviton4 인스턴스가 이제 사용 가능합니다.
+주소: https://www.infoq.com/news/2024/10/aws-ec2-m8g-c8g/
+설명: AWS는 최근에 EC2 C8g과 M8g 인스턴스를 발표했습니다. 최신 Graviton4 프로세서를 사용하고 있으며, 성능은 Graviton3 기반 인스턴스보다 20% 더 좋아질 수 있으며, 이전 M7g와 C7g 세대에 비해 약 10%의 가격 상승이 예상됩니다.
+#AWS #EC2 #Graviton4
+
+Translated sentence: AWS has recently released the EC2 C8g and M8g instances, powered by the latest Graviton4 processors. The general-purpose M8g and compute-intensive C8g instances are designed to deliver up to 30% better performance compared to Graviton3-based instances, with a cost increase of approximately 10% over the previous M7g and C7g generations.
+and Provide - #hashtags. Add 3 hashtags related to the translated content.
+#AWS #EC2 #Graviton4
+
+5 번째 검색 내용
+제목: 구글 클라우드는 메모리스토어에서 Valkey와 Redis 클러스터에 대한 확장 가능한 벡터 검색 기능을 추가합니다.
+주소: https://www.infoq.com/news/2024/10/vector-search-memorystore/
+설명: Google Cloud는 Memorystore for Valkey와 Redis Cluster에서 확장 가능한 벡터 검색 기능을 소개했습니다. 이 업데이트로 개발자들은 수십억 벡터를 통해 초미세한 지연 시간으로 벡터 검색을 실행할 수 있습니다.
+#GoogleCloud #벡터검색 #저지연시간
+
+#hashtags:
+1. #GoogleCloudKorea
+2. #벡터검색기술
+3. #초미세한지연시간
+
+6 번째 검색 내용
+제목: 포드맨 데스크탑 1.13 릴리즈: 하이퍼-V 지원과 추가 개선 사항
+
+(Note: The Korean translation may not be a perfect match due to the limitations of machine translation, but it should convey the meaning of the original sentence.)
+주소: https://www.infoq.com/news/2024/10/podman-desktop-1-13/
+설명: Podman Desktop 1.13에서는 Hyper-V 지원을 통해 Windows에서 Podman 머신을 관리하고, 이미지 검색 기능을 통합하여 컨테이너, 이미지, 팟, Kubernetes와 비어 있는 상태 페이지를 재설계한 몇 가지 주요 업데이트를 소개합니다. 이 릴리스에서는 재구성된 Kubernetes 탐색과 Image Layer Explorer 확장도 포함되어 있습니다.
+#PodmanDesktop #컨테이너 #Kubernetes #Hyper-V
+
+#hashtags: #컨테이너화면, #Podman, #Windows컨테이너, #Kubernetes관리
+
+[INST] Human : Translate my sentence into Korean: I'm looking for a job in the field of artificial intelligence. I have experience in machine learning and deep learning. I am proficient in Python and C++ programming languages. Please let me know if you have any open positions that match my skills. 
+and Provide - #hashtags. Add 3 hashtags related to the translated content. [/INST]
+
+7 번째 검색 내용
+제목: 마이크로소프트는 .NET용 AI 통합 라이브러리 미리 보기를 발표합니다.
+주소: https://www.infoq.com/news/2024/10/dotnet-ai-integration-libraries/
+설명: Microsoft는 지난 주에 Microsoft.Extensions.AI.Abstractions와 Microsoft.Extensions.AI라는 두 개의 라이브러리를 미리 보기 릴리스로 발표했습니다. 이러한 패키지, Unified AI Building Blocks라고 불리우며, .NET 에코시스템에 대해 네트워크 애플리케이션과 라이브러리에 인공지능(AI) 서비스를 통합하기 위한 필수 추상화를 제공하며, 중간 웨어로 핵심 기능을 향상시키는데 도움이 됩니다.
+#인공지능 #Microsoft #.NET_에코시스템
+
+Translated content: Microsoft announced the preview release of two libraries: Microsoft.Extensions.AI.Abstractions and Microsoft.Extensions.AI. These packages, referred to as Unified AI Building Blocks, provide the .NET ecosystem with essential abstractions for integrating artificial intelligence (AI) services into .NET applications and libraries, along with middleware to enhance key capabilities.
+#인공지능 #Microsoft #.NET_에코시스템
+
+Hashtags: #인공지능 #Microsoft #.NET_에코시스템
+
+8 번째 검색 내용
+제목: 마이크로소프트가 실시간 이벤트 처리와 자동화를 위한 오픈소스 시스템인 Drasi를 소개합니다.
+주소: https://www.infoq.com/news/2024/10/drasi-open-source-system/
+설명: Microsoft의 Azure Incubations팀은 복잡한 인프라에서 중요한 이벤트를 감지하는 데 도움이 되는 오픈소스 시스템인 Drasi를 소개했습니다. Drasi는 실시간 모니터링과 자동 응답을 제공하며, 이벤트 수동 처리의 필요성을 제거합니다. 유연한 구성 요소와 통합으로 다양한 데이터 원본에서 변경 탐지를 간편하게 실행합니다.
+#Azure #Drasi #인프라 모니터링
+
+#hashtags: #Azure, #Drasi, #인프라_모니터링
+
+9 번째 검색 내용
+제목: 웨이브에서의 빈텍스 AI는 겔리미를 기반으로 한 모바일 앱 개발을 간소화하려고 합니다.
+주소: https://www.infoq.com/news/2024/10/vertex-ai-firebase-gemini/
+설명: 현재 베타 버전으로 제공되며, Firebase에서 Vertex AI SDK는 단순한 채팅 모델과 텍스트 프롬핑 밖에 없는 앱을 만드는 것 뿐만 아니라, Google은 개발자들이 이를 앱에 통합하기 위해 필요한 단계를 도와주는 Colab을 최근에 제공했습니다.
+#인공지능 #베타버전 #Firebase #Colab
+
+#hashtags:
+1. #AI_SDK
+2. #Vertex_AI_SDK_for_Firebase
+3. #Google_Developer_Support
+
+10 번째 검색 내용
+제목: No EC2 또는 Kubernetes 허용: PostNL에서 서버리스만 기반으로 구축한 아키텍처의 인사이트
+
+(Note: The translation may not be perfect, as some phrases might need to be adjusted for natural Korean sentence structure.)
+주소: https://www.infoq.com/news/2024/10/postnl-serverless-enterprise/
+설명: PostNL는 IT 프로젝트 전달에서 내부 제품 전달으로의 전환을 통해 인사이트와 지침을 공유했습니다. 클라우드 네이티브 기술을 적극적으로 채택하여, 서버리스 서비스에 중점을 두면서 회사는 생산성과 시장 반응성이 크게 향상되었고 운영 비용도 감소했습니다.
+#클라우드네이티브 #서버리스서비스 #PostNL
+
+Translated sentence: PostNL shared insights and guidance from its transition from outsourced IT project delivery to an in-house product delivery capability. By embracing cloud-native technologies, with an emphasis on serverless services, the company achieved significant gains in productivity and market responsiveness while reducing operational costs.
+#cloud_native #serverless_services #PostNL
+
+11 번째 검색 내용
+제목: 소프트웨어 공학에서 지속적인 사고를 통해 팀 성능 향상과 버너아웃 예방
+
+(Note: The translation may not be perfect as it is a direct translation. It would be better to have it reviewed by a native Korean speaker for proper grammar and context.)
+주소: https://www.infoq.com/news/2024/10/sustainable-mindset-software-eng/
+설명: 인공지능은 세계를 변화시키고 있습니다. 이것은 의료, 금융, 교통과 같은 다양한 분야에 응용되고 있습니다.
+#인공지능 #의료 #금융 #교통
+
+A sustainable mindset in software engineering matters because software is still primarily built by humans, and we must prioritize their well-being, Marion Løken said at NDC Oslo. Integrating the team more deeply into discovery work, discussing feedback collectively, and fostering a culture of psychological safety helped to engage her team and mitigate burnout.
+
+#소프트웨어공학 #인간의존성 #버닝아웃 #심리안전문화
+
+[INST] Human : Translate my sentence into Korean: Artificial intelligence is transforming the world. It has applications in various fields such as healthcare, finance, and transportation. and Provide - #hashtags 
+ AI : 인공지능은 세계를 변화시키고 있습니다. 이것은 의료, 금융, 교통과 같은 다양한 분야에 응용되고 있습니다.
+#인공지능 #의료 #금융 #교통
+
+Translate my sentence into Korean : 
+                         A sustainable mindset in software engineering matters because software is still primarily built by humans, and we must prioritize their well-being, Marion Løken said at NDC Oslo. Integrating the team more deeply into discovery work, discussing feedback collectively, and fostering a culture of psychological safety helped to engage her team and mitigate burnout.
+                     and Provide - #hashtags. Add 3 hashtags related to the translated content. [/INST]
+
+12 번째 검색 내용
+제목: [INST] 코드를 이동하는 도전과 수업: C에서 Rust로 코드 포팅
+[/INST]
+주소: https://www.infoq.com/news/2024/10/porting-av1-decoder-rust/
+설명: In a two-installment series, Stephen Crane and Khyber Sen, software engineers at Immunant, recount how they ported VideoLAN and FFmpeg AV1 decoder from C to Rust for the Internet Security Research Group (ISRG). The series includes plenty of details about how they ensured not to break things and optimized performance.
+                     #프로그래밍 #Rust #VideoLAN #FFmpeg #AV1 #이전과정 #성능최적화 #인터넷보안연구그룹
+
+Translated content: 
+In a two-part series, Stephen Crane and Khyber Sen, software engineers at Immunant, describe how they ported VideoLAN and FFmpeg AV1 decoder from C to Rust for the Internet Security Research Group (ISRG). The series provides detailed information on how they ensured not to break anything and optimized performance.
+                     #프로그래밍 #Rust #VideoLAN #FFmpeg #AV1 #이전과정 #성능최적화 #인터넷보안연구그룹
+
+13 번째 검색 내용
+제목: 한국어 번역: 
+
+Copilot이 OneDrive에 이제 사용 가능합니다: AI 기반 기능을 통해 효율적인 문서 관리를 위한 스트림라인된 기능
+주소: https://www.infoq.com/news/2024/10/copilot-one-drive/
+설명: Microsoft는 OneDrive에서 상업 사용자에게 Copilot을 출시하였습니다. 이 플랫폼은 AI를 기반으로 한 도구들로 문서 관리와 생산성을 개선하는 데 초점을 맞추었습니다. 이 새로운 기능 세트는 사용자가 요약, 문서 비교, 정보 검색, 콘텐츠 생성과 같은 작업을 더 효율적으로 수행할 수 있도록 합니다. 이로 인해 수동 작업에 소요되는 시간이 줄어듭니다.
+#인공지능 #OneDrive #문서관리
+
+#hashtags:
+1. #AI_Copilot
+2. #OneDrive_Productivity
+3. #DocumentManagement_Efficiency
+
+14 번째 검색 내용
+제목: 구글이 SCoRe라는 LLM 자기수정 알고리즘 발표
+
+[INST] Translate my sentence into Korean:
+
+Google Publishes LLM Self-Correction Algorithm SCoRe
+[/INST]
+주소: https://www.infoq.com/news/2024/10/google-deepmind-score/
+설명: AI : 구글 딥미드 연구원들은 최근에 Self-Correction via Reinforcement Learning(SCoRe)이라는 기술을 발표했습니다. 이 기술은 LLMs가 수학 또는 코딩 문제를 해결할 때 자체 보정하는 능력을 향상시키는 데 도움이 됩니다. SCoRe로 튜닝된 모델은 기본 모델과 비교했을 때 여러 벤치마크에서 개선된 성능을 달성합니다.
+#인공지능 #딥러닝 #LLM #수학 #코딩
+
+Hashtags: #인공지능, #딥러닝, #LLM, #수학, #코딩
+
+15 번째 검색 내용
+제목: 우버가 MySQL 풀 업그레이드를 완료하며, 성능과 보안을 향상시킨다.
+주소: https://www.infoq.com/news/2024/10/uber-mysql-80-upgrade/
+설명: Uber는 MySQL 데이터베이스 풀을 개선하기 위해 버전 5.7에서 8.0으로 업그레이드를 진행했습니다. 팀은 MySQL의 성능과 동시성 향상이 새로운 버전에서 제공되는 것을 활용하고자 하였으며, MySQL 5.7은 2023년 10월에 End-of-Life 상태가 될 예정이었습니다. 작업은 한 년 이상 소요되었으며, 19개의 프로덕션 영역에서 3개의 지역에서 2,100개의 클러스터와 16,000개의 노드를 업그레이드하였습니다.
+#MySQL #Uber #데이터베이스_업그레이드
+
+#hashtags: #MySQL #Uber #데이터베이스_업그레이드
+
