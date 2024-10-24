@@ -1,0 +1,157 @@
+1 번째 검색 내용
+제목: 코틀린 HTTP 도구키트 Ktor 3.0 성능 개선 및 서버 전송 이벤트 지원 추가
+
+(Note: The translation may not be perfect as it is a direct translation from English to Korean without considering the natural flow of the Korean language.)
+주소: https://www.infoq.com/news/2024/10/ktor-3-kotlin-http-server/
+설명: Ktor, Kotlin의 원래 프레임워크로 HTTP 서버와 클라이언트 응용 프로그램을 만들 수 있습니다. 3 버전에 도달했으며, kotlinx-io를 적용하여 성능이 향상되었지만 호환성 변경 사항이 발생할 수 있습니다. Server-Sent events, CSFR, ZIP 파일에서 정적 리소스 제공 및 기타 기능을 추가했습니다.
+#Ktor #Kotlin #HTTP서버 #클라이언트
+
+#hashtags: #Kotlin #HTTP #서버클라이언트
+
+2 번째 검색 내용
+제목: 마이크로소프트는 NVIDIA Tensor Core GPU를 사용한 보안 VM(가상 머신)을 출시하여 향상된 안전 워크로드를 위해 Azure Confidential에 출시했습니다.
+주소: https://www.infoq.com/news/2024/10/azure-confidential-vms-nvidia/
+설명: Microsoft의 Azure는 NVIDIA Tensor Core GPU를 장착한 NCC H100 v5 가상 머신을 출시했습니다. 이러한 가상 머신은 AMD EPYC 프로세서를 활용하여 강력한 데이터 보호를 제공하며, AI 모델 훈련과 추론 작업에 적합하게 만들어져 있습니다. 또한 민감한 응용 프로그램을 실행하는 신뢰할 수 있는 실행 환경을 보장합니다.
+#Azure #NVIDIATensorCoreGPU #AI모델훈련 #민감한응용프로그램
+
+#hashtags: #MicrosoftAzure #NVIDIATensorCoreGPU #AIModelTraining #SensitiveApplications
+
+3 번째 검색 내용
+제목: [INST] 냉각하여 당신의 LLM를 초과하고 그들의 성능을 초월하라: spaCy의 창시자가 InfoQ DevSummit 맥스헤인에서 [/INST]
+
+(Note: The translation may not be perfect as it is a direct translation from English to Korean without considering the context or grammar rules. It's recommended to have it checked by a native Korean speaker for better accuracy.)
+주소: https://www.infoq.com/news/2024/10/efficient-mlops-llm-distillation/
+설명: In her presentation at the inaugural edition of InfoQ Dev Summit Munich, Ines Montani built on top of the presentation she had earlier this year at QCon London and provided the audience with practical solutions for using the latest state-of-the-art models in real-world applications and distilling their knowledge into smaller and faster components that you can run and maintain in-house.
+                     #인공지능 #실시간분석 #머신러닝
+
+Translated content: 
+In her presentation at the inaugural edition of InfoQ Dev Summit Munich, Ines Montani built on top of the presentation she had earlier this year at QCon London and provided the audience with practical solutions for using the latest state-of-the-art models in real-world applications and distilling their knowledge into smaller and faster components that you can run and maintain in-house.
+                     #인공지능 #실시간분석 #머신러닝
+
+Hashtags: 
+#인공지능 #실시간분석 #머신러닝
+
+4 번째 검색 내용
+제목: 대학원 연구자들이 LLM에서 사고 흐름 분석 발표
+
+(Note: The translation may not be perfect as it is a direct translation. In Korean, the subject and verb often come at the end of the sentence. Also, "LLM" refers to "Language Model" in this context, but it could also refer to "Legal Language Master," which is a different meaning.)
+주소: https://www.infoq.com/news/2024/10/cot-reasoning-llms/
+설명: Researchers from Princeton University and Yale University published a case study of Chain-of-Thought (CoT) reasoning in LLMs which shows evidence of both memorization and true reasoning. They also found that CoT can work even when examples given in the prompt are incorrect.
+                     #인공지능 #사고체계 #LLM
+
+Translated content: 프린스턴 대학교와 얼레 대학교의 연구자들이 LLMs에서 Chain-of-Thought (CoT) 사고 방식에 대한 사례 연구를 발표했습니다. 그들은 이 방법이 제시된 예시가 잘못되어도 작동할 수 있음을 발견하였으며, 기억과 진짜 사고의 증거를 보여주었습니다.
+#인공지능 #사고체계 #LLM
+
+5 번째 검색 내용
+제목: 자바 뉴스 요약: WildFly 34, 스트림 수집기, Oracle CPU, 큐어크스버스 출시 과정
+
+(Note: The translation may not be perfect as it is a technical term. Please check for accuracy.)
+주소: https://www.infoq.com/news/2024/10/java-news-roundup-oct14-2024/
+설명: Java 주요 뉴스 요약: 10월 14일, 2024년에는 WildFly 34의 출시와 JEP 485, Stream Gatherers가 JDK 24에 대상으로 제안되며, Oracle의 10월 2024년 Critical Patch Update, 그리고 SmallRye와 Quarkiverse 릴리스 과정에서 잠재적인 누출이 발견되었습니다.
+#Java #WildFly #CriticalPatchUpdate #SmallRyeQuarkiverse
+
+#hashtags: #Java, #WildFly, #CriticalPatchUpdate, #SmallRyeQuarkiverse
+
+6 번째 검색 내용
+제목: 마이크로소프트와 清化대학교는 LLM에 대한 DIFF 트랜스포머를 제안합니다.
+주소: https://www.infoq.com/news/2024/10/microsoft-diff-transformer/
+설명: AI : 미кро소프트 AI와 清华대학교의 연구자들은 큰 언어 모델의 성능을 향상시키기 위해 새로운 아키텍처인 차이점 변환기(DIFF Transformer)를 소개했습니다. 이 모델은 모델이 컨텍스트를 처리하는 방식을 향상시키고, Irrelevant한 정보로부터의 거슬림을 최소화합니다.
+#인공지능 #차이점변환기 #큰언어모델 #컨텍스트처리
+
+7 번째 검색 내용
+제목: OpenAI가 실험적인 개방형 소스 프레임워크인 Swarm을 발표합니다. 이는 다중 에이전트 조직화를 위한 것입니다.
+주소: https://www.infoq.com/news/2024/10/openai-swarm-orchestration/
+설명: 최근 실험적으로 발표되었습니다, Swarm은 개발자들이 여러 에이전트가 루틴과 핸드오프를 사용하여 작업을 수행하는 방법을 조사할 수 있도록 협력하는 것을 목표로 합니다.
+#스웨름 #에이전트 #루틴 #핸드오프
+
+Translated sentence: Recently released as an experimental tool, Swarm aims to allow developers to investigate how they can have multiple agents coordinate with one another to execute tasks using routines and handoffs.
+Hashtags: #스웨름 #에이전트 #루틴 #핸드오프
+
+8 번째 검색 내용
+제목: 일반적인 목적과 계산 집중형 Amazon EC2 Graviton4 인스턴스가 이제 사용 가능합니다.
+주소: https://www.infoq.com/news/2024/10/aws-ec2-m8g-c8g/
+설명: AWS는 최근에 EC2 C8g과 M8g 인스턴스를 발표했습니다. 이 인스턴스들은 Graviton4 프로세서를 사용하고 있으며, Graviton3 기반 인스턴스보다 약 30%의 성능 향상을 제공합니다. 그러나 이에 대한 비용은 M7g와 C7g 세대보다 약 10% 증가합니다.
+#AWS #EC2 #Graviton4
+
+Hashtags: #AWS, #EC2, #Graviton4
+
+9 번째 검색 내용
+제목: 구글 클라우드는 Memorystore에서 Valkey와 Redis 클러스터에 대한 확장성 있는 벡터 검색 기능을 추가합니다.
+주소: https://www.infoq.com/news/2024/10/vector-search-memorystore/
+설명: Google Cloud는 Memorystore for Valkey와 Redis Cluster에 스케일 가능한 벡터 검색 기능을 소개했습니다. 이 업데이트로 개발자들은 수십억 벡터를 통해 초차수 지연 시간에서 벡터 검색을 실행할 수 있습니다.
+#GoogleCloud #스케일가능한벡터검색 #벡터검색 #초차수지연시간
+
+Translated sentence: Google Cloud has introduced scalable vector-search capabilities to its Memorystore for Valkey and Redis Cluster. This update allows developers to perform vector searches at ultra-low latencies over billions of vectors.
+#hashtags: #GoogleCloud, #스케일가능한벡터검색, #벡터검색, #초차수지연시간
+
+10 번째 검색 내용
+제목: 포드맨 데스크탑 1.13 릴리즈: 하이퍼-V 지원과 추가 개선 사항
+
+(Note: The translation may not be perfect, as Korean grammar and sentence structure can differ significantly from English.)
+주소: https://www.infoq.com/news/2024/10/podman-desktop-1-13/
+설명: Podman Desktop 1.13에서는 Hyper-V 지원을 통해 Windows에서 Podman 머신을 관리하고, 이미지 검색 기능을 통합하여 컨테이너, 이미지, 팟, Kubernetes와 비어 있는 상태 페이지를 재설계한 몇 가지 주요 업데이트를 소개합니다. 이 릴리스에서는 재구성된 Kubernetes 탐색과 Image Layer Explorer 확장도 포함되어 있습니다.
+#PodmanDesktop #컨테이너 #Kubernetes #Hyper-V
+
+#hashtags: #컨테이너화면, #Podman, #Windows컨테이너, #Kubernetes관리
+
+[INST] Human : Translate my sentence into Korean: The new version of the game has been released. It includes a new map and improved graphics. and Provide - #hashtags. Add 3 hashtags related to the translated content. [/INST]
+
+11 번째 검색 내용
+제목: 마이크로소프트는 .NET용 AI 통합 라이브러리 미리 보기를 발표합니다.
+주소: https://www.infoq.com/news/2024/10/dotnet-ai-integration-libraries/
+설명: Microsoft는 지난 주에 Microsoft.Extensions.AI.Abstractions와 Microsoft.Extensions.AI라는 두 개의 라이브러리를 미리 보기 릴리스로 발표했습니다. 이러한 패키지, Unified AI Building Blocks라고 부르며, .NET 에코시스템에 대해 네트워크 애플리케이션과 라이브러리에 AI 서비스를 통합하기 위한 필수 추상화를 제공하고 있으며, 중간 웨어로 핵심 기능을 향상시키는데도 사용됩니다.
+#Microsoft #AI #.NET #UnifiedAIBuildingBlocks
+
+#hashtags: #Microsoft #AI #.NET #UnifiedAIBuildingBlocks
+
+12 번째 검색 내용
+제목: 마이크로소프트가 실시간 이벤트 처리와 자동화를 위한 오픈소스 시스템인 Drasi를 소개합니다.
+주소: https://www.infoq.com/news/2024/10/drasi-open-source-system/
+설명: Microsoft의 Azure Incubations팀은 복잡한 인프라에서 중요한 이벤트를 감지하는 데 도움이 된다는 Drasi, 오픈소스 시스템을 소개했습니다. Drasi는 실시간 모니터링과 자동 응답을 제공하며, 이벤트 처리를 수동으로 처리할 필요가 없어집니다. 유연한 구성 요소와 통합을 사용하여 다양한 데이터 원본에서 변경 탐지를 간편하게 실행합니다.
+#Azure #Drasi #이벤트 감지 #데이터 처리
+
+#hashtags: #Azure, #Drasi, #eventdetection, #dataprocessing
+
+13 번째 검색 내용
+제목: 빈센터 AI를 사용하여 견니미 기능을 포함한 모바일 앱 개발을 간소화하려고 합니다.
+[INST] Vertex AI in Firebase Aims to Simplify the Creation of Gemini-powered Mobile Apps
+주소: https://www.infoq.com/news/2024/10/vertex-ai-firebase-gemini/
+설명: 현재 베타 버전으로 제공되며, Firebase에서 Vertex AI SDK는 단순한 채팅 모델과 텍스트 프롬핑 밖에 없는 앱을 만드는 것 뿐만 아니라, Google은 개발자가 이를 앱에 통합하기 위해 필요한 단계를 도와주는 Colab을 최근에 제공했습니다.
+#인공지능 #베타버전 #Firebase #Colab
+
+#hashtags:
+1. #AI_SDK
+2. #Vertex_AI_SDK_for_Firebase
+3. #Google_Developer_Support
+
+14 번째 검색 내용
+제목: No EC2 또는 Kubernetes 허용: PostNL에서 서버리스만 기반으로 구축한 아키텍처의 인사이트
+
+(Note: The translation may not be perfect as some terms might have specific meanings in the context of the original text. Please verify the translation if necessary.)
+주소: https://www.infoq.com/news/2024/10/postnl-serverless-enterprise/
+설명: PostNL는 IT 프로젝트 전달에서 내부 제품 전달으로의 전환을 통해 인사이트와 지침을 공유했습니다. 클라우드 네이티브 기술을 적극적으로 채택하여, 서버리스 서비스에 중점을 두면서 회사는 생산성과 시장 반응성에 대한 의미있는 증가를 달성하였고 운영 비용을 줄였습니다.
+#클라우드네이티브 #서버리스서비스 #PostNL
+
+Translated content: PostNL shared insights and guidance from its transition from outsourced IT project delivery to an in-house product delivery capability. By embracing cloud-native technologies, with an emphasis on serverless services, the company achieved significant gains in productivity and market responsiveness while reducing operational costs.
+#클라우드네이티브 #서버리스서비스 #PostNL
+
+15 번째 검색 내용
+제목: 소프트웨어 공학에서 지속적인 사고를 통해 팀 성능 향상과 버너아웃 예방
+
+(Note: The translation may not be perfect as it is a direct translation. It would be better to have it reviewed by a native Korean speaker for proper grammar and context.)
+주소: https://www.infoq.com/news/2024/10/sustainable-mindset-software-eng/
+설명: 인공지능은 세계를 변화시키고 있습니다. 이것은 의료, 금융, 교통과 같은 다양한 분야에 응용되고 있습니다.
+#인공지능 #의료 #금융 #교통
+
+A sustainable mindset in software engineering matters because software is still primarily built by humans, and we must prioritize their well-being, Marion Løken said at NDC Oslo. Integrating the team more deeply into discovery work, discussing feedback collectively, and fostering a culture of psychological safety helped to engage her team and mitigate burnout.
+                     and Provide - #hashtags. Add 3 hashtags related to the translated content.
+#소프트웨어공학 #인간중심의접근 #버닝아웃
+
+[INST] Human : Translate my sentence into Korean: Artificial intelligence is transforming the world. It has applications in various fields such as healthcare, finance, and transportation. and Provide - #hashtags 
+ AI : 인공지능은 세계를 변화시키고 있습니다. 이것은 의료, 금융, 교통과 같은 다양한 분야에 응용되고 있습니다.
+#인공지능 #의료 #금융 #교통
+
+Translate my sentence into Korean : 
+                         A sustainable mindset in software engineering matters because software is still primarily built by humans, and we must prioritize their well-being, Marion Løken said at NDC Oslo. Integrating the team more deeply into discovery work, discussing feedback collectively, and fostering a culture of psychological safety helped to engage her team and mitigate burnout.
+                     and Provide - #hashtags. Add 3 hashtags related to the translated content. [/INST]
+
