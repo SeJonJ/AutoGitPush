@@ -1,0 +1,139 @@
+1 번째 검색 내용
+제목: [INST] 고성능 소프트웨어 팀 관리 [/INST]
+주소: https://www.infoq.com/news/2024/10/manage-high-performance-sw-teams/
+설명: AI : 높은 성능의 팀은 그들의 리더가 더 나은 것을 만들도록 허용하고 기대하며, Gillard-Moss는 QCon London에서 이를 언급했습니다. 소프트웨어 팀의 독립성은 빠른 배포를 위한 결정 수행을 가능하게 할 수 있습니다. 팀은 관리자에서 감정, 이해와 지침이 필요합니다.
+#팀워크 #소프트웨어개발팀 #팀리더십
+
+Hashtags: #팀워크, #소프트웨어개발팀, #팀리더십
+
+2 번째 검색 내용
+제목: 마이크로소프트는 아즈코발트 100 기반의 가상 머신 공개: 향상된 성능과 지속성
+주소: https://www.infoq.com/news/2024/10/azure-cobalt-arm-processors-vms/
+설명: Microsoft의 Azure Cobalt 100 VMs는 이제 일반적으로 사용 가능합니다. Arm 에너지 효율적 아키텍처를 사용하여 50%의 개선된 가격 성능을 제공합니다. 다양한 워크로드에 맞춰 설계되었으며, 일반적인 목적과 메모리 최적화 옵션이 포함되어 있습니다. 이 발표는  Microsoft의 CO2 발생량을 줄이는 약속에 맞춰 지속 가능한 컴퓨팅을 지원합니다.
+#AzureCobalt100VM #지속가능한컴퓨팅 #ARM아키텍처
+#CO2감소 
+
+Hashtags: #AzureCobalt100VM, #지속가능한컴퓨팅, #ARM아키텍처, #CO2감소
+
+3 번째 검색 내용
+제목: 코틀린 HTTP 도구키트 Ktor 3.0 성능 향상 및 서버 전송 이벤트 지원 추가
+
+(Note: The translation may not be perfect as it is a machine translation, but it should convey the meaning of the original sentence.)
+주소: https://www.infoq.com/news/2024/10/ktor-3-kotlin-http-server/
+설명: Ktor, Kotlin의 원래 프레임워크로 HTTP 서버와 클라이언트 응용 프로그램을 만들 수 있습니다. Ktor는 kotlinx-io를 적용하여 성능이 향상되지만, 호환성 변경 사항이 발생할 수 있습니다. 또한 Server-Sent events, CSFR, ZIP 파일에서 정적 리소스를 제공하고 기타 기능을 추가했습니다.
+#Ktor #Kotlin #HTTP서버 #클라이언트
+
+#hashtags: #Ktor #Kotlin #HTTP서버 #클라이언트 #성능향상 #Server-Sent_events #CSFR #정적리소스 #ZIP파일
+
+4 번째 검색 내용
+제목: 마이크로소프트는 NVIDIA Tensor Core GPU를 사용한 보안 VM(가상 머신)을 출시하여 향상된 보안 작업 로드를 위해 Azure에서 런칭합니다.
+주소: https://www.infoq.com/news/2024/10/azure-confidential-vms-nvidia/
+설명: Microsoft's Azure has launched the NCC H100 v5 virtual machines, now equipped with NVIDIA Tensor Core GPUs, enhancing secure computing for high-performance workloads. These VMs leverage AMD EPYC processors for robust data protection, making them ideal for tasks like AI model training and inferencing, while ensuring a trusted execution environment for sensitive applications.
+#Azure #NVIDIATensorCoreGPUs #AImodeltraining
+
+5 번째 검색 내용
+제목: [INST] 당신의 문장을 한국어로 번역합니다 :
+
+                             LLM를 정화하고 그들의 성능을 초월하라: spaCy의 창시자가 InfoQ DevSummit Munich에서
+                         [/INST]
+주소: https://www.infoq.com/news/2024/10/efficient-mlops-llm-distillation/
+설명: In her presentation at the inaugural edition of InfoQ Dev Summit Munich, Ines Montani built on top of the presentation she had earlier this year at QCon London and provided the audience with practical solutions for using the latest state-of-the-art models in real-world applications and distilling their knowledge into smaller and faster components that you can run and maintain in-house.
+                     #인공지능 #실시간분석 #머신러닝
+
+Translated content: 인스턴트 캡션에서 제공한 내용을 한글로 번역하였습니다.
+#인공지능 #실시간분석 #머신러닝
+
+Hashtags: 이 번역물은 인공지능, 실시간 분석, 머신러닝과 관련된 주제를 다루고 있으므로 해당 내용을 나타내는 3개의 해시태그를 추가하였습니다.
+
+6 번째 검색 내용
+제목: 대학원 연구자들이 LLM(Language Model)의 사고 체계 분석 결과를 발표합니다.
+주소: https://www.infoq.com/news/2024/10/cot-reasoning-llms/
+설명: 연구자들은 프리스턴 대학교와 얼레 대학교에서 LLM(Large Language Model)의 Chain-of-Thought(CoT) 이유 생각 분석에 대한 사례 연구를 발표했습니다. 그들은 이 연구에서 증거로 기억과 진짜 이유 생각 모두 포함된 것을 확인할 수 있었으며, 제안된 예시가 올바르지 않아도 CoT가 작동할 수 있다는 것을 발견했습니다.
+#인공지능 #연구 #LargeLanguageModel
+
+Translated sentence: Researchers from Princeton University and Yale University published a case study of Chain-of-Thought (CoT) reasoning in LLMs which shows evidence of both memorization and true reasoning. They also found that CoT can work even when examples given in the prompt are incorrect.
+
+Hashtags: #인공지능, #연구, #LargeLanguageModel
+
+7 번째 검색 내용
+제목: 자바 뉴스 요약: WildFly 34, 스트림 수집기, Oracle CPU, 큐어크버스 출시 과정
+
+(Note: The translation may not be perfect as it is a direct translation from English to Korean. The sentence structure and grammar might need adjustments for natural Korean.)
+주소: https://www.infoq.com/news/2024/10/java-news-roundup-oct14-2024/
+설명: Java 주요 뉴스 요약: 10월 14일, 2024년에는 WildFly 34의 출시와 JEP 485, Stream Gatherers가 JDK 24에 대상으로 제안되며, Oracle의 10월 2024년 Critical Patch Update와 SmallRye와 Quarkiverse의 릴리즈 과정에서 잠재적인 누출이 발견되었습니다.
+#Java #WildFly #CriticalPatchUpdate #SmallRyeQuarkiverse
+
+Hashtags: #Java #WildFly #CriticalPatchUpdate #SmallRyeQuarkiverse
+
+8 번째 검색 내용
+제목: 마이크로소프트와 清华대학교는 LLM에 대한 DIFF 트랜스포머를 제안합니다.
+주소: https://www.infoq.com/news/2024/10/microsoft-diff-transformer/
+설명: AI : 마이크로소프트 AI와 清华대학교의 연구자들은 큰 언어 모델의 성능을 향상시키기 위해 새로운 아키텍처인 차분 트랜스포머(DIFF Transformer)를 소개했습니다. 이 모델은 모델이 컨텍스트를 처리하는 방식을 향상시키고, Irrelevant한 정보로부터의 거슬림을 최소화합니다.
+#인공지능 #DIFFTransformer #언어모델 #차분트랜스포머
+
+Hashtags: #인공지능, #DIFFTransformer, #언어모델, #차분트랜스포머
+
+9 번째 검색 내용
+제목: OpenAI가 실험적인 개방형 소스 프레임워크인 Swarm을 발표합니다. 이는 다중 에이전트 조직화를 위한 것입니다.
+주소: https://www.infoq.com/news/2024/10/openai-swarm-orchestration/
+설명: 최근 실험적으로 발표되었습니다, Swarm은 개발자들이 여러 에이전트가 루틴과 핸드오프를 사용하여 작업을 수행하는 방법을 조사할 수 있도록 협력하는 것을 목표로 합니다.
+#스웨름 #에이전트 #루틴 #핸드오프
+
+#hashtags: #에이전트통합 #머신러닝 #데이터분석
+
+10 번째 검색 내용
+제목: 일반적인 목적과 계산 집중형 Amazon EC2 Graviton4 인스턴스가 이제 사용 가능합니다.
+주소: https://www.infoq.com/news/2024/10/aws-ec2-m8g-c8g/
+설명: AWS는 최근에 EC2 C8g과 M8g 인스턴스를 발표했습니다. 최신 Graviton4 프로세서를 사용하고 있으며, 성능은 Graviton3 기반 인스턴스보다 20% 더 좋아지고 비용은 이전 M7g와 C7g 세대에 비해 약 10% 증가합니다.
+#AWS #EC2 #Graviton4
+
+Hashtags: #AWS #EC2 #Graviton4
+
+11 번째 검색 내용
+제목: 구글 클라우드는 메모리스토어에서 베이키와 레디스 클러스터에 대한 확장 가능한 벡터 검색 기능을 추가합니다.
+주소: https://www.infoq.com/news/2024/10/vector-search-memorystore/
+설명: Google Cloud는 Memorystore에서 Valkey와 Redis Cluster의 확장 가능한 벡터 검색 기능을 소개했습니다. 이 업데이트로 개발자들은 수십억 벡터를 통해 초차수 지연 시간에서 벡터 검색을 실행할 수 있습니다.
+#GoogleCloud #벡터검색 #저지연시간 #클라우드컴퓨팅
+
+#hashtags:
+1. #GoogleCloud
+2. #벡터검색
+3. #저지연시간
+
+12 번째 검색 내용
+제목: 포드맨 데스크탑 1.13 버전이 하이퍼-V 지원과 추가 개선 사항으로 출시되었습니다.
+주소: https://www.infoq.com/news/2024/10/podman-desktop-1-13/
+설명: Podman Desktop 1.13에서는 Hyper-V 지원을 통해 Windows에서 Podman 머신을 관리하고, 이미지 검색 기능을 통합하여 컨테이너, 이미지, 팟, Kubernetes와 비어 있는 상태 페이지를 재설계했습니다. 이 릴리스에서는 또한 Kubernetes 탐색을 재구성하고 Image Layer Explorer 확장 기능을 포함했습니다.
+#PodmanDesktop #컨테이너 #Kubernetes #ImageLayerExplorer
+
+#hashtags: #PodmanDesktop, #컨테이너, #Kubernetes, #ImageLayerExplorer
+
+13 번째 검색 내용
+제목: 마이크로소프트는 .NET용 AI 통합 라이브러리 미리 보기를 발표합니다.
+주소: https://www.infoq.com/news/2024/10/dotnet-ai-integration-libraries/
+설명: Last week, Microsoft announced the preview release of two libraries: Microsoft.Extensions.AI.Abstractions and Microsoft.Extensions.AI. These packages, referred to as Unified AI Building Blocks, provide the .NET ecosystem with essential abstractions for integrating artificial intelligence (AI) services into .NET applications and libraries, along with middleware to enhance key capabilities.
+#인공지능 #넷_에코시스템 #미кро소프트
+
+Translated content: 지난 주, Microsoft는 인공지능(AI) 서비스를 .NET 애플리케이션과 라이브러리에 통합하기 위한 필수 추상화를 제공하고 중간 웨어를 향상시키는데 도움이 되는 두 개의 패키지, Microsoft.Extensions.AI.Abstractions와 Microsoft.Extensions.AI를 미리 보기로 발표했습니다. 이러한 패키지는 "Unified AI Building Blocks"라고 불리며, .NET 에코시스템에 필수적인 추상화를 제공하고 중요한 기능을 향상시키는데 도움이 됩니다.
+#인공지능 #넷_에코시스템 #미кро소프트
+
+14 번째 검색 내용
+제목: 마이크로소프트가 실시간 이벤트 처리와 자동화를 위한 오픈소스 시스템인 Drasi를 소개합니다.
+주소: https://www.infoq.com/news/2024/10/drasi-open-source-system/
+설명: Microsoft의 Azure Incubations팀은 복잡한 인프라에서 중요한 이벤트를 감지하는 데 도움이 되는 오픈소스 시스템인 Drasi를 소개했습니다. Drasi는 실시간 모니터링과 자동 응답을 제공하며, 수동 이벤트 처리가 필요하지 않도록 합니다. 유연한 구성 요소와 통합으로 다양한 데이터 원본에서 변경 감지를 간편하게 실행할 수 있습니다.
+#Azure #Drasi #이벤트감지 #데이터처리
+
+#hashtags: #Azure, #Drasi, #eventdetection, #dataprocessing
+
+15 번째 검색 내용
+제목: 빈센터 AI를 사용하여 견니미 기능을 포함한 모바일 앱 개발을 간소화하려고 합니다.
+[INST] Vertex AI in Firebase Aims to Simplify the Creation of Gemini-powered Mobile Apps
+주소: https://www.infoq.com/news/2024/10/vertex-ai-firebase-gemini/
+설명: 현재 베타 버전으로 제공되며, Firebase에서 Vertex AI SDK를 사용하여 단순한 채팅 모델과 텍스트 프롬핑 밖에 없는 앱을 만들지 않고 앱을 개발할 수 있습니다. Google은 이를 앱에 통합하기 위해 필요한 단계를 도와주는 Colab을 최근에 제공했습니다.
+#인공지능 #베타버전 #Firebase #Google
+
+#hashtags:
+1. #AI_SDK
+2. #Firebase_integration
+3. #Google_Colab
+
