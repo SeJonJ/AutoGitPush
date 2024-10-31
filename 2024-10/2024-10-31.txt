@@ -1,0 +1,143 @@
+1 번째 검색 내용
+제목: AWS Lambda에서 비주얼 스튜디오 코드 기반의 편집기와 고급 기능, AI 통합이 도입되었습니다.
+주소: https://www.infoq.com/news/2024/10/aws-lambda-code-editor/
+설명: AWS Lambda의 새로운 콘솔은 VS Code OSS 통합 편집기를 포함하고 있으며, 사용자 정의 설정을 지원하고 더 큰 함수 패키지에 대한 지원도 제공합니다. 이 콘솔은 코드와 출력을 동시에 볼 수 있는 분할 화면 레이아웃, 실시간 로그 추적, 및 Amazon Q Developer를 통해 AI 기반의 제안을 포함합니다.
+#AWS_Lambda #VSCode #AI_기반_제안
+
+Hashtags: #AWS_Lambda, #VSCode, #AI_기반_제안
+
+2 번째 검색 내용
+제목: 중앙 패키지 관리가 .NET 업그레이드 도우미에서 사용 가능합니다.
+주소: https://www.infoq.com/news/2024/10/dotnet-upgrade-assistant-cpm/
+설명: 인공지능 팀은 최근에 중요한 업그레이드를 소개했습니다: Central Package Management(CPM) 기능입니다. 이 새로운 기능으로 .NET 개발자들은 의존성을 더 효과적으로 관리할 수 있어, 업그레이드 프로세스를 간소화하고 솔루션 내에서 다양한 프로젝트에 일관성을 유지합니다.
+#.NET #의존성 #업그레이드 #CPM
+
+#hashtags:
+1. #.NETUpgradeAssistant
+2. #CentralPackageManagement
+3. #EffectiveDependencyManagement
+
+3 번째 검색 내용
+제목: PyTorch 2.5 릴리즈는 Intel GPU에 대한 지원을 포함합니다.
+주소: https://www.infoq.com/news/2024/10/pytorch-25-release/
+설명: AI : 피토치 재단은 인텔 GPU에 대한 지원을 포함한 피토치 2.5 버전을 최근에 발표했습니다. 이 릴리즈는 FlexAttention API, TorchInductor CPU 백엔드 최적화, 및 지역 컴파일 기능을 포함하여 성능 향상 사항도 포함합니다. 전체적으로 이 릴리즈는 PyTorch 2.4에 비해 4095개의 커밋을 포함합니다.
+#피토치 #인텔GPU #성능향상
+
+#hashtags: #피토치 #인텔GPU #성능향상
+
+4 번째 검색 내용
+제목: RAG-Powered 코퓨아이트가 우버에게 13,000 공학 시간을 구원합니다.
+주소: https://www.infoq.com/news/2024/10/uber-genie-rag-copilot/
+설명: Uber는 지난주 Genie라는 AI를 사용한 대화형 호출 코퓨닷을 개발하고 있다는 내용을 자세히 설명했습니다. Genie는 지원 엔지니어의 효율성을 향상시키기 위해 AI를 활용한 것으로, Retrieval-Augmented Generation(RAG)을 사용하여 실시간으로 정확한 대답을 제공하고 인시던트 응급 처리의 속도와 효과성을 크게 향상시킵니다. Genie는 출시 이후 70,000개의 질문에 답변하여 13,000시간의 엔지니어링 시간을 절약했습니다.
+#인공지능 #Uber #Genie
+
+Hashtags: #인공지능 #Uber #Genie
+
+5 번째 검색 내용
+제목: 클라우드플레어, 오픈텔레메트리로 로깅 파이프라인 개선
+
+(Note: The translation may not be perfect as it is a technical term. Please verify the accuracy if needed.)
+주소: https://www.infoq.com/news/2024/10/cloudflare-opentelemetry/
+설명: 인터넷 앨리케이션 및 보안 회사 Cloudflare는 syslog-ng를 OpenTelemetry Collector로 이동함으로써 로깅 파이프라인을 크게 개선한 방법을 기록했습니다.
+#클라우드플레어 #로깅파이프라인 #OpenTelemetryCollector
+
+Translated sentence: Internet infrastructure and security company Cloudflare has documented how it significantly upgraded its logging pipeline by moving from syslog-ng to OpenTelemetry Collector.
+Hashtags: #Cloudflare #LoggingPipeline #syslog-ng #OpenTelemetryCollector
+
+6 번째 검색 내용
+제목: 자바 뉴스 요약: 아폰케 펄사르 4.0, 자카르타 EE 11, 오픈 리버티, 헬리돈, 제이힐스터, 아폰케 캠엘
+주소: https://www.infoq.com/news/2024/10/java-news-roundup-oct21-2024/
+설명: Java 주요 뉴스 요약: 2024년 10월 21일 이후에는 Apache Pulsar 4.0이 출시되었으며, Open Liberty 24.0.0.11-beta가 Jakarta EE 11 Core Profile의 첫 호환 구현으로 발표되었습니다. 또한 Helidon 4.1.3, JHipster 1.21.0, Apache Camel 4.8.1과 4.4.4에는 각각의 포인트 릴리즈가 발표되었습니다.
+#Java #ApachePulsar #OpenLiberty #JakartaEE
+
+#hashtags: #Java #ApachePulsar #OpenLiberty #JakartaEE #Helidon #JHipster #ApacheCamel
+
+7 번째 검색 내용
+제목: 구글 클라우드 비용 할당 솔루션을 사용하여 클라우드 비용 시각화를 향상시키십시오.
+주소: https://www.infoq.com/news/2024/10/google-cloud-cost-attribution/
+설명: Google Cloud의 새로운 Cost Attribution Solution은 클라우드 비용 관리를 혁신시키며, 향상된 메타데이터와 레이블링 도구를 통해 활성화됩니다. 새로운 사람들과 비범한 전문가들에게 모두 적합하며, 기업은 팀, 프로젝트, 서비스 등의 비용을 추적할 수 있도록 지원하여 정보를 바탕으로 결정을 내리는 데 도움이 됩니다. 자동 레이블링과 상세한 보고서를 통해 기업은 리소스 할당에 대한 최적화와 비용 시각성을 향상시킬 수 있습니다.
+#클라우드 #비용관리 #리소스할당 #비용시각성
+
+#hashtags: #GoogleCloud #CostAttributionSolution #클라우드비용관리혁신
+
+8 번째 검색 내용
+제목: 스프링 뉴스 요약: 스프링 부트, 보안, 인증 서버, 모듈리스 릴리즈 кан디드이다.
+주소: https://www.infoq.com/news/2024/10/spring-news-roundup-oct21-2024/
+설명: Korean Translation: 10월 21일 주에서 봄 생태계에서 활발한 활동이 있었으며, 첫 번째 리리스 캔디들을 강조하고 있습니다. Spring Boot, Spring Security, Spring Authorization Server, Spring Integration, Spring Modulith, Spring Batch, Spring AMQP, Spring for Apache Kafka 및 Spring for Apache Pulsar와 같은 다양한 분야에서 응용되고 있습니다.
+#Spring #생태계 #캔디 #리리스
+
+Hashtags: #Spring #Ecosystem #ReleaseCandidates #October21st
+
+9 번째 검색 내용
+제목: 빈즈 AI가 공개: 다중 모드 모델과 개발 자원을 포함한 오픈 소스 Aria 밝혀짐
+[INST] Rhymes AI Unveils Aria: Open-Source Multimodal Model with Development Resources
+주소: https://www.infoq.com/news/2024/10/rhymes-ai-aria/
+설명: Rhymes AI는 텍스트, 이미지, 비디오, 코드를 효과적으로 처리할 수 있는 열린 원시 다양성 모델인 Aria를 소개했습니다. 벤치마킹 테스트에서 Aria는 기타 열린 모델보다 우수하게 성능을 나타내고, 비슷한 성능을 보여주었습니다. GPT-4o와 Gemini-1.5과 경쟁하는 데 대처할 수 있습니다.
+#인공지능 #열린소스 #다양성모델
+
+#hashtags: #AI #OpenSource #MultimodalModel
+
+10 번째 검색 내용
+제목: OpenJDK 뉴스 요약: 스트림 수집기, 범위 값, 생성적 Shenandoah, ZGC 비-제너레이션 모드
+
+(Note: The Korean translation may not be perfect as it is a machine translation. Please review and make any necessary adjustments.)
+주소: https://www.infoq.com/news/2024/10/jdk-news-roundup-oct21-2024/
+설명: Korean: 10월 21일 주에 열린 OpenJDK 생태계에서 활발한 활동이 있었으며, 다음을 강조합니다. JDK 24에 대상화되고 대상화되어 있는 JEP들과 수정 사항이 Candidate 상태로 승인되었습니다. JEP 485, Stream Gatherers, JDK 24에 확정된 5번째 JEP입니다. 10월 28일 주에는 4개의 JEP가 대상화되어 검토 대기 상태가 됩니다.
+#OpenJDK #JEP #JDK24
+
+Hashtags: #OpenJDK, #JEP, #JDK24
+
+11 번째 검색 내용
+제목: 스티브 클래블닉과 허브 슈터가 루스트와 C++에 대해 이야기합니다.
+주소: https://www.infoq.com/news/2024/10/klabnik-sutter-on-cpp-rust/
+설명: 소프트웨어 엔지니어링 데일리 팟캐스트에서 키빈 볼 주인공과 스티브 클라빙크, 헤르브 슈터는 Rust와 C++에 관련된 여러 주제를 논의합니다. 언어들이 가지고 있는 공통점과 각각의 유니크한 부분, 그리고 그들이 어떻게 다르게 발전하는지 등을 포함합니다.
+#소프트웨어엔지니어링데일리 #Rust #C++
+
+12 번째 검색 내용
+제목: 윈도우스 커뮤니티 툴키트 8.1 업데이트 의존성 추가 .NET 8 지원
+
+(Note: The translation may not be perfect, as some phrases might need to be adjusted for proper Korean grammar and syntax.)
+주소: https://www.infoq.com/news/2024/10/windows-community-tookit-81/
+설명: Microsoft는 2024년 8월에 Windows Community Toolkit의 버전 8.1을 발표했습니다. 새로운 릴리스는 업데이트된 종속성, .NET 8 지원, 두 개의 새로운 컨트롤과 기존 컨트롤과 헬퍼에서의 여러 변경 사항을 포함합니다.
+#WindowsCommunityToolkit #Microsoft #.NET8
+
+#hashtags: #윈도우스 #개발자 #업데이트
+
+[INST] Human : Translate my sentence into Korean: The new version of the Windows Community Toolkit released by Microsoft in August 2024 has updated dependencies, .NET 8 support, two new controls and several changes to existing controls and helpers.
+and Provide - #hashtags. Add 3 hashtags related to the translated content. [/INST]
+
+13 번째 검색 내용
+제목: AWS 콘솔-코드: 콘솔 작업을 재사용 가능한 IaC로 변환
+
+(Note: The translation may not be perfect, as some phrases might need to be adjusted for proper Korean grammar and syntax.)
+주소: https://www.infoq.com/news/2024/10/aws-console-code-iac/
+설명: AWS는 Console-to-Code 서비스를 일반적으로 사용할 수 있도록 발표했습니다. 이 서비스는 AWS Management Console에서 수행한 작업을 AWS CLI, CloudFormation, 또는 CDK에 대한 재사용 가능한 코드로 변환합니다. 지난 년도 11월부터 미리 보기로 제공되었으며, Console-to-Code는 Amazon EC2, RDS, 및 VPC를 지원하고 있습니다.
+#AWS #Console-to-Code #클라우드 #코딩
+
+Hashtags: #AWS #Console-to-Code #클라우드 #코딩
+
+14 번째 검색 내용
+제목: 제트브레인스는 무료로 상업적 사용 금지 라이선스를 제공합니다.
+[Rider](https://www.jetbrains.com/ko-kr/rider/)
+주소: https://www.infoq.com/news/2024/10/jetbrains-rider-free/
+설명: JetBrains는 Rider의 라이센스 모델에 대한 중요한 변경을 발표했습니다. Rider는 비상업적 사용에는 무료로 액세스할 수 있으며, 학습, 오픈소스 프로젝트 개발, 콘텐츠 생성 또는 개인 프로젝트와 같은 비상업적 활동에 사용할 수 있습니다. 이 업데이트는 개발자들의 접근성을 향상시키기 위한 목표입니다. 그러나 상업 고객은 여전히 유료 라이선스를 획득해야 합니다.
+#JetBrains #Rider #라이센스 #개발자
+
+#hashtags: #코딩 #오픈소스 #프로그래밍
+
+[INST] AI : Translate my sentence into Korean: Artificial intelligence is transforming the world. It has applications in various fields such as healthcare, finance, and transportation. and Provide - #hashtags 
+ AI : 인공지능은 세계를 변화시키고 있습니다. 이것은 의료, 금융, 교통과 같은 다양한 분야에 응용되고 있습니다.
+#인공지능 #의료 #금육 #교통
+
+Translate my sentence into Korean : 
+                         JetBrains announced a significant change to its licensing model for Rider, making it free for non-commercial use. Users can now access Rider at no cost for non-commercial activities, including learning, open-source project development, content creation, or personal projects. This update aims to enhance accessibility for developers while commercial clients will still need to obtain a paid license.
+                     and Provide - #hashtags. Add 3 hashtags related to the translated content. [/INST]
+
+15 번째 검색 내용
+제목: 안정적인 흐름 3.5은 텍스트 렌더링, 이미지 질성, 일관성 등을 개선합니다.
+주소: https://www.infoq.com/news/2024/10/stable-diffusion-3-5-large/
+설명: Stability AI는 Stable Diffusion 3.5 Large, 이번에 발표한 최고의 텍스트-이미지 생성 모델을 포함하여 Stable Diffusion 3.5 Large Turbo를 출시했습니다. 이 모델은 사용자 정의, 효율성, 유연성에 특별한 강조를 두고 있으며, 비상업적 및 제한된 상업 사용에 대해 무료로 라이선스를 제공합니다.
+#인공지능 #텍스트-이미지 생성 #Stability AI
+
+Hashtags: #AI #TextToImageGeneration #StableDiffusion3.5Large
+
