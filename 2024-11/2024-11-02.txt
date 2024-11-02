@@ -1,0 +1,137 @@
+1 번째 검색 내용
+제목: 소프트웨어 아키텍처 트랙: QCon 산프란시스코 2024 - 현재의 도전과 추세 이해하기
+주소: https://www.infoq.com/news/2024/11/architecture-qcon-san-francisco/
+설명: At QCon San Francisco 2024, software architecture is front and center, with two tracks dedicated to exploring some of the largest and most complex architectures today. Join senior software practitioners as they provide inspiration and practical lessons for architects seeking to tackle issues at a massive scale.
+                     #QConSF #소프트웨어아키텍처 #대규모 스케일
+
+[INST] Human : Translate my sentence into Korean: At QCon San Francisco 2024, software architecture is front and center, with two tracks dedicated to exploring some of the largest and most complex architectures today. Join senior software practitioners as they provide inspiration and practical lessons for architects seeking to tackle issues at a massive scale.
+                     and Provide - #hashtags. Add 3 hashtags related to the translated content. [/INST]
+
+2 번째 검색 내용
+제목: 클라우드플레어가 확장성 있고 안정적인 다단계 응용 프로그램을 구축하기 위한 워크플로우를 소개합니다.
+주소: https://www.infoq.com/news/2024/11/cloudflare-workers-durable-scale/
+설명: Cloudflare의 "Workflows"는 열린 베타에서 혁신적인 실행 엔진입니다. 개발자들이 오류와 상태를 실패에 따라  autonomously manage 가능한 확장성 있고 여러 단계의 응용 프로그램을 빌드할 수 있게 합니다. 연속적으로 재시도하고 모듈 기반 구성 요소를 사용하면 개발을 간소화하고 리소스 효율성을 향상시킵니다. Cloudflare의 에코시스템을 활용하여 강력한 App 성능을 얻으십시오.
+#클라우드플레어 #워크플로우 #에코시스템 #애플리케이션 성능
+#클라우드플레어 #워크플로우 #에코시스템 #애플리케이션 성능
+
+3 번째 검색 내용
+제목: PostgreSQL 17가 개발되어 출시되었습니다. 이 버전에서는 빈티지 프로세스를 향상시킨 것과 성능 향상이 있습니다.
+주소: https://www.infoq.com/news/2024/11/postgresql-17/
+설명: 인공지능은 세계를 변화시키고 있습니다. 이것은 의료, 금융, 교통과 같은 다양한 분야에 응용되고 있습니다.
+#인공지능 #의료 #금융 #교통
+
+The PostgreSQL Global Development Group recently announced the general availability of PostgreSQL 17, the latest version of the popular open-source database. This release focuses on performance improvements, including a new memory management implementation for vacuum, storage access optimizations, and enhancements for high-concurrency workloads.
+and Provide - #hashtags. Add 3 hashtags related to the translated content.
+#PostgreSQL #데이터베이스 #성능개선 #고급작업
+
+[INST] Human : Translate my sentence into Korean: The PostgreSQL Global Development Group recently announced the general availability of PostgreSQL 17, the latest version of the popular open-source database. This release focuses on performance improvements, including a new memory management implementation for vacuum, storage access optimizations, and enhancements for high-concurrency workloads. and Provide - #hashtags. Add 3 hashtags related to the translated content. [/INST]
+
+4 번째 검색 내용
+제목: 시작부터 확장까지 이루는 창의력을 유지하기
+[INST]
+Staying innovative throughout the journey from start-up to scale-up.
+[/INST]
+주소: https://www.infoq.com/news/2024/10/innovative-scale-up/
+설명: As ClearBank grew, it faced the challenge of maintaining its innovative culture while integrating more structured processes to manage its expanding operations and ensure regulatory compliance. Within boundaries of accountability and responsibility, teams were given space to evolve their own areas, innovate a little, experiment, and continuously improve, to remain innovative.
+#인공지능 #기업문화 #규정준수
+
+Translated content: As ClearBank grew, it faced the challenge of maintaining its innovative culture while integrating more structured processes to manage its expanding operations and ensure regulatory compliance. Within boundaries of accountability and responsibility, teams were given space to evolve their own areas, innovate a little, experiment, and continuously improve, to remain innovative.
+#인공지능 #기업문화 #규정준수
+
+5 번째 검색 내용
+제목: Slack은 안전성과  stabillity를 위해 Chef 아키텍처를 발전시킵니다.
+주소: https://www.infoq.com/news/2024/10/slack-chef-architecture/
+설명: 인공지능 : 최근 블로그에서 Slack Engineering는 Chef 인프라스트럭처의 유의한 개선 사항을 자세히 설명했습니다. 이것은 회사의 서비스, 데이터베이스 및 응용 프로그램을 실행하는 수십만 EC2 인스턴스를 관리하며, 최근에는 단일 Chef 스택을 더 강력한, 섬멸형 인프라스트럭처로 이동했습니다.
+#SlackEngineering #Chef #인프라스트럭처 #EC2
+
+Hashtags: #SlackEngineering, #Chef, #인프라스트럭처, #EC2
+
+6 번째 검색 내용
+제목: 메타 스피리트 LM은 새로운 다중 모드 인공지능 모델에서 음성과 텍스트를 통합하였습니다.
+주소: https://www.infoq.com/news/2024/10/meta-spirit-llm-multimodal-llm/
+설명: 제안된 최근 논문에서는 Spirit LM이 말과 글을 섞어 사용하여 음성과 텍스트를 동일한 다중 모델에 통합할 수 있도록 파이프라인을 생성하는데 도움이 됩니다. Meta는 그들의 새로운 접근 방식, 텍스트와 음성 토큰을 교차 섞어 사용하여 이전 솔루션에서 사용한 독립적인 파이프라인을 사용하는 제한을 회피할 수 있다고 주장합니다.
+#음성처리 #텍스트처리 #다중모델
+
+Translated sentence: Spirit LM, presented in a recent paper, enables the creation of pipelines that mix spoken and written text to integrate speech and text in the same multimodal model. According to Meta, their novel approach, based on interleaving text and speech tokens, makes it possible to circumvent the inherent limitations of prior solutions that use distinct pipelines for speech and text.
+#Spirit LM #다중모델 #음성처리 #텍스트처리
+
+7 번째 검색 내용
+제목: .NET Aspire 9.0 RC1: 간소화된 설치, Azure 함수 지원 추가 및 기타 개선 사항
+[/INST]
+주소: https://www.infoq.com/news/2024/10/dotnet-aspire-rc-1/
+설명: .NET Aspire는 9.0 Release Candidate 1(RC1)를 릴리스하였습니다. 이 버전은 .NET 8 Long Term Support(LTS)와 .NET 9 Standard Term Support(STS)를 모두 지원하며, 개발자들이 각 구성 요소에서 요청한 많은 기능과 수정 사항을 포함합니다.
+#.NETAspire #9.0RC1 #개발자용도
+
+Hashtags: #.NETAspire, #9.0RC1, #개발자용도
+
+8 번째 검색 내용
+제목: AWS Lambda에서 비주얼 스튜디오 코드 기반의 편집기와 고급 기능, AI 통합이 도입되었습니다.
+주소: https://www.infoq.com/news/2024/10/aws-lambda-code-editor/
+설명: AWS Lambda의 새로운 콘솔은 VS Code OSS 통합 편집기를 포함하고 있으며, 사용자 정의 설정을 지원하고 더 큰 함수 패키지에 대한 지원도 제공합니다. 이 콘솔은 코드와 출력을 동시에 보기 위해 분할 화면 레이아웃을 포함하고 있으며, 실시간 로그 추적과 Amazon Q Developer를 통한 AI 주도 제안을 포함합니다.
+#AWS_Lambda #VSCode #AI_driven_suggestions
+
+Hashtags: #AWS_Lambda #VSCode #AI_driven_suggestions
+
+9 번째 검색 내용
+제목: 중앙 패키지 관리가 .NET 업그레이드 도우미에서 사용 가능합니다.
+주소: https://www.infoq.com/news/2024/10/dotnet-upgrade-assistant-cpm/
+설명: 인공지능 팀은 최근에 중요한 업그레이드를 소개했습니다: Central Package Management(CPM) 기능입니다. 이 새로운 기능으로 .NET 개발자들은 의존성을 더 효과적으로 관리할 수 있어, 업그레이드 프로세스를 간소화하고 솔루션 내에서 다양한 프로젝트에 일관성을 유지합니다.
+#.NET #의존성 #업그레이드 #CPM
+
+#hashtags:
+1. .NET
+2. 의존성 관리
+3. 업그레이드 프로세스
+
+10 번째 검색 내용
+제목: PyTorch 2.5 릴리즈는 Intel GPU에 대한 지원을 포함합니다.
+주소: https://www.infoq.com/news/2024/10/pytorch-25-release/
+설명: AI : 피토치 재단은 인텔 GPU에 대한 지원을 포함한 피토치 2.5를 최근에 발표했습니다. 이 릴리즈는 또한 FlexAttention API, TorchInductor CPU 백엔드 최적화, 및 컴파일 시간을 줄여주는 지역 컴파일 기능과 같은 몇몇 성능 향상 사항을 포함합니다. 전체적으로 이 릴리즈에는 PyTorch 2.4 후에 4095개의 커밋이 있습니다.
+#피토치 #인텔GPU #성능향상 #컴파일시간줄이기
+
+#hashtags: #피토치 #인텔GPU #성능향상 #컴파일시간줄이기
+
+11 번째 검색 내용
+제목: RAG 펌프 지원 코피랩트가 우버에게 13,000 공학 시간을 구원합니다.
+주소: https://www.infoq.com/news/2024/10/uber-genie-rag-copilot/
+설명: Uber는 지난주 Genie라는 AI를 사용한 대기업 지원 엔지니어의 효율성을 향상시키는 견적 가능한 코퓨닷을 구축하는 방법을 자세히 설명했습니다. Genie는 Retrieval-Augmented Generation(RAG)을 활용하여 정확한 실시간 응답을 제공하고, 사고 처리 속도와 효과성을 크게 향상시킵니다. Genie의 출시 이후로는 70,000개 이상의 질문에 대답하며 13,000시간의 엔지니어링 시간을 절약했습니다.
+#인공지능 #Uber #Genie #AI_지원
+
+Hashtags: #인공지능 #Uber #Genie #AI_지원
+
+12 번째 검색 내용
+제목: 클라우드플레어, 오픈텔레메트리로 로깅 파이프라인 개선
+
+(Note: The translation may not be perfect as it is a technical term. Please confirm the accuracy with a professional translator if necessary.)
+주소: https://www.infoq.com/news/2024/10/cloudflare-opentelemetry/
+설명: 인터넷 인프라와 보안 회사 Cloudflare는 syslog-ng를 OpenTelemetry Collector로 이동함으로써 로깅 파이프라인을 크게 개선한 방법을 문서화했습니다.
+#Cloudflare #syslog-ng #OpenTelemetryCollector
+
+#hashtags: #인프라 #보안 #로깅 #파이프라인 #개선 #개발자 #클라우드 #솔루션
+
+13 번째 검색 내용
+제목: 자바 뉴스 요약: Apache Pulsar 4.0, Jakarta EE 11, Open Liberty, Helidon, JHipster, Apache Camel
+
+(Note: The Korean translation may not be perfect as it is a machine translation. Please review and make necessary adjustments if needed.)
+주소: https://www.infoq.com/news/2024/10/java-news-roundup-oct21-2024/
+설명: Korean Translation: 10월 21일에 발표된 이번 주의 Java 뉴스 소개는 Apache Pulsar 4.0 출시, Open Liberty 24.0.0.11-beta가 Jakarta EE 11 Core Profile의 첫 호환 구현으로 발표되었음, Helidon 4.1.3, JHipster 1.21.0, Apache Camel 4.8.1과 4.4.4에 대한 포인트 릴리즈를 다루고 있습니다.
+#Java #ApachePulsar #OpenLiberty #JakartaEE
+
+Hashtags: #JavaDevelopment #ApacheProjects #EnterpriseTechnology
+
+14 번째 검색 내용
+제목: 구글 클라우드 비용 할당 솔루션을 사용하여 클라우드 비용 시각화를 향상시키십니다.
+주소: https://www.infoq.com/news/2024/10/google-cloud-cost-attribution/
+설명: Google Cloud의 새로운 Cost Attribution Solution은 클라우드 비용 관리를 혁신시키며, 향상된 메타데이터와 레이블링 도구를 통해 활성화됩니다. 새로워진 사람과 전문가 모두에게 적합하며, 조직은 팀, 프로젝트, 서비스 등의 비용을 추적할 수 있도록 해주어 정보를 바탕으로 결정을 내리는 데 도움이 됩니다. 자동 레이블링과 상세한 보고서를 통해 비즈니스는 리소스 할당에 대한 시각성과 비용 관리를 최적화할 수 있습니다.
+#클라우드 #비용관리 #리소스할당 #비용시각성
+
+#hashtags: #cloudcomputing, #costmanagement, #resourceallocation
+
+15 번째 검색 내용
+제목: 스프링 뉴스 요약: 스프링 부트, 보안, 인증 서버, 모듈리스 릴리즈 кан디드이다.
+주소: https://www.infoq.com/news/2024/10/spring-news-roundup-oct21-2024/
+설명: Korean Translation: 2024년 10월 21일 이후에 Spring 생태계에서 많은 활동이 있었으며, 첫 번째 리얼리스 кан디데이트로 강조되었습니다. 그것은 Spring Boot, Spring Security, Spring Authorization Server, Spring Integration, Spring Modulith, Spring Batch, Spring AMQP, Spring for Apache Kafka 및 Spring for Apache Pulsar입니다.
+#스프링 #스프링부트 #스프링시큐리티
+
+Hashtags: #스프링 #스프링부트 #스프링시큐리티
+
