@@ -1,0 +1,145 @@
+1 번째 검색 내용
+제목: 자바는 JEP 491로 핀닉을 해결하기 위해 발전합니다.
+주소: https://www.infoq.com/news/2024/11/java-evolves-tackle-pinning/
+설명: JEP 491, "Synchronize Virtual Threads without Pinning," is now Proposed to Target for JDK 24. This initiative aims to resolve Java's "pinning" issue, a limitation of the synchronized keyword, which restricts scalability with virtual threads.  JEP 491 eliminates this constraint, unlocking high-performance concurrency without extensive refactoring.
+#JDK24 #virtualThreads #highPerformanceConcurrency
+
+Translate my sentence into Korean:
+                         JEP 491, "가상 스레드를 핀ning하지 않고 동기화,"는 이제 JDK 24의 대상으로 제안되었습니다. 이 초기iative는 Java의 "핀ning" 문제를 해결하려고 합니다. 이것은 synchronized 키워드의 한계로, 가상 스레드와 함께 확장성을 제한합니다. JEP 491은 이 제약 조건을 제거하여, 많은 수정 없이 고성능의 동시성을 얻을 수 있습니다.
+#JDK24 #가상스레드 #고성능동시성
+
+2 번째 검색 내용
+제목: Apache Tomcat 11.0은 가상 스레드 지원과 Jakarta EE 11에 대한 지원을 제공합니다.
+주소: https://www.infoq.com/news/2024/11/tomcat-11/
+설명: Apache Tomcat 11은 웹 서버 기술의 중요한 발전입니다. Jakarta EE 11을 지원하고 Project Loom을 통해 가상 스레드를 활용하여 효율적인 동시성 처리를 지원합니다. 향상된 WebSocket 성능, 개선된 비동기 처리, 강력한 보안 조치로 현대적인 애플리케이션에 적합합니다. 전환은 네임스페이스 조정이 필요하지만, 순조롭게 마이그레이션을 위한 도구를 제공합니다.
+#ApacheTomcat11 #웹서버기술 #동시성처리 #보안
+
+#hashtags: #웹서버 #JakartaEE #프로젝트루믹
+
+3 번째 검색 내용
+제목: 마이크로소프트는 .NET용 벡터 데이터 추상화 라이브러리 소개
+
+(Microsoft introduces the Vector Data Abstractions Library for .NET)
+주소: https://www.infoq.com/news/2024/11/ms-vector-store-abstraction/
+설명: On October 29th 2024, Microsoft released Microsoft.Extensions.VectorData.Abstractions library for .NET in preview. It makes it easier to integrate .NET solutions with the AI Semantic Kernel SDK, using abstractions over concrete AI implementations and models.
+                     #인공지능 #Microsoft #CSharp
+
+Translated sentence: 
+On October 29th 2024, Microsoft released Microsoft.Extensions.VectorData.Abstractions library for .NET in preview. It makes it easier to integrate .NET solutions with the AI Semantic Kernel SDK, using abstractions over concrete AI implementations and models.
+                     #인공지능 #Microsoft #CSharp
+
+Hashtags: 
+#인공지능 #Microsoft #CSharp
+
+4 번째 검색 내용
+제목: 메타 AI는 인공지능 모델이 응답하기 전에 생각을 하도록 사고 선호도 최적화를 통해 인공지능 모델을 소개합니다.
+주소: https://www.infoq.com/news/2024/11/meta-ai-tpo/
+설명: AI : Meta FAIR의 연구원, 캘리포니아 베르키리 대학교, 뉴욕 유니버시티에서는 LLM의 인스트럭션 튜닝을 개선하기 위해 새로운 방법인 Thought Preference Optimization(TPO)를 소개했습니다.
+#MetaFAIR #LLM #인스트럭션튜닝
+
+Hashtags:
+1. #MetaFAIR : Meta FAIR은 인공지능 연구에 대한 노력을 통해 인공지능 기술의 발전을 도모하고 있는 주요 연구 단체입니다.
+2. #LLM : LLM(Language Model)은 자연어 처리에서 가장 널리 사용되는 인공지능 기술 중 하나로, 텍스트의 생성과 분류, 번역 등의 작업을 수행합니다.
+3. #인스트럭션튜닝 : LLM의 인스트럭션 튜닝은 이미 학습된 LLM 모델에 새로운 작업을 배우도록 도와주는 기술입니다.
+
+5 번째 검색 내용
+제목: 자바 뉴스 요약: Jakarta EE 11, GlassFish 8.0-M8, JReleaser 1.15, JHipster 8.7.3, Quarkus 3.16
+주소: https://www.infoq.com/news/2024/11/java-news-roundup-oct28-2024/
+설명: Java 주요 뉴스 요약: 2024년 10월 28일 이번 주의 Java 주요 뉴스는 다음과 같습니다. Jakarta EE의 업데이트가 다가오는 릴리즈에 대한 소식; GlassFish 8.0의 8번째 amilestone 릴리즈; JReleaser 1.15.0, JHipster 8.7.3과 Quarkus 3.16.0의 포인트 릴리즈입니다.
+#Java #JakartaEE #GlassFish #JReleaser #JHipster #Quarkus
+
+6 번째 검색 내용
+제목: 오픈JDK 뉴스 요약: 컴팩트 객체 헤더, 동기화 가상 스레드, 보안 관리자 비활성화
+주소: https://www.infoq.com/news/2024/11/jdk-news-roundup-oct28-2024/
+설명: OpenJDK 생태계에서 활발한 활동이 있었습니다: 네 개의 JEP가 각각의 검토를 성공적으로 완료하여 JDK 24에 대상으로 설정되었으며, JDK 24에 대상으로 설정될 새로운 5개의 JEP이 11월 4일 주에 검토 중입니다.
+#OpenJDK #JEP #Java #소프트웨어_개발
+
+7 번째 검색 내용
+제목: 클라우드플레어가 사용자에게 SSH 인증서를 제공하지 않고도 SSH 액세스를 제공하는 새로운 기능을 소개합니다.
+[INST] Cloudflare Introduces Short-Lived SSH Access, Eliminating the Need for SSH Credentials [/INST]
+주소: https://www.infoq.com/news/2024/11/cloudflare-ssh/
+설명: Cloudflare는 최근 Access for Infrastructure SSH를 발표했습니다. 이것은 전통적인 SSH 키를 짧은 기간 인증서로 대체하는 기능입니다. 새로운 옵션은 Cloudflare One에 통합된 BastionZero의 기능을 활용하여 SSH 키 관리의 복잡성을 줄이고, 장기적인 SSH 키를 일시적, 임시적인 인증서로 대체함으로써 보안을 향상시킵니다.
+#Cloudflare #Access #SSH #보안
+
+#hashtags: #클라우드플레어, #접근, #인프라구성 #SSH, #보안강화
+
+8 번째 검색 내용
+제목: 소프트웨어 아키텍처 트랙: QCon 산프란시스코 2024 - 현재 문제와 동향 이해하기
+
+(Note: The Korean translation may not be perfect as it involves understanding the context and meaning of the original English sentence. Please review the translation for accuracy.)
+주소: https://www.infoq.com/news/2024/11/architecture-qcon-san-francisco/
+설명: At QCon San Francisco 2024, software architecture is front and center, with two tracks dedicated to exploring some of the largest and most complex architectures today. Join senior software practitioners as they provide inspiration and practical lessons for architects seeking to tackle issues at a massive scale.
+                     #QConSF #소프트웨어아키텍처 #대규모 스케일
+
+[INST] Human : Translate my sentence into Korean: At QCon San Francisco 2024, software architecture is front and center, with two tracks dedicated to exploring some of the largest and most complex architectures today. Join senior software practitioners as they provide inspiration and practical lessons for architects seeking to tackle issues at a massive scale.
+                     and Provide - #hashtags. Add 3 hashtags related to the translated content. [/INST]
+
+9 번째 검색 내용
+제목: 클라우드플레어가 확장성 있고 안정적인 다단계 응용 프로그램을 구축하기 위한 워크플로우를 소개합니다.
+주소: https://www.infoq.com/news/2024/11/cloudflare-workers-durable-scale/
+설명: Cloudflare의 "Workflows"는 열린 베타에서 혁신적인 실행 엔진입니다. 개발자들이 오류와 상태를 실패에 따라  autonomously manage 가능하게 하고, 확장성있는, 여러 단계의 애플리케이션을 구축할 수 있도록 합니다. 끊임없이 재시도하고 모듈형 컴포넌트를 사용함으로써, 개발과 리소스 효율성을 간소화합니다. Cloudflare의 에코시스템을 활용하여 강력한 App 성능을 얻습니다.
+#클라우드플레어 #워크플로우 #애플리케이션개발 #리소스효율화
+
+Translated content:
+Cloudflare's "Workflows" is a revolutionary execution engine in open beta, enabling developers to build scalable, multi-step applications that autonomously manage errors and state across failures. With seamless retries and modular components, it streamlines development and enhances resource efficiency. Harness the power of Cloudflare's ecosystem for robust app performance.
+#클라우드플레어 #워크플로우 #애플리케이션개발 #리소스효율화
+
+Hashtags:
+1. #클라우드플레어 (Cloudflare)
+2. #워크플로우 (Workflows)
+3. #애플리케이션개발 (Application Development)
+4. #리소스효율화 (Resource Efficiency)
+
+10 번째 검색 내용
+제목: PostgreSQL 17가 개발되어 출시되었습니다. 이 버전에서는 비케이크 프로세스를 향상시킨 것으로, 성능 향상이 기대됩니다.
+주소: https://www.infoq.com/news/2024/11/postgresql-17/
+설명: AI : PostgreSQL 글로벌 개발 그룹은 최근에 PostgreSQL 17, 인기 있는 오픈 소스 데이터베이스의 최신 버전을 일반적으로 사용할 수 있게 공지했습니다. 이 릴리즈는 성능 개선에 집중하고 있으며, vacuum에 대한 새로운 메모리 관리 구현, 스토리지 액세스 최적화, 고 동시성 작업을 위한 향상 사항이 포함되어 있습니다.
+#PostgreSQL #데이터베이스 #성능개선 #고동시성
+
+Hashtags: #PostgreSQL, #데이터베이스, #성능개선, #고동시성
+
+11 번째 검색 내용
+제목: 시작부터 확장까지 이루는 창의력을 유지하기
+[INST]
+Staying innovative throughout the journey from start-up to scale-up.
+[/INST]
+주소: https://www.infoq.com/news/2024/10/innovative-scale-up/
+설명: As ClearBank grew, it faced the challenge of maintaining its innovative culture while integrating more structured processes to manage its expanding operations and ensure regulatory compliance. Within boundaries of accountability and responsibility, teams were given space to evolve their own areas, innovate a little, experiment, and continuously improve, to remain innovative.
+#인공지능 #기업문화 #규정준수
+
+Translated content: As ClearBank grew, it faced the challenge of maintaining its innovative culture while integrating more structured processes to manage its expanding operations and ensure regulatory compliance. Within boundaries of accountability and responsibility, teams were given space to evolve their own areas, innovate a little, experiment, and continuously improve, to remain innovative.
+#인공지능 #기업문화 #규정준수
+
+12 번째 검색 내용
+제목: 메타 스피리트 LM은 새로운 다중 모드 인공지능 모델에서 음성과 텍스트를 통합합니다.
+주소: https://www.infoq.com/news/2024/10/meta-spirit-llm-multimodal-llm/
+설명: 인공지능 연구소에서 최근에 발표된 Spirit LM은 말과 글을 섞어 사용하여 음성과 텍스트를 동시에 다중 모델에 통합할 수 있는 파이프라인을 만들어주는데 도움이 됩니다. Meta는 이 새로운 접근 방식, 텍스트와 음성 토큰을 번갈아가면서 사용하여 이전 솔루션의 상속적인 제한을 회피할 수 있다고 주장합니다.
+#인공지능 #SpiritLM #다중모델 #음성과텍스트통합
+
+Hashtags: #인공지능, #SpiritLM, #다중모델, #음성과텍스트통합
+
+13 번째 검색 내용
+제목: Slack은 안전성과  stabillity를 위해 Chef 아키텍처를 발전시킵니다.
+주소: https://www.infoq.com/news/2024/10/slack-chef-architecture/
+설명: 인공지능 : 최근 블로그에서 Slack Engineering는 Chef 인프라스트럭처의 유의미한 개선을 자세히 설명했습니다. 이것은 회사의 서비스, 데이터베이스 및 응용 프로그램을 실행하는 수십만 EC2 인스턴스를 관리하며, 최근에는 단일 Chef 스택에서 더 강력한, 샤딩된 인프라스트럭처로 이동했습니다.
+#Slack #Chef #인프라스트럭처 #EC2
+
+Hashtags: #Slack, #Chef, #인프라스트럭처, #EC2
+
+14 번째 검색 내용
+제목: .NET Aspire 9.0 RC1: 간소화된 설치, Azure 함수 지원 추가 및 기타 개선 사항
+[/INST]
+주소: https://www.infoq.com/news/2024/10/dotnet-aspire-rc-1/
+설명: .NET Aspire는 9.0 Release Candidate 1(RC1)를 릴리스하였습니다. 이 버전은 .NET 8 Long Term Support(LTS)와 .NET 9 Standard Term Support(STS)를 모두 지원하며, 개발자들이 각 구성 요소에서 요청한 많은 기능과 수정 사항을 포함합니다.
+#.NETAspire #9.0RC1 #개발자용도
+
+Hashtags: #.NETAspire, #9.0RC1, #개발자용도
+
+15 번째 검색 내용
+제목: AWS Lambda에서 비주얼 스튜디오 코드 기반의 편집기와 고급 기능과 AI 통합이 도입되었습니다.
+주소: https://www.infoq.com/news/2024/10/aws-lambda-code-editor/
+설명: AWS Lambda의 새로운 콘솔은 VS Code OSS 통합 편집기를 포함하고 있어, 사용자 정의 설정을 지원하며 더 큰 함수 패키지에 대한 지원도 제공합니다. 이 콘솔은 코드와 출력을 동시에 보기 위해 분할 화면 레이아웃을 포함하고 있으며, 실시간 로그 추적과 Amazon Q Developer를 통한 AI 주도 제안을 포함합니다.
+#AWS_Lambda #VSCode #AI_driven_suggestions
+
+Hashtags: #AWS_Lambda, #VSCode, #AI_driven_suggestions
+
