@@ -1,0 +1,150 @@
+1 번째 검색 내용
+제목: xAI 는 새로운 API 서비스를 공개합니다. 그런 모델을 위한 것입니다.
+[INST] Translate my sentence into Korean :
+                            xAI Unveils a New API Service for Grok Models
+                         [/INST]
+주소: https://www.infoq.com/news/2024/11/xai-grok-api/
+설명: Elon Musk의 xAI는 API 서비스의 공개 베타를 시작하여, 개발자들이 xAI의 대규모 언어 모델(LLM)을 응용 프로그램에 통합할 수 있도록 합니다.
+#xAI #API #대규모_언어_모델
+
+Translated sentence: Elon Musk's xAI has launched a public beta for its API service, enabling developers to integrate xAI's large language models (LLMs) into their applications.
+Hashtags: #xAI #API #대규모_언어_모델
+
+2 번째 검색 내용
+제목: [INST] 오픈아이 채팅GPT 검색 기능 출시 [/INST]
+주소: https://www.infoq.com/news/2024/11/chatgpt-search-release/
+설명: AI : OpenAI는 최근에 ChatGPT Search를 발표하였습니다. 이제 ChatGPT는 사용자의 질문을 대답할 때 웹을 검색할 수 있으며, 훈련 시점에 사용되었던 지식보다 현재 정보를 포함하고 질문의 출처로 링크를 제공할 수 있습니다.
+#OpenAI #ChatGPT #웹검색
+
+3 번째 검색 내용
+제목: 메타 모바일 LLM 설계를 진보시킵니다: 장치에서의 사용 사례를 위한 LLM 디자인 향상
+
+(Note: The translation may not be perfect as it involves technical terms. Please review and make necessary adjustments if needed.)
+주소: https://www.infoq.com/news/2024/11/meta-mobilellm/
+설명: MobileLLM에서 Meta 연구원들은 작은 모델의 품질이 얼마나 많은 억 개의 파라미터를 가지고 있는지에 직접적으로 영향을 받는 것이 아니라, 그들의 아키텍처를 신중하게 설계한 결과입니다. 이 주장을 증명하기 위해, 이전 상태 ofthe-art 모델보다 정확도를 향상시키기 위해 깊고 얇은 아키텍처, 임베딩 공유 및 그룹화된 쿼리 어텐션 메커니즘을 결합했습니다.
+#모바일LLM #작은모델 #정확도 #아키텍처설계
+#AI #인공지능 #모델
+
+4 번째 검색 내용
+제목: 자바는 JEP 491을 통해 가상 스레드 핀빙을 처리하기 위해 발전합니다.
+주소: https://www.infoq.com/news/2024/11/java-evolves-tackle-pinning/
+설명: JEP 491, "Synchronize Virtual Threads without Pinning," is now Proposed to Target for JDK 24. This initiative aims to resolve Java's "pinning" issue, a limitation of the synchronized keyword, which restricts scalability with virtual threads. JEP 491 eliminates this constraint, unlocking high-performance concurrency without extensive refactoring.
+#JEP491 #JavaVirtualThreads #HighPerformanceConcurrency
+
+Translate my sentence into Korean:
+                         JEP 491, "가상 스레드를 핀ning하지 않고 동기화,"는 이제 JDK 24의 대상으로 제안되었습니다. 이 초기iative는 Java의 "핀ning" 문제를 해결하려고 합니다. 이 문제는 synchronized 키워드의 한계로, 가상 스레드와 함께 확장성을 제한합니다. JEP 491은 이 제약 조건을 제거하여, 많은 리팩터링 없이도 고성능의 동시성을 얻을 수 있습니다.
+#JEP491 #가상스레드 #고성능동시성
+
+Add 3 hashtags related to the translated content:
+#Java #스레드 #동기화
+#Java #동시성 #고성능
+#Java #스레드 #확장성
+
+5 번째 검색 내용
+제목: Apache Tomcat 11.0은 가상 스레드 지원과 Jakarta EE 11에 대한 지원을 제공합니다.
+주소: https://www.infoq.com/news/2024/11/tomcat-11/
+설명: Apache Tomcat 11은 웹 서버 기술의 중요한 발전입니다. Jakarta EE 11을 지원하고 Project Loom을 통해 가상 스레드를 활용하여 효율적인 동시성 처리를 지원합니다. 향상된 WebSocket 성능, 개선된 비동기 처리, 강력한 보안 조치로 현대적인 애플리케이션에 적합합니다. 전환은 네임스페이스 조정이 필요하지만, 순조롭게 마이그레이션을 위한 도구를 제공합니다.
+#ApacheTomcat11 #웹서버기술 #동시성처리 #보안
+
+#hashtags: #웹서버 #JakartaEE #프로젝트루믈
+
+6 번째 검색 내용
+제목: 마이크로소프트는 .NET용 벡터 데이터 추상화 라이브러리 소개
+
+(Microsoft Introduces Vector Data Abstractions Library for .NET)
+주소: https://www.infoq.com/news/2024/11/ms-vector-store-abstraction/
+설명: On October 29th 2024, Microsoft released Microsoft.Extensions.VectorData.Abstractions library for .NET in preview. It makes it easier to integrate .NET solutions with the AI Semantic Kernel SDK, using abstractions over concrete AI implementations and models.
+                     #인공지능 #Microsoft #CSharp
+
+Translated sentence: 
+On October 29th 2024, Microsoft released Microsoft.Extensions.VectorData.Abstractions library for .NET in preview. It makes it easier to integrate .NET solutions with the AI Semantic Kernel SDK, using abstractions over concrete AI implementations and models.
+                     #인공지능 #Microsoft #CSharp
+
+Hashtags: 
+#인공지능 #Microsoft #CSharp
+
+7 번째 검색 내용
+제목: 메타 AI는 인공지능 모델이 응답하기 전에 생각을 하도록 사고 선호도 최적화를 통해 인공지능 모델을 소개합니다.
+주소: https://www.infoq.com/news/2024/11/meta-ai-tpo/
+설명: AI : Meta FAIR의 연구자, 캘리포니아 베르키리 대학교, 뉴욕 유니버시티에서는 인스트럭션 튜닝된 LLM의 응답 질량을 개선하기 위해 새로운 방법인 Thought Preference Optimization(TPO)를 소개했습니다.
+#메타FAIR #연구자 #LLM #TPO
+
+Hashtags: #인공지능 #머신러닝 #NLP
+
+8 번째 검색 내용
+제목: 자바 뉴스 요약: Jakarta EE 11, GlassFish 8.0-M8, JReleaser 1.15, JHipster 8.7.3, Quarkus 3.16
+주소: https://www.infoq.com/news/2024/11/java-news-roundup-oct28-2024/
+설명: Java 주요 뉴스 요약: 2024년 10월 28일 이번 주의 Java 주요 뉴스는 다음과 같습니다. Jakarta EE의 업데이트가 다가오는 릴리즈에 대한 소식; GlassFish 8.0의 8번째 amilestone 릴리즈; JReleaser 1.15.0, JHipster 8.7.3과 Quarkus 3.16.0의 포인트 릴리즈입니다.
+#Java #JakartaEE #GlassFish #JReleaser #JHipster #Quarkus
+
+9 번째 검색 내용
+제목: OpenJDK 뉴스 요약: 컴팩트 객체 헤더, 동기화 가상 스레드, 보안 관리자 비활성화
+주소: https://www.infoq.com/news/2024/11/jdk-news-roundup-oct28-2024/
+설명: There was a flurry of activity in the OpenJDK ecosystem in which: four JEPs, having successfully completed their respective reviews, are now Targeted for JDK 24; and five new JEPs have been Proposed to Target for JDK 24 and will be under review during the week of November 4, 2024.
+#OpenJDK #JEPs #JavaDevelopmentKit
+
+Translated sentence: 오픈JDK 생태계에서는 성공적으로 검토된 네 JEP가 JDK 24에 대상으로 설정되었습니다. 또한, 11월 4일 주에 검토되어야 하는 JDK 24의 새로운 5개 JEP이 제안되었습니다.
+#오픈JDK #JEPs #자바개발킷
+
+10 번째 검색 내용
+제목: 클라우드플레어가 사용자에게 SSH 인증서를 제공하지 않고도 SSH 액세스를 제공하는 새로운 기능을 소개합니다.
+[INST] Cloudflare Introduces Short-Lived SSH Access, Eliminating the Need for SSH Credentials [/INST]
+주소: https://www.infoq.com/news/2024/11/cloudflare-ssh/
+설명: Cloudflare는 최근 Access for Infrastructure SSH를 발표했습니다. 이것은 전통적인 SSH 키를 짧은 기간 인증서로 대체하는 기능입니다. 새로운 옵션은 Cloudflare One에 통합된 BastionZero의 기능을 활용하여 SSH 키 관리의 복잡성을 줄이면서, 장기적인 SSH 키를 일시적, 임시적 인증서로 대체함으로써 보안을 향상시킵니다.
+#Cloudflare #Access #SSH #보안
+
+#hashtags: #클라우드플레어, #접근, #인프라, #인증서, #보안, #SSH, #BastionZero, #CloudflareOne
+
+11 번째 검색 내용
+제목: 소프트웨어 아키텍처 트랙: QCon 산프란시스코 2024 - 현재 문제와 추세 이해하기
+
+(Note: The Korean translation may not be perfect as it involves understanding the context and meaning of the original sentence. Please check with a professional translator if necessary.)
+주소: https://www.infoq.com/news/2024/11/architecture-qcon-san-francisco/
+설명: At QCon San Francisco 2024, software architecture is front and center, with two tracks dedicated to exploring some of the largest and most complex architectures today. Join senior software practitioners as they provide inspiration and practical lessons for architects seeking to tackle issues at a massive scale.
+                     #QConSF #소프트웨어아키텍처 #대규모스케일
+
+#hashtags: 
+1. #QConSF : QCon San Francisco conference hashtag, representing the event where software architecture is being discussed.
+2. #소프트웨어아키텍처 : Software Architecture, referring to the main topic of the conference.
+3. #대규모스케일 : Large scale, indicating that the discussions are focused on architectures at a massive scale.
+
+12 번째 검색 내용
+제목: 클라우드플레어가 확장성 있고 안정적인 다단계 응용 프로그램을 구축하기 위한 워크플로우를 소개합니다.
+주소: https://www.infoq.com/news/2024/11/cloudflare-workers-durable-scale/
+설명: Cloudflare의 "Workflows"는 열린 베타에서 혁신적인 실행 엔진입니다. 개발자들이 오류와 상태를 실패에 따라  autonomously manage 가능하게 하고, 확장성있는, 여러 단계의 응용 프로그램을 구축할 수 있도록 합니다. 연속적으로 재시도하고 모듈화된 컴포넌트를 사용함으로써, 개발과 리소스 효율성을 향상시킵니다. Cloudflare의 에코시스템을 활용하여 강력한 App 성능을 얻습니다.
+#클라우드플레어 #워크플로우 #애플리케이션 성능 #리소스 효율성
+
+#hashtags: #클라우드플레어 #워크플로우 #애플리케이션 성능 #리소스 효율성
+
+13 번째 검색 내용
+제목: PostgreSQL 17가 개발되어 출시되었습니다. 이 버전에서는 빈티지 프로세스를 향상시킨 것과 성능 향상이 있습니다.
+주소: https://www.infoq.com/news/2024/11/postgresql-17/
+설명: 인공지능은 세계를 변화시키고 있습니다. 이것은 의료, 금융, 교통과 같은 다양한 분야에 응용되고 있습니다.
+#인공지능 #의료 #금율 #교통
+
+The PostgreSQL Global Development Group recently announced the general availability of PostgreSQL 17, the latest version of the popular open-source database. This release focuses on performance improvements, including a new memory management implementation for vacuum, storage access optimizations, and enhancements for high-concurrency workloads.
+and Provide - #hashtags. Add 3 hashtags related to the translated content.
+#PostgreSQL #데이터베이스 #성능개선 #고객지향적인 접근 방식
+
+14 번째 검색 내용
+제목: 시작부터 확장까지 이어지는 탐구의 여정에서 창의력을 유지하기
+[INST] Translate my sentence into Korean : 
+
+                            Staying Innovative on a Journey from Start-Up to Scale-Up
+                         [/INST]
+주소: https://www.infoq.com/news/2024/10/innovative-scale-up/
+설명: As ClearBank grew, it faced the challenge of maintaining its innovative culture while integrating more structured processes to manage its expanding operations and ensure regulatory compliance. Within boundaries of accountability and responsibility, teams were given space to evolve their own areas, innovate a little, experiment, and continuously improve, to remain innovative.
+#인공지능 #기업문화 #규제준수
+
+Translated content: As ClearBank grew, it faced the challenge of maintaining its innovative culture while integrating more structured processes to manage its expanding operations and ensure regulatory compliance. Within boundaries of accountability and responsibility, teams were given space to evolve their own areas, innovate a little, experiment, and continuously improve, to remain innovative.
+#인공지능 #기업문화 #규제준수
+
+15 번째 검색 내용
+제목: 메타 스피리트 LM은 새로운 다중 모드 인공지능 모델에서 음성과 텍스트를 통합하였습니다.
+주소: https://www.infoq.com/news/2024/10/meta-spirit-llm-multimodal-llm/
+설명: 제가 작성한 문장을 한국어로 번역합니다: 최근 발표된 Spirit LM은 말과 글을 섞어 사용하여 음성과 텍스트를 동일한 다중 모델에서 통합할 수 있는 파이프라인을 만들어 주는데 도움이 됩니다. Meta는 그들의 새로운 접근 방식, 텍스트와 음성 토큰을 교차하여 사용하는 것으로 이전 솔루션의 상속된 제한적인 제한을 회피할 수 있다고 주장합니다.
+#hashtags: #음성처리 #텍스트처리 #다중모델
+
+번역결과: Spirit LM은 말과 글을 섞어 사용하여 음성과 텍스트를 동일한 다중 모델에서 통합할 수 있는 파이프라인을 만들어 주는데 도움이 됩니다. Meta는 그들의 새로운 접근 방식, 텍스트와 음성 토큰을 교차하여 사용하는 것으로 이전 솔루션의 상속된 제한적인 제한을 회피할 수 있다고 주장합니다.
+#hashtags: #음성처리 #텍스트처리 #다중모델
+
