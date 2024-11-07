@@ -1,0 +1,124 @@
+1 번째 검색 내용
+제목: [INST] 핀터스트에서 Goku Time-Series Database의 효율성 개선 [/INST]
+주소: https://www.infoq.com/news/2024/11/time-series-db-pinterest/
+설명: AI : Pinterest는 시리즈 데이터베이스인 Goku를 현대화하고 향상시킵니다. 최근 업데이트는 서비스 품질을 저하시키지 않으면서 저장과 리소스 사용을 최적화합니다.
+#Pinterest #Goku #데이터베이스 #업데이트
+
+Translated sentence: Pinterest has modernized and enhanced its Goku time-series database. The recent updates focus on optimizing storage and resource usage without compromising service quality.
+Hashtags: #Pinterest #Goku #데이터베이스 #업데이트
+
+2 번째 검색 내용
+제목: Uno Platform 5.5 데스크탑 앱 패키지 간소화
+
+(Note: The translation may not be perfect as it is a direct translation without considering the context or grammar rules of the Korean language.)
+주소: https://www.infoq.com/news/2024/11/uno-55-packaging/
+설명: AI : 언오 플랫폼은 최신 업데이트, 버전 5.5를 발표했습니다. 새로운 기능, 버그 수정 및 성능 개선 사항이 포함되어 있습니다. 새로운 릴리스는 크로스 플랫폼 데스크톱 응용 프로그램의 패키지와 배포를 간소화하고 빠르게 만들기 위해 목표합니다.
+#언오플랩폼 #크로스플랫폼 #데스크톱응용프로그램 #패키지와배포
+
+#hashtags: #언오플랩폼 #크로스플랫폼 #데스크톱응용프로그램 #패키지와배포
+
+3 번째 검색 내용
+제목: 엑스피디아가 무상 서비스 중지 없이 대규모 Cassandra 클러스터를 ScyllaDB로 마이그레이션
+
+(Note: The translation may not be perfect as it is a direct translation from English to Korean. The sentence structure and grammar might need adjustments for natural Korean language flow.)
+주소: https://www.infoq.com/news/2024/11/migration-cassandra-scylladb/
+설명: Expedia Group, 전세계적인 여행 기술 회사로서 데이터 처리량이 70TB를 넘는다. Expedia Group은 ScyllaDB로 Cassandra 클러스터의 50개 이상의 테이블과 수천 개의 연결을 마이그레이션하는 과정을 공개했습니다. 이 마이그레이션의 주요 동기는 ScyllaDB의 내장된 Change Data Capture(CDC) 기능을 활용하여 데이터 일관성을 향상시키고 운영 복잡성을 줄이는 것입니다.
+#ExpediaGroup #ScyllaDB #ChangeDataCapture #데이터일관성 #운영복잡성
+
+#hashtags: #ExpediaGroup, #ScyllaDB, #ChangeDataCapture
+
+4 번째 검색 내용
+제목: 마이크로소프트가 .NET용 현대적인 웹 앱 패턴 소개: 클라우드로의 앱 모던화 속도 증진
+
+(Microsoft Introduces Modern Web App Pattern for .NET: Accelerating App
+주소: https://www.infoq.com/news/2024/11/modern-web-app-dotnet/
+설명: Microsoft는 .NET의 Modern Web App(MWA) 패턴을 소개하였습니다. 이것은 Enterprise App Patterns(EAP) 초기iative의 일부로, 클라우드로의 애플리케이션 모던화를 가속화하는 데 목적을 두고 있습니다.
+#Microsoft #ModernWebApp #EnterpriseAppPatterns #CloudComputing
+
+5 번째 검색 내용
+제목: 앤젬로스 사지메이커 잡스트라이트가 브리아 AI의 텍스트를 이미지로 변환 모델을 포트폴리오에 확장합니다.
+주소: https://www.infoq.com/news/2024/11/bria-ai-aws-sagemaker-jumpstart/
+설명: Amazon Web Services는 Amazon SageMaker JumpStart에 Bria AI의 최신 텍스트-이미지 기반 모델을 통합했습니다. 이 추가는 기업용 생성형 AI 능력의 중요한 확장입니다. 이 추가에는 각각 특정 기업 필요에 대응하도록 설계된 세 가지 변종 - Bria 2.3, Bria 2.2 HD, 및 Bria 2.3 Fast가 포함되어 있습니다.
+#AWS #BriaAI #기업용AI #이미지생성
+
+Hashtags: #AWS, #BriaAI, #기업용AI, #이미지생성
+
+6 번째 검색 내용
+제목: GitHub와 Google Cloud가 Gemini 1.5 Pro를 GitHub Copilot에 협력하여 제공합니다.
+주소: https://www.infoq.com/news/2024/11/gemini-github-copilot/
+설명: AI : GitHub와 Google Cloud의 파트너십으로 GitHub Copilot에 Gemini 1.5 Pro가 도입되어, AI가 20억 토큰을 처리하여 개발을 혁신시키고 있습니다. 이 원천적으로 다중 모드 도구는 코드 생성, 분석, 최적화와 같은 영역에서 우수하며, Visual Studio Code와 같은 플랫폼의 거대한 코드 베이스를 손쉽게 관리할 수 있도록 개발자들을 강화시키고 있습니다.
+#인공지능 #GitHubCopilot #코드생성 #코드분석 #최적화
+
+#hashtags: #AI #GitHubCopilot #CodeGeneration #CodeAnalysis #Optimization
+
+7 번째 검색 내용
+제목: xAI 는 그로크 모델에 대한 새로운 API 서비스를 공개합니다.
+주소: https://www.infoq.com/news/2024/11/xai-grok-api/
+설명: Elon Musk의 xAI는 API 서비스의 공개 베타를 시작하여, 개발자들이 xAI의 대규모 언어 모델(LLM)을 응용 프로그램에 통합할 수 있도록 합니다.
+#xAI #API #대규모_언어_모델
+
+Translated sentence: Elon Musk's xAI has launched a public beta for its API service, enabling developers to integrate xAI's large language models (LLMs) into their applications.
+Hashtags: #xAI #API #대규모_언어_모델
+
+8 번째 검색 내용
+제목: [INST] 오픈아이 채팅GPT 검색 기능 출시 [/INST]
+주소: https://www.infoq.com/news/2024/11/chatgpt-search-release/
+설명: AI : OpenAI는 최근에 ChatGPT Search를 발표하였습니다. 이제 ChatGPT는 사용자의 질문을 답변할 때 웹을 검색할 수 있으며, 훈련 시점에 사용할 수 있는 지식보다 현재 웹에서 가져올 수 있습니다. 또한 소스의 링크를 포함하여 답변을 제공할 수 있습니다.
+#OpenAI #ChatGPT #웹검색
+
+9 번째 검색 내용
+제목: 메타 모바일 LLM 설계를 진보시킵니다: 장치에서의 사용 사례에 적합한 방식으로
+[INST] Meta MobileLLM Advances LLM Design for On-Device Use Cases [/INST]
+주소: https://www.infoq.com/news/2024/11/meta-mobilellm/
+설명: With MobileLLM, Meta researchers aim to show that, for smaller models, quality is not a direct product of how many billions parameters they have; rather, it is the result of carefully designing their architecture. To prove their point, they coupled deep and thin architectures with embedding sharing and grouped-query attention mechanisms to improve accuracy over prior state-of-the-art models.
+#모바일LLM #메타연구원 #작은모델 #정확도향상
+
+Translated content: With MobileLLM, Meta researchers aim to show that, for smaller models, quality is not a direct product of how many billions parameters they have; rather, it is the result of carefully designing their architecture. To prove their point, they coupled deep and thin architectures with embedding sharing and grouped-query attention mechanisms to improve accuracy over prior state-of-the-art models.
+#모바일LLM #메타연구원 #작은모델 #정확도향상
+
+10 번째 검색 내용
+제목: 자바는 JEP 491을 통해 가상 스레드 핀빙에 대응하기 위해 진화합니다.
+주소: https://www.infoq.com/news/2024/11/java-evolves-tackle-pinning/
+설명: JEP 491, "가상 스레드를 동기화하지 않고 핀ning"이 JDK 24의 대상으로 제안되었습니다. 이 초기iative는 Java의 "핀ning" 문제를 해결하려고 합니다. synchronized 키워드의 제한으로 인해 가상 스레드와 확장성을 맞춰주는 것이 어려워진 것입니다. JEP 491은 이 제약 조건을 제거하여, 많은 수정 사항 없이도 고성능의 동시성을 얻을 수 있습니다.
+#JDK24 #가상스레드 #동기화 #동시성
+
+#hashtags: #JavaPerformance #Concurrency #VirtualThreads
+
+11 번째 검색 내용
+제목: Apache Tomcat 11.0은 가상 스레드 지원과 Jakarta EE 11에 대한 지원을 제공합니다.
+주소: https://www.infoq.com/news/2024/11/tomcat-11/
+설명: Apache Tomcat 11은 웹 서버 기술의 중요한 발전입니다. Jakarta EE 11을 지원하고 Project Loom을 통해 가상 스레드를 활용하여 효율적인 동시성 처리를 지원합니다. 향상된 WebSocket 성능, 향상된 비동기 처리, 강력한 보안 조치로 현대적인 애플리케이션에 적합합니다. 전환은 네임스페이스 조정이 필요하지만, 순조롭게 마이그레이션을 위한 도구를 제공합니다.
+#ApacheTomcat11 #웹서버기술 #동시성처리 #보안
+
+#hashtags: #웹서버 #JakartaEE #프로젝트루믈
+
+12 번째 검색 내용
+제목: 마이크로소프트는 .NET용 벡터 데이터 추상화 라이브러리 소개
+
+(Note: The translation may not be perfect, as some phrases or words might need to be adjusted for natural Korean sentence structure.)
+주소: https://www.infoq.com/news/2024/11/ms-vector-store-abstraction/
+설명: Microsoft는 2024년 10월 29일에 Microsoft.Extensions.VectorData.Abstractions 라이브러리를 .NET에 미리 보기로 출시했습니다. AI 세론틱 커널 SDK와의 통합을 쉽게 하고, 추상화를 사용하여 구체적인 AI 구현과 모델을 대체합니다.
+#인공지능 #.NET #AI세론틱커널SDK
+
+#hashtags: #인공지능개발 #AI통합 #.NET프로그래밍
+
+13 번째 검색 내용
+제목: 메타 AI는 인공지능 모델이 응답하기 전에 생각을 하도록 사고 선호도 최적화를 통해 인공지능 모델을 소개합니다.
+주소: https://www.infoq.com/news/2024/11/meta-ai-tpo/
+설명: AI : Meta FAIR의 연구자들, 캘리포니아 베르키리 대학교, 뉴욕 유니버시티에서는 지시어 정밀 튜닝된 LLM의 응답 질량을 개선하기 위해 새로운 방법인 Thought Preference Optimization(TPO)를 소개했습니다.
+#메타FAIR #연구자들 #LLM #TPO
+
+Hashtags: #머신러닝 #인공지능 #데이터사이언스
+
+14 번째 검색 내용
+제목: 자바 뉴스 요약: Jakarta EE 11, GlassFish 8.0-M8, JReleaser 1.15, JHipster 8.7.3, Quarkus 3.16
+주소: https://www.infoq.com/news/2024/11/java-news-roundup-oct28-2024/
+설명: Java 주요 뉴스 요약: 2024년 10월 28일 이번 주의 Java 주요 뉴스는 다음과 같습니다. Jakarta EE의 업데이트가 예정된 새로운 릴리즈에 대한 소식; GlassFish 8.0의 8번째 Milestone 릴리즈; JReleaser 1.15.0, JHipster 8.7.3과 Quarkus 3.16.0의 포인트 릴리즈입니다.
+#Java #JakartaEE #GlassFish #JReleaser #JHipster #Quarkus
+
+15 번째 검색 내용
+제목: 오픈JDK 뉴스 요약: 컴팩트 객체 헤더, 동기화 가상 스레드, 보안 관리자 비활성화
+주소: https://www.infoq.com/news/2024/11/jdk-news-roundup-oct28-2024/
+설명: There was a flurry of activity in the OpenJDK ecosystem during the week of October 28th, 2024, highlighting: four JEPs, having successfully completed their respective reviews, are now Targeted for JDK 24; and five new JEPs have been Proposed to Target for JDK 24 and will be under review during the week of November 4th, 2024.
+#OpenJDK #JEPs #Java #개발자
+
