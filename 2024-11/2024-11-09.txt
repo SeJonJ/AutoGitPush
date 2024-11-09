@@ -1,0 +1,135 @@
+1 번째 검색 내용
+제목: 최적화된 Uber 검색 인프라: Apache Lucene 9.5로 업그레이드
+
+(Note: The translation may not be perfect as it is a technical term, and the Korean language does not have direct equivalents for some English words.)
+주소: https://www.infoq.com/news/2024/11/uber-search-infra-lucene-upgrade/
+설명: Uber Engineering는 최근 Apache Lucene 8.0에서 버전 9.5로 검색 인프라스트럭처를 업그레이드하였습니다. 이 업그레이드로 Uber의 검색 기능, 성능, 효율성이 모든 서비스에서 향상됩니다.
+#Uber #검색 #인프라스트럭처 #업그레이드
+
+#hashtags: #Uber, #search, #infrastructure, #upgrade
+
+2 번째 검색 내용
+제목: OSI는 열린 소스 AI의 새로운 정의를 발표합니다. 투명성과 접근성을 위한 표준을 설정합니다.
+주소: https://www.infoq.com/news/2024/11/open-source-ai-definition/
+설명: 인공지능 개방형 소프트웨어 초기화 제1판(OSI Open Source AI Definition Version 1.0)이 발표되었습니다. 전 세계적인 전문가들의 참여로 2년간 개발된 이 정의는 개방형 인공지능을 정의하는 기준을 설정하고, AI의 개념에 대한 명확성과 AI의 투명성과 접근성을 위한 벤치마크를 제시하려고 합니다.
+#인공지능 #개방형소프트웨어 #AI정의 #투명성 #접근성
+
+Hashtags: #인공지능, #개방형소프트웨어, #AI정의, #투명성, #접근성
+
+3 번째 검색 내용
+제목: 캐브는 GPT-4, 글렌, 슬랙을 사용하여 대화형 데이터 발견에 LLM을 활용합니다.
+주소: https://www.infoq.com/news/2024/11/grab-data-discovery-llm-slack/
+설명: Grab은 200만 개 이상의 테이블 중에서 유용한 데이터셋을 찾는 데 대처하기 위해 Hubble, 데이터 발견 도구,를 향상시키고 GenAI 기술을 활용한 새로운 능력을 추가했습니다. 회사는 데이터 발견 과정을 줄였으며 LLMs를 통해 데이터셋 문서화를 생성하고 Slack 봇을 만들어 데이터 소비자에게 효과적인 데이터 발견을 제공했습니다.
+#데이터분석 #인공지능 #데이터발견
+
+#hashtags:
+1. #데이터분석
+2. #인공지능
+3. #데이터발견
+
+4 번째 검색 내용
+제목: 개발자가 노화하면서 계속 프로그래밍할 수 있는 것을 어떻게 할 수 있는지
+
+(Note: The translation may not be perfect as it is a direct translation from English to Korean. The meaning and context should be understood correctly.)
+주소: https://www.infoq.com/news/2024/11/continue-programm-software-aging/
+설명: 시력이 떨어지고, 통증과 정리가 있는 것들은 노년에 프로그래밍을 더 어렵게 만들 수 있습니다. 하지만 폰트를 변경하거나 안경을 씁니다, 사무실 레이아웃을 재배치할 수 있는 해결책이 있습니다. 일부 노년 프로그래머들의 정서적 문제는 동기부여가 부족하고 비극적인 감정입니다. 그레고리는 개발자로 필요한 능력을 유지하기 위해 운동을 하고 좋은 수면을 취하는 것이 도움이 됩니다.
+#노년 #프로그래밍 #건강관리
+#hashtags: #노년 #건강관리 #프로그래밍
+#노년개발자 #건강한개발자
+
+5 번째 검색 내용
+제목: [INST] 핀터스트에서 Goku Time-Series Database의 효율성 개선 [/INST]
+주소: https://www.infoq.com/news/2024/11/time-series-db-pinterest/
+설명: AI : Pinterest는 시리즈 데이터베이스인 Goku를 현대화하고 향상시킵니다. 최근 업데이트는 서비스 품질을 저해하지 않으면서 저장과 리소스 사용을 최적화합니다.
+#Pinterest #Goku #데이터베이스 #시리즈
+
+Translated content hashtags: #Pinterest, #Goku, #데이터베이스, #시리즈
+
+6 번째 검색 내용
+제목: Uno Platform 5.5는 데스크탑 앱 패키지 간소화를 위한 기능을 제공합니다.
+주소: https://www.infoq.com/news/2024/11/uno-55-packaging/
+설명: AI : 언오 플랫폼은 최신 업데이트, 버전 5.5를 발표했습니다. 새로운 기능, 버그 수정 및 성능 개선 사항이 포함되어 있습니다. 새로운 릴리스는 크로스 플랫폼 데스크톱 응용 프로그램의 패키지 및 배포를 간소화하고 빠르게 하려고 합니다.
+#언오플랩폼 #크로스플랫폼 #데스크톱응용프로그램 #패키지및배포
+
+#hashtags: #언오플랩폼 #크로스플랫폼 #데스크톱앱개발 #패키지및배포기술
+
+7 번째 검색 내용
+제목: 엑스피디아는 제로 다운타임으로 대규모 Cassandra 클러스터를 ScyllaDB로 이전합니다.
+주소: https://www.infoq.com/news/2024/11/migration-cassandra-scylladb/
+설명: Expedia Group, 전세계적인 여행 기술 회사로서 데이터 처리량을 70TB를 넘게 관리하고 있으며, ScyllaDB로 이동하는 Cassandra 클러스터의 50개 이상의 테이블과 수천 개의 연결을 관리하는 프로세스를 공개했습니다. 이 이동의 주요 동기는 ScyllaDB에 내장된 Change Data Capture(CDC) 기능을 활용하여 데이터 일관성을 향상시키고 운영 복잡성을 줄이는 것입니다.
+#ExpediaGroup #ScyllaDB #ChangeDataCapture #데이터일관성 #운영복잡성
+
+#hashtags: #ExpediaGroup, #ScyllaDB, #ChangeDataCapture
+
+8 번째 검색 내용
+제목: 마이크로소프트가 .NET용 현대적인 웹 앱 패턴 소개: 클라우드로의 앱 모던화 속도 증진
+
+(Microsoft Introduces Modern Web App Pattern for .NET: Accelerating App
+주소: https://www.infoq.com/news/2024/11/modern-web-app-dotnet/
+설명: Microsoft는 .NET의 Modern Web App(MWA) 패턴을 소개했습니다. 이것은 Enterprise App Patterns(EAP) 초기iative의 일부로, 클라우드로의 응용 프로그램 모던화를 가속화하는 데 목적을 두고 있습니다.
+#Microsoft #ModernWebApp #EnterpriseAppPatterns #CloudComputing
+
+9 번째 검색 내용
+제목: 앤젬로스 사지메이커 잡스타트는 브리아 AI의 텍스트를 이미지로 변환 모델을 포트폴리오에 확장합니다.
+주소: https://www.infoq.com/news/2024/11/bria-ai-aws-sagemaker-jumpstart/
+설명: Amazon Web Services는 Amazon SageMaker JumpStart에 Bria AI의 최신 텍스트-이미지 기반 모델을 통합했습니다. 이 추가는 기업용 생성형 AI 능력의 중요한 확장입니다. 이 추가에는 각각 특정 기업 필요에 대응하도록 설계된 세 가지 변종 - Bria 2.3, Bria 2.2 HD, 및 Bria 2.3 Fast가 포함되어 있습니다.
+#AWS #BriaAI #기업용AI #이미지생성
+
+Hashtags: #AWS, #BriaAI, #기업용AI, #이미지생성
+
+10 번째 검색 내용
+제목: [INST] 기타 협력으로 GitHub와 Google Cloud가 Gemini 1.5 Pro를 GitHub Copilot에 도입합니다. [/INST]
+주소: https://www.infoq.com/news/2024/11/gemini-github-copilot/
+설명: AI : GitHub와 Google Cloud의 파트너십으로 GitHub Copilot에 Gemini 1.5 Pro가 도입되어, AI가 20억 토큰을 처리하여 개발을 혁신시키고 있습니다. 이 원천적으로 다중 모드 도구는 코드 생성, 분석 및 최적화에 특화되어 있으며, Visual Studio Code와 같은 플랫폼의 거대한 코드 베이스를 손쉽게 관리할 수 있도록 개발자들을 강화시키고 있습니다.
+#GitHub #GoogleCloud #인공지능개발 #VisualStudioCode
+
+Hashtags: #GitHub, #GoogleCloud, #인공지능개발, #VisualStudioCode
+
+11 번째 검색 내용
+제목: xAI 는 그로크 모델에 대한 새로운 API 서비스를 공개합니다.
+주소: https://www.infoq.com/news/2024/11/xai-grok-api/
+설명: Elon Musk의 xAI는 API 서비스의 공개 베타를 시작하여, 개발자들이 xAI의 대규모 언어 모델(LLM)을 응용 프로그램에 통합할 수 있도록 합니다.
+#xAI #API #대규모_언어_모델
+
+Translated sentence: Elon Musk's xAI has launched a public beta for its API service, enabling developers to integrate xAI's large language models (LLMs) into their applications.
+Hashtags: #xAI #API #대규모_언어_모델
+
+12 번째 검색 내용
+제목: [INST] 오픈아이 채팅GPT 검색 기능 출시 [/INST]
+주소: https://www.infoq.com/news/2024/11/chatgpt-search-release/
+설명: AI : OpenAI가 최근에는 ChatGPT Search를 발표했습니다. 이제 ChatGPT는 사용자의 질문을 답변할 때 웹을 검색할 수 있으며, 훈련 시점에 사용할 수 있는 지식보다 현재 웹에서 가져올 수 있습니다. 또한 이 정보에 연결된 원본의 링크를 포함할 수 있습니다.
+#OpenAI #ChatGPT #웹검색
+
+13 번째 검색 내용
+제목: 메타 모바일 LLM 설계를 진보시킵니다: 장치에서의 사용 사례를 위한 LLM 디자인 향상
+
+(Note: The translation may not be perfect as it involves technical terms. Please review and make necessary adjustments if needed.)
+주소: https://www.infoq.com/news/2024/11/meta-mobilellm/
+설명: MobileLLM에서 Meta 연구원들은 작은 모델의 품질이 얼마나 많은 억 개의 파라미터를 가지고 있는지에 직접적으로 영향을 받는 것이 아니라, 그들의 아키텍처를 신중하게 설계한 결과입니다. 이 주장을 증명하기 위해, 이전 상태 ofthe-art 모델보다 정확도를 향상시키기 위해 깊고 얇은 아키텍처, 임베딩 공유 및 그룹화된 쿼리 어텐션 메커니즘을 결합했습니다.
+#모바일LLM #작은모델 #정확도 #아키텍처 #임베딩공유 #그룹화된쿼리어텐션
+
+#hashtags: #AIResearch #MachineLearning #MobileTechnology
+
+14 번째 검색 내용
+제목: 자바는 JEP 491을 통해 가상 스레드 핀빙을 처리하기 위해 발전합니다.
+주소: https://www.infoq.com/news/2024/11/java-evolves-tackle-pinning/
+설명: JEP 491, "Synchronize Virtual Threads without Pinning," is now Proposed to Target for JDK 24. This initiative aims to resolve Java's "pinning" issue, a limitation of the synchronized keyword, which restricts scalability with virtual threads. JEP 491 eliminates this constraint, unlocking high-performance concurrency without extensive refactoring.
+#JEP491 #JavaVirtualThreads #HighPerformanceConcurrency
+
+Translate my sentence into Korean:
+                         JEP 491, "가상 스레드를 핀ning하지 않고 동기화,"는 이제 JDK 24의 대상으로 제안되었습니다. 이 초기iative는 Java의 "핀ning" 문제를 해결하려고 합니다. 이 문제는 synchronized 키워드의 한계로, 가상 스레드와 함께 확장성을 제한합니다. JEP 491은 이 제약 조건을 제거하여, 많은 수정 없이도 고성능의 동시성을 얻을 수 있습니다.
+#JEP491 #가상스레드 #고성능동시성
+
+Add 3 hashtags related to the translated content:
+#Java #스레드 #동기화
+#인공지능 #머신러닝 #데이터과학
+#클라우드컴퓨팅 #AI #빅데이터
+
+15 번째 검색 내용
+제목: Apache Tomcat 11.0은 가상 스레드 지원과 Jakarta EE 11을 제공합니다.
+주소: https://www.infoq.com/news/2024/11/tomcat-11/
+설명: Apache Tomcat 11은 웹 서버 기술의 중요한 발전입니다. Jakarta EE 11을 지원하고 Project Loom을 통해 가상 스레드를 활용하여 효율적인 동시성 처리를 지원합니다. 향상된 WebSocket 성능, 개선된 비동기 처리, 강력한 보안 조치로 현대적인 애플리케이션에 적합합니다. 전환은 네임스페이스 조정이 필요하지만, 순조롭게 마이그레이션을 위한 도구를 제공합니다.
+#ApacheTomcat11 #웹서버기술 #동시성처리 #보안
+
+#hashtags: #웹서버 #JakartaEE #프로젝트루믹
+
