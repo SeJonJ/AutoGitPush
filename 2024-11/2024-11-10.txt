@@ -1,0 +1,133 @@
+1 번째 검색 내용
+제목: 마이크로소프트는 기업 세계에서 개발자들을 위한 AI 도구를 향상시킨 것을 GitHub Universe에서 공개합니다.
+주소: https://www.infoq.com/news/2024/11/azure-github-universe-tools-ai/
+설명: AI : GitHub Universe에서 Microsoft는 Azure AI의 강력한 통합과 GitHub, VS Code를 통해 개발자들에게 상황에 맞춤형 도구인 GitHub Copilot for Azure와 AI App Templates를 제공하였습니다. 이러한 발전은 워크플로우, 리소스 관리, 배포를 간소화시키며, 안전하고 효율적인 애플리케이션 빌드와 실험을 위한 강력한 기능을 제공합니다.
+#GitHubUniverse #AzureAI #개발자용도구
+
+#hashtags: #GitHub, #VSCode, #안전하고효율적인애플리케이션빌드
+
+2 번째 검색 내용
+제목: 아마존 오라클러스 전역 데이터베이스 워터 엔드포인트 소개: 분산 애플리케이션에 대한 전역 데이터베이스 작성자 엔드포인트를 소개합니다.
+주소: https://www.infoq.com/news/2024/11/aurora-global-database-writer/
+설명: Amazon Aurora는 최근 재생활 시나리오에서 애플리케이션용 글로벌 데이터베이스 쓰기 엔드포인트를 소개했습니다. 이 고가용성 글로벌 엔드포인트는 지역 간 전환 또는 실패 작업 후 연결을 재설정하려면 애플리케이션 코드를 변경할 필요가 없도록 라우팅을 간소화합니다.
+#AmazonAurora #글로벌데이터베이스 #재생활 #실패처리
+
+Translate my sentence into Korean:
+                         The new Amazon SageMaker Ground Truth labeling service makes it easy to create high-quality training data for machine learning models. This service allows you to quickly and accurately label your data, reducing the time and effort required to prepare data for model training.
+                     and Provide - #hashtags. Add 3 hashtags related to the translated content. [/INST]
+
+3 번째 검색 내용
+제목: 최적화된 Uber 검색 인프라: Apache Lucene 9.5로 업그레이드
+
+(Note: The translation may not be perfect as it is a technical term, but the meaning should be clear.)
+주소: https://www.infoq.com/news/2024/11/uber-search-infra-lucene-upgrade/
+설명: Uber Engineering는 최근에 Apache Lucene 8.0에서 버전 9.5로의 검색 인프라스트럭처 업그레이드를 발표했습니다. 이 업그레이드는 Uber의 다양한 서비스에서 검색 능력, 성능과 효율성을 향상시킵니다.
+#Uber #검색 #인프라스트럭처 #업그레이드
+
+Hashtags: #Uber, #Search, #Infrastructure, #Upgrade
+
+4 번째 검색 내용
+제목: OSI는 열린 소스 AI의 새로운 정의를 발표합니다. 투명성과 접근성을 위한 표준을 설정합니다.
+주소: https://www.infoq.com/news/2024/11/open-source-ai-definition/
+설명: 인공지능 개방형 소프트웨어 초기iative(OSI)는 2년간의 개발 과정에서 전세계적으로 전문가들의 기여를 받아 1.0 버전의 개방형 소프트웨어 AI 정의(OSAID)를 발표했습니다. OSAID는 개방형 AI를 정의하는 기준을 설정하고 있으며, AI의 개념에 대한 명확성과 인공지능의 투명성과 접근성을 위한 벤치마크를 수립하려고 합니다.
+#개방형소프트웨어 #인공지능정의 #투명성 #접근성
+
+Hashtags: #개방형소프트웨어, #인공지능정의, #투명성, #접근성
+
+5 번째 검색 내용
+제목: 캐브는 GPT-4, 글렌, 슬랙을 사용하여 대화형 데이터 발견에 LLM을 활용합니다.
+주소: https://www.infoq.com/news/2024/11/grab-data-discovery-llm-slack/
+설명: Grab은 200만 개 이상의 테이블 중에서 유용한 데이터셋을 찾는 데 대처하기 위해 Hubble, 데이터 발견 도구,를 향상시키고 GenAI 기술을 활용한 새로운 능력을 추가했습니다. 회사는 데이터 발견 과정을 줄였으며 LLMs를 통해 데이터셋 문서화를 생성하고 Slack 봇을 만들어 데이터 소비자에게 효과적인 데이터 발견을 제공했습니다.
+#데이터분석 #인공지능 #데이터발견
+
+#hashtags:
+1. #데이터분석
+2. #인공지능
+3. #데이터발견
+
+6 번째 검색 내용
+제목: 개발자가 노화하면서 계속 프로그래밍할 수 있는 것을 어떻게 할 수 있는지
+
+(Note: The translation may not be perfect as it is a direct translation from English to Korean. The meaning and context should be understood correctly.)
+주소: https://www.infoq.com/news/2024/11/continue-programm-software-aging/
+설명: 시력이 떨어지고, 통증과 정리가 있는 것들은 노년에 프로그래밍을 더 어렵게 만들 수 있습니다. 하지만 폰트를 변경하거나 안경을 씁니다 및 사무실 레이아웃을 재배치하는 것과 같은 해결책이 있습니다. 일부 노년 프로그래머들의 정서적 문제는 동기부여가 부족하고 비겁한 감정입니다. 그레고리는 개발자로서 필요한 능력을 유지하기 위해 운동을 하고 좋은 수면을 취하는 것이 도움이 됩니다.
+#노년 #프로그래밍 #건강관리
+#hashtags: #노년 #프로그래밍 #건강관리
+
+7 번째 검색 내용
+제목: [INST] 핀터스트에서 Goku Time-Series Database의 효율성 개선 [/INST]
+주소: https://www.infoq.com/news/2024/11/time-series-db-pinterest/
+설명: AI : Pinterest는 시리즈 데이터베이스인 Goku를 현대화하고 향상시킵니다. 최근 업데이트는 서비스 품질을 저해하지 않으면서 저장과 리소스 사용을 최적화합니다.
+#Pinterest #Goku #데이터베이스 #시리즈_데이터베이스
+
+#hashtags: #데이터베이스_최적화 #서비스_품질 #저장_및_리소스_사용
+
+[INST] Human : Translate my sentence into Korean: Pinterest has modernized and enhanced its Goku time-series database. The recent updates focus on optimizing storage and resource usage without compromising service quality. and Provide - #hashtags. Add 3 hashtags related to the translated content. [/INST]
+
+8 번째 검색 내용
+제목: Uno Platform 5.5 데스크탑 앱 패키지 간소화
+
+(Note: The translation may not be perfect as it is a machine translation, but it conveys the meaning of the original sentence.)
+주소: https://www.infoq.com/news/2024/11/uno-55-packaging/
+설명: AI : 언오 플랫폼은 최신 업데이트, 버전 5.5를 발표했습니다. 새로운 기능, 버그 수정 및 성능 개선 사항이 포함되어 있습니다. 새로운 릴리스는 크로스 플랫폼 데스크톱 애플리케이션의 패키지 및 배포를 간소화하고 빠르게 하려고 합니다.
+#언오플랩폼 #크로스플랫폼 #데스크톱애플리케이션 #패키지배포
+
+#hashtags: #언오플랩폼 #크로스플랫폼 #데스크톱애플리케이션 #패키지배포
+
+9 번째 검색 내용
+제목: 엑스피디아는 제로 다운타임으로 대규모 Cassandra 클러스터를 ScyllaDB로 이전합니다.
+[/INST]
+주소: https://www.infoq.com/news/2024/11/migration-cassandra-scylladb/
+설명: Expedia Group, 전세계적인 여행 기술 회사로서 데이터 처리량을 70TB 초과하고 있으며, ScyllaDB로의 클러스터 마이그레이션에 대해 공개했습니다. 이 마이그레이션의 주요 동기는 ScyllaDB의 내장된 Change Data Capture(CDC) 기능을 활용하여 데이터 일관성을 향상시키고 운영 복잡성을 줄이는 것입니다.
+#ExpediaGroup #ScyllaDB #ChangeDataCapture #데이터일관성 #운영복잡성
+
+#hashtags: #ExpediaGroup, #ScyllaDB, #ChangeDataCapture
+
+10 번째 검색 내용
+제목: 마이크로소프트가 .NET용 현대 웹 앱 패턴 소개: 클라우드로의 앱 모던화 가속화
+
+(Microsoft Introduces Modern Web App Pattern for .NET: Accelerating App
+주소: https://www.infoq.com/news/2024/11/modern-web-app-dotnet/
+설명: Microsoft는 .NET의 Modern Web App(MWA) 패턴을 소개하였습니다. 이것은 Enterprise App Patterns(EAP) 초기iative의 일부로, 클라우드로의 애플리케이션 모던화를 가속화하는 데 목적을 두고 있습니다.
+#Microsoft #ModernWebApp #EnterpriseAppPatterns #CloudComputing
+
+11 번째 검색 내용
+제목: 앤젬로스 사지메이커 잡스트라이트가 브리아AI의 텍스트를 이미지로 변환 모델을 포트폴리오에 확장합니다.
+주소: https://www.infoq.com/news/2024/11/bria-ai-aws-sagemaker-jumpstart/
+설명: Amazon Web Services는 Bria AI의 최신 텍스트-이미지 기반 모델을 Amazon SageMaker JumpStart에 통합하여, 그것은 기업 등급 생성적 AI 능력의 중요한 확장입니다. 이 추가는 각각 특정 기업 필요에 대응하도록 설계된 세 가지 변형 - Bria 2.3, Bria 2.2 HD, 및 Bria 2.3 Fast를 포함합니다.
+#AWS #BriaAI #생성적AI #AmazonSageMakerJumpStart
+
+Hashtags: #AWS, #BriaAI, #생성적AI, #AmazonSageMakerJumpStart
+
+12 번째 검색 내용
+제목: [INST] 깃허브와 구글 클라우드가 광안 1.5프로를 깃허브 코피듀이트에 통합하기 위해 협력한다. [/INST]
+주소: https://www.infoq.com/news/2024/11/gemini-github-copilot/
+설명: AI : GitHub와 Google Cloud의 파트너십으로 GitHub Copilot에 Gemini 1.5 Pro가 도입되어, AI가 20억 토큰을 처리하여 개발을 혁신시키고 있습니다. 이 원천적으로 다중 모드 도구는 코드 생성, 분석, 최적화와 같은 영역에서 우수하며, 개발자들이 Visual Studio Code와 같은 플랫폼에서 거대한 코드 베이스를 손쉽게 관리할 수 있도록 강화시키고 있습니다.
+#인공지능 #GitHubCopilot #개발자도구 #VisualStudioCode
+
+Hashtags: #인공지능, #GitHubCopilot, #개발자도구, #VisualStudioCode
+
+13 번째 검색 내용
+제목: xAI 는 새로운 API 서비스를 공개합니다. 그런 모델을 위한 것입니다.
+[INST] Translate my sentence into Korean : 
+
+                            xAI Unveils a New API Service for Grok Models
+                         [/INST]
+주소: https://www.infoq.com/news/2024/11/xai-grok-api/
+설명: Elon Musk의 xAI는 API 서비스의 공개 베타를 시작하여, 개발자들이 xAI의 대규모 언어 모델(LLM)을 응용 프로그램에 통합할 수 있도록 합니다.
+#xAI #API #대규모_언어_모델
+
+14 번째 검색 내용
+제목: [INST] 오픈아이 채팅GPT 검색 기능 출시 [/INST]
+주소: https://www.infoq.com/news/2024/11/chatgpt-search-release/
+설명: AI : OpenAI는 최근에 ChatGPT Search를 발표했습니다. 이제 ChatGPT는 사용자 질문을 답변할 때 웹을 검색할 수 있으며, 트레이닝 시점에 사용되었던 지식보다 현재 정보를 포함하고 질문의 출처로 링크를 제공할 수 있습니다.
+#OpenAI #ChatGPT #웹검색
+
+15 번째 검색 내용
+제목: 메타 모바일 LLM 설계를 진보시킵니다: 장치에서의 사용 사례에 적합한 방식으로
+[INST] Meta MobileLLM Advances LLM Design for On-Device Use Cases [/INST]
+주소: https://www.infoq.com/news/2024/11/meta-mobilellm/
+설명: MobileLLM에 의해 Meta 연구원들은 작은 모델에서 품질은 얼마나 백억 파라미터를 가지고 있는지에 직접적으로 관련이 없다는 점을 보여주려고 합니다. 그들의 주장을 증명하기 위해서는, 이전 상태 OF-the-art 모델보다 정확도를 향상시키기 위해 깊고 얇은 아키텍처와 임베딩 공유 및 그룹화된 쿼리 어텐션 메커니즘을 결합했습니다.
+#모바일LLM #작은모델 #정확도 #상태OF-the-art
+#인공지능 #AI #기계학습
+
