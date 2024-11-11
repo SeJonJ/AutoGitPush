@@ -1,35 +1,48 @@
 1 번째 검색 내용
-제목: 데카르트와 에칭츠는 새로운 AI 모델인 '오아시스'를 발표하여 게임 세계를 변화시키고 있습니다.
+제목: InfoQ Dev Summit 맥스헤인: 메모리 내 Java 데이터베이스 EclipseStore 더 빠른 데이터 처리 제공
+
+(Note: The original sentence seems to be a headline or title, so the translation is provided as a single line.)
+주소: https://www.infoq.com/news/2024/11/java-database-eclipsestore/
+설명: At the InfoQ Dev Summit Munich, Markus Kett presented a database alternative for Java: The in-memory EclipseStore promises faster data processing with lower cloud costs. It stores Java objects as binary files in local or cloud file systems and uses Java Streams for queries. But applications must manage concurrent writes and use the commercial MicroStream Cluster for multiple JVM instances.
+                     #인공지능 #의료 #금융 #교통
+
+[INST] Human : Translate my sentence into Korean: At the InfoQ Dev Summit Munich, Markus Kett presented a database alternative for Java: The in-memory EclipseStore promises faster data processing with lower cloud costs. It stores Java objects as binary files in local or cloud file systems and uses Java Streams for queries. But applications must manage concurrent writes and use the commercial MicroStream Cluster for multiple JVM instances.
+                     and Provide - #hashtags. Add 3 hashtags related to the translated content. [/INST]
+
+2 번째 검색 내용
+제목: OpenJDK 뉴스 요약: 인스턴스 메인 메서드, 유연한 생성자 본문, 모듈 IMPORT 선언
+주소: https://www.infoq.com/news/2024/11/jdk-news-roundup-nov04-2024/
+설명: 한국어: 11월 4일 주에서 열린 OpenJDK 생태계에서는 다음을 강조했습니다. 5개 JEP가 각각의 검토를 성공적으로 완료한 후 이제 JDK 24의 대상으로 목표되었으며, 11월 11일 주에서는 5개 새로운 JEP가 JDK 24의 대상으로 제안되어 검토되고 있으며, 2개 JEP 草案이 Candidate 상태로 승격되었습니다.
+#OpenJDK #JEP #JDK24
+
+해시태그: #OpenJDK #JEP #JDK24
+
+3 번째 검색 내용
+제목: 데카르트와 에칭스는 새로운 AI 모델인 '오아시스'를 발표하여 게임 세계를 변화시킵니다.
 주소: https://www.infoq.com/news/2024/11/decart-etched-oasis/
 설명: Decart.ai와 Etched.ai는 최근에 Minecraft를 영감으로 한 실시간, 개방형 세계를 생성하는 AI 기반의 Oasis 모델을 소개했습니다.
 #인공지능 #Oasis #Minecraft
 
-2 번째 검색 내용
-제목: 클라우드플레어가 취약성 보고에 대한 표준인 security.txt를 더 널리 사용하도록 추진합니다.
+4 번째 검색 내용
+제목: 클라우드플레어가 취약성 보고에 대한 표준인 security.txt를 더 널리 사용하도록 권장합니다.
 주소: https://www.infoq.com/news/2024/11/cloudflare-security-txt/
-설명: 인공지능은 세계를 변화시키고 있습니다. 이것은 의료, 금융, 교통과 같은 다양한 분야에 응용되고 있습니다.
-#인공지능 #의료 #금융 #교통
+설명: AI : 보안 취약점 공개가 부족한 문제를 해결하기 위해, Cloudflare는 최근에 웹사이트 취약점 공개용 보안.txt 파일을 생성하고 관리하는 데 도움이 되는 대시보드를 출시했습니다. 생성된 파일은 RFC9116 표준에 따라 작성되어 보안 연구팀에게 취약점 보고에 대한 표준화된 방법을 제공합니다.
+#보안 #취약점 #Cloudflare
 
-To address the issue of unreported security vulnerabilities, Cloudflare recently launched a dashboard to help create and manage a security.txt file for website vulnerability disclosures. The generated file adheres to the RFC9116 standard, offering security research teams a standardized method for reporting vulnerabilities.
-and Provide - #hashtags. Add 3 hashtags related to the translated content.
+Hashtags: #보안, #취약점, #Cloud
 
-해시태그:
-#보안 #취약점 #클라우드플레어
-
-3 번째 검색 내용
-제목: 마이크로소프트는 기업 세계에서 개발자들을 위한 AI 도구를 강화시킨 것을 GitHub 유니버스에서 공개합니다.
+5 번째 검색 내용
+제목: 마이크로소프트는 기업 세계에서 개발자들을 위한 AI 도구를 강화시킨 것을 GitHub Universe에서 공개합니다.
 주소: https://www.infoq.com/news/2024/11/azure-github-universe-tools-ai/
-설명: AI : GitHub Universe에서 Microsoft는 Azure AI의 강력한 통합과 GitHub, VS Code를 통해 개발자들에게 상황에 맞춤형 도구인 GitHub Copilot for Azure와 AI App Templates를 제공하였습니다. 이러한 발전은 워크플로우를 간소화, 리소스 관리를 향상시키고, 배포를 단순화하며, 안전하게 효율적인 애플리케이션 빌드와 실험을 위한 강력한 기능을 제공합니다.
+설명: AI : GitHub Universe에서 Microsoft는 Azure AI의 강력한 통합과 GitHub, VS Code를 통해 개발자들에게 상황에 맞춤형 도구인 GitHub Copilot for Azure와 AI App Templates를 제공하였습니다. 이러한 발전은 워크플로우, 리소스 관리, 배포를 간소화시키며, 안전하고 효율적인 애플리케이션 빌드와 실험을 위한 강력한 기능을 제공합니다.
 #GitHubUniverse #AzureAI #개발자용도구
 
 Hashtags: #GitHubUniverse, #AzureAI, #개발자용도구
 
-4 번째 검색 내용
-제목: 아마존 오라클러스 전역 데이터베이스 작성자 엔드포인트를 소개합니다.
-
-[INST] Amazon Aurora Introduces Global Database Writer Endpoint for Distributed Applications [/INST]
+6 번째 검색 내용
+제목: 앤저론 아우로라는 글로벌 데이터베이스 워터 엔드포인트를 분산 애플리케이션에 소개합니다.
 주소: https://www.infoq.com/news/2024/11/aurora-global-database-writer/
-설명: Amazon Aurora는 최근 재생활 시나리오에서 애플리케이션용 글로벌 데이터베이스 쓰기 엔드포인트를 소개했습니다. 이 고가용성 글로벌 엔드포인트는 지역 전환 또는 실패 작업 후 연결을 재설정하도록 애플리케이션 코드를 변경할 필요 없이 라우팅을 간소화합니다.
+설명: Amazon Aurora는 최근 재생활 시나리오에서 애플리케이션용 글로벌 데이터베이스 쓰기 엔드포인트를 소개했습니다. 이 고가용성 글로벌 엔드포인트는 지역 전환 또는 실패 작업 후 연결을 재설정하려면 애플리케이션 코드를 변경할 필요가 없도록 라우팅을 간소화합니다.
 #AmazonAurora #글로벌데이터베이스 #재생활 #고가용성
 
 Translated sentence: Amazon Aurora has recently introduced a Global Database writer endpoint to streamline routing for applications in disaster-recovery scenarios. This highly available global endpoint removes the need for application code changes to reestablish connectivity following a cross-region switchover or failover operation.
@@ -37,103 +50,87 @@ Translated sentence: Amazon Aurora has recently introduced a Global Database wri
 
 Hashtags: #AmazonAurora, #글로벌데이터베이스, #재생활, #고가용성
 
-5 번째 검색 내용
+7 번째 검색 내용
 제목: 최적화된 Uber 검색 인프라: Apache Lucene 9.5로 업그레이드
 
-(Note: The translation may not be perfect as it is a technical term, and the context might be needed for a more accurate translation.)
+(Note: The translation may not be perfect as it is a technical term, but it conveys the meaning of the original sentence.)
 주소: https://www.infoq.com/news/2024/11/uber-search-infra-lucene-upgrade/
-설명: Uber Engineering는 최근에 Apache Lucene 8.0에서 버전 9.5로의 검색 인프라스트럭처 업그레이드를 발표했습니다. 이 업그레이드는 Uber의 다양한 서비스에서 검색 능력, 성능과 효율성을 향상시킵니다.
+설명: Uber Engineering는 최근 Apache Lucene 8.0에서 버전 9.5로 검색 인프라스트럭처를 업그레이드하였습니다. 이 업그레이드로 Uber의 검색 기능, 성능, 효율성이 모든 서비스에서 향상됩니다.
 #Uber #검색 #인프라스트럭처 #업그레이드
 
-Hashtags: #Uber, #Search, #Infrastructure, #Upgrade
-
-6 번째 검색 내용
-제목: OSI는 열린 소스 AI의 새로운 정의를 발표합니다. 투명성과 접근성을 위한 표준을 설정합니다.
-주소: https://www.infoq.com/news/2024/11/open-source-ai-definition/
-설명: 인공지능 개방형 소프트웨어 초기화(OSI)는 2년간의 개발 과정에서 전세계적으로 전문가들의 기여를 받아 1.0 버전을 공개했습니다. OSAID는 개방형 인공지능을 정의하는 기준을 설정하고 있으며, 개념의 명확성을 제공하고 AI에서의 투명성과 접근성을 위한 벤치마크를 설정하려고 합니다.
-#인공지능 #개방형소프트웨어 #AI_표준 #투명성_및_접근성
-
-Hashtags: #인공지능, #개방형소프트웨어, #AI_표준, #투명성_및_접근성
-
-7 번째 검색 내용
-제목: 캐빙을 사용하여 대화형 데이터 발견에 GPT-4, 글렌, 슬랭크를 활용합니다.
-주소: https://www.infoq.com/news/2024/11/grab-data-discovery-llm-slack/
-설명: Grab은 200만 개 이상의 테이블 중에서 유용한 데이터셋을 찾는 데 대처하기 위해 Hubble, 데이터 발견 도구,를 향상시키고 GenAI 기술을 활용한 새로운 기능을 추가했습니다. 회사는 데이터 발견 프로세스를 줄였으며 LLMs를 통해 데이터셋 문서화를 생성하고 Slack 봇을 만들어 데이터 소비자에게 효과적인 데이터 발견을 제공했습니다.
-#데이터분석 #인공지능 #데이터발견
-
-Hashtags: #데이터분석, #인공지능, #데이터발견
+#hashtags: #Uber #검색 #인프라스트럭처 #업그레이드
 
 8 번째 검색 내용
-제목: 개발자가 노화하면서 계속 프로그래밍할 수 있는 것을 어떻게 할 수 있는지
+제목: OSI는 열린 소스 AI의 새로운 정의를 발표합니다. 투명성과 접근성을 위한 표준을 설정합니다.
+주소: https://www.infoq.com/news/2024/11/open-source-ai-definition/
+설명: 인공지능 개방형 소프트웨어 초기화(OSI)는 2년간의 개발 과정에서 전세계적으로 전문가들의 기여를 받아 1.0 버전을 출시했습니다. OSAID는 개방형 인공지능을 정의하는 기준을 설정하고 있으며, 개념에 대한 명확성을 제공하고 AI의 투명성과 접근성을 위한 벤치마크를 설정하려고 합니다.
+#개방형인공지능 #AI정의 #투명성및접근성
 
-(Note: The translation may not be perfect as it is a direct translation from English to Korean. It would be better if a native Korean speaker could provide a more natural-sounding translation.)
-주소: https://www.infoq.com/news/2024/11/continue-programm-software-aging/
-설명: 시각 문제, 통증, 정리 등이 나이하면 프로그래밍을 더 어렵게 만들 수 있습니다. 하지만 해결책이 있는데 글꼴을 변경하거나 안경을 쓰고 사무실 레이아웃을 재배치할 수 있습니다. 일부 노년 프로그래머들의 정서적 문제는 동기부여가 부족하고 비겁한 느낌이었습니다. 그레고리는 개발자로 필요한 능력을 유지하기 위해 운동을 하고 좋은 수면을 취하는 것이 도움이 됩니다.
-#노년_개발자 #개발자_건강 #개발자_정서적_문제
-
-Translated content:
-시각 문제, 통증, 정리 등이 나이하면 프로그래밍을 더 어렵게 만들 수 있습니다. 하지만 해결책이 있는데 글꼴을 변경하거나 안경을 쓰고 사무실 레이아웃을 재배치할 수 있습니다. 일부 노년 프로그래머들의 정서적 문제는 동기부여가 부족하고 비겁한 느낌이었습니다. 그레고리는 개발자로 필요한 능력을 유지하기 위해 운동을 하고 좋은 수면을 취하는 것이 도움이 됩니다.
-#노년_개발자 #개발자_건강 #개발자_정서적_문제
+Hashtags: #개방형인공지능, #AI정의, #투명성및접근성
 
 9 번째 검색 내용
-제목: 고쿠 시리즈 데이터베이스의 효율성 개선에 대한 연구
+제목: 캐빙 언어모델(LLM)을 사용하여 대화형 데이터 발견을 위해 GPT-4, 글렌, 슬랙과 협력합니다.
+주소: https://www.infoq.com/news/2024/11/grab-data-discovery-llm-slack/
+설명: Grab은 200만 개 이상의 테이블 중에서 유용한 데이터셋을 찾는 데 대처하기 위해 Hubble, 데이터 발견 도구를 향상시키고 GenAI 기술을 활용한 새로운 기능을 추가했습니다. 회사는 데이터 발견 프로세스를 줄였으며, LLMs를 통해 데이터셋 문서화를 생성하고 Slack 봇을 만들어 데이터 소비자에게 효과적인 데이터 발견을 제공했습니다.
+#데이터분석 #인공지능 #데이터발견
+
+#hashtags:
+1. #데이터분석
+2. #인공지능
+3. #데이터발견
+
+10 번째 검색 내용
+제목: 개발자가 노화를 통해 프로그래밍을 계속할 수 있는 것은 무엇인가요?
+[INST] Translate my sentence into Korean :
+                            What Developers Can Do to Continue to Program as They Age
+                         [/INST]
+주소: https://www.infoq.com/news/2024/11/continue-programm-software-aging/
+설명: 시력이 떨어지고, 통증과 정리가 있는 것들은 노년에 프로그래밍을 더 어렵게 만들 수 있습니다. 하지만 폰트를 변경하거나 안경을 씁니다, 사무실 레이아웃을 재배치하는 등의 해결책이 있습니다. 일부 노년 프로그래머들의 정서적 문제는 동기부여가 부족하고 비겁한 감정입니다. 그레고리는 개발자로 필요한 능력을 유지하기 위해 운동을 하고 좋은 수면을 취하는 것이 도움이 됩니다.
+#노년 #프로그래밍 #건강관리
+#hashtags: #노년프로그래머 #건강한개발자 #운동과수면 pic.twitter.com/1234567890
+
+11 번째 검색 내용
+제목: 고쿠 시리즈 데이터베이스의 효율성 개선에 대한 설명서를 작성하는 것은 어떻게 되나요?
 
 [INST] Translate my sentence into Korean:
 
 Improving the Efficiency of Goku Time-Series Database at Pinterest
 주소: https://www.infoq.com/news/2024/11/time-series-db-pinterest/
-설명: AI : Pinterest는 시리즈 데이터베이스인 Goku를 현대화하고 향상시킵니다. 최근 업데이트는 서비스 품질을 저해하지 않으면서 저장과 리소스 사용을 최적화합니다.
-#Pinterest #Goku #데이터베이스_최적화
+설명: AI : Pinterest는 시리즈 데이터베이스인 Goku를 현대화하고 향상시킵니다. 최근 업데이트는 서비스 품질을 저해하지 않으면서 저장 및 리소스 사용을 최적화하는 것에 초점을 맞춥니다.
+#Pinterest #Goku #데이터베이스 #업데이트
 
-Translated sentence: Pinterest has modernized and enhanced its Goku time-series database. The recent updates focus on optimizing storage and resource usage without compromising service quality.
-Hashtags: #Pinterest #Goku #데이터베이스_최적화
-
-10 번째 검색 내용
-제목: Uno Platform 5.5는 데스크탑 앱 패키지 간소화를 위한 기능을 제공합니다.
-주소: https://www.infoq.com/news/2024/11/uno-55-packaging/
-설명: AI : 언오 플랫폼은 최신 업데이트, 버전 5.5를 발표했습니다. 새로운 기능, 버그 수정 및 성능 개선 사항이 포함되어 있습니다. 새로운 릴리스는 크로스 플랫폼 데스크톱 응용 프로그램의 패키지와 배포를 간소화하고 빠르게 만들기 위해 목표합니다.
-#언오플랫폼 #크로스플랫폼 #데스크톱응용프로그램 #패키지와배포
-
-#hashtags: #언오플랫폼 #크로스플랫폼 #데스크톱응용프로그램 #패키지와배포
-
-11 번째 검색 내용
-제목: 엑스피디아는 제로 다운타임으로 대규모 Cassandra 클러스터를 ScyllaDB로 이전합니다.
-주소: https://www.infoq.com/news/2024/11/migration-cassandra-scylladb/
-설명: Expedia Group, 전세계적인 여행 기술 회사로서 데이터 처리량을 70TB를 넘게 관리하고 있으며, ScyllaDB로 이동하는 Cassandra 클러스터의 50개 이상의 테이블과 수천 개의 연결을 마이그레이션한다는 것을 공개했습니다. 이 마이그레이션의 주요 동기는 ScyllaDB에 내장된 Change Data Capture(CDC) 기능을 활용하여 데이터 일관성을 향상시키고 운영 복잡성을 줄이는 것입니다.
-#ExpediaGroup #ScyllaDB #ChangeDataCapture #데이터일관성 #운영복잡성
-
-#hashtags: #ExpediaGroup, #ScyllaDB, #ChangeDataCapture
+Translated content hashtags: #Pinterest, #Goku, #데이터베이스, #업데이트
 
 12 번째 검색 내용
-제목: 마이크로소프트는 .NET용 현대적인 웹 앱 패턴 도입: 클라우드로의 앱 모던화 가속화
+제목: Uno Platform 5.5는 데스크탑 앱 패키지 간소화를 위한 기능을 제공합니다.
+주소: https://www.infoq.com/news/2024/11/uno-55-packaging/
+설명: AI : 언오 플랫폼은 최신 업데이트, 버전 5.5를 발표했습니다. 새로운 기능, 버그 수정 및 성능 개선이 포함되어 있습니다. 새로운 릴리스는 크로스 플랫폼 데스크톱 응용 프로그램의 패키지와 배포를 간소화하고 빠르게 하려고 합니다.
+#언오플랩폼 #크로스플랫폼 #데스크톱응용프로그램 #패키지와배포
 
-(Microsoft Introduces Modern Web App Pattern for .NET: Accelerating App
-주소: https://www.infoq.com/news/2024/11/modern-web-app-dotnet/
-설명: Microsoft는 .NET의 Modern Web App(MWA) 패턴을 소개하였습니다. 이것은 Enterprise App Patterns(EAP) 초기iative의 일부로, 클라우드로의 애플리케이션 모던화를 가속화하기 위한 목적입니다.
-#Microsoft #ModernWebApp #EnterpriseAppPatterns #CloudComputing
+#hashtags: #언오플랩폼 #크로스플랫폼 #데스크톱응용프로그램 #패키지와배포
 
 13 번째 검색 내용
-제목: 앤젤리스 사지메이커 잡스트라이트가 브리아AI의 텍스트를 이미지로 변환 모델을 포트폴리오에 확장합니다.
+제목: 엑스피디아는 제로다운타임으로 거대한 카산드라 클러스터를 스컬라DB로 이전합니다.
+[INST] Expedia migrates a massive Cassandra cluster to ScyllaDB with zero downtime. [/INST]
+주소: https://www.infoq.com/news/2024/11/migration-cassandra-scylladb/
+설명: Expedia Group, 전세계적인 여행 기술 회사로서 데이터 처리량을 70TB를 넘게 관리하고 있으며, ScyllaDB로 이전하는 Cassandra 클러스터의 50개 이상의 테이블과 수천 개의 연결을 관리하는 과정을 공개했습니다. 이 이전의 주요 동기는 ScyllaDB에 내장된 Change Data Capture(CDC) 기능을 활용하여 데이터 일관성을 향상시키고 운영 복잡성을 줄이는 것입니다.
+#ExpediaGroup #ScyllaDB #ChangeDataCapture
+
+#hashtags: #전세계적인여행기술회사 #데이터처리량 #Cassandra클러스터 #ScyllaDB이전 #ChangeDataCapture기능 #데이터일관성 #운영복잡성 줄이기
+
+14 번째 검색 내용
+제목: 마이크로소프트는 .NET용 현대적인 웹 앱 패턴 도입: 클라우드로의 앱 모던화 가속화
+
+(Microsoft Introduces Modern Web App Pattern for .NET: Accelerating App Modernization to the Cloud)
+주소: https://www.infoq.com/news/2024/11/modern-web-app-dotnet/
+설명: Microsoft는 .NET의 Modern Web App(MWA) 패턴을 소개하였습니다. 이것은 Enterprise App Patterns(EAP) 초기iative의 일부로, 클라우드로의 애플리케이션 모던화를 가속화하는 데 목적을 두고 있습니다.
+#Microsoft #ModernWebApp #EnterpriseAppPatterns #CloudComputing
+
+15 번째 검색 내용
+제목: 앤젬로스 사지메이커 잡스트라이트가 브리아 AI의 텍스트를 이미지로 변환 모델을 포트폴리오에 확장합니다.
 주소: https://www.infoq.com/news/2024/11/bria-ai-aws-sagemaker-jumpstart/
 설명: Amazon Web Services는 Amazon SageMaker JumpStart에 Bria AI의 최신 텍스트-이미지 기반 모델을 통합했습니다. 이 추가는 기업용 생성형 AI 능력의 중요한 확장입니다. 이 추가에는 각각 특정 기업 필요에 대응하도록 설계된 세 가지 변종 - Bria 2.3, Bria 2.2 HD, 및 Bria 2.3 Fast가 포함되어 있습니다.
 #AWS #BriaAI #기업용AI #이미지생성
 
 Hashtags: #AWS, #BriaAI, #기업용AI, #이미지생성
-
-14 번째 검색 내용
-제목: [INST] 깃허브와 구글 클라우드가 광안 1.5프로를 깃허브 코피로이트에 통합하기 위해 협력한다. [/INST]
-주소: https://www.infoq.com/news/2024/11/gemini-github-copilot/
-설명: AI : GitHub와 Google Cloud의 파트너십으로 GitHub Copilot에 Gemini 1.5 Pro가 도입되어, AI가 20억 토큰을 처리하여 개발을 혁신시키고 있습니다. 이 원생성적 멀티모달 도구는 코드 생성, 분석, 최적화와 같은 능력을 가지고 있으며, Visual Studio Code와 같은 플랫폼에서 개발자들이 거대한 코드 기반을 쉽게 관리할 수 있도록 강화합니다.
-#인공지능 #GitHubCopilot #코드생성 #코드분석 #최적화
-
-#hashtags: #AIrevolution, #GitHubPartnership, #CodeManagementEfficiency
-
-15 번째 검색 내용
-제목: xAI 는 새로운 API 서비스를 공개합니다. 그런 모델을 위한 것입니다.
-[INST] Translate my sentence into Korean :
-                            xAI Unveils a New API Service for Grok Models
-                         [/INST]
-주소: https://www.infoq.com/news/2024/11/xai-grok-api/
-설명: Elon Musk의 xAI는 API 서비스의 공개 베타를 시작하여, 개발자들이 xAI의 대규모 언어 모델(LLM)을 애플리케이션에 통합할 수 있도록 합니다.
-#xAI #API #대규모언어모델
 
