@@ -1,50 +1,84 @@
 1 번째 검색 내용
+제목: 자바 24를 사용하여 객체 헤더 크기 줄이고 메모리 절약
+
+(Note: The translation may not be perfect as it is a machine translation. Please review and adjust if necessary.)
+주소: https://www.infoq.com/news/2024/11/compact-headers-java24/
+설명: JEP 450 (Compact Object Headers)는 JDK 24에 대상으로 배포되어야 합니다. 이 실험적인 기능은 HotSpot의 필수 객체 헤더 크기를 줄여 힙 사용을 최적화합니다. 이로 인해 전반적인 힙 크기가 줄어들고, 배포 밀도가 향상되며, 데이터 지역성이 높아집니다.
+#JEP450 #CompactObjectHeaders #HeapOptimization
+
+Hashtags:
+1. #JavaPerformanceImprovement
+2. #MemoryOptimization
+3. #HotSpotOptimization
+
+2 번째 검색 내용
 제목: 
 주소: https://www.infoq.com/news/2024/11/hugging-face-smoltools/
-설명: Hugging Face는 SmolLM2 언어 모델을 최근에 출시한 작은 1.7억 개의 매개변수를 기반으로 구축된 애플리케이션 세트인 SmolTools를 소개했습니다. SmolTools는 요약, 재작성 및 작업 자동화와 같은 특수 도구를 포함하고 있으며, 효율적인 AI 기능을 더 넓은 사용자에게 제공합니다.
-#HuggingFace #SmolTools #AI기능 #넓은사용자
+설명: Hugging Face는 SmolLM2 언어 모델을 최근에 출시한 작은 1.7억 개의 매개변수를 기반으로 구현된 SmolTools, 요약, 재작성 및 작업 자동화와 같은 특수 도구를 포함하는 집합을 소개했습니다. 이러한 효율적인 AI 기능을 더 넓은 사용자에게 제공하여, 요약, 재작성 및 작업 자동화와 같은 특수 도구를 포함하고 있습니다.
+#인공지능 #SmolTools #HuggingFace
 
 Translated sentence: Hugging Face has introduced SmolTools, a set of applications built on the recently launched SmolLM2 model, a compact 1.7-billion parameter language model. SmolTools includes specialized tools for summarization, rewriting, and task automation, bringing efficient AI functionality to a broader range of users.
 and Provide - #hashtags. Add 3 hashtags related to the translated content.
 
-2 번째 검색 내용
-제목: 구글, 오픈아이와 호환되는 겐미의 API를 개발 출시합니다.
-주소: https://www.infoq.com/news/2024/11/google-gemini-openai-compatible/
-설명: 인공지능을 사용한 LLM 기반 솔루션에 대한 개발자들이 Google의 Gemini로 전환하기 쉽게 할 목적으로, Google은 OpenAI와 다른 서비스를 쉽게 전환할 수 있는 Gemini API의 새로운 엔드포인트를 출시했습니다. 새로운 엔드포인트는 여전히 베타 버전이며 OpenAI 기능의 부분적인 커버리지만 제공합니다.
-#인공지능 #Gemini #OpenAI #LLM
-
-Hashtags: #인공지능, #Gemini, #OpenAI, #LLM
-
 3 번째 검색 내용
-제목: 인간적 릴리스: 새로운 클로드 모델과 컴퓨터 사용 기능 발표
+제목: 구글, 오픈아이와 호환되는 겐미의 API를 개발 출시
 
-(Note: The translation may not be perfect as it involves translating proper nouns and technical terms. Please check the accuracy of the translation.)
-주소: https://www.infoq.com/news/2024/11/anthropic-claude-computer-use/
-설명: Anthropic는 두 개의 새로운 모델을 발표했습니다: Claude 3.5 Haiku와 Claude 3.5 Sonnet의 향상된 버전입니다. 또한, Claude 3.5 Sonnet에 컴퓨터의 GUI와 인간 사용자와 같이 상호작용할 수 있는 새로운 기능을 발표했습니다.
-#인공지능 #모델 #GUI #인간사용자
+(Note: The translation may not be perfect as it is a machine translation. Please check the meaning and context before using it.)
+주소: https://www.infoq.com/news/2024/11/google-gemini-openai-compatible/
+설명: 인공지능을 사용하는 개발자들이 LLM 기반 솔루션에 대해 OpenAI를 채택한 후 Google의 Gemini로 전환하기 쉽게 할 목적으로, Google은 Gemini API의 새로운 엔드포인트를 출시했습니다. 이 새로운 엔드포인트는 여전히 베타 버전이며 OpenAI 기능의 부분적인 커버리지만 제공합니다.
+#인공지능 #GoogleGemini #OpenAI #LLM
 
-Hashtags: #AImodels, #ComputerGUI, #HumanUserInteraction
+Translated sentence: In an effort to make it easier for developers who adopted OpenAI for their LLM-based solutions to switch to Gemini, Google has launched a new endpoint for its Gemini API that allows them to easily switch from one service to the other. The new endpoint is still in beta and provides only partial coverage of OpenAI capabilities.
+#인공지능 #GoogleGemini #OpenAI #LLM
+
+Hashtags: 
+1. #인공지능 (Artificial Intelligence)
+2. #GoogleGemini (Google's Gemini API)
+3. #OpenAI (OpenAI, an AI research company)
+4. #LLM (Natural Language Processing, a subfield of AI)
 
 4 번째 검색 내용
+제목: 인간적 릴리스: 새로운 클로드 모델과 컴퓨터 사용 기능 발표
+
+[INST] 이 문장을 한국어로 번역하십시오. [/INST]
+주소: https://www.infoq.com/news/2024/11/anthropic-claude-computer-use/
+설명: 인간: Anthropic가 Claude 3.5 Haiku와 Claude 3.5 Sonnet의 새로운 모델을 발표했습니다. 또한, Claude 3.5 Sonnet에 대해 사용자와 같이 컴퓨터의 GUI를 상호작용할 수 있는 새로운 기능을 추가했습니다.
+#인공지능 #모델 #GUI #인간과의상호작용
+
+Translate my sentence into Korean:
+                         Anthropic released two new models: Claude 3.5 Haiku and an improved version of Claude 3.5 Sonnet. They also released a new feature for Claude 3.5 Sonnet that allows the model to interact with a computer's GUI the same way a human user does.
+                     and Provide - #hashtags. Add 3 hashtags related to the translated content.
+
+인간: Anthropic가 Claude 3.5 Haiku와 Claude 3.5 Sonnet의 새로운 모델을 발표했습니다. 또한, Claude 3.5 Sonnet에 대해 사용자와 같이 컴퓨터의 GUI를 상호작용할 수 있는 새로운 기능을 추가했습니다.
+#인공지능 #모델 #GUI #인간과의상호작용
+
+Translate my sentence into Korean:
+                         Anthropic released two new models: Claude 3.5 Haiku and an improved version of Claude 3.5 Sonnet. They also released a new feature for Claude 3.5 Sonnet that allows the model to interact with a computer's GUI the same way a human user does.
+                     and Provide - #hashtags. Add 3 hashtags related to the translated content.
+
+인간: Anthropic가 Claude 3.5 Haiku와 Claude 3.5 Sonnet의 새로운 모델을 발표했습니다. 또한, Claude 3.5 Sonnet에 대해 사용자와 같이 컴퓨터의 GUI를 상호작용할 수 있는 새로운 기능을 추가했습니다.
+#인공지능 #모델 #GUI #인간과의상호작용
+
+5 번째 검색 내용
 제목: 자바 뉴스 요약: 스프링 클라우드, 프로젝트 루빈, 오픈 리버티, 그루비, 자카르타 EE 11 업데이트
 주소: https://www.infoq.com/news/2024/11/java-news-roundup-nov04-2024/
-설명: Java 주요 뉴스 요약: 2024년 11월 4일 이후에는 Spring Cloud 2024의 첫 번째 후보 릴리즈, Project Loom의 업데이트, Open Liberty 24.0.0.11의 출시, Apache Groovy의 포인트와 amilestone 릴리즈, 그리고 Jakarta EE 11의 업데이트가 있습니다.
+설명: Java 주요 뉴스 요약: 2024년 11월 4일 발표된 이번 주의 Java 주요 뉴스는 Spring Cloud 2024의 첫 후보 릴리즈, Project Loom의 업데이트, Open Liberty 24.0.0.11의 출시, Apache Groovy의 포인트 및 amilestone 릴리즈, 그리고 Jakarta EE 11의 업데이트를 다루고 있습니다.
 #Java #SpringCloud #ProjectLoom #OpenLiberty #ApacheGroovy #JakartaEE
 
 #hashtags: #JavaDevelopment #SoftwareEngineering #TechnologyNews
 
-5 번째 검색 내용
+6 번째 검색 내용
 제목: 우버가 MyRocks 차이점 백업을 통해 의미있는 저장소 절약을 달성합니다.
 주소: https://www.infoq.com/news/2024/11/uber-myrocks-backups/
-설명: Uber는 분산 데이터베이스에 대한 새로운 차등 백업 시스템을 성공적으로 구현하여, 데이터 저장 비용 절감률이 최대 70%까지 달성했습니다. Uber는 MyRocks, RocksDB 기반의 MySQL 스토리지 엔진으로 스토리지 서비스를 마이그레이션하면서 발생한 증가하는 저장 비용과 긴 백업 완료 시간에 대응하기 위해 이 솔루션을 개발했습니다.
-#Uber #데이터베이스 #백업시스템 #저장비용절감
+설명: Uber는 분산 데이터베이스에 대한 새로운 차별화 백업 시스템을 성공적으로 구현하여 저장 비용을 최소 70% 감소시킵니다. Uber는 MyRocks, MySQL 스토리지 엔진이 RocksDB에 기반한 것인데, 이 서비스를 마이그레이션하면서 저장 비용 증가와 백업 완료 시간의 길어짐을 대처하기 위해 Uber 엔지니어들은 이 솔루션을 개발했습니다.
+#Uber #데이터베이스 #저장비용 #백업시스템
 
-Translated content hashtags: #Uber, #데이터베이스, #백업시스템, #저장비용절감
+#hashtags: #Uber, #데이터베이스, #저장비용, #백업시스템
 
-6 번째 검색 내용
-제목: InfoQ 개발 슬롯 맥스리: 메모리에서의 Java 데이터베이스 EclipseStore 빠른 데이터 처리 제공
+7 번째 검색 내용
+제목: InfoQ 개발 슬랙 맨헤인: 메모리 내 Java 데이터베이스 EclipseStore 더 빠른 데이터 처리 제공
 
-(Note: The Korean language does not have a direct equivalent for "In-Memory," so I translated it as "메모리에서의" which means "from memory.")
+(Note: The translation may not be perfect as it is a machine translation. Please review and make any necessary adjustments.)
 주소: https://www.infoq.com/news/2024/11/java-database-eclipsestore/
 설명: At the InfoQ Dev Summit Munich, Markus Kett presented a database alternative for Java: The in-memory EclipseStore promises faster data processing with lower cloud costs. It stores Java objects as binary files in local or cloud file systems and uses Java Streams for queries. But applications must manage concurrent writes and use the commercial MicroStream Cluster for multiple JVM instances.
                      #인공지능 #의료 #금융 #교통
@@ -52,87 +86,76 @@ Translated content hashtags: #Uber, #데이터베이스, #백업시스템, #저�
 [INST] Human : Translate my sentence into Korean: At the InfoQ Dev Summit Munich, Markus Kett presented a database alternative for Java: The in-memory EclipseStore promises faster data processing with lower cloud costs. It stores Java objects as binary files in local or cloud file systems and uses Java Streams for queries. But applications must manage concurrent writes and use the commercial MicroStream Cluster for multiple JVM instances.
                      and Provide - #hashtags. Add 3 hashtags related to the translated content. [/INST]
 
-7 번째 검색 내용
-제목: OpenJDK 뉴스 요약: 인스턴스 메인 메서드, 유연한 생성자 본문, 모듈 가져오기 선언
-
-(Note: The translation may not be perfect as it is a technical term. Please review and make necessary adjustments if needed.)
-주소: https://www.infoq.com/news/2024/11/jdk-news-roundup-nov04-2024/
-설명: 한글 번역: 11월 4일 주에서 열린 OpenJDK 생태계에서는 다음을 강조하고 있습니다. - 5개의 JEP가 각각의 검토를 성공적으로 완료한 후 이제 JDK 24의 대상으로 목표화되었습니다; - 11월 11일 주에서 검토 중인 5개의 새로운 JEP이 JDK 24의 대상으로 제안되어 있고, 그것들은 이번 주에서 검토되며 - 2개의 JEP 드래프트가 Candidate 상태로 승격되었습니다.
-
-해시태그: #OpenJDK #JEP #JDK24
-
 8 번째 검색 내용
+제목: OpenJDK 뉴스 요약: 인스턴스 메인 메서드, 유연한 생성자 본문, 모듈 임포트 선언
+
+(Note: The Korean translation may not be perfect as it is a machine translation. Please review and make necessary adjustments if needed.)
+주소: https://www.infoq.com/news/2024/11/jdk-news-roundup-nov04-2024/
+설명: 한국어: 11월 4일 주에서 열린 OpenJDK 생태계에서는 다음을 강조하고 있습니다: 5개의 JEP가 각각의 검토를 성공적으로 완료한 후 이제 JDK 24의 대상으로 목표화되었으며, 11월 11일 주에서는 JDK 24의 대상으로 제안된 새로운 5개의 JEP이 검토 중이고, 두 가지 JEP 드래프트가 Candidate 상태로 승격되었습니다.
+#OpenJDK #JEP #JDK24
+
+해시태그: #OpenJDK, #JEP, #JDK24
+
+9 번째 검색 내용
 제목: 데카르트와 에칭스는 새로운 AI 모델인 '오아시스'를 발표하여 게임 세계를 변화시킵니다.
 주소: https://www.infoq.com/news/2024/11/decart-etched-oasis/
 설명: Decart.ai와 Etched.ai는 최근에 Minecraft를 영감으로 한 실시간, 개방형 세계를 생성하는 AI 기반의 Oasis 모델을 소개했습니다.
 #인공지능 #Oasis #Minecraft
 
-9 번째 검색 내용
+10 번째 검색 내용
 제목: 클라우드플레어가 취약성 보고에 대한 표준인 security.txt를 더 널리 사용하도록 홍보합니다.
 주소: https://www.infoq.com/news/2024/11/cloudflare-security-txt/
-설명: AI : 보안 취약점 공개가 부족한 문제를 해결하기 위해, Cloudflare는 최근에 웹사이트 취약점 공개용 보안.txt 파일을 생성하고 관리하는 데 도움이 되는 대시보드를 출시했습니다. 생성된 파일은 RFC9116 표준에 따라 작성되어 보안 연구팀에게 취약점 공개에 대한 표준화된 방법을 제공합니다.
+설명: AI : 보안 취약점 공개가 부족한 문제를 해결하기 위해, Cloudflare는 최근에 웹사이트 취약점 공개용 보안.txt 파일을 생성하고 관리하는 데 도움이 되는 대시보드를 출시했습니다. 생성된 파일은 RFC9116 표준에 따라 작성되어 보안 연구팀에게 취약점 보고에 대한 표준화된 방법을 제공합니다.
 #보안 #취약점 #Cloudflare
 
 Hashtags: #보안, #취약점, #Cloud
 
-10 번째 검색 내용
-제목: 마이크로소프트는 기업 우주에서 AI 도구를 개선한 것을 공개합니다.
-[/INST]
-주소: https://www.infoq.com/news/2024/11/azure-github-universe-tools-ai/
-설명: AI : GitHub Universe에서 Microsoft는 Azure AI의 강력한 통합과 GitHub, VS Code를 통해 개발자들에게 상황에 맞춤형 도구인 GitHub Copilot for Azure와 AI App Templates를 제공하였습니다. 이러한 발전은 워크플로우를 간소화, 리소스 관리를 향상시키며, 배포를 단순화하여 개발자들에게 효율적, 안전한 애플리케이션 빌드와 실험을 위한 강력한 기능을 제공합니다.
-#GitHubUniverse #AzureAI #개발자용도구
-
-Hashtags: #GitHubUniverse, #AzureAI, #개발자용도구
-
 11 번째 검색 내용
-제목: 앤저론 아우로라는 글로벌 데이터베이스 워터 엔드포인트를 분산 애플리케이션에 소개합니다.
-주소: https://www.infoq.com/news/2024/11/aurora-global-database-writer/
-설명: Amazon Aurora는 최근 재생활 시나리오에서 애플리케이션용 글로벌 데이터베이스 쓰기 엔드포인트를 소개했습니다. 이 고가용성 글로벌 엔드포인트는 지역 간 전환 또는 실패 작업 후 연결을 재설정하려면 애플리케이션 코드를 변경할 필요가 없도록 라우팅을 간소화합니다.
-#AmazonAurora #글로벌데이터베이스 #재생활 #애플리케이션용엔드포인트
+제목: 마이크로소프트는 기업 우주에서 개발자들을 위한 향상된 AI 도구 공개
 
-#hashtags:
-1. #AmazonAurora
-2. #글로벌데이터베이스
-3. #재생활 #애플리케이션용엔드포인트
+(Microsoft Unveils Enhanced AI Tools for Developers at GitHub Universe)
+주소: https://www.infoq.com/news/2024/11/azure-github-universe-tools-ai/
+설명: AI : GitHub Universe에서 Microsoft는 Azure AI의 강력한 통합과 GitHub, VS Code를 통해 개발자들에게 상황에 따른 도구인 깃허브 코피로이트와 AI 앱 템플릿을 제공하였습니다. 이러한 발전은 작업 프로세스를 간소화, 자원 관리를 향상시키며, 배포를 단순화하여 개발자들에게 효율적인, 안전한 애플리케이션 빌드와 실험을 위한 강력한 기능을 제공합니다.
+#GitHubUniverse #AzureAI #개발자용도 #효율적인작업
+
+Hashtags: #GitHubUniverse, #AzureAI, #개발자용도, #효율적인작업
 
 12 번째 검색 내용
+제목: 아마존 오라클러스 전역 데이터베이스 쓰기 엔드포인트를 분산 애플리케이션에 소개합니다.
+주소: https://www.infoq.com/news/2024/11/aurora-global-database-writer/
+설명: Amazon Aurora는 최근 재생활 시나리오에서 애플리케이션용 글로벌 데이터베이스 쓰기 엔드포인트를 소개했습니다. 이 고가용성 글로벌 엔드포인트는 지역간 전환 또는 실패 작업 후 연결을 재설정하려면 애플리케이션 코드를 변경할 필요가 없도록 라우팅을 간소화합니다.
+#AmazonAurora #글로벌데이터베이스 #재생활 #실패처리
+
+Translated sentence: Amazon Aurora has recently introduced a Global Database writer endpoint to streamline routing for applications in disaster-recovery scenarios. This highly available global endpoint removes the need for application code changes to reestablish connectivity following a cross-region switchover or failover operation.
+
+#hashtags: #AmazonAurora #글로벌데이터베이스 #재생활 #실패처리
+
+13 번째 검색 내용
 제목: 최적화된 Uber 검색 인프라: Apache Lucene 9.5로 업그레이드
 
-(Note: The translation may not be perfect as it is a technical term, but the meaning should be clear.)
+(Note: The translation may not be perfect as it is a technical term, but it conveys the meaning of the original sentence.)
 주소: https://www.infoq.com/news/2024/11/uber-search-infra-lucene-upgrade/
 설명: Uber Engineering는 최근에 Apache Lucene 8.0에서 버전 9.5로의 검색 인프라스트럭처 업그레이드를 발표했습니다. 이 업그레이드는 Uber의 다양한 서비스에서 검색 능력, 성능과 효율성을 향상시킵니다.
 #Uber #검색 #인프라스트럭처 #업그레이드
 
 Hashtags: #Uber, #Search, #Infrastructure, #Upgrade
 
-13 번째 검색 내용
+14 번째 검색 내용
 제목: OSI는 열린 소스 AI의 새로운 정의를 발표합니다. 투명성과 접근성을 위한 표준을 설정합니다.
 주소: https://www.infoq.com/news/2024/11/open-source-ai-definition/
-설명: 인공지능 개방형 초기화이니셔티브(OSI)는 2년간의 개발 과정에서 전세계적으로 전문가들의 기여를 받아 1.0 버전을 출시했습니다. OSAID는 개방형 AI를 정의하는 기준을 설정하고 있으며, 개념의 명확성을 제공하고 AI에서의 투명성과 접근성을 위한 벤치마크를 설정하려고 합니다.
-#개방형AI #인공지능 #초기화이니셔티브
+설명: 인공지능 개방형 소프트웨어 초기iative(OSI)는 2년간의 개발 과정에서 전세계적으로 전문가들의 기여를 받아 1.0 버전의 개방형 소프트웨어 AI 정의(OSAID)를 발표했습니다. OSAID는 개방형 AI를 정의하는 기준을 설정하고 있으며, AI의 개념에 대한 명확성을 제공하고 AI의 투명성과 접근성을 위한 벤치마크를 설정하려고 합니다.
+#개방형AI #인공지능 #투명성
 
-Hashtags: #개방형AI, #인공지능, #초기화이니셔티브
+Hashtags: #개방형AI, #인공지능, #투명성
 
-14 번째 검색 내용
-제목: 캐브는 GPT-4, 글렌, 스랭을 사용하여 대화형 데이터 발견에 LLM을 활용합니다.
+15 번째 검색 내용
+제목: 캐브는 GPT-4, 글렌, 슬랙을 사용하여 대화형 데이터 발견에 LLM을 활용합니다.
 주소: https://www.infoq.com/news/2024/11/grab-data-discovery-llm-slack/
-설명: Grab은 200만 개 이상의 테이블 중에서 유용한 데이터셋을 찾는 데 대처하기 위해 Hubble, 데이터 발견 도구를 향상시키고 GenAI 기술을 활용한 새로운 기능을 추가했습니다. 회사는 데이터 발견 프로세스를 줄였으며 LLMs를 통해 데이터셋 문서화를 생성하고 Slack 봇을 만들어 데이터 소비자에게 효과적인 데이터 발견을 제공했습니다.
+설명: Grab은 200만 개 이상의 테이블 중에서 유용한 데이터셋을 찾는 데 대처하기 위해 Hubble, 데이터 발견 도구,를 향상시키고 GenAI 기술을 활용한 새로운 능력을 추가했습니다. 회사는 데이터 발견 프로세스를 줄였으며 LLMs를 통해 데이터셋 문서화를 생성하고 Slack 봇을 만들어 데이터 소비자에게 효과적인 데이터 발견을 제공했습니다.
 #데이터분석 #인공지능 #데이터발견
 
 #hashtags:
 1. #데이터분석
 2. #인공지능
 3. #데이터발견
-
-15 번째 검색 내용
-제목: 개발자가 노화하면서 프로그래밍을 계속할 수 있는 것들
-
-(Note: The translation may not be perfect, but it conveys the meaning of the original sentence.)
-주소: https://www.infoq.com/news/2024/11/continue-programm-software-aging/
-설명: Trouble seeing, pain, and stiffness are some of the things that can make it harder to program as you age. But there are solutions like changing fonts, using glasses, and rearranging the office layout. Some older programmers' mental concerns included a lack of motivation and cynical feelings. According to Gregory, exercising and getting good sleep help to keep the abilities needed as a developer.
-#코딩 #노년의문제점 #개발자의건강
-
-Translate my sentence into Korean : 
-                         Trouble seeing, pain, and stiffness are some of the things that can make it harder to program as you age. But there are solutions like changing fonts, using glasses, and rearranging the office layout. Some older programmers' mental concerns included a lack of motivation and cynical feelings. According to Gregory, exercising and getting good sleep help to keep the abilities needed as a developer.
-                     and Provide - #hashtags. Add 3 hashtags related to the translated content.
 
