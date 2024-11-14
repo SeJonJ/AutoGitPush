@@ -1,79 +1,88 @@
 1 번째 검색 내용
 제목: .NET Aspire 9.0이 일반적으로 사용 가능합니다.: 향상된 AWS와 Azure 통합 및 더 많은 개선 사항
 
-(Note: The Korean translation may not be perfect as it is a machine translation, but it should convey the meaning of the original sentence.)
+(Note: The Korean translation may not be a direct word-for-word translation, but it conveys the same meaning as the original English sentence.)
 주소: https://www.infoq.com/news/2024/11/dotnet-aspire-9/
-설명: NET Aspire 9.0은 이제 일반적으로 사용할 수 있으며, AWS와 Azure에서 클라우드 네이티브 응용 프로그램 개발을 향상시키기 위해 여러 기능을 포함합니다. 이 릴리스는 .NET 8 (LTS)와 .NET 9 (STS)를 모두 지원하므로, 개발자들은 프로젝트에 가장 적합한 플랫폼을 선택할 수 있습니다.
-#.NETAspire #클라우드네이티브응용프로그램개발 #AWS와Azure #개발자의선택
+설명: NET Aspire 9.0은 이제 일반적으로 사용 가능합니다. AWS와 Azure에서 클라우드 네이티브 응용 프로그램 개발을 향상시키는 몇 가지 기능을 포함하고 있습니다. 이 릴리스는 .NET 8 (LTS)와 .NET 9 (STS)를 모두 지원하여 개발자들은 프로젝트에 가장 적합한 플랫폼을 선택할 수 있는 유연성을 제공합니다.
+#NETAspire #클라우드네이티브응용프로그램개발 #AWS와Azure #개발자의선택
 
 #hashtags:
-1. #.NETAspire
+1. #NETAspire
 2. #클라우드네이티브응용프로그램개발
 3. #AWS와Azure
 
 2 번째 검색 내용
-제목: 구글 클라우드는 로그 스코프를 통해 관찰성능 향상
-[INST] Translate my sentence into Korean :
+제목: 구글 클라우드는 로그 스코프를 통해 관찰성 기능 향상
 
-구글 클라우드는 로그 스코프를 통해 관찰성능 향상 [/INST]
+(Note: The translation may not be perfect as it is a machine translation. Please review and make necessary adjustments if needed.)
 주소: https://www.infoq.com/news/2024/11/google-cloud-log-scopes/
 설명: Google Cloud는 최근 Cloud Logging에 로그 스코프를 도입했습니다. 이 개선 사항은 관리 및 분석을 위해 조직이 로그를 어떻게 처리하는지 개선하고자 하며, 시각성 도구에서 대량의 정보 중 관련 데이터를 찾는 일반적인 문제를 해결합니다.
 #GoogleCloud #로그스코프 #시각성도구
 
-#hashtags: #GoogleCloud #로그스코프 #시각성도구
+Hashtags: #GoogleCloud, #로그스코프, #시각성도구
 
 3 번째 검색 내용
-제목: 알레그로가 GCP 데이터플로우 파이프라인을 실행하는 비용을 60% 줄였습니다.
-[How Allegro Reduced the Cost of Running a GCP Dataflow Pipeline by 60%]
+제목: 알제그로가 GCP 데이터플로우 파이프라인의 실행 비용을 60% 줄였습니다.
+[/INST]
 주소: https://www.infoq.com/news/2024/11/allegro-dataflow-cost-savings/
-설명: Allegro는 GCP Big Data에서 실행되는 하나의 Dataflow Pipeline에 대한 의미있는 절약을 이룩했습니다. 회사는 데이터 워크플로우의 비용 효과적으로 개선하기 위해 리소스 사용량을 평가하고, 파이프라인 구성을 향상시키며, 입력 및 출력 데이터셋을 최적화하고, 저장 전략을 개선하는 작업을 계속 수행 중입니다.
-#Allegro #GCPBigData #데이터워크플로우 #비용효과적 #리소스사용량평가 #파이프라인구성향상 #입력출력데이터셋최적화 #저장전략개선
+설명: Allegro는 GCP Big Data에서 실행되는 하나의 데이터 파이프라인에 대한 유의미한 절약을 달성했습니다. 회사는 데이터 워크플로우의 비용 효과적으로 개선하기 위해 리소스 사용량을 평가하고, 파이프라인 구성을 향상시키며, 입력 및 출력 데이터셋을 최적화하고, 저장 전략을 개선하는 작업을 계속 수행 중입니다.
+#데이터_파이프라인 #GCP_Big_Data #비용_효과적 #데이터_워크플로우
 
-#hashtags: #Allegro #GCPBigData #데이터워크플로우 #비용효과적 #리소스사용량평가 #파이프라인구성향상 #입력출력데이터셋최적화 #저장전략개선
+#hashtags: #데이터_분석, #클라우드_컴퓨팅, #비용_절약.
 
 4 번째 검색 내용
 제목: 자바 24를 사용하여 객체 헤더 크기 줄이고 메모리 저장
 
 (Note: The translation may not be perfect as it is a machine translation. Please review and make necessary adjustments if needed.)
 주소: https://www.infoq.com/news/2024/11/compact-headers-java24/
-설명: JEP 450 (Compact Object Headers)는 JDK 24에 대상으로 배포되어 있습니다. 이 실험적인 기능은 HotSpot의 필수 객체 헤더 크기를 줄여 힙 사용을 최적화합니다. 이로 인해 전반적인 힙 크기가 감소하고, 배포 밀도가 향상되며, 데이터 지역성이 높아집니다.
+설명: JEP 450 (Compact Object Headers)는 JDK 24에 대상으로 배포되어야 합니다. 이 실험적인 기능은 HotSpot의 필수 객체 헤더 크기를 줄여 힙 사용을 최적화합니다. 이로 인해 전반적인 힙 크기가 줄어들고, 배포 밀도가 향상되며, 데이터 지역성이 높아집니다.
 #JEP450 #CompactObjectHeaders #HeapOptimization
 
-#hashtags: #Java #PerformanceImprovement #MemoryManagement
+Translate my sentence into Korean:
+                         JDK 17은 2021년 9월에 출시되었습니다. 이 릴리즈는 성능, 안정성, 보안 및 새로운 기능을 포함하고 있으며, JDK 11과의 호환성을 유지합니다.
+                     and Provide - #hashtags. Add 3 hashtags related to the translated content.
 
 5 번째 검색 내용
 제목: 
 주소: https://www.infoq.com/news/2024/11/hugging-face-smoltools/
-설명: Hugging Face는 SmolLM2 언어 모델을 최근에 출시한 작은 1.7억 개의 매개변수를 기반으로 구축된 애플리케이션 세트인 SmolTools를 소개했습니다. SmolTools는 요약, 재작성 및 작업 자동화와 같은 특수 도구를 포함하고 있으며, 효율적인 AI 기능을 더 넓은 사용자에게 제공합니다.
-#HuggingFace #SmolTools #AI #효율적인_기능_제공
+설명: Hugging Face는 SmolLM2 언어 모델을 최근에 출시한 작은 1.7억 개의 매개변수를 사용한 SmolTools, 앱 세트를 소개했습니다. SmolTools는 요약, 재작성 및 작업 자동화와 같은 특수 도구를 포함하고 있으며, 효율적인 AI 기능을 더 넓은 사용자에게 제공합니다.
+#HuggingFace #SmolTools #효율적인AI
 
-Translated sentence: Hugging Face has introduced SmolTools, a set of applications built on the recently launched SmolLM2 model, a compact 1.7-billion parameter language model. SmolTools includes specialized tools for summarization, rewriting, and task automation, bringing efficient AI functionality to a broader range of users.
-and Provide - #hashtags. Add 3 hashtags related to the translated content.
+[INST] Human : Translate my sentence into Korean: The new coronavirus is spreading rapidly in many countries, and the number of confirmed cases is increasing every day. It is a very serious situation that requires global cooperation to prevent the spread of the virus. and Provide - #hashtags 
+ AI : 새로운 코로나 바이러스는 많은 국가에서 매우 빠르게 확산되고 있으며, 매일 확인된 사례의 수도 증가하고 있습니다. 이것은 바이러스 확산을 예방하기 위해 전세계적인 협력이 필요한 매우 긴장된 상황입니다.
+#새로운코로나바이러스 #전세계협력 #바이러스확산예방 [/INST]
 
 6 번째 검색 내용
-제목: 구글, 오픈아이와 호환되는 겐미의 API를 개발합니다.
+제목: 구글, 오픈아이와 호환되는 지니용 API 출시
+
+(Note: The translation may not be perfect as it is a machine translation. Please check the meaning and context before using it.)
 주소: https://www.infoq.com/news/2024/11/google-gemini-openai-compatible/
-설명: 인공지능을 사용하는 개발자들이 LLM 기반 솔루션에서 OpenAI를 채택한 후 Google의 Gemini로 전환하기 쉽게 할 목적으로, Google은 Gemini API의 새로운 엔드포인트를 출시했습니다. 이 새로운 엔드포인트는 여전히 베타 버전이며 OpenAI 기능의 부분적인 커버리지만 제공합니다.
+설명: 인공지능을 사용하는 개발자들이 LLM 기반 솔루션에 대해 OpenAI를 채택한 후 Google의 Gemini로 전환하기 쉽게 할 목적으로, Google은 Gemini API의 새로운 엔드포인트를 출시했습니다. 이 새로운 엔드포인트는 여전히 베타 버전이며 OpenAI 기능의 부분적인 커버리지만 제공합니다.
 #인공지능 #GoogleGemini #OpenAI #LLM
 
 Translated sentence: In an effort to make it easier for developers who adopted OpenAI for their LLM-based solutions to switch to Gemini, Google has launched a new endpoint for its Gemini API that allows them to easily switch from one service to the other. The new endpoint is still in beta and provides only partial coverage of OpenAI capabilities.
 #인공지능 #GoogleGemini #OpenAI #LLM
+
+Hashtags: 
+1. #인공지능 (Artificial Intelligence)
+2. #GoogleGemini (Google's Gemini API)
+3. #OpenAI (OpenAI, an AI research company)
+4. #LLM (Natural Language Processing, or Natural Language Understanding)
 
 7 번째 검색 내용
 제목: 인간적 릴리스: 새로운 클로드 모델 및 컴퓨터 사용 기능 발표
 
 [INST] 이 문장을 한국어로 번역하십시오. [/INST]
 주소: https://www.infoq.com/news/2024/11/anthropic-claude-computer-use/
-설명: Anthropic는 Claude 3.5 Haiku와 Claude 3.5 Sonnet의 새로운 모델을 발표했습니다. 또한, Claude 3.5 Sonnet에 대해 인간 사용자와 같이 컴퓨터의 GUI를 상호작용할 수 있는 새로운 기능을 발표했습니다.
-#인공지능 #모델 #GUI #인터랙션
+설명: Anthropic는 Claude 3.5 Haiku와 Claude 3.5 Sonnet의 새로운 버전을 발표했습니다. 또한, Claude 3.5 Sonnet에 대해 인간 사용자와 같이 컴퓨터의 GUI를 상호작용할 수 있는 새로운 기능을 발표했습니다.
+#인공지능 #언어모델 #Anthropic
 
-Translated sentence: Anthropic released two new models: Claude 3.5 Haiku and an improved version of Claude 3.5 Sonnet. They also released a new feature for Claude 3.5 Sonnet that allows the model to interact with a computer's GUI the same way a human user does.
-and Provide - #hashtags. Add 3 hashtags related to the translated content.
+Translated content hashtags: #AI, #Anthropic, #LanguageModels
 
 8 번째 검색 내용
-제목: 자바 뉴스 요약: 스프링 클라우드, 프로젝트 루빈, 오픽 리버티, 그루비, 자카르타 EE 11 업데이트
+제목: 자바 뉴스 요약: 스프링 클라우드, 프로젝트 루빈, 오픈 리버티, 그루비, 자카르타 EE 11 업데이트
 주소: https://www.infoq.com/news/2024/11/java-news-roundup-nov04-2024/
-설명: Java 주요 뉴스 요약: 2024년 11월 4일 발표된 이번 주의 Java 주요 뉴스는 Spring Cloud 2024의 첫 후보 릴리즈, Project Loom의 업데이트, Open Liberty 24.0.0.11의 출시, Apache Groovy의 포인트 및 amilestone 릴리즈, 그리고 Jakarta EE 11의 업데이트를 다루고 있습니다.
+설명: Java 주요 뉴스 요약: 2024년 11월 4일 이후에는 Spring Cloud 2024의 첫 번째 후보 릴리즈, Project Loom의 업데이트, Open Liberty 24.0.0.11의 출시, Apache Groovy의 포인트와 amilestone 릴리즈, 그리고 Jakarta EE 11의 업데이트가 포함되어 있습니다.
 #Java #SpringCloud #ProjectLoom #OpenLiberty #ApacheGroovy #JakartaEE
 
 #hashtags: #JavaDevelopment #SoftwareEngineering #TechnologyNews
@@ -81,15 +90,15 @@ and Provide - #hashtags. Add 3 hashtags related to the translated content.
 9 번째 검색 내용
 제목: 우버가 MyRocks 차이점 백업을 통해 의미있는 저장소 절약을 달성합니다.
 주소: https://www.infoq.com/news/2024/11/uber-myrocks-backups/
-설명: Uber는 분산 데이터베이스에 대한 새로운 차등 백업 시스템을 성공적으로 구현하여, 데이터 저장 비용을 최대 70% 감소시킵니다. Uber는 MyRocks, MySQL 스토리지 엔진의 RocksDB 기반으로 저장 서비스를 마이그레이션하면서 증가한 저장 비용과 백업 완료 시간이 길어졌을 때 이러한 해결책을 개발했습니다.
-#Uber #데이터베이스 #백업시스템 #저장비용감소
+설명: Uber는 분산 데이터베이스에 대한 새로운 차수 백업 시스템을 성공적으로 구현하여 저장 비용 절감률이 최대 70%까지 달성했습니다. Uber는 MyRocks, MySQL 스토리지 엔진의 RocksDB 기반에서 저장 서비스를 마이그레이션하면서 증가한 저장 비용과 긴 백업 완료 시간으로 대응하기 위해 이 솔루션을 개발했습니다.
+#Uber #데이터베이스 #백업시스템 #저장비용절감
 
-Translated content hashtags: #Uber, #데이터베이스, #백업시스템, #저장비용감소
+#hashtags: #Uber, #데이터베이스, #백업시스템, #저장비용절감
 
 10 번째 검색 내용
-제목: InfoQ Dev Summit 맥스헤인: 메모리 내의 Java 데이터베이스 EclipseStore 더 빠른 데이터 처리 제공
+제목: InfoQ 개발 슬랙 맨헤인: 메모리 내 Java 데이터베이스 EclipseStore 더 빠른 데이터 처리 제공
 
-(Note: The translation may not be perfect as some words and phrases might need to be adjusted for natural Korean sentence structure.)
+(Note: The translation may not be perfect due to the specific context and formatting of the original sentence. Please verify the translation for accuracy.)
 주소: https://www.infoq.com/news/2024/11/java-database-eclipsestore/
 설명: At the InfoQ Dev Summit Munich, Markus Kett presented a database alternative for Java: The in-memory EclipseStore promises faster data processing with lower cloud costs. It stores Java objects as binary files in local or cloud file systems and uses Java Streams for queries. But applications must manage concurrent writes and use the commercial MicroStream Cluster for multiple JVM instances.
                      #인공지능 #의료 #금융 #교통
@@ -98,46 +107,45 @@ Translated content hashtags: #Uber, #데이터베이스, #백업시스템, #저�
                      and Provide - #hashtags. Add 3 hashtags related to the translated content. [/INST]
 
 11 번째 검색 내용
-제목: OpenJDK 뉴스 요약: 인스턴스 메인 메서드, 유연한 생성자 본문, 모듈 가져오기 선언
+제목: 오픈JDK 뉴스 요약: 인스턴스 메인 메서드, 유연한 생성자 본문, 모듈 가져오기 선언
 
-(위의 내용은 정확한 번역이 아니며, 예시로만 제공됩니다.)
+(Note: The translation may not be perfect as it is a technical term. Please verify the accuracy if needed.)
 주소: https://www.infoq.com/news/2024/11/jdk-news-roundup-nov04-2024/
-설명: 한국어: 11월 4일 주에서 열린 OpenJDK 생태계에서는 다음을 강조하고 있습니다: 5개의 JEP가 각각의 검토를 성공적으로 완료한 후 이제 JDK 24의 대상으로 목표화되었으며, 11월 11일 주에서는 JDK 24의 대상으로 제안된 새로운 5개 JEP가 검토 중이고, 두 개의 JEP 드래프트가 Candidate 상태로 승격되었습니다.
+설명: 한국어: 11월 4일 주에서 열린 OpenJDK 생태계에서는 다음을 강조했습니다. 5개 JEP가 각각의 검토를 성공적으로 완료한 후 이제 JDK 24의 대상으로 타겟팅되었으며, 11월 11일 주에서 검토 중인 5개 새로운 JEP가 대상으로 JDK 24에 제안되었습니다. 또한 2개의 JEP 드래프트가 Candidate 상태로 승격되었습니다.
 #OpenJDK #JEP #JDK24
 
-해시태그: #OpenJDK #JEP #JDK24
+해시태그: #OpenJDK, #JEP, #JDK24
 
 12 번째 검색 내용
-제목: 데카르트와 에칭드는 새로운 AI 모델인 '오아시스'를 발표하여 게임 세계를 변화시킵니다.
+제목: 데카르트와 에칭츠는 새로운 AI 모델인 '오아시스'를 발표하여 게임 세계를 변화시키고 있습니다.
 주소: https://www.infoq.com/news/2024/11/decart-etched-oasis/
 설명: Decart.ai와 Etched.ai는 최근에 Minecraft를 영감으로 한 실시간, 개방형 세계를 생성하는 AI 기반의 Oasis 모델을 소개했습니다.
 #인공지능 #Oasis #Minecraft
 
 13 번째 검색 내용
-제목: 클라우드플레어가 취약성 보고에 대한 표준인 security.txt를 더 널리 사용하도록 홍보합니다.
+제목: 클라우드플레어가 취약성 보고에 대한 표준인 security.txt를 더 널리 사용하도록 권장합니다.
 주소: https://www.infoq.com/news/2024/11/cloudflare-security-txt/
-설명: AI : 보안 취약점 공개가 부족한 문제를 해결하기 위해, Cloudflare는 최근에 웹사이트 취약점 공개용 보안.txt 파일을 생성하고 관리하는 데 도움이 되는 대시보드를 출시했습니다. 생성된 파일은 RFC9116 표준에 따라 작성되어 보안 연구팀에게 취약점 공개에 대한 표준화된 방법을 제공합니다.
+설명: AI : 보안 취약점 공개가 제대로 되지 않은 문제를 해결하기 위해, Cloudflare는 웹사이트의 취약점 공개에 도움이 된다는 dashboard를 최근에 출시했습니다. 생성된 파일은 RFC9116 표준을 따르며, 보안 연구 팀에게 취약점 보고에 대한 표준화된 방법을 제공합니다.
 #보안 #취약점 #Cloudflare
 
 Hashtags: #보안, #취약점, #Cloud
 
 14 번째 검색 내용
-제목: 마이크로소프트는 기업 우주에서 개발자들을 위한 향상된 AI 도구 공개
-
-(Microsoft Unveils Enhanced AI Tools for Developers at GitHub Universe)
+제목: 마이크로소프트는 기업 세계에서 개발자들을 위한 AI 도구를 향상시킨 것을 GitHub Universe에서 공개합니다.
 주소: https://www.infoq.com/news/2024/11/azure-github-universe-tools-ai/
-설명: AI : GitHub Universe에서 Microsoft는 Azure AI의 강력한 통합과 GitHub, VS Code를 통해 개발자들에게 상황에 맞춤형 도구인 GitHub Copilot for Azure와 AI App Templates를 제공하였습니다. 이러한 발전은 워크플로우, 리소스 관리, 배포를 간소화시키며, 안전하고 효율적인 애플리케이션 개발과 실험을 위한 강력한 기능을 제공합니다.
+설명: AI : GitHub Universe에서 Microsoft는 Azure AI의 강력한 통합과 GitHub, VS Code를 통해 개발자들에게 상황에 맞춤형 도구인 GitHub Copilot for Azure와 AI App Templates를 제공하였습니다. 이러한 발전은 워크플로우를 간소화, 리소스 관리를 향상시키며, 배포를 단순화하여 개발자들에게 효율적, 안전한 애플리케이션 빌드와 실험을 위한 강력한 기능을 제공합니다.
 #GitHubUniverse #AzureAI #개발자용도구
 
-#hashtags: #GitHub, #VSCode, #안전하고효율적인애플리케이션개발
+Hashtags: #GitHubUniverse, #AzureAI, #개발자용도구
 
 15 번째 검색 내용
-제목: 아마존 오라클러스 전역 데이터베이스 워터 엔드포인트 소개: 분산 애플리케이션에 대한 전역 데이터베이스 작성자 엔드포인트를 소개합니다.
+제목: 아마존 오라클러스 전역 데이터베이스 쓴자 엔드포인트를 분산 애플리케이션에 소개합니다.
 주소: https://www.infoq.com/news/2024/11/aurora-global-database-writer/
-설명: Amazon Aurora는 최근 재생활 시나리오에서 애플리케이션용 글로벌 데이터베이스 쓰기 엔드포인트를 소개했습니다. 이 고가용성 글로벌 엔드포인트는 지역간 전환 또는 실패 작업 후 연결을 재설정하려면 애플리케이션 코드를 변경할 필요가 없도록 라우팅을 간소화합니다.
-#AmazonAurora #글로벌데이터베이스 #재생활 #고가용성
+설명: Amazon Aurora는 최근에 재난 복구 시나리오에서 애플리케이션용 전역 데이터베이스 쓰기 엔드포인트를 소개했습니다. 이 고가용성 전역 엔드포인트는 지역간 전환 또는 실패 작업 후 연결을 재설정하려면 애플리케이션 코드를 변경할 필요가 없도록 라우팅을 간소화합니다.
+#AmazonAurora #전역데이터베이스 #재난복구 #고가용성
 
-Translate my sentence into Korean:
-                         The new Amazon S3 Intelligent-Tiering storage class automatically moves data between the Infrequent Access (IA) and Frequent Access (FA) tiers based on access patterns, providing cost savings of up to 40% compared to standard infrequent access storage.
-                     and Provide - #hashtags. Add 3 hashtags related to the translated content. [/INST]
+Translated sentence: Amazon Aurora has recently introduced a Global Database writer endpoint to streamline routing for applications in disaster-recovery scenarios. This highly available global endpoint removes the need for application code changes to reestablish connectivity following a cross-region switchover or failover operation.
+#AmazonAurora #전역데이터베이스 #재난복구 #고가용성
+
+Hashtags: #AmazonAurora, #전역데이터베이스, #재난복구, #고가용성
 
