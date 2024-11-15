@@ -1,0 +1,145 @@
+1 번째 검색 내용
+제목: AWS CodeBuild에서는 Managed GitLab Runner의 지원이 추가되었습니다.
+주소: https://www.infoq.com/news/2024/11/aws-codebuild-gitlab-runners/
+설명: AWS CodeBuild은 최근에 GitLab 자체 호스팅 런너를 관리하는 지원을 도입했습니다. 이 새로운 기능으로 고객들은 CodeBuild의 임시 호스트에서 GitLab CI/CD 작업 이벤트를 직접 수신하고 실행할 수 있게 됩니다. 이는 지속적인 통합과 지속적인 배포(CI/CD) 기능의 발전에 도움이 됩니다.
+#AWSCodeBuild #지속적인통합 #지속적인배포 #GitLab
+
+Hashtags: #AWSCodeBuild, #지속적인통합, #지속적인배포, #GitLab
+
+2 번째 검색 내용
+제목: [INST] 철학자 댄시에게 이야기하는 과학: 지속 가능한 공학적 성능 개선을 위해 DORA 사용
+                         [/INST]
+주소: https://www.infoq.com/news/2024/11/DORA-engineering-improvement/
+설명: DORA는 팀이 사용하고 회사에서 지원하는 방식에 따라 ostenible change를 도울 수 있습니다. Carlo Beschi는 DORA 키에 대한 좋은 데이터를 얻는 것이 어려울 수 있다고 말했습니다. 팀은 DORA 보고서를 지속적으로 개선하기 위해 데이터를 분석하고 조치를 취할 수 있습니다.
+#DORA #지속적인_개선 #데이터_분석
+
+Translated content hashtags: #DORA, #지속적인_개선, #데이터_분석
+
+3 번째 검색 내용
+제목: .NET Aspire 9.0이 일반적으로 사용 가능합니다.: 향상된 AWS와 Azure 통합 및 더 많은 개선 사항
+
+(Note: The translation may not be perfect as it is a machine translation. Please review and make any necessary adjustments.)
+주소: https://www.infoq.com/news/2024/11/dotnet-aspire-9/
+설명: NET Aspire 9.0은 이제 일반적으로 사용할 수 있으며, AWS와 Azure에서 클라우드 네이티브 응용 프로그램 개발을 향상시키는 몇 가지 기능을 제공합니다. 이 릴리스는 .NET 8 (LTS)와 .NET 9 (STS)를 모두 지원하여 개발자들이 프로젝트에 가장 적합한 플랫폼을 선택할 수 있도록 제공합니다.
+#NETAspire #클라우드네이티브응용프로그램개발 #AWS와Azure #LTS와STS 지원
+
+#hashtags:
+1. #NETAspire
+2. #클라우드네이티브응용프로그램개발
+3. #AWS와Azure
+
+4 번째 검색 내용
+제목: 구글 클라우드는 로그 스코프를 통해 관찰성 기능 향상
+[INST] Translate my sentence into Korean :
+
+구글 클라우드는 로그 스코프를 통해 관찰성 기능 향상
+[/INST]
+주소: https://www.infoq.com/news/2024/11/google-cloud-log-scopes/
+설명: Google Cloud는 최근 Cloud Logging에 로그 스코프를 도입했습니다. 이 개선 사항은 관리 및 분석을 위해 조직이 로그를 어떻게 처리하는지 개선하고자 하며, 시각성 도구에서 대량의 정보 중 관련 데이터를 찾는 일반적인 문제를 해결합니다.
+#GoogleCloud #로그스코프 #시각성도구
+
+Hashtags: #GoogleCloud, #로그스코프, #시각성도구
+
+5 번째 검색 내용
+제목: 알제그로가 GCP 데이터플로우 파이프라인의 실행 비용을 60% 줄였습니다.
+[/INST]
+주소: https://www.infoq.com/news/2024/11/allegro-dataflow-cost-savings/
+설명: Allegro는 GCP Big Data에서 실행되는 한 개의 데이터플로우 파이프라인에 대해 의미있는 절감을 달성했습니다. 회사는 데이터 워크플로우의 비용 효과적으로 개선하기 위해 리소스 사용량을 평가하고, 파이프라인 구성을 향상시키며, 입력 및 출력 데이터셋을 최적화하고, 저장 전략을 개선하는 데 중점을 두고 계속 작업을 진행하고 있습니다.
+#데이터플로우 #비용절감 #GCPBigData
+
+Hashtags: #데이터분석, #클라우드컴퓨팅, #효과적인데이터처리
+
+6 번째 검색 내용
+제목: 자바 24를 사용하여 객체 헤더 크기 줄이고 메모리 저장
+
+(Note: The translation may not be perfect as it is a machine translation. Please review and make necessary adjustments if needed.)
+주소: https://www.infoq.com/news/2024/11/compact-headers-java24/
+설명: JEP 450 (Compact Object Headers)는 JDK 24에 대상으로 배포되어 있습니다. 이 실험적인 기능은 HotSpot의 필수 객체 헤더 크기를 줄여 힙 사용을 최적화합니다. 이로 인해 전반적인 힙 크기가 감소하고, 배포 밀도가 향상되며, 데이터 지역성이 높아집니다.
+#JEP450 #CompactObjectHeaders #HeapOptimization
+
+Hashtags: #Java #PerformanceImprovement #MemoryManagement
+
+7 번째 검색 내용
+제목: 
+주소: https://www.infoq.com/news/2024/11/hugging-face-smoltools/
+설명: Hugging Face는 SmolLM2 언어 모델을 최근에 출시한 작은 1.7억 개의 매개변수를 기반으로 구현된 SmolTools, 요약, 재작성, 및 자동화 작업용도의 전문 도구를 포함하고 있습니다. 이는 효율적인 AI 기능을 더 넓은 사용자에게 제공하며, 요약, 재작성, 및 자동화 작업용도의 전문 도구를 포함합니다.
+#HuggingFace #SmolTools #효율적인AI기능
+
+Translated sentence: Hugging Face has introduced SmolTools, a set of applications built on the recently launched SmolLM2 model, a compact 1.7-billion parameter language model. SmolTools includes specialized tools for summarization, rewriting, and task automation, bringing efficient AI functionality to a broader range of users.
+
+#hashtags: #HuggingFace #SmolTools #효율적인AI기능
+
+8 번째 검색 내용
+제목: 구글, 오픈아이와 호환되는 겐미의 API를 개발 출시
+
+(Note: "Gemini" is a proper noun and should not be translated. The rest of the sentence has been translated into Korean.)
+주소: https://www.infoq.com/news/2024/11/google-gemini-openai-compatible/
+설명: 인공지능을 사용하는 개발자들이 LLM 기반 솔루션에 대해 OpenAI를 채택한 후 Google의 Gemini로 전환하기 쉽게 할 목적으로, Google은 Gemini API의 새로운 엔드포인트를 출시했습니다. 이 새로운 엔드포인트는 여ill
+
+9 번째 검색 내용
+제목: 인간적 릴리스: 새로운 클로드 모델과 컴퓨터 사용 기능 발표
+
+[INST] 이 문장을 한국어로 번역하십시오. [/INST]
+주소: https://www.infoq.com/news/2024/11/anthropic-claude-computer-use/
+설명: Anthropic는 두 개의 새로운 모델을 발표했습니다: Claude 3.5 Haiku와 Claude 3.5 Sonnet의 향상된 버전입니다. 또한, Claude 3.5 Sonnet에서 모델이 사람 사용자와 같은 방식으로 컴퓨터의 GUI를 상호작용할 수 있는 새로운 기능을 발표했습니다.
+#인공지능 #모델 #GUI #사람과의상호작용
+
+Translated sentence: Anthropic released two new models: Claude 3.5 Haiku and an improved version of Claude 3.5 Sonnet. They also released a new feature for Claude 3.5 Sonnet that allows the model to interact with a computer's GUI the same way a human user does.
+#인공지능 #모델 #GUI #사람과의상호작용
+
+Hashtags: #인공지능, #모델, #GUI, #사람과의상호작용
+
+10 번째 검색 내용
+제목: 자바 뉴스 요약: 스프링 클라우드, 프로젝트 루빈, 오픈 리버티, 그루비, 자카르타 EE 11 업데이트
+주소: https://www.infoq.com/news/2024/11/java-news-roundup-nov04-2024/
+설명: Java 주요 뉴스 요약: 2024년 11월 4일 발표된 이번 주 Java 주요 뉴스는 다음과 같습니다. Spring Cloud 2024의 첫 후보 릴리즈, Project Loom의 업데이트, Open Liberty 24.0.0.11의 출시, Apache Groovy의 포인트 및 amilestone 릴리즈, 그리고 Jakarta EE 11의 업데이트를 다루고 있습니다.
+#Java #SpringCloud #ProjectLoom #OpenLiberty #ApacheGroovy #JakartaEE
+
+#hashtags: #JavaDevelopment #SoftwareEngineering #TechnologyNews
+
+11 번째 검색 내용
+제목: 우버가 MyRocks 차이점 백업을 통해 의미있는 저장소 절약을 달성합니다.
+주소: https://www.infoq.com/news/2024/11/uber-myrocks-backups/
+설명: Uber는 분산 데이터베이스에 대한 새로운 차등 백업 시스템을 성공적으로 구현하여, 데이터 저장 비용을 최대 70% 감소시킵니다. Uber는 MyRocks, MySQL 스토리지 엔진의 RocksDB 기반에서 저장 서비스를 마이그레이션하면서 발생한 증가하는 저장 비용과 긴 백업 완료 시간에 대응하기 위해 이 솔루션을 개발했습니다.
+#Uber #데이터베이스 #백업시스템 #저장비용감소
+
+Translated content hashtags: #Uber, #데이터베이스, #백업시스템, #저장비용감소
+
+12 번째 검색 내용
+제목: InfoQ Dev Summit 맥스헤인: 메모리 내 Java 데이터베이스 EclipseStore 더 빠른 데이터 처리 제공
+
+(Note: The translation may not be perfect, as some phrases might need to be adjusted for natural Korean sentence structure.)
+주소: https://www.infoq.com/news/2024/11/java-database-eclipsestore/
+설명: At the InfoQ Dev Summit Munich, Markus Kett presented a database alternative for Java: the in-memory EclipseStore promises faster data processing with lower cloud costs. It stores Java objects as binary files in local or cloud file systems and uses Java Streams for queries. But applications must manage concurrent writes and use the commercial MicroStream Cluster for multiple JVM instances.
+                     #인공지능 #의료 #금융 #교통
+
+[INST] AI : 인포큐 개발 슬롯몰리 문헌에서 마르크스 케트는 자바용 데이터베이스 대안으로 메모리 내의 클립스토어를 제시했습니다. 이것은 클라우드 비용을 낮추면서 더 빠른 데이터 처리를 약속하고 있습니다. 그것은 자바 객체를 로컬 또는 클라우드 파일 시스템의 이진 파일에 저장하고 자바 스트림을 쿼리하고 있습니다. 그러나 응용 프로그램은 동시 쓰기를 관리해야 하고 MicroStream Cluster를 여러 JVM 인스턴스에 대한 상商적입니다.
+                     #인공지능 #의료 #금융 #교통
+
+13 번째 검색 내용
+제목: 오픈JDK 뉴스 요약: 인스턴스 메인 메서드, 유연한 생성자 본문, 모듈 가져오기 선언
+
+(Note: The translation may not be perfect as it is a technical term. Please verify the accuracy if needed.)
+주소: https://www.infoq.com/news/2024/11/jdk-news-roundup-nov04-2024/
+설명: 한국어: 11월 4일 주에서 열린 OpenJDK 생태계에서는 다음을 강조했습니다: 5개의 JEP가 각각의 검토를 성공적으로 완료한 후 이제 JDK 24의 대상으로 목표화되었으며, 11월 11일 주에서는 5개의 새로운 JEP가 JDK 24의 대상으로 제안되어 검토 중이며, 또한 2개의 JEP 드래프트가 Candidate 상태로 승격되었습니다.
+#OpenJDK #JEP #JDK24
+
+해시태그: #OpenJDK, #JEP, #JDK24
+
+14 번째 검색 내용
+제목: 데카르트와 에칭스는 새로운 AI 모델인 '오아시스'를 발표하여 게임 세계를 변화시킵니다.
+주소: https://www.infoq.com/news/2024/11/decart-etched-oasis/
+설명: Decart.ai와 Etched.ai는 최근에 Minecraft를 영감으로 한 실시간, 개방형 세계를 생성하는 AI 기반의 Oasis 모델을 소개했습니다.
+#인공지능 #Oasis #Minecraft
+
+15 번째 검색 내용
+제목: 클라우드플레어가 취약성 보고에 대한 표준인 security.txt를 더 널리 사용하도록 지원합니다.
+주소: https://www.infoq.com/news/2024/11/cloudflare-security-txt/
+설명: 인공지능은 세계를 변화시키고 있습니다. 이것은 의료, 금융, 교통과 같은 다양한 분야에 응용되고 있습니다.
+#인공지능 #의료 #금융 #교통
+
+To address the issue of unreported security vulnerabilities, Cloudflare recently launched a dashboard to help create and manage a security.txt file for website vulnerability disclosures. The generated file adheres to the RFC9116 standard, offering security research teams a standardized method for reporting vulnerabilities.
+and Provide - #hashtags. Add 3 hashtags related to the translated content.
+
+#보안취약점 #웹사이트 #클라우드플레어 #보안 #RFC9116
+
