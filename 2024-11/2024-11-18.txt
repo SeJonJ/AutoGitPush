@@ -1,65 +1,76 @@
 1 번째 검색 내용
-제목: 메타는 NotebookLlama: PDF를 포디캐스트로 변환하는 오픈소스 도구 키트를 발표합니다.
+제목: 자바 뉴스 요약: Spring Framework 6.2, OpenJDK JEPs, Micronaut 4.7, Gradle 8.11
+주소: https://www.infoq.com/news/2024/11/java-news-roundup-nov11-2024/
+설명: AI : 이번 주의 Java 뉴스 요약은 2024년 11월 11일에 발표된 것으로, 다음 내용을 포함합니다: Spring Framework 6.2.0의 출시; JDK 24에 대상되는 네 개의 JEP; JDK 24에 대상될 두 개의 새로운 JEP 제안; 세 개의 새로운 JEP 후보; 그리고 Micronaut 4.7.0과 Gradle 8.11.0의 출시.
+#Java #뉴스요약 #SpringFramework #Micronaut #Gradle
+
+Hashtags: #Java #Rundown #SpringFramework6.2.0 #Micronaut4.7.0 #Gradle8.11.0
+
+2 번째 검색 내용
+제목: KubeCon + CloudNativeCon NA 2024: 주요 발표 및 프로젝트 업데이트
+주소: https://www.infoq.com/news/2024/11/kubecon-cloudnativecon-na-2024/
+설명: 인공지능 : 지난 주에는 셀트 레이크 시티, 유타에서 KubeCon + CloudNativeCon North America 2024에 참석한 클라우드 네이티브 커뮤니티입니다. 실무자, 기술 리더, 제조업체들은 클라우드 네이티브 컴퓨팅을 정의하는 최신 혁신 및 기술을 탐색했습니다.
+#클라우드네이티브 #KubeCon #CloudNativeCon
+
+Hashtags: #클라우드네이티브, #KubeCon, #CloudNativeCon
+
+3 번째 검색 내용
+제목: 메타는 NotebookLlama: PDF를 포드캐스트로 변환하는 오픈소스 도구 키트를 출시합니다.
 주소: https://www.infoq.com/news/2024/11/meta-notebook-llama/
-설명: Meta는 PDF 문서를 팟캐스트로 변환하는데 사용되는 열린 소스 도구 키트인 NotebookLlama를 발표했습니다. 개발자들에게 텍스트를 오디오 콘텐츠로 변환하는 구조화된, 접근성이 있는 PDF-to-audio 워크플로우를 제공합니다. Google의 NotebookLM에 대한 열린 대안으로, NotebookLlama는 사용자를 4단계 과정을 통해 PDF 텍스트를 오디오 콘텐츠로 변환합니다.
+설명: Meta는 PDF 문서를 팟캐스트로 변환하는데 사용되는 열람형 오픈소스 도구킷 NotebookLlama를 발표했습니다. 개발자들에게 구조화된, 접근성이 높은 PDF-to-audio 워크플로우를 제공하는 Google의 NotebookLM의 오픈소스 대안으로써, NotebookLlama는 사용자를 4단계 과정을 통해 PDF 텍스트를 오디오 콘텐츠로 변환합니다.
 #인공지능 #PDF #오디오 #NotebookLlama
 
 #hashtags: #AI #PDFtoAudio #NotebookLlamaAlternative
 
-2 번째 검색 내용
+4 번째 검색 내용
 제목: [INST] 2024년 GitHub Universe에서 AI 혁신과 개발자 중심의 도구 공개
 [/INST]
 주소: https://www.infoq.com/news/2024/11/github-universe-2024-ai/
-설명: AI : 2024년 GitHub Universe에서 개발자의 독립성과 AI 기능을 강조한 혁신적인 업데이트가 공개되었습니다. Copilot에 대한 다양한 모델 지원, AI 주도형 GitHub Spark의 소개, 보안 기능의 향상, 인기 IDE의 작업 흐름 개선 등을 통해 GitHub는 코딩을  democratize하고 다양한 스킬 수준의 개발자에게 AI의 전체적인 가능성을 활용할 수 있도록 지원하려고 합니다.
-#GitHubUniverse2024 #개발자독립성 #AI기능강조 #코딩데모크라시화
+설명: AI : 2024년 GitHub Universe에서 개발자의 독립성과 AI 기능을 강조한 혁신적인 업데이트가 공개되었습니다. Copilot에 대해 다양한 모델 지원, AI 주도형 GitHub Spark의 소개, 보안 기능의 향상, 인기 IDE의 작업 흐름 개선 등을 통해 GitHub는 코딩을 민족화하고 다양한 스킬 수준의 개발자에게 AI의 전체적인 능력을 활용할 수 있도록 지원하려고 합니다.
+#GitHubUniverse2024 #코딩민족화 #AI기능강조 #개발자독립성
 
-Hashtags: #GitHubUniverse2024, #개발자독립성, #AI기능강조, #코딩데모크라시화
+Hashtags: #GitHubUniverse2024, #코딩민족화, #AI기능강조, #개발자독립성
 
-3 번째 검색 내용
-제목: 네이티브 벡터 지원이 공개 미리 보기에서 Azure SQL Database에 추가되었습니다.
+5 번째 검색 내용
+제목: 네이티브 벡터 지원을 포함한 Azure SQL Database의 공개 미리 보기입니다.
 주소: https://www.infoq.com/news/2024/11/native-vector-support-azure-sql/
-설명: Azure SQL Database는  native vector 저장과 처리를 지원하며, AI 개발을 간소화하고 SQL 쿼리에서 벡터 검색을 통합함으로써. 이 업데이트는 데이터 관리를 단순화하고, 데이터 분석을 향상시키며, 데이터 이동을 제거함으로써 성능을 높임. 다양한 응용에 적합하며, e-commerce와 healthcare 등의 분야를 고급 컨텍스트 인식 기능으로 힘끼게 함.
+설명: Azure SQL Database는  native vector 저장과 처리를 지원하며, AI 개발을 간소화하고 SQL 쿼리에 벡터 검색을 통합함으로써. 이 업데이트는 데이터 관리를 단순화하고, 데이터 분석을 향상시키며, 데이터 이동을 제거함으로써 성능을 높임. 다양한 응용에 적합하며, e-commerce와 healthcare 등의 분야를 고급 컨텍스트 인식 기능으로 힘끼게 함.
 #AzureSQLDatabase #벡터처리 #AI개발 #데이터분석
 
-#hashtags: #인공지능 #데이터베이스 #성능향상 #e-commerce #건강보호
+#hashtags: #인공지능 #데이터베이스 #성능향상 #e-commerce #건강관리
 
-4 번째 검색 내용
+6 번째 검색 내용
 제목: 앤젬론Q가 인라인 채팅 지원을 Visual Studio Code와 JetBrains IDE에 추가합니다.
 주소: https://www.infoq.com/news/2024/11/amazon-q-inline-chat/
-설명: AWS는 Amazon Q Developer가 인라인 채팅을 지원하고 있음을 최근에 발표했습니다. 이로 인해 개발자들은 편집기 내에서 코드 문제를 토론하고 해결할 수 있습니다. Claude 3.5을 사용하여 이 기능을 힘입어 비주얼 스튜디오 코드와 제트브레인 IDE에서 사용할 수 있습니다.
+설명: AWS는 Amazon Q Developer가 인라인 채팅을 지원하고 있음을 최근에 발표했습니다. 이로 인해 개발자들은 에디터 내에서 코드 문제를 토론하고 해결할 수 있습니다. Claude 3.5을 사용하여 이 기능을 힘입어 비주얼 스튜디오 코드와 제트브레인 IDE에서 사용할 수 있습니다.
 #AWS #AmazonQDeveloper #인라인채팅 #코드문제해결
 
 #hashtags:
 1. #AWS
 2. #AmazonQDeveloper
-3. #코드문제해결
-
-Translated sentence: AWS recently announced that Amazon Q Developer now supports inline chat, enabling developers to discuss and resolve code issues directly within the editor. Combining the benefits of in-IDE chat with the ability to directly update codes, this feature is powered by Claude 3.5 and available in Visual Studio Code and JetBrains IDEs.
-#hashtags:
-1. #AWS
-2. #AmazonQDeveloper
 3. #인라인채팅 #코드문제해결
 
-5 번째 검색 내용
-제목: 생각작업기술 라더 Oct 2024 - 코딩 도움을 받아서부터 AI 진화까지
+7 번째 검색 내용
+제목: 생각작업기술 라더 Oct 2024 - 코딩 도움을 받아서부터 AI 발전
 [INST] Translate my sentence into Korean :
 
                             Thoughtworks Technology Radar Oct 2024 - From Coding Assistance to AI Evolution
                          [/INST]
 주소: https://www.infoq.com/news/2024/11/thoughtworks-tech-radar-oct-2024/
-설명: Thoughtworks는 최근 기술 라더 볼륨 31을 발표했습니다, 현재 기술 경로에 대한 주관적인 가이드를 제공합니다. 기술 라더에 따르면, 생성형 AI와 큰 언어 모델(LLM)이 지배적인 상황입니다. 그들의 책임 있는 사용을 위한 소프트웨어 개발에 집중하고 있으며, AI 기능 코딩 도구는 발전하고 있어서 인간 전문가와의 균형을 유지해야 합니다.
+설명: Thoughtworks는 최근 기술 라더 볼륨 31을 발표했습니다, 현재 기술 경로에 대한 주관적인 가이드를 제공합니다. 기술 라더에 따르면, 생성형 AI와 대규모 언어 모델(LLM)이 지배적인 상황입니다. 그들의 책임 있는 사용을 위한 소프트웨어 개발에 집중하고 있으며, AI 기능이 강화되면서 인간 전문가와의 균형을 유지해야 합니다.
 #인공지능 #생성형AI #소프트웨어개발
 
-#hashtags: #인공지능, #생성형AI, #소프트웨어개발
+Translated content hashtags: #인공지능, #생성형AI, #소프트웨어개발
 
-6 번째 검색 내용
-제목: AWS 앰플리파이와 아마존 S3 통합을 사용하면 정적 웹사이트 호스팅이 간단해진다.
+8 번째 검색 내용
+제목: AWS 앰플리파이와 아마존 S3 통합을 통해 정적 웹사이트 호스팅이 간소화됩니다.
 주소: https://www.infoq.com/news/2024/11/aws-s3-static-website-hosting/
-설명: AWS는 Amplify Hosting과 S3 간의 손쉬운 통합을 시작하여, 정적 웹사이트 배포를 혁신시키였습니다. 이 강력한 솔루션은 개발자들이 웹사이트를 빠르게 게시하고, 사용자 정의 도메인을 구성하며, 업데이트를 간편하게 관리할 수 있습니다. Amazon의 글로벌 CDN에 의해 보호되며, 복잡한 설정 없이 빠르고 안전한 호스팅을 즐기실 수 있습니다. 성능과 효율성을 최적화하여 사용할 수 있습니다.
-#AWS #AmplifyHosting #S3 #정적웹사이트배포 #호스팅
-#hashtags: #클라우드컴퓨팅 #웹개발 #퍼포먼스와효율성
+설명: AWS는 Amplify Hosting과 S3 간의 손쉬운 통합을 시작하여, 정적 웹사이트 배포를 혁신시키였습니다. 이 강력한 솔루션은 개발자들이 웹사이트를 빠르게 게시하고, 사용자 정의 도메인을 구성하며, 업데이트를 간편하게 관리할 수 있도록 지원하며, Amazon의 전세계적인 CDN에 의해 보호됩니다. 복잡한 설정 없이 빠르고 안전한 호스팅을 즐기실 수 있으며, 성능과 효율성에 최적화되었습니다.
+#AWS #AmplifyHosting #S3 #정적웹사이트배포 #CDN
 
-7 번째 검색 내용
+#hashtags: #AWS #AmplifyHosting #S3 #정적웹사이트배포 #CDN
+
+9 번째 검색 내용
 제목: 새로운 "법률"이 iSAQB 소프트웨어 아키텍처 회의에서 발표되었습니다.
 주소: https://www.infoq.com/news/2024/11/laws-software-architecture/
 설명: During a panel discussion on Tuesday evening at the iSAQB Software Architecture Gathering in Berlin, the topic of complexity in software led to a few eponymous "laws" to be proclaimed by Gregor Hohpe, Chris Richardson, and Diana Montalion.
@@ -69,33 +80,30 @@ Translate my sentence into Korean:
 During a panel discussion on Tuesday evening at the iSAQB Software Architecture Gathering in Berlin, the topic of complexity in software led to a few eponymous "laws" to be proclaimed by Gregor Hohpe, Chris Richardson, and Diana Montalion.
                      #iSAQB #소프트웨어 복잡성 #베를린
 
-Translate my sentence into Korean:
-During a panel discussion on Tuesday evening at the iSAQB Software Architecture Gathering in Berlin, the topic of complexity in software led to a few eponymous "laws" to be proclaimed by Gregor Hohpe, Chris Richardson, and Diana Montalion.
+Translate my sentence into Korean: During a panel discussion on Tuesday evening at the iSAQB Software Architecture Gathering in Berlin, the topic of complexity in software led to a few eponymous "laws" to be proclaimed by Gregor Hohpe, Chris Richardson, and Diana Montalion.
                      #iSAQB #소프트웨어 복잡성 #베를린
 
-8 번째 검색 내용
-제목: AWS CodeBuild에서 관리형 GitLab 런너 지원 추가
-
-(Note: The translation may not be perfect as it is a technical term. Please verify the accuracy if needed.)
+10 번째 검색 내용
+제목: AWS CodeBuild에서는 관리형 GitLab 런너 지원이 추가되었습니다.
 주소: https://www.infoq.com/news/2024/11/aws-codebuild-gitlab-runners/
-설명: AWS CodeBuild는 최근에 GitLab 자체 호스팅 런너를 관리하는 지원을 도입했습니다. 이 새로운 기능으로 고객들은 CodeBuild의 임시 호스트에서 GitLab CI/CD 작업 이벤트를 직접 수신하고 실행할 수 있게 됩니다. 이는 지속적 통합과 지속적 전달(CI/CD) 기능의 발전에 도움이 됩니다.
-#AWSCodeBuild #지속적통합 #지속적전달 #GitLab
+설명: AWS CodeBuild는 최근에 GitLab 자체 호스팅 런너를 관리하는 지원을 도입했습니다. 이 새로운 기능으로 고객들은 CodeBuild의 임시 호스트에서 GitLab CI/CD 작업 이벤트를 직접 수신하고 실행할 수 있게 됩니다. 이는 지속적인 통합(CI)과 지속적인 배포(CD) 기능의 발전에 도움이 됩니다.
+#AWSCodeBuild #지속적인통합 #지속적인배포 #GitLab
 
-Hashtags: #AWSCodeBuild, #지속적통합, #지속적전달, #GitLab
+Hashtags: #AWSCodeBuild, #지속적인통합, #지속적인배포, #GitLab
 
-9 번째 검색 내용
+11 번째 검색 내용
 제목: [INST] 철학자 댈로리안의 이름을 사용하여 지속가능한 공학적 성능 개선에 대해 번역합니다.
                          [/INST]
 주소: https://www.infoq.com/news/2024/11/DORA-engineering-improvement/
-설명: DORA는 팀이 사용하고 회사에서 지원하는 방식에 따라 ostenible change를 도움이 될 수 있습니다. Carlo Beschi는 DORA key의 좋은 데이터를 얻는 것이 어려울 수 있다고 말했습니다. 팀은 DORA 보고서를 지속적으로 개선하기 위해 데이터를 분석하고 조치를 취할 수 있습니다.
-#DORA #지속적인개선 #데이터분석
+설명: DORA는 팀이 사용하고 회사에서 지원하는 방식에 따라 ostenible change를 도울 수 있습니다. Carlo Beschi는 DORA 키에 대한 좋은 데이터를 얻는 것이 어려울 수 있다고 말했습니다. 팀은 DORA 보고서를 지속적으로 개선하기 위해 데이터를 분석하고 조치를 취할 수 있습니다.
+#DORA #지속적인_개선 #데이터_분석
 
-Hashtags: #DORA, #지속적인개선, #데이터분석
+Translated content hashtags: #DORA, #지속적인_개선, #데이터_분석
 
-10 번째 검색 내용
+12 번째 검색 내용
 제목: .NET Aspire 9.0이 일반적으로 사용 가능합니다.: 향상된 AWS와 Azure 통합 및 더 많은 개선 사항
 
-(Note: The translation may not be perfect as some phrases might not have a direct equivalent in Korean. Please review the translation for accuracy.)
+(Note: The translation may not be perfect as it is a machine translation. Please review and make any necessary adjustments.)
 주소: https://www.infoq.com/news/2024/11/dotnet-aspire-9/
 설명: NET Aspire 9.0은 이제 일반적으로 사용할 수 있으며, AWS와 Azure에서 클라우드 네이티브 응용 프로그램 개발을 향상시키는 몇 가지 기능을 제공합니다. 이 릴리스는 .NET 8 (LTS)와 .NET 9 (STS)를 모두 지원하여 개발자들이 프로젝트에 가장 적합한 플랫폼을 선택할 수 있도록 제공합니다.
 #NETAspire #클라우드네이티브응용프로그램개발 #AWS와Azure #LTS와STS
@@ -105,49 +113,33 @@ Hashtags: #DORA, #지속적인개선, #데이터분석
 2. #클라우드네이티브응용프로그램개발
 3. #AWS와Azure
 
-11 번째 검색 내용
-제목: 구글 클라우드는 로그 스코프를 사용하여 관찰성 기능 향상
-[INST] Translate my sentence into Korean :
+13 번째 검색 내용
+제목: 구글 클라우드는 로그 스코프를 통해 관찰성 기능 향상
 
-구글 클라우드는 로그 스코프를 사용하여 관찰성 기능 향상
-[/INST]
+(Note: The translation may not be perfect as it is a machine translation. Please check the accuracy before using it.)
 주소: https://www.infoq.com/news/2024/11/google-cloud-log-scopes/
-설명: Google Cloud는 최근 Cloud Logging에 로그 스코프를 도입했습니다. 이 개선 사항은 관리 및 분석을 위해 조직이 로그를 어떻게 처리하는지 개선하고자 하며, 시각성 도구에서 대량의 정보 중 관련 데이터를 찾는 일반적인 문제를 해결합니다.
-#GoogleCloud #로그스코프 #시각성도구
+설명: Google Cloud는 최근 Cloud Logging에 로그 스코프를 도입했습니다. 이 개선 사항은 관리 및 분석을 위해 기업이 로그 도구의 거대한 양의 정보 중 관련 데이터를 찾는 일반적인 문제에 대응합니다.
+#GoogleCloud #CloudLogging #로그스코프 #로그분석
 
-#hashtags: #GoogleCloud #로그스코프 #시각성도구
+#hashtags: #기업 #관리 #분석 #로그도구 #observability #도입 #개선사항
 
-12 번째 검색 내용
-제목: 알레그로가 GCP 데이터플로우 파이프라인 실행 비용을 60% 줄였습니다.
-[INST] How Allegro Reduced the Cost of Running a GCP Dataflow Pipeline by 60% [/INST]
+14 번째 검색 내용
+제목: 알레그로가 GCP 데이터플로우 파이프라인의 실행 비용을 60% 줄였는 방법
+
+(Note: The translation may not be perfect as it is a machine translation. Please review and make any necessary adjustments.)
 주소: https://www.infoq.com/news/2024/11/allegro-dataflow-cost-savings/
-설명: Allegro는 GCP Big Data에서 실행되는 하나의 데이터 파이프라인에 대한 유의미한 절약을 달성했습니다. 회사는 데이터 워크플로우의 비용 효과적으로 개선하기 위해 리소스 사용량을 평가하고, 파이프라인 구성을 향상시키며, 입력 및 출력 데이터셋을 최적화하고, 저장 전략을 개선하는 작업을 계속 수행 중입니다.
-
+설명: Allegro는 GCP Big Data에서 실행되는 하나의 Dataflow Pipeline에 대한 의미있는 절약을 이룩했습니다. 회사는 데이터 워크플로우의 비용 효과적인 개선을 위해 리소스 사용량을 평가하고, 파이프라인 구성을 향상시키며, 입력 및 출력 데이터셋을 최적화하고, 저장 전략을 개선하는 작업을 계속 수행 중입니다.
 #데이터워크플로우 #비용효과적 #GCPBigData
 
-13 번째 검색 내용
+Hashtags: #데이터분석 #클라우드컴퓨팅 #데이터처리
+
+15 번째 검색 내용
 제목: 자바 24를 사용하여 객체 헤더 크기 줄이고 메모리 저장
 
 (Note: The translation may not be perfect as it is a machine translation. Please review and make necessary adjustments if needed.)
 주소: https://www.infoq.com/news/2024/11/compact-headers-java24/
-설명: JEP 450 (Compact Object Headers)는 JDK 24에 대상으로 배포되어 있습니다. 이 실험적인 기능은 HotSpot의 필수 객체 헤더 크기를 줄여 힙 사용을 최적화합니다. 이로 인해 전반적인 힙 크기가 감소하고, 배포 밀도가 향상되며, 데이터 지역성이 높아집니다.
+설명: JEP 450 (Compact Object Headers)는 JDK 24에 대상으로 배포되어 있습니다. 이 실험적인 기능은 HotSpot의 필수 객체 헤더 크기를 줄여 힙 사용을 최적화합니다. 이로 인해 전반적인 힙 크기가 감소하고, 배포 밀도가 향상되며, 데이터 지역성이 증가합니다.
 #JEP450 #CompactObjectHeaders #HeapOptimization
 
-#hashtags: #Java #PerformanceImprovement #MemoryManagement
-
-14 번째 검색 내용
-제목: 
-주소: https://www.infoq.com/news/2024/11/hugging-face-smoltools/
-설명: Hugging Face는 SmolLM2 언어 모델을 최근에 출시한 작은 1.7억 개의 매개변수를 기반으로 구현된 SmolTools, 요약, 재작성 및 작업 자동화와 같은 특수 도구를 포함한 집합입니다. 이는 효율적인 AI 기능을 더 넓은 사용자에게 제공하며, 효율적인 AI 기능을 더 넓은 사용자에게 제공합니다.
-#HuggingFace #SmolTools #NLP
-
-Translated content hashtags: #HuggingFace #SmolTools #NLP
-
-15 번째 검색 내용
-제목: 구글, 오픈아이와 호환되는 겐미의 API를 개발 출시합니다.
-주소: https://www.infoq.com/news/2024/11/google-gemini-openai-compatible/
-설명: 인공지능을 사용한 LLM 기반 솔루션에 대해 개발자들이 스위치하기 쉽게 만들기 위해, Google은 OpenAI를 채택한 개발자들이 서비스를 쉽게 전환할 수 있도록 Gemini API의 새로운 엔드포인트를 출시했습니다. 새로운 엔드포인트는 여전히 베타 버전이며 OpenAI 기능의 부분 커버리지만 제공합니다.
-#Google #GeminiAPI #OpenAI
-
-Hashtags: #Google, #GeminiAPI, #OpenAI
+Hashtags: #Java #PerformanceImprovement #MemoryManagement
 
