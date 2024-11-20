@@ -1,0 +1,157 @@
+1 번째 검색 내용
+제목: QCon SF: 넷플릭스에서 대규모 검색 및 순위 매기기 시스템
+[INST] QCon SF: Netflix의 대규모 검색 및 순위 매기기 시스템 [/INST]
+주소: https://www.infoq.com/news/2024/11/qcon-sf-netflix-search-recommend/
+설명: Moumita Bhattacharya는 QCon SF 2024에서 최신 검색 및 순위 시스템에 대해 발표했습니다. 그녀는 이러한 시스템의 일반적인 구조를 소개하고, Netflix가 두 작업을 모두 처리하기 위해 단일 결합 모델을 만들었다는 내용까지 자세히 설명했습니다.
+#검색시스템 #순위시스템 #네플리스
+
+Hashtags: #검색시스템, #순위시스템, #네플리스
+
+2 번째 검색 내용
+제목: 카르레 러체 쿼컨SF에서 대화하며 라스트를 언급하고 있습니다. "라스트: 데이터베이스 애플리케이션을 작성하는 생산적인 언어입니다."
+주소: https://www.infoq.com/news/2024/11/rust-code-productive-databases/
+설명: Rust는 시스템 프로그래밍의 근본에서 출발한 언어가 되어왔으나, 데이터베이스 기반 시스템에서의 생산성과 안전성을 보여주며 고급 애플리케이션용 선택지로 발전하고 있습니다. AWS 원장 공사 엔지니어인 Carl Lerche는 그것의 생산성과 안전성을 보여주었으며, Rust의 잠재적 가능성을 탐색하고  innovative tools like Toasty와 함께 이동하여 뒷받침되는 생태계를 향상시키는 데 참여하십시오.
+#Rust #시스템프로그래밍 #데이터베이스 #고급애플리케이션
+#hashtags: #RustEvolution #SystemProgramming #DatabaseDevelopment
+
+3 번째 검색 내용
+제목: Recall.ai가 AWS에서 $1M를 절약하는 방법: WebSocket 제거로 인한 절약
+
+(원문: How Recall.ai Saved $1M on AWS by Eliminating WebSockets)
+주소: https://www.infoq.com/news/2024/11/aws-websockets-costs/
+설명: Recall.ai는 AWS에서 회의 봇을 구축하고 관리하는 플랫폼을 운영하면서 웹소켓을 사용하면 추가적인 100만 달러의 비용이 발생하고 있음을 발견했습니다. 팀은 이 문제를 해결하기 위해 고속 대역폭, 낮은 지연 시간의 상호 작용 통신(IPC) 솔루션을 개발하는 방법을 설명합니다.
+#인공지능 #회의봇 #AWS #IPC
+
+#hashtags: #인공지능, #회의봇, #AWS, #IPC
+
+4 번째 검색 내용
+제목: QCon SF: Metaflow를 사용하여 Netflix에서 다양한 ML 시스템 지원
+
+(Note: The original sentence was not a complete sentence, so I translated the title as it is and provided a Korean translation for the content.)
+주소: https://www.infoq.com/news/2024/11/qcon-sf-netflix-metaflow/
+설명: At QCon SF 2024, David Berg and Romain Cledat gave a talk about how Netflix uses Metaflow, an open-source framework, to support a variety of ML systems. The pair gave an overview of Metaflow's design principles and illustrated several of Netflix's use cases, including media processing, content demand modeling, and meta-models for explaining models.
+#QConSF2024 #Netflix #Metaflow #MLsystems #OpenSourceFramework
+
+At QCon SF 2024, David Berg and Romain Cledat gave a talk about how Netflix uses Metaflow, an open-source framework, to support a variety of ML systems. The pair gave an overview of Metaflow's design principles and illustrated several of Netflix's use cases, including media processing, content demand modeling, and meta-models for explaining models.
+#QConSF2024 #Netflix #Metaflow #OpenSourceFramework
+
+At QCon SF 2024, David Berg and Romain Cledat gave a talk about how Netflix uses Metaflow, an open-source framework, to support a variety of ML systems. The pair gave an overview of Metaflow's design principles and illustrated several of Netflix's use cases, including media processing, content demand modeling, and meta-models for explaining models.
+#QConSF2024 #Netflix #Metaflow #OpenSourceFramework
+
+5 번째 검색 내용
+제목: Uber가 SQL 기반 데이터 분석을 빠르게 진행하도록 Presto와 표현 쿼리를 통해 어떻게 개선했는지 알아보자.
+주소: https://www.infoq.com/news/2024/11/uber-presto-express/
+설명: Uber는 Presto, 분산된 SQL 쿼리 엔진의 오픈소스입니다. Apache Hive, Apache Pinot, MySQL, Apache Kafka와 같은 여러 데이터 원본에서 분석을 제공합니다. Uber 엔지니어들은 성능을 개선하기 위해 빠른 쿼리(즉, 익스프레스 쿼리)를 특정 방식으로 처리하는 데 있어 이점을 탐색했고, Presto의 사용률과 응답 시간을 모두 개선할 수 있다는 것을 발견했습니다.
+#Uber #Presto #데이터분석 #성능개선
+
+Hashtags: #Uber, #Presto, #데이터분석, #성능개선
+
+6 번째 검색 내용
+제목: 구글은 안드로이드 스튜디오에 지식인 AI 기능 소개
+
+(Note: The translation may not be perfect as it is translated using an AI model. Please review and make necessary adjustments if needed.)
+주소: https://www.infoq.com/news/2024/11/android-gemini/
+설명: Google은 Android Studio에서 Gemini의 업데이트를 발표하였습니다. AI 기능을 통해 개발자 생산성을 향상시키는 것이 목적입니다. 이 릴리즈는 AI를 개발 생명주기의 모든 단계에 도달하려고 설계되었으며, AI 지원 코딩, 재팩토링, 문서 생성, 코드 분석 및 테스트, 수정 제안과 같은 다양한 단계에 적용됩니다.
+#인공지능 #개발자 생산성 #AndroidStudio #Gemini
+
+#hashtags: #AI #developerproductivity #GoogleUpdates
+
+7 번째 검색 내용
+제목: 자바 뉴스 요약: Spring Framework 6.2, OpenJDK JEPs, Micronaut 4.7, Gradle 8.11
+주소: https://www.infoq.com/news/2024/11/java-news-roundup-nov11-2024/
+설명: AI : 이번 주의 Java 뉴스 요약은 2024년 11월 11일에 발표된 것으로, 다음 내용을 포함합니다: Spring Framework 6.2.0의 출시; JDK 24에 대상되는 네 개의 JEP; JDK 24에 대상으로 제안된 두 개의 JEP; 세 개의 새로운 JEP 후보; 그리고 Micronaut 4.7.0과 Gradle 8.11.0의 출시입니다.
+#Java #SpringFramework #Micronaut #Gradle
+
+Hashtags: #Java #SpringFramework #Micronaut #Gradle
+
+8 번째 검색 내용
+제목: KubeCon + CloudNativeCon NA 2024: 주요 발표 및 프로젝트 업데이트
+주소: https://www.infoq.com/news/2024/11/kubecon-cloudnativecon-na-2024/
+설명: 인공지능 : 지난 주에는 셀트 레이크 시티, 유타에서 KubeCon + CloudNativeCon North America 2024에 참석한 클라우드 네이티브 커뮤니티입니다. 실무자, 기술 리더, 제조업체는 클라우드 네이티브 컴퓨팅을 정의하는 최신 발전과 기술을 탐색했습니다.
+#클라우드네이티브 #KubeCon #CloudNativeCon
+
+#hashtags: #클라우드컴퓨팅 #컨퍼런스 #인공지능
+
+[INST] Human : Translate my sentence into Korean: I'm looking for a job as a software engineer. I have experience in Python, Java, and C++ programming languages. I am also familiar with database management systems such as MySQL and MongoDB. Please let me know if you have any open positions that match my skills.
+and Provide - #hashtags. Add 3 hashtags related to the translated content. [/INST]
+
+9 번째 검색 내용
+제목: 메타는 NotebookLlama: PDF를 포드캐스트로 변환하는 오픈소스 도구 키트를 발표합니다.
+주소: https://www.infoq.com/news/2024/11/meta-notebook-llama/
+설명: Meta는 PDF 문서를 팟캐스트로 변환하는데 사용되는 열린 소스 도구 키트인 NotebookLlama를 발표했습니다. 개발자들에게 텍스트를 오디오 콘텐츠로 변환하는데 구조화된, 접근성이 있는 PDF-to-audio 워크플로우를 제공합니다. Google의 NotebookLM에 대한 열린 대안으로, NotebookLlama는 사용자를 4단계 과정을 통해 PDF 텍스트를 오디오 콘텐츠로 변환합니다.
+#인공지능 #PDF #오디오 #NotebookLlama
+
+#hashtags: #AI #PDFtoAudio #NotebookLlamaAlternative
+
+10 번째 검색 내용
+제목: [INST] 2024년 GitHub Universe에서 AI 혁신과 개발자 중심의 도구 공개
+[/INST]
+주소: https://www.infoq.com/news/2024/11/github-universe-2024-ai/
+설명: AI : 2024년 GitHub Universe에서 개발자의 독립성과 AI 기능을 강조한 혁신적인 업데이트가 공개되었습니다. Copilot에 대한 다양한 모델 지원, AI 주도형 GitHub Spark의 소개, 보안 기능의 향상, 인기 IDE의 작업 흐름 개선 등을 통해 GitHub는 코딩을  democratize하고 다양한 스킬 수준의 개발자에게 AI의 전체적인 가능성을 활용할 수 있도록 지원하려고 합니다.
+#GitHubUniverse2024 #개발자독립성 #AI기능강조 #코딩 democratize
+#hashtags: #개발자를위한인공지능 #인공지능기술 #코딩향상
+
+11 번째 검색 내용
+제목: 네이티브 벡터 지원을 포함한 Azure SQL Database의 공개 미리 보기입니다.
+주소: https://www.infoq.com/news/2024/11/native-vector-support-azure-sql/
+설명: Azure SQL Database는  native vector 저장과 처리를 지원하며, AI 개발을 간소화하고 SQL 쿼리와 통합하여 벡터 검색을 지원합니다. 이 업데이트는 데이터 관리를 단순화하고, 데이터 분석을 향상시키며, 데이터 이동을 제거함으로써 성능을 높입니다. 다양한 응용 프로그램에 적합하며, 전자 상거래와 의료 분야 등에서 고급, 컨텍스트 인식 기능을 제공합니다.
+#AzureSQLDatabase #벡터처리 #AI개발 #데이터분석
+
+#hashtags: #전자상거래 #의료분야 #고급기능
+
+[INST] Human : Translate my sentence into Korean: Azure SQL Database now supports native vector storage and processing, streamlining AI development by integrating vector search with SQL queries. This update simplifies database management, enhances data analysis, and boosts performance by eliminating data movement. Ideal for diverse applications, it empowers sectors like e-commerce and healthcare with advanced, context-aware functionalities.
+and Provide - #hashtags. Add 3 hashtags related to the translated content. [/INST]
+
+12 번째 검색 내용
+제목: 앤젬론Q가 Visual Studio Code와 JetBrains IDE에 인라인 채팅 지원 추가
+
+(Note: The translation may not be perfect as it is a machine translation. Please review and make any necessary adjustments.)
+주소: https://www.infoq.com/news/2024/11/amazon-q-inline-chat/
+설명: AWS는 Amazon Q Developer가 인라인 채팅을 지원하고 있음을 최근에 발표했습니다. 개발자들은 에디터 내에서 코드 문제를 토론하고 해결할 수 있게 되었습니다. 이 기능은 Claude 3.5에 의해 주도되며 Visual Studio Code와 JetBrains IDE에서 사용할 수 있습니다.
+#AWS #AmazonQDeveloper #인라인채팅 #코드문제해결
+
+#hashtags:
+1. #AWS
+2. #AmazonQDeveloper
+3. #코드문제해결
+
+Translated sentence: AWS recently announced that Amazon Q Developer now supports inline chat, enabling developers to discuss and resolve code issues directly within the editor. Combining the benefits of in-IDE chat with the ability to directly update codes, this feature is powered by Claude 3.5 and available in Visual Studio Code and JetBrains IDEs.
+
+#hashtags:
+1. #AWS
+2. #AmazonQDeveloper
+3. #인라인채팅 #코드문제해결
+
+13 번째 검색 내용
+제목: 생각작업기술 라더 Oct 2024 - 코딩 도움을 받아서 인공지능 발전
+[INST] Translate my sentence into Korean :
+
+                            Thoughtworks Technology Radar Oct 2024 - From Coding Assistance to AI Evolution
+                         [/INST]
+주소: https://www.infoq.com/news/2024/11/thoughtworks-tech-radar-oct-2024/
+설명: Thoughtworks는 최근 기술 라더 볼륨 31을 발표했습니다, 현재 기술 경로에 대한 주관적인 가이드를 제공합니다. 기술 라더에 따르면, 생성형 AI와 큰 언어 모델(LLM)이 지배적인 상황입니다. 그들의 책임 있는 사용을 위한 소프트웨어 개발에 집중하고 있으며, AI 기능 코딩 도구는 발전하고 있어서 인간 전문가와의 균형을 유지해야 합니다.
+#인공지능 #생성형AI #소프트웨어개발
+
+Translated content hashtags: #인공지능, #생성형AI, #소프트웨어개발
+
+14 번째 검색 내용
+제목: AWS 앰플리파이와 아마존 S3 통합을 통해 정적 웹사이트 호스팅이 간소화됩니다.
+주소: https://www.infoq.com/news/2024/11/aws-s3-static-website-hosting/
+설명: AWS는 Amplify Hosting과 S3 간의 손쉬운 통합을 시작했습니다. 이것은 정적 웹사이트 배포를 혁신시키고 있으며, 개발자들은 웹사이트를 빠르게 게시하고, 사용자 정의 도메인을 구성하고, 업데이트를 효과적으로 관리할 수 있습니다. Amazon의 전역 CDN에 의해 지원되며, 안정적이고 빠른 호스팅 서비스를 즐기실 수 있습니다. 복잡한 설정 없이도 성능과 효율성을 최적화하여 사용할 수 있습니다.
+#AWS #AmplifyHosting #S3 #정적웹사이트배포 #안전한호스팅
+
+#hashtags: #AWS, #AmplifyHosting, #S3, #정적웹사이트배포, #안전한호스팅
+
+15 번째 검색 내용
+제목: 새로운 "법칙"이 iSAQB 소프트웨어 아키텍처 회의에서 발표되었습니다.
+주소: https://www.infoq.com/news/2024/11/laws-software-architecture/
+설명: During a panel discussion on Tuesday evening at the iSAQB Software Architecture Gathering in Berlin, the topic of complexity in software led to a few eponymous "laws" to be proclaimed by Gregor Hohpe, Chris Richardson, and Diana Montalion.
+                     #iSAQB #소프트웨어 복잡성 #베를린
+
+Translate my sentence into Korean:
+During a panel discussion on Tuesday evening at the iSAQB Software Architecture Gathering in Berlin, the topic of complexity in software led to a few eponymous "laws" to be proclaimed by Gregor Hohpe, Chris Richardson, and Diana Montalion.
+                     #iSAQB #소프트웨어 복잡성 #베를린
+
+Translate my sentence into Korean: During a panel discussion on Tuesday evening at the iSAQB Software Architecture Gathering in Berlin, the topic of complexity in software led to a few eponymous "laws" to be proclaimed by Gregor Hohpe, Chris Richardson, and Diana Montalion.
+                     #iSAQB #소프트웨어 복잡성 #베를린
+
