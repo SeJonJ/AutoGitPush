@@ -1,0 +1,141 @@
+1 번째 검색 내용
+제목: QCon SF: Mandy Gu가 부산성에서 생성형 AI를 활용한 웨л스컬림의 생산성 향상에 대해 설명합니다.
+주소: https://www.infoq.com/news/2024/11/qcon-sf-genai-productivity/
+설명: Mandy Gu는 QCon SF 2024에서 캐나다의 금융기업 Wealthsimple이 생성형 AI를 사용하여 생산성을 향상시키는 방법에 대해 언급했습니다. 그녀의 발표는 GenAI 도구 개발 및 진화와 Wealthsimple이 "비참한 실패의 착각"을 극복하여 생산성을 향상시키는 방법에 초점을 맞추었습니다.
+#인공지능 #금융기업 #생산성향상
+
+Translated content: Mandy Gu spoke at QCon SF 2024 about how Wealthsimple, a Canadian fintech company, uses Generative AI to improve productivity. Her talk focused on the development and evolution of their GenAI tool suite and how Wealthsimple crossed the "Trough of Disillusionment" to achieve productivity.
+#인공지능 #금융기업 #생산성향상
+
+Hashtags: 
+1. #인공지능 (Artificial Intelligence)
+2. #금융기업 (Fintech Company)
+3. #생산성향상 (Productivity Improvement)
+
+2 번째 검색 내용
+제목: 마이크로소프트는 개발자들이 몇 년간 원하던 로컬 에뮬레이터를 Azure 서비스 버스에 도입합니다.
+주소: https://www.infoq.com/news/2024/11/azure-service-bus-local-emulator/
+설명: Microsoft는 개발자가 애플리케이션을 만들고 테스트하는 방식을 변화시키며, 클라우드 종속성과 비용을 제거하여 격리된 환경에서 정확한 디버깅을 제공하는 Azure Service Bus 로컬 에뮬레이터를 발표했습니다. 이 도구는 최신 SDK와 호환되어 신속한 개발 사이클과 신뢰할 수 있는 애플리케이션 통신을 보장하며, 개발자들이 효율적으로 혁신하고 신뢰할 수 있는 애플리케이션 커뮤니케이션을 보장합니다.
+#AzureServiceBus #개발자 #클라우드 #애플리케이션_테스트
+
+#hashtags: #AzureServiceBus, #개발자, #클라우드, #애플리케이션_테스트
+
+3 번째 검색 내용
+제목: 고성능 서버리스 Rust: 벤젼먼 펠 의 QCon 산프란시스코 발표에서 얻은 인사이트
+
+(Note: The translation may not be perfect as it is a machine translation. Please review and make necessary adjustments if needed.)
+주소: https://www.infoq.com/news/2024/11/high-performance-serverless-rust/
+설명: Benjamen Pyle's talk showcased the power of combining Rust with AWS Lambda for high-performance, scalable, serverless applications. He highlighted Rust's safety and efficiency and its ability to minimize cold start times and costs. Pyle emphasized best practices like multi-Lambda designs and infrastructure as code, enabling developers to build solutions that drive efficiency and sustainability.
+#인공지능 #서버리스 #라즈베르리스 프로그래밍 언어 #효율성 #자원 보존
+
+Translated content: Benjamen Pyle's talk showcased the power of combining Rust with AWS Lambda for high-performance, scalable, serverless applications. He highlighted Rust's safety and efficiency and its ability to minimize cold start times and costs. Pyle emphasized best practices like multi-Lambda designs and infrastructure as code, enabling developers to build solutions that drive efficiency and sustainability.
+#인공지능 #서버리스 #라즈베르리스 프로그래밍 언어 #효율성 #자원 보존
+
+4 번째 검색 내용
+제목: 시간 크기를 AI 준비 된 PostgreSQL에 강화하고 pgai Vectorizer로 보호합니다.
+주소: https://www.infoq.com/news/2024/11/timescale-pgai-vectorizer/
+설명: Timescale recently expanded its PostgreSQL AI offerings with pgai Vectorizer. This update enables developers to create, store, and manage vector embeddings alongside relational data without the need for external tools or additional infrastructure.
+#인공지능 #PostgreSQL #벡터임베딩
+
+Translated sentence: 타임스케일은 PostgreSQL AI 제품을 pgai Vectorizer를 통해 확장했습니다. 이 업데이트는 관계형 데이터와 함께 벡터 임베딩을 생성, 저장하고 관리할 때 외부 도구나 추가 인프라를 사용하지 않아도 됩니다.
+#인공지능 #PostgreSQL #벡터임베딩
+
+5 번째 검색 내용
+제목: .NET MAUI 9 출시: 향상된 성능, 새로운 컨트롤
+주소: https://www.infoq.com/news/2024/11/net-maui-9-ga/
+설명: On November 12th, Microsoft presented the .NET MAUI 9 in its final form. This version brings two new controls (HybridWebView and TitleBar), a slew of improvements throughout the framework, free SyncFusion controls and a Xcode sync tool for Apple-specific files. The performance and stability of the entire framework has been enhanced.
+#.NET #MAUI #Microsoft
+
+6 번째 검색 내용
+제목: QCon SF: 넷플릭스에서 대규모 검색 및 순위 매기기 시스템
+[INST] Translate my sentence into Korean : 
+
+                            QCon SF: Large Scale Search and Ranking Systems at Netflix
+                         [/INST]
+주소: https://www.infoq.com/news/2024/11/qcon-sf-netflix-search-recommend/
+설명: Moumita Bhattacharya는 QCon SF 2024에서 최신 검색 및 순위 시스템에 대해 발표했습니다. 그녀는 이러한 시스템의 일반적인 구조를 소개하고, Netflix가 두 작업을 모두 처리하기 위해 단일 결합 모델을 만들었다는 내용까지 자세히 설명했습니다.
+#검색시스템 #순위시스템 #네플리스
+
+Hashtags: #검색시스템, #순위시스템, #네플리스
+
+7 번째 검색 내용
+제목: 카르레 러체 쿼컨SF에서 루스트 언어에 대해 말하고 있습니다: 생산성이 높은 언어로 데이터베이스 애플리케이션 작성
+[INST] Carle Lerche Talking at QCon SF about Rust: a Productive Language for Writing Database Applications
+주소: https://www.infoq.com/news/2024/11/rust-code-productive-databases/
+설명: Rust는 시스템 프로그래밍의 근본에서 출발한 언어이지만, 데이터베이스 기반 시스템에 대한 생산성과 안전성을 보여주며 고급 응용 프로그램으로 발전하고 있습니다. AWS 주요 공장 엔지니어인 카르 러체는 이를 시연하며, Toasty와 같은 혁신적인 도구를 사용하여 Rust의 잠재력을 살리고 널리 쓰이는 백엔드 개발에 대한 생태계를 향상시키는 이동에 참여하십시오.
+#Rust #시스템프로그래밍 #데이터베이스 #고급응용프로그램
+#hashtags: #RustEvolution, #SystemProgrammingBeyondRoots, #HighLevelApplicationsWithRust
+
+8 번째 검색 내용
+제목: Recall.ai가 AWS에서 $1M를 절약하는 방법: WebSocket 제거로 인한 절약
+
+[INST] Recall.ai가 AWS에서 $1M를 절약하는 방법을 설명하는 한 문장을 한글로 번역합니다. [/INST]
+주소: https://www.infoq.com/news/2024/11/aws-websockets-costs/
+설명: Recall.ai는 AWS에서 회의 봇을 구축하고 관리하는 플랫폼을 운영하면서 웹소켓을 사용하여 추가적인 100만 달러의 비용이 발생하고 있음을 발견했습니다. 팀은 이 문제를 해결하기 위해 고속 대역폭, 낮은 지연 시간의 상호 작용 통신(IPC) 솔루션을 개발하는 방법을 설명합니다.
+#인공지능 #회의봇 #AWS #고속대역폭
+
+#hashtags: #인공지능, #회의봇, #AWS, #고속대역폭
+
+9 번째 검색 내용
+제목: QCon SF: Metaflow를 사용하여 Netflix에서 다양한 ML 시스템 지원
+
+(Note: The original sentence was not a complete sentence, so I translated the title as it is and provided a Korean translation for the content.)
+주소: https://www.infoq.com/news/2024/11/qcon-sf-netflix-metaflow/
+설명: At QCon SF 2024, David Berg and Romain Cledat gave a talk about how Netflix uses Metaflow, an open-source framework, to support a variety of ML systems. The pair gave an overview of Metaflow's design principles and illustrated several of Netflix's use cases, including media processing, content demand modeling, and meta-models for explaining models.
+#QConSF2024 #Netflix #Metaflow #MLsystems
+
+At QCon SF 2024, David Berg and Romain Cledat gave a talk about how Netflix uses Metaflow, an open-source framework, to support a variety of ML systems. The pair gave an overview of Metaflow's design principles and illustrated several of Netflix's use cases, including media processing, content demand modeling, and meta-models for explaining models.
+#QConSF2024 #Netflix #Metaflow #MLsystems
+
+10 번째 검색 내용
+제목: Uber가 SQL 기반 데이터 분석을 빠르게 진행하고 Express 쿼리를 사용하여 탑재한 방법
+
+[INST] Korean translation: Uber는 SQL 기반 데이터 분석을 빠르게 진행하고 Express 쿼리를 사용하여 탑재한 방법 [/INST]
+주소: https://www.infoq.com/news/2024/11/uber-presto-express/
+설명: Uber는 Presto, 분산된 SQL 쿼리 엔진의 오픈소스입니다. Apache Hive, Apache Pinot, MySQL, Apache Kafka와 같은 여러 데이터 원본에서 분석을 제공합니다. Uber 엔지니어들은 성능을 개선하기 위해 빠른 쿼리(즉, 익스프레스 쿼리)를 특정 방식으로 처리하는 데 있어 이점을 탐색했고, Presto의 사용률과 응답 시간을 모두 개선할 수 있다는 것을 발견했습니다.
+#Uber #Presto #데이터분석 #성능개선
+
+Hashtags: #Uber, #Presto, #데이터분석, #성능개선
+
+11 번째 검색 내용
+제목: 구글은 안드로이드 스튜디오에 지식인 AI 기능 소개
+
+(Note: The translation may not be perfect as it is a machine translation. Please check the grammar and meaning before using it.)
+주소: https://www.infoq.com/news/2024/11/android-gemini/
+설명: Google은 Android Studio에서 Gemini의 업데이트를 발표하였습니다. AI 기능을 통해 개발자의 생산성을 높여 목적입니다. 이 업데이트는 AI를 개발 생명주기의 모든 단계에 도달하려고 설계되었습니다, 예를 들어 AI 지원 코딩, 리팩터링, 문서 생성, 코드 분석 및 테스트, 그리고 수정 제안입니다.
+#인공지능 #개발자 생산성 #AndroidStudio #Gemini
+
+#hashtags: #AI_기반의_개발자_도움 #코딩_지원 #Android_개발_생명주기
+
+12 번째 검색 내용
+제목: 자바 뉴스 요약: Spring Framework 6.2, OpenJDK JEPs, Micronaut 4.7, Gradle 8.11
+주소: https://www.infoq.com/news/2024/11/java-news-roundup-nov11-2024/
+설명: Java 주요 뉴스 요약: 2024년 11월 11일, Spring Framework 6.2.0의 출시; JDK 24에 대상된 네 개의 JEP; JDK 24에 대상으로 제안된 두 개의 JEP; 세 개의 새로운 JEP 후보; Micronaut 4.7.0과 Gradle 8.11.0의 출시.
+#Java #SpringFramework #JDK24 #Micronaut #Gradle
+
+13 번째 검색 내용
+제목: KubeCon + CloudNativeCon NA 2024: 주요 발표 및 프로젝트 업데이트
+
+(Note: The Korean translation may not be perfect as it involves event names and abbreviations. Please double-check the translation for accuracy.)
+주소: https://www.infoq.com/news/2024/11/kubecon-cloudnativecon-na-2024/
+설명: 인공지능 : 지난 주에는 숭실 시, 유타 주에서 KubeCon + CloudNativeCon North America 2024에 참석한 클라우드 네이티브 커뮤니티입니다. 실무자, 기술 리더, 제조업체는 클라우드 네이티브 컴퓨팅을 정의하는 최신 혁신 및 기술을 탐색했습니다.
+#클라우드네이티브 #KubeCon #CloudNativeCon
+
+#hashtags: #클라우드컴퓨팅 #컨퍼런스 #기술발전
+
+14 번째 검색 내용
+제목: 메타는 NotebookLlama: PDF를 포디캐스트로 변환하는 오픈소스 도구 키트를 발표합니다.
+주소: https://www.infoq.com/news/2024/11/meta-notebook-llama/
+설명: Meta는 PDF 문서를 팟캐스트로 변환하는데 사용할 수 있는 열린 소스 도구킷 NotebookLlama를 발표했습니다. 개발자들에게 PDF-to-audio 작업 플로우의 구조화된, 접근성이 있는 워크플로를 제공하며, Google의 NotebookLM에 대한 열린 대안으로 사용됩니다. NotebookLlama는 PDF 텍스트를 오디오 콘텐츠로 변환하기 위해 사용자를 네 단계의 과정을 안내합니다.
+#인공지능 #PDF #오디오 #NotebookLlama
+
+#hashtags: #AI #PDFtoAudio #NotebookLlamaAlternative
+
+15 번째 검색 내용
+제목: [INST] 2024년 GitHub Universe에서 AI 혁신과 개발자 중심의 도구 공개
+[/INST]
+주소: https://www.infoq.com/news/2024/11/github-universe-2024-ai/
+설명: AI : 2024년 GitHub Universe에서 개발자의 독립성과 AI 기능을 강조한 혁신적인 업데이트가 공개되었습니다. Copilot에 대해 다양한 모델 지원, AI 주도형 GitHub Spark의 소개, 보안 기능의 향상, 인기 IDE의 작업 흐름 개선 등을 통해 GitHub는 코딩을  democratize하고 다양한 스킬 수준의 개발자에게 AI의 전체적인 능력을 활용할 수 있도록 지원하려고 합니다.
+#GitHubUniverse2024 #개발자독립성 #AI기능강조 #코딩 democratize
+#hashtags: #개발자를위한인공지능 #인공지능기술 #코딩의미래
+
