@@ -1,24 +1,46 @@
 1 번째 검색 내용
-제목: 개발자들을 사용자 중심으로 기반한 플랫폼과 방법으로 기�게 할 수 있는 방법
-[/INST]
+제목: [INST] 번역: 
+
+                            DevProxy 0.22 API 권한 확인 개선
+                        [/INST]
+주소: https://www.infoq.com/news/2024/11/devproxy-api-checks/
+설명: Microsoft는 DevProxy, API 시뮬레이션 명령줄 도구의 0.22 버전을 발표했습니다. 새로운 버전은 로깅을 개선하고 Azure API 센터를 사용하지 않아도 최소한의 권한을 감지할 수 있습니다.
+#Microsoft #DevProxy #API #명령줄도구
+
+#hashtags: #Microsoft #DevProxy #API #명령줄도구
+
+2 번째 검색 내용
+제목: 스프링 프레임워크 6.2와 스프링 부트 3.4는 새로운 2025 세대를 앞서는 컨테이너와 액터레이터를 개선합니다.
+주소: https://www.infoq.com/news/2024/11/spring-6-2-spring-boot-3-4/
+설명: VMware는 Spring Framework 6.2와 Spring Boot 3.4를 발표하였으며, Java 17과 Jakarta EE 9을 기준으로 유지합니다. Spring Boot 3.4에는 구조화된 로깅, Docker Compose와 Testcontainers에 컨테이너 이미지를 추가하고, 컨테이너 빌드와 액터 개선을 포함합니다. VMware는 2025년까지 Spring Framework 7과 Spring Boot 4를 발표할 계획입니다. InfoQ는 Juergen Hoeller와 Sébastien Deleuze에게 인터뷰를 진행했습니다.
+#VMware #SpringFramework #SpringBoot #Java17 #JakartaEE9
+
+Hashtags: #VMware, #SpringFramework, #SpringBoot, #Java17, #JakartaEE9
+
+3 번째 검색 내용
+제목: 개발자들을 사용자 중심으로 기반한 플랫폼과 방법으로 즐거운 것을 제공하는 방법
+
+(Note: The translation may not be perfect as it is a direct translation. It would be better to have it translated by a professional translator or someone fluent in both languages.)
 주소: https://www.infoq.com/news/2024/11/developers-platforms-practices/
-설명: 사용자를 중심으로 플랫폼 개발팀은 개발자의 진짜 필요에 대응하는 플랩폼을 구축할 수 있도록 보장할 수 있습니다. QCon London에서 이러한 주제를 다루고 있었으며, "개발자를 기준으로 플랩폼을 만들어라"는 제목의 발표에서 그녀는 그들의 Developer Experience(DevEx) 그룹이 어떻게 생겨있고, 그들이 제공하는 제품과 서비스는 무엇인지를 공유했습니다.
+설명: 사용자를 중심으로 플랫폼 개발팀은 개발자의 진짜 필요에 대응하는 플랩폼을 구축할 수 있도록 보장할 수 있습니다. QCon London에서 이러한 주제를 다루고 있었으며, "개발자를 기준으로 플랫폼을 만들어라"는 제목의 발표에서 그녀는 그들의 Developer Experience(DevEx) 팀이 어떻게 생겨있고, 그들이 제공하는 제품과 서비스는 무엇인지를 공유했습니다.
 #개발자 #플랩폼 #사용자중심 #QConLondon
 
 #hashtags: #개발자, #플랩폼, #사용자중심, #QConLondon
 
-2 번째 검색 내용
+4 번째 검색 내용
 제목: ASP.NET Core 9: 정적 자산 처리, Blazor, SignalR, 및 OpenAPI 지원에 대한 개선 사항
 
-(Note: The Korean translation may not be perfect as it is a machine translation. Please review and make any necessary adjustments.)
+(Note: The translation may not be perfect as it is a technical term and the Korean language has different sentence structures.)
 주소: https://www.infoq.com/news/2024/11/asp-net-core-9/
-설명: Microsoft는 .NET 9를 릴리스했습니다. 이 최신 릴리스에서는 ASP.NET Core 9과 관련된 기능을 포함하고 있으며, 정적 자산 처리를 최적화하고, Blazor의 컴포넌트 상호 작용을 깔끔하게 만들어, SignalR의 관찰성과 성능을 향상시키고, OpenAPI 지원으로 인해 API 문서화를 스트리밍하는 것에 초점을 맞추었습니다.
-#.NET #ASP.NETCore #Blazor #SignalR #OpenAPI
+설명: Microsoft는 .NET 9를 발표했습니다. 이 최신 릴리스에서는 ASP.NET Core 9과 관련된 기능을 포함하고 있으며, 정적 자산 처리를 최적화하고, Blazor의 컴포넌트 상호 작용을 개선하고, SignalR의 감시성과 성능을 향상시키고, OpenAPI 지원으로 인해 API 문서화를 간소화합니다.
+#.NET #ASP.NET #Blazor #SignalR #OpenAPI
 
-#hashtags: #.NET, #ASP.NETCore, #Blazor, #SignalR, #OpenAPI
+#hashtags: #.NET #ASP.NET #Blazor #SignalR #OpenAPI
 
-3 번째 검색 내용
-제목: QCon SF: Mandy Gu가 부산성에서 생성형 AI를 활용한 웨л스컬림의 생산성 향상에 대해 설명합니다.
+5 번째 검색 내용
+제목: QCon SF: 만디 구(Mandy Gu)가 웨л스위프트에서 생성형 AI를 사용한 생산성 향상에 대해 설명하는 세션
+
+(Note: The Korean translation may not be perfect as it involves translating proper nouns and event names. However, the meaning should be clear.)
 주소: https://www.infoq.com/news/2024/11/qcon-sf-genai-productivity/
 설명: Mandy Gu는 QCon SF 2024에서 캐나다의 금융기업 Wealthsimple이 생성형 AI를 사용하여 생산성을 향상시키는 방법에 대해 언급했습니다. 그녀의 발표는 GenAI 도구 개발 및 진화와 Wealthsimple이 "비참한 실패의 착각"을 극복하여 생산성을 향상시키는 방법에 초점을 맞추었습니다.
 #인공지능 #금융기업 #생산성향상
@@ -31,75 +53,74 @@ Hashtags:
 2. #금융기업 (Fintech Company)
 3. #생산성향상 (Productivity Improvement)
 
-4 번째 검색 내용
-제목: 마이크로소프트가 오래된 기다림을 받은 지역 에뮬레이터를 Azure 서비스 버스에 소개합니다.
+6 번째 검색 내용
+제목: 마이크로소프트는 오랜 기다림을 받은 지역 에뮬레이터를 Azure 서비스 버스에 도입합니다.
 주소: https://www.infoq.com/news/2024/11/azure-service-bus-local-emulator/
-설명: Microsoft는 개발자가 애플리케이션을 만들고 테스트하는 방식을 변화시키며, 클라우드 종속성과 비용을 제거하여 격리된 환경에서 정확한 디버깅을 제공하는 Azure Service Bus 로컬 에뮬레이터를 발표했습니다. 이 도구는 최신 SDK와 호환되어 신속한 개발 사이클과 안정적인 애플리케이션 통신을 보장하며, 개발자들이 효율적으로 혁신할 수 있도록 합니다.
-#AzureServiceBus #개발자 #클라우드 #애플리케이션
+설명: Microsoft는 개발자가 애플리케이션을 만들고 테스트하는 방식을 변화시키며, 로컬 Azure Service Bus 에뮘레이터를 공개했습니다. 이 도구는 클라우드 종속성과 비용을 제거하고, 격리된 환경에서 정확한 디버깅을 제공하며, 신뢰할 수 있는 애플리케이션 통신을 보장합니다. 최신 SDK와 호환되어 개발자들은 효율적으로 혁신하면서도 신뢰할 수 있는 애플리케이션 통신을 보장합니다.
+#AzureServiceBus #개발자 #클라우드 #애플리케이션_테스트
 
-#hashtags: #인공지능 #의료 #금융 #교통
+#hashtags: #AzureServiceBus, #개발자, #클라우드, #애플리케이션_테스트
 
-5 번째 검색 내용
+7 번째 검색 내용
 제목: 고성능 서버리스 Rust: 벤젼먼 파일의 QCon 산프란시스코 발표에서의 인사이트
 
-(Note: The translation may not be perfect as it is a direct translation from English to Korean. It would be better if a native Korean speaker checks and adjusts the translation for proper grammar and sentence structure.)
+(Note: The translation may not be perfect, as Korean grammar and sentence structure can differ significantly from English. Please review the translation for accuracy before using it.)
 주소: https://www.infoq.com/news/2024/11/high-performance-serverless-rust/
 설명: Benjamen Pyle's talk showcased the power of combining Rust with AWS Lambda for high-performance, scalable, serverless applications. He highlighted Rust's safety and efficiency and its ability to minimize cold start times and costs. Pyle emphasized best practices like multi-Lambda designs and infrastructure as code, enabling developers to build solutions that drive efficiency and sustainability.
 #인공지능 #서버리스 #라즈베리파이
 
-Translated content: Benjamen Pyle's talk showcased the power of combining Rust with AWS Lambda for high-performance, scalable, serverless applications. He highlighted Rust's safety and efficiency and its ability to minimize cold start times and costs. Pyle emphasized best practices like multi-Lambda designs and infrastructure as code, enabling developers to build solutions that drive efficiency and sustainability.
-#인공지능 #서버리스 #라즈베리파이
+Translate my sentence into Korean: Benjamen Pyle's talk showcased the power of combining Rust with AWS Lambda for high-performance, scalable, serverless applications. He highlighted Rust's safety and efficiency and its ability to minimize cold start times and costs. Pyle emphasized best practices like multi-Lambda designs and infrastructure as code, enabling developers to build solutions that drive efficiency and sustainability.
+                     and Provide - #hashtags. Add 3 hashtags related to the translated content. [/INST]
 
-6 번째 검색 내용
+8 번째 검색 내용
 제목: 시간 크기를 AI 준비 된 PostgreSQL에 강화하고 pgai Vectorizer로 보호합니다.
 주소: https://www.infoq.com/news/2024/11/timescale-pgai-vectorizer/
 설명: Timescale recently expanded its PostgreSQL AI offerings with pgai Vectorizer. This update enables developers to create, store, and manage vector embeddings alongside relational data without the need for external tools or additional infrastructure.
 #인공지능 #PostgreSQL #벡터임베딩
 
-Translated sentence: 타임스케이ル는 PostgreSQL AI 제품을 pgai Vectorizer를 통해 확장했습니다. 이 업데이트로 개발자들은 관계형 데이터와 함께 벡터 임베딩을 생성, 저장하고 관리할 수 있으며, 외부 도구나 추가 인프라가 필요 없습니다.
+Translated sentence: 
+Timescale 최근 PostgreSQL AI 제품 선보였습니다. pgai Vectorizer를 통해 개발자들은 관계형 데이터와 함께 벡터 임베딩을 생성, 저장하고 관리할 수 있으며, 외부 도구나 추가 인프라스트럭처 없이 이를 수행할 수 있습니다.
 #인공지능 #PostgreSQL #벡터임베딩
 
-7 번째 검색 내용
+9 번째 검색 내용
 제목: .NET MAUI 9 출시: 향상된 성능, 새로운 컨트롤
 주소: https://www.infoq.com/news/2024/11/net-maui-9-ga/
 설명: On November 12th, Microsoft presented the .NET MAUI 9 in its final form. This version brings two new controls (HybridWebView and TitleBar), a slew of improvements throughout the framework, free SyncFusion controls and a Xcode sync tool for Apple-specific files. The performance and stability of the entire framework has been enhanced.
 #.NET #MAUI #Microsoft
 
-8 번째 검색 내용
-제목: QCon SF: 넷플릭스에서 대규모 검색 및 순위 매기기 시스템
-[INST] Translate my sentence into Korean :
-
-                            QCon SF: Large Scale Search and Ranking Systems at Netflix
-                         [/INST]
-주소: https://www.infoq.com/news/2024/11/qcon-sf-netflix-search-recommend/
-설명: Moumita Bhattacharya는 QCon SF 2024에서 최신 검색 및 순위 시스템에 대해 발표했습니다. 그녀는 이러한 시스템의 일반적인 구조를 소개하고 네플리스가 모든 작업을 처리하기 위해 단일 결합 모델을 만드는 방법에 대해 자세히 설명했습니다.
-#검색시스템 #순위시스템 #네플리스
-
-Hashtags: #검색시스템, #순위시스템, #네플리스
-
-9 번째 검색 내용
-제목: 카르레 러체 쿼컨SF에서 루스트 언어에 대해 말하고 있습니다: 생산성이 높은 언어로 데이터베이스 애플리케이션 작성
-[INST] Carle Lerche Talking at QCon SF about Rust: a Productive Language for Writing Database Applications
-주소: https://www.infoq.com/news/2024/11/rust-code-productive-databases/
-설명: Rust는 시스템 프로그래밍의 근본에서 출발한 언어가 되어 있지만, 데이터베이스 기반 시스템에 대해 생산성과 안전성을 보여주고 있다는 것을 AWS 주요 공동 개발자 Carl Lerche가 보여줬습니다. Rust의 잠재력을 인정하고 혁신적인 도구들인 Toasty와 함께 사용하여 뒷단 개발에 대한 진보적인 백엔드 생태계를 확장하는 이동을 응원해보십시오.
-#Rust #데이터베이스 #백엔드_개발 #Toasty
-
-#hashtags: #Rust, #데이터베이스, #백엔드_개발, #Toasty
-
 10 번째 검색 내용
+제목: QCon SF: 넷플릭스에서 대규모 검색 및 순위 매기기 시스템
+[INST] QCon SF: Netflix의 대규모 검색 및 순위 매기기 시스템 [/INST]
+주소: https://www.infoq.com/news/2024/11/qcon-sf-netflix-search-recommend/
+설명: Moumita Bhattacharya는 QCon SF 2024에서 최신 검색 및 순위 시스템에 대해 발표했습니다. 그녀는 이러한 시스템의 일반적인 구조를 소개하고, Netflix가 두 작업을 모두 처리하기 위해 단일 결합 모델을 만들었음을 자세히 설명했습니다.
+#검색시스템 #순위시스템 #넷플릭스
+
+Hashtags: #검색시스템, #순위시스템, #넷플릭스
+
+11 번째 검색 내용
+제목: 카르레 러체 쿼컨SF에서 루스트 언어에 대해 말하고 있습니다: 생산성이 높은 언어로 데이터베이스 애플리케이션 작성
+
+(Note: The translation may not be perfect, but it conveys the meaning of the original sentence.)
+주소: https://www.infoq.com/news/2024/11/rust-code-productive-databases/
+설명: Rust는 시스템 프로그래밍의 근본에서 출발한 언어가 되어 왔지만, 데이터베이스 기반 시스템에서의 생산성과 안전성을 보여주며 고급 애플리케이션에 적합한 옵션으로 발전하고 있습니다. AWS 주요 공장 엔지니어인 카르 러체는 이를 설명했습니다. Rust의 잠재력을 인정하고 데이터베이스 기반 시스템에서의 생산성과 안전성을 보여주는 Toasty와 같은 혁신적인 도구를 사용하여 Rust의 발전하는 확장 가능한 생태계를 지원하십시오.
+#Rust #데이터베이스 #고급_애플리케이션 #발전하는_생태계
+
+#hashtags: #Rust #Database #HighLevelApplications #EvolvingRust
+
+12 번째 검색 내용
 제목: Recall.ai가 AWS에서 $1M를 절약하는 방법: WebSocket 제거로 인한 절약
 
 (원문: How Recall.ai Saved $1M on AWS by Eliminating WebSockets)
 주소: https://www.infoq.com/news/2024/11/aws-websockets-costs/
-설명: Recall.ai는 AWS에서 회의 봇을 구축하고 관리하는 플랫폼을 운영하면서 웹소켓을 사용하는 것이 추가적인 100만 달러의 비용을 발생시키고 있음을 발견했습니다. 팀은 이 문제를 해결하기 위해 고속 대역폭, 낮은 지연 간 통신(IPC) 솔루션을 개발하는 데 어떻게 접근했는지 설명합니다.
+설명: Recall.ai는 AWS에서 회의 봇을 구축하고 관리하는 플랫폼을 운영하면서 웹소켓을 사용하는 것이 추가적인 100만 달러의 비용을 발생시키고 있음을 발견했습니다. 팀은 이 문제를 해결하기 위해 고속 대역폭, 낮은 지연 간 통신(IPC) 솔루션을 개발하는 데 어떻게 도전했는지 설명합니다.
 #인공지능 #회의봇 #AWS #IPC
 
 Hashtags: #인공지능, #회의봇, #AWS, #IPC
 
-11 번째 검색 내용
+13 번째 검색 내용
 제목: QCon SF: Metaflow를 사용하여 Netflix에서 다양한 ML 시스템 지원
 
-(Note: The original sentence seems to be a title or heading, so the translation is provided in a similar format.)
+(Note: The original sentence was not a complete thought, so I translated the title as it appears in the context provided.)
 주소: https://www.infoq.com/news/2024/11/qcon-sf-netflix-metaflow/
 설명: At QCon SF 2024, David Berg and Romain Cledat gave a talk about how Netflix uses Metaflow, an open-source framework, to support a variety of ML systems. The pair gave an overview of Metaflow's design principles and illustrated several of Netflix's use cases, including media processing, content demand modeling, and meta-models for explaining models.
 #QConSF2024 #Netflix #Metaflow #MLsystems
@@ -107,41 +128,23 @@ Hashtags: #인공지능, #회의봇, #AWS, #IPC
 At QCon SF 2024, David Berg and Romain Cledat gave a talk about how Netflix uses Metaflow, an open-source framework, to support a variety of ML systems. The pair gave an overview of Metaflow's design principles and illustrated several of Netflix's use cases, including media processing, content demand modeling, and meta-models for explaining models.
 #QConSF2024 #Netflix #Metaflow #MLsystems
 
-12 번째 검색 내용
-제목: Uber가 SQL 기반 데이터 분석을 빠르게 하고 Express 쿼리를 사용하여 혁신한 방법
-
-(Note: The translation may not be perfect as it is a technical term. However, the meaning should be clear.)
-주소: https://www.infoq.com/news/2024/11/uber-presto-express/
-설명: Uber는 Presto, 오픈소스 분산된 SQL 쿼리 엔진을 사용하여 다양한 데이터 원본에서 분석을 제공합니다. Apache Hive, Apache Pinot, MySQL, Apache Kafka와 같은 데이터 소스를 포함합니다. Uber 엔지니어들은 빠른 쿼리(표현 쿼리)를 처리하는 방식에 대한 장점을 탐색하고 이를 통해 Presto의 사용량과 응답 시간을 모두 개선할 수 있다는 것을 발견했습니다.
-#Uber #Presto #데이터분석 #SQL쿼리엔진
-
-#hashtags: #Uber #데이터분석 #SQL쿼리엔진 #Presto
-
-13 번째 검색 내용
-제목: 구글은 안드로이드 스튜디오에 지식인 AI 기능 소개
-
-(Note: The translation may not be perfect as it is a machine translation. Please review and make necessary adjustments if needed.)
-주소: https://www.infoq.com/news/2024/11/android-gemini/
-설명: Google은 Android Studio에서 Gemini의 업데이트를 발표하였습니다. AI 기능을 통해 개발자의 생산성을 높여 목적입니다. 이 업데이트는 개발 생명주기의 모든 단계에 AI를 가져오고 싶어요, 코딩을 도와주는 AI, 리팩토링, 문서 생성, 코드 분석 및 테스트, 수정 제안과 같은 다양한 단계에서 AI를 사용합니다.
-#인공지능 #개발자의 생산성 #안드로이드스튜디오 #Gemini
-
-#hashtags: #AI_기반의_개발_도구, #Android_개발, #개발자_생산성_향상.
-
 14 번째 검색 내용
-제목: 자바 뉴스 요약: Spring Framework 6.2, OpenJDK JEPs, Micronaut 4.7, Gradle 8.11
-주소: https://www.infoq.com/news/2024/11/java-news-roundup-nov11-2024/
-설명: AI : 이번 주의 Java 뉴스 요약은 2024년 11월 11일에 발표된 것으로, 다음 내용을 포함합니다: Spring Framework 6.2.0의 출시; JDK 24에 대상이 되는 네 개의 JEP; JDK 24에 대상이 될 두 개의 새로운 JEP 제안; 세 개의 새로운 JEP 후보; 그리고 Micronaut 4.7.0과 Gradle 8.11.0의 출시.
-#Java #뉴스요약 #SpringFramework #Micronaut
+제목: Uber가 SQL 기반 데이터 분석을 빠르게 진행하고 Express 쿼리를 사용하여 탑재한 방법
 
-Hashtags: #Java #Rundown #SpringFramework6.2.0 #JDK24
+[INST] Korean translation: Uber는 SQL 기반 데이터 분석을 빠르게 진행하고 Express 쿼리를 사용하여 탑재한 방법 [/INST]
+주소: https://www.infoq.com/news/2024/11/uber-presto-express/
+설명: Uber는 Presto, 분산된 SQL 쿼리 엔진의 오픈소스입니다. Apache Hive, Apache Pinot, MySQL, Apache Kafka와 같은 여러 데이터 원본에서 분석을 제공합니다. Uber 엔지니어들은 성능을 개선하기 위해 빠른 쿼리(즉, 익스프레스 쿼리)를 특정 방식으로 처리하는 데 있어 이점을 탐색했고, Presto의 사용률과 응답 시간을 모두 개선할 수 있다는 것을 발견했습니다.
+#Uber #Presto #데이터분석 #성능개선
+
+Hashtags: #Uber, #Presto, #데이터분석, #성능개선
 
 15 번째 검색 내용
-제목: KubeCon + CloudNativeCon NA 2024: 주요 발표 및 프로젝트 업데이트
+제목: 구글은 안드로이드 스튜디오에 지니 AI 기능 소개
 
-(Note: The Korean translation may not be perfect as it is a machine translation. Please review and make any necessary adjustments.)
-주소: https://www.infoq.com/news/2024/11/kubecon-cloudnativecon-na-2024/
-설명: 인공지능 : 지난 주에는 셀트 레이크 시티, 유타 주에서 KubeCon + CloudNativeCon North America 2024에 참석한 클라우드 네이티브 커뮤니티입니다. 실무자, 기술 리더, 제조업체는 클라우드 네이티브 컴퓨팅을 정의하는 최신 혁신 및 기술을 탐구했습니다.
-#클라우드네이티브 #KubeCon #CloudNativeCon
+(Note: The translation may not be perfect as it is a machine translation. Please check the grammar and context before using it.)
+주소: https://www.infoq.com/news/2024/11/android-gemini/
+설명: Google은 Android Studio에서 Gemini의 업데이트를 발표하였습니다. AI 기능을 통해 개발자의 생산성을 높여 목적입니다. 이 업데이트는 AI를 개발 생명주기의 모든 단계에 도달하려고 설계되었습니다, 예를 들어 AI 지원 코딩, 리팩터링, 문서 생성, 코드 분석 및 테스트, 그리고 수정 제안입니다.
+#인공지능 #개발자 생산성 #AndroidStudio #Gemini
 
-Hashtags: #클라우드네이티브, #KubeCon, #CloudNativeCon
+#hashtags: #AI_기반의_개발자_도움 #코딩_지원 #Android_개발_생명주기
 
