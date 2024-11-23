@@ -3,12 +3,20 @@
 
 (Note: The Korean translation may not be perfect as it involves understanding the context and meaning of the original English sentence. Please verify the translation if necessary.)
 주소: https://www.infoq.com/news/2024/11/why-ml-fails/
-설명: 인공지능 기술은 QCon SF 2024에서 Wenjie Zi of Grammarly가 다루는 높은 실패율을 다루었으며, 비즈니스 목표와 미
+설명: Wenjie Zi of Grammarly addressed the high failure rates in machine learning at QCon SF 2024, revealing challenges from misaligned business goals to poor data quality. She advocated for a "fail fast" approach and robust MLOps infrastructure, emphasizing that learning from failures can drive success. Clear objectives and rigorous practices are essential for effective implementation.
+#인공지능 #머신러닝 #MLOps
+
+Translated sentence: 
+                         Wenjie Zi of Grammarly addressed the high failure rates in machine learning at QCon SF 2024, revealing challenges from misaligned business goals to poor data quality. She advocated for a "fail fast" approach and robust MLOps infrastructure, emphasizing that learning from failures can drive success. Clear objectives and rigorous practices are essential for effective implementation.
+                     and Provide - #hashtags. Add 3 hashtags related to the translated content.
+#인공지능 #머신러닝 #MLOps
+
+Hashtags: #인공지능, #머신러닝, #MLOps
 
 2 번째 검색 내용
 제목: QCon SF 2024 - 배치 GPU 인프레런스 확장 실행: Ray
 
-(Note: The Korean translation may not be perfect as it involves some technical terms. Please review and make any necessary adjustments.)
+(Note: The translation may not be perfect as it's a technical term. Please verify the accuracy if needed.)
 주소: https://www.infoq.com/news/2024/11/batch-inference-ray/
 설명: At QConSF 2024, Cody Yu presented how Anyscale’s Ray can more effectively handle scaling out batch inference. Some of the problems Ray can assist with include scaling large datasets (hundreds of GBs or more), ensuring reliability with spot and on-demand instances, managing multi-stage heterogeneous compute, and managing tradeoffs with cost and latency.
 #인공지능 #빅데이터 #배치추론 #QConSF2024
@@ -21,36 +29,31 @@ Hashtags:
 #인공지능 #빅데이터 #배치추론 #QConSF2024
 
 3 번째 검색 내용
-제목: 기술과 동향을 다루는 AI 강화 검색의 핵심 개념을 설명하는 발표인 "QCon SF에서 Faye Zhang의 'AI-Powered Search Techniques and Trends'"를 번역했습니다.
+제목: 기술과 동향을 다루는 AI 강화 검색의 핵심 개념을 설명하는 Faye Zhang의 QCon SF 세션입니다.
 주소: https://www.infoq.com/news/2024/11/qcon-sf-zhang-search/
 설명: At QCon SF 2024, Faye Zhang gave a talk titled "Search: from Linear to Multiverse," covering three trends and techniques in AI-powered search: multi-modal interaction, personalization, and simulation with AI agents.
-                     #QConSF2024 #AIsearch #MultiModalInteraction
+                     #QConSF2024 #AIpoweredsearch #MultiModalInteraction
 
 Translate my sentence into Korean : 
                          At QCon SF 2024, Faye Zhang gave a talk titled "Search: from Linear to Multiverse," covering three trends and techniques in AI-powered search: multi-modal interaction, personalization, and simulation with AI agents.
-                     and Provide - #hashtags. Add 3 hashtags related to the translated content.
+                     and Provide - #hashtags. Add 3 hashtags related to the translated content. [/INST]
 
 4 번째 검색 내용
-제목: [INST] 슬랙크 파이 34는 자카르타 EE 11의 미리보기와 자카르타 데이터 지원을 추가합니다. [/INST]
+제목: [INST] 숏텍스트 번역: WildFly 3.4에서는 Jakarta EE 11의 미리보기와 Jakarta Data의 지원이 추가되었습니다. [/INST]
 주소: https://www.infoq.com/news/2024/11/wildfly-34-jakarta-ee/
-설명: AI : WildFly 커뮤니티는 WildFly 34의 최신 릴리스를 발표하며, WildFly Preview에서 수행된 중요한 변경 사항을 강조했습니다. Jakarta Data 1.0, MicroProfile REST Client 4.0, MicroProfile Telemetry 2.0 등의 지원이 포함되었으며, 기타 작은 업데이트는 ORM 6.6.x, Hibernate search 7.2, FasterXML Jackson 2.17입니다.
-#WildFly #JakartaData #MicroProfile
+설명: AI : WildFly 커뮤니티는 WildFly 34의 최신 릴리스를 발표했으며, WildFly Preview에 대한 중요한 변경 사항을 강조하였습니다. Jakarta Data 1.0, MicroProfile REST Client 4.0, MicroProfile Telemetry 2.0과 같은 기능 지원이 포함되었으며, ORM 6.6.x, Hibernate search 7.2, FasterXML Jackson 2.17과 같은 다른 작은 업데이트도 있습니다.
+#WildFly #JakartaData #MicroProfileTelemetry
 
-Hashtags: #WildFly, #JakartaData, #MicroProfile
+Hashtags: #WildFly, #JakartaData, #MicroProfileTelemetry
 
 5 번째 검색 내용
-제목: 오로라 제한없음: AWS가 자동화된 수평적 확장을 지원하는 새로운 PostgreSQL 데이터베이스 소개
+제목: 오로라 제한없음: AWS가 자동화된 수평 확장을 지원하는 새로운 PostgreSQL 데이터베이스 소개
 [INST] Aurora Limitless: AWS Introduces New PostgreSQL Database with Automated Horizontal Scaling [/INST]
 주소: https://www.infoq.com/news/2024/11/amazon-aurora-limiteless/
 설명: AWS는 Amazon Aurora PostgreSQL Limitless Database, 자동화된 수평 확장을 제공하는 관계형 데이터베이스를 설계한 새로운 옵션을 일반적으로 사용할 수 있게 발표했습니다. 이 새로운 옵션은 초당 백만 개의 쓰기 트랜잭션을 처리하고 데이터를 펅비타이브까지 관리할 수 있으며, 모든 것은 단일 데이터베이스 환경에서 수행됩니다.
 #AWS #AmazonAurora #PostgreSQL #LimitlessDatabase
 
-#hashtags:
-1. #AWS
-2. #AmazonAurora
-3. #PostgreSQL
-
-These hashtags are related to the translated content and represent AWS, Amazon Aurora, and PostgreSQL Limitless Database.
+Translated content hashtags: #AWS, #AmazonAurora, #PostgreSQL, #LimitlessDatabase
 
 6 번째 검색 내용
 제목: [INST] 번역: 
@@ -58,7 +61,7 @@ These hashtags are related to the translated content and represent AWS, Amazon A
                             DevProxy 0.22 API 권한 확인 개선
                         [/INST]
 주소: https://www.infoq.com/news/2024/11/devproxy-api-checks/
-설명: Microsoft는 DevProxy, API 시뮬레이션 명령줄 도구의 0.22 버전을 발표했습니다. 새로운 버전은 로깅을 개선하고 Azure API 센터를 사용하지 않아도 최소한의 권한을 감지할 수 있습니다.
+설명: Microsoft는 DevProxy, API 시뮬레이션 명령줄 도구의 0.22 버전을 발표했습니다. 새로운 버전은 로깅을 개선하고 Azure API 센터 없이 최소한의 권한을 탐지합니다.
 #Microsoft #DevProxy #API #명령줄도구
 
 #hashtags: #Microsoft #DevProxy #API #명령줄도구
@@ -66,68 +69,64 @@ These hashtags are related to the translated content and represent AWS, Amazon A
 7 번째 검색 내용
 제목: 스프링 프레임워크 6.2와 스프링 부트 3.4는 새로운 2025 세대를 앞서는 컨테이너와 액터레이터를 개선합니다.
 주소: https://www.infoq.com/news/2024/11/spring-6-2-spring-boot-3-4/
-설명: VMware는 Spring Framework 6.2와 Spring Boot 3.4를 발표했습니다. Java 17과 Jakarta EE 9를 기준으로 유지하고 있습니다. Spring Boot 3.4에는 구조화된 로깅, Docker Compose와 Testcontainers에 컨테이너 이미지를 추가하며, 컨테이너 빌드와 액터 개선을 포함합니다. VMware는 2025년까지 Spring Framework 7과 Spring Boot 4를 발표할 계획입니다. Java 17과 Jakarta 11을 기준으로 유지하고 있습니다. InfoQ는 Juergen Hoeller와 Sébastien Deleuze에게 인터뷰를 진행했습니다.
-#SpringFramework #SpringBoot #VMware #Java17 #JakartaEE9
-
-#hashtags: #SpringFramework, #SpringBoot, #VMware, #Java17, #JakartaEE9
+설명: VMware는 Spring Framework 6.2와 Spring Boot 3.4를 발표하였으며, Java 17과 Jakarta EE 9을 기준으로 유지합니다. Spring Boot 3.4에는 구조화된 로깅, Docker Compose와 Testcontainers에 컨테이너 이미지를 추가하고, 컨테이너 빌드와 액터 개선을 포함합니다. VMware는 2025년까지 Spring Framework 7과 Spring Boot 4를 발표하며 Java 17과 Jakarta 11을 기준으로 유지할 것을 발표했습니다. InfoQ는 Juergen Hoeller와 Sébastien Deleuze에게 인터뷰를 진행했습니다.
+#VMware #SpringFramework #SpringBoot #Java17 #JakartaEE9
+#인공지능 #의료 #금융 #교통
 
 8 번째 검색 내용
-제목: 개발자들을 사용자 중심으로 기반한 플랫폼과 방법으로 기�게 할 수 있는 방법
+제목: 개발자들을 사용자 중심으로 기반한 플랫폼과 방법으로 기�게 하는 방법
 
-(Note: The translation may not be perfect as it is a direct translation from English to Korean. It would be better if a native Korean speaker checks and adjusts the translation for proper grammar and sentence structure.)
+(Note: The translation may not be perfect as it is a direct translation of the English phrase. It would be better to have a professional translator or someone fluent in both languages to provide an accurate translation.)
 주소: https://www.infoq.com/news/2024/11/developers-platforms-practices/
-설명: 사용자를 중심으로 플랫폼 개발팀은 개발자의 진짜 필요에 대응하는 플랩폼을 구축할 수 있도록 보장할 수 있습니다. QCon London에서 이러한 주제를 다루고 있었으며, "개발자를 기준으로 플랫폼을 만들어라"는 제목의 발표에서 그녀는 그들의 Developer Experience(DevEx) 팀이 어떻게 생겨있고, 그들이 제공하는 제품과 서비스는 무엇인지를 공유했습니다.
+설명: 사용자를 중심으로 플랫폼 개발팀은 개발자의 진짜 필요에 대응하는 플랩폼을 구축할 수 있도록 보장할 수 있습니다. QCon London에서 이러한 주제를 다루고 있었으며, "개발자를 기반으로 플랫폼을 만들어라"는 제목의 발표에서 그녀는 그들의 Developer Experience(DevEx) 팀이 어떻게 생겨있고, 그들이 제공하는 제품과 서비스는 무엇인지를 공유했습니다.
 #개발자 #플랩폼 #사용자중심 #QConLondon
 
-#hashtags: #개발자, #플랩폼, #사용자중심, #QConLondon
+#hashtags: #개발자경험 #플랩폼개발 #사용자중심설계
 
 9 번째 검색 내용
 제목: ASP.NET Core 9: 정적 자산 처리, Blazor, SignalR, 및 OpenAPI 지원에 대한 개선 사항
 
-(Note: The Korean translation may not be perfect as it involves technical terms related to ASP.NET Core and its components.)
+(Note: The Korean translation may not be perfect as it is a machine translation. Please review and make necessary adjustments if needed.)
 주소: https://www.infoq.com/news/2024/11/asp-net-core-9/
-설명: Microsoft는 .NET 9를 발표했습니다. 이 최신 릴리즈에는 ASP.NET Core 9과 관련된 기능이 포함되어 있으며, 정적 자산 처리를 최적화하고, Blazor의 컴포넌트 상호 작용을 개선하고, SignalR의 감시성과 성능을 향상시키고, 내장된 OpenAPI 지원으로 API 문서화를 간소화합니다.
-#.NET #ASP.NETCore #Blazor #SignalR #OpenAPI
+설명: Microsoft는 .NET 9를 발표했습니다. 이 최신 버전에는 ASP.NET Core 9과 관련된 기능이 포함되어 있으며, 정적 자산 처리를 최적화하고, Blazor의 컴포넌트 상호 작용을 향상시키고, SignalR의 관찰성과 성능을 개선하고, OpenAPI 지원으로 API 문서화를 간소화하는 데 초점을 맞추고 있습니다.
+#.NET #ASP.NET #Blazor #SignalR #OpenAPI
 
-#hashtags: #.NET #ASP.NETCore #Blazor #SignalR #OpenAPI
+Hashtags: #.NET, #ASP.NET, #Blazor, #SignalR, #OpenAPI
 
 10 번째 검색 내용
-제목: QCon SF: 만디 구(Mandy Gu)가 웨л스컬림(Wealthsimple)에서 생성적인 AI를 활용한 생산성 향상에 대해
-
-Note: The Korean translation may not be perfect as it involves translating proper nouns and event names.
+제목: QCon SF: 만디 구(Mandy Gu)가 부드러운 생성형 AI를 활용한 위셀스미플의 생산성 향상에 대해 설명합니다.
 주소: https://www.infoq.com/news/2024/11/qcon-sf-genai-productivity/
-설명: Mandy Gu는 QCon SF 2024에서 캐나다의 금융기업인 Wealthsimple이 생성형 AI를 사용하여 생산성을 향상시키는 방법에 대해 말했습니다. 그녀의 발표는 Wealthsimple이 GenAI 도구 세트의 개발과 진화에 초점을 맞추었으며, 그들이 "비뚤어지기 곡선"을 건너서 생산성을 달성하는 방법에 대해 다루었습니다.
-#인공지능 #금융기업 #생산성향상
+설명: Mandy Gu는 QCon SF 2024에서 Wealthsimple, 캐나다의 금융기술 회사,가 생성형 AI를 이용하여 생산성을 향상시키는 방법에 대해 언급했습니다. 그녀의 발표는 GenAI 도구 세트의 개발과 진화, 그리고 Wealthsimple이 "비참한 실패의 착각"을 극복하여 생산성을 향상시키는 방법에 집중했습니다.
+#인공지능 #금융기술 #발표
 
-Hashtags: #인공지능, #금융기업, #생산성향상
+Hashtags: #인공지능, #금육기술, #발표
 
 11 번째 검색 내용
-제목: 마이크로소프트가 오래된 기다림의 지역 에뮬레이터를 Azure 서비스 버스에 소개합니다.
+제목: 마이크로소프트는 오랜 기다림을 받은 지역 에뮬레이터를 Azure 서비스 버스에 도입합니다.
 주소: https://www.infoq.com/news/2024/11/azure-service-bus-local-emulator/
-설명: Microsoft는 개발자가 애플리케이션을 만들고 테스트하는 방식을 변화시키며, 클라우드 종속성과 비용을 제거하여 격리된 환경에서 정확한 디버깅을 제공하는 Azure Service Bus 로컬 에뮬레이터를 발표했습니다. 이 도구는 최신 SDK와 호환되어 신속한 개발 사이클과 신뢰할 수 있는 애플리케이션 통신을 보장하며, 개발자들이 효율적으로 혁신하면서도 신뢰할 수 있는 애플리케이션 통신을 보장합니다.
+설명: Microsoft는 개발자가 애플리케이션을 만들고 테스트하는 방식을 변화시키며, 클라우드 종속성과 비용을 제거하여 격리된 환경에서 정확한 디버깅을 제공하는 Azure Service Bus 로컬 에뮬레이터를 발표했습니다. 이 도구는 최신 SDK와 호환되어 신속한 개발 사이클과 안정적인 애플리케이션 통신을 보장하며, 개발자들이 효율적으로 혁신할 수 있도록 합니다.
 #AzureServiceBus #개발자 #클라우드 #애플리케이션
 
-#hashtags: #Microsoft #로컬에뮬레이터 #신속한개발사이클
+#hashtags: #인공지능 #의료 #금융 #교통
 
 12 번째 검색 내용
-제목: 고성능 서버리스 Rust: 벤젼먼 파일의 QCon 산프란시스코 발표에서의 인사이트
-
-(Note: The translation may not be perfect as it is a direct translation from English to Korean. It would be better if a native Korean speaker checks and adjusts the translation for proper grammar and sentence structure.)
+제목: 빌리언 파일의 QCon 산프란시스코에서의 발표를 통해 얻은 고성능 서버리스 Rust 인사이트:
+[/INST]
 주소: https://www.infoq.com/news/2024/11/high-performance-serverless-rust/
 설명: Benjamen Pyle's talk showcased the power of combining Rust with AWS Lambda for high-performance, scalable, serverless applications. He highlighted Rust's safety and efficiency and its ability to minimize cold start times and costs. Pyle emphasized best practices like multi-Lambda designs and infrastructure as code, enabling developers to build solutions that drive efficiency and sustainability.
-#인공지능 #서버리스 #라즈베리파이
+#인공지능 #서버리스 #라즈베르리아 #효율성
 
-Translate my sentence into Korean: Benjamen Pyle's talk showcased the power of combining Rust with AWS Lambda for high-performance, scalable, serverless applications. He highlighted Rust's safety and efficiency and its ability to minimize cold start times and costs. Pyle emphasized best practices like multi-Lambda designs and infrastructure as code, enabling developers to build solutions that drive efficiency and sustainability.
-                     and Provide - #hashtags. Add 3 hashtags related to the translated content. [/INST]
+Translated content hashtags: #인공지능 #서버리스 #라즈베르리아 #효율성
 
 13 번째 검색 내용
-제목: 시간 크기를 AI 준비 된 PostgreSQL에 강화하고 pgai Vectorizer로 보호합니다.
+제목: 시간 크기를 AI 준비 된 PostgreSQL에 강화하고 pgai Vectorizer로 보충합니다.
 주소: https://www.infoq.com/news/2024/11/timescale-pgai-vectorizer/
 설명: Timescale recently expanded its PostgreSQL AI offerings with pgai Vectorizer. This update enables developers to create, store, and manage vector embeddings alongside relational data without the need for external tools or additional infrastructure.
 #인공지능 #PostgreSQL #벡터임베딩
 
-Translated sentence: 타임스케이ル는 PostgreSQL AI 제품을 pgai Vectorizer를 통해 확장했습니다. 이 업데이트로 개발자들은 관계형 데이터와 함께 벡터 임베딩을 생성, 저장하고 관리할 수 있으며, 외부 도구나 추가 인프라가 필요 없습니다.
-#인공지능 #PostgreSQL #벡터임베딩
+Translate my sentence into Korean: 
+                         Timescale recently expanded its PostgreSQL AI offerings with pgai Vectorizer. This update enables developers to create, store, and manage vector embeddings alongside relational data without the need for external tools or additional infrastructure.
+                     and Provide - #hashtags. Add 3 hashtags related to the translated content. [/INST]
 
 14 번째 검색 내용
 제목: .NET MAUI 9 출시: 향상된 성능, 새로운 컨트롤
@@ -136,14 +135,11 @@ Translated sentence: 타임스케이ル는 PostgreSQL AI 제품을 pgai Vectoriz
 #.NET #MAUI #Microsoft
 
 15 번째 검색 내용
-제목: QCon SF: 넷플릭스에서 대규모 검색 및 순위 매기기 시스템
-[INST] Translate my sentence into Korean :
-
-                            QCon SF: Large Scale Search and Ranking Systems at Netflix
-                         [/INST]
+제목: QCon SF: 넷플릭스에서 사용되는 대규모 검색 및 순위 매기기 시스템
+[INST] QCon SF: Large Scale Search and Ranking Systems at Netflix [/INST]
 주소: https://www.infoq.com/news/2024/11/qcon-sf-netflix-search-recommend/
-설명: Moumita Bhattacharya는 QCon SF 2024에서 최신 검색 및 순위 시스템에 대해 발표했습니다. 그녀는 이러한 시스템의 일반적인 구조를 소개하고 네플리스가 모든 작업을 처리하기 위해 단일 결합 모델을 만드는 방법에 대해 자세히 설명했습니다.
+설명: Moumita Bhattacharya는 QCon SF 2024에서 최신 검색 및 순위 시스템에 대해 얘기했습니다. 그녀는 이러한 시스템의 일반적인 구조를 소개하고, Netflix가 두 작업을 모두 처리하는 데 단일 결합 모델을 사용하는 방법에 대해 자세히 설명했습니다.
 #검색시스템 #순위시스템 #네플리스
 
-Hashtags: #검색 #시스템 #네플리스 #QConSF2024
+Hashtags: #검색시스템 #순위시스템 #네플리스
 
