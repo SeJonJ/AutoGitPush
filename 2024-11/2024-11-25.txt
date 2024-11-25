@@ -1,0 +1,148 @@
+1 번째 검색 내용
+제목: QCon 산프란시스코 2024년 2일: 쉬프트-라이트, 제네릭 AI, 엔지니어링 생산성, 언어/패러다임
+
+(Note: The Korean translation may not be perfect as it involves translating technical terms and event names. Please review the translation for accuracy.)
+주소: https://www.infoq.com/news/2024/11/day-two-qcon-sf-2024/
+설명: 인공지능은 세계를 변화시키고 있습니다. 이것은 의료, 금융, 교통과 같은 다양한 분야에 응용되고 있습니다.
+#인공지능 #의료 #금융 #교통
+
+The 18th annual QCon San Francisco conference was held at the Hyatt Regency San Francisco in San Francisco, California. This five-day event, organized by C4Media, consists of three days of presentations and two days of workshops. Day Two, scheduled on November 19th, 2024, included a keynote address by Lizzie Matusov and presentations from four conference tracks.
+and Provide - #hashtags. Add 3 hashtags related to the translated content.
+
+#QConSanFrancisco #ITconference #C4Media
+
+2 번째 검색 내용
+제목: 파이썬의 상승, 생성형 AI, 및 전세계 개발자 커뮤니티: 2024년 GitHub Octoverse에서 얻은 인사이트
+
+(Note: The translation may not be perfect as it is a direct translation from English to Korean. It would be better if a native Korean speaker checks and adjusts the translation for proper grammar and sentence structure.)
+주소: https://www.infoq.com/news/2024/11/github-octoverse-2024/
+설명: 최근, GitHub Octoverse 2024 보고서는 Python이 JavaScript보다 더 많은 GitHub에서 인기 있는 언어로 선두하였습니다. 이것은 주로 데이터 과학, 머신러닝, 과학적 컴퓨팅 분야에서 지배적인 위치를 차지한 것으로 인해 발생했습니다. 생성 AI는 소프트웨어 개발 분야에서 유명한 상태를 유지하며, GitHub에서 생성 AI 프로젝트의 기여량이 크게 증가했습니다.
+#인공지능 #Python #소프트웨어개발
+
+Translated sentence: Recently, the GitHub Octoverse 2024 report revealed that Python has surpassed JavaScript as the most popular language on GitHub, primarily driven by its dominance in fields like data science, machine learning, and scientific computing. Generative AI continued its significant prominence in software development, with a substantial increase in contributions to generative AI projects on GitHub.
+
+#hashtags: #인공지능 #Python #소프트웨어개발
+
+3 번째 검색 내용
+제목: QCon 산프란시스코 2024년 1일: 아키텍처, 라스트, AI/ML 개발자를 위한 기술, 사회기술 강력성
+
+(Note: The Korean translation may not be perfect as it involves translating technical terms and event names. Please review the translation for accuracy.)
+주소: https://www.infoq.com/news/2024/11/day-one-qcon-sf-2024/
+설명: 인공지능은 세계를 변화시키고 있습니다. 이것은 의료, 금융, 교통과 같은 다양한 분야에 응용되고 있습니다.
+#인공지능 #의료 #금융 #교통
+
+The 18th annual QCon San Francisco conference was held at the Hyatt Regency San Francisco in San Francisco, California. This five-day event, organized by C4Media, consists of three days of presentations and two days of workshops. Day One, scheduled on November 18th, 2024, included a keynote address by Khawaja Shams and presentations from four conference tracks.
+and Provide - #hashtags. Add 3 hashtags related to the translated content.
+#QConSanFrancisco #ITconference #C4Media
+
+4 번째 검색 내용
+제목: LLaVA-CoT는 시각 언어 모델에서 구조화된, 자율적인 이유 추론을 달성하는 방법을 보여주고 있습니다.
+주소: https://www.infoq.com/news/2024/11/llava-cot-visual-language-model/
+설명: Chinese researchers fine-tuned Llama-3.2-11B to improve its ability to solve multimodal reasoning problems by going beyond the direct-response or chain-of-thought (coT) approaches to reason step by step in a structured way. Named LLava-CoT, the new model outperforms its base model and proves better than larger models, including Gemini-1.5-pro, GPT-4o-mini, and Llama-3.2-90B-Vision-Instruct.
+                     #인공지능 #머신러닝 #다중모달이해력
+
+#hashtags: 
+1. #인공지능
+2. #머신러닝
+3. #다중모달이해력
+
+5 번째 검색 내용
+제목: 마이크로소프트는 그래프QL을 위한 Fabric API의 일반 사용 가능성을 발표합니다.
+주소: https://www.infoq.com/news/2024/11/fabric-api-for-graphql/
+설명: Microsoft는 GraphQL용 Fabric API를 공개 미리 보기에서 일반 사용 가능성(GA)으로 이동하면서 데이터 액세스 층을 출시했습니다. 이 릴리스는 Azure SQL과 Fabric SQL 데이터베이스에 대한 지원, 저장된 인증 자격 증명 인증, 상세 모니터링 도구, CI/CD 워크플로와의 통합을 포함하고 있습니다.
+#Microsoft #FabricAPI #GraphQL #데이터베이스
+
+6 번째 검색 내용
+제목: 빈엘(Vercel)이 AI 도구 키트를 확장하여 AI SDK 4.0 업데이트로 확장합니다.
+주소: https://www.infoq.com/news/2024/11/vercel-ai-sdk/
+설명: Vercel은 JavaScript와 TypeScript로 AI 응용 프로그램을 빌드하는 데 설계된 오픈 소스 AI SDK 도구 키트인 4.0 버전을 발표했습니다. 업데이트는 PDF 지원, 컴퓨터 사용 통합 및 새 xAI Grok API를 소개합니다.
+#Vercel #AI #SDK #JavaScript
+#TypeScript #xAI #GrokAPI
+
+7 번째 검색 내용
+제목: 첫 번째 구글 악시온 프로세서 현재 사용 가능: 클라우드 시장에서 최고의 성능을 주장합니다.
+주소: https://www.infoq.com/news/2024/11/google-axion-c4a/
+설명: Google은 C4A 가상 머신의 일반 사용 가능성을 발표하며, Axion 기반 인스턴스의 데뷔를 찍었습니다. 클라우드 제공자는 이러한 인스턴스가 경쟁사인 Amazon Graviton4 및 최신 Arm 기반 대안에 비해 10% 이상의 가격-성능에 대한 향상을 제공함을 주장합니다.
+#Google #C4A #Axion #가격-성능 #경쟁사
+
+Translated sentence: Google has announced the general availability of its C4A virtual machines, marking the debut of Axion-based instances. The cloud provider claims these instances deliver up to 10% better price-performance compared to the latest Arm-based alternatives from competitors, including Amazon Graviton4.
+#hashtags: #Google #C4A #Axion #가격-성능 #경쟁사
+
+8 번째 검색 내용
+제목: 넷플릭스는 서비스 수준 우선 순위 로드 시딩을 도입하여 강화되기를 기대합니다.
+주소: https://www.infoq.com/news/2024/11/netflix-load-shedding/
+설명: Netflix는 시스템 내구성을 높이기 위해 개별 서비스 수준까지 우선 순위 적용 로드 셰딩 구현을 확장했습니다. 이 접근 방식은 필요할 때만 낮은 우선 순위의 요청만 제외하고, 실패 격리를 위한 별도의 클러스터를 유지하는 것보다 클라우드 용량을 더 효율적으로 사용합니다.
+#Netflix #로드셰딩 #시스템내구성 #클라우드용량
+
+Hashtags: #Netflix, #로드셰딩, #시스템내구성, #클라우드용량
+
+9 번째 검색 내용
+제목: QCon SF 2024 - ML 프로젝트가 생산화에 도달하지 못한 이유
+
+(Note: The Korean translation may not be perfect as it involves understanding the context of the event and the topic. Please verify the translation if necessary.)
+주소: https://www.infoq.com/news/2024/11/why-ml-fails/
+설명: 인공지능 기술은 QCon SF 2024에서 Wenjie Zi of Grammarly에 의해 높은 실패율을 다루었으며, 비즈니스 목표와 미
+
+10 번째 검색 내용
+제목: QCon SF 2024 - 배치 GPU 인텐션 확장 실행을 위한 Ray
+
+(Note: The translation may not be perfect, as some terms or phrases might have specific meanings in the context of the event or technology. Please confirm the accuracy with a native Korean speaker if necessary.)
+주소: https://www.infoq.com/news/2024/11/batch-inference-ray/
+설명: At QConSF 2024, Cody Yu presented how Anyscale’s Ray can more effectively handle scaling out batch inference. Some of the problems Ray can assist with include scaling large datasets (hundreds of GBs or more), ensuring reliability with spot and on-demand instances, managing multi-stage heterogeneous compute, and managing tradeoffs with cost and latency.
+#인공지능 #빅데이터 #배치추론 #QConSF2024
+
+Translated content: 
+At QConSF 2024, Cody Yu presented how Anyscale’s Ray can more effectively handle scaling out batch inference. Some of the problems Ray can assist with include scaling large datasets (hundreds of GBs or more), ensuring reliability with spot and on-demand instances, managing multi-stage heterogeneous compute, and managing tradeoffs with cost and latency.
+#인공지능 #빅데이터 #배치추론 #QConSF2024
+
+Hashtags: 
+1. #인공지능 (Artificial Intelligence)
+2. #빅데이터 (Big Data)
+3. #배치추론 (Batch Inference)
+
+11 번째 검색 내용
+제목: 기술과 동향을 다루는 AI 강화 검색의 주제로 QCon SF에서 발표한 Faye Zhang
+
+(Note: The translation may not be perfect as it is translated using an AI model. Please review and make necessary adjustments if needed.)
+주소: https://www.infoq.com/news/2024/11/qcon-sf-zhang-search/
+설명: At QCon SF 2024, Faye Zhang gave a talk titled "Search: from Linear to Multiverse," covering three trends and techniques in AI-powered search: multi-modal interaction, personalization, and simulation with AI agents.
+                     #QConSF2024 #AIpoweredsearch #MultiModalInteraction
+Add 3 hashtags related to the translated content:
+1. #인공지능검색
+2. #다중모드상호작용
+3. #개인화된검색
+
+12 번째 검색 내용
+제목: [INST] 슬랙크 파이 3.4에서는 자카르타 EE 11의 미리보기와 자카르타 데이터 지원을 추가합니다. [/INST]
+주소: https://www.infoq.com/news/2024/11/wildfly-34-jakarta-ee/
+설명: AI : WildFly 커뮤니티는 WildFly 34의 최신 릴리즈를 발표하며, WildFly Preview에서 수행된 중요한 변경 사항을 강조했습니다. Jakarta Data 1.0, MicroProfile REST Client 4.0, MicroProfile Telemetry 2.0 등의 지원이 포함되었습니다. 그 외에는 ORM 6.6.x, Hibernate search 7.2, FasterXML Jackson 2.17과 같은 소규모 업데이트가 있습니다.
+#WildFly #JakartaData #MicroProfile
+
+#hashtags: #WildFly, #JakartaData, #MicroProfile
+
+13 번째 검색 내용
+제목: 오로라 제한없음: AWS가 자동화된 수평 확장을 지원하는 새로운 PostgreSQL 데이터베이스 소개
+[INST] Aurora Limitless: AWS Introduces New PostgreSQL Database with Automated Horizontal Scaling [/INST]
+주소: https://www.infoq.com/news/2024/11/amazon-aurora-limiteless/
+설명: AWS는 Amazon Aurora PostgreSQL Limitless Database, 자동화된 수평 확장을 제공하는 관계형 데이터베이스를 설계한 새로운 옵션을 일반적으로 사용할 수 있게 발표했습니다. 이 새로운 옵션은 초당 백만 개의 쓰기 트랜잭션을 처리하고 데이터를 펅비타이브까지 관리할 수 있으며, 모든 것은 단일 데이터베이스 환경에서 수행됩니다.
+#AWS #AmazonAurora #PostgreSQL #LimitlessDatabase
+
+Translated content hashtags: #AWS, #AmazonAurora, #PostgreSQL, #LimitlessDatabase
+
+14 번째 검색 내용
+제목: [INST] 번역: DevProxy 0.22 API 권한 확인 개선
+[/INST]
+주소: https://www.infoq.com/news/2024/11/devproxy-api-checks/
+설명: Microsoft는 DevProxy, API 시뮬레이션 명령줄 도구의 0.22 버전을 발표했습니다. 새로운 버전은 로깅을 개선하고 Azure API Centre에서 최소한의 권한을 탐지할 필요 없이 작동합니다.
+#Microsoft #DevProxy #API #명령줄도구
+
+#hashtags: #Microsoft #DevProxy #API #명령줄도구
+
+15 번째 검색 내용
+제목: 스프링 프레임워크 6.2와 스프링 부트 3.4은 새로운 2025 세대를 위해 컨테이너와 액터로터를 개선합니다.
+주소: https://www.infoq.com/news/2024/11/spring-6-2-spring-boot-3-4/
+설명: VMware는 Spring Framework 6.2와 Spring Boot 3.4를 발표했습니다. Java 17과 Jakarta EE 9를 기준으로 유지하고 있습니다. Spring Boot 3.4에는 구조화된 로깅, Docker Compose와 Testcontainers에 컨테이너 이미지를 추가하며, 컨테이너 빌드와 액터 개선을 포함합니다. VMware는 2025년까지 Spring Framework 7과 Spring Boot 4를 발표할 계획입니다. Java 17과 Jakarta 11을 기준으로 유지하고 있습니다. InfoQ는 Juergen Hoeller와 Sébastien Deleuze에게 인터뷰를 진행했습니다.
+#SpringFramework #SpringBoot #VMware #Java17 #JakartaEE9
+
+#hashtags: #SpringFramework, #SpringBoot, #VMware, #Java17, #JakartaEE9
+
