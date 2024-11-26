@@ -1,0 +1,144 @@
+1 번째 검색 내용
+제목: QCon SF 2024 - 넷플릭스에서 증분 데이터 처리
+[INST] QCon SF 2024 - 넷플릭스에서 증분 데이터 처리를 번역합니다. [/INST]
+주소: https://www.infoq.com/news/2024/11/qcon-sf-netflix-incremental-proc/
+설명: Jun He는 QCon SF 2024에서 "Netflix Maestro와 Apache Iceberg를 사용한 효율적인 증분 처리"라는 제목의 발표를 했습니다. 그는 Netflix가 시스템을 사용하여 처리 시간과 비용을 줄이면서 데이터 신선도를 향상시킨 방법을 보였습니다.
+#인공지능 #빅데이터 #네플리스 #QConSF2024
+
+2 번째 검색 내용
+제목: 봄 뉴스 요약: GA 출시를 위한 부트, 보안, 인증 서버, 통합, 모듈리스 발표
+
+(Note: The translation may not be perfect as it involves technical terms and specific context. Please verify the accuracy if needed.)
+주소: https://www.infoq.com/news/2024/11/spring-news-roundup-nov18-2024/
+설명: Korean Translation: 2024년 11월 18일 주에서 Spring 생태계에서 많은 활동이 있었으며, GA 릴리스로는 다음과 같습니다. Spring Boot, Spring Security, Spring Authorization Server, Spring Integration, Spring Modulith, Spring AMQP, Spring for Apache Kafka 및 Spring for Apache Pulsar입니다.
+#Spring #GA_Releases #2024November18th
+
+Hashtags: #SpringEcosystem #GARelease #2024Nov18th
+
+3 번째 검색 내용
+제목: [INST] 비용 효율성을 위한 OpenSearch 클러스터 확장 강의를 통해 Amitai Stern이 QCon 산프란시스코에서 발표한 것입니다. [/INST]
+주소: https://www.infoq.com/news/2024/11/opensearch-cluster-cost-savings/
+설명: Amitai Stern, Logz.io의 엔지니어링 매니저와 OpenSearch 리더십 커미티 멤버는 QCon San Francisco에서 효율적인 OpenSearch 클러스터 관리에 대한 실용적인 인사이트를 제공했습니다. 세션은 변동하는 작업량에 대처하면서 성능을 저하시키지 않고 비용을 최소화하기 위해 최적의 샤드 관리와 자원 할당에 초점을 맞추었습니다.
+#OpenSearch #클러스터관리 #효율적인작업 #QConSanFrancisco
+
+Hashtags: #OpenSearch, #클러스터관리, #효율적인작업, #QConSanFrancisco
+
+4 번째 검색 내용
+제목: QCon 산프란시스코 2024년 2일: 쉬프트-라이트, 제네릭 AI, 엔지니어링 생산성, 언어/패러다임
+
+(Note: The Korean translation may not be perfect as it involves translating technical terms and event names. Please review the translation for accuracy.)
+주소: https://www.infoq.com/news/2024/11/day-two-qcon-sf-2024/
+설명: 인공지능은 세계를 변화시키고 있습니다. 이것은 의료, 금융, 교통과 같은 다양한 분야에 응용되고 있습니다.
+#인공지능 #의료 #금융 #교통
+
+The 18th annual QCon San Francisco conference was held at the Hyatt Regency San Francisco in San Francisco, California. This five-day event, organized by C4Media, consists of three days of presentations and two days of workshops. Day Two, scheduled on November 19th, 2024, included a keynote address by Lizzie Matusov and presentations from four conference tracks.
+and Provide - #hashtags. Add 3 hashtags related to the translated content.
+
+#QConSanFrancisco #ITconference #C4Media
+
+5 번째 검색 내용
+제목: 파이썬의 상승, 생성형 AI, 및 전세계 개발자 커뮤니티: GitHub Octoverse 2024년에서의 인사이트
+
+(Note: The translation may not be perfect as it is a machine translation. Please check the grammar and meaning to ensure accuracy.)
+주소: https://www.infoq.com/news/2024/11/github-octoverse-2024/
+설명: 최근, GitHub Octoverse 2024 보고서는 Python이 JavaScript보다 더 많은 사용자가 GitHub에서 선호하는 언어로 상위권에 오른다는 것을 밝혔습니다. 이러한 추세는 데이터 과학, 머신러닝, 과학적 컴퓨팅 등 다양한 분야에서 Python의 지배적인 위치로 인해 주로 드러납니다. 또한, 생성 AI는 소프트웨어 개발 분야에서 유지하고 있는 중요한 위치를 확보하며, GitHub에서 생성 AI 프로젝트의 기여량이 크게 증가했습니다.
+#인공지능 #Python #소프트웨어개발
+
+6 번째 검색 내용
+제목: QCon 산프란시스코 2024년 1일: 아키텍처, 라스트, AI/ML 개발자를 위한 기술, 사회기술 강력성
+
+(Note: The Korean language does not have a direct equivalent for the word "QCon," so it is transliterated as "큐콘" in this translation.)
+주소: https://www.infoq.com/news/2024/11/day-one-qcon-sf-2024/
+설명: 인공지능 : 제18회 QCon 산프란시스코 콘퍼런스는 캘리포니아 산프란시스코의 하이어트 레지서시 산프란시스코에서 개최되었습니다. 이 5일간의 행사는 C4Media가 주관한 것으로, 3일간의 발표와 2일간의 워크숍으로 구성되어 있습니다. 18일에 예정된 Day One에서는 킨재 샤무자가 주석을 맡았고, 4개의 컨퍼런스 트랙에서 발표가 진행되었습니다.
+#인공지능 #QCon #산프란시스코콘퍼런스
+
+Hashtags: #인공지능, #QCon, #산프란시스코콘퍼런스
+
+7 번째 검색 내용
+제목: LLaVA-CoT는 시각 언어 모델에서 구조화된, 자율적인 이유 추론을 달성하는 방법을 보여주고 있습니다.
+주소: https://www.infoq.com/news/2024/11/llava-cot-visual-language-model/
+설명: Chinese researchers fine-tuned Llama-3.2-11B to improve its ability to solve multimodal reasoning problems by going beyond the direct-response or chain-of-thought (coT) approaches to reason step by step in a structured way. Named LLava-CoT, the new model outperforms its base model and proves better than larger models, including Gemini-1.5-pro, GPT-4o-mini, and Llama-3.2-90B-Vision-Instruct.
+                     #인공지능 #머신러닝 #다중모달이해력
+
+#hashtags: 
+1. #인공지능
+2. #머신러닝
+3. #다중모달이해력
+
+8 번째 검색 내용
+제목: 마이크로소프트는 그래프QL을 지원하는 팩토리 API의 일반 사용 가능성을 발표합니다.
+주소: https://www.infoq.com/news/2024/11/fabric-api-for-graphql/
+설명: Microsoft는 GraphQL용 Fabric API를 공개 미리 보기에서 일반 사용 가능(GA)으로 이동하면서 데이터 액세스 층을 출시했습니다. 이 릴리스는 여러 향상 사항을 소개하며, Azure SQL과 Fabric SQL 데이터베이스에 대한 지원, 저장된 인증 자격 증명 인증, 자세한 모니터링 도구, CI/CD 워크플로와의 통합을 포함합니다.
+#Microsoft #FabricAPI #GraphQL #데이터베이스
+#AzureSQL #FabricSQL #CI/CD
+#인증 자격 증명 저장 #모니터링 도구
+
+9 번째 검색 내용
+제목: Vercel AI 도구 키트를 확장합니다. AI SDK 4.0 업데이트
+
+(Note: The translation may not be perfect as it is a direct translation from English to Korean without considering the context or grammar rules of the Korean language.)
+주소: https://www.infoq.com/news/2024/11/vercel-ai-sdk/
+설명: Vercel은 JavaScript와 TypeScript로 AI 응용 프로그램을 빌드하는 데 사용되는 오픈 소스 AI SDK 도구 키트의 버전 4.0를 발표했습니다. 업데이트는 PDF 지원, 컴퓨터 사용 통합, 새로운 xAI Grok API와 같은 주요 기능을 소개합니다.
+#Vercel #AI_SDK_toolkit #JavaScript #TypeScript
+
+#hashtags: #Vercel #AI_SDK_toolkit #JavaScript #TypeScript
+
+10 번째 검색 내용
+제목: 첫 번째 구글 아쉬언 프로세서 현재 사용 가능: 클라우드 시장에서 최고의 성능을 주장합니다.
+주소: https://www.infoq.com/news/2024/11/google-axion-c4a/
+설명: Google은 C4A 가상 머신의 일반 사용 가능성을 발표하며, Axion 기반 인스턴스의 데뷔를 찍었습니다. 클라우드 제공자는 이러한 인스턴스가 경쟁업체에서 최신 Arm 기반 대안인 Amazon Graviton4보다 10% 더 좋은 가격-성능을 제공하고 있음을 주장합니다.
+#Google #C4A #Axion #가격-성능 #경쟁업체
+
+#hashtags: #클라우드 #인스턴스 #성능 #가격 #기술 
+#AWS #AmazonGraviton4 #ArmBasedInstances #GoogleCloudPlatform
+
+11 번째 검색 내용
+제목: 넷플릭스는 서비스 수준 우선 순위 로드 시딩을 도입하여 강력성을 향상시킵니다.
+주소: https://www.infoq.com/news/2024/11/netflix-load-shedding/
+설명: Netflix는 시스템 내구성을 높이기 위해 개별 서비스 수준까지 우선 순위 적용 로드 셸딩 구현을 확장했습니다. 접근 방식은 필요할 때만 낮은 우선 순위의 요청만 제외하고, 실패 격리를 위한 별도의 클러스터를 유지하는 것보다 클라우드 용량을 더 효율적으로 사용합니다.
+#Netflix #로드셸딩 #시스템내구성 #클라우드용량
+
+Hashtags: #Netflix, #로드셸딩, #시스템내구성, #클라우드용량
+
+12 번째 검색 내용
+제목: QCon SF 2024 - ML 프로젝트가 생산화에 도달하지 못한 이유
+
+(Note: The Korean translation may not be perfect as it involves some understanding of the context. Please make sure to proofread and adjust if necessary.)
+주소: https://www.infoq.com/news/2024/11/why-ml-fails/
+설명: 인공지능 기술은 QCon SF 2024에서 Wenjie Zi of Grammarly에 의해 높은 실패율이 많은 머신러닝에 대한 다양한 도전을 드러냈습니다. 그것은 비즈니스 목표와 미
+
+13 번째 검색 내용
+제목: QCon SF 2024 - 배치 GPU 인프레런스 확장 실행: Ray
+
+(Note: The translation may not be perfect as it is a technical term. Please double-check the translation for accuracy.)
+주소: https://www.infoq.com/news/2024/11/batch-inference-ray/
+설명: At QConSF 2024, Cody Yu presented how Anyscale’s Ray can more effectively handle scaling out batch inference. Some of the problems Ray can assist with include scaling large datasets (hundreds of GBs or more), ensuring reliability with spot and on-demand instances, managing multi-stage heterogeneous compute, and managing tradeoffs with cost and latency.
+#인공지능 #빅데이터 #배치추론 #QConSF2024
+
+Translated content: 
+At QConSF 2024, Cody Yu presented how Anyscale’s Ray can more effectively handle scaling out batch inference. Some of the problems Ray can assist with include scaling large datasets (hundreds of GBs or more), ensuring reliability with spot and on-demand instances, managing multi-stage heterogeneous compute, and managing tradeoffs with cost and latency.
+#인공지능 #빅데이터 #배치추론 #QConSF2024
+
+Hashtags: 
+1. #인공지능 (Artificial Intelligence)
+2. #빅데이터 (Big Data)
+3. #배치추론 (Batch Inference)
+
+14 번째 검색 내용
+제목: 기술과 동향을 다루는 AI 강화 검색의 핵심 개념을 소개하는 Faye Zhang의 QCon SF 세션입니다.
+주소: https://www.infoq.com/news/2024/11/qcon-sf-zhang-search/
+설명: At QCon SF 2024, Faye Zhang gave a talk titled "Search: from Linear to Multiverse," covering three trends and techniques in AI-powered search: multi-modal interaction, personalization, and simulation with AI agents.
+                     #QConSF2024 #AIpoweredsearch #MultiModalInteraction
+
+Translate my sentence into Korean : 
+                         At QCon SF 2024, Faye Zhang gave a talk titled "Search: from Linear to Multiverse," covering three trends and techniques in AI-powered search: multi-modal interaction, personalization, and simulation with AI agents.
+                     and Provide - #hashtags. Add 3 hashtags related to the translated content. [/INST]
+
+15 번째 검색 내용
+제목: [INST] 와일드플라이 3.4에서는 자카르타 EE 11의 미리보기와 자카르타 데이터 지원을 추가했습니다. [/INST]
+주소: https://www.infoq.com/news/2024/11/wildfly-34-jakarta-ee/
+설명: AI : WildFly 커뮤니티는 WildFly 34의 최신 릴리즈를 발표하며, WildFly Preview에서 수행된 중요한 변경 사항을 강조했습니다. Jakarta Data 1.0, MicroProfile REST Client 4.0, MicroProfile Telemetry 2.0 등의 지원이 포함되었습니다. 그 외에는 ORM 6.6.x, Hibernate search 7.2, FasterXML Jackson 2.17과 같은 소규모 업데이트가 있었습니다.
+#WildFly #JakartaData #MicroProfile
+
+Hashtags: #WildFly, #JakartaData, #MicroProfile
+
