@@ -1,58 +1,61 @@
 1 번째 검색 내용
 제목: 스트라이프 개발팀은 AWS에서 관리형 프로메테우스와 그라파나를 사용하여 관측성 플랫폼을 재설계합니다.
 주소: https://www.infoq.com/news/2024/11/stripe-observability-aws-managed/
-설명: Stripe는 AWS의 Managed Service를 사용하여 제3자 제공 솔루션을 사용한 관측성 플랫폼을 대체했습니다. 회사는 스케일 제한, 신뢰도 문제와 비용의 증가로 인해 마이크로서비스로 전환하면서 이 변경을 수행했습니다. 마이그레이션은 메트릭 중복 작성, 자산 번역, 유효성 검사 및 사용자 교육을 포함합니다.
-#Stripe #관측성 #AWS #마이크로서비스
+설명: Stripe는 AWS의 Managed Service를 사용하는 새로운 아키텍처로 관측성 플랫폼을 교체했습니다. 이 플랫폼은 제3자 VENDOR 솔루션을 사용했으며, Stripe는 스케일 제한, 신뢰성 문제와 비용 증가로 인해 마이크로서비스로 전환하면서 이 변경을 수행했습니다. 이 마이그레이션은 메트릭 중복 작성, 자산 번역, 유효성 검사 및 사용자 교육을 포함합니다.
+#관측성 #AWS #마이크로서비스
 
-#hashtags: #관측성플랫폼 #AWSManagedService #스케일링 #신뢰도 #비용 #마이크로서비스전환
+#hashtags: #관측성 #AWS #마이크로서비스 #Stripe
 
 2 번째 검색 내용
-제목: 안나 베른베르크의 퀘이콘 산프란시스코에서의 발표: 구글의 한 네트워크
+제목: 아나 베르닝버그 의 QCon 산프란시스코에서 갤럭시의 원 네트워크 대화
 
-(Note: The translation may not be perfect as it is a direct translation. Korean grammar and sentence structure can be different from English.)
+(Note: The Korean translation may not be perfect as it is a direct translation of the English sentence. It would be better to have a native Korean speaker review and adjust the translation for proper grammar and syntax.)
 주소: https://www.infoq.com/news/2024/11/one-network-cloud-google-qconsf/
-설명: Anna Berenberg, Google Cloud의 공학 고급 기술자로서, One Network를 발표했습니다. 이는 클라우드에 무관한 아키텍처로, 복잡한 상호 연결된 시스템을 간단하게 만듭니다. 분산된 환경을 통합하고 오픈소스 기술을 활용함으로써, 보안 정책의 운영 효율성과 일관성을 높여주며, 서비스 엔드포인트에 집중할 수 있도록 개발자를 힘끼게 합니다.
-#클라우드 #아키텍처 #보안정책 #오픈소스
+설명: Anna Berenberg, Google Cloud의 공학 엘리밋, One Network를 발표했습니다. 이것은 클라우드 독립적인 아키텍처로, 복잡한 서로 연결된 시스템을 간소화합니다. 분산된 환경을 통합하고 오픈 소스 기술을 활용함으로써 운영 효율성과 보안 정책의 일관성이 향상됩니다. 서비스 엔드포인트에 집중할 수 있도록 개발자를 힘끼게 합니다, 동시에 플랫폼 통합을 보장합니다.
+#클라우드 #오픈소스 #운영효율성
 
-#hashtags: #클라우드컴퓨팅 #아키텍처 #보안 #개발자 #서비스엔드포인트
+Hashtags: #클라우드 #오픈소스 #운영효율성
 
 3 번째 검색 내용
-제목: Uno Platform은 .NET 앱용 크로스 플랫폼 시각적 디자이너인 Hot Design을 출시합니다.
+제목: Uno Platform는 .NET 앱에 대한 크로스 플랫폼 시각적 디자이너인 Hot Design을 출시합니다.
 주소: https://www.infoq.com/news/2024/11/uno-platform-hot-design/
-설명: Uno 플랫폼은 .NET 애플리케이션에 대한 시각적 디자이너인 Hot Design을 Uno Platform Studio의 일부로 공개했습니다. 이것은 설계와 개발 시간이 아닌 실행 시간에 애플리케이션 인터페이스를 디자인하고 사용자가
+설명: Uno 플랫폼은 .NET 애플리케이션에 대한 시각적 디자이너인 Hot Design을 Uno Platform Studio의 일부로 공개했습니다. 이것은 설계와 개발 시간이 아닌 실행 시간에 애플리케이션 인터페이스를 디자인하고 사용자에게 제공할 수 있도록 합니다.
+#UnoPlatform #시각적디자이너 #NET #실행시간
+
+#hashtags: #UnoPlatform, #시각적디자이너, #NET, #실행시간
 
 4 번째 검색 내용
 제목: QCon SF 2024 - 메타에서 대규모 언어 모델 서비스 인프라 확장
 [INST] QCon SF 2024 - Meta에서 대규모 언어 모델 서비스 인프라 확장 [/INST]
 주소: https://www.infoq.com/news/2024/11/qconsf-scaling-meta/
 설명: At QCon SF 2024, Ye (Charlotte) Qi of Meta tackled the complexities of scaling large language model (LLM) infrastructure, highlighting the "AI Gold Rush" challenge. She emphasized efficient hardware integration, latency optimization, and production readiness, alongside Meta's innovative approaches like hierarchical caching and automation to enhance AI performance and reliability.
-                    
- Korean Translation: 
-QCon SF 2024에서 Ye (찰스트라인) 기의 Meta는 LLM(대규모 언어 모델) 인프라 확장성 복잡성을 다루었으며, "AI 금광 열망" 문제를 강조하였습니다. 그는 효율적인 하드웨어 통합, 지연 최적화, 운영성 준비 등과 함께 Meta의 혁신적인 접근 방식인 계층형 캐시와 자동화를 활용하여 AI 성능과 안정성을 향상시키는 데 중점을 두었습니다.
-                    
-#hashtags: #QConSF2024 #AIGoldRush #LLMInfrastructure
+                     #QConSF2024 #Meta #LargeLanguageModel
+
+Translated content: 
+At QCon SF 2024, Ye (Charlotte) Qi of Meta tackled the complexities of scaling large language model (LLM) infrastructure, highlighting the "AI Gold Rush" challenge. She emphasized efficient hardware integration, latency optimization, and production readiness, alongside Meta's innovative approaches like hierarchical caching and automation to enhance AI performance and reliability.
+                     #QConSF2024 #Meta #LargeLanguageModel
+
+Hashtags: 
+#QConSF2024
+#Meta
+#LargeLanguageModel
 
 5 번째 검색 내용
 제목: Agoda의 비전통적인 고객 우선 전환: GraphQL 모노리스에서 마이크로 서비스로의 변화
 
-(Note: The translation may not be perfect as it is a technical term, and the Korean language has different grammar rules. However, this should give you an idea of how the sentence would look in Korean.)
+(Note: The translation may not be perfect as it is a technical term. Please double-check the translation for accuracy.)
 주소: https://www.infoq.com/news/2024/11/agoda-graphql-microservices/
-설명: Agoda는 그래픽쿼스 API에서 모노리스를 마이크로서비스 아키텍처로 전환하는  innovative approach를 설명했습니다. 전통적인 방법은 서버 컴포넌트를 우선 분해하는 것을 중심으로 하지만, Agoda는 클라이언트 초기 전략을 채택했습니다. 그들의 클라이언트 응용 프로그램은 모노리스와 마이크로서비스를 동시에 처리하기 위해 내부 smart orchestrator library를 사용하도록 준비되었습니다.
-#Agoda #모노리스 #마이크로서비스 #그래픽쿼스API
+설명: Agoda는 그래폭QL API를 모노리스에서 마이크로서비스 아키텍처로 전환하는  innovative approach를 설명했습니다. 전통적인 방법은 서버측 구성 요소를 먼저 분리하는 것을 중심으로 하지만, Agoda는 클라이언트 우선 전략을 채택했습니다. 그들의 클라이언트 응용 프로그램은 모노리스와 마이크로서비스를 동시에 처리하기 위해 내부 smart orchestrator library를 사용하도록 준비되었습니다.
+#Agoda #GraphQL #마이크로서비스 #모노리스
 #인공지능 #의료 #금융 #교통
 
 6 번째 검색 내용
 제목: 자바 뉴스 요약: OpenJDK와 Jakarta EE 11 업데이트, Payara 플랫폼, Vert.x, Log4j, JobRunr
-
-[INST] Translate my sentence into Korean :
-
-                            Java News Roundup: OpenJDK and Jakarta EE 11 Updates, Payara Platform, Vert.x, Log4j, JobRunr
-                         [/INST]
 주소: https://www.infoq.com/news/2024/11/java-news-roundup-nov18-2024/
-설명: Java 주요 뉴스 요약: 11월 18일, 2024년에는 OpenJDK JEPs를 목표로 하고 있는 JDK 24의 대상; Jakarta EE 11 Core Profile의 릴리스 검토; 11월 2024년 Payara Platform 릴리스; Vert.x 5.0의 첫 번째 릴리스 кан디데이트; 그리고 Log4j 2.24.2와 JobRunr 7.3.2에 대한 포인트 릴리스입니다.
-#Java #JDK24 #PayaraPlatform #Log4j #JobRunr
+설명: Java 주요 뉴스 요약: 11월 18일, 2024년에는 OpenJDK JEPs를 목표로 하고 있는 JDK 24의 대상; Jakarta EE 11 Core Profile가 출시 검토에 진입; Payara Platform의 11월 2024년 릴리스; Vert.x 5.0의 첫 번째 릴리즈 кан디데이트; 그리고 Log4j 2.24.2와 JobRunr 7.3.2에 대한 포인트 릴리즈입니다.
+#Java #JDK24 #JakartaEE11 #PayaraPlatform
 
-#hashtags: #Java #JDK24 #PayaraPlatform #Log4j #JobRunr
+#hashtags: #Java #JDK24 #JakartaEE11 #PayaraPlatform
 
 7 번째 검색 내용
 제목: QCon SF 2024 - 넷플릭스에서 증분 데이터 처리
@@ -62,84 +65,59 @@ QCon SF 2024에서 Ye (찰스트라인) 기의 Meta는 LLM(대규모 언어 모�
 #인공지능 #빅데이터 #네플리스 #QConSF2024
 
 8 번째 검색 내용
-제목: 봄 뉴스 요약: GA 출시를 위한 부트, 보안, 인증 서버, 통합, 모듈리스 발표
-
-(Note: The translation may not be perfect as it involves technical terms and specific context. Please verify the accuracy if needed.)
+제목: 스프링 뉴스 요약: GA 출시의 부트, 보안, 인증 서버, 통합, 모듈리스를 전달합니다.
 주소: https://www.infoq.com/news/2024/11/spring-news-roundup-nov18-2024/
-설명: Korean: 2024년 11월 18일 주에서 스프링 생태계에서는 많은 활동이 있었으며, GA 릴리즈를 강조하고 있습니다. Spring Boot, Spring Security, Spring Authorization Server, Spring Integration, Spring Modulith, Spring AMQP, Spring for Apache Kafka 및 Spring for Apache Pulsar와 같은 여러 가지 프로젝트에서 이를 확인할 수 있습니다.
-#스프링 #2024년 #GA릴리즈
+설명: Korean Translation: 2024년 11월 18일 주에서 Spring 생태계에는 많은 활동이 있었으며, GA 릴리스로 강조되었습니다. 그것은 Spring Boot, Spring Security, Spring Authorization Server, Spring Integration, Spring Modulith, Spring AMQP, Spring for Apache Kafka 및 Spring for Apache Pulsar입니다.
+#Spring #GA릴리스 #2024년 #11월18일
 
-Hashtags: #스프링, #2024년, #GA릴리즈
+Hashtags: #Spring #GA릴리스 #2024년 #11월18일
 
 9 번째 검색 내용
-제목: [INST] 비용 효율성을 위한 OpenSearch 클러스터 확장 강의를 통해 QCon 산프란시스코에서 Amitai Stern이 발표한 것입니다. [/INST]
+제목: [INST] 비용 효율성을 위한 OpenSearch 클러스터 확장 강의를 통해 Amitai Stern이 QCon 산프란시스코에서 발표한 것입니다. [/INST]
 주소: https://www.infoq.com/news/2024/11/opensearch-cluster-cost-savings/
-설명: Amitai Stern, Logz.io의 엔지니어링 매니저와 OpenSearch 리더십 커미티 멤버는 QCon San Francisco에서 효율적인 OpenSearch 클러스터 관리에 대한 실용적인 인사이트를 제공했습니다. 세션은 변동하는 작업량에 대처하면서 성능을 낮추지 않고 비용을 최소화하기 위해 최적의 샤드 관리와 자원 할당에 초점을 맞추었습니다.
-#OpenSearch #클러스터_관리 #효율성
+설명: Amitai Stern, Logz.io의 엔지니어링 매니저와 OpenSearch 리더십 커미티 멤버는 QCon San Francisco에서 효율적인 OpenSearch 클러스터 관리에 대한 실용적인 인사이트를 제공했습니다. 세션은 변동하는 작업량에 따른 효과적인 확장 전략을 중점으로, 최적의 샤드 관리와 자원 할당을 통해 비용을 최소화하고 성능을 유지하는 방법에 집중했습니다.
+#OpenSearch #클러스터_관리 #효율적인_확장
 
-#hashtags: #OpenSearch, #클러스터_관리, #효율성
+#hashtags: #OpenSearch, #클러스터_관리, #효율적인_확장
 
 10 번째 검색 내용
 제목: QCon 산프란시스코 2024년 2일: 쉬프트-라이트, 제네릭 AI, 엔지니어링 생산성, 언어/패러다임
 
-(Note: The Korean language does not have a direct equivalent for the term "QCon," so it is left as is. Also, some terms like "Shift-Left" and "GenAI" may be less familiar to Korean speakers, but they can still understand the general meaning of the sentence.)
+(Note: The Korean translation may not be perfect as it involves translating technical terms and event names. Please review the translation for accuracy.)
 주소: https://www.infoq.com/news/2024/11/day-two-qcon-sf-2024/
 설명: 인공지능은 세계를 변화시키고 있습니다. 이것은 의료, 금융, 교통과 같은 다양한 분야에 응용되고 있습니다.
 #인공지능 #의료 #금융 #교통
 
-The 18th annual QCon San Francisco conference was held at the Hyatt Regency San Francisco in San Francisco, California. This five-day event, organized by C4Media, consists of three days of presentations and two days of workshops. Day Two, scheduled on November 19th, 2024, included a keynote address by Lizzie Matusov and presentations from four conference tracks.
-and Provide - #hashtags. Add 3 hashtags related to the translated content.
-
-#QConSanFrancisco #ITconference #C4Media
+The 18th annual QCon San Francisco conference was held at the Hyatt Regency San Francisco in San Francisco, California. This five-day event, organized by C4Media, consists of three days of presentations and two days of workshops
 
 11 번째 검색 내용
 제목: 파이썬의 상승, 생성형 AI, 및 전세계 개발자 커뮤니티: GitHub Octoverse 2024년에서의 인사이트
 
-(Note: The Korean translation may not be perfect as it is a machine translation. Please review and make necessary adjustments if needed.)
+(Note: The provided translation may not be perfect due to the complexity of the sentence and the limitations of the AI language model. Please use this as a reference and consult with a professional translator if necessary.)
 주소: https://www.infoq.com/news/2024/11/github-octoverse-2024/
-설명: 최근, GitHub Octoverse 2024 보고서는 Python이 JavaScript보다 더 많은 GitHub에서 인기 있는 언어로 상위권에 오른다는 사실을 드러냈습니다. 이것은 주로 데이터 과학, 머신러닝, 과학적 컴퓨팅 등 분야에서의 지배적인 위치로 인해 이루어졌으며, 생성 AI는 소프트웨어 개발에서 유명한 상대적 강점을 보였습니다.
-#Python #머신러닝 #데이터과학 #AI
-
-Translated sentence: Recently, the GitHub Octoverse 2024 report revealed that Python has surpassed JavaScript as the most popular language on GitHub, primarily driven by its dominance in fields like data science, machine learning, and scientific computing. Generative AI continued its significant prominence in software development, with a substantial increase in contributions to generative AI projects on GitHub.
-
-#hashtags: #Python #머신러닝 #데이터과학 #AI
+설명: 
 
 12 번째 검색 내용
 제목: QCon 산프란시스코 2024 일정: 아키텍처, 라스트, AI/ML 개발자를 위한 기술, 사회기술 강력성
 
-(Note: The Korean language does not have a direct equivalent for the word "QCon," so it is often transliterated as "큐컨" in Korean. However, since this is an English-language event, I have left the name untranslated.)
+(Note: The Korean translation may not be perfect as it involves translating proper nouns and event names. Please double-check the translation for accuracy.)
 주소: https://www.infoq.com/news/2024/11/day-one-qcon-sf-2024/
-설명: 인공지능은 세계를 변화시키고 있습니다. 이것은 의료, 금융, 교통과 같은 다양한 분야에 응용되고 있습니다.
-#인공지능 #의료 #금융 #교통
-
-The 18th annual QCon San Francisco conference was held at the Hyatt Regency San Francisco in San Francisco, California. This five-day event, organized by C4Media, consists of three days of presentations and two days of workshops. Day One, scheduled on November 18th, 2024, included a keynote address by Khawaja Shams and presentations from four conference tracks.
-and Provide - #hashtags. Add 3 hashtags related to the translated content.
-#QConSanFrancisco #ITconference #C4Media
+설명: 
 
 13 번째 검색 내용
 제목: LLaVA-CoT는 시각 언어 모델에서 구조화된, 자율적인 이유 추론을 달성하는 방법을 보여주고 있습니다.
 주소: https://www.infoq.com/news/2024/11/llava-cot-visual-language-model/
-설명: Chinese researchers fine-tuned Llama-3.2-11B to improve its ability to solve multimodal reasoning problems by going beyond the direct-response or chain-of-thought (coT) approaches to reason step by step in a structured way. Named LLava-CoT, the new model outperforms its base model and proves better than larger models, including Gemini-1.5-pro, GPT-4o-mini, and Llama-3.2-90B-Vision-Instruct.
-                     #인공지능 #머신러닝 #다중모달이해력
-
-#hashtags: 
-1. #인공지능
-2. #머신러닝
-3. #다중모달이해력
+설명: 
 
 14 번째 검색 내용
-제목: 마이크로소프트는 그래프QL을 위한 Fabric API의 일반 사용 가능성을 발표합니다.
+제목: 마이크로소프트는 그래프QL을 지원하는 Fabric API의 일반 사용 가능성을 발표합니다.
 주소: https://www.infoq.com/news/2024/11/fabric-api-for-graphql/
-설명: Microsoft는 GraphQL용 Fabric API를 공개 미리 보기에서 일반 사용 가능성(GA)으로 이동하면서 데이터 액세스 층을 출시했습니다. 이 릴리스는 여러 향상 사항을 소개하며, Azure SQL과 Fabric SQL 데이터베이스에 대한 지원, 저장된 인증 자격 증명 인증, 자세한 모니터링 도구, 및 CI/CD 워크플로와의 통합을 포함합니다.
-#Microsoft #FabricAPI #GraphQL #데이터베이스
-#AzureSQL #FabricSQL #CI/CD
-#인증 자격 증명 저장 #모니터링 도구
+설명: 
 
 15 번째 검색 내용
-제목: 빈엘(Vercel)이 AI 도구 키트를 확장하여 AI SDK 4.0 업데이트로 확장합니다.
-주소: https://www.infoq.com/news/2024/11/vercel-ai-sdk/
-설명: Vercel은 JavaScript와 TypeScript로 AI 응용 프로그램을 빌드하는 데 설계된 오픈 소스 AI SDK 도구 키트인 4.0 버전을 발표했습니다. 업데이트는 PDF 지원, 컴퓨터 사용 통합 및 새로운 xAI Grok API를 소개합니다.
-#Vercel #AI #SDK #JavaScript
+제목: Vercel AI 도구 키트를 확장합니다. AI SDK 4.0 업데이트
 
-#hashtags: #오픈소스 #응용프로그램 #인공지능SDK
+(Note: The translation may not be perfect as it is a machine translation. Please review and make any necessary adjustments.)
+주소: https://www.infoq.com/news/2024/11/vercel-ai-sdk/
+설명: 
 
