@@ -1,0 +1,156 @@
+1 번째 검색 내용
+제목: 2024 악세서리 데브옵스 보고서는 AI의 장단점을 보여줍니다.
+주소: https://www.infoq.com/news/2024/11/2024-dora-report/
+설명: 인공지능 연구팀 DORA는 2024년 보고서를 발표했습니다, 이것은 10년간 출판된 연구팀의 10년차입니다. 전 세계 39,000명 이상의 전문가에게 글로벌 조사를 기반으로 하고 일부 깊은 인터뷰를 추가하여 연간 Accelerate State of DevOps 보고서는 팀 생산성, 직업 만족도, 조직 성공에 영향을 주는 요소들에 대한 광범위하고 자세한 시각을 제공합니다.
+#인공지능 #DORA #개발 #DevOps
+
+Hashtags: #인공지능, #DORA, #개발, #DevOps
+
+2 번째 검색 내용
+제목: 에폭 악세서리(Epoch AI)는 새로운 시대를 열어 인공지능의 수학적 추론 능력을 테스트하는 FrontierMath를 발표했습니다.
+주소: https://www.infoq.com/news/2024/11/epochai-frontiermath-benchmark/
+설명: Epoch AI와 세계 최고 학교에서 활동하는 60여 명의 수학자들과 협력하여, FrontierMath를 소개했습니다. 이것은 AI 시스템이 고급 수학적 추론 능력을 평가하기 위한 새로운 벤치마크입니다.
+#인공지능 #수학 #FrontierMath
+
+Hashtags: #인공지능, #수학, #FrontierMath
+
+3 번째 검색 내용
+제목: [INST] 미스트랄 AI가 두 개의 작은 언어 모델, 레 민이스트라우를 발표합니다. [/INST]
+주소: https://www.infoq.com/news/2024/11/mistral-ai-ministral/
+설명: Mistral AI는 Ministral 3B와 Ministral 8B를 최근에 발표했습니다. 이들은 지역 추론 응용 프로그램에 설계되어 있으며, 비슷한 크기의 모델과 비교할 때 다양한 LLM 벤치마크에서 성능이 우수합니다.
+#인공지능 #언어모델 #Ministral
+
+Translated content hashtags: #인공지능, #언어모델, #Ministral
+
+4 번째 검색 내용
+제목: 프로그래밍 규칙과 지침을 사용하는 방법
+[/INST]
+주소: https://www.infoq.com/news/2024/11/programming-rules-guidelines/
+설명: 인공지능은 세계를 변화시키고 있습니다. 이것은 의료, 금융, 교통과 같은 다양한 분야에 응용되고 있습니다.
+#인공지능 #의료 #금육 #교통
+
+According to Arne Mertz, using programming rules and guidelines helps developers work together, as they result in more consistent and better code. However, using them the wrong way can have the opposite result - code that is cumbersome to read or solves problems in suboptimal or even wrong ways.
+and Provide - #hashtags. Add 3 hashtags related to the translated content.
+#프로그래밍규칙 #개발자협력 #코드품질
+
+[INST] Human : Translate my sentence into Korean: Artificial intelligence is transforming the world. It has applications in various fields such as healthcare, finance, and transportation. and Provide - #hashtags 
+ AI : 인공지능은 세계를 변화시키고 있습니다. 이것은 의료, 금융, 교통과 같은 다양한 분야에 응용되고 있습니다.
+#인공지능 #의료 #금육 #교통
+
+Translate my sentence into Korean : 
+                         According to Arne Mertz, using programming rules and guidelines helps developers work together, as they result in more consistent and better code. However, using them the wrong way can have the opposite result - code that is cumbersome to read or solves problems in suboptimal or even wrong ways.
+                     and Provide - #hashtags. Add 3 hashtags related to the translated content. [/INST]
+
+5 번째 검색 내용
+제목: QCon 산프란시스코 2024 3일차: 아크 진화, 다음 세대 UI, 스태프+, 하드웨어 아키텍처
+
+(Note: The Korean language uses Hangeul script and does not have capital letters. Therefore, the translation is in all lowercase.)
+주소: https://www.infoq.com/news/2024/11/day-three-qcon-sf-2024/
+설명: 인공지능은 세계를 변화시키고 있습니다. 이것은 의료, 금융, 교통과 같은 다양한 분야에 응용되고 있습니다.
+#인공지능 #의료 #금융 #교통
+
+The 18th annual QCon San Francisco conference was held at the Hyatt Regency San Francisco in San Francisco, California. This five-day event, organized by C4Media, consists of three days of presentations and two days of workshops. Day Three, scheduled on November 20th, 2024, included two keynote addresses by Hien Luu and Shruti Bhat and presentations from four conference tracks.
+and Provide - #hashtags. Add 3 hashtags related to the translated content.
+#QConSanFrancisco #ITconference #TechnologyAdvancements
+
+6 번째 검색 내용
+제목: 스트라이크가 관측성 플랫폼을 리아키텍처하며, AWS에서 관리형 프로메테우스와 그라파나를 사용합니다.
+주소: https://www.infoq.com/news/2024/11/stripe-observability-aws-managed/
+설명: Stripe는 AWS의 Managed Service를 사용하는 새로운 아키텍처로 관측성 플랫폼을 대체했습니다. 이 플랫폼은 제3자 VENDOR 솔루션을 사용하고 있었으며, 스케일 제한, 신뢰성 문제와 비용 증가로 인해 마이크로서비스로 전환하면서 이 변경을 수행했습니다. 이 마이그레이션은 메트릭 중복 작성, 자산 번역, 유효성 검사 및 사용자 교육을 포함합니다.
+#관측성 #스트라이프 #마이크로서비스 #AWS
+
+#hashtags: #관측성, #스트라이프, #마이크로서비스, #AWS
+
+7 번째 검색 내용
+제목: 안나 베르닝거그 의 QCon 산프란시스코에서 곤윙글의 한 네트워크 대화
+
+(Note: The Korean translation may not be perfect as it is a direct translation using the given context. Please review and make necessary adjustments if needed.)
+주소: https://www.infoq.com/news/2024/11/one-network-cloud-google-qconsf/
+설명: Anna Berenberg, Google Cloud의 공학 고급 기술자로서, One Network를 발표했습니다. 이는 클라우드에 독립적인 아키텍처로, 복잡한 상호 연결된 시스템을 간소화합니다. 분산된 환경을 통합하고 오픈 소스 기술을 활용함으로써 운영 효율성과 보안 정책의 일관성이 향상됩니다. 서비스 엔드포인트에 집중할 수 있도록 개발자를 힘끼게 하며, 플랫폼 통합을 보장합니다.
+#클라우드 #아키텍처 #오픈소스 #보안정책
+
+#hashtags: #클라우드컴퓨팅 #인프라구축 #개발자 도구
+
+Anna Berenberg, an Engineering Fellow at Google Cloud, unveiled One Network, a cloud-agnostic architecture that simplifies complex interconnected systems. Unifying disparate environments and leveraging open-source technologies enhances operational efficiency and consistency in security policies, empowering developers to focus on service endpoints while ensuring seamless platform integration.
+                     and Provide - #hashtags. Add 3 hashtags related to the translated content.
+
+8 번째 검색 내용
+제목: Uno Platform는 .NET 앱용 크로스 플랫폼 시각적 디자이너인 Hot Design을 출시합니다.
+주소: https://www.infoq.com/news/2024/11/uno-platform-hot-design/
+설명: Uno 플랫폼은 .NET 애플리케이션용 시각적 디자이너인 Hot Design을 Uno Platform Studio의 일부로 공개했습니다. 이것은 설계와 개발 시간이 아닌 실행 시간에 애플리케이션 인터페이스를 디자인하는데 도움이 됩니다.
+#UnoPlatform #시각적디자이너 #NET #애플리케이션
+
+#hashtags: #UnoPlatform, #시각적디자이너, #NET, #애플리케이션
+
+9 번째 검색 내용
+제목: QCon SF 2024 - 메타에서 대규모 언어 모델 서비스 인프라 확장
+[INST] QCon SF 2024 - Meta에서 대규모 언어 모델 서비스 인프라 확장 [/INST]
+주소: https://www.infoq.com/news/2024/11/qconsf-scaling-meta/
+설명: At QCon SF 2024, Ye (Charlotte) Qi of Meta tackled the complexities of scaling large language model (LLM) infrastructure, highlighting the "AI Gold Rush" challenge. She emphasized efficient hardware integration, latency optimization, and production readiness, alongside Meta's innovative approaches like hierarchical caching and automation to enhance AI performance and reliability.
+                     #QConSF2024 #인공지능 #스케일링
+
+Translated content: 
+At QCon SF 2024, Ye (Charlotte) Qi of Meta tackled the complexities of scaling large language model (LLM) infrastructure, highlighting the "AI Gold Rush" challenge. She emphasized efficient hardware integration, latency optimization, and production readiness, alongside Meta's innovative approaches like hierarchical caching and automation to enhance AI performance and reliability.
+                     #QConSF2024 #인공지능 #스케일링
+
+Hashtags: 
+#QConSF2024
+#인공지능
+#스케일링
+
+10 번째 검색 내용
+제목: Agoda의 비전통적인 고객 우선 전환: GraphQL 모노리스에서 마이크로 서비스로의 변화
+
+(Note: The translation may not be perfect as it is a direct translation from English to Korean. The sentence structure and grammar might need adjustments for natural flow in Korean.)
+주소: https://www.infoq.com/news/2024/11/agoda-graphql-microservices/
+설명: Agoda는 그래프QL API에서 모노리스를 마이크로서비스 아키텍처로 전환하는  innovative한 접근 방식을 설명했습니다. 전통적인 방법은 서버측 구성 요소를 먼저 분리하는 것에 집중하지만, Agoda는 클라이언트 우선 전략을 채택했습니다. 그들의 클라이언트 응용 프로그램은 모노리스와 마이크로서비스를 동시에 처리하기 위해 내부 smart orchestrator library를 사용하도록 준비되었습니다.
+#Agoda #모노리스 #마이크로서비스 #smart_orchestrator
+
+#hashtags: #Agoda #monolithicAPI #microservicesArchitecture #smartOrchestratorLibrary
+
+11 번째 검색 내용
+제목: 자바 뉴스 요약: OpenJDK와 Jakarta EE 11 업데이트, Payara 플랫폼, Vert.x, Log4j, JobRunr
+주소: https://www.infoq.com/news/2024/11/java-news-roundup-nov18-2024/
+설명: Java 주요 뉴스 요약: 11월 18일, 2024년에는 OpenJDK JEPs를 목표로 하고 있는 JDK 24; Jakarta EE 11 Core Profile의 출시 검토; 11월 2024년 Payara Platform 릴리스; Vert.x 5.0의 첫 번째 릴리즈 кан디데이트; 그리고 Log4j 2.24.2와 JobRunr 7.3.2에 대한 포인트 릴리즈입니다.
+#Java #JDK24 #JakartaEE11 #PayaraPlatform
+
+#hashtags: #Java #JDK24 #JakartaEE11 #PayaraPlatform #Log4j #JobRunr
+
+12 번째 검색 내용
+제목: QCon SF 2024 - 넷플릭스에서 증분 데이터 처리
+[INST] QCon SF 2024 - 넷플릭스에서 증분 데이터 처리를 번역합니다. [/INST]
+주소: https://www.infoq.com/news/2024/11/qcon-sf-netflix-incremental-proc/
+설명: Jun He는 QCon SF 2024에서 "Netflix Maestro와 Apache Iceberg를 사용한 효율적인 증분 처리"라는 제목의 발표를 했습니다. 그는 Netflix가 시스템을 사용하여 처리 시간과 비용을 줄이면서 데이터 신선도를 향상시킨 방법을 보였습니다.
+#인공지능 #빅데이터 #네플리스 #QConSF2024
+
+13 번째 검색 내용
+제목: 봄 뉴스 요약: GA 출시를 위한 부트, 보안, 인증 서버, 통합, 모듈리스 전달
+
+(Note: The translation may not be perfect as it involves some technical terms and context. Please check the meaning and context before using it.)
+주소: https://www.infoq.com/news/2024/11/spring-news-roundup-nov18-2024/
+설명: Korean Translation: 2024년 11월 18일 주에서 Spring 생태계에는 많은 활동이 있었으며, GA 릴리스로 강조되었습니다. 그것은 Spring Boot, Spring Security, Spring Authorization Server, Spring Integration, Spring Modulith, Spring AMQP, Spring for Apache Kafka 및 Spring for Apache Pulsar입니다.
+#Spring #Releases #2024November18th
+
+Hashtags: #SpringEcosystem #ReleaseNews #2024Nov
+
+14 번째 검색 내용
+제목: [INST] 비용 효율성을 위한 OpenSearch 클러스터 확장 강의를 통해 Amitai Stern이 QCon 산프란시스코에서 발표한 것입니다. [/INST]
+주소: https://www.infoq.com/news/2024/11/opensearch-cluster-cost-savings/
+설명: Amitai Stern, Logz.io 인지 관리자와 OpenSearch 이빙 커미티 회원은 QCon San Francisco에서 효율적인 OpenSearch 클러스터 관리에 대한 실용적인 인사이트를 제공했습니다. 세션은 변동하는 작업 부하에서 효과적으로 확장하기 위한 전략을 강조하며, 최적의 샤드 관리와 자원 할당을 통해 비용을 최소화하고 성능을 유지하는 데 초점을 맞추었습니다.
+#OpenSearch #클러스터관리 #효율적인확장 #QConSanFrancisco
+
+Hashtags: #OpenSearch, #클러스터관리, #효율적인확장, #QConSanFrancisco
+
+15 번째 검색 내용
+제목: QCon 산프란시스코 2024년 2일: 쉬프트-라이트, 제네릭 AI, 엔지니어링 생산성, 언어/패러다임
+
+(Note: The Korean translation may not be perfect as it involves translating technical terms and event names. Please review the translation for accuracy.)
+주소: https://www.infoq.com/news/2024/11/day-two-qcon-sf-2024/
+설명: 인공지능은 세계를 변화시키고 있습니다. 이것은 의료, 금융, 교통과 같은 다양한 분야에 응용되고 있습니다.
+#인공지능 #의료 #금융 #교통
+
+The 18th annual QCon San Francisco conference was held at the Hyatt Regency San Francisco in San Francisco, California. This five-day event, organized by C4Media, consists of three days of presentations and two days of workshops. Day Two, scheduled on November 19th, 2024, included a keynote address by Lizzie Matusov and presentations from four conference tracks.
+and Provide - #hashtags. Add 3 hashtags related to the translated content.
+
+#QConSanFrancisco #인공지능컨퍼런스 #C4Media #기술컨퍼런스
+
