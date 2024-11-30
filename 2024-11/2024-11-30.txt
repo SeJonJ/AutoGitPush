@@ -1,22 +1,35 @@
 1 번째 검색 내용
+제목: 분산 추적 도구 Jaeger가 핵심에 OpenTelemetry를 사용하여 버전 2를 릴리스합니다.
+주소: https://www.infoq.com/news/2024/11/jaeger-v2-opentelemetry/
+설명: AI : 제이거 프로젝트의 버전2, 인기 있는 오픈소스 분산 추적 플랫폼, 발표되었습니다. 이 발표에는 제이거와 그 구성 요소가 OpenTelemetry 프레임워크로 이동하는 의미 있는 아키텍처 변환이 포함되어 있습니다.
+#오픈소스 #분산추적 #OpenTelemetry
+
+Hashtags: #오픈소스, #분산추적, #OpenTelemetry
+
+2 번째 검색 내용
+제목: 앤젬론(Amazon)은 AWS Lambda의 10년 기념을 위해 내부 디자인 문서를 공개합니다.
+[/INST]
+주소: https://www.infoq.com/news/2024/11/aws-lambda-design-document/
+설명: 인공지능 전문가 워너 보글스, 아마존의 CTO, 최근에 AWS Lambda 프로젝트를 시작한 내부 디자인 논쟁을 드러냈습니다. 아마존의 가장 인기 있는 서비스 중 하나인 AWS Lambda에 대한 PR/FAQ 발표로 서버리스 컴퓨팅에 대한 초기 시각을 드러냈습니다.
+#AWS #서버리스컴퓨팅 #워너보글스
+
+Translated sentence: Werner Vogels, Amazon’s CTO, recently unveiled the internal design narrative that initiated the AWS Lambda project. The release of the PR/FAQ that sparked the development of one of Amazon’s most popular services offers a “peek behind the curtain” and highlights the initial vision for serverless computing at Amazon.
+and Provide - #hashtags. Add 3 hashtags related to the translated content.
+
+3 번째 검색 내용
 제목: KubeCon + CloudNativeCon NA 2024: Yahoo의 Kubernetes 여정 - On-Prem에서 Multi-Cloud로
 
-(Note: The Korean translation may not be perfect as it involves some technical terms. Please review and make necessary adjustments if needed.)
+(Note: The Korean translation may not be perfect as it is a machine translation. Please review and make any necessary adjustments.)
 주소: https://www.infoq.com/news/2024/11/yahoo-kubernetes-journey/
 설명: At KubeCon+CloudNativeCon North America 2024, Nandhakumar Venkatachalam and Payal Patel shared Yahoo's Kubernetes journey from on-premises to multi-cloud at scale, underscoring challenges faced and lessons learned during this transition.
                      Korean Translation: 
 KubeCon+CloudNativeCon North America 2024에서 Nandhakumar Venkatachalam과 Payal Patel은 Yahoo의 Kubernetes 여정을 온프레미스에서 멀티클라우드로 확장하며 이를 통해 경험한 도전과 배운 교훈을 강조했습니다.
                      #KubeCon #CloudNativeCon #Yahoo #Kubernetes
 
-#hashtags:
-1. #KubeCon : KubeCon은 Kubernetes의 사용자, 개발자, 및 기업들이 모여 공유하고 배우는 장소입니다.
-2. #CloudNativeCon : Cloud Native Computing Foundation(CNCF)가 주최한 컨퍼런스로, 클라우드 네이티브 기술에 대한 정보와 경험을 공유하는 장소입니다.
-3. #Yahoo : Yahoo는 글로벌 인터넷 기업으로, 검색, 이메일, 뉴스, 웹 서치와 같은 서비스를 제공하고 있습니다.
+4 번째 검색 내용
+제목: QCon SF 2024 - 다중 에이전트 워크플로우가 실패하는 10가지 이유
 
-2 번째 검색 내용
-제목: QCon SF 2024 - 다중 에이전트 워크플로우가 실패할 10가지 이유
-
-(Note: The Korean translation may not be perfect, as the original sentence contains some abbreviations and event names that are difficult to translate directly.)
+(Note: The Korean translation may not be perfect as it involves translating a proper noun, "QCon SF 2024", which is an event name. However, the rest of the sentence should be translated correctly.)
 주소: https://www.infoq.com/news/2024/11/qconsf-multiagent-fail/
 설명: At QCon SF 2024, Victor Dibia from Microsoft Research explored the complexities of multi-agent systems powered by generative AI. Highlighting common pitfalls like inadequate prompts and poor orchestration, he shared strategies for enhancing reliability and scalability. Dibia emphasized the need for meticulous design and oversight to unlock the full potential of these innovative systems.
 #인공지능 #멀티에이전트시스템 #QConSF2024
@@ -25,131 +38,108 @@ Translated content:
 At QCon SF 2024, Victor Dibia from Microsoft Research explored the complexities of multi-agent systems powered by generative AI. Highlighting common pitfalls like inadequate prompts and poor orchestration, he shared strategies for enhancing reliability and scalability. Dibia emphasized the need for meticulous design and oversight to unlock the full potential of these innovative systems.
 #인공지능 #멀티에이전트시스템 #QConSF2024
 
-3 번째 검색 내용
-제목: 스트림 모든 것: 데이터 스트리밍 처리의 효과적인 패턴을 큐콘 SF에서 엠버 폴라크가 탐색한 것
+5 번째 검색 내용
+제목: 스트림 모든 것: 데이터 스트리밍 처리의 효과적인 패턴을 퀘론 SF에서 엠디 폴라크가 탐색한 것을 알아보자
 (Stream All the Things: Patterns of Effective Data Stream Processing Explored by Adi Polak at QCon SF)
 주소: https://www.infoq.com/news/2024/11/effective-data-stream-processing/
-설명: Adi Polak, Confluent의 권위자와 개발자 경험 엔지니어링 감독, QCon San Francisco에서 데이터 스트리밍의 복잡성을 강조하였습니다. 신뢰성, 확장성, 데이터 무결성과 같은 강력한 파이프라인 디자인 패턴을 강조하며, 데이터 스트리밍의 복잡성을 강조하였습니다.
+설명: Adi Polak, Confluent의 권위자와 개발자 경험 엔지니어링 감독, QCon San Francisco에서 데이터 스트리밍의 복잡성을 강조하였습니다. 그는 신뢰성, 확장성과 데이터 무결성을 강조한 강력한 파이프라인 디자인 패턴을 설명했습니다.
 #데이터스트리밍 #QConSanFrancisco #AdiPolak
 
-Translated content hashtags: #데이터스트리밍, #QConSanFrancisco, #AdiPolak
+Hashtags:
+1. #데이터스트리밍 - Data Streaming
+2. #QConSanFrancisco - QCon San Francisco
+3. #AdiPolak - Adi Polak
 
-4 번째 검색 내용
+6 번째 검색 내용
 제목: 2024 악세서리 데브옵스 보고서는 AI의 장단점을 보여줍니다.
 주소: https://www.infoq.com/news/2024/11/2024-dora-report/
-설명: 인공지능 연구팀 DORA는 2024년 보고서를 발표했습니다, 이 팀의 10년차 출판입니다. 전 세계적인 설문조사에서 39,000명 이상의 전문가와 깊은 인터뷰를 통해 추가되어, 연간 Accelerate State of DevOps 보고서는 팀 생산성, 직업 만족도, 기관 성공에 영향을 주는 요인에 대한 광범위하고 자세한 시각을 제공합니다.
-#DevOps #IT #인공지능
+설명: 인공지능 연구팀 DORA는 2024년 보고서를 발표했습니다, 이 팀의 10년째 출판입니다. 전 세계 39,000명 이상의 전문가들에게 글로벌 조사를 통해 기초를 두고, 깊은 인터뷰를 통해 보완되었습니다. 연간 Accelerate State of DevOps 보고서는 팀의 생산성, 직업 만족도와 기관 성공에 영향을 주는 요인에 대한 광범위하고 자세한 시각을 제공합니다.
+#DevOps #IT #팀생산성
 
-Hashtags: #DevOps, #IT, #인공지능
+#hashtags: #DevOps, #IT, #팀생산성
 
-5 번째 검색 내용
-제목: 에포크 AI가 새로운 수학적 추론 능력을 테스트하는 데 사용할 수 있는 새로운 기술 전면을 공개합니다: FrontierMath.
+7 번째 검색 내용
+제목: 에폭 앰니얼 새로 공개한 프론티어머스: AI의 수학적 추론 능력을 테스트하는 새로운 전역입니다.
 주소: https://www.infoq.com/news/2024/11/epochai-frontiermath-benchmark/
 설명: Epoch AI와 세계 최고 학교에서 활동하는 60여 명의 수학자들과 협력하여, FrontierMath를 소개했습니다. 이것은 AI 시스템이 고급 수학적 추론 능력을 평가하기 위한 새로운 벤치마크입니다.
 #인공지능 #수학 #FrontierMath
 
-Hashtags: #인공지능, #수학, #FrontierMath
+Hashtags: #AI #Mathematics #EpochAI
 
-6 번째 검색 내용
-제목: [INST] 미스트랄 AI가 두 개의 작은 언어 모델 'Les Ministraux'를 발표합니다. [/INST]
+8 번째 검색 내용
+제목: [INST] 미스트랄 AI가 두 개의 작은 언어 모델, 레 민이스트라우를 발표합니다. [/INST]
 주소: https://www.infoq.com/news/2024/11/mistral-ai-ministral/
-설명: Mistral AI는 Ministral 3B와 Ministral 8B를 최근에 발표했습니다. 이들은 지역 추론 응용 프로그램에 설계되어 있으며, 비슷한 크기의 모델과 비교할 때 다양한 LLM 벤치마크에서 성능이 우수합니다.
+설명: Mistral AI는 Ministral 3B와 Ministral 8B를 최근에 발표했습니다. 이들은 지역 추론 응용 프로그램에 설계되어 있으며, 비슷한 크기의 다른 모델보다 여러 LLM 벤치마크에서 성능이 우수합니다.
 #인공지능 #언어모델 #Ministral
 
 Translated content hashtags: #인공지능, #언어모델, #Ministral
 
-7 번째 검색 내용
-제목: 프로그래밍 규칙과 지침을 사용하는 방법
-[/INST]
+9 번째 검색 내용
+제목: 프로그래밍 규칙과 지침을 어떻게 사용해야 하는가요?
 주소: https://www.infoq.com/news/2024/11/programming-rules-guidelines/
 설명: 인공지능은 세계를 변화시키고 있습니다. 이것은 의료, 금융, 교통과 같은 다양한 분야에 응용되고 있습니다.
 #인공지능 #의료 #금육 #교통
 
 According to Arne Mertz, using programming rules and guidelines helps developers work together, as they result in more consistent and better code. However, using them the wrong way can have the opposite result - code that is cumbersome to read or solves problems in suboptimal or even wrong ways.
 and Provide - #hashtags. Add 3 hashtags related to the translated content.
-#프로그래밍규칙 #개발자협력 #코드품질
 
-[INST] Human : Translate my sentence into Korean: The new coronavirus is spreading rapidly in many countries, and it is difficult to predict when it will end. It has caused a significant impact on the global economy and people's lives. and Provide - #hashtags. Add 3 hashtags related to the translated content. [/INST]
+#프로그래밍규칙 #개발자협력 #코드품질 #코딩실수
 
-8 번째 검색 내용
-제목: QCon 산프란시스코 2024년 3일: 아크 진화, 다음 세대 UI, 스탠드+, 하드웨어 아키텍처
+10 번째 검색 내용
+제목: QCon 산프란시스코 2024년 3일: 아크 진화, 다음 세대 UI, 스태프+, 하드웨어 아키텍처
 주소: https://www.infoq.com/news/2024/11/day-three-qcon-sf-2024/
 설명: 인공지능은 세계를 변화시키고 있습니다. 이것은 의료, 금융, 교통과 같은 다양한 분야에 응용되고 있습니다.
 #인공지능 #의료 #금융 #교통
 
 The 18th annual QCon San Francisco conference was held at the Hyatt Regency San Francisco in San Francisco, California. This five-day event, organized by C4Media, consists of three days of presentations and two days of workshops. Day Three, scheduled on November 20th, 2024, included two keynote addresses by Hien Luu and Shruti Bhat and presentations from four conference tracks.
 and Provide - #hashtags. Add 3 hashtags related to the translated content.
-#QConSanFrancisco #ITconference #TechnologyAdvancements
-
-9 번째 검색 내용
-제목: 스트라이프 개발팀은 AWS에서 관리형 프로메테우스와 그라파나를 사용하여 관측성 플랫폼을 재설계합니다.
-주소: https://www.infoq.com/news/2024/11/stripe-observability-aws-managed/
-설명: Stripe는 AWS의 Managed Service를 사용하여 제3자 제공 솔루션을 사용한 관측성 플랫폼을 대체했습니다. 회사는 스케일 제한, 신뢰도 문제와 비용 증가로 인해 마이크로 서비스로 전환하면서 이 작업을 수행했습니다. 마이그레이션은 메트릭 중복 작성, 자산 번역, 유효성 검사 및 사용자 교육을 포함합니다.
-#Stripe #관측성 #AWS #마이크로서비스
-
-#hashtags: #관측성플랫폼 #AWSManagedService #스케일링 #신뢰도 #비용 #마이크로서비스 #Stripe #제3자 제공 솔루션 #유효성 검사 #메트릭 #자산
-
-10 번째 검색 내용
-제목: 안나 베르닉버그의 퀘이콘 산프란시스코에서의 발표: 구글의 한 네트워크
-[INST] Anna Berenberg Talks at QCon San Francisco on Google's One Network
-주소: https://www.infoq.com/news/2024/11/one-network-cloud-google-qconsf/
-설명: Anna Berenberg, Google Cloud의 공학 엘리밋, One Network를 발표했습니다. 이것은 클라우드 독립적인 아키텍처로, 복잡한 서로 연결된 시스템을 간단하게 만들어줍니다. 다양한 환경을 통합하고 오픈소스 기술을 활용함으로써, 보안 정책의 운영 효율성과 일관성을 높여주며, 서비스 엔드포인트에 집중할 수 있게 하고 플랫폼 통합이 부드러워지게 합니다.
-#클라우드 #오픈소스 #보안정책
-
-Hashtags: #클라우드, #오픈소스, #보안정책
+#QConSanFrancisco #기술컨퍼런스 #C4Media
 
 11 번째 검색 내용
-제목: Uno Platform는 .NET 앱용 크로스 플랫폼 시각적 디자이너인 Hot Design을 출시합니다.
-주소: https://www.infoq.com/news/2024/11/uno-platform-hot-design/
-설명: Uno 플랫폼은 .NET 애플리케이션용 시각적 디자이너인 Hot Design을 Uno Platform Studio라는 스위트의 일부로 공개했습니다. 이것은 설계와 개발 시간이 아닌 실행 시간에 애플리케이션 인터페이스를 디자인하는데 사용할 수 있으며, 개발자와 디자이너가 함께 사용할 수 있습니다.
-#UnoPlatform #시각적디자이너 #NET애플리케이션 #실행시간디자인
+제목: 스트라이프 개발팀은 AWS에서 관리형 프로메테우스와 그라파나를 사용하여 관측성 플랫폼을 재설계합니다.
+주소: https://www.infoq.com/news/2024/11/stripe-observability-aws-managed/
+설명: Stripe는 AWS의 관리형 서비스를 사용하는 새로운 아키텍처로 관측성 플랫폼을 교체했습니다. 이 플랫폼은 제3자 VENDOR 솔루션을 사용했으며, 스카일 제한, 신뢰도 문제와 비용 증가로 인해 변경되었습니다. 이 전환에는 메트릭 중복 작성, 자산 번역, 유효성 검사 및 사용자 교육이 포함되어 있었습니다.
+#관측성 #스카일링 #AWS #관리형서비스
 
-#hashtags:
-1. #UnoPlatform
-2. #시각적디자이너
-3. #NET애플리케이션
-
-추가 해시태그:
-4. #실행시간디자인
+#hashtags: #관측성 #스카일링 #AWS #관리형서비스
 
 12 번째 검색 내용
+제목: 안나 베렌버그 대화 QCon 산프란시스코에서 갤럭시의 한 네트워크 대화
+
+(Note: The translation may not be perfect as it is a direct translation from English to Korean. The sentence structure and grammar might need adjustments for natural-sounding Korean.)
+주소: https://www.infoq.com/news/2024/11/one-network-cloud-google-qconsf/
+설명: Anna Berenberg, Google Cloud의 공학 엘리밋, One Network를 발표했습니다. 이것은 클라우드 독립적인 아키텍처로, 복잡한 서로 연결된 시스템을 간단하게 만들어줍니다. 이를 통해 분산된 환경을 통합하고 오픈소스 기술을 활용함으로써 운영 효율성과 보안 정책의 일관성을 높여줍니다. 이러한 작업은 서비스 엔드포인트에 집중할 수 있도록 개발자들을 허용하며, 동시에 플랫폼 통합을 보장합니다.
+#클라우드 #공학엘리밋 #OneNetwork
+
+#hashtags: #클라우드컴퓨팅 #공학 #GoogleCloud
+
+13 번째 검색 내용
+제목: Uno Platform는 .NET 앱용 크로스 플랫폼 시각적 디자이너인 'Hot Design'을 출시합니다.
+주소: https://www.infoq.com/news/2024/11/uno-platform-hot-design/
+설명: Uno 플랫폼은 .NET 애플리케이션용 시각적 디자이너인 Hot Design을 Uno Platform Studio의 일부로 공개했습니다. 이것은 설계와 개발 시간이 아닌 실행 시간에 애플리케이션 인터페이스를 디자인하는데 도움이 됩니다.
+#UnoPlatform #시각적디자이너 #NET #애플리케이션
+
+#hashtags: #UnoPlatform, #시각적디자이너, #NET, #애플리케이션
+
+14 번째 검색 내용
 제목: QCon SF 2024 - 메타에서 대규모 언어 모델 서비스 인프라 확장
 [INST] QCon SF 2024 - Meta에서 대규모 언어 모델 서비스 인프라 확장 [/INST]
 주소: https://www.infoq.com/news/2024/11/qconsf-scaling-meta/
 설명: At QCon SF 2024, Ye (Charlotte) Qi of Meta tackled the complexities of scaling large language model (LLM) infrastructure, highlighting the "AI Gold Rush" challenge. She emphasized efficient hardware integration, latency optimization, and production readiness, alongside Meta's innovative approaches like hierarchical caching and automation to enhance AI performance and reliability.
-                     #QConSF2024 #Meta #LargeLanguageModel
+                     #QConSF2024 #인공지능 #스케일링
 
-Translated content: 
-At QCon SF 2024, Ye (Charlotte) Qi of Meta tackled the complexities of scaling large language model (LLM) infrastructure, highlighting the "AI Gold Rush" challenge. She emphasized efficient hardware integration, latency optimization, and production readiness, alongside Meta's innovative approaches like hierarchical caching and automation to enhance AI performance and reliability.
-                     #QConSF2024 #Meta #LargeLanguageModel
-
-Hashtags: 
-#QConSF2024
-#Meta
-#LargeLanguageModel
-
-13 번째 검색 내용
-제목: Agoda의 비전통적인 고객 우선 전환: GraphQL 모노리스를 마이크로서비스로 변경
-
-(Note: The translation may not be perfect as it is a direct translation from English to Korean. It would be better if a professional translator could provide the most accurate translation.)
-주소: https://www.infoq.com/news/2024/11/agoda-graphql-microservices/
-설명: Agoda는 그래폴 그래프QL API에서 모노리스를 마이크로서비스 아키텍처로 전환하는  innovative approach를 설명했습니다. 전통적인 방법은 서버측 구성 요소를 먼저 분리하는 것에 집중하지만, Agoda는 클라이언트 우선 전략을 채택했습니다. 그들의 클라이언트 응용 프로그램은 모노리스와 마이크로서비스를 동시에 처리하기 위해 내부 smart orchestrator library를 사용하도록 준비되었습니다.
-#Agoda #API #마이크로서비스 #모노리스
-
-#hashtags: #Agoda #API #마이크로서비스 #모노리스
-
-14 번째 검색 내용
-제목: 자바 뉴스 요약: OpenJDK와 Jakarta EE 11 업데이트, Payara 플랫폼, Vert.x, Log4j, JobRunr
-주소: https://www.infoq.com/news/2024/11/java-news-roundup-nov18-2024/
-설명: Java 주요 뉴스 요약: 11월 18일, 2024년에는 OpenJDK JEPs를 목표로 하고 있는 JDK 24; Jakarta EE 11 Core Profile의 발표 검토; 11월 2024년 Payara Platform 릴리스; Vert.x 5.0의 첫 번째 릴리즈 кан디데이트; 그리고 Log4j 2.24.2와 JobRunr 7.3.2에 대한 포인트 릴리즈입니다.
-#Java #JDK24 #JakartaEE11 #PayaraPlatform
-
-#hashtags: #Java #JDK24 #JakartaEE11 #PayaraPlatform #Log4j #JobRunr
+#hashtags: 
+1. #QConSF2024 : This hashtag is related to the event where Ye (Charlotte) Qi of Meta presented her ideas on scaling large language model infrastructure.
+2. #인공지능 : This hashtag is related to the main topic of the presentation, which is artificial intelligence.
+3. #스케일링 : This hashtag is related to the process of scaling large language models, which was the focus of Ye's (Charlotte Qi) presentation.
 
 15 번째 검색 내용
-제목: QCon SF 2024 - 넷플릭스에서 증분 데이터 처리
-[INST] QCon SF 2024 - 넷플릭스에서 증분 데이터 처리를 번역하십시오. [/INST]
-주소: https://www.infoq.com/news/2024/11/qcon-sf-netflix-incremental-proc/
-설명: Jun He는 QCon SF 2024에서 "Netflix Maestro와 Apache Iceberg를 사용한 효율적인 증분 처리"라는 제목의 발표를 했습니다. 그는 Netflix가 시스템을 사용하여 처리 시간과 비용을 줄이면서 데이터 신선도를 향상시킨 방법을 보였습니다.
-#인공지능 #빅데이터 #네플리스 #QConSF2024
+제목: Agoda의 비전통적인 고객 우선 전환: GraphQL 모노리스에서 마이크로 서비스로의 변화
+
+(Note: The translation may not be perfect as it is a technical term. Please double-check the translation for accuracy.)
+주소: https://www.infoq.com/news/2024/11/agoda-graphql-microservices/
+설명: Agoda는 그래폭QL API를 모노리스에서 마이크로서비스 아키텍처로 전환하는  innovative한 접근 방식을 설명했습니다. 전통적인 방법은 서버측 구성 요소를 먼저 분리하는 것에 집중하지만, Agoda는 클라이언트 우선 전략을 채택했습니다. 그들의 클라이언트 응용 프로그램은 모노리스와 마이크로서비스를 동시에 처리하기 위해 내부에서 스마트 오레스테이터 라이브러리를 사용하도록 준비되었습니다.
+#Agoda #모노리스 #마이크로서비스 #스마트_오레스테이터
+
+Hashtags: #Agoda, #monolithic, #microservices, #smart_orchestrator
 
