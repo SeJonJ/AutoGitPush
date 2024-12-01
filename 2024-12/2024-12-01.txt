@@ -1,0 +1,140 @@
+1 번째 검색 내용
+제목: 해시코퍼트 테라폼 1.10은 비영구 값을 개선된 시크릿 관리를 위해 추가합니다.
+주소: https://www.infoq.com/news/2024/11/terraform-1-10-ephemeral-values/
+설명: HashiCorp는 Terraform 1.10을 발표했습니다. 이 버전에서는 임시 값(ephemeral values)이라는 개념을 도입하였습니다. 이 개념은 인프라를 프로비저닝할 때 자주 필요한 민감한 정보, 예를 들어 암호,를 보호하기 위해 설계되었습니다.
+#HashiCorp #Terraform #인프라프로비저닝 #민감한정보보호
+
+#hashtags: #HashiCorp, #Terraform, #인프라프로비저닝, #민감한정보보호
+
+2 번째 검색 내용
+제목: 마이크로소프트가 일반적인 다중 에이전트 시스템인 Magnetic-One을 소개합니다.
+주소: https://www.infoq.com/news/2024/11/microsoft-magentic-one/
+설명: Microsoft는 Magentic-One, 웹과 파일 기반 환경에서 끝없는 작업을 처리하는데 사용되는 새로운 일반적인 다중 에이전트 시스템을 출시했습니다. 이 시스템은 다양한 도메인에서 복잡한, 여러 단계의 작업을 처리하는데 도움이 되며, 소프트웨어 개발, 데이터 분석 및 웹 탐색과 같은 활동에서 효율성을 향상시키려고 합니다.
+#Magentic-One #일반적인_다중_에이전트_시스템 #효율성_향상 #소프트웨어_개발 #데이터_분석 #웹_탐색
+
+#hashtags: #Magentic-One, #일반적인_다중_에이전트_시스템, #효율성_향상, #소프트웨어_개발, #데이터_분석, #웹_탐색
+
+3 번째 검색 내용
+제목: 분산 추적 도구 Jaeger가 핵심에 OpenTelemetry를 사용하여 버전 2를 릴리스합니다.
+주소: https://www.infoq.com/news/2024/11/jaeger-v2-opentelemetry/
+설명: AI : 제이거 프로젝트의 버전2, 인기 있는 오픈소스 분산 추적 플랫폼, 발표되었습니다. 이 발표에서는 제이거와 그 구성 요소를 OpenTelemetry 프레임워크로 가져옵니다.
+#오픈소스 #분산추적 #OpenTelemetry
+
+Hashtags: #오픈소스, #분산추적, #OpenTelemetry
+
+4 번째 검색 내용
+제목: 앤젬론(Amazon)은 AWS Lambda의 10년 기념을 위해 내부 디자인 문서를 공개합니다.
+[/INST]
+주소: https://www.infoq.com/news/2024/11/aws-lambda-design-document/
+설명: 인공지능 전문가 워너 보글스, 아마존의 CTO, 최근에 AWS Lambda 프로젝트를 시작한 내부 디자인 논쟁을 드러냈습니다. 아마존의 가장 인기 있는 서비스 중 하나인 AWS Lambda의 출시와 함께 발표된 PR/FAQ는 서버리스 컴퓨팅에 대한 초기 시각을 드러내며, "커튼을 끄는 순간"이 되었습니다.
+#AWS #서버리스컴퓨팅 #워너보글스
+
+Hashtags: #AWS, #서버리스컴퓨팅, #워너보글스
+
+5 번째 검색 내용
+제목: KubeCon + CloudNativeCon NA 2024: Yahoo의 Kubernetes 여정 - On-Prem에서 Multi-Cloud로
+
+(Note: The Korean translation may not be perfect as it involves translating proper nouns and technical terms. Please review the translation for accuracy.)
+주소: https://www.infoq.com/news/2024/11/yahoo-kubernetes-journey/
+설명: At KubeCon+CloudNativeCon North America 2024, Nandhakumar Venkatachalam and Payal Patel shared Yahoo's Kubernetes journey from on-premises to multi-cloud at scale, underscoring challenges faced and lessons learned during this transition.
+                     Korean Translation: 
+KubeCon+CloudNativeCon North America 2024에서 Nandhakumar Venkatachalam과 Payal Patel은 Yahoo의 Kubernetes 여정을 온프레미스에서 멀티클라우드로 확장하며 이를 통해 경험한 도전과 배운 교훈을 강조했습니다.
+and Provide - #hashtags. Add 3 hashtags related to the translated content.
+#KubeCon #클라우드네이티브 #Yahoo #Kubernetes
+
+6 번째 검색 내용
+제목: QCon SF 2024 - 다중 에이전트 워크플로우가 실패할 10가지 이유
+
+(Note: The Korean translation may not be perfect as it involves translating a proper noun, "QCon SF 2024", which is an event name. However, the rest of the sentence has been translated accurately.)
+주소: https://www.infoq.com/news/2024/11/qconsf-multiagent-fail/
+설명: At QCon SF 2024, Victor Dibia from Microsoft Research explored the complexities of multi-agent systems powered by generative AI. Highlighting common pitfalls like inadequate prompts and poor orchestration, he shared strategies for enhancing reliability and scalability. Dibia emphasized the need for meticulous design and oversight to unlock the full potential of these innovative systems.
+                     #QConSF2024 #인공지능 #멀티에이전트시스템
+
+Translated content: 
+At QCon SF 2024, Victor Dibia from Microsoft Research explored the complexities of multi-agent systems powered by generative AI. Highlighting common pitfalls like inadequate prompts and poor orchestration, he shared strategies for enhancing reliability and scalability. Dibia emphasized the need for meticulous design and oversight to unlock the full potential of these innovative systems.
+                     #QConSF2024 #인공지능 #멀티에이전트시스템
+
+Hashtags: 
+#QConSF2024 : This hashtag is related to the event QCon SF 2024 where Victor Dibia presented his research.
+#인공지능 : This hashtag is related to the topic of generative AI, which powers the multi-agent systems discussed in the presentation.
+#멀티에이전트시스템 : This hashtag is related to the specific type of system being explored by Victor Dibia, namely multi-agent systems.
+
+7 번째 검색 내용
+제목: 스트림 모든 것: 데이터 스트리밍 처리의 효과적인 패턴을 큐콘 SF에서 탐색한 것을 알려주는 Adi Polak의 발표
+[/INST]
+주소: https://www.infoq.com/news/2024/11/effective-data-stream-processing/
+설명: Adi Polak, Confluent의 권장 및 개발자 경험 엔지니어링 감독, QCon San Francisco에서 데이터 스트리밍의 복잡성을 강조하였습니다. 신뢰성, 확장성과 데이터 무결성을 강조한 강력한 디자인 패턴을 제시하였습니다.
+#데이터스트리밍 #QConSanFrancisco #AdiPolak
+
+#hashtags: #데이터스트리밍, #QConSanFrancisco, #AdiPolak
+
+8 번째 검색 내용
+제목: 2024 악세서리 데브옵스 보고서는 AI의 장단점을 보여줍니다.
+주소: https://www.infoq.com/news/2024/11/2024-dora-report/
+설명: 인공지능 연구팀 DORA는 2024년 보고서를 발표했습니다, 이 팀의 10년차 출판입니다. 전 세계 39,000명 이상의 전문가들에게 글로벌 조사를 통해 기초를 이루고 일부 깊은 인터뷰를 통해 보완되었습니다. 연간 Accelerate State of DevOps 보고서는 팀 생산성, 직업 만족도, 기관 성공에 영향을 주는 요인을 광범위하고 자세한 시각으로 제공합니다.
+#DevOps #IT #팀생산성
+
+#hashtags: #DevOps, #IT, #팀생산성
+
+9 번째 검색 내용
+제목: 에폭 인공지능은 새로운 수학적 추론 능력을 테스트하는데 사용되는 새로운 기술 전면을 드러냅니다: FrontierMath
+[/INST]
+주소: https://www.infoq.com/news/2024/11/epochai-frontiermath-benchmark/
+설명: Epoch AI와 세계 최고 학교에서 활동하는 60여 명의 수학자들과 협력하여, FrontierMath를 소개했습니다. 이것은 AI 시스템이 고급 수학적 추론 능력을 평가하기 위한 새로운 벤치마크입니다.
+#인공지능 #수학 #FrontierMath
+
+Hashtags: #인공지능, #수학, #FrontierMath
+
+10 번째 검색 내용
+제목: [INST] 미스트랄 AI가 두 개의 작은 언어 모델, 레 민이스트라우를 발표합니다. [/INST]
+주소: https://www.infoq.com/news/2024/11/mistral-ai-ministral/
+설명: Mistral AI는 Ministral 3B와 Ministral 8B를 최근에 발표했습니다. 이들은 지역 추론 응용 프로그램에 설계되어 있으며, 비슷한 크기의 모델과 비교할 때 다양한 LLM 벤치마크에서 성능이 우수합니다.
+#인공지능 #언어모델 #Ministral
+
+Translated content hashtags: #인공지능, #언어모델, #Ministral
+
+11 번째 검색 내용
+제목: 프로그래밍 규칙과 지침을 사용하는 방법
+[/INST]
+주소: https://www.infoq.com/news/2024/11/programming-rules-guidelines/
+설명: 인공지능은 세계를 변화시키고 있습니다. 이것은 의료, 금융, 교통과 같은 다양한 분야에 응용되고 있습니다.
+#인공지능 #의료 #금육 #교통
+
+According to Arne Mertz, using programming rules and guidelines helps developers work together, as they result in more consistent and better code. However, using them the wrong way can have the opposite result - code that is cumbersome to read or solves problems in suboptimal or even wrong ways.
+and Provide - #hashtags. Add 3 hashtags related to the translated content.
+
+#프로그래밍규칙 #개발자협력 #코드품질 #코딩실수
+
+12 번째 검색 내용
+제목: QCon 산프란시스코 2024 3일차: 아크 진화, 다음 세대 UI, 스탠드앤플러스, 하드웨어 아키텍처
+주소: https://www.infoq.com/news/2024/11/day-three-qcon-sf-2024/
+설명: 인공지능은 세계를 변화시키고 있습니다. 이것은 의료, 금융, 교통과 같은 다양한 분야에 응용되고 있습니다.
+#인공지능 #의료 #금융 #교통
+
+The 18th annual QCon San Francisco conference was held at the Hyatt Regency San Francisco in San Francisco, California. This five-day event, organized by C4Media, consists of three days of presentations and two days of workshops. Day Three, scheduled on November 20th, 2024, included two keynote addresses by Hien Luu and Shruti Bhat and presentations from four conference tracks.
+and Provide - #hashtags. Add 3 hashtags related to the translated content.
+#QConSanFrancisco #기술컨퍼런스 #인공지능 #의료 #금융 #교통
+
+13 번째 검색 내용
+제목: 스트라이크가 관측성 플랫폼을 리아키텍처하여 AWS에서 관리형 프로메테우스와 그라파나를 사용합니다.
+주소: https://www.infoq.com/news/2024/11/stripe-observability-aws-managed/
+설명: Stripe는 AWS의 Managed Service를 사용하여 제3자 제공 솔루션을 사용한 관측성 플랫폼을 대체했습니다. 회사는 스케일 제한, 신뢰도 문제와 비용 증가로 인해 마이크로서비스로 전환하면서 이 변경을 수행했습니다. 이 마이그레이션은 메트릭 중복 작성, 자산 번역, 유효성 검사 및 사용자 교육의 일부를 포함합니다.
+#관측성 #AWS #마이크로서비스
+
+#hashtags: #관측성, #AWS, #마이크로서비스
+
+14 번째 검색 내용
+제목: 안나 베른베르크의 퀘이콘 산프란시스코에서의 발표: 구글의 한 네트워크
+
+(Note: The translation may not be perfect as Korean grammar and sentence structure can differ significantly from English. Please review the translation for accuracy.)
+주소: https://www.infoq.com/news/2024/11/one-network-cloud-google-qconsf/
+설명: Anna Berenberg, Google Cloud의 공학 고급 기술자로서, One Network를 발표했습니다. 이것은 복잡한 연결된 시스템을 간소화하는 클라우드 독립적 아키텍처입니다. 분산된 환경을 통합하고 오픈 소스 기술을 활용함으로써 운영 효율성과 보안 정책의 일관성이 향상됩니다. 서비스 엔드포인트에 집중할 수 있도록 개발자를 힘끼게 합니다, 동시에 플랫폼 통합을 보장하는 것을 확인합니다.
+#클라우드 #아키텍처 #오픈소스 #보안정책
+
+#hashtags: #클라우드컴퓨팅 #네트워크통합 #개발자의 집중력을 끌어 #보안정책의 일관성
+
+15 번째 검색 내용
+제목: Uno Platform는 .NET 앱용 크로스 플랫폼 시각적 디자이너인 Hot Design을 출시합니다.
+주소: https://www.infoq.com/news/2024/11/uno-platform-hot-design/
+설명: Uno 플랫폼은 .NET 애플리케이션용 시각적 디자이너인 Hot Design을 Uno Platform Studio에서 공개했습니다. 이것은 설계와 개발 시간이 아닌 실행 시간에 애플리케이션 인터페이스를 디자인하고 사용자가
+
