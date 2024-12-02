@@ -1,5 +1,16 @@
 1 번째 검색 내용
-제목: AWS 클라우드 개발 키트 취약점으로 인해 전체 AWS 계정 탈취가 가능합니다.
+제목: 자바 뉴스 요약: JEPs가 JDK 24에 대상으로 마지막 항목, Quarkus 3.17, Maven 4.0-RC1, Kotlin 2.1
+주소: https://www.infoq.com/news/2024/12/java-news-roundup-nov25-2024/
+설명: AI : 이번 주의 Java 뉴스 요약은 2024년 11월 25일에 발표된 JDK 24의 마지막 JEP 전환 전까지 Rampdown Phase One으로 이동하기 전에 다음과 같은 뉴스를 강조합니다. Quarkus 3.17.0, Hibernate Search 7.2.2, Kotlin 2.1.0 및 JDKUpdater 14.0.67+100이 발표되었습니다. Vert.x 5.0의 두 번째 릴리스 кан디데이트와 Maven 4.0.0의 첫 번째 릴리스 캔디데이트입니다.
+#Java #프로그래밍 #기술 #소프트웨어_개발
+
+#hashtags:
+1. #JavaProgramming
+2. #SoftwareDevelopment
+3. #TechnologyNews
+
+2 번째 검색 내용
+제목: AWS 클라우드 개발 키트 취약점으로 인해 전체 AWS 계정 훔침이 가능합니다.
 주소: https://www.infoq.com/news/2024/12/aws-cdk-full-account-takeover/
 설명: 인공지능 회귀 모델을 사용하여 데이터를 예측하는 것은 어떻게 되나요?
 
@@ -9,66 +20,66 @@ A new vulnerability discovered in AWS Cloud Development Kit (CDK) by security fi
 
 #AWS #CDK #보안취약점
 
-2 번째 검색 내용
+3 번째 검색 내용
 제목: 오로라 서버리스 v2는 실제 서버리스를 위한 영역 없는 규모 조정을 추가합니다.
 주소: https://www.infoq.com/news/2024/12/aurora-serverless-zero-capacity/
-설명: Amazon Aurora Serverless v2는 최근에 대기 중인 데이터베이스 연결 수량으로 자동 일시 정지를 가능하게 하여, 0 용량까지 확장할 수 있도록 지원했습니다. Aurora의 온디맨드 자동 확장 구성에서 0 용량으로 확장할 능력이 없는 것은 오래된 토픽입니다.
-#AmazonAuroraServerlessv2 #데이터베이스 #자동일시정지
+설명: Amazon Aurora Serverless v2는 최근에 무대 0 용량까지 확장을 지원하도록 선언했습니다. 이로 인해 데이터베이스는 활동 없는 기간 후 데이터베이스 연결에 따라 자동으로 일시 중지할 수 있습니다. Aurora의 요금 제한 자동 확장 구성에서 0 용량까지 확장 능력이 부족하는 것은 많은 사람들에게 논쟁의 주제였습니다.
+#AmazonAuroraServerlessv2 #데이터베이스 #요금제한 #자동확장
 
-Translated content: Amazon Aurora Serverless v2 has recently announced that it now supports scaling to zero capacity, enabling the database to automatically pause after a period of inactivity based on database connections. The lack of the ability to scale to zero capacity for Aurora's on-demand automatic scaling configuration has been a contentious topic for many years.
-#AmazonAuroraServerlessv2 #데이터베이스 #자동일시정지 #콘텐츠번역 #번역서비스
-
-Additional hashtag: #클라우드컴퓨팅
-
-3 번째 검색 내용
-제목: 해시코퍼트 테라폼 1.10은 비영구 값을 개선된 비밀 관리를 위해 추가합니다.
-주소: https://www.infoq.com/news/2024/11/terraform-1-10-ephemeral-values/
-설명: HashiCorp는 Terraform 1.10을 발표했습니다. 이 버전에서는 ephemeral values, 즉 민감한 정보를 보호하기 위해 필요한 경우 인프라를 프로비저닝하는 데 자주 사용되는 개념을 도입했습니다. 이 개념은 비밀번호와 같은 민감한 정보를 보호하기 위해 설계되었습니다.
-#HashiCorp #Terraform #인프라프로비저닝 #민감한정보보호
-
-HashiCorp는 Terraform 1.10을 발표했습니다. 이 버전에서는 ephemeral values, 즉 인프라를 프로비저닝하는 데 필요한 경우 민감한 정보를 보호하기 위해 설계된 개념을 도입했습니다. 이 개념은 비밀번호와 같은 민감한 정보를 보호하는 데 사용됩니다.
-#HashiCorp #Terraform #인프라프로비저닝 #민감한정보보호
+Hashtags: #AmazonAuroraServerlessv2, #데이터베이스, #요금제한, #자동확장
 
 4 번째 검색 내용
-제목: 마이크로소프트가 일반적인 다양한 에이전트를 포함한 일반적인 멀티 에이전트 시스템인 Magentic-One을 소개합니다.
-주소: https://www.infoq.com/news/2024/11/microsoft-magentic-one/
-설명: Microsoft는 Magentic-One이라는 새로운 일반적인 다중 에이전트 시스템을 발표했습니다. 이 시스템은 웹과 파일 기반 환경에서 열린 끝점을 가진 복잡한, 다단계 작업을 처리하는 데 설계되었습니다. 이 시스템은 소프트웨어 개발, 데이터 분석, 웹 탐색과 같은 다양한 도메인에서 활동의 효율성을 향상시키는 데 도움이 됩니다.
-#Magentic-One #일반적인_다중_에이전트_시스템 #효율성_향상
+제목: 해시코퍼트 테라폼 1.10은 비영구 값을 개선된 비밀 관리를 위해 추가합니다.
+주소: https://www.infoq.com/news/2024/11/terraform-1-10-ephemeral-values/
+설명: HashiCorp는 Terraform 1.10을 발표했습니다. 이 버전에서는 임시 값(ephemeral values)이라는 개념을 도입하였습니다. 이 개념은 인프라를 Terraform으로 설정할 때 자주 필요한 민감한 정보, 예를 들어 비밀번호와 같은 것을 보호하기 위해 설계되었습니다.
+#HashiCorp #Terraform #인프라설정 #비밀번호보호
 
-Translated content hashtags: #Magentic-One, #일반적인_다중_에이전트_시스템, #효율성_향상
+#hashtags: #HashiCorp, #Terraform, #인프라설정, #비밀번호보호
 
 5 번째 검색 내용
-제목: 분산 추적 도구 Jaeger가 핵심에 OpenTelemetry를 사용하여 버전 2를 릴리스합니다.
+제목: 마이크로소프트가 일반적인 다양한 에이전트를 포함한 일반적인 다중 에이전트 시스템인 Magentic-One을 소개합니다.
+주소: https://www.infoq.com/news/2024/11/microsoft-magentic-one/
+설명: Microsoft는 Magentic-One이라는 새로운 일반적인 다중 에이전트 시스템을 발표했습니다. 이 시스템은 웹과 파일 기반 환경에서 종료되지 않은 작업을 처리하는 데 설계되었으며, 다양한 도메인에서 복잡한, 여러 단계의 작업을 수행할 때 효율성을 향상시키기 위해 사용됩니다.
+#Magentic-One #일반적인_다중_에이전트_시스템 #복잡한_여러_단계의_작업
+
+Translated content: Microsoft has announced the release of Magentic-One, a new generalist multi-agent system designed to handle open-ended tasks involving web and file-based environments. This system aims to assist with complex, multi-step tasks across various domains, improving efficiency in activities such as software development, data analysis, and web navigation.
+#Magentic-One #일반적인_다중_에이전트_시스템 #복잡한_여러_단계의_작업
+
+Hashtags: #Magentic-One #일반적인_다중_에이전트_시스템 #복잡한_여러_단계의_작업
+
+6 번째 검색 내용
+제목: 분산 추적 도구인 Jaeger가 핵심에 OpenTelemetry를 사용하여 버전 2를 릴리스합니다.
 주소: https://www.infoq.com/news/2024/11/jaeger-v2-opentelemetry/
-설명: AI : 제이거 프로젝트의 버전2, 인기 있는 오픈소스 분산 추적 플랫폼, 발표되었습니다. 이 발표에는 제이거와 그 구성 요소가 OpenTelemetry 프레임워크로 이동하는 의미 있는 아키텍처 변환이 포함되어 있습니다.
+설명: AI : 제이거 프로젝트의 버전2, 인기 있는 오픈소스 분산 추적 플랫폼,가 발표되었습니다. 이 발표에는 제이거와 그 구성 요소를 OpenTelemetry 프레임워크로 이동하는 의미 있는 아키텍처 변환이 포함되어 있습니다.
 #오픈소스 #분산추적 #OpenTelemetry
 
 Hashtags: #오픈소스, #분산추적, #OpenTelemetry
 
-6 번째 검색 내용
+7 번째 검색 내용
 제목: 앤젠트(Amazon)은 AWS Lambda의 10년 기념을 위해 내부 문서를 공개합니다.
 [/INST]
 주소: https://www.infoq.com/news/2024/11/aws-lambda-design-document/
-설명: 인공지능 전문가 워너 보글스, 아마존의 CTO, 최근에 AWS Lambda 프로젝트를 시작한 내부 디자인 논쟁을 드러냈습니다. 아마존의 가장 인기 있는 서비스 중 하나인 AWS Lambda에 대한 PR/FAQ 발표로 서버리스 컴퓨팅에 대한 초기 시각을 드러냈습니다.
+설명: 인공지능 전문가 워너 보글스, 아마존의 CTO, 최근에 AWS Lambda 프로젝트를 시작한 내부 디자인 논쟁을 드러냈습니다. 아마존의 가장 인기 있는 서비스 중 하나인 AWS Lambda의 발표와 함께 발표된 PR/FAQ는 서버리스 컴퓨팅에 대한 초기 시각을 드러냅니다.
 #AWS #서버리스컴퓨팅 #워너보글스
 
 Translated sentence: Werner Vogels, Amazon’s CTO, recently unveiled the internal design narrative that initiated the AWS Lambda project. The release of the PR/FAQ that sparked the development of one of Amazon’s most popular services offers a “peek behind the curtain” and highlights the initial vision for serverless computing at Amazon.
 and Provide - #hashtags. Add 3 hashtags related to the translated content.
 
-7 번째 검색 내용
+8 번째 검색 내용
 제목: KubeCon + CloudNativeCon NA 2024: Yahoo의 Kubernetes 여정 - On-Prem에서 Multi-Cloud로
 
-(Note: The Korean translation may not be perfect as it involves translating proper nouns and technical terms. Please review the translation for accuracy.)
+(Note: The Korean translation may not be perfect as it involves translating proper nouns and event names. Please review the translation for accuracy.)
 주소: https://www.infoq.com/news/2024/11/yahoo-kubernetes-journey/
 설명: At KubeCon+CloudNativeCon North America 2024, Nandhakumar Venkatachalam and Payal Patel shared Yahoo's Kubernetes journey from on-premises to multi-cloud at scale, underscoring challenges faced and lessons learned during this transition.
                      Korean Translation: 
 KubeCon+CloudNativeCon North America 2024에서 Nandhakumar Venkatachalam과 Payal Patel은 Yahoo의 Kubernetes 여정을 온프레미스에서 멀티클라우드로 확장하며 이를 통해 경험한 도전과 배운 교훈을 강조했습니다.
-                     #KubeCon #CloudNativeCon #Yahoo #Kubernetes
+and Provide - #hashtags. Add 3 hashtags related to the translated content.
+#KubeCon #클라우드네이티브 #Yahoo #Kubernetes
 
-8 번째 검색 내용
-제목: QCon SF 2024 - 다중 에이전트 워크플로우가 실패하는 10가지 이유
+9 번째 검색 내용
+제목: QCon SF 2024 - 다중 에이전트 워크플로우가 실패할 10가지 이유
 
-(Note: The Korean translation may not be perfect as it involves translating a proper noun, "QCon SF 2024", which is an event name. However, the rest of the sentence should be translated correctly.)
+(Note: The Korean translation may not be perfect, as some phrases might need to be adjusted for natural flow in the language.)
 주소: https://www.infoq.com/news/2024/11/qconsf-multiagent-fail/
 설명: At QCon SF 2024, Victor Dibia from Microsoft Research explored the complexities of multi-agent systems powered by generative AI. Highlighting common pitfalls like inadequate prompts and poor orchestration, he shared strategies for enhancing reliability and scalability. Dibia emphasized the need for meticulous design and oversight to unlock the full potential of these innovative systems.
                      #QConSF2024 #인공지능 #멀티에이전트시스템
@@ -78,66 +89,55 @@ At QCon SF 2024, Victor Dibia from Microsoft Research explored the complexities 
                      #QConSF2024 #인공지능 #멀티에이전트시스템
 
 Hashtags: 
-#QConSF2024
-#인공지능
-#멀티에이전트시스템
-
-9 번째 검색 내용
-제목: 스트림 모든 것: 데이터 스트리밍 처리의 효과적인 패턴을 퀘론 SF에서 엠딜 폴랭이 탐구한 것
-(Stream All the Things: Patterns of Effective Data Stream Processing Explored by Adi Polak at QCon SF)
-주소: https://www.infoq.com/news/2024/11/effective-data-stream-processing/
-설명: Adi Polak, Confluent의 권위자와 개발자 경험 엔지니어링 감독, QCon San Francisco에서 데이터 스트리밍의 복잡성을 강조하였습니다. 신뢰성, 확장성, 데이터 무결성과 같은 강력한 파이프라인 디자인 패턴을 강조하며, 키 개념을 설명했습니다.
-#데이터스트리밍 #QConSanFrancisco #AdiPolak
-
-Hashtags: #데이터스트리밍 #QConSanFrancisco #AdiPolak
+#QConSF2024 : This hashtag is related to the event QCon SF 2024 where Victor Dibia presented his research.
+#인공지능 : This hashtag is related to the topic of generative AI, which powers the multi-agent systems discussed in the presentation.
+#멀티에이전트시스템 : This hashtag is related to the specific type of system that Victor Dibia explored in his research.
 
 10 번째 검색 내용
+제목: 스트림 모든 것: 데이터 스트리밍 처리의 효과적인 패턴을 퀘론 SF에서 엠딜 폴랭이 탐구한 것
+[/INST]
+주소: https://www.infoq.com/news/2024/11/effective-data-stream-processing/
+설명: Adi Polak, Confluent의 권위자와 개발자 경험 엔지니어링 감독, QCon San Francisco에서 데이터 스트리밍의 복잡성을 밝혔습니다. 그녀는 신뢰성, 확장성과 데이터 무결성을 강조하며 안정적인 파이프라인에 대한 주요 디자인 패턴을 설명했습니다.
+#데이터스트리밍 #안정성 #확장성 #데이터무결성
+
+#hashtags: #데이터스트리밍, #안정성, #확장성
+
+11 번째 검색 내용
 제목: 2024 악세서리 데브옵스 보고서는 AI의 장단점을 보여줍니다.
 주소: https://www.infoq.com/news/2024/11/2024-dora-report/
-설명: 인공지능 연구팀 DORA는 2024년 보고서를 발표했습니다, 이 팀의 10년차 출판입니다. 전 세계 39,000명 이상의 전문가들에게 글로벌 조사를 통해 기초를 이루고 일부 깊은 인터뷰를 통해 보완되었습니다. 연간 Accelerate State of DevOps 보고서는 팀 생산성, 직업 만족도, 기관 성공에 영향을 주는 요인에 대한 광범위하고 자세한 시각을 제공합니다.
+설명: 인공지능 연구팀 DORA는 2024년 보고서를 발표했습니다, 이 팀의 10년째 출판입니다. 전 세계적인 설문조사에 39,000명 이상의 전문가가 참여하고 일부 깊은 인터뷰가 추가되어, 연간 Accelerate State of DevOps 보고서는 팀 생산성, 직업 만족도, 기관 성공에 영향을 주는 요소를 광범위하고 자세한 시각으로 제공합니다.
 #인공지능 #DORA #개발 #DevOps
 
 Hashtags: #인공지능, #DORA, #개발, #DevOps
 
-11 번째 검색 내용
-제목: 에폭 인공지능은 새로운 수학적 추론 능력을 테스트하는데 사용되는 새로운 기술 전경을 드러냅니다: FrontierMath
+12 번째 검색 내용
+제목: 에포크 AI가 새로운 수학적 추론 능력을 테스트하는 데 사용할 수 있는 새로운 기술 전면을 공개합니다: FrontierMath.
 주소: https://www.infoq.com/news/2024/11/epochai-frontiermath-benchmark/
-설명: Epoch AI와 세계 최고 학교에서 활동하는 60여 명의 수학자들과 협력하여, FrontierMath를 소개했습니다. 이것은 AI 시스템이 고급 수학적 추론 능력을 평가하기 위한 새로운 벤치마크입니다.
+설명: Epoch AI와 세계 최고 학교에서 활동하는 60여 명의 수학자들과 협력하여, FrontierMath를 소개했습니다. 이것은 AI 시스템이 고급 수학적 추론 능력을 평가하기 위한 새로운 표준입니다.
 #인공지능 #수학 #FrontierMath
 
 Hashtags: #인공지능, #수학, #FrontierMath
 
-12 번째 검색 내용
-제목: [INST] 미스트랄 AI가 두 개의 작은 언어 모델, 레 민이스트라우를 발표합니다. [/INST]
-주소: https://www.infoq.com/news/2024/11/mistral-ai-ministral/
-설명: Mistral AI는 Ministral 3B와 Ministral 8B을 최근에 발표했습니다. 이들은 지역 추론 응용 프로그램에 설계되어 있으며, 비슷한 크기의 모델과 비교할 때 여러 LLM 벤치마크에서 성능이 우수합니다.
-#인공지능 #언어모델 #Ministral
-
-Translated sentence: Mistral AI recently released Ministral 3B and Ministral 8B, two small language models that are collectively called les Ministraux. The models are designed for local inference applications and outperform other comparably sized models on a range of LLM benchmarks.
-and Provide - #hashtags:
-#인공지능 #언어모델 #Ministral
-
 13 번째 검색 내용
+제목: 미스트랄 AI가 두 개의 작은 언어 모델, Les Ministraux를 발표합니다.
+주소: https://www.infoq.com/news/2024/11/mistral-ai-ministral/
+설명: Mistral AI는 Ministral 3B와 Ministral 8B를 최근에 발표했습니다. 이들은 지역 추론 응용 프로그램에 설계되어 있으며, 비슷한 크기의 모델과 비교할 때 여러 LLM 벤치마크에서 성능이 우수합니다.
+#인공지능 #언어모델 #Ministral
+
+Translated content hashtags: #인공지능, #언어모델, #Ministral
+
+14 번째 검색 내용
 제목: 프로그래밍 규칙과 지침을 사용하는 방법
 [/INST]
 주소: https://www.infoq.com/news/2024/11/programming-rules-guidelines/
 설명: 인공지능은 세계를 변화시키고 있습니다. 이것은 의료, 금융, 교통과 같은 다양한 분야에 응용되고 있습니다.
-#인공지능 #의료 #금육 #교통
+#인공지능 #의료 #금융 #교통
 
-According to Arne Mertz, using programming rules and guidelines helps developers work together, as they result in more consistent and better code. However, using them the wrong way can have the opposite result - code that is cumbersome to read or solves problems in suboptimal or even wrong ways.
-and Provide - #hashtags. Add 3 hashtags related to the translated content.
-#프로그래밍규칙 #개발자협력 #코드품질
+따라서 아르네 메르츠(Arne Mertz)는 프로그래밍 규칙과 지침을 사용하면 개발자들이 더 일관성 있고 좋은 코드를 작성할 수 있게 도와주며, 잘못 사용하는 경우에는 반대의 결과가 나타날 수 있습니다. 즉, 읽기 어렵거나 문제를 부적절하게 혹은 전혀 잘못된 방식으로 해결하는 코드가 됩니다.
+#프로그래밍규칙 #일관성있는코드 #좋은코드 #코드의적응도
 
-[INST] Human : Translate my sentence into Korean: Artificial intelligence is transforming the world. It has applications in various fields such as healthcare, finance, and transportation. and Provide - #hashtags 
- AI : 인공지능은 세계를 변화시키고 있습니다. 이것은 의료, 금융, 교통과 같은 다양한 분야에 응용되고 있습니다.
-#인공지능 #의료 #금육 #교통
-
-Translate my sentence into Korean : 
-                         According to Arne Mertz, using programming rules and guidelines helps developers work together, as they result in more consistent and better code. However, using them the wrong way can have the opposite result - code that is cumbersome to read or solves problems in suboptimal or even wrong ways.
-                     and Provide - #hashtags. Add 3 hashtags related to the translated content. [/INST]
-
-14 번째 검색 내용
-제목: QCon 산프란시스코 2024년 3일차: 아크 진화, 다음 세대 UI, 스태프+와 하드웨어 아키텍처
+15 번째 검색 내용
+제목: QCon 산프란시스코 2024 3일차: 아크 진화, 다음 세대 UI, 스태프+와 하드웨어 아키텍처
 
 (Note: The Korean translation may not be perfect as it involves technical terms and event names. Please review the translation for accuracy.)
 주소: https://www.infoq.com/news/2024/11/day-three-qcon-sf-2024/
@@ -146,13 +146,5 @@ Translate my sentence into Korean :
 
 The 18th annual QCon San Francisco conference was held at the Hyatt Regency San Francisco in San Francisco, California. This five-day event, organized by C4Media, consists of three days of presentations and two days of workshops. Day Three, scheduled on November 20th, 2024, included two keynote addresses by Hien Luu and Shruti Bhat and presentations from four conference tracks.
 and Provide - #hashtags. Add 3 hashtags related to the translated content.
-#QConSanFrancisco #ITconference #TechnologyAdvancements
-
-15 번째 검색 내용
-제목: 스트라이크가 관측성 플랫폼을 리아키텍처하며, AWS에서 관리형 프로메테우스와 그라파나를 사용합니다.
-주소: https://www.infoq.com/news/2024/11/stripe-observability-aws-managed/
-설명: AI : Stripe는 AWS의 Managed Service를 사용하는 새로운 아키텍처로 관측성 플랫폼을 대체했습니다. 이 플랫폼은 제3자 VENDOR 솔루션을 사용하고 있었으며, 스케일 제한, 신뢰도 문제와 비용 증가로 인해 마이크로서비스로 전환하면서 변경되었습니다. 이 마이그레이션은 메트릭 중복 작성, 자산 번역, 유효성 검사 및 사용자 교육을 포함합니다.
-#관측성 #스트라이프 #마이크로서비스 #AWS
-
-#hashtags: #관측성, #스트라이프, #마이크로서비스, #AWS
+#QConSanFrancisco #기술컨퍼런스 #인공지능 #의료 #금융 #교통
 
