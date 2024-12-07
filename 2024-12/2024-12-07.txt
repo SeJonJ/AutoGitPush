@@ -1,0 +1,128 @@
+1 번째 검색 내용
+제목: 마이크로 메트릭을 사용한 LLM 시스템 평가를 위한 QCon SF 2024 세션
+
+(Note: The translation may not be perfect, as Korean grammar and sentence structure can differ significantly from English. Please review the translation for accuracy.)
+주소: https://www.infoq.com/news/2024/12/llm-eval-micro-metric/
+설명: Denys Linkov's QCon San Francisco 2024 talk dissected the complexities of evaluating large language models (LLMs). He advocated for nuanced micro-metrics, robust observability, and alignment with business objectives to enhance model performance. Linkov’s insights highlight the need for multidimensional evaluation and actionable metrics that drive meaningful decisions.
+                     #인공지능 #대규모언어모델평가 #비즈니스목표와의정렬
+
+2 번째 검색 내용
+제목: 최적화된 Amazon ECS를 사용하여 예측 스케일링
+
+(Note: The translation may not be perfect as it is a technical term. Please verify the accuracy if needed.)
+주소: https://www.infoq.com/news/2024/12/aws-ecs-predictive-scaling/
+설명: AWS는 최근에 Amazon ECS의 Predictive Scaling을 발표했습니다. 이것은 기계학습(ML) 알고리즘을 사용하여 요구량 폭증을 예측하는 고급 스케일링 정책입니다. 이로 인해 애플리케이션은 항상 높은 가용성과 반응성을 유지하면서 자원 과제 비율을 최소화합니다.
+#AWS #PredictiveScaling #AmazonECS #기계학습
+
+#hashtags: #클라우드컴퓨팅 #스케일링정책 #기계학습알고리즘 #애플리케이션가용성
+
+3 번째 검색 내용
+제목: 정적 분석기 PHPStan 2.0 버전 출시
+
+(Note: The translation may not be perfect as it is a proper noun and specific term, but this should give you an idea of how the sentence would be translated into Korean.)
+주소: https://www.infoq.com/news/2024/12/phpstan-v2-release/
+설명: AI : PHPStan, PHP용 정적 분석 도구가 최근에 2.0 버전을 릴리스했습니다. 이 릴리스는 코드 분석, 성능 및 사용자 경험을 향상시키기 위해 새로운 기능과 개선 사항을 포함합니다.
+#PHPStan #정적분석도구 #코드분석 #성능 #사용자경험
+
+Hashtags: #PHPStan, #StaticAnalysis, #CodeQuality
+
+4 번째 검색 내용
+제목: Ai2 는 OLMo 2, 완전히 열린 소스 기반 모델을 출시합니다.
+주소: https://www.infoq.com/news/2024/12/olmo-2-ai2/
+설명: 인공지능 연구팀은 OLMo 2, 7억(7B)과 13억(13B) 매개변수 구성으로 새로운 열린 소스 언어 모델을 제공하는 것을 소개했습니다. 이러한 모델은 5조 토큰까지 훈련되었으며, 훈련 안정성을 재정의하고 단계적인 훈련 프로세스를 사용하며, 다양한 데이터셋을 통합했습니다.
+#열린소스 #언어모델 #인공지능연구팀
+
+Translated content: The Allen Institute for AI research team has introduced OLMo 2, a new family of open-source language models available in 7 billion (7B) and 13 billion (13B) parameter configurations. Trained on up to 5 trillion tokens, these models redefine training stability, adopting staged training processes, and incorporating diverse datasets.
+#OpenSource #LanguageModels #AIResearch
+
+5 번째 검색 내용
+제목: Slack는 기존의 Enzyme를 React Testing Library로 이전하기 위해 AI 강화형 합성 접근 방식을 사용했습니다.
+주소: https://www.infoq.com/news/2024/12/ai-enzyme-react-test-library/
+설명: Enzyme의 React 18에 대한 지원 부재로 이전에 사용하던 단위 테스트가 불가능해졌고, 그들이 제공하는 기초적인 신뢰를 위험하게 만들었습니다. QCon San Francisco에서 Sergii Gorbachov가 언급했습니다. 그는 Slack이 Enzyme 테스트를 React Testing Library(RTL)로 모두 마이그레이션하여 테스트 커버리지의 연속성을 보장하기 위해 어떻게 진행되었는지 보였습니다.
+#React #테스팅 #Slack
+
+#hashtags: #ReactTesting, #SlackTest, #EnzymeMigration
+
+6 번째 검색 내용
+제목: 엠존 엘라스틱 Vmware 서비스를 개발 미리 보기로 출시: VMware 워크로드 마이그레이션을 AWS에 위임합니다.
+주소: https://www.infoq.com/news/2024/12/amazon-evs-vmware-migration/
+설명: AWS는 Amazon Elastic VMware Service(EVS)를 공개하였습니다. EVS는 Amazon VPC 내에서 간편한 VMware Cloud Foundation 통합을 가능하게 합니다. 이  innovative service는 cloud에서의 VMware 워크로드 마이그레이션과 관리를 간소화하여, 빠른 배포와 최적화된 인프라를 제공하면서 고객들에게 애플리케이션 대상의 유연성과 제어를 제공합니다.
+#AWS #VMware #클라우드 #인프라 #애플리케이션 #마이그레이션 #관리 #배포 #최적화
+
+Translated sentence: AWS has unveiled the Amazon Elastic VMware Service (EVS), enabling seamless VMware Cloud Foundation integration within Amazon VPC. This innovative service simplifies VMware workload migration and management in the cloud, allowing swift deployment and optimized infrastructure while offering customers flexibility and control over their applications.
+
+#hashtags: #AWS #VMware #클라우드 #인프라 #애플리케이션 #마이그레이션 #관리 #배포 #최적화
+
+7 번째 검색 내용
+제목: 미스트랄 AI가 대규모 다중 Modal 모델인 Pixtral Large를 출시합니다. 이 모델은 고급 이미지 및 텍스트 분석에 사용됩니다.
+주소: https://www.infoq.com/news/2024/12/pixtral-large-mistral-ai/
+설명: Mistral AI는 Pixtral Large, 이미지와 텍스트 처리에 대한 고급 기능을 갖춘 다중 모드 모델로 124조 파라미터를 가진 비전 인코더 1억 파라미터를 사용하여 구성되었습니다. Mistral Large 2에 기반한 이 모델은 MathVista와 DocVQA와 같은 벤치마크에서 최고의 성능을 달성하며, 텍스트와 시각적 데이터를 이유로 요구되는 작업에서 우수한 성능을 보여줍니다.
+#인공지능 #MistralAI #PixtralLarge
+
+#hashtags: #AImodel #ImageProcessing #TextProcessing
+
+8 번째 검색 내용
+제목: AISuite는 새로운 오픈소스 Python 라이브러리로, 통합된 크로스-LLM API를 제공합니다.
+주소: https://www.infoq.com/news/2024/12/aisuite-cross-llm-api/
+설명: 최근 Andrew Ng에 의해 발표된 aisuite는 현재 인기 있는 대규모 자연어 모델(LLM)을 사용하여 OpenAI와 같은 API를 제공하여 개발자들이 결과를 비교하거나 코드를 변경하지 않고 다른 LLM로 전환할 수 있도록 쉽게 사용할 수 있도록 합니다.
+#인공지능 #자연어처리 #LLM #개발자
+
+Translated sentence: Recently announced by Andrew Ng, aisuite aims to provide an OpenAI-like API around the most popular large language models (LLMs) currently available to make it easy for developers to try them out and compare results or switch from one LLM to another without having to change their code.
+and Provide - #hashtags. Add 3 hashtags related to the translated content.
+
+9 번째 검색 내용
+제목: AWS가 클라우드 포멘션 디버깅을 도와주기 위해 시각적 배치 타임라인 소개
+
+(Note: The translation may not be perfect as it is a machine translation. Please check the meaning and context before using it.)
+주소: https://www.infoq.com/news/2024/12/cloudformation-visual-deployment/
+설명: AWS는 CloudFormation 서비스를 향상시키기 위해 새로운 배포 시간표 뷰를 추가했습니다. 새로운 뷰는 개발자와 클라우드 엔지니어에게 인프라 배포 과정을 추적하고 이해하는 데 더욱 직관적인 방법을 제공합니다. 이를 통해 종속성에 대한 새로운 洞察도 얻을 수 있습니다.
+#AWS #CloudFormation #배포시간표뷰
+
+#hashtags: #AWS, #CloudFormation, #배포시간표뷰
+
+10 번째 검색 내용
+제목: 오라클은 GraalVM Java JIT 컴파일러를 배송하지만, 그것은 자신의 JDK에서만 제공됩니다.
+주소: https://www.infoq.com/news/2024/12/oracle-jdk-graalvm-jit-compiler/
+설명: Oracle는 2024년 9월에 Oracle JDK 23에 GraalVM Just-in-time(JIT) 컴파일러를 실험적 기능으로 추가했습니다. GraalVM JIT 컴파일러는 표준 OpenJDK JIT 컴파일러보다 빠르고 유지보수하기 쉽습니다. Oracle의 이동은 언제나 그것만 아닌 모든 OpenJDK 분포에 GraalVM JIT 컴파일러를 포함할 것인지 조사되었기 때문에 갈등의 원천이 된 것입니다.
+#Oracle #GraalVM #JDK23
+
+11 번째 검색 내용
+제목: 넥사AI가 발표한 컴팩트 시각언어 모델인 Omnivision: 에지 AI용 전체적인 시각언어 모델입니다.
+주소: https://www.infoq.com/news/2024/12/nexa-ai-unveils-omnivision/
+설명: Nexa AI는 엣지 장치에 적합한 범용 시각-언어 모델인 Omnivision을 공개했습니다. 이미지 토큰을 729에서 81으로 크게 줄여, Omnivision은 지연 시간과 계산 요구 사항을 낮추면서 시각 질문 응답 및 이미지 설명과 같은 작업에서 강력한 성능을 유지합니다.
+#NexaAI #Omnivision #엣지장치 #시각언어모델
+
+#hashtags: #AI #머신러닝 #컴퓨터비전
+
+12 번째 검색 내용
+제목: 물리적 지능이 드론 기반 모델 Pi-Zero를 폭로합니다.
+주소: https://www.infoq.com/news/2024/12/pi-zero-robot/
+설명: 인공지능이 세계를 변화시키고 있습니다. 이것은 의료, 금융, 교통과 같은 다양한 분야에 응용되고 있습니다.
+#인공지능 #의료 #금융 #교통
+
+Physical Intelligence recently announced π0 (pi-zero), a general-purpose AI foundation model for robots. Pi-zero is based on a pre-trained vision-language model (VLM) and outperforms other baseline models in evaluations on five robot tasks.
+and Provide - #hashtags. Add 3 hashtags related to the translated content.
+#인공지능로봇 #기본모델 #시각언어모델
+
+13 번째 검색 내용
+제목: AWS가 Python과 .NET 기능용으로 Lambda SnapStart를 출시합니다.
+주소: https://www.infoq.com/news/2024/12/aws-lambda-snapstart-python-net/
+설명: AWS는 Lambda SnapStart for Python과 .NET을 공개했습니다. 서버리스 앱 성능을 향상시키고 콜드 스타트 대기 시간을 줄여주며, 이 기능은 Lambda SnapStart for Java의 성공을 빌어 낸다. 초기화를 더 빠르게 하고 환경 캐싱을 앞서 수행하여 전역적으로 사용 가능한 여러 지역에서 Python 3.12+와 .NET 8+를 통해 캐싱 비용의 효율적인 관리를 제공합니다.
+#AWS #LambdaSnapStart #Python #.NET
+#hashtags: #서버리스 #성능향상 #캐싱비용관리
+
+14 번째 검색 내용
+제목: AWS가 AI 에이전트를 관리하는 다중 에이전트 오레스테이터 프레임워크 공개
+
+(Note: The translation may not be perfect as it is a direct translation from English to Korean. It would be better if a native Korean speaker checks and adjusts the translation for proper grammar and sentence structure.)
+주소: https://www.infoq.com/news/2024/12/aws-multi-agent/
+설명: AWS는 Multi-Agent Orchestrator라는 다양한 AI 에이전트를 관리하고 복잡한 대화 상황을 처리할 수 있는 프레임워크를 도입했습니다. 시스템은 질문을 가장 적합한 에이전트로 라우팅하며, 상호작용의 맥락을 유지하고 AWS Lambda, 로컬 설정, 그리고 다른 클라우드 플랫폼과 연결되는 것을 간편하게 통합합니다.
+#AWS #Multi-Agent Orchestrator #AI #대화 상황 처리
+#인공지능 #에이전트 관리 #로컬 설정 #클라우드 플랫폼
+
+15 번째 검색 내용
+제목: 자바 뉴스 요약: JEPs가 JDK 24에 대상으로 마지막 항목, Quarkus 3.17, Maven 4.0-RC1, Kotlin 2.1
+주소: https://www.infoq.com/news/2024/12/java-news-roundup-nov25-2024/
+설명: AI : 이번 주의 Java 뉴스 요약은 2024년 11월 25일에 발표된 것으로, 다음 내용을 포함합니다: JDK 24에 대한 JEPs의 마지막, Rampdown Phase One 전에 목표로 설정되었습니다; Quarkus 3.17.0, Hibernate Search 7.2.2, Kotlin 2.1.0과 JDKUpdater 14.0.67+100이 발표되었습니다; Vert.x 5.0의 두 번째 릴리스 캔디디트와 Maven 4.0.0의 첫 번째 릴리스 캔디디트입니다.
+#Java #프로그래밍 #기술 #소프트웨어
+
