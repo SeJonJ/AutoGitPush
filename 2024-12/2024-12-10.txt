@@ -1,0 +1,138 @@
+1 번째 검색 내용
+제목: QCon SF 2024: 대규모, 굳어진 코드베이스 리팩터링
+
+(Note: The Korean translation may not be perfect as it involves understanding the context of the event name and its meaning. Please verify the translation if necessary.)
+주소: https://www.infoq.com/news/2024/12/refactoring-zimmerman-ritter/
+설명: Jake Zimmerman, Sorbet의 Technical Lead인 Stripe에서는 Getty Ritter, Ruby Infrastructure Engineer인 Stripe와 함께 2024년 QCon San Francisco 컨퍼런스에서 "잔인한, 지나치게 오래된 코드베이스를 리팩터링하는 방법"을 소개했습니다. Zimmerman과 Ritter는 대규모 코드베이스를 유지보수하기 위해 활용력과 증분적인 진행을 통해 불만을 해결하는 방법을 보여줍니다.
+#리팩터링 #코드베이스 #유지보수
+
+Hashtags: #리팩터링, #코드베이스, #유지보수
+
+2 번째 검색 내용
+제목: 코틀린 2.1.0으로 이동합니다. 새로운 언어 기능, 컴파일러 업데이트 및 더 많은 것을 포함합니다.
+주소: https://www.infoq.com/news/2024/12/kotlin-2-1-language-features/
+설명: Kotlin 2.1.0은 새로운 구문을 소개하며, 가드 조건, 비로컬 브레이크 및 컨티뉴, 다중 달러 스트링 인터폴레이션과 같은 기능을 포함합니다. 또한 멀티플랫폼 기능을 확장하고 K2 컴파일러를 개선합니다.
+#Kotlin #2.1.0 #새로운_구문 #멀티플랫폼
+
+Translated content hashtags: #Kotlin, #2.1.0, #새로운_구문, #멀티플랫폼
+
+3 번째 검색 내용
+제목: 앤자스 소개: 앤자스 노바, 기반 모델 시리즈
+[INST] Translate my sentence into Korean :
+
+                            Amazon Introduces Amazon Nova, a Series of Foundation Models
+                         [/INST]
+주소: https://www.infoq.com/news/2024/12/aws-amazon-nova/
+설명: Amazon은 Amazon Nova를 발표했습니다. 이는 생성형 AI 작업을 위한 기본 모델 패밀리입니다. AWS re:Invent에서 발표되었으며, 문서와 비디오 분석, 차트 이해, 비디오 콘텐츠 생성, 및 AI 에이전트 개발과 같은 작업의 기능을 강조합니다.
+#AmazonNova #AI모델 #데이터분석
+
+Translated sentence: Amazon has announced Amazon Nova, a family of foundation models designed for generative AI tasks. The announcement, made during AWS re:Invent, highlights the models' capabilities in tasks such as document and video analysis, chart comprehension, video content generation, and AI agent development.
+and Provide - #hashtags. Add 3 hashtags related to the translated content.
+
+4 번째 검색 내용
+제목: 오로라 DSQL에서 아마존 노바까지: 리인벤트 2024년 주요 강조점
+
+(Note: The translation may not be perfect as some terms might not have direct equivalents in Korean. Please review the translation for accuracy.)
+주소: https://www.infoq.com/news/2024/12/highlights-reinvent-2024/
+설명: AI : 2024년 re:Invent 컨퍼런스는 라스베가스에서 끝났습니다. 예상대로 AI가 주요 주제였으며, Amazon Nova와 Sagemaker의 새로운 버전 중 가장 중요한 강조점 중 하나입니다. 그러나 커뮤니티에서 가장 열광적인 발표는 Amazon Aurora DSQL, 서버리스, 분산된 SQL 데이터베이스로 고가용성 높은 활성-활성 상태의 미리보기였습니다.
+#reInvent2024 #AI #AmazonWebServices
+
+Hashtags: #AI, #AWS, #reInvent2024
+
+5 번째 검색 내용
+제목: 자바 뉴스 요약: JDK 24 램프다운, JDK 25 익스퍼트 그룹, Jakarta EE 11 코어 프로필, Spring Cloud
+주소: https://www.infoq.com/news/2024/12/java-news-roundup-dec02-2024/
+설명: Java 주요 뉴스 요약: 2024년 12월 2일, JDK 24 Rampdown Phase One; JDK 25 전문가 그룹의 성립; Jakarta EE 11 Core Profile과 Spring Cloud 2024.0.0 출시; GlassFish, Open Liberty, Quarkus, Apache Camel에 대한 포인트 릴리즈.
+#자바 #JDK24 #JakartaEE11 #SpringCloud
+
+#hashtags: #자바뉴스 #자바개발자 #자바기술
+
+6 번째 검색 내용
+제목: AWS 전송 가족 웹 앱: 브라우저를 통한 간소화된 S3 데이터 액세스
+
+(Note: The translation may not be perfect as some terms might not have direct equivalents in Korean. However, it conveys the general meaning of the original sentence.)
+주소: https://www.infoq.com/news/2024/12/aws-transfer-family-web-apps/
+설명: AWS Transfer Family's new web apps offer a user-friendly, no-code solution for secure access to Amazon S3 data. Designed for non-technical users, these fully managed portals simplify file management and enhance security with AWS IAM integration. Easily customizable and compliant with major standards, they streamline workflows and bridge gaps in traditional file transfer methods.
+#AWS #파일전송 #보안 #간편한사용자인터페이스
+
+Translated content: AWS Transfer Family's new web apps offer a user-friendly, no-code solution for secure access to Amazon S3 data. Designed for non-technical users, these fully managed portals simplify file management and enhance security with AWS IAM integration. Easily customizable and compliant with major standards, they streamline workflows and bridge gaps in traditional file transfer methods.
+#AWS #파일전송 #보안 #간편한사용자인터페이스
+
+7 번째 검색 내용
+제목: 클라우드플레어에서 11월에 대규모 사고가 발생하여 로그 손실이 발생했습니다.
+주소: https://www.infoq.com/news/2024/12/cloudflare-incident-log-loss/
+설명: Cloudflare는 11월 14일에 인시던트가 발생하여 3.5시간 동안 55%의 로그가 손실되었다고 최근에 확인했습니다. 이 사건은 대부분의 서비스를 사용하는 고객들에게 영향을 미치며, 시스템 실패의 연쇄적인 시리즈와 예상되지 않은 요청 폭발에 대처하는 데 있어 약점을 드러냈습니다.
+#Cloudflare #인시던트 #로그손실 #시스템실패
+
+#hashtags: #Cloudflare, #인시던트, #로그손실, #시스템실패
+
+8 번째 검색 내용
+제목: 마이크로 메트릭을 사용한 LLM 시스템 평가를 위한 QCon SF 2024 세션
+
+(Note: The translation may not be perfect as it is a machine translation. Please review and make any necessary adjustments.)
+주소: https://www.infoq.com/news/2024/12/llm-eval-micro-metric/
+설명: Denys Linkov's QCon San Francisco 2024 talk dissected the complexities of evaluating large language models (LLMs). He advocated for nuanced micro-metrics, robust observability, and alignment with business objectives to enhance model performance. Linkov’s insights highlight the need for multidimensional evaluation and actionable metrics that drive meaningful decisions.
+                     #인공지능 #대규모언어모델평가 #비즈니스목표와의정렬
+
+9 번째 검색 내용
+제목: 최적화된 Amazon ECS를 사용하여 예측 스케일링
+
+(Note: The translation may not be perfect as it is a technical term. Please confirm if the translation is correct or not.)
+주소: https://www.infoq.com/news/2024/12/aws-ecs-predictive-scaling/
+설명: AWS는 최근에 Amazon ECS의 Predictive Scaling을 발표했습니다. 이것은 기계학습(ML) 알고리즘을 사용하여 요구량 폭증을 예측하는 고급 스케일링 정책입니다. 이로 인해 애플리케이션은 높은 가용성과 반응성을 유지하면서 자원 과제를 최소화합니다.
+#AWS #PredictiveScaling #AmazonECS #기계학습
+
+#hashtags: #클라우드컴퓨팅 #스케일링정책 #기계학습알고리즘 #자원관리
+
+10 번째 검색 내용
+제목: 정적 분석기 PHPStan 2.0 버전 출시
+
+(Note: The translation may not be perfect as it is a proper noun and technical term, but it conveys the meaning.)
+주소: https://www.infoq.com/news/2024/12/phpstan-v2-release/
+설명: AI : PHPStan, PHP용 정적 분석 도구가 최근에 2.0 버전을 릴리스했습니다. 이 릴리스는 코드 분석, 성능 및 사용자 경험을 향상시키기 위해 새로운 기능과 개선 사항을 포함합니다.
+#PHPStan #정적분석도구 #코드분석 #성능 #사용자경험
+
+Hashtags: #PHPStan, #StaticAnalysis, #CodeQuality
+
+11 번째 검색 내용
+제목: Ai2 는 OLMo 2, 완전히 열린 소스 기반 모델을 출시합니다.
+주소: https://www.infoq.com/news/2024/12/olmo-2-ai2/
+설명: 인공지능 연구팀은 OLMo 2, 7억(7B)과 13억(13B) 매개변수 구성으로 새로운 열린 원시 언어 모델을 소개했습니다. 이러한 모델은 5조 토큰까지 훈련되었으며, 훈련 안정성을 재정의하고 단계적인 훈련 프로세스를 사용하며, 다양한 데이터셋을 통합했습니다.
+#열린소스 #언어모델 #인공지능연구팀
+
+Hashtags: #열린소스, #언어모델, #인공지능연구팀
+
+12 번째 검색 내용
+제목: Slack는 기존의 Enzyme를 React Testing Library로 이전하기 위해 AI가 지원되는 하이브리드 접근 방식을 사용했습니다.
+주소: https://www.infoq.com/news/2024/12/ai-enzyme-react-test-library/
+설명: Enzyme의 React 18에 대한 지원 부재로 이전에 사용하던 단위 테스트가 불가능해졌으며, 제공하던 기초적인 신뢰감을 허약하게 만들었습니다. QCon San Francisco에서 Sergii Gorbachov이 언급했습니다. Slack은 Enzyme 테스트를 React Testing Library(RTL)로 전환하여 테스트 커버리지의 연속성을 보장하기 위해 모든 테스트를 마이그레이션했습니다.
+#React #테스팅 #Slack
+
+#hashtags: #React, #Testing, #Slack
+
+13 번째 검색 내용
+제목: 엠존 엘라스틱 Vmware 서비스를 개발 미리 보기로 출시: VMware 워크로드 마이그레이션을 AWS에 위임합니다.
+주소: https://www.infoq.com/news/2024/12/amazon-evs-vmware-migration/
+설명: AWS는 Amazon Elastic VMware Service(EVS)를 공개하였습니다. EVS는 Amazon VPC 내에서 간편한 VMware Cloud Foundation 통합을 가능하게 합니다. 이  innovative service는 cloud에서의 VMware workload migration과 management를 단순화시키고, swift deployment와 optimized infrastructure를 제공하면서 고객들에게 애플리케이션에 대한 유연성과 제어를 제공합니다.
+#AWS #VMwareCloudFoundation #cloudcomputing #applicationmanagement
+
+14 번째 검색 내용
+제목: 미스트랄 AI가 대규모 다중 Modal 모델인 Pixtral Large를 발표합니다. 이 모델은 고급 이미지 및 텍스트 분석을 위해 사용됩니다.
+주소: https://www.infoq.com/news/2024/12/pixtral-large-mistral-ai/
+설명: Mistral AI는 Pixtral Large, 이미지와 텍스트 처리에 대한 고급 기능을 갖춘 다중 모드 모델로 124조 파라미터를 가진 비전 인코더 1조 파라미터로 구성되었습니다. Mistral Large 2에서 기반을 둔 이 모델은 MathVista와 DocVQA와 같은 벤치마크에서 최고의 성능을 달성하며, 텍스트와 시각적 데이터를 이유로 요구되는 작업에서 우수한 성능을 보였습니다.
+#인공지능 #MistralAI #PixtralLarge
+
+#hashtags:
+1. #AI_모델
+2. #이미지_처리
+3. #텍스트_처리
+
+15 번째 검색 내용
+제목: AISuite는 새로운 오픈소스 Python 라이브러리로, 통합된 크로스-LLM API를 제공합니다.
+주소: https://www.infoq.com/news/2024/12/aisuite-cross-llm-api/
+설명: 최근 Andrew Ng에 의해 발표된 aisuite는 현재 인기 있는 대규모 자연어 모델(LLM)을 사용하여 OpenAI와 같은 API를 제공하여 개발자들이 결과를 비교하거나 코드를 변경하지 않고 다른 LLM로 전환할 수 있도록 쉽게 사용할 수 있도록 합니다.
+#인공지능 #대규모자연어모델 #개발자용API
+
+Translated sentence: Recently announced by Andrew Ng, aisuite aims to provide an OpenAI-like API around the most popular large language models (LLMs) currently available to make it easy for developers to try them out and compare results or switch from one LLM to another without having to change their code.
+and Provide - #hashtags. Add 3 hashtags related to the translated content.
+
