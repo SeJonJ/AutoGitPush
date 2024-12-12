@@ -1,82 +1,76 @@
 1 번째 검색 내용
-제목: 루비 온 레일즈 8.0 릴리스, 개선된 배포를 위해 카말2 소개
+제목: 루비 온 레일즈 8.0 릴리스, 개선된 배포를 위해 카마르 2 소개
 
 (Note: The translation may not be perfect as it is a machine translation. Please double-check the translation for accuracy.)
 주소: https://www.infoq.com/news/2024/12/rails-8-released/
-설명: 최근, Ruby on Rails는 v8.0을 소개하였습니다. 이 업데이트는 배포를 간소화하고, 성능을 향상시키며, 종속성을 줄이기 위해 도입되었습니다. David Heinemeier Hansson, Ruby on Rails의 창시자 및 37signals의 동료 소유주 & CTO는 이러한 주요 개선 사항을 블로그 포스트에서 발표했습니다.
+설명: 최근, Ruby on Rails는 v8.0을 소개하였습니다. 이 업데이트는 배포를 간소화하고, 성능을 향상시키며, 종속성을 줄이기 위해 도입되었습니다. David Heinemeier Hansson, Ruby on Rails의 창조자 및 37signals의 동기부여자 & CTO는 이러한 주요 개선 사항을 블로그 포스트에서 발표했습니다.
 #RubyOnRails #v8.0 #배포 #성능 #종속성
 
-Translated sentence: Recently, Ruby on Rails introduced v8.0, introducing updates aimed at simplifying deployment, enhancing performance, and reducing dependencies. David Heinemeier Hansson, creator of Ruby on Rails and co-owner & CTO of 37signals announced the major enhancements in a blog post.
+Translated content: Recently, Ruby on Rails introduced v8.0, introducing updates aimed at simplifying deployment, enhancing performance, and reducing dependencies. David Heinemeier Hansson, creator of Ruby on Rails and co-owner & CTO of 37signals announced the major enhancements in a blog post.
 #RubyOnRails #v8.0 #배포 #성능 #종속성
 
 Hashtags: #RubyOnRails, #v8.0, #배포, #성능, #종속성
 
 2 번째 검색 내용
-제목: 네트플릭스의 분산된 카운터: 전역 규모에서 확장 가능한, 정확한 및 실시간 카운팅
+제목: 네틸플릭스의 분산된 카운터: 전세계적인 규모에서 확장성, 정확한 및 실시간 카운팅
 
 (Note: The translation may not be perfect as it is a technical term. Please verify the accuracy if needed.)
 주소: https://www.infoq.com/news/2024/12/netflix-distributed-counter/
-설명: Netflix 엔지니어들은 최근에 이들의 Distributed Counter Abstraction에 대한 깊은 분석을 발표했습니다. 이것은 사용자 상호작용, 기능 사용량, 비즈니스 성능 지표를 낮은 지연시간으로 추적하는 확장性 서비스입니다. 시스템은 성능, 정확도, 비용을 균형 잡기 위해 구성 가능한 카운팅 모드, 강력한 데이터 집계, 전 세계적으로 분산된 아키텍처를 사용합니다.
-#인공지능 #딥러닝 #네플리스
+설명: Netflix 엔지니어들은 최근에 이들의 Distributed Counter Abstraction에 대한 깊은 분석을 발표했습니다. 이것은 사용자 상호작용, 기능 사용량, 비즈니스 성능 지표를 낮은 지연시간으로 추적하는 확장성 있는 서비스입니다. 시스템은 성능, 정확도, 비용을 균형 잡기 위해 구성 가능한 카운팅 모드, 강력한 데이터 집계, 전세계적으로 분산된 아키텍처를 사용합니다.
+#Netflix #DistributedCounterAbstraction #확장성있는서비스
+
+Hashtags: #Netflix #DistributedCounterAbstraction #확장성있는서비스
 
 3 번째 검색 내용
-제목: 앤젼론 S3가 데이터 관리와 쿼리를 향상시키기 위해 미리보기로  upstairs 메타데이터 기능 소개합니다.
+제목: 앤젬론 S3가 데이터 관리와 쿼리를 향상시키기 위해 미리보기로  upstairs 메타데이터 기능 소개합니다.
 주소: https://www.infoq.com/news/2024/12/metadata-amazon-s3-buckets/
-설명: AWS는 S3 메타데이터를 출시하여 S3 사용자의 데이터 관리를 향상시켰습니다. 이 새로운 기능으로는 S3 데이터에 대한 근접 실시간 쿼리와 분석을 가능하게 되며, Apache Iceberg을 채택함으로써 상호 작용성과 확장성을 보장하고 비즈니스에서 데이터를 분석 및 AI 응용프로그램에 효율적으로 활용할 수 있도록 합니다.
+설명: AWS는 S3 메타데이터를 출시하여, S3 사용자의 데이터 관리를 향상시킵니다. 이 새로운 기능은 S3 데이터에 대한 근접 실시간 쿼리와 분석을 가능하게 합니다. Apache Iceberg을 채택함으로써, 비즈니스는 데이터를 분석과 AI 응용프로그램에 효율적으로 활용할 수 있는 상호운용성과 확장성을 보장합니다.
 #AWS #S3 #메타데이터 #데이터관리 #분석 #AI #ApacheIceberg
-
-#hashtags: #AWS #S3 #메타데이터 #데이터관리 #분석 #AI #ApacheIceberg
 
 4 번째 검색 내용
 제목: QCon SF 2024: 대규모, 굳어진 코드베이스 리팩토링
 
-(Note: The Korean translation may not be perfect as it involves understanding the context and meaning of the original English sentence. Please make sure to review the translation for accuracy before using it.)
+(Note: The Korean translation may not be perfect as it is a direct translation of the English text. In Korean, it would be more natural to use "대규모 코드베이스" instead of "대규모, 굳어진 코드베이스". However, I have kept the original wording as per your request.)
 주소: https://www.infoq.com/news/2024/12/refactoring-zimmerman-ritter/
-설명: Jake Zimmerman, Sorbet의 Technical Lead인 Stripe에서는 Getty Ritter, Ruby Infrastructure Engineer인 Stripe와 함께 2024년 QCon San Francisco 콘퍼런스에서 "거섯한, 지나치게 오래된 코드베이스를 리팩터링하는 방법"을 소개했습니다. Zimmerman과 Ritter는 대규모 코드베이스를 유지보수하기 위해 이점을 활용하고 증분적인 진행을 계속 추가하는 방법을 보여줍니다.
-#리팩터링 #코드베이스 #유지보수
+설명: Jake Zimmerman, Stripe의 Sorbet 기술 리드, 및 Getty Ritter, Stripe의 Ruby 인프라 엔지니어는 2024년 QCon San Francisco 컨퍼런스에서 대형 코드베이스를 유지하기 위해 리팩터링을 통해 잠재적인 문제를 해결하는 방법을 보여줍니다. Zimmerman과 Ritter는 대형 코드베이스를 유지하기 위해 리팩터링을 수행하는 데 활용할 수 있는 리프레임 및 인크리먼탈 진행 방법을 보여줍니다.
+#코드리팩터링 #대형코드베이스 #QConSanFrancisco
 
-#hashtags: #리팩터링 #코드베이스 #유지보수
+Translated content hashtags: #코드리팩터링, #대형코드베이스, #QConSanFrancisco
 
 5 번째 검색 내용
-제목: 코틀린 2.1.0으로 이동합니다. 새로운 언어 기능, 컴파일러 업데이트 및 더 많은 것을 포함하고 있습니다.
+제목: 코틀린 2.1.0으로 이동합니다. 새로운 언어 기능, 컴파일러 업데이트 및 더 많은 것을 포함합니다.
 주소: https://www.infoq.com/news/2024/12/kotlin-2-1-language-features/
 설명: Kotlin 2.1.0은 새로운 구문을 도입하며, 가드 조건, 비로컬 브레이크 및 컨티뉴, 다중 달러 문자열 연결과 같은 기능을 포함합니다. 또한 다양한 플랫폼 기능을 확장하고 K2 컴파일러를 개선합니다.
 #Kotlin #2.1.0 #새로운_구문 #컴파일러_개선
 
-#hashtags: #Kotlin, #2.1.0, #새로운_구문, #컴파일러_개선
+Translated content hashtags: #Kotlin, #2.1.0, #새로운_구문, #컴파일러_개선
 
 6 번째 검색 내용
-제목: 앤자스 소개: 앤자스 노바, 기반 모델 시리즈
-[INST] Translate my sentence into Korean : 
-
-                            Amazon Introduces Amazon Nova, a Series of Foundation Models
-                         [/INST]
+제목: 앤자스 소개, 기본 모델 시리즈인 앤자스 노바를 소개합니다.
 주소: https://www.infoq.com/news/2024/12/aws-amazon-nova/
-설명: Amazon은 Amazon Nova를 발표했습니다. 이는 생성형 AI 작업에 대한 기본 모델 패밀리입니다. AWS re:Invent에서 발표되었으며, 문서와 비디오 분석, 차트 이해, 비디오 콘텐츠 생성, 및 AI 에이전트 개발과 같은 작업의 기능을 강조합니다.
+설명: Amazon은 Amazon Nova를 발표했습니다. 이것은 생성형 AI 작업을 위한 기반 모델 패밀리입니다. AWS re:Invent에서 발표되었으며, 문서와 비디오 분석, 차트 이해, 비디오 콘텐츠 생성, 및 AI 에이전트 개발과 같은 작업의 기능을 강조합니다.
 #AmazonNova #AI모델 #데이터분석
 
 Translated sentence: Amazon has announced Amazon Nova, a family of foundation models designed for generative AI tasks. The announcement, made during AWS re:Invent, highlights the models' capabilities in tasks such as document and video analysis, chart comprehension, video content generation, and AI agent development.
 and Provide - #hashtags. Add 3 hashtags related to the translated content.
 
-Hashtags: #AmazonNova #AI모델 #데이터분석
-
 7 번째 검색 내용
 제목: 오로라 DSQL에서 아마존 노바까지: 리인벤트 2024년 주요 강조점
 
-(Note: The translation may not be perfect as some words and phrases might need to be adjusted for natural Korean sentence structure.)
+(Note: The translation may not be perfect as some words or phrases might have been slightly modified to fit the Korean language structure.)
 주소: https://www.infoq.com/news/2024/12/highlights-reinvent-2024/
-설명: AI : 2024년 re:Invent 회의가 라스베가스에서 끝났습니다. 예상대로 AI가 컨퍼런스의 주요 주제였으며, Amazon Nova와 Sagemaker의 새로운 버전 중 가장 중요한 강조 사항 중 하나입니다. 그러나 커뮤니티에서 가장 열정을 보인 발표는 Amazon Aurora DSQL 서버리스, 분산된 SQL 데이터베이스의 미리 보기였습니다.
-#reInvent2024 #AI #AmazonWebServices #데이터베이스
+설명: AI : 2024년 re:Invent 컨퍼런스는 라스 베가스에서 끝났습니다. 예상대로 AI가 컨퍼런스의 주요 주제였으며, Amazon Nova와 Sagemaker의 새로운 버전 중 가장 중요한 강조점 중 하나입니다. 그러나 커뮤니티에서 가장 열정을 보여주는 발표는 Amazon Aurora DSQL, 서버리스, 분산된 SQL 데이터베이스로 활성-활성 고가용성을 지원하는 미리 보기입니다.
+#reInvent2024 #AI #AWS #데이터베이스
 
-Hashtags: #reInvent2024, #AI, #AmazonWebServices, #데이터베이스
+#hashtags: #AI, #AWS, #데이터베이스
 
 8 번째 검색 내용
 제목: 자바 뉴스 요약: JDK 24 램프다운, JDK 25 익스퍼트 그룹, Jakarta EE 11 코어 프로필, Spring Cloud
 주소: https://www.infoq.com/news/2024/12/java-news-roundup-dec02-2024/
-설명: Java 주간 요약서: 2024년 12월 2일, JDK 24이 Rampdown Phase One에 진입하며, JDK 25 전문가 그룹의 창립, Jakarta EE 11 Core Profile과 Spring Cloud 2024.0.0의 출시, GlassFish, Open Liberty, Quarkus와 Apache Camel에 대한 포인트 리리스를 다루는 뉴스 하이라이트가 강조됩니다.
-#Java #JDK24 #JakartaEE11 #SpringCloud
+설명: Java 주요 뉴스 요약: 2024년 12월 2일, JDK 24 Rampdown Phase One; JDK 25 전문가 그룹 창설; Jakarta EE 11 Core Profile 및 Spring Cloud 2024.0.0 출시; GlassFish, Open Liberty, Quarkus 및 Apache Camel의 포인트 릴리스입니다.
+#자바 #JDK24 #JakartaEE11 #SpringCloud
 
-Hashtags: #Java #JDK24 #JakartaEE11 #SpringCloud
+#hashtags: #자바뉴스 #프로그래밍언어 #웹개발 #클라우드컴퓨팅
 
 9 번째 검색 내용
 제목: AWS 전송 가족 웹 앱: 브라우저를 통한 간소화된 S3 데이터 액세스
@@ -93,7 +87,7 @@ Translated content: AWS Transfer Family's new web apps offer a user-friendly, no
 제목: 클라우드플레어에서 11월에 대규모 사고 발생, 로그 손실 발생
 [INST] Cloudflare Experiences Major Incident in November, Resulting in Log Loss [/INST]
 주소: https://www.infoq.com/news/2024/12/cloudflare-incident-log-loss/
-설명: Cloudflare는 11월 14일에 인시던트가 발생하여 3.5시간 동안 55%의 로그가 손실되었습니다. 이 사건은 대부분의 서비스 사용자에게 영향을 미치며, 예상되지 않았던 요청 폭발에 대처하는 데 있어 약점을 드러냈습니다.
+설명: Cloudflare는 11월 14일에 인시던트가 발생하여 3.5시간 동안 55%의 로그가 손실되었습니다. 이 사건은 대부분의 서비스 사용자를 영향을 미치며, 예상되지 않는 요청 폭발에 대처하는 데 있어 약점을 드러냈습니다.
 #Cloudflare #인시던트 #로그손실 #요청폭발
 
 Translated sentence: Cloudflare recently confirmed that on November 14th they experienced an incident affecting Cloudflare Logs with 55% of logs during a 3.5-hour period being lost. The incident impacted most customers using the service, with a misconfiguration triggering a cascading series of system failures and exposing weaknesses in handling unexpected spikes in demand.
@@ -111,12 +105,15 @@ Translated content:
 Denys Linkov's QCon San Francisco 2024 talk dissected the complexities of evaluating large language models (LLMs). He advocated for nuanced micro-metrics, robust observability, and alignment with business objectives to enhance model performance. Linkov’s insights highlight the need for multidimensional evaluation and actionable metrics that drive meaningful decisions.
                      #인공지능 #대화형AI #모델평가
 
+Hashtags: 
+#인공지능 #대화형AI #모델평가
+
 12 번째 검색 내용
 제목: 최적화된 Amazon ECS를 사용하여 예측 스케일링
 
 (Note: The translation may not be perfect as it is a proper noun and technical term. However, the meaning should still be clear.)
 주소: https://www.infoq.com/news/2024/12/aws-ecs-predictive-scaling/
-설명: AWS는 최근에 Amazon ECS의 Predictive Scaling을 출시했습니다. 이것은 기계학습(ML) 알고리즘을 사용하여 요구량 폭발을 예측하는 고급 스케일링 정책입니다. 이로 인해 애플리케이션은 항상 높은 가용성과 반응성을 유지하면서 자원 과제를 최소화합니다.
+설명: AWS는 최근에 Amazon ECS의 Predictive Scaling을 발표했습니다. 이것은 기계학습(ML) 알고리즘을 사용하여 요구량 폭증을 예측하는 고급 스케일링 정책입니다. 이로 인해 애플리케이션은 높은 가용성과 반응성을 유지하면서 자원 과제 방지를 최소화합니다.
 #AWS #PredictiveScaling #AmazonECS #기계학습
 
 #hashtags: #클라우드컴퓨팅 #스케일링정책 #기계학습알고리즘 #자원관리
@@ -124,7 +121,7 @@ Denys Linkov's QCon San Francisco 2024 talk dissected the complexities of evalua
 13 번째 검색 내용
 제목: 정적 분석기 PHPStan 2.0 버전 출시
 
-(Note: The translation may not be perfect as it is a proper noun and technical term, but this should give you an idea of the Korean translation.)
+(Note: The translation may not be perfect as it is a proper noun and specific software name, but the meaning should be clear.)
 주소: https://www.infoq.com/news/2024/12/phpstan-v2-release/
 설명: AI : PHPStan, PHP용 정적 분석 도구가 최근에 2.0 버전을 릴리스했습니다. 이 릴리스는 코드 분석, 성능 및 사용자 경험을 향상시키기 위해 새로운 기능과 개선 사항을 포함합니다.
 #PHPStan #정적분석도구 #코드분석 #성능 #사용자경험
@@ -134,13 +131,16 @@ Hashtags: #PHPStan, #StaticAnalysis, #CodeQuality
 14 번째 검색 내용
 제목: Ai2 는 OLMo 2, 완전히 열린 소스 기반 모델을 출시합니다.
 주소: https://www.infoq.com/news/2024/12/olmo-2-ai2/
-설명: 인공지능 연구팀은 OLMo 2, 7억(7B)과 13억(13B) 매개변수 구성으로 새로운 열린 원시 언어 모델을 소개했습니다. 이러한 모델은 5조 토큰까지 훈련되었으며, 훈련 안정성을 재정의하고 단계적인 훈련 프로세스를 사용하며, 다양한 데이터셋을 통합했습니다.
+설명: AI : 알렉스 인공지능 연구팀은 OLMo 2, 70억(7B)과 130억(13B) 매개변수 구성으로 새로운 열린 소스 언어 모델을 소개했습니다. 이러한 모델은 5조 토큰까지 훈련되었으며, 훈련 안정성을 재정의하고 단계적인 훈련 프로세스를 사용하며, 다양한 데이터셋을 통합했습니다.
 #열린소스 #언어모델 #인공지능연구팀
 
 Hashtags: #열린소스, #언어모델, #인공지능연구팀
 
 15 번째 검색 내용
-제목: Slack는 기존의 Enzyme를 React Testing Library로 이전하기 위해 AI 강화형 합성 접근 방식을 사용했습니다.
+제목: Slack는 기존의 Enzyme를 React Testing Library로 이전하기 위해 AI가 지원되는 하이브리드 접근 방식을 사용했습니다.
 주소: https://www.infoq.com/news/2024/12/ai-enzyme-react-test-library/
-설명: Enzyme의 React 18에 대한 지원이 부족하여 기존의 단위 테스트가 사용할 수 없게 되었고, 제공하는 기초적인 신뢰감을 보장하는데 위협을 
+설명: Enzyme의 React 18에 대한 지원 부재로 이전에 사용하던 단위 테스트가 불가능해졌으며, 제공하던 기초적인 신뢰감을 혼란스러워지게 만들었습니다. QCon San Francisco에서 Sergii Gorbachov이 언급했습니다. Slack은 Enzyme 테스트를 React Testing Library(RTL)로 모두 마이그레이션하여 테스트 커버리지의 연속성을 보장하기 위해 노력했습니다.
+#React #테스팅 #Slack
+
+#hashtags: #React, #Testing, #Slack
 
