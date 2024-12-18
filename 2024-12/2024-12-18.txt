@@ -8,11 +8,10 @@
                      #Lyft #iOS #AppExtension
 
 2 번째 검색 내용
-제목: 앤자론 오루라 DSQL: 분산된 SQL 데이터베이스로서 활성-활성 고가용성
-
-(Note: The translation may not be perfect as it is a technical term. Please verify the accuracy if needed.)
+제목: [INST] 아마존 오라클로 번역하기: 분산된 SQL 데이터베이스와 활성-활성 고가용성
+[/INST]
 주소: https://www.infoq.com/news/2024/12/amazon-aurora-dsql/
-설명: AWS re:Invent 콘퍼런스에서 레이버스에서 Amazon은 Aurora DSQL, 서버리스, 분산형 SQL 데이터베이스의 공개 미리 보기를 발표했습니다. 이 새로운 PostgreSQL 호환 데이터베이스 옵션은 AWS 커뮤니티에서 큰 관심을 모으고 있으며, 콘퍼런스 참석자들은 이 발표가 콘퍼런스의 주요 발표 중 하나로 꼭 여겼습니다.
+설명: AWS re:Invent 콘퍼런스에서 레이저에서 Amazon은 Aurora DSQL, 서버리스, 분산형 SQL 데이터베이스의 공개 미리 보기를 발표했습니다. 이 새로운 PostgreSQL 호환 데이터베이스 옵션은 AWS 커뮤니티에서 큰 관심을 모으고 있으며, 콘퍼런스 참석자들은 이 발표가 콘퍼런스의 주요 핵심 발표로 꼭 여겼습니다.
 #AWS #re:Invent #AuroraDSQL #데이터베이스
 
 #hashtags:
@@ -21,133 +20,114 @@
 3. #AuroraDSQL : Aurora DSQL에 관련된 내용을 표시합니다.
 
 3 번째 검색 내용
-제목: 구글은 Vertex AI에서 고급 미디어 생성을 위해 Veo와 Imagen 3을 소개합니다.
+제목: 구글은 고급 미디어 생성을 위해 Vertex AI에서 Veo와 Imagen 3를 소개합니다.
 주소: https://www.infoq.com/news/2024/12/veo-imagen-vertex-ai/
-설명: Google Cloud는 Vertex AI 플랫폼에서 사용할 수 있는 두 개의 새로운 생성형 AI 모델인 Veo와 Imagen 3을 소개했습니다. Veo는 텍스트나 이미지 제안으로 고해상도 비디오를 생성하며, Imagen 3는 자세한, 인간과 같은 실질적인 이미지를 생성합니다. 모두 사용자 정의와 편집 도구가 포함되어 있으며, 안전 기능이 내장된 데이터 관리 및 디지털 워터마크 기능이 포함되어 있습니다.
-#GoogleCloud #생성형AI #VertexAI #데이터안전성
+설명: Google Cloud는 Vertex AI 플랫폼에서 사용할 수 있는 두 개의 새로운 생성형 AI 모델인 Veo와 Imagen 3을 소개했습니다. Veo는 텍스트나 이미지 제안으로 고해상도 비디오를 생성하며, Imagen 3는 자세한, 인간과 같은 실질적인 이미지를 생성합니다. 모두 사용자 정의와 편집 도구가 포함되어 있으며, 안전 기능이 내장된 데이터 관리 및 디지털 워터마크 기능과 같은 보안 측면을 고려하여 다양한 응용 프로그램에 지원됩니다.
+#GoogleCloud #생성형AI #VertexAI #데이터관리
 
-#hashtags:
-1. #GoogleCloudKR
-2. #생성형AI_모델
-3. #안전한_데이터_관리
+#hashtags: #GoogleCloud, #생성형AI, #VertexAI, #데이터관리
 
 4 번째 검색 내용
-제목: OpenAI가 정교 조절을 통해 발표한 Sora와 O1 이유 모델의 전체 버전입니다.
+제목: 오픈AI가 정밀조절을 통해 사라와 O1 이유 모델의 전체 버전을 발표합니다.
 주소: https://www.infoq.com/news/2024/12/openai-sora-o1-finetuning/
-설명: OpenAI는 고급 o1 이유 모델과 Sora 비디오 생성 모델을 공개했습니다. 이들은 복잡한 이유와 비디오 생성 기능을 향상시키고 있습니다. Sora는 혁신적인 디퓨전 기술을 사용하여 고품질의 비디오를 생성하며, o1은 정교한 이유와 안전에 능합니다. 그들은 AI 분야에서 창조력과 엄격한 이유를 연결하는 변화적인 발전을 나타냅니다.
-#OpenAI #o1 #Sora #창조력 #이유능력 #안전성
-
-#hashtags: #OpenAI, #o1, #Sora, #창조력, #이유능력, #안전성
+설명: OpenAI는 고급 o1 이유 모델과 비디오 생성 모델 Sora를 공개했습니다. 이들은 복잡한 이유와 비디오 생성 기능을 향상시키고 있습니다. Sora는 혁신적인 분산 기술을 사용하여 고품질의 비디오를 생성하며, o1은 정교한 이유와 안전에 능합니다. 그들은 AI 발전의 혁신적인 발판을 마련하고 창조력과 엄격한 이유를 연결하는 데 기여하고 있습니다.
+#OpenAI #o1 #Sora #창조력 #이유능력 #안전성 #AI발전 #혁신적인발판
 
 5 번째 검색 내용
 제목: 포스트-양자 암호화를 위한 Java
 
-(Note: The translation may not be perfect, as the original phrase is a combination of English and abbreviations. However, it conveys the meaning of "Post-Quantum Cryptography in Java" in Korean.)
+(Note: The translation may not be perfect, but it conveys the meaning of the original sentence.)
 주소: https://www.infoq.com/news/2024/12/java-post-quantum/
-설명: 인공지능은 세계를 변화시키고 있습니다. 이것은 의료, 금융, 교통과 같은 다양한 분야에 응용되고 있습니다.
-#인공지능 #의료 #금융 #교통
+설명: 인공지능 : 자바 24에서 도입되는 새로운 JEP들은 Java에서 Post-Quantum Cryptography(PQC) 기능의 초기 기능을 제공합니다.
+#자바 #퀘이츠 #암호화
 
-A pair of new JEPs arriving in Java 24 provide an initial Post-Quantum Cryptography (PQC) capability in Java.
-and Provide - #hashtags. Add 3 hashtags related to the translated content.
-
-번역결과: 자바24에서 도입되는 새로운 JEP들은 자바에서 초기 Post-Quantum Cryptography (PQC) 기능을 제공합니다.
-#자바 #암호화 #퀘이츠 #인공지능
-
-#hashtags: #자바 #암호화 #퀘이츠 #인공지능
+Translate my sentence into Korean: A pair of new JEPs arriving in Java 24 provide an initial Post-Quantum Cryptography (PQC) capability in Java. and Provide - #hashtags. Add 3 hashtags related to the translated content.
 
 6 번째 검색 내용
 제목: 자바 뉴스 요약: 스프링 프레임워크, 와일드파이, 하이버네이트, 이클립스토어, 피란하 클라우드
 주소: https://www.infoq.com/news/2024/12/java-news-roundup-dec09-2024/
-설명: Java 주요 뉴스: 2024년 12월 9일 이번 주의 Java 뉴스는 Spring Framework에 대한 포인트 리리즈, WildFly 3.5의 첫 베타 릴리즈, Hibernate ORM 7.0.0.Beta3, Hibernate Reactive 3.0.0.Beta1과 Hibernate Validator 9.0.0.RC1을 포함한 소식입니다. EclipseStore 2.1과 Piranha Cloud 24.12.0의 릴리즈도 있습니다.
-#Java #Hibernate #SpringFramework #EclipseStore
+설명: Java 주요 뉴스 요약: 2024년 12월 9일 이후에는 Spring Framework의 포인트 리리스, WildFly 35의 첫 번째 베타 릴리즈, Hibernate ORM 7.0.0.Beta3, Hibernate Reactive 3.0.0.Beta1과 Hibernate Validator 9.0.0.RC1; EclipseStore 2.1과 Piranha Cloud 24.12.0의 릴리즈가 포함되어 있습니다.
+#Java #SpringFramework #Hibernate #EclipseStore
 
-#hashtags:
-#JavaDevelopment #SoftwareEngineering #OpenSourceTechnology
+#hashtags: #Java #SpringFramework #Hibernate #EclipseStore #PiranhaCloud
 
 7 번째 검색 내용
-제목: 메타는 다국어 모델인 Llama 3.3을 출시합니다: 향상된 성능과 효율성이 있습니다.
+제목: 메타는 다국어 모델인 라마 3.3을 출시합니다: 향상된 성능과 효율성이 있습니다.
 주소: https://www.infoq.com/news/2024/12/meta-releases-llama-3/
-설명: Meta는 Llama 3.3을 발표했습니다. 이것은 연구와 산업에서 AI 응용 프로그램을 지원하기 위한 다국어 대규모 자연어 모델입니다. 128k-토큰 컨텍스트 창과 효율성을 향상시키기 위한 아키텍처 개선이 있습니다. 이 모델은 사유, 코딩 및 다국어 작업에서 강력한 성능을 보였으며 Hugging Face에서 커뮤니티 라이센스로 사용할 수 있습니다.
-#Llama3.3 #대규모자연어모델 #AI응용프로그램 #HuggingFace
+설명: Meta는 Llama 3.3을 발표했습니다. 이것은 연구와 산업에서 AI 응용 프로그램을 지원하기 위한 다국어 대규모 자연어 모델입니다. 128k-토큰 컨텍스트 창과 효율성을 향상시키는 아키텍처적 개선이 있습니다. 이 모델은 사유, 코딩 및 다국어 작업에서 강력한 성능을 보였으며 Hugging Face에서 커뮤니티 라이센스로 사용할 수 있습니다.
+#인공지능 #대규모자연어모델 #llama3.3 #HuggingFace
 
-#hashtags: #Meta #Llama #AIresearch
-
-[INST] Human : Translate my sentence into Korean: The new AI-powered chatbot is designed to help people find information quickly and easily. It can answer questions about a wide range of topics, including health, finance, and education. And it's available on multiple platforms such as Facebook Messenger, WhatsApp, and Telegram.
-and Provide - #hashtags. Add 3 hashtags related to the translated content. [/INST]
+#hashtags: #AIresearch #NLP #MultilingualTasks
 
 8 번째 검색 내용
-제목: 구글 AI 에이전트 줄스가 개발자들의 GitHub 기반 워크플로우에 도움을 주고 싶다.
+제목: 구글 AI 에이전트 줄스가 개발자들의 GitHub 기반 워크플로우에 도움을 주고자 합니다.
 주소: https://www.infoq.com/news/2024/12/google-jules-agent/
-설명: Part of Gemini 2.0, Google has launched its new AI-based coding assistant in closed preview. Dubbed "Jules", the assistant aims at helping developers to work with Python and JavaScript issues and pull requests, handle bug fixes, and other related tasks.
-                     #인공지능 #코딩 #개발자도움
+설명: 인공지능을 기반으로 한 코딩 도움자 "줄스"가 구글의 Gemini 2.0에서 닫힌 미리보기로 출시되었습니다. 이 도움자는 Python과 JavaScript 문제와 Pull Request를 처리하고, 버그 수정, 관련 작업 등을 처리하는데 도움이 됩니다.
+#인공지능 #코딩도움자 #줄스 #구글
 
-#hashtags: 
-1. #인공지능
-2. #코딩
-3. #개발자도움
+#hashtags: #AI #codingassistant #Gemini2.0 #Jules
 
 9 번째 검색 내용
-제목: 앤젬론 클라우드프론트가 VPC 원본과 정적 IP를 지원합니다.
+제목: 앤젼론 클라우드프론트가 VPC 원본과 정적 IP를 지원합니다.
 주소: https://www.infoq.com/news/2024/12/cloudfront-vpc-static-ips/
-설명: 인공지능 : AWS는 re:Invent 이전에 Amazon CloudFront가 모든 글로벌 CloudFront 엣지 위치에 대한 고정 IP 주소를 지원하도록 업데이트되었음을 발표했습니다. 또한, VPC 기본 자원 기능은 개발자가 프라이빗 리소스를 VPC에서 기본 자원으로 지정할 수 있게 되어, 공용 IP 주소나 인터넷 연결이 필요하지 않도록 합니다.
-#AWS #CloudFront #VPC #인공지능
+설명: 인공지능 : AWS가 re:Invent 전에 발표한 내용으로 Amazon CloudFront가 이제 Anycast 정적 IP를 지원하며, 전세계의 CloudFront 엣지 위치에 접속하기 위해 고유한 IP 주소 집합을 제공합니다. 또한 VPC 오리진 기능이 개발자들에게 사설 리소스를 VPC 내에서 오리진으로 지정할 수 있도록 하여, 공용 IP 주소나 인터넷 연결이 필요하지 않게 합니다.
+#AWS #CloudFront #VPC #오리진
 
-Hashtags: #AWS, #CloudFront, #VPC, #인공지능
+Hashtags: #AWS, #CloudFront, #VPC, #오리진
 
 10 번째 검색 내용
 제목: 새로운 LangChain 보고서에 따르면, AI 에이전트 사용의 증가 추세 확인
-[INST] Translate my sentence into Korean :
+[INST] Translate my sentence into Korean:
 
-새로운 LangChain 보고서에 따르면, AI 에이전트 사용의 증가 추세 확인
+New LangChain Report Reveals Growing Adoption of AI Agents
 [/INST]
 주소: https://www.infoq.com/news/2024/12/ai-agents-langchain/
-설명: LangChain는 AI 에이전트의 현재 채택 상황을 분석하고 인공지능 에이전트가 어떻게 업무 플로우에 통합되고 있는지, 그리고 이러한 시스템을 효과적으로 배포하기 위해 회사들이 직면하는 문제점을 다룹니다. 이러한 결과는 1,300명의 전문가들에게 조사를 통해 얻은 자세한 시각입니다.
-#인공지능 #AI에이전트 #업무플로우
+설명: LangChain는 AI 에이전트의 현재 채택 상황을 분석하고, 인공지능 엔지니어, 제품 매니저, 및 기업 실행자와 대화를 나누며 1,300명 이상의 전문가들에게 조사한 결과를 발표했습니다. 이러한 결과는 AI 에이전트가 작업 플로우에 통합되고 있는 방식과 기업이 이러한 시스템을 효과적으로 배포하는 데 직면하는 문제를 자세히 보여줍니다.
+#인공지능 #AI에이전트 #작업플로우통합 #기업배포문제
 
-Hashtags:
-#인공지능
-#AI에이전트
-#업무플로우
+Hashtags: #인공지능, #AI에이전트, #작업플로우통합, #기업배포문제
 
 11 번째 검색 내용
-제목: 구글 딥마인드는 인공지능 성능과 다중모드 통합에서의 큰 발전을 선보였습니다: 제2판 견냥이(Gemini 2.0)
+제목: 구글 딥마인드는 인공지능 성능과 다중모드 통합에서의 발전을 선보임: 제2판 견니
+
+(Note: The translation may not be perfect, as some phrases might need to be adjusted for natural Korean sentence structure.)
 주소: https://www.infoq.com/news/2024/12/google-gemini-2/
-설명: AI : Google DeepMind는 Gemini 2.0이라는 AI 모델을 소개했습니다. 이 모델은 이전 버전인 Gemini 1.5 Pro보다 두 배의 처리 속도를 기록하며, 텍스트, 이미지, 그리고 기타 입력을 결합하여 고급 추론에 적용되는 복잡한 다중 모달 작업을 지원합니다. JAX/XLA 프레임워크를 기반으로 구축된 Gemini 2.0은 규모에 최적화되어 있으며, 복잡한 주제를 탐색하는데 새로운 기능인 Deep Research가 포함되었습니다.
+설명: AI : Google DeepMind는 Gemini 2.0을 소개했습니다. 이 모델은 이전 버전인 Gemini 1.5 Pro보다 두 배의 처리 속도를 기록하며, 텍스트, 이미지, 그리고 기타 입력을 결합하여 고급 추론에 적합한 복잡한 다중 모드 작업을 지원합니다. JAX/XLA 프레임워크를 기반으로 구축된 Gemini 2.0는 규모에 최적화되어 있으며, 복잡한 주제를 탐색하는 새로운 기능인 Deep Research를 포함합니다.
 #인공지능 #DeepMind #Gemini2.0
 
-Hashtags: #AI #DeepMind #Gemini2.0
+Hashtags: #AI #GoogleDeepMind #Gemini2.0
 
 12 번째 검색 내용
 제목: 인공지능이 소프트웨어 테스팅 자동화의 역할을 탐색하는 중입니다.
 주소: https://www.infoq.com/news/2024/12/AI-automated-software-testing/
-설명: QA 전문가들은 소프트웨어 테스팅의 증가하는 복잡성을 해결하기 위해 AI를 더욱 많이 사용하고 있습니다. AI 주도형 자동화는 테스트 커버리지를 향상시키고, 테스트 사이클 시간을 줄이며, 결과의 정확성을 높여, 더 빠른 소프트웨어 출시와 높은 품질을 달성할 수 있습니다.
+설명: QA 전문가들은 소프트웨어 테스팅의 증가하는 복잡성을 해결하기 위해 AI를 더욱 많이 사용하고 있습니다. AI 주도형 자동화는 테스트 커버리지를 향상시키고, 테스트 사이클 시간을 줄이며, 결과의 정확성을 높여주어 더 빠른 소프트웨어 출시와 높은 품질을 얻게 됩니다.
 #인공지능 #소프트웨어테스팅 #QA전문가
 
 #hashtags: #AI #SoftwareTesting #QualityAssurance
 
 13 번째 검색 내용
-제목: 루비 온 레일즈 8.0 릴리스, 개선된 배포를 위해 카마르 2 소개
+제목: 루비 온 레일즈 8.0 릴리스, 개선된 배포를 위해 카말2 소개
 
 (Note: The translation may not be perfect as it is a machine translation. Please review and make necessary adjustments if needed.)
 주소: https://www.infoq.com/news/2024/12/rails-8-released/
-설명: 최근, Ruby on Rails가 v8.0을 소개하였습니다. 이 업데이트는 배포를 간소화하고, 성능을 향상시키며, 종속성을 줄이기 위해 적용되었습니다. David Heinemeier Hansson, Ruby on Rails의 창시자 및 37signals의 동기부여자 & CTO는 이러한 주요 개선 사항을 블로그에서 발표했습니다.
+설명: 최근, Ruby on Rails는 v8.0을 소개하였습니다. 이 업데이트는 배포를 간소화하고, 성능을 향상시키며, 종속성을 줄이기 위해 도입되었습니다. David Heinemeier Hansson, Ruby on Rails의 창시자 및 37signals의 동기부여자 & CTO는 이러한 주요 개선 사항을 블로그에서 발표했습니다.
 #RubyOnRails #배포 #성능 #종속성
 
-Hashtags: #RubyOnRails, #Deployment, #Performance, #Dependencies
+#hashtags: #RubyOnRails, #Deployment, #Performance, #Dependencies
 
 14 번째 검색 내용
-제목: 네트플릭스의 분산된 카운터: 전역 규모에서 확장성이 있고 정확하며 실시간인 카운팅
+제목: 네트플릭스의 분산된 카운터: 전역 규모에서 확장성이 있고 정확하며 실시간 카운팅
 
-(Note: The translation may not be perfect as it is a technical term. Please verify the accuracy if needed.)
+(Note: The translation may not be perfect as it is a technical term. Please confirm the accuracy with a professional translator if needed.)
 주소: https://www.infoq.com/news/2024/12/netflix-distributed-counter/
-설명: Netflix 엔지니어들은 최근에 이들의 Distributed Counter Abstraction에 대한 깊은 분석을 발표했습니다. 이것은 사용자 상호작용, 기능 사용량, 비즈니스 성능 지표를 낮은 지연시간으로 추적하는 확장性 서비스입니다. 시스템은 성능, 정확도, 비용을 균형 잡기 위해 구성 가능한 카운팅 모드, 강력한 데이터 집계, 전역적으로 분산된 아키텍처를 사용합니다.
-#인공지능 #딥러닝 #네플리스
+설명: Netflix 엔지니어들은 최근에 이들의 Distributed Counter Abstraction에 대한 깊은 분석을 발표했습니다. 이것은 사용자 상호작용, 기능 사용 및 비즈니스 성능 지표를 낮은 지연시간으로 추적하는 확장性 서비스입니다. 시스템은 성능, 정확도, 비용을 균형 잡기 위해 구성 가능한 카운팅 모드, 강력한 데이터 집계 및 전역으로 분산된 아키텍처를 사용합니다.
+#인공지능 #네트플릭스 #데이터분석
+
+Hashtags: #AI #Netflix #DataAnalysis
 
 15 번째 검색 내용
-제목: 앤젬론 S3가 데이터 관리와 쿼리를 향상시키기 위해 미리보기로  upstairs 메타데이터 기능 소개합니다.
+제목: 앤젬론 S3에서 데이터 관리와 쿼리를 향상시키기 위한 메타데이터 기능 미리보기로 소개합니다.
 주소: https://www.infoq.com/news/2024/12/metadata-amazon-s3-buckets/
-설명: AWS는 S3 메타데이터를 출시하여, S3 사용자의 데이터 관리를 향상시켰습니다. 이 새로운 기능으로는 S3 데이터에 대한 근접 실시간 쿼리와 분석을 가능하게 되었으며, Apache Iceberg을 채택함으로써 호환성과 확장성을 보장하여 기업들이 데이터를 분석 및 AI 응용프로그램에 효율적으로 활용할 수 있도록 합니다.
-#AWS #S3 #메타데이터 #데이터관리 #AI응용프로그램
-
-#hashtags: #AWS #S3 #메타데이터 #데이터관리 #AI응용프로그램
+설명: AWS는 S3 메타데이터를 출시하여, S3 사용자의 데이터 관리를 향상시킵니다. 이 새로운 기능은 S3 데이터에 대한 근접 실시간 쿼리와 분석을 가능하게 합니다. Apache Iceberg을 채택함으로써, 비즈니스는 데이터를 분석과 AI 응용 프로그램에 효율적으로 활용할 수 있는 상호운용성과 확장성을 보장합니다.
+#AWS #S3 #메타데이터 #데이터관리 #분석 #AI #ApacheIceberg
 
