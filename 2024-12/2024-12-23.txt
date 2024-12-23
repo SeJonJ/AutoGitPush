@@ -1,0 +1,134 @@
+1 번째 검색 내용
+제목: 구글 위엘 새로운 큐언트 상금 기록을 세팅합니다.
+주소: https://www.infoq.com/news/2024/12/google-willow-quantum-supremacy/
+설명: Google은 새로운 105큐비트 슈퍼콘덴서링 칩 "Willow"를 발표했습니다. 이 칩은 클래식 컴퓨터에서는 최소 300만 년 걸리는 큐언트 우선성 실험을 10분 내에 해결할 수 있었습니다. 더 중요한 것은, 이 칩이 스케일성을 놓치지 않도록 오류 균형을 달성하는 방식으로 탐구되었다는 점입니다.
+#큐언트 #슈퍼콘덴서링 #스케일성
+
+Translated sentence: Google has announced its new 105-qubit superconducting chip, code-named Willow, which solved a quantum supremacy experiment that would take at least 300 million years to simulate on a classical computer. More importantly, the chip shows how quantum hardware may achieve fault tolerance in such a way to seemingly unleash its scalability.
+
+#hashtags: #큐언트 #슈퍼콘덴서링 #스케일성
+
+2 번째 검색 내용
+제목: [INST] 오픈아이(OpenAI)의 주요 업데이트를 요약하는 "쉽마스(Shipmas)"에서 주요 변경 사항을 강조합니다. [/INST]
+주소: https://www.infoq.com/news/2024/12/openai-shipmas-12-days/
+설명: AI : OpenAI의 "12일의 쉽마스" 이벤트는 매일 새로운 AI 기능과 도구에 대한 공지사항을 발표했습니다. 아래에는 주요 개발 요약입니다.
+#OpenAI #12일의쉽마스 #인공지능기능 #도구
+
+3 번째 검색 내용
+제목: 레디스 창조자 'antirez' 복귀: 그가 발키에의 모멘텀을 이동시킬 수 있나요?
+주소: https://www.infoq.com/news/2024/12/redis-antirez-back/
+설명: 인공지능 창조자 Salvatore Sanfilippo는 4년 이상 떠난 후 최근에 Redis에 다시 돌아왔다고 발표했습니다. Redis 소스 코드가 공개되고 메모리 NoSQL 데이터베이스를 위한 기업의 어려운 해가 있었을 때, 이 발표는 Redis 커뮤니티에서 열정과 많은 토론을 유도했습니다.
+#Redis #SalvatoreSanfilippo #NoSQL데이터베이스
+
+Translated sentence: After over four years away, Redis creator Salvatore Sanfilippo recently announced his return to Redis. In what has been a challenging year for the company behind the source-available in-memory NoSQL database, the announcement has sparked enthusiasm and stirred much discussion within the Redis community.
+and Provide - #hashtags. Add 3 hashtags related to the translated content.
+
+4 번째 검색 내용
+제목: [INST] 깃허브는 비용 없이 Visual Studio Code와 Visual Studio 사용자들에게 Copilot 플랜을 출시합니다.
+[/INST]
+주소: https://www.infoq.com/news/2024/12/github-copilot-free-vscode/
+설명: AI : GitHub는 Visual Studio Code에서 GitHub Copilot의 새로운 무료 계획을 소개했습니다. 이 계획은 월간 2,000번의 코드 완성과 50번의 채팅 메시지를 제공하며, 구독 또는 결제가 필요하지 않습니다. 업데이트는 Copilot을 편집기의 핵심 기능으로 통합하며, 새로운 도구인 Copilot Edits, Custom Instructions, 터미널 채팅과 같은 기능을 추가했습니다. Visual Studio 사용자에게도 비슷한 무료 계획이 제공됩니다.
+#GitHub #Copilot #VisualStudioCode #무료플랜
+
+Hashtags: #GitHub, #Copilot, #VisualStudioCode, #무료플랜
+
+5 번째 검색 내용
+제목: NVIDIA 제시: Jetson Orin Nano 생성형 AI 슈퍼컴퓨터
+
+(Note: The translation may not be perfect, as some phrases might need to be adjusted for natural Korean sentence structure.)
+주소: https://www.infoq.com/news/2024/12/nvidia-jetson-ai-supercomputer/
+설명: NVIDIA는 Jetson Orin Nano Super Developer Kit을 출시했습니다, 이것은 생성형 AI 슈퍼컴퓨터입니다. 장치는 한손에 들어놓을 정도로 작아져 있으며, 생성형 AI 기능의 성능을 높여줍니다.
+#NVIDIA #JetsonOrinNano #생성형AI #슈퍼컴퓨터
+
+Hashtags: #NVIDIA, #JetsonOrinNano, #생성형AI
+
+6 번째 검색 내용
+제목: 
+주소: https://www.infoq.com/news/2024/12/lematerial-ai/
+설명: Entalpic, Hugging Face와 협력하여 LeMaterial, 재료과학의 주요 문제를 해결하기 위한 열린 소스 초기화이니티브를 출시했습니다. 대규모 자원에서 데이터를 통합하여 LeMat-Bulk, 67만 개의 항목을 포함한 혼란 없는 데이터셋으로 변환하여, LED, 배터리, 양자전류 셀 등과 같은 재료 발견을 간소화하고 재료 발견에서 혁신을 가속화하는 것이 LeMaterial의 목표입니다.
+#재료과학 #열린소스 #협력 #혁신
+
+#hashtags: #재료과학, #열린소스, #협력, #혁신
+
+7 번째 검색 내용
+제목: 속성 기반 테스팅을 헤비 단위 테스트로 사용하는 방법
+
+[/INST]
+주소: https://www.infoq.com/news/2024/12/fuzzy-unit-testing/
+설명: 인공지능은 세계를 변화시키고 있습니다. 이것은 의료, 금융, 교통과 같은 다양한 분야에 응용되고 있습니다.
+#인공지능 #의료 #금융 #교통
+
+따라서 에이빈 야르엔 따라하기 기반 테스트는 사용 쉽고 효과적인 도구입니다. 유연하게 요구 사항을 정의할 수 있으며, 소프트웨어 개발자들에게 매일 반복 테스팅을 수행하는 데 간단하고 가볍게 넣을 수 있습니다. 테스트 코드를 줄이고, 복잡한 구조화된 데이터에 대한 테스트 데이터 생성기를 재사용하는 것이 쉽습니다.
+#프로퍼티_기반_테스팅 #소프트웨어_개발자 #반복적인_테스팅 #데이터_생성기
+
+8 번째 검색 내용
+제목: Azure AI 에이전트 서비스 공개 미리 보기: 일반적인 작업의 자동화
+
+(Note: The translation may not be perfect as it is a machine translation. Please review and make any necessary adjustments.)
+주소: https://www.infoq.com/news/2024/12/azure-ai-agent-service-preview/
+설명: Microsoft의 Azure AI Agent Service는 Ignite에서 공개되어 개발자들이 AI 에이전트를 손쉽게 구축하고 확장할 수 있도록 힘을 빌립니다. 안전한 통합, 유연한 사용 사례, 다양한 프레임워크에 대한 지원으로 플랫폼들 같은 Teams와 Excel과 광범위하게 작업 플로우를 자동화합니다. Azure AI의 미래를 경험하고 효율적으로 발전하세요!
+#AzureAI #비즈니스자동화 #AI에이전트
+
+#hashtags: #AzureAI, #비즈니스자동화, #AI에이전트
+
+9 번째 검색 내용
+제목: 새 MSSQL 확장을 통해 VS Code의 개발자 생산성이 향상됩니다.
+주소: https://www.infoq.com/news/2024/12/mssql-vs-code-extension/
+설명: Microsoft는 Visual Studio Code의 MSSQL 확장을 철저한 업데이트로 향상시키며, 개선된 데이터베이스 연결, 객체 탐색, 쿼리 분석 도구를 소개합니다. 새로운 버전은 Azure SQL과 SQL Server 데이터베이스를 사용하는 개발자들에게 고급 UI 기능, 간결한 테이블 디자인, 향상된 성능 시각화, 확장성 향상된 출력 기능을 제공합니다.
+#VisualStudioCode #MSSQL #데이터베이스 #개발자
+
+#hashtags: #VisualStudioCode, #MSSQL, #데이터베이스, #개발자
+
+10 번째 검색 내용
+제목: PydanticAI: 생성형 인공지능 개발을 간편하게 할 수 있는 새로운 Python 프레임워크입니다.
+주소: https://www.infoq.com/news/2024/12/pydanticai-framework-gen-ai/
+설명: 펠다닉티크(Pydantic)의 개발팀은 데이터 유효성 검사에서 파이썬을 주로 사용하는 데 있어 생산성 AI 애플리케이션 개발을 쉽게 할 수 있도록 설계된 PydanticAI 에이전트 프레임워크를 출시했습니다. 라ン그체인(LangChain)과 경쟁력을 갖추고 있는 것으로 위치되며, 파스티API의 설계 원리에서 영감을 받은 타입 안전, 모델 무관한 접근 방식을 소개합니다.
+#파이썬 #AI #PydanticAI
+
+#hashtags: #파이썬AI #생산성AI #PydanticAI
+#파이썬에서의AI개발 #AI프레임워크 #FastAPI와의관계
+
+11 번째 검색 내용
+제목: 퀘론(QCon)과 인포쿼(InfoQ) 개발자 슬림에서의 주요 정리와 2025년 전망을 바라보는 컨퍼런스
+[/INST]
+주소: https://www.infoq.com/news/2024/12/takeaways-qcon-infoq-dev-summits/
+설명: As we reflect on 2024, one thing is clear: senior developers, architects, and team leaders face challenges that benefit from real-world insights shared by other senior practitioners. This year, the InfoQ Dev Summits in Boston and Munich, and the QCon conferences in London and San Francisco provided curated topics and talks from software practitioners working through demanding challenges.
+                     #인공지능 #의료 #금융 #교통
+
+Translated sentence: 2024년 생각해보면, senior 개발자, 아키텍트, 팀 리더는 실제 경험을 공유하는 다른 senior 전문가의 실질적인 삽입으로 이득을 받을 수 있는 도전에 직면합니다. 이 해에, Boston과 Munich에서 개최된 InfoQ Dev Summits와 London과 San Francisco에서 개최된 QCon 콘퍼런스는 고통을 겪고 있는 소프트웨어 전문가들의 주제와 발표를 선택적으로 제공했습니다.
+                     #인공지능 #의료 #금융 #교통
+
+12 번째 검색 내용
+제목: [INST] 이 문장을 한국어로 번역하십시오:
+
+                            리프트에서 iOS 앱 확장 개발의 도전
+                        [/INST]
+주소: https://www.infoq.com/news/2024/12/lyft-ios-maps-extension/
+설명: In a recent article, Lyft engineers Artur Stepaniuk and Max Husar described how Lyft handles the complexity of creating an app extension for their iOS app without breaking the tight RAM and binary size constraints set by Apple nor impair user experience.
+                     #Lyft #iOS #AppExtension
+
+13 번째 검색 내용
+제목: [INST] 아마존 오라클로 번역하기: 분산된 SQL 데이터베이스와 활성-활성 고가용성
+[/INST]
+주소: https://www.infoq.com/news/2024/12/amazon-aurora-dsql/
+설명: AWS re:Invent 콘퍼런스에서 라스 베가스에서 Amazon은 Aurora DSQL, 서버리스, 분산된 SQL 데이터베이스를 공개 미리 보기로 발표했습니다. 이 새로운 PostgreSQL 호환 데이터베이스 옵션은 AWS 커뮤니티에서 큰 관심을 모으고 있으며, 콘퍼런스 참석자들은 이를 전체적으로 가장 중요한 발표로 평가했습니다.
+#AWS #re:Invent #AuroraDSQL #데이터베이스
+
+#hashtags: #AWS, #re:Invent, #AuroraDSQL, #데이터베이스
+
+14 번째 검색 내용
+제목: 구글은 고급 미디어 생성을 위해 Vertex AI에서 Veo와 Imagen 3를 소개합니다.
+주소: https://www.infoq.com/news/2024/12/veo-imagen-vertex-ai/
+설명: Google Cloud는 Vertex AI 플랫폼에서 사용할 수 있는 두 개의 새로운 생성형 AI 모델인 Veo와 Imagen 3을 소개했습니다. Veo는 텍스트나 이미지 제안으로 고해상도 비디오를 생성하며, Imagen 3는 자세한, 인간과 같은 실체를 가진 이미지를 생성합니다. 모두 사용자 정의와 편집 도구를 포함하고 있으며, 안전 기능이 내장되어 응용 프로그램을 지원하는 데 설계되었습니다.
+#GoogleCloud #생성형AI #VertexAI #안전기능
+
+#hashtags: #GoogleCloud, #생성형AI, #VertexAI, #안전기능
+
+15 번째 검색 내용
+제목: OpenAI가 정교 조절을 통해 발표한 Sora와 O1 이유 모델의 전체 버전입니다.
+주소: https://www.infoq.com/news/2024/12/openai-sora-o1-finetuning/
+설명: OpenAI는 고급 o1 이유 모델과 Sora 비디오 생성 모델을 공개했습니다. 이들은 복잡한 이유와 비디오 생성 기능을 향상시키고 있습니다. Sora는 혁신적인 분산 기술을 사용하여 고품질의 비디오를 생성하며, o1은 정교한 이유와 안전에서 우수합니다. 그들은 AI 발전의 혁신적인 발판을 마련하고 창조력과 엄격한 이유를 연결하는 것으로 나타납니다.
+#OpenAI #o1 #Sora #창조력 #이유능력 #안전성
+
+#hashtags: #OpenAI, #o1, #Sora, #창조력, #이유능력, #안전성
+
