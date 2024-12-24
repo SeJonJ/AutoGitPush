@@ -1,95 +1,107 @@
 1 번째 검색 내용
-제목: 자바 뉴스 요약: TomEE 10, Struts 7, Payara 플랫폼, 글래시프, 커먼헤우스 재단, 그라들
+제목: 자바 뉴스 요약: TomEE 10, Struts 7, Payara 플랫폼, 글래시프, 공동체 재단, 그라들
 
-(Note: The given text is already in Korean. If you want to translate it into English or another language, please provide the specific language.)
+(Note: The Korean language does not use spaces between words, so I have added spaces for readability.)
 주소: https://www.infoq.com/news/2024/12/java-news-roundup-dec16-2024/
-설명: Java 주요 뉴스 요약: 2024년 12월 16일, Apache TomEE 10.0.0과 Apache Struts 7.0.0의 GA 릴리즈; Payara Platform, GlassFish 8.0.0-M9, Infinispan 15.1.0, Gradle 8.12.0, SlateDB와 Debezium이 Commonhaus Foundation에 가입합니다.
-#Java #뉴스 #릴리즈 #CommonhausFoundation
+설명: Java 주요 뉴스 요약: 2024년 12월 16일 기준, Apache TomEE 10.0.0과 Apache Struts 7.0.0의 GA 릴리즈가 발표되었으며, Payara Platform, GlassFish 8.0.0-M9, Infinispan 15.1.0, Gradle 8.12.0이 2024년 12월에 릴리즈되고, SlateDB와 Debezium도 Commonhaus Foundation에 가입되었습니다.
+#Java #RNW #OpenSource #Development
 
-#hashtags: #JavaNews #Release #Commonhaus
+#hashtags:
+1. #Java
+2. #RNW (Java Roundup News Weekly)
+3. #OpenSource
+4. #Development
 
 2 번째 검색 내용
 제목: 탐구하는 소프트웨어 공학 생산성 주요 인자
 
-(Note: The translation may not be perfect, as Korean grammar and sentence structure can differ significantly from English. Please review the translation for accuracy.)
+(Note: The translation may not be perfect, as the original sentence seems to be a title or heading. In Korean, titles and headings are often translated differently than regular sentences.)
 주소: https://www.infoq.com/news/2024/12/software-engineer-productivity/
-설명: 이해하는 것은 소프트웨어 개발 생산성을 높이는 데 중요한 키입니다. Emerson Murphy-Hill은 QCon San Francisco에서 소프트웨어 개발 생산성을 예측하는 데 영향을 주는 요인을 조사한 결과를 공유했습니다. 그는 소프트웨어 엔지니어링에서의 부정평등을 탐색하며 배운 것을 나누었습니다.
+설명: 이해하는 것은 소프트웨어 개발 생산성을 높이는 데 중요한 키입니다. Emerson Murphy-Hill은 QCon San Francisco에서 소프트웨어 개발 생산성을 예측하는 데 영향을 주는 요인을 조사한 결과를 공유했습니다. 그는 소프트웨어 엔지니어링에서의 부정평등을 탐색하면서 배운 것을 나누었습니다.
 #소프트웨어개발 #생산성 #부정평등
 
 Translated content: Understanding what drives software development productivity is the key to making high-impact investments in engineering productivity, Emerson Murphy-Hill said at QCon San Francisco. He presented the results of their investigation into factors that predict developer productivity and shared what they learned from exploring inequities in software engineering.
 #소프트웨어개발 #생산성 #부정평등
 
 3 번째 검색 내용
-제목: 제트브레인의 웹스톰 IDE가 자바스크립트 개발에 대해 무료로 비영리 목적으로 사용할 수 있습니다.
+제목: 제트브레인의 웹스톰 IDE가 자바스크립트 개발에 대해 무료로 비영리 목적으로 사용할 수 있다.
 주소: https://www.infoq.com/news/2024/12/jetbrain-webstorm-free-license/
-설명: JetBrains의 JavaScript용 IDE는 이제 비영리 사용에 무료입니다. WebStorm은 RustRover(Rust용 IDE)와 Aqua(테스트 자동화 IDE)를 JetBrain IDE의 비영리 라이선싱 모델에 포함시키며, 목록에 추가되었습니다. 무료 비영리 라이선스 사용자는 유료 구독과 같은 기능을 누릴 수 있도록 사용 데이터 수집에 동의해야 합니다. AI가 지원한 코드 완성과 함께 제공됩니다.
-#JetBrains #WebStorm #JavaScript #비영리사용
+설명: JetBrains의 JavaScript용 IDE는 이제 상업적 사용에서 비상업적 사용으로 무료입니다. WebStorm은 RustRover(Rust용 IDE)와 Aqua(테스트 자동화 IDE)를 JetBrains의 비상업적 라이선싱 모델에 포함되어 있습니다. 무료 비상업적 라이선스 사용자는 유료 구독과 같은 기능을 누리려면 사용 데이터 수집에 동의해야 합니다.
+#WebStorm #JetBrains #무료 #비상업적_라이선스
 
-#hashtags: #JetBrains, #WebStorm, #JavaScript, #비영리사용
+Hashtags: #WebStorm, #JetBrains, #무료, #비상업적_라이선스
 
 4 번째 검색 내용
 제목: 스프링 뉴스 요약: 부트, 보안, 인증 서버, 세션에 대한 포인트 릴리스 전달
 
-(Note: The translation may not be perfect as it is a technical term. Please verify the accuracy of the translation if necessary.)
+(Note: The translation may not be perfect as it is a technical term. Please double-check the translation for accuracy.)
 주소: https://www.infoq.com/news/2024/12/spring-news-roundup-dec16-2024/
 설명: There was a flurry of activity in the Spring ecosystem during the week of December 16th, 2024, highlighting point releases of: Spring Boot, Spring Security, Spring Authorization Server, Spring Session, Spring Integration, Spring Modulith, Spring Batch, Spring AMQP, Spring for Apache Kafka, Spring for Apache Pulsar and Spring Shell.
-#스프링 #소프트웨어개발 #자바
+#스프링 #소프트웨어개발 #오픈소스
 
-Translated content: 스프링 생태계에서 12월 16일 주에는 많은 활동이 있었으며, Spring Boot, Spring Security, Spring Authorization Server, Spring Session, Spring Integration, Spring Modulith, Spring Batch, Spring AMQP, Spring for Apache Kafka, Spring for Apache Pulsar, 그리고 Spring Shell과 같은 포인트 릴리즈에 대한 주목을 받았습니다.
-#스프링 #소프트웨어개발 #자바
+Translated content: 스프링 생태계에서 12월 16일 주에는 많은 활동이 있었으며, Spring Boot, Spring Security, Spring Authorization Server, Spring Session, Spring Integration, Spring Modulith, Spring Batch, Spring AMQP, Spring for Apache Kafka, Spring for Apache Pulsar, 그리고 Spring Shell과 같은 포인트 릴리스가 강조되었습니다.
+#스프링 #소프트웨어개발 #오픈소스
 
 5 번째 검색 내용
-제목: 구글 위엘 새로운 큐언트 상회도 기록을 세움
-
-(Note: "Willow" is a proper noun and should not be translated. The rest of the sentence has been translated into Korean.)
+제목: 구글 위엘 새로운 큐언트 상금 기록을 세팅합니다.
 주소: https://www.infoq.com/news/2024/12/google-willow-quantum-supremacy/
-설명: Google는 새로운 105큐비트 슈퍼콘덴서링 칩 "Willow"를 발표했습니다. 이 칩은 클래식 컴퓨터에서는 최소 300만 년 걸리는 큐언트 우선성 실험을 10분 내에 해결할 수 있었습니다. 더 중요한 것은, 이 칩이 스케일성을 놓치지 않도록 오류 균형을 달성하는 방식으로 폴트 인 tolerancy를 달성한다는 것입니다.
-#큐언트 #슈퍼콘덴서링 #스케일성
+설명: Google는 새로운 105퀴비트 슈퍼콘던팅 칩 "Willow"를 발표했습니다. 이 칩은 클래식 컴퓨터에서 최소 300만 년 걸리는 양자 우위 실험을 10분 내에 해결할 수 있습니다. 더 중요한 것은, 이 칩가 양자 하드웨어가 확장성을 놓치지 않게 오류 허용성을 달성하는 방식을 보여주었다는 점입니다.
+#양자컴퓨터 #Google #Willow
 
-#hashtags: #큐언트 #슈퍼콘덴서링 #스케일성
+Hashtags: #양자컴퓨터, #Google, #Willow
 
 6 번째 검색 내용
-제목: [INST] 오픈아이(OpenAI)의 주요 업데이트를 요약하는 '쉽맘스' (Shipmas)에서 중요한 업데이트를 다시 확인합니다.
-[/INST]
+제목: [INST] 오픈쉽 AI의 주요 업데이트를 강조하는 12일간의 "쉽마스" 개요 [/INST]
 주소: https://www.infoq.com/news/2024/12/openai-shipmas-12-days/
 설명: AI : OpenAI의 "12일의 쉽마스" 이벤트는 매일 새로운 AI 기능과 도구에 대한 공지사항을 발표했습니다. 아래에는 주요 개발 요약입니다.
 #OpenAI #12일의쉽마스 #인공지능기능 #도구
 
 7 번째 검색 내용
-제목: 레디스 창시자 'antirez' 재등장: 그가 발키에의 모멘텀을 이동할 수 있습니까?
+제목: 레디스 창조자 'antirez' 복귀: 그가 발키에의 모멘텀을 이동시킬 수 있나요?
 주소: https://www.infoq.com/news/2024/12/redis-antirez-back/
-설명: 인공지능 창조자 Salvatore Sanfilippo는 4년 이상 떠난 후에도 Redis에 다시 돌아왔다고 최근에 발표했습니다. Redis 소스 코드가 공개된 메모리 NoSQL 데이터베이스를 위한 회사가 지난 년도는 어려움을 겪은 2021년에, 이 발표는 Redis 커뮤니티 내에서 열정과 논쟁을 일으킨 것입니다.
+설명: 인공지능 창조자 Salvatore Sanfilippo는 4년 이상 떠난 후에도 Redis에 다시 돌아왔다고 최근에 발표했습니다. Redis 소스 코드가 공개된 메모리 NoSQL 데이터베이스를 운영하는 회사의 어려운 한 해였지만, 이 발표는 Redis 커뮤니티에서 열정을 불러일으키고 많은 토론을 유도했습니다.
 #Redis #SalvatoreSanfilippo #NoSQL데이터베이스
 
-Translated sentence: After over four years away, Redis creator Salvatore Sanfilippo recently announced his return to Redis. In what has been a challenging year for the company behind the source-available in-memory NoSQL database, the announcement has sparked enthusiasm and stirred much discussion within the Redis community.
+Translated content: 
+After over four years away, Redis creator Salvatore Sanfilippo recently announced his return to Redis. In what has been a challenging year for the company behind the source-available in-memory NoSQL database, the announcement has sparked enthusiasm and stirred much discussion within the Redis community.
+#Redis #SalvatoreSanfilippo #NoSQL데이터베이스
 
-#hashtags: #Redis #SalvatoreSanfilippo #NoSQL데이터베이스
+Hashtags: 
+1. #Redis
+2. #SalvatoreSanfilippo
+3. #NoSQL데이터베이스
 
 8 번째 검색 내용
-제목: [INST] 깃허브가 비용 없는 코피로이트 플랜을 Visual Studio Code와 Visual Studio 사용자들에게 출시합니다. [/INST]
+제목: [INST] 깃허브는 비용 없이 Visual Studio Code와 Visual Studio 사용자들에게 Copilot 플랜을 출시합니다. [/INST]
 주소: https://www.infoq.com/news/2024/12/github-copilot-free-vscode/
-설명: AI : 깃허브는 비용 없이 깃허브 코폴리트를 Visual Studio Code에 추가하고, 월간 2,000번의 코드 완성과 50개의 채팅 메시지를 제공합니다. 이 업데이트는 편집기에 코폴리트를 핵심 기능으로 통합하며, 새로운 도구인 코폴리트 편집, 사용자 지정 지시사항, 터미널 채팅이 추가되었습니다. Visual Studio 사용자들에게도 비용 없는 유사한 무료 계획이 제공됩니다.
-#깃허브 #코폴리트 #VisualStudioCode #무료플랜
+설명: AI : GitHub는 Visual Studio Code에서 GitHub Copilot의 새로운 무료 플랜을 소개했습니다. 이 플랜은 월간 2,000번의 코드 자동완성과 50번의 채팅 메시지를 제공하며, 구독 또는 결제 없이도 사용할 수 있습니다. 업데이트는 Copilot을 편집기의 핵심 기능으로 통합하며, 새로운 도구인 Copilot Edits, 사용자 지정 지시어, 터미널 채팅과 같은 기능을 제공합니다. Visual Studio 사용자들에게도 비슷한 무료 플랜이 제공됩니다.
+#GitHub #Copilot #VisualStudioCode #무료플랜
 
-Hashtags: #깃허브, #코폴리트, #VisualStudioCode, #무료플랜
+Hashtags: #GitHub, #Copilot, #VisualStudioCode, #무료플랜
 
 9 번째 검색 내용
 제목: NVIDIA 제시: Jetson Orin Nano 생성형 AI 슈퍼컴퓨터
 
-(Note: The translation may not be perfect as it is a direct translation from English to Korean. In Korean, the subject usually comes before the verb, so the sentence structure might be different.)
+(Note: The translation may not be perfect as it is a direct translation from English to Korean. In Korean, the subject usually comes first, followed by the object and then the verb. So, the sentence structure might be different than in English.)
 주소: https://www.infoq.com/news/2024/12/nvidia-jetson-ai-supercomputer/
-설명: NVIDIA는 Jetson Orin Nano Super Developer Kit을 출시했습니다, 컴팩트한 생성형 AI 초대자 슈퍼컴퓨터입니다. 이 장치는 손에 들 정도로 작아져 있으며, 생성형 AI 기능의 성능을 높여줍니다.
-#NVIDIA #JetsonOrinNano #생성형AI #초대자컴퓨터
+설명: NVIDIA는 Jetson Orin Nano Super Developer Kit을 출시했습니다, 컴팩트한 생성형 AI 초대 컴퓨터입니다. 이 장치는 손에 들 정도로 작아져 있으며, 생성형 AI 기능의 성능을 높여줍니다.
+#NVIDIA #JetsonOrinNano #생성형AI #초대컴퓨터
 
-Hashtags: #NVIDIA, #JetsonOrinNano, #생성형AI
+Translated sentence: NVIDIA has released the Jetson Orin Nano Super Developer Kit, a compact generative AI supercomputer. The device, which measures small enough to fit in one's hand, provides increased performance for generative AI capabilities.
+#NVIDIA #JetsonOrinNano #생성형AI #초대컴퓨터
+
+Hashtags added: 
+1. #NVIDIA
+2. #JetsonOrinNano
+3. #생성형AI
 
 10 번째 검색 내용
 제목: 
 주소: https://www.infoq.com/news/2024/12/lematerial-ai/
-설명: Entalpic, Hugging Face와 협력하여 LeMaterial, 재료과학의 주요 문제를 해결하기 위한 열린 소스 초기화이니티브를 출시했습니다. 대규모 자원에서 데이터를 통합하여 LeMat-Bulk, 67만 개의 항목을 포함한 조정된 데이터셋으로 구성된 LeMaterial을 사용하면, LED, 배터리, 폴리크로스 셀과 같은 재료 발견을 간소화하고 이러한 분야에서 혁신을 가속화할 수 있습니다.
-#재료과학 #열린소스 #혁신
+설명: Entalpic, Hugging Face와 협력하여 LeMaterial, 재료과학의 주요 문제를 해결하기 위한 열린 소스 초기화이니티브를 출시했습니다. 대규모 자원에서 데이터를 통합하여 LeMat-Bulk, 67만 개의 항목을 포함한 혼합 데이터셋으로 변환하여, 재료 발견을 간소화하고 LED, 배터리, 및 양자전류 셀과 같은 영역에서 혁신을 가속화하는 것이 LeMaterial의 목표입니다.
+#재료과학 #데이터통합 #혁신가속화
 
-#hashtags: #재료과학, #열린소스, #혁신
+#hashtags: #재료과학, #데이터통합, #혁신가속화
 
 11 번째 검색 내용
 제목: 속성 기반 테스팅을 헤비 단위 테스트로 사용하는 방법
@@ -97,17 +109,17 @@ Hashtags: #NVIDIA, #JetsonOrinNano, #생성형AI
 [/INST]
 주소: https://www.infoq.com/news/2024/12/fuzzy-unit-testing/
 설명: 인공지능은 세계를 변화시키고 있습니다. 이것은 의료, 금융, 교통과 같은 다양한 분야에 응용되고 있습니다.
-#인공지능 #의료 #금육 #교통
+#인공지능 #의료 #금융 #교통
 
-따먹는 내용에 대해 번역하시겠습니까?
-Eivind Jahren에 따르면, 속성 기반 테스트는 사용 쉬움과 효과적이기 때문에 가치가 있다. 요구 사항을 폭넓게 표현할 수 있는 유연성이 있고, 소프트웨어 개발자들의 일상적인 반복 테스팅에 간단하고 가볍게 넣을 수 있으며, 테스트 코드를 줄여 복잡한 구조화된 데이터에 대한 테스트 데이터 생성기를 재사용하는 것이 더 쉽다.
-#속성기반테스트 #소프트웨어개발자 #반복테스팅 #복잡한구조화된데이터
-#hashtags: #속성기반테스트 #소프트웨어개발자 #반복테스팅 #복잡한구조화된데이터
+따먹는 내용에 대해 번역하고 해시태그를 제공합니다:
+Eivind Jahren에 따르면, 속성 기반 테스트는 사용 쉬웠고 효과적이기 때문에 가치가 있습니다. 유연하게 요구 사항을 형식할 수 있으며, 소프트웨어 개발자의 HANDS에 매일 반복 테스팅을 수행하기 위해 간단하고 가볍게 만들어져 있습니다. 테스트 코드가 필요하지 않으며, 구조화된 데이터에 대한 테스트 데이터 생성기를 재사용하는 것이 쉽습니다.
+#속성기반테스트 #소프트웨어개발자 #테스팅 #구조화된데이터
+#인공지능 #의료 #금융 #교통
 
 12 번째 검색 내용
 제목: Azure AI 에이전트 서비스 공개 미리 보기: 일반적인 작업의 자동화
 
-(Note: The translation may not be perfect as it is a machine translation. Please review and make any necessary adjustments.)
+(Note: The translation may not be perfect, as some phrases might need to be adjusted for natural Korean sentence structure.)
 주소: https://www.infoq.com/news/2024/12/azure-ai-agent-service-preview/
 설명: Microsoft의 Azure AI Agent Service는 Ignite에서 공개되어 개발자들이 AI 에이전트를 손쉽게 구축하고 확장할 수 있도록 힘을 빌립니다. 안전한 통합, 유연한 사용 사례, 여러 프레임워크에 대한 지원으로 플랫폼들 같은 Teams와 Excel과 광범위하게 작업 플로우를 자동화합니다. Azure AI의 미래를 경험하고 효율적으로 발전하세요!
 #AzureAI #비즈니스자동화 #AI에이전트
@@ -117,31 +129,31 @@ Eivind Jahren에 따르면, 속성 기반 테스트는 사용 쉬움과 효과�
 13 번째 검색 내용
 제목: 새 MSSQL 확장을 통해 VS Code의 개발자 생산성이 향상됩니다.
 주소: https://www.infoq.com/news/2024/12/mssql-vs-code-extension/
-설명: Microsoft는 Visual Studio Code의 MSSQL 확장을 상세한 업데이트로 향상시키며, 개선된 데이터베이스 연결, 객체 탐색 및 쿼리 분석 도구를 소개합니다. 새로운 버전은 Azure SQL과 SQL Server 데이터베이스를 사용하는 개발자들에게 고급 UI 기능, 간결한 테이블 설계, 향상된 성능 시각화 및 확장 가능성을 제공합니다.
+설명: Microsoft는 Visual Studio Code의 MSSQL 확장을 상세한 업데이트로 향상시키며, 개선된 데이터베이스 연결, 객체 탐색, 쿼리 분석 도구를 소개합니다. 새로운 버전은 Azure SQL과 SQL Server 데이터베이스를 사용하는 개발자들에게 고급 UI 기능, 간소화된 테이블 디자인, 향상된 성능 시각화, 확장성 향상된 출력 기능을 제공합니다.
 #VisualStudioCode #MSSQL #데이터베이스 #개발자
 
 #hashtags: #VisualStudioCode, #MSSQL, #데이터베이스, #개발자
 
 14 번째 검색 내용
-제목: PydanticAI: 생성형 인공지능 개발을 간편하게 할 수 있는 새로운 Python 프레임워크입니다.
+제목: PydanticAI: 파이썬에서의 효율적인 생성형 인공지능 개발을 위한 새로운 프레임워크
+
+(Note: The translation may not be perfect as it is a technical term. Please verify the accuracy if needed.)
 주소: https://www.infoq.com/news/2024/12/pydanticai-framework-gen-ai/
-설명: 펀다닉티크 개발팀은 파이썬에서 데이터 유효성 검사를 위해 널리 사용되는 펀다닉티크의 발표자로, 생성형 AI 애플리케이션을 생산성 있게 개발할 수 있도록 설계된 파이썬 기반의 에이전트 프레임워크인 PydanticAI를 출시했습니다. 라ン치앤체인과 경쟁하는 것으로 위치되어 있으며, FastAPI의 설계 원리에 영감을 받은 타입 안전, 모델 독립적인 접근 방식을 소개합니다.
-#파이썬 #AI #데이터유효성검사 #FastAPI
+설명: 팀은 파이썬에서 데이터 유효성 검사에 널리 사용되는 Pydantic의 뒷부분에서 PydanticAI, 생성형 AI 애플리케이션을 생산성 있게 개발하기 위한 파이썬 기반 에이전트 프레임워크를 출시했습니다. LangChain과 경쟁력을 갖추고 있는 것으로 위치되어 있으며, FastAPI의 설계 원리를 영감으로 한 타입 안전, 모델 독립적인 접근 방식을 소개합니다.
+#파이썬 #AI #데이터유효성검사 #생산성있는AI개발
 
-Translated content: The team behind Pydantic, widely used for data validation in Python, has announced the release of PydanticAI, a Python-based agent framework designed to ease the development of production-ready Generative AI applications. Positioned as a potential competitor to LangChain, PydanticAI introduces a type-safe, model-agnostic approach inspired by the design principles of FastAPI.
-#파이썬 #AI #데이터유효성검사 #FastAPI
-
-Hashtags: #파이썬 #AI #데이터유효성검사 #FastAPI
+#hashtags: #PythonAI #DataValidation #FastAPIInspired
 
 15 번째 검색 내용
-제목: 퀘론(QCon)과 인포쿼(InfoQ) 개발자 슬림에서의 주요 정리와 2025년 컨퍼런스를 위한 미래 보다 놓치지 않기
+제목: 퀘론(QCon)과 인포쿼(InfoQ) 개발자 슬림에서의 주요 정리와 2025년 전망을 바라보는 컨퍼런스
 [/INST]
 주소: https://www.infoq.com/news/2024/12/takeaways-qcon-infoq-dev-summits/
 설명: As we reflect on 2024, one thing is clear: senior developers, architects, and team leaders face challenges that benefit from real-world insights shared by other senior practitioners. This year, the InfoQ Dev Summits in Boston and Munich, and the QCon conferences in London and San Francisco provided curated topics and talks from software practitioners working through demanding challenges.
-                     #InfoQDevSummit #QCon #소프트웨어개발자
+                     #InfoQDevSummit #QCon #소프트웨어개발자 #팀리더십
 
-#hashtags:
+#hashtags: 
 1. #InfoQDevSummit
 2. #QCon
 3. #소프트웨어개발자
+4. #팀리더십
 
