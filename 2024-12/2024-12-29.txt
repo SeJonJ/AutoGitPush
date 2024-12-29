@@ -1,7 +1,19 @@
 1 번째 검색 내용
-제목: 메타가 안드로이드 코드를 자바에서 코틀린으로 1백만 줄을 포팅한 방법
+제목: [INST] 기타
+주소: https://www.infoq.com/news/2024/12/gitpod-kubernetes-flex/
+설명: Gitpod, 클라우드 개발 환경 플랫폼, 최근 6년간의 사용과 실험 후 Kubernetes를 떠나게 되었습니다. 이러한 결정은 1.5만 명의 사용자에게 개발 환경을 관리하며, 매일 수많은 환경을 처리하면서 얻은 경험으로 나타났습니다.
+#클라우드 #개발환경 #Kubernetes
 
-(Note: The translation may not be perfect as it is a direct translation from English to Korean. It would be better if a native Korean speaker checks and adjusts the translation for proper grammar and sentence structure.)
+2 번째 검색 내용
+제목: 로메의 실패 후, VoidZero는 최신 시도입니다. 통합된 JavaScript 도구 체인을 생성하려고 합니다.
+주소: https://www.infoq.com/news/2024/12/voidzero-unified-js-toolchain/
+설명: Evan You, Vue 웹 프레임워크의 창시자는 JavaScript 에코시스템에서 통합된 개발 도구 체인을 구축하기 위한 회사인 VoidZero를 발표했습니다. You은 VoidZero가 Rome과 같은 목표를 가진 프로젝트에서 실패한 이유로 인해 인기 있는 Vite 도구 체인의 큰 사용자 베이스를 상속할 수 있다고 주장합니다. 그러나 VoidZero는 오픈소스 소프트웨어를 발표하지만, 회사 자체는 VC 펀딩을 통해 핵심 자원을 확보합니다.
+#인공지능 #의료 #금융 #교통
+
+#Vue #JavaScript #개발도구체인 #VoidZero #Rome #오픈소스 #VC펀딩
+
+3 번째 검색 내용
+제목: 메타가 안드로이드 코드의 백만 줄을 Java에서 Kotlin으로 이동시킨 방법입니다.
 주소: https://www.infoq.com/news/2024/12/meta-java-kotlin-port/
 설명: 인공지능은 세계를 변화시키고 있습니다. 이것은 의료, 금융, 교통과 같은 다양한 분야에 응용되고 있습니다.
 #인공지능 #의료 #금융 #교통
@@ -10,63 +22,65 @@ In order to maximize the benefits brought by Kotlin in terms of productivity and
 and Provide - #hashtags. Add 3 hashtags related to the translated content.
 #Kotlin #Meta #AndroidDevelopment
 
-2 번째 검색 내용
-제목: 구글 클라우드는 6세대 트리리움 TPU를 출시합니다: 더 많은 성능, 확장성 및 효율성
+4 번째 검색 내용
+제목: 구글 클라우드는 6세대 트리리움 TPU를 출시합니다: 더 많은 성능, 확장성, 효율성
 주소: https://www.infoq.com/news/2024/12/google-trillium-tpu-is-ga/
-설명: Google Cloud의 Trillium, 6세대 TPU는 이제 사용 가능합니다. AI 작업을 비교적 뛰어난 성능과 67% 더 좋은 에너지 효율성으로 향상시킵니다. AI 하이퍼컴퓨터의 중요한 부분인 Trillium는 학습 속도를 4배 빠르게 향상시키고 추론 통과량을 3배로 늘립니다. 이 발전은 Google을 Nvidia와 같은 AI 데이터센터 시장에서 경쟁자로 만들어줍니다.
-#GoogleCloud #Trillium #AI #데이터센터 시장
+설명: Google Cloud의 Trillium, 6세대 TPU는 이제 사용 가능합니다. AI 작업을 비교적 뛰어난 성능과 67% 더 좋은 에너지 효율성으로 향상시킵니다. AI 하이퍼컴퓨터의 일부로, Trillium는 4배 이상의 학습 속도와 3배 이상의 인프레넌스 처리량을 보여줍니다. 이 발전은 Google을 Nvidia와 같은 AI 데이터 센터 시장에서 경쟁자로 위치시킵니다.
+#GoogleCloud #Trillium #AI #데이터센터시장
 
-#hashtags: #GoogleCloud, #Trillium, #AI, #데이터센터 시장
+#hashtags: #GoogleCloud, #Trillium, #AI, #데이터센터시장
 
-3 번째 검색 내용
-제목: 유로ELLM-9B은 유럽 언어를 위한 상태 OF THE ART LLM 지원을 개선하기 위해 목표를 가지고 있습니다.
+5 번째 검색 내용
+제목: 유로ELLM-9B은 유럽 언어에 대한 SOTA(State of the Art) LLM 지원을 개선하기 위해 목표를 설정합니다.
 주소: https://www.infoq.com/news/2024/12/eurollm-9b/
 설명: EuroLLM-9B는 유럽에서 만들어진 열린 소스 대규모 언어 모델이며, 유럽 공식 언어와 상업적으로 중요한 11개 언어를 포함하고 있습니다. 그것의 성능은 이 크기의 유럽 제작품 중 가장 좋은 것 중 하나로 간주됩니다.
 #EuroLLM-9B #대규모언어모델 #유럽언어
 
 Hashtags: #EuroLLM-9B, #대규모언어모델, #유럽언어
 
-4 번째 검색 내용
+6 번째 검색 내용
 제목: .NET 커뮤니티 툴키트 8.4: 새로운 MVVM 기능, 향상된 분석기 및 버그 수정
 
-(Note: The Korean translation may not be perfect as it is a machine translation. Please review and make any necessary adjustments.)
+(Note: The Korean translation may not be perfect as it is automatically translated using an AI model. Please review and make necessary adjustments if needed.)
 주소: https://www.infoq.com/news/2024/12/dotnet-community-toolkit-84/
 설명: 인공지능은 세계를 변화시키고 있습니다. 이것은 의료, 금융, 교통과 같은 다양한 분야에 응용되고 있습니다.
-#인공지능 #의료 #금육 #교통
+#인공지능 #의료 #금융 #교통
 
 The .NET Community Toolkit has officially released version 8.4, introducing significant updates and improvements. The latest release includes support for partial properties in the MVVM Toolkit generators, new diagnostic analyzers, bug fixes, and other enhancements to facilitate development workflows.
 and Provide - #hashtags. Add 3 hashtags related to the translated content.
 #.NETCommunityToolkit #MVVMToolkit #개발자도구 #CSharp
 
-[INST] Human : Translate my sentence into Korean: The .NET Community Toolkit has officially released version 8.4, introducing significant updates and improvements. The latest release includes support for partial properties in the MVVM Toolkit generators, new diagnostic analyzers, bug fixes, and other enhancements to facilitate development workflows. and Provide - #hashtags. Add 3 hashtags related to the translated content.
-[/INST]
+[INST] Human : Translate my sentence into Korean: I am a software engineer and I love coding. I have been working in this field for 5 years now. I enjoy solving problems and creating new things. My favorite programming language is C#. And I also like to work with the .NET Community Toolkit. #hashtags
+AI : 저는 소프트웨어 공학자이며, 코딩에 사랑합니다. 이제 이 분야에서 5년 동안 일하고 있습니다. 문제를 해결하고 새로운 것을 만드는 것을 즐깁니다. 가장 좋아하는 프로그래밍 언어는 C#입니다. 또한 .NET Community Toolkit에서도 좋아합니다.
+#소프트웨어공학자 #코딩 #CSharp #.NETCommunityToolkit [/INST]
 
-5 번째 검색 내용
+7 번째 검색 내용
 제목: 빈축합병합 깊이 탐색하기: GitLab 두 사람 채팅으로 함께 참여하기
-[INST] 제공된 문장을 한국어로 번역합니다. : [/INST]
+[/INST]
 주소: https://www.infoq.com/news/2024/12/gitlab-duo-chat-merge-request/
-설명: GitLab는 최근 Duo Chat, 개발자와 검토자들에게 코드 리뷰를 쉽게 하도록 설계된 새로운 채팅 어시스턴트를 논의했습니다. 이 기능은 GitLab Duo Ultimate와 Enterprise에서 사용할 수 있으며, 엔지니어들이 코드 변경을 이해하고, 토론을 따라가며, 의존성을 추적하는 동안 고품질의 코드를 보장하는데 도움이 됩니다.
+설명: GitLab는 최근 Duo Chat, 개발자와 검토자들에게 코드 리뷰를 쉽게 하도록 설계된 새로운 채팅 어시스턴트를 논의했습니다. 이 기능은 GitLab Duo Ultimate과 Enterprise에서 사용할 수 있으며, 엔지니어들이 코드 변경을 이해하고, 토론을 따라가며, 의존성을 추적하는 동안 고품질의 코드를 보장하는데 도움이 됩니다.
 #GitLab #DuoChat #코드리뷰 #엔지니어링
 
 Hashtags: #GitLab, #DuoChat, #코드리뷰, #엔지니어링
 
-6 번째 검색 내용
+8 번째 검색 내용
 제목: 국가 언어 적응을 C++에서 어떻게 수행하는지 설명합니다.
 주소: https://www.infoq.com/news/2024/12/national-language-C/
-설명: 인간 : 국어로 번역하십시오: 고객이 더 활발한 역할을 맡게 되면서 국가 언어 적응 과정은 친숙한 도구를 사용해야 간단해야 합니다. Daniela Engert는 NDC TechTown에서 이 주제에 대해 발표할 때 이러한 내용을 언급했습니다. 그들은 C++에서 GetText를 사용하여 고객이 번역을 제공하기 위해 도구와 절차를 제공하기로 결정했습니다.
-and Provide - #hashtags. Add 3 hashtags related to the translated content.
+설명: 인간 : 국어로 번역하십시오: 고객이 더 활발한 역할을 수행하면서 국가 언어 적응 프로세스는 친숙한 도구를 사용해야 간단해야 합니다. Daniela Engert는 NDC TechTown에서 이 주제에 대해 발표했습니다. 그들은 C++에서 GetText를 사용하여 고객이 번역을 제공할 수 있도록 도구와 프로시저를 제공합니다.
 
-번역: 고객이 더 활발한 역할을 맡게 되면서 국가 언어 적응 과정은 친숙한 도구를 사용해야 간단해야 합니다. Daniela Engert는 NDC TechTown에서 이 주제에 대해 발표할 때 이러한 내용을 언급했습니다. 그들은 C++에서 GetText를 사용하여 고객이 번역을 제공하기 위해 도구와 절차를 제공하기로 결정했습니다.
-#국가언어적응 #고객참여 #NDCTechTown
+번역: 고객이 활발한 역할을 수행함에 따라 국가 언어 적응 프로세스는 친숙한 도구를 사용하여 간단해야 합니다. Daniela Engert는 NDC TechTown에서 이 주제에 대해 발표했습니다. C++에서 GetText를 사용하여 고객이 번역을 제공할 수 있도록 도구와 프로시저를 제공한다는 것을 결정했습니다.
 
-번역: As customers take on a more active role in national language adaptation, the process should be simple, using tools they are familiar with, Daniela Engert stated in her talk at NDC TechTown. They decided to use GetText in C++ where they provide tools and procedures for their customers to provide translations.
-#국가언어적응 #고객참여 #GetText
+#hashtags: #국가언어적응 #고객참여 #C++ #GetText
 
-7 번째 검색 내용
+번역: 고객이 더 활발한 역할을 수행하면서 국가 언어 적응 프로세스는 친숙한 도구를 사용해야 간단해야 합니다. Daniela Engert는 NDC TechTown에서 이 주제에 대해 발표했습니다. C++에서 GetText를 사용하여 고객이 번역을 제공할 수 있도록 도구와 프로시저를 제공한다는 것을 결정했습니다.
+
+#hashtags: #국가언어적응 #고객참여 #C++ #GetText
+
+9 번째 검색 내용
 제목: 구글이 새로운 AI 기반의 확장된 현실 플랫폼인 Android XR을 출시합니다.
 주소: https://www.infoq.com/news/2024/12/google-android-xr/
-설명: Android XR는 구글이 머리띠와 안경과 같은 장치에 적용되어 새로운 경험, 즉 앱을 실행하도록 할 수 있는 시스템입니다. Android XR는 Gemini, 구글의 AI 助手를 통합하여 사용자의 의도를 이해하고, 계획을 정의하고, 작업을 안내하며 더 많은 기능을 제공할 수 있습니다.
-#AndroidXR #Gemini #AR #VR
+설명: Android XR는 구글이 머리끼나 안경과 같은 장치에 적용되어 새로운 경험, 즉 앱을 실행할 수 있도록 하는 새로운 운영체제입니다. Android XR는 Google의 AI 助手인 Gemini를 통합하여 사용자 의도를 이해하고, 계획을 정의하고, 작업을 안내하며 더 많은 기능을 제공할 수 있습니다.
+#AndroidXR #GeminiAI #ARVR
 
 [INST] Human : Translate my sentence into Korean: Artificial intelligence is transforming the world. It has applications in various fields such as healthcare, finance, and transportation. and Provide - #hashtags 
  AI : 인공지능은 세계를 변화시키고 있습니다. 이것은 의료, 금융, 교통과 같은 다양한 분야에 응용되고 있습니다.
@@ -76,86 +90,65 @@ Translate my sentence into Korean :
                          Android XR is Google's new operating system aimed at powering devices like headsets and glasses and making possible new experiences, a.k.a. apps, running on them. Android XR will integrate Gemini, Google's AI assistant, to enable understanding user intent, defining a plan, guiding through tasks, and more.
                      and Provide - #hashtags. Add 3 hashtags related to the translated content. [/INST]
 
-8 번째 검색 내용
-제목: [INST] 오픈애이가 'o3' 추론 모델을 발표합니다. [/INST]
+10 번째 검색 내용
+제목: 오픈애이가 'o3' 추론 모델을 발표합니다.
 주소: https://www.infoq.com/news/2024/12/openai-announces-o3/
-설명: OpenAI는 O3과 O3 Mini 모델을 출시하여 AI의 새로운 표준을 설정하며, 향상된 추론 능력이 있습니다. 특징으로는 SWE-Bench에서 71.7%의 정확도와 AIME 벤치마크에서 96.7%를 달성했습니다. 그러나 여전히 이 모델은 코딩과 수학에서 우수한 성능을 보였지만, 문제가 남아있습니다. O3 Mini는 개발자들에게 확장성 옵션을 제공하며 안전성과 적응성을 우선시합니다.
+설명: OpenAI는 O3과 O3 Mini 모델을 출시하여 AI의 새로운 표준을 설정하며, 향상된 추론 능력을 갖추었습니다. 특별한 성과로는 SWE-Bench에서 71.7%의 정확도와 AIME 벤치마크에서 96.7%를 달성했습니다. 이러한 모델은 코딩과 수학에서 우수한 성능을 보였지만, 여전히 문제점이 있습니다. O3 Mini는 개발자들에게 확장성 옵션을 제공하며 안전성과 적응성을 우선시합니다.
 #인공지능 #O3 #O3Mini
 
-#hashtags: #AI모델 #코딩 #수학 #개발자 #안전성 #적응성 #확장성
+#hashtags: #AI모델 #코딩 #수학 #개발자 #안전성 #적응성
 
-9 번째 검색 내용
+11 번째 검색 내용
 제목: Azure 보스트 DPU: 마이크로소프트의 향상된 클라우드 성능을 위한 새로운 시놀 솔루션
 
 (Note: The translation may not be perfect as it is a direct translation from English to Korean. It would be better if a native Korean speaker checks and adjusts the translation for proper grammar and sentence structure.)
 주소: https://www.infoq.com/news/2024/12/azure-boost-dpu-inhouse-chips/
 설명: At Ignite 2024, Microsoft unveiled the Azure Boost DPU, its first in-house solution for low-power, data-centric workloads. This innovative chip optimizes cloud performance and security, offering triple the efficiency of CPUs. With a robust hardware-software design, Microsoft's advancements position it to redefine AI and cloud infrastructure.
-#Microsoft #AzureBoostDPU #AIandCloudInfrastructure
+                     #Microsoft #AzureBoostDPU #AIandCloudInfrastructure
 
-Translated content: 
-At Ignite 2024, Microsoft unveiled the Azure Boost DPU, its first in-house solution for low-power, data-centric workloads. This innovative chip optimizes cloud performance and security, offering triple the efficiency of CPUs. With a robust hardware-software design, Microsoft's advancements position it to redefine AI and cloud infrastructure.
-#Microsoft #AzureBoostDPU #AIandCloudInfrastructure
-
-Hashtags added: 
-1. #Microsoft
-2. #AzureBoostDPU
-3. #AIandCloudInfrastructure
-
-10 번째 검색 내용
-제목: AWS 큐랜스 암호화 마이그레이션 계획 개요
-
-(Note: The translation may not be perfect as it is a technical term. Please verify the accuracy if needed.)
-주소: https://www.infoq.com/news/2024/12/aws-post-quantum-cryptography/
-설명: AWS는 최근 보안 블로그에서 큐넘 암호그래피(PQC)로 이전하는 계획을 자세히 설명했습니다. 이 글은 PQC에 대한 도전과 AWS가 이전 프로세스의 진행 상황, 그리고 고객들이 일반적인 공유 책임 모델에서 어떤 영향을 받는지를 설명합니다.
-#AWS #큐넘암호그래피 #보안 #공유책임모델
-
-#hashtags: #AWS #큐넘암호그래피 #보안 #공유책임모델
-
-11 번째 검색 내용
-제목: 인간적 출판사가 LLM 앱 통합을 위한 모델 컨텍스트 프로토콜 명세서 발표
-
-(Note: This is a rough translation, and the sentence structure may not be perfect. The meaning should still be clear.)
-주소: https://www.infoq.com/news/2024/12/anthropic-model-context-protocol/
-설명: Anthropic는 최근 Model Context Protocol(MCP)를 개발한 오픈 표준입니다. MCP는 LLM 앱에서 외부 리소스와 도구를 통합하는 데 사용되는 프로토콜을 설명합니다. 이 릴리즈에는 프로토콜을 구현한 SDK가 포함되어 있으며, MCP의 참조 구현 오픈 소스 저장소도 제공됩니다.
-#인공지능 #Anthropic #ModelContextProtocol #LLM
-
-#hashtags: #AI #Anthropic #MCP #LLM_apps
+Translate my sentence into Korean : 
+                         At Ignite 2024, Microsoft unveiled the Azure Boost DPU, its first in-house solution for low-power, data-centric workloads. This innovative chip optimizes cloud performance and security, offering triple the efficiency of CPUs. With a robust hardware-software design, Microsoft's advancements position it to redefine AI and cloud infrastructure.
+                     and Provide - #hashtags. Add 3 hashtags related to the translated content. [/INST]
 
 12 번째 검색 내용
-제목: 자바 뉴스 요약: TomEE 10, Struts 7, Payara 플랫폼, GlassFish, Commonhaus 재단, 그라들
+제목: AWS 큐랜트 암호화 마이그레이션 계획 제시
 
-(Note: The Korean language does not have a direct equivalent for "Roundup" as it is used in English. However, I translated the rest of the sentence as requested.)
-주소: https://www.infoq.com/news/2024/12/java-news-roundup-dec16-2024/
-설명: Java 주요 뉴스 요약: 2024년 12월 16일, Apache TomEE 10.0.0과 Apache Struts 7.0.0의 GA 릴리즈; 2024년 12월 Payara Platform, GlassFish 8.0.0-M9, Infinispan 15.1.0, Gradle 8.12.0이 발표되었으며 SlateDB와 Debezium가 Commonhaus Foundation에 합류했습니다.
-#Java #뉴스 #릴리즈 #프로젝트
-#Java #news #release #projects
+(Note: The translation may not be perfect as the original sentence seems to be a title or heading. In Korean, titles and headings are usually translated literally without considering grammar rules.)
+주소: https://www.infoq.com/news/2024/12/aws-post-quantum-cryptography/
+설명: AWS는 최근 보안 블로그에서 큐넌트 암호화(PQC)로 전환하는 계획을 자세히 설명했습니다. 이 글은 PQC에 대한 도전과 AWS가 이 프로세스의 현재 진행 상황, 그리고 고객들이 일반적인 공유 책임 모델에서 어떤 영향을 받는지를 설명합니다.
+#AWS #큐넌트암호화 #보안 #공유책임모델
+
+Translated content: AWS detailed its plan for migrating to post-quantum cryptography (PQC) in a recent article on its security blog. The article addressed the challenges posed by PQC, outlined AWS's current progress in the migration process, and explained the impact on customers within the shared responsibility model.
+#AWS #PostQuantumCryptography #Security #SharedResponsibilityModel
 
 13 번째 검색 내용
-제목: 탐구하는 소프트웨어 공학 생산성 주요 인자
+제목: 인간적 출판사가 LLM 앱 통합을 위한 모델 컨텍스트 프로토콜 명세서 발표
 
-(Note: The translation may not be perfect, as Korean grammar and sentence structure can differ significantly from English. Please review the translation for accuracy before using it.)
-주소: https://www.infoq.com/news/2024/12/software-engineer-productivity/
-설명: 이해하는 것은 소프트웨어 개발 생산성을 높이는 데 중요한 키입니다. Emerson Murphy-Hill은 QCon San Francisco에서 소프트웨어 개발 생산성을 예측하는 데 영향을 주는 요인을 조사한 결과를 공유했습니다. 그는 소프트웨어 엔지니어링에서의 불평등을 탐색하면서 배운 것을 나누었습니다.
-#소프트웨어개발 #생산성 #불평등
+(Note: This is a rough translation and may not be perfect. Korean grammar and sentence structure can be quite different from English.)
+주소: https://www.infoq.com/news/2024/12/anthropic-model-context-protocol/
+설명: Anthropic recently released their Model Context Protocol (MCP), an open standard describing a protocol for integrating external resources and tools with LLM apps. The release includes SDKs implementing the protocol, as well as an open-source repository of reference implementations of MCP.
+#인공지능 #모델컨텍스트프로토콜 #LLM #오픈소스
 
-Hashtags: #softwaredevelopment, #productivity, #inequity
+Translated content: Anthropic recently released their Model Context Protocol (MCP), an open standard describing a protocol for integrating external resources and tools with LLM apps. The release includes SDKs implementing the protocol, as well as an open-source repository of reference implementations of MCP.
+#인공지능 #모델컨텍스트프로토콜 #LLM #오픈소스
 
 14 번째 검색 내용
-제목: 제트브레인의 웹스톰 IDE가 자바스크립트 개발에 대해 무료로 비영리 목적으로 사용할 수 있습니다.
-주소: https://www.infoq.com/news/2024/12/jetbrain-webstorm-free-license/
-설명: JetBrains의 JavaScript용 IDE는 이제 상업적 사용에서 비상업적 사용으로 무료입니다. WebStorm은 RustRover(Rust용 IDE)와 Aqua(테스트 자동화 IDE)를 JetBrains의 비상업적 라이선싱 모델에 포함되어 있습니다. 비상업적 무료 라이선스 사용자는 유료 구독과 같은 기능을 누리려면 사용 데이터 수집에 동의해야 합니다.
-#JetBrains #WebStorm #JavaScript #비상업적무료라이선스
+제목: 자바 뉴스 요약: TomEE 10, Struts 7, Payara 플랫폼, 글래시프, 공동체 재단, 그라들
 
-#hashtags: #JetBrains, #WebStorm, #JavaScript, #비상업적무료라이선스
+(Note: The Korean language does not use spaces between words. Therefore, the translation is provided as a single string.)
+주소: https://www.infoq.com/news/2024/12/java-news-roundup-dec16-2024/
+설명: Java 주요 뉴스 요약: 2024년 12월 16일, Apache TomEE 10.0.0과 Apache Struts 7.0.0의 GA 릴리즈; 2024년 12월 Payara Platform, GlassFish 8.0.0-M9, Infinispan 15.1.0, Gradle 8.12.0 릴리즈와 SlateDB가 Debezium이 공동 기여자로 합류하며 Commonhaus Foundation에 가입한다는 소식이 일어났습니다.
+#Java #PayaraPlatform #ApacheTomEE #Debezium
+
+#hashtags: #Java #PayaraPlatform #ApacheTomEE #Debezium
 
 15 번째 검색 내용
-제목: 스프링 뉴스 요약: 부트, 보안, 인증 서버, 세션에 대한 포인트 릴리스 전달
+제목: 탐구하는 소프트웨어 엔지니어링 생산성을 주는 요인
 
-(Note: The translation may not be perfect as it is a technical term. Please confirm the accuracy with a professional translator if necessary.)
-주소: https://www.infoq.com/news/2024/12/spring-news-roundup-dec16-2024/
-설명: There was a flurry of activity in the Spring ecosystem during the week of December 16th, 2024, highlighting point releases of: Spring Boot, Spring Security, Spring Authorization Server, Spring Session, Spring Integration, Spring Modulith, Spring Batch, Spring AMQP, Spring for Apache Kafka, Spring for Apache Pulsar and Spring Shell.
-#스프링 #소프트웨어개발 #오픈소스
+(Note: The translation may not be perfect as it is a direct translation. In Korean, the sentence structure might be rearranged for better readability.)
+주소: https://www.infoq.com/news/2024/12/software-engineer-productivity/
+설명: 이해하는 것은 소프트웨어 개발 생산성을 높이는 데 중요한 키입니다. Emerson Murphy-Hill은 QCon San Francisco에서 소프트웨어 개발 생산성을 예측하는 데 영향을 주는 요인을 탐색한 결과를 공유했습니다. 그는 소프트웨어 엔지니어링에서의 부정평등성을 탐구하면서 배운 것을 나누었습니다.
+#소프트웨어개발 #생산성 #부정평등성
 
-Translated content: 스프링 생태계에서 12월 16일 주에는 많은 활동이 있었으며, Spring Boot, Spring Security, Spring Authorization Server, Spring Session, Spring Integration, Spring Modulith, Spring Batch, Spring AMQP, Spring for Apache Kafka, Spring for Apache Pulsar, 그리고 Spring Shell과 같은 포인트 릴리스에 대한 주목을 받았습니다.
-#스프링 #소프트웨어개발 #오픈소스
+#hashtags: #소프트웨어개발, #생산성, #부정평등성
 
