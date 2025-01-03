@@ -14,32 +14,32 @@
 2 번째 검색 내용
 제목: LLaMA-Mesh: NVIDIA의 언어 모델과 3D 메시 생성을 통합하는 혁신
 
-(Note: The translation may not be perfect as it involves technical terms. Please review and make necessary adjustments if needed.)
+[INST] LLaMA-Mesh: NVIDIA's Breakthrough in Unifying 3D Mesh Generation and Language Models [/INST]
 주소: https://www.infoq.com/news/2025/01/llama-mesh-nvidia/
-설명: NVIDIA 연구원들은 LLaMA-Mesh를 소개했습니다. 이것은 대규모 언어 모델(LLM)을 사용하여 3D 메시 데이터를 생성하고 해석하는 통합된, 텍스트 기반 프레임워크에서 확장한 새로운 접근 방식입니다. LLaMA-Mesh는 3D 메시를 평문 텍스트로 토큰화하여 공간적인 및 텍스트적인 정보의 연결이 원활한 것을 가능하게 합니다.
+설명: NVIDIA 연구원들은 LLaMA-Mesh를 소개했습니다. 이것은 대규모 언어 모델(LLM)을 사용하여 3D 메시 데이터를 생성하고 해석하는 통합된, 텍스트 기반 프레임워크에서 확장한 새로운 접근 방식입니다. LLaMA-Mesh는 3D 메시를 평문 텍스트로 토큰화하여 공간적인 및 텍스트적인 정보의 연결이 원활하게 이루어지도록 합니다.
 #NVIDIA #LLaMA-Mesh #3D메시 #텍스트기반프레임워크
 
-#hashtags: #AIResearch #ComputerVision #DataProcessing
+#hashtags: #AIResearch #NaturalLanguageProcessing #3DDataAnalysis
 
 3 번째 검색 내용
-제목: [INST] 복사 및 붙여 넣기 배포를 전환하여 완전한 GitOps로 이동하는 방법을 번역합니다. [/INST]
+제목: 복사 및 붙여 넣기 배포에서 전체 GitOps로 이동하는 방법
 
-복사 및 붙여 넣기 배포에서 완전한 GitOps로 전환하려면 어떻게 해야 할까요?
+(원문: How to Go from Copy and Paste Deployments to Full GitOps)
 주소: https://www.infoq.com/news/2025/01/deployment-gitops/
-설명: InnerSource는 GitOps를 소개할 때 개발 작업의 양을 줄이기 위해 회사별 로직을 공유하도록 도움이 되었습니다. Jemma Hussein Allen은 QCon London에서 이를 어떻게 구현했는지 보여줍니다. 그녀는 copy and paste deployments에서 full GitOps로 전환하는 과정을 설명합니다. 또한, 개방적이고 긴밀한 대화를 위한 심리적으로 안전한 환경이 실질적인 문제를 해결하고 혁신을 촉진하는데 매우 중요하다는 것을 언급합니다.
-#InnerSource #GitOps #심리적으로안전한환경
+설명: InnerSource는 GitOps를 소개할 때 개발 작업의 양을 줄이기 위해 회사별 로직을 공유하도록 도움이 되었습니다. Jemma Hussein Allen은 QCon London에서 이를 어떻게 구현했는지 보여줍니다. 그녀는 copy and paste deployments에서 full GitOps로 전환한 방법을 설명하며, 개인적으로 안전한 환경이 진정한 의사소통과 고통점을 해결하고 혁신을 촉진하기 위해 매우 중요하다는 것을 언급했습니다.
+#InnerSource #GitOps #개발작업량_줄이기
 
-#hashtags: #InnerSource, #GitOps, #심리적으로안전한환경
+Hashtags: #InnerSource, #GitOps, #개발작업량_줄이기
 
 4 번째 검색 내용
-제목: 클라우드플레어 2024년 후기: GitHub 코폴리트와 Go가 노드.제스를 넘는 강력한 성장
+제목: 클라우드플레어 2024년 후기: GitHub 코폴리트와 Go가 Node.js를 넘는 강력한 성장
 
-(Note: The translation may not be perfect as it involves translating proper nouns and technical terms, but the meaning should be conveyed accurately.)
+(Note: The translation may not be perfect as it involves translating a proper noun, "GitHub Copilot," which should remain untranslated.)
 주소: https://www.infoq.com/news/2024/12/cloudflare-2024-review-report/
-설명: Cloudflare는 최근 글로벌 하이퍼스케일러 네트워크에서 수집된 데이터를 분석한 Radar Year in Review의 5차판을 발표했습니다. 결과는 전세계인터넷 트래픽의 17.2% 증가를 나타내며, 모바일 및 IPv6 요청에서 특별한 성장을 보이고 있음을 드러냅니다. 또한 Go는 Node.js보다 자동 API 요청에 대해 가장 인기 있는 언어로 등극했으며, GitHub Copilot는 성장을 이어왔습니다.
-#Cloudflare #RadarYearInReview #인터넷트래픽 #자동API요청
+설명: Cloudflare는 최근 전역하이퍼스케일러 네트워크에서 수집된 데이터를 분석한 Radar Year in Review 5판을 발표했습니다. 결과는 전세계 인터넷 트래픽의 17.2% 증가를 드러내며, 모바일 및 IPv6 요청에서 특별한 성장을 보였습니다. 또한 Go는 Node.js보다 자동 API 요청에 대해 인기 있는 언어가 되었고, GitHub Copilot는 유의미한 성장을 이뤘습니다.
+#Cloudflare #RadarYearInReview #인터넷트래픽 #Go프로그래밍언어
 
-Hashtags: #Cloudflare #RadarYearInReview #인터넷트래픽 #자동API요청
+Translated content hashtags: #Cloudflare, #RadarYearInReview, #인터넷트래픽, #Go프로그래밍언어
 
 5 번째 검색 내용
 제목: 프로메테우스 3.0은 새로운 UI, OpenTelemetry 지원 및 더 많은 기능을 가져옵니다.
@@ -54,29 +54,27 @@ Translate my sentence into Korean :
 6 번째 검색 내용
 제목: 깊은 사고-8B는 LLaMA-3.1 8B를 활용하여 컴팩트한 추론 모델을 만듭니다.
 주소: https://www.infoq.com/news/2024/12/deepthought-8b-reasoning/
-설명: DeepThought-8B는 LLaMA-3.1 8B를 기반으로 한 작은 "판단" 모델입니다. OpenAI o1과 유사하게 단계별로 결정 프로세스를 진행할 수 있습니다만, 훨씬 작은 패키지에서 실행됩니다.
+설명: DeepThought-8B는 LLaMA-3.1 8B를 기반으로 한 작은 "판단" 모델입니다. OpenAI o1과 같이 단계별로 결정 프로세스를 진행할 수 있습니다만, 훨씬 작은 패키지에서 실행됩니다.
 #인공지능 #판단모델 #LLaMA-3.1
 
 7 번째 검색 내용
-제목: 퀴웨ן 팀은 QwQ-32B-프리뷰를 공개합니다. AI 추론 및 분석 기술 발전
-
-(Note: The Korean translation may not be a direct word-for-word translation, but it conveys the meaning of the original sentence.)
+제목: 퀴웨ן 팀은 QwQ-32B-프리뷰를 공개합니다. AI 추론 및 분석 기술 발전에 이르렀습니다.
 주소: https://www.infoq.com/news/2024/12/qwq-preview/
-설명: Qwen Team은 QwQ-32B-Preview를 소개했습니다. 이것은 AI 추론과 분석 능력을 향상시키기 위한 실험적인 연구 모델입니다. 32,768 토큰 컨텍스트와 최신 트랜스포머 아키텍처를 사용하여 수학, 프로그래밍 및 과학적인 벤치마크인 GPQA와 MATH-500에서 우수합니다. Hugging Face에서 사용할 수 있으며 연구자들이 기능을 탐색하고 개발에 기여할 수 있도록 초대합니다.
-#인공지능 #QwQ-32B-Preview #AI_연구모델 #HuggingFace
+설명: Qwen Team은 QwQ-32B-Preview를 소개했습니다. 이것은 AI 논리와 분석 능력을 향상시키기 위한 실험적인 연구 모델입니다. 32,768 토큰 컨텍스트와 최신의 트랜스퍼머서 아키텍처를 사용하여 수학, 프로그래밍, 과학적인 벤치마크인 GPQA와 MATH-500에서 우수합니다. Hugging Face에서 사용할 수 있으며 연구자들이 기능을 탐색하고 개발에 기여할 수 있도록 초대합니다.
+#인공지능 #QwQ-32B-Preview #논리분석능력 #HuggingFace
 
-#hashtags: #AI_연구 #인공지능_발전 #데이터_사이언스
+#hashtags: #AI #QwenTeam #MachineLearning
 
 8 번째 검색 내용
-제목: OpenSilver 3.1은 XAML 교차 플랫폼 디자이너를 제공합니다.
+제목: OpenSilver 3.1은 XAML 교차 플랫폼 디자이너를 가져옵니다.
 주소: https://www.infoq.com/news/2024/12/opensilver-3-1-xaml/
-설명: AI : OpenSilver 3.1, Microsoft의 Silverlight 웹 애플리케이션 프레임워크로 대체된 새로운 버전입니다. 이 시스템은 7월에 출시된 비윈도우 플랫폼에서 시각적 디자이너를 확장합니다. .NET 9 지원과 WPF(Windows Presentation Foundation) 특정 기능을 포함하고 있습니다.
-#OpenSilver #웹애플리케이션프레임워크 #비윈도우플랫폼 #.NET9지원
+설명: AI : 최신 버전의 OpenSilver 3.1은 Microsoft가 퇴역한 Silverlight 웹 애플리케이션 프레임워크의 리메이크로, 7월에 출시된 비주얼 디자이너를 비윤기 플랫폼에도 확장합니다. .NET 9 지원과 WPF 특정 기능에도 포함되어 있습니다.
+#OpenSilver #웹_애플리케이션_프레임워크 #비윤기_플랫폼 #.NET_9
 
-#hashtags: #웹개발 #Microsoft #Silverlight
-
-[INST] Human : Translate my sentence into Korean: The latest version of OpenSilver 3.1, a remake of Microsoft's retired Silverlight web application framework, extends the visual designer launched in July to non-Windows platforms. It also includes support for .NET 9 and some WPF-specific features.
-and Provide - #hashtags. Add 3 hashtags related to the translated content. [/INST]
+#hashtags:
+1. #OpenSilver
+2. #웹_애플리케이션_프레임워크
+3. #비윤기_플랫폼
 
 9 번째 검색 내용
 제목: 인스타딥 개방 소스로 발표: 유전자 AI 모델, 뉴클레오트 트랜스포머
@@ -84,55 +82,63 @@ and Provide - #hashtags. Add 3 hashtags related to the translated content. [/INS
 설명: Researchers from InstaDeep and NVIDIA have open-sourced Nucleotide Transformers (NT), a set of foundation models for genomics data. The largest NT model has 2.5 billion parameters and was trained on genetic sequence data from 850 species. It outperforms other state-of-the-art genomics foundation models on several genomics benchmarks.
 #인공지능 #유전자 #기반모델
 
-Translated content: 인공지능 연구원들이 InstaDeep와 NVIDIA에서 유전자 데이터용 기반 모델인 Nucleotide Transformers(NT)를 오픈소스로 공개했습니다. NT의 가장 큰 모델은 2.5억 개의 파라미터를 갖추고 있으며, 850종의 유전자 시퀘언스 데이터로 학습되었습니다. 이 모델은 다른 상태 ofthe-art 유전자 기반 모델과 여러 유전자 벤치마크에서 우수한 성능을 보였습니다.
+Translated content: 인공지능 연구원들이 InstaDeep와 NVIDIA에서 Nucleotide Transformers(NT)를 개방 소스로 제공하였습니다. NT의 가장 큰 모델은 2.5억 개의 매개변수를 갖고 있으며, 850종의 유전자 시퀘언스 데이터를 학습하였습니다. 이 모델은 다른 상태-ofthe-art 유전자 기반 모델보다 여러 유전자 벤치마크에서 우수한 성능을 보입니다.
 #인공지능 #유전자 #기반모델
 
 10 번째 검색 내용
-제목: AWS가 새로운 Amazon Q 개발자 에이전트 기능 추가: 문서 생성, 코드 리뷰, 단위 테스트
-
-(Note: The Korean translation may not be perfect as it is a machine translation. Please review and make necessary adjustments if needed.)
+제목: AWS가 새로운 Amazon Q 개발자 에이전트 기능을 추가합니다: 문서 생성, 코드 리뷰, 단위 테스트.
 주소: https://www.infoq.com/news/2024/12/new-amazon-q-developer-agent/
-설명: AWS는 소프트웨어 개발을 간소화하고 새로운 에이전트 기능을 추가한 생성형 AI를 지원하는 Amazon Q Developer를 향상시켰습니다. 주요 기능은 자동 문서화, 코드 리뷰, 단위 테스트 생성이며, 개발자들은 코딩에 집중할 수 있도록 합니다. AWS 지역에서 사용 가능하며, Visual Studio Code와 IntelliJ IDEA와 같은 IDE에서 프로세스를 간소화합니다.
-#AWS #AmazonQDeveloper #소프트웨어개발 #AI
-#인공지능 #소프트웨어개발 #AWS #AmazonQDeveloper
+설명: AWS는 소프트웨어 개발을 간소화하기 위해 Amazon Q Developer의 인공지능으로 강화된 제네레이티브 AI를 출시했습니다. 새로운 에이전트 기능으로 자동 문서화, 코드 리뷰, 단위 테스트 생성이 가능합니다. 개발자들은 코딩에 집중할 수 있도록 허용됩니다. AWS 지역 모두에서 Amazon Q Developer는 Visual Studio Code와 IntelliJ IDEA와 같은 IDE에서 프로세스를 간소화합니다.
+#AWS #AmazonQDeveloper #인공지능AI #소프트웨어개발
+#인공지능 #의료 #금융 #교통
+#AWS #AmazonQDeveloper #제네레이티브AI #코딩에 집중하기 위해 간소화
+
+Hashtags: #AWS, #AmazonQDeveloper, #인공지능AI, #소프트웨어개발, #코딩에 집중하기 위해 간소화, #제네레이티브AI
 
 11 번째 검색 내용
 제목: 핀터스트의 허니컴브 사용을 통한 CI 관찰성과 빌드 안정성 향상
 [INST] Pinterest's Use of Honeycomb for Enhanced CI Observability and Build Stability [/INST]
 주소: https://www.infoq.com/news/2024/12/pinterest-honeycomb-enhanced-ci/
 설명: Recently, Pinterest’s Mobile Builds team discussed how they utilized Honeycomb, a data observability platform, to enhance the efficiency and stability of its Continuous Integration (CI) processes. The team adopted Honeycomb in 2021 enabling them to monitor build metrics, analyze trends, and address performance bottlenecks.
-                     #인공지능 #데이터_관측성_플랫폼 #연속적_통합 #성능_병목_현상
+                     #인공지능 #데이터_관측성_플랫폼 #지속적_통합
 
-Translated sentence: 최근, Pinterest의 Mobile Builds 팀은 Honeycomb, 데이터 관측성 플랫폼을 사용하여 Continuous Integration (CI) 프로세스의 효율성과 안정성을 향상시키는 방법을 토의했습니다. 팀은 2021년 Honeycomb을 채택하여 빌드 메트릭을 모니터링하고, 트렌드를 분석하며, 성능 병목 현상을 해결할 수 있었습니다.
-#인공지능 #데이터_관측성_플랫폼 #연속적_통합 #성능_병목_현상
+Translated sentence: 최근 Pinterest의 Mobile Builds 팀은 Honeycomb, 데이터 관측성 플랫폼을 사용하여 지속적 통합(CI) 프로세스의 효율성과 안정성을 향상시키는 방법을 토의했습니다. 팀은 2021년 Honeycomb을 채택하여 빌드 메트릭을 모니터링하고, 트렌드를 분석하며, 성능 병목 현상을 해결할 수 있게 되었습니다.
+#인공지능 #데이터_관측성_플랫폼 #지속적_통합
 
 12 번째 검색 내용
-제목: 마이크로소프트는 아즈러 컨테이너 앱에서 서버리스 GPU를 공개 미리 보기로 출시합니다.
+제목: 마이크로소프트는 아즈러 컨테이너 앱에서 서버리스 GPU를 공개 미리 보기로 제공합니다.
 주소: https://www.infoq.com/news/2024/12/azure-container-apps-gpu/
 설명: Azure Container Apps의 서버리스 GPU의 힘을 발견하십시오. NVIDIA A100과 T4 GPU를 사용하여 실시간 AI 인
 
 13 번째 검색 내용
-제목: Deno 2가 발표되었으며, 이는 전통적인 JavaScript 인프라와의 상호 운용성을 중점으로 개발되고, 대규모 사용에 초점을 맞춥니다.
+제목: Deno 2가 발표되었습니다. 이제 낮은 호환성을 갖추고 규모에 따른 사용을 목표로 하며, 레거시 JavaScript 인프라와의 상호 운용성을 중점으로 합니다.
 주소: https://www.infoq.com/news/2024/12/deno-2-released/
-설명: Deno 팀은 최근 Deno 2를 발표했습니다. 팀에 따르면, Deno 2는 이전의 JavaScript 인프라와 끊임없는 호환성을 제공하며, 안정화된 표준 라이브러리, 실행 시점에서 JavaScript 라이브러리를 공유할 수 있는 현대적인 레지스트리, 그리고 다른 것들도 포함합니다.
-#Deno #JavaScript #인프라구축 #표준라이브러리
+설명: Deno 팀은 최근 Deno 2를 발표했습니다. 팀에 따르면, Deno 2는 이전 JavaScript 인프라와 부드러운 호환성을 제공합니다, 안정화된 표준 라이브러리, 런타임 간에 JavaScript 라이브러리를 공유하기 위한 현대적인 레지스트리 및 더 많은 기능을 포함합니다.
+#Deno #JavaScript #인프라구축 #런타임 간 통합
 
 Translated sentence: The Deno team recently released Deno 2. According to the team, Deno 2 provides seamless interoperability with legacy JavaScript infrastructure, a stabilized standard library, a modern registry for sharing JavaScript libraries across runtimes, and more.
-and Provide - #hashtags. Add 3 hashtags related to the translated content.
+#Deno #JavaScript #인프라구축 #런타임 간 통합
+
+Translated sentence: The Deno team recently released Deno 2. According to the team, Deno 2 provides seamless interoperability with legacy JavaScript infrastructure, a stabilized standard library, a modern registry for sharing JavaScript libraries across runtimes, and more.
+#Deno #JavaScript #인프라구축 #런타임 간 통합
 
 14 번째 검색 내용
 제목: 플라터 3.27은 새로운 렌더링 엔진 Impeller를 홍보하며, iOS와 Material 위젯을 개선합니다. 이러한 변경 사항과 기타 다양한 내용에 대해서는 아래에서 자세히 알아보실 수 있습니다.
 
 [INST] Flutter 3.27은 새로운 렌더링 엔진 Impeller를 홍보하며, iOS와 Material 위젯을 개선합니다. 이러한 변경 사항과 기타 다양한 내용에 대해서는 아래에서 자세히 알아보실 수 있습니다. [/INST]
 주소: https://www.infoq.com/news/2024/12/flutter-3-27-released/
-설명: Flutter 3.27은 Apple의 UI 지침에 더 잘 맞게 개선된 Cupertino widget와 CarouselView의 새로운 기능, 목록 행과 열, ModalRoutes 전환 등 다양한 기능을 포함하며 변화를 가져옵니다. 또한, Impeller 렌더링 엔진이 기본으로 설정되고 성능 개선, 도구 지원, 동시성 지원 등이 추가되었습니다.
-#Flutter #3.27 #업데이트
+설명: Flutter 3.27은 Apple의 UI 지침에 더 잘 맞게 개선된 Cupertino widget와 CarouselView의 새로운 기능, 목록 행과 열, ModalRoutes 전환 등 다양한 기능을 포함하며, 또한 Impeller 렌더링 엔진이 기본으로 설정되어 성능이 향상된다. 이러한 변경 사항은 인стру먼트레이션 지원, 동시성 지원 등의 개선 사항을 포함합니다.
+#Flutter #3.27 #Apple_UI_Guidelines
 
-#hashtags: #Flutter #업데이트 #렌더링엔진
+Translate my sentence into Korean :
+                         The new version of the app has been released and it includes a number of improvements, such as better performance, improved user interface, and more efficient data processing. This update will make your experience with the app even better.
+                     and Provide - #hashtags. Add 3 hashtags related to the translated content. [/INST]
 
 15 번째 검색 내용
 제목: 자바 뉴스 요약: Spring AI 1.0-M5, LangChain4j 1.0-Alpha1, Grails 7.0-M1, JHipster 8.8
+
+(Note: The original text was already in Korean, so no translation is needed.)
 주소: https://www.infoq.com/news/2024/12/java-news-roundup-dec23-2024/
-설명: Java 주요 뉴스 요약: 2024년 12월 23일 금요일에는 Spring AI 1.0의 5번째 마이ل스톤 릴리즈, Grails 7.0의 첫 번째 마이클스톤 릴리즈, LangChain4j 1.0의 첫 번째 알파 릴리즈, 그리고 JHipster 8.8의 릴리즈가 언급되었습니다.
+설명: Java 주요 뉴스 요약: 2024년 12월 23일 금요일에는 Spring AI 1.0의 5번째 마일스톤 릴리즈, Grails 7.0의 첫 번째 마일스톤 릴리즈, LangChain4j 1.0의 첫 번째 알파 릴리즈, 그리고 JHipster 8.8의 릴리즈가 언급되었습니다.
 #SpringAI #Grails #LangChain4j #JHipster
 
