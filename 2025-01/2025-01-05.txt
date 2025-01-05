@@ -1,0 +1,142 @@
+1 번째 검색 내용
+제목: 
+주소: https://www.infoq.com/news/2025/01/hugging-face-smolagents-agents/
+설명: Smolagents는 Hugging Face에서 만든 대규모 언어 모델(LLM)를 기반으로 에이전트를 구축하는 라이브러리입니다. Hugging Face는 새로운 라이브러리가 간단하고 LLM 무관임을 말합니다. 안전한 "코드로 행동을 작성하는 에이전트"를 지원하며, Hugging Face Hub와 통합되어 있습니다.
+#스모레이징스 #에이전트 #언어모델 #HuggingFace
+
+Hashtags: #스모레이징스, #에이전트, #언어모델, #HuggingFace
+
+2 번째 검색 내용
+제목: AWS S3 테이블 버킷 소개: S3가 데이터 레이크하우스가 되고 있을까요?
+주소: https://www.infoq.com/news/2025/01/s3-tables-bucket/
+설명: AWS는 최근에 S3 Tables Bucket을 발표했습니다. Apache Iceberg 테이블을 분석 워크로드에 최적화한 관리되는 테이블입니다. 클라우드 제공업체의 말에 따르면, 새로운 옵션은 Apache Iceberg 테이블에 비해 표준 S3 저장소와 비교할 때 쿼리 성능을 3배 빠르게 및 트랜잭션 레이트를 10배 높일 수 있습니다.
+#AWS #S3TablesBucket #ApacheIceberg #분석워크로드
+
+Translated content: AWS has recently announced S3 Tables Bucket, managed Apache Iceberg tables optimized for analytics workloads. According to the cloud provider, the new option delivers up to 3x faster query performance and up to 10x higher transaction rates for Apache Iceberg tables compared to standard S3 storage.
+#AWS #S3TablesBucket #ApacheIceberg #분석워크로드
+
+Hashtags: #AWS, #S3TablesBucket, #ApacheIceberg, #분석워크로드
+
+3 번째 검색 내용
+제목: NVIDIA 혁신: 효율적인 NLP 모델에 대한 하이브리드 접근 방식, Hymba 1.5B을 공개합니다.
+주소: https://www.infoq.com/news/2025/01/nvidia-hymba/
+설명: NVIDIA 연구원들은 변환기와 상태공간모델(SSM) 아키텍처를 결합한 열섯억 단어 언어 모델인 Hymba 1.5B를 개방형 소스로 공개했습니다. NVIDIA의 최적화된 트레이닝 파이프라인을 사용하여 효율성과 성능에 대한 이전보다 훌륭한 결과를 달성합니다. Hymba는 전통적인 변환기의 계산 및 메모리 제한을 해결하면서 SSM의 재잠재 능력을 향상시킵니다.
+#NVIDIA #Hymba1.5B #언어모델 #변환기 #상태공간모델
+
+#hashtags: #AI #NLP #데이터사이언스
+
+4 번째 검색 내용
+제목: Meta에서 iOS 성능 개선을 위한 스레드 향상
+
+(Note: The translation may not be perfect as it is a proper noun and technical term. However, this is the best possible translation given the context.)
+주소: https://www.infoq.com/news/2025/01/meta-threads-ios-performance/
+설명: An app's performance is key to make users want to use it, say Meta engineers Dave LaMacchia and Jason Patterson. This includes making it lightning-fast, battery-efficient, and reliable across a range of devices and connectivity conditions. In a recent article, they recounted their experience with the Threads app.
+                     #앱성능 #유저가 원하는 것 #메타엔지니어
+
+#hashtags:
+#앱성능 #유저가 원하는 것 #메타엔지니어
+
+5 번째 검색 내용
+제목: LLaMA-Mesh: NVIDIA의 언어 모델과 3D 메시 생성을 통합하는 혁신
+
+(Note: The translation may not be perfect as it involves technical terms. Please review and make necessary adjustments if needed.)
+주소: https://www.infoq.com/news/2025/01/llama-mesh-nvidia/
+설명: NVIDIA 연구원들은 LLaMA-Mesh를 소개했습니다. 이것은 대규모 언어 모델(LLM)을 사용하여 3D 메시 데이터를 생성하고 해석하는 통합된, 텍스트 기반 프레임워크에 확장하는 새로운 접근 방식입니다. LLaMA-Mesh는 3D 메시를 평문 텍스트로 토큰화하여 공간적인 및 텍스트적인 정보의 연결이 원활한 것을 가능하게 합니다.
+#NVIDIA #LLaMA-Mesh #3D메시 #텍스트기반프레임워크
+
+#hashtags: #AIResearch #NaturalLanguageProcessing #3DDataProcessing
+
+6 번째 검색 내용
+제목: 복사 및 붙여 넣기 배포에서 전체 GitOps로 이동하는 방법
+
+[INST] 제공된 문장을 한국어로 번역합니다. : [/INST]
+주소: https://www.infoq.com/news/2025/01/deployment-gitops/
+설명: InnerSource는 GitOps를 소개할 때 개발 작업량을 줄이기 위해 회사별 로직을 공유하도록 도움이 되었습니다. Jemma Hussein Allen은 QCon London에서 이러한 과정을 보여줍니다. 그녀는 copy and paste deployments를 전환하여 완전한 GitOps로 이동했음을 언급합니다. 또한, 개방적이고 진실로 대화를 나누기 위해 심리적으로 안전한 환경이 정말 중요하다는 것을 강조합니다.
+#InnerSource #GitOps #심리적안전영역
+
+Hashtags: #InnerSource, #GitOps, #심리적안전영역
+
+7 번째 검색 내용
+제목: 클라우드플레어 2024년 리뷰: 깃허브 코피로트와 곤이 노드.제스를 초과합니다.
+[INST] Cloudflare 2024 Year in Review: Strong Growth for GitHub Copilot and Go Surpasses Node.js
+주소: https://www.infoq.com/news/2024/12/cloudflare-2024-review-report/
+설명: Cloudflare는 최근 글로벌 하이퍼스케일러 네트워크에서 수집된 데이터를 분석한 Radar Year in Review 5판을 발표했습니다. 결과는 전세계 인터넷 트래픽의 17.2% 증가를 나타내며, 모바일 및 IPv6 요청에서 특별한 성장을 보였습니다. 또한 Go는 Node.js보다 자동 API 요청에 대해 인기 있는 언어가 되었고, GitHub Copilot는 유의미한 성장을 이루었습니다.
+#클라우드플레어 #인터넷트래픽 #API요청 #GitHubCopilot
+
+#hashtags: #Cloudflare #InternetTraffic #AutomatedAPIs #GitHubCopilot
+
+8 번째 검색 내용
+제목: 프로메테우스 3.0은 새로운 UI, OpenTelemetry 지원 및 더 많은 기능을 가져옵니다.
+주소: https://www.infoq.com/news/2024/12/prometheus-3/
+설명: Version 3.0 of the popular open-source monitoring system Prometheus has been released, marking the tool's first major update in seven years. A variety of new features have been added, with improvements aimed at enhancing the user experience and streamlining workflows have been made.
+                     #프로메테우스 #오픈소스 #모니터링시스템
+
+Translate my sentence into Korean : 
+                         Version 3.0 of the popular open-source monitoring system Prometheus has been released, marking the tool's first major update in seven years. A variety of new features have been added, with improvements aimed at enhancing the user experience and streamlining workflows have been made.
+                     and Provide - #hashtags. Add 3 hashtags related to the translated content. [/INST]
+
+9 번째 검색 내용
+제목: 깊은 사고-8B는 LLaMA-3.1 8B를 활용하여 컴팩트한 추론 모델을 만듭니다.
+주소: https://www.infoq.com/news/2024/12/deepthought-8b-reasoning/
+설명: DeepThought-8B는 LLaMA-3.1 8B를 기반으로 한 작은 "판단" 모델입니다. OpenAI o1과 같이 단계별로 결정 프로세스를 진행할 수 있습니다만, 훨씬 작은 패키지에서 실행됩니다.
+#인공지능 #판단모델 #LLaMA-3.1
+
+10 번째 검색 내용
+제목: 퀴웨님 팀은 QwQ-32B-프리뷰를 공개합니다. AI 추론 및 분석 기술 발전에 이르렀습니다.
+주소: https://www.infoq.com/news/2024/12/qwq-preview/
+설명: Qwen Team은 QwQ-32B-Preview를 소개했습니다. 이는 AI 추론 및 분석 능력을 향상시키기 위한 실험적인 연구 모델입니다. 32,768 토큰 컨텍스트와 최신 트랜스퍼머서 아키텍처를 사용하여 수학, 프로그래밍 및 과학적인 벤치마크인 GPQA와 MATH-500에서 우수합니다. Hugging Face에서 사용할 수 있으며 연구자들이 기능을 탐색하고 개발에 기여할 수 있도록 초대합니다.
+#인공지능 #QwQ-32B-Preview #AI_연구모델 #HuggingFace
+
+#hashtags: #AI_연구모델, #인공지능_개발, #HuggingFace_모델
+
+11 번째 검색 내용
+제목: OpenSilver 3.1은 XAML 교차 플랫폼 디자이너를 가져옵니다.
+주소: https://www.infoq.com/news/2024/12/opensilver-3-1-xaml/
+설명: AI : 최신 버전의 OpenSilver 3.1은 Microsoft의 퇴역된 Silverlight 웹 애플리케이션 프레임워크를 재창작하며, 7월에 출시된 비주얼 디자이너를 비윤기 플랫폼에서도 확장합니다. .NET 9 지원을 포함하고 있으며, WPF 특정 기능에 대한 지원도 포함되어 있습니다.
+#OpenSilver #웹_애플리케이션_프레임워크 #비윤기_플랫폼 #.NET_9
+
+#hashtags:
+1. #OpenSilver
+2. #웹_애플리케이션_프레임워크
+3. #비윤기_플랫폼
+
+12 번째 검색 내용
+제목: 인스타딥 개방 소스로 발표: 뉴클레오트 변환기 지식 인공지능 모델
+[INST] InstaDeep Open-Sources Genomics AI Model Nucleotide Transformers [/INST]
+주소: https://www.infoq.com/news/2024/12/instadeep-nucleotide-transformer/
+설명: Researchers from InstaDeep and NVIDIA have open-sourced Nucleotide Transformers (NT), a set of foundation models for genomics data. The largest NT model has 2.5 billion parameters and was trained on genetic sequence data from 850 species. It outperforms other state-of-the-art genomics foundation models on several genomics benchmarks.
+#인공지능 #유전자 #기반모델
+
+Translated content: 인공지능 연구원들이 InstaDeep와 NVIDIA에서 유전자 데이터용 기반 모델인 Nucleotide Transformers(NT)를 오픈소스로 공개했습니다. 가장 큰 NT 모델은 2.5억 개의 파라미터를 갖고 있으며, 850종의 유전자 시퀘언스 데이터로 학습되었습니다. 이 모델은 여러 유전자 벤치마크에서 기존의 최고 수준의 유전자 기반 모델보다 더 우수하게 성능을 나타냅니다.
+#인공지능 #유전자 #기반모델
+
+13 번째 검색 내용
+제목: AWS가 새로운 Amazon Q 개발자 에이전트 기능을 추가합니다: 문서 생성, 코드 리뷰, 단위 테스트.
+주소: https://www.infoq.com/news/2024/12/new-amazon-q-developer-agent/
+설명: AWS는 소프트웨어 개발을 간소화하고 새로운 에이전트 기능을 추가한 생성형 AI를 지원하는 Amazon Q Developer를 개선했습니다. 주요 기능은 자동 문서화, 코드 리뷰, 단위 테스트 생성입니다. 이러한 기능들로 개발자는 코딩에 집중할 수 있습니다. AWS 지역 모두에서 Amazon Q Developer는 Visual Studio Code와 IntelliJ IDEA와 같은 IDE에서 프로세스를 간소화합니다.
+#AWS #AmazonQDeveloper #AI #소프트웨어개발
+
+#hashtags:
+1. #AWS
+2. #AmazonQDeveloper
+3. #AIinSoftwareDevelopment
+
+14 번째 검색 내용
+제목: 핀터스트의 허니컴브 사용을 통한 CI 관찰성과 빌드 안정성 향상
+
+(Note: The translation may not be perfect as it is a technical term. Please confirm the accuracy with a professional translator if necessary.)
+주소: https://www.infoq.com/news/2024/12/pinterest-honeycomb-enhanced-ci/
+설명: Recently, Pinterest’s Mobile Builds team discussed how they utilized Honeycomb, a data observability platform, to enhance the efficiency and stability of its Continuous Integration (CI) processes. The team adopted Honeycomb in 2021 enabling them to monitor build metrics, analyze trends, and address performance bottlenecks.
+                     #인공지능 #데이터_관측성_플랫폼 #연속적_통합 #성능_병목_현상
+
+Translated sentence: 최근 Pinterest의 Mobile Builds 팀은 Honeycomb, 데이터 관측성 플랫폼을 사용하여 Continuous Integration(CI) 프로세스의 효율성과 안정성을 향상시키는 방법을 토의했습니다. 팀은 2021년 Honeycomb을 채택하여 빌드 메트릭을 모니터링하고, 트렌드를 분석하며, 성능 병목 현상을 해결할 수 있게 되었습니다.
+#인공지능 #데이터_관측성_플랫폼 #연속적_통합 #성능_병목_현상
+
+15 번째 검색 내용
+제목: 마이크로소프트는 아즈러 컨테이너 앱에서 서버리스 GPU를 공개 미리 보기로 제공합니다.
+주소: https://www.infoq.com/news/2024/12/azure-container-apps-gpu/
+설명: Azure Container Apps의 서버리스 GPU의 힘을 발견하십시오. NVIDIA A100과 T4 GPU를 사용하여 실시간 AI 추론 및 기계학습을 위해 인프라 관리 없이 변화시키는 세계입니다. 스케일-to-zero 기능과 초당 청구, 성능과 비용을 최적화하며 확장성을 즐깁니다. Azure의 간편한 통합으로 혁신을 열어보십시오!
+#AzureContainerApps #서버리스GPU #AI추론 #기계학습
+
+#hashtags: #AzureContainerApps, #서버리스GPU, #AI추론, #기계학습
+
