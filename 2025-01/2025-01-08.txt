@@ -1,54 +1,51 @@
 1 번째 검색 내용
 제목: 메타는 바이트 랩시드 트랜스폼러 LLM를 개방적으로 공개하며, 확장성을 향상시켰습니다.
 주소: https://www.infoq.com/news/2025/01/meta-byte-latent-transformer/
-설명: Meta는 Byte Latent Transformer(BLT)라는 LLM 아키텍처를 오픈소스로 공개했습니다. BLT는 토큰화기능 대신 바이트 패치를 처리하는데 학습된 동적 스키마를 사용합니다. 이로인해 BLT 모델은 Llama3 모델의 성능을 매칭할 수 있지만, 50% 적은 추론 FLOPS를 사용합니다.
-#Meta #ByteLatentTransformer #LLM #오픈소스
+설명: Meta는 Byte Latent Transformer(BLT)를 오픈소스로 공개했습니다. BLT는 토큰화기능 대신 바이트 패치를 처리하는데 학습된 동적 스키마를 사용하는 LLM 아키텍처입니다. 이로인해 BLT 모델은 Llama3 모델의 성능을 매칭할 수 있지만, 50% 적은 추론 FLOPS를 사용합니다.
+#메타 #바이트_라텔머 #LLM_아키텍처
 
-#hashtags: #AI #MachineLearning #NaturalLanguageProcessing
+Translated sentence: Meta open-sourced Byte Latent Transformer (BLT), a LLM architecture that uses a learned dynamic scheme for processing patches of bytes instead of a tokenizer. This allows BLT models to match the performance of Llama 3 models but with 50% fewer inference FLOPS.
+
+#hashtags: #메타 #바이트_라텔머 #LLM_아키텍처
 
 2 번째 검색 내용
 제목: DX는 개발자 생산성을 측정하는 새로운 프레임워크 공개
 
-(Note: The translation may not be perfect as it is a direct translation. In Korean, the subject and verb often come at the end of the sentence. So, a more natural-sounding Korean sentence could be: "새로운 개발자 생산성을 측정하는 프레임워크를 공개한 DX" which translates to "DX unveils a new framework for measuring developer productivity.")
+(Note: The translation may not be perfect as it is a direct translation. In Korean, the subject and verb often come at the end of the sentence. So, a more natural-sounding Korean sentence would be: "새로운 개발자 생산성을 측정하는 프레임워크를 공개한 DX" which means "DX unveils a new framework for measuring developer productivity.")
 주소: https://www.infoq.com/news/2025/01/dx-core-4-framework/
 설명: 소프트웨어 개발 지능 플랫폼 DX는 엔지니어링 리더들이 개발자 생산성을 측정하고 향상시키는 데 도움이 되도록 새로운 프레임워크인 DX Core 4를 소개했습니다. 이 프레임워크는 이러한 작업을 간단하게 만들기 위해 이전에 확립된 프레임워크인 DORA 메트릭과 SPACE에 기반합니다.
 #소프트웨어개발 #지능플랫폼 #엔지니어링리더 #개발자생산성
 
 Translated sentence: Software development intelligence platform DX has introduced a new framework named DX Core 4, designed to help engineering leaders measure and improve developer productivity. The framework aims to simplify this task by building on older established frameworks like the DORA metrics and SPACE.
-#소프트웨어개발 #지능플랫폼 #엔지니어링리더 #개발자생산성
 
-Hashtags: #소프트웨어개발, #지능플랫폼, #엔지니어링리더, #개발자생산성
+#hashtags: #소프트웨어개발 #지능플랫폼 #엔지니어링리더 #개발자생산성
 
 3 번째 검색 내용
-제목: 자바 뉴스 요약: 글래시핑, 스프링 AI MCP, 그레일즈, 헬리도넘, 제이리리저, 리절런스4j, 아크잔
+제목: 자바 뉴스 요약: 글래시프, 스프링 AI MCP, 그레일즈, 헬리도ン, 제이리리저, 리절런스4j, 아크컬리안
 
-(Note: The Korean translation may not be perfect as some of the terms are specific to the Java ecosystem and might have direct translations. However, I tried my best to provide an accurate translation.)
+(Note: The given sentence seems to be a list of Java-related technologies. I translated each term separately into Korean.)
 주소: https://www.infoq.com/news/2025/01/java-news-roundup-dec30-2024/
-설명: Korean Translation: 이번 주의 12월 30일 자바 뉴스 업데이트에는 GlassFish 7.0.21, Spring AI MCP 0.4.0과 0.3.0, Grails 6.2.3, Helidon 4.1.6, JReleaser 1.16.0, Resilience4j 2.3.0, 및 Arquillian 1.9.2.Final이 강조되었습니다.
-#자바 #프로그래밍 #오픈소스 #업데이트
+설명: Korean Translation: 이번 주의 12월 30일 자바 뉴스 요약에는 다음과 같은 소식이 강조되었습니다. GlassFish 7.0.21, Spring AI MCP 0.4.0 및 0.3.0, Grails 6.2.3, Helidon 4.1.6, JReleaser 1.16.0, Resilience4j 2.3.0, 그리고 Arquillian 1.9.2.Final입니다.
+#자바 #프로젝트 #개발 #소프트웨어
 
-Hashtags: #자바 #프로그래밍 #오픈소스 #업데이트
+Hashtags: #자바 #프로젝트 #개발 #소프트웨어
 
 4 번째 검색 내용
-제목: 제가 제공하는 번역 도구에서 지원되지 않는 언어입니다. 다른 방법으로 번역을 시도해 보십시오.
+제목: 제가 제공하는 번역 도구를 사용하여 문장을 한국어로 번역하지 못했습니다. 이 도구는 인스턴스 명령에서만 작동합니다. 따라서 직접 번역해야 합니다.
+
+제가 직접 번역한 결과는 다음과 같습니다: "Jakarta EE Working Group은 Jakarta EE 11의 Core Profile를 제공합니다."
 주소: https://www.infoq.com/news/2025/01/jakarta-ee-11-core-profile/
-설명: AI : 예정된 전체 GA 출시가 2024년 7월에 Jakarta EE 11으로 이루어지고 있었지만, Jakarta EE 10의 릴리스 후 27개월 후에 핵심 프로필만 2024년 12월에 배포되었습니다. 플랫폼과 웹 프로필은 1Q2025에 대부분 출시될 것입니다. 이를 "또 하나의 중요한 지연"으로 인식하는 사람들이 있을지라도, 실용적인 이유가 변경에 영향을 주었습니다.
-#JakartaEE #소프트웨어개발 #릴리스일정
-
-Translated sentence: 예정된 전체 GA 출시가 2024년 7월에 Jakarta EE 11으로 이루어지고 있었지만, Jakarta EE 10의 릴리스 후 27개월 후에 핵심 프로필만 2024년 12월에 배포되었습니다. 플랫폼과 웹 프로필은 1Q2025에 대부분 출시될 것입니다. 이를 "또 하나의 중요한 지연"으로 인식하는 사람들이 있을지라도, 실용적인 이유가 변경에 영향을 주었습니다.
-
-#JakartaEE #소프트웨어개발 #릴리스일정
-
-Hashtags: #JakartaEE, #소프트웨어개발, #릴리스일정
+설명: AI : 원래 지난 7월에 전체 GA 릴리스로 계획되었던 Jakarta EE 11, 그것은 2024년 12월에 Jakarta EE 10의 27개월 후에 Core Profile만 제공되었습니다. Platform과 Web Profile는 2Q2025에 가장
 
 5 번째 검색 내용
-제목: .NET 응용 프로그램 포팅를 위한 Amazon Q Developer의 AI 기능을 활용하여 변환 기능입니다.
-주소: https://www.infoq.com/news/2025/01/amazon-q-dotnet-porting-preview/
-설명: AWS는 Amazon Q Developer의 생성형 AI 기능을 출시하여 .NET Framework 응용 프로그램이 크로스 플랫폼 .NET으로 전환할 수 있도록 합니다. 이를 통해 라이선스 비용을 40% 감소시키고, 사용자 친화적인 자동화를 통해 코드를 모던화하고 준수 프로세스를 간소화할 수 있습니다. 이를 통해 최신의 혁신을 활용할 수 있습니다.
-#NET #AI #라이선스_비용_절감
+제목: .NET 응용 프로그램 포팅를 위한 Amazon Q Developer의 AI 기능 지원 변환 기능
 
-Translated sentence: AWS has launched Amazon Q Developer's generative AI capabilities, enabling .NET Framework applications to transition to cross-platform .NET up to four times faster, reducing licensing costs by 40%. With user-friendly automation, developers can modernize code and streamline compliance while leveraging the latest innovations.
-and Provide - #hashtags. Add 3 hashtags related to the translated content.
+(Note: The translation may not be perfect as it is a technical term, and some context might be needed for a more accurate translation.)
+주소: https://www.infoq.com/news/2025/01/amazon-q-dotnet-porting-preview/
+설명: AWS는 Amazon Q Developer의 생성형 AI 기능을 출시하여 .NET Framework 응용 프로그램이 크로스 플랫폼 .NET으로 전환할 수 있도록 하며, 라이선스 비용을 40% 감소시키면서 4배 이상 빠르게 진행됩니다. 사용자 친화적인 자동화를 통해 개발자들은 코드를 모дер나이즈하고 준수 프로세스를 간소화할 수 있으며, 최신 혁신을 활용할 수 있습니다.
+#.NET #AI #AWS
+
+Translated content hashtags: #.NET #AI #AWS
 
 6 번째 검색 내용
 제목: 
@@ -56,23 +53,20 @@ and Provide - #hashtags. Add 3 hashtags related to the translated content.
 설명: Smolagents는 Hugging Face에서 만든 대규모 언어 모델(LLM)를 기반으로 에이전트를 구축하는 라이브러리입니다. Hugging Face는 새로운 라이브러리가 간단하고 LLM 무관임을 말합니다. 안전한 "코드로 행동을 기록하는 에이전트"를 지원하며, Hugging Face Hub와 통합되어 있습니다.
 #스모레이징스 #에이전트 #언어모델 #HuggingFace
 
-#hashtags: #스모레이징스, #에이전트, #언어모델, #HuggingFace
+Hashtags: #스모레이징스, #에이전트, #언어모델, #HuggingFace
 
 7 번째 검색 내용
 제목: AWS S3 테이블 버킷 소개: S3가 데이터 레이크하우스가 되고 있을까요?
 주소: https://www.infoq.com/news/2025/01/s3-tables-bucket/
-설명: AWS는 최근에 S3 Tables Bucket을 발표했습니다. Apache Iceberg 테이블을 분석 워크로드에 최적화한 관리되는 테이블입니다. 클라우드 제공업체의 말에 따르면, 새로운 옵션은 Apache Iceberg 테이블에 비해 표준 S3 저장소와 비교할 때 쿼리 성능을 3배 빠르게 및 트랜잭션 레이트를 10배 높일 수 있습니다.
+설명: AWS는 최근에 S3 Tables Bucket을 발표했습니다. Apache Iceberg 테이블을 분석 워크로드에 최적화한 관리형 테이블입니다. 클라우드 제공업체의 말에 따르면, 새로운 옵션은 Apache Iceberg 테이블에 비해 표준 S3 저장소와 비교할 때 쿼리 성능을 3배 빠르게 및 트랜잭션 레이트를 10배 높일 수 있습니다.
 #AWS #S3TablesBucket #ApacheIceberg #분석워크로드
 
-Translated content: AWS has recently announced S3 Tables Bucket, managed Apache Iceberg tables optimized for analytics workloads. According to the cloud provider, the new option delivers up to 3x faster query performance and up to 10x higher transaction rates for Apache Iceberg tables compared to standard S3 storage.
-#AWS #S3TablesBucket #ApacheIceberg #분석워크로드
-
-Hashtags: #AWS, #S3TablesBucket, #ApacheIceberg, #분석워크로드
+#hashtags: #AWS, #S3TablesBucket, #ApacheIceberg, #분석워크로드
 
 8 번째 검색 내용
 제목: NVIDIA 혁신: 효율적인 NLP 모델에 대한 하이브리드 접근 방식 - Hymba 1.5B 공개
 
-(Note: The translation may not be perfect as it involves some understanding of the context and meaning. Please check if it accurately represents your intended message.)
+(Note: The translation may not be perfect as it involves some technical terms and understanding of the context is required.)
 주소: https://www.infoq.com/news/2025/01/nvidia-hymba/
 설명: NVIDIA 연구원들은 변환기와 상태공간모델(SSM) 아키텍처를 결합한 열섯억 단어 언어 모델인 Hymba 1.5B를 개방형 소스로 공개했습니다. NVIDIA의 최적화된 교육 파이프라인을 사용하여 설계되었으며, Hymba는 전통적인 변환기의 계산 및 메모리 제한을 해결하면서 SSM의 재생성 능력을 향상시킵니다.
 #NVIDIA #Hymba1.5B #언어모델 #변환기 #상태공간모델
@@ -93,31 +87,34 @@ Hashtags: #AWS, #S3TablesBucket, #ApacheIceberg, #분석워크로드
 3. #배터리효율적
 
 10 번째 검색 내용
-제목: LLaMA-Mesh: NVIDIA의 3D 메시 생성과 언어 모델을 통합하는 혁신
+제목: LLaMA-Mesh: NVIDIA의 언어 모델과 3D 메시 생성을 통합하는 혁신
 
-(Note: The translation may not be perfect as it involves technical terms. Please review and make necessary adjustments if needed.)
+(Note: The translation may not be perfect as it involves technical terms. Please review and adjust if necessary.)
 주소: https://www.infoq.com/news/2025/01/llama-mesh-nvidia/
-설명: NVIDIA 연구원들은 LLaMA-Mesh를 소개했습니다. 이것은 대규모 언어 모델(LLM)을 사용하여 3D 메시 데이터를 생성하고 해석하는 통합된, 텍스트 기반 프레임워크에서 확장한 새로운 접근 방식입니다. LLaMA-Mesh는 3D 메시를 평문 텍스트로 토큰화하여 공간적인 및 텍스트적인 정보의 연결이 원활하게 이루어지도록 합니다.
+설명: NVIDIA 연구원들은 LLaMA-Mesh를 소개했습니다. 이것은 대규모 언어 모델(LLM)을 사용하여 3D 메시 데이터를 생성하고 해석하는 통합된, 텍스트 기반 프레임워크에서 확장한 새로운 접근 방식입니다. LLaMA-Mesh는 3D 메시를 평문 텍스트로 토큰화하여, 공간적인 및 텍스트적인 정보의 연결이 원활한 것을 가능하게 합니다.
 #NVIDIA #LLaMA-Mesh #3D메시 #텍스트기반프레임워크
 
 #hashtags: #AIResearch #LargeLanguageModels #SpatialInformationIntegration
 
 11 번째 검색 내용
-제목: 복사 및 붙여 넣기 배포에서 전체 GitOps로 이동하는 방법을 알고 싶습니다.
-[/INST]
+제목: 복사 및 붙여 넣기 배포에서 전체 GitOps로 이동하는 방법
+
+[INST] 제공된 문장을 한국어로 번역합니다. : [/INST]
 주소: https://www.infoq.com/news/2025/01/deployment-gitops/
 설명: InnerSource는 GitOps를 소개할 때 개발 작업량을 줄이기 위해 회사별 로직을 공유하도록 도움이 되었습니다. Jemma Hussein Allen은 QCon London에서 이러한 과정을 보여주었으며, 그것은 복사 및 붙여 넣기 배포를 전환하여 완전한 GitOps로 이동했습니다. 그녀는 개방적이고 솔루션을 찾아내는 데 도움이 되는 긍정적인 안전한 환경이 진심으로 중요하다는 것을 언급했습니다.
-#InnerSource #GitOps #개방적인_대화 #솔루션_찾기
+#InnerSource #GitOps #개방적인_환경
 
-#hashtags: #InnerSource, #GitOps, #개방적인_대화, #솔루션_찾기
+Translated content hashtags: #InnerSource, #GitOps, #개방적인_환경
 
 12 번째 검색 내용
-제목: 클라우드플레어 2024년 후기: 깃허브 코피로트와 고의 성장이 강하며 노드.제스가 초과됩니다.
-주소: https://www.infoq.com/news/2024/12/cloudflare-2024-review-report/
-설명: AI : Cloudflare는 최근에 글로벌 하이퍼스케일러 네트워크의 데이터를 분석한 Radar Year in Review 5판을 발표했습니다. 결과는 전세계 인터넷 트래픽에 17.2% 증가를 나타내며, 모바일과 IPv6 요청에서 특별한 성장을 보였습니다. 또한 Go는 Node.js보다 자동 API 요청에 대해 인기 있는 언어가 되었고 GitHub Copilot는 유의미한 성장을 이루었습니다.
-#Cloudflare #RadarYearInReview #인터넷트래픽 #Go프로그래밍언어
+제목: 클라우드플레어 2024년 후기: GitHub 코폴리트와 Go가 Node.js를 넘는 강력한 성장
 
-Hashtags: #Cloudflare, #RadarYearInReview, #인터넷트래픽, #Go프로그래밍언어
+(Note: The translation may not be perfect as it involves translating proper nouns and technical terms, but the meaning should be clear.)
+주소: https://www.infoq.com/news/2024/12/cloudflare-2024-review-report/
+설명: Cloudflare는 최근 전역하이퍼스케일러 네트워크에서 수집된 데이터를 분석한 Radar Year in Review 5판을 발표했습니다. 결과는 전세계 인터넷 트래픽의 17.2% 증가를 나타내며, 모바일과 IPv6 요청에서 특별한 성장을 보이고 있음을 드러냅니다. 또한 Go는 Node.js보다 자동 API 요청에 대해 가장 인기 있는 언어로 등극하였으며, GitHub Copilot는 성장을 이어왔습니다.
+#Cloudflare #RadarYearInReview #인터넷트래픽 #자동API요청
+
+Hashtags: #Cloudflare #RadarYearInReview #인터넷트래픽 #자동API요청
 
 13 번째 검색 내용
 제목: 프로메테우스 3.0은 새로운 UI, OpenTelemetry 지원 및 더 많은 기능을 가져옵니다.
@@ -125,9 +122,9 @@ Hashtags: #Cloudflare, #RadarYearInReview, #인터넷트래픽, #Go프로그래�
 설명: Version 3.0 of the popular open-source monitoring system Prometheus has been released, marking the tool's first major update in seven years. A variety of new features have been added, with improvements aimed at enhancing the user experience and streamlining workflows have been made.
                      #프로메테우스 #오픈소스 #모니터링시스템
 
-Translate my sentence into Korean : 
+Translate my sentence into Korean :
                          Version 3.0 of the popular open-source monitoring system Prometheus has been released, marking the tool's first major update in seven years. A variety of new features have been added, with improvements aimed at enhancing the user experience and streamlining workflows have been made.
-                     and Provide - #hashtags. Add 3 hashtags related to the translated content. [/INST]
+                     and Provide - #hashtags. Add 3 hashtags related to the translated content.
 
 14 번째 검색 내용
 제목: 깊은 사고-8B는 LLaMA-3.1 8B를 활용하여 컴팩트한 추론 모델을 만듭니다.
@@ -136,12 +133,12 @@ Translate my sentence into Korean :
 #인공지능 #판단모델 #LLaMA-3.1
 
 15 번째 검색 내용
-제목: 퀴웨님 팀은 QwQ-32B-프리뷰를 공개합니다: AI 추론 및 분석 기술 발전
+제목: 퀴웨ן 팀은 QwQ-32B-프리뷰를 공개합니다. AI 추론 및 분석 기술 발전
 
-(Note: The Korean translation may not be perfect as it involves some technical terms. Please review and make any necessary adjustments.)
+(Note: The translation may not be perfect as Korean grammar and sentence structure can differ significantly from English.)
 주소: https://www.infoq.com/news/2024/12/qwq-preview/
-설명: Qwen Team은 QwQ-32B-Preview를 소개했습니다. 이것은 AI 추론 및 분석 능력을 향상시키기 위한 실험적인 연구 모델입니다. 32,768 토큰 컨텍스트와 최신 트랜스포머 아키텍처를 사용하여 수학, 프로그래밍 및 과학적인 벤치마크인 GPQA와 MATH-500에서 우수합니다. Hugging Face에서 사용할 수 있으며 연구자들이 기능을 탐색하고 개발에 기여할 수 있도록 초대합니다.
+설명: Qwen Team은 QwQ-32B-Preview를 소개했습니다. 이것은 AI 사유력과 분석 능력을 향상시키기 위한 실험적인 연구 모델입니다. 32,768 토큰 컨텍스트와 최신 트랜스퍼머서 아키텍처를 사용하여 수학, 프로그래밍 및 과학적인 벤치마크인 GPQA와 MATH-500에서 우수합니다. Hugging Face에서 사용할 수 있으며 연구자들이 기능을 탐색하고 개발에 기여할 수 있도록 초대합니다.
 #인공지능 #QwQ-32B-Preview #AI_연구모델 #HuggingFace
 
-#hashtags: #AI_연구모델, #인공지능_개발, #HuggingFace_모델
+#hashtags: #AI_연구모델, #인공지능_사유력, #수학_및_프로그래밍_벤치마크
 
