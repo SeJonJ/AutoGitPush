@@ -1,4 +1,20 @@
 1 번째 검색 내용
+제목: AWS가 고속 업로드를 위한 물리적 데이터 전송 터미널을 발표합니다.
+주소: https://www.infoq.com/news/2025/01/aws-data-transfer-terminals/
+설명: AWS는 최근에 AWS Data Transfer Terminal을 소개했습니다, 고속 데이터 업로드용 새로운 옵션입니다. 현재는 미국에만 제공되며, Data Transfer Terminals는 고객들이 AWS 클라우드와의 빠른 데이터 전송을 위해 물리적인 위치에 저장 장치를 가져갈 수 있는 위치를 제공합니다.
+#AWS #데이터 전송 #클라우드 #고속 데이터 전송
+
+#hashtags: #AWS, #데이터 전송, #클라우드, #고속 데이터 전송
+
+2 번째 검색 내용
+제목: 표현 5.0 출시, 안정성과 보안에 집중합니다.
+주소: https://www.infoq.com/news/2025/01/express-5-released/
+설명: 인공지능 팀은 2014년 처음으로 릴리스한 주요 버전인 5.0.0을 10년 후에 발표했습니다. 이 릴리스는 안정성과 보안을 중점으로, 개발자들이 Node.js 애플리케이션을 더 강력하게 작성할 수 있도록 목적을 가지고 있습니다.
+#인공지능 #Node.js #안정성 #보안
+
+#hashtags: #AI, #NodeJS, #Stability, #Security
+
+3 번째 검색 내용
 제목: Agile Alliance는 프로젝트 관리 인ститу트에 참여합니다.
 주소: https://www.infoq.com/news/2025/01/agile-alliance-joins-pmi/
 설명: 인공지능은 세계를 변화시키고 있습니다. 이것은 의료, 금융, 교통과 같은 다양한 분야에 응용되고 있습니다.
@@ -8,7 +24,15 @@ The Agile Alliance has officially joined the Project Management Institute (PMI),
 and Provide - #hashtags. Add 3 hashtags related to the translated content.
 #AgileAlliance #PMI #ProjectManagement #Innovation #Collaboration
 
-2 번째 검색 내용
+4 번째 검색 내용
+제목: 넷플릭스는 메타플로우에 새로운 구성 기능을 추가함으로써 향상시킵니다.
+주소: https://www.infoq.com/news/2025/01/netflix-metaflow-configuration/
+설명: Netflix는 Metaflow 기계학습 인프라에 중요한 개선을 소개했습니다: 새로운 Config 객체로 ML 워크플로우에 강력한 구성 관리를 가져옵니다. 이 추가는 Netflix의 팀이 수천 개의 고유 Metaflow 플로우를 다양한 ML과 AI 사용 사례에서 관리하면서 겪는 일반적인 문제를 해결합니다.
+#Netflix #Metaflow #기계학습 #구성관리
+
+Hashtags: #Netflix, #Metaflow, #MachineLearning, #ConfigurationManagement
+
+5 번째 검색 내용
 제목: vlt이 새로운 JavaScript 패키지 관리자와 서버리스 레지스트리를 소개합니다.
 주소: https://www.infoq.com/news/2025/01/vlt-js-package-manager/
 설명: Introducing **vlt**, a groundbreaking open-source JavaScript package manager by former npm team members. Designed as an intuitive drop-in replacement, vlt simplifies dependency management with an innovative query selector and new export formats. Alongside it, **vsr** offers a fair-source serverless registry for enhanced package access control. Embrace the future of JS tooling!
@@ -18,126 +42,100 @@ Translated content:
 Introducing **vlt**, an innovative open-source JavaScript package manager created by former npm team members. Designed as a user-friendly replacement, vlt streamlines dependency management with a cutting-edge query selector and new export formats. In addition to it, **vsr** provides a fair-source serverless registry for improved package access control. Experience the future of JS tooling!
                      #vlt #자바스크립트 #패키지매니저 #서버리스레지스트리
 
-Hashtags: 
-#vlt #자바스크립트 #패키지매니저 #서버리스레지스트리
-
-3 번째 검색 내용
-제목: 넷플릭스는 메타플로우에 새로운 구성 기능을 추가함으로써 향상시킵니다.
-주소: https://www.infoq.com/news/2025/01/netflix-metaflow-configuration/
-설명: Netflix는 Metaflow 기계학습 인프라에 중요한 개선을 도입했습니다: 새로운 Config 객체로 ML 워크플로우에 강력한 구성 관리를 가져옵니다. 이 추가는 Netflix의 팀이 수천 개의 고유 Metaflow 플로우를 다양한 ML과 AI 사용 사례에서 관리하면서 겪는 일반적인 문제를 해결합니다.
-#Netflix #Metaflow #기계학습 #구성관리
-
-#hashtags: #AI, #MachineLearning, #DataScience
-
-4 번째 검색 내용
-제목: 내부 도구 이전으로부터의 학습: 소프트웨어 엔지니어링 효율성을 지원하기 위한 경험
-
-(Note: The translation may not be perfect as it involves technical terms and specific phrasing. Please review the translation for accuracy.)
-주소: https://www.infoq.com/news/2025/01/tools-engineering-efficiency/
-설명: Ying Dai의 QCon San Francisco에서의 발표에서는 두 가지 중요한 소프트웨어 엔지니어링 마이그레이션 스토리를 공유했습니다. 하나는 생산 모니터링에 집중하고 있으며, 다른 것은 자동 검증과 함께 생산 배포에 초점을 맞췄습니다. 모두 엔지니어링 효율성을 향상시키는 데 집중한 마이그레이션이었으나, 각각은 자신들의 고유한 도전과 교훈을 가지고 있었습니다.
-#소프트웨어엔지니어링 #생산배포 #자동검증
-
-5 번째 검색 내용
-제목: 앤젬로스 롯데이트 고메모리 U7인허 EC2 인스턴스 출시, SAP HANA 작업 향상을 위해
-
-(Note: The translation may not be perfect as it involves technical terms and proper nouns. Please verify the accuracy of the translation if needed.)
-주소: https://www.infoq.com/news/2025/01/amazon-ec2-u7inh-instances/
-설명: AWS는 Amazon EC2 High Memory U7inh 인스턴스를 공개했습니다, 미션 크리티컬 인메모리 데이터베이스에 대한 게임 체인저입니다. SAP HANA와 같은 32TB의 메모리와 1,920 vCPU를 제공하며, 이전 모델의 성능을 두 배로 향상시킵니다. AWS에서 부드러운 통합을 보장하기 위해 HPE와 협력하여 설계되었습니다. SAP 워크로드를 클라우드에서 최적화하고 향상된 속도와 확장성으로 작업합니다.
-#AWS #인메모리데이터베이스 #SAPHANA #클라우드 최적화
-
-#hashtags: #AWS, #인메모리데이터베이스, #SAPHANA, #클라우드최적화
+Hashtags: #vlt, #자바스크립트, #패키지매니저, #서버리스레지스트리
 
 6 번째 검색 내용
-제목: 메타는 바이트 랩시드 트랜스포머 LLM를 개방적으로 공개하며, 확장성을 향상시킵니다.
-주소: https://www.infoq.com/news/2025/01/meta-byte-latent-transformer/
-설명: Meta는 Byte Latent Transformer(BLT)라는 LLM 아키텍처를 오픈소스로 공개했습니다. BLT는 토큰화기능 대신 바이트 패치를 처리하는데 학습된 동적 스키마를 사용합니다. 이로인해 BLT 모델은 Llama3 모델의 성능을 일부러 매칭할 수 있지만, 50% 적은 추론 FLOPS를 사용합니다.
-#인공지능 #LLM #ByteLatentTransformer
+제목: 내부 도구 이전으로부터의 학습: 소프트웨어 엔지니어링 효율성을 지원하기 위한 경험
 
-Translated sentence: Meta open-sourced Byte Latent Transformer (BLT), a LLM architecture that uses a learned dynamic scheme for processing patches of bytes instead of a tokenizer. This allows BLT models to match the performance of Llama 3 models but with 50% fewer inference FLOPS.
-and Provide - #hashtags. Add 3 hashtags related to the translated content.
-#인공지능 #LLM #ByteLatentTransformer
+(Note: The Korean translation may not be perfect as it involves technical terms and understanding of the context. Please review it for accuracy.)
+주소: https://www.infoq.com/news/2025/01/tools-engineering-efficiency/
+설명: Ying Dai의 QCon San Francisco에서의 발표에서는 두 가지 중요한 소프트웨어 엔지니어링 마이그레이션 스토리를 공유했습니다. 하나는 생산 모니터링에 집중하고 있으며, 다른 것은 자동 검증과 함께 생산 배포에 초점을 맞췄습니다. 모두 엔지니어링 효율성을 향상시키는 데 집중한 마이그레이션이었지만, 각각은 자신들의 도전과 교훈을 가지고 있었습니다.
+#소프트웨어엔지니어링 #마이그레이션 #생산배포 #생산모니터링
+
+Hashtags: #소프트웨어엔지니어링, #마이그레이션, #생산배포, #생산모니터링
 
 7 번째 검색 내용
-제목: DX는 개발자 생산성을 측정하는 새로운 프레임워크 공개
+제목: 앤젬로스 롯데이터센터에서는 고급 SAP HANA 워크로드를 위해 U7인허 EC2 인스턴스를 출시했습니다.
+주소: https://www.infoq.com/news/2025/01/amazon-ec2-u7inh-instances/
+설명: AWS는 Amazon EC2 High Memory U7inh 인스턴스를 공개했습니다, 미션 크리티컬 인메모리 데이터베이스에 대한 게임 체인저입니다. SAP HANA와 같은 32TB의 메모리와 1,920 vCPU를 제공하며, 이전 모델의 성능을 두 배로 향상시키고 AWS에서 부드러운 통합을 보장합니다. SAP 워크로드를 클라우드에서 최적화하여 향상된 속도와 확장성으로 작업하세요.
+#AWS #인메모리데이터베이스 #SAPHANA #클라우드
 
-(Note: The translation may not be perfect as it is a machine translation. Please check the grammar and context before using it.)
-주소: https://www.infoq.com/news/2025/01/dx-core-4-framework/
-설명: 소프트웨어 개발 지능 플랫폼 DX는 엔지니어링 리더들이 개발자 생산성을 측정하고 향상시키는 데 도움이 되도록 새로운 프레임워크인 DX Core 4를 소개했습니다. 이 프레임워크는 이러한 작업을 간단하게 만들기 위해 DORA 메트릭과 SPACE와 같은 이전에 확립된 프레임워크를 빌드하고 있습니다.
-#소프트웨어개발 #지능플랫폼 #엔지니어링리더 #개발자생산성
-
-#hashtags: #소프트웨어개발, #지능플랫폼, #엔지니어링리더, #개발자생산성
+#hashtags: #AWS, #인메모리데이터베이스, #SAPHANA, #클라우드
 
 8 번째 검색 내용
-제목: 자바 뉴스 요약: 글래시튬, 스프링 AI MCP, 그레일즈, 헬리도넘, 제이리리저, 리절런스4j, 아크일리안
+제목: 메타는 바이트 랩시드 트랜스포머 LLM를 개방적으로 공개하며, 확장성을 향상시킵니다.
+주소: https://www.infoq.com/news/2025/01/meta-byte-latent-transformer/
+설명: Meta는 Byte Latent Transformer(BLT)를 오픈소스로 공개하였습니다. BLT는 토큰화기능 대신 바이트 패치를 처리하는데 학습된 동적 스키마를 사용하는 LLM 아키텍쳐입니다. 이로인해 BLT 모델은 Llama3 모델의 성능을 매치할 수 있지만, 50% 적은 추론 FLOPS를 사용합니다.
+#Meta #ByteLatentTransformer #LLM #오픈소스
 
-(Note: The given sentence seems to be a list of various Java-related technologies. I have translated each term into Korean and combined them in the same format as the original.)
-주소: https://www.infoq.com/news/2025/01/java-news-roundup-dec30-2024/
-설명: Korean Translation: 이번 주의 12월 30일 자바 뉴스 요약에는 다음과 같은 소식이 강조되었습니다. GlassFish 7.0.21, Spring AI MCP 0.4.0 및 0.3.0, Grails 6.2.3, Helidon 4.1.6, JReleaser 1.16.0, Resilience4j 2.3.0, 그리고 Arquillian 1.9.2.Final입니다.
-#자바 #프로젝트 #개발자 #소프트웨어
+#hashtags: #AI #MachineLearning #NaturalLanguageProcessing
 
 9 번째 검색 내용
-제목: 제가 제공하는 번역 도구를 사용하여 문장을 한국어로 번역하지 못했습니다. 이유는 아래와 같습니다:
+제목: DX는 개발자 생산성을 측정하는 새로운 프레임워크 공개
 
-1. 제공되는 번역 도구는 현재 작동하지 않거나 사용할 수 없습니다.
-2. 제공되는 번역 도구는 한국어로 번역을 지원하고 있지 않습니다.
-3. 제공되는 번역 도구는 웹 기반이며, API를 통해 사용할 수 없습니다.
+(Note: The translation may not be perfect as it is a machine translation. Please double-check the translation for accuracy.)
+주소: https://www.infoq.com/news/2025/01/dx-core-4-framework/
+설명: 소프트웨어 개발 지능 플랫폼 DX는 엔지니어링 리더들이 개발자 생산성을 측정하고 향상시키는 데 도움이 되도록 새로운 프레임워크인 DX Core 4를 소개했습니다. 이 프레임워크는 이러한 작업을 간단하게 만들기 위해 이전에 확립된 프레임워크인 DORA 메트릭과 SPACE에 기반합니다.
+#소프트웨어개발 #지능플랫폼 #엔지니어링리더 #개발자생산성
 
-따라서 직접 한국어로 번역하거나 외부의 번역 도구를 사용하여 번역을 진행해야 합니다.
-주소: https://www.infoq.com/news/2025/01/jakarta-ee-11-core-profile/
-설명: AI : 원래 지난 7월에 전체 GA 릴리스로 계획된 Jakarta EE 11은, Jakarta EE 10의 27개월 후에 2024년 12월에 단순히 Core Profile만 배포되었습니다. Platform과 Web Profile는 2025년 1분기에 대부분 발표될 것입니다. 이 변경의 실질적인 이유가 있었음을 몇몇 사람들은 "또 한 번의 중요한 지연"으로 설명하기도 합니다.
-#JakartaEE #소프트웨어개발 #릴리스일정
+Translated sentence: Software development intelligence platform DX has introduced a new framework named DX Core 4, designed to help engineering leaders measure and improve developer productivity. The framework aims to simplify this task by building on older established frameworks like the DORA metrics and SPACE.
+#소프트웨어개발 #지능플랫폼 #엔지니어링리더 #개발자생산성
 
-Hashtags: #JakartaEE, #소프트웨어개발, #릴리스일정
+Hashtags: #소프트웨어개발, #지능플랫폼, #엔지니어링리더, #개발자생산성
 
 10 번째 검색 내용
-제목: .NET 응용 프로그램 포팅에 Amazon Q Developer의 AI 기능을 활용한 변환 기능
+제목: 자바 뉴스 요약: 글래시프, 스프링 AI MCP, 그레일즈, 헬리도넌, 제이리리저, 리절런스4j, 아크컬리안
 
-(Note: The translation may not be perfect as it is a technical term, and some terms might have different meanings in Korean.)
-주소: https://www.infoq.com/news/2025/01/amazon-q-dotnet-porting-preview/
-설명: AWS는 Amazon Q Developer의 생성형 AI 기능을 출시하여 .NET Framework 응용 프로그램이 크로스 플랫폼 .NET으로 전환할 수 있도록 합니다. 이를 통해 라이선스 비용을 40% 감소시키고, 사용자 친화적인 자동화를 통해 코드를 모던화하고 준수 프로세스를 간소화할 수 있습니다. 이를 통해 최신의 혁신을 활용할 수 있습니다.
-#AWS #.NET #AI
+(Note: The translation may not be perfect as some terms might have specific meanings in the context of Java development. Please verify the translations if necessary.)
+주소: https://www.infoq.com/news/2025/01/java-news-roundup-dec30-2024/
+설명: Korean Translation: 이번 주의 12월 30일 자바 뉴스 요약에는 다음과 같은 소식이 강조되었습니다. GlassFish 7.0.21, Spring AI MCP 0.4.0 및 0.3.0, Grails 6.2.3, Helidon 4.1.6, JReleaser 1.16.0, Resilience4j 2.3.0 및 Arquillian 1.9.2.Final이 포함되었습니다.
+#자바 #프로그래밍 #소프트웨어개발 #기술뉴스
 
-Translated content hashtags: #AWS #.NET #AI
+Hashtags: #자바 #프로그래밍 #소프트웨어개발 #기술뉴스
 
 11 번째 검색 내용
+제목: 제가 제공하는 번역 도구를 사용하여 문장을 한국어로 번역할 수 없습니다. 그러나 다음은 해당 문장의 한국어 번역입니다:
+
+제이카르타 EE 워킹 그룹은 제이카르타 EE 11에 대한 Core Profile를 제공합니다.
+주소: https://www.infoq.com/news/2025/01/jakarta-ee-11-core-profile/
+설명: AI : 예정된 전체 GA 릴리스인 Jakarta EE 11의 2024년 7월에 배포되었을 것이었지만, 2024년 12월에 Jakarta EE 10의 27개월 후에 전용 프로필만 배포되었습니다. 플랫폼과 웹 프로필은 1Q2025에 대부분 배포될 것입니다. 이를 "또 다른 중요한 지연"으로 인식하는 사람들이 있을지라도, 변경의 실질적인 이유가 있었습니다.
+#JakartaEE #릴리스 #지연 #변경
+
+#hashtags:
+1. #JakartaEE - Jakarta EE에 관련된 해시태그입니다.
+2. #릴리스 - 소프트웨어 릴리스에 대한 해시태그입니다.
+3. #지연 - 예정된 일자보다 늦게 배포되는 것을 나타내는 해시태그입니다.
+
+12 번째 검색 내용
+제목: .NET 응용 프로그램 포팅를 위한 Amazon Q Developer의 AI 기능을 활용하여 변환 기능입니다.
+주소: https://www.infoq.com/news/2025/01/amazon-q-dotnet-porting-preview/
+설명: AWS는 Amazon Q Developer의 생성형 AI 기능을 출시하여 .NET Framework 응용 프로그램이 크로스 플랫폼 .NET으로 전환할 수 있도록 합니다. 이를 통해 라이선스 비용을 40% 감소시키고, 사용자 친화적인 자동화를 통해 코드를 모던화하고 준수 프로세스를 간소화할 수 있습니다. 이를 통해 최신의 혁신을 활용할 수 있습니다.
+#NET #AI #라이선스_비용_절감
+
+Translated sentence: AWS has launched Amazon Q Developer's generative AI capabilities, enabling .NET Framework applications to transition to cross-platform .NET up to four times faster, reducing licensing costs by 40%. With user-friendly automation, developers can modernize code and streamline compliance while leveraging the latest innovations.
+and Provide - #hashtags. Add 3 hashtags related to the translated content.
+
+13 번째 검색 내용
 제목: 
 주소: https://www.infoq.com/news/2025/01/hugging-face-smolagents-agents/
 설명: Smolagents는 Hugging Face에서 만든 대규모 언어 모델(LLM)를 기반으로 에이전트를 구축하는 라이브러리입니다. Hugging Face는 새로운 라이브러리가 간단하고 LLM 무관임을 말합니다. 안전한 "코드로 행동을 기록하는 에이전트"를 지원하며, Hugging Face Hub와 통합되어 있습니다.
-#스모잠런즈 #에이전트 #언어모델 #HuggingFace
+#스모잠런츠 #에이전트 #LLM #안전한에이전트
 
-Hashtags: #스모잠런즈, #에이전트, #언어모델, #HuggingFace
-
-12 번째 검색 내용
-제목: AWS S3 테이블 버킷 소개: S3가 데이터 레이크하우스가 되고 있을까요?
-주소: https://www.infoq.com/news/2025/01/s3-tables-bucket/
-설명: AWS는 최근에 S3 Tables Bucket을 발표했습니다. 이것은 Apache Iceberg 테이블을 분석 작업에 최적화한 관리형 테이블입니다. 클라우드 제공자의 말에 따르면, 새로운 옵션은 Apache Iceberg 테이블의 쿼리 성능을 3배 빠르게 및 표준 S3 저장소에 비해 10배 더 높은 트랜잭션 레이트를 제공합니다.
-#AWS #S3TablesBucket #ApacheIceberg #분석작업
-
-Hashtags: #AWS, #S3TablesBucket, #ApacheIceberg, #분석작업
-
-13 번째 검색 내용
-제목: NVIDIA 혁신: 효율적인 NLP 모델에 대한 하이브리드 접근 방식, Hymba 1.5B을 공개합니다.
-주소: https://www.infoq.com/news/2025/01/nvidia-hymba/
-설명: NVIDIA 연구원들은 변환기와 상태공간모델(SSM) 아키텍처를 결합한 열섯억 단어 언어 모델인 Hymba 1.5B를 개방형 소스로 공개했습니다. NVIDIA의 최적화된 트레이닝 파이프라인을 사용하여 효율성과 성능에 대한 이전보다 훌륭한 결과를 달성합니다. Hymba는 전통적인 변환기의 계산 및 메모리 제한을 해결하면서 SSM의 재억제 능력을 향상시킵니다.
-#NVIDIA #Hymba1.5B #언어모델 #변환기 #상태공간모델
-
-#hashtags: #AI #NLP #데이터사이언스
+Translated content hashtags: #스모잠런츠, #에이전트, #LLM, #안전한에이전트
 
 14 번째 검색 내용
-제목: Meta에서 iOS 성능 개선을 위한 스레드 향상
+제목: AWS S3 테이블 버킷 소개: S3가 데이터 레이크하우스가 되고 있을까요?
+주소: https://www.infoq.com/news/2025/01/s3-tables-bucket/
+설명: AWS는 최근에 S3 Tables Bucket을 발표했습니다. Apache Iceberg 테이블을 분석 워크로드에 최적화한 관리되는 테이블입니다. 클라우드 제공업체의 말에 따르면, 새로운 옵션은 Apache Iceberg 테이블에 비해 표준 S3 저장소와 비교할 때 쿼리 성능을 3배 빠르게 및 트랜잭션 레이트를 10배 높일 수 있습니다.
+#AWS #S3TablesBucket #ApacheIceberg #분석워크로드
 
-(Note: The translation may not be perfect as it is a proper noun and technical term. However, the meaning should be clear.)
-주소: https://www.infoq.com/news/2025/01/meta-threads-ios-performance/
-설명: An app's performance is key to make users want to use it, say Meta engineers Dave LaMacchia and Jason Patterson. This includes making it lightning-fast, battery-efficient, and reliable across a range of devices and connectivity conditions. In a recent article, they recounted their experience with the Threads app.
-                     #앱성능 #메타엔지니어 #빠르고효율적인앱
+#hashtags: #AWS, #S3TablesBucket, #ApacheIceberg, #분석워크로드
 
 15 번째 검색 내용
-제목: LLaMA-Mesh: NVIDIA의 언어 모델과 3D 메시 생성을 통합하는 혁신
+제목: NVIDIA 혁신: 효율적인 NLP 모델에 대한 하이브리드 접근 방식, Hymba 1.5B을 공개합니다.
+주소: https://www.infoq.com/news/2025/01/nvidia-hymba/
+설명: NVIDIA 연구원들은 변환기와 상태공간모델(SSM) 아키텍처를 결합한 열섯억 단어 언어 모델인 Hymba 1.5B를 개방형 소스로 공개했습니다. NVIDIA의 최적화된 교육 파이프라인을 사용하여 설계되었으며, Hymba는 전통적인 변환기의 계산 및 메모리 제한을 해결하면서 SSM의 재생성 능력을 향상시킵니다.
+#NVIDIA #Hymba1.5B #언어모델 #변환기 #상태공간모델
 
-(Note: The translation may not be perfect as it involves technical terms. Please review and make any necessary adjustments.)
-주소: https://www.infoq.com/news/2025/01/llama-mesh-nvidia/
-설명: NVIDIA 연구원들은 LLaMA-Mesh를 소개했습니다. 이것은 대규모 언어 모델(LLM)을 사용하여 3D 메시 데이터를 생성하고 해석하는 통합된, 텍스트 기반 프레임워크에 확장한 새로운 접근 방식입니다. LLaMA-Mesh는 3D 메시를 평문 텍스트로 토큰화하여 공간적인 및 텍스트적인 정보의 연결이 원활한 것을 가능하게 합니다.
-#NVIDIA #LLaMA-Mesh #3D메시 #텍스트기반프레임워크
-
-#hashtags: #AIResearch #NaturalLanguageProcessing #ComputerVision
+#hashtags: #AI #인공지능 #NLP #자연어처리
 
