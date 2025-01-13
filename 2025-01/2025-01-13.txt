@@ -1,0 +1,136 @@
+1 번째 검색 내용
+제목: 구글이 견인코드 지원을 확장하여 아틀라시안, 깃허브, 그리고 깃랩에 대한 지원을 추가합니다.
+주소: https://www.infoq.com/news/2025/01/gemini-code-assist-tools/
+설명: Google 최근에는 Gemini Code Assist에서 제3자 도구에 대한 지원을 추가했습니다. Atlassian Rovo, GitHub, GitLab, Google Docs, Sentry, Snyk과 같은 널리 사용되는 소프트웨어 도구의 통합을 IDE 내에서 개인 AI 助手와 직접적으로 테스트할 수 있게 되었습니다.
+#개발자 #AI #IDE #통합 #소프트웨어_도구
+
+#hashtags: #developer, #AI, #IDE, #integration, #software_tools
+
+2 번째 검색 내용
+제목: Nvidia 네모트론 모델은 AI 에이전트 개발을 가속화하기 위해 목표를 지니고 있습니다.
+주소: https://www.infoq.com/news/2025/01/nvidia-nemotron-agents/
+설명: Nvidia는 AI 에이전트를 사용하는 작업 흐름을 특별히 강조한 높은 수준의 자연어 모델인 Llama Nemotron 대규모 언어 모델(LLM)과 Cosmos Nemotron 비전 언어 모델(VLM)을 출시했습니다. 이러한 모델은 고객 지원, 사기 탐지, 제품 공급 체인 최적화 등과 같은 다양한 분야에서 활용됩니다. Nemotron 가족의 모델은 Nano, Super, Ultra와 같이 다양한 시스템의 요구 사항을 더 잘 적합하게 만들어졌습니다.
+#Nvidia #AI_에이전트 #언어모델 #비전언어모델
+#hashtags: #인공지능 #높은수준의자연어모델 #비전언어처리
+
+3 번째 검색 내용
+제목: AWS가 고속 업로드를 위한 물리적 데이터 전송 터미널 발표
+
+(Note: The translation may not be perfect as it is a direct translation. In Korean, the subject usually comes first, followed by the object and then the verb. So, the sentence can also be translated as "물리적 데이터 전송 터미널을 고속 업로드를 위해 발표한 AWS" which means "AWS announced a physical data transfer terminal for high-speed uploads.")
+주소: https://www.infoq.com/news/2025/01/aws-data-transfer-terminals/
+설명: AWS는 최근에 AWS Data Transfer Terminal을 소개했습니다, 고속 데이터 업로드용 새로운 옵션입니다. 현재는 미국에만 제공되며, Data Transfer Terminals는 고객들이 AWS 클라우드와의 빠른 데이터 전송을 위해 물리적인 위치에 저장 장치를 가져갈 수 있는 것입니다.
+#AWS #DataTransferTerminal #고속데이터전송 #클라우드서비스
+
+Translated sentence: AWS has recently introduced AWS Data Transfer Terminal, a new option for high-speed data uploads. Currently available only in the US, Data Transfer Terminals provide a physical location where customers can bring their storage devices for fast data transfer to and from the AWS cloud.
+#AWS #DataTransferTerminal #HighSpeedDataUploads #CloudServices
+
+4 번째 검색 내용
+제목: 표현 5.0 출시, 안정성과 보안에 집중합니다.
+주소: https://www.infoq.com/news/2025/01/express-5-released/
+설명: 인공지능 팀은 2014년 처음으로 릴리즈한 주요 버전인 5.0.0을 10년 후에 발표했습니다. 이 릴리즈는 안정성과 보안을 중점으로, 개발자들이 Node.js 애플리케이션을 더 강력하게 작성할 수 있도록 목적을 가지고 있습니다.
+#인공지능 #Node.js #안정성 #보안
+
+Translated sentence: The Express.js team has released version 5.0.0, 10 years after the first major version release in 2014. The release focuses on stability and security with a view to enabling developers to write more robust Node.js applications.
+#인공지능 #Node.js #안정성 #보안
+
+5 번째 검색 내용
+제목: Agile Alliance는 프로젝트 관리 인ститу트에 가입합니다.
+주소: https://www.infoq.com/news/2025/01/agile-alliance-joins-pmi/
+설명: 인공지능은 세계를 변화시키고 있습니다. 이것은 의료, 금융, 교통과 같은 다양한 분야에 응용되고 있습니다.
+#인공지능 #의료 #금융 #교통
+
+The Agile Alliance has officially joined the Project Management Institute (PMI), forming the PMI Agile Alliance. The partnership aims to enhance global project management by integrating Agile principles with PMI's resources and reach. While many celebrate the opportunities for collaboration, development and innovation, critics express concerns about the potential dilution of Agile values.
+and Provide - #hashtags. Add 3 hashtags related to the translated content.
+#AgileAlliance #PMI #ProjectManagement #Innovation #Collaboration
+
+6 번째 검색 내용
+제목: vlt이 새로운 JavaScript 패키지 관리자와 서버리스 레지스트리를 소개합니다.
+주소: https://www.infoq.com/news/2025/01/vlt-js-package-manager/
+설명: Introducing **vlt**, a groundbreaking open-source JavaScript package manager by former npm team members. Designed as an intuitive drop-in replacement, vlt simplifies dependency management with an innovative query selector and new export formats. Alongside it, **vsr** offers a fair-source serverless registry for enhanced package access control. Embrace the future of JS tooling!
+                     #vlt #JavaScript #패키지매니저 #서버리스레지스트리
+
+Add 3 hashtags related to the translated content: #vlt, #JavaScript, #패키지매니저.
+
+7 번째 검색 내용
+제목: 넷플릭스는 메타플로우에 새로운 구성 기능을 추가함으로써 향상시킵니다.
+주소: https://www.infoq.com/news/2025/01/netflix-metaflow-configuration/
+설명: Netflix는 Metaflow 기계학습 인프라에 중요한 개선을 소개했습니다: 새로운 Config 객체로, ML 워크플로우에 강력한 구성 관리를 제공합니다. 이 추가는 Netflix의 팀이 수천 개의 고유 Metaflow 플로우를 다양한 ML과 AI 사용 사례에서 관리하면서 겪는 일반적인 문제를 해결합니다.
+#Netflix #Metaflow #기계학습 #구성관리
+
+Hashtags: #Netflix, #Metaflow, #MachineLearning, #ConfigurationManagement
+
+8 번째 검색 내용
+제목: 내부 도구 마이그레이션을 통해 소프트웨어 엔지니어링 효율성을 지원하는 경험 분석
+
+(Note: The translation may not be perfect as it involves technical terms and specific context. Please review the translation for accuracy.)
+주소: https://www.infoq.com/news/2025/01/tools-engineering-efficiency/
+설명: Ying Dai의 QCon San Francisco에서의 발표에서는 두 가지 중요한 소프트웨어 엔지니어링 마이그레이션 스토리를 공유했습니다. 하나는 제품 모니터링에 집중하고 있으며, 다른 것은 자동 검증과 함께 제품 배포에 초점을 맞췄습니다. 모두 엔지니어링 효율성을 향상시키는 데 집중한 마이그레이션이었으나, 각각은 자신들의 도전과 교훈을 가지고 있었습니다.
+#소프트웨어엔지니어링 #제품모니터링 #제품배포
+
+#hashtags: #소프트웨어엔지니어링 #제품모니터링 #제품배포
+
+9 번째 검색 내용
+제목: 앤자스가 향상된 SAP HANA 작업 로드를 위해 고급 메모리 U7인허 EC2 인스턴스 출시
+
+(Note: The translation may not be perfect as it is a technical term. Please verify the accuracy if needed.)
+주소: https://www.infoq.com/news/2025/01/amazon-ec2-u7inh-instances/
+설명: AWS는 Amazon EC2 High Memory U7inh 인스턴스를 공개했습니다, 미션 크리티컬 인 메모리 데이터베이스에 SAP HANA와 같은 것을 위한 게임 체인저입니다. 32TB의 메모리와 1,920 vCPU를 제공하며, 이전 모델의 성능을 두 배로 향상시키고 AWS에서 부드러운 통합을 보장합니다. SAP 워크로드를 클라우드에서 최적화하여 향상된 속도와 확장성으로 작업하세요.
+#AWS #인공지능 #데이터베이스 #SAPHANA
+
+#hashtags: #클라우드컴퓨팅 #미션크리티컬 #인메모리데이터베이스
+
+10 번째 검색 내용
+제목: 메타는 바이트 랩시드 트랜스폼러 LLM를 개방적으로 공개하며, 확장성을 향상시켰습니다.
+주소: https://www.infoq.com/news/2025/01/meta-byte-latent-transformer/
+설명: Meta는 Byte Latent Transformer(BLT)를 오픈소스로 공개했습니다. BLT는 토큰화기능 대신 바이트 패치를 처리하는데 학습된 동적 스키마를 사용하는 LLM 아키텍처입니다. 이로인해 BLT 모델은 Llama3 모델의 성능을 일치시키지만, 50% 적은 추론 FLOPS를 사용합니다.
+#오픈소스 #ByteLatentTransformer #LLM아키텍처
+
+Translated sentence: Meta open-sourced Byte Latent Transformer (BLT), a LLM architecture that uses a learned dynamic scheme for processing patches of bytes instead of a tokenizer. This allows BLT models to match the performance of Llama 3 models but with 50% fewer inference FLOPS.
+
+#hashtags: #오픈소스 #ByteLatentTransformer #LLM아키텍처
+
+11 번째 검색 내용
+제목: DX는 개발자 생산성을 측정하는 새로운 프레임워크 공개
+
+(Note: The translation may not be perfect as it is a direct translation from English to Korean. In Korean, the subject usually comes at the end of the sentence. So, a more natural-sounding Korean sentence would be: "개발자 생산성을 측정하는 새로운 프레임워크가 DX에서 공개되었습니다.")
+주소: https://www.infoq.com/news/2025/01/dx-core-4-framework/
+설명: 소프트웨어 개발 지능 플랫폼 DX는 엔지니어링 리더들이 개발자 생산성을 측정하고 향상시키는 데 도움이 되도록 새로운 프레임워크인 DX Core 4를 소개했습니다. 이 프레임워크는 이러한 작업을 간단하게 만들기 위해 이전에 확립된 프레임워크인 DORA 메트릭과 SPACE에 기반합니다.
+#소프트웨어개발 #지능플랫폼 #엔지니어링리더 #개발자생산성
+
+Translated sentence: Software development intelligence platform DX has introduced a new framework named DX Core 4, designed to help engineering leaders measure and improve developer productivity. The framework aims to simplify this task by building on older established frameworks like the DORA metrics and SPACE.
+#소프트웨어개발 #지능플랫폼 #엔지니어링리더 #개발자생산성
+
+Hashtags: #소프트웨어개발, #지능플랫폼, #엔지니어링리더, #개발자생산성
+
+12 번째 검색 내용
+제목: 자바 뉴스 요약: GlassFish, Spring AI MCP, Grails, Helidon, JReleaser, Resilience4j, Arquillian
+주소: https://www.infoq.com/news/2025/01/java-news-roundup-dec30-2024/
+설명: Korean Translation: 이번 주의 12월 30일 자바 뉴스 요약에는 다음과 같은 소식이 강조되었습니다. GlassFish 7.0.21, Spring AI MCP 0.4.0 및 0.3.0, Grails 6.2.3, Helidon 4.1.6, JReleaser 1.16.0, Resilience4j 2.3.0, 그리고 Arquillian 1.9.2.Final입니다.
+#자바 #프로젝트 #뉴스요약
+
+Hashtags: #자바 #프로젝트 #뉴스요약
+
+13 번째 검색 내용
+제목: 제가 번역한 문장: 재카르타 EE 워킹그룹은 재카르타 EE 11의 코어 프로필을 제공합니다.
+주소: https://www.infoq.com/news/2025/01/jakarta-ee-11-core-profile/
+설명: AI : 원래 계획된 Jakarta EE 11의 전체 GA 출시가 2024년 7월에 이루어지는 것이었으나, Jakarta EE 10의 릴리스 후 27개월 후에 핵심 프로필만 2024년 12월에 배포되었습니다. 플랫폼과 웹 프로필은 대략 1Q2025에 출시될 것으로 예상됩니다. 이를 "또 다른 중요한 지연"으로 인식하는 것에 대해서는 실용적인 이유가 변경에 있었습니다.
+#JakartaEE #소프트웨어개발 #릴리스일정
+
+Translated content hashtags: #JakartaEE, #소프트웨어개발, #릴리스일정
+
+14 번째 검색 내용
+제목: .NET 응용 프로그램 포팅를 위한 Amazon Q Developer의 AI 기능을 활용하여 변환 기능입니다.
+주소: https://www.infoq.com/news/2025/01/amazon-q-dotnet-porting-preview/
+설명: AWS는 Amazon Q Developer의 생성형 AI 기능을 출시하여 .NET Framework 응용 프로그램이 크로스 플랫폼 .NET으로 전환할 수 있도록 합니다. 이를 통해 라이선스 비용을 40% 감소시키며, .NET Framework 응용 프로그램의 전환 속도를 4배 이상 높일 수 있습니다. 사용자 친화적인 자동화를 통해 개발자들은 코드를 모дер나이즈하고 준수 프로세스를 간소화할 수 있으며, 최신 혁신을 활용할 수 있습니다.
+#AWS #.NET #AI #라이선스비용감소 #코드모дер나이즈
+
+Translated content hashtags: #AWS #.NET #AI #라이선스비용감소 #코드모더나이즈
+
+15 번째 검색 내용
+제목: 
+주소: https://www.infoq.com/news/2025/01/hugging-face-smolagents-agents/
+설명: Smolagents는 Hugging Face에서 만든 대규모 언어 모델(LLM)를 기반으로 에이전트를 구축하는 라이브러리입니다. Hugging Face는 새로운 라이브러리가 간단하고 LLM 무관임을 말합니다. 안전한 "코드로 행동을 기록하는 에이전트"를 지원하며, Hugging Face Hub와 통합되어 있습니다.
+#스모잠런츠 #에이전트 #언어모델 #HuggingFace
+
+Hashtags: #스모잠런츠, #에이전트, #언어모델, #HuggingFace
+
