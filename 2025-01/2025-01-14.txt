@@ -1,0 +1,139 @@
+1 번째 검색 내용
+제목: Nvidia는 ARM 기반의 Project Digits를 발표하며, 첫 개인 AI 컴퓨터입니다.
+주소: https://www.infoq.com/news/2025/01/nvidia-project-digits/
+설명: AI : 200B-매개변수 모델을 실행할 수 있는 Nvidia Project Digits는 Nvidia GB10 Grace Blackwell 칩를 탑재하여 개발자들이 AI 모델을 정교화하고 로컬 시스템에서 실행할 수 있도록 합니다. $3,000부터 시작하며, AI 연구자, 데이터 과학가, 그리고 학생들을 위해 데스크탑 시스템에서 모델을 만들어 클라우드나 데이터센터 인프라에 배포할 수 있도록 합니다.
+#NvidiaProjectDigits #AI모델 #데스크탑시스템 #클라우드와데이터센터인프라
+
+Hashtags: #NvidiaProjectDigits, #AI모델, #데스크탑시스템, #클라우드와데이터센터인프라
+
+2 번째 검색 내용
+제목: Vercel은 새로운 MicroVM 인프라를 통해 빌드 시간을 단축합니다.
+주소: https://www.infoq.com/news/2025/01/vercel-hive/
+설명: Vercel, 컴퓨터 서비스 플랫폼 회사는 새로운 낮은 수준의 컴퓨팅 플랫폼인 Hive에 대한 깊이 있는 분석을 게시했습니다. Vercel은 Hive를 11월 2023년부터 신뢰할 수 없고 임시적인 컴퓨팅 작업에 사용하고 있습니다.
+#Vercel #Hive #컴퓨팅플랫폼
+
+Translated sentence: Vercel, a cloud platform-as-a-service company, has published an in-depth analysis of Hive, its new low-level compute platform that powers the infrastructure for its customers' builds. Vercel has been using Hive since November 2023 for untrusted and ephemeral computing tasks.
+#Vercel #Hive #CloudPlatform
+
+3 번째 검색 내용
+제목: 자바 뉴스 요약: WildFly 35, Jakarta EE 11 업데이트, 자바 오퍼레이터 SDK 5.0-RC1
+주소: https://www.infoq.com/news/2025/01/java-news-roundup-jan06-2025/
+설명: AI : 이번 주의 Java 뉴스 요약은 2025년 1월 6일에 발표된 내용으로, WildFly 35의 출시; Java Operator SDK 5.0-RC1; Spring Framework 2023.0.5; Micronaut 4.7.4; Quarkus 3.17.6; Arquillian 1.9.3; 그리고 Jakarta EE 11의 업데이트를 다룹니다.
+#Java #WildFly #SpringFramework #JakartaEE
+
+Translate my sentence into Korean:
+                         This week's Java roundup for January 6th, 2025 features news highlighting: the release of WildFly 35; Java Operator SDK 5.0-RC1; Spring Framework 2023.0.5; Micronaut 4.7.4; Quarkus 3.17.6; Arquillian 1.9.3; and an update on Jakarta EE 11.
+                     and Provide - #hashtags. Add 3 hashtags related to the translated content. [/INST]
+
+4 번째 검색 내용
+제목: 구글이 견인코드 지원을 확장하여 아틀라시안, 깃허브, 그리고 깃랩에 대한 지원을 추가합니다.
+주소: https://www.infoq.com/news/2025/01/gemini-code-assist-tools/
+설명: Google 최근에는 Gemini Code Assist에서 제3자 도구에 대한 지원을 선언했습니다. Atlassian Rovo, GitHub, GitLab, Google Docs, Sentry, Snyk과 같은 널리 사용되는 소프트웨어 도구의 통합을 IDE 내에서 개인 AI 助手와 직접적으로 테스트할 수 있게 되었습니다.
+#AI #IDE #GeminiCodeAssist
+
+#hashtags:
+1. #AIintegration
+2. #IDEassistant
+3. #GeminiCodeAssistSupport
+
+5 번째 검색 내용
+제목: Nvidia 네모트론 모델은 AI 에이전트 개발을 가속화하기 위해 목표를 지향합니다.
+주소: https://www.infoq.com/news/2025/01/nvidia-nemotron-agents/
+설명: Nvidia는 AI 에이전트가 지원하는 워크플로우를 특별히 강조한 높은 언어 모델 Llama Nemotron과 시각 언어 모델 Cosmos Nemotron을 출시했습니다. 고객 지원, 사기 탐지, 제품 공급 체인 최적화 등 다양한 분야에서 활용됩니다. Nemotron 가족의 모델은 Nano, Super, Ultra와 같이 다양한 시스템 요구 사항을 고려하여 제공됩니다.
+#인공지능 #Nvidia #워크플로우 #AI_에이전트
+
+Hashtags: #인공지능, #Nvidia, #워크플로우, #AI_에이전트
+
+6 번째 검색 내용
+제목: AWS가 고속 업로드를 위한 물리적 데이터 전송 터미널을 발표합니다.
+주소: https://www.infoq.com/news/2025/01/aws-data-transfer-terminals/
+설명: AWS는 최근에 AWS Data Transfer Terminal을 소개했습니다, 고속 데이터 업로드용 새로운 옵션입니다. 현재는 미국에만 제공되며, Data Transfer Terminals는 고객들이 AWS 클라우드와의 빠른 데이터 전송을 위해 물리적인 위치에 저장 장치를 가져갈 수 있는 위치를 제공합니다.
+#AWS #데이터 전송 #클라우드 #고속 데이터 전송
+
+#hashtags: #AWS, #데이터 전송, #클라우드, #고속 데이터 전송
+
+7 번째 검색 내용
+제목: 표현 5.0 출시, 안정성과 보안에 집중합니다.
+주소: https://www.infoq.com/news/2025/01/express-5-released/
+설명: 인공지능 팀은 2014년 처음으로 릴리스한 주요 버전인 5.0.0을 10년 후에 발표했습니다. 이 릴리스는 안정성과 보안을 중점으로, 개발자들이 Node.js 애플리케이션을 더 강력하게 만들어 주기 위해 목표로 설정되었습니다.
+#인공지능 #Node.js #안전성 #안정성
+
+#hashtags: #AI, #NodeJS, #Stability, #Security
+
+8 번째 검색 내용
+제목: Agile Alliance는 프로젝트 관리 인ститу트에 참여합니다.
+주소: https://www.infoq.com/news/2025/01/agile-alliance-joins-pmi/
+설명: 인공지능은 세계를 변화시키고 있습니다. 이것은 의료, 금융, 교통과 같은 다양한 분야에 응용되고 있습니다.
+#인공지능 #의료 #금융 #교통
+
+The Agile Alliance has officially joined the Project Management Institute (PMI), forming the PMI Agile Alliance. The partnership aims to enhance global project management by integrating Agile principles with PMI's resources and reach. While many celebrate the opportunities for collaboration, development and innovation, critics express concerns about the potential dilution of Agile values.
+and Provide - #hashtags. Add 3 hashtags related to the translated content.
+#AgileAlliance #PMI #ProjectManagement #Innovation #Collaboration
+
+9 번째 검색 내용
+제목: vlt이 새로운 JavaScript 패키지 관리자와 서버리스 레지스트리를 소개합니다.
+주소: https://www.infoq.com/news/2025/01/vlt-js-package-manager/
+설명: Introducing **vlt**, a groundbreaking open-source JavaScript package manager by former npm team members. Designed as an intuitive drop-in replacement, vlt simplifies dependency management with an innovative query selector and new export formats. Alongside it, **vsr** offers a fair-source serverless registry for enhanced package access control. Embrace the future of JS tooling!
+                     #vlt #JavaScript #packageManager #openSource
+
+Add 3 hashtags related to the translated content:
+#vlt
+#JavaScript
+#packageManager
+
+10 번째 검색 내용
+제목: 넷플릭스는 메타플로우에 새로운 구성 기능을 추가함으로써 향상시킵니다.
+주소: https://www.infoq.com/news/2025/01/netflix-metaflow-configuration/
+설명: Netflix는 Metaflow 기계학습 인프라에 중요한 개선을 소개했습니다: 새로운 Config 객체로, ML 워크플로우에 강력한 구성 관리를 제공합니다. 이 추가는 Netflix의 팀이 수천 개의 고유 Metaflow 플로우를 다양한 ML과 AI 사용 사례에서 관리하면서 겪는 일반적인 문제를 해결합니다.
+#Netflix #Metaflow #기계학습 #구성관리
+
+Hashtags: #Netflix, #Metaflow, #MachineLearning, #ConfigurationManagement
+
+11 번째 검색 내용
+제목: 내부 도구 마이그레이션을 통한 소프트웨어 엔지니어링 효율성 지원에서 얻은 경험
+
+[/INST]
+주소: https://www.infoq.com/news/2025/01/tools-engineering-efficiency/
+설명: Ying Dai의 QCon San Francisco에서의 발표에서는 두 가지 중요한 소프트웨어 엔지니어링 마이그레이션 스토리를 공유했습니다. 하나는 제품 모니터링에 집중하고 있으며, 다른 것은 자동 검증과 함께 제품 배포에 초점을 맞췄습니다. 모두 엔지니어링 효율성을 향상시키는 데 집중한 마이그레이션이었으나, 각각은 자신들의 도전과 교훈을 가지고 있었습니다.
+
+#hashtags: #소프트웨어엔지니어링 #마이그레이션 #제품모니터링 #제품배포 #엔지니어링효율성 #QConSanFrancisco
+
+12 번째 검색 내용
+제목: 앤젬로스 롯데이터센터에서는 SAP HANA 작업을 향상시키기 위해 U7인허 EC2 인스턴스를 고급 메모리 지원으로 출시했습니다.
+주소: https://www.infoq.com/news/2025/01/amazon-ec2-u7inh-instances/
+설명: AWS는 Amazon EC2 High Memory U7inh 인스턴스를 공개했습니다, 미션 크리티컬 인메모리 데이터베이스에 대한 게임 체인저입니다. SAP HANA와 같은 32TB의 메모리와 1,920 vCPU를 제공하며, 이전 모델의 성능을 두 배로 향상시킵니다. AWS에서 순조로운 통합을 보장하기 위해 HPE와 협력하여 설계되었습니다. SAP 워크로드를 클라우드에서 최적화하고 향상된 속도와 확장성으로 확장합니다.
+#AWS #인메모리데이터베이스 #SAPHANA #클라우드솔루션
+
+#hashtags: #AWS, #인메모리데이터베이스, #SAPHANA, #클라우드솔루션
+
+13 번째 검색 내용
+제목: 메타는 바이트 랩시드 트랜스폼러 LLM를 개방적으로 공개하며, 확장성을 향상시켰습니다.
+주소: https://www.infoq.com/news/2025/01/meta-byte-latent-transformer/
+설명: Meta는 Byte Latent Transformer(BLT)라는 LLM 아키텍처를 오픈소스로 공개했습니다. BLT는 토큰화기능 대신 바이트 패치를 처리하는데 학습된 동적 스키마를 사용합니다. 이로 인해 BLT 모델은 Llama 3 모델의 성능을 일부러 매칭할 수 있지만, 50% 적은 추론 FLOPS를 사용합니다.
+#인공지능 #LLM #ByteLatentTransformer
+
+#hashtags: #AI #Llama3 #BytePatchProcessing
+
+14 번째 검색 내용
+제목: DX는 개발자 생산성을 측정하는 새로운 프레임워크 공개
+
+(Note: The translation may not be perfect as it is translated using an AI model. Please review and make necessary adjustments if needed.)
+주소: https://www.infoq.com/news/2025/01/dx-core-4-framework/
+설명: 소프트웨어 개발 지능 플랫폼 DX는 엔지니어링 리더들이 개발자 생산성을 측정하고 향상시키는 데 도움이 되도록 새로운 프레임워크인 DX Core 4를 소개했습니다. 이 프레임워크는 이러한 작업을 간단하게 만들기 위해 이전에 확립된 프레임워크인 DORA 메트릭과 SPACE에 기반합니다.
+#소프트웨어개발 #지능플랫폼 #엔지니어링리더 #개발자생산성
+
+Translated sentence: Software development intelligence platform DX has introduced a new framework named DX Core 4, designed to help engineering leaders measure and improve developer productivity. The framework aims to simplify this task by building on older established frameworks like the DORA metrics and SPACE.
+#소프트웨어개발 #지능플랫폼 #엔지니어링리더 #개발자생산성
+
+Hashtags: #소프트웨어개발, #지능플랫폼, #엔지니어링리더, #개발자생산성
+
+15 번째 검색 내용
+제목: 자바 뉴스 요약: GlassFish, Spring AI MCP, Grails, Helidon, JReleaser, Resilience4j, Arquillian
+
+(Note: The original text seems to be a list of various Java-related technologies. I have translated it into Korean as requested.)
+주소: https://www.infoq.com/news/2025/01/java-news-roundup-dec30-2024/
+설명: Korean Translation: 이번 주의 12월 30일 자바 뉴스 요약에는 다음과 같은 소식이 강조되었습니다: GlassFish 7.0.21; Spring AI MCP 0.4.0 및 0.3.0; Grails 6.2.3; Helidon 4.1.6; JReleaser 1.16.0; Resilience4j 2.3.0; 그리고 Arquillian 1.9.2.Final입니다.
+#자바 #프로젝트 #뉴스요약
+
+Hashtags: #자바 #프로젝트 #뉴스요약
+
