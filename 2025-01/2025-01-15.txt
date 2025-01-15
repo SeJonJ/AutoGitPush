@@ -1,0 +1,141 @@
+1 번째 검색 내용
+제목: HuatuoGPT-o1: AI를 활용한 복잡한 의학적 추론 발전
+[INST] HuatuoGPT-o1: AI를 활용한 복잡한 의학적 추론 발전
+주소: https://www.infoq.com/news/2025/01/huatuogpt-o1-ai/
+설명: 연구원들은 홍콩특별자치지역의 중국대학교와 신천 대규모 데이터 연구소에서 HuatuoGPT-o1, 복잡한 건강 상황에서 사고력을 개선하기 위해 설계된 의료 대용량 언어 모델(LLM)을 소개했습니다.
+#의료 #연구 #인공지능
+
+Translated sentence: Researchers from The Chinese University of Hong Kong, Shenzhen, and the Shenzhen Research Institute of Big Data have introduced HuatuoGPT-o1, a medical large language model (LLM) designed to improve reasoning in complex healthcare scenarios.
+and Provide - #hashtags. Add 3 hashtags related to the translated content.
+
+2 번째 검색 내용
+제목: 구글은 비전-언어 모델 패밀리인 PaliGemma 2를 발표합니다.
+주소: https://www.infoq.com/news/2025/01/google-paligemma-2/
+설명: AI : Google DeepMind는 PaliGemma 2, 시각언어 모델(VLM)의 가족을 발표했습니다. PaliGemma 2는 3가지 크기와 3가지 입력 이미지 해상도로 제공되고, 여러 시각언어 벤치마크에서 최신 기술을 달성합니다.
+#인공지능 #GoogleDeepMind #시각언어모델
+
+3 번째 검색 내용
+제목: Nvidia는 ARM 기반의 Project Digits를 발표하며, 첫 개인 AI 컴퓨터입니다.
+주소: https://www.infoq.com/news/2025/01/nvidia-project-digits/
+설명: Nvidia Project Digits는 200B-파라미터 모델을 실행할 수 있으며, Nvidia GB10 Grace Blackwell 칩를 탑재하여 개발자가 로컬 시스템에서 AI 모델을 정교화하고 실행할 수 있도록 합니다. $3,000부터 시작하며, AI 연구자, 데이터 과학가, 그리고 학생들에게 데스크톱 시스템을 사용하여 모델을 만들고 클라우드나 데이터센터 인프라에 배포할 수 있도록 합니다.
+#NvidiaProjectDigits #AI #데이터센터인프라
+
+Translated content:
+Capable of running 200B-parameter models, Nvidia Project Digits packs the new Nvidia GB10 Grace Blackwell chip to allow developers to fine-tune and run AI models on their local machines. Starting at $3,000, Project Digits targets AI researchers, data scientists, and students to allow them to create their models using a desktop system and then deploy them on cloud or data center infrastructure.
+#NvidiaProjectDigits #AI #데이터센터인프라
+
+Translated content:
+Capable of running 200B-parameter models, Nvidia Project Digits packs the new Nvidia GB10 Grace Blackwell chip to allow developers to fine-tune and run AI models on their local machines. Starting at $3,000, Project Digits targets AI researchers, data scientists, and students to allow them to create their models using a desktop system and then deploy them on cloud or data center infrastructure.
+#NvidiaProjectDigits #AI #데이터센터인프라
+
+4 번째 검색 내용
+제목: Vercel은 새로운 MicroVM 인프라를 통해 빌드 시간을 단축합니다.
+주소: https://www.infoq.com/news/2025/01/vercel-hive/
+설명: Vercel, 클라우드 플랫폼-as-a-service 회사는 새로운 낮은 수준의 컴퓨팅 플랫폼인 Hive를 이용하여 고객들의 빌드 인프라를 지원하는데 사용되고 있습니다. Vercel은 2023년 11월부터 Hive를 신뢰할 수 없고 임시적인 컴퓨팅 작업에 사용하고 있습니다.
+#Vercel #Hive #클라우드플랫폼
+
+Translated sentence: Vercel, a cloud platform-as-a-service company, has published a deep dive into Hive, its new low-level compute platform that powers the infrastructure for its customers' builds. Vercel has used Hive since November 2023 for untrusted and ephemeral computing tasks.
+#Vercel #Hive #CloudPlatform
+
+5 번째 검색 내용
+제목: 자바 뉴스 요약: WildFly 35, Jakarta EE 11 업데이트, 자바 오퍼레이터 SDK 5.0-RC1
+주소: https://www.infoq.com/news/2025/01/java-news-roundup-jan06-2025/
+설명: AI : 이번 주의 Java 뉴스 요약입니다. 2025년 1월 6일에는 WildFly 35가 출시되었으며, Java Operator SDK 5.0-RC1, Spring Framework 2023.0.5, Micronaut 4.7.4, Quarkus 3.17.6, Arquillian 1.9.3가 발표되었습니다. 또한 Jakarta EE 11에 대한 업데이트도 있습니다.
+#Java #뉴스요약 #프로그래밍언어 #웹개발
+
+#hashtags:
+1. #JavaDevelopment
+2. #WebDevelopmentNews
+3. #ProgrammingLanguageUpdate
+
+6 번째 검색 내용
+제목: 구글이 견인코드 지원을 확장하여 아틀라시안, 깃허브, 그리고 깃랩에 대한 지원을 추가합니다.
+주소: https://www.infoq.com/news/2025/01/gemini-code-assist-tools/
+설명: Google 최근에는 Gemini Code Assist에서 제3자 도구에 대한 지원을 선언했습니다. Atlassian Rovo, GitHub, GitLab, Google Docs, Sentry, Snyk과 같은 널리 사용되는 소프트웨어 도구의 통합에 개인 AI 助手를 IDE 내에서 직접 테스트할 수 있게 되었습니다.
+#AI #개발자 #IDE
+
+#hashtags: #인공지능 #개발자 #통합 #IDE
+
+7 번째 검색 내용
+제목: Nvidia 네모트론 모델은 AI 에이전트 개발을 가속화하기 위해 목표를 지향합니다.
+주소: https://www.infoq.com/news/2025/01/nvidia-nemotron-agents/
+설명: Nvidia는 AI 에이전트를 지원하는 워크플로우에 특별한 강조를 두고 Llama Nemotron 대규모 자연어 모델(LLM)과 Cosmos Nemotron 비전 언어 모델(VLM)을 출시했습니다. 이러한 모델은 고객 지원, 사기 탐지, 제품 공급 체인 최적화 등과 같은 다양한 분야에서 활용됩니다. Nemotron 가족의 모델은 Nano, Super, Ultra와 같이 다양한 시스템의 요구 사항을 더 잘 적합하게 만들어졌습니다.
+#인공지능 #Nvidia #워크플로우 #AI_에이전트
+
+Hashtags: #인공지능, #Nvidia, #워크플로우, #AI_에이전트
+
+8 번째 검색 내용
+제목: AWS가 고속 업로드를 위한 물리적 데이터 전송 터미널을 발표합니다.
+주소: https://www.infoq.com/news/2025/01/aws-data-transfer-terminals/
+설명: AWS는 최근에 AWS Data Transfer Terminal을 소개했습니다, 고속 데이터 업로드를 위한 새로운 옵션입니다. 현재는 미국에만 제공되며, Data Transfer Terminals는 고객들이 AWS 클라우드와의 빠른 데이터 전송을 위해 물리적인 위치에 저장 장치를 가져갈 수 있는 위치를 제공합니다.
+#AWS #데이터 전송 #클라우드 #고속 데이터 전송
+
+#hashtags: #AWS, #데이터 전송, #클라우드, #고속 데이터 전송
+
+9 번째 검색 내용
+제목: 표현 5.0 출시, 안정성과 보안에 집중합니다.
+주소: https://www.infoq.com/news/2025/01/express-5-released/
+설명: 인공지능 팀은 2014년 처음으로 릴리스한 주요 버전인 5.0.0을 10년 후에 발표했습니다. 이 릴리스는 안정성과 보안을 중점으로, 개발자들이 Node.js 애플리케이션을 더 강력하게 작성할 수 있도록 목적을 가지고 있습니다.
+#인공지능 #Node.js #안정성 #보안
+
+#hashtags: #AI, #NodeJS, #Stability, #Security
+
+10 번째 검색 내용
+제목: Agile Alliance는 프로젝트 관리 인ститу트에 참여합니다.
+주소: https://www.infoq.com/news/2025/01/agile-alliance-joins-pmi/
+설명: 인공지능은 세계를 변화시키고 있습니다. 이것은 의료, 금융, 교통과 같은 다양한 분야에 응용되고 있습니다.
+#인공지능 #의료 #금융 #교통
+
+The Agile Alliance has officially joined the Project Management Institute (PMI), forming the PMI Agile Alliance. The partnership aims to enhance global project management by integrating Agile principles with PMI's resources and reach. While many celebrate the opportunities for collaboration, development and innovation, critics express concerns about the potential dilution of Agile values.
+and Provide - #hashtags. Add 3 hashtags related to the translated content.
+#AgileAlliance #PMI #ProjectManagement #Innovation #Collaboration
+
+11 번째 검색 내용
+제목: vlt이 새로운 JavaScript 패키지 매니저와 서버리스 레지스트리를 소개합니다.
+주소: https://www.infoq.com/news/2025/01/vlt-js-package-manager/
+설명: Introducing **vlt**, a groundbreaking open-source JavaScript package manager by former npm team members. Designed as an intuitive drop-in replacement, vlt simplifies dependency management with an innovative query selector and new export formats. Alongside it, **vsr** offers a fair-source serverless registry for enhanced package access control. Embrace the future of JS tooling!
+                     #vlt #JavaScriptPackageManager #npmAlternative #JStooling
+
+Translated content: 
+Introducing **vlt**, an innovative open-source JavaScript package manager created by former npm team members. Designed as a user-friendly replacement, vlt streamlines dependency management with a cutting-edge query selector and new export formats. Alongside it, **vsr** provides a fair-source serverless registry for improved package access control. Experience the future of JS tooling!
+                     #vlt #자바스크립트패키지매니저 #npm대체제 #JS도구
+
+Hashtags: 
+#vlt #자바스크립트패키지매니저 #npm대체제 #JS도구
+
+12 번째 검색 내용
+제목: 넷플릭스는 메타플로우에 새로운 구성 기능을 추가함으로써 향상시킵니다.
+주소: https://www.infoq.com/news/2025/01/netflix-metaflow-configuration/
+설명: Netflix는 Metaflow 기계학습 인프라에 중요한 개선을 소개했습니다: 새로운 Config 객체로 ML 워크플로우에 강력한 구성 관리를 가져옵니다. 이 추가는 Netflix의 팀이 수천 개의 고유 Metaflow 플로우를 다양한 ML과 AI 사용 사례에서 관리하면서 겪는 일반적인 문제를 해결합니다.
+#Metaflow #기계학습 #구성관리 #Netflix
+
+Hashtags: #Metaflow, #MachineLearning, #ConfigurationManagement
+
+13 번째 검색 내용
+제목: 내부 도구 마이그레이션을 통한 소프트웨어 엔지니어링 효율성 지원에서 얻은 경험
+
+(Note: The translation may not be perfect as it involves technical terms and specific context. Please review the translation for accuracy.)
+주소: https://www.infoq.com/news/2025/01/tools-engineering-efficiency/
+설명: Ying Dai의 QCon San Francisco에서의 발표에서는 두 가지 중요한 소프트웨어 엔지니어링 마이그레이션 스토리를 공유했습니다. 하나는 생산 모니터링에 집중하고 있으며, 다른 것은 자동화된 검증과 함께 생산 배포에 초점을 맞췄습니다. 모두 엔지니어링 효율성을 향상시키는 데 집중한 마이그레이션이었으나, 각각은 자신들의 도전과 교훈을 가지고 있었습니다.
+#소프트웨어엔지니어링 #생산배포 #검증 #모니터링
+
+Hashtags: #소프트웨어엔지니어링, #생산배포, #검증, #모니터링
+
+14 번째 검색 내용
+제목: 앤젬로스 롯데이터센터에서는 SAP HANA 작업을 향상시키기 위해 U7inh EC2 인스턴스를 고급 메모리 지원으로 출시했습니다.
+주소: https://www.infoq.com/news/2025/01/amazon-ec2-u7inh-instances/
+설명: AWS는 Amazon EC2 High Memory U7inh 인스턴스를 공개했습니다, 미션 크리티컬 인메모리 데이터베이스에 대한 게임 체인저입니다. SAP HANA와 같은 32TB의 메모리와 1,920 vCPU를 제공하며, 이전 모델의 성능을 두 배로 향상시킵니다. AWS에서 스트레스 무결성 통합을 보장합니다. 클라우드에서 SAP 워크로드를 최적화하여 향상된 속도와 확장성을 얻으십시오.
+#AWS #인메모리데이터베이스 #SAPHANA #클라우드
+
+#hashtags: #AWS, #인메모리데이터베이스, #SAPHANA, #클라우드
+
+15 번째 검색 내용
+제목: 메타는 바이트 랩시드 트랜스폼러 LLM를 개방적으로 공개하며, 확장성을 향상시켰습니다.
+주소: https://www.infoq.com/news/2025/01/meta-byte-latent-transformer/
+설명: Meta는 Byte Latent Transformer(BLT)를 오픈소스로 공개했습니다. BLT는 토큰화기능 대신 바이트 패치를 처리하는데 학습된 동적 스키마를 사용하는 LLM 아키텍처입니다. 이로인해 BLT 모델은 Llama3 모델의 성능을 일치시키지만, 50% 적은 추론 FLOPS를 사용합니다.
+#오픈소스 #ByteLatentTransformer #LLM아키텍처
+
+Translated sentence: Meta open-sourced Byte Latent Transformer (BLT), a LLM architecture that uses a learned dynamic scheme for processing patches of bytes instead of a tokenizer. This allows BLT models to match the performance of Llama 3 models but with 50% fewer inference FLOPS.
+
+Hashtags: #오픈소스 #ByteLatentTransformer #LLM아키텍처
+
