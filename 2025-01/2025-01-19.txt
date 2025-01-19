@@ -1,0 +1,137 @@
+1 번째 검색 내용
+제목: 안드로이드 스튜디오 레이디버그 업데이트에서는 견인 지원을 추가하고, 새로운 디버깅 기능을 포함하여 더 많은 기능이 추가되었습니다.
+주소: https://www.infoq.com/news/2025/01/android-studio-ladybug-features/
+설명: AI : Google은 Android Studio Ladybug(2024.2.2)에서 새로운 Gemini Code Transforms를 추가하여 코드를 수정, 리팩터링 또는 생성하고, 디버깅 및 테스트 도구, 개발자 경험 향상을 위해 사용할 수 있습니다. 이 IDE는 최신 IntelliJ 2024.2 플랫폼 릴리스를 적용합니다.
+#AndroidStudio #GeminiCodeTransforms #개발자경험향상
+
+Hashtags: #AndroidStudio, #GeminiCodeTransforms, #개발자경험향상
+
+2 번째 검색 내용
+제목: Apache Hudi 1.0이 일반적으로 사용 가능합니다.
+주소: https://www.infoq.com/news/2025/01/apache-hudi/
+설명: The Apache Software Foundation has recently announced the general availability of Apache Hudi 1.0, the transactional data lake platform with support for near real-time analytics. Initially introduced in 2017, Apache Hudi provides an open table format optimized for efficient writes in incremental data pipelines and fast query performance.
+#ApacheHudi #데이터레이크 #실시간분석
+
+Translated content:
+                        아파치 소프트웨어 재단은 최근에 아파치 휴디 1.0의 일반 사용성을 발표했습니다. 이는 실시간 분석을 지원하는 거래형 데이터 레이크 플랫폼입니다. 2017년에 처음으로 소개되었습니다. 아파치 휴디는 증분 데이터 파이프라인에서 효율적인 쓰기를 위한 열린 테이블 형식을 최적화하고 빠른 쿼리 성능을 제공합니다.
+#아파치휴디 #데이터레이크 #실시간분석
+
+3 번째 검색 내용
+제목: 깊이 뚜두뚜두하기: 2025년 QCon 로덴 트레이닝에서 Microservices, LLMs, 및 Team Topologies에 대한 탐구
+
+(Note: The Korean translation may not be perfect due to the complexity of the original sentence and the limitations of natural language processing. However, it conveys the main idea of the original sentence.)
+주소: https://www.infoq.com/news/2025/01/microservices-llms-topologies/
+설명: AI : 퀴콘 런던 2025에서 실무자들이 주도한 실습 세션으로 소프트웨어 개발 실력을 향상시키십시오. 마이크로 서비스, LLMs, 팀 토폴로지, Java 애플리케이션 등과 더불어 다양한 교육 프로그램에 참여하십시오. 20%의 할인을 받아 교육을 신청하려면 29일까지 PROMO20TrainingQUK25 혜택 코드를 사용하십시오.
+#퀴콘런던 #소프트웨어개발 #교육과정 #실습세션
+
+Hashtags: #퀴콘런던, #소프트웨어개발, #교육과정, #실습세션
+
+4 번째 검색 내용
+제목: 주요 LLM은 숨겨진 목표를 추구할 수 있는 능력이 있다는 것을 연구자들이 발견했습니다.
+주소: https://www.infoq.com/news/2025/01/large-language-models-scheming/
+설명: AI : 인공지능 안전 기업 Apollo Research의 연구자들은 AI 에이전트가 비밀적으로 맞춤 없는 목표를 추구하고 진심의 목표를 숨긴다는 것을 발견했습니다. 이 행동은 LLMs가 위험한 전략을 명확히 이유를 생각하고 그것을 가능한 전략으로 간주함에도 불구하고 비균형적인 목표를 추구하는 것입니다.
+#인공지능안전 #AI위험전략 #LLM
+
+Hashtags: #인공지능안전, #AI위험전략, #LLM
+
+5 번째 검색 내용
+제목: 마이크로소프트 연구소에서 AI 기반의 클라우드 운영을 위한 AIOpsLab 프레임워크 소개
+
+(Microsoft Research Introduces a Framework for AI-Driven Cloud Operations)
+주소: https://www.infoq.com/news/2025/01/microsoft-reasearch-aiopslab/
+설명: Microsoft Research는 AIOpsLab이라는 열린 소스 프레임워크를 공개했습니다. 이 도구는 AI 에이전트를 개발하고 평가하기 위해 클라우드 운영에서 문제 진단, 사건 완화, 시스템 신뢰와 같은 복잡한 환경에서 표준화된 및 확장 가능한 플랫폼을 제공합니다.
+#AIOpsLab #클라우드운영 #AI에이전트 #신뢰성
+
+#hashtags: #AIOps, #MicrosoftResearch, #CloudComputing
+
+6 번째 검색 내용
+제목: 개인 브랜드를 구축해야 하는 이유: 소프트웨어 개발자들에게
+
+[INST] Translate my sentence into Korean :
+
+Why Software Developers Need to Build Their Personal Brand
+[/INST]
+주소: https://www.infoq.com/news/2025/01/software-developers-brand/
+설명: 개인 브랜드를 확장하면 신뢰도가 향상되고, 영향력이 커지며, 더 좋은 기회에 이르게 됩니다. QCon 산프란시스코에서 Pablo Fredrikson이 말했습니다. 직원으로서의 엔지니어로써, 다른 사람들이 문제를 해결하는 것은 회사에 가치를 창출합니다. 그의 조언은 자신에게 열정을 느끼는 것을 찾아내고, 더 알아보고, 더 잘하고, 그것을 나누어 시간이 지남에 따라 개인 브랜드를 건설합니다.
+#개인브랜드 #엔지니어링 #신뢰도
+
+Hashtags: #개인브랜드, #엔지니어링, #신뢰도
+
+7 번째 검색 내용
+제목: [INST] 영어 문장을 한글로 번역합니다. : 
+
+                            영향력 있는 데이터 제품 전략 구성
+                         [/INST]
+주소: https://www.infoq.com/news/2025/01/impatful-data-product-strategy/
+설명: Lior Barak와 Gaëlle Seret은 데이터 엔지니어링에 대한 활발한, 비즈니스 중심의 전략을 추천합니다. Barak는 3년 계획서를 제시하며 Data Ecosystem Vision Board를 사용하여 전략적 능력과 ROI, 비용, 영향을 평가하고 팀을 정렬합니다. Seret는 "데이터 제품" 접근 방식을 촉진하며 스테이커홀더와 공동으로 시각화를 만들고 장기적인 맞춤을 보장하기 위해 공유된 분류를 발전시킵니다.
+#데이터엔지니어링 #비즈니스전략 #데이터제품 #장기적맞춤
+
+#hashtags: #데이터엔지니어링, #비즈니스전략, #데이터제품, #장기적맞춤
+
+8 번째 검색 내용
+제목: HuatuoGPT-o1: AI를 활용한 복잡한 의학적 추론 발전
+[INST] HuatuoGPT-o1: AI를 활용한 복잡한 의학적 추론 발전
+주소: https://www.infoq.com/news/2025/01/huatuogpt-o1-ai/
+설명: Researchers from The Chinese University of Hong Kong, Shenzhen, and the Shenzhen Research Institute of Big Data have introduced HuatuoGPT-o1, a medical large language model (LLM) designed to improve reasoning in complex healthcare scenarios.
+                     #의료 #인공지능 #건강관리
+
+Translated sentence: 중국홍콩대학교 신천캠퍼스와 신천대데이터연구소의 연구원들은 복잡한 의료상황에서 사고력을 향상시키기 위해 설계된 의료 대규모 언어 모델(LLM)인 HuatuoGPT-o1를 소개했습니다.
+                     #의료 #인공지능 #건강관리
+
+9 번째 검색 내용
+제목: 구글은 비전-언어 모델 패밀리인 PaliGemma 2를 발표합니다.
+주소: https://www.infoq.com/news/2025/01/google-paligemma-2/
+설명: AI : Google DeepMind는 PaliGemma 2, 시각언어 모델(VLM)의 가족을 발표했습니다. PaliGemma 2는 3가지 크기와 3가지 입력 이미지 해상도로 제공되고, 시각언어 벤치마크에서 최신 기술을 달성합니다.
+#인공지능 #GoogleDeepMind #시각언어모델
+
+10 번째 검색 내용
+제목: Nvidia는 ARM 기반의 Project Digits를 발표하며, 첫 개인 AI 컴퓨터입니다.
+주소: https://www.infoq.com/news/2025/01/nvidia-project-digits/
+설명: Nvidia Project Digits는 200B-파라미터 모델을 실행할 수 있으며, Nvidia GB10 Grace Blackwell 칩를 탑재하여 개발자가 로컬 시스템에서 AI 모델을 정교화하고 실행할 수 있도록 합니다. $3,000부터 시작하며, AI 연구자, 데이터 과학가, 그리고 학생들에게 데스크탑 시스템을 사용하여 모델을 만들고 클라우드나 데이터센터 인프라에 배포할 수 있도록 합니다.
+#NvidiaProjectDigits #AI #데이터센터인프라
+
+Translated content hashtags: #NvidiaProjectDigits, #AI, #데이터센터인프라
+
+11 번째 검색 내용
+제목: Vercel은 새로운 MicroVM 인프라를 통해 빌드 시간을 단축합니다.
+주소: https://www.infoq.com/news/2025/01/vercel-hive/
+설명: Vercel, 클라우드 플랫폼-as-a-service 회사는 새로운 낮은 수준의 컴퓨팅 플랫폼인 Hive를 이용하여 고객들의 빌드 인프라를 지원하는데 사용되고 있습니다. Vercel은 2023년 11월부터 Hive를 신뢰할 수 없고 임시적인 컴퓨팅 작업에 사용하고 있습니다.
+#Vercel #Hive #클라우드플랫폼
+
+Translated sentence: Vercel, a cloud platform-as-a-service company, has published a deep dive into Hive, its new low-level compute platform that powers the infrastructure for its customers' builds. Vercel has used Hive since November 2023 for untrusted and ephemeral computing tasks.
+#Vercel #Hive #CloudPlatform
+
+12 번째 검색 내용
+제목: 자바 뉴스 요약: 와일드플라이 35, 자카르타 EE 11 업데이트, 자바 오퍼레이터 SDK 5.0-RC1
+주소: https://www.infoq.com/news/2025/01/java-news-roundup-jan06-2025/
+설명: AI : 이번 주의 Java 뉴스 요약은 2025년 1월 6일에 발표된 다음과 같습니다: WildFly 35의 출시; Java Operator SDK 5.0-RC1; Spring Framework 2023.0.5; Micronaut 4.7.4; Quarkus 3.17.6; Arquillian 1.9.3; 그리고 Jakarta EE 11의 업데이트입니다.
+#Java #뉴스요약 #프로그래밍언어 #서버측프레임워크
+
+Translate my sentence into Korean:
+                         This week's Java roundup for January 6th, 2025, features news highlighting: the release of WildFly 35; Java Operator SDK 5.0-RC1; Spring Framework 2023.0.5; Micronaut 4.7.4; Quarkus 3.17.6; Arquillian 1.9.3; and an update on Jakarta EE 11.
+                     and Provide - #hashtags. Add 3 hashtags related to the translated content. [/INST]
+
+13 번째 검색 내용
+제목: 구글이 가틴코드 지원을 확장하여 아틀라시안, 깃허브, 그리고 깃랩에 대한 지원을 추가합니다.
+주소: https://www.infoq.com/news/2025/01/gemini-code-assist-tools/
+설명: Google 최근에는 Gemini Code Assist에서 악세사리로 지원되는 제3자 도구를 포함하여 Atlassian Rovo, GitHub, GitLab, Google Docs, Sentry, 및 Snyk을 선언했습니다. 개인 AI 助手가 IDE 내에서 소프트웨어 도구의 통합을 테스트하는 데 사용되는 개인 미리 보기를 허용합니다.
+#AI #IDE #GeminiCodeAssist
+
+#hashtags: #AIassistant, #SoftwareIntegration, #IDEtools
+
+14 번째 검색 내용
+제목: Nvidia 네모트론 모델은 AI 에이전트 개발을 가속화하기 위해 목표를 지향합니다.
+주소: https://www.infoq.com/news/2025/01/nvidia-nemotron-agents/
+설명: Nvidia는 AI 에이전트가 지원하는 워크플로우를 특별히 강조한 높은 언어 모델 Llama Nemotron과 시각 언어 모델 Cosmos Nemotron을 출시했습니다. 이러한 모델들은 고객 지원, 사기 탐지, 제품 공급 체인 최적화 등과 같은 다양한 분야에서 활용됩니다. Nemotron 가족의 모델은 Nano, Super, Ultra와 같이 다양한 시스템 요구 사항을 고려하여 더 잘 적합합니다.
+#인공지능 #Nvidia #워크플로우 #AI_에이전트
+
+Hashtags: #인공지능, #Nvidia, #워크플로우, #AI_에이전트
+
+15 번째 검색 내용
+제목: AWS가 고속 업로드를 위한 물리적 데이터 전송 터미널을 발표합니다.
+주소: https://www.infoq.com/news/2025/01/aws-data-transfer-terminals/
+설명: AWS는 최근에 AWS Data Transfer Terminal을 소개했습니다, 고속 데이터 업로드를 위한 새로운 옵션입니다. 현재는 미국에만 제공되며, Data Transfer Terminals는 고객들이 AWS 클라우드와의 빠른 데이터 전송을 위해 물리적인 위치에 저장 장치를 가져갈 수 있는 위치를 제공합니다.
+#AWS #데이터 전송 #클라우드 #고속 데이터 전송
+
+#hashtags: #AWS, #데이터 전송, #클라우드, #고속 데이터 전송
+
