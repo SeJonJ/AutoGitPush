@@ -1,0 +1,134 @@
+1 번째 검색 내용
+제목: OpenAI가 제공하는 인
+주소: https://www.infoq.com/news/2025/01/openai-inference-time/
+설명: AI : OpenAI는 적응형 공격에 대한 AI 모델의 강력성과 추론 시간 계산 사이의 관계를 조사하는 연구 논문인 "Trading Inference-Time Compute for Adversarial Robustness"을 제안했습니다.
+#OpenAI #적응형공격 #강력성 #추론시간계산
+
+Hashtags: #AI #연구논문 #적응형공격대책
+
+2 번째 검색 내용
+제목: 데이터베이스 2024: 성장, 변화와 논쟁
+
+(Note: The translation may not be perfect as it is a direct translation. In Korean, the word "데이터베이스" (databases) should be followed by a noun or a verb to form a complete sentence.)
+주소: https://www.infoq.com/news/2025/01/database-review-2024/
+설명: Andrew Pavlo’s annual retrospective on the database world has recently been released, covering trends and innovations from the past year. The opinionated report, "Databases in 2024: A Year in Review," highlights that while we may indeed be in the "golden era of databases," last year brought significant license changes, the rapid growth of DuckDB, and some surprising new releases.
+#데이터베이스 #데이터베이스세계 #데이터베이스2024년 후기
+
+Translate my sentence into Korean: Andrew Pavlo’s annual retrospective on the database world has recently been released, covering trends and innovations from the past year. The opinionated report, "Databases in 2024: A Year in Review," highlights that while we may indeed be in the "golden era of databases," last year brought significant license changes, the rapid growth of DuckDB, and some surprising new releases.
+                     and Provide - #hashtags. Add 3 hashtags related to the translated content.
+
+Translated sentence: 데이터베이스 월드의 연간 회고록인 "Andrew Pavlo의 2024년 데이터베이스: 한 해의 후기"는 지난 해에서 발생한 트렌드와 혁신을 다루며, 데이터베이스 골든 에라에 있어도 실제로 있다고 할 수 있음에도 불구하고, 지난 해에는 중요한 라이선스 변경, DuckDB의 빠른 성장, 그리고 몇몇 기대 못한 새로운 발표가 있었습니다.
+#데이터베이스 #데이터베이스세계 #데이터베이스2024년 후기
+
+3 번째 검색 내용
+제목: 마이크로소프트 파이-4는 복잡한 수학 추론을 전문화한 작은 언어 모델입니다.
+주소: https://www.infoq.com/news/2025/01/microsoft-phi-4/
+설명: Phi-4는 Microsoft Research에서 수학 논리 이해를 개선하기 위한 14B 파라미터 모델입니다. 이전에 Azure AI Foundry에서 사용할 수 있었으며, 최근 Hugging Face에서 MIT 라이센스로 사용 가능합니다.
+#인공지능 #수학논리 #Phi-4
+#MicrosoftResearch #HuggingFace #MITlicense
+
+4 번째 검색 내용
+제목: 앤젬빌록은 오픈소스 프레임워크 통합을 지원하는 다중 에이전트 시스템(MAS)을 소개합니다.
+주소: https://www.infoq.com/news/2025/01/aws-bedrock-multi-agent-ai/
+설명: Amazon Web Services는 Amazon Bedrock에 대한 다중 에이전트 협력 기능을 발표했습니다. 이것은 분산된 AI 시스템에서 에이전트 조직화와 관련된 개발자들이 면하는 문제를 해결할 수 있는 프레임워크를 소개합니다. 특수한 에이전트들은 상위 에이전트의 조정 아래 협력하여 복잡한 작업을 수행할 수 있도록 합니다.
+#AmazonWebServices #AI시스템 #에이전트협력
+
+Hashtags: #AWS #AI #AgentCoordination
+
+5 번째 검색 내용
+제목: 기계학습을 사용하여 마이크로컨트롤러에서 전력과 비용을 절약하기 위해 메모리와 CPU 사용량 감소
+
+(Note: The translation may not be perfect as it is a direct translation from English to Korean. It would be better if a native Korean speaker checks and adjusts the sentence for proper grammar and structure.)
+주소: https://www.infoq.com/news/2025/01/machine-learning-microcontroller/
+설명: AI : 에이리크 미드턴은 인공지능(AI)과 머신러닝(ML)이 센서 데이터를 해석하는 데 유용한 도구임을 주장합니다. 특히 입력이 복잡한 경우, 예를 들어 진동, 목소리, 시각 등, AI와 ML가 매우 유용하다는 것을 강조합니다. 머신러닝을 마이크로컨트롤러에서 사용할 때의 주요 도전은 컴퓨팅 능력이 제한되고 마이크로컨트롤러 기반 설계와 관련된 비용 요구 사항입니다.
+#인공지능 #머신러닝 #센서데이터 #마이크로컨트롤러
+
+Translated sentence: According to Eirik Midttun, artificial intelligence (AI) and machine learning (ML) are useful tools for interpreting sensor data, especially when the input is complex, such as vibration, voice, and vision. The main challenges of using machine learning on microcontrollers are the constraints in computing power available and cost-related requirements that come with microcontroller-based designs.
+#인공지능 #머신러닝 #센서데이터 #마이크로컨트롤러
+
+Hashtags: #인공지능 #머신러닝 #센서데이터 #마이크로컨트롤러
+
+6 번째 검색 내용
+제목: [INST] 아래 문장을 한국어로 번역하십시오:
+
+                             AWS 선언형 정책에 대한 준수 향상
+                         [/INST]
+주소: https://www.infoq.com/news/2025/01/aws-declarative-policies/
+설명: AWS 최근에 선언적 정책을 소개했습니다. 이 기능은 AWS 서비스의 규모에 따른 원하는 구성을 정의하고 구현하도록 조직을 도와주는데 설계되었습니다. 이 기능은 클라우드 리소스 구성 표준을 설정해야 하는 고객들에게 공개적으로 Amazon EBS 스냅숏에 접근을 차단하는 등의 일반적인 문제를 해결합니다.
+#AWS #클라우드 #구성 #정책
+
+Translated content hashtags: #AWS, #클라우드, #구성, #정책
+
+7 번째 검색 내용
+제목: 마이크로소프트 연구소가 작은 언어 모델에서 수학적 추론을 향상시키는 rStar-Math를 공개합니다.
+주소: https://www.infoq.com/news/2025/01/microsoft-research-rstar-math/
+설명: Microsoft Research는 rStar-Math라는 프레임워크를 발표했습니다. 이 프레임워크는 작은 언어 모델(SLMs)의 수학적 추론 능력을 큰 모델들인 OpenAI의 o1-mini와 같거나 그 이상으로 달성할 수 있음을 보여줍니다. 이를 위해 더 고급 모델이 필요하지 않아, AI의 추론 능력을 향상시키는 새로운 접근 방식을 나타냅니다.
+#인공지능 #수학적추론 #MicrosoftResearch #rStar-Math
+
+#hashtags: #AI #MathematicalReasoning #LanguageModels
+
+8 번째 검색 내용
+제목: NVIDIA 인제스트는 문서에서 구조화된 정보를 추출하기 쉽게 만들고자 합니다.
+주소: https://www.infoq.com/news/2025/01/nvidia-ingest-document-extract/
+설명: Nvidia Ingest는 문서 콘텐츠를 처리하고 정의된 JSON 스키마로  upstairs
+
+9 번째 검색 내용
+제목: 마이크로소프트 연구 인공지능 전망 연구실은 AutoGen v0.4 라이브러리를 출시합니다.
+주소: https://www.infoq.com/news/2025/01/microsoft-autogen-040/
+설명: Microsoft Research의 AI Frontiers Lab는 AutoGen 0.4 버전을 공개 소스 프레임워크로 출시하였습니다. 이 최신 버전에서는 AutoGen 라이브러리의 완전한 재설계를 중심으로, 코드 질병, 강력성, 사용성, 및 에이전트 워크플로우의 확장성을 개선하는 데 초점을 맞췄습니다.
+#인공지능 #AutoGen #에이전트시스템
+
+Hashtags: #인공지능, #AutoGen, #에이전트시스템
+
+10 번째 검색 내용
+제목: Agoda는 macOS 인프라를 Kubernetes와 통합합니다.
+주소: https://www.infoq.com/news/2025/01/agoda-macOS-kubernetes/
+설명: Agoda는 최근 macOS 인프라를 Kubernetes에 통합하는 방법을 자세히 설명했습니다. 이를 위해 Agoda는 macOS 워크로드를 Kubernetes 환경에서 관리하기 위한 macOS Virtualization Kubelet(macOS-vz-Kubelet) 도구를 개발했습니다.
+#Agoda #macOS #Kubernetes
+
+11 번째 검색 내용
+제목: 깊은 탐색(DeepSeek)이 오픈소스로 깊은 탐색-V3(DeepSeek-V3), 671억 파라미터 Mixture of Experts LLM를 공개했습니다.
+주소: https://www.infoq.com/news/2025/01/deepseek-v3-llm/
+설명: AI : DeepSeek는 DeepSeek-V3라는 671억 파라미터를 포함한 Mixture-of-Experts(MoE) LLM를 오픈소스로 공개했습니다. 이것은 14.8T 토큰을 사용하여 전망 2.788M GPU 시간으로 전체 학습되었으며, MMLU, MMLU-Pro, GPQA 등의 LLM 벤치마크에서 다른 오픈소스 모델보다 성능이 우수합니다.
+#DeepSeek #Mixture-of-Experts #LLM #benchmark
+
+Hashtags: #DeepSeek, #Mixture-of-Experts, #LLM, #benchmark
+
+12 번째 검색 내용
+제목: 구글이 실험적인 AI 추론 모델 발표
+
+(Note: The translation may not be perfect as it is a direct translation. In Korean, the subject and verb often come at the end of the sentence. So, the correct translation would be "구글이 실험적인 AI 추론 모델을 발표한다.")
+주소: https://www.infoq.com/news/2025/01/google-deepmind-gemini/
+설명: AI : 구글은 AI Studio 플랫폼에서 사용할 수 있는 Gemini 2.0 Flash Thinking Experimental, AI 이유 모델을 소개했습니다.
+#인공지능 #AI_스튜디오 #이유_모델
+
+Translated sentence: Google has introduced Gemini 2.0 Flash Thinking Experimental, an AI reasoning model available in its AI Studio platform.
+Hashtags: #ArtificialIntelligence #AISTudioPlatform #ReasoningModel
+
+13 번째 검색 내용
+제목: 구글 버텍스 AI는 대규모 언어 모델 지향성을 위한 RAG 엔진을 제공합니다.
+주소: https://www.infoq.com/news/2025/01/google-vertes-ai-rag-engine/
+설명: Vertex AI RAG Engine은 대규모 언어 모델(LLM)을 외부 데이터 소스와 더 쉽게 연결하여 최신화되고, 더 관련있는 응답을 생성하고, 허위 정보를 줄이기 위한 관리형 오레스트레이션 서비스입니다.
+#인공지능 #언어모델 #데이터연결 #최신화
+
+Translated content hashtags: #VertexAI #RAGEngine #LargeLanguageModels
+
+14 번째 검색 내용
+제목: AWS는 엑스텐시브 컨테이너 서비스에 향상된 관찰성을 가진 컨테이너 인사이트를 추가합니다.
+주소: https://www.infoq.com/news/2025/01/aws-container-insights-ecs/
+설명: AWS는 최근 Amazon Elastic Container Service(ECS)에 대한 컨테이너 인사이트를 확장된 관찰성으로 발표했습니다. 이것은 Amazon Elastic Kubernetes Service(EKS)에서 이전에 도입된 비슷한 기능과 같습니다. 이 새로운 기능은 컨테이너 워크로드의 모니터링 및 문제 해결을 개선하는 것을 목표로 합니다.
+#AWS #컨테이너 #관찰성 #모니터링
+
+Hashtags: #AWS, #컨테이너, #관찰성, #모니터링
+
+15 번째 검색 내용
+제목: 테라폼 포크 오픈토퓨 제공자 반복 및 제외 추가
+
+(Note: The translation may not be perfect as it is a technical term. Please verify the accuracy if needed.)
+주소: https://www.infoq.com/news/2025/01/opentofu-190/
+설명: Version 1.9.0 of OpenTofu - the infrastructure-as-code tool forked a year ago from Hashicorp's Terraform - has been released. This release brings several significant features, including provider iteration capabilities through `for_each`, to enable simplified multi-zone and multi-region deployments.
+#OpenTofu #인프라스트럭처 #Terraform
+
+Add 3 hashtags related to the translated content:
+#코드도구 #클라우드컴퓨팅 #자동화
+
