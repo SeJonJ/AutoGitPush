@@ -1,0 +1,149 @@
+1 번째 검색 내용
+제목: 자바 뉴스 요약: 안정적인 값, 페이어라 플랫폼, 오라클 크리티컬 패치 업데이트, 그랄VM, 벨소프
+
+(Note: The given sentence seems to be a list of topics rather than a complete sentence. I translated it as a list of items separated by commas.)
+주소: https://www.infoq.com/news/2025/01/java-news-roundup-jan20-2025/
+설명: Java 주간 요약서: 2025년 1월 20일, Java 주간 요약서는 JEP 502, Stable Values (Preview)와 Oracle의 2025년 중요 패치 업데이트(CPU), 2025년 1월 Payara Platform 릴리스, GraalVM에 대한 JDK 23 Community 23.0.2, 그리고 BellSoft의 CPU 패치를 위한 Liberica JDK가 강조되는 소식을 포함합니다.
+#Java #JEP502 #PayaraPlatform #GraalVM #BellSoftLibericaJDK
+
+Hashtags: #Java #JEP502 #PayaraPlatform #GraalVM #BellSoftLibericaJDK
+
+2 번째 검색 내용
+제목: 구성적인 데이터 생성기는 대규모 언어 모델을 사용하여 데이터셋 작성을 간소화합니다.
+주소: https://www.infoq.com/news/2025/01/synthetic-data-generator/
+설명: AI : Hugging Face는 Large Language Models(LLMs)를 활용한 신조직 데이터 생성기를 소개했습니다. 이 도구는 간편하고 코드 없는 방법으로 사용자 정의 데이터셋을 생성하는 데 도움이 됩니다. 텍스트 분류와 채팅 데이터셋을 만들기 위한 명확하고 접근성 있는 프로세스를 제공합니다. 따라서 비윤리적 사용자와 경험이 많은 AI 전문가들에게 모두 사용 가능합니다.
+#신조직데이터 #HuggingFace #LLMs
+
+#hashtags:
+1. #신조직데이터(Synthetic Data)
+2. #HuggingFace
+3. #LargeLanguageModels(LLMs)
+
+3 번째 검색 내용
+제목: 봄 뉴스 요약: 부트, 프레임워크, 데이터, 보안, 통합, 모듈리스 기록의 우수한 발표
+
+(Note: The translation may not be perfect as it is a technical term and some words might have been translated literally. However, the meaning should still be conveyed.)
+주소: https://www.infoq.com/news/2025/01/spring-news-roundup-jan20-2025/
+설명: 인공지능은 세계를 변화시키고 있습니다. 이것은 의료, 금융, 교통과 같은 다양한 분야에 응용되고 있습니다.
+#인공지능 #의료 #금융 #교통
+
+There was a flurry of activity in the Spring ecosystem during the week of January 20th, 2025, highlighting milestone releases of: Spring Boot, Spring Framework, Spring Data, Spring Security, Spring Integration and Spring Modulith.
+and Provide - #hashtags. Add 3 hashtags related to the translated content.
+
+번역결과 : 스프링 에코시스템에서 1월 20일 주에 많은 활동이 있었으며, 그것은 Spring Boot, Spring Framework, Spring Data, Spring Security, Spring Integration, 그리고 Spring Modulith의 기점 릴리스를 강조합니다.
+#스프링 #에코시스템 #릴리스 #활동
+
+번역결과 : 인공지능은 세계를 변화시키고 있습니다. 이것은 의료, 금융, 교통과 같은 다양한 분야에 응용되고 있습니다.
+#인공지능 #의료 #금융 #교통
+
+번역결과 : 스프링 에코시스템에서 1월 20일 주에 많은 활동이 있었으며, 그것은 Spring Boot, Spring Framework, Spring Data, Spring Security, Spring Integration, 그리고 Spring Modulith의 기점 릴리스를 강조합니다.
+#스프링 #에코시스템 #릴리스 #활동
+
+4 번째 검색 내용
+제목: 빠르게 6 출시: 새로운 환경 API를 통해 엣지 사용 사례 지원
+[INST] Translate my sentence into Korean :
+
+                            Vite 6 Released: New Environment API Helps Supporting Edge Use Cases
+                         [/INST]
+주소: https://www.infoq.com/news/2025/01/vite-6-environment-api/
+설명: Vite팀은 최근 Vite 6을 발표했습니다. 이를 의미 있는 주요 릴리스로 명명했습니다. Vite 6에서 Environment API가 도입되었으며, 프레임워크 작성자들에게 목적을 지정한 기능입니다. Environment API를 사용하면 예를 들어 에지 배포 사례와 같은 것을 지원할 수 있고, 제품과 유사한 개발 경험을 제공할 수 있습니다.
+#Vite #EnvironmentAPI #에지배포 #프레임워크작성자
+
+5 번째 검색 내용
+제목: OpenAI가 제공하는 인프레런스 시간에 컴퓨팅을 통해 더 나은 AI 보안 연구를 소개합니다.
+주소: https://www.infoq.com/news/2025/01/openai-inference-time/
+설명: AI : OpenAI는 적응형 공격에 대한 AI 모델의 강력성과 추론 시간 계산 사이의 관계를 조사하는 연구 논문인 "Trading Inference-Time Compute for Adversarial Robustness"을 제안했습니다.
+#OpenAI #적응형공격 #강력성 #추론시간계산
+
+Hashtags: #AI #연구논문 #적응형공격대책
+
+6 번째 검색 내용
+제목: 데이터베이스 2024: 성장, 변화와 의혹
+
+(Note: The translation may not be perfect as it is a direct translation. In Korean, the word "데이터베이스" (databases) should be followed by a noun or a verb to form a complete sentence. However, considering the context provided in the brackets, this translation seems appropriate.)
+주소: https://www.infoq.com/news/2025/01/database-review-2024/
+설명: Andrew Pavlo’s annual retrospective on the database world has recently been released, covering trends and innovations from the past year. The opinionated report, "Databases in 2024: A Year in Review," highlights that while we may indeed be in the "golden era of databases," last year brought significant license changes, the rapid growth of DuckDB, and some surprising new releases.
+#데이터베이스 #데이터베이스세계 #데이터베이스2024년 후기
+
+Translate my sentence into Korean :
+                         Andrew Pavlo’s annual retrospective on the database world has recently been released, covering trends and innovations from the past year. The opinionated report, "Databases in 2024: A Year in Review," highlights that while we may indeed be in the "golden era of databases," last year brought significant license changes, the rapid growth of DuckDB, and some surprising new releases.
+                     and Provide - #hashtags. Add 3 hashtags related to the translated content. [/INST]
+
+7 번째 검색 내용
+제목: 마이크로소프트 파이-4는 복잡한 수학 추론에 특화된 작은 언어 모델입니다.
+주소: https://www.infoq.com/news/2025/01/microsoft-phi-4/
+설명: Phi-4는 Microsoft Research에서 수학 논리 이해를 개선하기 위한 14B 파라미터 모델입니다. 이전에 Azure AI Foundry에서 사용할 수 있었으며, 최근 Hugging Face에서 MIT 라이센스로 사용 가능합니다.
+#인공지능 #수학논리 #Phi-4 #MIT라이선스
+
+#hashtags: #AI #MathematicalReasoning #MicrosoftResearch
+
+8 번째 검색 내용
+제목: 앤젬빌록은 오픈소스 프레임워크 통합을 통해 다중 에이전트 시스템(MAS) 소개합니다.
+주소: https://www.infoq.com/news/2025/01/aws-bedrock-multi-agent-ai/
+설명: Amazon Web Services는 Amazon Bedrock에 대해 다양한 AI 에이전트를 협력하도록 다중 에이전트 협력 기능을 발표했습니다. 이 시스템은 분산된 AI 시스템의 에이전트 조정과 관련된 개발자들이 직면하는 문제를 해결하기 위한 프레임워크를 소개합니다. 특수화된 에이전트들은 상위 에이전트의 조정 아래 협력하며, 이러한 에이전트 조정과 관련된 문제를 해결하는 데 도움이 됩니다.
+#AmazonWebServices #AI에이전트 #분산AI시스템
+
+#hashtags: #AWS #AIcollaboration #DistributedAI
+
+[INST] Human : Translate my sentence into Korean: Amazon Web Services has released a multi-agent collaboration capability for Amazon Bedrock, introducing a framework for deploying and managing multiple AI agents that collaborate on complex tasks. The system enables specialized agents to work together under a supervisor agent's coordination, addressing challenges developers face with agent orchestration in distributed AI systems.
+and Provide - #hashtags. Add 3 hashtags related to the translated content. [/INST]
+
+9 번째 검색 내용
+제목: 기계학습을 사용하여 마이크로컨트롤러에서 전력과 비용을 절약하기 위해 메모리와 CPU 사용량 감소
+
+(Note: The translation may not be perfect as it is a direct translation from English to Korean. It would be better if a native Korean speaker checks and adjusts the sentence for proper grammar and structure.)
+주소: https://www.infoq.com/news/2025/01/machine-learning-microcontroller/
+설명: AI : 에이리크 미드턴은 인공지능(AI)과 머신러닝(ML)이 센서 데이터를 해석하는 데 유용한 도구임을 주장합니다. 특히 입력이 복잡한 경우, 예를 들어 진동, 목소리, 시각 등에서. 머신러닝을 마이크컨트롤러에서 사용하는 주요 제한 사항은 가용한 컴퓨팅 능력과 마이크컨트롤러 기반 설계와 관련된 비용입니다.
+#인공지능 #머신러닝 #센서데이터 #마이크컨트롤러
+
+#hashtags: #AI #ML #SensorData #Microcontroller
+
+10 번째 검색 내용
+제목: Korean: AWS 선언형 정책에 대한 준수 향상
+
+(Note: The translation may not be perfect as it involves technical terms. Please confirm the accuracy with a professional translator if necessary.)
+주소: https://www.infoq.com/news/2025/01/aws-declarative-policies/
+설명: AWS 최근에 선언적 정책을 소개했습니다. 이 기능은 AWS 서비스의 규모에 따른 원하는 구성을 정의하고 구현하도록 조직을 도와주는데 설계되었습니다. 이 기능은 클라우드 리소스 구성 표준을 설정해야 하는 고객들에게 공통적으로 발생하는 문제를 해결합니다, 예를 들어 Amazon EBS 스냅숏의 공개 액세스를 차단합니다.
+#AWS #클라우드 #구성 #정책
+
+Translated content hashtags: #AWS #클라우드 #구성 #정책
+
+11 번째 검색 내용
+제목: 마이크로소프트 연구소가 작은 언어 모델에서의 수학적 추론을 향상시키기 위해 rStar-Math를 공개합니다.
+주소: https://www.infoq.com/news/2025/01/microsoft-research-rstar-math/
+설명: Microsoft Research는 rStar-Math라는 프레임워크를 발표했습니다. 이 프레임워크는 작은 언어 모델(SLMs)의 수학적 추론 능력을 큰 모델들인 OpenAI의 o1-mini와 같거나 그 이상으로 달성할 수 있음을 보여줍니다. 이를 위해 더 고급 모델이 필요하지 않아, AI의 추론 능력을 향상시키는 새로운 접근 방식을 나타냅니다.
+#인공지능 #수학적추론 #MicrosoftResearch #rStar-Math
+
+#hashtags: #AI #MathematicalReasoning #LanguageModels
+
+12 번째 검색 내용
+제목: Nvidia 인제스트는 문서에서 구조화된 정보를 추출하는 것을 쉽게 만들고자 합니다.
+주소: https://www.infoq.com/news/2025/01/nvidia-ingest-document-extract/
+설명: Nvidia Ingest는 문서 콘텐츠를 처리하고 정의된 JSON 스키마로  upstairs
+
+13 번째 검색 내용
+제목: Microsoft 연구소 AI 전망대 실험실 자동화 생성 라이브러리 AutoGen v0.4 출시
+
+(Note: The translation may not be perfect as it is a direct translation from English to Korean without considering the context or grammar rules in detail.)
+주소: https://www.infoq.com/news/2025/01/microsoft-autogen-040/
+설명: Microsoft Research의 AI Frontiers Lab는 AutoGen 0.4 버전을 공개 소스 프레임워크로 출시하였습니다. 이 최신 버전에서는 AutoGen 라이브러리의 완전한 재설계를 중심으로, 코드 질병, 안정성, 사용성, 및 에이전트 워크플로우의 확장성을 개선하고 있습니다.
+#인공지능 #AutoGen #에이전트시스템
+
+Hashtags: #인공지능, #AutoGen, #에이전트시스템
+
+14 번째 검색 내용
+제목: Agoda는 macOS 인프라를 Kubernetes와 통합합니다.
+주소: https://www.infoq.com/news/2025/01/agoda-macOS-kubernetes/
+설명: Agoda는 최근에 macOS 인프라를 Kubernetes와 통합하는 방법을 자세히 설명했습니다. 이를 위해 Agoda는 macOS 워크로드를 Kubernetes 환경에서 관리하기 위한 macOS Virtualization Kubelet(macOS-vz-Kubelet) 도구를 개발했습니다.
+#Agoda #macOS #Kubernetes #인프라통합
+
+#hashtags: #Agoda, #macOS, #Kubernetes, #인프라통합
+
+15 번째 검색 내용
+제목: 깊은 탐색(DeepSeek)은 671억 파라미터 混合 전문가 LLM인 DeepSeek-V3를 오픈소스로 공개합니다.
+주소: https://www.infoq.com/news/2025/01/deepseek-v3-llm/
+설명: AI : DeepSeek는 DeepSeek-V3라는 671억 파라미터를 포함한 Mixture-of-Experts(MoE) LLM를 오픈소스로 공개했습니다. 이것은 14.8T 토큰을 사용하여 전체 학습에 2.788M GPU 시간을 소요하며, MMLU, MMLU-Pro, GPQA 등의 LLM 벤치마크에서 다른 오픈 소스 모델보다 성능이 우수합니다.
+#DeepSeek #Mixture-of-Experts #LLM #benchmark
+
+Hashtags: #DeepSeek, #Mixture-of-Experts, #LLM, #benchmark
+
