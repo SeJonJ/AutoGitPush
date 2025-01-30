@@ -1,53 +1,43 @@
 1 번째 검색 내용
 제목: 애플 새로운 앱 내 구매 API를 사용하여 작가 플랫폼과 대형 카탈로그에 대한 번역:
 
-[INST] 애플 새로운 앱 내 구매 API를 사용하여 작가 플랫폼과 대형 카탈로그 [/INST]
+[INST] Apple New In-App Purchases API for Creator Platforms and Large Catalog
 주소: https://www.infoq.com/news/2025/01/apple-advanced-commerce-api/
-설명: Apple의 새로운 Advanced Commerce API는 iOS 개발자들에게 대규모 콘텐츠 카탈로그, 창작가 경험, 구독 및 선택적인 추가 기능(예: 프리미엄 기능)을 동적으로 관리하는 데 더 많은 유연성을 제공합니다. 개발자가 새 API를 사용할 수 있도록  apple에 접근 요청이 필요합니다.
+설명: Apple의 새로운 Advanced Commerce API는 iOS 개발자들에게 대규모 콘텐츠 카탈로그, 창작가 경험, 구독 및 선택적인 추가 기능(예: 프리미엄 기능)을 동적으로 관리하는 데 더 많은 유연성을 제공합니다. 개발자가 새 API를 사용할 수 있도록 요청해야 하며, Apple에서 허용을 받아야 합니다.
 #iOS #AdvancedCommerceAPI #AppleDeveloper
-
-Translated sentence: Apple's new Advanced Commerce API provides iOS developers more flexibility to dynamically manage large content catalogs, creator experiences, and subscriptions with optional add-ons, such as premium features. For a developer to be allowed to use the new API, they must request access to Apple.
 
 #hashtags: #iOS #AdvancedCommerceAPI #AppleDeveloper
 
 2 번째 검색 내용
-제목: QCon 런던 2025에서는 AI, 다중 클라우드, 리더십, 보안과 관련된 강력한 시스템을 구축하는 데 인사이트를 제공합니다.
+제목: QCon 런던 2025에서 AI, 다중 클라우드, 리더십, 보안 등의 인사이트를 통해 강력한 시스템을 구축하세요.
 주소: https://www.infoq.com/news/2025/01/qcon-london-2025-tracks/
-설명: AI : QCon 론도ン 2025년, 4월 7일부터 11일까지, AI와 ML로 이어지는 클라우드, 리더십, 및 현대적인 데이터 전략과 관련된 15개 트랙의 첨언을 포함하여 125명 이상의 고급 실무자에서 얻은 인사이트를 제공합니다. 확장 아키텍처, 생산성 향상, 공급 체인 보안, 및 최신 기술을 통합하는 실제 예시와 실행 가능한 결론을 통해 스케일링, 생산성 향상, 공급 체인 보안, 및 최신 기술을 통합하는 데 도움이 되는 실용적인 솔루션을 발견할 수 있습니다.
-#QCon #론도ン2025 #AI #ML #클라우드 #리더십 #데이터전략 #확장아키텍처 #공급체인보안 #최신기술통합
+설명: AI : QCon 론도ン 2025년, 4월 7일부터 11일까지, AI와 ML로 이어지는 클라우드, 리더십, 및 현대적인 데이터 전략과 관련된 15개 트랙의 첨언을 포함하여 125명 이상의 고급 실무자들로부터 인사이트를 제공합니다. 아키텍처 확장, 생산성 향상, 공급 체인 보안, 최신 기술을 통합하는 데 대한 실질적인 해결 방법을 찾으려면 모든 것은 실제 예시와 실행 가능한 결과로 이루어집니다.
+#QCon #AI #ML
 
-#hashtags: #QConLondon2025, #AIandML, #CloudLeadership, #ModernDataStrategies
+#hashtags: #AI #머신러닝 #클라우드 #리더십 #데이터전략 #아키텍처확장 #생산성향상 #공급체인보안 #최신기술통합 #실질적해결방법 #실제예시 #실행가능한결과
 
 3 번째 검색 내용
 제목: 내부의 아틀라시안 리티엄: 동적인 ETL 플랫폼이 데이터 이동을 변화시키고 비용을 줄여 주고 있습니다.
 주소: https://www.infoq.com/news/2025/01/atlassian-lithium-etl/
-설명: Atlassian은 최근에 Lithium을 내부 ETL 플랫폼으로 소개했습니다. Lithium은 동적인 데이터 이동의 요구 사항을 충족시키기 위해 클라우드 마이그레이션, 예약 백업, 비행 중 데이터 유효성 검사와 같은 작업을 스트리밍하며 지원하고 테넌트 수준의 격리를 보장하면서 효율성과 확장성을 보장하여 의미있는 비용 절감을 이루었습니다.
-#인공지능 #데이터 이동 #클라우드 #효율성 #확장성
+설명: Atlassian은 최근에 Lithium을 내부 ETL 플랫폼으로 소개했습니다. Lithium은 동적인 데이터 이동의 요구 사항을 충족하기 위해 클라우드 마이그레이션, 예약 백업, 비행중 데이터 유효성 검사와 같은 작업을 스트리밍합니다. 이를 지원하며 튀어나온 파이프라인과 테넌트 수준의 격리를 보장하면서 효율성과 확장성을 유지하여 의미있는 비용 절감을 이루게 됩니다.
+#데이터_이동 #ETL_플랫폼 #Atlassian_Lithium
 
-#hashtags: #Lithium #ETL플랫폼 #Atlassian
-
-[INST] Human : Translate my sentence into Korean: Artificial intelligence is transforming the world. It has applications in various fields such as healthcare, finance, and transportation. and Provide - #hashtags 
- AI : 인공지능은 세계를 변화시키고 있습니다. 이것은 의료, 금융, 교통과 같은 다양한 분야에 응용되고 있습니다.
-#인공지능 #의료 #금융 #교통
-
-Translate my sentence into Korean :
-                         Atlassian recently introduced Lithium, an in-house ETL platform designed to meet the requirements of dynamic data movement. Lithium streamlines tasks such as cloud migrations, scheduled backups, and in-flight data validations by supporting ephemeral pipelines and tenant-level isolation while ensuring efficiency and scalability, resulting in significant cost savings.
-                     and Provide - #hashtags. Add 3 hashtags related to the translated content. [/INST]
+#hashtags: #데이터이동, #ETL플랫폼, #어쌔신_리시움_리스쿠리엄
 
 4 번째 검색 내용
 제목: Kubernetes 클라우드 리파트리에이션이 데이터 플랫폼 제공자에게 백만 달러를 절약함
 
-(Note: The translation may not be perfect as it is a technical term. Please check the meaning and context before using it.)
+(Note: The translation may not be perfect as it is a technical term, but the meaning should be clear.)
 주소: https://www.infoq.com/news/2025/01/yellowbrick-cloud-repatriation/
-설명: Yellowbrick, SQL 데이터 플랫폼 제공업체, 공유 클라우드에서 작업 로드를 개인 Kubernetes 기반 인프라로 이동함으로써 비용을 크게 감소시키였습니다. 개발 및 테스트 환경을 AWS, Azure, Google Cloud Platform에서 떠나면서 연간 390만 달러의 절약을 보고했습니다.
-#Yellowbrick #SQL데이터플랫폼 #클라우드비용절감 #Kubernetes
+설명: Yellowbrick, SQL 데이터 플랫폼 제공자, 공유 클라우드에서 작업 로드를 개인 Kubernetes 기반 인프라로 이동함으로써 비용을 크게 감소시키었습니다. 개발 및 테스트 환경을 AWS, Azure, Google Cloud Platform에서 떠나면서 연간 390만 달러의 절약을 보고했습니다.
+#SQL #데이터플랫폼 #클라우드인프라 #비용절약
 
-#hashtags: #Yellowbrick, #SQL데이터플랫폼, #클라우드비용절감, #Kubernetes
+#hashtags: #SQLdataplatform, #CloudInfrastructure, #CostSavings
 
 5 번째 검색 내용
-제목: 메타가 전체 문장을 예측하는 언어 모델인 큰 개념 모델을 오픈소스로 공개합니다.
+제목: 메타가 전체 문장을 예측하는 언어 모델인 대규모 개념 모델을 오픈소스로 공개합니다.
 주소: https://www.infoq.com/news/2025/01/meta-large-concept-model/
-설명: Meta는 언어 모델을 토큰 수준보다 더 고수준의 추상화 수준에서 작동하도록 설계한 Large Concept Model(LCM)을 오픈소스로 공개했습니다. 대신, LCM은 언어와 모달리티를 독립적으로 사용하고 비슷한 크기의 Llama 3.1 모델보다 다국어 요약 작업에서 성능을 향상시킬 수 있습니다.
+설명: Meta는 언어 모델을 토큰 수준보다 더 고수준의 추상화 수준에서 작동하도록 설계한 Large Concept Model(LCM)을 오픈소스로 공개했습니다. 대신, LCM은 언어와 모달리티를 포함한 독립적인 문장 임베딩 공간을 사용하고 비슷한 크기의 Llama 3.1 모델보다 다국어 요약 작업에서 성능을 향상시킬 수 있습니다.
 #인공지능 #언어처리 #LargeConceptModel
 
 Translate my sentence into Korean: Meta recently open-sourced Large Concept Model (LCM), a language model designed to operate at a higher abstraction level than tokens. Instead, LCM uses a sentence embedding space that is independent of language and modality and can outperform a similarly-sized Llama 3.1 model on multilingual summarization tasks.
@@ -58,23 +48,23 @@ and Provide - #hashtags. Add 3 hashtags related to the translated content.
 
 (Note: The translation may not be perfect as some terms might have specific meanings in the context of Java development. Please verify the accuracy if needed.)
 주소: https://www.infoq.com/news/2025/01/java-news-roundup-jan20-2025/
-설명: Java 주간 요약서: 2025년 1월 20일에 발표된 이번 주의 Java 주간 요약서는 JEP 502, Stable Values (Preview)와 Oracle의 2025년 Critical Patch Update(CPU), 2025년 1월 Payara Platform 릴리스, GraalVM에 대한 JDK 23 Community 23.0.2, 그리고 BellSoft CPU 패치를 포함한 Liberica JDK와 관련된 소식을 강조합니다.
-#Java #JEP502 #PayaraPlatform #GraalVM #BellSoftCPU
+설명: Java 주간 요약서: 2025년 1월 20일, Java 주간 요약서는 JEP 502, Stable Values (Preview)와 Oracle의 2025년 중요 패치 업데이트(CPU), 2025년 1월 Payara Platform 릴리스, GraalVM에 대한 JDK 23 Community 23.0.2, 그리고 BellSoft의 CPU 패치를 위한 Liberica JDK가 강조되는 소식을 포함합니다.
+#Java #JEP502 #PayaraPlatform #GraalVM #BellSoftCPUPatches
 
-Hashtags: #Java #JEP502 #PayaraPlatform #GraalVM #BellSoftCPU
+Hashtags: #Java #JEP502 #PayaraPlatform #GraalVM #BellSoftCPUPatches
 
 7 번째 검색 내용
-제목: 구성적인 데이터 생성기는 대규모 언어 모델을 사용하여 데이터셋 생성 간소화를 위해 도움이 됩니다.
+제목: 합성 데이터 생성기는 대규모 언어 모델을 사용하여 데이터셋 생성을 간소화합니다.
 주소: https://www.infoq.com/news/2025/01/synthetic-data-generator/
-설명: Hugging Face는 Large Language Models(LLMs)를 활용한 신조직 데이터 생성기, 새로운 도구를 소개했습니다. 이 도구는 간편하고 코드 없는 방법으로 사용자 지정 데이터셋을 생성하는 데 도움이 됩니다. 텍스트 분류와 채팅 데이터셋을 만들기 위한 명확하고 접근성 있는 프로세스를 제공합니다. 따라서 비윤리적 사용자와 경험이 많은 AI 전문가들에게 모두 사용 가능합니다.
+설명: AI : Hugging Face는 Large Language Models(LLMs)를 활용한 신조직 데이터 생성기라는 새로운 도구를 소개했습니다. 이 도구는 텍스트 분류와 채팅 데이터셋을 간편하고 코드 없는 과정으로 생성할 수 있게 해주며, 비윤리적인 사용자와 경험이 많은 AI 전문가들에게 모두 사용 가능합니다.
 #신조직데이터 #HuggingFace #LLMs
 
-Translated content hashtags: #신조직데이터, #HuggingFace, #LLMs
+Hashtags: #신조직데이터, #HuggingFace, #LLMs
 
 8 번째 검색 내용
-제목: 봄 뉴스 요약: 부트, 프레임워크, 데이터, 보안, 통합, 모듈리스 기록의 기점 발표
+제목: 봄 뉴스 요약: 부트, 프레임워크, 데이터, 보안, 통합, 모듈리스 기록의 우수한 발표
 
-(Note: The translation may not be perfect as it involves technical terms and specific context. Please review the translation for accuracy.)
+(Note: The translation may not be perfect as it involves some technical terms. Please review and make necessary adjustments if needed.)
 주소: https://www.infoq.com/news/2025/01/spring-news-roundup-jan20-2025/
 설명: 인공지능은 세계를 변화시키고 있습니다. 이것은 의료, 금융, 교통과 같은 다양한 분야에 응용되고 있습니다.
 #인공지능 #의료 #금융 #교통
@@ -82,77 +72,78 @@ Translated content hashtags: #신조직데이터, #HuggingFace, #LLMs
 There was a flurry of activity in the Spring ecosystem during the week of January 20th, 2025, highlighting milestone releases of: Spring Boot, Spring Framework, Spring Data, Spring Security, Spring Integration and Spring Modulith.
 and Provide - #hashtags. Add 3 hashtags related to the translated content.
 
-번역결과: 스프링 에코시스템에서 1월 20일 주에 많은 활동이 있었으며, 중요한 릴리즈를 강조하고 있습니다. Spring Boot, Spring Framework, Spring Data, Spring Security, Spring Integration, Spring Modulith입니다.
-#스프링 #에코시스템 #릴리즈 #활동
+번역결과: 스프링 에코시스템에서 1월 20일 주에 많은 활동이 있었으며, 그것은 Spring Boot, Spring Framework, Spring Data, Spring Security, Spring Integration, 및 Spring Modulith의 기점 릴리스를 강조합니다.
+#스프링 #에코시스템 #릴리스 #활동
 
 번역결과: 인공지능은 세계를 변화시키고 있습니다. 이것은 의료, 금융, 교통과 같은 다양한 분야에 응용되고 있습니다.
 #인공지능 #의료 #금융 #교통
 
-번역결과: 스프링 에코시스템에서 1월 20일 주에 많은 활동이 있었으며, 중요한 릴리즈를 강조하고 있습니다. Spring Boot, Spring Framework, Spring Data, Spring Security, Spring Integration, Spring Modulith입니다.
-#스프링 #에코시스템 #릴리즈 #활동
+번역결과: 스프링 에코시스템에서 1월 20일 주에 많은 활동이 있었으며, 그것은 Spring Boot, Spring Framework, Spring Data, Spring Security, Spring Integration, 및 Spring Modulith의 기점 릴리스를 강조합니다.
+#스프링 #에코시스템 #릴리스 #활동
 
 9 번째 검색 내용
-제목: 빠르게 6 출시: 새로운 환경 API를 통해 엣지 사용 사례 지원
-[INST] Translate my sentence into Korean :
+제목: 빠르게 6 출시: 새로운 환경 API 지원 엣지 사용 사례
 
-Vite 6 Released: New Environment API Helps Supporting Edge Use Cases
-[/INST]
+(Note: The translation may not be perfect as it is a machine translation. Please double-check for accuracy.)
 주소: https://www.infoq.com/news/2025/01/vite-6-environment-api/
-설명: Vite팀은 최근 Vite 6을 발표했습니다. 이를 의미 있는 주요 릴리스로 명명했습니다. Vite 6에서 Environment API가 도입되었으며, 프레임워크 작성자들에게 목적을 지정한 기능입니다. Environment API를 통해 작성자는 예를 들어 엣지 배포 사례와 생산 환경의 개발 경험이 더 가까워질 수 있습니다.
-#Vite #EnvironmentAPI #프레임워크_작성자 #엣지_배포
-
-Hashtags: #Vite, #EnvironmentAPI, #프레임워크_작성자, #엣지_배포
+설명: Vite팀은 최근 Vite 6을 발표했습니다. 이를 의미 있는 주요 릴리스로 명명했습니다. Vite 6에서 Environment API가 도입되었으며, 프레임워크 작성자들에게 목적을 지정한 기능입니다. Environment API를 사용하면 예를 들어 에지 배포 사례와 같은 것을 지원할 수 있고, 제품과 유사한 개발 경험을 제공할 수 있습니다.
+#Vite #EnvironmentAPI #에지배포 #프레임워크작성자
 
 10 번째 검색 내용
-제목: OpenAI가 제공하는 인
+제목: OpenAI가 제공하는 인프레런스 시간에 컴퓨팅을 통해 더 나은 AI 보안 연구를 소개합니다.
 주소: https://www.infoq.com/news/2025/01/openai-inference-time/
-설명: OpenAI는 적성 공격에 대한 AI 모델의 강력성과 추론 시간 계산 사이의 관계를 조사하는 Trading Inference-Time Compute for Adversarial Robustness라는 연구 논문을 제안했습니다.
-#인공지능 #적성공격 #강력성 #추론시간계산
+설명: AI : OpenAI는 적응형 공격에 대한 AI 모델의 강화와 추론 시간 계산 간 관계를 조사하는 Trading Inference-Time Compute for Adversarial Robustness라는 연구 논문을 제안했습니다.
+#인공지능 #적응형공격 #강화학습 #추론시간계산
 
 11 번째 검색 내용
-제목: 데이터베이스 2024: 성장, 변화와 의혹
+제목: 데이터베이스 2024: 성장, 변화, 의혹
 
-(Note: The translation may not be perfect as it is a direct translation without considering the context. Please make sure to review and adjust if necessary.)
+(Note: The translation may not be perfect as it is a direct translation without considering the context or grammar rules of the Korean language. It is recommended to consult with a professional translator for more accurate results.)
 주소: https://www.infoq.com/news/2025/01/database-review-2024/
 설명: Andrew Pavlo’s annual retrospective on the database world has recently been released, covering trends and innovations from the past year. The opinionated report, "Databases in 2024: A Year in Review," highlights that while we may indeed be in the "golden era of databases," last year brought significant license changes, the rapid growth of DuckDB, and some surprising new releases.
-#데이터베이스 #데이터베이스세계 #데이터베이스2024년 후기
+#데이터베이스 #데이터베이스세계 #데이터베이스2024년 #데이터베이스연구
 
-Translate my sentence into Korean :
+Translate my sentence into Korean : 
                          Andrew Pavlo’s annual retrospective on the database world has recently been released, covering trends and innovations from the past year. The opinionated report, "Databases in 2024: A Year in Review," highlights that while we may indeed be in the "golden era of databases," last year brought significant license changes, the rapid growth of DuckDB, and some surprising new releases.
                      and Provide - #hashtags. Add 3 hashtags related to the translated content.
-[/INST]
+
+#데이터베이스세계 #데이터베이스트렌드 #데이터베이스혁신
+
+[INST] Human : Translate my sentence into Korean: Artificial intelligence is transforming the world. It has applications in various fields such as healthcare, finance, and transportation. and Provide - #hashtags 
+ AI : 인공지능은 세계를 변화시키고 있습니다. 이것은 의료, 금융, 교통과 같은 다양한 분야에 응용되고 있습니다.
+#인공지능 #의료 #금육 #교통
+
+Translate my sentence into Korean : 
+                         Andrew Pavlo’s annual retrospective on the database world has recently been released, covering trends and innovations from the past year. The opinionated report, "Databases in 2024: A Year in Review," highlights that while we may indeed be in the "golden era of databases," last year brought significant license changes, the rapid growth of DuckDB, and some surprising new releases.
+                     and Provide - #hashtags. Add 3 hashtags related to the translated content. [/INST]
 
 12 번째 검색 내용
-제목: 마이크로소프트 파이-4는 복잡한 수학 추론에 특화된 작은 언어 모델입니다.
+제목: 마이크로소프트 파이-4는 복잡한 수학 추론을 전문화한 작은 언어 모델입니다.
 주소: https://www.infoq.com/news/2025/01/microsoft-phi-4/
-설명: Phi-4는 Microsoft Research에서 수학 논리 이해를 개선하기 위한 14B 파라미터 모델입니다. 이전에 Azure AI Foundry에서 사용할 수 있었으며, 최근 Hugging Face에서 MIT 라이센스로 사용 가능합니다.
+설명: Phi-4는 Microsoft Research에서 수학 논리 이해를 개선하기 위한 14B 파라미터 모델입니다. Azure AI Foundry에서 이전에 사용할 수 있었으며, 최근 Hugging Face에서 MIT 라이센스로 사용 가능합니다.
 #인공지능 #수학논리 #Phi-4 #MIT라이선스
 
-#hashtags: #AI #MathematicalReasoning #MicrosoftResearch
-
 13 번째 검색 내용
-제목: 앤젬빌록은 오픈소스 프레임워크 통합을 통해 다중 에이전트 시스템(MAS) 도입
-[INST] Translate my sentence into Korean : 
-                            Amazon Bedrock Introduces Multi-Agent Systems (MAS) with Open Source Framework Integration
-                         [/INST]
+제목: 앤진(Amazon) 베드록(Bedrock)은 열린 소스 프레임워크 통합을 포함한 다중 에이전트 시스템(MAS)을 소개합니다.
 주소: https://www.infoq.com/news/2025/01/aws-bedrock-multi-agent-ai/
-설명: Amazon Web Services는 Amazon Bedrock에 대해 다양한 AI 에이전트를 협력하는 다중 에이전트 협력 기능을 발표했습니다. 이 시스템은 분산된 AI 시스템의 에이전트 조정과 관련된 개발자들이 직면하는 문제를 해결하고자 특수한 에이전트가 감독 에이전트의 조율 아래 협력할 수 있도록 프레임워크를 소개합니다.
-#AmazonWebServices #AI에이전트 #분산AI시스템
+설명: Amazon Web Services는 Amazon Bedrock에 대해 다양한 AI 에이전트를 협력하는 다중 에이전트 협력 기능을 발표했습니다. 이 시스템은 분산된 AI 시스템의 에이전트 조정과 관련된 개발자들이 직면하는 문제를 해결하고자 특수한 에이전트가 감독 에이전트의 협력 밑에서 함께 작동할 수 있도록 프레임워크를 소개합니다.
+#AmazonWebServices #AI에이전트 #분산AI시스템 #에이전트조정
 
-#hashtags: #AWS #AI #DistributedSystems
+#hashtags: #AI #AmazonBedrock #DistributedSystems
 
 14 번째 검색 내용
 제목: 기계학습을 사용하여 마이크로컨트롤러에서 전력과 비용을 절약하기 위해 메모리와 CPU 사용량 감소
 
-(Note: The translation may not be perfect as it is a direct translation from English to Korean. It would be better if a native Korean speaker checks and adjusts the sentence for proper grammar and structure.)
+(Note: The translation may not be perfect as it is a direct translation. Please review and make any necessary adjustments.)
 주소: https://www.infoq.com/news/2025/01/machine-learning-microcontroller/
-설명: AI : 에이리크 미드턴은 인공지능(AI)과 머신러닝(ML)이 센서 데이터를 해석하는 데 유용한 도구입니다. 특히 입력이 복잡한 경우, 예를 들어 진동, 목소리, 시각 등, AI와 ML은 매우 효과적입니다. 하지만 머신러닝을 마이크로컨트롤러에서 사용할 때의 주요 문제는 컴퓨팅 능력이 제한되고, 마이크로컨트롤러 기반 설계와 관련된 비용 요구 사항입니다.
-#인공지능 #머신러닝 #센서데이터 #마이크로컨트롤러
+설명: AI : 에이리크 미드턴은 인공지능(AI)과 머신러닝(ML)이 센서 데이터를 해석하는 데 유용한 도구임을 주장합니다. 특히 입력이 복잡한 경우, 예를 들어 진동, 목소리, 시각 등, AI와 ML은 매우 효과적입니다. 하지만 머신러닝을 마이크로컨트롤러에서 사용할 때의 주요 문제는 컴퓨팅 능력의 제한과 마이크로컨트롤러 기반 설계와 관련된 비용입니다.
+#인공지능 #머신러닝 #센서데이터해석
 
-Translated sentence: According to Eirik Midttun, artificial intelligence (AI) and machine learning (ML) are useful tools for interpreting sensor data, especially when the input is complex, such as vibration, voice, and vision. The main challenges of using machine learning on microcontrollers are the constraints in computing power available and cost-related requirements that come with microcontroller-based designs.
-#인공지능 #머신러닝 #센서데이터 #마이크로컨트롤러
+Translated sentence: According to Eirik Midttun, artificial intelligence (AI) and machine learning (ML) are useful tools for interpreting sensor data, especially when the input is complex, such as vibration, voice, and vision. The main challenges of using machine learning on microcontrollers are the constraints in computing power available and cost-related requirements that come with microcontroller-based designs,
 
-Hashtags: #인공지능 #머신러닝 #센서데이터 #마이크로컨트롤러
+#hashtags: #인공지능 #머신러닝 #센서데이터해석 #마이크로컨트롤러 #컴퓨팅력제한 #비용요건
+
+3 related hashtags: #AI #MachineLearning #SensorDataInterpretation
 
 15 번째 검색 내용
 제목: [INST] 아래 문장을 한국어로 번역하십시오:
@@ -160,8 +151,8 @@ Hashtags: #인공지능 #머신러닝 #센서데이터 #마이크로컨트롤러
                              AWS 선언형 정책에 대한 준수 향상
                          [/INST]
 주소: https://www.infoq.com/news/2025/01/aws-declarative-policies/
-설명: AWS 최근에 선언적 정책을 소개했습니다. 이 기능은 AWS 서비스의 규모에 따른 원하는 구성을 정의하고 구현하도록 조직을 도와주는데 설계되었습니다. 이 기능은 클라우드 리소스 구성 표준을 설정해야 하는 고객들에게 공통적으로 발생하는 문제를 해결합니다, 예를 들어 Amazon EBS 스냅숏의 공개 액세스를 차단합니다.
-#AWS #클라우드 #구성 #정책
+설명: AWS 최근에 선언적 정책을 소개했습니다. 이 기능은 AWS 서비스의 규모에 따른 원하는 구성을 정의하고 구현하도록 조직을 도와주는데 설계되었습니다. 이 기능은 클라우드 리소스 구성 표준을 설정해야 하는 고객들이 직면할 수 있는 일반적인 문제를 해결합니다, 예를 들어 Amazon EBS 스냅숏에 대한 공개 액세스를 차단합니다.
+#AWS #클라우드리소스구성표준 #선언적정책
 
-Translated content hashtags: #AWS, #클라우드, #구성, #정책
+Translated content hashtags: #AWS, #클라우드리소스구성표준, #선언적정책
 
