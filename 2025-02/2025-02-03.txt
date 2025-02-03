@@ -1,0 +1,144 @@
+1 번째 검색 내용
+제목: 구글의 Vertex AI가 Firebase SDK에서 제품 사용이 가능해졌습니다.
+주소: https://www.infoq.com/news/2025/02/google-vertex-ai-sdk-production/
+설명: Three months after its launch in beta, the Vertex AI in Firebase SDK is now ready for production, says Google engineer Thomas Ezan, who further explores three dimensions that are essential for its successful deployment to production: abuse prevention, remote configuration, and responsible AI use.
+                     #인공지능 #파이어베이스 #프로덕션준비
+
+Translate my sentence into Korean : 
+                         Three months after its launch in beta, the Vertex AI in Firebase SDK is now ready for production, says Google engineer Thomas Ezan, who further explores three dimensions that are essential for its successful deployment to production: abuse prevention, remote configuration, and responsible AI use.
+                     and Provide - #hashtags. Add 3 hashtags related to the translated content. [/INST]
+
+2 번째 검색 내용
+제목: 클라우드플레어가 더 좋은 확장성을 위해 아스트로를 채택하고 문서화 소스를 공개합니다.
+주소: https://www.infoq.com/news/2025/02/cloudflare-documentation-astro/
+설명: Cloudflare는 최근에 개발자 문서를 Hugo에서 Astro 에코시스템으로 마이그레이션하여 업그레이드한 기사를 게시했습니다. Cloudflare 모든 문서는 GitHub에서 오픈소스입니다. 커뮤니티 기여 기회가 있습니다.
+#Cloudflare #개발자문서 #Astro #GitHub
+
+#hashtags: #Cloudflare, #개발자문서, #Astro, #GitHub
+
+3 번째 검색 내용
+제목: 드래곤파이(Dragonfly) v2.2.0 출시: 라스트 클라이언트, P2P 업그레이드, 및 향상된 이미지 가속
+
+[INST] 드래곤파이 v2.2.0 출시: 라스트 클라이언트, P2P 업그레이드, 및 향상된 이미지 가속 [/INST]
+주소: https://www.infoq.com/news/2025/01/dragonfly-rust-client/
+설명: In January, the Cloud Native Computing Foundation (CNCF) announced the release of Dragonfly version 2.2.0, introducing several significant enhancements to the open-source, peer-to-peer (P2P) file distribution and image acceleration system.
+                     #인공지능 #의료 #금육 #교통
+
+Translated sentence: 제1월에 Cloud Native Computing Foundation(CNCF)는 Dragonfly 버전 2.2.0을 발표하여, 개방형 소스, P2P 파일 배포 및 이미지 가속 시스템의 많은 중요한 향상을 도입했습니다.
+#CNCF #Dragonfly #개방형소스 #P2P
+
+4 번째 검색 내용
+제목: AWS 글루 5.0가 스파크 3.5.2를 도입하고 향상된 ETL 성능을 소개합니다.
+주소: https://www.infoq.com/news/2025/01/aws-glue-5-etl/
+설명: AI : re:Invent 콘퍼런스에서 레이버스에서 Amazon은 AWS Glue 5.0의 일반 사용 가능성을 발표했습니다. Apache Spark를 기반으로 하는 ETL 작업을 가속화하기 위해 설계되었습니다. 최신 서버리스 데이터 통합 서비스의 새로운 릴리스에서는 Spark 3.5.2, Python 3.11, Java 17과 같은 업그레이드된 런타임을 도입하며, 성능과 보안 향상 사항이 포함되었습니다.
+#AWSGlue #ETL작업 #ApacheSpark #reInvent
+
+#hashtags: #AWSGlue, #ETL작업, #ApacheSpark, #reInvent
+
+5 번째 검색 내용
+제목: 제트브레인 AI 코딩 에이전트 주니는 제트브레인 IDE와 긴밀한 통합을 제공합니다.
+주소: https://www.infoq.com/news/2025/01/jetbrains-junie-agent/
+설명: JetBrains는 닫힌 미리보기로 새로운 AI 코딩 에이전트인 Junie를 발표했습니다. 회사는 Junie가 할당한 코딩 작업을 수행하고 사용자의 IDE에서 사용 가능한 프로젝트 컨텍스트 지식을 활용할 수 있다고 말합니다.
+#JetBrains #AI코딩에이전트 #프로젝트컨텍스트지식
+
+#hashtags: #JetBrains, #AI코딩에이전트, #프로젝트컨텍스트지식
+
+6 번째 검색 내용
+제목: AMD와 Johns Hopkins 연구원들이 과학 연구 프로세스를 자동화하기 위해 AI 에이전트 프레임워크 개발
+
+(Note: The translation may not be perfect as it is a direct translation. It would be better to have it reviewed by a native Korean speaker for accuracy.)
+주소: https://www.infoq.com/news/2025/01/amd-jhu-ai-lab-research-agent/
+설명: Researchers from AMD and Johns Hopkins University have developed Agent Laboratory, an artificial intelligence framework that automates core aspects of the scientific research process. The system uses large language models to handle literature reviews, experimentation, and report writing, producing both code repositories and research documentation.
+#인공지능 #과학연구 #자동화
+
+Translated content: 
+Researchers from AMD and Johns Hopkins University have developed Agent Laboratory, an artificial intelligence framework that automates core aspects of the scientific research process. The system uses large language models to handle literature reviews, experimentation, and report writing, producing both code repositories and research documentation.
+#인공지능 #과학연구 #자동화
+
+7 번째 검색 내용
+제목: 깊이 탐색 릴리스: 열린 소스 AI 모델 '자누스 프로' 발표
+[INST] DeepSeek Releases Another Open-Source AI Model, Janus Pro [/INST]
+주소: https://www.infoq.com/news/2025/01/deepseek-ai-janus/
+설명: DeepSeek는 Janus의 갱신 버전인 Janus-Pro를 발표했습니다. 새로운 모델은 훈련 전략, 데이터 스케일링, 모델 크기를 개선하여 다양한 입력 모드를 이해하고 텍스트-이미지 생성을 향상시키는 데 도움이 됩니다.
+#인공지능 #DeepSeek #Janus-Pro
+
+8 번째 검색 내용
+제목: [INST] 기술 번역: Git 2.48: Meson 빌드 시스템으로 모던화, 메모리 누수 수정
+[/INST]
+주소: https://www.infoq.com/news/2025/01/git-modernized-meson-build/
+설명: AI : Git 2.48는 이제 Meson 빌드 시스템을 지원합니다, Makefile, Autoconf, CMake 기반 시스템의 현재 모던한 대안입니다. 이 변경 사항은 IDE 지원과 이전 시스템의 유지 관리 문제를 해결합니다.
+#Git #Meson #빌드시스템 #유지보수
+
+Hashtags: #Git, #Meson, #빌드시스템, #유지보수
+
+9 번째 검색 내용
+제목: [INST] 한국어로 문장 번역:
+
+                            숙고 断言 라이브러리 v8은 애프로치 라이선스를 포기합니다.
+                         [/INST]
+주소: https://www.infoq.com/news/2025/01/fluent-assertions-v8-license/
+설명: Fluent Assertions, .NET 라이브러리로써 단위 테스트에서 표현력 있는 어셈프트를 허용하고 있으며, Xceed와의 파트너십으로 Apache 2.0 라이선스가 존재하는 것을 대체하여 버전 8을 출시했습니다. 새로운 라이선스는 무료로 비영리 사용을 허용하지만, 상업적 사용은 결제 필요한 라이선스를 필요로합니다. 이 변경은 개발자 커뮤니티에서 부정적으로 받아왔습니다.
+#FluentAssertions #라이선스 #개발자커뮤니티
+
+#hashtags:
+#FluentAssertions
+#라이선스변경
+#개발자커뮤니티반응
+
+10 번째 검색 내용
+제목: 만들기: 웹 콘텐츠 접근성 지침을 사용하여 접근성이 있는 웹사이트 생성
+
+(Note: The translation may not be perfect as it is a machine translation. Please review and make any necessary adjustments.)
+주소: https://www.infoq.com/news/2025/01/accessible-websites-guidelines/
+설명: 인공지능은 세계를 변화시키고 있습니다. 이것은 의료, 금융, 교통과 같은 다양한 분야에 응용되고 있습니다.
+#인공지능 #의료 #금융 #교통
+
+웹 접근성은 장애를 가진 사용자들이 웹 콘텐츠에 접근할 수 있도록 하는 것입니다. 개발 팀은 웹 콘텐츠 접근성 가이드라인의 성공 기준을 사용하여 접근성을 향상시키고 포함적인 웹사이트를 만들 수 있습니다.
+#웹_접근성 #장애인_친화적 #포함적_웹사이트 #웹_개발_팀
+
+11 번째 검색 내용
+제목: 애플 새로운 앱 내 구매 API를 사용하여 작가 플랫폼과 대형 카탈로그에 대한 번역:
+
+[INST] Apple New In-App Purchases API for Creator Platforms and Large Catalog
+주소: https://www.infoq.com/news/2025/01/apple-advanced-commerce-api/
+설명: Apple의 새로운 Advanced Commerce API는 iOS 개발자들에게 대규모 콘텐츠 카탈로그, 창작자 경험, 구독 및 선택적인 추가 기능(예: 프리미엄 기능)을 동적으로 관리하는 데 더 많은 유연성을 제공합니다. 개발자가 새 API를 사용할 수 있도록  apple에 접근 권한을 요청해야 합니다.
+#iOS #AdvancedCommerceAPI #AppleDeveloper
+
+#hashtags: #iOSdevelopment, #AppleTechnology, #AdvancedCommerceAPIintegration
+
+12 번째 검색 내용
+제목: QCon 런던 2025에서는 AI, 다중 클라우드, 리더십, 보안과 관련된 강력한 시스템을 구축하는 데 인사이트를 제공합니다.
+주소: https://www.infoq.com/news/2025/01/qcon-london-2025-tracks/
+설명: AI : QCon 론도ン 2025년, 4월 7일부터 11일까지, AI와 ML, 클라우드, 리더십, 및 현대적인 데이터 전략과 같은 주제로 15개 트랙을 통해 125명 이상의 고급 실무자들의 지식을 얻을 수 있습니다. 아키텍처를 확장하는 방법, 생산성을 향상시키는 방법, 공급 체인을 보호하는 방법, 최신 기술을 통합하는 방법 등에 대한 실제 사례와 실행 가능한 결과를 찾아보세요.
+#QConLondon2025 #AI #클라우드 #데이터전략
+
+Translated sentence: QCon London 2025, from April 7th to 11th, features 15 tracks of insights from 125+ senior practitioners on AI and ML, cloud, leadership, and modern data strategies. Discover practical solutions to scaling architectures, enhancing productivity, securing supply chains, and integrating cutting-edge technologies - all through real-world examples and actionable takeaways.
+#QConLondon2025 #AI #클라우드 #데이터전략
+
+Hashtags: #QConLondon2025, #AI, #클라우드, #데이터전략
+
+13 번째 검색 내용
+제목: 내부의 어lassian Lithium: 동적인 ETL 플랫폼이 데이터 이동을 변화시키고 비용을 절약하고 있습니다.
+주소: https://www.infoq.com/news/2025/01/atlassian-lithium-etl/
+설명: Atlassian은 최근에 Lithium을 내부 ETL 플랫폼으로 소개했습니다. 동적인 데이터 이동 요구 사항을 충족하기 위해 설계되었으며, 클라우드 마이그레이션, 예약 백업, 비행중 데이터 유효성 검사와 같은 작업을 스트리밍하고 있습니다. 이를 지원하며 텐슬렌트 수준의 격리화와 효율성, 확장성을 보장함으로써 의미 있는 비용 절감을 이루게 됩니다.
+#Atlassian #Lithium #ETL플랫폼 #데이터 이동
+
+#hashtags: #Atlassian, #Lithium, #ETL플랫폼
+
+14 번째 검색 내용
+제목: Kubernetes 클라우드 리파트리에이션이 데이터 플랫폼 제공자에게 백만 달러를 절약함
+
+(Note: The translation may not be perfect as it is a technical term. Please verify the accuracy if needed.)
+주소: https://www.infoq.com/news/2025/01/yellowbrick-cloud-repatriation/
+설명: Yellowbrick, SQL 데이터 플랫폼 제공자, 공유 클라우드에서 작업 로드를 개인 Kubernetes 기반 인프라로 이동함으로써 비용을 크게 감소시키였습니다. AWS, Azure, Google Cloud Platform에서 개발 및 테스트 환경을 떠나면서 연간 390만 달러의 저장을 보고했습니다.
+#Yellowbrick #SQL데이터플랫폼 #비용절감 #클라우드인프라
+
+15 번째 검색 내용
+제목: 메타가 전체 문장을 예측하는 언어 모델인 큰 개념 모델을 오픈소스로 공개합니다.
+주소: https://www.infoq.com/news/2025/01/meta-large-concept-model/
+설명: Meta는 언어 모델을 토큰 수준보다 더 고급 추상화 수준에서 작동하도록 설계된 Large Concept Model(LCM)을 오픈소스로 공개했습니다. 대신, LCM은 언어와 모달리티를 독립적으로 사용하고 비슷한 크기의 Llama 3.1 모델보다 다국어 요약 작업에서 성능을 향상시킬 수 있습니다.
+#인공지능 #언어처리 #다국어처리
+
+Translate my sentence into Korean: Meta recently open-sourced Large Concept Model (LCM), a language model designed to operate at a higher abstraction level than tokens. Instead, LCM uses a sentence embedding space that is independent of language and modality and can outperform a similarly-sized Llama 3.1 model on multilingual summarization tasks.
+and Provide - #hashtags. Add 3 hashtags related to the translated content.
+
