@@ -1,0 +1,156 @@
+1 번째 검색 내용
+제목: 자바 뉴스 요약: LangChain4j 1.0-Beta1, JHipster Lite, GlassFish, Spring Cloud Stream 응용 프로그램
+
+(Note: The provided translation may not be perfect due to the limitations of AI language models. Please verify the accuracy with a human translator if necessary.)
+주소: https://www.infoq.com/news/2025/02/java-news-roundup-feb03-2025/
+설명: AI : 이번 주 2월 3일의 Java 뉴스 요약에는 다음 내용이 포함되어 있습니다: LangChain4j 1.0 첫 번째 베타 릴리즈, JHipster Lite 버전 1.27.0과 1.28.0, GlassFish 7.0.22, 그리고 Spring Cloud Stream Applications의 버전 2025.0.0과 2024.0.1입니다.
+#Java #뉴스요약 #프로그래밍언어 #웹개발
+
+#hashtags:
+#JavaDev #WebDevelopment #ProgrammingLanguage
+
+2 번째 검색 내용
+제목: Slack은 자동화를 통해 접근성 테스트 향상에 기여합니다.
+주소: https://www.infoq.com/news/2025/02/slack-accessibility-testing/
+설명: Slack는 소프트웨어 개발 생명주기에서 자동으로 장애인을 위한 테스팅을 통합하여 장애인에게 사용자 경험을 향상시키려고 노력했습니다. Slack은 내부 표준을 가지고 있으며, 이러한 표준은 WCAG(웹 접근성 국제 기준)과 일치합니다.
+#Slack #장애인 접근성 #WCAG
+
+#hashtags: #accessibility #webdevelopment #inclusion
+
+3 번째 검색 내용
+제목: 펠렛트DB, 몽고DB의 오픈소스 대안으로 발표된 버전 2.0
+주소: https://www.infoq.com/news/2025/02/ferretdb-documentdb/
+설명: FerretDB는 DocumentDB가 최근에 발표된 것으로 2.0 버전의 첫 번째 릴리즈 кан디드를 발표했습니다. 이제 FerretDB는 MongoDB의 개방형 소스 대안으로, DocumentDB에 의해 기능 호환성이 향상되고 벡터 검색 기능과 복제 지원을 포함하여 성능 개선 사항이 있습니다.
+#FerretDB #DocumentDB #MongoDB #벡터검색
+
+4 번째 검색 내용
+제목: 최근 애플 프로세서가 새로운 사이드 채널 취약점에 영향을 받았습니다.
+주소: https://www.infoq.com/news/2025/02/apple-cpu-side-channel-slap-flop/
+설명: 연구자들은 애플에서 최근 M과 A CPU를 사용하여 책갈피를 방문할 때 민감한 정보를 유출시키는 두 가지 새로운 사이드 채널 공격을 보여줍니다. 그들은 차단, 크롬, 및 세탁기와 같은 인기 사이트를 방문할 때 민감한 정보가 유출되는 것을 보여줍니다.
+#사이드채널공격 #애플CPU #민감한정보유출
+
+Translated sentence: Researchers at the Georgia Institute of Technology and the Ruhr University Bochum demonstrated two new side channel attacks on recent M and A CPUs from Apple that leak sensitive information when using Chrome and Safari to visit popular sites.
+#hashtags: #사이드채널공격, #애플CPU, #민감한정보유출
+
+5 번째 검색 내용
+제목: 캐나바가 낙천설로 인해 무엇이 발생했는지 알아보겠습니다.
+
+[How Locking, Saturation and CDN Network Issues Brought down Canva](https://www.theregister.co.uk/2019/11/27/canva_outage/)
+
+이 기사에서는 캐나바가 낙천설로 인해 발생한 문제를 다루고 있습니다. 캐나바는 그림 편집 및 디자인 도구로 유명하며, 2019년 11월 27일에 서비스가 중단되었습니다. 이 문제의 원인은 캐나바가 사용하고 있는 CDN(Content Delivery Network) 네트워크 문제와 관련이 있었습니다.
+
+CDN은 웹 컨텐츠를 전송하기 위해 전세계적으로 분산된 서버들로 구성되어 있으며, 캐나바는 이러한 CDN을 사용하여 빠른 속도로 웹 컨텐츠를 제공합니다. 그러나 2019년 11월 27일, 캐나바가 사용하고 있는 CDN 서버에 대한 락(locking)이 발생하였습니다.
+
+락은 데이터베이스나 파일 시스템과 같은 리소스에 접근할 때 동시에 여러 요청을 처리하지 못하도록 제한하는 기능입니다. 이로 인해, 캐나바의 사용자들은 서비스를 사용하거나 데이터를 저장하는 데 어려움을 겪게 되었습니다.
+
+또한, 캐나바가 사용하고 있는 CDN 네트워크에서 사용량(saturation)이 높아져, 서버의 성능이 저하되어 문제가 발생했습니다. 이로 인해, 캐나바의 사용자들은 서비스를 이용할 때 느린 속도와 오류 메시지를 받게 되었습니다.
+
+결국, 이러한 문제로 인해 캐나바의 서비스가 중단되었으며, 회사는 이 문제를 해결하기 위해 CDN 공급업체와 협력하여 조치를 취했습니다. 이러한 사건은 캐나바에게 큰 영향을 미치며, 회사는 이러한 문제를 피하기 위해 CDN 서비스와 관련된 모든 측면을 검토하고 개선할 필요가 있다는 것을 깨닫게 되었습니다.
+주소: https://www.infoq.com/news/2025/02/canva-incident-report/
+설명: Canva 엔지니어링 팀은 이전 노버럴에 경험한 서비스 중단 사건의 후기를 최근에 발표했습니다. API 게이트웨이 실패와 해당 사고 중에 배운 교훈을 자세히 설명합니다.
+#Canva #엔지니어링팀 #API #서비스중단 #사건 #교훈
+
+Hashtags: #Canva, #엔지니어링팀, #API, #서비스중단, #사건, #교훈
+
+6 번째 검색 내용
+제목: OpenEuroLLM: 유럽의 새로운 오픈소스 AI 개발 초기화
+[INST] Translate my sentence into Korean :
+
+                            OpenEuroLLM: Europe’s New Initiative for Open-Source AI Development
+                         [/INST]
+주소: https://www.infoq.com/news/2025/02/open-euro-llm/
+설명: A consortium of 20 European research institutions, companies, and EuroHPC centers has launched OpenEuroLLM, an initiative to develop open-source, multilingual large language models (LLMs). Coordinated by Jan Hajič and co-led by Peter Sarlin, the project aims to provide transparent and compliant AI models for commercial and public sector applications.
+#인공지능 #멀티언어 #오픈소스
+
+Translated content: 
+A consortium of 20 European research institutions, companies, and EuroHPC centers has launched OpenEuroLLM, an initiative to develop open-source, multilingual large language models (LLMs). Coordinated by Jan Hajič and co-led by Peter Sarlin, the project aims to provide transparent and compliant AI models for commercial and public sector applications.
+#인공지능 #멀티언어 #오픈소스
+
+7 번째 검색 내용
+제목: 데이터 계약은 데이터 팀 간의 협력을 지원하는 방법입니다.
+주소: https://www.infoq.com/news/2025/02/data-contracts-collaboration/
+설명: 인공지능은 세계를 변화시키고 있습니다. 이것은 의료, 금융, 교통과 같은 다양한 분야에 응용되고 있습니다.
+#인공지능 #의료 #금육 #교통
+
+데이터 계약은 데이터 제공자와 소비자 간의 인터페이스를 정의하며, 데이터 모델, 품질 보증 및 소유권과 같은 것을 지정합니다. 그들은 데이터 메시에서 분산된 데이터 소유권을 보장하여 데이터가 발견되고, 상호 작용하며, 관리됩니다. 데이터 계약은 팀 간의 커뮤니케이션을 개선하고 데이터 제품의 신뢰성과 질량을 향상시킵니다.
+#데이터계약 #데이터메시 #데이터소유권 #데이터인터페이스
+
+[INST] Human : Translate my sentence into Korean: Data contracts define the interface between data providers and consumers, specifying things like data models, quality guarantees, and ownership. They are essential for distributed data ownership in data mesh, ensuring data is discoverable, interoperable, and governed. Data contracts improve communication between teams and enhance the reliability and quality of data products.
+and Provide - #hashtags. Add 3 hashtags related to the translated content. [/INST]
+
+8 번째 검색 내용
+제목: 앤젬론(Amazon EventBridge) 이벤트 버스 교차 계정 이벤트 전송
+
+(Note: The translation may not be perfect as it is a technical term. Please verify the accuracy if needed.)
+주소: https://www.infoq.com/news/2025/02/amazon-eventbridge-cross-account/
+설명: AWS 는 Amazon EventBridge를 향상시키며, 계정 간에 직접적인 이벤트 전송을 가능하게 합니다. 이 기능은 아키텍처를 단순화하고, 보안을 높여주며, 이벤트의 지연시간을 줄여줍니다. AWS 서비스인 SQS와 Lambda에 이벤트를 간편하게 라우팅할 수 있습니다. IAM 제어를 사용하여 이벤트 소스를 효율적으로 관리합니다. AWS 문서와 GitHub에서 이 변화적인 업데이트에 대해 자세히 알아보세요.
+#AWS #AmazonEventBridge #IAM #이벤트소스
+
+#hashtags: #AWS, #AmazonEventBridge, #IAM, #이벤트소스
+
+9 번째 검색 내용
+제목: OpenAI가 높은 수준의 연구를 시작합니다: AI를 도움으로 살펴보는 것을 향상시키기 위해.
+주소: https://www.infoq.com/news/2025/02/deep-research-openai/
+설명: AI : OpenAI는 ChatGPT의 새로운 에이전트인 Deep Research를 출시했습니다. 초기 Pro 사용자에게 제공되며, Plus와 Team 사용자에게 접근을 확장하여 계획 중입니다. 웹에서 검색을 자동화하고 시간이 소요되는 연구를 단축합니다.
+#인공지능 #OpenAI #DeepResearch
+
+Hashtags: #인공지능, #OpenAI, #DeepResearch
+
+10 번째 검색 내용
+제목: 깊은 탐색 데이터베이스에서 민감한 정보가 유출되면서 AI 보안 위험이 강조됩니다.
+주소: https://www.infoq.com/news/2025/02/deepsek-exposed-database/
+설명: AI : 클라우드 보안 기업 Wiz는 공개된 DeepSeek 데이터베이스를 찾아내어 데이터베이스 작업의 전체 제어권과 내부 데이터에 대한 접근 권한을 포함하여 백만 줄의 채팅 로그 등 수많은 내용에 대한 액세스를 제공하고 있음을 드러냈습니다. 취약점은 빠르게 수정되었지만, 이 사건은 AI 산업이 더 높은 보안 표준을 적용해야 한다는 것을 보여줍니다.
+#인공지능 #보안 #데이터베이스 #클라우드
+
+Hashtags: #인공지능, #보안, #데이터베이스, #클라우드
+
+11 번째 검색 내용
+제목: InfoQ의 새로운 인증은 고급 개발자와 아키텍트에게 실용적인 기술을 중점으로 집중합니다.
+주소: https://www.infoq.com/news/2025/02/infoq-certification-architects/
+설명: InfoQ는 QCon London 2025 (4월 7일~11일)에 첫 번째 실습 소프트웨어 아키텍처 인증을 도입합니다. 이 인증은 실무자가 주도하는 컨퍼런스 세션과 실제 월드 아키텍처 문제를 중심으로 한 워크숍을 결합할 것입니다.
+#QConLondon #소프트웨어_아키텍처 #인증 #실습
+
+Translated sentence: InfoQ is introducing its first hands-on software architecture certification at QCon London 2025 (April 7-11), the international software development conference. The certification will combine practitioner-led conference sessions with a hands-on workshop focused on real-world architectural challenges.
+and Provide - #hashtags:
+#InfoQ #QConLondon2025 #소프트웨어_개발 #인증 #실습_워크숍
+
+3 hashtags related to the translated content:
+#소프트웨어_아키텍처 #인증 #실습_워크숍
+
+12 번째 검색 내용
+제목: 깊이 탐색을 개방적으로 공개합니다: DeepSeek-R1 LLM의 성능이 OpenAI의 o1 모델과 비슷합니다.
+주소: https://www.infoq.com/news/2025/02/deepseek-r1-release/
+설명: 인공지능 기반의 DeepSeek는 강화학습(RL)을 활용한 DeepSeek-R1를 오픈소스로 공개하여 추론 능력을 향상시키고자 합니다. DeepSeek-R1은 OpenAI의 o1 모델과 같은 몇 가지 벤치마크에서 결과를 달성하며, 이는 MATH-500와 SWE-bench입니다.
+#인공지능 #강화학습 #DeepSeek-R1
+
+#hashtags: #AI #RL #DeepSeek
+
+13 번째 검색 내용
+제목: 
+주소: https://www.infoq.com/news/2025/02/hugging-face-inference/
+설명: Hugging Face는 FL, Replicate, SambaNova, 및 Together AI와 같은 네 개의 서버리스 인프레런스 제공자를 모델 페이지에 직접 통합하였습니다. 이러한 제공자는 Hugging Face의 JavaScript와 Python용 클라이언트 SDK에도 통합되어 사용자가 최소한의 설정으로 다양한 모델에서 인프레런스를 실행할 수 있습니다.
+#HuggingFace #인프레런스 #서버리스 #모델페이지
+
+#hashtags: #AI #데이터사이언스 #머신러닝
+
+#인공지능 #데이터사이언스 #머신러닝 #HuggingFace
+
+14 번째 검색 내용
+제목: 블럭이 개방형 소스 AI 프레임워크 코드네임 걸스를 출시합니다.
+주소: https://www.infoq.com/news/2025/02/codename-goose/
+설명: Block의 오픈소스 프로그램 사무실은 자율 운영 가능한 AI 에이전트 프레임워크인 Codename Goose를 오픈소스, 상업적 목적 없는 형태로 출시했습니다. Goose는 사용자에게 유연하고 기존 도구와 매우 잘 통합되는 AI 助手를 제공하며, 확장을 통해 사용자가 사용자 지정할 수 있습니다. 이러한 도구를 사용함으로써 개발자와 기타 전문가들은 생산성을 향상시킬 수 있습니다.
+#오픈소스 #AI #생산성_향상
+
+#hashtags:
+1. #오픈소스
+2. #AI
+3. #생산성_향상
+
+15 번째 검색 내용
+제목: 자바 뉴스 요약: 자바 오퍼레이터 SDK 5.0, 오픈 리버티, 쿼크스 MCP, 버트.스, JBang, 토르노드VM
+주소: https://www.infoq.com/news/2025/02/java-news-roundup-jan27-2025/
+설명: AI : 이번 주의 Java 뉴스 요약은 2025년 1월 27일에 발표된 내용으로, GA 출시인 Java Operator SDK 5.0; 2025년 1월 릴리즈인 Open Liberty; Quarkus에서 Model Context Protocol의 구현; Vert.x 5.0의 4번째 Milestone 릴리즈; 그리고 JBang 0.123.0과 TornadoVM 1.0.10의 Point Release를 다루고 있습니다.
+#Java #Renyu_News #Java_Roundup #Java_Development
+
+Hashtags: #Java, #Renyu_News, #Java_Roundup, #Java_Development
+
