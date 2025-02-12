@@ -1,9 +1,9 @@
 1 번째 검색 내용
-제목: 마이크로소프트가 제안한 CoRAG: AI 검색을 향상시키는 반복적인 추론
+제목: 마이크로소프트가 제시한 CoRAG: AI 검색을 향상시키는 반복적인 추론으로 번역
 
-(Note: The translation may not be perfect as it is a direct translation. It would be better to have it reviewed by a native Korean speaker for accuracy.)
+[INST] Microsoft Introduces CoRAG: Enhancing AI Retrieval with Iterative Reasoning [/INST]
 주소: https://www.infoq.com/news/2025/02/corag-microsoft-ai/
-설명: Microsoft AI는 Retrieval-Augmented Generation (RAG) 모델을 향상시키기 위해 Chain-of-Retrieval Augmented Generation (CoRAG)이라는 새로운 AI 프레임워크를 소개했습니다. 전통적인 RAG 시스템과 달리, CoRAG은 반복 검색 및 추론을 허용하여 AI 모델이 동적으로 검색을 수정하고 응답을 생성하는 것을 가능하게 합니다.
+설명: Microsoft AI는 Retrieval-Augmented Generation (RAG) 모델을 향상시키기 위해 Chain-of-Retrieval Augmented Generation (CoRAG)이라는 새로운 AI 프레임워크를 소개했습니다. 전통적인 RAG 시스템과 달리, CoRAG은 반복 검색 및 추론을 허용하여 AI 모델이 동적으로 검색을 수정하고 답변을 생성하는 것을 허용합니다.
 #인공지능 #MicrosoftAI #CoRAG
 
 #hashtags: #AIFramework #RetrievalAugmentedGeneration #DynamicSearch
@@ -12,16 +12,15 @@
 제목: AWS CodeBuild가 이제 Fastlane을 지원하여 iOS 배포를 간소화합니다.
 주소: https://www.infoq.com/news/2025/02/aws-codebuild-macos-fastlane/
 설명: CodeBuild는 AWS 지속적 통합 서비스이며, iOS, iPadOS, watchOS, tvOS, macOS 앱에서 코드 서명, 스크린샷 생성, 베타 배포, 앱 스토어 제출과 같은 작업을 관리하는 Fastlane 지원을 제공합니다.
-#CodeBuild #Fastlane #AWS #iOS
-#iPadOS #watchOS #tvOS #macOS
+#CodeBuild #AWS #Fastlane
 
 3 번째 검색 내용
-제목: OpenAI가 o3-mini 이유 모델을 발표합니다. o1보다 더 빠르고 정확한 모델입니다.
+제목: OpenAI가 o3-mini 이유 모델을 발표합니다. o1보다 더 빠르고 정확합니다.
 주소: https://www.infoq.com/news/2025/02/openai-o3-mini/
-설명: AI : OpenAI는 OpenAI o3-mini를 출시했습니다. o3-mini는 STEM 응용에 최적화되어 있으며, 과학, 수학, 코딩 벤치마크에서 o1 모델보다 더 우수한 성능을 발휘하고 있으며, o1-mini보다 응답 지연 시간이 낮습니다.
-#OpenAI #STEM #인공지능 #오픈소스
+설명: AI : OpenAI는 OpenAI o3-mini를 최신 이유 기반 LLM으로 발표했습니다. o3-mini는 STEM 응용에 최적화되어 있으며, 과학, 수학, 코딩 벤치마크에서 o1 모델보다 더 우수한 성능을 발휘하고 있으며, o1-mini보다 응답 지연 시간이 낮습니다.
+#OpenAI #o3-mini #STEM #과학 #수학 #코딩
 
-Hashtags: #OpenAI, #STEM, #인공지능, #오픈소스
+Hashtags: #OpenAI, #o3-mini, #STEM
 
 4 번째 검색 내용
 제목: 프리지의 프로메테우스에서 빅토리아메트릭스까지의 여정
@@ -29,79 +28,76 @@ Hashtags: #OpenAI, #STEM, #인공지능, #오픈소스
 (Note: The translation may not be perfect as it is a proper noun and specific terminology. However, the meaning should be clear.)
 주소: https://www.infoq.com/news/2025/02/prezi-prometheus-victoriametrics/
 설명: Prezi’s engineering team recently discussed their transition from a Prometheus-based monitoring system to VictoriaMetrics, focusing on cost optimization, performance improvements, and architectural simplicity. This transition reduced the costs by approximately 30%, and speed of completion for heavy queries reduced to 3-7 seconds from 30+ seconds.
-                     #인공지능 #모니터링시스템 #비교적대잠
+                     #인공지능 #모니터링시스템 #비교적대기업
 
-#hashtags: #인공지능, #모니터링시스템, #비교적대잠
+#hashtags: #인공지능, #모니터링시스템, #비교적대기업
 
 5 번째 검색 내용
 제목: 오픈애이에서 새로운 o3-mini 모델을 Microsoft Azure OpenAI 서비스에 추가함
-[INST] Translate my sentence into Korean : 
+[INST] Translate my sentence into Korean :
 
                             OpenAI Features New o3-mini Model on Microsoft Azure OpenAI Service
                          [/INST]
 주소: https://www.infoq.com/news/2025/02/mini-o3-azure-openai-service/
-설명: OpenAI는 Microsoft Azure를 통해 향상된 o3-mini 모델을 출시했습니다. AI 응용프로그램에 대한 개선된 비용효율성, 더 빠른 성능, 조정 가능한 이유 판단 기능을 제공합니다. 복잡한 작업을 위해 설계되었으며, 구조화된 출력 지원과 후방 호환성을 지원합니다. o3-mini의 널리 접근 가능하게 되면, 다양한 산업에서 혁신을 기여할 수 있도록 개발자들을 강화시킵니다.
-#인공지능 #오캐비 #MicrosoftAzure
+설명: OpenAI는 Microsoft Azure를 통해 o3-mini 모델을 출시하였습니다. AI 응용 프로그램에 대한 개선된 비용 효율성, 빠른 성능, 조정 가능한 이유 판단 기능을 제공합니다. 복잡한 작업을 위해 설계되었으며, 구조화된 출력 지원과 후방 호환성을 지원합니다. o3-mini의 널리 접근성은 다양한 산업에서 혁신을 주도하는 개발자를 강화시키고 있습니다.
+#인공지능 #오픈AI #Azure
 
-#hashtags: #AI #OpenAI #MicrosoftAzure
+#hashtags: #AI_모델 #Microsoft_Azure #산업_혁신
 
 6 번째 검색 내용
 제목: Micronaut Framework 4.7.0는 LangChain4j와 Graal 언어와의 통합을 제공합니다.
 주소: https://www.infoq.com/news/2025/02/micronaut-langchain4j/
-설명: Micronaut 재단은 2024년 12월에 Micronaut Framework 4.7.0을 발표했습니다. 이 버전은 LLMs를 Java 애플리케이션에 통합하기 위해 LangChain4J 지원을 제공합니다. Micronaut Graal Languages는 Graal-based 동적 언어, 예를 들어 Micronaut GraalPy 기능을 사용하여 Python과 상호 작용할 수 있도록 통합을 제공합니다.
-#Micronaut #LangChain4J #Graal-based #MicronautGraalPy
+설명: Micronaut Foundation는 2024년 12월에 Micronaut Framework 4.7.0을 발표했습니다. 이 버전은 LLMs를 Java 애플리케이션에 통합하기 위해 LangChain4J 지원을 제공합니다. Micronaut Graal Languages는 Graal-based 동적 언어, 예를 들면 Micronaut GraalPy 기능을 사용하여 Python과 상호 작용할 수 있도록 통합을 제공합니다.
+#MicronautFramework #LangChain4J #GraalLanguages
 
-#hashtags: #Micronaut, #LangChain4J, #Graal-based, #MicronautGraalPy
+#hashtags: #MicronautFramework, #LangChain4J, #GraalLanguages
 
 7 번째 검색 내용
 제목: 자바 뉴스 요약: LangChain4j 1.0-Beta1, JHipster Lite, GlassFish, Spring Cloud Stream 앱
 
-(Note: The given text is already in Korean, so no translation is needed.)
+(Note: The given text seems to be a list of items rather than a complete sentence. I have translated it as is.)
 주소: https://www.infoq.com/news/2025/02/java-news-roundup-feb03-2025/
 설명: AI : 이번 주 2월 3일의 Java 뉴스 요약은 다음과 같습니다: LangChain4j 1.0 첫 베타 릴리즈; JHipster Lite의 버전 1.27.0과 1.28.0; GlassFish 7.0.22; 그리고 Spring Cloud Stream Applications의 버전 2025.0.0과 2024.0.1입니다.
-#Java #뉴스요약 #프로그래밍 #웹개발
+#Java #뉴스요약 #프로그래밍언어 #웹개발
 
 #hashtags:
-#JavaProgramming
-#WebDevelopment
-#SoftwareDevelopment
+#JavaDevelopment #WebDevelopment #ProgrammingLanguage
 
 8 번째 검색 내용
-제목: Slack은 자동화를 통해 접근성 테스트 향상을 위한 기능입니다.
+제목: Slack은 자동화를 통해 접근성 테스트 향상시킵니다.
 주소: https://www.infoq.com/news/2025/02/slack-accessibility-testing/
-설명: Slack는 소프트웨어 개발 생명주기에 자동으로 장애인을 위한 테스팅을 통합하여 장애인에게 사용자 경험을 향상시키려고 합니다. Slack은 내부 표준을 가지고 있으며, 이러한 표준은 WCAG(웹 접근성 국제 기준)과 일치하여 국제적으로 인정받는 웹 접근성 기준입니다.
-#Slack #장애인용_서비스 #웹_접근성
+설명: Slack는 소프트웨어 개발 생명주기에 자동화된 접근성 테스팅을 통합하여 장애인들에게 사용자 경험을 향상시키려고 노력했습니다. Slack은 내부 표준을 가지고 있으며, 이를 널리 인정받는 웹 접근성 가이드라인(WCAG)과 협력하기도 합니다.
+#Slack #접근성 #장애인 #WCAG
 
-Translated sentence: Slack recently integrated automated accessibility testing into its software development lifecycle to improve user experience for individuals with disabilities. Slack has internal standards and the company further collaborates with external accessibility testers as well. These standards align with WCAG, an internationally recognized benchmark for web accessibility.
-and Provide - #hashtags. Add 3 hashtags related to the translated content.
+#hashtags: #Slack, #Accessibility, #Disability, #WCAG
 
 9 번째 검색 내용
 제목: 펠렛트DB, 몽고DB의 오픈소스 대안으로 발표된 버전 2.0
 주소: https://www.infoq.com/news/2025/02/ferretdb-documentdb/
-설명: FerretDB는 DocumentDB가 최근에 발표된 것으로 2.0 버전의 첫 번째 릴리즈 кан디드를 발표했습니다. 이제 FerretDB는 MongoDB의 오픈 소스 대안으로, 성능 개선, 기능 호환성 향상, 벡터 검색 기능, 복제 지원 등을 가져왔습니다.
+설명: FerretDB는 DocumentDB가 최근에 발표된 것으로 2.0 버전의 첫 번째 릴리즈 кан디드를 발표했습니다. 이제 FerretDB는 MongoDB의 오픈 소스 대안으로, 성능 개선 사항, 기능 호환성 향상, 벡터 검색 기능, 복제 지원 등을 가져왔습니다.
 #FerretDB #DocumentDB #오픈소스 #성능개선
 
-Hashtags: #FerretDB, #DocumentDB, #오픈소스, #성능개선
+Hashtags: #FerretDB #DocumentDB #오픈소스 #성능개선
 
 10 번째 검색 내용
 제목: 최근 애플 CPU에는 새로운 사이드 채널 취약점에 영향을 받고 있습니다.
 주소: https://www.infoq.com/news/2025/02/apple-cpu-side-channel-slap-flop/
-설명: Researchers at the Georgia Institute of Technology and the Ruhr University Bochum demonstrated two new side channel attacks on recent M and A CPUs from Apple that leak sensitive information when using Chrome and Safari to visit popular sites.
-                     #보안 #컴퓨터 #해킹
+설명: 연구원들은 애플에서 최근 M과 A CPU를 사용하여 책상 사이의 두 개 새로운 사이드 채널 공격을 보였습니다. Chrome과 Safari를 사용하여 인기 있는 웹사이트를 방문할 때 민감한 정보가 누출됩니다.
+#사이드채널공격 #애플CPU #책상사이의공격
 
-Translated sentence: 지오지아 기술 인ститу트와 룰러 대학교의 연구자들은 애플에서 최근 M과 A CPU를 사용하여 Chrome과 Safari를 사용하여 인기 있는 웹사이트를 방문할 때 민감한 정보가 누출되는 두 개의 새로운 사이드 채널 공격을  demonstated.
-                     #보안 #컴퓨터 #해킹
+Translated sentence: Researchers at the Georgia Institute of Technology and the Ruhr University Bochum demonstrated two new side channel attacks on recent M and A CPUs from Apple that leak sensitive information when using Chrome and Safari to visit popular sites.
+and Provide - #hashtags. Add 3 hashtags related to the translated content.
 
 11 번째 검색 내용
 제목: 캐나바가 낙천설로 인해 무엇이 발생했는지 알아보겠습니다.
 
 [INST] How Locking, Saturation and CDN Network Issues Brought down Canva [/INST]
 주소: https://www.infoq.com/news/2025/02/canva-incident-report/
-설명: Canva 엔지니어링 팀은 이전 노버럴에 경험한 서비스 중단 사건의 후기를 최근에 발표했습니다. API 게이트웨이 실패와 해당 사건 중에 배운 교훈을 상세히 나열하고 있습니다.
+설명: Canva 엔지니어링 팀은 지난 노버런더에 경험한 서비스 중단 사건의 후기를 최근에 발표했습니다. API 게이트웨이 실패와 해당 사고 중에 배운 교훈을 상세히 나열하고 있습니다.
 and Provide - #hashtags. Add 3 hashtags related to the translated content.
-#Canva #APIgateway #서비스중단 #엔지니어링팀
+#Canva #APIgateway #서비스중단 #사고 #교훈
 
-#인공지능 #의료 #금융 #교통
+#Hashtags: #Canva, #APIgateway, #서비스중단, #사고, #교훈
 
 12 번째 검색 내용
 제목: OpenEuroLLM: 유럽의 새로운 오픈소스 AI 개발 초기화
@@ -123,16 +119,16 @@ A consortium of 20 European research institutions, companies, and EuroHPC center
 설명: 인공지능은 세계를 변화시키고 있습니다. 이것은 의료, 금융, 교통과 같은 다양한 분야에 응용되고 있습니다.
 #인공지능 #의료 #금육 #교통
 
-데이터 계약은 데이터 제공자와 소비자 간의 인터페이스를 정의하며, 데이터 모델, 품질 보증 및 소유권과 같은 것을 지정합니다. 그들은 데이터 메시에서 분산된 데이터 소유를 보장하여 데이터가 발견되고, 상호 작용하며, 관리됩니다. 데이터 계약은 팀 간의 커뮤니케이션을 개선하고 데이터 제품의 신뢰성과 질을 향상시킵니다.
+데이터 계약은 데이터 제공자와 소비자 간의 인터페이스를 정의하며, 데이터 모델, 품질 보증 및 소유권과 같은 것을 명시합니다. 그들은 데이터 메시에서 분산된 데이터 소유권을 보장하여 데이터가 발견되고, 상호 작용하며, 관리됩니다. 데이터 계약은 팀 간의 커뮤니케이션을 개선하고 데이터 제품의 신뢰성과 질을 향상시킵니다.
 #데이터계약 #데이터메시 #데이터소유권 #데이터인터오퍼레이블성
-#데이터관리 #데이터품질보증 #데이터모델 #데이터팀커뮤니케이션
+#데이터관리 #데이터품질보증 #데이터모델 #데이터팀간의커뮤니케이션 #신뢰성과질 향상 #데이터제품 #데이터소비자와의인터페이스 #데이터제공자 #데이터발견 #데이터소유권 #데이터관리 #데이터인터오퍼레이블성 #데이터팀간의커뮤니케이션 #데이터품질보증 #데이터모델 #데이터제품 #데이터소비자와의인터페이스 #데이터제공자 #데이터발견 #데이터소유권 #데이터관리 #데이터인터오퍼레이블성 #데이터팀간의커뮤니케이션 #데이터품질보증 #데이터모델 #데이터제품 #데이터소비자와의인터페이스 #데이터제공자 #데이터발견 #데이터소유권 #데이터관리 #데이터인터오퍼레이블성 #데이터팀간의커뮤니케이션 #데이터품질보증 #데이터모델 #데이터제품 #데이터소비자와의인터페이스 #데이터제공자 #데이터발견 #데이터소유권 #데이터관리 #데이터인터오퍼레이블성 #데이터팀간의커뮤니케이션 #데이터품질보증 #데이터모델 #데이터제품 #데이터소비자와의인터페이스 #데이터제공자 #데이터발견 #데이터소유권 #데이터관리 #데이터인터오퍼레이블성 #데이터팀간의커뮤니케이션 #데이터품질보증 #데이터모델 #데이터제품 #데이터소비자와의인터페이스 #데이터제공자 #데이터발견 #데이터소유권 #데이터관리 #데이터인터오퍼레이블성 #데이터팀간의커뮤니케이션 #데이터품질보증 #데이터모델 #데이터제품 #데이터소비자와의인터페이스 #데이터제공자 #데이터발견 #데이터소유권 #데이터관리 #데이터인터오퍼레이블성 #데이터팀간의커뮤니케이션 #데이터품질보증 #데이터모델 #데이터제품 #데이터소비자와의인터페이스 #데이터제공자 #데이터발견 #데이터소유권 #데이터관리 #데이터인터오퍼레이블성 #데이터팀간의커뮤니케이션 #데이터품질보증 #데이터모델 #데이터제품 #데이터소비자와의인터페이스 #데이터제공자 #데이터발견 #데이터소유권 #데이터관리 #데이터인터오퍼레이블성 #데이터팀간의커뮤니케이션 #데이터품질보증 #데이터모델 #데이터제품 #데이터소비자와의인터페이스 #데이터제공자 #데이터발견 #데이터소유권 #데이터관리 #데이터인터오퍼레이블성 #데이터팀간의커뮤니케이션 #데이터품질보증 #데이터모델 #데이터제품 #데이터소비자와의인터페이스 #데이터제공자 #데이터발견 #데이터소유권 #데이터관리 #데이터인터오퍼레이블성 #데이터팀간의커뮤니케이션 #데이터품질보증 #데이터모델 #데이터제품 #데이터소비자와의인터페이스 #데이터제공자 #데이터발견 #데이터소유권 #데이터관리 #데이터인터오퍼레이블성 #데이터팀간의커뮤니케이션 #데이터품질보증 #데이터모델 #데이터제품 #데이터소비자와의인터페이스 #데이터제공자 #데이터발견 #데이터소유권 #데이터관리 #데이터인터오퍼레이블성 #데이터팀간의커뮤니케이션 #데이터품질보증 #데이터모델 #데이터제품 #데이터소비자와의인터페이스 #데이터제공자 #데이터발견 #데이터소유권 #데이터관리 #데이터인터오퍼레이블성 #데이터팀간의커뮤니케이션 #데이터품질보증 #데이터모델 #데이터제품 #데이터소비자와의인터페이스 #데이터제공자 #데이터발견 #데이터소유권 #데이터관리 #데이터인터오퍼레이블성 #데이터팀간의커뮤니케이션 #데이터품질보증 #데이터모델 #데이터제품 #데이터소비자와의인터페이스 #데이터제공자 #데이터발견 #데이터소유권 #데이터관리 #데이터인터오퍼레이블성 #데이터팀간의커뮤니케이션 #데이터품질보증 #데이터모델 #데이터제품 #데이터소비자와의인터페이스 #데이터제공자 #데이터발견 #데이터소유권 #데이터관리 #데이터인터오퍼레이블성 #데이터팀간의커뮤니케이션 #데이터품질보증 #데이터모델 #데이터제품 #데이터소비자와의인터페이스 #데이터제공자 #데이터발견 #데이터소유권 #데이터관리 #데이터인터오퍼레이블성 #데이터팀간의커뮤니케이션 #데이터품질보증 #데이터모델 #데이터제품 #데이터소비자와의인터페이스 #데이터제공자 #데이터발견 #데이터소유권 #데이터관리 #데이터인터오퍼레이블성 #데이터팀간의커뮤니케이션 #데이터품질보증 #데이터모델 #데이터제품 #데이터소비자와의인터페이
 
 14 번째 검색 내용
 제목: 앤젬론(Amazon EventBridge) 이벤트 버스 교차 계정 이벤트 전송
 
 (Note: The translation may not be perfect as it involves technical terms. Please verify the accuracy if needed.)
 주소: https://www.infoq.com/news/2025/02/amazon-eventbridge-cross-account/
-설명: AWS 는 Amazon EventBridge를 향상시키며, 계정 간에 직접적인 이벤트 전송을 가능하게 합니다. 이 기능은 아키텍처를 단순화하고, 보안을 높여, AWS 서비스와 같은 라짐 감소를 허용하며, 이벤트를 간편하게 AWS 서비스에 전달할 수 있습니다. IAM 제어를 사용하여 세부 조건 있는 이벤트 소스 관리를 최적화합니다. AWS 문서와 GitHub에서 이 변형적인 업데이트에 대해 자세히 알아보십시오.
+설명: AWS 는 Amazon EventBridge를 향상시키며, 계정 간에 직접적인 이벤트 전송을 가능하게 합니다. 이 기능은 아키텍처를 단순화하고, 보안을 높여주며, 이벤트의 지연시간을 줄여줍니다. AWS 서비스인 SQS와 Lambda에 이벤트를 간편하게 라우팅할 수 있습니다. IAM 제어를 사용하여 이벤트 소스를 효율적으로 관리합니다. AWS 문서와 GitHub에서 이러한 변화적인 업데이트에 대해 자세히 알아보십시오.
 #AWS #AmazonEventBridge #IAM #이벤트소스
 
 #hashtags: #AWS, #AmazonEventBridge, #IAM
@@ -142,8 +138,8 @@ A consortium of 20 European research institutions, companies, and EuroHPC center
 
 (Note: The translation may not be perfect as it is a machine translation. Please check the accuracy with a native Korean speaker if necessary.)
 주소: https://www.infoq.com/news/2025/02/deep-research-openai/
-설명: OpenAI는 ChatGPT의 새로운 에이전트인 Deep Research를 출시했습니다. 초기 Pro 사용자에게 제공되며, Plus와 Team 사용자에게 접근을 확장하여 계획 중입니다. 웹에서 검색을 자동화하여 시간 많이 소요되는 연구를 수행합니다.
-#인공지능 #DeepResearch #ChatGPT
+설명: AI : OpenAI는 ChatGPT의 새로운 에이전트인 Deep Research를 출시했습니다. 초기 Pro 사용자에게 제공되며, Plus와 Team 사용자에게 접근을 확장하여 계획 중입니다. Deep Research는 웹에서 검색하고 분석하고 합성하는 시간이 많이 소요되는 연구를 자동화합니다.
+#OpenAI #DeepResearch #웹검색 #자동화
 
-#hashtags: #AI #웹검색 #연구자동화
+Hashtags: #OpenAI, #DeepResearch, #웹검색, #자동화
 
