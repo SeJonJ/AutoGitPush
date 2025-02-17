@@ -1,0 +1,150 @@
+1 번째 검색 내용
+제목: 분산된 다양한 모드 데이터베이스 Aerospike 8은 실시간 ACID 트랜잭션 지원을 제공합니다.
+주소: https://www.infoq.com/news/2025/02/aerospike-database-8-acid/
+설명: Aerospike는 분산된 다중 모드 데이터베이스의 8.0 버전을 발표했습니다. 이 버전은 분산 ACID 트랜잭션 지원을 추가하여, 대규모 온라인 거래 처리(OLTP) 애플리케이션인 은행, e-commerce, 재고 관리, 건강 관리, 주문 처리 등에 사용할 수 있습니다.
+#Aerospike #데이터베이스 #OLTP #거래처리
+
+Translated sentence: Aerospike has announced version 8.0 of its distributed multi-modal database, bringing support for distributed ACID transactions. This enables large-scale online transaction processing (OLTP) applications like banking, e-commerce, inventory management, health care, order processing, and more, says the company.
+and Provide - #hashtags. Add 3 hashtags related to the translated content.
+
+2 번째 검색 내용
+제목: 대부분의 기업에서 주간적으로 장애 발생: 복원력 2025 보고서
+[INST] Translate my sentence into Korean :
+
+대부분의 기업에서 주간적으로 장애 발생: 복원력 2025 보고서
+주소: https://www.infoq.com/news/2025/02/report-resilience-devops-dora/
+설명: AI : 코크로쉬 라빈의 '리절런스 2025 보고서'에 따르면, 대부분의 기업들은 주기적인 서비스 중지가 일반적이며, 55%의 기업들은 주별로 발생하는 것을 보고하고 14%는 매일 발생하는 것을 보고합니다. 충격적인 사실이지만 모든 설문조사 참여자들은 서비스 중지로 인한 수익 감소를 경험했으며, 일부 기업(8%)은 지난 12개월 동안 USD 100만 달러 이상의 손실을 보고하였습니다.
+#리절런스 #코크로쉬라빈 #서비스중지 #수익감소
+
+Translated sentence: According to The State of Resilience 2025 Report, published by Cockroach Labs, outages are commonplace in most organizations, with 55% of companies reporting weekly and 14% reporting daily outages. Staggering 100% of survey participants experienced revenue losses due to outages, with some companies (8%) reporting losses of USD 1 million or higher over the last 12 months.
+
+Hashtags: #리절런스 #코크로쉬라빈 #서비스중지 #수익감소
+
+3 번째 검색 내용
+제목: 클릭하우스 보고서는 AWS ARM 인스턴스로 클라우드 워크로드를 이전한 후 25%의 성능 향상을 기록했습니다.
+주소: https://www.infoq.com/news/2025/02/clickhouse-arm-graviton/
+설명: ClickHouse는 지난 6개월 동안 AWS Graviton으로의 마이그레이션 전략을 공유했습니다. 사용자에게 25%의 성능 향상을 보고했습니다. 엔지니어링 팀은 성능 기준을 확립하고 ClickHouse Cloud 서비스를 새로운 ARM 배포로 전환하며 대규모 생산 작업을 처리하는 데 필요한 단계를 나열했습니다.
+#ClickHouse #AWSGraviton #성능향상
+
+#hashtags: #클릭하우스 #AWS #성능향상
+
+4 번째 검색 내용
+제목: 소프트웨어 개발에서 지속적인 개선과 학습 정서를 기르는 방법
+
+(Note: The translation may not be perfect as it is a direct translation. In Korean, the sentence structure might be rearranged for better readability.)
+주소: https://www.infoq.com/news/2025/02/improve-learn-software-dev/
+설명: 인간 : 라미아 시리암 대로, 개인과 팀은 경쟁력과 관련성을 유지하려면 연속적 개선과 연속적 학습 정서를 받아들여야 합니다. 그녀는 연속적 개선과 학습에 대해 언급했으며, 그것을 어떻게 그 회사가 혁신의 문화를 기르고 있는지 탐구하면서 실험을 지원하고 직원들에게 시간과 공간을 제공하여 새로운 접근 방식을 찾아내고 적응할 수 있도록 합니다.
+and Provide - #hashtags. Add 3 hashtags related to the translated content.
+#연속적개선 #연속적학습 #혁신의문화
+
+번역결과: 라미아 시리암은 경쟁력과 관련성을 유지하려면 개인과 팀이 연속적 개선과 연속적 학습 정서를 받아들여야 한다고 주장합니다. 그녀는 연속적 개선과 학습에 대해 언급하며, 그것을 어떻게 회사가 혁신의 문화를 기르고 있는지 탐구하면서 실험을 지원하고 직원들에게 시간과 공간을 제공하여 새로운 접근 방식을 찾아내고 적응할 수 있도록 합니다.
+#연속적개선 #연속적학습 #혁신의문화
+
+5 번째 검색 내용
+제목: 제네미 2.0 가족이 저렴한 비용으로 구성된 Flash-Lite와 Pro-실험적 모델을 확장합니다.
+주소: https://www.infoq.com/news/2025/02/gemini-2-flash-lite-pro-models/
+설명:  Korean Translation: 지난 12월에 발표된 Gemini 2.0 모델 가족의 새로운 멤버, Gemini 2.0 Flash-Lite가 Google이 대규모 텍스트 출력 사용 사례에 대비한 비용 최적화된 것으로 표시되고 현재 미리 보기로 제공됩니다. Flash-Lite와 함께 Google은 Gemini 2.0 Pro도 발표했습니다.
+#인공지능 #텍스트처리 #Google
+
+Hashtags: #인공지능, #텍스트처리, #Google
+
+6 번째 검색 내용
+제목: Uno Platform 5.6 출시: 성능 향상, 핫 리로드 개선 및 기타 내용
+
+(Note: The Korean translation may not be perfect as it is translated using an AI model. Please review and make necessary adjustments if needed.)
+주소: https://www.infoq.com/news/2025/02/uno-platform-56/
+설명: Uno Platform team has announced the release of version 5.6, bringing substantial improvements in performance, productivity, and cross-platform development capabilities. Among the key updates are significant enhancements to Hot Reload, expanded app packaging support, and notable memory and runtime optimizations.
+                     Korean: Uno 플랫폼 팀은 성능, 생산성, 크로스 플랫폼 개발 기능에 대한 중요한 개선을 가져오는 버전 5.6를 출시했습니다. 중요한 업데이트 중 하나는 Hot Reload의 유명한 개선, 앱 패키지 지원의 확장, 메모리와 실행 시간 최적화에 대한 명심 있는 개선입니다.
+                     #UnoPlatform #성능개선 #크로스플랫폼개발
+
+Additional hashtags: #CSharp #XAML #MultiplatformDevelopment
+
+7 번째 검색 내용
+제목: 스택 리팩토링을 통한 AWS CloudFormation 서비스에서의 향상된 인프라 관리
+
+(Note: The translation may not be perfect as it is a technical term. Please verify the accuracy if needed.)
+주소: https://www.infoq.com/news/2025/02/cloudformation-stack-refactoring/
+설명: AWS CloudFormation's new stack refactoring feature transforms resource management, enabling seamless movement of resources between stacks. This enhances modularity and alignment with business needs, reduces misconfiguration risks, and boosts efficiency. Developers can optimize costs and improve clarity, making cloud architecture more manageable and adaptable.
+                     #AWSCloudFormation #리소스관리 #클라우드아키텍처
+
+Add 3 hashtags related to the translated content:
+#리소스이동 #비즈니스요구사항에맞춤 #효율성향상
+
+8 번째 검색 내용
+제목: JDK 24와 JDK 25: 이번까지 알고 있는 것
+
+(Note: "INST" tag is not used in Korean translation as it is a formatting tag for the English text.)
+주소: https://www.infoq.com/news/2025/02/java-24-so-far/
+설명: JDK 24, 제3차 LTS 이후에 다시 한 번 출현한 세 번째 릴리스로, JEP의 총 24개 새로운 기능이 최종 릴리스 후보 단계에 도달했습니다. 이러한 기능은 다섯 가지 카테고리로 분류할 수 있으며, 그것들은 Core Java Library, Java Language Specification, Security Library, HotSpot과 Java Tools에 해당합니다. JDK 24를 살펴보고 JDK 25로 향한 목표 기능을 예측합니다.
+#JDK24 #JavaTools #HotSpot
+
+#hashtags: #Java #JEP #JDK25
+
+9 번째 검색 내용
+제목: 마이크로소프트가 제시한 CoRAG: AI 검색을 향상시키는 반복적 추론 기능 도입
+
+(Microsoft Introduces CoRAG: Enhancing AI Retrieval with Iterative Reasoning)
+주소: https://www.infoq.com/news/2025/02/corag-microsoft-ai/
+설명: Microsoft AI는 Retrieval-Augmented Generation (RAG) 모델을 향상시키기 위해 Chain-of-Retrieval Augmented Generation (CoRAG)이라는 새로운 AI 프레임워크를 소개했습니다. 전통적인 RAG 시스템과 달리, CoRAG은 반복 검색 및 추론을 허용하여 AI 모델이 동적으로 검색을 수정하고 답변을 생성하기 전에 검색을 향상시킬 수 있습니다.
+#인공지능 #MicrosoftAI #검색증강된생성 #RAG
+
+Hashtags: #인공지능, #MicrosoftAI, #검색증강된생성, #RAG
+
+10 번째 검색 내용
+제목: AWS CodeBuild가 이제 Fastlane을 지원하여 iOS 배포를 간소화합니다.
+주소: https://www.infoq.com/news/2025/02/aws-codebuild-macos-fastlane/
+설명: CodeBuild는 AWS의 지속적 통합 서비스이며, iOS, iPadOS, watchOS, tvOS, macOS 앱에서 코드 서명, 스크린샷 생성, 베타 배포, 앱 스토어 제출과 같은 작업을 관리하는 Fastlane 지원을 제공합니다.
+#CodeBuild #Fastlane #AWS #iOS
+#인공지능 #의료 #금융 #교통
+
+11 번째 검색 내용
+제목: OpenAI가 o3-mini 이유 모델을 발표합니다. o1보다 더 빠르고 정확합니다.
+주소: https://www.infoq.com/news/2025/02/openai-o3-mini/
+설명: AI : OpenAI는 OpenAI o3-mini를 발표했습니다. o3-mini는 STEM 응용에 최적화되어 있으며, 과학, 수학, 코딩 벤치마크에서 전체 o1 모델보다 더 우수한 결과를 출력하고 있으며, o1-mini보다 응답 지연 시간이 낮습니다.
+#OpenAI #STEM #인공지능 #오픈소스
+
+Hashtags: #OpenAI, #STEM, #인공지능, #오픈소스
+
+12 번째 검색 내용
+제목: 프리지의 프로메테우스에서 빅토리아메트릭스까지의 여정
+
+(Note: The translation may not be perfect as it is a proper noun and specific terminology. However, the meaning of the sentence is conveyed.)
+주소: https://www.infoq.com/news/2025/02/prezi-prometheus-victoriametrics/
+설명: Prezi’s engineering team recently discussed their transition from a Prometheus-based monitoring system to VictoriaMetrics, focusing on cost optimization, performance improvements, and architectural simplicity. This transition reduced the costs by approximately 30%, and speed of completion for heavy queries reduced to 3-7 seconds from 30+ seconds.
+                     #인공지능 #모니터링시스템 #비교적대잠
+
+#hashtags: #인공지능 #모니터링시스템 #비교적대잠
+
+13 번째 검색 내용
+제목: 오픈애이에서 새로운 o3-mini 모델을 Microsoft Azure OpenAI 서비스에 추가함
+[INST] Translate my sentence into Korean : 
+
+                            OpenAI Features New o3-mini Model on Microsoft Azure OpenAI Service
+                         [/INST]
+주소: https://www.infoq.com/news/2025/02/mini-o3-azure-openai-service/
+설명: OpenAI는 Microsoft Azure를 통해 향상된 o3-mini 모델을 출시했습니다. AI 응용프로그램에 대한 개선된 비용효율성, 더 빠른 성능, 조정 가능한 이유 판단 기능을 제공합니다. 복잡한 작업을 위해 설계되었으며, 구조화된 출력 지원과 후방 호환성을 지원합니다. o3-mini의 널리 접근 가능하게 되면, 다양한 산업에서 혁신을 주도하는 개발자를 위해 힘을 줍니다.
+#인공지능 #오픈AI #Azure
+
+#hashtags: #인공지능, #오픈AI, #Azure
+
+14 번째 검색 내용
+제목: Micronaut Framework 4.7.0는 LangChain4j와 Graal 언어와의 통합을 제공합니다.
+주소: https://www.infoq.com/news/2025/02/micronaut-langchain4j/
+설명: Micronaut 재단은 2024년 12월에 Micronaut Framework 4.7.0을 발표했습니다. 이 버전은 LLMs를 Java 애플리케이션에 통합하기 위해 LangChain4J 지원을 제공합니다. Micronaut Graal Languages는 Graal-based 동적 언어, 예를 들면 Micronaut GraalPy 기능을 사용하여 Python과 상호 작용할 수 있도록 통합됩니다.
+#Micronaut #LangChain4J #GraalLanguages #MicronautGraalPy
+
+#hashtags: #Micronaut, #LangChain4J, #GraalLanguages, #MicronautGraalPy
+
+15 번째 검색 내용
+제목: 자바 뉴스 요약: LangChain4j 1.0-Beta1, JHipster Lite, GlassFish, Spring Cloud Stream 앱
+
+(Note: The given text is already in Korean, so no translation is needed.)
+주소: https://www.infoq.com/news/2025/02/java-news-roundup-feb03-2025/
+설명: AI : 이번 주 2월 3일의 Java 뉴스 요약은 다음과 같습니다: LangChain4j 1.0 첫 베타 릴리즈; JHipster Lite의 버전 1.27.0과 1.28.0; GlassFish 7.0.22; 그리고 Spring Cloud Stream Applications의 버전 2025.0.0과 2024.0.1입니다.
+#Java #뉴스요약 #프로그래밍 #기술
+
+#hashtags:
+#JavaProgramming
+#TechnologyNews
+#SoftwareDevelopment
+
