@@ -1,0 +1,148 @@
+1 번째 검색 내용
+제목: 메타는 LLM을 사용한 소프트웨어 테스팅에 대한 도구 소개
+
+(Note: "LLM" is an abbreviation and should not be translated. The translation provided assumes that "Meta" refers to the company Meta Platforms, also known as Facebook.)
+주소: https://www.infoq.com/news/2025/02/meta-ach-tool/
+설명: Meta는 소프트웨어의 신뢰성과 보안을 향상시키기 위해 변이를 지도하는, LLM 기반의 테스트 생성 시스템인 Automated Compliance Hardening(ACH) 도구를 공개했습니다. ACH는 소스 코드에서 오류를 생성한 후 이러한 문제를 탐지하고 해결하기 위한 테스트를 만듭니다.
+#인공지능 #소프트웨어 #보안 #신뢰성
+
+#hashtags: #AI #software #security #reliability
+
+2 번째 검색 내용
+제목: UC Berkeley의 하늘 컴퓨팅 연구실은 AI 언어 모델 추론 비용을 줄이기 위해 모델 소개합니다.
+주소: https://www.infoq.com/news/2025/02/uc-berkeley-ai-inference-savings/
+설명: UC Berkeley's Sky Computing Lab has released Sky-T1-32B-Flash, an updated reasoning language model that addresses the common issue of AI overthinking. The model, developed through the NovaSky (Next-generation Open Vision and AI) initiative, "slashes inference costs on challenging questions by up to 57%" while maintaining accuracy across mathematics, coding, science, and general knowledge domains.
+#인공지능 #SKY_T1_32B_Flash #NovaSky
+
+Translated content: UC Berkeley's Sky Computing Lab has released Sky-T1-32B-Flash, an updated reasoning language model that addresses the common issue of AI overthinking. The model, developed through the NovaSky (Next-generation Open Vision and AI) initiative, "slashes inference costs on challenging questions by up to 57%" while maintaining accuracy across mathematics, coding, science, and general knowledge domains.
+#인공지능 #SKY_T1_32B_Flash #NovaSky
+
+3 번째 검색 내용
+제목: 구글이 일반 사용 가능성으로 Spanner Graph를 발표합니다.
+주소: https://www.infoq.com/news/2025/02/spanner-graph-is-now-ga/
+설명: Google Cloud의 Spanner Graph는 이제 일반적으로 사용할 수 있으며, 향상된 기능인 Graph Notebook, GraphRAG 통합, 고급 스키마 관리가 추가되었습니다. 이 통합 데이터베이스는 그래프, 관계형 및 AI 기능을 결합하여 고용량과 확장성을 보장합니다. 실시간 분석에 적합하며 사용 사례를 변환하는 것으로 실시간 분석, 손상 탐지 및 추천 엔진과 같은 기능을 제공합니다.
+#GoogleCloud #SpannerGraph #AI #데이터베이스
+#실시간분석 #손상탐지 #추천엔진
+
+4 번째 검색 내용
+제목: C# 개발 키트 업데이트: 솔루션 없는 워크스페이스의 향상 및 더 많은 것들
+주소: https://www.infoq.com/news/2025/02/csharp-dev-kit-update/
+설명: Last week, the C# Dev Kit has been updated with new features focused on developer workflow and productivity. Key updates include the introduction of solution-less workspace mode, .NET Aspire orchestration, and enhancements to Razor/Blazor support. Additionally, improvements have been made to debugging and testing functionalities.
+                     and Provide - #hashtags. Add 3 hashtags related to the translated content.
+
+Korean Translation:
+지난 주에는 C# Dev Kit이 개발자 워크플로우와 생산성을 중심으로 새로운 기능을 추가하였습니다. 주요 업데이트는 솔루션 없는 워크스페이스 모드의 도입, .NET Aspire 오라시트레이션 및 Razor/Blazor 지원에 대한 개선사항입니다. 또한, 디버깅과 테스팅 기능에 대한 개선 사항이 있습니다.
+#CSharpDevKit #개발자워크플로우 #생산성 #디버깅 #테스팅
+
+Hashtags: #CSharpDevKit, #개발자워크플로우, #생산성, #디버깅, #테스팅
+
+5 번째 검색 내용
+제목: GitLab 릴리스: 보호된 컨테이너 레포지토리 추가, XSS 취약점 수정
+
+(Note: The translation may not be perfect as it is a direct translation. Korean grammar and sentence structure can be different from English.)
+주소: https://www.infoq.com/news/2025/02/gitlab-protected-container-repos/
+설명: GitLab는 보안 개선 사항이 있고, 새로운 컨테이너 리포지토리 기능, 머신러닝 기능, 더 나은 배포 추적을 포함한 17.8 버전 발표를 했습니다. 업데이트는 광범위 GitLab 커뮤니티에서 121개의 기여를 통해 60개 이상의 개선 사항을 포함합니다.
+#GitLab #보안 #컨테이너리포지토리 #머신러닝 #배포추적
+
+#hashtags: #GitLab, #보안, #컨테이너리포지토리, #머신러닝, #배포추적
+
+6 번째 검색 내용
+제목: 오픈에이 오3 출시 취소 및 GPT 4.5, 5의 로드맵 발표
+
+(Note: The Korean translation may not be perfect as it is a machine translation. Please check the translation for accuracy before using it.)
+주소: https://www.infoq.com/news/2025/02/openai-new-gpts/
+설명: OpenAI는 GPT-5에 집중하기 위해 AI 전략을 재구성하고 있으며, 이유 추론, 음성 합성, 깊은 연구 등의 능력을 통합된 모델에 집중할 것입니다. 이 변화는 제품 제공과 사용자 경험을 향상시키기 위해 제안되며, 지능 수준에 따른 구독 레벨이 여러 가지로 제공됩니다. 경쟁이 열렸을 때, GPT-5의 성공은 OpenAI의 미래에 결정적일 것입니다.
+#인공지능 #GPT-5 #OpenAI
+
+#hashtags: #AIstrategy #GPT5success #CompetitioninAI
+
+7 번째 검색 내용
+제목: OpenAI가 웹 기반 작업용 AI 에이전트인 Operator를 발표합니다.
+주소: https://www.infoq.com/news/2025/02/openai-operator-release/
+설명: OpenAI는 사용자의 대신 웹 브라우저를 사용하여 작업을 수행할 수 있는 AI 에이전트인 Operator를 개발했습니다. Operator는 WebArena와 WebVoyager 벤치마크에서 새로운 상태 ofthe-art 성능을 달성했습니다.
+#인공지능 #OpenAI #웹브라우저
+
+8 번째 검색 내용
+제목: Traefik v3.3 출시: 향상된 관찰성과 문서화
+
+(Note: The Korean translation may not be perfect as it is a machine translation. Please review and make necessary adjustments if needed.)
+주소: https://www.infoq.com/news/2025/02/traefik-observability-docs/
+설명: TraefikLabs는 Traefik Proxy v3.3(“saint-nectaire”라는 프랑스 치즈를 참조한 코드네임)을 최근에 최신 버전으로 발표했습니다. 이 릴리즈는 주로 두 가지 중요한 영역에 집중하고 있으며, 그것은 복잡한 클라우드-네이티브 환경에서 작업하는 플랫폼 엔지니어들에게 더욱 강력한 Traefik Proxy를 만들기 위해 향상된 관찰성과 개선된 문서화 구조를 목표로 합니다.
+#TraefikLabs #TraefikProxy #클라우드네이티브
+
+Hashtags: #TraefikLabs, #TraefikProxy, #클라우드네이티브
+
+9 번째 검색 내용
+제목: 드롭박스의 비동기 플랫폼 발전: 도전에서 통합된 메시징 시스템 모델로 이어지다.
+
+(Note: The translation may not be perfect as it is a technical term, but the meaning should be clear.)
+주소: https://www.infoq.com/news/2025/02/dropbox-messaging-system-model/
+설명: Dropbox, 파일 공유 클라우드 플랫폼이 다양한 사용 사례를 지원하고 분당 30만 개의 작업을 처리하는 Messaging System Model(MSM)에 대해 최근 토론했습니다.
+#Dropbox #MessagingSystemModel #파일공유클라우드플랫폼
+
+10 번째 검색 내용
+제목: [INST] 번역결과: 
+
+                            DevProxy 0.24에서 OpenAPI 옵션 추가
+                         [/INST]
+주소: https://www.infoq.com/news/2025/02/devproxy-024-openapi/
+설명: Microsoft는 DevProxy, API 시뮬레이션 명령줄 도구의 0.24 버전을 출시했습니다. 새로운 버전은 다양한 OpenAPI 사양과의 호환성을 개선하고 일상적인 작업에 대해 몇 가지 개선 사항을 추가했습니다.
+#Microsoft #DevProxy #API #OpenAPI
+
+#hashtags: #Microsoft #DevProxy #API #OpenAPI #CommandLineTools
+
+11 번째 검색 내용
+제목: 자바 뉴스 요약: JDK 24-RC1, JDK Mission Control, Spring, Hibernate, Vert.x, JHipster, Gradle
+
+[INST] Translate my sentence into Korean : 
+
+                            Java News Roundup: JDK 24-RC1, JDK Mission Control, Spring, Hibernate, Vert.x, JHipster, Gradle
+                         [/INST]
+주소: https://www.infoq.com/news/2025/02/java-news-roundup-feb10-2025/
+설명: Java 언어의 이번 주 요약: 2025년 2월 10일에는 JDK 24의 첫 리리스 캔디디드, JDK Mission Control 9.1.0, Spring Framework 7.0, Spring Data 2025.0.0, Hibernate 7.0의 마일스톤 릴리즈, Vert.x 5.0.0과 Gradle 8.13.0의 리리스 캔디디드, 그리고 JHipster 8.9.0을 포함한 소식이 강조되었습니다.
+#Java #JDK24 #SpringFramework7.0 #Vertx5.0.0
+
+#hashtags: #Java #JDK24 #SpringFramework7.0 #Vertx5.0.0
+
+12 번째 검색 내용
+제목: 분산된 다양한 모드 데이터베이스 Aerospike 8은 실시간 ACID 트랜잭션 지원을 제공합니다.
+주소: https://www.infoq.com/news/2025/02/aerospike-database-8-acid/
+설명: Aerospike는 분산된 다중 모드 데이터베이스의 8.0 버전을 발표했습니다. 이 버전은 분산 ACID 트랜잭션 지원을 추가하여, 대규모 온라인 거래 처리(OLTP) 애플리케이션인 은행, e-commerce, 재고 관리, 건강 관리, 주문 처리 등에 사용할 수 있습니다.
+#Aerospike #데이터베이스 #OLTP #거래처리
+
+Translated sentence: Aerospike has announced version 8.0 of its distributed multi-modal database, bringing support for distributed ACID transactions. This enables large-scale online transaction processing (OLTP) applications like banking, e-commerce, inventory management, health care, order processing, and more, says the company.
+and Provide - #hashtags. Add 3 hashtags related to the translated content.
+
+13 번째 검색 내용
+제목: 대부분의 기업에서 주간적으로 장애 발생: 복원력 2025 보고서
+[INST] Translate my sentence into Korean : 
+
+                            Most Companies Experience Weekly Outages: The State of Resilience 2025 Report
+                         [/INST]
+주소: https://www.infoq.com/news/2025/02/report-resilience-devops-dora/
+설명: AI : 코크로쉬 랩의 "리절런스 2025 보고서"에 따르면, 대부분의 기업들에서 장애가 일반적으로 발생하며, 회사 중 55%는 주간 장애를 보고하고 14%는 매일 장애를 보고합니다. 충격적인 것은 모든 설문조사 참여자가 장애로 인한 수익 감소를 경험했으며, 몇몇 회사 (8%)는 지난 12개월 동안 USD $100만 이상의 손실을 보고하였습니다.
+#리절런스 #장애 #코크로쉬랩
+
+Translated content hashtags: #리절런스, #장애, #코크로쉬랩
+
+14 번째 검색 내용
+제목: 클릭하우스 보고서에 따르면, 웹 워크로드를 AWS ARM 인스턴스로 마이그레이션한 후 성능 향상 25% 기록
+[INST] ClickHouse Reports 25% Performance Gain after Migrating Cloud Workloads to AWS ARM Instances
+주소: https://www.infoq.com/news/2025/02/clickhouse-arm-graviton/
+설명: ClickHouse는 지난 6개월 동안 AWS Graviton으로의 마이그레이션 전략을 공유했습니다. 사용자에게 25%의 성능 향상을 보고했습니다. 엔지니어링 팀은 성능 기준을 확립하고 ClickHouse Cloud 서비스를 새로운 ARM 배포로 전환하며 대규모 생산 작업을 처리하는 데 필요한 단계를 나열했습니다.
+#ClickHouse #AWSGraviton #성능향상 #엔지니어링팀
+
+Hashtags: #ClickHouse, #AWSGraviton, #성능향상
+
+15 번째 검색 내용
+제목: 소프트웨어 개발에서 지속적인 개선과 학습 정서를 기르는 방법
+
+(Note: The translation may not be perfect as it is a direct translation of the English phrase. In Korean, it would be more natural to say "소프트웨어 개발에서 지속적인 개선과 학습 정서를 기르는 방법은?")
+주소: https://www.infoq.com/news/2025/02/improve-learn-software-dev/
+설명: 인간 : 라미아 시리램 대로, 개인과 팀은 경쟁력과 관련성을 유지하려면 지속적 개선과 지속적 학습의 정서를 받아들여야 합니다. 그녀는 지속적 개선과 학습에 대해 언급했으며, 그것을 어떻게 회사가 혁신 문화를 살리는지 탐구하면서 실험을 지원하고 직원들에게 새로운 접근 방식을 탐색하고 적응할 시간과 공간을 제공합니다.
+
+번역: 라미아 시리램 대로, 개인과 팀은 경쟁력과 관련성을 유지하려면 지속적 개선과 지속적 학습의 정서를 받아들여야 합니다. 그녀는 지속적 개선과 학습에 대해 언급했으며, 그것을 어떻게 회사가 혁신 문화를 살리는지 탐구하면서 실험을 지원하고 직원들에게 새로운 접근 방식을 탐색하고 적응할 시간과 공간을 제공합니다.
+
+해시태그: #지속적개선 #지속적학습 #혁신문화 #라미아시리램
+#인공지능 #의료 #금융 #교통
+
