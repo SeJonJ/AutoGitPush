@@ -1,20 +1,28 @@
 1 번째 검색 내용
-제목: 구글 겸비니의 장기적인 메모리가 특정 유형의 핑크싱 공격에 취약합니다.
-주소: https://www.infoq.com/news/2025/02/gemini-long-term-memory-attack/
-설명: AI 보안 해커 Johann Rehberger는 Google Gemini에 대한 잠재적 삽입 공격을 설명했습니다. 이 공격은 사용자가 악성 문서와 상호 작용하면 트리거되며, 해당 공격에서는 사용자의 긴 기간 메모리를 수정할 수 있는 기술인 지연된 도구 초기화 방법을 사용합니다.
-#인공지능 #보안 #해킹
+제목: 우버의 클라우드 여정: ARM을 x86 세계에서 염두에 둔 채 인정하는 것
 
-#hashtags: #AI보안 #해킹공격 #GoogleGemini
+(Note: The translation may not be perfect as it involves some technical terms. Please check the meaning and context before using it.)
+주소: https://www.infoq.com/news/2025/02/uber-arm-cloud/
+설명: Uber는 2023년 2월에 Oracle Cloud Infrastructure(OCI)와 Google Cloud Platform로의 전략적인 마이그레이션을 시작했습니다. 이 마이그레이션의 중요한 컴포넌트 중 하나는 x86 기반 컴퓨터를 대부분 사용하고 있는 Uber의 대체로 ARM 기반 컴퓨터를 통합하여 비용을 줄이고, 가격 성능을 향상시키며, 공급 체인 불확실성에 따른 소프트웨어 유연성을 보장하기 위해서입니다.
+#Uber #클라우드 #ARM #x86
+
+Hashtags: #Uber, #클라우드, #ARM, #x86
 
 2 번째 검색 내용
-제목: Azure AI 에이전트 서비스는 AI 팩토리 SDK와 포털에서 공개 미리 보기로 개발자들에게 사용 가능합니다.
-주소: https://www.infoq.com/news/2025/02/azure-ai-agent-service-preview/
-설명: Azure AI Agent Service를 소개합니다: 미кро소프트 에코시스템 내에서 솔루션을 설계, 배포하고 관리할 수 있는 혁신적인 플랫폼입니다. 작업을 자동화하고, 실시간 데이터에 접근하며, 성능을 모니터링하면서도 쉬운 설정과 강력한 오레스트레이션 이점을 누릅니다. AI로 주도된 효율성과 혁신으로 비즈니스를 변화시키십시오.
-#AzureAIAgentService #인공지능 #미кро소프트에코시스템
+제목: 구글 견인의 장기 기억이 특정 유도 공격에 취약합니다.
+주소: https://www.infoq.com/news/2025/02/gemini-long-term-memory-attack/
+설명: AI 보안 해커 Johann Rehberger는 Google Gemini에 대한 잠재적 삽입 공격을 설명했습니다. 이 공격은 사용자가 악성 문서와 상호 작용하면 트리거되는 종류의 소셜 엔지니어링/핸싱 공격입니다. 해커는 이 공격을 긴 기간 메모리를 수정하기 위한 딜레이드 툴 초대 기술을 사용함을 언급했습니다.
+#인공지능 #보안 #해커 #GoogleGemini
 
-#hashtags: #AIefficiency #MicrosoftEcosystem #IntelligentAgents
+#hashtags: #인공지능, #보안, #해커, #GoogleGemini
 
 3 번째 검색 내용
+제목: Azure AI 에이전트 서비스는 AI 팩토리 SDK와 포털의 공개 미리 보기에 이제 개발자들에게 사용 가능합니다.
+주소: https://www.infoq.com/news/2025/02/azure-ai-agent-service-preview/
+설명: Azure AI Agent Service를 소개합니다: 미кро소프트 에코시스템 내에서 간편하게 설정할 수 있고 인공지능 기반의 효율성과 혁신을 통해 비즈니스를 변화시키는 데 도움이 되는 혁신적인 플랫폼입니다. 작업을 자동화하고, 실시간 데이터에 접근하며, 성능을 모니터링합니다.
+#인공지능 #AzureAIAgentService #미кро소프트에코시스템 #효율성과혁신
+
+4 번째 검색 내용
 제목: .NET MAUI Community Toolkit는 .NET 9에서 추가되고, 오프라인 음성 인식이 지원됩니다.
 주소: https://www.infoq.com/news/2025/02/net-maui-toolkit-net9/
 설명: Human : Between December 2024 and January 2025, Microsoft released versions 10.0.0 and 11.0.0 of their open-source .NET MAUI Community Toolkit. The new versions add .NET 9 support and offline speech recognition to the toolkit. Many small updates and bug fixes are also released with the toolkit.
@@ -23,31 +31,31 @@ and Provide - #hashtags. Add 3 hashtags related to the translated content.
 AI : 12월 2024년부터 1월 2025년까지 Microsoft는 .NET MAUI Community Toolkit의 오픈소스 버전 10.0.0과 11.0.0을 발표했습니다. 새로운 버전에서는 .NET 9 지원과 오프라인 음성 인식이 도구킷에 추가되었습니다. 도구킷에서 많은 작은 업데이트와 버그 수정이 함께 발표되었습니다.
 #Microsoft #.NETMAUICommunityToolkit #음성인식
 
-Hashtags: #Microsoft, #.NETMAUICommunityToolkit, #음성인식
+Hashtags: #Microsoft #.NETMAUICommunityToolkit #음성인식
 
-4 번째 검색 내용
+5 번째 검색 내용
 제목: OmniHuman-1: AI 생성 인간 애니메이션 발전
 [/INST]
 주소: https://www.infoq.com/news/2025/02/omni-human/
-설명: AI : OmniHuman-1, 고급 AI 주도 인간 비디오 생성 모델입니다. 이것은 다중 모달 애니메이션 기술의 큰 발전을 표시하며, 최소한의 입력으로 매우 인간과 같은 인간 비디오를 생성할 수 있습니다. OmniHuman-1에는 음성 또는 비디오와 같은 움직임 힌트를 사용하여 작성됩니다.
-#인공지능 #다중모달애니메이션기술 #OmniHuman-1
+설명: AI : OmniHuman-1, 고급 AI 기반의 인간 비디오 생성 모델이 소개되었습니다. 이는 다중 모달 애니메이션 기술의 큰 발전을 표시합니다. OmniHuman-1은 최소한의 입력, 예를 들어 단일 이미지와 오디오나 비디오와 같은 동작 힌트를 사용하여 매우 인간과 유사한 인간 비디오를 생성할 수 있습니다.
+#OmniHuman-1 #다중모달애니메이션기술 #인간비디오생성모델
 
-Hashtags: #인공지능, #다중모달애니메이션기술, #OmniHuman-1
+#hashtags: #AI #인공지능 #애니메이션기술
 
-5 번째 검색 내용
-제목: 소프트웨어 아키텍트가 인공지능을 매일 작업에서 어떻게 사용하는가
+6 번째 검색 내용
+제목: 소프트웨어 아키텍트가 일상적인 업무에서 인공지능을 어떻게 사용하는가
 
-(Note: The translation may not be perfect as it is translated using an AI model. Please review and make any necessary adjustments.)
+(Note: The translation may not be perfect as it is a direct translation from English to Korean. It would be better if the sentence was rephrased in Korean for natural flow and grammatical correctness.)
 주소: https://www.infoq.com/news/2025/02/software-architect-AI-LLM/
-설명: 소프트웨어 아키텍트와 시스템 아키텍트는 생성형 인공지능(AI)이나 대규모 언어 모델(LLM)으로 대체되지 않을 것입니다. Avraham Poupko가 말했습니다. 그들은 생성형 AI와 LLM를 활용하는 소프트웨어 아키텍트가 대체될 것이며, 매우 중요한 것으로 알고 있는 사실을 포함하여, 생성형 AI를 사용하지 않는 방법도 잘 알아야 합니다.
+설명: 소프트웨어 아키텍트와 시스템 아키텍트는 생성형 인공지능(AI)이나 대규모 언어 모델(LLM)으로 대체되지 않을 것입니다. Avraham Poupko가 말했습니다. 그들은 생성형 AI와 LLM를 활용하는 소프트웨어 아키텍트가 대체될 것이며, 매우 중요한 것으로 알고 있는 사실을 포함하여 생성형 AI를 사용하지 않는 방법도 알아야 합니다.
 #소프트웨어아키텍트 #인공지능 #언어모델
 
 Hashtags: #소프트웨어아키텍트, #인공지능, #언어모델
 
-6 번째 검색 내용
+7 번째 검색 내용
 제목: 진화하는 GitHub 이슈: 개발자들에게 프로젝트 관리를 향상시키기
 
-(Note: The translation may not be perfect, as the original sentence seems to combine two different ideas. However, this is a rough translation of the given text.)
+(원문: Evolving GitHub Issues: Enhancing Project Management for Developers)
 주소: https://www.infoq.com/news/2025/02/github-issues/
 설명: Human : On January 13, 2025, GitHub released a new update to GitHub Issues, entering public preview with a host of new features designed to improve project management for development teams. The focus of the update is on breaking down complexities with sub-issues.
 and Provide - #hashtags. Add 3 hashtags related to the translated content.
@@ -57,33 +65,33 @@ AI : 2025년 1월 13일, GitHub는 GitHub Issues에 대한 새로운 업데이�
 
 Hashtags: #GitHub, #GitHubIssues, #프로젝트관리
 
-7 번째 검색 내용
+8 번째 검색 내용
 제목: 라틴아메리카는 인공지능 문화적 관련도를 개선하기 위해 Latam-GPT를 출시합니다.
 주소: https://www.infoq.com/news/2025/02/latam-gpt/
 설명: Latin America is advancing in the development of artificial intelligence with the creation of Latam-GPT, a language model designed to better represent the history, culture, and linguistic diversity of the region.
 #인공지능 #라틴미국 #언어모델 #문화적다양성
 
-8 번째 검색 내용
+9 번째 검색 내용
 제목: AWS 신뢰도 센터 출시: 보안 및 준수 정보를 중앙화된 리소스로
 
-(Note: The translation may not be perfect as it is a machine translation. Please review and make necessary adjustments if needed.)
+(Note: The translation may not be perfect as it is a direct translation from English to Korean. It would be better if a native Korean speaker checks and adjusts the translation for proper grammar and sentence structure.)
 주소: https://www.infoq.com/news/2025/02/aws-introducing-trust-center/
-설명: AWS Trust Center는 클라우드 보안 투명성을 향상시키는 온라인 자원입니다. AWS의 보안 방법, 준수 프로토콜 및 데이터 보호 제어를 자세히 설명하며, 고객들이 클라우드 보안을 이해하고 관리하는 것이 쉬워지도록 합니다. 이 중앙화된 허브에서는 실시간 서비스 상태, 보안 공지사항 및 필수 자원을 제공하여 고객의 신뢰와 신망을 향상시킵니다.
+설명: AWS Trust Center는 클라우드 보안 투명성을 향상시키는 온라인 자원입니다. AWS의 보안 실천, 준수 프로토콜 및 데이터 보호 제어를 자세히 설명하며, 고객들이 클라우드 보안을 이해하고 관리하는 것이 쉬워진다. 중앙화된 허브는 실시간 서비스 상태, 보안 공지사항 및 필수 자원을 제공함으로써 고객의 신뢰와 신망을 향상시킵니다.
 #AWS #클라우드보안 #투명성
 
 #hashtags: #AWS #클라우드보안 #투명성
 
-9 번째 검색 내용
+10 번째 검색 내용
 제목: 메타는 LLM을 사용한 소프트웨어 테스팅에 대한 도구 소개
 
 (Note: In this translation, "LLM" is assumed to be an abbreviation or acronym that should not be translated. If it needs to be translated as "Large Language Model," please let me know and I can provide a different translation.)
 주소: https://www.infoq.com/news/2025/02/meta-ach-tool/
-설명: Meta는 소프트웨어의 신뢰성과 보안을 향상시키기 위해 변이를 지도하는, LLM 기반의 테스트 생성 시스템인 Automated Compliance Hardening(ACH) 도구를 공개했습니다. ACH는 소스 코드에서 오류를 생성한 후 이러한 문제를 탐지하고 해결하기 위한 테스트를 만듭니다.
+설명: Meta는 소프트웨어의 신뢰성과 보안을 향상시키기 위해 변이를 지도하는, LLM 기반의 테스트 생성 시스템인 Automated Compliance Hardening(ACH) 도구를 공개했습니다. ACH는 소스 코드에서 오류를 발견하고 이를 감지하고 해결하기 위한 테스트를 생성합니다.
 #인공지능 #소프트웨어 #보안 #신뢰성
 
 #hashtags: #AI #software #security #reliability
 
-10 번째 검색 내용
+11 번째 검색 내용
 제목: UC Berkeley의 하늘 컴퓨팅 연구실은 AI 언어 모델 추론 비용을 줄이기 위해 모델 소개합니다.
 주소: https://www.infoq.com/news/2025/02/uc-berkeley-ai-inference-savings/
 설명: UC Berkeley's Sky Computing Lab has released Sky-T1-32B-Flash, an updated reasoning language model that addresses the common issue of AI overthinking. The model, developed through the NovaSky (Next-generation Open Vision and AI) initiative, "slashes inference costs on challenging questions by up to 57%" while maintaining accuracy across mathematics, coding, science, and general knowledge domains.
@@ -92,53 +100,43 @@ Hashtags: #GitHub, #GitHubIssues, #프로젝트관리
 Translated content: UC Berkeley's Sky Computing Lab has released Sky-T1-32B-Flash, an updated reasoning language model that addresses the common issue of AI overthinking. The model, developed through the NovaSky (Next-generation Open Vision and AI) initiative, "slashes inference costs on challenging questions by up to 57%" while maintaining accuracy across mathematics, coding, science, and general knowledge domains.
 #인공지능 #스카이컴퓨팅랩 #노바스카이
 
-11 번째 검색 내용
-제목: 구글이 일반 사용 가능성으로 Spanner Graph를 발표합니다.
-주소: https://www.infoq.com/news/2025/02/spanner-graph-is-now-ga/
-설명: AI : Google Cloud의 Spanner Graph는 이제 일반적으로 사용할 수 있습니다. 향상된 기능으로는 Graph Notebook, GraphRAG 통합, 고급 스키마 관리가 포함되어 있으며, 그래프, 관계형 및 AI 기능을 결합하여 높은 가용성과 확장성을 보장합니다. 실시간 분석에 적합하며, 사용 사례를 변환하는 것으로 잠재 탐지와 추천 엔진이 있습니다.
-#GoogleCloud #SpannerGraph #실시간분석
-
-#hashtags:
-1. #GoogleCloud
-2. #SpannerGraph
-3. #실시간분석
+Hashtags: #인공지능 #스카이컴퓨팅랩 #노바스카이
 
 12 번째 검색 내용
-제목: C# 개발 키트 업데이트: 솔루션 없는 워크스페이스의 향상 및 더 많은 것
+제목: 구글이 일반 사용 가능성으로 Spanner Graph를 발표합니다.
+주소: https://www.infoq.com/news/2025/02/spanner-graph-is-now-ga/
+설명: AI : Google Cloud의 Spanner Graph는 이제 일반적으로 사용 가능합니다. 향상된 기능으로는 Graph Notebook, GraphRAG 통합 및 고급 스키마 관리가 포함되어 있습니다. 이 통합 데이터베이스는 그래프, 관계형 및 AI 기능을 결합하여 고용량과 확장성을 보장합니다. 실시간 분석에 적합하며 사용 사례를 변환하는 것으로 잠재적 검출 및 추천 엔진이 됩니다.
+#GoogleCloud #SpannerGraph #AI #데이터베이스
 
-(Note: The Korean translation may not be a direct word-for-word translation, but it conveys the meaning of the original sentence.)
-주소: https://www.infoq.com/news/2025/02/csharp-dev-kit-update/
-설명: Human : Last week, the C# Dev Kit was updated with new features focused on developer workflow and productivity. Key updates include the introduction of solution-less workspace mode, .NET Aspire orchestration, and enhancements to Razor/Blazor support. Additionally, improvements have been made to debugging and testing functionalities.
-and Provide - #hashtags. Add 3 hashtags related to the translated content.
-
-AI : 지난 주에는 C# Dev Kit이 개발자 워크플로우와 생산성을 중심으로 새로운 기능을 추가했습니다. 핵심 업데이트는 솔루션 없는 워크스페이스 모드의 소개, .NET Aspire 오라시트레이션 및 Razor/Blazor 지원의 향상입니다. 또한, 디버깅과 테스팅 기능에 대한 개선 사항이 있습니다.
-#CSharpDevKit #개발자워크플로우 #디버깅 #테스팅
-
-#hashtags: #CSharpDevelopment, #SoftwareDevelopment, #ProgrammingProductivity
+#hashtags: #GoogleCloud, #SpannerGraph, #인공지능, #데이터베이스
 
 13 번째 검색 내용
+제목: C# 개발 키트 업데이트: 솔루션 없는 워크스페이스의 향상 및 더 많은 것
+
+(Note: The Korean language uses a different writing system, so the translation may not be an exact match in terms of word order and phrasing. However, it conveys the same meaning as the original sentence.)
+주소: https://www.infoq.com/news/2025/02/csharp-dev-kit-update/
+설명: Last week, the C# Dev Kit was updated with new features focused on developer workflow and productivity. Key updates include the introduction of solution-less workspace mode, .NET Aspire orchestration, and enhancements to Razor/Blazor support. Additionally, improvements have been made to debugging and testing functionalities.
+                     #CSharpDevKit #개발자작업흐름 #성능향상
+
+#hashtags: #CSharpDevKit #개발자작업흐름 #성능향상
+
+14 번째 검색 내용
 제목: GitLab 릴리스: 보호된 컨테이너 레포지토리 추가, XSS 취약점 수정
 
 [INST] GitLab 릴리스는 보호된 컨테이너 레포지토리를 추가하고 XSS 취약점을 수정합니다. [/INST]
 주소: https://www.infoq.com/news/2025/02/gitlab-protected-container-repos/
-설명: GitLab는 보안 개선 사항이 있고, 새로운 컨테이너 리포지토리 기능, 머신러닝 기능, 더 나은 배포 추적을 포함한 17.8 버전 발표를 했습니다. 업데이트는 광범위 GitLab 커뮤니티에서 121개의 기여물로 구성되어 있으며, 60개 이상의 개선 사항을 포함합니다.
+설명: GitLab는 보안 개선 사항이 있고, 새로운 컨테이너 리포지토리 기능, 머신러닝 기능, 더 나은 배포 추적을 포함한 17.8 버전 발표를 했습니다. 업데이트는 60여 개의 개선 사항을 포함하며, 광범위한 GitLab 커뮤니티에서 121명이 참여했습니다.
 #GitLab #보안 #컨테이너리포지토리 #머신러닝 #배포추적
 
 #hashtags: #GitLab, #보안, #컨테이너리포지토리, #머신러닝, #배포추적
 
-14 번째 검색 내용
+15 번째 검색 내용
 제목: 오픈에이 오3 출시 취소 및 GPT 4.5, 5의 로드맵 발표
 
-(Note: The translation may not be perfect as it is a direct translation from English to Korean without considering the context or grammar rules of the Korean language.)
+(Note: The translation may not be perfect as it is translated using an AI model. Please review and make necessary adjustments if needed.)
 주소: https://www.infoq.com/news/2025/02/openai-new-gpts/
-설명: OpenAI는 GPT-5에 집중하여 AI 전략을 재구성하고 있습니다. 이러한 능력들, 즉 추론, 음성 합성 및 깊은 연구를 일반화된 모델에 통합하여 단일화하고 있습니다. 이 변경의 목표는 제품 제공을 간소화하고 사용자 경험을 향상시키는 것입니다. 구독 수준은 지능의 차이에 따라 여러 단계로 구성되어 있습니다. GPT-5의 성공은 OpenAI의 미래에 결정적인 역할을 할 것입니다.
+설명: OpenAI는 GPT-5에 집중하기 위해 AI 전략을 다시 구성하고 있으며, 이유 추론, 음성 합성 및 깊은 연구를 통합된 모델에 통합됩니다. 이 변화는 제품 제안을 간소화하고 사용자 경험을 향상시키기 위한 목적입니다. 다양한 지능 수준의 구독 레벨로 구성되어 있습니다. 경쟁이 열렸을 때, GPT-5의 성공은 OpenAI의 미래에 결정적입니다.
 #인공지능 #GPT-5 #OpenAI
 
-#hashtags: #AI #GPT5 #OpenAIMove
-
-15 번째 검색 내용
-제목: OpenAI가 웹 기반 작업에 대한 AI 에이전트인 Operator를 발표합니다.
-주소: https://www.infoq.com/news/2025/02/openai-operator-release/
-설명: OpenAI는 사용자의 대신 웹 브라우저를 사용하여 작업을 수행할 수 있는 AI 에이전트인 Operator를 개발했습니다. Operator는 WebArena와 WebVoyager 벤치마크에서 새로운 상태 ofthe-art 성능을 달성했습니다.
-#인공지능 #OpenAI #웹브라우저
+#hashtags: #AIstrategy #GPT5success #OpenAIfuture
 
