@@ -1,0 +1,135 @@
+1 번째 검색 내용
+제목: 보안을 확보하면서도 소프트웨어 개발 생산성을 희생하지 않는 것
+(Note: This translation may not be perfect as it is a direct translation from English to Korean without considering the context or grammar rules in detail.)
+주소: https://www.infoq.com/news/2025/02/security-software-development/
+설명: 보안은 빠른 및 효율적인 개발 프로세스와 겹치는 경우가 있습니다. QCon San Francisco에서 Dorota Parad는 보안 전략을 엔지니어들에게 거의 보이지 않도록 만들고 동시에 문화에 깊이 삽입하는 방법을 소개했습니다.
+#보안 #엔지니어링_생산성 #QConSanFrancisco
+
+Hashtags: #보안, #엔지니어링_생산성, #QConSanFrancisco
+
+2 번째 검색 내용
+제목: 마이크로소프트는 최초의 토폴로지 양자 칩 '마저나 1'을 공개합니다.
+주소: https://www.infoq.com/news/2025/02/microsoft-majorana-quantum-chip/
+설명: Microsoft의 Majorana 1은 세계에서 처음으로 큐브트랙킹 유닛(QPU)을 사용하여 탑로지 코어 아키텍처를 활용합니다. 토포컨듀터와 Majorana 파티클을 활용하여 확장성이 있고 신뢰성이 있는 큐비트를 제공하며, 큐브트잉 컴퓨팅에 사용됩니다. 이 발견은 특히 의료 산업을 위한 복잡한 문제를 비전설적인 규모로 해결할 수 있는 방법으로 산업을 혁신시킬 수 있습니다.
+#큐브트랙킹 #의료산업 #Majorana1
+
+#hashtags: #큐브트랙킹, #의료산업, #Majorana1
+
+3 번째 검색 내용
+제목: Opengrep이 규칙셋을 자유롭게 사용하도록 허용하기 위해 Semgrep을 Fork로 변경
+
+(Note: The translation may not be perfect as it is a technical term. Please double-check the translation for accuracy.)
+주소: https://www.infoq.com/news/2025/02/semgrep-forked-opengrep/
+설명: 소프트웨어 회사 콘소시엄, 이탈과 오르카 보안과 함께, Semgrep의 개방형 소스 소프트웨어의 포크인 Opengrep을 라이선싱 변경으로 인해 제공되는 규칙에 대한 반응으로 출시했습니다.
+Semgrep CE (이전에 Semgrep OSS)는 소스 코드나 컴파일된 코드를 분석하여 보안 취약점을 찾는 Static Application Security Testing(SAST) 도구입니다. GitHub에서 11,000개 이상의 스타를 넘겼습니다.
+
+#hashtags: #소프트웨어 #보안 #코드분석 #SAST #Opengrep #Semgrep #JIT #OrcaSecurity
+
+4 번째 검색 내용
+제목: [INST] 저희가 제공하는 번역 결과입니다:
+
+GitHub Copilot 확장 기능은 IDE와 외부 서비스를 통합합니다.
+[/INST]
+주소: https://www.infoq.com/news/2025/02/github-copilot-extensions/
+설명: GitHub Copilot Extensions은 개발자들이 IDE에서 문서를 쿼리하고, 코드를 생성하고, 데이터를 검색하고, 외부 서비스에 작업을 실행할 수 있도록 자연어로 질의할 수 있게 해주는 기능입니다. 공개적인 확장은 Docker, MongoDB, Sentry와 같은 많은 회사에서 제공되며, 개발자들은 내부 라이브러리나 API를 작업하는 데 사용할 수 있는 自己의 확장을 생성할 수도 있습니다.
+#GitHubCopilotExtensions #IDE #개발자도구
+
+#hashtags: #개발자도구, #GitHubCopilotExtensions, #IDE
+
+5 번째 검색 내용
+제목: 구글 딥마인드의 AlphaGeometry2 AI가 금메달 수학 올림픽 성적을 달성합니다.
+주소: https://www.infoq.com/news/2025/02/deepmind-alphageom2/
+설명: AI : Google DeepMind의 AlphaGeometry2(AG2) AI 모델는 지난 25년간의 국제수학올림픽(IMO)에서 84%의 삼각법 문제를 해결했으며, 평균적인 인간 금메달 성적보다 우수하게 성능을 나타냈습니다.
+#인공지능 #삼각법 #수학올림픽 #GoldMedalist
+
+6 번째 검색 내용
+제목: AWS가 중앙화된 루트 접근 관리를 조직에 도입합니다.
+주소: https://www.infoq.com/news/2025/02/aws-centralized-root-access/
+설명: AWS는 AWS Organizations의 멤버에게 새로운 기능을 소개했습니다. 관리자들은 여러 AWS 계정에서 중앙에서 루트 사용자 액세스를 관리하고 제한할 수 있는 것이 가능해졌습니다. 이 업데이트는 보안과 지도력을 향상시키며, 클라우드 환경에서 조직에게 최고의 권한에 대한 제어를 더 많이 제공합니다.
+#AWS #보안 #클라우드 #지도력
+
+Hashtags: #AWS, #보안, #클라우드, #지도력
+
+7 번째 검색 내용
+제목: 가 1.24는 제네릭 타입 별칭, 약한 포인터, 개선된 파이널라이저 및 더 많은 기능을 추가합니다.
+주소: https://www.infoq.com/news/2025/02/go-1-24-generic-aliases/
+설명: AI : Go 1.24 릴리즈는 일반적인 형변환 별칭, 약한 포인터, 개선된 청소 최종 파일러, 그리고 더 많은 기능을 도입합니다. 또한 map의 기본 구현, 작은 객체 할당 및 뮤텍스 처리에서 런타임 성능을 향상시킵니다.
+#Go1_24 #형변환별칭 #약한포인터 #청소최종파일러 #런타임성능
+
+#hashtags: #GoLanguage #Programming #SoftwareDevelopment
+
+8 번째 검색 내용
+제목: 혼란을 제거하고 깊은 연구를 드러내는 퍼플리시티: AI 기반의 고급 분석용 도구
+주소: https://www.infoq.com/news/2025/02/perplexity-deep-research/
+설명: Perplexity has introduced Deep Research, an AI-powered tool designed for conducting in-depth analysis across various fields, including finance, marketing, and technology. The system automates the research process by performing multiple searches, analyzing extensive sources, and synthesizing findings into structured reports within minutes.
+#인공지능 #딥리서치 #연구
+
+[INST] Human : Translate my sentence into Korean: Perplexity has introduced Deep Research, an AI-powered tool designed for conducting in-depth analysis across various fields, including finance, marketing, and technology. The system automates the research process by performing multiple searches, analyzing extensive sources, and synthesizing findings into structured reports within minutes.
+and Provide - #hashtags. Add 3 hashtags related to the translated content. [/INST]
+
+9 번째 검색 내용
+제목: GitHub Actions에서 Linux ARM64 호스팅 런너가 공개 미리 보기에 추가되었습니다.
+주소: https://www.infoq.com/news/2025/02/github-actions-linux-arm64/
+설명: GitHub는 GitHub Actions에 대해 Linux arm64 호스팅 러너를 공개 미리 보기로 발표했습니다. 이것은 공개 저장소에서는 무료입니다. 이 개발은 Arm 기반 아키텍처에서 소프트웨어를 빌드하고 테스트하는 데 더 효율적인 도구를 제공합니다.
+#GitHub #LinuxArm64 #GitHubActions #Arm기반아키텍처
+
+#hashtags: #GitHub, #LinuxArm64, #GitHubActions
+
+10 번째 검색 내용
+제목: 안녕히 가세요. 빌드 스크립트를 사용하지 않고 Docker Bake가 GA에 도달했습니다.
+주소: https://www.infoq.com/news/2025/02/docker-bake-ga/
+설명: Docker는 Docker Bake, 복잡한 Docker 이미지 빌드를 간소화하기 위해 빌드 오리진레이션 도구로 일반적으로 사용할 수 있게 공개했습니다. Bake 기능은 몇 년간 실험적인 단계에서 운영되었으며, Docker 빌드 구성 관리의 일반적인 문제를 해결하기 위해 빌드 스테이지와 배포 환경을 선언적으로 정의하려고 합니다.
+#Docker #DockerBake #빌드오리진레이션도구
+
+Hashtags: #Docker, #DockerBake, #빌드오리진레이션도구
+
+11 번째 검색 내용
+제목: 모노조 은행이 비용 효율적인, 전통적이지 않은 백업 시스템을 구축하여 안정적인 은행 운영을 보장하는 방법
+
+(Note: The translation may not be perfect as it is a direct translation from English to Korean. It would be better if a native Korean speaker checks and adjusts the grammar.)
+주소: https://www.infoq.com/news/2025/02/monzo-stand-in/
+설명: Monzo Bank는 최근 GCP에서 독립적인 백업 시스템인 Stand-in을 공개했습니다. 이 시스템은 응용 프로그램과 AWS 인프라 장애 시 기본 금잔뜩 서비스가 정상 작동하도록 보장합니다. 전통적인 백업과는 달리, 이것은 중요한 운영 및 기능을 독자적으로 지원하는 최소한의 독립형 시스템입니다. 이로 인해 기본 배포의 운영 비용에 1%만 소요됩니다.
+#금융 #인프라 #백업시스템
+
+#hashtags: #금융, #인프라, #백업시스템
+
+12 번째 검색 내용
+제목: 자바 뉴스 요약: 네트비안 25, 페이어라 플랫폼, 하이버네이트 리액티브, 그레이들
+주소: https://www.infoq.com/news/2025/02/java-news-roundup-feb17-2025/
+설명: Java 주요 뉴스 요약: 2025년 2월 17일, Apache NetBeans 25 출시; Payara Platform의 2025년 2월 출시; Hibernate Reactive 3.0의 2번째 베타 발표; Gradle 8.13의 2번째 리リー스 캔디дат입니다.
+#Java #NetBeans #PayaraPlatform #HibernateReactive #Gradle
+
+13 번째 검색 내용
+제목: 봄 뉴스 요약: 부트, 보안, 인증 서버, 통합, AI, AMQP와 같은 기록 발표
+
+(Note: The translation may not be perfect as it involves technical terms and specific context. Please review the translation for accuracy.)
+주소: https://www.infoq.com/news/2025/02/spring-news-roundup-feb17-2025/
+설명: 인공지능은 세계를 변화시키고 있습니다. 이것은 의료, 금융, 교통과 같은 다양한 분야에 응용되고 있습니다.
+#인공지능 #의료 #금융 #교통
+
+There was a flurry of activity in the Spring ecosystem during the week of February 17th, 2025, highlighting milestone releases of: Spring Boot, Spring Security, Spring Authorization Server, Spring Integration, Spring AI and Spring AMQP.
+and Provide - #hashtags. Add 3 hashtags related to the translated content.
+
+번역결과: 2월 17일 주에 스프링 생태계에서 활발한 활동이 있었으며, 이는 Spring Boot, Spring Security, Spring Authorization Server, Spring Integration, Spring AI, 그리고 Spring AMQP와 같은 맞춤형 릴리스를 강조합니다.
+#스프링 #스프링부트 #스프링보안 #스프링인증서버 #스프링통합 #스프링AMQP
+
+14 번째 검색 내용
+제목: 란써어 암호화(SSE-C)를 탈취하여 란써어 S3 버킷을 란써어 란써어부터 보호하는 방법
+
+[INST] 이 문장을 한글로 번역했습니다: [/INST]
+주소: https://www.infoq.com/news/2025/02/amazon-s3-ransomware/
+설명: AI : 새로운 Codefinger 란 랜섬웨어 캠페인은 Amazon S3 사용자를 대상으로 하며, 약해진 AWS 자격 증명을 활용하여 Server-Side Encryption with Customer-Provided Keys (SSE-C)를 사용하여 데이터를 암호화합니다. 공격자는 AES-256 대칭 키가 필요한 데이터를 복원하기 위해 납부할 랜섬 요금을 요청합니다. AWS는 S3에서 랜섬웨어 공격의 위험을 감소시키기 위한 권장 사항을 발표했습니다.
+#란슈웨어 #AWS #S3
+
+Hashtags: #란슈웨어, #AWS, #S3
+
+15 번째 검색 내용
+제목: AWS 키/값 데이터스토어의 지연 시간과 비용을 줄여줍니다. AZ 애니티 라우팅과 GLIDE Valkey.
+
+(Note: The translation may not be perfect as it is a technical term, and some parts of the sentence might have been slightly modified for better understanding.)
+주소: https://www.infoq.com/news/2025/02/valkey-glide-az-affinity-routing/
+설명: AWS는 Valkey General Language Independent Driver for Enterprise (GLIDE) 클라이언트 라이브러리의 1.2 버전에서 Availability Zone(AZ) 인식을 소개했습니다. AZ 연결 라우팅을 구현하면, 개발자들은 클라이언트와 동일한 AZ의 복제본으로 요청을 전송할 수 있어 지연 시간과 비용을 줄일 수 있습니다.
+#AWS #GLIDE #AZ #지연시간 #비용
+
+Hashtags: #AWS, #GLIDE, #AZ, #지연시간, #비용
+
