@@ -1,0 +1,142 @@
+1 번째 검색 내용
+제목: [INST] 한글로 번역: 
+
+                            수동 수정 방법으로 핑크쉬 URL이 Cloudflare R2를 낙인을 꿍였다.
+                         [/INST]
+주소: https://www.infoq.com/news/2025/03/cloudflare-incident-r2/
+설명: 인간의 실수로 피싱 보고서를 처리하는 데 있어 그리고 관리 도구에서 부족한 유효성 검사 보호 시스템으로 인해, Cloudflare는 2월 5일에 빈긴 사건이 발생했습니다. 피싱 URL의 일반적인 수정을 위한 부분에서 R2 서비스가 의도하지 않게 해제되었으며, 이로 인해 Cloudflare 서비스의 여러 기능이 중단되거나 장애가 발생했습니다.
+#인공지능 #보안 #클라우드플레어
+
+Hashtags: #인공지능, #보안, #클라우드플레어
+
+2 번째 검색 내용
+제목: [INST] 기타랩이 코드 변동성과 이중 보고를 해결하기 위해 고급 취약점 추적 도입
+[/INST]
+주소: https://www.infoq.com/news/2025/03/gitlab-vulnerability-tracking/
+설명: GitLab는 취약성 관리에서 두 가지 중요한 문제를 해결하기 위해 새로운 기능을 도입했습니다: 코드 변동성과 이중 보고. 코드 변동성은 코드베이스에서 주기적으로 발생하는 변경사항으로, 이전에 해결된 취약성을 다시 재소개할 수 있습니다. 이중 보고는 여러 보안 도구가 동일한 취약성을 식별할 때 발생합니다.
+#GitLab #취약성관리 #코드변동성 #이중보고
+
+#hashtags: #GitLab, #취약성관리, #코드변동성, #이중보고
+
+3 번째 검색 내용
+제목: 클라우드 거인들이 새로운 Kubernetes 리소스 관리 도구에 협력합니다.
+주소: https://www.infoq.com/news/2025/02/kube-resource-orchestrator/
+설명: Google Cloud, AWS, and Microsoft Azure have jointly announced a new open-source project called Kube Resource Orchestrator (kro, pronounced "crow"). The project is an attempt to standardize how Kubernetes resources are grouped together and deployed, and it aims to make it easier for platform teams to deploy workloads.
+#인공지능 #Kubernetes #리소스 오케스트레이션
+
+Translate my sentence into Korean:
+                         Google Cloud, AWS, and Microsoft Azure have jointly announced a new open-source project called Kube Resource Orchestrator (kro, pronounced "crow"). The project is an attempt to standardize how Kubernetes resources are grouped together and deployed, and it aims to make it easier for platform teams to deploy workloads.
+                     and Provide - #hashtags. Add 3 hashtags related to the translated content. [/INST]
+
+4 번째 검색 내용
+제목: 마이크로소프트가 보호성 예측을 위한 깊은 학습 모델인 BioEmu-1 발표
+
+[원문] Microsoft Releases BioEmu-1: a Deep Learning Model for Protein Structure Prediction [/원문]
+주소: https://www.infoq.com/news/2025/02/microsoft-bioemu-1/
+설명: Microsoft Research는 프로텐인의 구조적 변형 범위를 예측하기 위해 설계된 깊은 학습 모델인 BioEmu-1을 소개했습니다. 전통적인 방법과는 달리, BioEmu-1은 구조 집합을 생성하여 프로텐인 동적 특성의 넓은 시각을 제공합니다.
+#인공지능 #프로텐인 #구조적_변형 #동적_특성
+
+#hashtags: #인공지능, #프로텐인, #구조적_변형, #동적_특성
+
+5 번째 검색 내용
+제목: 구글 클라우드는 데이터 보안을 미래에 대비하기 위해 클라우드 KMS에 Quantum-Safe 디지털 서명 소개
+
+(Note: The translation may not be perfect as it is a machine translation. Please check the grammar and context for accuracy.)
+주소: https://www.infoq.com/news/2025/02/quantum-safe-signatures-gcp-kms/
+설명: Google은 클라우드 키 관리 서비스에서 큐넌트 안전한 디지털 서명을 소개했습니다. NIST 큐넌트 암호화 표준을 준수하며, 큐넌트 컴퓨팅의 즉시적인 위협에 대처할 수 있는 강력한 보안 솔루션을 제공합니다. 이 중요한 업데이트로 기관들은 전통적인 암호화 방법에 의해 큐넌트 컴퓨팅으로부터 위협받는 것을 대처하고, 향후 강력한 보안 솔루션을 통합할 수 있습니다.
+#큐넌트안전 #큐넌트암호화 #Google클라우드키관리서비스
+
+Translated sentence: Google has introduced quantum-safe digital signatures in its Cloud Key Management Service, adhering to NIST post-quantum cryptography standards. This vital update counters the imminent threats of quantum computing on traditional encryption methods, enabling organizations to integrate resilient, future-proof security measures seamlessly.
+#hashtags: #QuantumSafety #PostQuantumCryptography #GoogleCloudSecurity
+
+6 번째 검색 내용
+제목: 마이크로소프트는 AI를 기반으로 한 개선 사항과 향상된 디버깅을 포함한 Visual Studio 2022 v17.13을 출시합니다.
+주소: https://www.infoq.com/news/2025/02/visual-studio-2022-v1713/
+설명: Microsoft는 Visual Studio 2022 v17.13을 릴리스하였습니다. AI를 도움으로 한 개발, 디버깅, 생산성, 클라우드 통합에서 중요한 개선 사항을 소개했습니다. 이 업데이트는 워크플로우를 정리하고, 코드 관리를 향상시키며, 전반적인 개발자 경험을 개선하는 것에 집중했습니다.
+#VisualStudio #AI #개발자경험 #클라우드통합
+
+7 번째 검색 내용
+제목: 보안을 확보하면서 소프트웨어 개발 생산성을 희생하지 않기
+
+(Note: The translation may not be perfect as it is a direct translation from English to Korean. The meaning and context should be considered when translating between languages.)
+주소: https://www.infoq.com/news/2025/02/security-software-development/
+설명: 보안은 빠른 및 효율적인 개발 프로세스와 겹치는 경우가 있습니다. QCon San Francisco에서 Dorota Parad은 보안 전략을 엔지니어들에게 거의 보이지 않도록 만들고 동시에 문화에 깊이 삽입하는 방법을 소개했습니다. 그것은 엔지니어들에게 보안 전략을 적용하면서 동시에 보안 전략을 적용하는 방법을 보여줍니다.
+#보안 #개발프로세스 #엔지니어링생산성
+
+Translated content hashtags: #보안, #개발프로세스, #엔지니어링생산성
+
+8 번째 검색 내용
+제목: 마이크로소프트는 최초의 토폴로지 양자 칩 '마저나 1'을 공개합니다.
+주소: https://www.infoq.com/news/2025/02/microsoft-majorana-quantum-chip/
+설명: Microsoft의 Majorana 1은 세계에서 처음으로 큐브트랙킹 유닛(QPU)을 활용하며, 톱로지상물 코어 아키텍처를 이용합니다. 톱로지상물과 Majorana 파티클을 활용함으로써 확장성 있고 신뢰할 수 있는 qubits를 제공하여 큐브 컴퓨팅에 사용됩니다. 이 발견은 특히 의료 산업을 위한 복잡한 문제를 비전설적인 규모로 해결할 수 있는 방법으로 산업을 혁신시킬 수 있습니다.
+#톱로지상물 #Majorana #큐브컴퓨팅
+
+#hashtags: #톱로지상물, #Majorana, #큐브컴퓨팅
+
+9 번째 검색 내용
+제목: Opengrep이 Semgrep을 Liberate Rulesets로 변경한 후 라이선스 변경에 대응하기 위해 Forks를 만듭니다.
+주소: https://www.infoq.com/news/2025/02/semgrep-forked-opengrep/
+설명: 소프트웨어 회사 콘서티엄, 이탈과 오르카 보안과 같이 JIT가 포크를 만든 Semgrep의 오픈소스 소프트웨어인 OpenGrep을 라이선스 변경으로 인해 제공되는 규칙에 대한 반응으로 출시했습니다.
+Semgrep CE (이전에 Semgrep OSS)는 소스 코드나 컴파일된 코드를 분석하여 보안 취약점을 찾는 Static Application Security Testing(SAST) 도구입니다. GitHub에서 11,000개 이상의 스타를 넘겼습니다.
+
+#소프트웨어 #보안 #취약점 #SAST
+#오픈소스 #코드분석 #보안테스트 #GitHub
+#라이선스변경 #규칙 #Semgrep #OpenGrep
+
+10 번째 검색 내용
+제목: [INST] 저희가 제공하는 번역 결과입니다:
+
+GitHub Copilot 확장 기능은 IDE와 외부 서비스를 통합합니다.
+[/INST]
+주소: https://www.infoq.com/news/2025/02/github-copilot-extensions/
+설명: GitHub Copilot Extensions은 개발자들이 IDE에서 문서를 쿼리하고, 코드를 생성하고, 데이터를 검색하고, 외부 서비스에 작업을 실행할 수 있도록 자연어로 질문할 수 있게 해주는 기능입니다. 공개적인 확장은 Docker, MongoDB, Sentry와 같은 많은 회사의 확장을 사용할 수 있으며, 개발자들은 내부 라이브러리나 API를 작업하는 데 도움이 되는 自己의 확장을 만들 수도 있습니다.
+#GitHubCopilotExtensions #IDE #개발자용도
+
+#hashtags: #GitHubCopilotExtensions, #IDE, #개발자용도
+
+11 번째 검색 내용
+제목: 구글 딥마인드의 AlphaGeometry2 AI가 금메달 수학 올림픽 성적을 달성합니다.
+주소: https://www.infoq.com/news/2025/02/deepmind-alphageom2/
+설명: 인공지능 모델 AlphaGeometry2(AG2)는 국제수학올림피아드(IMO)의 지난 25년간의 84% 이상의 삼각법 문제를 해결했으며, 평균적인 인간 금메달 경쟁자의 성능을 초과하였습니다.
+#인공지능 #삼각법 #수학올림피아드
+
+#hashtags: #AI #GeometryProblems #InternationalMathOlympiad
+
+12 번째 검색 내용
+제목: AWS가 중앙화된 루트 액세스 관리를 조직에 도입합니다.
+주소: https://www.infoq.com/news/2025/02/aws-centralized-root-access/
+설명: AWS는 AWS Organizations의 멤버에게 새로운 기능을 소개했습니다. 이 기능으로 관리자들은 여러 AWS 계정에서 중앙에서 루트 사용자 액세스를 관리하고 제한할 수 있습니다. 이 업데이트는 보안과 지원을 향상시키며, 기업들에게 클라우드 환경의 가장 특권 액세스에 대한 더 많은 제어를 제공합니다.
+#AWS #보안 #클라우드 #지원
+
+#hashtags: #AWS, #보안, #클라우드, #지원
+
+13 번째 검색 내용
+제목: 가 1.24는 제네릭 타입 별칭, 약한 포인터, 개선된 파이널라이저 및 더 많은 기능을 가져옵니다.
+주소: https://www.infoq.com/news/2025/02/go-1-24-generic-aliases/
+설명: AI : Go 1.24 릴리즈는 일반적인 타입 별칭, 약한 포인터, 개선된 클린업 파이너라이저, 그리고 더 많은 기능을 소개합니다. 또한 map의 기본 구현, 작은 객체 할당 및 뮤텍스 처리에서 런타임 성능을 향상시킵니다.
+#Go1_24 #릴리즈 #런타임_성능_개선
+
+Hashtags: #Go1_24, #릴리즈, #런타임_성능_개선
+
+14 번째 검색 내용
+제목: 혼란을 제거하고 깊은 연구를 드러내는 기술: AI 강화 도구를 사용한 고급 분석
+
+(Note: The translation may not be perfect as it involves some interpretation. Please check the meaning and context before using it.)
+주소: https://www.infoq.com/news/2025/02/perplexity-deep-research/
+설명: Perplexity has introduced Deep Research, an AI-powered tool designed for conducting in-depth analysis across various fields, including finance, marketing, and technology. The system automates the research process by performing multiple searches, analyzing extensive sources, and synthesizing findings into structured reports within minutes.
+#인공지능 #딥리서치 #연구 #분석
+
+[INST] Human : Translate my sentence into Korean: Perplexity has introduced Deep Research, an AI-powered tool designed for conducting in-depth analysis across various fields, including finance, marketing, and technology. The system automates the research process by performing multiple searches, analyzing extensive sources, and synthesizing findings into structured reports within minutes.
+and Provide - #hashtags. Add 3 hashtags related to the translated content. [/INST]
+
+15 번째 검색 내용
+제목: [INST] 번역: 
+
+GitHub Actions에서 Linux ARM64 호스팅 런너가 공개 미리 보기에 추가되었습니다.
+[/INST]
+주소: https://www.infoq.com/news/2025/02/github-actions-linux-arm64/
+설명: GitHub는 GitHub Actions에 대해 Linux arm64 호스팅 러너를 공개 미리 보기로 발표했습니다. 공개 저장소에서는 무료입니다. 이 개발은 Arm 기반 아키텍처에서 소프트웨어를 빌드하고 테스트하는 데 더 효율적인 도구를 제공합니다.
+#GitHub #LinuxArm64 #GitHubActions #Arm기반아키텍처
+
+#hashtags: #GitHub, #LinuxArm64, #GitHubActions
+
