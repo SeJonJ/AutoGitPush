@@ -1,25 +1,26 @@
 1 번째 검색 내용
-제목: AWS가 CDK 깨끗한 집합 소개
+제목: AWS CDK에서 이전 자산을 제거하기 위해 가비지 컬렉션 소개
 
-(Note: The translation may not be perfect due to the context, but it conveys the main idea of the sentence.)
+(Note: The translation may not be perfect as it is a technical term. Please verify the accuracy if needed.)
 주소: https://www.infoq.com/news/2025/03/aws-cdk-garbage-collection/
-설명: Amazon은 AWS CDK에서 가arbage collection의 미리보기를 소개했습니다. 새로운 기능은 부트스트랩된 S3 버킷과 ECR 저장소에 있는 오래된 자산을 자동으로 삭제하여, 유지보수와 배포 비용을 줄입니다.
+설명: Amazon은 AWS CDK에서 가arbage collection의 미리보기를 소개했습니다. 새로운 기능은 부트스트랩된 S3 버킷과 ECR 저장소에서 오래된 자산을 자동으로 삭제하여, 유지보수와 배포 비용을 줄입니다.
 #AWS #CDK #가arbage collection #유지보수 #배포비용 #저장소 #S3 #ECR
 
 2 번째 검색 내용
-제목: 플렉스 v2.5 출시: GitOps 기능을 CEL 통합과 GitHub App 인증으로 확장
+제목: 플렉스 v2.5 출시: GitOps 기능을 CEL 통합과 GitHub 앱 인증으로 확장
 [INST] Flux v2.5 Release: Expanding GitOps Capabilities with CEL Integration and GitHub App Auth [/INST]
 주소: https://www.infoq.com/news/2025/03/flux-gitops-release/
 설명: Flux, the popular GitOps tool for Kubernetes, has released version 2.5, bringing a host of powerful new capabilities that significantly enhance its functionality and flexibility. This release represents a substantial evolution in Flux's capabilities, with features that the community has been eagerly awaiting. Let's explore what's new and how these changes can improve your GitOps workflows.
                      #GitOps #Flux #Kubernetes
 
-Translated sentence: 플렉스, Kubernetes에 대한 인기있는 GitOps 도구, 버전 2.5를 발표하였습니다. 이 버전은 기능과 유연성을 크게 향상시키는 강력한 새로운 기능을 가지고 있습니다. 이 릴리즈는 플렉스의 능력에 대한 진보를 나타내며, 커뮤니티에서 열심히 기다리고 있었던 기능들을 포함합니다. 새로운 것들이 무엇인지 및 이러한 변경으로 GitOps 워크플로우를 개선하는 방법을 살펴보자.
-                     #GitOps #플렉스 #Kubernetes
+Translated content: 
+Flux, Kubernetes의 인기 있는 GitOps 도구입니다. 버전 2.5를 릴리스하여 강력한 새로운 기능을 가져왔으며 기능성과 유연성이 크게 향상되었습니다. 이 릴리스는 Flux의 능력에 대한 커뮤니티의 열정을 대변하고 있습니다. 새로운 기능과 이러한 변경으로 GitOps 워크플로우를 개선할 수 있는 방법을 살펴보겠습니다.
+#GitOps #Flux #Kubernetes
 
 3 번째 검색 내용
-제목: 자바 뉴스 요약: 안정적인 값, 스프링 모듈리스, 오픈 라이버티, 쿼크스, 재릴리저, 그레이들
+제목: 자바 뉴스 요약: 안정적인 값, 스프링 모듈리스, 오픈 라이버티, 쿼크스, 제레이저, 그래들
 주소: https://www.infoq.com/news/2025/03/java-news-roundup-feb24-2025/
-설명: Java 주요 뉴스 요약: 2월 24일, 2025년에는 JEP 502, Stable Values (Preview)가 JDK 25의 대상으로 제안되었습니다; Spring Modulith에 대한 마일스톤 및 포인트 릴리즈; 2월 2025년에 Open Liberty가 발표되었으며, Quarkus 3.19.0, JReleaser 1.17.0과 Gradle 8.13.0이 릴리즈되었습니다.
+설명: Java 주간 요약서: 2월 24일, 2025년에는 JEP 502, Stable Values (Preview)가 JDK 25의 대상으로 제안되었습니다; Spring Modulith에 대한 마일스톤 및 포인트 릴리즈; 2월 2025년에 Open Liberty가 발표되었으며, Quarkus 3.19.0, JReleaser 1.17.0과 Gradle 8.13.0이 릴리즈되었습니다.
 #Java #JDK25 #SpringModulith #OpenLiberty #Quarkus #JReleaser #Gradle
 
 #hashtags: #Java #JDK25 #SpringModulith #OpenLiberty #Quarkus #JReleaser #Gradle
@@ -27,16 +28,19 @@ Translated sentence: 플렉스, Kubernetes에 대한 인기있는 GitOps 도구,
 4 번째 검색 내용
 제목: 메타는 정보 다운로드 도구를 데이터 로그와 함께 향상시킵니다.
 주소: https://www.infoq.com/news/2025/03/meta-suports-data-logs/
-설명: Meta는 최근 Download Your Information (DYI) 도구의 일부로 데이터 로그를 소개했습니다. 이로 인해 사용자들은 제품 사용에 대한 추가적인 데이터에 접근할 수 있게 되었으며, 이 발전은 개인 정보의 투명성과 사용자의 개인 정보 제어를 향상시키기 위한 목적으로 이루어졌습니다.
-#메타 #데이터로그 #개인정보 #투명성
+설명: Meta는 최근 Download Your Information (DYI) 도구의 일부로 데이터 로그를 소개했습니다. 이로 인해 사용자들은 제품 사용에 대한 추가적인 데이터에 접근할 수 있게 되었으며, 이 발전은 개인 데이터의 투명성과 사용자의 개인 데이터 제어를 향상시키기 위한 목적으로 이루어졌습니다.
+#메타 #데이터로그 #투명성 #개인정보제어
 
 Translated sentence: Meta has recently introduced data logs as part of their Download Your Information (DYI) tool, enabling users to access additional data about their product usage. This development was aimed at enhancing transparency and user control over personal data.
-Hashtags: #meta #datalogs #privacy #transparency
+Hashtags: #meta #datalogs #transparency #personaldata
+
+Translated sentence: Meta has recently introduced data logs as part of their Download Your Information (DYI) tool, enabling users to access additional data about their product usage. This development was aimed at enhancing transparency and user control over personal data.
+Hashtags: #meta #datalogs #transparency #personaldata
 
 5 번째 검색 내용
 제목: 네트워크 애스파이어 9.1은 대시보드 기능을 개선합니다.
 주소: https://www.infoq.com/news/2025/03/net-aspire-91-dashboard/
-설명: NET Aspire팀은 플랫폼의 9.1 버전을 발표했습니다. 이 소수 업데이트는 새로운 대시보드 기능과 다양한 플랫폼 구성 요소에서 작은 전체적인 개선에 집중하고 있습니다.
+설명: NET Aspire팀은 플랫폼의 9.1 버전을 발표했습니다. 이 소량의 업데이트는 새로운 대시보드 기능과 다양한 플랫폼 구성 요소에서의 작은 개선에 집중하고 있습니다.
 #NETAspire #플랫폼업데이트 #대시보드기능
 
 #hashtags:
@@ -45,7 +49,7 @@ Hashtags: #meta #datalogs #privacy #transparency
 3. #DashboardFeature
 
 6 번째 검색 내용
-제목: IBM Granite 3.2는 새로운 비전 언어 모델, 사고 체인 이유 추론, 개선된 TimeSeries를 가지고 있습니다.
+제목: IBM Granite 3.2는 새로운 시각언어 모델, 사고 연결 이유 추론, 개선된 TimeSeries를 가지고 있습니다.
 주소: https://www.infoq.com/news/2025/03/ibm-granite-3-2/
 설명: IBM는 새로운 Granite 3.2 다중 모달 및 추론 모델을 소개했습니다. Granite 3.2에는 이전 버전의 성능을 크게 향상시킨 실험적인 사고 체계 추론 기능이 포함되어 있으며, 더 큰 모델보다 여러 벤치마크에서 우수한 새로운 시각 언어 모델(VLM)을 포함하고 있으며, 효율적인 배포를 위해 작은 모델도 제공합니다.
 #IBM #Granite3.2 #추론모델 #시각언어모델
@@ -55,83 +59,73 @@ Hashtags: #meta #datalogs #privacy #transparency
 7 번째 검색 내용
 제목: [INST] 한글로 번역: 
 
-                            수동 수정 방법으로 핑크쉬링 URL이 Cloudflare R2를 낙인을 꿇었다.
-                         [/INST]
+                            수동 수정 방법으로 핑크쉬 URL이 Cloudflare R2를 낙인을 꿇었다.
+                        [/INST]
 주소: https://www.infoq.com/news/2025/03/cloudflare-incident-r2/
-설명: 인간 오류로 인해 이메일 위조 보고서를 처리하는 데 문제가 있었으며, 관리 도구에서 부족한 유효성 검사 보호 기능 때문에 Cloudflare는 2월 5일에 빈긴 사건이 발생했습니다. 위조 URL의 정상적인 수정을 위해 R2 서비스가 실수로 제거되었으며, 이로 인해 Cloudflare의 다른 많은 서비스가 오버 1시간 동안 중단되거나 차단되었습니다.
-#Cloudflare #사건 #보안 #위조URL
+설명: 인간의 실수로 피싱 보고서를 처리하는 데 있어 그리고 관리 도구에서 부족한 유효성 검사 보호 시스템으로 인해, Cloudflare는 2월 5일에 빈긴 사건을 경험했습니다. 피싱 URL의 일반적인 수정 작업의 일부로 R2 서비스가 실수로 해제되었으며, 이는 Cloudflare의 다른 많은 서비스에 대한 중단이나 차단이 오버 1시간 이상 지속되었습니다.
 
-#hashtags: #Cloudflare, #사건, #보안, #위조URL
+#인공지능 #보안 #클라우드플레어 #사고
 
 8 번째 검색 내용
 제목: [INST] 기타랩이 코드 변동성과 이중 보고를 해결하기 위해 고급 취약점 추적 소개합니다. [/INST]
 주소: https://www.infoq.com/news/2025/03/gitlab-vulnerability-tracking/
-설명: GitLab는 취약성 관리에서 두 가지 중요한 문제를 해결하기 위해 새로운 기능을 도입했습니다: 코드 변동성과 이중 보고. 코드 변동성은 코드베이스에서 주기적으로 발생하는 변경사항으로, 이전에 해결된 취약성을 다시 재개입니다. 이중 보고는 여러 보안 도구가 동일한 취약성을 식별할 때 발생합니다.
-#GitLab #취약성관리 #코드변동성 #이중보고
+설명: GitLab는 취약점 관리에서 두 가지 중요한 문제를 해결하기 위해 새로운 기능을 도입했습니다: 코드 변동성과 이중 보고. 코드 변동성은 코드베이스에서 주기적으로 발생하는 변경사항으로, 이전에 해결된 취약점을 다시 재소개할 수 있습니다. 이중 보고는 여러 보안 도구가 동일한 취약점을 식별할 때 발생합니다.
+#GitLab #취약점관리 #코드변동성 #이중보고
 
-Hashtags: #GitLab, #VulnerabilityManagement, #CodeVolatility, #DoubleReporting
+#hashtags: #GitLab, #취약점관리, #코드변동성, #이중보고
 
 9 번째 검색 내용
 제목: 클라우드 거인들이 새로운 Kubernetes 리소스 관리 도구에 협력합니다.
 주소: https://www.infoq.com/news/2025/02/kube-resource-orchestrator/
 설명: Google Cloud, AWS, and Microsoft Azure have jointly announced a new open-source project called Kube Resource Orchestrator (kro, pronounced "crow"). The project is an attempt to standardize how Kubernetes resources are grouped together and deployed, and it aims to make it easier for platform teams to deploy workloads.
-#KubeResourceOrchestrator #Kubernetes #CloudComputing
+#인공지능 #Kubernetes #리소스 #오케스트레이션
 
-[INST] Human : Translate my sentence into Korean: Google Cloud, AWS, and Microsoft Azure have jointly announced a new open-source project called Kube Resource Orchestrator (kro, pronounced "crow"). The project is an attempt to standardize how Kubernetes resources are grouped together and deployed, and it aims to make it easier for platform teams to deploy workloads.
-and Provide - #hashtags. Add 3 hashtags related to the translated content. [/INST]
+Translate my sentence into Korean : 
+                         Google Cloud, AWS, and Microsoft Azure have jointly announced a new open-source project called Kube Resource Orchestrator (kro, pronounced "crow"). The project is an attempt to standardize how Kubernetes resources are grouped together and deployed, and it aims to make it easier for platform teams to deploy workloads.
+                     and Provide - #hashtags. Add 3 hashtags related to the translated content. [/INST]
 
 10 번째 검색 내용
-제목: 마이크로소프트가 보호성 예측을 위한 깊은 학습 모델인 BioEmu-1를 발표합니다.
+제목: 마이크로소프트가 보호성 예측을 위한 깊은 학습 모델인 BioEmu-1 발표
+
+[원문] Microsoft Releases BioEmu-1: a Deep Learning Model for Protein Structure Prediction
 주소: https://www.infoq.com/news/2025/02/microsoft-bioemu-1/
 설명: Microsoft Research는 프로텐인의 구조적 변형 범위를 예측하기 위해 설계된 깊은 학습 모델인 BioEmu-1을 소개했습니다. 전통적인 방법과는 달리, BioEmu-1은 구조 집합을 생성하여 프로텐인 동적 특성의 넓은 시각을 제공합니다.
-#인공지능 #프로텐인 #동적특성 #구조적변형 #BioEmu-1
+#인공지능 #프로텐인 #구조적_변형 #동적_특성
 
-Translated sentence: Microsoft Research has introduced BioEmu-1, a deep-learning model designed to predict the range of structural conformations that proteins can adopt. Unlike traditional methods that provide a single static structure, BioEmu-1 generates structural ensembles, offering a broader view of protein dynamics.
-#hashtags: #인공지능 #프로텐인 #동적특성 #구조적변형 #BioEmu
+#hashtags: #인공지능, #프로텐인, #구조적_변형, #동적_특성
 
 11 번째 검색 내용
 제목: 구글 클라우드는 데이터 보안을 미래에 대비하기 위해 클라우드 KMS에 Quantum-Safe 디지털 서명 소개
 
 (Note: The translation may not be perfect as it is a machine translation. Please review and make necessary adjustments if needed.)
 주소: https://www.infoq.com/news/2025/02/quantum-safe-signatures-gcp-kms/
-설명: Google은 클라우드 키 관리 서비스에서 큐언트 안전한 디지털 서명을 소개했습니다. NIST 큐언트 암호화 표준을 준수하며, 큐언트 컴퓨팅의 곧 위협에 대비합니다. 이 중요한 업데이트는 기존 암호화 방법에 대한 큐언트 컴퓨팅의 위협을 대처하고, 조직들이 안정적인, 미래를 보호하는 보안 솔루션을 간편하게 통합할 수 있도록 합니다.
-#큐언트안전 #클라우드 #보안 #암호화
+설명: Google은 클라우드 키 관리 서비스에서 큐언트 안전한 디지털 서명을 소개했습니다. NIST 큐언트 암호화 표준을 준수하며, 큐언트 컴퓨팅의 즉각적인 위협에 대처할 수 있는 강력한 보안 솔루션을 제공합니다. 이 중요한 업데이트로 기관들은 일반적인 암호화 방법에 의해 큐언트 컴퓨팅으로부터 위협받는 것을 예방하고, 향후 보안 솔루션을 유연하게 통합할 수 있습니다.
+#큐언트안전 #큐언트컴퓨팅 #암호화 #보안
 
-#hashtags: #큐언트안전, #클라우드보안, #암호화기술
+#hashtags: #quantumsafe #postquantumcryptography #googlecloudkeymanagement
 
 12 번째 검색 내용
 제목: 마이크로소프트는 AI를 기반으로 한 개선 사항과 향상된 디버깅을 포함한 Visual Studio 2022 v17.13을 출시합니다.
 주소: https://www.infoq.com/news/2025/02/visual-studio-2022-v1713/
-설명: Microsoft는 Visual Studio 2022 v17.13을 출시하였습니다. AI를 도움으로 한 개발, 디버깅, 생산성, 클라우드 통합에서 중요한 개선 사항을 소개했습니다. 이 업데이트는 워크플로우를 정리하고, 코드 관리를 향상시키며, 전반적인 개발자 경험을 개선하는 것에 집중했습니다.
-#VisualStudio #AI #개발자경험 #클라우드통합
+설명: Microsoft는 Visual Studio 2022 v17.13를 출시하였습니다. AI 지원 개발, 디버깅, 생산성, 클라우드 통합 등에서 중요한 개선 사항을 소개했습니다. 이 업데이트는 워크플로우를 정리하고, 코드 관리를 향상시키며, 전반적인 개발자 경험을 개선하는 것에 집중했습니다.
+#VisualStudio #AI지원개발 #클라우드통합
+
+#hashtags: #VisualStudio #AI지
 
 13 번째 검색 내용
-제목: 보안을 확보하면서도 소프트웨어 개발 생산성을 희생하지 않는 것
-(Note: This translation is a direct translation of the English sentence, and may not be a natural-sounding Korean sentence. It's recommended to consult with a native Korean speaker for a more accurate and natural translation.)
-주소: https://www.infoq.com/news/2025/02/security-software-development/
-설명: 보안은 빠른 및 효율적인 개발 프로세스와 겹치는 경우가 있습니다. QCon San Francisco에서 Dorota Parad은 보안 전략을 엔지니어들에게 거의 보이지 않도록 만들고 동시에 문화에 깊이 삽입하는 방법을 소개했습니다. 그것은 엔지니어들에게 보안 전략을 적용하면서 동시에 보안 전략을 적용하는 방법을 보여줍니다.
-#보안 #개발프로세스 #엔지니어링생산성
+제목: 보안을 확보하면서도 소프트웨어 개발 생산성을 희생하지 않기
 
-Hashtags: #보안 #개발프로세스 #엔지니어링생산성
+(Note: The translation may not be perfect as it is a direct translation from English to Korean. It would be better if a native Korean speaker checks and adjusts the sentence for proper grammar and context.)
+주소: https://www.infoq.com/news/2025/02/security-software-development/
+설명: 
 
 14 번째 검색 내용
-제목: 마이크로소프트가 최초의 토폴로지 양자 칩 '마저나 1'을 공개합니다.
+제목: 마이크로소프트는 최초의 토폴로지 양자 칩 '마저나1'을 공개합니다.
 주소: https://www.infoq.com/news/2025/02/microsoft-majorana-quantum-chip/
-설명: Microsoft의 Majorana 1은 세계에서 처음으로 큐브트랙킹 유닛(QPU)을 사용하여 탑로지 코어 아키텍처를 활용합니다. 토포컨듀터와 Majorana 파티클을 활용하여 확장성이 있고 신뢰성이 있는 qubits를 제공하며, 큐브트랙킹에 사용되는 것입니다. 이 혁신은 특히 의료 산업을 위한 복잡한 문제를 비전설적인 규모로 해결할 수 있는 방법으로 산업을 변화시킬 수 있습니다.
-#큐브트랙킹 #의료산업 #Majorana1
-
-#hashtags: #큐브트랙킹, #의료산업, #Majorana1
+설명: 
 
 15 번째 검색 내용
-제목: Opengrep이 규칙셋을 자유롭게 사용하기 위해 Semgrep을 변경한 후에
-[INST] Translate my sentence into Korean :
-
-오펜그레프가 라이선스 변경 후 규칙셋을 자유롭게 사용하기 위해 세임그레프를 변경했습니다.
-[/INST]
+제목: Opengrep이 Semgrep을 Liberate Rulesets로 변경한 후 라이선스 변경에 대응하기 위해 Forks를 만듭니다.
 주소: https://www.infoq.com/news/2025/02/semgrep-forked-opengrep/
-설명: 소프트웨어 회사 콘서티엄, 이탈과 오카 보안과 같이 JIT을 포함하고 있습니다. Semgrep의 오픈 소스 소프트웨어에 대한 라이선스 변경에 대해 Opengrep을 출시했습니다.
-Semgrep CE (이전에는 Semgrep OSS)는 원본 코드나 컴파일된 코드를 분석하여 보안 취약점을 찾는 Static Application Security Testing(SAST) 도구입니다. GitHub에서 11,000개 이상의 스타를 넘겼습니다.
-
-#인공지능 #소프트웨어 #보안 #취약점 #코드분석
-#오픈소스 #SAST #Semgrep #Opengrep #JIT #OrcaSecurity
+설명: 
 
