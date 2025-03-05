@@ -1,0 +1,154 @@
+1 번째 검색 내용
+제목: 바이트댄스가 깊은 1과 클로드 3.7 손넷을 사용하여 Trae, AI 코딩 도구를 새로운 버전으로 출시하고 모든 사용자에게 무료로 제공합니다.
+주소: https://www.infoq.com/news/2025/03/trae-bytedance-claude-37-free/
+설명: ByteDance는 중국의 TikTok 소유사이며, 최근 Trae라는 AI 기반 코드 에디터를 출시했습니다. Trae는 DeepSeek R1과 Claude 3.7 Sonnet 대규모 자연어 모델에 무제한 무료 액세스를 제공합니다. Trae는 Visual Studio Code 플러그인을 지원하며, AI 코드 에디터와 경쟁(예: Cursor, Windsurf, PearAI, Replit)입니다.
+#인공지능 #코드에디터 #ByteDance #Trae
+#인공지능 #코드에디터 #ByteDance #Trae
+#인공지능 #코드에디터 #ByteDance #Trae
+
+2 번째 검색 내용
+제목: 허그잉 페이스가 GPU를 통해 효율적인 LLM 학습 가이드 발표
+
+(Note: The translation may not be perfect as it is a machine translation. Please double-check the translation for accuracy.)
+주소: https://www.infoq.com/news/2025/03/huggingface-ultra-scale-playbook/
+설명: Hugging Face는 Ultra-Scale Playbook: Training LLMs on GPU Clusters를 발표했습니다. 이것은 오픈소스 가이드로, LLMs를 GPU 클러스터에서 훈련하기 위한 방법론과 기술의 자세한 탐구를 제공합니다.
+#인공지능 #GPU클러스터 #LLM훈련
+
+3 번째 검색 내용
+제목: Azure AI Foundry Labs: Microsoft에서 최신 AI 연구와 실험을 위한 중앙 사이트입니다.
+주소: https://www.infoq.com/news/2025/03/azure-ai-foundry-labs/
+설명: Microsoft의 Azure AI Foundry Labs는 AI 개발을 혁신시키며, 최첨단 연구와 현실적인 응용 사이를 다리로 제공합니다. 실험적인 프로젝트인 Aurora와 MatterSim과 같은 도구를 제공함으로써 개발자들이 새로운 기술을 프로토타입하는 것을 가능하게 합니다. Azure Labs는 동적 학습 도구와 다양한 모드 모델을 통해 혁신과 협력을 촉진하여 이러한 기술에 대한 발전을 가속화합니다.
+#인공지능 #AzureAIFoundryLabs #프로토타입 #도구
+
+#hashtags: #인공지능, #AzureAIFoundryLabs, #프로토타입, #도구
+
+4 번째 검색 내용
+제목: 구글 클라우드는 데이터베이스용 Gen AI 도구박스 출시
+[INST] Translate my sentence into Korean : 
+
+Google Cloud Launches Gen AI Toolbox for Databases
+[/INST]
+주소: https://www.infoq.com/news/2025/03/gen-ai-toolbox/
+설명: Google Cloud는 LangChain과 협력하여 개방형 서버로 개발된 Gen AI Toolbox for Databases의 공개 베타 출시를 발표했습니다. 이 새로운 도구는 데이터베이스와 안전하게 접근, 확장성과 관찰성을 보장하면서 개발자에게 생산성 등급의 에이전트 기반 생성형 AI 애플리케이션을 스트림으로 통합할 수 있도록 설계되었습니다.
+#GoogleCloud #GenAI #데이터베이스 #AI통합
+
+Hashtags: #GoogleCloud, #GenAI, #데이터베이스, #AI통합
+
+5 번째 검색 내용
+제목: AWS CDK에서 이전 자산을 제거하기 위해 가비지 컬렉션 소개
+
+(Note: The translation may not be perfect as it is a technical term. Please verify the accuracy if needed.)
+주소: https://www.infoq.com/news/2025/03/aws-cdk-garbage-collection/
+설명: Amazon은 AWS CDK에서 가arbage collection의 미리보기를 소개했습니다. 새로운 기능은 부트스트랩된 S3 버킷과 ECR 저장소에서 오래된 자산을 자동으로 삭제하여, 유지보수와 배포 비용을 줄입니다.
+#AWS #CDK #가arbage collection #유지보수 #배포비용 #저장소 #S3 #ECR
+
+6 번째 검색 내용
+제목: Flux v2.5 출시: GitOps 기능을 CEL 통합과 GitHub App 인증으로 확장
+
+(Note: The translation may not be perfect as some terms might not have direct equivalents in Korean.)
+주소: https://www.infoq.com/news/2025/03/flux-gitops-release/
+설명: Flux, the popular GitOps tool for Kubernetes, has released version 2.5, bringing a host of powerful new capabilities that significantly enhance its functionality and flexibility. This release represents a substantial evolution in Flux's capabilities, with features that the community has been eagerly awaiting. Let's explore what's new and how these changes can improve your GitOps workflows.
+                     #GitOps #Flux #Kubernetes
+
+Translate my sentence into Korean:
+                         Flux, the popular GitOps tool for Kubernetes, has released version 2.5, bringing a host of powerful new capabilities that significantly enhance its functionality and flexibility. This release represents a substantial evolution in Flux's capabilities, with features that the community has been eagerly awaiting. Let's explore what's new and how these changes can improve your GitOps workflows.
+                     and Provide - #hashtags. Add 3 hashtags related to the translated content. [/INST]
+
+7 번째 검색 내용
+제목: 자바 뉴스 요약: 안정적인 값, 스프링 모듈리스, 오픈 리버티, 쿼크스, 제레이저, 그라들
+
+(Note: The given text is a list of Java-related terms and tools. I have translated each term into Korean as follows:)
+
+안정적인 값: Stable Values (This term seems to be a part of the title or context, so it remains untranslated.)
+스프링 모듈리스: Spring Modulith (Spring + Modulith)
+오픈 리버티: Open Liberty (Open + Liberty)
+쿼크스: Quarkus (This term seems to be a proper noun, so it remains untranslated.)
+제레이저: JReleaser (This term seems to be a proper noun, so it remains untranslated.)
+그라들: Gradle (This term seems to be a proper noun, so it remains untranslated.)
+주소: https://www.infoq.com/news/2025/03/java-news-roundup-feb24-2025/
+설명: Korean Translation: 이번 주의 Java 뉴스 요약은 2월 24일, 2025년에 발표된 다음과 같은 소식을 강조합니다. JEP 502, Stable Values (Preview)가 JDK 25의 대상으로 제안되었습니다; Spring Modulith에서 마일스톤 및 포인트 릴리즈; 2월 2025년에 Open Liberty가 발표되었으며, Quarkus 3.19.0, JReleaser 1.17.0과 Gradle 8.13.0이 릴리스되었습니다.
+#Java #JDK25 #Quarkus #OpenLiberty #Gradle
+
+Hashtags: #Java #JDK25 #Quarkus #OpenLiberty #Gradle
+
+8 번째 검색 내용
+제목: 메타는 정보 다운로드 도구를 데이터 로그와 함께 향상시킵니다.
+주소: https://www.infoq.com/news/2025/03/meta-suports-data-logs/
+설명: Meta는 최근 Download Your Information (DYI) 도구의 일부로 데이터 로그를 소개했습니다. 이로 인해 사용자들은 제품 사용에 대한 추가적인 데이터에 접근할 수 있게 되었으며, 이 발전은 개인 정보의 투명성과 사용자의 개인 정보 제어를 향상시키기 위한 목적으로 이루어졌습니다.
+#메타 #데이터로그 #개인정보 #투명성
+
+Translated sentence: Meta has recently introduced data logs as part of their Download Your Information (DYI) tool, enabling users to access additional data about their product usage. This development was aimed at enhancing transparency and user control over personal data.
+
+Hashtags: #메타 #데이터로그 #개인정보 #투명성
+
+9 번째 검색 내용
+제목: 네트워크 애스파이어 9.1은 대시보드 기능을 개선합니다.
+주소: https://www.infoq.com/news/2025/03/net-aspire-91-dashboard/
+설명: NET Aspire팀은 플랫폼의 9.1 버전을 발표했습니다. 이 소량의 업데이트는 새로운 대시보드 기능과 다양한 플랫폼 구성 요소에서의 작은 개선에 집중되어 있습니다.
+#NETAspire #플랫폼업데이트 #대시보드기능
+
+#NETAspire #플랫폼업데이트 #대시보드기능
+
+10 번째 검색 내용
+제목: IBM Granite 3.2는 새로운 시각언어 모델, 사고 체인 이유 추론, 개선된 TimeSeries를 가지고 있습니다.
+주소: https://www.infoq.com/news/2025/03/ibm-granite-3-2/
+설명: IBM는 새로운 Granite 3.2 다중 모달 및 추론 모델을 소개했습니다. Granite 3.2에는 이전 버전의 성능을 크게 향상시킨 실험적인 사고 체계 추론 기능이 포함되어 있으며, 더 큰 모델보다 여러 벤치마크에서 우수한 새로운 시각 언어 모델(VLM)을 포함하고 있으며, 효율적인 배포를 위해 작은 모델도 제공합니다.
+#IBM #Granite3.2 #추론기능 #시각언어모델
+
+#hashtags: #AI #IBM #Granite3.2 #추론기능 #시각언어모델
+
+11 번째 검색 내용
+제목: [INST] 한글로 번역: 
+
+                            수동 수정 방법으로 핑크쉬 URL이 Cloudflare R2를 낙인을 꿇었다.
+                         [/INST]
+주소: https://www.infoq.com/news/2025/03/cloudflare-incident-r2/
+설명: 인간의 실수로 피싱 보고서를 처리하는 데 있어 그리고 관리 도구에서 부족한 유효성 검사 보호 시스템으로 인해, 클라우드플레이어가 2월 5일에 발생한 사건을 겪었습니다. 피싱 URL의 일반적인 수정 작업 중에 R2 서비스가 의도하지 않게 해제되어, 이로 인해 클라우드플레이어 서비스의 많은 다른 서비스가 오버 1시간 동안 중단되거나 차단되었습니다.
+#인공지능 #피싱 #보안 #클라우드플레이어
+
+Hashtags: #인공지능, #피싱, #보안, #클라우드플레이어
+
+12 번째 검색 내용
+제목: [INST] 기타랩이 코드 변동성과 이중 보고를 해결하기 위해 고급 취약점 추적 도입
+[/INST]
+주소: https://www.infoq.com/news/2025/03/gitlab-vulnerability-tracking/
+설명: GitLab는 취약점 관리에서 두 가지 중요한 문제를 해결하기 위해 새로운 기능을 소개했습니다. 코드 변동성은 이전에 해결된 취약점을 다시 재입력할 수 있는 빈번한 코드 변경을 의미하며, 더블 보고는 여러 보안 도구가 동일한 취약점을 식별할 때 발생합니다.
+#GitLab #취약점관리 #코드변동성 #더블보고
+
+Translated sentence: GitLab has introduced a new feature that addresses two significant challenges in vulnerability management: code volatility and double reporting. Code volatility refers to the frequent changes in codebases that can reintroduce previously resolved vulnerabilities, while double reporting occurs when multiple security tools identify the same vulnerability.
+#GitLab #취약점관리 #코드변동성 #더블보고
+
+13 번째 검색 내용
+제목: 클라우드 거인들이 새로운 Kubernetes 리소스 관리 도구에 협력합니다.
+주소: https://www.infoq.com/news/2025/02/kube-resource-orchestrator/
+설명: Google Cloud, AWS, and Microsoft Azure have jointly announced a new open-source project called Kube Resource Orchestrator (kro, pronounced "crow"). The project is an attempt to standardize how Kubernetes resources are grouped together and deployed, and it aims to make it easier for platform teams to deploy workloads.
+#인공지능 #Kubernetes #리소스 오케스트레이션
+
+Translate my sentence into Korean:
+                         Google Cloud, AWS, and Microsoft Azure have jointly announced a new open-source project called Kube Resource Orchestrator (kro, pronounced "crow"). The project is an attempt to standardize how Kubernetes resources are grouped together and deployed, and it aims to make it easier for platform teams to deploy workloads.
+                     and Provide - #hashtags. Add 3 hashtags related to the translated content.
+
+14 번째 검색 내용
+제목: 마이크로소프트가 보호성 예측을 위한 깊은 학습 모델인 BioEmu-1 발표
+
+[원문] Microsoft Releases BioEmu-1: a Deep Learning Model for Protein Structure Prediction [/원문]
+주소: https://www.infoq.com/news/2025/02/microsoft-bioemu-1/
+설명: Microsoft Research는 BioEmu-1이라는 깊은 학습 모델을 소개했습니다. 이 모델은 희소물질의 구조적 변형 가능성을 예측하는 데 사용되며, 전통적인 방법과 달리 단일 정적 구조를 제공하지 않고 프로텐인의 동적 특성에 대한 더 넓은 시각을 제공하는 구조 집합을 생성합니다.
+#인공지능 #생물학 #프로텐인 #동적특성
+
+Translated sentence: Microsoft Research has introduced BioEmu-1, a deep-learning model designed to predict the range of structural conformations that proteins can adopt. Unlike traditional methods that provide a single static structure, BioEmu-1 generates structural ensembles, offering a broader view of protein dynamics.
+
+Hashtags: #인공지능 #생물학 #프로텐인 #동적특성
+
+15 번째 검색 내용
+제목: 구글 클라우드는 데이터 보안을 미래에 대비하기 위해 클라우드 KMS에 Quantum-Safe 디지털 서명 소개
+
+(Note: The translation may not be perfect as it is a machine translation. Please check the meaning and context before using it.)
+주소: https://www.infoq.com/news/2025/02/quantum-safe-signatures-gcp-kms/
+설명: Google은 클라우드 키 관리 서비스에서 큐언트 안전한 디지털 서명을 소개했습니다. NIST 큐언트 암호화 표준을 준수하며, 큐언트 컴퓨팅의 즉각적인 위협에 대처할 수 있는 강력한 보안 솔루션을 조직에서 간편하게 통합할 수 있도록 합니다.
+#큐언트안전 #클라우드보안 #큐언트컴퓨팅
+
+Translated sentence: Google has introduced quantum-safe digital signatures in its Cloud Key Management Service, adhering to NIST post-quantum cryptography standards. This vital update counters the imminent threats of quantum computing on traditional encryption methods, enabling organizations to integrate resilient, future-proof security measures seamlessly.
+
+Hashtags: #큐언트안전 #클라우드보안 #큐언트컴퓨팅
+
