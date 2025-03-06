@@ -1,112 +1,101 @@
 1 번째 검색 내용
-제목: OpenSSF가 개방형 소스 프로젝트에 대한 보안 기준표를 발표합니다.
+제목: OpenSSF가 개방형 소스 프로젝트에 대한 보안 기준을 발표합니다.
 주소: https://www.infoq.com/news/2025/03/openssf-security-baseline/
-설명: AI : 오픈소스 보안 재단(OpenSSF)은 국제 사이버 보안 프레임워크, 표준 및 규정을 기반으로 한 가이드라인을 발표하여 오픈 소스 프로젝트의 보안을 유지하는데 도움이 되도록 합니다. 이것은 Open Source Project Security Baseline입니다.
+설명: AI : 오픈소스 보안 재단(OpenSSF)은 국제 사이버 보안 프레임워크, 표준 및 규정을 기반으로 한 가이드라인을 발표하여 오픈 소스 프로젝트에 보안을 유지하는데 도움이 되도록 합니다. 이것은 Open Source Project Security Baseline입니다.
 #오픈소스 #보안 #OpenSSF
 
-Hashtags: #오픈소스보안, #OpenSSF, #국제사이버보안프레임워크
+Hashtags: #오픈소스보안, #OpenSourceSecurityFoundation, #프로젝트보안기본선택사항
 
 2 번째 검색 내용
-제목: AWS가 새로운 큐언트 컴퓨팅 칩를 Ocelot과 함께 소개합니다.
+제목: AWS가 새로운 큐언트 컴퓨팅 칩 '오셀롯'을 소개합니다.
 주소: https://www.infoq.com/news/2025/03/aws-ocelot-quantum-chip/
-설명: AWS는 오셀롯이라는 새로운 큐언트 컴퓨팅 칩를 발표했습니다. 이것은 오류 정정을 최대 90% 줄여주는 혁신적인 에러 정정 기술을 가지고 있으며, '캣퀴쿼트' 기술을 통합하여 큐언트 애플리케이션의 중요한 발전을 의미합니다. 오셀롯은 저렴한, 오류 용인 큐언트 컴퓨팅에 도로를 열어주며, 큐언트 기반의 미래에서 보안에 대한 중요한 질문을 제기합니다.
-#큐언트컴퓨팅 #오셀롯 #보안 #미래
+설명: AWS는 오셀롯이라는 새로운 큐언트 컴퓨팅 칩를 발표했습니다. 오셀롯은 오류 정정을 최대 90% 줄여주는 것으로 설계되어 있으며, '캣큐비트' 기술을 통합하고 있습니다. 이 혁신적인 아키텍처는 큐언트 응용에서 큰 발전을 의미하며, 오셀롯은 저가성인 오류 극복 가능한 큐언트 컴퓨팅을 위해 길게 여는 길을 열었습니다. 그러나 큐언트 기반의 미래에서 보안에 대한 중요한 질문이 제기되고 있습니다.
+#AWS #큐언트컴퓨팅 #오류정정 #보안
 
-Translated content: AWS announced Ocelot, an innovative quantum computing chip designed to revolutionize error correction, reducing it by up to 90%. This cutting-edge architecture integrates 'cat qubit' technology, marking a significant advancement in quantum applications. As Ocelot paves the way for affordable, fault-tolerant quantum computing, it raises critical questions about security in a quantum-driven future.
-#quantumcomputing #Ocelot #security #future
-
-Hashtags: #quantumcomputing #Ocelot #security #future
+#hashtags: #AWS, #QuantumComputing, #ErrorCorrection, #Security
 
 3 번째 검색 내용
 제목: 클라우드 네이티브 분산 저장 시스템 CubeFS CNCF에서 졸업합니다.
 주소: https://www.infoq.com/news/2025/03/cubefs-cncf-graduation/
-설명: CNCF는 오픈소스 분산 저장 시스템 CubeFS가 졸업 상태에 달렸음을 발표했습니다. CubeFS는 POSIX, HDFS, S3, 그리고 자체 REST API를 지원하는 저장 솔루션입니다. CubeFS의 주요 플랫폼 영역은 대규모 데이터, AI/LLM 애플리케이션, 컨테이너 플랫폼, 및 데이터베이스입니다.
+설명: CNCF는 오픈소스 분산 저장 시스템 CubeFS가 졸업 상태를 달성했다고 발표했습니다. CubeFS는 POSIX, HDFS, S3, 그리고 자체 REST API를 지원하는 저장 솔루션입니다. CubeFS의 주요 플랫폼 영역은 대규모 데이터, AI/LLM 애플리케이션, 컨테이너 플랫폼, 및 데이터베이스입니다.
 #CNCF #CubeFS #저장시스템 #대규모데이터
 
 #hashtags: #오픈소스 #분산저장시스템 #AI/LLM\_애플리케이션 #컨테이너\_플랫폼
 
 4 번째 검색 내용
-제목: 바이트댄스가 새로운 AI 코딩 도구 Trae를 DeepSeek R1과 Claude 3.7 Sonnet으로 출시하며, 모든 사용자에게 무료로 제공합니다.
+제목: 바이트댑스가 딥시크R1과 클로드3.7 손넷을 사용하여 새로운 AI 코딩 도구 Trae를 출시합니다.
+[/INST]
 주소: https://www.infoq.com/news/2025/03/trae-bytedance-claude-37-free/
-설명: AI : 바이트댑스, 티쿼크의 중국 소유자인 것을 최근에 Trae라는 AI 기반의 코드 편집기를 출시했습니다. Trae는 DeepSeek R1과 Claude 3.7 Sonnet 대규모 언어 모델에 무제한으로 무료 액세스를 제공합니다. Trae는 국제 및 국내 버전을 지원하며, Visual Studio Code 플러그인을 지원하고 점차 많은 AI 코드 편집기와 경쟁합니다(예: Cursor, Windsurf, PearAI, Replit).
-#바이트댑스 #Trae #AI코드편집기
+설명: ByteDance, 중국의 TikTok 소유사, 최근 Trae를 새로운 AI 기반 코드 편집기로 출시하였습니다. DeepSeek R1과 Claude 3.7 Sonnet 대규모 언어 모델에 무제한 무료 액세스를 제공합니다. Trae는 국제 및 국내 버전을 지원하고 있으며, Visual Studio Code 플러그인을 지원하며 AI 코드 편집기와 경쟁합니다(예: Cursor, Windsurf, PearAI, Replit).
+#인공지능 #코드편집기 #바이트댈리스 #티쿡
 
-Hashtags: #바이트댑스 #Trae #AI코드편집기
+Hashtags: #인공지능, #코드편집기, #바이트댈리스, #티쿠크
 
 5 번째 검색 내용
 제목: 허그잉 페이스가 GPU를 통해 효율적인 LLM 학습을 위한 가이드 발표
 
-(Note: The translation may not be perfect as it is a direct translation from English to Korean. The sentence structure and grammar might need adjustments for natural Korean language flow.)
+(Note: The translation may not be perfect as it is a proper noun and technical term, but the meaning should be clear.)
 주소: https://www.infoq.com/news/2025/03/huggingface-ultra-scale-playbook/
-설명: Hugging Face는 Ultra-Scale Playbook: Training LLMs on GPU Clusters를 발표했습니다. 이것은 오픈소스 가이드로, LLMs를 GPU 클러스터에서 학습하기 위한 방법론과 기술의 자세한 탐구를 제공합니다.
-#인공지능 #GPU클러스터 #LLM학습
+설명: Hugging Face는 Ultra-Scale Playbook: Training LLMs on GPU Clusters를 발표했습니다. 이것은 오픈소스 가이드로, LLMs를 GPU 클러스터에서 훈련하기 위한 방법론과 기술의 자세한 탐구를 제공합니다.
+#인공지능 #GPU클러스터 #LLM훈련
 
 6 번째 검색 내용
-제목: Azure AI Foundry Labs: 마이크로소프트에서 최신 AI 연구와 실험을 위한 중앙 사물
-[INST] Translate my sentence into Korean :
-                            Azure AI Foundry Labs: a hub for the Latest AI Research and Experiments at Microsoft
-                         [/INST]
+제목: Azure AI Foundry Labs: 마이크로소프트에서 최신 AI 연구와 실험을 위한 중앙 사업장입니다.
 주소: https://www.infoq.com/news/2025/03/azure-ai-foundry-labs/
-설명: Microsoft의 Azure AI Foundry Labs는 AI 개발을 진보시키고 실제 세계에서의 응용으로 연구와 실제 프로젝트를 연결하여 인공지능 개발을 혁신적으로 변화시킵니다. 실험적인 프로젝트인 Aurora와 MatterSim과 같은 도구를 제공함으로써 개발자들이 새로운 기술을 프로토타입하는 것을 가능하게 합니다. 동적 학습 도구와 다양한 모드의 모델을 사용함으로써 Azure Labs는 혁신과 협력을 가속화시키며, 이를 통해 인공지능 개발에 대한 관심을 높입니다.
-#인공지능 #AzureLabs #AI개발 #혁신
-#인공지능 #연구 #실무 #협력
-#AI개발 #도구 #동적학습 #다양한모드모델
+설명: Microsoft의 Azure AI Foundry Labs는 AI 개발을 혁신시키며, 최첨단 연구와 실제 应用 사이를 다리로 연결합니다. 실험적인 프로젝트인 Aurora와 MatterSim과 같은 것을 제공함으로써 개발자들이 새로운 기술을 프로토타입하는 데 힘을 빌립니다. Azure Labs는 동적 학습 도구와 다양한 모드 모델을 사용하여 혁신과 협력을 가속화합니다.
+#AzureAIFoundryLabs #AI개발 #실험적프로젝트
+
+#hashtags: #인공지능개발, #Azure, #AI혁신, #협력과혁신 
 
 7 번째 검색 내용
 제목: 구글 클라우드는 데이터베이스용 Gen AI 도구박스 출시
-[INST] Translate my sentence into Korean : 
 
-Google Cloud Launches Gen AI Toolbox for Databases
-[/INST]
+(Note: The translation may not be perfect as it is a machine translation. Please review and make any necessary adjustments.)
 주소: https://www.infoq.com/news/2025/03/gen-ai-toolbox/
-설명: Google Cloud는 LangChain과의 협력으로 개방형 서버를 개발한 Gen AI Toolbox for Databases의 공개 베타 출시를 발표했습니다. 이 새로운 도구는 데이터베이스와 안전하게, 확장성이 있고, 관찰성이 있는 생산성 급상승 수준의 AI 애플리케이션을 개발자들에게 간편하게 통합할 수 있도록 설계되었습니다.
-#GoogleCloud #GenAI #데이터베이스 #AI통합
+설명: Google Cloud는 LangChain과의 협력으로 개방형 서버를 개발한 Gen AI Toolbox for Databases의 공개 베타 출시를 선언했습니다. 이 새로운 도구는 데이터베이스와 안전하게, 확장성과 관찰성을 보장하면서 개발자가 생산성 급수 기반 AI 애플리케이션을 데이터베이스에 간편하게 통합할 수 있도록 설계되었습니다.
+#GoogleCloud #GenAI #데이터베이스 #LangChain
 
-Hashtags: #GoogleCloud, #GenAI, #데이터베이스, #AI통합
+Hashtags: #GoogleCloud, #GenAI, #데이터베이스, #LangChain
 
 8 번째 검색 내용
 제목: AWS CDK에서 이전 자산을 제거하기 위해 가비지 컬렉션 소개
 
-(Note: The translation may not be perfect as it is a technical term. Please verify the accuracy of the translation if necessary.)
+(Note: The translation may not be perfect as it is a technical term. Please verify the accuracy if needed.)
 주소: https://www.infoq.com/news/2025/03/aws-cdk-garbage-collection/
-설명: Amazon은 AWS CDK에서 가arbage collection의 미리보기를 소개했습니다. 새로운 기능은 부트스트랩된 S3 버킷과 ECR 저장소에서 오래된 자산을 자동으로 삭제하여, 유지보수와 배포 비용을 줄입니다.
-#AWS #CDK #가arbage collection #유지보수 #배포비용 #저장소 #부트스트랩
+설명: Amazon은 AWS CDK에서 가arbage collection의 미리보기를 소개했습니다. 새로운 기능은 부트스트랩된 S3 버킷과 ECR 저장소에 있는 오래된 자산을 자동으로 삭제하여, 유지보수와 배포 비용을 줄입니다.
+#AWS #CDK #가arbage collection #유지보수 #배포비용 #저장소 #S3 #ECR
 
 9 번째 검색 내용
-제목: 플렉스 v2.5 출시: GitOps 기능을 CEL 통합과 GitHub App 인증으로 확장
+제목: Flux v2.5 출시: GitOps 기능을 CEL 통합과 GitHub App 인증으로 확장
 
 (Note: The translation may not be perfect as it involves technical terms and specific product names.)
 주소: https://www.infoq.com/news/2025/03/flux-gitops-release/
-설명: Flux, the popular GitOps tool for Kubernetes, has released version 2.5, bringing a host of powerful new capabilities that significantly enhance its functionality and flexibility. This release represents a substantial evolution in Flux's capabilities, with features that the community has been eagerly awaiting. Let's explore what's new and how these changes can improve your GitOps workflows.
-                     #Flux #GitOps #Kubernetes #2.5
+설명: Flux, 인기 있는 Kubernetes용 GitOps 도구, 2.5 버전을 릴리즈하였습니다. 이 릴리즈는 Flux의 기능과 유연성을 크게 향상시키는 강력한 새로운 기능들을 가지고 있습니다. 이 변화는 Flux의 능력에 대한 커뮤니티의 긴 대기를 충족시키는 기능으로 나타납니다. 새로운 기능과 이러한 변경들이 GitOps 워크플로우에 어떻게 개선할 수 있는지 탐색해보겠습니다.
+#Flux #GitOps #Kubernetes
 
-Translated sentence: 플렉스, Kubernetes에 대한 인기있는 GitOps 도구, 버전 2.5를 발표하였습니다. 이 버전은 기능성과 유연성을 크게 향상시키는 강력한 새로운 기능들을 가지고 있습니다. 이 릴리즈는 플렉스의 능력에 대한 진보를 나타내며, 커뮤니티가 열심히 기다리고 있었던 기능들을 포함합니다. 새로운 것들이 무엇인지 및 이러한 변경으로 GitOps 워크플로우를 개선하는 방법을 탐색해보자.
-                     #Flux #GitOps #Kubernetes #2.5
+#hashtags: #GitOps, #Kubernetes, #Flux2.5
 
 10 번째 검색 내용
-제목: 자바 뉴스 요약: 안정적인 값, 스프링 모듈리스, 오픈 리버티, 쿼크스, JReleaser, 그라들
-
-(Note: The given text seems to be a list of different Java-related terms and projects. I translated each term separately into Korean.)
+제목: 자바 뉴스 요약: 안정적인 값, 스프링 모듈리스, 오픈 라이버티, 쿼크스, 제레이저, 그래들
 주소: https://www.infoq.com/news/2025/03/java-news-roundup-feb24-2025/
 설명: Java 주간 요약서: 2월 24일, 2025년에는 JEP 502, Stable Values (Preview)가 JDK 25의 대상으로 제안되었습니다; Spring Modulith에 대한 마일스톤 및 포인트 릴리즈; 2월 2025년에 Open Liberty가 발표되었으며, Quarkus 3.19.0, JReleaser 1.17.0과 Gradle 8.13.0이 릴리즈되었습니다.
-#Java #JDK25 #Quarkus #OpenLiberty #Gradle
+#Java #JDK25 #SpringModulith #OpenLiberty #Quarkus #JReleaser #Gradle
 
-#hashtags: #Java #JDK25 #Quarkus #OpenLiberty #Gradle
+#hashtags: #Java #JDK25 #SpringModulith #OpenLiberty #Quarkus #JReleaser #Grad
 
 11 번째 검색 내용
 제목: 메타는 정보 다운로드 도구를 데이터 로그와 함께 향상시킵니다.
 주소: https://www.infoq.com/news/2025/03/meta-suports-data-logs/
-설명: Meta는 최근 Download Your Information(DYI) 도구의 일부로 데이터 로그를 소개했습니다. 이로 인해 사용자들은 제품 사용에 대한 추가적인 데이터에 접근할 수 있게 되었으며, 이 발전은 개인 정보의 투명성과 사용자의 개인 정보 제어를 향상시키기 위한 목적으로 이루어졌습니다.
+설명: Meta는 최근 Download Your Information (DYI) 도구의 일부로 데이터 로그를 소개했습니다. 이로 인해 사용자들은 제품 사용에 대한 추가적인 데이터에 접근할 수 있게 되었으며, 이 발전은 개인 정보의 투명성과 사용자의 개인 정보 제어를 향상시키기 위한 목적으로 이루어졌습니다.
 #메타 #데이터로그 #개인정보 #투명성
 
 Translated sentence: Meta has recently introduced data logs as part of their Download Your Information (DYI) tool, enabling users to access additional data about their product usage. This development was aimed at enhancing transparency and user control over personal data.
-
 #hashtags: #메타 #데이터로그 #개인정보 #투명성
 
 12 번째 검색 내용
 제목: 네트워크 애스파이어 9.1은 대시보드 기능을 개선합니다.
 주소: https://www.infoq.com/news/2025/03/net-aspire-91-dashboard/
-설명: NET Aspire팀은 플랫폼의 9.1 버전을 발표했습니다. 이 소량의 업데이트는 새로운 대시보드 기능과 다양한 플랫폼 구성 요소에서의 작은 개선에 집중하고 있습니다.
+설명: NET Aspire팀은 플랫폼의 9.1 버전을 발표했습니다. 이 소량의 업데이트는 새로운 대시보드 기능과 다양한 플랫폼 구성 요소에서의 작은 전체 개선에 집중하고 있습니다.
 #NETAspire #플랫폼업데이트 #대시보드기능
 
 #hashtags:
@@ -115,26 +104,30 @@ Translated sentence: Meta has recently introduced data logs as part of their Dow
 3. #DashboardFeature
 
 13 번째 검색 내용
-제목: IBM Granite 3.2는 새로운 시각언어 모델, 사고 체인 이유 추론, 개선된 TimeSeries를 가지고 있습니다.
+제목: IBM Granite 3.2는 새로운 시각언어 모델, 사고 연결 이유 추론, 개선된 TimeSeries를 가지고 있습니다.
 주소: https://www.infoq.com/news/2025/03/ibm-granite-3-2/
-설명: IBM는 새로운 Granite 3.2 다중 모달 및 추론 모델을 소개했습니다. Granite 3.2는 이전 버전의 성능을 크게 향상시키는 실험적인 사고 체계 추론 기능을 포함하고 있으며, 더 큰 모델보다 여러 벤치마크에서 우수한 새로운 시각 언어 모델(VLM)을 포함하고 있습니다. 이는 효율적인 배포를 위해 작은 모델도 포함합니다.
-#인공지능 #IBM #Granite3.2
+설명: IBM는 새로운 Granite 3.2 다중 모달 및 추론 모델을 소개했습니다. Granite 3.2에는 이전 버전의 성능을 크게 향상시킨 실험적인 사고 체계 추론 기능이 포함되어 있으며, 더 큰 모델보다 여러 벤치마크에서 우수한 새로운 시각 언어 모델(VLM)을 포함하고 있으며, 효율적인 배포를 위해 작은 모델도 제공합니다.
+#IBM #Granite3.2 #추론모델 #시각언어모델
 
-Hashtags: #인공지능, #IBM, #Granite3.2
+#hashtags: #AI #IBM #Granite3.2 #추론모델 #시각언어모델
 
 14 번째 검색 내용
 제목: [INST] 한글로 번역: 
 
-                            사람이 조작한 링크 제거를 위한 수동 복구 방법으로 Cloudflare R2가 떨어졌다는 방식 [/INST]
+인간 수동 복구를 통해 핑틱 URL이 Cloudflare R2를 낙인찍었다는 방법을 알아보세요.
+[/INST]
 주소: https://www.infoq.com/news/2025/03/cloudflare-incident-r2/
-설명: 인간 오류로 인해 이메일 위조 보고서를 처리하는 데 문제가 발생하고 관리 도구에서 부족한 유효성 검사 보호 기능으로 인해, 클라우드플레어에서 2월 5일에 발생한 사건이 발생했습니다. 팬닝 URL의 일반적인 수정을 위해 R2 서비스가 실수로 제거되었으며, 이로 인해 클라우드플레어 서비스에 대한 중단 또는 장애가 발생하여 1시간 이상 지속되었습니다.
-#인공지능 #클라우드플레
+설명: 인간의 실수로 피싱 보고서를 처리하는 데 있어 그리고 관리 도구에서 부족한 유효성 검사 보호 기능으로 인해, 클라우드플레이어가 2월 5일에 발생한 사건을 겪었습니다. 피싱 URL의 일반적인 수정 작업 중에 R2 서비스가 의도하지 않게 삭제되어, 이로 인해 클라우드플레이어 서비스의 많은 다른 서비스가 오버 1시간 동안 중단되거나 차단되었습니다.
+#인공지능 #피싱 #보안 #클라우드플레이어
+
+Hashtags: #인공지능, #피싱, #보안, #클라우드플레이어
 
 15 번째 검색 내용
-제목: [INST] 기타랩이 코드 변동성과 이중 보고를 해결하기 위해 고급 취약점 추적 소개합니다. [/INST]
+제목: [INST] 깃랩이 코드 변동성과 이중 보고를 해결하기 위해 고급 취약점 추적 소개
+[/INST]
 주소: https://www.infoq.com/news/2025/03/gitlab-vulnerability-tracking/
-설명: GitLab는 취약성 관리에서 두 가지 중요한 문제를 해결하기 위해 새로운 기능을 도입했습니다: 코드 변화와 이중 보고. 코드 변화는 코드베이스에서 자주 발생하며, 이미 해결된 취약성을 다시 재개입니다. 이중 보고는 여러 보안 도구가 동일한 취약성을 식별할 때 발생합니다.
-#GitLab #취약성관리 #코드변화 #이중보고
+설명: GitLab는 취약점 관리에서 두 가지 중요한 문제를 해결하기 위해 새로운 기능을 소개했습니다. 이 문제들은 코드 변경 빈도와 동시 보고입니다. 코드 변경 빈도는 이전에 해결된 취약점을 다시 재개입우로 인한 것으로, 동시 보고는 여러 보안 도구가 같은 취약점을 식별할 때 발생합니다.
+#GitLab #취약점관리 #코드변경 #동시보고
 
-Hashtags: #GitLab, #VulnerabilityManagement, #CodeVolatility, #DoubleReporting
+Translated content hashtags: #GitLab, #vulnerability_management, #code_volatility, #double_reporting
 
