@@ -1,0 +1,146 @@
+1 번째 검색 내용
+제목: 미스트랄 AI가 아랍어와 남인도 언어를 위한 지역 언어 모델 '사바'를 소개합니다.
+주소: https://www.infoq.com/news/2025/03/mistral-saba/
+설명: Mistral AI는 Mistral Saba를 소개했습니다. 이것은 24억 개의 언어 모델로, 아랍어와 여러 인도 유래 언어에서 특히 남인도 언어들인 탄밀 언어 성능을 향상시키기 위해 AI 성능을 개선하는 데 설계되었습니다.
+#MistralAI #아랍어 #인도유래언어 #남인도언어
+
+#hashtags: #MistralSaba, #LanguageModel, #ArtificialIntelligencePerformance
+
+2 번째 검색 내용
+제목: 인공지능을 사용한 자동 테스트 결과 분석
+
+[INST] 제공된 문장을 한국어로 번역하십시오. :
+
+                            인공지능을 사용한 자동 테스트 결과 분석
+                        [/INST]
+주소: https://www.infoq.com/news/2025/03/AI-analysis-automated-test/
+설명: AI : 자동화 테스트 결과 분석은 테스팅 활동의 매우 중요하고 어려운 부분입니다. 언제든지 자동 테스트 결과로 제품의 상태를 알아낼 수 있어야 합니다. Maroš Kutschy는 QA Challenge Accepted에서 이러한 방법으로 인공지능이 분석에 시간을 절약하고, 인간 오류를 줄이며, 새로운 실패에 집중할 수 있는 방식을 소개했습니다.
+#자동화 #테스팅 #인공지능
+
+#hashtags: #자동화테스팅 #인공지능분석 #테스팅활동
+
+[INST] Human : Translate my sentence into Korean: Artificial intelligence is transforming the world. It has applications in various fields such as healthcare, finance, and transportation. and Provide - #hashtags 
+ AI : 인공지능은 세계를 변화시키고 있습니다. 이것은 의료, 금융, 교통과 같은 다양한 분야에 응용되고 있습니다.
+#인공지능 #의료 #금융 #교통
+
+Translate my sentence into Korean : 
+                         Analysis of automated testing results is a very important and challenging part of testing activities. At any given moment we should be able to tell the state of our product according to the results of automated tests, Maroš Kutschy said at QA Challenge Accepted. He presented how artificial intelligence helps them save time spent on analysis, reduce human errors, and focus on new failures.
+                     and Provide - #hashtags. Add 3 hashtags related to the translated content. [/INST]
+
+3 번째 검색 내용
+제목: 구글은 AlloyDB 벡터 검색을 인라인 필터링과 기업 관측성으로 향상시킵니다.
+주소: https://www.infoq.com/news/2025/03/alloydb-filtering-observability/
+설명: Google은 AlloyDB 서비스를 인라인 필터링과 기업 관찰성 검색에 대한 엔터프라이즈 기능으로 향상시켰습니다. 이제 질의 중에 직접 필터링이 가능합니다, 이로 인해 속도와 효율성이 개선됩니다. 향상된 모니터링 기능은 스케일링 벡터 검색 작업의 문제를 해결하고 깊은 인사이트를 제공합니다.
+#AlloyDB #벡터검색 #스케일링
+
+#hashtags: #AlloyDB, #벡터검색, #스케일링
+
+4 번째 검색 내용
+제목: AWS가 새로운 큐럼 컴퓨팅 칩 '오셀롯'을 소개합니다.
+주소: https://www.infoq.com/news/2025/03/aws-ocelot-quantum-chip/
+설명: AWS는 오셀롯이라는 새로운 큐언트 컴퓨팅 칩를 발표했습니다. 이것은 오류 정정을 최대 90% 줄여 주도력을 갖추는 데 있어 혁신적인 오류 정정 기술을 통합하고 있습니다. 이 전략적인 아키텍처에는 '캣퀴트' 기술이 적용되어 있으며, 이것은 큐언트 애플리케이션의 중요한 발전을 의미합니다. 오셀롯이 저렴하고 실패 허용 가능한 큐언트 컴퓨팅을 위해 길게 걷는 것으로 인해 보안에 대한 중요한 질문이 제기됩니다.
+#AWS #큐언트컴퓨팅 #보안 #오셀롯
+
+#hashtags: #AWS, #QuantumComputing, #Security, #Ocelot
+
+5 번째 검색 내용
+제목: OpenSSF가 개방형 소스 프로젝트에 대한 보안 기준을 발표합니다.
+주소: https://www.infoq.com/news/2025/03/openssf-security-baseline/
+설명: AI : 오픈소스 보안 재단(OpenSSF)은 국제 사이버 보안 프레임워크, 표준 및 규정을 기반으로 한 가이드라인을 발표하여 오픈 소스 프로젝트의 보안을 유지하는데 도움이 되도록 합니다. 이러한 가이드라인은 "오픈 소스 프로젝트 보안 기본선택사항"이라고 부르며, 이를 통해 오픈 소스 프로젝트의 보안을 강화할 수 있습니다.
+#오픈소스보안재단 #오픈소스프로젝트보안 #사이버보안프레임워크
+
+Translated content: To help open-source maintainers keep their projects secure, the Open Source Security Foundation (OpenSSF) has published a set of guidelines based on international cybersecurity frameworks, standards, and regulations, the Open Source Project Security Baseline.
+#오픈소스보안재단 #오픈소스프로젝트보안 #사이버보안프레임워크
+
+Hashtags: #오픈소스보안재단 #오픈소스프로젝트보안 #사이버보안프레임워크
+
+6 번째 검색 내용
+제목: 클라우드 네이티브 분산 저장 시스템 CubeFS CNCF에서 졸업합니다.
+주소: https://www.infoq.com/news/2025/03/cubefs-cncf-graduation/
+설명: CNCF는 오픈소스 분산 저장 시스템 CubeFS가 졸업 상태를 달성했다고 발표했습니다. CubeFS는 POSIX, HDFS, S3, 그리고 자체 REST API를 지원하는 저장 솔루션입니다. CubeFS의 주요 플랫폼 영역은 대규모 데이터, AI/LLM 애플리케이션, 컨테이너 플랫폼, 및 데이터베이스입니다.
+#CNCF #CubeFS #저장시스템 #대규모데이터
+
+#hashtags: #오픈소스 #분산저장시스템 #AI/LLM\_애플리케이션 #컨테이너\_플랫폼
+
+7 번째 검색 내용
+제목: 바이트댑스가 모든 사용자에게 무료로 제공되는 DeepSeek R1과 Claude 3.7 Sonnet을 포함한 Trae, AI 코딩 도구를 출시합니다.
+주소: https://www.infoq.com/news/2025/03/trae-bytedance-claude-37-free/
+설명: AI : 바이트댑스, 티쿼크의 중국 소유사, 최근에 Trae라는 AI 기반의 코드 편집기를 출시하였습니다. Trae는 DeepSeek R1과 Claude 3.7 Sonnet 대규모 언어 모델에 무제한으로 무료 접근을 제공합니다. Trae는 국제 버전과 도메스틱 버전을 지원하며, Visual Studio Code 플러그인을 지원하고 있으며, AI 코드 편집기의 증가하는 경쟁 라인에서 (예: Cursor, Windsurf, PearAI, Replit) 경쟁합니다.
+#바이트댑스 #Trae #AI코드편집기
+
+Hashtags: #바이트댑스 #Trae #AI코드편집기
+
+8 번째 검색 내용
+제목: 
+주소: https://www.infoq.com/news/2025/03/huggingface-ultra-scale-playbook/
+설명: Hugging Face는 Ultra-Scale Playbook: Training LLMs on GPU Clusters를 발표했습니다. 이것은 오픈소스 가이드로서, LLMs를 GPU 클러스터에서 훈련하기 위한 방법론과 기술의 자세한 탐구를 제공합니다.
+#인공지능 #GPU클러스터 #훈련 #LLMs
+
+#hashtags: #AI #GPU #MachineLearningTraining
+
+9 번째 검색 내용
+제목: Azure AI Foundry Labs: Microsoft에서 최신 AI 연구와 실험을 위한 중앙 사이트입니다.
+주소: https://www.infoq.com/news/2025/03/azure-ai-foundry-labs/
+설명: Microsoft의 Azure AI Foundry Labs는 AI 개발을 혁신시키며, 최첨단 연구와 실제 应用 사이를 다리로 만듭니다. 실험적인 프로젝트인 Aurora와 MatterSim과 같은 새로운 기술을 프로토타입으로 구현하는데 도움이 됩니다. Azure Labs는 동적 학습 및 다양한 모드 모델을 사용하여 혁신과 협력을 가속화합니다.
+#인공지능 #AzureAIFoundryLabs #AI개발 #혁신
+
+#hashtags: #인공지능, #AzureAIFoundryLabs, #AI개발, #혁신
+
+10 번째 검색 내용
+제목: 구글 클라우드는 데이터베이스용 Gen AI 도구박스 출시
+
+(Note: The translation may not be perfect as it is a direct translation. It would be better to have it translated by a professional translator or someone fluent in both languages.)
+주소: https://www.infoq.com/news/2025/03/gen-ai-toolbox/
+설명: Google Cloud는 LangChain과의 협력으로 개방형 서버를 개발한 Gen AI Toolbox for Databases의 공개 베타 출시를 선언했습니다. 이 새로운 도구는 데이터베이스와 안전하게, 확장성이 있고, 관찰성이 있는 생산성 등급의 에이전트 기반 생성형 AI 애플리케이션을 개발자들이 스트레스 없이 통합할 수 있도록 설계되었습니다.
+#인공지능 #데이터베이스 #GoogleCloud
+
+Hashtags: #인공지능, #데이터베이스, #GoogleCloud
+
+11 번째 검색 내용
+제목: AWS CDK에서 이전 자산을 제거하기 위해 가비지 컬렉션 소개
+
+(Note: The translation may not be perfect as it is a technical term. Please verify the accuracy if needed.)
+주소: https://www.infoq.com/news/2025/03/aws-cdk-garbage-collection/
+설명: Amazon은 AWS CDK에서 가arbage collection의 미리보기를 소개했습니다. 새로운 기능은 부트스트랩된 S3 버킷과 ECR 저장소에서 오래된 자산을 자동으로 삭제하여, 유지보수와 배포 비용을 줄입니다.
+#AWS #CDK #가arbage collection #유지보수 #배포비용 #저장소 #부트스트랩
+
+12 번째 검색 내용
+제목: 플렉스 v2.5 출시: GitOps 기능을 CEL 통합과 GitHub 앱 인증으로 확장
+[INST] Flux v2.5 Release: Expanding GitOps Capabilities with CEL Integration and GitHub App Auth [/INST]
+주소: https://www.infoq.com/news/2025/03/flux-gitops-release/
+설명: Flux, the popular GitOps tool for Kubernetes, has released version 2.5, bringing a host of powerful new capabilities that significantly enhance its functionality and flexibility. This release represents a substantial evolution in Flux's capabilities, with features that the community has been eagerly awaiting. Let's explore what's new and how these changes can improve your GitOps workflows.
+                     #GitOps #Flux #Kubernetes
+
+Translated sentence: 플렉스, Kubernetes에 대한 인기있는 GitOps 도구, 버전 2.5를 발표하였습니다. 이 버전은 기능과 유연성을 크게 향상시키는 강력한 새로운 기능을 가지고 있습니다. 이 릴리즈는 플렉스의 능력에 대한 진보를 나타내며, 커뮤니티에서 열심히 기다리고 있었던 기능입니다. 새로운 것들을 살펴보고 이러한 변경으로 GitOps 워크플로우를 개선하는 방법을 알아보자.
+                     #GitOps #플렉스 #Kubernetes
+
+13 번째 검색 내용
+제목: 자바 뉴스 요약: 안정적인 값, 스프링 모듈리스, 오픈 리버티, 쿼크스, 재릴리저, 그라들
+
+(Note: The translation may not be perfect as some terms might have specific meanings in the context of Java development. Please verify the accuracy if needed.)
+주소: https://www.infoq.com/news/2025/03/java-news-roundup-feb24-2025/
+설명: Java 주요 뉴스 요약: 2월 24일, 2025년에는 JEP 502, Stable Values (Preview)가 JDK 25의 대상으로 제안되었습니다; Spring Modulith에 대한 마일스톤 및 포인트 릴리즈; Open Liberty의 2월 2025년 릴리즈; 그리고 Quarkus 3.19.0, JReleaser 1.17.0과 Gradle 8.13.0이 릴리즈되었습니다.
+#Java #JDK25 #Quarkus #OpenLiberty #Gradle
+
+#hashtags: #Java #JDK25 #SpringModulith #OpenLiberty #Quarkus #Gradle
+
+14 번째 검색 내용
+제목: 메타는 정보 다운로드 도구를 데이터 로그와 함께 향상시킵니다.
+주소: https://www.infoq.com/news/2025/03/meta-suports-data-logs/
+설명: Meta는 최근 Download Your Information (DYI) 도구의 일부로 데이터 로그를 소개했습니다. 이렇게 하면 사용자들은 제품 사용에 대한 추가적인 데이터에 접근할 수 있습니다. 이 발전은 개인 데이터에 대한 투명성과 사용자의 컨트롤을 향상시키는 것을 목표로 했습니다.
+#메타 #데이터로그 #투명성 #사용자제어
+
+Translated sentence: Meta has recently introduced data logs as part of their Download Your Information (DYI) tool, enabling users to access additional data about their product usage. This development was aimed at enhancing transparency and user control over personal data.
+Hashtags: #meta #datalogs #transparency #usercontrol
+
+15 번째 검색 내용
+제목: 네트워크 애스파이어 9.1은 대시보드 기능을 개선합니다.
+주소: https://www.infoq.com/news/2025/03/net-aspire-91-dashboard/
+설명: NET Aspire팀은 플랫폼의 9.1 버전을 발표했습니다. 이 소량의 업데이트는 새로운 대시보드 기능과 다양한 플랫폼 구성 요소에서 작은 전체적인 개선에 집중했습니다.
+#NETAspire #플랫폼업데이트 #대시보드기능
+
+#hashtags:
+1. #NETAspireUpdate
+2. #PlatformImprovement
+3. #DashboardFeature
+
