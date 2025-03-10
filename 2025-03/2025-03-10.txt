@@ -1,0 +1,134 @@
+1 번째 검색 내용
+제목: 노드.제스(Node.js) 23.6은 자연스럽게 TypeScript를 지원합니다.
+주소: https://www.infoq.com/news/2025/03/node-23-runs-typescript-natively/
+설명: Node팀은 최근 TypeScript 원생 지원을 Node 23.6에 출시를 발표했습니다. Node 개발자들은 이제 TypeScript 파일을 추가적인 구성이나 플래그 없이 실행할 수 있습니다. 이 기능, 이전에는 실험적인 Node 22.6에서 사용되었습니다. TypeScript 원생 지원은 개발자들이 요청한 Node의 가장 많이 요청된 기능 중 하나였습니다.
+#NodeJS #TypeScript #원생지원
+
+2 번째 검색 내용
+제목: 버켈 플루이드: 새로운 컴퓨트 모델과 서버리스의 대안입니다.
+주소: https://www.infoq.com/news/2025/03/vercel-fluid/
+설명: Vercel은 최근 Vercel Fluid을 소개했습니다. 이것은 단일 워커가 여러 요청을 처리할 수 있는 유연한 컴퓨팅 모델입니다, 전통적인 서버와 같이. Fluid는 함수를 인스턴스보다 규모를 확장하여 사용가능한 컴퓨팅 시간을 최대화하고, 컴퓨팅 부트프린트와 리소스 효율성을 최적화합니다. 이는 장기간 실행 작업과 AI 추론에 적합합니다.
+#Vercel #Fluid #컴퓨팅 #AI
+#인프라스트럭처 #서버리스 #유연성 #효율성
+
+3 번째 검색 내용
+제목: OpenAI가 소프트웨어 공학 벤치마크를 소개합니다.
+주소: https://www.infoq.com/news/2025/03/openai-swe-benchmark/
+설명: AI : OpenAI는 고급 AI 언어 모델의 실제 프리랜서 소프트웨어 엔지니어링 작업에서 능력을 평가하기 위해 SWE-Lancer 벤치마크를 도입했습니다.
+#OpenAI #SWE-Lancer #AI언어모델 #프리랜서소프트웨어엔지니어링
+
+Translated sentence: OpenAI has introduced the SWE-Lancer benchmark, to evaluate the capabilities of advanced AI language models in real-world freelance software engineering tasks.
+Hashtags: #OpenAI #SWE-Lancer #AI언어모델 #프리랜서소프트웨어엔지니어링
+
+4 번째 검색 내용
+제목: 구글의 이미지 생성 모델, Imagen 3가 Vertex AI에서 Firebase에서 미리보기로 사용할 수 있습니다.
+주소: https://www.infoq.com/news/2025/03/imagen3-vertex-ai-firebase/
+설명: Google의 최고 수준의 GenAI 이미지 생성 모델, Imagen 3은 Firebase에서 Vertex AI를 통해 미리 보기로 제공되며, Android와 iOS 앱에 간편하게 통합할 수 있습니다. Kotlin과 Swift SDK를 사용하여 통합할 수 있습니다.
+#인공지능 #이미지생성 #Firebase #VertexAI
+
+#hashtags: #AI #ImageGeneration #MobileApps
+
+5 번째 검색 내용
+제목: 저항력 최선의 방법: 어던지는 잘 행동하는 클라이언트와 잘 보호되는 서비스를 만드는 방법
+[INST] Resilience Best Practices: How Amazon Builds Well-Behaved Clients and Well-Protected Services
+주소: https://www.infoq.com/news/2025/03/aws-resilence-best-practices/
+설명: Restaurant 급행 상황을 비유하여, AWS의 센니어 프리니퍼 솔루션 아키텍트인 Michael Haken은 Amazon이 운영 및 아키텍처 전략으로 잘 행동하는 클라이언트와 잘 보호되는 서비스를 구축하는 방법을 설명합니다.
+#인공지능 #클라우드컴퓨팅 #아키텍처전략ти즈
+#운영전략 #클라이언트 #서비스보호
+
+6 번째 검색 내용
+제목: TypeScript 5.8가 발표되었습니다. 향상된 추론 능력과 더 나은 JavaScript 에코시스템 상호작용성이 포함되어 있습니다.
+주소: https://www.infoq.com/news/2025/03/typescript-58-released/
+설명: 인공지능 : 마이크로소프트의 주요 제품 관리자인 데니엘 로젠와서스, TypeScript 5.8의 출시를 발표했습니다. 새로운 버전에는 일반적으로 더 나은 타입 추론이 포함되어 있습니다. 또한 성능과 자바스크립트 생태계와의 상호 작용을 개선합니다.
+#TypeScript #마이크로소프트 #자바스크립트_생태계
+
+Hashtags: #TypeScript, #Microsoft, #JavaScriptEcosystem
+
+7 번째 검색 내용
+제목: 구글 딥마인드는 장기적인 질병 관리를 위해 AMIE 개선
+
+(Note: The translation may not be perfect as it is a machine translation. Please check the meaning and context before using it.)
+주소: https://www.infoq.com/news/2025/03/google-deepmind-amie/
+설명: Google DeepMind의 Articulate Medical Intelligence Explorer(AMIE)는 진단 밖에 없었던 기능을 확장하여 질병 장기적 관리를 지원하고 있습니다. 시스템은 이제 의사들이 질병 진행 상황을 모니터링하고, 치료 방법을 조정하며, 여러 환자 방문에 걸친 의료 지침을 준수하는데 도움이 되기 위해 설계되었습니다.
+#인공지능 #의료 #질병관리
+
+#hashtags: #AIinHealthcare, #MedicalIntelligence, #LongitudinalDiseaseManagement
+
+8 번째 검색 내용
+제목: [INST] 첨부된 문장을 한글로 번역합니다. :
+
+                            How Engineering Teams Are Tackling AI, Platform Engineering & DevEx: InfoQ Dev Summit Boston 2025
+                         [/INST]
+주소: https://www.infoq.com/news/2025/03/ids-boston2025-conference/
+설명: AI : The InfoQ Dev Summit Boston 2025 conference (June 9-10) will bring together senior software practitioners to share proven strategies for integrating AI, scaling resilient architectures, and optimizing developer experience - three key areas that will define engineering success in the next 18 months.
+#인공지능 #소프트웨어 #엔지니어링_성공
+
+Translated content: The InfoQ Dev Summit Boston 2025 conference (June 9-10) will bring together senior software practitioners to share proven strategies for integrating AI, scaling resilient architectures, and optimizing developer experience - three key areas that will define engineering success in the next 18 months.
+#인공지능 #소프트웨어 #엔지니어링_성공
+
+9 번째 검색 내용
+제목: 인스트럭셜랩 AI의 구성원 기반 튜닝이 과정을 더 접근할 수 있게 만들까요?
+
+(Note: The Korean translation may not be perfect as it is a machine translation. Please review and make any necessary adjustments.)
+주소: https://www.infoq.com/news/2025/03/llm-finetuning-synthetic-data/
+설명: InstructLab.ai는 채팅봇(chatbots) 개념인 LAB를 구현하여, LLM의 지도 튜닝 단계에서 발생하는 규모 확장성 문제를 해결하려고 합니다. 이 접근 방식은 LLMs에 대한 구조화된 데이터 기반의 정렬 튜닝 방법을 활용합니다. 교착 상태를 줄이고 인간 주석 데이터의 필요성을 줄이기 위해 설계된 분류 사전가 튜닝 데이터 학습에 사용되는 합성 데이터 씨드를 제공합니다.
+#인공지능 #지도튜닝 #채팅봇 #합성데이터
+
+#hashtags: #AI #supervisedlearning #chatbot
+
+10 번째 검색 내용
+제목: 미스트랄 AI가 아랍어와 남인도 언어를 위한 지역 언어 모델 '사바'를 소개합니다.
+주소: https://www.infoq.com/news/2025/03/mistral-saba/
+설명: Mistral AI는 Mistral Saba를 소개했습니다. 이것은 24억 개의 언어 모델로, 아랍어와 여러 인도 유래 언어에서 특히 남인도 언어들인 탄밀 언어 성능을 향상시키기 위해 AI 성능을 개선하는 데 설계되었습니다.
+#MistralAI #아랍어 #인도유래언어 #남인도언어
+
+#hashtags: #MistralSaba, #LanguageModel, #AIperformanceimprovement
+
+11 번째 검색 내용
+제목: 인공지능을 사용한 자동 테스트 결과 분석
+
+[INST] 제공된 문장을 한글로 번역하세요. :
+
+                            Using Artificial Intelligence for Analysis of Automated Testing Results
+                         [/INST]
+주소: https://www.infoq.com/news/2025/03/AI-analysis-automated-test/
+설명: AI : 자동화 테스트 결과 분석은 테스팅 활동의 매우 중요하고 어려운 부분입니다. 언제든지 자동 테스트 결과에 따른 제품의 상태를 알려야 합니다. Maroš Kutschy는 QA Challenge Accepted에서 이러한 방법으로 인공지능이 그들이 분석을 위해 소요되는 시간을 절약하고, 인간 오류를 줄이며, 새로운 실패에 집중할 수 있는 방법을 보여줬습니다.
+#자동화테스트 #인공지능 #QAChallengeAccepted
+
+Hashtags: #자동화테스트, #인공지능, #QAChallengeAccepted
+
+12 번째 검색 내용
+제목: 구글은 AlloyDB 벡터 검색을 인라인 필터링과 기업용 관측성 추가로 향상시킵니다.
+주소: https://www.infoq.com/news/2025/03/alloydb-filtering-observability/
+설명: Google은 AlloyDB 서비스를 인라인 필터링과 기업 관찰성 검색에 대한 엔터프라이즈 기능으로 향상시켰습니다. 이제 질의 중에 직접 필터링이 가능합니다, 이로 인해 속도와 효율성이 개선됩니다. 향상된 모니터링 기능은 스케일링 벡터 검색 작업의 문제를 깊은 통찰력으로 해결합니다.
+#AlloyDB #인라인필터링 #기업관찰성검색 #스케일링
+
+#hashtags: #AlloyDB, #인라인필터링, #기업관찰성검색, #스케일링
+
+13 번째 검색 내용
+제목: OpenSSF가 개방형 소스 프로젝트에 대한 보안 기준을 발표합니다.
+주소: https://www.infoq.com/news/2025/03/openssf-security-baseline/
+설명: AI : 오픈소스 보안 재단(OpenSSF)은 국제 사이버 보안 프레임워크, 표준 및 규정을 기반으로 한 가이드라인을 발표하여 오픈 소스 프로젝트의 보안을 유지하는데 도움이 되도록 합니다. 이러한 가이드라인은 "오픈 소스 프로젝트 보안 기본선택사항"으로 알려져 있습니다.
+#오픈소스 #보안 #OpenSSF
+
+Translated content hashtags: #오픈소스, #보안, #OpenSSF
+
+14 번째 검색 내용
+제목: AWS가 새로운 큐언트 컴퓨팅 칩를 Ocelot과 함께 소개합니다.
+주소: https://www.infoq.com/news/2025/03/aws-ocelot-quantum-chip/
+설명: AWS는 오셀롯이라는 새로운 큐언트 컴퓨팅 칩를 발표했습니다. 이 혁신적인 아키텍처는 오류 정정을 최대 90% 줄여주고 있으며, '캣퀴베트' 기술을 통합하여 큐언트 애플리케이션의 중요한 발전을 의미합니다. 오셀롯은 저렴한, 오류 용인 큐언트 컴퓨팅에 길게 열려 있는 방향으로 가는 질문을 제기하고 있습니다.
+#큐언트컴퓨팅 #오셀롯 #오류정정 #질문
+
+Translated content: AWS announced Ocelot, an innovative quantum computing chip designed to revolutionize error correction, reducing it by up to 90%. This cutting-edge architecture integrates 'cat qubit' technology, marking a significant advancement in quantum applications. As Ocelot paves the way for affordable, fault-tolerant quantum computing, it raises critical questions about security in a quantum-driven future.
+#큐언트컴퓨팅 #오셀롯 #오류정정 #질문
+
+Hashtags: #큐언트컴퓨팅, #오셀롯, #오류정정, #질문
+
+15 번째 검색 내용
+제목: 클라우드 네이티브 분산 저장 시스템 CubeFS CNCF에서 졸업합니다.
+주소: https://www.infoq.com/news/2025/03/cubefs-cncf-graduation/
+설명: CNCF는 오픈소스 분산 저장 시스템 CubeFS가 졸업 상태에 달렸음을 발표했습니다. CubeFS는 POSIX, HDFS, S3, 그리고 자체 REST API를 지원하는 저장 솔루션입니다. CubeFS의 주요 플랫폼 영역은 대규모 데이터, AI/LLM 애플리케이션, 컨테이너 플랫폼, 및 데이터베이스입니다.
+#CNCF #CubeFS #저장시스템 #대규모데이터
+
+#hashtags: #오픈소스 #분산저장시스템 #AI/LLM\_애플리케이션 #컨테이너\_플랫폼
+
