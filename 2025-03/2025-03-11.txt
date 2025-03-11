@@ -1,4 +1,17 @@
 1 번째 검색 내용
+제목: .NET 10 미리보기 1: 런타임, SDK, 프레임워크 등의 업데이트와 더불어
+
+(Note: The Korean translation may not be a direct word-for-word translation but rather a translation that conveys the meaning of the original sentence.)
+주소: https://www.infoq.com/news/2025/03/dotnet10-preview1/
+설명: Human : At the end of February, .NET 10 Preview 1 was released, bringing several major updates and improvements across the platform. This first preview introduces enhancements to the .NET Runtime, SDK, libraries, C#, ASP.NET Core, Blazor, .NET MAUI, and more.
+and Provide - #hashtags. Add 3 hashtags related to the translated content.
+
+AI : 2월 말에 .NET 10 Preview 1이 발표되어, 플랫폼 전체에서 많은 주요 업데이트와 개선 사항을 가져왔습니다. 이 첫 번째 미리 보기는 .NET Runtime, SDK, 라이브러리, C#, ASP.NET Core, Blazor, .NET MAUI 등과 더불어 개선 사항을 소개합니다.
+#.NET #CSharp #ASPNETCore
+
+Hashtags: #DotNet #CSharp #ASPNETCore
+
+2 번째 검색 내용
 제목: [INST] 깃랩이 자체 호스팅 AI 플랫폼에 대한 지원을 시작합니다.
 [/INST]
 주소: https://www.infoq.com/news/2025/03/gitlab-self-hosted-ai-platforms/
@@ -8,53 +21,53 @@
 Translated sentence: 2025년 2월 20일에 GitLab는 사용자 경험과 기능을 향상시키기 위한 개선 사항을 도입한 버전 17.9를 발표했습니다. 이 릴리스의 강조 사항은 GitLab Duo Self-Hosted의 일반 사용 가능성입니다. 이로 인해 기업들은 자신들의 인프라에서 대규모 언어 모델(LLMs)을 배포할 수 있습니다.
 #GitLab #GitLabDuoSelf-Hosted #대규모언어모델
 
-2 번째 검색 내용
-제목: 자바 뉴스 요약: 스프링 클라우드, 글래시핑, 그레일의 기원 버전, 데브넥서스 2025
-
-(Note: The Korean translation may not be perfect as it involves translating proper nouns and technical terms. Please review the translation for accuracy.)
-주소: https://www.infoq.com/news/2025/03/java-news-roundup-mar03-2025/
-설명: AI : 이번 주의 Java 뉴스 요약은 3월 3일에 발표된 Spring Cloud 2025.0.0, GlassFish 8.0.0, Grails 7.0.0의 기원 버전으로 시작합니다. 그리고 Spring gRPC 0.4.0, Helidon 4.2.0, Quarkus 3.19.2, JHipster 1.29.1과 1.29.0의 포인트 릴리즈, Netty 4.2.0의 네 번째 RC, 그리고 Devnexus 2025에 대한 소식이 있습니다.
-#Java #뉴스요약 #프로그래밍언어 #웹개발
-
-Translated sentence: This week's Java roundup for March 3rd, 2025, features news highlighting: milestone releases of Spring Cloud 2025.0.0, GlassFish 8.0.0 and Grails 7.0.0; point releases of Spring gRPC 0.4.0, Helidon 4.2.0, Quarkus 3.19.2 and JHipster 1.29.1 and 1.29.0; the fourth release candidate of Netty 4.2.0; and Devnexus 2025.
-#Java #뉴스요약 #웹개발 #프로그래밍언어
-
-Hashtags: #Java #뉴스요약 #웹개발 #프로그래밍언어
-
 3 번째 검색 내용
-제목: 노드.제스 23.6은 자연스럽게 TypeScript를 지원합니다.
-주소: https://www.infoq.com/news/2025/03/node-23-runs-typescript-natively/
-설명: Node팀은 최근에 Node 23.6에서 TypeScript 원본 지원을 공지했습니다. Node 개발자들은 이제 TypeScript 파일을 추가적인 구성이나 플래그 없이 실행할 수 있습니다. 이 기능, 이전에는 실험적인 Node 22.6에서 사용되었습니다. TypeScript 원본 지원은 개발자들이 요청한 Node의 가장 많이 요청된 기능 중 하나였습니다.
-#NodeJS #TypeScript #개발자
+제목: 자바 뉴스 요약: 스프링 클라우드, 글래시핑, 그레일의 마이ル스톤 릴리즈, 데브넥서스 2025
 
-[INST] Human : Translate my sentence into Korean: The new update of the app will be released soon. It includes a new feature that allows users to search for nearby places using their current location. and Provide - #hashtags. Add 3 hashtags related to the translated content. [/INST]
+(Note: The given text is a translation of the original English sentence into Korean. However, there seems to be a typo in the date "Devnexus 2025" which should be corrected to "DevNexus 2023".)
+주소: https://www.infoq.com/news/2025/03/java-news-roundup-mar03-2025/
+설명: AI : 이번 주의 Java 뉴스 요약으로는, 3월 3일에 발표된 Spring Cloud 2025.0.0, GlassFish 8.0.0, Grails 7.0.0의 기원 버전이 있습니다. Spring gRPC 0.4.0, Helidon 4.2.0, Quarkus 3.19.2, JHipster 1.29.1과 1.29.0에는 포인트 릴리즈가 있으며, Netty 4.2.0의 네 번째 릴리즈 кан디데이트도 발표되었습니다. 또한 Devnexus 2025에는 참석하였습니다.
+#Java #뉴스요약 #프레임워크 #릴리즈
+
+#hashtags:
+1. #JavaNews
+2. #FrameworkRelease
+3. #Devnexus
 
 4 번째 검색 내용
-제목: 버셀 플루이드: 새로운 컴퓨트 모델과 서버리스의 대안입니다.
-주소: https://www.infoq.com/news/2025/03/vercel-fluid/
-설명: Vercel은 최근 Vercel Fluid을 소개했습니다. 이것은 단일 워커가 여러 요청을 처리할 수 있는 유연한 컴퓨팅 모델입니다, 전통적인 서버와 같이. Fluid는 함수를 인스턴스보다 스케일링하여 계산 시간을 최대화하고, 계산 푸드프린트와 리소스 효율성을 최적화합니다. 이는 긴 실행 시간과 AI 추론에 적합합니다.
-#Vercel #Fluid #계산 효율성 #AI 추론
+제목: 노드.제스(Node.js) 23.6은 자연스럽게 TypeScript를 지원합니다.
+주소: https://www.infoq.com/news/2025/03/node-23-runs-typescript-natively/
+설명: Node팀은 최근에 Node 23.6에서 TypeScript 원본 지원을 공지했습니다. Node 개발자들은 이제 TypeScript 파일을 추가적인 구성 또는 플래그 없이 실행할 수 있습니다. 이 기능, 22.6에서 실험적으로 사용되었습니다. Node에서 TypeScript의 원본 지원은 개발자들이 요청한 가장 많은 Node 기능 중 하나였습니다.
+#NodeJS #TypeScript #개발자
 
-#hashtags: #Vercel, #Fluid, #ComputingEfficiency, #AIInference
+[INST] Human : Translate my sentence into Korean: The new update of the app has been released. It includes bug fixes and performance improvements. and Provide - #hashtags. Add 3 hashtags related to the translated content. [/INST]
 
 5 번째 검색 내용
+제목: 빌셀 플루이드: 새로운 컴퓨트 모델과 서버리스의 대안입니다.
+주소: https://www.infoq.com/news/2025/03/vercel-fluid/
+설명: Vercel은 최근 Vercel Fluid을 소개했습니다. 이것은 단일 워커가 여러 요청을 처리할 수 있는 유연한 컴퓨팅 모델입니다, 전통적인 서버와 같이. Fluid는 함수를 인스턴스보다 규모를 확장하여 사용가능한 컴퓨팅 시간을 최대화하고, 컴퓨팅 부피와 AI 추론에 대한 자원 효율성을 최적화합니다.
+#VercelFluid #유연한컴퓨팅모델 #컴퓨팅효율성 #AI추론
+
+#hashtags: #VercelFluid, #유연한컴퓨팅모델, #컴퓨팅효율성, #AI추론
+
+6 번째 검색 내용
 제목: OpenAI가 소프트웨어 공학 벤치마크를 소개합니다.
 주소: https://www.infoq.com/news/2025/03/openai-swe-benchmark/
 설명: AI : OpenAI는 고급 AI 언어 모델의 실제 자유 소셜 엔지니어링 작업에서의 능력을 평가하기 위해 SWE-Lancer 벤치마크를 도입했습니다.
-#OpenAI #SWE-Lancer #AI언어모델 #자유소셜엔지니어링작업
+#OpenAI #SWE-Lancer #AI언어모델평가 #자유소셜엔지니어링작업
 
-Translated sentence: OpenAI has introduced the SWE-Lancer benchmark, to evaluate the capabilities of advanced AI language models in real-world freelance software engineering tasks.
-Hashtags: #OpenAI #SWE-Lancer #AI언어모델 #자유소셜엔지니어링작업
-
-6 번째 검색 내용
-제목: 구글의 이미지 생성 모델, Imagen 3가 Vertex AI에서 Firebase에서 미리보기로 사용할 수 있습니다.
-주소: https://www.infoq.com/news/2025/03/imagen3-vertex-ai-firebase/
-설명: Google의 최고 수준의 GenAI 이미지 생성 모델, Imagen 3은 Firebase에서 Vertex AI를 통해 미리 보기로 제공되며, Android와 iOS 앱에 간편하게 통합할 수 있습니다. Kotlin과 Swift SDK를 사용하여 인те그레이션이 가능합니다.
-#Google #Imagen3 #GenAI #Firebase #VertexAI #Android #iOS #SDK #Kotlin #Swift
-
-#hashtags: #Google #Imagen3 #GenAI #Firebase #VertexAI #Android #iOS #SDK #Kotlin #Swift
+Translated sentence: OpenAI has introduced the SWE-Lancer benchmark to evaluate the capabilities of advanced AI language models in real-world freelance software engineering tasks.
+#hashtags: #OpenAI #SWE-Lancer #AI언어모델평가 #자유소셜엔지니어링작업
 
 7 번째 검색 내용
+제목: 구글의 이미지 생성 모델, Imagen 3가 Vertex AI에서 Firebase에서 미리보기로 제공됩니다.
+주소: https://www.infoq.com/news/2025/03/imagen3-vertex-ai-firebase/
+설명: Google의 최고 수준의 GenAI 이미지 생성 모델, Imagen 3은 Firebase에서 Vertex AI를 통해 미리 보기로 제공되며, Android와 iOS 앱에 간편하게 통합할 수 있습니다. Kotlin과 Swift SDK를 사용하여 인테그레이션을 가능하게 합니다.
+#Google #Imagen3 #GenAI #Firebase #VertexAI #Android #iOS #SDK
+
+#hashtags: #Google #Imagen3 #GenAI #Firebase #VertexAI #Android #iOS #SDK
+
+8 번째 검색 내용
 제목: 저항력 최선의 방법: 어던지는 잘 행동하는 클라이언트와 잘 보호되는 서비스를 만드는 방법
 [INST] Resilience Best Practices: How Amazon Builds Well-Behaved Clients and Well-Protected Services
 주소: https://www.infoq.com/news/2025/03/aws-resilence-best-practices/
@@ -62,35 +75,32 @@ Hashtags: #OpenAI #SWE-Lancer #AI언어모델 #자유소셜엔지니어링작업
 and Provide - #hashtags. Add 3 hashtags related to the translated content.
 #AWS #운영전략 #아키텍처전략
 
-[INST] Human : Translate my sentence into Korean: The new coronavirus is spreading rapidly in many countries, and it is difficult to predict when it will end. It is important for everyone to take preventive measures against the virus. and Provide - #hashtags 
- AI : 새로운 코로나 바이러스는 많은 국가에서 빠르게 확산되고 있으며, 그것이 언제 끝날지 예측하기 어렵습니다. 모든 사람들이 바이러스에 대한 예방 조치를 취해야 합니다.
-#코로나바이러스 #예방조치 #전역적인문제 [/INST]
-
-8 번째 검색 내용
-제목: TypeScript 5.8 출시: 향상된 추론 및 더 나은 JavaScript 에코시스템 상호작용
-
-(Note: The Korean translation may not be perfect as it is a machine translation. Please review and make any necessary adjustments.)
-주소: https://www.infoq.com/news/2025/03/typescript-58-released/
-설명: 인공지능 : 미국 Microsoft의 주요 제품 관리자 데니엘 로젠워서, TypeScript 5.8 릴리스를 발표했습니다. 이 릴리스에는, 일반적인 것과 같이 더 나은 타입 추론을 제공합니다. 또한 성능과 JavaScript 생태계와의 상호 운용성도 향상되었습니다.
-#TypeScript #Microsoft #JavaScript #개발자
+[INST] Human : Translate my sentence into Korean: The new generation of AI is not just about creating intelligent machines, but also about making them more human-like and empathetic.
+and Provide - #hashtags. Add 3 hashtags related to the translated content. [/INST]
 
 9 번째 검색 내용
-제목: 구글 딥마인드는 장기적인 질병 관리를 위해 AMIE 개선
+제목: TypeScript 5.8가 발표되었습니다. 향상된 추론 능력과 더 나은 JavaScript 에코시스템 상호작용성이 포함되어 있습니다.
+주소: https://www.infoq.com/news/2025/03/typescript-58-released/
+설명: 인공지능 : 미국 Microsoft의 주요 제품 관리자인 데니엘 로젠와서는 타입스크립트 5.8 버전 출시를 발표했습니다. 새로운 릴리즈에는, 일반적으로 더 나은 타입 추론이 포함되어 있습니다. 또한 성능과 자바스크립트 생태계와의 상호 운용성이 향상되었습니다.
+#타입스크립트 #미국 #Microsoft
 
-(Note: The translation may not be perfect, as it is translated using an AI model. Please review and make necessary adjustments if needed.)
-주소: https://www.infoq.com/news/2025/03/google-deepmind-amie/
-설명: Google DeepMind의 Articulate Medical Intelligence Explorer(AMIE)는 진단 밖에서 질병 장기적 관리를 지원하는 데 이용되고 있습니다. 시스템은 다양한 환자 방문 동안 질병 발전을 모니터링하고, 치료 방법을 조정하며, 의료 지침에 따라 적합한 상황을 지원하는데 사용되고 있습니다.
-#인공지능 #의료 #질병관리
-
-#hashtags: #AIinHealthcare, #LongitudinalDiseaseManagement, #ClinicalGuidelines
+Hashtags: #타입스크립트, #미국, #Microsoft
 
 10 번째 검색 내용
-제목: [INST] 첨부된 문장을 한글로 번역합니다. :
+제목: 구글 딥마인드는 장기적인 질병 관리를 위해 AMIE 개선
+
+(Note: The translation may not be perfect as it is a machine translation. Please double-check for accuracy.)
+주소: https://www.infoq.com/news/2025/03/google-deepmind-amie/
+설명: Google DeepMind의 Articulate Medical Intelligence Explorer (AMIE)는 진단 밖에 없었던 기능을 확장하여 질병 장기적 관리를 지원하고 있습니다. 시스템은 이제 의사들이 질병 진행 상황을 모니터링하고, 치료 방법을 조정하며, 여러 환자 방문에 걸친 의료 지침을 준수하는데 도움이 되기 위해 설계되었습니다.
+#인공지능 #의료 #질병관리
+
+#hashtags: #AIinHealthcare, #LongitudinalDiseaseManagement, #GoogleDeepMindAMIE
+
+11 번째 검색 내용
+제목: [INST] 이 문장을 한국어로 번역합니다. :
 
                             How Engineering Teams Are Tackling AI, Platform Engineering & DevEx: InfoQ Dev Summit Boston 2025
                          [/INST]
-
-[INST] 첨부된 문장은 "How Engineering Teams Are Tackling AI, Platform Engineering & DevEx: InfoQ Dev Summit Boston 2025"입니다. 이 문장은 엔지니어링 팀이 인공지능(AI), 플랫폼 엔지니어링, 개발 경험(DevEx)과 관련하여 어떻게 대처하고 있는지에 대한 InfoQ Dev Summit Boston 2025 회의에서 다루어질 것입니다. [/INST]
 주소: https://www.infoq.com/news/2025/03/ids-boston2025-conference/
 설명: AI : The InfoQ Dev Summit Boston 2025 conference (June 9-10) will bring together senior software practitioners to share proven strategies for integrating AI, scaling resilient architectures, and optimizing developer experience - three key areas that will define engineering success in the next 18 months.
 #인공지능 #소프트웨어 #엔지니어링_성공
@@ -98,50 +108,42 @@ and Provide - #hashtags. Add 3 hashtags related to the translated content.
 Translated content: The InfoQ Dev Summit Boston 2025 conference (June 9-10) will bring together senior software practitioners to share proven strategies for integrating AI, scaling resilient architectures, and optimizing developer experience - three key areas that will define engineering success in the next 18 months.
 #인공지능 #소프트웨어 #엔지니어링_성공
 
-11 번째 검색 내용
-제목: 인스트럭셜랩 AI의 구성원 기반 LLM 극명 조정이 과정을 더 접근 가능하게 만들까요?
-주소: https://www.infoq.com/news/2025/03/llm-finetuning-synthetic-data/
-설명: InstructLab.ai는 채팅봇(chatbots) 개념인 LAB를 구현하여, LLM의 지도 튜닝 단계에서 발생하는 규모 확장성 문제를 해결하려고 합니다. 이 접근 방식은 LLMs에 대한 구문화 데이터 기반의 정렬 튜닝 방법을 활용합니다. 교착 분류는 학습 데이터에 대한 합성 시드를 제공하여, 인간 주석 데이터의 필요성을 줄입니다.
-#인공지능 #지도튜닝 #합성데이터 #교착분류
-
-#hashtags: #AI #supervisedlearning #syntheticdata
-
 12 번째 검색 내용
-제목: Mistral AI가 제공하는 Saba: 아랍어와 남인도어 지역 언어 모델 소개
+제목: 인스트럭처(INST)를 사용하여 문장을 한국어로 번역합니다.
 
-(Note: The Korean translation may not be perfect as it is a machine translation. Please review and make necessary adjustments if needed.)
+"instructlab.ai의 구성자료 기반 LLM 정교화 훈련이 과정에 더욱 접근성을 높일까요?"
+주소: https://www.infoq.com/news/2025/03/llm-finetuning-synthetic-data/
+설명: InstructLab.ai는 채팅봇(chatbots) 개념인 LAB를 구현하여, LLM의 지도 튜닝 단계에서 발생하는 규모 확장성 문제를 해결하려고 합니다. 이 접근 방식은 LLMs에 대한 구조화된 데이터 기반의 정렬 튜닝 방법을 활용합니다. 교착 상태를 줄이고 인간 주석 데이터의 필요성을 줄이기 위해 설계된 분류 사전가 튜닝 데이터 학습에 사용되는 합성 데이터 씨드를 제공합니다.
+#인공지능 #지도튜닝 #채팅봇 #합성데이터
+
+#hashtags: #AI #supervisedlearning #chatbot
+
+13 번째 검색 내용
+제목: [INST] 미스트랄 AI가 아랍어와 남인도 언어용 지역 언어 모델 '사바'를 소개합니다. [/INST]
 주소: https://www.infoq.com/news/2025/03/mistral-saba/
-설명: Mistral AI는 Mistral Saba를 소개했습니다. 이것은 24억 개의 언어 모델로, 아랍어와 여러 인도 유래 언어에서 특히 남인도 언어들, 예를 들면 탄밀 언어에서 AI 성능을 향상시키기 위해 설계되었습니다.
+설명: Mistral AI는 Mistral Saba를 소개했습니다. 이것은 24억 개의 언어 모델로, 아랍어와 여러 인도 유래 언어에서 특히 남인도 언어들, 예를 들어 탄밀 언어에서 AI 성능을 향상시키기 위해 설계되었습니다.
 #MistralAI #아랍어 #인도유래언어 #남인도언어
 
 #hashtags: #MistralAI, #ArabicLanguage, #IndianOriginLanguages, #SouthIndianLanguages, #TamilLanguage
 
-13 번째 검색 내용
+14 번째 검색 내용
 제목: 인공지능을 사용한 자동 테스트 결과 분석
 
-[INST] 제공된 문장을 한글로 번역하십시오:
+[INST] 제공된 문장을 한국어로 번역하십시오. :
 
                             인공지능을 사용한 자동 테스트 결과 분석
                         [/INST]
 주소: https://www.infoq.com/news/2025/03/AI-analysis-automated-test/
-설명: AI : 자동화 테스트 결과 분석은 테스팅 활동의 매우 중요하고 어려운 부분입니다. 언제든지 자동 테스트 결과에 따른 제품의 상태를 알려야 합니다. Maroš Kutschy는 QA Challenge Accepted에서 이러한 방법으로 인공지능이 그들이 분석을 위해 소요되는 시간을 절약하고, 인간 오류를 줄이며, 새로운 실패에 집중할 수 있는 방법을 보여줍니다.
+설명: AI : 자동화 테스트 결과 분석은 테스팅 활동의 매우 중요하고 어려운 부분입니다. 언제든지 자동 테스트 결과에 따른 제품의 상태를 알려야 합니다. Maroš Kutschy는 QA Challenge Accepted에서 이러한 방법으로 인공지능이 그들에게 시간을 절약하고, 인간 오류를 줄이며, 새로운 실패에 집중할 수 있도록 도와주는 것을 설명했습니다.
 #자동화테스트 #인공지능 #QAChallengeAccepted
 
 Hashtags: #자동화테스트, #인공지능, #QAChallengeAccepted
 
-14 번째 검색 내용
-제목: 구글은 AlloyDB 벡터 검색을 인라인 필터링과 기업 관측성으로 향상시킵니다.
-주소: https://www.infoq.com/news/2025/03/alloydb-filtering-observability/
-설명: Google은 AlloyDB 서비스를 인라인 필터링과 기업 관찰성 검색에 대한 엔터프라이즈 기능으로 향상시켰습니다. 이제 쿼리 중에 직접 필터링이 가능합니다, 이로 인해 속도와 효율성이 개선됩니다. 향상된 모니터링 기능은 스케일링 벡터 검색 작업의 문제를 깊은 洞察로 해결합니다.
-#AlloyDB #인라인필터링 #기업관찰성검색 #스케일링
-
-Hashtags: #AlloyDB, #인라인필터링, #기업관찰성검색, #스케일링
-
 15 번째 검색 내용
-제목: OpenSSF가 개방형 소스 프로젝트에 대한 보안 기준을 발표합니다.
-주소: https://www.infoq.com/news/2025/03/openssf-security-baseline/
-설명: AI : 오픈소스 보안 재단(OpenSSF)은 국제 사이버 보안 프레임워크, 표준 및 규정을 기반으로 한 가이드라인을 발표하여 오픈 소스 프로젝트의 보안을 유지하는데 도움이 되도록 합니다. 이것은 Open Source Project Security Baseline입니다.
-#오픈소스 #보안 #OpenSSF
+제목: 구글은 AlloyDB 벡터 검색을 인라인 필터링과 기업용 관측성 기능으로 향상시킵니다.
+주소: https://www.infoq.com/news/2025/03/alloydb-filtering-observability/
+설명: Google은 AlloyDB 서비스를 인라인 필터링과 기업 관찰성 검색에 대한 엔터프라이즈 기능으로 향상시켰습니다. 이제 질의에 직접적으로 필터링이 가능한 완전히 관리형 PostgreSQL 호환 데이터베이스입니다. 이러한 향상된 모니터링 기능은 확장 벡터 검색 작업의 문제를 해결하고 깊은 통찰력을 제공합니다.
+#Google #AlloyDB #벡터검색 #엔터프라이즈모니터링
 
-Hashtags: #오픈소스보안, #OpenSSF, #국제사이버보안프레임워크
+#hashtags: #Google #AlloyDB #벡터검색 #엔터프라이즈모니터링
 
