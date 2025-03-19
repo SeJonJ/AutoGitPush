@@ -1,0 +1,140 @@
+1 번째 검색 내용
+제목: 자바 24는 새로운 실험적 기능과 많은 최종 기능을 제공합니다.
+주소: https://www.infoq.com/news/2025/03/java24-released/
+설명: Oracle는 Java 프로그래밍 언어와 가상 기계의 버전 24를 발표했습니다. JDK 21 후에 제3 비 LTS 릴리스로, 최종 기능 세트는 24개 JEP입니다. 이 중에서 Generational Shenandoah와 Compact Object Headers가 새로운 실험적 기능입니다. 또한, 이러한 기능 중 대부분은 마지막으로 시험 및 미리 보기 과정을 거쳤습니다.
+#Java #Oracle #JDK24
+
+#hashtags: #JavaProgrammingLanguage, #OracleRelease, #JDK24Features
+
+2 번째 검색 내용
+제목: 구글 딥마인드 제2의 로보틱스 공개
+
+(Note: The translation may not be perfect as it involves translating proper nouns and abbreviations, which can sometimes cause confusion. However, the general meaning of the sentence is conveyed.)
+주소: https://www.infoq.com/news/2025/03/google-gemini-robotics/
+설명: 인공지능 기업 Google DeepMind는 시각, 언어, 행동을 통합한 고급 AI 모델인 Gemini Robotics를 소개했습니다. 이 혁신은 인공지능 2.0 프레임워크에 기반하며, 로봇을 더욱 지능적이고 능력 있는 것으로 만들어지려고 합니다, 특히 실제 세계에서의 성공을 위해.
+#인공지능 #로봇 #DeepMind #GeminiRobotics
+
+#hashtags: #AI #Robotics #Innovation
+
+3 번째 검색 내용
+제목: Azure 데이터베이스를 위한 MySQL 트리거를 사용하여 Azure 함수에서 공개 미리 보기입니다.
+주소: https://www.infoq.com/news/2025/03/azure-mysql-trigger-functions/
+설명: Microsoft의 Azure Database for MySQL은 Azure Functions에 대한 트리거를 사용하여 실시간 데이터 처리와 이벤트 기반 자동화를 지원하는 공개 미리 보기를 제공합니다. 이 혁신적인 통합은 개발자들에게 테이블 변경을 스마일하게 추적하고, 분석, 준수성, 보안을 향상시키며 Azure의 서버리스 프레임워크 내에서 효율적으로 확장할 수 있도록 합니다.
+#Azure #데이터베이스 #서버리스 #트리거
+
+#hashtags: #AzureDatabaseforMySQL, #RealtimeDataProcessing, #EventDrivenAutomation
+
+4 번째 검색 내용
+제목: 프로젝트 레이든은 JEP 483를 사용하여 빠른 애플리케이션 시작을 위한 세 번째 옵션을 Java 24에 추가합니다.
+주소: https://www.infoq.com/news/2025/03/java-24-leyden-ships/
+설명: In Java 24, Project Leyden’s JEP 483, "Ahead-of-Time Class Loading & Linking", starts Java applications like Spring PetClinic up to 40% faster without code changes or new application constraints. It needs a training run to build a cache file that ships with the application. With GraalVM Native Image and CRaC, the startup is 95-99% faster but faces more constraints. Leyden plans more improvements.
+                     and Provide - #hashtags. Add 3 hashtags related to the translated content.
+
+번역: Java 24에서 Project Leyden의 JEP 483, "Ahead-of-Time Class Loading & Linking"은 코드 변경 없이 새로운 응용 프로그램 제약 조건도 없이 Spring PetClinic과 같은 Java 애플리케이션을 40% 빠르게 시작합니다. 이 기능을 사용하려면 캐시 파일을 빌드하는 훈련 실행이 필요합니다. GraalVM Native Image와 CRaC를 사용하면 95-99% 빠르게 시작할 수 있지만, 더 많은 제약 조건을 겪습니다. Leyden에서는 향후 개선 계획을 가지고 있습니다.
+#hashtags: #자바24 #프로젝트레이든 #Ahead-of-TimeClassLoading&Linking #GraalVMNativeImage
+
+번역: Java 24에서 Project Leyden의 JEP 483, "Ahead-of-Time Class Loading & Linking"은 코드 변경 없이 새로운 응용 프로그램 제약 조건도 없이 Spring PetClinic과 같은 Java 애플리케이션을 40% 빠르게 시작합니다. 이 기능을 사용하려면 캐시 파일을 빌드하는 훈련 실행이 필요합니다. GraalVM Native Image와 CRaC를 사용하면 95-99% 빠르게 시작할 수 있지만, 더 많은 제약 조건을 겪습니다. Leyden에서는 향후 개선 계획을 가지고 있습니다.
+#hashtags: #자바24 #프로젝트레이든 #Ahead-of-TimeClassLoading&Linking #GraalVMNativeImage
+
+5 번째 검색 내용
+제목: 메타는 모바일과 웹 앱에서 비디오 전송 시스템을 통합합니다.
+주소: https://www.infoq.com/news/2025/03/facebook-video-delivery-unifed/
+설명: Meta finalized efforts to consolidate Facebook’s video delivery system by migrating video experiences from older Watch product to more recent Reels product, which became the basis of the unified system. The unification process required changes across mobile UI, server backend, and ranking systems while ensuring a seamless transition for billions of users.
+#메타 #비디오 #유니폴리티 #Facebook
+
+Translate my sentence into Korean: 
+                         Meta finalized efforts to consolidate Facebook’s video delivery system by migrating video experiences from older Watch product to more recent Reels product, which became the basis of the unified system. The unification process required changes across mobile UI, server backend, and ranking systems while ensuring a seamless transition for billions of users.
+                     and Provide - #hashtags. Add 3 hashtags related to the translated content.
+[INST] AI : 메타는 페이스북의 비디오 전송 시스템을 통합하기 위해 이전의 Watch 제품에서 비디오 경험을 새로운 Reels 제품으로 마이그레이션했습니다. 이러한 통합 과정은 모바일 UI, 서버 백엔드 및 랭킹 시스템에서 변경을 요구하며 수억 명의 사용자에게 부드러운 전환을 보장합니다.
+#메타 #비디오 #유니폴리티 #페이스북
+
+Hashtags: #메타, #비디오, #유니폴리티, #페이스북
+
+6 번째 검색 내용
+제목: 구글이 모바일과 웹 앱에 대해 Gemma 3 1B를 출시합니다.
+주소: https://www.infoq.com/news/2025/03/google-gemma-3-1b/
+설명: 요구되는 "단순히" 529MB인 Gemma 3 1B는 모바일과 Web 앱에 빠르게 다운로드하고 사용자 참여를 유지하기 위해 다운로드해야 하는 작은 언어 모델(SLM)입니다.
+#Gemma3 #언어모델 #모바일앱 #Web앱
+
+7 번째 검색 내용
+제목: .NET 팀이 .NET 9에 대한 하이브리드캐시 라이브러리 출시 발표
+
+(Note: In Korean, the word "Announces" is translated as "발표", which means "announcement" or "presentation".)
+주소: https://www.infoq.com/news/2025/03/hybrid-cache-dotnet9-release/
+설명: Last week, the .NET Team announced the release of HybridCache, a new .NET 9 library, now available through the Microsoft.Extensions.Caching.Hybrid package. According to the source, the library is designed to enhance data storage and retrieval performance by combining both in-memory and distributed caches, such as Redis.
+#.NET #HybridCache #데이터 저장 및 검색 성능 향상 #레디스
+
+Translated content:
+Last week, the .NET Team announced the release of HybridCache, a new .NET 9 library, now available through the Microsoft.Extensions.Caching.Hybrid package. According to the source, the library is designed to enhance data storage and retrieval performance by combining both in-memory and distributed caches, such as Redis.
+#.NET #HybridCache #데이터 저장 및 검색 성능 향상 #레디스
+
+8 번째 검색 내용
+제목: 자바 뉴스 요약: 재킹라 노술 1.0, 스프링 7.0-M3, 메이븐 4.0-RC3, 랑체인4j 1.0-beta2
+주소: https://www.infoq.com/news/2025/03/java-news-roundup-mar10-2025/
+설명: Java 주요 뉴스 요약: 2025년 3월 10일 기준으로, OpenJDK JEPs를 목표로 하는 JDK 25의 대상 및 제안; Jakarta NoSQL 1.0 릴리스; Spring Framework 7.0의 3번째 Milestone 릴리스; Maven 4.0의 3번째 Release Candidate; LangChain4j 1.0의 2번째 Beta 릴리스입니다.
+#Java #OpenJDK #SpringFramework #Maven #LangChain4j
+
+9 번째 검색 내용
+제목: [INST] 헤믹스의 미래 - 안정성과 호환성
+[/INST]
+주소: https://www.infoq.com/news/2025/03/htmx-future-stability-compat/
+설명: 인공지능 팀은 최근에 htmx의 미래에 대한 에세이를 발표했습니다. htmx는 웹 개발자들의 도구 키트에 저렴한 비용으로 고가치를 제공하기 위해 안정성과 역악응성을 중점으로 집중합니다. 앞으로 htmx는 이미 존재하는 사용자들을 중심으로 개발될 예정입니다. htmx를 사용한 웹사이트는 변경 없이도 많은 시간 동안 작동해야 합니다.
+#htmx #웹개발자 #안정성 #역악응성
+
+#hashtags: #htmx, #웹개발자, #안정성, #역악응성
+
+10 번째 검색 내용
+제목: OpenAI가 사용자 지정 에이전트를 개발하기 위해 새로운 API, SDK, 및 도구를 출시합니다.
+주소: https://www.infoq.com/news/2025/03/openai-responses-api-agents-sdk/
+설명: OpenAI는 생산성 준비 대리자를 만드는 데 있어 프롬프트 반복을 처리하고 복잡한, 다단계 작업에서 오체제 구축을 위해 새로운 Responses API, Agents SDK, 및 관찰성 도구를 발표했습니다.
+#인공지능 #OpenAI #대리자_개발 #생산성_준비
+
+Translated sentence: OpenAI has announced the new Responses API, the Agents SDK, and observability tools to address the challenges that creating production-ready agents pose, such as building custom orchestration, and handling prompt iteration across complex, multi-step tasks.
+#hashtags: #인공지능 #OpenAI #대리자_개발 #생산성_준비
+
+11 번째 검색 내용
+제목: 구글 보고서는 현재 위협 행동자가 생성형 AI를 어떻게 사용하고 있는지 드러낸다.
+주소: https://www.infoq.com/news/2025/03/misuse-generative-ai/
+설명: AI : 인공지능은 세계를 변화시키고 있습니다. 이것은 의료, 금융, 교통과 같은 다양한 분야에 응용되고 있습니다.
+#인공지능 #의료 #금융 #교통
+
+12 번째 검색 내용
+제목: DevProxy 0.25 개선된 구성 관리, .NET Foundation에 가입합니다.
+주소: https://www.infoq.com/news/2025/03/devproxy-025-net-foundation/
+설명: Microsoft는 DevProxy, API 시뮬레이션 명령줄 도구의 0.25 버전을 발표했습니다. 새로운 버전은 도구의 구성 관리를 향상시키고 몇 가지 사용성 기능을 추가합니다. 프로젝트는 .NET Foundation, .NET 플랫폼 생태계를 지원하는 비영리 단체에 추가되었습니다.
+#DevProxy #API #.NETFoundation
+
+13 번째 검색 내용
+제목: 구글 클라우드의 AI 보호: AI 자산을 보호하기 위한 솔루션
+
+(Note: The translation may not be perfect as it is a direct translation from English to Korean. It would be better if a native Korean speaker checks and adjusts the translation for proper grammar and sentence structure.)
+주소: https://www.infoq.com/news/2025/03/gcp-ai-protection-security/
+설명: Google Cloud는 생성형 AI 위협에 대응하기 위한 AI Protection을 소개합니다. AI 위험을 관리하기 위해 취약점 평가, 보안 정책, 활발한 위협 관리를 통해 자산 보호가 강화됩니다. Google의 Security Command Center와 통합되면 IT 포스트와 고급 보안 지능을 중심으로 강력한 AI 시스템 방어 시점이 제공됩니다.
+#인공지능 #보안 #GoogleCloud
+
+Hashtags: #AIProtection, #SecurityCommandCenter, #GenerativeAIThreats
+
+14 번째 검색 내용
+제목: 마이크로소프트가 .NET 개발을 위한 AI 대화 웹 앱 템플릿 출시
+
+(Microsoft Launches New AI Chat Web App Template for .NET Development)
+주소: https://www.infoq.com/news/2025/03/microsoft-dotnet-ai-template/
+설명: Microsoft는 지난 주에 AI 대화형 웹앱 템플릿을 새로 발표했습니다. 이 템플릿은 .NET으로 AI 개발을 간소화하기 위해 미리 보기로 제공되며, Microsoft의 AI 접근성을 향상시키는 연구에 속합니다. Visual Studio, Visual Studio Code, 및 .NET CLI에서 스캐폴딩과 가이드를 제공합니다.
+#인공지능 #Microsoft #.NET #AI_개발
+
+#hashtags: #인공지능 #Microsoft #.NET #AI_개발
+
+15 번째 검색 내용
+제목: 작업을 통해 프로그래밍 규칙과 지침에서의 경험을 배운 것들
+[INST] Translate the sentence into Korean:
+
+                            Learnings from Working with Programming Rules and Guidelines
+                         [/INST]
+주소: https://www.infoq.com/news/2025/03/learnings-programming-rules/
+설명: 프로그래밍 규칙과 지침이 코드 일관성을 개선하지만, 잘못된 적용은 부족한 결과를 초래할 수 있습니다. Arne Mertz는 소프트웨어 개발자들이 규칙과 지침을 선택적으로 적용하고, 차이점을 명확한 설명으로 기록합니다. 그들은 경험을 공동체에서 나누거나 일상 작업 중에 협력을 장려하고 코드 품질을 개선하지 않는 불필요한 관리를 피할 수 있도록 합니다.
+#프로그래밍규칙 #소프트웨어개발자 #협력 #코드품질
+#코드일관성 #부족한결과
+#불필요한관리피하기
+
+Hashtags: #프로그래밍규칙, #소프트웨어개발자, #협력, #코드일관성, #부족한결과, #불필요한관리피하기
+
