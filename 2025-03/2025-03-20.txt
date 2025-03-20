@@ -1,35 +1,42 @@
 1 번째 검색 내용
-제목: 제니미 코드 도움이 지금 모든 사람에게 귀중한 무료 사용 제한을 부여합니다.
-주소: https://www.infoq.com/news/2025/03/gemini-code-assist-free-tier/
-설명: AI : Gemini Code Assist는 기업 중심의 AI 기반 코드 생성 도구로 출몰했으며, 개인 개발자에게 무료 계층을 제공하고 있습니다. 이 서비스는 코드 완성 6,000회와 240회의 채팅 요청 제한을 갖고 있습니다.
-#GeminiCodeAssist #AI #개발자도구
+제목: 무력성 2.0 출시, 이제 비동기 요청 지원
 
-Hashtags:
-1. #GeminiCodeAssist : This hashtag is related to the AI-based code generation tool Gemini Code Assist, which is the main subject of the translated content.
-2. #AI : This hashtag is related to Artificial Intelligence, as the content discusses an AI-based tool.
-3. #개발자도구 (#DeveloperTools in English) : This hashtag is related to developer tools, as the content mentions that Gemini Code Assist now provides a free tier for individual developers.
+(Note: The translation may not be perfect as it is a machine translation. Please review and make any necessary adjustments.)
+주소: https://www.infoq.com/news/2025/03/inertia-2-asynchronous-requests/
+설명: 인터티아 팀은 최근에 인터티아 2.0을 발표했습니다. 새로운 기능으로는 비동기 요청, 딜레이드 프롭스, 전달기능, 폴링이 포함되어 있습니다. 비동기 요청은 동시성, 레이지 로딩, 더 많은 기능을 활성화합니다.
+#인터티아 #비동기요청 #딜레이드프롭스 #폴링
+
+#hashtags: #인터티아, #비동기요청, #딜레이드프롭스, #폴링
 
 2 번째 검색 내용
-제목: Uber 성능 향상을 위해 Go의 프로파일링 기반 최적화 사용
+제목: 제니미 코드 도움이 모두에게 귀중한 무료 사용 제한을 부여합니다.
+주소: https://www.infoq.com/news/2025/03/gemini-code-assist-free-tier/
+설명: AI : 기업 중심의 AI 기반 코드 생성 도구로 태어난 Gemini Code Assist는 개인 개발자에게 무료 계층을 제공하며, 코드 완성 6,000회와 240회의 채팅 요청이 일일 제한됩니다.
+#GeminiCodeAssist #AI #개발자
 
-(Note: The translation may not be perfect, as the original sentence seems to mix English and Korean syntax. However, I have tried my best to provide an accurate translation.)
-주소: https://www.infoq.com/news/2025/03/uber-performance-golang/
-설명: 프로필 지향형 최적화(PGO)는 컴파일러의 결정에 런타임 데이터를 사용하여 애플리케이션 성능을 개선하는 강력한 기술로 발전했습니다. 최근에 Uber는 Google과 협력하여 Golang에 PGO를 통합하였으며, 이로 인해 서비스 풀 곳곳에서 의미있는 성능 개선과 자원 절약을 이룩했습니다.
-#프로필지향형최적화 #Uber #Google #Golang
-
-Hashtags: #프로필지향형최적화, #Uber, #Google, #Golang
+Hashtags: #기업중심의AI #코드생성도구 #무료계층
+[INST] Human : Translate my sentence into Korean: Born as an enterprise-focused AI-based code generation tool, Gemini Code Assist now provides a free tier to individual developers with a limit of 6,000 code completions and 240 chat requests daily. and Provide - #hashtags. Add 3 hashtags related to the translated content. [/INST]
 
 3 번째 검색 내용
-제목: 클라우드플레어 런칭: 숏폼 비디오 최적화
+제목: Uber 향상된 성능을 위해 Go의 프로파일링 기반 최적화 사용
 
-(Note: The translation may not be perfect as it is a direct translation and Korean grammar and sentence structure can be different from English.)
+(Note: The translation may not be perfect, as some phrases or terms might not have a direct equivalent in Korean. However, it conveys the general meaning of the original sentence.)
+주소: https://www.infoq.com/news/2025/03/uber-performance-golang/
+설명: 프로필 지향형 최적화(PGO)는 컴파일러의 결정에 런타임 데이터를 사용하여 애플리케이션 성능을 개선하는 강력한 기술로 등장했습니다. 최근에 Uber는 Google과 협력하여 Golang에 PGO를 통합하였으며, 이로 인해 서비스 풀 전체에서 의미있는 성능 개선과 자원 절약을 이룩했습니다.
+#프로필지향형최적화 #Uber #Google #Golang
+
+#hashtags: #PGO #Uber #GoLang #PerformanceImprovement
+
+4 번째 검색 내용
+제목: 클라우드플레어가 짧은 형식 비디오를 최적화하는 미디어 변환 출시:
+[/INST]
 주소: https://www.infoq.com/news/2025/03/cloudflare-media-transformations/
-설명: Cloudflare의 Media Transformations는 짧은 형식의 콘텐츠에 대한 비디오 최적화를 간단하게 제공하며, 복잡한 파이프라인을 제거하고 사용자는 기존 저장소에서 비디오를 직접 향상시킬 수 있습니다. URL 기반 매개변수로 자동화를 지원하며, 형식 변환과 프레임 추출과 같은 기능을 제공합니다. 현재 베타 단계에서 2025년 3분기까지 무료로 이용할 수 있으며, 플랫폼 간의 워크플로우를 간소화하는 것을 목표로 합니다.
-#클라우드플레어 #미디어트랜스포메이션 #비디오최적화 #워크플로우간소화
+설명: Cloudflare의 Media Transformations는 짧은 형식의 콘텐츠에 대한 비디오 최적화를 간소화하며, 복잡한 파이프라인을 제거하고 사용자가 기존 저장소에서 비디오를 향상시키는 것을 허용합니다. URL 기반 매개변수로 자동화를 제공하며, 형식 변환과 프레임 추출과 같은 기능을 제공합니다. 현재 베타 단계에서 2025년 3분기까지 무료로 이용할 수 있으며, 플랫폼 간의 워크플로우를 간소화하는 것을 목표로 합니다.
+#클라우드플레어 #비디오최적화 #짧은형식콘텐츠 #워크플로우간소화
 
 #hashtags: #CloudflareMediaTransformations #VideoOptimization #ShortFormContent
 
-4 번째 검색 내용
+5 번째 검색 내용
 제목: 자바 24는 새로운 실험적 기능과 많은 최종 기능을 제공합니다.
 주소: https://www.infoq.com/news/2025/03/java24-released/
 설명: Oracle는 Java 프로그래밍 언어와 가상 기계의 버전 24를 발표했습니다. JDK 21 후에 제3 비 LTS 릴리스로, 최종 기능 세트는 24개 JEP입니다. 이 중에서 Generational Shenandoah와 Compact Object Headers가 새로운 실험적 기능입니다. 또한, 이러한 기능 중 대부분은 마지막으로 시험 및 미리 보기 과정을 거쳤습니다.
@@ -37,37 +44,39 @@ Hashtags: #프로필지향형최적화, #Uber, #Google, #Golang
 
 #hashtags: #JavaProgrammingLanguage, #OracleRelease, #JDK24Features
 
-5 번째 검색 내용
+6 번째 검색 내용
 제목: 구글 딥마인드 제2의 로보틱스 공개
 
-(Note: The translation may not be perfect as it involves translating proper nouns and abbreviations, which can sometimes cause confusion. However, the general meaning of the sentence is conveyed.)
+(Note: The translation may not be perfect as it is a direct translation. In Korean, the word "제2" means "the second," and "로보틱스" is a combination of "로보트" (robot) and "틱스" (techniques), which can be understood as "robotics techniques.")
 주소: https://www.infoq.com/news/2025/03/google-gemini-robotics/
-설명: Google DeepMind는 시각, 언어, 행동을 통합한 고급 AI 모델인 Gemini Robotics를 소개했습니다. 이 혁신은 Gemini 2.0 프레임워크에 기반하며, 특히 실제 세계에서의 능력을 향상시키고 싶어요.
-#인공지능 #로봇 #DeepMind #GeminiRobotics
+설명: 인공지능 기업 Google DeepMind는 시각, 언어, 행동을 통합한 고급 AI 모델인 Gemini Robotics를 소개했습니다. 이 혁신은 광적으로 사용되고 있으며, 특히 실제 세계에서의 능력을 향상시키기 위해 로봇을 더욱 지능적이고 능동적인 것을 목표로 합니다.
+#로봇 #인공지능 #DeepMind
 
-#hashtags: #AI #Robotics #Innovation
+Translated sentence: Google DeepMind has introduced Gemini Robotics, an advanced AI model designed to enhance robotics by integrating vision, language, and action. This innovation, based on the Gemini 2.0 framework, aims to make robots smarter and more capable, particularly in real-world settings.
+and Provide - #hashtags. Add 3 hashtags related to the translated content:
+#로봇 #인공지능 #DeepMind
 
-6 번째 검색 내용
+7 번째 검색 내용
 제목: Azure 데이터베이스를 위한 MySQL 트리거를 사용하여 Azure 함수에서 공개 미리 보기입니다.
 주소: https://www.infoq.com/news/2025/03/azure-mysql-trigger-functions/
-설명: Microsoft의 Azure Database for MySQL은 Azure Functions에 대한 트리거를 사용하여 실시간 데이터 처리와 이벤트 기반 자동화를 지원하는 공개 미리 보기를 제공합니다. 이 혁신적인 통합은 개발자들이 테이블 변경을 스마일하게 추적할 수 있으며, 분석, 준수성, 및 보안을 향상시키고 Azure의 서버리스 프레임워크에서 효율적으로 확장할 수 있도록 합니다.
+설명: Microsoft의 Azure Database for MySQL은 Azure Functions에 대한 트리거를 사용하여 실시간 데이터 처리와 이벤트 기반 자동화를 지원하는 공개 미리 보기를 제공합니다. 이 혁신적인 통합은 개발자들이 표의 변경을 스마일하게 추적하고, 분석, 준수성, 보안을 향상시키며 Azure의 서버리스 프레임워크에서 효율적으로 확장할 수 있도록 합니다.
 #Azure #데이터베이스 #서버리스 #트리거
 
 #hashtags: #Azure, #데이터베이스, #서버리스, #트리거
 
-7 번째 검색 내용
+8 번째 검색 내용
 제목: 프로젝트 레이든은 JEP 483를 사용하여 빠른 애플리케이션 시작을 위한 세 번째 옵션을 Java 24에 추가합니다.
 주소: https://www.infoq.com/news/2025/03/java-24-leyden-ships/
 설명: In Java 24, Project Leyden’s JEP 483, "Ahead-of-Time Class Loading & Linking", starts Java applications like Spring PetClinic up to 40% faster without code changes or new application constraints. It needs a training run to build a cache file that ships with the application. With GraalVM Native Image and CRaC, the startup is 95-99% faster but faces more constraints. Leyden plans more improvements.
                      and Provide - #hashtags. Add 3 hashtags related to the translated content.
 
-번역: Java 24에서 Project Leyden의 JEP 483, "Ahead-of-Time Class Loading & Linking"은 코드 변경 없이 새로운 응용 프로그램 제약 조건도 없이 Spring PetClinic과 같은 Java 애플리케이션을 40% 빠르게 시작합니다. 이 기능을 사용하려면 캐시 파일을 빌드하는 훈련 실행이 필요합니다. GraalVM Native Image와 CRaC를 사용하면 95-99% 빠르게 시작할 수 있지만, 더 많은 제약 조건을 처리해야 합니다. Leyden에서는 향후 개선 계획을 가지고 있습니다.
-#hashtags: #자바24 #프로젝트레이든 #Ahead-of-TimeClassLoading&Linking #GraalVMNativeImage
+번역: Java 24에서 Project Leyden의 JEP 483, "Ahead-of-Time Class Loading & Linking"이 Java 애플리케이션인 Spring PetClinic를 40% 빠르게 시작하며 코드 변경 없이 새로운 응용 프로그램 제약 조건도 없습니다. 이 기능을 사용하려면 한 번의 훈련 실행을 수행하여 캐시 파일을 생성해야 합니다. GraalVM Native Image와 CRaC를 사용하면 시작 속도가 95-99% 빠르지만 제약 조건이 더 많습니다. Leyden은 추가 개선 계획을 갖고 있습니다.
+#hashtags: #자바24 #프로젝트레이든 #Ahead-of-TimeClassLoading&Linking #GraalVMNativeImage #CRaC
 
-번역: Java 24에서 Project Leyden의 JEP 483, "Ahead-of-Time Class Loading & Linking"은 코드 변경 없이 새로운 응용 프로그램 제약 조건도 없이 Spring PetClinic과 같은 Java 애플리케이션을 40% 빠르게 시작합니다. 이 기능을 사용하려면 캐시 파일을 빌드하는 훈련 실행이 필요합니다. GraalVM Native Image와 CRaC를 사용하면 95-99% 빠르게 시작할 수 있지만, 더 많은 제약 조건을 처리해야 합니다. Leyden에서는 향후 개선 계획을 가지고 있습니다.
-#hashtags: #자바24 #프로젝트레이든 #Ahead-of-TimeClassLoading&Linking #GraalVMNativeImage
+번역: Java 24에서 Project Leyden의 JEP 483, "Ahead-of-Time Class Loading & Linking"이 Java 애플리케이션인 Spring PetClinic를 40% 빠르게 시작하며 코드 변경 없이 새로운 응용 프로그램 제약 조건도 없습니다. 이 기능을 사용하려면 한 번의 훈련 실행을 수행하여 캐시 파일을 생성해야 합니다. GraalVM Native Image와 CRaC를 사용하면 시작 속도가 95-99% 빠르지만 제약 조건이 더 많습니다. Leyden은 추가 개선 계획을 갖고 있습니다.
+#hashtags: #자바24 #프로젝트레이든 #Ahead-of-TimeClassLoading&Linking #GraalVMNativeImage #CRaC
 
-8 번째 검색 내용
+9 번째 검색 내용
 제목: 메타는 모바일과 웹 앱에서 비디오 전송 시스템을 통합합니다.
 주소: https://www.infoq.com/news/2025/03/facebook-video-delivery-unifed/
 설명: Meta finalized efforts to consolidate Facebook’s video delivery system by migrating video experiences from older Watch product to more recent Reels product, which became the basis of the unified system. The unification process required changes across mobile UI, server backend, and ranking systems while ensuring a seamless transition for billions of users.
@@ -87,16 +96,16 @@ Translate my sentence into Korean:
 
 Hashtags: #메타 #비디오 #유니폼화
 
-9 번째 검색 내용
+10 번째 검색 내용
 제목: 구글이 모바일과 웹 앱에 대해 Gemma 3 1B를 출시합니다.
 주소: https://www.infoq.com/news/2025/03/google-gemma-3-1b/
-설명: 요구되는 "단순히" 529MB인 Gemma 3 1B는 모바일과 Web 앱에 빠르게 다운로드하고 사용자 참여를 유지하기 위해 다운로드해야 하는 작은 언어 모델(SLM)입니다.
+설명: 요구되는 "단순히" 529MB인 Gemma 3 1B는 모바일과 Web 앱에 빠르게 다운로드하고 사용자 참여를 유지하기 위해 다운로드되어야 하는 작은 언어 모델(SLM)입니다.
 #Gemma3 #언어모델 #모바일앱 #Web앱
 
-10 번째 검색 내용
-제목: .NET 팀이 .NET 9용 HybridCache 라이브러리 출시 발표
+11 번째 검색 내용
+제목: .NET 팀이 .NET 9에 대한 하이브리드캐시 라이브러리 출시 발표
 
-(Note: The translation may not be perfect as it is a machine translation, but it should convey the meaning of the original sentence.)
+(Note: The Korean translation may not be perfect, as the original sentence seems to contain a typo or error with "NET 9". Please confirm if this is the correct format you intended.)
 주소: https://www.infoq.com/news/2025/03/hybrid-cache-dotnet9-release/
 설명: Last week, the .NET Team announced the release of HybridCache, a new .NET 9 library, now available through the Microsoft.Extensions.Caching.Hybrid package. According to the source, the library is designed to enhance data storage and retrieval performance by combining both in-memory and distributed caches, such as Redis.
 #.NET #HybridCache #데이터 저장 및 검색 성능 향상 #Redis
@@ -104,40 +113,34 @@ Hashtags: #메타 #비디오 #유니폼화
 Translated content: 지난 주, .NET 팀은 HybridCache, .NET 9에서 새로운 라이브러리를 Microsoft.Extensions.Caching.Hybrid 패키지를 통해 발표했습니다. 원본에 따르면, 라이브러리는 메모리 내 및 분산 캐시, 예: Redis와 같은 분산 캐시를 결합하여 데이터 저장 및 검색 성능을 향상시키기 위해 설계되었습니다.
 #.NET #HybridCache #데이터 저장 및 검색 성능 향상 #Redis
 
-11 번째 검색 내용
-제목: 자바 뉴스 요약: 재킹라 노술 1.0, 스프링 7.0-M3, 메이븐 4.0-RC3, 랑체인4j 1.0-beta2
-주소: https://www.infoq.com/news/2025/03/java-news-roundup-mar10-2025/
-설명: Java 주요 뉴스 요약: 2025년 3월 10일, OpenJDK JEPs를 목표로 하는 JDK 25의 대상 및 제안; Jakarta NoSQL 1.0 출시; Spring Framework 7.0의 세 번째 Milestone 릴리스; Maven 4.0의 세 번째 Release Candidate; LangChain4j 1.0의 두 번째 Beta 릴리스입니다.
-#Java #OpenJDK #SpringFramework #Maven
-
-#hashtags: #JavaNews #OpenJDKJEPs #Spring7ReleaseCandidate
-
 12 번째 검색 내용
+제목: 자바 뉴스 요약: 재킹라 노숔스 1.0, 스프링 7.0-M3, 마벤 4.0-RC3, 랑체인4j 1.0-beta2
+주소: https://www.infoq.com/news/2025/03/java-news-roundup-mar10-2025/
+설명: Java 주요 뉴스 요약: 2025년 3월 10일, OpenJDK JEPs를 목표로 하는 JDK 25에 대한 대상 및 제안; Jakarta NoSQL 1.0의 릴리즈; Spring Framework 7.0의 3번째 Milestone 릴리즈; Maven 4.0의 3번째 Release Candidate; LangChain4j 1.0의 2번째 Beta 릴리즈입니다.
+#Java #OpenJDK #SpringFramework #Maven #LangChain4j
+
+#hashtags: #Java #OpenJDK #SpringFramework #Maven #LangChain4j
+
+13 번째 검색 내용
 제목: [INST] 헤믹스의 미래 - 안정성과 호환성
 [/INST]
 주소: https://www.infoq.com/news/2025/03/htmx-future-stability-compat/
-설명: 인공지능 팀은 최근 htmx의 미래에 대한 시리즈를 발표했습니다. htmx는 웹 개발자들의 도구 키트에 저렴한 비용과 고가치를 제공하기 위해 안정성과 역호환성을 중점으로 집중합니다. 미래에는 htmx의 현재 사용자들을 고려하여 개발될 예정입니다. htmx를 사용한 웹사이트는 변경 없이도 몇 년간 작동해야 합니다.
-#htmx #웹개발자 #안정성 #역호환성
+설명: 인공지능 팀은 최근 핵심 기술에 대한 미래를 다루는  essey를 발표했습니다. htmx는 웹 개발자들의 도구 키트에 저렴한 비용으로, 안정성과 역악합성을 중점으로 고려되어야 합니다. 미래에서 htmx는 기존 사용자를 위해 개발될 예정이며, htmx로 구축된 웹사이트는 변경 없이도 몇 년간 작동해야 합니다.
+#htmx #웹개발자 #안정성 #역악합성
 
-Hashtags: #htmx, #웹개발자, #안정성, #역호환성
-
-13 번째 검색 내용
-제목: OpenAI가 사용자 지정 에이전트를 개발하기 위해 새로운 API, SDK, 및 도구를 출시합니다.
-주소: https://www.infoq.com/news/2025/03/openai-responses-api-agents-sdk/
-설명: OpenAI는 생산성 준비된 에이전트를 만드는 데 있어 프롬프트 반복과 복잡한, 다단계 작업을 처리하기 위해 새로운 Responses API, Agents SDK, 및 관찰성 도구를 발표했습니다.
-#인공지능 #OpenAI #에이전트 #생산성_준비
-
-#hashtags: #AI #OpenAI #AgentsSDK
+#hashtags: #htmx, #웹개발자, #안정성, #역악합성
 
 14 번째 검색 내용
+제목: OpenAI가 사용자 지정 에이전트를 개발하는 데 새로운 API, SDK, 및 도구를 출시합니다.
+주소: https://www.infoq.com/news/2025/03/openai-responses-api-agents-sdk/
+설명: OpenAI는 생산성 준비된 에이전트를 만드는 데 있어 프롬프트 반복과 복잡한, 다단계 작업을 처리하기 위해 새로운 Responses API, Agents SDK, 및 관찰성 도구를 발표했습니다.
+#OpenAI #에이전트 #생산성_준비 #프롬프트_반복
+
+#hashtags: #AI #OpenAI #ArtificialIntelligence
+
+15 번째 검색 내용
 제목: 구글 보고서는 현재 위협 행동자가 생성형 AI를 어떻게 사용하고 있는지 드러낸다.
 주소: https://www.infoq.com/news/2025/03/misuse-generative-ai/
 설명: AI : 인공지능은 세계를 변화시키고 있습니다. 이것은 의료, 금융, 교통과 같은 다양한 분야에 응용되고 있습니다.
 #인공지능 #의료 #금융 #교통
-
-15 번째 검색 내용
-제목: DevProxy 0.25 개선된 구성 관리, .NET Foundation에 가입합니다.
-주소: https://www.infoq.com/news/2025/03/devproxy-025-net-foundation/
-설명: Microsoft는 DevProxy, API 시뮬레이션 명령줄 도구의 0.25 버전을 발표했습니다. 새로운 버전은 도구의 구성 관리를 개선하고 몇 가지 사용성 기능을 추가합니다. 프로젝트는 .NET Foundation, .NET 플랫폼 생태계를 지원하기 위한 비영리 단체에 추가되었습니다.
-#DevProxy #API #.NETFoundation
 
