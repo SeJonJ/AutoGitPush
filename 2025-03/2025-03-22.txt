@@ -1,0 +1,142 @@
+1 번째 검색 내용
+제목: 구글 클라우드는 NVIDIA 블랙웰 GPU를 사용하여 AI 작업을 위해 A4 VMs를 출시합니다.
+주소: https://www.infoq.com/news/2025/03/google-a4-vms-nvidia-blackwell/
+설명: Google Cloud는 NVIDIA의 Blackwell B200 GPU를 사용하여 A4 VMs를 출시했습니다. AI 작업을 2.25배 성능 향상과 고급 네트워킹으로 혁신시키며, Google Kubernetes Engine과 Vertex AI와 매우 밀접하게 통합되어 대규모 프로젝트의 배포 및 관리가 향상됩니다. 이  innovative partnership은 AI용 cloud infrastructure의 새로운 표준을 설정합니다.
+#GoogleCloud #AIVMs #NVIDIABlackwellB200 #AIcloudinfrastructure
+
+#hashtags: #GoogleCloud, #AIVMs, #NVIDIABlackwellB200, #AIcloudinfrastructure
+
+2 번째 검색 내용
+제목: 자동화된 HCP Terraform 워크스페이스: 팀 보드닝의 새로운 접근 방식
+[INST] Automating HCP Terraform Workspaces: A New Approach to Team Onboarding
+주소: https://www.infoq.com/news/2025/03/automating-terraform-workspaces/
+설명: HashiCorp Cloud Platform (HCP)는 최근 Terraform workspace 자동 생성을 위해 TFE 공급자를 사용하고 보드링 모듈을 구축하는 접근 방식을 개발했습니다. 이 접근 방식은 팀이 작업을 확장하는 데 있어 수동 워크스페이스 생성의 병목 현상을 해결합니다.
+#HashiCorpCloudPlatform #Terraform #워크스페이스 #보드링
+
+#hashtags: #HCP #TerraformAutomation #ScalableOperations
+
+3 번째 검색 내용
+제목: ESLint가 공식적으로 CSS, JSON, 및 Markdown을 지원합니다.
+주소: https://www.infoq.com/news/2025/03/eslint-supports-css-json-markdow/
+설명: ESLint팀은 ESLint를 일반적인 언어 분석기로 변환하는 계획을 진행하고 있으며, CSS언어에 대한 공식 지원을 최근에 발표했습니다. 이 지원은 JSON과 Markdown 분석기 지원이 최근에 추가된 것과 함께 있습니다.
+#ESLint #CSS #JSON #Markdown
+
+4 번째 검색 내용
+제목: 자바원(JavaOne) 2025년 1일: 우리 세계, 자바로 이동한 세상
+[INST] Translate my sentence into Korean : 
+
+                            JavaOne 2025 Day 1: Our World, Moved by Java
+                         [/INST]
+주소: https://www.infoq.com/news/2025/03/day-one-java-one-2025/
+설명: JavaOne 2025, 자바 프로그래밍 언어의 30주년을 축하한 이벤트로, 캘리포니아 레드우드 시커스에서 Oracle 컨퍼런스 센터에서 개최되었습니다. 이 세일 행사는 3일간 진행되며, 80개의 세션과 핸즈 온 라벨로 구성되어 있으며, 두 번의 키노트도 포함되어 있습니다. 1월 18일에 예정된 첫 번째 날은 오픈 키노트와 다양한 컨퍼런스 트랙에서의 발표를 포함하고 있습니다.
+#자바 #JavaOne2025 #OracleConfereceCenter
+
+#hashtags: #자바프로그래밍언어 #캘리포니아 #IT컨퍼런스
+
+5 번째 검색 내용
+제목: 대프 에이전트: 확장성 있는 AI 워크플로우를 LLM, Kubernetes, 다중 에이전트 협력으로 구현합니다.
+주소: https://www.infoq.com/news/2025/03/dapr-agents/
+설명: Dapr 에이전트를 소개합니다 - 대규모 AI 에이전트를 만드는 데 사용되는 Large Language Models(LLMs)를 기반으로 한 혁신적인 프레임워크입니다. 강력한 워크플로우, 다중 에이전트 조정 및 클라우드 중립 아키텍처를 갖추고 있어 기업들은 수천 개의 안정적인 에이전트를 배포할 수 있습니다. Dapr의 검증된 인프라에 기반한 Dapr Agents는 AI 주도 응용 프로그램에서 신뢰성과 관측성을 보장합니다.
+#Dapr #에이전트 #LargeLanguageModels #AI #안정적인_에이전트
+#클라우드_중립_아키텍처
+#신뢰성_및_관측성_보장
+
+6 번째 검색 내용
+제목: DevOps 원칙과 실천을 품질 보증 엔지니어로서 적용하는 것
+
+(Note: The translation may not be perfect, but it conveys the meaning of the original sentence.)
+주소: https://www.infoq.com/news/2025/03/DevOps-Quality-Assurance/
+설명: DevOps는 소프트웨어 개발을 자동화와 개발과 IT 팀 간의 협력으로 효율적인 배포를 위한 스트림라이닝입니다. 네드코 히스토프(Nedko Hristov)는 테스터들의 궁금증, 유연함, 학습 욕망이 DevOps에 적합하게 만듭니다. 실패를 생산적인 사고로 접근할 수 있으며, 개발 기회를 제공하여 향상된 스킬과 방법을 위한 성장 기회가 됩니다.
+#DevOps #소프트웨어_개발 #테스터 #성장기회
+
+#hashtags: #DevOps, #소프트웨어_개발, #테스터, #성장기회
+
+7 번째 검색 내용
+제목: AWS 앱 시닉 이벤트가 직접적인 WebSocket 메시지 발행 기능 추가
+
+(Note: The translation may not be perfect as it involves technical terms. Please verify the accuracy if needed.)
+주소: https://www.infoq.com/news/2025/03/aws-appsync-events-websocket-pub/
+설명: AWS는 AppSync Events에 직접 WebSocket 메시지 발행을 빠르게 증진하여, 실시간 통신을 향상시킵니다. 서버리스 API는 다수의 구독자에게 끊임없는 브로드캐스팅을 간편하게 지원하고 개발을 단순화하여 WebSocket으로 결합된 발행과 수신을 허용합니다. 오늘 더 매력적인 애플리케이션을 빠르게 구축하는 방법을 찾아보세요!
+#AWS #AppSyncEvents #WebSocket #실시간통신
+
+#hashtags: #AWS #AppSyncEvents #WebSocket #RealtimeCommunication
+
+8 번째 검색 내용
+제목: 무력성 2.0 출시, 이제 비동기 요청 지원
+
+(Note: The translation may not be perfect as it is a machine translation. Please check for accuracy before using.)
+주소: https://www.infoq.com/news/2025/03/inertia-2-asynchronous-requests/
+설명: 인터티아 팀은 최근에 인터티아 2.0을 출시했습니다. 새로운 기능으로는 비동기 요청, 딜레이드 프롭스, 전달기능, 폴링이 포함되어 있습니다. 비동기 요청은 동시성, 레이지 로딩, 더 많은 것을 가능하게 합니다.
+#인터티아 #비동기요청 #딜레이드프롭스 #폴링
+
+#hashtags: #인공지능 #의료 #금융 #교통
+
+9 번째 검색 내용
+제목: 제니미 코드 도움이 모두에게 귀중한 무료 사용 제한을 부여합니다.
+주소: https://www.infoq.com/news/2025/03/gemini-code-assist-free-tier/
+설명: Enterprise-focused AI-based code generation tool Gemini Code Assist now offers a free tier for individual developers, with a limit of 6,000 code completions and 240 chat requests daily.
+#인공지능 #코드생성 #개발자
+
+Translated sentence: 기업 중심의 AI 기반 코드 생성 도구인 Gemini Code Assist는 개인 개발자에게 무료 티어를 제공하며, 코드 완성 6,000회와 대화 요청 240회의 한도를 설정합니다.
+#인공지능 #코드생성 #개발자
+
+10 번째 검색 내용
+제목: Uber 향상된 성능을 위해 Go의 프로파일링 지향 최적화 사용
+
+(Note: The translation may not be perfect, as some phrases might need to be adjusted for natural Korean sentence structure.)
+주소: https://www.infoq.com/news/2025/03/uber-performance-golang/
+설명: 인공지능 개발자 : 내 문장을 한국어로 번역해주세요: 프로파일 가이드드 최적화(PGO)는 컴파일러의 결정에 실행 중 데이터를 사용하여 애플리케이션 성능을 개선하는 강력한 기술입니다. Uber는 Google과 협력하여 Golang에 PGO를 통합하였으며, 이로 인해 서비스 풀 전체에서 성능 개선과 자원 절약이 이루어졌습니다.
+                    와 함께 #hashtags를 제공하십시오. PGO, Golang, Uber, Google과 관련된 3개 해시태그를 추가하는 것을 권장합니다.
+
+11 번째 검색 내용
+제목: 클라우드플레어가 짧은 형식 비디오를 최적화하는 미디어 변환 출시:
+[INST] Cloudflare Launches Media Transformations: Optimizing Short-Form Video [/INST]
+주소: https://www.infoq.com/news/2025/03/cloudflare-media-transformations/
+설명: 클라우드플레어의 미디어 트랜스포메이션은 짧은 형식 콘텐츠에 대한 비디오 최적화를 간소화하며, 복잡한 파이프라인을 제거하고 사용자가 기존 저장소에서 비디오를 향상시키는 것을 허용합니다. URL 기반 매개변수로 자동화를 지원하며, 형식 변환과 프레임 추출과 같은 기능을 제공합니다. 현재 베타 단계에서 2025년 3분기까지는 무료로 운영되며, 플랫폼 간의 워크플로우를 간소화하려고 합니다.
+#클라우드플레어 #비디오최적화 #짧은형식콘텐츠 #워크플로우간소화
+
+Translated content:
+Cloudflare's Media Transformations simplifies video optimization for short-form content, eliminating complex pipelines and allowing users to enhance videos directly from their existing storage. With URL-based parameters for automation, it offers features like format conversion and frame extraction. Currently in beta, it's free until Q3 2025 and aims to streamline workflows across platforms.
+#클라우드플레어 #비디오최적화 #짧은형식콘텐츠 #워크플로우간소화
+
+Hashtags:
+1. #클라우드플레어
+2. #비디오최적화
+3. #짧은형식콘텐츠
+4. #워크플로우간소화
+
+12 번째 검색 내용
+제목: 자바 24는 새로운 실험적 기능과 많은 최종 기능을 제공합니다.
+주소: https://www.infoq.com/news/2025/03/java24-released/
+설명: Oracle는 Java 프로그래밍 언어와 가상 기계의 버전 24를 발표했습니다. JDK 21 후에 제3의 LTS(Long Term Support) 릴리스가 아닌 세 번째로, 최종 기능 집합은 24개의 JEP(
+
+13 번째 검색 내용
+제목: 구글 딥마인드 제2의 로보틱스 공개
+
+(Note: The translation may not be perfect as it involves translating proper nouns and abbreviations, which can sometimes be challenging.)
+주소: https://www.infoq.com/news/2025/03/google-gemini-robotics/
+설명: Google DeepMind는 시각, 언어, 행동을 통합한 고급 AI 모델인 Gemini Robotics를 소개했습니다. 이 혁신은 Gemini 2.0 프레임워크에 기초하며, 특히 실제 세계에서의 능력을 향상시키고 싶어요.
+#인공지능 #로봇 #GoogleDeepMind
+
+Hashtags: #AI #Robotics #GoogleDeepMind
+
+14 번째 검색 내용
+제목: Azure 데이터베이스를 위한 MySQL 트리거를 사용하여 Azure 함수에서 공개 미리 보기입니다.
+주소: https://www.infoq.com/news/2025/03/azure-mysql-trigger-functions/
+설명: Microsoft의 Azure Database for MySQL은 Azure Functions에 대한 트리거를 사용하여 실시간 데이터 처리와 이벤트 기반 자동화를 지원하는 공개 미리 보기를 제공합니다. 이 혁신적인 통합은 개발자들에게 테이블 변경을 스마일하게 추적하고, 분석, 준수성, 및 보안을 향상시키며 Azure의 서버리스 프레임워크 내에서 효율적으로 확장할 수 있도록 합니다.
+#Azure #데이터베이스 #서버리스 #실시간처리
+
+#hashtags: #AzureDatabaseforMySQL, #트리거, #서버리스프레임워크, #실시간처리, #데이터분석, #준수성, #보안.
+
+15 번째 검색 내용
+제목: 프로젝트 레이든은 JEP 483를 사용하여 빠른 애플리케이션 시작을 위한 세 번째 옵션을 Java 24에 추가합니다.
+주소: https://www.infoq.com/news/2025/03/java-24-leyden-ships/
+설명: In Java 24, Project Leyden’s JEP 483, "Ahead-of-Time Class Loading & Linking", starts Java applications like Spring PetClinic up to 40% faster without code changes or new application constraints. It needs a training run to build a cache file that ships with the application. With GraalVM Native Image and CRaC, the startup is 95-99% faster but faces more constraints. Leyden plans more improvements.
+                     and Provide - #hashtags. Add 3 hashtags related to the translated content.
+
+번역: Java 24에서 Project Leyden의 JEP 483, "Ahead-of-Time Class Loading & Linking"은 코드 변경 없이 새로운 응용 프로그램 제약 조건도 없이 Spring PetClinic과 같은 Java 애플리케이션을 40% 빠르게 시작합니다. 이 기능을 사용하려면 캐시 파일을 빌드하는 훈련 실행이 필요합니다. GraalVM Native Image와 CRaC를 사용하면 95-99% 더 빠르게 시작할 수 있지만, 제약 조건이 더 많습니다. Leyden은 추가 개선 계획을 갖고 있습니다.
+#hashtags: #자바24 #프로젝트레이든 #Ahead-of-TimeClassLoading&Linking #GraalVMNativeImage
+
+번역: Java 24에서 Project Leyden의 JEP 483, "Ahead-of-Time Class Loading & Linking"은 코드 변경 없이 새로운 응용 프로그램 제약 조건도 없이 Spring PetClinic과 같은 Java 애플리케이션을 40% 빠르게 시작합니다. 이 기능을 사용하려면 캐시 파일을 빌드하는 훈련 실행이 필요합니다. GraalVM Native Image와 CRaC를 사용하면 95-99% 더 빠르게 시작할 수 있지만, 제약 조건이 더 많습니다. Leyden은 추가 개선 계획을 갖고 있습니다.
+#hashtags: #자바24 #프로젝트레이든 #Ahead-of-TimeClassLoading&Linking #GraalVMNativeImage
+
