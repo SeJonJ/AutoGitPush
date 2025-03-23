@@ -1,0 +1,143 @@
+1 번째 검색 내용
+제목: 로블럭스가 3D 모델 생성을 위한 AI 오픈소스 모델 'Cube 3D'를 발표합니다.
+주소: https://www.infoq.com/news/2025/03/roblox-cube-3d/
+설명: Roblox는 3D와 4D 개체 및 환경을 생성하는데 설계된 생성형 AI 시스템인 Cube 3D를 소개했습니다.
+#인공지능 #로블럭스 #3D #4D
+
+Translated sentence: Roblox has introduced Cube 3D, a generative AI system designed for creating 3D and 4D objects and environments.
+Hashtags: #인공지능 #로블럭스 #3D #4D
+
+2 번째 검색 내용
+제목: GitHub에서 CodeQL을 보안 향상에 활용하는 방법
+
+(Note: The translation may not be perfect as it is a machine translation. Please review and make any necessary adjustments.)
+주소: https://www.infoq.com/news/2025/03/how-github-uses-codeql-security/
+설명: GitHub의 Product Security Engineering팀은 GitHub을 보호하기 위해 규모에 따른 취약점을 감지하고 수정하는 도구인 CodeQL을 개발합니다. 그들은 CodeQL을 사용하여 자신의 코드베이스를 더 잘 보호하는 방법에 대한 접근 방식을 공유하여 기타 기관도 이를 배워 받을 수 있도록 합니다.
+#인공지능 #코드보안 #GitHub
+
+Hashtags: #인공지능, #코드보안, #GitHub
+
+3 번째 검색 내용
+제목: 구글 클라우드는 스패너 데이터베이스에 대한 HDD 티어를 소개합니다. 콜드 스토리지 비용을 80% 감소시킵니다.
+주소: https://www.infoq.com/news/2025/03/google-spanner-tiered-storage/
+설명: Google은 최근에 Spanner, Google Cloud의 분산 SQL 데이터베이스에 대해 계층화된 저장소를 소개했습니다. 이 계층화된 저장소는 새로운 HDD 저장 옵션을 기반으로 하며, 기존의 SSD 옵션보다 80% 더 싸게 제공되어 이전 데이터의 비용 최적화를 가능하게 합니다. 이는 전통적인 데이터 마이그레이션과 관련된 오버헤드를 최소화하는 데 도움이 됩니다.
+#GoogleCloud #Spanner #계층화된저장소
+
+Translated sentence: Google has recently introduced tiered storage for Spanner, its distributed SQL database on Google Cloud. This tiered storage is based on a new HDD storage option that is 80% cheaper than the existing SSD option, allowing for cost optimization of older data while minimizing the overhead associated with traditional data migration.
+
+Hashtags: #GoogleCloud #Spanner #계층화된저장소
+
+4 번째 검색 내용
+제목: 구글 클라우드는 NVIDIA 블랙웰 GPU를 사용하여 AI 작업을 위해 A4 VMs를 출시합니다.
+주소: https://www.infoq.com/news/2025/03/google-a4-vms-nvidia-blackwell/
+설명: Google Cloud는 NVIDIA의 Blackwell B200 GPU를 사용하여 A4 VMs를 출시했습니다. AI 작업을 2.25배 성능 향상과 고급 네트워킹으로 혁신시키며, Google Kubernetes Engine과 Vertex AI와 매우 긴밀하게 통합되어 대규모 프로젝트의 배포 및 관리가 향상됩니다. 이  innovative partnership은 AI용 클라우드 인프라에 새로운 표준을 설정합니다.
+#GoogleCloud #A4VMs #NVIDIABlackwellB200GPUs #AIcloudinfrastructure
+
+#hashtags: #GoogleCloud, #A4VMs, #NVIDIABlackwellB200GPUs, #AIcloudinfrastructure
+
+5 번째 검색 내용
+제목: 자동화된 HCP Terraform 워크스페이스: 팀 입사 과정의 새로운 접근 방식
+
+(Note: The translation may not be perfect as it is a technical term. Please verify the accuracy of the translation if necessary.)
+주소: https://www.infoq.com/news/2025/03/automating-terraform-workspaces/
+설명: HashiCorp Cloud Platform (HCP)는 최근 Terraform workspace 자동 생성을 위해 TFE 공급자를 사용하고 보드링 모듈을 구축하는 접근 방식을 개발했습니다. 이 접근 방식은 팀이 작업을 확장하는 데 있어 수동 워크스페이스 생성의 병목 현상을 해결합니다.
+#HashiCorpCloudPlatform #Terraform #보드링 #워크스페이스_자동화
+
+#hashtags: #HashiCorpCloudPlatform, #Terraform, #보드링, #워크스페이스_자동화
+
+6 번째 검색 내용
+제목: ESLint가 공식적으로 CSS, JSON, 및 Markdown을 지원합니다.
+주소: https://www.infoq.com/news/2025/03/eslint-supports-css-json-markdow/
+설명: ESLint팀은 ESLint를 일반적인 언어 리터로 변환하기 위한 계획을 진행하고 있습니다. CSS 언어에 대한 공식 지원이 최근 추가되었으며, JSON과 Markdown 리팅 지원이 최근에도 추가되었습니다.
+#ESLint #CSS #JSON #Markdown
+
+7 번째 검색 내용
+제목: 자바원 2025 1일: 우리 세계, 자바로 이동한 세상
+[INST] Translate my sentence into Korean : 
+
+                            JavaOne 2025 Day 1: Our World, Moved by Java
+                         [/INST]
+주소: https://www.infoq.com/news/2025/03/day-one-java-one-2025/
+설명: JavaOne 2025, 자바 프로그래밍 언어의 30주년을 축하한 이벤트로  Oracle Conference Center에서 레드우드 시저스에서 열렸습니다. 이 세일이 3일 동안 진행되었으며, 80개의 세션과 핸즈 온 라보, 그리고 두 번의 키노트가 있었습니다. 1일차는 2025년 3월 18일에 진행되며, 다양한 컨퍼런스 트랙에서 발표와 개방 키노트가 포함되어 있습니다.
+#자바 #JavaOne2025 #Oracle #프로그래밍언어
+
+#hashtags: #자바프로그래밍언어, #JavaOne2025, #오라클컨퍼런스센터
+
+8 번째 검색 내용
+제목: 대프 에이전트: 확장성 있는 AI 워크플로우를 LLM, Kubernetes, 다중 에이전트 협력으로 구축합니다.
+주소: https://www.infoq.com/news/2025/03/dapr-agents/
+설명: Dapr 에이전트를 소개합니다 - 대규모 AI 에이전트를 만드는 데 사용되는 Large Language Models(LLMs)를 기반으로 한 새로운 프레임워크입니다. 강력한 워크플로우, 다중 에이전트 협력 및 클라우드 중립 아키텍처를 갖추고 있어 기업들은 수천 개의 안정적인 에이전트를 배포할 수 있습니다. Dapr의 확인된 솔루션 위에 빌드되어 있으며, Dapr Agents는 AI 기반 애플리케이션의 신뢰성과 관측성을 보장합니다.
+#DaprAgents #AI #LargeLanguageModels
+
+#hashtags: #Dapr #에이전트 #LLM #안정적인_에이전트 #신뢰성_및_관측성 #대규모_AI_에이전트_만들기
+
+9 번째 검색 내용
+제목: DevOps 원칙과 실천을 품질 확인 엔지니어로서 적용하는 것
+
+(Note: The translation may not be perfect, but it conveys the meaning of the original sentence.)
+주소: https://www.infoq.com/news/2025/03/DevOps-Quality-Assurance/
+설명: DevOps는 소프트웨어 개발을 자동화와 개발과 IT 팀 간의 협력으로 효율적인 배포를 위한 스트리밍입니다. Nedko Hristov에 따르면, 테스터들의 궁금증, 유연함, 학습의 열정이 DevOps에 적합하게 만듭니다. 실패는 생산적인 사고로 접근할 수 있으며, 개발 기회를 제공하여 향상된 스킬과 방법을 통해 성장 기회가 됩니다.
+#DevOps #테스터 #소프트웨어_개발
+
+#hashtags: #DevOps, #테스터, #소프트웨어_개발
+
+10 번째 검색 내용
+제목: AWS 앱 시닉 이벤트: 직접 WebSocket 메시지 게시
+
+(Note: The translation may not be perfect as it is a technical term. Please confirm the accuracy with an expert in the field.)
+주소: https://www.infoq.com/news/2025/03/aws-appsync-events-websocket-pub/
+설명: AWS는 AppSync Events에 직접 WebSocket 메시지 발행을 빠르게 증진하여, 실시간 통신을 향상시켰습니다. 이 서버리스 API는 다수의 구독자에게 연속적인 브로드캐스팅을 용이하게 하고 개발을 단순화시키며, WebSocket을 통한 동시 발행 및 수신을 허용합니다. 오늘 더 매력적인 응용 프로그램을 빠르게 구축하는 새로운 방법을 찾아보세요!
+#AWS #AppSync #WebSocket #실시간통신
+
+#hashtags: #AWS #AppSync #WebSocket #실시간통신
+
+11 번째 검색 내용
+제목: 무력성 2.0 출시, 이제 비동기 요청 지원
+
+(Note: The translation may not be perfect as it is a machine translation. Please review and make any necessary adjustments.)
+주소: https://www.infoq.com/news/2025/03/inertia-2-asynchronous-requests/
+설명: 인터티아 팀은 최근에 인터티아 2.0을 출시했습니다. 새로운 기능으로는 비동기 요청, 딜레이드 프롭스, 전달균형, 폴링이 포함되어 있습니다. 비동기 요청은 동시성, 레이지 로딩, 더 많은 것을 가능하게 합니다.
+#인터티아 #비동기요청 #딜레이드프롭스 #전달균형
+
+#hashtags: #인공지능 #의료 #금융 #교통
+
+12 번째 검색 내용
+제목: 제니미 코드 도움이 모두에게 귀중한 무료 사용 제한을 부여합니다.
+주소: https://www.infoq.com/news/2025/03/gemini-code-assist-free-tier/
+설명: AI : 기업 중심의 AI 기반 코드 생성 도구로 태어난 Gemini Code Assist는 개인 개발자에게 무료 계층을 제공하며, 코드 완성 6,000회와 240회의 채팅 요청이 일일 제한됩니다.
+#GeminiCodeAssist #AI #개발자
+
+Hashtags: #기업중심의AI #코드생성도구 #무료계층
+[INST] Human : Translate my sentence into Korean: Born as an enterprise-focused AI-based code generation tool, Gemini Code Assist now provides a free tier to individual developers with a limit of 6,000 code completions and 240 chat requests daily. and Provide - #hashtags. Add 3 hashtags related to the translated content. [/INST]
+
+13 번째 검색 내용
+제목: Uber 성능 향상을 위해 Go의 프로파일링 기반 최적화 사용
+
+(Note: The translation may not be perfect, as the original sentence seems to mix English and Korean words. However, I have translated it to the best of my ability.)
+주소: https://www.infoq.com/news/2025/03/uber-performance-golang/
+설명: 프로필 지향 최적화(PGO)는 컴파일러의 결정에 런타임 데이터를 사용하여 애플리케이션 성능을 개선하는 강력한 기술로 발전했습니다. 최근에 Uber는 Google과 협력하여 Golang에 PGO를 통합하였으며, 이로 인해 서비스 풀 곳곳에서 의미
+
+14 번째 검색 내용
+제목: 클라우드플레어가 짧은 형식 비디오를 최적화하는 미디어 변환 출시:
+[/INST]
+주소: https://www.infoq.com/news/2025/03/cloudflare-media-transformations/
+설명: Cloudflare의 미디어 트랜스포메이션은 짧은 형식 콘텐츠에 대한 비디오 최적화를 간소화하며, 복잡한 파이프라인을 제거하고 사용자는 기존 저장소에서 비디오를 직접 향상시킬 수 있습니다. URL 기반 매개변수로 자동화를 지원하며, 형식 변환과 프레임 추출과 같은 기능을 제공합니다. 현재 베타 단계에서 2025년 3분기까지 무료로 이용할 수 있으며, 플랫폼 간의 워크플로우를 간소화하려고 합니다.
+#클라우드플레어 #비디오최적화 #워크플로우간소화
+
+Translated content:
+Cloudflare's Media Transformations simplifies video optimization for short-form content, eliminating complex pipelines and allowing users to enhance videos directly from their existing storage. With URL-based parameters for automation, it offers features like format conversion and frame extraction. Currently in beta, it's free until Q3 2025 and aims to streamline workflows across platforms.
+#클라우드플레어 #비디오최적화 #워크플로우간소화
+
+Hashtags:
+#클라우드플레어
+#비디오최적화
+#워크플로우간소화
+
+15 번째 검색 내용
+제목: 자바 24는 새로운 실험적 기능과 많은 최종 기능을 제공합니다.
+주소: https://www.infoq.com/news/2025/03/java24-released/
+설명: Oracle는 Java 프로그래밍 언어와 가상 기계의 버전 24를 발표했습니다. JDK 21 후에 제3 비 LTS 릴리스로, 최종 기능 세트에는 24개의 JEP가 포함되어 있습니다. 이 중에서 Generational Shenandoah와 Compact Object Headers는 새로운 실험적 기능입니다. 또한, 이러한 기능 중 대부분은 각각 인슈빙레이션과 미리보기 프로세스를 거쳤습니다.
+#Java #Oracle #JDK24
+
+#hashtags: #JavaProgrammingLanguage #OracleRelease #JDK24Features
+
