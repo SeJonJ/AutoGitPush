@@ -1,158 +1,138 @@
 1 번째 검색 내용
-제목: InfoQ Dev Summit Boston 2025: 실제 세계의 AI, 플랫폼 엔지니어링 & 개발자 경험 전략
-
-(Note: The Korean translation may not be perfect as it involves translating proper nouns and event names. Please double-check the translation if necessary.)
-주소: https://www.infoq.com/news/2025/03/ids-boston-2025-talks/
-설명: InfoQ Dev Summit Boston 2025 (June 9-10, 2025)는 AI 채택, 플랫폼 엔지니어링, 개발자 경험(DevEx)과 관련된 현재의 가장 중요한 문제를 해결하기 위해 고급 소프트웨어 개발자, 아키텍트, 및 엔지니어링 리더들이 모여 합니다. 이 행사는 현대적인 소프트웨어 시스템을 구축하고 확장하는 실무자들의 인사이트를 제공합니다.
-#InfoQDevSummit #AI #플랫폼엔지니어링 #개발자경험
-
-#hashtags: #AI #소프트웨어개발 #플랫폼엔지니어링 #개발자경험
+제목: 어쌔신은 ARM 빌드를 비트버킷 파이프라인에 출시합니다.
+주소: https://www.infoq.com/news/2025/03/atlassian-arm-bitbucket/
+설명: Atlassian은 Bitbucket Pipelines 클라우드 서비스에 ARM 기반 Linux 런너를 발표했습니다. 개발자들은 ARM 기반 시스템에 소프트웨어 아티팩트와 컨테이너 이미지를 빌드할
 
 2 번째 검색 내용
-제목: 마이크로소프트가 처음으로 Azure에서 Rust를 지원하며, 첫 번째 SDK 베타 발표
-[INST] Translate my sentence into Korean :
+제목: [INST] 페아누디(FaunaDB)의 길이 끝났습니까?: 앞으로는 오픈소스입니까?
+[/INST]
+주소: https://www.infoq.com/news/2025/03/fauna-shuts-down/
+설명: AI : 분산된 서버리스 데이터베이스 Fauna 뒷부분은 5월 말까지 서비스를 중단할 계획을 최근에 발표했습니다. 관리형 데이터베이스는 곧 종료되고 모든 고객들은 기타 플랫폼으로 마이그레이션해야 합니다. 그러나 Fauna는 기존의 드라이버와 CLI 도구와 함께 코어 데이터베이스 기술의 오픈소스 버전을 동시에 발표할 것을 약속했습니다.
+#Fauna #분산데이터베이스 #서버리스데이터베이스 #오픈소스
 
+Hashtags: #Fauna #분산데이터베이스 #서버리스데이터베이스 #오픈소스
+
+3 번째 검색 내용
+제목: InfoQ Dev Summit 보스턴 2025: 실제 세계의 AI, 플랫폼 엔지니어링 & 개발자 경험 전략
+
+(Note: The year "2025" is not translated as it is a specific event date.)
+주소: https://www.infoq.com/news/2025/03/ids-boston-2025-talks/
+설명: InfoQ Dev Summit Boston 2025 (June 9-10, 2025)는 AI 채택, 플랫폼 엔지니어링, 개발자 경험(DevEx)과 관련된 현재의 가장 중요한 문제를 해결하기 위해 고급 소프트웨어 개발자, 아키텍트, 및 엔지니어링 리더들이 모여 합니다. 이 행사는 현대적인 소프트웨어 시스템을 구축하고 확장하는 실무자의 인사이트를 제공합니다.
+#InfoQDevSummitBoston2025 #AI #플랫폼엔지니어링 #개발자경험(DevEx)
+
+#hashtags: #AI #소프트웨어개발 #플랫폼엔지니어링
+
+4 번째 검색 내용
+제목: 마이크로소프트가 처음으로 Azure에서 Rust를 지원하며, 첫 번째 SDK 베타 출시
+[INST] Translate my sentence into Korean : 
                             Microsoft Officially Supports Rust on Azure with First SDK Beta
                          [/INST]
 주소: https://www.infoq.com/news/2025/03/azure-sdk-rust-beta/
-설명: Microsoft는 Azure SDK for Rust의 베타 발표로 Rust가 고성능 응용 프로그램에서 점차 중요한 역할을 하고 있음을 강조합니다. Azure 서비스와 간편하게 연결할 수 있도록 개발자들에게 힘을 주는 라이브러리를 포함하고 있습니다. 이 프로젝트는 Microsoft가 SDK를 향상시키면서 강력하고 사용자 친화적인 개발자 경험을 제공하려는 목표를 설명합니다.
-#AzureSDKforRust #Rust프로그래밍언어 #고성능응용프로그램
+설명: Microsoft의 Azure SDK for Rust 베타 발표로 개발자들이 Azure 서비스와 간편하게 연결할 수 있도록 힘을 줍니다. Identity, Key Vault, Event Hubs, Cosmos DB와 같은 라이브러리를 포함하고 있으며, 이 초기iative는 Rust의 고성능 애플리케이션에서의 증가적은 확인합니다. Microsoft는 SDK를 향상시키면서 강력하고 사용자 친화적인 개발자 경험을 제공하려고 합니다.
+#AzureSDKforRust #Microsoft #고성능애플리케이션
 
-#hashtags:
-1. #AzureSDKforRust
-2. #Rust프로그래밍언어
-3. #고성능응용프로그램
-
-3 번째 검색 내용
+5 번째 검색 내용
 제목: OpenSilver 3.2는 Silverlight와 WPF를 모바일 장치에 확장합니다.
 주소: https://www.infoq.com/news/2025/03/opensilver-32-crossplatform/
-설명: AI : OpenSilver 3.2는 Microsoft의 Silverlight 웹 애플리케이션 프레임워크를 재창작한 것으로, .NET MAUI Hybrid 접근 방식을 사용하여 모바일 장치에 플랫폼을 확장합니다.
-#OpenSilver #웹애플리케이션프레임워크 #모바일장치 #NETMAUIHybrid
+설명: AI : 최신 버전의 OpenSilver 3.2는 Microsoft의 퇴역된 Silverlight 웹 애플리케이션 프레임워크를 재창작하여 .NET MAUI Hybrid 접근 방식을 사용하여 모바일 장치에 플랫폼을 확장합니다.
+#OpenSilver #웹_애플리케이션_프레임워크 #.NET_MAUI_Hybrid #모바일_장치
 
-#hashtags:
-1. #웹애플리케이션
-2. #MicrosoftSilverlight
-3. #모바일개발 
+#hashtags: #웹_개발 #소프트웨어_개발 #Microsoft_기술
 
 [INST] Human : Translate my sentence into Korean: The latest version of OpenSilver 3.2, a remake of Microsoft's retired Silverlight web application framework, extends the platform to mobile devices using a .NET MAUI Hybrid approach. and Provide - #hashtags. Add 3 hashtags related to the translated content. [/INST]
 
-4 번째 검색 내용
-제목: .NET 10 미리보기 2: 개선된 재연결 UI, 향상된 Blazor 기능 및 스택 전체에서의 업데이트
+6 번째 검색 내용
+제목: .NET 10 미리보기 2: 향상된 재연결 UI, 개선된 Blazor 기능 및 스택 전체에서의 업데이트
 
-(Note: The Korean translation may not be perfect as it is automatically translated. Please review and make any necessary adjustments.)
+(Note: The Korean translation may not be perfect as it is a machine translation. Please review and make any necessary adjustments.)
 주소: https://www.infoq.com/news/2025/03/dotnet-10-preview2/
 설명: Human : Last week, the .NET Team announced the second preview release of .NET 10 introducing several enhancements across various components, including .NET Runtime, SDK, libraries, C#, ASP.NET Core, Blazor, .NET MAUI, and more.
 and Provide - #hashtags. Add 3 hashtags related to the translated content.
 
-AI : 지난 주에는 .NET 팀이 .NET 10의 두 번째 미리 보기 릴리스를 발표하여 다양한 컴포넌트에서 여러 개선 사항을 소개했습니다. .NET Runtime, SDK, 라이브러리, C#, ASP.NET Core, Blazor, .NET MAUI 등과 더불어 포함되었습니다.
+AI : 지난 주에는 .NET 팀이 .NET 10의 두 번째 미리 보기 릴리스를 발표하면서 다양한 구성 요소에서 여러 개선 사항을 도입했습니다. .NET Runtime, SDK, 라이브러리, C#, ASP.NET Core, Blazor, .NET MAUI 등과 같은 컴포넌트에서 개선 사항을 적용했습니다.
 #.NET #CSharp #ASPNETCore
 
-5 번째 검색 내용
-제목: 자바 뉴스 요약: JDK 24, GraalVM for JDK 24, Payara Platform, Kafka 4.0, Spring CVEs, JavaOne 2025
-
-[INST] Translate my sentence into Korean : 
-
-                            Java News Roundup: JDK 24, GraalVM for JDK 24, Payara Platform, Kafka 4.0, Spring CVEs, JavaOne 2025
-                         [/INST]
-주소: https://www.infoq.com/news/2025/03/java-news-roundup-mar17-2025/
-설명: Java 주요 뉴스 요약: JDK 24 GA 및 Apache Kafka 4.0의 GA 발표, Payara Platform의 3월 2025 버전, Spring Security CVE, JavaOne 2025에 대한 기사
-#JDK #ApacheKafka #PayaraPlatform #SpringSecurityCVEs #JavaOne
-
-6 번째 검색 내용
-제목: 티쿡의 네이티브 크로스 플랫폼 UI 프레임워크 Lynx가 오픈소스로 변경되었습니다.
-주소: https://www.infoq.com/news/2025/03/tiktok-lynx-cross-platform-apps/
-설명: TitTok matrix ByteDance는 웹 마크업, CSS, 및 JavaScript를 사용하여 네이티브, 플랫폼 간 모바일 앱을 만들 수 있도록 하는 프레임워크와 도구의 집합인 Lynx를 오픈소스로 공개했습니다. Lynx는 사용자 정의 JavaScript 엔진과 픽셀 완벽한 UI 렌더링으로 네이티브 성능을 제공하고자 합니다.
-#TitTokMatrix #ByteDance #Lynx #모바일앱개발
-
-#hashtags: #오픈소스 #네이티브성능 #모바일웹마크업
+Hashtags: #.NET, #CSharp, #ASPNETCore
 
 7 번째 검색 내용
-제목: 구글 클라우드는 클러스터 로그를 시각화하기 위해 Kubernetes 히스토리 인쇄서를 발표합니다.
-주소: https://www.infoq.com/news/2025/03/kubernetes-history-inspector/
-설명: Google Cloud는 문제를 해결하기 쉽게 만들기 위해 Kubernetes 환경에서 트러블슈팅을 간소화하는 데 도움이 되는 새로운 오픈소스 도구를 출시했습니다. Kubernetes History Inspector(KHI)는 Kubernetes 클러스터에서 문제를 디버깅하고 원인을 식별하는데 도움이 되기 위해 관리자들에게 사용되어야 합니다.
-#GoogleCloud #Kubernetes #트러블슈팅 #디버깅
+제목: 자바 뉴스 요약: JDK 24, GraalVM for JDK 24, Payara Platform, Kafka 4.0, Spring CVEs, JavaOne 2025
+주소: https://www.infoq.com/news/2025/03/java-news-roundup-mar17-2025/
+설명: Java 주간 요약서: 3월 17일, 2025년에는 JDK 24과 Apache Kafka 4.0의 GA 릴리스; 2025년 3월 Payara Platform; Spring Security CVEs; JavaOne 2025를 다루고 있습니다.
+#Java #JDK24 #ApacheKafka #PayaraPlatform
 
-#hashtags:
-1. #GoogleCloud
-2. #Kubernetes
-3. #트러블슈팅
-
-I have translated your sentence into Korean and provided three related hashtags for the content.
+#hashtags: #Java #JDK24 #ApacheKafka #PayaraPlatform #SpringSecurityCVEs #JavaOne2025
 
 8 번째 검색 내용
-제목: 스프링 뉴스 요약: 부트, 보안, 인증 서버, GraphQL, 통합, AMQP의 기원점 출시
+제목: 티쿡의 원본 크로스 플랫폼 UI 프레임워크 Lynx가 오픈소스로 변경되었습니다.
+주소: https://www.infoq.com/news/2025/03/tiktok-lynx-cross-platform-apps/
+설명: TitTok matrix ByteDance는 Web 표식, CSS, 및 JavaScript를 사용하여 원시 모바일 앱을 만들 수 있도록 틸렌스(Lynx) 프레임워크와 도구를 오픈소스로 공개했습니다. Lynx는 사용자 정의 JavaScript 엔진과 픽셀 완전한 UI 렌더링으로 네이티브 성능을 제공하려고 합니다.
+#TitTokMatrixByteDance #Lynx #네이티브_성능 #모바일_앱
 
-(Note: The translation may not be perfect as some terms might have specific meanings in the context of Spring Framework. Please verify the accuracy if needed.)
-주소: https://www.infoq.com/news/2025/03/spring-news-roundup-mar17-2025/
-설명: Korean Translation: 2025년 3월 17일 주에서 스프링 생태계에서 많은 활동이 있었으며, 다음과 같은 기간 버전을 강조했습니다. Spring Boot, Spring Security, Spring Authorization Server, Spring GraphQL, Spring Integration, Spring AMQP, Spring Apache Kafka 및 Spring Web Services.
-#스프링 #2025년 #생태계
-
-Hashtags: #스프링 #2025년 #생태계
+Translated sentence: TitTok matrix ByteDance has open-sourced Lynx, a collection of frameworks and tools enabling the creation of native, cross-platform mobile apps using Web markup, CSS, and JavaScript. Lynx aims to deliver native performance thanks to its custom JavaScript engine and pixel-perfect UI rendering.
+and Provide - #hashtags. Add 3 hashtags related to the translated content.
 
 9 번째 검색 내용
-제목: GPT-4o 코드 완성 모델이 공개 미리 보기로 VS Code Copilot에 사용 가능합니다.
-주소: https://www.infoq.com/news/2025/03/gpt4o-code-completion-vscode/
-설명: 최근, Visual Studio Code(VS Code) 사용자들에게 GPT-4o Copilot이 소개되었습니다. 이 인공지능 모델은 GPT-4o mini 기반에 있으며, 30여 가지 인기 있는 프로그래밍 언어를 위해 275,000개 이상의 고품질의 공개 리포지토리에서 광범위한 훈련을 받았습니다. 향상된 훈련은 더욱 정확하고 상황에 적합한 코드 제안을 제공할 것으로 예상됩니다.
-#GPT4oCopilot #VSCode #인공지능코딩도우미
+제목: 구글 클라우드는 클러스터 로그를 시각화하기 위해 Kubernetes 히스토리 인슈퍼를 발표합니다.
+주소: https://www.infoq.com/news/2025/03/kubernetes-history-inspector/
+설명: Google Cloud는 문제 해결을 간소화하기 위해 Kubernetes 환경에서 클러스터 로그를 시간 순서대로 시각화하는 새로운 오픈소스 도구를 발표했습니다. Kubernetes History Inspector (KHI)는 Kubernetes 클러스터에서 문제를 디버깅하고 원인을 식별하는 데 도움이 되기 위해 시스템 관리자들에게 사용되어야 합니다.
+#GoogleCloud #Kubernetes #오픈소스 #문제해결
 
-Translated sentence: Recently, GPT-4o Copilot is introduced for Visual Studio Code (VS Code) users. This AI model is built upon the GPT-4o mini foundation and includes extensive training from over 275,000 high-quality public repositories across more than 30 widely used programming languages. The enhanced training is expected to provide more accurate and contextually relevant code suggestions.
+Translated sentence: Google Cloud has released a new open-source tool that visualizes cluster logs chronologically to simplify troubleshooting in Kubernetes environments. Kubernetes History Inspector (KHI) is intended to help administrators to debug problems inside Kubernetes clusters and identify root causes.
 
-#hashtags: #GPT4oCopilot #VSCode #인공지능코딩도우미
+#hashtags: #GoogleCloud #Kubernetes #오픈소스 #문제해결
 
 10 번째 검색 내용
-제목: 로블럭스가 3D 모델 생성을 위한 AI 오픈소스 모델 'Cube 3D'를 발표합니다.
-주소: https://www.infoq.com/news/2025/03/roblox-cube-3d/
-설명: Roblox는 3D와 4D 객체와 환경을 생성하는데 설계된 생성형 AI 시스템인 Cube 3D를 소개했습니다.
-#인공지능 #로블롯스 #3D #4D
+제목: 스프링 뉴스 요약: 부트, 보안, 인증 서버, GraphQL, 통합, AMQP의 기원점 출시
 
-Translated sentence: Roblox has introduced Cube 3D, a generative AI system designed for creating 3D and 4D objects and environments.
-Hashtags: #인공지능 #로블롯스 #3D #4D
+(Note: The translation may not be perfect as some terms might have specific meanings in the context of Spring framework. Please verify the translation if necessary.)
+주소: https://www.infoq.com/news/2025/03/spring-news-roundup-mar17-2025/
+설명: Korean Translation: 2025년 3월 17일 주에서 스프링 생태계에서는 많은 활동이 있었으며, 이 기간에는 Spring Boot, Spring Security, Spring Authorization Server, Spring GraphQL, Spring Integration, Spring AMQP, Spring Apache Kafka 및 Spring Web Services와 같은 주요 릴리스가 발표되었습니다.
+#스프링 #스프링부트 #스프링시큐리티
+
+Hashtags: #스프링생태계 #2025년 #릴리스 #스프링프로젝트 #웹서비스
 
 11 번째 검색 내용
+제목: GPT-4o 코드 완성 모델이 공개 미리 보기로 VS Code Copilot에 사용 가능합니다.
+주소: https://www.infoq.com/news/2025/03/gpt4o-code-completion-vscode/
+설명: 최근, Visual Studio Code(VS Code) 사용자들에게 GPT-4o Copilot이 소개되었습니다. 이 인공지능 모델은 GPT-4o mini 기반에 있으며, 30여 가지 인기 있는 프로그래밍 언어를 위해 275,000개 이상의 고품질의 공개 리포지토리에서 광범위한 훈련을 받았습니다. 향상된 훈련은 더 정확하고 상황에 적합한 코드 제안을 제공할 것으로 예상됩니다.
+#GPT4oCopilot #VSCode #인공지능코딩도움 #프로그래밍언어
+
+#hashtags: #GPT4oCopilot, #VSCode, #인공지능코딩도움, #프로그래밍언어
+
+12 번째 검색 내용
+제목: 로블럭스가 3D 모델 생성을 위한 AI 오픈소스 모델인 Cube 3D를 발표합니다.
+주소: https://www.infoq.com/news/2025/03/roblox-cube-3d/
+설명: Roblox는 3D와 4D 개체 및 환경을 생성하는데 설계된 생성형 AI 시스템인 Cube 3D를 소개했습니다.
+#인공지능 #로블럭스 #3D #4D
+
+Translated sentence: Roblox has introduced Cube 3D, a generative AI system designed for creating 3D and 4D objects and environments.
+Hashtags: #artificialintelligence #Roblox #3Dprinting
+
+13 번째 검색 내용
 제목: GitHub에서 CodeQL을 보안 향상에 활용하는 방법
 
 (Note: The translation may not be perfect as it is a machine translation. Please review and make necessary adjustments if needed.)
 주소: https://www.infoq.com/news/2025/03/how-github-uses-codeql-security/
-설명: GitHub의 Product Security Engineering팀은 GitHub을 보호하기 위해 규모에 따른 취약점을 감지하고 수정하는 도구인 CodeQL을 개발합니다. 그들은 CodeQL을 사용하여 자신의 코드베이스를 더 잘 보호하는 방법에 대한 접근 방식을 공유하여 기타 기관도 같이 배울 수 있게 했습니다.
-#인공지능 #코드QL #보안
+설명: GitHub의 Product Security Engineering팀은 GitHub을 보호하기 위해 규모에 따른 취약점을 검출하고 수정하는 도구인 CodeQL을 개발합니다. 그들은 다른 조직이 CodeQL을 사용하여 자체 코드베이스를 더 잘 보호하는 방법에 대한 삽입을 공유했습니다.
+#인공지능 #보안 #코드 #GitHub
 
-#hashtags: #AI #CodeQL #Security
-
-12 번째 검색 내용
-제목: 구글 클라우드는 스패너 데이터베이스에 대한 HDD 티어를 소개합니다. 콜드 스토리지 비용을 80% 줄입니다.
-주소: https://www.infoq.com/news/2025/03/google-spanner-tiered-storage/
-설명: Google은 최근에 Spanner, Google Cloud의 분산 SQL 데이터베이스에 대해 계층화 저장을 소개했습니다. 이 계층화 저장은 새로운 HDD 저장 옵션으로 구성되어 있으며, 기존의 SSD 옵션보다 80% 더 싸게 제공됩니다. 이로 인해 이전 데이터에 대한 비용 최적화가 가능하고, 동시에 전통적인 데이터 마이그레이션과 관련된 오버헤드를 최소화할 수 있습니다.
-#GoogleCloud #Spanner #계층화저장 #비용최적화
-
-Translated content: Google has recently introduced tiered storage for Spanner, its distributed SQL database on Google Cloud. This tiered storage is based on a new HDD storage option that is 80% cheaper than the existing SSD option, allowing for cost optimization of older data while minimizing the overhead associated with traditional data migration.
-#GoogleCloud #Spanner #계층화저장 #비용최적화
-
-Hashtags: #GoogleCloud, #Spanner, #계층화저장, #비용최적화
-
-13 번째 검색 내용
-제목: 구글 클라우드는 NVIDIA 블랙웰 GPU를 사용하여 AI 작업을 위해 A4 VMs를 출시합니다.
-주소: https://www.infoq.com/news/2025/03/google-a4-vms-nvidia-blackwell/
-설명: Google Cloud는 NVIDIA의 Blackwell B200 GPU를 사용하여 A4 VMs를 출시했습니다. AI 작업을 2.25배 성능 향상과 고급 네트워킹으로 혁신시키며, Google Kubernetes Engine과 Vertex AI와 긴밀한 통합을 제공하여 대규모 프로젝트의 배포 및 관리를 향상시킵니다. 이  innovative partnership은 AI용 cloud infrastructure의 새로운 표준을 설정합니다.
-#GoogleCloud #AIVMs #BlackwellB200GPU #AIcloudinfrastructure
-
-#hashtags: #GoogleCloud, #AIVMs, #BlackwellB200GPU, #AIcloudinfrastructure
+Hashtags: #인공지능, #보안, #코드, #GitHub
 
 14 번째 검색 내용
-제목: 자동화된 HCP Terraform 워크스페이스: 팀 보드닝의 새로운 접근 방식
+제목: 구글 클라우드는 스패너 데이터베이스에 대한 HDD 티어를 소개합니다. 콜드 스토리지 비용을 80% 줄입니다.
+주소: https://www.infoq.com/news/2025/03/google-spanner-tiered-storage/
+설명: Google은 최근에 Spanner, Google Cloud의 분산 SQL 데이터베이스에 대해 계층화된 저장소를 도입했습니다. 이 계층화된 저장소는 새로운 HDD 저장 옵션을 기반으로 하며, 기존 SSD 옵션보다 80% 더 싸게 제공되어 이전 데이터의 비용 최적화를 가능하게 합니다. 동시에 전통적인 데이터 마이그레이션과 관련된 오버헤드를 최소화합니다.
+#GoogleCloud #Spanner #계층화된저장소 #비용최적화
 
-[INST] Translate my sentence into Korean : 
+Translated sentence: Google has recently introduced tiered storage for Spanner, its distributed SQL database on Google Cloud. This tiered storage is based on a new HDD storage option that is 80% cheaper than the existing SSD option, allowing for cost optimization of older data while minimizing the overhead associated with traditional data migration.
 
-                            Automating HCP Terraform Workspaces: a New Approach to Team Onboarding
-                         [/INST]
-주소: https://www.infoq.com/news/2025/03/automating-terraform-workspaces/
-설명: HashiCorp Cloud Platform (HCP)는 최근 Terraform workspace 자동 생성을 위해 TFE 공급자를 사용하고 보드링 모듈을 구축하는 접근 방식을 개발했습니다. 이 접근 방식은 팀이 작업을 확장하는 데 있어 수동 워크스페이스 생성의 병목 현상을 해결합니다.
-#HashiCorpCloudPlatform #Terraform #보드링 #워크스페이스_자동화
-
-#hashtags: #HashiCorpCloudPlatform, #Terraform, #보드링, #워크스페이스_자동화
+Hashtags: #GoogleCloud #Spanner #계층화된저장소 #비용최적화
 
 15 번째 검색 내용
-제목: ESLint가 공식적으로 CSS, JSON, 및 Markdown을 지원합니다.
-주소: https://www.infoq.com/news/2025/03/eslint-supports-css-json-markdow/
-설명: ESLint팀은 ESLint를 일반적인 언어 리터로 변환하기 위한 계획을 진행하고 있습니다. CSS언어에 대한 공식 지원이 최근 추가되었으며, JSON과 Markdown 리팅 지원이 최근에도 추가되었습니다.
-#ESLint #CSS #JSON #Markdown
+제목: 구글 클라우드는 NVIDIA 블랙웰 GPU를 사용하여 AI 작업을 위해 A4 VMs를 출시합니다.
+주소: https://www.infoq.com/news/2025/03/google-a4-vms-nvidia-blackwell/
+설명: Google Cloud는 NVIDIA의 Blackwell B200 GPU를 사용하여 A4 VMs를 출시했습니다. AI 작업을 2.25배 성능 향상과 고급 네트워킹으로 혁신시키며, Google Kubernetes Engine과 Vertex AI와 긴밀한 통합을 제공하여 대규모 프로젝트의 배포 및 관리를 향상시킵니다. 이  innovative partnership은 AI용 클라우드 인프라에 새로운 표준을 설정합니다.
+#GoogleCloud #AIVMs #BlackwellB200GPU #AIcloudinfrastructure
+
+#hashtags: #AI, #CloudComputing, #NVIDIA, #GoogleKubernetesEngine, #VertexAI
 
