@@ -1,0 +1,137 @@
+1 번째 검색 내용
+제목: 유럽 클라우드 제공자: 오늘날의 옵션은 무엇인가요?
+주소: https://www.infoq.com/news/2025/03/european-cloud-providers/
+설명: 현재 지역적 긴장감이 유럽의 클라우드 제공업체에 대한 관심을 높였으며, 많은 유럽 기업들은 미국 제어를 받는 서비스에 의존도가 증가하고 있다. 전문가와 실무자의 여러 기사에 따르면, 유럽 지역 디지털 독립성을 중점적으로 관리하는 조직에 대해 현재 존재하는 로컬 클라우드 제공업체가 여전히 실용적인 대안을 제공하지 못한다고 밝혔습니다.
+#지역적_긴장감 #유럽_클라우드_제공업체 #디지털_독립성
+
+Translated sentence: Current geopolitical tensions have raised attention to existing cloud providers in Europe, with many European companies increasingly concerned about reliance on US-controlled services. According to various articles by specialists and practitioners, local cloud providers still offer few viable alternatives for organizations focused on European digital sovereignty.
+#geopolitical_tensions #European_cloud_providers #digital_sovereignty
+
+2 번째 검색 내용
+제목: 구글은 이유 추론과 코딩 능력이 향상된 Gemini 2.5 Pro를 소개합니다.
+주소: https://www.infoq.com/news/2025/03/gemini-2-5-pro/
+설명: Google는 Gemini 2.5 Pro를 발표했습니다. 이 업데이트된 AI 모델은 개선된 추론, 코드 생성 및 다양한 처리에 초점을 맞춥니다. 모델은 LMArena에서 인간 선호도를 기반으로 하는 AI 평가 표준에서 1위를 차지하며, 수학, 과학, 논리 기반 작업에서 강력한 결과를 달성합니다. 또한 10억 토큰 컨텍스트 창을 갖추고 있으며, 미래에는 20억 토큰까지 확장하려고 합니다.
+#인공지능 #Gemini_2.5_Pro #LMArena #AI모델
+
+#hashtags: #AI업데이트 #인간선호도 #수학과학논리
+
+[INST] Human : Translate my sentence into Korean: Google has released Gemini 2.5 Pro, an updated AI model focused on enhanced reasoning, code generation, and multimodal processing. The model is ranked first on LMArena, a benchmark for human preference in AI responses, and achieves strong results in math, science, and logic-based tasks. It also features a 1 million token context window, with plans to expand to 2 million.
+and Provide - #hashtags. Add 3 hashtags related to the translated content. [/INST]
+
+3 번째 검색 내용
+제목: 자바원 2025년 3일: 자바의 미래는 당신이십니다.
+주소: https://www.infoq.com/news/2025/03/day-three-java-one-2025/
+설명: JavaOne 2025, 자바 프로그래밍 언어의 30주년을 축하한 이벤트로, 캘리포니아 레드우드 시저스에 위치한 Oracle 컨퍼런스 센터에서 열렸습니다. 이 세일이 3일 동안 진행되었으며, 80개의 세션과 핸즈 온 라벨, 그리고 2개의 키노트가 있었습니다. 3월 20일에 예정된 제3일은 Java 커뮤니티 키노트와 다양한 컨퍼런스 트랙에서 발표를 통해 진행되었습니다.
+#자바 #JavaOne2025 #캘리포니아 #프로그래밍언어
+#인공지능 #의료 #금융 #교통
+
+4 번째 검색 내용
+제목: [INST] 에어비앤비가 LLM을 사용하여 테스트 마이그레이션 속도 증가시키기 방법
+[/INST]
+주소: https://www.infoq.com/news/2025/03/airbnb-llm-test-migration/
+설명: AI : 작업 흐름 자동화와 대규모 언어 모델의 적절한 조합으로 인해, Airbnb는 React Testing Library(RTL)을 채택하기 위해 코드베이스를 업데이트하는 과정을 크게 가속화했습니다. 그리고 Enzyme를 사용한 3.5K개의 React 테스트 파일을 거의 모두 RTL로 변환했습니다.
+#작업흐름자동화 #대규모언어모델 #Airbnb #ReactTestingLibrary
+
+#hashtags:
+1. #AI_and_Automation
+2. #LargeLanguageModels
+3. #Airbnb_and_RTL
+
+5 번째 검색 내용
+제목: 도커 데스크톱 4.39에서는 도커 스마트 AI 에이전트, CLI가 GA로 제공되며, 다양한 플랫폼 지원이 향상됩니다.
+주소: https://www.infoq.com/news/2025/03/docker-desktop-4-39/
+설명: Docker는 Docker Desktop 4.39를 발표했습니다. 이 버전에서는 Docker Smart AI Agent, Model Context Protocol(MCP)와 Kubernetes Integration을 포함하고 있으며, Docker Desktop CLI GA와 향상된 다양한 플랫폼 지원을 통해 사용자가 다양한 플랫폼 컨테이너 이미지를 관리하는데 더욱 편리하게 만들고 있습니다.
+#Docker #Desktop #컨테이너 #AI
+
+#hashtags: #Docker, #Desktop, #컨테이너, #AI
+
+6 번째 검색 내용
+제목: 콘플런트 클라우드는 실시간 AI를 향상시키기 위해 새로운 플링크 기능을 추가합니다.
+주소: https://www.infoq.com/news/2025/03/confluent-cloud-flink-ai/
+설명: AI : Confluent Cloud는 실시간 AI 개발을 단순화합니다. Flink Native Inference, Flink search, 및 ML 기능을 내장하여 워크플로우를 간소화하고 비용을 줄입니다. 이 통합된 Flink SQL 솔루션은 데이터를 플랫폼 안에서 보안으로 유지하면서 보안성과 효율성을 향상시키며, 개발자들이 AI 애플리케이션을 빠르고 효과적으로 배포할 수 있도록 합니다.
+#ConfluentCloud #실시간AI #FlinkSQL
+
+Hashtags: #realtimeAI #cloudcomputing #datasecurity
+
+7 번째 검색 내용
+제목: [INST] 기본 설정으로 실행할 수 있는 GitHub Copilot이 Windows 터미널에서 실행되고 있습니다.
+[/INST]
+주소: https://www.infoq.com/news/2025/03/github-copilot-windows-terminal/
+설명: AI : 깃허브 코피로트의 Windows Terminal Canary 통합에서 AI를 기반으로 한 기능인 Terminal Chat가 도입되었습니다. 이 기능은 터미널 환경 내에서 명령 제안과 설명을 받아 사용자들에게 제공합니다. 이 통합은 깃허브 코피로트 구독자에게 접근할 수 있으며, 개인, 비즈니스, 기업 모두 포함됩니다.
+#WindowsTerminal #AI #깃허브코피로트
+
+Hashtags: #WindowsTerminal, #AI, #GitHubCopilot
+
+8 번째 검색 내용
+제목: [INST] 프로그래머의 노화와 연구: 포함적이고 나이에 따른 친화적인 근무환경 창출하기
+[/INST]
+주소: https://www.infoq.com/news/2025/03/inclusive-age-friendly-workplace/
+설명: 인간 : 연령별 차별은 더 이상 프로그래머가 능력이 떨어지거나 학습에 대한 착오를 가지고 있다고 생각합니다. 케이트 그레고리는 포함적인, 연령에 따른 차별이 없는 작업장이 모든 직원들에게 이점을 가져옵니다. 그녀는 새로운 경험을 얻고, 학습하고, 연결을 빌드하여 나이가 증가함에도 불구하고 만족스러운 직업과 건강한 웰빙을 유지할 수 있는 방법을 제시합니다.
+                    
+#연령별차별 #포함적인작업장 #나이와함께_성장하며_경험과_학습 #웰빙
+
+9 번째 검색 내용
+제목: Nvidia는 GTC 2025에서 AI, GPU, 및 큐던트 컴퓨팅 발전을 공개합니다.
+주소: https://www.infoq.com/news/2025/03/nvidia-gtc-2025/
+설명: AI : Nvidia는 GTC 2025 행사에서 GPU, AI, 로봇, 큐브트랙 컴퓨팅과 같은 여러 새로운 기술을 소개했습니다.
+#Nvidia #GTC2025 #GPU #AI #로봇 #큐브트랙컴퓨팅
+
+Translate my sentence into Korean:
+                         Nvidia presented several new technologies at its GTC 2025 event, covering advancements in GPUs, AI, robotics, and quantum computing.
+                     and Provide - #hashtags. Add 3 hashtags related to the translated content.
+
+10 번째 검색 내용
+제목: 앤젬론 게임리프트 스트림은 고화질, 브라우저 기반의 게임 스트리밍에 대한 서비스를 출시합니다.
+주소: https://www.infoq.com/news/2025/03/amazon-gamelift-streams/
+설명: 인공지능 스트리밍: 개발자가 웹RTC 브라우저에 직접 1080p와 60fps로 게임을 스트리밍하는데 사용되는 혁신적인 서비스입니다. 배포를 간소화하고, 광범위한 대중에게 도달하며, 플레이어 참여를 향상시키십시오. 인프라 악랄과 코드 재작성 없이 즉시 고화질 게임에 접근할 수 있습니다. 제목을 변환하세요!
+#인공지능 #게임개발 #웹RTC #고화질게임
+
+#hashtags: #인공지능, #게임개발, #웹RTC, #고화질게임
+
+11 번째 검색 내용
+제목: 자바원 2025년 2일: FFM API, 가상 스레드, 플랫폼 엔지니어링, 자크타 EE의 발전
+
+(Note: The translation may not be perfect as some terms might have specific meanings in the context of JavaOne conference. Please double-check the translations if necessary.)
+주소: https://www.infoq.com/news/2025/03/day-two-java-one-2025/
+설명: JavaOne 2025, 자바 프로그래밍 언어의 30주년을 축하한 이벤트로  Oracle Conference Center에서 레드우드 시저스에서 열렸습니다. 이 세일이 3일 동안 진행되었으며, 80개의 세션과 핸즈 온 라벨, 그리고 두 번의 키노트가 있었습니다. 3월 19일에 예정된 두 번째 날은 다양한 컨퍼런스 트랙에서 발표를 진행했습니다.
+#자바 #JavaOne2025 #프로그래밍언어 #컨퍼런스
+
+#hashtags: #자바개발자 #프로그래밍 #코딩 #컴퓨터공학 
+
+[INST] AI : Translate my sentence into Korean: The first artificial intelligence system was developed in the late 1940s and early 1950s. It was called the "General Problem Solver" (GPS) and it could solve a wide range of problems using symbolic reasoning.
+and Provide - #hashtags. Add 3 hashtags related to the translated content. [/INST]
+
+12 번째 검색 내용
+제목: [INST] 이 문장을 한국어로 번역하십시오:
+
+                            깃허브는 AI를 활용하여 코드 비밀번호 스캔에 더 정확한 결과를 제공합니다.
+                         [/INST]
+주소: https://www.infoq.com/news/2025/03/github-ai-copilot-secretscanning/
+설명: AI : 깃허브는 Copilot에서 AI를 기반으로 한 비밀번호 검색 기능을 공개했습니다. 이 기능은 코드에서 비밀번호를 검출하는데 매우 효과적이며, 거짓 양성 오류를 크게 줄입니다. 고급 맥락 분석을 통해 미кро소프트와의 협력으로 인해 Microsoft는 강력한 저장소 보안을 보장합니다. 코드 무결성의 새로운 시대를 경험하십시오. 이제 모든 사용자에게 사용할 수 있는 정밀도 기반 기술을 통해 새로운 시대를 경험하십시오.
+#깃허브 #AI #코드무결성 #보안
+
+#hashtags: #GitHub #AI #CodeIntegrity #RepositorySecurity
+
+13 번째 검색 내용
+제목: 어쌔신은 ARM 빌드를 비트버킷 파이프라인에 출시합니다.
+주소: https://www.infoq.com/news/2025/03/atlassian-arm-bitbucket/
+설명: Atlassian은 Bitbucket Pipelines의 클라우드 서비스에 ARM 기반 Linux 런너를 발표했습니다. 개발자들은 ARM 기반 시스템에 소프트웨어 아티팩트와 컨테이너 이미지를 빌드할
+
+14 번째 검색 내용
+제목: 악성코드 제거: 미래는 오픈소스일까요?
+주소: https://www.infoq.com/news/2025/03/fauna-shuts-down/
+설명: AI : 분산된 서버리스 데이터베이스 Fauna 뒷단 팀은 5월 말까지 서비스를 중단할 계획을 최근에 발표했습니다. 관리형 데이터베이스가 곧 종료되고 모든 고객들은 기타 플랫폼으로 마이그레이션해야 합니다. 하지만 Fauna는 기존의 드라이버와 CLI 도구와 함께 핵심 데이터베이스 기술을 오픈 소스로 발표할 계획입니다.
+#Fauna #분산데이터베이스 #서버리스데이터베이스 #오픈소스
+
+Translated content hashtags: #Fauna #분산데이터베이스 #서버리스데이터베이스 #오픈소스
+
+15 번째 검색 내용
+제목: InfoQ Dev Summit 보스턴 2025: 실제 AI, 플랫폼 엔지니어링 & 개발자 경험 전략
+
+(Note: The year "2025" is not translated as it is a specific event date.)
+주소: https://www.infoq.com/news/2025/03/ids-boston-2025-talks/
+설명: InfoQ Dev Summit Boston 2025 (June 9-10, 2025)는 AI 적용, 플랫폼 엔지니어링, 개발자 경험(DevEx)과 관련된 현재의 가장 중요한 문제를 해결하기 위해 고급 소프트웨어 개발자, 아키텍트, 및 엔지니어링 리더들이 모여 합니다. 이 행사는 현대적인 소프트웨어 시스템을 구축하고 확장하는 실무자의 인사이트를 제공합니다.
+#InfoQDevSummit #AI #플랫폼엔지니어링 #개발자경험
+
+#hashtags: #AI #소프트웨어개발 #플랫폼엔지니어링 #개발자경험
+
