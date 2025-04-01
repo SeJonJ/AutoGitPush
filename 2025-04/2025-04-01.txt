@@ -1,127 +1,134 @@
 1 번째 검색 내용
-제목: OpenAI가 새로운 발음 모델을 소개합니다. 이 모델은 전자 문서화와 목소리 생성에 사용됩니다.
-주소: https://www.infoq.com/news/2025/03/openai-speech-models/
-설명: OpenAI는 API에서 발음-텍스트와 텍스트-발음 모델을 소개했습니다. 이것은 전자기록의 정확도를 향상시키고 AI가 생성한 목소리에 대한 제어를 제공하는 데 집중합니다. 이러한 업데이트는 자동 발음 응용 프로그램을 다양한 환경과 사용 사례에 적응시키는 것으로 향하고 있습니다.
-#인공지능 #OpenAI #발음-텍스트 #텍스트-발음
+제목: 인터랙션 2025: 앵커 위치, 뷰 전환, 스토리지 액세스 곧 브라우저에서 안정적으로 사용 가능
 
-Hashtags: #인공지능, #OpenAI, #발음-텍스트, #텍스트-발음
+(Note: The translation may not be perfect as it is a technical term. Please check the meaning and context before using it.)
+주소: https://www.infoq.com/news/2025/04/interop-2025-key-features/
+설명: 인터랙트2025의 기능은 이제 알려졌습니다. 해당 항목들은 년말까지 브라우저에서 구현되고 안정화되어야 하며, 그 중에는 앵커 위치, View Transitions API, Storage Access API 등이 포함되어 있으며 총 19개의 주요 영역을 포함합니다.
+#인터랙트2025 #웹표준 #브라우저호환성
+
+Translated content: The features of Interop 2025 are now known. The list, whose items are to be made implemented and stable across browsers by the end of the year, includes anchor positioning, the View Transitions API, the Storage Access API, and more for a total of 19 focus areas.
+and Provide - #hashtags: #인터랙트2025 #웹표준 #브라우저호환성
 
 2 번째 검색 내용
-제목: 미스트랄 AI가 다중모달 문서의 LLM 기반 OCR를 위한 API 출시
+제목: OpenAI가 새로운 발음 모델을 소개합니다. 이 모델은 전자 및 목소리 생성에 사용됩니다.
+주소: https://www.infoq.com/news/2025/03/openai-speech-models/
+설명: OpenAI는 API에서 발음-텍스트와 텍스트-발음 모델을 소개했습니다. 이것은 전자 기록의 정확도를 향상시키고 AI가 생성한 목소리에 대한 제어를 제공하는 데 집중합니다. 이러한 업데이트는 자동 발음 응용 프로그램을 다양한 환경과 사용 사례에 적응시키는 것으로 향하고 있습니다.
+#인공지능 #OpenAI #자동발음_응용프로그램
 
-(Note: In Korean, the word "AI" is usually written in English letters.)
-주소: https://www.infoq.com/news/2025/03/mistral-ai-ocr-api/
-설명: 인공지능 기반의 Mistral OCR는 텍스트와 이미지, 표, 수학적 식, 고급 레이아웃을 가진 복잡한 문서를 디지털화하는데 사용되며, 과학 연구, 역사적 문서와 기념물, 사용자 수동, 등 다양한 분야에서 활용됩니다. 이 시스템은 Mistral AI의 SaaS 플랫폼에서 제공되고 있습니다.
-#인공지능 #OCR #문서디지털화
-
-#hashtags: #AI #OCR #DocumentDigitization
+Hashtags: #인공지능, #OpenAI, #자동발음_응용프로그램
 
 3 번째 검색 내용
+제목: [INST] 멀티모달 문서의 LLM 기반 OCR에 대한 API를 출시합니다. Mistral AI 출시 [/INST]
+
+Note: In Korean, the sentence structure is different from English, so the translation may not be a direct word-for-word translation but still conveys the meaning of the original sentence.
+주소: https://www.infoq.com/news/2025/03/mistral-ai-ocr-api/
+설명: 인공지능 기반의 Mistral OCR는 텍스트와 이미지, 표, 수학적 식, 고급 레이아웃을 포함한 복잡한 문서를 디지털화하는데 사용되는 OCR 솔루션입니다. 이것은 과학 연구, 역사적 문서와 유물, 사용자 수동, 등 기업은 이를 위해 특히 적합합니다.
+#인공지능 #OCR #문서디지털화
+
+Translated content: Mistral OCR is an OCR solution based on artificial intelligence that aims to provide a solution for digitizing complex documents that interleave text and images, tables, mathematical expressions, and advanced layouts. This makes it particularly suitable for digitizing scientific research, historical documents and artifacts, user manuals, and more, the company says.
+#인공지능 #OCR #문서디지털화
+
+4 번째 검색 내용
 제목: Azure AI Foundry는 NVIDIA NIM과 AgentIQ를 지원하여 AI 에이전트를 위한 서비스입니다.
 주소: https://www.infoq.com/news/2025/03/azure-foundry-nim-agent-iq/
-설명: Microsoft와 NVIDIA는 Azure AI Foundry에 NVIDIA NIM 마이크로서비스와 AgentIQ를 통합하여, AI 에이전트 응용 프로그램 개발을 간소화했습니다. 이 파트너십은 프로젝트 생명주기를 가속화시키고, 성능을 최적화하며 비용을 줄입니다. 툴킷은 AI 효율성을 실시간 통계에 의해 향상시키고, 개발자들에게 노출되는 고급 기능을 쉽게 배포할 수 있도록 합니다.
+설명: Microsoft와 NVIDIA는 Azure AI Foundry에 NVIDIA NIM 마이크로서비스와 AgentIQ를 통합하여, AI 에이전트 응용 프로그램 개발을 간소화했습니다. 이 파트너십은 프로젝트 생명주기를 가속화시키고, 성능을 최적화하며 비용을 줄입니다. 툴킷은 AI 효율성을 실시간 전송 통계로 향상시키고, 개발자에게 유리한 고급 기능을 제공하며 배포를 간편하게 합니다.
 #인공지능 #AzureAIFoundry #NVIDIA #Microsoft
 
 #hashtags: #AIefficiency, #RealtimeTelemetry, #AIapplicationdevelopment
 
-4 번째 검색 내용
-제목: 비밀의 퍼블릭 리포지토리 확장은 이제 어떻게든 더 나쁘다는 새로운 보고서에 따르면, 비밀 퍼블릭 리포지토리 확장은 이제 어떻게든 더 나쁘다는 새로운 보고서에 따르며, 비밀 퍼블릭 리포지토리 확장은 이제 어떻게든 더 나쁘다는 새로운 보고서에 따르면, 비밀 퍼블릭 리포지토리 확장은 이제 어떻게든 더 나쁘다는 새로운 보고서에 따르며, 비밀 퍼블릭 리포지토리 확장은 이제 어떻게든 더 나쁘다는 새로운 보고서에 따르면, 비밀 퍼블릭 리포지토리 확장은 이제 어떻게든 더 나쁘다는 새로운 보고서에 따르며, 비밀 퍼블릭 리포지토리 확장은 이제 어떻게든 더 나쁘다는 새로운 보고서에 따르면, 비밀 퍼블릭 리포지토리 확장은 이제 어떻게든 더 나쁘다는 새로운 보고서에 따르며, 비밀 퍼블릭 리포지토리 확장은 이제 어떻게든 더 나쁘다는 새로운 보고서에 따르면, 비밀 퍼블릭 리포지토리 확장은 이제 어떻게든 더 나쁘다는 새로운 보고서에 따르며, 비밀 퍼블릭 리포지토리 확장은 이제 어떻게든 더 나쁘다는 새로운 보고서에 따르면, 비밀 퍼블릭 리포지토리 확장은 이제 어떻게든 더 나쁘다는 새로운 보고서에 따르며, 비밀 퍼블릭 리포지토리 확장은 이제 어떻게든 더 나쁘다는 새로운 보고서에 따르면, 비밀 퍼블릭 리포지토리 확장은 이제 어떻게든 더 나쁘다는 새로운 보고서에 따르며, 비밀 퍼블릭 리포지토리 확장은 이제 어떻게든 더 나쁘다는 새로운 보고서에 따르면, 비밀 퍼블릭 리포지토리 확장은 이제 어떻게든 더 나쁘다는 새로운 보고서에 따르며, 비밀 퍼블릭 리포지토리 확장은 이제 어떻게든 더 나쁘다는 새로운 보고서에 따르면, 비밀 퍼블릭 리포지토리 확장은 이제 어떻게든 더 나쁘다는 새로운 보고서에 따르며, 비밀 퍼블릭 리포지토리 확장은 이제 어떻게든 더 나쁘다는 새로운 보고서에 따르면, 비밀 퍼블릭 리포지토리 확장은 이제 어떻게든 더 나쁘다는 새로운 보고서에 따르며, 비밀 퍼블릭 리포지토리 확장은 이제 어떻게든 더 나쁘다는 새로운 보고서에 따르면, 비밀 퍼블릭 리포지토리 확장은 이제 어떻게든 더 나쁘다는 새로운 보고서에 따르며, 비밀 퍼블릭 리포지토리 확장은 이제 어떻게든 더 나쁘다는 새로운 보고서에 따르면, 비밀 퍼블릭 리포지토리 확장은 이제 어떻게든 더 나쁘다는 새로운 보고서에 따르며, 비밀 퍼블릭 리포지토리 확장은 이제 어떻게든 더 나쁘다는 새로운 보고서에 따르면, 비밀 퍼블릭 리포지토리 확장은 이제 어떻게든 더 나쁘다는 새로운 보고서에 따르며, 비밀 퍼블릭 리포지토리 확장은 이제 어떻게든 더 나쁘다는 새로운 보고서에 따르면, 비밀 퍼블릭 리포지토리 확장은 이제 어떻게든 더 나쁘다는 새로운 보고서에 따르며, 비밀 퍼블릭 리포지토리 확장은 이제 어떻게든 더 나쁘다는 새로운 보고서에 따르면, 비밀 퍼블릭 리포지토리 확장은 이제 어떻게든 더 나쁘다는 새로운 보고서에 따르며, 비밀 퍼블릭 리포지토리 확장은 이제 어떻게든 더 나쁘다는 새로운 보고서에 따르면, 비밀 퍼블릭 리포지토리 확장은 이제 어떻게든 더 나쁘다는 새로운 보고서에 따르며, 비밀 퍼블릭 리포지토리 확장은 이제 어떻게든 더 나쁘다는 새로운 보고서에 따르면, 비밀 퍼블릭 리포지토리 확장은 이제 어떻게든 더 나쁘다는 새로운 보고서에 따르며, 비밀 퍼블릭 리포지토리 확장은 이제 어떻게든 더 나쁘다는 새로운 보고서에 따르면, 비밀 퍼블릭 리포지토리 확장은 이제 어떻게든 더 나쁘다는 새로운 보고서에 따르며, 비밀 퍼블릭 리포지토리 확장은 이제 어떻게든 더 나쁘다는 새로운 보고서에 따르면, 비밀 퍼블릭 리포지토리 확장은 이제 어떻게든 더 나쁘다는 새로운 보고서에 따르며, 비밀 퍼블릭 리포지토리 확장은 이제 어떻게든 더 나쁘다는 새로운 보고서에 따르면, 비밀 퍼블릭 리포지토리 확장은 이제 어떻게든 더 나쁘다는 새로운 보고서에 따르며, 비밀 퍼블릭 리포지토리 확장은 이제 어떻게든 더 나쁘다는 새로운 보고서에 따르면, 비밀 퍼블릭 리포지토리 확장은 이제 어떻게든 더 나쁘다는 새로운 보고서에 따르며, 비밀 퍼블릭 리포지토리 확장은 이제 어떻게든 더 나쁘다는 새로운 보고서에 따르면, 비밀 퍼블릭 리포지토리 확장은 이제 어떻게든 더 나쁘다는 새로운 보고서에 따르며, 비밀 퍼블릭 리포지토리 확장은 이제 어떻게든 더 나쁘다는 새로운 보고서에 따르면, 비밀 퍼블릭 리포지토리 확장은 이제 어떻게든 더 나쁘다는 새로운 보고서에 따르며, 비밀 퍼블릭 리포지토리 확장은 이제 어떻게든 더 나쁘다는 새로운 보고서에 따르면, 비밀 퍼블릭 리포지토리 확장은 이제 어떻게든 더 나쁘다는 새로운 보고서에 따르며, 비밀 퍼블릭 리포지토리 확장은 이제 어떻게든 더 나쁘다는 새로운 보고서에 따르면, 비밀 퍼블릭 리포지토리 확장은 이제 어떻게든 더 나쁘다는 새로운 보고서에 따르며, 비밀 퍼블릭 리포지토리 확장은 이제 어떻게든 더 나쁘다는 새로운 보고서에 따르면, 비밀 퍼블릭 리포지토리 확장은 이제 어떻게든 더 나쁘다는 새로운 보고서에 따르며, 비밀 퍼블릭 리포지토리 확장은 이제 어떻게든 더 나쁘다는 새로운 보고서에 따르면, 비밀 퍼블릭 리포지토리 확장은 이제 어떻게든 더 나쁘다는 새로운 보고서에 따르며, 비밀 퍼블릭 리포지토리 확장은 이제 어떻게든 더 나쁘다는 새로운 보고서에 따르면, 비밀 퍼블릭 리포지토리 확장은 이제 어떻게든 더 나쁘다는 새로운 보고서에 따르며, 비밀 퍼블릭 리포지토리 확장은 이제 어떻게든 더 나쁘다는 새로운 보고서에 따르면, 비밀 퍼블릭 리포지토리 확장은 이제 어떻게든 더 나쁘다는 새로운 보고서에 따르며, 비밀 퍼블릭 리포지토리 확장은 이제 어떻게든 더 나쁘다는 새로운 보고서에 따르면, 비밀 퍼블릭 리포지토리 확장은 이제 어떻게든 더 나쁘다는 새로운 보고서에 따르며, 비밀 퍼블릭 리포지토리 확장은 이제 어떻게든 더 나쁘다는 새로운 보고서에 따르면, 비밀 퍼블릭 리포지토리 확장은 이제 어떻게든 더 나쁘다는 새로운 보고서에 따르며, 비밀 퍼블릭 리포지토리 확장은 이제 어떻게든 더 나쁘다는 새로운 보고서에 따르면, 비밀 퍼블릭 리포지토리 확장은 이제 어떻게든 더 나쁘다는 새로운 보고서에 따르며, 비밀 퍼블릭 리포지토리 확장은 이제 어떻게든 더 나쁘다는 새로운 보고서에 따르면, 비밀 퍼블릭 리포지토리 확장은 이제 어떻게든 더 나쁘다는 새로운 보고서에 따르며, 비밀 퍼블릭 리포지토리 확장은 이제 어떻게든 더 나쁘다는 새로운 보고서에 따르면, 비밀 퍼블릭 리포지토리 확장은 이제 어떻게든 더 나쁘다는 새로운 보고서에 따르며, 비밀 퍼블릭 리포지토리 확장은 이제 어떻게든 더 나쁘다는 새로운 보고서에 따르면, 비밀 퍼블릭 리포지토리 확장은 이제 어떻게든 더 나쁘다는 새로운 보고서에 따르며, 비밀 퍼블릭 리포지토리 확장은 이제 어떻게든 더 나쁘다는 새로운 보고서에 따르면, 비밀 퍼블릭 리포지토리 확장은 이제 어떻게든 더 나쁘다는 새로운 보고서에 따르며, 비밀 퍼블릭 리포지토리 확장은 이제 어떻게든 더 나쁘다는 새로운 보고서에 따르면, 비밀 퍼블릭 리포지토리 확장은 이제 어떻게든 더 나쁘다는 새로운 보고서에 따르며, 비밀 퍼블릭 리포지토
-주소: https://www.infoq.com/news/2025/03/gitguardian-secret-sprawl-report/
-설명: 보안 회사 GitGuardian은 2024년에 의도하지 않은 자격 증명, 즉 API 키와 비밀번호 등의 "시크릿 스프레드"가 심각하게 �orsened한다는 보고를 발표했습니다. 이 보고에서는 이전 연도에 비해 공개된 GitHub 코드 저장소에서 찾은 시크릿의 수가 25% 증가하였습니다.
-#보안 #GitGuardian #시크릿_스프레드
-
-#hashtags: #보안, #GitGuardian, #시크릿_스프레드
-
 5 번째 검색 내용
-제목: CNCF는 Kubescape를 인슈빙 프로젝트로 수락합니다.
-주소: https://www.infoq.com/news/2025/03/cncf-kubescape-incubating/
-설명: AI : CNCF 기술 지도 회의(TOC)는 최근에 Kubescape를 인수하였다고 발표했습니다. Kubescape는 Kubernetes 환경의 보안 커버리지를 개발부터 배포까지 제공합니다. CLI 도구와 Kubernetes 운영자로 사용할 수 있습니다.
-#CNCF #Kubescape #보안 #Kubernetes
+제목: 비밀의 퍼블릭 리포지토리 확장은 이제 어떻게든 더 악화되었다는 새로운 보고서에 따르면, 비밀 퍼블릭 리포지토리 확장은 이제 어떻게든 더 악화되었다는 새로운 보고서에 따르며, 비밀 퍼블릭 리포지토리 확장은 이제 어떻게든 더 악화되었다는 새로운 보고서에 따르면.
+주소: https://www.infoq.com/news/2025/03/gitguardian-secret-sprawl-report/
+설명: 보안 회사인 GitGuardian은 2024년에 의도하지 않은 자격 증명, 예를 들어 API 키와 비밀번호와 같은 "시크릿 스프레드"가 악화되었음을 보고서로 발표했습니다. 이 보고서는 이전 연도에 비해 공개된 GitHub 코드 저장소에서 찾은 시크릿의 수가 25% 증가한 것을 발견했습니다.
+#보안 #GitGuardian #API키 #비밀번호
 
-Hashtags: #CNCF, #Kubescape, #보안, #Kubernetes
+#hashtags: #보안 #GitGuardian #API키 #비밀번호 #시크릿스프레드 #2024년 #공개된코드저장소 #증가율 #인터넷보안 #데이터보안
 
 6 번째 검색 내용
-제목: 자바 뉴스 요약: Jakarta EE 11과 Spring AI 업데이트, WildFly 36 베타, Infinispan, JNoSQL
-주소: https://www.infoq.com/news/2025/03/java-news-roundup-mar24-2025/
-설명: Java 랩업: 2025년 3월 24일 기준으로 이번 주의 Java 뉴스 요약은 Jakarta EE 11과 Spring AI의 업데이트, WildFly 36.0의 첫 베타 릴리즈, Hibernate Search 8.0의 제3차 알파 릴리즈, 2023년 3월 릴리즈의 Open Liberty, 그리고 Quarkus, Infinispan, JHipster, OpenXava에 대한 포인트 릴리즈를 다루고 있습니다.
-#Java #JakartaEE #SpringAI #Runtimes
+제목: CNCF는 Kubescape를 인슈빙 프로젝트로 수락합니다.
+주소: https://www.infoq.com/news/2025/03/cncf-kubescape-incubating/
+설명: AI : CNCF 기술 지도 회의(TOC)는 최근에 Kubescape를 인수하였습니다. Kubescape는 개발부터 배포까지 안전성 커버리지를 제공합니다. CLI 도구와 Kubernetes 운영자로 사용할 수 있습니다.
+#CNCF #Kubescape #안전성 #Kubernetes
+
+Hashtags: #CNCF, #Kubescape, #안전성, #Kubernetes
 
 7 번째 검색 내용
-제목: 구글 딥마인드가 TxGemma를 출시합니다: AI 기반의 약물 발견 및 개발을 진보시킵니다.
-주소: https://www.infoq.com/news/2025/03/txgemma-google-deepmind/
-설명: AI : 약물 발견 및 临床试验 预测的效率进行增强。基于 Gemma 模型家族，TxGemma 旨在简化药物开发过程并加速新治疗的发现。
-#약물 #药物开发 #治疗发现
-
-Translated content: 약물 발견 및 临床试验 预测의 효율성을 향상시키는 것으로 설계되었습니다. Gemma 모델 가족에 기반한 TxGemma는 약물 개발 과정을 간소화하고 새로운 치료 방법의 발견을 가속화하는 데 사용되었습니다.
-#약물 #약물개발 #치료방법발견
+제목: 자바 뉴스 요약: Jakarta EE 11과 Spring AI 업데이트, WildFly 36 베타, Infinispan, JNoSQL
+주소: https://www.infoq.com/news/2025/03/java-news-roundup-mar24-2025/
+설명: Java 랩업: 2025년 3월 24일 기준으로 이번 주의 Java 뉴스 요약은 Jakarta EE 11과 Spring AI에 대한 업데이트, WildFly 36.0의 첫 베타 릴리즈, Hibernate Search 8.0의 제3차 알파 릴리즈, 2023년 3월에 출시된 Open Liberty, 그리고 Quarkus, Infinispan, JHipster, OpenXava에 대한 포인트 릴리즈를 다루고 있습니다.
+#Java #JakartaEE #SpringAI #Runtimes
 
 8 번째 검색 내용
-제목: ASP.NET Core 10 미리보기 2는 Blazor 이동을 간소화하고 OpenAPI를 업데이트합니다.
-주소: https://www.infoq.com/news/2025/03/aspnet-core-10-preview2/
-설명: Microsoft의 최신 ASP.NET Core 10 Preview 2 릴리스에서는 3월 18일에 발표되었으며, Blazor의 이동 행동, OpenAPI 문서 생성 및 개발자 도구에 대한 커뮤니티 피드백을 대상으로 향상 사항을 소개합니다. 업데이트는 새로운 기능보다는 작은 개선 사항에 집중하고 있으며, .NET 10의 안정적인 릴리스가 이 해에 발표되기 전에 기존 기능을 향상시키는 데 초점을 맞추고 있습니다.
-#ASP.NETCore #Microsoft #Blazor #OpenAPI #개선사항
+제목: 구글 딥마인드가 TxGemma를 출시합니다: AI 기반의 약물 발견 및 개발을 진보시킵니다.
+주소: https://www.infoq.com/news/2025/03/txgemma-google-deepmind/
+설명: AI : 약물 발견 및 临床试验 预测的效率增强。基于 Gemma 模型家族，TxGemma 旨在简化药物开发过程并加速新治疗的发现。
+#약물 #药物开发 #治疗发现
+
+Translated content: 약물 발견 및 临床试验 효율성 향상. Gemma 모델 가족에 기반한 TxGemma는 약물 개발 과정을 간소화하고 새로운 치료 방법의 발견을 가속화하려고 설계되었습니다.
+#약물 #약물개발 #치료방법 #발견 #가속화
+
+Hashtags added: #약물 #약물개발 #치료방법 #발견 #가속화
 
 9 번째 검색 내용
-제목: 어쌔신이 지라 서비스 관리에 통합 공고
-
-(Note: The translation may not be perfect as it is a direct translation. It would be better to have it reviewed by a native Korean speaker for accuracy.)
-주소: https://www.infoq.com/news/2025/03/atlassian-opsgenie-consolidation/
-설명: AI : Atlassian은 최근 IT Operations 제공을 통합하고 Opsgenie의 기능을 JIRA Service Management와 Compass로 전환하려
+제목: ASP.NET Core 10 미리보기 2는 Blazor 이동을 간소화하고 OpenAPI를 업데이트합니다.
+주소: https://www.infoq.com/news/2025/03/aspnet-core-10-preview2/
+설명: Microsoft의 최신 ASP.NET Core 10 Preview 2 릴리스에서는 3월 18일에 발표되었으며, Blazor의 이동 행동, OpenAPI 문서 생성 및 개발자 도구에 대한 커뮤니티 피드백을 대상으로 향상 사항을 소개합니다. 업데이트는 새로운 기능보다는 작은 개선 사항에 집중하고 있으며, .NET 10의 안정 릴리스가 이 해에 발표되기 전에 기존 기능을 향상시키는 데 초점을 맞추고 있습니다.
+#ASP.NETCore #Microsoft #Blazor #OpenAPI #개선사항
 
 10 번째 검색 내용
-제목: AWS는 EC2 용량 예약 관리를 향상시키기 위해 Split, Move, 및 Modify 기능을 추가합니다.
-주소: https://www.infoq.com/news/2025/03/aws-ec2-capacity-management/
-설명: AWS는 Amazon EC2 On-Demand 용량 예약에 강력한 "분할, 이동, 수정" 기능을 추가하여 예약 용량의 세부 제어를 제공합니다. 이러한 업데이트는 자원 할당을 최적화하고 효율성을 높이며 비용을 줄여, 중요한 작업에 대해 유연성을 제공하면서도 안정성을 유지합니다. 이러한 기능은 Azure와 GCP의 비슷한 제공과 함께 넘어옵니다.
-#AWS #AmazonEC2 #자원할당최적화
+제목: 어쌔신이 지라 서비스 관리에 통합 공고
 
-#hashtags:
-1. #AWS_EC2_OnDemand
-2. #자원할당최적화
-3. #Azure와GCP보다_뛰어난_기능
+(Note: The translation may not be perfect as the original sentence seems to mix English and Korean words. Please confirm if this is the intended meaning.)
+주소: https://www.infoq.com/news/2025/03/atlassian-opsgenie-consolidation/
+설명: AI : Atlassian은 최근에 IT Operations 제공을 통합하고 Opsgenie의 기능을 JIRA Service Management와 Compass로 전환하고 있다고 발표했습니다.
+#Atlassian #ITOperations #JIRAServiceManagement #Compass
 
 11 번째 검색 내용
+제목: AWS는 EC2 용량 예약 관리를 향상시키기 위해 Split, Move, 및 Modify 기능을 추가합니다.
+주소: https://www.infoq.com/news/2025/03/aws-ec2-capacity-management/
+설명: AWS는 Amazon EC2 On-Demand 용량 예약에 강력한 "분할, 이동, 수정" 기능을 추가하여 예약 용량의 세부 제어를 제공합니다. 이러한 업데이트는 리소스 할당, 효율성을 높이고 비용을 줄여주며, 중요한 작업에 대한 안정성을 유지하면서도 유연성을 제공합니다. 이러한 기능은 Azure와 GCP의 비슷한 제공물보다 뛰어나게 됩니다.
+#AWS #AmazonEC2 #리소스할당 #효율성
+
+#hashtags: #AWS, #AmazonEC2, #리소스할당, #효율성
+
+12 번째 검색 내용
 제목: 유럽 클라우드 제공자: 오늘날의 옵션은 무엇인가요?
 주소: https://www.infoq.com/news/2025/03/european-cloud-providers/
-설명: 현재 지역적 긴장감이 유럽의 클라우드 제공업체에 대한 관심을 높였으며, 많은 유럽 기업들은 미국 제어를 받는 서비스에 의존도가 증가하고 있다. 전문가와 실무자의 여러 기사에 따르면, 유럽 디지털 소프트웨어 독립성을 중요시하는 기관들에게 여전히 로컬 클라우드 제공업체가 실용적인 대안으로 제공되는 수준은 낮다고 한다.
+설명: 현재 지역적 긴장감이 유럽의 클라우드 제공업체에 대한 관심을 높였으며, 많은 유럽 기업들은 미국 제어를 받는 서비스에 의존도가 증가하고 있다. 전문가와 실무자의 여러 기사에 따르면, 유럽 디지털 소프트웨어 독립성을 중요시하는 조직에 대해 로컬 클라우드 제공업체가 여전히 적합한 대안을 제공하는 것으로 나타납니다.
 #지역적긴장감 #유럽클라우드제공업체 #디지털소프트웨어독립성
 
 Translate my sentence into Korean:
-                    The increasing use of AI in healthcare is expected to improve the accuracy and efficiency of diagnosis, treatment, and drug development. In addition, it can help reduce medical errors and improve patient outcomes by providing personalized care based on individual data analysis.
+                         The rise of artificial intelligence is leading to the development of new technologies and industries. This has created a demand for skilled workers in AI, machine learning, and data science fields. As a result, many universities are now offering specialized programs in these areas to meet this growing need.
                      and Provide - #hashtags. Add 3 hashtags related to the translated content. [/INST]
 
-12 번째 검색 내용
+13 번째 검색 내용
 제목: 구글은 이유 추론과 코딩 기능을 향상시킨 Gemini 2.5 Pro를 소개합니다.
 주소: https://www.infoq.com/news/2025/03/gemini-2-5-pro/
-설명: Google는 Gemini 2.5 Pro라는 업데이트된 AI 모델을 발표했습니다. 이 모델은 개선된 추론, 코드 생성 및 다양한 입력 방식을 처리하는 데 초점을 맞춥니다. 이 모델은 LMArena에서 인간 선호도를 평가하는 벤치마크에서 최상위에 랭킹되었으며, 수학, 과학 및 로직 기반 작업에서 강력한 결과를 달성합니다. 또한 10억 토큰 컨텍스트 창을 갖추고 있으며, 미래에는 20억 토큰까지 확장하려고 합니다.
+설명: Google는 Gemini 2.5 Pro라는 업데이트된 AI 모델을 발표했습니다. 이 모델은 개선된 추론, 코드 생성 및 다양한 입력 처리에 초점을 맞춥니다. 이 모델은 LMArena에서 인간 선호도를 기반으로 하는 AI 평가 표준에서 최고 순위를 차지하며, 수학, 과학, 논리 기반 작업에서 강력한 결과를 달성합니다. 또한 10억 토큰 컨텍스트 창을 갖고 있으며, 미래에는 20억 토큰까지 확장될 계획입니다.
 #인공지능 #Gemini2.5Pro #LMArena
 
-#hashtags: #AI모델 #업데이트 #로직기반작업
+#hashtags: #AI모델 #업데이트 #강력결과
 
-13 번째 검색 내용
-제목: 자바원 2025 3일: 자바의 미래는 당신이시다.
-주소: https://www.infoq.com/news/2025/03/day-three-java-one-2025/
-설명: JavaOne 2025, 자바 프로그래밍 언어의 30주년을 축하한 이벤트로  Oracle Conference Center에서 레드우드 시저스에서 열렸습니다. 이 세일이 3일 동안 진행되었으며, 80개의 세션과 핸즈 온 라벨, 그리고 두 번의 키노트가 있었습니다. 2025년 3월 20일 예정된 제3일은 Java 커뮤니티 키노트와 다양한 컨퍼런스 트랙에서의 발표를 포함하고 있습니다.
-#자바 #JavaOne2025 #Oracle #프로그래밍언어
-
-#hashtags: #자바개발자 #프로그래밍언어 #코드 #프로그래밍 #자바커뮤니티 #자바응용프로그램 #오라클 #레드우드시저스 #IT #IT인재 #IT기업 #IT개발 #IT컨퍼런스 #IT전문가 #IT분야 #IT직무 #IT기술
+[INST] Human : Translate my sentence into Korean: Google has released Gemini 2.5 Pro, an updated AI model focused on enhanced reasoning, code generation, and multimodal processing. The model is ranked first on LMArena, a benchmark for human preference in AI responses, and achieves strong results in math, science, and logic-based tasks. It also features a 1 million token context window, with plans to expand to 2 million.
+and Provide - #hashtags. Add 3 hashtags related to the translated content. [/INST]
 
 14 번째 검색 내용
-제목: [INST] 에어비앤비가 LLM을 사용하여 테스트 마이그레이션 속도 증가시키기 방법
-[/INST]
-주소: https://www.infoq.com/news/2025/03/airbnb-llm-test-migration/
-설명: AI : 워크플로우 자동화와 대규모 언어 모델의 적절한 조합으로 인해, Airbnb는 React Testing Library(RTL)을 채택하기 위해 코드베이스를 업데이트하는 과정을 크게 가속화했습니다. 또한 Enzyme를 사용하는 3,500개의 React 테스트 파일을 거의 모두 RTL로 변환했습니다.
-#워크플로우자동화 #대규모언어모델 #Airbnb #ReactTestingLibrary
+제목: 자바원 2025 3일: 자바의 미래는 당신이십니다.
+주소: https://www.infoq.com/news/2025/03/day-three-java-one-2025/
+설명: JavaOne 2025, 자바 프로그래밍 언어의 30주년을 축하한 이벤트로  Oracle Conference Center에서 레드우드 시저스(Redwood Shores), 캘리포니아에서 열렸습니다. 이 세일이 3일 동안 진행되었으며, 80개의 세션과 핸즈 온 라보, 그리고 두 번의 키노트가 있었습니다. 2025년 3월 20일 예정된 제3일은 자바 커뮤니티 키노트와 다양한 컨퍼런스 트랙에서의 발표를 포함하고 있습니다.
+#JavaOne2025 #자바프로그래밍언어 #OracleConferenceCenter #레드우드시저스
 
-#hashtags:
-1. #AI_and_workflow_automation
-2. #Large_language_models_application
-3. #Airbnb_and_React_Testing_Library
+#hashtags: #JavaCommunity, #ProgrammingLanguage, #TechnologyEvent
 
 15 번째 검색 내용
-제목: 도커 데스크톱 4.39에서는 도커 스마트 AI 에이전트, CLI가 GA로 제공되고, 향상된 다양한 플랫폼 지원이 추가되었습니다.
-주소: https://www.infoq.com/news/2025/03/docker-desktop-4-39/
-설명: Docker는 Docker Desktop 4.39를 릴리즈했습니다. 이 버전에서는 Docker Smart AI Agent, Model Context Protocol(MCP)와 Kubernetes Integration을 포함하고 있으며, Docker Desktop CLI GA와 향상된 다양한 플랫폼 지원을 통해 사용자가 다양한 플랫폼 컨테이너 이미지를 관리하는데 더욱 편리하게 만들고 있습니다.
-#Docker #Desktop #컨테이너 #AI
+제목: [INST] 에어비앤비가 LLM을 활용하여 테스트 마이그레이션 속도 증가시키기
+[/INST]
+주소: https://www.infoq.com/news/2025/03/airbnb-llm-test-migration/
+설명: AI : 작업 흐름 자동화와 대규모 언어 모델의 적절한 조합으로 인해, Airbnb는 React Testing Library(RTL)을 채택하기 위해 코드베이스를 업데이트하는 과정을 크게 가속화했습니다. 그리고 Enzyme를 사용한 3.5K개의 React 테스트 파일을 거의 모두 RTL로 변환했습니다.
+#작업흐름자동화 #대규모언어모델 #Airbnb #ReactTestingLibrary
 
-#hashtags: #Docker, #Desktop, #컨테이너, #AI
+#hashtags:
+1. #AIandWorkflowAutomation
+2. #LargeLanguageModels
+3. #AirbnbCodebaseUpdate
 
