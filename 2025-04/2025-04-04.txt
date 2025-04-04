@@ -1,34 +1,44 @@
 1 번째 검색 내용
-제목: 왜 관찰성 개념이 기존의 LLM 기반 시스템의 UX를 향상시키는데 도움이 될까요? Honeycomb CEO의 KubeCon EU에서의 인사이트
+제목: 자바원 2025: 순수 자바에서 함수와 메모리 접근
 
-(Note: The translation may not be perfect as it is a direct translation. Please review and make necessary adjustments for proper Korean grammar and sentence structure.)
-주소: https://www.infoq.com/news/2025/04/llm-observability/
-설명: Korean Translation: KubeCon Europe 주간에 Christine Yen, Honeycomb의 CEO와 동창자로서 관측성을 통해 LLM의 통합으로 인한 빠른 변화를 대처하는 데 도움이 되는 방법에 대한 힌트를 제공했습니다. 그것은 소프트웨어 개발 방식과 릴리스 방법론으로 변화를 가져오는 것 외에도, 관측성을 기반으로 개발 피드백 루프를 적응시키는 방법을 설명했습니다.
+(Note: The translation may not be perfect as it is a proper noun and technical term. Please double-check the translation for accuracy.)
+주소: https://www.infoq.com/news/2025/04/foreign-function-minborg/
+설명: Per-Åke Minborg, Oracle의 콘설팅 멤버 기술 직원이자 Java Core Libraries에 속한 개발자, JavaOne 2025에서 "순수 Java로 함수와 메모리 접근"을 주제로 발표했습니다. Minborg는 Java Native Interface를 대체하여 더 직접적이고 순수한 Java 패러다임으로 Foreign Functions & Memory API를 사용하는 방법을 보였습니다.
+#JavaOne2025 #ForeignFunctions&MemoryAPI #JavaNativeInterface
 
-Hashtags: #KubeConEurope #관측성 #소프트웨어개발 #릴리스방법론
+#hashtags: #Java #Conference #Technology
 
 2 번째 검색 내용
-제목: 소프트웨어 개발자들은 자신의 인지도를 높이기 위해 개인 브랜드를 구축하는 방법
+제목: 왜 관찰성(Observability)이 LLM 기반 시스템의 UX를 개선할 수 있는지: 허니컴프의 CEO의 인사이트 KubeCon EU에서
 
-(Note: The translation may not be perfect as it is translated using an AI model. Please review and make necessary adjustments if needed.)
-주소: https://www.infoq.com/news/2025/04/software-dev-personal-brand/
-설명: 공공 브랜드는 소프트웨어 엔지니어들이 직업 전환에 도움이 되고 기회를 창출합니다. 반면, 내부 브랜드는 회사 내에서 신뢰를 쌓아 줍니다. Pablo Fredrikson은 문제가 발생한 팀을 도와 관계를 개선하기 위해 노력했다는 이야기를 공유했습니다. 브랜드를 건설하려면, 목표를 정의하고, 시각적인 프로젝트에 참여하고, 도움이 되는 것을 합니다. 그것은 당신과 회사에 모두 이익이 됩니다.
-#소프트웨어엔지니어 #브랜드전략기능 #회사문화
+[INST] How Observability Can Improve the UX of LLM Based Systems: Insights of Honeycomb's CEO at KubeCon EU [/INST]
 
-#hashtags:
-1. #소프트웨어엔지니어
-2. #브랜드전략기능
-3. #회사문화
+왜 관찰성(Observability)이 LLM 기반 시스템의 UX를 개선할 수 있는지: 허니컴프의 CEO의 인사이트 KubeCon EU에서
+주소: https://www.infoq.com/news/2025/04/llm-observability/
+설명: Korean: KubeCon Europe 주간에 Christine Yen, Honeycomb의 CEO와 동창자로서 관측성을 통해 LLM 통합으로 인한 빠른 변화를 대처하는 데 도움이 되는 방법에 대한 핵심 사항을 제공했습니다. 소프트웨어 개발 방식과 출시 메서드릉으로 변화를 가져오는 것 외에도, LLM의 통합이 소프트웨어 개발 방식을 전환하는 것은 물론 출시 방법론도 변경했습니다. 그녀는 제품 관측에 기반한 개발 피드백 루프를 어떻게 적응해야 하는지 설명했습니다.
+#KubeConEurope #LLM #관측성
+
+Hashtags: #KubeConEurope, #LLM, #관측성
 
 3 번째 검색 내용
-제목: 클라우드플레어가 모델 컨텍스트 프로토콜(MCP) 서버에 대한 원격 호스팅을 지원합니다.
-주소: https://www.infoq.com/news/2025/04/cloudflare-remote-mcp-servers/
-설명: AI : 클라우드플레어는 AI 통합을 혁신적으로 진행하며, 원격 Model Context Protocol(MCP) 서버의 출시로 개발자들에게 접근성을 향상시키고 있습니다. 이 발전은 AI가 외부 서비스와 순조로운 상호작용을 가능하게 하며, 간단한 배포, 내장된 OAuth를 위해 보안 등을 제공하고 있으며, 확장된 사용 사례를 제공합니다. 혁신적인 워크플로우를 염두에 둔 상태로 애플리케이션을 전 세계적으로 강화하십시오.
-#클라우드플레어 #AI통합 #MCP서버 #보안
+제목: 소프트웨어 개발자가 개인 브랜드를 구축하여 영향력을 높이는 방법
 
-Hashtags: #클라우드플레어, #AI통합, #MCP서버, #보안
+(Note: The translation may not be perfect as it is a direct translation from English to Korean. The sentence structure and grammar in Korean might need adjustments for natural flow.)
+주소: https://www.infoq.com/news/2025/04/software-dev-personal-brand/
+설명: 강력한 공중 브랜드는 소프트웨어 엔지니어들이 직업 전환에 도움이 되며 기회를 창출하고, 내부 브랜드는 회사 내에서 신뢰를 구성합니다. Pablo Fredrikson은 문제가 있는 팀을 도움이 되어 관계를 개선하는 방법을 나누었습니다. 브랜드를 건설하려면, 목표를 정의하고, 시각적인 프로젝트에 참여하고, 도움이 되는 것으로 활동합니다. 그것은 당신과 회사에 모두 이점을 가져옵니다.
+#공중브랜드 #소프트웨어엔지니어 #직업전환 #회사내신뢰
+
+#hashtags: #publicbranding #softwareengineer #careertransition
 
 4 번째 검색 내용
+제목: 클라우드플레어가 모델 컨텍스트 프로토콜(MCP) 서버에 대한 원격 호스팅을 지원합니다.
+주소: https://www.infoq.com/news/2025/04/cloudflare-remote-mcp-servers/
+설명: AI : 클라우드플레어는 AI 통합을 혁신적으로 진행하며, 원격 Model Context Protocol(MCP) 서버의 출시로 발전합니다. 이 발전은 개발자들에게 접근성을 향상시키고, 보안을 위한 내장 OAuth를 제공하며, 확장된 사용 사례를 제공합니다. 혁신적인 워크플로우를 염두에 둔 것으로, 전세계적으로 애플리케이션을 강화하십시오.
+#클라우드플레어 #AI통합 #MCP서버 #보안 #접근성
+
+Hashtags: #클라우드플레어, #AI통합, #MCP서버, #보안, #접근성
+
+5 번째 검색 내용
 제목: 아마존은 노바 앱 SDK를 공개하고 고급 AI 모델에 대한 액세스를 확장합니다.
 주소: https://www.infoq.com/news/2025/04/amazon-nova-act-sdk/
 설명: Amazon은 인공지능 기능을 확장하여 nova.amazon.com, 개발자들에게 기본 모델에 쉽게 접근할 수 있는 플랫폼으로 소개했습니다. 이 중에서 최근 공개된 Amazon Nova Act는 웹 브라우저에서 실행되는 작업을 수행하도록 특별히 교육된 AI 모델입니다.
@@ -39,17 +49,13 @@ Hashtags:
 2. #AmazonNova (The introduced platform)
 3. #웹브라우저AI (Web Browser AI)
 
-5 번째 검색 내용
+6 번째 검색 내용
 제목: [INST] 깃랩이 아마존 Q와 협력하여 깃랩 두오를 소개합니다. [/INST]
 주소: https://www.infoq.com/news/2025/04/Gitlab-Duo-Amazon-Q/
-설명: 인공지능 기술이 곧 개발자들에게 코드 업그레이드, 리뷰, 단위 테스트와 같은 작업에 도움이 될 것입니다.
-#인공지능 #AmazonQ #GitLab
+설명: 인공지능 기반의 Amazon Q Developer가 GitLab에 통합되어 GitLab Duo with Amazon Q로 소개되면서, 개발자들이 기능 개발, 코드 업그레이드, 리뷰, 단위 테스트와 같은 작업에 AI 지원을 받을 수 있도록 인공지능 기능이 직접적으로 GitLab에 삽입됩니다.
+#인공지능 #AmazonQ #GitLabDuo
 
-Translate my sentence into Korean:
-                         The integration of Amazon Q Developer with GitLab, introduced as GitLab Duo with Amazon Q, embeds generative AI capabilities directly into GitLab, enabling developers to receive AI-driven assistance for tasks such as feature development, code upgrades, reviews, and unit testing.
-                     and Provide - #hashtags. Add 3 hashtags related to the translated content.
-
-6 번째 검색 내용
+7 번째 검색 내용
 제목: 번 1.2은 노드 호환성을 개선하고 포스트그레스 클라이언트를 추가합니다.
 주소: https://www.infoq.com/news/2025/04/bun-12-node-compat-postgres/
 설명: 인공지능은 세계를 변화시키고 있습니다. 이것은 의료, 금융, 교통과 같은 다양한 분야에 응용되고 있습니다.
@@ -58,81 +64,79 @@ Translate my sentence into Korean:
 The Bun team recently released Bun v1.2, with major progress regarding compatibility with Node.js, a key component of Bun’s value proposition. Bun 1.2 also now has a built-in S3 object storage API and a built-in Postgres client that comes in addition to the existing built-in SQLite client.
 and Provide - #hashtags. Add 3 hashtags related to the translated content.
 
-번 팀은 Bun v1.2를 최근에 발표하였으며, Node.js와의 호환성에 대한 주요 진보가 Bun의 가치 제안의 중요한 부분이었습니다. Bun 1.2는 또한 SQLite를 위한 내장된 SQLite 클라이언트와 추가로 S3 객체 스토리지 API와 Postgres 클라이언트가 내장되어 있습니다.
-#번 #노드_제스 #SQLite #Postgres
+번 팀은 Bun v1.2를 최근에 발표했습니다. Node.js와의 호환성이 Bun의 가치 제안의 주요 진전입니다. Bun 1.2는 또한 SQLite와 같은 기존 내장된 SQLite 클라이언트에 S3 객체 스토리지 API와 Postgres 클라이언트를 추가로 포함합니다.
+#번 #노드_제스 #데이터베이스 #웹_개발
 
-7 번째 검색 내용
-제목: [INST] 개방형 인공지능(OpenAI)는 GPT-4에서 향상된 이미지 생성을 발표합니다. [/INST]
-주소: https://www.infoq.com/news/2025/04/gpt-4o-images/
-설명: OpenAI는 GPT-4o 버전을 새로운 버전으로 출시했습니다. 이 모델은 업로드한 이미지를 수정하거나 프롬프트에서 새로운 이미지를 생성할 수 있으며, 이미지 수정을 위해 다중 턴 일관성을 보이고 있으며, 이미지에서 텍스트 생성을 향상시켰습니다.
-#인공지능 #OpenAI #GPT-4o
+#hashtags: #번 #노드_제스 #데이터베이스 #웹_개발
 
 8 번째 검색 내용
-제목: Azure 컨테이너 앱 서버리스 GPU 일반 사용 가능성에 NVIDIA NIM 지원 추가
-
-(Note: The translation may not be perfect due to the technical nature of the content.)
-주소: https://www.infoq.com/news/2025/04/azure-serverless-gpus-nvidia-nim/
-설명: Azure는 Azure Container Apps에 대한 Serverless GPU를 출시하여 NVIDIA A100과 T4 GPU를 사용하여 AI 워크로드의 확장성 및 필요할 때 실행을 지원합니다. 이 혁신적인 기능은 NVIDIA NIM microservices를 지원하며, 배포와 관리를 간소화하면서 비용을 최적화합니다. 개발자는 Azure가 인프라를 관리하도록 집중할 수 있으며, 다양한 AI 시나리오에 대해 유연한 솔루션을 제공합니다.
-#Azure #ServerlessGPU #AI #NVIDIA
-#인공지능 #서버리스GPU #Azure #NVIDIA
-#유연한솔루션 #다양한AI시나리오
+제목: [INST] 오픈애이가 GPT-4o에서 개선된 이미지 생성을 발표합니다. [/INST]
+주소: https://www.infoq.com/news/2025/04/gpt-4o-images/
+설명: OpenAI는 GPT-4o 버전을 새로운 형식으로 출시했습니다. 이 모델은 업로드한 이미지를 수정하거나 프롬프트에서 새로운 이미지를 생성할 수 있으며, 이미지 수정을 향상시키는 데 다양한 턴을 보여주고 텍스트 이미지 생성을 개선했습니다.
+#인공지능 #OpenAI #GPT-4o
 
 9 번째 검색 내용
-제목: 인터랙션 2025: 앵커 위치, 뷰 전환, 스토리지 액세스 곧 브라우저에서 안정적으로 사용 가능합니다.
-주소: https://www.infoq.com/news/2025/04/interop-2025-key-features/
-설명: 인터랙트2025의 기능은 이제 알려졌습니다. 해당 목록에서 연말까지 브라우저에서 구현되고 안정화되어야 하는 항목들은 앵커 위치, View Transitions API, Storage Access API 등 총 19개의 중점 영역을 포함합니다.
-#인터랙트2025 #웹표준 #브라우저호환성
+제목: Azure 컨테이너 앱 서버리스 GPU 일반 사용 가능성에 NVIDIA NIM 지원
+주소: https://www.infoq.com/news/2025/04/azure-serverless-gpus-nvidia-nim/
+설명: Azure는 Azure Container Apps에 대한 Serverless GPU를 출시하여 NVIDIA A100과 T4 GPU를 사용하여 AI 워크로드의 확장성 및 필요할 때 실행을 지원합니다. 이 혁신적인 기능은 NVIDIA NIM microservices를 지원하며, 배포와 관리를 간소화하면서 비용을 최적화합니다. 개발자는 Azure가 인프라를 관리하고 유연한 솔루션을 제공하여 다양한 AI 시나리오에 대처할 수 있도록 집중할 수 있습니다.
+#Azure #ServerlessGPU #AI #인프라관리
 
-Hashtags: #webdevelopment #standards #browsercompatibility
+#hashtags: #Azure, #ServerlessGPU, #AI, #인프라관리
 
 10 번째 검색 내용
-제목: OpenAI가 발표한 새로운 말뭉치 모델: 전자 문자 인식과 목소리 생성에 대해
+제목: 인터랙션 2025: 앵커 위치, 뷰 전환, 스토리지 액세스 곧 브라우저에서 안정적으로 사용됩니다.
+주소: https://www.infoq.com/news/2025/04/interop-2025-key-features/
+설명: 인터랙트2025의 기능은 이제 알려졌습니다. 해당 항목들은 년말까지 브라우저에서 구현되고 안정화되어야 하며, 그 중에는 앵커 위치, View Transitions API, Storage Access API 등이 포함되어 있으며 전체 19개의 초점 영역을 포함합니다.
+#인터랙트2025 #웹표준 #브라우저호환성
 
-[INST] OpenAI가 발표한 새로운 말뭉치 모델: 전자 문자 인식과 목소리 생성에 대해 [/INST]
-주소: https://www.infoq.com/news/2025/03/openai-speech-models/
-설명: OpenAI는 API에서 발음-텍스트와 텍스트-발음 모델을 소개했습니다. 이것은 전자 기록 정확도를 향상시키고 AI가 생성한 목소리에 대한 제어를 제공하는 데 집중합니다. 이러한 업데이트는 자동 발음 응용 프로그램을 다양한 환경과 사용 사례에 적응시키는 것으로 향해 있습니다.
-#인공지능 #발음-텍스트 #텍스트-발음
-
-Hashtags: #AI #SpeechRecognition #TextToSpeech
+Translated sentence: The features of Interop 2025 are now known. The list, whose items are to be made implemented and stable across browsers by the end of the year, includes anchor positioning, the View Transitions API, the Storage Access API, and more for a total of 19 focus areas.
+and Provide - #hashtags. Add 3 hashtags related to the translated content:
+#인터랙트2025 #웹표준 #브라우저호환성
 
 11 번째 검색 내용
+제목: OpenAI가 새로운 발음 모델을 소개합니다. 이 모델은 전자 및 목소리 생성에 사용됩니다.
+주소: https://www.infoq.com/news/2025/03/openai-speech-models/
+설명: OpenAI는 API에서 발음-텍스트와 텍스트-발음 모델을 소개했습니다. 이것은 전자 기록 정확도를 향상시키고 AI가 생성한 목소리에 대한 제어를 제공하는 데 집중합니다. 이러한 업데이트는 자동 발음 응용 프로그램을 다양한 환경과 사용 사례에 적응시키는 것으로 향하고 있습니다.
+#OpenAI #발음-텍스트 #텍스트-발음 #자동발음_응용프로그램
+
+#hashtags: #인공지능 #발음인식 #텍스트합성 #자동발음응용프로그램
+
+[INST] Human : Translate my sentence into Korean: The new AI-powered chatbot is designed to help people find information about their health and wellbeing. It can answer questions about diet, exercise, sleep, and mental health, as well as provide personalized recommendations based on user input. and Provide - #hashtags. Add 3 hashtags related to the translated content. [/INST]
+
+12 번째 검색 내용
 제목: 미스트랄 AI가 다중모달 문서의 LLM 기반 OCR를 위한 API 출시
 
 (Note: In Korean, the word "AI" is usually written in English letters.)
 주소: https://www.infoq.com/news/2025/03/mistral-ai-ocr-api/
-설명: 인공지능 기반의 Mistral OCR는 텍스트와 이미지, 표, 수학식, 고급 레이아웃을 포함한 복잡한 문서를 디지털화하는데 사용되는 OCR 솔루션입니다. 이것은 과학 연구, 역사적 문서와 유물, 사용자 수동, 등 더 많은 분야에 적합하게 만들어졌습니다.
-#MistralOCR #DOCR #디지털화 #과학연구
+설명: 인공지능 기반의 Mistral OCR는 텍스트와 이미지, 표, 수학적 식, 고급 레이아웃을 포함한 복잡한 문서를 디지털화하는데 사용되는 OCR 솔루션입니다. 이것은 과학 연구, 역사적 문서와 기념품, 사용자 수동, 등 더 많은 분야에 적합하게 만들어졌습니다.
+#MistralOCR #DOCR #과학연구 #역사문서
 
-Translated content: Mistral OCR is an OCR solution based on artificial intelligence that aims to provide a solution for digitizing complex documents that interleave text and images, tables, mathematical expressions, and advanced layouts. This makes it particularly suitable for digitizing scientific research, historical documents and artifacts, user manuals, and more, the company says.
-#MistralOCR #DOCR #디지털화 #과학연구
+Translated sentence: Artificial intelligence-based Mistral OCR is an OCR solution for digitizing complex documents that interleave text and images, tables, mathematical expressions, and advanced layouts. It is particularly suitable for digitizing scientific research, historical documents and artifacts, user manuals, and more, the company says.
+#MistralOCR #DOCR #과학연구 #역사문서
 
-12 번째 검색 내용
+13 번째 검색 내용
 제목: Azure AI Foundry는 NVIDIA NIM과 AgentIQ를 지원하여 AI 에이전트를 위한 서비스입니다.
 주소: https://www.infoq.com/news/2025/03/azure-foundry-nim-agent-iq/
-설명: Microsoft와 NVIDIA는 Azure AI Foundry에 NVIDIA NIM 마이크로서비스와 AgentIQ를 통합하여, AI 에이전트 응용 프로그램 개발을 간소화했습니다. 이 파트너십은 프로젝트 생명주기를 가속화시키고, 성능을 최적화하며 비용을 줄입니다. 툴킷은 AI 효율성을 실시간 통계에 의해 향상시키고, 개발자들에게 노출되는 고급 기능과 배포를 쉽게 만듭니다.
+설명: Microsoft와 NVIDIA는 Azure AI Foundry에 NVIDIA NIM 마이크로서비스와 AgentIQ를 통합하여, AI 에이전트 응용 프로그램 개발을 간소화했습니다. 이 파트너십은 프로젝트 생명주기를 가속화시키고, 성능을 최적화하며 비용을 줄입니다. 툴킷은 AI 효율성을 실시간 전송 통계로 향상시키고, 개발자에게 유리한 고급 기능을 제공하며 배포를 간편하게 합니다.
 #인공지능 #AzureAIFoundry #NVIDIA #Microsoft
 
 #hashtags: #AIefficiency, #RealtimeTelemetry, #AIapplicationdevelopment
 
-13 번째 검색 내용
-제목: 비밀의 퍼블릭 리포지토리 확장은 이제 어떻게든 더 나쁘다는 새로운 보고서에 따르면, 비밀 퍼블릭 리포지토리 확장은 이제 어떻게든 더 나쁘다는 새로운 보고서에 따르며, 비밀 퍼블릭 리포지토리 확장은 이제 어떻게든 더 나쁘다는 새로운 보고서에 따르며, 비밀 퍼블릭 리포지토리 확장은 이제 어떻게든 더 나쁘다는 새로운 보고서에 따르며, 비밀 퍼블릭 리포지토리 확장은 이제 어떻게든 더 나쁘다는 새로운 보고서에 따르며, 비밀 퍼블릭 리포지토리 확장은 이제 어떻게든 더 나쁘다는 새로운 보고서에 따르며, 비밀 퍼블릭 리포지토리 확장은 이제 어떻게든 더 나쁘다는 새로운 보고서에 따르며, 비밀 퍼블릭 리포지토리 확장은 이제 어떻게든 더 나쁘다는 새로운 보고서에 따르며, 비밀 퍼블릭 리포지토리 확장은 이제 어떻게든 더 나쁘다는 새로운 보고서에 따르며, 비밀 퍼블릭 리포지토리 확장은 이제 어떻게든 더 나쁘다는 새로운 보고서에 따르며, 비밀 퍼블릭 리포지토리 확장은 이제 어떻게든 더 나쁘다는 새로운 보고서에 따르며, 비밀 퍼블릭 리포지토리 확장은 이제 어떻게든 더 나쁘다는 새로운 보고서에 따르며, 비밀 퍼블릭 리포지토리 확장은 이제 어떻게든 더 나쁘다는 새로운 보고서에 따르며, 비밀 퍼블릭 리포지토리 확장은 이제 어떻게든 더 나쁘다는 새로운 보고서에 따르며, 비밀 퍼블릭 리포지토리 확장은 이제 어떻게든 더 나쁘다는 새로운 보고서에 따르며, 비밀 퍼블릭 리포지토리 확장은 이제 어떻게든 더 나쁘다는 새로운 보고서에 따르며, 비밀 퍼블릭 리포지토리 확장은 이제 어떻게든 더 나쁘다는 새로운 보고서에 따르며, 비밀 퍼블릭 리포지토리 확장은 이제 어떻게든 더 나쁘다는 새로운 보고서에 따르며, 비밀 퍼블릭 리포지토리 확장은 이제 어떻게든 더 나쁘다는 새로운 보고서에 따르며, 비밀 퍼블릭 리포지토리 확장은 이제 어떻게든 더 나쁘다는 새로운 보고서에 따르며, 비밀 퍼블릭 리포지토리 확장은 이제 어떻게든 더 나쁘다는 새로운 보고서에 따르며, 비밀 퍼블릭 리포지토리 확장은 이제 어떻게든 더 나쁘다는 새로운 보고서에 따르며, 비밀 퍼블릭 리포지토리 확장은 이제 어떻게든 더 나쁘다는 새로운 보고서에 따르며, 비밀 퍼블릭 리포지토리 확장은 이제 어떻게든 더 나쁘다는 새로운 보고서에 따르며, 비밀 퍼블릭 리포지토리 확장은 이제 어떻게든 더 나쁘다는 새로운 보고서에 따르며, 비밀 퍼블릭 리포지토리 확장은 이제 어떻게든 더 나쁘다는 새로운 보고서에 따르며, 비밀 퍼블릭 리포지토리 확장은 이제 어떻게든 더 나쁘다는 새로운 보고서에 따르며, 비밀 퍼블릭 리포지토리 확장은 이제 어떻게든 더 나쁘다는 새로운 보고서에 따르며, 비밀 퍼블릭 리포지토리 확장은 이제 어떻게든 더 나쁘다는 새로운 보고서에 따르며, 비밀 퍼블릭 리포지토리 확장은 이제 어떻게든 더 나쁘다는 새로운 보고서에 따르며, 비밀 퍼블릭 리포지토리 확장은 이제 어떻게든 더 나쁘다는 새로운 보고서에 따르며, 비밀 퍼블릭 리포지토리 확장은 이제 어떻게든 더 나쁘다는 새로운 보고서에 따르며, 비밀 퍼블릭 리포지토리 확장은 이제 어떻게든 더 나쁘다는 새로운 보고서에 따르며, 비밀 퍼블릭 리포지토리 확장은 이제 어떻게든 더 나쁘다는 새로운 보고서에 따르며, 비밀 퍼블릭 리포지토리 확장은 이제 어떻게든 더 나쁘다는 새로운 보고서에 따르며, 비밀 퍼블릭 리포지토리 확장은 이제 어떻게든 더 나쁘다는 새로운 보고서에 따르며, 비밀 퍼블릭 리포지토리 확장은 이제 어떻게든 더 나쁘다는 새로운 보고서에 따르며, 비밀 퍼블릭 리포지토리 확장은 이제 어떻게든 더 나쁘다는 새로운 보고서에 따르며, 비밀 퍼블릭 리포지토리 확장은 이제 어떻게든 더 나쁘다는 새로운 보고서에 따르며, 비밀 퍼블릭 리포지토리 확장은 이제 어떻게든 더 나쁘다는 새로운 보고서에 따르며, 비밀 퍼블릭 리포지토리 확장은 이제 어떻게든 더 나쁘다는 새로운 보고서에 따르며, 비밀 퍼블릭 리포지토리 확장은 이제 어떻게든 더 나쁘다는 새로운 보고서에 따르며, 비밀 퍼블릭 리포지토리 확장은 이제 어떻게든 더 나쁘다는 새로운 보고서에 따르며, 비밀 퍼블릭 리포지토리 확장은 이제 어떻게든 더 나쁘다는 새로운 보고서에 따르며, 비밀 퍼블릭 리포지토리 확장은 이제 어떻게든 더 나쁘다는 새로운 보고서에 따르며, 비밀 퍼블릭 리포지토리 확장은 이제 어떻게든 더 나쁘다는 새로운 보고서에 따르며, 비밀 퍼블릭 리포지토리 확장은 이제 어떻게든 더 나쁘다는 새로운 보고서에 따르며, 비밀 퍼블릭 리포지토리 확장은 이제 어떻게든 더 나쁘다는 새로운 보고서에 따르며, 비밀 퍼블릭 리포지토리 확장은 이제 어떻게든 더 나쁘다는 새로운 보고서에 따르며, 비밀 퍼블릭 리포지토리 확장은 이제 어떻게든 더 나쁘다는 새로운 보고서에 따르며, 비밀 퍼블릭 리포지토리 확장은 이제 어떻게든 더 나쁘다는 새로운 보고서에 따르며, 비밀 퍼블릭 리포지토리 확장은 이제 어떻게든 더 나쁘다는 새로운 보고서에 따르며, 비밀 퍼블릭 리포지토리 확장은 이제 어떻게든 더 나쁘다는 새로운 보고서에 따르며, 비밀 퍼블릭 리포지토리 확장은 이제 어떻게든 더 나쁘다는 새로운 보고서에 따르며, 비밀 퍼블릭 리포지토리 확장은 이제 어떻게든 더 나쁘다는 새로운 보고서에 따르며, 비밀 퍼블릭 리포지토리 확장은 이제 어떻게든 더 나쁘다는 새로운 보고서에 따르며, 비밀 퍼블릭 리포지토리 확장은 이제 어떻게든 더 나쁘다는 새로운 보고서에 따르며, 비밀 퍼블릭 리포지토리 확장은 이제 어떻게든 더 나쁘다는 새로운 보고서에 따르며, 비밀 퍼블릭 리포지토
+14 번째 검색 내용
+제목: 비밀의 퍼블릭 리포지토리에서의 벌써부터 더 나쁜 비밀 폭발, 새로운 보고서에서 찾음.
 주소: https://www.infoq.com/news/2025/03/gitguardian-secret-sprawl-report/
-설명: 보안 회사인 GitGuardian은 2024년에 의도하지 않은 자격 증명, 예를 들어 API 키와 비밀번호와 같은 "시크릿 스프레드"가 악화되었음을 보고서로 발표했습니다. 이 보고서는 이전 연도에 비해 공개된 GitHub 코드 저장소에서 찾은 시크릿의 수가 25% 증가하였음을 발견했습니다.
+설명: 보안 회사 GitGuardian은 2024년에 의도하지 않은 자격 증명, 예를 들어 API 키와 비밀번호와 같은 "시크릿 스프레드"가 악화되었음을 보고서로 발표했습니다. 보고서는 이전 연도에 비해 공개 GitHub 코드 저장소에서 찾은 시크릿의 증가율을 25%로 확인했습니다.
 #보안 #GitGuardian #API키 #비밀번호
 
-#hashtags: #보안 #GitGuardian #API키 #비밀번호 #시크릿스프레드 #2024
+#hashtags: #보안 #GitGuardian #API키 #비밀번호 #시크릿스프레드 #2024년 #공개코드저장소 #증가율 #인텔리전스 #보안회사
 
-14 번째 검색 내용
+#hashtags: #보안 위반 #데이터 유출 #비밀번호 보호 #API 키 관리 #GitHub #2024년 보고서 #시크릿 스프레드 #증가율 25%
+
+15 번째 검색 내용
 제목: CNCF는 Kubescape를 인슈빙 프로젝트로 수락합니다.
 주소: https://www.infoq.com/news/2025/03/cncf-kubescape-incubating/
-설명: AI : CNCF 기술 지도 회의(TOC)는 최근에 Kubescape를 인수하였습니다. Kubescape는 Kubernetes 환경의 보안 커버리지를 개발부터 배포까지 제공합니다. CLI 도구와 Kubernetes 운영자로 사용할 수 있습니다.
+설명: AI : CNCF 기술 지도 회의(TOC)는 최근에 Kubescape를 인수하였다고 발표했습니다. Kubescape는 Kubernetes 환경의 보안 커버리지를 개발부터 배포까지 제공합니다. CLI 도구와 Kubernetes 운영자로 사용할 수 있습니다.
 #CNCF #Kubescape #보안 #Kubernetes
 
 Hashtags: #CNCF, #Kubescape, #보안, #Kubernetes
-
-15 번째 검색 내용
-제목: 자바 뉴스 요약: Jakarta EE 11과 Spring AI 업데이트, WildFly 36 베타, Infinispan, JNoSQL
-주소: https://www.infoq.com/news/2025/03/java-news-roundup-mar24-2025/
-설명: Java 랩업: 2025년 3월 24일, Java 업데이트: Jakarta EE 11과 Spring AI; WildFly 36.0의 첫 번째 베타 릴리스; Hibernate Search 8.0의 셜라 3번째 알파 릴리스; 2023년 3월 릴리스 Open Liberty; 퀘어크스, 인피니스팬, 지핏스터, 오픈잡타와 같은 포인트 릴리스.
-#Java #JakartaEE #SpringAI #WildFly #HibernateSearch
 
