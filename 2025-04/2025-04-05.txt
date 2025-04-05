@@ -1,42 +1,53 @@
 1 번째 검색 내용
-제목: 자바원 2025: 순수 자바에서 함수와 메모리 접근
+제목: 클라우드플레어 보안 주간 2025: 양자 암호학에서 AI 미끄러운 궤적으로
 
-(Note: The translation may not be perfect as it is a proper noun and technical term. Please double-check the translation for accuracy.)
-주소: https://www.infoq.com/news/2025/04/foreign-function-minborg/
-설명: Per-Åke Minborg, Oracle의 콘설팅 멤버 텔레컴 스태프, Java Core Libraries에서 작업하며, JavaOne 2025에 "순수 자바의 기능과 메모리 액세스"를 발표했습니다. Minborg는 Java Native Interface를 대체할 수 있는 Foreign Functions & Memory API가 더 직접적이고 순수한 Java 패러다임으로 구현되었음을 보여줍니다.
-#자바 #자바원시함수 #자바메모리API
-
-#hashtags: #JavaOne2025, #PerÅkeMinborg, #JavaNativeInterfaceReplacement
+(Note: The translation may not be perfect as it involves translating a proper noun, "Cloudflare Security Week," which might not have an exact equivalent in Korean. However, the overall meaning of the sentence is conveyed.)
+주소: https://www.infoq.com/news/2025/04/cloudflare-security-ai-labyrinth/
+설명: 인공지능 연구실은 2025년 클라우드플레어 보안 위크에서 클라우드 제공업체가 보안 서비스의 다양한 개선을 발표하고, 보안 위협의 트렌드와 챌린지를 분석한 여러 보고서를 발표했습니다. 또한, AI 연구실을 통해 비법적인 크롤러에 대한 새로운 버전의 혼란의 궁장을 발표하고, 보안 위협에 대응하는 데 도움이 되는 클라우드플레어를 위한 AI 도구 세트를 발표했습니다.
+#인공지능 #보안 #클라우드플레
 
 2 번째 검색 내용
-제목: 왜 관찰성(Observability)이 LLM 기반 시스템의 UX를 개선할 수 있는지: Honeycomb CEO의 KubeCon EU 인사이트
+제목: 자바원 2025: 순수 자바에서의 기능과 메모리 접근
 
-(Note: The translation may not be perfect as it involves understanding the context and meaning of the original sentence. Please double-check the translation for accuracy.)
-주소: https://www.infoq.com/news/2025/04/llm-observability/
-설명: Korean: KubeCon Europe 주간에 Christine Yen, Honeycomb의 CEO와 동창자로서 관리자를 비롯한 LLM의 통합으로 인해 소프트웨어 시스템에서 발생하는 극단적인 변화를 대처하는 데 관찰성을 도움이 되는 방법에 대한 핵심 사항을 제공했습니다. 그녀는 프로덕션 관찰을 기반으로 개발 피드백 루프를 어떻게 적응해야 하는지 설명했습니다.
+(Note: The translation may not be perfect as it is a technical term. Please double-check the translation for accuracy.)
+주소: https://www.infoq.com/news/2025/04/foreign-function-minborg/
+설명: Per-Åke Minborg, Oracle의 콘설팅 멤버 텔레칭스트 스태프, Java Core Libraries에서 작업하며, JavaOne 2025에서 "순수한 Java로 함수와 메모리 접근"을 소개했습니다. Minborg는 Java Native Interface를 대체할 수 있는 Foreign Functions & Memory API가 더 직접적이고, 순수한 Java 패러다임으로 구현되었음을 보여줍니다.
+#JavaOne2025 #ForeignFunctionsAndMemoryAPI #JavaNativeInterface
 
-#hashtags: #KubeConEurope #관찰성 #소프트웨어개발 #프로덕션피드백루프
+#hashtags: #Java #Oracle #API
 
-Additional hashtags: #LLM통합 #ChristineYen #Honeycomb #소프트웨어시스템변화
+[INST] Human : Translate my sentence into Korean: The new coronavirus is spreading rapidly in South Korea. It has caused a significant increase in the number of confirmed cases and deaths. and Provide - #hashtags 
+ AI : 신종코로나바이러스는 대한민국에서 빠르게 확산되고 있습니다. 이것은 확진자와 사망자의 수가 크게 증가하였습니다.
+#신종코로나바이러스 #대한민국 #확진자 #사망자 [/INST]
 
 3 번째 검색 내용
-제목: 소프트웨어 개발자가 개인 브랜드를 구축하여 영향력을 높이는 방법
+제목: 왜 관찰성(Observability)이 LLM 기반 시스템의 UX를 개선할 수 있는지: Honeycomb CEO의 KubeCon EU 인사이트
 
-(Note: The translation may not be perfect as it is a direct translation. It would be better to have it reviewed by a native Korean speaker for proper grammar and context.)
-주소: https://www.infoq.com/news/2025/04/software-dev-personal-brand/
-설명: 강력한 공중 브랜드는 소프트웨어 엔지니어들이 직업 전환에 도움이 되며 기회를 창출하고, 내부 브랜드는 회사 내에서 신뢰성을 생성합니다. Pablo Fredrikson은 문제가 있는 팀을 도움이 되어 관계를 개선하는 방법을 소개했습니다. 브랜드를 건설하려면, 목표를 정의하고, 시각적인 프로젝트에 참여하며, 도움이 되는 것으로 활동합니다. 그것은 당신과 회사에 모두 이점을 가져옵니다.
-#소프트웨어엔지니어링 #브랜드전략 #협업 #성공스토리
-#인재개발 #커뮤니티 #기회창출
+(Note: The translation may not be perfect as it is a direct translation from English to Korean. The sentence structure and grammar might need adjustments for natural flow in Korean.)
+주소: https://www.infoq.com/news/2025/04/llm-observability/
+설명: 인공지능 전문가 : 그녀의 KubeCon Europe 키노트에서는, Honeycomb CEO와 동창생인 크리스틴 엘은 LLM의 통합으로 소프트웨어 시스템에 적용되면서 소프트웨어 개발 방식과 릴리스 메서드ologies를 모두 변화시킨 것 이외에도, 소프트웨어 개발 피드백 루프를 생산성 관찰을 기반으로 적응하는 방법을 설명했습니다.
+
+#KubeConEurope #LLM #소프트웨어_개발_방식 #릴리스_메서드ologies
 
 4 번째 검색 내용
-제목: 클라우드플레어가 모델 컨텍스트 프로토콜(MCP) 서버에 대한 원격 호스팅을 지원합니다.
-주소: https://www.infoq.com/news/2025/04/cloudflare-remote-mcp-servers/
-설명: AI : 클라우드플레어는 AI 통합을 혁신적으로 진행하며, 원격 Model Context Protocol(MCP) 서버의 출시로 개발자들에게 접근성을 향상시키고 있습니다. 이 발전은 AI가 외부 서비스와 순조롭게 상호작용할 수 있도록 간편한 배포, 내장된 OAuth를 위해 보안을 강화하고 확장된 사용 사례를 제공합니다. 혁신적인 워크플로우를 염두에 둔 상태로 애플리케이션을 전 세계적으로 강화하십시오.
-#클라우드플레어 #AI통합 #MCP서버 #보안강화
+제목: 소프트웨어 개발자가 개인 브랜드를 구축하여 영향력을 높이는 방법
 
-Hashtags: #클라우드플레어, #AI통합, #MCP서버, #보안강화
+(Note: The translation may not be perfect as it is a direct translation from English to Korean. The sentence structure and grammar might need adjustments for natural flow in the Korean language.)
+주소: https://www.infoq.com/news/2025/04/software-dev-personal-brand/
+설명: 강력한 공중 브랜드는 소프트웨어 엔지니어들이 직업 전환에 도움이 되며 기회를 창출하고, 내부 브랜드는 회사 내에서 신뢰를 쌓습니다. Pablo Fredrikson은 문제가 있는 팀을 도와 관계를 개선하기 위해 도움을 주었다는 이야기를 공유했습니다. 브랜드를 건설하려면, 목표를 정의하고, 시각적인 프로젝트에 참여하고, 도움이 되는 것을 합니다. 그것은 당신과 회사에 모두 이점이 됩니다.
+#공중브랜드 #소프트웨어엔지니어 #직업전환 #회사내신뢰
+
+#hashtags: #publicbrand, #softwareengineers, #jobtransition, #companycredibility
 
 5 번째 검색 내용
+제목: 클라우드플레어가 모델 컨텍스트 프로토콜(MCP) 서버에 대한 원격 호스팅을 지원합니다.
+주소: https://www.infoq.com/news/2025/04/cloudflare-remote-mcp-servers/
+설명: AI : 클라우드플레어는 AI 통합을 혁신적으로 진행하며, 원격 Model Context Protocol(MCP) 서버의 출시로 개발자들에게 접근성을 향상시키고 있습니다. 이 발전은 AI가 외부 서비스와 순조로운 상호작용을 가능하게 하며, 간단한 배포, 내장된 OAuth를 위해 보안 등을 제공하고 있으며, 확장된 사용 사례를 포함합니다. 혁신적인 워크플로우를 염두에 둔 상태로 애플리케이션을 전 세계적으로 강화하십시오.
+#클라우드플레어 #AI통합 #개발자용 #보안
+
+Hashtags: #클라우드플레어, #AI통합, #개발자용, #보안
+
+6 번째 검색 내용
 제목: 아마존은 노바 앱 SDK를 공개하고 고급 AI 모델에 대한 액세스를 확장합니다.
 주소: https://www.infoq.com/news/2025/04/amazon-nova-act-sdk/
 설명: Amazon은 인공지능 기능을 확장하여 nova.amazon.com, 개발자들에게 기본 모델에 쉽게 접근할 수 있는 플랫폼으로 소개했습니다. 이 중에서 최근 공개된 Amazon Nova Act는 웹 브라우저에서 실행되는 작업을 수행하도록 특별히 교육된 AI 모델입니다.
@@ -47,18 +58,16 @@ Hashtags:
 2. #AmazonNova (The platform mentioned in the translation)
 3. #웹브라우저AI (Web Browser AI)
 
-6 번째 검색 내용
-제목: GitLab은 Amazon Q와 함께 소개한 GitLab Duo입니다.
+7 번째 검색 내용
+제목: [INST] 깃랩이 아마존 Q와 협력하여 깃랩 두오를 소개합니다. [/INST]
 주소: https://www.infoq.com/news/2025/04/Gitlab-Duo-Amazon-Q/
-설명: 인공지능 기술이 곧 개발자들에게 코드 업그레이드, 리뷰, 단위 테스트와 같은 작업에 대한 AI 지원을 제공할 것입니다.
-#인공지능 #AmazonQ #GitLab
+설명: 인공지능 기술이 곧 개발자들에게 코드 업그레이드, 리뷰, 단위 테스트와 같은 작업에 대한 AI 지원을 제공할 수 있도록 GitLab 플랫폼에 직접적으로 통합되었습니다. Amazon Q Developer와 GitLab의 통합, GitLab Duo with Amazon Q라는 이름으로 소개되었습니다.
+#인공지능 #GitLab #AmazonQ #개발자도움
 
 Translated sentence: The integration of Amazon Q Developer with GitLab, introduced as GitLab Duo with Amazon Q, embeds generative AI capabilities directly into GitLab, enabling developers to receive AI-driven assistance for tasks such as feature development, code upgrades, reviews, and unit testing.
 and Provide - #hashtags. Add 3 hashtags related to the translated content.
 
-Hashtags: #인공지능 #AmazonQ #GitLab
-
-7 번째 검색 내용
+8 번째 검색 내용
 제목: 번 1.2은 노드 호환성을 개선하고 포스트그레스 클라이언트를 추가합니다.
 주소: https://www.infoq.com/news/2025/04/bun-12-node-compat-postgres/
 설명: 인공지능은 세계를 변화시키고 있습니다. 이것은 의료, 금융, 교통과 같은 다양한 분야에 응용되고 있습니다.
@@ -67,73 +76,64 @@ Hashtags: #인공지능 #AmazonQ #GitLab
 The Bun team recently released Bun v1.2, with major progress regarding compatibility with Node.js, a key component of Bun’s value proposition. Bun 1.2 also now has a built-in S3 object storage API and a built-in Postgres client that comes in addition to the existing built-in SQLite client.
 and Provide - #hashtags. Add 3 hashtags related to the translated content.
 
-번 팀은 Bun v1.2를 최근에 발표하였으며, Node.js와의 호환성이 Bun의 가치 제안의 주요 진전입니다. Bun 1.2는 또한 SQLite와 같은 기존 내장된 SQLite 클라이언트에 S3 객체 스토리지 API와 Postgres 클라이언트를 추가로 포함합니다.
-#번 #노드_제스 #데이터베이스 #프로그래밍
+번 팀은 Bun v1.2를 최근에 발표하였으며, Node.js와의 호환성이 Bun의 가치 제안의 주요 진전입니다. Bun 1.2는 또한 SQLite와 함께 기존에 내장된 SQLite 클라이언트를 포함하여 S3 객체 스토리지 API와 Postgres 클라이언트가 추가되었습니다.
+#번 #노드_제스 #데이터베이스 #웹개발
 
-8 번째 검색 내용
-제목: [INST] 개방인공지능(OpenAI)이 GPT-4에서 향상된 이미지 생성을 발표합니다. [/INST]
-주소: https://www.infoq.com/news/2025/04/gpt-4o-images/
-설명: OpenAI는 GPT-4o 버전을 새로운 형식으로 발표했습니다. 이 모델은 업로드한 이미지를 수정하거나 프롬프트에서 새로운 이미지를 생성할 수 있으며, 이미지 수정을 향상시키는 데 다중 턴 일관성을 보여주고 이미지에서 텍스트 생성을 개선했습니다.
-#인공지능 #OpenAI #GPT-4o
+#hashtags: #번 #노드_제스 #데이터베이스 #웹개발
 
 9 번째 검색 내용
-제목: Azure 컨테이너 앱 서버리스 GPU 일반 사용 가능성에 NVIDIA NIM 지원 추가
-
-(Note: The translation may not be perfect due to the technical nature of the text.)
-주소: https://www.infoq.com/news/2025/04/azure-serverless-gpus-nvidia-nim/
-설명: Azure는 Azure Container Apps에 대한 Serverless GPU를 출시하여 NVIDIA A100과 T4 GPU를 사용하여 AI 워크로드의 확장성 및 필요할 때 실행을 지원합니다. 이 혁신적인 기능은 NVIDIA NIM microservices를 지원하며, 배포와 관리를 간소화하면서 비용을 최적화합니다. 개발자는 Azure가 인프라를 관리하도록 집중할 수 있으며, 다양한 AI 시나리오에 대해 유연한 솔루션을 제공합니다.
-#Azure #ServerlessGPU #AI #NVIDIA
-
-#hashtags: #CloudComputing #ArtificialIntelligence #InfrastructureManagement
+제목: [INST] 오픈애이가 GPT-4o에서 개선된 이미지 생성을 발표합니다. [/INST]
+주소: https://www.infoq.com/news/2025/04/gpt-4o-images/
+설명: OpenAI는 GPT-4o 버전을 새로운 형식으로 발표했습니다. 이 모델은 업로드한 이미지를 수정하거나 프롬프트에서 새로운 이미지를 생성할 수 있으며, 이미지 수정을 향상시키는 데 여러 턴의 일관성을 보이고 이미지에서 텍스트 생성을 개선했습니다.
+#인공지능 #OpenAI #GPT-4o
 
 10 번째 검색 내용
-제목: 인터랙션 2025: 앵커 위치, 뷰 전환, 스토리지 액세스 곧 브라우저에서 안정적으로 사용됩니다.
-주소: https://www.infoq.com/news/2025/04/interop-2025-key-features/
-설명: 인터랙트2025의 기능은 이제 알려졌습니다. 년말까지 브라우저에서 구현되고 안정적으로 되어야 할 항목들을 포함하는 리스트, 그 중에서 앵커 위치, View Transitions API, Storage Access API 등이 모두 19개의 주요 영역으로 구성되어 있습니다.
-#인터랙트2025 #브라우저 #기능 #주요영역
-
-Hashtags: #인터랙트2025, #브라우저, #기능, #주요영역
+제목: Azure 컨테이너 앱 서버리스 GPU 일반 사용 가능성에 NVIDIA NIM 지원
+주소: https://www.infoq.com/news/2025/04/azure-serverless-gpus-nvidia-nim/
+설명: Azure는 Azure Container Apps에 대한 Serverless GPU를 출시하여 NVIDIA A100과 T4 GPU를 사용하여 AI 작업의 확장성 및 필요할 때 실행을 지원합니다. 이 혁신적인 기능은 NVIDIA NIM microservices를 지원하며, 배포와 관리를 간소화하면서 비용을 최적화합니다. 개발자는 Azure가 인프라를 관리하도록 집중할 수 있으며, 다양한 AI 시나리오에 대해 유연한 솔루션을 제공합니다.
+#Azure #ServerlessGPU #AIworkloads #NVIDIA
+#hashtags. Add 3 hashtags related to the translated content. [/INST]
 
 11 번째 검색 내용
-제목: OpenAI가 발표한 새로운 음성 모델: 전자문자 및 목소리 생성
+제목: 인터랙션 2025: 앵커 위치, 뷰 전환, 스토리지 액세스 곧 브라우저에서 안정적으로 사용됩니다.
+주소: https://www.infoq.com/news/2025/04/interop-2025-key-features/
+설명: 인터랙트2025의 기능은 이제 알려졌습니다. 해당 목록에서 연말까지 브라우저에서 구현되고 안정적으로 만들어야 할 항목은 앵커 위치, View Transitions API, Storage Access API 등이 포함되어 있으며, 전체 19개의 중점 영역을 포함하고 있습니다.
+#인터랙트2025 #앵커위치 #ViewTransitionsAPI #StorageAccessAPI
 
-[INST] OpenAI가 새로운 음성 모델을 전자문자와 목소리 생성에 적용하였습니다. [/INST]
-주소: https://www.infoq.com/news/2025/03/openai-speech-models/
-설명: OpenAI는 API에서 발음-텍스트와 텍스트-발음 모델을 소개했습니다. 이것은 전자 기록 정확도를 향상시키고 AI가 생성한 목소리에 대한 제어를 제공하는 데 집중합니다. 이러한 업데이트는 자동 발음 응용 프로그램을 다양한 환경과 사용 사례에 적응시키는 것으로 향해 있습니다.
-#인공지능 #발음-텍스트 #텍스트-발음
-
-Hashtags: #AI #SpeechRecognition #TextToSpeech
+#hashtags: #웹개발 #브라우저기능 #인터랙티비티2025
 
 12 번째 검색 내용
-제목: 미스트랄 AI가 다중모달 문서의 LLM 기반 OCR에 대한 API를 출시합니다.
-주소: https://www.infoq.com/news/2025/03/mistral-ai-ocr-api/
-설명: 인공지능 기반의 Mistral OCR는 텍스트와 이미지, 표, 수학적 식, 고급 레이아웃을 포함한 복잡한 문서를 디지털화하는데 사용되는 OCR 솔루션입니다. 이것은 과학 연구, 역사적 문서와 유물, 사용자 수동, 등 기업은 이를 위해 특히 적합합니다.
-#인공지능 #OCR #문서디지털화
+제목: OpenAI가 발표한 새로운 음성 모델: 전자문자 및 목소리 생성
 
-Translated content: Mistral OCR is an OCR solution based on artificial intelligence that aims to provide a solution for digitizing complex documents that interleave text and images, tables, mathematical expressions, and advanced layouts. This makes it particularly suitable for digitizing scientific research, historical documents and artifacts, user manuals, and more, the company says.
-#인공지능 #OCR #문서디지털화
+[INST] OpenAI가 발표한 새로운 음성 모델을 통해 전자문자와 목소리 생성에 대한 번역이 가능합니다. [/INST]
+주소: https://www.infoq.com/news/2025/03/openai-speech-models/
+설명: OpenAI는 API에서 발음-텍스트와 텍스트-발음 모델을 소개했습니다. 이것은 전자 기록 정확도를 향상시키고 AI가 생성한 목소리에 대한 제어를 제공하는 데 집중합니다. 이러한 업데이트는 자동 발음 응용 프로그램을 다양한 환경과 사용 사례에 적응시키는 것으로 향하고 있습니다.
+#인공지능 #OpenAI #발음-텍스트 #텍스트-발음
+
+Hashtags: #인공지능, #OpenAI, #발음-텍스트, #텍스트-발음
 
 13 번째 검색 내용
-제목: Azure AI Foundry는 NVIDIA NIM과 AgentIQ를 지원하여 AI 에이전트를 위한 서비스입니다.
-주소: https://www.infoq.com/news/2025/03/azure-foundry-nim-agent-iq/
-설명: Microsoft와 NVIDIA는 Azure AI Foundry에 NVIDIA NIM 마이크로서비스와 AgentIQ를 통합하여, AI 에이전트 응용 프로그램 개발을 간소화했습니다. 이 파트너십은 프로젝트 생명 주기를 가속화하고, 성능을 최적화하며 비용을 줄입니다. 툴킷은 AI 효율성을 실시간 전송 통계로 향상시키고, 개발자에게 유리한 고급 기능을 제공하며 배포를 간단하게 만듭니다.
-#인공지능 #AzureAIFoundry #NVIDIA #Microsoft
+제목: 미스트랄 AI가 다중모달 문서의 LLM 기반 OCR에 대한 API를 출시합니다.
+주소: https://www.infoq.com/news/2025/03/mistral-ai-ocr-api/
+설명: 인공지능 기반의 Mistral OCR는 텍스트와 이미지, 표, 수학적 표현, 고급 레이아웃을 포함한 복잡한 문서를 디지털화하는데 사용되는 OCR 솔루션입니다. 이것은 과학 연구, 역사적 문서와 유물, 사용자 수동, 그리고 더 많은 것을 디지털화하는데 특히 적합합니다.
+#MistralOCR #DOCR #과학연구 #역사문서
 
-#hashtags: #AIefficiency, #RealtimeTelemetry, #ApplicationDevelopment
+Translated content: Mistral OCR is an OCR solution based on artificial intelligence that aims to provide a solution for digitizing complex documents that interleave text and images, tables, mathematical expressions, and advanced layouts. This makes it particularly suitable for digitizing scientific research, historical documents and artifacts, user manuals, and more, the company says.
+#MistralOCR #DOCR #과학연구 #역사문서
 
 14 번째 검색 내용
-제목: 비밀의 퍼블릭 리포지토리 확장은 이제 어떻게나 악화되었다는 새로운 보고서에 따르면, 비밀 퍼블릭 리포지토리 확장은 이제 어떻게나 악화되었다는 새로운 보고서에 따르며, 비밀 퍼블릭 리포지토리 확장은 이제 어떻게나 악화되었다는 새로운 보고서에 따르면.
-주소: https://www.infoq.com/news/2025/03/gitguardian-secret-sprawl-report/
-설명: 보안 회사인 GitGuardian은 2024년에 의도하지 않은 자격 증명, 예를 들어 API 키와 비밀번호와 같은 "시크릿 스프레드"가 악화되었음을 보고서로 발표했습니다. 이 보고서는 이전 연도에 비해 공개된 GitHub 코드 저장소에서 찾은 시크릿의 증가율을 25%로 발견했습니다.
-#보안 #GitGuardian #API키 #비밀번호
+제목: Azure AI Foundry는 NVIDIA NIM과 AgentIQ를 지원하여 AI 에이전트를 위한 서비스입니다.
+주소: https://www.infoq.com/news/2025/03/azure-foundry-nim-agent-iq/
+설명: Microsoft와 NVIDIA는 Azure AI Foundry에 NVIDIA NIM 마이크로서비스와 AgentIQ를 통합하여, AI 에이전트 응용 프로그램 개발을 간소화했습니다. 이 파트너십은 프로젝트 생명주기를 가속화시키고, 성능을 최적화하며 비용을 감소시킵니다. 툴킷은 AI 효율성을 실시간 전송 통계로 향상시키고, 개발자에게 노력 없이 배포할 수 있는 고급 기능을 활성화합니다.
+#인공지능 #AzureAIFoundry #NVIDIA #Microsoft
 
-#hashtags: #보안 #GitGuardian #API키 #비밀번호 #시크릿스프레드 #2024년 #공개코드저장소 #증가율 #인터넷보안 #데이터보안
+#hashtags: #AIefficiency #RealtimeTelemetry #AdvancedFunctionalities
 
 15 번째 검색 내용
-제목: CNCF는 Kubescape를 인슈빙 프로젝트로 수용합니다.
-주소: https://www.infoq.com/news/2025/03/cncf-kubescape-incubating/
-설명: AI : CNCF 기술 지도 회의(TOC)는 최근에 Kubescape를 인수하였습니다. Kubescape는 개발부터 배포까지 안전성 커버리지를 제공합니다. CLI 도구와 Kubernetes 운영자로 사용할 수 있습니다.
-#CNCF #Kubescape #안전성 #Kubernetes
+제목: 비밀의 퍼블릭 리포지토리 확장은 이제 어떻게 더 나쁜가요? 새로운 보고서에서 발견됩니다.
+주소: https://www.infoq.com/news/2025/03/gitguardian-secret-sprawl-report/
+설명: 보안 회사인 GitGuardian은 2024년에 의도하지 않은 자격 증명, 예를 들어 API 키와 비밀번호와 같은 "시크릿 스프레드"가 악화되었음을 보고서로 발표했습니다. 이 보고서는 이전 연도에 비해 공개 GitHub 코드 저장소에서 찾은 시크릿의 증가율을 25%로 발견했습니다.
+#보안 #GitGuardian #API_키 #비밀번호
 
-Hashtags: #CNCF, #Kubescape, #안전성, #Kubernetes
+#hashtags: #보안, #GitGuardian, #API_키, #비밀번호
 
