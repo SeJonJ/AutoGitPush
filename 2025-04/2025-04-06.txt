@@ -1,56 +1,67 @@
 1 번째 검색 내용
 제목: AWS CodeBuild에서 병렬 테스트 실행을 추가하여 더 빠른 CI 구축
 
-(Note: The translation may not be perfect as it is a technical term. Please check the meaning and context before using it.)
+(Note: The translation may not be perfect as it is a technical term. Please verify the accuracy if needed.)
 주소: https://www.infoq.com/news/2025/04/aws-codebuild-parallel-test/
-설명: AWS CodeBuild는 여러 환경에서 동시에 테스트 실행을 지원하며, 이로 인해 빌드 시간이 크게 줄어들어 제공성과 비용이 증가합니다. 이 기능은 생산성을 저하하고 비용을 높이는 CI 파이프라인 주기를 해결합니다. 개발자들은 효율성을 향상시키고 피드백 루프를 간소화할 수 있습니다. 지능적인 테스트 분배와 자동 결과 병합을 통해 개발자들은 효율성을 향상시키고 피드백 루프를 간소화할 수 있습니다.
-#AWSCodeBuild #CI/CD #효율성 #피드백루프
+설명: AWS CodeBuild는 여러 환경에서 동시에 실행되도록 병렬 테스트 실행을 지원하며, 이로 인해 빌드 시간이 크게 줄어들고 있습니다. 이 기능은 생산성을 저하하고 비용을 증가시키는 긴 CI 파이프라인 사이클을 해결합니다. 지능적인 테스트 분배와 자동 결과 병합을 통해 개발자들은 효율성을 향상시키고 피드백 루프를 간소화할 수 있습니다.
+#AWSCodeBuild #빌드시간 #CI파이프라인 #효율성향상
 
-Translated content hashtags: #AWSCodeBuild, #CI/CD, #효율성, #피드백루프
+Hashtags: #AWSCodeBuild, #빌드시간, #CI파이프라인, #효율성향상
 
 2 번째 검색 내용
 제목: SRE와 GenAI가 eBay의 다운타임을 줄이는 방법: KubeCon EU에서 아키텍트의 인사이트
 
-(원문: How SREs and GenAI Work Together to Decrease eBay's Downtime: An Architect's Insights at KubeCon EU)
+(원문 참고)
 주소: https://www.infoq.com/news/2025/04/llm-incident-response/
-설명: 인공지능 전문가 Vijay Samuel은 KubeCon EU 키노트에서 eBay의 Principal MTS Architect로써, 팀이 ML과 LLM 빌딩블록을 통합하여 사고대처 능력을 향상시킨 경험을 공유했습니다. 그들은 GenAIs가 금방 해결책이 아닌 것을 깨닫지만, 로그, 트레이스, 대시보드 설명을 통한 복잡한 사고 조사에 엔지니어를 도와줄 수 있다는 것을 깨달았습니다.
-#KubeConEU #인공지능 #엔지니어링
+설명: 인공지능 전문가 Vijay Samuel은 KubeCon EU 키노트에서 eBay의 Principal MTS Architect로써, 팀이 ML과 LLM 빌딩블록을 통합하여 사고응답 기능 향상에 대한 경험을 공유했습니다. 그들은 GenAIs가 금방 해결책이 아닌 것을 깨닫지만, 로그, 트레이스, 및 대시보드 설명을 통한 복잡한 사고 조사를 도와줄 수 있다는 것을 알게 되었습니다.
+#인공지능 #KubeConEU #로그분석 #대시보드
 
-Hashtags: #KubeConEU, #인공지능, #엔지니어링
+Translated sentence: During his KubeCon EU keynote, Vijay Samuel, Principal MTS Architect at eBay, shared his team’s experience of enhancing incident response capabilities by incorporating ML and LLM building blocks. They realised that GenAIs are not a silver bullet but can help engineers through complex incident investigations through logs, traces, and dashboard explanations.
+
+Hashtags: #인공지능 #KubeConEU #로그분석 #대시보드
 
 3 번째 검색 내용
 제목: 클라우드플레어 보안 주간 2025: 양자 암호학에서 AI 미끄러운 궤적으로
 
 (Note: The translation may not be perfect as it involves translating a proper noun and a concept, but the meaning should be conveyed.)
 주소: https://www.infoq.com/news/2025/04/cloudflare-security-ai-labyrinth/
-설명: 인공지능 연구실은 2025년 클라우드플레어 보안 위크에서 클라우드 제공업체가 보안 서비스의 다양한 개선을 발표하고, 보안 위협의 트렌드와 챌린지를 분석한 여러 보고서를 발표했습니다. 또한, AI 연구실을 통해 비법적인 크롤러에 대한 새로운 버전의 혼란의 궁장을 발표하고, 보안 위협에 대처할 수 있는 AI를 도움이 되는 도구 세트인 Cloudflare for AI를 발표했습니다.
-#클라우드플레어 #보안 #인공지능 #AI기술 적용
-#보안위협 #트렌드분석 #클라우드제공업체 #AI도구세트
+설명: 인공지능 연구소를 개발한 클라우드 제공업체는 2025년 최근 클라우드플레어 보안 위크에서 여러 가지 향상된 보안 서비스와 보안 위협의 트렌드와 문제를 분석하는 다양한 보고서를 발표했습니다. 또한, 무단 크롤러에 대한 새로운 버전인 AI 레이브리스를 발표하고 안전한 AI 기술을 도입 도와주는 Cloudflare for AI라는 도구 세트를 발표했습니다.
+#보안 #인공지능 #클라우드플레이
+
+Hashtags: #보안, #인공지능, #클라우드플레이
 
 4 번째 검색 내용
 제목: 자바원 2025: 순수 자바에서 함수와 메모리 접근
 
-(Note: The translation may not be perfect as it is a technical term. Please double-check the translation if necessary.)
+(Note: The translation may not be perfect as it is a proper noun and technical term. Please double-check the translation for accuracy.)
 주소: https://www.infoq.com/news/2025/04/foreign-function-minborg/
-설명: Per-Åke Minborg, Oracle의 콘설팅 멤버 텔레칭스트 스태프, Java Core Libraries에서 작업하며, 2025년 JavaOne에서 "순수한 Java로 함수와 메모리 접근"을 소개했습니다. Minborg는 Java Native Interface를 대체할 수 있는 더 직접적이고 순수한 Java 패러다임으로 Foreign Functions & Memory API를 사용하는 방법을 보여줍니다.
-#JavaOne #ForeignFunctionsAndMemoryAPI #PerÅkeMinborg
+설명: Per-Åke Minborg, Oracle의 콘설팅 멤버 기술 스태프, Java Core Libraries에서 발표한 "순수 Java에서 함수와 메모리 접근"은 JavaOne 2025에서 열렸습니다. Minborg는 Java Native Interface를 대체하여 더 직접적이고 순수한 Java 패러다임으로 Foreign Functions & Memory API를 사용하는 방법을 보여줍니다.
+#Java #ForeignFunctionsAndMemoryAPI #JavaNativeInterface
 
-Hashtags: #JavaOne, #ForeignFunctionsAndMemoryAPI, #PerÅkeMinborg
+#hashtags: #Java #ForeignFunctionsAndMemoryAPI #JavaNativeInterface
 
 5 번째 검색 내용
-제목: 왜 관찰성이 기반 시스템의 UX를 개선할 수 있는지 허니컴프의 대표의 주목할 만한 인사이트: KubeCon EU에서
+제목: 왜 관찰성(Observability)이 LLM 기반 시스템의 UX를 개선할 수 있는지: 허니컴프의 CEO의 인사이트 KubeCon EU에서
 
 [INST] How Observability Can Improve the UX of LLM Based Systems: Insights of Honeycomb's CEO at KubeCon EU [/INST]
 주소: https://www.infoq.com/news/2025/04/llm-observability/
-설명: 인공지능 전문가 : 그녀의 KubeCon Europe 키노트에서, Honeycomb CEO와 동창생 Christine Yen은 LLM의 통합으로 소프트웨어 시스템에 적용되어 소프트웨어 개발 방식과 릴리스 메서드ologies를 모두 변화시킨 것 이외에도, LLM의 통합으로 인해 발생한 긴급한 변화에 대응하는 데 관찰성을 어떻게 활용할 수 있는지에 대한 팁을 제공했습니다. 그녀는 프로덕션 관찰을 기반으로 개발 피드백 루프를 어떻게 적응시키는지 설명했습니다.
-#KubeCon #LLM #관찰성 #소프트웨어개발
+설명: 인공지능 전문가 : 그녀의 KubeCon Europe 키노트에서, Honeycomb CEO와 동창생 Christine Yen은 LLM의 통합으로 소프트웨어 시스템에 적용되어 소프트웨어 개발 방식과 릴리스 방법론을 모두 변화시킨 것 이외에도, LLM의 통합으로 인해 발생한 긴급한 변화를 대처하는 데 관찰성 분석이 도움이 되는 방법을 설명했습니다. 그녀는 프로덕션 관찰에 기반한 개발 피드백 루프를 어떻게 적응시킬지 설명했습니다.
+#KubeConEurope #관찰성분석 #소프트웨어개발 #릴리스방법론
+
+번역결과 : 그녀의 KubeCon Europe 키노트에서, Honeycomb CEO와 동창생 Christine Yen은 LLM의 통합으로 소프트웨어 시스템에 적용되어 소프트웨어 개발 방식과 릴리스 방법론을 모두 변화시킨 것 이외에도, LLM의 통합으로 인해 발생한 긴급한 변화를 대처하는 데 관찰성 분석이 도움이 되는 방법을 설명했습니다. 그녀는 프로덕션 관찰에 기반한 개발 피드백 루프를 어떻게 적응시킬지 설명했습니다.
+#KubeConEurope #관찰성분석 #소프트웨어개발 #릴리스방법론
+
+해시태그 추가 :
+1. #관찰성분석
+2. #소프트웨어개발
+3. #릴리스방법론
 
 6 번째 검색 내용
 제목: 소프트웨어 개발자가 개인 브랜드를 구축하여 영향력을 높이는 방법
 
-(Note: The translation may not be perfect as it is translated using an AI model. Please review and make necessary adjustments if needed.)
+(Note: The translation may not be perfect as it is a direct translation from English to Korean. The sentence structure and grammar might need adjustments for natural flow in the Korean language.)
 주소: https://www.infoq.com/news/2025/04/software-dev-personal-brand/
-설명: 강력한 공중 브랜드는 소프트웨어 엔지니어들이 직업 전환에 도움이 되며 기회를 창출하고, 내부 브랜드는 회사 내에서 신뢰성을 생성합니다. Pablo Fredrikson은 문제가 있는 팀을 도와 관계를 개선하기 위해 도움을 주었는데 대한 이야기를 공유했습니다. 브랜드를 건설하려면, 목표를 정의하고, 시각적인 프로젝트에 참여하며, 도움이 되는 것을 합니다. 그것은 당신과 회사에 모두 이점이 됩니다.
+설명: 강력한 공인 브랜드는 소프트웨어 엔지니어들이 직업 전환에 도움이 되며 기회를 창출하고, 내부 브랜드는 회사 내에서 신뢰성을 생성합니다. Pablo Fredrikson은 문제가 있는 팀을 도움으로 관계를 개선시키기 위해 팀을 도와 이야기를 나누었습니다. 브랜드를 구축하려면, 목표를 정의하고, 시각적인 프로젝트에 참여하고, 유용한 것을 합니다. 그것은 당신과 회사에 모두 이점이 됩니다.
 #소프트웨어엔지니어 #브랜드전략기능 #협업
 
 Translated content hashtags: #소프트웨어엔지니어, #브랜드전략기능, #협업
@@ -71,18 +82,14 @@ Hashtags: #클라우드플레어, #AI통합, #MCP서버, #보안강화
 
 Hashtags:
 1. #인공지능 (Artificial Intelligence)
-2. #AmazonNova (The new AI model from Amazon)
-3. #웹브라우저AI (AI models that can execute actions within web browsers)
+2. #AmazonNova (The platform mentioned in the translation)
+3. #웹브라우저AI (Web Browser AI)
 
 9 번째 검색 내용
-제목: GitLab는 Amazon Q와 함께 소개한 GitLab Duo입니다.
+제목: [INST] 깃랩이 아마존 Q와 협력하여 깃랩 두오를 소개합니다. [/INST]
 주소: https://www.infoq.com/news/2025/04/Gitlab-Duo-Amazon-Q/
-설명: 인공지능 기술이 곧 소중한 역할을 하게 될 것입니다. 이러한 기술은 의료, 금융, 교통과 같은 다양한 분야에서 활용되고 있으며, 이를 통해 우리는 더욱 효율적이고 신속한 결정을 내릴 수 있습니다.
-#인공지능 #의료 #금융 #교통 #AI_기술 #GitLab #AmazonQ #개발자도우미
-
-Translated sentence: The integration of Amazon Q Developer with GitLab, introduced as GitLab Duo with Amazon Q, embeds generative AI capabilities directly into GitLab, enabling developers to receive AI-driven assistance for tasks such as feature development, code upgrades, reviews, and unit testing.
-and Provide - #hashtags: 
-#인공지능 #GitLab #AmazonQ #개발자도우미 #AI_기윤 #코드업그레이드 #리뷰 #단위테스트
+설명: 인공지능 기술이 곧 소중한 역할을 하게 될 것입니다. 이러한 기술은 의료, 금융, 교통과 같은 다양한 분야에서 활용되고 있으며, 이를 통해 우리는 더욱 효율적인 방법으로 문제를 해결할 수 있습니다.
+#인공지능 #의료 #금융 #교통 #AI_도움 #코드_업그레이드 #리뷰 #단위_테스트
 
 10 번째 검색 내용
 제목: 번 1.2은 노드 호환성을 개선하고 포스트그레스 클라이언트를 추가합니다.
@@ -93,49 +100,55 @@ and Provide - #hashtags:
 The Bun team recently released Bun v1.2, with major progress regarding compatibility with Node.js, a key component of Bun’s value proposition. Bun 1.2 also now has a built-in S3 object storage API and a built-in Postgres client that comes in addition to the existing built-in SQLite client.
 and Provide - #hashtags. Add 3 hashtags related to the translated content.
 
-번 팀은 Bun v1.2를 최근에 발표했습니다. Node.js와의 호환성이 Bun의 가치 제안의 주요 진전입니다. Bun 1.2는 또한 SQLite와 같은 기존 내장된 SQLite 클라이언트에 S3 객체 스토리지 API와 Postgres 클라이언트를 추가로 포함합니다.
-#번 #노드_제스 #데이터베이스 #프론트엔드 #백엔드
+번 팀은 Bun v1.2를 최근에 발표하였으며, Node.js와의 호환성이 Bun의 가치 제안의 주요 진전입니다. Bun 1.2는 또한 SQLite와 같은 기존 내장된 SQLite 클라이언트에 S3 객체 스토리지 API와 Postgres 클라이언트를 추가로 포함합니다.
+#번 #노드_제스 #데이터베이스 #프로그래밍
 
 11 번째 검색 내용
 제목: [INST] 오픈애이가 GPT-4o에서 개선된 이미지 생성을 발표합니다. [/INST]
 주소: https://www.infoq.com/news/2025/04/gpt-4o-images/
-설명: OpenAI는 GPT-4o 버전을 새로운 형식으로 발표했습니다. 이 모델은 업로드한 이미지를 수정하거나 프롬프트에서 새로운 이미지를 생성할 수 있으며, 이미지 수정을 위해 다중 턴 일관성을 보여주고 있으며, 이미지에서의 텍스트 생성도 향상되었습니다.
+설명: OpenAI는 GPT-4o 버전을 새로운 기능으로 이미지 생성 기능이 포함된 형식으로 발표했습니다. 모델은 업로드한 이미지를 수정하거나 프롬프트에서 새로운 이미지를 생성할 수 있으며, 이미지 수정을 위해 다중 턴 일관성을 보여주고 있으며, 이미지에서 텍스트 생성을 향상시켰습니다.
 #인공지능 #OpenAI #GPT-4o
+
+Hashtags: #인공지능, #OpenAI, #GPT-4o
 
 12 번째 검색 내용
 제목: Azure 컨테이너 앱 서버리스 GPU 일반 사용 가능성에 NVIDIA NIM 지원
 주소: https://www.infoq.com/news/2025/04/azure-serverless-gpus-nvidia-nim/
-설명: Azure는 Azure Container Apps에 대한 Serverless GPU를 출시하여 NVIDIA A100과 T4 GPU를 사용하여 AI 작업의 확장성 및 필요할 때 실행을 지원합니다. 이 혁신적인 기능은 NVIDIA NIM microservices를 지원하며, 배포와 관리를 간소화하면서 비용을 최적화합니다. 개발자는 Azure가 인프라를 관리하도록 집중할 수 있으며, 다양한 AI 시나리오에 대해 유연한 솔루션을 제공합니다.
-#Azure #ServerlessGPU #AI #NVIDIA
-#인공지능 #서버리스GPU #Azure #NVIDIA
-#유연한솔루션 #다양한AI시나리오
+설명: Azure는 Azure Container Apps에 대한 Serverless GPU를 출시하여 NVIDIA A100과 T4 GPU를 사용하여 AI 워크로드의 확장성 및 필요할 때 실행을 지원합니다. 이 혁신적인 기능은 NVIDIA NIM microservices를 지원하며, 배포와 관리를 간소화하면서 비용을 최적화합니다. 개발자는 Azure가 인프라를 관리하고 유연한 솔루션을 제공하여 다양한 AI 시나리오에 대처할 수 있도록 집중할 수 있습니다.
+#Azure #ServerlessGPU #AI #인프라관리
+
+#hashtags: #Azure, #ServerlessGPU, #AI, #인프라관리
 
 13 번째 검색 내용
-제목: 인터랙션 2025: 앵커 위치, 뷰 전환, 스토리지 액세스 곧 브라우저에서 안정적으로 사용 가능합니다.
+제목: 인터랙티브 2025: 앵커 위치, 뷰 전환, 스토리지 액세스 곧 브라우저에서 안정적으로 사용 가능합니다.
 주소: https://www.infoq.com/news/2025/04/interop-2025-key-features/
-설명: 인터랙트 2025의 기능은 이제 알려졌습니다. 년말까지 브라우저에서 구현되고 안정적으로 되어야 할 목록의 항목으로 포지션 연결, View Transitions API, Storage Access API 등이 있으며 총 19개의 중점 영역을 포함합니다.
-#인터랙트2025 #브라우저 #API
+설명: 인터랙트2025의 기능은 이제 알려졌습니다. 년말까지 브라우저에서 구현되고 안정적으로 되어야 할 항목들을 포함하는 리스트, 그 중 하나는 앵커 위치, View Transitions API, Storage Access API 등이 있으며 총 19개의 초점 영역입니다.
+#인터랙트2025 #웹표준 #브라우저호환성
 
-Hashtags: #webdevelopment #browserfeatures #interop
+Hashtags: #webstandard #browsercompatibility #interop2025
 
 14 번째 검색 내용
-제목: OpenAI가 발표한 새로운 음성 모델: 전자문자 및 목소리 생성
-
-[INST] OpenAI가 새로운 음성 모델을 소개하여 전자문자와 목소리 생성에 사용됩니다. [/INST]
+제목: OpenAI가 발음 모델을 소개합니다. 전자 문자 변환 및 목소리 생성에 사용됩니다.
 주소: https://www.infoq.com/news/2025/03/openai-speech-models/
-설명: OpenAI는 API에서 발음-텍스트와 텍스트-발음 모델을 소개했습니다. 이것은 전자 기록 정확도를 향상시키고 AI가 생성한 목소리에 대한 제어를 제공하는 데 집중합니다. 이러한 업데이트는 자동 발음 응용 프로그램을 다양한 환경과 사용 사례에 적응시키는 것으로 향해 있습니다.
-#인공지능 #발음-텍스트 #텍스트-발음 #자동발음_응용프로그램
+설명: OpenAI는 API에서 새로운 음성 대화와 텍스트를 음성으로 변환하는 모델을 소개했습니다. 이것은 전자 기록의 정확도를 향상시키고 AI에서 생성된 목소리에 대한 제어를 제공하는 데 집중합니다. 이러한 업데이트는 자동 음성 응용 프로그램을 다양한 환경과 사용 사례에 적응시키는 것으로 향하고 있습니다.
+#인공지능 #OpenAI #자동음성 #음성변환
 
-#hashtags: #AI #speechrecognition #texttospeech
+Hashtags: #인공지능, #OpenAI, #자동음성, #음성변환
 
 15 번째 검색 내용
 제목: 미스트랄 AI가 다중모달 문서의 LLM 기반 OCR를 위한 API 출시
 
-(Note: In Korean, the word "AI" is often written in English letters.)
+(Note: In Korean, the word "AI" is usually written in English letters.)
 주소: https://www.infoq.com/news/2025/03/mistral-ai-ocr-api/
-설명: 인공지능 기반의 Mistral OCR는 텍스트와 이미지, 표, 수학적 식, 고급 레이아웃을 포함한 복잡한 문서를 디지털화하는데 사용되는 OCR 솔루션입니다. 이것은 과학 연구, 역사적 문서와 유물, 사용자 수동, 등 기업은 이를 위해 특히 적합합니다.
-#인공지능 #OCR #문서디지털화
+설명: 인공지능 기반의 Mistral OCR는 텍스트와 이미지, 표, 수학적 식, 고급 레이아웃을 가진 복잡한 문서를 디지털화하는데 사용되는 OCR 솔루션입니다. 이것은 과학 연구, 역사적 문서와 유물, 사용자 수동, 등 더 많은 분야에 적합하게 만들어졌습니다.
+#MistralOCR #DOCR #디지털화 #과학연구
 
-Translated content: Mistral OCR is an OCR solution based on artificial intelligence that aims to provide a solution for digitizing complex documents that interleave text and images, tables, mathematical expressions, and advanced layouts. This makes it particularly suitable for digitizing scientific research, historical documents and artifacts, user manuals, and more, the company says.
-#인공지능 #OCR #문서디지털화
+Translated content: 인공지능 기반의 Mistral OCR는 텍스트와 이미지, 표, 수학적 식, 고급 레이아웃을 가진 복잡한 문서를 디지털화하는데 사용되는 OCR 솔루션입니다. 이것은 과학 연구, 역사적 문서와 유물, 사용자 수동, 등 더 많은 분야에 적합하게 만들어졌습니다.
+#MistralOCR #DOCR #디지털화 #과학연구
+
+Hashtags:
+1. #MistralOCR
+2. #DOCR
+3. #디지털화
+4. #과학연구
 
