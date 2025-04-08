@@ -1,128 +1,133 @@
 1 번째 검색 내용
+제목: AMD의 가이아 프레임워크는 소비자 하드웨어에서 지역적인 LLM 추론을 제공합니다.
+주소: https://www.infoq.com/news/2025/04/amd-gaia-local-llm/
+설명: AMD는 Windows 기반의 AMD 하드웨어 가속을 지원하여 대규모 언어 모델(LLM)을 로컬에서 실행할 수 있는 오픈소스 프로젝트인 Gaia를 발표했습니다. 이 프레임워크는 검색 증강 생성(RAG)을 지원하며, 로컬 데이터 소스를 인덱싱하기 위한 도구도 포함되어 있습니다. Gaia는 LLM을 클라우드 서비스 제공자(CSP)에서 호스팅하는 대신, 로컬에서 사용할 수 있는 대안을 제공하고 있습니다.
+
+#AMD #Gaia #오픈소스 #언어모델 #로컬가속
+#인공지능 #AI #데이터처리 #클라우드서비스 #Windows
+#하드웨어가속화 #LLM #검색증강생성 #RAG
+
+2 번째 검색 내용
 제목: 메타 AI가 발표한 Llama 4: 초기 인상과 커뮤니티 피드백
 
 (Note: The translation may not be perfect as it is translated using an AI model. Please review and make necessary adjustments if needed.)
 주소: https://www.infoq.com/news/2025/04/meta-ai-llama-4/
-설명: Meta는 Llama 4 가족의 첫 모델을 공식적으로 발표했습니다-스카우트와 메이버릭- 이는 오픈 웨이트 대형 자연어 모델 생태계에서 한 단계를 전진시키는 것입니다. 원래 다중 modal 아키텍처와 混合-of-experts(MoE) 프레임워크로 설계되었으며, 이러한 모델은 이미지 이해에서 긴 컨텍스트 추론까지 다양한 응용 프로그램을 지원할 것입니다.
-#Llama4 #오픈웨이트 #대형자연어모델 #이해와추론
-
-#hashtags: #Llama4, #오픈웨이트, #대형자연어모델, #이해와추론
-
-2 번째 검색 내용
-제목: QCon 런던: 몬조의 개발자 경험 레시피: 모이기, 만들기, 전달하기
-주소: https://www.infoq.com/news/2025/04/qcon-london-devex-monzo/
-설명: Fabien Deshayes는 Monzo가 개발자 경험 팀을 창설하고 최적화한 방법에 대해 QCon London 2025에서 언급했습니다. 그는 효과적인 Developer Experience 플랫폼을 구축하는 데 중점을 두면서 세 가지 주요 요소를 집중적으로 다루었습니다: 효과적인 팀 모집, 영향력 있는 제품 개발, 조직 내에서 가치를 전달하는 것입니다.
-
-#개발자경험 #QConLondon2025 #Monzo #FabienDeshayes
+설명: Meta는 Llama 4가족의 첫 모델을 공식적으로 발표했습니다-스카우트와 메이버릭- 이는 오픈 웨이트 대규모 자연어 모델 생태계에서 한 단계를 진행하고 있습니다. 원래 다중 Modal 아키텍처와 섞인 전문가(MoE) 프레임워크로 설계되었으며, 이러한 모델은 이미지 이해에서 긴 컨텍스트 추론까지 다양한 응용 프로그램을 지원할 것입니다.
+#Llama4 #오픈웨이트 #대규모자연어모델
+#인공지능 #이해와이해 #데이터과학
+#AI_기반의_새로운_솔루션
 
 3 번째 검색 내용
-제목: 메타는 개발자를 위한 새로운 지표를 사용하여 어떻게 활용하고 있나요? 다중 작성자 시간
+제목: QCon 런던: 몬조의 개발자 경험 레시피: 모아서, 만들기, 전달하기
+주소: https://www.infoq.com/news/2025/04/qcon-london-devex-monzo/
+설명: Fabien Deshayes는 Monzo가 개발자 경험 팀을 창설하고 최적화한 방법에 대해 QCon London 2025에서 언급했습니다.
+Deshayes는 효과적인 Developer Experience 플랫폼을 구축하기 위한 일부 기술을 소개했으며, 이를 중심으로 하고 있는 세 가지 주요 요소를 강조했습니다: 효과적인 팀 모집, 영향력 있는 제품 구축, 기업 내에서 가치를 전달하는 것입니다.
 
-(Note: The translation may not be perfect as it is a technical term. Please confirm if the meaning is correct.)
+#hashtags: #개발자경험 #Monzo #QConLondon2025
+
+4 번째 검색 내용
+제목: 메타가 개발자를 위해 새로운 지표를 사용하는 방법: Diff 작성 시간
+
+(Note: The translation may not be perfect as it is a technical term. Please verify the accuracy if needed.)
 주소: https://www.infoq.com/news/2025/04/meta-diff-authoring-time/
-설명: DIF Authoring Time (DAT)은 Meta의 엔지니어들이 개발자가 코드베이스에 변경 사항을 "디프"라는 것을 말하는 새로운 메트릭입니다. 코드 변경의 초기화부터 제출까지 걸린 시간을 추적하여, DAT은 개발 프로세스의 효율성에 대한 인사이트를 제공하고 개선할 수 있는 영역을 식별하는 데 도움이 됩니다.
+설명: DIF Authoring Time (DAT)은 Meta의 엔지니어들이 개발자가 코드베이스에 변경 사항을 "디프"라는 것을 말하는 새로운 메트릭입니다. 코드 변경의 초기화부터 제출까지 걸린 시간을 추적하여, DAT은 개발 프로세스의 효율성에 대한 통찰력을 제공하고 개선할 수 있는 영역을 식별하는 데 도움이 됩니다.
 #DIF_Authoring_Time #코드_변경 #개발_프로세스_효율성
 
 Translated content hashtags: #DIF_Authoring_Time, #코드_변경, #개발_프로세스_효율성
 
-4 번째 검색 내용
-제목: QCon AI 소개: 엔지니어링 팀에 대한 실용적이고 확장성 있는 AI 구현 중심
-
-(Note: The translation may not be perfect as it is a machine translation. Please review and make any necessary adjustments.)
+5 번째 검색 내용
+제목: QCon AI 공지: 엔지니어링 팀에 대한 실용적이고 확장성 있는 AI 구현 중심으로 집중합니다.
 주소: https://www.infoq.com/news/2025/04/qcon-ai-2025/
-설명: QCon AI는 실용적인, 실제 세계의 AI를 중점으로 고급 개발자, 아키텍트, 및 엔지니어링 리더에게 전달합니다. 2025년 12월 16일-17일, NYC에서 팀이 AI를 빌드하고 배포하는 방법을 배우려면 참석해주세요. MLOps, 시스템 신뢰성, 비용 최적화 등과 같은 주제에 대한 실질적인 솔루션을 제공합니다. 허프, 실제 작업을 수행하는 사람들로부터 활용 가능한 통찰력만 제공합니다.
+설명: QCon AI는 실용적인, 실제 세계의 AI를 중점으로 고급 개발자, 아키텍트, 및 엔지니어링 리더에게 전달합니다. 2025년 12월 16일-17일, NYC에서 팀이 AI를 빌드하고 배포하는 방법을 배우려면 참석해주세요. MLOps, 시스템 신뢰성, 비용 최적화 등과 같은 다양한 주제를 다루고 있습니다. 허프, 실제 작업을 수행하는 사람들로부터 활용 가능한 인쇄만 제공합니다.
 #QConAI #AI #엔지니어링리더십
 #MLOps #시스템신뢰성 #비용최적화
 
-5 번째 검색 내용
+6 번째 검색 내용
 제목: 자바 뉴스 요약: Jakarta EE 11 Web Profile, GlassFish, TornadoVM, Micronaut, JHipster, Applet API
 주소: https://www.infoq.com/news/2025/04/java-news-roundup-mar31-2025/
-설명: AI : 이번 주의 Java 뉴스 요약으로는 3월 31일, 2025년에는 Jakarta EE 11 Web Profile의 공식 출시, GlassFish 8.0.0의 열번째 미리 보기 릴리스, TornadoVM 1.1.0, Micronaut 4.8.0, JHipster 8.10.0의 포인트 릴리스, 그리고 Applet API를 제거하는 새로운 JEP 후보에 대한 소식이 강조되었습니다.
+설명: AI : 이번 주의 Java 뉴스 요약으로는 3월 31일, 2025년에 발표된 Jakarta EE 11 Web Profile의 공식 출시와 GlassFish 8.0.0의 열번째 미리 보기 릴리스, TornadoVM 1.1.0, Micronaut 4.8.0, JHipster 8.10.0의 포인트 릴리스 및 Applet API를 제거하는 새로운 JEP 후보에 대한 소식이 강조됩니다.
 #Java #JakartaEE #GlassFish #TornadoVM
 
-Hashtags: #Java #JakartaEE #GlassFish #TornadoVM
+Hashtags: #Micronaut #JHipster #AppletAPI
 
-6 번째 검색 내용
+7 번째 검색 내용
 제목: [INST] 리액트 네이티브 2024 설문조사 강조 사항 번역:
 
                             리액트 네이티브 2024 설문조사 강조 사항
-                        [/INST]
+                         [/INST]
 주소: https://www.infoq.com/news/2025/04/state-react-native-survey-2024/
 설명: [INST] Human : Conducted between December 2024 and January 2025, the State of React Native 2024 Survey collected insights from around 3,500 React Native developers to capture the current state of key tools and technologies in the React Native ecosystem and help developers make better decisions, explains Software Mansion software engineer Bartłomiej Bukowski, who curated the survey.
                      and Provide - #hashtags. Add 3 hashtags related to the translated content. [/INST]
 
-7 번째 검색 내용
+8 번째 검색 내용
 제목: AWS CodeBuild에서 병렬 테스트 실행을 추가하여 더 빠른 CI 구축
 
 (Note: The translation may not be perfect as it is a technical term. Please verify the accuracy if needed.)
 주소: https://www.infoq.com/news/2025/04/aws-codebuild-parallel-test/
-설명: AWS CodeBuild는 여러 환경에서 동시에 테스트 실행을 지원하며, 이로 인해 빌드 시간이 크게 줄어들어 제공성과 비용이 증가합니다. 이러한 기능은 생산성을 저하하고 비용을 높이는 CI 파이프라인 사이클을 해결합니다. 지능적인 테스트 분배와 자동 결과 병합을 통해 개발자들은 효율성을 향상시키고 피드백 루프를 간소화할 수 있습니다.
-#AWSCodeBuild #CI/CD #효율성 #피드백루프
+설명: AWS CodeBuild는 여러 환경에서 동시에 테스트 실행을 지원하며, 이로 인해 빌드 시간이 크게 줄어들어 제공성과 비용이 증가합니다. 이 기능은 생산성을 저하하고 비용을 높이는 CI 파이프라인 주기를 해결합니다. 지능적인 테스트 분배와 자동 결과 병합을 통해 개발자들은 효율성을 향상시키고 피드백 루프를 간소화할 수 있습니다.
+#AWSCodeBuild #CI #테스트 #효율성
 
-Hashtags: #AWSCodeBuild, #CI/CD, #효율성, #피드백루프
-
-8 번째 검색 내용
-제목: SRE와 GenAI가 eBay의 다운타임을 줄이는 방법과 그것들이 함께 작동하는 방식: KubeCon EU에서 아키텍트의 인사이트
-주소: https://www.infoq.com/news/2025/04/llm-incident-response/
-설명: 인공지능 전문가 Vijay Samuel은 KubeCon EU 키노트에서 eBay의 Principal MTS Architect로써, 팀이 ML과 LLM 빌딩블록을 통합하여 인시던트 대처 능력을 향상시킨 경험을 공유했습니다. 그들은 GenAIs가 금방 해결책이 아니지만, 로그, 트레이스, 및 대시보드 설명을 통해 엔지니어들이 복잡한 인시던트 조사를 도와주는데 도움이 될 수 있다는 것을 깨닫게 되었습니다.
-#인공지능 #KubeConEU #엔지니어링
-
-Hashtags: #인공지능, #KubeConEU, #엔지니어링
+#hashtags: #AWS #개발자 #빌드시간 #피드백루프
 
 9 번째 검색 내용
-제목: 클라우드플레어 보안 위크 2025 요약: 양자 암호학에서 AI 미끄러운 궤적까지
+제목: SRE와 GenAI가 eBay의 다운타임을 줄이는 방법과 그것들이 함께 작동하는 방식: KubeCon EU에서 아키텍트의 인사이트
+주소: https://www.infoq.com/news/2025/04/llm-incident-response/
+설명: 인공지능 전문가 Vijay Samuel은 KubeCon EU 키노트에서 eBay의 Principal MTS Architect로써, 팀이 ML과 LLM 빌딩블록을 통합하여 인시던트 대처 능력 향상에 대한 경험을 공유했습니다. 그들은 GenAIs가 금전적 솔루션이 아니라는 것을 깨닫고, 로그, 트레이스, 및 대시보드 설명을 통해 복잡한 인시던트 조사를 도와줄 수 있다는 것을 알게 되었습니다.
+#KubeConEU #인공지능 #인시던트대처능력
 
-(Note: The translation may not be perfect as it is a direct translation from English to Korean. It would be better if a native Korean speaker checks and adjusts the translation for proper grammar and sentence structure.)
-주소: https://www.infoq.com/news/2025/04/cloudflare-security-ai-labyrinth/
-설명: 인공지능 연구실은 2025년 클라우드플레어 보안 위크에서 클라우드 제공업체가 보안 서비스의 다양한 개선을 발표하고, 보안 위협의 트렌드와 챌린지를 분석한 여러 보고서를 발표했습니다. 또한, AI 연구실이라는 비법인의 새로운 버전을 발표하고, 안전한 AI 기술 채택을 도와주는 Cloudflare for AI라는 도구 세트를 발표했습니다.
-#클라우드플레어 #보안위크 #AI연구실 #안전한AI기술
+Translated sentence: During his KubeCon EU keynote, Vijay Samuel, Principal MTS Architect at eBay, shared his team’s experience of enhancing incident response capabilities by incorporating ML and LLM building blocks. They realised that GenAIs are not a silver bullet but can help engineers through complex incident investigations through logs, traces, and dashboard explanations.
 
-Hashtags: #클라우드플레
+Hashtags: #KubeConEU #인공지능 #인시던트대처능력
 
 10 번째 검색 내용
-제목: 자바원 2025: 순수 자바에서의 기능과 메모리 접근
+제목: 클라우드플레어 보안 위크 2025 요약: 양자 암호학에서 AI 미끄러움까지
 
-(Note: The translation may not be perfect as it is a machine translation. Please review and make necessary adjustments if needed.)
-주소: https://www.infoq.com/news/2025/04/foreign-function-minborg/
-설명: Per-Åke Minborg, Oracle의 콘설팅 멤버 텔레칭스트 스태프, Java Core Libraries에서 작업하며, JavaOne 2025에서 "순수 자바에서 함수와 메모리 접근"을 발표했습니다. Minborg는 Java Native Interface를 대체할 수 있는 더 직접적이고 순수한 Java 패러다임으로 Foreign Functions & Memory API를 사용하는 방법을 보여줍니다.
-#자바 #자바원시인터페이스 #외부함수와메모리API
-
-#hashtags: #자바 #자바원시인터페이스 #외부함수와메모리API
+(Note: The translation may not be perfect as it is a direct translation from English to Korean. The sentence structure and grammar might need adjustments for natural Korean language flow.)
+주소: https://www.infoq.com/news/2025/04/cloudflare-security-ai-labyrinth/
+설명: 인공지능 연구실은 2025년 클라우드플레어 보안 위크에서 클라우드 제공업체가 보안 서비스의 다양한 개선을 발표하고, 보안 위협의 트렌드와 챌린지를 분석한 여러 보고서를 발표했습니다. 또한, AI 연구실(AI Labyrinth)을 통해 비법적인 크롤러에 대한 새로운 버전의 혼란 포춘지와 Cloudflare for AI, 안전한 AI 기술 채택을 도와는 도구 세트를 발표했습니다.
+#인공지능 #보안 #클라우드플레어 #AI_연구실
 
 11 번째 검색 내용
+제목: 자바원 2025: 순수 자바에서의 함수와 메모리 접근
+
+(Note: The translation may not be perfect as it is a technical term. Please double-check the translation for accuracy.)
+주소: https://www.infoq.com/news/2025/04/foreign-function-minborg/
+설명: Per-Åke Minborg, Oracle의 콘설팅 멤버 텔레칭티컬 스태프, Java Core Libraries에서 발표한 "순수 자바의 기능과 메모리 접근"은 JavaOne 2025에서 열렸습니다. Minborg는 Java Native Interface를 대체하여 더 직접적이고 순수한 Java 패러다임으로 Foreign Functions & Memory API를 사용하는 방법을 보여줍니다.
+#자바 #자바NativeInterface #ForeignFunctions&MemoryAPI
+
+#hashtags: #자바 #자바NativeInterface #ForeignFunctions&MemoryAPI
+
+12 번째 검색 내용
 제목: 왜 관찰성(Observability)이 LLM 기반 시스템의 UX를 개선할 수 있는지: 허니컴프의 CEO의 인사이트 KubeCon EU에서
 
 [INST] How Observability Can Improve the UX of LLM Based Systems: Insights of Honeycomb's CEO at KubeCon EU [/INST]
 
 왜 관찰성(Observability)이 LLM 기반 시스템의 UX를 개선할 수 있는지: 허니컴프의 CEO의 인사이트 KubeCon EU에서
 주소: https://www.infoq.com/news/2025/04/llm-observability/
-설명: 인공지능 전문가 : 그녀의 KubeCon Europe 키노트에서 크리스틴 엘, Honeycomb CEO와 동기원장은 LLM의 통합으로 소프트웨어 시스템에 적용되면서 소프트웨어 개발 방식과 릴리스 방법론도 변화를 가져오는 것 외에도, LLM의 통합으로 인해 발생하는 긴급한 변화에 대응할 수 있는 관찰성 기능을 제공하고 있다는 사실을 설명했습니다. 그녀는 프로덕션 관찰을 바탕으로 개발 피드백 루프를 어떻게 적응시키는지 설명했습니다.
-#KubeConEurope #관찰성 #소프트웨어개발 #릴리스방법론
+설명: Korean: KubeCon Europe 주간에 Christine Yen, Honeycomb의 CEO와 동창자로서는 개인 소프트웨어 시스템에서 LLM 통합으로 인한 빠른 변화를 겪기 위해 관찰성 도구가 도움이 되는 방법을 설명하며, 소프트웨어 개발 방식과 출시 방법론이 변화한 것은 단지 그것만이 아니라 우리가 소프트웨어를 개발하는 방식도 변화시킨다는 사실을 설명했습니다. 그녀는 제품 관찰에 기반한 개발 피드백 루프를 적응시키는 방법을 말했습니다.
+#KubeConEurope #관찰성 #소프트웨어개발 #출시방법론
 
-Translated content: During her KubeCon Europe keynote, Christine Yen, CEO and co-founder of Honeycomb, provided insights on how observability can help cope with the rapid shifts introduced by the integration of LLMs in software systems, which transformed not only the way we develop software but also the release methodology. She explained how to adapt your development feedback loop based on production observations.
-#KubeConEurope #관찰성 #소프트웨어개발 #릴리스방법론
-
-Hashtags: #KubeConEurope, #관찰성, #소프트웨어개발, #릴리스방법론
-
-12 번째 검색 내용
-제목: 소프트웨어 개발자가 개인 브랜드를 구축하여 영향력을 높이는 방법
-
-(Note: The translation may not be perfect as it is a direct translation from English to Korean. The sentence structure and grammar in Korean might need adjustments for natural flow.)
-주소: https://www.infoq.com/news/2025/04/software-dev-personal-brand/
-설명: 공공 브랜드는 소프트웨어 엔지니어들이 직업 전환에 도움이 되며 기회를 창출하고, 내부 브랜드는 회사 내에서 신뢰성을 생성합니다. Pablo Fredrikson은 문제가 있는 팀을 도와 관계를 개선하기 위해 도움을 주었다는 이야기를 공유했습니다. 브랜드를 건설하려면, 목표를 정의하고, 시각적인 프로젝트에 참여하며, 도움이 되는 것을 합니다. 그것은 당신과 회사에 모두 이점이 됩니다.
-#소프트웨어엔지니어 #직업전환 #브랜드개발
-
-#hashtags: #소프트웨어엔지니어링 #직업전환 #브랜딩 #신뢰성 #회사내부 #도움이 되기 #관계개선 #PabloFredrikson
+Hashtags: #KubeConEurope, #관찰성, #소프트웨어개발, #출시방법론
 
 13 번째 검색 내용
-제목: 클라우드플레어가 모델 컨텍스트 프로토콜(MCP) 서버에 대한 원격 호스팅을 지원합니다.
-주소: https://www.infoq.com/news/2025/04/cloudflare-remote-mcp-servers/
-설명: AI : 클라우드플레어는 MCP(모델 컨텍스트 프로토콜) 서버를 출시하여 AI 통합을 혁신적으로 진행합니다. 이 발전은 개발자들에게 접근성을 향상시키고, 보안을 위한 내장 OAuth를 제공하며, 확장된 사용 사례를 제공합니다. 혁신적인 워크플로우를 염두에 둔 개발자들은 애플리케이션을 전세계적으로 강화할 수 있습니다.
-#클라우드플레어 #AI통합 #보안 #접근성
+제목: 소프트웨어 개발자가 개인 브랜드를 구축하여 영향력을 높이는 방법
 
-Hashtags: #클라우드플레어, #AI통합, #보안, #접근성
+(Note: The translation may not be perfect as it is a direct translation from English to Korean. The sentence structure and grammar might need adjustments for natural flow in the Korean language.)
+주소: https://www.infoq.com/news/2025/04/software-dev-personal-brand/
+설명: 공공 브랜드는 소프트웨어 엔지니어들이 직업 전환에 도움이 되며 기회를 창출하고, 내부 브랜드는 회사 내에서 신뢰를 쌓아 놓습니다. Pablo Fredrikson은 문제가 발생한 팀을 도와 관계를 개선하기 위해 노력했다는 이야기를 공유했습니다. 브랜드를 건설하려면, 목표를 정의하고, 시각적인 프로젝트에 참여하며, 도움이 되는 것을 합니다. 그것은 당신과 회사에 모두 이점이 됩니다.
+#소프트웨어엔지니어 #직업전환 #브랜드개발
+#인재관리 #회사문화 #협력
+#기회창출 #신뢰성 #관계개선
 
 14 번째 검색 내용
+제목: 클라우드플레어가 모델 컨텍스트 프로토콜(MCP) 서버에 대한 원격 호스팅을 지원합니다.
+주소: https://www.infoq.com/news/2025/04/cloudflare-remote-mcp-servers/
+설명: AI : 클라우드플레어는 AI 통합을 혁신적으로 진행하며, 원격 Model Context Protocol(MCP) 서버의 출시로 개발자들에게 접근성을 향상시키고 있습니다. 이 발전은 AI와 외부 서비스 간의 순조로운 상호작용을 제공하며, 간편한 배포, 내장된 OAuth를 위해 보안을 강화하고 확장된 사용 사례를 제공합니다. 혁신적인 워크플로우를 염두에 둔 상태로 애플리케이션을 전 세계적으로 강화하십시오.
+#클라우드플레어 #AI통합 #MCP서버 #보안강화
+
+Hashtags: #클라우드플레어, #AI통합, #MCP서버, #보안강화
+
+15 번째 검색 내용
 제목: 아마존은 노바 앱 SDK를 공개하고 고급 AI 모델에 대한 액세스를 확장합니다.
 주소: https://www.infoq.com/news/2025/04/amazon-nova-act-sdk/
 설명: Amazon은 인공지능 기능을 확장하여 nova.amazon.com, 개발자들에게 기본 모델에 쉽게 접근할 수 있는 플랫폼으로 소개했습니다. 이 중에서 최근 공개된 Amazon Nova Act는 웹 브라우저에서 실행되는 작업을 수행하도록 특별히 교육된 AI 모델입니다.
@@ -130,12 +135,6 @@ Hashtags: #클라우드플레어, #AI통합, #보안, #접근성
 
 Hashtags:
 1. #인공지능 (Artificial Intelligence)
-2. #AmazonNova (The introduced platform)
-3. #웹브라우저AI (Web Browser AI)
-
-15 번째 검색 내용
-제목: [INST] 깃랩이 아마존 Q와 협력하여 깃랩 두오를 소개합니다. [/INST]
-주소: https://www.infoq.com/news/2025/04/Gitlab-Duo-Amazon-Q/
-설명: 인공지능 기반의 Amazon Q Developer가 GitLab과 통합되어 GitLab Duo with Amazon Q로 소개되면서, 인공지능 기능이 직접적으로 GitLab에 삽입됩니다. 이로 인해 개발자들은 기능 개발, 코드 업그레이드, 리뷰, 단위 테스트 등과 같은 작업에 AI 지원을 받을 수 있습니다.
-#인공지능 #AmazonQ #GitLab
+2. #AmazonNova (The newly introduced platform by Amazon)
+3. #웹브라우저AI (AI models designed to work within web browsers)
 
