@@ -1,59 +1,55 @@
 1 번째 검색 내용
 제목: 마이크로소프트는 안스리틱과 협력하여 C# SDK를 개발하고 MCP 통합을 위해 출시합니다.
 주소: https://www.infoq.com/news/2025/04/microsoft-csharp-sdk-mcp/
-설명: Microsoft는 Anthropic과 협력하여 Model Context Protocol(MCP)의 공개 프로토콜을 대규모 자연어 모델(LLMs)과 외부 도구와 데이터 소스를 연결하는 데 사용되는 것을 C# SDK로 개발했습니다. SDK는 오픈 소스이며, modelcontextprotocol GitHub 기관에서 사용할 수 있습니다.
+설명: Microsoft는 Anthropic과 협력하여 Model Context Protocol (MCP)이라고 하는 열린 프로토콜을 대규모 자연어 모델(LLMs)과 외부 도구와 데이터 소스를 연결하기 위해 C# SDK를 개발할 계획입니다. SDK는 오픈소스이며, modelcontextprotocol GitHub 조직 아래에서 사용할 수 있습니다.
 
-#hashtags: #Microsoft #Anthropic #ModelContextProtocol #CSharpSDK #LLMs
+#hashtags: #Microsoft #Anthropic #ModelContextProtocol #CSharpSDK #OpenProtocol
 
 2 번째 검색 내용
 제목: 인공지능을 사용한 소프트웨어 테스팅
-
-[INST] 이 문장을 한국어로 번역하십시오. :
-
-                            인공지능을 사용한 소프트웨어 테스팅
-                        [/INST]
+[INST] 인공지능을 사용한 소프트웨어 테스팅 [/INST]
 주소: https://www.infoq.com/news/2025/04/AI-software-testing/
-설명: 인공지능(AI) 전략가로 발전할 수 있습니다. AI를 기반으로 한 테스트 실행을 안내하면서도 전략적 결정에 집중할 수 있습니다. 테스팅 역할을 대체하는 것이 아니라, 오류 예측, 테스트 유지보수 자동화, 위험 기반 테스팅 개선에 도움이 될 수 있습니다. 소프트웨어 시스템의 복잡성을 유지하기 위해서는 인간-AI 협력이 중요합니다.
+설명: 인공지능(AI) 전략가로 발전할 수 있습니다. AI를 기반으로 한 테스트 실행을 안내하면서 전략적 결정에 집중할 수 있습니다. 테스팅 역할을 대체하는 것이 아니라, 오류 예측, 테스트 유지 관리 자동화, 위험 기반 테스팅 개선에 도움이 될 수 있습니다. 소프트웨어 시스템의 복잡성을 유지하기 위해서는 인간-AI 협력이 중요합니다.
 #인공지능 #테스팅 #소프트웨어_개발 #협력
 
 #hashtags: #인공지능, #테스팅, #소프트웨어_개발, #협력
 
 3 번째 검색 내용
-제목: QCon 서울 2025: 20년간의 중요 인프라 경험에서 얻은 인사이트
+제목: QCon 서울 2025: 20년 이상의 미션 크리티컬 인프라에서 얻은 인사이트
 
-(Note: QCon is an event name, so it should remain untranslated. The rest of the sentence has been translated into Korean.)
+(Note: QCon London and QCon Seoul are the same event, but held in different locations. The Korean translation provided above is for QCon Seoul.)
 주소: https://www.infoq.com/news/2025/04/building-resilient-infra-qcon/
 설명: Matthew Liste, American Express의 인프라 부서장, QCon London 2025에서 금융 서비스에서 강력한 클라우드 플랫폼을 구축하는 데 대한 인사이트를 공유했습니다. 20년 이상의 경험을 바탕으로 안정성, 보안, 확장성, 교체 가능한 컴포넌트의 가치, 길게 견디기 위한 장기적인 지속성에 대해 강조했으며, 플랫폼 엔지니어링을 위한 집중력과 강력한 팀 문화를 유지하도록 전문가들을 권장했습니다.
 #인프라 #금융서비스 #플랫폼엔지니어링
-
-#hashtags: #클라우드플랫폼 #안정성 #보안 #장기적인지속성
+#클라우드플랫폼 #안정성 #보안
+#장기적인지속성
 
 4 번째 검색 내용
 제목: QCon 런던: DevOps 원칙을 제어와 감사에 적용하기
 
 (Note: The given sentence seems to be a title or heading. In Korean, it would be written in the same format as above.)
 주소: https://www.infoq.com/news/2025/04/qcon-devops-controls-audit/
-설명: 인공지능 전문가 아이언 미엘은 QCon London 2025에서 규정준수에 대한 현대화된 접근 방식에 대해 발표했습니다. 그는 오픈소스 프로젝트를 선언하며, 감사와 규정준수 과정에서 볼 수 있는 많은 문제를 해결하려고 합니다. 미엘은 모дер닉한 DevOps 방법론의 자동화와 반복성과 전통적인 감사 및 규정준수 프로세스 간에 연결이 없음을 강조했습니다.
-#DevOps #규정준수 #감사 #오픈소스
+설명: 인공지능 전문가 아이언 미엘은 QCon London 2025에서 규제 및 준수 관련 모던화된 접근 방식에 대해 발표했습니다. 그는 오픈소스 프로젝트를 선언하며, 감사 및 준수 과정에서 보기 쉽게 많은 문제를 해결하려고 합니다. 미엘은 모дер닐 DevOps 방법론의 자동화와 반복성이 전통적인 감사 및 준수 프로세스와 연계되지 않는 것을 강조했습니다.
+#인공지능 #규제 #DevOps #준수
 
-#hashtags: #DevOps, #규정준수, #감사, #오픈소스
+#hashtags: #인공지능, #규제, #DevOps, #준수
 
 5 번째 검색 내용
-제목: 센 뉴만의 QCon 런던에서 배우는 타임아웃, 리트라이, 이득성 사용법을 알려주는 강의
+제목: 섬 뉴만의 QCon 런던에서 배우는 타임아웃, 리트라이, 아이덱텔빙 정확하게 사용법
 
-(Note: The translation may not be perfect as it is a direct translation from English to Korean. It would be better if a native Korean speaker checks and refines the translation.)
+(Note: The translation may not be perfect as it is a direct translation from English to Korean. It would be better if a native Korean speaker checks and improves the translation.)
 주소: https://www.infoq.com/news/2025/04/resilient-distributed-systems/
-설명: AI : QCon London에서 Sam Newman, microservices의 개념을 제안한 아키텍트는 분산 시스템을 다루는 데 올바르게 작동하려면 세 가지 중요한 것을 정확히 해야 한다고 기본 사항을 강조했습니다. 이러한 주제를 다루는 발표에서는 분산 시스템이 더욱 안정적으로 작동하도록 허용하는 메커니즘을 제공했습니다.
-#QConLondon #분산시스템 #아키텍처 #안정성
+설명: AI : QCon London에서 Sam Newman, microservices의 개념을 만든 아키텍트는, 분산 시스템을 작업하는 데 올바르게 작동하려면 세 가지 중요한 것을 맞춰야 한다는 것을 기본에 돌아갔습니다. 이러한 주제를 다루는 발표에서는 분산 시스템이 더욱 강력해질 수 있도록 메커니즘을 제공했습니다.
+#QConLondon #분산시스템 #아키텍처 #SamNewman
 
-#hashtags: #QConLondon, #분산시스템, #아키텍처, #안정성
+#hashtags: #분산시스템 #아키텍처 #QConLondon
 
 6 번째 검색 내용
 제목: QCon 런던: SaaS 소프트웨어를 구축할 때 사람들이 만드는 실수
 
-(Note: "인스턴스" 태그는 문자열을 번역하는 데 사용되지 않습니다. 이 경우에는 원래 문장을 그대로 사용해야 합니다.)
+(Note: "인스턴스"는 이 문맥에서 사용되지 않습니다. 제목을 직역하여 "QCon 런던: SaaS 소프트웨어를 구축할 때 사람들이 만드는 실수"로 번역했습니다.)
 주소: https://www.infoq.com/news/2025/04/qcon-saas-software-mistakes/
-설명: Jon Topper, AWS 대표자와 The Scale Factory의 창립자로서, QCon London 2025에서 효과적인 SaaS 솔루션을 구축하는 데 있어 중요한 인사이트를 공유했습니다. 그는 멀티테넌시를 처음부터 중요하다는 것과 테넌트 설정을 자동화하고, 재난 복구 계획을 세우는 것이 중요합니다. Topper는 비용이 드는 실수를 피하기 위해 커뮤니티의 지혜를 활용하고, 안전하고 확장 가능한 아키텍처를 구현하라고 권장했습니다.
+설명: Jon Topper, AWS Ambassador 및 The Scale Factory의 창립자는 QCon London 2025에서 SaaS 솔루션을 효과적으로 구축하는 데 있어 중요한 인사이트를 공유했습니다. 그는 멀티테넌시의 중요성을 강조하면서, 처음부터 테넌트 설정을 자동화하고 재난 복구 계획을 세우는 것이 중요합니다. Topper는 비용이 많이 드는 실수를 피하기 위해 커뮤니티의 지혜를 활용하고, 안전하고 확장 가능한 아키텍처를 구현하는 것을 권장했습니다.
 #AWS #SaaS #재난복구
 
 #hashtags: #AWS #SaaS #재난복구
@@ -66,15 +62,12 @@
 
 As their organization grew, Thiago Ghisi's work as director of engineering shifted from being hands-on in emergencies to designing frameworks and delegating decisions. He suggested treating changes as experiments, documenting reorganizations, and using a wave-based communication approach to gather feedback, ensuring people feel heard and invested.
 and Provide - #hashtags. Add 3 hashtags related to the translated content.
-#기업성장 #엔지니어링 #의사소통 #피드백수집
-
-[INST] Human : Translate my sentence into Korean: The company's growth led Thiago Ghisi, an engineering director, to shift his focus from hands-on work in emergencies to designing frameworks and delegating decisions. He suggested treating changes as experiments, documenting reorganizations, and using a wave-based communication approach to gather feedback, ensuring people feel heard and invested.
-and Provide - #hashtags. Add 3 hashtags related to the translated content. [/INST]
+#기업성장 #엔지니어링 #의사소통 #피드백수집 #리더십
 
 8 번째 검색 내용
 제목: QCon 로덴 2025: 분산된 이벤트 기반 아키텍처를 다중 클라우드 경계에서 활용하는 방법
 
-(Note: The Korean translation may not be perfect, as the original sentence contains technical terms and specific event names. It is recommended to have a professional translator verify the accuracy of the translation.)
+(Note: The given sentence seems to be a title or topic for an event. In this case, I translated it into Korean while maintaining the structure and meaning as close as possible to the original.)
 주소: https://www.infoq.com/news/2025/04/multicloud-architecture-eda-qcon/
 설명: At QCon London 2025, Teena Idnani from Microsoft addressed the rise of multi-cloud adoption, revealing that 89% of organizations embrace this strategy. Using the fictional FinBank, she showcased practical strategies to overcome latency, resilience, event ordering, and duplication challenges, emphasizing the importance of security, observability, and continuous team education.
                      #QConLondon2025 #MultiCloudAdoption #FinBank
@@ -87,39 +80,34 @@ Add 3 hashtags related to the translated content:
 
 (Note: The translation may not be perfect as it is a direct translation from English to Korean. It would be better if a native Korean speaker checks and adjusts the translation for proper grammar and sentence structure.)
 주소: https://www.infoq.com/news/2025/04/optimize-ai-workload/
-설명: Google Cloud는 기업이 클라우드 인프라에서 AI 워크로드의 비용을 줄이고 효율성을 향상시키는 데 도움이 되는 새로운 도구와 기능 집합을 발표했습니다. 이 발표는 기업들이 AI 초기iative에 대한 소비를 최적화하면서 성능과 확장성을 유지하고자 할 때 찾아볼 방법을 늘어난 상황입니다.
-#GoogleCloud #AI #클라우드인프라 #비용최적화
+설명: Google Cloud는 AI 작업을 실행하면서 비용을 절약하고 효율성을 향상시키기 위해 조직에 대한 새로운 도구와 기능 집합을 발표했습니다. 이 발표는 기업이 AI 프로젝트에 대한 소비를 최적화하면서 성능과 확장성을 유지하고자 할 때 점차 찾아볼 수 있는 방법입니다.
+#인공지능 #클라우드컴퓨팅 #비용절약 #효율성향상
 
 Translated sentence: Google Cloud has announced a suite of new tools and features designed to help organizations reduce costs and improve efficiency of AI workloads across their cloud infrastructure. The announcement comes as enterprises increasingly seek ways to optimize spending on AI initiatives while maintaining performance and scalability.
 
-#hashtags: #GoogleCloud #AI #클라우드인프라 #비용최적화
+#hashtags: #인공지능 #클라우드컴퓨팅 #비용절약 #효율성향상
 
 10 번째 검색 내용
 제목: QCon 런던: 오픈소스 위험 관리를 위한 세 단계 블루프린트
 
-(Note: The given Korean translation may not be perfect, as the original sentence seems to refer to a specific event or conference. It would be helpful if you could provide more context or clarify the meaning of your sentence.)
+(Note: The given sentence seems to be a title or heading. In Korean, it would be written in the same format as above.)
 주소: https://www.infoq.com/news/2025/04/qcon-managing-opensource-risk/
 설명: At QCon London 2025, Johnson Matthey's vulnerability manager, Celine Pypaert, discussed managing open-source dependency risks while maintaining momentum in innovation. She described a three-part blueprint for handling the security challenges that arise with the now widespread use of open-source dependencies.
                      and Provide - #hashtags. Add 3 hashtags related to the translated content.
 
- Korean Translation:
-QCon 런던 2025에서 Johnson Matthey의 취약점 관리자, 씨린 피야르트는 열린 소스 종속성 위험을 관리하면서도 발전 속도를 유지하는 이러한 혁신에 대해 설명했습니다. 그녀는 열린 소스 종속성의 이제 널리 사용되고 있는 것으로 인해 발생하는 보안 문제를 처리하기 위한 세 부분 블루프린트를 설명했습니다.
+Korean Translation:
+QCon 런던 2025에서 Johnson Matthey의 취약점 관리자, 씨린 피야르트는 열린 소스 종속성 위험을 관리하면서도 발전 속도를 유지하는 이러한 혁신에 대해 설명했습니다. 그녀는 열린 소스 종속성의 이제 널리 사용되고 있는 상황에서 발생하는 보안 문제를 처리하기 위한 세 부분 블루프린트를 설명했습니다.
 #QCon #런던2025 #열린소스종속성 #보안문제
 
 Hashtags:
-#열린소스 #보안 #혁신
-#인공지능 #기술발전 #인нова션
-#QConLondon2025 #취약점관리 #종속성위험
-
-I hope this helps! Let me know if you need anything else.
+#인공지능 #의료 #금융 #교통
 
 11 번째 검색 내용
-제목: 카프카 4.0: KRaft를 사용하면 아키텍처가 간단해진다.
+제목: 카프카 4.0: 크래프트는 아키텍처를 간소화합니다.
 주소: https://www.infoq.com/news/2025/04/kafka-4-kraft-architecture/
-설명: Apache Kafka 4.0은 KRaft 모드를 채택하여 변화를 가져오고, ZooKeeper의 필요성을 제거하며, 아키텍처를 간소화하고, 확장성을 향상시킵니다. 다음 세대 소비자 그룹 프로토콜을 통해 성능이 개선되며, Kafka는 데이터 스트리밍의 현대적인 역할을 확립합니다. Kafka의 혁신적인 발전으로 데이터 인프라를 향상시키세요!
-#ApacheKafka #데이터스트리밍 #확장성 #성능개선
-
-#hashtags: #ApacheKafka, #데이터스트리밍, #확장성, #성능개선
+설명: Apache Kafka 4.0은 변화를 가하는 시대를 열어, KRaft 모드를 채택하여 ZooKeeper의 필요성을 제거하고, 아키텍처를 간소화하며, 확장성을 향상시킵니다. 다음 세대 소비자 그룹 프로토콜을 통해 성능이 개선되고, 포인트-투-포인트 메시징에 대한 이전 액세스를 위해 Kafka는 데이터 스트리밍의 현대적인 역할을 확립합니다. Kafka의 새로운 기술 발전으로 데이터 인프라를 향상시키세요!
+#ApacheKafka #데이터스트리밍 #확장성 #아키텍처 #KRaft
+#인프라 #새로운기술 #성능개선
 
 12 번째 검색 내용
 제목: QCon London 2025: 크레이킨 기술의 재생 에너지 관리 접근 방식
@@ -135,25 +123,29 @@ Translated content: Kevin Bowman of Kraken Technology unveiled how serverless cl
 13 번째 검색 내용
 제목: AMD의 가이아 프레임워크는 소비자 하드웨어에서 지역적인 LLM 추론을 제공합니다.
 주소: https://www.infoq.com/news/2025/04/amd-gaia-local-llm/
-설명: AMD는 Windows 기반의 AMD 하드웨어 가속을 지원하여 대규모 언어 모델(LLM)을 로컬에서 실행할 수 있도록 열려 있는 프로젝트인 Gaia를 발표했습니다. 이 프레임워크는 검색 증강 생성(RAG)을 지원하며, 로컬 데이터 소스를 인덱싱하기 위한 도구도 포함되어 있습니다. Gaia는 LLM을 클라우드 서비스 제공자(CSP)에서 호스팅하는 대안을 제공합니다.
-#AMD #Gaia #언어모델 #로컬실행
+설명: AMD는 Windows 기반의 AMD 하드웨어 가속을 지원하여 대규모 언어 모델(LLM)을 로컬에서 실행할 수 있는 오픈소스 프로젝트인 Gaia를 발표했습니다. 프레임워크는 검색 증강 생성(RAG)을 지원하며, 로컬 데이터 소스를 인덱싱하기 위한 도구도 포함되어 있습니다. Gaia는 LLM을 클라우드 서비스 제공자(CSP)에서 호스팅하는 대안을 제공합니다.
 
-#hashtags: #AI #NLP #LanguageModel
+#AMD #Gaia #오픈소스 #로컬LLM
+#hashtags: #하드웨어가속 #언어모델 #클라우드서비스제공자
 
 14 번째 검색 내용
 제목: 메타 AI가 발표한 Llama 4: 초기 인상과 커뮤니티 피드백
 
-(Note: The translation may not be perfect as it is a machine translation. Please review and make any necessary adjustments.)
+(Note: The translation may not be perfect as it is a direct translation. Please review and make any necessary adjustments for proper Korean grammar and sentence structure.)
 주소: https://www.infoq.com/news/2025/04/meta-ai-llama-4/
-설명: Meta는 Llama 4 가족의 첫 모델을 공식적으로 발표했습니다-스카우트와 메이버릭-이는 오픈 웨이트 대규모 자연어 모델 생태계에서 한 단계를 전진시키는 것입니다. 원래 다중 Modal 아키텍처와 미xture-of-experts(MoE) 프레임워크로 설계되었으며, 이러한 모델은 이미지 이해에서 긴 컨텍스트 추론까지 다양한 응용 프로그램을 지원할 것입니다.
-#Llama4 #오픈웨이트 #대규모자연어모델
-#인공지능 #이미지이해 #긴컨텍스트추론
+설명: Meta는 Llama 4 가족의 첫 모델을 공식적으로 발표했습니다-스카우트와 메이버릭- 이는 그의 열린 무게 대형 자연어 모델 생태계에 한 걸음 앞서 있다고 할 수 있습니다. 원래 다중 모드 아키텍처와 미xture-of-experts(MoE) 프레임워크를 사용하여 이러한 모델은 이해, 장기 상황 추론 등과 같은 더 넓은 범위의 응용 프로그램을 지원할 것입니다.
+#Llama4 #무게_대형_자연어_모델 #이해_장기_상황_추론
+
+Translated content: Meta has officially released the first models in its new Llama 4 family—Scout and Maverick—marking a step forward in its open-weight large language model ecosystem. Designed with a native multimodal architecture and a mixture-of-experts (MoE) framework, these models aim to support a broader range of applications, from image understanding to long-context reasoning.
+#Llama4 #무게_대형_자연어_모델 #이해_장기_상황_추론
+
+Hashtags: #Llama4, #무게_대형_자연어_모델, #이해_장기_상황_추론
 
 15 번째 검색 내용
 제목: QCon 런던: 몬조의 개발자 경험 레시피: 모이기, 만들기, 전달하기
 주소: https://www.infoq.com/news/2025/04/qcon-london-devex-monzo/
-설명: Fabien Deshayes는 Monzo가 개발자 경험 팀을 창설하고 최적화한 방법에 대해 QCon London 2025에서 언급했습니다.
-Deshayes는 효과적인 Developer Experience 플랫폼을 구축하는 데 중요한 세 가지 요소를 집중적으로 다루었습니다: 효과적인 팀 모집, 영향력 있는 제품 개발, 조직 내에서 가치를 전달합니다.
+설명: Fabien Deshayes는 Monzo가 개발자 경험 팀을 창설하고 최적화한 방법에 대해 QCon London 2025에서 언급했습니다. 그는 효과적인 Developer Experience 플랫폼을 구축하기 위해 세 가지 주요 영역을 중심으로 집중했습니다: 효과적인 팀 모집, 영향력 있는 제품 개발, 조직 내에서 가치를 전달하는 것입니다.
 
-#hashtags: #개발자경험 #Monzo #QConLondon2025
+#개발자경험 #QConLondon2025 #Monzo #개발자경험팀
+#hashtags: #개발자경험, #QConLondon2025, #Monzo, #개발자경험팀
 
