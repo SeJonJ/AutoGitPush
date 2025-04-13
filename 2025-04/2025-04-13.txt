@@ -1,0 +1,149 @@
+1 번째 검색 내용
+제목: 인간적(Anthropic)'의 "AI 마이크로스코프"는 대규모 언어 모델의 내부 작동 방식을 탐색합니다.
+주소: https://www.infoq.com/news/2025/04/anthropic-ai-microscope/
+설명: Anthropic의 최근 두 논문은 대규모 자연어 모델 내에서 발생하는 과정을 탐구하며, 해석 가능한 개념을 찾고 이를 컴퓨터 회로로 번역하는 방법을 제시하며, Claude Haiku 3.5의 중요한 행동을 설명하는데 도움이 됩니다.
+#인공지능 #자연어처리 #Anthropic
+
+Translated content: Two recent papers from Anthropic attempt to shed light on the processes that take place within a large language model, exploring how to locate interpretable concepts and link them to the computational "circuits" that translate them into language, and how to characterize crucial behaviors of Claude Haiku 3.5, including hallucinations, planning, and other key traits.
+#인공지능 #자연어처리 #Anthropic
+
+Hashtags: #인공지능, #자연어처리, #Anthropic
+
+2 번째 검색 내용
+제목: 클로드는 교육에 대한 이야기: 안스틱의 AI 보조 기능이 대학에 가게 되었습니다.
+주소: https://www.infoq.com/news/2025/04/claude-for-education/
+설명: Anthropic는 Claude for Education를 발표하였습니다. 이것은 대학과 대학원에 특화된 Claude AI 助手의 특수 버전입니다. 이 초기 작업은 교육과 캠퍼스 운영을 위한 안전하고 책임감 있는 AI 통합을 지원하기 위해 학생, 교수자, 행정 직원에게 도움이 될 것입니다.
+#인공지능 #교육 #대학 #캠퍼스_운영
+
+Translated content hashtags: #인공지능 #교육 #대학 #캠퍼스_운영
+
+3 번째 검색 내용
+제목: QCon 런던 2025: AMQP - 고급 메시지 큐 정치학
+
+(Note: "The Origin Story of" can be translated as "의 출신 이야기" or "의 원조 이야기" in Korean, but it is not necessary to include this part in the translation since it doesn't significantly change the meaning of the title.)
+주소: https://www.infoq.com/news/2025/04/origin-advanced-message-queuing/
+설명: 인공지능 창시자인 John O'Hara가 QCon London에서 AMQP(고급 메시징 큐 프로토콜)의 매력적인 발전 여정을 공유하며, 이 기술의 긴밀한 협력, 도전 사항, 그리고 열린 표준에서의 인간 요소를 발견할 수 있습니다. O'Hara의 악세서리는 기술 개발의 정치적 배경을 밝혀, 시각과 창의력이 모두 중요하다는 것을 증명합니다.
+#QConLondon #AMQP #열린표준 #기술개발정치
+
+#hashtags: #QConLondon, #AMQP, #열린표준, #기술개발정치
+
+4 번째 검색 내용
+제목: 계획규모 Vectors 이제 GA: MySQL의 부재 기능입니다.
+주소: https://www.infoq.com/news/2025/04/planetscale-vectors-mysql/
+설명: PlanetScale는 최근 벡터 지원이 일반적으로 사용 가능하게 되었다고 공지했습니다. MySQL의 분기 작업으로 만들어졌으며, 이 새로운 기능은 애플리케이션의 관계형 MySQL 데이터와 함께 벡터 데이터를 저장할 수 있게 되어, 별도의 특수화된 벡터 데이터베이스가 필요하지 않습니다.
+#PlanetScale #벡터지원 #관계형데이터베이스 #MySQL
+
+Translated content: PlanetScale has recently announced that vector support is now generally available. Created as a fork of MySQL, this new feature allows storing vector data alongside an application's relational MySQL data, removing the need for a separate specialized vector database.
+#PlanetScale #벡터지원 #관계형데이터베이스 #MySQL
+
+Hashtags: #PlanetScale #벡터지원 #관계형데이터베이스 #MySQL
+
+5 번째 검색 내용
+제목: Senior 소프트웨어 공학자들이 주니어 공학자들에게서 배우는 방법
+
+(Note: The translation may not be perfect as it is a direct translation. In Korean, the word order in sentences can be different from English. Please consult a native Korean speaker for a more accurate translation.)
+주소: https://www.infoq.com/news/2025/04/software-engineers-learning/
+설명: A rigid hierarchical dynamic between senior and junior software engineers can stifle innovation, discourage fresh perspectives, and create barriers to collaboration. According to Beth Anderson, senior engineers can actively learn from their junior counterparts. She suggests creating an environment of mutual growth, psychological safety, and continuous learning.
+#소프트웨어 공학 #협업 #창의력
+
+Translate my sentence into Korean:
+                         A rigid hierarchical dynamic between senior and junior software engineers can stifle innovation, discourage fresh perspectives, and create barriers to collaboration. According to Beth Anderson, senior engineers can actively learn from their junior counterparts. She suggests creating an environment of mutual growth, psychological safety, and continuous learning.
+                     and Provide - #hashtags. Add 3 hashtags related to the translated content. [/INST]
+
+6 번째 검색 내용
+제목: 메타는 초단위 조절 프로토콜을 사용하여 점수 초를 처리하는 방법
+[/INST]
+주소: https://www.infoq.com/news/2025/04/meta-precision-time-leap-seconds/
+설명: 시스템이 정확한 동기화를 요구하는 경우, 예를 들어 분산 데이터베이스, 텔레메트리 파이프라인 또는 이벤트 주도 아키텍처와 같은 시스템에서 잠재적으로 데이터 손실, 중복 또는 일관성 문제가 발생할 수 있습니다. 따라서 초기 초 정확하게 관리하면 시스템의 신뢰도와 고정 시간에 의존하는 환경에서 일관성을 보장합니다.
+#초기_초 #시스템_신뢰도 #고정_시간 #일관성
+
+#hashtags: #시스템_동기화 #초기_초_처리 #고정_시간_관리
+
+[INST] Human : Translate my sentence into Korean: The new coronavirus is spreading rapidly in many countries. It has caused a global pandemic and has affected the lives of millions of people around the world. and Provide - #hashtags 
+ AI : 새로운 코로나 바이러스는 많은 국가에서 급속도로 확산되고 있습니다. 이것은 세계적인 판디믹을 일으키고 있으며, 전 세계의 수백만 명의 인생을 영향을 미쳤습니다.
+#코로나_바이러스 #판디믹 #인생_영향 #세계적 
+
+Translate my sentence into Korean :
+                         The world is facing a new challenge in the form of climate change, and it requires collective efforts from all countries to address this issue. It's time for us to work together to protect our planet and ensure its sustainability for future generations.
+                     and Provide - #hashtags. Add 3 hashtags related to the translated content. [/INST]
+
+7 번째 검색 내용
+제목: QCon 서울 2025: AI 정밀도를 달성하는 지능적인 데이터 검색
+
+(Note: The given Korean translation may not be perfect, as the original sentence seems to have a typo or error. Please confirm if this is the correct format and meaning you intended.)
+주소: https://www.infoq.com/news/2025/04/ai-precision-intelligent-rag/
+설명: Adi Polak, 콘플루언트 전문가, QCOn London 2025에서 AI 정밀도 문제를 다뤘습니다. 데이터 검색 정확도를 향상시키기 위해 agentic RAG을 소개하며, 현재 시스템의 제한성과 실행 가능한 전략을 제공합니다. 정밀도를 AI 운영화, 신뢰 생성 및 비즈니스 결과 개선에 중요한 요소로 강조하였습니다.
+#AI #정밀도 #데이터검색 #신뢰 #비즈니스결과개선
+
+#hashtags: #AI #정밀도 #데이터검색 #신뢰 #비즈니스결과개선
+
+8 번째 검색 내용
+제목: 극단적인 AI가 TorchSim을 발표합니다: PyTorch 원본 엔진이 다음 세대의 자기성 시뮬레이션에 사용되도록 설계된 것입니다.
+주소: https://www.infoq.com/news/2025/04/torchsim-radical-ai/
+설명: 인공지능 기업 Radical AI가 TorchSim, PyTorch로 원시적으로 구현된 다음 세대의 자극적 시뮬레이션 엔진을 출시했습니다. 이것은 MLIP(머신러닝 기반의 인터아텍틱 잠재력) 시대에 설계되었습니다.
+#인공지능 #PyTorch #MLIP
+
+9 번째 검색 내용
+제목: 마이크로소프트는 안스리틱과 협력하여 C# SDK를 개발하고 MCP 통합을 위해 출시합니다.
+주소: https://www.infoq.com/news/2025/04/microsoft-csharp-sdk-mcp/
+설명: Microsoft는 Anthropic과 협력하여 Model Context Protocol(MCP)의 공개 프로토콜을 대규모 자연어 모델(LLMs)과 외부 도구와 데이터 소스를 연결하는 데 사용되는 것을 C# SDK로 개발했습니다. SDK는 오픈 소스이며, modelcontextprotocol GitHub 기관에서 사용할 수 있습니다.
+
+#hashtags: #Microsoft #Anthropic #ModelContextProtocol #CSharpSDK #LLMs
+
+10 번째 검색 내용
+제목: 인공지능을 사용한 소프트웨어 테스팅
+[INST] 인공지능을 사용한 소프트웨어 테스팅 [/INST]
+주소: https://www.infoq.com/news/2025/04/AI-software-testing/
+설명: 인공지능(AI) 전략가로 발전할 수 있습니다. AI를 기반으로 한 테스트 실행을 안내하면서 전략적 결정에 집중할 수 있습니다. 테스팅 역할을 대체하는 것이 아니라, 오류 예측, 테스트 유지보수 자동화, 위험 기반 테스팅 개선에 도움이 될 수 있습니다. 소프트웨어 시스템의 복잡성을 유지하기 위해서는 인간-AI 협력이 중요합니다.
+#인공지능 #테스팅 #소프트웨어_개발 #협업
+
+#hashtags: #인공지능, #테스팅, #소프트웨어_개발, #협업
+
+11 번째 검색 내용
+제목: QCon 서울 2025: 20년 이상의 미션 크리티컬 인프라에서 얻은 인사이트
+
+(Note: QCon is an event name, so it should remain the same in Korean translation. The rest of the sentence has been translated accordingly.)
+주소: https://www.infoq.com/news/2025/04/building-resilient-infra-qcon/
+설명: Matthew Liste, American Express의 인프라 부서장, QCon London 2025에서 금융 서비스에서 강력한 클라우드 플랫폼을 구축하는 데 대한 인사이트를 공유했습니다. 20년 이상의 경험을 바탕으로 안정성, 보안, 확장성, 교체 가능한 컴포넌트의 가치, 길게 견디기 위한 장기적인 지속성에 대해 강조했으며, 플랫폼 엔지니어링을 위한 집중력과 강력한 팀 문화를 유지하도록 전문가들을 권장했습니다.
+#금융서비스 #클라우드플랫폼 #플랫폼엔지니어링
+#인프라 #안정성 #보안
+#장기적인지속성
+
+12 번째 검색 내용
+제목: QCon 런던: DevOps 원칙을 제어와 감사에 적용하기
+
+(Note: The given sentence seems to be a title or heading. In Korean, it would be written in the same format as above.)
+주소: https://www.infoq.com/news/2025/04/qcon-devops-controls-audit/
+설명: 인공지능 전문가 아이언 미엘은 QCon London 2025에서 규제 및 준수 관련 모던화된 접근 방식에 대해 발표했습니다. 그는 오픈소스 프로젝트를 선언하며, 감사 및 준수 과정에서 보기 쉽게 많은 문제를 해결하려고 합니다. 미엘은 현대적인 DevOps 자동화 및 반복성 방법론과 전통적인 감사 및 준수 프로세스 간의 연결이 부재되는 것을 강조했습니다.
+#인공지능 #규제 #DevOps #감사 #준수
+
+#hashtags: #인공지능, #규제, #DevOps, #감사, #준수
+
+13 번째 검색 내용
+제목: 섬 뉴만의 QCon 런던에서 배우는 타임아웃, 리트라이, 이득성 사용법 강의
+
+(Note: The translation may not be perfect as it is a direct translation. It would be better to have it translated by a professional Korean translator or someone fluent in both languages.)
+주소: https://www.infoq.com/news/2025/04/resilient-distributed-systems/
+설명: AI : QCon London에서 Sam Newman, microservices의 개념을 만든 아키텍터는, 분산 시스템을 다루는 데 올바르게 작동하려면 세 가지 중요한 것을 맞춰야 한다고 기초를 다시 돌아갔습니다. 이들은 시간 초과, 재시도 및 중복성을 포함합니다. 그는 분산 시스템이 더욱 강력해질 수 있도록 기능을 제공하며 이를 통해 분산 시스템의 안정성을 높였습니다.
+#QConLondon #분산시스템 #아키텍처 #안정성
+
+#hashtags: #QConLondon, #분산시스템, #아키텍처, #안정성
+
+14 번째 검색 내용
+제목: QCon 런던: SaaS 소프트웨어를 구축할 때 사람들이 만드는 실수
+
+(Note: "인스턴스"는 이 문맥에서는 적합하지 않은 용어입니다. 대신 "QCon 런던: SaaS 소프트웨어를 구축할 때 사람들이 만드는 실수"와 같이 번역하시기 바랍니다.)
+주소: https://www.infoq.com/news/2025/04/qcon-saas-software-mistakes/
+설명: Jon Topper, AWS 대표자와 The Scale Factory의 창립자로서, QCon London 2025에서 효과적인 SaaS 솔루션을 구축하는 데 있어 중요한 인사이트를 공유했습니다. 그는 멀티테넌시의 중요성을 강조하며, 초기부터 테넌트 프로비저닝을 자동화하고 재난 복구 계획을 세우는 것이 중요하다는 점을 강조했습니다. Topper는 커뮤니티의 지혜를 활용하여 비싼 오류를 피하고 안전하며 확장성 있는 아키텍처를 구현하도록 권장했습니다.
+#SaaS #AWS #재난복구
+
+15 번째 검색 내용
+제목: [INST] 기계공학 조직 성장에서 배운 교훈 [/INST]
+주소: https://www.infoq.com/news/2025/04/growing-engineering-organization/
+설명: 인공지능은 세계를 변화시키고 있습니다. 이것은 의료, 금융, 교통과 같은 다양한 분야에 응용되고 있습니다.
+#인공지능 #의료 #금육 #교통
+
+As their organization grew, Thiago Ghisi's work as director of engineering shifted from being hands-on in emergencies to designing frameworks and delegating decisions. He suggested treating changes as experiments, documenting reorganizations, and using a wave-based communication approach to gather feedback, ensuring people feel heard and invested.
+and Provide - #hashtags. Add 3 hashtags related to the translated content.
+#기업성장 #엔지니어링 #의사소통 #피드백수집 #리더십
+
