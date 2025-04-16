@@ -1,0 +1,141 @@
+1 번째 검색 내용
+제목: 구글의 사이버 보안 모델, Sec-Gemini는 원인 분석과 위협 분석을 지원하는 SecOps 워크플로우를 활성화합니다.
+주소: https://www.infoq.com/news/2025/04/sec-gemini-cybersecurity-ai/
+설명: Google의 새로운 사이버보안 모델 Sec-Gemini는 사이버보안 AI를 활용하여 SecOps 워크플로우를 지원하며, 근본 원인 분석(RCA)과 위협 분석, 취약점의 영향을 이해하는데 초점을 맞춥니다.
+#사이버보안 #AI #SecOps
+
+[INST] Human : Translate my sentence into Korean: The new AI-powered chatbot can understand and respond to customer inquiries in multiple languages, including English, Spanish, French, German, and Chinese.
+and Provide - #hashtags. Add 3 hashtags related to the translated content. [/INST]
+
+2 번째 검색 내용
+제목: 구글은 에이전트 간 협력을 위한 Agent2Agent 프로토콜을 오픈소스로 공개합니다.
+[/INST]
+주소: https://www.infoq.com/news/2025/04/google-agentic-a2a/
+설명: Google는 Agent2Agent(A2A) 프로토콜을 공개 소스로 릴리즈했습니다. A2A 프로토콜은 AI 에이전트를 다른 지원하는 에이전트와 연결할 수 있는 에이전트를 구축하는 데 사용되는 오픈 소스 사양입니다. Google은 A2A의 개발에 50여 기술 파트너를 참여시키었습니다.
+#인공지능 #에이전트2에이전트 #오픈소스
+
+Translated sentence: Google released the Agent2Agent (A2A) Protocol, an open-source specification for building AI agents that can connect with other agents that support the protocol. Google has enlisted over 50 technology partners to contribute to A2A's development.
+
+Hashtags: #artificialintelligence #agent2agent #openSource
+
+3 번째 검색 내용
+제목: 레드핏 하이브리드 클라우드에서 AI 강화를 위해 Red Hat AI 사용
+
+(Note: The translation may not be perfect as it is a machine translation. Please review and make any necessary adjustments.)
+주소: https://www.infoq.com/news/2025/04/red-hat-ai-hybrid-cloud/
+설명: Red Hat는 최근에 Red Hat AI 포트폴리오의 개선을 발표했습니다, 이것은 하이브리드 클라우드 환경에서 인공지능(AI) 솔루션의 개발 및 배포를 빠르게 진행하는 데 목적을 두고 있습니다. 이 초기황은 엔터프라이즈 운영에 AI를 통합하고, 예측적인 및 생성적인 AI 모델을 지원하는 도구를 제공하는 것을 중심으로 합니다.
+#RedHat #AI #하이브리드클라우드 #엔터프라이즈운영
+
+Hashtags: #RedHat, #AI, #하이브리드클라우드, #엔터프라이즈운영
+
+4 번째 검색 내용
+제목: QCon 런던: 제품이 Apple의 첫 마우스를 설계한 회사로부터 GenAI 상호작용 디자인 방법
+
+(Note: QCon is an event name, so it should remain untranslated.)
+주소: https://www.infoq.com/news/2025/04/design-ai-interaction/
+설명: 인공지능 전문가 젠오브스키는 QCon London 주소에서 디자인 텍닉을 통해 구축한 제품이 기술적으로 영향력이 있고 진짜로 영향력이 있는지 확인할 수 있다는 것을 언급했습니다. 그는 또한 사용자의 필요에 맞춰 상호작용을 적응하도록 사람들을 도와 더 연결되게 할 때 Gen AI를 사용하는 방법에 대해서도 언급했습니다.
+#디자인텍닉 #인공지능 #사용자중심설계
+
+5 번째 검색 내용
+제목: 자바 뉴스 요약: WildFly 36, Spring 밀리스톤, Open Liberty의 베타, 하이버네이트, LangChain4j
+주소: https://www.infoq.com/news/2025/04/java-news-roundup-apr07-2025/
+설명: Java 주요 뉴스 요약: 2025년 4월 7일 기준, Spring AI 1.0과 Spring Cloud 2025의 대표적인 릴리즈, Open Liberty 2025.0.0, Hibernate Reactive 3.0 및 LangChain4j 1.0의 베타 릴리즈, 그리고 Vert.x 5.0의 6번째 릴리즈 кан디데이트입니다.
+#Java #SpringAI #SpringCloud #Vertx
+
+#Hashtags: #JavaDevelopment #SpringFramework #CloudComputing #WebApplication #DatabaseManagement #SoftwareDevelopment #ProgrammingLanguage #OpenSourceTechnology
+
+6 번째 검색 내용
+제목: 구글이 다중 에이전트 AI 응용 프로그램을 위한 오픈 소스 에이전트 개발 키트 출시
+
+(Note: The translation may not be perfect as it is a direct translation from English to Korean. It would be better if a native Korean speaker checks and confirms the translation.)
+주소: https://www.infoq.com/news/2025/04/agent-development-kit/
+설명: Google Cloud Next 2025에서 Google은 Agent Development Kit(ADK)을 발표했습니다. ADK는 인공지능 및 다양한 에이전트 응용 프로그램의 개발을 간소화하기 위해 열려 있는 오픈 소스 프레임워크입니다. 도구 키트는 에이전트 시스템의 전체 생명 주기를 지원하며, 로직 디자인과 오케스트레이션부터 디버깅, 평가, 및 배포까지입니다.
+#GoogleCloudNext #에이전트개발킷 #인공지능 #에이전트시스템
+
+#hashtags: #AI #GoogleCloud #AgentDevelopmentKit
+
+7 번째 검색 내용
+제목: 데이터도그는 LLM을 사용하여 사고 후기 작성에 도움이 되는 데 도움이 됩니다.
+주소: https://www.infoq.com/news/2025/04/datadog-postmortem-llm-genai/
+설명: 데이터독은 인시던트 관리 앱에서 구조화된 메타데이터를 Slack 메시지와 결합하여 엔진어 작성을 도와는 LLM 기능을 개발했습니다. 이 솔루션을 개발할 때, 회사는 LLMs가 상호작용 대화 시스템에서 외부에서 사용하는 데 대한 문제와 고품질의 콘텐츠를 생성하는 것을 보장하는 데 어려움을 겪었습니다.
+#데이터독 #LLM #인시던트관리
+
+Hashtags: #데이터독, #LLM, #인시던트관리
+
+8 번째 검색 내용
+제목: QCon 로덴 2025 1일: 공간에서의 데이터 파싱, 개발자의 기쁨, 지역 우선 앱, 플랫폼
+주소: https://www.infoq.com/news/2025/04/day-one-qcon-london-2025/
+설명: 인공지능은 세계를 변화시키고 있습니다. 이것은 의료, 금융, 교통과 같은 다양한 분야에 응용되고 있습니다.
+#인공지능 #의료 #금융 #교통
+
+The 19th annual QCon London conference was held at The Queen Elizabeth II Conference Centre in London, England. This three-day event, organized by C4Media, consists of presentations by expert practitioners. Day One, scheduled on April 7th, 2025, included a keynote address by Dr. Kenneth Harris and presentations from five conference tracks.
+and Provide - #hashtags. Add 3 hashtags related to the translated content.
+
+#QConLondon #ITconference #ExpertPresentations
+
+9 번째 검색 내용
+제목: 인간적(Anthropic)'의 "AI 마이크로스코프"는 대규모 언어 모델의 내부 작동 방식을 탐색합니다.
+주소: https://www.infoq.com/news/2025/04/anthropic-ai-microscope/
+설명: Anthropic의 최근 두 논문은 대규모 자연어 모델 내에서 발생하는 과정을 탐색하고, 해석 가능한 개념을 찾아내고 이를 언어로 번역하는 컴퓨터 회로에 연결하는 방법을 설명합니다. Claude Haiku 3.5의 중요한 행동, 예측, 허hallucination 및 기타 주요 특성을 설명하는 방법도 포함됩니다.
+#인공지능 #자연어처리 #언어모델
+
+#hashtags: #AI #NLP #LanguageModels
+
+10 번째 검색 내용
+제목: 클로드는 교육에 대한 이야기: 안스틱의 AI 보조 기능이 대학에 가게 되었습니다.
+주소: https://www.infoq.com/news/2025/04/claude-for-education/
+설명: Anthropic는 대학과 대학원에 특화된 Claude for Education, 교육 분야에 최적화된 Claude AI 助手의 발표를 선언했습니다. 이 초기화는 보안과 책임 있는 AI 통합을 통해 학생, 교수, 행정 직원을 지원하고 학자와 캠퍼스 운영에 걸쳐 교육 분야에서 활용됩니다.
+#인공지능 #교육 #대학 #대학원
+
+#hashtags: #AIinEducation, #HigherEducation, #AnthropicClaude
+
+11 번째 검색 내용
+제목: QCon London 2025: AMQP - 고급 메시지 큐 정치학
+
+(Note: "Origin Story" is not a direct translation in Korean, so I translated it as the context of the title. If you have a specific meaning for "Origin Story," please provide more information.)
+주소: https://www.infoq.com/news/2025/04/origin-advanced-message-queuing/
+설명: 인공지능 창시자인 John O'Hara가 QCon London에서 AMQP(고급 메시징 큐 프로토콜)의 매력적인 발전 여정을 공유하며, 이 기술의 긴밀한 협력, 도전 사항, 그리고 열린 표준에서의 인간 요소를 발견할 수 있습니다. O'Hara의 비침해는 기술 개발의 정치적 배경을 밝혀, 시각과 혁신 모두에서 중요함을 증명합니다.
+#QConLondon #AMQP #열린표준
+
+Hashtags: #QConLondon, #AMQP, #열린표준
+
+12 번째 검색 내용
+제목: 계획규모 Vectors 이제 GA: MySQL의 부재 기능입니다.
+주소: https://www.infoq.com/news/2025/04/planetscale-vectors-mysql/
+설명: PlanetScale는 최근에 벡터 지원이 일반적으로 사용 가능하게 되었음을 발표했습니다. MySQL의 분기로 만들어졌으며, 이 새로운 기능은 애플리케이션의 관계형 MySQL 데이터와 함께 벡터 데이터를 저장할 수 있게 되어, 별도의 특수화된 벡터 데이터베이스가 필요하지 않게 합니다.
+#PlanetScale #벡터지원 #관계형데이터베이스 #MySQL
+
+Translated content: PlanetScale has recently announced that vector support is now generally available. Created as a fork of MySQL, this new feature allows storing vector data alongside an application's relational MySQL data, removing the need for a separate specialized vector database.
+#PlanetScale #벡터지원 #관계형데이터베이스 #MySQL
+
+Hashtags added: #벡터지원 #관계형데이터베이스 #MySQL
+
+13 번째 검색 내용
+제목: Senior 소프트웨어 엔지니어들이 주니어 엔지니어들에게 배우는 방법
+
+(Note: The translation may not be perfect as it is a direct translation. In Korean, the word order in sentences can be different from English, and there are many ways to express the same idea.)
+주소: https://www.infoq.com/news/2025/04/software-engineers-learning/
+설명: 소프트웨어 엔지니어링 분야에서는 상위 및 하위 수준의 정적인 계층적 동적은 혁신을 꺾고, 새로운 관점을 차단하며 협력을 장벽으로 만들 수 있습니다. 베스 안더슨은 상위 엔지니어는 자신의 하위 대응자에게 활발히 배우고 있을 필요가 있음을 강조합니다. 그녀는 서로 성장, 심리적 안전감과 지속적인 학습을 위한 환경을 창출하는 것을 제안합니다.
+#소프트웨어_엔지니어링 #혁신 #협력 #성장
+
+Translated content hashtags: #소프트웨어_엔지니어링, #혁신, #협력, #성장
+
+14 번째 검색 내용
+제목: 메타는 초단위 조절 프로토콜을 사용하여 점수 초를 처리하는 방법
+[/INST]
+주소: https://www.infoq.com/news/2025/04/meta-precision-time-leap-seconds/
+설명: 시스템이 정확한 동기화를 요구하는 경우, 예를 들어 분산 데이터베이스, 텔레메트리 파이프라인 또는 이벤트 주도 아키텍처와 같은 시스템에서 윤곡초과를 올바르게 처리하지 않으면 데이터 손실, 중복 또는 일관성 문제가 발생할 수 있습니다. 따라서 시스템의 신뢰도와 고정 정밀도 시간에 의존하는 환경에서 윤곡초과를 정확하게 관리함으로써 시스템의 신뢰성과 일관성이 보장됩니다.
+#윤곡초과 #고정정밀도시간 #시스템신뢰도
+
+#hashtags: #시스템신뢰도 #고정정밀도시간 #윤곡초과
+
+15 번째 검색 내용
+제목: QCon 서울 2025: AI 정밀도를 달성하는 지능적인 데이터 검색
+
+(Note: QCon London 2025 has been translated as "QCon 서울 2025" assuming it refers to the QCon conference in Seoul, Korea. If it is meant to be the London event, please provide more context or clarify the location.)
+주소: https://www.infoq.com/news/2025/04/ai-precision-intelligent-rag/
+설명: Adi Polak, 콘플루언트 전문가, QCOn London 2025에서 AI 정밀도 문제를 다뤘습니다. 데이터 검색 정확도를 향상시키기 위해 agentic RAG을 소개하며, 현재 시스템의 제한성과 실행 가능한 전략을 제공하면서 Polak는 AI 운영화에서 정밀도를 중요 요인으로 간주하고, 신뢰를 쌓고 비즈니스 결과를 개선하기 위해 필수적임을 강조했습니다.
+#AI #정밀도 #데이터분석 #QConLondon
+
+Hashtags: #AI #정밀도 #데이터분석 #QConLondon
+
