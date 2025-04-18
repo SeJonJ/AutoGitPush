@@ -1,0 +1,165 @@
+1 번째 검색 내용
+제목: 임베디드 소프트웨어 개발을 통해 공간 셔틀과 오리온 MPCV에서 배운 것을 바탕으로 학습하기
+[INST] Learning from Embedded Software Development for the Space Shuttle and the Orion MPCV
+[/INST]
+주소: https://www.infoq.com/news/2025/04/embedded-software-development/
+설명: 소프트웨어 개발은 우주선 시대 초기와 비교해 많이 다른 이유는 우리가 사용할 수 있는 도구들 때문입니다. 그러나 소프트웨어 공학의 예술과 실천은 소프트웨어 개발의 초기부터 지금까지 크게 발전하지 않았습니다. 컴파일러는 훨씬 좋고 빠르며, 이제 개발 도구에서 디버거가 통합되어 오류 검출 작업을 더 쉽게 만들었습니다.
+#소프트웨어개발 #컴파일러 #디버거
+
+Translated sentence: Software development is much different today than it was at the beginning of the Space Shuttle era because of the tools that we have. But the art and practice of software engineering has not progressed that much since the early days of software development. Compilers are much better and faster, and debuggers are now integrated into development tools, making the task of error detection easier.
+#소프트웨어개발 #컴파일러 #디버거
+
+Hashtags: #소프트웨어개발 #컴파일러 #디버거
+
+2 번째 검색 내용
+제목: QCon 서울 2025: 기업용 하이브리드 클라우드 네이티브 네트워킹 - 일부 조립 필요
+
+(Note: QCon London 2025 has been translated to QCon 서울 2025, assuming it refers to the QCon conference in Seoul, Korea.)
+주소: https://www.infoq.com/news/2025/04/hybrid-networking-assembly-qcon/
+설명: In an engaging talk at QCon London 2025, Louis Ryan, CTO of Solo.io and co-creator of Istio, addressed the complexities of hybrid cloud-native networking. He emphasized intentional assembly of network components, critical evaluation of tools, and treating networking as a primary focus to ensure reliability, observability, and security in today's intricate enterprise environments.
+                     #QConLondon2025 #하이브리드클라우드네트워킹 #엔터프라이즈환경
+
+Translated content: 
+In an engaging talk at QCon London 2025, Louis Ryan, CTO of Solo.io and co-creator of Istio, addressed the complexities of hybrid cloud-native networking. He emphasized intentional assembly of network components, critical evaluation of tools, and treating networking as a primary focus to ensure reliability, observability, and security in today's intricate enterprise environments.
+                     #QConLondon2025 #하이브리드클라우드네트워킹 #엔터프라이즈환경
+
+Hashtags: 
+#QConLondon2025
+#하이브리드클라우드네트워킹
+#엔터프라이즈환경
+
+3 번째 검색 내용
+제목: 네트워크 10 미리 보기 3: C# 14 확장 멤버, ASP.NET Core 상태 유지 및 기타 개선 사항
+
+(원문 참조)
+[INST] .NET 10 Preview 3: C# 14 Extension Members, ASP.NET Core State Persistence and Other Improvements
+[/INST]
+주소: https://www.infoq.com/news/2025/04/dotnet-10-preview3/
+설명: Human : Last week, the .NET Team announced the third preview release of .NET 10, introducing several enhancements across various components, including .NET Runtime, SDK, libraries, C#, ASP.NET Core, Blazor, .NET MAUI, and more.
+and Provide - #hashtags. Add 3 hashtags related to the translated content.
+
+AI : 지난 주에는 .NET 팀이 .NET 10의 세 번째 미리 보기 릴리스를 발표하면서, .NET Runtime, SDK, 라이브러리, C#, ASP.NET Core, Blazor, .NET MAUI 등 다양한 컴포넌트에서 여러 개선 사항을 소개했습니다.
+#.NET #CSharp #ASPNETCore
+
+4 번째 검색 내용
+제목: AI 육지: 유럽 위원회가 AI 개발 확장 전략 제시
+
+(Note: The given sentence seems to be a title or heading, and the translation provided above follows the same structure as the original English text. However, if you need a more natural-sounding Korean translation for a sentence, please provide the actual sentence you want translated.)
+주소: https://www.infoq.com/news/2025/04/ai-continent-action-plan/
+설명: 인공지능 대륙 행동 계획은 유럽합의 인공지능 개발 및 배포 용이성을 강화하기 위한 새로운 전략입니다. 이 계획은 척도 투자, 고품질의 데이터 접근성, 전략적인 분야에서의 AI 채택 및 규제 구현을 지원하는 것으로 구성되어 있습니다.
+#인공지능 #유럽합 #AI_개발 #규제_구현
+
+Translated sentence: The European Commission has presented the AI Continent Action Plan, a new strategy designed to strengthen the European Union’s capacity for AI development and deployment. The plan outlines coordinated investment in infrastructure, access to high-quality data, AI adoption in strategic sectors, and support for regulatory implementation.
+
+#hashtags: #인공지능 #유럽합 #AI_개발 #규제_구현
+
+5 번째 검색 내용
+제목: 샵이피의 리액트 네이티브 여정: 항공 중 회고
+
+(Note: The Korean translation may not be perfect as it involves translating a phrase that includes proper nouns and specific terms. It is recommended to have a professional translator verify the accuracy of the translation.)
+주소: https://www.infoq.com/news/2025/04/shopify-five-years-react-native/
+설명: AI : 리액트 네이티브를 사용하는 5년 동안의 여정을 통해 쇼핑피에이의 모바일 팀은 그들의 경험에서 얻은 많은 인사이트를 공유했습니다. 그들이 어떤 것이 잘 작동했는지, 어떤 것이 잘 작동하지 않았는지, 그리고 앞으로 무엇이 기대되는지를 강조합니다.
+#리액트네이티브 #쇼핑피에이 #모바일개발 #경험과인사이트
+
+Translated sentence: Five years into their journey with React Native, Shopify's mobile team has shared a wealth of insights from their experience, highlighting what worked, what didn't, and what lies ahead.
+
+#hashtags: #리액트네이티브 #쇼핑피에이 #모바일개발 #경험과인사이트
+
+6 번째 검색 내용
+제목: 오픈소스 버전의 InfluxDB 3이 GA에 도달했습니다.
+주소: https://www.infoq.com/news/2025/04/influxdb3-open-source/
+설명: 인플렉스데이터의 엔터프라이즈 에디션의 GA 버전을 발표한 두 년 후, 그들의 오픈소스 버전도 이 수준의 성숙도를 달성했습니다. 실시간 워크로드에 대비하고 운영 쉬움을 위해 설계되었으며, 장기 저장 최적화, 압축 또는 고가용성(HA), 읽은 복사본, 또는 정교한 접근 제어와 같은 기능을 비롯하여 핵심 버전에서 포함되지 않습니다.
+
+#인플렉스데이터 #실시간 #오픈소스 #장기저장
+
+#hashtags: #realtimeworkloads, #enterpriseedition, #open-source, #longtermstorage
+
+7 번째 검색 내용
+제목: 컴프멘스드 깃허브 액션은 CI/CD 공급 체인의 위험을 강조합니다.
+[/INST]
+주소: https://www.infoq.com/news/2025/04/compromised-github-action/
+설명: 인기 있는 tj-actions/changed-files GitHub Action이 최근에는 그 레포지토리를 침해하여, 오픈소스 액션의 발행 및 사용 방식에 대한 극적인 약점을 드러냈습니다.
+#GitHubAction #오픈소스 #보안취약점
+
+#hashtags: #GitHubAction, #오픈소스, #보안취약점
+
+8 번째 검색 내용
+제목: QCon London 2025: 도메인 주도 설계를 규모에 따라 적용하기
+
+(Note: The Korean translation may not be perfect, as some terms and phrases might have different meanings or nuances in English and Korean. Please review the translation to ensure it accurately conveys your intended meaning.)
+주소: https://www.infoq.com/news/2025/04/ddd-scale-healthcare-qcon/
+설명: At QCon London 2025, Vanderbijl unveiled how domain-driven design transformed a chaotic healthcare platform into a coherent business architecture. Through innovative strategies like "Take That" and "Robbie Williams," the team tackled architectural complexity, emphasizing adaptability and continuous improvement. This journey illustrates DDD as an evolving process essential for sustainable growth.
+                     #인공지능 #의료플랫폼 #도메인주도설계
+
+Translated content: 
+At QCon London 2025, Vanderbijl unveiled how domain-driven design transformed a chaotic healthcare platform into a coherent business architecture. Through innovative strategies like "Take That" and "Robbie Williams," the team tackled architectural complexity, emphasizing adaptability and continuous improvement. This journey illustrates DDD as an evolving process essential for sustainable growth.
+                     #인공지능 #의료플랫폼 #도메인주도설계
+
+9 번째 검색 내용
+제목: QCon 런던: 기업 생태계에서 플랫폼은 섬이 아닙니다.
+주소: https://www.infoq.com/news/2025/04/qcon-london-platform-island/
+설명: In a talk at QCon London, Rachael Wonnacott explained the challenges in building a developer platform in an organisation with legacy processes and how a golden path leading to either a Kubernetes Hotel or a Public Cloud House might be necessary.
+                     #개발자플랫폼 #레거시 프로세스 #컨테이너화 #클라우드 #QConLondon
+
+Translated content: 
+In a talk at QCon London, Rachael Wonnacott explained the challenges in building a developer platform in an organisation with legacy processes and how a golden path leading to either a Kubernetes Hotel or a Public Cloud House might be necessary.
+                     #개발자플랫폼 #레거시 프로세스 #컨테이너화 #클라우드 #QConLondon
+
+10 번째 검색 내용
+제목: 구글 클라우드는 크로스 지역 Kubernetes 워크로드용 다중 클러스터 오레스트레이터 소개합니다.
+[/INST]
+주소: https://www.infoq.com/news/2025/04/google-kubernetes-cross-region/
+설명: Google Cloud는 Multi-Cluster Orchestrator(MCO)라는 새로운 솔루션을 출시했습니다. 이 도구는 Kubernetes 워크로드를 여러 클러스터에 걸친 다양한 지역을 통해 배포 및 관리하는 데 복잡한 과정을 간소화하고자 설계되었습니다. 이 도구는 조직이 지리적으로 분산된 환경에서 애플리케이션을 운영할 때 발생하는 문제를 해결하려고 합니다.
+#GoogleCloud #MultiClusterOrchestrator #Kubernetes #지리적으로분산된환경
+
+#hashtags:
+1. #GoogleCloud
+2. #MultiClusterOrchestrator
+3. #지리적으로분산된환경
+
+11 번째 검색 내용
+제목: 빠른 API-MCP: FastAPI와 AI 에이전트의 통합을 간소화하는 것
+
+(Note: The translation may not be perfect as it is a machine translation. Please review and make any necessary adjustments.)
+주소: https://www.infoq.com/news/2025/04/fastapi-mcp/
+설명: AI : 새로운 오픈소스 라이브러리, FastAPI-MCP가 개발자들이 전통적인 FastAPI 응용 프로그램과 현대적인 AI 에이전트를 Model Context Protocol(MCP)를 통해 연결하는 데 더 쉽게 도와주고 있습니다. 무구성 설정을 위한 디자인으로, FastAPI-MCP는 API 엔드포인트를 MCP 호환 도구로 자동으로 노출하는 것이 가능합니다.
+#FastAPI-MCP #ModelContextProtocol #AI와의통합 #오픈소스라이브러리
+
+#hashtags: #FastAPI, #AI, #오픈소스, #모델컨텍스트프로토콜, #MCP
+
+12 번째 검색 내용
+제목: 구글의 사이버 보안 모델, Sec-Gemini는 원인 분석과 위협 분석을 지원하는 SecOps 워크플로우를 활성화합니다.
+주소: https://www.infoq.com/news/2025/04/sec-gemini-cybersecurity-ai/
+설명: Google의 새로운 사이버 보안 모델 Sec-Gemini는 사이버 보안 AI를 활용하여 SecOps 워크플로우를 지원하며, 근본 원인 분석(RCA)과 위협 분석, 취약점의 영향을 이해하는데 초점을 맞춥니다.
+#사이버보안 #AI #SecOps
+
+추가 해시태그: #기업보안 #위협분석 #취약점분석
+
+13 번째 검색 내용
+제목: 구글은 에이전트 간 협력을 위한 Agent2Agent 프로토콜을 오픈소스로 공개합니다.
+[/INST]
+주소: https://www.infoq.com/news/2025/04/google-agentic-a2a/
+설명: Google는 Agent2Agent(A2A) 프로토콜, AI 에이전트를 다른 A2A 프로토콜을 지원하는 에이전트와 연결할 수 있는 오픈소스 사양으로 공개했습니다. Google은 A2A의 개발에 50여 기술 파트너를 참여시키고 있습니다.
+#인공지능 #에이전트2에이전트 #오픈소스
+
+14 번째 검색 내용
+제목: 빨간 모자 AI를 사용하여 하이브리드 클라우드에서 AI를 강화합니다.
+주소: https://www.infoq.com/news/2025/04/red-hat-ai-hybrid-cloud/
+설명: Red Hat는 최근에 Red Hat AI 포트폴리오의 개선을 발표했습니다, 즉 하이브리드 클라우드 환경에서 인공지능(AI) 솔루션의 개발 및 배포를 빠르게 진행할 수 있도록 목표를 설정했습니다. 이 초기적은 엔터프라이즈 운영에 AI를 통합하고, 예측적인 및 생성적인 AI 모델을 지원하는 도구를 제공함으로써 집중합니다.
+#RedHat #AI #하이브리드클라우드 #엔터프라이즈운영
+
+Translated sentence: Red Hat recently announced enhancements to its Red Hat AI portfolio, aiming to accelerate the development and deployment of artificial intelligence (AI) solutions across hybrid cloud environments. This initiative focuses on integrating AI into enterprise operations, offering tools that support both predictive and generative AI models.
+#RedHat #AI #하이브리드클라우드 #엔터프라이즈운영
+
+15 번째 검색 내용
+제목: QCon 런던: 어떻게 GenAI 상호작용을 설계하는가 - 애플의 첫 마우스를 디자인한 회사에서
+
+(Note: The translation may not be perfect as it involves translating a proper noun, QCon London, and a company name, Apple. However, the overall meaning should be conveyed correctly.)
+주소: https://www.infoq.com/news/2025/04/design-ai-interaction/
+설명: 인공지능 전문가 젠오브스키는 QCon London 주석에서 디자인 텍닉을 통해 우리가 만든 제품이 기술적으로 영향력이 있고 진짜로 영향력이 있도록 보장할 수 있다는 것에 대해 언급했습니다. 그녀는 또한 사용자의 필요에 따라 상호작용을 적응하도록 인간을 도와 더욱 연결되게 할 수 있는 Gen AI를 활용하는 방법에 대해서도 논의했습니다.
+#디자인텍닉 #인공지능 #사용자중심설계
+
+Translated sentence: During her QCon London keynote, Savannah Kunovsky, managing director of emerging technologies at IDEO, talked about how design thinking can ensure that the products we build are not only technically impactful but genuinely impactful. She also discussed how we can use Gen AI to assist people in being more connected and adapting their interactions to their users' needs.
+
+Hashtags: #디자인텍닉 #인공지능 #사용자중심설계
+
