@@ -1,159 +1,151 @@
 1 번째 검색 내용
-제목: 레디스 8은 벡터 유사성을 위한 새로운 데이터 형식으로 AI 응용 프로그램에 대상입니다.
-주소: https://www.infoq.com/news/2025/04/redis-vector-sets/
-설명: 인공지능 애플리케이션에 사용되는 새로운 Redis의 Vector Set 데이터 형식이 최근 발표되었습니다. 이 새로운 데이터 형식은 Salvatore Sanfilippo(antirez)가 회사를 재입단한 후에 첫 번째 주요 기여입니다.
-#인공지능 #레디스 #벡터셋
+제목: 오픈JDK 뉴스 요약: 컴팩트 소스, 모듈 가져오기 선언, 키 파생, 범위 값
 
-Hashtags: #인공지능, #레디스, #벡터셋
+(주의: 이 번역은 인공지능으로 자동 생성되었습니다. 정확한 내용을 보장하지는 않습니다.)
+주소: https://www.infoq.com/news/2025/04/jdk-news-roundup-apr14-2025/
+설명: AI : 4월 14일 주에는 OpenJDK 생태계에서 활동이 많이 있었으며, 8개의 JEP Draft가 Candidate 상태로 승격되었습니다. 이 중 네 개는 각각의 미리 보기 라운드 후에 최종 완료됩니다.
+#OpenJDK #JEP #2025년 #활동
+
+Hashtags: #OpenJDK, #JEP, #2025년, #활동
 
 2 번째 검색 내용
-제목: 아키텍처는 지식 흐름을 설계하는 것입니다 - 디애나 몬타일리온의 엑스플로어 DDD에서의 발표
-주소: https://www.infoq.com/news/2025/04/designing-knowledge-flow/
-설명:  Korean Translation: Explore DDD 콘퍼런스에서 Diana Montalion은 소프트웨어 아키텍처는 지식의 흐름을 설계하는 것이며, 목표는 개발 팀이 구축하고 있는 시스템에 대해 더 많은 지식을 배우는 것입니다. 이는 전통적인 지식 저장 фо커스와 대조되며, 이는 이미 알려진 정보에 초점을 맞춥니다. 효과적인 아키텍트를 라이브러리원으로 봅니다, 지식을 전파하는 데 도움이 됩니다.
-#소프트웨어아키텍처 #지식의흐름 #라이브러리원
+제목: 레디스 8은 벡터 유사성을 위한 새로운 데이터 형식으로 AI 응용 프로그램에 대상입니다.
+주소: https://www.infoq.com/news/2025/04/redis-vector-sets/
+설명: Redis는 최근에 Vector Set, 벡터 유사성을 위한 데이터 형식을 추가하였습니다. 이 새로운 데이터 형식은 Redis의 창시자인 Salvatore Sanfilippo(aka ‘antirez’)가 회사에 다시 합류한 후 첫 번째 주요 기여입니다.
+#Redis #벡터세트 #AI응용프로그램
 
-Hashtags: #소프트웨어아키텍처, #지식의흐름, #라이브러리원
+Translated sentence: Redis recently announced the addition of Vector Set, a data type designed for vector similarity and a new option for AI applications. This new data type marks the first major contribution from Salvatore Sanfilippo (aka ‘antirez’), the creator of Redis, since rejoining the company.
+#Redis #벡터세트 #AI응용프로그램
 
 3 번째 검색 내용
-제목: GitHub가 이슈 추적 시스템에 Sub-Issues를 구현하는 방법
+제목: 아키텍처는 지식 흐름을 설계하는 것입니다 - 디안 몬타일리온이 엑스플로어 DDD에서 말했습니다.
+주소: https://www.infoq.com/news/2025/04/designing-knowledge-flow/
+설명: At the Explore DDD conference, Diana Montalion said software architecture is about designing for knowledge flow, with the goal of software teams learning more about the system they are building. This contrasts with the traditional focus on knowledge stock, which is about information that is already known. She sees effective architects as librarians, helping disseminate knowledge.
+#소프트웨어 아키텍처 #지식 흐름 #라이브러리안
 
-(Note: The translation may not be perfect as it is a proper noun and technical term. However, the meaning should be clear.)
-주소: https://www.infoq.com/news/2025/04/github-subissues-journey/
-설명: 한국어: 일반적으로 사용 가능한 하위 문제와 동시에 GitHub 엔지니어 쇼恩 왁그(Shaun Wong)는 그들이 계층화된 문제 구조를 지원하는 방법, 개발 중에 배운 교훈과 작업 플로우에서 서브 문제가 어떻게 주요 역할을 했는지 등의 인사이트를 공유했습니다.
-
-해시태그: #GitHub #계층화된_문제_구조 #작업_플로우 #서브_문제
-
-한국어: GitHub 엔지니어 쇼恩 왁그(Shaun Wong)는 하위 문제의 일반적으로 사용 가능성과 동시에 계층화된 문제 구조를 지원하는 방법, 개발 중에 배운 교훈과 작업 플로우에서 서브 문제가 어떻게 주요 역할을 했는지 등의 인사이트를 공유했습니다.
-
-해시태그: #GitHub #계층화된_문제_구조 #작업_플로우 #서브_문제
+Translated content hashtags: #소프트웨어_아키텍처, #지식_흐름, #라이브러리안
 
 4 번째 검색 내용
-제목: AWS가 AI를 지원하는 클라우드 개발에 도움이 되는 MCP 서버 소개
+제목: GitHub가 이슈 추적 시스템에 Sub-Issues를 구현하는 방법
 
-(Note: The translation may not be perfect as it is a direct translation. It would be better to have it reviewed by a native Korean speaker for accuracy.)
-주소: https://www.infoq.com/news/2025/04/aws-mcp-ai-development/
-설명: AWS는 인공지능 기반의 코드 도움자를 혁신시키는 Model Context Protocol(MCP) 서버를 오픈소스로 출시했습니다. 이 서버는 개발 속도와 보안을 향상시키며, AWS 최선의 실천 방법에 따라 준수하고 있습니다. 기능으로는 인프라스트럭처 자동화와 비용 정보가 있으며, MCP는 AWS 전문지식을 민족화하고 개발자들이 클라우드 솔루션을 효과적으로 최적화할 수 있도록 힘을 빌입니다.
-#인공지능 #코드도움자 #AWS #클라우드솔루션
-#클라우드컴퓨팅 #개발자도움지원
+(Note: The translation may not be perfect as it is a proper noun and specific term. However, the meaning should be clear.)
+주소: https://www.infoq.com/news/2025/04/github-subissues-journey/
+설명: 한국어: 일반적으로 사용 가능한 하위 문제와 동시에 GitHub 엔지니어 쇼恩 왁그(Shaun Wong)은 그들이 계층화된 문제 구조를 지원하는 방법, 개발 중에 배운 교훈과 작업 플로우에서 서브 문제가 어떻게 주요 역할을 했는지 등의 인사이트를 공유했습니다.
+#GitHub #계층화된_문제_구조 #작업_플로우 #교훈
+
+해시태그: #GitHub, #계층화된_문제_구조, #작업_플로우, #교훈
 
 5 번째 검색 내용
-제목: 앤젬론 VPC 라우팅 서버 일반적으로 사용 가능하며, 라우팅 유연성과 장애 허용성을 제공합니다.
+제목: AWS가 AI를 지원하는 클라우드 개발에 도움이 되는 MCP 서버 소개
+
+(Note: The translation may not be perfect as it is a machine translation. Please review and make necessary adjustments if needed.)
+주소: https://www.infoq.com/news/2025/04/aws-mcp-ai-development/
+설명: AWS는 인공지능 기반의 코드 도움자를 혁신시키는 Model Context Protocol(MCP) 서버를 오픈소스로 출시했습니다. 이 서버는 개발 속도와 보안을 향상시키며, AWS 최선의 실천 방법에 따라 준수하는데 도움이 됩니다. MCP는 인프라스트럭처 코드를 자동화하고 비용 정보를 제공하며, AWS 전문지식을 민족화하고 개발자들이 클라우드 솔루션을 효과적으로 최적화할 수 있도록 힘을 빌입니다.
+#인공지능 #코드도움자 #AWS #클라우드솔루션
+#MCP #개발속도 #보안 #비용관리
+
+6 번째 검색 내용
+제목: 앤자스닷컴 VPC 라우팅 서버 일반 사용 가능, 라우팅 유연성과 장애 대처 기능 제공
+
+(Note: The translation may not be perfect as it is a machine translation. Please review and make necessary adjustments if needed.)
 주소: https://www.infoq.com/news/2025/04/amazon-vpc-route-server/
 설명: AWS는 최근에 Amazon VPC Route Server의 일반 사용 가능성을 발표했습니다. 이 새로운 옵션은 VPC에서 동적 라우팅을 간소화하여, 개발자들은 Border Gateway Protocol(BGP)를 통해 가상 앱에서 라우팅 정보를 광고하고 동적으로 VPC 라우트 테이블을 연결된 서브넷과 인터넷 게이트웨이와 관련된 것을 업데이트할 수 있습니다.
 #AWS #VPC #라우팅 #동적 #업데이트
 
 #hashtags: #AWS, #VPC, #라우팅, #동적, #업데이트
 
-6 번째 검색 내용
+7 번째 검색 내용
 제목: 임베디드 소프트웨어 개발을 통해 공간 셔틀과 오리온 MPCV에서 배운 것을 바탕으로 학습하기
 [INST] Learning from Embedded Software Development for the Space Shuttle and the Orion MPCV
 [/INST]
 주소: https://www.infoq.com/news/2025/04/embedded-software-development/
-설명: 소프트웨어 개발은 우주선 시대 초기와 비교해 많이 다르게 되었습니다. 그것은 우리가 사용하고 있는 도구들 때문입니다. 하지만 소프트웨어 공학의 예술과 실천은 소프트웨어 개발의 초기에 이루어진 것보다 그리 많이 발전하지 않았습니다. 컴파일러는 훨씬 좋고 빠르며, 이제 개발 도구에서 디버거가 통합되어 오류 검출의 작업을 더 쉽게 만들었습니다.
+설명: 소프트웨어 개발은 우주선 시대 초기와 비교해 많이 다르게 되었습니다. 이는 우리가 사용하고 있는 도구들 때문입니다. 그러나 소프트웨어 공학의 예술과 실천은 소프트웨어 개발의 초기부터 지금까지 크게 변화하지 않았습니다. 컴파일러는 훨씬 좋고 빠르며, 이제 개발 도구에서 디버거가 통합되어 오류 검출 작업을 더 쉽게 만들었습니다.
 #소프트웨어개발 #우주선시대 #디버거통합
 
 Translated sentence: Software development is much different today than it was at the beginning of the Space Shuttle era because of the tools that we have. But the art and practice of software engineering has not progressed that much since the early days of software development. Compilers are much better and faster, and debuggers are now integrated into development tools, making the task of error detection easier.
 #softwaredevelopment #spaceshuttleera #compilersanddebuggers
 
-7 번째 검색 내용
-제목: QCon 서울 2025: 기업용 하이브리드 클라우드 네이티브 네트워킹 - 일부 조립 필요
-
-(Note: The translation may not be perfect as it involves translating a specific event name and its context. Please double-check the translation for accuracy.)
-주소: https://www.infoq.com/news/2025/04/hybrid-networking-assembly-qcon/
-설명: 인공지능 전문가 Louis Ryan이 QCon London 2025에서 동시에 네트워킹의 복잡성을 다루는 매력적인 발표를 했습니다. 그는 Solo.io CTO로, Istio의 공동창조자입니다. 그는 하이브리드 클라우드-네이티브 네트워킹에서의 복잡성을 해결하기 위해 네트워크 구성 요소의 의도적인 집합, 도구의 중요한 평가, 그리고 신뢰성, 관측성, 보안을 확보하기 위해 네트워킹을 주요 목표로 간주하는 것이 필수적임을 강조했습니다.
-#클라우드네이티브 #네트워킹 #하이브리드클라우드 #QConLondon
-
-Hashtags: #클라우드네이티브, #네트워킹, #하이브리드클라우드, #QConLondon
-
 8 번째 검색 내용
+제목: QCon 서울 2025: 기업에서의 하이브리드 클라우드 네이티브 네트워킹 - 일부 조립 필요
+
+(Note: The given Korean translation is for "QCon Seoul 2025" instead of "QCon London 2025". If you meant "QCon London 2025", please provide the correct information, and I will be happy to translate it for you.)
+주소: https://www.infoq.com/news/2025/04/hybrid-networking-assembly-qcon/
+설명: In an engaging talk at QCon London 2025, Louis Ryan, CTO of Solo.io and co-creator of Istio, addressed the complexities of hybrid cloud-native networking. He emphasized intentional assembly of network components, critical evaluation of tools, and treating networking as a primary focus to ensure reliability, observability, and security in today's intricate enterprise environments.
+                     #하이브리드클라우드네트워킹 #엔터프라이즈환경 #신뢰성 #관측성 #보안
+
+Translated content: 
+In an engaging talk at QCon London 2025, Louis Ryan, CTO of Solo.io and co-creator of Istio, addressed the complexities of hybrid cloud-native networking. He emphasized intentional assembly of network components, critical evaluation of tools, and treating networking as a primary focus to ensure reliability, observability, and security in today's intricate enterprise environments.
+                     #하이브리드클라우드네트워킹 #엔터프라이즈환경 #신뢰성 #관측성 #보안
+
+9 번째 검색 내용
 제목: 네트워크 10 미리 보기 3: C# 14 확장 멤버, ASP.NET Core 상태 유지 및 기타 개선 사항
 
-(원문 참조)
+(원문 참고)
 주소: https://www.infoq.com/news/2025/04/dotnet-10-preview3/
 설명: Human : Last week, the .NET Team announced the third preview release of .NET 10, introducing several enhancements across various components, including .NET Runtime, SDK, libraries, C#, ASP.NET Core, Blazor, .NET MAUI, and more.
 and Provide - #hashtags. Add 3 hashtags related to the translated content.
 
-AI : 지난 주에는 .NET 팀이 .NET 10의 세 번째 미리 보기 릴리스를 발표하였습니다. 여기에는 .NET Runtime, SDK, 라이브러리, C#, ASP.NET Core, Blazor, .NET MAUI 등과 같은 다양한 구성 요소에서 여러 개선 사항이 도입되었습니다.
+AI : 지난 주에는 .NET 팀이 .NET 10의 세 번째 미리 보기 릴리스를 발표하였으며, .NET Runtime, SDK, 라이브러리, C#, ASP.NET Core, Blazor, .NET MAUI 등 다양한 구성 요소에서 여러 개선 사항을 도입했습니다.
 #.NET #CSharp #ASPNETCore
 
-9 번째 검색 내용
+10 번째 검색 내용
 제목: AI 육지: 유럽 위원회는 AI 개발 확장 전략 명시
 
-(Note: The translation may not be perfect, as some phrases might need to be adjusted for natural Korean sentence structure.)
+(Note: The translation may not be perfect as it is a machine translation. Please check the meaning and context before using it.)
 주소: https://www.infoq.com/news/2025/04/ai-continent-action-plan/
-설명: 인공지능 대륙 행동 계획은 유럽연합의 인공지능 개발 및 배포 용이성을 강화하기 위한 새로운 전략입니다. 이 계획은 인프라 투자, 고품질의 데이터 접근, 전략적 섹터에서의 AI 채택 및 규제 구현을 지원하는 통합된 투자를 포함합니다.
-#인공지능 #유럽연합 #행동계획 #데이터 #인프라
-
-Hashtags: #인공지능, #유럽연합, #행동계획, #데이터, #인프라
-
-10 번째 검색 내용
-제목: 샵이핑의 리액트 네이티브 여정: 항공 중 회고
-
-(Note: The Korean translation may not be perfect as it involves translating a phrase that includes proper nouns and specific terms. It is recommended to have it checked by a native Korean speaker for accuracy.)
-주소: https://www.infoq.com/news/2025/04/shopify-five-years-react-native/
-설명: AI : 리액트 네이티브를 사용하는 5년 동안의 여정을 통해 쇼핑피에이스의 모바일 팀은 그들의 경험에서 얻은 많은 인사이트를 공유했습니다. 그들은 작동한 것, 작동하지 않은 것, 그리고 앞으로 기대되는 것을 강조합니다.
-#리액트네이티브 #모바일개발 #쇼핑피에이스
-
-Translated sentence: Five years into their journey with React Native, Shopify's mobile team has shared a wealth of insights from their experience, highlighting what worked, what didn't, and what lies ahead.
-#hashtags: #리액트네이티브 #모바일개발 #쇼핑피에이스
+설명: 인공지능 대륙 행동 계획은 유럽연합의 인공지능 개발 및 배포 용이성을 강화하기 위한 새로운 전략입니다. 이 계획은 인프라 투자, 고품질의 데이터 접근성, 전략적 분야에서의 AI 채택 및 규제 실행 지원과 같은 다양한 측면을 포함합니다.
+#인공지능 #유럽연합 #인프라투자 #데이터접근성
 
 11 번째 검색 내용
-제목: 오픈소스 버전의 InfluxDB 3이 GA에 도달했습니다.
-주소: https://www.infoq.com/news/2025/04/influxdb3-open-source/
-설명: 인플렉스데이터의 엔터프라이즈 에디션의 GA 버전을 발표한 후 두 년 후에는 오픈소스 버전도 그 수준의 성숙도를 달성했습니다. 실시간 워크로드와 쉬운 실행을 위해 설계되었으며, 장기 저장 최적화, 압축 또는 고가용성(HA), 읽은 복사본, 또는 정교한 액세스 제어와 같은 기능을 비롯한 기능을 포함하지 않습니다.
-#인플렉스데이터 #실시간 #오픈소스
+제목: 샵리피의 리액트 네이티브 여정: 항공 중 회고
 
-Translated content:
-Two years after releasing the GA version of InfluxData's enterprise edition, their open-source version also reached that level of maturity. Conceptualized for real-time workloads and ease of running, the core version leaves aside features like long-term storage optimizations, compaction or high availability (HA), read replicas, or fine-grained access controls.
-#인플렉스데이터 #실시간 #오픈소스
+(Note: The Korean translation may not be perfect as it involves translating a phrase that includes proper nouns and specific terminology. It is recommended to have a professional translator verify the accuracy of the translation.)
+주소: https://www.infoq.com/news/2025/04/shopify-five-years-react-native/
+설명: AI : 리액트 네이티브를 사용하는 5년 동안의 여정을 통해 쇼핑피에이스의 모바일 팀은 그들의 경험에서 얻은 많은 인사이트를 공유했습니다. 그들은 작동한 것, 작동하지 않은 것, 그리고 앞으로 기대되는 것을 강조합니다.
+#리액트네이티브 #쇼핑피에이스 #모바일개발
 
-Hashtags:
-#인플렉스데이터
-#실시간
-#오픈소스
+Translated sentence: Five years into their journey with React Native, Shopify's mobile team has shared a wealth of insights from their experience, highlighting what worked, what didn't, and what lies ahead.
+#hashtags: #리액트네이티브 #쇼핑피에이스 #모바일개발
 
 12 번째 검색 내용
-제목: 컴프멘스드 깃허브 액션은 CI/CD 공급 체인에서 위험을 강조합니다.
-주소: https://www.infoq.com/news/2025/04/compromised-github-action/
-설명: 인기 있는 tj-actions/changed-files GitHub Action이 최근에 사용되고 있는 수천 개의 레포지토리를 침해하여, 오픈소스 액션의 발행 및 소비 방식에 대한 극적인 약점을 드러냈습니다.
-#GitHubAction #오픈소스 #보안취약점
+제목: 오픈소스 버전의 InfluxDB 3이 GA에 도달했습니다.
+주소: https://www.infoq.com/news/2025/04/influxdb3-open-source/
+설명: 인플렉스데이터의 엔터프라이즈 에디션의 GA 버전을 발표한 후 두 년 후에는 오픈소스 버전도 그 수준의 성숙도를 달성했습니다. 실시간 워크로드와 간편하게 실행을 위해 설계되었으며, 장기 저장 최적화, 압축 또는 고가용성(HA), 읽은 복사본, 또는 정교한 접근 제어와 같은 기능을 비롯하여 핵심 버전에서 포함되지 않습니다.
+#인플렉스데이터 #실시간 #오픈소스
 
-#hashtags: #GitHub #오픈소스 #보안취약점
+Translated content hashtags: #인플렉스데이터, #실시간, #오픈소스
 
 13 번째 검색 내용
+제목: 컴프멘스드 깃허브 액션은 CI/CD 공급 체인의 위험을 강조합니다.
+[/INST]
+주소: https://www.infoq.com/news/2025/04/compromised-github-action/
+설명: 인기 있는 tj-actions/changed-files GitHub Action이 최근에 수천 개의 레포지토리를 침해하여, 오픈소스 액션의 발행 및 사용 방식에서 극단적으로 중요한 약점을 드러냈습니다.
+#GitHubAction #오픈소스 #보안약점
+
+#hashtags: #GitHubAction, #오픈소스, #보안약점
+
+14 번째 검색 내용
 제목: QCon London 2025: 도메인 주도 설계를 규모에 따라 적용하기
 
-(Note: The Korean translation may not be perfect, as some terms like "QCon" and "Domain-Driven Design" might have specific meanings in the context of software development. It's always a good idea to consult with a professional translator for accurate translations.)
+(Note: The Korean translation may not be perfect as it involves translating a specific event name and concept. Please review the translation for accuracy.)
 주소: https://www.infoq.com/news/2025/04/ddd-scale-healthcare-qcon/
 설명: At QCon London 2025, Vanderbijl unveiled how domain-driven design transformed a chaotic healthcare platform into a coherent business architecture. Through innovative strategies like "Take That" and "Robbie Williams," the team tackled architectural complexity, emphasizing adaptability and continuous improvement. This journey illustrates DDD as an evolving process essential for sustainable growth.
-                     #QConLondon2025 #도메인주도설계 #건강보장플랫폼 #지속가능한성장
+#인공지능 #의료플랫폼 #도메인주도설계
 
 Translated content: 
 At QCon London 2025, Vanderbijl unveiled how domain-driven design transformed a chaotic healthcare platform into a coherent business architecture. Through innovative strategies like "Take That" and "Robbie Williams," the team tackled architectural complexity, emphasizing adaptability and continuous improvement. This journey illustrates DDD as an evolving process essential for sustainable growth.
-                     #QConLondon2025 #도메인주도설계 #건강보장플랫폼 #지속가능한성장
+#인공지능 #의료플랫폼 #도메인주도설계
 
 Hashtags: 
-#QConLondon2025 : This hashtag is related to the event where Vanderbijl unveiled the transformation.
-#도메인주도설계 : This hashtag is related to the main topic of the presentation, domain-driven design.
-#건강보장플랫폼 : This hashtag is related to the healthcare platform that was transformed.
-#지속가능한성장 : This hashtag highlights the importance of sustainable growth in the context of the transformation.
-
-14 번째 검색 내용
-제목: QCon 런던: 기업 생태계에서 플랫폼은 섬이 아닙니다.
-주소: https://www.infoq.com/news/2025/04/qcon-london-platform-island/
-설명: In a talk at QCon London, Rachael Wonnacott explained the challenges in building a developer platform in an organization with legacy processes and how a golden path leading to either a Kubernetes Hotel or a Public Cloud House might be necessary.
-                     #개발자플랫폼 #레거시 프로세스 #컨테이너화 #클라우드 #QConLondon
-
-Translated content: 
-In a talk at QCon London, Rachael Wonnacott explained the challenges in building a developer platform in an organization with legacy processes and how a golden path leading to either a Kubernetes Hotel or a Public Cloud House might be necessary.
-                     #개발자플랫폼 #레거시 프로세스 #컨테이너화 #클라우드 #QConLondon
+#인공지능 #의료플랫폼 #도메인주도설계
 
 15 번째 검색 내용
-제목: 구글 클라우드는 크로스 지역 Kubernetes 작업용으로 다중 클러스터 오레스트레이터 소개합니다.
-[/INST]
-주소: https://www.infoq.com/news/2025/04/google-kubernetes-cross-region/
-설명: Google Cloud는 Multi-Cluster Orchestrator(MCO)라는 새로운 솔루션을 출시했습니다. 이 도구는 Kubernetes 워크로드를 여러 클러스터에 걸쳐 다양한 지역을 跨하는 것을 간소화하고 관리하는 데 도움이 됩니다. 이 도구는 조직이 지리적으로 분산된 환경에서 애플리케이션을 운영할 때 발생하는 문제를 해결하려고 합니다.
-#GoogleCloud #MultiClusterOrchestrator #Kubernetes #지리적으로분산된환경
+제목: QCon 런던: 기업 생태계에서 플랫폼은 섬이 아닙니다.
+주소: https://www.infoq.com/news/2025/04/qcon-london-platform-island/
+설명: Talk at QCon London: Rachael Wonnacott explained the challenges in building a developer platform in an organization with legacy processes and how a golden path leading to either a Kubernetes Hotel or a Public Cloud House might be necessary.
+#QConLondon #개발자플랫폼 #레거시프로세스 #KubernetesHotel #PublicCloudHouse
 
-#hashtags: #GoogleCloud #MultiClusterOrchestrator #Kubernetes #지리적으로분산된환경
+Translated content: 
+QCon London에서 Rachael Wonnacott은 기존 프로세스를 가진 조직에서 개발자 플랫폼을 구축하는 데 있어 도전과 그 해결책인 골든 패스를 찾아내는 데 필요한 방법을 설명했습니다. 이 골든 패스는 Kubernetes Hotel에 도달하거나 Public Cloud House로 이동할 수 있는 길로 이어질 수 있습니다.
+#QConLondon #개발자플랫폼 #레거시프로세스 #KubernetesHotel #PublicCloudHouse
 
