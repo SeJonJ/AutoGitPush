@@ -2,9 +2,9 @@
 제목: 작업 플로우 엔진인 Java LittleHorse를 사용하여 분산 시스템 오케스트레이션을 수행합니다.
 주소: https://www.infoq.com/news/2025/04/littlehorse/
 설명: LittleHorse는 분산 시스템을 조직화하고 상태 관리와 마이크로서비스, 외부 API, 인간 작업의 동기화를 위한 다양한 도메인에서 사용되는 Java 오픈소스 플랫폼입니다. 개발자들은 프로그래밍 방식으로 워크플로우를 정의할 수 있으며, 특수한 DSL을 사용하지 않아도 됩니다.
-#LittleHorse #분산시스템 #오픈소스 #워크플로우
+#분산시스템 #LittleHorse #오픈소스플랫폼
 
-#hashtags: #분산시스템 #오픈소스 #워크플로우 #Java #마이크로서비스 #외부API #인간작업 #LittleHorse
+#hashtags: #분산시스템 #워크플로우 #오픈소스
 
 2 번째 검색 내용
 제목: Microsoft 원생 1비트 LLM가 일반적인 CPU에서 효율적인 genAI를 제공할 수 있습니다.
@@ -12,11 +12,13 @@
 설명: In a recent paper, Microsoft researchers described BitNet b1.58 2B4T, the first LLM to be natively trained using "1-bit" (technically, 1-trit) weights, rather than being quantized from a model trained with floating point weights. According to Microsoft, the model delivers performance comparable to full-precision LLMs of similar size at a fraction of the computation cost and hardware requirements.
 #인공지능 #1비트 #LLM
 
-Translated content: In a recent paper, Microsoft researchers described BitNet b1.58 2B4T, the first LLM to be natively trained using "1-bit" (technically, 1-trit) weights, rather than being quantized from a model trained with floating point weights. According to Microsoft, the model delivers performance comparable to full
+Translated content: In a recent paper, Microsoft researchers described BitNet b1.58 2B4T, the first LLM to be natively trained using "1-bit" (technically, 1-trit) weights, rather than being quantized from a model trained with floating point weights. According to Microsoft, the model delivers performance comparable to full-precision LLMs of similar size at a fraction of the computation cost and hardware requirements.
+#인공지능 #1비트 #LLM
 
 3 번째 검색 내용
-제목: 빠른 이벤츄얼 컨시스턴시: 코로전, 파일리오를 위한 분산 시스템
-[INST] Fast Eventual Consistency: Inside Corrosion, the Distributed System Powering Fly.io [/INST]
+제목: 빠른 이벤슬 일관성: 코로시온, 핵심 분산 시스템인 Fly.io의 동력원
+
+(Note: The translation may not be perfect as it is a technical term and some words might have been translated literally.)
 주소: https://www.infoq.com/news/2025/04/corrosion-distributed-system-fly/
 설명: 인нова틱한 클라우드 솔루션 전문가 Somtochi Onyekwere는 QCon London 2025에 참석하여 Fly.io의 고급 개방형 분산 시스템인 Corrosion을 공개했습니다. CRDTs와 Rust를 활용하여 확장성과 데이터 동기화를 향상시키며, 지연 문제를 해결하고 전세계 40개 이상의 네트워크에서 빠르고 일관된으로 응용 프로그램을 배포할 수 있도록 합니다.
 #클라우드솔루션 #CRDTs #Rust #Fly.io
@@ -24,19 +26,17 @@ Translated content: In a recent paper, Microsoft researchers described BitNet b1
 #hashtags: #인공지능 #의료 #금융 #교통
 
 4 번째 검색 내용
-제목: 앤젬론 Q와 클로드 코드를 사용하여 AI가 개발자 CLI를 제어하게 만들기
-
-(Note: The translation may not be perfect as it is a proper noun and technical term. However, this is the best possible translation given the context.)
+제목: 앤젬론 Q와 클로드 코드를 사용하여 AI가 개발자 CLI를 제어하라.
 주소: https://www.infoq.com/news/2025/04/amazon-q-cli-claude-code/
-설명: AWS는 Amazon Q Developer에 대한 향상된 CLI(명령줄 인터페이스) 에이전트를 발표했습니다. 이 업그레이드로 개발자들은 AI를 터미널에서 직접 사용할 수 있게 되었습니다. 동시에, Anthropic은 Claude Code를 연구 전시로 출시했습니다. 이것은 명령줄에서 Claude와 직접 작업할 수 있는 터미널 기반 코딩 도우미입니다.
-#AWS #AmazonQDeveloper #CLI #인공지능 #터미널 #Anthropic #ClaudeCode #연구전시 #코딩도우미
+설명: AWS는 Amazon Q Developer에 대한 향상된 CLI(명령줄 인터페이스) 에이전트를 발표했습니다. 이 업그레이드로 개발자들은 AI를 터미널에서 직접 사용할 수 있게 되었습니다. 동시에, Anthropic은 Claude Code를 연구 전문가 선보임으로 설명합니다. 이것은 개발자들이 Claude를 터미널에서 직접 사용할 수 있는 터미널 기반의 코딩 도우미입니다.
+#AWS #AmazonQDeveloper #CLI #인공지능 #터미널 #Anthropic #ClaudeCode #코딩도우미
 
-Hashtags: #AWS, #AmazonQDeveloper, #CLI, #인공지능, #터미널, #Anthropic, #ClaudeCode, #연구전시, #코딩도우미
+Hashtags: #AWS, #AmazonQDeveloper, #CLI, #인공지능, #터미널, #Anthropic, #ClaudeCode, #코딩도우미
 
 5 번째 검색 내용
 제목: 네트워크 애스파이어 9.2가 확장된 배포 옵션과 대시보드 개선으로 릴리즈되었습니다.
 주소: https://www.infoq.com/news/2025/04/dotnet-aspire-92-release/
-설명: NET 팀은 .NET Aspire의 9.2 버전을 출시하였습니다. 대시보드 경험, 새로운 통합 기능, 및 배포 개선 사항이 도입되었습니다. 공식 발표에서는 이 릴리즈가 애플리케이션 개발 및 클라우드 네이티브 배포 워크플로우의 목표를 간소화하는 데 도움이 되었다고 언급되었습니다.
+설명: NET 팀은 .NET Aspire의 9.2 버전을 릴리스하였습니다. 대시보드 경험, 새로운 통합 기능, 및 배포 개선 사항이 도입되었습니다. 공식 발표에서는 이 릴리스가 애플리케이션 개발과 클라우드 네이티브 배포 워크플로우를 간소화하는데 있어 플랫폼의 목표를 더 나아가고 있음을 언급했습니다.
 #.NETAspire #애플리케이션개발 #클라우드네이티브배포
 
 Translated content: The .NET team has released version 9.2 of .NET Aspire, introducing updates to the dashboard experience, new integration capabilities, and deployment improvements. As stated in the official announcement, this release furthers the platform’s goal of simplifying application development and cloud-native deployment workflows.
@@ -45,7 +45,7 @@ Translated content: The .NET team has released version 9.2 of .NET Aspire, intro
 6 번째 검색 내용
 제목: 구글 딥마인드는 LLM을 논리와 수학 문제를 해결하는 데 평가하기 위해 QuestBench를 소개합니다.
 주소: https://www.infoq.com/news/2025/04/google-deepmind-questbench-llm/
-설명: 인공지능 기업 Google DeepMind의 QuestBench 벤치마크는 LLMs가 논리, 계획, 수학 문제를 해결하기 위해 필요한 단 하나의 중요한 질문을 찾아내는지 평가하는데 도움이 됩니다. DeepMind 팀은 최근 QuestBench에 대한 논문을 발표했습니다. QuestBench는 최대 하나의 질문으로 해결할 수 있는 언더스페시파이드 사유 작업 집합입니다.
+설명: 인공지능 기업 Google DeepMind의 QuestBench 벤치마크는 LLMs가 논리, 계획, 또는 수학 문제를 해결하기 위해 필요한 단 하나의 중요한 질문을 찾아내는지 평가하는데 도움이 됩니다. DeepMind 팀은 최근 QuestBench에 대한 논문을 발표했습니다. QuestBench는 최대 하나의 질문으로 해결할 수 있는 언더스페시파이드 사유 작업의 집합입니다.
 #인공지능 #DeepMind #QuestBench #논문
 
 #hashtags: #인공지능, #DeepMind, #QuestBench, #논문
@@ -53,20 +53,24 @@ Translated content: The .NET team has released version 9.2 of .NET Aspire, intro
 7 번째 검색 내용
 제목: 도커 모델 러너는 로컬에서 LLM 모델을 실행하는 것을 더 쉽게 만들고자 합니다.
 주소: https://www.infoq.com/news/2025/04/docker-model-runner/
-설명: 현재 Docker Desktop 4.40 macOS Apple Silicon에서 미리보기 중인 Docker Model Runner는 개발자들이 컨테이너 기반 워크플로우를 방해하지 않고 로컬 모델을 실행하여 애플리케이션 코드에 대한 반복 작업을 수행할 수 있도록 합니다.
-#DockerDesktop #AppleSilicon #컨테이너기반워크플로우
+설명: 현재 Docker Desktop 4.40 macOS Apple Silicon에서 미리보기 중인 Docker Model Runner는 개발자들이 컨테이너 기반 워크플로우를 방해하지 않고 로컬 모델을 실행하여 애플리케이션 코드에 반복할 수 있도록 합니다.
+#Docker #Desktop #ModelRunner
+
+#hashtags: #Docker #Desktop #ModelRunner
 
 8 번째 검색 내용
 제목: QCon 런던: AI 에이전트는 인간을 더 나은 사람으로 만들기 위해 함께 작업할 수 있습니다.
 주소: https://www.infoq.com/news/2025/04/qcon-ai-agents-hannah-foxwell/
-설명: 인디펄럼 앤디 컨설턴트인 헨리 폭웰은 QCon 로덴 2025년 최종 키노트에서 인공지능이 우리를 더 생산적으로 만들고 더 많은 일을 도와주는 일반적인 이야기에 대해 비판했습니다. 대신, 인공지능 에이전트가 우리의 잠재적인 작업을 대체하는 것이 아닌, 우리를 허위 일을 제거하도록 설계되어야 한다고 주장했습니다.
-#인공지능 #앤디_컨설턴트 #QCon_로덴_2025
+설명: 인공지능 콘설팅 헤넌 폭스웰은 QCon London 2025의 마무리 키노트에서 인공지능이 우리를 더 생산적으로 만들고 더 많은 일을 도와 하는 대립 이야기에 대해 흔히 전달되는 것을 꺼리며, 대신 인공지능 에이전트가 우리의 반복적인 작업을 제거하도록 설계되어야 한다고 도전했습니다.
+#인공지능 #콘설팅 #헤넌_폭스웰
 
 Translated sentence: In a well-received closing keynote at QCon London 2025, independent AI consultant Hannah Foxwell challenged the common narrative about AI making us more productive and helping us to do more, instead arguing that AI agents should be designed to eliminate mundane work for us rather than replace human jobs.
 and Provide - #hashtags. Add 3 hashtags related to the translated content.
 
 9 번째 검색 내용
-제목: 구글 고 모듈 미러 서버가 3년 이상 백도어를 제공했습니다.
+제목: 구글 고 모듈 미러 서비스 백도어 3년 이상 제공
+
+(Note: The translation may not be perfect as it is a direct translation without considering the context or grammar rules of the Korean language.)
 주소: https://www.infoq.com/news/2025/04/google-go-module-mirror-backdoor/
 설명: In February 2025, researchers at Socket uncovered a significant supply chain attack within the Go programming ecosystem. A malicious package, named github.com/boltdb-go/bolt, was discovered impersonating the legitimate and widely-used BoltDB module.
 #인공지능 #보안 #공급망 공격
@@ -77,53 +81,56 @@ Translated content: In February 2025, researchers at Socket uncovered a signific
 10 번째 검색 내용
 제목: .NET AI 채팅 웹 앱 템플릿 미리보기 2가 Qdrant와 .NET Aspire 지원으로 발표되었습니다.
 주소: https://www.infoq.com/news/2025/04/microsoft-dotnet-ai-template-p2/
-설명: AI : 두 번째 .NET AI 채팅 웹 앱 템플릿 미리 보기가 발표되었습니다. 이 업데이트는 AI 강화 된 채팅 애플리케이션 개발을 간소화하기 위해 여러 개선 사항을 도입합니다. 이 업데이트에는 .NET Aspire의 지원과 Qdrant 벡터 데이터베이스와의 통합이 포함되어 있으며, 클라우드 네이티브 애플리케이션을 만들기 위해 도움이 됩니다.
-#.NET #AI #클라우드_네이티브_애플리케이션
+설명: AI : 두 번째 .NET AI 채팅 웹 앱 템플릿 미리 보기가 발표되었습니다. 이 업데이트는 AI 강화 된 채팅 애플리케이션 개발을 간소화하는 여러 개선 사항을 도입합니다. 이 업데이트에는 .NET Aspire의 지원과 Qdrant 벡터 데이터베이스와의 통합이 포함되어 있으며, 클라우드 네이티브 애플리케이션을 만들기 위한 기능을 제공합니다.
+#.NET #AI #클라우드네이티브
 
-Translated content hashtags: #.NET, #AI, #클라우드_네이티브_애플리케이션
+Translated content hashtags: #.NET, #AI, #클라우드네이티브
 
 11 번째 검색 내용
 제목: 자바 뉴스 요약: JDK 25 일정, Spring 7.0-M4, Payara 플랫폼, JobRunr 7.5, Jox 1.0, Commonhaus
 주소: https://www.infoq.com/news/2025/04/java-news-roundup-apr14-2025/
 설명: AI : 4월 14일, 2025년 자바 주요 소식 정리는 JDK 25 릴리스 일정; Spring Framework 7.0.0의 4번째 amilestone 릴리스; Payara Platform의 4월 2025 에디션; JobRunr 7.5.0과 Jox 1.0.0의 릴리스 및 Kroxylicious가 Commonhaus Foundation에 합류했음을 다루고 있습니다.
-#자바 #JDK25 #SpringFramework7.0.0 #PayaraPlatform
+#자바 #JDK25 #SpringFramework #PayaraPlatform
 
 Hashtags: #JavaNews #SoftwareDevelopment #TechnologyUpdates
 
 12 번째 검색 내용
-제목: 오픈JDK 뉴스 요약: 컴팩트 소스, 모듈 가져오기 선언, 키 파생, 범위 값
+제목: OpenJDK 뉴스 요약: 컴팩트 소스, 모듈 가져오기 선언, 키 파생, 범위 값
 
-(주의: 이 번역은 인공지능으로 자동 생성되었습니다. 정확한 내용을 보장하지는 않습니다.)
+(Note: The translation may not be perfect as it is a technical term. Please check the meaning and context before using it.)
 주소: https://www.infoq.com/news/2025/04/jdk-news-roundup-apr14-2025/
-설명: AI : 4월 14일 주에는 OpenJDK 생태계에서 활동이 많이 있었으며, 8개의 JEP Draft가 Candidate 상태로 승격되었습니다. 이 중 네 개는 각각의 미리 보기 라운드 후에 최종 완료될 것입니다.
-#OpenJDK #JEP #2025년 #활동
+설명: AI : 4월 14일 주에서 열린 OpenJDK 생태계에서 폭염이 일어나며, 8개의 JEP Draft가 Candidate 상태로 승격되었습니다. 이 중 네 개는 각각의 미리 보기 라운드 후에 최종 완료됩니다.
+#OpenJDK #JEP #폭염 #2025년
 
-Hashtags: #OpenJDK, #JEP, #2025년, #활동
+Hashtags: #OpenJDK, #JEP, #폭염, #2025년
 
 13 번째 검색 내용
 제목: 레디스 8은 벡터 유사성을 위한 새로운 데이터 형식으로 AI 응용 프로그램에 대상입니다.
 주소: https://www.infoq.com/news/2025/04/redis-vector-sets/
-설명: AI : 최근 Redis는 Vector Set, 벡터 유사도를 위한 데이터 형식을 추가하였습니다. 이 새로운 데이터 형식은 Redis의 창시자인 Salvatore Sanfilippo(aka ‘antirez’)가 회사에 다시 합류한 후 첫 번째 주요 기여입니다.
-#Redis #벡터세트 #AI응용프로그램
+설명: AI : 최근 Redis는 Vector Set을 추가하였습니다. Vector Set은 벡터 유사성에 특화된 데이터 형식으로 AI 응용 프로그램의 새로운 옵션입니다. 이 새로운 데이터 형식은 Redis의 창시자인 Salvatore Sanfilippo(aka ‘antirez’)가 회사에 다시 합류한 후 첫 번째 주요 기여입니다.
+#Redis #VectorSet #AI응용프로그램
 
-Hashtags: #Redis, #벡터세트, #AI응용프로그램
+Hashtags: #Redis, #VectorSet, #AI응용프로그램
 
 14 번째 검색 내용
 제목: 아키텍처는 지식 흐름을 설계하는 것입니다 - 디애나 몬타일리온의 엑스플로어 DDD에서의 발표
 주소: https://www.infoq.com/news/2025/04/designing-knowledge-flow/
-설명: At the Explore DDD conference, Diana Montalion said software architecture is about designing for knowledge flow, with the goal of software teams learning more about the system they are building. This contrasts with the traditional focus on knowledge stock, which is about information that is already known. She sees effective architects as librarians, helping disseminate knowledge.
-#소프트웨어 아키텍처 #지식 흐름 #라이브러리안
+설명:  Korean Translation: Explore DDD 콘퍼런스에서 Diana Montalion은 소프트웨어 아키텍처는 지식의 흐름을 설계하는 것이며, 목표는 개발 팀이 구축하고 있는 시스템에 대해 더 많은 지식을 배우는 것입니다. 이는 전통적인 지식 저장 фо커스와 대조되며, 이는 이미 알려진 정보에 초점을 맞춥니다. 효과적인 아키텍트를 도서관 직원으로 보는 것입니다, 지식을 전파하는 데 도움이 됩니다.
+#소프트웨어아키텍처 #지식의흐름 #도서관직원
 
-Translated content hashtags: #소프트웨어_아키텍처, #지식_흐름, #라이브러리안
+Hashtags: #소프트웨어아키텍처, #지식의흐름, #도서관직원
 
 15 번째 검색 내용
-제목: [INST] 깃허브가 이슈 추적 시스템에 Sub-Issues를 구현하는 방법을 번역해주세요:
+제목: GitHub가 이슈 추적 시스템에 Sub-Issues를 구현하는 방법
 
-                            GitHub의 Sub-Issue 구현 방식
-                         [/INST]
+(Note: The translation may not be perfect as it is a proper noun and specific term. However, the meaning should be clear.)
 주소: https://www.infoq.com/news/2025/04/github-subissues-journey/
-설명: 한국어: 일반적으로 사용 가능한 하위 문제와 동시에 GitHub 공장 엔지니어 쇼운 원그가 추가로 계층화된 문제 구조를 지원하는 방법, 개발 중에 배운 교훈과 하위 문제가 작업 플로우에서 어떻게 중요한 역할을 했는지 등의 인사이트를 공유했습니다.
-#GitHub #계층화된_문제_구조 #하위_문제 #작업_플로우
+설명: 한국어: 일반적으로 사용 가능한 하위 문제와 동시에 GitHub 엔지니어 쇼운 원그가 추가된 계층화 문제 구조를 지원하는 방법, 개발 중에 배운 교훈과 하위 문제가 작업 플로우에 어떻게 중요한 역할을 했는지 등에 대해 인사이트를 공유했습니다.
+#GitHub #계층화된_문제 #하위_문제
 
-해시태그: #GitHub, #계층화된_문제_구조, #하위_문제, #작업_플로우
+번역: GitHub 엔지니어 쇼운 원그가 일반적으로 사용 가능한 하위 문제와 동시에 계층화된 문제 구조를 지원하는 방법, 개발 중에 배운 교훈과 하위 문제가 작업 플로우에 어떻게 중요한 역할을 했는지 등에 대해 인사이트를 공유했습니다.
+#GitHub #계층화된_문제 #하위_문제
+
+번역: GitHub 엔지니어 쇼운 원그가 일반적으로 사용 가능한 하위 문제와 동시에 계층화된 문제 구조를 지원하는 방법, 개발 중에 배운 교훈과 하위 문제가 작업 플로우에 어떻게 중요한 역할을 했는지 등에 대해 인사이트를 공유했습니다.
+#GitHub #계층화된_문제 #하위_문제
 
