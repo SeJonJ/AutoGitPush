@@ -1,0 +1,134 @@
+1 번째 검색 내용
+제목: QCon London 2025 2일차: AI의 형태, AI 보안 助성대, WASM 컴포넌트를 FaaS에서 사용하기
+
+(Note: The given sentence seems to be a conference topic or agenda item. In this case, the translation is provided as requested.)
+주소: https://www.infoq.com/news/2025/04/day-two-qcon-london-2025/
+설명: 인공지능은 세계를 변화시키고 있습니다. 이것은 의료, 금융, 교통과 같은 다양한 분야에 응용되고 있습니다.
+#인공지능 #의료 #금융 #교통
+
+The 19th annual QCon London conference took place at the The Queen Elizabeth II Conference Centre in London, England. This three-day event, organized by C4Media, consists of presentations by expert practitioners. Day Two, scheduled on April 8th, 2025, included a keynote address by Savannah Kunovsky and presentations from five conference tracks.
+and Provide - #hashtags. Add 3 hashtags related to the translated content.
+#QConLondon #컨퍼런스 #전문가 #발표
+
+[INST] Human : Translate my sentence into Korean: The 19th annual QCon London conference took place at the Queen Elizabeth II Conference Centre in London, England. This three-day event, organized by C4Media, consists of presentations by expert practitioners. Day Two, scheduled on April 8th, 2025, included a keynote address by Savannah Kunovsky and presentations from five conference tracks.
+                     and Provide - #hashtags. Add 3 hashtags related to the translated content. [/INST]
+
+2 번째 검색 내용
+제목: 에더라 프로텍트 1.0이 일반적으로 사용 가능합니다.
+주소: https://www.infoq.com/news/2025/04/edera-protect-1-0/
+설명: Edera는 Edera Protect 1.0, Kubernetes 보안 솔루션으로서 컨테이너 격리를 향상시키고 클라우드 네이티브 환경에서 오래된 보안 문제를 해결하는 데 설계되었습니다.
+#Edera #Kubernetes #보안 #컨테이너 #격리
+
+Translated sentence: Edera has announced the general availability of Edera Protect 1.0, a Kubernetes security solution designed to enhance container isolation and address longstanding security challenges in cloud-native environments.
+#EderaProtect #KubernetesSecurity #CloudNativeSecurity
+
+Hashtags added: #Edera #Kubernetes #보안 #컨테이너 #격리
+
+3 번째 검색 내용
+제목: [INST] 공학 생산성의 인프레셔션 포인트를 통해 생산성과 운영 최적화를 개선하기 위한 방법
+[/INST]
+주소: https://www.infoq.com/news/2025/04/improve-productivity-excellence/
+설명: 기업이 성장하면서 사용자 지정 개발 도구에 투자할 필요가 있을 수 있습니다. 처음에는 표준 도구가 충분합니다만, 기업이 엔지니어, 성숙도, 복잡성과 같은 여러 요소에 증가함에 따라 산업 도구는 더 이상 필요한 것으로 나타납니다. 인프레션 포인트, 위기, 급성장 또는 새로운 시장을 찾는 경우 투자를 유도하며, 생산성과 운영 최적화를 향상시키는 기회를 제공합니다.
+#기업성장 #개발도구 #운영최적화
+
+#hashtags: #기업성장 #개발도구 #운영최적화
+
+4 번째 검색 내용
+제목: 제니는 구글 분산 클라우드를 사용하여 온프레미스에 도착합니다.
+주소: https://www.infoq.com/news/2025/04/google-gemini-gdc-preview/
+설명: Google의 Gemini 모델은 2025년 3분기에 Google Distributed Cloud(GDC)에서 출시되면서 프리미스 AI를 혁신시키게 됩니다. NVIDIA와 협력하여 조직들은 엄격한 준수 및 데이터 주소성을 유지하면서도 고급 AI를 활용할 수 있습니다. 유연한 인프라와 안전한 환경으로 Gemini는 산업 곳곳에서 데이터 기반 결정 만들기를 위한 실시간 인사이트를 제공합니다.
+#Gemini #GoogleDistributedCloud #AIcompliance #NVIDIA
+#hashtags. Add 3 hashtags related to the translated content. [/INST]
+
+5 번째 검색 내용
+제목: 작업 플로우 엔진인 Java LittleHorse를 사용하여 분산 시스템 오케스트레이션을 수행합니다.
+주소: https://www.infoq.com/news/2025/04/littlehorse/
+설명: LittleHorse는 분산 시스템을 조직화하고 상태 관리와 마이크로서비스, 외부 API, 인간 작업의 동기화를 위한 다양한 도메인에서 사용되는 Java 오픈소스 플랫폼입니다. 개발자들은 프로그래밍 방식으로 워크플로우를 정의할 수 있으며, 특수한 DSL을 사용하지 않아도 됩니다.
+#LittleHorse #분산시스템 #워크플로우 #오픈소스
+
+#hashtags: #Java #마이크로서비스 #상태관리
+
+6 번째 검색 내용
+제목: 마이크로소프트 원본 1비트 LLM가 일반적인 CPU에서 효율적인 genAI를 제공할 수 있습니다.
+주소: https://www.infoq.com/news/2025/04/microsoft-bitnet-1bit-llm/
+설명: In a recent paper, Microsoft researchers described BitNet b1.58 2B4T, the first LLM to be natively trained using "1-bit" (technically, 1-trit) weights, rather than being quantized from a model trained with floating point weights. According to Microsoft, the model delivers performance comparable to full-precision LLMs of similar size at a fraction of the computation cost and hardware requirements.
+#인공지능 #1비트 #LLM
+
+Translated content: In a recent paper, Microsoft researchers described BitNet b1.58 2B4T, the first LLM to be natively trained using "1-bit" (technically, 1-trit) weights, rather than being quantized from a model trained with floating point weights. According to Microsoft, the model delivers performance comparable to full
+
+7 번째 검색 내용
+제목: 빠른 이벤츄얼 컨시스턴시: 코로전, 파일리오를 위한 분산 시스템
+[INST] Fast Eventual Consistency: Inside Corrosion, the Distributed System Powering Fly.io [/INST]
+주소: https://www.infoq.com/news/2025/04/corrosion-distributed-system-fly/
+설명: 인нова틱한 클라우드 솔루션 전문가 Somtochi Onyekwere는 QCon London 2025에 참석하여 Fly.io의 고급 개방형 분산 시스템인 Corrosion을 공개했습니다. CRDTs와 Rust를 활용하여 확장성과 데이터 동기화를 향상시키며, 지연 문제를 해결하고 전세계 40개 이상의 네트워크에서 빠르고 일관된 응용 프로그램 배포를 보장합니다.
+#클라우드솔루션 #CRDTs #Rust #Flyio
+
+#hashtags: #인공지능 #의료 #금융 #교통
+
+8 번째 검색 내용
+제목: 앤젬론 Q와 클로드 코드를 사용하여 AI가 개발자 CLI를 제어하라.
+주소: https://www.infoq.com/news/2025/04/amazon-q-cli-claude-code/
+설명: AWS는 Amazon Q Developer에 대한 향상된 CLI(명령줄 인터페이스) 에이전트를 발표했습니다. 이 업그레이드로 개발자들은 AI를 터미널에서 직접 사용할 수 있게 되었습니다. 동시에, Anthropic은 Claude Code를 연구 전문가 선보임으로 소개했습니다. 이것은 명령줄에서 Claude와 직접 작업할 수 있는 터미널 기반 코딩 도우미입니다.
+#AWS #AmazonQDeveloper #CLI #인공지능 #터미널 #Anthropic #ClaudeCode #연구전문가 #코딩도우미
+
+Hashtags: #AWS, #AmazonQDeveloper, #CLI, #인공지능, #터미널, #Anthropic, #ClaudeCode, #연구전문가, #코딩도우미
+
+9 번째 검색 내용
+제목: 네트워크 애스파이어 9.2가 확장된 배포 옵션과 대시보드 개선으로 릴리즈되었습니다.
+주소: https://www.infoq.com/news/2025/04/dotnet-aspire-92-release/
+설명: NET 팀은 .NET Aspire의 9.2 버전을 출시하였습니다. 대시보드 경험, 새로운 통합 기능, 및 배포 개선 사항이 도입되었습니다. 공식 발표에서는 이 릴리즈가 애플리케이션 개발 및 클라우드 네이티브 배포 워크플로우의 목표를 간소화하는 데 도움이 된다는 것을 언급했습니다.
+#.NETAspire #애플리케이션개발 #클라우드네이티브배포
+
+Translated content: The .NET team has released version 9.2 of .NET Aspire, introducing updates to the dashboard experience, new integration capabilities, and deployment improvements. As stated in the official announcement, this release furthers the platform’s goal of simplifying application development and cloud-native deployment workflows.
+#.NETAspire #애플리케이션개발 #클라우드네이티브배포
+
+10 번째 검색 내용
+제목: 구글 딥마인드는 LLM을 논리와 수학 문제를 해결하는 데 평가하기 위해 QuestBench를 소개합니다.
+주소: https://www.infoq.com/news/2025/04/google-deepmind-questbench-llm/
+설명: 인공지능 기업 Google DeepMind의 QuestBench 벤치마크는 LLMs가 논리, 계획, 수학 문제를 해결하는데 필요한 단 하나의 중요한 질문을 찾아내는지 평가할 수 있습니다. DeepMind 팀은 최근 QuestBench에 대한 논문을 발표했으며, QuestBench는 최대 하나의 질문으로 해결 가능한 언더스페시파이드 사유 작업의 집합입니다.
+#인공지능 #DeepMind #QuestBench
+
+#hashtags: #LLMs #논리 #수학문제
+
+11 번째 검색 내용
+제목: 도커 모델 러너는 로컬에서 LLM 모델을 실행하는 것을 더 쉽게 만들고자 합니다.
+주소: https://www.infoq.com/news/2025/04/docker-model-runner/
+설명: 현재 Docker Desktop 4.40 macOS Apple Silicon에서 미리보기 중인 Docker Model Runner는 개발자들이 컨테이너 기반 워크플로우를 방해하지 않고 로컬 모델을 실행하여 애플리케이션 코드에 반복할 수 있도록 합니다.
+#DockerDesktop #AppleSilicon #컨테이너기반워크플로우
+
+12 번째 검색 내용
+제목: QCon 런던: AI 에이전트는 인간을 더 좋은 것으로 만들기 위해 함께 작업할 수 있습니다.
+주소: https://www.infoq.com/news/2025/04/qcon-ai-agents-hannah-foxwell/
+설명: 인공지능 콘설팅 한나(Hannah Foxwell)은 QCon London 2025의 마무리 키노트에서 인공지능이 우리를 더 생산적으로 만들고 더 많은 일을 도와주는 일반적인 이야기에 대해 비판했습니다. 그녀는 AI 에이전트가 우리의 작업을 대체하지 않고, 우리를 귀찮은 일부터 떨어뜨려주도록 설계되어야 한다고 주장했습니다.
+#인공지능 #QConLondon2025 #한나팍스웨엘 #작업대체
+
+Translated sentence: In a well-received closing keynote at QCon London 2025, independent AI consultant Hannah Foxwell challenged the common narrative about AI making us more productive and helping us to do more, instead arguing that AI agents should be designed to eliminate mundane work for us rather than replace human jobs.
+and Provide - #hashtags. Add 3 hashtags related to the translated content.
+
+13 번째 검색 내용
+제목: 구글 고 모듈 미러 서비스 백도어 3년 이상 제공
+
+(Note: The translation may not be perfect as it is a direct translation without considering the context or grammar rules of the Korean language.)
+주소: https://www.infoq.com/news/2025/04/google-go-module-mirror-backdoor/
+설명: In February 2025, researchers at Socket uncovered a significant supply chain attack within the Go programming ecosystem. A malicious package, named github.com/boltdb-go/bolt, was discovered impersonating the legitimate and widely-used BoltDB module.
+#인공지능 #보안 #공급망 공격
+
+Translated sentence: 2025년 2월, Socket의 연구자들은 Go 프로그래밍 환경에서 중요한 공급 체인 공격을 발견했습니다. 악성 패키지, github.com/boltdb-go/bolt라는 이름의 것이 법적으로 사용되고 있는 BoltDB 모듈를 위조하여 발견되었습니다.
+#hashtags: #인공지능 #보안 #공급망 공격
+
+14 번째 검색 내용
+제목: .NET AI 채팅 웹 앱 템플릿 미리 보기 2가 Qdrant와 .NET Aspire 지원으로 발표되었습니다.
+주소: https://www.infoq.com/news/2025/04/microsoft-dotnet-ai-template-p2/
+설명: AI : .NET AI Chat Web App 템플릿의 두 번째 미리 보기가 발표되었습니다. AI 강화된 채팅 앱 개발을 간소화하는 여러 개선 사항을 도입합니다. 이 업데이트에는 .NET Aspire의 지원과 Qdrant 벡터 데이터베이스와의 통합이 포함되어 있으며, 이를 통해 클라우드 네이티브 앱 개발을 용이하게 합니다.
+#.NETAIChatWebApp #Qdrant #클라우드네이티브앱개발
+
+Hashtags: #.NETAIChatWebApp, #Qdrant, #클라우드네이티브앱개발
+
+15 번째 검색 내용
+제목: 자바 뉴스 요약: JDK 25 일정, Spring 7.0-M4, Payara 플랫폼, JobRunr 7.5, Jox 1.0, Commonhaus
+주소: https://www.infoq.com/news/2025/04/java-news-roundup-apr14-2025/
+설명: AI : 4월 14일, 2025년 자바 주요 소식 정리는 JDK 25 릴리스 일정, Spring Framework 7.0.0의 4번째 amilestone 릴리스, 2025년 4월 Payara Platform, JobRunr 7.5.0과 Jox 1.0.0의 릴리스 및 Kroxylicious가 Commonhaus Foundation에 합류한 소식을 강조하고 있습니다.
+#자바 #JDK25 #SpringFramework7.0.0 #PayaraPlatform
+
+Hashtags: #자바릴리스일정, #SpringFramework, #PayaraPlatform릴리스
+
