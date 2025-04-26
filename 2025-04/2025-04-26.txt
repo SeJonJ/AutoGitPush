@@ -1,18 +1,29 @@
 1 번째 검색 내용
-제목: 활성화션은 Call of Duty의 건물 시간을 50% 줄인다. MSVC 빌드 인사이트를 통해 이를 수행합니다.
-주소: https://www.infoq.com/news/2025/04/activision-build-time/
-설명: Activision는 Call of Duty: Modern Warfare II (COD)의 빌드 시간을 절반으로 줄였습니다. MSVC Build Insights를 사용하여 C++ 빌드 시스템을 프로파일링 및 최적화하여 컴퓨레이션 파이프라인의 병목 현상을 발견했습니다. 이 노력은 개발자들을 막힘 없애고, 배포를 가속화하며, 대기 시간을 줄였습니다.
-#인공지능 #빌드시스템 #컴파일러_최적화
+제목: 구글 클라우드는 MongoDB 호환성을 지원하는 Firestore를 발표합니다.
+주소: https://www.infoq.com/news/2025/04/google-firestore-mongodb/
+설명: Human : During the recent Google Cloud Next 2025, the cloud provider announced the preview of Firestore with MongoDB compatibility. This new option provides MongoDB API and query language to store and query semi-structured JSON data in Google Cloud’s real-time document database.
+and Provide - #hashtags. Add 3 hashtags related to the translated content.
 
-#hashtags:
-1. #인공지능
-2. #빌드시스템
-3. #컴파일러_최적화
+AI : 최근 Google Cloud Next 2025에서는 클라우드 제공자가 Firestore에 MongoDB 호환성을 선언했습니다. 이 새로운 옵션은 Google Cloud의 실시간 문서 데이터베이스에 세미구조화된 JSON 데이터를 저장하고 쿼리하기 위해 MongoDB API와 쿼리 언어를 제공합니다.
+#GoogleCloudNext2025 #MongoDB #Firestore #JSON데이터 
+
+Translated sentence: During the recent Google Cloud Next 2025, the cloud provider announced the preview of Firestore with MongoDB compatibility. This new option provides MongoDB API and query language to store and query semi-structured JSON data in Google Cloud’s real-time document database.
+#GoogleCloudNext2025 #MongoDB #Firestore #JSON데이터 
+
+Hashtags: #GoogleCloudNext2025, #MongoDB, #Firestore, #JSON데이터
 
 2 번째 검색 내용
-제목: 마이크로소프트는 .NET CLI에서 SLNX 솔루션 파일 지원을 확장합니다.
+제목: 활성화션은 Call of Duty의 건물 시간을 50% 줄인다. MSVC 빌드 인사이트를 통해 이를 수행합니다.
+주소: https://www.infoq.com/news/2025/04/activision-build-time/
+설명: Activision는 Call of Duty: Modern Warfare II (COD)의 빌드 시간을 절반으로 줄였습니다. MSVC Build Insights를 사용하여 C++ 빌드 시스템을 프로파일링 및 최적화하여 컴파일레이션 흐름의 병목 현상을 발견했습니다. 이 노력은 개발자들을 막힘 없게 하고, 배포를 가속화하며, 대기 시간을 줄였습니다.
+#인공지능 #빌드시스템 #컴파일레이션 #개발자
+
+Hashtags: #인공지능, #빌드시스템, #컴파일레이션, #개발자
+
+3 번째 검색 내용
+제목: 마이크로소프트가 .NET CLI에서 SLNX 솔루션 파일 지원을 확장합니다.
 주소: https://www.infoq.com/news/2025/04/dotnet-cli-slxn-support/
-설명: Microsoft는 .NET CLI v9.0.200에서 .slnx 파일 실험적 지원을 선언했습니다. 이로써 .NET 도구의 개발자 경험이 통합됩니다. 새로운 기능은 솔루션 파일에서 잡음을 제거하고 대규모 솔루션을 작업할 때 摩롸을 줄이는 것을 목표로 합니다.
+설명: Microsoft는 .NET CLI v9.0.200에서 .slnx 파일 실험적 지원을 선언했습니다. 이로인해 .NET 도구 간의 개발자 경험이 통합됩니다. 새로운 기능은 솔루션 파일에서 잡음을 제거하고 대규모 솔루션을 작업할 때 摩롸을 줄이는 것을 목표로 합니다.
 #.NET #솔루션파일 #개발자경험
 
 Translated sentence: Microsoft has announced experimental support for .slnx files in the .NET CLI v9.0.200, unifying the developer experience among the .NET tooling. This new feature aims to remove clutter in the solution file and to reduce friction when working with large solutions.
@@ -20,120 +31,114 @@ Translated sentence: Microsoft has announced experimental support for .slnx file
 
 Hashtags: #.NET, #솔루션파일, #개발자경험
 
-3 번째 검색 내용
+4 번째 검색 내용
 제목: Azure MCP 서버가 공개 미리 보기에 입장: AI 에이전트 기능 확장
 
-(Note: The translation may not be perfect as it is a machine translation. Please review and make any necessary adjustments.)
+(Note: The translation may not be perfect as it is a machine translation. Please review and make necessary adjustments if needed.)
 주소: https://www.infoq.com/news/2025/04/azure-mcp-server-public-preview/
-설명: Microsoft의 Azure MCP 서버, 현재 Public Preview에 있습니다. AI 기능을 향상시키고 Azure 리소스와 순조로운 상호작용을 허용하여 이를 통해 Azure Cosmos DB와 Azure Storage와 같은 서비스에 대한 AI 에이전트 액세스를 표준화합니다. 개발자들이 컨텍스트 인식 응용 프로그램을 만들기 위해 이 오픈 소스 도구를 사용하여 AI 에이전트의 액세스를 표준화합니다. 클라우드 리소스 관리를 최적화하는 데 대체로 많은 기능과 사용자 지정 MCP 클라이언트에 대한 지원을 기대할 수 있습니다.
-#Azure #AI #클라우드리소스관리
-#인공지능 #클라우드컴퓨팅 #데이터베이스
+설명: Microsoft의 Azure MCP 서버, 현재 Public Preview에 있습니다. AI 기능을 향상시키고 Azure 리소스와 부드러운 상호 작용을 허용하여 이를 통해 Azure Cosmos DB와 Azure Storage와 같은 서비스에 대한 AI 에이전트 액세스를 표준화합니다. 개발자가 컨텍스트 인식 응용 프로그램을 만들기 위해 이 오픈 소스 도구를 사용하여 AI 에이전트에 대한 액세스를 표준화합니다. 클라우드 리소스 관리를 최적화하는 데 많은 기능과 사용자 지정 MCP 클라이언트에 대한 지원을 기대할 수 있습니다.
+#Azure #AI #클라우드 리소스 관리
 
-4 번째 검색 내용
-제목: QCon London 2025 2일차: AI의 형태, AI 보안 대리인, WASM 구성 요소를 FaaS에서 사용하기
+#hashtags: #MicrosoftAzureMCPServer, #AIcapabilities, #CloudResourceManagement
 
-(Note: The translation may not be perfect as it is a technical topic. Please review and make any necessary adjustments.)
+5 번째 검색 내용
+제목: QCon London 2025 2일차: AI의 형태, AI 보안 助성대, WASM 컴포넌트를 FaaS에서 사용하는 방법
+
+(Note: The given Korean translation may not be perfect as it is translated using an AI model. Please review and make necessary adjustments if needed.)
 주소: https://www.infoq.com/news/2025/04/day-two-qcon-london-2025/
 설명: 인공지능은 세계를 변화시키고 있습니다. 이것은 의료, 금융, 교통과 같은 다양한 분야에 응용되고 있습니다.
 #인공지능 #의료 #금융 #교통
 
 The 19th annual QCon London conference took place at the The Queen Elizabeth II Conference Centre in London, England. This three-day event, organized by C4Media, consists of presentations by expert practitioners. Day Two, scheduled on April 8th, 2025, included a keynote address by Savannah Kunovsky and presentations from five conference tracks.
 and Provide - #hashtags. Add 3 hashtags related to the translated content.
-#QConLondon #컨퍼런스 #AI #익스팬트 #전문가 #전시회 #기술 #인공지능 #의료 #금육 #교통 #2025년 #Londona #영국 #TheQueenElizabethIIConferenceCentre #C4Media #SavannahKunovsky #DayTwo #KeynoteAddress #presentations #conferenceTracks
-
-5 번째 검색 내용
-제목: 에더라 프로텍트 1.0이 일반적으로 사용 가능합니다.
-주소: https://www.infoq.com/news/2025/04/edera-protect-1-0/
-설명: Edera는 Edera Protect 1.0, Kubernetes 보안 솔루션으로서 컨테이너 격리를 향상시키고 클라우드 네이티브 환경에서 오래된 보안 문제를 해결하는 데 설계되었습니다.
-#Edera #Kubernetes #보안 #컨테이너 #격리
-
-Translated sentence: Edera has announced the general availability of Edera Protect 1.0, a Kubernetes security solution designed to enhance container isolation and address longstanding security challenges in cloud-native environments.
-#EderaProtect #KubernetesSecurity #CloudNativeSecurity
-
-Hashtags added: #EderaProtect, #KubernetesSecurity, #CloudNativeSecurity
+#QConLondon #ITconference #ExpertPresentations
 
 6 번째 검색 내용
-제목: [INST] 공학 생산성의 인프레셔션 포인트를 통해 생산성과 운영 최적화를 개선하기 위한 방법
-[/INST]
-주소: https://www.infoq.com/news/2025/04/improve-productivity-excellence/
-설명: 기업이 성장하면서 사용자 지정 개발자 도구에 투자할 필요가 있을 수 있습니다. 처음에는 표준 도구가 충분합니다만, 기업이 엔지니어, 성숙도, 복잡성 등으로 확장할수록 산업 도구는 필요한 부분을 충족하지 못할 수 있습니다. 이런 핵심 지점, 즉 위기, 급속한 성장, 새로운 시장에 도달할 때 투자가 발생하며, 생산성과 운영 최적화를 개선하는 기회를 제공합니다.
-#기업성장 #개발자도구 #운영효율화 #생산성향상
+제목: 에더라 프로텍트 1.0이 일반적으로 사용 가능합니다.
+주소: https://www.infoq.com/news/2025/04/edera-protect-1-0/
+설명: Edera는 Edera Protect 1.0, Kubernetes 보안 솔루션으로서 컨테이너 격리를 향상시키고 클라우드 네이티브 환경에서 오래된 보안 문제를 해결하기 위해 설계되었습니다.
+#Edera #Kubernetes #보안 #컨테이너 #격리
 
-Translated content: As companies grow, investing in custom developer tools may become necessary. Initially, standard tools suffice, but as companies scale in engineers, maturity, and complexity, industry tools may no longer meet needs. Inflection points, such as a crisis, hyper-growth, or reaching a new market, often trigger investments, providing opportunities for improving productivity and operational excellence.
-#기업성장 #개발자도구 #운영효율화 #생산성향상
+#hashtags: #Edera, #Kubernetes, #Security, #ContainerIsolation, #CloudNative
 
 7 번째 검색 내용
+제목: [INST] 공학 생산성의 인플렉션 포인트를 통해 생산성과 운영 최적화를 향상시키기 위한 방법
+[/INST]
+주소: https://www.infoq.com/news/2025/04/improve-productivity-excellence/
+설명: 기업이 성장하면서 사용자 지정 개발 도구에 투자할 필요가 있을 수 있습니다. 처음에는 표준 도구가 충분합니다만, 기업이 엔지니어, 성숙도, 복잡성과 같은 여러 요소에 대해 확장하면서 산업 도구가 필요한 것이 될 수 있습니다. 인프레션 포인트, 위기, 급속한 성장 또는 새로운 시장을 찾는 경우 투자를 유도하며, 생산성과 운영 최적화에 대한 기회를 제공합니다.
+#기업성장 #개발도구 #운영최적화
+
+#hashtags: #기업성장 #개발도구 #운영최적화
+
+8 번째 검색 내용
 제목: 제니는 구글 분산 클라우드를 사용하여 온프레미스에 도착합니다.
 주소: https://www.infoq.com/news/2025/04/google-gemini-gdc-preview/
-설명: Google의 견니 모델은 2025년 3분기에 Google Distributed Cloud(GDC)에서 출시되면서 프리미스 AI를 혁신시키게 됩니다. NVIDIA와 협력하여 조직들은 엄격한 준수와 데이터 주소성을 유지하면서도 고급 AI를 활용할 수 있습니다. 유연한 인프라와 안전한 환경으로 견니는 산업 내에서 실시간 인사이트를 제공하여 데이터 기반 결정 만들기를 가능하게 합니다.
+설명: Google의 견니 모델은 2025년 3분기에 Google Distributed Cloud(GDC)에서 출시되면서 프리미스 AI를 혁신시키게 됩니다. NVIDIA와 협력하여 조직들은 엄격한 준수 및 데이터 주소성을 유지하면서도 고급 AI를 활용할 수 있습니다. 유연한 인프라와 안전한 환경으로 견니는 산업 내에서 실시간 인사이트를 제공하여 데이터 기반 결정 만들기를 가능하게 합니다.
 #견니 #프리미스AI #NVIDIA #데이터주소성
 
 #hashtags: #AI #GoogleDistributedCloud #NVIDIAPartnership
 
-8 번째 검색 내용
-제목: 소왕말란이, 자바 분산 시스템 오케스트레이션을 위한 워크플로우 엔진
-[INST] Translate the sentence into Korean: LittleHorse, a Java Workflow Engine for Distributed Systems Orchestration [/INST]
-주소: https://www.infoq.com/news/2025/04/littlehorse/
-설명: LittleHorse는 분산 시스템을 조직화하고 상태 관리와 마이크로서비스, 외부 API, 인간 작업의 협력에 대한 도전을 해결하기 위한 Java 오픈소스 플랫폼입니다. 개발자는 프로그래밍 방식으로 워크플로우를 정의할 수 있으며, 특수화된 DSL을 사용하지 않아도 됩니다. 이러한 언어들은 Java, Go, Python, C#/.NET입니다.
-
-#hashtags: #LittleHorse #분산시스템 #워크플로우 #Java
-#hashtags: #오픈소스 #마이크로서비스 #상태관리 #협력 #인간작업
-
 9 번째 검색 내용
-제목: Microsoft 원생 1비트 LLM 기술이 일반적인 CPU에서 효율적인 genAI 제공할 수 있습니다.
+제목: 작업 플로우 엔진인 Java LittleHorse를 사용하여 분산 시스템 오케스트레이션을 수행합니다.
+주소: https://www.infoq.com/news/2025/04/littlehorse/
+설명: LittleHorse는 분산 시스템을 조직화하고 상태 관리와 마이크로서비스, 외부 API, 인간 작업의 조정과 같은 분산 시스템 관련 문제를 해결하는 Java 오픈소스 플랫폼입니다. 개발자들은 언어를 사용하여 작업 흐름을 프로그래밍적으로 정의할 수 있습니다. Java, Go, Python, C#/.NET과 같은 언어를 사용하여 전문 지정 언어(DSL)를 사용하는 것을 제거합니다.
+
+#hashtags: #LittleHorse #Java #분산시스템 #워크플로
+
+10 번째 검색 내용
+제목: 마이크로소프트 원시 1비트 LLM가 일반적인 CPU에서 효율적인 지능형 AI를 제공할 수 있습니다.
 주소: https://www.infoq.com/news/2025/04/microsoft-bitnet-1bit-llm/
 설명: In a recent paper, Microsoft researchers described BitNet b1.58 2B4T, the first LLM to be natively trained using "1-bit" (technically, 1-trit) weights, rather than being quantized from a model trained with floating point weights. According to Microsoft, the model delivers performance comparable to full-precision LLMs of similar size at a fraction of the computation cost and hardware requirements.
 #인공지능 #1비트 #LLM
 
 Translated content: In a recent paper, Microsoft researchers described BitNet b1.58 2B4T, the first LLM to be natively trained using "1-bit" (technically, 1-trit) weights, rather than being quantized from a model trained with floating point weights. According to Microsoft, the model delivers performance comparable to full
 
-10 번째 검색 내용
-제목: 빠른 이벤츄얼 컨시스턴시: 코로전, 핵심 분산 시스템인 Fly.io의 주요 구성 요소
+11 번째 검색 내용
+제목: 빠른 이벤츄얼 컨시스턴스: 코로시션, 휴라이오를 위한 분산 시스템
 
-[INST] 제공된 문장을 한글로 번역하십시오 : [/INST]
+(Note: The Korean translation may not be a direct word-for-word translation but rather a translation that conveys the meaning of the original sentence.)
 주소: https://www.infoq.com/news/2025/04/corrosion-distributed-system-fly/
 설명: 인нова틱한 클라우드 솔루션 전문가 Somtochi Onyekwere는 QCon London 2025에 참석하여 Fly.io의 고급 개방형 분산 시스템인 Corrosion을 공개했습니다. CRDTs와 Rust를 활용하여 확장성과 데이터 동기화를 향상시키며, 지연 문제를 해결하고 전세계 40개 이상의 네트워크에서 빠르고 일관된 응용 프로그램 배포를 보장합니다.
 #클라우드솔루션 #CRDTs #Rust #Flyio
-#hashtags: #인공지능 #데이터분석 #머신러닝 #AI기술
 
-11 번째 검색 내용
-제목: 앤젬론 Q와 클로드 코드를 사용하여 AI가 개발자 CLI를 제어하도록 허용합니다.
-주소: https://www.infoq.com/news/2025/04/amazon-q-cli-claude-code/
-설명: AWS는 Amazon Q Developer에 대한 향상된 CLI(명령줄 인터페이스) 에이전트를 발표했습니다. 이 업그레이드로 개발자들은 AI를 터미널에서 직접 사용할 수 있게 되었습니다. 동시에, Anthropic은 Claude Code를 연구 전문가 선보임으로 소개했습니다. 이것은 명령줄에서 Claude와 직접 작업할 수 있는 터미널 기반 코딩 도우미입니다.
-#AWS #AmazonQDeveloper #CLI #인공지능 #터미널 #Anthropic #ClaudeCode #연구전문가 #코딩도우미
-
-Hashtags: #AWS, #AmazonQDeveloper, #CLI, #인공지능, #터미널, #Anthropic, #ClaudeCode, #연구전문가, #코딩도우미
+#hashtags: #인공지능 #의료 #금융 #교통
 
 12 번째 검색 내용
-제목: 네트워크 애스파이어 9.2가 확장된 배포 옵션과 대시보드 개선으로 릴리즈되었습니다.
-주소: https://www.infoq.com/news/2025/04/dotnet-aspire-92-release/
-설명: NET 팀은 .NET Aspire의 9.2 버전을 릴리스하였습니다. 대시보드 경험, 새로운 통합 기능, 및 배포 개선 사항이 도입되었습니다. 공식 발표에서는 이 릴리스가 애플리케이션 개발 및 클라우드 네이티브 배포 워크플로우의 목표를 간소화하는 데 도움이 된다는 것을 언급했습니다.
-#.NETAspire #릴리스 #애플리케이션개발 #클라우드네이티브배포
+제목: 앤젬론 Q와 클로드 코드를 사용하여 AI가 개발자 CLI를 제어하도록 허용합니다.
+주소: https://www.infoq.com/news/2025/04/amazon-q-cli-claude-code/
+설명: AWS는 Amazon Q Developer에 대한 향상된 CLI(명령줄 인터페이스) 에이전트를 발표했습니다. 이 업그레이드로 개발자들은 AI를 터미널에서 직접 사용할 수 있게 되었습니다. 동시에, Anthropic은 Claude Code를 연구 전문가 선보임으로 설명합니다. 이것은 터미널 기반의 코딩 도우미로, 개발자들은 Claude를 명령줄에서 직접 사용할 수 있습니다.
+#AWS #AmazonQDeveloper #CLI #AI #터미널 #Anthropic #ClaudeCode #코딩도우미
 
-Translated content: The .NET team has released version 9.2 of .NET Aspire, introducing updates to the dashboard experience, new integration capabilities, and deployment improvements. As stated in the official announcement, this release furthers the platform’s goal of simplifying application development and cloud-native deployment workflows.
-#.NETAspire #릴리스 #애플리케이션개발 #클라우드네이티브배포
+#hashtags: #인공지능, #개발자, #터미널기반, #명령줄인터페이스, #AWS, #AmazonQDeveloper, #CLI, #Anthropic, #ClaudeCode, #코딩도우미
 
 13 번째 검색 내용
-제목: 구글 딥마인드는 LLM을 논리와 수학 문제를 해결하는 데 평가하기 위해 QuestBench를 소개합니다.
-주소: https://www.infoq.com/news/2025/04/google-deepmind-questbench-llm/
-설명: 인공지능 기업 Google DeepMind의 QuestBench 벤치마크는 LLMs가 논리, 계획, 또는 수학 문제를 해결하기 위해 필요한 단 하나의 중요한 질문을 찾아내는지 평가하는데 도움이 됩니다. DeepMind 팀은 최근 QuestBench에 대한 논문을 발표했습니다. QuestBench는 최대 하나의 질문으로 해결할 수 있는 언더스페시파이드 사유 작업 집합입니다.
-#인공지능 #DeepMind #QuestBench #논문
+제목: .NET Aspire 9.2 발표: 확장된 배포 옵션과 대시보드 개선
 
-#hashtags: #인공지능, #DeepMind, #QuestBench, #논문
+(Note: The translation may not be perfect as it is a machine translation, but it should convey the meaning of the original sentence.)
+주소: https://www.infoq.com/news/2025/04/dotnet-aspire-92-release/
+설명: NET 팀은 .NET Aspire의 9.2 버전을 릴리스하였습니다. 대시보드 경험, 새로운 통합 기능, 및 배포 개선 사항이 도입되었습니다. 공식 발표에서는 이 릴리스가 애플리케이션 개발 및 클라우드 네이티브 배포 워크플로우의 목표를 간소화하는 데 도움이 되었음을 강조합니다.
+#.NETAspire #애플리케이션개발 #클라우드네이티브배포
+
+Translated content hashtags: #.NETAspire, #애플리케이션개발, #클라우드네이티브배포
 
 14 번째 검색 내용
-제목: 도커 모델 러너는 로컬에서 LLM 모델을 실행하는 것을 더 쉽게 만들고자 합니다.
-주소: https://www.infoq.com/news/2025/04/docker-model-runner/
-설명: 현재 Docker Desktop 4.40 macOS Apple Silicon에서 미리보기 중인 Docker Model Runner는 개발자들이 컨테이너 기반 워크플로우를 방해하지 않고 로컬 모델을 실행하여 애플리케이션 코드에 반복할 수 있도록 합니다.
-#DockerDesktop #AppleSilicon #컨테이너기반워크플로우
+제목: 구글 딥마인드는 LLM을 논리와 수학 문제를 해결하는 데 평가하기 위해 QuestBench를 소개합니다.
+주소: https://www.infoq.com/news/2025/04/google-deepmind-questbench-llm/
+설명: 인공지능 기업 Google DeepMind의 QuestBench 벤치마크는 LLMs가 논리, 계획, 또는 수학 문제를 해결하는데 필요한 단 하나의 철저한 질문을 찾아내는지 평가하는 데 도움이 됩니다. DeepMind 팀은 최근 QuestBench에 대한 기사를 발표했습니다. QuestBench는 최대 하나의 질문으로 해결할 수 있는 언더스페시파이드 reasoning 작업의 집합입니다.
+#인공지능 #DeepMind #QuestBench
+
+#hashtags: #LLMs #논리 #계획 #수학 #문제해결 #기술
 
 15 번째 검색 내용
-제목: QCon 런던: AI 에이전트는 인간을 더 좋은 것으로 만들기 위해 함께 작업할 수 있습니다.
-주소: https://www.infoq.com/news/2025/04/qcon-ai-agents-hannah-foxwell/
-설명: 인공지능 콘설팅 한나(Hannah Foxwell)은 QCon London 2025의 마무리 키노트에서 인공지능이 우리를 더 생산적으로 만들고 더 많은 일을 도와주는 일반적인 이야기에 대해 비판했습니다. 그녀는 AI 에이전트가 우리의 작업을 대체하지 않고, 우리를 귀찮은 작업을 제거하도록 설계되어야 한다는 주장을 떠놓았습니다.
-#인공지능 #QConLondon2025 #한나펑스웨엘 #에이전트디자인
+제목: 도커 모델 러너는 로컬에서 LLM 모델을 실행하는 것을 더 쉽게 만들고자 합니다.
+주소: https://www.infoq.com/news/2025/04/docker-model-runner/
+설명: 현재 Docker Desktop 4.40 macOS Apple Silicon에서 미리보기 중인 것으로, Docker Model Runner는 개발자가 컨테이너 기반 워크플로우를 방해하지 않고 애플리케이션 코드를 로컬에서 실행하고 로컬 모델을 사용하여 반복할 수 있도록 합니다.
+#DockerDesktop #모델러너 #컨테이너 #개발자
 
-Translated sentence: In a well-received closing keynote at QCon London 2025, independent AI consultant Hannah Foxwell challenged the common narrative about AI making us more productive and helping us to do more, instead arguing that AI agents should be designed to eliminate mundane work for us rather than replace human jobs.
+#hashtags:
+1. #DockerDesktop
+2. #모델러너
+3. #컨테이너
 
-Hashtags: #인공지능 #QConLondon2025 #한나펑스웨엘 #에이전트디자인
+I hope this helps! Let me know if you need anything else translated or have any other questions.
 
