@@ -1,4 +1,13 @@
 1 번째 검색 내용
+제목: 구글은 공식 출시 전에 마지막 Android 16 베타를 발표합니다.
+주소: https://www.infoq.com/news/2025/04/android16-beta-4/
+설명: AI : 마지막 Android 16 베타 버전의 출시로, 개발자들은 앱이나 라이브러리가 호환성 문제 없이 작동하고 있는지 확인해야 합니다. Google은 변경 사항–예를 들어 JobScheduler 퀘타, 의도 보안 강화, 16KB 페이지 크기와 같은–을 가진 앱에도 영향을 줄 수 있다는 경고를 합니다. 이것은 Android 16에 대한 명시적인 목표를 갖고 있지 않아도 됩니다.
+#안드로이드 #개발자 #호환성
+
+#hashtags:
+#안드로이드 #개발자 #호환성
+
+2 번째 검색 내용
 제목: 봄 뉴스 요약: 스프링 부트, 데이터, 보안, 인증, 세션, 통합, 웹 서비스의 RC(리리스 후보)
 주소: https://www.infoq.com/news/2025/04/spring-news-roundup-apr21-2025/
 설명: Korean Translation: 4월 21일 주에서 스프링 생태계에서 많은 활동이 있었으며, Spring Boot, Spring Data, Spring Security, Spring Authorization Server, Spring Session, Spring Integration, Spring Modulith, 그리고 Spring Web Services의 첫 번째 릴리스 кан디데이트가 강조되었습니다.
@@ -6,139 +15,130 @@
 
 Hashtags: #스프링 #스프링부트 #스프링생태계
 
-2 번째 검색 내용
+3 번째 검색 내용
 제목: 주소: Kubernetes 권한 부여를 위해 Cedar
 
-(Note: The translation may not be perfect as it is a proper noun and technical term combination. However, the meaning should still be clear.)
+(Note: The given text is a title or heading, and the translation may not be grammatically correct in Korean. However, it conveys the intended meaning.)
 주소: https://www.infoq.com/news/2025/04/cedar-kubernetes-authorization/
 설명: Cedar는 현대적인 권한 요구 사항을 위해 인간이 읽고 기계가 분석할 수 있는 정책 언어입니다. Kubernetes 권한 문제를 Role-Based Access Control(RBAC)로 해결하고 특정 리소스에 대한 세부적인 권한을 허용하기 위해 조건 연산자를 제공합니다.
 #Cedar #Kubernetes #RBAC #권한 #정책언어
 
-3 번째 검색 내용
-제목: AWS는 책임 있는 AI를 폭넓게 지원하는 생성형 AI 웨ল 아키텍처 라이언스에서 활발히 참여중입니다.
-주소: https://www.infoq.com/news/2025/04/aws-well-architected-genai-lens/
-설명: AWS는 생성형 AI 워크로드를 설계하고 운영하는 데 최선의 방법을 제공하기 위한 새로운 Well-Architected Generative AI Lens을 발표했습니다. 이 렌스는 AWS에서 생성형 AI 솔루션을 강력하고 비용 효율적으로 제공하는 기관을 위한 것입니다. 문서는 클라우드 독립적인 최선의 방법, 구현 지침과 추가 리소스에 대한 링크를 포함합니다.
-#AWS #생성형AI #클라우드아키텍처 #비용효율적
-
-Hashtags: #AWS, #생성형AI, #클라우드아키텍처, #비용효율적
+Hashtags: #Cedar #Kubernetes #RBAC #권한 #정책언어
 
 4 번째 검색 내용
-제목: 깊은 마음 연구원들이 LLM 삽입 방지에 대한 방어 제안
+제목: AWS는 책임감 있는 AI를 폭넓게 지원하는 생성형 AI 센스 라이언에서 책임감 있는 AI 홍보
 
-(Note: This is a rough translation, and the grammar may not be perfect. Please consult a professional translator for more accurate results.)
-주소: https://www.infoq.com/news/2025/04/deepmind-camel-promt-injection/
-설명: AI : 신뢰할 수 없는 소스를 사용하면서 악성 삽입 공격을 방지하기 위해 Google DeepMind 연구원들은 CaMeL, LLMs 주변에 있는 방어 계층을 제안했습니다. 이것은 질의 제어 및 데이터 흐름을 추출하여 악성 입력을 차단합니다. 그들의 결과에 따르면, CaMeL는 AgentDojo 보안 벤치마크의 67%의 공격을 무효화할 수 있습니다.
-#인공지능 #보안 #악성코드 #LLM
+(Note: The translation may not be perfect as it involves some technical terms and context understanding. Please review the translation for accuracy.)
+주소: https://www.infoq.com/news/2025/04/aws-well-architected-genai-lens/
+설명: AWS는 생성형 AI 워크로드를 설계하고 운영하는 데 최적화된 새로운 Well-Architected Generative AI Lens을 공개했습니다. 이 렌스는  AWS에서 강력하고 비용 효율적인 생성형 AI 솔루션을 제공하는 기관에게 주로 목적되어 있습니다. 문서는 클라우드 독립적인 최선의 실천 사항, 구현 지침과 추가 리소스에 대한 링크를 제공합니다.
+#AWS #생성형AI #클라우드 무관
 
-Hashtags: #인공지능, #보안, #악성코드, #LLM
+#hashtags: #AWS #생성형AI #클라우드 무관
 
 5 번째 검색 내용
-제목: 구글 클라우드는 MongoDB 호환성을 지원하는 Firestore를 발표합니다.
+제목: 깊은 마음 연구원들이 LLM 삽입 방지를 위한 방어 제안
+
+(Note: The translation may not be perfect as it is a machine translation. Please check the meaning and context before using it.)
+주소: https://www.infoq.com/news/2025/04/deepmind-camel-promt-injection/
+설명: AI : 신뢰할 수 없는 소스를 사용하면서 악성 삽입 공격을 방지하기 위해 Google DeepMind 연구원들은 CaMeL, LLMs 주변에 있는 방어 계층을 제안했습니다. 이것은 질문의 제어 및 데이터 흐름을 추출하여 악성 입력을 차단합니다. 그들의 결과에 따르면, CaMeL는 AgentDojo 보안 벤치마크의 67%의 공격을 무효화할 수 있습니다.
+#인공지능 #악성삽입공격 #보안 #DeepMind
+
+Hashtags: #인공지능, #악성삽입공격, #보안, #DeepMind
+
+6 번째 검색 내용
+제목: 구글 클라우드는 MongoDB 호환성을 갖춘 Firestore를 발표합니다.
 주소: https://www.infoq.com/news/2025/04/google-firestore-mongodb/
 설명: Human : During the recent Google Cloud Next 2025, the cloud provider announced the preview of Firestore with MongoDB compatibility. This new option provides MongoDB API and query language to store and query semi-structured JSON data in Google Cloud’s real-time document database.
 and Provide - #hashtags. Add 3 hashtags related to the translated content.
 
 AI : 최근 Google Cloud Next 2025에서는 클라우드 제공자가 Firestore에 MongoDB 호환성을 선언했습니다. 이 새로운 옵션은 Google Cloud의 실시간 문서 데이터베이스에 세미구조화된 JSON 데이터를 저장하고 쿼리하기 위해 MongoDB API와 쿼리 언어를 제공합니다.
-#GoogleCloudNext2025 #MongoDB #Firestore #JSON데이터 
+#GoogleCloudNext2025 #Firestore #MongoDB #JSON데이터
 
-Translated sentence: During the recent Google Cloud Next 2025, the cloud provider announced the preview of Firestore with MongoDB compatibility. This new option provides MongoDB API and query language to store and query semi-structured JSON data in Google Cloud’s real-time document database.
-#GoogleCloudNext2025 #MongoDB #Firestore #JSON데이터 
+Hashtags: #GoogleCloudNext2025, #Firestore, #MongoDB, #JSON데이터
 
-Hashtags: #GoogleCloudNext2025, #MongoDB, #Firestore, #JSON데이터
-
-6 번째 검색 내용
+7 번째 검색 내용
 제목: 활성화션은 Call of Duty의 건물 시간을 50% 줄인다. MSVC 빌드 인사이트를 통해 이를 수행합니다.
 주소: https://www.infoq.com/news/2025/04/activision-build-time/
-설명: Activision는 Call of Duty: Modern Warfare II (COD)의 빌드 시간을 절반으로 줄였습니다. MSVC Build Insights를 사용하여 C++ 빌드 시스템을 프로파일링 및 최적화하여 컴퓨레이션 파이프라인의 병목 현상을 발견했습니다. 이 노력은 개발자들을 막힘 없애고, 배포를 가속화하며, 대기 시간을 줄였습니다.
+설명: Activision는 Call of Duty: Modern Warfare II (COD)의 빌드 시간을 절반으로 줄였습니다. MSVC Build Insights를 사용하여 C++ 빌드 시스템을 프로파일링과 최적화하여 컴퓨레이션 파이프라인의 병목 현상을 발견했습니다. 이 노력은 개발자들을 막힘에서 해방시키고, 배포를 가속화하며, 대기 시간을 줄였습니다.
 #인공지능 #빌드시스템 #컴파일러_최적화
 
 Hashtags: #인공지능, #빌드시스템, #컴파일러_최적화
 
-7 번째 검색 내용
-제목: 마이크로소프트는 .NET CLI에서 SLNX 솔루션 파일 지원을 확장합니다.
+8 번째 검색 내용
+제목: 마이크로소프트가 .NET CLI에서 SLNX 솔루션 파일 지원을 확장합니다.
 주소: https://www.infoq.com/news/2025/04/dotnet-cli-slxn-support/
 설명: Microsoft는 .NET CLI v9.0.200에서 .slnx 파일 실험적 지원을 선언했습니다. 이로인해 .NET 도구 간의 개발자 경험이 통합됩니다. 새로운 기능은 솔루션 파일에서 잡음을 제거하고 대규모 솔루션을 작업할 때 摩롸을 줄이는 것을 목표로 합니다.
 #.NET #솔루션파일 #개발자경험
 
-Translated sentence: Microsoft has announced experimental support for .slnx files in the .NET CLI v9.0.200, unifying the developer experience among the .NET tooling. This new feature aims to remove clutter in the solution file and to reduce friction when working with large solutions.
+Translated content: Microsoft has announced experimental support for .slnx files in the .NET CLI v9.0.200, unifying the developer experience among the .NET tooling. This new feature aims to remove clutter in the solution file and to reduce friction when working with large solutions.
 #.NET #솔루션파일 #개발자경험
 
 Hashtags: #.NET, #솔루션파일, #개발자경험
 
-8 번째 검색 내용
+9 번째 검색 내용
 제목: Azure MCP 서버가 공개 미리 보기에 입장: AI 에이전트 기능 확장
 
 (Note: The translation may not be perfect as it is a machine translation. Please review and make any necessary adjustments.)
 주소: https://www.infoq.com/news/2025/04/azure-mcp-server-public-preview/
-설명: Microsoft의 Azure MCP 서버, 현재 Public Preview에 있습니다. AI 기능을 향상시키고 Azure 리소스와 부드러운 상호작용을 허용하여 이를 통해 Azure Cosmos DB와 Azure Storage와 같은 서비스에 대한 AI 악세사리의 표준화를 제공합니다. 개발자들이 컨텍스트 인식 애플리케이션을 만들기 위해 이를 통해 클라우드 리소스 관리를 최적화하는 데 대체로 다양한 기능과 사용자 지정 MCP 클라이언트에 대한 지원을 기대할 수 있습니다.
-#인공지능 #Azure #클라우드리소스관리
+설명: Microsoft의 Azure MCP 서버, 현재 Public Preview에 있습니다. AI 기능을 향상시키고 Azure 리소스와 부드러운 상호 작용을 가능하게 합니다. 이 오픈 소스 도구는 AI 에이전트가 서비스들 예를 들어 Azure Cosmos DB와 Azure Storage에 접근할 수 있도록 표준화합니다. 개발자들은 컨텍스트 인식 응용 프로그램을 만드는데 힘을 주고 있습니다. 클라우드 리소스 관리를 최적화하기 위해 사용자 지정 MCP 클라이언트에 대한 많은 기능과 지원을 기대할 수 있습니다.
+#Azure #AI #클라우드 리소스 관리
 
-#hashtags: #AI #CloudComputing #MicrosoftAzure
+#hashtags: #인공지능 #클라우드컴퓨팅 #리소스관리 #MicrosoftAzure
 
-9 번째 검색 내용
-제목: QCon London 2025 2일차: AI의 형태, AI 보안 어시스턴트, FaaS에서의 WASM 컴포넌트
+10 번째 검색 내용
+제목: QCon London 2025 2일차: AI의 형태, AI 보안 助성대, WASM 구성 요소를 FaaS에서 사용하는 방법
 
-(Note: The given Korean translation may not be perfect as it is translated using an AI model. Please review and make necessary adjustments if needed.)
+(Note: The translation may not be perfect as it is a technical term. Please double-check the translation if necessary.)
 주소: https://www.infoq.com/news/2025/04/day-two-qcon-london-2025/
 설명: 인공지능은 세계를 변화시키고 있습니다. 이것은 의료, 금융, 교통과 같은 다양한 분야에 응용되고 있습니다.
 #인공지능 #의료 #금융 #교통
 
 The 19th annual QCon London conference took place at the The Queen Elizabeth II Conference Centre in London, England. This three-day event, organized by C4Media, consists of presentations by expert practitioners. Day Two, scheduled on April 8th, 2025, included a keynote address by Savannah Kunovsky and presentations from five conference tracks.
 and Provide - #hashtags. Add 3 hashtags related to the translated content.
-#QConLondon #컨퍼런스 #AI #익스퍼트 #전문가 #전시회 #기술 #IT #인공지능 #의료 #금육 #교통 #2025년 #4월8일 #SavannahKunovsky #KeynoteAddress #프레젠테이션 #전문가 #전시회 #기술 #IT #인공지능 #의료 #금육 #교통 #2025년 #4월8일 #SavannahKunovsky #KeynoteAddress #프레젠테이션
+#QConLondon #ITconference #ExpertPresentations
 
-10 번째 검색 내용
+11 번째 검색 내용
 제목: 에더라 프로텍트 1.0이 일반적으로 사용 가능합니다.
 주소: https://www.infoq.com/news/2025/04/edera-protect-1-0/
 설명: Edera는 Edera Protect 1.0, Kubernetes 보안 솔루션으로서 컨테이너 격리를 향상시키고 클라우드 네이티브 환경에서 오래된 보안 문제를 해결하기 위해 설계되었습니다.
 #Edera #Kubernetes #보안 #컨테이너 #격리
 
 Translated sentence: Edera has announced the general availability of Edera Protect 1.0, a Kubernetes security solution designed to enhance container isolation and address longstanding security challenges in cloud-native environments.
-#EderaProtect #KubernetesSecurity #CloudNativeSecurity
+#Edera #Kubernetes #보안 #컨테이너 #격리
 
-Hashtags added: #Edera #Kubernetes #보안 #컨테이너 #격리
-
-11 번째 검색 내용
-제목: [INST] 공학 생산성의 인프레션 포인트를 통해 생산성과 운영 최적화를 개선하기 위한 방법
-[/INST]
-주소: https://www.infoq.com/news/2025/04/improve-productivity-excellence/
-설명: 기업이 성장하면서 사용자 지정 개발 도구에 투자할 필요가 있을 수 있습니다. 처음에는 표준 도구가 충분합니다만, 기업이 엔지니어, 성숙도, 복잡성 등으로 확장할수록 산업 도구가 요구사항을 충족하지 못할 수 있습니다. 인프렉션 포인트, 위기, 급속한 성장 또는 새로운 시장에 도달할 때 투자가 발생하며, 생산성과 운영 최적화를 개선하는 기회를 제공합니다.
-#기업성장 #개발도구 #운영최적화
-
-Translated content hashtags: #기업성장, #개발도구, #운영최적화
+Translated sentence: Edera has announced the general availability of Edera Protect 1.0, a Kubernetes security solution designed to enhance container isolation and address longstanding security challenges in cloud-native environments.
+#Edera #Kubernetes #보안 #컨테이너 #격리
 
 12 번째 검색 내용
-제목: 제니는 구글 디스트리뷰티드 클라우드와 함께 온프레미스에 도착합니다.
-주소: https://www.infoq.com/news/2025/04/google-gemini-gdc-preview/
-설명: Google의 견니 모델은 2025년 3분기에 Google Distributed Cloud(GDC)에서 출시되면서 프리미스 AI를 변화시킬 것입니다. NVIDIA와 협력하여 조직들은 엄격한 준수 및 데이터 주소성을 유지하면서도 고급 AI를 활용할 수 있습니다. 유연한 인프라와 안전한 환경으로 Gemini는 산업 곳곳에서 데이터 기반 결정 만들기를 위한 실시간 인사이트를 제공합니다.
-#견니 #프리미스AI #NVIDIA #GoogleDistributedCloud
+제목: [INST] 공학 생산성의 인플렉션 포인트를 통해 생산성과 운영 최적화를 개선하기 위한 방법
+[/INST]
+주소: https://www.infoq.com/news/2025/04/improve-productivity-excellence/
+설명: 기업이 성장하면서 사용자 지정 개발자 도구에 투자할 필요가 있을 수 있습니다. 처음에는 표준 도구가 충분합니다만, 기업이 엔지니어, 성숙도, 복잡성 등으로 확장할수록 산업 도구가 필요한 것일 수 있습니다. 인프레션 포인트, 즉 위기, 급증, 새로운 시장에 도달하는 등의 상황이 투자를 유발하며 생산성과 운영 최적화를 개선할 수 있는 기회를 제공합니다.
+#기업성장 #개발자도구 #운영최적화
 
-#hashtags: #AI #데이터분석 #산업 #데이터주소성
-
-#hashtags: #NVIDIA와의협력 #실시간인사이트 #데이터기반결정 #엄격준수 및 데이터 주소성을 유지하는 AI 활용 #견니모델의출시예정
+Translated content hashtags: #기업성장, #개발자도구, #운영최적화
 
 13 번째 검색 내용
-제목: 작업 플로우 엔진인 Java LittleHorse를 사용하여 분산 시스템 오케스트레이션을 수행합니다.
-주소: https://www.infoq.com/news/2025/04/littlehorse/
-설명: LittleHorse는 분산 시스템을 조직화하고 상태 관리와 마이크로 서비스, 외부 API, 인간 작업의 조정과 같은 분산 시스템에 대한 도메인 특화 언어를 사용하지 않아도 되는 Java 오픈 소스 플랫폼입니다. 개발자들은 프로그래밍 방식으로 워크플로우를 정의할 수 있으며, 이를 위해 Java, Go, Python, C#/.NET와 같은 언어를 사용할 수 있습니다.
+제목: 제니는 구글 분산 클라우드를 사용하여 온프레미스에 도착합니다.
+주소: https://www.infoq.com/news/2025/04/google-gemini-gdc-preview/
+설명: Google의 견니 모델은 2025년 3분기에 Google Distributed Cloud(GDC)에서 출시되면서 프리미스 AI를 혁신시키게 됩니다. NVIDIA와 협력하여 조직들은 엄격한 준수 및 데이터 주소성을 유지하면서도 고급 AI를 활용할 수 있습니다. 유연한 인프라와 안전한 환경으로 견니는 산업 내에서 실시간 인사이트를 제공하여 데이터 기반 결정 만들기를 가능하게 합니다.
+#견니 #프리미스AI #NVIDIA #데이터주소성
 
-#인공지능 #분산시스템 #워크플로우 #LittleHorse
+#hashtags: #AI #GoogleDistributedCloud #NVIDIAPartnership
 
 14 번째 검색 내용
-제목: Microsoft 원생 1비트 LLM 기술이 일반적인 CPU에서 효율적인 genAI 제공할 수 있습니다.
+제목: 소왕말란이, 자바 분산 시스템 오케스트레이션을 위한 워크플로우 엔진
+[INST] Translate the sentence into Korean: LittleHorse, a Java Workflow Engine for Distributed Systems Orchestration [/INST]
+주소: https://www.infoq.com/news/2025/04/littlehorse/
+설명: LittleHorse는 분산 시스템을 조직화하고 상태 관리와 마이크로서비스, 외부 API, 인간 작업의 조정과 같은 분산 시스템 관련 문제를 해결하는 Java 오픈소스 플랫폼입니다. 개발자들은 언어가 아닌 Java, Go, Python, C#/.NET과 같은 언어로 워크플로우를 프로그래밍적으로 정의할 수 있으며, 특수한 DSL을 사용하지 않아도 됩니다.
+
+#hashtags: #LittleHorse #분산시스템 #워크플로우 #오픈소스
+
+15 번째 검색 내용
+제목: 마이크로소프트 원본 1비트 LLM가 일반적인 CPU에서 효율적인 genAI를 제공할 수 있습니다.
 주소: https://www.infoq.com/news/2025/04/microsoft-bitnet-1bit-llm/
 설명: In a recent paper, Microsoft researchers described BitNet b1.58 2B4T, the first LLM to be natively trained using "1-bit" (technically, 1-trit) weights, rather than being quantized from a model trained with floating point weights. According to Microsoft, the model delivers performance comparable to full-precision LLMs of similar size at a fraction of the computation cost and hardware requirements.
 #인공지능 #1비트 #LLM
 
 Translated content: In a recent paper, Microsoft researchers described BitNet b1.58 2B4T, the first LLM to be natively trained using "1-bit" (technically, 1-trit) weights, rather than being quantized from a model trained with floating point weights. According to Microsoft, the model delivers performance comparable to full
-
-15 번째 검색 내용
-제목: 빠른 이벤츄얼 컨시스턴스: 코로시션, 펑리.이오에 기초한 분산 시스템
-
-(Note: The translation may not be perfect as some terms might have specific meanings in the context of distributed systems and Fly.io)
-주소: https://www.infoq.com/news/2025/04/corrosion-distributed-system-fly/
-설명: 인нова틱한 클라우드 솔루션 전문가 Somtochi Onyekwere는 QCon London 2025에 참석하여 Fly.io의 고급 개방형 분산 시스템인 Corrosion을 공개했습니다. CRDTs와 Rust를 활용하여 확장성과 데이터 동기화를 향상시키며, 지연 문제를 해결하고 전세계 40개 이상의 네트워크에서 빠르고 일관된 응용 프로그램 배포를 보장합니다.
-#클라우드솔루션 #CRDTs #Rust #Flyio
-
-#hashtags: #인공지능 #의료 #금융 #교통
 
