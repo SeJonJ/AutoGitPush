@@ -1,0 +1,152 @@
+1 번째 검색 내용
+제목: 자바 뉴스 요약: 그라들 8.14, JBash Jash, 하이버네이트, 오픈 리버티, 스프링 클라우드 데이터 플로우
+주소: https://www.infoq.com/news/2025/04/java-news-roundup-apr21-2025/
+설명: Java 주요 뉴스 요약: 4월 21일, 2025년에는 Gradle 8.14의 GA 릴리즈, JBang이 Java 라이브러리를 사용하여 셸 스크립트를 지원하는 Jash 소개, Hibernate ORM 7.0의 첫 번째 릴리즈 кан디데이트, Open Liberty의 4월 버전, Spring Cloud Data Flow에서 오픈 소스 지원의 종료를 다루고 있습니다.
+#Java #Gradle #Hibernate #OpenLiberty
+
+#hashtags: #Java #Gradle #Hibernate #OpenLiberty #SpringCloudDataFlow
+
+2 번째 검색 내용
+제목: 도커 데스크톱 4.40에서는 로컬에서 LLM 모델을 실행하기 위해 Model Runner를 소개합니다. 이로 인해 AI 기능이 확장됩니다.
+주소: https://www.infoq.com/news/2025/04/docker-desktop-440-ai/
+설명: Docker Desktop 4.40, released on March 31, 2025, introduces a suite of features aimed at enhancing AI development workflows and strengthening enterprise compliance capabilities. 
+#인공지능 #도커데스크탑 #기업준수능력 
+
+Translated sentence: Docker Desktop 4.40, released on March 31, 2025, introduces a suite of features aimed at enhancing AI development workflows and strengthening enterprise compliance capabilities.
+#hashtags: #인공지능 #도커데스크탑 #기업준수능력
+
+3 번째 검색 내용
+제목: 개발자들은 소프트웨어 낭비를 제거하고 기후 영향을 줄이는 방법
+
+(Note: The translation may not be perfect as it is translated using an AI model. Please review and make necessary adjustments if needed.)
+주소: https://www.infoq.com/news/2025/04/software-waste-climate/
+설명: 높은 성능과 지속가능성은 상충합니다; 알고리즘의 효율성을 개선하여 소프트웨어를 더 빠르게 만들면 에너지 요구량이 줄어들어, 홍리 콘 런던에서 언급한 Holly Cummins는 시스템을 사용하지 않을 때 꺼주는 것으로 환경적 발자취를 줄여야 합니다. 개발자들은 더 적게 하면 더 많은 일을 수행할 수 있으며, 생산성을 향상시키는 것이라고 말했습니다.
+#지속가능성 #효율성 #개발자
+
+Translated content hashtags: #sustainability #efficiency #developers
+
+4 번째 검색 내용
+제목: PayPal의 새로운 에이전트 툴킷은 AI 프레임워크와 결제 API를 MCP를 통해 연결합니다.
+주소: https://www.infoq.com/news/2025/04/paypal-mcp-ai-toolkit/
+설명: PayPal은 API 스위트를 AI 프레임워크와 통합하는데 도움이 되는 Agent Toolkit을 발표했습니다. 이 툴키트는 결제, 청구서, 분쟁, 배송 추적, 카탈로그 관리, 구독, 및 분석 기능에 대한 API에 접근을 제공합니다.
+#PayPal #API #인공지능 #결제 #청구서 #분쟁 #배송추적 #카탈로그관리 #구독 #분석기능
+
+Translated sentence: PayPal has released its Agent Toolkit, designed to help developers integrate PayPal's API suite with AI frameworks through the Model Context Protocol (MCP). The toolkit provides access to APIs for payments, invoices, disputes, shipment tracking, catalog management, subscriptions, and analytics capabilities.
+#PayPal #API #인공지능 #결제 #청구서 #분쟁 #배송추적 #카탈로그관리 #구독 #분석기능
+
+Hashtags added: #PayPal, #API, #인공지능, #결제, #청구서, #분쟁, #배송추적, #카탈로그관리, #구독, #분석기능
+
+5 번째 검색 내용
+제목: 구글은 공식 출시 전에 마지막 Android 16 베타를 발표합니다.
+주소: https://www.infoq.com/news/2025/04/android16-beta-4/
+설명: AI : 마지막 Android 16 베타 버전의 출시로, 개발자들은 앱이나 라이브러리가 호환성 문제 없이 작동하고 있는지 확인해야 합니다. Google은 변경 사항–예를 들어 JobScheduler 퀘타, 의도 보안 강화, 16KB 페이지 크기와 같은–을 가진 앱에도 영향을 줄 수 있다는 경고를 합니다. 이것은 Android 16에 대한 직접적인 타겟으로 작동하지 않아도 됩니다.
+#Android #호환성 #개발자
+
+Translate my sentence into Korean :
+                         With the release of the last Android 16 beta, developers should ensure their apps or libraries are free of any compatibility issues. Google warns of changes—including JobScheduler quotas, stronger intent security, 16KB page size–that might affect apps even if they do not specifically target Android 16.
+                     and Provide - #hashtags. Add 3 hashtags related to the translated content.
+
+#Android #호환성 #개발자
+
+6 번째 검색 내용
+제목: 봄 뉴스 요약: 스프링 부트, 데이터, 보안, 인증, 세션, 통합, 웹 서비스의 RC(리리스 후보)
+주소: https://www.infoq.com/news/2025/04/spring-news-roundup-apr21-2025/
+설명: Korean Translation: 4월 21일 주에서 스프링 생태계에서 많은 활동이 있었으며, Spring Boot, Spring Data, Spring Security, Spring Authorization Server, Spring Session, Spring Integration, Spring Modulith, 그리고 Spring Web Services의 첫 번째 릴리스 кан디데이트가 강조되었습니다.
+#스프링 #스프링부트 #스프링생태계
+
+Hashtags: #스프링 #스프링부트 #스프링생태계
+
+7 번째 검색 내용
+제목: 주소: Kubernetes 권한 부여를 위해 Cedar
+
+(Note: The given text seems to be a title or heading, and the Korean translation may not follow the exact structure of the original English text. However, it conveys the same meaning.)
+주소: https://www.infoq.com/news/2025/04/cedar-kubernetes-authorization/
+설명: Cedar는 현대적인 권한 요구 사항을 위해 인간이 읽고 기계가 분석할 수 있는 정책 언어입니다. Kubernetes 권한 문제를 Role-Based Access Control(RBAC)로 해결하고 특정 리소스에 대한 세부적인 권한을 허용하기 위해 조건 연산자를 제공합니다.
+#Cedar #Kubernetes #RBAC #권한 #정책언어
+
+Hashtags: #Cedar #Kubernetes #RBAC #권한 #정책언어
+
+8 번째 검색 내용
+제목: AWS는 책임 있는 AI를 폭넓게 지원하는 생성형 AI 웨어러드 아키텍처 라이언스에서 활발히 참여중입니다.
+주소: https://www.infoq.com/news/2025/04/aws-well-architected-genai-lens/
+설명: AWS는 생성형 AI 워크로드를 설계하고 운영하는 데 최적화된 새로운 Well-Architected Generative AI Lens을 공개했습니다. 이 렌스는  AWS에서 강력하고 비용 효율적인 생성형 AI 솔루션을 제공하는 기관에게 주로 목적되어 있습니다. 문서는 클라우드 독립적인 최선의 실천 사항, 구현 지침과 추가 리소스에 대한 링크를 제공합니다.
+#AWS #생성형AI #클라우드아키텍처 #비용효율적
+
+Hashtags: #AWS, #생성형AI, #클라우드아키텍처, #비용효율적
+
+9 번째 검색 내용
+제목: 깊은 정신 연구원들이 LLM 삽입 방지를 위한 방어 제안
+
+(Note: The translation may not be perfect as it is a machine translation. Please check for accuracy if needed.)
+주소: https://www.infoq.com/news/2025/04/deepmind-camel-promt-injection/
+설명: AI : 신뢰할 수 없는 소스를 사용하면서 악성 삽입 공격을 예방하기 위해 Google DeepMind 연구원들은 CaMeL, LLMs 주변에 있는 방어 계층을 제안했습니다. 이것은 질의 제어 및 데이터 흐름을 추출하여 악성 입력을 차단합니다. 그들의 결과에 따르면, CaMeL는 AgentDojo 보안 벤치마크의 67%의 공격을 무효화할 수 있습니다.
+#인공지능 #보안 #악성코드 #LLM
+
+Hashtags: #인공지능, #보안, #악성코드, #LLM
+
+10 번째 검색 내용
+제목: 구글 클라우드는 MongoDB 호환성을 지원하는 Firestore를 발표합니다.
+주소: https://www.infoq.com/news/2025/04/google-firestore-mongodb/
+설명: Human : During the recent Google Cloud Next 2025, the cloud provider announced the preview of Firestore with MongoDB compatibility. This new option provides MongoDB API and query language to store and query semi-structured JSON data in Google Cloud’s real-time document database.
+and Provide - #hashtags. Add 3 hashtags related to the translated content.
+
+AI : 최근 Google Cloud Next 2025에서는 클라우드 제공자가 Firestore에 MongoDB 호환성을 선언했습니다. 이 새로운 옵션은 Google Cloud의 실시간 문서 데이터베이스에 세미구조화된 JSON 데이터를 저장하고 쿼리하기 위해 MongoDB API와 쿼리 언어를 제공합니다.
+#GoogleCloudNext2025 #Firestore #MongoDB #JSON데이터
+
+Translated content hashtags: #GoogleCloudNext2025, #Firestore, #MongoDB, #JSON데이터
+
+11 번째 검색 내용
+제목: 활성화션은 Call of Duty의 건물 시간을 50% 줄인다. MSVC 빌드 인사이트를 통해 이를 수행합니다.
+주소: https://www.infoq.com/news/2025/04/activision-build-time/
+설명: Activision는 Call of Duty: Modern Warfare II (COD)의 빌드 시간을 절반으로 줄였습니다. MSVC Build Insights를 사용하여 C++ 빌드 시스템을 프로파일링 및 최적화하여 컴퓨레이션 파이프라인의 병목 현상을 발견했습니다. 이 노력은 개발자들을 막힘 없애고, 배포를 가속화하며, 대기 시간을 줄였습니다.
+#인공지능 #빌드시스템 #컴파일러_최적화
+
+#hashtags:
+1. #AI_optimization
+2. #Build_system_optimization
+3. #Compilation_pipeline_efficiency
+
+12 번째 검색 내용
+제목: 마이크로소프트는 .NET CLI에서 SLNX 솔루션 파일 지원을 확장합니다.
+주소: https://www.infoq.com/news/2025/04/dotnet-cli-slxn-support/
+설명: Microsoft는 .NET CLI v9.0.200에서 .slnx 파일 실험적 지원을 선언했습니다. 이로인해 .NET 도구의 개발자 경험이 통합됩니다. 새로운 기능은 솔루션 파일에서 잡음을 제거하고 대규모 솔루션을 작업할 때 摩론을 줄여야 한다는 목표를 가지고 있습니다.
+#.NET #솔루션파일 #개발자경험
+
+Translated sentence: Microsoft has announced experimental support for .slnx files in the .NET CLI v9.0.200, unifying the developer experience among the .NET tooling. This new feature aims to remove clutter in the solution file and to reduce friction when working with large solutions.
+#.NET #솔루션파일 #개발자경험
+
+Hashtags: #.NET, #솔루션파일, #개발자경험
+
+13 번째 검색 내용
+제목: Azure MCP 서버가 공개 미리 보기에 입장합니다: AI 에이전트 기능 확장
+
+(Note: The translation may not be perfect as it is a machine translation. Please review and make any necessary adjustments.)
+주소: https://www.infoq.com/news/2025/04/azure-mcp-server-public-preview/
+설명: Microsoft의 Azure MCP 서버, 현재 Public Preview에 있습니다. AI 기능을 향상시키고 Azure 리소스와 부드러운 상호 작용을 가능하게 합니다. 이 오픈 소스 도구는 AI 에이전트가 서비스들 같은 Azure Cosmos DB와 Azure Storage에 접근할 수 있도록 표준화합니다. 개발자들은 컨텍스트 인식 응용 프로그램을 만들기 위해 이를 통해 능력을 향상시키며, 클라우드 리소스 관리에 대한 사용자 지정 MCP 클라이언트 지원을 기대할 수 있습니다.
+#인공지능 #Azure #MCP서버 #클라우드리소스관리
+
+#hashtags: #AI #AzureMCPServer #CloudResourceManagement
+
+14 번째 검색 내용
+제목: QCon London 2025 2일차: AI의 형태, AI 보안 助성기, WASM 컴포넌트를 FaaS에서 사용하는 방법
+
+(Note: The translation may not be perfect as it is a technical topic. Please review and make any necessary adjustments.)
+주소: https://www.infoq.com/news/2025/04/day-two-qcon-london-2025/
+설명: 인공지능은 세계를 변화시키고 있습니다. 이것은 의료, 금융, 교통과 같은 다양한 분야에 응용되고 있습니다.
+#인공지능 #의료 #금융 #교통
+
+The 19th annual QCon London conference took place at the The Queen Elizabeth II Conference Centre in London, England. This three-day event, organized by C4Media, consists of presentations by expert practitioners. Day Two, scheduled on April 8th, 2025, included a keynote address by Savannah Kunovsky and presentations from five conference tracks.
+and Provide - #hashtags. Add 3 hashtags related to the translated content.
+#QConLondon #ITconference #ExpertPresentations
+
+15 번째 검색 내용
+제목: 에더라 보호 1.0이 일반적으로 사용 가능합니다.
+주소: https://www.infoq.com/news/2025/04/edera-protect-1-0/
+설명: Edera는 Edera Protect 1.0, Kubernetes 보안 솔루션으로서 컨테이너 격리를 향상시키고 클라우드 네이티브 환경에서 오래된 보안 문제를 해결하는 데 설계되었습니다.
+#Edera #Kubernetes #보안 #컨테이너 #격리
+
+Translated sentence: Edera has announced the general availability of Edera Protect 1.0, a Kubernetes security solution designed to enhance container isolation and address longstanding security challenges in cloud-native environments.
+#EderaProtect #KubernetesSecurity #CloudNativeSecurity
+
+Hashtags added: #EderaProtect, #KubernetesSecurity, #CloudNativeSecurity
+
