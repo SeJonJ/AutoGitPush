@@ -1,18 +1,39 @@
 1 번째 검색 내용
-제목: 도커는 MCP 카탈로그와 툴키트를 사용하여 브리지, 에이전트, 컨테이너를 연결합니다.
-주소: https://www.infoq.com/news/2025/04/docker-mcp-catalog-toolkit/
-설명: Docker는 에이전트적 응용 프로그램에 컨테이너 등급의 보안과 개발자 친화적인 워크플로우를 제공하기 위해 두 가지 AI 중심 도구—Docker MCP Catalog와 Docker MCP Toolkit을 발표했습니다. 이는 Model Context Protocol (MCP) 도구에 개발자 중심의 생태계를 구축하기 위해 도움이 됩니다.
-#Docker #AI #컨테이너 #ModelContextProtocol
+제목: 클라우드플레어, 보안 자격 증명 관리를 위한 공개 베타 버전 출시
 
-Translated content hashtags: #Docker, #AI, #컨테이너, #ModelContextProtocol
+(Note: The translation may not be perfect as it is a direct translation. In Korean, the subject and verb often come at the end of the sentence. Also, "Secrets Store" can be translated as "비밀 저장소".)
+주소: https://www.infoq.com/news/2025/04/cloudflare-secrets-store-beta/
+설명: 인공지능 : 최근의 Developer Week 2025에서 Cloudflare는 Cloudflare Secrets Store의 공개 베타를 발표했습니다. 이것은 API 토큰, 키, 자격 증명을 안전하게 저장하는 방법입니다. 긴 기간 목표는 Secrets Store를 다양한 Cloudflare 제품과 통합하는 것이지만, 현재는 Cloudflare Workers에만 지원됩니다.
+#개발자주의일 #클라우드플레어 #시크릿스토어
+
+Translated sentence: During the recent Developer Week 2025, Cloudflare announced the public beta of Cloudflare Secrets Store, a secure way to store API tokens, keys, and credentials. While the long-term goal is to integrate Secrets Store with various Cloudflare products, it currently supports only Cloudflare Workers.
+#개발자주의일 #클라우드플레어 #시크릿스토어
 
 2 번째 검색 내용
-제목: 구글의 Gemma 3 QAT 언어 모델은 소비자 등급 GPU에서 로컬에서 실행할 수 있습니다.
-주소: https://www.infoq.com/news/2025/04/google-gemma-qat/
-설명: Google는 오픈 웨이트 Gemma 3 언어 모델의 정량화 버전인 Gemma 3 QAT 가족을 발표했습니다. 이 모델은 Quantization-Aware Training(QAT)를 사용하여 16비트에서 4비트로 가중치가 정량화되어도 고정된 정확도를 유지합니다.
-#인공지능 #정량화 #모델
+제목: 메젤라는 QCon 런던에서: 마이크로 프론트엔드 - 디자인부터 기업적 이점과 배포까지
+
+(Note: The Korean translation may not be perfect as it involves translating proper nouns and technical terms. Please double-check the translation for accuracy if needed.)
+주소: https://www.infoq.com/news/2025/04/microfrontend-best-practices/
+설명: 인공지능 전문가 Luca Mezzalira는 QCon London에서 AWS의 주요 설계자로써 최적의 마이크로 프론트엔드 플랫폼을 구축하는 경험을 공유했습니다. 그는 기업에 대한 마이크로 프론트엔드가 적합한지 여부를 결정하는 레시피와, 사용 사례에 맞춤형 아키텍처를 위한 주요 원리, 그리고 분산된 아키텍처에 대한 배포 전략을 제공했습니다.
+#마이크로프론트엔드 #QConLondon #AWS
+
+#hashtags: #마이크로프론트엔드, #QConLondon, #AWS
 
 3 번째 검색 내용
+제목: 도커는 MCP 카탈로그와 툴키트를 사용하여 브리지, 에이전트, 컨테이너를 연결합니다.
+주소: https://www.infoq.com/news/2025/04/docker-mcp-catalog-toolkit/
+설명: Docker는 에이전트적 응용 프로그램에 컨테이너 등급의 보안과 개발자 친화적인 워크플로우를 제공하기 위해 AI에 중점을 두는 두 가지 새로운 도커 MCP 카탈로그와 도커 MCP 툴킷을 발표했습니다. 이것은 Model Context Protocol (MCP) 도구에 개발자 중심의 생태계를 구축하는데 도움이 됩니다.
+#Docker #AI #에이전트적_응용_프로그램 #MCP
+
+#hashtags: #Docker, #AI, #에이전트적_응용_프로그램, #MCP
+
+4 번째 검색 내용
+제목: 구글의 Gemma 3 QAT 언어 모델은 소비자 등급 GPU에서 로컬에서 실행할 수 있습니다.
+주소: https://www.infoq.com/news/2025/04/google-gemma-qat/
+설명: Google는 오픈 웨이트 Gemma 3 언어 모델의 정량화 버전인 Gemma 3 QAT 패밀리를 발표했습니다. 이 모델은 Quantization-Aware Training(QAT)을 사용하여 16비트에서 4비트로 가중치가 정량화되면서도 고정된 정확도를 유지합니다.
+#인공지능 #정량화 #가중치 튜닝
+
+5 번째 검색 내용
 제목: [INST] 깃허브가 공개 미리 보기로 깃허브 MCP 서버 발표합니다. [/INST]
 주소: https://www.infoq.com/news/2025/04/github-mcp-server-public-preview/
 설명: GitHub는 4월 4일, 2025년 공개 미리 보기로 발표한 Model Context Protocol(MCP) 서버의 공식 릴리스를 선언했습니다. 이 오픈 소스 서버를 사용하여 GitHub API와 통합할 수 있으며, 이로 인해 GitHub 에코시스템과의 자동화와 AI 기능을 활성화할 수 있습니다.
@@ -20,39 +41,33 @@ Translated content hashtags: #Docker, #AI, #컨테이너, #ModelContextProtocol
 
 #hashtags: #GitHub, #MCP, #AI, #자동화
 
-4 번째 검색 내용
+6 번째 검색 내용
 제목: 구글 딥마인드는 AGI 안전성과 보안에 대한 접근 방식을 공유합니다.
 주소: https://www.infoq.com/news/2025/04/google-deepmind-agi/
-설명: Google DeepMind는 인공일반지능(AGI) 개발에서 안전성과 보안에 대한 접근 방식을 다룬 새로운 논문을 발표했습니다. AGI는 AI 시스템이 인간이 대부분의 인지 작업에서 능력을 가지고 있는 것을 말합니다.
+설명: Google DeepMind는 인공일반지능(AGI) 개발에서 안전성과 보안에 대한 접근 방식을 다룬 새로운 논문을 발표했습니다. AGI는 AI 시스템이 인간이 대부분의 인지 작업에서 능력을 가진 것을 말합니다.
 #인공일반지능 #안전성 #보안
 
 Hashtags: #AI #인공지능 #인공일반지능
 
-5 번째 검색 내용
-제목: 스케일링 API 독립성: 아킨투르트 대화: 모킹, 계약 테스팅, 관찰성
+7 번째 검색 내용
+제목: 스케일링 API 독립성: Akehurst에 대해 모킹, 계약 테스트, 및 관찰성
 
-(Note: The Korean translation may not be perfect as it involves technical terms and the context is not clear. Please verify the translation if necessary.)
+(Note: The Korean translation may not be perfect as it involves translating technical terms and names. Please review the translation for accuracy.)
 주소: https://www.infoq.com/news/2025/04/qcon-wiremock-api-testing/
 설명: At QCon London 2025, Tom Akehurst spotlighted the path to developer autonomy in microservices through "Scaling API Independence." He emphasized advanced mocking, contract testing, and observability to combat API dependencies. Akehurst showcased how these strategies, enhanced by AI, streamline development, boost productivity, and ensure integration confidence amidst complexity.
-                     and Provide - #hashtags. Add 3 hashtags related to the translated content.
+                     Korean Translation: QCon 런던 2025에서 Tom Akehurst는 마이크로서비스의 개발자 독립성을 확장하는 "API 독립도메인 확장"에 대해 주목했습니다. 그는 API 종속성을 싸우기 위해 고급 모킹, 계약 테스트 및 관찰성을 강조하였습니다. Akehurst는 AI를 향상시키면 개발 효율성을 높이고, 복잡성에서 통합 신뢰를 보장하는데 도움이 되는 전략을 보여줍니다.
+                     #QCon #AI #마이크로서비스 #개발자독립성
 
- Korean Translation:
- QCon 런던 2025에서 Tom Akehurst는 마이크로서비스의 개발자 독립성을 향해 "API 독립도메인 확장"을 강조했습니다. 그는 API 종속성을 싸우기 위해 고급 모킹, 계약 테스트 및 관찰성을 강조하였습니다. Akehurst는 AI를 향상시키면 개발 효율성을 높이고, 복잡성에서 통합 신뢰를 보장하는데 도움이 되는 이러한 전략을 보여줍니다.
- #QCon #AI #개발자독립성
+Additional Hashtags: #API #독립도메인 #확장성 #복잡성 #통합신뢰 #개발효율성 #관찰성 #계약테스트 #고급모킹
 
- Hashtags:
- #AI #개발자독립성 #마이크로서비스 #QCon
-
-6 번째 검색 내용
+8 번째 검색 내용
 제목: 자바 뉴스 요약: 그라들 8.14, JBash Jash, 하이브레인트, 오픈 리버티, 스프링 클라우드 데이터 플로우
 주소: https://www.infoq.com/news/2025/04/java-news-roundup-apr21-2025/
-설명: Java 주요 뉴스 요약: 4월 21일, 2025년에는 Gradle 8.14의 GA 릴리즈, JBang이 Java 라이브러리를 사용하여 셸 스크립트를 지원하는 Jash 소개, Hibernate ORM 7.0의 첫 번째 릴리즈 кан디데이트, Open Liberty의 4월 버전, Spring Cloud Data Flow에서 오픈 소스 지원의 종료를 포함한 뉴스 하이라이트가 있습니다.
-#Gradle #JBang #HibernateORM #OpenLiberty
+설명: Java 주요 뉴스 요약: 2025년 4월 21일, Gradle 8.14의 GA 릴리즈; JBang에서 Jash, Java 라이브러리를 사용하여 셀 스크립트를 개발한다는 소식; Hibernate ORM 7.0의 첫 번째 릴리즈 кан디데이트; Open Liberty의 4월 버전; Spring Cloud Data Flow에서 오픈 소스 지원 종료입니다.
+#Gradle #JBang #HibernateORM #OpenLiberty #SpringCloudDataFlow
 
-#hashtags: #Java #뉴스 #소프트웨어_개발 #빌드_도구
-
-7 번째 검색 내용
-제목: 도커 데스크탑 4.40에서는 로컬에서 LLM 실행을 위해 모델 러너를 소개합니다. 이는 도커 데스크탑의 AI 기능을 확장합니다.
+9 번째 검색 내용
+제목: 도커 데스크톱 4.40에서는 로컬에서 LLM 실행을 위해 모델 러너를 소개하며, AI 기능을 확장합니다.
 주소: https://www.infoq.com/news/2025/04/docker-desktop-440-ai/
 설명: Docker Desktop 4.40, 2025년 3월 31일 발표된 소프트웨어, AI 개발 워크플로우를 향상시키고 기업 준수 능력을 강화하는 기능 집합을 소개합니다.
 #DockerDesktop #AI개발 #기업준수능력
@@ -60,26 +75,26 @@ Hashtags: #AI #인공지능 #인공일반지능
 Translated sentence: Docker Desktop 4.40, released on March 31, 2025, introduces a suite of features aimed at enhancing AI development workflows and strengthening enterprise compliance capabilities.
 #DockerDesktop #AI개발 #기업준수능력
 
-8 번째 검색 내용
+10 번째 검색 내용
 제목: 개발자들은 소프트웨어 낭비를 제거하고 기후 영향을 줄이는 방법
 
-(Note: The translation may not be perfect as it is a direct translation of the English sentence. In Korean, the word order and grammar structure can be different.)
+(Note: The translation may not be perfect as it is a direct translation of the English sentence. In Korean, the word order can be different and the sentence structure might need to be adjusted for better readability.)
 주소: https://www.infoq.com/news/2025/04/software-waste-climate/
-설명: 높은 성능과 지속가능성은 상충합니다; 알고리즘의 효율성을 개선하여 소프트웨어를 더 빠르게 만들면 에너지 요구량이 줄어들어, 홍리 콘 런던에서 언급한 Holly Cummins는 시스템을 사용하지 않을 때 꺼주는 것으로 환경적 발자취를 줄여야 한다고 제안했습니다. 개발자들은 더 많은 일을 할 수 있도록 효율성을 향상시키면, 그것이 생산성을 높여주었다고 말했습니다.
-#지속가능발전 #에너지절약 #소프트웨어개발자
+설명: 높은 성능과 지속가능성은 상충합니다; 알고리즘의 효율성을 개선하여 소프트웨어를 더 빠르게 만들면 에너지 요구량이 줄어들어, 홍리 콘 런던에서 언급한 Holly Cummins는 시스템을 사용하지 않을 때 비활성화하여 환경적 발자취를 줄이는 것을 제안했습니다. 개발자들은 효율성을 높이고 생산성을 향상시키면 더 많은 일을 달성할 수 있다는 것을 말했습니다.
+#지속가능성 #효율성 #에너지절약
 
-Translated content hashtags: #지속가능발전, #에너지절약, #소프트웨어개발자
+Translated content hashtags: #지속가능성, #효율성, #에너지절약
 
-9 번째 검색 내용
+11 번째 검색 내용
 제목: PayPal의 새로운 에이전트 툴킷은 AI 프레임워크와 결제 API를 MCP를 통해 연결합니다.
 주소: https://www.infoq.com/news/2025/04/paypal-mcp-ai-toolkit/
-설명: PayPal은 AI 프레임워크와 통합하기 위해 Model Context Protocol(MCP)를 사용하는 PayPal API 스위트에 대한 개발자들을 도움이 되는 Agent Toolkit을 출시했습니다. 툴킷은 결제, 청구서, 분쟁, 배송 추적, 카탈로그 관리, 구독, 및 분석 기능에 대한 API에 접근을 제공합니다.
-#PayPal #AI #결제시스템
+설명: PayPal은 AI 프레임워크와 통합하기 위해 Model Context Protocol(MCP)를 사용하는 PayPal API 슈이트를 개발자에게 도움을 주기 위한 Agent Toolkit을 출시했습니다. 툴키트는 결제, 청구서, 분쟁, 배송 추적, 카탈로그 관리, 구독, 및 분석 기능에 대한 API에 접근을 제공합니다.
+#PayPal #AI #API #결제
 
 [INST] PayPal has released its Agent Toolkit, designed to help developers integrate PayPal's API suite with AI frameworks through the Model Context Protocol (MCP). The toolkit provides access to APIs for payments, invoices, disputes, shipment tracking, catalog management, subscriptions, and analytics capabilities.
 and Provide - #hashtags. Add 3 hashtags related to the translated content. [/INST]
 
-10 번째 검색 내용
+12 번째 검색 내용
 제목: 구글은 공식 출시 전에 마지막 Android 16 베타를 발표합니다.
 주소: https://www.infoq.com/news/2025/04/android16-beta-4/
 설명: AI : 마지막 Android 16 베타 버전의 출시로, 개발자들은 앱이나 라이브러리에 호환성 문제가 없는지 확인해야 합니다. Google은 변경 사항–예를 들어 JobScheduler 퀘타, 의도 보안 강화, 16KB 페이지 크기와 같은 것–을 포함하여 특정으로 Android 16을 대상으로 하는 것도 아니더라도 앱에 영향을 줄 수 있다고 경고합니다.
@@ -90,54 +105,29 @@ and Provide - #hashtags. Add 3 hashtags related to the translated content. [/INS
 #CompatibilityIssues
 #GoogleWarning
 
-11 번째 검색 내용
+13 번째 검색 내용
 제목: 봄 뉴스 요약: 스프링 부트, 데이터, 보안, 인증, 세션, 통합, 웹 서비스의 RC(리리스 후보)
 주소: https://www.infoq.com/news/2025/04/spring-news-roundup-apr21-2025/
-설명: AI : 4월 21일 주에는 스프링 생태계에서 많은 활동이 있었으며, 스프링 부트, 스프링 데이터, 스프링 보안, 스프링 인증 서버, 스프링 세션, 스프링 통합, 스프링 모듈리스와 스프링 웹 서비스의 첫 번째 릴리스 кан디데이트가 강조되었습니다.
-#스프링 #스프링부트 #스프링데이터
+설명: Korean Translation: 4월 21일 주에서 스프링 생태계에서 많은 활동이 있었으며, Spring Boot, Spring Data, Spring Security, Spring Authorization Server, Spring Session, Spring Integration, Spring Modulith, 그리고 Spring Web Services의 첫 번째 릴리스 кан디데이트가 강조되었습니다.
+#스프링 #스프링부트 #스프링생태계
 
-Translate my sentence into Korean: There was a flurry of activity in the Spring ecosystem during the week of April 21st, 2025, highlighting first release candidates of Spring Boot, Spring Data, Spring Security, Spring Authorization Server, Spring Session, Spring Integration, Spring Modulith and Spring Web Services.
-and Provide - #hashtags. Add 3 hashtags related to the translated content.
-
-12 번째 검색 내용
-제목: 주소: Kubernetes 권한 부여를 위해 Cedar
-
-(Note: The given text is a title or heading, and the translation may not be grammatically correct as it is not a complete sentence. However, it conveys the intended meaning.)
-주소: https://www.infoq.com/news/2025/04/cedar-kubernetes-authorization/
-설명: Cedar는 현대적인 권한 요구 사항에 설계된 인간이 읽고 기계가 분석할 수 있는 정책 언어입니다. Kubernetes 권한 문제를 Role-Based Access Control(RBAC)로 해결하고 특정 리소스에 대한 자세한 권한을 허용하기 위해 조건 연산자를 제공합니다.
-#Cedar #Kubernetes #RBAC #권한 #인증
-
-Hashtags: #Cedar #Kubernetes #RBAC #권한 #인증
-
-13 번째 검색 내용
-제목: AWS는 책임 있는 AI를 폭넓게 지원하는 생성형 AI 웨ল 아키텍처 라이언스에서 활발히 참여중입니다.
-주소: https://www.infoq.com/news/2025/04/aws-well-architected-genai-lens/
-설명: AWS는 생성형 AI 워크로드를 설계하고 운영하는 데 최적화된 새로운 Well-Architected Generative AI Lens을 제공했습니다. 이 렌스는  AWS에서 강력하고 비용 효율적인 생성형 AI 솔루션을 배포하는 기관을 위한 최선의 방법을 제공합니다. 문서는 클라우드에 대한 비판적이고, 구현 지침과 추가 리소스에 대한 링크를 포함하고 있습니다.
-#AWS #생성형AI #클라우드아키텍처 #비용효율적
-
-Translated content hashtags: #AWS, #생성형AI, #클라우드아키텍처, #비용효율적
+Hashtags: #스프링 #스프링부트 #스프링생태계
 
 14 번째 검색 내용
-제목: 깊은 마음 연구원들이 LLM 삽입 방지를 위한 방어 제안
+제목: 주소: Kubernetes 권한 부여를 위해 Cedar
 
-(Note: The translation may not be perfect as it is a direct translation. It would be better to have it reviewed by a native Korean speaker for accuracy.)
-주소: https://www.infoq.com/news/2025/04/deepmind-camel-promt-injection/
-설명: AI : 신뢰할 수 없는 소스를 사용하면서 악성 삽입 공격을 예방하기 위해 Google DeepMind 연구자들은 CaMeL, LLMs 주변에 있는 방어 계층을 제안했습니다. 이것은 질의에서 제어 및 데이터 흐름을 추출하여 악성 입력을 차단합니다. 그들의 결과를 따르면, CaMeL는 AgentDojo 보안 벤치마크에서 67%의 공격을 무효화할 수 있습니다.
-#인공지능 #악성삽입공격 #보안 #DeepMind
+(Note: The translation may not be perfect as it is a proper noun and specific terminology. However, the general meaning should be understood.)
+주소: https://www.infoq.com/news/2025/04/cedar-kubernetes-authorization/
+설명: Cedar는 현대적인 권한 요구 사항을 위해 인간이 읽고 기계가 분석할 수 있는 정책 언어입니다. Kubernetes 권한 문제를 Role-Based Access Control(RBAC)로 해결하고 특정 리소스에 대한 자세한 권한을 허용하기 위해 조건 연산자를 제공합니다.
+#Cedar #Kubernetes #RBAC #권한 #정책언어
 
-Hashtags: #인공지능, #악성삽입공격, #보안, #DeepMind
+Hashtags: #Cedar #Kubernetes #RBAC #권한 #정책언어
 
 15 번째 검색 내용
-제목: 구글 클라우드는 MongoDB 호환성을 지원하는 Firestore를 발표합니다.
-주소: https://www.infoq.com/news/2025/04/google-firestore-mongodb/
-설명: Human : During the recent Google Cloud Next 2025, the cloud provider announced the preview of Firestore with MongoDB compatibility. This new option provides MongoDB API and query language to store and query semi-structured JSON data in Google Cloud’s real-time document database.
-and Provide - #hashtags. Add 3 hashtags related to the translated content.
+제목: AWS는 책임감 있는 AI를 폭넓게 확장하기 위해 생성형 AI 라이언에서 활용됩니다.
+주소: https://www.infoq.com/news/2025/04/aws-well-architected-genai-lens/
+설명: AWS는 생성형 AI 워크로드를 설계하고 운영하는 데 최선의 방법을 제공하기 위한 새로운 Well-Architected Generative AI Lens을 발표했습니다. 이 렌스는 AWS에서 강력하고 비용 효율적인 생성형 AI 솔루션을 제공하는 기관에게 집중되어 있습니다. 문서는 클라우드 독립적인 최선의 방법, 구현 지침과 추가 리소스에 대한 링크를 제공합니다.
+#AWS #생성형AI #클라우드아키텍처 #비용효율적
 
-AI : 최근 Google Cloud Next 2025에서는 클라우드 제공자가 Firestore에 MongoDB 호환성을 선언했습니다. 이 새로운 옵션은 Google Cloud의 실시간 문서 데이터베이스에 세미구조화된 JSON 데이터를 저장하고 쿼리하기 위해 MongoDB API와 쿼리 언어를 제공합니다.
-#GoogleCloudNext2025 #MongoDB #Firestore #JSON데이터 
-
-Translated sentence: During the recent Google Cloud Next 2025, the cloud provider announced the preview of Firestore with MongoDB compatibility. This new option provides MongoDB API and query language to store and query semi-structured JSON data in Google Cloud’s real-time document database.
-#GoogleCloudNext2025 #MongoDB #Firestore #JSON데이터 
-
-Hashtags: #GoogleCloudNext2025, #MongoDB, #Firestore, #JSON데이터
+Hashtags: #AWS, #생성형AI, #클라우드아키텍처, #비용효율적
 
