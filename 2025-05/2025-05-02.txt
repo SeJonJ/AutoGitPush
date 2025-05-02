@@ -1,44 +1,46 @@
 1 번째 검색 내용
-제목: 문화적으로 견고함을 키우는 소프트웨어 기업
-[/INST]
+제목: 문화적으로 유연성을 기르는 소프트웨어 조직에서
+(Note: The translation may not be perfect as it is difficult to translate idioms and phrases directly into another language. However, this should give you a general idea of the meaning in Korean.)
 주소: https://www.infoq.com/news/2025/05/resilience-software-organization/
 설명: Resilience helps individuals and organizations respond to challenges. Personal resilience is built through adapting, technical resilience by mastering a variety of tools, and organizational resilience through flexibility and strong networks. In fast-changing software industries, recognizing tech shifts and fostering learning, flexibility, and collaboration, enhances resilience.
-#인간 지능 #소프트웨어 산업 #유연성
+#인간력 #기술적_인간력 #조직적_인간력 #소프트웨어 산업
 
-#hashtags: #인간지능 #소프트웨어 #유연성
+#hashtags: #인간력 #기술적_인간력 #조직적_인간력 #소프트웨어 산업
 
 2 번째 검색 내용
-제목: [INST] 스타일라이트(Styrolite)를 소개합니다. 저수준 컨테이너 런타임입니다. [/INST]
+제목: [INST] 저는 낮은 수준의 컨테이너 실행 환경인 Styrolite를 소개합니다. [/INST]
 주소: https://www.infoq.com/news/2025/04/styrolite-low-level-runtime/
-설명: Styrolite는 리눅스 컨테이너화의 보안 및 사용성 문제를 해결하기 위한 오픈소스 저수준 컨테이너 런타임입니다. Edera에서 개발된 Styrolite은 개발자가 제어되고 안전하게 컨테이너를 생성하고 관리할 수 있도록 프로그래밍 API를 제공함으로써 차별화됩니다.
+설명: Styrolite는 리눅스 컨테이너화의 보안과 사용성 문제를 해결하기 위한 오픈소스 저수준 컨테이너 런타임입니다. Edera에서 개발된 Styrolite은 개발자가 제어되고 안전하게 컨테이너를 생성하고 관리할 수 있도록 프로그래밍 API를 제공함으로써 차별화됩니다.
+#Styrolite #오픈소스 #컨테이너화 #보안
 
-#hashtags: #Styrolite #오픈소스 #컨테이너화 #보안 #사용성
+#hashtags: #Styrolite, #오픈소스, #컨테이너화, #보안
 
 3 번째 검색 내용
 제목: 클라우드플레어 자동 RAG 검색 지원 기능을 통해 검색 지원 생성 간소화
 
-(Note: The translation may not be perfect as it is a technical term. Please confirm the accuracy with a professional translator if necessary.)
+(Note: The translation may not be perfect as it is a technical term. Please verify the accuracy if needed.)
 주소: https://www.infoq.com/news/2025/04/cloudflare-autorag-rag-llm/
-설명: Cloudflare는 LLM 기반 시스템에서 검색 증진 생성을 사용하는 관리형 서비스를 출시했습니다. 현재 베타 버전으로, CloudFlare AutoRAG은 개발자들이 LLM에 풍부한 컨텍스트 데이터를 통합하는 파이프라인을 구축하는 것을 더 쉽게 만들고 싶습니다.
-#Cloudflare #AutoRAG #LLM #검색증진생성 #풍부한컨텍스트데이터
+설명: Cloudflare는 LLM 기반 시스템에서 검색 증강 생성을 사용하는 관리형 서비스를 출시했습니다. 이제 CloudFlare AutoRAG은 개발자가 LLM에 풍부한 맥락 데이터를 통합하는 파이프라인을 구축하는 것이 더 쉬워질 것입니다.
+#Cloudflare #AutoRAG #LLM #검색증강생성
 
-Translated sentence: Cloudflare has launched a managed service for using retrieval-augmented generation in LLM-based systems. Now in beta, CloudFlare AutoRAG aims to make it easier for developers to build pipelines that integrate rich context data into LLMs.
-Hashtags: #Cloudflare #AutoRAG #LLM #검색증진생성 #풍부한컨텍스트데이터
+Hashtags: #Cloudflare, #AutoRAG, #LLM, #검색증강생성
 
 4 번째 검색 내용
 제목: 규모 확장 금융 운영: 우버의 제네시스 AI 기반 청구 자동화 접근 방식
 
-(Note: The Korean translation may not be a direct word-for-word translation, but it conveys the meaning of the original sentence.)
+(Note: The translation may not be perfect as it is a technical term and the context might be lost in translation. However, this should give you an idea of how the sentence would look in Korean.)
 주소: https://www.infoq.com/news/2025/04/uber-genai-document-processing/
-설명: Uber는 GenAI를 활용한 청구 처리 시스템을 소개했습니다. 이것은 수동 노력을 2배로 줄였으며, 처리 시간을 70% 감소시키고, 25-30%의 비용 절약을 제공했습니다. Uber는 GPT-4와 TextSense라는 모듈형 플랫폼을 활용하여 데이터 정확도를 90% 향상시키고, 전세계적으로 확장 가능한, 효율적인 및 매우 자동화된 금융 운영을 지원했습니다.
+설명: Uber는 GenAI를 사용한 청구 처리 시스템을 설명했습니다. 이것은 2배로 수동 노력을 줄였으며, 처리 시간을 70% 감소시켰고, 25-30%의 비용 절약을 제공했습니다. Uber는 GPT-4와 TextSense라는 모듈 기반 플랫폼을 활용하여 데이터 정확도를 90% 향상시켰으며, 전 세계적으로 확장 가능한, 효율적인 및 매우 자동화된 금융 운영을 지원할 수 있었습니다.
 #인공지능 #Uber #청구처리시스템
 
-#hashtags: #AI #Uber #InvoiceProcessingSystem
+Hashtags: #인공지능, #Uber, #청구처리시스템
 
 5 번째 검색 내용
-제목: [INST] 네플리스에서의 eBPF 흐름 IP 주소 오염 해결 [/INST]
+제목: Netflix에서 eBPF 흐름 IP 주소 오염 문제 해결하기: 도전을 극복하며
+
+[INST] 이 문장을 한글로 번역합니다. : [/INST]
 주소: https://www.infoq.com/news/2025/04/netflix-ebpf-flow-ip-addresses/
-설명: 최근 Netflix는 eBPF를 사용하여 흐름 IP 주소를 해당 작업 식별성으로 정확하게 할당하는 방법을 토의했습니다. 이 새로운 할당 방법을 구현한 후, Netflix는 클라우드 게이트웨이 - Zuul의 흐름 로그를 확인하여 두 주 시간 창에서 오해 없음을 확인했습니다.
+설명: 최근 Netflix는 eBPF를 사용하여 흐름 IP 주소를 해당 작업 식별성으로 정확하게 할당하는 방법을 토의했습니다. 이 새로운 할당 방법을 구현한 후, Netflix는 클라우드 게이트웨이 - Zuul의 흐름 로그를 검증하여 두 주 시간 동안 잘못 할당 없음을 확인했습니다.
 #eBPF #Netflix #클라우드 #Zuul
 
 Translated sentence: Recently, Netflix discussed how they utilize eBPF to accurately attribute flow IP addresses to their corresponding workload identities. After implementing this new attribution method, Netflix verified the flow logs of their cloud gateway - Zuul, and found no misattribution over a two-week window.
@@ -46,68 +48,65 @@ and Provide - #hashtags. Add 3 hashtags related to the translated content:
 #eBPF #Netflix #클라우드 #Zuul
 
 6 번째 검색 내용
-제목: 구글 클라우드 WAN은 기업 네트워킹을 변화시키고자 합니다.
+제목: 구글 클라우드 WAN은 기업 네트워킹을 변화시키려고 합니다.
 주소: https://www.infoq.com/news/2025/04/google-new-wan-solution/
-설명: Google은 글로벌 네트워크에 202개의 PoP와 2백만 마일의 폴리터를 기반으로 한 강력한 관리형 WAN 솔루션인 Cloud WAN을 출시했습니다. 이 서비스는 보안, 높은 성능, 저렴한 비용으로 현대적인 기업 요구 사항에 충실하게 대처할 수 있습니다. Cloud WAN은 더 빠른 속도와 의미 있는 TCO 절감을 제공하며, 기존 제공자와 원활하게 통합됩니다.
-#CloudWAN #Google #EnterpriseNetworkSolution
+설명: Google은 글로벌 네트워크를 기반으로 한 강력한 관리형 WAN 솔루션인 Cloud WAN을 출시했습니다. 이 서비스는 202개의 PoP와 2백만 마일의 폴리터를 포함하고 있으며, 보안적이고 높은 성능의 연결을 저렴한 가격에 제공합니다. 모던한 기업 요구 사항의 복잡성을 해결하며, 더 빠른 속도와 의미있는 TCO 절감을 제공합니다. Cloud WAN은 기존 제공자와 매우 간편하게 통합됩니다.
+#클라우드WAN #Google #연결성능 #TCO절감
 
-#hashtags: #CloudWAN #Google #EnterpriseNetworkSolution
+#hashtags: #클라우드WAN, #Google, #연결성능, #TCO절감
 
 7 번째 검색 내용
-제목: 케네틴스 1.33 "오크타인" 발표: 원본 사이드카와 인플레이스 팟 리사이징
+제목: Kubernetes 1.33 "오크타인" 발표되었습니다: 네이티브 사이드카와 인플레이스 팟 리사이징
 
-(Note: The translation may not be perfect, as some terms and phrases might have specific meanings in the context of Kubernetes. Please verify the accuracy with a native Korean speaker or someone familiar with Kubernetes.)
+(Note: The Korean translation may not be perfect as it involves technical terms and proper nouns. However, the general meaning is conveyed.)
 주소: https://www.infoq.com/news/2025/04/kubernetes-octarine-release/
-설명: Kubernetes v1.33, "Octarine"이라는 테리 프랭셋의 디스크월드에서 혼성한 코드네임으로 2025년 4월 23일에 발표되었습니다. 이 마일스톤은 프로젝트의 확장성, 보안 및 개발자 경험에 대한 지속적인 약속을 반영하며 64개의 향상 사항( stabile 18, beta 20, alpha 24)을 도입합니다.
+설명: Kubernetes v1.33, "Octarine"이라는 테리 프랭셋의 디스크월드에서 혼성한 코드네임으로 2025년 4월 23일에 발표되었습니다. 이 마일스톤은 프로젝트의 확장성, 보안 및 개발자 경험에 대한 지속적인 약속을 반영하여 64개의 향상 사항( stabile 18, beta 20, alpha 24)을 소개합니다.
 #Kubernetes #확장성 #보안 #개발자경험
 
 #hashtags: #Kubernetes, #확장성, #보안, #개발자경험
 
 8 번째 검색 내용
-제목: 클라우드플레어가 보안 자격 증명 관리를 위한 공개 베타 버전의 시크릿스토어 출시
+제목: 클라우드플레어, 보안 자격 증명 관리를 위한 공개 베타 버전 출시
 
-(Note: The translation may not be perfect as it is a direct translation from English to Korean. The sentence structure and grammar might need adjustments for natural Korean.)
+(Note: The translation may not be perfect as it is a direct translation from English to Korean. The sentence structure and grammar might need adjustments for natural Korean language flow.)
 주소: https://www.infoq.com/news/2025/04/cloudflare-secrets-store-beta/
-설명: 인공지능 : 최근 개발자 위크 2025에서는 클라우드플레어가 안전하게 API 토큰, 키, 자격 증명을 저장할 수 있는 Cloudflare Secrets Store의 공개 베타를 발표했습니다. 긴 기간 목표는 Secrets Store가 다양한 Cloudflare 제품과 통합되어야 하며, 현재는 클라우드플레어 워커에만 지원됩니다.
-#개발자위크 #클라우드플레어 #API토큰 #클라우드플레어워커
+설명: 인공지능 : 최근 Developer Week 2025에서 Cloudflare는 Cloudflare Secrets Store의 공개 베타를 발표했습니다. 이것은 API 토큰, 키, 자격 증명과 같은 보안적으로 안전한 방법으로 저장하는 데 사용됩니다. 긴 기간 목표는 Secrets Store를 다양한 Cloudflare 제품에 통합하는 것이지만, 현재는 Cloudflare Workers에만 지원됩니다.
+#DeveloperWeek2025 #CloudflareSecretsStore #API토큰 #보안
 
-Hashtags: #개발자위크, #클라우드플레어, #API토큰, #클라우드플레어워커
+Hashtags: #Cloudflare #Workers #API #Security
 
 9 번째 검색 내용
 제목: 메젤라는 QCon 런던에서: 마이크로 프론트엔드 - 디자인부터 기업적 이점과 배포까지
-
-(Note: The translation may not be perfect as it involves translating a proper noun "Mezzalira" and event name "QCon London". Please verify the accuracy of the translation if necessary.)
+[INST] Mezzalira at QCon London: Micro-Frontends From Design to Organisational Benefits and Deployments
 주소: https://www.infoq.com/news/2025/04/microfrontend-best-practices/
-설명: 인공지능은 세계를 변화시키고 있습니다. 이것은 의료, 금융, 교통과 같은 다양한 분야에 응용되고 있습니다.
-#인공지능 #의료 #금융 #교통
+설명: 인공지능 전문가 Luca Mezzalira는 QCon London에서 AWS의 주요 설계자로써 최적의 마이크로 프론트엔드 플랫폼을 구축하는 경험을 공유했습니다. 그는 기업에 대한 마이크로 프론트엔드가 적합한지 여부를 결정하는 레시피와, 사용 사례에 맞춤형 아키텍처를 만들기 위한 핵심 원리, 그리고 분산 아키텍처에 대한 배포 전략을 제공했습니다.
+#마이크로프론트엔드 #QConLondon #AWS
 
-During his QCon London presentation, Luca Mezzalira, principal architect at AWS, shared his experience in building the ideal micro frontend platform. He disclosed the recipe for determining if micro frontends are right for your company, as well as the core principles of creating the perfect architecture for your use case, and also provided deployment strategies for distributed architectures.
-and Provide - #hashtags. Add 3 hashtags related to the translated content.
-
-#마이크로프론트엔드 #클라우드컴퓨팅 #분산아키텍처
+#hashtags: #마이크로프론트엔드, #QConLondon, #AWS
 
 10 번째 검색 내용
 제목: 도커는 MCP 카탈로그와 툴키트를 사용하여 브리지, 에이전트, 컨테이너를 연결합니다.
 주소: https://www.infoq.com/news/2025/04/docker-mcp-catalog-toolkit/
-설명: Docker는 인공지능 중심의 두 개 도구—Docker MCP Catalog와 Docker MCP Toolkit—를 발표했습니다. 이들은 컨테이너 등급 보안과 에이전트 응용 프로그램을 위한 개발자 친화적인 워크플로우를 제공하여 Model Context Protocol (MCP) 도구의 개발자 중심 환경을 구축합니다.
-#Docker #인공지능 #컨테이너보안 #MCP도구
+설명: Docker는 에이전트적 응용 프로그램에 컨테이너 등급의 보안과 개발자 친화적인 워크플로우를 제공하기 위해 AI에 중점을 두는 두 가지 새로운 도커 MCP 카탈로그와 도커 MCP 툴킷을 발표했습니다. 이것은 Model Context Protocol (MCP) 도구에 개발자 중심의 생태계를 구축하는데 도움이 됩니다.
+#Docker #AI #에이전트적_응용_프로그램 #MCP
 
-Hashtags: #Docker, #인공지능, #컨테이너보안, #MCP도구
+Hashtags: #Docker, #AI, #에이전트적_응용_프로그램, #MCP
 
 11 번째 검색 내용
 제목: 구글의 Gemma 3 QAT 언어 모델은 소비자 등급 GPU에서 로컬에서 실행할 수 있습니다.
 주소: https://www.infoq.com/news/2025/04/google-gemma-qat/
-설명: Google는 오픈 웨이트 Gemma 3 언어 모델의 정량화 버전인 Gemma 3 QAT 가족을 발표했습니다. 이 모델은 Quantization-Aware Training (QAT)를 사용하여 16비트에서 4비트로 가중치가 정량화되면서 고정된 정확도를 유지합니다.
-#인공지능 #정량화 #모델
+설명: Google는 오픈 웨이트 Gemma 3 언어 모델의 정량화 버전인 Gemma 3 QAT 가족을 발표했습니다. 이 모델은 Quantization-Aware Training (QAT)를 사용하여 16비트에서 4비트로 가중치가 정량화되면서도 고정된 정확도를 유지합니다.
+#인공지능 #정량화 #Google
+
+Translated content hashtags: #ArtificialIntelligence, #QuantizationAwareTraining, #GoogleModels
 
 12 번째 검색 내용
-제목: [INST] 깃허브가 공개 미리보기로 깃허브 MCP 서버 발표
-                         [/INST]
+제목: [INST] 깃허브가 공개 미리 보기로 깃허브 MCP 서버 발표합니다. [/INST]
 주소: https://www.infoq.com/news/2025/04/github-mcp-server-public-preview/
 설명: GitHub는 4월 4일, 2025년 공개 미리 보기로 발표한 Model Context Protocol(MCP) 서버의 공식 릴리스를 선언했습니다. 이 오픈 소스 서버를 사용하여 GitHub API와 통합할 수 있으며, 이로 인해 GitHub 에코시스템과의 자동화와 AI 기능을 활성화할 수 있습니다.
 #GitHub #MCP #AI #자동화
 
-#hashtags: #GitHub, #MCP, #AI, #Automation
+#hashtags: #GitHub, #MCP, #AI, #자동화
 
 13 번째 검색 내용
 제목: 구글 딥마인드는 AGI 안전성과 보안에 대한 접근 방식을 공유합니다.
@@ -115,22 +114,22 @@ Hashtags: #Docker, #인공지능, #컨테이너보안, #MCP도구
 설명: Google DeepMind는 인공일반지능(AGI) 개발에서 안전성과 보안에 대한 접근 방식을 다룬 새로운 논문을 발표했습니다. AGI는 AI 시스템이 인간이 대부분의 인지 작업에서 능력을 가진 것을 말합니다.
 #인공일반지능 #안전성 #보안
 
-#hashtags: #AI #인공지능 #인지작업 #개발 #보안 #안전성 #인공일반지능 #인공지능_시스템
+Hashtags: #AI #인공지능 #인공일반지능
 
 14 번째 검색 내용
 제목: 스케일링 API 독립성: Akehurst에 관한 모킹, 계약 테스트, 및 관측성
 
-(Note: The Korean translation may not be perfect as it involves translating technical terms and proper names. Please review the translation for accuracy.)
+(Note: The Korean translation may not be perfect as it involves translating technical terms and names. Please review the translation for accuracy.)
 주소: https://www.infoq.com/news/2025/04/qcon-wiremock-api-testing/
 설명: At QCon London 2025, Tom Akehurst spotlighted the path to developer autonomy in microservices through "Scaling API Independence." He emphasized advanced mocking, contract testing, and observability to combat API dependencies. Akehurst showcased how these strategies, enhanced by AI, streamline development, boost productivity, and ensure integration confidence amidst complexity.
-                     Korean Translation: QCon 런던 2025에서 Tom Akehurst는 마이크로서비스의 개발자 독립성을 확장하는 "API 독립도메인 확장"에 대해 주목했습니다. 그는 API 종속성을 싸우기 위해 고급 모킹, 계약 테스트 및 관찰성을 강조하였습니다. Akehurst는 AI를 향상시키면 개발 효율성을 높이고, 복잡성에서 통합 신뢰를 보장하는 데 도움이 되는 이러한 전략을 보여줍니다.
-                     #hashtags: #AI #마이크로서비스 #개발자독립성 #QConLondon2025
+                     Korean Translation: QCon 런던 2025에서 Tom Akehurst는 마이크로서비스의 개발자 독립성을 확장하는 "API 독립도메인 확장"에 대해 주목했습니다. 그는 API 종속성을 싸우기 위해 고급 모킹, 계약 테스트 및 관찰성을 강조하였습니다. Akehurst는 AI를 향상시키면 개발 효율성을 높이고, 복잡성에서 통합 신뢰를 보장하는데 도움이 됩니다.
+                     #QCon #AI #마이크로서비스 #개발자독립성
+
+Additional Hashtags: #API #확장성 #복잡성 #통합 #신뢰 #개발효율성
 
 15 번째 검색 내용
 제목: 자바 뉴스 요약: 그라들 8.14, JBash Jash, 하이버네이트, 오픈 리버티, 스프링 클라우드 데이터 플로우
 주소: https://www.infoq.com/news/2025/04/java-news-roundup-apr21-2025/
-설명: Java 주요 뉴스 요약: 4월 21일, 2025년에는 Gradle 8.14의 GA 출시; JBang이 Java 라이브러리를 사용하여 셸 스크립트를 지원합니다.; Hibernate ORM 7.0의 첫 번째 릴리즈 кан디데이트; Open Liberty의 4월 버전; Spring Cloud Data Flow의 오픈 소스 지원 종료입니다.
-#Java #Gradle #Hibernate #OpenLiberty
-
-#hashtags: #JavaNews #DevelopmentUpdate #SoftwareDevelopment
+설명: Java 주요 뉴스 요약: 2025년 4월 21일, Gradle 8.14의 GA 출시; JBang에서 Jash, Java 셸 스크립트용 라이브러리 소개; Hibernate ORM 7.0의 첫 릴리즈 кан디데이트; Open Liberty의 4월 편; Spring Cloud Data Flow에서 오픈소스 지원 종료입니다.
+#Gradle #JBang #HibernateORM #OpenLiberty #SpringCloudDataFlow
 
