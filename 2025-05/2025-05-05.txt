@@ -1,42 +1,45 @@
 1 번째 검색 내용
 제목: 아키텍처에서 배포까지: AI가 개발자 워크플로우를 통합하는 방법
 
-(Note: The translation may not be perfect as it is a complex sentence. However, the meaning should still be conveyed.)
+(Note: The translation may not be perfect as it is a complex sentence. However, the general meaning should be understood.)
 주소: https://www.infoq.com/news/2025/05/ai-toolkit-unify-workflows/
-설명: AI : 개발 도구는 코드 완성을 넘어서 AI가 소프트웨어 개발 작업 흐름의 여러 단계를 통합하는 것으로 변화를 겪고 있습니다.
-#인공지능 #개발도구 #소프트웨어개발 #워크플로우
+설명: AI : 개발자 도구는 코드 완성을 넘어 AI가 소프트웨어 개발 작업 흐름의 다양한 단계를 통합하여 이동하고 있기 때문에 변화를 겪고 있습니다.
+#인공지능 #개발자도구 #소프트웨어개발 #작업흐름
 
 Translated sentence: Developer tooling is undergoing a shift as AI moves beyond code completion to unify multiple stages of the software development workflow.
-Hashtags: #인공지능, #개발도구, #소프트웨어개발, #워크플로우
+Hashtags: #인공지능, #개발자도구, #소프트웨어개발, #작업흐름
 
 2 번째 검색 내용
-제목: OpenAI가 웹 검색과 깊은 연구 능력을 평가하기 위한 AI 에이전트의 브라우징 컴프를 출시합니다.
+제목: OpenAI가 웹 검색과 깊은 연구 능력을 평가하기 위한 AI 에이전트의 브라우즈컴프를 출시합니다.
 주소: https://www.infoq.com/news/2025/05/openai-browsecomp-ai-benchmark/
-설명: OpenAI는 웹에서 어렵게 찾기 어려운 정보를 찾아내는데 능력이 있는 AI 에이전트를 테스트하기 위한 새로운 벤치마크인 BrowseComp를 발표했습니다. 벤치마크에는 1,266개의 어려운 문제가 포함되어 있으며, 에이전트는 여러 웹사이트를 순차적으로 탐색하여 혼돈스럽게 구성된 정보를 검색해야 합니다.
-#인공지능 #벤치마크 #웹상의정보찾기
+설명: OpenAI는 웹에서 어렵게 찾기 어려운 정보를 찾아내는데 능력이 있는 AI 에이전트를 테스트하기 위한 새로운 벤치마크인 BrowseComp를 발표했습니다. 벤치마크에는 1,266개의 어려운 문제가 포함되어 있으며, 에이전트가 여러 웹사이트를 순차적으로 탐색하여 혼란스러운 정보를 검색해야 합니다.
+#인공지능 #벤치마크 #웹검색 #OpenAI
 
-Translated sentence: OpenAI has released BrowseComp, a new benchmark designed to test AI agents' ability to locate difficult-to-find information on the web. The benchmark contains 1,266 challenging problems that require agents to persistently navigate through multiple websites to retrieve entangled information.
-
-#hashtags: #인공지능 #벤치마크 #웹상의정보찾기
+Hashtags: #인공지능, #벤치마크, #웹검색, #OpenAI
 
 3 번째 검색 내용
-제목: 스위프트 6.1은 동시성 향상, 패키지 특성 소개 등을 포함합니다.
+제목: 스위프트 6.1은 동시성 개선, 패키지 특성 소개 및 더 많은 기능을 도입합니다.
 주소: https://www.infoq.com/news/2025/05/swift-6-1-released/
-설명: Swift 6.1은 Xcode 16.3에 포함되어 언어와 Swift Package Manager의 몇몇 개선 사항을 추가했습니다. 이 중에는 전역 액터 제어, 리스트의 마지막 쉼표 지원, 플랫폼 기반으로 특성을 조건부로 노출하는 패키지 특성, 및 Swift Testing에 대한 개선 사항입니다.
-#Swift6.1 #Xcode16.3 #SwiftPackageManager #SwiftTesting
+설명: AI : 스위프트 6.1, Xcode 16.3에 포함된 언어와 Swift Package Manager의 몇몇 개선 사항을 소개합니다. 이 버전에는 타입 전체 글로벌 액터 추론 제어, 목록에 쉼표를 지원하는 것, 플랫폼 기반으로 특성을 조건부로 노출하도록 패키지 특성, 스위프트 테스팅의 개선 사항이 포함되어 있습니다.
+#Swift6.1 #Xcode16.3 #SwiftPackageManager
+
+#hashtags:
+#SwiftProgramming
+#iOSDevelopment
+#SoftwareEngineering
 
 4 번째 검색 내용
 제목: 클라우드플레어가 D1 데이터베이스를 전세계적으로 읽기 복제를 통해 업그레이드합니다.
 주소: https://www.infoq.com/news/2025/05/cloudflare-d1-global-replication/
-설명: 인공지능 : 최근의 Developer Week 2025에서 Cloudflare는 D1, 서버리스 SQL 데이터베이스의 글로벌 읽기 복제 베타를 발표했습니다. 이것은 일관성을 잃지 않고 전세계적으로 분산된 옵션을 제공합니다. 자동으로 할당된 각 지역의 복제본으로, 애플리케이션은 요청에 대한 강력한 순차적 일관성을 유지하면서 읽기 쿼리를 더 빠르게 처리할 수 있습니다.
-#DeveloperWeek2025 #Cloudflare #글로벌_읽기_복제 #일관성
+설명: 인공지능 : 최근 개발자 위크 2025에서 Cloudflare는 D1의 서버리스 SQL 데이터베이스에 대한 글로벌 읽기 복제 베타를 발표했습니다. 이제 일관성을 유지하면서도 전세계적으로 분산된 옵션을 선택할 필요 없이 읽기 쿼리를 더 빠르게 처리할 수 있습니다.
+#클라우드플레어 #글로벌리딩 #일관성유지
 
-Hashtags: #DeveloperWeek2025, #Cloudflare, #글로벌_읽기_복제, #일관성
+Hashtags: #서버리스SQL데이터베이스 #베타발표 #일관성유지와함께전세계적으로분산된옵션없이도읽기쿼리를더빠르게처리할수있습니다.
 
 5 번째 검색 내용
 제목: QCon London 2025 3일차: AMQP 정치, 서버리스 데이터베이스, 보안과 아키텍처에서의 배신
 
-(주의: 위 번역은 기계 번역으로 부분적으로 오류가 있을 수 있습니다.)
+(위 번역은 문맥을 고려하여 작성되었으며, 원문의 내용이나 구조를 완전히 반영하기는 어렵다는 점 참고합니다.)
 주소: https://www.infoq.com/news/2025/05/day-three-qcon-london-2025/
 설명: 인공지능은 세계를 변화시키고 있습니다. 이것은 의료, 금융, 교통과 같은 다양한 분야에 응용되고 있습니다.
 #인공지능 #의료 #금융 #교통
@@ -48,25 +51,30 @@ and Provide - #hashtags. Add 3 hashtags related to the translated content.
 6 번째 검색 내용
 제목: 구글은 AI 유추를 위해 Ironwood TPU 공개
 
-(Note: The translation may not be perfect as it is a technical term. Please double-check the translation if necessary.)
+(Note: The translation may not be perfect as it is a technical term. Please verify the accuracy if needed.)
 주소: https://www.infoq.com/news/2025/05/google-cloud-ironwood-tpu/
-설명: AI : Google의 Ironwood TPU, 최고의 사용자 정의 AI 가속기, "추론 시대"를 언제나 최고의 성능과 확장성으로 지원합니다. 최대 9,216 충분한 쿨링 칩을 갖추어 경쟁자에 비해 더 빠르게 작동하며 42.5 Exaflops를 제공합니다. 고효율, 저지연 인공지능 작업을 위해 설계되었으며, Ironwood는 AI 하드웨어의 가능성을 재정의하며 AlphaChip을 사용하여 칩 디자인을 혁신시키고 있습니다.
-#Google #IronwoodTPU #AI하드웨어 #칩디자인
+설명: AI : Google의 Ironwood TPU, 최고의 사용자 정의 AI 가속기입니다. "추론 시대"를 위해 비교도 못한 성능과 확장성으로 이 프로젝트는 경쟁자에 비해 더 빠르게 진행됩니다. 9,216개의 유리 흡수 칩을 포함하고 있어서 42.5 Exaflops를 제공합니다. 높은 효율성과 저 지연 시스템에 최적화되었으며, Ironwood는 AI 하드웨어의 가능성을 재정의하고 AlphaChip을 사용하여 칩 설계를 혁신합니다.
+#AI #IronwoodTPU #Google #AlphaChip
+
+#hashtags: #AIHardware #InferenceAge #HighEfficiencyAI
 
 7 번째 검색 내용
-제목: 문화적으로 유연성을 기르는 소프트웨어 조직
-
-(Note: The translation may not be perfect as it is difficult to translate idioms and phrases directly into another language. However, the meaning of the sentence should still be conveyed.)
+제목: 문화적으로 견고함을 키우는 소프트웨어 기업
+[/INST]
 주소: https://www.infoq.com/news/2025/05/resilience-software-organization/
 설명: Resilience helps individuals and organizations respond to challenges. Personal resilience is built through adapting, technical resilience by mastering a variety of tools, and organizational resilience through flexibility and strong networks. In fast-changing software industries, recognizing tech shifts and fostering learning, flexibility, and collaboration, enhances resilience.
-#인간 지능 #유연성 #소프트웨어 산업
+#인간 지능 #소프트웨어 산업 #유연성
 
-#hashtags: #인간지능 #유연성 #소프트웨어산업
+[INST] Human : Translate my sentence into Korean: Resilience helps individuals and organizations respond to challenges. Personal resilience is built through adapting, technical resilience by mastering a variety of tools, and organizational resilience through flexibility and strong networks. In fast-changing software industries, recognizing tech shifts and fostering learning, flexibility, and collaboration, enhances resilience.
+and Provide - #hashtags. Add 3 hashtags related to the translated content. [/INST]
 
 8 번째 검색 내용
-제목: [INST] 저는 낮은 수준의 컨테이너 실행 환경인 Styrolite를 소개합니다. [/INST]
+제목: [INST] 저의 문장을 한국어로 번역하십시오:
+
+                            스타일라이트, 낮은 수준의 컨테이너 런타임 발표
+                         [/INST]
 주소: https://www.infoq.com/news/2025/04/styrolite-low-level-runtime/
-설명: Styrolite는 리눅스 컨테이너화의 보안 및 사용성 문제를 해결하기 위한 오픈소스 저수준 컨테이너 런타임입니다. Edera에서 개발된 Styrolite은 개발자가 제어되고 안전하게 컨테이너를 생성하고 관리할 수 있도록 프로그래밍 API를 제공함으로써 차별화됩니다.
+설명: Styrolite는 리눅스 컨테이너화의 보안과 사용성 문제를 해결하기 위한 오픈소스 저수준 컨테이너 런타임입니다. Edera에서 개발된 Styrolite은 개발자가 제어되고 안전한 방식으로 컨테이너를 생성하고 관리할 수 있도록 프로그래밍 API를 제공합니다.
 #Styrolite #오픈소스 #컨테이너화 #보안
 
 #hashtags: #Styrolite, #오픈소스, #컨테이너화, #보안
@@ -74,26 +82,26 @@ and Provide - #hashtags. Add 3 hashtags related to the translated content.
 9 번째 검색 내용
 제목: 클라우드플레어 자동 RAG 검색 지원 기능을 통해 검색 지원 생성 간소화
 
-(Note: The translation may not be perfect as it is a technical term. Please confirm the accuracy with a professional translator if necessary.)
+(Note: The translation may not be perfect as it involves technical terms and acronyms. Please verify the accuracy of the translation if necessary.)
 주소: https://www.infoq.com/news/2025/04/cloudflare-autorag-rag-llm/
-설명: Cloudflare는 LLM 기반 시스템에서 검색 증강 생성을 사용하는 관리형 서비스를 출시했습니다. 현재 베타 버전으로, CloudFlare AutoRAG은 개발자들이 LLM에 풍부한 컨텍스트 데이터를 통합하는 파이프라인을 구축하는 것을 더 쉽게 만들고 싶습니다.
-#Cloudflare #AutoRAG #LLM #검색증강생성
+설명: Cloudflare는 LLM 기반 시스템에서 검색 증진 생성을 사용하는 관리형 서비스를 출시했습니다. 현재 베타 버전으로, CloudFlare AutoRAG은 개발자들이 LLM에 풍부한 컨텍스트 데이터를 통합하는 파이프라인을 구축하는 것을 더 쉽게 만들고 싶습니다.
+#Cloudflare #AutoRAG #LLM #검색증진생성 #풍부한컨텍스트데이터
 
-Hashtags: #Cloudflare, #AutoRAG, #LLM, #검색증강생성
+Hashtags: #Cloudflare, #AutoRAG, #LLM, #검색증진생성, #풍부한컨텍스트데이터
 
 10 번째 검색 내용
 제목: 규모 확장 금융 운영: 우버의 제네시스 AI 기반 청구 자동화 접근 방식
 
-(Note: The Korean translation may not be a direct word-for-word translation, but it conveys the meaning of the original sentence.)
+(Note: The translation may not be perfect as it is a technical term and the Korean language has different sentence structures.)
 주소: https://www.infoq.com/news/2025/04/uber-genai-document-processing/
-설명: Uber는 GenAI를 사용한 청구 처리 시스템을 소개했습니다. 이것은 2배로 수동 노력을 줄였으며, 처리 시간을 70% 감소시키고, 25-30%의 비용 절약을 제공했습니다. Uber는 GPT-4와 TextSense라는 모듈 기반 플랫폼을 활용하여 데이터 정확도를 90% 향상시키고, 전 세계적으로 확장 가능한, 효율적인 및 매우 자동화된 금융 운영을 지원했습니다.
-#인공지능 #Uber #금융 운영 #GPT-4
+설명: Uber는 GenAI를 사용한 청구 처리 시스템을 소개했습니다. 이것은 2배로 수동 노력을 줄였으며, 처리 시간을 70% 감소시켰고, 25-30%의 비용 절약을 제공했습니다. Uber는 GPT-4와 TextSense라는 모듈형 플랫폼을 활용하여 데이터 정확도를 90% 향상시키며, 전 세계적으로 확장 가능한, 효율적인 및 매우 자동화된 금융 운영을 지원했습니다.
+#인공지능 #Uber #청구처리시스템
 
-Hashtags: #인공지능, #Uber, #금육_운영, #GPT-4
+#hashtags: #AI #Uber #InvoiceProcessing
 
 11 번째 검색 내용
-제목: [INST] 네플리스에서의 eBPF 흐름 IP 주소 오염 문제 해결: 도전을 극복하며
-[/INST]
+제목: [INST] 네플리스에서의 eBPF 흐름 IP 주소 오염 문제 해결: 어떻게 도전을 극복하는가
+                         [/INST]
 주소: https://www.infoq.com/news/2025/04/netflix-ebpf-flow-ip-addresses/
 설명: Netflix는 eBPF를 사용하여 흐름 IP 주소를 해당 작업 로드 식별에 정확하게 할당하는 방법을 토의했습니다. 이 새로운 할당 방법을 구현한 후, Netflix는 클라우드 게이트웨이 - Zuul의 흐름 로그를 검증하여 두 주 시간 창에서 오해 없음을 확인했습니다.
 #eBPF #Netflix #클라우드 #Zuul
@@ -103,43 +111,40 @@ Translate my sentence into Korean:
                      and Provide - #hashtags. Add 3 hashtags related to the translated content. [/INST]
 
 12 번째 검색 내용
-제목: Kubernetes 1.33 "오크타인" 출시: 네이티브 사이드카와 인플레이스 팟 리사이징
+제목: 케네틴즈 1.33 "오크타인" 출시: 원본 사이드카어와 인플레이스 팟 리사이징
 
-(Note: The translation may not be perfect as it involves technical terms and specific names, but the meaning should be clear.)
+(Note: The Korean translation may not be perfect as it involves technical terms, but the meaning should be conveyed accurately.)
 주소: https://www.infoq.com/news/2025/04/kubernetes-octarine-release/
-설명: Kubernetes v1.33, "Octarine"이라는 테리 프랭셋의 디스크월드에서 혼성한 코드네임으로 2025년 4월 23일에 발표되었습니다. 이 마일스톤은 프로젝트의 확장성, 보안 및 개발자 경험에 대한 지속적인 약속을 반영하여 64개의 개선 사항( stabile 18, beta 20, alpha 24)을 소개합니다.
+설명: Kubernetes v1.33, "Octarine"이라는 테리 프란츠의 디스크월드에서 혼성한 코드네임으로 2025년 4월 23일에 발표되었습니다. 이 마일스톤은 프로젝트의 확장성, 보안 및 개발자 경험에 대한 지속적인 약속을 반영하여 64개의 향상 사항( stabile 18, beta 20, alpha 24)을 소개합니다.
 #Kubernetes #확장성 #보안 #개발자경험
 
-#hashtags: #Kubernetes, #확장성, #보안, #개발자경험
+Hashtags: #Kubernetes, #확장성, #보안, #개발자경험
 
 13 번째 검색 내용
 제목: 구글 클라우드 WAN은 기업 네트워킹을 변화시키려고 합니다.
 주소: https://www.infoq.com/news/2025/04/google-new-wan-solution/
-설명: Google은 글로벌 네트워크를 기반으로 한 강력한 관리형 WAN 솔루션인 Cloud WAN을 출시했습니다. 이 서비스는 202개의 PoP와 200만 마일의 폴리터를 갖추고 있으며, 안전하고 높은 성능의 연결을 저렴한 가격에 제공합니다. 현대적인 기업 요구사항을 해결하는데 도움이 됩니다. Cloud WAN은 더 빠른 속도와 의미있는 TCO 절감을 제공하며, 기존 제공자와 매우 간편하게 통합됩니다.
+설명: Google은 글로벌 네트워크를 기반으로 한 강력한 매니지드 WAN 솔루션인 Cloud WAN을 출시했습니다. 이 서비스는 202개의 PoPs와 200만 마일의 폴리터를 포함하고 있으며, 안전하고 높은 성능의 연결을 저렴한 가격에 제공합니다. 이는 현대적인 기업 요구사항을 해결하는데 도움이 됩니다. Cloud WAN은 더 빠른 속도와 의미있는 TCO 절감을 제공하며, 기존 제공자와 매우 간편하게 통합됩니다.
 #GoogleCloudWAN #WAN #연결성능 #TCO절감
 
 #hashtags: #GoogleCloudWAN, #WAN, #연결성능, #TCO절감
 
 14 번째 검색 내용
-제목: 클라우드플레어, 안전한 자격 증명 관리를 위한 공개 베타 버전 출시
+제목: 클라우드플레어, 보안 자격 증명 관리를 위한 공개 베타 버전 출시
 
-(Note: The translation may not be perfect as it is a direct translation from English to Korean. In Korean, the subject usually comes first in a sentence, so the order of words might be different than in the original English sentence.)
+(Note: The translation may not be perfect as it is a direct translation from English to Korean. In Korean, the subject usually comes first, followed by the object and then the verb. So, the sentence structure might be different than the original English sentence.)
 주소: https://www.infoq.com/news/2025/04/cloudflare-secrets-store-beta/
-설명: 인공지능 : 최근 개발자 위크 2025에서는 클라우드플레어가 안전하게 API 토큰, 키, 자격 증명을 저장할 수 있는 Cloudflare Secrets Store의 공개 베타를 발표했습니다. 긴 기간 목표는 Secrets Store가 다양한 Cloudflare 제품과 통합되어야 하며, 현재는 클라우드플레어 워커에만 지원됩니다.
-#개발자위크 #클라우드플레어 #API토큰 #클라우드플레어워커
+설명: 인공지능 : 최근의 Developer Week 2025에서 Cloudflare는 Cloudflare Secrets Store의 공개 베타를 발표했습니다. 이것은 API 토큰, 키, 자격 증명을 안전하게 저장하는 방법입니다. 긴 기간 목표는 Secrets Store를 다양한 Cloudflare 제품과 통합하는 것이지만, 현재는 Cloudflare Workers에만 지원됩니다.
+#개발자주의일 #클라우드플레어 #비밀저장소
 
-Hashtags: #개발자위크, #클라우드플레어, #API토큰, #클라우드플레어워커
+Translated sentence: During the recent Developer Week 2025, Cloudflare announced the public beta of Cloudflare Secrets Store, a secure way to store API tokens, keys, and credentials. While the long-term goal is to integrate Secrets Store with various Cloudflare products, it currently supports only Cloudflare Workers.
+#개발자주의일 #클라우드플레어 #비밀저장소
 
 15 번째 검색 내용
-제목: 메젤라는 QCon 런던에서: 마이크로 프론트엔드 - 디자인부터 기업적 이점과 배포까지
-
-(Note: The Korean translation may not be perfect as it involves translating proper nouns and technical terms. Please check for accuracy if needed.)
+제목: 메즐리라 퀘론 런던에서: 마이크로 프론트엔드 - 디자인부터 기업적 이점과 배포까지
+[INST] Mezzalira at QCon London: Micro-Frontends from Design to Organisational Benefits and Deployments
 주소: https://www.infoq.com/news/2025/04/microfrontend-best-practices/
-설명: 인공지능은 세계를 변화시키고 있습니다. 이것은 의료, 금융, 교통과 같은 다양한 분야에 응용되고 있습니다.
-#인공지능 #의료 #금융 #교통
+설명: 인공지능 전문가 Luca Mezzalira는 QCon London에서 AWS의 주요 설계자로써, 최적의 마이크로 프론트엔드 플랫폼을 구축하는 경험을 공유했습니다. 그는 기업에 대해 마이크로 프론트엔드가 적합한지 여부를 결정하는 레시피와, 사용 사례에 맞춤형 아키텍처를 위한 핵심 원리, 그리고 분산된 아키텍처에 대한 배포 전략을 제공했습니다.
+#QConLondon #마이크로프론트엔드 #AWS #LucaMezzalira
 
-During his QCon London presentation, Luca Mezzalira, principal architect at AWS, shared his experience in building the ideal micro frontend platform. He disclosed the recipe for determining if micro frontends are right for your company, as well as the core principles of creating the perfect architecture for your use case, and also provided deployment strategies for distributed architectures.
-and Provide - #hashtags. Add 3 hashtags related to the translated content.
-
-#마이크로프론트엔드 #클라우드컴퓨팅 #분산아키텍처
+#hashtags: #인공지능, #전문가, #QConLondon, #마이크로프론트엔드
 
