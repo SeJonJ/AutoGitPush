@@ -1,0 +1,138 @@
+1 번째 검색 내용
+제목: 소셜 드라이버를 사용하여 소프트웨어 엔지니어링 팀 성능 개선
+[INST] Translate my sentence into Korean :
+
+Using Social Drivers to Improve Software Engineering Team Performance
+주소: https://www.infoq.com/news/2025/05/software-engineering-performance/
+설명: 인공지능은 세계를 변화시키고 있습니다. 이것은 의료, 금융, 교통과 같은 다양한 분야에 응용되고 있습니다.
+#인공지능 #의료 #금융 #교통
+
+According to Lizzie Matusov, technical drivers like velocity offer an incomplete view of team performance. Social drivers—trust, autonomy, purpose, and psychological safety—provide a fuller picture and reveal important areas of opportunity for improvement. She spoke about the social drivers behind high-performing engineering teams at QCon San Francisco.
+and Provide - #hashtags. Add 3 hashtags related to the translated content.
+#팀성능 #소셜드라이버 #고성능엔지니어링팀
+
+2 번째 검색 내용
+제목: 마이크로소프트는 윤리적 문제와의 논쟁에서 유럽과의 기술 연구 협력을 더욱 깊게 진행할 것을 약속합니다.
+주소: https://www.infoq.com/news/2025/05/microsoft-europe-tech-ties/
+설명: Microsoft의 5개 디지털 약속은 유럽의 기술 경제와 자치력을 강화하고 40%의 클라우드와 AI 인프라 확장, 강화된 사이버 보안, 강력한 데이터 개인정보 프레임워크를 통해 유럽 클라우드를 위한 "유럽 클라우드"를 설립함으로써 디지털 내구성을 강화하며 경제적 경쟁력을 증진하고 오픈소스 커뮤니티를 지원합니다.
+#유럽클라우드 #디지털내구성 #사이버보안 #오픈소스
+
+Hashtags: #유럽클라우드, #디지털내구성, #사이버보안, #오픈소스
+
+3 번째 검색 내용
+제목: 우버의 Kubernetes에서 Ray로 여정
+
+(Note: The translation may not be perfect as it is a proper noun and technical term. However, the meaning should be clear.)
+주소: https://www.infoq.com/news/2025/05/uber-journey-ray-kubernetes/
+설명: Uber는 최근 Ray 기반의 머신러닝 작업을 Kubernetes에서 실행하고 있다는 전환을 발표했습니다. 이것은 회사의 인프라 진화를 목적으로 하며, 확장성, 효율성, 개발자 경험을 향상시키기 위한 데이터 분석 및 학습 작업에 대한 빠른 처리를 제공하는 것입니다. 회사는 이러한 전환 중 만나게 된 동기, 도전 및 해결책을 다루고 있는 두 부분의 시리즈를 최근에 Uber Engineering에서 발표했습니다.
+#Uber #Kubernetes #Ray #머신러닝 #데이터분석
+#인프라진화 #효율성 #확장성 #개발자경험
+
+4 번째 검색 내용
+제목: 모델 컨텍스트 프로토콜 채택: 자바 에코시스템 내에서
+
+(Note: The translation may not be perfect as it is a technical term. Please double-check the translation for accuracy.)
+주소: https://www.infoq.com/news/2025/05/mcp-within-java-ecosystem/
+설명: 인공지능 모델 컨텍스트 프로토콜(MCP)은 자바에서(Quarkus, Spring AI 등) 열린 표준으로 통합되어 사용되고 있습니다. 개발자들은 MCP 서버를 더 쉽게 실행할 수 있도록 도구들인 JBang와 MCP Java 카탈로그를 사용할 수 있습니다.
+#MCP #자바 #통합 #개발자
+
+Hashtags: #MCP, #Java, #Integration, #Developers
+
+5 번째 검색 내용
+제목: 개발 프록시 v0.27 출시: 향상된 API 모델링, AI 통합, 및 개선된 구성 기능
+
+(Note: The Korean translation may not be perfect as it is a machine translation. Please review and make any necessary adjustments.)
+주소: https://www.infoq.com/news/2025/05/microsoft-dev-proxy-0-27/
+설명: 인공지능 개발팀 Microsoft의 Dev Proxy는 0.27 버전 출시를 선언하였습니다. 이 버전은 API 명세 생성을 간소화하고, 편집 제안을 향상시키며, 미래에 AI 통합을 위한 기초를 마련하는데 중점을 두었습니다.
+#인공지능 #DevProxy #API #Microsoft
+
+6 번째 검색 내용
+제목: 메타는 보안 수정을 평가하기 위해 LLM 에이전트를 평가하는 AutoPatchBench 프로젝트를 출시합니다.
+주소: https://www.infoq.com/news/2025/05/meta-autopatchbench-ai-patching/
+설명: AutoPatchBench는 연구자와 개발자가 LLM 에이전트가 C/C++ 원시 코드의 보안 취약점을 자동으로 수정하는데 몇 가지 효과적인지 평가하고 비교할 수 있도록 표준화된 벤치마크입니다.
+#AutoPatchBench #보안취약점 #LLM에이전트
+
+추가 해시태그:
+#C언어 #C++ #원시코드
+
+7 번째 검색 내용
+제목: 윈도우스 커뮤니티 툴키트 8.2는 네이티브 AOT 컴파일 지원을 합니다.
+주소: https://www.infoq.com/news/2025/05/wct-8-2-native-aot/
+설명: Microsoft는 4월 2025년에 Windows Community Toolkit의 버전 8.2를 발표했습니다. 새로운 릴리즈는 종속성을 업데이트하고, UWP 애플리케이션에 대한 .NET 9 지원과 Native AOT 컴파일을 포함합니다.
+#Microsoft #WindowsCommunityToolkit #UWP #.NET9
+
+#hashtags: #Microsoft #WindowsCommunityToolkit #UWP #.NET9
+
+8 번째 검색 내용
+제목: 펄루미가 인프라스트럭처를 코드로 간단하게 관리하기 위해 개선된 컴포넌트 기능을 발표합니다.
+주소: https://www.infoq.com/news/2025/05/pulumi-components-improved/
+설명: Pulumi, 개방형 소스 인프라스트럭처 코드 플랫폼, 컴포넌트 기능에 대한 의미있는 개선을 발표했습니다. 이 개선 사항은 개발자가 인프라스트럭처 코드를 구축, 공유하고 소비하는 데 어떻게 단순화되는지 중심에 있으며, 이를 통해 보일러플레이트를 줄이고, 개발자 경험을 향상시키고, 인프라스트럭처 패턴의 재사용을 허용합니다.
+#인프라스트럭처 #코드 #개선사항
+
+Hashtags: #인프라스트럭처 #코드 #개선사항
+
+9 번째 검색 내용
+제목: 자바 뉴스 요약: OpenJDK JEP 업데이트, Spring AI, Quarkus, LangChain4j, JReleaser, WildFly
+주소: https://www.infoq.com/news/2025/05/java-news-roundup-apr28-2025/
+설명: Java 주요 뉴스 요약: 2025년 4월 28일, Java 주요 뉴스는 다음과 같습니다. 네 개의 JEP이 JDK 25에 대상으로 제안되고 있으며, 새로운 JEP이 발표되었습니다. Spring AI 1.0.0의 8번째 amilestone 릴리스, Quarkus 3.22.0, LangChain4j 1.0.0의 첫 번째 릴리스 캐디드, JReleaser 1.18.0의 릴리스, 그리고 Wildfly가 Commonhaus Foundation에 합류하는 등 다양한 주요 소식이 있습니다.
+#Java #JEPs #SpringAI #Quarkus
+#LangChain4j #JReleaser #Wildfly #CommonhausFoundation
+
+10 번째 검색 내용
+제목: 인스턴스 메인 메서드를 미리보기에서 최종으로 JDK 25로 이동
+[INST] 제안된 번역: 인스턴스 메인 메서드를 미리보기에서 최종 버전으로 JDK 2.5로 변경
+[/INST]
+주소: https://www.infoq.com/news/2025/05/jdk25-instance-main-methods/
+설명: JEP 512은 Java를 향상시키며 컴팩트 소스 파일과 인스턴스 메인 메서드를 JDK 25에 추가하여 초보자들을 위한 학습 곡선을 간소화합니다. 주요 기능은 간소화된 구문, 자동 임포트 및 새로운 IO 도우미 클래스입니다. 이러한 변경으로 개발자들은 최소한의 복잡성으로 프로그램을 작성할 수 있습니다. 이러한 변경으로 Java는 접근성과 프로그래밍에서의 혁신에 대한 약속을 충족합니다.
+#JEP512 #Java #접근성 #혁신
+
+Hashtags: #JavaAccessibility #JavaInnovation #ProgrammingSimplified
+
+11 번째 검색 내용
+제목: [INST] 슬랙이 이중화 파이프라인을 최적화하는 방법 [/INST]
+주소: https://www.infoq.com/news/2025/05/slack-optimizes-e2e-pipeline/
+설명: Slack's Developer Experience (DevXP) team recently implemented significant optimizations to their end-to-end (E2E) testing pipeline, resulting in a 60% reduction in frontend build frequency and a 50% decrease in overall build time. These enhancements, the team claims, streamline the continuous integration and deployment (CI/CD) process, allowing engineers to iterate more rapidly and efficiently.
+#Slack #DevXP #CI/CD #E2ETesting #Optimization
+
+12 번째 검색 내용
+제목: 앱카 에이전트릭 AI의 새로운 배포 옵션 출시
+
+(Note: The translation may not be perfect as it is difficult to translate abbreviations and acronyms directly. In this case, "Akka" and "Agentic AI" are translated as-is, while the rest of the sentence is translated into Korean.)
+주소: https://www.infoq.com/news/2025/05/agentic-ai-akka-deployment/
+설명: Akka는 개발자들이 안정적인, 분산된 AI 시스템을 구축하기 위해 유연성을 높이기 위한 새로운 배포 옵션을 공개했습니다. 이제 Akka는 자체 관리 노드와 자체 호스팅 지역을 제공하며, 기업들은 다양한 인프라에서 배포할 수 있도록 힘끼게 합니다. 이 발전은 Akka가 에이전트형 AI 개발 분야의 리더로 위치시키며, 빠르게 변화하는 요구 사항에 적응할 수 있는 확장성 있고 상태를 유지하는 애플리케이션을 가능하게 합니다.
+#Akka #에이전트형AI #배포옵션 #확장성
+#인프라 #에이전트형AI #빠른변화 #유연성
+
+13 번째 검색 내용
+제목: 아키텍처에서 배포까지: AI가 개발자 워크플로우를 통합하는 방법
+
+(Note: The translation may not be perfect as it is a complex sentence. However, the meaning should be conveyed.)
+주소: https://www.infoq.com/news/2025/05/ai-toolkit-unify-workflows/
+설명: AI : 개발자 도구는 코드 완성 밖에서 AI가 소프트웨어 개발 작업 흐름의 다양한 단계를 통합시키며 변화를 이루고 있습니다.
+#인공지능 #개발자도구 #소프트웨어개발 #워크플로우
+
+Translated sentence: Developer tooling is undergoing a shift as AI moves beyond code completion to unify multiple stages of the software development workflow.
+Hashtags: #인공지능, #개발자도구, #소프트웨어개발, #워크플로우
+
+14 번째 검색 내용
+제목: 오픈애이가 웹 검색과 깊은 연구 능력을 평가하기 위한 AI 에이전트의 북스컴프를 출시합니다.
+주소: https://www.infoq.com/news/2025/05/openai-browsecomp-ai-benchmark/
+설명: OpenAI는 웹에서 어렵게 찾기 어려운 정보를 찾아내는데 능력이 있는 AI 에이전트를 테스트하기 위한 새로운 벤치마크인 BrowseComp를 발표했습니다. 벤치마크에는 1,266개의 어렵고 복잡한 문제가 포함되어 있으며, 에이전트는 여러 웹사이트를 순차적으로 탐색하여 혼합된 정보를 검색해야 합니다.
+#인공지능 #벤치마크 #웹정보검색
+
+Translated sentence: OpenAI has released BrowseComp, a new benchmark designed to test AI agents' ability to locate difficult-to-find information on the web. The benchmark contains 1,266 challenging problems that require agents to persistently navigate through multiple websites to retrieve entangled information.
+#인공지능 #벤치마크 #웹정보검색
+
+Hashtags added: #인공지능 #벤치마크 #웹정보검색
+
+15 번째 검색 내용
+제목: 빠른 6.1은 동시성 개선, 패키지 특성 소개 등을 포함합니다.
+주소: https://www.infoq.com/news/2025/05/swift-6-1-released/
+설명: AI : 스위프트 6.1, Xcode 16.3에 포함된 언어와 Swift Package Manager의 몇몇 개선 사항을 소개합니다. 이 버전에는 타입 전체 글로벌 액터 추론 제어, 목록에 쉼표를 지원하는 것, 플랫폼 기반으로 특성을 조건부로 노출하도록 패키지 특성, 스위프트 테스팅의 개선 사항이 포함되어 있습니다.
+#Swift6.1 #Xcode16.3 #SwiftPackageManager
+
+#hashtags:
+#SwiftProgramming
+#iOSDevelopment
+#SoftwareEngineering
+
