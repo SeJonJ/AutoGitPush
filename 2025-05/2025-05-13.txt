@@ -1,0 +1,148 @@
+1 번째 검색 내용
+제목: OpenAI가 GPT-4.1 패밀리를 소개합니다. 향상된 성능과 긴 컨텍스트 지원이 있습니다.
+주소: https://www.infoq.com/news/2025/05/openai-gpt-4-1/
+설명: OpenAI는 API를 통해 제공되는 GPT‑4.1, GPT‑4.1 mini, 그리고 GPT‑4.1 nano와 같은 새로운 언어 모델을 발표했습니다. 이 모델들은 GPT‑4o와 GPT‑4.5보다 여러 기술적 벤치마크에서 향상되었으며, 10억 토큰의 컨텍스트 지원을 도입했습니다.
+#인공지능 #OpenAI #언어모델
+
+2 번째 검색 내용
+제목: 제프505는 Java의 구조화된 동시성에 대한 5번째 미리보기를 제공하며, 주요 API 개선 사항을 포함합니다.
+주소: https://www.infoq.com/news/2025/05/jep-505-concurrency-preview-5/
+설명: JEP 505, Structured Concurrency,는 JDK 25의 대상 상태에 도달했습니다. 이 개선된 API는 static factory 메서드와 같은 StructuredTaskScope.open()을 통해 병렬 작업 관리를 향상시킵니다. 취소, 관찰성과 하위 작업 생명 주기 처리를 개선함으로써 더 명확하고 안전한 코드를 보장합니다. 개발자들은 이 혁신적인 반복에 대해 탐색하고 피드백을 제공할 것을 권장합니다.
+#JEP505 #구조화된_동시성 #JDK25 #개선된_API
+#안전한코드 #명확한코드 #혁신적인반복
+
+3 번째 검색 내용
+제목: 자바 뉴스 요약: OpenJDK JEPs, Hibernate Reactive, Infinispan, JHipster, Gatherers4j
+
+[INST] Translate my sentence into Korean : 
+
+                            Java News Roundup: OpenJDK JEPs, Hibernate Reactive, Infinispan, JHipster, Gatherers4j
+                         [/INST]
+주소: https://www.infoq.com/news/2025/05/java-news-roundup-may05-2025/
+설명: Java 주요 뉴스 요약: 2025년 5월 5일에는 OpenJDK JEPs를 목표로 설정한 JEP, HotSpot 관련 JEP, Hibernate Reactive 3.0의 첫 번째 릴리즈 кан디데이트, Infinispan 16.0의 첫 번째 개발자 릴리즈, 그리고 Gatherers4j 0.11.0의 릴리즈가 포함된 Java 주요 뉴스 요약입니다.
+#Java #OpenJDK #HibernateReactive #Infinispan
+
+4 번째 검색 내용
+제목: 깊은 탐색(DeepSeek)이 공개 소스로 제공하는 형식화된 수학 증명을 위한 Prover-V2 LLM 출시
+
+[INST] Translate my sentence into Korean: [/INST]
+깊은 탐색(DeepSeek)이 공개 소스로 제공하는 형식화된 수학 증명을 위한 Prover-V2 LLM 출시
+주소: https://www.infoq.com/news/2025/05/deepseek-prover-v2-formal-proof/
+설명: DeepSeek는 Lean 4에서 형식 증명을 위해 새로운 오픈 소스 대규모 자연어 모델인 DeepSeek-Prover-V2를 출시했습니다. 이 모델은 회사의 DeepSeek-V3 기반 모델을 구동하는 재귀적 증명 파이프라인을 기반으로 합니다.
+#DeepSeek #Lean4 #형식증명 #오픈소스
+
+#hashtags: #DeepSeek, #Lean4, #형식증명
+
+5 번째 검색 내용
+제목: QCon 로덴 2025: 서버 없이 데이터베이스를 구축하는 방법
+
+(Note: "QCon" is an event name and should not be translated. The rest of the sentence has been translated into Korean.)
+주소: https://www.infoq.com/news/2025/05/serverless-database-seaton/
+설명: Alex Seaton, Man Group의 직원 공사 엔지니어, QCon London 2025에서 "데이터베이스를 서버 없이 구축하는 방법"을 소개했습니다. 세이톤은 서버 없는 데이터베이스와 충돌 자유 복제 데이터 형식(CRDTs)을 사용하여 관리가 어려운 오래된 헷드 펀드 거래 시스템 애플리케이션을 클러스터 머신으로 마이그레이션했습니다.
+#서버리스데이터베이스 #CRDTs #헷드펀드 #QConLondon2025
+
+Translated content: Alex Seaton, Man Group의 직원 공사 엔지니어, QCon London 2025에서 "데이터베이스를 서버 없이 구축하는 방법"을 소개했습니다. 세이톤은 서버 없는 데이터베이스와 충돌 자유 복제 데이터 형식(CRDTs)을 사용하여 관리가 어려운 오래된 헷드 펀드 거래 시스템 애플리케이션을 클러스터 머신으로 마이그레이션했습니다.
+
+Hashtags: #서버리스데이터베이스 #CRDTs #헷드펀드 #QConLondon2025
+
+6 번째 검색 내용
+제목: 안드로이드 스튜디오 메빵캣 업데이트 개선된 겐미니 통합과 더불어
+
+[INST] Translate my sentence into Korean : 
+                            Android Studio Meerkat Update Enhances Gemini Integration and More
+                         [/INST]
+주소: https://www.infoq.com/news/2025/05/android-studio-meerkat-update/
+설명: AI : Android Studio Meerkat의 최신 기능 업데이트는 개발자 생산성을 높이기 위해 다양한 업데이트를 제공하며, 이 중에서는 크래시 분석과 단위 테스트용 Gemini 통합의 확장, Jetpack Compose 미리보기의 향상, Kotlin Multiplatform(KMP) 통합의 개선 등이 있습니다.
+#안드로이드_스튜디오 #개발자_생산성 #제품성능_향상 #코틀린_멀티플랫폼
+
+Hashtags: #안드로이드_스튜디오, #개발자_생산성, #제품성능_향상, #코틀린_멀티플랫폼
+
+7 번째 검색 내용
+제목: 
+주소: https://www.infoq.com/news/2025/05/huggingface-reachy-robot/
+설명: Hugging Face는 프랑스의 시작업체 Pollen Robotics를 인수했습니다. Pollen Robotics는 인간형 로봇 Reachy 2를 개발한 기업입니다. 이 인수는 로봇 기술을 더 접근하기 쉽게 만들기 위해 로봇의 디자인을 오픈소스로 공개하고, 개발자들이 코드를 수정하고 향상시키는 것을 허용합니다.
+#로봇 #인공지능 #오픈소스
+
+#hashtags: #로봇 #인공지능 #오픈소스
+
+8 번째 검색 내용
+제목: 구글 클라우드는 밀리초 대기 작업용으로 빠른 저장 서비스 발표
+
+(Note: The translation may not be perfect as it is a direct translation from English to Korean. The sentence structure and grammar might need adjustments for natural Korean language flow.)
+주소: https://www.infoq.com/news/2025/05/google-cloud-rapid-storage/
+설명: At the recent Google Cloud Next 2025, the cloud provider announced Rapid Storage, a new Cloud Storage zonal bucket designed to deliver consistent single-digit millisecond data access for frequently accessed data and latency-sensitive applications. The new storage class provides under 1ms random read and write latency, 20x faster data access, and 6 TB/s of throughput.
+                     #구글클라우드 #랩쉬 #데이터액세스
+
+Translated content: 
+At the recent Google Cloud Next 2025, the cloud provider announced Rapid Storage, a new Cloud Storage zonal bucket designed to deliver consistent single-digit millisecond data access for frequently accessed data and latency-sensitive applications. The new storage class provides under 1ms random read and write latency, 20x faster data access, and 6 TB/s of throughput.
+                     #구글클라우드 #랩쉬 #데이터액세스
+
+9 번째 검색 내용
+제목: JBang Jash는 Java에서 간소화된 프로세스 실행을 제공합니다.
+주소: https://www.infoq.com/news/2025/05/jbang-jash/
+설명: JBang팀은 JBang Jash, Java 라이브러리로 외부 프로세스와 쉘 명령을 간결하고 예측 가능한 API를 통해 실행하는데 목적을 두었습니다. 표준 Java API인 java.lang.ProcessBuilder와 Runtime.exec를 사용할 때 개발자들이 일반적으로 직면하는 복잡성과 보일러플레이트를 해결하기 위해 설계되었습니다.
+#JBang #Jash #Java라이브러리 #실행API
+
+#hashtags: #JBang, #Jash, #JavaLibrary
+
+10 번째 검색 내용
+제목: InfoQ 개발자 슬림 보스턴 2025: AI, 플랫폼, 개발자 경험
+
+(Note: The Korean translation may not be perfect as it involves translating proper nouns and event names. Please verify the accuracy of the translation if necessary.)
+주소: https://www.infoq.com/news/2025/05/ids-boston-2025-topics/
+설명: 소프트웨어 개발은 빠르게 변화하고 있습니다. 고급 엔지니어들은 AI, 플랫폼, 및 개발자의 자율성에 대한 실제 세계의 인사이트가 필요합니다. InfoQ Dev Summit Boston (6월 9일-10일)은 2일 이상의 27개 세션의 선택적, 기술 대화를 제공하며, 규모에서 작업하는 엔지니어들이 활발히 참여한 기사를 포함합니다. 우리는 소프트웨어의 진화를 도와주고 결정을 내리는데 필요한 명확성과 맥락을 제공하는 것에 집중하고 있습니다.
+#인공지능 #플랫폼 #개발자자율성
+
+11 번째 검색 내용
+제목: 시간적 변화에 대응하기 위해 AWS는 분산 시스템을 구축할 때 복원력 있는 것을 쉽게 만들고자 합니다.
+주소: https://www.infoq.com/news/2025/05/temporal-aws-resilient-systems/
+설명: 인공지능 회사 Temporal Technologies는 Temporal, 지속적인 실행을 중점으로 한 오픈소스 마이크로서비스 오케스트레이션 플랫폼을 개발한 회사입니다. AWS 마켓플레이스에 Temporal Cloud를 제공하였습니다. AWS를 통해 서비스를 제공함으로써, 회사는 대규모 애플리케이션을 위한 강력한 분산 시스템의 개발을 간소화하고자 합니다.
+#인공지능 #TemporalTechnologies #AWS #마이크로서비스_오케스트레이션_플랫폼
+#지속적인_실행 #대규모_애플리케이션
+#분산_시스템_개발_간소화
+
+12 번째 검색 내용
+제목: 소셜 드라이버를 사용하여 소프트웨어 엔지니어링 팀 성능 개선
+[INST] Translate my sentence into English :
+
+                            Using Social Drivers to Improve Software Engineering Team Performance
+                         [/INST]
+주소: https://www.infoq.com/news/2025/05/software-engineering-performance/
+설명: 인공지능은 세계를 변화시키고 있습니다. 이것은 의료, 금융, 교통과 같은 다양한 분야에 응용되고 있습니다.
+#인공지능 #의료 #금융 #교통
+
+According to Lizzie Matusov, technical drivers like velocity offer an incomplete view of team performance. Social drivers—trust, autonomy, purpose, and psychological safety—provide a fuller picture and reveal important areas of opportunity for improvement. She spoke about the social drivers behind high-performing engineering teams at QCon San Francisco.
+and Provide - #hashtags. Add 3 hashtags related to the translated content.
+#팀성능 #소셜드라이버 #고성능엔지니어링팀
+
+13 번째 검색 내용
+제목: 마이크로소프트는 충격 맞은 후에도 유럽과의 기술 연구 협력을 더 깊게 진행할 것을 약속합니다.
+[INST] Microsoft Pledges Deeper European Tech Ties amidst Sovereignty Debate [/INST]
+주소: https://www.infoq.com/news/2025/05/microsoft-europe-tech-ties/
+설명: Microsoft의 다섯 가지 디지털 약속은 유럽의 기술 경제와 자율성을 강화하고 40%의 클라우드와 AI 인프라 확장, 강화된 사이버 보안, 강력한 데이터 개인정보 프레임워크를 통해 유럽 클라우드를 위한 "유럽 클라우드"로 확립합니다. Microsoft는 디지털 내구성을 지키기 위한 공식적인 의무를 강조하며, 경쟁력을 높이고 오픈 소스 커뮤니티에 지원합니다.
+#유럽 #클라우드 #AI #데이터 개인정보 #사이버보안
+
+#hashtags: #유럽기술경제, #디지털내구성, #오픈소스커뮤니티, #클라우드서비스, #데이터프라이버시
+
+14 번째 검색 내용
+제목: 우버의 Kubernetes에서 Ray로의 여정
+
+(Note: The translation may not be perfect as it is a proper noun and specific terminology. However, the meaning should still be clear.)
+주소: https://www.infoq.com/news/2025/05/uber-journey-ray-kubernetes/
+설명: Uber는 최근 Ray 기반의 머신러닝 작업을 Kubernetes에서 실행하는 전환을 자세히 설명했습니다. 이는 회사의 인프라 진화를 나타내며, 확장성, 효율성, 개발자 경험을 향상시키기 위한 목표입니다. 회사는 이러한 마이그레이션에서 만나는 동기, 도전 및 해결 방법에 대한 두 부분의 시리즈를 Uber Engineering에서 최근 발표했습니다.
+#Uber #Kubernetes #Ray #머신러닝 #인프라 #진화
+
+Hashtags: #Uber, #Kubernetes, #Ray, #머신러닝, #인프라, #진화
+
+15 번째 검색 내용
+제목: 모델 컨텍스트 프로토콜의 채택을 자바 에코시스템에서
+
+(Note: The translation may not be perfect as it is a technical term. Please confirm if the meaning is correct.)
+주소: https://www.infoq.com/news/2025/05/mcp-within-java-ecosystem/
+설명: 인공지능 모델 컨텍스트 프로토콜(MCP)은 자바에서의 채용이 증가하고 있습니다(쿼크스, 스프링 AI 등). 개발자들은 MCP 서버를 더 쉽게 실행할 수 있으며, 도구들인 JBang와 MCP Java 카탈로그를 사용할 수 있습니다.
+#MCP #자바 #AI_개발자 #인공지능_통합
+
+Translated Sentence: The Model Context Protocol (MCP), an open standard for LLM tool integration, is gaining adoption in Java (Quarkus, Spring AI, etc.). Developers can now run MCP servers more easily using tools like JBang and the MCP Java catalog.
+
+Hashtags: #MCP #Java #AI_Developers #ArtificialIntelligenceIntegration
+
