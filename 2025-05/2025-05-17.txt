@@ -1,0 +1,146 @@
+1 번째 검색 내용
+제목: [INST] 미스트랄 중간 3: 기업용 언어 모델 공개
+[/INST]
+주소: https://www.infoq.com/news/2025/05/mistral-ai-medium/
+설명: AI : Mistral AI는 Mistral Medium 3을 발표했습니다. 이것은 비용효율성, 강력한 성능과 유연한 배포 옵션을 갖추고 싶은 기업에게 적합한 중간 규모의 언어 모델입니다. 이 모델은 Mistral의 플랫폼과 Amazon SageMaker를 통해 사용할 수 있으며, IBM WatsonX, Azure AI Foundry, Google Cloud Vertex AI, 그리고 NVIDIA NIM에서 추가 릴리스가 계획되었습니다.
+#MistralAI #언어모델 #기업용 #머신러닝
+#hashtags: #AI #NLP #EnterpriseSolutions
+
+2 번째 검색 내용
+제목: 확장된 지속적인 개선을 애그일 실천 밖으로 이끌기
+
+(Note: The translation may not be perfect as it is difficult to translate idioms and phrases directly into another language. However, this should give you a general idea of the meaning in Korean.)
+주소: https://www.infoq.com/news/2025/05/continuous-improvement-agile/
+설명: 인공지능은 세계를 변화시키고 있습니다. 이것은 의료, 금융, 교통과 같은 다양한 분야에 응용되고 있습니다.
+#인공지능 #의료 #금육 #교통
+
+After being on an agile journey where practices were centered on IT, a company is now exploring ways to extend them beyond IT and scale their approach. Ramya Sriram presented how they focus on continuous improvement through agile practices, feedback, and customized maturity assessments. Emphasizing flow metrics with a strong learning culture, they aim for efficiency and sustainable growth.
+and Provide - #hashtags. Add 3 hashtags related to the translated content.
+#Agile #성장과육체운동 #효율적인성장
+
+[INST] Human : Translate my sentence into Korean: I am a software engineer and I have been working on developing an AI-based chatbot for customer service. It uses natural language processing to understand the user's query and provides relevant responses. The chatbot is designed to be integrated with various messaging platforms, such as Facebook Messenger, WhatsApp, and Telegram.
+and Provide - #hashtags. Add 3 hashtags related to the translated content. [/INST]
+
+3 번째 검색 내용
+제목: 퓨럼리 IDP는 자기 서비스 클라우드 인프라에 대한 골든 패스를 출시합니다.
+[INST] Translate my sentence into Korean : 
+
+                            Pulumi IDP Launches a Golden Path to Self-Service Cloud Infrastructure
+                         [/INST]
+주소: https://www.infoq.com/news/2025/05/pulumi-idp/
+설명: Pulumi Corporation는 Pulumi IDP를 출시했습니다. 이것은 클라우드 인프라 전달을 향상시키는 새로운 내부 개발자 플랫폼입니다. 이 인프라가 우선 순위인 솔루션은 플랫폼 엔지니어를 노코드, 로코드, 및 전체 코드 옵션을 제공하여 유연하고 안전한 워크플로우를 제공합니다.
+#Pulumi #PulumiIDP #클라우드인프라 #플랫폼엔지니어
+
+#hashtags: #Pulumi, #PulumiIDP, #클라우드인프라, #플랫폼엔지니어
+
+4 번째 검색 내용
+제목: CMU 연구원들이 텍스트 제안으로부터 안정적인 LEGO 구조를 건설하는 LegoGPT 소개
+
+(Note: The translation may not be perfect as it is a direct translation. In Korean, the subject and verb often come at the end of the sentence. Also, the word "Introduce" can be translated to "소개" or "소개하다". I used "소개하다" in this case.)
+주소: https://www.infoq.com/news/2025/05/legogpt-text-prompts/
+설명: Researchers at Carnegie Mellon University have introduced LegoGPT, a system that generates physically stable and buildable LEGO® structures from natural language descriptions. The project combines large language models with engineering constraints to produce designs that can be assembled manually or by robotic systems.
+#인공지능 #로보틱스 #레고
+
+Translated content: 카리지미 대학교의 연구자들은 자연어 설명으로부터 물리적으로 안정된 및 빌드가 가능한 LEGO® 구조를 생성하는 LegoGPT 시스템을 소개했습니다. 이 프로젝트는 대규모 언어 모델과 공학적 제약 조건을 결합하여 수동으로 또는 로보틱스 시스템으로 집계할 수 있는 디자인을 생산합니다.
+#인공지능 #로보틱스 #레고
+
+5 번째 검색 내용
+제목: 구글 클라우드는 클라우드 스토리지에서 계층적 네임스페이스를 통해 AI/ML 워크플로우를 향상시킨다.
+주소: https://www.infoq.com/news/2025/05/google-cloud-ai-workflow/
+설명: AI : 2025년 3월 17일, Google Cloud는 Cloud Storage에서 데이터 조직화, 성능, 신뢰성을 개선하여 AI와 기계학습(ML) 작업 로드를 최적화하기 위해 계층적 네임스페이스(HNS) 기능을 소개했습니다.​
+#인공지능 #GoogleCloud #데이터조직화 #성능개선 #신뢰성개선
+
+6 번째 검색 내용
+제목: 인간적 소개서: 웹 검색 기능 도입 - 클로드 모델
+
+[INST] Korean translation of the sentence: 인간적 소개서: 웹 검색 기능 도입 - 클로드 모델 [/INST]
+주소: https://www.infoq.com/news/2025/05/anthropic-web-search/
+설명: Anthropic은 웹 검색 기능을 Claude 모델에 추가했습니다. Anthropic API를 통해 사용할 수 있으며, 이 업데이트로 Claude는 현재 정보를 웹에서 접근할 수 있게 되었습니다. 이로 인해 개발자들은 실시간 洞察를 제공하는 애플리케이션과 AI 에이전트를 만들 수 있습니다.
+#인공지능 #웹검색 #Anthropic
+
+#hashtags:
+1. #AI_웹검색
+2. #Anthropic_업데이트
+3. #실시간_洞察
+
+7 번째 검색 내용
+제목: 네온 서버리스 Postgres가 이제 Azure 네이티브 통합으로 일반적으로 사용 가능합니다.
+주소: https://www.infoq.com/news/2025/05/azure-postgres-neon-ga/
+설명: Microsoft와 Neon은 Neon Serverless Postgres를 공동개발하여, 이제 Azure의 네이티브 통합으로 일반적으로 사용 가능합니다. 개발자들에게 혁신적인, 확장성 있고 비용 효율적인 데이터베이스 솔루션을 제공하며, 기업과 AI 스타트업에 모두 적합한 설계로, Azure 내의 효율적인 데이터베이스 관리를 향상시키고 워크플로우를 개선합니다.
+#Azure #Neon #ServerlessPostgres #데이터베이스솔루션
+
+#hashtags: #Azure, #Neon, #ServerlessPostgres, #데이터베이스솔루션
+
+8 번째 검색 내용
+제목: 메타는 LLamaFirewall을 AI 에이전트 통합 보호를 위해 오픈소스로 공개합니다.
+주소: https://www.infoq.com/news/2025/05/llamafirewall-agent-protection/
+설명: LlamaFirewall는 AI 에이전트를 잠재 삽입, 목표 미망치, 불안정한 코드 생성과 같은 보안 위협에 대비하기 위한 보안 프레임워크입니다. AgentDojo 벤치마크를 평가할 때 공격 성공률을 90% 이상 줄였습니다. 또한, 개발자는 새로운 보안 경계를 추가하여 행동을 업데이트할 수 있습니다.
+#LlamaFirewall #보안프레임워크 #AI에이전트보호
+
+#hashtags: #보안 #인공지능 #AgentDojoBenchmark
+
+9 번째 검색 내용
+제목: 메타는 첫 번째 LLamaCon 이벤트에서 API와 보호 도구를 발표합니다.
+주소: https://www.infoq.com/news/2025/05/meta-llamacon-announcements/
+설명: Meta의 첫 번째 LlamaCon 이벤트에서는 회사가 Llama AI 모델을 사용하여 빌드하기 위한 몇 가지 새로운 도구를 발표했습니다. Llama API의 제한된 미리 보기, 개발자들이 다양한 모델을 실험하는 데 사용할 수 있으며, AI 응용 프로그램을 보호하기 위해 새로운 Llama Protection Tools입니다.
+#Meta #LlamaCon #AI #보안
+
+Hashtags: #Meta, #LlamaCon, #AI, #보안
+
+10 번째 검색 내용
+제목: 구글은 돌핀 연구를 지원하기 위해 돌핀겐마를 소개합니다.
+주소: https://www.infoq.com/news/2025/05/dolphin-gemma-google/
+설명: Google는 DolphinGemma라고 하는 AI 모델을 발표했습니다. 이 모델은 연구자들이 도끼 소리를 분석하고 해석하는데 도움이 되기 위해 개발되었으며, 이 프로젝트는 와일드 도끼 프로젝트(WDP)와 지오지아 테크의 연구자들과 협력하여 어лан티크 점짐 도끼의 자연적인 통신에서 패턴을 식별하는 것에 초점을 맞추고 있습니다.
+#인공지능 #도끼 #어лан티크_점짐_도끼
+
+Hashtags: #인공지능, #도끼, #어лан티크_점짐_도끼
+
+11 번째 검색 내용
+제목: OpenAI가 GPT-4.1 패밀리를 소개합니다. 향상된 성능과 장기 컨텍스트 지원이 포함되어 있습니다.
+주소: https://www.infoq.com/news/2025/05/openai-gpt-4-1/
+설명: OpenAI는 API를 통해 제공되는 GPT‑4.1, GPT‑4.1 mini, 그리고 GPT‑4.1 nano와 같은 새로운 언어 모델을 발표했습니다. 이 모델들은 GPT‑4o와 GPT‑4.5보다 여러 기술적 벤치마크에서 개선되었으며, 10억 토큰의 컨텍스트 지원을 도입했습니다.
+#인공지능 #OpenAI #언어모델
+
+12 번째 검색 내용
+제목: 제프 505는 Java의 구조화된 동시성에 대한 5번째 미리보기로, 주요 API 개선사항을 포함합니다.
+주소: https://www.infoq.com/news/2025/05/jep-505-concurrency-preview-5/
+설명: JEP 505, Structured Concurrency,는 JDK 25의 대상 상태에 도달했습니다. 이 개선된 API는 static factory 메서드와 같은 StructuredTaskScope.open()을 통해 병렬 작업 관리를 향상시킵니다. 취소, 관찰성과 하위 작업 생명 주기 처리에 대한 개선이 있으며, 더 명확하고 안전한 코드를 보장합니다. 개발자들은 이 혁신적인 반복에 관심을 가지고 피드백을 제공할 것을 권장합니다.
+#JEP505 #구조화된_동시성 #JDK25 #개선된_API
+#코드_명확성 #안전한_코드 #병렬_작업_관리
+#피드백_제공
+
+Hashtags: #JEP505 #구조화된_동시성 #JDK25 #개선된_API
+#코드_명확성 #안전한_코드 #병렬_작업_관리
+#피드백_제공
+
+13 번째 검색 내용
+제목: 자바 뉴스 요약: OpenJDK JEPs, Hibernate Reactive, Infinispan, JHipster, Gatherers4j
+
+[INST] Translate my sentence into Korean :
+
+                            Java News Roundup: OpenJDK JEPs, Hibernate Reactive, Infinispan, JHipster, Gatherers4j
+                         [/INST]
+주소: https://www.infoq.com/news/2025/05/java-news-roundup-may05-2025/
+설명: Java 주요 뉴스 요약: 2025년 5월 5일, OpenJDK JEPs를 목표로 설정한 JDK 25에 대한 새로운 제안 및 HotSpot-관련 제품을 포함한 첫 번째 릴리즈 кан디데이트의 Hibernate Reactive 3.0; Infinispan 16.0의 개발자 릴리즈와 JHipster 8.11.0, Gatherers4j 0.11.0의 릴리즈입니다.
+#Java #OpenJDK #HibernateReactive #Infinispan
+
+#hashtags: #Java #OpenJDK #HibernateReactive #Infinispan
+
+14 번째 검색 내용
+제목: 깊은 탐색(DeepSeek)이 공개 소스로 제공하는 형식화된 수학 증명을 위한 Prover-V2 LLM 출시
+
+[INST] Translate my sentence into Korean: [/INST]
+깊은 탐색(DeepSeek)이 공개 소스로 제공하는 형식화된 수학 증명을 위한 Prover-V2 LLM 출시
+주소: https://www.infoq.com/news/2025/05/deepseek-prover-v2-formal-proof/
+설명: DeepSeek는 Lean 4에서 형식 증명을 위해 새로운 오픈소스 대규모 자연어 모델인 DeepSeek-Prover-V2를 발표했습니다. 이 모델은 회사의 DeepSeek-V3 기반 모델을 구성하는 재귀적 증명 파이프라인을 기반으로 합니다.
+#DeepSeek #Lean4 #증명 #형식증명
+
+#hashtags: #오픈소스 #자연어모델 #증명기술
+
+15 번째 검색 내용
+제목: QCon 로덴 2025: 서버 없이 데이터베이스를 구축하는 방법
+[INST] QCon London 2025: How to Build a Database without a Server
+주소: https://www.infoq.com/news/2025/05/serverless-database-seaton/
+설명: Alex Seaton, Man Group의 직원 엔지니어, QCon London 2025에서 "데이터베이스를 서버 없이 구축하는 방법"을 발표했습니다. 세톤은 서버 없는 데이터베이스와 Conflict-Free Replicated Data Types(CRDTs)를 사용한 애플리케이션으로 오래된 헤지펀드 거래 시스템 애플리케이션을 마이그레이션하는 방법을 보여줍니다.
+#서버리스데이터베이스 #CRDTs #헤지펀드거래시스템
+
