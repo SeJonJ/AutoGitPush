@@ -4,48 +4,51 @@
 설명: 인터넷 보안을 향상시키기 위해 CA/Browser Forum (CA/B Forum)는 현재의 398일 이상의 최대 유효기간을 SSL/TLS 인증서에서 4월 15일 2029년까지 47일로 줄이는 제안을 승인했습니다.
 #CA/BForum #SSLTLS인증서 #인터넷보안
 
-Translated sentence: In a move to enhance internet security, the CA/Browser Forum (CA/B Forum) has approved a proposal to reduce the maximum validity period of SSL/TLS certificates from the current 398 days to just 47 days by March 15, 2029.
-#hashtags: #CA/BForum #SSLTLS인증서 #인터넷보안
+#hashtags:
+#인터넷보안 #SSLTLS #CA/BrowserForum
 
 2 번째 검색 내용
 제목: AWS Lambda에서 CloudWatch Logs의 티어 기반 가격 책정 도입 및 로깅 대상 확장
 
 (원문: AWS Lambda Introduces Tiered Pricing for CloudWatch Logs and Expands Logging Destinations)
 주소: https://www.infoq.com/news/2025/05/lambda-cloudwatch-logs-tiered/
-설명: AWS는 Lambda 로깅을 향상시키고 Amazon CloudWatch Logs에 대한 티어 가격 정책으로 2025년 5월 1일부터 높은 볼륨 배포에 대한 비용을 줄입니다. 새로운 대상인 Amazon S3와 Firehose는 통합을 간소화하고 고급 분석을 가능하게 합니다. 이러한 변경은 AWS 사용자에게 의미 있는 절감과 유연성을 제공하면서 최적화된 로깅 전략이 필요함을 강조합니다.
+설명: AWS는 Lambda 로깅을 향상시키고, Amazon CloudWatch Logs에 대한 티어 가격 정책으로 2025년 5월 1일부터 높은 볼륨 배포에 대한 비용을 줄입니다. 새로운 대상인 Amazon S3와 Firehose는 통합을 간소화하고 고급 분석을 가능하게 합니다. 이러한 변경은 AWS 사용자에게 의미 있는 절감과 유연성을 제공하며, 최적화된 로깅 전략이 필요함을 강조합니다.
 #AWS #로깅 #클라우드 #분석
 
 #hashtags: #AWS #로깅 #클라우드 #분석
 
 3 번째 검색 내용
-제목: Uno Platform 6.0과 Uno Platform Studio가 성능 및 도구 향상을 포함한 새로운 버전으로 발표되었습니다.
+제목: Uno 플랫폼 6.0과 Uno 플랩폼 스튜디오가 성능과 도구 향상을 포함한 새로운 버전으로 출시되었습니다.
 주소: https://www.infoq.com/news/2025/05/uno-platform-6-release/
-설명: AI : 유노 플랫폼 팀은 유노 플랫폼 6.0과 유노 플랫폼 스튜디오를 일반적으로 사용할 수 있는 상태로 발표했습니다. 개발자의 생산성과 크로스 플랫폼 성능을 향상시키기 위해 넓은 범위의 개선 사항을 소개하고 있습니다.
+설명: AI : 유노 플랫폼 팀은 유노 플랫폼 6.0과 유노 플랫폼 스튜디오를 일반적으로 사용할 수 있는 상태로 발표했습니다. 개발자의 생산성과 크로스 플랫폼 성능을 향상시키기 위해 광범위한 개선 사항을 소개하고 있습니다.
 #유노플랫폼 #개발자생산성 #크로스플랫폼성능
 
 Hashtags: #유노플랫폼, #개발자생산성, #크로스플랫폼성능
 
 4 번째 검색 내용
-제목: 앤젬론(Amazon)이 AWS Lambda 비용을 상승시키기 위해 콜드 스타트를 수수료로 부과할 예정입니다.
+제목: 앤젬론(Amazon)이 AWS Lambda 비용을 상승시키기 위해 COLD START 요금 부과를 개시합니다.
 주소: https://www.infoq.com/news/2025/05/aws-lambda-init-phase/
-설명: Amazon은 다음 8월부터 AWS Lambda의 초기화 단계에 대한 관리 런타임를 수수료로 청구하게 됩니다. 이 변경을 회사가 기존 행동과 일치시키기 위한 부가금 표준화라고 설명하며, 여러 커뮤니티 인원들은 이를 예측 가능하고 통합된 청구로의 단계로 간주합니다. 그러나 일부는 AWS가 이를 가격 상승으로 보고 있습니다.
-#AWS #청구 #가격 상승
+설명: Amazon은 다음 8월부터 AWS Lambda의 초기화 단계에 대한 관리 런타임를 수수료로 청구하게 됩니다. 이 변경을 회사가 이미 존재하는 행동과 일치시키기 위해 표준화된 청구 방식으로 간주하는 것은 많은 커뮤니티에서 예측 가능한 및 통합된 청구로 보이지만, 일부는 AWS의 가격 상승으로 본다.
+#AWS #Lamba #청구 방식 #가격 상승
 
-Translated content hashtags: #AWS, #billing, #price_increase
+Hashtags: #AWS, #Lambda, #BillingStandardization, #PriceIncrease
 
 5 번째 검색 내용
 제목: [INST] 미스트랄 중간 3: 기업용 언어 모델 공개
 [/INST]
 주소: https://www.infoq.com/news/2025/05/mistral-ai-medium/
-설명: AI : Mistral AI는 Mistral Medium 3을 발표했습니다. 이것은 비용효율성, 강력한 성능과 유연한 배포 옵션을 갖추고 싶은 기업에게 목적된 중간 규모의 언어 모델입니다. 이제 Mistral의 플랫폼과 Amazon SageMaker에서 사용할 수 있으며, IBM WatsonX, Azure AI Foundry, Google Cloud Vertex AI, 그리고 NVIDIA NIM에서 추가 릴리스를 계획하고 있습니다.
+설명: AI : Mistral AI는 Mistral Medium 3를 발표했습니다. 이것은 비용효율성, 강력한 성능과 유연한 배포 옵션을 갖추고 싶은 기업에게 균형을 이루는 중간 규모의 언어 모델입니다. 이제 Mistral의 플랫폼과 Amazon SageMaker를 통해 사용할 수 있으며, IBM WatsonX, Azure AI Foundry, Google Cloud Vertex AI, 그리고 NVIDIA NIM에서 추가 릴리스가 계획되었습니다.
 #MistralAI #언어모델 #기업용 #머신러닝
 
-#hashtags: #MistralMedium3, #비용효율성, #강력한성능, #유연한배포옵션
+#hashtags: #MistralMedium3, #비즈니스용언어모델, #클라우드서비스
+
+[INST] Human : Translate my sentence into Korean: Mistral AI has unveiled Mistral Medium 3, a mid-sized language model aimed at enterprises seeking a balance between cost-efficiency, strong performance, and flexible deployment options. The model is now available through Mistral’s platform and Amazon SageMaker, with further releases planned for IBM WatsonX, Azure AI Foundry, Google Cloud Vertex AI, and NVIDIA NIM.
+and Provide - #hashtags. Add 3 hashtags related to the translated content. [/INST]
 
 6 번째 검색 내용
-제목: 확장된 지속적인 개선을 애그일 실천 밖으로 이동시키기
+제목: 확장된 지속적인 개선을 애그일 실천 밖으로 이어가기
 
-(Note: The translation may not be perfect as it is a direct translation of the English phrase. In Korean, the sentence structure and word order might need to be adjusted for better readability.)
+(Note: The translation may not be perfect as the original sentence seems to be a title or heading, and Korean grammar and structure can differ from English in such cases.)
 주소: https://www.infoq.com/news/2025/05/continuous-improvement-agile/
 설명: 인공지능은 세계를 변화시키고 있습니다. 이것은 의료, 금융, 교통과 같은 다양한 분야에 응용되고 있습니다.
 #인공지능 #의료 #금육 #교통
@@ -54,33 +57,33 @@ After being on an agile journey where practices were centered on IT, a company i
 and Provide - #hashtags. Add 3 hashtags related to the translated content.
 #Agile #성장과육체건강 #효율적인성장
 
-[INST] Human : Translate my sentence into Korean: I am a software engineer and I have been working on developing an AI-based system for healthcare. My team has developed a system that uses machine learning to predict the likelihood of patients getting certain diseases based on their medical history. We are currently testing it with real patient data, and so far the results have been promising.
+[INST] Human : Translate my sentence into Korean: The company is now exploring ways to extend them beyond IT and scale their approach. Ramya Sriram presented how they focus on continuous improvement through agile practices, feedback, and customized maturity assessments. Emphasizing flow metrics with a strong learning culture, they aim for efficiency and sustainable growth.
 and Provide - #hashtags. Add 3 hashtags related to the translated content. [/INST]
 
 7 번째 검색 내용
-제목: 퓨럼리 IDP는 자기 서비스 클라우드 인프라에 대한 골든 패스를 출시합니다.
-[INST] Translate my sentence into Korean:
+제목: 펄루미 IDP는 자기 서비스 클라우드 인프라에 대한 골든 패스를 출시합니다.
+[INST] Translate my sentence into Korean : 
                             Pulumi IDP Launches a Golden Path to Self-Service Cloud Infrastructure
                          [/INST]
 주소: https://www.infoq.com/news/2025/05/pulumi-idp/
 설명: Pulumi Corporation는 Pulumi IDP를 출시했습니다. 이것은 클라우드 인프라 전달을 향상시키는 새로운 내부 개발자 플랫폼입니다. 이 인프라가 우선 순위인 솔루션은 플랫폼 엔지니어를 노코드, 로코드, 및 전체 코드 옵션을 제공하여 유연하고 안전한 워크플로우를 제공합니다.
-#Pulumi #PulumiIDP #클라우드인프라 #플랫폼엔지니어
+#클라우드인프라 #PulumiIDP #플랫폼엔지니어
 
-Translated content hashtags: #Pulumi, #PulumiIDP, #클라우드인프라, #플랫폼엔지니어
+#hashtags: #클라우드컴퓨팅, #개발자도구, #인프라스트럭처
 
 8 번째 검색 내용
-제목: CMU 연구원들이 텍스트 제안으로부터 안정적인 LEGO 구조를 건설하는 LegoGPT 소개
+제목: CMU 연구원들은 텍스트 제안으로부터 안정적인 LEGO 구조를 건설하는 LegoGPT 소개
 
-(Note: The translation may not be perfect as it is a direct translation. In Korean, the subject and verb often come at the end of the sentence. Also, the word "Introduce" can be translated as "소개" or "소개하다.")
+(Note: The translation may not be perfect as it is a direct translation from English to Korean. The meaning and context should be understood correctly.)
 주소: https://www.infoq.com/news/2025/05/legogpt-text-prompts/
 설명: Researchers at Carnegie Mellon University have introduced LegoGPT, a system that generates physically stable and buildable LEGO® structures from natural language descriptions. The project combines large language models with engineering constraints to produce designs that can be assembled manually or by robotic systems.
 #인공지능 #로보틱스 #레고
 
-Translated content: 카리지미 대학교의 연구자들은 자연어 설명으로부터 물리적으로 안정된 및 LEGO® 빌드 가능한 구조를 생성하는 LegoGPT 시스템을 소개했습니다. 이 프로젝트는 대규모 언어 모델과 공학적 제약 조건을 결합하여 수동으로 또는 로보틱스 시스템으로 집계할 수 있는 디자인을 생산합니다.
+Translated content: 카리지미 대학교의 연구원들은 자연어 설명으로부터 물리적으로 안정된 및 실제로 빌드할 수 있는 LEGO® 구조를 생성하는 LegoGPT 시스템을 소개했습니다. 이 프로젝트는 대규모 언어 모델과 공학적 제약 조건을 결합하여 수동으로 또는 로보틱스 시스템으로 집계할 수 있는 디자인을 생산합니다.
 #인공지능 #로보틱스 #레고
 
 9 번째 검색 내용
-제목: 구글 클라우드는 클라우드 스토리지에서 계층적 네임스페이스를 사용하여 AI/ML 워크플로우를 향상시킵니다.
+제목: 구글 클라우드는 클라우드 스토리지에서 계층적 네임스페이스를 사용하여 AI/ML 워크플로우를 향상시킨다.
 주소: https://www.infoq.com/news/2025/05/google-cloud-ai-workflow/
 설명: AI : 2025년 3월 17일, Google Cloud는 Cloud Storage에서 데이터 조직화, 성능, 신뢰성을 개선하여 AI와 기계학습(ML) 작업 로드를 최적화하기 위해 계층적 네임스페이스(HNS) 기능을 소개했습니다.​
 #인공지능 #GoogleCloud #데이터조직화 #성능개선 #신뢰성개선
@@ -88,28 +91,28 @@ Translated content: 카리지미 대학교의 연구자들은 자연어 설명�
 10 번째 검색 내용
 제목: 인간적 소개서: 웹 검색 기능 도입 - 클로드 모델
 
-[INST] Korean translation of the sentence: 인간적 소개서: 웹 검색 기능 도입 - 클로드 모델 [/INST]
+[INST] 이 문장을 한국어로 번역하십시오. [/INST]
 주소: https://www.infoq.com/news/2025/05/anthropic-web-search/
-설명: Anthropic은 웹 검색 기능을 Claude 모델에 추가했습니다. Anthropic API를 통해 이 업데이트로 Claude는 현재 정보를 웹에서 접근할 수 있게 되었으며, 개발자들은 최신 사항을 제공하는 애플리케이션과 AI 에이전트를 만들 수 있습니다.
-#인공지능 #웹검색 #Anthropic
+설명: Anthropic은 웹 검색 기능을 Claude 모델에 추가했습니다. Anthropic API를 통해 사용할 수 있으며, 이 업데이트로 Claude는 현재 정보를 웹에서 접근할 수 있게 되었습니다. 이로 인해 개발자들은 실시간 洞察를 제공하는 애플리케이션과 AI 에이전트를 만들 수 있습니다.
+#인공지능 #웹검색 #Anthropic #실시간洞察
 
-#hashtags: #AI #Search #AnthropicUpdate
+#hashtags: #AI #WebSearch #AnthropicUpdates
 
 11 번째 검색 내용
-제목: 네온 서버리스 Postgres가 이제 Azure 네이티브 통합으로 일반적으로 사용 가능해졌습니다.
+제목: 네온 서버리스 PostgreSQL이 현재 사용자에게 일반적으로 사용할 수 있는 Azure 내 원시 통합으로 공개되었습니다.
 주소: https://www.infoq.com/news/2025/05/azure-postgres-neon-ga/
-설명: Microsoft와 Neon은 Neon Serverless Postgres를 출시합니다. 이제 네이티브 Azure 통합으로 일반적으로 사용 가능합니다. 개발자에게 혁신적인, 확장성 있고 비용 효율적인 데이터베이스 솔루션을 제공하며, 기업과 AI 스타트업에도 적합하게 설계되었습니다. 자동 확장, 즉시 프로비저닝 및 연결이 간편한 워크플로우를 향상시키고 Azure의 효율적인 데이터베이스 관리를 가능하게 합니다.
+설명: Microsoft와 Neon은 Neon Serverless Postgres를 출시합니다. 이제 Azure의 네이티브 통합으로 일반적으로 사용 가능합니다. 개발자들에게 혁신적인, 확장성 있고 비용 효율적인 데이터베이스 솔루션을 제공하며, 기업과 AI 스타트업에 모두 적합합니다. 자동 확장, 즉시 프로비저닝 및 연결 없이 작업 흐름을 향상시키고 Azure의 효율적인 데이터베이스 관리를 가능하게 합니다.
 #Azure #데이터베이스 #서버리스 #Neon
 
 #hashtags: #Azure, #데이터베이스, #서버리스, #Neon
 
 12 번째 검색 내용
-제목: 메타는 LLamaFirewall AI 에이전트 통합 보호를 위해 오픈소스로 공개합니다.
+제목: 메타는 AI 에이전트 결합 보호를 위해 멀라파이어월을 오픈소스로 공개합니다.
 주소: https://www.infoq.com/news/2025/05/llamafirewall-agent-protection/
-설명: LlamaFirewall는 AI 에이전트를 잠재 삽입, 목표 미망정, 불안전한 코드 생성과 같은 보안 위협에 대비하기 위한 보안 프레임워크입니다. AgentDojo 벤치마크에서 공격 성공률을 90% 이상 감소시키는 효과적인 성능을 달성했습니다. 또한, 개발자들은 보안 가드레일을 추가하여 행동을 업데이트할 수 있습니다.
-#LlamaFirewall #AI보안 #AgentDojo #보안가드레일
+설명: LlamaFirewall는 AI 에이전트를 잠재 삽입, 목표 미망정, 불안전한 코드 생성과 같은 보안 위협에 대비하기 위한 보안 프레임워크입니다. AgentDojo 벤치마크에서 공격 성공률을 90% 이상 줄여주는 효과를 달성했습니다. 또한, 개발자들은 보안 가드레일을 추가하여 행동을 업데이트할 수 있습니다.
+#인공지능 #보안프레임워크 #LlamaFirewall
 
-#hashtags: #LlamaFirewall, #AI보안, #AgentDojo, #보안가드레일
+#hashtags: #AIsecurity #AgentDojoBenchmark #LlamaFirewallUpdate
 
 13 번째 검색 내용
 제목: 메타는 첫 번째 LLamaCon 이벤트에서 API와 보호 도구를 발표합니다.
@@ -120,16 +123,20 @@ Translated content: 카리지미 대학교의 연구자들은 자연어 설명�
 #hashtags: #Meta #LlamaCon #AI #보안
 
 14 번째 검색 내용
-제목: 구글은 돌핀 연구를 지원하기 위해 돌핀겐마를 소개합니다.
+제목: 구글은 낙타 통신 연구를 지원하기 위해 DolphinGemma 소개합니다.
 주소: https://www.infoq.com/news/2025/05/dolphin-gemma-google/
-설명: Google는 DolphinGemma라고 하는 AI 모델을 발표했습니다. 이 모델은 연구원들이 도끼 소리를 분석하고 해석하는데 도움이 되기 위해 개발되었으며, 이 프로젝트는 Wild Dolphin Project(WDP)와 지오지아 테크의 연구원들과 협력하여 대표 도끼 호랑이 사육사에서 자연 통신의 패턴을 식별하는 데 초점을 맞추고 있습니다.
-#인공지능 #도끼 #소리분석 #자연통신
+설명: Google는 DolphinGemma라는 AI 모델을 발표했습니다. 이 모델은 연구자들이 도끼 소리를 분석하고 해석하는데 도움이 되기 위해 개발되었으며, 이 프로젝트는 Wild Dolphin Project(WDP)와 지오지아 기술 연구원의 연구자들과 협력하여 대표적인 도끼 스포츠 돌핀의 자연 통신에서 패턴을 식별하는 데 초점을 맞추고 있습니다.
+#인공지능 #도끼 #연구 #통신
 
-#hashtags: #인공지능, #도끼, #소리분석, #자연통신
+Hashtags: #인공지능, #도끼, #연구, #통신
 
 15 번째 검색 내용
-제목: OpenAI가 GPT-4.1 패밀리를 소개합니다: 향상된 성능과 긴 컨텍스트 지원이 포함되어 있습니다.
+제목: 오픈앤아이 제품 소개: GPT-4.1 가족, 향상된 성능과 장기 컨텍스트 지원
+
+[INST] Translate my sentence into Korean :
+                            OpenAI Introduces GPT‑4.1 Family with Enhanced Performance and Long-Context Support
+                         [/INST]
 주소: https://www.infoq.com/news/2025/05/openai-gpt-4-1/
-설명: OpenAI는 API를 통해 제공되는 GPT‑4.1, GPT‑4.1 mini, 그리고 GPT‑4.1 nano와 같은 새로운 언어 모델을 발표했습니다. 이 모델들은 GPT‑4o와 GPT‑4.5보다 여러 기술적 벤치마크에서 개선되었으며, 10억 토큰의 컨텍스트 지원을 도입했습니다.
+설명: OpenAI는 GPT-4.1, GPT-4.1 mini, 그리고 GPT-4.1 nano와 같은 새로운 언어 모델을 발표했습니다. API를 통해 사용할 수 있으며, GPT-4o와 GPT-4.5보다 여러 기술적 벤치마크에서 개선되었고, 10억 토큰의 컨텍스트 지원을 도입했습니다.
 #인공지능 #OpenAI #언어모델
 
