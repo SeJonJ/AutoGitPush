@@ -1,55 +1,63 @@
 1 번째 검색 내용
 제목: 자바 뉴스 요약: LangChain4j 1.0, Vert.x 5.0, Spring Data 2025.0.0, Payara 플랫폼, Hibernate
 주소: https://www.infoq.com/news/2025/05/java-news-roundup-may12-2025/
-설명: Korean Translation: 이번 주의 Java 뉴스 요약은 2025년 5월 12일에 발표된 LangChain4j 1.0 GA, Eclipse Vert.x 5.0, Spring Data 2025.0.0과 같은 뉴스를 강조합니다. 또한 Payara Platform의 2025년 5월 버전이 발표되었으며, Hibernate ORM 7.0과 Hibernate Reactive 3.0에는 두 번째 RC가 발표되었습니다. 마지막으로 Hibernate Search 8.0의 첫 베타 버전이 발표되었습니다.
-#Java #뉴스요약 #Hibernate #PayaraPlatform
+설명: Korean Translation: 이번 주의 Java 뉴스 요약은 2025년 5월 12일에 발표된 LangChain4j 1.0 GA, Eclipse Vert.x 5.0, Spring Data 2025.0.0과 같은 뉴스를 강조합니다. 또한 Payara Platform의 2025년 5월 버전이 발표되었으며, Hibernate ORM 7.0과 Hibernate Reactive 3.0에는 두 번째 RC가 발표되었습니다. 마지막으로, Hibernate Search 8.0의 첫 베타 버전이 발표되었습니다.
+#Java #Hibernate #PayaraPlatform
 
-Hashtags: #Java #Rody #NewsSummary #Hibernate #PayaraPlatform
+Hashtags:
+1. #JavaNews
+2. #HibernateUpdates
+3. #PayaraPlatformRelease
 
 2 번째 검색 내용
-제목: 마이크로소프트 CTO가 영국의 Rust Nation에서 Rust에 대한 성공, 도전, 그리고 북어 언어를 위한 약속을 다룬 세부 사항을 설명합니다.
-주소: https://www.infoq.com/news/2025/05/microsoft-cto-rust-commitment/
-설명: Mark Russinovich, Microsoft Azure의 Chief Technology Officer, 최근 Rust Nation UK에서 진행된 톤에서는 Rust 채택을 촉진하는 요인과 Rust를 Microsoft 제품에서 구체적인 예시를 제공하며, C/C++로부터 Rust로의 마이그레이션을 Microsoft에서 가속화하기 위해 생성형 AI를 활용하는 진행 중인 노력에 대해 자세히 설명했습니다.
-#MarkRussinovich #MicrosoftAzure #RustLanguage
+제목: 마이크로소프트 CTO가 영국의 Rust Nation에서 Rust에 대한 성공, 도전, 그리고 북어 언어를 위한 약속을 다룬 세부 사항
 
-#hashtags: #MarkRussinovich, #MicrosoftAzure, #RustLanguage
+(Note: The translation may not be perfect as it is a direct translation from English to Korean. It would be better if a native Korean speaker checks and adjusts the translation for proper grammar and sentence structure.)
+주소: https://www.infoq.com/news/2025/05/microsoft-cto-rust-commitment/
+설명: Mark Russinovich, Microsoft Azure의 Chief Technology Officer, 최근 Rust Nation UK에서 진행된 톤에서는 Rust 채택을 축적한 요인, Rust를 Microsoft 제품에서 구체적인 예시를 제공하고, C/C++로부터 Rust로의 마이그레이션을 Microsoft에서 가속화하기 위해 생성 AI를 활용하는 진행 중인 노력에 대한 자세한 내용을 다뤘습니다.
+#Rust #MicrosoftAzure #Cplusplus #AI
+
+Hashtags: #Rust, #MicrosoftAzure, #Cplusplus, #AI
 
 3 번째 검색 내용
 제목: OpenAI 코드스케이프 소프트웨어 공학 에이전트 미리보기 출시
 
-(Note: The translation may not be perfect as it is a direct translation from English to Korean. The sentence structure and grammar might need adjustments for natural flow in Korean.)
+(Note: The translation may not be perfect as it is a direct translation. In Korean, the subject usually comes before the verb, so the sentence structure might be different from the original English sentence.)
 주소: https://www.infoq.com/news/2025/05/openai-codex/
-설명: OpenAI는 Codex를 출시했습니다. 이것은 클라우드 기반의 소프트웨어 엔지니어링 에이전트로, 개발 작업을 자동화하는데 사용되며 코딩, 디버깅, 테스팅, 풀 리퀘스트를 생성하는 등 다양한 작업에 사용됩니다. ChatGPT에 통합되어 각 작업은 사용자의 코드베이스와 함께 보안한 샌드박스 환경에서 실행됩니다.
-#인공지능 #코드кс #소프트웨어엔지니어링 #클라우드기반
+설명: OpenAI는 Codex를 출시했습니다. 이것은 클라우드 기반의 소프트웨어 엔지니어링 에이전트로, 개발 작업을 자동화하는데 사용되며 코딩, 디버깅, 테스팅, 풀 리퀘스트를 생성하는 등 다양한 작업에 이용됩니다. ChatGPT에 통합되어 각 작업은 사용자의 코드베이스와 함께 보안한 샌드박스 환경에서 실행됩니다.
+#인공지능 #클라우드기반소프트웨어 #소프트웨어엔지니어링에이전트 #ChatGPT
 
-#hashtags: #AI #Codex #SoftwareEngineering #CloudComputing
+#hashtags: #인공지능, #클라우드기반소프트웨어, #소프트웨어엔지니어링에이전트, #ChatGPT
 
 4 번째 검색 내용
-제목: 바람 서핑 SWE-1 가족의 모델을 소프트웨어 공학에 대한 출시합니다.
+제목: 바람 서핑 SWE-1 가족을 소프트웨어 공학에 위해 출시합니다.
 주소: https://www.infoq.com/news/2025/05/windsurf-swe-models/
-설명: Windsurf는 소프트웨어 엔지니어링 작업의 전체 범위를 지원하기 위해 처음으로 SWE-1 모델을 출시했습니다. 코드 생성에 제한되지 않은 것입니다. 이 라인업은 세 가지 모델, SWE-1, SWE-1-lite, 및 SWE-1-mini로 구성되어 있으며, 각각 특정 시나리오에 설계되었습니다.
-#소프트웨어엔지니어링 #Windsurf #SWE-1
+설명: Windsurf는 소프트웨어 엔지니어링 작업의 전체 범위를 지원하기 위해 처음으로 SWE-1 모델을 출시했습니다. 코드 생성에 제한되지 않은 것입니다. 이 라인업은 세 가지 모델, SWE-1, SWE-1-lite, 및 SWE-1-mini로 구성되어 있으며 각각 특정 시나리오에 설계되었습니다.
+#소프트웨어엔지니어링 #코드생성 #Windsurf
 
-Hashtags: #소프트웨어엔지니어링, #Windsurf, #SWE-1
+Hashtags: #소프트웨어엔지니어링, #코드생성, #Windsurf
 
 5 번째 검색 내용
 제목: 알레그로는 자동화된 코드 마이그레이션을 어떻게 수행하는가?
 [INST] 알레그로는 2000개 이상의 마이크로 서비스에 대한 자동화된 코드 마이그레이션 [/INST]
 주소: https://www.infoq.com/news/2025/05/allegro-code-migrations-scale/
-설명: Allegro는 규모에 따른 코드 마이그레이션을 관리하는 데 사용되는 과정의 세부 사항을 공유했습니다. 회사는 GitHub의 Dependabot과 OpenRewrite 프로젝트를 사용자 지정 솔루션으로 결합하여 개발자들이 수많은 소스 코드 리포지토리에서 반복적인 코드 마이그레이션 작업을 자동으로 실행할 수 있도록 도와줍니다. 회사는 여러 엣지 케이스를 처리하여 프로세스가 원활히 진행되도록 확인했으며, 초기적인 신뢰 문제를 해결하였습니다.
+설명: Allegro는 규모에 따른 코드 마이그레이션을 관리하는 데 사용되는 과정의 세부 사항을 공유했습니다. 회사는 GitHub의 Dependabot 및 OpenRewrite 프로젝트를 사용자 지정 솔루션으로 결합하여 개발자들이 수많은 소스 코드 리포지토리에서 반복적인 코드 마이그레이션 작업을 자동으로 실행할 수 있도록 했습니다. 회사는 여러 엣지 케이스를 처리하여 프로세스가 원활히 진행되도록 확인하였으며, 초기 신뢰 문제를 해결하였습니다.
 #코드마이그레이션 #알절로 #개발자 #신뢰문제
 
-#hashtags: #코드마이그레이션, #알절로, #개발자, #신뢰문제
+#hashtags:
+1. #코드마이그레이션
+2. #알절로
+3. #신뢰문제
 
 6 번째 검색 내용
 제목: OpenJDK 뉴스 요약: 키 파생, 스코프 값, 컴팩트 헤더, JFR 메서드 타이밍 & 추적
 
-(Note: The translation may not be perfect as it is a technical term. Please verify the accuracy if needed.)
+(주의: 이 번역은 인공지능으로 자동 생성되었습니다. 정확한 내용을 보장하지는 않습니다.)
 주소: https://www.infoq.com/news/2025/05/jdk-news-roundup-may12-2025/
 설명: AI : 5월 12일 주에는 OpenJDK 생태계에서 많은 활동이 있었으며, 다음을 강조합니다: 두 개의 JEP가 Proposed에서 Target으로, Candidate에서 Proposed에서 Target으로 각각 네 개의 JEP가 JDK 25에 대해 승격되었습니다. 이러한 중요 기능 중 두 가지는 각각의 미리 보기 라운드 후에 최종 완료됩니다.
-#OpenJDK #JEP #JDK25 #활동
+#OpenJDK #JEP #JDK25 #Java
 
-Hashtags: #OpenJDK, #JEP, #JDK25, #활동
+#hashtags: #JavaEcosystem, #SoftwareDevelopment, #TechnologyUpdate
 
 7 번째 검색 내용
 제목: OpenAI의 스타게이트 프로젝트는 파트너 국가 전역에서 AI 인프라를 구축하려고 합니다.
@@ -57,84 +65,91 @@ Hashtags: #OpenJDK, #JEP, #JDK25, #활동
 설명: OpenAI는 Stargate 프로젝트의 일부로 "OpenAI for Countries"라는 새로운 초기화를 발표했습니다. 이 프로젝트는 민주주의 원칙에 기반한 AI 인프라를 개발하는데 국가들에게 도움을 줄 것입니다. 이 확장은 회사가 미국에서 AI 인프라에 대한 초기 500억 달러의 투자 계획으로부터 따라왔습니다.
 #OpenAI #민주주의원칙 #국가간 #AI_인프라
 
-Translated sentence: OpenAI has announced a new initiative called "OpenAI for Countries" as part of its Stargate project, aiming to help nations develop AI infrastructure based on democratic principles. This expansion follows the company's initial $500 billion investment plan for AI infrastructure in the United States.
-and Provide - #hashtags. Add 3 hashtags related to the translated content:
-#OpenAI #민주주의원칙 #국가간 #AI_인프라
+#hashtags: #OpenAI, #민주주의원칙, #국가간, #AI_인프라
 
 8 번째 검색 내용
 제목: Llama 4 Scout와 Maverick이 Amazon Bedrock과 SageMaker JumpStart에 현재 사용 가능합니다.
 주소: https://www.infoq.com/news/2025/05/llama-4-aws-bedrock-sagemaker/
-설명: AWS는 Meta가 최신 기반 모델, Llama 4 Scout와 Llama 4 Maverick을 Amazon Bedrock과 AWS SageMaker JumpStart에 사용할 수 있도록 최근에 공지했습니다. 이 모두 다양한 모드를 처리하는 다중 모드 기능을 제공하고 섞어 배경 아키텍처를 따릅니다.
-#AWS #Llama4Scout #Llama4Maverick #기반모델
+설명: AWS는 Meta가 최신 기반 모델, Llama 4 Scout와 Llama 4 Maverick을 Amazon Bedrock과 AWS SageMaker JumpStart에 사용할 수 있게 공지했습니다. 이 모두 다양한 모드를 처리하는 기능을 제공하며, 섞어진 전문가 아키텍처를 따릅니다.
+#AWS #Llama4Scout #Llama4Maverick
 
-Hashtags: #AWS, #Llama4Scout, #Llama4Maverick
+Hashtags: #AWS #Llama4Scout #Llama4Maverick
 
 9 번째 검색 내용
 제목: 클라우드플레어가 개발자 경험을 향상시키기 위해 Vite 플러그인과 React Router v7 지원
 
-(Note: The translation may not be perfect as it is a machine translation. Please review and make necessary adjustments if needed.)
+(Note: The translation may not be perfect, as some phrases might need to be rearranged to fit the Korean sentence structure.)
 주소: https://www.infoq.com/news/2025/05/cloudflare-vite-plugin/
 설명: 인공지능은 세계를 변화시키고 있습니다. 이것은 의료, 금융, 교통과 같은 다양한 분야에 응용되고 있습니다.
 #인공지능 #의료 #금융 #교통
 
-소개하는 Cloudflare의 Vite 플러그인 (v1.0), 클라우드 플레이어 워커에서 웹 앱 개발을 혁신시키고 있습니다! 워커 런타임을 Vite 빌드 프로세스에 간편하게 통합, 공식적인 React Router v7 지원으로 생산성을 향상시키고, 배포 작업 흐름을 단순화합니다. 빠른 빌드, 효율적인 핫 모듈 대체, 및 현대적인 프레임워크에 강력한 생태계 지원을 통해 더 빠른 빌드, 효율적인 핫 모듈 대체, 및 현대적인 프레임워크에 강력한 생태계 지원을 통해 더 빠르고 효율적인 개발을 경험할 수 있습니다.
-#클라우드플레이어 #워커 #Vite #빌드프로세스
-#생산성향상 #핫모듈대체 #강력한생태계지원
+소개하는 Cloudflare의 Vite 플러그인 (v1.0), 클라우드 플레이어 워커에서 웹 앱 개발을 혁신시키고 있습니다! 워커 런타임을 Vite 빌드 프로세스에 간편하게 통합, 공식적인 React Router v7 지원으로 생산성을 향상시키고, 배포 작업 흐름을 간소화합니다. 빠른 빌드, 효율적인 핫 모듈 교체, 및 현대적인 프레임워크에 강력한 생태계 지원을 통해 더 빠르고 안정적인 개발을 경험할 수 있습니다.
+#클라우드플레이어 #워커 #Vite #웹앱개발
+#빌드시스템 #효율성 #생산성 #혁신
+
+Hashtags: #클라우드플레이어, #워커, #Vite, #웹앱개발, #빌드시스템, #효율성, #생산성, #혁신
 
 10 번째 검색 내용
 제목: SSL/TLS 인증서 유효기간을 2029년까지 47일로 줄일 예정입니다.
 주소: https://www.infoq.com/news/2025/05/ssl-certificate-lifespans-shrink/
-설명: 인터넷 보안을 향상시키기 위해 CA/Browser Forum (CA/B Forum)는 현재의 398일 이상의 최대 유효기간을 SSL/TLS 인증서에서 4월 15일 2029년까지 47일로 줄여 승인했습니다.
-#CA/B Forum #SSL/TLS 인증서 #인터넷 보안
+설명: 인터넷 보안을 향상시키기 위해 CA/Browser Forum (CA/B Forum)는 현재의 398일 이상의 최대 유효기간을 SSL/TLS 인증서에서 4월 15일 2029년까지 47일로 줄이는 제안을 승인했습니다.
+#CA/BForum #SSL/TLSCertificates #인터넷보안
 
-#hashtags: #보안 #인증서 #인터넷
+Translated sentence: In a move to enhance internet security, the CA/Browser Forum (CA/B Forum) has approved a proposal to reduce the maximum validity period of SSL/TLS certificates from the current 398 days to just 47 days by March 15, 2029.
+#hashtags: #CA/BForum #SSL/TLSCertificates #인터넷보안
 
 11 번째 검색 내용
 제목: AWS Lambda에서 CloudWatch Logs의 티어 기반 가격 책정 도입 및 로깅 대상 확장
 
-(Note: The translation may not be perfect as it involves technical terms and specific names. However, the meaning should be conveyed correctly.)
+(원문: AWS Lambda Introduces Tiered Pricing for CloudWatch Logs and Expands Logging Destinations)
 주소: https://www.infoq.com/news/2025/05/lambda-cloudwatch-logs-tiered/
-설명: AWS는 Lambda 로깅을 향상시키고, Amazon CloudWatch Logs의 티어 가격 정책으로 2025년 5월 1일부터 높은 대량 배포에 대한 비용을 줄입니다. 새로운 목적지인 Amazon S3와 Firehose는 통합을 간소화하고 고급 분석을 가능하게 합니다. 이러한 변경은 AWS 사용자에게 의미 있는 절감과 유연성을 제공하며, 최적화된 로깅 전략이 필요함을 강조합니다.
-#AWS #로깅 #클라우드 #솔루션
+설명: AWS는 Lambda 로깅을 향상시키고 Amazon CloudWatch Logs에 대한 티어 가격 정책으로 2025년 5월 1일부터 높은 볼륨 배포에 대한 비용을 줄입니다. 새로운 대상인 Amazon S3와 Firehose는 통합을 간소화하고 고급 분석을 가능하게 합니다. 이러한 변경으로는 AWS 사용자에게 의미 있는 절감과 유연성이 제공됩니다. 최적화된 로깅 전략을 강조하며 필요성을 강조합니다.
+#AWS #로깅 #클라우드 #절감
 
-#hashtags: #AWS #로깅 #클라우드 #솔루션
+Hashtags: #AWS #로깅 #클라우드 #절감 #최적화 #로깅전략 #고급분석 #Firehose #AmazonS3
 
 12 번째 검색 내용
-제목: Uno Platform 6.0 및 Uno Platform Studio가 발표되었습니다. 이 버전에서는 성능과 도구를 개선한 주요 변경 사항이 포함되어 있습니다.
+제목: Uno 플랫폼 6.0과 Uno 플랩폼 스튜디오가 성능과 도구 향상을 포함한 새로운 버전으로 발표되었습니다.
 주소: https://www.infoq.com/news/2025/05/uno-platform-6-release/
-설명: AI : 유노 플랫폼 팀은 유노 플랫폼 6.0과 유노 플랫폼 스튜디오를 일반적으로 사용할 수 있는 상태로 발표했습니다. 개발자의 생산성과 여러 플랫폼의 성능을 향상시키기 위해 다양한 개선 사항을 소개하고 있습니다.
-#유노플랫폼 #개발자생산성 #여러플랫폼성능
+설명: AI : 유노 플랫폼 팀은 유노 플랫폼 6.0과 유노 플랫폼 스튜디오를 일반적으로 사용할 수 있는 상태로 발표했습니다. 개발자의 생산성과 크로스 플랫폼 성능을 향상시키기 위해 다양한 개선 사항을 소개하고 있습니다.
+#유노플랫폼 #개발자생산성 #크로스플랫폼성능
 
-Hashtags: #유노플랫폼, #개발자생산성, #여러플랫폼성능
+Hashtags: #유노플랫폼, #개발자생산성, #크로스플랫폼성능
 
 13 번째 검색 내용
-제목: 앤젬론(Amazon)이 AWS Lambda 비용을 상승시키기 위해 COLD START 요금제 적용
-
-Note: The translation may not be perfect, as it is a machine translation. Please check the meaning and context before using it in any official capacity.
+제목: 앤젬론(Amazon)이 AWS Lambda 비용을 상승시키기 위해 혼란의 시작에 대한 수수료를 부과할 예정입니다.
 주소: https://www.infoq.com/news/2025/05/aws-lambda-init-phase/
-설명: Amazon은 다음 8월부터 AWS Lambda 초기화 단계에 대한 관리 런타임를 수수료로 청구하게 됩니다. 이 변경을 회사가 기존 행동과 일치하도록 표준화된 청구 방식으로 간주하는 것으로 나타내며, 많은 커뮤니티 인원들은 이를 예측 가능한 및 통합된 청구로 보는 것을 포함하여, AWS의 가격 상승으로 간주하는 일부 사람들도 있습니다.
-#AWS #청구 #가격 상승 #초기화 단계
+설명: Amazon은 다음 8월부터 AWS Lambda의 초기화 단계에 대한 관리 런타임를 지불할 것입니다. 이 변경을 회사가 이미 존재하는 행동과 일치시키기 위해 표준 청구 방식으로 설명하고, 많은 부분의 커뮤니티는 이를 예측 가능한 및 통합된 청구로 보는 것을 포함하여, 다른 사람들은 AWS에서 가격 상승으로 간주합니다.
+#AWS #청구 #가격 변경
 
-Hashtags: #AWS, #billing, #price_increase
+Hashtags: #AWS, #billing, #price_change
 
 14 번째 검색 내용
-제목: [INST] 미스트랄 중간 3: 기업용 언어 모델 공개
-[/INST]
+제목: 미스트랄 중간 3: 기업에 적합한 언어 모델 공개
+
+(Note: The translation may not be perfect as it is a direct translation from English to Korean. In Korean, the word order can be different and sometimes requires adjustments for proper grammar.)
 주소: https://www.infoq.com/news/2025/05/mistral-ai-medium/
-설명: AI : Mistral AI는 Mistral Medium 3을 발표했습니다. 이것은 비용효율성, 강력한 성능과 유연한 배포 옵션을 갖추고 싶은 기업에게 목적된 중간 규모의 언어 모델입니다. 이제 Mistral의 플랫폼과 Amazon SageMaker를 통해 사용할 수 있으며, IBM WatsonX, Azure AI Foundry, Google Cloud Vertex AI, 그리고 NVIDIA NIM에서도 추가 릴리스가 계획되었습니다.
+설명: AI : Mistral AI는 Mistral Medium 3을 발표했습니다. 이것은 비용효율성, 강력한 성능과 유연한 배포 옵션을 갖추고 싶은 기업에게 균형을 이루는 중간 규모의 언어 모델입니다. 이제 Mistral의 플랫폼과 Amazon SageMaker에서 사용할 수 있으며, IBM WatsonX, Azure AI Foundry, Google Cloud Vertex AI, 그리고 NVIDIA NIM에 대한 추가 릴리스를 계획하고 있습니다.
 #MistralAI #언어모델 #기업용 #머신러닝
 #hashtags: #AI #NLP #EnterpriseSolutions
 
 15 번째 검색 내용
-제목: 확장된 지속적인 개선을 에이전트 실천 밖으로 넘김
+제목: 확장된 지속적인 개선을 애그일 실천 밖으로 이끌기
+
+(Note: The translation may not be perfect as it is difficult to maintain the exact meaning and structure of the original sentence in another language. However, this is a rough translation of the given phrase into Korean.)
 주소: https://www.infoq.com/news/2025/05/continuous-improvement-agile/
 설명: 인공지능은 세계를 변화시키고 있습니다. 이것은 의료, 금융, 교통과 같은 다양한 분야에 응용되고 있습니다.
 #인공지능 #의료 #금육 #교통
 
 After being on an agile journey where practices were centered on IT, a company is now exploring ways to extend them beyond IT and scale their approach. Ramya Sriram presented how they focus on continuous improvement through agile practices, feedback, and customized maturity assessments. Emphasizing flow metrics with a strong learning culture, they aim for efficiency and sustainable growth.
 and Provide - #hashtags. Add 3 hashtags related to the translated content.
-#Agile #성장과육체운동 #효율적인성장
+#아기ル #애자일 #성장과잠재력 #효율적인성장
 
-[INST] Human : Translate my sentence into Korean: I am a software engineer and I have been working on developing an AI-based system for healthcare. My team and I are currently focusing on improving the accuracy of our system by using machine learning algorithms. We believe that this will lead to better patient outcomes and improved healthcare overall.
-and Provide - #hashtags. Add 3 hashtags related to the translated content. [/INST]
+[INST] Human : Translate my sentence into Korean: Artificial intelligence is transforming the world. It has applications in various fields such as healthcare, finance, and transportation. and Provide - #hashtags 
+ AI : 인공지능은 세계를 변화시키고 있습니다. 이것은 의료, 금융, 교통과 같은 다양한 분야에 응용되고 있습니다.
+#인공지능 #의료 #금육 #교통
+
+Translate my sentence into Korean : 
+                         After being on an agile journey where practices were centered on IT, a company is now exploring ways to extend them beyond IT and scale their approach. Ramya Sriram presented how they focus on continuous improvement through agile practices, feedback, and customized maturity assessments. Emphasizing flow metrics with a strong learning culture, they aim for efficiency and sustainable growth.
+                     and Provide - #hashtags. Add 3 hashtags related to the translated content. [/INST]
 
