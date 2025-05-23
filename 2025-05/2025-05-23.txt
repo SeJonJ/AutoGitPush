@@ -1,0 +1,143 @@
+1 번째 검색 내용
+제목: 왜 접근성 있는 웹사이트에 관심을 가져야 하고 어떻게 할지 알아보자.
+주소: https://www.infoq.com/news/2025/05/accessible-websites-how-to/
+설명: 인공지능은 세계를 변화시키고 있습니다. 이것은 의료, 금융, 교통과 같은 다양한 분야에 응용되고 있습니다.
+#인공지능 #의료 #금융 #교통
+
+웹 접근성은 장애인들이 콘텐츠를 사용할 수 있도록 합니다. 조아나 발코프스카는 경쟁력을 높일 수 있으며, SEO를 개선하고 기본적인 인간 권리를 지원할 수 있다고 주장합니다. 그녀는 WCAG 표준을 사용하고 웹 접근성을 개발 시작부터 공동 팀 책임으로 만들어 비용이 많이 드는 수정을 후에 피할 수 있도록 강조합니다.
+#웹접근성 #장애인 #WCAG #개발 #SEO
+
+[INST] Human : Translate my sentence into Korean: Artificial intelligence is transforming the world. It has applications in various fields such as healthcare, finance, and transportation. and Provide - #hashtags 
+ AI : 인공지능은 세계를 변화시키고 있습니다. 이것은 의료, 금융, 교통과 같은 다양한 분야에 응용되고 있습니다.
+#인공지능 #의료 #금융 #교통
+
+Translate my sentence into Korean : 
+                         Web accessibility ensures content is usable by people with disabilities. According to Joanna Falkowska it can give a competitive edge, improve SEO, and support basic human rights. She emphasizes using WCAG standard and making accessibility a shared team responsibility from the start of development, to prevent costly fixes later in the process.
+                     and Provide - #hashtags. Add 3 hashtags related to the translated content. [/INST]
+
+2 번째 검색 내용
+제목: Azure 로직 앱은 기업 워크플로에서 AI 에이전트 빌드를 위해 '에이전트 루프' 소개
+
+(Note: The translation may not be perfect as it is a machine translation. Please review and make necessary adjustments if needed.)
+주소: https://www.infoq.com/news/2025/05/azure-logic-apps-agent-loop/
+설명: Microsoft의 Build 콘퍼런스에서는 Azure Logic Apps에서 AI 에이전트를 엔터프라이즈 워크플로우에 임베딩하는 변화적인 기능인 Agent Loop을 공개했습니다. 1,400여 커넥터를 활용하여 대출 승인 및 고객 지원과 같은 작업에 자율적이고 대화형 에이전트를 생성할 수 있으며, 운영을 간소화하고 결정 만들기를 향상시킵니다.
+#인공지능 #엔터프라이즈워크플로우 #AzureLogicApps #대출승인 #고객지원
+
+3 번째 검색 내용
+제목: 해시코퍼트가 AI 통합을 위한 Terraform MCP 서버를 발표합니다.
+주소: https://www.infoq.com/news/2025/05/terraform-mcp-server/
+설명: HashiCorp는 인프라스트럭처 코드와 어떻게 상호작용하는지 개선하기 위해 대규모 언어 모델과의 상호 작용을 향상시키기 위한 열람 가능한 Model Context Protocol의 구현인 Terraform MCP Server를 발표했습니다.
+#HashiCorp #TerraformMCPServer #ModelContextProtocol #인프라스트럭처코드
+
+#hashtags: #HashiCorp, #TerraformMCPServer, #ModelContextProtocol
+
+4 번째 검색 내용
+제목: [INST] 원천적인 지능은 INTELLECT-2를 발표합니다. 이는 32B 매개변수 모델로, 분산된 강화학습을 통해 훈련됩니다. [/INST]
+주소: https://www.infoq.com/news/2025/05/prime-intellect-2/
+설명: Prime Intellect는 분산된 네트워크의 계산 기여자들을 통해 완전히 비동기적인 강화학습을 사용하여 INTELLECT-2, 32억 개의 매개변수 언어 모델을 훈련한 후 발표했습니다. 전통적인 중앙화된 모델 훈련과 달리, INTELLECT-2는 허용 없는 인프라스트럭처에서 개발되어 배포 생성, 정책 업데이트 및 훈련은 분산되고 약한 결합입니다.
+#인공지능 #분산학습 #언어모델
+#인공지능 #분산학습 #언어모델
+
+5 번째 검색 내용
+제목: 해시코프의 HCP Vault Radar은 Vault Import 기능을 통해 일반 사용 가능성을 달성합니다.
+주소: https://www.infoq.com/news/2025/05/hcp-vault-radar-ga/
+설명: HashiCorp는 HCP Vault Radar의 일반 사용 가능성(GA)을 발표했습니다. HCP Vault Radar는 조직이 환경에서 관리되지 않고 누출된 비밀을 탐지하고 수정할 수 있도록 도와주는 도구입니다. GA 릴리스로, HCP Vault Radar은 센티브 정보를 보안화하는 과정을 간소화하기 위해 사용자가 발견된 비밀을 HashiCorp Vault에 직접 입력할 수 있는 새로운 기능을 도입합니다.
+#HashiCorp #HCPVaultRadar #보안 #비밀 #센티브정보
+
+#hashtags: #HashiCorp, #HCPVaultRadar, #security
+
+6 번째 검색 내용
+제목: 도커은 컨테이너 보안을 강화하기 위해 고급 이미지 소개
+
+(Note: The translation may not be perfect as it is a machine translation. Please review and make necessary adjustments if needed.)
+주소: https://www.infoq.com/news/2025/05/docker-hardened-images/
+설명: Docker는 소프트웨어 공급 체인 위협에 대비하기 위해 엔터프라이즈 등급의 보안 강화된 컨테이너 이미지를 제공하는 Docker Hardened Images를 출시했습니다. DevOps 팀은 자신들의 컨테이너를 보호하기 위해 직접 책임을 떠넘겨받지 않고, 강화된 이미지는 엔터프라이즈 등급의 보안 및 준수 표준을 쉽게 만족시킵니다.
+#Docker #보안 #컨테이너 #소프트웨어공급체인
+
+#hashtags: #Docker, #Security, #ContainerImages, #SoftwareSupplyChainThreats
+
+7 번째 검색 내용
+제목: .NET 10 미리보기 4: JSON Patch 개선, Blazor 진단, OpenAPI 통합 및 더 많은 것
+
+(주의: 이 번역은 컴퓨터로 생성되었으며, 오류가 있을 수 있습니다.)
+주소: https://www.infoq.com/news/2025/05/dotnet-10-preview-4/
+설명: Microsoft는 .NET 10의 4번째 미리보기를 발표했습니다. ASP.NET Core, Blazor, .NET MAUI, WPF, Entity Framework Core, 및 런타임과 광범위한 개선 사항을 가져옵니다.
+#Microsoft #.NET #런타임
+
+8 번째 검색 내용
+제목: 제가 이해한 바로는 "Gemma 3은 시각적 언어 이해, 긴 문맥 처리, 및 개선된 다국어성을 지원합니다."를 의미하는 것 같습니다.
+
+Gemma 3은 시각적 언어 이해, 긴 문맥 처리, 및 개선된 다국어성을 지원합니다.
+주소: https://www.infoq.com/news/2025/05/gemma3-new-features/
+설명: Google의 생성형 인공지능(AI) 모델 Gemma 3는 시각-언어 이해, 긴 컨텍스트 처리, 향상된 다국어 기능을 지원합니다. Google DeepMind와 AI Studio 팀은 Gemma 3의 새로운 기능에 대해 최근 블로그 포스팅에서 논의했습니다. 모델도 KV-캐시 메모리 감소, 새로운 토큰화기능을 제공하며 성능이 향상되고 더 높은 해상도의 시각 인코더를 사용합니다.
+#인공지능 #GoogleGemma3 #시각언어이해 #KV캐시감소
+
+Hashtags:
+1. #인공지능 (Artificial Intelligence)
+2. #GoogleGemma3 (Google's generative AI model Gemma 3)
+3. #시각언어이해 (Vision-Language Understanding)
+
+9 번째 검색 내용
+제목: 스프링 AI 1.0 출시, AI 응용 프로그램 개발을 간소화하고 넓은 모델 지원을 제공합니다.
+주소: https://www.infoq.com/news/2025/05/spring-ai-1-0-streamlines-apps/
+설명: 인공지능을 사용하는 애플리케이션 개발을 간소화하고 효율적으로 할 수 있도록 Spring AI 1.0이라는 혁신적인 프레임워크를 소개합니다. Java에서 AI 기반 애플리케이션을 만들기 위해 최상의 AI 모델과 연계할 수 있습니다. 검색 지원 증강 생성과 같은 가능성이 넓은 추상화와 함께, 개발자들은 Spring 표준을 따르면서도 확장성 있고 운영 준비가 된 솔루션을 구축할 수 있습니다.
+#인공지능 #SpringAI #JavaAI
+
+#hashtags:
+1. #인공지능개발
+2. #JavaAI프레임워크
+3. #검색증강생성
+
+10 번째 검색 내용
+제목: AWS 변환 GA: 에이전트릭 AI가 AWS에서 메인프레임과 VMware 모дер니제이션을 자동화합니다.
+주소: https://www.infoq.com/news/2025/05/aws-transform-ai-legacy-migrate/
+설명: AWS Transform, now generally available,는 기업의 메인프레임과 VMware 모дер니즈를 간소화하기 위해 설계된  innovative AI 서비스입니다. 생성형 AI를 활용하여 빅데이터 분석을 향상시키고, 애플리케이션 마이그레이션을 자동화합니다.
+#AWS #AI #모더니즈 #클라우드아키텍처
+
+#hashtags: #AWSTransform #AIinEnterprise #CloudMigration
+
+11 번째 검색 내용
+제목: 자바 뉴스 요약: LangChain4j 1.0, Vert.x 5.0, Spring Data 2025.0.0, Payara 플랫폼, Hibernate
+주소: https://www.infoq.com/news/2025/05/java-news-roundup-may12-2025/
+설명: Java 주요 뉴스: 2025년 5월 12일에 발표된 이번 주의 Java 뉴스는 LangChain4j 1.0 GA 릴리즈, Eclipse Vert.x 5.0, Spring Data 2025.0.0과 같은 몇몇 기능을 강조하고 있습니다. Payara Platform의 2025년 5월 에디션, Hibernate ORM 7.0과 Hibernate Reactive 3.0의 두 번째 RC(Release Candidate) 및 Hibernate Search 8.0의 첫 번째 베타 릴리즈를 포함하고 있습니다.
+#Java #Hibernate #PayaraPlatform #LangChain4j
+
+#hashtags: #Java #Hibernate #PayaraPlatform #LangChain4j
+
+12 번째 검색 내용
+제목: 마이크로소프트 CTO가 영국의 Rust Nation에서 Rust에 대한 성공, 도전, 그리고 북어 언어를 위한 약속을 다룬 세부 사항입니다.
+주소: https://www.infoq.com/news/2025/05/microsoft-cto-rust-commitment/
+설명: Mark Russinovich, Microsoft Azure의 Chief Technology Officer, 최근 Rust Nation UK에서 진행된 톤에서는 Rust 채택을 촉진하는 요인과 Rust를 Microsoft 제품에서 구체적인 예시를 제공하며, C/C++로부터 Rust로의 이전을 가속화하기 위해 생성 AI를 활용하는 진행 중인 노력에 대해 자세히 설명했습니다.
+#Rust #MicrosoftAzure #AI #Cplusplus
+
+#hashtags: #Rust, #MicrosoftAzure, #AI, #Cplusplus
+
+13 번째 검색 내용
+제목: OpenAI 코드스케이스 소프트웨어 공학 에이전트 미리보기 출시
+
+(Note: The translation may not be perfect as it is a direct translation. In Korean, the subject usually comes before the verb, so the sentence structure might need to be adjusted for natural flow.)
+주소: https://www.infoq.com/news/2025/05/openai-codex/
+설명: OpenAI는 Codex를 출시했습니다. 이것은 클라우드 기반의 소프트웨어 엔지니어링 에이전트로, 개발 작업을 자동화하는데 사용되며 코딩, 디버깅, 테스팅, 풀 리퀘스트를 생성하는 등의 일을 합니다. ChatGPT에 통합되어 각 작업은 사용자의 코드베이스와 함께 보안한 샌드박스 환경에서 실행됩니다.
+#인공지능 #OpenAI #Codex
+
+#hashtags: #소프트웨어엔지니어링 #클라우드기반 #ChatGPT
+
+#hashtags: #자동화 #코딩 #디버깅 #테스팅
+
+14 번째 검색 내용
+제목: 바람 서핑 SWE-1 가족의 모델을 소프트웨어 공학에 위해 출시합니다.
+주소: https://www.infoq.com/news/2025/05/windsurf-swe-models/
+설명: Windsurf는 소프트웨어 엔지니어링 작업의 전체 범위를 지원하기 위해 처음으로 SWE-1 모델을 출시했습니다. 코드 생성에 제한되지 않은 것입니다. 이 라인업은 세 가지 모델, SWE-1, SWE-1-lite, 및 SWE-1-mini로 구성되어 있으며, 각각 특정 시나리오에 설계되었습니다.
+#소프트웨어엔지니어링 #Windsurf #SWE-1
+
+#hashtags: #소프트웨어엔지니어링, #Windsurf, #SWE-1
+
+15 번째 검색 내용
+제목: 알레그로는 자동화된 코드 마이그레이션을 어떻게 수행하는가요?
+[/INST]
+주소: https://www.infoq.com/news/2025/05/allegro-code-migrations-scale/
+설명: Allegro는 규모에 따른 코드 마이그레이션을 관리하는 데 사용되는 과정의 세부 사항을 공유했습니다. 회사는 GitHub의 Dependabot 및 OpenRewrite 프로젝트를 사용자 지정 솔루션으로 결합하여 개발자들이 수많은 소스 코드 리포지토리에서 반복적인 코드 마이그레이션 작업을 자동으로 실행할 수 있도록 했습니다. 회사는 여러 엣지 케이스를 처리하여 프로세스가 원활하게 진행되도록 확인하였으며, 초기적인 신뢰 문제를 해결하였습니다.
+#코드마이그레이션 #알절로 #개발자 #신뢰문제
+
+#hashtags: #코드마이그레이션, #알절로, #개발자, #신뢰문제
+
