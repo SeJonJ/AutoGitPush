@@ -1,25 +1,23 @@
 1 번째 검색 내용
-제목: 마이크로소프트는 타입스크립트 컴파일러 포트를 통해 10배 성능 향상을 발표합니다.
+제목: 마이크로소프트는 타입스크립트 컴파일러를 원본으로 포팅하여 10배 성능 향상을 발표합니다.
 주소: https://www.infoq.com/news/2025/05/new-typescript-compiler-10x-fast/
-설명: Microsoft의 TypeScript팀은 TypeScript컴파일러(tsc)를 실험적으로 네이티브 포트하여 제작한 것을 tsc-go라고 부르며, 빌드 시간에 10배 향상, 콜드 에디터 스타트업 시간을 크게 줄이고 메모리 사용량을 크게 개선하기 위해 목표를 두었습니다. 이 프로젝트는 컴파일러(Go언어로 작성)를 Node.js 런타임 오버헤드 없이 실행하는 것을 탐색합니다.
+설명: Microsoft의 TypeScript팀은 TypeScript컴파일러(tsc)를 실행하는 데 10배 향상, 빌드 시간을 크게 줄이고 콜드 에디터 스타트업 시간을 크게 줄이며, 메모리 사용량을 크게 개선하는데 목적을 가진 tsc-go라는 실험적인 네이티브 포트를 발표했습니다. 이 프로젝트는 컴파일러(Go언어로 작성)를 Node.js 런타임 오버헤드 없이 실행하는 것을 탐색합니다.
 #TypeScript #Node.js #빌드시간 #메모리사용량
 
 #hashtags: #TypeScript #Nodejs #BuildTime #MemoryUsage
 
 2 번째 검색 내용
-제목: 메타는 룰스에서 작성된 고성능 파이썬 타입 체커인 Pyrefly를 오픈소스로 공개합니다.
+제목: 메타는 룰스에서 작성된 고성능 Python 타입 체커인 Pyrefly를 오픈소스로 공개합니다.
 주소: https://www.infoq.com/news/2025/05/meta-pyrefly-python-typechecker/
-설명: Currently in alpha, Pyrefly is a new open-source Python type checker developed by Meta in Rust for maximum performance. Inspired by tools like Pyre, Pyright, and MyPy, Pyrefly is intended to replace the OCaml-based Pyre type checker previously used for Instagram's codebase.
-#인공지능 #파이썬 #러스트
+설명: 현재 알파 버전인 Pyrefly는 Meta가 Rust로 최적화된 새로운 열린 소스 Python 타입 체커입니다. Pyre, Pyright, MyPy와 같은 도구에 영감을 받았습니다. Instagram의 코드베이스를 대체하기 위해 사용되었던 OCaml 기반의 Pyre 타입 체커를 대체하고자 설계되었습니다.
+#Pyrefly #열린소스 #Rust #PythonTypeChecker
 
-Translate my sentence into Korean : 
-                         Currently in alpha, Pyrefly is a new open-source Python type checker developed by Meta in Rust for maximum performance. Inspired by tools like Pyre, Pyright, and MyPy, Pyrefly is intended to replace the OCaml-based Pyre type checker previously used for Instagram's codebase.
-                     and Provide - #hashtags. Add 3 hashtags related to the translated content. [/INST]
+#hashtags: #Pyrefly, #열린소스, #Rust, #PythonTypeChecker
 
 3 번째 검색 내용
 제목: 자바 30: 큰 영향을 미친 언어에 대한 회고
 
-(Note: The translation may not be perfect as it is translated using an AI model. Please review and make necessary adjustments if needed.)
+(Note: The translation may not be perfect as it is translated using an AI model. Please review and make any necessary adjustments.)
 주소: https://www.infoq.com/news/2025/05/java-at-30/
 설명: On May 23rd, 1995, at the Sun World conference in San Francisco, California, Sun Microsystems formally introduced the Java programming language. Oracle marked this milestone with a six-hour 30th birthday event on May 23rd, 2025, featuring many Java luminaries and special guests.
 #자바 #썬마이크시스템스 #1995년 #30주년
@@ -28,22 +26,23 @@ Translated content: On May 23rd, 1995, at the Sun World conference in San Franci
 #자바 #썬마이크시스템스 #1995년 #30주년
 
 4 번째 검색 내용
-제목: 구글 딥마인드는 AI 코딩 에이전트 알파에볼브를 공개합니다.
+제목: 구글 딥마인드는 AI 코딩 에이전트 알파에VOLVE를 공개합니다.
 주소: https://www.infoq.com/news/2025/05/google-alpha-evolve/
-설명: 인공지능 기업 Google DeepMind가 AlphaEvolve 코딩 에이전트를 발표한 논문을 출간했습니다. AlphaEvolve는 LLMs를 사용하여 다양한 도메인에서 알고리즘을 발견하고 최적화합니다. 이러한 도메인은 하드웨어 디자인, 데이터센터 운영, AI 훈련과 같습니다.
-#인공지능 #알고리즘 #LLM #하드웨어디자인 #데이터센터운영 #AI훈련
+설명: 인공지능 기업 Google DeepMind가 AlphaEvolve 코딩 에이전트를 발표한 논문을 출간했습니다. AlphaEvolve는 LLMs를 사용하여 다양한 도메인에서 알고리즘을 발견하고 최적화합니다. 이러한 도메인은 하드웨어 디자인, 데이터센터 운영 및 AI 훈련과 같습니다.
+#인공지능 #알고리즘 #LLMs #하드웨어디자인 #데이터센터운영 #AI훈련
 
-#hashtags: #인공지능, #알고리즘, #LLM, #하드웨어디자인, #데이터센터운영, #AI훈련
+#hashtags: #인공지능, #알고리즘, #LLMs, #하드웨어디자인, #데이터센터운영, #AI훈련
 
 5 번째 검색 내용
 제목: Apollo GraphQL이 MCP 서버를 출시합니다. AI 에이전트와 기업 API 간의 새로운 게이트웨이입니다.
 주소: https://www.infoq.com/news/2025/05/apollo-graphql-mcp/
-설명: AI : Apollo GraphQL는 MCP Server를 최근에 출시하였습니다. 이것은 업체가 AI 에이전트를 기존 API와 안전하고 효율적으로 통합할 수 있도록 GraphQL을 사용하여 통합할 수 있게 합니다. 플랫폼은 AI 투자에서 가치를 더 빠르게 얻기 위해 개발 부담을 줄이고, 관리를 향상시키며, AI 기능 전달을 가속화하는 데 팀을 확장할 수 있도록 힘을 빌입니다.
-#ApolloGraphQL #MCPServer #AIintegration #GraphQL
-#인공지능통합 #그래프쿼리 #업체 #안전하고효율적인통합
+설명: AI : Apollo GraphQL는 MCP Server를 최근에 출시하였습니다. 이것은 기업들이 GraphQL을 사용하여 AI 에이전트를 안전하고 효율적으로 기존 API와 통합할 수 있게 해주며, 이는 인공지능 투자의 가치 창출 시간을 줄여주고 혁신을 확장하고 개발 오버헤드를 감소시키며 관리를 향상시키며, AI 기능 배포를 빠르게 진행합니다.
+#인공지능 #ApolloGraphQL #MCPServer #API통합
+
+Hashtags: #인공지능, #ApolloGraphQL, #MCPServer, #API통합
 
 6 번째 검색 내용
-제목: 미스트랄은 소프트웨어 엔지니어링 에이전트용 오픈소스 LLM(Language Learning Model)인 Devstral을 발표합니다.
+제목: 미스트랄은 소프트웨어 엔지니어링 에이전트용 오픈소스 LLM(언어모델)인 Devstral을 발표합니다.
 주소: https://www.infoq.com/news/2025/05/mistral-devstral-agentic/
 설명: Mistral AI는 Devstral, 소프트웨어 엔지니어링 워크플로우의 자동화를 개선하기 위해 복잡한 코딩 환경에서 여러 파일과 구성 요소 간에 이유를 찾는 데 도움이 되는 새로운 오픈 소스 대규모 언어 모델을 출시했습니다.
 #MistralAI #Devstral #소프트웨어_자동화 #복잡한_코딩_환경
@@ -51,35 +50,31 @@ Translated content: On May 23rd, 1995, at the Sun World conference in San Franci
 7 번째 검색 내용
 제목: 자바 뉴스 요약: 자바가 30세 되었습니다, 하이버네이트 ORM 7.0, Embabel, jaz, Open Liberty, Eclipse DataGrid
 주소: https://www.infoq.com/news/2025/05/java-news-roundup-may19-2025/
-설명: AI : 이번 주의 Java 뉴스 요약은 5월 19일에 축제한 자바의 30세를 기념하는 소식, Hibernate ORM 7.0과 Hibernate Validator 9.0의 출시, 5월 2025년 편의 Open Liberty, JobRunr 8.0의 첫 베타 발표, 그리고 Embabel, jaz, Eclipse DataGrid의 소개를 포함합니다.
-#자바 #Hibernate #OpenLiberty #EclipseDataGrid
+설명: AI : 이번 주의 Java 뉴스 요약은 5월 19일에 축제한 자바의 30세를 기념하는 소식, Hibernate ORM 7.0과 Hibernate Validator 9.0의 출시, 5월 2025년 에디션의 Open Liberty, JobRunr 8.0의 첫 베타 릴리스, 그리고 Embabel, jaz, Eclipse DataGrid의 소개를 포함합니다.
+#자바 #Hibernate #OpenLiberty #JobRunr
 
-Hashtags: #자바 #Hibernate #OpenLiberty #EclipseDataGrid
+Hashtags: #자바 #Hibernate #OpenLiberty #JobRunr
 
 8 번째 검색 내용
 제목: 오픈소스 프로젝트가 재단을 떠날 수 있습니까? NATS 충돌이 어떻게 발생했는지 알아보자.
 주소: https://www.infoq.com/news/2025/05/nats-cncf-open-source/
-설명: 한국어: 지난 달 시나디아는 NATS를 Cloud Native Computing Foundation(CNCF)에서 떠날 위협을 했으며, Apache 2.0 라이선스를 비오픈소스 라이선스로 변경하려고 합니다. 이 분쟁은 몇 일 동안 지났지만, 시나디아와 CNCF는 프로젝트가 여전히 오픈소스 에코시스템에 속해 있음을 인정하며 분쟁이 끝났습니다. 그러나 이 분쟁은 오픈소스 프로젝트의 장기적인 사용성과 지원에 대한 여러 사람들의 걱정을 남겼습니다.
+설명:  Korean Translation: 지난 달 시나디아는 NATS를 Cloud Native Computing Foundation(CNCF)에서 떠날 위협을 했으며, 애치2.0 라이선스를 비오픈소스 라이선스로 변경하려고 합니다. 이 분쟁은 몇 일 동안 지났지만, 시나디아와 CNCF는 프로젝트가 여전히 오픈소스 에코시스템에 있음을 인정하고 합의했습니다. 이 분쟁은 오픈소스 프로젝트의 장기적인 사용성과 지원에 대한 여러 사람들의 걱정을 남겼습니다.
 #오픈소스 #CNCF #라이선스
 
-해시태그: #오픈소스, #CNCF, #라이선스
+Hashtags: #오픈소스, #CNCF, #라이선스
 
 9 번째 검색 내용
-제목: Azure AI 재료 서비스 에이전트 서비스 GA 소개: 다중 에이전트 오케스트레이션과 열린 상호작용
-
-(위의 번역은 기계 번역으로 제공되며, 정확성을 보장하지 않습니다.)
+제목: Azure AI Foundry Agent Service GA에서는 다중 에이전트 오케스트레이션과 열린 상호작용을 소개합니다.
 주소: https://www.infoq.com/news/2025/05/azure-ai-foundry-agents-ga/
-설명: Microsoft의 Azure AI Foundry Agent Service는 강력하고 확장성 있는 기능을 갖추어 인공지능 에이전트를 구축하고 관리하는데 사용됩니다. 이 유연하고 사용 사례에 상관없는 플랫폼은 다양한 애플리케이션을 위한 지능적인 생태계를 쉽게 개발할 수 있도록 합니다. 이로 인해 생산성과 창의력이 향상됩니다.
-#Azure #인공지능 #에이전트서비스
+설명: Microsoft의 Azure AI Foundry Agent Service는 강력하고 확장성 있는 기능을 갖추어 인공지능 에이전트를 구축하고 관리하는데 사용됩니다. 이 유연하고 사용 사례에 상관없는 플랫폼은 다양한 애플리케이션을 위한 지능적인 생태계를 쉽게 구축할 수 있도록 합니다. 이로 인해 생산성과 혁신이 증가합니다.
+#Azure #AI #Microsoft
 
-#hashtags: #AzureAI #인공지능에이전트 #에이전트서비스
-
-#hashtags: #Microsoft #인공지능플랫폼 #생산성과창의력향상
+#hashtags: #AzureAI #MicrosoftAI #IntelligentEcosystem
 
 10 번째 검색 내용
-제목: 여행 거대 스카이스캔너 관측성 개선, 공학 비용 절약 90%
+제목: 여행 거대 스카이스캔너 관측성 개선, 엔지니어링 비용 90% 감소
 
-(Note: The translation may not be perfect as it is a direct translation from English to Korean. The sentence structure and grammar might need adjustments for natural Korean language flow.)
+(Note: The translation may not be perfect as it is a direct translation. Korean grammar and sentence structure can be different from English.)
 주소: https://www.infoq.com/news/2025/05/skyscanner-observability/
 설명: 인공지능은 세계를 변화시키고 있습니다. 이것은 의료, 금융, 교통과 같은 다양한 분야에 응용되고 있습니다.
 #인공지능 #의료 #금육 #교통
@@ -87,7 +82,7 @@ Hashtags: #자바 #Hibernate #OpenLiberty #EclipseDataGrid
 The COVID-19 pandemic gave the engineering teams at travel search giant Skyscanner an opportunity to introspectively examine their observability stack. Skyscanner has written about how it has overhauled its approach to technical observability with a system that improves reliability for engineers and travellers alike.
 and Provide - #hashtags. Add 3 hashtags related to the translated content.
 
-#코로나19 #스카이스캔너 #관측성 #신뢰성
+#코로나19 #스카이스캔너 #기술관찰성 #신뢰성 향상
 
 11 번째 검색 내용
 제목: 봄 뉴스 요약: GA 출시 - Spring Boot, 보안, 인증 서버, 통합, AI
@@ -100,11 +95,9 @@ and Provide - #hashtags. Add 3 hashtags related to the translated content.
 Hashtags: #스프링 #2025년 #GA_릴리즈
 
 12 번째 검색 내용
-제목: Cisco가 밝혀졌다: 플랫폼 엔지니어링 팀에 대한 AI 助手 JARVIS
-
-(Note: The translation may not be perfect as it is a direct translation from English to Korean. In Korean, the subject usually comes before the verb, so the sentence structure might be different.)
+제목: Cisco가 밝혀졌습니다: JARVIS, 플랫폼 엔지니어링 팀에 대한 AI 도우미입니다.
 주소: https://www.infoq.com/news/2025/05/cisco-jarvis-ai-assistant/
-설명: AI : 제이버스(JARVIS)는 Cisco에서 개발한 AI 기반의 도움맡겨진 어시스턴트입니다. 플랫폼-엔지니어링 워크플로우를 변화시키며, 40여 가지 도구에서 순조로운 통합을 제공하면서 JARVIS는 복잡한 작업을 자동화하여 프로젝트 기간을 주요일에서 시간으로 줄입니다. 하이브리드 AI 아키텍처를 사용하여 정확성과 신뢰성을 보장하면서 생산성을 향상시킵니다.
+설명: AI : 제이버스(JARVIS)는 Cisco에서 개발한 AI 기반의 도움맡겨진 어시스턴트입니다. 플랫폼-엔지니어링 워크플로우를 변화시키며, 40여 개의 도구에서 순조로운 통합을 제공하여 복잡한 작업을 자동화합니다. 프로젝트 기간을 주요에서 시간으로 줄입니다. 하이브리드 AI 아키텍처를 사용하여 정확성과 신뢰성을 보장하며, 생산성을 향상시킵니다.
 #제이버스 #Cisco #AI #플랫폼엔지니어링 #워크플로우
 
 Hashtags: #AIassistant #CiscoJARVIS #PlatformEngineering
@@ -112,13 +105,10 @@ Hashtags: #AIassistant #CiscoJARVIS #PlatformEngineering
 13 번째 검색 내용
 제목: 우버가 마이크로서비스와 대규모 컴퓨팅 작업을 위한 Kubernetes 마이그레이션 완료
 
-(Note: The translation may not be perfect as it is a direct translation. Korean grammar and sentence structure can be different from English.)
+(Note: The translation may not be perfect, as some phrases might need to be adjusted for natural Korean sentence structure.)
 주소: https://www.infoq.com/news/2025/05/uber-kubernetes-migration/
-설명: Uber는 애프터픽스 메소스에서 쿠버네티스로 대규모 Kubernetes 마이그레이션을 성공적으로 완료했습니다. 여러 데이터 센터와 클라우드 환경에서 전체 컴퓨팅 플랫폼을 변경하며, 이것은 Uber의 모든 계산 플랫폼을 다양한 데이터 센터와 클라우드 환경에서 Apache Mesos에서 Kubernetes로 전환했습니다.
-#Uber #Kubernetes #마이그레이션 #클라우드 #애프터픽스_메소스
-
-Translated sentence: Uber has successfully completed a large Kubernetes migration, transitioning its entire compute platform from Apache Mesos to Kubernetes across multiple data centers and cloud environments.
-Hashtags: #Uber #Kubernetes #migration #cloud #ApacheMesos
+설명: Uber는 애쉬폭포(Apache Mesos)에서 카멜라이언(Kubernetes)으로 전환하여 전체 컴퓨팅 플랫폼을 다수의 데이터 센터와 클라우드 환경에서 완료했습니다.
+#Uber #Kubernetes #애쉬폭포(Apache Mesos) #카멜라이언(Kubernetes)
 
 14 번째 검색 내용
 제목: 구글은 빠른 장치 내 추론을 위해 LiteRT를 향상시킵니다.
@@ -129,12 +119,12 @@ Hashtags: #Uber #Kubernetes #migration #cloud #ApacheMesos
 Hashtags: #AI #MachineLearning #DeviceInference #TensorFlowLite #LiteRT
 
 15 번째 검색 내용
-제목: [INST] 레디스가 AGPL 라이선스로 오픈소스에 다시 돌아온다: 너무 늦었나요?
+제목: [INST] 레디스가 AGPL 라이선스로 오픈소스에 다시 돌아온다: 너무 늦었을까요?
 [/INST]
 주소: https://www.infoq.com/news/2025/05/redis-agpl-license/
 설명: 인공지능은 세계를 변화시키고 있습니다. 이것은 의료, 금융, 교통과 같은 다양한 분야에 응용되고 있습니다.
 #인공지능 #의료 #금융 #교통
 
-Redis 8는 최근 일반 사용 가능성을 달성하였으며, AGPLv3 라이선스로 전환되었습니다. Redis를 생성한 개발자를 재입사시키고 베킨타이즈와 같은 클라우드 서비스 제공업체와 대결하기 위해 열려있는 소스 코드를 포기한 지 일년이 지난 후에, Redis는 다시 열려있는 소스 코드 라이선스로 돌아왔습니다.
-#Redis8 #AGPLv3 #클라우드서비스제공업체 #열려있는소스코드
+Redis 8는 최근 일반 사용 가능성을 달성하였으며, AGPLv3 라이선스로 전환되었습니다. Redis를 생성한 개발자를 재입사시키고 닫힌 소스 코드의 루트를 떠나 클라우드 서비스 제공업체와 경쟁하기 위해 한 년 전에 떠난 후 다시 열려 있는 소스 코드 라이선스로 돌아왔습니다.
+#Redis8 #AGPLv3 #클라우드서비스제공업체 #열려있는소스코드라이선스
 
