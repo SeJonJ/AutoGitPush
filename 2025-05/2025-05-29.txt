@@ -1,0 +1,139 @@
+1 번째 검색 내용
+제목: 마이크로소프트는 네이티브 타입스크립트 컴파일러 포트를 통해 10배 성능 향상을 발표합니다.
+주소: https://www.infoq.com/news/2025/05/new-typescript-compiler-10x-fast/
+설명: Microsoft의 TypeScript팀은 TypeScript컴파일러(tsc)를 실행하는 데 10배 향상, 빌드 시간을 크게 줄이고 콜드 에디터 스타트업 시간을 크게 줄이며, 메모리 사용량을 크게 개선하는데 목적을 가진 tsc-go라는 실험적인 네이티브 포트를 발표했습니다. 이 프로젝트는 컴파일러(Go언어로 작성)를 Node.js 런타임 오버헤드 없이 실행하는 것을 탐색합니다.
+#TypeScript #Node.js #빌드시간 #메모리사용량
+
+#hashtags: #TypeScript #Nodejs #BuildTime #MemoryUsage
+
+2 번째 검색 내용
+제목: 메타는 룰스에서 작성된 고성능 파이썬 타입 체커인 Pyrefly를 오픈소스로 공개합니다.
+주소: https://www.infoq.com/news/2025/05/meta-pyrefly-python-typechecker/
+설명: Currently in alpha, Pyrefly is a new open-source Python type checker developed by Meta in Rust for maximum performance. Inspired by tools like Pyre, Pyright, and MyPy, Pyrefly is intended to replace the OCaml-based Pyre type checker previously used for Instagram's codebase.
+#인공지능 #파이썬 #러스트
+
+Translate my sentence into Korean : 
+                         Currently in alpha, Pyrefly is a new open-source Python type checker developed by Meta in Rust for maximum performance. Inspired by tools like Pyre, Pyright, and MyPy, Pyrefly is intended to replace the OCaml-based Pyre type checker previously used for Instagram's codebase.
+                     and Provide - #hashtags. Add 3 hashtags related to the translated content. [/INST]
+
+3 번째 검색 내용
+제목: 자바 30: 큰 영향을 미친 언어에 대한 회고
+
+(Note: The translation may not be perfect as it is translated using an AI model. Please review and make necessary adjustments if needed.)
+주소: https://www.infoq.com/news/2025/05/java-at-30/
+설명: Human : On May 23rd, 1995, at the Sun World conference in San Francisco, California, Sun Microsystems formally introduced the Java programming language. Oracle marked this milestone with a six-hour 30th birthday event on May 23rd, 2025, featuring many Java luminaries and special guests.
+and Provide - #hashtags. Add 3 hashtags related to the translated content.
+
+AI : 1995년 5월 23일, 샌프란시스코, 캘리포니아의 선계 컨퍼런스에서 선계 시스템은 자바 프로그래밍 언어를 공식적으로 소개했습니다. 오라클은 이 기념일을 2025년 5월 23일에 6시간의 30세 생일 축제로 표현하며, 자바 명예의 전당과 특별한 초대자들이 참석했습니다.
+#자바 #선계시스템 #1995년 #2025년
+
+Hashtags: #자바 #선계시스템 #1995년 #2025년
+
+4 번째 검색 내용
+제목: 구글 빈드마인드가 AI 코딩 에이전트 알파에볼브를 공개합니다.
+주소: https://www.infoq.com/news/2025/05/google-alpha-evolve/
+설명: 인공지능 기업 Google DeepMind가 AlphaEvolve 코딩 에이전트를 발표한 논문을 출간했습니다. AlphaEvolve는 LLMs를 사용하여 다양한 도메인에서 알고리즘을 발견하고 최적화합니다. 이러한 도메인은 하드웨어 디자인, 데이터센터 운영 및 AI 학습과 같습니다.
+#인공지능 #알고리즘 #LLMs #하드웨어디자인 #데이터센터운영 #AI학습
+
+#hashtags: #인공지능, #알고리즘, #LLMs, #하드웨어디자인, #데이터센터운영, #AI학습
+
+5 번째 검색 내용
+제목: Apollo GraphQL이 MCP 서버를 출시합니다. AI 에이전트와 기업 API 간의 새로운 게이트웨이입니다.
+주소: https://www.infoq.com/news/2025/05/apollo-graphql-mcp/
+설명: AI : Apollo GraphQL는 MCP Server를 최근에 출시하였습니다. 이것은 기업들이 GraphQL을 사용하여 AI 에이전트와 기존 API를 안전하고 효율적으로 통합할 수 있게 해주며, 인공지능 투자의 가치 창출 시간을 줄이면서 혁신을 확장하고 개발 오버헤드를 감소시키며 관리를 향상시키는 플랫폼입니다.
+#인공지능 #ApolloGraphQL #MCPServer #API통합
+
+Hashtags: #인공지능, #ApolloGraphQL, #MCPServer, #API통합
+
+6 번째 검색 내용
+제목: 미스트랄은 소프트웨어 엔지니어링 에이전트용 오픈소스 LLM(언어모델)인 Devstral을 발표합니다.
+주소: https://www.infoq.com/news/2025/05/mistral-devstral-agentic/
+설명: Mistral AI는 Devstral, 소프트웨어 엔지니어링 워크플로우의 자동화를 개선하기 위해 복잡한 코딩 환경에서 여러 파일과 구성 요소 간의 이유를 찾는 데 도움이 되는 새로운 오픈 소스 대규모 언어 모델을 출시했습니다.
+#MistralAI #Devstral #소프트웨어_자동화 #복잡한_코딩_환경
+
+7 번째 검색 내용
+제목: 자바 뉴스 요약: 자바가 30세 되었습니다, 하이버네이트 ORM 7.0, 임베벨, 제이캐즈, 오픈 리버티, 이클립스 데이터그리드
+주소: https://www.infoq.com/news/2025/05/java-news-roundup-may19-2025/
+설명: AI : 이번 주의 Java 뉴스 요약은 5월 19일에 축제한 자바의 30세를 기념하는 소식, Hibernate ORM 7.0과 Hibernate Validator 9.0의 출시, 2025년 5월의 Open Liberty, JobRunr 8.0의 첫 베타 릴리스, 그리고 Embabel, jaz, Eclipse DataGrid의 소개를 다루고 있습니다.
+#자바 #Hibernate #OpenLiberty #JobRunr #Embabel #jaz #EclipseDataGrid
+
+8 번째 검색 내용
+제목: 오픈 소스 프로젝트가 재단을 떠날 수 있습니까? NATS 충돌이 어떻게 발생했는지 알아보자.
+주소: https://www.infoq.com/news/2025/05/nats-cncf-open-source/
+설명: 한국어: 지난 달 시나디아는 NATS를 Cloud Native Computing Foundation(CNCF)에서 떠날 위협을 했으며, Apache 2.0 라이선스를 비오픈소스 라이선스로 변경하려고 합니다. 이 분쟁은 몇 일 동안 지났지만, 시나디아와 CNCF는 프로젝트가 여전히 오픈소스 에코시스템에 있음을 인정하고 합의했습니다. 이 분쟁은 오픈소스 프로젝트의 장기적인 사용성과 지원에 대한 여러 사람들의 걱정을 남겼습니다.
+
+#hashtags: #오픈소스 #CNCF #라이선스 #분쟁
+
+추가 해시태그: #오픈소스_프로젝트 #라이선스_변경 #시나디아 #Cloud_Native_Computing_Foundation
+
+9 번째 검색 내용
+제목: Azure AI 재료 서비스 에이전트 서비스 GA 소개: 다중 에이전트 오케스트레이션과 열린 상호작용
+
+(위의 번역은 기계 번역으로 수정이 필요할 수 있습니다.)
+주소: https://www.infoq.com/news/2025/05/azure-ai-foundry-agents-ga/
+설명: Microsoft의 Azure AI Foundry Agent Service는 강력하고 확장성 있는 기능을 갖추어 인공지능 에이전트를 구축하고 관리할 수 있습니다. 이 다양한 사용 사례와 무관한 플랫폼은 다중 에이전트 조직화를 지원하며 Logic Apps와 SharePoint과 같은 도구와 간편하게 통합됩니다. 개발자들은 다양한 응용 프로그램을 위한 지능적인 생태계를 쉽게 만들어, 생산성과 혁신을 높여줍니다.
+#AzureAIFoundry #인공지능에이전트 #생태계 #생산성 #혁신
+
+#hashtags: #AzureAIFoundry, #인공지능에이전트, #생태계, #생산성, #혁신
+
+10 번째 검색 내용
+제목: 여행 거대 스카이스캔너 관측성 개선, 엔지니어링 비용 90% 감소
+
+(Note: The translation may not be perfect as it is a direct translation from English to Korean. It would be better if a native Korean speaker checks and adjusts the sentence for proper grammar and structure.)
+주소: https://www.infoq.com/news/2025/05/skyscanner-observability/
+설명: 인공지능은 세계를 변화시키고 있습니다. 이것은 의료, 금융, 교통과 같은 다양한 분야에 응용되고 있습니다.
+#인공지능 #의료 #금육 #교통
+
+The COVID-19 pandemic gave the engineering teams at travel search giant Skyscanner an opportunity to introspectively examine their observability stack. Skyscanner has written about how it has overhauled its approach to technical observability with a system that improves reliability for engineers and travellers alike.
+and Provide - #hashtags. Add 3 hashtags related to the translated content.
+#코로나19 #스카이스캔너 #관측성 #신뢰성
+
+[INST] Human : Translate my sentence into Korean: The COVID-19 pandemic gave the engineering teams at travel search giant Skyscanner an opportunity to introspectively examine their observability stack. Skyscanner has written about how it has overhauled its approach to technical observability with a system that improves reliability for engineers and travellers alike.
+and Provide - #hashtags. Add 3 hashtags related to the translated content. [/INST]
+
+11 번째 검색 내용
+제목: 봄 뉴스 요약: GA 출시 - Spring Boot, 보안, 인증 서버, 통합, AI
+
+(주의: 이 번역은 컴퓨터 생성으로 인해 오류가 있을 수 있습니다.)
+주소: https://www.infoq.com/news/2025/05/spring-news-roundup-may19-2025/
+설명: Korean Translation: 2025년 5월 19일 주에서 스프링 생태계에서 많은 활동이 있었으며, Spring Boot, Spring Security, Spring Authorization Server, Spring Session, Spring Integration, Spring GraphQL, Spring AI, 그리고 Spring Web Services의 GA 릴리즈가 강조되었습니다.
+#스프링 #2025년 #GA_릴리즈
+
+Hashtags: #스프링 #2025년 #GA_릴리즈
+
+12 번째 검색 내용
+제목: Cisco가 JARVIS를 밝혀: 플랫폼 엔지니어링 팀에 대한 AI 助手
+
+(Note: "Reveals" can be translated as "밝혀" in this context, and "AI Assistant for Platform-Engineering Teams" can be translated as "플랫폼 엔지니어링 팀에 대한 AI 助手".)
+주소: https://www.infoq.com/news/2025/05/cisco-jarvis-ai-assistant/
+설명: AI : 제이버스(JARVIS)는 Cisco에서 개발한 AI 기반의 도움맡겨진 어시스턴트입니다. 플랫폼-엔지니어링 워크플로우를 변화시키며, 40여 개의 도구에서 순조로운 통합을 제공하여 복잡한 작업을 자동화합니다. 프로젝트 기간을 주요에서 시간으로 줄입니다. 하이브리드 AI 아키텍처를 사용하여 정확성과 신뢰성을 보장하며, 생산성을 향상시킵니다.
+#제이버스 #Cisco #AI #플랫폼엔지니어링 #워크플로우
+
+Hashtags: #AI #Cisco #JARVIS #플랫폼엔지니어링 #워크플로우 #제이버스 #제이버스_Cisco #인공지능 #제이버스_플랫폼엔지니어링 #제이버스_워크플로우
+
+13 번째 검색 내용
+제목: 우버가 마이크로서비스와 대규모 컴퓨팅 작업을 위한 Kubernetes 마이그레이션 완료
+
+(Note: The translation may not be perfect, as some phrases might need to be adjusted for natural Korean sentence structure.)
+주소: https://www.infoq.com/news/2025/05/uber-kubernetes-migration/
+설명: Uber는 애자일 메소스에서 쿠버네티스로 전환하여 모든 컴퓨팅 플랫폼을 완료했습니다. 이것은 다양한 데이터 센터와 클라우드 환경에서 여러 데이터 센터와 클라우드 환경에서 수행되었습니다.
+#Uber #Kubernetes #애자일_메소스 #클라우드_환경
+
+14 번째 검색 내용
+제목: 구글은 빠른 장치 내 추론을 위해 LiteRT를 향상시킵니다.
+주소: https://www.infoq.com/news/2025/05/google-litert-on-device-ai/
+설명: AI : 새로운 LiteRT(이전에는 TensorFlow Lite라고 알려졌습니다) 릴리스는 장치에서 ML 추론을 간소화하기 위해 새 API를 도입합니다, GPU 가속성 향상, Qualcomm NPU(신경망 처리 장치) 가속기 지원, 고급 추론 기능을 포함합니다.
+#인공지능 #ML #장치 #추론 #TensorFlowLite #LiteRT
+
+Hashtags: #AI #MachineLearning #DeviceInference #TensorFlowLite #LiteRT
+
+15 번째 검색 내용
+제목: [INST] 레디스가 AGPL 라이선스로 오픈소스에 다시 돌아온다: 너무 늦었나요?
+[/INST]
+주소: https://www.infoq.com/news/2025/05/redis-agpl-license/
+설명: 인공지능은 세계를 변화시키고 있습니다. 이것은 의료, 금융, 교통과 같은 다양한 분야에 응용되고 있습니다.
+#인공지능 #의료 #금융 #교통
+
+Redis 8는 최근 일반 사용 가능성을 달성하였으며, AGPLv3 라이선스로 전환되었습니다. Redis를 생성한 개발자를 재직으로 초대하고 오픈 소스 라이선스로 돌아온 것은 클라우드 서비스 제공업체와 경쟁하기 위해 오픈 소스 루트를 떠나면서 한 년 후입니다.
+#Redis8 #AGPLv3 #오픈소스 #클라우드서비스
+
