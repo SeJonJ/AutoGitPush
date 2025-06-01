@@ -1,28 +1,41 @@
 1 번째 검색 내용
-제목: 구글이 오픈소스 크로스 제공자 LLM 평가 도구인 LMEval을 발표합니다.
-주소: https://www.infoq.com/news/2025/05/google-lmeval-benchmark/
-설명: LMEval은 AI 연구자와 개발자들이 다양한 대규모 언어 모델의 성능을 비교하는데 도움을 주기 위해 설계되었습니다. 정확하고, 다중 모드인 것으로 알려져 있으며, 안전성과 보안에 대한 평가를 통해 이미 많은 대규모 모델을 평가한 경험이 있습니다.
-#LMEval #대규모언어모델 #안전성 #보안
+제목: 마이크로소프트는 깃허브 코퓨퍼트 채팅 확장을 오픈 소스로 공개합니다.
+주소: https://www.infoq.com/news/2025/06/microsoft-oss--copilot-extension/
+설명: At its Build 2025 conference, Microsoft announced plans to open source over the next few months the code behind the GitHub Copilot Chat extension under the MIT license and refactor core AI capabilities directly into the main VS Code codebase. The move, if completed, may affect the ability of current for-pay AI code editors to compete purely on features.
+                     #Microsoft #Build2025 #VSCode #AI #GitHubCopilotChat #OpenSource
 
-Hashtags: #AIresearch, #LanguageModelEvaluation, #SafetyAndSecurity
+Translated content: 
+At its Build 2025 conference, Microsoft announced plans to open source over the next few months the code behind the GitHub Copilot Chat extension under the MIT license and refactor core AI capabilities directly into the main VS Code codebase. The move, if completed, may affect the ability of current for-pay AI code editors to compete purely on features.
+                     #Microsoft #Build2025 #VSCode #AI #GitHubCopilotChat #OpenSource
+
+Hashtags: 
+#Microsoft #Build2025 #VSCode #AI #GitHubCopilotChat #OpenSource
 
 2 번째 검색 내용
-제목: Azure AI 검색은 지능형 대화형 AI를 위한 에이전트적 검색을 공개합니다.
-주소: https://www.infoq.com/news/2025/05/azure-ai-search-agent-retrieval/
-설명: Microsoft의 Azure AI Search는 대화 기반 AI 응답 관련성을 40%까지 향상시키는 최신 질의 엔진인 agentic retrieval을 공개합니다. 이 동적 시스템은 대화 이력과 병렬 부분 쿼리 실행을 활용하여, 고급 지식 검색에 도로를 열어줍니다. 현재는 공개 미리 보기 상태이며, 변화하는 기업 필요에 맞춤형 검색 전략을 제공합니다.
-#인공지능 #대화AI #AzureAISearch
+제목: 구글이 오픈소스 크로스 제공자 LLM 평가 도구인 LMEval을 발표합니다.
+주소: https://www.infoq.com/news/2025/05/google-lmeval-benchmark/
+설명: LMEval은 AI 연구자와 개발자들이 다양한 대규모 언어 모델의 성능을 비교하는 데 도움이 되려고 합니다. 정확하고, 다중 모드인 것으로 설계되었으며, 안전성과 보안에 대한 주요 모델을 평가하는데 이미 사용되었습니다.
+#LMEval #AI #언어모델평가
 
-#hashtags: #AI #MicrosoftAzure #KnowledgeRetrieval
+추가 해시태그: #인공지능연구자 #모델평가 #안전성보안
 
 3 번째 검색 내용
-제목: OpenSearch 3.0이(가) 일반적으로 사용 가능하며, 벡터 데이터베이스 성능과 확장성에 중점을 두고 있습니다.
-주소: https://www.infoq.com/news/2025/05/opensearch-30-performance/
-설명: AI : OpenSearch 소프트웨어 재단은 OpenSearch 3.0을 일반적으로 사용할 수 있는 것으로 공지했습니다. 이 버전은 3년간의 첫 번째 주요 릴리스이며, 프로젝트가 Linux 재단에 가입되었음을 앞서 이어졌습니다. 이 버전에서는 Model Context Protocol(MCP)의 원시적 지원, 데이터 인제스션 및 gRPC 지원이 도입되었으며, 확장성과 통합을 개선하기 위해 목적이 있습니다.
-#OpenSearch #Linux재단 #확장성 #통합
+제목: Azure AI 검색은 지능형 대화용 에이전트 검색을 공개합니다.
+주소: https://www.infoq.com/news/2025/05/azure-ai-search-agent-retrieval/
+설명: Microsoft의 Azure AI Search는 대화 기반 AI 응답 관련성을 40% 향상시키는 최신 질의 엔진인 agentic retrieval을 공개합니다. 이 동적 시스템은 대화 이력과 병렬 부분 쿼리 실행을 활용하여 고급 지식 검색에 도로를 열어줍니다. 현재는 공개 미리 보기 상태로, 변화하는 기업 요구 사항에 적합한 적응형 검색 전략을 제공합니다.
+#인공지능 #대화AI #AzureAISearch
 
-Hashtags: #OpenSearch, #LinuxFoundation, #Scalability
+#hashtags: #AI #MicrosoftAzure #EnterpriseSearch
 
 4 번째 검색 내용
+제목: OpenSearch 3.0이(가) 일반적으로 사용 가능해졌습니다. 벡터 데이터베이스의 성능과 확장성에 중점을 두고 있습니다.
+주소: https://www.infoq.com/news/2025/05/opensearch-30-performance/
+설명: AI : OpenSearch 소프트웨어 재단은 OpenSearch 3.0을 일반적으로 사용할 수 있는 것으로 공지했습니다. 이 버전은 3년간의 첫 번째 주요 릴리스이며, 프로젝트가 Linux 재단에 가입되었음에도 불구하고 발표되었습니다. 이 버전에서는 Model Context Protocol(MCP)의 원시적 지원을 추가했으며, 데이터 인제스션과 gRPC 지원을 포함하여 확장성과 통합을 개선하기 위해 끌어오는 기능을 도입했습니다.
+#OpenSearch #Linux재단 #확장성 #통합
+
+#hashtags: #OpenSearch, #LinuxFoundation, #Scalability
+
+5 번째 검색 내용
 제목: 구글이 MedGemma 출시: 의료 텍스트와 이미지 분석을 위한 열린 AI 모델입니다.
 주소: https://www.infoq.com/news/2025/05/google-medgemma/
 설명: Google는 의료 응용프로그램에서 의료 텍스트와 이미지를 이해하는데 도움이 되는 데 사용할 수 있는 오픈소스 생성형 AI 모델인 MedGemma를 발표했습니다. Gemma 3 아키텍처를 기반으로 한 이 모델은 2가지 구성으로 제공됩니다: MedGemma 4B, 이미지와 텍스트 모두 처리할 수 있는 다중 modal 모델과 MedGemma 27B, 의료 텍스트에만 집중한 큰 모델입니다.
@@ -30,7 +43,7 @@ Hashtags: #OpenSearch, #LinuxFoundation, #Scalability
 
 Hashtags: #인공지능, #의료AI, #MedGemma
 
-5 번째 검색 내용
+6 번째 검색 내용
 제목: 마이크로소프트는 빌드 2025에서 AI 에이전트와 플랫폼 업데이트 발표
 
 (Microsoft Announces AI Agent and Platform Updates at Build 2025)
@@ -40,94 +53,89 @@ Hashtags: #인공지능, #의료AI, #MedGemma
 
 [INST] Human : Translate my sentence into Korean: At its annual developer conference, Build 2025, Microsoft introduced a set of updates focused on expanding the role of AI agents across Windows, GitHub, Azure, and Microsoft 365. and Provide - #hashtags. Add 3 hashtags related to the translated content. [/INST]
 
-6 번째 검색 내용
-제목: 스프링 팀은 AOT 캐시 처리, JSpecify에서 널 안전성, 지원 기간을 다루는 데 집중합니다.
-주소: https://www.infoq.com/news/2025/05/spring-aot-jspecify-support/
-설명: AI : Broadcom은 Spring Boot 3.5를 최근에 출시하고 다양한 프로젝트를 진행하고 있으며, 2025년 11월에 Spring Framework 7.0과 Spring Boot 4.0을 개발하고 있습니다. Broadcom의 Sébastien Deleuze, Spring Framework Core Committer, 및 Michael Minella, Open-Source Support Spring팀 대표는 Java AOT 캐시, JSpecify null safety를 갖춘 라이브러리, 그리고 Spring 지원 정책에 대한 변경 사항에 대해 질문을 답변하고 있습니다.
-#Broadcom #SpringBoot #JavaAOTcache
-
-#hashtags: #Broadcom, #SpringBoot, #JavaAOTcache
-
 7 번째 검색 내용
-제목: 제마 3n 기기에서 추론을 위해 함께 사용할 수 있으며, RAG 및 함수 호출 라이브러리와 함께 사용됩니다.
-주소: https://www.infoq.com/news/2025/05/gemma-3n-on-device-inference/
-설명: Google은 새로운 LiteRT Hugging Face 커뮤니티에서 이제 미리보기로 출시된 Gemma 3n을 함께 발표했습니다. Gemma 3n은 텍스트, 이미지, 비디오, 오디오 입력을 지원하는 소형 다중 모드 언어 모델입니다. 또한 새로운 AI Edge SDK를 사용하여 함수 호출이 가능하며, 검색 증강 생성(RAG)을 통해 사용자 정의 지원도 가능합니다.
-#Google #Gemma3n #AIEdgeSDK #RAG
+제목: 스프링 팀은 AOT 캐시 처리, JSpecify에서 널 안전성, 지원 기간을 다루는 데 중점을 두고 있습니다.
+주소: https://www.infoq.com/news/2025/05/spring-aot-jspecify-support/
+설명: AI : Broadcom은 Spring Boot 3.5를 최근에 출시하고 다양한 프로젝트를 진행하고 있으며, 2025년 11월에 Spring Framework 7.0과 Spring Boot 4.0을 개발하고 있습니다. Broadcom의 Sébastien Deleuze, Spring Framework Core Committer, 및 Michael Minella, Open-Source Support Spring팀 대표는 Java AOT 캐시, JSpecify null safety를 갖춘 라이브러리, 그리고 Spring 지원 정책에 대한 변경 사항에 대해 질문을 답변했습니다.
+#Broadcom #SpringBoot #JavaAOT #nullSafety
 
-Translated sentence: Google has announced that Gemma 3n is now available in preview on the new LiteRT Hugging Face community, alongside many previously released models. Gemma 3n is a multimodal small language model that supports text, image, video, and audio inputs. It also supports finetuning, customization through retrieval-augmented generation (RAG), and function calling using new AI Edge SDKs.
-#Google #Gemma3n #AIEdgeSDK #RAG
+#hashtags: #Broadcom, #SpringBoot, #JavaAOT, #nullSafety
 
 8 번째 검색 내용
-제목: 소셜기술적 접근법이 복잡성을 처리하는 방법에 대해서는 어떻게 도움이 될까요?
-
-[INST] Translate the sentence into English: [/INST]
-주소: https://www.infoq.com/news/2025/05/sociotechnical-complexity/
-설명: Today’s software professionals navigate a maze of technical, business, and social complexity. According to Xin Yao, thriving in this environment requires more than just technical and business expertise. We need fluency in decoupling systems for maintainability, reconnecting them for business value, and working with the messiness of organizational dynamics.
-                     #소프트웨어개발자 #기술적, 비즈니스, 사회적 복잡성 #유연한 사고력 #조직 동적성
-
-Translated content hashtags: #소프트웨어개발자, #기술적, #비즈니스, #사회적, #유연한사고력, #조직동적성
+제목: 제마(Gemma) 3n 기기에서 추론을 위해 사용 가능하며, RAG와 함수 호출 라이브러리와 동시에 사용할 수 있습니다.
+주소: https://www.infoq.com/news/2025/05/gemma-3n-on-device-inference/
+설명: Google은 새로운 LiteRT Hugging Face 커뮤니티에서 이제 미리보기로 발표되었습니다. Gemma 3n은 텍스트, 이미지, 비디오, 오디오 입력을 지원하는 소형 다중 모드 언어 모델입니다. 또한 새로운 AI Edge SDK를 사용하여 함수 호출이 가능하며, 검색 증강 생성(RAG)을 통해 사용자 정의가 가능합니다.
+#Google #Gemma3n #LiteRT #HuggingFace
+#AIEdgeSDK #RAG #언어모델
 
 9 번째 검색 내용
-제목: AWS가 중앙화된 제품 생명주기 페이지를 출시합니다. : 투명성과 사용 중단 정보 통합
+제목: 소셜기술적 접근법이 복잡성을 처리하는 방법에 대해서는 어떻게 도움이 될까요?
 
-(Note: The translation may not be perfect as it involves some technical terms and specific context.)
-주소: https://www.infoq.com/news/2025/05/aws-service-lifecycle-page/
-설명: AWS는 서비스 사용자 지원 기간 추적을 위한 중앙화된 허브인 Product Lifecycle 페이지를 출시했습니다. 이 프로젝트는 통신을 단순화하고, 고객의 신뢰를 향상시키며, 기타 하이퍼스케일러(Microsoft Azure와 Google Cloud)와 일치하게 됩니다. 페이지는 고객들에게 부드러운 과정을 보장하기 위해 명확한 사유와 전환 계획을 제공합니다.
-#AWS #서비스_사용자_지원_기간 #하이퍼스케일러 #통신_단순화
+[INST] Translate the sentence into Korean: [/INST]
+주소: https://www.infoq.com/news/2025/05/sociotechnical-complexity/
+설명: Today’s software professionals navigate a maze of technical, business, and social complexity. According to Xin Yao, thriving in this environment requires more than just technical and business expertise. We need fluency in decoupling systems for maintainability, reconnecting them for business value, and working with the messiness of organizational dynamics.
+                     #소프트웨어개발자 #기술적인 #비지니스적인 및 사회적인 복잡성
 
-Translated sentence: AWS has launched its Product Lifecycle page, a centralized hub for tracking service availability changes, deprecations, and end-of-support timelines. This initiative streamlines communication, enhances customer confidence, and aligns with other hyperscalers, Microsoft Azure and Google Cloud. The page offers clear rationales and transition plans, ensuring a smooth process for customers.
-#AWS #Product_Lifecycle_page #하이퍼스케일러 #고객_신뢰
-
-Hashtags: #AWS #Product_Lifecycle_page #하이퍼스케일러 #고객_신뢰
+#hashtags: #소프트웨어개발 #기업동작 #조직적 동적성
 
 10 번째 검색 내용
-제목: [INST] 탄스택 릴리즈: 탄스택 폼 V1 [/INST]
-주소: https://www.infoq.com/news/2025/05/tanstack-form-v1-released/
-설명: TanStack는 TanStack Form, 대화형 양식 라이브러리로서 React, Vue, Angular, Solid, 및 Lit과 같은 다양한 프레임워크에 대해 지원하는 첫 안정 버전을 발표했습니다. 이 새로운 TanStack 생태계의 추가 요소는 Formik, React Hook Forms 또는 Final Form과 같은 인기 있는 양식 라이브러리와 함께 존재합니다.
-#TanStack #양식라이브러리 #대화형양식 #다양한프레임워크
+제목: AWS가 중앙화된 제품 생명주기 페이지 출시: 투명성과 사용 중단 정보 통합
 
-#hashtags: #TanStack, #FormLibrary, #CrossFrameworkSupport
+(Note: The translation may not be perfect as it is a technical term. Please check the meaning and context before using it.)
+주소: https://www.infoq.com/news/2025/05/aws-service-lifecycle-page/
+설명: AWS는 서비스 사용자 지원 기간 추적을 위한 중앙화된 허브인 Product Lifecycle 페이지를 출시했습니다. 이 프로젝트는 통신을 단순화하고, 고객의 신뢰를 높여주며, 기타 하이퍼스케일러(Microsoft Azure와 Google Cloud)와 일치합니다. 페이지에서는 명확한 사유와 전환 계획을 제공하여 고객들에게 부드러운 과정을 보장합니다.
+#AWS #ProductLifecycle #서비스사용자지원기간추적
+
+Hashtags: #AWS #ProductLifecycle #서비스사용자지원기간추적
 
 11 번째 검색 내용
-제목: 다른 가벼운 Kubernetes 배포판 선택 중에서 k0s가 CNCF Sandbox에 참여합니다.
-주소: https://www.infoq.com/news/2025/05/kubernetes-k0s-cncf/
-설명: AI : 클라우드 네이티브 컴퓨팅 재단(CNCF)은 k0s, 가벼운 Kubernetes 분배판을 Sandbox 프로그램에 인수하였습니다. Mirantis의 종속성 없는 Kubernetes 플랫폼은 엣지 컴퓨팅과 자원 제한된 환경에서 채택이 증가하고 있습니다.
-#클라우드네이티브 #엣지컴퓨팅 #Kubernetes #자원제한된환경
+제목: [INST] 탄스택 릴리즈: 탄스택 폼 V1
+[/INST]
+주소: https://www.infoq.com/news/2025/05/tanstack-form-v1-released/
+설명: TanStack는 TanStack Form, 크로스 프레임워크 형식 라이브러리를 React, Vue, Angular, Solid, 및 Lit과 같은 다양한 분야에서 지원하는 첫 안정 버전을 발표했습니다. 이 새로운 TanStack 생태계의 추가 항목은 Formik, React Hook Forms 또는 Final Form과 같은 인기 있는 형식 라이브러리와 함께 존재합니다.
+#TanStack #TanStackForm #크로스프레임워크 #형식라이브러리
+
+#hashtags: #TanStack, #TanStackForm, #크로스프레임워크, #형식라이브러리
 
 12 번째 검색 내용
-제목: 마이크로소프트는 10배 성능 향상을 위한 네이티브 TypeScript 컴파일러 포트 발표
+제목: 다른 가벼운 Kubernetes 배포판 선택 중에서 k0s가 CNCF Sandbox에 참여합니다.
+주소: https://www.infoq.com/news/2025/05/kubernetes-k0s-cncf/
+설명: AI : 클라우드 네이티브 컴퓨팅 재단(CNCF)은 k0s, 가벼운 Kubernetes 분배판을 Sandbox 프로그램에 인수하였습니다. Mirantis의 종속성 없는 Kubernetes 플랫폼은 엣지 컴퓨팅과 자원 제한된 환경에서 적용되고 있습니다.
+#클라우드네이티브 #엣지컴퓨팅 #Kubernetes #k0s
 
-(Note: The translation may not be perfect, but it conveys the meaning of the original sentence.)
-주소: https://www.infoq.com/news/2025/05/new-typescript-compiler-10x-fast/
-설명: Microsoft의 TypeScript팀은 TypeScript컴파일러(tsc)를 실행하는 데 10배 향상, 빌드 시간을 크게 줄이고 코드 편집기 시작 시 긴 시간을 크게 줄이며, 메모리 사용량을 크게 개선하는데 목적을 가진 tsc-go라는 실험적인 네이티브 포트를 발표했습니다. 이 프로젝트는 컴파일러(Go언어로 작성)를 Node.js 런타임 오버헤드 없이 실행하는 것을 탐색합니다.
-#TypeScript #빌드시간 #메모리사용량
-
-#hashtags: #TypeScript #빌드시간 #메모리사용량
+Hashtags: #클라우드네이티브, #엣지컴퓨팅, #Kubernetes, #k0s
 
 13 번째 검색 내용
-제목: 메타는 룰스에서 작성된 고성능 파이썬 타입 체커인 Pyrefly를 오픈소스로 공개합니다.
-주소: https://www.infoq.com/news/2025/05/meta-pyrefly-python-typechecker/
-설명: 현재 알파 버전인 Pyrefly는 Meta가 Rust로 최적화된 새로운 열린 소스 Python 타입 체커입니다. Pyre, Pyright, MyPy와 같은 도구에 영감을 받았습니다. Instagram의 코드 기반에 이전에 사용되었던 OCaml 기반 Pyre 타입 체커를 대체하고자 설계되었습니다.
-#Pyrefly #열린소스 #Rust #PythonTypeChecker
+제목: 마이크로소프트는 10배 성능 향상을 위한 네이티브 TypeScript 컴파일러 포트 발표
 
-#hashtags: #Pyrefly, #열린소스, #Rust, #PythonTypeChecker
+(Microsoft Announces Native TypeScript Compiler Port for 10X Performance Boost)
+주소: https://www.infoq.com/news/2025/05/new-typescript-compiler-10x-fast/
+설명: Microsoft의 TypeScript팀은 TypeScript컴파일러(tsc)를 실행하는 데 10배 향상, 빌드 시간을 크게 줄이고 콜드 에디터 스타트업 시간을 크게 줄이며, 메모리 사용량을 크게 개선하는데 목적을 가진 tsc-go라는 실험적인 네이티브 포트를 발표했습니다. 이 프로젝트는 컴파일러(Go언어로 작성)를 Node.js 런타임 오버헤드 없이 실행하는 것을 탐색합니다.
+#TypeScript #Node.js #빌드시간 #메모리사용량
+
+#hashtags: #TypeScript #Nodejs #BuildTime #MemoryUsage
 
 14 번째 검색 내용
+제목: 메타는 룰스에서 작성된 고성능 파이썬 타입 체커인 Pyrefly를 오픈소스로 공개합니다.
+주소: https://www.infoq.com/news/2025/05/meta-pyrefly-python-typechecker/
+설명: Currently in alpha, Pyrefly is a new open-source Python type checker developed by Meta in Rust for maximum performance. Inspired by tools like Pyre, Pyright, and MyPy, Pyrefly is intended to replace the OCaml-based Pyre type checker previously used for Instagram's codebase.
+#인공지능 #파이썬 #러스트
+
+Translate my sentence into Korean: 
+                         Currently in alpha, Pyrefly is a new open-source Python type checker developed by Meta in Rust for maximum performance. Inspired by tools like Pyre, Pyright, and MyPy, Pyrefly is intended to replace the OCaml-based Pyre type checker previously used for Instagram's codebase.
+                     and Provide - #hashtags. Add 3 hashtags related to the translated content. [/INST]
+
+15 번째 검색 내용
 제목: 자바 30: 큰 영향을 미친 언어에 대한 회고
 
 (Note: The translation may not be perfect as it is translated using an AI model. Please review and make necessary adjustments if needed.)
 주소: https://www.infoq.com/news/2025/05/java-at-30/
 설명: On May 23rd, 1995, at the Sun World conference in San Francisco, California, Sun Microsystems formally introduced the Java programming language. Oracle marked this milestone with a six-hour 30th birthday event on May 23rd, 2025, featuring many Java luminaries and special guests.
-#자바 #썬마이크시스템스 #1995년 #30주년
+#자바 #숨월드 #1995년 #오라클
 
-Translated content: On May 23rd, 1995, at the Sun World conference in San Francisco, California, Sun Microsystems formally introduced the Java programming language. Oracle marked this milestone with a six-hour 30th birthday event on May 23rd, 2025, featuring many Java luminaries and special guests.
-#자바 #썬마이크시스템스 #1995년 #30주년
-
-15 번째 검색 내용
-제목: 구글 딥마인드는 AI 코딩 에이전트 알파에볼브를 공개합니다.
-주소: https://www.infoq.com/news/2025/05/google-alpha-evolve/
-설명: 인공지능 기업 Google DeepMind가 AlphaEvolve 코딩 에이전트를 발표한 논문을 출간했습니다. AlphaEvolve는 LLMs를 사용하여 다양한 도메인, 예를 들어 하드웨어 디자인, 데이터센터 운영 및 AI 훈련과 같은 범위에서 알고리즘을 발견하고 최적화합니다.
-#인공지능 #DeepMind #AlphaEvolve
-
-#hashtags: #AI #Google #HardwareDesign
+Translate my sentence into Korean:
+                         On May 23rd, 1995, at the Sun World conference in San Francisco, California, Sun Microsystems formally introduced the Java programming language. Oracle marked this milestone with a six-hour 30th birthday event on May 23rd, 2025, featuring many Java luminaries and special guests.
+                     and Provide - #hashtags. Add 3 hashtags related to the translated content.
+[INST] AI : 1995년 5월 23일, 캘리포니아 산프란시스코의 숨월드 컨퍼런스에서 선언된 자바 프로그래밍 언어에 대해 공식적으로 소개한 사큐미시스템스입니다. 오라클은 이 기념일을 2025년 5월 23일에 6시간의 30주년 축제로 표현하며, 자바 명예의 전당과 특별한 초대자들을 포함하여 개최했습니다.
+#자바 #숨월드 #1995년 #오라클
 
