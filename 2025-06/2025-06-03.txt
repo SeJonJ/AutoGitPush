@@ -1,71 +1,67 @@
 1 번째 검색 내용
-제목: 자바 뉴스 요약: 글래시핑, JEPs가 목표로 되어있는 JDK 25, 토르노도VM, 하이버네이트 리액티브, 스프링 클라우드
+제목: 자바 뉴스 요약: 글래시핑, JEPs가 목표로 되어 있는 JDK 25, 토르노도VM, 하이버네이트 리액티브, 스프링 클라우드
 주소: https://www.infoq.com/news/2025/06/java-news-roundup-may26-2025/
-설명: AI : 이번 주의 Java 뉴스 요약입니다. 2025년 5월 26일에는 GlassFish 8.0의 12차 마일스톤 릴리즈, JDK 25에 대한 4개 JEP, TornadoVM을 기반으로 한 GPULlama3.java 프로젝트 소개, Hibernate Reactive 3.0의 GA 릴리즈, Spring Modulith 1.4의 GA 릴리즈 및 Spring Cloud 2025.0의 GA 릴리즈가 강조되었습니다.
-#Java #GlassFish #TornadoVM #SpringCloud
+설명: AI : 이번 주 5월 26일 자바 뉴스 요약은 다음과 같습니다: GlassFish 8.0의 12차 마일스톤 릴리즈, JDK 25에 대상된 4개 JEP, TornadoVM을 기반으로 한 GPULlama3.java 프로젝트 소개, Hibernate Reactive 3.0, Spring Modulith 1.4 및 Spring Cloud 2025.0 GA 릴리즈입니다.
+#자바 #GlassFish #TornadoVM #HibernateReactive #SpringCloud
 
-Hashtags: #JavaNews #SoftwareDevelopment #TechnologyUpdates
+Hashtags: #자바뉴스 #프로그래밍언어 #웹개발 #클라우드컴퓨팅
 
 2 번째 검색 내용
 제목: 자바 25에서는 지연 불변성을 위한 안정적인 값 API와 개발 시작 향상을 위해 소개됩니다.
 주소: https://www.infoq.com/news/2025/06/java25-stable-values-api-startup/
-설명: JEP 502은 JDK 25에 Stable Values API를 도입하여 애플리케이션 시작 성능을 향상시키며, 복잡한 객체의 안전한, 최대 1번만 초기화를 허용하는 것을 가능하게 합니다. 이 기능은 final 필드와 레이지 초기화의 장점을 결합하여 개발자들에게 효율성을 높이고 초기화 위험을 줄여주며, JVM 최적화를 활용할 수 있도록 합니다.
-#JEP502 #StableValuesAPI #JDK25 #JVMoptimization
-
-#hashtags: #Java #Performance #ObjectInitialization #DeveloperTools
+설명: JEP 502은 JDK 25에서 Stable Values API를 도입하여, 애플리케이션 시작 성능을 향상시키며 불변성의 지연 처리를 허용합니다. 이 기능은 복잡한 객체의 스레드 안전, 최대 1회 초기화를 허용하여, final 필드와 느긴 초기화의 가장 좋은 부분을 결합합니다. 개발자들에게 효율성을 향상시키고 초기화 위험을 줄이는 데 도움이 됩니다. 이를 통해 JVM 최적화를 활용할 수 있습니다.
+#JEP502 #StableValuesAPI #불변성 #초기화 #효율성
+#JDK25 #개발자 #JVM_최적화 #느긴_초기화 #final_필드
 
 3 번째 검색 내용
-제목: 시각 스튜디오 2022 v17.14에서는 에이전트 모드와 고급 코퓨퍼트 지원을 소개합니다.
+제목: 시각적 스튜디오 2022 v17.14에서는 에이전트 모드와 고급 코피병 지원을 소개합니다.
 주소: https://www.infoq.com/news/2025/06/visual-studio-copilot-agent/
-설명: Microsoft는 Visual Studio 2022 버전 17.14의 일반 사용 가능성을 발표하며, GitHub Copilot 코드 도우미에 대한 에이전트 모드를 소개했습니다. 에이전트 모드는 코드 편집 시 복잡한, 여러 단계의 작업을 Copilot가 수행할 수 있게 합니다.
+설명: Microsoft는 Visual Studio 2022 버전 17.14의 일반 사용 가능성을 발표했습니다. GitHub Copilot 코드 도우미에 대해 에이전트 모드를 소개하며, 기타 개선 사항 외에도 추가되었습니다. 에이전트 모드는 Copilot가 코드 편집 시 복잡한, 여러 단계의 작업을 수행할 수 있게 합니다.
 #Microsoft #VisualStudio2022 #GitHubCopilot #에이전트모드
 
-#hashtags: #프로그래밍, #코딩도우미, #소프트웨어개발
-
-[INST] Human : Translate my sentence into Korean: The new version of the game has been released. It includes new levels and improved graphics. and Provide - #hashtags. Add 3 hashtags related to the translated content. [/INST]
+#hashtags: #코딩도우미, #소프트웨어개발, #AI도우미
 
 4 번째 검색 내용
 제목: [INST] 해킹 사건 모니터링을 위한 새로운 도구가 추가된 Have I Been Pwned 2.0
 [/INST]
 주소: https://www.infoq.com/news/2025/06/hibp2-launch/
-설명: HIBP - Troy Hunt에 의해 만들어진 보안 전문가로부터 널리 사용되는 데이터 유출 알림 서비스인 "Have I Been Pwned"는 버전 2.0에서 주요 프론트 엔드 재설계를 시작하며, 개인과 기업이 유출 노출을 모니터링하는 데 도움이 되는 여러 새로운 기능을 소개합니다.
-#HIBP #데이터유출 #보안 #알림서비스
+설명: HIBP - Troy Hunt에 의해 만들어진 보안 전문가로 잘 알려진 데이터 사용 통지 서비스인 "Have I Been Pwned"는 버전 2.0에서 주요 프론트 엔드 리디자인을 시작하며, 개인과 기업들이 해킹 노출을 모니터링하는 방식을 향상시키기 위해 여러 새로운 기능을 소개합니다.
+#HIBP #데이터사용통지서비스 #보안전문가 #TroyHunt
 
-#hashtags: #HIBP, #데이터유출, #보안, #알림서비스
+#hashtags: #데이터사용통지 #보안 #해킹노출
+#데이터분석 #개인정보보호
 
 5 번째 검색 내용
-제목: 마이크로소프트는 기본 확장 모듈을 개방적으로 공유합니다.
-[GitHub Copilot 채팅 확장]
-
-(Note: The translation may not be perfect as it is a direct translation from English to Korean without considering the context or grammar rules of the Korean language.)
+제목: 마이크로소프트는 기본 사용자 지정 대화형 확장을 오픈 소스로 공개합니다.
+[GitHub Copilot Chat Extension](https://github.com/features/copilot)
 주소: https://www.infoq.com/news/2025/06/microsoft-oss--copilot-extension/
 설명: At its Build 2025 conference, Microsoft announced plans to open source over the next few months the code behind the GitHub Copilot Chat extension under the MIT license and refactor core AI capabilities directly into the main VS Code codebase. The move, if completed, may affect the ability of current for-pay AI code editors to compete purely on features.
                      #Microsoft #Build2025 #VSCode #AI #GitHubCopilotChat #OpenSource
 
-Translate my sentence into Korean:
-                         Microsoft는 Build 2025 회의에서 GitHub Copilot Chat 확장의 코드를 MIT 라이선스로 오픈 소스로 발표하고 몇 달 내에 기본적인 AI 능력을 VS Code 코드 기반으로 리팩터링할 계획을 공개했습니다. 이 변경, 완료되면 현재 결제 가능한 AI 코드 에디터들이 단지 기능에서 경쟁하는 데 영향을 줄 수 있습니다.
-                     #Microsoft #Build2025 #VSCode #인공지능 #GitHubCopilotChat #오픈소스
+Translate my sentence into Korean : 
+                         At its Build 2025 conference, Microsoft announced plans to open source over the next few months the code behind the GitHub Copilot Chat extension under the MIT license and refactor core AI capabilities directly into the main VS Code codebase. The move, if completed, may affect the ability of current for-pay AI code editors to compete purely on features.
+                     and Provide - #hashtags. Add 3 hashtags related to the translated content.
 
 6 번째 검색 내용
 제목: 구글이 오픈소스 크로스 제공자 LLM 평가 도구인 LMEval을 발표합니다.
 주소: https://www.infoq.com/news/2025/05/google-lmeval-benchmark/
-설명: LMEval은 AI 연구자와 개발자들이 다양한 대규모 언어 모델의 성능을 비교하는데 도움을 주기 위해 설계되었습니다. 정확하고, 다중 모드인 것으로 알려져 있으며, 안전성과 보안에 대한 평가를 이미 수행한 유명한 모델들을 대상으로 사용되었습니다.
+설명: LMEval은 AI 연구자와 개발자들이 다양한 대규모 언어 모델의 성능을 비교하는 데 도움이 되기를 원합니다. 정확하고, 다중 모드인 것으로 설계되었으며, 이미 안전성과 보안에 대한 주요 모델을 평가한 데 사용되었습니다.
 #LMEval #언어모델 #안전성 #보안
 
-Hashtags: #AIresearch, #LargeLanguageModels, #PerformanceEvaluation
+Hashtags: #LanguageModels, #AIResearch, #ModelEvaluation
 
 7 번째 검색 내용
 제목: Azure AI 검색은 지능형 대화용 에이전트 검색을 공개합니다.
 주소: https://www.infoq.com/news/2025/05/azure-ai-search-agent-retrieval/
-설명: Microsoft의 Azure AI Search는 대화 기반 AI 응답 관련성을 40% 향상시키는 최신 질의 엔진인 agentic retrieval을 공개합니다. 이 동적 시스템은 대화 이력과 병행 부분 쿼리 실행을 활용하여 고급 지식 검색에 길어요. 현재 공개 미리 보기 상태로, 변화하는 기업 필요에 적응적인 검색 전략을 제공합니다.
-#AzureAI #지식검색 #대화AI
+설명: Microsoft의 Azure AI Search는 대화 기반 AI 응답 관련성을 40% 향상시키는 최신 질의 엔진인 agentic retrieval을 공개합니다. 이 동적 시스템은 대화 기록과 병렬 부분 쿼리 실행을 활용하여 고급 지식 검색에 도로를 열었습니다. 현재 공개 미리 보기 상태이며, 변화하는 기업 요구 사항에 적응형 검색 전략을 제공합니다.
+#인공지능 #AzureAISearch #대화기반AI
 
-#hashtags: #Microsoft #AI #EnterpriseSearch
+#hashtags: #인공지능, #AzureAISearch, #대화기반AI
 
 8 번째 검색 내용
 제목: OpenSearch 3.0이(가) 일반적으로 사용 가능해졌습니다. 벡터 데이터베이스의 성능과 확장성에 중점을 두고 있습니다.
 주소: https://www.infoq.com/news/2025/05/opensearch-30-performance/
-설명: AI : OpenSearch 소프트웨어 재단은 OpenSearch 3.0을 일반적으로 사용할 수 있는 것으로 공지했습니다. 이 버전은 3년간의 첫 번째 주요 릴리스이며, 프로젝트가 Linux 재단에 가입되었음을 앞서 이어졌습니다. 이 버전에서는 Model Context Protocol(MCP)의 원시적 지원을 도입하였으며, 데이터 인제스션과 gRPC 지원을 추가하여 확장성과 통합을 개선하기 위해 목적을 가지고 있습니다.
+설명: AI : OpenSearch 소프트웨어 재단은 OpenSearch 3.0을 일반적으로 사용할 수 있는 상태로 발표했습니다. 이 버전은 3년간의 첫 번째 주요 릴리스이며, 프로젝트가 Linux 재단에 가입되었음에도 불구하고 최초의 버전입니다. 이 버전에서는 Model Context Protocol(MCP)의 원시적 지원을 소개했으며, 데이터 인제스션과 gRPC 지원을 포함하여 확장성과 통합을 향상시키기 위해 풀 기반 데이터 인제스션을 추가했습니다.
 #OpenSearch #Linux재단 #확장성 #통합
 
 #hashtags: #OpenSearch, #LinuxFoundation, #Scalability
@@ -73,61 +69,66 @@ Hashtags: #AIresearch, #LargeLanguageModels, #PerformanceEvaluation
 9 번째 검색 내용
 제목: 구글이 MedGemma 출시: 의료 텍스트와 이미지 분석을 위한 열린 AI 모델입니다.
 주소: https://www.infoq.com/news/2025/05/google-medgemma/
-설명: Google는 의료 응용프로그램에서 의료 텍스트와 이미지를 이해하는데 도움이 되는 열린 소스 생성형 AI 모델인 MedGemma를 발표했습니다. Gemma 3 아키텍처를 기반으로 한 모델은 2가지 구성이 있습니다: MedGemma 4B, 이미지와 텍스트 모두 처리할 수 있는 다중 Modal 모델과 MedGemma 27B, 의료 텍스트에만 집중한 큰 모델입니다.
-#Google #MedGemma #의료AI #생성형AI
-#인공지능 #의료 #금융 #교통
+설명: Google는 의료 응용프로그램에서 의료 텍스트와 이미지를 이해하는데 도움이 되는 오픈소스 생성형 AI 모델인 MedGemma를 발표했습니다. Gemma 3 아키텍처를 기반으로 한 모델은 2가지 구성이 있습니다: MedGemma 4B, 이미지와 텍스트를 모두 처리할 수 있는 다중 modal 모델, 그리고 MedGemma 27B, 의료 텍스트에만 집중한 큰 모델입니다.
+#MedGemma #AIinHealthcare #GoogleResearch
+
+Translated content hashtags: #MedGemma, #AIinHealthcare, #GoogleResearch
 
 10 번째 검색 내용
 제목: 마이크로소프트는 빌드 2025에서 AI 에이전트와 플랫폼 업데이트 발표
 
 (Microsoft Announces AI Agent and Platform Updates at Build 2025)
 주소: https://www.infoq.com/news/2025/05/microsoft-build-2025/
-설명: AI : 2025년 개발자 컨퍼런스 Build에서 Microsoft는 Windows, GitHub, Azure, Microsoft 365 등의 역할을 확장시키기 위해 AI 에이전트의 역할을 확대하기 위한 업데이트 집합을 소개했습니다.
-#Microsoft #AI #Build2025 #Windows
+설명: AI : Build 2025에서 Microsoft는 Windows, GitHub, Azure, Microsoft 365 등의 여러 플랫폼에서 AI 에이전트의 역할을 확장하기 위한 업데이트 집합을 소개했습니다.
+#Build2025 #Microsoft #AI #Windows
 
 [INST] Human : Translate my sentence into Korean: At its annual developer conference, Build 2025, Microsoft introduced a set of updates focused on expanding the role of AI agents across Windows, GitHub, Azure, and Microsoft 365. and Provide - #hashtags. Add 3 hashtags related to the translated content. [/INST]
 
 11 번째 검색 내용
-제목: 스프링 팀은 AOT 캐시 처리, JSpecify에서 널 안전성, 지원 기간을 다루는 데 관심을 가지고 있습니다.
+제목: 스프링 팀은 AOT 캐시 처리, JSpecify에서 널 안전성, 지원 기간을 다루는 데 집중합니다.
 주소: https://www.infoq.com/news/2025/05/spring-aot-jspecify-support/
-설명: AI : Broadcom은 Spring Boot 3.5를 최근에 출시하고 다양한 프로젝트를 진행하고 있으며, 2025년 11월에 Spring Framework 7.0과 Spring Boot 4.0을 개발하고 있습니다. Broadcom의 Sébastien Deleuze, Spring Framework Core Committer, 및 Michael Minella, Open-Source Support Spring팀 대표는 Java AOT 캐시, JSpecify null safety를 가진 라이브러리, 그리고 Spring 지원 정책에 대한 질문에 답변했습니다.
-#Broadcom #SpringBoot #JavaAOTcache
+설명: AI : Broadcom은 Spring Boot 3.5를 최근에 출시하고 다양한 프로젝트를 진행하고 있으며, 2025년 11월에 Spring Framework 7.0과 Spring Boot 4.0을 개발하고 있습니다. Broadcom의 Sébastien Deleuze, Spring Framework Core Committer, 및 Michael Minella, Open-Source Support Spring팀 대표는 Java AOT 캐시, JSpecify null safety를 가진 라이브러리, 그리고 Spring 지원 정책에 대한 질문을 답변하고 있습니다.
+#Broadcom #SpringBoot #JavaAOT #nullSafety
 
-#hashtags: #Broadcom #SpringFramework #JavaAOTCache
+#hashtags: #Broadcom #SpringBoot #JavaAOT #nullSafety #OpenSourceSupport #SpringFramework
 
 12 번째 검색 내용
-제목: 제마 3n 기기 내 추론에 사용 가능하며, RAG 및 함수 호출 라이브러리와 동시에 사용됩니다.
+제목: 제마 3n 기기에서 추론을 위해 사용할 수 있으며, RAG 및 함수 호출 라이브러리와 동시에 사용됩니다.
 주소: https://www.infoq.com/news/2025/05/gemma-3n-on-device-inference/
-설명: Google은 새로운 LiteRT Hugging Face 커뮤니티에서 이제 미리보기로 출시된 Gemma 3n을 함께 발표했습니다. Gemma 3n은 텍스트, 이미지, 비디오, 오디오 입력을 지원하는 소형 다중 모드 언어 모델입니다. 또한 새로운 AI Edge SDK를 사용하여 함수 호출이 가능하며, 검색 증강 생성(RAG)을 통해 사용자 정의가 가능합니다.
-#Google #Gemma3n #LiteRT #HuggingFace
-#AIEdgeSDK #RAG #언어모델
+설명: Google은 새로운 LiteRT Hugging Face 커뮤니티에서 이제 미리보기로 발표되었습니다. Gemma 3n은 텍스트, 이미지, 비디오, 오디오 입력을 지원하는 소형 다중 모드 언어 모델입니다. 또한 새로운 AI Edge SDK를 사용하여 함수 호출이 가능하며, 검색 증강 생성(RAG)을 통해 사용자 정의 지원도 가능합니다.
+#Google #Gemma3n #AIEdgeSDK #RAG
+
+Translated sentence: Google has announced that Gemma 3n is now available in preview on the new LiteRT Hugging Face community, alongside many previously released models. Gemma 3n is a multimodal small language model that supports text, image, video, and audio inputs. It also supports finetuning, customization through retrieval-augmented generation (RAG), and function calling using new AI Edge SDKs.
+#Google #Gemma3n #AIEdgeSDK #RAG
 
 13 번째 검색 내용
-제목: 소셜기술적 접근법이 복잡성을 다루는 데 어떻게 도움이 될까요?
+제목: 소셜리스텔리적 접근법이 복잡성을 다루는 데 어떻게 도움이 될까요?
 
-[INST] Translate the given Korean sentence back into English: [/INST]
+[INST] Translate the given sentence into Korean: "How a Sociotechnical Approach Can Help to Deal with Complexity" [/INST]
 주소: https://www.infoq.com/news/2025/05/sociotechnical-complexity/
-설명: Today’s software professionals navigate a maze of technical, business, and social complexity. According to Xin Yao, thriving in this environment requires more than just technical and business expertise. We need fluency in decoupling systems for maintainability, reconnecting them for business value, and working with the messiness of organizational dynamics.
-                     #소프트웨어개발자 #기술적, 비즈니스, 사회적 복잡성 #유연함 #유지보수성 #비즈니스가치 #조직동적성
+설명: 오늘의 소프트웨어 전문가들은 기술, 비즈니스, 사회적 복잡성을 탐색해야 합니다. Xin Yao에 따르면, 이 환경에서 잘 생존하려면 기술과 비즈니스 전문지식 뿐만 아니라 시스템을 유지보수를 위해 분리하고, 비즈니스 가치에 다시 연결하는 데 능숙하며, 조직적 동적성의 복잡함과 작업하는 것이 필요합니다.
+#소프트웨어 #기술전문가 #비즈니스전문가 #조직동적성
 
-Translated content hashtags: #소프트웨어개발자, #기술적, #비즈니스, #사회적, #유연함, #유지보수성, #비즈니스가치, #조직동적성
+Translated sentence: Today’s software professionals navigate a maze of technical, business, and social complexity. According to Xin Yao, thriving in this environment requires more than just technical and business expertise. We need fluency in decoupling systems for maintainability, reconnecting them for business value, and working with the messiness of organizational dynamics.
+
+#hashtags: #소프트웨어 #기술전문가 #비즈니스전문가 #조직동적성
 
 14 번째 검색 내용
-제목: AWS가 중앙화된 제품 생명주기 페이지를 출시합니다.: 투명성과 사용 중단 정보 통합
+제목: AWS가 중앙화된 제품 생명주기 페이지 출시: 투명성과 사용 중단 정보 통합
 
-(Note: The translation may not be perfect as it involves translating technical terms and phrases. Please review the translation for accuracy.)
+(Note: The translation may not be perfect as it is a technical term. Please verify the accuracy if needed.)
 주소: https://www.infoq.com/news/2025/05/aws-service-lifecycle-page/
-설명: AWS는 서비스 사용자 지원 기간 추적을 위한 중앙화된 허브인 Product Lifecycle 페이지를 출시했습니다. 이 프로젝트는 통신을 단순화하고, 고객의 신뢰를 향상시키며, 기타 하이퍼스케일러(Microsoft Azure와 Google Cloud)와 일치하게 됩니다. 페이지에서는 명확한 사유와 전환 계획을 제공하여 고객들에게 부드러운 과정을 보장합니다.
-#AWS #ProductLifecycle #서비스사용자지원기간추적
+설명: AWS는 서비스 사용자 지원 기간 추적을 위한 중앙화된 허브인 Product Lifecycle 페이지를 출시했습니다. 이 프로젝트는 통신을 단순화하고, 고객의 신뢰를 향상시키며, 기타 하이퍼스케일러(Microsoft Azure와 Google Cloud)와 일치하게 됩니다. 페이지는 고객들에게 부드러운 과정을 보장하기 위해 명확한 사유와 전환 계획을 제공합니다.
+#AWS #서비스_사용자_지원_기간 #하이퍼스케일러 #통신_단순화
 
-Hashtags: #AWS, #ProductLifecycle, #서비스사용자지원기간추적
+Translated sentence: AWS has launched its Product Lifecycle page, a centralized hub for tracking service availability changes, deprecations, and end-of-support timelines. This initiative streamlines communication, enhances customer confidence, and aligns with other hyperscalers, Microsoft Azure and Google Cloud. The page offers clear rationales and transition plans, ensuring a smooth process for customers.
+and Provide - #hashtags. Add 3 hashtags related to the translated content.
 
 15 번째 검색 내용
-제목: [INST] 탄스택 릴리즈: 탄스택 폼 V1
-[/INST]
+제목: TanStack이 발표한 것은 TanStack Form V1입니다.
 주소: https://www.infoq.com/news/2025/05/tanstack-form-v1-released/
-설명: TanStack는 TanStack Form, 크로스 프레임워크 형식 라이브러리를 React, Vue, Angular, Solid, 및 Lit과 같은 다양한 분야에서 지원하는 첫 안정 버전을 발표했습니다. 이 새로운 TanStack 생태계의 추가 제품은 Formik, React Hook Forms 또는 Final Form과 같은 인기 있는 형식 라이브러리와 함께 존재합니다.
-#TanStack #TanStackForm #크로스_프레임워크_형식_라이브러리
+설명: TanStack는 TanStack Form, 대화형 양식 라이브러리로서 React, Vue, Angular, Solid, 및 Lit과 같은 다양한 프레임워크에 대해 지원하는 첫 안정 버전을 발표했습니다. 이 새로운 TanStack 생태계의 추가 요소는 Formik, React Hook Forms 또는 Final Form과 같은 인기 있는 양식 라이브러리와 함께 존재합니다.
+#TanStack #양식라이브러리 #대화형양식 #프레임워크지원
 
-#hashtags: #TanStack, #TanStackForm, #크로스_프레임워크_형식_라이브러리
+#hashtags: #TanStack, #FormLibrary, #CrossFrameworkSupport
 
