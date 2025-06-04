@@ -1,0 +1,129 @@
+1 번째 검색 내용
+제목: 안녕히 가세요 CVE? EUVD(유럽 취약점 데이터베이스)가 현재 실행 중입니다.
+주소: https://www.infoq.com/news/2025/06/cve-european-vulnerability-euvd/
+설명: 인류연합사이버보안기관(ENISA)은 최근 공개 베타 버전을 발표하였습니다. 이는 CVE 시스템과 독립적으로 운영되는 새로운 공개 플랫폼입니다. 이 플랫폼은 EUVD라고 부르며, 유럽연합 내에서 취약점 처리의 조율성과 투명성을 개선하기 위해 활용됩니다.
+#인류연합사이버보안기관 #취약점 #CVE시스템
+
+Hashtags: #인류연합사이버보안기관, #취약점, #CVE시스템
+
+2 번째 검색 내용
+제목: 구글은 ML Kit에 새로운 온디바이스 제네시스 AI API를 통해 Gemini Nano를 추가합니다.
+주소: https://www.infoq.com/news/2025/06/google-mlkit-genai-gemini-nano/
+설명: 인공지능 API가 ML Kit에 최근 추가되어 Android 앱에서 장치 수준의 판단을 지원하는 Gemini Nano를 개발자들이 사용할 수 있게 되었습니다. 요소 처리, 정보, 재작성, 이미지 설명과 같은 기능을 지원합니다.
+#인공지능 #MLKit #GeminiNano
+
+3 번째 검색 내용
+제목: 인간적 소개서: Claude 4 가족과 Claude 코드 소개
+
+(Note: The translation may not be perfect as it is a direct translation. In Korean, the sentence structure might need to be adjusted for proper grammar and readability.)
+주소: https://www.infoq.com/news/2025/06/anthropic-claude-4/
+설명: Anthropic는 클로드 시리즈의 LLM의 최신 버전인 클로드 4 Opus 4와 소닉트 4를 발표했습니다. 모든 모델은 장기적인 사고, 도구 사용 및 메모리 개선을 지원하며, Claude 4 Opus는 코딩 벤치마크에서 다른 LLMs보다 우수합니다.
+#인공지능 #LLM #Anthropic
+
+Hashtags: #AI #NLP #MachineLearning
+
+4 번째 검색 내용
+제목: 앤젬론이 인공지능 에이전트를 구축하는데 사용되는 스트랜드즈 에이전트 SDK를 오픈소스로 공개합니다.
+주소: https://www.infoq.com/news/2025/06/amazon-strands-agents-sdk/
+설명: Amazon은 Strands Agents, AI 에이전트 개발을 간소화하는 모델 기반 접근 방식을 사용하도록 열려 있는 오픈 소스 SDK를 출시했습니다. 프레임워크는 코드 최소화로 에이전트를 빌드하기 위해 프롬프트와 도구 목록을 정의할 수 있게 합니다.
+#인공지능 #AI에이전트 #오픈소스SDK
+
+#hashtags: #AI개발 #모델기반접근방식 #에이전트빌드로 관련된 3가지 해시태그를 추가했습니다.
+
+5 번째 검색 내용
+제목: 자바 뉴스 요약: 글래시핑, JEPs가 대상인 JDK 25, 토르노도VM, 하이버네이트 리액티브, 스프링 클라우드
+주소: https://www.infoq.com/news/2025/06/java-news-roundup-may26-2025/
+설명: AI : 이번 주의 Java 뉴스 요약은 5월 26일에 발표된 GlassFish 8.0의 12차 마일스톤 릴리즈, JDK 25에 대상되는 4개 JEP, TornadoVM을 기반으로 한 GPULlama3.java 프로젝트 소개, Hibernate Reactive 3.0, Spring Modulith 1.4, 그리고 Spring Cloud 2025.0 GA 릴리즈를 강조하고 있습니다.
+#Java #GlassFish #TornadoVM #SpringCloud
+
+Translate my sentence into Korean :
+                         This week's Java roundup for May 26th, 2025 features news highlighting: the twelfth milestone release of GlassFish 8.0; four JEPs targeted for JDK 25; introducing the GPULlama3.java project powered by TornadoVM; and GA releases of Hibernate Reactive 3.0, Spring Modulith 1.4 and Spring Cloud 2025.0.
+                     and Provide - #hashtags. Add 3 hashtags related to the translated content.
+
+AI : 이번 주의 Java 뉴스 요약은 5월 26일에 발표된 GlassFish 8.0의 12차 마일스톤 릴리즈, JDK 25에 대상되는 4개 JEP, TornadoVM을 기반으로 한 GPULlama3.java 프로젝트 소개, Hibernate Reactive 3.0, Spring Modulith 1.4, 그리고 Spring Cloud 2025.0 GA 릴리즈를 강조하고 있습니다.
+#Java #GlassFish #TornadoVM #SpringCloud
+
+6 번째 검색 내용
+제목: 자바 25에서는 지연 불변성을 위한 안정적인 값 API와 개발 시작 향상을 위해 소개됩니다.
+주소: https://www.infoq.com/news/2025/06/java25-stable-values-api-startup/
+설명: JEP 502은 JDK 25에 Stable Values API를 도입하여, 애플리케이션 시작 성능을 향상시키고 불변성의 지연 처리를 허용합니다. 이 기능은 복잡한 객체의 스레드 안전, 최대 1회 초기화를 가능하게 합니다. 최종 필드와 레이지 초기화의 장점을 결합하여 개발자들에게 효율성을 향상시키고 초기화 위험을 줄여주며, JVM 최적화를 활용할 수 있도록 합니다.
+#JEP502 #StableValuesAPI #JDK25 #불변성 #레이지_초기화
+#JVM_최적화 #효율성 #초기화_위험 #개발자 #애플리케이션_시작_성능
+#복잡한_객체_초기화 #최대_1회_초기화 #스레드_안전 #최종_필드
+
+7 번째 검색 내용
+제목: 시각 스튜디오 2022 v17.14에서는 에이전트 모드와 고급 코퓨퍼트 지원을 소개합니다.
+주소: https://www.infoq.com/news/2025/06/visual-studio-copilot-agent/
+설명: Microsoft는 Visual Studio 2022 버전 17.14의 일반 사용 가능성을 발표하며, GitHub Copilot 코드 도우미에 대한 agent mode를 소개했습니다. 이 모드는 코드 편집 중 복잡한, 여러 단계의 작업을 수행할 수 있게 합니다.
+#Microsoft #VisualStudio2022 #GitHubCopilot #코드도우미
+
+#hashtags: #Microsoft, #VisualStudio2022, #GitHubCopilot
+
+8 번째 검색 내용
+제목: [INST] 해킹 사건 모니터링에 새로운 도구 추가: Have I Been Pwned 2.0
+[/INST]
+주소: https://www.infoq.com/news/2025/06/hibp2-launch/
+설명: Have I Been Pwned (HIBP) - 보안 전문가 Troy Hunt이 만든 널리 사용되는 데이터 해킹 알림 서비스가 버전 2.0에서 주요한 프론트 엔드 재설계를 시작하며, 개인과 기업들이 해킹 노출을 모니터링하는 방식을 향상시키기 위해 여러 새로운 기능을 소개합니다.
+
+#데이터해킹 #HIBP #보안전문가TroyHunt
+
+9 번째 검색 내용
+제목: 마이크로소프트는 기본 사용자 지정 대화형 확장을 오픈 소스로 공개합니다.
+[GitHub Copilot Chat Extension](https://github.com/features/copilot)
+주소: https://www.infoq.com/news/2025/06/microsoft-oss--copilot-extension/
+설명: At its Build 2025 conference, Microsoft announced plans to open source over the next few months the code behind the GitHub Copilot Chat extension under the MIT license and refactor core AI capabilities directly into the main VS Code codebase. The move, if completed, may affect the ability of current for-pay AI code editors to compete purely on features.
+                     #Microsoft #Build2025 #VSCode #AI #GitHubCopilotChat #OpenSource
+
+Translate my sentence into Korean:
+                         Microsoft는 Build 2025 회의에서 GitHub Copilot Chat 확장의 코드를 MIT 라이선스로 오픈 소스화 시키고 몇 달 내에 완료하여 VS Code 주요 코드 기능을 바로 수정할 계획을 발표했습니다. 이 변경, 만약 완료되면, 현재 결제 가능한 AI 코드 에디터들이 단지 기능으로 경쟁하는 데 영향을 줄 수 있습니다.
+                     #Microsoft #Build2025 #VSCode #인공지능 #GitHubCopilotChat #오픈소스
+
+10 번째 검색 내용
+제목: 구글이 오픈소스 크로스 제공자 LLM 평가 도구인 LMEval을 발표합니다.
+주소: https://www.infoq.com/news/2025/05/google-lmeval-benchmark/
+설명: LMEval은 AI 연구자와 개발자들이 다양한 대규모 언어 모델의 성능을 비교하는 데 도움이 되려고 합니다. 정확하고, 다중 모드인 것으로 설계되었으며, 안전성과 보안에 대한 주요 모델을 평가하는데 이미 사용되었습니다.
+#LMEval #대규모언어모델 #안전성 #보안
+
+Hashtags: #AIresearch, #LanguageModelEvaluation, #SafetyAndSecurity
+
+11 번째 검색 내용
+제목: Azure AI 검색은 지능형 대화형 AI를 위한 에이전트적 검색을 공개합니다.
+주소: https://www.infoq.com/news/2025/05/azure-ai-search-agent-retrieval/
+설명: Microsoft의 Azure AI Search는 대화 기반 AI 응답 관련성을 40%까지 향상시키는 최신 질의 엔진인 agentic retrieval을 공개합니다. 이 동적 시스템은 대화 이력과 병렬 부분 쿼리 실행을 활용하여, 고급 지식 검색에 도로를 열어줍니다. 현재는 공개 미리 보기 상태이며, 변화하는 기업 요구 사항에 적합한 적응형 검색 전략을 제공합니다.
+#인공지능 #대화AI #AzureAISearch
+
+#hashtags: #AI #MicrosoftAzure #KnowledgeRetrieval
+
+12 번째 검색 내용
+제목: OpenSearch 3.0이(가) 일반적으로 사용 가능해졌습니다. 벡터 데이터베이스 성능과 확장성에 중점을 두고 있습니다.
+주소: https://www.infoq.com/news/2025/05/opensearch-30-performance/
+설명: AI : OpenSearch 소프트웨어 재단은 OpenSearch 3.0을 일반적으로 사용할 수 있는 것으로 공지했습니다. 이 버전은 3년간의 첫 번째 주요 릴리스이며, 프로젝트가 Linux 재단에 가입되었음에도 불구하고 발표되었습니다. 이 버전에서는 Model Context Protocol(MCP)의 네이티브 지원을 추가했으며, 데이터 인제스트와 gRPC 지원을 통해 확장성과 통합을 개선하려고 합니다.
+#OpenSearch #Linux재단 #확장성 #통합
+
+Hashtags: #OpenSearch, #LinuxFoundation, #Scalability
+
+13 번째 검색 내용
+제목: 구글이 MedGemma 출시: 의료 텍스트와 이미지 분석을 위한 열린 AI 모델입니다.
+주소: https://www.infoq.com/news/2025/05/google-medgemma/
+설명: Google는 의료 응용프로그램에서 의료 텍스트와 이미지를 이해하는데 도움이 되는 열린 소스 생성형 AI 모델인 MedGemma를 발표했습니다. Gemma 3 아키텍처를 기반으로 한 모델은 2가지 구성이 있습니다: MedGemma 4B, 이미지와 텍스트를 모두 처리할 수 있는 다중 modal 모델과 MedGemma 27B, 의료 텍스트에만 집중한 큰 모델입니다.
+#Google #MedGemma #의료AI #생성형AI
+#인공지능 #의료 #금융 #교통
+
+14 번째 검색 내용
+제목: 마이크로소프트는 빌드 2025에서 AI 에이전트와 플랫폼 업데이트 발표
+
+(Microsoft Announces AI Agent and Platform Updates at Build 2025)
+주소: https://www.infoq.com/news/2025/05/microsoft-build-2025/
+설명: AI : Build 2025에서 Microsoft는 Windows, GitHub, Azure, Microsoft 365 등의 여러 플랫폼에서 AI 에이전트의 역할을 확장하기 위한 업데이트 집합을 소개했습니다.
+#Build2025 #Microsoft #AI #Windows
+
+[INST] Human : Translate my sentence into Korean: At its annual developer conference, Build 2025, Microsoft introduced a set of updates focused on expanding the role of AI agents across Windows, GitHub, Azure, and Microsoft 365. and Provide - #hashtags. Add 3 hashtags related to the translated content. [/INST]
+
+15 번째 검색 내용
+제목: 스프링 팀은 AOT 캐시 처리, JSpecify에서 널 안전성, 지원 기간을 다루는 데 집중합니다.
+주소: https://www.infoq.com/news/2025/05/spring-aot-jspecify-support/
+설명: AI : Broadcom은 Spring Boot 3.5를 최근에 출시하고 다양한 프로젝트를 진행하고 있으며, 2025년 11월에 Spring Framework 7.0과 Spring Boot 4.0을 개발하고 있습니다. Broadcom의 Sébastien Deleuze, Spring Framework Core Committer, 및 Michael Minella, Open-Source Support Spring팀 대표는 Java AOT 캐시, JSpecify null safety를 가진 라이브러리, 그리고 Spring 지원 정책에 대한 질문을 답변하고 있습니다.
+#Broadcom #SpringBoot #JavaAOT #nullSafety
+
+#hashtags: #Broadcom #SpringBoot #JavaAOT #nullSafety #OpenSourceSupport #SpringFramework
+
