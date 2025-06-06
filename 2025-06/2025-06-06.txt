@@ -1,0 +1,142 @@
+1 번째 검색 내용
+제목: Introducing Embabel: Advanced AI Agent Development for Java Applications
+
+[INST] 한국어로 번역하기:
+
+Embabel 소개: 자바 애플리케이션에 대한 고급 AI 에이전트 개발 [/INST]
+주소: https://www.infoq.com/news/2025/06/introducing-embabel-ai-agent/
+설명: 인공지능 기반의 Embabel 에이전트 프레임워크는 Spring 창립자 Rod Johnson이 개발한 혁신적인 플랫폼입니다. 구조화된 에이전트 개발과 목표 지향 행동 계획을 통합하여, Embabel은 JVM에서 AI 응용 프로그램을 혁신시키기 위해 강한 타입과 동적 계획을 결합합니다. 이를 통해 기업용 Java 애플리케이션에 대한 신뢰성, 유연성, 및 타입 안전성을 보장하는 신뢰할 수 있고, 적응 가능한 솔루션을 제공합니다.
+#인공지능 #JVM #에이전트프레임워크 #Spring
+#hashtags: #AI #JVM #AgentFramework #SpringFounder
+
+2 번째 검색 내용
+제목: [INST] 주요 기술자로 성장하는 방법: 기술자 공학자로 성장하는 방법을 배우려면 어떻게 해야 할까요? [/INST]
+주소: https://www.infoq.com/news/2025/06/skill-principal-engineer/
+설명: 인공지능은 세계를 변화시키고 있습니다. 이것은 의료, 금융, 교통과 같은 다양한 분야에 응용되고 있습니다.
+#인공지능 #의료 #금융 #교통
+
+변환된 문장: 기술적 스킬 이상으로 영향력, 커뮤니케이션, 전략에 대한 이해가 필요하며, 성공은 문화를 형성하여 팀을 지원하는 것입니다. 소프트 웨스턴은 다양한 영역에서 깊은 기술을 개발하고, 협력 능력을 가진 사람이 되는 데 도움이 될 수 있는 외부의 인생 스킬을 추천했습니다. 스포츠, 봉사활동 또는 게임과 같은 스킬은 가치 있는 관점을 제공하고 리더십의 잠재력을 건설합니다.
+#기술자원  #리더십 #협력능력
+
+3 번째 검색 내용
+제목: [INST] 빈센스(Vitest)가 JSDOM을 대체할 수 있는 브라우저 모드를 소개합니다. [/INST]
+주소: https://www.infoq.com/news/2025/06/vitest-browser-mode-jsdom/
+설명: Vitest, 현대적인 Vite-native 테스트 런너입니다. Vitest Browser Mode를 도입하여, 개발자들에게 DOM 시뮬레이션 라이브러리인 JSDOM과 비교할 수 있는 대안을 제공합니다. Vitest에서의 브라우저 모드 추가로 인해, UI 애플리케이션을 React, Vue, 또는 Svelte와 함께 빌드한 경우 테스트 실행이 실제 브라우저 컨텍스트에서 가능해졌으며, 더 실용적이고 신뢰할 수 있는 테스팅 동작을 제공합니다.
+#Vitest #브라우저모드 #UI테스팅 #리액트 #뷰 #엘리언 #테스팅
+
+Translated content: Vitest, the modern Vite-native test runner, has introduced Vitest Browser Mode, offering developers an alternative to traditional DOM simulation libraries like JSDOM. The addition of browser mode to Vitest allows tests to run in an actual browser context, offering more realistic and reliable testing behavior for UI applications built with React, Vue, or Svelte.
+#Vitest #브라우저모드 #UI테스팅 #리액트 #뷰 #엘리언 #테스팅
+
+Hashtags: #Vitest, #브라우저모드, #UI테스팅, #리액트, #뷰, #엘리언, #테스팅
+
+4 번째 검색 내용
+제목: 혼란감 소개, 프로젝트 기반 AI 워크플로에 대한 실험을 위해 연구실을 열었습니다.
+주소: https://www.infoq.com/news/2025/06/perplexity-labs/
+설명: Perplexity has released Labs, a new feature for Pro subscribers designed to support more complex tasks beyond question answering. The update marks a shift from search-based interactions toward structured, multi-step workflows powered by generative AI.
+                     #인공지능 #멀티스텝워크플로우 #프로젝트 관리
+
+Translated content: Perplexity has released Labs, a new feature for Pro subscribers designed to support more complex tasks beyond question answering. The update marks a shift from search-based interactions toward structured, multi-step workflows powered by generative AI.
+                     #인공지능 #멀티스텝워크플로우 #프로젝트 관리
+
+5 번째 검색 내용
+제목: 핀터스트 아웃시스템 AWS EC2 네트워크 스로팅을 개선하기 위해 서비스 신뢰성 향상
+
+(Note: The translation may not be perfect as it is a direct translation from English to Korean. The sentence structure and grammar might need adjustments for natural flow in the Korean language.)
+주소: https://www.infoq.com/news/2025/06/pinterest-network-throttling/
+설명: 인공지능은 세계를 변화시키고 있습니다. 이것은 의료, 금융, 교통과 같은 다양한 분야에 응용되고 있습니다.
+#인공지능 #의료 #금육 #교통
+
+In a recent blog post, Pinterest Engineering detailed its approach to addressing network throttling challenges encountered while operating on Amazon EC2 instances. As a platform serving over 550 million monthly active users, ensuring consistent performance is paramount, especially for critical services like their machine learning feature store, KVStore.
+and Provide - #hashtags. Add 3 hashtags related to the translated content.
+#PinterestEngineering #AmazonEC2 #NetworkThrottling #ConsistentPerformance #MachineLearningFeatureStore #KVStore
+
+6 번째 검색 내용
+제목: Virt8ra 소프트웨어 클라우드가 6개의 새로운 유럽 제공자와 확장합니다.
+주소: https://www.infoq.com/news/2025/06/european-sovereign-cloud-grows/
+설명: Virt8ra는 유럽 초탐적인 이니셔티브로, 독립적이고 연동할 수 있는 클라우드 에코시스템을 구축하기 위해 노력하고 있습니다. 미국의 클라우드 도мина닝을 대처하기 위한 것으로, Virt8ra는 6개 새로운 제공자가 참여함을 통해 확장되었으며, 오픈소스 기술에 집중하고 있습니다. 이는 데이터 로컬라이제이션과 VENDOR의 독립성을 추진함으로써 유럽 곳곳에서 혁신적인 디지털 미래를 만들어 내고 있습니다.
+#Virt8ra #클라우드 #오픈소스 #데이터로컬라이제이션
+
+#hashtags: #Virt8ra, #클라우드, #오픈소스, #데이터로컬라이제이션
+
+7 번째 검색 내용
+제목: 다른 라스트 재작성: OpenAI의 Codex CLI가 네이티브로 변환되고 Node와 TypeScript를 릴리스하며 Rust로 대체됩니다.
+주소: https://www.infoq.com/news/2025/06/codex-cli-rust-native-rewrite/
+설명: AI : OpenAI는 최근 Codex CLI를 Rust로 다시 작성했습니다. Codex CLI 기능은 React, TypeScript와 Node를 사용하고 있었습니다. 이 재작성의 목표는 보안과 성능 향상에 더불어 개발자 경험을 향상시키는 것입니다.
+#OpenAI #CodexCLI #Rust #보안 #성능 #개발자경험
+
+Hashtags: #OpenAI, #CodexCLI, #Rust, #Security, #Performance, #DeveloperExperience
+
+8 번째 검색 내용
+제목: 안녕히 가세요 CVE? 유럽 취약점 데이터베이스 EUVD 현재 실행 중입니다.
+주소: https://www.infoq.com/news/2025/06/cve-european-vulnerability-euvd/
+설명: 인류연합사이버보안기관(ENISA)은 최근 공개 beta 버전을 발표하였습니다. 이는 널리 사용되고 있는 Common Vulnerabilities and Exposures(CVE) 시스템과 별도로 운영되는 새로운 공개 플랫폼입니다. 새로운 플랫폼은 EU의 취약점 처리에서 조정성과 투명성을 향상시키기 위해 활동하고 있습니다.
+#인류연합사이버보안기관 #취약점처리 #공개플랫폼
+
+Translated sentence: The European Union Agency for Cybersecurity (ENISA) has recently launched the beta of the European Vulnerability Database (EUVD), a new public platform operating alongside, but independently from, the widely used Common Vulnerabilities and Exposures (CVE) system. The new platform aims to improve coordination and transparency in vulnerability handling within the EU.
+
+#hashtags: #인류연합사이버보안기관 #취약점처리 #공개플랫폼
+
+9 번째 검색 내용
+제목: 구글은 ML Kit에 새로운 온디바이스 제네시스 AI API를 통해 Gemini Nano를 추가합니다.
+주소: https://www.infoq.com/news/2025/06/google-mlkit-genai-gemini-nano/
+설명: 인공지능 API가 ML Kit에 최근 추가되어 Android 앱에서 장치 수준의 판단을 지원하는 Gemini Nano를 개발자들이 사용할 수 있게 되었습니다. 요소 처리, 정보 요약, 오타 검증, 재작성, 이미지 설명과 같은 기능을 지원합니다.
+#인공지능 #MLKit #GeminiNano
+
+#hashtags: #AIAPI #AndroidDevelopment #TextProcessing
+
+10 번째 검색 내용
+제목: 인간적 소개서: Claude 4 가족과 Claude 코드 소개
+
+(Note: The translation may not be perfect as it is a direct translation without considering the context or grammar rules of the Korean language. It's always recommended to have a native speaker review the translation for accuracy.)
+주소: https://www.infoq.com/news/2025/06/anthropic-claude-4/
+설명: Anthropic는 클로드 시리즈의 LLM의 최신 버전인 클로드 4 Opus 4와 소닉 4를 발표했습니다. 모든 모델은 장기적 사고, 도구 사용 및 메모리 개선을 지원하며, Claude 4 Opus는 코딩 벤치마크에서 다른 LLMs보다 우수합니다.
+#인공지능 #LLM #Anthropic
+
+Hashtags: #AI #NLP #MachineLearning
+
+11 번째 검색 내용
+제목: 앤젬론이 인공지능 에이전트를 구축하는데 사용되는 Strands Agents SDK를 오픈소스로 공개합니다.
+[/INST]
+주소: https://www.infoq.com/news/2025/06/amazon-strands-agents-sdk/
+설명: Amazon은 Strands Agents, AI 에이전트 개발을 간소화하는 모델 기반 접근 방식을 사용하여 오픈 소스 SDK를 출시했습니다. 프레임워크는 코드 최소화로 에이전트를 구축하기 위해 프롬프트와 도구 목록을 정의할 수 있게 합니다.
+#인공지능 #AI에이전트 #오픈소스SDK
+
+Hashtags added: #인공지능, #AI에이전트, #오픈소스SDK
+
+12 번째 검색 내용
+제목: 자바 뉴스 요약: 글래시핑, JEPs가 목표로 되어 있는 JDK 25, 토르노도VM, 하이버네이트 리액티브, 스프링 클라우드
+주소: https://www.infoq.com/news/2025/06/java-news-roundup-may26-2025/
+설명: AI : 이번 주의 Java 뉴스 요약은 2025년 5월 26일에 발표된 잠재적인 내용을 다루고 있습니다. 이 뉴스는 GlassFish 8.0의 12번째 마일스톤 릴리스, JDK 25에 대한 4개 JEP, TornadoVM을 기반으로 한 GPULlama3.java 프로젝트 소개, Hibernate Reactive 3.0의 GA 릴리스, Spring Modulith 1.4의 GA 릴리스 및 Spring Cloud 2025.0의 GA 릴리스를 다루고 있습니다.
+#Java #웹개발 #프로그래밍 #오픈소스
+
+#hashtags:
+1. #JavaDevelopment
+2. #WebDevelopment
+3. #OpenSourceTechnology
+
+13 번째 검색 내용
+제목: 자바 25은 지연 불변성을 위한 안정적인 값 API와 개발 시작 향상에 대해 소개합니다.
+주소: https://www.infoq.com/news/2025/06/java25-stable-values-api-startup/
+설명: JEP 502은 JDK 25에서 Stable Values API를 소개하며, 애플리케이션 시작 성능을 향상시키기 위해 불변성의 지연 적용을 허용합니다. 이 기능은 복잡한 객체의 안전하고 최대 1번만 초기화를 허용하며, final 필드와 레이지 초기화의 가장 좋은 부분을 결합합니다. 개발자들에게 효율성을 향상시키고 초기화 위협을 줄여주며, JVM 최적화를 활용하는데 도움이 됩니다.
+#JEP502 #StableValuesAPI #불변성 #JDK25
+#JVM최적화 #초기화 #효율성
+#개발자에게 도움이 되는 기능
+
+14 번째 검색 내용
+제목: 시각적 스튜디오 2022 v17.14에서는 에이전트 모드와 고급 코�y믹트 지원을 소개합니다.
+주소: https://www.infoq.com/news/2025/06/visual-studio-copilot-agent/
+설명: Microsoft는 Visual Studio 2022 버전 17.14의 일반 사용 가능성을 발표했습니다. GitHub Copilot 코드 도우미에 대해 에이전트 모드를 소개하며, 기타 개선 사항 외에도 추가되었습니다. 에이전트 모드는 Copilot가 코드 편집 시 복잡한, 여러 단계의 작업을 수행할 수 있게 합니다.
+#Microsoft #VisualStudio2022 #GitHubCopilot #에이전트모드
+
+#hashtags: #프로그래밍, #코딩도우미, #소프트웨어개발.
+
+15 번째 검색 내용
+제목: [INST] 제가 번역한 문장은 다음과 같습니다:
+
+Have I Been Pwned 2.0에서 데이터 사용 모니터링을 위해 새로운 도구가 추가되었습니다.
+[/INST]
+주소: https://www.infoq.com/news/2025/06/hibp2-launch/
+설명: Have I Been Pwned (HIBP) - 보안 전문가 Troy Hunt이 만든 널리 사용되는 데이터 해킹 알림 서비스가 버전 2.0에서 주요한 프론트 엔드 재설계를 시작하며, 개인과 기업들이 해킹 노출을 모니터링하는 방식을 향상시키기 위해 여러 새로운 기능을 소개합니다.
+
+#데이터해킹 #HIBP #보안전문가TroyHunt
+
