@@ -1,136 +1,145 @@
 1 번째 검색 내용
-제목: 소개하는 ANS: DNS 영감 기반의 안전한 AI 에이전트 발견
+제목: 구글의 "웹 UI에서 새로운 것" 강의: 사용자 정의 컴포넌트 JavaScript 줄이고, 웹 표준 증가시키기
+주소: https://www.infoq.com/news/2025/06/new-web-ui-standard-2025/
+설명: Una Kravets는 최근 Chrome 팀에서 지원하는 Web UI의 최신 개발을 강의에서 소개했습니다. 현재 JavaScript로 많은 양이 필요한 일반적인 UI 패턴은 새로운 HTML과 CSS의 기능으로 선언적 방식으로 구현될 수 있을 것입니다. 더 적은 사용자 지정 JavaScript을 사용하고, 내장된 접근성이 포함되어 있습니다.
+#웹UI #Chrome팀 #접근성 #사용자 지정 자바스크립트
 
-(Note: The translation may not be perfect as it is a technical term. Please double-check the translation if necessary.)
-주소: https://www.infoq.com/news/2025/06/secure-agent-discovery-ans/
-설명: OWASP는 최근에 AI 에이전트를 안전하게 발견하기 위한 새로운 표준을 소개했습니다. DNS에서 영감을 받아 사용되는 Agent Name Service(ANS)는 프로토콜 독립적인 레지스트리 메커니즘을 제공하며, Public Key Infrastructure(PKI)를 사용하여 에이전트 식별성과 신뢰를 설정합니다.
-#OWASP #AI #안전한_발견 #ANS
+Translated sentence: Una Kravets recently presented in a talk recent developments in Web UI supported by the Chrome team. Some common UI patterns that currently require a significant amount of JavaScript may soon be implemented in a declarative manner with new features of HTML and CSS, with less custom JavaScript, and with built-in accessibility.
 
-#hashtags: #OWASP, #AI, #안전한_발견, #ANS
+Hashtags: #UnaKravets #WebUI #ChromeTeam #Declarative
 
 2 번째 검색 내용
-제목: 앤저마슨 오루라 DSQL이 GA되었습니다: 분산형, PostgreSQL 호환 서버리스 데이터베이스
+제목: 소개하는 ANS: DNS 영감 기반의 안전한 AI 에이전트 검색
 
-(Note: The translation may not be perfect as it is a technical term. Please confirm the accuracy with a professional translator if necessary.)
-주소: https://www.infoq.com/news/2025/06/amazon-aurora-dsql-ga/
-설명: Amazon은 최근에 Amazon Aurora DSQL, PostgreSQL 호환, 서버리스, 분산형 데이터베이스를 일반적으로 제공하였습니다. 새로운 관리형 서비스는 활성-활성 고가용성을 지원하고 다국어 강력한 일관성을 보장합니다.
-#AmazonAuroraDSQL #PostgreSQL #데이터베이스 #관리형서비스
+(Note: The translation may not be perfect as it involves technical terms. Please review and make any necessary adjustments.)
+주소: https://www.infoq.com/news/2025/06/secure-agent-discovery-ans/
+설명: OWASP는 최근에 AI 에이전트를 안전하게 발견하기 위한 새로운 표준을 소개했습니다. DNS에서 영감을 받아 한정되지 않은 프로토콜 레지스트리 메커니즘인 Agent Name Service (ANS)를 제공합니다. Public Key Infrastructure(PKI)를 사용하여 에이전트 식별성과 신뢰를 설정합니다.
+#OWASP #AI #안전한_에이전트_발견 #ANS
 
-Translated content hashtags: #AmazonAuroraDSQL, #PostgreSQL, #데이터베이스, #관리형서비스
+#hashtags: #OWASP, #AI, #안전한_에이전트_발견, #ANS
 
 3 번째 검색 내용
-제목: AWS가 오픈소스 모델 컨텍스트 프로토콜 서버를 ECS, EKS, 및 서버리스에 대해 소개합니다.
-주소: https://www.infoq.com/news/2025/06/aws-open-source-mcp-servers/
-설명: AWS는 GitHub에서 오픈소스 Model Context Protocol(MCP) 서버를 출시하여 Amazon ECS, EKS, 및 서버리스 환경의 AI 개발을 빠르게 진행합니다. 이러한 전문성 도구는 개발자에게 실시간, 상황에 따른 인사이트를 제공하여 응용 프로그램 배포, 문제 해결 및 운영 효율성을 향상시킵니다. 클라우드 경험을 오늘부터 강화하세요!
-#AWS #인공지능 #클라우드 #개발자
+제목: 앤저마슨 오루라 DSQL이 GA되었습니다: 분산, PostgreSQL 호환 서버리스 데이터베이스
 
-Hashtags: #AWS, #인공지능, #클라우드, #개발자
+(Note: The translation may not be perfect as some terms and phrases might not have direct equivalents in Korean. However, the meaning should be conveyed correctly.)
+주소: https://www.infoq.com/news/2025/06/amazon-aurora-dsql-ga/
+설명: Amazon은 최근에 Amazon Aurora DSQL, PostgreSQL 호환, 서버리스, 분산형 데이터베이스를 일반적으로 제공하였습니다. 새로운 관리형 서비스는 활성-활성 고가용성을 지원하고 다국어 강한 일관성을 보장합니다.
+#AmazonAuroraDSQL #PostgreSQL #데이터베이스 #고가용성
+
+Translated content hashtags: #AmazonAuroraDSQL, #PostgreSQL, #데이터베이스, #고가용성
 
 4 번째 검색 내용
-제목: 네트워크 애스파이어 9.3는 깃허브 코피로트 통합과 확장된 앤저 지원을 가져옵니다.
-주소: https://www.infoq.com/news/2025/06/dotnet-aspire-93-release/
-설명: NET 팀은 .NET Aspire의 9.3 버전을 출시하였습니다. 진단, 통합 및 배포 워크플로우에서 업데이트를 도입하고 있습니다. 공식 발표에 따르면, 이 릴리즈는 개발자 경험을 향상시키기 위해 Aspire 대시보드에 GitHub Copilot을 통합하고, 추적 능력을 확장하고, Azure 배포를 간소화하는 것을 목표로 합니다.
-#.NET #Aspire #개발자경험 #Azure #GitHubCopilot
+제목: AWS가 오픈소스 모델 컨텍스트 프로토콜 서버를 ECS, EKS, 및 서버리스에 대해 소개합니다.
+주소: https://www.infoq.com/news/2025/06/aws-open-source-mcp-servers/
+설명: AWS는 GitHub에서 오픈소스 Model Context Protocol(MCP) 서버를 출시하여 Amazon ECS, EKS, 및 서버리스 환경의 AI 개발을 빠르게 진행합니다. 이러한 전문성 도구는 개발자에게 실시간, 상황에 따른 인사이트를 제공하여 응용 프로그램 배포, 문제 해결 및 운영 효율성을 향상시킵니다. 클라우드 경험을 오늘 이어서 강화하세요!
+#AWS #인공지능 #클라우드 #개발자
 
-#hashtags: #.NET, #Aspire, #개발자경험, #Azure, #GitHubCopilot
+#hashtags: #AWS, #인공지능, #클라우드, #개발자
 
 5 번째 검색 내용
-제목: 투플렉스 2.6 GA 출시와 보안 발전
-[INST] Flux 2.6 GA Release and Security Advancements을 한국어로 번역하는 것은 아니지만, 이 문장을 한국어로 번역하면 "투플렉스 2.6 GA 출시와 보안 발전"입니다. [/INST]
-주소: https://www.infoq.com/news/2025/06/flux-26-security/
-설명: 인공지능 : 플렉스 프로젝트는 플렉스 v2.6.0의 사용 가능성을 발표했습니다. 이 버전은 플렉스 Open Container Initiative(OCI) 아티팩트 기능의 일반 사용 가능성(GA)을 나타내며, 조직들이 GitOps에 접근하는 방식에 대한 기본적인 변화를 의미합니다.
-#플렉스 #OCI아티팩트 #GitOps
+제목: 네트워크 애스파이어 9.3는 깃허브 코피로트 통합과 확장된 에즐 지원을 가져옵니다.
+주소: https://www.infoq.com/news/2025/06/dotnet-aspire-93-release/
+설명: NET 팀은 .NET Aspire의 9.3 버전을 출시하였습니다. 진단, 통합 및 배포 워크플로우에서 업데이트를 도입하고 있습니다. 공식 발표에 따르면, 이 릴리스는 개발자 경험을 향상시키기 위해 Aspire 대시보드에 GitHub Copilot을 통합하고, 추적 능력을 확장하고, Azure 배포를 간소화하는 것이 목표입니다.
+#.NETAspire #개발자경험 #Azure #GitHubCopilot
 
-Hashtags: #OpenContainerInitiative, #GitOpsPractices, #FluxProjectUpdate
+#hashtags: #.NETAspire, #개발자경험, #Azure, #GitHubCopilot
 
 6 번째 검색 내용
-제목: [INST] 코드 작성에 도움이 되는 AI를 추가한 GitLab 18 버전 자체 호스팅 릴리스 발표
-[/INST]
-주소: https://www.infoq.com/news/2025/06/gitlab-18-ai-code-assistance/
-설명: GitLab는 DevSecOps 플랫폼의 버전18.0을 발표하였습니다. 이 버전에서는 Premium과 Ultimate 티어에서 AI 기능을 더욱 강화하고 있으며, 개발 워크플로우를 AI 네이티브로 구성하여 Microsoft의 GitHub Copilot와 같은 AI 지원 코딩 플랫폼과 일치시켰습니다.
-#GitLab #DevSecOps #AI #코딩 #플랫폼
+제목: 투플렉스 2.6 GA 출시와 보안 발전
+[INST] Flux 2.6 GA Release and Security Advancements을 한글로 번역합니다. : [/INST]
+주소: https://www.infoq.com/news/2025/06/flux-26-security/
+설명: AI : 플럭스 프로젝트는 플럭스 v2.6.0의 사용 가능성을 발표했습니다. 이 버전은 플럭스 Open Container Initiative(OCI) 아티팩트 기능의 일반 사용 가능성(GA)을 표시하며, 조직이 GitOps에 대해 어떻게 접근하는지 기본적인 변화를 나타냅니다.
+#플럭스 #OCI아티팩트 #GitOps
 
-#hashtags: #GitLab, #DevSecOps, #AI, #coding, #platform
+Hashtags: #FluxProject, #OpenContainerInitiative, #GitOpsPractices
 
 7 번째 검색 내용
-제목: 소개하는 Embabel: Java 응용 프로그램에 대한 고급 AI 에이전트 개발
+제목: GitLab은 자체 호스팅 GitLab 18 릴리즈에서 AI 코드 지원을 추가합니다.
+주소: https://www.infoq.com/news/2025/06/gitlab-18-ai-code-assistance/
+설명: GitLab는 DevSecOps 플랫폼의 버전18.0을 출시하였습니다. 이 버전에서는 Premium과 Ultimate 티어에서 AI 기능을 더욱 강화하였으며, 이를 AI-native 개발 워크플로우로 구현하였습니다. GitLab은 Microsoft의 GitHub Copilot와 같은 AI 지원 코딩 플랫폼과 함께 경쟁합니다.
+#GitLab #DevSecOps #AI #코딩 #경쟁력
+
+#hashtags: #GitLab, #DevSecOps, #AI, #coding, #competition
+
+8 번째 검색 내용
+제목: 소개하는 Embabel: Java 애플리케이션에 대한 고급 AI 에이전트 개발
 
 (Note: The translation may not be perfect as it is a machine translation. Please review and make any necessary adjustments.)
 주소: https://www.infoq.com/news/2025/06/introducing-embabel-ai-agent/
-설명: AI : 임베이블 에이전트 프레임워크는 스프링 창립자 로드 존슨이 개발한 새로운 플랫폼입니다. 구조화된 에이전트 개발과 목표 지향 행동 계획을 통합하여 임베이블은 JVM에서 AI 응용 프로그램을 혁신적으로 변화시키는데 사용됩니다. 강한 타입과 동적 계획을 결합하여 기업 Java 애플리케이션에 신뢰성, 유연성, 및 타입 안전성을 보장합니다.
-#임베이블_에이전트_프레임워크 #AI_JVM #구조화된_에이전트_개발
+설명: AI : 임베이블 에이전트 프레임워크는 스프링 창립자 로드 존슨이 개발한 새로운 플랫폼입니다. 이 플랫폼은 JVM에서 AI 애플리케이션을 혁신적으로 변화시키기 위해 구조화된 에이전트 개발과 목표 지향 행동 계획을 결합하여 강한 타입과 동적 계획을 결합하여 기업용 Java 애플리케이션에 신뢰성, 유연성, 및 타입 안전성을 보장합니다.
+#임베이블_에이전트_프레임워크 #JVM_AI_애플리케이션 #구조화된_에이전트_개발 #목표_지향_행동_계획
 
-Hashtags: #AI #JVM #EnterpriseJavaApplications
+Translated content: 
+Introducing the Embabel Agent Framework, a pioneering platform developed by Spring founder Rod Johnson, designed to revolutionize AI applications on the JVM. By integrating structured agent development and Goal-Oriented Action Planning, Embabel combines strong typing with dynamic planning, ensuring reliable, adaptable, and type-safe solutions for enterprise Java applications.
+#Embabel_Agent_Framework #JVM_AI_applications #Structured_agent_development #Goal_Oriented_Action_Planning
 
-8 번째 검색 내용
-제목: [INST] 기술 전문가로 성장하는 방법: 기술 전문가로 성장하려면 어떻게 해야 할까요?
+Hashtags added: 
+1. #Embabel_Agent_Framework
+2. #JVM_AI_applications
+3. #Structured_agent_development
+4. #Goal_Oriented_Action_Planning
+
+9 번째 검색 내용
+제목: [INST] 기술 전문가로 성장하는 방법을 알고 싶다면?
 [/INST]
 주소: https://www.infoq.com/news/2025/06/skill-principal-engineer/
 설명: 인공지능은 세계를 변화시키고 있습니다. 이것은 의료, 금융, 교통과 같은 다양한 분야에 응용되고 있습니다.
 #인공지능 #의료 #금융 #교통
 
-변환된 문장: 기술 스킬보다는 영향력, 커뮤니케이션 및 전략에 대한 경험이 주인공 엔지니어가 되려면 더 필요합니다. 성공은 문화를 형성하여 팀을 활성화하는 것입니다. 소프트 웨스턴은 다양한 영역에서 깊은 기술을 개발하고 협력 능력을 키우는 것을 추천합니다. 작업 외부의 생활 스킬, 운동, 봉사 또는 게임과 같은 스킬이 가치 있는 관점을 제공하고 리더십의 잠재력을 빌드합니다.
-#기술_스킬 #리더십 #협력_능력 #생활_외부_스킬
-
-9 번째 검색 내용
-제목: [INST] 빈센터(Vitest)가 JSDOM을 대체할 수 있는 브라우저 모드를 소개합니다. [/INST]
-주소: https://www.infoq.com/news/2025/06/vitest-browser-mode-jsdom/
-설명: Vitest, 현대적인 Vite-native 테스트 러너입니다. Vitest Browser Mode를 소개하였으며, 개발자들에게 DOM 시뮬레이션 라이브러리인 JSDOM와 비교할 수 있는 대안을 제공합니다. Vitest에서의 브라우저 모드 추가로 인해, UI 응용 프로그램을 React, Vue, 또는 Svelte와 함께 빌드한 경우 테스트 실행이 실제 브라우저 컨텍스트에서 가능해졌으며, 이로 인해 더 실용적이고 신뢰할 수 있는 테스팅 동작을 제공합니다.
-#Vitest #브라우저모드 #UI테스트 #Vue #React #Svelte
-
-#hashtags: #Vitest, #브라우저모드, #UI테스트, #Vue, #React, #Svelte
+변환된 문장: 기술적 스킬 뿐만 아니라 영향력, 커뮤니케이션, 전략에 대한 이해가 필요하며, 성공은 문화를 형성하여 팀을 지원하는 것입니다. 소프트 웨스턴은 다양한 영역에서 깊은 기술을 개발하고, 협력 능력을 키우는 것이 중요하다고 제안했습니다. 작업 외의 생활 스킬, 운동, 봉사 또는 게임과 같은 스킬은 가치 있는 관점을 제공하고 리더십의 잠재력을 건설합니다.
+#기술적_스킬 #영향력 #커뮤니케이션 #전략 #협력_능력 #생활_외_작업 #리더십 #봉사 #운동 #게임
+#인공지능_및_다양한_분야의_적용 #기술자로_성장하는_데_필요한_스킬 #기술자가_되려면_무엇이_필요할까요
 
 10 번째 검색 내용
-제목: 혼란감 소개, 프로젝트 기반 AI 워크플로에 대한 실험을 위한 연구실 개설합니다.
-주소: https://www.infoq.com/news/2025/06/perplexity-labs/
-설명: Perplexity has released Labs, a new feature for Pro subscribers designed to support more complex tasks beyond question answering. The update marks a shift from search-based interactions toward structured, multi-step workflows powered by generative AI.
-                     #인공지능 #머신러닝 #프로젝트_라이브러리
+제목: [INST] 빈센스(Vitest)가 JSDOM을 대체할 대안으로 브라우저 모드를 소개합니다. [/INST]
+주소: https://www.infoq.com/news/2025/06/vitest-browser-mode-jsdom/
+설명: Vitest, 현대적인 Vite-native 테스트 런너입니다. Vitest Browser Mode를 도입하여, 개발자들에게 DOM 시뮬레이션 라이브러리인 JSDOM과 같은 전통적인 방식의 대안을 제공합니다. Vitest에서 browser mode의 추가로 인해, UI 응용 프로그램을 React, Vue, 또는 Svelte와 함께 빌드한 경우 테스트를 실제 브라우저 컨텍스트에서 실행할 수 있습니다.
 
-Translated content: 
-Perplexity has released Labs, a new feature for Pro subscribers designed to support more complex tasks beyond question answering. The update marks a shift from search-based interactions toward structured, multi-step workflows powered by generative AI.
-                     #인공지능 #머신러닝 #프로젝트_라이브러리
+#Vitest #브라우저모드 #UI테스트 #리액트 #뷰 #엘리엄 #테스트런너 [/INST]
 
 11 번째 검색 내용
-제목: 핀터스트 클라우드 AWS EC2 네트워크 트로팅을 개선하여 서비스 신뢰성 향상
+제목: 혼란감으로 소개: 프로젝트 기반 AI 워크플로에 대한 실험
 
-(Note: The translation may not be perfect as it is a direct translation without considering the context or grammar rules of the Korean language. It's always recommended to have a native speaker review the translation for accuracy.)
+(Note: The translation may not be perfect as the original sentence seems to be a mix of English and another language. I tried my best to provide an appropriate translation.)
+주소: https://www.infoq.com/news/2025/06/perplexity-labs/
+설명: Perplexity는 Pro 구독자들에게 질문 답변 밖에서 더 복잡한 작업을 지원하기 위해 새로운 기능인 Labs를 출시했습니다. 이 업데이트는 검색 기반의 상호 작용에서 구조화된, 다단계 워크플로우를 지원하는 생성형 AI를 기반으로 한 변화입니다.
+#인공지능 #워크플로우 #프로젝트 #검색
+
+Hashtags: #인공지능, #워크플로우, #프로젝트, #검색
+
+12 번째 검색 내용
+제목: 핀터스트 아웃시드 엑스2 네트워크 스로팅을 개선하기 위해 AWS EC2 서비스 신뢰도 향상
+[INST] Pinterest Tackles AWS EC2 Network Throttling to Enhance Service Reliability
 주소: https://www.infoq.com/news/2025/06/pinterest-network-throttling/
 설명: 인공지능은 세계를 변화시키고 있습니다. 이것은 의료, 금융, 교통과 같은 다양한 분야에 응용되고 있습니다.
 #인공지능 #의료 #금육 #교통
 
 In a recent blog post, Pinterest Engineering detailed its approach to addressing network throttling challenges encountered while operating on Amazon EC2 instances. As a platform serving over 550 million monthly active users, ensuring consistent performance is paramount, especially for critical services like their machine learning feature store, KVStore.
 and Provide - #hashtags. Add 3 hashtags related to the translated content.
-#PinterestEngineering #네트워크축소 #AmazonEC2 #성능최적화
 
-12 번째 검색 내용
+#PinterestEngineering #AmazonEC2 #NetworkThrottling #ConsistentPerformance
+
+13 번째 검색 내용
 제목: Virt8ra 소프트웨어 클라우드가 6개의 새로운 유럽 제공자와 확장합니다.
 주소: https://www.infoq.com/news/2025/06/european-sovereign-cloud-grows/
-설명: Virt8ra는 유럽 초탐적인 초기 이니셔티브로, 독립적이고 연동성 있는 클라우드 에코시스템을 구축하려고 합니다. 미국의 클라우드 지배를 대응하기 위해서입니다. 중요한 확장으로, 이제 6개의 새로운 공급자가 포함되었으며, 오픈소스 기술에 집중하고 있어, 유럽 곳곳에서 혁신적인 디지털 미래를 이끌어 내고 있습니다.
+설명: Virt8ra는 유럽 초탐적인 이니셔티브로, 독립적이고 연동성 있는 클라우드 에코시스템을 구축하기 위해 노력하고 있습니다. 미국의 클라우드 도мина닝을 대처하기 위한 것으로, Virt8ra는 6개 새로운 제공자를 포함하여 확장되었으며, 오픈소스 기술에 집중하고 있습니다. 이는 유럽 곳곳에서 혁신적인 디지털 미래를 만들어내는데 도움이 됩니다.
 #Virt8ra #클라우드 #오픈소스 #유럽
 
 #hashtags: #Virt8ra, #클라우드, #오픈소스, #유럽
 
-13 번째 검색 내용
-제목: 다른 라스트 재작성: OpenAI의 Codex CLI가 네이티브로 변환되고, 노드와 타입스크립트를 런 대신 러스트로 전환
-
-(원문 참조)
+14 번째 검색 내용
+제목: 다른 라스트 재작성: OpenAI의 Codex CLI가 네이티브로 변환되고, 노드와 타입스크립트를 라스트에서 사용하지 않습니다.
 주소: https://www.infoq.com/news/2025/06/codex-cli-rust-native-rewrite/
-설명: AI : OpenAI는 최근 Codex CLI를 Rust로 다시 작성했습니다. Codex CLI 기능은 React, TypeScript와 Node를 사용하고 있었습니다. 이 재작성의 목적은 보안과 성능 향상에 더미 개발자 경험 향상을 포함한 것입니다.
+설명: AI : OpenAI는 최근 Codex CLI를 Rust로 다시 작성했습니다. Codex CLI 스택은 기본적으로 React, TypeScript와 Node를 사용하고 있습니다. 이 재작성의 목표는 보안과 성능 향상에 더불어 개발자 경험을 개선하는 것입니다.
 #OpenAI #CodexCLI #Rust #보안 #성능 #개발자경험
 
 Hashtags: #OpenAI, #CodexCLI, #Rust, #Security, #Performance, #DeveloperExperience
 
-14 번째 검색 내용
-제목: 안녕히 가세요 CVE? EUVD(유럽 취약점 데이터베이스)가 실행되었습니다.
+15 번째 검색 내용
+제목: 안녕히 가세요 CVE? EUVD(유럽 취약점 데이터베이스)가 활성화되었습니다.
 주소: https://www.infoq.com/news/2025/06/cve-european-vulnerability-euvd/
-설명: 인류연합사이버보안기관(ENISA)은 최근 공개 베타 버전을 발표하였습니다. 이는 유럽 취약성 데이터베이스(EUVD)로, 널리 사용되는 Common Vulnerabilities and Exposures(CVE) 시스템과 별도로 운영되는 새로운 공개 플랫폼입니다. 이 플랫폼은 EU에서 취약성 처리에 대한 조율성과 투명성을 향상시키기 위해 목표를 두고 있습니다.
+설명: 인류연합사이버보안기관(ENISA)은 최근에 공개 베타 버전을 발표하였습니다. 이는 유럽 취약성 데이터베이스(EUVD)로, CVE 시스템과 동시에 독립적으로 운영되는 새로운 공개 플랫폼입니다. 새로운 플랫폼은 EU 내의 취약성 처리에 대한 조율과 투명성을 향상시키기 위해 목표를 지정하고 있습니다.
 #인류연합사이버보안기관 #EUVD #취약성처리 #투명성
 
 Hashtags: #ENISA, #EUVulnerabilityDatabase, #VulnerabilityHandlingCoordination
-
-15 번째 검색 내용
-제목: 구글은 ML Kit에 새로운 온디바이스 제네시스 AI API를 통해 Gemini Nano를 추가합니다.
-주소: https://www.infoq.com/news/2025/06/google-mlkit-genai-gemini-nano/
-설명: AI : 최근에 ML Kit에 추가된 GenAI API는 Android 앱에서 장치 인프런스를 지원하여 요약, 수정, 재작성, 이미지 설명과 같은 기능을 사용할 수 있도록 개발자들에게 제공됩니다.
-#GenAI #MLKit #AndroidApps
 
