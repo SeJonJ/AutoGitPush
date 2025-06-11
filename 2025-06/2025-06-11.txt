@@ -1,0 +1,141 @@
+1 번째 검색 내용
+제목: [INST] 기타Lab 17.11은 DevSecOps를 향상시키고 사용자 지정 준수 프레임워크와 확장된 제어를 추가합니다. [/INST]
+주소: https://www.infoq.com/news/2025/06/GitLab1711-Compliance/
+설명: On April 17, 2025, GitLab released version 17.11, introducing significant advancements in compliance management and DevSecOps integration. A standout feature of this release is the introduction of Custom Compliance Frameworks, designed to embed regulatory compliance directly into the software development lifecycle.
+#GitLab #버전17.11 #규정준수 #소프트웨어개발생명주기
+
+Translated content: 
+On April 17, 2025, GitLab released version 17.11, introducing significant advancements in compliance management and DevSecOps integration. A standout feature of this release is the introduction of Custom Compliance Frameworks, designed to embed regulatory compliance directly into the software development lifecycle.
+#GitLab #버전17.11 #규정준수 #소프트웨어개발생명주기
+
+2 번째 검색 내용
+제목: AWS가 다중 클라우드 Kubernetes 복잡성을 해결하기 위해 EKS 대시보드를 출시합니다.
+주소: https://www.infoq.com/news/2025/06/aws-eks-dashboard-kubernetes/
+설명: Amazon EKS Dashboard 소개: AWS에서 다양한 Kubernetes 클러스터를 통합하여 중앙에서 관리할 수 있는 도구입니다. 운영 관점을 간소화하고, 자원 분배, 건강 메트릭, 비용 예측과 같은 인사이트를 제공합니다. 쉽게 설계되어 AWS에서 Kubernetes 클러스터의 전체적인 관리를 간소화하고, 데이터 기반 인사이트로 전략 계획을 강화합니다.
+#AWS #Kubernetes #EKS #Dashboard
+
+#hashtags: #AWS #Kubernetes #EKS #Dashboard
+
+3 번째 검색 내용
+제목: 구글 클라우드 런은 AI와 배치 처리에 대한 서버리스 GPU를 제공합니다.
+주소: https://www.infoq.com/news/2025/06/google-cloud-run-nvidia-gpu/
+설명: Google Cloud는 NVIDIA GPU 지원을 Cloud Run에 출시하여, 서버리스 플랫폼에 확장성이 있고 비용효율적인 GPU 자원을 추가합니다. 이 업그레이드는 AI 빠른 유추와 배치 처리를 지원하며, 초당 결제 및 자동으로 0으로 스케일링됩니다. 개발자들은 GPU 지원을 간편하게 접근할 수 있어, 고급 AI 애플리케이션이 빠르고 더 접근 가능합니다.
+#GoogleCloud #NVIDIAGPU #AI #서버리스
+
+#hashtags: #인공지능, #클라우드, #GPU, #개발자, #비용효율적, #배치처리, #빠른AI유추, #초당결제, #자동스케일링.
+
+4 번째 검색 내용
+제목: 자바 뉴스 요약: JDK 25 램프다운, JDK 26 익스퍼트 그룹, 하이버네이트 서치, 프로젝트 크레마
+주소: https://www.infoq.com/news/2025/06/java-news-roundup-jun02-2025/
+설명: AI : 6월 2일에 발표된 이번 주의 Java 뉴스 요약은 JDK 25 Rampdown Phase One, JDK 26 전문가 그룹 창설, Hibernate Search 8.0.0.Final 출시, Grails 7.0.0의 4번째 Milestone Release, Open Liberty 25.0.0.6의 Beta Release, Eclipse JNoSQL, Helidon 및 JBang의 Point Release, 그리고 Oracle Labs에서 Project Crema에 대한 스니핑 뷰를 포함합니다.
+#Java #JDK25 #HibernateSearch #Grails7.0.0
+
+Hashtags: #Java #JDK26 #OracleLabsProjectCrema #OpenLiberty25.0.0.6
+
+5 번째 검색 내용
+제목: 라스트 기반의 빌드 대체 제품으로 Vite를 대체한 것이 발표되었습니다. 초기 적극 사용자들은 10배 더 빠른 빌드를 보고 있습니다.
+주소: https://www.infoq.com/news/2025/06/rolldown-vite-10x-faster-builds/
+설명: Evan You, Vue.JS 프론트엔드 프레임워크의 창시자는 최근에는 Rust로 작성된 Vite 번들러의 대체품인 rolldown-vite의 기술 미리보기를 발표했습니다. 초기 적극 사용자(예: Excalidraw, GitLab)는 3-16배 빌드 속도가 빨라지고 메모리 사용량이 크게 줄어들었음을 보고했습니다.
+#VueJS #rolldown-vite #Vite #Rust
+
+#hashtags: #프론트엔드 #번들러 #성능향상 #Rust
+
+6 번째 검색 내용
+제목: 웹을 탐색하는 것에 대한 규모를 고려한 Orca: AI 에이전트의 인간 지도로 향한 미래를 탐색합니다.
+주소: https://www.infoq.com/news/2025/06/orca-browser/
+설명: AI : UC San Diego의 연구자들은 Orca라는 열린 소스 시스템을 발표했습니다. 이것은 대규모 언어 모델(LLM)이 웹에서 사용자를 도와주는 방식을 보여줍니다 - 제어를 취하지 않고, 상호작용을 안내합니다.
+#UC_SanDiego #Orca #열린소스시스템
+
+#hashtags: #인공지능 #대규모언어모델 #웹상호작용
+#인공지능 #대규모언어모델 #열린소스시스템
+
+7 번째 검색 내용
+제목: 인간적 개방형 소스 도구를 사용하여 대규모 언어 모델의 "생각"을 추적합니다.
+주소: https://www.infoq.com/news/2025/06/anthropic-circuit-tracing/
+설명: Anthropic researchers have open-sourced the tool they used to trace what goes on inside a large language model during inference. It includes a circuit tracing Python library that can be used with any open-weights model and a frontend hosted on Neuropedia to explore the library output through a graph.
+#인공지능 #언어모델 #추론
+
+Translated content hashtags: 
+1. #ArtificialIntelligence
+2. #NaturalLanguageProcessing
+3. #InferenceProcess
+
+8 번째 검색 내용
+제목: 구글의 "웹 UI에서 새로운 것" 강의: 사용자 정의 컴포넌트 JavaScript 줄이고, 웹 표준 증가시키기
+주소: https://www.infoq.com/news/2025/06/new-web-ui-standard-2025/
+설명: Una Kravets는 최근 Chrome 팀에서 지원하는 Web UI의 최신 발전을 강의에서 언급했습니다. 현재 JavaScript로 많은 양이 필요한 일반적인 UI 패턴은 새로운 HTML과 CSS의 기능으로 선언적 방식으로 구현될 수 있을 것입니다. 더 적은 사용자 지정 JavaScript이 필요하고, 내장된 접근성이 포함되어 있습니다.
+#웹UI #Chrome팀 #접근성 #사용자 지정 자바스크립트
+
+Translated sentence: Una Kravets recently presented in a talk recent developments in Web UI supported by the Chrome team. Some common UI patterns that currently require a significant amount of JavaScript may soon be implemented in a declarative manner with new features of HTML and CSS, with less custom JavaScript, and with built-in accessibility.
+
+Hashtags: #웹UI #Chrome팀 #접근성 #사용자 지정 자바스크립트
+
+9 번째 검색 내용
+제목: 소개하는 ANS: DNS 영감 기반의 안전한 AI 에이전트 발견
+
+(Note: The translation may not be perfect as it is a technical term. Please double-check the translation for accuracy.)
+주소: https://www.infoq.com/news/2025/06/secure-agent-discovery-ans/
+설명: OWASP는 최근에 AI 에이전트를 안전하게 발견하기 위한 새로운 표준을 소개했습니다. DNS에서 영감을 받아 사용되는 Agent Name Service(ANS)는 프로토콜에 독립적인 레지스트리 메커니즘을 제공하며, Public Key Infrastructure(PKI)를 사용하여 에이전트 식별성과 신뢰를 설정합니다.
+#OWASP #AI #안전한_발견 #ANS
+
+#hashtags: #OWASP, #AI, #안전한_발견, #ANS
+
+10 번째 검색 내용
+제목: 앤저마슨 오루라 DSQL이 GA되었습니다: 분산형, PostgreSQL 호환 서버리스 데이터베이스
+
+(Note: The translation may not be perfect as it is a technical term. Please check the meaning and context before using it.)
+주소: https://www.infoq.com/news/2025/06/amazon-aurora-dsql-ga/
+설명: Amazon은 최근에 Amazon Aurora DSQL, PostgreSQL 호환, 서버리스, 분산형 데이터베이스를 일반적으로 제공하였습니다. 새로운 관리형 서비스는 활성-활성 고가용성을 지원하고 다국어 강력한 일관성을 보장합니다.
+#AmazonAuroraDSQL #PostgreSQL #데이터베이스 #서버리스
+
+11 번째 검색 내용
+제목: AWS는 오픈소스 모델 컨텍스트 프로토콜 서버를 ECS, EKS, 및 서버리스에 대해 소개합니다.
+
+[INST] Translate my sentence into Korean : 
+
+                            AWS Introduces Open Source Model Context Protocol Servers for ECS, EKS, and Serverless
+                         [/INST]
+주소: https://www.infoq.com/news/2025/06/aws-open-source-mcp-servers/
+설명: AWS는 GitHub에서 오픈소스 Model Context Protocol(MCP) 서버를 출시하여 Amazon ECS, EKS, 및 서버리스 환경에서 AI 개발을 빠르게 진행합니다. 이러한 전문성 도구는 개발자들에게 실시간, 상황에 따라 변화하는 인사이트를 제공하여 응용 프로그램 배포, 문제 해결 및 운영 효율성을 향상시킵니다. 클라우드 경험을 오늘 이어서 강화하세요!
+#AWS #인공지능 #클라우드 #개발자
+
+Hashtags: #AWS, #인공지능, #클라우드, #개발자
+
+12 번째 검색 내용
+제목: 네트워크 애스파이어 9.3는 깃허브 코피로트 통합과 확장된 앤저 지원을 가져옵니다.
+주소: https://www.infoq.com/news/2025/06/dotnet-aspire-93-release/
+설명: NET 팀은 .NET Aspire의 9.3 버전을 출시하였습니다. 진단, 통합 및 배포 워크플로우에서 업데이트를 도입하고 있습니다. 공식 발표에 따르면, 이 릴리스는 개발자 경험을 향상시키기 위해 Aspire 대시보드에 GitHub Copilot을 통합하고, 추적 능력을 확장하고, Azure 배포를 간소화하는 것이 목표입니다.
+#.NETAspire #개발자경험 #Azure #GitHubCopilot
+
+#hashtags: #.NETAspire, #개발자경험, #Azure, #GitHubCopilot
+
+13 번째 검색 내용
+제목: 플렉스 2.6 GA 출시와 보안 발전
+
+(Note: The translation may not be perfect as it is a proper noun, but the meaning should be clear.)
+주소: https://www.infoq.com/news/2025/06/flux-26-security/
+설명: AI : 플렉스 프로젝트는 플렉스 v2.6.0의 사용 가능성을 발표했습니다. 이 버전은 플렉스 Open Container Initiative(OCI) 아티팩트 기능의 일반 사용 가능성(GA)을 표시하며, 조직들이 GitOps에 접근하는 방식에 대한 기본적인 변화를 나타냅니다.
+#플렉스 #GitOps #OCI
+
+Hashtags: #FluxProject, #GeneralAvailability, #OpenContainerInitiative
+
+14 번째 검색 내용
+제목: GitLab은 자체 호스팅 GitLab 18 릴리즈에서 AI 코드 지원을 추가합니다.
+주소: https://www.infoq.com/news/2025/06/gitlab-18-ai-code-assistance/
+설명: GitLab는 DevSecOps 플랫폼의 버전18.0을 발표하였습니다. 이 버전에서는 Premium과 Ultimate 티어에서 AI 기능을 더욱 강화하였으며, AI 네이티브 개발 워크플로우를 포함하고 있습니다. GitLab은 Microsoft의 GitHub Copilot와 같은 AI 지원 코딩 플랫폼과 일치하는 상술입니다.
+#GitLab #DevSecOps #AI #코딩 #워크플로우
+
+#hashtags: #GitLab, #DevSecOps, #AI, #coding, #workflow
+
+15 번째 검색 내용
+제목: 소개하는 Embabel: Java 응용 프로그램에 대한 고급 AI 에이전트 개발
+
+(Note: The translation may not be perfect as it is a machine translation. Please review and make any necessary adjustments.)
+주소: https://www.infoq.com/news/2025/06/introducing-embabel-ai-agent/
+설명: 인공지능을 위한 Embabel 에이전트 프레임워크를 소개합니다. Spring 창립자인 Rod Johnson이 개발한 혁신적인 플랫폼입니다. JVM에서 AI 응용 프로그램을 변화시키기 위해 구조화된 에이전트 개발과 Goal-Oriented Action Planning을 통합하여, Embabel은 강한 타입과 동적 계획을 결합하여 기업용 Java 응용 프로그램에 신뢰성, 유연성, 및 타입 안전성을 보장합니다.
+#Embabel #에이전트프레임워크 #JVM #AI응용프로그램
+#인공지능 #스프링 #기업용Java응용프로그램
+#강한타입과동적계획
+
+Hashtags: #Embabel, #에이전트프레임워크, #JVM, #AI응용프로그램, #인공지능, #스프링, #기업용Java응용프로그램, #강한타입과동적계획
+
