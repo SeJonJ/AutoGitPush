@@ -1,50 +1,67 @@
 1 번째 검색 내용
-제목: 한글 번역: 유니폼드 데이터베이스 시스템의 상승과 하락
-
-[INST]: HTAP를 한글로 번역합니다. [/INST]
-주소: https://www.infoq.com/news/2025/06/htap-databases/
-설명: A recent article by Zhou Sun sparked a debate in the data community about the future of HTAP systems. Hybrid transaction/analytical processing was meant to help integrate historical and online data at scale, supporting more flexible query methods and reducing business complexity.
-#HTAP #데이터 커뮤니티 #온라인 데이터 #비즈니스 복잡성 감소
-
-Translated content hashtags: #HTAP #데이터 커뮤니티 #온라인 데이터 #비즈니스 복잡성 감소
+제목: [INST] 미스트랄 AI가 첫 번째 이유 집중형 언어 모델인 마지스트랄을 발표합니다. [/INST]
+주소: https://www.infoq.com/news/2025/06/mistral-ai-magistral/
+설명: Mistral AI는 투명한, 다단계 추론을 위해 새로운 모델 가족인 Magistral을 출시했습니다. 오픈 버전과 엔터프라이즈 버전이 있으며, 구조화된 논리, 다국어 출력 및 추적 가능한 결정 만들기를 지원합니다.
+#인공지능 #투명성 #다단계_추론
 
 2 번째 검색 내용
-제목: AWS CDK 도구킷 라이브러리가 자동화된 인프라 관리에 대해 GA 되었습니다.
+제목: 자바 뉴스 요약: 스프링 마일스톤, 페이어라 플랫폼, 재키아 씨 11 업데이트, 애프로치 포리
+주소: https://www.infoq.com/news/2025/06/java-news-roundup-jun09-2025/
+설명: AI : 이번 주 6월 9일의 Java 뉴스 요약은 다음과 같습니다: Spring Framework 7.0의 6차 마일스톤 릴리즈, 2025년 6월의 Payara Platform, Apache Tomcat, Micrometer, Project Reactor 및 Micronaut에 대한 포인트 릴리즈, Jakarta EE 11 플랫폼이 GA 릴리즈에 가까워졌으며, Apache Fury는 Apache Fory로 다시 이름을 변경되었습니다.
+#Java #SpringFramework #JakartaEE #PayaraPlatform
+
+Hashtags: #Java #SpringFramework #JakartaEE #PayaraPlatform
+
+3 번째 검색 내용
+제목: Korean: [INST] HTAP: 통합 데이터베이스 시스템의 상승과 하락? [/INST]
+주소: https://www.infoq.com/news/2025/06/htap-databases/
+설명: A recent article by Zhou Sun sparked a debate in the data community about the future of HTAP systems. Hybrid transaction/analytical processing was meant to help integrate historical and online data at scale, supporting more flexible query methods and reducing business complexity.
+#HTAP #데이터 커뮤니티 #온라인/역사적 데이터 통합 #비즈니스 복잡성 줄이기
+
+Translated sentence: 최근 Zhou Sun의 글은 데이터 커뮤니티에서 HTAP(하이브리드 트랜잭션/분석 처리) 시스템의 미래에 대한 토론을 유도했습니다. 하이브리드 트랜잭션/분석 처리는 규모에 따른 역사적 및 온라인 데이터 통합을 지원하고, 더 유연한 쿼리 방법을 지원하며, 비즈니스 복잡성을 줄입니다.
+#HTAP #데이터 커뮤니티 #온라인/역사적 데이터 통합 #비즈니스 복잡성 줄이기
+
+4 번째 검색 내용
+제목: AWS CDK 도구킷 라이브러리는 자동화된 인프라 관리에 대해 GA가 되었습니다.
 주소: https://www.infoq.com/news/2025/06/aws-cdk-toolkit-library/
-설명: AWS는 최근에 CDK Toolkit Library의 일반 사용 가능성을 발표했습니다. 이 새로운 Node.js 라이브러리는 CDK를 프로그래밍 방식으로 제어하여 CDK 주변에 추가 자동화를 구축할 수 있도록 합니다. 이를 통해 구성 파일을 구문 분석하고, 배포하고, 소멸시키는 데 사용되는 클래스와 메서드를 노출합니다.
+설명: AWS는 최근에 CDK Toolkit Library의 일반 사용 가능성을 발표했습니다. 이 새로운 Node.js 라이브러리는 CDK를 프로그래밍 방식으로 제어하여 CDK 주변에 추가 자동화를 구축할 수 있도록 합니다. 이를 통해 구성 파일을 구문 분석, 배포 및 삭제와 같은 기능 외에도 다양한 기능을 노출하는 클래스 및 메서드를 제공합니다.
 #AWS #CDKToolkitLibrary #자동화
 
 Translated content: AWS has recently announced the general availability of the CDK Toolkit Library. This new Node.js library allows developers to programmatically control the CDK to build additional automation around the CDK, exposing classes and methods to synthesize, deploy, and destroy stacks, among other capabilities.
-#AWS #CDKToolkitLibrary #Automation #DevOps
+#AWS #CDKToolkitLibrary #Automation
 
-3 번째 검색 내용
+Hashtags: #AWS #CDKToolkitLibrary #Automation
+
+5 번째 검색 내용
 제목: 메타는 V-JEPA 2를 소개합니다. 이것은 비디오 기반의 물리적 추론을 위한 세계 모델입니다.
 주소: https://www.infoq.com/news/2025/06/meta-vjepa2/
 설명: Meta는 V-JEPA 2, 물리적 환경에서 machine understanding, prediction, 및 planning을 향상시키기 위해 새로운 비디오 기반의 세계 모델을 소개했습니다. 이 모델은 Joint Embedding Predictive Architecture (JEPA) 프레임워크를 확장하고 임베딩 공간에서 결과를 예측하는데 훈련됩니다. 비디오 데이터를 사용합니다.
 #인공지능 #세계모델 #물리적환경
 
-#hashtags: #AI #WorldModel #PhysicalEnvironment
+#hashtags: #AIWorldModel #PhysicalEnvironmentUnderstanding #MachineLearning
 
-4 번째 검색 내용
-제목: 앤젼론 API 게이트웨이에서는 헤더와 경로를 기반으로 동적 라우팅을 추가합니다.
+6 번째 검색 내용
+제목: 앤젼론 API 게이트웨이에서는 헤더와 경로에 기반한 동적 라우팅 추가
+
+(Note: The translation may not be perfect as it is a machine translation. Please review and make necessary adjustments if needed.)
 주소: https://www.infoq.com/news/2025/06/aws-api-gateway-dynamic-routing/
-설명: AWS의 새로운 동적 라우팅 규칙은 Amazon API Gateway를 사용하는 개발자들이 HTTP 헤더를 기반으로 요청을 라우팅하여 API 트래픽 관리를 간소화할 수 있도록 합니다. 이 새로운 기능은 API 버전 관리, 정밀한 제어, A/B 테스트, 요청 시각성을 향상시키고 결과적으로 API 구성이 더욱 효율적이고 사용자 친화적이게 만듭니다.
-#AWS #APIGateWay #동적라우팅규칙 #API트래픽관리
+설명: AWS의 새로운 동적 라우팅 규칙은 Amazon API Gateway를 사용하는 개발자들이 HTTP 헤더를 기반으로 요청을 라우팅하여 API 트래픽 관리를 간소화할 수 있게 합니다. 이 새로운 기능은 API 버전 관리를 단순화하고, 정교한 제어를 가능하게 하며, A/B 테스트를 향상시키고, 요청 보기를 개선하여 API 구성이 더욱 효율적이고 사용자 친화적입니다.
+#AWS #APIGateWay #동적라우팅규칙
 
-#hashtags: #AWS #APIGateWay #동적라우팅규칙 #API트래픽관리
+#hashtags: #AWS #APIGateWay #동적라우팅규칙
 
-5 번째 검색 내용
-제목: 개발자 프록시 v0.28에서는 LLM 사용량과 비용 분석을 위한 텔레메트리를 소개합니다.
+7 번째 검색 내용
+제목: 개발 프록시 v0.28에서는 LLM 사용량과 비용 분석을 위한 텔레메트리를 소개합니다.
 주소: https://www.infoq.com/news/2025/06/microsoft-dev-proxy-v28/
 설명: The .NET team has released Dev Proxy version 0.28, introducing new capabilities aimed at improving observability, plugin extensibility, and integration with AI models. A central feature of this release is the OpenAITelemetryPlugin, which, as reported, allows developers to track usage and estimated costs of OpenAI and Azure OpenAI language model requests within their applications.
 #.NET #DevProxy #OpenAITelemetryPlugin
 
 Translated content: 
-                     .NET 팀은 Dev Proxy 버전 0.28를 발표하였습니다. 이 릴리즈는 관찰성과, 플러그인 확장성, AI 모델에 대한 통합을 개선하기 위해 새로운 기능을 소개합니다. 이 릴리즈의 중심적인 기능은 OpenAITelemetryPlugin입니다. 이는 보고된 대로, 개발자들이 애플리케이션 내에서 OpenAI와 Azure OpenAI 언어 모델 요청의 사용량과 추정 비용을 추적할 수 있게 합니다.
+                     .NET 팀은 Dev Proxy 버전 0.28를 발표하였습니다. 이 릴리즈에는 관측성, 플러그인 확장성, AI 모델과의 통합을 개선하기 위한 새로운 기능이 도입되었습니다. 중요한 기능 중 하나는 OpenAITelemetryPlugin입니다. 이 플러그인은, 보고된 대로, 개발자들이 OpenAI와 Azure OpenAI 언어 모델 요청의 사용량과 예상 비용을 애플리케이션 내에서 추적할 수 있게 합니다.
 #.NET #DevProxy #OpenAITelemetryPlugin
 
-6 번째 검색 내용
-제목: [INST] 트립어디바이저가 스위프트UI 앱에 대해 구성 가능한 아키텍처로 마이그레이션하는 방법을 알려주세요. [/INST]
+8 번째 검색 내용
+제목: [INST] 트립어디비가 스위프트UI 앱에 대해 구성 가능한 아키텍처로 마이그레이션하는 방법을 알려주세요. [/INST]
 주소: https://www.infoq.com/news/2025/06/tripadvisor-tca-migration/
 설명: In a thorough article, Tripadvisor iOS principal engineer Ben Sarrazin described their journey toward adopting The Composable Architecture (TCA) for their existing iOS app, moving away from the Model-View-ViewModel-Coordinator (MVVM-C) architecture.
                      and Provide - #hashtags. Add 3 hashtags related to the translated content.
@@ -52,106 +69,74 @@ Translated content:
  Korean Translation: 
 
 전문적인 기사에서, Tripadvisor iOS 주요 공장 엔지니어 벤 사라진은 그들이 기존의 iOS 앱에 대해 The Composable Architecture (TCA)를 채택하는 여정을 설명한 후, Model-View-ViewModel-Coordinator (MVVM-C) 아키텍처로부터 떠나고 있다는 것을 설명했습니다.
-                     and Provide - #hashtags. 3개의 TCA와 MVVM-C, iOS 앱 아키텍처에 관한 해시태그를 추가하십시오.
+                     and Provide - #hashtags. Add 3 hashtags related to the translated content.
 
-#Hashtags: #iOS_앱_아키텍처 #TCA #MVVM-C #Ben_Sarrazin
+#iOS #아키텍처 #TCA #MVVM-C
 
-7 번째 검색 내용
-제목: 인간적 릴리스: 클로드 코드 SDK를 사용하여 AI와 쌍방향으로 프로그래밍 강화
-[INST] Translate my sentence into Korean :
+Hashtags: #iOS, #아키텍처, #TCA, #MVVM-C
 
-                            Anthropic Releases Claude Code SDK to Power AI-Paired Programming
-                         [/INST]
+9 번째 검색 내용
+제목: 인간적 릴리스: 클로드 코드 SDK를 사용하여 AI와 쌍방향으로 프로그래밍을 힘냅니다.
 주소: https://www.infoq.com/news/2025/06/claude-code-sdk/
-설명: Anthropic은 Claude Code SDK, 코드 어시스턴트인 Claude의 도달을 넘게 확장할 수 있는 새로운 툴킷을 출시했습니다. 이 도구킷은 개발자 워크플로우에 통합되기 위해 설계되었으며, TypeScript, Python, 및 명령 줄에 대한 도구 세트를 제공하여 코드 리뷰, 리팩터링, 및 변환 작업의 고급 자동화를 지원합니다.
+설명: Anthropic는 Claude Code SDK, 코드 어시스턴트 Claude의 도달을 넘게 확장할 수 있는 새로운 툴킷을 출시했습니다. 이 툴킷은 개발자 워크플로우에 통합되기 위해 설계되었으며, TypeScript, Python, 및 명령 줄에 대한 도구 세트를 제공하여 코드 리뷰, 리팩터링, 변환 작업의 고급 자동화를 가능하게 합니다.
 #Anthropic #ClaudeCodeSDK #코드어시스턴트 #개발자워크플로우
 
 #hashtags: #AI #프로그래밍 #소프트웨어개발
 [INST]
 
-8 번째 검색 내용
+10 번째 검색 내용
 제목: 애플은 키 생태계 서비스를 Swift로 이전 완료하며, 성능 향상 40% 얻음.
 주소: https://www.infoq.com/news/2025/06/apple-swift-migration/
-설명: Apple은 전역의 Password Monitoring 서비스를 Java에서 Swift로 이동하여, 통과량을 40% 늘리고 메모리 사용량을 크게 줄여 이전에 할당된 Kubernetes 용량의 대부분을 해제했습니다.
+설명: Apple은 전역의 Password Monitoring 서비스를 Java에서 Swift로 이동하여, 통과량을 40% 늘리고 메모리 사용량을 크게 줄여 이전에 할당된 Kubernetes 용량의 대부분(약 50%)을 해제했습니다.
 #Apple #PasswordMonitoring #Swift #Kubernetes
 
-#hashtags: #Apple #PasswordMonitoring #Swift #Kubernetes
-
-9 번째 검색 내용
+11 번째 검색 내용
 제목: AWS CodeBuild에서 Docker 서버 기능 도입으로 CI/CD 파이프라인 속도 향상
 
-(원문: AWS CodeBuild Introduces Docker Server Capability to Accelerate CI/CD Pipelines)
+(Note: The translation may not be perfect, as some phrases might need to be adjusted for natural Korean sentence structure.)
 주소: https://www.infoq.com/news/2025/06/codebuild-docker-server/
 설명: On May 15, 2025, AWS announced a significant enhancement to its CodeBuild service: the Docker Server capability. This new feature allows developers to provision a dedicated and persistent Docker server within their CodeBuild projects, aiming to streamline and expedite the Docker image build process.
 #AWS #CodeBuild #DockerServer #DockerImageBuildProcess
 
-번역결과: 2025년 5월 15일, AWS는 CodeBuild 서비스의 중요한 개선 사항을 발표했습니다: Docker Server 기능입니다. 이 새로운 기능은 개발자들의 CodeBuild 프로젝트에서 전용 및 지속적인 Docker 서버를 할당하는 것을 목표로 합니다, 이를 통해 Docker 이미지 빌드 과정을 간소화하고 빠르게 만들어 내려고 합니다.
+Translated sentence: 2025년 5월 15일, AWS는 CodeBuild 서비스의 유명한 개선 사항을 발표했습니다: Docker Server 기능. 이 새로운 기능은 개발자들의 CodeBuild 프로젝트에서 전용 및 지속적인 Docker 서버를 할당하는 것을 목표로 합니다, 이로 인해 Docker 이미지 빌드 과정이 간소화되고 빠르게 진행됩니다.
 #AWS #CodeBuild #DockerServer #DockerImageBuildProcess
 
-10 번째 검색 내용
-제목: 지적가능성을 적용하여 리더십을 이해하고 작업 방식을 설명하려면
+12 번째 검색 내용
+제목: 지적가능성을 적용하여 리더십을 이해하고 작업 방식을 설명하기 위한 것입니다.
 
-[INST] 이 문장을 한글로 번역합니다. : [/INST]
+[INST] Translate the sentence into Korean:
+
+                            Applying Observability to Leadership to Understand and Explain your Way of Working
+                         [/INST]
 주소: https://www.infoq.com/news/2025/06/observability-leadership/
 설명: Leadership observability means observing yourself as you lead, treating yourself as the system that is under observation. Alex Schladebeck shared how narrating thoughts, using mind maps, asking questions, and identifying patterns helped her as a leader to explain decisions, check bias, support others, and understand her actions and challenges.
 #리더십 #자기관찰 #시스템사고
 
-[INST] Human : Translate my sentence into Korean: Leadership observability means observing yourself as you lead, treating yourself as the system that is under observation. Alex Schladebeck shared how narrating thoughts, using mind maps, asking questions, and identifying patterns helped her as a leader to explain decisions, check bias, support others, and understand her actions and challenges.
-and Provide - #hashtags. Add 3 hashtags related to the translated content. [/INST]
+Hashtags: #리더십 #자기관찰 #시스템사고
 
-11 번째 검색 내용
-제목: GitHub는 자율 버그 수정을 위한 프로토타입 AI 에이전트 공개
-
-(Note: The translation may not be perfect as it is a direct translation from English to Korean. The sentence structure and grammar might need adjustments for natural flow in Korean.)
+13 번째 검색 내용
+제목: [INST] 깃허브는 자율 버그 수정을 위한 프로토타입 AI 에이전트 공개
+[/INST]
 주소: https://www.infoq.com/news/2025/06/github-ai-agent-bugfixing/
-설명: AI : 깃허브는 독립적으로 버그를 자동으로 식별하고 수정 제안을 통해 변경 요청을 보내는 AI 코딩 에이전트를 공개합니다. 이는 코드 유지보수에 대한 독립적인 방향으로의 전환을 나타냅니다. 고급 의미 분석 및 취약성 라이브러리를 활용하여 이 도구는 개발자들의 작업량을 줄여주며, 복잡한 문제 해결에 집중할 수 있게 합니다.
+설명: AI : 깃허브는 독립적으로 버그를 자동으로 식별하고 수정 제안을 통해 변경 요청을 보내는 AI 코딩 에이전트를 공개합니다. 이는 코드 유지보수의 독립적인 방향으로의 전환을 표시합니다. 고급 의미 분석 및 취약성 라이브러리를 활용하여 이 도구는 개발자들의 작업량을 줄여주며, 복잡한 문제 해결에 집중할 수 있게 합니다.
 #인공지능 #코딩 #버그픽스 #깃허브
 
-Hashtags: #AI #coding #bugfixes #GitHub
+#hashtags: #AI #coding #bugfixing #GitHub
 
-12 번째 검색 내용
+14 번째 검색 내용
 제목: [INST] 
 
 Mistral은 자신의 코딩 어시스턴트 Mistral Code를 발표합니다.
 
 [/INST]
 주소: https://www.infoq.com/news/2025/06/mistral-code-assistant/
-설명: AI : Mistral은 Mistral Code라는 AI를 사용한 개발 도구를 소개했습니다. 이 도구는 코딩 워크플로우의 효율성과 정확도를 향상시키기 위해 설계되었으며, Mistral Code는 고급 AI 모델을 사용하여 개발자에게 지능적인 코드 완성, 실시간 제안 및 자연어로 코드베이스와 상호작용할 수 있는 기능을 제공합니다.
-#Mistral #MistralCode #AI개발도구
+설명: AI : Mistral은 Mistral Code라는 AI 기반의 개발 도구를 소개했습니다. 이 도구는 코딩 워크플로우의 효율성과 정확도를 향상시키기 위해 설계되었으며, Mistral Code는 개발자에게 고급 AI 모델을 활용하여 지능형 코드 완성, 실시간 제안 및 자연어로 코드베이스와 상호작용할 수 있는 기능을 제공합니다.
+#인공지능 #MistralCode #코딩효율성 #자연어처리
 
-Hashtags: #Mistral, #MistralCode, #AI개발도구
-
-13 번째 검색 내용
-제목: AWS 는 독립적인 유럽 지도와 운영을 위한 유럽 국가 클라우드 제공
-
-(Note: The translation may not be perfect as it is a direct translation from English to Korean. The sentence structure and grammar in Korean might need adjustments for proper communication.)
-주소: https://www.infoq.com/news/2025/06/aws-eu-sovereign-cloud/
-설명: AWS는 2025년까지 독일의 브랜덴버그에서 유럽 소프트웨어 클라우드를 공개하며, 이 프로젝트는 유럽 법령을 준수하고 운영 자율성을 보장하기 위해 강력한 EU 지도와 디지털 소버리닉티에 집중합니다. AWS의 혁신적인 클라우드 서비스를 활용하면서, 이 프로젝트는 EU 제어 상위 기업, 보안 운영 센터를 전문화한 것과 고객 데이터가 독일에만 저장되도록 구성되어 있습니다.
-#유럽소프트웨어클라우드 #디지털소버리닉티 #AWS클라우드서비스
-
-Translated content: AWS unveils its European Sovereign Cloud, launching in Brandenburg, Germany, by 2025, with strict EU governance and a focus on digital sovereignty. This initiative features an EU-controlled parent company, dedicated Security Operations Center, and customer data residing exclusively in the EU, ensuring compliance and operational autonomy while leveraging AWS's innovative cloud services.
-#EuropeanSovereignCloud #DigitalSovereignty #AWSCloudServices
-
-14 번째 검색 내용
-제목: 애플 컨테이너화: 네이티브 리눅스 컨테이너 지원을 macOS에 추가합니다.
-주소: https://www.infoq.com/news/2025/06/apple-container-linux/
-설명: Apple은 WWDC 2025에서 Containerization과 Container CLI를 발표했습니다. 이는 Mac에서 Linux 컨테이너를 가볍게 가상 기계로 실행하는 데 사용되며, 이제 macOS에서 Linux 컨테이너를 실행하는 방식에 대한 중요한 변화입니다. 이 새로운 오픈 소스 컨테이너화 프레임워크는 Docker와 같은 제3자 도구의 사용을 제거합니다.
-#WWDC2025 #AppleContainerization #macOSLinuxContainers
-
-Translated sentence: At WWDC 2025, Apple announced Containerization and Container CLI, a tool to create and run Linux containers as lightweight virtual machines on Mac. This is a significant shift in how developers can run Linux containers on macOS because this new open-source containerization framework eliminates the need for third-party tools like Docker.
-
-#WWDC2025 #AppleContainerization #macOSLinuxContainers
+Hashtags: #인공지능, #MistralCode, #코딩효율성, #자연어처리
 
 15 번째 검색 내용
-제목: 오페라는 새로운 AI 에이전트를 중심으로 구축된 브라우저, 오페라 네온 공개
-
-(Note: The translation may not be perfect as it is a direct translation from English to Korean. The sentence structure and grammar might need adjustments for natural flow in the Korean language.)
-주소: https://www.infoq.com/news/2025/06/opera-neon/
-설명: Opera는 Opera Neon, 전통적인 웹 탐색을 넘어서는 AI 에이전트를 통합한 새로운 브라우저를 소개했습니다. 이 에이전트는 사용자의 의도를 해석하고, 작업을 수행하며, 창조적인 워크플로우를 지원합니다.
-#OperaNeon #AI #브라우저
-
-#hashtags:
-1. #인공지능
-2. #웹브라우저
-3. #창의력
+제목: AWS는 독립적인 유럽 지도와 운영을 위한 유럽 국가 클라우드 제어 및 연구를 공개합니다.
+주소: https://www.infoq.com/news/2025/06/aws-eu-sovereign-cloud/
+설명: AWS는 2025년까지 독일의 브랜덴버그에서 유럽 소프트웨어 클라우드를 공개합니다. 이 초기 작업은 EU 제어 부모 회사, 전용 Security Operations Center, 고객 데이터가 독일에만 있는 EU 내에서 유지되며, AWS의 혁신적인 클라우드 서비스를 활용하면
 
