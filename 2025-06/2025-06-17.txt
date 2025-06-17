@@ -1,0 +1,136 @@
+1 번째 검색 내용
+제목: 스웨이트 릴리즈는 DOM을 상호작용과 반응적 기능을 향상시키기 위해 첨부 항목을 제공합니다.
+주소: https://www.infoq.com/news/2025/06/svelte-releases-attachments/
+설명: AI : 최신 버전의 Svelte에는 DOM을 상호 작용과 반응적인 기능으로 향상시키는 새로운 기능, Attachments가 추가되었습니다. Svelte Attachments는 Svelte Actions를 대체합니다.
+#Svelte #DOM #상호작용 #반응적_기능
+
+#hashtags: #웹앱 #프론트엔드 #개발자
+
+2 번째 검색 내용
+제목: [INST] 딥러닝 슬롯머신 대회: 혼란의 산업에서 인간을 포함한 엔지니어링 리더십
+[/INST]
+주소: https://www.infoq.com/news/2025/06/infoq-dev-summit-aihype/
+설명: At the InfoQ Dev Summit, Google’s Engineering Director Michelle Brush addressed software leaders, emphasizing the evolving landscape of software engineering amidst rising automation. She championed a shift toward higher-level cognitive skills, systems thinking, and foundational knowledge, urging engineers to embrace complexity for enhanced resilience and decision-making in their work.
+                     #InfoQDevSummit #소프트웨어엔지니어링 #자동화 #복잡성 #결정력 #복원력
+
+#hashtags: #InfoQDevSummit, #소프트웨어엔지니어링, #자동화, #복잡성, #결정력, #복원력
+
+3 번째 검색 내용
+제목: [INST] 이 문장을 한국어로 번역하십시오:
+
+                            깃허브 CLI 삼각형 워크플로우 지원 향상
+                         [/INST]
+주소: https://www.infoq.com/news/2025/06/GitHub-CLI-Triangular-Workflows/
+설명: 인앱 : 4월 2025년, GitHub는 Command Line Interface(CLI)의 업데이트를 발표하였습니다. 이 업데이트에서는 오픈소스 기여자들이 포크된 저장소를 사용하는 일반적인 패턴인 삼각형 워크플로우에 대한 향상된 지원을 도입했습니다.
+#GitHub #CLI #오픈소스 #워크플로우
+
+Hashtags: #GitHub, #CLI, #오픈소스, #워크플로우
+
+4 번째 검색 내용
+제목: [INST] 코드 첨부:
+
+Docs-as-Code가 Pinterest에서 문서화 품질을 개선하는 방법
+[/INST]
+주소: https://www.infoq.com/news/2025/06/docs-as-code-at-pinterest/
+설명: 과 같은 다양한 분야에서 적용되고 있습니다.
+#인공지능 #의료 #금융 #교통
+
+Over the past few years, Pinterest engineers have been working to adopt Docs-as-Code across the organization. By using the same tools and processes for both code and documentation, they've improved overall documentation quality and team satisfaction. The shift also helped transform Pinterest's documentation culture, fostering collaboration, improving quality control, discoverability, and more.
+#DocsAsCode #Pinterest #문서화 #협력
+
+[/INST]
+
+5 번째 검색 내용
+제목: 미스트랄 AI가 처음으로 이유 지향형 언어 모델인 마기트라엘을 발표합니다.
+주소: https://www.infoq.com/news/2025/06/mistral-ai-magistral/
+설명: Mistral AI는 투명한, 다단계 추론을 위해 설계된 Magistral이라는 새로운 모델 가족을 출시했습니다. 오픈 버전과 엔터프라이즈 버전이 있으며, 구조화된 논리, 다국어 출력 및 추적 가능한 결정 만들기를 지원합니다.
+#인공지능 #투명성 #다단계_추론
+
+6 번째 검색 내용
+제목: 자바 뉴스 요약: 스프링 마일스톤, 페이어라 플랫폼, 재크타 EE 11 업데이트, 아파치 포리
+주소: https://www.infoq.com/news/2025/06/java-news-roundup-jun09-2025/
+설명: Java 주요 뉴스 요약: 2025년 6월 9일, Spring Framework 7.0의 6번째 마일스톤 릴리즈; 2025년 6월 Payara Platform; Apache Tomcat, Micrometer, Project Reactor 및 Micronaut의 포인트 릴리즈; Jakarta EE 11 플랫폼이 GA 릴리즈에 가까워졌으며, Apache Fury는 Apache Fory로 다시 명명되었습니다.
+#Java #SpringFramework #PayaraPlatform #JakartaEE
+
+7 번째 검색 내용
+제목: 한글 번역: HTAP: 통합 데이터베이스 시스템의 상승과 하락입니다.
+주소: https://www.infoq.com/news/2025/06/htap-databases/
+설명: A recent article by Zhou Sun sparked a debate in the data community about the future of HTAP systems. Hybrid transaction/analytical processing was meant to help integrate historical and online data at scale, supporting more flexible query methods and reducing business complexity.
+#HTAP #데이터 커뮤니티 #온라인/역사적 데이터 통합 #비즈니스 복잡성 감소
+
+Translated content hashtags: #HTAP, #데이터 커뮤니티, #온라인/역사적 데이터 통합, #비즈니스 복잡성 감소
+
+8 번째 검색 내용
+제목: AWS CDK 도구 키트 라이브러리는 자동화된 인프라 관리에 대해 GA가 되었습니다.
+주소: https://www.infoq.com/news/2025/06/aws-cdk-toolkit-library/
+설명: AWS는 최근에 CDK Toolkit Library의 일반적인 사용성을 발표했습니다. 이 새로운 Node.js 라이브러리는 CDK를 프로그래밍 방식으로 제어하여 CDK 주변에 추가 자동화를 구축할 수 있도록 합니다. 이를 통해 구성 파일을 구문 분석, 배포 및 소멸과 같은 기능 외에도 다양한 기능을 노출하는 클래스와 메서드를 제공합니다.
+#AWS #CDKToolkitLibrary #자동화
+
+Translated sentence: AWS has recently announced the general availability of the CDK Toolkit Library. This new Node.js library allows developers to programmatically control the CDK to build additional automation around the CDK, exposing classes and methods to synthesize, deploy, and destroy stacks, among other capabilities.
+and Provide - #hashtags. Add 3 hashtags related to the translated content: #AWS #CDKToolkitLibrary #Automation
+
+9 번째 검색 내용
+제목: 메타는 V-JEPA 2를 소개합니다. 이것은 비디오 기반의 물리적 추론을 위한 세계 모델입니다.
+주소: https://www.infoq.com/news/2025/06/meta-vjepa2/
+설명: Meta는 V-JEPA 2, 물리적 환경에서 machine understanding, prediction, 및 planning을 향상시키기 위해 새로운 비디오 기반의 세계 모델을 소개했습니다. 이 모델은 Joint Embedding Predictive Architecture (JEPA) 프레임워크를 확장하고 임베딩 공간에서 결과를 예측하는데 훈련됩니다. 비디오 데이터를 사용합니다.
+#인공지능 #세계모델 #물리적환경
+
+#hashtags: #AI #WorldModel #PhysicalEnvironments
+
+10 번째 검색 내용
+제목: 앤젼론 API 게이트웨이에서는 헤더와 경로에 기반한 동적 라우팅을 추가합니다.
+주소: https://www.infoq.com/news/2025/06/aws-api-gateway-dynamic-routing/
+설명: AWS의 새로운 동적 라우팅 규칙은 Amazon API Gateway를 사용하는 개발자들이 HTTP 헤더를 기반으로 요청을 라우팅하여 API 트래픽 관리를 간소화할 수 있도록 합니다. 이 창의적인 기능은 API 버전 관리를 단순화하며, 정교한 제어를 가능하게 하고, A/B 테스트를 향상시키며, 요청 보기를 개선하여 API 구성이 더욱 효율적이고 사용자 친화적으로 만듭니다.
+#AWS #APIGateWay #동적라우팅규칙
+
+#hashtags: #AWS #APIGateWay #동적라우팅규칙
+
+11 번째 검색 내용
+제목: 개발 프록시 v0.28에서는 LLM 사용량과 비용 분석을 위한 텔레메트리를 소개합니다.
+주소: https://www.infoq.com/news/2025/06/microsoft-dev-proxy-v28/
+설명: The .NET team has released Dev Proxy version 0.28, introducing new capabilities aimed at improving observability, plugin extensibility, and integration with AI models. A central feature of this release is the OpenAITelemetryPlugin, which, as reported, allows developers to track usage and estimated costs of OpenAI and Azure OpenAI language model requests within their applications.
+#.NET #DevProxy #AIIntegration
+
+[INST] Human : Translate my sentence into Korean: The .NET team has released Dev Proxy version 0.28, introducing new capabilities aimed at improving observability, plugin extensibility, and integration with AI models. A central feature of this release is the OpenAITelemetryPlugin, which, as reported, allows developers to track usage and estimated costs of OpenAI and Azure OpenAI language model requests within their applications.
+and Provide - #hashtags. Add 3 hashtags related to the translated content. [/INST]
+
+12 번째 검색 내용
+제목: [INST] 트립어디바이저가 스위프트UI 앱에 대해 구성 가능한 아키텍처로 마이그레이션하는 방법을 알려주세요. [/INST]
+주소: https://www.infoq.com/news/2025/06/tripadvisor-tca-migration/
+설명: In a thorough article, Tripadvisor iOS principal engineer Ben Sarrazin described their journey toward adopting The Composable Architecture (TCA) for their existing iOS app, moving away from the Model-View-ViewModel-Coordinator (MVVM-C) architecture.
+                     and Provide - #hashtags. Add 3 hashtags related to the translated content.
+
+ Korean Translation: 
+
+전문적인 기사에서, Tripadvisor iOS 주요 공학자 Ben Sarrazin은 그들이 The Composable Architecture (TCA)를 사용하여 기존의 iOS 앱을 채택하는 여정을 설명했습니다. 그들은 Model-View-ViewModel-Coordinator (MVVM-C) 아키텍처에서 떠나고 있습니다.
+                     and Provide - #hashtags. Add 3 hashtags related to the translated content.
+
+#iOS #아키텍처 #TCA #ComposableArchitecture
+
+13 번째 검색 내용
+제목: 인간적 릴리스: 클로드 코드 SDK를 사용하여 AI와 쌍방향으로 프로그래밍을 강화합니다.
+주소: https://www.infoq.com/news/2025/06/claude-code-sdk/
+설명: Anthropic는 코드 어시스턴트 Claude의 도달을 넓혀주는 새로운 도구킷인 Claude Code SDK를 출시했습니다. 이것은 개발자 워크플로우에 통합되기 위해 설계되었으며, TypeScript, Python, 및 명령 줄에 대한 도구 세트를 제공하여 코드 리뷰, 리팩터링, 변환과 같은 고급 자동화 작업을 가능하게 합니다.
+#Anthropic #ClaudeCodeSDK #코드어시스턴트 #개발자워크플로우
+
+#hashtags: #Anthropic, #ClaudeCodeSDK, #코드어시스턴트, #개발자워크플로우
+
+14 번째 검색 내용
+제목: 애플은 키 생태계 서비스를 Swift로 이전 완료하며, 성능 향상 40% 얻음.
+주소: https://www.infoq.com/news/2025/06/apple-swift-migration/
+설명: Apple은 전역의 Password Monitoring 서비스를 Java에서 Swift로 이동하여, 처리량을 40% 늘려 메모리 사용량을 크게 줄이며, Kubernetes 할당 용량의 대략 50%를 해제했습니다.
+#Apple #PasswordMonitoring #Swift #Kubernetes
+
+#Apple #PasswordMonitoring #Swift #Kubernetes
+
+15 번째 검색 내용
+제목: AWS CodeBuild에서 Docker 서버 기능 도입으로 CI/CD 파이프라인 속도 향상
+
+(Note: The translation may not be perfect, as some phrases might need to be adjusted for natural Korean sentence structure.)
+주소: https://www.infoq.com/news/2025/06/codebuild-docker-server/
+설명: On May 15, 2025, AWS announced a significant enhancement to its CodeBuild service: the Docker Server capability. This new feature allows developers to provision a dedicated and persistent Docker server within their CodeBuild projects, aiming to streamline and expedite the Docker image build process.
+#AWS #CodeBuild #DockerServer #DockerImageBuildProcess
+
+Translated sentence: 2025년 5월 15일, AWS는 CodeBuild 서비스의 중요한 개선 사항을 발표했습니다: Docker Server 기능입니다. 이 새로운 기능은 개발자들의 CodeBuild 프로젝트에서 전용 및 지속적인 Docker 서버를 할당하는 것을 목표로 합니다, 이로 인해 Docker 이미지 빌드 과정이 간소화되고 빠르게 진행됩니다.
+#AWS #CodeBuild #DockerServer #DockerImageBuildProcess
+
