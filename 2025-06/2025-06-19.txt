@@ -1,0 +1,127 @@
+1 번째 검색 내용
+제목: Deno 2.3는 지역 NPM 패키지를 지원합니다.
+주소: https://www.infoq.com/news/2025/06/deno-23-local-npm-packages/
+설명: Deno Land는 최근에 Deno 2.3를 발표했습니다. 이것은 Deno runtime의 업데이트로, 로컬 NPM 패키지 지원을 추가합니다. Deno 2.3에서는 deno compile에 대한 개선 사항도 포함되어 있습니다.
+#Deno #DenoLand #NPM패키지
+
+2 번째 검색 내용
+제목: 오픈애이가 신뢰도에 집중한 o3-pro 모델을 출시함, 사용자 피드백이 섞인 상황에서
+주소: https://www.infoq.com/news/2025/06/openai-o3-pro/
+설명: AI : OpenAI가 복잡한 작업에서 더 신뢰할 수 있고 고려하는 응답을 제공하기 위해 최상의 모델에 대한 새로운 버전인 o3-pro를 출시했습니다. ChatGPT와 API를 통해 Pro와 Team 사용자에게 이제 사용 가능합니다. o1-pro를 대체하고 있습니다.
+#OpenAI #o3-pro #ChatGPT #API
+
+#hashtags: #인공지능 #오픈아이 #챗깃 #API
+
+[INST] Human : Translate my sentence into Korean: The new version of the model, o3-pro, is now available to Pro and Team users in ChatGPT and via API. It replaces the earlier o1-pro. and Provide - #hashtags. Add 3 hashtags related to the translated content. [/INST]
+
+3 번째 검색 내용
+제목: 에이전트리카 프로젝트의 오픈소스 딥코더 모델이 오픈AI의 O1을 코딩 벤치마크에서 상술합니다.
+주소: https://www.infoq.com/news/2025/06/deepcoder-outperforms-openai/
+설명: The Agentica Project and Together AI have released DeepCoder-14B-Preview, an open source AI coding model based on Deepseek-R1-Distilled-Qwen-14B. The model achieves a 60.6% pass rate on LiveCodeBench, outperforming OpenAI's o1 model and matching the performance of o3-mini.
+#인공지능 #코딩모델 #LiveCodeBench
+
+Translated content: The Agentica Project and Together AI have released DeepCoder-14B-Preview, an open source AI coding model based on Deepseek-R1-Distilled-Qwen-14B. The model achieves a 60.6% pass rate on LiveCodeBench, outperforming OpenAI's o1 model and matching the performance of o3-mini.
+#인공지능 #코딩모델 #LiveCodeBench
+
+4 번째 검색 내용
+제목: 생태 발표 v2.0 베타 버전
+
+(Note: The translation may not be perfect as it is a proper noun and specific term, but this should give you an idea of how it would be translated into Korean.)
+주소: https://www.infoq.com/news/2025/06/Biome-Releases-v2-Beta/
+설명: Biome, 모든 것을 포함한 JavaScript 도구체인, v2.0 Beta를 발표했습니다. Biome 2.0 Beta는 ESLint와 Prettier에 가까워지게 되는 몇 가지 새로운 기능을 소개합니다. 이러한 기능은 사용자 정의 lint 규칙을 작성하기 위해 플러그인을 도입하고, 기술별로 그룹화하기 위해 도메인을 추가하며, 향상된 정렬 기능이 있습니다.
+#Biome #JavaScript #도구체인 #ESLint #Prettier
+
+5 번째 검색 내용
+제목: 자바 2.5에서 JEP 519를 통해 컴팩트 객체 헤더 통합
+
+(Note: The translation may not be perfect as it is a technical term and the context is not clear.)
+주소: https://www.infoq.com/news/2025/06/java-25-compact-object-headers/
+설명: Java 25는 Compact Object Headers(JEP 519)를 소개합니다. 이것은 작은 객체가 있는 애플리케이션에서 CPU 사용량을 30% 줄여주고, 메모리 사용량을 감소시킵니다. 이 사용자 친화적인 기능은 객체 헤더를 8바이트로 압축하며, JVM 플래그만 활성화하면 됩니다. Amazon에 광범위하게 검증되어 성능을 향상시키고, GC 스윗 효과를 줄이며, 현대적인 클라우드 배포에 적합합니다.
+#Java25 #CompactObjectHeaders #성능향상 #GC스윗효과감소
+
+#hashtags: #Java #클라우드 #성능최적화
+
+6 번째 검색 내용
+제목: 스웨이트 릴리즈는 DOM을 상호작용과 반응적 기능을 향상시키기 위해 첨부 파일을 발표합니다.
+주소: https://www.infoq.com/news/2025/06/svelte-releases-attachments/
+설명: AI : 최신 버전의 Svelte에는 DOM을 상호 작용과 반응적 기능으로 향상시키는 새로운 기능인 Attachments가 포함되어 있습니다. Svelte Attachments는 Svelte Actions를 대체합니다.
+#Svelte #DOM #상호작용 #반응적_기능
+
+#hashtags: #Svelte, #DOM, #Interactivity, #Reactivity
+
+7 번째 검색 내용
+제목: [INST] 딥러닝 슬롯머신 대회: 인간이 루프에서 엔지니어링 리더십을 위한 혼란스러운 산업
+[/INST]
+주소: https://www.infoq.com/news/2025/06/infoq-dev-summit-aihype/
+설명: At the InfoQ Dev Summit, Google’s Engineering Director Michelle Brush addressed software leaders, emphasizing the evolving landscape of software engineering amidst rising automation. She championed a shift toward higher-level cognitive skills, systems thinking, and foundational knowledge, urging engineers to embrace complexity for enhanced resilience and decision-making in their work.
+                     #InfoQDevSummit #소프트웨어엔지니어링 #자동화 #복잡성 #결정력 #재생산성
+
+Add 3 hashtags related to the translated content: #InfoQDevSummit, #소프트웨어엔지니어링, #자동화
+
+8 번째 검색 내용
+제목: GitHub CLI 삼각형 워크플로우 지원 향상
+
+(Note: The translation may not be perfect as the original sentence is a mix of English and Korean words. However, it conveys the general idea of enhancing support for triangular workflows using GitHub CLI.)
+주소: https://www.infoq.com/news/2025/06/GitHub-CLI-Triangular-Workflows/
+설명: 인앱 : 4월 2025년, GitHub는 Command Line Interface(CLI)의 업데이트를 발표하였습니다. 이 업데이트에서는 오픈소스 기여자들이 포크된 저장소를 사용하는 일반적인 패턴인 삼각형 워크플로우에 대한 향상된 지원을 도입했습니다.
+#GitHub #CLI #오픈소스 #워크플로우
+
+Hashtags: #GitHub, #CLI, #오픈소스, #워크플로우
+
+9 번째 검색 내용
+제목: [INST] 코드 대신 문서를 사용하여 문서화 개선을 위한 Docs-as-Code가 Pinterest에서 어떻게 도움이 되었는지 번역합니다.
+[/INST]
+주소: https://www.infoq.com/news/2025/06/docs-as-code-at-pinterest/
+설명:  Korean: 최근 몇 년간 Pinterest 엔지니어들은 기관 전체에서 Docs-as-Code를 채택하려고 노력했습니다. 코드와 문서를 동일한 도구와 프로세스로 사용하면, 총 문서화 품질이 향상되고 팀의 만족도가 높아집니다. 이 변화는 Pinterest의 문서화 문화를 변화시키며, 협력을 장려하고 품질 제어, 발견성, 등을 개선합니다.
+#DocsAsCode #문서화 #협력 #품질_개선
+
+Hashtags: #DocsAsCode, #문서화, #협력, #품질_개선
+
+10 번째 검색 내용
+제목: 미스트랄 AI가 처음으로 이유 중심의 언어 모델인 마지스트랄을 발표합니다.
+주소: https://www.infoq.com/news/2025/06/mistral-ai-magistral/
+설명: Mistral AI는 투명한, 다단계 추론을 위해 새로운 모델 가족인 Magistral을 출시했습니다. 오픈 버전과 엔터프라이즈 버전이 있으며, 구조화된 논리, 다국어 출력 및 추적 가능한 결정 만들기를 지원합니다.
+#인공지능 #투명성 #다단계_추론
+
+11 번째 검색 내용
+제목: 자바 뉴스 요약: 스프링 마일스톤, 페이어라 플랫폼, 재키아 씨 11 업데이트, 애프로치 포리
+주소: https://www.infoq.com/news/2025/06/java-news-roundup-jun09-2025/
+설명: AI : 이번 주 6월 9일 자바 뉴스 요약은 다음과 같습니다: Spring Framework 7.0의 6차 마일스톤 릴리즈, 2025년 6월 Payara Platform, Apache Tomcat, Micrometer, Project Reactor 및 Micronaut의 포인트 릴리즈, Jakarta EE 11 플랫폼이 GA 릴리즈에 가까워졌으며 Apache Fury는 Apache Fory로 다시 명명되었습니다.
+#자바 #프레임워크 #웹서버 #릴리즈
+
+Hashtags: #Java #Frameworks #WebServers #Releases
+
+12 번째 검색 내용
+제목: 한글 번역: HTAP: 통합 데이터베이스 시스템의 상승과 하락입니다.
+주소: https://www.infoq.com/news/2025/06/htap-databases/
+설명: Recent article by Zhou Sun sparked a debate in the data community about the future of HTAP systems. Hybrid transaction/analytical processing was meant to help integrate historical and online data at scale, supporting more flexible query methods and reducing business complexity.
+#HTAP #데이터 커뮤니티 #온라인 데이터 #비즈니스 복잡성 감소
+
+Translated content: 최근 쇼우 선의 기사는 데이터 커뮤니티에서 미래의 HTAP(하이브리드 트랜잭션/분석 처리) 시스템에 대한 논쟁을 일으킨다. 하이브리드 트랜잭션/분석 처리는 규모에 따른 온라인 및 역사적 데이터를 통합하는 것을 목표로 했으며, 유연한 쿼리 방법을 지원하고 비즈니스 복잡성을 줄여주었다.
+#HTAP #데이터 커뮤니티 #온라인 데이터 #비즈니스 복잡성 감소
+
+13 번째 검색 내용
+제목: AWS CDK 도구킷 라이브러리가 자동화된 인프라 관리에 대해 GA 되었습니다.
+주소: https://www.infoq.com/news/2025/06/aws-cdk-toolkit-library/
+설명: AWS는 최근에 CDK Toolkit Library의 일반 사용 가능성을 발표했습니다. 이 새로운 Node.js 라이브러리는 CDK를 프로그래밍 방식으로 제어하고, CDK를 확장하기 위해 추가 자동화를 구축하며, 스택을 구문 분석, 배포 및 파괴하는 등의 다른 능력을 노출시키는 클래스와 메서드를 제공합니다.
+#AWS #CDKToolkitLibrary #자동화 #Node.js
+
+Translated content: AWS has recently announced the general availability of the CDK Toolkit Library. This new Node.js library allows developers to programmatically control the CDK to build additional automation around the CDK, exposing classes and methods to synthesize, deploy, and destroy stacks, among other capabilities.
+#AWS #CDKToolkitLibrary #자동화 #Node.js
+
+14 번째 검색 내용
+제목: 메타는 V-JEPA 2를 소개합니다. 이것은 비디오 기반의 물리적 추론을 위한 세계 모델입니다.
+주소: https://www.infoq.com/news/2025/06/meta-vjepa2/
+설명: Meta는 V-JEPA 2, 물리적 환경에서 machine understanding, prediction, 및 planning을 개선하기 위해 새로운 비디오 기반의 세계 모델을 소개했습니다. 이 모델은 Joint Embedding Predictive Architecture (JEPA) 프레임워크를 확장하고 임베딩 공간에서 결과를 예측하는데 훈련됩니다. 비디오 데이터를 사용합니다.
+#인공지능 #세계모델 #물리적환경
+
+#hashtags: #AI #WorldModel #PhysicalEnvironment
+
+15 번째 검색 내용
+제목: 앤젼론 API 게이트웨이에서는 헤더와 경로에 기반한 동적 라우팅을 추가합니다.
+주소: https://www.infoq.com/news/2025/06/aws-api-gateway-dynamic-routing/
+설명: AWS의 새로운 동적 라우팅 규칙은 Amazon API Gateway를 사용하는 개발자들이 HTTP 헤더를 기반으로 요청을 라우팅하여 API 트래픽 관리를 간소화할 수 있게 합니다. 이 창의적인 기능은 API 버전 관리를 단순화하며, 정교한 제어를 가능하게 하고, A/B 테스트를 향상시키며, 요청 보기를 개선하여 API 구성이 더욱 효율적이고 사용자 친화적으로 만듭니다.
+#AWS #APIGateWay #동적라우팅규칙
+
+#hashtags: #AWS #APIGateWay #동적라우팅규칙
+
