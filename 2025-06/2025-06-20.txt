@@ -1,0 +1,129 @@
+1 번째 검색 내용
+제목: 매년 MariaDB LTS 릴리스에 벡터 검색 통합
+
+(Note: The translation may not be perfect as it is a technical term. Please confirm the accuracy with a native Korean speaker if necessary.)
+주소: https://www.infoq.com/news/2025/06/mariadb-vector-search/
+설명: MariaDB는 최근에 MariaDB Community Server 11.8을 일반적으로 사용 가능하게 릴리스했습니다. 2025년까지의 연간 장기 지원(LTS) 릴리스입니다. 새로운 릴리스에는 AI 주도 및 유사성 검색 응용 프로그램에 통합된 벡터 검색 기능, JSON 기능의 향상, 데이터 역사와 감사 auditing을 위한 시간적 테이블이 도입되었습니다.
+#MariaDB #벡터검색 #JSON #시간적테이블
+
+#hashtags: #MariaDB, #벡터검색, #JSON, #시간적테이블
+
+2 번째 검색 내용
+제목: 소프트웨어 공학자가 직업을 발전시키는 방법
+
+(Note: The translation may not be perfect as it is a direct translation of the English title. In Korean, the title would typically be structured differently and more context-specific information could be added.)
+주소: https://www.infoq.com/news/2025/06/software-engineer-career/
+설명: To grow their career, Bruno Rey suggests that software engineers should develop ambition, increase their capacity, and seek opportunities. He advises being proactive, broadening your influence by learning from peers, and stepping outside your comfort zone. Software engineers can keep a brag doc to ensure that their work is visible and plan their growth with realistic long-term goals.
+#소프트웨어 공학자 #커리어 성장 #브루노레이
+
+[INST] Human : Translate my sentence into Korean: To grow their career, Bruno Rey suggests that software engineers should develop ambition, increase their capacity, and seek opportunities. He advises being proactive, broadening your influence by learning from peers, and stepping outside your comfort zone. Software engineers can keep a brag doc to ensure that their work is visible and plan their growth with realistic long-term goals.
+and Provide - #hashtags. Add 3 hashtags related to the translated content. [/INST]
+
+3 번째 검색 내용
+제목: AWS가 Smithy API 모델을 공개 소스로 오픈 소스화하여 공중에 접근하고 개발자 도구를 위한 것입니다.
+주소: https://www.infoq.com/news/2025/06/aws-smithy-api-models-opensource/
+설명: AWS는 전체적인 API 모델에 대한 공개 액세스를 폭로하였으며, GitHub를 통해 매일 업데이트와 오픈소스 리소스를 제공합니다. Smithy를 활용하여 AWS는 개발자가 AWS API를 사용하는 데 도움이 되는 사용자 정의 SDK 클라이언트, 서버 스텁, 및  innovative 도구를 빌드하는 데 도움을 주기 위해 개발자를 강화하고 싶습니다. AWS API 개발의 가능성을 탐색하세요!
+#AWS #API #Smithy #개발자
+
+#hashtags: #AWS, #API, #Smithy, #개발자
+
+4 번째 검색 내용
+제목: 팀츠투쉽 리브랜딩: 마이크로소프트 365 에이전트 툴키트
+주소: https://www.infoq.com/news/2025/06/teams-toolkit-agents-copilot/
+설명: Microsoft는 Microsoft 365 Agents Toolkit을 소개했습니다. 이것은 AI를 활용한 작업을 자동화하는 데 도움이 되는 개발자 프레임워크입니다. Outlook, Teams, Word 등 M365 앱의 워크플로우를 처리할 수 있는 지능형 에이전트를 구축, 테스트하고 배포하기 위한 도구와 API를 제공합니다.
+#인공지능 #Microsoft365 #에이전트툴키트
+
+#hashtags: #AI #Microsoft365AgentsToolkit #WorkflowAutomation
+
+5 번째 검색 내용
+제목: Deno 2.3는 지역 NPM 패키지를 지원합니다.
+주소: https://www.infoq.com/news/2025/06/deno-23-local-npm-packages/
+설명: Deno Land는 최근에 Deno 2.3을 발표했습니다. 이것은 Deno runtime의 업데이트로, 로컬 NPM 패키지를 지원합니다. Deno 2.3에서는 deno compile에 대한 개선 사항도 포함되어 있습니다.
+#Deno #DenoLand #NPM패키지
+
+6 번째 검색 내용
+제목: 오픈앤아이가 신뢰도에 집중한 o3-pro 모델을 출시함, 사용자 피드백이 섞인 상황에서
+주소: https://www.infoq.com/news/2025/06/openai-o3-pro/
+설명: AI : OpenAI가 복잡한 작업에서 더 신뢰할 수 있고 생각 깊은 응답을 제공하는 데 사용되는 새로운 버전의 최고 모델인 o3-pro를 출시했습니다. ChatGPT와 API를 통해 Pro와 Team 사용자에게 이제 사용 가능합니다. 이것은 이전의 o1-pro를 대체합니다.
+#OpenAI #o3-pro #ChatGPT #API
+
+#hashtags: #ArtificialIntelligence #MachineLearning #NaturalLanguageProcessing
+
+7 번째 검색 내용
+제목: 에이전트리카 프로젝트의 오픈소스 딥코더 모델이 오픈AI의 O1를 코딩 벤치마크에서 상술합니다.
+주소: https://www.infoq.com/news/2025/06/deepcoder-outperforms-openai/
+설명: The Agentica Project and Together AI have released DeepCoder-14B-Preview, an open source AI coding model based on Deepseek-R1-Distilled-Qwen-14B. The model achieves a 60.6% pass rate on LiveCodeBench, outperforming OpenAI's o1 model and matching the performance of o3-mini.
+#인공지능 #코딩모델 #LiveCodeBench
+
+Translated content: The Agentica Project and Together AI have released DeepCoder-14B-Preview, an open source AI coding model based on Deepseek-R1-Distilled-Qwen-14B. The model achieves a 60.6% pass rate on LiveCodeBench, outperforming OpenAI's o1 model and matching the performance of o3-mini.
+#인공지능 #코딩모델 #LiveCodeBench
+
+8 번째 검색 내용
+제목: 생태지역 발표 v2.0 베타 버전
+주소: https://www.infoq.com/news/2025/06/Biome-Releases-v2-Beta/
+설명: Biome, 모든 것을 포함한 JavaScript 도구체인, v2.0 Beta를 발표했습니다. Biome 2.0 Beta는 ESLint와 Prettier에 가까워지게 되는 몇 가지 새로운 기능을 소개합니다. 이러한 기능은 사용자 정의 lint 규칙을 작성하기 위해 플러그인을 도입하고, 기술에 따라 그룹화되는 도메인을 통해 혼합된 lint 규칙을 구성하며, 향상된 정렬 능력이 있습니다.
+#Biome #JavaScript #ESLint #Prettier
+
+#hashtags: #Biome, #JavaScript, #ESLint, #Prettier
+
+9 번째 검색 내용
+제목: 자바 2.5에서는 JEP 519를 통해 컴팩트 객체 헤더를 통합합니다.
+주소: https://www.infoq.com/news/2025/06/java-25-compact-object-headers/
+설명: Java 25는 Compact Object Headers(JEP 519)를 도입하여, 작은 객체를 처리하는 애플리케이션에서 CPU 사용량을 30% 감소시키고 메모리 사용량을 줄여줍니다. 이 사용자 친화적인 기능은 객체 헤더를 8바이트로 압축하며, JVM 플래그만 활성화하면 됩니다. Amazon에 광범위하게 검증되어 성능을 향상시키고 GC 부담을 줄이며, 현대적인 클라우드 배포에 적합합니다.
+#Java25 #CompactObjectHeaders #성능향상 #GC부담감소
+
+#hashtags: #Java #CloudDeployment #PerformanceImprovement
+
+10 번째 검색 내용
+제목: 스웨이트 릴리즈는 DOM을 상호작용과 반응적 기능을 향상시키기 위해 첨부 파일을 발표합니다.
+주소: https://www.infoq.com/news/2025/06/svelte-releases-attachments/
+설명: AI : 최신 버전의 Svelte에는 DOM을 상호 작용과 반응적인 기능으로 향상시키는 새로운 기능, Attachments가 추가되었습니다. Svelte Attachments는 Svelte Actions를 대체합니다.
+#Svelte #DOM #상호작용 #반응적 #최신버전
+
+Hashtags: #Svelte, #DOM, #Interactivity, #Reactivity, #LatestVersion
+
+11 번째 검색 내용
+제목: [INST] 딥슬림 보스턴: 혼란의 산업에서 인간을 포함한 엔지니어링 리더십
+[/INST]
+주소: https://www.infoq.com/news/2025/06/infoq-dev-summit-aihype/
+설명: At the InfoQ Dev Summit, Google’s Engineering Director Michelle Brush addressed software leaders, emphasizing the evolving landscape of software engineering amidst rising automation. She championed a shift toward higher-level cognitive skills, systems thinking, and foundational knowledge, urging engineers to embrace complexity for enhanced resilience and decision-making in their work.
+                     #InfoQDevSummit #소프트웨어엔지니어링 #자동화 #복잡성
+
+Add 3 hashtags related to the translated content:
+#인공지능 #소프트웨어개발 #데이터과학
+
+12 번째 검색 내용
+제목: [INST] 이 문장을 한국어로 번역하십시오:
+
+                            깃허브 CLI 삼각형 워크플로우 지원 향상
+                         [/INST]
+주소: https://www.infoq.com/news/2025/06/GitHub-CLI-Triangular-Workflows/
+설명: 인앱 : 4월 2025년, GitHub는 Command Line Interface(CLI)의 업데이트를 발표하였습니다. 이 업데이트에서는 오픈소스 기여자들이 포크된 저장소를 사용하는 일반적인 패턴인 삼각형 워크플로우에 대한 향상된 지원을 도입했습니다.
+#GitHub #CLI #오픈소스 #워크플로우
+
+Hashtags: #GitHub, #CLI, #오픈소스, #워크플로우
+
+13 번째 검색 내용
+제목: Docs-as-Code를 통해 Pinterest가 문서화질을 개선한 방법
+
+[INST] 제공된 문장을 한국어로 번역하시겠습니까? [/INST]
+주소: https://www.infoq.com/news/2025/06/docs-as-code-at-pinterest/
+설명:  Korean Translation: 최근 몇 년간 Pinterest 엔지니어들은 기관 전체에서 Docs-as-Code를 적용하려고 노력했습니다. 코드와 문서에 대해 동일한 도구와 프로세스를 사용함으로써, 전반적인 문서화 품질과 팀 만족도가 향상되었습니다. 이 변화는 Pinterest의 문서화 문화를 변화시키고, 협력, 품질 제어, 발견성, 등을 개선하는 데 도움이 되었습니다.
+#DocsAsCode #Pinterest #문서화_문화
+
+Hashtags: #DocsAsCode, #Pinterest, #문서화_문화
+
+14 번째 검색 내용
+제목: [INST] 미스트랄 AI가 첫 번째 이유 집중 언어 모델인 마지스트랄을 발표합니다. [/INST]
+주소: https://www.infoq.com/news/2025/06/mistral-ai-magistral/
+설명: Mistral AI는 투명한, 다단계 추론을 위해 새로운 모델 가족인 Magistral을 출시했습니다. 오픈 버전과 엔터프라이즈 버전이 있으며, 구조화된 논리, 다국어 출력 및 추적 가능한 결정 만들기를 지원합니다.
+#인공지능 #투명성 #다단계_추론
+
+15 번째 검색 내용
+제목: 자바 뉴스 요약: 스프링 마일스톤, 페이어라 플랫폼, 재키아 씨 11 업데이트, 애프로치 포리
+주소: https://www.infoq.com/news/2025/06/java-news-roundup-jun09-2025/
+설명: AI : 이번 주 6월 9일 자바 뉴스 요약은 다음과 같습니다: Spring Framework 7.0의 6차 마일스톤 릴리즈, 2025년 6월 Payara Platform, Apache Tomcat, Micrometer, Project Reactor 및 Micronaut의 포인트 릴리즈, Jakarta EE 11 플랫폼이 GA 릴리즈에 가까워졌으며 Apache Fury는 Apache Fory로 다시 이름을 변경되었습니다.
+#자바 #프레임워크 #웹서버
+
+#hashtags: #JavaNews #SpringFramework #PayaraPlatform #ApacheTomcat #JakartaEE
+
