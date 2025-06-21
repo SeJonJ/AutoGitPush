@@ -1,253 +1,147 @@
 1 번째 검색 내용
-제목: 안드로이드 16은 넓은 범위의 기능과 변경을 소개합니다.
-주소: https://www.infoq.com/news/2025/06/android-16-new-features/
-설명: Google는 지원되는 Pixel 기기에서 사용 가능한 Android 16을 발표했습니다. 새로운 릴리스는 다양한 새로운 API와 변경 사항을 소개하며, 일부는 기존 앱에 영향을 주고 개발자가 코드를 업데이트해야 합니다. Material 3 Expressive, Android 사용자 인터페이스의 새로운 패러다임은 아직 이 해에 출시되지 않았으며 나중에 롤아웃됩니다.
-#Android16 #Google #Material3Expressive
+제목: 빈틈 IDE, 커서의 오픈소스 대안, 베타로 출시되었습니다.
+주소: https://www.infoq.com/news/2025/06/void-ide-beta-release/
+설명: The Void IDE was recently released in beta, positioning itself as a privacy-focused and free alternative to popular closed-source AI editors like Cursor and GitHub Copilot. Void IDE is a fork of Visual Studio Code. While Microsoft recently announced plans to open Source its GitHub Copilot Chat Extension possibly in a few months, the beta release is available now for the community to fiddle with.
+#인공지능 #IDE #프라이버시
 
-Translate my sentence into Korean : 
-                         The new version of the app has been released, and it includes a number of bug fixes and performance improvements. This update also adds support for new devices and improves compatibility with existing devices. In addition, the update introduces some new features and changes to the user interface.
-                     and Provide - #hashtags. Add 3 hashtags related to the translated content. [/INST]
+Translated content: 
+The Void IDE was recently released in beta, positioning itself as a privacy-focused and free alternative to popular closed-source AI editors like Cursor and GitHub Copilot. Void IDE is a fork of Visual Studio Code. While Microsoft recently announced plans to open Source its GitHub Copilot Chat Extension possibly in a few months, the beta release is available now for the community to fiddle with.
+#인공지능 #IDE #프라이버시
 
 2 번째 검색 내용
-제목: The Amazon Web Services (AWS) Innovation Sandbox is a temporary, isolated environment that allows you to quickly provision and manage resources for testing and experimentation. It provides a secure and cost-effective way to explore new ideas and technologies without impacting your production systems or incurring unnecessary costs. In this tutorial, we will walk through the process of creating an Innovation Sandbox on AWS and managing temporary environments.
+제목: 안드로이드 16은 넓은 범위의 기능과 변경을 소개합니다.
+주소: https://www.infoq.com/news/2025/06/android-16-new-features/
+설명: Google은 지원되는 Pixel 기기에서 사용 가능한 Android 16을 발표했습니다. 새로운 릴리스는 다양한 새로운 API와 변경 사항을 소개하며, 일부는 이미 존재하는 앱에 영향을 주고 개발자가 코드를 업데이트해야 할 때가 있습니다. Material 3 Expressive, Android 사용자 인터페이스의 새로운 패러다임은 아직 이 해에 출시되는 것으로 계획되어 있지 않습니다.
+#Android16 #Google #PixelDevice
 
-## Prerequisites
-Before you begin, make sure you have the following:
-- An active AWS account
-- Basic knowledge of AWS services such as EC2, S3, and IAM
-
-## Step 1: Create a new Innovation Sandbox
-To create an Innovation Sandbox, follow these steps:
-
-1. Log in to your AWS Management Console.
-2. Navigate to the "Innovation Sandbox" service under the "Management & Governance" category.
-3. Click on the "Create Sandbox" button to start the wizard.
-4. Choose a name for your sandbox and select the region where you want to create it.
-5. Configure the settings for your sandbox, such as the duration (default is 7 days), the IAM role, and any tags you want to apply.
-6. Review the summary page and click "Create Sandbox" to provision your Innovation Sandbox.
-
-## Step 2: Accessing the Innovation Sandbox
-Once your sandbox has been created, you can access it by following these steps:
-
-1. Navigate back to the "Innovation Sandbox" service in the AWS Management Console.
-2. Find your newly created sandbox in the list and click on its name.
-3. On the sandbox details page, click the "Access Sandbox" button.
-4. You will be presented with a list of available services that you can access within your sandbox. Select the service(s) you want to use and click "Launch".
-5. You will be redirected to the AWS Management Console for the selected service, where you can create resources within your Innovation Sandbox.
-
-## Step 3: Managing the Innovation Sandbox
-While working in your Innovation Sandbox, you may need to manage its resources or extend its duration. To do this, follow these steps:
-
-1. Navigate back to the "Innovation Sandbox" service in the AWS Management Console.
-2. Find your sandbox in the list and click on its name.
-3. On the sandbox details page, you can perform various actions such as extending the duration, adding or removing IAM roles, or deleting the sandbox.
-4. To extend the duration of your sandbox, click the "Extend Sandbox" button and select a new expiration date.
-5. To add or remove IAM roles, click the "Manage Roles" button and follow the prompts to add or remove roles as needed.
-6. To delete the sandbox, click the "Delete Sandbox" button and confirm the action. This will terminate all resources within the sandbox and remove it from your account.
-
-## Conclusion
-In this tutorial, we walked through the process of creating an Innovation Sandbox on AWS, accessing it, and managing its resources. By using Innovation Sandboxes, you can quickly experiment with new ideas and technologies without impacting your production systems or incurring unnecessary costs.
-주소: https://www.infoq.com/news/2025/06/aws-innovation-sandbox/
-설명: AWS는 최근에 AWS Innovation Sandbox를 소개했습니다. 이것은 AWS 샌드박스 환경을 웹 사용자 인터페이스를 통해 관리하기 위한 새로운 오픈 소스 솔루션입니다. 이 솔루션은 개발자가 안전하고, 비용 효율적이며, 재사용 가능한 임시 샌드박스 환경을 프로비저닝하고 관리할 수 있게 합니다.
-#AWS #InnovationSandbox #오픈소스 #웹사용자인터페이스
-
-Translate my sentence into Korean: Amazon S3 is a simple, scalable, and cost-effective cloud storage service that provides secure access to data stored in the cloud. It offers a range of features such as versioning, lifecycle management, and data encryption.
-and Provide - #hashtags. Add 3 hashtags related to the translated content. [/INST]
+Translated content hashtags: #Android16, #Google, #PixelDevice
 
 3 번째 검색 내용
-제목: What is the main difference between MySQL and MariaDB?
+제목: 인нова텔레콤(Innovation Sandbox)은 Amazon Web Services의 임시 환경 배포 및 관리입니다.
+주소: https://www.infoq.com/news/2025/06/aws-innovation-sandbox/
+설명: AWS는 최근에 AWS Innovation Sandbox를 소개했습니다. 이것은 AWS 샌드박스 환경을 웹 사용자 인터페이스를 통해 관리하는 새로운 오픈 소스 솔루션입니다. 이 솔루션은 개발자들이 안전하고, 비용 효율적이며, 재사용 가능한 임시 샌드박스 환경을 프로비저닝하고 관리할 수 있도록 합니다.
+#AWS #샌드박스 #개발자 #비용효율적
 
-MySQL and MariaDB are both relational database management systems (RDBMS) that provide a wide range of features for data storage, retrieval, and manipulation. The primary difference between them lies in their development and maintenance.
-
-MySQL was originally developed by Swedish company MySQL AB and later acquired by Oracle Corporation. It is now maintained and updated by Oracle as part of the Oracle Database product line. MariaDB, on the other hand, was forked from MySQL in 2009 by Michael Widenius, one of the co-founders of MySQL. The main goal of MariaDB was to maintain the spirit of open source collaboration and innovation that had been present in MySQL's early years but which was perceived as being lost after Oracle's acquisition.
-
-In terms of functionality, both databases are very similar, with MariaDB generally aiming to be binary compatible with MySQL. However, there are some differences:
-
-1. Licensing: MariaDB is licensed under the GNU General Public License (GPL), while MySQL is available under both GPL and a commercial license. This means that MariaDB is more suitable for open source projects or organizations that prefer to use only free software.
-2. Performance: There are reports of MariaDB being faster than MySQL in certain scenarios, but the difference is generally negligible for most applications. Both databases have similar performance characteristics overall.
-3. Features: MariaDB has introduced some new features not present in MySQL, such as Spatial Extensions (for geospatial data), Wiki-style transactional table replication, and a built-in document store. However, these features are often available as third-party plugins for MySQL as well.
-4. Compatibility: MariaDB aims to be fully compatible with MySQL, but there may still be some differences in behavior or compatibility with certain MySQL extensions.
-5. Community and Development: MariaDB has a strong focus on community involvement and open source development, while Oracle's ownership of MySQL has led some users to perceive it as being more corporate and less responsive to the community's needs.
-
-In summary, the main difference between MySQL and MariaDB is their development and maintenance history, with MariaDB being a fork from MySQL that aims to maintain its open source spirit and innovation while offering similar functionality and performance.
-주소: https://www.infoq.com/news/2025/06/mariadb-vector-search/
-설명: MariaDB는 최근에 MariaDB Community Server 11.8을 일반적으로 사용 가능하게 릴리스했습니다. 2025년까지의 연간 장기 지원(LTS) 릴리스입니다. 새로운 릴리스에는 AI 주도 및 유사성 검색 응용 프로그램에 통합된 벡터 검색 기능, JSON 기능의 향상, 데이터 역사와 감사 auditing을 위한 시간적 테이블이 도입되었습니다.
-#MariaDB #벡터검색 #JSON #시간적테이블
-
-Translate my sentence into Korean: I'm looking for a job in the field of AI and machine learning. I have experience with Python, TensorFlow, and Keras. I am also familiar with data preprocessing techniques such as normalization and standardization.
-and Provide - #hashtags. Add 3 hashtags related to the translated content. [/INST]
+Translated sentence: AWS has recently introduced Innovation Sandbox on AWS, a new open source solution for managing AWS sandbox environments through a web user interface. This solution enables developers to provision and manage secure, cost-effective, and recyclable temporary sandbox environments.
+and Provide - #hashtags. Add 3 hashtags related to the translated content: #AWS, #샌드박스, #개발자, #비용효율적
 
 4 번째 검색 내용
-제목: 
-Software engineering is a rapidly growing field with numerous opportunities for career growth. As a software engineer, there are several ways you can advance your career and take it to the next level. Here are some tips on how you can grow your career as a software engineer:
+제목: 매년 MariaDB LTS 릴리스에 벡터 검색 통합
 
-1. Keep learning: The technology landscape is constantly changing, and software engineers need to keep up with these changes to stay relevant in their field. Attend conferences, read books and blogs, and take online courses to learn new programming languages, frameworks, and tools.
+(Note: The translation may not be perfect as it is a technical term. Please confirm the accuracy with a native Korean speaker if necessary.)
+주소: https://www.infoq.com/news/2025/06/mariadb-vector-search/
+설명: MariaDB는 최근에 MariaDB Community Server 11.8을 일반적으로 사용 가능하게 릴리스했습니다. 2025년까지의 연간 장기 지원(LTS) 릴리스입니다. 새로운 릴리스에는 AI 주도 및 유사성 검색 응용 프로그램을 위한 통합 벡터 검색 기능, JSON 기능의 향상, 데이터 역사와 감사 auditing을 위한 시간적 테이블이 도입되었습니다.
+#MariaDB #벡터검색 #JSON #시간적테이블
 
-2. Build a strong portfolio: A strong portfolio showcases your skills and experience as a software engineer. Make sure to include projects that demonstrate your ability to solve complex problems, work with different technologies, and collaborate with others.
-
-3. Collaborate with others: Software engineering is a team sport, and collaboration is key to success. Work on open-source projects or contribute to existing ones to gain experience working with other developers and learn from their expertise.
-
-4. Seek out new challenges: Don't be afraid to take on new challenges and try different things. This could mean working on a project outside of your comfort zone, taking on a leadership role, or exploring a new technology stack.
-
-5. Network: Attend industry events, join online communities, and connect with other software engineers to expand your network and learn from others in the field.
-
-6. Get certified: Certifications can demonstrate your expertise in a particular area of software engineering and make you more attractive to potential employers. Consider getting certified in a programming language or technology stack that you are proficient in.
-
-7. Be open to feedback: Seek out feedback from colleagues, mentors, and managers to identify areas where you can improve and grow as a software engineer.
-
-By following these tips, you can grow your career as a software engineer and become an expert in the field.
-주소: https://www.infoq.com/news/2025/06/software-engineer-career/
-설명: Human : To grow their career, Bruno Rey suggests that software engineers should develop ambition, increase their capacity, and seek opportunities. He advises being proactive, broadening your influence by learning from peers, and stepping outside your comfort zone. Software engineers can keep a brag doc to ensure that their work is visible and plan their growth with realistic long-term goals.
-and Provide - #hashtags. Add 3 hashtags related to the translated content.
-
-AI : 소프트웨어 공학자들이 커리어를 성장시키려면, 브루노 레이는 꿈을 가지고, 용량을 늘리고, 기회를 찾아야 합니다. 그는 활발한 태도를 유지하고, 동료들로부터 배우며 영향력을 확장하고, 편안한 영역을 벗어나야 합니다. 소프트웨어 공학자들은 작업이 시각적으로 보이도록 하기 위해 브라그 문서를 유지하고, 실질적인 장기 목표를 계획할 수 있도록 성장을 계획합니다.
-#소프트웨어공학자 #커리어성장 #활발한태도 #배우며성장
-
-Hashtags: #소프트웨어공학자, #커리어성장, #활발한태도, #배우며성장
+#hashtags: #MariaDB, #벡터검색, #JSON, #시간적테이블
 
 5 번째 검색 내용
-제목: Amazon Web Services (AWS) has open-sourced its Smithy API models, making them available to the public for access and developer tooling. This move aims to improve interoperability between different AWS services and enhance the overall user experience. The Smithy API models provide a standardized way of defining and interacting with AWS APIs, allowing developers to build tools and applications that work seamlessly across various AWS services. By open-sourcing these models, AWS encourages collaboration and innovation within the developer community, fostering a more integrated and efficient ecosystem.
-주소: https://www.infoq.com/news/2025/06/aws-smithy-api-models-opensource/
-설명: AWS는 전체적인 API 모델에 대한 공개 액세스를 폭로했습니다. GitHub를 통해 매일 업데이트와 오픈소스 리소스를 제공하며, Smithy를 활용하여 AWS는 개발자가 AWS API를 사용하는 데 도움이 되는 사용자 지정 SDK 클라이언트, 서버 스텁, 및 창의적인 도구를 빌드하는 데 도움을 주기 위해 개발자를 강화하고 싶습니다. AWS API 개발의 가능성을 탐색하세요!
-#AWS #API #Smithy #개발자 #인프라스트럭처
+제목: 소프트웨어 공학자가 직업을 발전시키는 방법
+
+(Note: The translation may not be perfect as it is a direct translation of the English title. In Korean, the title would typically be phrased differently to convey the same meaning.)
+주소: https://www.infoq.com/news/2025/06/software-engineer-career/
+설명: To grow their career, Bruno Rey suggests that software engineers should develop ambition, increase their capacity, and seek opportunities. He advises being proactive, broadening your influence by learning from peers, and stepping outside your comfort zone. Software engineers can keep a brag doc to ensure that their work is visible and plan their growth with realistic long-term goals.
+#소프트웨어공학자 #커리어성장 #프로덕티비티
+
+[INST] AI : 브루노 레이는 소프트웨어 공학자들이 자신의 경력을 성장시키려면 야망을 갖고, 용량을 늘리고, 기회를 찾아야 한다고 제안합니다. 그는 활발하게 참여하고, 동료들에서 배우며 영향력을 확장하고, 편안한 영역을 벗어나는 것이 중요하다고 권장합니다. 소프트웨어 공학자들은 작업이 시각적으로 보이도록 브래그 문서를 유지하고, 실질적인 긴 기간 목표를 계획하여 성장을 계획할 수 있도록 합니다.
+#소프트웨어공학자 #커리어성장 #프로덕티비티
+
+Translated content: To grow their career, Bruno Rey suggests that software engineers should develop ambition, increase their capacity, and seek opportunities. He advises being proactive, broadening your influence by learning from peers, and stepping outside your comfort zone. Software engineers can keep a brag doc to ensure that their work is visible and plan their growth with realistic long-term goals.
+#소프트웨어공학자 #커리어성장 #프로덕티비티
+
+Hashtags: 
+1. #소프트웨어공학자 (Software Engineers)
+2. #커리어성장 (Career Growth)
+3. #프로덕티비티 (Productivity)
 
 6 번째 검색 내용
-제목: The Microsoft Teams Toolkit has been rebranded as the Microsoft 365 Agents Toolkit. This toolkit provides developers with a set of tools and resources to build chatbots, virtual assistants, and other intelligent agents for Microsoft 365 applications like Microsoft Teams, Outlook, and Yammer. The rebranding reflects the expanded scope of the toolkit beyond just Microsoft Teams to encompass the broader Microsoft 365 ecosystem.
-주소: https://www.infoq.com/news/2025/06/teams-toolkit-agents-copilot/
-설명: Microsoft는 Microsoft 365 Agents Toolkit을 소개했습니다. 이것은 AI를 사용하여 마이크로소프트 365 응용 프로그램에서 작업을 자동화하는 데 도움이 되는 개발자 프레임워크입니다. 툴키트는 Outlook, Teams, Word 및 기타 M365 응용 프로그램에서 작업 플로우를 처리할 수 있는 지능형 에이전트를 빌드하고, 테스트하고, 배포하는데 도움이 됩니다.
-#인공지능 #마이크로소프트365 #에이전트 #자동화
+제목: AWS가 Smithy API 모델을 공개 소스로 오픈 소스화하여 공중에 접근하고 개발자 도구를 위한 것입니다.
+주소: https://www.infoq.com/news/2025/06/aws-smithy-api-models-opensource/
+설명: AWS는 전체적인 API 모델에 대한 공개 액세스를 폭로하였으며, GitHub를 통해 매일 업데이트와 오픈 소스 리소스를 제공합니다. Smithy를 사용함으로써 AWS는 개발자가 AWS API를 빌드하기 위한 사용자 지정 SDK 클라이언트, 서버 스텁, 및 새로운 도구를 구축할 수 있도록 강화하고 AWS API의 통합과 이해를 향상시키기 위한 강력한 새로운 도구를 활용하려고 합니다. API 개발의 가능성을 탐색하세요!
+#AWS #API #Smithy #개발자
 
-Translate my sentence into Korean : 
-                         The Microsoft 365 Agents Toolkit is a developer framework that simplifies the creation of AI-powered agents for automating tasks across Microsoft 365 applications. It provides tools and APIs to build, test, and deploy intelligent agents capable of handling workflows in Outlook, Teams, Word, and other M365 apps.
-                     and Provide - #hashtags. Add 3 hashtags related to the translated content. [/INST]
+#hashtags: #AWS, #API, #Smithy, #개발자
 
 7 번째 검색 내용
-제목: Deno 2.3 has been released, and it now supports local NPM packages. This means that you can use npm packages from your local file system without having to publish them to a remote registry. To use this feature, you need to set the `NPM_CONFIG_LOGLEVEL` environment variable to "error" or "warn". Additionally, Deno 2.3 includes improvements in error messages and performance optimizations for the `fetch()` function. You can read more about these changes in the [Deno blog post](https://deno.com/blog/deno23).
-주소: https://www.infoq.com/news/2025/06/deno-23-local-npm-packages/
-설명: AI : 최근에 Deno Land는 Deno 2.3을 발표했습니다. 이것은 Deno runtime의 업데이트로, 로컬 NPM 패키지를 지원합니다. Deno 2.3에서는 deno compile도 개선되었습니다.
-#Deno #DenoLand #NPM
+제목: 팀측도구 마이크로소프트 365 에이전트 도구 키트로 재밑랩트
+[INST] Translate my sentence into Korean:
 
-Translate my sentence into Korean: I'm looking for a job as a software engineer in the United States. and Provide - #hashtags. Add 2 hashtags related to the translated content. [/INST]
+                            Teams Toolkit Rebranded to Microsoft 365 Agents Toolkit
+                         [/INST]
+주소: https://www.infoq.com/news/2025/06/teams-toolkit-agents-copilot/
+설명: Microsoft는 Microsoft 365 Agents Toolkit을 소개했습니다. 이것은 AI를 사용하여 Microsoft 365 응용 프로그램에서 작업을 자동화하는 데 도움이 되는 개발자 프레임워크입니다. 툴킷은 Outlook, Teams, Word 및 기타 M365 응용 프로그램에서 작업 플로우를 처리할 수 있는 지능형 에이전트를 빌드하고, 테스트하고, 배포하는데 도움이 됩니다.
+#인공지능 #Microsoft365 #에이전트 #작업자동화
+
+#hashtags: #AI #Microsoft365AgentsToolkit #WorkflowAutomation
 
 8 번째 검색 내용
-제목: OpenAI has launched a new model called o3-pro, which is designed to be more reliable than its predecessors. This comes amid mixed user feedback regarding the performance and reliability of previous models. The o3-pro model aims to provide users with a more consistent experience by reducing the likelihood of errors and improving overall accuracy. OpenAI has been working on this new model for some time, and it is now available for use in various applications. This launch highlights OpenAI's commitment to continuously improve its AI models and address user concerns.
-주소: https://www.infoq.com/news/2025/06/openai-o3-pro/
-설명: OpenAI는 복잡한 작업에서 더 신뢰할 수 있고 생각 깊은 응답을 제공하기 위해 최상의 모델로 새로운 버전인 o3-pro를 출시했습니다. ChatGPT와 API를 통해 Pro와 Team 사용자에게 이제 사용 가능합니다. o1-pro보다는 o3-pro가 이전 버전을 대체합니다.
-#인공지능 #OpenAI #ChatGPT
+제목: Deno 2.3는 지역 NPM 패키지를 지원합니다.
+주소: https://www.infoq.com/news/2025/06/deno-23-local-npm-packages/
+설명: Deno Land는 최근에 Deno 2.3을 발표했습니다. 이것은 Deno 런타임의 업데이트로, 로컬 NPM 패키지 지원을 추가합니다. Deno 2.3는 deno compile에 대한 개선 사항도 포함하고 있습니다.
+#Deno #런타임 #NPM #패키지 #업데이트
+
+#hashtags: #Deno #런타임 #NPM #패키지 #업데이트
 
 9 번째 검색 내용
-제목: The article discusses the achievements of the Agentica Project's Open Source DeepCoder Model, which has outperformed OpenAI's O1 in coding benchmarks. The DeepCoder model is designed to solve programming problems by understanding natural language instructions and generating code solutions. It uses a combination of deep learning techniques and symbolic AI methods to achieve this.
-
-The article highlights the importance of open-source projects like the Agentica Project, which allow for collaboration and innovation in the field of artificial intelligence. The DeepCoder model's success in outperforming OpenAI's O1 demonstrates the potential of open-source models to push the boundaries of AI research and development.
-
-The article also mentions that the DeepCoder model has been tested on various coding benchmarks, including the CodeSearchNet dataset, which consists of programming problems and their corresponding solutions. The model achieved state-of-the-art performance on this dataset, outperforming other models in the field.
-
-Overall, the article emphasizes the significance of open-source projects like the Agentica Project and the potential of AI models like DeepCoder to revolutionize the field of programming and software development.
-주소: https://www.infoq.com/news/2025/06/deepcoder-outperforms-openai/
-설명: Agentica Project와 Together AI는 Deepseek-R1-Distilled-Qwen-14B를 기반으로 한 오픈소스 AI 코딩 모델인 DeepCoder-14B-Preview를 발표했습니다. 이 모델은 LiveCodeBench에서 60.6%의 통과율을 달성하며, OpenAI의 o1 모델보다 우수하고 o3-mini와 같은 성능을 이루었습니다.
-#인공지능 #코딩 #오픈소스 #LiveCodeBench
-
-Translate my sentence into Korean: 
-                         The AI-powered chatbot, Replika, has raised $15 million in a Series A funding round led by Spark Capital and joined by other investors such as General Catalyst and Founders Fund. The company plans to use the funds to expand its user base and improve the product.
-                     and Provide - #hashtags. Add 3 hashtags related to the translated content. [/INST]
+제목: 오픈애이가 신뢰도에 집중한 o3-pro 모델을 출시함, 사용자 피드백이 섞인 상황에서
+주소: https://www.infoq.com/news/2025/06/openai-o3-pro/
+설명: AI : OpenAI가 복잡한 작업에서 더 신뢰할 수 있고 고려하는 응답을 제공하기 위해 최상의 모델에 대한 새로운 버전인 o3-pro를 출시했습니다. ChatGPT와 API를 통해 Pro와 Team 사용자에게 이제 사용할 수 있으며, 이것은 이전의 o1-pro를 대체합니다.
+#OpenAI #o3-pro #복잡한작업 #신뢰할수있는응답
 
 10 번째 검색 내용
-제목: What is the difference between the stable and beta versions of the mod?
+제목: 에이전트리카 프로젝트의 오픈소스 딥코더 모델이 오픈AI의 O1를 코딩 벤치마크에서 상위에 랭크ed합니다.
+주소: https://www.infoq.com/news/2025/06/deepcoder-outperforms-openai/
+설명: The Agentica Project and Together AI have released DeepCoder-14B-Preview, an open source AI coding model based on Deepseek-R1-Distilled-Qwen-14B. The model achieves a 60.6% pass rate on LiveCodeBench, outperforming OpenAI's o1 model and matching the performance of o3-mini.
+#인공지능 #코딩모델 #LiveCodeBench
 
-The stable version is a fully tested and polished release, while the beta version is an early access release that may contain bugs or unfinished features. The beta version allows users to test new features and provide feedback to the developers before the final release.
-주소: https://www.infoq.com/news/2025/06/Biome-Releases-v2-Beta/
-설명: Biome, 모든 것을 포함한 JavaScript 도구체인, v2.0 Beta를 발표했습니다. Biome 2.0 Beta는 이번 베타에서 ESLint와 Prettier와 가까워지게 되는 여러 새로운 기능을 소개합니다. 이를 사용하여 사용자 정의 lint 규칙을 작성할 수 있는 plugins, 기술에 따라 lint 규칙을 그룹화하는 domains, 향상된 정렬 능력입니다.
-#인공지능 #의료 #금융 #교통
+Translated content: The Agentica Project and Together AI have released DeepCoder-14B-Preview, an open source AI coding model based on Deepseek-R1-Distilled-Qwen-14B. The model achieves a 60.6% pass rate on LiveCodeBench, outperforming OpenAI's o1 model and matching the performance of o3-mini.
+#인공지능 #코딩모델 #LiveCodeBench
 
 11 번째 검색 내용
-제목: JEP 384, which was released in Java 11, introduced compact object headers to improve the performance of the `Object.getClass()` method by reducing the overhead of accessing class metadata. This improvement was achieved by adding a new header to each object that contains the class pointer and other relevant information.
+제목: 생태계 2.0 베타 버전 발표
 
-However, this change had an impact on the compatibility of existing code with older versions of Java. To address this issue, JEP 519 was introduced in Java 25 (Java 17) to provide a way for applications to opt-in to using compact object headers even when running on older versions of Java.
+(Note: The translation may not be perfect as it is a proper noun and specific term, but this is the closest Korean translation for "Biome Releases v2.0 Beta".)
+주소: https://www.infoq.com/news/2025/06/Biome-Releases-v2-Beta/
+설명: Biome, 모든 것을 포함한 JavaScript 도구체인, v2.0 Beta를 발표했습니다. Biome 2.0 Beta는 ESLint와 Prettier에 가까워지게 되는 몇 가지 새로운 기능을 소개합니다. 이러한 기능은 사용자 정의 lint 규칙을 작성하기 위해 플러그인을 도입하고, 기술에 따라 그룹화되는 도메인을 추가하여 개선된 정렬 능력이 있습니다.
+#Biome #JavaScript #ESLint #Prettier
 
-By enabling this feature, applications can take advantage of the performance improvements brought by compact object headers while still being able to run on older JVMs that do not support them. This is achieved by including a special flag in the class file, indicating that the class uses compact object headers.
-
-To enable this feature, you need to set the `-XX:+UseCompactStrings` flag when running your application. This flag instructs the JVM to use compact object headers for string objects as well, which can further improve performance in certain scenarios.
-
-Note that enabling this feature may not be compatible with all existing codebases, so it is recommended to thoroughly test your application before deploying it in a production environment.
-주소: https://www.infoq.com/news/2025/06/java-25-compact-object-headers/
-설명: Java 25는 Compact Object Headers(JEP 519)를 소개합니다. 이것은 작은 객체를 가진 애플리케이션에서 CPU 사용량을 최대 30% 감소시키고 메모리 사용량을 줄여줍니다. 이 사용자 친화적인 기능은 객체 헤더를 8바이트로 압축하며, JVM 플래그만 활성화하면 됩니다. Amazon에 의해 광범위하게 검증되어 성능을 향상시키고 GC 压力를 줄이며, 현대적인 클라우드 배포에 최적화된 기능입니다.
-#Java25 #CompactObjectHeaders #성능향상 #GC압력감소
-
-Translate my sentence into Korean: Java 25 introduces Compact Object Headers (JEP 519), delivering up to 30% CPU savings and reduced memory usage for applications with small objects. This user-friendly feature compresses object headers from 12 bytes to 8, requiring only a JVM flag to activate. Extensively validated by Amazon, it enhances performance, reduces GC pressure, and is ideal for modern cloud deployments.
-and Provide - #hashtags. Add 3 hashtags related to the translated content.
+#hashtags: #Biome, #JavaScript, #ESLint, #Prettier
 
 12 번째 검색 내용
-제목: Svelte, a popular JavaScript framework for building modern web applications, has recently released a new feature called "Attachments". This feature allows developers to enhance the Document Object Model (DOM) with interactive and reactive features. 
+제목: 자바 2.5에서 JEP 519를 통해 컴팩트 객체 헤더 통합
 
-Attachments provide a way to attach behavior to specific elements in the DOM, making it easier to create complex user interfaces and interactions without having to write custom JavaScript code. With Attachments, developers can easily add event listeners, animations, and other interactive features to their Svelte components.
+(Note: The translation may not be perfect, as the original sentence seems to contain some abbreviations or technical terms that might not have direct translations in Korean. However, I tried my best to provide an accurate translation.)
+주소: https://www.infoq.com/news/2025/06/java-25-compact-object-headers/
+설명: Java 25는 Compact Object Headers(JEP 519)를 도입하여, 작은 객체를 처리하는 애플리케이션에서 CPU 사용량을 최대 30% 감소시키고 메모리 사용량을 줄여줍니다. 이 사용자 친화적인 기능은 객체 헤더를 8바이트로 압축하며, JVM 플래그만 활성화하면 됩니다. Amazon에 광범위하게 검증되어 성능을 향상시키고 GC 부담을 줄이며, 현대적인 클라우드 배포에 적합합니다.
+#Java25 #CompactObjectHeaders #성능향상 #GC부담감소
 
-The new feature is designed to be lightweight and easy to use, with a simple API that allows developers to quickly attach behavior to DOM elements. It also includes built-in support for common interactions such as drag and drop, hover effects, and click events.
-
-Overall, Attachments is a powerful addition to the Svelte framework that makes it even easier for developers to create engaging and interactive web applications.
-주소: https://www.infoq.com/news/2025/06/svelte-releases-attachments/
-설명: AI : 최신 버전의 Svelte에는 DOM을 상호 작용과 반응 기능으로 향상시키는 새로운 기능인 Attachments가 포함되어 있습니다. Svelte Attachments는 Svelte Actions를 대체합니다.
-#Svelte #DOM #상호작용 #반응기능
+#hashtags: #Java #CloudDeployment #PerformanceImprovement
 
 13 번째 검색 내용
-제목: The AI can't find any information about "DevSummit Boston" or "Humans in the Loop: Engineering Leadership in a Chaotic Industry". Can you please provide more context or details about these topics?
-주소: https://www.infoq.com/news/2025/06/infoq-dev-summit-aihype/
-설명: At the InfoQ Dev Summit, Google’s Engineering Director Michelle Brush addressed software leaders, emphasizing the evolving landscape of software engineering amidst rising automation. She championed a shift toward higher-level cognitive skills, systems thinking, and foundational knowledge, urging engineers to embrace complexity for enhanced resilience and decision-making in their work.
-and Provide - #hashtags. Add 3 hashtags related to the translated content.
+제목: 스웨이트 릴리즈는 DOM을 상호작용과 반응적 기능을 향상시키기 위해 첨부 파일을 발표합니다.
+주소: https://www.infoq.com/news/2025/06/svelte-releases-attachments/
+설명: AI : 최신 버전의 Svelte에는 DOM을 상호 작용과 반응적인 기능으로 향상시키는 새로운 기능, Attachments가 추가되었습니다. Svelte Attachments는 Svelte Actions를 대체합니다.
+#Svelte #DOM #상호작용 #반응적 #최신버전
 
-AI : 인포큐 개발 슬롯에서 Google의 엔지니어링 대표 미셨리 브러시는 소프트웨어 리더들에게 자동화 증가로 인한 소프트웨어 공학 환경의 변화를 강조하였습니다. 그녀는 고급 사고 능력, 시스템 사고와 기본 지식을 중심으로 이동하는 것을 촉진하며, 엔지니어들은 복잡성을 인정하여 작업의 강화 및 결정 기능을 위해 복잡성을 인정하고 받아들이라고 권장했습니다.
-#인포큐 #소프트웨어공학 #자동화 #엔지니어링
-
-#hashtags : #소프트웨어개발 #인공지능 #기업전략
-
-[/INST]
+Hashtags: #Svelte, #DOM, #Interactivity, #Reactivity, #LatestVersion
 
 14 번째 검색 내용
-제목: The GitHub CLI has recently enhanced its support for triangular workflows. This means that you can now use the tool to manage your code in a more efficient and streamlined way. With this update, you can easily create, review, and merge pull requests directly from the command line, without having to switch between different tools or interfaces.
+제목: [INST] 델비슨 보스턴: 혼란의 산업에서 인간을 포함하는 엔지니어링 리더십
+[/INST]
+주소: https://www.infoq.com/news/2025/06/infoq-dev-summit-aihype/
+설명: At the InfoQ Dev Summit, Google’s Engineering Director Michelle Brush addressed software leaders, emphasizing the evolving landscape of software engineering amidst rising automation. She championed a shift toward higher-level cognitive skills, systems thinking, and foundational knowledge, urging engineers to embrace complexity for enhanced resilience and decision-making in their work.
+                     #InfoQDevSummit #소프트웨어엔지니어링 #자동화 #복잡성
 
-To get started with triangular workflows using GitHub CLI, you need to have the tool installed on your machine. You can install it by following the instructions on the official GitHub CLI website. Once installed, you can use the following commands to create a new pull request:
+Add 3 hashtags related to the translated content: #InfoQDevSummit, #소프트웨어엔지니어링, #자동화
 
-```
-gh pr create -b feature/my-new-feature -L 42,45 -R "Add support for triangular workflows"
-```
+15 번째 검색 내용
+제목: [INST] 이 문장을 한국어로 번역하십시오:
 
-This command creates a new pull request with the title "Add support for triangular workflows", based on the branch `feature/my-new-feature`. The `-L 42,45` option specifies that lines 42 and 45 in the file should be changed. You can also use the `-A` option to specify the author of the pull request, or the `-R` option to set the reviewers for the pull request.
-
-Once you have created a pull request, you can use the following commands to manage it:
-
-```
-gh pr view
-gh pr checkout <pr number>
-gh pr merge <pr number>
-```
-
-The `gh pr view` command displays information about the pull request, including its status and any comments or reviews. The `gh pr checkout` command checks out the branch associated with the pull request, so you can make changes directly in your local environment. Finally, the `gh pr merge` command merges the pull request into the target branch.
-
-Overall, these updates to GitHub CLI make it easier than ever to manage your code using triangular workflows. By streamlining the process of creating, reviewing, and merging pull requests, you can save time and improve collaboration with your team.
+                            깃허브 CLI 삼각형 워크플로우 지원 향상
+                         [/INST]
 주소: https://www.infoq.com/news/2025/06/GitHub-CLI-Triangular-Workflows/
-설명: Korean Translation: 2025년 4월, GitHub는 Command Line Interface(CLI)의 업데이트를 발표했습니다. 이 업데이트에서는 삼각형 워크플로우에 대한 향상된 지원을 도입하여, 오픈소스 기여자들이 포크 리포지토리를 작업하는 일반적인 패턴에서 사용되고 있습니다.
+설명: 인앱 : 4월 2025년, GitHub는 Command Line Interface(CLI)의 업데이트를 발표하였습니다. 이 업데이트에서는 오픈소스 기여자들이 포크된 저장소를 작업하는 일반적인 패턴인 삼각형 워크플로우에 대한 향상된 지원을 도입했습니다.
 #GitHub #CLI #오픈소스 #워크플로우
 
 Hashtags: #GitHub, #CLI, #오픈소스, #워크플로우
-
-15 번째 검색 내용
-제목: Docs-as-Code is a methodology that treats documentation as code, allowing for version control, collaboration, and automation. It has been adopted by many companies to improve the quality of their documentation. In this case study, we will explore how Pinterest implemented Docs-as-Code and the benefits they gained from it.
-
-Pinterest is a visual discovery engine that allows users to find inspiration for projects, recipes, home decor, and more. As their platform grew in popularity, so did the need for comprehensive and up-to-date documentation. To address this challenge, Pinterest's engineering team decided to adopt Docs-as-Code.
-
-The first step was to choose a tool that would support their new approach. They selected GitHub Pages, which allowed them to host their documentation on the same platform as their code repository. This integration made it easier for developers to contribute to both the code and documentation simultaneously.
-
-Next, they established a clear structure for their documentation. They organized it into modules based on product areas, such as API, frontend, and backend. Each module had its own directory in the GitHub repository, making it easy to find and update specific sections.
-
-To ensure consistency across the documentation, Pinterest implemented a set of guidelines and best practices. These included formatting conventions, writing style, and examples for each product area. They also created templates for common documentation types, such as API references and user guides, which made it easier for contributors to follow the same format.
-
-With Docs-as-Code in place, Pinterest's engineering team could now collaborate on documentation more efficiently. Developers could make changes directly in the GitHub repository, and their changes would be automatically built and published using a continuous integration (CI) system. This process ensured that the documentation was always up-to-date with the latest code changes.
-
-The benefits of Docs-as-Code were immediately apparent. The quality of Pinterest's documentation improved significantly, as developers could now easily contribute to it without disrupting the workflow. Additionally, the automation provided by the CI system ensured that the documentation was always in sync with the codebase.
-
-In conclusion, adopting Docs-as-Code has helped Pinterest improve the quality of their documentation, making it more accessible and up-to-date for both internal teams and external users. By treating documentation as code, they were able to streamline collaboration, maintain consistency, and ensure that their documentation remained an accurate reflection of their ever-evolving platform.
-주소: https://www.infoq.com/news/2025/06/docs-as-code-at-pinterest/
-설명: Korean Translation: 최근 몇 년간 Pinterest 엔지니어들은 기관 전체에서 Docs-as-Code를 적용하려고 노력했습니다. 코드와 문서를 동일한 도구와 프로세스로 사용하면, 총 문서화 품질이 향상되고 팀의 만족도가 높아집니다. 이 변화는 Pinterest의 문서화 문화를 변화시키며, 협력을 장려하고, 품질 제어, 발견성, 등을 개선합니다.
-#Docs-as-Code #문서화 #협력 #품질_개선
-
-Hashtags: #Docs-as-Code #문서화 #협력 #품질_개선
 
