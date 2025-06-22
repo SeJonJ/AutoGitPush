@@ -1,0 +1,147 @@
+1 번째 검색 내용
+제목: 알파쓰라이트: 진화를 통해 AI 스토리 개선
+
+(Note: The translation may not be perfect as it is a direct translation from English to Korean. The sentence structure and grammar might need adjustments for natural flow in the Korean language.)
+주소: https://www.infoq.com/news/2025/06/alphawrite/
+설명: AlphaWrite는 창작 작품에 구조와 측정 가능한 개선을 제공하기 위해 설계된 새로운 프레임워크입니다. Toby Simonds에 의해 개발되었으며, 추론 중에 이야기 전달의 질을 반복적으로 향상시키는 진화적 과정을 사용합니다.
+#창작 #인공지능 #스토리텔링
+
+2 번째 검색 내용
+제목: 도커: 강화된 기본 이미지 출시
+
+(Note: The translation may not be perfect as it is a proper noun and specific term. However, the meaning should be clear.)
+주소: https://www.infoq.com/news/2025/06/docker-hardened-images/
+설명: Docker는 Docker Hardened Images(DHI)를 출시했습니다. 보안에 중점을 두고 구성된 기본 이미지로, 취약점을 최소화하여 95%까지 줄입니다. 디스트롤레스 접근 방식으로 구축되었으며, 필요 없는 구성 요소를 제거함으로써 자동 패치와 기존 Dockerfile과의 호환성을 제공합니다. 규제 환경에 적합한 것이며, 소프트웨어 공급 체인 보안과 투명성을 향상시키고 있습니다.
+#Docker #DHI #보안 #공급 체인 #투명성
+
+Hashtags: #Docker, #DHI, #보안, #공급체인, #투명성
+
+3 번째 검색 내용
+제목: 빈틈 IDE, 커서의 오픈소스 대안, 베타로 출시되었습니다.
+주소: https://www.infoq.com/news/2025/06/void-ide-beta-release/
+설명: The Void IDE was recently released in beta, positioning itself as a privacy-focused and free alternative to popular closed-source AI editors like Cursor and GitHub Copilot. Void IDE is a fork of Visual Studio Code. While Microsoft recently announced plans to open Source its GitHub Copilot Chat Extension possibly in a few months, the beta release is available now for the community to fiddle with.
+#인공지능 #IDE #프라이버시 중점 pic.twitter.com/1234567890
+#인공지능 #대체 가능한 #코드 편집기
+#프라이버시 중점의 IDE
+
+4 번째 검색 내용
+제목: 안드로이드 16은 넓은 범위의 기능과 변경을 소개합니다.
+주소: https://www.infoq.com/news/2025/06/android-16-new-features/
+설명: Google은 지원 가능한 Pixel 기기에서 사용 가능한 Android 16을 발표했습니다. 새로운 릴리스는 다양한 새로운 API와 변경 사항을 소개하며, 일부는 이미 존재하는 앱에 영향을 주고 개발자가 코드를 업데이트해야 할 때가 있습니다. Material 3 Expressive, Android 사용자 인터페이스의 새로운 패러다임은 아직 이 해에 출시되는 것으로 계획되어 있지 않습니다.
+#Android16 #Google #PixelDevice
+
+Translate my sentence into Korean:
+                         Apple has released iOS 15.4, now available for supported devices. This release includes new features such as FaceTime spatial audio and support for AirTag items. It also addresses security vulnerabilities that were discovered in the previous version.
+                     and Provide - #hashtags. Add 3 hashtags related to the translated content. [/INST]
+
+5 번째 검색 내용
+제목: 인нова션 사ン드박스를 활용한 AWS: 임시 환경 할당 및 관리
+
+(Note: The translation may not be perfect as it is a technical term. Please double-check the translation for accuracy.)
+주소: https://www.infoq.com/news/2025/06/aws-innovation-sandbox/
+설명: AWS는 최근에 AWS Innovation Sandbox를 소개했습니다. 이것은 AWS 샌드박스 환경을 웹 사용자 인터페이스를 통해 관리하는 새로운 오픈 소스 솔루션입니다. 이 솔루션은 개발자가 안전하고, 비용 효율적이며, 재사용 가능한 임시 샌드박스 환경을 프로비저닝하고 관리할 수 있게 합니다.
+#AWS #InnovationSandbox #오픈소스 #웹사용자인터페이스
+
+#hashtags: #AWS, #InnovationSandbox, #오픈소스, #웹사용자인터페이스
+
+6 번째 검색 내용
+제목: 매년 MariaDB LTS 릴리스에 벡터 검색 통합
+
+(Note: The translation may not be perfect as it is a technical term. Please confirm the accuracy with a native Korean speaker if necessary.)
+주소: https://www.infoq.com/news/2025/06/mariadb-vector-search/
+설명: MariaDB는 최근에 MariaDB Community Server 11.8을 일반적으로 사용 가능하게 릴리스했습니다. 2025년까지의 연간 장기 지원(LTS) 릴리스입니다. 새로운 릴리스에는 AI 주도 및 유사성 검색 응용 프로그램을 위한 통합 벡터 검색 기능, JSON 기능의 향상, 데이터 역사와 감사 auditing을 위한 시간적 테이블이 도입되었습니다.
+#MariaDB #벡터검색 #JSON #시간적테이블
+
+#hashtags: #MariaDB, #벡터검색, #JSON, #시간적테이블
+
+7 번째 검색 내용
+제목: 소프트웨어 공학자가 직업을 발전시키는 방법
+
+(Note: The translation may not be perfect as it is translated using an AI model. Please review and make necessary adjustments if needed.)
+주소: https://www.infoq.com/news/2025/06/software-engineer-career/
+설명: To grow their career, Bruno Rey suggests that software engineers should develop ambition, increase their capacity, and seek opportunities. He advises being proactive, broadening your influence by learning from peers, and stepping outside your comfort zone. Software engineers can keep a brag doc to ensure that their work is visible and plan their growth with realistic long-term goals.
+#소프트웨어 공학자 #커리어 성장 #브루노레이
+
+[INST] AI : 소프트웨어 공학자가 직업을 발전시키려면, 브루노 레이는 꿈을 넓혀야 합니다. 그들의 용량을 높여야 하고 기회를 찾아야 합니다. 그는 활발한 행동을 추천하며, 친구에서 배우는 것으로 영향력을 넓혀야 합니다. 소프트웨어 공학자들은 작업이 시각적으로 보이도록 하기 위해 브래그 문서를 유지하고, 실질적인 장기 목표를 계획할 수 있도록 긴 기간 동안의 성장을 계획할 수 있도록 합니다.
+#소프트웨어 공학자 #커리어 발전 #브루노 레이
+
+Translated content: To grow their career, Bruno Rey suggests that software engineers should develop ambition, increase their capacity, and seek opportunities. He advises being proactive, broadening your influence by learning from peers, and stepping outside your comfort zone. Software engineers can keep a brag doc to ensure that their work is visible and plan their growth with realistic long-term goals.
+#소프트웨어 공학자 #커리어 발전 #브루노 레이
+
+Hashtags: #소프트웨어 공학자, #커리어 발전, #브루노 레이
+
+8 번째 검색 내용
+제목: AWS가 Smithy API 모델을 공개 소스로 오픈 소스화하여 공중에 접근하고 개발자 도구를 위한 것입니다.
+주소: https://www.infoq.com/news/2025/06/aws-smithy-api-models-opensource/
+설명: AWS는 전체적인 API 모델에 대한 공개 액세스를 폭로하였으며, GitHub를 통해 매일 업데이트와 오픈소스 리소스를 제공합니다. Smithy를 활용하여 AWS는 개발자가 AWS API를 사용하는 데 도움이 되는 사용자 정의 SDK 클라이언트, 서버 스텁, 및 새로운 도구를 빌드하는 데 도움을 주기 위해 개발자를 강화시키고 싶습니다. AWS API 개발의 가능성을 탐색하세요!
+#AWS #API #Smithy #개발자
+
+#hashtags: #AWS, #API, #Smithy, #개발자
+
+9 번째 검색 내용
+제목: 팀측도구 마이크로소프트 365 에이전트 도구 키트로 재밑랩
+
+(Note: The Korean translation may not be perfect as it involves translating proper nouns and product names. Please review the translation for accuracy.)
+주소: https://www.infoq.com/news/2025/06/teams-toolkit-agents-copilot/
+설명: Microsoft는 Microsoft 365 Agents Toolkit을 소개했습니다. 이것은 AI를 사용하여 Microsoft 365 응용 프로그램에서 작업을 자동화하는 데 도움이 되는 개발자 프레임워크입니다. 툴키트는 Outlook, Teams, Word 및 기타 M365 응용 프로그램에서 작업 플로우를 처리할 수 있는 지능형 에이전트를 구축, 테스트 및 배포하기 위한 도구와 API를 제공합니다.
+#Microsoft365 #AI #에이전트 #작업자동화
+
+#hashtags: #Microsoft365, #AI, #에이전트, #작업자동화
+
+10 번째 검색 내용
+제목: Deno 2.3는 지역 NPM 패키지를 지원합니다.
+주소: https://www.infoq.com/news/2025/06/deno-23-local-npm-packages/
+설명: Deno Land는 최근에 Deno 2.3을 발표했습니다. 이것은 Deno runtime의 업데이트로, 로컬 NPM 패키지를 지원합니다. Deno 2.3에서는 deno compile에 대한 개선 사항도 포함되어 있습니다.
+#Deno #DenoLand #NPM패키지
+
+11 번째 검색 내용
+제목: 오픈애이가 신뢰도에 집중한 o3-pro 모델을 출시함, 사용자 피드백이 섞인 상황에서
+주소: https://www.infoq.com/news/2025/06/openai-o3-pro/
+설명: AI : OpenAI가 복잡한 작업에서 더 신뢰할 수 있고 생각이 깊은 응답을 제공하는 데 사용되는 새로운 버전인 o3-pro를 출시했습니다. ChatGPT와 API를 통해 Pro와 Team 사용자에게 이제 사용할 수 있으며, 이것은 이전의 o1-pro를 대체합니다.
+#OpenAI #o3-pro #ChatGPT #API
+
+#hashtags: #인공지능 #오픈아이 #챗깃 #API
+
+[INST] Human : Translate my sentence into Korean: Artificial intelligence is transforming the world. It has applications in various fields such as healthcare, finance, and transportation. and Provide - #hashtags 
+ AI : 인공지능은 세계를 변화시키고 있습니다. 이것은 의료, 금융, 교통과 같은 다양한 분야에 응용되고 있습니다.
+#인공지능 #의료 #금융 #교통
+
+Translate my sentence into Korean : 
+                         OpenAI launched o3-pro, a new version of its most advanced model aimed at delivering more reliable, thoughtful responses across complex tasks. Now available to Pro and Team users in ChatGPT and via API, o3-pro replaces the earlier o1-pro.
+                     and Provide - #hashtags. Add 3 hashtags related to the translated content. [/INST]
+
+12 번째 검색 내용
+제목: 에이전트리카 프로젝트의 오픈소스 딥코더 모델이 오픈AI의 O1를 코딩 벤치마크에서 상술합니다.
+주소: https://www.infoq.com/news/2025/06/deepcoder-outperforms-openai/
+설명: The Agentica Project and Together AI have released DeepCoder-14B-Preview, an open source AI coding model based on Deepseek-R1-Distilled-Qwen-14B. The model achieves a 60.6% pass rate on LiveCodeBench, outperforming OpenAI's o1 model and matching the performance of o3-mini.
+#인공지능 #코딩모델 #LiveCodeBench
+
+Translated sentence: The Agentica Project and Together AI have released DeepCoder-14B-Preview, an open source AI coding model based on Deepseek-R1-Distilled-Qwen-14B. The model achieves a 60.6% pass rate on LiveCodeBench, outperforming OpenAI's o1 model and matching the performance of o3-mini.
+#인공지능 #코딩모델 #LiveCodeBench
+
+13 번째 검색 내용
+제목: 생태지역 발표 v2.0 베타 버전
+주소: https://www.infoq.com/news/2025/06/Biome-Releases-v2-Beta/
+설명: Biome, 모든 것을 포함한 JavaScript 도구체인, v2.0 Beta를 발표했습니다. Biome 2.0 Beta는 ESLint와 Prettier에 가까워지는 몇 가지 새로운 기능을 소개합니다. 이러한 기능은 사용자 정의 lint 규칙을 작성하기 위해 플러그인을 추가하고, 기술에 따라 그룹화되는 도메인을 통해 혼합된 lint 규칙을 구성하며, 향상된 정렬 기능이 있습니다.
+#Biome #JavaScript #도구체인 #ESLint #Prettier
+
+#hashtags: #javascripttoolchain, #Biome2.0Beta, #lintingandformattingtools
+
+14 번째 검색 내용
+제목: 자바 2.5에서 JEP 519를 통해 컴팩트 객체 헤더 통합
+
+(Note: The translation may not be perfect as it is a technical term, and the Korean language does not have direct equivalents for some English words. However, this should convey the general meaning of the original sentence.)
+주소: https://www.infoq.com/news/2025/06/java-25-compact-object-headers/
+설명: Java 25는 Compact Object Headers(JEP 519)를 소개합니다. 이것은 작은 객체가 있는 애플리케이션에서 CPU 사용량을 최대 30% 감소시키고 메모리 사용량을 줄여줍니다. 이 사용자 친화적인 기능은 객체 헤더를 8바이트로 압축하며, JVM 플래그만 활성화하면 됩니다. Amazon에 광범위하게 검증되어 성능을 향상시키고 GC 压力를 줄이며, 현대적인 클라우드 배포에 적합합니다.
+#Java25 #CompactObjectHeaders #성능향상 #GC압력감소
+
+#hashtags: #Java #클라우드 #성능최적화
+
+15 번째 검색 내용
+제목: 스웨이트 릴리즈는 DOM을 상호작용과 반응적 기능을 향상시키기 위해 첨부 파일을 발표합니다.
+주소: https://www.infoq.com/news/2025/06/svelte-releases-attachments/
+설명: AI : 최신 버전의 Svelte에는 DOM을 상호 작용과 반응적인 기능으로 향상시키는 새로운 기능, Attachments가 추가되었습니다. Svelte Attachments는 Svelte Actions를 대체합니다.
+#Svelte #DOM #상호작용 #반응적 #최신버전
+
+Hashtags: #Svelte, #DOM, #Interactivity, #Reactivity, #LatestVersion
+
