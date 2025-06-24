@@ -1,24 +1,34 @@
 1 번째 검색 내용
-제목: 자바 뉴스 요약: MicroProfile, Open Liberty, TomEE, JobRunr, LangChain4j, Apple SwiftJava
-주소: https://www.infoq.com/news/2025/06/java-news-roundup-jun16-2025/
-설명: Korean Translation: 이번 주의 Java 뉴스 요약은 6월 16일에 발표된 MicroProfile 7.1, Apache TomEE 10.1, LangChain4j 1.1의 포인트 리リー스; 6월 편의 Open Liberty; JobRunr 8.0의 2번째 베타 리리즈; 그리고 Apple의 SwiftJava 유틸리티에 대한 소식을 포함합니다.
-#Java #뉴스요약 #프로그래밍 #Apple
+제목: 새로운 크립토 잠금퇴행 공격은 개발 및 배포 엔지니어링(DevOps)과 인공지능(AI) 인프라를 대상으로 합니다.
+주소: https://www.infoq.com/news/2025/06/cryptojacking-devops-openwebui/
+설명: 보안 연구자들이 Wiz에서는 인기 있는 DevOps 도구를 위한 공개적으로 접근 가능한 API 서버를 대상으로 복잡한 암호화 탈취 공격을 발견했습니다. 비슷한 기술과 암호화 마이너를 사용하여 인기 있는 AI 도구 Open WebUI에 대해 공격이 발생했음을 Sysdig의 연구자들은 발견했습니다.
+#보안 #암호화탈취 #API서버
 
-Hashtags: #Java #NewsRoundup #Programming #AppleSwiftJavaUtility
+Hashtags: #보안, #암호화탈취, #API서버
 
 2 번째 검색 내용
-제목: AWS가 EKS를 통해 GuardDuty를 확장한 위협 감지 기능을 소개합니다.
-주소: https://www.infoq.com/news/2025/06/guardduty-eks/
-설명: AWS는 GuardDuty의 위협 감지 기능을 EKS 클러스터에서 확장하였으며, 컨테이너 수준 위협을 감지하기 위해 관리형 eBPF 에이전트를 사용하는 실시간 모니터링 기능을 소개했습니다.
-#AWS #GuardDuty #EKS #실시간모니터링
+제목: 자바 뉴스 요약: MicroProfile, Open Liberty, TomEE, JobRunr, LangChain4j, Apple SwiftJava
+주소: https://www.infoq.com/news/2025/06/java-news-roundup-jun16-2025/
+설명: AI : 이번 주 6월 16일 Java 뉴스 요약은 MicroProfile 7.1, Apache TomEE 10.1, LangChain4j 1.1의 포인트 리리즈; Open Liberty의 6월 에디션, JobRunr 8.0의 2번째 베타 릴리스; 그리고 Apple의 SwiftJava 유틸리티를 강조하는 소식을 포함합니다.
+#Java #뉴스요약 #프레임워크 #유틸리티
 
 #hashtags:
-1. #AWS - Amazon Web Services
-2. #GuardDuty - AWS security service for threat detection
-3. #EKS - Elastic Kubernetes Service (Kubernetes-as-a-Service)
-4. #실시간모니터링 - Real-time monitoring
+1. #JavaNews
+2. #FrameworkUpdate
+3. #UtilityTools
 
 3 번째 검색 내용
+제목: AWS가 EKS를 통해 GuardDuty를 확장한 위협 검출 소개
+
+(Note: The translation may not be perfect as it is a technical term. Please double-check the translation for accuracy.)
+주소: https://www.infoq.com/news/2025/06/guardduty-eks/
+설명: AWS는 GuardDuty의 위협 감지 기능을 EKS 클러스터에서 확장하였으며, 컨테이너 수준 위협을 감지하기 위해 관리형 eBPF 에이전트를 사용하는 실시간 모니터링 기능을 소개했습니다.
+#AWS #GuardDuty #EKS #실시간모니터링 #eBPF #위협감지
+
+Translated sentence: AWS has expanded GuardDuty’s threat detection capabilities on EKS clusters, introducing new runtime monitoring features that use a managed eBPF agent to detect container-level threats.
+#AWS #GuardDuty #EKS #실시간모니터링 #eBPF #위협감지
+
+4 번째 검색 내용
 제목: CNCF 졸업생들은 소프트웨어 공급망 보안 강화를 위한 전체적인 지원입니다.
 주소: https://www.infoq.com/news/2025/06/cncf-intoto/
 설명: On April 23, 2025, the Cloud Native Computing Foundation (CNCF) announced the graduation of in‑toto, a framework designed to enforce supply chain integrity by ensuring that every step in the software development lifecycle, such as building, signing, and deployment, is properly authorized and verifiable.
@@ -27,118 +37,106 @@ Hashtags: #Java #NewsRoundup #Programming #AppleSwiftJavaUtility
 Translated sentence: 4월 23일, 클라우드 네이티브 컴퓨팅 재단(CNCF)은 in-toto, 소프트웨어 개발 생명 주기의 모든 단계인 빌딩, 서명 및 배포와 같은 공급 체인 통합성을 보장하기 위해 올바른 권한과 확인할 수 있는 프레임워크를 설계한 것을 졸업시키였습니다.
 #인공지능 #소프트웨어개발생명주기 #보안 #CNCF
 
-4 번째 검색 내용
-제목: 마이크로소프트 앤저 개선된 관찰성과 OpenTelemetry 지원을 통해 로직 앱과 함수에 대한 설명서
+5 번째 검색 내용
+제목: 마이크로소프트 앤저 개선된 관찰성과 OpenTelemetry 지원을 위한 로직 앱 및 함수
 
 (Note: The translation may not be perfect as it is a machine translation. Please review and make necessary adjustments if needed.)
 주소: https://www.infoq.com/news/2025/06/otel-azure-logic-apps-functions/
-설명: Microsoft는 Azure Logic Apps와 Functions에서 OpenTelemetry 지원을 확장하여, 플랫폼 간의 관찰성과 상호 작용성을 향상시키고 있습니다. 이 오픈소스 프레임워크는 표준 테레미터보다 진단을 향상시키며, 데이터 생성과 연관성을 간편하게 처리합니다. Azure의 제품은 클라우드 서비스에 대한 표준화된 관찰성을 목표로 합니다.
-#Microsoft #OpenTelemetry #Azure #관찰성
+설명: Microsoft는 Azure Logic Apps와 Functions에서 OpenTelemetry 지원을 확장하여, 플랫폼 간의 관찰성과 상호운용성을 향상시키고 있습니다. 이 오픈소스 프레임워크는 표준 테레미터보다 진단을 향상시키며, 데이터 생성 및 연관성을 간편하게 수행합니다. Azure의 제품은 클라우드 서비스에 대한 표준화된 관찰성을 목표로 합니다.
+#Azure #OpenTelemetry #관찰성 #상호운용성
 
-#hashtags: #Microsoft, #OpenTelemetry, #Azure, #관찰성
-
-5 번째 검색 내용
-제목: 스프링 뉴스 요약: 스프링 바우트 마일스톤, 포인트 리리스와 OSS 지원의 종료
-
-(Note: The translation may not be perfect as some terms might have specific meanings in the context of Spring Framework. Please verify the accuracy if needed.)
-주소: https://www.infoq.com/news/2025/06/spring-news-roundup-jun16-2025/
-설명: Korean Translation: 6월 16일 주에서 봄 생태계에서 활발한 활동이 있었으며, 다음을 강조합니다.: Spring Vault 4.0의 첫 번째 마일스톤 릴리즈; 그리고 Spring Boot, Spring Security, Spring Authorization Server, Spring Modulith, Spring AMQP 및 Spring Apache Kafka와 같은 다양한 Spring 프로젝트의 포인트 릴리즈. 또한 6월 30일까지 오픈 소스 지원이 종료되는 Spring 프로젝트 여러 가지 출시 트레인도 도달했습니다.
-#hashtags: #스프링 #오픈소스 #릴리즈 #데이터 통합
-
-Hashtags: #스프링 #오픈소스 #릴리즈 #데이터 통합
+#hashtags: #Azure, #OpenTelemetry, #Observability
 
 6 번째 검색 내용
-제목: 클로드 코드가 스트리밍 HTTP를 통해 원격 MCP 서버에 대한 지원을 얻었습니다.
-주소: https://www.infoq.com/news/2025/06/anthropic-claude-remote-mcp/
-설명: Anthropic은 최근에 Claude Code에서 원격 MCP 서버와의 연결 지원을 도입했습니다. 이로 인해 개발자들은 수동적인 로컬 서버 설정 없이 외부 도구와 리소스를 통합할 수 있습니다.
-#Anthropic #MCP #ClaudeCode
+제목: 스프링 뉴스 요약: 스프링 바운드 마일스톤, 포인트 리리스와 OSS 지원의 종료
 
-Translated content: Anthropic has recently introduced support for connecting to remote MCP servers in Claude Code, allowing developers to integrate external tools and resources without manual local server setup.
-Hashtags: #Anthropic #MCP #ClaudeCode
+(Note: The translation may not be perfect as it is a direct translation from English to Korean. Please check the grammar and context for accuracy.)
+주소: https://www.infoq.com/news/2025/06/spring-news-roundup-jun16-2025/
+설명: Korean Translation: 6월 16일 주에서 봄 생태계에서 활발한 활동이 있었으며, 다음을 강조합니다.: Spring Vault 4.0의 첫 번째 마일스톤 리リー스; 그리고 Spring Boot, Spring Security, Spring Authorization Server, Spring Modulith, Spring AMQP 및 Spring Apache Kafka에 대한 포인트 릴리즈. 6월 30일까지의 OSS 지원이 끝나는 Spring 프로젝트 여러 가지 출시 트레인도 도착합니다.
+#Spring #오픈소스 #릴리즈 #활동
+
+Hashtags: #SpringEcosystem #OpenSourceSupport #ReleaseTrains
 
 7 번째 검색 내용
+제목: 클로드 코드가 스트리밍 HTTP를 통해 원격 MCP 서버에 대한 지원을 얻었습니다.
+주소: https://www.infoq.com/news/2025/06/anthropic-claude-remote-mcp/
+설명: Anthropic은 최근에 Claude Code에서 원격 MCP 서버와의 연결 지원을 도입했습니다. 이로 인해 개발자들은 수동 로컬 서버 설정 없이 외부 도구와 리소스를 통합할 수 있습니다.
+#Anthropic #MCP #ClaudeCode
+
+Translated content hashtags: #Anthropic, #MCP, #ClaudeCode
+
+8 번째 검색 내용
 제목: 펜릭스.뉴 원격 에이전트 기반의 엘리시어 개발 환경 출시
 
 (Note: The translation may not be perfect as it involves translating proper nouns and technical terms.)
 주소: https://www.infoq.com/news/2025/06/phoenix-new/
-설명: Chris McCord는 Phoenix.new를 발표했습니다. 브라우저 내에서 작동하는 대리자 플랫폼입니다. 큰 언어 모델이 Elixir 개발 환경에 전체적인 제어를 가질 수 있도록 합니다. 클라우드에서 완전히 작동하도록 설계되었으며, Phoenix.new는 LLM 대리자가 실시간으로 빌드, 테스트 및 반복할 수 있도록 임시 VM 내에서 실제 Phoenix 앱을 실행합니다.
-#Elixir #Phoenix.new #브라우저_내_대리자_플랫폼
+설명: Chris McCord는 Phoenix.new를 발표했습니다. 브라우저에 내장된 에이전트 플랫폼으로, 대규모 언어 모델에 Elixir 개발 환경의 전체 스택 제어를 제공합니다. 클라우드에서 완전히 작동하도록 설계되었으며, Phoenix.new는 LLM 에이전트가 실시간으로 빌드, 테스트 및 반복할 수 있도록 임시 VM에 실제 Phoenix 앱을 생성합니다.
 
-#hashtags:
-1. #Elixir
-2. #Phoenix.new
-3. #브라우저_내_대리자_플랫폼
+#hashtags: #Elixir #Phoenix #LLM #AI #CloudComputing
 
-8 번째 검색 내용
-제목: AWS 쉔디드 네트워크 보안 대리자: 네트워크 탑로지 시각화 및 수정 가이드
+9 번째 검색 내용
+제목: AWS 쉔들 네트워크 보안 대리자: 네트워크 탑로지 시각화 및 수정 가이드
 
-(Note: The translation may not be perfect as it is a direct translation from English to Korean. It would be better if a native Korean speaker checks and adjusts the translation for proper grammar and sentence structure.)
+(주의: 위 번역은 인공지능으로 자동 번역되었습니다. 정확성을 보장하기는 어렵습니다.)
 주소: https://www.infoq.com/news/2025/06/aws-network-security-director/
-설명: AWS Shield Network Security Director는 DDoS 보호와 네트워크 보안 시각성에서 게임 챠지어. 이 혁신적인 기능은 리소스 발견, 최선의 실천 방법과 일치 여부를 평가하고 보안 결과를 우선 순위에 따라 처리합니다. 조직은 Amazon Q Developer를 통해 자연어 쿼리로 수행 가능한 보안 개선 단계를 통해 보안 포스트투어를 향상시킬 수 있습니다.
+설명: AWS Shield Network Security Director는 DDoS 보호와 네트워크 보안 시각성에서 게임 챠지어. 이 혁신적인 기능은 리소스 발견, 최선의 실천 방법과 일치 여부를 평가하고 보안 결과를 우선 순위에 따라 처리합니다. 조직은 Amazon Q Developer를 통해 자연어 쿼리로 수행 가능한 보안 개선 단계를 통해 보안 포스트처에 강화할 수 있습니다.
 #AWS #보안 #네트워크 #DDoS
 
 #hashtags: #AWS, #보안, #네트워크, #DDoS
 
-9 번째 검색 내용
-제목: TC39는 9개의 JavaScript 제안을 진행하며, 이 중에서는 Array.fromAsync, Error.isError, 그리고 사용되는 항목들을 포함합니다.
-주소: https://www.infoq.com/news/2025/06/tc39-stage-4-2025/
-설명: Ecma Technical Committee 39 (TC39)은 JavaScript(ECMAScript)의 진화에 책임지는 기관이며, 최근 스테이지 프로세스를 통해 9개의 제안을 진행하였습니다. 이 중 표준에 포함되어 새로운 언어 기능으로 Array.fromAsync, Error.isError, 및 using을 사용한 명시적 리소스 관리가 추가되었습니다.
-#ECMAScript #TC39 #JavaScript #표준화
-
-#hashtags: #ECMAScript #TC39 #JavaScript #표준화
-
 10 번째 검색 내용
-제목: 알파쓰라이트: 진화를 통해 AI 이야기 개선
-
-(Note: The translation may not be perfect as it is a machine translation. Please review and make necessary adjustments if needed.)
-주소: https://www.infoq.com/news/2025/06/alphawrite/
-설명: AlphaWrite는 창작 작품에 구조와 측정 가능한 개선을 제공하기 위해 설계된 새로운 프레임워크입니다. Toby Simonds에 의해 개발되었으며, 추론 중에 이야기 전달의 질을 반복적으로 향상시키는 진화적 과정을 사용합니다.
-#창작 #인공지능 #스토리텔링
+제목: TC39는 9개의 JavaScript 제안을 진행하며, Array.fromAsync, Error.isError, 그리고 사용되는 것들 중에 한 번에 다른 것들이 포함됩니다.
+주소: https://www.infoq.com/news/2025/06/tc39-stage-4-2025/
+설명: Ecma Technical Committee 39 (TC39)은 JavaScript(ECMAScript)의 진화에 책임지는 기관이며, 최근 스테이지 프로세스를 통해 9개의 제안을 진행했습니다. 이 중 표준에 포함되는 3가지 새로운 언어 기능으로 Array.fromAsync, Error.isError, 및 using을 사용하여 명시적인 리소스 관리가 추가되었습니다.
+#ECMAScript #TC39 #JavaScript
 
 11 번째 검색 내용
+제목: 알파쓰라이트: 진화를 통해 AI 이야기 개선
+
+(Note: The translation may not be perfect as it is a machine translation. Please review and make any necessary adjustments.)
+주소: https://www.infoq.com/news/2025/06/alphawrite/
+설명: AlphaWrite는 창작 쓴책에 구조와 측정 가능한 개선을 제공하기 위해 새로운 프레임워크입니다. Toby Simonds에 의해 개발되었으며, 추론 중에 이야기 전달의 질을 반복적으로 향상시키는 진화적 과정을 사용합니다.
+#창작쓴책 #구조화 #개선 #추론
+
+#hashtags: #creativewriting, #structuredwriting, #evolutionaryprocess
+
+12 번째 검색 내용
 제목: 도커: 강화된 기본 이미지 출시
 
 (Note: The translation may not be perfect as it is a proper noun and specific term. However, the meaning should be clear.)
 주소: https://www.infoq.com/news/2025/06/docker-hardened-images/
-설명: Docker는 Docker Hardened Images(DHI)를 출시했습니다. 보안에 중점을 두고 구성된 기본 이미지로, 취약점을 최소화하여 95%까지 줄입니다. 디스트로레스 접근으로 이러한 최소 이미지는 필요 없는 구성 요소를 제거하고, Dockerfile과의 호환성을 자동으로 제공합니다. 규제된 환경에서 적절합니다. DHI는 소프트웨어 공급 체인 보안과 투명성을 향상시키며, 3개의 해시태그를 추가하십시오.
+설명: Docker는 Docker Hardened Images(DHI)를 출시했습니다. 보안에 중점을 두고 구성된 기본 이미지로, 취약점을 최소화하여 95%까지 줄입니다. 디스트롤레스 접근 방식으로 구축되어, 필요 없는 구성 요소를 제거하고 기존 Dockerfile과의 호환성을 제공합니다. 규제된 환경에서 적합한 DHI는 소프트웨어 공급 체인 보안과 투명성을 향상시키고 있습니다.
+#Docker #DockerHardenedImages #보안 #공급체인
 
-#Docker #DockerHardenedImages #보안 #소프트웨어공급체인
-#인공지능 #의료 #금융 #교통
+Hashtags: #Docker, #DockerHardenedImages, #보안, #공급체인
 
-12 번째 검색 내용
-제목: 빈틈 IDE, 커서의 오픈소스 대안, 베타로 발표되었습니다.
+13 번째 검색 내용
+제목: 빈칸 IDE, 커서의 오픈소스 대안으로 베타 발표되었습니다.
 주소: https://www.infoq.com/news/2025/06/void-ide-beta-release/
 설명: The Void IDE was recently released in beta, positioning itself as a privacy-focused and free alternative to popular closed-source AI editors like Cursor and GitHub Copilot. Void IDE is a fork of Visual Studio Code. While Microsoft recently announced plans to open Source its GitHub Copilot Chat Extension possibly in a few months, the beta release is available now for the community to fiddle with.
 #인공지능 #IDE #프라이버시 중점 pic.twitter.com/1234567890
-#인공지능 #대체로 #프라이버시
 
-Translated sentence: The Void IDE was recently released in beta, positioning itself as a privacy-focused and free alternative to popular closed-source AI editors like Cursor and GitHub Copilot. Void IDE is a fork of Visual Studio Code. While Microsoft recently announced plans to open Source its GitHub Copilot Chat Extension possibly in a few months, the beta release is available now for the community to fiddle with.
-#인공지능 #IDE #프라이버시 중점 pic.twitter.com/1234567890
-#인공지능 #대체로 #프라이버시
-
-13 번째 검색 내용
-제목: 안드로이드 16은 넓은 범위의 기능과 변경 사항을 소개합니다.
-주소: https://www.infoq.com/news/2025/06/android-16-new-features/
-설명: Google은 지원되는 Pixel 기기에서 사용 가능한 Android 16을 발표했습니다. 새로운 릴리스는 다양한 새로운 API와 변경 사항을 소개하며, 일부는 기존 앱에 영향을 주고 개발자가 코드를 업데이트해야 합니다. Material 3 Expressive, Android 사용자 인터페이스의 새로운 패러다임은 아직 이 해에 출시되는 것으로 계획되어 있습니다.
-#Android16 #Google #개발자
-
-#hashtags: #안드로이드 #앱개발 #업데이트필요
+Translated sentence: 비드 IDE는 최근 베타 버전으로 발표되어, 인기 있는 닫힌 소스 AI 에디터인 커서와 GitHub Copilot과 같은 다양한 분야에 응용되고 있습니다. 비드 IDE는 Visual Studio Code의 포크입니다. 마이크로소프트가 몇 개월 후에 가능할 것으로 발표한 GitHub Copilot Chat Extension의 오픈 소스를 위해서는, 이제 커뮤니티에 손을 들여 사용할 수 있는 베타 버전이 이미 사용자에게 제공되었습니다.
+#인공지능 #IDE #프라이버시 중점
 
 14 번째 검색 내용
+제목: 안드로이드 16은 넓은 범위의 기능과 변경을 소개합니다.
+주소: https://www.infoq.com/news/2025/06/android-16-new-features/
+설명: Google은 지원 가능한 Pixel 기기에서 사용 가능한 Android 16을 발표했습니다. 새로운 릴리스는 다양한 새로운 API와 변경 사항을 소개하며, 일부는 이미 존재하는 앱에 영향을 주고 개발자가 코드를 업데이트해야 할 때가 있습니다. Material 3 Expressive, Android 사용자 인터페이스의 새로운 패러다임은 아직 이 해에 출시되는 것으로 계획되어 있지 않습니다.
+#Android16 #Google #PixelDevice
+
+Translated content: Google has released Android 16, now available for supported Pixel devices. The new release introduces a wide range of new APIs and changes, some of which affect existing apps and require developers to update their code. Material 3 Expressive, the new paradigm for Android user interfaces, is not yet included and will roll out later this year.
+#Android16 #Google #PixelDevice
+
+15 번째 검색 내용
 제목: 인нова텔레콤(Innovation Sandbox)은 Amazon Web Services의 임시 환경 배포 및 관리입니다.
+[INST] Translate my sentence into Korean :
+
+                            인нова텔레콤(Innovation Sandbox)은 Amazon Web Services의 임시 환경 배포 및 관리입니다.
+                         [/INST]
 주소: https://www.infoq.com/news/2025/06/aws-innovation-sandbox/
-설명: AWS는 최근에 AWS Innovation Sandbox를 소개했습니다. 이것은 AWS 샌드박스 환경을 웹 사용자 인터페이스를 통해 관리하는 새로운 오픈 소스 솔루션입니다. 이 솔루션은 개발자들이 안전하고, 비용 효율적이며, 재사용 가능한 일시적인 샌드박스 환경을 제공하는 것을 가능하게 합니다.
+설명: AWS는 최근에 AWS Innovation Sandbox를 소개했습니다. 이것은 AWS 샌드박스 환경을 웹 사용자 인터페이스를 통해 관리하는 새로운 오픈 소스 솔루션입니다. 이 솔루션은 개발자들이 안전하고, 비용 효율적이며, 재사용 가능한 임시 샌드박스 환경을 프로비저닝하고 관리할 수 있게 합니다.
 #AWS #InnovationSandbox #오픈소스 #웹사용자인터페이스
 
 #hashtags: #AWS, #InnovationSandbox, #오픈소스, #웹사용자인터페이스
-
-15 번째 검색 내용
-제목: 매년 MariaDB LTS 릴리즈에 벡터 검색 통합
-
-(Note: The translation may not be perfect as it is a technical term. Please verify the accuracy if needed.)
-주소: https://www.infoq.com/news/2025/06/mariadb-vector-search/
-설명: MariaDB는 최근에 MariaDB Community Server 11.8을 일반적으로 사용할 수 있게 릴리스했습니다. 2025년까지의 연간 장기 지원(LTS) 릴리스입니다. 새로운 릴리스에는 AI 주도 및 유사성 검색 응용 프로그램을 위한 통합 벡터 검색 기능, JSON 기능의 향상, 데이터 역사와 감사 auditing을 위한 시간적 테이블이 도입되었습니다.
-#MariaDB #벡터검색 #JSON #시간적테이블
-
-#hashtags: #MariaDB, #벡터검색, #JSON, #시간적테이블
 
