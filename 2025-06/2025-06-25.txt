@@ -1,0 +1,139 @@
+1 번째 검색 내용
+제목: 미니맥스가 M1를 발표합니다 : 456B 하이브리드 어텐션 모델을 사용하여 긴 컨텍스트 추론과 소프트웨어 작업에 대한 새로운 모델입니다.
+주소: https://www.infoq.com/news/2025/06/minimax-m1/
+설명: MiniMax는 MiniMax-M1, 확장된 맥락과 복잡한 문제 해결에 높은 효율성을 갖추기 위해 설계된 새로운 열린 가중치 推理 모델을 소개했습니다. MiniMax-Text-01의 위에 놓여져 있으며, M1는 하이브리드 Mixture-of-Experts(MoE) 아키텍처와 새로운 "라이팅 어텐션" 메커니즘을 사용합니다.
+#열린_가중치_推理_모델 #MiniMax-M1 #하이브리드_Mixture-of-Experts(MoE)_아키텍처
+
+Translated content hashtags: #열린_가중치_推理_모델, #MiniMax-M1, #하이브리드_Mixture-of-Experts(MoE)_아키텍처
+
+2 번째 검색 내용
+제목: AWS가 어디서나 배포할 수 있는 내보내기 가능한 공개 SSL/TLS 인증서 소개
+
+(Note: The translation may not be perfect, as some phrases might need to be adjusted for natural Korean sentence structure.)
+주소: https://www.infoq.com/news/2025/06/aws-ssl-tls-certificates/
+설명: AWS는 최근에 AWS Certificate Manager에서 공개 SSL/TLS 인증서를 내보낼 수 있게 선언했습니다. 이것은 오래된 커뮤니티 요청을 충족시키고, 사용자가 AWS의 관리 서비스 밖에서도 사용할 수 있는 인증서와 개인 키를 내보낼 수 있게 합니다.
+#AWS #인증서 #개인키 #관리서비스
+
+Hashtags: #AWS, #인증서, #개인키, #관리서비스
+
+3 번째 검색 내용
+제목: GPULlama3.java는 순수한 Java에서 GPU 가속화된 LLM 인풋 제공합니다.
+주소: https://www.infoq.com/news/2025/06/gpullama3-java-gpu-llm/
+설명: AI : 인공지능은 세계를 변화시키고 있습니다. 이것은 의료, 금융, 교통과 같은 다양한 분야에 응용되고 있습니다.
+#인공지능 #의료 #금융 #교통
+
+4 번째 검색 내용
+제목: 중국어: 미드저니 데뷔 V1 AI 비디오 모델
+
+[INST] Translate my sentence into Korean :
+
+                            Midjourney Debuts V1 AI Video Model
+                         [/INST]
+주소: https://www.infoq.com/news/2025/06/midjourney-v1-video/
+설명: Midjourney는 첫 번째 비디오 생성 V1 모델을 출시했습니다, 웹 기반 도구로써 사용자들은 이미지를 5초의 비디오 클립으로 애니메이션을 만들 수 있습니다.
+#Midjourney #비디오생성 #이미지애니메이션
+
+Translated sentence: Midjourney has launched its first video generation V1 model, a web-based tool that allows users to animate still images into 5-second video clips.
+Hashtags: #Midjourney #비디오생성 #이미지애니메이션
+
+5 번째 검색 내용
+제목: 새로운 크립토 잠금퇴행 공격은 개발 및 배포 엔지니어링(DevOps)과 인공지능(AI) 인프라를 대상으로 합니다.
+주소: https://www.infoq.com/news/2025/06/cryptojacking-devops-openwebui/
+설명: 보안 연구자들은 Wiz에서 인공지능을 사용하여 인터넷에 공개된 API 서버를 대상으로 한 복잡한 암호화 탈취 공격을 발견했습니다. 비슷한 기술과 암호화 미너를 사용하여 인기 있는 AI 도구 Open WebUI에 대한 공격이 발견되었습니다.
+#보안 #API #암호화탈취 #인공지능
+
+#hashtags: #보안, #API, #암호화탈취
+
+6 번째 검색 내용
+제목: 자바 뉴스 요약: MicroProfile, Open Liberty, TomEE, JobRunr, LangChain4j, Apple SwiftJava
+주소: https://www.infoq.com/news/2025/06/java-news-roundup-jun16-2025/
+설명: AI : 이번 주의 Java 뉴스 요약은 6월 16일, MicroProfile 7.1, Apache TomEE 10.1, LangChain4j 1.1의 포인트 리リー스; 6월 에디션의 Open Liberty; JobRunr 8.0의 2번째 베타 리리즈; 그리고 Apple의 SwiftJava 유틸리티를 다루고 있습니다.
+#MicroProfile #ApacheTomEE #OpenLiberty #JobRunr #SwiftJava
+
+Hashtags: #Java #뉴스 #뉴스요약 #프로그래밍언어 #컴퓨터공학 #소프트웨어개발
+
+7 번째 검색 내용
+제목: AWS가 EKS를 통해 GuardDuty를 확장된 위협 검출으로 소개합니다.
+주소: https://www.infoq.com/news/2025/06/guardduty-eks/
+설명: AWS는 GuardDuty의 위협 감지 기능을 EKS 클러스터에서 확장하였으며, 컨테이너 수준 위협을 감지하기 위해 관리형 eBPF 에이전트를 사용하는 실시간 모니터링 기능을 소개했습니다.
+#AWS #GuardDuty #EKS #실시간모니터링 #eBPF
+
+Translated sentence: AWS has expanded GuardDuty’s threat detection capabilities on EKS clusters, introducing new runtime monitoring features that use a managed eBPF agent to detect container-level threats.
+Hashtags: #AWS #GuardDuty #EKS #실시간모니터링 #eBPF
+
+8 번째 검색 내용
+제목: CNCF 졸업생들은 소프트웨어 공급망 보안 강화를 위한 전체적인 지원입니다.
+주소: https://www.infoq.com/news/2025/06/cncf-intoto/
+설명: On April 23, 2025, the Cloud Native Computing Foundation (CNCF) announced the graduation of in‑toto, a framework designed to enforce supply chain integrity by ensuring that every step in the software development lifecycle, such as building, signing, and deployment, is properly authorized and verifiable.
+#인공지능 #소프트웨어개발생명주기 #보안 #CNCF
+
+Translated sentence: 4월 23일, 클라우드 네이티브 컴퓨팅 재단(CNCF)은 in-toto, 소프트웨어 개발 생명 주기의 모든 단계인 빌딩, 서명 및 배포가 적절하게 승인되고 검증될 수 있도록 공급 체인 무결성을 보장하는 프레임워크를 설계한 것을 졸업으로 발표했습니다.
+#인공지능 #소프트웨어개발생명주기 #보안 #CNCF
+
+9 번째 검색 내용
+제목: 마이크로소프트 앤저 개선된 관찰성을 위해 OpenTelemetry 지원 로직 앱과 함수에 대한 지원
+
+(Note: The translation may not be perfect, as some phrases might need to be adjusted for natural Korean sentence structure.)
+주소: https://www.infoq.com/news/2025/06/otel-azure-logic-apps-functions/
+설명: Microsoft는 Azure Logic Apps와 Functions에서 OpenTelemetry 지원을 확장하여, 플랫폼 간의 관찰성과 상호운용성을 향상시키고 있습니다. 이 오픈소스 프레임워크는 표준 테레미터보다 진단을 향상시키며, 데이터 생성 및 연관성의 간편한 구성과 통합을 제공합니다. Azure의 제품은 클라우드 서비스에서 표준화된 관찰성을 목표로 합니다.
+#Azure #OpenTelemetry #관찰성 #상호운용성
+
+#hashtags: #Azure, #OpenTelemetry, #Observability
+
+10 번째 검색 내용
+제목: 스프링 뉴스 요약: 스프링 바우트 마일스톤, 포인트 리리스와 OSS 지원의 종료
+
+(Note: The translation may not be perfect as it is a direct translation from English to Korean. It would be better if a native Korean speaker checks and adjusts the translation for proper grammar and sentence structure.)
+주소: https://www.infoq.com/news/2025/06/spring-news-roundup-jun16-2025/
+설명: Korean Translation: 6월 16일 주에서 봄 생태계에서 활발한 활동이 있었으며, 다음을 강조합니다.: Spring Vault 4.0의 첫 번째 마일스톤 리リー스; 그리고 Spring Boot, Spring Security, Spring Authorization Server, Spring Modulith, Spring AMQP 및 Spring Apache Kafka에 대한 포인트 릴리즈. 6월 30일까지 다양한 Spring 프로젝트의 릴리즈 트레인이 OSS 지원을 종료할 것입니다.
+#hashtags: #스프링 #오픈소스 #RIAASupportEndDate #SpringEcosystemActivity
+
+Hashtags: #스프링 #오픈소스 #RIAASupportEndDate #SpringEcosystemActivity
+
+11 번째 검색 내용
+제목: 클로드 코드가 스트리밍 HTTP를 통해 원격 MCP 서버에 대한 지원을 얻게 되었습니다.
+주소: https://www.infoq.com/news/2025/06/anthropic-claude-remote-mcp/
+설명: Anthropic은 최근에 Claude Code에서 원격 MCP 서버와의 연결 지원을 도입했습니다. 이로 인해 개발자들은 수동적인 로컬 서버 설정 없이 외부 도구와 리소스를 통합할 수 있습니다.
+#Anthropic #MCP #ClaudeCode
+
+Translated content hashtags: #Anthropic, #MCP, #ClaudeCode
+
+12 번째 검색 내용
+제목: 펜릭스.뉴 원격 에이전트 기반의 엘리시어 개발 환경 출시
+
+(Note: The translation may not be perfect as it involves translating proper nouns and technical terms.)
+주소: https://www.infoq.com/news/2025/06/phoenix-new/
+설명: Chris McCord는 Phoenix.new를 발표했습니다. 브라우저 내에서 작동하는 대리자 플랫폼입니다. 큰 언어 모델이 Elixir 개발 환경에 전체적인 제어를 가질 수 있도록 합니다. 클라우드에서 완전히 작동하도록 설계되었으며, Phoenix.new는 LLM 대리자가 실시간으로 빌드, 테스트 및 반복할 수 있도록 임시 VM 내에서 실제 Phoenix 앱을 실행합니다.
+#Elixir #Phoenix.new #브라우저_내_대리자_플랫폼
+
+#hashtags:
+1. #Elixir
+2. #Phoenix.new
+3. #브라우저_내_대리자_플랫폼
+
+13 번째 검색 내용
+제목: AWS 쉔들 네트워크 보안 디렉터: 네트워크 탑로지 시각화 및 수정 가이드
+
+(Note: The translation may not be perfect as it is a direct translation from English to Korean. It would be better if a native Korean speaker checks and adjusts the translation for proper grammar and sentence structure.)
+주소: https://www.infoq.com/news/2025/06/aws-network-security-director/
+설명: AWS Shield Network Security Director는 DDoS 보호와 네트워크 보안 시각성에서 게임 챠지어. 이 혁신적인 기능은 리소스 발견, 최선의 실천 방법과 일치 여부를 평가하고 보안 결과를 우선 순위에 따라 처리합니다. 조직은 Amazon Q Developer를 통해 자연어 쿼리로 수행 가능한 보안 개선 단계를 통해 보안 포스트처에 향상시킬 수 있습니다.
+#AWS #보안 #네트워크 #보호
+
+#hashtags: #AWS, #보안, #네트워크, #보호
+
+14 번째 검색 내용
+제목: TC39는 9개의 JavaScript 제안을 진행하며, Array.fromAsync, Error.isError, 그리고 사용하는 것이 포함됩니다.
+주소: https://www.infoq.com/news/2025/06/tc39-stage-4-2025/
+설명: Ecma Technical Committee 39 (TC39)은 JavaScript(ECMAScript)의 진화에 책임지는 기관이며, 최근 스테이지 프로세스를 통해 9개의 제안을 진행하였습니다. 이 중 표준에 포함되어 새로운 언어 기능으로 Array.fromAsync, Error.isError, 및 using을 사용한 명시적 리소스 관리가 추가되었습니다.
+#ECMAScript #TC39 #JavaScript
+
+15 번째 검색 내용
+제목: 알파쓰라이트: 진화를 통해 AI 이야기 개선
+
+(Note: The translation may not be perfect as it is a machine translation. Please review and make any necessary adjustments.)
+주소: https://www.infoq.com/news/2025/06/alphawrite/
+설명: AlphaWrite는 창작 쓴책에 구조와 측정 가능한 개선을 제공하기 위해 새로운 프레임워크입니다. Toby Simonds에 의해 개발되었으며, 추론 중에 이야기 전달의 질을 반복적으로 향상시키는 진화적 과정을 사용합니다.
+#창작쓴책 #구조화 #개선 #추론
+
+#hashtags: #creativewriting, #structuredwriting, #evolutionaryprocess
+
