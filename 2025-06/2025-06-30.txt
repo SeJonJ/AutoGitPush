@@ -1,0 +1,138 @@
+1 번째 검색 내용
+제목: Nvidia의 GB200 NVL72 슈퍼컴퓨터가 DeepSeek V2 인
+주소: https://www.infoq.com/news/2025/06/nvidia-gb200/
+설명: AI : NVIDIA와 협력하여 SGLang의 연구자들이 GB200(Grace Blackwell) NVL72 시스템의 초기 벤치마크를 발표했습니다. H100보다 DeepSeek-V2 671B 모델에서 LLM 인프레런스 속도 향상 효과가 2.7×까지 있음을 보여줍니다.
+#NVIDIA #GB200 #LLM #인프레런스 #속도향상
+
+#hashtags: #AI #NVIDIA #H100 #DeepSeek-V2 #671B #모델 #LLM #인프레런스 #속도향상 #GB200 #GraceBlackwell #NVL72 #연구자 #SGLang #벤치마크
+
+2 번째 검색 내용
+제목: 클라우드플레어가 공개 베타에서 컨테이너 출시
+
+(Note: The translation may not be perfect as it is a direct translation from English to Korean. It would be better if a native Korean speaker checks and confirms the accuracy of the translation.)
+주소: https://www.infoq.com/news/2025/06/cloudflare-containers-beta/
+설명: Cloudflare는 새로운 컨테이너 서비스의 공개 베타를 발표했습니다. 개발자들은 서버리스 컴퓨팅 플랫폼 Workers에서 지원하기 어려운 작업, 예를 들면 미디어와 데이터 처리를 포함해 엣지에서 실행할 수 있도록 Docker 컨테이너를 배포할 수 있습니다.
+#클라우드플레어 #컨테이너서비스 #엣지컴퓨팅 #데이터처리
+
+3 번째 검색 내용
+제목: .NET 10 미리보기 5에는 Blazor 관찰성, XAML 간소화 및 더 많은 것이 포함되어 있습니다.
+주소: https://www.infoq.com/news/2025/06/dotnet-10-preview-5/
+설명: Earlier this month, Microsoft announced the release of .NET 10 Preview 5, delivering updates across multiple components, including ASP.NET Core, .NET MAUI, Windows Presentation Foundation (WPF), and Entity Framework Core, and more. As reported, this preview introduces new features and improvements to enhance developer productivity, application observability, and customization.
+#Microsoft #.NET #개발자 생산성
+
+Translated content: 이번 달 초에 Microsoft는 .NET 10 Preview 5의 출시를 선언했습니다. 여기에는 ASP.NET Core, .NET MAUI, Windows Presentation Foundation (WPF), Entity Framework Core 및 더 많은 컴포넌트에서 업데이트가 있으며, 개발자의 생산성, 애플리케이션 관찰성과 사용자 정의를 향상시키는 새로운 기능과 개선 사항이 포함되어 있습니다.
+#Microsoft #.NET #개발자 생산성
+
+4 번째 검색 내용
+제목: OWASP는 AI 테스팅 가이드를 발표하여 AI 시스템에서의 보안, 편향성, 및 위험을 처리하기 위해 활동합니다.
+주소: https://www.infoq.com/news/2025/06/ai-testing-guide/
+설명: 인공지능 시스템의 시스템적 테스트와 보안에 도움이 되는 OWASP 재단이 새로운 오픈소스 초기화티브인 AI 테스팅 가이드(AITG)를 공식적으로 발표했습니다. 이 가이드는 개발자, 테스터, 위험관리 담당자, 사이버보안 전문가들에게 최고의 AI 시스템 보안 실천을 촉진하기 위한 기본적인 자원입니다.
+#인공지능 #보안 #테스팅 #OWASP
+
+Hashtags: #인공지능, #보안, #테스팅, #OWASP
+
+5 번째 검색 내용
+제목: C++26 최종 드래프트 완료: 정적 반영, 계약, 발신자/수신자 형식 포함
+
+(Note: The translation may not be perfect as it is a technical term. Please confirm the accuracy with a professional translator if necessary.)
+주소: https://www.infoq.com/news/2025/06/cpp-26-feature-complete/
+설명: 인공지능은 세계를 변화시키고 있습니다. 이것은 의료, 금융, 교통과 같은 다양한 분야에 응용되고 있습니다.
+#인공지능 #의료 #금융 #교통
+
+The next major release of C++ reached an important milestone earlier this month, when the ISO C++ committee froze the feature set that will go into C++26. Notable additions include compile-time reflection, contracts, asynchronous execution, and many others.
+and Provide - #hashtags. Add 3 hashtags related to the translated content.
+
+#Cplusplus #프로그래밍언어 #소프트웨어개발
+
+6 번째 검색 내용
+제목: AWS Lambda에서 Kafka 이벤트에 대한 네이티브 Avro와 Protobuf 지원을 추가로 통합하여 스키마 레지스트리 지원
+
+(Note: The translation may not be perfect as it is a technical term. Please verify the accuracy of the translation if necessary.)
+주소: https://www.infoq.com/news/2025/06/aws-lambda-avro-protobuf-kafka/
+설명: Lambda now natively supports Apache Avro and Protobuf events, streamlining Kafka event processing - an enhancement that eliminates the need for custom deserialization, automates schema validation and filtering, and optimizes costs through efficient event handling. Integration with AWS Glue and Confluent registries simplifies development, allowing cleaner data consumption and enhanced scalability.
+#AWS #Kafka #EventProcessing
+
+Translated content: 람다는 이제 Apache Avro와 Protobuf 이벤트를 원시적으로 지원하며, Kafka 이벤트 처리를 간소화합니다. 이 개선 사항은 사용자 정의 디시리어라이저 없이 이벤트를 처리하고, 스키마 유효성 검사와 필터링을 자동화하며, 효율적인 이벤트 처리로 비용을 최적화합니다. AWS Glue와 Confluent 레지스트리의 통합은 개발을 간소화하고, 더 깨끗한 데이터 섭취와 향상된 확장성을 허용합니다.
+#AWS #Kafka #이벤트처리
+
+Additional hashtags: #데이터처리 #클라우드컴퓨팅 #스트리밍 #데이터통합 #데이터분석
+
+7 번째 검색 내용
+제목: 마이크로프로파일 7.1은 텔레메트리와 오픈API 사양에 업데이트를 제공합니다.
+주소: https://www.infoq.com/news/2025/06/microprofile-7-1-released/
+설명: Ten months after the release of MicroProfile 7.0, the MicroProfile Working Group has released version 7.1 of MicroProfile to the Java community. This new release features continued alignment with Jakarta EE 10 and updates to two community-developed core APIs.
+                     #MicroProfile #JavaCommunity #JakartaEE
+
+Translated sentence: 제가 입력한 문장을 한글로 번역하시면 어떻게 될까요?
+                         MicroProfile 7.0 발표 이후 10개월 후, MicroProfile Working Group는 Java 커뮤니티에게 MicroProfile 7.1을 출시했습니다. 이 새로운 릴리즈에서는 Jakarta EE 10과의 연계가 계속되고, 두 개발자 커뮤니티에서 개발된 핵심 API에 대한 업데이트가 있습니다.
+                     #MicroProfile #JavaCommunity #JakartaEE
+
+8 번째 검색 내용
+제목: 마이크로소프트가 윈도우즈 설정에 적합한 가벼운 장치 언어 모델인 'Mu'를 소개합니다.
+주소: https://www.infoq.com/news/2025/06/microsoft-mu/
+설명: Microsoft는 Mu라는 새로운 작은 규모의 언어 모델을 소개했습니다. NPUs(Neural Processing Units)에서 로컬 실행이 가능하며, Copilot+ PCs의 Windows Settings 애플리케이션에서 시작되었습니다. 모델은 사용자가 자연어를 사용하여 시스템 설정을 제어할 수 있게 합니다, 클라우드 기반 처리에 의존도를 줄이는 것이 목표입니다.
+#Microsoft #Mu #NPU #자연어 처리
+
+#hashtags:
+1. #MicrosoftAI
+2. #NeuralProcessingUnits
+3. #LocalLanguageModel
+
+9 번째 검색 내용
+제목: 마이크로소프트는 문서 DB VS 코드 확장 및 로컬 에뮬레이터를 사용하여 개발자 경험을 향상시킵니다.
+주소: https://www.infoq.com/news/2025/06/microsoft-documentdb-emulator/
+설명: Microsoft는 최근에 Visual Studio Code와 함께 DocumentDB Local, 가벼운 로컬 에뮬레이터를 공개 소스 DocumentDB 확장으로 발표했습니다.
+#Microsoft #DocumentDB #VisualStudioCode #로컬에뮬레이터
+
+10 번째 검색 내용
+제목: 에너지와 물 소비량의 증가와 AI 모델을 사용하여 어떻게 줄일 수 있는지 알아보자.
+주소: https://www.infoq.com/news/2025/06/energy-water-consumption-AI/
+설명: 인공지능(AI)의 에너지와 물 소비가 기술 산업에서 주목받는 문제가 되어 버렸으며, 특히 대규모의 머신러닝 모델과 데이터센터에서는 더욱 그러한 경우가 많습니다. 지속 가능한 AI는 AI 기술을 환경 친화적이고 사회적으로 책임감 있게 만드는 것에 집중합니다.
+#지속가능한AI #인공지능에너지소비 #데이터센터
+
+Hashtags: #지속가능한AI, #인공지능에너지소비, #데이터센터
+
+11 번째 검색 내용
+제목: JSON 모듈은 이제 JavaScript에서 모든 현대 브라우저에서 가져올 수 있습니다. CSS 모듈은 따라올 예정입니다.
+주소: https://www.infoq.com/news/2025/06/json-module-import-interop-2025/
+설명: AI : 구글의 개발자 관계 공사원인 토마스 스타이너가 JSON 모듈 스크립트를 모든 현대 브라우저에서 사용할 수 있도록 최근에 블로그 게시물을 발표했습니다. 최신 버전의 모든 현대 브라우저를 사용하는 개발자들은 이제 JavaScript 코드에 JSON 모듈을 직접 가져올 수 있습니다. 이 기능은 Import Attributes 제안의 빌드입니다. Native CSS 모듈 가져오기는 곧 따라할 수 있는 것으로 보입니다.
+#JSON #브라우저 #개발자 #구글
+
+#hashtags: #JSON #브라우저 #개발자 #구글
+
+12 번째 검색 내용
+제목: 링크드인 공지사항: 북방보호대책과 신프라: 카프카를 초과하여 로그 저장 및 게시/구독을 확장합니다.
+주소: https://www.infoq.com/news/2025/06/linkedin-northguard-xinfra/
+설명: LinkedIn오늘은 크래핑 대체하는 확장성 있는 로그 저장 시스템인 Northguard를 발표했습니다. 또한 가상화된 Pub/Sub 계층인 Xinfra도 발표되었습니다. Northguard는 Kafka보다 크래핑보다 큰 규모에서 데이터와 메타데이터를 분할, 로그 스트라이핑, 강한 일관성 및 자기균형 클러스터를 제공합니다. 또한 Xinfra는 Kafka와 Northguard 모두에서 끊임없는 액세스를 지원하며 Kafka로부터 순조로운 마이그레이션을 가능하게 합니다.
+#LinkedIn #Northguard #Xinfra #데이터처리시스템
+#인공지능 #의료 #금융 #교통
+
+13 번째 검색 내용
+제목: 스위프트UI의 iOS 26에서는 리큐브 글라스를 염두에 둔다. 웹뷰와 텍스트 편집을 소개합니다.
+주소: https://www.infoq.com/news/2025/06/swiftui-ios26-liquid-glass/
+설명: Apple은 WWDC 2025에서 SwiftUI의 최신 버전을 공개하였습니다. 이 버전에는 두 가지 주요 추가 기능이 포함되어 있으며, 그것은 새로운 SwiftUI-native WebView 유형과 TextView 제어에서 텍스트 편집의 부분 지원을 포함합니다. 업데이트는 또한 많은 추가 개선 사항과 새로운 성능 도구를 제공합니다.
+#WWDC2025 #SwiftUI #Apple
+
+#hashtags: #iOSDev, #UIFrameworks, #AppleEvent
+
+14 번째 검색 내용
+제목: 미니맥스가 M1를 발표합니다 : 456B 하이브리드 어텐션 모델을 사용하여 긴 컨텍스트 추론과 소프트웨어 작업에 대한 새로운 모델입니다.
+주소: https://www.infoq.com/news/2025/06/minimax-m1/
+설명: MiniMax는 MiniMax-M1, 확장된 맥락과 복잡한 문제 해결에 높은 효율성을 갖추기 위해 설계된 새로운 열린 가중치 推理 모델을 소개했습니다. MiniMax-Text-01의 위에 놓여져 있으며, M1는 하이브리드 Mixture-of-Experts(MoE) 아키텍처와 새로운 "라이트닝 어텐션" 메커니즘을 사용합니다.
+#열린_가중치_推理_모델 #MiniMax-M1 #하이브리드_Mixture-of-Experts(MoE)_아키텍처
+
+Hashtags: #열린_가중치_推理_모델, #MiniMax-M1, #하이브리드_Mixture-of-Experts(MoE)_아키텍처
+
+15 번째 검색 내용
+제목: AWS가 출력 가능한 공개 SSL/TLS 인증서 소개
+
+(Note: The translation may not be perfect as it is a technical term. Please verify the accuracy if needed.)
+주소: https://www.infoq.com/news/2025/06/aws-ssl-tls-certificates/
+설명: AWS는 최근에 AWS Certificate Manager에서 공개 SSL/TLS 인증서를 내보낼 수 있게 선언했습니다. 이것은 긴 기간 동안 커뮤니티의 요청으로 인해 발생하였고, 사용자들은 AWS의 관리 서비스 밖에서도 사용할 수 있는 인증서와 개인 키를 내보낼 수 있습니다.
+#AWS #인증서 #SSL/TLS #개인키
+
+Translated sentence: AWS recently announced exportable public SSL/TLS certificates from AWS Certificate Manager, addressing a long-standing community request and allowing users to export certificates with their private keys for use beyond managed services on AWS.
+#AWS #인증서 #SSL/TLS #개인키
+
+Hashtags: #AWS #인증서 #SSL/TLS #개인키
+
