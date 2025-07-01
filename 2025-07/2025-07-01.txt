@@ -1,0 +1,133 @@
+1 번째 검색 내용
+제목: 로그즈.아이오(Logz.io)와 디나트레이스(Dynatrace)의 혁신으로 관측성을 AI 시대로 이동합니다.
+주소: https://www.infoq.com/news/2025/06/logzio-dynatrace-observability/
+설명: 인공지능은 모니터링 시스템에 통합되어 있으며, 기업들은 디지털 인프라를 관찰하는데 필요한 수동 작업을 줄이기 위해 공급자에게 기대하고 있습니다. AI가 주도 기능으로 구현되어 운영 작업을 자동화하고 사건 해결 프로세스를 빠르게 만들어줍니다.
+#인공지능 #모니터링시스템 #디지털인프라 #사건해결
+
+#hashtags: #AIintegration, #ObservabilityPlatforms, #DigitalInfrastructureManagement
+
+2 번째 검색 내용
+제목: 보고서: OpenTelemetry의 영향을 나타낸 Go 성능
+
+(Note: The translation may not be perfect, as Korean grammar and sentence structure can differ significantly from English. Please review the translation for accuracy.)
+주소: https://www.infoq.com/news/2025/06/opentelemetry-go-performance/
+설명: AI : 새로운 벤치마크 연구는 Coroot의 관찰성 플랫폼에서 OpenTelemetry를 고속 Go 애플리케이션에 구현하는 성능 비용을 드러냈습니다. 결과는 OpenTelemetry가 유용한 트레이스 수준 인사이트를 제공하지만, CPU 사용량을 약 35% 증가시키고 부하 상황에서 네트워크 트래픽과 지연 시간이 증가한다는 것을 드러냅니다.
+#OpenTelemetry #성능비용 #관찰성플랫폼 #Go언어
+
+#hashtags: #OpenTelemetry, #성능비용, #관찰성플랫폼, #Go언어
+
+3 번째 검색 내용
+제목: 인간적 업그레이드: 클로드 아티팩트에 대한 앱 빌딩 능력 향상
+[INST] 인간적 업그레이드: 클로드 아티팩트에 대한 앱 빌딩 능력 향상 [/INST]
+주소: https://www.infoq.com/news/2025/06/anthropic-artifacts-app/
+설명: Anthropic는 Claude를 새로운 앱 빌드 기능으로 업그레이드했습니다. 사용자는 텍스트 프롬프트에서 AI 애플리케이션을 생성, 호스팅하고 공유할 수 있게 되었습니다. 이 기능, 예측적 객체(Artifacts)는 사용자가 아이디어를 설명하면 데이터 분석기, 플래시카드 생성기, 또는 학습 도우미와 같은 실제 도구를 빌드할 수 있게 합니다.
+                    
+#인공지능 #앱빌드기능 #예측적_객체(Artifacts)
+
+4 번째 검색 내용
+제목: 자바 뉴스 요약: Jakarta EE 11이 발표되었습니다., Agent2Agent Java SDK, 코틀린, WildFly, JobRunr, Maven
+주소: https://www.infoq.com/news/2025/06/java-news-roundup-jun23-2025/
+설명: AI : 이번 주 6월 23일 Java 뉴스 요약은 다음과 같습니다: Jakarta EE 11의 GA 출시, Red Hat에서 소개된 Agent2Agent Java SDK, Kotlin 2.2.0의 출시, WildFly 37의 첫 베타 릴리스, JobRunr 8.0.0의 첫 릴리스 후보, Maven 4.0의 네 번째 릴리스 후보입니다.
+#Java #JakartaEE #Kotlin #Maven
+
+Hashtags: #Java #JakartaEE #Kotlin #Maven
+
+5 번째 검색 내용
+제목: 구글은 안드로이드 스튜디오 나르왈에서 견인의 에이전트 모드를 미리보기로 공개합니다.
+주소: https://www.infoq.com/news/2025/06/gemini-agent-mode-android-studio/
+설명: Google은 Android Studio의 최신 캐니 릴리스인 Android Studio Narwhal preview에서 Agent Mode에 Gemini의 통합을 발표했습니다. Google은 새로운 Agent Mode가 여러 파일을 跨하는 여러 단계 개발 작업을 처리할 수 있도록 설계되었음을 밝혔습니다.
+#Google #AndroidStudio #Gemini #AgentMode
+
+6 번째 검색 내용
+제목: Nvidia의 GB200 NVL72 슈퍼컴퓨터가 깊이 탐색 V3에서 2.7배 빠른 추론 성능을 달성합니다.
+주소: https://www.infoq.com/news/2025/06/nvidia-gb200/
+설명: AI : NVIDIA와 협력하여 SGLang의 연구원들이 GB200 (Grace Blackwell) NVL72 시스템의 초기 벤치마크를 발표했습니다. H100보다 DeepSeek-V3 671B 모델에서 LLM 인프레런스 속도 향상 2.7×까지 나타났습니다.
+#NVIDIA #GB200 #LLM #인프레런스 #속도 #향상
+
+#hashtags: #AI #연구 #성능평가 #NVL72 #GraceBlackwell #SGLang #DeepSeek-V3 #모델 #H100 #LLM #인프레런스 #속도 #향상 #NVIDIA #GB200 #협력 #연구원 #발표
+
+7 번째 검색 내용
+제목: 클라우드플레어가 공개 베타에서 컨테이너를 출시합니다.
+주소: https://www.infoq.com/news/2025/06/cloudflare-containers-beta/
+설명: Cloudflare는 새로운 컨테이너 서비스의 공개 베타를 발표했습니다. 개발자들은 이 글로벌 네트워크에서 컨테이너를 실행할 수 있습니다. 서버리스 컴퓨팅 플랫폼 Workers에서 지원하기 어려운 작업을 처리하는데 사용되는 미디어와 데이터 처리를 엣지에서 실행할 수 있습니다.
+#클라우드플레어 #컨테이너서비스 #엣지컴퓨팅
+
+#hashtags: #클라우드플레어, #컨테이너서비스, #엣지컴퓨팅
+
+8 번째 검색 내용
+제목: .NET 10 미리보기 5에는 Blazor 관찰성, XAML 간소화 및 더 많은 것이 포함되어 있습니다.
+주소: https://www.infoq.com/news/2025/06/dotnet-10-preview-5/
+설명: Earlier this month, Microsoft announced the release of .NET 10 Preview 5, delivering updates across multiple components, including ASP.NET Core, .NET MAUI, Windows Presentation Foundation (WPF), and Entity Framework Core, and more. As reported, this preview introduces new features and improvements to enhance developer productivity, application observability, and customization.
+#Microsoft #.NET #개발자 생산성
+
+Translated content: 이번 달 초에 Microsoft는 .NET 10 Preview 5의 출시를 선언했습니다. 여기에는 ASP.NET Core, .NET MAUI, Windows Presentation Foundation (WPF), Entity Framework Core 및 더 많은 컴포넌트에서 업데이트가 있으며, 개발자의 생산성, 애플리케이션 관찰성과 사용자 정의를 향상시키기 위해 새로운 기능과 개선 사항이 도입되었습니다.
+#Microsoft #.NET #개발자 생산성
+
+9 번째 검색 내용
+제목: OWASP는 AI 테스팅 가이드를 발표하여 AI 시스템에서의 보안, 편향성, 및 위험을 처리하기 위해 활동한다.
+주소: https://www.infoq.com/news/2025/06/ai-testing-guide/
+설명: 인공지능 시스템의 시스템적 테스트와 보안에 도움이 되는 OWASP 재단이 새로운 오픈소스 초기화티브인 AI 테스팅 가이드(AITG)를 공식적으로 발표했습니다. 이 가이드는 개발자, 테스터, 위험관리 담당자, 사이버보안 전문가들에게 기본 자원으로 제공되며, AI 시스템의 최선의 방법을 살려 보안을 강화하는 데 도움이 됩니다.
+#인공지능 #OWASP #보안 #테스팅
+
+Hashtags: #인공지능, #OWASP, #보안, #테스팅
+
+10 번째 검색 내용
+제목: C++26 최종 草案 완료: 정적 반영, 계약, 발신자/수신자 형식 포함
+
+(Note: The translation may not be perfect as it is a technical term. Please double-check the translation if necessary.)
+주소: https://www.infoq.com/news/2025/06/cpp-26-feature-complete/
+설명: 인공지능은 세계를 변화시키고 있습니다. 이것은 의료, 금융, 교통과 같은 다양한 분야에 응용되고 있습니다.
+#인공지능 #의료 #금융 #교통
+
+The next major release of C++ reached an important milestone earlier this month, when the ISO C++ committee froze the feature set that will go into C++26. Notable additions include compile-time reflection, contracts, asynchronous execution, and many others.
+and Provide - #hashtags. Add 3 hashtags related to the translated content.
+#Cplusplus #프로그래밍언어 #소프트웨어개발
+
+11 번째 검색 내용
+제목: AWS Lambda에서 Kafka 이벤트에 대한 원시 아보와 프로토버프 지원을 추가적으로 개선함: 스키마 레지스트리 통합
+
+(Note: The translation may not be perfect as it is a technical term. Please check the meaning and context before using it.)
+주소: https://www.infoq.com/news/2025/06/aws-lambda-avro-protobuf-kafka/
+설명: Lambda now natively supports Apache Avro and Protobuf events, streamlining Kafka event processing - an enhancement that eliminates the need for custom deserialization, automates schema validation and filtering, and optimizes costs through efficient event handling. Integration with AWS Glue and Confluent registries simplifies development, allowing cleaner data consumption and enhanced scalability.
+#AWS #Kafka #EventProcessing
+
+Translated content: 
+Lambda는 이제 Apache Avro와 Protobuf 이벤트를 원시적으로 지원하여 Kafka 이벤트 처리를 간소화합니다. 이 개선 사항은 사용자 정의 디시리알라이저 없이 이벤트를 처리하고, 스키마 유효성 검증과 필터링을 자동화하며, 효율적인 이벤트 처리로 비용을 최적화합니다. AWS Glue와 Confluent 레지스트리의 통합은 개발을 간소화하고, 정돈된 데이터 섭취를 허용하며, 확장성을 향상시키는 것을 허용합니다.
+#AWS #Kafka #이벤트처리
+
+Additional hashtags:
+#CloudComputing #BigData #StreamProcessing
+
+12 번째 검색 내용
+제목: 마이크로프로파일 7.1은 텔레메트리와 오픈API 사양에 업데이트를 제공합니다.
+주소: https://www.infoq.com/news/2025/06/microprofile-7-1-released/
+설명: Ten months after the release of MicroProfile 7.0, the MicroProfile Working Group has released version 7.1 of MicroProfile to the Java community. This new release features continued alignment with Jakarta EE 10 and updates to two community-developed core APIs.
+                     #MicroProfile #JakartaEE #JavaCommunity
+
+13 번째 검색 내용
+제목: 마이크로소프트가 윈도우즈 설정에 적합한 가벼운 장치 언어 모델인 'Mu'를 소개합니다.
+주소: https://www.infoq.com/news/2025/06/microsoft-mu/
+설명: Microsoft는 Mu라는 새로운 작은 규모의 언어 모델을 소개했습니다. NPUs(Neural Processing Units)에서 로컬 실행이 가능하며, Copilot+ PCs의 Windows Settings 애플리케이션에서 시작되었습니다. 모델은 사용자가 자연어를 사용하여 시스템 설정을 제어할 수 있도록 합니다, 클라우드 기반 처리에 의존도를 줄이는 것이 목표입니다.
+#Microsoft #Mu #NPU #자연어 처리
+
+#hashtags:
+1. #MicrosoftAI
+2. #NeuralProcessingUnits
+3. #LocalLanguageModel
+
+14 번째 검색 내용
+제목: 마이크로소프트는 문서 DB VS 코드 확장 및 로컬 에뮬레이터를 사용하여 개발자 경험을 향상시킵니다.
+주소: https://www.infoq.com/news/2025/06/microsoft-documentdb-emulator/
+설명: Microsoft는 최근에 Visual Studio Code와 함께 DocumentDB 로컬 에뮬레이터인 DocumentDB Local을 공개 소스 확장으로 발표했습니다.
+#Microsoft #DocumentDB #VisualStudioCode #로컬에뮬레이터
+
+15 번째 검색 내용
+제목: 에너지와 물 소비량의 증가와 AI 모델을 사용하여 어떻게 줄일 수 있는지 알아보자.
+주소: https://www.infoq.com/news/2025/06/energy-water-consumption-AI/
+설명: 인공지능(AI)의 에너지와 물 소비가 기술 산업에서 주목받고 있으며, 특히 대규모 머신러닝 모델과 데이터 센터에 대해서는 더욱입니다. 지속 가능한 AI는 AI 기술을 환경 친화적이고 사회적으로 책임감 있게 만들기 위해 집중합니다.
+#지속가능한AI #에너지효율화 #물재소비감소
+
+Translated sentence: Artificial intelligence's (AI) energy and water consumption has become a growing concern in the tech industry, particularly for large-scale machine learning models and data centers. Sustainable AI focuses on making AI technology more environmentally friendly and socially responsible.
+
+Hashtags: #SustainableAI #EnergyEfficiency #WaterConservation
+
