@@ -1,136 +1,145 @@
 1 번째 검색 내용
-제목: Arm Scalable Matrix Extension 2가 Android에서 인공지능 처리를 빠르게 진행하기 위해 도입되고 있습니다.
-주소: https://www.infoq.com/news/2025/07/arm-sme2-android/
-설명: Armv9-A 아키텍처에서 사용 가능한 Arm Scalable Matrix Extension 2 (SME2)는 행렬 중심 계산을 빠르게 하기 위해 고급 CPU 명령 집합입니다. 새로운 Arm 기술은 모바일 개발자들이 향상된 성능과 효율성을 제공하면서 AI 모델을 CPU에 직접 실행할 수 있도록 도와주고, 앱의 변경 없이도 가능합니다.
-#Armv9-A #SME2 #모바일개발자 #AI #성능향상 #효율성
+제목: Docker는 에이전트 개발을 위해 Compose를 확장하고, 클라우드 오프로드 지원을 연결합니다.
+주소: https://www.infoq.com/news/2025/07/docker-compose-agent-gpu-offload/
+설명: Docker는 개발자가 Docker Compose를 사용하여 에이전트를 정의, 빌드, 실행할 수 있도록 새로운 기능을 출시했습니다. 이 기능은 에이전트 개발 프로세스를 간소화하고 반복적인 작업을 줄이는 것이 목표입니다. 또한, Docker Offload(beta)는 모델을 원격 GPU 컴퓨팅에 순차적으로 전송하고 실행할 수 있도록 제공합니다.
+#Docker #에이전트개발 #GPU컴퓨팅
 
-Hashtags: #Armv9-A, #SME2, #모바일개발자, #AI, #성능향상, #효율성
+Hashtags:
+1. #Docker
+2. #에이전트개발
+3. #GPU컴퓨팅
 
 2 번째 검색 내용
+제목: 자바 뉴스 요약: JobRunr 8, Gradle, Grails, Micronaut, JHipster, Tomcat CVE
+주소: https://www.infoq.com/news/2025/07/java-news-roundup-jul07-2025/
+설명: Java 주요 뉴스 요약: 2025년 7월 7일, JobRunr 8.0의 GA 릴리즈; Gradle 9.0의 두 번째 릴리즈 кан디데이트; Grails 7.0의 다섯 번째 amilestone 릴리즈; Micronaut와 JHipster Lite에 대한 포인트 릴리즈; 그리고 Apache Tomcat에 영향을 미치는 CVE가 있습니다.
+#Java #뉴스 #프로젝트 #보안
+
+#hashtags: #JavaNews, #ProjectUpdates, #SecurityIssues
+
+3 번째 검색 내용
+제목: ARM Scalable Matrix Extension 2가 Android에서 인공지능 처리를 빠르게 실행하기 위해 도입되고 있습니다.
+주소: https://www.infoq.com/news/2025/07/arm-sme2-android/
+설명: Armv9-A 아키텍처에서 사용 가능한 Arm Scalable Matrix Extension 2 (SME2)는 행렬 중심 계산을 빠르게 하기 위해 고급 CPU 명령 집합입니다. 새로운 Arm 기술은 모바일 개발자들이 향상된 성능과 효율성으로 AI 모델을 CPU에 직접 실행하도록 도와주려고 합니다. 이를 위해서는 앱에 대한 변경 사항이 없어야 합니다.
+#Armv9-A #SME2 #모바일AI #성능향상
+
+#hashtags:
+1. #ArmTech
+2. #AIOnCPU
+3. #MobileDevelopment
+
+4 번째 검색 내용
 제목: 보호자의 안전한 메시지: 오픈소스 메시징은 수백만 앱 사용자를 트래픽 커버로 활용합니다.
 주소: https://www.infoq.com/news/2025/07/secure-messaging-coverdrop/
 설명: The Guardian has recently released Secure Messaging, a highly secure and user-friendly tool designed to protect journalistic sources by concealing the very fact that messaging is occurring. The open source project achieves strong plausible deniability by generating bait traffic through the routine activity of existing users of The Guardian's mobile app.
-#인공지능 #의료 #금융 #교통
+#보안 #기자 #신뢰도
 
-3 번째 검색 내용
-제목: 마이크로소프트는 Azure DevOps MCP 서버를 공개 미리 보기에 출시합니다.
+Translated content: 
+The Guardian has recently released Secure Messaging, a highly secure and user-friendly tool designed to protect journalistic sources by concealing the very fact that messaging is occurring. The open source project achieves strong plausible deniability by generating bait traffic through the routine activity of existing users of The Guardian's mobile app.
+#보안 #기자 #신뢰도
+
+5 번째 검색 내용
+제목: 마이크로소프트는 공개 미리 보기에서 Azure DevOps MCP 서버 출시
+
+(Note: The translation may not be perfect as it is a machine translation. Please check the grammar and context for accuracy.)
 주소: https://www.infoq.com/news/2025/07/azure-devops-mcp-server/
-설명: Microsoft는 Azure DevOps Model Context Provider(MCP) Server를 공개 미리 보기로 발표하였습니다. 이 혁신적인 도구는 VS Code에서 자연어로 프로젝트 데이터를 쿼리하고 관리할 수 있게 합니다. GitHub Copilot과 Azure DevOps 간의 순조롭고 효율적인 상호작용을 가능하게 합니다. 이를 통해 개발자들은 워크플로우를 단순화하고 생산성을 향상시키면서도 프로젝트 데이터의 보안과 지역성을 유지할 수 있습니다.
+설명: Microsoft는 Azure DevOps Model Context Provider (MCP) Server를 공개 미리 보기로 발표하였습니다. 이 혁신적인 도구는 Visual Studio Code에서 자연어로 프로젝트 데이터를 쿼리하고 관리할 수 있게 합니다. GitHub Copilot과 Azure DevOps 간의 순조롭고 효율적인 상호작용을 가능하게 하며, 워크플로우를 간소화하고 생산성을 향상시키면서도 프로젝트 데이터가 안전하고 로컬에 남아 있도록 보장합니다.
 #AzureDevOps #MCPServer #GitHubCopilot
-#VSCode #개발자 #생산성 #보안
-#지역화 #프로젝트데이터 #워크플로우
 
-Hashtags: #AzureDevOps, #MCPServer, #GitHubCopilot, #VSCode, #개발자, #생산성, #보안, #지역화, #프로젝트데이터, #워크플로우
+#hashtags: #AzureDevOps, #MCPServer, #GitHubCopilot
 
-4 번째 검색 내용
-제목: 내부 Netflix의 제목 출시 관찰 시스템: 제목 사용 가능성 확인 전역 규모에서
+6 번째 검색 내용
+제목: 내부 Netflix 제목 출시 관찰 시스템: 전 세계적인 규모에서 제목 사용 가능성 검증
 
-(Note: The translation may not be perfect as it is a technical term. However, the meaning should be clear.)
+(Note: The translation may not be perfect as it is a technical term. Please confirm the accuracy with a professional translator if necessary.)
 주소: https://www.infoq.com/news/2025/07/netflix-title-observability/
-설명: Netflix는 Title Launch Observability라고 하는 플랫폼을 개발했습니다. 이 시스템은 시스템 건강에서 제품 의도로 관측성을 이동시키며, 사용자가 보아야 할 내용과 일치하는지 확인합니다. 로그와 메트릭에 종속되지 않고, 컨텐츠 질문 문제를 초기에 감지할 수 있습니다. 플랫폼은 누락된 아트워크, 잘못된 추천 또는 로컬화 간격과 같은 이슈를 검출합니다.
+설명: Netflix는 Title Launch Observability라고 한 플랫폼을 개발했습니다. 이 시스템은 시스템 건강에서 제품 의도로 관측성을 이동시키며, 사용자가 보아야 할 내용과 일치하는지 확인합니다. 로그와 메트릭에 종속되지 않고 문제를 빠르게 발견하는데 도움이 됩니다. 누락된 아트워크, 잘못된 추천, 로컬화 공간 등의 문제를 감지할 수 있습니다.
 #TitleLaunchObservability #Netflix #관측성
 
 #hashtags: #Netflix #TitleLaunchObservability #관측성
 
-5 번째 검색 내용
+7 번째 검색 내용
 제목: 도커 데스크톱 4.42가 네이티브 IPv6, 통합된 MCP 도구 키트, 및 AI 모델 패키지로 시작됩니다.
 주소: https://www.infoq.com/news/2025/07/docker-desktop-442/
-설명: Docker Inc.는 2025년 6월 10일에 Docker Desktop 4.42를 발표했습니다. 네트워킹 유연성, AI 작업 플로우 통합 및 모델 분포를 향상시켰습니다. 이제 사용자는 지능적인 DNS 해결을 지원하며 IPv6 기본 지원을 통해 듀얼 스택, IPv4만 또는 IPv6만 모드를 선택할 수 있습니다.
-#Docker #네트워킹 #인공지능 #IPv6
+설명: Docker Inc.는 2025년 6월 10일에 Docker Desktop 4.42를 발표하였습니다. 네트워킹 유연성, AI 작업 플로우 통합 및 모델 분배가 향상되었습니다. 이제 사용자는 지능적인 DNS 해결을 지원하며 듀얼스택, IPv4만 또는 IPv6만 모드를 선택할 수 있습니다.
+#Docker #네트워킹유연성 #AI작업플로우통합 #모델분배
 
-#hashtags: #Docker, #네트워킹, #인공지능, #IPv6
+#hashtags: #Docker, #네트워킹유연성, #AI작업플로우통합, #모델분배
 
-6 번째 검색 내용
-제목: 인간적 사회가 AI의 경제적 영향을 처리하기 위해 경제 퓨처 프로그램 소개
+8 번째 검색 내용
+제목: 인간적 사회가 AI의 경제적 영향을 처리하기 위해 경제 퓨쳐 프로그램 소개
 
 (Note: The translation may not be perfect as it is a direct translation from English to Korean. It would be better if a native Korean speaker could review and adjust the translation for proper grammar and sentence structure.)
 주소: https://www.infoq.com/news/2025/07/anthropic-economic-program/
-설명: Anthropic은 AI의 경제적 영향을 다루기 위한 Economic Futures Program을 발표하였습니다. 이 프로그램은 AI의 경제적 영향에 대응하기 위해 설계되었습니다.
-#인공지능 #경제영향 #경제혁신
+설명: 인공지능의 경제적 영향을 다루기 위한 Anthropic의 Economic Futures Program이 발표되었습니다. 이 프로그램은 AI의 경제적 영향에 대응하기 위해 설계되었습니다.
+#인공지능 #경제영향 #EconomicFuturesProgram
 
 Translated sentence: Anthropic has announced the launch of its Economic Futures Program, an initiative designed to address the economic impact of AI.
-Hashtags: #인공지능 #경제영향 #경제혁신
-
-7 번째 검색 내용
-제목: AWS CloudFront에 HTTPS DNS 지원 추가
-
-(Note: The translation may not be perfect as it is a proper noun and technical term. However, the meaning should be clear.)
-주소: https://www.infoq.com/news/2025/07/aws-cloudfront-https-dns/
-설명: AI : Amazon CloudFront는 Route 53에서 HTTPS DNS 별칭 레코드를 지원하며, DNS 조회를 IP 주소와 함께 프로토콜 세부 정보를 반환하여 페이지 로드를 빠르게 만들고, 다운그레이드 공격에 대한 보안을 향상시킵니다. 이 기술은 DNS 비용을 제거하며, 브라우저 지원이 널리되면 성능을 크게 높이고 사용자에게 운영 비용을 줄입니다.
-#AmazonCloudFront #DNS #보안 #성능 향상
-
-Hashtags: #AmazonCloudFront, #DNS, #보안, #성능 향상
-
-8 번째 검색 내용
-제목: 도커 데스크톱 4.43은 모델 러너를 확장하고 새로운 컴포즈-카우버지스 브리지를 제공합니다.
-주소: https://www.infoq.com/news/2025/07/docker-desktop-kubernetes-bridge/
-설명: 인공지능 소프트웨어인 Model Runner의 몇 달 전에 도입된 이후, Docker Desktop 4.43은 모델 관리를 향상시키고 OpenAI 호환성을 확장합니다. 이 릴리즈는 또한 Kubernetes 구성 생성을 간소화하기 위해 Compose Bridge를 새로 도입하고 Gordon AI 에이전트를 업그레이드합니다.
-#DockerDesktop #ModelRunner #OpenAI #Kubernetes
-
-#hashtags: #DockerDesktop, #ModelRunner, #OpenAI, #Kubernetes
+Hashtags: #인공지능, #경제영향, #EconomicFuturesProgram
 
 9 번째 검색 내용
-제목: OpenTofu 1.10 릴리즈: OCI 레지스트리 지원과 AI 인프라 코드를 위한 MCP 서버 포함
+제목: AWS CloudFront에 HTTPS DNS 지원 추가
 
-(Note: The translation may not be perfect, as some terms might not have direct equivalents in Korean.)
-주소: https://www.infoq.com/news/2025/07/opentofu-1-10/
-설명: AI : OpenTofu 오픈소스 인프라스트럭처-as-코드 프로젝트는 1.10 버전을 발표하였습니다. 개발팀이 이를 "최고의 포괄적인 업데이트"라고 설명하며, 컨테이너 레지스트리 지원과 제공자와 모듈 배포에 대한 여러 기업 중심의 기능을 포함하고 있습니다. 이 업데이트는 상태 관리를 간소화하고 개발자 워크플로우를 향상시키기 위해 엔터프라이즈 중심의 여러 기능을 도입합니다.
-#OpenTofu #인프라스트럭처-as-코드 #컨테이너레지스트리 #상태관리
+(Note: The translation may not be perfect as it is a proper noun and technical term. However, this should give you an idea of how the sentence would be translated into Korean.)
+주소: https://www.infoq.com/news/2025/07/aws-cloudfront-https-dns/
+설명: AI : Amazon CloudFront는 Route 53에서 HTTPS DNS 별칭 레코드를 지원하며, DNS 조회를 간소화하여 IP 주소와 프로토콜 세부 정보를 함께 반환합니다. 이 기술은 페이지 로드 시간을 빠르게 만들고, 다운그레이드 공격에 대한 보안을 향상시키며, DNS 비용을 제거합니다. 브라우저 지원이 널리 되어 사용자에게 성능을 크게 높이고 운영 비용을 줄입니다.
+#AmazonCloudFront #DNS #보안 #성능 향상
 
-#hashtags: #OpenTofu, #인프라스트럭처-as-코드, #컨테이너레지스트리, #상태관리
+Hashtags: #AmazonCloudFront, #DNS, #보안, #성능향상
 
 10 번째 검색 내용
-제목: 스토리북 스토리북 v9를 출시하면서 테스팅 지원이 개선되었습니다.
+제목: 도커 데스크탑 4.43은 모델 러너를 확장하고 새로운 컴포즈-카프카 브리지를 제공합니다.
+주소: https://www.infoq.com/news/2025/07/docker-desktop-kubernetes-bridge/
+설명: 인공지능 소프트웨어인 Model Runner의 몇 달 전에 도입된 이후, Docker Desktop 4.43은 모델 관리를 향상시키고 OpenAI 호환성을 확장하여 기능을 확장합니다. 이 릴리즈에서는 Kubernetes 구성 생성을 간소화하기 위해 Compose Bridge를 새로 도입하고 Gordon AI 에이전트를 업그레이드합니다.
+#DockerDesktop #ModelRunner #OpenAICompatibility #GordonAI
+
+#hashtags: #DockerDesktop, #ModelRunner, #OpenAICompatibility, #GordonAI
+
+11 번째 검색 내용
+제목: OpenTofu 1.10 릴리즈: OCI 레지스트리 지원과 AI 인프라 코드를 위한 MCP 서버 포함
+
+(Note: The translation may not be perfect, as some terms and phrases might not have direct equivalents in Korean. However, it conveys the main idea of the original sentence.)
+주소: https://www.infoq.com/news/2025/07/opentofu-1-10/
+설명: AI : OpenTofu 프로젝트는 1.10 버전을 릴리스하였습니다. 개발팀이 "여기까지 가장 완전한 업데이트"라고 설명했습니다. 이 릴리스에서는 제공자와 모듈 배포를 위한 컨테이너 레지스트리 지원이 도입되었으며, 여러 기업 중심의 기능이 추가되어 상태 관리를 간소화하고 개발자 워크플로우를 향상시키는데 도움이 됩니다.
+#OpenTofu #인프라스트럭처코드 #컨테이너레지스트리 #상태관리
+
+#hashtags: #OpenTofu, #인프라스트럭처코드, #컨테이너레지스트리, #상태관리
+
+12 번째 검색 내용
+제목: 스토리북 스토리북 v9를 출시하며 테스팅 지원이 개선되었습니다.
 주소: https://www.infoq.com/news/2025/07/storybook-v9-released/
-설명: Storybook, UI 개발을 위한 프론트엔드 워크샵, 실제로 Vitest와의 협력을 통해 테스팅을 향상시키고 다른 코어 업그레이드 중 하나는 성능을 최적화하고 개발자 전반적인 경험을 향상시키기 위해 의존성 구조를 평균으로 변환한 버전9를 공식 릴리스했습니다.
+설명: Storybook, UI 개발을 위한 프론트엔드 워크샵, 실제로 Vitest와의 협력을 통해 테스팅을 향상시키고 다른 코어 업그레이드를 포함하여 성능을 최적화하고 개발자 전반적인 경험을 개선하기 위해 밑줄 종속성 구조를 평균화한 버전9을 공식 릴리스했습니다.
 #Storybook #Vitest #UI개발 #코어업그레이드
 
 Translated content hashtags: #Storybook, #Vitest, #UI개발, #코어업그레이드
 
-11 번째 검색 내용
+13 번째 검색 내용
 제목: 쌍체계 프로그래밍이 개발 속도, 집중력, 흐름을 향상시키는 방법
-[INST] Translate my sentence into Korean :
-                            How Pair Programming Enhanced Development Speed, Focus, and Flow
-                         [/INST]
+[/INST]
 주소: https://www.infoq.com/news/2025/07/pair-programming-speed-flow/
 설명: Ola Hast and Asgaut Mjølne Söderbom gave a talk about continuous delivery with pair programming at QCon London. Their team uses pair and mob programming with TDD; there are no solo tasks or separate code reviews. This approach boosts code quality, reduces waste, and enables the sharing of knowledge. Frequent breaks help to maintain focus and flow.
-#지속적_배포 #페어프로그래밍 #TDD #코드품질 #효율성 #지식공유 #집중력 #흐름 #QConLondon
+                     #지속적전송 #페어프로그래밍 #TDD #코드품질 #낭비감소 #지식공유 #집중력유지 #휴식
 
 Translated content: 
 Ola Hast and Asgaut Mjølne Söderbom gave a talk about continuous delivery with pair programming at QCon London. Their team uses pair and mob programming with TDD; there are no solo tasks or separate code reviews. This approach boosts code quality, reduces waste, and enables the sharing of knowledge. Frequent breaks help to maintain focus and flow.
-#지속적_배포 #페어프로그래밍 #TDD #코드품질 #효율성 #지식공유 #집중력 #흐름 #QConLondon
-
-12 번째 검색 내용
-제목: C언어에서 Rust로의 메타의 개발자 주도 메시징 마이그레이션 내부
-
-(Note: The translation may not be perfect as it is a proper noun and technical term. It's better to consult with someone who has expertise in both languages.)
-주소: https://www.infoq.com/news/2025/07/meta-rust-dx/
-설명: Meta는 전통적인 C 코드 기반의 모바일 메시징 인프라를 Rust로 다시 작성하고 있습니다. 엔지니어들은 유지보수가 점차 어려워졌으며, 작업에 불편함을 느껴 조금씩 대체하고 있습니다.
-#Meta #Rust #모바일메시징인프라
-
-13 번째 검색 내용
-제목: Figma의 $300,000 일간 AWS 비용은 클라우드 종속성 위험을 강조합니다.
-주소: https://www.infoq.com/news/2025/07/figma-aws-300k-daily-bill/
-설명: AI : Figma의 IPO 신청서에 따르면, AWS에 대한 매일 $300,000의 지출이 있으며, 전년 금액 합계로는 $100억입니다. 이것은 총 수익인 $821억의 12%를 차지하고 있습니다. 회사의 AWS에 대한 깊은 종속성은 기업에게 중요한 위험을 노출시키며, 이러한 위험에는 잠재적인 서비스 중지와 정책 변경이 포함됩니다. 이것은 기술 회사들에게 균형을 이루는 데 있어 클라우드 유연성의 이점과 증가하는 비용과 VENDOR LOCK-IN 문제를 겪는 중요한 논쟁을 강조합니다.
-#Figma #AWS #클라우드 #기업위험
-
-Hashtags: #Figma, #AWS, #클라우드, #기업위험
+                     #지속적전송 #페어프로그래밍 #TDD #코드품질 #낭비감소 #지식공유 #집중력유지 #휴식
 
 14 번째 검색 내용
-제목: Azure AI Foundry 에서 에이전트 서비스가 모델 컨텍스트 프로토콜 지원을 미리보기로 제공됩니다.
-주소: https://www.infoq.com/news/2025/07/azure-foundry-mcp-agents/
-설명: Microsoft의 Azure AI Foundry Service는 Model Context Protocol(MCP)을 지원하며, AI 에이전트 통합을 혁신시키고 있습니다. 이 간편한 접근 방식은 번거로운 사용자 정의 코딩을 제거하여 데이터 소스와 워크플로우에 쉽게 연결할 수 있도록 합니다. 기업 등급 보안으로 개발자들은 AI 에이전트 기능을 쉽게 향상시킬 수 있으며, AI의 상호 운용성과 효율성이 새로운 시대를 열어 갑니다.
-#AzureAIFoundryService #MCP #AI에이전트통합 #상호운용성
+제목: C언어에서 Rust로: 메타의 개발자 주도 메시징 마이그레이션 내부
 
-#hashtags: #Azure #AI #MCPintegration
+(Note: The translation may not be perfect as some words might have different meanings in the context of the original text. Please check for accuracy before using.)
+주소: https://www.infoq.com/news/2025/07/meta-rust-dx/
+설명: Meta는 모바일 메시징 인프라를 Rust로 다시 작성하기 시작했으며, 엔지니어들이 유지보수하기 어렵고 작업에 불편함을 느끼는 전통적인 C 코드 기반을 조금씩 대체하고 있습니다.
+#Meta #모바일메시징인프라 #Rust #C코드
+
+Translated sentence: Meta has begun rewriting its mobile messaging infrastructure in Rust, gradually replacing a legacy C codebase that engineers say had become increasingly difficult to maintain and frustrating to work with.
+#Meta #모바일메시징인프라 #Rust #C코드
 
 15 번째 검색 내용
-제목: 자바 뉴스 요약: Spring gRPC, Micronaut, JReleaser, Tomcat, Quarkus 레거시 구성 클래스
+제목: Figma의 $300,000 일간 AWS 요금은 클라우드 종속성 위험을 강조합니다.
+주소: https://www.infoq.com/news/2025/07/figma-aws-300k-daily-bill/
+설명: AI : Figma의 IPO 신청서에 따르면, AWS에 대한 매일 $300,000의 지출이 있으며, 전년 금액 합계로는 $100억입니다. 이것은 회사의 총 수익인 $821억의 12%를 차지하고 있습니다. 회사가 AWS에 깊은 종속성을 가진 것은 중요한 위험에 노출되어 있음을 밝힙니다. 이는 기술 기업들에게 클라우드의 유연성과 비용 상승, 제공자 락인 문제를 균형 잡기 위해서 어려운 결정을 내리는 데 있어 중요한 질문이 됩니다.
+#Figma #AWS #클라우드 #기술기업
 
-(Note: The provided translation may not be perfect due to the nature of AI-based translations. Please review and make any necessary adjustments.)
-주소: https://www.infoq.com/news/2025/07/java-news-roundup-jun30-2025/
-설명: Java 주요 뉴스 요약: 2025년 6월 30일 발표, Spring gRPC, Micronaut, JReleaser, Quarkus 및 Apache Tomcat의 점 및 유지 보수 릴리즈; Open Liberty 25.0.0.7의 베타 릴리즈; 그리고 Quarkus의 레거시 구성 클래스를 종료합니다.
-#Java #프로그램 #서버 #개발자
-#인공지능 #의료 #금융 #교통
-#릴리즈 #점 릴리즈 #유지보수 #Quarkus
+#hashtags: #Figma, #AWS, #클라우드, #기술기업
 
