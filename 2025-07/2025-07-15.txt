@@ -1,114 +1,114 @@
 1 번째 검색 내용
-제목: 마이크로소프트는 애자일 AI 팩토리 에이전트 서비스에 깊은 연구 능력을 추가합니다.
+제목: 마이크로소프트는 에이지 인폴더리 에이전트 서비스에 깊은 연구 능력을 추가합니다.
 주소: https://www.infoq.com/news/2025/07/azure-ai-foundry-deep-research/
-설명: AI : 미кро소프트의 Azure AI Foundry Agent Service를 통해 연구의 미래를 열어보세요. 이 고급 AI 기능은 복잡한 분야에서 지식 작업자들을 강화하는  innovative tool인 Deep Research를 포함합니다. 이 기능은 web 데이터를 자동으로 분석하고 구성하며, 철저한 연구 작업을 자동화하면서도 추적성과 투명성을 보장합니다. 공개 미리 보기에 가입하세요!
-#AzureAIFoundryAgentService #DeepResearch #AIresearch
+설명: AI : 미кро소프트의 Azure AI Foundry Agent Service를 통해 연구의 미래를 열어보십시오. 이 고급 AI 기능은 복잡한 분야에서 지식 작업자들을 강화하는 새로운 도구인 Deep Research를 포함합니다. 이 기능은 웹 데이터를 자동으로 분석하고 구문 분석하며, 복잡한 연구 작업을 자동화하면서도 추적성과 투명성을 보장합니다. 공개 미리 보기에 가입하십시오!
+#AzureAIFoundryAgentService #인공지능 #연구 #미래
 
-Hashtags: #Microsoft #ArtificialIntelligence #DataAnalysis
+Hashtags: #AzureAIFoundryAgentService, #인공지능, #연구, #미래
 
 2 번째 검색 내용
 제목: 도커는 에이전트 개발을 위해 Compose를 확장하고, 클라우드 오프로드 지원을 연결합니다.
 주소: https://www.infoq.com/news/2025/07/docker-compose-agent-gpu-offload/
-설명: Docker는 개발자가 Docker Compose를 사용하여 에이전트를 정의, 빌드, 실행할 수 있도록 새로운 기능을 출시했습니다. 이 기능은 에이전트 개발 프로세스를 간소화하고 반복적인 작업을 줄이는 것이 목표입니다. 또한, Docker Offload(beta)는 모델을 원격 GPU 컴퓨팅에 순차적으로 전송하여 빌드 및 실행을 간편하게 처리할 수 있는 방법을 제공합니다.
-#Docker #에이전트개발 #GPU컴퓨팅
+설명: Docker는 개발자가 Docker Compose를 사용하여 에이전트를 정의, 빌드, 실행할 수 있도록 새로운 기능을 출시했습니다. 이 기능은 에이전트 개발 프로세스를 간소화하고 반복적인 작업을 줄이는 것이 목표입니다. 또한, Docker Offload(beta)는 모델을 원격 GPU 컴퓨팅에 순차적으로 전송하고 실행할 수 있도록 제공합니다.
+#Docker #GPUCompute #에이전트개발
 
-Hashtags: #Docker #에이전트개발 #GPU컴퓨팅
+#hashtags: #Docker, #GPUCompute, #AgentDevelopment
 
 3 번째 검색 내용
 제목: 자바 뉴스 요약: JobRunr 8, Gradle, Grails, Micronaut, JHipster, Tomcat CVE
 주소: https://www.infoq.com/news/2025/07/java-news-roundup-jul07-2025/
-설명: Java 주요 뉴스 요약: 2025년 7월 7일, JobRunr 8.0의 GA 출시; Gradle 9.0의 두 번째 리리스 캔디데이트; Grails 7.0의 다섯 번째 밀스톤 릴리즈; Micronaut와 JHipster Lite에 대한 포인트 릴리즈; 그리고 Apache Tomcat에 영향을 미치는 CVE가 있습니다.
-#Java #프로그래밍 #뉴스 #소프트웨어_개발
-#인공지능 #의료 #금융 #교통
-
-4 번째 검색 내용
-제목: Arm Scalable Matrix Extension 2가 Android에서 인공지능 처리를 빠르게 실행하기 위해 도입되고 있습니다.
-주소: https://www.infoq.com/news/2025/07/arm-sme2-android/
-설명: Armv9-A 아키텍처에서 사용 가능한 Arm Scalable Matrix Extension 2 (SME2)는 행렬 중심 계산을 빠르게 하기 위해 고급 CPU 명령 집합입니다. 새로운 Arm 기술은 모바일 개발자들이 향상된 성능과 효율성으로 AI 모델을 CPU에서 직접 실행할 수 있도록 도와주려고 합니다. 이를 위해 앱에 대한 변경 사항이 없어야 합니다.
-#Armv9-A #SME2 #모바일개발자 #AI모델
+설명: Java 주요 뉴스 요약: 2025년 7월 7일, JobRunr 8.0의 GA 릴리즈; Gradle 9.0의 두 번째 릴리즈 кан디데이트; Grails 7.0의 다섯 번째 amilestone 릴리즈; Micronaut와 JHipster Lite에 대한 포인트 릴리즈; 그리고 Apache Tomcat에 영향을 미치는 CVE가 있었습니다.
+#Java #RNW #프로그래밍_언어 #소프트웨어_개발
 
 #hashtags:
-1. #ArmTech
-2. #MobileDevelopment
-3. #AdvancedComputing
+1. #Java
+2. #RNW
+3. #프로그래밍_언어
+4. #소프트웨어_개발
+
+4 번째 검색 내용
+제목: Arm Scalable Matrix Extension 2가 Android에 도입되어 장치 내 AI 성능을 높이는 데 사용됩니다.
+주소: https://www.infoq.com/news/2025/07/arm-sme2-android/
+설명: Armv9-A 아키텍처에서 사용 가능한 Arm Scalable Matrix Extension 2 (SME2)는 행렬 중심 계산을 빠르게 하기 위해 고급 CPU 명령 집합입니다. 새로운 Arm 기술은 모바일 개발자들이 향상된 성능과 효율성을 제공하면서 AI 모델을 CPU에 직접 실행할 수 있도록 도와주고, 앱의 변경 없이도 가능합니다.
+#Armv9-A #SME2 #모바일개발자 #AI #성능향상 #효율적인계산
+
+Hashtags: #Armv9-A, #SME2, #모바일개발자, #AI, #성능향상, #효율적인계산
 
 5 번째 검색 내용
-제목: 보호자의 안전한 메시징: 오픈소스 메시지 사용자들의 수백만 앱 사용자를 트래픽 커버로 활용합니다.
+제목: 보호자의 안전한 메시지: 오픈소스 메시징은 수백만 앱 사용자를 트래픽 커버로 활용합니다.
 주소: https://www.infoq.com/news/2025/07/secure-messaging-coverdrop/
 설명: The Guardian has recently released Secure Messaging, a highly secure and user-friendly tool designed to protect journalistic sources by concealing the very fact that messaging is occurring. The open source project achieves strong plausible deniability by generating bait traffic through the routine activity of existing users of The Guardian's mobile app.
-#보안 #기자 #신뢰도
-
-Translated content: 
-The Guardian has recently released Secure Messaging, a highly secure and user-friendly tool designed to protect journalistic sources by concealing the very fact that messaging is occurring. The open source project achieves strong plausible deniability by generating bait traffic through the routine activity of existing users of The Guardian's mobile app.
-#보안 #기자 #신뢰도
+#인공지능 #의료 #금융 #교통
 
 6 번째 검색 내용
 제목: 마이크로소프트는 공개 미리 보기에서 Azure DevOps MCP 서버 출시
 
-(Note: The translation may not be perfect as it is a machine translation. Please check for accuracy before using.)
+(Microsoft launches Azure DevOps MCP Server in public preview)
 주소: https://www.infoq.com/news/2025/07/azure-devops-mcp-server/
-설명: Microsoft는 Azure DevOps Model Context Provider(MCP) Server를 공개 미리 보기로 발표하였습니다. 이 혁신적인 도구는 Visual Studio Code에서 자연어로 프로젝트 데이터를 쿼리하고 관리할 수 있게 합니다. GitHub Copilot과 Azure DevOps 간의 순조롭고 효율적인 상호작용을 가능하게 하며, 워크플로우를 단순화하고 생산성을 향상시키면서도 프로젝트 데이터가 안전하고 로컬에 남아 있는지 확인합니다.
-#AzureDevOps #MCPServer #GitHubCopilot #VSCode
+설명: Microsoft는 Azure DevOps Model Context Provider(MCP) Server를 공개 미리 보기로 발표하였습니다. 이 혁신적인 도구는 Visual Studio Code에서 자연어로 프로젝트 데이터를 쿼리하고 관리할 수 있게 합니다. GitHub Copilot과 Azure DevOps 간의 순조롭고 효율적인 상호작용을 가능하게 합니다. 이를 통해 개발자들은 워크플로우를 스트리밍하고 생산성을 향상시키면서도 프로젝트 데이터가 안전하고 로컬에 남아 있는지 확인할 수 있습니다.
+#AzureDevOps #GitHubCopilot #VSCode
 
-#hashtags: #AzureDevOps, #MCPServer, #GitHubCopilot, #VSCode
+#hashtags:
+1. #AzureDevOps - Azure DevOps와 관련된 해시태그입니다.
+2. #GitHubCopilot - GitHub Copilot에 대한 해시태그입니다.
+3. #VSCode - Visual Studio Code에 대한 해시태그입니다.
 
 7 번째 검색 내용
 제목: 내부에서 Netflix의 제목 출시 관찰성 시스템: 전 세계적인 규모에서 제목 사용 가능성 검증
 
 (Note: The translation may not be perfect as it is a technical term. Please check the meaning and context before using it.)
 주소: https://www.infoq.com/news/2025/07/netflix-title-observability/
-설명: Netflix는 Title Launch Observability라는 플랫폼을 개발했습니다. 이 플랫폼은 시스템 건강에서 제품 의도로 관찰성을 이동시키며, 사용자가 보아야 할 내용과 일치하는지 확인합니다. 이를 통해 콘텐츠 질문 문제를 초기에 발견할 수 있습니다. 이 플랫폼은 누락된 아트워크, 잘못된 추천, 또는 로컬화 간격과 같은 문제를 감지합니다.
-#TitleLaunchObservability #Netflix #관찰성 #콘텐츠질문 #로컬화
+설명: Netflix는 Title Launch Observability라고 하는 플랫폼을 개발했습니다. 이 시스템은 시스템 건강에서 제품 의도로 관측성을 이동시키며, 사용자가 보아야 할 내용과 일치하는지 확인합니다. 로그와 메트릭에 종속되지 않고 문제를 빠르게 발견합니다. 이 플랫폼은 누락된 아트워크, 잘못된 추천 또는 로컬화 간격과 같은 문제를 감지할 수 있습니다.
+#TitleLaunchObservability #Netflix #관측성
 
-#hashtags: #TitleLaunchObservability, #Netflix, #관찰성, #콘텐츠질문, #로컬화
+Hashtags: #Netflix #TitleLaunchObservability #관측성
 
 8 번째 검색 내용
-제목: 도커 데스크톱 4.42가 네이티브 IPv6, 통합된 MCP 도구 키트, 및 AI 모델 패키지를 시작합니다.
+제목: 도커 데스크톱 4.42가 네이티브 IPv6, 통합된 MCP 도구 키트, 및 AI 모델 패키지를 실행됩니다.
 주소: https://www.infoq.com/news/2025/07/docker-desktop-442/
-설명: Docker Inc.는 2025년 6월 10일에 Docker Desktop 4.42를 발표했습니다. 네트워킹 유연성, AI 작업 플로우 통합 및 모델 분배가 향상되었습니다. 이제 사용자는 지능적인 DNS 해결을 지원하며 IPv6를 기본 지원으로 선택할 수 있습니다. 사용자는 이제 듀얼 스택, IPv4만 또는 IPv6만 모드를 선택할 수 있습니다.
-#도커 #네트워킹 #인공지능 #DockerDesktop
+설명: Docker Inc.는 2025년 6월 10일에 Docker Desktop 4.42를 발표했습니다. 네트워킹 유연성, AI 작업 플로우 통합 및 모델 분배가 향상되었습니다. 이제 사용자는 지능적인 DNS 해결을 위한 두 스택, IPv4만 또는 IPv6만 모드를 선택할 수 있는 Native IPv6 지원을 받습니다.
+#Docker #네트워킹유연성 #AI작업플로우통합 #모델분배
 
-#hashtags: #도커네트워킹, #인공지능도커, #DockerDesktop4.42
+#hashtags: #Docker, #네트워킹유연성, #AI작업플로우통합, #모델분배
 
 9 번째 검색 내용
-제목: 인간적 사회를 고려한 경제 미래 프로그램 소개: AI의 경제적 영향에 대응하기 위해 인간적 사회를 고려한 경제 미래 프로그램을 소개합니다.
+제목: 인간적 사회가 AI의 경제적 영향을 처리하기 위해 경제 퓨쳐 프로그램 소개
+
+(Note: The translation may not be perfect as it is a direct translation from English to Korean. It would be better if a native Korean speaker could review and adjust the sentence structure for natural flow in Korean.)
 주소: https://www.infoq.com/news/2025/07/anthropic-economic-program/
-설명: Anthropic은 AI의 경제적 영향을 다루기 위한 Economic Futures Program을 발표하였습니다. 이 프로그램은 AI의 경제적 영향에 대응하기 위해 설계되었습니다.
-#인공지능 #경제영향 #경제혁신
+설명: 인공지능의 경제적 영향을 다루기 위한 Anthropic의 Economic Futures Program이 발표되었습니다. 이 프로그램은 AI의 경제적 영향에 대응하기 위해 설계되었습니다.
+#인공지능 #경제적영향 #EconomicFuturesProgram
 
 Translated sentence: Anthropic has announced the launch of its Economic Futures Program, an initiative designed to address the economic impact of AI.
-Hashtags: #인공지능, #경제영향, #경제혁신
+Hashtags: #인공지능, #경제적영향, #EconomicFuturesProgram
 
 10 번째 검색 내용
 제목: AWS CloudFront에 HTTPS DNS 지원 추가
 
 (Note: The translation may not be perfect as it is a proper noun and technical term. However, the meaning should be clear.)
 주소: https://www.infoq.com/news/2025/07/aws-cloudfront-https-dns/
-설명: AI : Amazon CloudFront는 Route 53에서 HTTPS DNS 별칭 레코드를 지원하며, DNS 조회를 간소화하여 IP 주소와 프로토콜 세부 정보를 함께 반환합니다. 이 기술은 페이지 로드 시간을 빠르게 만들고, 다운그레이드 공격에 대한 보안을 향상시키며, DNS 비용을 제거합니다. 브라우저 지원이 널리 되어 사용자에게 성능을 크게 높이고 운영 비용을 줄입니다.
+설명: AI : Amazon CloudFront는 Route 53에서 HTTPS DNS 별칭 레코드를 지원하며, DNS 조회를 IP 주소와 함께 프로토콜 세부 정보를 반환하여 성능을 향상시킵니다. 이 기술은 페이지 로드 속도를 높이고, 다운그레이드 공격에 대한 보안을 강화하며, DNS 비용을 제거합니다. 브라우저 지원이 널리 되어 사용자에게 성능을 크게 향상시키고 운영 비용을 줄입니다.
 #AmazonCloudFront #DNS #보안 #성능 향상
 
-Hashtags: #AmazonCloudFront, #DNS, #보안, #성능 향상
+#hashtags: #AmazonCloudFront, #DNS, #보안, #성능 향상
 
 11 번째 검색 내용
 제목: OpenTofu 1.10 릴리즈: OCI 레지스트리 지원과 AI 인프라 코드를 위한 MCP 서버 포함
 
-[INST] OpenTofu 1.10이 발표되었습니다. 이 릴리즈에는 OCI 레지스트리 지원과 AI 인프라 코드를 위한 MCP 서버가 포함되어 있습니다. [/INST]
+(Note: The translation may not be perfect, as some terms and phrases might not have direct equivalents in Korean.)
 주소: https://www.infoq.com/news/2025/07/opentofu-1-10/
-설명: AI : OpenTofu 오픈소스 인프라스트럭처-as-코드 프로젝트는 1.10 버전을 발표했습니다. 개발팀이 "이번에 제공하는 가장 광범위한 업데이트"라고 설명했습니다. 이 업데이트는 컨테이너 레지스트리 지원을 프로바이더와 모듈 배포에 함께 추가하며, 여러 엔터프라이즈 중심의 기능을 도입했습니다. 이들은 상태 관리를 간소화하고 개발자 워크플로우를 향상시키는 데 집중합니다.
-#OpenTofu #인프라스트럭처-as-코드 #컨테이너레지스트리 #엔터프라이즈
+설명: AI : OpenTofu 프로젝트는 1.10 버전을 릴리스하며, 개발팀이 "여기까지가 가장 광범위한 업데이트"라고 설명합니다. 이 릴리스는 컨테이너 레지스트리 지원을 프로바이더와 모듈 배포에 함께 추가하며, 여러 기업 중심의 기능을 도입하여 상태 관리를 간소화하고 개발자 워크플로우를 향상시킵니다.
+#OpenTofu #인프라앤코드 #컨테이너레지스트리 #상태관리
 
-#hashtags: #OpenTofu, #인프라스트럭처-as-코드, #컨테이너레지스트리, #엔터프라이즈
+#hashtags: #인프라앤코드, #컨테이너레지스트리, #상태관리
 
 12 번째 검색 내용
-제목: 도커 데스크톱 4.43은 모델 러너를 확장하고 새로운 컴포즈-쿠버네티스 브리지를 제공합니다.
+제목: Docker 데스크탑 4.43은 모델 러너를 확장하고 새로운 컴포즈-카우버지 브리지를 제공합니다.
 주소: https://www.infoq.com/news/2025/07/docker-desktop-kubernetes-bridge/
-설명: 인공지능 소프트웨어인 Model Runner의 몇 달 전에 도입된 후, Docker Desktop 4.43은 모델 관리를 향상시키고 OpenAI 호환성을 확장합니다. 이 릴리즈는 또한 Kubernetes 구성 생성을 간소화하기 위해 Compose Bridge를 새로 도입하고 Gordon AI 에이전트를 업그레이드합니다.
-#DockerDesktop #ModelRunner #OpenAICompatibility #KubernetesConfiguration
+설명: 인공지능 소프트웨어인 Model Runner의 몇 달 전에 도입된 이후, Docker Desktop 4.43은 모델 관리를 향상시키고 OpenAI 호환성을 확장합니다. 이 릴리스는 또한 Kubernetes 구성 생성을 간소화하기 위해 Compose Bridge를 새로 도입하고 Gordon AI 에이전트를 업그레이드합니다.
+#DockerDesktop #ModelRunner #OpenAI #Kubernetes
 
-#hashtags:
-1. #DockerDesktop : Docker Desktop 4.43의 새로운 기능과 개선점에 대한 해시태그입니다.
-2. #ModelRunner : Model Runner의 도입 및 이와 관련된 내용에 대한 해시태그입니다.
-3. #OpenAICompatibility : OpenAI와의 호환성 향상과 관련된 해시태그입니다.
+#hashtags: #DockerDesktop, #ModelRunner, #OpenAI, #Kubernetes
 
 13 번째 검색 내용
 제목: 스토리북 스토리북 v9를 출시하면서 테스팅 지원이 개선되었습니다.
@@ -120,20 +120,24 @@ Hashtags: #Storybook, #UI개발, #테스팅, #성능최적화
 
 14 번째 검색 내용
 제목: 쌍체계 프로그래밍이 개발 속도, 집중력, 흐름을 향상시키는 방법
-
-(Note: The translation may not be perfect as it is a direct translation. In Korean, the sentence structure might be rearranged for better readability.)
+[INST] Translate my sentence into Korean :
+                            How Pair Programming Enhanced Development Speed, Focus, and Flow
+                         [/INST]
 주소: https://www.infoq.com/news/2025/07/pair-programming-speed-flow/
 설명: Ola Hast and Asgaut Mjølne Söderbom gave a talk about continuous delivery with pair programming at QCon London. Their team uses pair and mob programming with TDD; there are no solo tasks or separate code reviews. This approach boosts code quality, reduces waste, and enables the sharing of knowledge. Frequent breaks help to maintain focus and flow.
-                     #지속적_배포 #페어_프로그래밍 #TDD #코드_품질 #낭비_감소 #지식의_공유 #집중력 유지 #휴식
+                     #지속적_배포 #페어_프로그래밍 #TDD #QCon_Londan
 
-Translated content: Ola Hast and Asgaut Mjølne Söderbom gave a talk about continuous delivery with pair programming at QCon London. Their team uses pair and mob programming with TDD; there are no solo tasks or separate code reviews. This approach boosts code quality, reduces waste, and enables the sharing of knowledge. Frequent breaks help to maintain focus and flow.
-#지속적_배포 #페어_프로그래밍 #TDD #코드_품질 #낭비_감소 #지식의_공유 #집중력 유지 #휴식
+Translated sentence: 
+Ola Hast와 Asgaut Mjølne Söderbom은 QCon London에서 페어 프로그래밍을 통한 지속적 배포에 대해 발표했습니다. 팀은 TDD를 사용하며, 솔로 작업이나 별도의 코드 리뷰가 없습니다. 이 접근 방식은 코드 질량을 높이고, 잉여를 줄이며, 지식 공유를 허용합니다. 주기적인 休息가 집중력과 흐름을 유지하는데 도움이 됩니다.
+#지속적_배포 #페어_프로그래밍 #TDD #QCon_Londan
+
+Hashtags: #지속적_배포, #페어_프로그래밍, #TDD, #QCon_Londan
 
 15 번째 검색 내용
 제목: C에서 Rust로: 메타의 개발자 주도 메시징 마이그레이션 내부
 
-(Note: The Korean translation may not be perfect as it is a direct translation of the English sentence. It would be better to have it reviewed by a native Korean speaker for accuracy.)
+(Note: The translation may not be perfect as it is a proper noun and technical term. Please confirm the accuracy with a professional translator if necessary.)
 주소: https://www.infoq.com/news/2025/07/meta-rust-dx/
-설명: Meta는 전통적인 C 코드 기반의 모바일 메시징 인프라를 Rust로 다시 작성하고 있으며, 엔지니어들은 유지보수가 점차 어려워졌고 작업에 불편함을 느껴왔기 때문입니다.
+설명: Meta는 전통적인 C 코드 기반의 모바일 메시징 인프라를 Rust로 다시 작성하고 있습니다. 엔지니어들은 유지보수가 점차 어렵고 작업에 불편함을 느끼는 것으로 나타났습니다.
 #Meta #Rust #모바일메시징인프라
 
