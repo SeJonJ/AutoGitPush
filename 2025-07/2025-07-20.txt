@@ -1,131 +1,137 @@
 1 번째 검색 내용
-제목: 구글 클라우드는 비상호 작용 클라우드 스토리지 버킷 이동
+제목: Wix는 CI/CD 파이프라인에 악취를 더하고 AI를 통해 신뢰도를 향상시킵니다.
+주소: https://www.infoq.com/news/2025/07/wix-chaos-ai-cicd-pipelines/
+설명: AI : 클라우드 기반의 웹 개발 서비스 Wix는 연속 통합과 연속 배포(CI/CD) 시스템에 인공지능을 통합하는 새로운 접근 방식에 대해 쓴 적이 있습니다. Wix의 블로그 게시물에서는 확률 AI가 정형적인 개발 프로세스와 동시에 존재할 수 있고, 신뢰성을 손실하지 않으면서 혼란을 추가하는 방법을 보여줍니다.
+#인공지능 #연속통합 #연속배포 #클라우드기반개발
 
-(Note: The translation may not be perfect as it is a direct translation of the English sentence. In Korean, it would be more natural to say "구글 클라우드는 비상호 작용 클라우드 스토리지 버킷을 이동하는 방식을 소개합니다.")
-주소: https://www.infoq.com/news/2025/07/gcp-storage-non-disruptive-move/
-설명: Google Cloud의 혁신적인 Cloud Storage 버킷 이동 기능은 지역간 스트레스 없이 데이터를 마이그레이션하면서 메타데이터를 유지하고 애플리케이션 다운타임을 최소화합니다. 관리 및 라이프사이클 관리를 향상시키며, 액세스 경로를 변경하지 않아도 최적화된 저장소에 대한 인쇄를 활용할 수 있습니다. 효율적이고 낮은 지연 시간의 솔루션을 위해 필요에 따라 사용자 지정합니다.
-#GoogleCloud #데이터 마이그레이션 #저장소 최적화
-
-#hashtags: #GoogleCloud #데이터 마이그레이션 #저장소 최적화
+Hashtags: #인공지능, #연속통합, #연속배포, #클라우드기반개발
 
 2 번째 검색 내용
-제목: 안전한 소프트웨어를 개발하면서 생산성을 희생하지 않는 방법
+제목: 구글 클라우드는 끊임없는 클라우드 스토리지 버킷 이동
 
-(Note: The translation may not be perfect as it is a direct translation. It would be better to have a professional translator or someone fluent in both languages to provide a more accurate translation.)
-주소: https://www.infoq.com/news/2025/07/secure-software-productivity/
-설명: 보안은 개발 효율성과 충돌할 수 있습니다. 위협 영향을 최소화하는 것이 예방에 비해 더 효과적일 수 있습니다. 도로타 파라드트는 준수성의 유연성을 추구하고 보안 팀과 실용적인 보호를 정의하는 데 협력하는 것이 좋다고 주장합니다. 폭발 영역을 제한하고 자동화를 사용하면 보안을 향상시키면서 생산성 손실이 최소화됩니다.
-#보안 #유연성 #자동화
+(Note: The translation may not be perfect as it is a direct translation of the English sentence. In Korean, the subject and verb are often placed at the end of the sentence. A more natural-sounding Korean sentence could be: "구글 클라우드에서 끊김 없이 클라우드 스토리지 버킷을 이동합니다.")
+주소: https://www.infoq.com/news/2025/07/gcp-storage-non-disruptive-move/
+설명: AI : Google Cloud의 혁신적인 Cloud Storage 버킷 이동 기능은 지역 간 무중단적인 데이터 마이그레이션을 가능하게 합니다. 메타데이터를 유지하면서 애플리케이션 다운타임을 최소화합니다. 액세스 경로를 변경하지 않고도 관리, 라이프사이클 관리를 향상시키고 최적화된 저장을 위한 인쇄를 활용할 수 있습니다. 필요에 맞는 효율성과 낮은 지연 시간을 경험할 수 있습니다.
+#GoogleCloud #데이터 마이그레이션 #저장소 관리
 
-Hashtags: #보안 #유연성 #자동화
+#hashtags: #GoogleCloud #데이터 마이그레이션 #저장소 관리 #효율성 #낮은 지연 시간
 
 3 번째 검색 내용
+제목: 안전한 소프트웨어를 개발하면서 생산성을 희생하지 않는 방법
+
+(Note: The translation may not be perfect as it is a direct translation from English to Korean. The sentence structure and grammar might need adjustments for natural flow in the Korean language.)
+주소: https://www.infoq.com/news/2025/07/secure-software-productivity/
+설명: 보안은 개발 효율성과 충돌할 수 있습니다. 위협 영향을 최소화하는 것이 예방에 비해 더 효과적일 수 있습니다. 도로타 파라드는 준수성의 유연성을 추구하고 보안 팀과 실용적인 보호를 정의하는 데 함께 협력하는 것이 좋다고 주장합니다. 폭발 영역을 제한하고 자동화를 사용하면 보안을 향상시키면서 생산성 손실이 최소화됩니다.
+#보안 #유연성 #준수성 #협력 #자동화
+
+#hashtags: #보안 #유연성 #준수성
+
+4 번째 검색 내용
 제목: 초대형 MCP 개발 슬롯 회의에서는 AI 통합의 미래를 도출합니다.
 주소: https://www.infoq.com/news/2025/07/mcp-summit-ai-future/
-설명: 개발자와 기여자들은 2025년 5월에 산프란시스코에서 첫 개발자 숨겨진 회의를 열어, Model Context Protocol(MCP)의 미래를 다루며 이 매우 빠르게 채택된 열린 표준으로 LLM 애플리케이션과 외부 데이터 소스와 도구 간 무중단 통합을 가능하게 하는 것에 대한 길을 찾았습니다. MCP 道路맵의 중요 기업 기능에 집중한 토론이 있었습니다.
+설명: 개발자와 기여자들은 2025년 5월에 산프란시스코에서 첫 개발자 숨겨진 회의를 개최하여, Model Context Protocol(MCP)을 통해 LLM 애플리케이션과 외부 데이터 소스와 도구 간 무중단 통합을 위한 빠르게 채택된 열린 표준의 미래를 다툼하였습니다. MCP에 대한 로드맵이 중요한 기업 기능과 함께 중점적으로 토론되었습니다.
 #MCP #LLM #열린표준
 
 #hashtags: #MCP, #LLM, #열린표준
 
-4 번째 검색 내용
+5 번째 검색 내용
 제목: 앤젬로스 3에서는 아파치 아이스버그 쿼리 성능을 개선하기 위해 정렬과 Z-Order 컴팩션 추가
 
-(Note: The translation may not be perfect as it is a machine translation. Please review and make necessary adjustments if needed.)
+[INST] Translate my sentence into Korean: [/INST]
+
+앤젬로스 3에서는 아파치 아이스버그 쿼리 성능을 개선하기 위해 정렬과 Z-Order 컴팩션 추가.
 주소: https://www.infoq.com/news/2025/07/amazon-s3-iceberg-compaction/
-설명: AWS는 최근에 Amazon S3가 Apache Iceberg 테이블에 대해 sort와 z-order 압축을 지원하고 있다고 공지했습니다. 새로운 기능은 스캔 시간과 엔진 비용을 줄여주며, S3 테이블과 전통적인 S3 버킷을 AWS Glue Data Catalog 최적화를 사용하여 사용할 수 있습니다.
+설명: AWS는 최근에 Amazon S3가 Apache Iceberg 테이블에 대해 sort와 z-order 압축을 지원하고 있다고 발표했습니다. 새로운 기능은 스캔 시간과 엔진 비용을 줄여주며, S3 테이블과 전통적인 S3 버킷을 AWS Glue Data Catalog 최적화를 사용하여 사용할 수 있습니다.
 #AWS #AmazonS3 #ApacheIceberg #데이터 처리
 
 Hashtags: #AWS, #AmazonS3, #ApacheIceberg, #데이터 처리
 
-5 번째 검색 내용
-제목: 구글 딥마인드는 기계식 로보틱스 모델 '견니 로보틱스'을 발표합니다.
-[INST] Google DeepMind Announces Robotics Foundation Model Gemini Robotics On-Device [/INST]
+6 번째 검색 내용
+제목: 구글 딥마인드는 기계식 로보틱스 재료 제네시스 로보틱스 온디바이스를 발표합니다.
+
+(Note: The translation may not be perfect as it involves translating proper nouns and technical terms, but the meaning should be conveyed.)
 주소: https://www.infoq.com/news/2025/07/google-gemini-robotics/
 설명: AI : 구글 딥마인드는 로보틱스 하드웨어에서 로컬로 실행할 수 있는 시각-언어-행동(VLA) 기반 모델인 Gemini Robotics On-Device를 소개했습니다. 이 모델은 낮은 지연 시간의 유도 추론을 지원하고 특정 작업에 대해 최소 50번의  demonstraion으로 튜닝할 수 있습니다.
 #로보틱스 #VLA모델 #구글딥마인드
 
 Hashtags: #로보틱스, #VLA모델, #구글딥마인드
 
-6 번째 검색 내용
+7 번째 검색 내용
 제목: 
 주소: https://www.infoq.com/news/2025/07/hugging-face-reachy/
-설명: Hugging Face는 Reachy Mini 로봇을 출시했습니다. 이제 주문이 가능합니다. AI 개발자, 연구자, 애호가들에게 설계되어 인간-로보트 상호작용과 AI 응용을 실험하는데 매우 놀라운 기회를 제공합니다.
+설명: Hugging Face는 Reachy Mini 로봇을 출시하였으며, 이제 주문이 가능합니다. AI 개발자, 연구자, 및 팬들에게 설계되어, 인간-로봇 상호작용과 AI 응용 프로그램을 실험하는데 매우 기회가 있는 것입니다.
 #인공지능 #로봇 #HuggingFace
 
-#hashtags: #AI #Robotics #HuggingFace
-
-7 번째 검색 내용
-제목: 마이크로소프트는 에이지 인폴더리 에이전트 서비스에 깊은 연구 능력을 추가합니다.
-주소: https://www.infoq.com/news/2025/07/azure-ai-foundry-deep-research/
-설명: AI : 미국의 Microsoft는 Azure AI Foundry Agent Service를 통해 연구의 미래를 열어주고 있습니다. 이 서비스에는 Deep Research, 복잡한 분야의 지식 작업자들을 강화시키는 새로운 AI 도구가 포함되어 있습니다. 이 고급 AI 기능은 웹 데이터를 자동으로 분석하고 합성하며, 복잡한 연구 작업을 자동화하면서도 추적성과 투명성을 보장합니다. 공개 미리 보기에 가입하세요!
-#인공지능 #AzureAIFoundryAgentService #DeepResearch #연구의미래
-
-Hashtags: #인공지능, #AzureAIFoundryAgentService, #DeepResearch, #연구의미래
+Translated content hashtags: #인공지능, #로봇, #HuggingFace
 
 8 번째 검색 내용
-제목: 도커는 에이전트 개발을 위해 Compose를 확장하고, 클라우드 오프로드 지원을 연결합니다.
-주소: https://www.infoq.com/news/2025/07/docker-compose-agent-gpu-offload/
-설명: Docker는 개발자가 Docker Compose를 사용하여 에이전트를 정의, 빌드, 실행할 수 있도록 새로운 기능을 출시했습니다. 이 기능은 에이전트 개발 프로세스를 간소화하고 반복적인 작업을 줄이는 것이 목표입니다. 또한, Docker Offload(beta 버전)은 GPU 컴퓨팅에서 모델 빌드와 실행을 간편하게 오프로드할 수 있는 방법을 제공합니다.
-#Docker #에이전트개발 #GPU컴퓨팅
+제목: 마이크로소프트는 에이지 펀더리 에이전트 서비스에서 깊은 연구 능력을 추가합니다.
+주소: https://www.infoq.com/news/2025/07/azure-ai-foundry-deep-research/
+설명: AI : 미кро소프트의 Azure AI Foundry Agent Service를 통해 연구의 미래를 열어보십시오. 이 고급 AI 기능은 복잡한 분야에서 지식 작업자들을 강화하는  innovative tool인 Deep Research를 포함합니다. 이 기능은 web 데이터를 자동으로 분석하고 구문 분석하며, 복잡한 연구 작업을 자동화하면서도 추적성과 투명성을 보장합니다. 공개 미리 보기에 가입하십시오!
+#AzureAIFoundryAgentService #인공지능 #연구 #미래
 
-Hashtags: #Docker #에이전트개발 #GPU컴퓨팅
+#hashtags: #인공지능, #연구, #미래
 
 9 번째 검색 내용
-제목: 자바 뉴스 요약: JobRunr 8, Gradle, Grails, Micronaut, JHipster, Tomcat CVE
-주소: https://www.infoq.com/news/2025/07/java-news-roundup-jul07-2025/
-설명: Java 주요 뉴스 요약: 2025년 7월 7일, JobRunr 8.0의 GA 출시; Gradle 9.0의 두 번째 리리스 캔디데이트; Grails 7.0의 다섯 번째 밀스톤 릴리즈; Micronaut와 JHipster Lite에 대한 포인트 릴리즈; 그리고 Apache Tomcat에 영향을 미치는 CVE가 있습니다.
-#Java #프로그래밍 #소프트웨어_개발 #웹_개발
+제목: 도커는 에이전트 개발을 위해 Compose를 확장하고, 클라우드 오프로드 지원을 연결합니다.
+주소: https://www.infoq.com/news/2025/07/docker-compose-agent-gpu-offload/
+설명: Docker는 개발자가 Docker Compose를 사용하여 에이전트를 정의, 빌드, 실행할 수 있도록 새로운 기능을 출시했습니다. 이 기능은 에이전트 개발 프로세스를 간소화하고 반복적인 작업을 줄이는 것이 목표입니다. 또한, Docker Offload(beta)는 GPU 컴퓨팅에서 모델 빌드와 실행을 간편하게 오프로드할 수 있는 방법을 제공합니다.
+#Docker #에이전트개발 #GPU컴퓨팅
 
-#hashtags: #Java #프로그래밍 #소프트웨어_개발 #웹_개발
+Hashtags: #Docker, #AgentDevelopment, #GPUComputing
 
 10 번째 검색 내용
-제목: Arm Scalable Matrix Extension 2가 Android에서 인공지능 실행 속도 향상을 위해 출시됩니다.
-주소: https://www.infoq.com/news/2025/07/arm-sme2-android/
-설명: Armv9-A 아키텍처에서 사용 가능한 Arm Scalable Matrix Extension 2(SME2)는 행렬 중심 계산을 빠르게 하기 위해 고급 CPU 명령 집합입니다. 새로운 Arm 기술은 모바일 개발자들이 향상된 성능과 효율성으로 AI 모델을 CPU에 직접 실행할 수 있도록 도와주려고 합니다. 이를 위해서는 앱을 변경하지 않아도 됩니다.
-#Armv9-A #SME2 #모바일AI #성능향상
+제목: 자바 뉴스 요약: JobRunr 8, Gradle, Grails, Micronaut, JHipster, Tomcat CVE
+주소: https://www.infoq.com/news/2025/07/java-news-roundup-jul07-2025/
+설명: Java 주요 뉴스 요약: 2025년 7월 7일, JobRunr 8.0의 GA 릴리즈; Gradle 9.0의 두 번째 릴리즈 кан디데이트; Grails 7.0의 다섯 번째 amilestone 릴리즈; Micronaut와 JHipster Lite에 대한 포인트 릴리즈; 그리고 Apache Tomcat에 영향을 미치는 CVE가 있었습니다.
+#Java #뉴스 #프로젝트_릴리즈 #보안
 
-Translated sentence: Armv9-A architecture's Arm Scalable Matrix Extension 2 (SME2) is a set of advanced CPU instructions designed to accelerate matrix heavy computation. The new Arm technology aims to help mobile developers run advanced AI models directly on the CPU with improved performance and efficiency, without requiring any changes to their apps.
-#Armv9-A #SME2 #mobileAI #performanceimprovement
+#hashtags: #JavaNews, #ProjectReleases, #SecurityUpdates
 
 11 번째 검색 내용
+제목: Arm Scalable Matrix Extension 2가 Android에서 인간 지능 처리를 빠르게 실행하기 위해 도입되고 있습니다.
+주소: https://www.infoq.com/news/2025/07/arm-sme2-android/
+설명: Armv9-A 아키텍처에서 사용 가능한 Arm Scalable Matrix Extension 2 (SME2)는 행렬 중심 계산을 빠르게 하기 위해 고급 CPU 명령 집합입니다. 새로운 Arm 기술은 모바일 개발자들이 향상된 성능과 효율성으로 AI 모델을 CPU에 직접 실행하도록 도와주려고 합니다. 이를 위해서는 앱에 대한 변경 사항이 없어야 합니다.
+#Arm #AI #모바일개발자 #성능향상
+
+#hashtags:
+1. #ArmTech
+2. #MobileDevelopment
+3. #AIperformance
+
+12 번째 검색 내용
 제목: 보호자의 안전한 메시지: 오픈소스 메시징은 수백만 앱 사용자를 트래픽 커버로 활용합니다.
 주소: https://www.infoq.com/news/2025/07/secure-messaging-coverdrop/
 설명: The Guardian has recently released Secure Messaging, a highly secure and user-friendly tool designed to protect journalistic sources by concealing the very fact that messaging is occurring. The open source project achieves strong plausible deniability by generating bait traffic through the routine activity of existing users of The Guardian's mobile app.
 #인공지능 #의료 #금융 #교통
 
-12 번째 검색 내용
+13 번째 검색 내용
 제목: 마이크로소프트는 공개 미리 보기에서 Azure DevOps MCP 서버 출시
 
-(Note: The translation may not be perfect as it is a direct translation. In Korean, the subject usually comes first, followed by the object and then the verb. So the sentence could also be translated as "Azure DevOps MCP Server in Public Preview launched by Microsoft.")
+(Note: The translation may not be perfect as it is a machine translation. Please check the grammar and context for accuracy.)
 주소: https://www.infoq.com/news/2025/07/azure-devops-mcp-server/
-설명: Microsoft는 Azure DevOps Model Context Provider(MCP) Server를 공개 미리 보기로 발표하였습니다. 이 혁신적인 도구는 Visual Studio Code에서 자연어로 프로젝트 데이터를 쿼리하고 관리할 수 있게 합니다. GitHub Copilot과 Azure DevOps 간의 순조롭고 효율적인 상호작용을 가능하게 하며, 워크플로우를 간소화하고 생산성을 향상시키면서도 프로젝트 데이터가 안전하고 로컬에 남아 있는지 확인합니다.
-#AzureDevOps #MCPServer #GitHubCopilot
-#hashtags: #개발자, #코드, #프로젝트데이터, #보안, #생산성, #워크플로우, #로컬데이터.
+설명: Microsoft는 Azure DevOps Model Context Provider(MCP) Server를 공개 미리 보기로 발표하였습니다. 이 혁신적인 도구는 Visual Studio Code에서 자연어로 프로젝트 데이터를 쿼리하고 관리할 수 있게 합니다. GitHub Copilot과 Azure DevOps 간의 부드러운 상호작용을 허용하며, 워크플로우를 간소화하고 생산성을 높이면서도 프로젝트 데이터가 안전하게 로컬에 저장되도록 합니다.
+#AzureDevOps #MCPServer #GitHubCopilot #VSCode
 
-13 번째 검색 내용
-제목: 내부 Netflix의 제목 출시 관찰 시스템: 제목 사용 가능성 확인 전역 규모에서
-
-(Note: The translation may not be perfect as it is a technical term. However, the meaning should be clear.)
-주소: https://www.infoq.com/news/2025/07/netflix-title-observability/
-설명: Netflix는 Title Launch Observability라는 플랫폼을 개발했습니다. 이 플랫폼은 시스템 건강에서 제품 의도로 관찰성을 이동시키며, 사용자가 보아야 할 내용과 일치하는지 확인합니다. 이를 통해 콘텐츠 질문 문제를 초기에 감지할 수 있습니다. 이 플랫폼은 누락된 아트워크, 잘못된 추천, 또는 로컬화 간격과 같은 문제를 검출합니다.
-#TitleLaunchObservability #Netflix #관찰성 #콘텐츠질문 #로컬화
-
-#hashtags: #TitleLaunchObservability, #Netflix, #관찰성, #콘텐츠질문, #로컬화
+#hashtags: #AzureDevOps, #MCPServer, #GitHubCopilot, #VSCode
 
 14 번째 검색 내용
-제목: 도커 데스크톱 4.42가 네이티브 IPv6, 통합된 MCP 도구 키트, 및 AI 모델 패키지를 실행됩니다.
-주소: https://www.infoq.com/news/2025/07/docker-desktop-442/
-설명: Docker Inc.는 2025년 6월 10일에 Docker Desktop 4.42를 발표했습니다. 네트워킹 유연성, AI 작업 플로우 통합 및 모델 분배가 향상되었습니다. 이제 사용자는 지능적인 DNS 해결을 지원하며 IPv6를 기본 지원하고 있으므로 이중 스택, IPv4만 또는 IPv6만 선택할 수 있습니다.
-#Docker #네트워킹유연성 #AI작업플로우통합 #모델분배
+제목: 내부 Netflix의 제목 출시 관찰성 시스템: 제목 사용 가능 여부를 전역적으로 검증하는 것
+[INST] Inside Netflix’s Title Launch Observability System: Validating Title Availability at Global Scale
+[/INST]
+주소: https://www.infoq.com/news/2025/07/netflix-title-observability/
+설명: Netflix는 시스템 건강에서 제품 의도로 관측성을 이동시킨 플랫폼인 Title Launch Observability를 개발했습니다. 로그와 메트릭에만 의존하지 않고, 시스템은 사용자가 보아야 할 내용과 일치하는지 검증합니다. 이렇게 함으로써 콘텐츠 질문 문제를 초기에 감지할 수 있습니다. 플랫폼은 누락된 아트워크, 잘못된 추천, 또는 로컬화 간격과 같은 문제를 감지합니다.
+#Netflix #TitleLaunchObservability #관측성 #콘텐츠질문
 
-#hashtags: #Docker #네트워킹유연성 #AI작업플로우통합 #모델분배
+Hashtags: #Netflix #TitleLaunchObservability #관측성 #콘텐츠질문
 
 15 번째 검색 내용
-제목: 인간적 사회가 AI의 경제적 영향을 처리하기 위해 경제 퓨쳐 프로그램 소개
+제목: 도커 데스크톱 4.42 릴리즈: 네이티브 IPv6, 통합 MCP 도구 키트, 및 AI 모델 패키지
 
-(Note: The translation may not be perfect as it involves some interpretation. Please review and make any necessary adjustments.)
-주소: https://www.infoq.com/news/2025/07/anthropic-economic-program/
-설명: 인공지능의 경제적 영향을 다루기 위한 Anthropic의 Economic Futures Program이 발표되었습니다. 이 프로그램은 AI의 경제적 영향에 대응하는데 설계되었습니다.
-#인공지능 #경제영향 #EconomicFuturesProgram
+(Note: The Korean language does not use spaces between words like English, so the translation is written in a continuous format.)
+주소: https://www.infoq.com/news/2025/07/docker-desktop-442/
+설명: Docker Inc.는 2025년 6월 10일에 Docker Desktop 4.42를 발표했습니다. 네트워킹 유연성, AI 워크플로우 통합 및 모델 분배가 향상되었습니다. 이제 사용자는 지능적인 DNS 해결을 지원하며 IPv4와 IPv6를 선택할 수 있는 듀얼 스택, IPv4만 또는 IPv6만 모드로 작동합니다.
+#Docker #네트워킹 #인공지능 #IPv6
 
-Hashtags: #AIimpact, #Economy, #Anthropic
+#hashtags: #Docker, #네트워킹, #인공지능, #IPv6
 
