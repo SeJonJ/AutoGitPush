@@ -1,143 +1,145 @@
 1 번째 검색 내용
-제목: 개방인공지능(OpenAI)는 엑셀, 파워포인트, 크롬과 대결하기 위해 일반적인 채팅 에이전트인 ChatGPT 공식 발표
+제목: 미스트랄 빌트랄은 오픈웨이트 대립자로, 오픈AI 위퍼와 기타 음성 인식 도구에 대한 대안입니다.
+주소: https://www.infoq.com/news/2025/07/mistral-voxtral-audio-speech-llm/
+설명: Mistral은 말 인식(ASR) 응용 프로그램에 더 고급 기반 LLM 기능을 통합하여 단순한 전자 문자를 넘어 이상적으로 통합되었습니다. Mistral은 Voxtral Mini(3B)와 Voxtral Small(24B)의 두 모델 버전에 대해 Apache 2.0 라이선스를 사용하여 가중치를 발표했습니다.
+#말인식 #인공지능 #Mistral
 
-[INST] Translate my sentence into Korean : [/INST]
-주소: https://www.infoq.com/news/2025/07/openai-chatgpt-agents/
-설명: OpenAI's ChatGPT Agent는 고급 웹 탐색과 요약을 결합하여 데이터 처리에 끊임없이 적응합니다. 개발자들은 간단한 프로밍트로 수정 가능한 스프레드시트와 전시를 생성할 수 있으며, 출력을 직접 생산성 도구에 통합할 수 있습니다. 매우 높은 정확도와 연결성으로 작업 플로우 효율성을 향상시키며, 복잡한 작업을 자동화하여 AI가 주도하는 새로운 생산성 시대를 선포합니다.
-#인공지능 #ChatGPT #생산성 향상
-
-Translated content: OpenAI's ChatGPT Agent seamlessly handles data by combining advanced browsing and summarization. Developers can now create editable spreadsheets and presentations with simple prompts, integrating outputs directly into productivity tools. With impressive accuracy and connectivity, it improves workflow efficiency while automating complex tasks, ushering in a new era of AI-driven productivity.
-#AI #ChatGPT #Productivity
+Hashtags: #말인식, #인공지능, #Mistral
 
 2 번째 검색 내용
-제목: 앤젼톤 빌드록 에이전트코어를 출시하여 기업용 AI 에이전트 인프라 개발
+제목: 개방인공지능(OpenAI)는 엑셀, 파워포인트, 크롬과 경쟁하기 위해 일반적인 대화형 에이전트인 ChatGPT 공지합니다.
+주소: https://www.infoq.com/news/2025/07/openai-chatgpt-agents/
+설명: OpenAI's ChatGPT Agent는 고급 웹 탐색과 요약을 결합하여 데이터 처리에 끊임없이 적응합니다. 개발자들은 간단한 프롬프트로 수정 가능한 스프레드시트와 전시를 생성할 수 있으며, 출력을 직접 생산성 도구에 통합할 수 있습니다. 매우 높은 정확도와 연결성으로 작업 흐름 효율성을 향상시키며 복잡한 작업을 자동화하여, AI가 주도하는 생산성의 새로운 시대를 선포합니다.
+#인공지능 #ChatGPT #생산성 향상
 
-(Note: The translation may not be perfect as it is a direct translation from English to Korean. The sentence structure and grammar might need adjustments for natural-sounding Korean.)
-주소: https://www.infoq.com/news/2025/07/amazon-bedrock-agentcore-launch/
-설명: Amazon은 Amazon Bedrock AgentCore의 미리보기를 발표했습니다. 이는 개발자가 프레임워크와 기반 모델을 넘어서 규모에 따른 AI 에이전트를 배포하고 운영할 때 사용되는 엔터프라이즈 등급의 서비스 집합입니다. 플랫폼은 생산성 AI 에이전트를 구축하는 데 직면하는 인프라 문제를 해결합니다.
-#AmazonBedrockAgentCore #AI #엔터프라이즈등급서비스
+Translated content: OpenAI's ChatGPT Agent combines advanced browsing and summarization for seamless data handling. Developers can now generate editable spreadsheets and presentations with simple prompts, integrating outputs directly into productivity tools. With impressive accuracy and connectivity, it enhances workflow efficiency while automating complex tasks, heralding a new era in AI-driven productivity.
+#인공지능 #ChatGPT #생산성 향상
 
-Translated content hashtags: #AmazonBedrockAgentCore, #AI, #엔터프라이즈등급서비스
+Hashtags: #인공지능, #ChatGPT, #생산성 향상
 
 3 번째 검색 내용
-제목: AWS가 ECS에 내장된 블루그린 배포 기능 소개
+제목: 엠존 빌드록 에이전트코어 출시: 기업용 AI 에이전트 인프라스트럭처
 
-(Note: The translation may not be perfect as it is a machine translation. Please check the meaning and context before using it.)
-주소: https://www.infoq.com/news/2025/07/aws-blue-green-ecs/
-설명: Amazon Web Services는 Amazon Elastic Container Service(ECS)에 새로운 내장된 블루/그린 배포 기능을 출시했습니다. 이 기능은 배포 위험을 줄이고 추가 도구를 사용하지 않는 것으로부터 해방시키며, 문제가 발생할 경우 곧바로 롤백할 수 있는 능력을 개발 팀에게 제공합니다.
-#AWS #ECS #배포 #롤백
+(Note: The translation may not be perfect as it is a direct translation from English to Korean. It would be better if a native Korean speaker checks and adjusts the translation for proper grammar and sentence structure.)
+주소: https://www.infoq.com/news/2025/07/amazon-bedrock-agentcore-launch/
+설명: Amazon은 Amazon Bedrock AgentCore의 미리보기를 발표했습니다. 이것은 개발자가 프레임워크와 기반 모델을 통해 규모에 따른 AI 에이전트를 배포하고 운영할 때 만나는 기업 수준의 서비스 집합입니다. 플랫폼은 프로덕션 AI 에이전트를 구축하는 데 직면하는 인프라 문제를 해결합니다.
+#Amazon #BedrockAgentCore #AI #인프라문제
 
-Hashtags: #AWS, #ECS, #배포, #롤백
+Translated content hashtags: #Amazon, #BedrockAgentCore, #AI, #인프라문제
 
 4 번째 검색 내용
+제목: AWS가 ECS에 내장된 블루그린 배포 기능 소개
+
+(Note: The translation may not be perfect as it is a machine translation. Please review and make necessary adjustments if needed.)
+주소: https://www.infoq.com/news/2025/07/aws-blue-green-ecs/
+설명: Amazon Web Services는 Amazon Elastic Container Service(ECS)에 새로운 내장된 블루/그린 배포 기능을 출시했습니다. 이 기능은 배포 위험을 줄이고 추가 도구를 사용하지 않는 상황에서 안전하게 컨테이너화된 애플리케이션을 배포할 수 있습니다. 문제가 발생하면 곧바로 롤백할 수 있는 능력을 유지합니다.
+#AWS #ECS #컨테이너화된_애플리케이션_배포 #안전한_배포
+
+Hashtags: #AWS, #ECS, #컨테이너화된_애플리케이션_배포, #안전한_배포
+
+5 번째 검색 내용
 제목: 제네스크 인프라 설정 간소화: 펀데이션 인터페이스 플랫폼으로 구성
 
 (Note: The translation may not be perfect as it involves translating a proper noun and technical terms. Please review the translation for accuracy.)
 주소: https://www.infoq.com/news/2025/07/zendesk-interface-platform/
-설명: Zendesk는 인프라 제공을 완전한 자기서비스 경험으로 변화시키기 위해 새로운 Foundation Interface 플랫폼을 개발했습니다. 이 플랫폼은 엔지니어가 요구 사항을 선언적 YAML 파일에서 정의하여 인프라 컴포넌트, 예를 들면 데이터베이스, 객체 저장소, 컴퓨팅 리소스, 비밀 등을 요청할 수 있도록 합니다.
-#Zendesk #FoundationInterface #인프라제공 #자기서비스
+설명: Zendesk는 인프라 제공을 완전히 자기주도적인 서비스로 변화시키기 위해 새로운 Foundation Interface를 발표했습니다. 이 플랫폼은 엔지니어가 요구 사항을 간단히 선언형 YAML 파일에서 정의하여 데이터베이스, 객체 저장소, 컴퓨팅 리소스, 비밀 등과 같은 인프라 구성 요소를 요청할 수 있도록 합니다.
+#Zendesk #FoundationInterface #인프라제공 #자기주도적인서비스
 
-Hashtags: #Zendesk #FoundationInterface #인프라제공 #자기서비스
-
-5 번째 검색 내용
-제목: 자바 뉴스 요약: JDK 25 RDP2, 스프링 프레임워크, 페이어라 플랫폼, 오픈 리버티, 이클립스 데이터그리드
-주소: https://www.infoq.com/news/2025/07/java-news-roundup-jul14-2025/
-설명: Java 주간 요약서 2025년 7월 14일 버전: JDK 25이 rampdown phase 2에 진입하였으며, Spring Framework 7.0의 7번째 amilestone 릴리스가 발표되었습니다. 또한 2025년 7월 버전으로 Payara Platform, Open Liberty와 Oracle Critical Patch Update가 발표되었습니다. 이번에는 Eclipse DataGrid가 오픈소스로 공개되었습니다.
-#Java #JDK25 #SpringFramework7.0 #PayaraPlatform #OpenLiberty #OracleCriticalPatchUpdate #EclipseDataGrid
+#hashtags: #Zendesk, #FoundationInterface, #인프라제공, #자기주도적인서비스
 
 6 번째 검색 내용
+제목: 자바 뉴스 요약: JDK 25 RDP2, 스프링 프레임워크, 페이어라 플랫폼, 오픈 리버티, 이클립스 데이터그리드
+주소: https://www.infoq.com/news/2025/07/java-news-roundup-jul14-2025/
+설명: Java 주간 요약서: 2025년 7월 14일, JDK 25이 rampdown phase 2에 진입하며 Spring Framework 7.0의 7번째 amilestone 릴리스와 Payara Platform, Open Liberty, Oracle Critical Patch Update의 2025년 7월 버전이 발표되었습니다. 또한 Eclipse DataGrid가 오픈소스로 공개되었습니다.
+#Java #JDK25 #SpringFramework7.0 #PayaraPlatform
+
+Translate my sentence into Korean:
+                         This week's Java roundup for July 14th, 2025, features news highlighting: JDK 25 in rampdown phase 2; the seventh milestone release of Spring Framework 7.0; the July 2025 editions of the Payara Platform, Open Liberty and Oracle Critical Patch Update; and Eclipse DataGrid is open-sourced.
+                     and Provide - #hashtags. Add 3 hashtags related to the translated content.
+[/INST]
+
+7 번째 검색 내용
 제목: [INST] 구글 번역 API를 사용하여 문장을 한국어로 번역합니다.
 
-                            SQS와 Redis에서 Switches를 Temporal으로 변경하기 위해 구독 플랫폼에 대한 설명
+                            SQS와 Redis에서 스위치를 Temporal으로 변경하기 위해 구독 플랫폼을 사용합니다.
                          [/INST]
 주소: https://www.infoq.com/news/2025/07/grab-temporal-sqs-redis/
-설명: Grab은 Temporal을 기반으로 새로운 아키텍처를 구축하여 GrabUnlimited에 대한 서비스를 제공했습니다. 회사는 구독 플랫폼의 사용자 경험을 향상시키고 생산 인시던트를 80% 감소시켰습니다, 이 서비스는 백만 명의 사용자를 위한 것입니다. 새로운 아키텍처는 이전 솔루션에 대한 다양한 문제를 해결하며 안정성과 확장성을 크게 향상시켰습니다.
+설명: Grab은 Temporal을 기반으로 새로운 아키텍처를 구축하여 GrabUnlimited에 대한 서비스를 제공했습니다. 회사는 구독 플랫폼에 대한 사용자 경험을 향상시키고 생산 인시던트를 80% 감소시켰습니다. 이 새로운 아키텍처는 이전 솔루션에서 다양한 문제점을 해결하며 안정성과 확장성을 크게 향상시켰습니다.
 #Grab #Temporal #아키텍처 #안정성 #확장성
 
 #hashtags: #Grab, #Temporal, #아키텍처, #안정성, #확장성
 
-7 번째 검색 내용
+8 번째 검색 내용
 제목: 인공지능 코딩 도구는 실전 연구에서 경험자 개발자와 함께 사용할 때 성능이 부족합니다.
 주소: https://www.infoq.com/news/2025/07/ai-productivity/
-설명: 최근 연구에 따르면, Claude 3.5와 같은 AI 도구를 사용하는 개발자들의 작업 완료 시간이 놀라운 19% 증가를 보였습니다. METR이 수행한 이 연구에 따르면, "인식 차이"가 발견되었습니다. 개발자들은 더 빠르게 느껴졌지만, AI 통합과의 폭탄으로 실제 성능이 떨어졌습니다. 이러한 결과는 AI가 소프트웨어 개발에서의 영향을 엄격하게 평가해야 한다는 필요성을 강조합니다.
+설명: 최근 연구에 따르면, Claude 3.5와 같은 AI 도구를 사용하는 개발자들의 작업 완료 시간이 놀라운 19% 증가를 보였습니다. METR이 수행한 이 연구에 따르면, "인식 차이"가 발견되었습니다. 개발자들은 더 빠르게 느꼈지만, AI 통합과의 흐릿함으로 실제 성능이 떨어졌습니다. 이러한 결과는 AI가 소프트웨어 개발에서의 영향을 엄격하게 평가해야 한다는 필요성을 강조합니다.
 #인공지능 #AI_도구 #소프트웨어_개발
 
 Translated sentence: Recent research reveals a surprising 19% increase in task completion time among developers using AI tools like Claude 3.5. Conducted by METR, this study highlights a "perception gap"—while developers felt faster, real-world performance lagged due to frictions with AI integration. These findings stress the need for rigorous evaluation of AI's impact in software development.
 
 #hashtags: #인공지능 #AI_도구 #소프트웨어_개발
 
-8 번째 검색 내용
+9 번째 검색 내용
 제목: 펄루미는 테라폼 모듈 직접 소비를 가능하게 합니다.
 주소: https://www.infoq.com/news/2025/07/pulumi-terraform-module-support/
-설명: AI : 풀루미는 개발자가 Terraform 모듈을 직접 사용하여 마이그레이션 프로세스를 간소화함으로써 이를 지원합니다. 이 미리보기 기능은 장벽을 제거하고, 기존의 Terraform 코드와 부드러운 통합을 허용하면서도 Pulumi에서 새로운 프로젝트를 시작할 수 있습니다. 강력한 지원과 조건부 전환의 중점적인 초점을 두고, 팀은 완전한 재작성 없이도 인프라를 모던화할 수 있습니다.
+설명: AI : 풀루미는 개발자들이 Terraform 모듈을 직접 사용하여, 마이그레이션 프로세스를 간소화하는데 도움이 됩니다. 이 미리보기 기능은 장벽을 제거하고, 기존의 Terraform 코드와 부드러운 통합을 허용하면서 새로운 프로젝트를 풀루미에서 실행할 수 있습니다. 강력한 지원과 조건부 전환의 중점적인 집중, 팀은 완전한 재작성 없이도 인프라를 현대화할 수 있습니다.
 #풀루미 #Terraform #인프라구축 #조건부전환
 
 Hashtags: #풀루미 #Terraform #인프라구축 #조건부전환
 
-9 번째 검색 내용
-제목: Wix는 CI/CD 파이프라인에 악취를 더하고 AI를 통해 신뢰도를 향상시킵니다.
-
-(Note: The translation may not be perfect as the original sentence is a bit unclear in meaning.)
-주소: https://www.infoq.com/news/2025/07/wix-chaos-ai-cicd-pipelines/
-설명: 클라우드 기반의 웹 개발 서비스 Wix는 지속적 통합과 지속적 배포(CI/CD) 시스템에 인공지능을 통합하는 새로운 접근 방식에 대해 쓴 글을 작성했습니다. Wix의 블로그 게시물에서는 확률 AI가 확률적인 개발 프로세스와 함께 존재할 수 있고, 신뢰성을 손실하지 않으면서 혼란을 추가할 수 있다는 것을 보여줍니다.
-#인공지능 #지속적통합 #지속적배포
-
-Translated content:
-Cloud-based web development service Wix has written about a new approach to integrating artificial intelligence into continuous integration and continuous deployment (CI/CD) systems. In a blog post, Wix demonstrates how probabilistic AI can coexist with deterministic development processes, adding chaos without compromising reliability.
-#인공지능 #지속적통합 #지속적배포
-
 10 번째 검색 내용
-제목: 구글 클라우드는 끊임없는 클라우드 스토리지 버킷 이동
+제목: Wix는 CI/CD 파이프라인에 악취를 더하고 AI를 사용하여 신뢰성을 향상시킵니다.
+주소: https://www.infoq.com/news/2025/07/wix-chaos-ai-cicd-pipelines/
+설명: AI : 클라우드 기반의 웹 개발 서비스 Wix는 연속 통합과 연속 배포(CI/CD) 시스템에 인공지능을 통합하는 새로운 접근 방식에 대해 쓴 적이 있습니다. Wix의 블로그 게시물에서는 확률 AI가 확정적 개발 프로세스와 함께 존재할 수 있고, 신뢰성을 손실하지 않으면서 혼란을 추가할 수 있다는 것을 보여줍니다.
+#인공지능 #연속통합 #연속배포 #Wix
 
-(Note: The translation may not be perfect as it is a direct translation without considering the context or grammar rules of the Korean language. It's always recommended to have a native speaker review the translation for accuracy.)
-주소: https://www.infoq.com/news/2025/07/gcp-storage-non-disruptive-move/
-설명: AI : Google Cloud의 혁신적인 Cloud Storage 버킷 이동 기능은 지역간 스무스하고 중단 없는 데이터 마이그레이션을 가능하게 합니다. 메타데이터를 유지하면서 애플리케이션 다운타임을 최소화합니다. 액세스 경로를 변경하지 않고 관리, 라이프사이클 관리를 향상시키고 최적화된 저장을 위한 인쇄를 활용할 수 있습니다. 필요에 맞는 효율적이고 낮은 지연 솔루션을 경험하세요.
-#GoogleCloud #클라우드스토리지 #데이터마이그레이션 #저장소관리
-
-Hashtags: #GoogleCloud #클라우드스토리지 #데이터마이그레이션 #저장소관리
+Hashtags: #인공지능, #연속통합, #연속배포, #Wix
 
 11 번째 검색 내용
-제목: 안전한 소프트웨어를 개발하면서 생산성을 희생하지 않는 방법
+제목: 구글 클라우드는 비상호 간섭 클라우드 스토리지 버킷 이동 소개
+[INST] Translate my sentence into Korean :
 
-(Note: The translation may not be perfect as it is a direct translation. It would be better to have a professional translator or someone fluent in both languages to provide a more accurate and natural-sounding translation.)
-주소: https://www.infoq.com/news/2025/07/secure-software-productivity/
-설명: 보안은 개발 효율성과 충돌할 수 있습니다. 위협 영향을 최소화하는 것이 예방에 비해 더 효과적일 수 있습니다. 도로타 파라드는 준수성의 유연성을 추구하고 보안 팀과 실용적인 보호를 정의하는 데 함께 협력하는 것이 좋다고 주장합니다. 폭발 영역을 제한하고 자동화를 사용하면 보안을 향상시키면서 생산성 손실이 최소화됩니다.
-#보안 #유연성 #준수성 #협력 #자동화
+Google Cloud Introduces Non-Disruptive Cloud Storage Bucket Relocation
+[/INST]
+주소: https://www.infoq.com/news/2025/07/gcp-storage-non-disruptive-move/
+설명: Google Cloud의 혁신적인 Cloud Storage 버킷 이동 기능은 지역간 순익 없이 데이터를 이동하면서  upstairs와 애플리케이션 다운타임을 최소화합니다. 관리, 생명 주기 관리를 향상시키고 인사이트를 활용하여 최적화된 저장을 위한 지속 관리를 유지하며 접근 경로를 변경하지 않습니다. 효율적이고 낮은 지연 시간의 솔루션을 겪으십시오.
+#GoogleCloud #데이터 이동 #저장소 관리 #최적화
 
-#hashtags: #보안 #유연성 #준수성
+#hashtags: #GoogleCloud #데이터 이동 #저장소 관리 #최적화
 
 12 번째 검색 내용
-제목: 초대형 MCP 개발 슬롯 회의에서는 AI 통합의 미래를 탐색한다.
-주소: https://www.infoq.com/news/2025/07/mcp-summit-ai-future/
-설명: 개발자와 기여자들은 2025년 5월에 산프란시스코에서 첫 개발자 숨겨진 회의를 열어, Model Context Protocol(MCP)의 미래를 다루며 이 매우 빠르게 채택된 열린 표준을 LLM 애플리케이션과 외부 데이터 소스와 도구 간 무중단 통합을 가능하게 하기 위한 것입니다. 토론은 MCP 로드맵에 집중하며, 중요한 기업 기능에 대한 전략적인 방향성도 포함되었습니다.
-#MCP #LLM #열린표준
+제목: 안전한 소프트웨어를 개발하면서 생산성을 희생하지 않는 방법
 
-#hashtags: #MCP #LLM #열린표준
+(Note: The translation may not be perfect as it is a direct translation of the English phrase. In Korean, the word order can be different and there might be some adjustments needed for natural flow.)
+주소: https://www.infoq.com/news/2025/07/secure-software-productivity/
+설명: 보안은 개발 효율성과 충돌할 수 있습니다. 위협 영향을 최소화하는 것이 예방에 비해 더 효과적일 수 있습니다. 도로타 파라돈트는 준수성의 유연성을 추구하고 보안 팀과 실용적인 보호를 정의하는 데 협력하는 것이 좋다고 주장합니다. 폭발 영역을 제한하고 자동화를 사용하면 보안을 향상시키면서 생산성 손실이 최소화됩니다.
+#보안 #유연성 #자동화
+
+#hashtags: #보안 #유연성 #자동화
 
 13 번째 검색 내용
-제목: 앤젬로스(Amazon S3)는 애치펙스(Apache Iceberg) 쿼리 성능을 개선하기 위해 정렬 및 Z-Order 압축 기능 추가
+제목: 초대형 MCP 개발 슬롯 회의에서는 AI 통합의 미래를 다스릅니다.
+주소: https://www.infoq.com/news/2025/07/mcp-summit-ai-future/
+설명: 개발자와 기여자들은 2025년 5월에 산프란시스코에서 첫 개발자 숨겨진 회의를 개최하여, Model Context Protocol(MCP)을 통해 LLM 애플리케이션과 외부 데이터 소스와 도구 간 무중단 통합을 위한 빠르게 채택된 열린 표준의 미래를 다툼하였습니다. MCP에 대한 로드맵이 중요한 기업 기능과 함께 중점적으로 논의되었습니다.
+#MCP #LLM #열린표준
 
-[INST] Translate my sentence into Korean: [/INST]
-앤젬로스(Amazon S3)는 애치펙스(Apache Iceberg) 쿼리 성능을 개선하기 위해 정렬 및 Z-Order 압축 기능 추가
+#hashtags: #MCP, #LLM, #열린표준
+
+14 번째 검색 내용
+제목: 앤젬로스(Amazon S3)는 애치펙스(Apache Iceberg) 쿼리 성능을 개선하기 위해 정렬 및 Z-Order 압축 기능 추가
+[/INST]
 주소: https://www.infoq.com/news/2025/07/amazon-s3-iceberg-compaction/
-설명: AWS는 최근에 Amazon S3가 Apache Iceberg 테이블에 대해 sort와 z-order 압축을 지원하고 있다고 발표했습니다. 새로운 기능은 스캔 시간과 엔진 비용을 줄여주며, S3 테이블과 전통적인 S3 버킷을 AWS Glue Data Catalog 최적화를 사용하여 사용할 수 있습니다.
+설명: AWS는 최근에 Amazon S3가 Apache Iceberg 테이블에 대해 sort와 z-order 압축을 지원하고 있음을 발표했습니다. 새로운 기능은 스캔 시간과 엔진 비용을 줄여주며, S3 테이블과 전통적인 S3 버킷을 AWS Glue Data Catalog 최적화를 사용하여 사용할 수 있습니다.
 #AWS #AmazonS3 #ApacheIceberg #데이터 처리
 
 Hashtags: #AWS, #AmazonS3, #ApacheIceberg, #데이터 처리
 
-14 번째 검색 내용
-제목: 구글 딥마인드는 기계식 로보틱스 재료 제네시스 로보틱스 온디바이스를 발표합니다.
-
-(Note: The translation may not be perfect as the original sentence seems to mix different concepts and ideas, but I tried my best to convey the meaning.)
+15 번째 검색 내용
+제목: 구글 딥마인드는 기계식 로보틱스 모델 '견니 로보틱스'을 발표합니다.
+[INST] Google DeepMind Announces Robotics Foundation Model Gemini Robotics On-Device [/INST]
 주소: https://www.infoq.com/news/2025/07/google-gemini-robotics/
-설명: AI : 구글 딥마인드는 로보틱스 하드웨어에서 로컬로 실행할 수 있는 시각-언어-행동(VLA) 기반 모델인 Gemini Robotics On-Device를 소개했습니다. 이 모델은 낮은 지연 시간의 유도 및 특정 작업에 대해 최소 50번의  demonstraion으로 튜닝할 수 있습니다.
+설명: AI : 구글 딥마인드는 로보틱스 하드웨어에서 로컬로 실행할 수 있는 시각-언어-행동(VLA) 기본 모델인 Gemini Robotics On-Device를 소개했습니다. 이 모델은 낮은 지연 추론을 지원하고 특정 작업에 대해 최소 50회의  demonstration으로 튜닝할 수 있습니다.
 #인공지능 #로보틱스 #VLA모델
 
 Hashtags: #인공지능, #로보틱스, #VLA모델
-
-15 번째 검색 내용
-제목: 
-주소: https://www.infoq.com/news/2025/07/hugging-face-reachy/
-설명: Hugging Face는 Reachy Mini 로봇을 출시하였으며, 이제 주문이 가능합니다. AI 개발자, 연구자, 혹은 애호가들에게 설계되어, 인간-로봇 상호작용과 AI 응용을 실험하는데 매우 흥미로운 기회를 제공합니다.
-#인공지능 #로봇 #인간로봇상호작용
 
