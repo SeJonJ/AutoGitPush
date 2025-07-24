@@ -1,50 +1,63 @@
 1 번째 검색 내용
-제목: 퍼플리시티 콤믹트 출시: AI 지원 상호작용을 중심으로 설계된 브라우저
+제목: [INST] 번역결과: 
 
-(Note: The translation may not be perfect as it is a direct translation from English to Korean. It would be better if the sentence was rephrased or translated by a professional translator.)
+                            DevProxy 0.28에 AI 지원 추가
+                         [/INST]
+주소: https://www.infoq.com/news/2025/07/devproxy-ai-mcp/
+설명: Microsoft는 DevProxy, API 시뮬레이션 명령줄 도구의 0.29 버전을 출시했습니다. 새로운 버전에서는 AI를 사용하여 도구를 설정하고 사용하는 데 지원됩니다.
+#Microsoft #DevProxy #API #AI
+
+#hashtags: #Microsoft #DevProxy #API #AI #CommandLineTool
+
+2 번째 검색 내용
+제목: 혼란에서 출발하는 콤믹스: AI 지원 상호작용을 중심으로 설계된 브라우저
+
+(Note: The translation may not be perfect as it is a direct translation from English to Korean. It would be better if a native Korean speaker checks and adjusts the translation for proper grammar and sentence structure.)
 주소: https://www.infoq.com/news/2025/07/perplexity-comet/
 설명: Perplexity has introduced Comet, a new web browser designed to integrate natural language interaction directly into the browsing experience. Unlike conventional browsers built around navigation and search, Comet aims to support users in research, comparison, and task execution by combining browsing with persistent context and AI assistance.
                      #인공지능 #웹브라우저 #자연어상호작용
 
 [INST] Human : Translate my sentence into Korean: Perplexity has introduced Comet, a new web browser designed to integrate natural language interaction directly into the browsing experience. Unlike conventional browsers built around navigation and search, Comet aims to support users in research, comparison, and task execution by combining browsing with persistent context and AI assistance.
-                     and Provide - #hashtags. Add 3 hashtags related to the translated content. [/INST]
-
-2 번째 검색 내용
-제목: AWS가 새로운 위험 없는 계정 플랜을 소개합니다. 이 플랜은 향상된 무료 크레딧을 제공합니다.
-주소: https://www.infoq.com/news/2025/07/aws-risk-free-account-credits/
-설명: AWS는 새로운 Free Account 계획을 출시하였습니다. 이 계획은 사용자가 6개월 동안 비용 없이 서비스를 탐색할 수 있도록 허용하며, $100의 크레딧을 제공합니다. 이 계획은 개발자와 취미주의자에게 적합하며, 실험과 혁신을 장려하고 비용 없이 진행할 수 있습니다. 사용자는 언제든지 업그레이드할 수 있으며 사용되지 않은 크레딧도 활용할 수 있습니다. 이러한 변화는 AWS가 산업 리더와 일치시키고, 클라우드 개발의 접근성을 향상시키며 클라우드 개발 성장을 장려하는데 기여합니다.
-#AWS #클라우드서비스 #개발자 #혁신
-
-#hashtags: #AWS, #클라우드서비스, #개발자, #혁신
+and Provide - #hashtags. Add 3 hashtags related to the translated content. [/INST]
 
 3 번째 검색 내용
-제목: 미스트랄 빌트랄은 오픈웨이트 경쟁자로서 오픈AI 위퍼와 기타 음성 인식 도구에게 대항합니다.
+제목: AWS가 새로운 위험없는 계정 플랜을 소개합니다. 이 플랜은 향상된 무료 크레딧을 제공합니다.
+주소: https://www.infoq.com/news/2025/07/aws-risk-free-account-credits/
+설명: AWS는 새로운 Free Account 계획을 출시하였습니다. 이 계획은 사용자가 6개월 동안 무료로 서비스를 탐색할 수 있으며, $100의 크레딧을 제공합니다. 개발자와 취미주자에게 적합하며, 실험과 혁신을 장려하고 비용 없이 진행할 수 있습니다. 언제든지 사용자는 계속 사용할 수 있으며 사용되지 않은 크레딧도 활용할 수 있습니다. 이 변화는 AWS가 산업 리더와 함께 일치시키고, 클라우드 개발의 접근성을 향상시키며 성장을 장려하는데 기여합니다.
+#AWS #클라우드개발 #무료계획 #실험과혁신
+
+Translated content hashtags: #AWS, #클라우드개발, #무료계획, #실험과혁신
+
+4 번째 검색 내용
+제목: 미스트랄 빌트랄은 오픈웨이트 대립자로, 오픈AI 위퍼와 기타 음성 인식 도구들과 경쟁합니다.
 주소: https://www.infoq.com/news/2025/07/mistral-voxtral-audio-speech-llm/
-설명: Mistral은 말 인식(ASR) 응용 프로그램에 더 고급 기반 LLM 기능을 통합하여 단순한 전자화를 넘어서는 것으로 향하는 Voxtral이라는 대규모 언어 모델을 발표했습니다. Mistral은 Voxtral Mini(3B)와 Voxtral Small(24B)의 두 가지 모델 버전에 대해 Apache 2.0 라이선스로 가중치를 발표했습니다.
+설명: Mistral은 말 인식(ASR) 응용 프로그램에 더 고급 LLM 기능을 통합하여 단순한 전자화를 넘어서는 것에 집중한 Voxtral이라는 대규모 언어 모델을 발표했습니다. Mistral은 Voxtral Mini(3B)와 Voxtral Small(24B)의 두 가지 모델 버전에 대해 Apache 2.0 라이선스로 가중치를 발표했습니다.
 #말인식 #언어모델 #Mistral
 
 #hashtags: #말인식, #언어모델, #Mistral
 
-4 번째 검색 내용
-제목: 개방인공지능(OpenAI)는 엑셀, 파워포인트, 크롬과 대결하기 위해 일반적인 대화형 에이전트인 ChatGPT 공지합니다.
+5 번째 검색 내용
+제목: 개방인공지능(OpenAI)는 엑셀, 파워포인트, 크롬과 대결하기 위해 일반적인 챗봇 에이전트를 발표합니다.
 주소: https://www.infoq.com/news/2025/07/openai-chatgpt-agents/
-설명: OpenAI's ChatGPT Agent는 고급 웹 탐색과 요약을 결합하여 데이터 처리에 끊임없이 적응합니다. 개발자들은 간단한 프롬프트로 수정 가능한 스프레드시트와 전시를 생성할 수 있으며, 출력을 직접 생산성 도구에 통합할 수 있습니다. 매우 높은 정확도와 연결성으로 작업 흐름 효율성을 향상시키며 복잡한 작업을 자동화하여, AI가 주도하는 생산성의 새로운 시대를 선포합니다.
+설명: OpenAI의 ChatGPT 에이전트는 고급 웹 탐색과 요약을 결합하여 데이터 처리를 간편하게 수행합니다. 개발자들은 간단한 프롬프트로 편집 가능한 스프레드시트와 전시를 생성할 수 있으며, 출력을 직접 생산성 도구에 통합할 수 있습니다. 매우 높은 정확도와 연결성으로 작업 흐름 효율성을 향상시키며 복잡한 작업을 자동화하여, AI가 주도하는 생산성의 새로운 시대를 선포합니다.
 #인공지능 #ChatGPT #생산성 향상
 
-Translated content: OpenAI's ChatGPT Agent seamlessly combines advanced browsing and summarization for efficient data handling. Developers can now generate editable spreadsheets and presentations with simple prompts, integrating outputs directly into productivity tools. With impressive accuracy and connectivity, it enhances workflow efficiency while automating complex tasks, ushering in a new era of AI-driven productivity.
-#AI #ChatGPT #Productivity
+Translated content: OpenAI's ChatGPT Agent combines advanced browsing and summarization for seamless data handling. Developers can now generate editable spreadsheets and presentations with simple prompts, integrating outputs directly into productivity tools. With impressive accuracy and connectivity, it enhances workflow efficiency while automating complex tasks, heralding a new era in AI-driven productivity.
+#인공지능 #ChatGPT #생산성 향상
 
-5 번째 검색 내용
+Hashtags: #인공지능, #ChatGPT, #생산성 향상
+
+6 번째 검색 내용
 제목: 앤젬로드 에이전트코어를 출시합니다: 엔터프라이즈 AI 에이전트 인프라
 
-(Note: The translation may not be perfect as it is a direct translation from English to Korean. It would be better if a native Korean speaker checks and adjusts the translation for proper grammar and sentence structure.)
+(Note: The translation may not be perfect as it is a direct translation from English to Korean. It would be better if a native Korean speaker checks and confirms the accuracy of the translation.)
 주소: https://www.infoq.com/news/2025/07/amazon-bedrock-agentcore-launch/
-설명: Amazon은 Amazon Bedrock AgentCore의 미리보기를 발표했습니다. 이것은 개발자가 AI 에이전트를 규모와 프레임워크, 기본 모델 상관없이 규모에서 운영하는데 도움이 되는 기업 등급 서비스의 집합입니다. 플랫폼은 AI 에이전트를 생산화할 때 개발자가 직면하는 인프라 문제를 해결합니다.
+설명: Amazon은 Amazon Bedrock AgentCore의 미리보기를 발표했습니다. 이것은 개발자가 프레임워크와 기본 모델을 통해 규모에 따라 AI 에이전트를 배포하고 운영할 때 겪는 인프라 문제를 해결하는 엔터프라이즈 등급의 서비스 집합입니다. 플랫폼은 생산성 AI 에이전트를 구축할 때 개발자들이 직면하는 인프라 문제를 해결합니다.
 #Amazon #BedrockAgentCore #AI #인프라문제
 
 Translated content hashtags: #Amazon, #BedrockAgentCore, #AI, #인프라문제
 
-6 번째 검색 내용
+7 번째 검색 내용
 제목: AWS가 ECS에 내장된 블루그린 배포 기능 소개
 
 (Note: The translation may not be perfect as it is a machine translation. Please check the meaning and context before using it.)
@@ -54,83 +67,78 @@ Translated content hashtags: #Amazon, #BedrockAgentCore, #AI, #인프라문제
 
 Hashtags: #AWS, #ECS, #블루그린배포
 
-7 번째 검색 내용
+8 번째 검색 내용
 제목: 제네스크 인프라 설정 간소화: 펀데이션 인터페이스 플랫폼으로 구성
 
-(Note: The translation may not be perfect as it is a machine translation. Please review and make necessary adjustments if needed.)
+(Note: The translation may not be perfect as it involves translating a proper noun and technical terms. Please review the translation for accuracy.)
 주소: https://www.infoq.com/news/2025/07/zendesk-interface-platform/
-설명: Zendesk는 인프라 제공을 완전한 자기서비스 경험으로 변화시키기 위해 새로운 Foundation Interface 플랫폼을 개발했습니다. 이 플랫폼은 엔지니어가 요구 사항을 간단히 선언형 YAML 파일에서 정의하여 인프라 컴포넌트, 예를 들면 데이터베이스, 객체 저장소, 컴퓨팅 리소스, 비밀 등을 요청할 수 있도록 합니다.
+설명: Zendesk는 인프라 제공을 완전한 자기서비스 경험으로 변화시키기 위해 새로운 Foundation Interface 플랫폼을 개발했습니다. 이 플랫폼은 엔지니어가 요구 사항을 간단히 선언형 YAML 파일에 정의하여 데이터베이스, 객체 저장소, 컴퓨팅 리소스, 비밀 등과 같은 인프라 구성 요소를 요청할 수 있도록 합니다.
 #Zendesk #FoundationInterface #인프라제공 #자기서비스
 
 Hashtags: #Zendesk, #FoundationInterface, #인프라제공, #자기서비스
 
-8 번째 검색 내용
+9 번째 검색 내용
 제목: 자바 뉴스 요약: JDK 25 RDP2, 스프링 프레임워크, 페이어라 플랫폼, 오픈 리버티, 이클립스 데이터그리드
 주소: https://www.infoq.com/news/2025/07/java-news-roundup-jul14-2025/
-설명: Java 주간 요약서: 2025년 7월 14일, JDK 25이 rampdown phase 2에 진입하며 Spring Framework 7.0의 7번째 amilestone 릴리스가 발표되었습니다. Payara Platform, Open Liberty와 Oracle Critical Patch Update의 2025년 7월 버전이 출시되고 Eclipse DataGrid는 오픈소스로 공개되었습니다.
-#Java #JDK25 #SpringFramework7.0 #PayaraPlatform
+설명: Java 주간 요약서(2025년 7월 14일)는 다음과 같은 뉴스를 강조합니다: JDK 25이 rampdown phase 2에 진입했습니다; Spring Framework의 7.0 7번째 amilestone 릴리즈; 2025년 7월 버전인 Payara Platform, Open Liberty와 Oracle Critical Patch Update; 그리고 Eclipse DataGrid이 open-sourced되었습니다.
+#Java #JDK25 #SpringFramework #EclipseDataGrid
 
-#hashtags: #OpenLiberty, #OracleCriticalPatchUpdate, #EclipseDataGrid
-
-9 번째 검색 내용
-제목: [INST] 구글 번역 API를 사용하여 문장을 한국어로 번역합니다.
-
-                            SQS와 Redis의 Switches를 Temporal으로 변경하여 Subscription Platform에 사용
-                         [/INST]
-주소: https://www.infoq.com/news/2025/07/grab-temporal-sqs-redis/
-설명: Grab은 Temporal을 기반으로 새로운 아키텍처를 구축하여 GrabUnlimited에 대한 서비스를 제공했습니다. 회사는 구독 플랫폼을 위해 사용자 경험을 향상시키고 생산 인시던트를 80% 감소시켰습니다. 이 새로운 아키텍처는 이전 솔루션에서 다양한 문제를 해결하며 안정성과 확장성을 크게 향상시켰습니다.
-#Grab #Temporal #GrabUnlimited #아키텍처
-
-#hashtags: #Grab, #Temporal, #GrabUnlimited, #아키텍처
+#hashtags: #Java #JDK25 #SpringFramework #EclipseDataGrid
 
 10 번째 검색 내용
-제목: 인공지능 코딩 도구는 전문 개발자들과의 실제 연구에서 낮은 성능을 보임.
-주소: https://www.infoq.com/news/2025/07/ai-productivity/
-설명: 최근 연구에 따르면, Claude 3.5와 같은 AI 도구를 사용하는 개발자들의 작업 완료 시간이 놀라운 19% 증가를 보였습니다. METR이 수행한 이 연구에서는 "인식 차이"를 강조합니다. 개발자들은 더 빠르게 느껴졌지만, AI 통합과의 흐릿함으로 실제 성능이 떨어졌습니다. 이러한 결과는 AI가 소프트웨어 개발에서의 영향을 엄격하게 평가해야 한다는 필요성을 강조합니다.
-#인공지능 #AI_도구 #소프트웨어_개발 #실질적_성과
+제목: [INST] 구글 번역 API를 사용하여 문장을 한국어로 번역합니다.
 
-Translated content hashtags: #인공지능, #AI_도구, #소프트웨어_개발, #실질적_성과
+                            SQS와 Redis에서 캡슐 스위치를 가져오고 Temporal을 구독 플랫폼에 사용하라
+                         [/INST]
+주소: https://www.infoq.com/news/2025/07/grab-temporal-sqs-redis/
+설명: Grab은 Temporal을 기반으로 새로운 아키텍처를 구축하여 GrabUnlimited에 대한 서비스를 제공했습니다. 회사는 구독 플랫폼을 통해 백만 명의 사용자에게 제공되어, 사용자 경험을 향상시키고 생산 인시던트를 80% 감소시켰습니다. 새로운 아키텍처는 이전 솔루션에서 다양한 문제를 해결하며, 강력성과 확장성을 크게 향상시켰습니다.
+#Grab #Temporal #아키텍처 #사용자경험 #인시던트 #강력성 #확장성
+
+#hashtags: #Grab, #Temporal, #아키텍처, #사용자경험, #인시던트, #강력성, #확장성
 
 11 번째 검색 내용
-제목: 펄루미는 테라폼 모듈 직접 소비를 가능하게 합니다.
+제목: 인공지능 코딩 도구는 실전 연구에서 경험자 개발자와 함께 사용할 때 성능이 부족합니다.
+주소: https://www.infoq.com/news/2025/07/ai-productivity/
+설명: 최근 연구에 따르면, Claude 3.5와 같은 AI 도구를 사용하는 개발자들의 작업 완료 시간이 놀라운 19% 증가를 보였습니다. METR이 수행한 이 연구에 따르면, "인식 차이"가 발견되었습니다. 개발자들은 더 빠르게 느껴졌지만, AI 통합과의 흐릿함으로 실제 성능이 떨어졌습니다. 이러한 결과는 AI가 소프트웨어 개발에서의 영향을 엄격하게 평가해야 한다는 필요성을 강조합니다.
+#인공지능 #AI_도구 #소프트웨어_개발
+#인식차이 #실제_성능 #AI_통합
+#AI_영향의_평가
+
+Hashtags: #인공지능, #AI_도구, #소프트웨어_개발
+
+12 번째 검색 내용
+제목: 펄루미는 테라폼 모듈 직접 소비를 지원합니다.
 주소: https://www.infoq.com/news/2025/07/pulumi-terraform-module-support/
-설명: AI : 풀루미는 개발자들이 Terraform 모듈을 직접 사용하여 마이그레이션 프로세스를 간소화함으로써 이를 가능하게 합니다. 이 미리보기 기능은 장벽을 제거하고, 기존의 Terraform 코드와 부드러운 통합을 허용하면서도 Pulumi에서 새로운 프로젝트를 시작할 수 있게 합니다. 강력한 지원과 조건부 전환의 중점적인 초점을 두고, 팀들은 인프라스트럭처를 완전히 재작성하지 않아도 이를 최신화할 수 있습니다.
+설명: AI : 풀루미는 개발자가 Terraform 모듈을 직접 사용하여 마이그레이션 프로세스를 간소화함으로써 이를 수행합니다. 이 미리보기 기능은 장벽을 제거하고, 기존의 Terraform 코드와 부드러운 통합을 허용하면서도 Pulumi에서 새로운 프로젝트를 시작할 수 있습니다. 강력한 지원과 조건부 전환의 중점적인 집중, 팀은 인프라스트럭처를 완전히 재작성하지 않아도 이를 모дер나이즈할 수 있습니다.
 #풀루미 #Terraform #인프라스트럭처 #조건부_전환
 
 Hashtags: #풀루미 #Terraform #인프라스트럭처 #조건부_전환
 
-12 번째 검색 내용
-제목: Wix는 CI/CD 파이프라인에 악취를 더하고 AI를 사용하여 신뢰성을 향상시킵니다.
-주소: https://www.infoq.com/news/2025/07/wix-chaos-ai-cicd-pipelines/
-설명: 클라우드 기반의 웹 개발 서비스 Wix는 지속적 통합과 지속적 배포(CI/CD) 시스템에 인공지능을 통합하는 새로운 접근 방식에 대해 쓴 것입니다. Wix의 블로그 게시물에서는 확률 AI가 정형적인 개발 프로세스와 동시에 존재할 수 있음을 보여주며, 신뢰성을 손실하지 않고 혼란을 추가함을 설명합니다.
-#인공지능 #지속적통합 #지속적배포
-
-#hashtags: #클라우드웹개발 #CI/CD #확률AI
-
 13 번째 검색 내용
-제목: 구글 클라우드는 비상호 간섭 클라우드 스토리지 버킷 이동 소개
-[INST] Google Cloud Introduces Non-Disruptive Cloud Storage Bucket Relocation
-주소: https://www.infoq.com/news/2025/07/gcp-storage-non-disruptive-move/
-설명: AI : Google Cloud의 혁신적인 Cloud Storage 버킷 이동 기능은 지역 간 순익적인 데이터 마이그레이션을 가능하게 합니다. 메타데이터를 유지하면서 애플리케이션 중단 시간을 최소화하며, 액세스 경로를 변경하지 않고 관리 및 수명 주기를 향상시킵니다. 최적화된 저장소에 대한 인사이트를 활용하여 효율적인, 낮은 지연 시간을 갖춘 솔루션을 경험할 수 있습니다.
-#GoogleCloud #데이터 마이그레이션 #저장소 관리 #인사이트 활용
+제목: Wix는 CI/CD 파이프라인에 악취를 더하고 AI를 통해 신뢰성을 향상시킵니다.
+주소: https://www.infoq.com/news/2025/07/wix-chaos-ai-cicd-pipelines/
+설명: AI : 클라우드 기반의 웹 개발 서비스인 Wix는 지속적 통합과 지속적 배포(CI/CD) 시스템에 인공지능을 통합하는 새로운 접근 방식에 대해 쓴 것입니다. Wix의 블로그 게시물에서는 확률 AI가 정형적인 개발 프로세스와 동시에 존재할 수 있고, 신뢰성을 손실하지 않으면서 혼란을 추가하는 방법을 보여줍니다.
+#인공지능 #지속적통합 #지속적배포 #클라우드기반개발
 
-#hashtags: #GoogleCloud #DataMigration #StorageManagement #InsightsUtilization
+Hashtags: #인공지능, #지속적통합, #지속적배포, #클라우드기반개발
 
 14 번째 검색 내용
-제목: 안전한 소프트웨어를 개발하면서 생산성을 희생하지 않는 방법
+제목: 구글 클라우드는 끊임없는 클라우드 스토리지 버킷 이동
 
-(Note: The translation may not be perfect as it is translated using an AI model. Please review and make necessary adjustments if needed.)
-주소: https://www.infoq.com/news/2025/07/secure-software-productivity/
-설명: 보안은 개발 효율과 충돌할 수 있습니다. 위협 영향을 최소화하는 것이 예방에 비해 더 효과적일 수 있습니다. 도로타 파라드는 준수성의 유연성을 추구하고 보안 팀과 실용적인 보호를 정의하는 데 협력하는 것이 좋다고 주장합니다. 폭발 영역을 제한하고 자동화를 사용하면 보안을 향상시키면서 생산성 손실이 최소화됩니다.
-#보안 #유연성 #자동화
+(Note: The translation may not be perfect as it's a machine translation. Please check the meaning and context before using it.)
+주소: https://www.infoq.com/news/2025/07/gcp-storage-non-disruptive-move/
+설명: Google Cloud의 혁신적인 Cloud Storage 버킷 이동 기능은 지역간 스무스하고 중단 없는 데이터 마이그레이션을 가능하게 합니다. 메타데이터를 유지하면서 애플리케이션 다운타임을 최소화합니다. 액세스 경로를 변경하지 않고도 관리, 라이프사이클 관리를 향상시키고 최적화된 저장을 위한 인쇄를 활용할 수 있습니다. 효율적이고 낮은 지연 시간의 솔루션을 겪을 수 있습니다.
+#GoogleCloud #클라우드스토리지 #데이터마이그레이션
 
-#hashtags: #보안 #유연성 #자동화
+#hashtags: #클라우드컴퓨팅 #데이터관리 #저장소리소스
 
 15 번째 검색 내용
-제목: 초대형 MCP 개발 슬롯 회의에서는 AI 통합의 미래를 도출합니다.
-주소: https://www.infoq.com/news/2025/07/mcp-summit-ai-future/
-설명: AI : 2025년 5월에 산프란시스코에서 열린 MCP(모델 컨텍스트 프로토콜) 개발자 숨겨진 회의에서, 이 매우 빠르게 채택된 열린 표준을 통해 LLM 애플리케이션과 외부 데이터 소스와 도구 간 무중단 통합을 가능하게 하는 것의 미래를 다투었습니다. MCP에 대한 로드맵에 집중하며, 중요한 기업 기능에 대한 토론이 진행되었습니다.
-#MCP #LLM #열린표준
+제목: 안전한 소프트웨어를 개발하면서 생산성을 포기하지 않는 방법
 
-#hashtags: #모델컨텍스트프로토콜, #LLM애플리케이션, #열린표준견 무중단 통합을 가능하게 하는 것의 미래를 다투었습니다. #중요한기업기능에 대한 토론이 진행되었습니다.
+(Note: The translation may not be perfect as it is a direct translation. It would be better to have it reviewed by a native Korean speaker for accuracy.)
+주소: https://www.infoq.com/news/2025/07/secure-software-productivity/
+설명: 보안은 개발 효율성과 충돌할 수 있습니다. 위협 영향을 최소화하는 것이 예방에 비해 더 효과적일 수 있습니다. 도로타 파라드는 준수성의 유연성을 추구하고 보안 팀과 실용적인 보호를 정의하는 데 함께 협력하는 것이 좋다고 주장합니다. 폭발 영역을 제한하고 자동화를 사용하면 보안을 향상시키면서 생산성 손실이 최소화됩니다.
+#보안 #유연성 #준수성 #협력 #자동화
+
+#hashtags: #보안 #유연성 #준수성
 
