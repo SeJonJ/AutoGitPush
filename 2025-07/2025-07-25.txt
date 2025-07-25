@@ -1,0 +1,139 @@
+1 번째 검색 내용
+제목: .NET 10 미리보기 6에서는 Blazor 향상 사항, 메모리 최적화, 및 SDK 개선 사항이 도입되었습니다.
+주소: https://www.infoq.com/news/2025/07/dotnet-10-preview-6/
+설명: Microsoft는 .NET 10의 6번째 미리보기를 발표했습니다. .NET Runtime, SDK, 라이브러리, C#, ASP.NET Core, Blazor, .NET MAUI 등 다양한 영역에서 많은 개선 사항을 소개했습니다. 공식 발표에 따르면, 업데이트는 성능, 개발자 경험, 크로스 플랫폼 도구를 향상시키기 위해 집중합니다.
+#Microsoft #.NET10 #성능개선 #개발자경험
+
+#hashtags: #Microsoft #.NET10 #성능개선 #개발자경험
+
+2 번째 검색 내용
+제목: [INST] 
+
+State Space Models는 저력 엣지 컴퓨팅에서 AI를 활성화할 수 있습니다.
+
+[/INST]
+주소: https://www.infoq.com/news/2025/07/state-space-models-edge-compute/
+설명: 2025 임베디드 비전 슬롯에서 BrainChip의 대표 기술 관리 사원인 Tony Lewis가 회사에서 수행한 SSM(상태 공간 모델) 연구를 소개했습니다. 이는 LLM 기능을 매우 저력 소비로 제한된 컴퓨팅 환경에서 찾아볼 수 있는 대시캠, 의료 장치, 보안 카메라, 심지어 기본 장난감과 같은 분야에서 제공할 수 있습니다.
+#임베디드비전 #상태공간모델 #저력소비 #LLM기능
+
+#hashtags: #임베디드비전, #상태공간모델, #저력소비, #LLM기능
+
+3 번째 검색 내용
+제목: 얼마나 포함적인 리더십이 기술 기업에서 지속적인 성공을 이끌 수 있는지 알아보세요.
+주소: https://www.infoq.com/news/2025/07/inclusive-leadership/
+설명: 인클루션은 한 번만 하는 것이 아니라, 결정을 내리는 방식과 팀을 구성하는 방식, 회의를 진행하는 방식 등에 모두 섞여있도록 해야 합니다. 사람들이 느껴지고 말할 수 있는 환경에서 더 완전하게 및 의미 있게 기여할 때 장기적인 성공을 유지할 수 있습니다. Matthew Card는 Qcon London에서 포함이 우선 순위를 가진 리더십에 대한 발표를 했습니다.
+#인클루션 #포함이_우선_순위 #장기적_성공
+
+Hashtags: #inclusion, #leadership, #longterm_success
+
+4 번째 검색 내용
+제목: Azure 이벤트 허브 지역 복제가 일반 사용 가능으로 발표되었습니다.
+주소: https://www.infoq.com/news/2025/07/azure-event-hubs-geo-replication/
+설명: Microsoft는 Azure Event Hubs의 Geo-복제 일반 사용 가능성을 출시했습니다. 이 기능은 데이터 가용성과 중복성을 향상시키며, 장애 발생 시 비즈니스 연속성을 보장합니다. 동기적 및 비동기적 옵션을 제공하여 사용자는 선호하는 데이터 일관성을 선택할 수 있으며, 높은 모니터링을 위해 증가한 건강 메트릭을 기반으로 합니다.
+#AzureEventHubs #Geo복제 #데이터 가용성 #비즈니스 연속성
+
+#hashtags: #Microsoft #클라우드 #데이터 처리
+
+5 번째 검색 내용
+제목: [INST] 번역된 문장: DevProxy 0.28에 AI 지원 추가
+[/INST]
+주소: https://www.infoq.com/news/2025/07/devproxy-ai-mcp/
+설명: Microsoft는 DevProxy, API 시뮬레이션 명령줄 도구의 0.29 버전을 발표했습니다. 새로운 버전에는 AI 지원이 도구를 설정하고 사용하는 데 도움이 됩니다.
+#Microsoft #DevProxy #API #AI
+
+#hashtags: #Microsoft #DevProxy #API #AI #CommandLineTool
+
+6 번째 검색 내용
+제목: 혼란에서 출발하는 코메타: AI를 지원한 상호작용을 중심으로 설계된 브라우저
+
+(Note: The translation may not be perfect as it involves some understanding of the context and meaning. Please check if it conveys the intended message correctly.)
+주소: https://www.infoq.com/news/2025/07/perplexity-comet/
+설명: Perplexity has introduced Comet, a new web browser designed to integrate natural language interaction directly into the browsing experience. Unlike conventional browsers built around navigation and search, Comet aims to support users in research, comparison, and task execution by combining browsing with persistent context and AI assistance.
+                     #인공지능 #웹브라우저 #자연어상호작용
+
+[INST] Human : Translate my sentence into Korean: Perplexity has introduced Comet, a new web browser designed to integrate natural language interaction directly into the browsing experience. Unlike conventional browsers built around navigation and search, Comet aims to support users in research, comparison, and task execution by combining browsing with persistent context and AI assistance. and Provide - #hashtags. Add 3 hashtags related to the translated content. [/INST]
+
+7 번째 검색 내용
+제목: AWS가 새로운 위험없는 계정 플랜을 소개합니다. 이 플랜은 향상된 무료 크레딧을 제공합니다.
+주소: https://www.infoq.com/news/2025/07/aws-risk-free-account-credits/
+설명: AWS는 새로운 Free Account 계획을 출시하였습니다. 이 계획은 사용자가 6개월 동안 비용 없이 서비스를 탐색할 수 있도록 허용하며, $100의 크레딧을 제공합니다. 이 계획은 개발자와 취미주자에게 적합하며, 실험과 혁신을 장려하고 비용 없이 진행할 수 있습니다. 사용자는 언제든지 업그레이드할 수 있으며 사용되지 않은 크레딧도 활용할 수 있습니다. 이러한 변화는 AWS가 산업 리더와 일치시키고, 클라우드 개발의 접근성을 향상시키며 클라우드 개발의 성장을 장려하는데 기여합니다.
+#AWS #클라우드_서비스 #개발자 #클라우드_개발
+
+#hashtags: #AWS, #클라우드_서비스, #개발자, #클라우드_개발
+
+8 번째 검색 내용
+제목: 미스트랄 빌트랄은 오픈웨이트 대립자로서, 오픈AI 위퍼와 기타 음성 인식 도구들과 경쟁합니다.
+주소: https://www.infoq.com/news/2025/07/mistral-voxtral-audio-speech-llm/
+설명: Mistral은 말 인식(ASR) 응용 프로그램에 더 고급 LLM 기능을 통합하여 단순한 전자화를 넘어서는 것에 집중한 Voxtral이라는 대규모 언어 모델을 발표했습니다. Mistral은 Voxtral Mini(3B)와 Voxtral Small(24B)의 두 가지 모델 버전에 대해 Apache 2.0 라이선스로 가중치를 발표했습니다.
+#말인식 #언어모델 #Mistral
+
+#hashtags: #ASR #AI #NLP
+
+9 번째 검색 내용
+제목: 개방인공지능(OpenAI)가 전문가 대신 일반적인 대화형 챗봇 에이전트를 발표하여 Excel, PowerPoint, Chrome와 경쟁합니다.
+주소: https://www.infoq.com/news/2025/07/openai-chatgpt-agents/
+설명: OpenAI's ChatGPT Agent는 고급 웹 탐색과 요약을 결합하여 데이터 처리에 끊임없이 적응합니다. 개발자들은 간단한 프롬프트로 수정 가능한 스프레드시트와 전시를 생성할 수 있으며, 출력을 직접 생산성 도구에 통합할 수 있습니다. 매우 높은 정확도와 연결성으로 작업 흐름 효율성을 향상시키고 복잡한 작업을 자동화하여, AI가 주도하는 생산성의 새로운 시대를 선포합니다.
+#인공지능 #ChatGPT #생산성 향상
+
+Translated content: OpenAI's ChatGPT Agent seamlessly handles data by merging advanced browsing and summarization. Developers can now create editable spreadsheets and presentations with simple prompts, directly integrating outputs into productivity tools. With impressive accuracy and connectivity, it enhances workflow efficiency while automating complex tasks, ushering in a new era of AI-driven productivity.
+#AI #ChatGPT #Productivity
+
+10 번째 검색 내용
+제목: 엠존 빌드록 에이전트코어 출시: 기업용 AI 에이전트 인프라스트럭처
+
+(Note: The translation may not be perfect as it is a direct translation from English to Korean. It would be better if a native Korean speaker checks and adjusts the translation for proper grammar and sentence structure.)
+주소: https://www.infoq.com/news/2025/07/amazon-bedrock-agentcore-launch/
+설명: Amazon은 Amazon Bedrock AgentCore의 미리보기를 발표했습니다. 이는 개발자가 프레임워크와 기본 모델을 통합하여 규모에 따른 AI 에이전트를 배포하고 운영할 때 겪는 인프라 문제를 해결하는 기업 등급 서비스의 집합입니다. 플랫폼은 생산성 AI 에이전트를 구축하는 데 직면할 수 있는 인프라 문제를 해결합니다.
+#Amazon #BedrockAgentCore #AI #인프라문제
+
+Translated content hashtags: #Amazon, #BedrockAgentCore, #AI, #인프라문제
+
+11 번째 검색 내용
+제목: AWS가 ECS에 내장된 블루그린 배포 기능 소개
+
+(Note: The translation may not be perfect as it is a machine translation. Please review and make necessary adjustments if needed.)
+주소: https://www.infoq.com/news/2025/07/aws-blue-green-ecs/
+설명: Amazon Web Services는 Amazon Elastic Container Service(ECS)에 새로운 내장된 블루/그린 배포 기능을 출시하여 배포 위험을 줄이고 추가적인 도구를 사용하지 않도록 합니다. 이 기능은 개발 팀이 문제가 발생할 경우 즉시 롤백할 수 있는 컨테이너화된 애플리케이션을 안전하게 배포할 수 있도록 합니다.
+#AWS #ECS #블루그린배포
+
+Hashtags: #AWS, #ECS, #블루그린배포
+
+12 번째 검색 내용
+제목: 제네스크 인프라 설정 간소화: 펀데이션 인터페이스 플랫폼으로 구성
+
+(Note: The translation may not be perfect as it involves translating a proper noun and technical terms. Please review the translation for accuracy.)
+주소: https://www.infoq.com/news/2025/07/zendesk-interface-platform/
+설명: Zendesk는 인프라 제공을 완전히 자기주도적인 서비스로 변화시키기 위해 새로운 Foundation Interface를 개발했습니다. 이 플랫폼은 엔지니어가 요구 사항을 간단히 선언형 YAML 파일에 정의하여 데이터베이스, 객체 저장소, 컴퓨팅 리소스, 비밀과 같은 인프라 구성 요소를 요청할 수 있도록 합니다.
+#Zendesk #FoundationInterface #인프라제공 #자기주도적인서비스
+
+Hashtags: #Zendesk, #FoundationInterface, #인프라제공, #자기주도적인서비스
+
+13 번째 검색 내용
+제목: 자바 뉴스 요약: JDK 25 RDP2, 스프링 프레임워크, 페이어라 플랫폼, 오픈 리버티, 이클립스 데이터그리드
+주소: https://www.infoq.com/news/2025/07/java-news-roundup-jul14-2025/
+설명: Java 주간 요약서: 2025년 7월 14일, JDK 25이 rampdown phase 2에 진입하며 Spring Framework 7.0의 7번째 amilestone 릴리스와 Payara Platform, Open Liberty, Oracle Critical Patch Update의 2025년 7월 버전이 발표되었습니다. 또한 Eclipse DataGrid가 오픈소스로 공개되었습니다.
+#Java #JDK25 #SpringFramework7.0 #PayaraPlatform
+
+#hashtags: #OpenLiberty #OracleCriticalPatchUpdate #EclipseDataGrid
+
+14 번째 검색 내용
+제목: [INST] 구글 번역 API를 사용하여 문장을 한국어로 번역합니다.
+
+                            SQS와 Redis에서 스위치를 Temporal으로 변경하기 위해 구독 플랫폼을 사용합니다.
+                         [/INST]
+주소: https://www.infoq.com/news/2025/07/grab-temporal-sqs-redis/
+설명: Grab은 Temporal을 기반으로 새로운 아키텍처를 구축하여 GrabUnlimited에 대한 서비스를 제공했습니다. 회사는 구독 플랫폼을 통해 수백만 명의 사용자에게 서비스를 제공하며, 사용자 경험을 향상시키고 생산성 오류 발생 率을 80% 감소시켰습니다. 새로운 아키텍처는 이전 솔루션에서 다양한 문제를 해결하며, 안정성과 확장성을 크게 향상시켰습니다.
+#Grab #Temporal #아키텍처 #안정성 #확장성
+
+#hashtags: #Grab #Temporal #아키텍처 #안정성 #확장성
+
+15 번째 검색 내용
+제목: 인공지능 코딩 도구는 실전 연구에서 경험자 개발자와 함께 사용할 때 성능이 부족합니다.
+주소: https://www.infoq.com/news/2025/07/ai-productivity/
+설명: 최근 연구에 따르면, Claude 3.5와 같은 AI 도구를 사용하는 개발자들의 작업 완료 시간이 놀라운 19% 증가한 것을 드러냅니다. METR이 수행한 이 연구에 따르면, "인식 차이"를 강조합니다. 개발자들은 더 빠르게 느껴졌지만, AI 통합과의 흐릿함으로 실제 성능이 떨어졌습니다. 이러한 결과는 AI가 소프트웨어 개발에서의 영향을 엄격하게 평가해야 한다는 것을 강조합니다.
+#인공지능 #AI_도구 #소프트웨어_개발
+
+Translated sentence: Recent research reveals a surprising 19% increase in task completion time among developers using AI tools like Claude 3.5. Conducted by METR, this study highlights a "perception gap"—while developers felt faster, real-world performance lagged due to frictions with AI integration. These findings stress the need for rigorous evaluation of AI's impact in software development.
+
+#hashtags: #인공지능 #AI_도구 #소프트웨어_개발
+
