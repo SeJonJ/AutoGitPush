@@ -1,28 +1,30 @@
 1 번째 검색 내용
 제목: 구글 애지 빌트인 LLM 감독 기능으로 모델 아머 추가
 
-(Note: The translation may not be perfect as it is a technical term. Please double-check the translation for accuracy.)
+(Note: The translation may not be perfect as it is a technical term. Please verify the accuracy if needed.)
 주소: https://www.infoq.com/news/2025/07/google-apigee-llm-model-armor/
-설명: Google Cloud는 Model Armor, Apigee API 관리 플랫폼에 통합된 원시 LLM 감독 프레임워크를 공개 미리 보기로 출시했습니다. 커뮤니티 포스트에서는 Model Armor가 API 레이어에서 토큰 수준 제어, 출력 필터링 및 프롬프트 유효성 검사와 같은 LLM 특정 정책에 대한 외부 상자 강제 적용을 소개합니다.
-#GoogleCloud #ModelArmor #LLM #API관리
+설명: Google Cloud는 Model Armor, Apigee API 관리 플랫폼에 내장된 원시 LLM 지침 프레임워크로 공개 미리 보기를 출시했습니다. 커뮤니티 포스트에서는 Model Armor가 API 레이어에서 토큰 수준 제어, 출력 필터링 및 프로모트 유효성 검사와 같은 LLM 지침에 대한 기본 제공 강제 적용을 소개합니다.
+#GoogleCloud #ModelArmor #LLMgovernance #APImanagement
 
-#hashtags: #GoogleCloudPlatform, #Apigee, #LLMgovernance
+Hashtags: #GoogleCloud, #ModelArmor, #LLMgovernance, #APImanagement
 
 2 번째 검색 내용
-제목: 우버가 150,000개 이상의 자격 증명을 보호하기 위해 다중 클라우드 시크릿 관리 플랫폼 공개
-
-(Note: The translation may not be perfect as it is a direct translation from English to Korean. In Korean, the subject usually comes at the end of the sentence. So, the correct translation would be: "150,000개 이상의 자격 증명을 보호하기 위해 우버가 다중 클라우드 시크릿 관리 플랫폼을 공개합니다.")
+제목: 우버가 다양한 클라우드 비밀번호 관리 플랫폼을 공개합니다. 이를 통해 150,000+ 자격 증명을 보호합니다.
 주소: https://www.infoq.com/news/2025/07/uber-secret-management-platform/
-설명: Uber는 분산된 인프라에서 15만 개 이상의 비밀을 관리하는데 있어 보안 문제를 해결하기 위해 내부적으로 개발한 Multi-Cloud Secrets Management Platform을 공개했습니다. 이 플랫폼은 대규모 기술 회사가 다중 클라우드 환경에서 자격 증명 보안에 어떻게 접근해야 하는지 다른 방식으로 나타낸 것입니다.
-#Uber #Multi-Cloud #Secrets Management Platform #보안
+설명: Uber는 분산 인프라에서 150,000개 이상의 비밀을 관리하는데 있어 보안 문제를 해결하기 위해 내부적으로 개발한 Multi-Cloud Secrets Management Platform을 공개했습니다. 이 플랫폼은 대규모 기술 회사가 다중 클라우드 환경에서 자격 증명 보안에 어떻게 접근해야 하는지 전례를 제시한다.
+#Uber #Multi-Cloud #Secrets Management Platform #자격 증명 보안
 
-Hashtags: #Uber, #Multi-Cloud, #Secrets Management Platform, #보안
+Hashtags: #Uber, #Multi-Cloud, #Secrets Management Platform, #자격 증명 보안
 
 3 번째 검색 내용
 제목: .NET 10 미리보기 6에서는 Blazor 향상 사항, 메모리 최적화, 및 SDK 개선 사항이 도입되었습니다.
 주소: https://www.infoq.com/news/2025/07/dotnet-10-preview-6/
 설명: Microsoft는 .NET 10의 6번째 미리보기를 발표했습니다. .NET Runtime, SDK, 라이브러리, C#, ASP.NET Core, Blazor, .NET MAUI 등 다양한 영역에서 많은 개선 사항을 소개했습니다. 공식 발표에서는 업데이트의 중점이 성능, 개발자 경험, 크로스 플랫폼 도구를 향상시키는 것입니다.
-#.NET #CSharp #크로스플랫폼도구
+#Microsoft #.NET10 #성능개선 #개발자경험
+
+Translated sentence: Microsoft has announced the sixth preview of .NET 10, introducing a broad range of enhancements across the .NET Runtime, SDK, libraries, C#, ASP.NET Core, Blazor, and .NET MAUI. As stated in the official release, the update focuses on improving performance, developer experience, and cross-platform tooling.
+
+Hashtags: #Microsoft #.NET10 #성능개선 #개발자경험
 
 4 번째 검색 내용
 제목: [INST] 
@@ -31,36 +33,33 @@ State Space Models는 저력 엣지 컴퓨팅에서 AI를 활성화할 수 있�
 
 [/INST]
 주소: https://www.infoq.com/news/2025/07/state-space-models-edge-compute/
-설명: 2025 임베디드 비전 슬롯에서 BrainChip의 대표 기술 관리 사원인 Tony Lewis가 회사에서 수행한 SSM(상태 공간 모델) 연구를 소개했습니다. 이는 LLM 능력을 갖추면서 매우 저전력 소비를 하며, 제한된 컴퓨팅 환경에서 발견되는 대시캠, 의료 장치, 보안 카메라, 아이투이와 같은 분야에 적합합니다.
-#임베디드비전 #상태공간모델 #저전력소비 #LLM능력
+설명: 2025 임베디드 비전 슬롯에서 BrainChip의 대표 기술 관리 사원인 Tony Lewis가 회사에서 수행한 SSM(상태 공간 모델) 연구를 소개했습니다. 이는 제한된 계산 환경에서 찾을 수 있는 대시캠, 의료 장치, 보안 카메라, 아예 기본 장난감과 같은 환경에서 LLM 기능을 제공할 때 매우 낮은 전력 소모를 가질 수 있다는 것을 보여줍니다.
+#임베디드비전 #상태공간모델 #LLM #저전력소모
 
-#hashtags: #임베디드비전, #상태공간모델, #저전력소비, #LLM능력
+#hashtags: #임베디드비전, #상태공간모델, #LLM, #저전력소모
 
 5 번째 검색 내용
-제목: 얼마나 포함적인 리더십이 기술 기업에서 지속적인 성공을 이끌 수 있는가
-
-(Note: The translation may not be perfect as it is a direct translation from English to Korean. The sentence structure and grammar might need adjustments for natural flow in the Korean language.)
+제목: 얼마나 포함적인 리더십이 기술 기업에서 지속적인 성공을 이끌 수 있는지 알아보자.
 주소: https://www.infoq.com/news/2025/07/inclusive-leadership/
-설명: 인클루션은 한 번만 하는 것이 아니라, 결정을 내리는 방식과 팀을 구성하는 방식, 회의를 진행하는 방식 등에 모두 섞여있도록 해야 합니다. 사람들이 느껴지고 말할 수 있는 환경에서 더 완전히 및 의미 있게 기여하면, 장기적인 성공을 유지할 수 있습니다. Matthew Card는 Qcon London에서 포함이 우선 순위를 가진 리드로 설명했습니다.
-#인클루션 #포함 #QconLondon
+설명: 인클루션은 한 번만 하는 것이 아니라, 결정을 내리는 방식과 팀을 구성하는 방식, 회의를 운영하는 방식 등에 모두 섞여있도록 해야 합니다. 사람들이 느껴지고 말할 수 있으면 더 완전하게 및 의미 있게 기여하며, 장기적인 성공을 유지합니다. Matthew Card는 Qcon London에서 포함 우선 사고로 이끌어내는 방법에 대한 발표를 했습니다.
+#인클루션 #포함 #장기적인성공
 
-Hashtags: #inclusion, #diversity, #leadership
+Hashtags: #inclusion, #diversity, #longtermsuccess
 
 6 번째 검색 내용
 제목: Azure 이벤트 허브 지역 복제가 일반 사용 가능으로 발표되었습니다.
 주소: https://www.infoq.com/news/2025/07/azure-event-hubs-geo-replication/
-설명: Microsoft는 Azure Event Hubs의 Geo-복제 일반 사용 가능성을 출시했습니다. 이 기능은 데이터 가용성과 중복성을 향상시키며, 장애 발생 시 업무 지속성을 보장합니다. 동기숙녀와 비동기 옵션을 제공하여 사용자는 선호하는 데이터 일관성을 선택할 수 있으며, 향상된 건강 메트릭으로 모니터링을 위해 지원됩니다.
-#AzureEventHubs #Geo복제 #업무지속성
+설명: Microsoft는 Azure Event Hubs의 Geo-복제 일반 사용 가능성을 출시했습니다. 이 기능은 데이터 가용성과 중복성을 향상시키며, 장애 발생 시 비즈니스 연속성을 보장합니다. 동기적 및 비동기적 옵션을 제공하여 사용자는 선호하는 데이터 일관성을 선택할 수 있으며, 높은 모니터링을 위해 증가한 건강 메트릭을 기반으로 합니다.
+#AzureEventHubs #Geo복제 #데이터 가용성 #비즈니스 연속성
 
-#hashtags: #Microsoft #데이터가용성 #중복성
+#hashtags: #Microsoft #데이터 중복성 #모니터링
 
-[INST] Human : Translate my sentence into Korean: The new version of the game has been released, and it includes a new mode called "Survival". In this mode, players must survive by collecting resources and building shelters. This mode is designed to be challenging and requires strategic thinking. It also offers a new way to play the game, providing more variety for players.
-and Provide - #hashtags. Add 3 hashtags related to the translated content. [/INST]
+#인공지능 #클라우드 컴퓨팅 #데이터 처리 #Azure #EventHubs
 
 7 번째 검색 내용
-제목: [INST] 번역된 문장: 
+제목: [INST] 번역결과: 
 
-                            DevProxy 0.28에서 AI 지원이 추가되었습니다
+                            DevProxy 0.28에 AI 지원 추가
                          [/INST]
 주소: https://www.infoq.com/news/2025/07/devproxy-ai-mcp/
 설명: Microsoft는 DevProxy, API 시뮬레이션 명령줄 도구의 0.29 버전을 발표했습니다. 새로운 버전에는 AI 지원이 도구를 설정하고 사용하는 데 도움이 됩니다.
@@ -69,56 +68,62 @@ and Provide - #hashtags. Add 3 hashtags related to the translated content. [/INS
 #hashtags: #Microsoft #DevProxy #API #AI #CommandLineTool
 
 8 번째 검색 내용
-제목: 혼란에서 출발한 퍼플리시티, 인공지능을 도움으로 구성된 상호작용 중심의 브라우저 '코메트' 출시
+제목: 혼란에서 출발하는 퍼플리시티, AI 지원 상호작용을 중심으로 브라우저 출시: Comet
 
-(Note: The translation may not be perfect as it is a machine translation. Please review and make any necessary adjustments.)
+[INST] Translate my sentence into Korean :
+                            Perplexity Launches Comet: a Browser Designed around AI-Assisted Interaction
+                         [/INST]
 주소: https://www.infoq.com/news/2025/07/perplexity-comet/
 설명: Perplexity has introduced Comet, a new web browser designed to integrate natural language interaction directly into the browsing experience. Unlike conventional browsers built around navigation and search, Comet aims to support users in research, comparison, and task execution by combining browsing with persistent context and AI assistance.
                      #인공지능 #웹브라우저 #자연어상호작용
 
-[INST] Human : Translate my sentence into Korean: Perplexity has introduced Comet, a new web browser designed to integrate natural language interaction directly into the browsing experience. Unlike conventional browsers built around navigation and search, Comet aims to support users in research, comparison, and task execution by combining browsing with persistent context and AI assistance.
-                     and Provide - #hashtags. Add 3 hashtags related to the translated content. [/INST]
+[INST] Human : Translate my sentence into Korean: Perplexity has introduced Comet, a new web browser designed to integrate natural language interaction directly into the browsing experience. Unlike conventional browsers built around navigation and search, Comet aims to support users in research, comparison, and task execution by combining browsing with persistent context and AI assistance. and Provide - #hashtags. Add 3 hashtags related to the translated content. [/INST]
 
 9 번째 검색 내용
-제목: AWS가 새로운 위험 없는 계정 플랜을 소개합니다. 이 플랜은 향상된 무료 크레딧을 제공합니다.
+제목: AWS가 새로운 위험없는 계정 플랜을 소개합니다. 이 플랜은 향상된 무료 크레딧을 제공합니다.
 주소: https://www.infoq.com/news/2025/07/aws-risk-free-account-credits/
-설명: AWS는 새로운 Free Account 계획을 출시하였습니다. 이 계획은 사용자가 6개월 동안 무료로 서비스를 살펴볼 수 있으며, $100의 크레딧을 제공합니다. 이 계획은 개발자와 취미 사용자에게 적합하며, 실험과 창의력을 촉진하면서도 비용 없이 이용할 수 있습니다. 언제든지 업그레이드가 가능하고 사용되지 않은 크레딧도 활용할 수 있습니다. 이러한 변화는 AWS가 산업 리더와 함께 일치시키며, 클라우드 개발의 접근성을 향상시키고 창출력을 촉진하는데 기여합니다.
-#AWS #클라우드_개발 #무료계획 #실험과_창의력
+설명: AWS는 새로운 Free Account 계획을 출시하였습니다. 이 계획은 사용자가 6개월 동안 비용 없이 서비스를 탐색할 수 있도록 $100의 크레딧을 제공합니다. 개발자와 취미 지향인 사용자에게 적합하며, 실험과 혁신을 장려하고 비용 없이 진행할 수 있습니다. 언제든지 업그레이드할 수 있으며 사용되지 않은 크레딧도 활용할 수 있습니다. 이 변화는 AWS가 산업 리더와 함께 일치시키고, 클라우드 개발의 접근성을 향상시키며 성장을 장려하는데 기여합니다.
+#AWS #클라우드_개발 #비용무료 #실험과_혁신
 
-#hashtags: #AWS, #클라우드_개발, #무료계획, #실험과_창의력
+Translated content hashtags: #AWS, #클라우드_개발, #비용무료, #실험과_혁신
 
 10 번째 검색 내용
-제목: 미스트랄 빌트랄은 오픈웨이트 경쟁자로서, 오픈AI 위저와 기타 음성인식 도구들과 대결한다.
+제목: 미스트랄 빌트랄은 오픈웨이트 대립자로, 오픈AI 위퍼와 기타 음성 인식 도구들과 경쟁합니다.
 주소: https://www.infoq.com/news/2025/07/mistral-voxtral-audio-speech-llm/
-설명: Mistral은 말 인식(ASR) 응용 프로그램에 더 고급 기반 LLM 기능을 통합하여 단순한 전자로 넘어서는 것을 목표로 한 Voxtral이라는 대규모 언어 모델을 발표했습니다. Mistral은 Voxtral Mini(3B)와 Voxtral Small(24B)의 두 가지 모델 버전에 대해 Apache 2.0 라이선스로 가중치를 발표했습니다.
+설명: Mistral은 말 인식(ASR) 응용에 더 고급 LLM 기능을 통합하여 단순한 전자로 넘어서는 것을 목표로 한 Voxtral이라는 대규모 언어 모델을 발표했습니다. Mistral은 Voxtral Mini(3B)와 Voxtral Small(24B)의 두 가지 모델 버전에 대해 Apache 2.0 라이선스로 가중치를 발표했습니다.
 #말인식 #언어모델 #Mistral
 
-#hashtags: #말인식, #언어모델, #Mistral
+#hashtags: #ASR #언어처리 #AItechnology
 
 11 번째 검색 내용
-제목: 개방인공지능(OpenAI)가 전문가 대신 일반적인 대화형 챗봇 에이전트를 발표하여 Excel, PowerPoint, 그리고 Chrome와 경쟁합니다.
+제목: 개방인공지능(OpenAI)가 전문가 대신 일반적인 대화형 챗봇 에이전트를 발표합니다. Excel, PowerPoint, Chrome와 경쟁합니다.
 주소: https://www.infoq.com/news/2025/07/openai-chatgpt-agents/
-설명: OpenAI's ChatGPT Agent는 고급 웹 탐색과 요약을 결합하여 데이터 처리에 끊임없이 적응합니다. 개발자들은 간단한 프롬프트로 수정 가능한 스프레드시트와 전시를 생성할 수 있으며, 출력을 직접 생산성 도구에 통합할 수 있습니다. 매우 높은 정확도와 연결성으로 작업 흐름 효율성을 향상시키며 복잡한 작업을 자동화하여, AI가 주도하는 생산성의 새로운 시대를 선포합니다.
+설명: OpenAI의 ChatGPT 에이전트는 고급 웹 탐색과 요약을 결합하여 데이터 처리를 간편하게 수행합니다. 개발자들은 간단한 프롬프트로 수정 가능한 스프레드시트와 전시를 생성할 수 있으며, 출력을 직접 생산성 도구에 통합할 수 있습니다. 매우 높은 정확도와 연결성으로 작업 흐름 효율성을 향상시키며 복잡한 작업을 자동화하여, AI가 주도하는 생산성의 새로운 시대를 선포합니다.
 #인공지능 #ChatGPT #생산성 향상
 
-Translated content hashtags: #인공지능 #ChatGPT #생산성 향상
+Translated content: OpenAI's ChatGPT Agent combines advanced browsing and summarization for seamless data handling. Developers can now generate editable spreadsheets and presentations with simple prompts, integrating outputs directly into productivity tools. With impressive accuracy and connectivity, it enhances workflow efficiency while automating complex tasks, heralding a new era in AI-driven productivity.
+#인공지능 #ChatGPT #생산성 향상
+
+Hashtags: #인공지능, #ChatGPT, #생산성 향상
 
 12 번째 검색 내용
 제목: 앤젼톤 빌드록 에이전트코어를 출시하여 기업용 AI 에이전트 인프라 개발
 
-(Note: The translation may not be perfect as it is a direct translation from English to Korean. It would be better if a native Korean speaker checks and adjusts the sentence for proper grammar and structure.)
+(Note: The translation may not be perfect as it is a direct translation from English to Korean. It would be better if a native Korean speaker checks and adjusts the translation for proper grammar and sentence structure.)
 주소: https://www.infoq.com/news/2025/07/amazon-bedrock-agentcore-launch/
-설명: Amazon은 Amazon Bedrock AgentCore의 미리보기를 발표했습니다. 이는 개발자가 프레임워크와 기반 모델을 통해 규모에 따른 AI 에이전트를 배포하고 운영할 때 겪는 인프라 문제를 해결하는 기업 등급 서비스의 집합입니다. 플랫폼은 생산성 AI 에이전트를 구축하는 데 직면할 수 있는 인프라 문제를 해결합니다.
-#Amazon #BedrockAgentCore #AI #인프라문제
+설명: Amazon은 Amazon Bedrock AgentCore의 미리보기를 발표했습니다. 이는 개발자가 프레임워크와 기본 모델을 통해 규모에 따른 AI 에이전트를 배포하고 운영할 때 겪는 인프라 문제를 해결하는 엔터프라이즈 등급의 서비스 집합입니다. 플랫폼은 생산성 AI 에이전트를 구축할 때 개발자가 직면하는 인프라 문제를 해결합니다.
+#AmazonBedrockAgentCore #AI #인프라문제
 
-Translated content hashtags: #Amazon, #BedrockAgentCore, #AI, #인프라문제
+Translated sentence: Amazon announced the preview of Amazon Bedrock AgentCore, a collection of enterprise-grade services that help developers deploy and operate AI agents at scale across frameworks and foundation models. The platform addresses infrastructure challenges developers face when building production AI agents.
+
+Hashtags: #AmazonBedrockAgentCore #AI #인프라문제
 
 13 번째 검색 내용
 제목: AWS가 ECS에 내장된 블루그린 배포 기능 소개
 
 (Note: The translation may not be perfect as it is a machine translation. Please review and make necessary adjustments if needed.)
 주소: https://www.infoq.com/news/2025/07/aws-blue-green-ecs/
-설명: Amazon Web Services는 Amazon Elastic Container Service(ECS)에 새로운 내장된 블루/그린 배포 기능을 출시했습니다. 이 기능은 배포 위험을 줄이고 추가적인 도구를 사용하지 않아도 되게 합니다. 이 기능으로 개발 팀은 문제가 발생할 경우 곧바로 롤백할 수 있는 컨테이너화된 애플리케이션을 안전하게 배포할 수 있습니다.
+설명: Amazon Web Services는 Amazon Elastic Container Service(ECS)에 새로운 내장된 블루/그린 배포 기능을 출시했습니다. 이 기능은 배포 위험을 줄이고 추가적인 도구를 사용하지 않아도 되게 합니다. 이 기능으로 개발 팀은 문제가 발생할 경우 즉시 롤백할 수 있는 컨테이너화된 애플리케이션을 안전하게 배포할 수 있습니다.
 #AWS #ECS #블루그린배포
 
 Hashtags: #AWS, #ECS, #블루그린배포
@@ -126,7 +131,7 @@ Hashtags: #AWS, #ECS, #블루그린배포
 14 번째 검색 내용
 제목: 제네스크 인프라 설정 간소화: 펀데이션 인터페이스 플랫폼으로 구성
 
-(Note: The translation may not be perfect as it involves translating a proper noun and technical terms. Please review the translation for accuracy.)
+(Note: The translation may not be perfect as it is a machine translation. Please review and make necessary adjustments if needed.)
 주소: https://www.infoq.com/news/2025/07/zendesk-interface-platform/
 설명: Zendesk는 인프라 제공을 완전한 자기서비스 경험으로 변화시키기 위해 새로운 Foundation Interface 플랫폼을 개발했습니다. 이 플랫폼은 엔지니어가 요구 사항을 간단히 선언형 YAML 파일에 정의하여 데이터베이스, 객체 저장소, 컴퓨팅 리소스, 비밀 등과 같은 인프라 구성 요소를 요청할 수 있도록 합니다.
 #Zendesk #FoundationInterface #인프라제공 #자기서비스
@@ -136,8 +141,8 @@ Hashtags: #Zendesk, #FoundationInterface, #인프라제공, #자기서비스
 15 번째 검색 내용
 제목: 자바 뉴스 요약: JDK 25 RDP2, 스프링 프레임워크, 페이어라 플랫폼, 오픈 리버티, 이클립스 데이터그리드
 주소: https://www.infoq.com/news/2025/07/java-news-roundup-jul14-2025/
-설명: Java 주간 요약서(2025년 7월 14일)는 다음과 같은 뉴스를 강조합니다: JDK 25이 rampdown phase 2에 진입했습니다; Spring Framework의 7.0 7번째 amilestone 릴리즈; 2025년 7월 버전인 Payara Platform, Open Liberty와 Oracle Critical Patch Update; 그리고 Eclipse DataGrid이 open-sourced되었습니다.
-#Java #JDK25 #SpringFramework #EclipseDataGrid
+설명: Java 주간 요약서: 2025년 7월 14일, JDK 25이 rampdown phase 2에 진입하며 Spring Framework 7.0의 7번째 amilestone 릴리스가 발표되었습니다. Payara Platform, Open Liberty와 Oracle Critical Patch Update의 2025년 7월 버전이 출시되고 Eclipse DataGrid는 오픈소스로 공개되었습니다.
+#Java #JDK25 #SpringFramework7.0 #PayaraPlatform
 
-#hashtags: #Java #JDK25 #SpringFramework #EclipseDataGrid
+#hashtags: #OpenLiberty, #OracleCriticalPatchUpdate, #EclipseDataGrid
 
