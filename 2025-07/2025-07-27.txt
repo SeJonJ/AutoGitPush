@@ -1,0 +1,144 @@
+1 번째 검색 내용
+제목: 퀴웨ן 팀이 대규모의 에지 코딩 모델인 Qwen3-Coder와 열린 도구를 함께 발표합니다.
+주소: https://www.infoq.com/news/2025/07/qwen3-coder/
+설명: Qwen Team은 Qwen3-Coder, 장기 맥락, 다단계 프로그래밍 작업에 적합한 새로운 에이전트 코드 모델을 발표했습니다. 가장 능력 있는 변형, Qwen3-Coder-480B-A35B-Instruct는 Mixture-of-Experts 모델로, 전체적으로 480억 개의 매개 변수와 각 전방 통과에 35억 개의 활성 매개 변수가 있습니다.
+#QwenTeam #Qwen3-Coder #에이전트코드모델
+
+#hashtags: #AI #프로그래밍 #장기맥락
+#인공지능 #프로그래밍 #장기맥락
+
+2 번째 검색 내용
+제목: AWS가 인텔리전스 벡터 기능을 Amazon S3에 도입합니다.
+주소: https://www.infoq.com/news/2025/07/aws-s3-vectors/
+설명: 인공지능 : 최근 AWS 슬롯에서는 New York City에서 AWS가 Amazon S3 Vectors의 미리보기를 발표했습니다. 이것은 대규모 벡터 데이터 저장을 지원하는 첫 번째 클라우드 오브젝트 스토어로 설명되며, AI 준비 데이터의 저장 비용을 줄여주고 있습니다. 새로운 옵션은 쿼리 성능이 1초 미만으로 제공되는 것을 포함합니다.
+#AWS #AmazonS3Vectors #인공지능데이터 #빠른쿼리성능
+
+Hashtags: #AWS #AmazonS3Vectors #인공지능데이터 #빠른쿼리성능
+
+3 번째 검색 내용
+제목: 구글 애지 빌트인 LLM 감독 기능으로 모델 아머 추가
+
+(Note: The translation may not be perfect as it is a technical term. Please verify the accuracy if needed.)
+주소: https://www.infoq.com/news/2025/07/google-apigee-llm-model-armor/
+설명: Google Cloud는 Model Armor, Apigee API 관리 플랫폼에 통합된 원시 LLM 지침 프레임워크로 공개 미리 보기를 출시했습니다. 커뮤니티 포스트에서는 Model Armor가 API 레이어에서 토큰 수준 제어, 출력 필터링 및 프롬프트 유효성 검사와 같은 LLM 지침에 대한 외부 상자 강제 적용을 소개합니다.
+#GoogleCloud #ModelArmor #LLM #API관리
+
+#hashtags: #GoogleCloudPlatform, #Apigee, #LLMGovernance
+
+4 번째 검색 내용
+제목: 우버가 150,000개 이상의 자격 증명을 보호하기 위해 다중 클라우드 시크릿 관리 플랫폼 공개
+
+(Note: The translation may not be perfect as it is a direct translation from English to Korean. The sentence structure and grammar might need adjustments for natural Korean language flow.)
+주소: https://www.infoq.com/news/2025/07/uber-secret-management-platform/
+설명: Uber는 150,000개 이상의 분산 인프라를 관리하면서 보안 문제를 해결하기 위해 내부에서 개발한 Multi-Cloud Secrets Management Platform을 공개했습니다. 이 플랫폼은 대규모 기술 회사가 다중 클라우드 환경에서 자격 증명 보안을 처리하는 방식의 유의미한 진화를 나타냅니다.
+#Uber #Multi-Cloud #SecretsManagementPlatform #보안
+
+Hashtags: #Uber, #Multi-Cloud, #SecretsManagementPlatform, #보안
+
+5 번째 검색 내용
+제목: .NET 10 미리보기 6에서는 Blazor 향상 사항, 메모리 최적화, 및 SDK 개선 사항이 도입되었습니다.
+주소: https://www.infoq.com/news/2025/07/dotnet-10-preview-6/
+설명: Microsoft는 .NET 10의 6번째 미리보기를 발표했습니다. .NET Runtime, SDK, 라이브러리, C#, ASP.NET Core, Blazor, .NET MAUI 등 다양한 영역에서 많은 개선 사항을 소개했습니다. 공식 발표에서는 업데이트의 중점이 성능, 개발자 경험, 크로스 플랫폼 도구를 향상시키는 것입니다.
+#Microsoft #.NET10 #성능 #개발자경험 #크로스플랫폼도구
+
+#hashtags: #Microsoft #.NET10 #성능 #개발자경험 #크로스플랫폼도구
+
+6 번째 검색 내용
+제목: [INST] 
+
+"State Space Models는 낮은 전력 에지 컴퓨팅에서 AI를 활성화할 수 있습니다."
+
+[/INST]
+주소: https://www.infoq.com/news/2025/07/state-space-models-edge-compute/
+설명: 2025 임베디드 비전 슬롯에서 BrainChip의 대표 기술 관리 사원인 Tony Lewis가 회사에서 수행한 SSM(상태 공간 모델) 연구를 소개했습니다. 이는 LLM 기능을 매우 저력 소비로 제한된 컴퓨팅 환경에서 찾아볼 수 있는 대시캠, 의료 장치, 보안 카메라, 심지어 기본 장난감과 같은 분야에서 제공할 수 있습니다.
+#임베디드비전 #상태공간모델 #저력소비 #LLM기능
+
+#hashtags: #임베디드비전, #상태공간모델, #저력소비, #LLM기능
+
+7 번째 검색 내용
+제목: 얼마나 포함적인 리더십이 기술 기업에서 지속적인 성공을 가할 수 있는지 알아보세요.
+주소: https://www.infoq.com/news/2025/07/inclusive-leadership/
+설명: 인클루션은 한 번만 하는 것이 아니라, 결정을 내리는 방식과 팀을 구성하는 방식, 회의를 진행하는 방식 등에 모두 얽여져 있어야 합니다. 사람들이 느껴지고 듣히는 상황에서 더 완전하게 및 의미 있게 기여할 수 있습니다. 장기적인 성공을 유지하는 데 도움이 됩니다. Matthew Card는 Qcon London에서 포함 우선 사고로 이끌어내는 방법에 대한 발표를 했습니다.
+#인클루션 #포함 우선 사고 #장기적 성공
+
+Hashtags: #inclusion, #inclusivemindset, #longtermsuccess
+
+8 번째 검색 내용
+제목: Azure 이벤트 허브 지역 복제가 일반 사용 가능으로 발표되었습니다.
+주소: https://www.infoq.com/news/2025/07/azure-event-hubs-geo-replication/
+설명: Microsoft는 Azure Event Hubs의 Geo-복제 일반 사용 가능성을 출시했습니다. 이 기능은 데이터 가용성과 중복성을 향상시키며, 장애 발생 시 비즈니스 연속성을 보장합니다. 동기적 및 비동기적 옵션을 제공하여 사용자는 선호하는 데이터 일관성을 선택할 수 있으며, 높은 모니터링 지표를 보장합니다.
+#Microsoft #AzureEventHubs #Geo복제 #비즈니스연속성
+
+#hashtags: #Microsoft #AzureEventHubs #GeoReplication #BusinessContinuity
+
+9 번째 검색 내용
+제목: [INST] 번역된 문장: 
+
+                            DevProxy 0.28에 AI 지원 추가
+                         [/INST]
+주소: https://www.infoq.com/news/2025/07/devproxy-ai-mcp/
+설명: Microsoft는 DevProxy, API 시뮬레이션 명령줄 도구의 0.29 버전을 출시했습니다. 새로운 버전에서는 AI를 사용하여 도구를 설정하고 사용하는 데 지원됩니다.
+#Microsoft #DevProxy #API #인공지능
+
+#hashtags: #Microsoft #DevProxy #API #인공지능
+
+10 번째 검색 내용
+제목: 혼란에서 출발하는 퍼플리시티, AI 지원 상호작용을 중심으로 브라우저 출시: Comet
+
+[INST] Translate my sentence into Korean :
+                            Perplexity Launches Comet: a Browser Designed around AI-Assisted Interaction
+                         [/INST]
+주소: https://www.infoq.com/news/2025/07/perplexity-comet/
+설명: Perplexity has introduced Comet, a new web browser designed to integrate natural language interaction directly into the browsing experience. Unlike conventional browsers built around navigation and search, Comet aims to support users in research, comparison, and task execution by combining browsing with persistent context and AI assistance.
+                     #인공지능 #웹브라우저 #자연어상호작용
+
+[INST] Human : Translate my sentence into Korean: Perplexity has introduced Comet, a new web browser designed to integrate natural language interaction directly into the browsing experience. Unlike conventional browsers built around navigation and search, Comet aims to support users in research, comparison, and task execution by combining browsing with persistent context and AI assistance.
+                     and Provide - #hashtags. Add 3 hashtags related to the translated content. [/INST]
+
+11 번째 검색 내용
+제목: AWS가 새로운 위험없는 계정 플랜을 소개합니다. 이 플랜은 향상된 무료 크레딧을 제공합니다.
+주소: https://www.infoq.com/news/2025/07/aws-risk-free-account-credits/
+설명: AWS는 새로운 Free Account 계획을 출시하였습니다. 이 계획은 사용자가 6개월 동안 비용 없이 서비스를 탐색할 수 있도록 100달러의 크레딧을 제공합니다. 개발자와 취미주자에게 적합하며, 실험과 혁신을 장려하고 비용 없이 진행할 수 있습니다. 언제든지 사용자는 계속 사용할 수 있으며 사용되지 않은 크레딧도 활용할 수 있습니다. 이러한 변화는 AWS가 산업 리더와 함께 일치시키고, 클라우드 개발의 접근성을 향상시키며 성장을 장려하는데 기여합니다.
+#AWS #클라우드개발 #비용무료실험 #성장과융합
+
+Translated content hashtags: #AWS, #클라우드개발, #비용무료실험, #성장과융합
+
+12 번째 검색 내용
+제목: 미스트랄 빌트랄은 오픈웨이트 대립자로서, 오픈AI 위퍼와 기타 음성 인식 도구들과 경쟁합니다.
+주소: https://www.infoq.com/news/2025/07/mistral-voxtral-audio-speech-llm/
+설명: Mistral은 말 인식(ASR) 응용 프로그램에 더 고급 기반 LLM 기능을 통합하여 단순한 전자 문서 밖에 없는 것을 넘어 설계된 Voxtral이라는 대규모 언어 모델을 발표했습니다. Mistral은 Voxtral Mini(3B)와 Voxtral Small(24B)의 두 가지 모델 버전에 대해 Apache 2.0 라이선스로 가중치를 발표했습니다.
+#말인식 #언어모델 #Mistral
+
+#hashtags: #말인식, #언어모델, #Mistral
+
+13 번째 검색 내용
+제목: 개방인공지능(OpenAI)가 엑셀, 파워포인트, 크롬과 경쟁하기 위해 일반적인 대화형 챗봇 에이전트를 발표합니다.
+주소: https://www.infoq.com/news/2025/07/openai-chatgpt-agents/
+설명: OpenAI의 ChatGPT 에이전트는 고급 웹 탐색과 요약을 결합하여 데이터 처리를 간편하게 수행합니다. 개발자들은 간단한 프롬프트로 변경 가능한 스프레드시트와 전시를 생성할 수 있으며, 출력을 직접 생산성 도구에 통합할 수 있습니다. 매우 높은 정확도와 연결성으로 작업 흐름 효율성을 향상시키며 복잡한 작업을 자동화하여, AI가 주도하는 생산성의 새로운 시대를 선포합니다.
+#인공지능 #ChatGPT #생산성 향상
+
+Translated content: OpenAI's ChatGPT Agent combines advanced browsing and summarization for seamless data handling. Developers can now generate editable spreadsheets and presentations with simple prompts, integrating outputs directly into productivity tools. With impressive accuracy and connectivity, it enhances workflow efficiency while automating complex tasks, heralding a new era in AI-driven productivity.
+#인공지능 #ChatGPT #생산성 향상
+
+Hashtags: #인공지능, #ChatGPT, #생산성 향상
+
+14 번째 검색 내용
+제목: 앤젼톤 빌드록 에이전트코어를 출시하여 기업용 AI 에이전트 인프라 개발
+
+(Note: The translation may not be perfect as it involves proper nouns and technical terms. Please review the translation for accuracy.)
+주소: https://www.infoq.com/news/2025/07/amazon-bedrock-agentcore-launch/
+설명: Amazon은 Amazon Bedrock AgentCore의 미리보기를 발표했습니다. 이것은 개발자가 프레임워크와 기반 모델을 넘어서 규모에 따른 AI 에이전트를 배포하고 운영할 때 사용되는 엔터프라이즈 등급의 서비스 집합입니다. 플랫폼은 프로덕션 AI 에이전트를 구축하는 데 직면할 수 있는 인프라 문제를 해결합니다.
+#Amazon #BedrockAgentCore #AI #엔터프라이즈등급서비스
+
+Translated content hashtags: #Amazon, #BedrockAgentCore, #AI, #엔터프라이즈등급서비스
+
+15 번째 검색 내용
+제목: AWS가 ECS에 내장된 블루그린 배포 기능 소개
+
+(Note: The translation may not be perfect as it is a machine translation. Please review and make necessary adjustments if needed.)
+주소: https://www.infoq.com/news/2025/07/aws-blue-green-ecs/
+설명: Amazon Web Services는 Amazon Elastic Container Service(ECS)에 새로운 내장된 블루/그린 배포 기능을 출시했습니다. 이 기능은 배포 위험을 줄이고 추가적인 도구를 사용하지 않아도 되게 합니다. 이 기능으로 개발 팀은 문제가 발생할 경우 곧바로 롤백할 수 있는 컨테이너화된 애플리케이션을 안전하게 배포할 수 있습니다.
+#AWS #ECS #블루그린배포
+
+Hashtags: #AWS, #ECS, #블루그린배포
+
