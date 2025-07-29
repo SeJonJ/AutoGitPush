@@ -1,61 +1,75 @@
 1 번째 검색 내용
-제목: 애플은 iOS 26에 대한 앞으로 출시될 AI 기반 모델의 세부 사항을 공개합니다.
-주소: https://www.infoq.com/news/2025/07/apple-foundation-models-ios26/
-설명: 인공지능 : 최근 기술 보고서에서는, Apple이 iOS 26에 포함되어 있을 새로운 Apple Intelligence Foundation Models의 성능과 특성에 대해 더 자세한 정보를 제공했습니다. 이것은 WWDC 2025에서 발표되었습니다.
-#인공지능 #iOS26 #WWDC2025
+제목: 자바 뉴스 요약: 퀘어크스 MCP용 CLI 도구, 그루비 5.0 amilestone, 제이힌스터, 그라얼VM
 
-Hashtags: #Apple #기술보고서 #인공지능모델
+(Note: The translation may not be perfect as some terms are specific to the Java ecosystem and might have direct translations in Korean.)
+주소: https://www.infoq.com/news/2025/07/java-news-roundup-jul21-2025/
+설명: Java 주요 뉴스 요약: 2025년 7월 21일, Quarkus MCP Client를 사용하여 명령줄에서 안전한 Quarkus MCP Server에 액세스하는 새로운 도구; Groovy 5.0.0의 두 번째 베타 릴리스; GraalVM Native Build Tools와 JHipster Lite에 대한 포인트 릴리스입니다.
+#Quarkus #GraalVM #JHipster
+#Java #뉴스 #릴리스 #도구
 
 2 번째 검색 내용
-제목: [INST] 국가 AI 전략 발표: 흰 하우스는 혁신, 인프라, 및 글로벌 리더십을 중심으로 국가 AI 전략 발표
-[/INST]
-주소: https://www.infoq.com/news/2025/07/america-ai-action-plan/
-설명: The White House has published America’s AI Action Plan, outlining a national strategy to enhance U.S. leadership in artificial intelligence. The plan follows President Trump’s January Executive Order 14179, which directed federal agencies to accelerate AI development and remove regulatory barriers to innovation.
-                     #인공지능 #미국 #전략
+제목: 애플은 iOS 26에 대한 향후 AI 기반 모델의 세부 사항을 공개합니다.
+주소: https://www.infoq.com/news/2025/07/apple-foundation-models-ios26/
+설명: 인공지능 : 최근 기술 보고서에서는 Apple이 iOS 26에 포함된 새로운 Apple Intelligence Foundation Models의 성능과 특성에 대해 더 자세한 정보를 제공했습니다. WWDC 2025에서 발표되었습니다.
+#iOS #인공지능모델 #WWDC2025
 
-#hashtags:
-#인공지능 #미국 #전략 #대통령 #AI #정책 #기술발전 #혁신 #제한없는이상함 #무역 #경쟁력 #기업 #연구개발 #정부 #정책지원 #인공지능기술
+Hashtags:
+1. #iOS
+2. #인공지능모델
+3. #WWDC2025
 
 3 번째 검색 내용
-제목: 스프링 뉴스 요약: 부트, 보안, 인증 서버, GraphQL, 카프카, 펌사르의 기록 발표
+제목: [INST] 국가 인공지능 전략 발표 - 혁신, 철거, 글로벌 리더십 중심
 
-(Note: The Korean translation may not be perfect as it involves translating technical terms and proper nouns. Please review the translation for accuracy.)
-주소: https://www.infoq.com/news/2025/07/spring-news-roundup-jul21-2025/
-설명: There was a flurry of activity in the Spring ecosystem during the week of July 21st, 2025, highlighting milestone releases of Spring Boot, Spring Security, Spring Authorization Server, Spring for GraphQL, Spring Session, Spring Integration, Spring REST Docs, Spring Batch, Spring AMQP, Spring for Apache Kafka, Spring for Apache Pulsar and Spring Web Services.
-#스프링 #소프트웨어 #개발
+The White House has released a national AI strategy focused on innovation, infrastructure, and global leadership. In Korean, this can be translated as "국가 인공지능 전략 발표 - 혁신, 철거, 글로벌 리더십 중심".
+주소: https://www.infoq.com/news/2025/07/america-ai-action-plan/
+설명: The White House has published America’s AI Action Plan, outlining a national strategy to enhance U.S. leadership in artificial intelligence. The plan follows President Trump’s January Executive Order 14179, which directed federal agencies to accelerate AI development and remove regulatory barriers to innovation.
+#인공지능 #미국 #전염병
 
-Translated sentence: 스프링 에코시스템에서 7월 21일 주에는 많은 활동이 있었으며, Spring Boot, Spring Security, Spring Authorization Server, Spring for GraphQL, Spring Session, Spring Integration, Spring REST Docs, Spring Batch, Spring AMQP, Spring for Apache Kafka, Spring for Apache Pulsar, 및 Spring Web Services와 같은 많은 모듈에 대한 주요 릴리스가 강조되었습니다.
-#스프링 #소프트웨어 #개발
+Translated content:
+The White House has published America’s AI Action Plan, outlining a national strategy to enhance U.S. leadership in artificial intelligence. The plan follows President Trump’s January Executive Order 14179, which directed federal agencies to accelerate AI development and remove regulatory barriers to innovation.
+#인공지능 #미국 #전염병
+
+Hashtags:
+#인공지능 #미국 #전염병
 
 4 번째 검색 내용
-제목: Vercel이 외부 API 캐싱 분석을 추가하여 관찰성 기능에 포함합니다.
+제목: 스프링 뉴스 요약: 부트, 보안, 인증 서버, GraphQL, 카프카, 펌사르의 기록 발표
+
+(Note: The Korean translation may not be perfect as it involves technical terms related to Spring framework and messaging systems. However, the general idea of the sentence is conveyed.)
+주소: https://www.infoq.com/news/2025/07/spring-news-roundup-jul21-2025/
+설명: There was a flurry of activity in the Spring ecosystem during the week of July 21st, 2025, highlighting milestone releases of Spring Boot, Spring Security, Spring Authorization Server, Spring for GraphQL, Spring Session, Spring Integration, Spring REST Docs, Spring Batch, Spring AMQP, Spring for Apache Kafka, Spring for Apache Pulsar and Spring Web Services.
+#스프링 #소프트웨어 #개발 #기술
+
+Translated sentence: 스프링 생태계에서는 7월 21일 주에 많은 활동이 있었으며, Spring Boot, Spring Security, Spring Authorization Server, Spring for GraphQL, Spring Session, Spring Integration, Spring REST Docs, Spring Batch, Spring AMQP, Spring for Apache Kafka, Spring for Apache Pulsar, 그리고 Spring Web Services와 같은 주요 릴리스가 발표되었습니다.
+#스프링 #소프트웨어 #개발 #기술
+
+5 번째 검색 내용
+제목: Vercel은 외부 API 캐싱 분석을 추가하여 관찰성 기능에 포함합니다.
 주소: https://www.infoq.com/news/2025/07/vercel-api-caching-analytics/
-설명: Vercel은 외부 API 캐싱 인사이트를 통합하여 관찰성 플랫폼을 향상시키고, 개발자들이 제3자 API 요청을 Vercel Data Cache에서 원본 서버로 라우팅되는 것보다 어떤 수치만큼 서비스하는지 추적할 수 있게 합니다.
+설명: Vercel은 외부 API 캐싱 인사이트를 통합하여 관찰성 플랫폼을 향상시키며, 개발자들이 제3자 API 요청을 Vercel Data Cache에서 원본 서버로 라우팅하는 것보다 어떤 수치만큼 서비스하는지 추적할 수 있게 되었습니다.
 #Vercel #관찰성 #API #캐싱
 
 #인공지능 #의료 #금융 #교통
 
-5 번째 검색 내용
-제목: [INST] 하둡에서 쿠버네티스까지: 핀터스트의 확장성 있는 스파크 아키텍처를 AWS EKS에서 구현하는 방법 [/INST]
+6 번째 검색 내용
+제목: [INST] 하둡에서 카프카까지: 핀터스트의 확장성 있는 스파크 아키텍처를 AWS EKS에서 구현하는 방법 [/INST]
 주소: https://www.infoq.com/news/2025/07/pinterest-spark-kubernetes/
-설명: Pinterest는 Hadoop 시스템에서 Moka 플랫폼으로 전환하여 데이터 인프라를 리펙닝했습니다. Kubernetes와 Spark를 AWS EKS에서 활용하며, 전략적인 변경은 작업 격리, 배포 간소화, 자원 관리를 최적화하여 비용 절감과 효율성 향상을 이끕니다.
+설명: Pinterest는 Hadoop 시스템에서 Moka 플랫폼으로 전환하여 데이터 인프라를 리펙닝했습니다. Kubernetes와 Spark를 AWS EKS에서 활용하며, 전략적인 변경은 작업 격리, 배포 간소화, 자원 관리를 최적화함으로써 비용 감소와 효율성 향상을 이끕니다.
 #데이터인프라 #AWS #Kubernetes
 
-#hashtags:
-1. #데이터인프라변경
-2. #AWS_EKS
-3. #Kubernetes_최적화
-
-6 번째 검색 내용
-제목: 데이터브릿크 에이전트 브릭스는 기업용 AI 개발을 TAO와 ALHF 방법으로 자동화합니다.
-주소: https://www.infoq.com/news/2025/07/databricks-agent-bricks-platform/
-설명: Databricks는 기업이 도메인 특화 에이전트를 개발하는 방식을 변경시키는 새로운 제품인 Agent Bricks를 소개했습니다. 자동화된 워크플로우는 질성 평가와 LLM 판례를 생성하여 품질 평가, 고객 데이터에 유사한 합성 데이터를 만들어 에이전트 학습을 보완하고, 에이전트 성능을 향상시키기 위해 최적화 기술을 검색합니다.
-#데이터브락스 #에이전트브릭스 #도메인특화에이전트
-
-Hashtags: #데이터분석 #AI #에이전트개발
+#hashtags: #데이터인프라변경 #AWS기반의전환 #Kubernetes활용을통해비용감소효율성향상
 
 7 번째 검색 내용
-제목: .NET MAUI 10 미리보기 6에는 성능 업데이트와 작은 향상 사항이 포함되어 있습니다.
+제목: 데이터브릿크 에이전트 브릭스는 기업용 AI 개발을 TAO와 ALHF 방법으로 자동화합니다.
+주소: https://www.infoq.com/news/2025/07/databricks-agent-bricks-platform/
+설명: Databricks는 기업이 도메인 특화 에이전트를 개발하는 방식을 변경시키는 새로운 제품인 Agent Bricks를 소개했습니다. 자동화된 워크플로우는 질성 평가와 LLM 판결자를 생성하여 질성 평가를 수행하고, 고객 데이터에 유사한 합성 데이터를 만들어 에이전트 학습을 보완하며, 최적화 기술을 탐색하여 에이전트의 성능을 향상시키는 데 도움이 됩니다.
+#데이터브락스 #에이전트브릭스 #최적화기술 #에이전트학습
+
+#hashtags: #데이터분석 #인공지능 #AI #기업 #도메인특화에이전트
+
+8 번째 검색 내용
+제목: .NET MAUI 10 미리보기 6에서는 성능 업데이트와 작은 향상 사항이 포함되어 있습니다.
 주소: https://www.infoq.com/news/2025/07/net-maui-10-preview-6/
 설명: On July 15th, Microsoft rolled out the sixth preview of .NET MAUI in .NET 10, introducing a couple of new features and improvements aimed at enhancing developer productivity and framework performance. This preview focuses on refining three existing controls (MediaPicker, WebView, and HybridWebView), along with updates and stability fixes for platform-specific code.
 #.NET_MAUI #Microsoft #개발자_생산성
@@ -65,80 +79,67 @@ Translated sentence:
                      and Provide - #hashtags. Add 3 hashtags related to the translated content.
 #.NET_MAUI #Microsoft #개발자_생산성
 
-8 번째 검색 내용
-제목: Kubernetes에서 퀘스턴 지원이 TLS에 도입됨
-
-(Note: The translation may not be perfect as it is a technical term. Please verify the accuracy if needed.)
-주소: https://www.infoq.com/news/2025/07/k8s-quantum/
-설명: AI : 최근 Kubernetes의 개선 사항은 큐언터티 컴퓨팅 위협으로부터 클러스터 보안을 미래에 대비하는 데 도로를 뚫어주려고 합니다. Kubernetes 커뮤니티 블로그에서는 Kubernetes Key Management Service (KMS) 플러그인 시스템과 통합된 포스트-큐언터티 암호화(PQC) 지원을 강조했습니다.
-#Kubernetes #큐언터티컴퓨팅 #보안 #클러스터
-
-Hashtags: #Kubernetes, #큐언터티컴퓨팅, #보안, #클러스터
-
 9 번째 검색 내용
-제목: 퀴웬팀은 대규모의 에이전트적 코딩 모델인 Qwen3-Coder와 열린 도구를 공개합니다.
+제목: Kubernetes에서 퀘스턴 지원이 TLS에 도입됩니다.
+주소: https://www.infoq.com/news/2025/07/k8s-quantum/
+설명: AI : 최근 Kubernetes의 개선 사항은 과학적인 철학에 대한 기계학습 위협으로부터 클러스터 보안을 미래 저장소로 향하는 데 도움이 됩니다. Kubernetes 커뮤니티 블로그에서는 Kubernetes Key Management Service(KMS) 플러그인 시스템과 통합된 후혼자 암호화(PQC)를 지원하는 하이브리드 키 교환 메커니즘을 강조했습니다.
+#Kubernetes #기계학습 #보안 #과학적인 철학
 
-(Qwen Team Releases Qwen3-Coder, a Large Agentic Coding Model with Open Tooling)
-주소: https://www.infoq.com/news/2025/07/qwen3-coder/
-설명: Qwen Team은 Qwen3-Coder, 장기 맥락, 다단계 프로그래밍 작업에 적합한 새로운 에이전트 코드 모델을 발표했습니다. 가장 능력 있는 변형, Qwen3-Coder-480B-A35B-Instruct는 Mixture-of-Experts 모델로, 전체 480억 파라미터와 각 전방 호출에 35억 활성 파라미터가 있습니다.
-#QwenTeam #에이전트코드모델 #장기맥락프로그래밍 #Mixture-of-Experts
-
-Hashtags: #AI #인공지능 #코딩 #프로그래밍 #Qwen3Coder
+Hashtags: #Kubernetes, #기계학습, #보안, #과학적인 철학
 
 10 번째 검색 내용
-제목: AWS가 인텔리전스 벡터 기능을 Amazon S3에 도입합니다.
-주소: https://www.infoq.com/news/2025/07/aws-s3-vectors/
-설명: 인공지능 관련 내용을 번역하고 해시태그를 제공해주세요: AWS 뉘앤드롭 서머니트에서 AWS는 Amazon S3 Vectors의 미리보기 발표를 통해, 대규모 벡터 데이터 저장을 지원하는 첫 번째 클라우드 오브젝트 스토어로 선언했습니다. 새로운 옵션은 쿼리 성능에 대한 1초 미만의 성능을 제공하며, 전통적인 벡터 데이터베이스보다 AI 준비 데이터 저장 비용을 줄여줍니다.
-#AWS #AmazonS3Vectors #AIreadydata #cloudobjectstore
+제목: 퀴웨ן 팀이 대규모의 에지 코딩 모델인 Qwen3-Coder와 열린 도구를 함께 발표합니다.
+주소: https://www.infoq.com/news/2025/07/qwen3-coder/
+설명: Qwen Team은 Qwen3-Coder, 장기 맥락, 다단계 프로그래밍 작업에 적합한 새로운 에이전트 코드 모델을 발표했습니다. 가장 능력 있는 변형, Qwen3-Coder-480B-A35B-Instruct는 Mixture-of-Experts 모델로, 전체 480억 파라미터와 각 전방 호출에 35억 활성 파라미터가 있습니다.
+#QwenTeam #Qwen3-Coder #에이전트코드모델
 
-번역결과: AWS 뉘앤드롭 서머니트에서 AWS는 Amazon S3 Vectors의 미리보기 발표를 통해, 대규모 벡터 데이터 저장을 지원하는 첫 번째 클라우드 오브젝트 스토어로 선언했습니다. 새로운 옵션은 쿼리 성능에 대한 1초 미만의 성능을 제공하며, 전통적인 벡터 데이터베이스보다 AI 준비 데이터 저장 비용을 줄여줍니다.
-#AWS #AmazonS3Vectors #AIreadydata #cloudobjectstore
+#hashtags: #AI #프로그래밍 #모델
 
 11 번째 검색 내용
-제목: 구글 애지 인스턴스 관리 솔루션에서 모델 아머를 통합하여 LLM 귀속 기능 추가
+제목: AWS가 벡터 기능을 Amazon S3에 도입합니다.
+주소: https://www.infoq.com/news/2025/07/aws-s3-vectors/
+설명: 인공지능 : 최근 AWS 슬롯에서 AWS는 Amazon S3 Vectors의 미리보기를 발표했습니다. 이것은 대규모 벡터 데이터 저장을 지원하는 첫 번째 클라우드 오브젝트 스토어로 설명되며, 전통적인 벡터 데이터베이스보다 대량의 AI 준비 데이터를 저장하는 데 비용을 절약합니다.
+#AWS #AmazonS3Vectors #빅데이터 #인공지능
 
-(Note: The translation may not be perfect as it involves technical terms. Please verify the accuracy if needed.)
-주소: https://www.infoq.com/news/2025/07/google-apigee-llm-model-armor/
-설명: Google Cloud는 Model Armor, Apigee API 관리 플랫폼에 통합된 원시 LLM 감독 프레임워크를 공개 미리 보기로 출시했습니다. 커뮤니티 포스트에서는 Model Armor가 API 레이어에서 토큰 수준 제어, 출력 필터링 및 프롬프트 유효성 검사와 같은 LLM 특정 정책에 대한 외부 상자 강제 적용을 소개합니다.
-#GoogleCloud #ModelArmor #LLM #API관리
-
-#hashtags: #GoogleCloudPlatform, #Apigee, #LLMgovernance
+Hashtags: #AWS, #AmazonS3Vectors, #빅데이터, #인공지능
 
 12 번째 검색 내용
-제목: 우버가 다양한 클라우드 비밀번호 관리 플랫폼을 공개합니다. 이를 통해 150,000+ 자격 증명을 보호합니다.
-주소: https://www.infoq.com/news/2025/07/uber-secret-management-platform/
-설명: Uber는 분산 인프라에서 150,000개 이상의 비밀을 관리하는데 있어 보안 문제를 해결하기 위해 내부적으로 개발한 Multi-Cloud Secrets Management Platform을 밝혔습니다. 이 플랫폼은 대규모 기술 회사가 다중 클라우드 환경에서 자격 증명 보안에 어떻게 접근해야 하는지 전례적인 발전입니다.
-#Uber #Multi-Cloud #Secrets Management Platform #보안
+제목: 구글 애지 빌트인 LLM 감독 기능으로 모델 아머 추가
 
-Hashtags: #Uber, #Multi-Cloud, #Secrets Management Platform, #보안
+(Note: The translation may not be perfect as it is a technical term. Please verify the accuracy if needed.)
+주소: https://www.infoq.com/news/2025/07/google-apigee-llm-model-armor/
+설명: Google Cloud는 Model Armor, Apigee API 관리 플랫폼에 내장된 원시 LLM 감독 프레임워크를 공개 미리 보기로 출시했습니다. 커뮤니티 포스트에서는 Model Armor가 API 계층에서 토큰 수준 제어, 출력 필터링 및 프롬프트 유효성 검사와 같은 LLM 특정 정책에 대한 외부 상자 강제 적용을 소개합니다.
+#GoogleCloud #ModelArmor #LLM #API관리
+
+#hashtags: #GoogleCloud, #ModelArmor, #LLM, #APIManagement
 
 13 번째 검색 내용
-제목: .NET 10 미리 보기 6에서는 Blazor 향상 사항, 메모리 최적화, 및 SDK 개선 사항이 도입되었습니다.
-주소: https://www.infoq.com/news/2025/07/dotnet-10-preview-6/
-설명: Microsoft는 .NET 10의 6번째 미리보기를 발표했습니다. .NET Runtime, SDK, 라이브러리, C#, ASP.NET Core, Blazor, .NET MAUI 등 다양한 영역에서 많은 개선 사항을 소개했습니다. 공식 발표에서는 업데이트의 중점을 향상된 성능, 개발자 경험, 크로스 플랫폼 도구에 집중시켰음을 강조합니다.
-#Microsoft #.NET10 #성능개선 #개발자경험
+제목: 우버가 150,000개 이상의 자격 증명을 보호하기 위해 다중 클라우드 시크릿 관리 플랫폼 공개
 
-#hashtags: #Microsoft #.NET10 #성능개선 #개발자경험
+(Note: The translation may not be perfect as it is a direct translation from English to Korean. The sentence structure and grammar might need adjustments for natural Korean language flow.)
+주소: https://www.infoq.com/news/2025/07/uber-secret-management-platform/
+설명: Uber는 분산된 인프라에서 150,000개 이상의 비밀을 관리하는데 있어 보안 문제를 해결하기 위해 내부적으로 개발한 Multi-Cloud Secrets Management Platform을 공개했습니다. 이 플랫폼은 대규모 기술 회사가 다중 클라우드 환경에서 자격 증명 보안에 어떻게 접근하는지 전례적인 발전입니다.
+#Uber #Multi-Cloud #Secrets Management Platform #자격 증명 보안
+
+Hashtags: #Uber, #Multi-Cloud, #Secrets Management Platform, #자격 증명 보안
 
 14 번째 검색 내용
+제목: .NET 10 미리보기 6에서는 Blazor 향상 사항, 메모리 최적화, 및 SDK 개선 사항이 도입되었습니다.
+주소: https://www.infoq.com/news/2025/07/dotnet-10-preview-6/
+설명: Microsoft는 .NET 10의 6번째 미리보기를 발표했습니다. .NET Runtime, SDK, 라이브러리, C#, ASP.NET Core, Blazor, .NET MAUI 등 다양한 영역에서 많은 개선 사항을 소개했습니다. 공식 발표에 따르면, 업데이트는 성능, 개발자 경험, 크로스 플랫폼 도구를 향상시키는 것에 집중했습니다.
+#Microsoft #.NET10 #성능 #개발자경험 #크로스플랫폼도구
+
+#hashtags: #Microsoft #.NET10 #성능 #개발자경험 #크로스플랫폼도구
+
+15 번째 검색 내용
 제목: [INST] 
 
-State Space Models는 저력 엣지 컴퓨팅에서 AI를 가능하게 할 수 있습니다.
+State Space Models는 저력 엣지 컴퓨팅에서 AI를 활성화할 수 있습니다.
 
 [/INST]
 주소: https://www.infoq.com/news/2025/07/state-space-models-edge-compute/
-설명: 2025 임베디드 비전 슬롯에서 BrainChip의 대표 기술 관리 사장인 Tony Lewis는 회사가 수행한 SSM(상태 공간 모델) 연구 결과를 발표하였습니다. 이는 LLM 기능을 매우 저력 소비로 제공할 수 있으며, 차량 카메라, 의료 장치, 보안 카메라, 아이투이와 같은 제한된 컴퓨팅 환경에서 사용될 수 있습니다.
-#임베디드비전 #상태공간모델 #LLM기능 #저력소비
+설명: 2025 임베디드 비전 슬롯에서 BrainChip의 대표 기술 관리 사원인 Tony Lewis가 회사에서 수행한 SSM(상태 공간 모델) 연구를 소개했습니다. 이는 제한된 계산 환경에서 찾을 수 있는 대시캠, 의료 장치, 보안 카메라, 아예 기본 장난감과 같은 환경에서 LLM 기능을 제공할 때 매우 낮은 전력 소모를 가질 수 있다는 것을 보여줍니다.
+#임베디드비전 #상태공간모델 #LLM #저전력소모
 
-#hashtags: #임베디드비전, #상태공간모델, #LLM기능, #저력소비
-
-15 번째 검색 내용
-제목: 얼마나 포함적인 리더십이 기술 기업에서 지속적인 성공을 이끌 수 있는가
-
-(Note: The translation may not be perfect as it is a direct translation from English to Korean. The sentence structure and grammar might need adjustments for natural flow in the Korean language.)
-주소: https://www.infoq.com/news/2025/07/inclusive-leadership/
-설명: 인클루션은 한 번만 하는 것이 아니라, 결정을 내리는 방식과 팀을 구성하는 방식, 회의를 진행하는 방식 등에 모두 섞여있도록 해야 합니다. 사람들이 느껴지고 말할 수 있는 환경에서 더 완전하게 및 의미 있게 기여할 때 장기적인 성공을 유지할 수 있습니다. Matthew Card는 Qcon London에서 포함 우선 사고로 이끌어내는 방법에 대한 발표를 했습니다.
-#인클루션 #포함적 사고 #장기적 성공
-
-Hashtags: #inclusion, #inclusivemindset, #longtermsuccess
+#hashtags: #임베디드비전, #상태공간모델, #LLM, #저전력소모
 
