@@ -1,0 +1,145 @@
+1 번째 검색 내용
+제목: 애플이 차원 기반 코딩 모델 DiffuCoder를 오픈소스로 공개합니다.
+주소: https://www.infoq.com/news/2025/07/apple-diffucoder/
+설명: Apple은 DiffuCoder, 코딩 작업을 위해 튜닝된 디퓨전 대규모 자연어 모델(dLLM)를 오픈소스로 공개했습니다. DiffuCoder는 Qwen-2.5-Coder에 기반하며 다양한 코딩 벤치마크에서 다른 코드 특화 LLMs보다 우수합니다.
+#Apple #DiffuCoder #코딩LLM #코딩벤치마크
+
+#hashtags: #Apple #DiffuCoder #코딩LLM #코딩벤치마크
+
+2 번째 검색 내용
+제목: 인간적 제안: 전체성 투명성 프레임워크를 구분된 AI 개발을 보호하기 위해
+
+(Note: The translation may not be perfect as it is a machine translation. Please check the accuracy with a native Korean speaker if necessary.)
+주소: https://www.infoq.com/news/2025/07/anthropic-transparency-framework/
+설명: Anthropic는 전철 AI 모델의 개발에 대한 책임성 필요성이 증가함을 반영하여 새로운 투명성 프레임워크를 제안했습니다. 이 제안은 컴퓨팅 능력, 비용, 평가 성능, 연간 R&D 수출금과 같은 요소로 구분되는 강력한 AI 모델을 개발하는 최대 규모의 AI 회사에 집중합니다.
+#투명성 #AI #책임성
+
+Translated content: Anthropic has proposed a new transparency framework designed to address the growing need for accountability in the development of frontier AI models. This proposal focuses on the largest AI companies that are developing powerful AI models, distinguished by factors such as computing power, cost, evaluation performance, and annual R&D expenditures.
+
+#hashtags: #AI #투명성 #책임성
+
+3 번째 검색 내용
+제목: 자바 뉴스 요약: 큐어크스 MCP용 CLI도구, 그루비 5.0 amilestone, 제이힌스터, 그라엘VM
+
+(Note: The translation may not be perfect as some terms might have specific meanings in the context of Java development.)
+주소: https://www.infoq.com/news/2025/07/java-news-roundup-jul21-2025/
+설명: Java 주요 뉴스 요약: 2025년 7월 21일, Quarkus MCP Client를 사용하여 명령줄에서 안전한 Quarkus MCP Server에 액세스하는 새로운 도구; Groovy 5.0.0의 두 번째 베타 릴리스; GraalVM Native Build Tools와 JHipster Lite에 대한 포인트 릴리스입니다.
+#Java #Quarkus #GraalVM #JHipster
+
+#hashtags: #JavaNews #QuarkusUpdates #GraalVMLatest
+
+4 번째 검색 내용
+제목: 애플은 iOS 26에 대한 앞으로 출시될 AI 기반 모델의 세부 정보를 공개합니다.
+주소: https://www.infoq.com/news/2025/07/apple-foundation-models-ios26/
+설명: 인공지능 : 최근 기술 보고서에서는, Apple이 iOS 26에 포함되어 있을 새로운 Apple Intelligence Foundation Models의 성능과 특성에 대해 더 자세한 정보를 제공했습니다. 이것은 최근 WWDC 2025에서 발표되었습니다.
+#인공지능 #iOS26 #WWDC2025
+
+Hashtags:
+1. #AppleIntelligenceFoundationModels
+2. #InnovationinAI
+3. #WWDC2025Updates
+
+5 번째 검색 내용
+제목: [INST] 국가 인공지능 전략 발표 - 혁신, 철거, 글로벌 리더십을 중심으로
+
+The White House Releases National AI Strategy Focused on Innovation, Infrastructure, and Global Leadership
+[/INST]
+주소: https://www.infoq.com/news/2025/07/america-ai-action-plan/
+설명: The White House has published America’s AI Action Plan, outlining a national strategy to enhance U.S. leadership in artificial intelligence. The plan follows President Trump’s January Executive Order 14179, which directed federal agencies to accelerate AI development and remove regulatory barriers to innovation.
+                     #인공지능 #미국 #전략
+
+#hashtags:
+#인공지능 #미국 #전략 #대통령 #AI #정책 #기술발전 #혁신 #제한없는기회 #인공지능의미래
+
+6 번째 검색 내용
+제목: 스프링 뉴스 요약: 부트, 보안, 인증 서버, GraphQL, Kafka, 펌사르 기록 발표
+
+(Note: The Korean translation may not be perfect as it involves technical terms related to software development. However, the meaning should be conveyed accurately.)
+주소: https://www.infoq.com/news/2025/07/spring-news-roundup-jul21-2025/
+설명: There was a flurry of activity in the Spring ecosystem during the week of July 21st, 2025, highlighting milestone releases of Spring Boot, Spring Security, Spring Authorization Server, Spring for GraphQL, Spring Session, Spring Integration, Spring REST Docs, Spring Batch, Spring AMQP, Spring for Apache Kafka, Spring for Apache Pulsar and Spring Web Services.
+#스프링 #소프트웨어 #개발 #기술
+
+Translated sentence: 스프링 생태계에서는 7월 21일 주에 많은 활동이 있었으며, Spring Boot, Spring Security, Spring Authorization Server, Spring for GraphQL, Spring Session, Spring Integration, Spring REST Docs, Spring Batch, Spring AMQP, Spring for Apache Kafka, Spring for Apache Pulsar, 그리고 Spring Web Services와 같은 주요 릴리스가 발표되었습니다.
+#스프링 #소프트웨어 #개발 #기술
+
+7 번째 검색 내용
+제목: Vercel이 외부 API 캐싱 분석을 추가하여 관측성 기능에 포함합니다.
+주소: https://www.infoq.com/news/2025/07/vercel-api-caching-analytics/
+설명: Vercel은 외부 API 캐싱 인사이트를 통합하여 관찰성 플랫폼을 향상시키고, 개발자들이 제3자 API 요청을 Vercel Data Cache에서 원본 서버로 라우팅하는 것보다 어떤 수치만큼 서비스하는지 추적할 수 있게 되었습니다.
+#Vercel #관찰성 #API #캐싱
+
+Translated sentence: Vercel has enhanced its observability platform by integrating external API caching insights, enabling developers to track how many requests to third-party APIs are served from the Vercel Data Cache versus being routed to the origin server.
+#Vercel #Observability #API #Caching
+
+Translated sentence: Vercel has improved its observability platform by integrating external API caching insights, allowing developers to track how many requests to third-party APIs are served from the Vercel Data Cache rather than being routed to the origin server.
+#Vercel #Observability #API #Caching
+
+8 번째 검색 내용
+제목: [INST] 하둡에서 카프카까지: 핀터스트의 확장성 있는 스파크 아키텍처를 AWS EKS에서 구현하는 방법 [/INST]
+주소: https://www.infoq.com/news/2025/07/pinterest-spark-kubernetes/
+설명: Pinterest는 Hadoop 시스템에서 Moka 플랫폼으로 전환하여 데이터 인프라를 리펙닝했습니다. Kubernetes와 Spark를 AWS EKS에서 활용하며, 이러한 전략적 변경은 작업 격리, 배포 간소화, 자원 관리 최적화를 통해 비용 절감과 효율성 향상을 이끕니다.
+#데이터인프라 #AWS #Kubernetes
+
+Hashtags: #데이터인프라, #AWS, #Kubernetes
+
+9 번째 검색 내용
+제목: 데이터브릿크 에이전트 브릭스는 기업용 AI 개발을 TAO와 ALHF 방법으로 자동화합니다.
+주소: https://www.infoq.com/news/2025/07/databricks-agent-bricks-platform/
+설명: Databricks는 기업이 도메인 특화 에이전트를 개발하는 방식을 변경시키는 새로운 제품인 Agent Bricks를 소개했습니다. 자동화된 워크플로우는 질성 평가와 LLM 판례를 생성하여 품질 평가, 고객 데이터에 유사한 합성 데이터를 생성하여 에이전트 학습을 보완하고, 에이전트 성능을 향상시키기 위해 최적화 기술을 탐색합니다.
+#데이터브릭스 #에이전트브릭스 #도메인특화에이전트
+
+Hashtags: #데이터분석 #머신러닝 #AI
+
+10 번째 검색 내용
+제목: .NET MAUI 10 미리보기 6에서는 성능 업데이트와 작은 향상 사항이 포함되었습니다.
+주소: https://www.infoq.com/news/2025/07/net-maui-10-preview-6/
+설명: On July 15th, Microsoft rolled out the sixth preview of .NET MAUI in .NET 10, introducing a couple of new features and improvements aimed at enhancing developer productivity and framework performance. This preview focuses on refining three existing controls (MediaPicker, WebView, and HybridWebView), along with updates and stability fixes for platform-specific code.
+#.NET_MAUI #Microsoft #개발자_생산성
+
+Translated sentence: 
+                         On July 15th, Microsoft rolled out the sixth preview of .NET MAUI in .NET 10, introducing a couple of new features and improvements aimed at enhancing developer productivity and framework performance. This preview focuses on refining three existing controls (MediaPicker, WebView, and HybridWebView), along with updates and stability fixes for platform-specific code.
+                     and Provide - #hashtags. Add 3 hashtags related to the translated content.
+#.NET_MAUI #Microsoft #개발자_생산성
+
+11 번째 검색 내용
+제목: Kubernetes에서 퀘스턴 지원이 TLS에 도입됩니다.
+주소: https://www.infoq.com/news/2025/07/k8s-quantum/
+설명: AI : 최근 Kubernetes의 개선 사항은 과학적인 철학에 대한 보안 문제를 해결하기 위해 클러스터 보호 방법을 향후 보호하는 데 도움이 됩니다. Kubernetes 커뮤니티 블로그에서는 KMS 플러그인 시스템과 통합된 하이브리드 키 교환 메커니즘을 지원하는 것으로 강조했습니다.
+#Kubernetes #보안 #과학적인 철학 #클러스터 보호
+
+Hashtags: #Kubernetes, #보안, #과학적인 철학, #클러스터 보호
+
+12 번째 검색 내용
+제목: 퀴웨ן 팀이 대규모의 에지 코딩 모델인 Qwen3-Coder와 열린 도구를 함께 발표합니다.
+주소: https://www.infoq.com/news/2025/07/qwen3-coder/
+설명: Qwen Team은 Qwen3-Coder를 발표했습니다. 이는 긴 컨텍스트, 다단계 프로그래밍 작업에 적합한 새로운 에이전트 코드 모델입니다. 가장 능력 있는 변종, Qwen3-Coder-480B-A35B-Instruct는 Mixture-of-Experts 모델로, 전체적으로 480억 개의 파라미터와 각 순방향 통과마다 35억 개의 활성 파라미터를 가지고 있습니다.
+#QwenTeam #Qwen3-Coder #에이전트코드모델
+
+Hashtags: #AI #프로그래밍 #코딩모델
+
+13 번째 검색 내용
+제목: AWS가 인텔리전스 벡터 기능을 Amazon S3에 도입합니다.
+주소: https://www.infoq.com/news/2025/07/aws-s3-vectors/
+설명: 인공지능 : 최근 AWS 슬롯에서는 New York City에서 AWS가 Amazon S3 Vectors의 미리보기를 발표했습니다. 이것은 대규모 벡터 데이터 저장을 지원하는 첫 번째 클라우드 오브젝트 스토어로 설명되며, AI 준비 데이터를 저장하는 데 비교적 대규모 벡터 데이터베이스보다 쿼리 성능이 1초 미만으로 줄어들었습니다.
+#AWS #AmazonS3Vectors #빅데이터 #인공지능
+
+Hashtags: #AWS, #AmazonS3Vectors, #빅데이터, #인공지능
+
+14 번째 검색 내용
+제목: 구글 애지 빌트인 LLM 감독 기능으로 모델 아머 추가
+
+(Note: The translation may not be perfect as it is a technical term. Please confirm the accuracy with a professional translator if needed.)
+주소: https://www.infoq.com/news/2025/07/google-apigee-llm-model-armor/
+설명: Google Cloud는 Model Armor, Apigee API 관리 플랫폼에 내장된 원시 LLM 규칙 지원 프레임워크로 공개 미리 보기를 출시했습니다. 커뮤니티 게시물에서는 Model Armor가 API 레이어에서 토큰 수준 제어, 출력 필터링 및 프로모트 유효성 검사와 같은 LLM 특정 정책에 대한 외부 상자 강제 적용을 소개합니다.
+#GoogleCloud #ModelArmor #LLMgovernance #APImanagement
+
+Hashtags: #GoogleCloud, #ModelArmor, #LLMgovernance, #APImanagement
+
+15 번째 검색 내용
+제목: 우버가 다양한 클라우드 비밀번호 관리 플랫폼을 공개합니다. 이를 통해 150,000+ 자격 증명을 보호합니다.
+주소: https://www.infoq.com/news/2025/07/uber-secret-management-platform/
+설명: Uber는 분산 인프라에서 150,000개 이상의 비밀을 관리하는 데 있어 보안 문제를 해결하기 위해 내부적으로 개발한 Multi-Cloud Secrets Management Platform을 공개했습니다. 이 플랫폼은 대규모 기술 회사가 다중 클라우드 환경에서 자격 증명 보안에 어떻게 접근하는지 전례적인 진화를 나타냅니다.
+#Uber #Multi-Cloud #Secrets Management Platform #보안
+
+Hashtags: #Uber, #Multi-Cloud, #Secrets Management Platform, #보안
+
