@@ -1,0 +1,140 @@
+1 번째 검색 내용
+제목: 서버리스 개발을 위한 콘솔과 IDE를 통한 원격 디버깅을 AWS Lambda에 적용합니다.
+주소: https://www.infoq.com/news/2025/07/aws-lambda-remote-debugging/
+설명: AWS는 Lambda를 향상시키며 콘솔-IDE 통합과 원격 디버깅을 추가하여, 서버리스 애플리케이션 개발을 간소화할 수 있도록 개발자를 강화합니다. 이러한 기능은 IDE에 대한 완전한 VPC 리소스 액세스와 강력한 디버깅을 통해 워크플로우를 최적화하는 데 도움이 됩니다. AWS 개발자 가이드와 VS Code Toolkit에서 이러한 도구의 효과를 확인하세요.
+#AWS #Lambda #서버리스 #개발자 #디버깅
+#hashtags: #AWS, #Lambda, #서버리스, #개발자, #디버깅
+
+2 번째 검색 내용
+제목: Uno Platform 6.1에서 CommandBarFlyout 컨트롤 소개
+
+(Note: The translation may not be perfect as it is a technical term, but the meaning should be clear.)
+주소: https://www.infoq.com/news/2025/07/uno-platform-6-1/
+설명: Uno Platform 팀은 Uno Platform 6.1의 일반 사용 가능성을 발표하며, 개발자 생산성과 여러 플랫폼 성능을 향상시키기 위해 다양한 개선 사항을 소개했습니다. 이 업데이트는 6.0 주요 버전 발표와 2개월 후입니다.
+#UnoPlatform #개발자생산성 #여러플랫폼성능 #컨텍스트툴바리소스
+
+Hashtags: #UnoPlatform, #DeveloperProductivity, #CrossPlatformPerformance, #ContextualToolbars
+
+3 번째 검색 내용
+제목: 애플이 차원 기반 코딩 모델 DiffuCoder를 오픈 소스로 공개합니다.
+주소: https://www.infoq.com/news/2025/07/apple-diffucoder/
+설명: Apple은 DiffuCoder, 코딩 작업을 위해 튜닝된 디퓨전 대규모 자연어 모델(dLLM)를 오픈소스로 공개했습니다. DiffuCoder는 Qwen-2.5-Coder에 기반하며 다양한 코딩 벤치마크에서 다른 코드 특화 LLMs보다 우수합니다.
+#Apple #DiffuCoder #코딩 #코드_특화_LLM
+
+#hashtags: #Apple #DiffuCoder #코딩 #코드_특화_LLM
+
+4 번째 검색 내용
+제목: 인간적 제안: 전체성 투명성 프레임워크를 구분되는 AI 개발을 보호하기 위해
+
+(Note: The translation may not be perfect as it involves some interpretation. Please review and make any necessary adjustments.)
+주소: https://www.infoq.com/news/2025/07/anthropic-transparency-framework/
+설명: Anthropic은 전철 AI 모델의 개발에 대한 계정성 요구가 증가하는 동안 새로운 투명성 프레임워크를 제시했습니다. 이 제안은 컴퓨팅 능력, 비용, 평가 성능, 연간 R&D 수출금과 같은 요소로 구분되는 강력한 AI 모델을 개발하는 대규모 AI 회사에 집중합니다.
+#투명성 #계정성 #AI_모델_개발
+
+Translated sentence: Anthropic has proposed a new transparency framework designed to address the growing need for accountability in the development of frontier AI models. This proposal focuses on the largest AI companies that are developing powerful AI models, distinguished by factors such as computing power, cost, evaluation performance, and annual R&D expenditures.
+and Provide - #hashtags. Add 3 hashtags related to the translated content.
+
+5 번째 검색 내용
+제목: 자바 뉴스 요약: 퀘어크스 MCP용 CLI도구, 그루비 5.0 밀리스톤, 제이힌스터, 그랄VM
+
+(Note: The translation may not be perfect as some terms might have specific meanings in the context of Java development.)
+주소: https://www.infoq.com/news/2025/07/java-news-roundup-jul21-2025/
+설명: Java 주요 뉴스 요약: 2025년 7월 21일, Quarkus MCP Client를 사용하여 명령 줄에서 안전한 Quarkus MCP Server에 액세스하는 새로운 도구; Groovy 5.0.0의 두 번째 베타 릴리스; GraalVM Native Build Tools와 JHipster Lite에 대한 포인트 릴리스입니다.
+#Quarkus #GraalVM #JHipster
+#Java #뉴스 #릴리스 #도구
+
+6 번째 검색 내용
+제목: 애플은 iOS 26에 대한 앞으로 출시될 AI 기반 모델의 세부 사항을 공개합니다.
+주소: https://www.infoq.com/news/2025/07/apple-foundation-models-ios26/
+설명: 인공지능 : 최근 기술 보고서에서는 Apple이 iOS 26에 포함되어 있을 새로운 Apple Intelligence Foundation Models의 성능과 특성에 대해 더 자세한 정보를 제공했습니다. 이것은 WWDC 2025에서 발표되었습니다.
+#iOS #인공지능모델 #WWDC2025
+
+Hashtags: #iOS, #인공지능모델, #WWDC2025
+
+7 번째 검색 내용
+제목: [INST] 국가 인공지능 전략 발표: 화이트하우스는 혁신, 철거 및 글로벌 리더십을 중심으로 국가 AI 전략 발표
+[/INST]
+주소: https://www.infoq.com/news/2025/07/america-ai-action-plan/
+설명: The White House has published America’s AI Action Plan, outlining a national strategy to enhance U.S. leadership in artificial intelligence. The plan follows President Trump’s January Executive Order 14179, which directed federal agencies to accelerate AI development and remove regulatory barriers to innovation.
+                     #인공지능 #미국 #전략
+
+#hashtags:
+#인공지능 #미국 #전략 #대통령 #AI #정책 #기술발전 #혁신 #제한없는발전 #미국의인공지능전략 #미국의인공지능발전전략 #미국의인공지능발전 #미국의AI발전전략 #미국의AI발전 #미국의AI전략 #미국의AI발전정책 #미국의AI발전정책전략 #미국의AI발전정책전략 #미국의AI발전정책전략 #미국의AI발전정책전략 #미국의AI발전정책전략 #미국의AI발전정책전략 #미국의AI발전정책전략 #미국의AI발전정책전략 #미국의AI발전정책전략 #미국의AI발전정책전략 #미국의AI발전정책전랷 #미국의AI발전정책전랠 #미국의AI발전정책전랠 #미국의AI발전정책전랠 #미국의AI발전정책전랠 #미국의AI발전정책전랠 #미국의AI발전정책전랠 #미국의AI발전정책전랠 #미국의AI발전정책전랠 #미국의AI발전정책전랠 #미국의AI발전정책전랠 #미국의AI발전정책전랠 #미국의AI발전정책전랠 #미국의AI발전정책전랠 #미국의AI발전정책전랠 #미국의AI발전정책전랠 #미국의AI발전정책전랠 #미국의AI발전정책전랠 #미국의AI발전정책전랠 #미국의AI발전정책전랠 #미국의AI발전정책전랠 #미국의AI발전정책전랠 #미국의AI발전정책전랠 #미국의AI발전정책전랠 #미국의AI발전정책전랠 #미국의AI발전정책전랠 #미국의AI발전정책전랠 #미국의AI발전정책전랠 #미국의AI발전정책전랠 #미국의AI발전정책전랠 #미국의AI발전정책전랠 #미국의AI발전정책전랠 #미국의AI발전정책전랠 #미국의AI발전정책전랠 #미국의AI발전정책전랠 #미국의AI발전정책전랠 #미국의AI발전정책전랠 #미국의AI발전정책전랠 #미국의AI발전정책전랠 #미국의AI발전정책전랠 #미국의AI발전정책전랠 #미국의AI발전정책전랠 #미국의AI발전정책전랠 #미국의AI발전정책전랠 #미국의AI발전정책전랠 #미국의AI발전정책전랠 #미국의AI발전정책전랠 #미국의AI발전정책전랠 #미국의AI발전정책전랠 #미국의AI발전정책전랠
+
+8 번째 검색 내용
+제목: 스프링 뉴스 요약: 부트, 보안, 인증 서버, GraphQL, 카프카, 펌사르의 기록 발표
+
+(Note: The Korean translation may not be perfect as it involves technical terms related to Spring framework. However, I have tried my best to provide an accurate translation.)
+주소: https://www.infoq.com/news/2025/07/spring-news-roundup-jul21-2025/
+설명: There was a flurry of activity in the Spring ecosystem during the week of July 21st, 2025, highlighting milestone releases of Spring Boot, Spring Security, Spring Authorization Server, Spring for GraphQL, Spring Session, Spring Integration, Spring REST Docs, Spring Batch, Spring AMQP, Spring for Apache Kafka, Spring for Apache Pulsar and Spring Web Services.
+#스프링 #소프트웨어 #개발자 커뮤니티
+
+Translated sentence: 스프링 생태계에서는 7월 21일 주에 많은 활동이 있었으며, Spring Boot, Spring Security, Spring Authorization Server, Spring for GraphQL, Spring Session, Spring Integration, Spring REST Docs, Spring Batch, Spring AMQP, Spring for Apache Kafka, Spring for Apache Pulsar, 그리고 Spring Web Services와 같은 주요 릴리스가 발표되었습니다.
+#스프링 #소프트웨어 #개발자 커뮤니티
+
+Hashtags: #스프링, #소프트웨어, #개발자 커뮤니티
+
+9 번째 검색 내용
+제목: Vercel이 외부 API 캐싱 분석을 추가하여 관측성 기능에 포함합니다.
+주소: https://www.infoq.com/news/2025/07/vercel-api-caching-analytics/
+설명: Vercel은 외부 API 캐싱 인사이트를 통합하여 관찰성 플랫폼을 향상시키고, 개발자들이 제3자 API 요청을 Vercel Data Cache에서 원본 서버로 라우팅하는 것보다 어떤 수치만큼 서비스하는지 추적할 수 있게 되었습니다.
+#Vercel #관찰성 #API #캐싱
+
+#인공지능 #의료 #금융 #교통
+
+10 번째 검색 내용
+제목: [INST] 하둡에서 카프카까지: 핀터스트의 확장성 있는 스파크 아키텍처를 AWS EKS에서 구현하는 방법 [/INST]
+주소: https://www.infoq.com/news/2025/07/pinterest-spark-kubernetes/
+설명: Pinterest는 Hadoop 시스템에서 Moka 플랫폼으로 전환하여 데이터 인프라를 리펙닝했습니다. Kubernetes와 Spark를 AWS EKS에서 활용하며, 전략적 변경은 작업 격리, 배포 간소화, 자원 관리 최적화를 통해 비용 절감과 효율성 향상을 이끌었습니다.
+#데이터인프라 #AWS #Kubernetes
+
+#hashtags:
+1. #데이터인프라변경
+2. #AWS_EKS
+3. #Kubernetes_활용
+
+11 번째 검색 내용
+제목: 데이터브릿크 에이전트 브릭스는 기업용 AI 개발을 TAO와 ALHF 방법으로 자동화합니다.
+주소: https://www.infoq.com/news/2025/07/databricks-agent-bricks-platform/
+설명: Databricks는 기업이 도메인 특화 에이전트를 개발하는 방식을 변경시키는 새로운 제품인 Agent Bricks를 소개했습니다. 자동화된 워크플로우는 질성 평가와 LLM 판례를 생성하여 질의 특정 평가와 LLM 판례를 생성하고, 고객 데이터에 유사한 합성 데이터를 만들어 에이전트 학습을 보완하고, 최적화 기술을 탐색하여 에이전트의 성능을 정교화합니다.
+#데이터브릭스 #에이전트브릭스 #에이전트학습 #최적화기술
+
+Hashtags: #데이터브릭스, #에이전트브릭스, #에이전트학습, #최적화기술
+
+12 번째 검색 내용
+제목: .NET MAUI 10 미리보기 6: 성능 업데이트, 작은 향상
+
+(Note: The Korean translation may not be perfect as it is a machine translation. Please review and make any necessary adjustments.)
+주소: https://www.infoq.com/news/2025/07/net-maui-10-preview-6/
+설명: Microsoft는 .NET 10에서 .NET MAUI의 6번째 미리보기를 7월 15일에 출시했습니다. 이 미리보기에서는 개발자 생산성과 프레임워크 성능을 향상시키기 위해 몇 가지 새로운 기능과 개선 사항을 소개했습니다. 이 미리보기에서는 MediaPicker, WebView, 그리고 HybridWebView와 같은 3개의 기존 컨트롤을 향상시키는 것에 집중하고 있으며, 플랫폼별 코드에 대한 업데이트와 안정성 수정도 포함되어 있습니다.
+#.NETMAUI #Microsoft #개발자생산성
+
+Translated content: Microsoft released the sixth preview of .NET MAUI in .NET 10 on July 15th, introducing new features and improvements aimed at enhancing developer productivity and framework performance. This preview focuses on refining three existing controls (MediaPicker, WebView, and HybridWebView), along with updates and stability fixes for platform-specific code.
+#.NETMAUI #Microsoft #개발자생산성
+
+Hashtags: #.NETMAUI #Microsoft #개발자생산성
+
+13 번째 검색 내용
+제목: Kubernetes에서 퀘스턴 지원이 TLS에 도입됩니다.
+주소: https://www.infoq.com/news/2025/07/k8s-quantum/
+설명: AI : 최근 Kubernetes의 개선 사항은 과학적인 철학에 대한 쿼터닉스 컴퓨팅 위협으로부터 클러스터 보안을 미래 저장소로 향하는 道를 열기 위해 노력합니다. Kubernetes 커뮤니티 블로그에서는 Kubernetes Key Management Service (KMS) 플러그인 시스템과 통합된 후자 수학적 암호화(PQC) 지원을 강조했습니다.
+#Kubernetes #쿼터닉스컴퓨팅 #보안 #후자수학적암호화
+
+#hashtags: #Kubernetes, #QuantumComputing, #Security, #PostQuantumCryptography
+
+14 번째 검색 내용
+제목: 퀴웨ן 팀이 대규모의 에지 코딩 모델인 Qwen3-Coder와 열린 도구를 함께 발표합니다.
+주소: https://www.infoq.com/news/2025/07/qwen3-coder/
+설명: Qwen Team은 Qwen3-Coder, 장기 맥락, 다단계 프로그래밍 작업에 적합한 새로운 에이전트 코드 모델을 발표했습니다. 가장 능력 있는 변형, Qwen3-Coder-480B-A35B-Instruct는 Mixture-of-Experts 모델로, 전체 480억 파라미터와 각 순방향 통과에 35억 활성 파라미터가 있습니다.
+#QwenTeam #에이전트코드모델 #장기맥락프로그래밍 #Mixture-of-Experts
+
+#hashtags: #AI #코딩 #프로그래밍 #에이전트코드모델
+
+15 번째 검색 내용
+제목: AWS가 인텔리전스 벡터 기능을 Amazon S3에 도입합니다.
+주소: https://www.infoq.com/news/2025/07/aws-s3-vectors/
+설명: 인공지능 : 최근 AWS 슬롯에서는 New York City에서 AWS가 Amazon S3 Vectors의 미리보기를 발표했습니다. 이것은 대규모 벡터 데이터 저장을 지원하는 첫 번째 클라우드 오브젝트 스토어로 설명되며, AI 준비 데이터를 저장하는 데 비교적 대규모 벡터 데이터베이스보다 쿼리 성능이 1초 미만으로 줄어들었습니다.
+#AWS #AmazonS3Vectors #빅데이터 #인공지능
+
+Hashtags: #AWS, #AmazonS3Vectors, #빅데이터, #인공지능
+
