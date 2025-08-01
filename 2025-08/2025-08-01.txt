@@ -1,0 +1,146 @@
+1 번째 검색 내용
+제목: 새로운 오픈소스 도구 Subtrace가 컨테이너 환경에서 네트워크 분석을 제공합니다.
+주소: https://www.infoq.com/news/2025/07/subtrace-network-analysis/
+설명: Y Combinator 스타트업 Subtrace는 컨테이너화된 애플리케이션의 네트워크 트래픽 분석을 도와주는 오픈소스 도구를 발표했습니다. 창시자들은 이것을 "컨테이너용 Wireshark"로 위치 send 하고 있으며, Docker와 Kubernetes 환경에서 네트워크 디버깅을 간소화하려고 합니다.
+#컨테이너 #네트워크_분석 #Y_Combinator
+
+Hashtags: #컨테이너, #네트워크_분석, #Y_Combinator
+
+2 번째 검색 내용
+제목: 구글 라보스 오팔(Opal) 소개: AI 미니 앱을 시각적 플랫폼으로 생성하는 시스템입니다.
+주소: https://www.infoq.com/news/2025/07/google-opal-ai/
+설명: Google Labs는 Opal이라는 실험적인 노-코드 도구를 소개했습니다. 이 도구는 사용자가 자연어 설명과 시각적 워크플로우 에디터를 통해 AI 기능을 갖춘 미니 애플리케이션을 생성할 수 있습니다.
+#인공지능 #노코드 #Opal
+
+#hashtags:
+1. #AI_tool
+2. #No-code_development
+3. #Google_Labs
+
+3 번째 검색 내용
+제목: 클라우드플레어는 100만 행/초 분석에 대해 전문적인 OLAP을 선택하지 않고 PostgreSQL 확장을 선택합니다.
+주소: https://www.infoq.com/news/2025/07/cloudflare-timescaledb-olap/
+설명: 인공지능 : 최근 클라우드플레어의 영
+
+4 번째 검색 내용
+제목: 앤젬로스의 소프트웨어 개발에서 가드레일을 어떻게 사용하는가
+[INST] How Amazon Uses Guardrails In Software Development [/INST]
+주소: https://www.infoq.com/news/2025/07/guardrails-software-development/
+설명: Carlos Arguelles는 QCon San Francisco에서 Amazon의 엔지니어링 생산성의 인텔리전스 점에 대해 언급했습니다. 그는 왼쪽으로 이동하는 테스트를 사용하여 문제를 早期에 찾을 수 있다는 것을 설명했습니다. 그는 코드 리뷰와 커버리지 확인과 같은 가드레일을 사용할 것을 권장했습니다. 깃 전략, monorepo 또는 multirepo, 필요한 가드레일이 있는지 영향을 줄 것입니다.
+#인공지능 #엔지니어링생산성 #테스트 #코드리뷰
+
+Translated content hashtags: #인공지능, #엔지니어링생산성, #테스트, #코드리뷰
+
+5 번째 검색 내용
+제목: 핀터스트는 내부 오케스트레이션 시스템을 사용하여 하둡 클러스터 확장 및 마이그레이션을 자동화합니다.
+주소: https://www.infoq.com/news/2025/07/pinterest-hadoop-cluster/
+설명: 최근, Pinterest는 Hadoop Control Center(HCC)라고 한 내부 오케스트레이션 프레임워크를 공개했습니다. 이것은 AWS의 수십 개의 YARN 클러스터에서 수천 대의 노드를 관리하는 데 있어 이전에 얼마나 복잡한지 알고 있습니다. HCC는 Pinterest가 이제 자동화로 크기와 위치를 조정하고 이동할 수 있도록 도와주며, 이러한 작업을 처리하는 데 있어 이전에 직면한 운영적인 복잡성과 제한 사항을 해결합니다.
+#Pinterest #HadoopControlCenter #AWS #오케스트레이션
+
+#hashtags:
+1. #Pinterest
+2. #HadoopControlCenter
+3. #AWS
+
+These hashtags are related to the translated content and represent Pinterest, Hadoop Control Center, and AWS, which are the main subjects of the translation.
+
+6 번째 검색 내용
+제목: 엠존 SQS 공평한 큐: 다중 테넌트 견고성의 새로운 접근 방식
+
+(Note: The translation may not be perfect as it is a direct translation from English to Korean. It would be better if a professional translator could provide the most accurate translation.)
+주소: https://www.infoq.com/news/2025/07/amazon-sqs-fair-queues/
+설명: AWS의 새로운 Fair Queues를 Amazon SQS에 적용하면 다중 테넌트 시스템의 메시지 처리를 변화시킵니다. "잠재적 거짓 소문 발생자" 문제를 완화함으로써 조용한 테넌트들에게 낮은 메시지 지속 시간을 보장하며, 코드 변경 없이 성능과 공평성을 향상시킵니다. 개발자는 이 기능을 쉽게 구현할 수 있고 애플리케이션 간에 일관된 서비스 품질을 유지할 수 있습니다.
+#AWS #FairQueues #AmazonSQS #다중테넌트시스템
+
+#hashtags: #AWS #FairQueues #AmazonSQS #다중테넌트시스템
+
+7 번째 검색 내용
+제목: 구글은 에이전트릭 AI 개발을 위해 주요 Firebase Studio 업데이트 발표
+
+(Note: The translation may not be perfect as it is a machine translation. Please double-check the translation for accuracy.)
+주소: https://www.infoq.com/news/2025/07/firebase-studio-ai-agent-updates/
+설명: Google Cloud Summit London에서 7월 초에 Google은 Firebase Studio에서 제공하는 새로운 기능을 밝혔습니다. 이 기능들은 에이전트 기반 클라우드 개발을 향상시키는 데 도움이 됩니다: 자동 에이전트 모드, Model Context Protocol(MCP)의 내장 지원 및 Gemini CLI 통합입니다. 이러한 업데이트는 에이전트 기반 AI 개발을 간소화하고 AI 에이전트가 개발자 워크플로우에 더욱 독립적이고 흐릿하게 삽입되도록 합니다.
+#GoogleCloudSummit #FirebaseStudio #에이전트기반AI개발 #에이전트기반클라우드개발
+
+8 번째 검색 내용
+제목: 서버리스 개발을 위한 콘솔과 IDE를 통한 원격 디버깅을 지원하는 AWS Lambda
+
+(Note: The translation may not be perfect as it is a technical term. Please double-check the translation for accuracy.)
+주소: https://www.infoq.com/news/2025/07/aws-lambda-remote-debugging/
+설명: AWS는 Lambda를 향상시키며 콘솔-IDE 통합과 원격 디버깅을 추가하여, 서버리스 애플리케이션 개발을 간소화할 수 있도록 개발자를 힘끼쳤습니다. 이러한 기능은 IDE에 대한 완전한 VPC 리소스 액세스와 강력한 디버깅을 가능하게 합니다. AWS 개발자 가이드와 VS Code Toolkit에서 이러한 도구가 워크플로우를 최적화하는 방법을 발견하세요.
+#AWS #Lambda #서버리스 #개발자 #디버깅
+#hashtags: #AWS #서버리스 #개발자도구 #VSCode
+#AWS #Lambda #원격디버깅 #VPC리소스 액세스
+
+9 번째 검색 내용
+제목: Uno Platform 6.1에서 CommandBarFlyout 컨트롤 소개
+
+(Note: The translation may not be perfect as it is a technical term, but the meaning should be clear.)
+주소: https://www.infoq.com/news/2025/07/uno-platform-6-1/
+설명: Uno Platform 팀은 Uno Platform 6.1의 일반 사용 가능성을 발표하며, 개발자 생산성과 교차 플랫폼 성능을 향상시키기 위해 다양한 개선 사항을 소개했습니다. 이 업데이트는 6.0 주요 버전 발표와 2개월 후에 발표되었습니다.
+#UnoPlatform #개발자생산성 #교차플랫폼성능 #컨텍스트툴바
+
+Hashtags: #UnoPlatform, #DeveloperProductivity, #CrossPlatformPerformance, #ContextualToolbars
+
+10 번째 검색 내용
+제목: 애플이 차원 기반 코딩 모델 DiffuCoder를 오픈 소스로 공개합니다.
+주소: https://www.infoq.com/news/2025/07/apple-diffucoder/
+설명: Apple은 DiffuCoder, 코딩 작업을 위해 튜닝된 디퓨전 대규모 자연어 모델(dLLM)를 오픈소스로 공개했습니다. DiffuCoder는 Qwen-2.5-Coder에 기반하며 다양한 코딩 벤치마크에서 다른 코드 특화 LLMs보다 우수합니다.
+#Apple #DiffuCoder #코딩 #디퓨전_모델
+
+#hashtags: #Apple #DiffuCoder #코딩 #디퓨전_모델
+
+11 번째 검색 내용
+제목: 인간적 제안: 전체성 투명성 프레임워크를 경계 AI 개발을 보호하기 위해
+
+(Note: The translation may not be perfect as it involves translating a proper noun "Anthropic" and a specific term "Transparency Framework". Also, the sentence structure might be slightly different in Korean.)
+주소: https://www.infoq.com/news/2025/07/anthropic-transparency-framework/
+설명: Anthropic은 전철 AI 모델의 개발에 대한 계정성 요구가 증가함에 따라 새로운 투명성 프레임워크를 제안했습니다. 이 제안은 컴퓨팅 능력, 비용, 평가 성능, 연간 R&D 수출금과 같은 요소로 구분되는 강력한 AI 모델을 개발하는 가장 큰 AI 기업에 집중합니다.
+#투명성 #AI #계정성
+
+Translated content: Anthropic has proposed a new transparency framework designed to address the growing need for accountability in the development of frontier AI models. This proposal focuses on the largest AI companies that are developing powerful AI models, distinguished by factors such as computing power, cost, evaluation performance, and annual R&D expenditures.
+#hashtags: #투명성, #AI, #계정성
+
+12 번째 검색 내용
+제목: 자바 뉴스 요약: 퀘어크스 MCP용 CLI 도구, 그루비 5.0 밀리스톤, 제이힌스터, 그랄VM
+
+(Note: The translation may not be perfect as it is a technical term and some terms might have specific meanings in the context of Java development.)
+주소: https://www.infoq.com/news/2025/07/java-news-roundup-jul21-2025/
+설명: Java 주요 뉴스 요약: 2025년 7월 21일, Quarkus MCP Client를 사용하여 명령줄에서 안전한 Quarkus MCP Server에 액세스하는 새로운 도구; Groovy 5.0.0의 두 번째 베타 릴리스; GraalVM Native Build Tools와 JHipster Lite에 대한 포인트 릴리스입니다.
+#Java #Quarkus #GraalVM #JHipster
+
+#hashtags: #JavaNews #QuarkusUpdates #Groovy5Release
+
+13 번째 검색 내용
+제목: 애플은 iOS 26에 대한 앞으로 출시될 AI 기반 모델의 세부 정보를 공개합니다.
+주소: https://www.infoq.com/news/2025/07/apple-foundation-models-ios26/
+설명: 인공지능 : 최근 기술 보고서에서는 Apple이 iOS 26에 포함된 새로운 Apple Intelligence Foundation Models의 성능과 특성에 대해 더 자세한 정보를 제공했습니다. WWDC 2025에서 발표되었습니다.
+#인공지능 #iOS26 #WWDC2025
+
+Hashtags:
+1. #AppleIntelligenceFoundationModels
+2. #InnovationinAI
+3. #WWDC2025Highlights
+
+14 번째 검색 내용
+제목: [INST] 국가 인공지능 전략 발표: 흰 하우스에서 혁신, 철거 및 글로벌 리더십을 중심으로 국가 AI 전략 발표
+[/INST]
+주소: https://www.infoq.com/news/2025/07/america-ai-action-plan/
+설명: The White House has published America’s AI Action Plan, outlining a national strategy to enhance U.S. leadership in artificial intelligence. The plan follows President Trump’s January Executive Order 14179, which directed federal agencies to accelerate AI development and remove regulatory barriers to innovation.
+                     #인공지능 #미국 #전략
+
+Translated content: The White House has published America's AI Action Plan, outlining a national strategy to enhance U.S. leadership in artificial intelligence. The plan follows President Trump's January Executive Order 14179, which directed federal agencies to accelerate AI development and remove regulatory barriers to innovation.
+                     #인공지능 #미국 #전략
+
+Hashtags: #인공지능 #미국 #전략
+
+15 번째 검색 내용
+제목: 스프링 뉴스 요약: 부트, 보안, 인증 서버, GraphQL, Kafka, 퓨셀 중요 릴리즈
+
+(Note: The Korean translation may not be perfect as it involves technical terms related to software development. However, the general meaning should be conveyed.)
+주소: https://www.infoq.com/news/2025/07/spring-news-roundup-jul21-2025/
+설명: Korean Translation: 2025년 7월 21일 주에서는 Spring 생태계에서 많은 활동이 있었으며, Spring Boot, Spring Security, Spring Authorization Server, Spring GraphQL, Spring Session, Spring Integration, Spring REST Docs, Spring Batch, Spring AMQP, Spring Apache Kafka, Spring Apache Pulsar 및 Spring Web Services에 대한 주요 릴리스가 강조되었습니다.
+#Spring #프레임워크 #클라우드컴퓨팅
+
+Hashtags: #Spring #프레임워크 #클라우드컴퓨팅
+
