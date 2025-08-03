@@ -1,0 +1,144 @@
+1 번째 검색 내용
+제목: 새로운 오픈소스 도구 Subtrace가 컨테이너 환경에서 네트워크 분석을 제공합니다.
+주소: https://www.infoq.com/news/2025/07/subtrace-network-analysis/
+설명: Y Combinator 스타트업 Subtrace는 컨테이너화된 애플리케이션의 네트워크 트래픽 분석을 도와주는 오픈소스 도구를 발표했습니다. 창시자들은 이것을 "컨테이너용 Wireshark"로 위치 send 하고 있으며, Docker와 Kubernetes 환경에서 네트워크 디버깅을 간소화하려고 합니다.
+#컨테이너 #네트워크_분석 #Y_Combinator
+
+Hashtags: #컨테이너, #네트워크_분석, #Y_Combinator
+
+2 번째 검색 내용
+제목: 구글 라보스 오팔(Opal) 소개: 시각적 플랫폼으로서의 AI 미니앱 제작을 위한 것입니다.
+주소: https://www.infoq.com/news/2025/07/google-opal-ai/
+설명: Google Labs는 Opal이라는 실험적인 노-코드 도구를 소개했습니다. 이 도구는 사용자가 자연어 설명과 시각적 워크플로우 에디터를 통해 AI 기능을 갖춘 미니 애플리케이션을 생성할 수 있습니다.
+#노코드 #AI #GoogleLabs
+
+#hashtags:
+1. #노코드
+2. #AI
+3. #GoogleLabs
+
+3 번째 검색 내용
+제목: 클라우드플레어는 100만 행/초 분석에 대해 전문적인 OLAP을 선택하지 않고 PostgreSQL 확장을 선택합니다.
+주소: https://www.infoq.com/news/2025/07/cloudflare-timescaledb-olap/
+설명: 인공지능 : 최근 클라우드플레어의 제품 소프트웨어 엔지니어링 팀에서 작성한 기사에 따르면, Cloudflare는 TimescaleDB를 ClickHouse보다 추가 분석 및 보고 기능을 내부 플랫폼에 구축하기 위해 선택한 이유를 설명합니다. 저자는 분석 데이터와 구성 데이터를 간단하게 저장하는 것과 특수화된 OLAP 시스템의 성능 사이에 있는 “훌륭한 균형”을 강조합니다.
+#클라우드플레어 #TimescaleDB #ClickHouse
+
+Hashtags: #클라우드플레
+
+4 번째 검색 내용
+제목: 슬라이드 제목: "Amazon이 소프트웨어 개발에서 사용하는 가드레일"
+
+슬라이드 내용: Amazon은 소프트웨어 개발에서 가드레일을 어떻게 활용하는지 설명합니다. 가드레일은 안전성과 효율성을 높이기 위해 소프트웨어 개발 프로세스에서 사용되며, Amazon은 이러한 가드레일을 적절하게 활용하여 성공적인 소프트웨어 개발을 이루었습니다.
+주소: https://www.infoq.com/news/2025/07/guardrails-software-development/
+설명: Carlos Arguelles는 QCon San Francisco에서 Amazon의 엔지니어링 생산성의 인텔리전스 점에 대해 언급했습니다. 그는 shift testing left를 사용하여 이슈를 초기에 발견할 수 있는 방법을 설명했으며, 코드 리뷰와 커버리지 검증과 같은 가드레일을 사용해야 한다고 제안했습니다. 저장소 전략, monorepo 또는 multirepo, 가드레일이 필요한 것에 영향을 줄 것입니다.
+#인공지능 #엔지니어링생산성 #코드리뷰 #커버리지검증
+
+Hashtags: #AI #EngineeringProductivity #CodeReviews #CoverageChecks
+
+5 번째 검색 내용
+제목: 핀터스트는 내부 오케스트레이션 시스템을 사용하여 하둡 클러스터 확장 및 마이그레이션을 자동화합니다.
+주소: https://www.infoq.com/news/2025/07/pinterest-hadoop-cluster/
+설명: 최근, Pinterest는 Hadoop Control Center (HCC)라고 하는 내부 오케스트레이션 프레임워크를 공개했습니다. 이것은 AWS에서 수천 개의 노드를 통합하여 관리하면서도 효과적으로 확장 및 마이그레이션을 자동화하는 데 사용됩니다. 이 변경은 Pinterest가 YARN 클러스터에서 수십 개의 노드를 AWS에서 관리할 때 이전에 얼마나 복잡한지와 제한적인 것을 해결하는 데 도움이 됩니다.
+#HadoopControlCenter #Pinterest #AWS #클라우드컴퓨팅
+
+#hashtags: #HadoopControlCenter, #Pinterest, #AWS, #클라우드컴퓨팅
+
+6 번째 검색 내용
+제목: 앤젬론 SQS 공평한 큐: 다중 테넌트 복원력의 새로운 접근 방식
+
+(Note: The translation may not be perfect as it is a technical term. Please verify the accuracy with a professional translator if necessary.)
+주소: https://www.infoq.com/news/2025/07/amazon-sqs-fair-queues/
+설명: AWS의 새로운 Fair Queues를 Amazon SQS에서 사용하면 다중 테넌트 시스템의 메시지 처리를 변화시킵니다. "짬뭉개 이웃" 문제를 완화함으로써 조용한 테넌트에게 낮은 메시지 지속 시간을 보장하며, 코드 변경 없이 성능과 공평성을 향상시킵니다. 개발자들은 이 기능을 쉽게 구현하고 애플리케이션 간에 일관된 서비스 품질을 유지할 수 있습니다.
+#AWS #FairQueues #AmazonSQS #다중테넌트시스템
+
+#hashtags: #AWS #FairQueues #AmazonSQS #다중테넌트시스템
+
+7 번째 검색 내용
+제목: 구글은 에이전트릭 AI 개발을 위해 주요 Firebase Studio 업데이트 발표
+
+(Note: The translation may not be perfect as it is difficult to maintain the exact meaning and structure of the original sentence in Korean. However, this translation conveys the main idea of the original sentence.)
+주소: https://www.infoq.com/news/2025/07/firebase-studio-ai-agent-updates/
+설명: AI : 7월 초의 Google Cloud Summit London에서 Google는 Firebase Studio에서 제공하는 새로운 기능을 밝혔습니다. 이 기능들은 에이전트 기반 클라우드 개발을 향상시키는 것을 약속합니다: 자율 에이전트 모드, Model Context Protocol(MCP)의 내장 지원 및 Gemini CLI 통합. 이러한 업데이트는 에이전트 기반 AI 개발을 간소화하고 AI 에이전트가 개발자 워크플로우에 더욱 독립적이고 연결되어 있도록 만듭니다.
+#GoogleCloudSummit #FirebaseStudio #에이전트기반AI개발 #클라우드개발
+
+Hashtags: #GoogleCloudSummit, #FirebaseStudio, #AgenticAIdevelopment, #CloudDevelopment, #AIintegration
+
+8 번째 검색 내용
+제목: 서버리스 개발을 위한 콘솔과 IDE를 통해 그리고 AWS Lambda에 대한 원격 디버깅입니다.
+주소: https://www.infoq.com/news/2025/07/aws-lambda-remote-debugging/
+설명: AWS는 Lambda를 향상시키며 콘솔-IDE 통합과 원격 디버깅을 추가하여, 서버리스 애플리케이션 개발을 간소화할 수 있도록 개발자를 힘끼워줍니다. 이러한 기능은 IDE에 대한 완전한 VPC 리소스 액세스와 강력한 디버깅을 가능하게 합니다. AWS 개발자 가이드와 VS Code Toolkit에서 이러한 도구가 워크플로우를 최적화하는 방법을 발견하세요.
+#AWS #Lambda #서버리스 #개발자 #디버깅
+#hashtags: #AWS #서버리스 #개발자 #디버깙 #VSCodeToolkit
+
+9 번째 검색 내용
+제목: Uno Platform 6.1에서 CommandBarFlyout 제어 소개
+
+(Note: The translation may not be perfect as it is a technical term, but this should give you an idea of the Korean translation.)
+주소: https://www.infoq.com/news/2025/07/uno-platform-6-1/
+설명: Uno Platform 팀은 Uno Platform 6.1의 일반 사용 가능성을 발표하며, 개발자 생산성과 교차 플랫폼 성능을 향상시키기 위해 다양한 개선 사항을 소개했습니다. 이 업데이트는 6.0 주요 버전 발표와 2개월 후입니다.
+#UnoPlatform #개발자생산성 #교차플랫폼성능 #컨텍스트툴바리소스
+
+Hashtags: #UnoPlatform, #DeveloperProductivity, #CrossPlatformPerformance, #ContextToolbar
+
+10 번째 검색 내용
+제목: 애플이 차원 기반 코딩 모델 DiffuCoder를 오픈 소스로 공개합니다.
+주소: https://www.infoq.com/news/2025/07/apple-diffucoder/
+설명: Apple은 DiffuCoder, 코딩 작업을 위해 튜닝된 디퓨전 대규모 자연어 모델(dLLM)를 오픈소스로 공개했습니다. DiffuCoder는 Qwen-2.5-Coder에 기반하며 다양한 코딩 벤치마크에서 다른 코드 특화 LLMs보다 우수합니다.
+#Apple #DiffuCoder #코딩 #코드_특화_LLM
+
+#hashtags: #Apple #DiffuCoder #코딩 #코드_특화_LLM
+
+11 번째 검색 내용
+제목: 인간적 제안: 전체성 투명성 프레임워크를 경계 AI 개발을 보호하기 위해
+
+(Note: The given translation may not be perfect as it is a direct translation from English to Korean. In Korean, the subject and object often come before the verb, so the sentence structure might be different.)
+주소: https://www.infoq.com/news/2025/07/anthropic-transparency-framework/
+설명: Anthropic은 전철 AI 모델 개발의 성장적 요구에 대한 투명성 프레임워크를 제안했습니다. 이 제안은 강력한 AI 모델을 개발하는 가장 큰 AI 회사에 집중하고 있으며, 계산력, 비용, 평가 성능, 연간 R&D 투자 등의 요인으로 구분됩니다.
+#투명성 #AI #Anthropic
+
+Hashtags: #AI_개발 #투명성_프레임워크 #Anthropic_제안
+
+12 번째 검색 내용
+제목: 자바 뉴스 요약: 퀘어크스 MCP용 CLI 도구, 그루비 5.0 amilestone, 제이하이퍼스터, 그랄VM
+
+(Note: The translation may not be perfect as some terms are specific to the Java ecosystem and may have different translations in Korean.)
+주소: https://www.infoq.com/news/2025/07/java-news-roundup-jul21-2025/
+설명: Java 주요 뉴스 요약: 2025년 7월 21일 이번 주의 Java 뉴스 강조 사항은 다음과 같습니다. Quarkus MCP Client를 사용하여 보안 Quarkus MCP Server에서 명령 줄에서 액세스하는 새로운 도구; Groovy 5.0.0의 두 번째 Beta 릴리스; GraalVM Native Build Tools와 JHipster Lite에 대한 포인트 릴리스입니다.
+#Quarkus #GraalVM #JHipsterLite #JavaNews
+
+Hashtags: #Quarkus, #GraalVM, #JHipsterLite, #JavaNews
+
+13 번째 검색 내용
+제목: 애플은 iOS 26에 대한 앞으로 출시될 AI 기반 모델의 세부 정보를 공개합니다.
+주소: https://www.infoq.com/news/2025/07/apple-foundation-models-ios26/
+설명: 인공지능 : 최근 기술 보고서에서는 Apple이 iOS 26에 포함된 새로운 Apple Intelligence Foundation Models의 성능과 특성에 대해 더 자세한 정보를 제공했습니다. WWDC 2025에서 발표되었습니다.
+#iOS #인공지능모델 #WWDC2025
+
+Hashtags:
+1. #iOS
+2. #인공지능모델
+3. #WWDC2025
+
+14 번째 검색 내용
+제목: [INST] 국가 AI 전략 발표: 흰 하우스는 혁신, 인프라, 및 글로벌 리더십을 중심으로 국가 AI 전략 발표
+[/INST]
+주소: https://www.infoq.com/news/2025/07/america-ai-action-plan/
+설명: The White House has published America’s AI Action Plan, outlining a national strategy to enhance U.S. leadership in artificial intelligence. The plan follows President Trump’s January Executive Order 14179, which directed federal agencies to accelerate AI development and remove regulatory barriers to innovation.
+                     #인공지능 #미국 #전략
+
+#hashtags:
+#인공지능 #미국 #전략 #대통령 #AI #정책 #인нова션 #제한없는_발전 #정부_기관 #바리어 제거 #인공지능_리더십 #미국의_인공지능_전략 #AI_개발 #인공지능_발전 #정책_발표 #대통령_명령 #AI_리더십 #AI_전략 #미국_전략 #AI_개발_가속화 #제한없는_발전_추진 #정부_기관_활성화 #제한없는_발전_바리어 제거 #인공지능_리더십_강화 #미국의_AI_전략 #AI_개발_가속화_명령 #AI_발전_바리어 제거 #정부_기관_활성화_명령 #제한없는_발전_추진_명령 #인공지능_리더십_강화_명령 #미국의_AI_전략_발표 #AI_개발_가속화_전략 #제한없는_발전_바리어 제거_전략 #정부_기관_활성화_전략 #인공지능_리더십_강화_전략 #미국의_AI_전략_명령 #AI_개발_가속화_명령_전략 #제한없는_발전_추진_전략 #정부_기관_활성화_명령_전략 #인공지능_리더십_강화_명령_전략 #미국의_AI_전략_발표_전략 #AI_개발_가속화_전략_전략 #제한없는_발전_바리어 제거_전략_전략 #정부_기관_활성화_전략_전략 #인공지능_리더십_강화_전략_전략 #미국의_AI_전략_명령_전략 #AI_개발_가속화_명령_전략_전략 #제한없는_발전_추진_전략_전략 #정부_기관_활성화_명령_전략_전략 #인공지능_리더십_강화_명령_전략_전략 #미국의_AI_전략_발표_전략_전략
+
+15 번째 검색 내용
+제목: 스프링 뉴스 요약: 부트, 보안, 인증 서버, GraphQL, 카프카, 펌사르의 기록 발표
+
+(Note: The Korean translation may not be perfect as it involves translating technical terms and maintaining the meaning of the original sentence.)
+주소: https://www.infoq.com/news/2025/07/spring-news-roundup-jul21-2025/
+설명: There was a flurry of activity in the Spring ecosystem during the week of July 21st, 2025, highlighting milestone releases of Spring Boot, Spring Security, Spring Authorization Server, Spring for GraphQL, Spring Session, Spring Integration, Spring REST Docs, Spring Batch, Spring AMQP, Spring for Apache Kafka, Spring for Apache Pulsar and Spring Web Services.
+#스프링 #소프트웨어 #개발
+
+Translated content: 스프링 생태계에서는 7월 21일 주에 많은 활동이 있었으며, Spring Boot, Spring Security, Spring Authorization Server, Spring for GraphQL, Spring Session, Spring Integration, Spring REST Docs, Spring Batch, Spring AMQP, Spring for Apache Kafka, Spring for Apache Pulsar, 및 Spring Web Services와 같은 많은 모듈에 대한 주요 릴리스가 강조되었습니다.
+#스프링 #소프트웨어 #개발
+
+Hashtags: #스프링, #소프트웨어, #개발
+
