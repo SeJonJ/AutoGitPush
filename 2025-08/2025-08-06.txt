@@ -1,0 +1,139 @@
+1 번째 검색 내용
+제목: 마이크로소프트는 협력형 AI 에이전트를 구축하기 위한 A2A .NET SDK 출시
+
+(Note: The translation may not be perfect, as some phrases or words might need to be adjusted for proper Korean grammar and syntax.)
+주소: https://www.infoq.com/news/2025/08/a2a-dotnet-sdk/
+설명: Microsoft는 A2A .NET SDK를 출시하였습니다. 이것은 AI 에이전트를 Agent2Agent (A2A) 프로토콜을 사용하여 통신하고 협력할 수 있도록 개발자 도구 키트를 제공합니다. 클라이언트와 서버 역할 모두에 대한 지원을 포함하고 있으며, .NET 기반의 에이전트는 기술 하위 기술에 관계없이 다양한 에코시스템 내에서 상호작용할 수 있습니다.
+#인공지능 #A2A프로토콜 #.NETSDK #에코시스템
+
+#hashtags:
+1. #인공지능_에이전트
+2. #A2A_프로토콜_지원
+3. #.NET_기반_에이전트_상호작용
+
+2 번째 검색 내용
+제목: OpenAI가 차트GPT에서 단계별 학습을 지원하기 위해 스터디 모드를 출시합니다.
+주소: https://www.infoq.com/news/2025/08/study-mode-chatgpt/
+설명: OpenAI는 ChatGPT에서 Study Mode를 도입했습니다. 이 기능은 사용자가 단계별로 문제를 풀어나갈 수 있도록 안내하고, 즉시 답변을 제공하는 것보다 활발한 참여와 이해를 지원하기 위해 상호작용 프롬프트, 구조화된 응답, 및 추가 질문을 사용합니다.
+#인공지능 #OpenAI #스터디모드
+
+3 번째 검색 내용
+제목: 마이크로소프트는 딜레이드 IMPORT와 개발자 경험을 향상시킨 TypeScript 5.9를 출시합니다.
+주소: https://www.infoq.com/news/2025/08/typescript-5-9-released/
+설명: AI : TypeScript 5.9을 통해 개발자 경험이 향상되었습니다. 새로운 기능으로는 지연 가져오기, 간결한 프로젝트 설정 및 확장 가능한 호버 미리 보기가 있습니다. 성능 최적화와 Node.js v20 지원으로 이 놀라운 업데이트는 구성을 간소화하고 생산성을 높여, TypeScript를 더욱 강력한 확장 가능한 애플리케이션 빌드를 위해 개발자들에게 더욱 힘을 주고 있습니다.
+#TypeScript5.9 #지연_가져오기 #성능_최적화 #Node.js_v20
+
+Hashtags: #TypeScript #개발자경험 #확장_가능한_애플리케이션
+
+4 번째 검색 내용
+제목: "보안 괴악": Docker는 MCP 도구 체인에서의 위험을 경고합니다.
+주소: https://www.infoq.com/news/2025/08/docker-mcp/
+설명: AI : Docker의 새로운 블로그 게시물에서는 MCP(모델 컨텍스트 프로토콜)를 기반으로 한 AI 지원 개발 도구가 중요한 보안 취약점을 소개하고 있음을 경고합니다 - 실제 사례에서는 자격 증명 유출, 권한 없이 파일 액세스, 원격 코드 실행과 같은 보안 취약점이 발생했습니다.
+#인공지능 #보안 #개발도구 #Docker
+
+Translated sentence: Docker's new blog post warns that AI-powered developer tools built on the Model Context Protocol (MCP) are introducing critical security vulnerabilities - including real-world cases of credential leaks, unauthorized file access, and remote code execution.
+#hashtags: #AI #securityvulnerabilities #developertools #Docker
+
+5 번째 검색 내용
+제목: 자바 뉴스 요약: EclipseStore, Gradle, Hibernate 릴리즈 кан디데이트, 피라나하 클라우드, LangChain4j
+주소: https://www.infoq.com/news/2025/08/java-news-roundup-jul28-2025/
+설명: Java 주요 뉴스 요약: 2025년 7월 28일, GA 릴리즈로 EclipseStore 3.0과 Gradle 9.0이 발표되었으며, Hibernate ORM, Hibernate Reactive, 그리고 Hibernate Search에는 릴리즈 кан디데이가 있습니다. Piranha Cloud는 Eclipse Foundation로 이전하였으며, Eclipse JNoSQL, Quarkus, Micronaut, JHipster, 그리고 JDKUpdater에는 포인트 릴리즈가 발표되었습니다.
+#Java #Eclipse #Hibernate #Runtimes
+
+#hashtags: #Java #Eclipse #Hibernate #Runtimes
+
+6 번째 검색 내용
+제목: 스위프트 6.2에서 동시성 프로그래밍을 간단하게 만드는 접근성 동시성 소개
+
+(Note: The translation may not be perfect as it is a machine translation, but it conveys the meaning of the original sentence.)
+주소: https://www.infoq.com/news/2025/08/swift62-approachable-concurrency/
+설명: Announced at its latest developer conference, WWDC25, Swift Approachable Concurrency is a new feature in Swift 6.2 designed to simplify concurrent programming for the most common use cases in mobile apps.
+                     Korean: WWDC25에서 발표된 Swift 접근성 동시성은 Swift 6.2의 새로운 기능으로, 모바일 앱의 가장 흔한 사용 사례를 간소화하여 동시성 프로그래밍을 단순화합니다.
+                     #hashtags: #Swift #동시성 #모바일앱
+
+Additional hashtag suggestion: #WWDC25
+
+7 번째 검색 내용
+제목: 새로운 오픈소스 도구 Subtrace가 컨테이너 환경에서 네트워크 분석을 제공합니다.
+주소: https://www.infoq.com/news/2025/07/subtrace-network-analysis/
+설명: Y Combinator 스타트업 Subtrace는 컨테이너화된 애플리케이션의 네트워크 트래픽 분석을 도와주는 오픈소스 도구를 발표했습니다. 창시자들은 이것을 "컨테이너용 Wireshark"로 위치 send 하고 있으며, Docker와 Kubernetes 환경에서 네트워크 디버깅을 간소화하려고 합니다.
+#컨테이너 #네트워크_분석 #Y_Combinator
+
+Hashtags: #컨테이너, #네트워크_분석, #Y_Combinator
+
+8 번째 검색 내용
+제목: 구글 라보스 오팔(Opal) 시각적 플랫폼으로 AI 미니앱 생성
+
+[인스턴트 번역 끝]
+주소: https://www.infoq.com/news/2025/07/google-opal-ai/
+설명: Google Labs는 Opal이라는 실험적인 노-코드 도구를 소개했습니다. 이 도구는 사용자가 자연어 설명과 시각적 워크플로우 에디터를 통해 AI 기능을 갖춘 미니 애플리케이션을 생성할 수 있습니다.
+#인공지능 #노코드 #Opal
+
+#hashtags:
+1. #AI_tools
+2. #No-code_development
+3. #Google_Labs
+
+9 번째 검색 내용
+제목: 클라우드플레어는 100만 행/초 분석에 대해 전문적인 OLAP을 선택하지 않고 PostgreSQL 확장을 선택합니다.
+주소: https://www.infoq.com/news/2025/07/cloudflare-timescaledb-olap/
+설명: 인공지능 팀은 Zero Trust 제품 세트에서 사용되는 Cloudflare가 TimescaleDB를 ClickHouse보다 어떤 이유로 선택했는지 설명하며, 분석 및 보고 기능을 내부 플랫폼에 추가하기 위해 특수화된 OLAP 시스템의 성능과 분석 데이터와 구성 데이터를 간단히 저장하는 데 있는 "엄청난 균형"을 강조합니다.
+#인공지능 #클라우드플레어 #타임스케일DB
+
+Hashtags: #인공지능, #클라우드플레
+
+10 번째 검색 내용
+제목: 앤젬로스의 소프트웨어 개발에서 가드레일을 어떻게 사용하는지 알아보자.
+주소: https://www.infoq.com/news/2025/07/guardrails-software-development/
+설명: Carlos Arguelles는 QCon San Francisco에서 Amazon의 엔지니어링 생산성의 인텔리전스 점에 대해 언급했습니다. 그는 왼쪽으로 이동하여 문제를 빠르게 찾을 수 있는 방법으로 shift testing left를 사용하는 것을 추천합니다. 코드 리뷰와 커버리지 확인과 같은 가드레일을 사용하는 것을 제안했습니다. 저장소 전략, monorepo 또는 multirepo, 필요한 가드레일이 있는지 결정할 것입니다.
+#인공지능 #엔지니어링생산성 #코드리뷰 #커버리지확인
+
+Hashtags: #AI #EngineeringProductivity #CodeReviews #CoverageChecks #MonorepoVsMultirepo
+
+11 번째 검색 내용
+제목: 핀터스트는 내부 오케스트레이션 시스템을 사용하여 하둡 클러스터 확장 및 마이그레이션을 자동화합니다.
+주소: https://www.infoq.com/news/2025/07/pinterest-hadoop-cluster/
+설명: 최근, Pinterest는 Hadoop Control Center(HCC)라고 하는 내부 오케스트레이션 프레임워크를 공개했습니다. 이것은 AWS에서 수천 개의 노드를 통합하여 관리하면서도 효과적으로 확장 및 마이그레이션을 자동화하는 데 사용됩니다. 이 변경은 Pinterest가 YARN 클러스터에서 수십 개의 노드를 AWS에서 관리할 때 이전에 얼마나 복잡한지와 제한적인 것을 해결하는 데 도움이 됩니다.
+#HadoopControlCenter #Pinterest #AWS #클라우드컴퓨팅
+
+#hashtags:
+1. #HadoopControlCenter
+2. #Pinterest
+3. #AWS
+4. #클라우드컴퓨팅
+
+12 번째 검색 내용
+제목: 앤젬론 SQS 공평한 큐: 다중 테넌트 강력성을 위한 새로운 접근 방식
+
+(Note: The translation may not be perfect as it is a technical term. Please confirm the accuracy with a professional translator if necessary.)
+주소: https://www.infoq.com/news/2025/07/amazon-sqs-fair-queues/
+설명: AWS의 새로운 Fair Queues를 Amazon SQS에 적용하면 다중 테넌트 시스템의 메시지 처리를 변화시킵니다. "짬뽕 이웃" 문제를 완화함으로써 조용한 테넌트들에게 낮은 메시지 지속 시간을 보장하며, 코드 변경 없이 성능과 공평성을 향상시킵니다. 개발자는 이 기능을 쉽게 구현할 수 있고, 애플리케이션 간에 일관된 서비스 품질을 유지할 수 있습니다.
+#AWS #FairQueues #AmazonSQS #다중테넌트시스템
+
+#hashtags: #AWS #FairQueues #AmazonSQS #다중테넌트시스템
+
+13 번째 검색 내용
+제목: 구글은 에이전트릭 AI 개발을 위해 주요 Firebase Studio 업데이트를 릴리즈합니다.
+주소: https://www.infoq.com/news/2025/07/firebase-studio-ai-agent-updates/
+설명: AI : 7월 초의 Google Cloud Summit London에서 Google는 Firebase Studio에서 제공하는 새로운 기능을 밝혔습니다. 이 기능들은 에이전트 기반 클라우드 개발을 향상시키는 것을 약속합니다: 자율 에이전트 모드, Model Context Protocol(MCP)의 내장 지원 및 Gemini CLI 통합. 이러한 업데이트는 에이전트 기반 AI 개발을 간소화하고 AI 에이전트가 개발자 워크플로우에 더욱 독립적이고 연결되어 있도록 만듭니다.
+#GoogleCloudSummit #FirebaseStudio #에이전트기반AI개발 #클라우드개발
+
+Hashtags: #GoogleCloudSummit, #FirebaseStudio, #AgenticAIdevelopment, #CloudDevelopment, #AIintegration
+
+14 번째 검색 내용
+제목: 서버리스 개발을 위한 콘솔과 IDE를 통해 그리고 AWS Lambda에 대한 원격 디버깅입니다.
+주소: https://www.infoq.com/news/2025/07/aws-lambda-remote-debugging/
+설명: AWS는 Lambda를 향상시키며 콘솔-IDE 통합과 원격 디버깅을 추가하여, 서버리스 애플리케이션 개발을 간소화할 수 있도록 개발자를 힘끼워줍니다. 이러한 기능은 IDE에 대한 완전한 VPC 리소스 액세스와 강력한 디버깅을 가능하게 합니다. AWS 개발자 가이드와 VS Code Toolkit에서 이러한 도구가 워크플로우를 최적화하는 방법을 발견하세요.
+#AWS #Lambda #서버리스 #개발자 #디버깅
+#인공지능 #의료 #금융 #교통
+
+15 번째 검색 내용
+제목: Uno Platform 6.1에서 CommandBarFlyout 제어 소개
+
+(Note: The translation may not be perfect as it is a technical term, but this should give you an idea of the Korean translation.)
+주소: https://www.infoq.com/news/2025/07/uno-platform-6-1/
+설명: Uno Platform 팀은 Uno Platform 6.1의 일반 사용 가능성을 발표하였습니다. 개발자 생산성과 여러 플랫폼 성능을 향상시키기 위해 다양한 개선 사항을 도입하고 있으며, 새로운 UI 제어를 통해 컨텍스트 툴바를 지원합니다. 이 업데이트는 6.0 주요 버전 릴리스와 2개월 후에 발표되었습니다.
+#UnoPlatform #개발자생산성 #여러플랫폼성능 #컨텍스트툴바
+
+Hashtags: #UnoPlatform, #developerproductivity, #crossplatformperformance, #contextualtoolbar
+
