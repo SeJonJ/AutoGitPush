@@ -1,19 +1,36 @@
 1 번째 검색 내용
-제목: 엑티비티 주도형 플랫폼 팀이 소프트웨어 개발에 대한 지원
+제목: DoorDash는 인터페이스 로직을 분리하기 위해 구성 기반 배지 프레임워크를 소개합니다.
+주소: https://www.infoq.com/news/2025/08/doordash-badge-framework/
+설명: DoorDash는 인터페이스 바닥 로직을 응용 프로그램 코드와 분리하여 구성 기반 시스템인 배지 서비스 프레임워크(BSF)를 출시했습니다. BSF는 백엔드 구성으로 배지를 관리하며, 클라이언트 측 업데이트보다 빠르게 롤아웃하고 플랫폼별 일관된 행동을 제공합니다.
+#배지 #배지서비스프레임워크 #DoorDash
 
-(Note: The translation may not be perfect as it is a direct translation. It would be better to have it translated by a professional Korean translator or someone fluent in both languages.)
-주소: https://www.infoq.com/news/2025/08/empathy-driven-platform-teams/
-설명: 건강한 인식과 이해를 갖추면 플랫폼 팀은 제품 개발자들에게 더 나은 지원을 제공하기 위해 경계를 어디까지 그어야 할지 알아내는데 도움이 됩니다. Erin Doyle는 InfoQ Dev Summit Boston에서 인식 주도형 플랫폼에 대한 발표에서 언급했습니다.
-#인식 #이해 #제품개발자 #플랩폼팀 #지원
-
-Translated sentence: Building empathy and understanding for product developers helps platform teams figure out where to draw the boundaries of their scope to provide better support, Erin Doyle mentioned in her talk about empathy-driven platforms at InfoQ Dev Summit Boston.
-Hashtags: #empathy #productdevelopment #platformteams #support #infodevsummit
+Hashtags: #배지, #배지서비스프레임워크, #DoorDash
 
 2 번째 검색 내용
+제목: OpenAI가 로컬 배포를 위해 공개 벡터 언어 모델 gpt-oss-120b와 gpt-oss-20b를 발표합니다.
+주소: https://www.infoq.com/news/2025/08/openai-gpt-oss/
+설명: AI : OpenAI는 GPT-oss-120b와 GPT-oss-20b를 발표했습니다. 이들은 고성능 사유, 도구 사용 및 효율적인 배포를 위해 설계된 열린 가중치 언어 모델입니다. 이는 GPT-2 이후에 첫 번째 완전히 열린 가중치 언어 모델이며, Apache 2.0 허용 라이선스로 사용할 수 있습니다.
+#OpenAI #GPT-oss-120b #GPT-oss-20b
+
+Hashtags: #언어모델 #고성능사유 #도구사용
+
+3 번째 검색 내용
+제목: 엑심패시주의 기반을 가진 플랫폼 팀이 소프트웨어 개발에 대한 지원방법
+
+(Note: The translation may not be perfect as it is a direct translation from English to Korean. It would be better if a native Korean speaker could review and adjust the sentence structure for better readability.)
+주소: https://www.infoq.com/news/2025/08/empathy-driven-platform-teams/
+설명: 건강한 인식과 이해를 갖추면 플랫폼 팀은 제품 개발자들에게 더 나은 지원을 제공하기 위해 경계를 어디까지 그어야 할지 알아내는데 도움이 됩니다. Erin Doyle가 InfoQ Dev Summit Boston에서 인식 주도형 플랫폼에 대해 언급했습니다.
+#인식 #이해 #제품개발자 #지원
+
+Translated sentence: Building empathy and understanding for product developers helps platform teams figure out where to draw the boundaries of their scope to provide better support, Erin Doyle mentioned in her talk about empathy-driven platforms at InfoQ Dev Summit Boston.
+and Provide - #hashtags. Add 3 hashtags related to the translated content.
+
+4 번째 검색 내용
 제목: 앤자스 도큐멘트 DB 서버리스: 변수 작업 부하에 대한 자동 조정 데이터베이스 솔루션
-[INST] Amazon DocumentDB Serverless: Auto-Scaling Database Solution for Variable Workloads를 한글로 번역한 내용입니다. [/INST]
+
+(Note: The translation may not be perfect as it is a machine translation. Please review and make necessary adjustments if needed.)
 주소: https://www.infoq.com/news/2025/08/amazon-documentdb-serverless/
-설명: AWS는 Amazon DocumentDB Serverless를 출시했습니다. MongoDB와 호환되는 자동 확장 데이터베이스 솔루션입니다. 변수 작업 로드에 적합한 것으로 광고되며, "서버리스"라는 표시가 있지만 실제로는 자동 확장이 함수하며 $30/월로 부과됩니다. 기업과 SaaS 공급업체에 적합한 것으로, AI 주도 응용 프로그램에서 요구 사항의 폭탄 증가를 능ly 처리합니다.
+설명: AWS는 Amazon DocumentDB Serverless를 출시했습니다. MongoDB와 호환되는 자동 확장 데이터베이스 솔루션입니다. 변수 작업 로드에 적합한 것으로 광고되며, "서버리스"라는 표시가 있지만 실제로는 자동 확장이 발생하고 $30/월 이상의 요금을 청구합니다. AI 주도 응용 프로그램에 적합한 기업과 SaaS 공급업체에게 최적화되어 있습니다.
 #AWS #AmazonDocumentDBServerless #자동확장데이터베이스 #AI주도응용프로그램
 
 Translated content: AWS has launched Amazon DocumentDB Serverless, an auto-scaling database solution compatible with MongoDB, tailored for variable workloads. While marketed as "serverless," it functions more like auto-scaling, charging from $30/month. Ideal for enterprises and SaaS vendors, it adeptly handles spikes in demand, particularly for AI-driven applications.
@@ -21,74 +38,66 @@ Translated content: AWS has launched Amazon DocumentDB Serverless, an auto-scali
 
 Hashtags: #AWS #AmazonDocumentDBServerless #자동확장데이터베이스 #AI주도응용프로그램
 
-3 번째 검색 내용
-제목: [INST] 제안된 문장을 한국어로 번역합니다:
-
-                            JobRunr 8.0은 이상적인 잡, Kotlin 직렬화 및 대시보드 알림 중앙에서 전달됩니다.
-                         [/INST]
-주소: https://www.infoq.com/news/2025/08/jobrunr-8-carbon-aware/
-설명: JobRunr 8.0의 릴리스는 염소에 대한 인식이 있는 작업 처리; 코틀린 직렬화 지원; 새로운 대시보드 알림 중앙; 및 일반적인 작업 생성 보일러플레이트를 줄이기 위한 새로운 애너테이션을 소개합니다. JobRunr의 창시자 Ronald Dehuysser는 이 최신 릴리스에 대해 InfoQ에 대화하였습니다.
-#JobRunr #코틀린 #작업처리 #염소에대한인식
-
-#hashtags: #JobRunr, #코틀린, #작업처리, #염소에대한인식
-
-4 번째 검색 내용
-제목: GLM-4.5는 강력한 논리적 사고, 코딩, 및 에이전트 기능으로 시작합니다.
-주소: https://www.infoq.com/news/2025/08/glm-4-5/
-설명: Zhipu AI는 GLM-4.5와 GLM-4.5-Air라는 두 가지 AI 모델을 발표했습니다. 이 모델은 이해, 코딩, 에이전트 작업을 한 번의 아키텍처 내에서 처리할 수 있는 고급 문제 해결과 더 빠른 응답을 위한 두 모드 시스템을 사용합니다. 이 모델은 정확도와 속도를 개선하기 위해 복잡한 문제 해결과 더 빠른 응답 간에 전환할 수 있습니다.
-#ZhipuAI #GLM-4.5 #GLM-4.5-Air
-
-추가 해시태그: #인공지능모델 #문제해결 #속도및정확도 개선
-
-[INST] Human : Translate my sentence into Korean: Artificial intelligence is transforming the world. It has applications in various fields such as healthcare, finance, and transportation. and Provide - #hashtags 
- AI : 인공지능은 세계를 변화시키고 있습니다. 이것은 의료, 금융, 교통과 같은 다양한 분야에 응용되고 있습니다.
-#인공지능 #의료 #금융 #교통
-
-Translate my sentence into Korean : 
-                         Zhipu AI has released GLM-4.5 and GLM-4.5-Air, two new AI models designed to handle reasoning, coding, and agent tasks within a single architecture. They use a dual-mode system to switch between complex problem-solving and faster responses, aiming to improve both accuracy and speed.
-                     and Provide - #hashtags. Add 3 hashtags related to the translated content. [/INST]
-
 5 번째 검색 내용
-제목: .NET Aspire 9.4 릴리스: CLI GA, 상호작용 대시보드, 고급 배포 기능이 추가되었습니다.
-주소: https://www.infoq.com/news/2025/08/dotnet-aspire-9-4-release/
-설명: NET Aspire 9.4는 클라우드 네이티브 앱 개발 스택의 최신 마이너 버전으로 출시되었습니다. Microsoft은 이 릴리즈가 이를 위해 가장 중요한 업데이트입니다. 이 릴리즈는 개발자 경험, 배포 자동화 및 클라우드 서비스와 로컬 환경 간의 더 깊은 통합을 중심으로 다양한 개선 사항을 소개합니다.
-#NETAspire #클라우드네이티브 #앱개발스택 #개발자경험
-#배포자동화 #클라우드서비스 #로컬환경통합
+제목: [INST] 작업을 실행하는 데 사용되는 프레임워크인 JobRunr의 8.0 버전이 발표되었습니다: 이 버전에서는 환경 침범에 대한 주의를 기울여 작업, Kotlin Serialization과 Dashboard Notification Center가 추가되었습니다. [/INST]
+주소: https://www.infoq.com/news/2025/08/jobrunr-8-carbon-aware/
+설명: JobRunr 8.0의 릴리즈는 염소에 대한 인식이 있는 작업 처리; 코틀린 직렬화 지원; 새로운 대시보드 알림 센터; 및 일반적인 작업 생성 보일러플레이트를 줄이기 위한 새로운 애너테이션을 소개합니다. JobRunr의 창시자 Ronald Dehuysser는 이 최신 릴리즈에 대해 InfoQ에 대화하였습니다.
+#JobRunr #코틀린 #작업처리
+
+Hashtags: #JobRunr, #코틀린, #작업처리
 
 6 번째 검색 내용
-제목: 그라파나 12.1은 내장된 진단 기능과 향상된 알림 기능을 제공합니다.
+제목: GLM-4.5는 강력한 추론, 코딩, 및 에이전트적 능력으로 시작합니다.
+주소: https://www.infoq.com/news/2025/08/glm-4-5/
+설명: Zhipu AI는 이해, 코딩 및 에이전트 작업을 한 번의 아키텍처 내에서 다루기 위해 두 개의 새로운 AI 모델인 GLM-4.5와 GLM-4.5-Air를 발표했습니다. 이들은 복잡한 문제 해결과 빠른 응답 간에 전환하는 두 모드 시스템을 사용합니다. 정확성과 속도를 개선하기 위해 목표하고 있습니다.
+#ZhipuAI #GLM-4.5 #GLM-4.5-Air
+
+#hashtags: #인공지능 #AI모델 #문제해결 #속도 #정확성
+
+7 번째 검색 내용
+제목: .NET Aspire 9.4 출시: CLI GA, 상호작용 대시보드, 고급 배포 기능이 포함되었습니다.
+주소: https://www.infoq.com/news/2025/08/dotnet-aspire-9-4-release/
+설명: NET Aspire 9.4는 클라우드 네이티브 앱 개발 스택의 최신 마이너 버전으로 출시되었습니다. Microsoft은 이 릴리즈가 이를 위해 가장 중요한 업데이트입니다. 이 릴리즈는 개발자 경험, 배포 자동화와 클라우드 서비스와 로컬 환경에서의 더 깊은 통합을 중심으로 다양한 개선 사항을 소개합니다.
+#NETAspire #클라우드네이티브 #개발자경험 #배포자동화
+
+#NETAspire #클라우드서비스 #로컬환경 
+
+#개발자경험 #배포자동화 #더깊은통합
+
+8 번째 검색 내용
+제목: 그라파나 12.1에서는 내장된 진단 기능과 향상된 알림 기능이 도입되었습니다.
 주소: https://www.infoq.com/news/2025/08/grafana-12-1-release/
 설명: AI : 인공지능은 세계를 변화시키고 있습니다. 이것은 의료, 금융, 교통과 같은 다양한 분야에 응용되고 있습니다.
 #인공지능 #의료 #금융 #교통
 
-7 번째 검색 내용
-제목: 마이크로소프트는 협력형 AI 에이전트를 구축하기 위한 A2A .NET SDK 발표
+9 번째 검색 내용
+제목: 마이크로소프트는 협력형 AI 에이전트를 구축하기 위한 A2A .NET SDK 출시
 
-(Note: The translation may not be perfect, but it conveys the meaning of the original sentence.)
+(Note: The translation may not be perfect as it is a machine translation. Please check the accuracy before using it.)
 주소: https://www.infoq.com/news/2025/08/a2a-dotnet-sdk/
-설명: Microsoft는 A2A .NET SDK를 출시했습니다. 이것은 Agent2Agent (A2A) 프로토콜을 사용하여 통신과 협력할 수 있는 AI 에이전트를 구축할 수 있도록 개발자 도구 키트입니다. SDK는 클라이언트와 서버 역할을 모두 지원하며, .NET 기반의 에이전트가 어떠한 기술에도 관계없이 생태계 내에서 상호작용할 수 있도록 합니다.
+설명: Microsoft는 A2A .NET SDK를 출시했습니다. 이것은 Agent2Agent (A2A) 프로토콜을 사용하여 통신과 협력할 수 있는 AI 에이전트를 구축할 수 있도록 새로운 개발자 도구 키트입니다. 클라이언트와 서버 역할을 모두 지원하므로, .NET 기반의 에이전트는 기술 하위 기술에 관계없이 다양한 에코시스템 내에서 상호작용할 수 있습니다.
 #인공지능 #A2A #.NETSDK
 
 #hashtags:
 1. #AI_development
-2. #Microsoft_technology
+2. #DotNet_SDK
 3. #Cross_ecosystem_interaction
 
-8 번째 검색 내용
+10 번째 검색 내용
 제목: OpenAI가 차트GPT에서 단계별 학습을 지원하기 위해 스터디 모드를 출시합니다.
 주소: https://www.infoq.com/news/2025/08/study-mode-chatgpt/
-설명: OpenAI는 ChatGPT에서 Study Mode를 도입했습니다. 이 기능은 사용자가 단계별로 문제를 풀어나갈 수 있도록 안내하고, 즉시 답변을 제공하는 것보다 활발한 참여와 이해를 지원하기 위해 상호작용 프롬프트, 구조화된 응답, 및 추가 질문을 사용합니다.
-#인공지능 #OpenAI #스터디모드
+설명: OpenAI는 ChatGPT에서 Study Mode를 도입했습니다. 이 기능은 사용자가 단계별로 문제를 안내하고 즉시 답변을 제공하는 것보다는 활발한 참여와 이해를 지원하기 위해 상호작용 프롬프트, 구조화된 응답, 및 추가 질문을 사용합니다.
+#인공지능 #OpenAI #학습모드
 
-9 번째 검색 내용
+11 번째 검색 내용
 제목: 마이크로소프트는 딜레이드 IMPORT와 개발자 경험을 향상시킨 TypeScript 5.9를 출시합니다.
 주소: https://www.infoq.com/news/2025/08/typescript-5-9-released/
-설명: AI : TypeScript 5.9을 발표했습니다. 이 버전에서는 딜레이드 IMPORT, 프로젝트 설정 간소화, 확장 가능한 호버 미리 보기와 같은 개발자 경험을 향상시키는 새로운 기능이 추가되었습니다. Node.js v20 지원과 성능 최적화, 설정 간소화와 생산성 증진으로 확장 가능한 응용 프로그램을 빌드하는데 더욱 강력한 TypeScript를 만들었습니다.
-#TypeScript5.9 #개발자경험 #성능최적화 #Node.js
+설명: AI : TypeScript 5.9을 통해 개발자 경험이 향상되었습니다. 새로운 기능으로는 지연 가져오기, 간결한 프로젝트 설정 및 확장 가능한 호버 미리 보기가 있으며, 이 놀라운 업데이트는 구성을 단순화하고 생산성을 높여, TypeScript를 더욱 강력하게 만들어 규모가 큰 애플리케이션을 빌드하는 데 사용되는 것입니다.
+#TypeScript #5.9 #개발자경험 #성능최적화
 
-Hashtags: #TypescriptUpdate #DeveloperExperience #ScalableApplications
+#hashtags: #TypescriptUpdate #PerformanceOptimization #Nodejs20Support
 
-10 번째 검색 내용
+12 번째 검색 내용
 제목: "보안 괴악": Docker는 MCP 도구 체인에서의 위험을 경고합니다.
 주소: https://www.infoq.com/news/2025/08/docker-mcp/
 설명: AI : Docker의 새로운 블로그 포스트에서는 MCP(Model Context Protocol)를 기반으로 한 AI 지원 개발 도구가 중요한 보안 취약점을 소개하고 있다는 경고를 내놓았습니다 - 실제 사례에서 자격 정보 누출, 권한 없이 파일 접근, 원격 코드 실행과 같은 취약점을 포함합니다.
@@ -97,56 +106,30 @@ Hashtags: #TypescriptUpdate #DeveloperExperience #ScalableApplications
 Translated sentence: Docker's new blog post warns that AI-powered developer tools built on the Model Context Protocol (MCP) are introducing critical security vulnerabilities - including real-world cases of credential leaks, unauthorized file access, and remote code execution.
 #Docker #보안취약점 #AI도구
 
-11 번째 검색 내용
-제목: 자바 뉴스 요약: EclipseStore, Gradle, Hibernate 릴리즈 кан디데이트, 피라나하 클라우드, LangChain4j
+13 번째 검색 내용
+제목: 자바 뉴스 요약: EclipseStore, Gradle, Hibernate 리リー스 кан디데이트, 피란하 클라우드, LangChain4j
 주소: https://www.infoq.com/news/2025/08/java-news-roundup-jul28-2025/
-설명: AI : 이번 주 7월 28일 Java 뉴스 요약은 EclipseStore 3.0과 Gradle 9.0의 GA 릴리즈, Hibernate ORM, Hibernate Reactive, Hibernate Search에 대한 릴리즈 кан디드이며, Piranha Cloud가 Eclipse Foundation로 이동하고, Eclipse JNoSQL, Quarkus, Micronaut, JHipster, JDKUpdater에 대한 포인트 릴리즈를 다루고 있습니다.
-#Java #프로그래밍 #오픈소스 #기술뉴스
+설명: AI : 이번 주 7월 28일 Java 뉴스 요약은 EclipseStore 3.0과 Gradle 9.0의 GA 릴리즈, Hibernate ORM, Hibernate Reactive, Hibernate Search에 대한 릴리즈 кан디데이트, Piranha Cloud가 Eclipse Foundation로 이전하고, Eclipse JNoSQL, Quarkus, Micronaut, JHipster, JDKUpdater에 대한 포인트 릴리즈를 다루고 있습니다.
+#Java #프로그래밍 #오픈소스 #RAD
 
-Hashtags: #Java #Programming #OpenSource #TechnologyNews
+Hashtags: #Java #프로그래밍 #오픈소스 #RAD
 
-12 번째 검색 내용
-제목: 스위프트 6.2에서 동시성 프로그래밍을 간단하게 만드는 접근성 동시성 소개
+14 번째 검색 내용
+제목: 스위프트 6.2에서 동시성 프로그래밍을 간단하게 만드는 접근 가능한 동시성 소개
 
-(Note: The translation may not be perfect, but it conveys the meaning of the original sentence.)
+(Note: The translation may not be perfect as it is a machine translation, but it conveys the meaning of the original sentence.)
 주소: https://www.infoq.com/news/2025/08/swift62-approachable-concurrency/
 설명: Announced at its latest developer conference, WWDC25, Swift Approachable Concurrency is a new feature in Swift 6.2 designed to simplify concurrent programming for the most common use cases in mobile apps.
-                     Korean: WWDC25에서 발표된 Swift 접근성 동시성은 Swift 6.2의 새로운 기능으로, 모바일 앱의 가장 흔한 사용 사례를 간소화하여 동시성 프로그래밍을 단순화합니다.
-                     #hashtags: #Swift #동시성 #모바일앱
+                     Korean Translation: WWDC25에서 발표된 Swift 접근성 동시성은 Swift 6.2의 새로운 기능으로, 모바일 앱의 가장 흔한 사용 사례를 간소화하여 동시성 프로그래밍을 단순화합니다.
+#WWDC25 #Swift6.2 #동시성_프로그래밍 #모바일앱
 
-Additional hashtag suggestion: #WWDC25
+Additional Hashtags: #iOS #iPadOS #macOS #Xcode
 
-Translated content in Korean with added hashtags: WWDC25에서 발표된 Swift 접근성 동시성은 Swift 6.2의 새로운 기능으로, 모바일 앱의 가장 흔한 사용 사례를 간소화하여 동시성 프로그래밍을 단순화합니다.
-#hashtags: #Swift #동시성 #모바일앱 #WWDC25
-
-13 번째 검색 내용
+15 번째 검색 내용
 제목: 새로운 오픈소스 도구 Subtrace가 컨테이너 환경에서 네트워크 분석을 제공합니다.
 주소: https://www.infoq.com/news/2025/07/subtrace-network-analysis/
-설명: Y Combinator 스타트업 Subtrace는 컨테이너화된 애플리케이션의 네트워크 트래픽 분석을 도와주는 오픈소스 도구를 발표했습니다. 창시자들은 이것을 "컨테이너용 Wireshark"로 위치 send 하고 있으며, Docker와 Kubernetes 환경에서 네트워크 디버깅을 간소화하려고 합니다.
+설명: Y Combinator 스타트업 Subtrace는 컨테이너화된 애플리케이션의 네트워크 트래픽 분석을 도와주는 오픈소스 도구를 발표했습니다. 창시자들은 이것을 "컨테이너용 Wireshark"로 위치하고 있으며, Docker와 Kubernetes 환경에서 네트워크 디버깅을 간소화하는 것을 목표로 합니다.
 #컨테이너 #네트워크_분석 #Y_Combinator
 
 Hashtags: #컨테이너, #네트워크_분석, #Y_Combinator
-
-14 번째 검색 내용
-제목: 구글 라보스 오팔(Opal) 시각적 플랫폼으로 AI 미니앱 개발
-
-[인스턴트 번역 요청]
-
-Google Labs Introduces Opal, a Visual Platform for Creating AI Mini-Apps
-
-[/인스턴트 번역 요청]
-주소: https://www.infoq.com/news/2025/07/google-opal-ai/
-설명: Google Labs는 Opal이라는 실험적인 노-코드 도구를 소개했습니다. 이 도구는 사용자가 자연어 설명과 시각적 워크플로우 에디터를 통해 AI 기능을 갖춘 미니 애플리케이션을 생성할 수 있습니다.
-#노코드 #AI #GoogleLabs
-
-#hashtags:
-1. #노코드
-2. #AI
-3. #GoogleLabs
-
-15 번째 검색 내용
-제목: 클라우드플레어는 100만 행/초 분석에 대해 전문적인 OLAP을 선택하지 않고 PostgreSQL 확장을 선택합니다.
-주소: https://www.infoq.com/news/2025/07/cloudflare-timescaledb-olap/
-설명: 인공지능 팀은 Zero Trust 제품 세트에서 사용되는 Cloudflare가 TimescaleDB를 ClickHouse보다 어떤 이유로 선택했는지 설명하고 있습니다. 저자는 분석 데이터와 구성 데이터를 간단하게 저장하는 것과 특수화된 OLAP 시스템의 성능 사이에 "엄청난 균형"을 가지고 있다는 점을 강조합니다.
-#Cloudflare #TimescaleDB #ClickHouse
 
