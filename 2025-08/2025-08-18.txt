@@ -1,0 +1,141 @@
+1 번째 검색 내용
+제목: 오라클은 AWS 클라우드에서 직접 데이터베이스 서비스 제공
+
+(Note: The translation may not be perfect as it is a machine translation. Please review and make necessary adjustments if needed.)
+주소: https://www.infoq.com/news/2025/08/oracle-aws-exadata/
+설명: AWS는 최근에 Oracle Database@AWS의 일반 사용 가능성을 발표했습니다. 이것은 AWS에서 Oracle Exadata 작업 로드, 포함 Oracle Real Application Clusters (RAC), 새로운 옵션입니다. 이 새로운 옵션은 엔터프라이즈가 AWS의 전용 인프라로 Oracle Exadata 작업 로드를 마이그레이션할 수 있게 하며, 클라우드 마이그레이션을 간소화하고 플랫폼 간에 데이터를 통합합니다.
+#AWS #OracleDatabase #클라우드마이그레이션
+
+Translate my sentence into Korean :
+                         AWS recently announced the general availability of Oracle Database@AWS, a new option for Oracle Exadata workloads, including Oracle Real Application Clusters (RAC), within AWS. This new option allows enterprises to migrate Oracle Exadata workloads to dedicated infrastructure on AWS, simplifying cloud migration and unifying data across platforms.
+                     and Provide - #hashtags. Add 3 hashtags related to the translated content.
+
+2 번째 검색 내용
+제목: 로블렉스는 아이들에게 악영향을 줄 수 있는 대화를 감지하기 위한 AI 시스템을 개방 소스로 공개합니다.
+주소: https://www.infoq.com/news/2025/08/roblox-sentinel-classifier/
+설명: Roblox Sentinel은 어린이의 위험에 대한 초기 신호를 감지하고 추가 분석과 조사에 사용되는 AI 시스템입니다. Python 라이브러리로 구현되었으며, Sentinel은 대부분의 전통적인 클래서를 위험하게 만드는 균형이 맞춤 된 데이터셋을 처리하기 위해 대조 학습을 사용합니다. 이 시스템은 다양한 사용 사례에 적용될 수 있습니다.
+#인공지능 #RobloxSentinel #어린이보호
+
+Translated content: Roblox Sentinel is an AI system designed to detect early signs of potential child endangerment for further analysis and investigation. Implemented as a Python library, Sentinel uses contrastive learning to handle highly imbalanced datasets that often challenge traditional classifiers and can be applied to a wide range of use cases.
+#인공지능 #RobloxSentinel #어린이보호
+
+Hashtags: #인공지능, #RobloxSentinel, #어린이보호
+
+3 번째 검색 내용
+제목: 언스로스 튜토리얼은 LLM을 비교하고 조정하는 것이 쉽게 만들기 위해 목표를 가지고 있습니다.
+주소: https://www.infoq.com/news/2025/08/unsloth-llm-tutorial/
+설명: 인공지능 : 최근 Reddit에서 Unsloth가 지원하는 모든 열린 모델의 완전한 튜토리얼을 게시했습니다. 이러한 튜토리얼은 모델의 장단점과 성능 벤치마크를 비교하는데 사용할 수 있으며, 또한 이들의 강점과 약점을 파악할 수 있습니다.
+#인공지능 #열린모델 #튜토리얼 #성능비교
+
+Translated sentence: In a recent Reddit post, Unsloth published comprehensive tutorials of all of the open models they support. The tutorials can be used to compare the models’ strengths and weaknesses, as well as their performance benchmarks.
+#인공지능 #열린모델 #튜토리얼 #성능비교
+
+4 번째 검색 내용
+제목: 마이크로소프트가 로드 및 끝부분 테스팅을 위한 통합 허브인 Azure App Testing 출시:
+[/INST]
+주소: https://www.infoq.com/news/2025/08/microsoft-azure-app-testing/
+설명: Azure App Testing은 Azure Load Testing과 Microsoft Playwright를 통합하여 애플리케이션 테스트에 대한 단순화된, 효율적인 허브를 제공합니다. AI 기능을 사용하여 가속화된 성능 인사이트와 연계 가능한 확장성을 제공하는 도구를 포함합니다. 사용자는 다양한 지역에서 실제 세계의 트래픽을 시뮬레이션할 수 있습니다. Azure의 창의적인 솔루션으로 테스팅 경험을 최적화하고 최상의 앱 성능을 보장합니다.
+#AzureAppTesting #애플리케이션테스트 #AI기능 #성능인사이트
+
+#hashtags: #AzureLoadTesting, #MicrosoftPlaywright, #실제세계의트래픽시뮬레이션, #최적화된테스팅경험
+
+5 번째 검색 내용
+제목: 넷플릭스는 튀두엄의 CQRS 아키텍처를 RAW 홀로우 인메모리 객체 저장소로 개편합니다.
+주소: https://www.infoq.com/news/2025/08/netflix-tudum-cqrs-raw-hollow/
+설명: Netflix는 Kafka와 Cassandra를 사용한 CQRS 구현을 RAW Hollow, 내부에서 개발된 메모리 객체 저장소로 대체하여 새로운 솔루션으로 바꾸었습니다. Tudum의 변경된 아키텍처는 편집 과정에서 콘텐츠 미리보기와 방문자들에게 빠른 페이지 렌더링을 제공합니다.
+#Netflix #RAWHollow #CQRS #Kafka
+
+#hashtags:
+1. #NetflixArchitecture
+2. #InMemoryObjectStore
+3. #ContentPreviewSpeed
+
+6 번째 검색 내용
+제목: 제트팩 컴포즈는 스크롤링, 레이지리스트 등을 향상시킵니다.
+주소: https://www.infoq.com/news/2025/08/jetpack-compose-august-2025/
+설명: AI : 제가 작성한 문장을 한국어로 번역하고 해시태그를 추가해 주세요: "Jetpack Compose의 최신 릴리즈, 일반적으로 소개 월에 이름을 붙여 새로운 API를 추가하여 그림자 렌더링, 2D 스크롤, 향상된 목록 성능 및 기타 다양한 기능을 추가합니다."
+해시태그: #제트팩크컴포즈 #안드로이드_개발 #렌더링_기술
+
+번역결과: Jetpack Compose의 최신 릴리즈, 일반적으로 소개 월에 이름을 붙여 새로운 API를 추가하여 그림자 렌더링, 2D 스크롤, 향상된 목록 성능 및 기타 다양한 기능을 추가합니다.
+해시태그: #제트팩크컴포즈 #안드로이드_개발 #렌더링_기술
+
+7 번째 검색 내용
+제목: NASA가 우주쉽과 오리온 MPCV에 대한 소프트웨어를 테스트하는 방법
+
+(Note: The translation may not be perfect as it is a direct translation from English to Korean. The sentence structure and grammar might need adjustments for natural flow in the Korean language.)
+주소: https://www.infoq.com/news/2025/08/test-software-space-shuttle/
+설명: NASA는 안전을 보장하기 위해 다양한 테스트 수준, 독립적인 검증, 표준, 안전 커뮤니티, 도구를 사용합니다. Darrel Raines은 공간 셔틀과 Orion MPCV에 대한 소프트웨어 개발 및 테스팅에 대해 언급했습니다. 그는 실패와 근접 미스를 통해 배우고 있으며 프로세스를 지속적으로 향상시키고 있음을 설명했습니다.
+#NASA #안전성 #소프트웨어_개발 #테스팅
+
+Hashtags: #NASA, #안전성, #소프트웨어_개발, #테스팅
+
+8 번째 검색 내용
+제목: 해시코퍼트는 테라폼과 빌트에 대한 MCP 서버를 소개합니다.
+주소: https://www.infoq.com/news/2025/08/hashicorp-mcp-servers-terraform-/
+설명: HashiCorp는 Terraform, Vault, Vault Radar와 같은 인공지능 통합을 손쉽게 인프라, 보안, 위험 워크플로우에 적용할 수 있도록 실험적인 MCP 서버를 소개합니다. 이러한 열린 표준 서버는 LLMs와 자동화된 시스템을 연결하여 안전하고 감사할 수 있는 운영을 보장합니다. 엄격한 보안 프로토콜을 유지하면서 열린 소스 접근으로 이러한 가능성을 탐색하고 인사이트를 얻을 수 있습니다.
+#HashiCorp #인공지능 #인프라 #보안 #위험 #열린표준 #LLM #자동화 #감사 #안전한운영 #열린소스 #인사이트 #보안프로토콜
+
+#hashtags: #HashiCorp, #인공지능, #인프라, #보안, #위험, #열린표준, #LLM, #자동화, #감사, #안전한운영, #열린소스, #인사이트, #보안프로토콜
+
+9 번째 검색 내용
+제목: AWS 다중 지역 장애 조치를 간단하게 처리합니다. ARC 지역 전환
+
+(Note: The translation may not be perfect as it is a machine translation, but it conveys the meaning of the original sentence.)
+주소: https://www.infoq.com/news/2025/08/aws-arc-region-switch-failover/
+설명: AWS's Amazon Application Recovery Controller Region Switch는 다양한 AWS 서비스를 자동화하고 조정하여 다중 지역 장애 조치에 혁신적인 완전히 관리형, 중앙 집중식 솔루션입니다. 재난 복구를 간소화합니다. 기본 작업을 자동화하고 조정하며 AWS 서비스에서 필수적인 작업을 자동화하고 조정합니다. 프로액티브 유효성 검사와 전역 대시보드를 통해 복잡한 과정을 신뢰도와 비용 효율성을 향상시키는 확인 버튼 단추로 변환합니다.
+#AWS #재난 복구 #장애 조치 #신뢰도
+
+#hashtags: #AWS, #재난복구, #장애조치, #신뢰도
+
+10 번째 검색 내용
+제목: 개발 프록시가 v1.0에 도달하며 AI 실패 시뮬레이션, 토큰 속도 제한, 통합 향상 기능을 포함합니다.
+주소: https://www.infoq.com/news/2025/08/microsoft-dev-proxy-1-0/
+설명: Dev Proxy는 1.0 버전 발표로 의미있는 기점을 달성하였습니다. 이 업데이트는 개발자들이 AI 기반 응용 프로그램을 더욱 신뢰할 수 있도록 실제적인 언어 모델 행동 시뮬레이션, 고급 리소스 추적, 통합 도구의 개선에 집중하고 있습니다.
+#DevProxy #AI #응용프로그램 #통합도구
+
+Translated sentence: Dev Proxy has reached a significant milestone with the release of version 1.0, introducing a range of new features aimed at helping developers build more reliable AI-powered applications. As reported in the announcement, the update focuses on realistic simulation of language model behavior, advanced resource tracking, and improvements to integration tools
+                     and Provide - #hashtags. Add 3 hashtags related to the translated content.
+
+#DevProxy #AI #응용프로그램 #통합도구
+
+11 번째 검색 내용
+제목: LangChain이 비공개 코드 에이전트인 Open SWE를 오픈소스로 출시합니다.
+주소: https://www.infoq.com/news/2025/08/langchain-open-swe/
+설명: LangChain은 Open SWE를 개발자의 기존 워크플로우에 직접 통합되어 클라우드에서 실행되는 완전히 열린 소스 비동기 코딩 에이전트를 출시했습니다. 회사는 Open SWE가 실시간 “코퓨퍼” 도움자로부터 독립적이고 장기간 실행되는 에이전트로의 변화를 나타냅니다.
+#OpenSWE #클라우드 #소프트웨어_개발 #비동기
+
+#hashtags: #OpenSWE, #클라우드, #소프트웨어_개발, #비동기
+
+12 번째 검색 내용
+제목: Agoda는 데이터센터 간 Kafka 소비자 실패 오버를 사용자 정의 두 방향 동기화로 처리합니다.
+주소: https://www.infoq.com/news/2025/08/agoda-kafka-failover/
+설명: Agoda의 엔지니어링 팀은 최근에 Kafka 소비자 작업을 여러 온프레미스 데이터센터에서 유지하기 위해 사용자 정의 솔루션을 공유했습니다. 이는 중단 시간에도 비즈니스 연속성을 보장합니다.
+#Agoda #Kafka #데이터센터 #비즈니스_연속성
+
+Translated sentence: Agoda's engineering team recently shared their custom solution designed to maintain critical Kafka consumer operations across multiple on-premise data centers, ensuring business continuity even during outages.
+#Agoda #Kafka #데이터센터 #비즈니스_연속성
+
+Translated sentence: Agoda의 엔지니어링 팀은 최근에 Kafka 소비자 작업을 여러 온프레미스 데이터센터에서 유지하기 위해 사용자 정의 솔루션을 공유했습니다. 이는 중단 시간에도 비즈니스 연속성을 보장합니다.
+#Agoda #Kafka #데이터센터 #비즈니스_연속성
+
+13 번째 검색 내용
+제목: 마이크로소프트 앤저 스토리지 디스커버리가 향상된 블랩 스토리지 분석과 함께 미리 보기에 입력되었습니다.
+주소: https://www.infoq.com/news/2025/08/azure-storage-discovery-preview/
+설명: Azure Storage Discovery는 블랏 스토리지 에코시스템의 전체적인 개요를 제공하는 서비스입니다. Azure Copilot을 사용하여 자연어로 진행하면, 실시간으로 비용 최적화와 보안에 대한 고급 洞察를 얻을 수 있습니다. 데이터 트렌드를 빠르게 분석하여 이상을 탐지하고 18개월의 역사 데이터에 접근할 수 있는 간단한 인풋티브 대시보드에서 비교적 빠르게 분석할 수 있습니다. 무겁지 않고 효율적인 시각성을 경험하십시오.
+#AzureStorageDiscovery #블랏스토리지 #데이터분석 #보안 #비용최적화
+#인공지능 #데이터분석 #데이터트렌드 #데이터보안 #데이터비용
+
+14 번째 검색 내용
+제목: 크롬이 CSS If 함수를 소개하며, CSS에서 조건부 스타일링을 네이티브로 지원합니다.
+주소: https://www.infoq.com/news/2025/08/chrome-css-if-function/
+설명: Chrome 137은 CSS `if()` 함수를 소개합니다, 즉 스타일시트에서 직접적인 조건부 스타일링을 가능하게 합니다. 이 기능은 개발자들의 스타일 관리를 간소화하며, 프리 프로세서 논리를 사용하지 않고도 추가적인 도구 없이 사용할 수 있습니다. 그러나 문법에 대한 의견은 다양합니다. 동적, 실시간 스타일링의 잠재적인 기능은 CSS 진화의 중요한 발전으로 표시됩니다.
+#Chrome137 #조건부스타일링 #CSS진화
+
+Translated content hashtags: #Chrome137, #조건부스타일링, #CSS진화
+
+15 번째 검색 내용
+제목: 구글은 제네시스(Jules)를 출시합니다. 이는 제네시스가 제네시스 2.5에 의해 동기화되지 않은 코딩 에이전트입니다.
+주소: https://www.infoq.com/news/2025/08/google-jules/
+설명: Google은 Jules, 비동기적인 에이전트 기반의 코딩 도움자를 베타 버전에서 일반 사용 가능으로 이동하여, 개발자들이 일반적인 프로그래밍 작업을 흐리게 할 때 도움이 되는 도구로 위치시키고 있습니다. Gemini 2.5 Pro 모델에 의해 주력되어, Jules는 코딩 활동의 광범위한 범위를 다루는데 설계되었으며, 테스트 작성, 새로운 기능 구축, 버그 수정 또는 오디오 변경 로그 생성과 같은 일을 처리할 수 있습니다.
+#코딩도움자 #GoogleJules #개발자용도구
+
