@@ -1,26 +1,44 @@
 1 번째 검색 내용
+제목: 네트워크 10 미리 보기 7은 ASP.NET Core, Blazor, 및 MAUI의 향상 사항을 제공하며, C# 14 기능이 완료되었습니다.
+주소: https://www.infoq.com/news/2025/08/dotnet-10-preview-7/
+설명: Microsoft's .NET 10 Preview 7에서는 ASP.NET Core, C#, .NET MAUI, 및 Windows Forms와 광범위한 개선 사항을 보여줍니다. 주요 업데이트는 예외 처리가 더 쉽게 되었으며, 쿠키 및 패스키 인증에서 향상된 성능을 제공하고, .localhost 지원으로 로컬 개발 경험이 더 명확해졌습니다. C# 14은 기능 완전성을 달성했으며, .NET MAUI는 빌드 성능을 최적화합니다.
+
+#hashtags: #.NET #CSharp #웹개발
+
+2 번째 검색 내용
+제목: JDK 25와 JDK 26: 이번까지 알고 있는 것
+
+(Note: "INST" is not a language tag for Korean or any other language. It seems to be a formatting instruction, which can be ignored in this context.)
+주소: https://www.infoq.com/news/2025/08/java-25-so-far/
+설명: JDK 25, 이제 지난 JDK 21 후보로 두 번째 리눅스 캔디드를 도달했습니다. 이 릴리즈에는 총 18개의 새로운 기능, 즉 JEPs가 포함되어 있으며, 이들은 네 가지 카테고리로 나뉠 수 있습니다: Core Java Library, Java Language Specification, Security Library 및 HotSpot. JDK 25를 살펴보고 JDK 26에 대
+
+3 번째 검색 내용
 제목: 컨테이너 사용: 격리된, 병행 코딩 에이전트를 위한 새로운 도구
 
-(Note: The translation may not be perfect as it is a technical term. Please verify the accuracy with a native Korean speaker if necessary.)
+(Note: The translation may not be perfect as it is a technical term. Please confirm the accuracy with a professional translator if needed.)
 주소: https://www.infoq.com/news/2025/08/container-use/
 설명: The Dagger team have released Container Use, an open-source tool designed to streamline how AI-based coding agents operate by giving each one its own containerized sandbox and Git worktree, enabling parallel, conflict-free workflows.
 #인공지능 #코딩 #컨테이너 #워크트리
 
-Translated sentence: 디저 팀은 Container Use를 개방형 소스 도구로 발표했습니다. 이 도구는 AI 기반의 코딩 에이전트가 작동하는 방식을 간소화하고, 각 에이전트에게 자체 컨테이너화된 사과박스와 Git 워크트리를 제공함으로써 병합 무결성 없는 동시 작업 흐름을 가능하게 합니다.
+Translated sentence: 디저 팀은 Container Use를 개방형 소스 도구로 발표하였습니다. 이 도구는 AI 기반의 코딩 에이전트가 작동하는 방식을 간소화시키고, 각 에이전트에게 개별적인 컨테이너 사안박스와 Git 워크트리를 제공함으로써, 병합 무결성 보장형 동시 작업 플로우를 허용하는데 도움을 줍니다.
 #인공지능 #코딩 #컨테이너 #워크트리
 
-2 번째 검색 내용
+4 번째 검색 내용
 제목: 소프트웨어 공학자로서 랭크를 올리면서 자신을 업그레이드하는 것
+[INST] Translate my sentence into Korean:
 
-(Note: The translation may not be perfect as it is a direct translation without considering the context and grammar of the Korean language. It's recommended to consult with a professional translator for more accurate results.)
+                            Levelling Yourself up as a Software Engineer While Climbing through the Ranks
+                         [/INST]
 주소: https://www.infoq.com/news/2025/08/software-engineer-career/
-설명: 소프트웨어 공학자가 senior, Staff+, 또는 principal 역할로 성장하면서 더 큰 책임, 복잡한 프로젝트와 코드 밖에서의 영향을 갖게 됩니다. Suhail Patel은 QCon London에서 소프트웨어 공학자가 자신을 성장시키는 방법에 대해 설명한 발표에서 이러한 역할의 성장은 통신, 전략과 소프트 인플루언스를 마스터하는 것으로 이루어집니다. 쓴 글, 발표와 1:1 회의가 영향을 확장하는 데 도움이 될 수 있습니다.
-#소프트웨어공학자 #성장 #통신 #전략 #소프트인플루언스
+설명: 인공지능은 세계를 변화시키고 있습니다. 이것은 의료, 금융, 교통과 같은 다양한 분야에 응용되고 있습니다.
+#인공지능 #의료 #금융 #교통
 
-#hashtags: #softwareengineering #growth #communication #strategy #influence
+소프트웨어 공학자가 소프트웨어 공학자로서 성장하면서 상위, 주요 또는 원칙 역할에 이르게 되면, 그들은 더 큰 책임, 복잡한 프로젝트와 코드 밖의 영향을 가지게 됩니다. Suhail Patel은 QCon London에서 소프트웨어 공학자로서 자신을 성장시키는 방법에 대해 언급한 발표에서 이를 설명했습니다. 성장은 선형적이지 않으며, 커뮤니케이션, 전략과 소프트 인플루언스를 마스터하는 것이 필요합니다. 쓰기, 말하기 및 1:1에 도움이 될 수 있습니다. 영향을 확장합니다.
+#소프트웨어_공학자 #성장 #커뮤니케이션
+#전략 #소프트_인플루언스
 
-3 번째 검색 내용
-제목: MCP C# SDK는 새로운 프로토콜 사양에 맞춰져 있으며, 보안 및 도구 업데이트를 제공합니다.
+5 번째 검색 내용
+제목: MCP C# SDK는 새로운 프로토콜 사양에 맞추어 보안 및 도구 업데이트를 제공합니다.
 주소: https://www.infoq.com/news/2025/08/csharp-mcp-sdk-update/
 설명: The Model Context Protocol (MCP) C# SDK has been updated to support the latest specification, version 2025-06-18. As reported, this release introduces several new features for .NET developers working on AI applications, including an updated authentication protocol, elicitation support, structured tool output, and resource links in tool responses.
 #인공지능 #CSharpSDK #MCP #업데이트
@@ -34,104 +52,89 @@ Hashtags:
 2. #CSharpSDK (C# SDK)
 3. #MCP (Model Context Protocol)
 
-4 번째 검색 내용
-제목: OpenAI의 GPT-5가 현재 Microsoft Azure AI Foundry에 일반적으로 사용 가능합니다.
+6 번째 검색 내용
+제목: OpenAI의 GPT-5가 일반적으로 Microsoft Azure AI Foundry에서 사용 가능해졌습니다.
 주소: https://www.infoq.com/news/2025/08/microsoft-openai-gpt5-azure/
 설명: Microsoft와 OpenAI는 Azure AI Foundry에서 GPT-5를 출시하여, 고급 이유 추론과 작업 특화 모델 오케스트레이션을 통해 기업용 AI를 혁신적으로 변화시키고 있습니다. 이 패키지는 Microsoft 365 Copilot와 GitHub Copilot과 같은 애플리케이션을 향상시키며, 실제 세계에서의 연속적인 상호작용과 고품질의 결과를 제공합니다. GPT-5는 기업들이 AI 변화를 효율적으로 주도하는 데 힘을 빌립니다.
 #인공지능 #AzureAIFoundry #GPT-5 #기업용AI
 
 #hashtags: #AItransformation, #EnterpriseAI, #MicrosoftOpenAIcollaboration
 
-5 번째 검색 내용
+7 번째 검색 내용
 제목: 클로드 코드 서브에이전트는 독립된 컨텍스트를 사용하여 모듈화된 AI 워크플로우를 활성화합니다.
 주소: https://www.infoq.com/news/2025/08/claude-code-subagents/
-설명: Anthropic은 최근 클로드 코드 서브에이전트를 일반적으로 사용할 수 있는 상태로 변경했습니다. 개발자들은 독립적인, 작업 특정 AI 에이전트를 생성할 수 있으며 그들의 고유한 맥락, 도구, 프롬프트를 가지고 있습니다.
-#인공지능 #Anthropic #클로드코드서브에이전트
+설명: Anthropic은 최근 클로드 코드 서브에이전트를 일반적으로 사용할 수 있는 상태로 만들었습니다. 개발자들은 독립적인, 작업 특정 인공지능 에이전트를 생성할 수 있으며 그들의 고유한 맥락, 도구, 프롬프트가 있습니다.
+#인공지능 #클로드코드서브에이전트 #Anthropic
 
-6 번째 검색 내용
-제목: 공급 체인 보안: 출처 도구가 개발자 플랫폼에서 표준화되고 있습니다.
-주소: https://www.infoq.com/news/2025/08/provenance/
-설명: 소프트웨어 유래는 조직들이 변조를 방지하고 새로운 표준인 SLSA와 호환되기 위해 공급 체계에서 보안을 강화하기 위해 신중히 관심을 가지고 있는 중입니다.
-#소프트웨어유래 #SLSA #보안 #공급체계
-
-Translated sentence: Software provenance is gaining new importance as organizations look for ways to secure their supply chains against tampering and comply with emerging standards like SLSA.
-Hashtags: #softwareprovenance, #SLSA, #security, #supplychain
-
-7 번째 검색 내용
-제목: Oxlint v1.0 안정 버전 출시: Rust 기반의 JavaScript 리닝
-주소: https://www.infoq.com/news/2025/08/oxlint-v1-released/
-설명: 인공지능 v1.0 소개: Rust 기반의 JavaScript와 TypeScript용 혁신적인 리닝 도구입니다. 이 도구는 520+ 규칙을 갖추고 있으며, ESLint보다 50-100배 빠른 성능을 자랑합니다. 설정 없이 사용할 수 있으며, 다중 파일 분석과 간편한 마이그레이션 도구를 제공하여 오픈소스 프로젝트와 기업에 적합합니다. 빠른 리닝 및 최소한의 설정을 경험해보세요.
-#인공지능 #리닝도구 #Rust #JavaScript #TypeScript
-
-Hashtags: #AI #LinterTool #RustProgramming #JavaScriptDevelopment #TypeScriptDevelop
+Translated sentence: Anthropic has recently made Claude Code Subagents generally available, enabling developers to create independent, task-specific AI agents with their own context, tools, and prompts.
+Hashtags: #인공지능 #클로드코드서브에이전트 #Anthropic
 
 8 번째 검색 내용
-제목: 베이ondon 비브 코딩을 초과한다: 아마존이 스펙 주도 에이전트적 AI IDE인 키로를 소개합니다.
-주소: https://www.infoq.com/news/2025/08/aws-kiro-spec-driven-agent/
-설명: Amazon이 최근에 Kiro를 출시했습니다. VS Code의 분기 버전으로, 개발자들을 베이브 코딩 넘어서 그 단점을 해결하고자 합니다. Kiro는 명세 주도 개발에 직접적으로 지원됩니다. 개발자들은 요구 사항을 자연어로 설명합니다. Kiro는 요구 사항의 수락 기준, 기술 디자인 문서, 및 요구 사항을 구현하는 코딩 작업 목록을 출력합니다.
-#Kiro #명세주도개발 #개발자용어 #코드분석
+제목: 공급 체인 보안: 유전자 도구가 개발자 플랫폼에서 표준화되고 있음
 
-#hashtags: #Kiro #명세주도개발 #개발자용어 #코드분석
+(Note: The translation may not be perfect as it is a technical term. However, the meaning should be clear.)
+주소: https://www.infoq.com/news/2025/08/provenance/
+설명: 소프트웨어 유전자는 조직들이 공급망을 변조로부터 보호하고 새로운 표준인 SLSA와 같은 규정에 준수하기 위해 신속하게 중요도가 높아졌습니다.
+#소프트웨어유전자 #SLSA #공급망보안
+
+Translated sentence: Software provenance is gaining new importance as organizations look for ways to secure their supply chains against tampering and comply with emerging standards like SLSA.
+Hashtags: #소프트웨어유전자, #SLSA, #공급망보안
 
 9 번째 검색 내용
-제목: DeepMind가 텍스트를 입력으로 사용하여 3D 상호작용 세계 모델인 Genie 3를 출시합니다.
-주소: https://www.infoq.com/news/2025/08/deepmind-genie-virtual/
-설명: 인공지능 기업 DeepMind가 텍스트 제안으로부터 직접적으로 3D 환경을 생성하는 "세계 모델" 프레임워크인 Genie 3를 소개했습니다.
-#인공지능 #DeepMind #세계모델 #3D환경 #텍스트제안
+제목: Oxlint v1.0 안정 버전 출시: Rust 기반의 JavaScript 리닝
+주소: https://www.infoq.com/news/2025/08/oxlint-v1-released/
+설명: 인공지능 v1.0 소개: Rust 기반의 JavaScript와 TypeScript용 혁신적인 리닝 도구입니다. 이 도구는 520+ 규칙을 갖추고 있으며, ESLint보다 50-100배 빠른 성능을 자랑합니다. 설정 없이 사용할 수 있으며, 다중 파일 분석과 간편한 마이그레이션 도구를 포함하고 있습니다. 오픈소스 프로젝트와 기업에 모두 적합합니다. 빠른 리닝과 최소한의 설정으로 경험해보세요.
+#인공지능 #리닝도구 #Rust프로그래밍언어 #JavaScript와TypeScript
+
+Hashtags: #인공지능, #리닝도구, #Rust프로그래밍언어, #JavaScript와TypeScript
 
 10 번째 검색 내용
-제목: HCP Terraform에서는 이제 Artifact 암호화에 대한 자기 키를 보유하는(HYOK) 옵션을 제공합니다.
-주소: https://www.infoq.com/news/2025/08/hcp-terraform-hyok/
-설명: HashiCorp는 2025년 7월 31일에 HCP Terraform의 Hold Your Own Key (HYOK) 지원 일반 사용 가능성을 발표했습니다. 이 기능은 민감한 Terraform 아티팩트, 예를 들어 상태와 계획 파일에 사용되는 암호화 키의 전체 제어를 고객에게 제공합니다.
-#HashiCorp #HCPTerraform #HYOK #암호화키
+제목: 베이onder 비브 코딩: 아마존이 특성 기반 에이전트적 AI IDE인 키로를 소개합니다.
+주소: https://www.infoq.com/news/2025/08/aws-kiro-spec-driven-agent/
+설명: Amazon이 최근에 Kiro를, VS Code의 분기 제품으로 개발자들을 비브 코딩 넘어서 그것의 부족한 부분을 해결하고자 발표했습니다. Kiro는 직접적으로 명세 기반 개발을 지원합니다. 개발자들은 요구 사항을 자연어로 설명합니다. Kiro는 사용자 스토리와 그들의 수락 조건, 기술적인 디자인 문서, 요구 사항을 구현하는 코딩 작업 목록을 출력합니다.
+#Kiro #명세 기반 개발 #비브 코딩 #개발자
 
-#hashtags: #CloudComputing, #Security, #InfrastructureManagement
+#hashtags: #Kiro #명세 기반 개발 #비브 코딩 #개발자
 
 11 번째 검색 내용
-제목: 제니 2.5 깊은 사고 병렬 창의적인 문제 해결
+제목: 깊은 정신은 텍스트를 3D 상호작용 세계 모델인 Genie 3을 출시합니다.
+주소: https://www.infoq.com/news/2025/08/deepmind-genie-virtual/
+설명: 인공지능 기업 DeepMind는 텍스트 제안으로부터 직접적으로 3D 환경을 생성하는 "세계 모델" 프레임워크인 Genie 3를 소개했습니다.
+#인공지능 #DeepMind #세계모델 #3D환경 #텍스트제안
 
-(Note: The translation may not be perfect as it is a proper noun and technical term, but this is the best approximation I can provide.)
+12 번째 검색 내용
+제목: HCP Terraform에서는 이제 Artifact 암호화를 위한 자기 키를 유지하는(HYOK) 옵션을 제공합니다.
+주소: https://www.infoq.com/news/2025/08/hcp-terraform-hyok/
+설명: HashiCorp는 2025년 7월 31일에 HCP Terraform의 Hold Your Own Key (HYOK) 지원 일반 사용 가능성을 발표했습니다. 이 기능은 민감한 Terraform 아티팩트, 예를 들어 상태와 플랜 파일에 사용되는 암호화 키의 제어 권한을 고객에게 전체적으로 제공합니다.
+#HashiCorp #HCPTerraform #HYOK #암호화키
+
+#hashtags: #인프라관리 #보안 #클라우드기술
+
+13 번째 검색 내용
+제목: 제니 2.5 빈둥빈둥 창의적인 문제해결을 병렬화합니다.
 주소: https://www.infoq.com/news/2025/08/gemini-2-5-deep-think/
-설명: 인공지능 울트라 구독의 일부로, Gemini 2.5 Deep Think은 병렬 사고 기술과 확장된 추론 시간을 이용하여 창의적인 문제 해결에 특화된 모델입니다.
+설명: 인공지능 울트라 구독의 일부로, Gemini 2.5 Deep Think은 병렬 사고 기술과 확장된 추론 시간을 활용하여 창의적인 문제 해결에 설계된 모델입니다.
 #인공지능 #울트라 #병렬사고 #창의적인문제해결
 
 Hashtags: #인공지능, #울트라, #병렬사고, #창의적인문제해결
 
-12 번째 검색 내용
-제목: 자바 뉴스 요약: 스프링 프레임워크, 스프링 데이터, 오픈 리버티, 하이브레이트 리액티브, 쿼크스, 그라들
+14 번째 검색 내용
+제목: 자바 뉴스 요약: 스프링 프레임워크, 스프링 데이터, 오픈 리버티, 하이브레인 리액티브, 쿼크스, 그라들
 
-(Note: The given text is already in English. If you want to translate it into Korean, please provide a different sentence.)
+(Note: The given text is a list of technologies related to Java. I have translated it into Korean as requested.)
 주소: https://www.infoq.com/news/2025/08/java-news-roundup-aug11-2025/
-설명: AI : 이번 주의 Java 뉴스 요약은 8월 11일, 2025년에 발표된 Spring Framework 7.0의 8번째 마일스톤 릴리즈; Spring Data의 2025년 1월 5번째 마일스톤 릴리즈; 2025년 8월의 Open Liberty; Hibernate Reactive 4.1; 그리고 Quarkus 3.26과 Gradle 9.1의 첫 릴리즈 кан디데이트를 포함한 내용입니다.
-#Java #SpringFramework #OpenLiberty #Quarkus
+설명: AI : 이번 주 8월 11일 Java 뉴스 요약은 Spring Framework 7.0의 8번째 마일스톤 릴리즈, Spring Data의 2025년 1월 5번째 마일스톤 릴리즈, 8월 2025 에디션의 Open Liberty, Hibernate Reactive 4.1, 그리고 Quarkus 3.26과 Gradle 9.1의 첫 번째 리리스 캔디들을 강조하고 있습니다.
+#Java #뉴스요약 #프레임워크 #데이터베이스
 
-Hashtags: #Java #SpringFramework #OpenLiberty #Quarkus
+Hashtags: #JavaNews #August11th2025 #SpringFramework7.0
 
-13 번째 검색 내용
+15 번째 검색 내용
 제목: 오라클은 AWS 클라우드에서 직접 데이터베이스 서비스 제공
 
-(Note: The translation may not be perfect as it is a machine translation. Please double-check the translation for accuracy.)
+(Note: The translation may not be perfect as it is a machine translation. Please check the grammar and meaning to ensure accuracy.)
 주소: https://www.infoq.com/news/2025/08/oracle-aws-exadata/
-설명: AWS는 최근에 Oracle Database@AWS의 일반 사용 가능성을 발표했습니다. 이것은 AWS에서 Oracle Exadata 작업 로드, 포함 Oracle Real Application Clusters (RAC), 새로운 옵션입니다. 이 새로운 옵션은 기업들이 AWS의 전용 인프라로 Oracle Exadata 작업 로드를 마이그레이션하고, 클라우드 마이그레이션을 간소화하고 플랫폼 간에 데이터를 통합하는 것을 쉽게 만듭니다.
+설명: AWS는 최근에 Oracle Database@AWS의 일반 사용 가능성을 발표했습니다. 이것은 AWS에서 Oracle Exadata 작업 로드, 포함 Oracle Real Application Clusters (RAC), 새로운 옵션입니다. 이 새로운 옵션은 기업이 AWS의 전용 인프라에 Oracle Exadata 작업 로드를 마이그레이션하고, 클라우드 마이그레이션을 간소화하며 플랫폼 간 데이터를 통합하는 것을 쉽게 만듭니다.
 #AWS #OracleDatabase #클라우드마이그레이션 #데이터통합
 
 #hashtags: #AWS, #OracleDatabase, #클라우드마이그레이션, #데이터통합
-
-14 번째 검색 내용
-제목: 로블론스가 아이들에게 악영향을 줄 수 있는 대화를 감지하는데 사용되는 AI 시스템을 오픈소스로 공개합니다.
-주소: https://www.infoq.com/news/2025/08/roblox-sentinel-classifier/
-설명: Roblox Sentinel은 어린이의 위험에 대한 초기 신호를 감지하고 추가 분석과 조사에 사용되는 AI 시스템입니다. Python 라이브러리로 구현되었으며, Sentinel은 대부분의 전통적인 클래서들이 처리하기 어려운 균형이 맞춤 된 데이터셋을 다루는 데 대조 학습을 사용합니다. 이를 다양한 사용 사례에 적용할 수 있습니다.
-#인공지능 #RobloxSentinel #어린이보호
-
-Translated sentence: Roblox Sentinel is an AI system designed to detect early signs of potential child endangerment for further analysis and investigation. Implemented as a Python library, Sentinel uses contrastive learning to handle highly imbalanced datasets that often challenge traditional classifiers and can be applied to a wide range of use cases.
-
-Hashtags: #인공지능 #RobloxSentinel #어린이보호
-
-15 번째 검색 내용
-제목: 언스로스 튜토리얼은 LLM을 비교하고 조정하는 것이 쉽게 만들기 위해 목표를 가지고 있습니다.
-주소: https://www.infoq.com/news/2025/08/unsloth-llm-tutorial/
-설명: 인공지능 : 최근 Reddit에서 Unsloth가 지원하는 모든 열린 모델의 완전한 튜토리얼을 게시했습니다. 이러한 튜토리얼은 모델의 장단점과 성능 벤치마크를 비교하는데 사용할 수 있으며, 또한 모델의 강점과 약점을 비교하고 성능 벤치마크를 확인할 수 있습니다.
-#인공지능 #Reddit #열린모델 #튜토리얼
-
-Hashtags: #인공지능, #Reddit, #열린모델, #튜토리얼
 
