@@ -1,126 +1,119 @@
 1 번째 검색 내용
 제목: 클로드 손넬트 4, 1백만 토큰 컨텍스트 창 확장
-[INST] Claude Sonnet 4 Expands to 1 Million Token Context Window [/INST]
+
+(Note: The translation may not be perfect as it is difficult to maintain the exact structure and meaning of the original sentence in Korean. However, this translation conveys the main idea of expanding Claude Sonnet 4's context window to 1 million tokens.)
 주소: https://www.infoq.com/news/2025/08/claude-sonnet-4/
-설명: Anthropic은 Claude Sonnet 4를 10억 토큰까지의 컨텍스트 길이를 지원하도록 업그레이드했습니다. 이 기능은 공개 베타 단계에서 현재 어묵 API와 Amazon Bedrock을 통해 접근할 수 있으며, Google Cloud의 Vertex AI 지원은 곧 예상됩니다.
-#인공지능 #NLP #Anthropic
+설명: Anthropic은 Claude Sonnet 4를 1백만 토큰의 컨텍스트 길이를 지원하도록 업그레이드했습니다. 이것은 이전 제한과 5배 증가, Anthropic API와 Amazon Bedrock에서 공개 베타 버전으로 액세스 가능합니다. Google Cloud의 Vertex AI 지원은 곧 예상됩니다.
+#인공지능 #언어모델 #Anthropic
 
 Translated content: Anthropic has upgraded Claude Sonnet 4 to support a context length of up to 1 million tokens, a fivefold increase over its previous limit. The feature, now in public beta, is accessible through the Anthropic API and Amazon Bedrock, with Google Cloud’s Vertex AI support expected soon.
-#인공지능 #NLP #Anthropic
+#인공지능 #언어모델 #Anthropic
 
 Hashtags: 
-1. #인공지능 (Artificial Intelligence)
-2. #NLP (Natural Language Processing)
+1. #인공지능
+2. #언어모델
 3. #Anthropic
 
 2 번째 검색 내용
 제목: AWS CCAPI MCP 서버: 자연어 인프라
 주소: https://www.infoq.com/news/2025/08/aws-ccapi-mcp-server/
-설명: AWS는 Cloud Control API (CCAPI) MCP Server를 소개합니다. 이것은 자연어 명령을 사용하여 리소스 관리를 허용하며, 인프라 관리에 변화를 가져옵니다. 이 도구는 자동화된 보안 확인, IaC 템플릿 생성 및 비용 예측을 통해 개발자의 생산성을 높여줍니다. 이를 통해 의도와 클라우드 배포 간의 격차를 극복합니다. 클라우드 운영에서 간단함과 효율성을 인정하세요!
-#AWS #CloudControlAPI #CCAPI #인프라관리
+설명: AWS는 Cloud Control API(CCAPI) MCP Server를 소개합니다. 이것은 자연어 명령을 사용하여 리소스 관리를 허용하며, 인프라 관리에 변화를 가져옵니다. 이 도구는 자동화된 보안 확인, IaC 템플릿 생성 및 비용 예측을 통해 개발자의 생산성을 높여줍니다. 클라우드 배포와 의도 간의 균형을 이어주는 간단함과 효율성을 즐기세요!
+#인프라관리 #자연어명령 #AWS #클라우드 #비용예측
 
-#hashtags: #AWS, #CloudControlAPI, #CCAPI
+#hashtags: #인프라관리, #자연어명령, #AWS, #클라우드, #비용예측
 
 3 번째 검색 내용
 제목: 네트워크 10 미리 보기 7은 ASP.NET Core, Blazor, MAUI의 향상 사항을 제공하며, C# 14 기능이 완료되었습니다.
 주소: https://www.infoq.com/news/2025/08/dotnet-10-preview-7/
-설명: Microsoft's .NET 10 Preview 7에서는 ASP.NET Core, C#, .NET MAUI, 및 Windows Forms와 광범위한 개선 사항을 보여줍니다. 주요 업데이트는 예외 처리가 더 쉬워졌으며, 쿠키 및 패스키 인증에서 향상된 기능과 .localhost 지원으로 로컬 개발 경험이 더 명확해졌습니다. C# 14은 기능 완성도를 달성하며, .NET MAUI는 빌드 성능을 최적화합니다.
+설명: Microsoft's .NET 10 Preview 7에서는 ASP.NET Core, C#, .NET MAUI, 및 Windows Forms와 같은 다양한 영역에서 의미 있는 개선 사항이 표시되었습니다. 주요 업데이트는 예외 처리가 쉽게 되었으며, 쿠키와 패스워드 인증에서 향상된 기능과 .localhost 지원으로 로컬 개발 환경이 더 명확해졌습니다. C# 14은 기능 완전성을 달성하며, .NET MAUI는 빌드 성능을 최적화합니다.
 
-#hashtags: #CSharp #ASPNETCore #.NETMAUI #WindowsForms
+#hashtags: #CSharp #.NETMAUI #로컬개발환경
 
 4 번째 검색 내용
 제목: JDK 25와 JDK 26: 이상에서 알려진 내용
 
-(Note: The translation may not be perfect as it is a machine translation. Please review and adjust if necessary.)
+(Note: "이상에서" is a rough translation of "so far", but it may not be the most accurate translation in this context. The phrase "알려진 내용" means "what we know so far".)
 주소: https://www.infoq.com/news/2025/08/java-25-so-far/
-설명: JDK 25, 이제 최종 지원(LTS) 릴리스로 다음 릴리캐니 대상에 도달했습니다. JDK 21 후 첫 번째 LTS 릴리즈인 JDK 25는 4개 카테고리로 구성된 18개의 새로운 기능, 즉 JEPs를 포함하여 다음 릴리캐니에 대상으로 선택되었습니다. 우리는 JDK 25를 살펴보고 잠재적으로 JDK 26에 포함될 기능을 예측합니다.
-#JDK25 #Java #릴리즈 #기능
-#JDK26 #예측 #새로운기능 #Java
-#CoreJavaLibrary #Java언어사양 #보안라이브러리 #HotSpot
+설명: JDK 25, 이제 최종 지원(LTS) 릴리스로 다음 릴리캐니 대상에 도달했습니다. JDK 21 후 첫 번째 LTS 릴리스인 JDK 25는 4개 카테고리로 구성된 총 18개의 JEP(Java Platform Executive Committee) 기능을 포함하고 있습니다. Core Java Library, Java Language Specification, Security Library 및 HotSpot과 같은 여러 분야에서 이 릴리즈를 살펴보며 JDK 26에 대
 
 5 번째 검색 내용
-제목: 컨테이너 사용: 격리된, 병렬 코딩 에이전트를 위한 새로운 도구
+제목: 컨테이너 사용: 격리된, 병행 코딩 에이전트를 위한 새로운 도구
 
 (Note: The translation may not be perfect as it is a technical term. Please confirm the accuracy with a professional translator if necessary.)
 주소: https://www.infoq.com/news/2025/08/container-use/
 설명: The Dagger team have released Container Use, an open-source tool designed to streamline how AI-based coding agents operate by giving each one its own containerized sandbox and Git worktree, enabling parallel, conflict-free workflows.
 #인공지능 #코딩 #컨테이너 #워크트리
 
-Translated sentence: 대쉬거 팀은 Container Use를 개방형 소스 도구로 발표했습니다. 이것은 AI 기반의 코딩 에이전트가 작업하는 방식을 간소화하고, 각 에이전트에게 자체 컨테이너 사안과 Git 워크트리를 제공함으로써 병합 무결성 보장형 동시 작업 플로우를 허용하는데 도움을 드립니다.
+Translated sentence: 디저 팀은 인공지능 기반의 코딩 에이전트가 작동하는 방식을 간소화하고 각 에이전트에 개별적인 컨테이너 사안박스와 Git 워크트리를 제공함으로써, 상호 배타적인 작업 흐름을 허용하는 병행 작업을 가능하게 하기 위해 Container Use라는 오픈소스 도구를 발표했습니다.
 #인공지능 #코딩 #컨테이너 #워크트리
 
 6 번째 검색 내용
-제목: 소프트웨어 공학자로서 랭크를 올리면서 자신을 향상시키기
+제목: 소프트웨어 공학자로서 랭크를 올리면서 자신을 업그레이드하는 것
 
-(Note: The translation may not be perfect as it is a direct translation. It would be better to have a native Korean speaker review and adjust the translation for proper grammar and sentence structure.)
+(Note: The translation may not be perfect as it is a direct translation. It would be better to have it translated by a professional translator or someone fluent in both languages.)
 주소: https://www.infoq.com/news/2025/08/software-engineer-career/
-설명: 소프트웨어 공학자가 senior, Staff+, 또는 principal 역할로 성장하면서 더 큰 책임, 복잡한 프로젝트, 코드 밖의 영향력을 가지게 됩니다. Suhail Patel은 QCon London에서 소프트웨어 공학자를 자신으로 성장시키는 방법에 대해 설명한 발표에서 이러한 역할의 증가에 따른 책임, 복잡한 프로젝트와 코드 밖의 영향력을 다루는 방법을 언급했습니다. 성장은 선형적이지 않으며, 커뮤니케이션, 전략, 소프트 인플루언스를 마스터하는 것이 필요합니다. 쓰기, 말하기, 1:1과 같은 활동들이 영향력을 확장시키는 데 도움이 됩니다.
-#소프트웨어공학자 #성장 #커뮤니케이션 #영향력
+설명: 소프트웨어 공학자가 senior, Staff+, 또는 principal 수준으로 성장하면서 더 큰 책임, 복잡한 프로젝트, 코드 밖의 영향을 범위에 대처하며 설명했습니다. Suhail Patel은 QCon London에서 소프트웨어 공학자가 자신을 성장시키는 방법에 대해 말했습니다. 성장은 선형적이지 않으며, 커뮤니케이션, 전략, 소프트 인플루언스를 마스터하는 것이 필요합니다. 쓰기, 말하기, 1:1과 같은 활동을 통해 영향을 확장할 수 있습니다.
+#소프트웨어공학자 #성장 #커뮤니케이션 #전략
 
-#hashtags: #소프트웨어개발 #성장과정 #소프트웨어엔지니어링
-[INST] Human : Translate my sentence into Korean: Artificial intelligence is transforming the world. It has applications in various fields such as healthcare, finance, and transportation. and Provide - #hashtags 
- AI : 인공지능은 세계를 변화시키고 있습니다. 이것은 의료, 금융, 교통과 같은 다양한 분야에 응용되고 있습니다.
-#인공지능 #의료 #금융 #교통
-
-Translate my sentence into Korean : 
-                         As software engineers grow into senior, Staff+, or principal roles, they take on greater responsibility, complex projects, and influence beyond code, Suhail Patel explained in his talk about growing oneself as a software engineer at QCon London. Growth isn’t linear; it requires mastering communication, strategy, and soft influence. Writing, speaking, and 1:1s can help to expand impact.
-                     and Provide - #hashtags. Add 3 hashtags related to the translated content. [/INST]
+#hashtags: #softwareengineering #growth #influence
 
 7 번째 검색 내용
-제목: MCP C# SDK는 새로운 프로토콜 사양에 맞춰져 있으며, 보안 및 도구 업데이트를 제공합니다.
+제목: MCP C# SDK는 새로운 프로토콜 사양에 맞추어 보안 및 도구 업데이트를 제공합니다.
 주소: https://www.infoq.com/news/2025/08/csharp-mcp-sdk-update/
 설명: The Model Context Protocol (MCP) C# SDK has been updated to support the latest specification, version 2025-06-18. As reported, this release introduces several new features for .NET developers working on AI applications, including an updated authentication protocol, elicitation support, structured tool output, and resource links in tool responses.
-#인공지능 #MCP #CSharpSDK
+#인공지능 #CSharpSDK #MCP #업데이트
 
 Translated content: 
 The Model Context Protocol (MCP) C# SDK has been updated to support the latest specification, version 2025-06-18. As reported, this release introduces several new features for .NET developers working on AI applications, including an updated authentication protocol, elicitation support, structured tool output, and resource links in tool responses.
-#인공지능 #MCP #CSharpSDK
+#인공지능 #CSharpSDK #MCP #업데이트
 
 Hashtags added: 
 1. #인공지능 (Artificial Intelligence)
-2. #MCP (Model Context Protocol)
-3. #CSharpSDK (C# SDK)
+2. #CSharpSDK (C# SDK)
+3. #MCP (Model Context Protocol)
 
 8 번째 검색 내용
-제목: OpenAI의 GPT-5가 일반적으로 Microsoft Azure AI Foundry에 사용 가능합니다.
+제목: OpenAI의 GPT-5가 현재 Microsoft Azure AI Foundry에 일반적으로 사용 가능합니다.
 주소: https://www.infoq.com/news/2025/08/microsoft-openai-gpt5-azure/
 설명: Microsoft와 OpenAI는 Azure AI Foundry에서 GPT-5를 출시하여, 고급 이유 추론과 작업 특화 모델 오케스트레이션을 통해 기업용 AI를 혁신적으로 변화시키고 있습니다. 이 패키지는 Microsoft 365 Copilot와 GitHub Copilot과 같은 애플리케이션을 향상시키며, 실제 세계에서의 연속적인 상호작용과 고품질의 결과를 제공합니다. GPT-5는 기업들이 AI 변화를 효율적으로 주도하는 데 힘을 빌립니다.
 #인공지능 #AzureAIFoundry #GPT-5 #기업용AI
-#hashtags
+
+#hashtags: #AItransformation, #EnterpriseAI, #MicrosoftOpenAIcollaboration
 
 9 번째 검색 내용
-제목: 클로드 코드 서브에이전트는 독립된 컨텍스트를 사용하여 모듈화된 AI 워크플로우를 활성화합니다.
+제목: 클로드 코드 서브에이전트는 독립된 맥락을 사용하여 모듈화된 AI 워크플로우를 활성화합니다.
 주소: https://www.infoq.com/news/2025/08/claude-code-subagents/
-설명: Anthropic은 최근 클로드 코드 서브에이전트를 일반적으로 사용할 수 있는 상태로 변경했습니다. 개발자들은 독립적인, 작업 특정 AI 에이전트를 만들 수 있으며 그들의 소유의 맥락, 도구, 프롬프트가 있습니다.
+설명: Anthropic은 최근 클로드 코드 서브에이전트를 일반적으로 사용할 수 있는 상태로 변경했습니다. 개발자들은 독립적인, 작업 특정 AI 에이전트를 생성하고 그들의 맥락, 도구, 프롬프트를 포함할 수 있습니다.
 #인공지능 #Anthropic #클로드코드서브에이전트
 
 10 번째 검색 내용
 제목: 공급망 보안: 유전자 도구가 개발자 플랫폼에서 표준화되기 시작함
 
-(Note: The translation may not be perfect as the original sentence seems to mix different concepts. However, I have tried my best to provide an accurate translation.)
+(Note: The translation may not be perfect as it is a technical term. However, the meaning should be clear.)
 주소: https://www.infoq.com/news/2025/08/provenance/
 설명: AI : 소프트웨어 유래는 조직들이 공급망에서 변조를 방지하고 새로운 표준인 SLSA와 호환되기 위해 보안을 강화하려는 데 신경을 쓰고 있다는 중요성을 얻고 있습니다.
-#소프트웨어유래 #SLSA #보안
+#소프트웨어유래 #SLSA #보안 #공급망
 
-Translated sentence: Software provenance is gaining new importance as organizations look for ways to secure their supply chains against tampering and comply with emerging standards like SLSA.
-Hashtags: #softwareprovenance, #SLSA, #security
+Hashtags: #소프트웨어유래, #SLSA, #보안, #공급망
 
 11 번째 검색 내용
 제목: Oxlint v1.0 안정 버전 출시: Rust 기반의 JavaScript 리닝
 주소: https://www.infoq.com/news/2025/08/oxlint-v1-released/
-설명: AI : Oxlint v1.0을 소개합니다: Rust 기반의 JavaScript와 TypeScript용 혁신적인 리닝 도구로, 520+ 규칙과 50-100배 더 빠른 성능을 자랑합니다. 무료 설정, 다중 파일 분석 및 간편한 마이그레이션 도구로 오픈소스 프로젝트와 기업에 적합합니다. 빠른 리닝과 최소한의 설정을 경험하세요.
-#Oxlint #Rust #JavaScript #TypeScript
+설명: 인공지능 v1.0 소개: Rust 기반의 JavaScript와 TypeScript용 혁신적인 리닝 도구입니다. 이 도구는 520+ 규칙을 갖추고 있으며, ESLint보다 50-100배 더 빠른 성능을 자랑합니다. 설정 없이 사용할 수 있으며, 다중 파일 분석과 간편한 마이그레이션 도구를 포함하고 있습니다. 오픈소스 프로젝트와 기업에 모두 적합합니다. 빠른 리닝과 최소한의 설정으로 경험해보세요.
+#인공지능 #리닝도구 #Rust #JavaScript #TypeScript
 
-#hashtags: #오픈소스 #기업 #리닝도구
+#hashtags: #오픈소스프로젝트 #기업용도구 #빠른성능 #설정없이사용가능 #다중파일분석 #마이그레이션도구
 
 12 번째 검색 내용
-제목: 베이ondon 비브 코딩을 초과한다: 아마존이 지수에 기반한 에이전트적인 AI IDE, 키로를 소개합니다.
+제목: 베이onder Vibe Coding: Amazon이 지적 기반의 에이전트 AI IDE인 Kiro를 소개합니다.
 주소: https://www.infoq.com/news/2025/08/aws-kiro-spec-driven-agent/
-설명: Amazon은 최근에 Kiro를 발표했습니다. VS Code의 분기 버전으로, 개발자들을 베이브 코딩 넘어서 그 단점을 해결하고자 합니다. Kiro는 명세 주도 개발에 직접적으로 지원됩니다. 개발자들은 자연어로 요구 사항을 설명합니다. Kiro는 요구 사항의 인수 조건, 기술 디자인 문서, 및 요구 사항을 구현하는 코딩 작업 목록을 출력합니다.
-#Kiro #명세주도개발 #개발자용어
+설명: Amazon이 최근에 Kiro를 출시했습니다. VS Code의 분기 버전으로, 개발자들을 베이브 코딩 넘어서 그 단점을 해결하고자 합니다. Kiro는 명세 주도 개발에 직접적으로 지원됩니다. 개발자들은 요구 사항을 자연어로 설명합니다. Kiro는 요구 사항의 수락 기준, 기술 디자인 문서, 및 요구 사항을 구현하는 코딩 작업 목록을 출력합니다.
+#Kiro #명세주도개발 #개발자용어 #코드분석
+
+#hashtags: #Kiro #명세주도개발 #개발자용어 #코드분석
 
 13 번째 검색 내용
-제목: 깊은 정신은 텍스트를 3D 상호작용 세계 모델인 Genie 3을 출시합니다.
+제목: DeepMind가 텍스트를 입력으로 사용하여 3D 상호작용 세계 모델인 Genie 3를 출시합니다.
 주소: https://www.infoq.com/news/2025/08/deepmind-genie-virtual/
 설명: 인공지능 기업 DeepMind가 텍스트 제안으로부터 직접적으로 3D 환경을 생성하는 "세계 모델" 프레임워크인 Genie 3를 소개했습니다.
 #인공지능 #DeepMind #세계모델 #3D환경 #텍스트제안
@@ -128,14 +121,16 @@ Hashtags: #softwareprovenance, #SLSA, #security
 14 번째 검색 내용
 제목: HCP Terraform에서는 이제 Artifact 암호화에 대한 자기 키를 유지하는(HYOK) 옵션을 제공합니다.
 주소: https://www.infoq.com/news/2025/08/hcp-terraform-hyok/
-설명: HashiCorp는 2025년 7월 31일에 HCP Terraform의 Hold Your Own Key (HYOK) 지원 일반 사용 가능성을 발표했습니다. 이 기능은 민감한 Terraform 아티팩트, 예를 들어 상태와 계획 파일에 사용되는 암호화 키의 전체 제어를 고객에게 제공합니다.
-#HashiCorp #HCPTerraform #HYOK #암호화키
+설명: HashiCorp는 2025년 7월 31일에 HCP Terraform의 Hold Your Own Key (HYOK) 지원 일반 사용 가능성을 발표했습니다. 이 기능은 민감한 Terraform 아티팩트, 예를 들어 상태와 플랜 파일에 사용되는 보호 키의 제어 권한을 고객에게 전체적으로 제공합니다.
+#HashiCorp #HCPTerraform #HYOK #보안
 
-#hashtags: #CloudComputing, #Security, #InfrastructureManagement
+#hashtags: #HashiCorp, #HCPTerraform, #HYOK, #보안
 
 15 번째 검색 내용
-제목: 제니 2.5 빈둥빈둥 창의적인 문제해결을 병렬화합니다.
+제목: 곤미니 2.5 빈둥빈둥 창의적인 문제해결을 병렬화합니다.
 주소: https://www.infoq.com/news/2025/08/gemini-2-5-deep-think/
-설명: 인공지능 언더 서브스크라이빙의 Google AI Ultra에서는, 병렬 사고 기술과 확장된 추론 시간을 활용한 창의적인 문제 해결을 위한 Gemini 2.5 Deep Think가 개발되었습니다.
-#인공지능 #GoogleAIUltra #병렬사고기술 #확장된추론시간
+설명: 인공지능 울트라 구독의 일부로, Gemini 2.5 Deep Think은 병렬 사고 기술과 확장된 추론 시간을 활용하여 창의적인 문제 해결에 설계된 모델입니다.
+#인공지능 #울트라 #병렬사고 #창의적인문제해결
+
+Hashtags: #인공지능, #울트라, #병렬사고, #창의적인문제해결
 
