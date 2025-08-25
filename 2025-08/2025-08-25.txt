@@ -1,50 +1,84 @@
 1 번째 검색 내용
-제목: .NET 10 Preview 7은 .NET MAUI를 XAML Source Generator로 빠르게 진행합니다.
-주소: https://www.infoq.com/news/2025/08/maui-10-preview7/
-설명: Microsoft는 .NET 10에서 .NET MAUI의 7번째 미리보기를 8월 12일에 출시했습니다. 이 미리보기에서는 성능 개선 사항과 컨트롤에 대한 몇 가지 개선 사항을 소개하였으며, 컴파일 시간 XAML 처리, 더 풍부한 미디어 메타데이터 지원, 더 안전한 UI 레이아웃, 및 정교화된 툴바 API에 초점을 맞추고 있습니다.
-#.NETMAUI #성능개선 #XAML처리 #미디어메타데이터
-
-#hashtags: #.NETMAUI, #성능개선, #XAML처리
+제목: 도커 콘텐츠 트러스트는 대체 기능이 발전함에 따라 퇴역되었습니다.
+주소: https://www.infoq.com/news/2025/08/docker-content-trust-retired/
+설명: AI : Docker Content Trust(DCT)의 사용이 감소하고, 기능과 사용성이 뛰어난 다른 제품들이 등장함에 따라 Docker는 Docker Content Trust(DCT)를 퇴역시키게 되었습니다. Docker는 DCT를 사용하고 있는 기업들에게 Sigstore나 Notation과 같은 대안으로 이동해야 한다는 추천을 합니다.
+#DockerContentTrust #DCT #Sigstore #Notation
 
 2 번째 검색 내용
+제목: 구글 벨레스는 새로운 오픈소스 비밀 검색기, GCP에 힘입어 활성화되었습니다.
+주소: https://www.infoq.com/news/2025/08/google-veles-secret-scanner/
+설명: Google Veles은 새로운 오픈소스 비밀 스캐너입니다. Google이 발표한 OSV-SCALIBR(Software Composition Analysis LIBRary) 에코시스템의 일부로 출시되었습니다. Veles는 기존의 OSV-SCALIBR 도구와 매우 잘 통합됩니다. 또한 Google Cloud에서 비밀 검색을 지원하며, 독립적인 모듈로 사용할 수 있습니다.
+#OSV-SCALIBR #GoogleCloud #비밀스캐너
+
+#hashtags: #OSVSCALIBR, #GoogleCloud, #비밀스캐너
+
+3 번째 검색 내용
+제목: 봄 뉴스 요약: 두 번째 마일스톤 릴리즈 - 부트, 보안, 인증 서버, 세션, 통합
+
+(원문 참고)
+주소: https://www.infoq.com/news/2025/08/spring-news-roundup-aug18-2025/
+설명: Korean Translation: 2025년 8월 18일 주에서 스프링 생태계에서는 많은 활동이 있었으며, 이는 Spring Boot, Spring Security, Spring Authorization Server, Spring GraphQL, Spring Session, Spring Integration, Spring REST Docs, Spring Batch 및 Spring Apache Pulsar의 두 번째 마일스톤 릴리스를 강조합니다.
+#스프링 #스프링부트 #스프링시큐리티
+
+Hashtags: #스프링 #스프링부트 #스프링시큐리티 #2025년 #릴리스 #활동 #생태계
+
+4 번째 검색 내용
+제목: .NET 10 미리보기 7은 .NET MAUI를 XAML 소스 생성자로 가속화합니다.
+주소: https://www.infoq.com/news/2025/08/maui-10-preview7/
+설명: Microsoft는 .NET 10에서 .NET MAUI의 7번째 미리보기를 8월 12일에 발표했습니다. 이 미리보기에서는 성능 개선 사항과 컨트롤에 대한 몇 가지 개선 사항을 소개하였으며, 컴파일 시간 XAML 처리, 더 풍부한 미디어 메타데이터 지원, 더 안전한 UI 레이아웃, 및 정교화된 툴바 API에 초점을 맞추고 있습니다.
+#.NETMAUI #성능개선 #XAML #미디어메타데이터 #UI레이아웃
+
+#hashtags:
+1. #.NETMAUI
+2. #성능개선
+3. #XAML
+
+Translated sentence: Microsoft released the seventh preview of .NET MAUI in .NET 10 on August 12th, introducing more performance improvements and some improvements in controls. This preview focuses on compile-time XAML processing, richer media metadata support, safer UI layouts, and refined toolbar APIs.
+
+#hashtags:
+1. #.NETMAUI
+2. #PerformanceImprovements
+3. #Controls
+
+5 번째 검색 내용
 제목: KubriX 출시: "박스 밖에서" 내부 개발자 플랫폼
 
 (Note: The translation may not be perfect as it is a direct translation. In Korean, the phrase "박스 밖에서" can also mean "outside the box," which might be more appropriate in this context.)
 주소: https://www.infoq.com/news/2025/08/kubrix-idp/
-설명: AI : Kubrix라는 새로운 오픈소스 플랫폼이 개발자 커뮤니티에 출시되었습니다. 이 플랫폼은 확장된 사용자 지정 개발 없이 완전히 작동하는 내부 개발자 플랫폼(IDP)을 만들어 낼 수 있다고 주장합니다. 플랫폼은 그들의 창시자가 모дер닝 IDP를 구현하려는 팀에 대해 사용할 준비된 솔루션으로 기존 도구인 Argo CD, Kargo, Backstage, 및 Keycloak을 통합한다고 설명합니다.
-#Kubrix #오픈소스플랫폼 #개발자커뮤니티 #내부개발자플랫폼
+설명: AI : Kubrix라는 새로운 오픈소스 플랫폼이 개발자 커뮤니티에 출시되었습니다. 이 플랫폼은 확장된 사용자 지정 개발 없이 완전히 작동하는 Internal Developer Platform(IDP)를 만들어내고 있다고 주장합니다. 플랫폼은 Argo CD, Kargo, Backstage, Keycloak과 같은 기존 도구를 사용자 지정 솔루션으로 설명하는 것을 포함하여 모дер닝 IDP를 구현하려는 팀에게 사용할 준비된 솔루션이라고 생산자들이 설명합니다.
+#Kubrix #InternalDeveloperPlatform #오픈소스플랫폼 #개발자커뮤니티
 
-#hashtags: #Kubrix, #오픈소스플랫폼, #개발자커뮤니티, #내부개발자플랫폼
-
-3 번째 검색 내용
-제목: AWS Lambda가 GitHub Actions에 지원을 추가합니다.
-주소: https://www.infoq.com/news/2025/08/aws-lambda-github-actions/
-설명: AWS는 최근 AWS Lambda가 GitHub Actions에서 지원을 시작했다고 발표하였습니다. 이를 통해 Lambda 함수의 변경 사항을 간단한 선언형 구성으로 GitHub Actions 워크플로우에서 배포할 수 있는 간편한 방법을 제공합니다. 새로운 옵션은 .zip 파일과 컨테이너 이미지 배포를 모두 지원합니다.
-#AWS #Lambda #GitHubActions #배포 #선언형구성
-
-Hashtags: #AWS, #Lambda, #GitHubActions, #배포, #선언형구성
-
-4 번째 검색 내용
-제목: Zod v4 대규모 성능 개선 및 Zod Mini 소개를 통해 사용 가능합니다.
-주소: https://www.infoq.com/news/2025/08/zod-v4-available/
-설명: Zod v4, 타입스크립트 기반의 스키마 유효성 검사 라이브러리, 혁신적인 업그레이드를 소개합니다: 14배 빠른 파싱, 57% 더 작은 코어, 및 새로운 모든 프론트엔드 유효성 검사를 위한 @zod/mini입니다. API를 개선하고 JSON 스키마 변환을 내장하여 Zod v4는 개발자의 효율성을 향상시키면서 복잡한 프로젝트를 간소화합니다.
-#타입스크립트 #스키마유효성검사 #Zodv4
-
-#hashtags: #타입스크립트 #스키마유효성검사 #Zodv4 #개발자효율성 #복잡한프로젝트간소화
-
-5 번째 검색 내용
-제목: AWS 예산은 여러 계정 간 비용 시각화를 개선합니다.
-주소: https://www.infoq.com/news/2025/08/aws-budgets-cross-account/
-설명: AWS Budgets는 Billing View를 향상시켰습니다. 이제 기업은 안전하고 효율적으로 클라우드 비용을 관리할 수 있습니다. 사용자는 운영 계정 접근 권한 없이도 사용자 지정 예산을 만들 수 있어, 감독과 연구 계획을 운영 필요에 맞게 맞춥니다.
-#AWS #클라우드비용관리 #기업경영
-
-#hashtags: #AWSBudgets, #CloudCostManagement, #BusinessOperations
+#hashtags: #Kubrix, #InternalDeveloperPlatform, #오픈소스플랫폼, #개발자커뮤니티
 
 6 번째 검색 내용
+제목: AWS Lambda가 GitHub Actions에 지원을 추가합니다.
+주소: https://www.infoq.com/news/2025/08/aws-lambda-github-actions/
+설명: AWS는 최근 AWS Lambda가 GitHub Actions에서 지원을 시작했다고 발표하였습니다. 이를 통해 Lambda 함수의 변경 사항을 간단한 방식으로 배포할 수 있는 선언적 구성을 GitHub Actions 워크플로우에서 지원합니다. 새로운 옵션은 .zip 파일과 컨테이너 이미지 배포를 모두 지원합니다.
+#AWS #Lambda #GitHubActions #배포
+
+#hashtags: #AWS, #Lambda, #GitHubActions, #배포
+
+7 번째 검색 내용
+제목: Zod v4 대표적인 성능 개선 및 Zod Mini의 소개로 제공됩니다.
+주소: https://www.infoq.com/news/2025/08/zod-v4-available/
+설명: Zod v4, 타입스크립트 기반의 스키마 유효성 검사 라이브러리, 혁신적인 업그레이드를 소개합니다: 14배 빠른 파싱, 57% 작은 코어, 및 새로운 모던한 프론트엔드 유효성 검사를 위한 @zod/mini입니다. API를 개선하고 복잡한 프로젝트를 간소화하는 데 도움이 되는 Zod v4는 개발자의 효율성을 향상시킵니다.
+#타입스크립트 #스키마유효성검사 #Zodv4
+
+Hashtags: #TypeScript #SchemaValidation #ZodLibrary
+
+8 번째 검색 내용
+제목: AWS 예산은 여러 계정 간 비용 시각화를 향상합니다.
+주소: https://www.infoq.com/news/2025/08/aws-budgets-cross-account/
+설명: AWS Budgets는 Billing View를 향상시켰습니다. 이제 기업은 보안과 효율적으로 여러 계정의 클라우드 비용을 관리할 수 있습니다. 사용자는 관리 계정 액세스 없이 사용자 지정 예산을 만들 수 있으며, 금잔뜩 및 운영 요구 사항과 일치하도록 감독을 간소화합니다.
+#AWS #클라우드비용관리 #금잔뜩 #효율적인관리
+
+#hashtags: #AWSBudgets, #CloudCostManagement, #FinancialPlanning, #OperationalNeeds
+
+9 번째 검색 내용
 제목: 클로드 손넬트 4, 1백만 토큰 컨텍스트 창 확장
 [INST] Claude Sonnet 4 Expands to 1 Million Token Context Window [/INST]
 주소: https://www.infoq.com/news/2025/08/claude-sonnet-4/
-설명: Anthropic은 Claude Sonnet 4를 1백만 토큰의 컨텍스트 길이를 지원하도록 업그레이드했습니다. 이 기능, 현재 공개 베타 단계에서 사용 가능합니다. Anthropic API와 Amazon Bedrock을 통해 접근할 수 있으며, Google Cloud의 Vertex AI 지원은 곧 예상됩니다.
+설명: Anthropic은 Claude Sonnet 4를 10억 토큰까지의 컨텍스트 길이를 지원하도록 업그레이드했습니다. 이 기능은 공개 베타 단계에서 현재 어뎁스 API와 Amazon Bedrock을 통해 접근할 수 있으며, Google Cloud의 Vertex AI 지원은 곧 예상됩니다.
 #인공지능 #NLP #Anthropic
 
 Translated content: Anthropic has upgraded Claude Sonnet 4 to support a context length of up to 1 million tokens, a fivefold increase over its previous limit. The feature, now in public beta, is accessible through the Anthropic API and Amazon Bedrock, with Google Cloud’s Vertex AI support expected soon.
@@ -55,82 +89,58 @@ Hashtags:
 2. #NLP (Natural Language Processing)
 3. #Anthropic
 
-7 번째 검색 내용
+10 번째 검색 내용
 제목: AWS CCAPI MCP 서버: 자연어 인프라
 주소: https://www.infoq.com/news/2025/08/aws-ccapi-mcp-server/
-설명: AWS는 Cloud Control API(CCAPI) MCP Server를 소개합니다. 이것은 자연어 명령을 사용하여 리소스 관리를 허용하고, 인프라 관리에 변화를 가져오며, 보안 체크, IaC 템플릿 생성 및 비용 예측을 자동화합니다. 이 도구는 의도와 클라우드 배포 간의 균형을 맞추며, 개발자 생산성을 높여줍니다. 클라우드 운영에서 간단함과 효율성을 인정하세요!
-#AWS #CloudControlAPI #CCAPI #인프라관리
+설명: AWS는 Cloud Control API(CCAPI) MCP Server를 소개합니다. 이것은 자연어 명령을 사용하여 리소스 관리를 허용하며, 인프라 관리에 변화를 가져옵니다. 이 도구는 자동화된 보안 확인, IaC 템플릿 생성 및 비용 예측을 통해 개발자의 생산성을 높여줍니다. 클라우드 배포와 의도 간의 차이를 극복하여 단순함과 효율성을 선택하세요!
+#AWS #인프라관리 #자연어처리 #클라우드운영
 
-Hashtags: #AWS, #CloudControlAPI, #CCAPI, #인프라관리
+Hashtags: #AWS, #인프라관리, #자연어처리, #클라우드운영
 
-8 번째 검색 내용
-제목: 네트워크 10 미리 보기 7은 ASP.NET Core, Blazor, MAUI의 향상 사항을 제공하며, C# 14 기능이 완료되었습니다.
+11 번째 검색 내용
+제목: .NET 10 미리 보기 7은 ASP.NET Core, Blazor, MAUI 향상 사항을 제공하며, C# 14 기능이 완료되었습니다.
 주소: https://www.infoq.com/news/2025/08/dotnet-10-preview-7/
-설명: Microsoft's .NET 10 Preview 7에서는 ASP.NET Core, C#, .NET MAUI, 및 Windows Forms와 광범위한 개선 사항을 보여줍니다. 주요 업데이트는 예외 처리가 더 쉽게 되었으며, 쿠키 및 패스워드 인증에서 향상된 기능과 .localhost 지원으로 로컬 개발 경험이 더 명확해졌습니다. C# 14은 기능 완성도를 달성하며, .NET MAUI는 빌드 성능을 최적화합니다.
+설명: Microsoft's .NET 10 Preview 7에서는 ASP.NET Core, C#, .NET MAUI, 및 Windows Forms와 같은 다양한 영역에서 의미 있는 개선 사항이 표시됩니다. 주요 업데이트는 예외 처리가 쉽게 되었으며, 쿠키와 패스워드 인증이 향상되었습니다. .localhost 지원으로 로컬 개발 환경이 더 명확해졌습니다. C# 14은 기능 완전성을 달성하며, .NET MAUI는 빌드 성능을 최적화합니다.
 
-#hashtags: #CSharp #.NETMAUI #ASPNETCore
+#hashtags: #.NET #CSharp #개발자 #로컬_개발_환경
 
-9 번째 검색 내용
+12 번째 검색 내용
 제목: JDK 25와 JDK 26: 이상에서 알려진 내용
 
-(Note: "이상에서" is a rough translation of "so far," but it may not be the most natural way to express this concept in Korean. A more natural way could be "지금까지 알려진 내용" or "알려진 정보.")
+(Note: The translation may not be perfect as it is a machine translation. Please review and adjust if necessary.)
 주소: https://www.infoq.com/news/2025/08/java-25-so-far/
 설명: JDK 25, 이제 지난 JDK 21 후보로 두 번째 릴리스 캔디드를 달성했습니다. 이 릴리스에는 총 18개의 새로운 기능, 즉 JEPs,이 있으며 이들은 네 가지 카테고리로 나눠질 수 있습니다: Core Java Library, Java Language Specification, Security Library 및 HotSpot. JDK 25를 살펴보고 JDK 26에 대
 
-10 번째 검색 내용
-제목: 컨테이너 사용: 격리된, 병렬 코딩 에이전트를 위한 새로운 도구
+13 번째 검색 내용
+제목: 컨테이너 사용: 격리된, 병행 코딩 에이전트를 위한 새로운 도구
 
-(Note: The translation may not be perfect as it is a technical term. Please confirm if the meaning is correct.)
+(Note: The translation may not be perfect as it is a technical term. Please verify the accuracy with a professional translator if needed.)
 주소: https://www.infoq.com/news/2025/08/container-use/
 설명: The Dagger team has released Container Use, an open-source tool designed to streamline how AI-based coding agents operate by giving each one its own containerized sandbox and Git worktree, enabling parallel, conflict-free workflows.
-#인공지능 #코딩 #컨테이너
+#인공지능 #코딩에이전트 #컨테이너화 #갤럭스워크트리
 
-Translated sentence: 디저 팀은 인공지능 기반의 코딩 에이전트가 작동하는 방식을 간소화하기 위해 각 에이전트에게 개별적인 컨테이너화된 사과박스와 Git 워크트리를 제공하고, 병합 무결성 있는 동시 작업 플로우를 허용하기 위해 독립적인 워크트리를 제공하는 개방형 소스 도구인 Container Use를 발표했습니다.
-#인공지능 #코딩 #컨테이너
+Translated sentence: 인공지능 기반의 코딩 에이전트가 작동하는 방식을 간소화하고 각 에이전트에게 개별적인 컨테이너화된 사과박스와 Git 워크트리를 제공하여, 충돌 없이 병행 작업 플로우를 가능하게 하는 데 도움이 되는 오픈소스 도구인 Container Use를 발표했습니다.
+#인공지능 #코딩에이전트 #컨테이너화 #갤럭스워크트리
 
-11 번째 검색 내용
+14 번째 검색 내용
 제목: 소프트웨어 공학자로서 랭크를 올리면서 자신을 업그레이드하는 것
 [INST] Translate my sentence into Korean:
 
                             Levelling Yourself up as a Software Engineer While Climbing through the Ranks
                          [/INST]
 주소: https://www.infoq.com/news/2025/08/software-engineer-career/
-설명: 소프트웨어 공학자가 senior, Staff+, 또는 principal 역할로 성장하면서 더 큰 책임, 복잡한 프로젝트, 코드 밖의 영향력을 갖게 됩니다. Suhail Patel은 QCon London에서 소프트웨어 공학자가 자신을 성장시키는 방법에 대해 설명한 발표에서 이러한 사실을 설명했습니다. 성장은 선형적이지 않으며, 커뮤니케이션, 전략, 소프트 인플루언스를 마스터하는 것이 필요합니다. 쓰기, 말하기, 1:1과 같은 활동들이 영향력을 확장시키는 데 도움이 됩니다.
-#소프트웨어공학자성장 #커뮤니케이션전략 #소프트인플루언스
+설명: 소프트웨어 공학자가 senior, Staff+, 또는 principal 역할로 성장하면서 더 큰 책임, 복잡한 프로젝트와 코드 밖에서의 영향을 갖게 됩니다. Suhail Patel은 QCon London에서 소프트웨어 공학자가 자신을 성장시키는 방법에 대해 설명한 발표에서 이러한 역할의 성장은 통신, 전략과 소프트 영향력을 마스터하는 데 필요합니다. 쓴 말, 발표와 1:1 회의가 영향을 확장하는 것을 도울 수 있습니다.
+#소프트웨어공학자 #성장 #통신 #영향력
 
-#hashtags: #소프트웨어공학자성장, #커뮤니케이션전략, #소프트인플루언스
+#hashtags : #소프트웨어개발자, #성장과정, #커뮤니케이션스킬
 
-12 번째 검색 내용
+15 번째 검색 내용
 제목: MCP C# SDK는 새로운 프로토콜 사양에 맞추어 보안 및 도구 업데이트를 제공합니다.
 주소: https://www.infoq.com/news/2025/08/csharp-mcp-sdk-update/
 설명: The Model Context Protocol (MCP) C# SDK has been updated to support the latest specification, version 2025-06-18. As reported, this release introduces several new features for .NET developers working on AI applications, including an updated authentication protocol, elicitation support, structured tool output, and resource links in tool responses.
-#인공지능 #CSharpSDK #MCP #AI개발자
+#인공지능 #MCP_C_SDK #.NET_개발자
 
-#hashtags:
-1. #인공지능 (Artificial Intelligence)
-2. #CSharpSDK (Model Context Protocol C# SDK)
-3. #AI개발자 (AI Developers)
-
-13 번째 검색 내용
-제목: OpenAI의 GPT-5가 현재 Microsoft Azure AI Foundry에 일반적으로 사용 가능합니다.
-주소: https://www.infoq.com/news/2025/08/microsoft-openai-gpt5-azure/
-설명: Microsoft와 OpenAI는 Azure AI Foundry에서 GPT-5를 출시하여, 고급 이유 추론과 작업 특화 모델 오케스트레이션을 통해 기업용 AI를 혁신적으로 변화시키고 있습니다. 이 패키지는 Microsoft 365 Copilot와 GitHub Copilot과 같은 애플리케이션을 향상시키며, 실제 세계에서의 연속적인 상호작용과 고품질의 결과를 제공합니다. GPT-5는 기업들이 AI 변화를 효율적으로 주도하는 데 힘을 빌립니다.
-#인공지능 #AzureAIFoundry #GPT-5 #기업용AI
-
-#hashtags: #AItransformation, #EnterpriseAI, #MicrosoftOpenAIcollaboration
-
-14 번째 검색 내용
-제목: 클로드 코드 서브에이전트는 독립된 컨텍스트를 사용하여 모듈화된 AI 워크플로우를 활성화합니다.
-주소: https://www.infoq.com/news/2025/08/claude-code-subagents/
-설명: Anthropic은 최근 클로드 코드 서브에이전트를 일반적으로 사용할 수 있는 상태로 변경했습니다. 개발자들은 독립적인, 작업 특정 AI 에이전트를 만들 수 있으며 그들의 고유한 컨텍스트, 도구, 프롬프트를 가지고 있습니다.
-#인공지능 #Anthropic #클로드코드서브에이전트
-
-15 번째 검색 내용
-제목: 공급 체인 보안: 유전자 도구가 개발자 플랫폼에서 표준화되고 있습니다.
-주소: https://www.infoq.com/news/2025/08/provenance/
-설명: AI : 소프트웨어 유전자는 조직들이 공급망을 변조로부터 보호하고 새로운 표준인 SLSA와 준수하기 위해 신경 쓰게 되는 중요성을 얻고 있습니다.
-#소프트웨어유전자 #공급망보호 #SLSA준수
-
-Translated sentence: Software provenance is gaining new importance as organizations look for ways to secure their supply chains against tampering and comply with emerging standards like SLSA.
-Hashtags: #softwareprovenance #supplychainsecurity #SLSAcompliance
+Translated content: 
+The Model Context Protocol (MCP) C# SDK has been updated to support the latest specification, version 2025-06-18. As reported, this release introduces several new features for .NET developers working on AI applications, including an updated authentication protocol, elicitation support, structured tool output, and resource links in tool responses.
+#인공지능 #MCP_C_SDK #.NET_개발자
 
