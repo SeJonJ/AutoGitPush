@@ -1,0 +1,138 @@
+1 번째 검색 내용
+제목: 우버잇스는 식당부터 상점까지 목록 관리를 확장하기 위해 INCA를 소개합니다.
+주소: https://www.infoq.com/news/2025/08/ubereats-inca-inventory-catalog/
+설명: Uber Eats는 대규모 제품 카탈로그를 처리하기 위한 확장성 있는 시스템인 INCA(Inventory and Catalog)를 소개했습니다. 이전에 낮은 SKU와 간단한 통과 데이터를 지원하도록 설계된 레스토랑 중심의 설정보다 큼직막 인벤토리, 부가 데이터, 및 규제 요구 사항을 지원하는 대상 시장 운영에 필수적인 메타데이터를 지원하는 것과 같은 다양한 분야에서 응용되고 있습니다.
+#인벤토리 #메타데이터 #규제요구사항
+
+Hashtags:
+1. #인벤토리
+2. #메타데이터
+3. #규제요구사항
+
+2 번째 검색 내용
+제목: 에어비엔비가 대규모 스케일로 이스티오 업그레이드 실행
+[INST] Translate my sentence into Korean:
+
+Airbnb executes Istio upgrades at massive scale.
+[/INST]
+주소: https://www.infoq.com/news/2025/08/airbnb-istio-upgrade/
+설명: Airbnb 엔지니어링은 Istio 업그레이드를 수행하면서 수십만 개의 팟과 수천 대의 VM에서 고가용성을 유지하는 자세한 내용을 발표했습니다. 이 모든 것은 중단 없이 이루어졌습니다.
+#Airbnb #엔지니어링 #고가용성 #Istio
+
+#hashtags: #Airbnb, #엔지니어링, #고가용성, #Istio
+
+3 번째 검색 내용
+제목: AWS가 사용자 정의 Intel Xeon 6 프로세서를 탑재한 Memory-최적화 EC2 R8i와 R8i-flex 인스턴스 출시
+
+(Note: The translation may not be perfect as it is a technical term. Please double-check the translation if necessary.)
+주소: https://www.infoq.com/news/2025/08/ec2-r8i-intel-xeon-six/
+설명: AWS는 메모리 집중 작업을 위해 사용자 지정 Intel Xeon 6 프로세서를 탑재한 Amazon EC2 R8i와 R8i-flex 인스턴스를 출시했습니다. 이러한 인스턴스는 실시간 데이터 처리 및 AI 응용 프로그램에 적합하며, 최대 15%의 가격 성능과 향상된 메모리 통틀기를 제공합니다.
+#AWS #AmazonEC2 #AI #실시간데이터처리
+
+Translated sentence: AWS has launched its eighth-generation Amazon EC2 R8i and R8i-flex instances, powered by custom Intel Xeon 6 processors. Designed for memory-intensive workloads, these instances offer up to 15% better price performance and enhanced memory throughput, making them ideal for real-time data processing and AI applications.
+and Provide - #hashtags. Add 3 hashtags related to the translated content.
+
+4 번째 검색 내용
+제목: QCon의 효과적인 학습 경험을 만드는데 대한 AI 주도 접근 방식
+
+(Note: The translation may not be perfect as it is a machine translation. Please review and make necessary adjustments if needed.)
+주소: https://www.infoq.com/news/2025/08/AI-learning-experiences-QCon/
+설명: An experiment was created around a certification program influenced by AI at QCon London, which included special events during the conference, a pre-conference breakfast where participants could learn about upcoming activities, and an AI-driven workshop immediately following the conference. Wes Reisz spoke at InfoQ Dev Summit Boston about a program he led using AI.
+                     #인공지능 #QConLondon #서빙쿠퍼탑 #InfoQDevSummitBoston
+
+Translate my sentence into Korean: 
+                         An experiment was created around a certification program influenced by AI at QCon London, which included special events during the conference, a pre-conference breakfast where participants could learn about upcoming activities, and an AI-driven workshop immediately following the conference. Wes Reisz spoke at InfoQ Dev Summit Boston about a program he led using AI.
+                     and Provide - #hashtags. Add 3 hashtags related to the translated content.
+
+5 번째 검색 내용
+제목: CNCF는 엣지에서 Kubernetes를 위한 OpenYurt 인슈럴레이션
+
+(Note: The translation may not be perfect as it is a technical term. Please double-check the translation for accuracy.)
+주소: https://www.infoq.com/news/2025/08/openyurt-cncf-incubation/
+설명: OpenYurt, CNCF에서 인축된 프로젝트로, Kubernetes를 엣지 컴퓨팅으로 확장하여 IoT 사이트와 분기 사무실과 같은 성능을 향상시키는 데 도움이 됩니다. 커뮤니티가 증가하고 산업 리더들의 지원으로 인해, OpenYurt는 효율적인 클러스터 관리를 중점으로 작동하며 Kubernetes 호환성을 유지하면서 낮은 대기시간과 향상된 신뢰도를 보장합니다.
+#엣지컴퓨팅 #OpenYurt #Kubernetes
+
+#hashtags: #EdgeComputing #CloudNativeComputingFoundation #CNCFProjects
+
+6 번째 검색 내용
+제목: 인간적(Anthropic)'의 클로드 오펠 4.1은 리팩터링과 안전성을 개선합니다. SWE-bench 검증에서 74.5%를 기록했습니다.
+주소: https://www.infoq.com/news/2025/08/anthropic-claude-opus-4-1/
+설명: Anthropic는 다중 파일 프로젝트에서 코딩 신뢰성을 강화하고 긴 상호작용에서 이유 추론을 개선한 Claude Opus 4.1을 출시했습니다. 모델은 SWE-bench Verified 점수를 74.5%로 올려, 이전의 72.5%에서 상승했습니다. Opus 4를 기반으로 한 새로운 버전은 Claude가 다중 파일 상황에서 코딩 도우미로 활동하는 능력을 강화합니다.
+#인공지능 #코딩 #다중파일프로젝트
+
+#hashtags: #AI #codingassistant #multifileprojects
+
+7 번째 검색 내용
+제목: 크로스플레인이 클라우드 인프라와 함께 애플리케이션을 처리하는 v2.0 릴리즈
+
+(Note: The translation may not be perfect as it is a machine translation. Please review and make any necessary adjustments.)
+주소: https://www.infoq.com/news/2025/08/crossplane-applications-v2/
+설명: AI : Crossplane 오픈소스 프로젝트는 클라우드 인프라만 관리하던 것에서 애플리케이션과 인프라 오케스트레이션을 포함한 더 완전한 기능을 제공하는 2.0 버전 출시를 선언했습니다. 또한, 플랫폼 엔지니어링 워크플로우를 간소화하고 프로젝트의 원래 범위를 확장하기 위해 아키텍처적인 변경 사항이 도입되었습니다.
+#Crossplane #오픈소스 #클라우드 #애플리케이션 #인프라 #오케스트레이션 #플랫폼엔지니어링
+
+#hashtags: #CloudComputing #OpenSourceProjects #ApplicationOrchestration #InfrastructureManagement #PlatformEngineeringWorkflows
+
+8 번째 검색 내용
+제목: Argo CD v3.1에서는 OCI 지원과 향상된 UI 기능이 도입되었습니다.
+주소: https://www.infoq.com/news/2025/08/argocd-oci-support-new-ui/
+설명: Argo CD v3.1을 출시한 Argo Project는 이제 기본적인 v3.0 릴리스 후에 처음으로 주요 기능 업데이트를 선언했습니다. 이 버전에서는 OCI 레지스트리 지원, CLI 플러그인, 향상된 Hydrator 기능과 개선된 사용자 인터페이스 기능을 도입했습니다. GitOps 도구가 더 넓은 기업 채택을 위해 위치를 잡았습니다.
+#ArgoCD #GitOps #OCI #레지스트리 #CLI #Hydrator #사용자인터페이스 #기업채택
+
+9 번째 검색 내용
+제목: 리믹스 재생각: V3는 레이크트를 대체하여 리액트를 사용하지 않을 예정입니다.
+주소: https://www.infoq.com/news/2025/08/remix-run-v3-drops-react/
+설명: Two years after shipping Remix v2, the Remix team recently announced working on Remix v3, with a new set of principles charting its path. Remix v3 will drop React for a fork of Preact as part of its effort to own most of its stack and feature only minimal, critical dependencies. Remix will also optimize for LLMs, build on Web APIs, eschew build processes, and demand composable abstractions.
+                     #리믹스 #프렌즈 #웹API #빌드프로세스
+
+Translated content: 
+Two years after shipping Remix v2, the Remix team recently announced working on Remix v3, with a new set of principles charting its path. Remix v3 will drop React for a fork of Preact as part of its effort to own most of its stack and feature only minimal, critical dependencies. Remix will also optimize for LLMs, build on Web APIs, eschew build processes, and demand composable abstractions.
+                     #리믹스 #프렌즈 #웹API #빌드프로세스
+
+10 번째 검색 내용
+제목: 에이지앤티즈.md는 AI 코딩 에이전트용 개방형 표준으로 등장합니다.
+주소: https://www.infoq.com/news/2025/08/agents-md/
+설명: 새로운 개방형 소프트웨어 생태계에서 출현하는 규격: AGENTS.md. AI 코딩 에이전트를 도와 소프트웨어 개발에 도움이 되는 간단한 및 열린 형식입니다. GitHub의 20,000개 이상의 저장소에서 이미 채택되었으며, 전통적인 문서화와 함께 사람이 보는 파일들과 같은 README.md와 함께 기계가 읽을 수 있는 컨텍스트를 제공합니다.
+#인공지능 #AI코딩에이전트 #소프트웨어개발 #열린형식
+
+#hashtags: #AI #소프트웨어개발 #열린소스생태계
+
+11 번째 검색 내용
+제목: AWS Lambda 응답 스트리밍이 페이로드 제한을 200MB로 증가시킵니다.
+주소: https://www.infoq.com/news/2025/08/lambda-stream-200mb-payload/
+설명: AWS는 Lambda를 혁신시켰습니다. 20MB에서 200MB로 응답 스트리밍 페이로드 제한을 늘려 HAS 개발자들은 더 큰 데이터 세트를 스트리밍할 수 있게 되었습니다. 이 개선 사항으로는 TTFB(Time to First Byte) 성능이 향상됩니다. 응답 처리를 간소화하고 복잡한 대안을 제거함으로써 AWS는 서버리스 애플리케이션을 변화시키며, 개발자들에게 부드러운 내용을 간편하게 전달할 수 있도록 합니다.
+#AWS #Lambda #서버리스_애플리케이션 #TTFB
+
+#hashtags: #AWS, #Lambda, #서버리스_애플리케이션, #TTFB
+
+12 번째 검색 내용
+제목: 퀴웬팀은 고급 이미지 모델인 퀴웬-이미지를 오픈소스로 공개합니다.
+주소: https://www.infoq.com/news/2025/08/qwen-image-model/
+설명: Qwen Team은 최근 Qwen-Image, 이미지 기반 모델을 오픈소스로 공개했습니다. Qwen-Image는 텍스트-이미지(T2I) 생성 및 텍스트-이미지-이
+
+13 번째 검색 내용
+제목: 구글 딥마인드는 지구 전체 지도를 위한 AlphaEarth 기반 모델을 공개합니다.
+주소: https://www.infoq.com/news/2025/08/alpha-earth/
+설명: 인공지능 모델인 AlphaEarth Foundations를 개발한 Google DeepMind는 지구 관찰 데이터의 대량을 통합하여 단일한 디지털 표현으로 지구를 나타내는 통합된 시스템입니다. 이 시스템은 "가상 위성"처럼 작동하며, 펠티바이트의 다양한 다중 모드 입력을 처리할 수 있습니다.
+#인공지능 #AlphaEarthFoundations #지구관찰데이터
+
+Hashtags: #인공지능, #AlphaEarthFoundations, #지구관찰데이터
+
+14 번째 검색 내용
+제목: 자바 뉴스 요약: JDK 25-RC2, Eclipse JNoSQL, 퀵러스, 아파치 토미, 아파치 캐메르
+
+(Note: The Korean translation may not be perfect as it is a machine translation. Please review and adjust if necessary.)
+주소: https://www.infoq.com/news/2025/08/java-news-roundup-aug18-2025/
+설명: Java 주기적 동행 요약서: 8월 18일, 2025년에는 Java의 두 번째 릴리즈 캔디디트(Release Candidate)가 발표되었으며, Apache Camel이 포인트 릴리즈를 통해 업데이트되었습니다. Eclipse JNoSQL, Quarkus 및 Apache TomEE에는 유지보수 릴리즈가 발표되었으며, CVE-2025-55163의 해결 방안을 실행한 Quarkus 팀이 발표되었습니다.
+#Java #Quarkus #ApacheTomEE #EclipseJNoSQL
+
+#hashtags: #Java, #Quarkus, #ApacheTomEE, #EclipseJNoSQL
+
+15 번째 검색 내용
+제목: 젬린은 Open Source Summit EU에서: AI시대에도 소프트웨어의 미래는 여전히 오픈 소스입니다.
+주소: https://www.infoq.com/news/2025/08/open-source-ai/
+설명: During the Open Source Summit Europe keynote, Jim Zemlin, executive director of the Linux Foundation, revisited the LLM landscape with an emphasis on the effect it has on the industry, the security, quantity and quality of the developed code. He emphasised that DeepSeek’s revolution was validated by the gpt-oss release, OpenAI’s first open-source model.
+#오픈소스 #인공지능 #Linux재단
+
+Translated content: 오픈소스 슬롯 유럽에서 라인풀재단 실행 감독관 제임 젤린은 LLM 경로를 다시 방문하며, 이것이 산업, 보안, 코드 양과 질에 미치는 영향을 강조했습니다. 그는 DeepSeek의 혁명이 gpt-oss 출시로 OpenAI의 첫 오픈소스 모델에서 인증되었음을 강조하였습니다.
+#오픈소스 #인공지능 #라인풀재단
+
