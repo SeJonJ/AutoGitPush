@@ -1,0 +1,148 @@
+1 번째 검색 내용
+제목: 탄스택 DB 베타에 입장하며 리액티브 쿼리, 최적화된 변경 사항, 로컬 우선 동기화가 추가되었습니다.
+주소: https://www.infoq.com/news/2025/08/tanstack-db-beta/
+설명: 인공지능은 세계를 변화시키고 있습니다. 이것은 의료, 금융, 교통과 같은 다양한 분야에 응용되고 있습니다.
+#인공지능 #의료 #금융 #교통
+
+소개하는 TanStack DB: 앞장에 끼워진 임베디드 클라이언트 사이드 데이터베이스로, 프론트엔드 개발을 혁신시키고 있습니다. 실시간 쿼리, 타입화된 컬렉션, 최적화된 변경 등의 기능으로 TanStack DB는 상태 관리를 간소화하며 광속 업데이트를 보장합니다. 오픈소스, 베타 버전의 TanStack Query 응용 프로그램에 쉽게 통합할 수 있습니다.
+#TanStackDB #데이터베이스 #프론트엔드_개발 #상태_관리
+
+#TanStackQuery #오픈소스 #베타버전
+
+2 번째 검색 내용
+제목: 우버잇스는 식당에서 상점까지의 카탈로그 관리를 확장하기 위해 INCA를 소개합니다.
+주소: https://www.infoq.com/news/2025/08/ubereats-inca-inventory-catalog/
+설명: Uber Eats는 대규모 제품 카탈로그를 처리하기 위한 확장성 있는 시스템인 INCA(Inventory and Catalog)를 소개했습니다. 이전에 낮은 SKU와 간단한 통과 데이터를 지원하도록 설계된 레스토랑 중심의 설정보다 큼직막 인벤토리, 부가 데이터, 및 규제 요구 사항을 지원하는 대상 기업 운영에 필수적인 메타데이터를 지원하는 것과 같은 다양한 분야에서 응용되고 있습니다.
+#인벤토리 #메타데이터 #규제요구사항
+
+Hashtags:
+1. #인벤토리
+2. #메타데이터
+3. #규제요구사항
+
+3 번째 검색 내용
+제목: 에어비엔비가 대규모 스케일로 이스티오 업그레이드 실행
+[INST] Translate my sentence into Korean:
+
+Airbnb executes Istio upgrades at massive scale.
+[/INST]
+주소: https://www.infoq.com/news/2025/08/airbnb-istio-upgrade/
+설명: Airbnb 엔지니어링은 Istio 업그레이드를 수행하면서 수십만 개의 팟과 수천 대의 VM에서 고가용성을 유지하는 자세한 내용을 발표했습니다. 이 모든 것은 중단 없이 이루어졌습니다.
+#Airbnb #엔지니어링 #Istio #고가용성
+
+#hashtags:
+1. #AirbnbEngineering
+2. #IstioUpgrade
+3. #HighAvailability
+
+4 번째 검색 내용
+제목: AWS가 사용자 정의 Intel Xeon 6 프로세서를 탑재한 Memory-최적화 EC2 R8i와 R8i-flex 인스턴스 출시
+
+(Note: The translation may not be perfect, as some terms and phrases might not have a direct equivalent in Korean. However, the meaning should still be conveyed.)
+주소: https://www.infoq.com/news/2025/08/ec2-r8i-intel-xeon-six/
+설명: AWS는 메모리 집중 작업을 위해 사용자 지정 Intel Xeon 6 프로세서를 탑재한 Amazon EC2 R8i와 R8i-flex 인스턴스를 출시했습니다. 이러한 인스턴스는 실시간 데이터 처리 및 AI 응용 프로그램에 적합하며, 최대 15%의 가격 성능과 향상된 메모리 통틀기를 제공합니다.
+#AWS #AmazonEC2 #AI #실시간데이터처리
+
+Translated sentence: AWS has launched its eighth-generation Amazon EC2 R8i and R8i-flex instances, powered by custom Intel Xeon 6 processors. Designed for memory-intensive workloads, these instances offer up to 15% better price performance and enhanced memory throughput, making them ideal for real-time data processing and AI applications.
+and Provide - #hashtags. Add 3 hashtags related to the translated content.
+
+5 번째 검색 내용
+제목: QCon의 효과적인 학습 경험을 창출하는데 대한 AI 주도 접근 방식
+
+(Note: The translation may not be perfect as it is a machine translation. Please review and make any necessary adjustments.)
+주소: https://www.infoq.com/news/2025/08/AI-learning-experiences-QCon/
+설명: An experiment was created around a certification program influenced by AI at QCon London, which included special events during the conference, a pre-conference breakfast where participants could learn about upcoming activities, and an AI-driven workshop immediately following the conference. Wes Reisz spoke at InfoQ Dev Summit Boston about a program he led using AI.
+                     #인공지능 #QConLondon #교육프로그램
+
+#hashtags: 
+1. #인공지능 (AI)
+2. #QConLondon (QCon London)
+3. #교육프로그램 (Education Program)
+
+6 번째 검색 내용
+제목: CNCF는 엣지에서 Kubernetes를 위한 OpenYurt 인슈런트 진행중입니다.
+주소: https://www.infoq.com/news/2025/08/openyurt-cncf-incubation/
+설명: OpenYurt, CNCF 기반의 프로젝트, 엣지 컴퓨팅에 Kubernetes를 확장하여 IoT 사이트와 분기 사무실과 같은 위치에서 성능을 향상시키고 있습니다. 커뮤니티가 증가하고 산업 리더들의 지원으로 인해 OpenYurt는 효율적인 클러스터 관리를 중점으로, Kubernetes 호환성을 유지하면서 낮은 라틴시간과 향상된 신뢰도를 보장합니다.
+#OpenYurt #엣지컴퓨팅 #Kubernetes #CNCF
+#hashtags: #클러스터관리 #효율적인클러스터관리 #라틴시간 #신뢰도 #IoT사이트 #분기사무실
+
+7 번째 검색 내용
+제목: 인간적(Anthropic)'의 클로드 오폴러 4.1은 리팩터링과 안전성을 향상시키며, SWE-bench 검증에서 74.5%를 기록합니다.
+주소: https://www.infoq.com/news/2025/08/anthropic-claude-opus-4-1/
+설명: Anthropic는 다중 파일 프로젝트에서 코딩 신뢰성을 강화하고 긴 상호작용에서 이유 추론을 개선한 Claude Opus 4.1을 출시했습니다. 모델은 SWE-bench Verified 점수를 74.5%로 올려, 이전의 72.5%에서 상승했습니다. Opus 4를 기반으로 한 새로운 버전은 Claude가 다중 파일 상황에서 코딩 도우미로 활동하는 능력을 강화합니다.
+#인공지능 #코딩 #다중파일프로젝트
+
+#hashtags:
+1. #AI_coding_assistant
+2. #Multi_file_projects
+3. #Claude_Opus_4.1
+
+8 번째 검색 내용
+제목: 크로스플레인이 클라우드 인프라와 함께 애플리케이션을 처리하는 v2.0 릴리스
+
+(Note: The translation may not be perfect as it is a technical term, and the Korean language does not have direct equivalents for some English words.)
+주소: https://www.infoq.com/news/2025/08/crossplane-applications-v2/
+설명: AI : Crossplane 오픈소스 프로젝트는 클라우드 인프라를 관리하는 것에서 애플리케이션과 인프라 오케스트레이션을 포함한 더 넓은 범위로 업그레이드되었습니다. 버전 2.0 출시를 통해 플랫폼 엔지니어링 워크플로우를 간소화하고 프로젝트의 원래 범위를 확장했습니다.
+#Crossplane #오픈소스 #클라우드인프라 #애플리케이션과인프라오케스트레이션
+
+Hashtags: #Crossplane, #오픈소스, #클라우드인프라, #애플리케이션과인프라오케스트레이션
+
+9 번째 검색 내용
+제목: Argo CD v3.1에서는 OCI 지원과 향상된 UI 기능이 도입되었습니다.
+주소: https://www.infoq.com/news/2025/08/argocd-oci-support-new-ui/
+설명: Argo CD v3.1을 출시한 Argo Project는 이제 기본적인 v3.0 릴리스 후에 처음으로 주요 기능 업데이트를 선언했습니다. 이 버전에서는 OCI 레지스트리 지원, CLI 플러그인, 향상된 Hydrator 기능, 및 개선된 사용자 인터페이스 기능을 도입했습니다. GitOps 도구는 이제 넓은 기업 채택을 위해 준비되었습니다.
+#ArgoCD #GitOps #OCI #CLI #Hydrator
+
+#hashtags: #ArgoCD, #GitOps, #OCI, #CLI, #Hydrator
+
+10 번째 검색 내용
+제목: 리믹스 재생각: V3는 레이크트를 사용하지 않고 프리앱의 포크를 사용할 예정입니다.
+주소: https://www.infoq.com/news/2025/08/remix-run-v3-drops-react/
+설명: AI : 2년 후 Remix v2를 배송한 이후에는 Remix팀이 Remix v3을 개발하고 있다는 것을 최근에 알려줍니다. Remix v3은 React를 Preact의 분기로 사용하여 자체 대부분의 스택을 소유하고 단순한, 중요한 종속성만 포함하는 것이  Effort의 일부입니다. Remix는 LLMs를 최적화하고, Web API를 빌드하며, 빌드 프로세스를 피하고 구성 가능한 추상화를 요구합니다.
+#Remix #웹개발 #AI #LLM
+
+Hashtags: #Remix #웹개발 #인공지능 #LLM
+
+11 번째 검색 내용
+제목: 에이지앤티즈.md는 AI 코딩 에이전트용 개방형 표준으로 등장합니다.
+주소: https://www.infoq.com/news/2025/08/agents-md/
+설명: 새로운 개방형 환경에서 발생하는 전망: AGENTS.md, AI 코딩 에이전트를 도와 소프트웨어 개발에 사용되는 간단한 및 열려 있는 형식입니다. GitHub의 20,000개 이상의 저장소에서 이미 채택되었으며, 이 형식은 전통적인 문서화와 함께 사용되어지고 있으며, 기계가 읽을 수 있는 맥락을 제공하여 인간 측면의 파일, 예를 들어 README.md와 보완됩니다.
+#AI #소프트웨어개발 #열려있는소스 #AGENTS.md
+
+#hashtags: #AI, #소프트웨어개발, #열려있는소스, #AGENTS.md
+
+12 번째 검색 내용
+제목: AWS Lambda 응답 스트리밍 대역폭 한계를 200MB로 늘립니다.
+주소: https://www.infoq.com/news/2025/08/lambda-stream-200mb-payload/
+설명: AWS는 Lambda를 혁신시키며 응답 스트리밍 페이로드 한도를 20MB에서 200MB로 늘렸습니다. 이 개선 사항으로 개발자들은 더 큰 데이터 세트를 스트리밍할 수 있어, Time to First Byte 성능을 향상시킵니다. 응답 처리를 간소화하고 복잡한 대안을 제거함으로써 AWS는 서버리스 애플리케이션을 변화시키며, 개발자들에게 부드러운 내용 전달을 가능하게 합니다.
+#AWS #Lambda #TimeToFirstByte #ServerlessApplication
+
+#hashtags:
+1. #AWS
+2. #Lambda
+3. #ServerlessApplication
+
+13 번째 검색 내용
+제목: 퀴웨님 팀은 고급 이미지 모델 '퀴웨-이미지'를 오픈소스로 공개합니다.
+주소: https://www.infoq.com/news/2025/08/qwen-image-model/
+설명: Qwen Team은 최근 Qwen-Image, 이미지 기반 모델을 오픈소스로 공개했습니다. Qwen-Image는 텍스트-이미지(T2I) 생성 및 텍스트-이미지-이미지(TI2I) 편집 작업을 지원하며, 다양한 벤치마크에서 기타 모델보다 우수합니다.
+#Qwen-Image #오픈소스 #이미지기반모델
+#hashtag1 #hashtag2 #hashtag3
+
+14 번째 검색 내용
+제목: 구글 딥마인드는 지구 전체 지도를 위한 AlphaEarth 기반 모델을 공개합니다.
+주소: https://www.infoq.com/news/2025/08/alpha-earth/
+설명: 인공지능 모델인 AlphaEarth Foundations를 개발한 Google DeepMind는 대량의 지구 관찰 데이터를 통합하여 단일한 디지털 표현으로 지구를 나타내는 시스템을 제공했습니다. 이 시스템은 "가상 위성"처럼 작동하며, 펠티바이트의 다양한 입력을 처리할 수 있습니다.
+#인공지능 #AlphaEarthFoundations #지구관찰데이터
+
+Translated sentence: Google DeepMind has introduced AlphaEarth Foundations, an artificial intelligence model designed to integrate massive volumes of Earth observation data into a unified digital representation of the planet. The system, described as functioning like a “virtual satellite”, can process petabytes of multimodal inputs.
+and Provide - #hashtags. Add 3 hashtags related to the translated content.
+
+15 번째 검색 내용
+제목: 자바 뉴스 요약: JDK 25-RC2, Eclipse JNoSQL, 퀵러스, 아파치 토미, 아파치 캐메르
+
+(Note: The Korean translation may not be perfect as it is a machine translation. Please review and make necessary adjustments if needed.)
+주소: https://www.infoq.com/news/2025/08/java-news-roundup-aug18-2025/
+설명: Java 주요 뉴스 요약: 8월 18일, 2025년에는 JDK 25의 두 번째 리리즈 캔디드이며, Apache Camel의 포인트 릴리즈, Eclipse JNoSQL, Quarkus 및 Apache TomEE의 유지보수 릴리즈, 그리고 Quarkus 팀이 CVE-2025-55163에 대한 해결 방안을 구현하는 것이 포함되어 있습니다.
+#Java #Quarkus #CVE-2025-55163 #JDK25
+
