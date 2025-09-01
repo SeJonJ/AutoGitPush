@@ -1,0 +1,140 @@
+1 번째 검색 내용
+제목: 노드.제스의 안모로 1.0으로 안모 1.0 안정적인 타입스크립트 지원에 이동하고 있습니다.
+주소: https://www.infoq.com/news/2025/08/node-amaro-stable-ts-support/
+설명: 인공지능 팀은 최근에 Node.js의 Amaro v1.0.0을 릴리스했습니다. 이는 안정적인 TypeScript 지원으로 이어질 중요한 기점입니다. Amaro는 Node.js의 공식 타입 제거 로더이며, 공식 .ts 로딩에 도달하기 위한 주요 발전 단계입니다.
+#Node.js #TypeScript #안정적인_지원
+
+Translated sentence: The Node.js team recently released Amaro v1.0.0, a significant milestone towards stable TypeScript support. Amaro is Node's official type-stripping loader and is a key stepping stone towards official .ts loading.
+and Provide - #hashtags. Add 3 hashtags related to the translated content:
+#Node.js #TypeScript #안정적인_지원
+
+2 번째 검색 내용
+제목: 고급 자동 조정은 회사가 AWS 비용을 70% 줄일 수 있도록 도와줍니다.
+주소: https://www.infoq.com/news/2025/08/autoscaling-karpenter-automode/
+설명: AI : 다음 세대의 Kubernetes 자동 조정 기술과 도구는 기업들이 클라우드 인프라에서 크게 비용을 절약할 수 있도록 허용하고 있습니다. Svetlana Burninova는 Karpenter를 사용하여 다양한 아키텍처의 EKS 클러스터를 구축하고 비용을 70% 감소시키면서도 성능을 향상시켰습니다.
+#Kubernetes #자동조정 #비용절약 #성능향상
+
+Hashtags: #Kubernetes, #자동조정, #비용절약, #성능향상
+
+3 번째 검색 내용
+제목: IBM과 NASA가 헬리오파이지스 기초 모델을 처음으로 교육한 것입니다.
+주소: https://www.infoq.com/news/2025/08/surya-model-heliophysics/
+설명: Surya는 IBM과 NASA가 만든 366M 파라미터 모델로, 태양 활동을 예측하며, 폭발 이벤트, 태양 바람, 태양 폭탄의 전제 조건과 같은 태양 폭탄에 대한 정보를 제공합니다. 이는 우주에서 안전한 비상 사망 및 지상 시스템, 예를 들어 통신, 전력 배포 등과 같은 영향을 미칠 수 있습니다.
+#태양 #우주안전성 #통신시스템
+
+Translated content: Surya is a 366M-parameter model created by IBM and NASA to forecast solar activity, including flare events, solar winds, and precursors to solar eruptions, which can significantly impact astronaut safety in space as well as terrestrial systems such as communications, power distribution, and more.
+#hashtags: #태양 #우주안전성 #통신시스템
+
+4 번째 검색 내용
+제목: [INST] 깃랩은 공개 베타에서 두오 에이전트 플랫폼 공개, 에이전트 주도 개발, 보안, 운영(DevSecOps) 소개합니다. [/INST]
+주소: https://www.infoq.com/news/2025/08/gitlab-duo-agent-platform/
+설명: GitLab은 GitLab Duo Agent Platform, 개발자가 AI 에이전트와 DevSecOps 생명주기를 통해 비동기적으로 협력할 수 있는 오케스트레이션 도구를 공개 베타로 출시했습니다.
+#GitLab #DuoAgentPlatform #DevSecOps #AI #오케스트레이션도구
+
+#hashtags: #GitLab, #DuoAgentPlatform, #DevSecOps
+
+5 번째 검색 내용
+제목: 포고캐시: 낮은 지연 시간과 다양한 와이어 프로토콜을 지원하는 오픈 소스 캐싱 소프트웨어
+주소: https://www.infoq.com/news/2025/08/pogocache-caching/
+설명: 인공지능은 세계를 변화시키고 있습니다. 이것은 의료, 금융, 교통과 같은 다양한 분야에 응용되고 있습니다.
+#인공지능 #의료 #금융 #교통
+
+새로운 오픈소스 캐시 소프트웨어, Pogocache, 1.0 일반 사용 가능성을 달성하였습니다. Pogocache는 낮은 지연 시간과 CPU 효율성에 집중하고 있으며, 기타 오픈소스 캐시 대안보다 더 좋은 처리량과 낮은 지연 시간을 주장합니다.
+#오픈소스 #캐시 #지연시간 #CPU효율성
+
+6 번째 검색 내용
+제목: 탄스택 DB 베타에 입장하며 리액티브 쿼리, 최적화된 변경 사항, 로컬 우선 동기화가 추가되었습니다.
+주소: https://www.infoq.com/news/2025/08/tanstack-db-beta/
+설명: 인공지능은 세계를 변화시키고 있습니다. 이것은 의료, 금융, 교통과 같은 다양한 분야에 응용되고 있습니다.
+#인공지능 #의료 #금융 #교통
+
+소개하는 TanStack DB: 클라이언트 사이드 임베디드 데이터베이스로, 프론트엔드 개발을 혁신시키고 있습니다. 실시간 쿼리, 타입화된 컬렉션, 최적화된 변경 등의 기능으로 상태 관리를 간소화하며, 광범위한 업데이트를 보장합니다. 오픈 소스, 베타 버전의 TanStack Query 응용 프로그램에 쉽게 통합할 수 있습니다.
+#TanStackDB #클라이언트사이드데이터베이스 #상태관리 #프론트엔드개발
+
+7 번째 검색 내용
+제목: 우버잇스는 식당에서 상점까지의 카탈로그 관리를 확장하기 위해 INCA를 소개합니다.
+주소: https://www.infoq.com/news/2025/08/ubereats-inca-inventory-catalog/
+설명: Uber Eats는 대규모 제품 카탈로그를 처리하기 위한 확장성 있는 시스템인 INCA(Inventory and Catalog)를 소개했습니다. 이전에 낮은 SKU와 간단한 통과 데이터를 지원하도록 설계된 레스토랑 중심의 설정보다 대규모 재고, 부가 데이터, 및 준수 요구 사항을 지원하는 반려 업무에 필요한 것과 같은 많은 데이터를 처리할 수 있습니다.
+#인공지능 #UberEats #재고관리
+
+8 번째 검색 내용
+제목: 에어비엔비가 대규모 스케일로 이스티오 업그레이드 실행
+
+(Note: The translation may not be perfect as it is a direct translation of the English sentence. In Korean, the subject usually comes first followed by the object and then the verb. So, a more natural-sounding Korean sentence would be: "대규모 스케일로 이스티오 업그레이드를 실행하는 에어비엔비" which translates to "Airbnb executes Istio upgrades at massive scale.")
+주소: https://www.infoq.com/news/2025/08/airbnb-istio-upgrade/
+설명: Airbnb 엔지니어링은 Istio 업그레이드를 수행하면서 수십만 개의 팟과 수천 대의 VM에서 고가용성을 유지하는 자세한 내용을 발표했습니다. 이 모든 것은 중단 없이 이루어졌습니다.
+#Airbnb #엔지니어링 #Istio #고가용성
+
+#hashtags:
+1. #AirbnbEngineering
+2. #IstioUpgrade
+3. #HighAvailability
+
+9 번째 검색 내용
+제목: AWS가 사용자 정의 Intel Xeon 6 프로세서를 탑재한 Memory-최적화 EC2 R8i와 R8i-flex 인스턴스 출시
+
+(Note: The translation may not be perfect, as some terms and phrases might need to be adjusted for proper Korean grammar and syntax.)
+주소: https://www.infoq.com/news/2025/08/ec2-r8i-intel-xeon-six/
+설명: AWS는 메모리 집중 작업을 위해 사용자 지정 Intel Xeon 6 프로세서를 탑재한 Amazon EC2 R8i와 R8i-flex 인스턴스를 출시했습니다. 이러한 인스턴스는 실시간 데이터 처리 및 AI 응용 프로그램에 적합하며, 최대 15%의 가격 성능과 향상된 메모리 통틀기를 제공합니다.
+#AWS #AmazonEC2 #AI #실시간데이터처리
+
+Translated sentence: AWS has launched its eighth-generation Amazon EC2 R8i and R8i-flex instances, powered by custom Intel Xeon 6 processors. Designed for memory-intensive workloads, these instances offer up to 15% better price performance and enhanced memory throughput, making them ideal for real-time data processing and AI applications.
+and Provide - #hashtags. Add 3 hashtags related to the translated content.
+
+10 번째 검색 내용
+제목: QCon에서 효과적인 학습 경험을 만드는 데 사용되는 AI 주도 접근 방식을 번역합니다.
+주소: https://www.infoq.com/news/2025/08/AI-learning-experiences-QCon/
+설명: An experiment was created around a certification program influenced by AI at QCon London, which included special events during the conference, a pre-conference breakfast where participants could learn about upcoming activities, and an AI-driven workshop immediately following the conference. Wes Reisz spoke at InfoQ Dev Summit Boston about a program he led using AI.
+                     #인공지능 #QConLondon #서머캠프
+
+#hashtags: 
+1. #인공지능 (AI)
+2. #QConLondon (QCon London)
+3. #서머캠프 (Summer Camp)
+
+11 번째 검색 내용
+제목: CNCF는 엣지에서 Kubernetes를 위한 OpenYurt 인슈런트로 진행중입니다.
+주소: https://www.infoq.com/news/2025/08/openyurt-cncf-incubation/
+설명: OpenYurt, CNCF의 프로젝트 인슈런에서 Kubernetes를 엣지 컴퓨팅으로 확장하여 IoT 사이트와 분기 사무실과 같은 성능을 향상시키는 데 도움이 됩니다. 커뮤니티가 증가하고 산업 리더들의 지원으로 인해 OpenYurt는 효율적인 클러스터 관리를 중점으로 작동하면서 Kubernetes 호환성을 유지하며, 낮은 라틴시간과 개선된 신뢰도를 보장합니다.
+#OpenYurt #엣지컴퓨팅 #Kubernetes #클러스터관리
+#CNCF #IoT #분기사무실 #라틴시간 #신뢰도 #효율적인클러스터관리
+
+12 번째 검색 내용
+제목: 인간적(Anthropic)'의 클로드 오펠 4.1은 리팩터링과 안전성을 개선하며, SWE-bench 검증에서 74.5%를 기록합니다.
+주소: https://www.infoq.com/news/2025/08/anthropic-claude-opus-4-1/
+설명: Anthropic는 Claude Opus 4.1을 출시했습니다. 이 업데이트는 다중 파일 프로젝트에서 코딩 신뢰성을 강화하고 장거리 상호작용에서의 추론력을 향상시킵니다. 모델도 SWE-bench Verified 점수를 74.5%로 올려, 이전에는 72.5%였습니다. Opus 4를 기반으로 한 새로운 버전은 Claude의 코딩 어시스턴트로서의 능력을, 특히 다중 파일 상황에서 강화합니다.
+#인공지능 #코딩_어시스턴트 #다중_파일_프로젝트
+
+#hashtags: #AIassistant #programming #multifileprojects
+
+13 번째 검색 내용
+제목: 크로스플레인이 클라우드 인프라와 함께 애플리케이션을 처리하는 v2.0 릴리스
+
+(Note: The translation may not be perfect as it is a technical term, but the meaning should be clear.)
+주소: https://www.infoq.com/news/2025/08/crossplane-applications-v2/
+설명: AI : Crossplane 오픈소스 프로젝트는 클라우드 인프라만 관리하던 것에서 애플리케이션과 인프라 오케스트레이션을 포함한 더 완전한 기능을 제공하는 2.0 버전 출시를 선언했습니다. 또한, 플랫폼 엔지니어링 워크플로우를 간소화하고 프로젝트의 원래 범위를 확장하기 위해 아키텍처적인 변경 사항이 도입되었습니다.
+#Crossplane #오픈소스 #클라우드 #애플리케이션 #인프라 #오케스트레이션 #플랫폼엔지니어링
+
+#hashtags: #CloudComputing #OpenSourceProjects #ApplicationOrchestration #InfrastructureManagement
+
+14 번째 검색 내용
+제목: Argo CD v3.1에서는 OCI 지원과 향상된 UI 기능이 도입되었습니다.
+주소: https://www.infoq.com/news/2025/08/argocd-oci-support-new-ui/
+설명: Argo CD v3.1을 출시한 Argo Project는 이제 기본적인 v3.0 릴리스 후에 첫 주요 기능 업데이트로 표시됩니다. 이 버전에서는 OCI 레지스트리 지원, CLI 플러그인, 향상된 Hydrator 기능 및 개선된 사용자 인터페이스 기능을 도입합니다. GitOps 도구가 더 넓은 기업 채택을 위해 위치를 잡고 있습니다.
+#ArgoCD #GitOps #CI/CD
+
+#hashtags: #ArgoCD, #GitOps, #CI_CD
+
+15 번째 검색 내용
+제목: 리믹스 재생각: V3는 레이크트를 대체하여 리액트를 사용하지 않을 예정입니다.
+주소: https://www.infoq.com/news/2025/08/remix-run-v3-drops-react/
+설명: Two years after shipping Remix v2, the Remix team recently announced working on Remix v3, with a new set of principles charting its path. Remix v3 will drop React for a fork of Preact as part of its effort to own most of its stack and feature only minimal, critical dependencies. Remix will also optimize for LLMs, build on Web APIs, eschew build processes, and demand composable abstractions.
+                     #리믹스 #프렉트 #LLM #웹API
+
+Translated content: 
+Two years after shipping Remix v2, the Remix team recently announced working on Remix v3, with a new set of principles charting its path. Remix v3 will drop React for a fork of Preact as part of its effort to own most of its stack and feature only minimal, critical dependencies. Remix will also optimize for LLMs, build on Web APIs, eschew build processes, and demand composable abstractions.
+                     #리믹스 #프렉트 #LLM #웹API
+
+Hashtags: 
+#리믹스 #프렉트 #LLM #웹API
+
