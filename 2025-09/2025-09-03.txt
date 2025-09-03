@@ -1,17 +1,28 @@
 1 번째 검색 내용
-제목: 링크드인 재설계: 다양한 추론 워크플로우를 지원하기 위해 엣지 빌딩 시스템 리펙리징
+제목: 앤지콘 이크스(Amazon Elastic Kubernetes Service)는 클러스터당 100,000 노드를 지원하여 초대형 AI/ML 작업을 실행할 수 있도록 합니다.
+주소: https://www.infoq.com/news/2025/09/aws-eks-kubernetes-ultrascale/
+설명: Amazon Web Services는 Amazon Elastic Kubernetes Service(EKS)가 이제 100,000 노드를 지원하는 컨테이너 오케스트레이션의 중요한 발전을 발표했습니다. 이것은 이전 제한과 10배 증가합니다.
+#AWS #EKS #컨테이너_오케스트레이션
+
+2 번째 검색 내용
+제목: 구글이 고급 편집 기능과 일관성 기능을 포함한 Gemini 2.5 플래시 이미지를 출시합니다.
+주소: https://www.infoq.com/news/2025/09/gemini-flash-image/
+설명: Google는 최신 이미지 생성 및 편집 모델인 Gemini 2.5 Flash Image(닉네임: nano-banana)를 발표했습니다. 시스템은 이전 Flash 모델과의 여러 업그레이드를 소개하며, 프롬프트에서 문자 일관성, 다중 이미지 融合, 정확한 프롬프트 기반 편집, 세계 지식의 통합을 위한 의미 이해를 포함합니다.
+#인공지능 #이미지처리 #Gemini2.5FlashImage
+
+Hashtags: #인공지능, #이미지처리, #Gemini2.5FlashImage
+
+3 번째 검색 내용
+제목: 링크드인 재설계: 다양한 추론 워크플로우를 지원하기 위해 엣지 빌딩 시스템 리펙리팅
 
 (Note: The translation may not be perfect as it involves technical terms and specific company names. However, the general meaning of the sentence is conveyed.)
 주소: https://www.infoq.com/news/2025/09/linkedin-edge-recommendations/
-설명: LinkedIn는 다양한 추천을 제공하기 위해 국가별로 멤버들에게 새로운 정보를 전달하는데 도움이 되기 위한 실시간 확장성, 비용 효율성, 및 유연성을 지원하기 위해 이전과 다른 방식으로 빌딩 시스템을 재설계했습니다. 새로운 아키텍처는 글로벌 플랫폼에서 실시간 확장성, 비용 효율성, 및 유연성을 지원합니다.
-#LinkedIn #추천 #실시간 #유연성
+설명: LinkedIn는 다양한 추천을 제공하기 위해 멤버들 곁에서 새로운 것을 더 빠르고 개인화된 방식으로 전달할 수 있도록 변화를 이루는 다양한 추론 워크플로우를 지원하기 위해 엣지 빌딩 시스템을 재설계했습니다. 새로운 아키텍처는 전역 플랫폼에서 실시간 확장성, 비용 효율성, 및 유연성을 해결하기 위해 필요한 것입니다.
+#LinkedIn #추천 #엣지 빌딩 시스템 #실시간 확장성
 
-#hashtags:
-1. #LinkedInArchitecture
-2. #RealTimeScalability
-3. #CostEfficiencyGlobalPlatform
+Translated content hashtags: #LinkedIn, #recommendations, #edge_building_system, #real-time_scalability, #cost_efficiency, #flexibility.
 
-2 번째 검색 내용
+4 번째 검색 내용
 제목: 깊은 탐색 DeepSeek v3.1 하이브리드 사유 아키텍처를 포함한 모델 발표
 [INST] Translate my sentence into Korean: [/INST]
 
@@ -20,100 +31,92 @@
 설명: DeepSeek는 대규모 언어 모델의 V3.1 버전을 출시하였습니다. 이 모델은 사고와 사고 없는 두 가지 모드를 단일 시스템에서 결합한 하이브리드 아키텍처를 소개합니다.
 #DeepSeek #대규모언어모델 #하이브리드아키텍처
 
-#hashtags: #AI #언어처리 #기술진보
+#hashtags: #AI #NLP #LanguageModel
 
-3 번째 검색 내용
+5 번째 검색 내용
 제목: 
 주소: https://www.infoq.com/news/2025/09/hugging-face-trackio/
-설명: Hugging Face는 가볍고, 투명하고 쉽게 통합할 수 있는 실험 추적을 위한 새로운 오픈소스 Python 라이브러리인 Trackio를 도입했습니다. Weights & Biases(wandb)의 대체 기능으로 구축되었으며, 기본적으로 로컬 대시보드를 제공하고 Hugging Face Spaces와 간편한 동기화와 협업을 위해  seamless syncing with Hugging Face Spaces for sharing and collaboration.
-#HuggingFace #Trackio #실험추적 #오픈소스
+설명: Hugging Face는 가벼운, 투명하고 쉽게 통합할 수 있는 새로운 열려 있는 소스 Python 라이브러리인 Trackio를 소개했습니다. Weights & Biases(wandb)의 대체 제품으로 구축되었으며, 기본적으로 로컬 대시보드를 제공하고 Hugging Face Spaces와 간편한 동기화를 위해 협력을 위한 공유를 지원합니다.
+#HuggingFace #Trackio #실험추적 #협력
 
-#hashtags: #AI #머신러닝 #데이터사이언스
+#hashtags: #HuggingFace, #Trackio, #ExperimentTracking, #Collaboration
 
-4 번째 검색 내용
+6 번째 검색 내용
 제목: 에이전트릭 AI가 보안 운영(SecOps)을 확장하여 인간의 작업량을 줄임
 
-(Note: The translation may not be perfect as the original sentence seems to combine two different concepts, "Agentic AI" and "Expands Into SecOps", which might need further clarification or context for a more accurate translation.)
+(Note: The translation may not be perfect as the original sentence seems to have a typo or error. I translated it based on my understanding of the context.)
 주소: https://www.infoq.com/news/2025/09/secops-ai/
-설명: 에이전트 AI는 마릴웨어 탐지와 더 넓은 보안 운영을 재구성하고 있습니다. 이러한 시스템은 인간을 대체하는 것이 아니라, 분석가들이 역사적으로 잠재우는 낮은 가치 작업에 사용되고 있습니다. 알림 트리어지기부터 의심스러운 파일을 역엔지니어링하는 것까지입니다.
+설명: 에이전트 AI는 마릴웨어 탐지와 더 넓은 보안 운영을 재구성하고 있습니다. 이러한 시스템은 인간을 대체하는 것이 아니라, 분석가들이 역사적으로 수행하던 낮은 가치 작업을 처리하도록 사용되고 있습니다. 이상한 파일을 逆엔지니어링하는 것부터 경고 정렬까지입니다.
 #에이전트AI #보안 #마릴웨어탐지
 
 Hashtags: #에이전트AI, #보안, #마릴웨어탐지
 
-5 번째 검색 내용
-제목: 자바 뉴스 요약: 그루비 5.0, 프로젝트 레이든, 헬리돈 MCP, JReleaser, 언치네4j, 오픈 리버티
-주소: https://www.infoq.com/news/2025/09/java-news-roundup-aug25-2025/
-설명: Java 주요 뉴스 요약: 2025년 8월 25일, Apache Groovy의 GA 출시; Project Leyden의 새로운 이전 액세스 빌드 소개; Helidon MCP 서버 소개; JReleaser, LangChain4j, Quarkus, Camel Quarkus의 포인트 릴리즈; Open Liberty의 베타 릴리즈 25.0.0.9; 그리고 Hibernate Validator 9.1.0의 첫 알파 릴리즈입니다.
-#Java #ApacheGroovy #OpenLiberty #HelidonMCP
-#인공지능 #의료 #금융 #교통
-
-6 번째 검색 내용
-제목: 노드.js 는 안마로 1.0을 발표함으로써 안정적인 TypeScript 지원에 가까워졌습니다.
-주소: https://www.infoq.com/news/2025/08/node-amaro-stable-ts-support/
-설명: 인공지능 팀은 최근에 Node.js v1.0.0을 릴리즈했습니다, TypeScript 안정적인 지원으로 이를 향한 중요한 기점입니다. Amaro는 Node의 공식 타입 스트립핑 로더이며, 공식 .ts 로딩에 도달하기 위한 주요 발전 단계입니다.
-#Node.js #TypeScript #안정적인_지원
-
-Translated sentence: The Node.js team recently released Amaro v1.0.0, a significant milestone towards stable TypeScript support. Amaro is Node’s official type-stripping loader and is a key stepping stone towards official .ts loading.
-Hashtags: #Node.js #TypeScript #안정적인_지원
-
 7 번째 검색 내용
-제목: 고급 자동 조정은 기업이 AWS 비용을 70% 줄일 수 있도록 도와줍니다.
-주소: https://www.infoq.com/news/2025/08/autoscaling-karpenter-automode/
-설명: AI : 다음 세대의 Kubernetes 자동 스케일링 기술과 도구는 조직이 클라우드 인프라에서 크게 비용을 절약할 수 있도록 허용하고 있습니다. Svetlana Burninova는 Karpenter를 사용하여 다양한 아키텍처의 EKS 클러스터를 빌드하고 비용을 70% 감소시키면서 성능도 향상시켰습니다.
-#Kubernetes #자동스케일링 #비용절약 #성능개선
+제목: 자바 뉴스 요약: 그루비 5.0, 프로젝트 레이든, 헬리도ン MCP, 제레이저, 랑체인4j, 오픈 리버티
+주소: https://www.infoq.com/news/2025/09/java-news-roundup-aug25-2025/
+설명: Java 주요 소식 요약서: 2025년 8월 25일, Apache Groovy의 GA 릴리스; Project Leyden의 새로운 이전 액세스 빌드 소개; Helidon MCP 서버 소개; JReleaser, LangChain4j, Quarkus, Camel Quarkus의 포인트 릴리스; Open Liberty 25.0.0.9의 베타 릴리스; 그리고 Hibernate Validator 9.1.0의 첫 알파 릴리스입니다.
+#Java #소프트웨어개발 #오픈소스 #빌드도구
 
-Hashtags: #Kubernetes, #자동스케일링, #비용절약, #성능개선
+#hashtags: #JavaDevelopment #OpenSourceProjects #BuildTools
 
 8 번째 검색 내용
-제목: IBM과 NASA가 헬리오파이지스 기초 모델을 처음으로 교육한 것입니다.
-주소: https://www.infoq.com/news/2025/08/surya-model-heliophysics/
-설명: Surya는 IBM과 NASA가 만든 366M 파라미터 모델로, 태양 활동을 예측하며, 펫널 이벤트, 태양 바람, 태양 폭발의 전제 조건 등을 포함합니다. 이는 우주에서 인간 안전에 큰 영향을 미칠 수 있으며, 통신, 전력 배포 및 기타 많은 시스템과 관련이 있습니다.
-#태양 #우주안전성 #통신시스템
-
-Translated content: Surya is a 366M-parameter model created by IBM and NASA to forecast solar activity, including flare events, solar winds, and precursors to solar eruptions, which can significantly impact astronaut safety in space as well as terrestrial systems such as communications, power distribution, and more.
-#hashtags: #태양 #우주안전성 #통신시스템
+제목: 노드.제스의 안모로 1.0으로 안모 1.0에 안정적인 타입스크립트 지원이 진행됩니다.
+주소: https://www.infoq.com/news/2025/08/node-amaro-stable-ts-support/
+설명: 인공지능 팀은 최근에 Node.js v1.0.0을 릴리즈했습니다, TypeScript 안정적인 지원으로 이루어진 중요한 기점입니다. Amaro는 Node.js의 공식 타입 스트립핑 로더이며, 공식 .ts 로딩으로 이
 
 9 번째 검색 내용
-제목: [INST] 깃랩은 공개 베타에서 두 오징어 에이전트 플랫폼 발표, 에이전트 주도 개발-보안-운영(DevSecOps) 소개합니다. [/INST]
+제목: 고급 자동 조정은 회사가 AWS 비용을 70% 줄일 수 있도록 도와줍니다.
+주소: https://www.infoq.com/news/2025/08/autoscaling-karpenter-automode/
+설명: AI : 다음 세대의 Kubernetes 자동 스케일링 기술과 도구는 조직이 클라우드 인프라에서 크게 비용을 절약할 수 있도록 허용하고 있습니다. Svetlana Burninova는 Karpenter를 사용하여 다양한 아키텍처의 EKS 클러스터를 구축하고 비용을 70% 감소시키면서도 성능을 향상시켰습니다.
+#Kubernetes #자동스케일링 #비용절약 #성능향상
+
+Hashtags: #Kubernetes, #자동스케일링, #비용절약, #성능향상
+
+10 번째 검색 내용
+제목: IBM과 NASA가 헬리오파이지스 기초 모델을 처음으로 교육한 것입니다.
+주소: https://www.infoq.com/news/2025/08/surya-model-heliophysics/
+설명: Surya는 IBM과 NASA가 만든 366M 매개변수의 모델로, 태양 활동을 예측하며, 펫널 이벤트, 태양 바람, 태양 폭발 전제조건과 같은 것들을 포함합니다. 이는 우주에서의 안전성과 지상 시스템에 영향을 미칠 수 있는 커뮤니케이션, 전력 배포 등을 포함한 것입니다.
+#태양 #우주안전성 #통신 #전력
+
+Translated sentence: Surya is a 366M-parameter model created by IBM and NASA to forecast solar activity, including flare events, solar winds, and precursors to solar eruptions, which can significantly impact astronaut safety in space as well as terrestrial systems such as communications, power distribution, and more.
+and Provide - #hashtags. Add 3 hashtags related to the translated content.
+
+11 번째 검색 내용
+제목: [INST] 기타랩은 공개 베타에서 두오 에이전트 플랫폼 공개, 에이전트 주도 데브세크악 소개합니다. [/INST]
 주소: https://www.infoq.com/news/2025/08/gitlab-duo-agent-platform/
 설명: GitLab은 GitLab Duo Agent Platform, 개발자들이 DevSecOps 생명주기를 통해 AI 에이전트와 비동기적으로 협력할 수 있는 오케스트레이션 도구입니다. 공개 베타 버전을 출시했습니다.
 #GitLab #DuoAgentPlatform #DevSecOps #AI #오케스트레이션도구
 
 #hashtags: #GitLab, #DuoAgentPlatform, #DevSecOps
 
-10 번째 검색 내용
-제목: 포고캐시: 낮은 지연 시간과 다양한 와이어 프로토콜을 지원하는 Open Source 캐싱 소프트웨어
+12 번째 검색 내용
+제목: 포고캐시: 낮은 지연 시간과 다양한 와이어 프로토콜을 지원하는 오픈 소스 캐싱 소프트웨어
 주소: https://www.infoq.com/news/2025/08/pogocache-caching/
 설명: 인공지능은 세계를 변화시키고 있습니다. 이것은 의료, 금융, 교통과 같은 다양한 분야에 응용되고 있습니다.
 #인공지능 #의료 #금융 #교통
 
-새로운 오픈소스 캐시 소프트웨어, Pogocache, 최근 1.0 일반 사용 가능성을 달성하였습니다. Pogocache는 낮은 지연 시간과 CPU 효율성에 집중하고 있으며, 기타 오픈 소스 캐시 대안보다 더 좋은 처리량과 낮은 지연 시간을 주장합니다.
+새로운 오픈소스 캐시 소프트웨어, Pogocache, 1.0 일반 사용 가능성에 도달했습니다. Pogocache는 낮은 지연 시간과 CPU 효율성을 중점으로 집중하고 있으며, 기타 오픈 소스 캐시 대안보다 더 좋은 처리량과 낮은 지연 시간을 주장합니다.
 #오픈소스 #캐시 #지연시간 #CPU효율성
 
-11 번째 검색 내용
-제목: TanStack DB는 반응형 쿼리, 최적화된 변경 사항, 로컬 우선 동기화를 포함한 Beta에 입장합니다.
+13 번째 검색 내용
+제목: 탄스택 DB 베타에 입장하며 리액티브 쿼리, 최적화된 변경 사항, 로컬 우선 동기화가 추가되었습니다.
 주소: https://www.infoq.com/news/2025/08/tanstack-db-beta/
 설명: 인공지능은 세계를 변화시키고 있습니다. 이것은 의료, 금융, 교통과 같은 다양한 분야에 응용되고 있습니다.
 #인공지능 #의료 #금융 #교통
 
 소개하는 TanStack DB: 앞장에 끼워진 임베디드 클라이언트 사이드 데이터베이스로, 프론트엔드 개발을 혁신시키고 있습니다. 실시간 쿼리, 타입화된 컬렉션, 최적화된 변경 등의 기능으로 TanStack DB는 상태 관리를 간소화하며 광속 업데이트를 보장합니다. 오픈소스, 베타 버전의 TanStack Query 응용 프로그램에 쉽게 통합할 수 있습니다.
-#TanStackDB #프론트엔드개발 #상태관리 #데이터베이스
+#TanStackDB #데이터베이스 #프론트엔드_개발 #상태_관리
+#TanStackDB #데이터베이스 #프론트엔드_개발 #상태_관리
 
-12 번째 검색 내용
-제목: 우버잇스는 식당에서 상점까지의 카탈로그 관리를 확장하기 위해 INCA를 소개합니다.
+14 번째 검색 내용
+제목: 우버잇스는 식당부터 상점까지의 카탈로그 관리를 확장하기 위해 INCA를 소개합니다.
 주소: https://www.infoq.com/news/2025/08/ubereats-inca-inventory-catalog/
-설명: Uber Eats는 대규모 제품 카탈로그를 처리하기 위한 확장성 있는 시스템인 INCA(Inventory and Catalog)를 소개했습니다. 이전에 낮은 SKU와 간단한 통과 데이터를 지원하도록 설계된 레스토랑 중심의 설정보다 큼직막 인벤토리, 부가 데이터, 및 규제 요구 사항을 지원하는 대상 시장 운영에 필수적인 메타데이터를 지원하는 것과 다르게 설계되었습니다.
-#인벤토리 #메타데이터 #규제요구사항
+설명: Uber Eats는 대규모 제품 카탈로그를 처리하기 위한 확장성 있는 시스템인 INCA(Inventory and Catalog)를 소개했습니다. 이전에 낮은 SKU와 간단한 통과 데이터를 지원하도록 설계된 레스토랑 중심의 설정보다 큼직막 인벤토리, 부가 데이터, 및 규제 요구 사항을 지원하는 대상 기업 운영에 필수적인 많은 메타데이터를 지원합니다.
+#인벤토리 #메타데이터 #규제 요구 사항
 
-#hashtags: #인벤토리관리시스템 #메타데이터처리 #규제준수정
+Hashtags: #인벤토리, #메타데이터, #규제_요구_사항
 
-Translated sentence: Uber Eats introduced INCA (Inventory and Catalog), a scalable system to handle vast product catalogs from supermarkets, pharmacies, and retail partners. Unlike the earlier restaurant-focused setup built for low SKUs and simple pass-through data, INCA supports large-scale inventories, rich metadata, and compliance needs essential for retail operations.
-#hashtags: #인벤토리관리시스템 #메타데이터처리 #규제준수INCLUDING
-
-Translated sentence: Uber Eats has introduced a scalable system called INCA (Inventory and Catalog) to handle vast product catalogs from supermarkets, pharmacies, and retail partners. Unlike the earlier restaurant-focused setup built for low SKUs and simple pass-through data, INCA supports large-scale inventories, rich metadata, and compliance needs essential for retail operations.
-#hashtags: #인벤토리관리시스템 #메타데이터처리 #규제준수INCLUDING
-
-13 번째 검색 내용
+15 번째 검색 내용
 제목: 에어비엔비가 대규모 스케일로 이스티오 업그레이드 실행
 [INST] Translate my sentence into Korean:
 
@@ -121,30 +124,7 @@ Airbnb executes Istio upgrades at massive scale.
 [/INST]
 주소: https://www.infoq.com/news/2025/08/airbnb-istio-upgrade/
 설명: Airbnb 엔지니어링은 Istio 업그레이드를 수행하면서 수십만 개의 팟과 수천 대의 VM에서 고가용성을 유지하는 자세한 내용을 발표했습니다. 이 모든 것은 중단 없이 이루어졌습니다.
-#Airbnb #엔지니어링 #Istio #고가용성
+#Airbnb #엔지니어링 #고가용성 #Istio
 
-#hashtags: #Airbnb, #엔지니어링, #Istio, #고가용성
-
-14 번째 검색 내용
-제목: AWS가 사용자 정의 Intel Xeon 6 프로세서를 탑재한 Memory 최적화 EC2 R8i와 R8i-flex 인스턴스 출시
-
-(Note: The translation may not be perfect as it is a technical term. Please verify the accuracy if needed.)
-주소: https://www.infoq.com/news/2025/08/ec2-r8i-intel-xeon-six/
-설명: AWS는 인텔 엑스언 6 프로세서를 사용한 8세대 Amazon EC2 R8i와 R8i-flex 인스턴스를 출시했습니다. 메모리 집중 작업에 적합한 이러한 인스턴스는 15%의 가격 성능 향상과 향상된 메모리 통틀림을 제공하며, 실시간 데이터 처리와 AI 응용 프로그램에 적합합니다.
-#AWS #AmazonEC2 #AI #인텔엑스언6 #메모리집중작업
-
-#hashtags: #AWS #AmazonEC2 #AI #인텔엑스언6 #메모리집중작업
-
-15 번째 검색 내용
-제목: QCon의 효과적인 학습 경험을 만드는데 대한 AI 주도 접근 방식
-
-(Note: The translation may not be perfect as it is a machine translation. Please review and make necessary adjustments if needed.)
-주소: https://www.infoq.com/news/2025/08/AI-learning-experiences-QCon/
-설명: An experiment was created around a certification program influenced by AI at QCon London, which included special events during the conference, a pre-conference breakfast where participants could learn about upcoming activities, and an AI-driven workshop immediately following the conference. Wes Reisz spoke at InfoQ Dev Summit Boston about a program he led using AI.
-                     #인공지능 #QConLondon #서머캠프
-
-#hashtags: 
-1. #인공지능 (AI)
-2. #QConLondon (QCon London)
-3. #서머캠프 (Summer Camp)
+#hashtags: #Airbnb, #엔지니어링, #고가용성, #Istio
 
