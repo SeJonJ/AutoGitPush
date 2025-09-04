@@ -1,98 +1,91 @@
 1 번째 검색 내용
 제목: InfoQ Dev Summit 맥스홀 2025: '어떻게'를 마스터하기 위해 깊이 분석, 실무자가 주도한 지침
 
-(Note: The original sentence seems to be a title or heading for an event. In this case, I translated it into Korean while maintaining the structure and meaning as closely as possible.)
+(Note: The original text seems to be a mix of English and Korean characters. I have translated the English part into Korean.)
 주소: https://www.infoq.com/news/2025/09/ids-munich-2025-talks/
 설명: 인포큐 개발 슬롯몰리 문헌(10월 15일-16일)에서는 복잡한 시스템을 구축하는 고급 엔지니어들의 직접적인 교육을 받아보세요. 이 전문가 주도 컨퍼런스에서는 소프트웨어 리더쉽 Allianz, Skyscanner, Zalando, Delivery Hero와 같은 실제 구현 패턴의 깊이 있는 분석을 제공합니다.
 
 #인포큐 #개발슬롯몰리 #소프트웨어리더 #실제구현패턴
 
-#hashtags: #소프트웨어엔지니어링 #기술컨퍼런스 #인포큐_개발슬롯몰리_문헌
-
 2 번째 검색 내용
-제목: 앤지콘 이크스(Amazon Elastic Kubernetes Service)는 클러스터당 100,000 노드를 지원하여 초대형 AI/ML 워크로드를 실행할 수 있도록 합니다.
+제목: 앤지콘 이크스는 클러스터당 10만 노드를 지원하여 초대형 AI/ML 작업을 실행할 수 있도록 허용합니다.
 주소: https://www.infoq.com/news/2025/09/aws-eks-kubernetes-ultrascale/
-설명: Amazon Web Services는 Amazon Elastic Kubernetes Service(EKS)가 이제 100,000 노드를 지원하여 클러스터에서 10배 증가한 중요한 혁신을 발표했습니다.
-#AWS #EKS #컨테이너_오리진레이션
-
-Translated sentence: Amazon Web Services has announced a significant breakthrough in container orchestration with Amazon Elastic Kubernetes Service (EKS) now supporting clusters with up to 100,000 nodes, a 10x increase from previous limits.
-and Provide - #hashtags. Add 3 hashtags related to the translated content.
+설명: Amazon Web Services는 Amazon Elastic Kubernetes Service(EKS)가 이제 100,000 노드를 지원하는 컨테이너 오케스트레이션의 중요한 발전을 발표했습니다. 이것은 이전 제한과 10배 증가합니다.
+#AWS #EKS #컨테이너_오케스트레이션
 
 3 번째 검색 내용
-제목: 구글이 고급 편집 기능과 일관성 기능을 포함한 2.5 플래시 이미지인 Gemini 2.5를 출시합니다.
+제목: 구글이 고급 편집 기능과 일관성 기능을 포함한 Gemini 2.5 플래시 이미지를 출시합니다.
 주소: https://www.infoq.com/news/2025/09/gemini-flash-image/
-설명: Google는 최신 이미지 생성 및 편집 모델인 Gemini 2.5 Flash Image(닉네임: nano-banana)를 발표했습니다. 시스템은 이전 Flash 모델에 비해 여러 개선 사항을 소개하며, 프롬프트에서의 문자 일관성, 다양한 이미지 融合, 정확한 프롬프트 기반 편집, 세манти적 이해를 위한 세계 지식 통합과 같은 기능을 포함합니다.
-#인공지능 #이미지처리 #Gemini2.5FlashImage
+설명: AI : Google는 최신 이미지 생성 및 편집 모델인 Gemini 2.5 Flash Image(닉네임 나노바나나)를 발표했습니다. 시스템은 이전 Flash 모델에 비해 여러 개선 사항을 소개하며, 프롬프트에서의 문자 일관성, 다양한 이미지 融合, 정확한 프롬프트 기반 편집, 세계 지식 통합을 위한 의미 이해를 포함합니다.
+#Gemini2.5FlashImage #GoogleAI #이미지생성및편집모델
 
-Translated sentence: Google released Gemini 2.5 Flash Image (nicknamed nano-banana), its newest image generation and editing model. The system introduces several upgrades over earlier Flash models, including character consistency across prompts, multi-image fusion, precise prompt-based editing, and integration of world knowledge for semantic understanding.
-#인공지능 #이미지처리 #Gemini2.5FlashImage
-
-Hashtags: #인공지능, #이미지처리, #Gemini2.5FlashImage
+Hashtags: #Gemini2.5FlashImage, #GoogleAI, #이미지생성및편집모델
 
 4 번째 검색 내용
-제목: 링크드인 재설계: 다양한 추론 워크플로우를 지원하기 위해 엣지 빌딩 시스템 리펙리팅
-
-(Note: The translation may not be perfect as it involves technical terms and specific company names. However, the general meaning is conveyed.)
+제목: 링크드인 재설계: 다양한 추론 워크플로우를 지원하기 위해 엣지 빌딩 시스템 리펙리징
+[INST] LinkedIn Re-Architects Edge-Building System to Support Diverse Inference Workflows
 주소: https://www.infoq.com/news/2025/09/linkedin-edge-recommendations/
-설명: LinkedIn는 다양한 추천을 제공하기 위해 멤버들 곁에서 새로운 내용을 전달하는데 도움이 되는 실시간 확장성, 비용 효율성, 유연성을 지원하기 위한 새로운 아키텍처를 개발했습니다.
-#인공지능 #추천 #LinkedIn #빅데이터
+설명: LinkedIn는 다양한 추천을 제공하기 위해 멤버들 곁에서 새로운 것을 제공하고자 엣지 빌딩 시스템을 재설계했습니다. 이 변화는 실시간 확장성, 비용 효율성, 및 글로벌 플랫폼에서의 유연성을 지원하기 위해 필요되었습니다.
+#LinkedIn #추천 #엣지 빌딩 시스템 #실시간 확장성
 
-Translated sentence: LinkedIn has developed a new architecture to support real-time scalability, cost efficiency, and flexibility in order to provide fresh and personalized recommendations to members worldwide using artificial intelligence and big data.
-#인공지능 #추천 #LinkedIn #빅데이터
+Translated sentence: LinkedIn has re-architected its edge-building system, an evolution designed to support diverse inference workflows for delivering fresher and more personalized recommendations to members worldwide. The new architecture addresses growing demands for real-time scalability, cost efficiency, and flexibility across its global platform.
+
+#hashtags: #LinkedIn #Recommendations #EdgeBuildingSystem #RealTimeScalability
 
 5 번째 검색 내용
 제목: 깊은 탐색 DeepSeek v3.1 하이브리드 사유 아키텍처를 포함한 모델 발표
-[INST] Translate my sentence into Korean: [/INST]
-
-깊은 탐색 DeepSeek v3.1 하이브리드 사유 아키텍처를 포함한 모델 발표
+[INST] Translate my sentence into Korean : 
+                            DeepSeek Releases v3.1 Model with Hybrid Reasoning Architecture
+                         [/INST]
 주소: https://www.infoq.com/news/2025/09/deepseek-v31-hybrid/
-설명: DeepSeek는 대규모 언어 모델의 V3.1 버전을 발표했습니다. 이 모델은 사고와 사고가 아닌 두 가지 모드를 단일 시스템에서 결합한 하이브리드 아키텍처를 소개했습니다.
-#DeepSeek #대규모언어모델 #사고와사고가아닌 #하이브리드아키텍처
+설명: DeepSeek는 대규모 언어 모델의 V3.1 버전을 출시하였습니다. 이 모델은 사고와 사고 없는 두 가지 모드를 단일 시스템에서 결합한 하이브리드 아키텍처를 소개합니다.
+#DeepSeek #대규모언어모델 #하이브리드아키텍처
 
-#hashtags: #AI #인공지능 #언어처리
+#hashtags: #AI #NLP #LanguageModel
 
 6 번째 검색 내용
 제목: 
 주소: https://www.infoq.com/news/2025/09/hugging-face-trackio/
-설명: Hugging Face는 가벼운, 투명한 및 쉽게 통합할 수 있는 새로운 열려 있는 소스 Python 라이브러리인 Trackio를 도입했습니다. Weights & Biases(wandb)의 대체 기능으로 구축되었으며, 기본적으로 로컬 대시보드를 제공하고 Hugging Face Spaces와 간편한 동기화를 위해 협력을 위한 공유를 지원합니다.
-#HuggingFace #Trackio #실험추적 #협력
+설명: Hugging Face는 가볍고, 투명하고 쉽게 통합할 수 있는 실험 추적을 위한 새로운 오픈소스 Python 라이브러리인 Trackio를 도입했습니다. Weights & Biases(wandb)의 대체 기능으로 구축되었으며, 기본적으로 로컬 대시보드를 제공하고 Hugging Face Spaces와 간편한 동기화와 협력을 위해 공유할 수 있습니다.
+#HuggingFace #Trackio #실험추적 #오픈소스
 
-#hashtags: #HuggingFace, #Trackio, #Realtime_Experiment_Tracking, #Collaboration
+#hashtags: #HuggingFace, #Trackio, #Realtime_Experiment_Tracking
 
 7 번째 검색 내용
-제목: 에이전트릭 AI가 보안 운영(SecOps)을 확장하여 인간의 작업량을 줄이기 위해 활동 시작
+제목: 에이전트릭 AI가 보안 운영(SecOps)을 확장하여 인간의 작업량을 줄임
 
-(Note: The translation may not be perfect as the original sentence seems to combine two different concepts, "Agentic AI" and "Expands into SecOps", which might need some adjustment in Korean.)
+(Note: The translation may not be perfect as the original sentence seems to combine two different concepts, "Agentic AI" and "Expands into SecOps", which might need more context for a perfect translation.)
 주소: https://www.infoq.com/news/2025/09/secops-ai/
-설명: 에이전트 AI는 마릴웨어 탐지 및 보안 운영를 변화시키고 있습니다. 이러한 시스템은 사람을 대체하는 것이 아니라, 분석가의 시간을 차지한 역사적으로 낮은 가치 작업에 사용되고 있습니다. 경고 정리부터 희생된 파일을 역엔진 분석하는 것까지입니다.
+설명: 에이전트 AI는 마릴웨어 탐지 및 보안 운영를 변화시키고 있습니다. 이러한 시스템은 인간을 대체하는 것이 아니라, 분석가의 주요 작업을 차지하고 있던 낮은 가치 작업에 사용되고 있습니다. 경고 정리부터 희생된 파일의 역엔진 분석까지.
 #에이전트AI #보안 #마릴웨어탐지
 
 Translated sentence: Agentic AI is beginning to reshape malware detection and broader security operations. These systems are being used not to replace humans, but to take on the lower value jobs that have historically tied up analysts — from triaging alerts to reverse-engineering suspicious files.
 #hashtags: #에이전트AI #보안 #마릴웨어탐지
 
 8 번째 검색 내용
-제목: 자바 뉴스 요약: 그루비 5.0, 프로젝트 레이든, 헬리돈 MCP, JReleaser, 언치앤챠인4j, 오픈 리버티
+제목: 자바 뉴스 요약: 그루비 5.0, 프로젝트 레이든, 헬리도널 MCP, JReleaser, 언치앤챠인4j, 오픈 리버티
 
-(Note: The translation may not be perfect as it is a direct translation of the given text. Korean grammar and sentence structure may need to be adjusted for natural-sounding Korean.)
+(Note: The translation may not be perfect as it is a direct translation of the given text. Please review and make any necessary adjustments.)
 주소: https://www.infoq.com/news/2025/09/java-news-roundup-aug25-2025/
-설명: Korean Translation: 이번 주의 Java 뉴스 요약은 8월 25일, 2025년에 발표된 Apache Groovy의 GA 릴리즈; Project Leyden의 새로운 초기 액세스 빌드; Helidon MCP 서버 소개; JReleaser, LangChain4j, Quarkus, Camel Quarkus의 포인트 릴리즈; Open Liberty 25.0.0.9의 베타 릴리즈; 그리고 Hibernate Validator 9.1.0의 첫 알파 릴리즈를 포함합니다.
-#Java #RN_2025 #JavaNews #JavaDevelopment
+설명: Java 주요 뉴스 요약: 2025년 8월 25일, Apache Groovy의 GA 출시; Project Leyden의 새로운 이전 액세스 빌드 소개; Helidon MCP 서버 소개; JReleaser, LangChain4j, Quarkus, Camel Quarkus의 포인트 릴리즈; Open Liberty 25.0.0.9의 베타 릴리즈; 그리고 Hibernate Validator 9.1.0의 첫 알파 릴리즈입니다.
+#Java #JVM #오픈소스 #프로그래밍_언어
 
-Hashtags: #Java #RN_2025 #JavaNews #JavaDevelopment
+#hashtags: #Java #JVM #오픈소스 #프로그래밍_언어
 
 9 번째 검색 내용
-제목: 노드.제스의 안모로 1.0으로 안모 1.0에 안정적인 타입스크립트 지원이 진행됩니다.
+제목: 노드.js가 안마로 1.0으로 안정적인 TypeScript 지원에 다가갔습니다.
 주소: https://www.infoq.com/news/2025/08/node-amaro-stable-ts-support/
-설명: 인공지능 팀은 최근에 Node.js v1.0.0을 릴리즈했습니다, TypeScript 안정성 지원의 중요한 발전 단계입니다. Amaro는 Node.js의 공식적인 타입 제거 로더이며, 공식 .ts 로딩으로의 주요 스텝 스톤입니다.
-#Node.js #TypeScript #안정성_지원
+설명: 인공지능 팀은 최근에 Node.js의 Amaro v1.0.0을 릴리스했습니다. 이는 안정적인 TypeScript 지원으로 이어질 중요한 기점입니다. Amaro는 Node.js의 공식 타입 제거 로더이며, .ts 로딩에 대한 공식 스텝이 되는 키 스테핑 스톤입니다.
+#Node.js #TypeScript #안정적인_지원
 
 Translated sentence: The Node.js team recently released Amaro v1.0.0, a significant milestone towards stable TypeScript support. Amaro is Node’s official type-stripping loader and is a key stepping stone towards official .ts loading.
-Hashtags: #Node.js #TypeScript #안정성_지원
+and Provide - #hashtags. Add 3 hashtags related to the translated content:
+#Node.js #TypeScript #안정적인_지원
 
 10 번째 검색 내용
 제목: 고급 자동 조정은 기업이 AWS 비용을 70% 줄일 수 있도록 도와줍니다.
 주소: https://www.infoq.com/news/2025/08/autoscaling-karpenter-automode/
-설명: AI : 다음 세대의 Kubernetes 자동 스케일링 기술과 도구는 조직들이 클라우드 인프라에서 크게 비용을 절약할 수 있도록 허용하고 있습니다. Svetlana Burninova는 Karpenter를 사용하여 다양한 아키텍처의 EKS 클러스터를 빌드하고 비용을 70% 감소시키면서도 성능을 향상시켰습니다.
+설명: AI : 다음 세대의 Kubernetes 자동 스케일링 기술과 도구는 조직이 클라우드 인프라에서 크게 비용을 절약할 수 있도록 허용하고 있습니다. Svetlana Burninova는 Karpenter를 사용하여 다중 아키텍처 EKS 클러스터를 구축하고 비용을 70% 감소시키면서 성능도 향상시켰습니다.
 #Kubernetes #자동스케일링 #비용절약 #성능향상
 
 Hashtags: #Kubernetes, #자동스케일링, #비용절약, #성능향상
@@ -100,7 +93,7 @@ Hashtags: #Kubernetes, #자동스케일링, #비용절약, #성능향상
 11 번째 검색 내용
 제목: IBM과 NASA가 헬리오파이지스 기초 모델을 처음으로 교육한 것입니다.
 주소: https://www.infoq.com/news/2025/08/surya-model-heliophysics/
-설명: Surya는 IBM과 NASA가 만든 366M 매개변수의 모델로, 태양 활동을 예측하며, 펫널 이벤트, 태양 바람, 태양 폭발의 전제 조건과 같은 것들을 포함합니다. 이는 우주에서 사람들의 안전에 큰 영향을 줄 수 있으며, 통신, 전력 배포 및 기타 시스템과 같은 지상 시스템에도 영향을 미칩니다.
+설명: Surya는 IBM과 NASA가 만든 366M 파라미터 모델로, 태양 활동을 예측하며, 펫널 이벤트, 태양 바람, 태양 폭발의 전제 조건 등을 포함합니다. 이는 우주에서 인간 안전에 큰 영향을 미칠 수 있으며, 통신, 전력 배포 및 기타 많은 시스템과 관련이 있습니다.
 #태양 #우주안전성 #통신시스템
 
 Translated content: Surya is a 366M-parameter model created by IBM and NASA to forecast solar activity, including flare events, solar winds, and precursors to solar eruptions, which can significantly impact astronaut safety in space as well as terrestrial systems such as communications, power distribution, and more.
@@ -110,36 +103,33 @@ Translated content: Surya is a 366M-parameter model created by IBM and NASA to f
 제목: [INST] 깃랩은 공개 베타에서 두오 에이전트 플랫폼 발표, 에이전트 주도 개발-보안-운영(DevSecOps) 소개합니다. [/INST]
 주소: https://www.infoq.com/news/2025/08/gitlab-duo-agent-platform/
 설명: GitLab은 GitLab Duo Agent Platform, 개발자들이 DevSecOps 생명주기를 통해 AI 에이전트와 비동기적으로 협력할 수 있는 오케스트레이션 도구입니다. 공개 베타 버전을 출시했습니다.
-#GitLab #DevSecOps #AI에이전트 #오케스트레이션도구
+#GitLab #DevSecOps #AI #오케스트레이션도구
 
-#hashtags: #GitLab, #DevSecOps, #AI에이전트, #오케스트레이션도구
+#hashtags: #GitLab, #DevSecOps, #AI, #오케스트레이션도구
 
 13 번째 검색 내용
-제목: 포고캐시: 낮은 지연 시간과 다양한 와이어 프로토콜을 지원하는 Open Source 캐싱 소프트웨어
+제목: 포고캐시: 낮은 지연 시간과 다양한 와이어 프로토콜을 지원하는 오픈 소스 캐싱 소프트웨어
 주소: https://www.infoq.com/news/2025/08/pogocache-caching/
 설명: 인공지능은 세계를 변화시키고 있습니다. 이것은 의료, 금융, 교통과 같은 다양한 분야에 응용되고 있습니다.
 #인공지능 #의료 #금융 #교통
 
-새로운 오픈소스 캐시 소프트웨어, Pogocache, 1.0 일반 사용 가능성을 달성하였습니다. Pogocache는 낮은 지연 시간과 CPU 효율성에 집중하고 있으며, 다른 오픈소스 캐시 대안보다 더 좋은 처리량과 낮은 지연 시간을 주장합니다.
+새로운 오픈소스 캐시 소프트웨어, Pogocache, 최근 1.0 일반 사용 가능성을 달성하였습니다. Pogocache는 낮은 지연 시간과 CPU 효율성에 집중하고 있으며, 다른 오픈 소스 캐시 대안보다 더 좋은 처리량과 낮은 지연 시간을 주장합니다.
 #오픈소스 #캐시 #지연시간 #CPU효율성
 
 14 번째 검색 내용
-제목: 탄스택 DB 베타에 입장하며 리액티브 쿼리, 최적화된 변경 사항, 로컬 우선 동기화가 추가되었습니다.
+제목: TanStack DB는 반응형 쿼리, 최적화된 변경 사항, 로컬 우선 동기화를 포함한 Beta에 입장합니다.
 주소: https://www.infoq.com/news/2025/08/tanstack-db-beta/
 설명: 인공지능은 세계를 변화시키고 있습니다. 이것은 의료, 금융, 교통과 같은 다양한 분야에 응용되고 있습니다.
 #인공지능 #의료 #금융 #교통
 
-소개하는 TanStack DB: 앞장에 끼워진 임베디드 클라이언트 사이드 데이터베이스로, 프론트엔드 개발을 혁명시키고 있습니다. 실시간 쿼리, 타입화된 컬렉션, 최적화된 변경 등과 같은 기능으로 TanStack DB는 상태 관리를 간소화하고 광속의 업데이트를 보장합니다. 오픈소스, 베타 형식에서 기존 TanStack Query 응용 프로그램과 쉽게 통합할 수 있습니다.
-#TanStackDB #프론트엔드개발 #상태관리 #데이터베이스
+소개하는 TanStack DB: 클라이언트 사이드 임베디드 데이터베이스로, 프론트엔드 개발을 혁신시키고 있습니다. 실시간 쿼리, 타입화된 컬렉션, 최적화된 변경 등의 기능으로 상태 관리를 간소화하여 광속 업데이트를 보장합니다. 오픈 소스, 베타 형식의 TanStack Query 응용 프로그램에 쉽게 통합할 수 있습니다.
+#TanStackDB #클라이언트사이드데이터베이스 #상태관리 #광속업데이트
 
 15 번째 검색 내용
-제목: 우버잇스는 식당에서 상점까지의 카탈로그 관리를 확장하기 위해 INCA를 소개합니다.
+제목: 우버잇스는 식당부터 상점까지의 카탈로그 관리를 확장하기 위해 INCA를 소개합니다.
 주소: https://www.infoq.com/news/2025/08/ubereats-inca-inventory-catalog/
-설명: Uber Eats는 대규모 제품 카탈로그를 처리하기 위한 확장성 있는 시스템인 INCA(Inventory and Catalog)를 소개했습니다. 이전에 낮은 SKU와 간단한 통과 데이터를 지원하도록 설계된 레스토랑 중심의 설정보다 큼직막 인벤토리, 부가 데이터, 및 규제 요구 사항을 지원하는 대상 기업 운영에 필수적인 많은 메타데이터를 지원합니다.
-#인벤토리 #메타데이터 #규제 준수
+설명: Uber Eats는 대규모 제품 카탈로그를 처리하기 위한 확장성 있는 시스템인 INCA(Inventory and Catalog)를 소개했습니다. 이전에 낮은 SKU와 간단한 통과 데이터를 지원하도록 설계된 레스토랑 중심의 설정보다 큼직막 인벤토리, 부가 데이터, 및 규제 요구 사항을 지원하는 대상 기업 운영에 필수적인 메타데이터를 지원하는 것과 같은 다양한 분야에서 응용되고 있습니다.
+#인공지능 #UberEats #INCA
 
-Hashtags:
-1. #인벤토리
-2. #메타데이터
-3. #규제 준수
+Translated content hashtags: #인공지능, #UberEats, #INCA
 
