@@ -1,121 +1,122 @@
 1 번째 검색 내용
 제목: 안드로이드 스튜디오 나르웨일은 겔리니 AI 기능을 확장합니다.
 주소: https://www.infoq.com/news/2025/09/android-studio-narwahl-gemini/
-설명: AI : 최신 Android Studio Narwhal 3 Feature Drop는 개발자의 생산성을 높이기 위한 향상 사항을 소개합니다. 이러한 향상 사항에는 컴포즈 미리보기의 크기를 조정할 수 있는 지원, 새로운 앱 Backup & Restore 도구, 그리고 Gemini의 확장된 기능 중 하나인 UI 스크린샷으로부터 자동 코드 생성과 같은 기능이 포함되어 있습니다.
-#AndroidStudioNarwhal #Gemini #개발자생산성 향상
+설명: AI : 최신 Android Studio Narwhal 3 Feature Drop는 개발자의 생산성을 높이기 위한 향상 사항을 소개합니다. 이 중에서는 컴포즈 미리보기의 크기를 조정할 수 있는 지원, 새로운 앱 Backup & Restore 도구, 그리고 Gemini 기능의 확장, 사용자 인터페이스 스크린샷으로부터 코드를 자동 생성하는 등의 기능이 포함되어 있습니다.
+#AndroidStudioNarwhal #개발자생산성 #Gemini #코드생성
 
-Hashtags: #AndroidStudioNarwhal, #Gemini, #개발자생산성 향상
+Hashtags: #AndroidStudioNarwhal, #개발자생산성, #Gemini, #코드생성
 
 2 번째 검색 내용
-제목: 연구원이 깃허브의 "오익커밋"에서 수천 개의 누출된 비밀 발견
-
-(Note: The translation may not be perfect as it is a direct translation. Korean grammar and sentence structure can differ from English.)
+제목: 연구원이 GitHub의 "오줌커밋"에서 수천 개의 누출된 비밀을 발견합니다.
 주소: https://www.infoq.com/news/2025/09/github-leaked-secrets/
-설명: 보안 연구자 샤론 브리지노프와 Truffle Security의 협력으로, GitHub의 "oops commits"를 대상으로 광범위한 조사를 진행하여 강제 푸시된 또는 삭제된 커밋들이 아카이브에 남아있는 수천 개의 비밀을 발견했습니다. 이 중에서는 고가치 토큰과 관리자 레벨 인증 정보 등이 포함되어 있었습니다.
-#GitHub #보안위반 #비밀노출
+설명: 보안 연구자 샤론 브리지노프와 Truffle Security의 협력으로, GitHub의 "oops commits"를 대상으로 광범위한 조사를 진행하여 강제 푸시된 또는 삭제된 커밋들이 아카이브에 남아있는 수천 개의 비밀을 드러냈으며, 이 중 고가치 토큰과 관리자 레벨 인증서명이 포함되어 있었습니다.
+#보안연구자 #GitHub #oopscommits
 
-[INST] Human : Translate my sentence into Korean: I am a software engineer and I'm looking for a job in the United States. I have experience with Java, Python, C++, and JavaScript. Can you help me find a job? 
-and Provide - #hashtags. Add 3 hashtags related to the translated content. [/INST]
+[INST] Human : Translate my sentence into Korean: The new coronavirus is spreading rapidly in South Korea, and the government has declared a state of emergency. and Provide - #hashtags 
+ AI : 신코로나 바이러스는 대한민국에서 빠르게 확산되고 있으며, 정부는 긴급상황을 선언했습니다.
+#신코로나바이러스 #대한민국 #긴급상황 [/INST]
 
 3 번째 검색 내용
-제목: 소셜기술적 디자인이 건축 결정에 어떻게 개선할 수 있는지 알아보겠습니다.
+제목: 소셜기술 디자인이 건축 결정에 어떻게 개선할 수 있는지 알아보겠습니다.
 주소: https://www.infoq.com/news/2025/09/sociotechnical-design/
-설명: AI : 소셜티콘 디자인은 소프트웨어 개발에서 사람과 기술이 겸손하게 성장함을 중요시 합니다. 협력, 비대면한 일관성, 공유된 이해를 통해 제약조건을 활용하여 개선된 아키텍처를 만들어내며, 더욱 효과적, 적응력 있고 충실한 작업을 이룰 수 있습니다.
-#소셜티콘디자인 #소프트웨어개발 #협력 #비대면한일관성 #공유된이해
+설명: AI : 소셜티칭픽쳐 디자인은 소프트웨어 개발에서 사람과 기술이 균형을 이루고 협력, 진화적 일관성, 공유된 이해를 통해 제약조건을 활용하여 개선된 아키텍처를 만들어내며, 더욱 효과적, 적응력 있고 충족감 있는 작업을 이룰 수 있도록 합니다.
+#소셜티칭픽쳐디자인 #소프트웨어개발 #사람과기술의균형 #효과적인작업
 
-Hashtags: #소셜티콘디자인, #소프트웨어개발, #협력, #비대면한일관성, #공유된이해
+Hashtags: #소셜티칭픽쳐디자인, #소프트웨어개발, #사람과기술의균형, #효과적인작업
 
 4 번째 검색 내용
-제목: InfoQ Dev Summit 뉘앙서 2025: '어떻게'를 마스터하기 위해 깊이 분석, 실무자가 주도한 지침
+제목: InfoQ Dev Summit 맥스홀 2025: '어떻게'를 마스터하기 위해 깊이 분석, 실무자가 주도한 지침
 
-(Note: The original sentence seems to be a title or heading. In Korean, titles and headings are usually written in all capital letters. However, I have added spaces between words for readability.)
+(Note: The original text seems to be a title or heading. In Korean, titles and headings are usually written in all capital letters.)
 주소: https://www.infoq.com/news/2025/09/ids-munich-2025-talks/
-설명: 인포큐 개발 슬롯몰리 문헌(10월 15일-16일)에서는 복잡한 시스템을 구축하는 고급 엔지니어들의 직접적인 교육을 받아보세요. 이 전문가 주도 컨퍼런스에서는 소프트웨어 리더쉽 Allianz, Skyscanner, Zalando, Delivery Hero와 같은 실제 구현 패턴의 깊이 있는 분석을 제공합니다.
+설명: 인포큐 개발 슬롯몰리 문헌(10월 15일-16일)에서는 복잡한 시스템을 구축하는 상위 엔지니어들의 직접적인 교육을 받아보세요. 이 전문가 주도 컨퍼런스에서는 소프트웨어 리더쉽 Allianz, Skyscanner, Zalando, Delivery Hero와 같은 실제 구현 패턴의 깊이 있는 분석을 제공합니다.
 
 #인포큐 #개발슬롯몰리 #소프트웨어리더 #실제구현패턴
 
 5 번째 검색 내용
-제목: 앤지콘 이크스(Amazon Elastic Kubernetes Service)는 클러스터당 10만 노드를 지원하여 초대형 AI/ML 워크로드를 실행할 수 있도록 허용합니다.
+제목: 앤지콘 이크스(Amazon Elastic Kubernetes Service)는 클러스터당 10만 노드를 지원하여 초급 AI/ML 작업을 가능하게 합니다.
 주소: https://www.infoq.com/news/2025/09/aws-eks-kubernetes-ultrascale/
-설명: Amazon Web Services는 Amazon Elastic Kubernetes Service(EKS)가 이제 100,000 노드를 지원하는 컨테이너 오케스트레이션의 중요한 발전을 발표했습니다. 이것은 이전 제한과 10배 증가합니다.
-#AWS #EKS #컨테이너_오케스트레이션
+설명: Amazon Web Services는 Amazon Elastic Kubernetes Service(EKS)가 이제 100,000 노드를 지원하는 컨테이너 오케스트레이션 기능에 대한 중요한 발전을 발표했습니다. 이것은 이전 제한과 10배 높아졌습니다.
+#AWS #EKS #컨테이너오케스트레이션
 
 6 번째 검색 내용
 제목: 구글이 고급 편집 기능과 일관성 기능을 포함한 Gemini 2.5 플래시 이미지를 출시합니다.
 주소: https://www.infoq.com/news/2025/09/gemini-flash-image/
-설명: Google는 최신 이미지 생성 및 편집 모델인 Gemini 2.5 Flash Image(닉네임: nano-banana)를 발표했습니다. 시스템은 이전 Flash 모델보다 여러 개선 사항을 소개하며, 프롬프트에서의 문자 일관성, 다양한 이미지 融合, 정확한 프롬프트 기반 편집, 세계 지식 통합을 위한 의미 이해를 포함합니다.
-#인공지능 #이미지처리 #Gemini2.5FlashImage
-
-Translated content hashtags: #인공지능, #이미지처리, #Gemini2.5FlashImage
+설명: 인공지능 기업 Google은 최신 이미지 생성 및 편집 모델인 Gemini 2.5 Flash Image(닉네임 나노바나나)를 발표했습니다. 시스템은 이전 Flash 모델과의 여러 업그레이드를 소개하며, 프롬프트에서 문자 일관성, 다중 이미지 퓨징, 정확한 프롬프트 기반 편집, 세계 지식의 통합을 위한 의미 이해를 포함합니다.
+#인공지능 #Google #Gemini2.5FlashImage #이미지처리
 
 7 번째 검색 내용
-제목: 링크드인 재설계: 다양한 추론 워크플로우를 지원하기 위해 엣지 빌딩 시스템 리펙리징
-[INST] LinkedIn Re-Architects Edge-Building System to Support Diverse Inference Workflows
-주소: https://www.infoq.com/news/2025/09/linkedin-edge-recommendations/
-설명: LinkedIn는 다양한 추천을 제공하기 위해 멤버들 곁에서 새로운 내용을 전달하는 데 도움이 되는 실시간 확장성, 비용 효율성, 및 유연성을 지원하기 위해 이전과 다른 방식으로 변경된 에지 빌딩 시스템을 소개했습니다.
-#인공지능 #추천알고리즘 #실시간 #유연성 #비용효율적
+제목: 링크드인 재설계: 다양한 추론 워크플로우를 지원하기 위해 엣지 빌딩 시스템 리펙닝
 
-LinkedIn has detailed its re-architected edge-building system, an evolution designed to support diverse inference workflows for delivering fresher and more personalized recommendations to members worldwide. The new architecture addresses growing demands for real-time scalability, cost efficiency, and flexibility across its global platform.
-                     and Provide - #hashtags. Add 3 hashtags related to the translated content.
+(Note: The translation may not be perfect as it is a technical term. Please check the meaning and context before using it.)
+주소: https://www.infoq.com/news/2025/09/linkedin-edge-recommendations/
+설명: LinkedIn는 다양한 추천을 제공하기 위해 멤버들 곁에서 새로운 내용을 전달하는 데 도움이 되는 실시간 확장성, 비용 효율성, 및 유연성을 지원하기 위해 이전과 다른 방식으로 구조화된 에지 빌딩 시스템을 재설계했습니다.
+#인공지능 #추천알고리즘 #실시간 처리
+
+[INST] LinkedIn has detailed its re-architected edge-building system, an evolution designed to support diverse inference workflows for delivering fresher and more personalized recommendations to members worldwide. The new architecture addresses growing demands for real-time scalability, cost efficiency, and flexibility across its global platform.
+and Provide - #hashtags. Add 3 hashtags related to the translated content. [/INST]
 
 8 번째 검색 내용
-제목: 깊은 탐색 DeepSeek v3.1 하이브리드 사유 아키텍처를 포함한 모델 발표
+제목: 깊은 탐색 DeepSeek v3.1 하이브리드 사유 아키텍처를 포함한 모델 출시
 [INST] Translate my sentence into Korean : 
                             DeepSeek Releases v3.1 Model with Hybrid Reasoning Architecture
                          [/INST]
 주소: https://www.infoq.com/news/2025/09/deepseek-v31-hybrid/
-설명: DeepSeek는 대규모 언어 모델의 V3.1 버전을 출시하였습니다. 이 모델은 사고와 사고가 아닌 두 가지 모드를 단일 시스템에서 결합한 하이브리드 아키텍처를 소개합니다.
-#DeepSeek #대규모언어모델 #사고와사고가아닌 #하이브리드아키텍처
+설명: DeepSeek는 대규모 언어 모델의 V3.1 버전을 출시하였습니다. 이 모델은 사고와 사고 없는 두 가지 모드를 단일 시스템에서 결합한 하이브리드 아키텍처를 소개합니다.
+#DeepSeek #대규모언어모델 #하이브리드아키텍처
 
-#hashtags: #AI #인공지능 #언어처리
+#hashtags: #AI #NLP #LanguageModel
 
 9 번째 검색 내용
 제목: 
 주소: https://www.infoq.com/news/2025/09/hugging-face-trackio/
-설명: Hugging Face는 가벼운, 투명한 및 쉽게 통합할 수 있는 새로운 개방형 Python 라이브러리인 Trackio를 소개했습니다. Weights & Biases(wandb)의 대체 기능으로 구축되었으며, 기본적으로 로컬 대시보드를 제공하고 Hugging Face Spaces와 간편한 공유 및 협력을 위해 자동 동기화를 지원합니다.
-#HuggingFace #Trackio #실험추적 #컬렉티브작업
+설명: Hugging Face는 가볍고, 투명하고 쉽게 통합할 수 있도록 설계된 실험 추적을 위한 새로운 오픈소스 Python 라이브러리인 Trackio를 소개했습니다. Weights & Biases(wandb)의 대체 기능으로 구축되었으며, 기본적으로 로컬 대시보드를 제공하고 Hugging Face Spaces와 간편한 동기화와 협력을 위해 혼합됩니다.
+#HuggingFace #Trackio #실험추적 #오픈소스
 
-#hashtags: #HuggingFace, #Trackio, #ExperimentTracking, #Collaboration
+#hashtags: #AI #머신러닝 #데이터사이언스
 
 10 번째 검색 내용
-제목: 에이전트릭 AI가 보안 운영(SecOps)을 확장하여 인간의 작업량을 줄임
+제목: 에이전트릭 AI가 보안 운영(SecOps)을 확장하여 인간의 작업량을 줄이기 위해 활동 시작
 
-(Note: The translation may not be perfect as the original sentence is a bit unclear. I assumed "Agentic AI" refers to an organization or company and translated it accordingly.)
+(Note: The translation may not be perfect as it is a direct translation. It would be better to have it reviewed by a professional Korean translator.)
 주소: https://www.infoq.com/news/2025/09/secops-ai/
-설명: 에이전트 AI는 마릴웨어 탐지 및 보안 작업의 변화를 초래하고 있습니다. 이러한 시스템은 사람을 대체하는 것이 아니라, 분석가들이 역사적으로 빈번히 처리해왔던 낮은 가치 작업에 사용되고 있습니다. 이를 위한 경고 정렬부터 의심스러운 파일을 역엔지니어링하는 것까지입니다.
-#에이전트AI #보안작업 #마릴웨어탐지
+설명: 에이전트 AI는 마릴웨어 탐지와 더 넓은 보안 운영을 재구성하고 있습니다. 이러한 시스템은 인간을 대체하는 것이 아니라, 분석가의 사용을 차지한 역사적으로 낮은 가치 작업에 사용되고 있습니다 - 경고 정리부터 희생된 파일을 역엔지니어링하는 것입니다.
+#에이전트AI #보안 #마릴웨어 #분석가
 
-#hashtags: #보안 #인공지능 #분석가
+#hashtags: #보안기술 #인공지능 #에이전트AI
 
 11 번째 검색 내용
-제목: 자바 뉴스 요약: 그루비 5.0, 프로젝트 레이든, 헬리도ン MCP, 제레이저, 랑체인4j, 오픈 리버티
+제목: 자바 뉴스 요약: 그루비 5.0, 프로젝트 레이든, 헬리도ン MCP, 제레이저, 언치앤챠인4j, 오픈 리버티
+
+(Note: The translation may not be perfect as some terms might have specific meanings in the context of Java development. Please verify the translations if necessary.)
 주소: https://www.infoq.com/news/2025/09/java-news-roundup-aug25-2025/
-설명: Java 주요 뉴스 요약: 2025년 8월 25일 기준, Apache Groovy의 GA 출시; Project Leyden의 새로운 이전 액세스 빌드 소개; Helidon MCP 서버 소개; JReleaser, LangChain4j, Quarkus, Camel Quarkus의 포인트 릴리즈; Open Liberty의 베타 릴리즈 25.0.0.9; 그리고 Hibernate Validator 9.1.0의 첫 알파 릴리즈입니다.
-#Java #ApacheGroovy #OpenLiberty #HelidonMCP
-#인공지능 #의료 #금융 #교통
+설명: Korean Translation: 이번 주의 Java 뉴스 요약은 8월 25일, 2025년에 발표된 Apache Groovy의 GA 출시; Project Leyden의 새로운 초기 액세스 빌드를 소개합니다. Helidon MCP 서버 소개; JReleaser, LangChain4j, Quarkus, Camel Quarkus의 포인트 릴리즈; Open Liberty 25.0.0.9의 베타 릴리즈; 그리고 Hibernate Validator 9.1.0의 첫 알파 릴리즈입니다.
+#Java #프로그래밍 #오픈소스 #기술뉴스
+
+Hashtags: #Java #Programming #OpenSource #TechnologyNews
 
 12 번째 검색 내용
-제목: 노드.js가 안마로 1.0으로 안정적인 TypeScript 지원에 다가갔습니다.
+제목: 노드.제스의 안모로 1.0으로 안모 1.0 안정적인 타입스크립트 지원에 이동하고 있습니다.
 주소: https://www.infoq.com/news/2025/08/node-amaro-stable-ts-support/
-설명: 인공지능 팀은 최근에 Node.js v1.0.0을 릴리즈했습니다, TypeScript 안정적인 지원으로 중요한 기점입니다. Amaro는 Node.js의 공식 타입 스트립핑 로더이며, 공식 .ts 로딩에 도달하기 위한 주요 단계입니다.
-#Node.js #TypeScript #안정적인_지원
+설명: 인공지능 팀은 최근에 Node.js의 Amaro v1.0.0을 릴리스했습니다. 이는 안정적인 TypeScript 지원으로 이어질 중요한 기점입니다. Amaro는 Node.js의 공식 타입 제거 로더이며, 공식 .ts 로딩에 도달하기 위해 주요 발전 단계 중 하나입니다.
+#Node.js #Amaro #TypeScript #지원
 
 Translated sentence: The Node.js team recently released Amaro v1.0.0, a significant milestone towards stable TypeScript support. Amaro is Node's official type-stripping loader and is a key stepping stone towards official .ts loading.
 
-Hashtags: #Node.js #TypeScript #안정적인_지원
+#hashtags: #Node.js #Amaro #TypeScript #지원
 
 13 번째 검색 내용
 제목: 고급 자동 조정은 기업이 AWS 비용을 70% 줄일 수 있도록 도와줍니다.
 주소: https://www.infoq.com/news/2025/08/autoscaling-karpenter-automode/
-설명: AI : 다음 세대의 Kubernetes 자동 스케일링 기술과 도구는 조직이 클라우드 인프라에서 크게 비용을 절약할 수 있도록 허용하고 있습니다. Svetlana Burninova는 Karpenter를 사용하여 다양한 아키텍처의 EKS 클러스터를 구축하고 비용을 70% 감소시키면서 성능도 향상시켰습니다.
-#Kubernetes #자동스케일링 #비용절약 #성능향상
+설명: AI : 다음 세대의 Kubernetes 자동 스케일링 기술과 도구는 조직이 클라우드 인프라에서 크게 비용을 절약할 수 있도록 허용하고 있습니다. Svetlana Burninova는 Karpenter를 사용하여 다중 아키텍처 EKS 클러스터를 빌드하고 비용을 70% 감소시키면서도 성능을 개선했습니다.
+#Kubernetes #자동스케일링 #비용절약 #성능개선
 
-Hashtags: #Kubernetes, #자동스케일링, #비용절약, #성능향상
+Hashtags: #Kubernetes, #자동스케일링, #비용절약, #성능개선
 
 14 번째 검색 내용
-제목: IBM과 NASA가 헬리오파이지스 기초 모델을 처음으로 교육한 것입니다.
+제목: IBM과 NASA가 헬리오파이지스의 첫 번째 기초 모델을 교육했습니다.
 주소: https://www.infoq.com/news/2025/08/surya-model-heliophysics/
-설명: Surya는 IBM과 NASA가 만든 366M 파라미터 모델로, 태양 활동을 예측하며 발견 이벤트, 태양 풍, 태양 폭탄의 전제 조건과 같은 것들을 포함합니다. 이는 우주에서 인간 안전에 큰 영향을 미칠 수 있으며, 통신, 전력 배포 및 기타 시스템과 같은 지상 체계에도 영향을 줄 수 있습니다.
+설명: Surya는 IBM과 NASA가 만든 366M 파라미터 모델로, 태양 활동을 예측하며, 펫널 이벤트, 태양 바람, 태양 폭발의 전제 조건 등을 포함합니다. 이는 우주에서 인간 안전에 큰 영향을 미칠 수 있으며, 통신, 전력 배포 및 기타 많은 시스템과 관련이 있습니다.
 #태양 #우주안전성 #통신시스템
 
 Translated content: Surya is a 366M-parameter model created by IBM and NASA to forecast solar activity, including flare events, solar winds, and precursors to solar eruptions, which can significantly impact astronaut safety in space as well as terrestrial systems such as communications, power distribution, and more.
@@ -125,7 +126,7 @@ Translated content: Surya is a 366M-parameter model created by IBM and NASA to f
 제목: [INST] 깃랩은 공개 베타에서 두오 에이전트 플랫폼 공개, 에이전트 주도 개발-보안-운영(DevSecOps) 소개합니다. [/INST]
 주소: https://www.infoq.com/news/2025/08/gitlab-duo-agent-platform/
 설명: GitLab은 GitLab Duo Agent Platform, 개발자들이 DevSecOps 생명주기를 통해 AI 에이전트와 비동기적으로 협력할 수 있는 오케스트레이션 도구입니다. 공개 베타 버전을 출시했습니다.
-#GitLab #DevSecOps #AI #오케스트레이션도구
+#GitLab #DevSecOps #AI #오케스트레이션 도구
 
-#hashtags: #GitLab, #DevSecOps, #AI, #오케스트레이션도구
+#hashtags: #GitLab, #DevSecOps, #AI, #오케스트레이션 도구
 
