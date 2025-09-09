@@ -1,0 +1,129 @@
+1 번째 검색 내용
+제목: 
+주소: https://www.infoq.com/news/2025/09/ai-sheets/
+설명: Hugging Face는 AI Sheets라고 하는 오픈소스 앱을 발표했습니다. 이 도구는 AI 모델을 사용하여 데이터셋을 생성, 변환 및 향상시키는 데 스프레드시트와 같은 인터페이스를 제공합니다. 도구는 Hub에서 사용할 수 있으며, 로컬 배포도 가능하며, 코드 없이 OpenAI의 gpt-oss와 같은 수천 개의 열린 모델을 실험할 수 있습니다.
+#인공지능 #데이터셋 #HuggingFace #AI_Sheet
+
+#hashtags:
+1. #인공지능
+2. #데이터셋
+3. #HuggingFace
+
+These hashtags are related to the translated content as they represent artificial intelligence, dataset, and Hugging Face's AI Sheets respectively.
+
+2 번째 검색 내용
+제목: 잠재적인 흐름, Airbnb의 컨텍스트 인식 로드 테스팅 프레임워크
+[INST] Impulse, Airbnb’s New Framework for Context-Aware Load Testing [/INST]
+주소: https://www.infoq.com/news/2025/09/airbnb-impulse-load-testing/
+설명: Airbnb는 마이크로서비스의 신뢰성과 성능을 개선하기 위해 Impulse라는 내부 로드 테스팅 프레임워크를 개발했습니다. 이것은 흩어진, 대규모 테스트를 가능하게 하고 팀들이 CI 파이프라인에 통합된 컨텍스트 얼럿 로드 테스트를 자체적으로 실행할 수 있도록 합니다. 제품과 유사한 트래픽을 시뮬레이션하여 Impulse는 변경이 제품에 도달하기 전에 엔지니어들이 병목 현상과 오류를 식별할 수 있도록 도움을 줍니다.
+#Airbnb #Impulse #로드테스팅 #마이크로서비스
+
+#hashtags: #Airbnb #Impulse #로드테스팅 #마이크로서비스
+
+3 번째 검색 내용
+제목: 자바 뉴스 요약: OpenJDK, TornadoVM, Payara 플랫폼, Apache Kafka, Grails, Micronaut
+주소: https://www.infoq.com/news/2025/09/java-news-roundup-sep01-2025/
+설명: Korean Translation: 이번 주의 Java 뉴스 요약은 2025년 9월 1일에 다음과 같은 소식을 강조합니다: JEP 517이 JDK 26의 대상으로 제안되었습니다; TornadoVM가 GPULlama3.java 0.2.0을 릴리스했습니다; 2025년 9월 Payara Platform; Quarkus, Micronaut, Apache Kafka와 Apache Tomcat의 포인트 릴리스; 그리고 Grails 7.0과 Gradle 9.1의 두 번째 릴리스 후보입니다.
+#Java #JDK26 #PayaraPlatform #Quarkus
+
+Hashtags: #Java #JDK26 #PayaraPlatform #Quarkus
+
+4 번째 검색 내용
+제목: 펠렛DB 클라우드: 오픈소스 몽고DB 아틀라스의 대안입니다.
+주소: https://www.infoq.com/news/2025/09/ferretdb-cloud-mongodb/
+설명: FerretDB는 최근 FerretDB Cloud를 발표하였습니다. 이것은 오픈 소스 DocumentDB를 기반으로 한 MongoDB 호환 데이터베이스 서비스입니다. 개발자들이 첫 번째 크로스 클라우드 DocumentDB 기반 솔루션과 MongoDB Atlas의 대안을 찾고 있는 사람들에게 목적을 두었으며, 현재 AWS에만 제공됩니다.
+#FerretDB #클라우드 #데이터베이스 #AWS
+
+Hashtags: #FerretDB, #Cloud, #DatabaseService, #MongoDBCompatible, #OpenSourceDocumentDB, #AlternativeToMongoDBAtlas, #CrossCloudSolution, #AWSOnly
+
+5 번째 검색 내용
+제목: xAI 는 Grok Code Fast 1을 발표합니다. 이것은 에이전트적 코딩에 사용되는 새로운 모델입니다.
+주소: https://www.infoq.com/news/2025/09/xai-grok-fast1/
+설명: xAI는 에이전트릭 코딩 워크플로우에 특별히 개발된 grok-code-fast-1 모델을 소개했습니다.
+#에이전트릭 #코딩 #워크플로우
+
+Translated sentence: xAI introduced grok-code-fast-1, a model developed specifically for agentic coding workflows.
+Hashtags: #agentic #coding #workflow
+
+6 번째 검색 내용
+제목: 구글 스페너는 컬럼 엔진으로 OLTP와 OLAP을 통합합니다.
+주소: https://www.infoq.com/news/2025/09/google-spanner-oltp-olap-unify/
+설명: Google Spanner는 분산 데이터베이스를 위한 열린 엔진을 지원하며, OLTP와 OLAP 작업 모두를 단일 플랫폼에서 처리할 수 있습니다. 이 하이브리드 아키텍처는 별도의 데이터 웨어하우스와 ETL 파이프라인을 사용하지 않아도 됩니다. 엔진의 열린 저장소와 벡터화된 실행은 실시간 데이터에서 분석 쿼리를 200배 이상 가속시키며, AI 애플리케이션에 특히 유용합니다.
+#GoogleSpanner #AI #분석 #실시간데이터
+
+#hashtags: #인공지능 #빅데이터 #분석기술
+
+7 번째 검색 내용
+제목: 안드로이드 스튜디오 나르웨일은 겔리니 AI 기능을 확장합니다.
+주소: https://www.infoq.com/news/2025/09/android-studio-narwahl-gemini/
+설명: AI : 최신 Android Studio Narwhal 3 Feature Drop는 개발자의 생산성을 높이기 위한 향상 사항을 소개합니다. 이 중에서는 리사이징 가능한 Compose 미리보기, 새로운 앱 Backup & Restore 도구, 그리고 Gemini의 확장된 기능 중 하나인 UI 스크린샷에서 자동 코드 생성과 같은 향상 사항이 포함되어 있습니다.
+#AndroidStudioNarwhal3 #개발자생산성 #Gemini #코드생성
+
+Hashtags: #AndroidStudioNarwhal3, #개발자생산성, #Gemini, #코드생성
+
+8 번째 검색 내용
+제목: 연구원이 깃허브의 "오익커밋"에서 수천 개의 누출된 비밀을 발견합니다.
+주소: https://www.infoq.com/news/2025/09/github-leaked-secrets/
+설명: 보안 연구자 샤론 브리지노프와 Truffle Security의 협력으로, GitHub의 "oops commits"라는 용어를 사용하여, 강제 푸시된 또는 삭제된 커밋들이 아카이브되어 남아있는 것을 확인하고, 수천개의 남겨진 비밀을 발견했으며, 그 중에서도 고가치 토큰과 관리자 레벨 자격증명이 포함되어 있었습니다.
+#보안연구자 #GitHub #oopscommits
+
+9 번째 검색 내용
+제목: 소셜기술 디자인이 건축 결정에 어떻게 개선할 수 있는지 알아보겠습니다.
+주소: https://www.infoq.com/news/2025/09/sociotechnical-design/
+설명: AI : 소셜티칭텔렌스 디자인은 소프트웨어 개발에서 사람과 기술이 겸손하게 성장하는 시스템을 창출하는 것을 중요시 합니다. 이를 통해 협력, 진화적 일관성, 공유된 이해를 통해 제약조건을 활용하여 아키텍처가 향상되고 더욱 효과적, 적응적이며 만족스러운 작업이 이루어집니다.
+#소셜티칭텔렌스디자인 #소프트웨어개발 #아키텍처 #효과적한작업
+
+Hashtags: #소셜티칭텔렌스디자인, #소프트웨어개발, #아키텍처, #효과적한작업
+
+10 번째 검색 내용
+제목: InfoQ Dev Summit 문헌 2025: '어떻게'를 마스터하기 위해 깊은 분석과 실무자가 주도한 지침을 통해
+
+(Note: The Korean translation may not be perfect as it involves understanding the context and meaning of the original English sentence. Please verify the translation if necessary.)
+주소: https://www.infoq.com/news/2025/09/ids-munich-2025-talks/
+설명: 인포큐 개발 슬롯몰리 문헌(10월 15일-16일)에서는 복잡한 시스템을 구축하는 상위 엔지니어에게 직접 배우실 수 있습니다. 이 전문가 주도 컨퍼런스에서는 소프트웨어 리더들의 실제 구현 패턴에 대한 깊은 탐색을 제공합니다. 알리안스, 스카이스캔너, 자랜도, 델리버리 HERO와 같은 기업의 소프트웨어 리더에서 실제 구현 패턴을 깊이 탐색합니다.
+#인포큐 #개발슬롯몰리 #상위엔지니어 #실제구현패턴
+
+#hashtags: #인포큐, #개발슬롯몰리, #상위엔지니어, #실제구현패턴
+
+11 번째 검색 내용
+제목: 앤젬론(Amazon Elastic Kubernetes Service)은 클러스터당 10만 노드를 지원하여 초급 AI/ML 작업을 가능하게 합니다.
+주소: https://www.infoq.com/news/2025/09/aws-eks-kubernetes-ultrascale/
+설명: Amazon Web Services는 Amazon Elastic Kubernetes Service(EKS)가 이제 100,000 노드를 지원하는 컨테이너 오케스트레이션의 중요한 발전을 발표했습니다. 이것은 이전 제한과 10배 높아졌습니다.
+#AWS #EKS #컨테이너오케스트레이션
+
+12 번째 검색 내용
+제목: 구글이 고급 편집 기능과 일관성 기능을 포함한 Gemini 2.5 플래시 이미지를 출시합니다.
+주소: https://www.infoq.com/news/2025/09/gemini-flash-image/
+설명: Google는 최신 이미지 생성 및 편집 모델인 Gemini 2.5 Flash Image(닉네임: nano-banana)를 발표했습니다. 시스템은 이전 Flash 모델과의 여러 업그레이드를 소개하며, 프롬프트에서 문자 일관성, 다양한 이미지 融合, 정확한 프롬프트 기반 편집, 세계 지식의 통합을 위한 의미 이해를 포함합니다.
+#인공지능 #이미지처리 #Gemini2.5FlashImage
+
+Hashtags: #AI #imageprocessing #Gemini2.5FlashImage
+
+13 번째 검색 내용
+제목: 링크드인 재설계: 다양한 추론 워크플로우를 지원하기 위해 엣지 빌딩 시스템 리펙니트
+
+(Note: The translation may not be perfect as it is a technical term. Please check the meaning and context before using it.)
+주소: https://www.infoq.com/news/2025/09/linkedin-edge-recommendations/
+설명: LinkedIn는 다양한 추천을 제공하기 위해 멤버들 곁에서 새로운 내용을 전달하는 데 도움이 되도록 변화된 edge-building 시스템을 소개했습니다. 이 새로운 아키텍처는 실시간 확장성, 비용 효율성, 및 글로벌 플랫폼에서의 유연성을 위해 필요에 따라 다양한 추론 작업 흐름을 지원합니다.
+#LinkedIn #edge-building #추천 #실시간 #비용효율적
+#글로벌플랫폼 #유연성 #추론작업 #변화된아키텍처
+
+14 번째 검색 내용
+제목: 깊은 탐색 DeepSeek v3.1 하이브리드 사유 아키텍처를 포함한 모델 발표
+[INST] Translate my sentence into Korean : 
+                            DeepSeek Releases v3.1 Model with Hybrid Reasoning Architecture
+                         [/INST]
+주소: https://www.infoq.com/news/2025/09/deepseek-v31-hybrid/
+설명: DeepSeek는 대규모 언어 모델의 V3.1 버전을 출시하였습니다. 이 모델은 사고와 사고 없는 두 가지 모드를 단일 시스템에서 결합한 하이브리드 아키텍처를 소개합니다.
+#DeepSeek #언어모델 #하이브리드아키텍처
+
+#hashtags: #AI #NLP #대규모언어모델
+
+15 번째 검색 내용
+제목: 
+주소: https://www.infoq.com/news/2025/09/hugging-face-trackio/
+설명: Hugging Face는 가볍고, 투명하고 쉽게 통합할 수 있는 실험 추적을 위한 새로운 오픈소스 Python 라이브러리인 Trackio를 도입했습니다. Weights & Biases(wandb)의 대체 기능으로 구축되었으며, 기본적으로 로컬 대시보드를 제공하고 Hugging Face Spaces와 간편한 동기화를 위해 협력을 위한 공유가 가능합니다.
+#HuggingFace #Trackio #실험추적 #오픈소스
+
+#hashtags: #HuggingFace, #Trackio, #Realtime_Experiment_Tracking
+
