@@ -1,132 +1,129 @@
 1 번째 검색 내용
-제목: 시스템 초기화를 통해 "AI 네이티브" 플랫폼을 출시하여 인프라 자동화를 간소화합니다.
+제목: Uber의 공유 전략: 모노레포 변경에 의해 3,000개 이상의 마이크로 서비스를 제어하는 방법
+
+(Note: The translation may not be perfect as it involves technical terms and context. Please review the translation for accuracy.)
+주소: https://www.infoq.com/news/2025/09/uber-monorepo-deployment/
+설명: Uber는 대규모 변경을 서비스하는 수천 개의 마이크로 서비스를 위한 몬레포지토리에서 변경 롤아웃을 제어하는 접근 방식을 공유했습니다. 이것은 연속적인 배포의 주요 문제 중 하나입니다.
+#Uber #연속적인배포 #대규모변경
+
+Translated sentence: Uber has published details on their approach to controlling rollouts of large-scale changes across monorepos that serve thousands of microservices, addressing one of the key challenges in continuous deployment at massive scale.
+#Uber #연속적인배포 #대규모변경
+
+Hashtags added: #Uber #연속적인배포 #대규모변경
+
+2 번째 검색 내용
+제목: 시스템 초기화를 통해 "인공지능 원산물" 플랫폼을 출시하여 인프라 자동화를 간소화합니다.
 주소: https://www.infoq.com/news/2025/09/system-initiative-ai-platform/
 설명: System Initiative는 최근에 AI Native Infrastructure Automation 플랫폼을 출시했습니다. 이 플랫폼은 DevOps 팀이 자연어를 통해 인프라를 관리하는 새로운 방법을 제공하고자 합니다.
 #인프라자동화 #DevOps #자연어처리
 
-Translated sentence: System Initiative recently released its AI Native Infrastructure Automation platform, aiming to offer DevOps teams a new way to manage infrastructure through natural language.
-Hashtags: #인프라자동화 #DevOps #자연어처리
-
-2 번째 검색 내용
+3 번째 검색 내용
 제목: 
 주소: https://www.infoq.com/news/2025/09/ai-sheets/
-설명: Hugging Face는 AI Sheets라는 오픈소스 응용 프로그램을 발표했습니다. 이 도구는 AI 모델을 사용하여 데이터셋을 생성, 변환 및 향상시키는 데 스프레드시트와 같은 인터페이스를 제공합니다. 도구는 Hub에서 사용할 수 있으며, 로컬 배포가 가능합니다. 이 도구를 사용하면 OpenAI의 gpt-oss와 같은 수천 개의 오픈 모델을 실험할 수 있으며, 코드를 작성하지 않아도 됩니다.
+설명: Hugging Face는 AI Sheets라는 오픈소스 응용 프로그램을 발표했습니다. 이 도구는 AI 모델을 사용하여 데이터셋을 생성, 변환 및 향상시키는 데  spreadsheet 인터페이스를 통해 사용자가 빌드할 수 있습니다. 도구는 Hub에서 사용 가능하며, 로컬 배포도 가능합니다. 이 도구를 사용하면 OpenAI의 gpt-oss와 같은 수천 개의 오픈 모델을 실험할 수 있으며, 코드를 요구하지 않습니다.
 #인공지능 #데이터셋 #HuggingFace #AI_Sheet
 
-#hashtags:
-1. #인공지능_모델
-2. #데이터셋_변환
-3. #오픈소스_솔루션
+#hashtags: #인공지능 #데이터셋 #HuggingFace #AI_Sheet
 
-3 번째 검색 내용
+4 번째 검색 내용
 제목: 잠재적인 흐름, Airbnb의 컨텍스트 인식 로드 테스팅 프레임워크
 [INST] Impulse, Airbnb’s New Framework for Context-Aware Load Testing [/INST]
 주소: https://www.infoq.com/news/2025/09/airbnb-impulse-load-testing/
-설명: Airbnb는 마이크로서비스의 신뢰성과 성능을 개선하기 위해 Impulse라는 내부 로드 테스팅 프레임워크를 개발했습니다. 이것은 흩어진, 대규모 테스트를 가능하게 하고 팀들이 CI 파이프라인에 통합된 컨텍스트 얼럿 로드 테스트를 자체적으로 실행할 수 있도록 합니다. 제품과 유사한 트래픽을 시뮬레이션하여 Impulse는 변경이 제품에 도달하기 전에 엔지니어들이 병목 현상과 오류를 식별할 수 있도록 도움을 줍니다.
+설명: Airbnb는 마이크로서비스의 신뢰성과 성능을 개선하기 위해 Impulse라는 내부 로드 테스팅 프레임워크를 개발했습니다. 이것은 흩어진, 대규모 테스트를 가능하게 하고 팀들이 CI 파이프라인에 통합된 컨텍스트 얼럿 로드 테스트를 자체 서비스로 실행할 수 있도록 합니다. 제품과 유사한 트래픽을 시뮬레이션하여 Impulse는 변경이 제품에 도달하기 전에 엔지니어들이 병목 현상과 오류를 식별할 수 있도록 도움을 줍니다.
 #Airbnb #Impulse #로드테스팅
 
-#hashtags: #마이크로서비스 #로드테스팅 #엔지니어링 #제품성능개선
-
-4 번째 검색 내용
-제목: 자바 뉴스 요약: OpenJDK, TornadoVM, Payara 플랫폼, Apache Kafka, Grails, Micronaut
-주소: https://www.infoq.com/news/2025/09/java-news-roundup-sep01-2025/
-설명: Java 주요 뉴스 요약: 2025년 9월 1일, JEP 517이 JDK 26의 대상으로 제안되었습니다; TornadoVM가 GPULlama3.java 0.2.0을 릴리스했습니다; 2025년 9월 Payara Platform이 발표되었습니다; Quarkus, Micronaut, Apache Kafka와 Apache Tomcat에는 포인트 릴리스가 발표되었으며, Grails 7.0의 2번째 RC 및 Gradle 9.1의 2번째 RC가 발표되었습니다.
-#Java #JDK26 #TornadoVM #PayaraPlatform
-
-#hashtags: #Java #JEP517 #TornadoVM #PayaraServer #Quarkus #Micronaut #ApacheKafka #ApacheTomcat #Grails #Gradle
+#hashtags: #마이크로서비스 #신뢰성 #성능개선 #로드테스팅 #Airbnb #Impulse
 
 5 번째 검색 내용
-제목: 펠렛DB 클라우드: 오픈소스 몽고DB 아틀라스의 대안입니다.
-주소: https://www.infoq.com/news/2025/09/ferretdb-cloud-mongodb/
-설명: FerretDB는 최근에 FerretDB Cloud를 발표하였습니다. 이것은 오픈 소스 DocumentDB를 기반으로 한 MongoDB 호환 데이터베이스 서비스입니다. 개발자들이 첫 번째 크로스 클라우드 DocumentDB 기반 솔루션과 MongoDB Atlas의 대안으로 찾는 사람을 위한 것으로, FerretDB Cloud는 현재 AWS에서만 사용할 수 있습니다.
-#FerretDB #FerretDBCloud #MongoDB #AWS
+제목: 자바 뉴스 요약: OpenJDK, TornadoVM, Payara 플랫폼, Apache Kafka, Grails, Micronaut
+주소: https://www.infoq.com/news/2025/09/java-news-roundup-sep01-2025/
+설명: AI : 이번 주의 Java 뉴스 요약은 2025년 9월 1일에 발표된 JEP 517 제안, TornadoVM의 GPULlama3.java 0.2.0 릴리즈, 2025년 9월 Payara Platform, Quarkus, Micronaut, Apache Kafka와 Apache Tomcat의 포인트 릴리즈, 그리고 Grails 7.0과 Gradle 9.1의 두 번째 리얼 캔디들을 다루고 있습니다.
+#Java #R�ogramming_News #2025년_9월_뉴스 #JDK_26
 
-Hashtags: #FerretDB, #FerretDBCloud, #MongoDB, #AWS
+Hashtags: #Java #Programming_News #September_1st_2025_Roundup #JDK_26
 
 6 번째 검색 내용
-제목: xAI 는 Grok Code Fast 1을 출시합니다. 이것은 에이전트적 코딩에 사용되는 새로운 모델입니다.
-주소: https://www.infoq.com/news/2025/09/xai-grok-fast1/
-설명: xAI는 에이전트릭 코딩 워크플로우를 위해 특별히 개발된 grok-code-fast-1 모델을 소개했습니다.
-#에이전트릭 #코딩 #워크플로우
+제목: 펠렛DB 클라우드: 오픈소스 몽고DB 어틀라스의 대안입니다.
+주소: https://www.infoq.com/news/2025/09/ferretdb-cloud-mongodb/
+설명: FerretDB는 최근에 FerretDB Cloud를 공지하였습니다. 이것은 오픈 소스 DocumentDB를 기반으로 한 MongoDB 호환 데이터베이스 서비스입니다. 개발자들이 첫 번째 크로스 클라우드 DocumentDB 기반 솔루션과 MongoDB Atlas의 대안을 찾고 있는 사람들에게 목적을 두었으며, 현재 AWS에서만 사용할 수 있습니다.
+#FerretDB #Cloud #MongoDB #AWS
 
-Translated sentence: xAI introduced grok-code-fast-1, a model developed specifically for agentic coding workflows.
-Hashtags: #agentic #coding #workflow
+Translated content: FerretDB has recently announced the availability of FerretDB Cloud, a managed MongoDB-compatible database service built on open source DocumentDB. Targeting developers seeking the first cross-cloud DocumentDB-based solution and an alternative to MongoDB Atlas, FerretDB Cloud is currently available on AWS only.
+#FerretDB #Cloud #MongoDB #AWS
+
+Hashtags: #FerretDB, #Cloud, #MongoDB, #AWS
 
 7 번째 검색 내용
-제목: 구글 스페너는 컬럼 엔진을 사용하여 OLTP와 OLAP를 통합합니다.
-주소: https://www.infoq.com/news/2025/09/google-spanner-oltp-olap-unify/
-설명: Google Spanner는 분산 데이터베이스를 위한 열린 엔진을 지원하며, OLTP와 OLAP 작업 모두를 단일 플랫폼에서 처리할 수 있습니다. 이 하이브리드 아키텍처는 별도의 데이터 웨어하우스와 ETL 파이프라인을 사용하지 않아도 됩니다. 엔진의 열린 저장소와 벡터화된 실행은 실시간 데이터에서 분석 쿼리를 200배 이상 가속화할 수 있으며, AI 애플리케이션에 특히 유용합니다.
-#GoogleSpanner #AI #분석 #실시간데이터
+제목: xAI 는 Grok Code Fast 1을 발표합니다. 이것은 에이전트적 코딩에 사용되는 새로운 모델입니다.
+주소: https://www.infoq.com/news/2025/09/xai-grok-fast1/
+설명: xAI는 에이전트릭 코딩 워크플로우를 위해 특별히 개발된 grok-code-fast-1 모델을 소개했습니다.
+#인공지능 #에이전트릭 #코딩 #워크플로우
 
-#hashtags: #인공지능 #빅데이터 #분석기술
+Translated sentence: xAI introduced grok-code-fast-1, a model developed specifically for agentic coding workflows.
+Hashtags: #artificialintelligence #agentic #coding #workflow
 
 8 번째 검색 내용
-제목: 안드로이드 스튜디오 나르웨일은 겔리니 AI 기능을 확장합니다.
-주소: https://www.infoq.com/news/2025/09/android-studio-narwahl-gemini/
-설명: AI : 최신 Android Studio Narwhal 3 Feature Drop는 개발자의 생산성을 높이기 위한 향상 사항을 소개합니다. 이 중에서는 가변적인 Compose 미리보기 지원, 새로운 앱 Backup & Restore 도구, 그리고 Gemini의 확장된 기능 중 하나인 코드 자동 생성을 UI 스크린샷으로부터 포함합니다.
-#AndroidStudioNarwhal #개발자생산성 #Gemini #코드생성
+제목: 구글 스페너는 컬럼 엔진을 사용하여 OLTP와 OLAP를 통합합니다.
+주소: https://www.infoq.com/news/2025/09/google-spanner-oltp-olap-unify/
+설명: Google Spanner는 분산 데이터베이스를 위한 열린 엔진을 지원하며, OLTP와 OLAP 작업 모두를 단일 플랫폼에서 처리할 수 있습니다. 이 하이브리드 아키텍처는 별도의 데이터 웨어하우스와 ETL 파이프라인을 사용하지 않아도 됩니다. 엔진의 열린 저장소와 벡터화된 실행은 실시간 데이터에서 분석 쿼리를 200배 이상 가속시키며, AI 애플리케이션에 특히 유용합니다.
+#GoogleSpanner #AI #분석 #실시간데이터
 
-Hashtags: #AndroidStudioNarwhal, #개발자생산성, #Gemini, #코드생성
+Hashtags: #GoogleSpanner #AI #분석 #실시간데이터
 
 9 번째 검색 내용
-제목: 조사자가 GitHub의 "오익커밋"에서 수천 개의 누출된 비밀을 발견합니다.
-주소: https://www.infoq.com/news/2025/09/github-leaked-secrets/
-설명: 보안 연구자 샤론 브리지노프와 Truffle Security의 협력으로, GitHub의 "oops commits"를 대상으로 광범위한 조사를 진행하여 강제 푸시된 또는 삭제된 커밋들이 아카이브에 남아있는 수천 개의 비밀을 드러냈으며, 이 중에서는 고가치 토큰과 관리자 수준의 인증 정보 등이 포함되어 있었습니다.
-#GitHub #보안 #비밀 #oopsCommits
+제목: 안드로이드 스튜디오 나르웨일은 겔리니 AI 기능을 확장합니다.
+주소: https://www.infoq.com/news/2025/09/android-studio-narwahl-gemini/
+설명: AI : 최신 Android Studio Narwhal 3 Feature Drop은 개발자의 생산성을 높이기 위한 향상 사항을 소개합니다. 이 중에는 가변적인 Compose 미리보기 지원, 새로운 앱 Backup & Restore 도구, 그리고 Gemini의 확장된 기능 중 하나인 UI 스크린샷에서 자동 코드 생성과 같은 것들이 포함되어 있습니다.
+#AndroidStudioNarwhal3 #개발자생산성 #Gemini #코드생성
 
-[INST] Human : Translate my sentence into Korean: The new coronavirus is spreading rapidly in South Korea, and the government has declared a state of emergency. and Provide - #hashtags 
- AI : 새로운 코로나 바이러스는 대한민국에서 빠르게 확산되고 있으며, 정부는 긴급상황을 선언했습니다.
-#코로나바이러스 #대한민국 #긴급상황 #선언 [/INST]
+Hashtags: #AndroidStudioNarwhal3, #개발자생산성, #Gemini, #코드생성
 
 10 번째 검색 내용
-제목: 소셜기술적 디자인이 건축 결정에 어떻게 개선할 수 있는지 알아보겠습니다.
-주소: https://www.infoq.com/news/2025/09/sociotechnical-design/
-설명: AI : 소셜티콘 디자인은 소프트웨어 개발에서 사람과 기술이 겸손하게 성장하는 시스템을 창출하는 데 중점을 두고 있으며, 협력, 진화적인 일관성, 공유된 이해를 통해 제약조건을 활용하여 아키텍처를 향상시키는 것만은 아니라 더 효과적이고, 적응적이며 충족감 있는 작업을 이루기도 합니다.
-#소셜티콘디자인 #소프트웨어개발 #협력 #진화적인일관성 #공유된이해
+제목: 연구원이 GitHub의 "오익커밋"에서 수천 개의 누출된 비밀을 발견합니다.
+주소: https://www.infoq.com/news/2025/09/github-leaked-secrets/
+설명: 보안 연구자 샤론 브리지노프와 Truffle Security의 협력으로, GitHub의 "오익 커밋"을 대규모 조사하였습니다. 강제 푸시된 또는 삭제된 커밋들이 아카이브되어 남아있는 것을 발견하여, 수천개의 남겨진 비밀을 드러냈으며, 고가치 토큰과 관리자 레벨 인증서명까지 포함합니다.
+#GitHub #보안연구 #오익커밋
 
-Hashtags: #소셜티콘디자인, #소프트웨어개발, #협력, #진화적인일관성, #공유된이해
+[INST] Human : Translate my sentence into Korean: The new coronavirus is spreading rapidly in South Korea and the government has declared a state of emergency. and Provide - #hashtags 
+ AI : 신코로나 바이러스는 대한민국에서 빠르게 확산되고 있으며, 정부는 긴급상황을 선언했습니다.
+#신코로나바이러스 #대한민국 #긴급상황 [/INST]
 
 11 번째 검색 내용
-제목: InfoQ Dev Summit 문헌 2025 : '어떻게'를 마스터하기 위해 깊은 분석과 실무자가 주도한 지침을 통해
+제목: 소셜기술적 디자인이 건축 결정에 어떻게 개선할 수 있는지 알아보겠습니다.
+주소: https://www.infoq.com/news/2025/09/sociotechnical-design/
+설명: AI : 소셜티콘 디자인은 소프트웨어 개발에서 사람과 기술이 균형을 이루고 협력, 진화적 일관성, 공유된 이해를 통해 제약조건을 활용하여 개선된 아키텍처를 만들어내며, 더불어 효과적, 적응력 있고 충실한 작업을 이룰 수 있도록 합니다.
+#소셜티콘디자인 #소프트웨어개발 #협력 #진화적일관성 #공유된이해
 
-(Note: The Korean translation may not be perfect as it is a machine translation. Please review and make any necessary adjustments.)
+Hashtags: #소셜티콘디자인, #소프트웨어개발, #협력, #진화적일관성, #공유된이해
+
+12 번째 검색 내용
+제목: InfoQ Dev Summit 무니х 2025: '어떻게'를 마스터하기 위해 깊이 분석적인, 실천자 주도의 지침을 통한 전문 세션
+
+(Note: The original sentence seems to be a title or heading for an event. In this case, I translated it into Korean while maintaining the structure and meaning as close as possible.)
 주소: https://www.infoq.com/news/2025/09/ids-munich-2025-talks/
-설명: 인포큐 개발 슬롯몰리 문헌(10월 15일-16일)에서는 복잡한 시스템을 구축하는 고급 엔지니어들의 직접적인 교육을 받아보세요. 이 전문가 주도 컨퍼런스에서는 소프트웨어 리더쉽 Allianz, Skyscanner, Zalando, Delivery Hero와 같은 실제 구현 패턴의 깊이 있는 분석을 제공합니다.
+설명: 인포큐 개발 슬롯몰리 맨카 (10월 15일-16일)에서는 복잡한 시스템을 구축하는 고급 엔지니어들의 직접적인 교육을 받아보세요. 이 전문가 주도 컨퍼런스에서는 소프트웨어 리더쉽 Allianz, Skyscanner, Zalando, Delivery Hero와 같은 실제 구현 패턴의 깊이 있는 분석을 제공합니다.
 
 #인포큐 #개발슬롯몰리 #소프트웨어리더 #실제구현패턴
 
-12 번째 검색 내용
-제목: 앤지콘 이크스(Amazon Elastic Kubernetes Service)는 클러스터당 10만 노드를 지원하여 초급 AI/ML 작업을 가능하게 합니다.
-주소: https://www.infoq.com/news/2025/09/aws-eks-kubernetes-ultrascale/
-설명: Amazon Web Services는 Amazon Elastic Kubernetes Service(EKS)가 이제 100,000 노드를 지원하는 컨테이너 오케스트레이션의 중요한 발전을 발표했습니다. 이것은 이전 제한과 10배 증가합니다.
-#AWS #EKS #컨테이너_오케스트레이션
-
 13 번째 검색 내용
-제목: 구글이 고급 편집 기능과 일관성 기능을 포함한 Gemini 2.5 플래시 이미지를 출시합니다.
-주소: https://www.infoq.com/news/2025/09/gemini-flash-image/
-설명: AI : Google는 최신 이미지 생성 및 편집 모델인 Gemini 2.5 Flash Image(닉네임 나노바나나)를 발표했습니다. 시스템은 이전 Flash 모델과의 여러 업그레이드를 소개하며, 프롬프트에서 문자 일관성, 다중 이미지 퓨징, 정확한 프롬프트 기반 편집, 세계 지식의 통합을 위한 의미 이해를 포함합니다.
-#Gemini2.5FlashImage #GoogleAI #이미지생성및편집모델
-
-Hashtags: #Gemini2.5FlashImage, #GoogleAI, #이미지생성및편집모델
+제목: 앤지콘 이크스(Amazon Elastic Kubernetes Service)는 클러스터당 100,000 노드를 지원하여 초대형 AI/ML 워크로드에 최적화된다.
+주소: https://www.infoq.com/news/2025/09/aws-eks-kubernetes-ultrascale/
+설명: Amazon Web Services는 Amazon Elastic Kubernetes Service(EKS)가 이제 100,000 노드를 지원하는 컨테이너 오케스트레이션 기능을 개선한 것을 공고했습니다. 이는 이전의 제한에 대해 10배 증가합니다.
+#AWS #EKS #컨테이너오케스트레이션
 
 14 번째 검색 내용
-제목: 링크드인 재설계: 다양한 추론 워크플로를 지원하기 위해 엣지 빌딩 시스템 리펙리팅
+제목: 구글이 고급 편집 기능과 일관성 기능을 포함한 Gemini 2.5 플래시 이미지를 출시합니다.
+주소: https://www.infoq.com/news/2025/09/gemini-flash-image/
+설명: AI : 구글은 최신 이미지 생성 및 편집 모델인 Gemini 2.5 Flash Image(닉네임 나노바나나)를 발표했습니다. 시스템은 이전 Flash 모델과의 여러 업그레이드를 소개하며, 프롬프트에서의 문자 일관성, 다중 이미지 퓨징, 정확한 프롬프트 기반 편집, 세계 지식 통합을 위한 의미 이해를 포함합니다.
+#구글 #Gemini2.5FlashImage #이미지생성및편집모델
 
-(Note: The translation may not be perfect as it involves technical terms and specific company names. However, the meaning of the sentence is conveyed correctly.)
-주소: https://www.infoq.com/news/2025/09/linkedin-edge-recommendations/
-설명: LinkedIn는 다양한 추천을 제공하기 위해 멤버들 곁에서 새로운 것을 더 빠르고 개인화된 방식으로 전달할 수 있도록 변화를 이루는 다양한 추론 워크플로우를 지원하기 위해 엣지 빌딩 시스템을 재설계했습니다. 새로운 아키텍처는 전역 플랫폼에서 실시간 확장성, 비용 효율성, 및 유연성을 해결하기 위해 필요한 것입니다.
-#LinkedIn #추천 #엣지 빌딩 시스템 #실시간 확장성
-
-Translated content hashtags: #LinkedIn, #recommendations, #edge_building_system, #real-time_scalability, #cost_efficiency, #flexibility.
+Hashtags: #AI #이미지처리 #머신러닝
 
 15 번째 검색 내용
-제목: 깊은 탐색 DeepSeek v3.1 하이브리드 사유 아키텍처를 포함한 모델 발표
-[INST] Translate my sentence into Korean : 
-                            DeepSeek Releases v3.1 Model with Hybrid Reasoning Architecture
-                         [/INST]
-주소: https://www.infoq.com/news/2025/09/deepseek-v31-hybrid/
-설명: DeepSeek는 대규모 언어 모델의 V3.1 버전을 출시하였습니다. 이 모델은 사고와 사고 없는 두 가지 모드를 단일 시스템에서 결합한 하이브리드 아키텍처를 소개합니다.
-#DeepSeek #대규모언어모델 #하이브리드아키텍처
+제목: 링크드인 재설계: 다양한 추론 워크플로를 지원하기 위해 엣지 빌딩 시스템 리펙리징
 
-#hashtags: #AI #언어처리 #기술진보
+(Note: The translation may not be perfect as it is a technical term. However, the meaning should be clear.)
+주소: https://www.infoq.com/news/2025/09/linkedin-edge-recommendations/
+설명: LinkedIn는 다양한 추천을 제공하기 위해 멤버들 곁에서 새로운 내용을 전달하는 데 도움이 되도록 변화된 edge-building 시스템을 소개했습니다. 이 새로운 아키텍처는 실시간 확장성, 비용 효율성, 및 글로벌 플랫폼에서의 유연성을 위해 필요한 것입니다.
+#LinkedIn #edge-building #추천 #실시간 #비용효율적 #유연성
 
