@@ -1,0 +1,132 @@
+1 번째 검색 내용
+제목: 클라우드플레어, 그림자 AI 위험 평가에 대한 자동화된 점수 도입
+
+(Note: The translation may not be perfect as it is a direct translation from English to Korean. It would be better if a native Korean speaker checks and confirms the accuracy of the translation.)
+주소: https://www.infoq.com/news/2025/09/cloudflare-automated-scoring/
+설명: 인공지능 주간 2025에서 Cloudflare는 조직이 규모에 따른 안전성과 보안을 평가하는 데 도움이 되는 자동 평가 시스템인 Application Confidence Scores를 발표했습니다.
+#인공지능주간2025 #클라우드플레어 #안전성평가 #보안평가
+
+#hashtags: #AIWeek2025, #Cloudflare, #ThirdPartyAIApplications
+
+2 번째 검색 내용
+제목: Vercel은 AI 게이트웨이를 다양한 모델 통합을 위해 소개합니다.
+주소: https://www.infoq.com/news/2025/09/vercel-ai-gateway/
+설명: Vercel은 AI Gateway를 제품 워크로드에 배포했습니다. 서비스는 대규모 언어 분석 및 생성 모델에 접근하기 위해 단일 API 엔드포인트를 제공하며, 개발자들이 통합과 관리를 간소화하는 것을 목표로 합니다.
+#Vercel #AIGateway #언어분석 #생성모델
+
+#hashtags: #Vercel, #AIGateway, #언어분석, #생성모델
+
+3 번째 검색 내용
+제목: 다음 버전의 Next.js 15.5가 출시되었습니다: Turbopack 생산 빌드, Node.js 미들웨어, 및 더 나은 TypeScript DX
+
+[INST] 다음 버전의 Next.js 15.5가 출시되었습니다: Turbopack 생산 빌드, Node.js 미들웨어, 및 더 나은 TypeScript DX [/INST]
+주소: https://www.infoq.com/news/2025/09/nextjs-15-5-ships/
+설명: AI : Next.js 15.5가 출시되었습니다. 빌드 속도가 빠르고 서버측 미들웨어의 강력함을 제공합니다. 주요 강조 사항은 Turbopack 번들러입니다. 이것은 컴파일 속도를 2배부터 5배까지 높여줍니다. Node.js 미들웨어 개선 사항도 있습니다. TypeScript 개선 사항은 타입 검색 경로가 안정적이고 초기 오류 탐지를 향상시키며 개발자 경험을 향상시킵니다.
+#Next.js #Turbopack #TypeScript
+
+Hashtags: #Nextjs #Turbopack #Typescript
+
+4 번째 검색 내용
+제목: 구글 딥마인드는 장치에서의 임베딩을 위한 열린 모델 'EmbeddingGemma'를 출시합니다.
+주소: https://www.infoq.com/news/2025/09/embedding-gemma/
+설명: Google DeepMind는 EmbeddingGemma라는 308M 파라미터의 열린 임베딩 모델을 소개했습니다. 이 모델은 서버나 인터넷 연결 없이도 검색 증강 생성(RAG), 의미 검색, 텍스트 분류 등의 응용 프로그램을 접근할 수 있도록 설계되었습니다.
+#인공지능 #GoogleDeepMind #EmbeddingGemma
+
+#hashtags: #AI #Google #Search
+
+5 번째 검색 내용
+제목: [INST] 숙련자에서 스태프로 성장하며 배운 교훈 [/INST]
+주소: https://www.infoq.com/news/2025/09/growing-junior-staff/
+설명: Bruno Rey는 커리어 성장을 원형으로 생각하라고 제안했습니다: 자신, 팀, 회사, 고객입니다. 성공은 더 넓은 영향을 이해하고, 컴프렘스를 인정하며, 특히 스타트업에서는 빠르게 행동하는 것으로 이루어집니다. 맞춤법 제공자를 찾아 귀중한 피드백을 받고, 예상 외의 또는 위기에 인도되는 기회에 열려 있으며, 변화에 안티프래그일 정서로 살아남습니다.
+#커리어성장 #스타트업 #안티프래겐
+
+Hashtags: #커리어성장, #스타트업, #안티프래겐
+
+6 번째 검색 내용
+제목: Azure 서비스 그룹이 공개 미리 보기에 참여하며, 자원 관리를 위한 새로운 추상화 레이어를 제공합니다.
+주소: https://www.infoq.com/news/2025/09/azure-service-groups-preview/
+설명: Microsoft는 공개 미리 보기로 Azure Service Groups를 출시했습니다, 새로운 기능으로 리소스 관리와 관리를 간단하게 만듭니다. 테넌트 수준의 유연한 컨테이너로써 Service Groups는 테넌트 내에서 어디에서든지 RBAC나 정책 상속을 영향을 주지 않고 Azure 리소스를 조직화할 수 있게 합니다.
+#AzureServiceGroups #리소스관리 #테넌트수준컨테이너
+
+#hashtags: #Azure #Microsoft #CloudComputing
+
+7 번째 검색 내용
+제목: OpenAI의 gpt-realtime은 전체 발음 처리를 지원하여 생산성 준비 목소리 에이전트를 가능하게 합니다.
+주소: https://www.infoq.com/news/2025/09/openai-gpt-realtime/
+설명: OpenAI는 gpt-realtime과 Realtime API를 출시하여, 말 처리에 대한 끝부분 처리를 포함한 생산성 준비 인공지능 음성 에이전트를 지원합니다. 낮은 지연 시간과 자연스러운 발음 전달을 포함하여 출시되었습니다. 새로운 기능으로는 SIP 전화 지원, 이미지 입력, MCP 서버 통합 및 향상된 보호 조치가 있습니다. 초기 사용자인 Zillow와 T-Mobile은 실시간 고객 서비스 및 검색 사용 사례를 테스트하고 있습니다.
+#인공지능 #음성에이전트 #실시간처리
+
+Hashtags: #AI #VoiceAgents #RealtimeProcessing
+
+8 번째 검색 내용
+제목: 허니컴 호스팅 MCP는 IDE에 관측성 데이터를 가져옵니다.
+주소: https://www.infoq.com/news/2025/09/honeycomb-hosted-mcp/
+설명: Honeycomb has launched its hosted Model Context Protocol (MCP), giving developers real-time access to observability data inside IDEs and AI tools like GitHub Copilot. Available as a managed service on AWS Marketplace, it removes the need for self-hosting and streamlines debugging by surfacing traces, metrics, and logs without context-switching.
+#Honeycomb #ModelContextProtocol #ObservabilityData #AWSMarketplace
+
+Translated sentence in Korean: 
+                        허논컴은 개발자들에게 IDE와 AI 도구인 GitHub Copilot 내에서 실시간으로 관측성 데이터에 접근할 수 있도록 Hosted Model Context Protocol (MCP)을 출시했습니다. AWS Marketplace에서 관리형 서비스로 제공되며, 자체 호스팅 없이 트레이스, 메트릭, 로그를 컨텍스트 스위칭 없이 표시하여 디버깅을 간소화합니다.
+#허논컴 #ModelContextProtocol #관측성데이터 #AWSMarketplace
+
+Hashtags: #허논컴 #ModelContextProtocol #관측성데이터 #AWSMarketplace
+
+9 번째 검색 내용
+제목: Uber 공유 전략: 모노레포 변경에 의해 3,000개 이상의 마이크로 서비스를 제어하는 위험 관리
+
+(Note: The translation may not be perfect as it is a direct translation from English to Korean. It would be better if a native Korean speaker checks and adjusts the translation for proper grammar and sentence structure.)
+주소: https://www.infoq.com/news/2025/09/uber-monorepo-deployment/
+설명: Uber는 대규모 변경을 서비스하는 수천 개의 마이크로 서비스를 위한 몬레포의 롤아웃 제어에 대한 세부 사항을 공개했습니다. 이것은 지속적 배포의 주요 문제 중 하나인 대규모 스케일의 제어를 해결합니다.
+#Uber #몬레포 #대규모_변경 #지속적_배포
+
+Translated sentence: Uber has published details on their approach to controlling rollouts of large-scale changes across monorepos that serve thousands of microservices, addressing one of the key challenges in continuous deployment at massive scale.
+#Uber #몬레포 #대규모_변경 #지속적_배포
+
+10 번째 검색 내용
+제목: 시스템 초기화를 통해 "AI 네이티브" 플랫폼을 출시하여 인프라 자동화를 간소화합니다.
+주소: https://www.infoq.com/news/2025/09/system-initiative-ai-platform/
+설명: System Initiative는 최근에 AI Native Infrastructure Automation 플랫폼을 출시했습니다. 이 플랫폼은 DevOps 팀이 자연어를 통해 인프라를 관리하는 새로운 방법을 제공하고자 합니다.
+#인프라자동화 #DevOps #자연어처리
+
+11 번째 검색 내용
+제목: 
+주소: https://www.infoq.com/news/2025/09/ai-sheets/
+설명: Hugging Face는 AI Sheets라고 하는 오픈소스 앱을 발표했습니다. 이 도구는 AI 모델을 사용하여 데이터셋을 생성, 변환 및 향상시키는 데 스프레드시트와 같은 인터페이스를 제공합니다. 도구는 Hub에서 사용할 수 있으며, 로컬 배포도 가능합니다. 이 도구를 사용하면 OpenAI의 gpt-oss와 같은 수천 개의 오픈 모델을 실험할 수 있으며, 코드를 작성하지 않아도 됩니다.
+#인공지능 #데이터셋 #HuggingFace #AI_Sheet
+
+#hashtags:
+1. #인공지능(Artificial Intelligence)
+2. #데이터셋(Dataset)
+3. #HuggingFace(오픈소스 기업)
+
+12 번째 검색 내용
+제목: 앱슬런스, Airbnb의 새로운 컨텍스트 인식 로드 테스팅 프레임워크
+[INST] Impulse, Airbnb’s New Framework for Context-Aware Load Testing을 한글로 번역하면 다음과 같습니다. [/INST]
+주소: https://www.infoq.com/news/2025/09/airbnb-impulse-load-testing/
+설명: Airbnb는 마이크로서비스의 신뢰성과 성능을 개선하기 위해 Impulse라는 내부 로드 테스팅 프레임워크를 개발했습니다. 이것은 흩어진, 대규모 테스트를 가능하게 하고 팀들이 CI 파이프라인에 통합된 컨텍스트 얼럿 로드 테스트를 자체 서비스로 실행할 수 있도록 합니다. 제품과 유사한 트래픽을 시뮬레이션하여 Impulse는 변경이 제품에 도달하기 전에 엔지니어들이 축소점과 오류를 식별할 수 있도록 도와줍니다.
+#Airbnb #Impulse #로드테스팅 #마이크로서비스
+
+#hashtags: #Airbnb, #Impulse, #로드테스팅, #마이크로서비스
+
+13 번째 검색 내용
+제목: 자바 뉴스 요약: OpenJDK, TornadoVM, Payara 플랫폼, Apache Kafka, Grails, Micronaut
+주소: https://www.infoq.com/news/2025/09/java-news-roundup-sep01-2025/
+설명: AI : 이번 주의 Java 뉴스 요약은 2025년 9월 1일에 발표된 JEP 517 제안, TornadoVM의 GPULlama3.java 0.2.0 릴리즈, 2025년 9월 Payara Platform, Quarkus, Micronaut, Apache Kafka와 Apache Tomcat의 포인트 릴리즈, 그리고 Grails 7.0과 Gradle 9.1의 두 번째 리얼 캔디들을 다루고 있습니다.
+#Java #R�ogramming_Language #2025년_9월_뉴스 #JDK_26
+
+Hashtags: #Java #ProgrammingLanguage #September1st2025News #JDK26
+
+14 번째 검색 내용
+제목: 펠렛DB 클라우드: 오픈소스 몽고DB 어틀라스의 대안입니까?
+주소: https://www.infoq.com/news/2025/09/ferretdb-cloud-mongodb/
+설명: FerretDB는 최근 FerretDB Cloud를 발표하였습니다. 이것은 오픈 소스 DocumentDB를 기반으로 한 MongoDB 호환 데이터베이스 서비스입니다. 개발자들이 첫 번째 크로스 클라우드 DocumentDB 기반 솔루션과 MongoDB Atlas의 대안을 찾고 있는 사람에게 목적을 두고 있으며, AWS에만 현재 제공되고 있습니다.
+#FerretDB #DocumentDB #MongoDBAtlas #AWS
+
+15 번째 검색 내용
+제목: xAI 는 Grok Code Fast 1을 발표합니다. 이것은 에이전트적 코딩에 사용되는 새로운 모델입니다.
+주소: https://www.infoq.com/news/2025/09/xai-grok-fast1/
+설명: xAI는 에이전트릭 코딩 워크플로우에 특화된 모델인 grok-code-fast-1을 소개했습니다.
+#에이전트릭 #코딩 #워크플로우
+
+Translated sentence: xAI introduced grok-code-fast-1, a model developed specifically for agentic coding workflows.
+Hashtags: #agentic #coding #workflow
+
