@@ -1,90 +1,91 @@
 1 번째 검색 내용
-제목: 자바 25, 다음 LTS 릴리즈, 최종 완성된 기능과 성능, 실행 중 집중
-
-(Note: The translation may not be perfect as it is a machine translation. Please review and make necessary adjustments if needed.)
+제목: 자바 25, 다음 LTS 릴리스, 최종 완성된 기능과 성능, 실행 중에 집중하고 있습니다.
 주소: https://www.infoq.com/news/2025/09/java25-released/
-설명: Oracle는 Java 프로그래밍 언어와 가상 기계의 버전 25를 발표했습니다. JDK 21에서 처음으로 LTS(Long Term Support) 릴리스인 것을 포함하여 최종 기능 세트는 18개의 JEP(JEP: Java Enhancement Proposal)를 포함합니다. 이 중 7개는 발표와 미리 보기 과정에서 진화한 것으로 완료되었습니다. 이러한 기능 중 9개는 성능과 런타임에 집중합니다.
+설명: Oracle는 Java 프로그래밍 언어와 가상 기계의 버전 25를 발표했습니다. JDK 21에서 처음으로 LTS(Long Term Support) 릴리스인 것으로, 최종 기능 세트는 18개의 JEP(JEP: Java Enhancement Proposal) 중 7개가 발표되었으며, 이들은 혁신과 미리 보기 과정을 거쳐 발전한 것입니다. 이 중에서 9개의 기능은 성능과 런타임에 집중되어 있습니다.
 #Java #Oracle #LTS #성능 #런타임
 
 #hashtags: #Java #Oracle #LTS #성능 #런타임
 
 2 번째 검색 내용
-제목: Kaggle은 전략 게임에서 AI 모델을 평가하기 위한 Game Arena를 소개합니다.
+제목: Kaggle은 전략 게임에서 AI 모델을 평가하기 위한 게임 어레나를 소개합니다.
 주소: https://www.infoq.com/news/2025/09/kaggle-game-arena/
 설명: Kaggle, Google DeepMind와 협력하여, 전략 기반 게임에서 인공지능 모델의 성능을 평가하는 데 사용되는 플랫폼인 Kaggle Game Arena를 소개했습니다.
 #인공지능 #Kaggle #게임 #전략기반게임
 
 Translated sentence: Kaggle, in collaboration with Google DeepMind, has introduced Kaggle Game Arena, a platform designed to evaluate artificial intelligence models by testing their performance in strategy-based games.
-and Provide - #hashtags. Add 3 hashtags related to the translated content.
+
+Hashtags: #인공지능 #Kaggle #게임 #전략기반게임
 
 3 번째 검색 내용
 제목: [INST] 
 
-Linux 보안 도구가 io_uring 루트케트 기술로 우회되었음을 ARMO 연구소가 드러냄
+Linux 보안 도구가 io_uring 루트케트 기술로 우회되었음, ARMO 연구소 밝혀졌다.
 
 [/INST]
 주소: https://www.infoq.com/news/2025/09/linux-security-rootkit/
-설명: 보안 연구자들은 ARMO에서 Linux 실행 시큐리티 도구의 중요한 취약성을 발견했습니다. 이 취약성은 io_uring 인터페이스로부터 비롯되었으며, 비동기 I/O 메커니즘입니다. 이 인터페이스는 전통적인 시스템 콜 모니터링을 완전히 우회할 수 있습니다. 이 연구는 이 약점을 활용하여 대부분의 기존 보안 솔루션에서 감지되지 않고 무단 작업을 실행할 수 있는 방법을 보여줍니다.
-#인공지능 #보안 #Linux #취약성
+설명: 보안 연구자들은 ARMO에서 Linux 실행 시큐리티 도구의 중요한 취약점을 발견했습니다. 이 취약점은 io_uring 인터페이스로부터 비롯되었으며, 이는 전통적인 시스템 콜 모니터링을 완전히 우회할 수 있는 비동기 I/O 메커니즘입니다. 이 연구는 이 약점을 활용하여 대부분의 존재하는 보안 솔루션에서 감지되지 않고 공격자가 운영할 수 있는 сле협점을 보여줍니다.
+#인공지능 #보안 #Linux #취약점
 
-#hashtags: #인공지능, #보안, #Linux, #취약성
+#hashtags: #인공지능 #보안 #Linux #취약점
 
 4 번째 검색 내용
-제목: 페이저듀티의 카프카 중단으로 경고가 수천 개의 회사에게 소리를 안 함.
+제목: 페이저듀티의 카프카 장애로 경고가 천만 개의 회사에게 소리 없어졌습니다.
 주소: https://www.infoq.com/news/2025/09/pagerduty-kafka-outage/
-설명: PagerDuty, 수천 개의 기업에게 시스템 문제를 알리는데 사용되는 인시던트 관리 플랫폼이었지만, 2025년 8월 28일에는 자신들의 서비스가 중단되었습니다. 회사는 문제의 범위, 고객 영향과 그것을 예방하기 위해 어떻게 작업하고 있는지를 포함한 상세한 중단 보고서를 발표했습니다.
-#인시던트관리플랫폼 #PagerDuty #중단
+설명: PagerDuty, 수천 개의 기업에게 시스템 문제를 알리는데 사용되는 인시던트 관리 플랫폼이었으나, 2025년 8월 28일에 자신들의 서비스가 중단되었습니다. 회사는 문제의 범위, 고객 영향과 그것을 예방하기 위해 어떻게 작업하고 있는지를 포함한 상세한 중단 보고서를 발표했습니다.
+#인시던트관리플랫폼 #PagerDuty #중단 #예방
 
-Hashtags: #인시던트관리플랫폼, #PagerDuty, #중단
+Translated sentence: PagerDuty, the incident management platform used by thousands of organizations to alert them to problems on their systems, suffered a major outage itself on 28th August 2025. In a comprehensive outage report, the company detailed the scope of the problem, the customer impact, and how it is working to prevent a recurrence.
+#인시던트관리플랫폼 #PagerDuty #중단 #예방
+
+Hashtags: #인시던트관리플랫폼, #PagerDuty, #중단, #예방
 
 5 번째 검색 내용
 제목: 검은 상자에서 청록색 도면까지: 생성형 AI를 사용하여 레거시 시스템 기능 추출
 
 (Note: The translation may not be perfect as some phrases might not have a direct equivalent in Korean. However, it conveys the general meaning of the original sentence.)
 주소: https://www.infoq.com/news/2025/09/tw-blackbox/
-설명: Thoughtworks 콘설턴트들은 소스코드가 없는 레거시 시스템을 디코딩하기 위해 생성형 AI를 효과적으로 활용했습니다. Gemini 2.5 Pro를 사용하여 역엔지니어링의 속도를 높이면서, 두 주 만에 유효한 "블루프린트"를 생성하여 기능성을 확인했습니다. 피터너 사례는 AI가 투명한 시스템의 모던화에 대한 시간과 위험을 크게 줄이는데 어떻게 활용될 수 있는지를 보여줍니다.
-#레거시시스템 #AI #모던화
+설명: Thoughtworks 콘설턴트들은 소스코드가 없는 레거시 시스템을 디코딩하기 위해 생성형 AI를 효과적으로 활용했습니다. Gemini 2.5 Pro를 사용하여 역엔지니어링의 속도를 높였고, 두 주 내에 유효성 검증된 "블루프린트"를 만들었습니다. 피터너 쇼캐스는 AI가 투명한 시스템을 모дер나이징하는데 시간과 위험을 크게 줄여줄 수 있는 기능의 잠재적 성능을 보여줍니다.
+#레거시시스템 #AI #모더나이징
 
-#hashtags:
-1. #레거시시스템
-2. #AI
-3. #모던화
+#hashtags: #레거시시스템 #AI #모더나이징 #역엔지니어링 #유효성검증 #블루프린트
 
 6 번째 검색 내용
 제목: 소개하는 MCP 레지스트리
 
-(Note: "MCP" is an abbreviation or a specific term, so it remains untranslated in the Korean version.)
+(Note: "MCP" is an abbreviation or a proper noun, so it should not be translated. The rest of the sentence has been translated into Korean.)
 주소: https://www.infoq.com/news/2025/09/introducing-mcp-registry/
-설명: AI : MCP 생태계는 AI 개발을 향상시키기 위해 서버 검색에 대한 공개 레지스트리와 에이전트 상호 작용을 위한 안전한 게이트웨이를 제공합니다. 이 초기화되었던 MCP 레지스트리와 Linux Foundation의 Agentgateway 프로젝트는 AI 도구 관리를 간소화하며, 엔지니어링 팀에 대한 협력과 보안을 장려합니다.
-#MCP #AI_개발 #엔지니어링_팀 #보안
+설명: AI : MCP 생태계는 AI 개발을 향상시키기 위해 서버 검색에 대한 공개 레지스트리와 에이전트 상호 작용에 대한 안전한 게이트웨이를 제공합니다. 이 초기 시도는 MCP Registry와 Linux Foundation의 Agentgateway 프로젝트가 최근에 출시되었습니다. 이것은 AI 도구 관리를 간소화하고, 협력과 보안을 위한 엔지니어링 팀에게 기여합니다.
+#MCP #AI_개발 #서버_검색 #에이전트_상호작용
 
-Hashtags: #MCP #AI_development #Engineering_teams #Security
+Hashtags: #MCP #AI_development #Server_discovery #Agent_interactions
 
 7 번째 검색 내용
-제목: [INST] 핀터스트 엔지니어링 도구를 통합하는 새로운 핀콘솔 플랫폼으로 변환됩니다. [/INST]
-주소: https://www.infoq.com/news/2025/09/pinterest-pinconsole-unified-idp/
-설명: Pinterest는 PinConsole을 소개했습니다. 이것은 내부 개발자 플랫폼(IDP)으로, 엔지니어링 워크플로우를 중앙화합니다. 배포, 모니터링 및 서비스 관리에 대한 분산된 도구를 해결하기 위해 설계되었습니다. PinConsole은 엔지니어가 비즈니스 로직에 집중할 수 있도록 일관성 있는 레이어를 제공합니다.
-#PinConsole #내부개발자플랫폼 #엔지니어링워크플로우
+제목: 핀터스트 엔지니어링 도구를 통합하는 새로운 핀콘솔 플랫폼으로 핀터스트 유니파이
 
-Hashtags: #PinConsole, #IDP, #EngineeringWorkflows
+(Note: The translation may not be perfect as it is a direct translation from English to Korean. It would be helpful if you could provide more context or clarify the meaning of your sentence.)
+주소: https://www.infoq.com/news/2025/09/pinterest-pinconsole-unified-idp/
+설명: Pinterest는 PinConsole, 통합된 내부 개발자 플랫폼(IDP)을 소개했습니다. 배포, 모니터링 및 서비스 관리에 대한 분산된 도구를 해결하기 위해 설계되었으며, PinConsole은 엔지니어가 업무 로직에 집중할 수 있도록 일관성 있는 레이어를 제공합니다.
+#PinConsole #통합된내부개발자플랫폼 #엔지니어링워크플로우
+
+#hashtags:
+1. #PinConsole
+2. #통합된내부개발자플랫폼
+3. #엔지니어링워크플로우
 
 8 번째 검색 내용
-제목: 연결된 인(LinkedIn)이 기존 메시징 인프라에서 기업용 다중 에이전트 AI를 구축하는 방법
+제목: 연결된 인(LinkedIn)은 기존 메시징 인프라에서 기업용 다중 에이전트 AI를 구축하는 방법
 
 [INST] How LinkedIn Built Enterprise Multi-Agent AI on Existing Messaging Infrastructure [/INST]
 주소: https://www.infoq.com/news/2025/09/linkedin-multi-agent/
-설명: LinkedIn는 기존의 메시징 인프라를 조정 계층으로 재사용하여 다중 에이전트 시스템을 지원하고 인공지능 애플리케이션 플랫폼을 확장했습니다. 이로 인해 회사는 AI 에이전트를 확장할 때 새로운 조정 기술을 FROM 스크래치 생성하지 않고 글로벌 가용성을 달성하고 에이전트 협력을 통해 복잡한 다단계 워크플로우를 지원할 수 있었습니다.
-#인공지능 #LinkedIn #에이전트 #조정 #워크플로우
+설명: LinkedIn는 기존의 메시징 인프라를 조정 계층으로 재사용하여 다중 에이전트 시스템을 지원하고 인공지능 애플리케이션 플랫폼을 확장했습니다. 이로 인해 회사는 AI 에이전트를 확장할 때 새로운 조정 기술을 직접 구축하지 않아도 되며, 글로벌 가용성을 달성하고 에이전트 협력을 통해 복잡한 다단계 워크플로우를 지원할 수 있었습니다.
+#인공지능 #LinkedIn #에이전트_협력
 
-#hashtags:
-1. #AI_Application_Platform
-2. #LinkedIn_Multi-Agent_Systems
-3. #Coordination_Technology
+Hashtags: #인공지능, #LinkedIn, #에이전트_협력
 
 9 번째 검색 내용
 제목: 
 주소: https://www.infoq.com/news/2025/09/finepdfs/
-설명: AI : Hugging Face는 FinePDFs를 공개했습니다. 이것은 PDF로 완전히 구성된 공개 가장 큰 코퍼스입니다. 데이터셋은 1,733개의 언어에서 475억 문서를 포함하고 있으며, 약 3조 토큰을 합니다. 3.65테라바이트의 크기로 FinePDFs는 공개 훈련 데이터셋에 새로운 차원을 도입하여 PDF를 처리하는 것을 고려할 때까지 오래된 자원을 사용하는 것을 고려합니다.
+설명: AI : Hugging Face는 FinePDFs를 공개했습니다. 이것은 PDF로 완전히 구성된 공개 가장 큰 코퍼스입니다. 데이터셋은 1,733종류의 언어에서 475백만 문서를 포함하고 있으며, 전체 크기는 약 3조 토큰을 넘습니다. 3.65테라바이트의 크기로 FinePDFs는 공개 훈련 데이터셋에 새로운 차원을 도입하며, 과거까지 처리하기 어렵고 비쌈 자원으로 간주되었습니다.
 #FinePDFs #HuggingFace #코퍼스
 
 Hashtags: #FinePDFs, #HuggingFace, #코퍼스
@@ -92,52 +93,58 @@ Hashtags: #FinePDFs, #HuggingFace, #코퍼스
 10 번째 검색 내용
 제목: 자바 뉴스 요약: OpenJDK JEPs, TornadoVM, Spring Framework, Open Liberty, JBang
 주소: https://www.infoq.com/news/2025/09/java-news-roundup-sep08-2025/
-설명: Java 주요 뉴스 요약: 9월 8일, 2025년에는 OpenJDK JEPs를 위한 대상 및 새로운 후보; LangChain4j와 GPULlama3.java의 첫 번째 통합; Spring Framework, Spring Data, Spring AI의 마일스톤 릴리즈; Spring Authorization Server가 Spring Security로 이동; 2025년 9월 Open Liberty 발표; JBang에 대한 포인트 릴리즈.
-#Java #SpringFramework #OpenLiberty #JBang
+설명: AI : 이번 주의 Java 뉴스 요약은 2025년 9월 8일에 발표된 내용으로, OpenJDK JEPs가 JDK 26에 대상되고 새로운 후보 항목; LangChain4j와 GPULlama3.java의 첫 번째 통합; Spring Framework, Spring Data, Spring AI의 마일스톤 릴리즈; Spring Authorization Server가 Spring Security로 이동; 2025년 9월의 Open Liberty; 그리고 JBang에 대한 포인트 릴리즈입니다.
+#Java #OpenJDK #SpringFramework #LangChain4j
+
+Hashtags: #Java #OpenJDK #SpringFramework #LangChain4j
 
 11 번째 검색 내용
 제목: 클라우드플레어, 그림자 AI 위험 평가에 대한 자동화된 점수 도입
 
-(Note: The translation may not be perfect as it is a direct translation from English to Korean. The sentence structure and grammar might need adjustments for natural Korean language flow.)
+(Note: The translation may not be perfect as it is a direct translation from English to Korean. It would be better if a native Korean speaker checks and adjusts the translation for proper grammar and sentence structure.)
 주소: https://www.infoq.com/news/2025/09/cloudflare-automated-scoring/
 설명: 인공지능 주간 2025에서 Cloudflare는 조직이 규모에 따른 안전성과 보안을 평가하는 데 도움이 되는 자동 평가 시스템인 Application Confidence Scores를 발표했습니다.
 #인공지능주간2025 #클라우드플레어 #안전성평가 #보안평가
 
 During AI Week 2025, Cloudflare announced Application Confidence Scores, an automated assessment system that is designed to help organizations evaluate the safety and security of third-party AI applications at scale.
 and Provide - #hashtags. Add 3 hashtags related to the translated content.
-#AIWeek2025 #Cloudflare #ApplicationConfidenceScores #ThirdPartyAIApplications
+#AI주간2025 #클라우드플레어 #안전성평가 #보안평가
 
 12 번째 검색 내용
-제목: 빈엘(Vercel)이 AI 게이트웨이를 개발하여 다양한 모델 통합을 위해 소개합니다.
+제목: Vercel은 AI 게이트웨이를 다양한 모델 통합에 사용하기 위해 소개합니다.
 주소: https://www.infoq.com/news/2025/09/vercel-ai-gateway/
-설명: Vercel은 AI Gateway를 생산 작업에 배포했습니다. 서비스는 대규모 언어 분석 및 생성형 모델에 접근하기 위해 단일 API 엔드포인트를 제공하며, 개발자들이 통합과 관리를 간소화하는 것을 목표로 합니다.
+설명: Vercel은 AI Gateway를 제품 워크로드에 배포했습니다. 서비스는 대규모 언어 분석 및 생성형 모델에 접근하기 위해 단일 API 엔드포인트를 제공하며, 개발자들이 통합과 관리를 간소화하는 것을 목표로 합니다.
 #Vercel #AIGateway #언어분석 #생성형모델
 
-#hashtags: #Vercel, #AIGateway, #NLP, #GenerativeModels
+#hashtags: #Vercel, #AIGateway, #언어분석, #생성형모델
 
 13 번째 검색 내용
 제목: 다음 버전의 Next.js 15.5가 출시되었습니다: Turbopack 생산 빌드, Node.js 미들웨어, 및 더 나은 TypeScript DX
 
 [INST] 다음 버전의 Next.js 15.5가 출시되었습니다: Turbopack 생산 빌드, Node.js 미들웨어, 및 더 나은 TypeScript DX [/INST]
 주소: https://www.infoq.com/news/2025/09/nextjs-15-5-ships/
-설명: AI : Next.js 15.5가 출시되었습니다. 빌드 속도가 빠르고 강력한 서버측 미들웨어를 제공합니다. 주요 강조 사항은 Turbopack 번들러입니다. 이것은 컴파일 속도를 2배부터 5배까지 높여줍니다. Node.js 미들웨어 개선 사항도 있습니다. TypeScript 개선 사항은 타입 된 경로와 초기 오류 검출을 통해 개발자 경험을 향상시킵니다.
+설명: AI : Next.js 15.5가 출시되었습니다. 빌드 속도가 빠르고 서버측 미들웨어의 강력한 기능을 제공합니다. 주요 강조 사항은 Turbopack 번들러입니다. 이것은 컴파일 속도를 2배부터 5배까지 높여줍니다. Node.js 미들웨어 개선 사항도 있습니다. TypeScript 개선 사항은 타입 된 경로와 초기 오류 검출을 통해 개발자 경험을 향상시킵니다.
 #Next.js #Turbopack #TypeScript
 
-#hashtags: #WebDevelopment #ServerSideRendering #JavaScriptFrameworks
+#hashtags: #Nextjs #Turbopack #Typescript
+
+[/INST]
 
 14 번째 검색 내용
 제목: 구글 딥마인드는 장치에서의 임베딩을 위한 열린 모델 'EmbeddingGemma'를 출시합니다.
 주소: https://www.infoq.com/news/2025/09/embedding-gemma/
-설명: Google DeepMind는 EmbeddingGemma라는 308M 파라미터의 열린 임베딩 모델을 소개했습니다. 이 모델은 서버나 인터넷 연결 없이도 검색 증강 생성(RAG), 의미 검색, 텍스트 분류와 같은 응용 프로그램을 접근할 수 있도록 설계되었습니다.
-#인공지능 #GoogleDeepMind #EmbeddingGemma
+설명: Google DeepMind는 EmbeddingGemma라는 308M 파라미터의 오픈 임베딩 모델을 소개했습니다. 이 모델은 서버나 인터넷 연결 없이도 검색 증강 생성(RAG), 의미 검색, 텍스트 분류 등의 응용 프로그램을 접근할 수 있도록 설계되었습니다.
+#인공지능 #임베딩모델 #오픈소스
 
-#hashtags: #AI #Google #Search
+Translated sentence: Google DeepMind has introduced EmbeddingGemma, a 308M parameter open embedding model designed to run efficiently on-device. The model aims to make applications like retrieval-augmented generation (RAG), semantic search, and text classification accessible without the need for a server or internet connection.
+and Provide - #hashtags. Add 3 hashtags related to the translated content.
 
 15 번째 검색 내용
-제목: [INST] 성장에서 정점을 넘어 주니어에서 스태프로 이상 넘어가는 경험을 얻은 것을 배운다. [/INST]
+제목: [INST] 성장하며 주니어에서 스태프로 이상까지 넘어가면서 배운 교훈들을 번역합니다.
+[/INST]
 주소: https://www.infoq.com/news/2025/09/growing-junior-staff/
-설명: Bruno Rey는 커리어 성장을 원형으로 생각하라고 제안했습니다: 자신, 팀, 회사, 고객입니다. 성공은 더 넓은 영향을 이해하고, 컴프라임을 인정하고, 빠르게 대처하는 것에서 찾아야 합니다, 특히 스타트업에서는 그것이 더욱 중요합니다. 맞춤 피드백을 위해 메뉴터를 찾아라, 예상 외의 또는 사태 인도된 기회에 열려 있고, 변화에 안티프래그일 정서로 살아남습니다.
-#커리어성장 #스타트업 #메뉴터 #안티프래그일
+설명: Bruno Rey는 커리어 성장을 원형으로 생각하라고 제안했습니다: 자신, 팀, 회사, 고객입니다. 성공은 더 넓은 영향을 이해하고, 컴프라임을 인정하고, 빠르게 대처하는 것에서 찾아야 합니다, 특히 스타트업에서는 그것이 더욱 중요합니다. 맘터를 찾아 진실한 피드백을 받기 위해 노력하고, 예상 외의 또는 사태 인도한 기회에 열려 있으며, 변화에 안티프래그일 정서로 살아남습니다.
+#커리어성장 #스타트업 #안티프래그일
 
-Hashtags: #커리어성장, #스타트업, #메뉴터, #안티프래그일
+Hashtags: #커리어성장, #스타트업, #안티프래그일
 
