@@ -1,0 +1,154 @@
+1 번째 검색 내용
+제목: 시간과 OpenAI가 AI 에이전트 지속성을 공개 미리 보기 통합으로 출시했습니다.
+주소: https://www.infoq.com/news/2025/09/temporal-aiagent/
+설명: Temporal은 OpenAI Agents SDK와의 공개 미리 보기 통합을 발표하며, OpenAI의 프레임워크를 사용한 AI 에이전트 워크플로우에 지속적인 실행 능력을 소개했습니다.
+#Temporal #OpenAI #AI_에이전트_워크플로우
+
+Translated sentence: Temporal has unveiled a public preview integration with the OpenAI Agents SDK, introducing durable execution capabilities to AI agent workflows built using OpenAI's framework.
+#Temporal #OpenAI #AI_에이전트_워크플로우
+
+Hashtags added: 
+1. #Temporal
+2. #OpenAI
+3. #AI_에이전트_워크플로우
+
+2 번째 검색 내용
+제목: Green IT: 환경 영향을 줄이는 IT의 방법
+
+(Note: The translation may not be perfect as it is a machine translation. Please review and make any necessary adjustments.)
+주소: https://www.infoq.com/news/2025/09/IT-environmental-footprint/
+설명: Green IT은 IT의 환경 영향을 줄이기 위해 시스템을 구축, 배포 및 전력 공급 방식을 다시 생각하는 데 집중합니다. QCon London에서 Ludi Akue는 팀이 수명 평가를 수행하고, 10%의 배출량 감소 목표를 설정하고, 아키텍처를 간단하게 만들고, 프론트엔드를 최적화하여 기후 목표와 일치시키는 방법을 소개했습니다.
+#GreenIT #환경보호 #기후목표 #QConLondon
+
+Hashtags: #GreenIT, #EnvironmentalFootprint, #ClimateGoals
+
+3 번째 검색 내용
+제목: .NET 10 RC 1: 블라저에서 지속적인 상태 도입, 향상된 유효성 검사 및 생산성 준비 도구 추가
+
+(Note: The Korean translation may not be perfect as it is a machine translation. Please review and make any necessary adjustments.)
+주소: https://www.infoq.com/news/2025/09/dotnet-10-release-candidate/
+설명: Last week, Microsoft announced the release of .NET 10 RC 1, the first of two release candidates ahead of the final version. As stated by the .NET team, this build comes with a go-live license, allowing developers to use it in production environments with official support. It is available alongside Visual Studio 2026 Insiders and is supported in Visual Studio Code through the C# Dev Kit.
+
+Korean Translation: 지난 주, Microsoft는 .NET 10 RC 1의 출시를 발표했습니다. 이것은 최종 버전에 이르기 전에 두 번째 릴리스 캔디드 중 첫 번째입니다. .NET 팀의 말에 따르면, 이 빌드는 제품 환경에서 공식 지원을 받으며 사용할 수 있는 골라 라이센스를 포함하고 있습니다. Visual Studio 2026 Insiders와 동시에 출시되어 Visual Studio Code에서 C# Dev Kit을 통해 지원됩니다.
+
+#hashtags: #Microsoft #.NET #CSharp #VisualStudioCode
+
+4 번째 검색 내용
+제목: [INST] 건축 및 AI 적용을 위한 개방적인 연구실
+[/INST]
+주소: https://www.infoq.com/news/2025/09/open-practices-for-ai-adoption/
+설명: Andrea Magnorsky는 2025년 Cloud Native Summit에서 Byte-Sized Architecture를 주제로 발표했습니다. 이것은 작은, 반복적인 워크숍을 통해 공유된 이해를 구축하는데 사용되는 형식입니다. Ahilan Ponnusamy와 Andreas Grabner는 AI 채택에 대한 Technology Operating Model을 토의했습니다. 모든 접근 방식은 Open Practice Library를 통해 인간 중심의 협력과 아키텍처 진화를 주도하는데 사용되었습니다.
+#CloudNativeSummit2025 #ByteSizedArchitecture #AIAdoption #OpenPracticeLibrary
+
+Hashtags: #CloudNativeSummit2025, #ByteSizedArchitecture, #AIAdoption, #OpenPracticeLibrary
+
+5 번째 검색 내용
+제목: 개선된 응용 프로그램 인사이트 코드 최적화를 통해 .NET 성능 병목 자동으로 식별합니다.
+주소: https://www.infoq.com/news/2025/09/code-optimizations-dotnet/
+설명: Microsoft는 .NET 개발자들의 도구 세트를 확장하고 있습니다. Code Optimizations의 향상은 Azure Monitor 제공의 기능입니다. 이 기능은 Application Insights의 .NET Profiler와 함께 작동하며, 생산성 앱에서 CPU, 메모리, 스레딩 문제를 자동으로 감지하고 코드 수준에서 수정하기 위한 권장 사항을 제공합니다.
+#AzureMonitor #CodeOptimizations #.NETProfiler
+
+#hashtags: #Azure #Microsoft #DevelopersToolset
+
+6 번째 검색 내용
+제목: 오픈소스 LLM를 사용하여 GitHub Copilot Chat을 Visual Studio Code에 가져오는 Hugging Face
+
+(Note: This is a rough translation and may not be perfect. Please check the grammar and meaning before using it.)
+주소: https://www.infoq.com/news/2025/09/hugging-face-vscode/
+설명: Hugging Face는 Visual Studio Code의 GitHub Copilot Chat에 직접 Inference Provider를 연결할 수 있는 새로운 통합을 소개했습니다. 이 업데이트로는 Visual Studio Code 편집기 내부에서 오픈 소스의 대규모 자연어 모델 — Kimi K2, DeepSeek V3.1, GLM 4.5 등 —을 접근하고 테스트할 수 있으며, 플랫폼 전환이나 여러 도구를 조작하는 것이 필요 없습니다.
+#HuggingFace #인공지능 #VSCode #GitHubCopilotChat
+
+Translated sentence: Hugging Face has introduced a new integration that allows developers to connect Inference Providers directly with GitHub Copilot Chat in Visual Studio Code. The update means that open-source large language models — including Kimi K2, DeepSeek V3.1, GLM 4.5, and others — can now be accessed and tested from inside the VS Code editor, without the need to switch platforms or juggle multiple tools.
+#HuggingFace #인공지능 #VSCode #GitHubCopilotChat
+
+Hashtags: #HuggingFace #인공지능 #VSCode #GitHubCopilotChat
+
+7 번째 검색 내용
+제목: 자바 25, 다음 LTS 릴리스, 최종 완성된 기능과 성능, 실행 중에 집중하고 있습니다.
+주소: https://www.infoq.com/news/2025/09/java25-released/
+설명: Oracle는 Java 프로그래밍 언어와 가상 기계의 버전 25를 발표했습니다. JDK 21에서 처음으로 LTS(Long Term Support) 릴리스인 것을 포함하여 최종 기능 세트는 18개의 JEP(JEP: Java Enhancement Proposal)를 포함합니다. 이 중 7개는 시험 및 미리 보기 과정을 거쳐 발전한 것입니다. 이러한 기능 중 9개는 성능과 런타임에 집중되어 있습니다.
+#Java #Oracle #LTS #성능 #런타임
+
+#hashtags: #Java #Oracle #LTS #성능 #런타임
+
+8 번째 검색 내용
+제목: Kaggle은 전략 게임에서 AI 모델을 평가하기 위한 Game Arena를 소개합니다.
+주소: https://www.infoq.com/news/2025/09/kaggle-game-arena/
+설명: Kaggle, Google DeepMind와 협력하여, 전략 기반의 게임에서 AI 모델의 성능을 평가하는 데 사용되는 Kaggle Game Arena 플랫폼을 소개했습니다.
+#인공지능 #Kaggle #게임 #전략기반
+
+Translated sentence: Kaggle, in collaboration with Google DeepMind, has introduced Kaggle Game Arena, a platform designed to evaluate artificial intelligence models by testing their performance in strategy-based games.
+and Provide - #hashtags. Add 3 hashtags related to the translated content.
+
+9 번째 검색 내용
+제목: Linux 보안 도구가 io_uring 루트케트 기술로 우회되었음, ARMO 연구소에 의해 드러난 사실입니다.
+주소: https://www.infoq.com/news/2025/09/linux-security-rootkit/
+설명: 보안 연구자들은 ARMO에서 Linux 실행 시큐리티 도구의 중요한 취약점을 발견했습니다. 이 취약점은 io_uring 인터페이스로부터 비롯되었으며, 이는 전통적인 시스템 콜 모니터링을 완전히 우회할 수 있는 비동기 I/O 메커니즘입니다. 이 연구는 이 약점을 활용하여 대부분의 존재하는 보안 솔루션에서 감지되지 않고 작업할 수 있는 공격자들에게 어떻게 이용될 수 있는 방법을 보여줍니다.
+#인공지능 #보안 #Linux #취약점
+
+#hashtags: #인공지능 #보안 #Linux #취약점
+
+10 번째 검색 내용
+제목: 페이저듀티의 카프카 장애로 경고가 수천 개의 회사에게 소리를 안 함.
+주소: https://www.infoq.com/news/2025/09/pagerduty-kafka-outage/
+설명: PagerDuty, 수천 개의 기업에게 시스템 문제를 알리는데 사용되는 인시던트 관리 플랫폼이었으나, 2025년 8월 28일에는 자신들의 서비스에 대한 큰 중단이 발생했습니다. 회사는 문제의 범위, 고객 영향, 그리고 재발 방지를 위해 어떻게 작업하고 있는지에 대한 완전한 중단 보고서를 발표했습니다.
+#인시던트관리플랫폼 #PagerDuty #중단 #재발방지
+
+Translated sentence: PagerDuty, the incident management platform used by thousands of organizations to alert them to problems on their systems, suffered a major outage itself on 28th August, 2025. In a comprehensive outage report, the company detailed the scope of the problem, the customer impact, and how it is working to prevent a recurrence.
+#인시던트관리플랫폼 #PagerDuty #중단 #재발방지
+
+11 번째 검색 내용
+제목: 검은 상자에서 청록색 도면까지: 생성형 AI를 사용하여 레거시 시스템 기능 추출
+
+(Note: The Korean translation may not be a direct word-for-word translation, but it conveys the meaning of the original sentence.)
+주소: https://www.infoq.com/news/2025/09/tw-blackbox/
+설명: Thoughtworks 콘설턴트들은 소스코드가 없는 레거시 시스템을 디코딩하기 위해 생성형 AI를 효과적으로 활용했습니다. Gemini 2.5 Pro를 사용하여 역엔지니어링의 속도를 높였고, 두 주 만에 유효한 "블루프린트"를 생성하여 기능성을 확인했습니다. 피터너 사례는 AI가 투명한 시스템의 모던화에 대해 시간과 위험을 크게 줄이는데 어떻게 활용될 수 있는지를 보여줍니다.
+#레거시시스템 #AI #모던화
+
+#hashtags:
+1. #레거시시스템
+2. #AI
+3. #모던화
+
+12 번째 검색 내용
+제목: 소개하는 MCP 레지스트리
+
+(Note: "MCP" is an abbreviation or a specific term, so it remains untranslated in the Korean version.)
+주소: https://www.infoq.com/news/2025/09/introducing-mcp-registry/
+설명: AI : MCP 생태계는 AI 개발을 향상시키기 위해 서버 검색에 대한 공개 레지스트리와 에이전트 간 안전한 게이트웨이를 제공합니다. 이 초기화되었는데 MCP Registry와 Linux Foundation의 Agentgateway 프로젝트, AI 도구 관리를 간소화하고 엔지니어링 팀에 대한 협력과 보안을 장려합니다.
+#MCP #AI_개발 #엔지니어링_팀 #협력_및_보안
+
+Hashtags: #MCP, #AI_development, #Engineering_teams, #Collaboration_and_security
+
+13 번째 검색 내용
+제목: 핀터스트 엔지니어링 도구를 통합하는 새로운 핀콘솔 플랫폼으로 유니파이
+
+(Note: The translation may not be perfect as it is a direct translation from English to Korean. The meaning should still be conveyed, but the grammar and structure might be slightly off.)
+주소: https://www.infoq.com/news/2025/09/pinterest-pinconsole-unified-idp/
+설명: Pinterest는 PinConsole, 통합된 내부 개발자 플랫폼(IDP)을 소개했습니다. 배포, 모니터링 및 서비스 관리에 대한 분산된 도구를 해결하기 위해 설계되었으며, PinConsole은 엔지니어가 업무 로직에 집중할 수 있도록 일관성 있는 레이어를 제공합니다.
+#PinConsole #통합된내부개발자플랫폼 #엔지니어링워크플로우
+
+#hashtags:
+1. #Pinterest
+2. #IDP
+3. #엔지니어링워크플로우 # PinConsole
+
+14 번째 검색 내용
+제목: 연결된 인(LinkedIn)이 기존 메시징 인프라에서 엔터프라이즈 다중 에이전트 AI를 구축하는 방법
+
+(Note: The translation may not be perfect as it is a direct translation from English to Korean. It would be better if a native Korean speaker checks and adjusts the translation for proper grammar and sentence structure.)
+주소: https://www.infoq.com/news/2025/09/linkedin-multi-agent/
+설명: LinkedIn는 기존의 메시징 인프라를 조정 계층으로 재사용하여 다중 에이전트 시스템을 지원하고 인공지능 애플리케이션 플랫폼을 확장했습니다. 이로 인해 회사는 AI 에이전트를 확장할 때 새로운 조정 기술을 FROM 스크래치 빌드하지 않고 글로벌 가용성을 달성하고 에이전트 협력을 통해 복잡한 다단계 워크플로우를 지원할 수 있었습니다.
+#인공지능 #LinkedIn #에이전트_협력
+
+Hashtags: #인공지능, #LinkedIn, #에이전트_협력
+
+15 번째 검색 내용
+제목: 
+주소: https://www.infoq.com/news/2025/09/finepdfs/
+설명: Hugging Face는 FinePDFs를 공개했습니다. 이것은 PDF로 완전히 구성된 공개 가장 큰 코퍼스입니다. 데이터셋은 4750만 문서를 포함하고 있으며, 1,733종류의 언어에 걸쳐 전체 크기는 약 3조 토큰입니다. 3.65테라바이트의 크기로 FinePDFs는 공개 훈련 데이터셋에 새로운 차원을 도입하며, 과거까지 처리하기 어렵고 비쌈 자원으로 간주되었습니다.
+#FinePDFs #HuggingFace #PDF코퍼스
+
+Translated content: Hugging Face has unveiled FinePDFs, the largest publicly available corpus built entirely from PDFs. The dataset spans 475 million documents in 1,733 languages, totaling roughly 3 trillion tokens. At 3.65 terabytes in size, FinePDFs introduces a new dimension to open training datasets by tapping into a resource long considered too complex and expensive to process.
+#FinePDFs #HuggingFace #PDF코퍼스
+
