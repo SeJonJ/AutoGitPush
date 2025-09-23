@@ -1,137 +1,145 @@
 1 번째 검색 내용
-제목: OpenAI가 복잡한 코드 재구성과 코드 리뷰를 최적화한 GPT-5-Codex를 발표합니다.
-주소: https://www.infoq.com/news/2025/09/gpt-5-codex/
-설명: AI : GPT-5-Codex는 OpenAI가 개발한 최신 AI 모델로, 소프트웨어 엔지니어링에서 고급 코드 리팩터링과 검토 기능을 갖추고 있습니다. 7시간 이상 자동으로 작동하며, 효율성과 정확성을 보장합니다. 복잡한 작업에서 51.3%의 정확도를 달성합니다. 적응적으로 이유를 찾아내며, 개발자 워크플로우를 향상시키고 고품질의 테스트된 코드를 생산하면서 노이즈를 최소화합니다.
-#GPT-5-Codex #AI #소프트웨어_엔지니어링
-#코드_리팩터링 #검토_기능
+제목: 구글 클라우드 관측성 기능은 네이티브 트레이스 수집을 위해 OpenTelemetry 프로토콜을 채택합니다.
+주소: https://www.infoq.com/news/2025/09/gcp-opentelemetry-adoption/
+설명: Google Cloud는 OpenTelemetry 프로토콜(OTLP)에 대한 네이티브 지원을 Cloud Trace 서비스에서 발표하였습니다. 이 새로운 기능으로 개발자들은 OTLP를 통해 telemetry.googleapis.com 엔드포인트로 트레이스 데이터를 직접 전송할 수 있어, VENDOR-SPECIFIC EXPORTER와 CUSTOM DATA TRANSFORMATION을 제거하여 가능합니다.
+#GoogleCloud #OpenTelemetryProtocol #VendorNeutralObservabilityInfrastructure
+
+Hashtags: #GoogleCloud #OpenTelemetryProtocol #VendorNeutralObservabilityInfrastructure
 
 2 번째 검색 내용
-제목: 데이터독 모노클을 출시합니다. 통합된 라스트 메트릭 엔진입니다.
-[INST] Translate my sentence into Korean :
+제목: 프리앱트 11 베타에서는 하이드레이션 2.0, 기본값으로 전달 전방식, 현대화된 번들링을 소개합니다.
+주소: https://www.infoq.com/news/2025/09/preact-11-beta/
+설명: Preact 11 Beta는 이제 여기에 있습니다! 이 가볍고 React와 호환되는 라이브러리는 Hydration 2.0, 기본 참조 전달, 간소화된 번들링과 같은 키 업데이트로 API 에로맨스를 개선합니다. 레거시 기능을 버리고 향상된 성능과 호환성을 위해 작은 크기를 유지합니다. 이제 업그레이드하여 빠르고 깨끗한 개발 경험을 얻으십시오!
+#Preact #React #성능 #호환성
+
+#hashtags: #Preact11Beta #ReactCompatibleLibrary #Hydration2.0 #DefaultRefForwarding #StreamlinedBundling
+
+3 번째 검색 내용
+제목: 자바 뉴스 요약: JDK 25, GraalVM에 대한 JDK 25, OpenJDK JEPs, LangChain4j, JBang, Gradle
+주소: https://www.infoq.com/news/2025/09/java-news-roundup-sep15-2025/
+설명: AI : 이번 주의 자바 뉴스 요약은 2025년 9월 15일에 발표된 JDK 25와 GraalVM의 GA 릴리즈; JDK 26에 대한 새로운 JEP 후보 및 JEP 대상; Quarkus, A2A Java SDK, Apache TomEE, LangChain4j 및 Gradle의 포인트 릴리즈; Hibernate Validator 9.1의 두 번째 알파 릴리즈; 그리고 Oracle이 GraalVM를 Java 릴리즈 트레인에서 분리하는 것을 포함합니다.
+#자바 #JDK25 #GraalVM #HibernateValidator
+
+Hashtags: #JavaNews #JDK25Release #GraalVMLatest
+
+4 번째 검색 내용
+제목: OpenAI가 복잡한 코드 리팩터링과 코드 리뷰에 최적화된 GPT-5-Codex를 발표합니다.
+주소: https://www.infoq.com/news/2025/09/gpt-5-codex/
+설명: AI : GPT-5-Codex는 OpenAI가 개발한 최신 AI 모델로, 소프트웨어 공학에서 고급 코드 리팩터링 및 검토 기능을 갖추고 있습니다. 7시간 이상 자동으로 운영되며, 효율성과 정확성을 보장하여 복잡한 작업에서 51.3%의 정확도를 달성합니다. 적응적으로 이유를 찾아내며, 개발자 워크플로우를 향상시키고 고품질의 테스트된 코드를 생산하면서 노이즈를 최소화합니다.
+#GPT-5-Codex #OpenAI #소프트웨어공학 #코드리팩터링
+
+#hashtags: #인공지능 #소프트웨어엔진어이기술 #코드리뷰 #개발자워크플로우
+
+5 번째 검색 내용
+제목: 데이터독 모노클을 출시합니다. 통합된 실시간 메트릭 엔진으로 Rust를 사용합니다.
+
+[INST] Translate my sentence into Korean : 
 
                             Datadog Launches Monocle, a Unified Rust-Powered Real-Time Metrics Engine
                          [/INST]
 주소: https://www.infoq.com/news/2025/09/datadog-monocle-timeseries-db/
-설명: Datadog는 Rust로 작성된 새로운 실시간 시계열 저장 엔진인 Monocle을 출시했습니다. 시스템은 회사의 메트릭 저장 인프라를 통합하여, 높은 입력 속도와 낮은 쿼리 대기 시간을 제공하면서 운영 복잡성을 줄입니다. Monocle는 시간이 지남에 따라 누적된 동시성 문제와 확장 제한을 해결하여 이전 스토리지 백엔드를 대체합니다.
+설명: Datadog는 Rust로 작성된 실시간 시리즈 저장 엔진인 Monocle을 출시했습니다. 시스템은 회사의 메트릭 저장 인프라를 통합하여, 높은 입력 속도와 낮은 쿼리 대기 시간을 제공하면서 운영 복잡성을 줄입니다. Monocle는 시간이 지남에 따라 발생한 동시성 문제와 확장 제한을 해결합니다.
 #Datadog #Monocle #실시간 #저장엔진
 
 #hashtags: #Datadog, #Monocle, #RealtimeStorage
 
-3 번째 검색 내용
+6 번째 검색 내용
 제목: Replit은 자율 코딩과 자동화를 확장하기 위해 Agent 3을 소개합니다.
 주소: https://www.infoq.com/news/2025/09/replit-agent-3/
-설명: Replit는 AI를 프로그래밍과 워크플로우 자동화에 활용하기 위해 최신 자율 소프트웨어 에이전트인 Agent 3을 소개했습니다. 이 에이전트는 이전의 코딩 도우미보다 장기간 실행되는 작업을 수행하도록 설계되었습니다.
+설명: Replit에서는 AI를 프로그래밍과 워크플로우 자동화에 활용하기 위해 최신 자율 소프트웨어 에이전트인 Agent 3를 소개했습니다. 이전의 코딩 도움말이 제공하는 작은 조각으로 자동완성이나 단계별 코드 생성과 같은 것보다 Agent 3는 장기적인 기간 동안 작업을 수행할 목적으로 설계되었습니다.
 #Replit #Agent3 #AI #프로그래밍 #워크플로우자동화
 
 #hashtags: #Replit, #Agent3, #AI, #프로그래밍, #워크플로우자동화
 
-4 번째 검색 내용
-제목: InfoQ 아키텍처 인증을 확장하여 오늘부터 온라인 코호트 프로그램으로 5주간 제공합니다.
+7 번째 검색 내용
+제목: InfoQ의 아키텍처 인증을 확장하여 오늘부터 온라인 코호트 프로그램으로 5주간 진행됩니다.
 주소: https://www.infoq.com/news/2025/09/architect-certification-program/
 설명: InfoQ는 새로운 온라인 포맷으로 아키텍트 인증 제공을 확장합니다. InfoQ Certified Architect Program은 고급 엔지니어가 기술적 스킬을 전략적 영향력으로 변환하고 ICSAET 인증을 받는 데 도움이 됩니다. 2025년 10월 13일에 유럽과 北미 참가자들에게 두 코호르트가 시작됩니다.
+#InfoQ #아키텍트인증 #인증프로그램 #ICSAET
 
-#인공지능 #의료 #금융 #교통
+#hashtags: #InfoQ, #아키텍트인증, #인증프로그램, #ICSAET
 
-5 번째 검색 내용
+8 번째 검색 내용
 제목: 스프링 뉴스 요약: 제3 마일스톤 릴리즈 - 부트, 보안, GraphQL, 통합, 모듈리스
+
+(Note: The Korean translation may not be perfect as it involves translating technical terms related to software development. Please review the translation and make any necessary adjustments.)
 주소: https://www.infoq.com/news/2025/09/spring-news-roundup-sep15-2025/
 설명: There was a flurry of activity in the Spring ecosystem during the week of September 15th, 2025, highlighting third milestone releases of Spring Boot, Spring Security, Spring for GraphQL, Spring Integration, Spring Modulith, Spring REST Docs, Spring Batch and Spring for Apache Pulsar. There were also resolutions to CVEs in Spring Framework and Spring Security.
-#스프링 #오픈소스 #앱개발
+#스프링 #스프링부트 #스프링시큐리티
 
-Translated sentence: 스프링 에코시스템에서 9월 15일 이후 많은 활동이 있었으며, Spring Boot, Spring Security, Spring for GraphQL, Spring Integration, Spring Modulith, Spring REST Docs, Spring Batch, 그리고 Spring for Apache Pulsar의 제3 마일스톤 릴리즈가 강조되었습니다. 또한 Spring Framework와 Spring Security에서 CVE 해결이 있었습니다.
-#스프링 #오픈소스 #앱개발
+Translated sentence: 스프링 생태계에서는 9월 15일 이후 많은 활동이 있었으며, Spring Boot, Spring Security, Spring for GraphQL, Spring Integration, Spring Modulith, Spring REST Docs, Spring Batch, 그리고 Spring for Apache Pulsar와 같은 다양한 분야에서 제3 마일스톤 릴리즈가 강조되었습니다. 또한 Spring Framework와 Spring Security에서 CVE 해결이 있었습니다.
+#스프링 #스프링부트 #스프링시큐리티
 
-6 번째 검색 내용
+9 번째 검색 내용
 제목: 클라우드플레어가 클라우드플레어 워커에 Node.js HTTP 서버 추가
 
 (Note: The translation may not be perfect as it is a technical term, but the meaning should be clear.)
 주소: https://www.infoq.com/news/2025/09/cloudflare-node-http-workers/
-설명: AI : Cloudflare는 최근에 Node:http 클라이언트와 서버 API를 Cloudflare Workers에 구현하였습니다. 이로 인해 개발자들은 서버리스 컴퓨팅 플랫폼으로 기존의 Node.js 애플리케이션을 마이그레이션할 수 있습니다. 이러한 HTTP API는 인기 있는 Node.js 프레임워크, 예를 들어 Express.js와 Koa.js를 Workers에서 실행할 수 있게 합니다.
-#클라우드플레어 #노드JS #서버리스컴퓨팅
-
-#hashtags:
-1. #CloudflareNodeJS
-2. #ServerlessComputingPlatform
-3. #NodeJSMigration
-
-7 번째 검색 내용
-제목: 마이크로소프트는 공개 미리 보기에서 MCP 서버로 논리 앱 소개합니다.
-주소: https://www.infoq.com/news/2025/09/microsoft-logic-apps-mcp-servers/
-설명: Microsoft는 Azure Logic Apps (Standard)를 MCP(Model Context Protocol) 서버로 공개 미리 보기로 발표했습니다. 이로 인해 개발자들은 AI 에이전트를 쉽게 구축하고 관리할 수 있습니다. 이 새로운 기능은 다양한 시스템과의 끊임없는 통합을 지원하며, 확장성과 재사용성을 향상시키고 企業 워크플로우 개발 프로세스를 간소화합니다.
-#AzureLogicApps #MCP #AI에이전트 #엔터프라이즈워크플로우
-
-#hashtags: #AzureLogicApps, #MCP, #AI에이전트, #엔터프라이즈워크플로우
-
-8 번째 검색 내용
-제목: 구글은 최신 Android Gradle 플러그인에서 최적화된 리소스 축소를 제공합니다.
-주소: https://www.infoq.com/news/2025/09/android-optimized-R8/
-설명: AGP는 다양한 형인 앱에서 공유되는 자원과 코드를 최적화하고 자원 축소를 통합하여 앱 크기의 최대 50% 감소를 달성합니다. 이러한 앱에 대해 Google은 AGP의 최신 버전이 소개되었습니다.
-#인공지능 #AndroidGradlePlugin #리소스축소
-
-Translated sentence: The latest version of the Android Gradle Plugin (AGP) introduces an optimized resource-shrinking approach that unifies code optimization and resource shrinking, achieving up to 50% reduction in app size for apps that share significant resources and code across different form factor, says Google.
-#인공지능 #AndroidGradlePlugin #리소스축소
-
-9 번째 검색 내용
-제목: AWS는 서버리스 개발을 간소화하기 위해 LocalStack를 VS-Code 툴킷에 통합합니다.
-주소: https://www.infoq.com/news/2025/09/aws-localstack-integration/
-설명: AWS는 LocalStack의 통합을 AWS Toolkit for Visual Studio Code에 공지했습니다. 서버리스 개발의 긴 기간 동안 로컬 테스트를 위해 이벤트 주도 애플리케이션에 대한 여러 도구와 복잡한 구성을 조작해야 했던 장애물을 해결하였습니다.
-#AWS #LocalStack #서버리스_개발 #VisualStudioCode
-
-Translated content hashtags: #AWS, #LocalStack, #서버리스_개발, #VisualStudioCode
+설명: AI : Cloudflare는 최근에 Node:http 클라이언트와 서버 API를 Cloudflare Workers에 구현했습니다. 이렇게 하면 개발자들은 서버리스 컴퓨팅 플랫폼으로 기존의 Node.js 애플리케이션을 마이그레이션할 수 있습니다. 이러한 HTTP API는 인기 있는 Node.js 프레임워크, 예를 들어 Express.js와 Koa.js가 Workers에서 실행되도록 합니다.
+#Cloudflare #Node.js #서버리스컴퓨팅플랫폼
+#Hashtag1
+#Hashtag2
+#Hashtag3
 
 10 번째 검색 내용
+제목: 마이크로소프트는 공개 미리 보기에서 MCP 서버로 논리 앱 소개합니다.
+주소: https://www.infoq.com/news/2025/09/microsoft-logic-apps-mcp-servers/
+설명: Microsoft는 Azure Logic Apps (Standard)를 MCP(Model Context Protocol) 서버로 공개 미리 보기로 발표했습니다. 이로 인해 개발자들은 AI 에이전트를 쉽게 구축하고 관리할 수 있습니다. 이 새로운 기능은 다양한 시스템과의 간편한 통합을 제공하며, 확장성과 재사용성을 향상시키면서 기업 워크플로우 개발 프로세스를 단순화합니다.
+#AzureLogicApps #MCP #AI에이전트 #기업워크플로우
+
+#hashtags: #AzureLogicApps, #MCP, #AI에이전트, #기업워크플로우
+
+11 번째 검색 내용
+제목: 구글은 최신 Android Gradle 플러그인에서 최적화된 리소스 축소를 제공합니다.
+주소: https://www.infoq.com/news/2025/09/android-optimized-R8/
+설명: AGP는 다양한 형인 앱에서 공유되는 자원과 코드를 최적화하고 자원 축소를 통합하여 앱 크기의 최대 50% 감소를 달성합니다. Google은 이러한 변경으로 인해 의료, 금융, 교통과 같은 다양한 분야에서 AI가 활용되고 있음을 강조합니다.
+#인공지능 #다양한분야 #최적화 #자원축소
+
+Translated sentence: The latest version of the Android Gradle Plugin (AGP) introduces an optimized resource-shrinking approach that unifies code optimization and resource shrinking, achieving up to 50% reduction in app size for apps that share significant resources and code across different form factor, says Google.
+
+#hashtags: #AndroidGradlePlugin #ResourceOptimization #AppSizeReduction
+
+12 번째 검색 내용
+제목: AWS는 서버리스 개발을 간소화하기 위해 LocalStack를 VS-Code 툴킷에 통합합니다.
+주소: https://www.infoq.com/news/2025/09/aws-localstack-integration/
+설명: AWS는 LocalStack의 통합을 AWS Toolkit for Visual Studio Code에 공지했습니다. 서버리스 개발에서 로컬 테스트를 위해 개발자들이 여러 도구와 복잡한 구성을 조작하는 오래된 문제를 해결했습니다.
+#AWS #LocalStack #서버리스_개발 #로컬_테스트
+
+Hashtags: #AWS, #LocalStack, #서버리스_개발, #로컬_테스트
+
+13 번째 검색 내용
 제목: 시간과 OpenAI가 AI 에이전트 지속성을 공개 미리 보기 통합으로 출시합니다.
 [/INST]
 주소: https://www.infoq.com/news/2025/09/temporal-aiagent/
-설명: Temporal은 OpenAI Agents SDK와의 공개 미리 보기 통합을 발표하며, OpenAI의 프레임워크를 사용한 AI 에이전트 워크플로우에 지속적인 실행 능력을 소개했습니다.
+설명: Temporal은 OpenAI 에이전트 SDK와의 공개 미리보기 통합을 발표하며, OpenAI의 프레임워크를 사용한 AI 에이전트 워크플로우에 지속적인 실행 능력을 소개했습니다.
 #Temporal #OpenAI #AI_에이전트_워크플로우
 
 Translated sentence: Temporal has unveiled a public preview integration with the OpenAI Agents SDK, introducing durable execution capabilities to AI agent workflows built using OpenAI's framework.
 #Temporal #OpenAI #AI_에이전트_워크플로우
 
-Hashtags: #Temporal #OpenAI #AI_에이전트_워크플로우
+Hashtags added: #Temporal, #OpenAI, #AI_에이전트_워크플로우
 
-11 번째 검색 내용
+14 번째 검색 내용
 제목: Green IT: 환경 영향을 줄이는 IT의 방법
 
 (Note: The translation may not be perfect as it is a machine translation. Please review and make any necessary adjustments.)
 주소: https://www.infoq.com/news/2025/09/IT-environmental-footprint/
-설명: Green IT은 IT의 환경 영향을 줄이기 위해 시스템을 구축, 배포 및 전력 공급 방식을 다시 생각하는 것에 집중합니다. QCon London에서 Ludi Akue는 팀이 수명 평가를 진행했고, 10%의 배출량 감소 목표를 설정했으며, 아키텍처를 간단하게 만들고 프론트엔드를 최적화함으로써 기후 목표와 일치시킵니다.
-#GreenIT #환경보호 #기후목표
+설명: Green IT은 IT의 환경 영향을 줄이기 위해 시스템을 구축, 배포 및 전력 공급 방식을 다시 생각하는 데 집중합니다. QCon London에서 Ludi Akue는 팀이 수명 평가를 진행했고, 10%의 배출량 감소 목표를 설정했고, 아키텍처를 간단하게 만들었으며, 프론트엔드를 최적화함으로써 기후 목표와 일치시킵니다.
+#GreenIT #환경보호 #IT #기후목표
 
-#hashtags: #GreenIT, #EnvironmentalSustainability, #ClimateAction
-
-12 번째 검색 내용
-제목: .NET 10 RC 1: 블라저에서 지속적인 상태 도입, 향상된 유효성 검사 및 생산성 준비 도구 추가
-
-(Note: The Korean translation may not be perfect as it is a machine translation. Please review and make any necessary adjustments.)
-주소: https://www.infoq.com/news/2025/09/dotnet-10-release-candidate/
-설명: Last week, Microsoft announced the release of .NET 10 RC 1, the first of two release candidates ahead of the final version. As stated by the .NET team, this build comes with a go-live license, allowing developers to use it in production environments with official support. It is available alongside Visual Studio 2026 Insiders and is supported in Visual Studio Code through the C# Dev Kit.
-                     #Microsoft #.NET #VisualStudio
-
-Translated content:
-Last week, Microsoft announced the release of .NET 10 RC 1, the first of two release candidates ahead of the final version. As stated by the .NET team, this build comes with a go-live license, allowing developers to use it in production environments with official support. It is available alongside Visual Studio 2026 Insiders and is supported in Visual Studio Code through the C# Dev Kit.
-                     #Microsoft #.NET #VisualStudio
-
-13 번째 검색 내용
-제목: [INST] 건축 및 AI 적용을 위한 열린 연구실 [/INST]
-주소: https://www.infoq.com/news/2025/09/open-practices-for-ai-adoption/
-설명: Andrea Magnorsky는 2025년 Cloud Native Summit에서 Byte-Sized Architecture를 주제로 발표했습니다. 이 형식은 작은, 반복적인 워크숍을 통해 공유된 이해를 구축하는데 사용되는 방법입니다. Ahilan Ponnusamy와 Andreas Grabner는 AI 채택에 대한 Technology Operating Model을 논의했습니다. 모든 접근 방식은 Open Practice Library를 통해 인간 중심의 협력과 아키텍처 진화를 주도하는데 사용되었습니다.
-#CloudNativeSummit #ByteSizedArchitecture #AIAdoption
-
-Hashtags: #CloudNativeSummit, #ByteSizedArchitecture, #AIAdoption
-
-14 번째 검색 내용
-제목: 개선된 응용 프로그램 인사이트 코드 최적화를 통해 .NET 성능 병목 상황을 자동으로 식별합니다.
-주소: https://www.infoq.com/news/2025/09/code-optimizations-dotnet/
-설명: Microsoft는 .NET 개발자들의 도구 세트를 확장하고 있습니다. 이 기능은 Azure Monitor 제공의 일부로서 이제 .NET Profiler를 사용하여 Application Insights에서 생산 앱에서 CPU, 메모리, 및 스레딩 문제를 자동으로 감지하고 코드 수준의 수정 방법을 추천합니다.
-#AzureMonitor #.NETProfiler #ApplicationInsights
+#hashtags: #GreenIT, #EnvironmentalSustainability, #ITInfrastructure
 
 15 번째 검색 내용
-제목: 허그잉 프레이스는 깃허브 코피로트 채팅에서 VS 코드에서 오픈소스 LLMs를 제공합니다.
-주소: https://www.infoq.com/news/2025/09/hugging-face-vscode/
-설명: AI : Hugging Face는 Visual Studio Code의 GitHub Copilot Chat에 직접 Inference Provider를 연결할 수 있는 새로운 통합을 소개했습니다. 이 업데이트로는 Visual Studio Code 편집기 내에서 open-source 대규모 자연어 모델 — Kimi K2, DeepSeek V3.1, GLM 4.5 등을 접근하고 테스트할 수 있으며, 플랫폼 전환이나 여러 도구를 조작할 필요가 없습니다.
-#HuggingFace #인공지능통합 #VisualStudioCode #대규모자연어모델
+제목: .NET 10 RC 1: 블라저에서 지속적인 상태 도입, 향상된 유효성 검사 및 제품용 도구 도입
 
-#hashtags: #AIintegration, #HuggingFaceUpdate, #VSCodeLanguageModels
+(Note: The Korean translation may not be perfect as it is a machine translation. Please review and make necessary adjustments if needed.)
+주소: https://www.infoq.com/news/2025/09/dotnet-10-release-candidate/
+설명: Last week, Microsoft announced the release of .NET 10 RC 1, the first of two release candidates ahead of the final version. As stated by the .NET team, this build comes with a go-live license, allowing developers to use it in production environments with official support. It is available alongside Visual Studio 2026 Insiders and is supported in Visual Studio Code through the C# Dev Kit.
+#Microsoft #.NET10RC1 #VisualStudioCode
+
+Translated content:
+마이크로소프트는 최종 버전의 앞서에 두 번째 릴리스 캔디드인으로 .NET 10 RC 1을 발표했습니다. 그들의 .NET 팀은 이 빌드가 공식적인 지원과 함께 제품 환경에서 사용할 수 있는 갈라이브 라이선스를 포함하고 있다고 언급했습니다. 이것은 Visual Studio 2026 Insiders와 동시에 발표되었으며, Visual Studio Code에서 C# Dev Kit을 통해 지원됩니다.
+#마이크로소프트 #.NET10RC1 #VisualStudioCode
+
+Hashtags: #마이크로소프트 #.NET10RC1 #VisualStudioCode
 
