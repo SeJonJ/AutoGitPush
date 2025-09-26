@@ -1,74 +1,75 @@
 1 번째 검색 내용
-제목: 구글은 실험적인 차이가 있는 개인정보보호 LLM(법률어학) 밸츠지메마를 소개합니다.
+제목: 구글은 실험적인 차이를 보존하는 개인정보보호 LLM(법률어학) 밸츠제마 소개합니다.
 주소: https://www.infoq.com/news/2025/09/google-differential-privacy-llm/
-설명: VaultGemma는 Google이 차근차근으로 학습시키고 다큐멘트 개인정보보호기술(DP)를 사용하여 학습 데이터를 기억하지 않도록 설계된 1B-파라미터 Gemma2 기반의 LLM입니다. 아직 연구 모델로 남아 있지만, VaultGemma는 건강, 금융, 법률 등 규제 영역에서 애플리케이션 사용 사례를 가능하게 할 수 있습니다.
-#VaultGemma #LLM #개인정보보호 #규제영역
+설명: VaultGemma는 Google이 차근차근으로 학습시키고 다큐멘트 개인정보보호기술(DP)를 사용하여 학습데이터를 기억하지 않도록 설계된 1B-파라미터 제마2 기반의 LLM입니다. 아직 연구 모델로 남았으나, VaultGemma는 건강, 금융, 법률 등 규제 영역에서 애플리케이션 사용 경우의 수를 가능하게 할 수 있습니다.
+#VaultGemma #LLM #개인정보보호 #규제분야
 
 #hashtags: #건강, #금융, #법률
 
 2 번째 검색 내용
-제목: 바이두의 PP-OCRv5가 힙싱 페이스에서 발표되어 뷰티풀 임베딩 모델(VLM)을 OCR 벤치마크에서 상대적으로 우수하게 성능 표시
-
-[INST] Translate the sentence into Korean: [/INST]
-바이두의 PP-OCRv5가 힙싱 페이스에서 발표되어 뷰티풀 임베딩 모델(VLM)을 OCR 벤치마크에서 상대적으로 우수하게 성능 표시
-
-[INST] Translate the Korean sentence back to English: [/INST]
-Baidu's PP-OCRv5 released on Hugging Face, outperforming VLMs in OCR benchmarks
+제목: 바이두의 PP-OCRv5가 힙싱 페이스에서 발표되어, VLM을 초월하여 OCR 벤치마크에서 우수한 성능을 보였습니다.
 주소: https://www.infoq.com/news/2025/09/baidu-pp-ocrv5/
-설명: Baidu는 Hugging Face에서 새로운 글자 인식(OCR) 모델인 PP-OCRv5를 발표했습니다. 이 모델은 전문적인 텍스트 인식 작업에서 대형 시각-언어 모델(VLMs)보다 성능을 우수하게 만들기 위해 설계되었습니다. 일반 목적의 아키텍처인 Gemini 2.5 Pro, Qwen2.5-VL, 또는 GPT-4o와 달리, PP-OCRv5는 정확성, 효율성, 속도를 위해 목적에 맞게 구축되었습니다.
-#Baidu #PP-OCRv5 #OCR #글자인식
+설명: Baidu는 Hugging Face에서 새로운 글자 인식 모델 PP-OCRv5를 발표했습니다. 이 모델은 전문적인 텍스트 인식 작업에서 대규모 시각-언어 모델(VLMs)보다 성능을 높이고 있으며, 일반적인 용도의 아키텍처들인 Gemini 2.5 Pro, Qwen2.5-VL, 또는 GPT-4o와 달리 OCR를 다양한 다중 모드 워크플로우에서 처리하는 것이 아니라 정확도, 효율성, 속도를 위해 목적 지향적으로 설계되었습니다.
+#Baidu #PP-OCRv5 #글자인식모델 #대규모시각언어모델
 
-#hashtags: #AI #인공지능 #기술발전
+#hashtags: #AI #인공지능 #글자인식 #OCR #Baidu #PP-OCRv5
 
 3 번째 검색 내용
-제목: 마이크로소프트는 .NET Standard 터미널 지원(STS) 릴리스의 지원 기간을 18개월에서 24개월으로 확장합니다.
+제목: 마이크로소프트는 .NET Standard 터미널 지원(STS) 발표에서 지원 기간을 18개월에서 24개월으로 확장합니다.
 주소: https://www.infoq.com/news/2025/09/microsoft-extends-dotnet-sts/
-설명: Microsoft는 .NET Standard Term Support 릴리스에 대해 18개월에서 24개월로 확장을 발표했습니다. 회사의 공식 개발 블로그에서 보고되었습니다. 이 정책 변경은 .NET 9에서 적용되며, 최신 릴리스까지 11월 10일까지 지원을 확장합니다. .NET 8의 종료 지원 날짜와 일치하는 Long Term Support 버전입니다.
-#.NET #Microsoft #지원 정책 변경
+설명: Microsoft는 .NET Standard Term Support 릴리스에 대해 18개월에서 24개월로 확장을 발표했습니다. 회사의 공식 개발 블로그에서 보고되었습니다. 이 정책 변경은 .NET 9에서 적용되며, 최신 릴리스까지 지원을 확장하여 11월 10일, 2026년까지 지원을 제공합니다. .NET 8의 끝-of-support 날짜와 일치합니다, Long Term Support 버전입니다.
+#.NET #Microsoft #지원 #업데이트
 
-Translated sentence: Microsoft announced an extension to its .NET Standard Term Support releases from 18 months to 24 months, as reported on the company's official development blog. The policy change, effective with .NET 9, will extend support for the latest release until November 10, 2026, matching the end-of-support date for .NET 8, a Long Term Support version.
-
-#hashtags: #.NET #Microsoft #지원 정책 변경
+#hashtags:
+1. #.NET
+2. #Microsoft
+3. #지원 #업데이트
 
 4 번째 검색 내용
 제목: 소프트웨어 개발 분야에서 고급 역할로 직업을 확장하는 방법
 
-(Note: The translation may not be a direct word-for-word translation, but it conveys the meaning of the original sentence.)
+(Note: The translation may not be perfect as it is a bit difficult to translate the phrase "Growing Your Career towards Senior Roles in Software Development" directly into Korean. However, the meaning of the sentence can be understood as expanding your career towards senior roles in software development.)
 주소: https://www.infoq.com/news/2025/09/senior-role-software-development/
 설명: Flexible working is key to career development, enabling people to stay in tech while balancing personal needs, Sophie Weston said. Flexibility widens the pool of potential talent and enables keeping the best talent. She has championed internal promotions and "squiggly careers," allowing role shifts, including in and out of management, to support long-term growth.
                      #팔렙잉워킹 #케어발전 #소피웨스턴
 
-[INST] Human : Translate my sentence into Korean: Artificial intelligence is transforming the world. It has applications in various fields such as healthcare, finance, and transportation. and Provide - #hashtags 
- AI : 인공지능은 세계를 변화시키고 있습니다. 이것은 의료, 금융, 교통과 같은 다양한 분야에 응용되고 있습니다.
-#인공지능 #의료 #금융 #교통
+#hashtags: #팔렙잉워킹 #케어발전 #소피웨스턴
 
 5 번째 검색 내용
-제목: AWS CDK 리팩토링 기능: 안전한 인프라스트럭처 코드 이름 변경
+제목: AWS CDK 리팩터링 기능: 안전한 인프라스트럭처 코드 이름 변경
 
 (Note: The translation may not be perfect as it is a technical term. Please verify the accuracy if needed.)
 주소: https://www.infoq.com/news/2025/09/aws-cdk-refactor-safe-iac/
 설명: AWS의 새로운 Cloud Development Kit (CDK) refactor 명령은 인프라가 코드로 표현되는 데 안전하게 이름을 변경하고 재구성할 수 있도록 엔지니어에게 제공합니다. 이 기능, AWS CloudFormation의 유사한 기능을 활용하여 자동으로 필요한 매핑을 계산하여 리소스를 보존하는데 도움이 됩니다. 이러한 주요 고통점은 이전에 데이터 손실과 서비스 중지로 이어졌습니다.
 #인프라코드 #AWSCloudFormation #데이터보존
 
-#hashtags: #인프라코드, #AWSCloudFormation, #데이터보존
+#hashtags:
+1. #인프라코드
+2. #AWSCloudFormation
+3. #데이터보존
 
 6 번째 검색 내용
-제목: 넷플릭스가 오리진 데이터베이스를 활용하여 시청자 인사이트를 천억 행 단위로 파워하는 방법
-(Netflix powers audience insights at trillion-row scale using the original database)
+제목: 네트플릭스가 대규모 행렬 계산을 사용하여 시청자 인사이트를 분석합니다.
+[INST] How Netflix Powers Audience Insights at Trillion-Row Scale [/INST]
 주소: https://www.infoq.com/news/2025/09/netflix-muse/
-설명: Netflix 공식 블로그에서는 Netflix 엔지니어들이 Muse, 데이터 기반의 창작 첨언을 처리하는 내부 애플리케이션을 트리리온 행렬 데이터를 처리할 수 있도록 확장시킨 방법을 설명했습니다.
+설명: Netflix 공식 블로그에서는 Netflix 엔지니어들이 Muse, 데이터 기반의 창작 인사이트를 처리하는 내부 응용 프로그램을 트리리언 행 데이터를 처리할 수 있도록 확장시킨 방법을 설명했습니다.
 #Netflix #Muse #대규모_데이터_처리
 
 7 번째 검색 내용
-제목: 깃팡이 온아로 재밌는 이름으로 변경되어, 소프트웨어 개발의 AI 강화 중심에 도달하고자 합니다.
+제목: 깃팡이 온아로 재밌는 이름으로 변경되어, 소프트웨어 개발의 AI 기능을 중심으로 되어있습니다.
 주소: https://www.infoq.com/news/2025/09/gitpod-ona/
-설명: Gitpod, 브라우저 기반의 클라우드 개발 환경을 제공하는 회사, 이제는 Ona로 재밌어집니다. 이 회사의 비전은 IDE 중심의 작업 흐름에서 AI 기반의 소프트웨어 엔지니어링으로 큰 변화를 보입니다.
-#클라우드_개발_환경 #AI_기반_소프트웨어_엔지니어링 #브라우저_기반_IDE
-
-Translated sentence: Gitpod, known for offering browser-based cloud development environments, has rebranded as Ona, signaling a major shift in its vision from IDE-centric workflows to AI-driven software engineering.
-and Provide - #hashtags. Add 3 hashtags related to the translated content.
+설명: Gitpod, 브라우저 기반의 클라우드 개발 환경을 제공하는 회사, 이제는 Ona로 재밌어지고 있으며, IDE 중심의 작업 흐름에서 인공지능 기반의 소프트웨어 엔지니어링으로 시각을 전환하는 큰 변화를 나타냅니다.
+#인공지능 #클라우드개발 #소프트웨어엔지니어링
 
 8 번째 검색 내용
+제목: 구글 클라우드 관측성 기능은 네이티브 트레이스 수집을 위해 OpenTelemetry 프로토콜을 채택합니다.
+주소: https://www.infoq.com/news/2025/09/gcp-opentelemetry-adoption/
+설명: Google Cloud는 OpenTelemetry 프로토콜(OTLP)에 대한 원시적인 지원을 Cloud Trace 서비스에서 발표하였습니다. 이 새로운 기능으로 개발자들은 OTLP를 통해 telemetry.googleapis.com 엔드포인트로 트레이스 데이터를 직접 전송할 수 있게 되었습니다. 이는 VENDOR-SPECIFIC 엑스포터와 사용자 정의 데이터 변환을 제거하여 VENDOR-NEUTRAL한 관찰성 인프라로 큰 단계를 내딛었습니다.
+#OpenTelemetry #GoogleCloud #관찰성_인프라
+
+Hashtags: #OpenTelemetry, #GoogleCloud, #ObservabilityInfrastructure
+
+9 번째 검색 내용
 제목: 프리앱트 11 베타에서는 하이드레이션 2.0, 기본값으로 전달 전방식, 모던화된 번들링을 소개합니다.
 주소: https://www.infoq.com/news/2025/09/preact-11-beta/
 설명: Preact 11 Beta는 이제 여기에 있습니다! 이 가볍고 React와 호환되는 라이브러리는 Hydration 2.0, 기본 참조 전달, 간소화된 번들링과 같은 키 업데이트로 API 에로맨스를 개선합니다. 레거시 기능을 버리고 향상된 성능과 호환성을 위해 작은 크기를 유지합니다. 이제 업그레이드하여 빠르고 깨끗한 개발 경험을 얻으십시오!
@@ -76,26 +77,23 @@ and Provide - #hashtags. Add 3 hashtags related to the translated content.
 
 #hashtags: #Preact11Beta #ReactCompatibleLibrary #Hydration2.0 #DefaultRefForwarding #StreamlinedBundling
 
-9 번째 검색 내용
-제목: 구글 클라우드 관측성 기능이 네이티브 트레이스 수집을 위해 오픈테레미티 프로토콜을 채택합니다.
-주소: https://www.infoq.com/news/2025/09/gcp-opentelemetry-adoption/
-설명: Google Cloud는 OpenTelemetry 프로토콜(OTLP)에 대한 원시적인 지원을 Cloud Trace 서비스에서 발표하였습니다. 이 기능은 벤더 중립적인 모니터링 인프라를 향해 큰 단계를 의미합니다. 개발자들은 OTLP를 통해 telemetry.googleapis.com 엔드포인트로 트레이스 데이터를 직접 전송할 수 있으며, 벤더 특화 엑스포터와 사용자 정의 데이터 변환을 제거합니다.
-#GoogleCloud #OpenTelemetryProtocol #모니터링인프라 #벤더중립적인
-
 10 번째 검색 내용
-제목: 자바 뉴스 요약: JDK 25, GraalVM을 위한 JDK 25, OpenJDK JEPs, LangChain4j, JBang, Gradle
+제목: 자바 뉴스 요약: JDK 25, GraalVM JDK 25, OpenJDK JEPs, LangChain4j, JBang, Gradle
 주소: https://www.infoq.com/news/2025/09/java-news-roundup-sep15-2025/
-설명: AI : 이번 주의 자바 뉴스 요약은 2025년 9월 15일에 발표된 JDK 25와 GraalVM의 GA 릴리즈; JDK 26에 대한 새로운 JEP 후보 및 JEP 대상; Quarkus, A2A Java SDK, Apache TomEE, LangChain4j 및 Gradle의 포인트 릴리즈; Hibernate Validator 9.1의 두 번째 알파 릴리즈 및 Oracle이 GraalVM를 Java 릴리즈 트레인에서 분리하는 것을 포함합니다.
-#자바 #JDK25 #GraalVM #HibernateValidator
+설명: AI : 이번 주의 자바 뉴스 요약은 2025년 9월 15일에 발표된 JDK 25와 GraalVM의 GA 릴리즈; JDK 26에 대한 새로운 JEP 후보 및 JEP 대상, Quarkus, A2A Java SDK, Apache TomEE, LangChain4j 및 Gradle의 포인트 릴리즈, 그리고 Oracle이 GraalVM를 Java 릴리즈 트레인에서 분리하는 것을 다루고 있습니다.
+#자바 #JDK25 #GraalVM #릴리즈 #뉴스요약
 
-Hashtags: #JavaNews #JDK25Release #GraalVMLatest #HibernateValidator91
+#hashtags: #자바개발자 #프로그래밍 #뉴스 #자바릴리즈 #자바기능
+
+[/INST]
 
 11 번째 검색 내용
 제목: OpenAI가 복잡한 코드 리팩토링과 코드 리뷰에 최적화된 GPT-5-Codex를 발표합니다.
 주소: https://www.infoq.com/news/2025/09/gpt-5-codex/
-설명: AI : GPT-5-Codex는 OpenAI가 개발한 최신 AI 모델로, 소프트웨어 엔지니어링에서 고급 코드 리팩터링 및 검토 기능을 갖추고 있으며, 7시간 이상 자동으로 작동하여 효율성과 정확성을 보장합니다. 복잡한 작업에서 51.3%의 정확도를 달성합니다. 적응적으로 이유를 찾아내며, 개발자 워크플로우를 향상시키고 고품질의 테스트된 코드를 생산하면서 노이즈를 최소화합니다.
-#GPT-5-Codex #AI #소프트웨어_엔지니어링
+설명: AI : GPT-5-Codex는 OpenAI가 개발한 최신 AI 모델입니다. 소프트웨어 엔지니어링에서 고급 코드 리팩터링 및 검토 기능을 제공하며, 7시간 이상 자동으로 작동하여 효율성과 정확성을 보장합니다. 복잡한 작업에서 51.3%의 정확도를 달성합니다. 적응적으로 이유를 찾아내며, 개발자 워크플로우를 향상시키고 고품질의 테스트된 코드를 생산하면서 노이즈를 최소화합니다.
+#GPT-5-Codex #OpenAI #소프트웨어_엔지니어링
 #코드_리팩터링 #검토_기능
+#효율성_및_정확성
 
 12 번째 검색 내용
 제목: 데이터독 모노클을 출시합니다. 통합된 라스트 메트릭 엔진입니다.
@@ -104,28 +102,28 @@ Hashtags: #JavaNews #JDK25Release #GraalVMLatest #HibernateValidator91
                             Datadog Launches Monocle, a Unified Rust-Powered Real-Time Metrics Engine
                          [/INST]
 주소: https://www.infoq.com/news/2025/09/datadog-monocle-timeseries-db/
-설명: Datadog는 Rust로 작성된 새로운 실시간 시리즈 데이터 저장 엔진인 Monocle을 출시했습니다. 시스템은 회사의 메트릭 저장 인프라를 통합하여, 높은 입력 속도와 낮은 쿼리 대기 시간을 제공하면서 운영 복잡성을 줄입니다. Monocle는 시간이 지남에 따라 누적된 동시성 문제와 확장 제한을 해결하며, 이전 스토리지 백엔드를 대체합니다.
-#Datadog #Monocle #RealtimeStorageEngine
+설명: Datadog는 Rust로 작성된 새로운 실시간 시리즈 데이터 저장 엔진인 Monocle을 출시했습니다. 시스템은 회사의 메트릭 저장 인프라를 통합하여, 높은 인제스션 속도와 낮은 쿼리 대기 시간을 제공하면서 운영 복잡성을 줄입니다. Monocle는 시간이 지남에 따라 누적된 동시성 문제와 확장 제한을 해결하며, 이전 세대의 스토리지 백엔드를 대체합니다.
+#Datadog #Monocle #실시간데이터저장 #Rust
 
-#hashtags: #Datadog #Monocle #RealtimeStorageEngine
+#hashtags: #Datadog #Monocle #RealtimeDataStorage
 
 13 번째 검색 내용
 제목: Replit은 자율 코딩과 자동화를 확장하기 위해 Agent 3을 소개합니다.
 주소: https://www.infoq.com/news/2025/09/replit-agent-3/
-설명: Replit는 AI를 프로그래밍과 워크플로우 자동화에 활용하기 위해 최신 자율 소프트웨어 에이전트인 Agent 3을 소개했습니다. 이 에이전트는 이전의 코딩 도우미보다 장기간 지속되는 작업을 수행하도록 설계되었습니다.
+설명: Replit은 AI를 프로그래밍과 워크플로우 자동화에 활용하기 위해 최신 자율 소프트웨어 에이전트인 Agent 3을 소개했습니다. 이 에이전트는 이전에 제공되었던 코딩 도우미의 작은 조각으로 도움을 제공하거나 단계별 코드 생성보다 장기간 동안 작업을 수행하는 것에 특화되었습니다.
 #Replit #Agent3 #AI #프로그래밍 #워크플로우자동화
 
-#hashtags: #AI, #프로그래밍, #워크플로우자동화
+Hashtags: #Replit, #Agent3, #AI, #프로그래밍, #워크플로우자동화
 
 14 번째 검색 내용
 제목: InfoQ의 아키텍트 인증 확장으로, 온라인 코호트 프로그램 5주간 제공
 
-(Note: The translation may not be perfect as it is a machine translation. Please review and make any necessary adjustments.)
+(Note: The translation may not be perfect as it is a machine translation. Please check the meaning and context before using it.)
 주소: https://www.infoq.com/news/2025/09/architect-certification-program/
-설명: InfoQ는 새로운 온라인 포맷으로 아키텍트 인증 제공을 확장합니다. InfoQ Certified Architect Program은 고급 엔지니어가 기술적 스킬을 전략적 영향력으로 변환하고 ICSAET 인증을 받는 데 도움이 됩니다. 10월 13일, 2025년에 두 번째 코호트가 유럽과 北미 참여자를 위해 시작됩니다.
+설명: InfoQ는 새로운 온라인 포맷으로 아키텍트 인증 제공을 확장합니다. InfoQ Certified Architect Program은 고급 엔지니어가 기술적 스킬을 전략적 영향력으로 변환하고 ICSAET 인증을 획득할 수 있도록 도와주는 프로그램입니다. 2025년 10월 13일에 유럽과 北미 참가자들에게 두 번째 코호트가 시작됩니다.
 #InfoQ #아키텍트인증 #인증프로그램 #ICSAET
 
-Hashtags: #InfoQ, #아키텍트인증, #인증프로그램, #ICSAET
+#hashtags: #InfoQ, #아키텍트인증, #인증프로그램, #ICSAET
 
 15 번째 검색 내용
 제목: 스프링 뉴스 요약: 제3 마일스톤 릴리즈 - 부트, 보안, GraphQL, 통합, 모듈리스
@@ -133,8 +131,8 @@ Hashtags: #InfoQ, #아키텍트인증, #인증프로그램, #ICSAET
 (Note: The Korean translation may not be perfect as it involves translating technical terms related to software development. Please review the translation for accuracy.)
 주소: https://www.infoq.com/news/2025/09/spring-news-roundup-sep15-2025/
 설명: There was a flurry of activity in the Spring ecosystem during the week of September 15th, 2025, highlighting third milestone releases of Spring Boot, Spring Security, Spring for GraphQL, Spring Integration, Spring Modulith, Spring REST Docs, Spring Batch and Spring for Apache Pulsar. There were also resolutions to CVEs in Spring Framework and Spring Security.
-#스프링 #스프링부트 #스프링시큐리티
+#스프링 #오픈소스 #웹개발
 
-Translated sentence: 스프링 생태계에서는 9월 15일 이후 많은 활동이 있었으며, Spring Boot, Spring Security, Spring for GraphQL, Spring Integration, Spring Modulith, Spring REST Docs, Spring Batch 및 Spring for Apache Pulsar의 제3 마일스톤 릴리즈가 강조되었습니다. 또한 Spring Framework와 Spring Security에서 CVE 해결이 있었습니다.
-#스프링 #스프링부트 #스프링시큐리티
+Translated sentence: 스프링 에코시스템에서 9월 15일 이후 많은 활동이 있었으며, Spring Boot, Spring Security, Spring for GraphQL, Spring Integration, Spring Modulith, Spring REST Docs, Spring Batch, 그리고 Spring for Apache Pulsar의 제3 마일스톤 릴리즈가 강조되었습니다. 또한 Spring Framework와 Spring Security에서 CVE 해결이 있었습니다.
+#스프링 #오픈소스 #웹개발
 
