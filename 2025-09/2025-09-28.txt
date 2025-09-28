@@ -1,118 +1,133 @@
 1 번째 검색 내용
-제목: 보고서: LLM이 SRE를 대체하기 위해 인시던트 관리에 준비되지 않았음을 발견합니다.
+제목: 상상하고 배우는 클라우드 네이티브 규모와 비용 절약의 역할을 확인합니다.
+주소: https://www.infoq.com/news/2025/09/linkerd-cost-savings/
+설명: AI : 혁신적인 교육기술 제공자 Imagine Learning은 Linkerd가 클라우드 네이티브 인프라의 뼈대로 사용하여, 빠른 성장과 안정성, 확장성, 보안을 보장합니다. 컴퓨팅 요구 사항이 80% 감소하고 네트워크 비용이 40% 줄어들며 Linkerd는 다양한 분야에서 효율성을 향상시키는 확인된 해결 방안을 제공합니다.
+#클라우드네이티브 #교육기술 #Linkerd
+
+#hashtags: #클라우드네이티브, #교육기술, #Linkerd
+
+2 번째 검색 내용
+제목: 보고서: LLM이 SRE를 대체하기 위해 준비되지 않았음을 발견합니다.
 주소: https://www.infoq.com/news/2025/09/clickhouse-llm-sre-report/
-설명: AI : ClickHouse 연구에 따르면, 대규모 언어 모델(LLM)은 아직 SREs의 일을 대체할 수 없습니다. 이 연구는 5가지 최고 순위 모델을 실제 운영 시각화 데이터와 함께 AI가 자동으로 생산 문제를 식별할 수 있는지 확인하기 위해 테스트했습니다.
+설명: AI : ClickHouse 연구에 따르면, 대규모 언어 모델(LLM)은 아직 SREs의 일부 작업을 대체할 수 없습니다. 이 연구는 5가지 최고 순위 모델을 실제 운영 시각화 데이터와 함께 AI가 자동으로 생산 문제를 식별할 수 있는지 확인하기 위해 테스트했습니다.
 #ClickHouse #언어모델 #SREs #AI #운영시각화데이터
 
 Hashtags: #ClickHouse, #언어모델, #SREs, #AI, #운영시각화데이터
 
-2 번째 검색 내용
+3 번째 검색 내용
 제목: [INST] 기업판 버전에 대한 MySQL AI 소개 [/INST]
 주소: https://www.infoq.com/news/2025/09/mysql-ai-oracle/
-설명: Oracle는 최근 MySQL AI를 발표했습니다. MySQL Enterprise edition에서 전용으로 제공되는 AI가 있는 새로운 기능입니다. 이것은 대규모 배포에서 분석과 AI 작업을 위해 목표로 합니다. MySQL 커뮤니티 내에서 인기 있는 Community edition의 미래에 대한 걱정이 증가하고 있으며, 최근 내부 사원 해지와 함께 벤더 락인 문제로 인해 걱정되고 있습니다.
+설명: Oracle는 최근 MySQL AI를 발표했습니다. MySQL Enterprise edition에서만 사용할 수 있는 AI가 능력이 포함된 새로운 세트입니다. 대규모 배포에서 분석과 AI 작업을 목표로 합니다. MySQL 커뮤니티 내에서는 MySQL Community edition의 미래에 대한 걱정이 증가하고 있으며, 최근 내부 인사 절감과 함께 벤더 락인 문제로 인해 걱정되고 있습니다.
 #MySQLAI #Oracle #벤더락인
 
 #hashtags: #MySQLAI, #Oracle, #벤더락인
 
-3 번째 검색 내용
-제목: .NET Aspire 9.5 출시: 새로운 CLI 업데이트 명령, 대시보드 AI 비주얼라이저, 확장된 통합
-
-(Note: The Korean translation may not be perfect as it is a machine translation. Please review and make any necessary adjustments.)
-주소: https://www.infoq.com/news/2025/09/aspire-95-release/
-설명: Microsoft는 Aspire 9.5를 최신 미니 릴리스로서 플랫폼에 공지하였으며, .NET 8 Long Term Support, .NET 9 Standard Term Support (STS), .NET 10 Release Candidate 1과 같은 기능을 추가하고 있습니다. 팀은 Aspire 릴리스는 .NET 릴리스 일정에서 독립적으로 배포되며, 주 버전이 .NET amilestone와 동기화되고 미니 버전은 더 자주 발표됩니다.
-#Aspire #Microsoft #.NET #릴리스 #플랫폼
-
-#hashtags: #Microsoft #Aspire #.NET #릴리스 #플랫폼
-
 4 번째 검색 내용
-제목: Kubernetes 1.34가 KYAML, 트래픽 라우팅 제어, 및 개선된 관측성으로 발표되었습니다.
+제목: .NET Aspire 9.5 출시: 새로운 CLI 업데이트 명령, 대쉬보드 AI 시각화, 확장된 통합
+
+(Note: The translation may not be perfect as it is a technical term and some terms might have specific meanings in the context of .NET Aspire. Please verify the accuracy of the translation if necessary.)
+주소: https://www.infoq.com/news/2025/09/aspire-95-release/
+설명: Microsoft는 Aspire 9.5를 최신 미니 릴리스로서 플랫폼에 공지하였습니다. .NET 8 Long Term Support, .NET 9 Standard Term Support (STS), 그리고 .NET 10 Release Candidate 1에 대한 지원을 도입합니다. 팀은 Aspire 릴리스는 .NET 릴리스 일정과 독립적으로 배포되며, 주 버전이 .NET amilestone에 맞춰지고 미니 버전은 더 자주 발표됩니다.
+#Microsoft #Aspire9.5 #.NET #릴리스 #업데이트
+
+#hashtags: #Microsoft, #Aspire9.5, #.NET, #릴리스, #업데이트
+
+5 번째 검색 내용
+제목: Kubernetes 1.34가 KYAML, 트래픽 라우팅 제어, 및 개선된 관찰성으로 발표되었습니다.
 주소: https://www.infoq.com/news/2025/09/kubernetes-1-34/
 설명: 인공지능 기반의 클라우드 네이티브 컴퓨팅 재단(CNCF)은 지난 달에 Kubernetes 1.34, "Of Wind & Will"(O’ WaW)로 명명된 버전을 발표했습니다. 이 릴리즈는 kubelet과 API 서버에 대한 생산성 수준의 추적 기능과 분산된 자원 할당 기능을 소개했습니다.
 #Kubernetes #CNCF #클라우드네이티브컴퓨팅재단
 
-5 번째 검색 내용
-제목: xAI가 빠른 속도와 저렴한 비용으로 이상적인 사고 모델을 포함한 Grok 4를 발표합니다.
+6 번째 검색 내용
+제목: xAI가 빠른 속도와 저렴한 비용으로 이상적인 모델을 포함한 Grok 4를 발표합니다.
 주소: https://www.infoq.com/news/2025/09/xai-grok4-fast/
 설명: xAI는 효율성과 저렴한 비용을 목표로 설계된 Grok 4 Fast라는 새로운 이유 모델을 소개했습니다.
 #인공지능 #효율성 #저렴한_비용
 
-6 번째 검색 내용
-제목: 구글은 실험적인 차이가 있는 개인정보보호 LLM(법률어학) 밸츠제마를 소개합니다.
-주소: https://www.infoq.com/news/2025/09/google-differential-privacy-llm/
-설명: VaultGemma는 Google이 차근차근으로 학습시키며 다ifferential privacy(DP)를 사용하여 모델이 훈련 데이터를 기억하고 나중에 재생산할 것을 방지하는 목적으로 만든 1B-매개변수 Gemma2 기반의 LLM입니다. 아직 연구 모델이지만 VaultGemma는 건강, 금융, 법률, 그리고 기타 규제 분야에서 애플리케이션 사례를 가능하게 할 수 있습니다.
-#인공지능 #VaultGemma #다ifferential privacy(DP) #규제 분야
-
 7 번째 검색 내용
-제목: 바이두의 PP-OCRv5가 힙싱 페이스에서 발표되어 뷰티풀 임베딩 모델(VLM)을 OCR 벤치마크에서 우수하게 성능 차이를 보였습니다.
-주소: https://www.infoq.com/news/2025/09/baidu-pp-ocrv5/
-설명: Baidu는 Hugging Face에서 새로운 글자 인식(OCR) 모델인 PP-OCRv5를 발표했습니다. 이 모델은 전문적인 텍스트 인식 작업에서 대형 시각-언어 모델(VLMs)보다 성능을 높이고 있으며, 일반적인 목적의 아키텍처인 Gemini 2.5 Pro, Qwen2.5-VL, 또는 GPT-4o와 달리 OCR를 넓은 다중 모드 워크플로우에서 처리하는 것이 아니라 정확성, 효율성, 속도에 특화되었습니다.
-#OCR #Baidu #PP-OCRv5
+제목: 구글은 실험적인 차이를 가지는 개인정보보호 LLM(법률학문) 밸츠제마 소개합니다.
+주소: https://www.infoq.com/news/2025/09/google-differential-privacy-llm/
+설명: VaultGemma는 Google이 차근차근으로 학습시키고 다큐멘트 개인정보보호기술(DP)를 사용하여 교육 데이터를 기억하거나 다시 발언하지 못하도록 설계된 1B-매개변수 Gemma2 기반의 LLM입니다. 아직 연구 모델로 남았으나 VaultGemma는 건강, 금융, 법률 등 규제 영역에서 애플리케이션 사례를 가능하게 할 수 있습니다.
+#인공지능 #개인정보보호 #규제영역
 
-Hashtags: #OCR #Baidu #PP-OCRv5
+Translated sentence: VaultGemma is a 1B-parameter Gemma 2-based LLM that Google trained from scratch using differential privacy (DP) with the aim of preventing the model from memorizing and later regurgitating training data. While still a research model, VaultGemma could enable applications cases in healthcare, finance, legal, and other regulated sectors.
+
+Hashtags: #인공지능 #개인정보보호 #규제영역
 
 8 번째 검색 내용
+제목: 바이두의 PP-OCRv5가 힙싱 페이스에서 발표되어 뷰티풀 임베딩 모델(VLM)을 OCR 벤치마크에서 우수하게 성능 차이를 보였습니다.
+주소: https://www.infoq.com/news/2025/09/baidu-pp-ocrv5/
+설명: Baidu는 Hugging Face에서 새로운 글자 인식(OCR) 모델 PP-OCRv5를 발표했습니다. 이 모델은 전문적인 텍스트 인식 작업에서 대형 시각-언어 모델(VLMs)보다 성능을 우수하게 만들기 위해 설계되었습니다. 일반적인 아키텍처인 Gemini 2.5 Pro, Qwen2.5-VL, 또는 GPT-4o와 달리, PP-OCRv5는 정확도, 효율성, 속도를 위해 목적에 맞게 구축되었습니다.
+#Baidu #PP-OCRv5 #OCR #글자인식
+
+#hashtags: #AI #인공지능 #기술발전
+
+9 번째 검색 내용
 제목: 마이크로소프트는 .NET Standard 터미널 지원(STS) 발표에서 지원 기간을 18개월에서 24개월으로 확장합니다.
 주소: https://www.infoq.com/news/2025/09/microsoft-extends-dotnet-sts/
-설명: Microsoft는 .NET Standard Term Support 릴리스에 대해 18개월에서 24개월로 확장을 발표했습니다. 회사의 공식 개발 블로그에서 보고되었습니다. 이 정책 변경은 .NET 9에서 적용되며, 최신 릴리스까지 11월 10일까지 지원을 확장합니다. .NET 8의 종료 지원 날짜와 일치하는 Long Term Support 버전입니다.
+설명: Microsoft는 .NET Standard Term Support 릴리스에 대해 18개월에서 24개월로 확장을 발표했습니다. 회사의 공식 개발 블로그에서 보고되었습니다. 이 정책 변경은 .NET 9에서 적용되며, 최신 릴리스까지 지원을 확장하여 11월 10일, 2026년까지 지원을 제공합니다. .NET 8의 종료 지원 날짜와 일치합니다.
 #.NET #Microsoft #지원 #릴리스
 
 #hashtags: #.NET, #Microsoft, #지원, #릴리스
 
-9 번째 검색 내용
-제목: 소프트웨어 개발 분야에서 고급 역할로 직업을 확장하는 방법
-
-(Note: The translation may not be a direct word-for-word translation, but it conveys the meaning of the original sentence.)
+10 번째 검색 내용
+제목: 소프트웨어 개발 분야에서 고위원으로 직업을 성장시키는 방법
+[/INST]
 주소: https://www.infoq.com/news/2025/09/senior-role-software-development/
 설명: Flexible working is key to career development, enabling people to stay in tech while balancing personal needs, Sophie Weston said. Flexibility widens the pool of potential talent and enables keeping the best talent. She has championed internal promotions and "squiggly careers," allowing role shifts, including in and out of management, to support long-term growth.
                      #팔렙잉워킹 #케어발전 #소피웨스턴
 
 #hashtags: #팔렙잉워킹 #케어발전 #소피웨스턴
 
-10 번째 검색 내용
-제목: AWS CDK 리팩터링 기능: 안전한 인프라스트럭처 코드 이름 변경
-
-(Note: The translation may not be perfect due to the specific terminology used in the original sentence.)
-주소: https://www.infoq.com/news/2025/09/aws-cdk-refactor-safe-iac/
-설명: AWS의 새로운 Cloud Development Kit (CDK) refactor 명령은 인프라가 코드로 표현되는 데 안전하게 이름을 변경하고 재구성할 수 있도록 엔지니어에게 제공합니다. 이 기능, AWS CloudFormation의 유사한 기능을 활용하여, 데이터베이스와 같은 리소스를 보존하기 위해 필요한 매핑을 자동으로 계산합니다. 이러한 주요 고통점을 해결하여, 이전에는 데이터 손실과 서비스 중지가 발생했습니다.
-#인프라코드 #AWS #CDK
-
-Hashtags: #인프라코드, #AWS, #CDK
-
 11 번째 검색 내용
-제목: 넷플릭스가 조밀한 관객 인사이트를 천억 행 규모로 실현하는 방법
-[INST] How Netflix Powers Audience Insights at Trillion-Row Scale [/INST]
-주소: https://www.infoq.com/news/2025/09/netflix-muse/
-설명: Netflix 공식 블로그에서는 Netflix 엔지니어들이 Muse, 데이터 기반의 창작 인사이트를 처리하는 내부 응용 프로그램을 트리리언 행 데이터를 처리할 수 있도록 확장시킨 방법을 설명했습니다.
-#Netflix #Muse #대규모_데이터_처리
+제목: AWS CDK 리팩토링 기능: 안전한 인프라스트럭처 코드 이름 변경
+
+(Note: The translation may not be perfect as it is a technical term. Please confirm the accuracy with a Korean speaker familiar with AWS CDK.)
+주소: https://www.infoq.com/news/2025/09/aws-cdk-refactor-safe-iac/
+설명: AWS의 새로운 Cloud Development Kit (CDK) 리팩터링 명령은 인프라가 코드로 표현되는 데 안전하게 이름을 변경하고 재구성할 수 있도록 설계되었습니다. 이 기능은 AWS CloudFormation의 유사한 기능을 활용하여 자동으로 필요한 매핑을 계산하여 리소스, 예를 들어 데이터베이스,를 보호합니다. 이러한 문제점은 이전에 데이터 손실과 서비스 중지로 이어졌습니다.
+#AWS #CloudDevelopmentKit #인프라코드 #데이터베이스보호
+
+#hashtags:
+1. #AWS
+2. #인프라코드
+3. #데이터베이스보호
 
 12 번째 검색 내용
-제목: [INST] 깃팡이 아이전트(AI)를 강조하여 소프트웨어 개발의 중심으로 성장하고자 재밌드를 온나(Ona)로 변경
-[/INST]
-주소: https://www.infoq.com/news/2025/09/gitpod-ona/
-설명: Gitpod, 브라우저 기반의 클라우드 개발 환경을 제공하는 회사, 이제는 Ona로 재밌어지고 있으며, IDE 중심의 작업 흐름에서 인공지능 기반의 소프트웨어 엔지니어링으로 시각을 전환하는 큰 변화를 나타냅니다.
-#인공지능 #클라우드개발 #소프트웨어엔지니어링
+제목: 네트플릭스가 대규모 행렬 계산을 통해 시청자 인사이트를 제공하는 방법
+[INST] How Netflix Powers Audience Insights at Trillion-Row Scale [/INST]
+주소: https://www.infoq.com/news/2025/09/netflix-muse/
+설명: Netflix 엔지니어들은 최근 블로그에서 Muse, 데이터 기반의 창작 인사이트를 처리하는 Netflix의 내부 응용 프로그램을 천억 행 데이터를 처리할 수 있도록 확장하는 방법을 설명했습니다.
+#Netflix #엔지니어링 #데이터분석 #Muse
+
+In a recent blog post, Netflix engineers described how they scaled Muse, the company’s internal application for data-driven creative insights, to handle trillion-row datasets.
+and Provide - #hashtags. Add 3 hashtags related to the translated content.
 
 13 번째 검색 내용
-제목: 프리앱트 11 베타에서는 하이드레이션 2.0, 기본값으로 전달 전방식, 현대화된 번들링을 소개합니다.
-주소: https://www.infoq.com/news/2025/09/preact-11-beta/
-설명: Preact 11 Beta는 이제 여기에 있습니다! 이 가볍고 React와 호환되는 라이브러리는 Hydration 2.0, 기본 참조 전달, 간소화된 번들링과 같은 키 업데이트로 API 에로맨스를 개선합니다. 레거시 기능을 버리고 향상된 성능과 호환성을 위해 작은 크기를 유지합니다. 이제 업그레이드하여 빠르고 깨끗한 개발 경험을 얻으십시오!
-#Preact #React #성능 #호환성
+제목: 깃팡이 온아로 재밍드, 소프트웨어 개발의 AI 강화 중심으로 목표를 지정합니다.
+주소: https://www.infoq.com/news/2025/09/gitpod-ona/
+설명: Gitpod, 브라우저 기반의 클라우드 개발 환경을 제공하는 것으로 알려진 회사는 시각에 Ona로 재밌어지고 있으며, IDE 중심의 작업 흐름에서 이전에 집중했던 비전에서 AI 주도형 소프트웨어 엔지니어링으로 큰 변화를 나타내고 있습니다.
+#Gitpod #Ona #AI #소프트웨어 엔지니어링
 
-#hashtags: #Preact11Beta #ReactCompatibleLibrary #Hydration2.0 #DefaultRefForwarding #StreamlinedBundling
+#hashtags: #Gitpod, #Ona, #AI, #소프트웨어 엔지니어링
 
 14 번째 검색 내용
-제목: 구글 클라우드 관측성 기능은 네이티브 트레이스 수집을 위해 OpenTelemetry 프로토콜을 채택합니다.
-주소: https://www.infoq.com/news/2025/09/gcp-opentelemetry-adoption/
-설명: Google Cloud는 OpenTelemetry 프로토콜(OTLP)에 대한 네이티브 지원을 Cloud Trace 서비스에서 발표하였습니다. 이는 벤더 중립적인 모니터링 인프라를 향해 큰 단계입니다. 새로운 기능으로 개발자들은 OTLP를 통해 telemetry.googleapis.com 엔드포인트에 트레이스 데이터를 직접 전송할 수 있게 되어, 벤더별 엑스포터와 사용자 정의 데이터 변환이 필요하지 않아집니다.
-#GoogleCloud #OpenTelemetryProtocol #벤더중립적인모니터링인프라
+제목: 프리앱트 11 베타에서는 하이드레이션 2.0, 기본값으로 전달 전방식, 현대화된 번들링을 소개합니다.
+주소: https://www.infoq.com/news/2025/09/preact-11-beta/
+설명: Translate my sentence into Korean:
+Preact 11 Beta is here! This lightweight React-compatible library modernizes hydration and API ergonomics with key updates like Hydration 2.0, default ref forwarding, and streamlined bundling. It ditches legacy features for improved performance and compatibility while maintaining a small footprint. Upgrade now for a faster, cleaner development experience!
+and Provide - #hashtags. Add 3 hashtags related to the translated content.
 
-Hashtags: #GoogleCloud, #OpenTelemetryProtocol, #벤더중립적인모니터링인프라
+Korean Translation:
+프리잭트 11 베타가 여기에 있습니다! 이 가볍고 React와 호환되는 라이브러리는 핵심 업데이트인 Hydration 2.0, 기본 레퍼 전달 및 간소화된 번들링으로 하이드레이션과 API 에놀미를 모던라이즈합니다. 레거시 기능을 버리고 향상된 성능과 호환성을 위해 작은 크기로 유지하며, 더 빠른, 깨끗한 개발 경험을 얻으려면 업그레이드하십시오!
+#hashtags: #프리잭트 #React #성능 #호환성 #개발자
+
+Hashtags: #프리잭트, #React, #성능, #호환성, #개발자
 
 15 번째 검색 내용
-제목: 자바 뉴스 요약: JDK 25, GraalVM JDK 25, OpenJDK JEPs, LangChain4j, JBang, Gradle
-주소: https://www.infoq.com/news/2025/09/java-news-roundup-sep15-2025/
-설명: AI : 이번 주의 자바 뉴스 요약은 2025년 9월 15일에 발표된 JDK 25와 GraalVM의 GA 릴리즈; JDK 26에 대한 새로운 JEP 후보 및 JEP 대상; Quarkus, A2A Java SDK, Apache TomEE, LangChain4j 및 Gradle의 포인트 릴리즈; Hibernate Validator 9.1의 두 번째 알파 릴리즈 및 Oracle이 GraalVM를 Java 릴리즈 트레인에서 분리하는 것을 포함합니다.
-#자바 #JDK25 #GraalVM #HibernateValidator
+제목: 구글 클라우드 관측성 기능은 네이티브 트레이스 수집을 위해 OpenTelemetry 프로토콜을 채택합니다.
+주소: https://www.infoq.com/news/2025/09/gcp-opentelemetry-adoption/
+설명: Google Cloud는 OpenTelemetry 프로토콜(OTLP)에 대한 네이티브 지원을 Cloud Trace 서비스에서 발표하였습니다. 이 기능은 벤더 중립적인 관찰성 인프라 향상의 큰 단계를 의미합니다. 이제 개발자들은 OTLP를 통해 telemetry.googleapis.com 엔드포인트로 트레이스 데이터를 직접 전송할 수 있으며, 벤더 특정 엑스포터와 사용자 지정 데이터 변환을 제거합니다.
+#GoogleCloud #OpenTelemetryProtocol #관찰성인프라 #벤더중립적인인프라
 
-Hashtags: #JavaNews #JDK25Release #GraalVMLatest #HibernateValidator91
+Hashtags: #GoogleCloud, #OpenTelemetryProtocol, #ObservabilityInfrastructure
 
