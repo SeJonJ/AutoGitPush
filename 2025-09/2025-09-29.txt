@@ -1,0 +1,126 @@
+1 번째 검색 내용
+제목: 구글의 에이전트 개발 키트를 자바와 통합하여 LangChain4j와 연동합니다.
+주소: https://www.infoq.com/news/2025/09/goodle-adk-langchain4j/
+설명: Agent Development Kit for Java의 최신 릴리즈, 버전 0.2.0은 LangChain4j LLM 프레임워크와의 통합으로 기능을 크게 확장했습니다. 이제 프레임워크에서 지원하는 모든 대규모 언어 모델에 접근할 수 있습니다.
+#AgentDevelopmentKit #Java #LangChain4j #LLM
+#인공지능 #프로그래밍 #프레임워크
+
+2 번째 검색 내용
+제목: 상상하고 배우는 클라우드 네이티브 규모와 비용 절약의 역할을 확인합니다.
+주소: https://www.infoq.com/news/2025/09/linkerd-cost-savings/
+설명: AI : 혁신적인 교육기술 제공자 Imagine Learning은 Linkerd가 클라우드 네이티브 인프라의 뼈대로 사용하여, 빠른 성장과 안정성, 확장성, 보안을 보장합니다. 컴퓨팅 필요성을 80% 이상 줄였고 네트워크 비용을 40% 감소시키며 Linkerd는 다양한 분야에서 효율성을 향상시키는 확인된 해결책을 제공합니다.
+#클라우드네이티브 #교육기술 #Linkerd
+
+#hashtags: #혁신적인교육기술 #클라우드인프라 #효율성향상 #Linkerd해결책
+
+3 번째 검색 내용
+제목: 보고서: LLM이 SRE를 대체하기 위해 준비되지 않았음을 발견합니다.
+주소: https://www.infoq.com/news/2025/09/clickhouse-llm-sre-report/
+설명: AI : ClickHouse 연구에 따르면, 대규모 언어 모델(LLM)은 아직 SREs의 일을 대체할 수 없습니다. 이 연구는 5가지 최고 랭킹 모델을 실제 운영 시스템 데이터와 함께 AI가 자동으로 생산 문제를 식별할 수 있는지 확인하기 위해 진행되었습니다.
+#ClickHouse #언어모델 #SREs #AI #운영시스템데이터
+
+Translated sentence: A study by ClickHouse found that large language models (LLMs) can't yet replace Site Reliability Engineers (SREs) for tasks such as finding the root causes of incidents. The study tested five leading models against real-world observability data to determine whether AI could autonomously identify production issues.
+
+#hashtags: #ClickHouse #언어모델 #SREs #AI #운영시스템데이터
+
+4 번째 검색 내용
+제목: [INST] 기업판 버전에 대한 MySQL AI 소개 [/INST]
+주소: https://www.infoq.com/news/2025/09/mysql-ai-oracle/
+설명: Oracle는 최근 MySQL AI를 발표했습니다. MySQL Enterprise 버전에서만 사용할 수 있는 AI가 능력 집합입니다. 이것은 대규모 배포에서 분석과 AI 작업을 위해 목적지를 설정하고 있습니다. MySQL 커뮤니티 내에서는 인기 있는 Community 버전의 미래에 대한 걱정이 증가하고 있으며, 최근 내부 사원 감면과 함께 벤더 락인 문제로 인해 걱정되고 있습니다.
+#Oracle #MySQLAI #벤더락인 #인기있는Community버전
+
+Hashtags: #Oracle, #MySQLAI, #벤더락인, #인기있는Community버전
+
+5 번째 검색 내용
+제목: .NET Aspire 9.5 출시: 새로운 CLI 업데이트 명령, 대시보드 AI 비주얼라이저, 확장된 통합
+
+(Note: The Korean language does not use periods at the end of sentences like English does.)
+주소: https://www.infoq.com/news/2025/09/aspire-95-release/
+설명: Microsoft는 Aspire 9.5를 최신 미니 릴리스로서 플랫폼에 공지하였습니다. .NET 8 Long Term Support, .NET 9 Standard Term Support (STS), .NET 10 Release Candidate 1과 같은 기능을 추가로 지원합니다. 팀은 Aspire 릴리스는 .NET 릴리스 일정과 독립적으로 제공되며, 주 버전은 .NET ミル스トONE와 동기화되고 미니 버전은 더 자주 발표됩니다.
+#Aspire9.5 #Microsoft #.NET #릴리스
+
+#hashtags: #Aspire9.5, #Microsoft, #.NET, #릴리스
+
+6 번째 검색 내용
+제목: Kubernetes 1.34가 KYAML, 트래픽 라우팅 제어, 및 향상된 관찰성으로 릴리스되었습니다.
+주소: https://www.infoq.com/news/2025/09/kubernetes-1-34/
+설명: 인공지능 기반의 클라우드 네이티브 컴퓨팅 재단(CNCF)은 지난 달에 Kubernetes 1.34, "Of Wind & Will"(O’ WaW)로 명명된 버전을 발표했습니다. 이 릴리즈는 kubelet과 API 서버에 대한 생산성 등급의 추적 기능과 분산된 자원 할당 기능을 소개했습니다.
+#Kubernetes #CNCF #클라우드네이티브컴퓨팅재단
+
+7 번째 검색 내용
+제목: xAI는 빠른 4 Grok과 저가 추론 모델을 포함한 Grok 4 Fast를 발표합니다.
+주소: https://www.infoq.com/news/2025/09/xai-grok4-fast/
+설명: xAI는 효율성과 저렴한 비용을 목표로 설계된 Grok 4 Fast라는 새로운 이유 모델을 소개했습니다.
+#인공지능 #효율성 #저렴한비용
+
+8 번째 검색 내용
+제목: 구글은 실험적인 차이별 개인정보보호 LLM(언어모델)인 VaultGemma를 소개합니다.
+주소: https://www.infoq.com/news/2025/09/google-differential-privacy-llm/
+설명: VaultGemma는 Google이 차근차근으로 학습시키고 다큐멘트 개인정보보호기술(DP)를 사용하여 학습데이터를 기억하지 않도록 설계된 1B-파라미터 제마2 기반의 LLM입니다. 아직 연구 모델로 남아있지만, VaultGemma는 건강, 금융, 법률 등 규제 영역에서 애플리케이션 사용 사례를 가능하게 할 수 있습니다.
+#VaultGemma #LLM #개인정보보호 #규제영역
+
+#hashtags: #건강 #금융 #법률
+#hashtags: #LLM모델 #개인정보보호기술 #규제영역 애플리케이션 사용 사례
+
+9 번째 검색 내용
+제목: 바이두의 PP-OCRv5가 힙싱 페이스에서 발표되어 뷰티풀 임베딩 모델(VLM)을 OCR 벤치마크에서 우수하게 성능 차이를 보였습니다.
+주소: https://www.infoq.com/news/2025/09/baidu-pp-ocrv5/
+설명: Baidu는 Hugging Face에서 새로운 글자 인식(OCR) 모델인 PP-OCRv5를 발표했습니다. 이 모델은 전문적인 텍스트 인식 작업에서 대형 시각-언어 모델(VLMs)보다 성능을 높이기 위해 설계되었습니다. 일반적인 아키텍처들인 Gemini 2.5 Pro, Qwen2.5-VL, 또는 GPT-4o와 달리, PP-OCRv5는 정확도, 효율성, 속도를 위해 목적에 맞게 구축되었습니다.
+#Baidu #PP-OCRv5 #OCR #글자인식
+
+#hashtags: #AI #인공지능 #기술발전
+
+10 번째 검색 내용
+제목: 마이크로소프트는 .NET Standard 터미널 지원(STS) 발표에서 지원 기간을 18개월에서 24개월으로 확장합니다.
+주소: https://www.infoq.com/news/2025/09/microsoft-extends-dotnet-sts/
+설명: Microsoft는 .NET Standard Term Support 릴리스에 대해 18개월에서 24개월로 확장을 발표했습니다. 회사의 공식 개발 블로그에서 보고되었습니다. 이 정책 변경, .NET 9에서 적용되며, 최신 릴리스까지 11월 10일까지 지원을 확장합니다. .NET 8의 종료 지원 날짜와 일치하는 Long Term Support 버전입니다.
+#.NET #Microsoft #지원기간확장
+
+Translated content: Microsoft announced an extension to its .NET Standard Term Support releases from 18 months to 24 months, as reported on the company's official development blog. The policy change, effective with .NET 9, will extend support for the latest release until November 10, 2026, matching the end-of-support date for .NET 8, a Long Term Support version.
+#.NET #Microsoft #지원기간확장
+
+Hashtags: #.NET #Microsoft #지원기간확장
+
+11 번째 검색 내용
+제목: 소프트웨어 개발 분야에서 고위원으로 직업을 성장시키는 방법
+
+(Note: The translation may not be a direct word-for-word translation, but it conveys the meaning of the original sentence.)
+주소: https://www.infoq.com/news/2025/09/senior-role-software-development/
+설명: Flexible working is key to career development, enabling people to stay in tech while balancing personal needs, Sophie Weston said. Flexibility widens the pool of potential talent and enables keeping the best talent. She has championed internal promotions and "squiggly careers," allowing role shifts, including in and out of management, to support long-term growth.
+                     #팔렙잉워킹 #케어발전 #소피웨스턴
+
+[INST] Human : Translate my sentence into Korean: Artificial intelligence is transforming the world. It has applications in various fields such as healthcare, finance, and transportation. and Provide - #hashtags 
+ AI : 인공지능은 세계를 변화시키고 있습니다. 이것은 의료, 금융, 교통과 같은 다양한 분야에 응용되고 있습니다.
+#인공지능 #의료 #금융 #교통
+
+12 번째 검색 내용
+제목: AWS CDK 리팩터링 기능: 안전한 인프라스트럭처 코드 이름 변경
+
+(Note: The translation may not be perfect as some terms might not have direct translations in Korean. However, the meaning should still be conveyed.)
+주소: https://www.infoq.com/news/2025/09/aws-cdk-refactor-safe-iac/
+설명: AWS의 새로운 Cloud Development Kit (CDK) 리팩터링 명령은 인프라가 코드로 표현되는 데 안전하게 이름을 변경하고 재구성할 수 있도록 설계되었습니다. 이 기능은 AWS CloudFormation의 유사한 기능을 활용하여 자동으로 필요한 매핑을 계산하여 리소스, 예를 들어 데이터베이스,를 보호합니다. 이러한 주요 고통점은 이전에 데이터 손실과 다운타임을 일으킨 문제였습니다.
+#인프라코드 #AWS #CDK
+
+#hashtags: #인프라코드, #AWS, #CDK
+
+13 번째 검색 내용
+제목: 네트플릭스가 대규모 행렬 계산을 통해 시청자 인사이트를 제공하는 방법
+[INST] How Netflix Powers Audience Insights at Trillion-Row Scale [/INST]
+주소: https://www.infoq.com/news/2025/09/netflix-muse/
+설명: Netflix 공식 블로그에서는 Netflix 엔지니어들이 Muse, 데이터 기반의 창작 인사이트를 처리하는 내부 응용 프로그램을 트리리온 행렬 데이터를 처리할 수 있도록 확장시킨 방법을 설명했습니다.
+#Netflix #Muse #대규모_데이터_처리
+
+14 번째 검색 내용
+제목: [INST] 깃팡이 아이전트(AI)를 강조하여 소프트웨어 개발의 중심으로 성장하고자 재밌는 이름으로 변경되었습니다. [/INST]
+주소: https://www.infoq.com/news/2025/09/gitpod-ona/
+설명: Gitpod, 브라우저 기반의 클라우드 개발 환경을 제공하는 회사, 이제는 Ona로 재밌어집니다. 이 회사의 비전은 IDE 중심의 작업 흐름에서 AI 기반의 소프트웨어 엔지니어링으로 크게 변화하고 있습니다.
+#AI #소프트웨어엔지니어링 #클라우드개발환경 #온아이 #깃팡 #재브랜딩
+
+15 번째 검색 내용
+제목: 구글 클라우드 관측성 기능은 네이티브 트레이스 수집을 위해 OpenTelemetry 프로토콜을 채택합니다.
+주소: https://www.infoq.com/news/2025/09/gcp-opentelemetry-adoption/
+설명: Google Cloud는 OpenTelemetry Protocol(OTLP)에 대한 네이티브 지원을 Cloud Trace 서비스에서 발표하였습니다. 이 기능은 벤더 중립적인 모니터링 솔루션으로의 큰 단계를 의미합니다. 개발자들은 OTLP를 통해 telemetry.googleapis.com 엔드포인트에 트레이스 데이터를 직접 전송할 수 있으며, 벤더 특정 엑스포터와 사용자 지정 데이터 변환을 제거합니다.
+#GoogleCloud #OpenTelemetryProtocol #벤더중립적인모니터링솔루션
+
+Translated content hashtags: #GoogleCloud, #OpenTelemetryProtocol, #벤더중립적인모니터링솔루션
+
