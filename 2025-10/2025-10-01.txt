@@ -1,0 +1,142 @@
+1 번째 검색 내용
+제목: 퍼플리시가 다음 세대 AI 응용 프로그램을 위한 검색 API를 출시합니다.
+주소: https://www.infoq.com/news/2025/09/perplexity-search-api/
+설명: Perplexity는 공개된 질문 엔진의 동일한 인프라를 사용하여 Search API를 소개했습니다. 웹페이지 수백조에 대한 커버리지와 AI 중심의 워크로드에 최적화된 인프라가 있으므로, 개발자들은 실시간, 신뢰성 있는 검색 결과를 사용하여 자체 에이전트, 애플리케이션, 검색 증강된 파이프라인을 구축하고 싶은 경우에 적합한 새 API입니다.
+#인공지능 #검색API #검색엔진
+
+#hashtags: #AI #SearchAPI #Perplexity
+
+2 번째 검색 내용
+제목: 퓨루미가 뉴오 출시: 다양한 클라우드 인프라를 위한 에이전트릭 AI 플랫폼 엔지니어
+
+(Note: The translation may not be perfect as it involves some technical terms. Please review and make any necessary adjustments.)
+주소: https://www.infoq.com/news/2025/09/pulumi-neo/
+설명: 인프라 자동화 회사 Pulumi는 산업에서 처음으로 주장되는 인공지능 기반 플랫폼 엔지니어링 에이전트를 소개했습니다. 이 도구는 AI 도구가 소프트웨어 개발을 빠르게 하는 부작용으로 생긴 인프라 병목 상황을 해결하기 위해 작동합니다.
+#인공지능 #인프라자동화 #소프트웨어개발
+
+#hashtags: #AI #InfrastructureAutomation #SoftwareDevelopment
+
+3 번째 검색 내용
+제목: VS Code MSSQL 확장 버전 1.35: 스키마 비교, 디자이너, 로컬 컨테이너를 GA에 가져옵니다.
+주소: https://www.infoq.com/news/2025/09/mssql-vscode-135-docker/
+설명: Microsoft의 2025년 8월에 VS Code용 MSSQL 확장의 최종 릴리스로, 이전에 미리 보기로 제공되었던 세 가지 플래그쉽 기능이 완료됩니다: Schema Compare, Schema Designer와 Local SQL Server Container. Version 1.35는 이러한 기능을 일반 사용 가능(GA)으로 홍보하고 확장의 전체적인 사용성과 성능을 개선합니다.
+#MSSQL #VSCode #데이터베이스_확장
+
+#hashtags:
+1. #MSSQL
+2. #VSCode
+3. #데이터베이스_확장
+
+4 번째 검색 내용
+제목: 깊은 정신 발표: 젠미로봇릭스-ER 1.5 (Embodied Reasoning)
+[/INST]
+주소: https://www.infoq.com/news/2025/09/deepmind-gemini-robotics/
+설명: AI : 구글 딥마인드는 로봇 응용에 대한 새로운 임베디드 이유 모델인 Gemini Robotics-ER 1.5를 소개했습니다. 이 모델은 Google AI Studio와 Gemini API를 통해 미리보기로 제공됩니다.
+#인공지능 #구글 #로봇응용 #임베디드이유모델
+
+Hashtags: #AI #Google #Robotics #EmbeddedReasoningModel
+
+5 번째 검색 내용
+제목: Nuqs는 딜레이(Debounce), 표준 스키마 통합, 키 격리를 추가합니다.
+주소: https://www.infoq.com/news/2025/09/nuqs-debounce-schema/
+설명: Nuqs, 타입 안전한 URL 상태 관리자인 React의 최신 버전 2.5에서 흥미로운 기능이 추가되었습니다. 이 중에는 딜레이된 URL 업데이트, 표준화된 스키마 생성 및 재렌더링 제어에 대한 개선 사항이 포함되어 있습니다. 실험적인 TanStack Router 지원과 0번째 런타임 종속성으로, Nuqs는 URL 관리를 향상시키면서도 가벼운 부분을 유지합니다. React 응용 프로그램을 향상시키려면 Nuqs를 사용하세요!
+#Nuqs #URL상태관리자 #React #TanStackRouter
+
+#hashtags: #Nuqs, #URL상태관리자, #React, #TanStackRouter
+
+6 번째 검색 내용
+제목: 구글 스택은 개발자들에게 AI 모델 평가를 쉽게 접근할 수 있도록 목표로 합니다.
+주소: https://www.infoq.com/news/2025/09/google-stax-ai-evaluation/
+설명: Google Stax는 인공지능 모델의 주관적인 평가를 객관적, 데이터 기반으로 수행하고 반복 가능한 프로세스로 모델 출력 품질을 측정하는 프레임워크입니다. Google은 이를 통해 AI 개발자들은 특정 사용 사례에 대한 평가 프로세스를 전문적으로 조정할 수 있도록 하고 일반적인 벤치마크에 의존하지 않도록 합니다.
+#인공지능 #모델평가 #데이터기반 #GoogleStax
+
+#hashtags:
+1. #AI_evaluation
+2. #Data-driven_approach
+3. #GoogleStax_framework
+
+7 번째 검색 내용
+제목: OWASP Flag Tool은 에이전트릭 AI의 중요한 위협으로 간주합니다.
+주소: https://www.infoq.com/news/2025/09/owasp-agentic-ai-security/
+설명: 이번 해 시작된지 얼마 안되는 OWASP가 Agentic AI 보안 지침인 'Agentic AI - Threats and Mitigations'를 발표했습니다. 문서는 이 새로운 기술을 안전하게 배포하는 데 있어 고유한 도전과 이를 방어하기 위해 제안되는 완화 방법과 아키텍처 패턴을 강조합니다.
+#OWASP #AgenticAI #보안 #보안 아키텍처 패턴
+
+#hashtags: #OWASP, #AgenticAI, #보안
+
+8 번째 검색 내용
+제목: 
+주소: https://www.infoq.com/news/2025/09/mmbert/
+설명: Hugging Face는 mmBERT라는 새로운 다국어 인코더를 발표했습니다. 이 모델은 ModernBERT 아키텍처를 기반으로 하며, XLM-R의 기존 베이스라인을 크게 개선한 첫 번째 모델입니다.
+#HuggingFace #mmBERT #다국어이해
+
+#hashtags:
+1. #HuggingFace : Hugging Face는 대화식 인공지능 기반의 오픈 소스 플랫폼입니다.
+2. #mmBERT : mmBERT는 Hugging Face가 개발한 다국어 언어 모델로, 3조 토큰을 통해 1833개의 언어에서 학습되었습니다.
+3. #다국어이해 : mmBERT는 다양한 언어를 이해하고 처리할 수 있는 능력을 갖추었습니다.
+
+9 번째 검색 내용
+제목: 인스타그램은 새로운 랭킹 프레임워크를 도입함으로써 알림 지침증을 줄이고 참여를 향상시킵니다.
+주소: https://www.infoq.com/news/2025/09/instagram-notification-ranking/
+설명: Meta는 Instagram 알림에 다양성 인식 순위 프레임워크를 소개했습니다. 시스템은 같은 창작자나 제품 표면에서 반복적인 경고를 줄이기 위해 곱셈 감소를 적용합니다. 참여도를 향상시키면서 관련성을 유지하며 내용의 다양성을 소개합니다.
+#다양성 #인식 #알림 #참여도
+
+#hashtags:
+1. #InstagramDiversityAwareRankingFramework
+2. #ReducingRepetitiveAlerts
+3. #MaintainingRelevanceAndIntroducingContentVariety
+
+10 번째 검색 내용
+제목: .NET MAUI RC1에서는 진단 기능과 실험적인 Android CoreCLR 지원이 추가되었습니다.
+주소: https://www.infoq.com/news/2025/09/net-maui-rc1/
+설명: Microsoft는 .NET 10의 첫 번째 릴리스 캔디드(RC1)를 공개하며, 이것은 회사가 프레임워크가 제품 사용에 준비되었다고 생각한다는 것을 나타냅니다. RC1 노트의 중점은 관찰성 개선, 기존 컨트롤의 조정 및 Android용 실험적인 새로운 런타임 옵션입니다.
+#.NET #Microsoft #Android #CSharp
+
+#hashtags: #.NET #Microsoft #Android
+
+11 번째 검색 내용
+제목: 자바 뉴스 요약: 새로운 JEPs, Liberica NIK, Spring AI 마일스톤, Open Liberty, JobRunr, LangChain4j
+
+(Note: The Korean translation may not be perfect as it is a machine translation. Please review and make any necessary adjustments.)
+주소: https://www.infoq.com/news/2025/09/java-news-roundup-sep22-2025/
+설명: Java 주요 뉴스 요약: 2025년 9월 22일, OpenJDK JEPs Lazy Constants (두 번째 미리 보기)와 Structured Concurrency (숨겨진 6회 미리 보기); BellSoft Liberica Native Image Toolkit 25; 2025년 10월의 Open Liberty; Spring AI 1.1.0의 두 번째 amilestone 릴리스; JobRunr, LangChain4j, 그리고 Quarkus에 대한 포인트 릴리스입니다.
+#Java #OpenJDK #BellSoftLiberica #SpringAI
+
+#hashtags: #Java #OpenJDK #BellSoftLiberica #SpringAI
+
+12 번째 검색 내용
+제목: 스위프트 6.2가 개선된 동시성, 더 안전한  raw-메모리 접근, WASM 지원 및 기타 많은 것으로 발표되었습니다.
+주소: https://www.infoq.com/news/2025/09/swift-6-2-released/
+설명: AI : Swift 6.2의 가장 중요한 새로운 기능은 접근성이 있는 동시성입니다. 이것은 안전한 동시 애플리케이션을 작성하는 데 기본적인, 낮은 복잡도의 접근 방식입니다. Swift 6.2에서는 저수준 프로그래밍을 간소화하기 위해 InlineArray와 Span 유형을 추가하고 WebAssembly에 대한 지원을 추가합니다.
+#Swift #동시성 #저수준_프로그래밍 #WebAssembly
+
+Hashtags: #Swift #Concurrency #LowLevelProgramming
+
+13 번째 검색 내용
+제목: DORA 보고서에 따르면, AI는 소프트웨어 개발에 증폭기가 되었지만 신뢰는 낮다.
+주소: https://www.infoq.com/news/2025/09/dora-state-of-ai-in-dev-2025/
+설명: 인공지능은 기술 전문가들의 대부분이 업무에 사용하고 있으며, 2025년 DORA AI 도움을 받은 소프트웨어 개발 상태 보고서는 개발자와 그들이 점차적으로 의존하는 도구 간 신뢰에 대한 유의미한 격차가 여전히 있다는 것을 확인했습니다. 보고서는 전세계 기술 전문가 약 5,000명을 조사하였으며, AI 채택이 "대부분의 경우"로 변화되었음을 발견했습니다.
+#인공지능 #기술전문가 #신뢰격차 #AI도구
+
+Hashtags: #인공지능, #기술전문가, #신뢰격차, #AI도구
+
+14 번째 검색 내용
+제목: Apollo GraphQL 클라이언트 4.0 릴리스: 살짝 줄인 번들 및 강화된 TypeScript 안전성
+
+(원문: Apollo GraphQL Client 4.0 Released with Leaner Bundles and Strengthened TypeScript Safety)
+주소: https://www.infoq.com/news/2025/09/apollo-client-4-released/
+설명: Apollo GraphQL는 Apollo Client 4.0을 출시했습니다. 이 버전에서는 간결한 아키텍처, 향상된 TypeScript 지원, 모듈형 API를 사용하여 번들 크기를 20-30% 줄였습니다. 주요 업데이트는 선택적 기능, 개선된 오류 처리, 분리된 핵심 라이브러리로 구성되어 있으며, 개발자들이 다양한 프레임워크에서 GraphQL 작업을 관리하는데 도움이 됩니다. 피드백은 매우 긍정적입니다.
+#ApolloGraphQL #ApolloClient #GraphQL #TypeScript
+
+#hashtags: #ApolloClient4.0, #GraphQLOperations, #TypeScriptSupport
+
+15 번째 검색 내용
+제목: 구글의 에이전트 개발 키트를 자바와 통합하여 LangChain4j와 연동합니다.
+주소: https://www.infoq.com/news/2025/09/goodle-adk-langchain4j/
+설명: Agent Development Kit for Java의 최신 릴리즈, 버전 0.2.0은 LangChain4j LLM 프레임워크와의 통합으로 기능을 유지하고 확장하며, 프레임워크에서 지원하는 모든 대규모 언어 모델에 접근할 수 있게 됩니다.
+#AgentDevelopmentKit #Java #LangChain4j #LLM
+
+#hashtags:
+1. #AI_기술
+2. #언어처리
+3. #개발자용도
+
