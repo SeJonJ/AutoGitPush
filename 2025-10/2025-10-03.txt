@@ -1,0 +1,139 @@
+1 번째 검색 내용
+제목: 소프트웨어 엔지니어가 스태프 플러스 역할로 성장하는 방법
+
+(Note: The translation may not be perfect as it is a direct translation of the English title. In Korean, the word "스태프" (staff) is used instead of "스태프 플러스" (Staff Plus). However, the meaning remains similar.)
+주소: https://www.infoq.com/news/2025/10/software-engineer-staff-plus/
+설명: 소프트웨어 공학자들은 다른 팀에 도움이 되는 것으로 영향력을 높일 수 있고, 비즈니스 주도적인 작업에 집중하며, 강력한 관계를 구축함으로써 David Grizzanti는 InfoQ Dev Summit Boston에서 언급했습니다. 성장은 멘토링, 문화적 정규화, 전략적인 생각, 자신을 동기부여하는 것으로 기반한 커리어 경로를 설계함으로써 얻을 수 있습니다.
+#소프트웨어공학자들 #성장방법 #비즈니스주도적인작업
+
+Hashtags: #softwareengineers, #careergrowth, #businessdrivenwork
+
+2 번째 검색 내용
+제목: 마이크로소프트가 AKS(Azure Kubernetes Service)의 자동화 일반 사용 가능성을 발표합니다.
+주소: https://www.infoq.com/news/2025/10/microsoft-kubernetes-automatic/
+설명: Microsoft는 Azure Kubernetes Service (AKS) Automatic을 일반 사용 가능으로 출시하였습니다. 이것은 운영 오버헤드를 제거하면서도 플랫폼의 전체 력과 유연성을 유지하기 위해 완전히 관리되는 Kubernetes 제공입니다.
+#AzureKubernetesService #AKSAutomatic #운영오버헤드 #플랫폼의력 #유연성
+
+Translated sentence: Microsoft has released Azure Kubernetes Service (AKS) Automatic to general availability, introducing a fully managed Kubernetes offering designed to eliminate operational overhead while maintaining the full power and flexibility of the platform.
+#AzureKubernetesService #AKSAutomatic #운영오버헤드 #플랫폼의력 #유연성
+
+3 번째 검색 내용
+제목: 마이크로소프트가 AI 에이전트 개발을 간단하게 만들기 위해 오픈소스 에이전트 프레임워크를 발표합니다.
+주소: https://www.infoq.com/news/2025/10/microsoft-agent-framework/
+설명: Microsoft는 Microsoft Agent Framework, 인공지능 에이전트를 개발자들 모두에게 간편하게 생성 및 배포할 수 있도록 설계된 오픈소스 소프트웨어 개발 키트로, 회사의 개발 팀이 공식 블로그에서 보고되었습니다.
+#인공지능 #MicrosoftAgentFramework #소프트웨어개발키트 #개발자용도
+
+4 번째 검색 내용
+제목: 마이크로플루이드 쿨링 테스트를 진행하는 Microsoft의 다음 세대 AI 칩 개발
+
+(Note: The translation may not be perfect as it is a direct translation from English to Korean. The sentence structure and grammar might need adjustments for natural Korean.)
+주소: https://www.infoq.com/news/2025/10/microsoft-ai-chips/
+설명: Microsoft는 AI 인프라 확장에 있어서 가장 큰 병목 현상 중 하나인 열을 해결할 수 있는 새로운 칩 쿨링 접근 방식에 대한 진행 사항을 발표했습니다. 회사의 연구원들은 시리콘 칩 뒷면에 흐르는 수용체를 통해 칩 내부에 직접 유리 쿨러 플라이드를 채널링하는 인체프 마이크로 플루이드 쿨링 시스템을 성공적으로  demonstered.
+#AI #칩쿨링 #열제어
+
+Translated sentence: Microsoft has announced progress on a new chip cooling approach that could help address one of the biggest bottlenecks in scaling AI infrastructure: heat. The company’s researchers have successfully demonstrated in-chip microfluidic cooling, a system that channels liquid coolant directly into etched grooves on the back of silicon chips.
+
+#hashtags: #AI #칩쿨링 #열제어
+
+5 번째 검색 내용
+제목: 커서 1.7은 에이전트 생명주기 제어용 훅을 추가합니다.
+주소: https://www.infoq.com/news/2025/10/cursor-hooks/
+설명: Cursor는 버전 1.7에서 Hooks 시스템을 소개하였습니다. 이를 통해 정의된 생명 주기 이벤트에서 에이전트 행동을 干층하고 수정할 수 있도록 개발자들에게 허용합니다. Hooks는 셀 명령어를 차단하거나, 편집 후 포맷터를 실행하거나, 에이전트 작업을 실시간으로 관찰할 수 있는 데 사용될 수 있습니다.
+#Hooks #Cursor #개발자 #에이전트
+
+#hashtags: #Hooks, #Cursor, #개발자, #에이전트
+
+6 번째 검색 내용
+제목: 혼란에서 출발하는 검색 API를 다음 세대 AI 응용 프로그램을 위해 출시합니다.
+주소: https://www.infoq.com/news/2025/09/perplexity-search-api/
+설명: Perplexity has introduced the Search API, opening up access to the same infrastructure that underpins its public answer engine. With coverage of hundreds of billions of webpages and infrastructure tuned for AI-heavy workloads, the new API is aimed at developers who want real-time, reliable search results for building their own agents, applications, and retrieval-augmented pipelines.
+#인공지능 #검색API #AI 기반 워크로드
+
+[INST] Human : Translate my sentence into Korean: Perplexity has introduced the Search API, opening up access to the same infrastructure that underpins its public answer engine. With coverage of hundreds of billions of webpages and infrastructure tuned for AI-heavy workloads, the new API is aimed at developers who want real-time, reliable search results for building their own agents, applications, and retrieval-augmented pipelines.
+and Provide - #hashtags. Add 3 hashtags related to the translated content. [/INST]
+
+7 번째 검색 내용
+제목: 퓨루미가 뉴오 출시: 다양한 클라우드 인프라를 위한 에이전트릭 AI 플랫폼 엔지니어
+
+[INST] Translate my sentence into Korean : 
+                            Pulumi Launches Neo: an Agentic AI Platform Engineer for Multi-Cloud Infrastructure
+                         [/INST]
+주소: https://www.infoq.com/news/2025/09/pulumi-neo/
+설명: 인프라 자동화 회사 Pulumi는 산업에서 처음으로 주장되는 인공지능 기반 플랫폼 엔지니어링 에이전트를 소개했습니다. 이 도구는 AI 도구가 소프트웨어 개발을 빠르게 하는 부작용으로 생긴 인프라 병목 상황을 해결하려고 합니다.
+#인공지능 #인프라자동화 #소프트웨어개발
+
+#hashtags:
+1. #인공지능
+2. #인프라자동화
+3. #소프트웨어개발
+
+8 번째 검색 내용
+제목: VS Code MSSQL 확장 버전 1.35: 스키마 비교, 디자이너, 로컬 컨테이너를 GA에 가져옵니다.
+주소: https://www.infoq.com/news/2025/09/mssql-vscode-135-docker/
+설명: Microsoft의 2025년 8월에 VS Code용 MSSQL 확장의 최종 릴리스로, 이전에 미리 보기로 제공되었던 세 가지 플래그쉽 기능을 완성합니다: Schema Compare, Schema Designer와 Local SQL Server Container. Version 1.35는 이러한 기능을 일반 사용 가능(GA)으로 승격하고 확장의 전체 성능과 사용성을 개선합니다.
+#MSSQL #VSCode #SQLServerContainer
+
+#hashtags: #MSSQL, #VSCode, #SQLServerContainer
+
+9 번째 검색 내용
+제목: 깊은 정신은 인체적 사유를 위해 Gemini 로봇즈-ER 1.5를 발표합니다.
+주소: https://www.infoq.com/news/2025/09/deepmind-gemini-robotics/
+설명: AI : 구글 딥마인드는 로보틱스 애덤 1.5, 로보틱스 애덤 1.5를 소개했습니다. 이것은 로보틱스 응용 모델입니다. 구글 AI Studio와 Gemini API를 통해 미리 보기로 제공됩니다.
+#인공지능 #로보틱스 #애덤 #구글AIStudio
+
+Hashtags: #인공지능, #로보틱스, #애덤, #구글AIStudio
+
+10 번째 검색 내용
+제목: Nuqs는 딜레이 추가, 표준 스키마 통합 및 키 격리를 지원합니다.
+주소: https://www.infoq.com/news/2025/09/nuqs-debounce-schema/
+설명: Nuqs, 타입 안전한 URL 상태 관리자인 React의 최신 버전 2.5에서 놀라운 기능이 추가되었습니다. 이 중에는 지연 업데이트된 URL, 표준화된 스키마 생성 및 재렌더링 제어와 같은 기능입니다. TanStack Router의 실험적 지원과 0개의 런타임 종속성으로 Nuqs는 URL 관리를 향상시키면서 가벼운 부하를 유지합니다. React 응용 프로그램을 향상시키세요!
+#Nuqs #URL 관리 #React #타입 안전
+
+#hashtags: #Nuqs, #URLManagement, #ReactApps, #TypeSafety
+
+11 번째 검색 내용
+제목: 구글 스택은 개발자들에게 AI 모델 평가를 쉽게 접근할 수 있도록 목표로 합니다.
+주소: https://www.infoq.com/news/2025/09/google-stax-ai-evaluation/
+설명: Google Stax는 인공지능 모델의 주관적인 평가를 객관적, 데이터 기반으로 수행하고 반복 가능한 프로세스로 모델 출력 품질을 측정하는 프레임워크입니다. Google은 이를 통해 AI 개발자들이 특정 사용 사례에 대한 평가 프로세스를 적합하게 조정할 수 있도록 할 것을 주장합니다. 이 대신 일반적인 벤치마크에 의존하지 않아야 합니다.
+#인공지능 #GoogleStax #모델평가 #데이터기반
+
+#hashtags:
+1. #AI_evaluation
+2. #Data-driven_process
+3. #Customized_benchmarks
+
+12 번째 검색 내용
+제목: OWASP Flag Tool은 에이전트릭 AI의 중요한 위협으로 간주합니다.
+주소: https://www.infoq.com/news/2025/09/owasp-agentic-ai-security/
+설명: 이번 해 시작된지 얼마 안되는 OWASP가 Agentic AI 보안 지침인 Agentic AI - Threats and Mitigations을 발표했습니다. 문서는 이 새로운 기술을 안전하게 배포하는 데 있어서 고유한 도전과 그에 대한 방어 방법과 아키텍처 패턴을 제시합니다.
+#인공지능보안 #AgenticAI #OWASP
+
+Hashtags: #인공지능보안, #AgenticAI, #OWASP
+
+13 번째 검색 내용
+제목: 
+주소: https://www.infoq.com/news/2025/09/mmbert/
+설명: AI : Hugging Face가 mmBERT를 출시했습니다. 이것은 1,833개의 언어에서 3조 토큰을 통해 훈련된 새로운 다국어 인코더입니다. 모던BERT 아키텍처를 기반으로 하며, XLM-R의 오래된 베이스라인을 대체하여 최초로 개선되었습니다.
+#HuggingFace #mmBERT #다국어 이해 #인공지능
+
+Hashtags: #HuggingFace, #mmBERT, #multilingual understanding tasks
+
+14 번째 검색 내용
+제목: 인스타그램은 알림 지침증을 줄이고 참여를 높이기 위해 새로운 순위 프레임워크를 도입합니다.
+주소: https://www.infoq.com/news/2025/09/instagram-notification-ranking/
+설명: Meta는 Instagram 알림에 다양성 인식 순위 프레임워크를 소개했습니다. 시스템은 같은 창작자나 제품 표면에서 반복적인 경고를 줄이기 위해 곱셈 감소를 적용합니다. 참여도를 향상시키면서 관련성을 유지하며 내용의 다양성을 소개합니다.
+#다양성 #인식 #알림 #참여도
+
+#hashtags:
+1. #InstagramDiversityAwareRankingFramework
+2. #ReducingRepetitiveAlerts
+3. #MaintainingRelevanceAndIntroducingContentVariety
+
+15 번째 검색 내용
+제목: .NET MAUI RC1에서는 진단 기능과 실험적인 Android CoreCLR 지원이 추가되었습니다.
+주소: https://www.infoq.com/news/2025/09/net-maui-rc1/
+설명: Microsoft는 .NET 10의 첫 번째 릴리스 캔디드(RC1)를 공개하며, 이것은 회사가 프레임워크가 제품 사용에 준비되었다고 생각한다는 것을 나타냅니다. RC1 노트의 중점은 관찰성 개선, 기존 컨트롤의 조정 및 Android용 실험적인 새로운 런타임 옵션입니다.
+#.NET #Microsoft #Android #CSharp
+
+#hashtags: #.NET #Microsoft #Android
+
