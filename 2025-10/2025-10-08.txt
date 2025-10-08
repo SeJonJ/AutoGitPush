@@ -1,0 +1,140 @@
+1 번째 검색 내용
+제목: 제공하는 더 나은 소프트웨어 아키텍처를 위한 残留性理论으로 번역됩니다.
+주소: https://www.infoq.com/news/2025/10/architectures-residuality-theory/
+설명: 소프트웨어 아키텍처는 코딩, 수학, 비즈니스 시스템을 결합하므로 어렵다. 대안으로 기대치 않은 사건이 발생하면 아키텍처가 시간이 지남에 따라 관련성이 약해진다는 것을 Barry O'Reilly가 말했습니다. 그는 복잡한 비즈니스 시스템의 은닉된 "매그네틱"을 드러내기 위해 나이브 아키텍처를 강조하는 残留性理论을 제안했습니다. 이로 인해 설계가 변화와 불확실성에 더 잘 대응할 수 있도록 합니다.
+#소프트웨어아키텍처 #残留性理론 #변화와불확실성 #나이브아키텍처
+
+Translated content: Software architecture is tough because it blends coding, math, and business systems. Due to surprises, architectures tend to become irrelevant over time, Barry O'Reilly said. He presented residuality theory, where he suggested stressing naive architectures to reveal hidden “attractors” in complex business systems. This allows designs to better survive change and uncertainty.
+#softwarearchitecture #residualitytheory #changeanduncertainty #naivearchitectures
+
+2 번째 검색 내용
+제목: 생각 기계가 유연한 모델 튜닝을 위해 Tinker API를 발표합니다.
+[INST] Thinking Machines Releases Tinker API for Flexible Model Fine-Tuning [/INST]
+주소: https://www.infoq.com/news/2025/10/thinking-machines-tinker/
+설명: Thinking Machines는 오픈 웨이트 언어 모델을 정교화하기 위한 API인 Tinker를 발표했습니다. 서비스는 개발자들에게 인프라 부담을 줄여주며, 관리된 스케줄링, GPU 할당, 체크포인트 처리를 제공합니다. 클러스터 관리를 추상화하여 간단한 Python 호출로 정교화를 통해 Tinker를 사용할 수 있습니다.
+#ThinkingMachines #Tinker #API #언어모델 #정교화
+
+#hashtags: #AI #인공지능 #웨이트 #오픈 #클러스터 #개발자 #인프라 #GPU #체크포인트 #서비스 #관리 #스케줄링 #모델 #언어 #정교화 #TinkerAPI #ThinkingMachines
+
+#hashtags: #AI #인공지능 #오픈 #웨이트 #클러스터 #개발자 #인프라 #GPU #체크포인트 #서비스 #관리 #스케줄링 #모델 #언어 #정교화 #TinkerAPI #ThinkingMachines
+
+3 번째 검색 내용
+제목: 클로드 손넬트 4.5 랭킹 최안전한 LLM를 확인하는 오픈소스 검증 도구 Petri에서 번역되었습니다.
+주소: https://www.infoq.com/news/2025/10/petri-llm-safety/
+설명: Claude Sonnet 4.5는 '위험한 작업'에서 최고 성능을 보인 모델이 되어, Petri --- Anthropic의 새로운 오픈소스 AI 감사 도구를 통해 초기 평가에서 GPT-5와 엄청난 차이 없이 최고의 성능을 보였습니다.
+#인공지능 #위험한작업 #Anthropic
+
+Translated sentence: Claude Sonnet 4.5 has emerged as the best-performing model in 'risky tasks', narrowly edging out GPT-5 in early evaluations by Petri --- Anthropic's new open-source AI auditing tool.
+#hashtags: #인공지능, #위험한작업, #Anthropic
+
+4 번째 검색 내용
+제목: 꿈꾸기 4: 오프라인 데이터를 통해 목표 달성을 배우는 상상 훈련으로 번역됩니다.
+주소: https://www.infoq.com/news/2025/10/dreamer-4-minecraft-agent/
+설명: AI : 딥마인드 연구원들은 지능 에이전트를 복잡한, 장기적인 작업을 해결하는 데 사용할 수 있는 새로운 접근 방식을 제시했습니다. 이 접근 방식은 에이전트를 환경과 직접적으로 상호 작용하지 않고, 비디오 데이터만 사용하여 훈련시키는 것입니다. 그들의 새로운 에이전트, Dreamer 4는 비디오를 통해 훈련을 받은 후 Minecraft에서 보석을 채굴하는 능력을 발휘했습니다.
+#딥마인드 #지능에이전트 #비디오기반학습
+
+Hashtags: #딥마인드, #지능에이전트, #비디오기반학습
+
+5 번째 검색 내용
+제목: 우버가 캐시프론트 개선으로 150억 초당 검색 달성
+
+(Note: The translation may not be perfect as it is a machine translation. Please check for accuracy if needed.)
+주소: https://www.infoq.com/news/2025/10/uber-cachefront-150m-reads/
+설명: Uber는 CacheFront 아키텍처를 150억 번 이상의 읽기 요청을 처리하도록 업데이트했습니다. 새로운 설계는 일관성을 향상시키고 낮은 품질의 읽기를 줄여, Flux를 MySQL binlog tailing에 통합하여, 스토리지 엔진을 개선하고 Cache Inspector를 모니터링 및 최적화에 도입했습니다.
+#Uber #CacheFront #Flux #MySQL #binlogTailing
+
+#hashtags: #데이터베이스 #성능개선 #실시간처리
+
+6 번째 검색 내용
+제목: 자바 뉴스 요약: JDK 26 출시 일정, GlassFish, Spring AI, Helidon, Mandrel 25, Seed4j
+주소: https://www.infoq.com/news/2025/10/java-news-roundup-sep29-2025/
+설명: AI : 9월 29일, 2025년에 발표된 이번 주의 Java 뉴스 요약은 JEP 527, TLS 1.3의 양자 암호화 하이브리드 키 교환; JDK 26의 제안 출시 일정; Mandrel 25와 Seed4j의 릴리스; GlassFish 8.0과 7.1의 마일스톤 릴리스; WildFly 38의 베타 릴리스; 그리고 Spring AI, Helidon, Micronaut, LangChain4j, Gatherers4j, Keycloak의 포인트 릴리스를 다루고 있습니다.
+#Java #RN #뉴스 #릴리스
+
+#hashtags: #Java #RN #뉴스 #릴리스
+
+7 번째 검색 내용
+제목: 새로운 DNS 염증 방어 서비스가 Google Cloud 워크로드에게 사전적으로 사이버 위협을 차단할 수 있도록 도와주고 있습니다.
+주소: https://www.infoq.com/news/2025/10/dns-armor-infoblox-security/
+설명: Google Cloud의 DNS Armor는 Infoblox와 협력하여 Google Cloud 워크로드에 대한 DNS 기반 위험에 대한 중요한 보안 계층을 제공합니다. 고급 위협 감지 및 머신러닝을 사용하여 마릴웨어와 데이터 유출과 같은 위험을 식별하고 완화합니다. 성능에 영향을 주지 않으면서 강력한 보호를 제공합니다. 사용자에게 스트리밍 제어를 제공하는 관리형 서비스로 배포할 수 있습니다.
+#DNSArmor #GoogleCloud #보안 #위협감지
+#머신러닝 #데이터유출 #성능 #워크로드 #Infoblox
+
+8 번째 검색 내용
+제목: Vercel은 통합 데이터 출력용 드레인 소개
+
+(Note: The translation may not be perfect as it is a technical term. Please verify the accuracy if needed.)
+주소: https://www.infoq.com/news/2025/10/vercel-drains-observability/
+설명: Vercel은 Vercel Drains를 출시했습니다. 이것은 Vercel 플랫폼에서의 관측성 데이터를 외부 서비스로 내보내는 시스템입니다. 기능은 로그, 분산 트레이스, 웹 분석 이벤트, 및 성능 메트릭을 단일 스트리밍 메커니즘으로 통합합니다.
+#Vercel #VercelDrains #관측성데이터 #외부서비스
+
+#hashtags: #Vercel, #VercelDrains, #ObservabilityData
+
+9 번째 검색 내용
+제목: AWS가 M4와 M4 Pro Mac 인스턴스를 소개합니다. 빠른 Apple 앱 개발을 위해
+
+[INST] AWS Introduces M4 and M4 Pro Mac Instances for Faster Apple App Development [/INST]
+주소: https://www.infoq.com/news/2025/10/aws-ec2-m4-mac/
+설명: AWS는 최근에 Apple의 최신 M4 시리콘을 기반으로 두 개의 새로운 Mac 인스턴스(M4와 M4 Pro)를 출시했습니다. 새로운 EC2 인스턴스는 iOS와 macOS 애플리케이션을 빌드하기 위해 더 빠른 CPU 성능, 향상된 그래픽, 및 메모리를 제공합니다.
+#AWS #Mac인스턴스 #iOS #macOS #애플리케이션 빌드
+
+#hashtags: #AWS #Mac인스턴스 #iOS #macOS #애플리케이션 빌드
+
+10 번째 검색 내용
+제목: Agoda는 ChatGPT를 CI/CD 프로세스에서 SQL 저장 프로시저 최적화에 활용합니다.
+주소: https://www.infoq.com/news/2025/10/agoda-sql-procedure-chatgpt-cicd/
+설명: Agoda는 ChatGPT를 SQL 저장 프로시저(SP) 최적화에 활용하여 CI/CD 과정의 일부로 시작했습니다. 자동으로 LLM를 지원하는 단계를 도입한 후, 회사는 SP 최적화 시간이 짧아졌고 DB 개발자들에게 부담을 줄였습니다. Agora는 ChatGPT가 CI/CD 파이프라인 외부에서 SP 최적화에 더 접근할 수 있도록 만드는 데 집중하고 있습니다.
+#인공지능 #SQL #CI/CD #DB_개발자
+
+Hashtags: #인공지능, #SQL, #CI/CD, #DB_개발자
+
+11 번째 검색 내용
+제목: 인간적 기능 문제 3가지 인프라 버그 드러냅니다. 클로드의 성능 이슈 뒷받침
+
+(Note: The translation may not be perfect as the original sentence seems to mix English and Korean words, but I tried my best to maintain the meaning.)
+주소: https://www.infoq.com/news/2025/10/anthropic-infrastructure-bugs/
+설명: Anthropic recently published a postmortem revealing that three distinct infrastructure bugs intermittently degraded the output quality of its Claude models in recent weeks. While the company states it has now resolved those issues and is modifying its internal processes to prevent similar disruptions, the community highlights the challenges of running the service across three hardware platforms.
+#인공지능 #Anthropic #클로드모델
+
+#hashtags: 
+1. #인공지능 (Artificial Intelligence)
+2. #Anthropic (Company Name)
+3. #클로드모델 (Claude Models)
+
+12 번째 검색 내용
+제목: 소프트웨어 공학자가 스태프 플러스 역할로 성장하는 방법
+
+(Note: The translation may not be perfect as it is a direct translation of the English title. The context and meaning might need to be adjusted for better understanding in Korean.)
+주소: https://www.infoq.com/news/2025/10/software-engineer-staff-plus/
+설명: 소프트웨어 공학자들은 다른 팀에 도움이 되는 것으로 영향력을 높일 수 있고, 비즈니스 주도적인 작업에 집중하며, 강력한 관계를 구축함으로써 David Grizzanti는 InfoQ Dev Summit Boston에서 언급했습니다. 성장은 멘토링, 문화적 정규화, 전략적인 사고, 자신을 동기부여하는 것으로 기반한 커리어 경로를 설계함으로써 얻을 수 있습니다.
+#소프트웨어공학자 #성장방법 #비즈니스주도적인작업
+
+Hashtags: #softwareengineering, #careergrowth, #businessdriven
+
+13 번째 검색 내용
+제목: 마이크로소프트는 AKS(Azure Kubernetes Service)의 자동화 일반 사용 가능성을 발표합니다.
+주소: https://www.infoq.com/news/2025/10/microsoft-kubernetes-automatic/
+설명: Microsoft는 Azure Kubernetes Service (AKS) Automatic을 일반 사용자에게 공개하였습니다. 이것은 운영 오버헤드를 제거하면서도 플랫폼의 전체 력과 유연성을 유지하기 위해 완전히 관리되는 Kubernetes 제공입니다.
+#AzureKubernetesService #AKSAutomatic #Microsoft
+
+Hashtags: #Azure #CloudComputing #DevOps
+
+14 번째 검색 내용
+제목: 마이크로소프트는 AI 에이전트 개발을 간단하게 만들기 위해 오픈소스 에이전트 프레임워크를 발표합니다.
+주소: https://www.infoq.com/news/2025/10/microsoft-agent-framework/
+설명: Microsoft는 Microsoft Agent Framework, 인공지능 에이전트를 개발자들 모두에게 간단하게 만들어주는 열린 소스 소프트웨어 개발 키트로서 공식 블로그 게시물에 따르면, 회사의 개발팀이 발표한 것으로 발표되었습니다.
+#인공지능 #MicrosoftAgentFramework #소프트웨어개발키트 #개발자용도
+
+15 번째 검색 내용
+제목: 마이크로플루이드 쿨링 테스트를 진행하는 Microsoft의 다음 세대 AI 칩 개발
+
+(Note: The translation may not be perfect as it is a direct translation from English to Korean. The sentence structure and grammar might need adjustments for natural flow in the Korean language.)
+주소: https://www.infoq.com/news/2025/10/microsoft-ai-chips/
+설명: Microsoft는 AI 인프라 확장에 있어서 가장 큰 병목 현상 중 하나인 열을 해결할 수 있는 새로운 칩 쿨링 접근 방식에 대한 진행 사항을 발표했습니다. 회사의 연구원들은 시리콘 칩 뒷면에 새겨진 굴절 상자에 수용 가능한 기계적 플루이드 쿨링 시스템을 성공적으로 실험했습니다.
+#인공지능 #칩쿨링 #열제어
+
+Translated sentence: Microsoft has announced progress on a new chip cooling approach that could help address one of the biggest bottlenecks in scaling AI infrastructure: heat. The company’s researchers have successfully demonstrated in-chip microfluidic cooling, a system that channels liquid coolant directly into etched grooves on the back of silicon chips.
+#인공지능 #칩쿨링 #열제어
+
+Hashtags added: #인공지능 #칩쿨링 #열제어
+
