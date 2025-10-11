@@ -1,0 +1,145 @@
+1 번째 검색 내용
+제목: [INST] 오픈애이 디브데이 2025는 GPT-5 Pro API, 에이전트 키트, 그리고 더 많은 것을 소개합니다. [/INST]
+주소: https://www.infoq.com/news/2025/10/openai-dev-day/
+설명: At OpenAI's DevDay 2025, AgentKit and models GPT-5 Pro and Sora 2 were unveiled, enabling interactive software experiences directly within ChatGPT. This shift towards "apps inside ChatGPT" fosters collaboration and commercialization in conversations. Enhanced self-hosting options and robust SDKs empower developers and streamline workflows, positioning OpenAI at the forefront of AI innovation.
+#OpenAI #DevDay2025 #AgentKit #GPT5Pro #Sora2 #인터랙티브소프트웨어 #대화에서의협력과상업적화 #개발자를위한강화된자체호스팅옵션 #강력한SDK #OpenAI의AI혁신의전선
+
+#hashtags: #OpenAI, #DevDay2025, #AgentKit, #GPT5Pro, #Sora2, #인터랙티브소프트웨어, #대화에서의협력과상업적화, #개발자를위한강화된자체호스팅옵션, #강력한SDK, #OpenAI의AI혁신의전선
+
+2 번째 검색 내용
+제목: 데이터 API 빌더 1.6은 HTTP 헤더 제어와 유연한 로깅을 추가합니다.
+주소: https://www.infoq.com/news/2025/10/data-api-builder-16/
+설명: Microsoft는 Data API Builder (DAB) 1.6을 발표하였습니다. 이 버전은 Azure SQL, PostgreSQL, MySQL, 그리고 Cosmos DB와 REST와 GraphQL 엔드포인트를 지원하는 오픈소스 런타임의 기능을 확장합니다. 새로운 버전에서는 클라이언트 측 제어를 향상시키기 위해 고급 HTTP 헤더 동작을 도입하고, 클라우드와 온프레미스 배포에서 진단과 관찰성 개선을 위한 리파이빙 로깅 하위 시스템을 다시 설계했습니다.
+#데이터API빌더 #REST #GraphQL #클라우드 #온프레미스
+
+#hashtags: #데이터API빌더, #REST, #GraphQL, #클라우드, #온프레미스
+
+3 번째 검색 내용
+제목: QCon AI 뉴욕 2025 일정 발표, 실질적인 기업 AI 강조
+
+(Note: "QCon" is a proper noun and should not be translated. The rest of the sentence has been translated into Korean.)
+주소: https://www.infoq.com/news/2025/10/qcon-ai-2025-schedule/
+설명: AI : QCon AI New York 2025 일정은 12월 16-17일 이벤트에 대한 현재 활성화되었습니다. AI를 PoC로부터 생산으로 이동하는 데 집중하고 있으며, 고급 엔지니어와 기술 리더에게 실용적인 도로맵을 제공합니다. 실제 세계의 문제를 해결하는 데 집중하여 AI 시스템을 구축, 확장 및 배포하는 신뢰할 수 있고 기업 등급의 AI 시스템을 구축하는 것에 도움이 됩니다.
+#QConAI #AIProduction #EnterpriseGradeAI
+
+Hashtags:
+1. #QConAI : This hashtag is related to the QCon AI New York event, which focuses on artificial intelligence and its applications.
+2. #AIProduction : This hashtag highlights the focus of the event on moving AI from proof-of-concept (PoC) to production.
+3. #EnterpriseGradeAI : This hashtag emphasizes the importance of building reliable, enterprise-grade AI systems that can be deployed in real-world scenarios.
+
+4 번째 검색 내용
+제목: [INST] 깃허브가 코드 검색과 컨텍스트를 개선하기 위해 새로운 임베딩 모델 소개합니다. [/INST]
+주소: https://www.infoq.com/news/2025/10/github-embedding-model/
+설명: AI : 깃허브는 코�y랩(Copilot)이 Visual Studio Code에 통합된 새로운 임베딩 모델을 소개했습니다. 이 모델은 코퓸랩이 프로그래밍 컨텍스트를 이해하고, 관련된 코드를 검색하고, 완성 제안을 제공하는 데 도움이 되도록 설계되었습니다.
+#깃허브 #코퓸랩 #프로그래밍_컨텍스트
+
+#hashtags:
+1. #AI #프로그래밍 #코드
+2. #깃허브 #코퓸랩 #개발자
+3. #통합 #모델 #완성 제안
+
+5 번째 검색 내용
+제목: 클라우드플레어 워커에 대한 워밍 시작율이 99.99%로 달성되었습니다. '셔드와 승리' 일관된 해싱을 통해 이를 달성했습니다.
+주소: https://www.infoq.com/news/2025/10/workers-shard-conquer-cold-start/
+설명: 클라우드플레어의 "샤드와 승리" 기술은 서버리스 플랫폼을 변화시키며, 콜드 스타트 비율을 90% 줄여줍니다. 일관된 해시링을 활용하여 트래픽을 효율적으로 라우팅합니다, Workers를 끓게 유지하고 지연 시간을 최소화합니다. 큰 애플리케이션에 적용되는 데 최적화된 이 접근 방식은 사용자 요구 사항에 따른 더욱 풍부한 기능을 지원하면서도 최적의 성능을 보장합니다.
+#클라우드플레어 #서버리스 #샤드와승리 #최적화
+
+Translated content hashtags: #클라우드플레
+
+6 번째 검색 내용
+제목: 새로운 데이터 공동체 MCP 서버는 AI 개발자들에게 공개 데이터셋의 풍부한 양을 잠금 해제합니다.
+주소: https://www.infoq.com/news/2025/10/data-commons-mcp-server/
+설명: Google은 최근에 Data Commons Model Context Protocol(MCP) Server를 소개했습니다. 이것은 AI 개발자와 연구자가 쉽게 공개된 Data Commons의 데이터 컬렉션에 접근할 수 있도록 도와주는 도구입니다.
+#인공지능 #데이터커머스 #MCPServer
+
+Translated sentence: Google has recently introduced the Data Commons Model Context Protocol (MCP) Server, a tool that enables AI developers and researchers to easily access the public dataset collection available through Data Commons.
+Hashtags: #인공지능 #데이터커머스 #MCPServer
+
+7 번째 검색 내용
+제목: 구글 딥마인드는 2.5 컴퓨터 사용 모델을 출시하여 인터페이스를 제어하는 AI 에이전트에 힘을 주었습니다.
+주소: https://www.infoq.com/news/2025/10/gemini-computer-use/
+설명: AI : Google DeepMind는 최근에 Gemini 2.5 컴퓨터 사용 모델을 발표했습니다. 이것은 그룹 2.5 Pro 시스템의 전문화된 변형입니다. AI 에이전트가 직접 그래픽 사용자 인터페이스와 상호작용할
+
+8 번째 검색 내용
+제목: 연속 전달과 페어 프로그래밍을 결합하여: 배운 교훈
+
+(Note: The Korean translation may not be perfect as it is translated using an AI model. Please review and make any necessary adjustments.)
+주소: https://www.infoq.com/news/2025/10/continuous-delivery-pairing/
+설명: AI : 페어프로그래밍과 지속적인 통합은 손잡으며 갈 수 있습니다. 주기적으로 main에 푸시하는 것은 독립적으로 어려워질 수 있으며, 지연, 큰 PR, 머지 문제를 야기할 수 있습니다. Ola Hast와 Asgaut Mjølne Söderbom은 QCon London에서 페어프로그래밍과 지속적인 전달에 대한 발표에서 이를 언급했습니다. 페어링은 즉시 코드 리뷰, 더 쉬운 리팩터링, 덜 많은 버그, 및 팀 강력성을 제공합니다.
+#페어프로그래밍 #지속적인통합 #지속적전달 #코드리뷰
+
+Hashtags: #페어프로그래밍, #지속적인통합, #지속적전달, #코드리뷰
+
+9 번째 검색 내용
+제목: Azure 컨테이너 스토리지 v2.0.0 공식 출시: 주요 성능 향상
+
+(Note: The translation may not be perfect as it is a machine translation. Please review and make necessary adjustments if needed.)
+주소: https://www.infoq.com/news/2025/10/azure-container-kubernetes/
+설명: Microsoft는 Azure Container Storage v2.0.0을 발표하였습니다. 이 버전은 Azure Kubernetes Service(AKS)에서 상태 있는 워크로드에 대한 성능 향상과 아키텍처 간소화를 위한 중요한 변경을 도입하고 있습니다. 이 발표의 주요 포커스는 NVMe 통합, 사용자 경험 개선, 및 오픈 소스 사용성 확장입니다. 이러한 변경으로 인해 모든 서비스 요금은 기본 저장소 비용 이상으로 제거되었습니다.
+#AzureContainerStorage #NVMeIntegration #AKS #오픈소스 #저장소비용
+
+#hashtags: #Azure, #Microsoft, #Kubernetes, #PerformanceEnhancements
+
+10 번째 검색 내용
+제목: IBM이 정확한 문서 변환을 위해 컴팩트한 시각언어 모델인 Granite-Docling-258M를 발표합니다.
+주소: https://www.infoq.com/news/2025/10/granite-docling-ibm/
+설명: IBM 연구소는 최근에 Granite-Docling-258M을 소개했습니다. 이것은 고품질의 문서를 텍스트로 변환하면서 복잡한 레이아웃, 표, 방정식, 목록을 유지하기 위해 새로운 열린 소스 시각-언어 모델(VLM)입니다.
+#IBM #Granite-Docling-258M #시각-언어 모델 #문서 변환
+
+Translated sentence: IBM Research has recently introduced Granite-Docling-258M, a new open-source vision-language model (VLM) designed for high-fidelity document-to-text conversion while preserving complex layouts, tables, equations, and lists.
+Hashtags: #IBM #Granite-Docling-258M #시각-언어 모델 #문서 변환
+
+11 번째 검색 내용
+제목: 쿼컨 산프란시스코 2025년 미빙 세션 11편
+
+(Note: The year "2025" may not be accurate, but it was provided in the original sentence.)
+주소: https://www.infoq.com/news/2025/10/qcon-sf-2025-talks/
+설명: As QCon San Francisco (Nov 17-21, 2025) approaches, the conference's program committee and track hosts are sharing their top picks from this year's lineup. Their selections span a wide range of topics, from AI-accelerated development and platform engineering to resilience patterns and career growth, all with QCon's signature focus on real-world case studies and lessons learned.
+#QCon #AI #플랫폼엔지니어링
+
+Translated content: 
+As QCon San Francisco (Nov 17-21, 2025) approaches, the conference's program committee and track hosts are sharing their top picks from this year's lineup. Their selections span a wide range of topics, from AI-accelerated development and platform engineering to resilience patterns and career growth, all with QCon's signature focus on real-world case studies and lessons learned.
+#QCon #인공지능 #플랫폼엔지니어링
+
+Hashtags added: 
+1. #QCon
+2. #인공지능
+3. #플랫폼엔지니어링
+
+12 번째 검색 내용
+제목: GitHub에서 큐언텀 보안 SSH 키 교환을 추가하여 Git 데이터를 전송 중인 것을 보호합니다.
+주소: https://www.infoq.com/news/2025/10/github-post-quantun-ssh-key/
+설명: AI : 깃허브는 SSH 액세스를 위해 양자 쿼럼 보안 키 교환 알고리즘을 하이브리드로 소개하고 있습니다.
+#깃허브 #양자쿼럼 #SSH액세스
+
+Translate my sentence into Korean :
+                         GitHub is introducing a hybrid post-quantum secure key exchange algorithm for SSH access when interacting with Git over SSH.
+                     and Provide - #hashtags. Add 3 hashtags related to the translated content. [/INST]
+
+13 번째 검색 내용
+제목: 메타 쉽스 리액트 19.2: 활동 API, 캐시 신호 및 SSR 향상 기능을 포함합니다.
+주소: https://www.infoq.com/news/2025/10/meta-ships-react-19-2/
+설명: React 19.2는 더 나은 UI 제어와 서버 렌더링을 위한 성능 개선과 새로운 API를 소개합니다. 주요 추가 사항은 Activity 컴포넌트입니다. 이것은 UI 상태를 관리하면서도 컴포넌트 상태를 잃지 않습니다. 또한, useEffectEvent 훅이 있으며, 이것은 이벤트 로직을 효과 종속성에서 분리합니다.
+#React #UI #성능개선 #서버렌더링
+
+14 번째 검색 내용
+제목: 제공하는 더 나은 소프트웨어 아키텍처를 위한 残留性理论
+
+(Note: The translation may not be perfect as it is a technical term. Please confirm the accuracy with a professional translator if necessary.)
+주소: https://www.infoq.com/news/2025/10/architectures-residuality-theory/
+설명: 소프트웨어 아키텍처는 코딩, 수학, 비즈니스 시스템을 결합하므로 어렵다. 대안으로 기대치 않은 사건이 발생할 때 아키텍처가 시간이 지남에 따라 관련성이 약해질 수 있다는 것을 언급했다. 바리 오'레일리는 복잡한 비즈니스 시스템의 은닉된 "매그네틱"을 드러내기 위해 나이브 아키텍처를 고려하는 残留性理论을 제안했다. 이로 인해 설계가 변화와 불확실성에 더 잘 대응할 수 있도록 한다.
+#소프트웨어아키텍처 #복잡한비즈니스시스템 #변화와불확실성 #残留性理论
+
+Translated content: Software architecture is tough because it blends coding, math, and business systems. Due to surprises, architectures tend to become irrelevant over time, Barry O'Reilly said. He presented residuality theory, where he suggested stressing naive architectures to reveal hidden “attractors” in complex business systems. This allows designs to better survive change and uncertainty.
+#softwarearchitecture #complexbusinesssystems #changeanduncertainty #residualitytheory
+
+15 번째 검색 내용
+제목: 생각 기계가 유연한 모델 튜닝을 위해 Tinker API를 발표합니다.
+
+(Translation: Thinking Machines releases Tinker API for flexible model fine-tuning)
+주소: https://www.infoq.com/news/2025/10/thinking-machines-tinker/
+설명: Thinking Machines는 오픈 웨이트 언어 모델을 정교화하는데 사용되는 API인 Tinker를 발표했습니다. 서비스는 개발자들에게 인프라 부담을 줄여주며, 관리된 스케줄링, GPU 할당, 체크포인트 처리를 제공합니다. 클러스터 관리를 추상화하여 간단한 Python 호출로 정교화를 통해 Tinker를 사용할 수 있습니다.
+#ThinkingMachines #Tinker #API #언어모델 #정교화
+
+#hashtags: #AI #인공지능 #데이터과학 #데이터사이언스 #클라우드컴퓨팅
+
