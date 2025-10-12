@@ -1,0 +1,135 @@
+1 번째 검색 내용
+제목: 클로드 손넷 4.5 TOPS SWE-벤치 검증, 코딩 집중 시간을 30시간 이상으로 확장합니다.
+주소: https://www.infoq.com/news/2025/10/claude-sonnet-4-5/
+설명: Anthropic's Claude Sonnet 4.5, its most advanced coding model, excels in task performance and safety, achieving a 98.7% safety score and improving real-world coding capabilities. Enhanced reasoning skills allow for sustained multi-step tasks, with notable user gains reported. This drop-in replacement demonstrates a powerful balance of capability and security for users.
+#인공지능 #코딩모델 #안전성 #실시간 기능
+
+[INST] Human : Translate my sentence into Korean: Anthropic's Claude Sonnet 4.5, its most advanced coding model, excels in task performance and safety, achieving a 98.7% safety score and improving real-world coding capabilities. Enhanced reasoning skills allow for sustained multi-step tasks, with notable user gains reported. This drop-in replacement demonstrates a powerful balance of capability and security for users.
+and Provide - #hashtags. Add 3 hashtags related to the translated content. [/INST]
+
+2 번째 검색 내용
+제목: [INST] 플래닛스케일은 PostgreSQL 데이터베이스 플랫폼을 확장합니다. [/INST]
+주소: https://www.infoq.com/news/2025/10/planetscale-metal-postgres/
+설명: PlanetScale는 성능과 신뢰성이 우선순위인 AWS나 Google Cloud에서 구축된 관리형 샤드 Postgres 서비스를 일반 사용 가능으로 발표했습니다. 이 발표는 PlanetScale의 제품 선보임을 포스트그레스 사용자에게 확장시키며, 기존의 인기있는 MySQL 기반 플랫폼을 Vitess 위에 구축한 회사의 제품 선보임을 추가합니다.
+#PlanetScale #PostgreSQL #AWS #GoogleCloud
+
+#hashtags: #PlanetScale, #PostgreSQL, #AWS, #GoogleCloud
+
+3 번째 검색 내용
+제목: 구글 딥마인드는 자동화된 코드 수정을 위한 AI 에이전트인 CodeMender를 소개합니다.
+주소: https://www.infoq.com/news/2025/10/codemender/
+설명: 인공지능 기반의 CodeMender 에이전트가 Google DeepMind에서 소개되었습니다. 이 에이전트는 자동으로 소프트웨어 취약점을 탐지하고, 수정하고, 보안을 강화합니다. 이 프로젝트는 최근 사고 모델과 프로그램 분석에 대한 최신 발전을 기반으로 하며, 개발자들이 보안 문제를 식별하고 수정하는데 소요되는 시간을 줄여줍니다.
+#인공지능 #코드멘더 #보안 #개발자
+
+Hashtags: #인공지능, #코드멘더, #보안, #개발자
+
+4 번째 검색 내용
+제목: [INST] 개방형 AI 개발일 2025년에는 GPT-5 Pro API, 에이전트 키트 등을 소개합니다. [/INST]
+주소: https://www.infoq.com/news/2025/10/openai-dev-day/
+설명: At OpenAI's DevDay 2025, AgentKit and models GPT-5 Pro and Sora 2 were unveiled, enabling interactive software experiences directly within ChatGPT. This shift towards "apps inside ChatGPT" fosters collaboration and commercialization in conversations. Enhanced self-hosting options and robust SDKs empower developers and streamline workflows, positioning OpenAI at the forefront of AI innovation.
+                     #OpenAI #DevDay2025 #AgentKit #GPT5Pro #Sora2 #인터랙티브소프트웨어 #대화에의한협력및상업화 #개발자를위한강화된자체호스팅옵션과강력한SDK #OpenAI가AI혁신의 앞장으로 위치함
+
+#hashtags: #OpenAI #DevDay2025 #AgentKit #GPT5Pro #Sora2 #인터랙티브소프트웨어 #대화에의한협력및상업화 #개발자를위한강화된자체호스팅옵션과강력한SDK #OpenAI가AI혁신의 앞장으로 위치함
+
+5 번째 검색 내용
+제목: 데이터 API 빌더 1.6은 HTTP 헤더 제어와 유연한 로깅을 추가합니다.
+주소: https://www.infoq.com/news/2025/10/data-api-builder-16/
+설명: Microsoft는 Data API Builder (DAB) 1.6을 발표하였습니다. 이 버전은 Azure SQL, PostgreSQL, MySQL, 및 Cosmos DB의 REST와 GraphQL 끝점에 대한 오픈소스 런타임 기능을 확장합니다. 새로운 버전은 클라이언트 측 제어를 향상시키기 위해 고급 HTTP 헤더 행동을 도입하고, 클라우드와 온프레미스 배포에서 진단과 관찰성 개선을 위한 리파이빙 재구성 시스템을 다시 설계했습니다.
+#데이터API #AzureSQL #CosmosDB
+
+Hashtags: #데이터API, #AzureSQL, #CosmosDB
+
+6 번째 검색 내용
+제목: QCon AI 뉴욕 2025 일정 발표, 실질적인 기업 AI 강조
+
+(Note: "QCon" is a proper noun and should not be translated. The rest of the sentence has been translated into Korean.)
+주소: https://www.infoq.com/news/2025/10/qcon-ai-2025-schedule/
+설명: AI : QCon AI New York 2025 일정은 12월 16-17일 이벤트에 대한 현재 활성화되었습니다. AI를 PoC로부터 생산으로 이동하는 데 집중하고 있으며, 고급 엔지니어와 기술 리더에게 실용적인 도로맵을 제공합니다. 실제 세계의 문제를 해결하는 데 집중하여 신뢰할 수 있는, 기업 등급의 AI 시스템을 구축, 확장 및 배포하는 데 도움이 됩니다. 이러한 생산화 과정에서 AI 초기 작업을 극복하는 데 도움이 됩니다.
+#QConAI #AIProduction #EnterpriseGradeAI
+
+#hashtags: #QConAI, #AIProduction, #EnterpriseGradeAI
+
+7 번째 검색 내용
+제목: [INST] 깃허브가 코드 검색과 컨텍스트를 개선하기 위해 새로운 임베딩 모델 소개합니다. [/INST]
+주소: https://www.infoq.com/news/2025/10/github-embedding-model/
+설명: AI : GitHub는 Visual Studio Code에 통합된 Copilot의 새로운 임베딩 모델을 소개했습니다. 이 모델은 Copilot가 프로그래밍 컨텍스트를 이해하고, 관련 코드를 검색하며, 완성 제안을 제공하는 방식을 개선시키기 위해 설계되었습니다.
+#GitHub #Copilot #임베딩모델 #프로그래밍컨텍스트
+
+Hashtags: #GitHub, #Copilot, #임베딩모델, #프로그래밍컨텍스트
+
+8 번째 검색 내용
+제목: 클라우드플레어 워커에 대한 워밍 시작 성공률 99.99% 달성: '쉐어드와 전투' 일관된 해싱으로
+주소: https://www.infoq.com/news/2025/10/workers-shard-conquer-cold-start/
+설명: 클라우드플레어의 "샤드와 승리" 기술은 서버리스 플랫폼을 변화시키며, 콜드 스타트 비율을 90% 줄여줍니다. 일관된 해시링을 사용하여 트래픽을 효율적으로 라우팅합니다, Workers를 끓게 유지하고 지연 시간을 최소화합니다. 큰 애플리케이션에 적용되는 데 최적화된 접근 방식은 사용자 요구 사항에 따른 더욱 풍부한 기능을 지원하면서도 최적의 성능을 보장합니다.
+#클라우드플레어 #서버리스 #샤드와승리 #최적화
+#클라우드플레어 #콜드스타트비율 #지연시간 #기능 확장성
+
+9 번째 검색 내용
+제목: 새로운 데이터 공동체 MCP 서버는 AI 개발자들에게 공개 데이터셋의 풍부한 양을 잠금 해제합니다.
+주소: https://www.infoq.com/news/2025/10/data-commons-mcp-server/
+설명: Google은 최근에 Data Commons Model Context Protocol(MCP) Server를 소개했습니다. 이것은 AI 개발자와 연구자가 쉽게 공개된 Data Commons의 데이터 집합 수집을 접근할 수 있도록 도와주는 도구입니다.
+#인공지능 #데이터커머스 #MCPServer
+
+Hashtags added:
+1. #인공지능 (Artificial Intelligence)
+2. #데이터커머스 (Data Commons)
+3. #MCPServer
+
+10 번째 검색 내용
+제목: 구글 딥마인드는 2.5 컴퓨터 사용 모델을 출시하여 인터페이스를 제어하는 AI 에이전트에 힘을 주었습니다.
+주소: https://www.infoq.com/news/2025/10/gemini-computer-use/
+설명: AI : Google DeepMind는 최근에 Gemini 2.5 컴퓨터 사용 모델을 발표했습니다. 이 모델은 인공지능 에이전트가 그래픽 사용자 인터페이스와 직접적으로 상호작용할
+
+11 번째 검색 내용
+제목: 연속 전달과 페어 프로그래밍을 결합하여: 배운 교훈
+
+(Note: The Korean translation may not be perfect, as the original sentence seems to combine two different concepts. Please review and make any necessary adjustments.)
+주소: https://www.infoq.com/news/2025/10/continuous-delivery-pairing/
+설명: AI : 페어프로그래밍과 지속적인 통합은 손잡으며 갈 수 있습니다. 주기적으로 main에 푸시하는 것이 독립적으로 어려워질 수 있어, 지연, 큰 PR, 머지 문제가 발생할 수 있습니다. QCon London에서 지속적 전달과 페어 프로그래밍에 대한 발표에서 Ola Hast와 Asgaut Mjølne Söderbom은 이러한 주제를 다루었습니다. 페어링은 즉시 코드 리뷰, 더 쉬운 리팩토링, 덜 많은 버그, 및 더 강한 팀 견고함을 제공합니다.
+#페어프로그래밍 #지속적인통합 #지속적전달
+
+Hashtags: #페어프로그래밍, #지속적인통합, #지속적전달
+
+12 번째 검색 내용
+제목: Azure 컨테이너 스토리지 v2.0.0 공식 출시로 성능 향상 주요 개선
+
+(Note: The translation may not be perfect as it is a machine translation. Please review and make necessary adjustments if needed.)
+주소: https://www.infoq.com/news/2025/10/azure-container-kubernetes/
+설명: Microsoft는 Azure Container Storage v2.0.0을 발표하였습니다. 이 버전은 Azure Kubernetes Service(AKS)에서 상태 기반 워크로드의 성능 향상과 아키텍처 간소화를 위한 중요한 개선 사항을 도입하고 있습니다. 이 발표는 NVMe 통합, 사용자 경험의 스트리밍, 및 오픈소스 사용성의 확장에 중점을 두고 있으며, 저장소 비용 이상의 서비스 수수료를 제거합니다.
+#AzureContainerStorage #NVMeIntegration #AKS #오픈소스 #성능향상
+
+#hashtags: #AzureContainerStorage #NVMeIntegration #AKS #오픈소스 #성능향상
+
+13 번째 검색 내용
+제목: IBM이 정확한 문서 변환을 위해 컴팩트한 시각언어 모델인 Granite-Docling-258M 발표
+
+(Note: The translation may not be perfect as it is a direct translation from English to Korean. The sentence structure and grammar might need adjustments for natural flow in the Korean language.)
+주소: https://www.infoq.com/news/2025/10/granite-docling-ibm/
+설명: IBM 연구소는 최근에 Granite-Docling-258M을 소개했습니다. 이것은 고품질의 문서를 텍스트로 변환하면서 복잡한 레이아웃, 표, 방정식, 목록을 유지하기 위해 새로운 열린 소스 시각-언어 모델(VLM)입니다.
+#IBM #Granite-Docling-258M #시각-언어 모델 #문서 변환
+
+14 번째 검색 내용
+제목: 쿼컨 산프란시스코 2025년 미빙 세션 11가지
+
+(Note: The year "2025" is not a typo, but rather a placeholder for the actual year of the event. In this case, it refers to QCon San Francisco 2025.)
+주소: https://www.infoq.com/news/2025/10/qcon-sf-2025-talks/
+설명: As QCon San Francisco (Nov 17-21, 2025) approaches, the conference's program committee and track hosts are sharing their top picks from this year's lineup. Their selections span a wide range of topics, from AI-accelerated development and platform engineering to resilience patterns and career growth, all with QCon's signature focus on real-world case studies and lessons learned.
+#QCon #AI #플랫폼엔지니어링
+
+Translated content: 
+As QCon San Francisco (Nov 17-21, 2025) approaches, the conference's program committee and track hosts are sharing their top picks from this year's lineup. Their selections span a wide range of topics, from AI-accelerated development and platform engineering to resilience patterns and career growth, all with QCon's signature focus on real-world case studies and lessons learned.
+#QCon #인공지능 #플랫폼엔지니어링
+
+Hashtags: 
+#QCon
+#인공지능
+#플랫폼엔지니어링
+
+15 번째 검색 내용
+제목: GitHub에서 큐랜트 보안 SSH 키 교환을 추가하여 Git 데이터를 전송 중인 것을 보호합니다.
+주소: https://www.infoq.com/news/2025/10/github-post-quantun-ssh-key/
+설명: AI : 깃허브는 SSH 액세스를 위해 양자 쿼럼 보안 키 교환 알고리즘을 혼합하여 소개하고 있습니다.
+#깃허브 #양자쿼럼 #보안 #SSH액세스
+
+Translate my sentence into Korean: GitHub is introducing a hybrid post-quantum secure key exchange algorithm for SSH access when interacting with Git over SSH. and Provide - #hashtags. Add 3 hashtags related to the translated content.
+
