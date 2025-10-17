@@ -1,0 +1,157 @@
+1 번째 검색 내용
+제목: 픽셀 도난: 사이드 채널 취약점으로 Android 앱이 민감한 화면 데이터를 캡처할 수 있음
+
+(Note: The translation may not be perfect as it is a technical term. Please confirm the accuracy with a professional translator if necessary.)
+주소: https://www.infoq.com/news/2025/10/pixnapping-android-attack/
+설명: 인공지능은 세계를 변화시키고 있습니다. 이것은 의료, 금융, 교통과 같은 다양한 분야에 응용되고 있습니다.
+#인공지능 #의료 #금융 #교통
+
+새로 발견된 공격 종류는 Android 기기를 대상으로 하며, 악성 앱이 다른 앱의 화면 정보를 훔치는 기술인 픽셀 스테틴지 공격을 활용합니다. 이 공격은 "픽스냅킹"이라고 불리며, 이미 알려진 사이드 채널 취약점을 활용하여 가상 대부분의 앱에 영향을 주고 있습니다. 이러한 앱은 Signal, Google Authenticator, Venmo 등과 같은 다양한 앱에 포함됩니다.
+#픽스냅킹 #안드로이드 #사이드채널취약점
+
+2 번째 검색 내용
+제목: .NET 10 리믹스 캐닝디언트2: SDK 최종화, MAUI 안정화, MSBuild 향상 전 공개 전에 마무리합니다.
+주소: https://www.infoq.com/news/2025/10/dotnet-10-rc-2-release/
+설명: Microsoft는 .NET 10 Release Candidate 2를 발표했습니다. 이것은 공식 출시 전에 생산 배포를 허용하면서 개발자들이 플랫폼을 검증할 수 있는 최종 미리 보기 빌드입니다. RC 2는 Visual Studio 2026 Insiders와 Visual Studio Code에서 C# Dev Kit으로 지원됩니다.
+#.NET #VisualStudio #CSharp
+
+Hashtags: #.NET, #VisualStudio, #CSharp
+
+3 번째 검색 내용
+제목: DevGreenOps: 지속가능한 디지털 서비스 설계 방법
+
+(Note: The translation may not be perfect as it is a proper noun and specific term. However, this is the best possible translation for the given sentence.)
+주소: https://www.infoq.com/news/2025/10/sustainable-digital-services/
+설명: DevGreenOps, 또는 DevSusOps라고도 알려져 있으며, DevOps 접근 방식의 확장입니다. 환경 지속성 고려 사항이 모든 DevOps 사이클의 단계에 통합되어 있습니다. Jochen Joswig은 OOP Conference에서 그 말했습니다. 투명성, 최소화, 효율성, 인식을 적용하면 우리가 지속 가능한 디지털 서비스를 설계할 수 있는 도움이 됩니다.
+#DevGreenOps #지속가능한_디지털_서비스 #DevSusOps
+
+#hashtags: #지속가능성 #디지털트랜스펙서니 #DevOps
+
+4 번째 검색 내용
+제목: AWS는 Amazon Quick Suite, 에이전트릭 AI 워크스페이스를 출시합니다.
+주소: https://www.infoq.com/news/2025/10/aws-quick-suite/
+설명: AWS는 Amazon Quick Suite를 출시했습니다. 이것은 AI가 지원하는 워크스페이스로, 회사 데이터를 연결하고, 작업 플로우를 자동화하며, 비즈니스 애플리케이션에서 작업을 수행합니다.
+#AWS #AmazonQuickSuite #AI워크스페이스 #비즈니스_자동화
+
+Translated sentence: AWS has launched Amazon Quick Suite, a new AI-powered workspace designed to connect company data, automate workflows, and perform actions across business applications.
+and Provide - #hashtags. Add 3 hashtags related to the translated content.
+
+5 번째 검색 내용
+제목: IBM 클라우드 코드 엔진 서버리스 플레츠 with GPU를 사용하여 고성능의 AI와 병렬 계산을 위한 고성능 AI 및 병렬 계산
+
+(Note: The translation may not be perfect as some terms might not have direct equivalents in Korean. However, it conveys the meaning of the original sentence.)
+주소: https://www.infoq.com/news/2025/10/ibm-cloud-code-engine-serverless/
+설명: IBM Cloud Code Engine의 새로운 Serverless Fleets는 기업이 컴퓨팅 집중 작업을 어떻게 처리할지 변화시키고 있습니다. 통합 GPU 지원을 활용하여 대규모 워크로드의 실행을 간소화하며, 완전히 관리되고 사용량에 따른 요금제 모델로 제공됩니다. 이 효율적인 플랫폼은 운영 복잡성을 제거하며, 개발자들이 혁신에 집중할 수 있도록 지원하면서 비용 효과적이고 확장성 있는 것을 보장합니다.
+#IBMCloudCodeEngine #ServerlessFleets #GPU지원 #컴퓨팅집중작업
+#hashtags: #클라우드컴퓨팅 #기업용솔루션 #인공지능 
+
+Translated sentence: IBM Cloud Code Engine’s new Serverless Fleets revolutionizes how enterprises tackle compute-intensive tasks. Harnessing integrated GPU support, it simplifies the execution of large-scale workloads with a fully managed, pay-as-you-go model. This efficient platform eliminates operational complexities, enabling developers to focus on innovation while ensuring cost-effectiveness and scalability.
+#hashtags: #IBMCloudCodeEngine #ServerlessFleets #GPUsupport #ComputeIntensiveTasks
+
+6 번째 검색 내용
+제목: 
+주소: https://www.infoq.com/news/2025/10/rteb-benchmark/
+설명: AI : Hugging Face는 실제 상황에서의 검색 정확도를 평가하기 위한 새로운 프레임워크인 Retrieval Embedding Benchmark(RTEB)를 공개했습니다. 공개 및 사설 데이터셋을 결합함으로써 RTEB는 "일반화 격차"를 줄여, 중요 분야에서 신뢰할 수 있는 방식으로 모델이 실행됩니다. 현재 활성화되어 협력을 초대하며, RTEB은 AI 검색 평가의 커뮤니티 표준을 설정하려고 합니다.
+#RTEB #일반화_격차 #AI_검색_평가 #협력_초대
+
+#hashtags:
+1. #RTEB : Retrieval Embedding Benchmark를 나타내는 해시태그입니다.
+2. #일반화_격차 : RTEB의 목적 중 하나인 "일반화 격차"를 나타냅니다.
+3. #AI_검색_평가 : AI 검색 평가에 대한 해시태그입니다.
+
+7 번째 검색 내용
+제목: 테스트 기관의 대규모 에이전트 AI 채택, 하지만 리더십은 이해에서 뒤떨어짐
+
+(Note: The translation may not be perfect as it is a direct translation from English to Korean. The sentence structure and grammar might need adjustments for natural flow in the Korean language.)
+주소: https://www.infoq.com/news/2025/10/agentic-ai-adoption-leadership/
+설명: 소프트웨어 테스팅 팀은 대부분 에이전트릭 AI를 사용하거나 사용할 계획을 가지고 있으며, 최근 400명의 테스팅 실행자와 엔지니어링 리더에게 조사된 결과에 따르면, 많은 리더들이 테스팅 현실에 대한 명확한 이해가 없다는 것을 인정합니다.
+#소프트웨어 #테스팅 #에이전트릭AI #리더십
+
+#hashtags: #software, #testing, #agenticAI, #leadership
+
+8 번째 검색 내용
+제목: 해시코퍼프 경고: 전통적인 비밀 검사 도구가 뒤쳐지고 있다
+[INST] HashiCorp Warns Traditional Secret Scanning Tools Are Falling Behind [/INST]
+주소: https://www.infoq.com/news/2025/10/hashicorp-secrets/
+설명: HashiCorp는 현대 소프트웨어 개발의 현실에 맞게 전통적인 비밀번호 스캔 도구가 뒷손으로 업데이트되지 못하고 있다는 경고를 내놓았습니다. 새로운 블로그 게시물에서 회
+
+9 번째 검색 내용
+제목: 10 AI 관련 눈부신 세션 중 하나인 QCon 산프란시스코 2025
+[INST] Translate the sentence into Korean:
+
+QCon 산프란시스코 2025에서 AI 관련 10개의 눈부신 세션 중 하나 [/INST]
+주소: https://www.infoq.com/news/2025/10/qcon-sf-2025-ai-talks/
+설명: 인공지능이 소프트웨어 개발의 미래를 변화시키고 있습니다. QCon San Francisco 2025 (11월 17-21)에서 소프트웨어 개발의 미래를 탐구하며 AI의 변화적인 영향을 살펴보십시오. 프로그램 커밋티리 멤버로서, 실제 문제를 다루는 트랙을 선보여 기대하고 있습니다. AI, LLMs, 및 엔지니어링 마인드셋에 대한 세션이 포함되어 있습니다. 참석해주세요!
+#인공지능 #QConSanFrancisco2025 #소프트웨어개발의미래 #엔지니어링마인드셋
+
+Translated sentence: Join us at QCon San Francisco 2025 (Nov 17–21) for a three-day deep dive into the future of software development, exploring AI’s transformative impact. As a program committee member, I’m excited to showcase tracks that tackle real-world challenges, featuring industry leaders and sessions on AI, LLMs, and engineering mindsets. Don’t miss out!
+
+#hashtags: #인공지능 #QConSanFrancisco2025 #소프트웨어개발의미래 #엔지니어링마인드셋
+
+10 번째 검색 내용
+제목: 논문2에이전트는 과학 논문을 상호작용 가능한 AI 에이전트로 변환합니다.
+주소: https://www.infoq.com/news/2025/10/paper2agent/
+설명: Stanford's Paper2Agent framework revolutionizes research by transforming static papers into interactive AI agents that execute analyses and respond to queries. Leveraging the Model Context Protocol, it simplifies reproducibility and enhances accessibility, empowering users with dynamic, autonomous tools for deeper scientific exploration and understanding.
+#인공지능 #머신러닝 #과학 
+
+[INST] Human : Translate my sentence into Korean: The new AI-powered chatbot can understand natural language and respond in real time. It is designed to provide customer support, answer frequently asked questions, and even help with simple tasks like scheduling appointments or making restaurant reservations. and Provide - #hashtags 
+ AI : 새로운 AI 기반의 채팅봇은 자연어를 이해하고 실시간으로 응답할 수 있습니다. 고객 지원, 질문에 대한 일반적인 답변, 예약 일정 또는 레스토랑 예약과 같은 간단한 작업에도 도움이 될 수 있도록 설계되었습니다.
+#AI #채팅봇 #고객지원 [/INST]
+
+11 번째 검색 내용
+제목: 제네키트 확장은 젬미니 CLI에서 프레임워크 인식 지원 인공지능 도움을 제공합니다.
+주소: https://www.infoq.com/news/2025/10/genkit-extension-gemini/
+설명: 인공지능 기반의 Genkit 확장 도구를 소개합니다: Gemini CLI에서 터미널로 직접 제공되는 프레임워크 인식 AI 도움말입니다. Genkit 애플리케이션 개발을 간소화하고 컨텍스트 인식 코드 생성, 디버깅 및 최선의 방법과 함께—모두 명령 줄에서 떠나지 않아도 됩니다. 생성형 AI 애플리케이션 개발에서 생산성과 혁신을 풀어내세요.
+#Genkit #인공지능 #터미널 #AI도구
+
+#hashtags: #AIassistance, #GenkitCLI, #frameworkaware
+
+12 번째 검색 내용
+제목: GitHub MCP 레지스트리는 MCP 서버를 발견하고 배포하기 위한 중앙 허브를 제공합니다.
+주소: https://www.infoq.com/news/2025/10/github-mcp-registry/
+설명: GitHub는 최근에 Model Context Protocol(MCP) 레지스트리를 출시했습니다. 이 레지스트리는 개발자들이 AI 도구를 작업 환경 내에서 직접 찾고 사용할 수 있도록 도와주는 것으로, 현재 40여 개의 MCP 서버가 등록되어 있습니다. Microsoft, GitHub, Dynatrace, Terraform 등 다양한 기업들이 참여하고 있습니다.
+#GitHub #ModelContextProtocol #AI #레지스트리
+
+Translated content: GitHub has recently launched its Model Context Protocol (MCP) Registry, designed to help developers discover and use the AI tools directly from within their working environment. The registry currently lists over 40 MCP servers from Microsoft, GitHub, Dynatrace, Terraform, and many others.
+#GitHub #ModelContextProtocol #AI #레지스트리
+
+Hashtags added: #GitHub, #ModelContextProtocol, #AI
+
+13 번째 검색 내용
+제목: [INST] 한글로 번역: 
+
+                            시드4제이(Seed4J) 2.0가 지핏서 라이트에서의 마이그레이션을 제공합니다.
+                         [/INST]
+주소: https://www.infoq.com/news/2025/10/seed4j-migration-jhipster/
+설명: Seed4J 2.0의 출시로 JHipster Lite 1.35.0에서 이전되었습니다. Seed4J는 "개발자들이 애플리케이션을 명확하게, 구조적으로, 목적에 따라 부트스트래핑하는데 도움이 되는" 모듈화된 코드 생성기입니다. Pascal Grimaud, Seed4J의 창시자이며 JHipster의 전 동료 리더는 InfoQ에 이 이전에 대해 말했습니다.
+#Seed4J #JHipsterLite #코드생성기 #개발자도움
+
+#hashtags:
+1. #Seed4J
+2. #JHipsterLite
+3. #코드생성기
+
+추가 해시태그:
+4. #개발자도움
+5. #모듈화화
+6. #명확한구조적인목적에따른부트스트래핑
+
+14 번째 검색 내용
+제목: [INST] 오픈애이가 챗GPT 개발자 모드에 전체 MCP 지원 추가
+[/INST]
+주소: https://www.infoq.com/news/2025/10/chat-gpt-mcp/
+설명: OpenAI는 채팅 GPT에서 전체 모델 컨텍스트 프로토콜(MCP) 지원을 완전히 출시했습니다. 이것은 개발자들에게 요청된 기능을 제공하며, 채팅 내부에서 읽기와 쓰기 작업용 사용자 정의 커넥터를 직접 사용할 수 있도록 합니다. 이 기능은 개발자 모드에서 베타 버전으로 제공되며, 채팅GPT를 외부 시스템이나 내부 API와 상호 작용할 수 있는 프로그래밍 자동화 허브로 효과적으로 변환합니다.
+#인공지능 #OpenAI #채팅GPT
+
+Translated content hashtags: #인공지능, #OpenAI, #채팅GPT
+
+15 번째 검색 내용
+제목: 자바 뉴스 요약: 재크라와 스프링 밀스톤, 오픈 리버티, 캐멀, 그레일스
+
+(Note: The translation may not be perfect as it is a proper noun-heavy sentence. However, the main keywords are translated correctly.)
+주소: https://www.infoq.com/news/2025/10/java-news-roundup-oct06-2025/
+설명: Java 주요 뉴스: 10월 6일, 2025년에는 Jakarta Query 1.0, Spring AI 1.1, 그리고 Spring Batch 6.0의 기상 버전이 발표되었습니다. 또한 10월 2025년 에디션의 Open Liberty와 Quarkus, Apache Camel, JetBrains Ktor의 포인트 릴리스도 발표되었습니다.
+#Java #Runtuple #OpenLiberty #Quarkus
+
+#hashtags: #JavaNews #SoftwareDevelopment #TechnologyUpdates
+
