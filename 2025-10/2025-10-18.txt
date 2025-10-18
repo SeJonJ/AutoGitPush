@@ -1,0 +1,154 @@
+1 번째 검색 내용
+제목: 타로스 리눅스: Kubernetes 운영에 대한 무변경성과 보안 가져오기
+
+(Note: The translation may not be perfect as it is a machine translation. Please review and make necessary adjustments if needed.)
+주소: https://www.infoq.com/news/2025/10/talos-linux-kubernetes/
+설명: Sidero Labs는 Talos Linux, Kubernetes를 실행하기 위해 독점적으로 개발된 변경 불가능한 운영 체제와 Omni, 클러스터 라이프사이클 관리 플랫폼을 함께 개발하고 있습니다. InfoQ는 Sidero 팀과 네덜란드 아메스테븐트에서 TalosCon 2025에서 대화를 나누어 그들이 Kubernetes 운영을 간소화하고 보안 우선 설계를 통해 단순화하는 접근 방식에 대해 논의했습니다.
+#SideroLabs #TalosLinux #Kubernetes #보안 #간소화
+#InfoQ #TalosCon2025 #클러스터라이프사이클관리플랫폼 #운영체제
+
+2 번째 검색 내용
+제목: 슬랙 보안: 새로운 이상 이벤트 응답 아키텍처 내부에서
+
+(Note: The Korean translation may not be a direct word-for-word translation, but it conveys the meaning of the original sentence.)
+주소: https://www.infoq.com/news/2025/10/slack-aer-security-system/
+설명: Slack는 실시간 보안 시스템인 Anomaly Event Response(AER)를 출시했습니다. 이 시스템은 의심스러운 활동을 자동으로 탐지하고, 위험한 세션을 종료하며, 응답 시간을 일부터 분까지 줄입니다. 이 시스템의 아키텍처는 탐지 엔진, 결정 프레임워크, 및 응답 오리스테이터를 포함하여 조직들이 효율적으로 해킹을 방지할 수 있도록 합니다.
+#Slack #AnomalyEventResponse #보안시스템
+
+Hashtags: #Slack #AnomalyEventResponse #보안시스템
+
+3 번째 검색 내용
+제목: 픽싱놕핑: 사이드 채널 취약점으로 안드로이드 앱이 민감한 화면 데이터를 캡처할 수 있습니다.
+주소: https://www.infoq.com/news/2025/10/pixnapping-android-attack/
+설명: 인공지능은 세계를 변화시키고 있습니다. 이것은 의료, 금융, 교통과 같은 다양한 분야에 응용되고 있습니다.
+#인공지능 #의료 #금융 #교통
+
+새로 발견된 공격 클래스는 Android 기기를 대상으로 하며, 악성 앱이 다른 앱의 화면 정보를 훔치는 데 사용되는 기술인 픽셀 스테틴거에 의해 실행됩니다. 이 공격은 "픽스냅핑"이라고 불리며, 이미 알려진 사이드 채널 취약성을 활용하여 가상 모든 앱에 영향을 주고 있으며, 시그널, 곤윙 인증자, 벤모와 같은 다양한 앱에도 적용됩니다.
+#픽스냅핑 #안드로이드 #앱보안
+#안드로이드 #앱보안 #사이드채널취약성
+
+4 번째 검색 내용
+제목: .NET 10 리믹스 캔디드이터 2: SDK 완료, MAUI 안정화, MSBuild 향상 전 공개 전에 마무리
+
+(원문 참조)
+주소: https://www.infoq.com/news/2025/10/dotnet-10-rc-2-release/
+설명: Microsoft는 .NET 10 Release Candidate 2를 발표했습니다. 이것은 공식 출시 전에 생산 배포를 허용하면서 개발자들이 플랫폼을 검증할 수 있는 프리-리즈 빌드입니다. RC2는 Visual Studio 2026 Insiders와 Visual Studio Code에서 C# Dev Kit으로 지원됩니다.
+#.NET #VisualStudio #CSharp
+
+Hashtags: #.NET, #VisualStudio, #CSharp
+
+5 번째 검색 내용
+제목: DevGreenOps: 지속가능한 디지털 서비스 설계 방법
+
+(Note: The translation may not be perfect as it is a proper noun and specific term. However, this should give you an idea of how the sentence would be translated into Korean.)
+주소: https://www.infoq.com/news/2025/10/sustainable-digital-services/
+설명: DevGreenOps, 또는 DevSusOps라고도 알려져 있습니다. 이것은 DevOps 접근 방식의 확장입니다. 환경 지속성 고려 사항을 모든 DevOps 사이클의 단계에 통합하여, Jochen Joswig는 OOP Conference에서 그 말했습니다. 투명성, 최소화, 효율성, 및 인식을 적용함으로써, 우리는 지속 가능한 디지털 서비스를 설계할 수 있습니다.
+#DevGreenOps #DevSusOps #지속가능한디지털서비스
+
+Hashtags: #DevGreenOps, #DevSusOps, #지속가능한디지털서비스
+
+6 번째 검색 내용
+제목: AWS는 Amazon Quick Suite, 에이전트릭 AI 워크스페이스를 출시합니다.
+주소: https://www.infoq.com/news/2025/10/aws-quick-suite/
+설명: AWS는 Amazon Quick Suite, 기업 데이터를 연결하고 작업 플로우를 자동화하며 비즈니스 애플리케이션에서 작업을 수행할 수 있는 AI 기반의 새로운 워크스페이스를 출시했습니다.
+#AWS #AmazonQuickSuite #AI #비즈니스_애플리케이션
+
+Translated sentence: AWS has launched Amazon Quick Suite, a new AI-powered workspace designed to connect company data, automate workflows, and perform actions across business applications.
+Hashtags: #AWS #AmazonQuickSuite #AI #비즈니스_애플리케이션
+
+7 번째 검색 내용
+제목: IBM 클라우드 코드 엔진 서버리스 풀트 GPU를 사용하여 고성능 AI와 병렬 컴퓨팅을 위한 서버리스 풀트
+
+(Note: The translation may not be perfect as some terms might not have direct equivalents in Korean. However, it conveys the meaning of the original sentence.)
+주소: https://www.infoq.com/news/2025/10/ibm-cloud-code-engine-serverless/
+설명: IBM Cloud Code Engine의 새로운 Serverless Fleets는 기업이 컴퓨팅 집중 작업을 어떻게 처리할지 변화시키고 있습니다. 통합 GPU 지원을 활용하여 대규모 워크로드의 실행을 간소화하며, 완전히 관리되고 사용량에 따라 요금 제기 모델을 제공합니다. 이 효율적인 플랫폼은 운영 복잡성을 제거하고 개발자가 혁신에 집중할 수 있도록 합니다, 동시에 비용 효과적이고 확장성이 있습니다.
+#IBMCloudCodeEngine #ServerlessFleets #GPU지원 #효율적인플랫폼
+
+#hashtags: #AI #MachineLearning #BigData
+
+8 번째 검색 내용
+제목: 
+주소: https://www.infoq.com/news/2025/10/rteb-benchmark/
+설명: AI : Hugging Face는 실제 상황에서의 검색 정확도를 평가하기 위한 새로운 프레임워크인 Retrieval Embedding Benchmark(RTEB)를 공개했습니다. 공개 및 사설 데이터셋을 결합함으로써 RTEB는 "일반화 간격"을 줄여, 중요 분야에서 신뢰할 수 있는 방식으로 모델이 실행됩니다. 현재 활성화되어 협력을 초대하며, RTEB은 AI 검색 평가의 커뮤니티 표준을 설정하려고 합니다.
+#RTEB #일반화_간격 #AI_검색_평가
+
+Hashtags: #RTEB, #일반화_간격, #AI_검색_평가
+
+9 번째 검색 내용
+제목: 테스트 기관의 대규모 인공지능 에이전트 채택, 리더십은 이해에 뒤떨어짐
+
+(Note: The translation may not be perfect as it is a direct translation and Korean grammar and sentence structure can differ from English.)
+주소: https://www.infoq.com/news/2025/10/agentic-ai-adoption-leadership/
+설명: 소프트웨어 테스팅 팀은 대부분 에이전트릭 AI를 사용하거나 사용할 계획을 가지고 있으며, 최근 400명의 테스팅 실행자와 엔지니어링 리더에게 조사된 결과에 따르면, 많은 리더들은 테스팅 현실에 대한 명확한 이해가 부족하다는 것을 인정합니다.
+#소프트웨어 #테스팅 #에이전트릭AI #에이전트릭AI와의 관련성
+
+Translated sentence: Nearly all software testing teams are either using or plan to use agentic AI, but many leaders admit they lack a clear grasp of testing realities, according to a recent survey of 400 testing executives and engineering leaders.
+Hashtags: #software #testing #agenticAI #agenticAAndEngineeringLeaders
+
+10 번째 검색 내용
+제목: 해시코퍼프 경고: 전통적인 비밀 스캔 도구가 뒤쳐지고 있습니다.
+주소: https://www.infoq.com/news/2025/10/hashicorp-secrets/
+설명: HashiCorp는 현대 소프트웨어 개발의 현실에 맞게 전통적인 비밀번호 스캔 도구가 뒷쳐지고 있다는 경고를 내놓았습니다. 새로운 블로그 포스트에서 회사는 post-commit 탐지와 약한 패턴 매칭이 위험한 커버리지 간격을 남겨 놓고 있다는 주장을 제시했습니다.
+#HashiCorp #비밀번호스캔도구 #소프트웨어개발
+
+#hashtags: #비밀번호보안 #현대소프트웨어 #빅데이터분석
+
+11 번째 검색 내용
+제목: 10 AI 관련 스탠다드 세션 중 눈에 띄는 세션 10개: QCon 산프란시스코 2025
+
+(Note: The translation may not be perfect as it is a direct translation without considering the context or grammar rules in Korean. However, it should convey the meaning of the original sentence.)
+주소: https://www.infoq.com/news/2025/10/qcon-sf-2025-ai-talks/
+설명: 인공지능이 소프트웨어 개발의 미래를 변화시키고 있습니다. QCon 산프란시스코 2025년(11월 17일 ~ 21일)에 참석하여 AI의 혁신적인 영향을 살펴보십시오. 프로그램 커미티 멤버로서, 실제 문제를 해결하는 트랙을 선보이고 산업 리더들과 인공지능, LLM, 엔지니어링 마음가짐에 대한 세션을 포함한 것을 기다리고 있습니다. 참석하지 않으면 놓치게 됩니다!
+#인공지능 #QConSF2025 #소프트웨어개발의미래
+
+Translated content:
+Join us at QCon San Francisco 2025 (Nov 17–21) for a three-day deep dive into the future of software development, exploring AI’s transformative impact. As a program committee member, I’m excited to showcase tracks that tackle real-world challenges, featuring industry leaders and sessions on AI, LLMs, and engineering mindsets. Don’t miss out!
+#인공지능 #QConSF2025 #소프트웨어개발의미래
+
+Hashtags:
+1. #인공지능 (AI)
+2. #QConSF2025 (QCon San Francisco 2025)
+3. #소프트웨어개발의미래 (The Future of Software Development)
+
+12 번째 검색 내용
+제목: 논문2에이전트는 과학 논문을 상호작용 가능한 AI 에이전트로 변환합니다.
+주소: https://www.infoq.com/news/2025/10/paper2agent/
+설명: Stanford's Paper2Agent framework revolutionizes research by transforming static papers into interactive AI agents that execute analyses and respond to queries. Leveraging the Model Context Protocol, it simplifies reproducibility and enhances accessibility, empowering users with dynamic, autonomous tools for deeper scientific exploration and understanding.
+#인공지능 #머신러닝 #과학연구
+
+Translated content: 스탠포드의 Paper2Agent 프레임워크는 연구를 변화시키며, 정적인 논문을 상호작용하는 AI 에이전트로 변환합니다. 모델 컨텍스트 프로토콜을 활용하여 재현성과 접근성을 간소화하고, 사용자들에게 동적인, 자율적인 도구를 제공하여 깊은 과학적 이해와 탐색을 위한 더 많은 기회를 제공합니다.
+#인공지능 #머신러닝 #과학연구
+
+13 번째 검색 내용
+제목: 제네키트 확장은 젬미니 CLI에서 프레임워크 인식 기능을 갖춘 AI 도움을 제공합니다.
+주소: https://www.infoq.com/news/2025/10/genkit-extension-gemini/
+설명: 인공지능 기반의 Genkit 확장을 Gemini CLI에 통합하는 것은 터미널에서 프레임워크 인식 지원 인공지능 도움이 직접 제공되는 혁신적인 도구입니다. Genkit 애플리케이션 개발을 향상시키기 위해 컨텍스트 인식 코드 생성, 디버깅 및 최선의 방법과 함께—모두 명령 줄에서 떠나지 않아도 됩니다. 생성형 AI 애플리케이션을 구축하는 생산성과 혁신을 발휘합니다.
+#Genkit #GeminiCLI #인공지능개발도구 #AI개발
+
+#hashtags:
+1. #GenkitExtension
+2. #FrameworkAwareAI
+3. #CommandLineProductivity
+
+14 번째 검색 내용
+제목: GitHub MCP 레지스트리는 MCP 서버를 발견하고 배포하는 중앙 허브를 제공합니다.
+주소: https://www.infoq.com/news/2025/10/github-mcp-registry/
+설명: GitHub는 최근에 Model Context Protocol(MCP) 레지스트리를 출시했습니다. 이 레지스트리는 개발자들이 AI 도구를 작업 환경 내에서 직접 찾고 사용할 수 있도록 도와주는 것으로, 현재 40여 개의 MCP 서버가 목록에 포함되어 있습니다. Microsoft, GitHub, Dynatrace, Terraform 등 다양한 기업이 운영하고 있는 MCP 서버가 포함되어 있습니다.
+#인공지능 #GitHub #MCPRegistry
+
+Translated content: GitHub has recently launched its Model Context Protocol (MCP) Registry, designed to help developers discover and use the AI tools directly from within their working environment. The registry currently lists over 40 MCP servers from Microsoft, GitHub, Dynatrace, Terraform, and many others.
+#인공지능 #GitHub #MCPRegistry
+
+Hashtags: #인공지능 #GitHub #MCPRegistry
+
+15 번째 검색 내용
+제목: [INST] 번역결과: 
+
+Seed4J 2.0는 JHipster Lite로부터 마이그레이션을 제공합니다.
+[/INST]
+주소: https://www.infoq.com/news/2025/10/seed4j-migration-jhipster/
+설명: Seed4J 2.0의 릴리즈는 JHipster Lite 1.35.0에서 이전하며, Seed4J는 "모듈화된 코드 생성기로, 개발자들이 애플리케이션을 명확하고, 구조적으로, 목적에 따라 부트스트래핑하는데 도움이 됩니다." Pascal Grimaud, Seed4J의 창시자이자 JHipster의 전 동료 리더는 이 이전에 대해 InfoQ에 대해 말했습니다.
+#Seed4J #모듈화된코드생성기 #개발자용도 #JHipster
+
+Hashtags: #Seed4J, #모듈화된코드생성기, #개발자용도, #JHipster
+
