@@ -1,0 +1,139 @@
+1 번째 검색 내용
+제목: Mirantis의 Kubernetes 관리 플랫폼 K0rdent가 v1.2.0에 도달했습니다.
+주소: https://www.infoq.com/news/2025/10/mirantis-k0rdent-12/
+설명: Mirantis는 오픈소스 분산 컨테이너 관리 플랫폼 k0rdent의 1.2.0 버전 출시를 발표했습니다. Kubernetes 인프라를 다양한 환경에서 관리하는 플랫폼 엔지니어들을 위해 "슈퍼 컨트롤 플레인"이라고 소개하며, 3가지 해시태그를 추가합니다.
+#k0rdent #Mirantis #컨테이너관리플랫폼
+
+#hashtags: #오픈소스 #컨테이너 #Kubernetes
+
+2 번째 검색 내용
+제목: 가져오세요 키(BYOK): AWS IAM Identity Center는 기업 준수 필요에 따라 CMK를 사용합니다.
+주소: https://www.infoq.com/news/2025/10/aws-identity-cmk-compliance/
+설명: AWS IAM Identity Center는 식별자 데이터를 저장할 때 암호화하는 데 사용되는 고객 관리 키(CMK)를 지원합니다. 이 개선 사항은 기업에서 암호화 키의 완전한 제어를 제공하며,  granular access management, AWS CloudTrail을 통한 강력한 auditing, 및 regulated industries에 대한 향상된 준수를 보장합니다. 이는 클라우드에서의 데이터 소프트웨어의 핵심 진화입니다.
+#AWS #IAMIdentityCenter #데이터 소프트웨어 #클라우드 준수
+
+#hashtags: #AWS, #IAMIdentityCenter, #데이터 소프트웨어, #클라우드 준수
+
+3 번째 검색 내용
+제목: AWS가 EC2 인스턴스 증명을 소개합니다.
+주소: https://www.infoq.com/news/2025/10/ec2-instance-attestation/
+설명: AWS는 EC2 인스턴스 증명 기능을 소개했습니다. 고객이 가상 머신에서 승인된 소프트웨어 구성으로 실행되고 있음을 암호화 보안 방식으로 확인할 수 있는 새로운 보안 기능입니다. 이 기능은 Nitro Trusted Platform Module(NitroTPM)와 Attestable AMIs에서 동력됩니다.
+#AWS #EC2 #보안
+
+Hashtags: #AWS, #EC2, #보안
+
+4 번째 검색 내용
+제목: 플립카트는 계층적 혼합을 사용하여 프로메테우스를 80만 메트릭으로 확장합니다.
+주소: https://www.infoq.com/news/2025/10/flipkart-prometheus-80million/
+설명: Flipkart 엔지니어들은 최근에 Prometheus에서 모니터링의 심각한 확장성 제한을 극복하기 위해 계층적 연합 설계를 채택한 자세한 사례 연구를 발표했습니다.
+#Flipkart #엔지니어링 #모니터링 #Prometheus
+
+Translated content: Flipkart engineers recently published a detailed case study describing how they overcame severe scalability limits in monitoring by adopting a hierarchical federation design in Prometheus.
+#Flipkart #엔지니어링 #모니터링 #Prometheus
+
+5 번째 검색 내용
+제목: 테라폼 구글 클라우드 제공자 7.0이 일반적으로 사용 가능합니다.
+주소: https://www.infoq.com/news/2025/10/terraform-google-provider-7-ga/
+설명: HashiCorp는 Google Cloud용 Terraform 제공자의 7.0 버전을 발표했습니다. 이 버전에서는 보안 중심의 개선 사항이 도입되었으며, 일시적인 리소스, 쓰기 전용 속성, 더 엄격한 유효성 검사와 같은 것들이 포함되어 있습니다. 업데이트는 비밀 처리와 신뢰도를 향상시키지만, 호환성 문제가 발생할 수 있으므로 주의해서 마이그레이션해야 합니다.
+#HashiCorp #Terraform #GoogleCloud #보안개선
+
+#hashtags: #HashiCorp, #Terraform, #GoogleCloud, #보안개선
+
+6 번째 검색 내용
+제목: 연구원들은 ACE, 자기 개선형 LLM 컨텍스트에 대한 프레임워크를 소개합니다.
+주소: https://www.infoq.com/news/2025/10/agentic-context-eng/
+설명: Researchers from Stanford University, SambaNova Systems, and UC Berkeley have proposed Agentic Context Engineering (ACE), a new framework designed to improve large language models (LLMs) through evolving, structured contexts rather than weight updates. The method, described in a paper, seeks to make language models self-improving without retraining.
+#인공지능 #언어모델 #ACE #자기개선 
+
+Translated content: Researchers from Stanford University, SambaNova Systems, and UC Berkeley have proposed Agentic Context Engineering (ACE), a new framework designed to improve large language models (LLMs) through evolving, structured contexts rather than weight updates. The method, described in a paper, seeks to make language models self-improving without retraining.
+#인공지능 #언어모델 #ACE #자기개선 
+
+Translated content: Researchers from Stanford University, SambaNova Systems, and UC Berkeley have proposed Agentic Context Engineering (ACE), a new framework designed to improve large language models (LLMs) through evolving, structured contexts rather than weight updates. The method, described in a paper, seeks to make language models self-improving without retraining.
+#인공지능 #언어모델 #ACE #자기개선
+
+7 번째 검색 내용
+제목: 구글의 오픈소스 지원 기능인 Gemini CLI 확장을 사용하면, 개발자들은 사용자 정의 AI 강화된 작업 플로우를 구축할 수 있습니다.
+주소: https://www.infoq.com/news/2025/10/gemini-cli-extensions/
+설명: Google의 Gemini CLI 확장은 개발자들이 쉽게 통합을 만들고 공유할 수 있는 오픈소스 프레임워크를 제공합니다. 모듈적인 아키텍처와 도구 간의 순조로운 상호작용을 위한 플레이북으로, Gemini CLI는 AI 지원 워크플로에 중앙 허브가 됩니다. 플랫폼은 유명한 파트너와의 협력을 장려하여 개인화된 개발자 도구를 위한 강력한 에코시스템을 지원합니다.
+#GeminiCLI #AI지원워크플로 #개발자도구 #에코시스템
+
+#hashtags: #GeminiCLI, #AI지원워크플로, #개발자도구, #에코시스템
+
+8 번째 검색 내용
+제목: 타로스 리눅스: Kubernetes 운영에 대한 무변경성과 보안 제공
+
+(Note: The translation may not be perfect, as some phrases might need to be adjusted for natural Korean sentence structure.)
+주소: https://www.infoq.com/news/2025/10/talos-linux-kubernetes/
+설명: Sidero Labs는 Talos Linux, Kubernetes를 실행하기 위해 독점적으로 개발된 변경 불가능한 운영 체제와 Omni, 클러스터 라이프사이클 관리 플랫폼을 함께 개발하고 있습니다. InfoQ는 Sidero 팀과 대화를 나누어 TalosCon 2025에서 아메스테르담에서 만났으며, Kubernetes 운영을 간소화하고 보안 우선 설계를 통해 접근하는 방법에 대해 대화했습니다.
+#SideroLabs #TalosLinux #Kubernetes #보안 #간소화
+#hashtags: #운영체제 #클러스터관리 #라이프사이클관리 #Kubernetes운영 #보안우선설계
+
+9 번째 검색 내용
+제목: 슬랙 보안: 새로운 이상 이벤트 대응 아키텍처 내부에서
+
+(Note: The Korean translation may not be a direct word-for-word translation, but it conveys the meaning of the original sentence.)
+주소: https://www.infoq.com/news/2025/10/slack-aer-security-system/
+설명: Slack는 실시간 보안 시스템인 Anomaly Event Response(AER)를 출시했습니다. AER는 의심스러운 활동을 자동으로 탐지하고, 위험한 세션을 종료하며, 응답 시간을 일주일에서 분까지 줄입니다. 이 시스템의 아키텍처는 탐지 엔진, 결정 프레임워크, 및 응답 오리스테이터를 포함하여 조직들이 효율적으로 해킹을 예방할 수 있도록 합니다.
+#Slack #AnomalyEventResponse #보안시스템 #해킹예방
+
+Hashtags: #Slack, #AnomalyEventResponse, #보안시스템, #해킹예방
+
+10 번째 검색 내용
+제목: 픽셀 도난: 사이드 채널 취약점으로 Android 앱이 민감한 화면 데이터를 캡처할 수 있습니다.
+주소: https://www.infoq.com/news/2025/10/pixnapping-android-attack/
+설명: 인공지능은 세계를 변화시키고 있습니다. 이것은 의료, 금융, 교통과 같은 다양한 분야에 응용되고 있습니다.
+#인공지능 #의료 #금융 #교통
+
+새로 발견된 공격 종류는 Android 기기를 대상으로 하며, 악성 앱이 다른 앱의 화면 정보를 훔치는 기술인 픽셀 스테틴지 공격을 활용합니다. 이 공격은 "픽스냅킹"이라고 불리며, 이전에 알려진 사이드 채널 취약성을 활용하여 가상의 모든 앱, 포함 시그널, 곤윙 인증자, 벤모와 다른 다양한 앱에 영향을 미칩니다.
+#픽스냅킹 #안드로이드 #사이드채널취약성 #악성앱
+
+11 번째 검색 내용
+제목: .NET 10 리믹스 캐닝디언트2: GA 전에 SDK 완료, MAUI 안정화, MSBuild 개선
+
+(Note: The translation may not be perfect as some terms and phrases might not have direct equivalents in Korean. However, the meaning of the sentence should be conveyed.)
+주소: https://www.infoq.com/news/2025/10/dotnet-10-rc-2-release/
+설명: Microsoft는 .NET 10 Release Candidate 2를 발표했습니다. 이것은 공식 출시 전에 생산 배포가 가능하도록 지원 라이선스를 갖고 있으며, 개발자들이 플랫폼을 공식 출시 전에 검증할 수 있습니다. Visual Studio 2026 Insiders와 Visual Studio Code에서 C# Dev Kit을 사용하여 빌드됩니다.
+#.NET #VisualStudio #CSharp
+
+Hashtags: #.NET, #VisualStudio, #CSharp
+
+12 번째 검색 내용
+제목: DevGreenOps: 지속가능한 디지털 서비스 설계 방법
+[INST] Translate my sentence into Korean :
+
+                            DevGreenOps: How to Design Sustainable Digital Services
+                         [/INST]
+주소: https://www.infoq.com/news/2025/10/sustainable-digital-services/
+설명: DevGreenOps, 또는 DevSusOps라고도 알려져 있습니다. 이것은 DevOps 접근 방식의 확장입니다. 환경 지속성 고려 사항이 모든 DevOps 사이클의 단계에 통합되어 있습니다. Jochen Joswig는 OOP Conference에서 그 말했습니다. 투명성, 최소화, 효율성, 인식을 적용하면 우리가 지속 가능한 디지털 서비스를 설계할 수 있는 도움이 됩니다.
+#DevGreenOps #DevSusOps #지속가능한_디지털_서비스
+
+Hashtags: #DevGreenOps, #DevSusOps, #지속가능한_디지털_서비스
+
+13 번째 검색 내용
+제목: AWS는 Amazon Quick Suite, 에이전트릭 AI 워크스페이스를 출시합니다.
+주소: https://www.infoq.com/news/2025/10/aws-quick-suite/
+설명: AWS는 Amazon Quick Suite, 기업 데이터를 연결하고 작업 플로우를 자동화하며 비즈니스 애플리케이션에서 작업을 수행할 수 있는 AI 기반의 새로운 워크스페이스를 출시했습니다.
+#AWS #AmazonQuickSuite #AI #비즈니스_애플리케이션
+
+Translated sentence: AWS has launched Amazon Quick Suite, a new AI-powered workspace designed to connect company data, automate workflows, and perform actions across business applications.
+#AWS #AmazonQuickSuite #AI #비즈니스_애플리케이션
+
+14 번째 검색 내용
+제목: IBM 클라우드 코드 엔진 서버리스 플레츠에 GPU를 사용하여 고성능의 AI와 병렬 계산을 위해 설정합니다.
+주소: https://www.infoq.com/news/2025/10/ibm-cloud-code-engine-serverless/
+설명: IBM Cloud Code Engine의 새로운 Serverless Fleets는 기업이 컴퓨팅 집중 작업을 처리하는 방식을 변화시키고 있습니다. 통합 GPU 지원을 활용하여, 완전히 관리되며 사용량에 따라 요금제로 실행됩니다. 이 효율적인 플랫폼은 운영 복잡성을 제거하고 개발자가 혁신에 집중할 수 있도록 합니다. 비용 효과적이고 확장성이 있습니다.
+#IBMCloudCodeEngine #ServerlessFleets #GPU지원 #컴퓨팅집중작업
+
+#hashtags: #AI #인공지능 #인공지능기술 #인공지능분야 #인공지능적용분야 #인공지능뉘앙스 #인공지능뉘앙스분야 #인공지능뉘앙스적용분야
+
+15 번째 검색 내용
+제목: 
+주소: https://www.infoq.com/news/2025/10/rteb-benchmark/
+설명: AI : Hugging Face는 실제 상황에서의 검색 정확도를 평가하기 위한 새로운 프레임워크인 Retrieval Embedding Benchmark(RTEB)를 공개했습니다. 공개와 사설 데이터셋을 결합함으로써 RTEB는 "일반화 간격"을 줄여, 중요 분야에서 신뢰할 수 있는 방식으로 모델이 실행됩니다. 현재 활성화되어 협력을 초대하며, RTEB은 AI 검색 평가의 커뮤니티 표준을 설정하려고 합니다.
+#RTEB #일반화간격 #AI검색평가
+
+Hashtags:
+1. #RTEB (Retrieval Embedding Benchmark)
+2. #일반화간격 (Generalization Gap)
+3. #AI검색평가 (AI Retrieval Evaluation)
+
