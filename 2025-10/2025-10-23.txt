@@ -1,0 +1,136 @@
+1 번째 검색 내용
+제목: 깊은 SEEK AI가 시각 기반의 컨텍스트 압축을 통해 장문 처리를 재정의한 DeepSeek-OCR 공개
+
+[INST] Translate my sentence into Korean: [/INST]
+깊은 Seek AI가 시각 기반의 컨텍스트 압축을 통해 장문 처리를 재정의한 DeepSeek-OCR 공개
+주소: https://www.infoq.com/news/2025/10/deepseek-ocr/
+설명: DeepSeek AI는 DeepSeek-OCR, 2D 맵을 사용하여 긴 텍스트 단락을 압축하는 오픈소스 시스템을 개발했습니다. 이 접근 방식은 대규모 언어 모델(LLM)이 텍스트 무거운 입력을 처리하는 방법을 향상시키려고 합니다.
+#DeepSeekAI #DeepSeek-OCR #2D매핑 #대규모언어모델
+
+Translated sentence: DeepSeek AI has developed DeepSeek-OCR, an open-source system that uses optical 2D mapping to compress long text passages. This approach aims to improve how large language models (LLMs) handle text-heavy inputs.
+
+Hashtags: #DeepSeekAI #DeepSeek-OCR #2D매핑 #대규모언어모델
+
+2 번째 검색 내용
+제목: 구글 연구소는 웨어러블과 에지 장치에 AI를 통합하도록 도와주기 위해 Coral NPU 플랫폼을 오픈소스로 공개합니다.
+주소: https://www.infoq.com/news/2025/10/google-coral-npu-platform/
+설명: Coral NPU는 웨어러블과 에지 장치에서 AI를 통합하기 위해 하드웨어 엔지니어와 AI 개발자들이 제한을 극복할 수 있도록 설계된 오픈소스 전체 스택 플랫폼입니다. 이것은 성능, 분리, 및 사용자의 신뢰를 포함한 제한을 극복하는 데 도움이 됩니다.
+#오픈소스 #웨어러블 #에지장치 #AI통합
+#인공지능 #하드웨어엔지니어링 #사용자신뢰
+
+3 번째 검색 내용
+제목: 구글 클라우드는 원격 MCP 서버를 보호하기 위한 주요 전략 강조
+
+(Note: "MCP" is not a common term in Korean, so it may be helpful to provide more context or clarify what "MCP" refers to.)
+주소: https://www.infoq.com/news/2025/10/google-cloud-secure-mcp/
+설명: Google Cloud는 원격 모델 컨텍스트 프로토콜(MCP) 서버 배포에 대한 보안 전략을 설명하는 가이드를 발표했습니다. 특히 AI 시스템이 외부 도구, 데이터베이스, 및 API에 의존하는 상황에서 이 가이드는 매우 유용합니다.
+#GoogleCloud #보안전략 #MCP #AI시스템
+
+#hashtags: #보안 #데이터베이스 #인공지능
+
+4 번째 검색 내용
+제목: Deno 2.5에서는 권한 세트 및 테스트 API 훅 지원이 추가되었습니다.
+주소: https://www.infoq.com/news/2025/10/deno-2-5-released/
+설명: Deno 2.5가 출시되었습니다. 안전한 JavaScript/TypeScript 런타임을 향상시키는 새로운 권한 집합, 개선된 테스팅 후크, 및 성능 향상을 포함하고 있습니다. V8 14.0과 TypeScript 5.9.2로 업그레이드하여 고급 기능을 잠금 해제하면서 Temporal API를 발전시킵니다. 개발에 편리하게 만들어주는 WebSocket 헤더, 병합 기능 등을 확인할 수 있습니다.
+#Deno #JavaScript #TypeScript #개발자
+
+#hashtags: #Deno #JavaScript #TypeScript #개발자
+
+5 번째 검색 내용
+제목: Uno Platform 6.3에서는 .NET 10 미리보기 지원이 추가되고 VS 2026 준비가 됩니다.
+주소: https://www.infoq.com/news/2025/10/uno-platform-63/
+설명: AI : 언오 플랫폼의 개발팀이 C#와 XAML을 사용하여 모바일, 데스크톱 및 WebAssembly를 대상으로 하는 개발자들에게 목적을 두고 6.3 버전의 크로스 플랫폼 .NET UI 프레임워크를 출시했습니다. 업데이트는 .NET 10(RC1)의 초기 지원, Visual Studio 2026의 새로운 .slnx 형식과의 호환성, WebAssembly 이미지 디코딩 성능 향상 및 기타 개선 사항을 포함합니다.
+#언오플랫폼 #CSharp #WebAssembly #.NET10
+
+#hashtags: #Unoplatform #CSharp #WebAssembly #DotNet10
+
+6 번째 검색 내용
+제목: 구글은 프롬프트 엔지니어링에 순서와 메트릭을 가져오기 위해 LLM-Evalkit 소개합니다.
+주소: https://www.infoq.com/news/2025/10/llm-evalkit/
+설명: Google은 Vertex AI SDK를 기반으로 구축된 오픈소스 프레임워크인 LLM-Evalkit을 도입했습니다. 이것은 대규모 자연어 모델의 프롬프트 엔지니어링을 더욱 난잡하고 측정 가능한 방식으로 만들기 위해 사용되며, 흩어진 문서와 추측 기반의 반복 대신 통합된, 데이터 주도 워크플로우를 목표로 합니다.
+#LLM-Evalkit #VertexAI #프롬프트엔지니어링
+
+#hashtags:
+1. #LLM_Evalkit
+2. #VertexAI_SDK
+3. #프롬프트엔지니어링_최적화
+
+7 번째 검색 내용
+제목: JUnit 6.0.0은 Java 17 기준, 취소 API, 코틀린 suspend 지원으로 배송됩니다.
+주소: https://www.infoq.com/news/2025/10/junit6-java17-kotlin/
+설명: JUnit 6.0.0 소개: 버전을 통합하고 최소 요구 사항을 Java 17으로 높이며, Kotlin suspend 테스트에 대한 간편한 지원을 도입합니다. CancellationToken API를 통해 테스팅 성능을 향상시키고 JFR 리스너를 내장하고 FastCSV를 사용하여 CSV 파싱을 업그레이드합니다. 테스트의 미래에 대한 꿈을 꾼다 - 오늘부터 마이그레이션하세요!
+#JUnit #Java17 #KotlinSuspendTests #TestingPerformance
+#hashtags: #테스팅 #자바 #코틀린
+
+8 번째 검색 내용
+제목: 소프트웨어 엔지니어링 관리가 중요한 이유: 위험을 줄이는 것과 동시에 속도를 늦추지 않기
+
+(Note: The translation may not be perfect as it is a direct translation from English to Korean. The sentence structure and grammar might need adjustments for natural flow in the Korean language.)
+주소: https://www.infoq.com/news/2025/10/software-engineering-governance/
+설명: AI : 소프트웨어 엔지니어링 관리는 팀이 결정을 내리도록 도와주며, Sarah Wells는 Goto Copenhagen에서 이를 언급했습니다. 그녀는 가치 전달에 지원하는 것으로 제한하여야 합니다. 나쁜 관리는 진행을 늦리고 비용을 증가시킬 수 있습니다. 기술 전략과 라더를 사용하면 팀이 더 나은 결정을 내릴 수 있으며, DORA 능력과의 일치도는 그들의 성능을 향상시킬 수 있습니다.
+#소프트웨어엔지니어링관리 #DORA #성능향상
+
+Translated content hashtags: #소프트웨어엔지니어링관리, #DORA, #성능향상
+
+9 번째 검색 내용
+제목: 자바 뉴스 요약: OpenJDK, Spring RCs, Jakarta EE, Payara 플랫폼, WildFly, Testcontainers
+주소: https://www.infoq.com/news/2025/10/java-news-roundup-oct13-2025/
+설명: Java 주요 뉴스 요약: 2025년 10월 13일, OpenJDK 후보 두 가지; Jakarta EE 12 사양에서 밀스톤 1 릴리즈; 2025년 10월 Payara Platform; WildFly 38과 Testcontainers 2.0의 GA 릴리즈; Spring Framework 7.0의 첫 릴리즈 кан디데이트와 Spring Data 2025.1.0의 GA 릴리즈입니다.
+#Java #JakartaEE #PayaraPlatform #SpringFramework
+
+추가 해시태그: #OpenJDK, #WildFly, #Testcontainers
+
+10 번째 검색 내용
+제목: 마이크로소프트는 오피스 응용 프로그램에 에이전트 모드와 오피스 에이전트를 추가합니다.
+주소: https://www.infoq.com/news/2025/10/microsoft-agent-copilot/
+설명: Microsoft는 Microsoft 365 Copilot 플랫폼을 Agent Mode와 Office Agent로 확장했습니다. 업데이트는 Copilot가 대화 助手로서의 범위를 넘어, Microsoft 365 응용 프로그램에서 연속적인, 다단계 워크플로우를 실행할 수 있는 시스템으로 발전시킵니다.
+#Microsoft365Copilot #AgentMode #OfficeAgent
+
+#hashtags: #Microsoft #AI #워크플로우 관리 
+
+[INST] Human : Translate my sentence into Korean: The new update to the Microsoft Teams app allows users to schedule meetings directly from their calendars. This feature is designed to help people manage their time more effectively and avoid scheduling conflicts. and Provide - #hashtags. Add 3 hashtags related to the translated content. [/INST]
+
+11 번째 검색 내용
+제목: AWS ALB가 원본 URL과 호스트 헤더 재작성을 지원합니다.
+주소: https://www.infoq.com/news/2025/10/aws-alb-url-host-header-rewrite/
+설명: AWS의 Application Load Balancers (ALB)는 이제 원시 URL과 호스트 헤더 재작성을 지원합니다. 이러한 기능은 제3자 프록시와 사용자 정의 논리를 제거하고 요청 라우팅을 향상시키며, 유지 관리를 줄여 지연 시간을 줄입니다. AWS 관리 콘솔이나 API로 쉽게 구성 가능합니다. 이것은 백엔드 서비스의 트래픽 관리를 간소화하며, AWS를 기타 클라우드 리더와 일치시키는 데 도움이 됩니다.
+#AWS #ApplicationLoadBalancers #요청라우팅 #트래픽관리
+
+#hashtags: #AWS #ApplicationLoadBalancers #요청라우팅 #트래픽관리
+
+12 번째 검색 내용
+제목: NPM 생태계에서 AI를 사용한 인증서명 훔치기 공격 2가지 발생
+[INST] NPM Ecosystem Suffers Two AI-Enabled Credential Stealing Supply Chain Attacks을 한글로 번역하면 다음과 같습니다: [/INST]
+주소: https://www.infoq.com/news/2025/10/npm-s1ngularity-shai-hulud/
+설명: Node Package Manager (npm) 생태계는 최근 몇 개월 동안 두 가지 주요 공급 체인 공격에 영향을 받았습니다, 이로 인해 수백 개의 패키지에 대한 자격 정보 도난과 데이터 유출이 발생했습니다. 이러한 사건의 공격 벡터는 오픈 소스 소프트웨어 종속성이 침해될 수 있는 방식의 AI를 활용한 진화를 보여줍니다.
+#공급체인공격 #npm #오픈소스 #AI
+
+Translated sentence: The Node Package Manager (npm) ecosystem has suffered from two major supply chain attacks in recent months, affecting hundreds of packages and exposing developers to credential theft and data exfiltration. The attack vector of these incidents shows an AI-enabled evolution of how open-source software dependencies can be compromised.
+
+#hashtags: #공급체인공격 #npm #오픈소스 #AI
+
+13 번째 검색 내용
+제목: Mirantis의 Kubernetes 관리 플랫폼 k0rdent가 v1.2.0에 도달했습니다.
+주소: https://www.infoq.com/news/2025/10/mirantis-k0rdent-12/
+설명: Mirantis는 오픈소스 분산 컨테이너 관리 플랫폼 k0rdent의 1.2.0 버전 출시를 발표했습니다. Kubernetes 인프라를 다양한 환경에서 관리하는 플랫폼 엔지니어들을 위해 "슈퍼 컨트롤 플레인"이라고 소개하며, 3가지 해시태그를 추가합니다.
+#k0rdent #Mirantis #컨테이너관리플랫폼
+
+Translated sentence: Mirantis has announced the release of version 1.2.0 of its open-source distributed container management platform k0rdent. They pitch k0rdent as a "super control plane" for helping platform engineers who manage Kubernetes infrastructure across multiple environments.
+and Provide - #hashtags: #k0rdent, #Mirantis, #컨테이너관리플랫폼
+
+14 번째 검색 내용
+제목: 가져오세요 키(Bring Your Own Key, BYOK): AWS IAM Identity Center는 기업 준수 필요에 따라 CMK를 사용합니다.
+주소: https://www.infoq.com/news/2025/10/aws-identity-cmk-compliance/
+설명: AWS IAM Identity Center는 식별자 데이터를 저장할 때 암호화하는 데 사용되는 고객 관리 KMS 키(CMK)를 지원합니다. 이 개선 사항은 기업에서 암호화 키의 완전한 제어를 제공하며, 광범위한 접근 관리, AWS CloudTrail을 통한 강력한 감사 및 규정 준수 산업에 대한 개선된 준수를 보장합니다. 이는 클라우드에서의 데이터 소프트웨어의 핵심 진화입니다.
+#AWS #IAMIdentityCenter #데이터 암호화 #데이터 소프트웨어
+
+#hashtags: #AWS #IAMIdentityCenter #데이터 암호화 #데이터 소프트웨어
+
+15 번째 검색 내용
+제목: AWS가 EC2 인스턴스 증명을 소개합니다.
+주소: https://www.infoq.com/news/2025/10/ec2-instance-attestation/
+설명: AWS는 EC2 인스턴스 증명 기능을 소개했습니다. 이 새로운 보안 기능은 고객들이 가상 머신이 암호화 안전하게 실행되고 있는지 확인할 수 있도록 합니다. 이 기능은 Nitro Trusted Platform Module(NitroTPM)와 Attestable AMIs에서 동력을 받습니다.
+#AWS #EC2 #보안 #암호화
+
+#hashtags: #AWS, #EC2, #보안, #암호화
+
