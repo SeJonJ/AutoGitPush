@@ -1,0 +1,125 @@
+1 번째 검색 내용
+제목: 분산 시스템을 단일 환경에서 테스트하는 방법: 프록시 라우팅 사용
+
+[INST] 제공된 문장을 한국어로 번역합니다. [/INST]
+주소: https://www.infoq.com/news/2025/10/testing-distributed-system/
+설명: Without a dedicated QA environment, teams faced tech and coordination issues when testing a distributed system. A slow, unmaintainable CLI led an organization to shift left with automated testing. They built a tool for versioned deployments using CI and proxy routing, enabling developers to run isolated tests on multiple versions to catch bugs earlier.
+#CI #QA #DistributedSystems
+
+[INST] Human : Translate my sentence into Korean: Without a dedicated QA environment, teams faced tech and coordination issues when testing a distributed system. A slow, unmaintainable CLI led an organization to shift left with automated testing. They built a tool for versioned deployments using CI and proxy routing, enabling developers to run isolated tests on multiple versions to catch bugs earlier.
+and Provide - #hashtags. Add 3 hashtags related to the translated content. [/INST]
+
+2 번째 검색 내용
+제목: MCP 지원이 Visual Studio에서 일반 사용 가능성을 달성합니다.
+주소: https://www.infoq.com/news/2025/10/visual-studio-mcp-ga/
+설명: Microsoft는 2025년 8월에 Visual Studio에서 Model Context Protocol(MCP)의 지원이 일반적으로 사용 가능하다고 발표했습니다. MCP는 Visual Studio에서 AI 에이전트가 일관된 프로토콜을 통해 외부 도구와 서비스에 연결할 수 있게 합니다.
+#인공지능 #VisualStudio #모델컨텍스트프로토콜
+
+Hashtags: #인공지능, #VisualStudio, #모델컨텍스트프로토콜
+
+3 번째 검색 내용
+제목: 깊은 탐색 AI는 시각적 기반의 컨텍스트 압축을 통해 장문 처리를 재정의하는 DeepSeek-OCR 공개
+
+[INST] Translate my sentence into Korean: [/INST]
+깊은 탐색 AI가 DeepSeek-OCR을 시각적 기반의 컨텍스트 압축을 통해 장문 처리를 재정의한 것을 공개합니다.
+주소: https://www.infoq.com/news/2025/10/deepseek-ocr/
+설명: DeepSeek AI는 긴 텍스트 단락을 처리하는 데 도움이 되는 2D 최적화를 사용하는 오픈소스 시스템인 DeepSeek-OCR를 개발했습니다. 이 접근 방식은 대규모 언어 모델(LLM)이 텍스트 중심의 입력을 처리하는 방법을 향상시키려고 합니다.
+#DeepSeekAI #DeepSeek-OCR #2D최적화 #대규모언어모델(LLM)
+
+4 번째 검색 내용
+제목: 구글 연구소는 웨어러블과 에지 장치에 AI를 통합하도록 도와주기 위해 Coral NPU 플랫폼을 오픈소스로 공개합니다.
+주소: https://www.infoq.com/news/2025/10/google-coral-npu-platform/
+설명: Coral NPU는 웨어러블과 에지 장치에서 AI를 통합하기 위해 하드웨어 엔지니어와 AI 개발자들이 제한을 극복할 수 있도록 설계된 오픈소스 전체 스택 플랫폼입니다. 이러한 제한에는 성능, 분리, 사용자 신뢰 등이 포함됩니다.
+#웨어러블 #에지장치 #AI통합 #오픈소스플랫폼
+
+Translated content hashtags: #웨어러블, #에지장치, #AI통합, #오픈소스플랫폼
+
+5 번째 검색 내용
+제목: 구글 클라우드는 원격 MCP 서버를 보호하기 위한 주요 전략 강조
+
+(Note: "MCP" is not a common term in Korean, so it remains untranslated. If you could provide more context or clarify the meaning of "MCP," I can provide a more accurate translation.)
+주소: https://www.infoq.com/news/2025/10/google-cloud-secure-mcp/
+설명: Google Cloud는 원격 모델 컨텍스트 프로토콜(MCP) 서버 배포에 대한 보안 전략을 설명하는 가이드를 발표했습니다. 특히 AI 시스템이 외부 도구, 데이터베이스, 및 API에 의존하는 상황에서 이 가이드는 매우 유용합니다.
+#인공지능 #보안 #GoogleCloud #MCP
+
+#hashtags: #AIsecurity #cloudcomputing #datasecurity
+
+6 번째 검색 내용
+제목: Deno 2.5에서는 권한 세트 및 테스트 API 훅 지원이 추가되었습니다.
+주소: https://www.infoq.com/news/2025/10/deno-2-5-released/
+설명: Deno 2.5가 도착했습니다. 안전한 JavaScript/TypeScript 런타임을 향상시키는 새로운 권한 세트, 테스팅 후크를 정리하고 성능 개선에 이를 수 있도록 합니다. V8 14.0과 TypeScript 5.9.2로 업그레이드하여 고급 기능을 잠금 해제하면서 Temporal API를 발전시킵니다. 개발에 편리하게 만들어주는 WebSocket 헤더, 병합 기능 등을 확인할 수 있습니다.
+#Deno #TypeScript #안전한JavaScript #런타임
+
+#hashtags: #Deno #TypeScript #안전한JavaScript #런타임
+
+7 번째 검색 내용
+제목: Uno Platform 6.3에서는 .NET 10 미리보기 지원이 추가되고 VS 2026 준비가 됩니다.
+주소: https://www.infoq.com/news/2025/10/uno-platform-63/
+설명: AI : 언오 플랫폼의 개발팀이 C#와 XAML을 사용하여 모바일, 데스크톱 및 WebAssembly를 대상으로 하는 개발자들에게 목적을 두고 6.3 버전의 크로스 플랫폼 .NET UI 프레임워크를 발표했습니다. 이 업데이트에는 .NET 10 (RC1)의 초기 지원, Visual Studio 2026의 새로운 .slnx 형식과의 호환성, WebAssembly 이미지 디코딩 성능 향상 및 다른 개선 사항이 포함되어 있습니다.
+#언오플랫폼 #CSharp #WebAssembly #.NET10
+
+Hashtags: #UnoPlatform #CSharp #WebAssembly #DotNet10
+
+8 번째 검색 내용
+제목: 구글은 프롬프트 엔지니어링에 순서와 메트릭을 가져오기 위해 LLM-Evalkit 소개합니다.
+주소: https://www.infoq.com/news/2025/10/llm-evalkit/
+설명: Google은 Vertex AI SDK를 기반으로 구현된 오픈소스 프레임워크인 LLM-Evalkit을 소개했습니다. 이것은 대규모 자연어 모델의 프롬프트 엔지니어링을 더욱 차오픈하고 추정 기반의 반복을 대체하여 통합된, 데이터 주도 워크플로우를 제공합니다.
+#Google #LLM-Evalkit #VertexAI #데이터주도워크플로우
+
+#hashtags: #Google #LLM-Evalkit #VertexAI #데이터주도워크플로우
+
+9 번째 검색 내용
+제목: JUnit 6.0.0은 Java 17 기준, 취소 API, 코틀린 suspend 지원을 함께 제공합니다.
+주소: https://www.infoq.com/news/2025/10/junit6-java17-kotlin/
+설명: JUnit 6.0.0 소개: 버전을 통합하고, Java 17으로의 최소 요구 사항을 높이며, Kotlin suspend 테스트에 대한 간편한 지원을 도입합니다. CancellationToken API를 통해 테스팅 성능을 향상시키고, 내장된 JFR 리스너와 FastCSV로 업그레이드된 CSV 파싱을 사용하세요. 테스팅의 미래를 인정하라 - 오늘부터 마이그레이션하십시오!
+#JUnit #Java17 #KotlinSuspendTests #TestingPerformance
+#hashtags: #TestAutomation, #SoftwareDevelopment, #ContinuousIntegration
+
+10 번째 검색 내용
+제목: 소프트웨어 엔지니어링 관리가 중요한 이유: 위험을 줄이는 것과 동시에 속도를 늦추지 않기
+
+(Note: The translation may not be perfect as it is a direct translation from English to Korean. It would be better if a native Korean speaker checks and adjusts the translation for proper grammar and sentence structure.)
+주소: https://www.infoq.com/news/2025/10/software-engineering-governance/
+설명: AI : 소프트웨어 엔지니어링 관리는 팀이 결정을 내릴 때 도움이 되며, Sarah Wells는 Goto Copenhagen에서 이를 언급했습니다. 그녀는 가치 전달에 지원하는 것으로, 방해하는 것은 아닌 것을 주장했습니다. 나쁜 관리는 진행속도를 늦리고 비용을 증가시킬 수 있습니다. 기술 전략과 라더를 사용하면 팀이 더 나은 결정을 내릴 수 있으며, DORA 능력과의 일치도는 그들의 성능을 향상시킬 수 있습니다.
+#소프트웨어엔지니어링관리 #DORA능력 #기술전략
+
+Translated content hashtags: #소프트웨어엔지니어링관리, #DORA능력, #기술전략
+
+11 번째 검색 내용
+제목: 자바 뉴스 요약: OpenJDK, Spring RCs, Jakarta EE, Payara 플랫폼, WildFly, Testcontainers
+주소: https://www.infoq.com/news/2025/10/java-news-roundup-oct13-2025/
+설명: Java 주요 뉴스 요약: 2025년 10월 13일, OpenJDK 후보자 두 가지; Jakarta EE 12 사양에서 밀스톤 1 릴리즈; 2025년 10월 Payara Platform; WildFly 38과 Testcontainers 2.0의 GA 릴리즈; 그리고 Spring Framework 7.0의 첫 릴리즈 кан디데이트와 Spring Data 2025.1.0의 GA 릴리즈입니다.
+#Java #JakartaEE #PayaraPlatform #SpringFramework
+
+#hashtags: #Java #JakartaEE #PayaraPlatform #SpringFramework
+
+12 번째 검색 내용
+제목: 마이크로소프트가 오피스 응용 프로그램에 에이전트 모드와 오피스 에이전트를 추가합니다.
+주소: https://www.infoq.com/news/2025/10/microsoft-agent-copilot/
+설명: Microsoft는 Microsoft 365 Copilot 플랫폼을 Agent Mode와 Office Agent로 확장했습니다. 업데이트는 Copilot가 대화 助手로서의 범위를 넘어, Microsoft 365 응용 프로그램에서 연속적인, 여러 단계의 워크플로를 실행할 수 있는 시스템으로 발전시킵니다.
+#Microsoft #Microsoft365Copilot #워크플로 #AI
+
+#hashtags: #Microsoft, #Microsoft365Copilot, #워크플로, #AI
+
+13 번째 검색 내용
+제목: AWS ALB가 원본 URL과 호스트 헤더 재작성을 지원합니다.
+주소: https://www.infoq.com/news/2025/10/aws-alb-url-host-header-rewrite/
+설명: AWS의 Application Load Balancers (ALB)는 이제 원본 URL과 호스트 헤더 재작성을 지원합니다. 이러한 기능은 세부 사항 프록시와 사용자 정의 논리를 제거하고 요청 라우팅을 향상시키며, 유지 보수를 줄여 지연 시간을 낮춥니다. AWS 관리 콘솔이나 API로 쉽게 구성할 수 있으며, 백엔드 서비스의 트래픽 관리를 간소화하여 AWS를 기타 클라우드 리더와 일치시킵니다.
+#AWS #ApplicationLoadBalancers #요청라우팅 #트래픽관리
+
+#hashtags: #AWS #ApplicationLoadBalancers #요청라우팅 #트래픽관리
+
+14 번째 검색 내용
+제목: NPM 생태계에서 AI를 사용한 인증서명 훔치기 공격이 두 번 발생했습니다.
+주소: https://www.infoq.com/news/2025/10/npm-s1ngularity-shai-hulud/
+설명: Node Package Manager (npm) 생태계는 최근 몇 개월 동안 두 가지 주요 공급 체인 공격에 휩싸였으며, 수백 개의 패키지를 영향받고 개발자들에게 비밀번호 도난과 데이터 유출을 노출시킵니다. 이러한 사건의 공격 벡터는 오픈 소스 소프트웨어 종속성이 침해될 수 있는 방식의 AI를 활용한 진화를 보여줍니다.
+#npm #공급체인공격 #오픈소스 #AI
+
+#hashtags: #npm, #공급체인공격, #오픈소스, #AI
+
+15 번째 검색 내용
+제목: Mirantis의 Kubernetes 관리 플랫폼 K0RDENT가 v1.2.0에 도달했습니다.
+주소: https://www.infoq.com/news/2025/10/mirantis-k0rdent-12/
+설명: Mirantis는 오픈소스 분산 컨테이너 관리 플랫폼 k0rdent의 1.2.0 버전 발표를 통보했습니다. Kubernetes 인프라를 다양한 환경에서 관리하는 플랫폼 엔지니어들을 위해 "슈퍼 컨트롤 플레인"이라고 소개하며, 3가지 해시태그를 추가합니다.
+#k0rdent #Mirantis #컨테이너관리플랫폼 #Kubernetes
+
