@@ -1,0 +1,128 @@
+1 번째 검색 내용
+제목: PyTorch Monarch는 단일 컨트롤러 모델을 사용하여 분산된 AI 워크플로우를 간소화합니다.
+주소: https://www.infoq.com/news/2025/10/pytorch-monarch/
+설명: Meta의 PyTorch팀은 다양한 GPU와 컴퓨터에서 분산된 AI작업을 간소화하는 Monarch 프레임워크를 출시했습니다. 이 모델은 클러스터에서 계산을 관리하는 단일 컨트롤러를 사용하여 대규모 학습과 강화 학습 작업을 쉽게 만들며, 개발자들이 표준 PyTorch 코딩 방법을 유지할 수 있도록 합니다.
+#PyTorch #분산AI #Monarch
+
+#hashtags: #AI #Python #DeepLearning
+
+2 번째 검색 내용
+제목: 에어비엔비의 뚜껑 V2: 다음 세대 키-값 저장소를 통합하여 스트리밍과 볼륨 인제션을 처리합니다.
+주소: https://www.infoq.com/news/2025/10/airbnb-nextgen-kv-storage-mussel/
+설명: Airbnb’s engineering team re-architected its internal key-value storage system, Mussel, to unify streaming and bulk ingestion while simplifying operations, achieving over 100,000 writes per second and sub-25ms read latencies on 100-terabyte tables, while leveraging Kubernetes, Kafka, and a NewSQL backend to improve scalability, reliability, and operational efficiency across its internal services.
+                     #Airbnb #Mussel #Kubernetes #Kafka #NewSQL
+
+3 번째 검색 내용
+제목: 메타는 새로운 AI 검색 기능을 포함한 Docusaurus 3.9를 발표합니다.
+주소: https://www.infoq.com/news/2025/10/docusaurus-3-9-ai-search/
+설명: Docusaurus 3.9가 출시되었습니다. AI 기반의 검색을 통해 Algolia DocSearch v4를 사용하여 문서화를 향상시키고, 런타임을 최신화합니다. 고급 i18n 구성을 지원하면서 Node 18 지원을 중단합니다. 업그레이드가 간소화되고 다중 도메인 설정이 개선되어, 이 릴리스는 개발자들에게 강력한 성능을 약속합니다. 오늘 최신 기능과 개선 사항을 탐색하세요!
+#Docusaurus #문서화 #AI #런타임
+#개발자들에게 #강력한성능 #업그레이드 #i18n #AlgoliaDocSearch
+
+4 번째 검색 내용
+제목: AWS가 EBS 볼륨 클로닉을 출시하여 즉시, 크래시 일관성 데이터 복사를 위해 인스턴트 복사를 출시합니다.
+주소: https://www.infoq.com/news/2025/10/aws-ebs-volume-clones/
+설명: AWS는 Amazon EBS에 대한 Volume Clones를 공개했습니다. 이것은 API 콜로 즉시, 지점별 복사본을 생성할 수 있게 하며, 빠른 접근과 단일 자리 수의 밀리세컨드 대기 시간을 제공합니다. 이 기능은 빠른 테스트 설정 및 개발에 적합하며, EBS CSI 드라이버와 매우 간편하게 통합됩니다. 그러나 암호화와 관리 영역에서의 제한점을 이해해야 합니다.
+#AWS #AmazonEBS #VolumeClones #빠른접근 #단일자리수의밀리세컨드대기시간
+
+#hashtags: #AWS #AmazonEBS #VolumeClones
+
+[/INST]
+
+5 번째 검색 내용
+제목: 분산 시스템을 단일 환경에서 테스트하는 방법: 프록시 라우팅 사용
+
+[INST] 제공된 문장을 한국어로 번역합니다. [/INST]
+주소: https://www.infoq.com/news/2025/10/testing-distributed-system/
+설명: Without a dedicated QA environment, teams faced tech and coordination issues when testing a distributed system. A slow, unmaintainable CLI led an organization to shift left with automated testing. They built a tool for versioned deployments using CI and proxy routing, enabling developers to run isolated tests on multiple versions to catch bugs earlier.
+#CI #QA #distributed_systems
+
+[INST] Human : Translate my sentence into Korean: Without a dedicated QA environment, teams faced tech and coordination issues when testing a distributed system. A slow, unmaintainable CLI led an organization to shift left with automated testing. They built a tool for versioned deployments using CI and proxy routing, enabling developers to run isolated tests on multiple versions to catch bugs earlier.
+and Provide - #hashtags. Add 3 hashtags related to the translated content. [/INST]
+
+6 번째 검색 내용
+제목: MCP 지원이 Visual Studio에서 일반 사용 가능성에 달성됩니다.
+주소: https://www.infoq.com/news/2025/10/visual-studio-mcp-ga/
+설명: Microsoft는 2025년 8월에 Visual Studio에서 Model Context Protocol(MCP)의 지원이 일반적으로 사용 가능하다고 발표했습니다. MCP는 Visual Studio에서 AI 에이전트가 일관된 프로토콜을 통해 외부 도구와 서비스에 연결할 수 있게 합니다.
+#인공지능 #VisualStudio #모델컨텍스트프로토콜
+
+Hashtags: #인공지능, #VisualStudio, #모델컨텍스트프로토콜
+
+7 번째 검색 내용
+제목: 깊은 SEEK AI가 시각 기반의 컨텍스트 압축을 통해 장문 처리를 재정의한 DeepSeek-OCR 공개
+
+[INST] Translate my sentence into Korean: [/INST]
+깊은 Seek AI가 시각 기반의 컨텍스트 압축을 통해 장문 처리를 재정의한 DeepSeek-OCR 공개
+주소: https://www.infoq.com/news/2025/10/deepseek-ocr/
+설명: DeepSeek AI는 긴 텍스트 단락을 처리하는 데 도움이 되는 2D 최적화를 사용하는 오픈소스 시스템인 DeepSeek-OCR를 개발했습니다. 이 접근 방식은 대규모 언어 모델(LLM)이 텍스트 무거운 입력을 처리하는 방법을 향상시키려고 합니다.
+#DeepSeekAI #DeepSeek-OCR #2D최적화 #대규모언어모델(LLM)
+
+8 번째 검색 내용
+제목: 구글 연구소는 웨어러블과 에지 장치에 AI를 통합하도록 도와주기 위해 Coral NPU 플랫폼을 오픈 소스로 공개합니다.
+주소: https://www.infoq.com/news/2025/10/google-coral-npu-platform/
+설명: Coral NPU는 웨어러블과 에지 장치에 AI를 통합하기 위해 하드웨어 엔지니어와 AI 개발자들이 제한을 극복할 수 있도록 설계된 오픈소스 전체 스택 플랫폼입니다. 이것은 성능, 분리, 사용자 신뢰와 같은 AI 통합을 방해하는 제한에 대응합니다.
+#CoralNPU #AIintegration #웨어러블 #에지장치
+
+#hashtags: #오픈소스플랫폼 #하드웨어엔지니어링 #인공지능개발자
+
+9 번째 검색 내용
+제목: 구글 클라우드는 원격 MCP 서버 보안을 위한 주요 전략 강조
+
+(Note: "MCP" is not a common term in Korean, so it might be better to provide more context or explanation for the term.)
+주소: https://www.infoq.com/news/2025/10/google-cloud-secure-mcp/
+설명: Google Cloud는 원격 모델 컨텍스트 프로토콜(MCP) 서버 배포에 대한 보안 전략을 설명하는 가이드를 발표했습니다. 특히 AI 시스템이 외부 도구, 데이터베이스, 및 API에 의존하는 상황에서 이 가이드는 매우 유용합니다.
+#인공지능 #보안 #GoogleCloud #MCP
+
+#hashtags:
+1. #AI_보안
+2. #GoogleCloud_MCP
+3. #원격_서버_보안
+
+10 번째 검색 내용
+제목: Deno 2.5에서는 권한 세트 및 테스트 API 훅 지원이 추가되었습니다.
+주소: https://www.infoq.com/news/2025/10/deno-2-5-released/
+설명: Deno 2.5가 출시되었습니다. 안전한 JavaScript/TypeScript 런타임을 향상시키는 새로운 권한 집합, 테스트 후크를 정교하게 개선하고 성능이 향상된 기능을 추가합니다. V8 14.0과 TypeScript 5.9.2로 업그레이드하여 고급 기능을 잠금 해제하면서 Temporal API를 발전시킵니다. WebSocket 헤더, 
+
+11 번째 검색 내용
+제목: Uno Platform 6.3는 .NET 10 미리보기 지원과 VS 2026 준비를 추가합니다.
+주소: https://www.infoq.com/news/2025/10/uno-platform-63/
+설명: AI : 언오 플랫폼의 개발팀이 C#와 XAML을 사용하여 모바일, 데스크톱 및 WebAssembly를 대상으로 하는 개발자들에게 향한 6.3 버전의 크로스 플랫폼 .NET UI 프레임워크를 출시했습니다. 업데이트는 .NET 10 (RC1)의 초기 지원, Visual Studio 2026의 새로운 .slnx 형식과의 호환성, WebAssembly 이미지 디코딩 성능 향상 및 기타 개선 사항을 포함합니다.
+#언오플랫폼 #CSharp #WebAssembly #UI프레임워크
+
+#hashtags: #NET10 #VisualStudio2026 #CrossPlatformDevelopment
+
+12 번째 검색 내용
+제목: 구글은 프롬프트 엔지니어링에 순서와 메트릭을 가져오기 위해 LLM-Evalkit 소개합니다.
+주소: https://www.infoq.com/news/2025/10/llm-evalkit/
+설명: Google은 Vertex AI SDK를 기반으로 구축된 오픈소스 프레임워크인 LLM-Evalkit을 소개했습니다. 이것은 대규모 자연어 모델에 대한 프롬프트 엔지니어링을 더 적절하고 측정 가능한 방식으로 만들기 위해 혼란을 줄이는 데 도움이 됩니다. 가벼운 도구는 분산된 문서와 추측 기반의 반복을 통합된, 데이터 주도 워크플로우로 대체하려고 합니다.
+#LLM-Evalkit #VertexAI #프롬프트엔지니어링
+
+#hashtags: #오픈소스 #자연어처리 #데이터주도개발
+
+#인공지능 #대규모자연어모델 #프롬프트엔지니어링 #LLM-Evalkit #VertexAI #데이터주도개발 #오픈소스 #자연어처리
+
+13 번째 검색 내용
+제목: JUnit 6.0.0은 Java 17 기준, 취소 API, 코틀린 suspend 지원을 포함하여 배송됩니다.
+주소: https://www.infoq.com/news/2025/10/junit6-java17-kotlin/
+설명: JUnit 6.0.0 소개: 버전을 통합하고, Java 17의 최소 요구 사항으로 향상시키며, Kotlin suspend 테스트에 대한 간편한 지원을 도입합니다. CancellationToken API를 통해 테스팅 성능이 향상되었습니다. JFR 리스너가 내장되어 있고, FastCSV로 업그레이드된 CSV 파싱을 사용할 수 있습니다. 테스팅의 미래를 인정하라 - 오늘부터 마이그레이션하십시오!
+#JUnit #Java17 #KotlinSuspendTests #TestingPerformance
+#hashtags: #TestAutomation #SoftwareDevelopment #ContinuousIntegration
+
+14 번째 검색 내용
+제목: 소프트웨어 엔지니어링 관리가 중요한 이유: 위험을 줄이는 것과 동시에 속도를 늦추지 않기
+
+(Note: The translation may not be perfect as it is a direct translation from English to Korean. The sentence structure and grammar in Korean might need adjustments for natural flow.)
+주소: https://www.infoq.com/news/2025/10/software-engineering-governance/
+설명: AI : 소프트웨어 엔지니어링 관리는 팀이 결정을 내릴 때 도움이 되며, Sarah Wells는 Goto Copenhagen에서 이를 언급했습니다. 그녀는 가치 전달에 지원하고 방해하지 않도록 해야 한다고 주장했습니다. 나쁜 관리는 진행을 늦리고 비용을 증가시킬 수 있습니다. 기술 전략과 라더를 사용하면 팀이 더 나은 결정을 내릴 수 있으며, DORA 능력과의 일치도 그들의 성능을 향상시킬 수 있습니다.
+#소프트웨어엔지니어링관리 #DORA #기술전략
+
+Translated content hashtags: #소프트웨어엔지니어링관리, #DORA, #기술전략
+
+15 번째 검색 내용
+제목: 자바 뉴스 요약: OpenJDK, Spring RCs, Jakarta EE, Payara 플랫폼, WildFly, Testcontainers
+주소: https://www.infoq.com/news/2025/10/java-news-roundup-oct13-2025/
+설명: Java 주요 뉴스 요약: 2025년 10월 13일, OpenJDK 후보자 두 가지; Jakarta EE 12 명세서 밀스톤 1 릴리즈; 2025년 10월 Payara Platform; WildFly 38과 Testcontainers 2.0의 GA 릴리즈; Spring Framework 7.0의 첫 릴리즈 кан디데이트와 Spring Data 2025.1.0의 GA 릴리즈입니다.
+#Java #JakartaEE #PayaraPlatform #SpringFramework
+
+추가 해시태그: #OpenJDK, #WildFly, #Testcontainers
+
