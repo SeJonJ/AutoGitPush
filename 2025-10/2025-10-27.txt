@@ -1,0 +1,153 @@
+1 번째 검색 내용
+제목: 구글 클라우드 KMS가 "수확하고 후에 복호화" 위협을 대응하기 위해 Post-Quantum KEM 지원 시작
+
+(Note: The translation may not be perfect as it involves technical terms. Please review the translation for accuracy.)
+주소: https://www.infoq.com/news/2025/10/cloud-kms-post-quantum-kem/
+설명: Google Cloud의 Key Management Service는 현재 양자컴퓨팅으로부터 미래에 위협을 받는 양자 키 암호화 메커니즘(KEMs)을 지원합니다. 이 업데이트는 기관이 "수집하고 나서, 복호화하려면 후에" 공격에 대비할 수 있도록 장기적인 데이터 비밀성을 보장합니다.
+#양자컴퓨팅 #키관리서비스 #장기적인데이터비밀성
+
+#hashtags: #양자컴퓨팅, #키관리서비스, #장기적인데이터비밀성
+
+2 번째 검색 내용
+제목: 인간적 기술 소개: 사용자 정의 Claude 작업에 대한 스킬 소개
+[INST] Translate my sentence into Korean :
+
+                            Anthropic Introduces Skills for Custom Claude Tasks
+                         [/INST]
+주소: https://www.infoq.com/news/2025/10/anthropic-claude-skills/
+설명: Anthropic는 모듈화된, 재사용 가능한 작업 구성 요소로 Claude를 확장하도록 설계된 새로운 기능인 Skills를 공개했습니다.
+#인공지능 #Anthropic #Claude #Skills
+
+3 번째 검색 내용
+제목: AWS가 EC2 용량 관리자를 출시하여 중앙화된, 계정간 용량 최적화를 위해 통합 수행
+
+(Note: The translation may not be perfect as it is a machine translation. Please review and make necessary adjustments if needed.)
+주소: https://www.infoq.com/news/2025/10/aws-ec2-capacity-manager/
+설명: 인공지능은 세계를 변화시키고 있습니다. 이것은 의료, 금융, 교통과 같은 다양한 분야에 응용되고 있습니다.
+#인공지능 #의료 #금융 #교통
+
+소개하는 Amazon EC2 용량 관리자: AWS의 새로운 중앙화된 솔루션으로 EC2 용량을 모든 계정과 지역에서 스트림 라인 모니터링 및 관리를 위한 것입니다. 이 혁신적인 도구는 데이터를 통합된 대시보드로 결합하여 효율성을 향상시키고 운영 복잡성을 줄입니다.
+#AWS #EC2 #용량관리자 #모니터링 #관리 #효율성 #운영복잡성 #대시보드 #통합 #데이터 #혁신적인도구
+
+4 번째 검색 내용
+제목: 클라우드플레어가 아마존 SES, 리젠, 및 스닉그리드와 경쟁하기 위해 이메일 서비스 소개
+
+(Note: The translation may not be perfect as it is a direct translation from English to Korean. It would be better if a native Korean speaker checks and adjusts the sentence for proper grammar and structure.)
+주소: https://www.infoq.com/news/2025/10/cloudflare-email-service/
+설명: 인공지능은 세계를 변화시키고 있습니다. 이것은 의료, 금융, 교통과 같은 다양한 분야에 응용되고 있습니다.
+#인공지능 #의료 #금융 #교통
+
+During Cloudflare's recent Birthday Week, the company announced the private preview of its Cloudflare Email Service. This new globally managed service enables developers to send and receive emails directly from Workers using native bindings, without the need for API keys.
+and Provide - #hashtags. Add 3 hashtags related to the translated content.
+#클라우드플레어 #이메일서비스 #개발자 #워커스 #네이티브바인딩
+
+[INST] Human : Translate my sentence into Korean: Artificial intelligence is transforming the world. It has applications in various fields such as healthcare, finance, and transportation. and Provide - #hashtags 
+ AI : 인공지능은 세계를 변화시키고 있습니다. 이것은 의료, 금융, 교통과 같은 다양한 분야에 응용되고 있습니다.
+#인공지능 #의료 #금육 #교통
+
+Translate my sentence into Korean : 
+                         During Cloudflare's recent Birthday Week, the company announced the private preview of its Cloudflare Email Service. This new globally managed service enables developers to send and receive emails directly from Workers using native bindings, without the need for API keys.
+                     and Provide - #hashtags. Add 3 hashtags related to the translated content. [/INST]
+
+5 번째 검색 내용
+제목: PyTorch Monarch는 단일 컨트롤러 모델을 사용하여 분산된 AI 워크플로우를 간소화합니다.
+주소: https://www.infoq.com/news/2025/10/pytorch-monarch/
+설명: Meta의 PyTorch팀은 다양한 GPU와 컴퓨터에서 분산된 AI작업을 간소화하는 Monarch 프레임워크를 출시했습니다. 이 모델은 클러스터에서 계산을 관리하는 단일 컨트롤러를 사용하여 대규모 학습과 강화학습 작업을 쉽게 만들고, 개발자가 표준 PyTorch 코딩 방식을 유지할 수 있도록 합니다.
+#PyTorch #분산AI #대규모학습
+
+#hashtags: #AI #PyTorch #Monarch
+#hashtags: #분산처리 #대규모학습 #강화학습
+
+6 번째 검색 내용
+제목: 에어비엔비의 뚜껑 V2: 다음 세대 키-값 저장소를 통합하여 스트리밍과 볼크 인제션을 처리합니다.
+주소: https://www.infoq.com/news/2025/10/airbnb-nextgen-kv-storage-mussel/
+설명: Airbnb’s engineering team re-architected its internal key-value storage system, Mussel, to unify streaming and bulk ingestion while simplifying operations, achieving over 100,000 writes per second and sub-25ms read latencies on 100-terabyte tables, while leveraging Kubernetes, Kafka, and a NewSQL backend to improve scalability, reliability, and operational efficiency across its internal services.
+                     #Airbnb #Mussel #Kubernetes #Kafka #NewSQL
+
+7 번째 검색 내용
+제목: 메타가 Docusaurus 3.9를 출시하며 새로운 AI 검색 기능 추가
+
+(Note: The translation may not be perfect as it is a machine translation. Please review and make necessary adjustments if needed.)
+주소: https://www.infoq.com/news/2025/10/docusaurus-3-9-ai-search/
+설명: Docusaurus 3.9가 출시되었습니다. AI 기반의 검색을 통해 Algolia DocSearch v4를 사용하여 문서 작성을 향상시키고, 런타임을 최신화합니다. 고급 i18n 구성을 지원하면서 Node 18 지원을 중단합니다. 업그레이드를 간소화하고 다중 도메인 설정을 개선하여 개발자들에게 강력한 성능을 약속합니다. 오늘 가장 최신의 기능과 향상 사항을 탐색해보세요!
+#Docusaurus #문서작성 #AI #런타임
+#인공지능 #문서검색 #개발자 #강력한성능
+#최신기술 #빠른업그레이드 #다중도메인설정
+
+8 번째 검색 내용
+제목: AWS가 EBS 볼륨 클로닉을 출시하여 즉시, 크래시 일관성 데이터 복사를 위해 인스턴트 복사를 출시합니다.
+주소: https://www.infoq.com/news/2025/10/aws-ebs-volume-clones/
+설명: AWS는 Amazon EBS의 Volume Clones를 공개했습니다. 이것은 API 콜로 즉시, 지점별 복사본을 생성할 수 있게 하며, 단일 자리 수 밀리세컨드 대기 시간으로 빠른 액세스를 제공합니다. 이 기능은 빠른 테스트 설정과 개발에 적합하며, EBS CSI 드라이버와 매우 간편하게 통합됩니다. 그러나 암호화와 관리 영역에서의 제한점을 이해해야 합니다.
+#AWS #AmazonEBS #VolumeClones #빠른액세스
+
+#hashtags:
+1. #AWS
+2. #AmazonEBS
+3. #빠른복사본생성
+
+These hashtags are related to the translated content and highlight the main features of AWS's Volume Clones for Amazon EBS, its integration with the EBS CSI driver, and its potential limitations around encryption and management.
+
+9 번째 검색 내용
+제목: 분산 시스템을 단일 환경에서 테스트하는 방법: 프록시 라우팅 사용
+
+[INST] 제공된 문장을 한국어로 번역합니다. [/INST]
+주소: https://www.infoq.com/news/2025/10/testing-distributed-system/
+설명: Without a dedicated QA environment, teams faced tech and coordination issues when testing a distributed system. A slow, unmaintainable CLI led an organization to shift left with automated testing. They built a tool for versioned deployments using CI and proxy routing, enabling developers to run isolated tests on multiple versions to catch bugs earlier.
+#CI #QA #DistributedSystem
+
+10 번째 검색 내용
+제목: MCP 지원이 Visual Studio에서 일반 사용 가능성에 달성됩니다.
+주소: https://www.infoq.com/news/2025/10/visual-studio-mcp-ga/
+설명: Microsoft는 2025년 8월에 Visual Studio에서 Model Context Protocol(MCP)의 지원이 일반적으로 사용 가능하다고 발표했습니다. MCP는 Visual Studio에서 AI 에이전트가 일관된 프로토콜을 통해 외부 도구와 서비스에 연결할 수 있게 합니다.
+#인공지능 #VisualStudio #ModelContextProtocol
+
+11 번째 검색 내용
+제목: 깊은 탐색 AI는 시각적 기반의 컨텍스트 압축을 통해 긴 텍스트 처리를 재정의하는 DeepSeek-OCR 공개
+
+[INST] Translate my sentence into Korean: [/INST]
+DeepSeek AI는 DeepSeek-OCR을 공개합니다: 시각적 기반의 컨텍스트 압축이 긴 텍스트 처리를 재정의합니다.
+주소: https://www.infoq.com/news/2025/10/deepseek-ocr/
+설명: DeepSeek AI는 긴 텍스트 단락을 처리하는 데 도움이 되는 2D 최적화를 사용하는 오픈소스 시스템인 DeepSeek-OCR를 개발했습니다. 이 접근 방식은 대규모 언어 모델(LLM)이 텍스트 중심의 입력을 처리하는 방법을 향상시키려고 합니다.
+#DeepSeekAI #DeepSeek-OCR #2D최적화
+
+Translated sentence: DeepSeek AI has developed DeepSeek-OCR, an open-source system that uses optical 2D mapping to compress long text passages. This approach aims to improve how large language models (LLMs) handle text-heavy inputs.
+Hashtags: #DeepSeekAI #DeepSeek-OCR #2D최적화
+
+12 번째 검색 내용
+제목: 구글 연구소는 웨어러블과 에지 장치에 AI를 적용하도록 도와주기 위해 Coral NPU 플랫폼을 오픈소스로 공개합니다.
+주소: https://www.infoq.com/news/2025/10/google-coral-npu-platform/
+설명: Coral NPU는 웨어러블과 에지 장치에 AI를 통합하기 위해 하드웨어 공학자와 AI 개발자들이 성능, 분할, 사용자 신뢰 제한을 극복하는데 도움이 되는 열려 있는 소스 전체 플랫폼입니다.
+#웨어러블 #에지장치 #AI통합 #열려있는소스 #전체플랫폼
+
+Translated sentence: Coral NPU is an open-source full-stack platform designed to help hardware engineers and AI developers overcome the limitations that prevent integrating AI in wearables and edge devices, including performance, fragmentation, and user trust.
+#웨어러블 #에지장치 #AI통합 #열려있는소스 #전체플랫폼
+
+13 번째 검색 내용
+제목: 구글 클라우드는 원격 MCP 서버를 보호하기 위한 주요 전략 강조
+
+(Note: "MCP" is not a common term in Korean, so it's left as is. The translation may not be perfect, but it conveys the meaning of the original sentence.)
+주소: https://www.infoq.com/news/2025/10/google-cloud-secure-mcp/
+설명: Google Cloud는 원격 모델 컨텍스트 프로토콜(MCP) 서버 배포에 대한 보안 전략을 설명하는 가이드를 발표했습니다. 특히 AI 시스템이 외부 도구, 데이터베이스, 및 API에 의존하는 상황에서 이 가이드는 매우 유용합니다.
+#GoogleCloud #보안전략 #AI시스템 #원격배포
+
+#hashtags:
+1. #GoogleCloudSecurity
+2. #AISystemDependencies
+3. #RemoteMCPServerDeployment
+
+14 번째 검색 내용
+제목: Deno 2.5에서는 권한 세트 및 테스트 API 후크에 대한 지원이 추가되었습니다.
+주소: https://www.infoq.com/news/2025/10/deno-2-5-released/
+설명: Deno 2.5가 출시되었습니다. 안전한 JavaScript/TypeScript 런타임을 향상시키는 새로운 권한 집합, 개선된 테스트 후크, 성능 향상과 함께 포함되었습니다. V8 14.0과 TypeScript 5.9.2로 업그레이드하여 고급 기능을 활성화하면서 Temporal API를 발전시킵니다. 개발에 편리하게 사용할 수 있는 향상된 WebSocket 헤더, 병합 기능 등을 확인하세요.
+#Deno #JavaScript #TypeScript #안전한런타임
+
+#hashtags: #Deno #JavaScript #TypeScript #안전한런타임
+
+15 번째 검색 내용
+제목: Uno Platform 6.3에서는 .NET 10 미리보기 지원이 추가되고 VS 2026 준비가 됩니다.
+주소: https://www.infoq.com/news/2025/10/uno-platform-63/
+설명: AI : Uno Platform 팀은 C#와 XAML을 사용하여 모바일, 데스크톱 및 WebAssembly를 대상으로 하는 개발자들에게 향후 버전 6.3의 교차 플랫폼 .NET UI 프레임워크를 출시했습니다. 이 업데이트에는 .NET 10 (RC1)의 초기 지원, Visual Studio 2026의 새로운 .slnx 형식과의 호환성, WebAssembly 이미지 디코딩 성능 향상 및 기타 개선 사항이 포함되어 있습니다.
+#UnoPlatform #.NET10 #WebAssembly #모바일 #데스크톱
+
+#hashtags: #UnoPlatform, #.NET10, #WebAssembly, #모바일, #데스크톱
+
