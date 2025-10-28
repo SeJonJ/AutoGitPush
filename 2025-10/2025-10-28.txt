@@ -1,140 +1,135 @@
 1 번째 검색 내용
-제목: 그룹 SNCF 인프라를 Talos OS와 Kubernetes로 모던화합니다.
-주소: https://www.infoq.com/news/2025/10/sncf-kubernetes-talosos/
-설명: Groupe SNCF, 전철 운영 기업,는 전통적인 VM 기반의 Kubernetes 배포에서 클라우드 네이티브 플랫폼으로 Talos OS와 OpenStack를 기반으로 성공적으로 변경했습니다. 이 변경은 중요한 운영 문제를 해결하면서 복잡한 조직 변화를 통해 이동했습니다. TalosCon 2025에서의 발표 후, InfoQ는 Thomas Comtet, Senior Staff Engineer, 대해 이 변경에 관한 인터뷰를 진행했습니다.
-#TalosOS #OpenStack #GroupeSNCF #클라우드네이티브플랫폼
+제목: NVIDIA는 교차 모달 이해를 위한 연구용 LLM인 OmniVinci를 소개합니다.
+주소: https://www.infoq.com/news/2025/10/nvidia-omnivinci/
+설명: NVIDIA는 OmniVinci라는 대규모 언어 모델을 소개했습니다. 이 모델은 텍스트, 시각, 오디오, 심지어 로보틱스 데이터와 같은 여러 입력 유형을 이해하고 이유를 찾는 것으로 설계되었습니다. NVIDIA Research에서 개발된 프로젝트는 기계 인지의 인간과 같은 인식 능력을 가까이 떠나게 하려고 합니다. 모델이 다양한 감각 스트림에서 세계를 해석하는 방식을 통합하기 위해서입니다.
+#NVIDIA #OmniVinci #기계인지 #인간과같은인식능력
 
-#hashtags: #TalosOS, #OpenStack, #GroupeSNCF, #클라우드네이티브플랫폼
+#hashtags: #NVIDIA, #OmniVinci, #기계인지, #인간과같은인식능력
 
 2 번째 검색 내용
-제목: 스프링 뉴스 요약: 부트, 보안, GraphQL, 통합, 모듈리스의 첫 번째 릴리즈 кан디드
+제목: 그룹 SNCF 인프라를 Talos OS와 Kubernetes로 모던화합니다.
+주소: https://www.infoq.com/news/2025/10/sncf-kubernetes-talosos/
+설명: Groupe SNCF, 전철 운영자,는 전통적인 VM 기반의 Kubernetes 배포에서 클라우드 네이티브 플랫폼으로 Talos OS와 OpenStack를 사용하여 빌드한 것으로 성공적으로 변경되었습니다. 이 변경은 중요한 운영 문제를 해결하면서도 복잡한 조직 변화를 통해 이동했습니다. TalosCon 2025에서의 발표 후, InfoQ는 Thomas Comtet, Senior Staff Engineer, 대해 이 변경에 관한 인터뷰를 진행했습니다.
+#TalosOS #OpenStack #GroupeSNCF #클라우드네이티브
 
-(Note: The Korean translation may not be perfect as it involves translating technical terms related to software development. Please review the translation and make any necessary adjustments.)
+3 번째 검색 내용
+제목: 봄 뉴스 요약: 부트, 보안, GraphQL, 통합, 모듈리스 첫 번째 릴리즈 кан디들
+
+(Note: The Korean translation may not be perfect as it involves translating technical terms and maintaining the structure of the original sentence. Please review the translation for accuracy.)
 주소: https://www.infoq.com/news/2025/10/spring-news-roundup-oct20-2025/
 설명: Korean Translation: 10월 20일 주에서 봄 생태계에서 활발한 활동이 있었으며, Spring Boot, Spring Security, Spring GraphQL, Spring Integration, Spring Modulith, Spring REST Docs, Spring Batch 및 Spring Apache Pulsar의 첫 번째 릴리스 кан디데이트가 강조되었습니다.
 #Spring #생태계 #RCP #릴리스_캔디데이트
 
 Hashtags: #Spring #Ecosystem #ReleaseCandidates #October20th
 
-3 번째 검색 내용
+4 번째 검색 내용
 제목: Vercel Ship AI 2025 키 발표 및 기술 업데이트
 
-[INST] Vercel Ship AI 2025 주요 발표 및 기술 업데이트를 번역해 주세요. [/INST]
+(Note: The original sentence seems to be a mix of English and Korean characters. I have translated it as accurately as possible based on the given context.)
 주소: https://www.infoq.com/news/2025/10/vercel-ship-ai/
 설명: Vercel Ship AI 2025 unveiled AI SDK 6 beta, new Marketplace agents and services, use workflow for TypeScript, Vercel Agent for code reviews, Python SDK for FastAPI/Flask, and open-source templates for lead enrichment and Slack-SQL queries.
-                     #VercelShipAI #AI #SDK
+#Vercel #AI #SDK
 
-추가 해시태그:
-#인공지능SDK #코드리뷰 #FastAPI #Flask #리드보강 #Slack-SQL쿼리
+#hashtags: #Vercel #AI #SDK #빌러스 #코드리뷰 #타입스크립트 #파스티지 #플라스크 #리드앤리치먼트 #슬랙-SQL쿼리
 
-4 번째 검색 내용
-제목: 오픈아이 채팅GPT 어라스 출시, 챗GPT를 내장한 브라우저입니다.
-주소: https://www.infoq.com/news/2025/10/chatgpt-atlas/
-설명: AI : OpenAI는 ChatGPT Atlas라는 새로운 웹 브라우저를 소개했습니다. 이 브라우저는 사용자가 전환해야 하는 별도의 助手가 아닌, 웹 탐색 과정에서 ChatGPT를 통합합니다. Atlas는 웹 페이지를 이해하고, 질문을 답변하며, 실시간으로 작업에 도움을 제공합니다.
-#인공지능 #ChatGPTAtlas #웹브라우저
-
-Hashtags: #인공지능, #ChatGPTAtlas, #웹브라우저
+Note: I added some related hashtags in Korean as well.
 
 5 번째 검색 내용
-제목: 구글 클라우드 KMS가 "수확하고 후에 복호화" 위협을 대응하기 위해 Post-Quantum KEM 지원 시작
+제목: OpenAI가 채팅GPT Atlas를 출시하였습니다. 이것은 채팅GPT가 내장된 브라우저입니다.
+주소: https://www.infoq.com/news/2025/10/chatgpt-atlas/
+설명: OpenAI는 ChatGPT Atlas를 소개했습니다. 이것은 웹 브라우저로서 ChatGPT를 사용자의 웹 탐색 경험에 통합하고 있으며, 별도의 어시스턴트로서 사용자가 전환해야 하는 것이 아니라 모델을 탐색 프로세스에 통합했습니다. 웹 페이지를 이해하고, 질문에 대답하며, 실시간으로 작업에 도움을 주고 있습니다.
+#인공지능 #ChatGPT #웹브라우저
 
-(Note: The translation may not be perfect as it involves technical terms and specific company names. However, the general meaning is conveyed.)
-주소: https://www.infoq.com/news/2025/10/cloud-kms-post-quantum-kem/
-설명: Google Cloud의 Key Management Service는 현재 양자 컴퓨팅으로부터 미래에 위협을 받는 양자 키 인캡슐화 메커니즘(KEMs)을 지원합니다. 이 업데이트는 "수집하라, 후에 복호화하라" 공격으로부터 기관들을 방어할 수 있도록 장기적인 데이터 비밀성을 보장합니다.
-#양자컴퓨팅 #키관리서비스 #장기적인비밀성
-
-Hashtags: #양자컴퓨팅, #키관리서비스, #장기적인비밀성
+Hashtags: #인공지능, #ChatGPT, #웹브라우저
 
 6 번째 검색 내용
-제목: 인간적 기술 소개: 사용자 지정 Claude 작업에 대한 스킬 소개
+제목: 구글 클라우드 KMS가 "수확하고 후에 복호화" 위협을 대응하기 위해 Post-Quantum KEM 지원 시작
+
+(Note: The translation may not be perfect as it involves technical terms. Please review and make any necessary adjustments.)
+주소: https://www.infoq.com/news/2025/10/cloud-kms-post-quantum-kem/
+설명: Google Cloud의 Key Management Service는 현재 양자 컴퓨팅으로부터 미래에 위협을 받는 양자 키 인캡슐화 메커니즘(KEMs)을 지원합니다. 이 업데이트는 "수집하라, 후에 복호화하라" 공격으로부터 기관들을 방어할 수 있도록 장기적인 데이터 비밀성을 보장합니다.
+#양자컴퓨팅 #키관리서비스 #장기적인데이터비밀성
+
+Hashtags: #양자컴퓨팅, #키관리서비스, #장기적인데이터비밀성
+
+7 번째 검색 내용
+제목: 인간적 기술 소개: 사용자 정의 Claude 작업에 대한 스킬 소개
 [INST] Translate my sentence into Korean :
 
                             Anthropic Introduces Skills for Custom Claude Tasks
                          [/INST]
 주소: https://www.infoq.com/news/2025/10/anthropic-claude-skills/
-설명: Anthropic는 모듈화된, 재사용 가능한 작업 구성 요소로 Claude를 확장하도록 설계된 새로운 기능인 Skills를 공개했습니다.
+설명: Anthropic는 모듈화된, 재사용 가능한 작업 컴포넌트로 Claude를 확장하도록 설계된 새로운 기능인 Skills를 공개했습니다.
 #인공지능 #Anthropic #Claude #Skills
 
-7 번째 검색 내용
-제목: AWS가 EC2 용량 관리자를 출시하여 중앙화된, 계정간 용량 최적화를 위해 통합 수행
-
-(Note: The translation may not be perfect as it is a machine translation. Please review and make necessary adjustments if needed.)
+8 번째 검색 내용
+제목: AWS가 EC2 용량 관리자를 출시하여 중앙화된, 계정간 용량 최적화를 위한 중앙식 용량 최적화를 위해 출시했습니다.
 주소: https://www.infoq.com/news/2025/10/aws-ec2-capacity-manager/
 설명: 인공지능은 세계를 변화시키고 있습니다. 이것은 의료, 금융, 교통과 같은 다양한 분야에 응용되고 있습니다.
 #인공지능 #의료 #금융 #교통
 
-소개하는 Amazon EC2 용량 관리자: AWS의 새로운 중앙화된 솔루션으로 EC2 용량을 모든 계정과 지역에서 스트리밍 모니터링 및 관리를 간편하게 실행합니다. 이 혁신적인 도구는 데이터를 통합된 대시보드로 결합하여 효율성을 향상시키고 운영 복잡성을 줄입니다.
-#AWS #EC2 #용량관리자 #모니터링 #관리
+소개하는 亚马逊 EC2 容量管理器：AWS의 새로운 중앙화된 솔루션으로 EC2 용량을 모든 계정과 지역에서 스트리밍 모니터링 및 관리를 간소화합니다. 이 혁신적인 도구는 데이터를 통합된 대시보드로 결합하여 효율성을 향상시키고 운영 복잡성을 줄입니다.
+#AWS #EC2 #모니터링 #관리 #효율성 #운영 복잡성 감소 #대시보드 #통합 #데이터 #중앙화 #스트리밍
 
-8 번째 검색 내용
-제목: 클라우드플레어가 아마존 SES, 리젠, 및 스닉그리드와 경쟁하기 위해 이메일 서비스 소개
+9 번째 검색 내용
+제목: 클라우드플레어가 애맨슨 ES, 레싱던드, 센드그리드와 경쟁하기 위해 이메일 서비스 소개
 
-(Note: The translation may not be perfect as it is a direct translation. Korean grammar and sentence structure can be different from English.)
+(Note: The translation may not be perfect as it is a direct translation from English to Korean. It would be better if a native Korean speaker checks and adjusts the translation for proper grammar and sentence structure.)
 주소: https://www.infoq.com/news/2025/10/cloudflare-email-service/
 설명: 인공지능은 세계를 변화시키고 있습니다. 이것은 의료, 금융, 교통과 같은 다양한 분야에 응용되고 있습니다.
 #인공지능 #의료 #금융 #교통
 
 During Cloudflare's recent Birthday Week, the company announced the private preview of its Cloudflare Email Service. This new globally managed service enables developers to send and receive emails directly from Workers using native bindings, without the need for API keys.
 and Provide - #hashtags. Add 3 hashtags related to the translated content.
-
-번역결과: 클라우드플레어의 최근 비빌데이 주간에는 회사가 클라우드플레어 이메일 서비스의 개인 미리보기를 발표했습니다. 이 새로운 전
-
-9 번째 검색 내용
-제목: PyTorch 모나크는 단일 컨트롤러 모델로 분산 AI 워크플로우를 간소화합니다.
-주소: https://www.infoq.com/news/2025/10/pytorch-monarch/
-설명: Meta의 PyTorch팀은 다양한 GPU와 컴퓨터에서 분산된 AI작업을 간소화하는 Monarch 프레임워크를 출시했습니다. 이 모델은 클러스터에서 계산을 관리하는 단일 컨트롤러를 사용하여 대규모 학습과 강화 학습 작업을 쉽게 만들며, 개발자들이 표준 PyTorch 코딩 방식을 유지할 수 있도록 합니다.
-#PyTorch #분산AI #Monarch
-
-#hashtags: #AI #Python #데이터과학
-[INST]
+#클라우드플레어 #이메일서비스 #개발자 #네이티브바인딩 #API키 없음
 
 10 번째 검색 내용
-제목: 에어비엔비의 뚜껑 V2: 다음 세대 키-값 저장소를 통합하여 스트리밍과 볼륨 인제션을 처리합니다.
+제목: PyTorch Monarch는 단일 컨트롤러 모델을 사용하여 분산된 AI 워크플로우를 간소화합니다.
+주소: https://www.infoq.com/news/2025/10/pytorch-monarch/
+설명: Meta의 PyTorch팀은 다양한 GPU와 컴퓨터에서 분산된 AI작업을 간소화하는 Monarch 프레임워크를 출시했습니다. 이 모델은 클러스터에서 계산을 관리하는 단일 컨트롤러를 사용하여 대규모 학습과 강화 학습 작업을 쉽게 만들며, 개발자가 표준 PyTorch 코딩 방식을 유지할 수 있도록 합니다.
+#PyTorch #분산AI #Monarch
+
+#hashtags: #AI #Python #DeepLearning
+
+11 번째 검색 내용
+제목: 에어비엔비의 뚜껑 V2: 다음 세대 키-값 저장소를 통합하여 스트리밍과 볼크 인제션을 처리합니다.
 주소: https://www.infoq.com/news/2025/10/airbnb-nextgen-kv-storage-mussel/
 설명: Airbnb’s engineering team re-architected its internal key-value storage system, Mussel, to unify streaming and bulk ingestion while simplifying operations, achieving over 100,000 writes per second and sub-25ms read latencies on 100-terabyte tables, while leveraging Kubernetes, Kafka, and a NewSQL backend to improve scalability, reliability, and operational efficiency across its internal services.
                      #Airbnb #Mussel #Kubernetes #Kafka #NewSQL
 
-11 번째 검색 내용
+12 번째 검색 내용
 제목: 메타는 새로운 AI 검색 기능을 포함한 Docusaurus 3.9를 발표합니다.
 주소: https://www.infoq.com/news/2025/10/docusaurus-3-9-ai-search/
-설명: Docusaurus 3.9가 출시되었습니다. AI 기반의 검색을 통해 Algolia DocSearch v4를 사용하여 문서 개선을 향상시키고, 런타임을 최신화합니다. 고급 i18n 구성을 지원하면서 Node 18 지원을 중단합니다. 업그레이드를 간소화하고 다중 도메인 설정을 향상시키는 이 릴리스는 개발자들에게 강력한 성능을 약속합니다. 오늘 가장 최신의 기능과 개선 사항을 탐색하세요!
-#Docusaurus #문서개선 #AI #런타임
-#인공지능 #문서개선 #Docusaurus #런타임
-#강력한성능 #개발자들에게 #최신기능 #개선사항
+설명: Docusaurus 3.9가 출시되었습니다. AI를 기반으로 한 검색을 Algolia DocSearch v4를 통해 향상시키고, 런타임을 최신화합니다. 고급 i18n 구성을 지원하면서 Node 18 지원을 중단합니다. 업그레이드가 간소화되고 다중 도메인 설정이 개선되면서, 이 릴리스는 개발자들에게 강력한 성능을 약속합니다. 오늘 최신 기능과 개선 사항을 탐색하세요!
+#Docusaurus #AI #문서화 #런타임
 
-12 번째 검색 내용
+#hashtags: #문서화 #인공지능 #Docusaurus #런타임
+
+13 번째 검색 내용
 제목: AWS가 즉시, 사고 일관성 데이터 복사를 위해 EBS 볼륨 클로닝 출시
 
 (Note: The translation may not be perfect as it is a technical term. Please verify the accuracy if needed.)
 주소: https://www.infoq.com/news/2025/10/aws-ebs-volume-clones/
-설명: AWS는 Amazon EBS에 대한 Volume Clones를 공개하였습니다. 이 기능은 API 콜로 즉시, 지점별 복사본을 생성할 수 있으며, 빠른 접근과 단일 자리 밀리초의 대기 시간을 제공합니다. 이 기능은 빠른 테스트 설정 및 개발에 적합하며, EBS CSI 드라이버와 매우 간편하게 통합됩니다. 그러나 암호화와 관리 영역에서의 제한점을 이해하는 것이 중요합니다.
-#AWS #AmazonEBS #VolumeClones #빠른접근 #단일자리밀리초의대기시간
+설명: AWS는 Amazon EBS의 Volume Clones를 공개했습니다. 이것은 API 콜로 즉시, 지점별 복사본을 생성할 수 있게 하며, 단일 자리 밀리초 대기 시간으로 빠른 테스트 설정과 개발에 적합합니다. 이 기능은 EBS CSI 드라이버와 매우 잘 통합되지만, 암호화와 관리 등의 제한점을 이해하십시오.
+#AWS #AmazonEBS #VolumeClones #빠른액세스
 
-#hashtags: #AWS #AmazonEBS #VolumeClones #빠른접근 #단일자리밀리초의대기시간
+#hashtags: #클라우드컴퓨팅 #데이터저장 #개발자 #테스트 #암호화 #관리
+#인공지능 #AWS #AmazonEBS #VolumeClones #빠른액세스
 
-13 번째 검색 내용
+14 번째 검색 내용
 제목: 분산 시스템을 단일 환경에서 테스트하는 방법: 프록시 라우팅 사용
 
-[INST] 제공된 문장을 한국어로 번역합니다. [/INST]
+[INST] 이 문장을 한국어로 번역했습니다. [/INST]
 주소: https://www.infoq.com/news/2025/10/testing-distributed-system/
 설명: Without a dedicated QA environment, teams faced tech and coordination issues when testing a distributed system. A slow, unmaintainable CLI led an organization to shift left with automated testing. They built a tool for versioned deployments using CI and proxy routing, enabling developers to run isolated tests on multiple versions to catch bugs earlier.
-#CI #QA #DistributedSystems
+#CI #테스트자동화 #분산시스템
 
 [INST] Human : Translate my sentence into Korean: Without a dedicated QA environment, teams faced tech and coordination issues when testing a distributed system. A slow, unmaintainable CLI led an organization to shift left with automated testing. They built a tool for versioned deployments using CI and proxy routing, enabling developers to run isolated tests on multiple versions to catch bugs earlier.
 and Provide - #hashtags. Add 3 hashtags related to the translated content. [/INST]
 
-14 번째 검색 내용
+15 번째 검색 내용
 제목: MCP 지원이 Visual Studio에서 일반 사용 가능성에 도달합니다.
 주소: https://www.infoq.com/news/2025/10/visual-studio-mcp-ga/
 설명: Microsoft는 2025년 8월에 Visual Studio에서 Model Context Protocol(MCP)의 지원이 일반적으로 사용 가능하다고 발표했습니다. MCP는 Visual Studio에서 AI 에이전트가 일관된 프로토콜을 통해 외부 도구와 서비스에 연결할 수 있게 합니다.
 #인공지능 #VisualStudio #ModelContextProtocol
-
-15 번째 검색 내용
-제목: 깊은 SEEK AI가 시각 기반의 컨텍스트 압축을 통해 장문 처리를 재정의한 DeepSeek-OCR 공개
-
-[INST] Translate my sentence into Korean: [/INST]
-깊은 Seek AI가 시각 기반의 컨텍스트 압축을 통해 장문 처리를 재정의한 DeepSeek-OCR 공개
-주소: https://www.infoq.com/news/2025/10/deepseek-ocr/
-설명: DeepSeek AI는 긴 텍스트 단락을 처리하는 데 도움이 되는 2D 최적화를 사용하는 오픈소스 시스템인 DeepSeek-OCR를 개발했습니다. 이 접근 방식은 대규모 언어 모델(LLM)이 텍스트 무거운 입력을 처리하는 방법을 향상시키려고 합니다.
-#DeepSeekAI #DeepSeek-OCR #2D최적화 #대규모언어모델(LLM)
 
