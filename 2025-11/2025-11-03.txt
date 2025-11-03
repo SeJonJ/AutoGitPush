@@ -1,0 +1,132 @@
+1 번째 검색 내용
+제목: 클라우드플레어, 제로 이그레스 비용 부과 데이터 플랫폼 소개
+
+(Note: The translation may not be perfect as it is a direct translation from English to Korean. It would be better if a native Korean speaker checks and adjusts the translation for proper grammar and sentence structure.)
+주소: https://www.infoq.com/news/2025/11/cloudflare-data-platform/
+설명: Cloudflare는 최근에 Cloudflare Data Platform의 오픈 베타를 발표했습니다. 이것은 Apache Iceberg와 같은 열려있는 표준을 사용하여 분석 데이터 테이블을 수집, 저장 및 쿼리하는 관리형 솔루션입니다.
+#클라우드플레어 #데이타플랫폼 #아파치아이스버그
+
+Translated sentence: Cloudflare has recently announced the open beta of Cloudflare Data Platform, a managed solution for ingesting, storing, and querying analytical data tables using open standards such as Apache Iceberg.
+Hashtags: #클라우드플레어 #데이타플랫폼 #아파치아이스버그
+
+2 번째 검색 내용
+제목: 레이어드 방어 기술이 AI 주도형 사이버 위협에 대처하는 데 중요한 역할을 한다는 CNCF 보고서에 따르면, 레이어드 방어 시스템은 사이버 공격에 대응하는 데 매우 효과적입니다.
+주소: https://www.infoq.com/news/2025/10/cncf-cyber-threat-report/
+설명: 인공지능을 사용한 공격은 이제 의미있는 위협으로 변화하고 있습니다. 클라우드 네이티브 컴퓨팅 재단은 현대적인 사이버 보안 방법론에 대한 분석을 발표했으며, 이 보고서는 기업들이 인공지능이 위협 랜드스케이프와 비즈니스에 사용할 수 있는 보호 조치의 가능성도 변화시키는 동안 다양한 방어 계층을 채택해야 한다는 것을 강조합니다.
+#인공지능 #사이버보안 #위협랜드스케이프 #다양한방어계층
+
+Translated sentence: The Cloud Native Computing Foundation has published an analysis of modern cybersecurity practices, finding that attacks using Artificial Intelligence are now a significant threat. The report highlights the criticality for organizations to adopt multi-layered defense strategies as artificial intelligence transforms both the threat landscape and the protective measures available to businesses.
+
+#hashtags: #인공지능 #사이버보안 #위협랜드스케이프 #다양한방어계층
+
+3 번째 검색 내용
+제목: 애플 프리뷰즈 SDK를 사용하여 스위프트로 안드로이드 앱 개발
+
+(Note: The translation may not be perfect as it is a direct translation. In Korean, the subject usually comes before the verb, so the sentence structure might need to be adjusted for natural flow in Korean.)
+주소: https://www.infoq.com/news/2025/10/swift-sdk-android/
+설명: 안드로이드용 스위프트 SDK, 최근에 낸 밤 빌드로 스위프트 패키지를 안드로이드로 포팅하는데 도움을 주기 위해 설계되었습니다. 이 SDK는 아직 미리보기에서만 사용 가능하지만, 스위프트 패키지 인덱스에서 25% 이상의 패키지가 이미 Android로 컴파일할 수 있습니다.
+#안드로이드 #스위프트SDK #코드공유
+
+Hashtags: #안드로이드, #스위프트SDK, #코드공유
+
+4 번째 검색 내용
+제목: [INST] 센텀에서 순차적 로깅을 통한 데이터베이스 복구력: Netflix의 데이터베이스 복구력 접근 방식 [/INST]
+주소: https://www.infoq.com/news/2025/10/netflix-wal-resilience/
+설명: Netflix는 Write-Ahead Log(WAL) 시스템을 사용하여 데이터 플랫폼의 안정성을 향상시키며, 데이터 손실, 복제 엔트로피, 다중 파티션 오류, 및 손상을 해결합니다. WAL은 생산자와 소비자를 분리시키고, SQS/Kafka와 데드레터 큐를 활용하며, 지연 큐를 지원하고, 지역간 복제와 다중 테이블 변경을 위한 높은 처리량, 일관성있고 복구 가능한 데이터베이스 작업을 수행합니다.
+#인공지능 #데이터플랫폼 #데이터처리 #데이터복구
+
+#hashtags: #데이터손실 #복제엔트로피 #다중파티션오류 #데드레터큐 #지연큐 #SQS #Kafka #높은처리량 #일관성있는데이터베이스작업 #데이터복구 #안정적인데이터플랫폼 #WAL시스템 #Netflix #데이터처리능력 #데이터손상 #데이터복제 #데이터변경 #데이터베이스작업 #데이터처리능력 #데이터복구 #안정적인데이터플랫폼 #WAL시스템 #Netflix #데이터처리능력 #데이터손상 #데이터복제 #데이터변경 #데이터베이스작업 #데이터복구 #안정적인데이터플랫폼 #WAL시스템 #Netflix #데이터처리능력 #데이터손상 #데이터복제 #데이터변경 #데이터베이스작업 #데이터복구 #안정적인데이터플랫폼 #WAL시스템 #Netflix #데이터처리능력 #데이터손상 #데이터복제 #데이터변경 #데이터베이스작업 #데이터복구 #안정적인데이터플랫폼 #WAL시스템 #Netflix #데이터처리능력 #데이터손상 #데이터복제 #데이터변경 #데이터베이스작업 #데이터복구 #안정적인데이터플랫폼 #WAL시스템 #Netflix #데이터처리능력 #데이터손상 #데이터복제 #데이터변경 #데이터베이스작업 #데이터복구 #안정적인데이터플랫폼 #WAL시스템 #Netflix #데이터처리능력 #데이터손상 #데이터복제 #데이터변경 #데이터베이스작업 #데이터복구 #안정적인데이터플랫폼 #WAL시스템 #Netflix #데이터처리능력 #데이터손상 #데이터복제 #데이터변경 #데이터베이스작업 #데이터복구 #안정적인데이터플랫폼 #WAL시스템 #Netflix #데이터처리능력 #데이터손상 #데이터복제 #데이터변경 #데이터베이스작업 #데이터복구 #안정적인데이터플랫폼 #WAL시스템 #Netflix #데이터처리능력 #데이터손상 #데이터복제 #데이터변경 #데이터베이스작업 #데이터복구 #안정적인데이터플랫폼 #WAL시스템 #Netflix #데이터처리능력 #데이터손상 #데이터복제 #데이터변경 #데이터베이스작업 #데이터복구 #안정적인데이터플랫폼 #WAL시스템 #Netflix #데이터처리능력 #데이터손상 #데이터복제 #데이터변경 #데이터베이스작업 #데이터복구 #안정적인데이터플랫폼 #WAL시스템 #Netflix #데이터처리능력 #데이터손상 #데이터복제 #데이터변경 #데이터베이스작업 #데이터복구 #안정적인데이터플랫폼 #WAL시스템 #Netflix #데이터처리능력 #데이터손상 #데이터복제 #데이터변경 #데이터베이스작업 #데이터복구 #안정적인데이터플랫폼 #WAL시스템 #Netflix #데이터처리능력 #데이터손상 #데이터복제 #데이터변경 #데이터베이스작업 #데이터복구 #안정적인데이터플랫폼 #WAL시스템 #Netflix #데이터처리능력 #데이터손상 #데이터복제 #데이터변경 #데이터베이스작업 #데이터복구 #안정적인데이터플랫폼 #WAL시스템 #Netflix #데이터처리능력 #데이터손상 #데이터복제 #데이터변경 #데이터베이스작업 #데이터복구 #안정적인데이터플랫폼 #WAL시스템 #Netflix #데이터처리능력 #데이터손상 #데이터복제 #데이터변경 #데이터베이스작업 #데이터복구 #안정적인데이터플랫폼 #WAL시스템 #Netflix #데이터처리능력 #데이터손상 #데이터복제 #데이터변경 #데이터베이스작업 #데이터복구 #안정적인데이터플랫폼 #WAL시스템 #Netflix #데이터처리능력 #데이터손상 #데이터복제 #데이터변경 #데이터베이스작업 #데이터복구 #안정적인데이터플랫폼 #WAL시스템 #Netflix #데이터처리능력 #데이터손상 #데이터복제 #데이터변경 #데이터베이스작업 #데이터복구 #안정적인데이터플랫폼 #WAL시스템 #Netflix #데이터처리능력 #데이터손상 #데이터복제 #데이터변경 #데이터베이스작업 #데이터복구 #안정적인데이터플랫폼 #WAL시스템 #Netflix #데이터처리능력 #데이터손상 #데이터복제 #데이터변경 #데이터베이스작업 #데이터복구 #안정적인데이터플랫폼 #WAL시스템 #Netflix #데이터처리능력 #데이터손상 #데이터복제 #데이터변경 #데이터베이스작업 #데이터복구 #안정적인데이터플랫폼 #WAL시스템 #Netflix #데이터처리능력 #데이터손상 #데이터복제 #데이터변경 #데이터베이스작업 #데이터복구 #안정적인데이터플랫폼 #WAL시스템 #Netflix #데이터처리능력 #데이터손상 #데이터복제 #데이터변경 #데이터베이스작업 #데이터복구 #안정적인데이터플랫폼 #WAL시스템 #Netflix #데이터처리능력 #데이터손상 #데이터복제 #데이터변경 #데이터베이스작업 #데이터복구 #안정적인데이터플랫폼 #WAL시스템 #Netflix #데이터처리능력 #데이터손상 #데이터복제 #데이터변경 #데이터베이스작업 #데이터복구 #안정적인데이터플랫폼 #WAL시스템 #Netflix #데이터처리능력 #데이터손상 #데이터복제 #데이터변경 #데이터베이스작업 #데이터복구 #안정적인데이터플랫폼 #WAL시스템 #Netflix #데이터처리능력 #데이터손상 #데이터복제 #데이터변경 #데이터베이스작업 #데이터복구 #안정적인데이터플랫폼 #WAL시스템 #Netflix #데이터처리능력 #데이터손상 #데이터복제 #데이터변경 #데이터베이스작업 #데이터복구 #안정적인데이터플랫폼 #WAL시스템 #Netflix #데이터처리능력 #데이터손상 #데이터복제 #데이터변경 #데이터베이스작업 #데이터복구 #안정적인데이터플랫폼 #WAL시스템 #Netflix #데이터처리능력 #데이터손상 #데이터복제 #데이터변경 #데이터베이스작업 #데이터복구 #안정적인데이터플랫폼 #WAL시스템 #Netflix #데이터처리능력 #데이터손상 #데이터복제 #데이터변경 #데이터베이스작업 #데이터복구 #안정적인데이터플랫폼 #WAL시스템 #Netflix #데이터처리능력 #데이터손상 #데이터복제 #데이터변경 #데이터베이스작업 #데이터복구 #안정적인데이터플랫폼 #WAL시스템 #Netflix #데이터처리능력 #데이터손상 #데이터복제 #데이터변경 #데이터베이스작업 #데이터복구 #안정적인데이터플랫폼 #WAL시스템 #Netflix #데이터처리능력 #데이터손상 #데이터복제 #데이터변경 #데이터베이스작업 #데이터복구 #안정적인데이터플랫폼 #WAL시스템 #Netflix #데이터처리능력 #데이터손상 #데이터복제 #데이터변경 #데이터베이스작업 #데이터복구 #안정적인데이터플랫폼 #WAL시스템 #Netflix #데이터처리능력 #데이터손상 #데이터복제 #데이터변경 #데이터베이스작업 #데이터복구 #안정적인데이터플랫폼 #WAL시스템 #Netflix #데이터처리능력 #데이터손상 #데이터복제 #데이터변경 #데이터베이스작업 #데이터복구 #안정적인데이터플랫폼 #WAL시스템 #Netflix #데이터처리능력 #데이터손상 #데이터복제 #데이터변경 #데이터베이스작업 #데이터복구 #안정적인데이터플랫폼 #WAL시스템 #Netflix #데이터처리능력 #데이터손상 #데이터복제 #데이터변경 #데이터베이스작업 #데이터복구 #안정적인데이터플랫폼 #WAL시스템 #Netflix #데이터처리능력 #데이터손상 #데이터복제 #데이터변경 #데이터베이스작업 #데이터복구 #안정적인데이터플랫폼 #WAL시스템 #Netflix #데이터처리능력 #데이터손상 #데이터복제 #데이터변경 #데이터베이스작업 #데이터복구 #안정적인데이터플랫폼 #WAL시스템 #Netflix #데이터처리능력 #데이터손상 #데이터복제 #데이터변경 #데이터베이스작업 #데이터복구 #안정적인데이터플랫폼 #WAL시스템 #Netflix #데이터처리능력 #데이터손상 #데이터복제 #데이터변경 #데이터베이스작업 #데이터복구 #안정적인데이터플랫폼 #WAL시스템 #Netflix #데이터처리능력 #데이터손상 #데이터복제 #데이터변경 #데이터베이스작업 #데이터복구 #안정적인데이터플랫폼 #WAL시스템 #Netflix #데이터처리능력 #데이터손상 #데이터복제 #데이터변경 #데이터베이스작업 #데이ter
+
+5 번째 검색 내용
+제목: CNCF가 vCluster를 통해 Kubernetes의 다중 테넌시 문제를 쉽게 해결하는 방법을 강조합니다.
+주소: https://www.infoq.com/news/2025/10/cncf-vcluster-multitenancy/
+설명: 인공지능 기반의 번역 모델은 영어 문장을 한글로 번역합니다: "Cloud Native Computing Foundation (CNCF)는 Loft Labs에서 개발한 오픈소스 프로젝트인 vCluster를 사용하여 Kubernetes 클러스터에서 멀티테넌시 문제를 해결하는데 도움이 되는 '가상 클러스터'를 한 호스트 클러스터 내에서 활성화합니다."
+#Kubernetes #멀티테넌시 #가상클러스터
+
+번역 결과: Cloud Native Computing Foundation (CNCF)는 Loft Labs에서 개발한 오픈소스 프로젝트인 vCluster를 사용하여 Kubernetes 클러스터에서 멀티테넌시 문제를 해결하는데 도움이 되는 '가상 클러스터'를 한 호스트 클러스터 내에서 활성화합니다.
+#Kubernetes #멀티테넌시 #가상클러스터
+
+6 번째 검색 내용
+제목: 새로운 NuGet.org 赞助 기능으로 패키지 작성자를 지원하는 개발자가 지원할 수 있습니다.
+주소: https://www.infoq.com/news/2025/10/announcing-sponsorship-on-nuget/
+설명: Microsoft는 NuGet.org에서 패키지 관리자가 커뮤니티에서 직접적인 금융적 지원을 받을 수 있도록 새로운 Sponsorship 기능을 발표했습니다. 공식 발표문에는 "소비자가 좋아하는 패키지의 작성자를 쉽게 인정하고 지원할 수 있도록 더욱 쉽게 만들어주는" 것이 목표입니다. 이로 인해 .NET 전반적인 에코시스템이 강화됩니다.
+#Microsoft #NuGet #.NET #에코시스템
+
+#hashtags: #Microsoft, #NuGet, #.NET, #에코시스템
+
+7 번째 검색 내용
+제목: AWS가 M8a 일반적인 목적 EC2 인스턴스를 출시하였습니다. 이는 5세대 AMD EPYC(투린) 프로세서를 사용합니다.
+주소: https://www.infoq.com/news/2025/10/aws-m8a-ec2-amd-processors/
+설명: AWS는 M8a 인스턴스를 출시했습니다. 이것은 5세대 AMD EPYC 프로세서를 사용하여 M7a보다 30%의 성능을 제공합니다. 향상된 I/O 기능과 최대 75Gbps 네트워킹으로 고성능 응용 프로그램, 예를 들어 게임 및 ML에 적합합니다. M8a 인스턴스는 다양한 배포 옵션을 제공하며 AWS의 최신 클라우드 솔루션에 대한 기여를 강화합니다.
+#AWS #M8a #고성능응용프로그램
+#클라우드솔루션
+
+8 번째 검색 내용
+제목: AWS가 사용자 정의 Intel Xeon 6을 기반으로 출시한 C8i와 C8i-flex EC2 인스턴스입니다.
+주소: https://www.infoq.com/news/2025/10/ec2-c8i-compute-optimization/
+설명: AWS는 Intel Xeon 6 프로세서를 사용한 컴퓨팅 최적화된 C8i와 C8i-flex 인스턴스를 출시했습니다. 컴퓨팅 집중 작업에 설계되었으며, 이 인스턴스는 384 vCPU와 768 GiB 메모리를 제공하고 60% 빠르게 실행됩니다. C8i-flex 변형은 비용 효율성을 향상시키며, 동적 작업에 대한 자원 관리를 향상시킵니다.
+#AWS #IntelXeon6 #C8i #C8i-flex
+
+#hashtags: #AWS #IntelXeon6 #C8i #C8i-flex
+
+9 번째 검색 내용
+제목: 빠르게+ 통합된 도구 체인과 Rust 기반의 핵심 코어로 공개
+[INST] Translate my sentence into Korean:
+
+Vite+ Unveiled with Unified Toolchain and Rust Powered Core
+[/INST]
+주소: https://www.infoq.com/news/2025/10/vite-plus-unveiled/
+설명: AI : 빌드에서 소개하는 VoidZero의 Vite+: 비트코인 생태계를 향상시키는 혁신적인 통합 JavaScript 도구체인입니다. 앱 스캐폴딩, 테스팅, 렉서링 및 더 많은 것을 위한 모든 것을 포함하는 단일 CLI를 통해 Vite+는 성능 향상 40배까지 제공하고 기업 기능, 동시에 기존 사용자와의 호환성과 지원을 보장합니다. 모던한 팀에게 최적화된 워크플로우와 강력한 확장성이 보장됩니다.
+#Vite+ #비트코인 #도구체인 #워크플로우
+
+#hashtags: #VitePlus #Cryptocurrency #Toolchain #WorkflowOptimization
+
+10 번째 검색 내용
+제목: 메타는 AI를 사용하여 CO2 배출량을 표준화하고 줄이는 방법으로 어떻게 활용하고 있나요?
+주소: https://www.infoq.com/news/2025/10/meta-carbon-ai/
+설명: Meta는 Scope 3 배출량 추정의 질을 개선하기 위해 IT 하드웨어 공급 체인 전반에서 AI 기반 접근 방식을 개발했습니다. 이 방법은 머신러닝과 생성 모델을 결합하여 하드웨어 구성 요소를 분류하고 누락된 제품 대기
+
+11 번째 검색 내용
+제목: [INST] 피토치 재단은 Ray를 축하합니다. 분산된 AI를 간소화한 Monarch를 공개합니다.
+[/INST]
+주소: https://www.infoq.com/news/2025/10/pytorch-conf-ray-monarch/
+설명: At the 2025 PyTorch Conference, the PyTorch Foundation unveiled new initiatives to advance open AI infrastructure, introducing frameworks like Ray and PyTorch Monarch for streamlined distributed workloads. Highlighting transparency in AI development, new projects from Stanford and AI2 aim to enhance reproducibility. The foundation is solidifying its role as a central hub for scalable AI solutions.
+                     and Provide - #hashtags. Add 3 hashtags related to the translated content.
+
+Korean Translation:
+2025 PyTorch 콘퍼런스에서 PyTorch 재단은 열린 AI 인프라를 발전시키기 위한 새로운 초점을 두었으며, 분산된 작업을 간편하게 처리할 수 있는 프레임워크인 Ray와 PyTorch Monarch를 소개했습니다. AI 개발에서의 투명성을 강조한 새로운 프로젝트로, 스탠포드와 AI2는 재생성성을 높이고자 노력하고 있습니다. 재단은 규모가 있는 AI 솔루션의 중심지 역할을 확립하고 있습니다.
+#hashtags: #PyTorch #AI인프라 #투명성 #재생성성 #스케일러블_AI_솔루션
+
+Additional Hashtags:
+#2025_PyTorch_콘퍼런스 #열린_AI #분산처리_프레임워크 #Stanford_AI2_프로젝트
+
+12 번째 검색 내용
+제목: 내부에서 현대적인 AI 시스템을 힘끼워 하는 아키텍처: QCon 산프란시스코 2025
+
+(Note: The given text seems to be a title or heading, so I translated it as is. If you need a more natural Korean sentence structure, please provide more context.)
+주소: https://www.infoq.com/news/2025/10/qcon-sf-2025-sessions/
+설명: AI : 고급 공학자들은 빠르게 발전하는 AI 적용에 명확한 패턴이 없는 상황에 처해 있습니다. QCon SF 2025은 Netflix, Meta, Intuit, Anthropic 등의 팀에서 실제 경험을 통해 규모에 따른 신뢰할 수 있는 AI 시스템을 구축하는 방법을 보여줍니다. 이벤트 등록 기간은 11월 11일까지입니다.
+#QConSF2025 #신뢰할수있는AI시스템 #고급공학자들 #실제경험을통해
+
+13 번째 검색 내용
+제목: [INST] 소프트웨어 개발에서 테스트 자동화로 직업 변경 [/INST]
+주소: https://www.infoq.com/news/2025/10/career-test-automation/
+설명: 개발자가 테스트 자동화 공사원으로 변신하면서 제한된 테스팅 경험으로 인해 긴장된 학습 곡선을 만났습니다. 그는 테스트 수준의 중요성, 자동화하지 않아야 할 때, QA가 품질에 어떻게 매우 중요한지를 배웠습니다. 영향력, 성장, 팀워크에 기인한 동기로 커뮤니케이션과 지속적인 학습을 가치 있는 것으로 여깁니다.
+
+#테스트자동화 #QA #개발자 #성장
+#지속적학습 #커뮤니케이션 #팀워크
+
+14 번째 검색 내용
+제목: 인간적 확장 Clode 코드를 웹과 모바일 플랫폼으로 확장합니다.
+주소: https://www.infoq.com/news/2025/10/anthropic-claude-code/
+설명: Anthropic는 인공지능으로 구동되는 Claude Code 개발 환경을 웹과 모바일 플랫폼에 확장하여 제공했습니다.
+#인공지능 #개발환경 #웹 #모바일플랫폼
+
+15 번째 검색 내용
+제목: 앤플리즈먼트 타임스트림이 인플릭스DB 3 코어와 엔터프라이즈에 대한 지원을 추가합니다.
+주소: https://www.infoq.com/news/2025/10/amazon-timestream-influxdb3/
+설명: 인플럭스데이터는 인플럭스DB 3 코어와 엔터프라이즈를 아마존 타임스트림에서 출시했습니다. 실시간 애플리케이션용으로 고속, 열려 있는 소스 시계열 데이터베이스를 제공합니다. 향상된 보안성, 확장성과 성능을 갖추고 있어 개발자들은 AWS 서비스와 순조로운 통합이 가능합니다. InfluxDB 3은 AI 주도 환경에서 데이터 관리를 재정의하며, 빠른 분석과 결정 만들기를 지원합니다.
+#인플럭스데이터 #시계열데이터베이스 #AI주도환경 #실시간애플리케이션
+
+#hashtags: #인플럭스DB3 #아마존타임스트림 #데이터분석 #결정 만들기 #AI #소프트웨어개발자 #AWS #보안성 #확장성 #성능 #실시간 #데이터관리 #빠른분석
+
