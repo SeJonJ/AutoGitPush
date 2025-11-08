@@ -1,10 +1,8 @@
 1 번째 검색 내용
 제목: 마이크로소프트는 미리 보기에서 일반 사용 가능성으로 Azure DevOps MCP 서버를 이동합니다.
 주소: https://www.infoq.com/news/2025/11/microsoft-ado-mcp-server/
-설명: Microsoft는 2025년 10월에 Azure DevOps MCP Server, AI 助手들에게 더 풍부한 컨텍스트를 제공하기 위해 로컬 Model Context Provider로 설계된 지역 서버를 공개 미리 보기에서 일반적으로 사용할 수 있는 상태로 전환했다고 발표했습니다.
-#Microsoft #AzureDevOpsMCPServer #AIassistant #GitHubCopilot
-
-Hashtags: #Microsoft, #AzureDevOpsMCPServer, #AIassistant, #GitHubCopilot
+설명: Microsoft는 2025년 10월에 Azure DevOps MCP Server, AI 助手들 같은 GitHub Copilot에 더욱 부드러운 맥락을 제공하기 위해 로컬 Model Context Provider로 설계된 지역 서버를 공개 미리 보기에서 일반적으로 사용할 수 있게 되었다고 발표했습니다.
+#인공지능 #AzureDevOps #MCPServer
 
 2 번째 검색 내용
 제목: 탄스택 시작: 리액트 또는 솔리드JS로 주도되는 새로운 메타 프레임워크
@@ -12,36 +10,38 @@ Hashtags: #Microsoft, #AzureDevOpsMCPServer, #AIassistant, #GitHubCopilot
                             TanStack Start: A New Meta Framework Powered By React Or SolidJS
                          [/INST]
 주소: https://www.infoq.com/news/2025/11/tanstack-start-v1/
-설명: TanStack Start v1을 소개합니다 - React와 Solid 응용 프로그램에 대한 혁신적인 전체 스택 프레임워크입니다. TanStack Router와 Vite를 기반으로 하고 있으며, 타입 안전한 API, 스트리밍 SSR, 일반화 배포를 제공합니다. 성능과 유연성을 최적화한 TanStack Start는 Next.js에 대한 혁신적인 대안으로, 현대적인 개발 요구 사항에 맞춰 순조롭게 통합되고 증분 채택이 가능합니다.
+설명: TanStack Start v1을 소개합니다 - React와 Solid 응용 프로그램에 대한 혁신적인 전체 스택 프레임워크입니다. TanStack Router와 Vite를 기반으로 한 것으로, 타입 안전한 API, 스트리밍 SSR, 일반화 배포를 제공합니다. 성능과 유연성을 최적화한 TanStack Start는 Next.js에 대한 혁신적인 대안으로, 현대적인 개발 요구 사항에 맞춰 순조로운 통합과 증분 채택을 지원합니다.
 #TanStackStart #React #Solid #전체스택프레임워크
-#hashtags: #Nextjs대안 #성능최적화 #유연성 #혁신적인전체스택프레임워크
+#hashtags: #ReactFramework, #SolidFramework, #FullStackDevelopment
 
 3 번째 검색 내용
-제목: 그레일즈 7.0, 아파치 소프트웨어 재단 하에서 관리되며, 미크로나우트와 GORM에 대한 개선 사항을 제공합니다.
+제목: 그레일즈 7.0, 아틀랩 소프트웨어 재단 하에서 관리되며, 미크로나우트와 GORM에 대한 개선 사항을 제공합니다.
 주소: https://www.infoq.com/news/2025/11/grails-7-released/
-설명: 인공지능 7.0.0 릴리스는 다음과 같은 중요한 변경 사항을 제공합니다: Micronaut 자동 구성을 비활성화하기 위해 Grails 플러그인을 사용할 수 있도록 하는 능력; GORM 서비스의 재생산성이 향상되었습니다; 현재 Neo4J와 호환되지 않을 때까지 Grails 7.0 또는 8.0에 대한 GORM for Neo4J의 일시적인 제거입니다. InfoQ는 Søren Berg Glasius와 James Fredley에게 대해 이 릴리스에 대해 말했습니다.
-#인공지능 #Grails #Micronaut #Neo4J
+설명: 인공지능 : Apache Grails 7.0.0의 릴리즈는 다음과 같은 중요한 변경 사항을 제공합니다. Micronaut 자동 구성을 비활성화하기 위해 Grails 플러그인을 사용할 수 있도록 허용; GORM 서비스의 재생산성이 향상되었습니다. 그리고 Neo4J와 호환되는 Grails 7.0 또는 8.0에 대한 GORM for Neo4J을 일시적으로 제거했습니다. InfoQ는 Søren Berg Glasius와 James Fredley에게 대해 이 릴리즈에 대해 말하였습니다.
+#ApacheGrails #Micronaut #GORM #InfoQ
 
-#hashtags: #인공지능, #Grails, #Micronaut, #Neo4J
+Hashtags: #ApacheGrails, #Micronaut, #GORM, #InfoQ
 
 4 번째 검색 내용
 제목: 안드로이드 제네이션 AI 프롬프트 API는 자연어 요청을 지원하며, 겔미나노와 함께 사용됩니다.
 주소: https://www.infoq.com/news/2025/11/android-genai-prompt-api/
-설명: ML Kit GenAI Prompt API는 이제 알파 버전으로 사용 가능합니다. Android 개발자들은 Gemini Nano를 장치에서 실행하며, 초기 GenAI 릴리스와 함께 텍스트 요약과 이미지 설명 기능을 확장할 수 있습니다.
+설명: ML Kit GenAI Prompt API는 이제 alpha로 사용 가능합니다. Android 개발자들은 Gemini Nano를 장치에서 실행하며, 초기 GenAI 릴리스와 함께 텍스트 요약과 이미지 설명 기능을 확장할 수 있습니다.
 #MLKitGenAI #장치AI #Android개발자
 
 5 번째 검색 내용
-제목: 내부 Uber의 핀랩 쿼리 재구성: 계층 간소화와 관찰성 개선
+제목: 내부 Uber의 핀랩 쿼리 재구성: 계층을 간소화하고 관찰성을 향상시키기
 
-(Note: The translation may not be perfect as it involves technical terms and specific company names. However, the general idea of the sentence is conveyed in Korean.)
+(Note: The translation may not be perfect as it is a technical term. However, the meaning of the sentence is conveyed.)
 주소: https://www.infoq.com/news/2025/11/uber-pinot-query-redesign/
-설명: Uber는 Apache Pinot 쿼리 아키텍처를 재구성하였습니다. Presto 기반의 Neutrino 시스템을 가볍게 프록시인 Cellar과 Pinot의 Multi-Stage Engine Lite Mode로 대체했습니다. 이 재설계는 SQL 실행을 간소화하고, 자원 관리를 향상시키며, 대규모 분석 작업에 대한 예측 가능한 성능을 보장합니다.
-#Uber #ApachePinot #SQL #데이터분석
+설명: Uber는 Apache Pinot 쿼리 아키텍처를 재구성하였습니다. 이전에 사용되던 Presto 기반의 Neutrino 시스템을 가볍게 프록시인 Cellar과 Pinot의 Multi-Stage Engine Lite Mode로 대체했습니다. 이 재설계는 SQL 실행을 간소화하고, 자원 관리를 향상시키며, 대규모 분석 작업에 대한 안정적인 성능을 보장합니다.
+#Uber #ApachePinot #SQL #분석작업
 
-#hashtags: #Uber #ApachePinot #SQL #데이터분석
+#hashtags: #Uber #ApachePinot #SQL #분석작업
 
 6 번째 검색 내용
-제목: 그라폴라와 깃랩이 서버리스 CI/CD 관측성 통합을 소개합니다.
+제목: 그라파나와 깃랩이 서버리스 CI/CD 관측성 통합 소개
+
+(Note: The translation may not be perfect as it is a machine translation. Please double-check the translation for accuracy.)
 주소: https://www.infoq.com/news/2025/11/grafana-gitlab-serverless-cicd/
 설명: 인공지능은 세계를 변화시키고 있습니다. 이것은 의료, 금융, 교통과 같은 다양한 분야에 응용되고 있습니다.
 #인공지능 #의료 #금융 #교통
@@ -49,88 +49,88 @@ Hashtags: #Microsoft, #AzureDevOpsMCPServer, #AIassistant, #GitHubCopilot
 In a move to streamline development workflows, Daniel Fritzgerald of GrafanaLabs has published a new open-source solution that links GitLab CI/CD events into Grafana's observability stack via a serverless architecture.
 and Provide - #hashtags. Add 3 hashtags related to the translated content.
 
-#GitLabCI #Grafana #ServerlessArchitecture #DevOps
+#GitLabCI/CD #Grafana #ObservabilityStack #ServerlessArchitecture
 
 7 번째 검색 내용
 제목: 인공지능과 프롬프트 엔지니어링을 통한 소프트웨어 테스팅 지원
 
-(Note: The translation may not be perfect as it is a direct translation of the English sentence. In Korean, the word order can be different and sometimes requires additional context to make it sound natural.)
+(Note: The translation may not be perfect as it is a direct translation from English to Korean. It would be better to have a native Korean speaker review and adjust the translation for proper grammar and sentence structure.)
 주소: https://www.infoq.com/news/2025/11/prompts-software-testing/
-설명: AI는 빠른 시나리오 생성, 위험 감지 및 테스트 계획 도움이 되며, 역할, 컨텍스트, 출력 형식을 사용하여 제안에 대한 명확한, 관련된 및 실행 가능한 테스트 시나리오를 얻는 데 도움이 됩니다. Arbaz Surti는 테스터들을 돕는 효과적인 제안 사용법을 보여줍니다. AI는 테스터에게 기여할 수 있지만, 관련성과 품질을 확인하기 위해 인간의 판단이 필요합니다.
-#인공지능 #테스트 #AI_테스트
+설명: AI는 빠른 시나리오 생성, 위험 감지 및 테스트 계획 작성을 도와주며 키 질문 도구가 되고 있습니다. Arbaz Surti는 역할, 컨텍스트, 출력 형식을 사용한 프롬핑이 명확하고 관련성 있고 실행 가능한 테스트 시나리오를 얻는데 얼마나 효과적인지 보여줍니다. AI는 테스터들의 생산성을 높일 수 있지만, 관련성과 질적 검증을 보장하기 위해서는 인간의 판단이 필요합니다.
+#인공지능 #테스트 #개발자
 
-#hashtags: #인공지능, #테스트, #AI_테스트
+#hashtags: #AI #testing #developer
 
 8 번째 검색 내용
-제목: Azure APIM는 이벤트 기반 아키텍처를 간소화하며, 네이티브 서비스 버스 정책을 지원합니다.
+제목: Azure APIM은 이벤트 기반 아키텍처를 간소화하며, 네이티브 서비스 버스 정책을 지원합니다.
 주소: https://www.infoq.com/news/2025/11/azure-apim-service-bus-policy/
-설명: Microsoft의 API Management(APIM)의 새로운 기능은 Azure Service Bus에 대한 간편한 메시징을 지원하며, 이벤트 주도 아키텍처에서 API 연결을 단순화합니다. send-service-bus-message 정책을 사용하면, HTTP 요청을 Service Bus에 비동기적으로 라우팅할 수 있어 통합, 보안, 제어를 향상시킵니다. 이러한 추가 구성 없이도 가능합니다.
-#APIManagement #AzureServiceBus #이벤트주도아키텍처
+설명: Microsoft의 API Management(APIM)의 새로운 기능은 Azure Service Bus에 대한 간편한 메시징을 허용하며, 이벤트 주도 아키텍처에서 API 연결을 단순화합니다. send-service-bus-message 정책을 사용하면, HTTP 요청을 Service Bus에 비동기적으로 라우팅할 수 있습니다. 이를 통해 통합, 보안 및 제어를 향상시키고, 추가 구성 요소 없이 작업을 쉽게 수행할 수 있습니다.
+#APIManagement #AzureServiceBus #비동기처리
 
-#hashtags: #APIM #Microsoft #비동기처리
+#hashtags: #APIM #Azure #통합 #보안 #제어
 
 9 번째 검색 내용
-제목: Azure 프론트도어 서비스 중지: 단일 컨트롤 플레인 결함으로 아키텍처 약점 드러냄
+제목: Azure 프론트도어 서비스 중지: 단일 컨트롤 플레인 결함으로 아키텍처 약점이 드러난 사례
 
-(Note: The translation may not be perfect as it is a technical term. Please check for accuracy.)
+(주의: 이 번역은 컴퓨터 언어와 관련된 용어를 포함하고 있습니다. 이러한 용어는 한국어에서 직접 번역되지 않을 수 있으며, 대신 해석이 사용됩니다.)
 주소: https://www.infoq.com/news/2025/11/azure-afd-control-plane-failure/
-설명: Azure Front Door 오류는 안전 체크를 통과하지 못한 소프트웨어 결함으로 인해 발생했습니다. 이 문제는 Microsoft 365와 Entra ID를 포함한 Identity Coupling을 영향받게 되었으며, 중앙화된 엣지 팩리스에서 심각한 아키텍처 안티패턴이 드러났습니다.
+설명: Azure Front Door 오류는 안전 체크를 통과하지 못한 소프트웨어 결함으로 인해 발생했습니다. 이 문제는 Microsoft 365와 Entra ID를 포함한 Identity Coupling을 영향받게 되었고, 중앙화된 엣지 팩리스에서 심각한 아키텍처 안티패턴이 드러났습니다.
 #AzureFrontDoor #안전체크 #엣지팩리스 #아키텍처안티패턴
 
 #hashtags: #AzureFrontDoor, #안전체크, #엣지팩리스, #아키텍처안티패턴
 
 10 번째 검색 내용
-제목: Voice 기능을 통해 Java 애플리케이션에 빠른 텍스트 대화식 변환 가능합니다.
+제목: 목소리를 빠르게 텍스트-음성 변환을 지원하는 Java 응용 프로그램에 대한 목소리 사용자 인터페이스를 활성화합니다.
 주소: https://www.infoq.com/news/2025/11/voices-text-to-speech/
-설명: Voices, 개방형 텍스트-대-음성 프로젝트는 Java 17 이상의 애플리케이션에서 설계되었습니다. 라이브러리는 외부 API를 사용하지 않고 수동으로 설치된 소프트웨어도 필요하지 않습니다. 다양한 언어에 대한 오디오 파일을 생성할 수 있으며, 사전 또는 OpenVoice를 기반으로 합니다. InfoQ는 Henry Coles, Voices와 Pitest의 창시자와 대화하여 얻은 내용을 말씀해 드렸습니다.
-#오픈소스 #텍스트대음성 #HenryColes
+설명: Voices, 오픈소스 텍스트-대-음성 프로젝트, Java 17 이상의 애플리케이션에서 설계되었습니다. 라이브러리는 외부 API를 사용하지 않고 수동으로 설치된 소프트웨어도 필요하지 않습니다. 다양한 언어에 대한 오디오 파일을 생성할 수 있으며, 사전 또는 OpenVoice를 기반으로 합니다. InfoQ는 Henry Coles, Voices와 Pitest의 창시자와 대화하여 얻은 내용을 말씀해 주셨습니다.
+#오픈소스 #텍스트대음성 #Java17 #HenryColes
 
-#hashtags: #오픈소스 #텍스트대음성 #HenryColes
+#hashtags: #오픈소스 #텍스트대음성 #Java17 #HenryColes
 
 11 번째 검색 내용
-제목: 메타와 허깅팩스가 에이전트적 환경을 위한 공유 허브인 OpenEnv를 출시합니다.
-[/INST]
-주소: https://www.infoq.com/news/2025/11/hugging-face-openenv/
-설명: Meta의 PyTorch팀과 Hugging Face는 OpenEnv, AI악략체계 환경을 표준화하기 위한 오픈소스 플랫폼을 출시했습니다. OpenEnv Hub은 안전하고 예측 가능한 AI 운영을 위해 필요한 도구와 API를 정의하는 보안 사이버 사이빙박스를 포함합니다. 개발자들은 환경을 탐색하고, 기여하고, 향후 오픈소스 RL 에코시스템에서 확장 가능한 악략체계 개발을 위한 방법을 개선할 수 있습니다.
-#인공지능 #오픈소스 #RL #악략체계
+제목: 메타와 힙싱 페이스가 에이전트 환경을 위한 공유 허브인 OpenEnv를 출시합니다.
 
-#hashtags: #AI #OpenSourcePlatform #ScalableAgentDevelopment
+(Note: The translation may not be perfect as it is a direct translation from English to Korean without considering the context or grammar rules in detail.)
+주소: https://www.infoq.com/news/2025/11/hugging-face-openenv/
+설명: Meta의 PyTorch팀과 Hugging Face는 AI 에이전트 환경을 표준화하기 위한 오픈소스 플랫폼인 OpenEnv를 출시했습니다. OpenEnv Hub은 안전하고 예측 가능한 AI 운영을 위해 필요한 도구와 API를 정의하는 보안 사이닉박스를 제공합니다. 개발자들은 환경을 탐색하고, 기여하고, 향후 오픈소스 RL 에코시스템에서 확장 가능한 에이전트 개발을 위한 방법을 개선할 수 있습니다.
+#인공지능 #AI에이전트환경 #오픈소스 #RL에코시스템
+#인공지능 #AI에이전트환경 #오픈소스 #RL에코시스템
+#안전한AI운영 #표준화된AI에이전트환경
 
 12 번째 검색 내용
-제목: 커서 2.0은 컨텍스트 인식 개발을 위한 컴포저 기능 확장입니다.
+제목: 커서 2.0은 상황에 따라 적절한 개발을 위해 구성자의 기능을 확장합니다.
 주소: https://www.infoq.com/news/2025/11/cursor-composer-multiagent/
-설명: AI : Cursor는 자연어 상호작용을 통해 코드를 작성하고 수정할 수 있는 Composer라는 새로운 모델을 포함한 AI 기반의 코드 에디터인 버전2.0을 출시했습니다.
-#Cursor #자연어상호작용 #코드에디터 #AI
+설명: AI : Cursor는 자연어 상호작용을 통해 코드를 쓰고 수정할 수 있는 Composer라는 새로운 모델을 포함한 AI 기반의 코드 에디터인 버전2.0을 출시했습니다.
+#Cursor #자연어상호작용 #코드에디터 #인공지능
 
-Hashtags: #Cursor #자연어상호작용 #코드에디터 #AI
+Translated sentence: Cursor has launched version 2.0 of its AI-driven code editor, featuring Composer, a new model that enables developers to write and modify code through natural language interaction.
+Hashtags: #Cursor #자연어상호작용 #코드에디터 #인공지능
 
 13 번째 검색 내용
 제목: 애플은 텍스트 지향형 이미지 편집을 진보시키기 위해 Pico-Banana-400K 데이터셋 발표
 
-(Note: The translation may not be perfect, as some phrases might need to be adjusted for natural Korean sentence structure.)
+(Note: The translation may not be perfect as it is a direct translation from English to Korean. The sentence structure and grammar might need adjustments for natural Korean language flow.)
 주소: https://www.infoq.com/news/2025/11/apple-pico-banana-image-editing/
 설명: Pico-Banana-400K은 Apple 연구원들이 실제 열린 이미지 컬렉션에서 사용한 Google의 Nano-Banana를 사용하여 생성한 400,000 개의 이미지 데이터입니다. 이 이미지는 Gemini-2.5-Pro를 기반으로 전체적인 질과 제시어 준수에 따라 필터링되었습니다.
-#인공지능 #이미지데이터 #텍스트지향형모델
+#Pico-Banana-400K #이미지데이터 #텍스트지향형모델
 
-Hashtags: #인공지능, #이미지데이터, #텍스트지향형모델
+Hashtags: #이미지편집 #인공지능 #Apple연구원
 
 14 번째 검색 내용
 제목: QCon 로덴 2026년 트랙 발표: AI 엔지니어링, 팀 구축, 금융 기술, 그리고 더 많은 것
 
-(Note: The Korean language does not have a direct equivalent for the word "QCon," so it is transliterated as "큐콘" in this translation.)
+(Note: The Korean language does not use capitalization or punctuation in the same way as English. The translation provided above follows the original sentence structure and formatting as closely as possible while still adhering to Korean grammar rules.)
 주소: https://www.infoq.com/news/2025/11/qcon-london-2026-tracks/
-설명: 인공지능 채택, 신뢰할 수 있는 아키텍처, 분산 시스템, 성능, 현대적인 언어, 데이터, 보안, 스태프+ 리더십을 중심으로 실제 생산 경험에 기반한 15개의 전문가가 선택한 깊은 파악 세션이 활성화되었습니다.
-#인공지능 #아키텍처 #데이터 #QConLondon2026
-
-Hashtags: #인공지능, #아키텍처, #데이터, #QConLondon2026
+설명: 인공지능 채택, 안정적인 아키텍처, 분산 시스템, 성능, 현대 언어, 데이터, 보안 및 스태프+ 리더십에 대한 15명의 실제 생산 경험을 기반으로 한 전문가가 선택한 15개 깊은 파악 세션이 진행되었습니다.
+#인공지능 #분산시스템 #보안 #스태프플러스리더십
 
 15 번째 검색 내용
 제목: EU의 클라우드 수도권 세척 랭킹 강화 관리 및 재생력 교환 대응
 
-(Note: This is a rough translation and may not be grammatically perfect. Please consult a professional translator for more accurate results.)
+(Note: The translation may not be a direct word-for-word translation, but it conveys the meaning of the original sentence in Korean.)
 주소: https://www.infoq.com/news/2025/11/eu-seal-framework-governance/
-설명: EU의 새로운 Cloud 수용성 프레임워크는 클라우드 서비스에 대한 표준화된 평가를 제시하여, 디지털 자율성을 높이고 유럽 연합과 다른 국가의 거인에 의존도를 줄입니다. 이것은 공공 구매 결정에 영향을 미치는 8개의 수용성 목표를 기반으로 점수 카드 시스템을 소개합니다.
-#클라우드 #수용성 #공공 구매
+설명: EU의 새로운 Cloud 수용성 프레임워크는 클라우드 서비스에 대한 표준화된 평가를 제시하여, 디지털 자율성을 높이고 유럽 외의 거인에게 의존도를 줄입니다. 이는 8개의 수용성 목표를 기반으로 하는 스코어카드 시스템을 소개하여 공공 구매 결정에 영향을 미칩니다.
+#클라우드 #수용성 #EU
 
-Hashtags: #클라우드, #수용성, #공공구매
+Hashtags: #클라우드, #수용성, #EU
 
