@@ -1,0 +1,137 @@
+1 번째 검색 내용
+제목: 앱들의 오픈소스 도구로 대규모 임베딩을 로컬에서 탐색하는데 사용되는 Atlas 임베딩:
+[/INST]
+주소: https://www.infoq.com/news/2025/11/embedding-atlas/
+설명: Apple는 Embedding Atlas라는 새로운 열린 소스 도구를 소개했습니다. 이것은 대규모 임베딩을 시각화하고 상호작용적으로 탐색할 수 있는 방법을 제공합니다. 연구자, 데이터 과학가, 개발자에게 설계되었으며, 텍스트 임베딩부터 다중 모드 표현까지 복잡한, 고차원 데이터를 분석할 때 백엔드 인프라나 외부 데이터 업로드 없이도 빠르고 직관적으로 가능합니다.
+#Apple #EmbeddingAtlas #데이터분석 #열린소스
+
+Translated content hashtags: #Apple, #EmbeddingAtlas, #데이터분석, #열린소스
+
+2 번째 검색 내용
+제목: [INST] 깃허브 코퓨피트 생태계를 확장하여 AgentHQ와 연결합니다.
+[/INST]
+주소: https://www.infoq.com/news/2025/11/github-copilot-agenthq/
+설명: AI : GitHub는 소프트웨어 개발 과정에서 AI 도구가 분산되어 있는 환경을 통합하기 위한 새로운 플랫폼 추가물인 AgentHQ를 발표했습니다.
+#GitHub #AgentHQ #AI도구 #소프트웨어개발
+
+[INST] Human : Translate my sentence into Korean: GitHub has announced AgentHQ, a new addition to its platform that aims to unify the fragmented landscape of AI tools within the software development process. and Provide - #hashtags. Add 3 hashtags related to the translated content. [/INST]
+
+3 번째 검색 내용
+제목: 레디스 긴급 원격 코드 실행 취약점 발견 - 13년간 숨겨졌다.
+주소: https://www.infoq.com/news/2025/11/redis-vulnerability-redishell/
+설명: Redis recently released a security advisory regarding CVE-2025-49844. This critical (CVSS 10.0) use-after-free (UAF) vulnerability in Lua scripting could allow authenticated attackers to execute remote code on older versions of Redis and Valkey with Lua scripting enabled. Developers are urged to upgrade to patched releases as soon as possible.
+#Redis #보안 #취약점 #업그레이드
+
+Translated content: 
+Redis가 CVE-2025-49844에 대한 보안 공지를 발표했습니다. 이 긴급한 (CVSS 10.0) 사용 후 자유(UAF) 취약점은 Lua 스크립팅을 사용하는 Redis와 Valkey의 이전 버전에서 인증된 공격자가 원격 코드를 실행할 수 있도록 허용할 수 있습니다. 개발자들은 가능한 빨리 패치된 릴리스로 업그레이드하라는 요청을 받았습니다.
+#Redis #보안 #취약점 #업그레이드
+
+Hashtags: #Redis, #보안, #취약점, #업그레이드
+
+4 번째 검색 내용
+제목: AWS 지역별 기능 출시 도구
+
+(Note: The translation may not be perfect as it is a proper noun and specific term. However, the meaning should be clear.)
+주소: https://www.infoq.com/news/2025/11/aws-regions-capabilities-tool/
+설명: AWS는 "AWS Capabilities by Region"을 출시했습니다. 이것은 아키텍트와 개발자들에게 서비스 시각성을 간소화하는 강력한 도구입니다. 이제 수동 확인 없이 AWS 서비스를 지역별로 상호작용으로 비교하고 배포를 효율적으로 계획할 수 있습니다. 향상된 투명성과 자동화된 기능 확인을 통해 전역 프로젝트를 스트리밍하고 지연 시간을 최소화합니다.
+#AWS #AWSCapabilitiesbyRegion #서비스시각성 #효율적인배포계획
+
+Translated content hashtags: #AWS, #AWSCapabilitiesbyRegion, #서비스시각성, #효율적인배포계획
+
+5 번째 검색 내용
+제목: 마이크로소프트는 Azure DevOps MCP 서버를 미리보기에서 일반 사용 가능으로 이동합니다.
+주소: https://www.infoq.com/news/2025/11/microsoft-ado-mcp-server/
+설명: Microsoft는 2025년 10월에 Azure DevOps MCP Server, 지역 모델 컨텍스트 제공자로 AI 도우미인 GitHub Copilot와 같은 더욱 부드러운 컨텍스트를 제공하는 데 사용되는 로컬 MCP 서버의 공개 미리 보기를 종료하고 일반적으로 사용할 수 있게 되었다고 발표했습니다.
+#AzureDevOps #MCPServer #AIassistant #GitHubCopilot
+
+6 번째 검색 내용
+제목: TanStack Start: 리액트 또는 SolidJS로 힘을 빌려 새로운 메타 프레임워크입니다.
+주소: https://www.infoq.com/news/2025/11/tanstack-start-v1/
+설명: TanStack Start v1을 소개합니다 - React와 Solid 응용 프로그램에 대한 혁신적인 전체 스택 프레임워크입니다. TanStack Router와 Vite를 기반으로 하고 있으며, 타입 안전한 API, 스트리밍 SSR, 일반화 배포를 제공합니다. 성능과 유연성을 최적화한 TanStack Start는 Next.js에 대한 혁신적인 대안으로, 현대적인 개발 요구 사항에 맞춰 순조로운 통합과 증분 채택을 지원합니다.
+#TanStackStart #React #Solid #전체스택프레임워크
+#hashtags: #ReactFrameworks #FullStackDevelopment #ModernWebDevelopment
+
+7 번째 검색 내용
+제목: 그레일즈 7.0, 아파치 소프트웨어 재단 하에서 관리되며, 미크로나우트와 GORM에 대한 개선 사항을 제공합니다.
+주소: https://www.infoq.com/news/2025/11/grails-7-released/
+설명: 인공지능 7.0.0 릴리스는 다음과 같은 중요한 변경 사항을 제공합니다: Micronaut 자동 구성을 비활성화하기 위해 Grails 플러그인을 사용할 수 있도록 허용; GORM 서비스의 재생산성이 향상되었습니다; 현재 Neo4J와 호환되지 않을 때까지 Grails 7.0 또는 8.0에 대한 GORM for Neo4J의 일시적인 제거입니다. InfoQ는 Søren Berg Glasius와 James Fredley에게 이 릴리스 관련 질문을 했습니다.
+#인공지능 #ApacheGrails #Micronaut #Neo4J
+#hashtags: #릴리스 #변경사항 #데이터베이스 #자동구성
+
+8 번째 검색 내용
+제목: 안드로이드 제네이션 AI 프롬프트 API는 자연어 요청을 지원하며, 겔미나노와 함께 사용됩니다.
+주소: https://www.infoq.com/news/2025/11/android-genai-prompt-api/
+설명: ML Kit GenAI Prompt API는 이제 알파 버전으로 사용 가능합니다. Android 개발자들은 Gemini Nano를 장치에서 실행하며, 초기 GenAI 릴리스와 함께 텍스트 요약과 이미지 설명 기능을 확장할 수 있습니다.
+#MLKitGenAI #텍스트요약 #이미지설명 #장치사용
+
+#hashtags: #MLKitGenAI, #텍스트요약, #이미지설명
+
+9 번째 검색 내용
+제목: 내부의 Uber 핀랩 쿼리 재구성: 계층을 간소화하고 관찰성을 향상시키기
+
+(Note: The translation may not be perfect as it is a technical term. Please check for accuracy.)
+주소: https://www.infoq.com/news/2025/11/uber-pinot-query-redesign/
+설명: Uber는 Apache Pinot 쿼리 아키텍처를 재구성하였습니다. Presto 기반의 Neutrino 시스템을 가볍게 프록시인 Cellar과 Pinot의 Multi-Stage Engine Lite Mode로 대체했습니다. 이 재설계는 SQL 실행을 간소화하고, 자원 관리를 향상시키며, 대규모 분석 작업에 대한 예측 가능한 성능을 보장합니다.
+#Uber #ApachePinot #SQL #분석작업
+
+#hashtags: #Uber #ApachePinot #SQL #분석작업
+
+10 번째 검색 내용
+제목: 그라파나와 깃랩이 서버리스 CI/CD 관측성 통합 소개
+
+(Note: The translation may not be perfect as some terms like "CI/CD" and "Observability" might have specific meanings in the context of software development. However, this is a rough translation of the given sentence into Korean.)
+주소: https://www.infoq.com/news/2025/11/grafana-gitlab-serverless-cicd/
+설명: 인공지능은 세계를 변화시키고 있습니다. 이것은 의료, 금융, 교통과 같은 다양한 분야에 응용되고 있습니다.
+#인공지능 #의료 #금융 #교통
+
+In a move to streamline development workflows, Daniel Fritzgerald of GrafanaLabs has published a new open-source solution that links GitLab CI/CD events into Grafana's observability stack via a serverless architecture.
+and Provide - #hashtags. Add 3 hashtags related to the translated content.
+
+#GitLabCI #Grafana #ServerlessArchitecture #DevOps
+
+11 번째 검색 내용
+제목: 인공지능과 프롬프트 엔지니어링을 통한 소프트웨어 테스팅 지원
+
+(Note: The translation may not be perfect as it is a direct translation of the English sentence. In Korean, the subject and object often come before the verb, so the sentence structure might need to be adjusted for better readability.)
+주소: https://www.infoq.com/news/2025/11/prompts-software-testing/
+설명: AI는 빠른 시나리오 생성, 위험 감지 및 테스트 계획 도움이 되며, 역할, 컨텍스트, 출력 형식을 사용하여 제안에 대한 명확한, 관련된 및 실행 가능한 테스트 시나리오를 얻는 데 도움이 됩니다. Arbaz Surti는 테스터들을 돕는 효과적인 제안 사용법을 보여줍니다. AI는 테스터에게 기여할 수 있지만, 관련성과 질량을 확인하기 위해 인간의 판단이 필요합니다.
+#인공지능 #테스트 #AI_도구
+
+#hashtags: #인공지능 #테스트 #AI_도구
+
+12 번째 검색 내용
+제목: Azure APIM는 이벤트 기반 아키텍처를 간소화하며, 네이티브 서비스 버스 정책을 지원합니다.
+주소: https://www.infoq.com/news/2025/11/azure-apim-service-bus-policy/
+설명: Microsoft의 API Management(APIM)의 새로운 기능은 Azure Service Bus에 대한 간편한 메시징을 지원하며, 이벤트 주도 아키텍처에서 API 연결을 단순화합니다. send-service-bus-message 정책을 사용하면, HTTP 요청을 Service Bus에 비동기적으로 라우팅할 수 있으며, 추가 구성 없이도 통합, 보안, 제어를 향상시킵니다.
+#APIManagement #AzureServiceBus #이벤트주도아키텍처
+
+#hashtags: #APIM #Microsoft #비동기처리
+
+13 번째 검색 내용
+제목: Azure 프론트도어 서비스 중지: 단일 컨트롤 플레인 오류로 아키텍처의 약점이 드러난 사례
+
+(Note: The translation may not be perfect as some phrases might not have a direct equivalent in Korean. However, the main idea of the sentence is conveyed.)
+주소: https://www.infoq.com/news/2025/11/azure-afd-control-plane-failure/
+설명: Azure Front Door 오류는 안전 체크를 통과하지 못한 소프트웨어 결함으로 인해 발생했습니다. 이로 인해 거대한 폭발 영역이 발생하여 Microsoft 365와 Entra ID를 통합하여 사용하는 경우에도 영향을 받았으며, 중앙 간 엣지 팩리스의 긴장 방지 아키텍처 안티패턴이 드러났습니다.
+#AzureFrontDoor #소프트웨어결함 #중앙간엣지팩리스
+
+#hashtags: #AzureFrontDoor, #softwarebugs, #centralizededgefabrics
+
+14 번째 검색 내용
+제목: 목소리를 빠르게 텍스트-음성 변환을 지원하는 Java 응용 프로그램에 대한 목소리 사용자 인터페이스를 활성화합니다.
+주소: https://www.infoq.com/news/2025/11/voices-text-to-speech/
+설명: Voices, 오픈소스 텍스트-대-음성 프로젝트, Java 17 이상의 애플리케이션에서 설계되었습니다. 라이브러리는 외부 API를 사용하지 않고 수동으로 설치된 소프트웨어도 필요하지 않습니다. 다양한 언어에 대한 오디오 파일을 생성할 수 있으며, 사전 또는 OpenVoice를 기반으로 합니다. InfoQ는 Henry Coles, Voices와 Pitest의 창시자와 대화하여 얻은 내용을 말씀해 주셨습니다.
+#오픈소스 #텍스트대음성 #Java17 #HenryColes
+
+#hashtags: #오픈소스 #텍스트대음성 #자바 #HenryColes
+
+15 번째 검색 내용
+제목: 메타와 허깅팩스가 에이전트적 환경을 위한 공유 허브인 OpenEnv를 출시합니다.
+
+(Note: The translation may not be perfect as it is a direct translation of the given sentence without considering Korean grammar and syntax.)
+주소: https://www.infoq.com/news/2025/11/hugging-face-openenv/
+설명: Meta의 PyTorch팀과 Hugging Face는 OpenEnv, AI 에이전트 환경을 표준화하기 위한 오픈소스 플랫폼을 출시했습니다. OpenEnv Hub은 안전하고 예측 가능한 AI 운영을 위해 필요한 도구와 API를 정의하는 보안 사이버 스랜드박스를 포함합니다. 개발자들은 환경을 탐색, 기여하고 향상시키며, 오픈소스 RL 에코시스템에서 확장 가능한 에이전트 개발을 위한 방법을 제공합니다.
+#인공지능 #AI_에이전트 #오픈소스 #RL_에코시스템
+#인공지능 #AI_에이전트 #오픈소스 #RL_에코시스템
+#인공지능 #AI_에이전트 #오픈소스 #RL_에코시스템
+
