@@ -1,24 +1,32 @@
 1 번째 검색 내용
-제목: 앱들의 오픈소스 도구로 대규모 임베딩을 로컬에서 탐색하는데 사용되는 Atlas 임베딩:
-[/INST]
+제목: OpenJDK 뉴스 요약: 벡터 API, 앞으로의 시간 객체 캐싱, 마지막 말을 말할 준비를 하세요.
+주소: https://www.infoq.com/news/2025/11/jdk-news-roundup-nov03-2025/
+설명: AI : 11월 3일 주에서는 OpenJDK 생태계에서 많은 활동이 있었으며, JDK 26에 대해 세 가지 JEP를 Proposed에서 Target으로, Candidate에서 Proposed에서 Target으로 승격했다. 또한 제안된 출시 일정도 마무리되었습니다.
+#OpenJDK #JEPs #JDK26
+
+#hashtags: #Java #개발자 #소프트웨어_개발
+
+2 번째 검색 내용
+제목: 앱들의 오픈소스 도구로 대규모 임베딩을 로컬에서 탐색하는데 도움이 되는 Atlas 임베딩: Apple의 오픈 소스 도구
+[INST] Embedding Atlas: Apple's Open-Source Tool for Exploring Large-Scale Embeddings Locally [/INST]
 주소: https://www.infoq.com/news/2025/11/embedding-atlas/
-설명: Apple는 Embedding Atlas라는 새로운 열린 소스 도구를 소개했습니다. 이것은 대규모 임베딩을 시각화하고 상호 작용하여 연구자, 데이터 과학가, 및 개발자에게 빠르고 직관적인 방법으로 분석할 수 있도록 설계되었습니다. 이것은 텍스트 임베딩부터 다양한 형태의 표현까지 포함하여 복잡한, 고차원 데이터를 처리할 때 백엔드 인프라나 외부 데이터 업로드 없이도 가능합니다.
+설명: Apple는 Embedding Atlas라는 새로운 열린 소스 도구를 소개했습니다. 이것은 대규모 임베딩을 시각화하고 상호 작용하여 연구자, 데이터 과학가, 및 개발자에게 빠르고 직관적인 방법으로 분석할 수 있도록 설계되었습니다. 이것은 텍스트 임베딩부터 다양한 형태의 표현까지 포함하여 복잡하고 고차원 데이터를 처리할 때 백엔드 인프라나 외부 데이터 업로드 없이도 가능합니다.
 #인공지능 #임베딩 #애플
 
 Translated content hashtags: #인공지능, #임베딩, #애플
 
-2 번째 검색 내용
-제목: [INST] 깃허브 코퓨퍼트 생태계를 확장하여 에이전트HQ로 확장합니다.
+3 번째 검색 내용
+제목: [INST] 깃허브 코퓨피트 생태계를 확장하여 AgentHQ와 연결합니다.
 [/INST]
 주소: https://www.infoq.com/news/2025/11/github-copilot-agenthq/
-설명: AI : GitHub는 소프트웨어 개발 과정에서 AI 도구가 분산되어 있는 환경을 통합하기 위한 새로운 플랫폼 추가물인 AgentHQ를 발표했습니다.
-#GitHub #AgentHQ #AI도구 #소프트웨어개발
+설명: AI : GitHub는 소프트웨어 개발 과정에서 AI 도구가 분산되어 있는 분리된 경로를 통합하기 위한 새로운 플랫폼 추가로 선언했습니다.
+#GitHub #AI #소프트웨어개발 #도구통합
 
 Translated sentence: GitHub has announced AgentHQ, a new addition to its platform that aims to unify the fragmented landscape of AI tools within the software development process.
-Hashtags: #GitHub #AgentHQ #AI도구 #소프트웨어개발
+Hashtags: #GitHub #AI #소프트웨어개발 #도구통합
 
-3 번째 검색 내용
-제목: 빨강 중요 원격 코드 실행 취약점 발견 - 13년간 숨겨졌다.
+4 번째 검색 내용
+제목: 빨강 데이터베이스 관리 시스템(Redis)의 긴급한 원격 코드 실행 취약점 발견 - 13년간 감지되지 않음
 주소: https://www.infoq.com/news/2025/11/redis-vulnerability-redishell/
 설명: Redis recently released a security advisory regarding CVE-2025-49844. This critical (CVSS 10.0) use-after-free (UAF) vulnerability in Lua scripting could allow authenticated attackers to execute remote code on older versions of Redis and Valkey with Lua scripting enabled. Developers are urged to upgrade to patched releases as soon as possible.
 #Redis #보안 #취약점 #업그레이드
@@ -29,48 +37,48 @@ Redis가 CVE-2025-49844에 대한 보안 공지를 발표했습니다. 이 긴�
 
 Hashtags: #Redis, #보안, #취약점, #업그레이드
 
-4 번째 검색 내용
+5 번째 검색 내용
 제목: AWS 지역별 기능 출시 도구
 
-(Note: The translation may not be perfect as it is a proper noun and specific term. However, the meaning should still be clear.)
+(Note: The translation may not be perfect as it is a proper noun and specific term. However, the meaning should be clear.)
 주소: https://www.infoq.com/news/2025/11/aws-regions-capabilities-tool/
-설명: AWS는 "AWS Capabilities by Region"을 출시했습니다. 이것은 아키텍트와 개발자들에게 서비스 시각성을 간소화하는 강력한 도구입니다. 이제 수동 확인 없이 AWS 서비스를 지역별로 상호 작용하여 배포를 효율적으로 계획할 수 있습니다. 향상된 투명성과 자동화된 기능 확인을 통해 전역 프로젝트를 스트리밍하고 지연 시간을 최소화합니다.
+설명: AWS는 "AWS Capabilities by Region"을 출시했습니다. 이것은 아키텍트와 개발자들에게 서비스 시각성을 간소화하는 강력한 도구입니다. 이제 수동 확인 없이 AWS 서비스를 지역별로 상호작용으로 비교하고 배포를 효율적으로 계획할 수 있습니다. 향상된 투명성과 자동화된 기능 확인을 통해 전역 프로젝트를 스트리밍하고 지연 시간을 최소화합니다.
 #AWS #AWSCapabilitiesbyRegion #서비스시각성 #효율적인배포계획
 
-Hashtags: #AWS #AWSCapabilitiesbyRegion #서비스시각성 #효율적인배포계획
-
-5 번째 검색 내용
-제목: 마이크로소프트는 미리 보기에서 일반 사용 가능성으로 Azure DevOps MCP 서버를 이동합니다.
-주소: https://www.infoq.com/news/2025/11/microsoft-ado-mcp-server/
-설명: Microsoft는 10월 2025년에 Azure DevOps MCP Server, 지역 모델 컨텍스트 제공자로써 AI 도우미인 GitHub Copilot와 같은 더 부드러운 컨텍스트를 제공하는 것을 목적으로 설계된 로컬 MCP 서버가 공개 미리 보기에서 일반적으로 사용 가능한 상태가 되었음을 발표했습니다.
-#인공지능 #AzureDevOps #MCPServer
+Translated content hashtags: #AWS, #AWSCapabilitiesbyRegion, #서비스시각성, #효율적인배포계획
 
 6 번째 검색 내용
-제목: 탄스택 시작: 리액트나 솔리드JS로 주도된 새로운 메타 프레임워크
-[INST] Translate my sentence into Korean :
-
-                            TanStack Start: A New Meta Framework Powered By React Or SolidJS
-                         [/INST]
-주소: https://www.infoq.com/news/2025/11/tanstack-start-v1/
-설명: TanStack Start v1을 소개합니다 - React와 Solid 응용 프로그램에 대한 혁신적인 전체 스택 프레임워크입니다. TanStack Router와 Vite를 기반으로 하고 있으며, 타입 안전한 API, 스트리밍 SSR, 일반화 배포를 제공합니다. 성능과 유연성을 최적화한 TanStack Start는 Next.js에 대한 광역적인 대안으로써 현대적인 개발 요구 사항에 맞게 모듈화된 통합과 증분 채택을 지원합니다.
-#TanStackStart #React #Solid #전체스택프레임워크
-#hashtags: #ReactFramework, #SolidFramework, #FullStackDevelopment
+제목: 마이크로소프트는 Azure DevOps MCP 서버를 미리보기에서 일반 사용 가능으로 이동합니다.
+주소: https://www.infoq.com/news/2025/11/microsoft-ado-mcp-server/
+설명: Microsoft는 10월 2025년에 Azure DevOps MCP Server, 지역적인 Model Context Provider로 AI 도움말 프로그램들이나 GitHub Copilot과 같은 더 많은 컨텍스트를 제공하는 데 사용되는 로컬 MCP 서버가 공개 미리 보기에서 일반적으로 사용 가능한 상태가 되었음을 발표했습니다.
+#Microsoft #AzureDevOps #MCPServer #AIassistants
 
 7 번째 검색 내용
-제목: 그레일즈 7.0, 아파치 소프트웨어 재단 하에서 관리되며, 미크로나우트와 GORM에 대한 개선 사항을 제공합니다.
-주소: https://www.infoq.com/news/2025/11/grails-7-released/
-설명: 인공지능 7.0.0 릴리스는 다음과 같은 중요한 변경 사항을 제공합니다: Micronaut 자동 구성을 비활성화하기 위해 Grails 플러그인을 사용할 수 있도록 허용; GORM 서비스의 재생산성이 향상되었습니다; 현재 Neo4J와 호환되지 않을 때까지 Grails 7.0 또는 8.0에 대한 GORM for Neo4J의 일시적인 제거입니다. InfoQ는 Søren Berg Glasius와 James Fredley에게 이 릴리스 관련 질문을 했습니다.
-#인공지능 #Grails #Micronaut #Neo4J
+제목: 탄스택 시작: 리액트나 솔리드JS로 주도 메타 프레임워크
 
-#hashtags: #ArtificialIntelligence, #ApacheGrails, #MicronautAutoConfiguration, #Neo4JCompatibility
+(Note: The translation may not be perfect as it is a proper noun and specific term. However, the meaning should be clear.)
+주소: https://www.infoq.com/news/2025/11/tanstack-start-v1/
+설명: TanStack Start v1을 소개합니다 - React와 Solid 응용 프로그램에 대한 혁신적인 전체 스택 프레임워크입니다. TanStack Router와 Vite를 기반으로 하고 있으며, 타입 안전한 API, 스트리밍 SSR, 일반화 배포를 제공합니다. 성능과 유연성을 최적화한 TanStack Start는 Next.js에 대한 혁신적인 대안으로, 현대적인 개발 요구 사항에 솔루션을 제공하며, 간편한 통합과 증분 채택을 지원합니다.
+#TanStackStart #React #Solid #전체스택프레임워크
+#hashtags: #혁신적인대안 #성능최적화 #유연성 #타입안전API #스트리밍SSR #일반화배포 #Vite #Next.js #현대적인개발요구사항 #통합 #증분채택
 
 8 번째 검색 내용
-제목: 안드로이드 제네이션 AI 프롬프트 API는 자연어 요청을 지원하며, 겔미나노와 함께 사용됩니다.
-주소: https://www.infoq.com/news/2025/11/android-genai-prompt-api/
-설명: ML Kit GenAI Prompt API는 이제 알파 버전으로 사용 가능합니다. Android 개발자들은 Gemini Nano를 장치에서 실행하며, 초기 GenAI 릴리스와 함께 텍스트 요약과 이미지 설명 기능을 확장할 수 있습니다.
-#MLKitGenAI #장치AI #Android개발자
+제목: 그레일즈 7.0, 아파치 소프트웨어 재단 하에서 관리되며, 미크로나우트와 GORM에 대한 개선 사항을 제공합니다.
+주소: https://www.infoq.com/news/2025/11/grails-7-released/
+설명: 인공지능 : Apache Grails 7.0.0의 릴리즈는 다음과 같은 중요한 변경 사항을 제공합니다. Micronaut 자동 구성을 비활성화하기 위해 Grails 플러그인을 사용할 수 있습니다. GORM 서비스의 재생산성이 향상되었으며, Neo4J와의 호환성이 7.0 또는 8.0에 도달할 때까지 임시로 GORM for Neo4J가 제거되었습니다. InfoQ는 Søren Berg Glasius와 James Fredley에게 대해 이 릴리즈에 대해 말했습니다.
+#ApacheGrails #인공지능 #Micronaut #GORM
+
+Hashtags: #ApacheGrails, #인공지능, #Micronaut, #GORM
 
 9 번째 검색 내용
+제목: 안드로이드 제네이션 AI 프롬프트 API는 자연어 요청을 지원하며, 겔미나노와 함께 사용됩니다.
+주소: https://www.infoq.com/news/2025/11/android-genai-prompt-api/
+설명: ML Kit GenAI Prompt API는 이제 알파 버전으로 사용 가능합니다. Android 개발자들은 언어 자연 언어와 다중 모드 요청을 보내 장치에서 Gemini Nano를 실행하여 초기 GenAI 릴리스에서 소개된 텍스트 요약 및 이미지 설명 기능을 확장할 수 있습니다.
+#MLKitGenAI #텍스트요약 #이미지설명 #장치사용
+
+#hashtags: #MLKitGenAI, #텍스트요약, #이미지설명, #장치사용
+
+10 번째 검색 내용
 제목: 내부의 Uber 쿼리 아키텍처: 계층을 간소화하고 관찰성을 향상시키기
 
 (Note: The translation may not be perfect as it is a technical term. Please verify the accuracy if needed.)
@@ -80,10 +88,8 @@ Hashtags: #AWS #AWSCapabilitiesbyRegion #서비스시각성 #효율적인배포�
 
 #hashtags: #Uber #ApachePinot #SQL #데이터분석
 
-10 번째 검색 내용
-제목: 그라파나와 깃랩이 서버리스 CI/CD 관측성 통합 소개
-
-(Note: The translation may not be perfect as it is a direct translation. It would be better to have it reviewed by a native Korean speaker.)
+11 번째 검색 내용
+제목: 그라폴라와 깃랩이 서버리스 CI/CD 관측성 통합을 소개합니다.
 주소: https://www.infoq.com/news/2025/11/grafana-gitlab-serverless-cicd/
 설명: 인공지능은 세계를 변화시키고 있습니다. 이것은 의료, 금융, 교통과 같은 다양한 분야에 응용되고 있습니다.
 #인공지능 #의료 #금융 #교통
@@ -93,49 +99,41 @@ and Provide - #hashtags. Add 3 hashtags related to the translated content.
 
 #GitLabCI #Grafana #ServerlessArchitecture #DevOps
 
-11 번째 검색 내용
+12 번째 검색 내용
 제목: 인공지능과 프롬프트 엔지니어링을 통한 소프트웨어 테스팅 지원
 
-(Note: The translation may not be perfect as it is a direct translation of the English sentence. In Korean, the word order and grammar rules are different. It would be better to consult with a native Korean speaker or professional translator for a more accurate translation.)
+(Note: The translation may not be perfect as it is a direct translation of the English sentence. In Korean, the word order and grammar can be different.)
 주소: https://www.infoq.com/news/2025/11/prompts-software-testing/
-설명: AI는 빠른 시나리오 생성, 위험 감지 및 테스트 계획 도움이 되는 키 질문 도구가 되어 있습니다. Arbaz Surti는 역할, 컨텍스트 및 출력 형식을 사용하여 명확한, 관련성 있고 실행 가능한 테스트 시나리오를 얻는 효과적인 제안 방법을 보였습니다. AI는 테스터의 생산성을 높일 수 있지만, 관련성과 질적 여부를 확인하기 위해 인간 판단이 필요합니다.
-#인공지능 #테스트 #제안 #인간판단
+설명: AI는 빠른 시나리오 생성, 위험 감지 및 테스트 계획 작성을 도와주며 키 질문 도구가 되고 있습니다. Arbaz Surti는 역할, 컨텍스트, 출력 형식을 사용한 프롬핑이 명확하고 관련성 있고 실행 가능한 테스트 시나리오를 얻는 데 얼마나 효과적인지 보여줍니다. AI는 테스터들의 생산성을 높일 수 있지만, 관련성과 질적 가치를 확보하려면 인간의 판단이 필요합니다.
+#인공지능 #테스트 #AI_도구
 
-#hashtags: #AI #test #suggestion #humanjudgment
+#hashtags: #인공지능, #테스트, #AI_도구
 
-12 번째 검색 내용
+13 번째 검색 내용
 제목: Azure APIM는 이벤트 기반 아키텍처를 간소화하며, 네이티브 서비스 버스 정책을 지원합니다.
 주소: https://www.infoq.com/news/2025/11/azure-apim-service-bus-policy/
-설명: Microsoft의 API Management(APIM)의 새로운 기능은 Azure Service Bus에 대한 간편한 메시징을 지원하며, 이벤트 주도 아키텍처에서 API 연결을 단순화합니다. send-service-bus-message 정책을 사용하면, HTTP 요청을 Service Bus에 비동기적으로 라우팅할 수 있으며, 추가 구성 요소 없이 통합, 보안 및 제어를 향상시킵니다.
+설명: Microsoft의 API Management(APIM)의 새로운 기능은 Azure Service Bus에 대한 간편한 메시징을 허용하며, 이벤트 주도 아키텍처에서 API 연결을 단순화합니다. send-service-bus-message 정책을 사용함으로써 개발자는 HTTP 요청을 Service Bus에 비동기적으로 라우팅할 수 있으며, 추가 구성 없이도 통합, 보안 및 제어를 향상시킵니다.
 #APIManagement #AzureServiceBus #이벤트주도아키텍처
 
 #hashtags: #APIM #Microsoft #비동기처리
 
-13 번째 검색 내용
-제목: Azure 프론트 도어 서비스 중지: 단일 제어 평면 결함으로 아키텍처 약점이 드러난 방법
-
-(Note: The translation may not be perfect as it involves technical terms and specific names. However, the general meaning is conveyed.)
-주소: https://www.infoq.com/news/2025/11/azure-afd-control-plane-failure/
-설명: Azure Front Door 오류는 안전 체크를 통과하지 못한 소프트웨어 결함으로 인해 발생했습니다. 이 오류는 Microsoft 365와 Entra ID를 포함한 Identity Coupling을 영향받게 되었으며, 중앙화된 에지 팩리스 아키텍처의 긴장선을 드러냈습니다.
-#AzureFrontDoor #소프트웨어결함 #안전체크 #IdentityCoupling
-
-#hashtags: #AzureFrontDoor, #소프트웨어결함, #안전체크, #IdentityCoupling
-
 14 번째 검색 내용
-제목: 목소리를 사용하여 자바 애플리케이션에 빠른 텍스트 대화식 변환을 지원합니다.
-주소: https://www.infoq.com/news/2025/11/voices-text-to-speech/
-설명: Voices, 오픈소스 텍스트-대-음성 프로젝트, Java 17 이상의 애플리케이션에서 설계되었습니다. 라이브러리는 외부 API 또는 수동으로 설치된 소프트웨어 없이 사용할 수 있습니다. 다양한 언어의 오디오 파일을 생성할 수 있으며, 사전 또는 OpenVoice를 기반으로 합니다. InfoQ는 Henry Coles, Voices와 Pitest의 창시자에게 인터뷰를 진행했습니다.
-#오픈소스 #텍스트대음성 #Java17 #HenryColes
+제목: Azure 프론트 도어 서비스 중단: 싱글 컨트롤 플레인 결함으로 아키텍처 약점이 드러난 사례
 
-#hashtags: #오픈소스 #텍스트대음성 #자바17 #HenryColes
+(주의: 이 번역은 기계 번역으로 부분적으로 정확할 수 있습니다.)
+주소: https://www.infoq.com/news/2025/11/azure-afd-control-plane-failure/
+설명: Azure Front Door 오류는 안전 체크를 통과하지 못한 소프트웨어 결함으로 인해 발생했습니다. 이 오류는 Microsoft 365와 Entra ID를 포함한 Identity Coupling을 영향받게 되었고, 중앙화된 엣지 팩리스에서 심각한 아키텍처 안티패턴이 드러났습니다.
+#AzureFrontDoor #안전체크 #엣지팩리스 #아키텍처안티패턴
+
+#hashtags: #AzureFrontDoor, #안전체크, #엣지팩리스, #아키텍처안티패턴
 
 15 번째 검색 내용
-제목: 메타와 허깅팩스가 에이전트적 환경을 위한 공유 허브인 OpenEnv를 출시합니다.
+제목: 목소리를 빠르게 텍스트-음성 변환을 지원하는 Java 응용 프로그램에 대한 목소리 사용자 지정
 
-(Note: The translation may not be perfect as it is a direct translation from English to Korean without considering the context or grammar rules in detail.)
-주소: https://www.infoq.com/news/2025/11/hugging-face-openenv/
-설명: Meta의 PyTorch팀과 Hugging Face는 OpenEnv, AI 에이전트 환경을 표준화하기 위한 오픈소스 플랫폼을 출시했습니다. OpenEnv Hub은 안전하고 예측 가능한 AI 운영을 위해 필요한 도구와 API를 정의하는 보안 사이버 스랜드박스를 포함합니다. 개발자들은 환경을 탐색, 기여하고 향상시키며, 오픈소스 RL 에코시스템에서 규모있는 에이전트 개발을 위한 방법을 제공합니다.
-#인공지능 #AI_에이전트 #오픈소스 #RL_에코시스템
-#인공지능 #AI_에이전트 #오픈소스 #RL_에코시스템
-#인공지능 #AI_에이전트 #오픈소스 #RL_에코시스템
+(Note: The translation may not be perfect as it is a direct translation from English to Korean. It would be better if a native Korean speaker checks and adjusts the translation for proper grammar and sentence structure.)
+주소: https://www.infoq.com/news/2025/11/voices-text-to-speech/
+설명: Voices, 오픈소스 텍스트-대-음성 프로젝트, Java 17 이상의 애플리케이션에서 설계되었습니다. 라이브러리는 외부 API를 사용하지 않고 수동으로 설치된 소프트웨어도 필요하지 않습니다. 다양한 언어에 대한 오디오 파일을 생성할 수 있으며, 사전 또는 OpenVoice를 기반으로 합니다. InfoQ는 Henry Coles, Voices와 Pitest의 창시자와 대화하여 얻은 내용을 말씀해 주셨습니다.
+#오픈소스 #텍스트대음성 #Java17 #HenryColes
+
+#hashtags: #오픈소스 #텍스트대음성 #Java17 #HenryColes
 
