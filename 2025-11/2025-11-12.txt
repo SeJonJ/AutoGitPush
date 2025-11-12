@@ -1,77 +1,97 @@
 1 번째 검색 내용
-제목: 인간적 찾기 LLM는 작은 문서 수로 독성 물질로 침범될 수 있습니다.
-주소: https://www.infoq.com/news/2025/11/anthropic-poison-attack/
-설명: Anthropic의 Alignment Science팀은 LLM 교육에서 독성 공격에 대한 연구를 발표했습니다. 실험은 모델 크기와 데이터셋에 대해 다양한 범위를 커버하며, 전처리 데이터에 250개의 독성 예시만으로 "백도어" 취약점을 생성할 수 있음을 발견했습니다. Anthropic은 모델이 확장되면서 이러한 공격이 실제로 더 쉽게 된다는 결론을 내었습니다.
-#인공지능 #LLM #독성_공격
+제목: 구글 클라우드는 분산 시스템용 책임 경험 프레임워크와 레시피를 소개합니다.
+주소: https://www.infoq.com/news/2025/11/google-chaos-engineering/
+설명: Google Cloud의 전문 서비스 팀은 클라우드 기반 분산 시스템에 대한 책임 공유 엔지니어링에 대한 자세한 가이드를 발표했습니다. 이 가이드는 목적적인 실패의 생성이 강력한 아키텍처를 개발하는 데 필수적임을 강조합니다. 이 초기에는 Google Cloud 환경에서 제어된 방해 테스트를 적용하는 데 도움이 되는 오픈 소스 레시피와 유용한 가이드를 제공합니다.
+#클라우드 #책임 공유 엔지니어링 #Google Cloud
 
-#hashtags: #인공지능, #LLM, #독성_공격
+Hashtags: #클라우드, #책임 공유 엔지니어링, #Google Cloud
 
 2 번째 검색 내용
-제목: 클라우드플레어가 퀘스트 기반 TLS 성능 문제를 해결하기 위해 머클 트리 인증서 제안
+제목: 새로운 클로드 하쿠 4.5 모델 제안: 더 빠른 성능, 1/3의 비용
 
-(Note: The translation may not be perfect as it's a technical term. Please double-check the translation if necessary.)
+[INST] Translate my sentence into Korean : 
+                            New Claude Haiku 4.5 Model Promises Faster Performance at One-Third the Cost
+                         [/INST]
+주소: https://www.infoq.com/news/2025/11/claude-haiku-4-5-release/
+설명: Anthropic는 Claude Haiku 4.5를 발표하여 모든 사용자에게 최신 작품 범주의 작은, 빠른 모델로 제공합니다. 회사는 새로운 모델을 Claude Sonnet 4과 같은 성능 수준을 제공하며, 이전에 5개월 전에 최신 기술으로 출시된 상태의 모델보다 "1/3의 비용과 2배 이상의 속도"로 위치시킵니다.
+#인공지능 #모델 #Anthropic
+
+Translated content hashtags: #AI, #model, #Anthropic
+
+3 번째 검색 내용
+제목: 인간적 찾기 LLM는 작은 문서 수로 독성 물질에 노출될 수 있습니다.
+주소: https://www.infoq.com/news/2025/11/anthropic-poison-attack/
+설명: Anthropic의 Alignment Science팀은 LLM 교육에 독성 공격이 발생한 것에 대한 연구를 발표했습니다. 실험은 모델 크기와 데이터셋의 다양한 범위를 커버하며, 전처리 데이터에 250개의 독성 예시만 필요로 했습니다. Anthropic은 이러한 공격이 모델이 확장되면서 더욱 쉬워진다는 결론을 내었습니다.
+#인공지능 #LLM #독성공격
+
+#hashtags: #인공지능, #LLM, #독성공격
+
+4 번째 검색 내용
+제목: 클라우드플레어가 퀘스트 기반 TLS 성능 이슈를 해결하기 위해 머클 트리 인증서 제안
+
+(Note: The translation may not be perfect as it is a technical term. Please double-check the translation for accuracy.)
 주소: https://www.infoq.com/news/2025/11/cloudflare-merkle-tree-certifica/
-설명: Cloudflare의 혁신적인 Merkle Tree Certificates(MTCs)는 WebPKI를 변화시키며, 양자산수학(Post-Quantum, PQ) 암호화에 성능 감소 없이 순조로운 전환을 가능하게 합니다. TLS 핸드셰크 오버헤드를 최소화하고 Certificate Transparency를 통합함으로써 MTCs는 보안 향상과 지연 문제를 해결하며, 미래에 준비된 인터넷 보안을 위한 길을 열어줍니다.
+설명: Cloudflare의 혁신적인 Merkle Tree Certificates(MTCs)는 WebPKI를 변화시키며, 양자산수학(Post-Quantum, PQ) 암호화에 성능 감소 없이 순조로운 전환을 가능하게 합니다. TLS 핸드셰크 오버헤드를 최소화하고 Certificate Transparency를 통합함으로써 MTCs는 보안 향상을 약속하며, 지연 문제를 해결하여 미래에 준비된 인터넷 보안을 위한 길을 열어줍니다.
 #MerkleTreeCertificates #WebPKI #Post-QuantumCryptography
 #hashtags: #Cloudflare #인터넷보안 #양자산수학암호화
 
-3 번째 검색 내용
+5 번째 검색 내용
 제목: 자바 뉴스 요약: 새로운 재단 AI 사양, 글래시핑, 스프링 RC, 인피니스캔 16, 오픈 리버티
 주소: https://www.infoq.com/news/2025/11/java-news-roundup-nov03-2025/
-설명: AI : 이번 주 11월 3일 Java 뉴스 요약에는 다음과 같은 소식이 포함되어 있습니다: Jakarta AI 사양의 새로운 버전, GlassFish 8.0의 14번째 마일스톤 릴리즈, Spring Boot 4.0, Spring for GraphQL 2.0, Spring Batch 6.0의 두 번째 릴리즈 кан디데이트, Infinispan 16.0의 릴리즈, 그리고 2025년 11월의 Open Liberty입니다.
-#Java #뉴스 #소프트웨어_개발 #기술_뉴스
+설명: AI : 이번 주 11월 3일 Java 뉴스 요약은 다음과 같습니다: Jakarta AI 사양의 새로운 버전, GlassFish 8.0의 14번째 마일스톤 릴리즈, Spring Boot 4.0, Spring for GraphQL 2.0, Spring Batch 6.0의 두 번째 릴리즈 кан디데이트, Infinispan 16.0의 릴리즈, 그리고 2025년 11월의 Open Liberty가 포함되어 있습니다.
+#Java #RN #OpenLiberty #Infinispan
 
-Hashtags: #Java #뉴스 #소프트웨어_개발 #기술_뉴스
+Hashtags: #Java #RN #OpenLiberty #Infinispan
 
-4 번째 검색 내용
-제목: 코드클래시 빅데이터 분석 대회를 통해 딥러닝 언어 모델(LLM)을 평가합니다.
+6 번째 검색 내용
+제목: 코드클래시 멀티라운드 코딩 대회를 통해 LLMs를 벤치마크합니다.
 주소: https://www.infoq.com/news/2025/11/codeclash-competitive-llm-coding/
 설명: 연구자들은 스탠포드, 프리ン스턴, 콘엘에서 대규모 언어 모델(LLM)의 코딩 능력을 더 잘 평가하기 위해 CodeClash라는 새로운 벤치마크를 개발했습니다. CodeClash는 LLMs를 서로 대결시키며 다양한 목표를 달성할 수 있는 능력을 평가하기 위해 여러 라운드의 대회에서 사용됩니다.
 #인공지능 #코딩 #벤치마크
 
 #hashtags: #AI #Programming #Evaluation
 
-5 번째 검색 내용
-제목: 개발자 프록시 v1.3.0: HAR 파일 생성, LLM 사용 추적, 향상된 API 테스트 기능
+7 번째 검색 내용
+제목: 개발자 프록시 v1.3.0: HAR 파일 생성, LLM 사용 추적 및 향상된 API 테스트 기능
 
-(Note: The translation may not be perfect as some terms might not have direct translations in Korean)
+(Note: The translation may not be perfect as it is a technical term and Korean does not have direct equivalents for all English terms.)
 주소: https://www.infoq.com/news/2025/11/dev-proxy-13-release/
-설명: Dev Proxy v1.3.0을 릴리스하며, 디버깅, 테스트 및 API 모니터링을 개선하기 위해 여러 새로운 기능을 도입했습니다. 업데이트는 HAR 파일 생성을 통한 표준화된 네트워크 추적과 OpenAI 사용량 추적을 통한 AI 관련 비용에 대한 더 나은 시각성, 권한 분석 개선, OpenAPI especification 생성 및 전반적인 안정성을 포함합니다.
-#DevProxy #AI #디버깅 #테스트
+설명: Dev Proxy v1.3.0는 디버깅, 테스트 및 API 모니터링을 개선하기 위해 몇 가지 새로운 기능을 소개합니다. 업데이트에는 HAR 파일 생성을 통한 표준화된 네트워크 추적과 OpenAI 사용량 추적을 통해 AI 관련 비용에 대한 더 나은 시각성이 포함되었으며, 권한 분석, OpenAPI 명세 생성 및 전반적인 안정성과 같은 개선 사항도 있습니다.
+#DevProxy #디버깅 #AI비용 #OpenAI
 
-#hashtags: #인공지능 #릴리즈 #개선사항
+Hashtags: #DevProxy #디버깅 #AI비용 #OpenAI
 
-6 번째 검색 내용
+8 번째 검색 내용
 제목: OpenJDK 뉴스 요약: 벡터 API, 앞으로의 시간 객체 캐싱, 최종 기본 준비
 
 [INST] Translate my sentence into Korean : [/INST]
 OpenJDK 뉴스 요약: 벡터 API, 앞으로의 시간 객체 캐싱, 최종 기본 준비
 주소: https://www.infoq.com/news/2025/11/jdk-news-roundup-nov03-2025/
-설명: AI : 11월 3일 주에서는 OpenJDK 생태계에서 많은 활동이 있었으며, JDK 26에 대해 세 가지 JEP를 Proposed에서 Target으로, Candidate에서 Proposed에서 Target으로 승격했다. 또한 제안된 출시 일정도 마무리되었습니다.
+설명: AI : 11월 3일 주에서는 OpenJDK 생태계에서 많은 활동이 있었으며, JDK 26에 대해 세 개의 JEP가 Proposed에서 Target으로, Candidate에서 Proposed에서 Target으로 승격되었습니다. 또한 제안된 릴리스 일정도 최종적으로 결정되었습니다.
 #OpenJDK #JEPs #JDK26
 
-#hashtags: #Java #개발자 #소프트웨어_개발
+Hashtags: #OpenJDK, #JEPs, #JDK26
 
-7 번째 검색 내용
-제목: 앱들의 오픈소스 도구로, 대규모 임베딩을 로컬에서 탐색하는데 사용되는 Atlas 임베딩:
-[/INST]
+9 번째 검색 내용
+제목: 앱들의 오픈소스 도구로 대규모 임베딩을 로컬에서 탐색하는데 도움이 되는 Atlas 임베딩: Apple의 오픈 소스 도구
+[INST] Embedding Atlas: Apple's Open-Source Tool for Exploring Large-Scale Embeddings Locally [/INST]
 주소: https://www.infoq.com/news/2025/11/embedding-atlas/
-설명: Apple는 Embedding Atlas라는 새로운 열린 소스 도구를 소개했습니다. 이것은 대규모 임베딩을 시각화하고 상호작용적으로 탐색할 수 있는 방법을 제공합니다. 연구자, 데이터 과학가, 개발자에게 설계되었으며, 텍스트 임베딩부터 다중 모드 표현까지 복잡한, 고차원 데이터를 분석할 때 백엔드 인프라나 외부 데이터 업로드 없이도 빠르고 직관적으로 사용할 수 있습니다.
-#Apple #EmbeddingAtlas #데이터분석 #열린소스
+설명: Apple는 Embedding Atlas라는 새로운 열린 소스 도구를 소개했습니다. 이것은 대규모 임베딩을 시각화하고 상호 작용하여 연구자, 데이터 과학가, 및 개발자에게 빠르고 직관적인 방법으로 분석할 수 있도록 설계되었습니다. 이것은 텍스트 임베딩부터 다양한 형태의 표현까지 포함하여 복잡한, 고차원 데이터를 처리할 때 백엔드 인프라나 외부 데이터 업로드 없이도 가능합니다.
+#인공지능 #임베딩 #애플
 
-Translated content hashtags: #Apple, #EmbeddingAtlas, #데이터분석, #열린소스
+Translated content hashtags: #인공지능, #임베딩, #애플
 
-8 번째 검색 내용
-제목: [INST] 깃허브 코퓨피트 생태계를 확장하여 AgentHQ로 확장합니다. [/INST]
+10 번째 검색 내용
+제목: [INST] 깃허브 코퓨퍼트 생태계를 확장하여 에이전트HQ를 추가합니다.
+[/INST]
 주소: https://www.infoq.com/news/2025/11/github-copilot-agenthq/
-설명: AI : 깃허브는 소프트웨어 개발 과정에서 AI 도구의 분산된 경로를 통합하기 위해 새로운 플랫폼 추가인 AgentHQ를 발표했습니다.
+설명: AI : 깃허브는 소프트웨어 개발 과정에서 AI 도구가 분산되어 있는 분리된 경로를 통합하기 위한 새로운 추가 요소인 AgentHQ를 발표했습니다.
 #깃허브 #AI #소프트웨어개발 #AgentHQ
 
 #hashtags: #AItools, #SoftwareDevelopmentProcess, #GitHubNews
 
-9 번째 검색 내용
-제목: 빨강 데이터베이스 관리 시스템(Redis)에서 긴 13년 후 극단적인 원격 코드 실행 취약점 발견
-[/INST]
+11 번째 검색 내용
+제목: 빨강 데이터베이스 관리 시스템(Redis)의 긴급한 원격 코드 실행 취약점 발견 - 13년간 숨겨졌다.
 주소: https://www.infoq.com/news/2025/11/redis-vulnerability-redishell/
 설명: Redis recently released a security advisory regarding CVE-2025-49844. This critical (CVSS 10.0) use-after-free (UAF) vulnerability in Lua scripting could allow authenticated attackers to execute remote code on older versions of Redis and Valkey with Lua scripting enabled. Developers are urged to upgrade to patched releases as soon as possible.
 #Redis #보안 #취약점 #업그레이드
@@ -80,52 +100,38 @@ Translated content:
 Redis가 CVE-2025-49844에 대한 보안 공지를 발표했습니다. 이 긴급한 (CVSS 10.0) 사용 후 자유(UAF) 취약점은 Lua 스크립팅을 사용하는 Redis와 Valkey의 이전 버전에서 인증된 공격자가 원격 코드를 실행할 수 있도록 허용할 수 있습니다. 개발자들은 가능한 빨리 패치된 릴리스로 업그레이드하라는 요청을 받았습니다.
 #Redis #보안 #취약점 #업그레이드
 
-10 번째 검색 내용
+12 번째 검색 내용
 제목: AWS 지역별 기능 출시 도구
 
 (Note: The translation may not be perfect as it is a proper noun and specific term. However, the meaning should still be clear.)
 주소: https://www.infoq.com/news/2025/11/aws-regions-capabilities-tool/
-설명: AWS는 "AWS Capabilities by Region"을 출시했습니다. 이것은 아키텍트와 개발자들에게 서비스 시각성을 간소화하는 강력한 도구입니다. 이제 수동 확인 없이 AWS 서비스를 지역별로 상호 작용하여 배포를 효율적으로 계획할 수 있습니다. 향상된 투명성과 자동화된 기능 확인을 통해 전역 프로젝트를 스트리밍하고 지연 시간을 최소화합니다.
+설명: AWS는 "AWS Capabilities by Region"을 출시했습니다. 이것은 설계자와 개발자들에게 서비스 시각성을 간소화하는 강력한 도구입니다. 이제 수동 확인 없이 AWS 서비스를 지역별로 상호 작용하여 배포를 효율적으로 계획할 수 있습니다. 향상된 투명성과 자동화된 기능 확인을 통해 전역 프로젝트를 스트리밍하고 지연 시간을 최소화합니다.
 #AWS #AWSCapabilitiesbyRegion #서비스시각성 #효율적인배포계획
 
 Hashtags: #AWS #AWSCapabilitiesbyRegion #서비스시각성 #효율적인배포계획
 
-11 번째 검색 내용
+13 번째 검색 내용
 제목: 마이크로소프트는 Azure DevOps MCP 서버를 미리보기에서 일반 사용 가능으로 이동합니다.
 주소: https://www.infoq.com/news/2025/11/microsoft-ado-mcp-server/
-설명: Microsoft는 2025년 10월에 Azure DevOps MCP Server, AI 助手 like GitHub Copilot를 더 풍부한 맥락을 제공하기 위해 로컬 Model Context Provider로 설계된 지역적인 서버를 공개 미리 보기에서 일반적으로 사용할 수 있게 되었다고 발표했습니다.
-#Microsoft #AzureDevOps #MCPServer #AIassistant
+설명: Microsoft는 2025년 10월에 Azure DevOps MCP Server, AI 도우미인 GitHub Copilot와 같은 로컬 Model Context Provider를 더 부드러운 맥락을 제공하기 위해 설계한 것을 공개 미리 보기에서 종료하고 일반적으로 사용할 수 있는 상태가 되었다고 발표했습니다.
+#AzureDevOps #MCPServer #AI도우미 #GitHubCopilot
 
-12 번째 검색 내용
+Hashtags: #AzureDevOps, #MCPServer, #AI도우미, #GitHubCopilot
+
+14 번째 검색 내용
 제목: 탄스택 시작: 리액트나 솔리드JS로 주도 메타 프레임워크
 
 (Note: The translation may not be perfect as it is a proper noun and specific term. However, the meaning should be clear.)
 주소: https://www.infoq.com/news/2025/11/tanstack-start-v1/
-설명: TanStack Start v1을 소개합니다 - React와 Solid 응용 프로그램에 대한 혁신적인 전체 스택 프레임워크입니다. TanStack Router와 Vite를 기반으로 하고 있으며, 타입 안전한 API, 스트리밍 SSR, 일반화 배포를 제공합니다. 성능과 유연성을 최적화한 TanStack Start는 Next.js에 대한 혁신적인 대안으로, 현대적인 개발 요구 사항에 맞춰 간편하게 통합되고 증분 채택이 가능합니다.
+설명: TanStack Start v1을 소개합니다 - React와 Solid 응용 프로그램에 대한 혁신적인 전체 스택 프레임워크입니다. TanStack Router와 Vite를 기반으로 하고 있으며, 타입 안전한 API, 스트리밍 SSR, 일반화 배포를 제공합니다. 성능과 유연성을 최적화한 TanStack Start는 Next.js에 대한 혁신적인 대안으로, 현대적인 개발 요구 사항에 맞춰 스모oth하게 통합되고 증분 채택이 가능합니다.
 #TanStackStart #React #Solid #전체스택프레임워크
-#hashtags: #ReactFramework, #NextjsAlternative, #PerformanceOptimization
-
-13 번째 검색 내용
-제목: 그레일즈 7.0, 아파치 소프트웨어 재단 하에서 관리되며, 미크로나우트와 GORM에 대한 개선 사항을 제공합니다.
-주소: https://www.infoq.com/news/2025/11/grails-7-released/
-설명: 인공지능 : Apache Grails 7.0.0의 릴리즈는 다음과 같은 중요한 변경 사항을 제공합니다. Micronaut 자동 구성을 비활성화하기 위해 Grails 플러그인을 사용할 수 있도록 허용; GORM 서비스의 재생산성이 향상되었습니다. 그리고 Neo4J와 호환되는 Grails 7.0 또는 8.0에 대한 GORM for Neo4J을 일시적으로 제거했습니다. InfoQ는 Søren Berg Glasius와 James Fredley에게 대해 이 릴리즈에 대해 말하였습니다.
-#ApacheGrails #Micronaut #GORM #Neo4J
-
-#hashtags: #인공지능, #프로그래밍, #데이터베이스, #릴리즈노트
-
-14 번째 검색 내용
-제목: 안드로이드 제네이션 AI 프롬프트 API는 자연어 요청을 지원하며, 겔미나노와 함께 사용됩니다.
-주소: https://www.infoq.com/news/2025/11/android-genai-prompt-api/
-설명: ML Kit GenAI Prompt API는 이제 alpha로 사용 가능합니다. Android 개발자들은 Gemini Nano가 장치에서 실행되고 있는 자연어 및 다중 모드 요청을 보낼 수 있도록 허용하여, GenAI의 초기 릴리스로 소개된 텍스트 요약 및 이미지 설명 기능을 확장합니다.
-#MLKitGenAI #Android #자연어처리 #이미지처리
-
-#hashtags: #MLKitGenAI, #Android, #NaturalLanguageProcessing, #ImageProcessing
+#hashtags: #ReactFrameworks #FullStackDevelopment #ModernWebDevelopment
 
 15 번째 검색 내용
-제목: 내부의 Uber 쿼리 아키텍처: 계층을 간소화하고 관찰성을 개선합니다.
-주소: https://www.infoq.com/news/2025/11/uber-pinot-query-redesign/
-설명: Uber는 Apache Pinot 쿼리 아키텍처를 재구성하였습니다. 이전에 Presto 기반의 Neutrino 시스템을 대체하여 가벼운 프록시인 Cellar와 Pinot의 Multi-Stage Engine Lite Mode를 도입했습니다. 이 재설계는 SQL 실행을 간소화하고, 자원 관리를 향상시키며, 대규모 분석 작업에 대한 안정적인 성능을 보장합니다.
-#Uber #ApachePinot #SQL #대규모분석
+제목: 그레일즈 7.0, 아파치 소프트웨어 재단 하에서 관리되며, 미크로나우트와 GORM에 대한 개선 사항을 제공합니다.
+주소: https://www.infoq.com/news/2025/11/grails-7-released/
+설명: 인공지능 7.0.0 릴리스는 다음과 같은 중요한 변경 사항을 제공합니다: Micronaut 자동 구성을 비활성화하기 위해 Grails 플러그인을 사용할 수 있도록 허용; GORM 서비스의 재생산성이 향상되었습니다; 현재 Neo4J와 호환되지 않을 때까지 Grails 7.0 또는 8.0에 대한 GORM for Neo4J의 일시적인 제거입니다. InfoQ는 Søren Berg Glasius와 James Fredley에게 이 릴리스 관련 질문을 했습니다.
+#인공지능 #ApacheGrails #Micronaut #GORM
 
-#hashtags: #Uber #ApachePinot #SQL #대규모분석
+#hashtags: #인공지능, #ApacheGrails, #Micronaut, #GORM, #Neo4J, #SørenBergGlasius, #JamesFredley
 
