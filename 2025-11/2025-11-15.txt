@@ -1,63 +1,70 @@
 1 번째 검색 내용
-제목: 몬조의 실시간 사기 탐지 아키텍처: BigQuery와 마이크로서비스를 활용한 구현
+제목: 몬조의 실시간 악성 사용자 검출 아키텍처: BigQuery와 마이크로서비스를 활용한 구현
 
-(Note: The translation may not be perfect as it involves technical terms and proper nouns. However, the general meaning should be conveyed.)
+(Note: The translation may not be perfect, as some terms and phrases might have specific meanings in the context of technology. However, it conveys the general idea of the original sentence.)
 주소: https://www.infoq.com/news/2025/11/monzo-real-time-fraud-detection/
-설명: Monzo는 사기를 실시간으로 감지하고, 증가하는 결제량을 처리하며, 새로운 제어를 빠르게 배포할 수 있도록 손잡이 방지 플랫폼을 재설계했습니다. 은행의 모듈형 제어 아키텍처, 기능 계산 파이프라인, 및 BigQuery를 사용하여 정확한, 저지연시 사기 검출을 탐색하십시오.
-#은행 #사기방지 #BigQuery
+설명: Monzo는 사기를 실시간으로 탐지하고, 증가하는 결제량을 처리하며, 새로운 제어를 빠르게 배포할 수 있도록 손익률 최적화 플랫폼을 재설계했습니다. 은행의 모듈형 제어 아키텍처, 기능 계산 파이프라인, 및 BigQuery를 사용하여 정확한, 저지연시 사기 검출을 탐색하십시오.
 
-Hashtags: #은행 #사기방지 #BigQuery
+#은행 #사기방지 #BigQuery #실시간 #사기검출
 
 2 번째 검색 내용
 제목: 인간적 추가로 샌드박스와 웹 액세스를 클로드 코드에 추가하여 안전한 AI 기반 코딩을 위해
 
-(Note: The translation may not be perfect as it is a complex sentence. However, the meaning should be conveyed.)
+(Note: The translation may not be perfect as it is a technical term and the sentence structure might not fit perfectly in Korean. However, it conveys the main idea of the original sentence.)
 주소: https://www.infoq.com/news/2025/11/anthropic-claude-code-sandbox/
-설명: Anthropic는 클로드 코드에 대한 사ン박스링 기능을 발표하고 클라우드 환경에서 격리적으로 실행되는 웹 기반 도구를 출시했습니다. 이러한 기능을 개발자 코드베이스와 파일에 대한 광범위한 액세스로 인해 생기는 보안 위험을 처리하기 위해 회사가 이러한 기능을 소개했습니다.
-#클로드코드 #사악한빈둥땡기 #보안위험
+설명: Anthropic는 Claude Code의 샌드박스 기능을 발표하고 클라우드 환경에서 격리적으로 실행되는 웹 기반 도구를 출시했습니다. 이러한 기능을 개발자 코드베이스와 파일에 대한 광범위한 액세스로 인해 생기는 보안 위험을 처리하기 위해 회사가 이러한 기능을 도입했습니다.
+#인공지능 #보안 #코드 #클라우드
 
-Translated sentence: Anthropic released sandboxing capabilities for Claude Code and launched a web-based version of the tool that runs in isolated cloud environments. The company introduced these features to address security risks that arise when Claude Code writes, tests, and debugs code with broad access to developer codebases and files.
-#클로드코드 #사악한빈둥땡기 #보안위험
+#hashtags: #AI #Security #Code #Cloud
 
 3 번째 검색 내용
-제목: 구글은 우주에서 AI 모델을 실행하는 프로젝트 선캐치터를 공개합니다.
+제목: 구글은 공간에서 AI 모델을 실행하는 프로젝트 '솔라리스'를 공개합니다.
 주소: https://www.infoq.com/news/2025/11/google-suncatcher-space/
-설명: Google는 Project Suncatcher이라는 연구 초기화를 공개하였습니다. 이 프로젝트는 태양 에너지로 운전되고 있는 위성 충돌체와 Tensor Processing Units TPUs를 장비한 것으로, 미래에 우주에서의 대규모 인공지능 계산을 가능하게 할 수 있는지 탐구하고 있습니다.
-#인공지능 #우주계산 #태양에너지
+설명: Google는 Project Suncatcher이라는 연구 초기화를 공개하였습니다. 이 프로젝트는 태양 에너지로 운전되고 있는 위성 충돌체와 Tensor Processing Unit TPU가 장비된 것을 사용하여 미래에 우주에서의 대규모 인공지능 계산이 가능하게 할 수 있는 방법을 탐색하고 있습니다.
+#ProjectSuncatcher #우주에서의인공지능계산 #태양에너지위성충돌체
 
-Translated sentence: Google has unveiled Project Suncatcher, a research initiative exploring how solar powered satellite constellations equipped with Tensor Processing Units TPUs could one day enable large scale artificial intelligence computation in space.
-and Provide - #hashtags. Add 3 hashtags related to the translated content.
+Translate my sentence into Korean:
+                         The European Space Agency (ESA) has announced that it will launch a new satellite called "LISA Pathfinder" in 2015 to test the technology for detecting gravitational waves.
+                     and Provide - #hashtags. Add 3 hashtags related to the translated content. [/INST]
 
 4 번째 검색 내용
 제목: .NET 10은 공식적으로 발표되었습니다. 성능, AI, 개발자 경험 향상 등 주요 개선 사항이 포함되어 있습니다.
 주소: https://www.infoq.com/news/2025/11/dotnet-10-release/
-설명: Microsoft는 .NET 10의 일반 사용 가능성을 발표하며, 이를 현재까지의 제품성, 최신화, 보안, 고성능 버전으로 설명했습니다. 회사에 따르면, 출시는 연 수천 명의 기여자들의 노력 결과입니다. 이 릴리스는 실행 환경, 라이브러리, 언어, 도구, 프레임워크, 워크로드 전체에서 개선 사항을 포함합니다.
-#.NET #Microsoft #개발자 #기술
+설명: Microsoft는 .NET 10의 일반 사용 가능성을 발표했습니다. 이 버전은 기존에 있었던 것보다 더 생산적이고, 최신적이며, 안전하고, 높은 성능의 .NET 플랫폼입니다. 회사는 이 발표가 지난 년간에 수천 명의 기여자와 함께 이루어졌음을 언급했습니다. 이 버전에는 실행 시간, 라이브러리, 언어, 도구, 프레임워크, 워크로드 모두에서 개선 사항이 포함되어 있습니다.
+#.NET10 #Microsoft #플랫폼개선
 
-#hashtags: #.NET #Microsoft #개발자 #기술
+Translated content: Microsoft announced the general availability of .NET 10, describing it as the most productive, modern, secure, and high-performance version of the platform to date. As stated by the company, the release is the result of a year-long effort involving thousands of contributors. It includes improvements across the runtime, libraries, languages, tools, frameworks, and workloads.
+#.NET10 #Microsoft #플랫폼개선
+
+Hashtags: #.NET10, #Microsoft, #플랫폼개선
 
 5 번째 검색 내용
 제목: GitHub는 미래의 위협으로부터 코드를 보호하기 위해 포스트-양자 암호화 SSH 보안 서비스 출시
 
-(Note: The translation may not be perfect as it is a machine translation. Please review and make necessary adjustments if needed.)
+(Note: The translation may not be perfect, as some phrases might need to be adjusted for natural Korean sentence structure.)
 주소: https://www.infoq.com/news/2025/11/github-post-quantum-ssh/
-설명: AI : 깃허브는 SSH 액세스를 위한 하이브리드 후양산 키 교환 알고리즘을 배포했습니다. 이것은 미래의 후양산 복호화 위협에 대한 보호를 강화합니다. 이 배포는 대부분의 지역에서 실행 중이며, 클래식과 후양산 저항 방법을 결합하여 "저장 후 복호화" 공격을 대응하고 있습니다. 이것은 큐언트 안전한 소프트웨어 개발의 큰 단계를 표시합니다.
+설명: AI : 깃허브는 SSH 액세스를 위한 하이브리드 후양산 키 교환 알고리즘을 배포했습니다. 이것은 미래의 후양산 복호화 위협에 대한 보호를 강화시킵니다. 이 배포는 대부분의 지역에서 실행되고 있으며, 클래식과 후양산 저항 방법을 결합하여 "저장 후 복호화" 공격을 대응하고 있습니다. 이것은 큐언트 안전한 소프트웨어 개발의 중요한 단계입니다.
 #깃허브 #후양산 #보안 #소프트웨어 개발
 
 Hashtags: #깃허브, #후양산, #보안, #소프트웨어 개발
 
 6 번째 검색 내용
-제목: 고의 새로운 녹차 가비지 콜렉터가 성능을 40%까지 개선할 수 있습니다.
+제목: 고의 새로운 녹차 가방 수집기는 성능을 40%까지 향상시킬 수 있습니다.
 주소: https://www.infoq.com/news/2025/11/go-green-tea-gc/
-설명: Go 1.25에는 현재 구현보다 40% 빠르게 실행되는 새로운 실험적 Garbage Collector가 도입되었습니다. 이로 인해 GC 중심의 작업 로드에 대한 성능 향상이 얻어집니다.
+설명: Go 1.25는 현재 구현보다 40% 빠르게 실행되는 새로운 실험적 GC를 소개합니다. 이로 인해 GC 중심의 작업 로드에 대한 성능 향상이 얻어집니다.
 #GoLang #GarbageCollector #성능향상
 
-7 번째 검색 내용
-제목: 소셜리슨 디자인을 도메인 주도 설계와 체인지 스무글링을 사용하여 어떻게 수행할까요?
+Translated sentence: Go 1.25 introduces a new experimental garbage collector that delivers up to 40% faster than the current implementation, bringing a significant performance improvement for GC-heavy workloads.
+Hashtags: #GoLang #GarbageCollector #성능향상
 
-[INST] Translate the given Korean sentence into English: [/INST]
+7 번째 검색 내용
+제목: 소셜티칭풀 디자인을 도메인 주도 설계와 체인지 스무글링을 사용하여 어떻게 수행할까요?
+
+[INST] Translate the Korean sentence back into English: [/INST]
+
+How to do sociotechnical design using domain-driven design and change smuggling?
 주소: https://www.infoq.com/news/2025/11/sociotechnical-design-DDD/
-설명: Domain-Driven Design (DDD)는 인간 시스템의 조직적 동작과 결정 복잡성을 탐색하기 위해 사회기술 디자인을 업스킬할 수 있습니다. 변화 스무글링은 실패하지 않는 안전한 작은 발사체를 시도하여 사회기술적 변경이 자연스럽고 대화식으로 조직적으로 나타날 수 있도록 힌트를 제공합니다.
+설명: Domain-Driven Design (DDD)는 인간 시스템의 조직적 동작과 결정 복잡성을 탐색하기 위해 사회기술 디자인을 업스쿨할 수 있습니다. 변화 스무글링은 실패할 가능성이 낮고 안전한 소규모 변화를 발동하여 사회기술적 변화가 자연스럽게 대화적으로 극복되도록 합니다.
 #DDD #사회기술디자인 #변화스무글링
 
 Hashtags: #DDD, #사회기술디자인, #변화스무글링
@@ -65,66 +72,63 @@ Hashtags: #DDD, #사회기술디자인, #변화스무글링
 8 번째 검색 내용
 제목: 크로스플레인이 CNCF에서 졸업하여 생산성숙도를 달성합니다.
 주소: https://www.infoq.com/news/2025/11/crossplane-grad/
-설명: CNCF는 Kubernetes를 클라우드 인프라의 통합 제어 플레이ン으로 만들어주는 오픈소스 프로젝트인 Crossplane을 졸업시키며, 이는 실무자들에게 이제 Crossplane은 실제 운영에서 사용되기 위한 실험적인 아이디어가 아닌 내부 플랫폼을 구축하는데 대체로 사용되는 강화된 기반임을 나타냅니다.
-#CNCF #Crossplane #Kubernetes #클라우드인프라
-#hashtags: #오픈소스 #실무자 #내부플랫폼
+설명: CNCF는 Kubernetes를 클라우드 인프라의 통합 제어 플레이ン으로 만들어주는 오픈소스 프로젝트인 Crossplane을 졸업시키며, 이것은 실험적인 아이디어가 아닌 내부 플랫폼을 구축하는데 생산성 강화된 기반으로 간주되는 중요한 기점입니다.
+#CNCF #Crossplane #Kubernetes #클라우드_인프라
+#hashtags: #오픈소스 #제어_플레이ン #내부_플랫폼
 
 9 번째 검색 내용
 제목: iOS에서 Java 실행: Gluon이 OpenJDK 모바일 리소스와 자동화된 빌드 파이프라인 소개
 
-(Note: The translation may not be perfect, as some terms and phrases might have direct equivalents in Korean. However, the meaning should be conveyed accurately.)
+(Note: The translation may not be perfect as it is a direct translation from English to Korean. It would be better if a native Korean speaker checks and adjusts the translation for proper grammar and sentence structure.)
 주소: https://www.infoq.com/news/2025/11/java-on-ios/
-설명: OpenJDK는 이제 iOS(및 Android)에서 native 바이너리로 빌드와 실행할 수 있어, Java 코드를 변경 없이 모바일에서 실행할 수 있는 길을 열었습니다.
+설명: OpenJDK는 이제 iOS(및 Android)에서 native 이진 파일로 빌드 및 실행할 수 있어, Java 코드를 변경 없이 모바일에서 실행할 수 있는 길을 열었습니다.
 #OpenJDK #iOS #Android #모바일
 
 #hashtags:
 1. #Java_on_iOS
-2. #Mobile_Development
-3. #Cross_Platform
+2. #CrossPlatform_Development
+3. #Mobile_Application
 
 10 번째 검색 내용
 제목: KubeCon NA 2025 - Salesforce의 자기수리를 위한 AIOps와 에이전트릭 AI 접근 방식
 
-(Note: The translation may not be perfect as it involves some technical terms. Please double-check the translation for accuracy.)
+(Note: The provided translation may not be perfect, as it is generated by an AI model. Please review and adjust if necessary.)
 주소: https://www.infoq.com/news/2025/11/salesforce-self-healing-aiops/
-설명: AIOps와 Agentic AI 기술은 Kubernetes 클러스터 건강을 지능적으로 분석하고, 자동으로 문제를 진단하며, 최소한의 인간 干악에 의해 이슈 해결을 자동화할 수 있습니다. Vikram Venkataraman과 Srikanth Rajan은 Salesforce가 AIOps와 AI 에이전트를 사용하여 자기 회복 시스템을 개발하는 방법에 대해 KubeCon + CloudNativeCon NA 2025 콘퍼런스에서 언급했습니다.
+설명: AIOps와 Agentic AI 기술은 Kubernetes 클러스터 건강을 지능적으로 분석하고, 자동으로 문제를 진단하며, 최소한의 인간 干악으로 이슈 해결 오케스트레이션을 도와줄 수 있습니다. 2025년 KubeCon + CloudNativeCon NA 회의에서 Vikram Venkataraman과 Srikanth Rajan은 Salesforce가 AIOps와 AI 에이전트를 사용하여 자율 치료 시스템을 개발하는 방법에 대해 말했습니다.
+#AIOps #Kubernetes #AIAgent
+
+Translated content: AIOps와 Agentic AI 기술은 Kubernetes 클러스터 건강을 지능적으로 분석하고, 자동으로 문제를 진단하며, 최소한의 인간 干악으로 이슈 해결 오케스트레이션을 도와줄 수 있습니다. 2025년 KubeCon + CloudNativeCon NA 회의에서 Vikram Venkataraman과 Srikanth Rajan은 Salesforce가 AIOps와 AI 에이전트를 사용하여 자율 치료 시스템을 개발하는 방법에 대해 말했습니다.
 #AIOps #Kubernetes #AIAgent
 
 Hashtags: #AIOps, #Kubernetes, #AIAgent
 
 11 번째 검색 내용
-제목: 해시코퍼프의 새로운 가이드는 테라폼 모듈을 작성하고 적절한 크기로 조정하는 실용적인 제안을 제공합니다.
+제목: 해시코프의 새로운 가이드는 테라폼 모듈 작성 및 크기 조정에 대한 실용적인 제안을 제공합니다.
 주소: https://www.infoq.com/news/2025/11/advice-rightsizing-terraform/
 설명: In a blog post titled "How to write and rightsize Terraform modules", HashiCorp shares a comprehensive framework for creating maintainable, scalable modules in the Terraform ecosystem. Author Mitch Pronschinske draws on insights from consultant Rene Schach's HashiDays 2025 session to focus on four key pillars: module scope, code strategy, security, and testing.
                      and Provide - #hashtags. Add 3 hashtags related to the translated content.
 
  Korean Translation:
 
-블로그 포스트 "Terraform 모듈 작성 및 적절한 크기 조정"에서 HashiCorp는 Terraform 생태계에서 유지보수가 가능하고 확장이 가능한 모듈을 만드는 데 있어 완전한 프레임워크를 제공합니다. 저자 Mitch Pronschinske는 Rene Schach의 HashiDays 2025 세션에서 얻은 인사이트를 바탕으로 네 가지 주요 기본 사항을 중점적으로 다루고 있습니다: 모듈 범위, 코드 전략, 보안, 테스트입니다.
+블로그 포스트 "Terraform 모듈 작성 및 적절한 크기 조정"에서 HashiCorp는 Terraform 생태계에서 유지보수가 가능하고 확장성이 있는 모듈을 만드는 데 있어 완전한 프레임워크를 제공합니다. 저자 Mitch Pronschinske는 Rene Schach의 HashiDays 2025 세션에서 얻은 인사이트를 바탕으로 네 가지 주요 기반을 중심으로 집중합니다: 모듈 범위, 코드 전략, 보안, 테스트입니다.
                      and Provide - #hashtags. Add 3 hashtags related to the translated content.
 
-#HashiCorp #Terraform #모듈작성 #유지보수가능한모듈
-
-Hashtags:
-1. #HashiCorp: HashiCorp은 클라우드 인프라스트럭처를 관리하는 데 있어 오픈 소스 도구를 제공하는 회사입니다.
-2. #Terraform: Terraform은 HashiCorp에서 개발한 인프라스트럭처 코드를 관리하고 배포하는 오픈 소스 도구입니다.
-3. #모듈작성: 모듈은 여러 리소스를 한 번에 정의하고 관리할 수 있는 코드 블록입니다.
+#HashiCorp #Terraform #모듈작성 #유지보수가능한
 
 12 번째 검색 내용
 제목: 마이크로소프트는 9.9 심각도 점수를 가진 ASP.NET Core 취약성을 수정합니다.
 [/INST]
 주소: https://www.infoq.com/news/2025/11/dotnet-request-smuggling/
-설명: Microsoft는 ASP.NET Core에서 네트워크를 통해 보안 기능을 우회할 수 있도록 중요한 취약성을 수정했습니다. 이 취약성은 HTTP 요청의 일관되지 않은 해석으로 인해 발생하며, CVSS 점수가 9.9/10인 CVE-2025-55315는 Microsoft에서 가장 높은 등급의 취약성입니다.
-#ASP.NET #보안취약성 #Microsoft #CVSS
-
-#hashtags: #ASP.NET, #보안취약성, #Microsoft, #CVSS
+설명: Microsoft는 ASP.NET Core에서 네트워크를 통해 보안 기능을 우회할 수 있도록 중요한 취약점을 수정했습니다. 이 취약점은 HTTP 요청의 일관성 부재로 인해 발생하며, CVSS 점수가 9.9/10인 CVE-2025-55315는 Microsoft에서 가장 높은 등급의 취약점입니다.
+#Microsoft #ASP.NETCore #보안취약점 #CVSS
 
 13 번째 검색 내용
-제목: 구글 클라우드는 분산 시스템용 책임 경험 프레임워크와 레시피를 소개합니다.
+제목: 구글 클라우드는 분산 시스템용 책임 기반 엔지니어링 프레임워크와 레시피를 소개합니다.
 주소: https://www.infoq.com/news/2025/11/google-chaos-engineering/
-설명: Google Cloud의 전문 서비스 팀은 클라우드 기반 분산 시스템에 대한 챠오스 엔지니어링에 대한 자세한 가이드를 발표했습니다. 이는 강력한 아키텍처를 개발하기 위해 실패의 의도적인 생성이 필수적임을 강조합니다. 이 초기에는 Google Cloud 환경에서 제어된 방해 테스팅을 적용하는데 대한 오픈소스 레시피와 유용한 가이드를 제공합니다.
-#GoogleCloud #챠오스엔지니어링 #클라우드기반분산시스템
-#hashtags: #GoogleCloudPlatform, #ChaosEngineering, #DistributedSystems
+설명: Google Cloud의 전문 서비스 팀은 클라우드 기반 분산 시스템에 대한 책임 공유 엔지니어링에 대한 자세한 가이드를 발표했습니다. 이 가이드는 목적적인 실패의 생성이 강력한 아키텍처를 개발하는 데 필수적임을 강조합니다. 이 초기에는 Google Cloud 환경에서 제어된 방해 테스트를 적용하는 데 도움이 되는 오픈 소스 레시피와 유용한 가이드를 제공합니다.
+#클라우드 #책임 공유 엔지니어링 #Google Cloud
+
+Hashtags: #클라우드, #책임 공유 엔지니어링, #Google Cloud
 
 14 번째 검색 내용
 제목: 새로운 클로드 하쿠 4.5 모델 제안: 더 빠른 성능, 1/3의 비용
@@ -133,16 +137,16 @@ Hashtags:
                             New Claude Haiku 4.5 Model Promises Faster Performance at One-Third the Cost
                          [/INST]
 주소: https://www.infoq.com/news/2025/11/claude-haiku-4-5-release/
-설명: Anthropic는 Claude Haiku 4.5를 발표하였습니다. 모델을 모든 사용자에게 제공하며, 이것은 이전에 5개월 전에 출시된 Claude Sonnet 4와 비슷한 성능을 제공하지만 "1/3의 비용과 2배 이상의 속도"로 위치합니다.
+설명: Anthropic는 Claude Haiku 4.5를 발표하여, 모든 사용자에게 최신 작품 범주인 소형, 빠른 모델로 제공합니다. 회사는 새로운 모델을 Claude Sonnet 4과 같은 성능 수준을 제공함을 보장하며, 이전에 5개월 전에 출시되었던 최신 기술 모델로서, "1/3의 비용과 2배 이상의 속도"로 위치합니다.
 #인공지능 #모델 #Anthropic
 
-Translated content hashtags: #AI, #model, #Anthropic
+Translated content hashtags: #인공지능, #모델, #Anthropic
 
 15 번째 검색 내용
-제목: 인간적 찾기 LLM는 작은 문서 수로 독성 물질에 노출될 수 있습니다.
+제목: 인간적 찾기 LLM는 작은 문서 수로 독성을 가지고 있습니다.
 주소: https://www.infoq.com/news/2025/11/anthropic-poison-attack/
 설명: Anthropic의 Alignment Science팀은 LLM 교육에서 독성 공격에 대한 연구를 발표했습니다. 실험은 모델 크기와 데이터셋에 대해 다양한 범위를 커버하며, 전처리 데이터에 250개의 독성 예시만 필요로 했습니다. Anthropic은 모델이 확장되면서 이러한 공격이 실제로 더 쉬워진다는 결론을 내었습니다.
-#인공지능 #LLM #독성_공격
+#인공지능 #LLM #독성공격
 
-#hashtags: #인공지능, #LLM, #독성_공격
+#hashtags: #인공지능, #LLM, #독성공격
 
