@@ -1,4 +1,10 @@
 1 번째 검색 내용
+제목: F# 10은 성능 개선을 가져옵니다.
+주소: https://www.infoq.com/news/2025/11/fsharp-10-performance/
+설명: NET 10의 릴리스로 F# 버전 10이 함께 발표되었습니다. 이는 언어의 사용성을 향상시키고, 성능을 개선하며, 일반적인 기능 개발에 대한 컴파일러 행동을 최적화합니다.
+#NET10 #FSharp #기능적개발 #컴파일러
+
+2 번째 검색 내용
 제목: QCon SF: 데이터베이스 기반의 워크플로우 오리엔테이션이 전통적인 아키텍처를 도전합니다.
 주소: https://www.infoq.com/news/2025/11/database-backed-workflow/
 설명: During QCon SF, Jeremy Edberg and Qian Li from DBOS presented a non-conventional architectural approach to workflow orchestration: treating PostgreSQL not just as a data store, but as the orchestration layer itself. Their talk addressed a persistent problem in distributed systems: workflows frequently fail, recovery mechanisms are complex, and visibility into workflow state remains challenging.
@@ -8,31 +14,24 @@ Translated content:
 During QCon SF, Jeremy Edberg and Qian Li from DBOS presented a non-conventional architectural approach to workflow orchestration: treating PostgreSQL not just as a data store, but as the orchestration layer itself. Their talk addressed a persistent problem in distributed systems: workflows frequently fail, recovery mechanisms are complex, and visibility into workflow state remains challenging.
 #QConSF #워크플로우오리스테이션 #PostgreSQL #분산시스템
 
-Hashtags added: 
-1. #QConSF (QCon SF)
-2. #워크플로우오리스테이션 (Workflow Orchestration)
-3. #PostgreSQL (PostgreSQL)
-4. #분산시스템 (Distributed Systems)
-
-2 번째 검색 내용
-제목: 인공지능으로 생성된 코드가 새로운 기술적 부채를 만들어낸다는 보고가 발표되었습니다.
-주소: https://www.infoq.com/news/2025/11/ai-code-technical-debt/
-설명: AI-생성 코드는 "매우 효과적이지만 계획적으로 건축 판단력이 부족합니다", Ox Security에서 발표한 새로운 보고서에 따르면. 10월 말에 발표된 Army of Juniors: AI 코드 보안 위기에서 AI 애플리케이션 보안(AppSec) 회사 Ox Security는 AI-생성 코드에서 일반적으로 찾아지는 10개의 건축 및 보안 안티패턴을 설명합니다.
-#인공지능 #AI_보안 #코드_안전성
-
-Hashtags: #인공지능, #AI_보안, #코드_안전성
-
 3 번째 검색 내용
-제목: 카메라 X 1.5는 안드로이드에서 고급 비디오 기록과 사진 캡처를 제공합니다.
-주소: https://www.infoq.com/news/2025/11/android-camerax-1-5/
-설명: CameraX 1.5은 느리고 높은 프레임 레이트의 비디오를 캡처하고 처리되지 않은, 압축되지 않은 사진을 찍을 수 있는 기능을 도입합니다. 이러한 기능은 SessionConfig API에서 새로 추가된 것으로, 카메라 설정과 구성을 간소화합니다.
-#CameraX #느리고_높은_프레임_레이트_비디오 #처리되지_않은_압축되지_않은_사진 #SessionConfig_API
+제목: 인공지능으로 생성된 코드가 새로운 기술적 부채를 야기함, 보고서에 따름.
+주소: https://www.infoq.com/news/2025/11/ai-code-technical-debt/
+설명: AI-생성 코드는 "매우 효과적이지만 계획적으로 건축 판단력이 부족합니다", Ox Security에서 발표한 새로운 보고서에 따르면. 10월 말에 발표된 Army of Juniors: AI 코드 보안 위기에서 AI 애플리케이션 보안(AppSec) 회사 Ox Security는 AI-생성 코드에서 일반적으로 찾아지는 10개의 건축과 보안 안티패턴을 나열했습니다.
+#인공지능 #AI_보안 #코드_보안
 
-#hashtags: #카메라 #비디오 #사진 #압축 #처리 
-#hashtags: #느린모션 #높은프레임레이트 #처리되지않은사진 #SessionConfigAPI #CameraX_1.5
+#hashtags: #인공지능, #AI_보안, #코드_보안
 
 4 번째 검색 내용
-제목: 첫 번째 주요 발표자 at QCon 산프란시스코 2025: 제휴 감소를 위한 Nicole Forsgren
+제목: 카메라 X 1.5는 안드로이드에서 고급 비디오 녹화와 사진 캡처를 제공합니다.
+주소: https://www.infoq.com/news/2025/11/android-camerax-1-5/
+설명: 카메라X 1.5은 느리고 높은 프레임 레이트의 비디오를 캡처하고 처리되지 않은, 압축되지 않은 사진을 찍을 수 있는 기능을 추가로 지원합니다. 이러한 기능들은 SessionConfig API에서 새로 도입된 것으로, 카메라 설정과 구성을 간소화하고 있습니다.
+#카메라X #느리고_높은_프레임_레이트 #처리되지_않은_사진 #SessionConfigAPI
+
+#hashtags: #카메라X, #느리고_높은_프레임_레이트, #처리되지_않은_사진, #SessionConfigAPI
+
+5 번째 검색 내용
+제목: 첫 번째 주요 발표자 at QCon 산프란시스코 2025: 틸링을 줄이기 위해서 Nicole Forsgren
 주소: https://www.infoq.com/news/2025/11/forsgren-reduce-ai-friction/
 설명: At QCon SF 2025, Dr. Nicole Forsgren emphasized that AI speeds up code generation but exposes deployment bottlenecks, suggesting a strategic shift towards optimizing Developer Experience (DevEx). As 31% of developer time is lost to friction, focusing on efficient feedback loops, flow state, and cognitive load management is crucial for maintaining competitiveness and retaining talent.
 #인공지능 #코드생성 #배포병목현상 #개발자경험
@@ -41,75 +40,81 @@ Translated content:
 At QCon SF 2025, Dr. Nicole Forsgren emphasized that AI speeds up code generation but exposes deployment bottlenecks, suggesting a strategic shift towards optimizing Developer Experience (DevEx). As 31% of developer time is lost to friction, focusing on efficient feedback loops, flow state, and cognitive load management is crucial for maintaining competitiveness and retaining talent.
 #인공지능 #코드생성 #배포병목현상 #개발자경험
 
-5 번째 검색 내용
+Hashtags: 
+#인공지능 #코드생성 #배포병목현상 #개발자경험
+
+6 번째 검색 내용
 제목: 새 IBM Granite 4 모델은 인공지능 비용을 줄이기 위해 효율적인 하이브리드 Mamba-2 아키텍처를 사용합니다.
 주소: https://www.infoq.com/news/2025/11/ibm-granite-mamba2-enterprise/
-설명: IBM는 최근 작은 언어 모델 가족인 Granite 4.0를 발표했습니다. 모델 가족은 크기가 큰 모델보다 훨씬 빠른 속도와 매우 낮은 운영 비용을 제공하면서 인정 가능한 정확도를 유지합니다. Granite 4.0는 메모리 요구 사항을 크게 줄여, Granite를 매우 저렴한 GPU에서 실행할 수 있고 비용이 크게 감소합니다.
+설명: IBM는 최근 작은 언어 모델 가족인 Granite 4.0를 발표했습니다. 모델 가족은 크기가 큰 모델보다 훨씬 빠른 속도와 매우 낮은 운영 비용을 제공하면서 인정 가능한 정확도를 유지합니다. Granite 4.0는 메모리 요구 사항을 크게 줄여, Granite를 훨씬 저렴한 GPU에서 실행할 수 있고 훨씬 저렴한 비용으로 실행할 수 있습니다.
 #IBM #Granite4.0 #작은언어모델 #저렴한GPU
 
 #hashtags: #IBM, #Granite4.0, #작은언어모델, #저렴한GPU
 
-6 번째 검색 내용
-제목: 자바 뉴스 요약: Spring Framework 7.0, Spring Data, Spring AI, Payara 플랫폼, OpenJDK, JobRunr
+7 번째 검색 내용
+제목: 자바 뉴스 요약: 스프링 프레임워크 7.0, 스프링 데이터, 스프링 AI, 페이어라 플랫폼, 오픈JDK, 잡런르
+
+(Note: The Korean language does not have a direct equivalent for "INST" or "[]", so I translated the entire text without those tags.)
 주소: https://www.infoq.com/news/2025/11/java-news-roundup-nov10-2025/
 설명: AI : 이번 주의 Java 뉴스 요약은 10월 10일, 2025년에 발표된 것으로, 다음 내용을 포함합니다: OpenJDK JEPs가 JDK 26에 대상되었습니다; Spring Framework 7.0의 GA 릴리스; Spring Data, Spring AI, JobRunr 및 Jox의 포인트 릴리스; 2025년 11월의 Payara Platform; Maven 4.0의 5번째 릴리스 후보; 그리고 Micronaut에서 유지 보수 릴리스입니다.
-#Java #R�umup #OpenJDK #SpringFramework
+#Java #Rody #프로그래밍 #개발자 #뉴스 #2025년 #OpenJDK #SpringFramework #Maven #Micronaut #PayaraPlatform
 
-Hashtags: #Java #Roundup #OpenJDKJEPs #SpringFramework7.0
-
-7 번째 검색 내용
+8 번째 검색 내용
 제목: KubeCon NA 2025 - 제로카(Erica Hughberg)와 알렉사 그리피스(Alexa Griffith)가 지능형 AI 시대에 적합한 도구에 대해 이야기하다
 [/INST]
 주소: https://www.infoq.com/news/2025/11/tools-genai/
-설명: 인공지능 기술은 새로운 작업 부하, 트래픽 패턴, 및 인프라 요구 사항을 지원해야 하며, GenAI 시대에 필요한 새로운 도구 세트를 필요로 합니다. KubeCon + CloudNativeCon North America 2025 콘퍼런스에서 Erica Hughberg는 Tetrate에서, Alexa Griffith는 Bloomberg에서 말했습니다. GenAI 플랫폼을 위한 무게중심 모델 인프레넌스를 제공하기 위해 어떤 것이 필요한지 설명했습니다.
+설명: 인공지능 기술은 새로운 작업 부하, 트래픽 패턴, 및 인프라 요구 사항을 지원해야 하며, GenAI 시대에는 새로운 도구 집합이 필요합니다. KubeCon + CloudNativeCon North America 2025 콘퍼런스에서 Erica Hughberg(Tetrate)와 Alexa Griffith(Bloomberg)가 지난 주 그들이 어떤 것을 구축해야 하는지 설명했습니다. GenAI 플랫폼에서 모델 인프레런스를 규모에 따라 제공하기 위해 무엇이 필요한지 논의했습니다.
 #인공지능 #GenAI #KubeCon #CloudNativeCon
 
 Hashtags: #인공지능, #GenAI, #KubeCon, #CloudNativeCon
 
-8 번째 검색 내용
-제목: 코드 아레나는 실제 세계의 AI 코딩 성능을 평가하는 새로운 기준으로 시작합니다.
-주소: https://www.infoq.com/news/2025/11/code-arena/
-설명: LMArena는 Code Arena를 출시했습니다. 이것은 AI 모델의 완전한 응용 프로그램을 구축하는 데 성능을 평가하는 것보다는 단지 코드 스니펫만 생성하는 것보다 더 중요합니다. 이 플랫폼은 모델이 제어된 환경에서 실제 개발 워크플로우를 재현하며 계획, 스캐폴드, 반복 및 코드를 정리할 수 있는 에이지닉 행동을 강조합니다.
-#LMArena #CodeArena #AI평가플랫폼
-
-Hashtags: #LMArena, #CodeArena, #AI평가플랫폼
-
 9 번째 검색 내용
-제목: AWS가 ECR에서 원격 빌드 캐시를 소개하여 Docker 이미지 빌드 속도 향상을 위해 협력합니다.
-주소: https://www.infoq.com/news/2025/11/aws-remote-build-cache-docker/
-설명: Amazon Web Services는 CodeBuild 서비스의 개선을 발표했습니다. 이제 팀은 Amazon ECR를 원격 Docker 레이어 캐시로 사용할 수 있어, CI/CD 파이프라인에서 이미지 빌드 시간을 크게 줄일 수 있습니다. ECR 저장소를 빌드 레이어를 유지하고 실행 간에 재사용할 수 있기 때문입니다. 컨테이너의 변경 없는 부분을 재생성하지 않아도 되므로, 기업들은 빌드를 가속화할 수 있습니다.
-#AWS #CodeBuild #CI/CD #컨테이너화폐쇄 #빌드시간 줄이기
-
-Hashtags: #AWS, #CodeBuild, #CI/CD, #컨테이너화폐쇄, #빌드시간 줄이기
+제목: 코드 아레나가 실제 세계의 AI 코딩 성능을 기준으로 새로운 벤치마크로 출시되었습니다.
+주소: https://www.infoq.com/news/2025/11/code-arena/
+설명: LMArena는 Code Arena를 출시했습니다. 이것은 AI 모델의 완전한 응용 프로그램을 구축하는 데 성능을 평가하는 것보다는 단지 코드 스니펫만 생성하는 것에 초점을 맞추지 않고, 에이전트적 행동을 강조합니다. 모델은 제한된 환경에서 실제 개발 워크플로우를 재현하는 데 있어 계획, 스캐폴딩, 반복 및 정리를 수행할 수 있습니다.
+#인공지능 #코드아레나 #L
 
 10 번째 검색 내용
-제목: 김의 K2 오픈소스 언어 모델는 동적인 리소스 사용량을 지원하고 새로운 최적화자를 포함합니다.
-주소: https://www.infoq.com/news/2025/11/kimi-k2-open-source-moe-ai/
-설명: AI : 김미는 K2, 15.5조 토큰으로 훈련된 320억 활성화 매개변수와 전체 1.04조 매개변수를 갖춘 混合-of-Experts 대규모 자연어 모델을 발표했습니다. 이 발표는 MuonClip, Muon 최적화기법에 QK-clip 기술을 추가하여 훈련 불안정성을 해결하는 데 집중한 새로운 최적화기법을 소개합니다. 팀은 "전처리 중에 '0' 손실 스파이크"를 보고했습니다.
-#김미 #K2 #MuonClip
+제목: AWS가 ECR에서 원격 빌드 캐시를 소개하여 Docker 이미지 빌드 속도 향상을 위해 협력합니다.
+주소: https://www.infoq.com/news/2025/11/aws-remote-build-cache-docker/
+설명: Amazon Web Services는 CodeBuild 서비스의 개선을 발표했습니다. 이제 팀은 Amazon ECR를 원격 Docker 레이어 캐시로 사용할 수 있으며, CI/CD 파이프라인에서 이미지 빌드 시간을 크게 줄여줍니다. 조직은 ECR 저장소를 빌드 레이어를 유지하고 재사용하여 실행 간에 변경되지 않은 컨테이너의 부분을 재생성할 필요가 없도록 스킵할 수 있으며, 배포를 빠르게 만들어줍니다.
+#AWS #CodeBuild #CI/CD #Container #Delivery
 
-Hashtags: #AI #MachineLearning #NaturalLanguageProcessing
+#hashtags:
+1. #AWS - Amazon Web Services
+2. #CodeBuild - CodeBuild 서비스
+3. #CI/CD - 연속 통합(Continuous Integration)과 빌드-배포 자동화(Continuous Deployment)의 약자.
 
 11 번째 검색 내용
+제목: 김의 K2 오픈소스 언어 모델는 동적인 리소스 사용량을 지원하고 새로운 최적화자를 포함합니다.
+주소: https://www.infoq.com/news/2025/11/kimi-k2-open-source-moe-ai/
+설명: AI : 김미는 K2, 15.5조 토큰으로 훈련된 320억 활성화 매개변수와 전체 1.04조 매개변수를 갖춘 混合-of-Experts 대규모 자연어 모델을 발표했습니다. 이 발표는 MuonClip, Muon 최적화기법에 QK-clip 기술을 추가하여 훈련 불안정성을 해결하는 데 초점을 맞춘 새로운 최적화기법을 소개합니다. 팀은 이를 사전 훈련 중에 "0 손실 스파이크"가 발생하지 않도록 결과를 보고했습니다.
+#김미 #K2 #MuonClip
+
+Translated content:
+김미는 K2, 15.5조 토큰으로 훈련된 320억 활성화 매개변수와 전체 1.04조 매개변수를 갖춘 混合-of-Experts 대규모 자연어 모델을 발표했습니다. 이 발표는 MuonClip, Muon 최적화기법에 QK-clip 기술을 추가하여 훈련 불안정성을 해결하는 데 초점을 맞춘 새로운 최적화기법을 소개합니다. 팀은 이를 사전 훈련 중에 "0 손실 스파이크"가 발생하지 않도록 결과를 보고했습니다.
+#김미 #K2 #MuonClip
+
+12 번째 검색 내용
 제목: .NET 10은 MAUI 품질과 성능을 개선합니다.
 주소: https://www.infoq.com/news/2025/11/net-maui-10-quality-performance/
 설명: At the launch of .NET 10, .NET MAUI receives a suite of updates focused on quality, performance and developer productivity. While no new big UI changes are there, the enhancements fill in missing details in cross‑platform workflows and refine long‑standing platform behaviour issues.
                      #.NET10 #.NETMAUI #개발자생산성
 
 [INST] Human : Translate my sentence into Korean: At the launch of .NET 10, .NET MAUI receives a suite of updates focused on quality, performance and developer productivity. While no new big UI changes are there, the enhancements fill in missing details in cross‑platform workflows and refine long‑standing platform behaviour issues.
-                     and Provide - #hashtags. Add 3 hashtags related to the translated content. [/INST]
-
-12 번째 검색 내용
-제목: VoidZero의 롤다운 라이브러리: 롤업 호환 API로서 Rust의 속도
-
-(Note: The translation may not be perfect as some words and phrases might have different meanings in Korean. Please review the translation for accuracy.)
-주소: https://www.infoq.com/news/2025/11/rolldown-bundler-rust/
-설명: Rolldown은 JavaScript/TypeScript 붕들러로, Rust에서 만들어졌으며 속도와 효율성에서 최상의 성능을 제공합니다. Rollup보다 10-30배 더 빠른 성능을 제공하면서, 기존 Rollup 플러그인과 매우 잘 통합됩니다. 현대적인 빌드 워크플로에 고급 기능을 추가하여 큰 규모의 응용 프로그램과 프레임워크에 최적화된 Rolldown은 웹 붕들링의 미래를 상징합니다.
-#Rolldown #웹붕들링 #JavaScript #TypeScript
-#Rust #빌드워크플로우 #프레임워크 #응용프로그램
+and Provide - #hashtags. Add 3 hashtags related to the translated content. [/INST]
 
 13 번째 검색 내용
-제목: [INST] 데이터베이스 DNS 시스템의 레이스 콘디션: AWS US-EAST-1 장애 분석
+제목: VoidZero의 롤다운 라이브러리: 롤업 호환 API로서 Rust의 속도
+
+(Note: The translation may not be perfect as some terms like "Rolldown Library" and "Rollup Compatible API" might not have direct translations in Korean. However, the overall meaning should be conveyed.)
+주소: https://www.infoq.com/news/2025/11/rolldown-bundler-rust/
+설명: Rolldown은 JavaScript/TypeScript 번들러로, Rust에서 만들어졌으며 빠른 속도와 효율성을 제공합니다. Rollup보다 10-30배 더 빠른 성능을 제공하면서, 기존 Rollup 플러그인과 매우 잘 통합됩니다. 현대적인 빌드 워크플로에 고급 기능을 추가하여 큰 규모의 응용 프로그램과 프레임워크에 최적화된 Rolldown은 웹 번들링의 미래를 상징합니다.
+#Rolldown #웹_번들러 #JavaScript #TypeScript
+#빌드_워크플로 #빠른_속도 #효율성
+
+14 번째 검색 내용
+제목: [INST] 데이터베이스 DNS 시스템의 레이스 컬리션: AWS US-EAST-1 중단 분석
 [/INST]
 주소: https://www.infoq.com/news/2025/11/aws-dynamodb-outage-postmortem/
 설명: On October 19th and 20th, AWS experienced an extended outage triggered by a failure in Amazon DynamoDB that affected most services in its most popular region, Northern Virginia. The cloud provider released an analysis of the incident, sparking discussions in the community about redundancy on AWS, moving out of public cloud, and multi-region approaches.
@@ -119,20 +124,11 @@ Translated content:
 On October 19th and 20th, AWS experienced an extended outage triggered by a failure in Amazon DynamoDB that affected most services in its most popular region, Northern Virginia. The cloud provider released an analysis of the incident, sparking discussions in the community about redundancy on AWS, moving out of public cloud, and multi-region approaches.
 #AWS #클라우드 #데이터베이스 #장애조치
 
-14 번째 검색 내용
-제목: 마이크로소프트는 데이터 주소 문제를 해결하기 위해 개인 클라우드 확장을 통해 대응합니다.
-주소: https://www.infoq.com/news/2025/11/data-residency-azure-local/
-설명: Microsoft는 세계적인 데이터 주소성과 제어 규정을 엄격하게 준수해야 하는 특히 유럽에서 강화한 Sovereign Cloud 제공입니다. 새로운 기능은 EU 데이터 경계 약속, 국가별 데이터 처리의 확장 및 향상된 Sovereign Private Cloud 기능으로 구성됩니다.
-#SovereignCloud #데이터주소성 #유럽
-
-#hashtags: #SovereignCloud, #데이터주소성, #유럽
-
 15 번째 검색 내용
-제목: 몬조의 실시간 악성 사용자 검출 아키텍처: BigQuery와 마이크로서비스를 활용한 구현
+제목: 마이크로소프트는 데이터 주소성을 위해 개인 클라우드 확장을 통해 대응합니다.
+주소: https://www.infoq.com/news/2025/11/data-residency-azure-local/
+설명: Microsoft는 전 세계적인 데이터 주소성과 제어 규정을 엄격하게 준수해야 하는 특히 유럽에서 강화한 Sovereign Cloud 제공을 위해 노력했습니다. 새로운 기능은 EU 데이터 경계 약속, 국가별 데이터 처리의 확장 및 향상된 Sovereign Private Cloud 기능입니다.
+#sovereigncloud #dataprivacy #eudataboundary
 
-(Note: The translation may not be perfect as it involves technical terms. Please review and make necessary adjustments if needed.)
-주소: https://www.infoq.com/news/2025/11/monzo-real-time-fraud-detection/
-설명: Monzo는 사기를 실시간으로 감지하고, 증가하는 결제량을 처리하며, 새로운 제어를 빠르게 배포할 수 있도록 손익률 최적화를 위한 사기 방지 플랫폼을 재설계했습니다. 은행의 모듈형 제어 아키텍처, 기능 계산 파이프라인, 및 BigQuery를 통한 정확하고 저지연시 사기 검출을 탐색하십시오.
-
-#은행 #사기방지 #BigQuery #실시간 #사기검출
+#hashtags: #sovereigncloud, #dataprivacy, #eudataboundary
 
