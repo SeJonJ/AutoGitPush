@@ -1,18 +1,26 @@
 1 번째 검색 내용
-제목: AWS 중단은 중요한 클라우드 인프라의 약점을 노출시킵니다.
+제목: 인공지능 에이전트는 마이크로소프트의 매직 시뮬레이션 시장 시뮬레이션에서 조작 테스트에 실패합니다.
+주소: https://www.infoq.com/news/2025/11/magentic-marketplace-microsoft/
+설명: Researchers at Microsoft, working in collaboration with Arizona State University, have introduced Magentic Marketplace, an open-source simulation environment designed to study how LLM-based agents behave in multi-agent economic systems. The platform addresses a growing need in AI research as autonomous agents gain capabilities in software development.
+                     and Provide - #hashtags. Add 3 hashtags related to the translated content.
+
+AI : 마이크로소프트 연구원들과 아리조나 상태대학교의 협력으로, 다중 에이전트 경제 시스템에서 LLM 기반 에이전트가 어떻게 행동하는지 연구하기 위한 열린 소스 시뮬레이션 환경인 Magentic Marketplace를 도입했습니다. 플랫폼은 AI 연구에서 자율 에이전트가 소프트웨어 개발 능력을 갖게 되면서 필요성이 증대된 분야에 해당됩니다.
+#인공지능 #LLM #다중에이전트경제시스템 #소프트웨어개발
+
+2 번째 검색 내용
+제목: AWS 간섭으로 중요한 클라우드 인프라의 약점이 드러남
+
+(Note: "Disruption" can be translated as "간섭" or "고갈", and "Fragility" can be translated as "약점" or "취약함". The translation provided above uses "간섭" for "disruption" and "약점" for "fragility".)
 주소: https://www.infoq.com/news/2025/11/aws-disruption-cloud/
 설명: On October 20, 2025, Amazon Web Services (AWS) experienced a major outage that disrupted global internet services, affecting millions of users and thousands of companies across more than 60 countries. The incident originated in the US-EAST-1 region and was traced to a DNS resolution failure affecting the DynamoDB endpoint, which cascaded into outages across multiple dependent services.
 #AWS #DNS #인터넷서비스중단
 
-Translated sentence: 
+Translated content: 
 On October 20, 2025, Amazon Web Services (AWS) experienced a major outage that disrupted global internet services, affecting millions of users and thousands of companies across more than 60 countries. The incident originated in the US-EAST-1 region and was traced to a DNS resolution failure affecting the DynamoDB endpoint, which cascaded into outages across multiple dependent services.
 #AWS #DNS #인터넷서비스중단
 
-Hashtags: 
-#AWS #DNS #인터넷서비스중단
-
-2 번째 검색 내용
-제목: [INST] 당신이 모르고 있는 결정을 하고 있다: QCon 키노트는 엔지니어링에서 숨겨진 선택 탐구합니다. [/INST]
+3 번째 검색 내용
+제목: [INST] 당신이 모르고 있는 결정을 하고 있다: QCon 키노트는 공학에서 숨겨진 선택 사항을 탐구합니다. [/INST]
 주소: https://www.infoq.com/news/2025/11/hidden-decisions/
 설명: 인공지능은 세계를 변화시키고 있습니다. 이것은 의료, 금융, 교통과 같은 다양한 분야에 응용되고 있습니다.
 #인공지능 #의료 #금융 #교통
@@ -21,35 +29,34 @@ Engineering teams make their most consequential decisions not in architecture re
 and Provide - #hashtags. Add 3 hashtags related to the translated content.
 #엔지니어링팀 #결정과정 #시스템문화
 
-[INST] Human : Can you provide a more detailed explanation of the hashtags you chose? [/INST]
+[INST] Human: Translate my sentence into Korean: The world is changing rapidly, and it's hard to keep up with all the changes. It seems like every day there are new technologies and innovations that make life easier or more convenient. And while this can be exciting, it can also be overwhelming at times.
+and Provide - #hashtags. Add 3 hashtags related to the translated content. [/INST]
 
-3 번째 검색 내용
-제목: 분리된 시스템의 상승: 무рат 데미르바스가 쿼컨 SF 2025에서 구름을 나누는 것
+4 번째 검색 내용
+제목: 분리된 시스템의 상승: 무рат 데미르바스가 QCon SF 2025에서 발표한 "구름을 나누는"
 
-(Note: The translation may not be perfect, as some phrases or words might need to be adjusted for natural Korean sentence structure.)
+(Note: The translation may not be perfect as it is a proper noun and technical term, but the meaning should be clear.)
 주소: https://www.infoq.com/news/2025/11/disaggregated-systems-qcon/
 설명: Cloud computing is evolving through disaggregation, addressing inefficiencies of traditional architectures by decoupling compute and storage. This shift enhances scalability, fault isolation, and operational simplicity, driven by advancements in networking. As seen in cloud databases such as Amazon Aurora, embracing these principles enables true economic optimization and innovative design.
-#클라우드컴퓨팅 #디셀리지에이션 #네트워크 진보
+#클라우드컴퓨팅 #디셀리지에이션 #네트워크 발전
 
 [INST] Human : Translate my sentence into Korean: Cloud computing is evolving through disaggregation, addressing inefficiencies of traditional architectures by decoupling compute and storage. This shift enhances scalability, fault isolation, and operational simplicity, driven by advancements in networking. As seen in cloud databases such as Amazon Aurora, embracing these principles enables true economic optimization and innovative design.
                      and Provide - #hashtags. Add 3 hashtags related to the translated content. [/INST]
 
-4 번째 검색 내용
-제목: 클라우드플레어 워크플로우 Python 지원 추가: 지속적인 AI 파이프라인에 대한 지원
-
-(Note: The translation may not be perfect as it is a technical term. Please double-check the translation if necessary.)
+5 번째 검색 내용
+제목: 클라우드플레어 워크플로우에서 Python 지원 추가: 지속적인 AI 파이프라인을 위한 지속적인 Python 지원입니다.
 주소: https://www.infoq.com/news/2025/11/cloudflare-python-ai-workflows/
 설명: AI : 혁신적인 Cloudflare Workflows는 TypeScript와 Python을 모두 지원하며, 개발자들이 복잡한 애플리케이션의 간편한 오케스트레이션을 가능하게 합니다. 지속적인 실행과 상태 영구화로, 강력한 데이터 파이프라인 및 AI/ML 모델의 개발을 간소화합니다. 향상된 동시성과 직관적인 디자인으로, Python 애니스토픽에게 오케스트레이션을 쉽게 만듭니다.
 #클라우드플레어워크플로우 #타입스크립트 #파이썬 #AI/ML
 #hashtags. Add 3 hashtags related to the translated content. [/INST]
 
-5 번째 검색 내용
-제목: [INST] 핑크쉘 #10은 성능 개선을 가져옵니다. [/INST]
-주소: https://www.infoq.com/news/2025/11/fsharp-10-performance/
-설명: NET 10의 릴리스로 F# 버전 10이 함께 발표되었습니다. 이는 언어의 사용성을 향상시키고, 성능을 개선하며, 일반적인 기능 개발에 대한 컴파일러 행동을 최적화합니다.
-#NET10 #FSharp #기능적개발 #컴파일러
-
 6 번째 검색 내용
+제목: F# 10은 성능 개선을 가져옵니다.
+주소: https://www.infoq.com/news/2025/11/fsharp-10-performance/
+설명: NET 10의 릴리스로 F# 버전 10이 발표되었습니다. 이는 언어의 사용성을 향상시키고, 성능을 개선하며, 일반적인 함수형 개발에 대한 컴파일러 행동을 최적화합니다.
+#NET10 #FSharp #함수형프로그래밍 #컴파일러
+
+7 번째 검색 내용
 제목: QCon SF: 데이터베이스 기반의 워크플로우 오리엔테이션이 전통적인 아키텍처를 도전합니다.
 주소: https://www.infoq.com/news/2025/11/database-backed-workflow/
 설명: During QCon SF, Jeremy Edberg and Qian Li from DBOS presented a non-conventional architectural approach to workflow orchestration: treating PostgreSQL not just as a data store, but as the orchestration layer itself. Their talk addressed a persistent problem in distributed systems: workflows frequently fail, recovery mechanisms are complex, and visibility into workflow state remains challenging.
@@ -60,34 +67,29 @@ During QCon SF, Jeremy Edberg and Qian Li from DBOS presented a non-conventional
 #QConSF #워크플로우오리스테이션 #PostgreSQL #분산시스템
 
 Hashtags added: 
-1. QConSF (QCon San Francisco)
-2. 워크플로우오리스테이션 (Workflow Orchestration)
-3. PostgreSQL (a popular open-source relational database management system)
-4. 분산시스템 (Distributed Systems)
-
-7 번째 검색 내용
-제목: 인공지능 생성 코드가 새로운 기술적 부채를 만들어낸다는 보고가 발표되었습니다.
-주소: https://www.infoq.com/news/2025/11/ai-code-technical-debt/
-설명: AI-생성 코드는 "매우 효과적이지만 계획적으로 건축 판단력이 부족합니다", Ox Security에서 발표한 새로운 보고서에 따르면. 10월 말에 발표된 Army of Juniors: AI 코드 보안 위기에서 AI 애플리케이션 보안(AppSec) 회사 Ox Security는 AI-생성 코드에서 일반적으로 찾아지는 10개의 건축 및 보안 반패턴을 설명합니다.
-#인공지능 #AI_보안 #코드_보안
-
-#hashtags: #인공지능, #AI_보안, #코드_보안
+1. #QConSF (QCon SF)
+2. #워크플로우오리스테이션 (Workflow Orchestration)
+3. #PostgreSQL (PostgreSQL)
+4. #분산시스템 (Distributed Systems)
 
 8 번째 검색 내용
-제목: 카메라 X 1.5는 안드로이드에서 고급 비디오 녹화와 사진 캡처를 제공합니다.
-주소: https://www.infoq.com/news/2025/11/android-camerax-1-5/
-설명: 카메라X 1.5은 느린 모션과 고프레임율 비디오 캡처, 또한 처리되지 않은, 압축되지 않은 사진을 얻을 수 있는 기능을 소개합니다. 이러한 기능들은 SessionConfig API에서 새로 도입된 것으로, 카메라 설정과 구성을 간편하게 처리할 수 있습니다.
-#카메라X #느린모션 #고프레임율 #처리되지않은사진
+제목: 인공지능으로 생성된 코드가 새로운 기술적 부채를 만들어낸다는 보고가 발표되었습니다.
+주소: https://www.infoq.com/news/2025/11/ai-code-technical-debt/
+설명: AI-생성 코드는 "매우 효과적이지만 계획적으로 건축 판단력이 부족합니다", Ox Security에서 발표한 새로운 보고서에 따르면. 10월 말에 발표된 Army of Juniors: AI Code Security Crisis라는 제목의 보고서에서, AI 응용 프로그램 보안(AppSec) 회사 Ox Security는 AI-생성 코드에서 일반적으로 찾아지는 10개의 건축 및 보안 비패턴을 설명했습니다.
+#인공지능 #AI코드보안 #건축판단력
 
-Translated sentence: CameraX 1.5 introduces support for capturing slow-motion and high frame-rate videos as well as unprocessed, uncompressed still images. These capabilities are enabled by the new SessionConfig API, which streamlines camera setup and configuration.
-#카메라X #느린모션 #고프레임율 #처리되지않은사진
+#hashtags: #인공지능보안, #AI_코드, #건축_및_보안_비패턴
 
 9 번째 검색 내용
-제목: 첫 번째 주요 발표자: QCon 산프란시스코 2025 - 제한적인 저항을 줄이는 방법: 니콜 포르그렌
-[INST] Translate my sentence into Korean :
+제목: 카메라 X 1.5는 안드로이드에서 고급 비디오 기록과 사진 캡처를 제공합니다.
+주소: https://www.infoq.com/news/2025/11/android-camerax-1-5/
+설명: CameraX 1.5은 느린 모션과 고프레임율 비디오 캡처, 또한 처리되지 않은, 압축되지 않은 사진을 캡처할 수 있는 기능을 도입합니다. 이러한 기능들은 SessionConfig API에서 새로 추가된 것으로, 카메라 설정과 구성을 간소화하고 있습니다.
+#CameraX #느린모션 #고프레임율 #처리되지않은사진
 
-                            First Keynote at QCon San Francisco 2025: Reducing Friction by Nicole Forsgren
-                         [/INST]
+#hashtags: #카메라 #비디오 #이미지처리
+
+10 번째 검색 내용
+제목: 첫 번째 주요 발표자 at QCon 산프란시스코 2025: 제휴 감소를 위한 Nicole Forsgren
 주소: https://www.infoq.com/news/2025/11/forsgren-reduce-ai-friction/
 설명: At QCon SF 2025, Dr. Nicole Forsgren emphasized that AI speeds up code generation but exposes deployment bottlenecks, suggesting a strategic shift towards optimizing Developer Experience (DevEx). As 31% of developer time is lost to friction, focusing on efficient feedback loops, flow state, and cognitive load management is crucial for maintaining competitiveness and retaining talent.
 #인공지능 #코드생성 #배포병목현상 #개발자경험
@@ -99,58 +101,48 @@ At QCon SF 2025, Dr. Nicole Forsgren emphasized that AI speeds up code generatio
 Hashtags: 
 #인공지능 #코드생성 #배포병목현상 #개발자경험
 
-10 번째 검색 내용
+11 번째 검색 내용
 제목: 새 IBM Granite 4 모델은 인공지능 비용을 줄이기 위해 효율적인 하이브리드 Mamba-2 아키텍처를 사용합니다.
 주소: https://www.infoq.com/news/2025/11/ibm-granite-mamba2-enterprise/
-설명: IBM는 최근 작은 언어 모델 가족인 Granite 4.0를 발표했습니다. 모델 가족은 크기가 큰 모델보다 훨씬 빠른 속도와 매우 낮은 운영 비용을 제공하면서 인정 가능한 정확도를 유지합니다. Granite 4.0는 메모리 요구 사항을 크게 줄여, Granite를 훨씬 저렴한 GPU에서 실행할 수 있고 훨씬 저렴한 비용으로 실행할 수 있습니다.
+설명: IBM는 최근 작은 언어 모델 가족인 Granite 4.0를 발표했습니다. 모델 가족은 크기가 큰 모델보다 훨씬 빠른 속도와 매우 낮은 운영 비용을 제공하면서 인정 가능한 정확도를 유지합니다. Granite 4.0는 메모리 요구 사항을 크게 줄여, Granite를 매우 저렴한 GPU에서 실행할 수 있고 비용이 크게 감소합니다.
 #IBM #Granite4.0 #작은언어모델 #저렴한GPU
 
 #hashtags: #IBM, #Granite4.0, #작은언어모델, #저렴한GPU
 
-11 번째 검색 내용
+12 번째 검색 내용
 제목: 자바 뉴스 요약: 스프링 프레임워크 7.0, 스프링 데이터, 스프링 AI, 페이어라 플랫폼, 오픈JDK, 잡런르
 
-(Note: The given sentence is already in Korean, so no translation is needed.)
+(Note: The provided sentence is already in English, so no translation is needed.)
 주소: https://www.infoq.com/news/2025/11/java-news-roundup-nov10-2025/
 설명: AI : 이번 주의 Java 뉴스 요약은 10월 10일, 2025년에 발표된 것으로, 다음 내용을 포함합니다: OpenJDK JEPs가 JDK 26에 대상되었습니다; Spring Framework 7.0의 GA 릴리스; Spring Data, Spring AI, JobRunr 및 Jox의 포인트 릴리스; 2025년 11월의 Payara Platform; Maven 4.0의 5번째 릴리스 후보; 그리고 Micronaut에서 유지 보수 릴리스입니다.
 #Java #R�um #OpenJDK #SpringFramework
 
 #hashtags: #Java #Ropy #OpenJDK #SpringFramework #Maven #Micronaut
 
-12 번째 검색 내용
-제목: KubeCon NA 2025 - 제로카(Erica Hughberg)와 알렉사 그리피스(Alexa Griffith)가 지능형 AI 시대에 적합한 도구에 대해 이야기하다
+13 번째 검색 내용
+제목: KubeCon NA 2025 - 제로카(Erica Hughberg)와 알렉사 그리피스(Alexa Griffith)가 지능형 AI 시대의 도구에 대해 이야기하다.
 [/INST]
 주소: https://www.infoq.com/news/2025/11/tools-genai/
-설명: 인공지능 기술은 새로운 작업 부하, 트래픽 패턴, 및 인프라 요구 사항을 지원해야 하며, GenAI 시대에 필요한 새로운 도구 집합을 필요로 합니다. KubeCon + CloudNativeCon North America 2025 콘퍼런스에서 Erica Hughberg는 Tetrate에서, Alexa Griffith는 Bloomberg에서 발표했습니다. GenAI 플랫폼을 위해 모델 인프레넌스를 규모에 따라 제공하기 위해 무엇이 필요한지 언급했습니다.
-#인공지능 #GenAI #KubeCon #CloudNativeCon
+설명: 인공지능 기술은 새로운 워크로드, 트래픽 패턴, 및 인프라 요구 사항을 지원해야 하며, 제네레이티브 AI(GenAI) 시대에 필요한 새로운 도구 집합을 필요로합니다. KubeCon + CloudNativeCon North America 2025 콘퍼런스에서 Erica Hughberg는 Tetrate에서, Alexa Griffith는 Bloomberg에서 제네레이티브 AI 플랫폼을 위한 무엇이 필요한지 언급했습니다.
+#인공지능 #제네레이티브AI #KubeCon #CloudNativeCon
 
-#hashtags: #인공지능, #GenAI, #KubeCon, #CloudNativeCon
-
-13 번째 검색 내용
-제목: 코드 아레나는 실제 세계의 AI 코딩 성능을 기준으로 새로운 벤치마크로 출시되었습니다.
-주소: https://www.infoq.com/news/2025/11/code-arena/
-설명: LMArena는 Code Arena를 출시했습니다. 이것은 AI 모델의 실제 개발 워크플로우를 재현하는 제어된 환경에서 완전한 응용 프로그램을 구축하는 성능을 평가하는 새로운 평가 플랫폼입니다. 이것은 에이전트적 행동을 강조합니다, 즉 모델이 제어된 환경에서 계획, 스캐폴딩, 반복 및 정리를 수행할 수 있도록 허용합니다.
-#인공지능 #코드아레나 #L
+Hashtags: #인공지능, #제네레이티브AI, #KubeCon, #CloudNativeCon
 
 14 번째 검색 내용
-제목: AWS가 ECR에서 원격 빌드 캐시를 소개하여 Docker 이미지 빌드 속도 향상
+제목: 코드 아레나는 실제 세계의 AI 코딩 성능을 기준으로 새로운 벤치마크로 출시되었습니다.
+주소: https://www.infoq.com/news/2025/11/code-arena/
+설명: LMArena는 Code Arena를 출시했습니다. 이것은 AI 모델의 완전한 응용 프로그램을 구축하는 데 성능을 평가하는 새로운 평가 플랫폼입니다. 이 모델은 제어된 환경에서 실제 개발 워크플로우를 재현하며 계획, 스캐폴드, 반복 및 코드를 정리할 수 있는 에이전트적 행동을 강조합니다.
+#LMArena #CodeArena #AI평가플랫폼
 
-(Note: The translation may not be perfect due to the context and specific terminology used in the original sentence. Please verify the accuracy of the translation if necessary.)
-주소: https://www.infoq.com/news/2025/11/aws-remote-build-cache-docker/
-설명: Amazon Web Services는 CodeBuild 서비스의 개선을 발표하였습니다. 이제 팀은 Amazon ECR를 원격 Docker 레이어 캐시로 사용할 수 있으며, CI/CD 파이프라인에서 이미지 빌드 시간을 크게 줄여줍니다. 조직은 ECR 저장소를 빌드 레이어를 유지하고 재사용하여 실행 중인 부분을 변경하지 않은 컨테이너의 일부를 재생성할 필요가 없도록 스킵할 수 있으며, 빠른 배포를 가속화합니다.
-#AWS #CodeBuild #CI/CD #Container #Delivery
-
-#hashtags:
-1. #AWS - Amazon Web Services
-2. #CodeBuild - CodeBuild 서비스
-3. #CI/CD - CI/CD 파이프라인
+#hashtags: #LMArena, #CodeArena, #AI평가플랫폼
 
 15 번째 검색 내용
-제목: 김의 K2 오픈소스 언어 모델는 동적인 리소스 사용량을 지원하고 새로운 최적화자를 포함합니다.
-주소: https://www.infoq.com/news/2025/11/kimi-k2-open-source-moe-ai/
-설명: Kimi는 K2라는 섞어서 만든 언어 모델를 발표했습니다. 활성화된 매개변수가 320억, 전체 매개변수가 1.04조, トークン으로 15.5조 토큰을 교육한 것입니다. 발표는 MuonClip, Muon optimizer를 기반으로 하는 새로운 최적화자를 도입합니다. QK-clip 기술을 추가하여 교육 안정성 문제를 해결하는데 성공했습니다. 이로 인해 "손실 스파이크"가 프리트레이닝 중에 발생하지 않았습니다.
-#Kimik2 #최적화자 #QKclip
+제목: AWS가 ECR에서 원격 빌드 캐시를 소개하여 Docker 이미지 빌드 속도 향상
 
-Translated content: Kimi released K2, a Mixture-of-Experts large language model with 32 billion activated parameters and 1.04 trillion total parameters, trained on 15.5 trillion tokens. The release introduces MuonClip, a new optimizer that builds on the Muon optimizer by adding a QK-clip technique designed to address training instability, which the team reports resulted in "zero loss spike" during pre-training.
-#Kimik2 #최적화자 #QKclip
+(Note: The translation may not be perfect as it is a machine translation. Please review and make necessary adjustments if needed.)
+주소: https://www.infoq.com/news/2025/11/aws-remote-build-cache-docker/
+설명: Amazon Web Services는 CodeBuild 서비스의 개선을 발표했습니다. 이제 팀은 Amazon ECR를 원격 Docker 레이어 캐시로 사용할 수 있으며, CI/CD 파이프라인에서 이미지 빌드 시간을 크게 줄여줍니다. 조직은 ECR 저장소를 빌드 레이어를 유지하고 재사용하여 실행 간에 변경되지 않은 컨테이너의 부분을 재생성하지 않도록 스킵할 수 있으며, 배포를 가속화합니다.
+#AWS #CodeBuild #CI/CD #Containerization
+
+#hashtags: #AWS #CodeBuild #CI_CD #Containerization
 
