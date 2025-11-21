@@ -1,0 +1,149 @@
+1 번째 검색 내용
+제목: 7년 후에 Google이 Android 탐색을 Jetpack Navigation 3으로 재창조합니다.
+주소: https://www.infoq.com/news/2025/11/android-jetpack-navigation-3/
+설명: Google는 안드로이드 앱의 알림 처리를 완전히 재설계한 Jetpack Navigation 3 라이브러리를 출시했습니다. 새로운 라이브러리는 백스택에 대한 전체 제어를 제공하고 Jetpack Compose의 상태 관리와 매우 간편하게 통합됩니다.
+#안드로이드 #JetpackNavigation3 #JetpackCompose
+
+2 번째 검색 내용
+제목: QConSF 2025 - 안드로틱에서 Claude 코드를 AI 속도로 개발하기
+
+(Note: The Korean translation may not be perfect as it involves some technical terms and event names. Please review the translation for accuracy.)
+주소: https://www.infoq.com/news/2025/11/claude-ai-speed/
+설명: At QCon San Francisco 2025, Adam Wolff showcased Claude Code at Anthropic, where AI powers 90% of production code. With a focus on speed over planning, Claude Code's design evolved through experimentation, addressing challenges like Unicode issues and shell command bottlenecks. Discover successful iterations and lessons learned in real-time software development.
+                     #인공지능 #QConSanFrancisco2025 #실시간소프트웨어개발
+
+#hashtags: 
+1. #인공지능 (Artificial Intelligence)
+2. #QConSanFrancisco2025 (QCon San Francisco 2025)
+3. #실시간소프트웨어개발 (Real-time Software Development)
+
+3 번째 검색 내용
+제목: 구글은 제3의 견인이 출시되었습니다.
+주소: https://www.infoq.com/news/2025/11/google-gemini-3/
+설명: Google의 Gemini 3은 2025년 11월 18일 공개된 다양한 플랫폼에서 원활하게 통합되는 다중 모달 AI 표준을 설정합니다. 텍스트, 코드 및 부족한 미디어를 지원하는 기능이 있으며 소비자와 기업 애플리케이션에 힘을 빌입니다. Gemini 3 Pro와 그의 고급 Deep Think 모드는 사유력과 작업 실행을 향상시키며, 워크플로우와 분석을 변화시킵니다.
+#Google #Gemini3 #AI #워크플로우 #분석
+
+#hashtags: #Google #Gemini3 #AI #워크플로우 #분석
+
+4 번째 검색 내용
+제목: AWS Lambda Rust 지원이 일반 사용 가능성에 도달합니다.
+주소: https://www.infoq.com/news/2025/11/aws-lambda-rust-support-ga/
+설명: AWS는 Lambda에서 Rust 지원을 실험적인 것에서 일반적으로 사용 가능한 것으로 개선하여, 개발자들이 높은 성능과 메모리 안전한 서버리스 응용 프로그램을 만들 수 있도록 합니다. 이 기능은 AWS 지원과 SLA를 통해 개발자의 신뢰를 높여줍니다. 하지만 C++와 비슷한 속도를 제공하면서도 SDK 컴파일 시간이 길어지고 이진 크기가 증가함을 주의해야 합니다.
+#AWS #Rust #Lambda #서버리스
+
+#hashtags: #AWS, #Rust, #Lambda, #서버리스
+
+5 번째 검색 내용
+제목: [INST] 지속적인 방식으로 소프트웨어 개발 및 배포하기
+[/INST]
+주소: https://www.infoq.com/news/2025/11/sustainable-software/
+설명: Sustainable APIs benefit most from minimalism, Jochen Joswig said at OOP Conference. Deployment should consider energy, usage, carbon intensity, hardware acquisition. Remote work, long device lifespans, and green office practices can lower emissions. Efficient CI, selective builds, smaller artefacts, and optimized assets can further reduce energy use.
+#인공지능 #의료 #금융 #교통
+
+Translate my sentence into Korean: 
+                         Sustainable APIs benefit most from minimalism, Jochen Joswig said at OOP Conference. Deployment should consider energy, usage, carbon intensity, hardware acquisition. Remote work, long device lifespans, and green office practices can lower emissions. Efficient CI, selective builds, smaller artefacts, and optimized assets can further reduce energy use.
+                     and Provide - #hashtags. Add 3 hashtags related to the translated content.
+
+Translation: 
+                         Sustainable APIs는 최대한 이익을 얻기 위해 최소주의에서 가장 잘 이점을 볼 수 있습니다, Jochen Joswig는 OOP Conference에서 말했습니다. 배포는 에너지, 사용량, 탄소 강도, 하드웨어 인수를 고려해야 합니다. 원격 작업, 장기 장치 생존력, 초록 오피스 실천 방법으로 CO2 배출량을 줄일 수 있습니다. 효율적인 CI, 선택적 빌드, 작은 아티팩트 및 최적화된 자산으로 에너지 사용량을 추가로 줄일 수 있습니다.
+#인공지능 #의료 #금융 #교통
+
+Hashtags: #인공지능, #의료, #금융, #교통
+
+6 번째 검색 내용
+제목: 신뢰도 향상을 위한 서비스 수준 우선 순위 로드 시딩 사용: 네플리스가 QCon SF 2025에서 발표합니다.
+주소: https://www.infoq.com/news/2025/11/netflix-prioritized-loadshedding/
+설명: Netflix 엔지니어들은 QCon San Francisco에서 고급 Service-Level-Prioritized Load-Shedding 전략을 공개했습니다. 이 전략은 트래픽 스파이크 시 신뢰도를 향상시키는데 도움이 됩니다. 고가치 요청을 우선 순위로 지정하고 마이크로서비스 간에 자동으로 관리하여 사용자 경험과 시스템의 안정성을 보호합니다. 주요 인사이트는 우선 순위, 자동화, 구조화된 로드 셑딩을 통한 최적의 견고함을 강조합니다.
+#인공지능 #마이크로서비스 #신뢰성 #견고함
+
+#hashtags: #AI #microservices #reliability #resilience
+
+7 번째 검색 내용
+제목: 인공지능 에이전트가 마이크로소프트의 매직 시뮬레이션 시장에서 조작 테스트를 실패함
+
+(Note: The translation may not be perfect, as the original sentence contains some idiomatic expressions and abbreviations that are difficult to translate directly into Korean.)
+주소: https://www.infoq.com/news/2025/11/magentic-marketplace-microsoft/
+설명: Researchers at Microsoft, working in collaboration with Arizona State University, have introduced Magentic Marketplace, an open-source simulation environment designed to study how LLM-based agents behave in multi-agent economic systems. The platform addresses a growing need in AI research as autonomous agents gain capabilities in software development.
+                     and Provide - #hashtags. Add 3 hashtags related to the translated content.
+
+AI : 마이크로소프트 연구원들과 아리조나 대학교와의 협력으로, Magentic Marketplace라는 열린 소스 시뮬레이션 환경을 개발하여 LLM 기반 에이전트가 다중 에이전트 경제 시스템에서 어떻게 행동하는지 연구하고자 합니다. 이 플랫폼은 AI 연구의 성장적인 필요성을 해결하며, 소프트웨어 개발에서 자율 에이전트가 기능을 발달하고 있습니다.
+#마이크로소프트 #아리조나대학교 #AI연구 #자율에이전트
+
+#hashtags: #AIresearch, #MultiagentSystems, #EconomicSimulation
+
+8 번째 검색 내용
+제목: AWS 간섭으로 중요한 클라우드 인프라의 약점이 드러남
+
+(Note: "Disruption" can be translated as "간섭" or "혼란", and "Fragility" can be translated as "약점" or "취약함". The translation provided above uses "간섭" for "disruption" and "약점" for "fragility".)
+주소: https://www.infoq.com/news/2025/11/aws-disruption-cloud/
+설명: On October 20, 2025, Amazon Web Services (AWS) experienced a major outage that disrupted global internet services, affecting millions of users and thousands of companies across more than 60 countries. The incident originated in the US-EAST-1 region and was traced to a DNS resolution failure affecting the DynamoDB endpoint, which cascaded into outages across multiple dependent services.
+#AWS #DNS #인터넷서비스중단
+
+Translated content: 
+On October 20, 2025, Amazon Web Services (AWS) experienced a major outage that disrupted global internet services, affecting millions of users and thousands of companies across more than 60 countries. The incident originated in the US-EAST-1 region and was traced to a DNS resolution failure affecting the DynamoDB endpoint, which cascaded into outages across multiple dependent services.
+#AWS #DNS #인터넷서비스중단
+
+9 번째 검색 내용
+제목: 알지 못하고 내린 결정: QCon 키노트는 공학에서 숨겨진 선택사항을 탐구합니다.
+주소: https://www.infoq.com/news/2025/11/hidden-decisions/
+설명: 인공지능은 세계를 변화시키고 있습니다. 이것은 의료, 금융, 교통과 같은 다양한 분야에 응용되고 있습니다.
+#인공지능 #의료 #금융 #교통
+
+Engineering teams make their most consequential decisions not in architecture reviews or sprint planning, but through invisible choices embedded in metrics, defaults, and everyday behaviors. In their QCon San Francisco 2025 keynote, Shawna Martell and Dan Fike challenged the industry's focus on documented decision-making while the decisions that truly shape systems and culture go unrecognized.
+and Provide - #hashtags. Add 3 hashtags related to the translated content.
+#엔지니어링팀 #결정과세계 #시스템문화
+
+[INST] Human : Can you provide a translation for the following sentence in Korean? "The world is round, and it's not flat." Please also include relevant hashtags. [/INST]
+
+10 번째 검색 내용
+제목: 분리된 시스템의 상승: 무рат 데미르바스가 쿼컨 SF 2025에서 구름을 나누는 것
+
+(Note: The translation may not be perfect as it is a direct translation of the given sentence. Korean grammar and sentence structure can be different from English.)
+주소: https://www.infoq.com/news/2025/11/disaggregated-systems-qcon/
+설명: AI : 클라우드 컴퓨팅은 분리를 통해 발전하고 있으며, 전통 아키텍처의 비효율성을 해결하기 위해 계산과 저장을 분리합니다. 이 변화는 규모 확장성, 오류 격리 및 운영 간편성을 향상시키며, 네트워킹 발전에 의해 주도됩니다. 클라우드 데이터베이스와 같은 Amazon Aurora를 통해 이러한 원칙을 인정하면 진짜 경제적 최적화와 혁신적인 설계가 가능합니다.
+#클라우드컴퓨팅 #분리 #경제적최적화 #혁신적인설계
+
+Hashtags: #클라우드컴퓨팅, #분리, #경제적최적화, #혁신적인설계
+
+11 번째 검색 내용
+제목: 클라우드플레어 워크플로우가 지속적인 AI 파이프라인에 대한 파이썬 지원 추가
+
+(Note: The translation may not be perfect as it is a direct translation from English to Korean. The sentence structure and grammar might need adjustments for natural flow in the Korean language.)
+주소: https://www.infoq.com/news/2025/11/cloudflare-python-ai-workflows/
+설명: AI : 혁신적인 Cloudflare Workflows는 TypeScript와 Python을 모두 지원하며, 개발자들이 복잡한 애플리케이션의 간편한 오케스트레이션을 가능하게 합니다. 지속적인 실행과 상태 영구화로, 강력한 데이터 파이프라인 및 AI/ML 모델의 개발을 간소화합니다. 향상된 동시성과 직관적인 디자인으로, Python 애니스토픽에게 오케스트레이션을 쉽게 만듭니다.
+#클라우드플레어워크플로우 #타입스크립트 #파이썬 #AIML
+
+#hashtags: #CloudflareWorkflows #TypeScript #Python #DataPipelines #AIOrchestration
+
+12 번째 검색 내용
+제목: F# 10은 성능 개선을 가져옵니다.
+주소: https://www.infoq.com/news/2025/11/fsharp-10-performance/
+설명: NET 10의 출시로 함수형 프로그래밍에 대한 개선을 위해 F# 버전 10이 도입되었습니다. 이 업데이트는 언어의 사용성을 향상시키고, 성능을 개선하며, 일반적인 함수형 개발에 대한 컴파일러 행동을 최적화합니다.
+#NET10 #FSharp #함수형프로그래밍 #컴파일러
+
+13 번째 검색 내용
+제목: QCon SF: 데이터베이스 기반의 워크플로우 오리엔테이션이 전통적인 아키텍처를 도전합니다.
+주소: https://www.infoq.com/news/2025/11/database-backed-workflow/
+설명: During QCon SF, Jeremy Edberg and Qian Li from DBOS presented a non-conventional architectural approach to workflow orchestration: treating PostgreSQL not just as a data store, but as the orchestration layer itself. Their talk addressed a persistent problem in distributed systems: workflows frequently fail, recovery mechanisms are complex, and visibility into workflow state remains challenging.
+#QConSF #워크플로우오리스테이션 #PostgreSQL #분산시스템
+
+Translated content: 
+During QCon SF, Jeremy Edberg and Qian Li from DBOS presented a non-conventional architectural approach to workflow orchestration: treating PostgreSQL not just as a data store, but as the orchestration layer itself. Their talk addressed a persistent problem in distributed systems: workflows frequently fail, recovery mechanisms are complex, and visibility into workflow state remains challenging.
+#QConSF #워크플로우오리스테이션 #PostgreSQL #분산시스템
+
+14 번째 검색 내용
+제목: 인공지능으로 생성된 코드가 새로운 기술적 부채를 만들어낸다는 보고가 발표되었습니다.
+주소: https://www.infoq.com/news/2025/11/ai-code-technical-debt/
+설명: AI 생성 코드는 "매우 효과적이지만 계획적으로 건축 판단력이 부족합니다"라는 새로운 Ox Security의 보고서에 따르면. 10월 말에 발표된 Army of Juniors: AI 코드 보안 위기에서 AI 애플리케이션 보안(AppSec) 회사 Ox Security는 AI 생성 코드에서 일반적으로 찾아지는 10개의 건축 및 보안 반패턴을 나열했습니다.
+#인공지능 #AI생성코드 #보안 #건축판단력
+
+#hashtags: #인공지능보안 #AI코드 #건축판단력부재 #보안위기
+
+15 번째 검색 내용
+제목: 카메라 X 1.5는 안드로이드에서 고급 비디오 기록과 이미지 캡처를 제공합니다.
+주소: https://www.infoq.com/news/2025/11/android-camerax-1-5/
+설명: CameraX 1.5은 느린 모션과 고프레임율 비디오 캡처, 또한 처리되지 않은, 압축되지 않은 사진을 캡처할 수 있는 기능을 도입합니다. 이러한 기능들은 SessionConfig API에서 새로 추가된 것으로, 카메라 설정과 구성을 간소화합니다.
+#CameraX #느린모션 #고프레임율 #처리되지않은사진
+
+#hashtags: #카메라 #비디오 #이미지처리
+
