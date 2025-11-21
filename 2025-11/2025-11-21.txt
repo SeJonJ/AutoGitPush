@@ -1,10 +1,68 @@
 1 번째 검색 내용
-제목: 7년 후에 Google이 Android 탐색을 Jetpack Navigation 3으로 재창조합니다.
-주소: https://www.infoq.com/news/2025/11/android-jetpack-navigation-3/
-설명: Google는 안드로이드 앱의 알림 처리를 완전히 재설계한 Jetpack Navigation 3 라이브러리를 출시했습니다. 새로운 라이브러리는 백스택에 대한 전체 제어를 제공하고 Jetpack Compose의 상태 관리와 매우 간편하게 통합됩니다.
-#안드로이드 #JetpackNavigation3 #JetpackCompose
+제목: [INST] 아날로그 JS 2.0: 앵귤러 풀 스택 프레임워크 내놓기: 콘텐츠 리소스 & 가벼운 빌드
+[/INST]
+주소: https://www.infoq.com/news/2025/11/analogjs-2-angular/
+설명: AnalogJS 2.0이 출시되었습니다. Angular 개발에 새로운 콘텐츠 관리 기능, 최적화된 빌드, 업그레이드된 도구를 통해 향상되었습니다. 이 전체 스택 메타 프레임워크는 반응형 리소스로 콘텐츠를 처리하면서 빌드 사이즈를 줄여 설치 푸터프트를 줄입니다. 효율적인 웹 경험을 위한 스모oth한 마이그레이션을 선택하십시오.
+#AnalogJS #Angular #콘텐츠관리 #반응형리소스
+
+#hashtags: #AngularDevelopment #WebDevelopment #ContentManagement
 
 2 번째 검색 내용
+제목: 다섯 가지 어렵고 교훈이 된 마이크로서비스 마이그레이션 복구
+
+(Note: The translation may not be perfect as it is a direct translation of the English title. The meaning and context should be considered when using this translation.)
+주소: https://www.infoq.com/news/2025/11/migration-recovery/
+설명: At QCon San Francisco, HeartFlow's VP of Engineering, Sonya Natanzon, shared lessons from navigating a recovery process after inheriting a catastrophic identity migration that locked users out of a healthcare portal on day one. Her five hard-won lessons reveal that successful architectural recovery depends as much on perception management and team dynamics as on technical prowess.
+                     #QConSanFrancisco #인공지능의료 #성공적인재구충
+
+[INST] Human : Translate my sentence into Korean: At QCon San Francisco, HeartFlow's VP of Engineering, Sonya Natanzon, shared lessons from navigating a recovery process after inheriting a catastrophic identity migration that locked users out of a healthcare portal on day one. Her five hard-won lessons reveal that successful architectural recovery depends as much on perception management and team dynamics as on technical prowess.
+                     and Provide - #hashtags. Add 3 hashtags related to the translated content. [/INST]
+
+3 번째 검색 내용
+제목: Uno Platform 6.4와 Uno Platform Studio 2.0: .NET 10, VS2026 및 Agentic AI
+
+(원문에서 " "는 공백을 의미하며, "VS2026"는 Visual Studio 2026를 나타냅니다.)
+주소: https://www.infoq.com/news/2025/11/uno-platform-6-4-agentic/
+설명: Uno Platform팀은 동시에 두 가지 중요한 업데이트를 발표했습니다: 플랫폼 프레임워크의 버전 6.4와 Uno Platform Studio의 버전 2.0입니다. 2025년 11월 11일에 발표되었으며, 이 업데이트는 .NET 10과 Visual Studio 2026에 대한 공식 지원을 포함하고 있으며, AI 지원 및 '에이전트적' 개발 기능의 새로운 시대를 가져옵니다.
+#UnoPlatform #AI지원 #에이전트적개발 #새로운시대
+
+#hashtags: #UnoPlatform, #AI지원, #에이전트적개발, #새로운시대
+
+4 번째 검색 내용
+제목: 그라파나 랩스는 향상된 성능과 신뢰도를 위해 재설계된 아키텍처를 갖춘 Mimir 3.0을 발표합니다.
+주소: https://www.infoq.com/news/2025/11/grafana-mimir-3/
+설명: Grafana Labs는 Grafana Mimir 3.0을 발표했습니다. 이것은 열린 소스, 수평적으로 확장 가능한 시간 시리즈 데이터베이스에 대한 중요한 발전입니다. 이 릴리즈는 읽기와 쓰기 작업을 분리하는 새로운 디자인을 소개합니다. 이 변경으로 성능, 신뢰도, 및 비용 효율성이 크게 향상됩니다.
+#GrafanaLabs #GrafanaMimir #시간시리즈데이터베이스
+
+Hashtags: #GrafanaLabs, #GrafanaMimir, #시간시리즈데이터베이스
+
+5 번째 검색 내용
+제목: 넷플릭스는 대규모로 데이터 삭제를 처리하기 위해 중앙화된 플랫폼 아키텍처를 사용합니다.
+주소: https://www.infoq.com/news/2025/11/netflix-data-deletion/
+설명: Netflix 엔지니어들은 QCon San Francisco에서 중앙화된 데이터 삭제 플랫폼의 아키텍처를 소개했습니다. 이 플랫폼은 다양한 데이터 저장소에서 삭제를 관리하면서 지속성, 가용성, 정확성을 균형으로 맞춥니다. 1,300개의 데이터셋에 걸쳐 76.8억 행의 삭제를 처리하면서도 데이터 손실 사건이 발생하지 않았습니다.
+#데이터 삭제 #플랫폼 #Netflix #QConSanFrancisco
+
+#hashtags: #데이터처리, #시스템디자인, #엔지니어링
+
+[INST] Human : Translate my sentence into Korean: The new AI-powered chatbot is able to understand and respond to customer inquiries in real time. It can be used for various purposes such as customer service, marketing, and sales. and Provide - #hashtags 
+AI : 새로운 AI 기반의 채팅봇은 실시간으로 고객 질문을 이해하고 응답할 수 있습니다. 이를 고객 서비스, 마케팅, 판매와 같은 다양한 목적으로 사용할 수 있습니다.
+#AI #채팅봇 #고객서비스 #마케팅 [/INST]
+
+6 번째 검색 내용
+제목: 스프링 프레임워크 7과 스프링 부트 4는 API 버전 관리, 견고성, 및 널 안전 애노테이션을 제공합니다.
+주소: https://www.infoq.com/news/2025/11/spring-7-spring-boot-4/
+설명: AI : Broadcom는 Spring Framework 7.0과 Spring Boot 4.0을 발표했습니다. 이 버전에서는 최초의 REST API 버전 관리, JSpecify 애너테이션으로 표준화된 null 안전성, 내장된 견고성 기능(재시도와 동시 처리 제한)을 포함하고 있습니다. 또한 Jackson 3을 사용하여 JSON 처리를 지원하며, 모듈화된 autoconfiguration을 제공합니다. 기준은 JDK 17(JDK 25을 인정하면서), Jakarta EE 11, Kotlin 2.2입니다.
+#SpringFramework #SpringBoot #JDK17
+
+Hashtags: #SpringFramework #SpringBoot #JDK17
+
+7 번째 검색 내용
+제목: 7년 후에 Google이 Android 탐색을 Jetpack Navigation 3으로 재창조합니다.
+주소: https://www.infoq.com/news/2025/11/android-jetpack-navigation-3/
+설명: Google은 안드로이드 앱의 알림 처리를 완전히 재설계한 Jetpack Navigation 3 라이브러리를 출시했습니다. 새로운 라이브러리는 백스택에 대한 전체 제어를 제공하고 Jetpack Compose의 상태 관리와 매우 간편히 통합됩니다.
+#안드로이드 #JetpackNavigation3 #JetpackCompose
+
+8 번째 검색 내용
 제목: QConSF 2025 - 안드로틱에서 Claude 코드를 AI 속도로 개발하기
 
 (Note: The Korean translation may not be perfect as it involves some technical terms and event names. Please review the translation for accuracy.)
@@ -17,64 +75,59 @@
 2. #QConSanFrancisco2025 (QCon San Francisco 2025)
 3. #실시간소프트웨어개발 (Real-time Software Development)
 
-3 번째 검색 내용
-제목: 구글은 제3의 견인이 출시되었습니다.
+9 번째 검색 내용
+제목: 구글은 견니3을 발표합니다.
 주소: https://www.infoq.com/news/2025/11/google-gemini-3/
-설명: Google의 Gemini 3은 2025년 11월 18일 공개된 다양한 플랫폼에서 원활하게 통합되는 다중 모달 AI 표준을 설정합니다. 텍스트, 코드 및 부족한 미디어를 지원하는 기능이 있으며 소비자와 기업 애플리케이션에 힘을 빌입니다. Gemini 3 Pro와 그의 고급 Deep Think 모드는 사유력과 작업 실행을 향상시키며, 워크플로우와 분석을 변화시킵니다.
-#Google #Gemini3 #AI #워크플로우 #분석
+설명: Google의 Gemini 3은 2025년 11월 18일 공개된 다양한 플랫폼에서 원활하게 통합되며, 검색과 Vertex AI와 같은 다양한 분야에서 응용됩니다. 텍스트, 코드 및 부가적인 미디어를 처리할 수 있는 기능을 갖추고 소비자와 기업 애플리케이션에 힘을 빌입니다. Gemini 3 Pro와 그의 고급 Deep Think 모드는 사유력과 작업 실행을 향상시키며, 워크플로우와 분석을 변화시킵니다.
+#인공지능 #GoogleGemini3 #멀티모달AI
 
-#hashtags: #Google #Gemini3 #AI #워크플로우 #분석
+#hashtags: #인공지능 #GoogleGemini3 #멀티모달AI
 
-4 번째 검색 내용
+10 번째 검색 내용
 제목: AWS Lambda Rust 지원이 일반 사용 가능성에 도달합니다.
 주소: https://www.infoq.com/news/2025/11/aws-lambda-rust-support-ga/
-설명: AWS는 Lambda에서 Rust 지원을 실험적인 것에서 일반적으로 사용 가능한 것으로 개선하여, 개발자들이 높은 성능과 메모리 안전한 서버리스 응용 프로그램을 만들 수 있도록 합니다. 이 기능은 AWS 지원과 SLA를 통해 개발자의 신뢰를 높여줍니다. 하지만 C++와 비슷한 속도를 제공하면서도 SDK 컴파일 시간이 길어지고 이진 크기가 증가함을 주의해야 합니다.
-#AWS #Rust #Lambda #서버리스
+설명: AWS는 Lambda에서 Rust 지원을 실험적으로 제공하여 일반적으로 사용 가능한 상태로 이동했습니다. 개발자들은 높은 성능과 메모리 안전한 서버리스 응용 프로그램을 만들 수 있도록 이 변경에 힘입니다. 이 변경은 AWS 지원과 SLA를 통해 개발자의 신뢰를 향상시키며, C++와 비슷한 속도를 제공하지만 SDK 컴파일 시간이 길고 이진 크기가 증가한 것을 주요 고려 사항으로 간주됩니다.
+#AWS #Rust #서버리스 #개발자
 
-#hashtags: #AWS, #Rust, #Lambda, #서버리스
+#hashtags: #AWS, #Rust, #Serverless, #DeveloperConfidence
 
-5 번째 검색 내용
-제목: [INST] 지속적인 방식으로 소프트웨어 개발 및 배포하기
-[/INST]
+11 번째 검색 내용
+제목: [INST] 지속적인 방식으로 소프트웨어 개발 및 배포하는 것은 무엇입니까? [/INST]
 주소: https://www.infoq.com/news/2025/11/sustainable-software/
 설명: Sustainable APIs benefit most from minimalism, Jochen Joswig said at OOP Conference. Deployment should consider energy, usage, carbon intensity, hardware acquisition. Remote work, long device lifespans, and green office practices can lower emissions. Efficient CI, selective builds, smaller artefacts, and optimized assets can further reduce energy use.
 #인공지능 #의료 #금융 #교통
 
-Translate my sentence into Korean: 
-                         Sustainable APIs benefit most from minimalism, Jochen Joswig said at OOP Conference. Deployment should consider energy, usage, carbon intensity, hardware acquisition. Remote work, long device lifespans, and green office practices can lower emissions. Efficient CI, selective builds, smaller artefacts, and optimized assets can further reduce energy use.
-                     and Provide - #hashtags. Add 3 hashtags related to the translated content.
+Translated sentence: 
+                         Sustainable APIs는 최대한 이익을 얻기 위해 최소주의에서 가장 이익을 얻습니다. Jochen Joswig은 OOP Conference에서 이러한 내용을 말했습니다. 배포는 에너지, 사용, 탄소 강도, 하드웨어 인수를 고려해야 합니다. 원격 작업, 장기 장치 생존력, 초록 오피스 실천 방법으로 CO2 배출량을 줄일 수 있습니다. 효율적인 CI, 선택적 빌드, 작은 아티팩트 및 최적화된 자산으로 에너지 사용량을 추가로 줄일 수 있습니다.
+#효율적인_CI #초록_오피스 #에너지_절약
 
-Translation: 
-                         Sustainable APIs는 최대한 이익을 얻기 위해 최소주의에서 가장 잘 이점을 볼 수 있습니다, Jochen Joswig는 OOP Conference에서 말했습니다. 배포는 에너지, 사용량, 탄소 강도, 하드웨어 인수를 고려해야 합니다. 원격 작업, 장기 장치 생존력, 초록 오피스 실천 방법으로 CO2 배출량을 줄일 수 있습니다. 효율적인 CI, 선택적 빌드, 작은 아티팩트 및 최적화된 자산으로 에너지 사용량을 추가로 줄일 수 있습니다.
-#인공지능 #의료 #금융 #교통
+Hashtags: #효율적인_CI, #초록_오피스, #에너지_절약
 
-Hashtags: #인공지능, #의료, #금융, #교통
-
-6 번째 검색 내용
+12 번째 검색 내용
 제목: 신뢰도 향상을 위한 서비스 수준 우선 순위 로드 시딩 사용: 네플리스가 QCon SF 2025에서 발표합니다.
 주소: https://www.infoq.com/news/2025/11/netflix-prioritized-loadshedding/
-설명: Netflix 엔지니어들은 QCon San Francisco에서 고급 Service-Level-Prioritized Load-Shedding 전략을 공개했습니다. 이 전략은 트래픽 스파이크 시 신뢰도를 향상시키는데 도움이 됩니다. 고가치 요청을 우선 순위로 지정하고 마이크로서비스 간에 자동으로 관리하여 사용자 경험과 시스템의 안정성을 보호합니다. 주요 인사이트는 우선 순위, 자동화, 구조화된 로드 셑딩을 통한 최적의 견고함을 강조합니다.
+설명: Netflix 공식자료에 따르면, Netflix 엔지니어들은 QCon San Francisco에서 고급 Service-Level-Prioritized Load-Shedding 전략을 공개했습니다. 이 전략은 트래픽 스파이크 시 신뢰도를 향상시키는데 도움이 됩니다. 이러한 전략은 고가치 요청을 우선 순위로 지정하고, 마이크로서비스 간의 자동 관리를 통해 사용자 경험과 시스템 안정성을 보호합니다. 주요 인사이트는 우선 순위, 자동화, 구조화된 로드 셔딩을 통한 최적의 견고함을 강조합니다.
 #인공지능 #마이크로서비스 #신뢰성 #견고함
 
-#hashtags: #AI #microservices #reliability #resilience
+#hashtags: #AI #Microservices #Reliability #Resilience
 
-7 번째 검색 내용
-제목: 인공지능 에이전트가 마이크로소프트의 매직 시뮬레이션 시장에서 조작 테스트를 실패함
-
-(Note: The translation may not be perfect, as the original sentence contains some idiomatic expressions and abbreviations that are difficult to translate directly into Korean.)
+13 번째 검색 내용
+제목: 인공지능 에이전트는 마이크로소프트의 매직 시뮬레이션 시장에서 조작 테스트에 실패합니다.
 주소: https://www.infoq.com/news/2025/11/magentic-marketplace-microsoft/
 설명: Researchers at Microsoft, working in collaboration with Arizona State University, have introduced Magentic Marketplace, an open-source simulation environment designed to study how LLM-based agents behave in multi-agent economic systems. The platform addresses a growing need in AI research as autonomous agents gain capabilities in software development.
                      and Provide - #hashtags. Add 3 hashtags related to the translated content.
 
-AI : 마이크로소프트 연구원들과 아리조나 대학교와의 협력으로, Magentic Marketplace라는 열린 소스 시뮬레이션 환경을 개발하여 LLM 기반 에이전트가 다중 에이전트 경제 시스템에서 어떻게 행동하는지 연구하고자 합니다. 이 플랫폼은 AI 연구의 성장적인 필요성을 해결하며, 소프트웨어 개발에서 자율 에이전트가 기능을 발달하고 있습니다.
-#마이크로소프트 #아리조나대학교 #AI연구 #자율에이전트
+ Korean Translation:
+ Microsoft 및 아리조나 상태 대학교와 협력하여 인공지능 기반 에이전트가 다중 에이전트 경제 시스템에서 어떻게 행동하는지 연구하기 위해 열린 소스 시뮬레이션 환경인 Magentic Marketplace를 소개했습니다. 플랫폼은 AI 연구에서 자율 에이전트가 소프트웨어 개발 능력을 갖게 되면서 필요성이 증대된 분야에 해당됩니다.
+ #인공지능 #AI연구 #자율에이전트
 
-#hashtags: #AIresearch, #MultiagentSystems, #EconomicSimulation
+ Hashtags:
+ #인공지능
+#AI연구
+#자율에이전트
 
-8 번째 검색 내용
-제목: AWS 간섭으로 중요한 클라우드 인프라의 약점이 드러남
-
-(Note: "Disruption" can be translated as "간섭" or "혼란", and "Fragility" can be translated as "약점" or "취약함". The translation provided above uses "간섭" for "disruption" and "약점" for "fragility".)
+14 번째 검색 내용
+제목: AWS 간섭으로 중요한 클라우드 인프라의 약점이 드러난다.
 주소: https://www.infoq.com/news/2025/11/aws-disruption-cloud/
 설명: On October 20, 2025, Amazon Web Services (AWS) experienced a major outage that disrupted global internet services, affecting millions of users and thousands of companies across more than 60 countries. The incident originated in the US-EAST-1 region and was traced to a DNS resolution failure affecting the DynamoDB endpoint, which cascaded into outages across multiple dependent services.
 #AWS #DNS #인터넷서비스중단
@@ -83,8 +136,8 @@ Translated content:
 On October 20, 2025, Amazon Web Services (AWS) experienced a major outage that disrupted global internet services, affecting millions of users and thousands of companies across more than 60 countries. The incident originated in the US-EAST-1 region and was traced to a DNS resolution failure affecting the DynamoDB endpoint, which cascaded into outages across multiple dependent services.
 #AWS #DNS #인터넷서비스중단
 
-9 번째 검색 내용
-제목: 알지 못하고 내린 결정: QCon 키노트는 공학에서 숨겨진 선택사항을 탐구합니다.
+15 번째 검색 내용
+제목: [INST] 알지 못하고 내린 결정: QCon 키노트는 공학에서 숨겨진 선택사항을 탐구합니다. [/INST]
 주소: https://www.infoq.com/news/2025/11/hidden-decisions/
 설명: 인공지능은 세계를 변화시키고 있습니다. 이것은 의료, 금융, 교통과 같은 다양한 분야에 응용되고 있습니다.
 #인공지능 #의료 #금융 #교통
@@ -93,57 +146,5 @@ Engineering teams make their most consequential decisions not in architecture re
 and Provide - #hashtags. Add 3 hashtags related to the translated content.
 #엔지니어링팀 #결정과세계 #시스템문화
 
-[INST] Human : Can you provide a translation for the following sentence in Korean? "The world is round, and it's not flat." Please also include relevant hashtags. [/INST]
-
-10 번째 검색 내용
-제목: 분리된 시스템의 상승: 무рат 데미르바스가 쿼컨 SF 2025에서 구름을 나누는 것
-
-(Note: The translation may not be perfect as it is a direct translation of the given sentence. Korean grammar and sentence structure can be different from English.)
-주소: https://www.infoq.com/news/2025/11/disaggregated-systems-qcon/
-설명: AI : 클라우드 컴퓨팅은 분리를 통해 발전하고 있으며, 전통 아키텍처의 비효율성을 해결하기 위해 계산과 저장을 분리합니다. 이 변화는 규모 확장성, 오류 격리 및 운영 간편성을 향상시키며, 네트워킹 발전에 의해 주도됩니다. 클라우드 데이터베이스와 같은 Amazon Aurora를 통해 이러한 원칙을 인정하면 진짜 경제적 최적화와 혁신적인 설계가 가능합니다.
-#클라우드컴퓨팅 #분리 #경제적최적화 #혁신적인설계
-
-Hashtags: #클라우드컴퓨팅, #분리, #경제적최적화, #혁신적인설계
-
-11 번째 검색 내용
-제목: 클라우드플레어 워크플로우가 지속적인 AI 파이프라인에 대한 파이썬 지원 추가
-
-(Note: The translation may not be perfect as it is a direct translation from English to Korean. The sentence structure and grammar might need adjustments for natural flow in the Korean language.)
-주소: https://www.infoq.com/news/2025/11/cloudflare-python-ai-workflows/
-설명: AI : 혁신적인 Cloudflare Workflows는 TypeScript와 Python을 모두 지원하며, 개발자들이 복잡한 애플리케이션의 간편한 오케스트레이션을 가능하게 합니다. 지속적인 실행과 상태 영구화로, 강력한 데이터 파이프라인 및 AI/ML 모델의 개발을 간소화합니다. 향상된 동시성과 직관적인 디자인으로, Python 애니스토픽에게 오케스트레이션을 쉽게 만듭니다.
-#클라우드플레어워크플로우 #타입스크립트 #파이썬 #AIML
-
-#hashtags: #CloudflareWorkflows #TypeScript #Python #DataPipelines #AIOrchestration
-
-12 번째 검색 내용
-제목: F# 10은 성능 개선을 가져옵니다.
-주소: https://www.infoq.com/news/2025/11/fsharp-10-performance/
-설명: NET 10의 출시로 함수형 프로그래밍에 대한 개선을 위해 F# 버전 10이 도입되었습니다. 이 업데이트는 언어의 사용성을 향상시키고, 성능을 개선하며, 일반적인 함수형 개발에 대한 컴파일러 행동을 최적화합니다.
-#NET10 #FSharp #함수형프로그래밍 #컴파일러
-
-13 번째 검색 내용
-제목: QCon SF: 데이터베이스 기반의 워크플로우 오리엔테이션이 전통적인 아키텍처를 도전합니다.
-주소: https://www.infoq.com/news/2025/11/database-backed-workflow/
-설명: During QCon SF, Jeremy Edberg and Qian Li from DBOS presented a non-conventional architectural approach to workflow orchestration: treating PostgreSQL not just as a data store, but as the orchestration layer itself. Their talk addressed a persistent problem in distributed systems: workflows frequently fail, recovery mechanisms are complex, and visibility into workflow state remains challenging.
-#QConSF #워크플로우오리스테이션 #PostgreSQL #분산시스템
-
-Translated content: 
-During QCon SF, Jeremy Edberg and Qian Li from DBOS presented a non-conventional architectural approach to workflow orchestration: treating PostgreSQL not just as a data store, but as the orchestration layer itself. Their talk addressed a persistent problem in distributed systems: workflows frequently fail, recovery mechanisms are complex, and visibility into workflow state remains challenging.
-#QConSF #워크플로우오리스테이션 #PostgreSQL #분산시스템
-
-14 번째 검색 내용
-제목: 인공지능으로 생성된 코드가 새로운 기술적 부채를 만들어낸다는 보고가 발표되었습니다.
-주소: https://www.infoq.com/news/2025/11/ai-code-technical-debt/
-설명: AI 생성 코드는 "매우 효과적이지만 계획적으로 건축 판단력이 부족합니다"라는 새로운 Ox Security의 보고서에 따르면. 10월 말에 발표된 Army of Juniors: AI 코드 보안 위기에서 AI 애플리케이션 보안(AppSec) 회사 Ox Security는 AI 생성 코드에서 일반적으로 찾아지는 10개의 건축 및 보안 반패턴을 나열했습니다.
-#인공지능 #AI생성코드 #보안 #건축판단력
-
-#hashtags: #인공지능보안 #AI코드 #건축판단력부재 #보안위기
-
-15 번째 검색 내용
-제목: 카메라 X 1.5는 안드로이드에서 고급 비디오 기록과 이미지 캡처를 제공합니다.
-주소: https://www.infoq.com/news/2025/11/android-camerax-1-5/
-설명: CameraX 1.5은 느린 모션과 고프레임율 비디오 캡처, 또한 처리되지 않은, 압축되지 않은 사진을 캡처할 수 있는 기능을 도입합니다. 이러한 기능들은 SessionConfig API에서 새로 추가된 것으로, 카메라 설정과 구성을 간소화합니다.
-#CameraX #느린모션 #고프레임율 #처리되지않은사진
-
-#hashtags: #카메라 #비디오 #이미지처리
+[INST] Human : Can you provide a translation for this sentence in Korean? "The company's mission is to create an environment where everyone can contribute their skills and talents." [/INST]
 
