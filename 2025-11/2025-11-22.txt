@@ -1,0 +1,153 @@
+1 번째 검색 내용
+제목: QConSF 2025: 인간이 루프에서 주도권: 기술 지도자가 혼란스러운 산업에서 어떻게 활약할까요?
+주소: https://www.infoq.com/news/2025/11/qcon-engineering-leadership/
+설명: At QCon SF 2025, Michelle Brush of Google explored the evolving landscape of software engineering in her keynote, “Humans in the Loop: Engineering Leadership in a Chaotic Industry.” She highlighted the complexities engineers face amid automation and AI, stressing the importance of conscious competence, higher-level problem-solving, and effective leadership in navigating today's challenges.
+                     #QConSF2025 #소프트웨어엔지니어링 #인공지능 #자동화
+
+Translated sentence: 
+At QCon SF 2025, Michelle Brush of Google explored the evolving landscape of software engineering in her keynote, “Humans in the Loop: Engineering Leadership in a Chaotic Industry.” She highlighted the complexities engineers face amid automation and AI, stressing the importance of conscious competence, higher-level problem-solving, and effective leadership in navigating today's challenges.
+                     #QConSF2025 #소프트웨어엔지니어링 #인공지능 #자동화
+
+Hashtags: 
+#QConSF2025
+#소프트웨어엔지니어링
+#인공지능
+#자동화
+
+2 번째 검색 내용
+제목: 정적인 것에서 적응형 교통 제어로 이동하여 Airbnb의 키-값 저장소를 사용하여 트래픽 스파이크를 처리하기 위한 방법
+
+(Note: The translation may not be perfect as the original sentence is a mix of English and Korean words. However, it conveys the general idea of the topic.)
+주소: https://www.infoq.com/news/2025/11/airbnb-mussel-adaptive-traffic/
+설명: Airbnb는 Mussel, 다중 테넌트 키-값 저장소를 업그레이드하여 정적인 클라이언트별 비율 제한을 유연한, 자원에 대한 인식이 있는 트래픽 컨트롤 시스템으로 교체했습니다. 재설계는 트래픽 폭발 시 안정성을 보장하며, 중요한 워크플로우를 보호하고 수천 개의 테넌트에서 균형잡힌 사용량을 유지하면서도 효율적으로 확장합니다.
+#Airbnb #Mussel #트래픽컨트롤시스템
+
+#hashtags: #Airbnb #Mussel #트래픽컨트롤시스템
+
+3 번째 검색 내용
+제목: 구글이 지속적인, 상호작용 가능한 코드 문서화를 위한 AI 기반 시스템인 'Code Wiki'를 출시합니다.
+주소: https://www.infoq.com/news/2025/11/google-code-wiki/
+설명: Google은 Code Wiki라는 새로운 플랫폼을 소개했습니다. 이 플랫폼은 코드를 설명하는 문서를 지속적으로 동기화하도록 설계되었으며, 변경사항마다 자동으로 업데이트됩니다. 또한 전체 코드베이스를 이해하는 통합된 채팅 인터페이스를 제공합니다.
+#코드위키 #소프트웨어문서화 #코드동기화
+
+Translated sentence: Google has introduced Code Wiki, a new platform designed to keep software documentation continuously synchronized with the code it describes. The system generates a structured wiki for each repository, automatically updates it after every change, and powers an integrated chat interface that understands the entire codebase.
+#hashtags: #코드위키 #소프트웨어문서화 #코드동기화
+
+4 번째 검색 내용
+제목: [INST] 아날로그 JS 2.0: 앵귤러 풀 스택 프레임워크 내비 콘텐츠 리소스 & 가벼운 빌드 소개
+[/INST]
+주소: https://www.infoq.com/news/2025/11/analogjs-2-angular/
+설명: AnalogJS 2.0이 출시되었습니다. Angular 개발에 새로운 콘텐츠 관리 기능, 최적화된 빌드, 업그레이드된 도구를 통해 향상되었습니다. 이 전체 스택 메타 프레임워크는 반응형 자원으로 콘텐츠를 처리하며 빌드 사이즈와 설치 부담을 줄입니다. 모던한, 효율적인 웹 경험을 위한 스마트 마이그레이션을 선택하십시오.
+#AnalogJS #Angular #콘텐츠관리 #반응형자원
+
+#hashtags: #AngularDevelopment #WebDevelopment #FullStackFramework
+
+5 번째 검색 내용
+제목: 다섯 가지 어렵고 교훈이 된 마이크로서비스 마이그레이션 복구
+
+(Note: The translation may not be perfect as it is a direct translation of the English title. The meaning and context might need to be adjusted for better understanding in Korean.)
+주소: https://www.infoq.com/news/2025/11/migration-recovery/
+설명: At QCon San Francisco, HeartFlow's VP of Engineering, Sonya Natanzon, shared lessons from navigating a recovery process after inheriting a catastrophic identity migration that locked users out of a healthcare portal on day one. Her five hard-won lessons reveal that successful architectural recovery depends as much on perception management and team dynamics as on technical prowess.
+                     #QConSanFrancisco #인공지능의료 #성공적인재구축
+
+Add 3 hashtags related to the translated content:
+#인공지능 #의료 #재구축
+
+6 번째 검색 내용
+제목: Uno Platform 6.4와 Uno Platform Studio 2.0: .NET 10, VS2026 및 Agentic AI
+
+(원문의 마크다운 형식을 유지하면서 번역결과)
+
+[INST] Uno Platform 6.4와 Uno Platform Studio 2.0: .NET 10, VS2026 및 Agentic AI를 번역해주세요. [/INST]
+주소: https://www.infoq.com/news/2025/11/uno-platform-6-4-agentic/
+설명: Uno Platform 팀은 동시에 두 가지 중요한 업데이트를 발표했습니다: 플랫폼 프레임워크의 버전 6.4와 Uno Platform Studio의 버전 2.0입니다. 2025년 11월 11일에 발표되었으며, 이 업데이트는 .NET 10과 Visual Studio 2026에 대한 공식 지원을 포함하고 있으며, AI 지원 및 '에이전트적' 개발 기능의 새로운 시대를 가져옵니다.
+#UnoPlatform #AI지원 #에이전트적개발 #새로운시대
+
+#hashtags: #UnoPlatform, #AI지원, #에이전트적개발, #새로운시대
+
+7 번째 검색 내용
+제목: 그라폴라 라빈스가 개선된 성능과 신뢰도를 위해 재설계된 아키텍처로 구성된 Mimir 3.0을 발표합니다.
+주소: https://www.infoq.com/news/2025/11/grafana-mimir-3/
+설명: Grafana Labs는 Grafana Mimir 3.0을 발표했습니다. 이것은 열린 소스, 수평적으로 확장 가능한 시간 시리즈 데이터베이스에 대한 중요한 발전입니다. 이 릴리즈는 읽기와 쓰기 작업을 분리하는 새로운 디자인을 소개합니다. 이 변경으로 메트릭을 처리하는 조직의 성능, 신뢰도, 및 비용 효율성이 크게 향상됩니다.
+#GrafanaLabs #GrafanaMimir #시간시리즈데이터베이스
+
+Hashtags: #GrafanaLabs, #GrafanaMimir, #시간시리즈데이터베이스
+
+8 번째 검색 내용
+제목: 넷플릭스는 대규모로 데이터 삭제를 처리하기 위해 중앙화된 플랫폼 아키텍처를 사용합니다.
+주소: https://www.infoq.com/news/2025/11/netflix-data-deletion/
+설명: Netflix 엔지니어들은 QCon San Francisco에서 중앙화된 데이터 삭제 플랫폼의 아키텍처를 소개했습니다. 이 플랫폼은 다양한 데이터 저장소에서 삭제를 관리하면서 지속성, 가용성, 정확성을 균형 잡기 위해 76.8억 행의 삭제를 1,300개의 데이터셋에 처리하면서도 데이터 손실 사건이 발생하지 않았습니다.
+#데이터삭제 #플랫폼아키텍처 #네트플릭스엔지니어링
+
+Translated content: Netflix engineers presented their architecture for a centralized data-deletion platform at QCon San Francisco, addressing a critical yet rarely discussed system design challenge. The platform manages deletion across heterogeneous data stores while balancing durability, availability, and correctness, processing 76.8 billion row deletions across 1,300 datasets with zero data loss incidents.
+
+#hashtags: #데이터삭제 #플랫폼아키텍처 #네트플릭스엔지니어링
+
+9 번째 검색 내용
+제목: 스프링 프레임워크 7과 스프링 부트 4는 API 버전 관리, 견고성, 및 널 안전 애노테이션을 제공합니다.
+주소: https://www.infoq.com/news/2025/11/spring-7-spring-boot-4/
+설명: Broadcom는 Spring Framework 7.0과 Spring Boot 4.0을 발표했습니다. 이 버전에서는 최초의 REST API 버전 관리, 표준화된 null 안전성을 위한 JSpecify 애너테이션, 내장된 복원력 기능(재시도 및 동시성 제한)을 포함하고 있으며, Jackson 3을 사용하여 JSON 처리를 지원하고 모듈화된 autoconfiguration을 제공합니다. 기준은 JDK 17(JDK 25을 인정하면서), Jakarta EE 11, Kotlin 2.2입니다.
+#SpringFramework #SpringBoot #JDK17
+
+#hashtags: #Java #SoftwareDevelopment #Broadcom
+
+10 번째 검색 내용
+제목: 7년 후에 Google이 Android 탐색을 Jetpack Navigation 3으로 재창조합니다.
+주소: https://www.infoq.com/news/2025/11/android-jetpack-navigation-3/
+설명: Google는 안드로이드 앱의 알림 처리를 완전히 재설계한 Jetpack Navigation 3 라이브러리를 출시했습니다. 새로운 라이브러리는 백스택에 대한 전체 제어를 제공하고 Jetpack Compose의 상태 관리와 매우 간편히 통합됩니다.
+#안드로이드 #JetpackNavigation3 #JetpackCompose
+
+11 번째 검색 내용
+제목: QConSF 2025 - 안드로틱에서 Claude 코드를 AI 속도로 개발하는 것
+[INST] Translate my sentence into Korean :
+
+                            QConSF 2025 - Developing Claude Code at Anthropic at AI Speed
+                         [/INST]
+주소: https://www.infoq.com/news/2025/11/claude-ai-speed/
+설명: At QCon San Francisco 2025, Adam Wolff showcased Claude Code at Anthropic, where AI powers 90% of production code. With a focus on speed over planning, Claude Code's design evolved through experimentation, addressing challenges like Unicode issues and shell command bottlenecks. Discover successful iterations and lessons learned in real-time software development.
+                     #인공지능 #QConSanFrancisco2025 #실시간소프트웨어개발
+
+#hashtags: 
+1. #인공지능 (AI)
+2. #QConSanFrancisco2025 (QCon San Francisco 2025)
+3. #실시간소프트웨어개발 (Real-time software development)
+
+12 번째 검색 내용
+제목: 구글은 견인3을 발표합니다.
+주소: https://www.infoq.com/news/2025/11/google-gemini-3/
+설명: Google의 Gemini 3은 2025년 11월 18일 공개된 다양한 플랫폼에서 원활하게 통합되며, 검색과 Vertex AI와 같은 다양한 분야에서 응용됩니다. 텍스트, 코드, 및 부가적인 미디어를 지원하는 능력이 있으며 소비자 및 기업 애플리케이션을 강화합니다. Gemini 3 Pro와 그의 고급 Deep Think 모드는 사유력과 작업 실행을 향상시키며, 워크플로우와 분석을 혁신적으로 변화시키고 있습니다.
+#인공지능 #GoogleGemini3 #멀티모달AI
+
+#hashtags: #인공지능 #GoogleGemini3 #멀티모달AI
+
+13 번째 검색 내용
+제목: AWS Lambda Rust 지원이 일반 사용 가능성에 도달합니다.
+주소: https://www.infoq.com/news/2025/11/aws-lambda-rust-support-ga/
+설명: AWS는 Lambda에서 Rust 지원을 실험적으로 제공하여 일반적으로 사용 가능한 상태로 이동했습니다. 개발자들은 높은 성능과 메모리 안전한 서버리스 응용 프로그램을 만들 수 있게 되었습니다. 이 변화는 AWS 지원과 SLA에 따른 개발자 신뢰를 향상시키며, C++와 비슷한 속도를 제공합니다. 그러나 SDK 컴파일 시간이 길고 이진 크기가 증가하는 문제가 여전히 주요 고려 사항입니다.
+#AWS #Rust #서버리스 #개발자
+
+#hashtags: #AWS, #Rust, #Serverless, #DeveloperConfidence
+
+14 번째 검색 내용
+제목: [INST] 지속적인 방식으로 소프트웨어 개발 및 배포하는 것은 무엇입니까?
+[/INST]
+주소: https://www.infoq.com/news/2025/11/sustainable-software/
+설명: Sustainable APIs benefit most from minimalism, Jochen Joswig said at OOP Conference. Deployment should consider energy, usage, carbon intensity, hardware acquisition. Remote work, long device lifespans, and green office practices can lower emissions. Efficient CI, selective builds, smaller artefacts, and optimized assets can further reduce energy use.
+#인공지능 #의료 #금융 #교통
+
+Translated sentence: 
+                         Sustainable APIs는 최대한 이익을 얻기 위해 최소주의에서 이익하고 있습니다. OOP 컨퍼런스에서 Jochen Joswig은 배포를 에너지, 사용량, 탄소 강도, 하드웨어 인수 등을 고려해야 한다고 말했습니다. 원격 작업, 장기 장치 생존력, 초록 오피스 실천 방법으로 CO2 배출량을 줄일 수 있습니다. 효율적인 CI, 선택적 빌드, 작은 아티펩트, 최적화된 자산을 사용하면 에너지 소모를 더 줄일 수 있습니다.
+#효율성 #에너지 절약 #초록오피스
+
+Hashtags: #효율성, #에너지 절약, #초록오피스
+
+15 번째 검색 내용
+제목: 신뢰도를 향상시키기 위해 서비스 수준에 따른 로드 쉐딩 적용: 넷플릭스 2025년 QCon SF에서의 발표
+
+(Note: The translation may not be perfect as it involves understanding the context and technical terms used in the original sentence. Please verify the accuracy of the translation if necessary.)
+주소: https://www.infoq.com/news/2025/11/netflix-prioritized-loadshedding/
+설명: Netflix 엔지니어들은 QCon San Francisco에서 고급 Service-Level-Prioritized Load-Shedding 전략을 공개하였습니다. 이 전략은 트래픽 피크 시 신뢰도를 향상시키는데 도움이 됩니다. 이러한 전략은 고가치 요청을 우선 순위로 지정하고, 마이크로서비스 간의 자동 관리를 통해 사용자 경험과 시스템 안정성을 보호합니다. 주요 인사이트는 우선 순위, 자동화, 구조화된 로드 셑딩을 통한 최적의 견고함을 강조합니다.
+#인공지능 #마이크로서비스 #로드셀딩 #견고함
+
+#hashtags: #AI #microservices #loadShedding #resilience
+
