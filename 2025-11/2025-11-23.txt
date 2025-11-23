@@ -1,85 +1,98 @@
 1 번째 검색 내용
-제목: 올모3 릴리즈는 모델 개발 및 훈련에 대한 전체적인 투명성을 제공합니다.
-주소: https://www.infoq.com/news/2025/11/olmo3/
-설명: AI : 올모3는 인공지능 개발자들에게 모델 생명주기의 전부, 즉 훈련 데이터까지 체크포인트까지 전부 접근할 수 있도록 열려 있는 언어 모델 가족입니다. 이유 집중형 변종과 훈련 후 변경에 대한 강력한 도구를 포함하고 있으며, 투명성, 실험, 커뮤니티 협업을 촉진하여 AI 분야의 발전을 이끕니다.
-#올모3 #인공지능 #개발자용도 #투명성
+제목: 새로운 토큰 중심의 객체 표기법(Token-Oriented Object Notation, TOON)은 토큰 소비를 줄이면서 LLM 비용을 절약하고자 합니다.
+주소: https://www.infoq.com/news/2025/11/toon-reduce-llm-cost-tokens/
+설명: Token-Oriented Object Notation(TOON)은 최근에 발표된 스키마 인식 대안으로 JSON을 대체하려고 합니다. TOON은 데이터 형태에 따라 토큰 절약량의 차이가 있지만, 비슷한 정확도를 유지하면서 토큰 소비를 크게 줄여버립니다. 일부 벤치마크에 따르면 TOON은 JSON보다 40% 이상의 토큰을 사용하지 않을 수 있으며, LLM과 인프레런스 비용 절약 효과가 발생할 수 있습니다.
+#TOON #JSON대안 #데이터형태에따른토큰절약량 #LLM및인프레런스비용절약
 
-Hashtags: #올모3, #인공지능, #개발자용도, #투명성
+Hashtags: #TOON #JSON대안 #데이터형태에따른토큰절약량 #LLM및인프레런스비용절약
 
 2 번째 검색 내용
-제목: Nexla 앱 출시: AI 데이터 엔지니어링용 대화형 플랫폼
-주소: https://www.infoq.com/news/2025/11/nexla-express-ai-data/
-설명: Nexla는 최근에 Express, 인공지능 응용 프로그램을 위한 대화형 데이터 엔지니어링 플랫폼으로 소개했습니다. 이것은 데이터 파이프라인 구축의 장벽을 크게 낮추기 위해 사용되며, AI 응용 분야에서 매우 효과적입니다.
-#Nexla #데이터엔지니어링 #인공지능응용프로그램
+제목: 올모3 릴리즈는 모델 개발 및 훈련에 대한 전체 투명성을 제공합니다.
+주소: https://www.infoq.com/news/2025/11/olmo3/
+설명: AI : 올모3는 인공지능 개발자들에게 모델 생명주기의 전부, 즉 훈련 데이터셋부터 체크포인트까지, 전부 접근할 수 있도록 열려 있는 개방형 언어 모델 가족입니다. 이유 집중형 변종과 훈련 후 변경에 대한 강력한 도구를 포함하고 있으며, 투명성, 실험, 커뮤니티 협업을 촉진하여 AI 분야의 발전을 이끕니다.
+#올모3 #인공지능 #개방형소프트웨어
 
-Translated sentence: Nexla recently introduced Express, a conversational data engineering platform designed to dramatically lower the barrier for building data pipelines for AI applications.
-and Provide - #hashtags. Add 3 hashtags related to the translated content.
+Hashtags: #올모3, #인공지능, #개방형소프트웨어
 
 3 번째 검색 내용
-제목: 클라우드플레어 글로벌 다운타임을 내부 데이터베이스 변경으로 추적
+제목: Nexla 앱 출시: AI 데이터 엔지니어링용 대화형 플랫폼
+주소: https://www.infoq.com/news/2025/11/nexla-express-ai-data/
+설명: Nexla는 최근에 Express, 인공지능 응용 프로그램을 위한 대화형 데이터 엔지니어링 플랫폼으로 소개했습니다. 이것은 데이터 파이프라인 구축의 장벽을 크게 낮추기 위해 사용되었습니다.
+#Nexla #데이터엔지니어링 #인공지능응용프로그램
 
-(Note: The translation may not be perfect as it is a direct translation from English to Korean. In Korean, the subject usually comes first, followed by the object and then the verb. So, the sentence structure might be different than in English.)
-주소: https://www.infoq.com/news/2025/11/cloudflare-global-outage-cause/
-설명: Cloudflare의 최근 전역 중단, 데이터베이스 업데이트와 관련된 사건으로 인해 광범위한 장애가 발생하고 단일 제공업체에 의존의 위험을 강조했습니다. 서비스가 복구되었지만, 사건은 기술 분야의 다중 제공업체 전략의 중요성에 대한 토론을 유도했습니다. Cloudflare의 CEO는 중단이 심각한 제공업체에도 영향을 줄 수 있음을 강조하면서 시스템 내구성을 개선할 것을 약속했습니다.
-#기술 #데이터베이스 #중단 #단일제공업체의존
-
-#hashtags: #기술 #데이터베이스 #중단 #단일제공업체의존
+Translated content hashtags: #Nexla, #데이터엔지니어링, #인공지능응용프로그램
 
 4 번째 검색 내용
-제목: 그라폴라는 최신 릴리즈에서 스마트한 로그, MCP 서버, 및 트레이스QL 업그레이드를 공개합니다.
-주소: https://www.infoq.com/news/2025/11/grafana-new-releases/
-설명: Grafana Labs는 두 개의 핵심 관찰성 제품인 Grafana 12.3과 Grafana Tempo 2.9에 대한 주요 업데이트를 발표했습니다. 이 둘의 릴리스는 모니터링, 로그 및 추적 기능을 향상시킨 Grafana 사용자에게 고유한 개선 사항을 제공합니다.
-#GrafanaLabs #관찰성 #모니터링 #로그 #추적
+제목: 클라우드플레어 글로벌 다운타임을 내부 데이터베이스 변경으로 추적
 
-#hashtags: #GrafanaLabs, #Observability, #Monitoring, #Logs, #Tracing
+(Note: The translation may not be perfect as it is a direct translation from English to Korean. The sentence structure and grammar might need adjustments for natural flow in the Korean language.)
+주소: https://www.infoq.com/news/2025/11/cloudflare-global-outage-cause/
+설명: Cloudflare의 최근 전역 중단, 데이터베이스 업데이트와 관련된 사건으로 인해 광범위한 장애가 발생하고 단일 제공업체에 의존의 위험을 강조했습니다. 서비스가 복구되었지만, 사건은 기술 분야의 다중 제공업체 전략의 중요성에 대한 토론을 유도했습니다. Cloudflare CEO는 중단이 심각한 제공업체에도 영향을 줄 수 있음을 강조하며 시스템 내구성을 개선할 것을 약속했습니다.
+#기술 #데이터베이스 #중단 #전역
+
+#hashtags: #기술 #데이터베이스 #중단 #전역
 
 5 번째 검색 내용
-제목: 밸키 9.0은 다중 데이터베이스 클러스팅, 원자적 슬롯 마이그레이션, 및 주요 성능 향상을 소개합니다.
-주소: https://www.infoq.com/news/2025/11/valkey-9-atomic-migration/
-설명: AI : Linux 재단은 Redis의 후계자로 개발된 열린 원천 저장 솔루션인 Valkey 9.0의 일반적으로 사용 가능한 버전을 발표했습니다. 최신 주요 버전에서는 원자 슬롯 이동, 해시 필드 만료 및 클러스터 모드에서 숫자 데이터베이스에 대한 완전 지원을 소개합니다. 이로 인해 2,000 노드까지 확장할 수 있고 1억 요청 이상을 달성할 수 있습니다.
-#Valkey #열린원천저장솔루션 #클러스터모드 #1억요청 이상
+제목: 그라파나는 최신 릴리즈에서 스마트한 로그, MCP 서버, 및 트레이스QL 업그레이드를 공개합니다.
+주소: https://www.infoq.com/news/2025/11/grafana-new-releases/
+설명: Grafana Labs는 두 개의 핵심 관찰성 제품인 Grafana 12.3과 Grafana Tempo 2.9에 대한 주요 업데이트를 발표했습니다. 이 둘의 릴리스는 모니터링, 로그, 및 추적을 위한 Grafana 사용자의 개선 사항이 있습니다.
+#GrafanaLabs #관찰성 #모니터링 #로그 #추적
 
-Hashtags: #Valkey #열린원천저장솔루션 #클러스터모드 #1억요청 이상
+Hashtags: #GrafanaLabs, #Observability, #Monitoring, #Logs, #Tracing
 
 6 번째 검색 내용
-제목: QConSF 2025: 인간이 루프에서 주도권: 기술 지도자가 혼란스러운 산업에서 어떻게 대처해야 할까요?
+제목: 밸키 9.0은 다중 데이터베이스 클러스팅, 원자적 슬롯 마이그레이션, 및 주요 성능 향상을 소개합니다.
+주소: https://www.infoq.com/news/2025/11/valkey-9-atomic-migration/
+설명: AI : 리눅스 재단은 Redis의 후계자로 개발된 오픈소스 인메모리 저장 솔루션인 Valkey 9.0의 일반 사용 가능성을 발표했습니다. 최신 주요 버전에서는 원자 슬롯 이동, 해시 필드 만료 및 클러스터 모드에서 숫자 데이터베이스의 전체 지원을 소개합니다. 이로 인해 2,000 노드까지 확장할 수 있고 1억 요청 이상을 달성할 수 있습니다.
+#Valkey #인메모리저장솔루션 #클러스터모드
+
+Hashtags: #Valkey, #인메모리저장솔루션, #클러스터모드
+
+7 번째 검색 내용
+제목: QConSF 2025: 인간이 루프에서 주도권: 기술 지도자가 혼란스러운 산업에서 어떻게 활약할까요?
 주소: https://www.infoq.com/news/2025/11/qcon-engineering-leadership/
 설명: At QCon SF 2025, Michelle Brush of Google explored the evolving landscape of software engineering in her keynote, “Humans in the Loop: Engineering Leadership in a Chaotic Industry.” She highlighted the complexities engineers face amid automation and AI, stressing the importance of conscious competence, higher-level problem-solving, and effective leadership in navigating today's challenges.
                      #QConSF2025 #소프트웨어엔지니어링 #인공지능 #자동화
-Add 3 hashtags related to the translated content: #AI #인공지능 #자동화
 
-[INST] Human : Translate my sentence into Korean: At QCon SF 2025, Michelle Brush of Google explored the evolving landscape of software engineering in her keynote, “Humans in the Loop: Engineering Leadership in a Chaotic Industry.” She highlighted the complexities engineers face amid automation and AI, stressing the importance of conscious competence, higher-level problem-solving, and effective leadership in navigating today's challenges.
-                     and Provide - #hashtags. Add 3 hashtags related to the translated content. [/INST]
+Translated content: 
+At QCon SF 2025, Michelle Brush of Google explored the evolving landscape of software engineering in her keynote, “Humans in the Loop: Engineering Leadership in a Chaotic Industry.” She highlighted the complexities engineers face amid automation and AI, stressing the importance of conscious competence, higher-level problem-solving, and effective leadership in navigating today's challenges.
+                     #QConSF2025 #소프트웨어엔지니어링 #인공지능 #자동화
 
-7 번째 검색 내용
-제목: 에어비엔비가 키 값 저장소의 스파이크를 관리하기 위해 적응형 트래픽 제어 추가
-
-(Note: The translation may not be perfect as it is a direct translation from English to Korean. It would be better if a native Korean speaker checks and adjusts the translation for proper grammar and sentence structure.)
-주소: https://www.infoq.com/news/2025/11/airbnb-mussel-adaptive-traffic/
-설명: Airbnb는 Mussel, 다중 테넌트 키-값 저장소를 업그레이드하여, 정적인 클라이언트별 속도 제한을 자율적, 자원에 대한 인식이 있는 트래픽 컨트롤 시스템으로 대체했습니다. 재설계는 트래픽 폭발 시 안정성을 보장하며, 중요한 워크플로우를 보호하고 수천 개의 테넌트에서 균형잡힌 사용량을 유지하면서 효율적으로 확장합니다.
-#인공지능 #클라우드컴퓨팅 #스케일업 #트래픽제어시스템
-
-Hashtags: #인공지능, #클라우드컴퓨팅, #스케일업, #트래픽제어시스템
+Added hashtags: 
+#QConSF2025 #소프트웨어엔지니어링 #인공지능 #자동화
 
 8 번째 검색 내용
+제목: 에어비엔비가 키 값 저장소의 스파이크를 관리하기 위해 적응형 트래픽 제어 추가
+
+(Note: The translation may not be perfect as it is a direct translation from English to Korean without considering the context or grammar rules. It's recommended to have a native Korean speaker review the translation for accuracy.)
+주소: https://www.infoq.com/news/2025/11/airbnb-mussel-adaptive-traffic/
+설명: Airbnb는 Mussel, 다중 테넌트 키-값 저장소를 업그레이드하여, 정적인 클라이언트별 비율 제한을 유연한, 자원에 대한 인식이 있는 트래픽 컨트롤 시스템으로 바꾸었습니다. 재설계는 트래픽 폭발 시 안정성을 보장하며, 중요한 워크플로우를 보호하고, 수천 개의 테넌트에서 균형잡힌 사용량을 유지하면서도 효율적으로 확장합니다.
+#인공지능 #클라우드컴퓨팅 #스케일업 #안정성
+
+Translated content: Airbnb upgraded Mussel, its multi-tenant key-value store, replacing static per-client rate limits with an adaptive, resource-aware traffic control system. The redesign ensures resilience during traffic spikes, protects critical workflows, and maintains fair usage across thousands of tenants while scaling efficiently.
+#인공지능 #클라우드컴퓨팅 #스케일업 #안정성
+
+Hashtags: #인공지능 #클라우드컴퓨팅 #스케일업 #안정성
+
+9 번째 검색 내용
 제목: 구글이 지속적인, 상호작용 가능한 코드 문서화를 위한 AI 기반 시스템인 'Code Wiki'를 출시합니다.
 주소: https://www.infoq.com/news/2025/11/google-code-wiki/
-설명: Google은 Code Wiki라는 새로운 플랫폼을 소개했습니다. 이 플랫폼은 코드를 설명하는 문서를 지속적으로 동기화하도록 설계되었으며, 변경 후마다 자동으로 업데이트됩니다. 또한 통합된 채팅 인터페이스를 제공하며, 전체 코드베이스를 이해합니다.
+설명: Google은 Code Wiki라는 새로운 플랫폼을 소개했습니다. 이 플랫폼은 코드를 설명하는 문서를 지속적으로 동기화하도록 설계되었으며, 변경사항마다 자동으로 업데이트됩니다. 또한 전체 코드베이스를 이해하는 통합된 채팅 인터페이스를 제공합니다.
 #코드위키 #소프트웨어문서화 #코드동기화
 
 Translated sentence: Google has introduced Code Wiki, a new platform designed to keep software documentation continuously synchronized with the code it describes. The system generates a structured wiki for each repository, automatically updates it after every change, and powers an integrated chat interface that understands the entire codebase.
 #hashtags: #코드위키 #소프트웨어문서화 #코드동기화
 
-9 번째 검색 내용
-제목: [INST] 아날로그 JS 2.0: 앵귤러 풀 스택 프레임워크 내비로드 리소스 & 가벼운 빌드 소개
-                         [/INST]
-주소: https://www.infoq.com/news/2025/11/analogjs-2-angular/
-설명: AnalogJS 2.0이 출시되었습니다. Angular 개발에 새로운 콘텐츠 관리 기능, 최적화된 빌드, 업그레이드된 도구를 통해 향상되었습니다. 이 전체 스택 메타 프레임워크는 반응형 자원으로 콘텐츠를 처리하면서 빌드 사이즈를 줄여 설치 풀트 영역을 줄입니다. 효율적인 웹 경험을 위한 순조로운 마이그레이션을 잠재하는 모던한 웹 환경에 적합합니다.
-#AnalogJS #Angular #콘텐츠관리 #반응형자원
-
-#hashtags: #AngularDevelopment #WebDevelopment #ContentManagement
-
 10 번째 검색 내용
+제목: [INST] 아날로그 JS 2.0: 앵귤러 풀 스택 프레임워크 내비 콘텐츠 리소스 & 가벼운 빌드 소개
+[/INST]
+주소: https://www.infoq.com/news/2025/11/analogjs-2-angular/
+설명: AnalogJS 2.0이 출시되었습니다. Angular 개발에 새로운 콘텐츠 관리 기능, 최적화된 빌드, 업그레이드된 도구를 통해 향상되었습니다. 이 전체 스택 메타 프레임워크는 반응형 자원으로 콘텐츠를 처리하면서 빌드 사이즈를 줄여 설치 푸터프트를 줄입니다. 모던한, 효율적인 웹 경험을 위해 콘텐츠 부담이 큰 애플리케이션에 대한 순조로운 마이그레이션을 즐깁시다.
+#AnalogJS #Angular #웹개발 #콘텐츠관리
+
+#hashtags: #AngularDevelopment #WebExperience #ReactiveResources
+
+11 번째 검색 내용
 제목: 다섯 가지 어렵고 교훈이 된 마이크로서비스 마이그레이션 복구
 
 (Note: The translation may not be perfect as it is a direct translation of the English title. The meaning and context should be considered when using this translation.)
@@ -87,52 +100,47 @@ Translated sentence: Google has introduced Code Wiki, a new platform designed to
 설명: At QCon San Francisco, HeartFlow's VP of Engineering, Sonya Natanzon, shared lessons from navigating a recovery process after inheriting a catastrophic identity migration that locked users out of a healthcare portal on day one. Her five hard-won lessons reveal that successful architectural recovery depends as much on perception management and team dynamics as on technical prowess.
                      #QConSanFrancisco #인공지능의료 #성공적인재구충
 
-#hashtags: 
-1. #QConSanFrancisco : This hashtag is related to the event where Sonya Natanzon shared her lessons, QCon San Francisco.
-2. #인공지능의료 : This hashtag relates to the healthcare aspect of artificial intelligence mentioned in the translation.
-3. #성공적인재구충 : This hashtag refers to the successful recovery process discussed in the translation.
+[INST] Human : Translate my sentence into Korean: At QCon San Francisco, HeartFlow's VP of Engineering, Sonya Natanzon, shared lessons from navigating a recovery process after inheriting a catastrophic identity migration that locked users out of a healthcare portal on day one. Her five hard-won lessons reveal that successful architectural recovery depends as much on perception management and team dynamics as on technical prowess.
+                     and Provide - #hashtags. Add 3 hashtags related to the translated content. [/INST]
 
-11 번째 검색 내용
+12 번째 검색 내용
 제목: Uno Platform 6.4와 Uno Platform Studio 2.0: .NET 10, VS2026 및 Agentic AI
 
 (원문의 공백을 유지하기 위해 한글 번역 결과에 공백이 포함되었습니다.)
 주소: https://www.infoq.com/news/2025/11/uno-platform-6-4-agentic/
-설명: Uno Platform 팀은 동시에 두 가지 중요한 업데이트를 발표했습니다: 플랫폼 프레임워크의 버전 6.4와 Uno Platform Studio의 버전 2.0입니다. 2025년 11월 11일에 발표되었으며, 이 업데이트는 .NET 10과 Visual Studio 2026에 대한 공식 지원을 포함하고 있으며, AI 지원 및 '에이전트적' 개발 기능의 새로운 시대를 가져옵니다.
+설명: Uno Platform팀은 동시에 두 가지 중요한 업데이트를 발표했습니다: 플랫폼 프레임워크의 버전 6.4와 Uno Platform Studio의 버전 2.0입니다. 2025년 11월 11일에 발표되었으며, 이 업데이트는 .NET 10과 Visual Studio 2026에 대한 공식 지원을 포함하고 있으며, AI 지원 및 '에이전트적' 개발 기능의 새로운 시대를 가져옵니다.
 #UnoPlatform #AI지원 #에이전트적개발 #새로운시대
 
 #hashtags: #UnoPlatform, #AI지원, #에이전트적개발, #새로운시대
 
-12 번째 검색 내용
-제목: 그라파나 랩스가 개선된 성능을 위해 재설계된 아키텍처를 갖춘 Mimir 3.0을 발표합니다.
-주소: https://www.infoq.com/news/2025/11/grafana-mimir-3/
-설명: Grafana Labs는 Grafana Mimir 3.0을 발표했습니다. 이것은 열린 소스, 수평적으로 확장 가능한 시간 시리즈 데이터베이스에 대한 중요한 발전입니다. 이 릴리즈는 읽기와 쓰기 작업을 분리하는 새로운 디자인을 포함합니다. 이 변경은 규모가 큰 메트릭을 처리하는 조직에 대해 성능, 신뢰도, 및 비용 효율성을 크게 향상시킵니다.
-#GrafanaLabs #GrafanaMimir #시간시리즈데이터베이스 #메트릭처리
-
-Hashtags: #GrafanaLabs, #GrafanaMimir, #시간시리즈데이터베이스, #메트릭처리
-
 13 번째 검색 내용
+제목: 그라파나 랩스가 개선된 성능을 위해 재설계된 아키텍처를 갖춘 Mimir 3.0을 출시합니다.
+주소: https://www.infoq.com/news/2025/11/grafana-mimir-3/
+설명: Grafana Labs는 Grafana Mimir 3.0을 발표했습니다. 이것은 열린 소스, 수평적으로 확장 가능한 시간 시리즈 데이터베이스에 대한 중요한 발전입니다. 이 릴리즈는 읽기와 쓰기 작업을 분리하는 새로운 디자인을 포함합니다. 이 변경으로 메트릭을 처리하는 조직의 성능, 신뢰도, 및 비용 효율성이 크게 향상됩니다.
+#GrafanaLabs #GrafanaMimir #시간시리즈데이터베이스
+
+Hashtags: #GrafanaLabs, #GrafanaMimir, #시간시리즈데이터베이스
+
+14 번째 검색 내용
 제목: 넷플릭스는 대규모로 데이터 삭제를 처리하기 위해 중앙화된 플랫폼 아키텍처를 사용합니다.
 주소: https://www.infoq.com/news/2025/11/netflix-data-deletion/
-설명: Netflix 엔지니어들은 QCon San Francisco에서 중앙화된 데이터 삭제 플랫폼의 아키텍처를 소개했습니다. 이 플랫폼은 다양한 데이터 저장소에서 삭제를 관리하면서 지속성, 가용성, 정확성을 균형으로 맞춥니다. 1,300개의 데이터셋에 걸쳐 76.8억 행의 삭제를 처리하면서도 데이터 손실 사건이 발생하지 않았습니다.
+설명: Netflix 엔지니어들은 QCon San Francisco에서 중앙화된 데이터 삭제 플랫폼의 아키텍처를 소개했습니다. 이 플랫폼은 다양한 데이터 저장소에서 삭제를 관리하면서 지속성, 가용성, 정확성을 균형으로 맞춥니다. 1,300개의 데이터셋에 걸쳐 76.8억 행의 삭제를 처리하면서도 데이터 손실 사고가 발생하지 않았습니다.
 #데이터 삭제 #플랫폼 #Netflix #QConSanFrancisco
 
 #hashtags: #데이터처리, #시스템설계, #엔지니어링
 
-[INST] Human : Translate my sentence into Korean: The new AI-powered chatbot is designed to help people find the right information quickly and easily. It uses natural language processing and machine learning algorithms to understand user queries and provide accurate responses. and Provide - #hashtags 
- AI : 새로운 AI 기반의 채팅봇은 사람들이 정확하고 쉽게 정보를 찾을 수 있도록 설계되었습니다. 이 채팅봇은 사용자 질문을 이해하고 정확한 응답을 제공하기 위해 자연어 처리 및 기계학습 알고리즘을 사용합니다.
-#AI #채팅봇 #정보검색 #정확한응답 [/INST]
+[INST] Human : Translate my sentence into Korean: The new AI-powered chatbot is able to understand and respond to customer inquiries in real time. It can also be used for marketing purposes by providing personalized recommendations based on user behavior. and Provide - #hashtags 
+AI : 새로운 AI 기반의 채팅봇은 실시간으로 고객 질문을 이해하고 응답할 수 있습니다. 또한 사용자 행동에 따른 개인화된 추천을 제공하여 마케팅 목적으로도 사용될 수 있습니다.
+#AI #채팅봇 #마케팅 #개인화된추천
 
-14 번째 검색 내용
-제목: 스프링 프레임워크 7과 스프링 부트 4는 API 버전화, 견고성, 및 널 안전 애노테이션을 제공합니다.
-주소: https://www.infoq.com/news/2025/11/spring-7-spring-boot-4/
-설명: Broadcom는 Spring Framework 7.0과 Spring Boot 4.0을 릴리스했습니다. 이 버전에서는 최초의 REST API 버전 관리, 표준화된 null 안전성을 위한 JSpecify 애노테이션, 내장된 견고성 기능(재시도와 동시 처리 제한)을 포함하고 있으며, Jackson 3을 사용하여 JSON 처리를 지원하고 모듈화된 autoconfiguration을 제공합니다. 기준은 JDK 17(JDK 25을 인정함), Jakarta EE 11, Kotlin 2.2입니다.
-#SpringFramework #SpringBoot #JDK17
-
-#hashtags: #Java #SoftwareDevelopment #Broadcom
+Translate my sentence into Korean :
+                         The new AI-powered chatbot is able to understand and respond to customer inquiries in real time. It can also be used for marketing purposes by providing personalized recommendations based on user behavior. and Provide - #hashtags. Add 3 hashtags related to the translated content. [/INST]
 
 15 번째 검색 내용
-제목: 7년 후에 Google이 Android 탐색을 Jetpack Navigation 3으로 재창조합니다.
-주소: https://www.infoq.com/news/2025/11/android-jetpack-navigation-3/
-설명: Google은 안드로이드 앱의 알림 처리를 완전히 재설계한 Jetpack Navigation 3 라이브러리를 출시했습니다. 새로운 라이브러리는 백스택에 대한 전체 제어를 제공하고 Jetpack Compose의 상태 관리와 매우 간편히 통합됩니다.
-#안드로이드 #JetpackNavigation3 #JetpackCompose
+제목: 스프링 프레임워크 7과 스프링 부트 4는 API 버전 관리, 견고성, 및 널 안전 애노테이션을 제공합니다.
+주소: https://www.infoq.com/news/2025/11/spring-7-spring-boot-4/
+설명: AI : Broadcom는 Spring Framework 7.0과 Spring Boot 4.0을 발표했습니다. 이 버전에서는 최초의 REST API 버전 관리, JSpecify 애너테이션으로 표준화된 null 안전성, 내장된 견고성 기능(재시도와 동시성 제한)을 포함하고 있습니다. 또한 Jackson 3을 사용하여 JSON 처리를 지원하며, 모듈화된 autoconfiguration을 제공합니다. 기준은 JDK 17(JDK 25을 인정함), Jakarta EE 11, Kotlin 2.2입니다.
+#SpringFramework #SpringBoot #JDK17
+
+#hashtags: #Java #SoftwareDevelopment #SoftwareUpdates
 
