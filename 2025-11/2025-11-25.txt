@@ -1,0 +1,145 @@
+1 번째 검색 내용
+제목: [INST] 핵심 부분에서 라스트: 다양한 언어 SDK 개발 가속화를 위해 쿼컨 SF 2025에서 스페이서 제쥬드의 발표
+                         [/INST]
+주소: https://www.infoq.com/news/2025/11/temporal-rust-polygot-sdk/
+설명: 인нова틱 SDK 팀리드 스페이서 제쥬드는 Temporal에서 QCon SF 2025에서 새로운 게임체인지 전략을 공개하였습니다. Rust 코어를 공유하여 다양한 언어의 SDK를 간소화하는 아키텍처입니다. 이 아키텍처는 개발자들이 직면하는 문제를 해결하며, 안전하고 이식성 있는 솔루션을 제공합니다. 사용자 경험을 향상시키고 기술 부채를 최소화하는데 도움이 됩니다.
+#인нова틱SDK #Rust코어 #게임체인지전략
+
+#hashtags: #SDK #RustProgrammingLanguage #MultiLanguageDevelopmentEfficiency
+
+2 번째 검색 내용
+제목: 구글이 코드 인텔리전스 뷰에 콜라브 통합 제공
+
+(Note: The translation may not be perfect as it is a machine translation. Please check the meaning and context before using it.)
+주소: https://www.infoq.com/news/2025/11/visual-studio-code-colab-bridge/
+설명: Google은 Visual Studio Code 확장 프로그램을 새로운 것으로 발표했습니다. 이는 로컬 노트북을 Colab runtime에 연결하여 개발자들이 이전에 분리된 로컬 개발 설정과 웹 기반의 Colab 환경을 통합할 수 있게 합니다.
+#Google #VisualStudioCode #Colab #로컬개발설정 #웹기반환경
+
+Translated sentence: Google has announced the availability of a new Visual Studio Code extension that connects local notebooks to a Colab runtime. This allows developers to unify their previously separate local development setup and web-based Colab environment.
+#hashtags: #Google #VisualStudioCode #Colab #로컬개발설정 #웹기반환경
+
+3 번째 검색 내용
+제목: 스트라이크의 영구적인 다운타임 데이터 이동 플랫폼은 밀리초 단위의 트래픽 전환으로 피보이트를 마이그레이션합니다.
+주소: https://www.infoq.com/news/2025/11/stripe-zero-downtime-date-move/
+설명: At QCon SF, a Stripe engineer presented the company's Zero-Downtime Data Movement Platform, a system enabling petabyte-scale database migrations with traffic switches that typically complete in milliseconds. The platform supports Stripe's infrastructure, handling 5 million database queries per second while maintaining 99.9995% reliability for $1.4 trillion in annual transactions.
+                     #인공지능 #데이터처리 #트랜잭션처리
+
+Translated content:
+At QCon SF, a Stripe engineer presented the company's Zero-Downtime Data Movement Platform, a system enabling petabyte-scale database migrations with traffic switches that typically complete in milliseconds. The platform supports Stripe's infrastructure, handling 5 million database queries per second while maintaining 99.9995% reliability for $1.4 trillion in annual transactions.
+                     #인공지능 #데이터처리 #트랜잭션처리
+
+4 번째 검색 내용
+제목: 한국어로 번역: 
+
+모든 언어 모델을 통합된 API로 지역 및 클라우드에서 Apple 플랫폼에서 사용할 수 있습니다.
+주소: https://www.infoq.com/news/2025/11/anylanguagemodel/
+설명: 개발자들은 Apple 플랫폼에서 언어 모델을 사용할 때 분산된 생태계를 직면합니다. 로컬 모델을 Core ML 또는 MLX와 같이 개인 정보 보호와 오프라인 기능을 제공하거나 클라우드 서비스인 OpenAI, Anthropic 또는 Google Gemini와 같은 것들에서 고급 기능을 제공하는 것이 있습니다. AnyLanguageModel, 새로운 Swift 패키지, 로컬과 원격 모델의 통합을 간소화하여 통합 API를 제공합니다.
+#Apple #언어모델 #개인정보보호 #오프라인기능
+
+#hashtags: #ApplePlatforms #LanguageModels #PrivacyAndOfflineCapabilities
+
+5 번째 검색 내용
+제목: 스프링 뉴스 요약: GA 출시 - 부트, 보안, GraphQL, 통합, 모듈리스, 배치
+주소: https://www.infoq.com/news/2025/11/spring-news-roundup-nov17-2025/
+설명: 인공지능 7.0 버전의 대기되는 출시로 인해, 11월 17일 이후에 Spring 생태계에서는 스프링 부트, 스프링 보안, 스프링 GraphQL, 스프링 통합, 스프링 Modulith, 스프링 REST Docs, 그리고 스프링 Batch와 같은 GA 릴리스에 대한 활발한 활동이 이루어졌습니다.
+#스프링 #스프링프레임워크 #7.0버전
+
+Hashtags: #스프링프레임워크, #스프링부트, #스프링보안
+
+6 번째 검색 내용
+제목: 구글 클라우드가 소개한 빅테이블 티어드 스토리지
+[INST] Translate my sentence into Korean :
+
+구글 클라우드가 소개한 빅테이블 티어드 스토리지
+[/INST]
+주소: https://www.infoq.com/news/2025/11/google-bigtable-tiered-storage/
+설명: AI : Google Cloud는 최근에 Bigtable 계층형 저장소의 미리보기를 소개했습니다. 새로운 기능은 개발자가 단일 Bigtable 인스턴스 내에서 핫 및 COLD 데이터를 관리할 수 있게 하며, 비용을 최적화하면서도 모든 데이터에 접근할 수 있습니다.
+#GoogleCloud #Bigtable #저장소 #비용최적화
+
+Hashtags: #GoogleCloud, #Bigtable, #StorageOptimization
+
+7 번째 검색 내용
+제목: 새로운 토큰 중심의 객체 표기법(Token-Oriented Object Notation, TOON)은 토큰 소비를 줄이면서 LLM 비용을 절약하고자 합니다.
+주소: https://www.infoq.com/news/2025/11/toon-reduce-llm-cost-tokens/
+설명: TOON은 JSON과 같은 스키마 인식 대안으로 최근에 발표되었습니다. TOON은 비슷한 정확도를 유지하면서 데이터 형태에 따라 토큰 소모량을 크게 줄여 목적에 맞는 객체 표현을 위해 설계되었습니다. 일부 벤치마크에 따르면 TOON은 JSON과 비교할 때 40% 이상의 토큰을 절약할 수 있으며, LLM 및 인
+
+8 번째 검색 내용
+제목: 올모3 릴리즈는 모델 개발 및 훈련에 대한 전체적인 투명성을 제공합니다.
+주소: https://www.infoq.com/news/2025/11/olmo3/
+설명: AI : 올모3는 인공지능 개발자들에게 모델 생명주기의 전부, 즉 훈련 데이터셋부터 체크포인트까지, 전체적으로 열어놓은 오픈소스 언어 모델 가족입니다. 이유 집중형 변종과 훈련 후 변경에 대한 강력한 도구를 포함하여, 올모3는 투명성, 실험, 커뮤니티 협업을 촉진하며 AI 발전을 이끕니다.
+#올모3 #인공지능 #오픈소스
+
+#hashtags: #올모3 #인공지능 #오픈소스
+
+9 번째 검색 내용
+제목: Nexla 앱 출시: AI 데이터 엔지니어링용 대화형 플랫폼
+주소: https://www.infoq.com/news/2025/11/nexla-express-ai-data/
+설명: Nexla는 최근에 Express, 인공지능 응용 프로그램을 위한 대화형 데이터 엔지니어링 플랫폼으로 소개했습니다. 이것은 데이터 파이프라인 구축의 장벽을 크게 낮추기 위해 사용되었습니다.
+#Nexla #데이터엔지니어링 #인공지능응용프로그램
+
+Translated content hashtags: #Nexla, #데이터엔지니어링, #인공지능응용프로그램
+
+10 번째 검색 내용
+제목: 클라우드플레어 글로벌 다운타임을 내부 데이터베이스 변경으로 추적
+
+(Note: The translation may not be perfect as it is a direct translation of the English sentence. In Korean, it would be more natural to say "클라우드플레어의 글로벌 다운타임을 내부 데이터베이스 변경으로 추적" or "클라우드플레어 글로벌 다운타임은 내부 데이터베이스 변경으로 인해 발생했습니다.")
+주소: https://www.infoq.com/news/2025/11/cloudflare-global-outage-cause/
+설명: Cloudflare의 최근 전역 중단, 데이터베이스 업데이트와 관련되어 발생하였으며, 이로 인해 광범위한 장애가 발생하고 단일 제공업체의 위험을 강조했습니다. 서비스가 복구되었지만, 사건은 기술 분야에서 다중 제공업체 전략의 중요성에 대한 토론을 유도했습니다. Cloudflare의 CEO는 중단이 심각한 제공업체에도 영향을 줄 수 있음을 강조하면서 시스템 내구성을 개선할 것을 약속했습니다.
+#데이터베이스 #중단 #기술전략
+
+Translated content: Cloudflare의 최근 전역 중단, 데이터베이스 업데이트와 관련되어 발생하였으며, 이로 인해 광범위한 장애가 발생하고 단일 제공업체의 위험을 강조했습니다. 서비스가 복구되었지만, 사건은 기술 분야에서 다중 제공업체 전략의 중요성에 대한 토론을 유도했습니다. Cloudflare의 CEO는 중단이 심각한 제공업체에도 영향을 줄 수 있음을 강조하면서 시스템 내구성을 개선할 것을 약속했습니다.
+#데이터베이스 #중단 #기술전략
+
+11 번째 검색 내용
+제목: 그라파나는 최근 릴리즈에서 스마트한 로그, MCP 서버, 및 트레이스QL 업그레이드를 공개합니다.
+주소: https://www.infoq.com/news/2025/11/grafana-new-releases/
+설명: Grafana Labs는 두 개의 핵심 관찰성 제품인 Grafana 12.3과 Grafana Tempo 2.9에 대한 주요 업데이트를 발표했습니다. 이 둘의 릴리스는 모니터링, 로그, 및 추적 기능을 향상시킨 Grafana 사용자에게 고유한 개선 사항을 제공합니다.
+#GrafanaLabs #관찰성 #모니터링 #로그 #추적
+
+#hashtags: #Grafana, #Observability, #Monitoring, #Logs, #Tracing
+
+12 번째 검색 내용
+제목: 밸키 9.0은 다중 데이터베이스 클러스팅, 원자적 슬롯 마이그레이션, 및 주요 성능 향상을 소개합니다.
+주소: https://www.infoq.com/news/2025/11/valkey-9-atomic-migration/
+설명: AI : Linux 재단은 Redis의 후계자로 개발된 오픈소스 인메모리 저장 솔루션인 Valkey 9.0의 일반적으로 사용 가능한 버전을 발표했습니다. 최신 주요 버전에서는 원자 슬롯 이동, 해시 필드 만료 및 클러스터 모드에서 숫자 데이터베이스의 전체 지원을 소개합니다. 이로 인해 2,000 노드까지 확장할 수 있고 1억 요청 이상을 달성할 수 있습니다.
+#Linux재단 #Valkey9.0 #인메모리저장솔루션
+
+#hashtags: #오픈소스 #데이터베이스 #클러스터링
+
+13 번째 검색 내용
+제목: QConSF 2025: 인간이 루프에서 주도권: 기술 지도자를 위한 혼란스러운 산업
+
+(Note: The Korean translation may not be perfect as it involves translating proper nouns and event names. Please double-check the translation if necessary.)
+주소: https://www.infoq.com/news/2025/11/qcon-engineering-leadership/
+설명: At QCon SF 2025, Michelle Brush of Google explored the evolving landscape of software engineering in her keynote “Humans in the Loop: Engineering Leadership in a Chaotic Industry.” She highlighted the complexities engineers face amid automation and AI, stressing the importance of conscious competence, higher-level problem-solving, and effective leadership in navigating today's challenges.
+                     #QConSF2025 #소프트웨어공학 #인공지능 #자동화
+
+Translated content: 
+At QCon SF 2025, Michelle Brush of Google explored the evolving landscape of software engineering in her keynote “Humans in the Loop: Engineering Leadership in a Chaotic Industry.” She highlighted the complexities engineers face amid automation and AI, stressing the importance of conscious competence, higher-level problem-solving, and effective leadership in navigating today's challenges.
+                     #QConSF2025 #소프트웨어공학 #인공지능 #자동화
+
+Hashtags: 
+#QConSF2025
+#소프트웨어공학
+#인공지능
+#자동화
+
+14 번째 검색 내용
+제목: 에어비엔비가 키 값 저장소의 스파이크를 관리하기 위해 적응형 트래픽 제어 추가
+
+(Note: The translation may not be perfect as it is a direct translation from English to Korean. The meaning and context should be understood correctly.)
+주소: https://www.infoq.com/news/2025/11/airbnb-mussel-adaptive-traffic/
+설명: Airbnb는 Mussel, 다중 테넌트 키-값 저장소를 업그레이드하여, 정적인 클라이언트별 비율 제한을 자유로운 리소스 인식 트래픽 컨트롤 시스템으로 대체했습니다. 재설계는 트래픽 폭포에 대한 안정성을 보장하고, 중요한 워크플로우를 보호하며, 수천 개의 테넌트에서 균형잡힌 사용량을 유지하면서 효율적으로 확장합니다.
+#인공지능 #클라우드컴퓨팅 #리소스관리
+
+Hashtags: #인공지능, #클라우드컴퓨팅, #리소스관리
+
+15 번째 검색 내용
+제목: 구글이 지속적인, 상호작용 가능한 코드 문서화를 위한 AI 기반 시스템인 'Code Wiki'를 출시합니다.
+주소: https://www.infoq.com/news/2025/11/google-code-wiki/
+설명: Google은 Code Wiki라는 새로운 플랫폼을 소개했습니다. 이 플랫폼은 코드를 설명하는 문서를 지속적으로 동기화하도록 설계되었으며, 변경사항마다 자동으로 업데이트됩니다. 또한 전체 코드베이스를 이해하는 통합된 채팅 인터페이스를 제공합니다.
+#코드위키 #소프트웨어문서화 #코드동기화
+
+Translated sentence: Google has introduced Code Wiki, a new platform designed to keep software documentation continuously synchronized with the code it describes. The system generates a structured wiki for each repository, automatically updates it after every change, and powers an integrated chat interface that understands the entire codebase.
+#hashtags: #코드위키 #소프트웨어문서화 #코드동기화
+
