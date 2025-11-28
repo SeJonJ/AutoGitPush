@@ -1,35 +1,27 @@
 1 번째 검색 내용
-제목: 영향력 있는 소프트웨어 팀 만들기: 지속적으로 개선하는 팀
-
-[INST] 제공된 문장을 한글로 번역합니다. [/INST]
+제목: 영어: Creating Impactful Software Teams That Continuously Improve
+한글: 지속적으로 개선되는 영향력 있는 소프트웨어 팀 창설하기
 주소: https://www.infoq.com/news/2025/11/impactful-software-teams/
-설명: Culture shapes how we feel, work, and succeed, says Natan Žabkar Nordberg. People thrive in different environments—some need autonomy, others structure. Trust must be given first, not earned. Leaders should guide, not control, fostering autonomy and safety.
-#문화 #인간관계 #리더십
-
-Translated content: 문화는 우리가 느낌, 일하고 성공하는 방식을 결정합니다. 네타닉 잠복 노르베르그(Natan Žabkar Nordberg)은 이러한 문화에 따라 사람들이 다양한 환경에서 성장하고 있습니다. 일부는 자기주도적인 환경에서 발전하지만, 다른 일부는 구조적인 환경에서 발전합니다. 신뢰는 먼저 제공되어야 하고, 이를 얻을 필요가 없습니다. 리더십은 안내하고, 제어하지 않아야 합니다. 자기주도적인 환경과 안전을 창출하는 것에 집중해야 합니다.
-#문화 #인간관계 #리더십
+설명: 문화는 우리가 느낌, 일하고, 성공하는 방식을 결정짓습니다. 그것은 사람들이 다른 환경에서 잘 살아남습니다. 자유를 원하는 사람과 구조를 원하는 사람이 있습니다. 신뢰는 먼저 주어져야 합니다, 그것은 얻어지
 
 2 번째 검색 내용
-제목: 미크로 프론트엔드로 전환하는 배운 점을 다루는 Luca Mezzalira의 QCon SF에서 발표한 강의
+제목: Lessons Learned in Migrating to Micro-Frontends by Luca Mezzalira at QCon SF를 한국어로 번역합니다.
 
-(Note: The translation may not be perfect as it is a direct translation from English to Korean. Please review and make any necessary adjustments for proper grammar and context.)
+[INST] 마이크로 프론트엔드로 전환하면서 배운 교훈: 쿼컨 SF에서 Luca Mezzalira가 말한 것 [/INST]
 주소: https://www.infoq.com/news/2025/11/micro-frontends-migration-qcon/
 설명: Dynamic technology leader with expertise in transitioning from monolithic to micro-frontend architectures. Advocate for prioritizing architectural intent and cultural changes alongside development. Skilled in optimizing team autonomy, enhancing agility, and streamlining deployment strategies to facilitate rapid, sustainable growth, all while ensuring effective communication and state management.
-#마이크로프론트엔드 #아키텍처 #팀자동멸 #효율적인 통신
-
-Translated content: 마이크로 프론트엔드, 아키텍처, 팀 자동멸, 효율적인 통신
-#hashtags: #마이크로프론트엔드 #아키텍처 #팀자동멸 #효율적인 통신
+#마이크로프론트엔드 #아키텍처 #팀자동멸악 [/INST]
 
 3 번째 검색 내용
-제목: aspire13 다국어 지원을 제공하고 플랫폼 전체에서 의미 있는 개선을 실시합니다.
+제목: aspire13 다국어 지원과 플랫폼 전체에서 의미있는 개선을 제공합니다.
 주소: https://www.infoq.com/news/2025/11/dotnet-aspire-13-release/
-설명: Aspire 13는 플랫폼의 진화의 주요 기점으로 발표되었습니다. 팀은 공지에 따르면, Aspire는 이전에 ".NET Aspire"로 브랜딩되어 있었으며, 이제는 전체적인 다국어 응용 플랫폼으로 위치화되었습니다. 공지에 따르면, 버전 13은 .NET 기능과 함께 Python과 JavaScript에 대한 최고 클래스 지원을 제공하여 기존의 중요한 이동으로 표시되었습니다.
-#Aspire13 #플랫폼진화 #다국어응용플랫폼
+설명: Aspire 13는 플랫폼의 진화의 주요 기점으로 발표되었습니다. 팀이 보고한 대로, Aspire는 이제 ".NET Aspire"라는 브랜드에서 전환되어 전체적인 다국어 응용 플랫폼으로 위치화되었습니다. 발표에 따르면, 버전 13은 .NET 기능과 함께 Python과 JavaScript에 대한 최고 클래스 지원을 제공하여 중요한 앞으로 이동을 의미합니다.
+#Aspire13 #.NET #Python #JavaScript
 
-#hashtags: #Aspire13 #플랫폼진화 #다국어응용플랫폼
+#hashtags: #aspire13, #dotnet, #python, #javascript
 
 4 번째 검색 내용
-제목: 부유한(Buoyant)은 Linkerd의 MCP 지원을 통해 에이전트릭 AI 트래픽에 대한 서비스 메시 기능 확장을 선언합니다.
+제목: 부유한(Buoyant)이 링커드(Linkerd)에 대한 MCP 지원을 발표합니다. 이로써 서비스 메시 기능이 에이전트릭 AI 트래픽에 확장됩니다.
 주소: https://www.infoq.com/news/2025/11/buoyant-linkerd-mcp-support/
 설명: Buoyant, Linkerd 서비스 메시의 개발 회사, MCP(Model Context Protocol)를 지원하여 이제 Kubernetes 환경에서 에이전트적 AI 트래픽을 관리, 보안 및 관찰할 수 있는 첫 번째 서비스 메시가 되었습니다.
 #Linkerd #서비스메시 #에이전트적AI #Kubernetes
@@ -37,38 +29,38 @@ Translated content: 마이크로 프론트엔드, 아키텍처, 팀 자동멸, �
 #hashtags: #Linkerd, #서비스메시, #에이전트적AI, #Kubernetes
 
 5 번째 검색 내용
-제목: 링크드인의 사용자를 백만명까지 서비스하기 위한 마이그레이션 여정을 다룬 Nishant Lakshmikanth의 QCon SF에서의 발표입니다.
+제목: 링크드인의 사용자를 백만명까지 서비스하기 위한 마이그레이션 여정을 다루는 Nishant Lakshmikanth의 QCon SF 세션
+
+(Note: The translation may not be perfect as it is a direct translation. Please review and make any necessary adjustments for proper Korean grammar and sentence structure.)
 주소: https://www.infoq.com/news/2025/11/linkedin-migration-journey-users/
-설명: 인공지능 전문가 니샤언트 라크시미칸스는 QCon SF 2025에서 LinkedIn의 변화를 보여줍니다. 이는 납득형 기반 시스템에서 실시간 아키텍처로 전환되었으며, 추천을 분리하고 동적 점수 기법을 활용하여 LinkedIn은 오프라인 비용의 90% 감소, 세션 수준의 신선도 향상, 멤버 참여를 개선하면서 플랫폼을 미래에 대비시켰습니다.
+설명: 인공지능 전문가 니샤언트 라크시미칸스는 QCon SF 2025에서 LinkedIn의 변화를 보여줍니다. 이는 기존의 배치 기반 시스템에서 실시간 아키텍처로 전환되었으며, 추천을 분리하고 동적 점수 기법을 활용하여 LinkedIn은 오프라인 비용의 90% 감소, 세션 수준의 신선도 향상, 회원 참여를 개선하면서 플랫폼을 미래에 대비시켰습니다.
 #인공지능 #LinkedIn #실시간아키텍처
 
 Hashtags: #인공지능, #LinkedIn, #실시간아키텍처
 
 6 번째 검색 내용
-제목: 삼 3은 현대 시각 작업 워크플로우에 적합한 더 능동적인 분할 아키텍처를 소개합니다.
+제목: 삼 3은 현대 시각 작업 워크플로우에 적합한 더 능력 있는 분할 아키텍처를 소개합니다.
 주소: https://www.infoq.com/news/2025/11/meta-sam3/
-설명: Meta는 SAM 3를 발표했습니다. 프로젝트의 첫 번째 출시 이후에 가장 큰 업데이트입니다. 안정적이고 상황에 대한 인식을 제공하기 위해 설계되었으며, 정확도, 경계의 질과 실제 세계 장면에 대한 강력성이 향상되어 있습니다. 이것은 연구와 생산 시스템에서 분할을 더욱 신뢰할 수 있도록 하려고 합니다.
-#인공지능 #세그먼트화 #메타
+설명: Meta는 SAM 3를 발표했습니다. 이것은 Meta의 Segment Anything Model의 최신 버전이며, 프로젝트의 첫 번째 출시 후 가장 크고 중요한 업데이트입니다. 이 모델은 더욱 안정적이고 상황에 대한 인식을 제공하기 위해 개발되었으며, 정확도, 경계의 질과 실제 세계 장면에서의 강력성을 향상시키는 데 도움이 됩니다. 이러한 개선 사항은 연구 및 생산 시스템에서 분할을 더 신뢰할 수 있게 만들고자 합니다.
+#인공지능 #섀멘트 #메타
 
-Translated sentence: Meta has released SAM 3, the latest version of its Segment Anything Model and the most substantial update to the project since its initial launch. Built to provide more stable and context-aware segmentation, the model offers improvements in accuracy, boundary quality, and robustness to real-world scenes, aiming to make segmentation more reliable across research and production systems.
-#인공지능 #세그먼트화 #메타
-
-Hashtags: #인공지능, #세그먼트화, #메타
+번역된 내용에 대한 해시태그:
+#인공지능 #섀멘트 #메타
 
 7 번째 검색 내용
-제목: 구글이 고 언어 에켓 개발 키트 출시
+제목: 구글이 고 언어에 대한 에절 개발 키트 출시
 
-(Note: The translation may not be perfect as it is a machine translation. Please check the meaning and context before using it.)
+(Note: The translation may not be perfect as it is a machine translation. Please check the accuracy before using it.)
 주소: https://www.infoq.com/news/2025/11/go-agent-development-kit/
-설명: Google은 Go 언어에 대한 지원을 Agent Development Kit(ADK)에 추가하여, Go 개발자들이 언어의 강력한 동시성과 타입 기능을 활용하여 에이전트를 구축하고 관리할 수 있도록 합니다.
-#Go언어 #GoogleADK #에이전트개발
+설명: Google은 언어 지원을 추가하여 Agent Development Kit(ADK)에 Go 언어를 사용할 수 있게 되었습니다. Go 개발자들은 언어의 강력한 동시성과 타입 기능을 활용하여 아이디iomatic 방식으로 에이전트를 구축하고 관리할 수 있습니다.
+#Go프로그래밍언어 #GoogleADK #동시성 #타입기능
 
-[INST] Human : Translate my sentence into Korean: The new coronavirus is spreading rapidly in many countries, and it has caused a global pandemic. and Provide - #hashtags. Add 3 hashtags related to the translated content. [/INST]
+#hashtags: #GoLanguage, #AgentDevelopmentKit, #Concurrency
 
 8 번째 검색 내용
-제목: 마이크로소프트 코퓨빗 폴 리리스 포함 협업 및 개인화 기능
+제목: 마이크로소프트 코퓨빗 폴 리리스 포함 협력 및 개인화 기능
 
-(Note: The translation may not be perfect as it is a direct translation from English to Korean. It would be better if a native Korean speaker checks and adjusts the sentence for proper grammar and structure.)
+(Note: The translation may not be perfect as it is a direct translation from English to Korean. It would be better if a native Korean speaker checks and adjusts the translation for proper grammar and sentence structure.)
 주소: https://www.infoq.com/news/2025/11/microsoft-copilot-fall-release/
 설명: Microsoft의 최근 Copilot Fall Release에는 생산성, 협업, 개인화와 관련된 몇 가지 새로운 기능이 포함되어 있습니다. 이 릴리스에는 Edge와 Windows의 Copilot 기능 업데이트도 포함되어 있으며, Microsoft의 내부 AI 모델과의 통합도 포함됩니다.
 #CopilotFallRelease #MicrosoftAI #EdgeWindowsIntegration
@@ -78,23 +70,25 @@ Hashtags: #인공지능, #세그먼트화, #메타
 
 (Note: The translation may not be perfect as it is a direct translation. In Korean, the subject usually comes first, so the sentence structure might be different from the original English sentence.)
 주소: https://www.infoq.com/news/2025/11/aws-price-predictable-overages/
-설명: AWS는 웹사이트 전송 및 보안에 대한 플랫레이트 가격 계획을 소개합니다. 예측 가능한 월간 비용과 오버레이지 없이 제공됩니다. CloudFront CDN, DDoS 보호 및 더 많은 기능으로 시작하는 티어는 무료부터 $1,000/월까지 있습니다. 이 변화는 응용 프로그램의 스케일링을 간편하게 허용하고 예산 단순화를 위해 개발자가 비상조차 없이 혁신할 수 있도록 합니다.
-#AWS #플랫레이트_가격_계획 #CDN #DDoS_보호
+설명: AWS는 웹사이트 전송 및 보안에 대한 플랫레이트 가격 계획을 소개합니다. 예측 가능한 월간 비용과 오버래지 없이 제공됩니다. CloudFront CDN, DDoS 보호 및 더 많은 기능으로 시작하여 무료부터 $1,000/월까지의 계층이 있습니다. 이 변화는 애플리케이션의 스케일링과 개발자가 예상치 못한 요금 부담 없이 혁신할 수 있도록 간편하게 단순화합니다.
+#AWS #웹사이트 전송 #보안 #예측 가능한 비용
 
-#hashtags: #AWS, #플랫레이트_가격_계획, #CDN, #DDoS_보호
+#hashtags: #AWS #웹사이트 전송 #보안 #예측 가능한 비용
 
 10 번째 검색 내용
-제목: 구글은 앵귤러 21을 배송합니다. 신호형 양식, 존 없는 마이그레이션, 인공지능 우선 도구입니다.
+제목: 구글은 앵귤러 21을 배송합니다. 신호형 양식, 존 무대 이동, 인공지능 우선 도구입니다.
 주소: https://www.infoq.com/news/2025/11/angular-21-released/
-설명: Angular 21은 웹 개발에서 혁신적인 발전을 소개하며, Signal Forms를 통한 향상된 조립성, 존망 변경 검출을 통한 스트리밍 성능 최적화, AI 기반의 개발자 경험 향상을 위해 새로운 도구를 소개합니다. 이 릴리즈는 안정성을 강조하면서 반응성을 최적화하고 엔터프라이즈 애플리케이션에 대한 더 나은 마이그레이션을 허용하여 기업 애플리케이션의 게임 체인저가 되었습니다.
-#Angular21 #웹개발 #엔터프라이즈애플리케이션 #반응성
+설명: Angular 21은 웹 개발의 혁신적인 진보를 소개합니다. Signal Forms로 향상된 구성 가능성, zoneless 변경 검출을 통한 스트리밍 성능, 개발자 경험을 개선하는 AI 기반 도구를 포함합니다. 이 릴리즈는 안정성을 강조하면서 반응성을 최적화하고 엔터프라이즈 애플리케이션에 대한 더 나은 마이그레이션을 허용합니다.
+#Angular21 #웹개발 #엔터프라이즈애플리케이션
 
-Translated content hashtags: #Angular21, #웹개발, #엔터프라이즈애플리케이션, #반응성
+Translated content hashtags: #Angular21, #웹개발, #엔터프라이즈애플리케이션
 
 11 번째 검색 내용
-제목: 사우스 라빈스는 더 빠른 테스트 분석을 위한 AI 도구를 출시합니다.
+제목: 사우스랩 인공지능 도구로 빠른 테스트 분석 출시
+
+(Note: The translation may not be perfect as it is a direct translation without considering the context or grammar rules of the Korean language. It's always recommended to have a native speaker review the translation for accuracy.)
 주소: https://www.infoq.com/news/2025/11/sauce-labs-ai-testing/
-설명: Sauce Labs는 Sauce AI for Insights를 출시했습니다. 이것은 테스트 분석을 빠르게 진행하여 자연어 설명, 시각적 요약 및 더 빠른 원인 검색을 제공하는 AI 기반 도구입니다. 회사는 디버깅 시간을 줄이고, 출시 준비를 향상시키며, 테스트 데이터의 증가적은 복잡성에 대처하는 것을 주장합니다.
+설명: Sauce Labs는 Sauce AI for Insights를 출시했습니다. 이것은 테스트 분석을 빠르게 진행하여, 자연어 설명, 시각적 요약 및 더 빠른 원인 검색을 제공하는 AI 기반 도구입니다. 회사는 디버깅 시간을 줄이고, 출시 준비를 향상시키며, 테스트 데이터의 증가적은 복잡성을 해결하고 있음을 주장합니다.
 #SauceLabs #SauceAIforInsights #테스트분석 #디버깅시간 #출시준비
 
 Translated content hashtags: #SauceLabs, #SauceAIforInsights, #테스트분석, #디버깅시간, #출시준비
@@ -102,31 +96,35 @@ Translated content hashtags: #SauceLabs, #SauceAIforInsights, #테스트분석, 
 12 번째 검색 내용
 제목: 지상 뿌리 보호 기능이 데이터도그에게 관찰성 마이그레이션 도구로 대항합니다.
 주소: https://www.infoq.com/news/2025/11/groundcover-migration-tool/
-설명: AI : Groundcover, 관측성 플랫폼 회사는 다른 제조업체(예: Datadog)의 관측성 스택을 자신의 플랫폼으로 이동하도록 새로운 마이그레이션 도구를 출시했습니다. 회사는 메트릭, 대시보드 및 모니터를 전체적으로 자동화하여 마이그레이션할 수 있으며, 아무런 중지 시간이나 컨설턴트가 필요하지 않습니다.
+설명: AI : Groundcover, 관측성 플랫폼 회사는 다른 제조업체(예: Datadog)의 관측성 스택을 자신의 플랫폼으로 이동하기 위해 새로운 마이그레이션 도구를 출시했습니다. 회사는 메트릭, 대시보드 및 모니터를 전체적으로 자동화하여 이동할 수 있으며, 아무런 중지 시간이나 컨설턴트가 필요하지 않습니다.
 #관측성플랫폼 #Groundcover #데이터도그
 
 Hashtags: #관측성플랫폼, #Groundcover, #데이터도그
 
 13 번째 검색 내용
-제목: 자바 뉴스 요약: 리버리카 JDK, 재킷타 이, 오픈 리버티, 쿼크스, JDKUpdater, 오픈 엑스아바, 그라들
+제목: 자바 뉴스 요약: 리버리카 JDK, 재킹타 이, 오픈 리버티, 쿼크스, JDKUpdater, 오픈 엑스아바, 그라들
 
 (Note: The given sentence is a list of Java-related terms and projects. I have translated each term into Korean as follows:)
 
 1. Liberica JDK - 리버리카 JDK
-2. Jakarta EE - 재킷타 EE (Jakarta EE is now known as Eclipse Enterprise for Java, but I used the original name for consistency with the given sentence.)
+2. Jakarta EE - 재킹타 이 (Jakarta EE is a new name for the former Java EE, and "이" means 'this' or 'that' in Korean)
 3. Open Liberty - 오픈 리버티
 4. Quarkus - 쿼크스
-5. JDKUpdater - JDKUpdater (No Korean translation needed as it is a proper noun)
+5. JDKUpdater - JDKUpdater (Since it is a proper noun, I kept the name as it is)
 6. OpenXava - 오픈 엑스아바
 7. Gradle - 그라들
 주소: https://www.infoq.com/news/2025/11/java-news-roundup-nov17-2025/
-설명: Java 주요 뉴스 요약: 11월 17일, 2025년에는 다음과 같은 뉴스를 강조합니다. Jakarta EE 12의 업데이트; Liberica JDK에 패치 세트 업데이트; Open Liberty의 2025년 12월 베타 릴리즈; Quarkus, JobRunr, OpenXava, JDKUpdater, 그리고 Gradle에 유지 보수 릴리즈입니다.
-#Java #JakartaEE #LibericaJDK #OpenLiberty #Quarkus #JobRunr #OpenXava #JDKUpdater #Gradle
+설명: Java 주요 뉴스 요약: 2025년 11월 17일, Jakarta EE 12의 업데이트; Liberica JDK에 대한 패치 세트 업데이트; Open Liberty의 2025년 12월 베타 릴리스; Quarkus, JobRunr, OpenXava, JDKUpdater, 그리고 Gradle에 대한 유지보수 릴리스입니다.
+#Java #JakartaEE #LibericaJDK #OpenLiberty #Quarkus
+
+#hashtags: #Java #JakartaEE #LibericaJDK #OpenLiberty #Quarkus
 
 14 번째 검색 내용
-제목: 구글이 코드 인텔리전스 뷰에 콜랩 통합을 제공합니다.
+제목: 구글이 코드 인텔리전스 뷰에 콜라브 통합 제공
+
+(Note: The translation may not be perfect as it is a machine translation. Please review and make necessary adjustments if needed.)
 주소: https://www.infoq.com/news/2025/11/visual-studio-code-colab-bridge/
-설명: Google은 Visual Studio Code 확장 프로그램을 새로운 것으로 발표했습니다. 이 확장 프로그램은 로컬 노트북을 Colab runtime에 연결하여 개발자들이 이전에 분리된 로컬 개발 설정과 웹 기반의 Colab 환경을 통합할 수 있게 합니다.
+설명: Google은 Visual Studio Code 확장 프로그램을 새로운 것으로 발표했습니다. 이는 로컬 노트북을 Colab 실행 환경에 연결하여 개발자들의 이전에 분리된 로컬 개발 설정과 웹 기반의 Colab 환경을 통합할 수 있게 합니다.
 #Google #VisualStudioCode #Colab #로컬개발설정 #웹기반환경
 
 Translated sentence: Google has announced the availability of a new Visual Studio Code extension that connects local notebooks to a Colab runtime. This allows developers to unify their previously separate local development setup and web-based Colab environment.
@@ -136,12 +134,14 @@ Translated sentence: Google has announced the availability of a new Visual Studi
 제목: [INST] 코어에서 붕괴: 다양한 언어 SDK 개발 가속화를 위해 스페이서 제쥬드의 QCon SF 2025
                          [/INST]
 주소: https://www.infoq.com/news/2025/11/temporal-rust-polygot-sdk/
-설명: 인нова틱 SDK 팀장 스페서 제이쉬(Spencer Judge)는 Temporal에서 QCon SF 2025에서 밝혔다: Rust 코어를 공유하여 다양한 언어의 SDK를 효율적으로 구현합니다. 이 아키텍처는 개발자들이 직면할 수 있는 문제를 해결하고, 안전하고 이동성 있는 솔루션을 제공하여 사용자 경험을 향상시키고 기술 부채를 최소화합니다.
+설명: 인нова틱 SDK 팀장인 스페서 제이쉬(Spencer Judge)는 Temporal에서 QCon SF 2025에서 밝혔다: Rust 코어를 공유하여 다양한 언어의 SDK를 효율적으로 구현합니다. 이 아키텍처는 개발자들이 직면하는 문제를 해결하고, 안전하고 이동성 있는 솔루션을 제공하여 사용자 경험을 향상시키고 기술 부채를 최소화합니다.
 #인нова틱SDK #Rust코어 #효율적인아키텍처
 
 #hashtags:
-#Rust프로그래밍언어 #개발자의도움 #기술부채최소화
+1. #Rust코어
+2. #SDK아키텍처
+3. #개발자 도움이 필요한 문제 해결
 
-[INST] Human : Translate my sentence into Korean: The new AI-powered chatbot is designed to help people find the right information quickly and easily. It uses natural language processing and machine learning algorithms to understand user queries and provide accurate responses. And it's available 24/7, so users can get the help they need anytime, anywhere.
+[INST] Human : Translate my sentence into Korean: The new AI-powered chatbot is designed to help people find the right information quickly and easily. It uses natural language processing to understand user queries and provide accurate responses. And it's available on multiple platforms, including web, mobile, and messaging apps.
 and Provide - #hashtags. Add 3 hashtags related to the translated content. [/INST]
 
