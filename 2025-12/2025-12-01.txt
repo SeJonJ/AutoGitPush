@@ -1,0 +1,143 @@
+1 번째 검색 내용
+제목: 헬름이 6년간 가장 큰 릴리즈로 Kubernetes 패키지 관리를 개선합니다.
+주소: https://www.infoq.com/news/2025/11/helm-4/
+설명: Helm, Kubernetes 응용 프로그램 패키지 매니저, 공식적으로 4.0.0 버전에 도달했습니다. Helm 4는 6년간의 첫 번째 주요 업그레이드로, 또한 Cloud Native Computing Foundation (CNCF)의 지침 아래에서 10년 차를 맞이했습니다. 업데이트는 규모, 보안 및 개발자 워크플로우와 관련된 여러 문제를 해결하려고 합니다.
+#Helm #Kubernetes #CloudNativeComputingFoundation
+
+2 번째 검색 내용
+제목: 구글의 새로운 LiteRT 가속기는 스냅드래곤 파워ed 안드로이드 장치에서 AI 작업을 슈퍼챠지어 준다.
+주소: https://www.infoq.com/news/2025/11/litert-snapdragon-accelerator/
+설명: Google은 LiteRT에 대한 새로운 악세서리, Qualcomm AI Engine Direct(QNN)를 소개했습니다. 이것은 Qualcomm-powered Android 장치의 Snapdragon 8 SoC에서 장치에서 AI 성능을 향상시키기 위해 사용되며, CPU 실행보다 100배 빠르고 GPU보다 10배 빠르게 작동합니다.
+#인공지능 #악세서리 #QualcommAIEngineDirect #Snapdragon8SoC
+
+#hashtags: #인공지능, #악세서리, #QualcommAIEngineDirect, #Snapdragon8SoC
+
+3 번째 검색 내용
+제목: 개인 AI 계산은 Google 추론을 하드웨어 격리와 임시 데이터 디자인으로 가능합니다.
+주소: https://www.infoq.com/news/2025/11/google-private-ai-compute-tee/
+설명: Google은 Private AI Compute를 발표했습니다. 이것은 Google이 사용자 데이터를 개인정보로 보호하는 시스템으로, Gemini 클라우드 모델을 사용하여 AI 요청을 처리합니다. 이 발표는 Private AI Compute를 Google이 개인정보 문제를 해결하기 위한 접근 방식으로 간주되며, 회사가 AI 사용 경우에 개인정보 향상 기술을 개발한 것을 빌미로 합니다.
+#개인정보보호 #클라우드AI #GoogleAI
+
+Hashtags: #개인정보보호, #클라우드AI, #GoogleAI
+
+4 번째 검색 내용
+제목: 클라우드플레어, 로컬 개발에 대한 원격 바인딩 소개
+
+(Note: The translation may not be perfect as it is a machine translation. Please check the meaning and context before using it.)
+주소: https://www.infoq.com/news/2025/11/cloudflare-remote-bindings/
+설명: Cloudflare는 최근 로컬 개발에 사용되는 원격 바인딩의 일반 사용 가능성을 선언했습니다. 원격 바인딩은 개발자들이 클라우드플레어 계정의 배포된 리소스에 연결하도록 할당되는 대신 로컬 시뮬레이션을 사용합니다.
+#클라우드플레이어 #원격바인딩 #로컬개발
+
+5 번째 검색 내용
+제목: AWS 분산 추적 서비스 X-Ray가 OpenTelemetry로 전환됩니다.
+주소: https://www.infoq.com/news/2025/11/aws-opentelemetry/
+설명: AWS 최근에는 AWS X-Ray가 애플리케이션 추적의 기본 인стру먼트 표준으로 OpenTelemetry를 사용하고 있음을 선언했습니다. AWS X-Ray SDK와 Daemon은 유지보수 모드로 전환되었습니다.
+#AWS #OpenTelemetry #애플리케이션추적
+
+Hashtags: #AWS, #OpenTelemetry, #애플리케이션추적
+
+6 번째 검색 내용
+제목: 도커는 데스크톱 4.50을 릴리즈하고, 무료로 디버깅 도구를 추가하며 AI 원시적 개선 사항을 포함합니다.
+주소: https://www.infoq.com/news/2025/11/docker-desktop-ai/
+설명: Docker는 Docker Desktop 4.50를 최근에 발표하여, 개발자들이 빠르고 더 안전한 워크플로우와 AI 통합 기능을 확장하려는 데 도움이 되는 또 다른 업데이트를 표시했습니다.
+#Docker #DockerDesktop #인공지능통합 #워크플로우
+
+Translated sentence: Docker recently announced the release of Docker Desktop 4.50, marking another update for developers seeking faster, more secure workflows and expanded AI-integration capabilities.
+Hashtags: #Docker #DockerDesktop #인공지능통합 #워크플로우
+
+7 번째 검색 내용
+제목: Azure 가상 데스크톱이 완전히 하이브리드로 Arc 사용 서버를 지원합니다.
+주소: https://www.infoq.com/news/2025/11/azure-avd-fully-hybrid-arc/
+설명: Microsoft의 Azure Virtual Desktop (AVD)는 현재 하이브리드 환경을 지원하며, 온프레미스 Arc-Enabled Server를 세션 호스트로 사용할 수 있습니다. 이 통합은 고객들이 데이터센터에서 가상 데스크톱을 실행하면서 클라우드 관리 도구를 활용할 수 있게 해줍니다. 업데이트는 다양한 산업에서 유연성, 준수성, 및 운영 무결성을 향상시킵니다.
+#AzureVirtualDesktop #가상데스크톱 #클라우드관리도구 #산업적용
+
+#hashtags: #AzureVirtualDesktop, #가상데스크톱, #클라우드관리도구, #산업적용
+
+8 번째 검색 내용
+제목: Kubernetes 커뮤니티는 인기 있는 Ingress NGINX 컨트롤러 퇴출
+
+(Note: The translation may not be perfect due to the specific terminology and context. Please verify the accuracy if needed.)
+주소: https://www.infoq.com/news/2025/11/kubernetes-ingress-nginx/
+설명: Kubernetes SIG Network와 Security Response Committee는 인프라에서 가장 널리 사용되고 있는 Ingress NGINX 인그레스 컨트롤러의 퇴출을 발표했습니다. 2026년 3월까지 최선을 다해 유지보수를 진행할 계획이며, 이후에는 릴리스, 버그 수정, 보안 업데이트가 없을 것입니다. Kubecon NA 2025에서 발표되었습니다.
+#Kubernetes #IngressNGINX #인프라 #보안
+
+#hashtags: #Kubernetes, #IngressNGINX, #인프라, #보안
+
+9 번째 검색 내용
+제목: Introducing Evalite: The TypeScript Testing Tool for AI-Powered Apps
+
+[INST] 이 문장을 한글로 번역해주세요 : [/INST]
+
+[INST] 이 섹션에서는 Evalite를 소개합니다: TypeScript 테스팅 도구입니다. AI 기능이 있는 앱을 위한 것입니다. [/INST]
+주소: https://www.infoq.com/news/2025/11/evalite-ai-testing/
+설명: Evalite는 TypeScript 원본에서 설계된 AI 응용 프로그램용 평가 실행기입니다. 개발자들이 재생성 가능한 평가를 만들고 풍부한 출력을 제공하는 데 도움이 됩니다. 첫 클래스 트레이스 캡처, 점수 및 사용자 친화적인 Web UI를 포함하고 있으며, 테스팅의 효율성과 반복 속도를 향상시킵니다. MIT 라이선스로 오픈 소스로서 모든 LLM에 순조롭게 통합되어 데이터 제어와 빠른 개발을 장려합니다.
+#TypeScript #AI #Evalite
+#Evaluation #DevelopmentEfficiency #DataControl
+
+10 번째 검색 내용
+제목: KubeCon NA 2025 - Robert Nishihara의 개방형 소스 AI 컴퓨팅을 Kubernetes, Ray, PyTorch, 및 vLLM과 함께 다루기
+[INST] Translate my sentence into Korean :
+
+                            KubeCon NA 2025 - Robert Nishihara on Open Source AI Compute with Kubernetes, Ray, PyTorch, and vLLM
+                         [/INST]
+주소: https://www.infoq.com/news/2025/11/kubecon-open-source-ai-compute/
+설명: AI 워크로드는 컴퓨팅과 데이터 관점에서 더욱 복잡해지고 있으며, Kubernetes와 PyTorch와 같은 기술들을 사용하여 이를 지원할 수 있는 생산성 높인 AI 시스템을 구축할 수 있습니다. Robert Nishihara는 KubeCon + CloudNativeCon North America 2025 컨퍼런스에서 AI 컴퓨팅 스택이 Kubernetes, PyTorch, VLLM 및 Ray 기술을 포함하여 새로운 AI 워크로드를 지원할 수 있는 방법에 대해 언급했습니다.
+#인공지능 #Kubernetes #PyTorch #AI워크로드
+
+#hashtags: #인공지능, #Kubernetes, #PyTorch, #AI워크로드
+
+11 번째 검색 내용
+제목: 레딵철
+주소: https://www.infoq.com/news/2025/11/reddit-comments-go-migration/
+설명: Reddit는 전달망을 재구성하여, 코멘트, 계정, 게시물, 및 서브레디트를 전통적인 파이썬 모노리스에서 Go 마이크로 서비스로 마이그레이션했습니다. 이 마이그레이션은 성능을 향상시키고, 중요한 쓰기 지연 대기 시간을 반으로 줄여, 플랫폼을 미래의 확장성에 대비하며 다양한 데이터스토어에서 정확성을 유지합니다.
+#Reddit #마이그레이션 #Go #성능 향상
+
+Hashtags: #Reddit, #Migration, #GoLang, #PerformanceImprovement
+
+12 번째 검색 내용
+제목: 앤젬로드 에이전트코어에 A2A 프로토콜 추가를 위한 인터오퍼레이블 다중 에이전트 워크플로우 [INST]
+
+Amazon Adds A2A Protocol to Bedrock AgentCore for Interoperable Multi-Agent Workflows
+주소: https://www.infoq.com/news/2025/11/a2a-amazon-bedrock-agentcore/
+설명: Amazon은 Amazon Bedrock AgentCore Runtime에서 Agent-to-Agent(A2A) 프로토콜을 지원하여, 다양한 프레임워크에서 구축된 에이전트 간의 통신을 허용합니다. 이 프로토콜은 Strands Agents, OpenAI Agents SDK, LangGraph, Google ADK, 또는 Claude Agents SDK를 사용하여 개발된 에이전트가 "공유되는 맥락, 능력, 추론을 통합된, 검증 가능한 형식으로 공유"할 수 있도록 합니다.
+#인공지능 #에이전트간통신 #프레임워크간통신
+
+#hashtags:
+1. #AI_Interoperability
+2. #AgentCommunicationProtocols
+3. #CrossFrameworkCommunication
+
+13 번째 검색 내용
+제목: Microsoft Azure Cobalt 200 ARM 칩가속 50% 성능 향상
+
+(Note: The translation may not be perfect as it is a direct translation without considering the grammar and structure of the Korean language. It would be better to consult with a professional translator for more accurate results.)
+주소: https://www.infoq.com/news/2025/11/azure-cobalt-200-chip/
+설명: At the Ignite conference, Microsoft unveiled the Cobalt 200 ARM processors, boasting a remarkable 50% performance boost. Engineered with advanced AI simulations and robust security features, it supports high-density workloads with 132 cores. As the next-gen solution for Azure, Cobalt 200 sets a new standard in efficiency and power, enhancing cloud capabilities for diverse applications.
+#인공지능 #클라우드컴퓨팅 #코바란트200
+
+Translated content: At the Ignite conference, Microsoft unveiled the Cobalt 200 ARM processors, boasting a remarkable 50% performance boost. Engineered with advanced AI simulations and robust security features, it supports high-density workloads with 132 cores. As the next-gen solution for Azure, Cobalt 200 sets a new standard in efficiency and power, enhancing cloud capabilities for diverse applications.
+#인공지능 #클라우드컴퓨팅 #코바란트200
+
+14 번째 검색 내용
+제목: 영어: Creating Impactful Software Teams That Continuously Improve
+한글: 지속적으로 개선하는 영향력 있는 소프트웨어 팀 창설하기
+주소: https://www.infoq.com/news/2025/11/impactful-software-teams/
+설명: 문화는 우리가 느낄 수 있는 감정, 일하고 성공하는 방식을 결정짓습니다. 그러한 것은 환경에 따라 달라집니다. 자기주장이 필요한 사람들과 구조가 필요한 사람들이 있습니다. 신뢰는 먼저 제공되어야 하고, 얻어지지 않습니다. 리더십은 안전하고 자율성을 허용하여 안내해야 합니다.
+#문화 #자율성 #안전
+
+Translated content hashtags: #culture, #autonomy, #safety
+
+15 번째 검색 내용
+제목: 미크로 프론트엔드로 전환하는 경험을 살리기 - 쿼컨 SF에서 루카 메즐리라 의해 발표한 강연
+
+(원문: Lessons Learned in Migrating to Micro-Frontends by Luca Mezzalira at QCon SF)
+주소: https://www.infoq.com/news/2025/11/micro-frontends-migration-qcon/
+설명: Dynamic technology leader with expertise in transitioning from monolithic to micro-frontend architectures. Advocate for prioritizing architectural intent and cultural changes alongside development. Skilled in optimizing team autonomy, enhancing agility, and streamlining deployment strategies to facilitate rapid, sustainable growth, all while ensuring effective communication and state management.
+#마이크로프론트엔드 #아키텍처 #팀자동멸악 #효과적인 커뮤니케이션
+
+Translated content: 마이크로 프론트엔드, 아키텍처, 팀 자동멸악, 효과적인 커뮤니케이션
+
+#hashtags: #마이크로프론트엔드 #아키텍처 #팀자동멸악 #효과적인커뮤니케이션 #스트리밍 #데플로이먼트 전략기
+
+3 related hashtags: #마이크로프론트엔드, #아키텍처, #효과적인커뮤니케이션
+
