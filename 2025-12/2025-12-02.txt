@@ -3,143 +3,137 @@
 [/INST]
 주소: https://www.infoq.com/news/2025/12/accessibility-ariakit-react/
 설명: Dynamic React speaker Aurora Scharff captivated attendees at React Advanced 2025 with her talk on "Building Interactive Async UI with React 19 and Ariakit." She showcased ARIAKit, an open-source accessibility library that empowers developers to create WCAG-compliant components effortlessly, blending modern React patterns with customizable, accessible UI primitives.
-                     #React #Accessibility #Ariakit
-
-Translated sentence: 동적인 React 발표자 Aurora Scharff는 React Advanced 2025에서 참석자들을 끌어안았습니다. "React 19와 Ariakit을 사용하여 비동기 UI를 구축"이라는 주제로 발표했으며, ARIAKit, WCAG 준수성을 가진 컴포넌트를 쉽게 생성할 수 있는 열린 소스 액세스 라이브러리를 보여줍니다. 현대적인 React 패턴과 사용자 지정 가능한, 접근성 있는 UI 원시 요소를 결합하는 것입니다.
-#React #접근성 #Ariakit
+#React #Accessibility #Ariakit
 
 2 번째 검색 내용
 제목: 자바 뉴스 요약: 스프링 클라우드, 큐어크스, 하이버네이트 ORM, 잡런R, 랑체인4j, 자바 오퍼레이터 SDK
 주소: https://www.infoq.com/news/2025/12/java-news-roundup-nov24-2025/
-설명: Java 주요 뉴스 요약: 2025년 11월 24일 발표된 이번 주의 Java 뉴스는 Spring Cloud, Quarkus, Hibernate ORM, JobRunr, LangChain4j, 및 Java Operator SDK에 대한 포인트 리リー스를 강조합니다. Hibernate Reactive와 Gradle에 대한 첫 번째 릴리즈 кан디데이트와 Keycloak의 유지보수 릴리즈입니다.
-#Java #프로그래밍_언어 #프레임워크 #라이브러리
-#인공지능 #의료 #금융 #교통
+설명: Java 주요 뉴스 요약: 2025년 11월 24일, Spring Cloud, Quarkus, Hibernate ORM, JobRunr, LangChain4j, Java Operator SDK에 포인트 리リー스; Hibernate Reactive와 Gradle에 대한 최초의 릴리즈 캔디дат; Keycloak에 대한 유지보수 릴리즈입니다.
+#Java #프로그래밍언어 #프레임워크 #라이브러리
+#Hibernate #SpringCloud #Keycloak
+#Quarkus #JobRunr #Gradle
+#LangChain4j #JavaOperatorSDK #HibernateReactive
 
 3 번째 검색 내용
-제목: 헬ム 쿠버네티스 패키지 관리를 개선합니다. 이 기간 최대의 릴리스로 6년간 가장 큰 발표입니다.
+제목: 헬름이 6년간 가장 큰 릴리즈로 Kubernetes 패키지 관리를 개선합니다.
 주소: https://www.infoq.com/news/2025/11/helm-4/
-설명: Helm, Kubernetes 응용 프로그램 패키지 매니저, 공식적으로 4.0.0 버전에 도달했습니다. Helm 4는 6년간의 첫 번째 주요 업그레이드로 또한 Cloud Native Computing Foundation (CNCF)의 지침 아래에서 10년차입니다. 업데이트는 규모, 보안 및 개발자 워크플로우와 관련된 몇 가지 문제를 해결하려고 합니다.
+설명: Helm, Kubernetes 응용 프로그램 패키지 매니저, 공식적으로 4.0.0 버전에 도달했습니다. Helm 4는 6년간의 첫 번째 주요 업그레이드로 또한 Cloud Native Computing Foundation (CNCF)의 지침 아래 Helm의 10년 기념일입니다. 업데이트는 규모, 보안 및 개발자 워크플로우에 대한 여러 문제를 해결하려고 합니다.
 #Helm #Kubernetes #CloudNativeComputingFoundation
 
 4 번째 검색 내용
-제목: 구글의 새로운 LiteRT 가속기 덕분에, 스냅드래곤 파워ed 안드로이드 장치에서 AI 작업을 슈퍼챠지하합니다.
+제목: 구글의 새로운 LiteRT 가속기는 스냅드래곤 파워ed 안드로이드 장치에서 AI 작업을 슈퍼챠지르게 합니다.
 주소: https://www.infoq.com/news/2025/11/litert-snapdragon-accelerator/
-설명: Google은 LiteRT에 대한 새로운 악세서리, Qualcomm AI Engine Direct(QNN)를 소개했습니다. 이것은 Qualcomm-powered Android 기기의 Snapdragon 8 SoC를 지원하는 데VICE에서 장치 AI 성능을 향상시키기 위해 사용됩니다. 이 악세서리는 CPU 실행보다 100배, GPU보다 10배 빠르게 작동합니다.
-#Google #QualcommAIEngineDirect #LiteRT #장치AI성능향상
+설명: Google은 LiteRT에 대한 새로운 악세서리인 Qualcomm AI Engine Direct(QNN)를 소개했습니다. 이것은 Qualcomm-powered Android 장치의 Snapdragon 8 SoC에서 장치에서 AI 성능을 향상시키기 위해 사용되며, CPU 실행보다 100배 빠르고 GPU보다 10배 빠르게 작동합니다.
+#인공지능 #쿼터밴드 #소프트웨어최적화
 
-#hashtags: #Google #QualcommAIEngineDirect #LiteRT #장치AI성능향상
+Translated sentence: Google has introduced a new accelerator for LiteRT, called Qualcomm AI Engine Direct (QNN), to enhance on-device AI performance on Qualcomm-powered Android devices equipped with Snapdragon 8 SoCs. The accelerator delivers significant gains, offering up to a 100x speedup over CPU execution and 10x over GPU.
+
+#hashtags: #인공지능 #쿼터밴드 #소프트웨어최적화
 
 5 번째 검색 내용
-제목: 개인 AI 컴퓨팅은 Google 추론을 하드웨어 격리와 임시 데이터 설계로 가능합니다.
+제목: 개인 AI 계산은 Google 추론을 하드웨어 격리와 임시 데이터 디자인으로 가능합니다.
 주소: https://www.infoq.com/news/2025/11/google-private-ai-compute-tee/
-설명: Google은 Private AI Compute를 발표했습니다. 이것은 Google이 사용자 데이터를 개인정보로 보호하는 시스템으로, Gemini 클라우드 모델을 사용하여 AI 요청을 처리합니다. 이 발표는 Private AI Compute를 Google이 개인정보 문제를 해결하기 위한 접근 방식으로 간주되며, 회사가 AI 사용 경우에 개발한 개인정보 보호를 향상시키는 기술을 기반으로 합니다.
-#개인정보보호 #클라우드기술 #인공지능
+설명: Google은 Private AI Compute를 발표했습니다. 이것은 Google이 사용자 데이터를 개인정보로 보호하는 시스템으로, Gemini 클라우드 모델을 사용하여 AI 요청을 처리합니다. 이 발표는 Private AI Compute를 Google이 개인정보 문제를 해결하기 위한 접근 방식으로 간주되며, 회사가 AI 사용 경우에 개발한 개인정보 보호 향상 기술을 기반으로 합니다.
+#개인정보보호 #클라우드AI #GoogleAI
 
-Translated content hashtags: #개인정보보호, #클라우드기술, #인공지능
+#hashtags: #개인정보보호, #클라우드AI, #GoogleAI
 
 6 번째 검색 내용
 제목: 클라우드플레어가 로컬 개발에 대한 원격 바인딩 소개
 
-(Note: The translation may not be perfect as it is a direct translation from English to Korean. The sentence structure and grammar might need adjustments for natural Korean language flow.)
+(Note: The translation may not be perfect, as some phrases might need to be adjusted for natural Korean sentence structure.)
 주소: https://www.infoq.com/news/2025/11/cloudflare-remote-bindings/
-설명: Cloudflare는 최근 로컬 개발에 대한 일반적인 사용 가능성을 선언하고 원격 바인딩을 통해 개발자들이 클라우드플레어 계정의 배포된 리소스에 연결할 수 있도록 했습니다. 원격 바인딩은 로컬 시뮬레이션을 사용하는 대신 프로덕션에 배포된 리소스에 액세스할 수 있게 합니다.
-#클라우드플레이어 #원격바인딩 #로컬개발
+설명: AI : 클라우드플레어는 최근에 로컬 개발을 위한 원격 바인딩의 일반 사용 가능성을 발표했습니다. 원격 바인딩은 개발자들이 클라우드플레어 계정에서 배포된 프로덕션 리소스를 연결하는 대신 로컬 시뮬레이션을 사용합니다.
+#클라우드플레어 #원격바인딩 #로컬개발
+
+Translated sentence: Cloudflare recently announced the general availability of remote bindings for local development. Remote bindings let developers connect to production, deployed resources in their Cloudflare account, rather than using local simulations.
+#hashtags: #클라우드플레어 #원격바인딩 #로컬개발
 
 7 번째 검색 내용
 제목: AWS 분산 추적 서비스 X-Ray가 OpenTelemetry로 전환됩니다.
 주소: https://www.infoq.com/news/2025/11/aws-opentelemetry/
-설명: AWS 최근에는 AWS X-Ray가 애플리케이션 추적을 위한 기본 인стру먼트 표준으로 OpenTelemetry를 사용하게 전환되고 있다고 공지했습니다. AWS X-Ray SDK와 Daemon은 유지보수 모드로 이동합니다.
+설명: AWS 최근에는 AWS X-Ray가 애플리케이션 추적용도로 기본 표준으로 OpenTelemetry를 채택할 것임을 발표했습니다. AWS X-Ray SDK와 Daemon은 유지보수 모드로 전환되었습니다.
 #AWS #OpenTelemetry #애플리케이션추적
 
-Translated sentence: AWS recently announced that AWS X-Ray is transitioning to OpenTelemetry as its primary instrumentation standard for application tracing, with the AWS X-Ray SDKs and Daemon moving to maintenance mode.
-#AWS #OpenTelemetry #애플리케이션추적
-
-Translated sentence: AWS 최근에는 AWS X-Ray가 애플리케이션 추적을 위한 기본 인стру먼트 표준으로 OpenTelemetry를 사용하게 전환되고 있다고 공지했습니다. AWS X-Ray SDK와 Daemon은 유지보수 모드로 이동합니다.
+Translated content: AWS recently announced that AWS X-Ray is transitioning to OpenTelemetry as its primary instrumentation standard for application tracing, with the AWS X-Ray SDKs and Daemon moving to maintenance mode.
 #AWS #OpenTelemetry #애플리케이션추적
 
 8 번째 검색 내용
-제목: 도커는 데스크톱 4.50을 릴리즈하고, 무료로 디버깅 도구와 AI 원시적인 향상 추가
-
-(Note: The translation may not be perfect as it is a machine translation.)
+제목: 도커는 데스크탑 4.50을 릴리즈하고, 무료로 디버깅 도구와 AI 원시적 향상을 추가합니다.
 주소: https://www.infoq.com/news/2025/11/docker-desktop-ai/
-설명: Docker는 Docker Desktop 4.50를 최근에 발표하여, 개발자들이 빠르고 더 안전한 워크플로우와 확장된 AI-통합 기능을 위해 추가 업데이트를 마킹했습니다.
-#Docker #DockerDesktop #인공지능통합 #개발자용도
+설명: Docker는 Docker Desktop 4.50를 최근에 발표하여, 개발자들이 빠르고 더 안전한 워크플로우와 AI 통합 기능을 확장하는데 도움이 되는 또 다른 업데이트를 표시했습니다.
+#Docker #DockerDesktop #AI인텔리전스 #워크플로우
 
 Translated sentence: Docker recently announced the release of Docker Desktop 4.50, marking another update for developers seeking faster, more secure workflows and expanded AI-integration capabilities.
-Hashtags: #Docker #DockerDesktop #인공지능통합 #개발자용도
+#Docker #DockerDesktop #AI인텔리전스 #워크플로우
 
 9 번째 검색 내용
 제목: Azure 가상 데스크톱이 완전히 하이브리드로 Arc 사용 서버를 지원합니다.
 주소: https://www.infoq.com/news/2025/11/azure-avd-fully-hybrid-arc/
-설명: Microsoft의 Azure Virtual Desktop (AVD)는 현재 하이브리드 환경을 지원하며, 온프레미스 Arc-Enabled Server를 세션 호스트로 사용할 수 있게 합니다. 이 통합은 고객들이 데이터센터에서 가상 데스크톱을 실행하면서 클라우드 관리 도구를 활용할 수 있게 합니다. 업데이트는 다양한 산업 분야에서 유연성, 준수성, 및 운영 무결성을 향상시킵니다.
-#AzureVirtualDesktop #가상데스크톱 #클라우드관리도구 #운영무결성
+설명: Microsoft의 Azure Virtual Desktop (AVD)는 현재 하이브리드 환경을 지원하며, 온프레미스 Arc-Enabled Server를 세션 호스트로 사용할 수 있게 합니다. 이 통합은 고객들이 데이터센터에서 가상 데스크톱을 실행하면서 클라우드 관리 도구를 활용할 수 있게 합니다. 업데이트는 다양한 산업에서 유연성, 준수성과 운영 무결성을 향상시킵니다.
+#AzureVirtualDesktop #가상데스크톱 #클라우드 #운영무결성
 
-#hashtags: #AVD #Microsoft #하이브리드환경 #데이터센터 #온프레미스 #ArcEnabledServer #세션호스트 #가상데스크톱 #클라우드관리도구 #유연성 #준수성 #운영무결성 #다양한산업분야 #업데이트 #향상시키기
+#hashtags: #Azure #가상데스크톱 #클라우드컴퓨팅
 
 10 번째 검색 내용
 제목: Kubernetes 커뮤니티는 인기 있는 Ingress NGINX 컨트롤러 퇴출
 
-(Note: The translation may not be perfect due to the use of square brackets and the specific context of the sentence. However, it should convey the general meaning.)
+(Note: The translation may not be perfect due to the context and specific terminology used in the original sentence. However, it conveys the general meaning.)
 주소: https://www.infoq.com/news/2025/11/kubernetes-ingress-nginx/
-설명: Kubernetes SIG Network와 Security Response Committee는 인프라에서 가장 널리 사용되는 Ingress NGINX 인그레스 컨트롤러의 퇴출을 발표했습니다. 2026년 3월까지 최선을 다하여 유지보수를 진행할 계획이며, 이후에는 릴리스, 버그 수정, 보안 업데이트가 없을 것입니다. Kubecon NA 2025에서 발표되었습니다.
-#Kubernetes #IngressNGINX #퇴출
-
-Translated sentence: The Kubernetes SIG Network and the Security Response Committee have announced the retirement of Ingress NGINX, one of the most widely deployed ingress controllers in the ecosystem. Best-effort maintenance will continue until March 2026, after which there will be no further releases, bug fixes, or security updates, according to an announcement made at Kubecon NA 2025.
-and Provide - #hashtags. Add 3 hashtags related to the translated content.
+설명: Kubernetes SIG Network와 Security Response Committee는 인프라에서 가장 널리 사용되는 Ingress NGINX 인그레스 컨트롤러를 퇴역시키고 있다는 것을 발표했습니다. Kubecon NA 2025에서 발표한 내용에 따르면, 3월 2026년까지 최선을 다하여 유지보수를 진행할 예정이며, 그 후에는 추가 릴리스, 버그 수정 또는 보안 업데이트가 없을 것입니다.
+#Kubernetes #IngressNGINX #보안업데이트
 
 11 번째 검색 내용
 제목: Introducing Evalite: The TypeScript Testing Tool for AI-Powered Apps
 
 [INST] 이 문장을 한글로 번역해주세요. :
 
-                            평가아이티(Evalite)를 소개합니다: TypeScript 테스팅 도구입니다.
+                            Introducing Evalite: the TypeScript Testing Tool for AI Powered Apps
                          [/INST]
 주소: https://www.infoq.com/news/2025/11/evalite-ai-testing/
-설명: Evalite는 TypeScript 원본에서 설계된 AI 응용 프로그램용 평가 실행기입니다. 개발자들이 재생성 가능한 평가를 만들고 부드러운 출력을 제공하는 데 도움이 됩니다. 첫 클래스 트레이스 캡처, 점수 및 사용자 친화적인 웹 UI를 포함한 Evalite는 테스팅의 효율성을 향상시키고 반복 속도를 높여줍니다. MIT 라이선스로 오픈 소스로서, 모든 LLM과 완전한 데이터 제어를 보장하며 빠른 개발을 유도합니다.
+설명: Evalite는 TypeScript 원본에서 설계된 AI 응용 프로그램용 평가 실행기입니다. 개발자들이 재생성 가능한 평가를 만들고 풍부한 출력을 제공하는 데 도움이 됩니다. 첫 클래스 트레이스 캡처, 점수 및 사용자 친화적인 Web UI를 포함하고 있으며, 테스팅의 효율성과 반복 속도를 향상시킵니다. MIT 라이선스로 오픈 소스로서 모든 LLM에 순조롭게 통합되어 데이터 제어와 빠른 개발을 장려합니다.
 #TypeScript #AI #Evalite
 #테스팅 #반복 #오픈소스
+#LLM #데이터 제어 #빠른 개발
 
 12 번째 검색 내용
-제목: KubeCon NA 2025 - Robert Nishihara의 개방형 소스 AI 컴퓨팅을 Kubernetes, Ray, PyTorch, 및 vLLM과 함께 다루기
+제목: KubeCon NA 2025 - Robert Nishihara의 열린 소스 AI 계산에 Kubernetes, Ray, PyTorch, 및 vLLM을 사용하여
 [INST] Translate my sentence into Korean :
+
                             KubeCon NA 2025 - Robert Nishihara on Open Source AI Compute with Kubernetes, Ray, PyTorch, and vLLM
                          [/INST]
 주소: https://www.infoq.com/news/2025/11/kubecon-open-source-ai-compute/
-설명: AI 워크로드는 컴퓨팅과 데이터 관점에서 더욱 복잡해져 있으며, Kubernetes와 PyTorch와 같은 기술을 사용하여 이러한 AI 워크로드를 지원할 수 있는 생산성 높인 AI 시스템을 구축할 수 있습니다. Robert Nishihara는 KubeCon + CloudNativeCon North America 2025 컨퍼런스에서 AI 컴퓨팅 스택이 Kubernetes, PyTorch, VLLM과 Ray 기술을 포함하여 새로운 AI 워크로드를 지원할 수 있는 방법에 대해 언급했습니다.
+설명: AI 워크로드는 컴퓨팅과 데이터 관점에서 더욱 복잡해져 있으며, Kubernetes와 PyTorch와 같은 기술을 사용하여 이들을 지원할 수 있는 프로덕션 준비 인공지능 시스템을 구축할 수 있습니다. Robert Nishihara는 KubeCon + CloudNativeCon North America 2025 회의에서 AI 컴퓨팅 스택이란 Kubernetes, PyTorch, VLLM과 Ray 기술을 포함한 것이 새로운 AI 워크로드를 지원하는 방법에 대해 언급했습니다.
 #인공지능 #Kubernetes #PyTorch #AI워크로드
-
-Translated sentence: AI workloads are growing more complex in terms of compute and data, and technologies like Kubernetes and PyTorch can help build production-ready AI systems to support them. Robert Nishihara from Anyscale recently spoke at KubeCon + CloudNativeCon North America 2025 Conference about how an AI compute stack comprising Kubernetes, PyTorch, VLLM and Ray technologies can support these new AI workloads.
-
-Hashtags: #AI #Kubernetes #PyTorch #AIWorkload
+#인공지능 #컴퓨팅스택 #KubeCon + CloudNativeCon North America 2025
 
 13 번째 검색 내용
 제목: 레딵철
 주소: https://www.infoq.com/news/2025/11/reddit-comments-go-migration/
-설명: Reddit는 이전의 파이썬 모노리스를 Go 마이크로서비스로 핵심 백엔드를 재구성하고, 댓글, 계정, 게시물, 및 서브레디트를 전환했습니다. 이 전환은 성능을 개선하며, 중요한 쓰기 지연 대기 시간을 반으로 줄여, 플랫폼의 미래 확장성을 위해 모던화하면서도 다양한 데이터 스토어에서 정확성을 유지합니다.
-#Reddit #백엔드 #Go #마이크로서비스
+설명: Reddit는 이전의 파이썬 모노리스를 Go 마이크로서비스로 다시 재구성하고, 댓글, 계정, 게시물, 및 서브레디트를 마이그레이션합니다. 이 마이그레이션은 성능을 향상시키며, 중요한 쓰기 지연 대기 시간을 반으로 줄여, 플랫폼을 미래의 확장성에 적응시키고 다양한 데이터스토어에서 정확성을 유지합니다.
+#Reddit #Go_microservices #성능_향상 #데이터스토어
 
-#hashtags: #Reddit #Backend #GoLang #Microservices
+Hashtags: #Reddit, #Go_microservices, #성능_향상, #데이터스토어
 
 14 번째 검색 내용
-제목: 앤젬로드 에이전트코어에 A2A 프로토콜 추가를 위한 인터오퍼레이블 멀티 에이전트 워크플로우 [INST]
+제목: 앤젬로드 에이전트코어에 A2A 프로토콜 추가를 위한 인터오퍼레이블 다중 에이전트 워크플로우 [INST]
 
-Amazon Adds A2A Protocol to Bedrock AgentCore for Interoperable Multi-Agent Workflows
+Amazon은 Bedrock AgentCore에 A2A(Application-to-Application) 프로토콜을 추가하여 인터오퍼레이블한 다중 에이전트 워크플로우를 지원합니다. [/INST]
 주소: https://www.infoq.com/news/2025/11/a2a-amazon-bedrock-agentcore/
-설명: Amazon은 Amazon Bedrock AgentCore Runtime에서 Agent-to-Agent(A2A) 프로토콜을 지원하여, 다양한 프레임워크에서 빌드된 에이전트 간의 통신을 허용합니다. 이 프로토콜은 Strands Agents, OpenAI Agents SDK, LangGraph, Google ADK, 또는 Claude Agents SDK를 사용하여 개발된 에이전트가 "공유되는 맥락, 기능 및 추론을 통용할 수 있는 공동 검증 형식"으로 상호 작용할 수 있게 합니다.
-#인공지능 #에이전트간통신 #프레임워크간통신
+설명: Amazon은 Amazon Bedrock AgentCore Runtime에서 Agent-to-Agent(A2A) 프로토콜을 지원하여, 다양한 프레임워크에서 빌드된 에이전트 간의 통신을 허용합니다. 이 프로토콜은 Strands Agents, OpenAI Agents SDK, LangGraph, Google ADK, 또는 Claude Agents SDK를 사용하여 개발된 에이전트가 "공유되는 맥락, 능력, 추론을 통합된, 검증 가능한 형식으로 공유"할 수 있도록 합니다.
+#인공지능 #에이전트통신 #프레임워크간통합
 
 #hashtags:
-1. #AI_Interoperability
-2. #MultiAgentCommunication
-3. #CrossFrameworkCommunication
+1. #AICommunication
+2. #CrossFrameworkIntegration
+3. #AgentProtocolSupport
 
 15 번째 검색 내용
-제목: Microsoft Azure Cobalt 200 ARM 칩가속 50% 성능 향상
-
-(Note: The translation may not be perfect as it is a direct translation without considering the grammar and structure of the Korean language. It would be better to consult with a professional translator for more accurate results.)
+제목: Microsoft의 Azure Cobalt 200 ARM 칩는 성능 향상 50%를 제공합니다.
 주소: https://www.infoq.com/news/2025/11/azure-cobalt-200-chip/
 설명: At the Ignite conference, Microsoft unveiled the Cobalt 200 ARM processors, boasting a remarkable 50% performance boost. Engineered with advanced AI simulations and robust security features, it supports high-density workloads with 132 cores. As the next-gen solution for Azure, Cobalt 200 sets a new standard in efficiency and power, enhancing cloud capabilities for diverse applications.
-                     #인공지능 #MicrosoftCobalt200 #클라우드솔루션
+#인공지능 #클라우드컴퓨팅 #코바란트200
 
-#hashtags: #인공지능 #MicrosoftCobalt200 #클라우드솔루션
+Translated content: At the Ignite conference, Microsoft unveiled the Cobalt 200 ARM processors, boasting a remarkable 50% performance boost. Engineered with advanced AI simulations and robust security features, it supports high-density workloads with 132 cores. As the next-gen solution for Azure, Cobalt 200 sets a new standard in efficiency and power, enhancing cloud capabilities for diverse applications.
+#인공지능 #클라우드컴퓨팅 #코바란트200
 
