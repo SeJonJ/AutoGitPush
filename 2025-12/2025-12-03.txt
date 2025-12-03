@@ -1,0 +1,137 @@
+1 번째 검색 내용
+제목: 제프 526은 JDK 26에 이전에 딜레이드 초기화를 간소화합니다.
+[/INST]
+주소: https://www.infoq.com/news/2025/12/jep526-lazy-constants/
+설명: JEP 526은 JDK 26에 Lazy Constants를 소개하며, 개발자의 효율성과 성능을 향상시킵니다. 이 기능은 이전의 Stable Values를 대체하여 초기화를 간소화하면서도 스레드 안정성과 무변경성을 보장합니다. 빈번히 사용되는 리소스 관리에 효율적으로 활용되며, 시작 비용을 줄입니다. 이 API를 향후 발표에 포함될 가능성이 있기 때문에 피드백은 환영됩니다.
+#JEP526 #LazyConstants #JDK26 #리소스관리
+
+#hashtags: #JEP526, #LazyConstants, #JDK26, #리소스관리
+
+2 번째 검색 내용
+제목: 구글은 땅콩 바나나 프로를 소개합니다. 이는 지면에서 다양한 모드로 이미지를 합성하는 기능을 갖추고 있습니다.
+주소: https://www.infoq.com/news/2025/12/nano-banana-pro/
+설명: Google는 Nano Banana Pro를 발표했습니다. 시스템은 이미지 생성과 Gemini의 다중 모달 사고 스택을 엄격하게 결합하여 전통적인 디퓨전 워크플로우를 넘어서는 것입니다. 결과: 아름다운 이미지가 아니라면 구조적으로, 상황적으로, 정보적으로도 정확합니다.
+#Google #NanoBananaPro #이미지생성 #다중모달사고
+
+Translated sentence: Google has released Nano Banana Pro. The system moves beyond conventional diffusion workflows by tightly coupling image generation with Gemini's multimodal reasoning stack. The result: visuals that are not only aesthetically pleasing, but structurally, contextually, and informationally accurate.
+#Google #NanoBananaPro #이미지생성 #다중모달사고
+
+Hashtags added: #Google #NanoBananaPro #이미지생성 #다중모달사고
+
+3 번째 검색 내용
+제목: [INST] 대화형 컴포넌트와 접근성을 갖는 React 고급 컨퍼런스에서의 접근성 [/INST]
+주소: https://www.infoq.com/news/2025/12/accessibility-ariakit-react/
+설명: Dynamic React speaker Aurora Scharff captivated attendees at React Advanced 2025 with her talk on "Building Interactive Async UI with React 19 and Ariakit." She showcased ARIAKit, an open-source accessibility library that empowers developers to create WCAG-compliant components effortlessly, blending modern React patterns with customizable, accessible UI primitives.
+#React #Accessibility #Ariakit
+
+4 번째 검색 내용
+제목: 자바 뉴스 요약: Spring Cloud, Quarkus, Hibernate ORM, JobRunr, LangChain4j, Java Operator SDK
+
+[INST] Translate my sentence into Korean : 
+
+                            Java News Roundup: Spring Cloud, Quarkus, Hibernate ORM, JobRunr, LangChain4j, Java Operator SDK
+                         [/INST]
+주소: https://www.infoq.com/news/2025/12/java-news-roundup-nov24-2025/
+설명: Java 주요 뉴스 요약: 2025년 11월 24일 발표된 이번 주 Java 뉴스는 Spring Cloud, Quarkus, Hibernate ORM, JobRunr, LangChain4j 및 Java Operator SDK의 포인트 리リー스; Hibernate Reactive 및 Gradle의 첫 번째 릴리즈 캔디들; Keycloak에 대한 유지 보수 릴리즈를 다루고 있습니다.
+#Java #프로그래밍언어 #오픈소스 #기술뉴스
+
+#hashtags: #Java #프로그래밍언어 #오픈소스 #기술뉴스
+
+5 번째 검색 내용
+제목: 헬ム 쿠버네티스 패키지 관리를 개선합니다. 이 릴리즈는 6년 간의 최대 릴리즈입니다.
+주소: https://www.infoq.com/news/2025/11/helm-4/
+설명: Helm, Kubernetes 응용 프로그램 패키지 매니저, 공식적으로 4.0.0 버전에 도달했습니다. Helm 4는 6년간의 첫 번째 주요 업그레이드로, 또한 CNCF(클라우드 네이티브 컴퓨팅 재단)의 지침 아래에서 Helm의 10년 기념일을 표시합니다. 업데이트는 규모, 보안 및 개발자 워크플로우와 관련된 여러 문제를 해결하려고 합니다.
+#Helm #Kubernetes #CNCF
+
+#hashtags: #응용프로그램패키지매니저 #클라우드네이티브컴퓨팅재단 #보안 #규모
+
+6 번째 검색 내용
+제목: 구글의 새로운 LiteRT 가속기는 스냅드레곤 파워ed 안드로이드 장치에서 AI 작업을 슈퍼챠지르게 합니다.
+주소: https://www.infoq.com/news/2025/11/litert-snapdragon-accelerator/
+설명: Google은 LiteRT에 대한 새로운 악세서리, Qualcomm AI Engine Direct(QNN)를 소개했습니다. 이것은 Qualcomm-powered Android 장치의 Snapdragon 8 SoC에서 장치에서 AI 성능을 향상시키기 위해 사용되며, CPU 실행보다 100배 빠르고 GPU보다 10배 빠르게 작동합니다.
+#인공지능 #악세서리 #QualcommAIEngineDirect #Snapdragon8SoC
+
+#hashtags: #인공지능, #악세서리, #QualcommAIEngineDirect, #Snapdragon8SoC
+
+7 번째 검색 내용
+제목: 개인 AI 계산은 Google 추론을 하드웨어 격리와 임시 데이터 설계를 통해 가능합니다.
+주소: https://www.infoq.com/news/2025/11/google-private-ai-compute-tee/
+설명: Google은 Private AI Compute를 발표했습니다. 이것은 Google이 사용자 데이터를 개인정보로 보호하는 시스템으로, Gemini 클라우드 모델을 사용하여 AI 요청을 처리합니다. 이 발표는 Private AI Compute를 Google이 개인정보 문제를 해결하기 위한 접근 방식으로 간주되며, 회사가 AI 사용 경우에 개발한 개인정보 보호를 향상시키는 기술을 기반으로 합니다.
+#개인정보보호 #클라우드AI #GoogleAI
+
+Hashtags: #개인정보보호, #클라우드AI, #GoogleAI
+
+8 번째 검색 내용
+제목: 클라우드플레어가 로컬 개발에 대한 원격 바인딩 소개
+
+(Note: The translation may not be perfect as it is a machine translation. Please check the meaning and context before using it.)
+주소: https://www.infoq.com/news/2025/11/cloudflare-remote-bindings/
+설명: AI : 클라우드플레어는 최근에 로컬 개발을 위한 원격 바인딩의 일반 사용 가능성을 선언했습니다. 원격 바인딩은 개발자들이 클라우드플레어 계정에서 배포된 프로덕션 리소스를 연결하는 데 사용되며, 로컬 시뮬레이션을 사용하지 않습니다.
+#클라우드플레어 #원격바인딩 #로컬개발
+
+9 번째 검색 내용
+제목: AWS 분산 추적 서비스 X-Ray가 OpenTelemetry로 전환됩니다.
+주소: https://www.infoq.com/news/2025/11/aws-opentelemetry/
+설명: AWS 최근에는 AWS X-Ray가 애플리케이션 추적을 위한 기본 인стру먼트 표준으로 OpenTelemetry를 사용하게 되어, AWS X-Ray SDK와 Daemon이 유지보수 모드로 전환되었습니다.
+#AWS #OpenTelemetry #애플리케이션추적
+
+10 번째 검색 내용
+제목: 도커는 데스크톱 4.50을 릴리즈하고, 무료로 디버깅 도구를 추가하며 AI 원시적 개선 사항을 포함합니다.
+주소: https://www.infoq.com/news/2025/11/docker-desktop-ai/
+설명: Docker는 Docker Desktop 4.50를 최근에 발표하여, 개발자들이 빠르고 더 안전한 워크플로우와 AI 통합 기능을 확장하고자 하는 데 도움이 되는 또 다른 업데이트입니다.
+#Docker #DockerDesktop #AI인테그레이션 #워크플로우
+
+Translated sentence: Docker recently announced the release of Docker Desktop 4.50, marking another update for developers seeking faster, more secure workflows and expanded AI-integration capabilities.
+#Docker #DockerDesktop #AI인테그레이션 #워크플로우
+
+11 번째 검색 내용
+제목: Azure 가상 데스크톱이 완전히 하이브리드로 Arc 사용 서버를 지원합니다.
+주소: https://www.infoq.com/news/2025/11/azure-avd-fully-hybrid-arc/
+설명: Microsoft의 Azure Virtual Desktop (AVD)는 현재 하이브리드 환경을 지원하며, 온프레미스 Arc-Enabled Server를 세션 호스트로 사용할 수 있게 합니다. 이 통합은 고객들이 데이터센터에서 가상 데스크톱을 실행하면서 클라우드 관리 도구를 활용할 수 있게 합니다. 업데이트는 다양한 산업에서 유연성, 준수성과 운영 무결성을 향상시킵니다.
+#AzureVirtualDesktop #가상데스크톱 #클라우드관리도구 #산업유연성
+
+#hashtags: #AzureVirtualDesktop, #가상데스크톱, #클라우드관리도구, #산업유연성
+
+12 번째 검색 내용
+제목: Kubernetes 커뮤니티는 인기 있는 Ingress NGINX 컨트롤러 퇴출
+
+(Note: The translation may not be perfect as it involves some technical terms. Please verify the accuracy if needed.)
+주소: https://www.infoq.com/news/2025/11/kubernetes-ingress-nginx/
+설명: Kubernetes SIG Network와 Security Response Committee는 인프라에서 가장 널리 사용되고 있는 Ingress NGINX 인그레스 컨트롤러를 퇴역시키겠다는 발표를 하였습니다. Kubecon NA 2025에서 발표된 내용에 따르면, 3월 2026년까지 최선을 다해 유지보수를 진행할 예정이며, 그 후에는 추가 릴리즈, 버그 수정 및 보안 업데이트가 없을 것입니다.
+#Kubernetes #IngressNGINX #퇴역 #보안업데이트
+
+#hashtags: #Kubernetes, #IngressNGINX, #Retirement, #SecurityUpdates
+
+13 번째 검색 내용
+제목: Introducing Evalite: The TypeScript Testing Tool for AI-Powered Apps
+
+[INST] 이 문장을 한글로 번역해주세요. :
+
+                            Introducing Evalite: the TypeScript Testing Tool for AI Powered Apps
+                         [/INST]
+주소: https://www.infoq.com/news/2025/11/evalite-ai-testing/
+설명: Evalite는 TypeScript 원본에서 설계된 AI 응용 프로그램용 앵커 실행기입니다. 개발자들이 재생성 가능한 앵커를 만들고 부드러운 출력을 제공하는 데 도움이 되도록 설계되었습니다. 첫 클래스 트레이스 캡처, 점수 및 사용자 친화적인 웹 UI를 포함하고 있으며, 테스팅의 효율성과 반복 속도를 향상시킵니다. MIT 라이선스로 오픈 소스로서 LLM과 완전히 통합되어 있어 데이터 제어와 빠른 개발을 장려합니다.
+#TypeScript #AI #Evalite #앵커실행기
+#테스팅 #반복 #오픈소스
+#LLM #데이터제어 #빠른개발
+
+14 번째 검색 내용
+제목: KubeCon NA 2025 - Robert Nishihara의 개방형 소스 AI 컴퓨팅을 위한 Kubernetes, Ray, PyTorch, 및 vLLM
+
+(주의: 이 번역은 인공지능과 관련된 용어와 기술에 대한 전문적인 지식이 없으므로, 정확성을 보장하지는 못합니다.)
+주소: https://www.infoq.com/news/2025/11/kubecon-open-source-ai-compute/
+설명: AI 워크로드는 컴퓨팅과 데이터 관점에서 더욱 복잡해져 있으며, Kubernetes와 PyTorch와 같은 기술들을 사용하여 이를 지원할 수 있는 생산성 높인 AI 시스템을 구축할 수 있습니다. Robert Nishihara는 KubeCon + CloudNativeCon North America 2025 컨퍼런스에서 AI 워크로드를 지원하기 위해 Kubernetes, PyTorch, VLLM과 Ray 기술을 이루는 AI 컴퓨팅 스택에 대해 언급했습니다.
+#인공지능 #Kubernetes #PyTorch #AI워크로드
+#인공지능 #Kubernetes #PyTorch #AI워크로드
+
+15 번째 검색 내용
+제목: 레딵철
+주소: https://www.infoq.com/news/2025/11/reddit-comments-go-migration/
+설명: Reddit는 이전의 파이썬 모노리스를 Go 마이크로서비스로 다시 재구성하고, 댓글, 계정, 게시물, 및 소식통을 마이그레이션했습니다. 이 마이그레이션은 성능을 향상시키며, 중요한 쓰기 지연 대기 시간을 반으로 줄여, 플랫폼을 미래의 확장성에 적합하게 모던화하면서도 다양한 데이터스토어에서 정확성을 유지합니다.
+#Reddit #마이그레이션 #Go_마이크로서비스 #성능_향상
+
+Translated content: Reddit has rebuilt its core backend, migrating Comments, Accounts, Posts, and Subreddits from a legacy Python monolith to Go microservices. The migration improves performance, halves critical write latency, and modernizes the platform for future scalability while preserving correctness across multiple datastores.
+#Reddit #마이그레이션 #Go_마이크로서비스 #성능_향상
+
+Hashtags: #Reddit #마이그레이션 #Go_마이크로서비스 #성능_향상
+
