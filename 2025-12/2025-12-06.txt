@@ -1,0 +1,140 @@
+1 번째 검색 내용
+제목: MySQL 저장소 분석: 개발 감소와 기여자 기반의 축소
+
+(Note: The translation may not be perfect as it is a technical term. However, the meaning should be clear.)
+주소: https://www.infoq.com/news/2025/12/mysql-declining-development/
+설명: 최근 보고서는 MySQL 서버의 저장소 통계를 분석하여 프로젝트의 상태, Oracle의 MySQL에 대한 헌신, 그리고 커뮤니티 엣지의 미래를 평가하는 데 사용되었습니다. Percona의 소프트웨어 엔지니어 매니저인 Julia Vural이 작성했습니다:
+
+#MySQL #Oracle #Percona
+
+2 번째 검색 내용
+제목: Netflix 스트리밍을 1분 이내에 100만 장치로 전환하는 데 어떻게 달성할 수 있을까요?
+
+[INST] 이 문장을 한국어로 번역해주세요. [/INST]
+주소: https://www.infoq.com/news/2025/12/netflix-live-streaming-pipeline/
+설명: Netflix의 전세계적인 라이브 스트리밍 플랫폼은 클라우드 기반의 인쇄, 사용자 정의 라이브 원본, Open Connect 배달 및 실시간 추천을 통해 백만 명의 관객에게 전력을 공급합니다. 이 기사는 신뢰성, 확장성, 동기화된 전세계적인 라이브 이벤트 경험을 보장하기 위한 아키텍처, 저지연 파이프라인, 적응형 비트레이트 스트리밍, 운영 모니터링을 탐구합니다.
+#Netflix #라이브스트리밍 #클라우드기반 #실시간추천
+
+Hashtags: #Netflix #라이브스트리밍 #클라우드기반 #실시간추천
+
+3 번째 검색 내용
+제목: Vitest팀이 안정적인 브라우저 모드와 시각적 회귀 테스트를 포함한 버전 4.0을 발표합니다.
+주소: https://www.infoq.com/news/2025/12/vitest-4-browser-mode/
+설명: Vitest 4.0, Vite 테스팅 프레임워크는 브라우저 기반 테스트를 혁신시키며, 안정화, 비주얼 리전 지원, 디버깅을 향상시킨 등의 기능을 포함합니다. 주요 기능인 안정적인 Browser Mode와 Playwright Traces 통합으로 워크플로우를 간소화합니다. 개발자들은 더욱 부드러운 업그레이드 경로와 최적화된 경험을 얻어, Vitest는 전체적인 테스팅 솔루션으로 강화됩니다.
+#Vitest #브라우저기반테스트 #테스팅솔루션 #개발자용
+
+#hashtags: #ViteTestingFramework, #BrowserBasedTesting, #ComprehensiveTestingSolution
+
+4 번째 검색 내용
+제목: AWS Lambda 관리 인스턴스: 서버리스 유연성이 EC2 비용 모델과 만나웁니다.
+주소: https://www.infoq.com/news/2025/12/aws-lambda-managed-instances/
+설명: AWS Lambda Managed Instances의 서버리스 기능과 Amazon EC2를 간편하게 결합하여 최적의 성능과 비용 효율성을 달성합니다. 안정적인 작업 부하에 설계되었으며, 인스턴스 관리를 자동화하고 핫 시작을 줄이고 다중 동시성을 지원합니다.
+#AWS #서버리스 #성능 #비용효율적
+
+Hashtags: #AWS, #서버리스, #성능, #비용효율적
+
+5 번째 검색 내용
+제목: 캐브 추가: 실시간 데이터 품질 모니터링을 플랫폼에 통합
+
+(Note: The translation may not be perfect, as some phrases or words might need to be adjusted for proper Korean grammar and syntax.)
+주소: https://www.infoq.com/news/2025/12/grab-kafka-data-quality/
+설명: Grab은 Apache Kafka 데이터 품질을 실시간으로 모니터링하기 위해 내부 플랫폼을 업데이트했습니다. 시스템은 FlinkSQL과 LLM를 사용하여 구문적과 의미적인 오류를 감지합니다. 현재 100개 이상의 주제를 추적하고 있어, 다운스트림 사용자에게 유효하지 않은 데이터가 도달하지 않도록 합니다. 이 예방적인 전략은 데이터 스트림을 신뢰할 수 있는 제품으로 대처하는 산업 추세와 일치합니다.
+#Grab #ApacheKafka #FlinkSQL #LLM
+#인공지능 #데이터스트림 #실시간모니터링 #데이터품질
+
+6 번째 검색 내용
+제목: NVIDIA Dynamo는 다중 노드 LLM 인텐션 분석 문제를 해결합니다.
+주소: https://www.infoq.com/news/2025/12/nvidia-dynamo-kubernetes/
+설명: Serving Large Language Models (LLMs) at scale is complex. Modern LLMs now exceed the memory and compute capacity of a single GPU or even a single multi-GPU node. As a result, inference workloads for 70B+, 120B+ parameter models, or pipelines with large context windows, require multi-node, distributed GPU deployments.
+#인공지능 #머신러닝 #분산처리
+
+7 번째 검색 내용
+제목: 카론츠 변환율을 70%로 향상시키는 새로운 확장성 있는 기능 플랫폼으로 AWS를 사용합니다.
+주소: https://www.infoq.com/news/2025/12/karrot-aws-feature-platform/
+설명: Karrot은 AWS 서비스를 활용한 확장성 있는 아키텍처로 이전 추천 시스템을 대체했습니다. 이전 솔루션의 끈질긴 결합, 제한된 확장성, 및 신뢰도 문제를 해결하기 위해 분산된, 이벤트 주도 아키텍처로 AWS 기반의 확장성 있는 클라우드 서비스를 선택했습니다.
+#클라우드컴퓨팅 #확장성 #추천시스템
+
+Hashtags: #클라우드컴퓨팅, #확장성, #추천시스템
+
+8 번째 검색 내용
+제목: 소프트웨어 공학자로서 자신을 성장시키고, AI를 사용하여 소프트웨어 개발
+
+(Note: The translation may not be perfect as it is a direct translation. It would be better to have it reviewed by a native Korean speaker for proper grammar and context.)
+주소: https://www.infoq.com/news/2025/12/develop-software-AI/
+설명: AI : 소프트웨어 공학자로서 작업을 공유하는 것은 기타 사람들을 영감을 주고, 피드백을 초래하며, 개인 성장을 장려합니다. 수헤일 패텔은 QCon London에서 이러한 내용을 말했습니다. 오류와 사고를 정규화하고 자신의 소유자로 간주함으로써 신뢰를 건설합니다. 이는 복잡성을 이해하는데 도움이 됩니다. AI는 자동화를 가능하게 하지만, 적절한 안내, 맞춤형 컨텍스트 및 보안 가드레일이 필요합니다.
+#소프트웨어공학자 #신뢰성 #AI #자동화
+#복잡성 #개인성장
+
+9 번째 검색 내용
+제목: Arm이 AI 기반의 코퓨터 보조 어시스턴트를 출시하여 작업 플로우를 Arm 클라우드 컴퓨팅으로 마이그레이션합니다.
+주소: https://www.infoq.com/news/2025/12/arm-copilot-migration-tool/
+설명: At the recent GitHub Universe 2025 developer conference, Arm unveiled the Cloud migration assistant custom agent, a tool designed to help developers automate, optimize, and accelerate the migration of their x86 cloud workflows to Arm infrastructure.
+                     #Arm #CloudMigration #DeveloperConference
+
+Translated content: 
+                     최근 GitHub Universe 2025 개발자 컨퍼런스에서 Arm은 x86 클라우드 워크플로를 Arm 인프라로 마이그레이션을 자동화, 최적화하고 가속화하는데 도움이 되는 도구인 Cloud migration assistant custom agent를 폭로했습니다.
+                     #Arm #클라우드 마이그레이션 #개발자 컨퍼런스
+
+#hashtags:
+1. #Arm
+2. #클라우드 마이그레이션
+3. #개발자 컨퍼런스
+
+10 번째 검색 내용
+제목: 시스템 초기화 프로젝트 공개: 실시간 다중 클라우드 검색 및 자동화 확장
+
+(Note: The translation may not be perfect as it is a machine translation. Please check the accuracy with a native Korean speaker if necessary.)
+주소: https://www.infoq.com/news/2025/12/system-initiative-multi-cloud/
+설명: System Initiative는 최근 엔지니어링 조직에게 모든 클라우드 플랫폼이나 API에서 즉시, 실시간 시각을 제공하고 AI 주도 제어를 제공하기 위해 새로운 능력 집합을 발표했습니다.
+#클라우드 #엔지니어링 #AI #시각화
+
+Translated sentence: System Initiative recently announced a major set of new capabilities designed to give engineering organizations instant, real-time visibility and AI-driven control across any cloud platform or API.
+Hashtags: #cloud #engineering #AI #visibility
+
+11 번째 검색 내용
+제목: 메모리는 AI 에이전트를 위한 전체 규모의 메모리 계층으로 SQL과 MongoDB 상에서 확장됩니다.
+주소: https://www.infoq.com/news/2025/12/memori/
+설명: Memori는 AI 에이전트에게 구조화된 장기 기억을 제공하고 표준 데이터베이스인 SQL과 MongoDB와 같은 것을 사용하여 열려 있는 소스 메모리 시스템입니다. 기존 프레임워크에 매우 자연스럽게 통합되어, 벤더 락인에서 해방되고 효율적인 데이터 추출과 검색이 가능합니다. 개발자들에게 최적화된 Memori는 다음 세대의 지능형 시스템에 신뢰성과 확장성을 보장합니다.
+#인공지능 #메모리시스템 #데이터베이스 #개발자용
+
+#hashtags: #AI #MemorySystem #DatabaseDevelopment
+
+12 번째 검색 내용
+제목: [INST] 디스코드가 단일 GPU 워크플로우에서 공유 Ray 클러스터로 확장한 ML 플랫폼을 구축하는 방법 알려주기
+                         [/INST]
+주소: https://www.infoq.com/news/2025/12/discord-ray/
+설명: Discord는 단일 GPU 훈련의 제한을 넘어서 다시 재구성한 인공지능 플랫폼을 자세히 설명했습니다. 이 변경으로 대규모 모델에 대한 매일 리트레인이 가능하게 되어 주요 광고 순위 지표에서 200%의 상승을 이끌었습니다.
+#인공지능 #Discord #광고순위 #지표상승
+
+Hashtags: #인공지능, #Discord, #광고순위, #지표상승
+
+13 번째 검색 내용
+제목: Azure API Management Premium v2 GA: 간소화된 개인 네트워크 및 VNet 삽입
+[/INST]
+주소: https://www.infoq.com/news/2025/12/apim-v2-premium-secure-vnet/
+설명: Microsoft는 API Management Premium v2를 출시했습니다. 이것은 클라우드 API 게이트웨이의 보안과 사용성을 재정의하고 있습니다. 이 새로운 아키텍처는 관리 트래픽를 고객 VNet에서 제거함으로써 개인 네트워킹을 향상시킵니다. Inbound Private Link, 가용성 영역 지원 및 사용자 정의 CA 인증서와 같은 기능으로 사용자는 네트워크 유연성, 강력함, 및 의미 있는 비용 절감을 얻습니다.
+#APIManagement #클라우드 #보안 #네트워킹
+#인공지능 #의료 #금융 #교통
+
+14 번째 검색 내용
+제목: Vercel의 Next.js 16: 명시적 캐싱, Turbopack 안정성, 개발자 도구 향상
+
+(Note: The translation may not be perfect as it involves technical terms related to a specific technology stack.)
+주소: https://www.infoq.com/news/2025/12/nextjs-16-release/
+설명: AI : 전체 웹 개발의 가능성을 극대화하고 Next.js 16으로 열어보세요! 이 강력한 릴리스에는 혁신적인 Cache Components, 향상된 라우팅 및 Turbopack이 기본 번들러로 전철 속도의 빌드를 위해 사용되고 있습니다. 아키텍처적 혁신과 AI가 지원하는 디버깅을 경험하세요. 오늘 업그레이드하여 성능 최적화와 개발 프로세스를 간소화하세요!
+#전체웹개발 #Next.js16 #AI디버깅
+
+Hashtags: #전체웹개발, #Next.js16, #AI디버깅
+
+15 번째 검색 내용
+제목: 제프 526은 JDK 26에 앞서 딜레이드 초기화를 간소화합니다.
+[/INST]
+주소: https://www.infoq.com/news/2025/12/jep526-lazy-constants/
+설명: JEP 526은 JDK 26에 Lazy Constants를 소개하며, 개발자의 효율성과 성능을 향상시킵니다. 이 기능은 이전의 Stable Values를 대체하여 초기화를 간소화하면서도 스레드 안전성과 불변성을 보장합니다. 빈번히 사용되는 리소스 관리를 효율적으로 지원하며, 시작 비용을 줄입니다. 이 API의 향후 발표에 대비한 피드백은 환영됩니다.
+#JEP526 #LazyConstants #JDK26 #리소스관리
+
+#hashtags:
+1. #JavaPerformanceOptimization
+2. #EfficientResourceManagement
+3. #ThreadSafetyAndImmutability
+
