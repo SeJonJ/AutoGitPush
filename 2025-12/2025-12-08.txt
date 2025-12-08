@@ -1,134 +1,132 @@
 1 번째 검색 내용
-제목: AWS CodeCommit은 반발 후 일반 사용 가능성을 다시 되돌린다.
-주소: https://www.infoq.com/news/2025/12/aws-codecommit-ga/
-설명: AWS 최근에는 AWS CodeCommit이 다시 일반적으로 사용 가능하며, 2026년 초에 새로운 기능인 Git Large File Storage가 추가될 것입니다. 이는 클라우드 제공자의 이전 발표와 달리 서비스가 더 이상 개발되지 않을 것임을 선언하고, 새로운 계정에 대해 사용을 중단하고 외부 대체 서비스로의 마이그레이션을 권장했습니다.
-#AWS #CodeCommit #GitLargeFileStorage #클라우드 제공자
+제목: 벨소프트 강화된 Java 이미지 공개
 
-#hashtags: #AWS, #CodeCommit, #GitLargeFileStorage, #클라우드 제공자
+(Note: The translation may not be perfect as it is a proper noun and specific term. However, the meaning should be clear.)
+주소: https://www.infoq.com/news/2025/12/bellsoft-hardened-images/
+설명: BellSoft는 Java 컨테이너에 대한 Hardened Images를 출시하였습니다. 95% 적은 CVE(취약점)과 30%의 자원 절약을 보장합니다. Alpaquita Linux를 기반으로 한 3-in-1 솔루션은 런타임 최적화, OS 하드닝, 및 CVE 수정과 함께 제공됩니다. Chainguard와 Distroless보다는 안전하고 유연한 대안으로 사용할 수 있으며, 현재 3단계에서 사용 가능합니다.
+#BellSoft #HardenedImages #JavaContainer #CVE #런타임최적화 #OS하드닝 #CVE수정 #안전하고유연한대안 #Chainguard #Distroless
 
 2 번째 검색 내용
-제목: HL은 빠르고 Rust 기반의 JSON 로그 보기를 제공하며, 파싱 속도가 1GiB/s에서 2GiB/s까지 다양합니다.
+제목: 자바 뉴스 요약: JDK 26 램프다운, JDK 27 익스퍼트 그룹, 글래시폭, 토르노도VM, 스프링 gRPC
+주소: https://www.infoq.com/news/2025/12/java-news-roundup-dec01-2025/
+설명: AI : 12월 1일의 이번 주 Java 뉴스 요약은 JDK 26 Rampdown Phase One, JDK 27 전문가 그룹 창설, TornadoVM 2.0과 Spring gRPC 1.0 GA 발표, GlassFish 7.1의 포인트 리리스, 12월 2025 에디션의 Open Liberty, JHipster 9.0의 첫 베타 릴리즈 및 Hibernate Search 8.2 RC 2의 두 번째 릴리즈 관련 뉴스를 강조합니다.
+#Java #JDK26 #TornadoVM #HibernateSearch
+
+Hashtags: #Java #JDK26 #TornadoVM #HibernateSearch
+
+3 번째 검색 내용
+제목: AWS CodeCommit은 반발 후 일반 사용 가능성을 다시 되돌린다.
+주소: https://www.infoq.com/news/2025/12/aws-codecommit-ga/
+설명: AWS 최근에는 AWS CodeCommit이 다시 일반적으로 사용 가능하며, 2026년 초에 추가될 새로운 기능 중 하나인 Git Large File Storage가 포함되었습니다. 이는 클라우드 제공자의 이전 선언에 따르면 서비스가 더 이상 개발되지 않을 것이며, 새로운 계정에 대해 닫히고 외부 대체 서비스로 마이그레이션을 권장했습니다.
+#AWS #CodeCommit #GitLargeFileStorage #클라우드 제공자
+
+4 번째 검색 내용
+제목: HL은 빠르고 Rust 기반의 JSON 로그 보기를 제공하며 파싱 속도가 최대 2GiB/s까지 제공합니다.
 주소: https://www.infoq.com/news/2025/12/hl-log-viewer/
-설명: AI : hl은 JSON 또는 logfmt 형식의 구조화된 로그를 효율적으로 처리하기 위해 설계되었습니다. Rust에서 구축되어 빠른 인덱싱과 파싱을 제공합니다, 이를 통해 압축되지 않은 것과도 같이 매우 큰 로그 파일을 빠르게 검색할 수 있습니다.
+설명: AI : hl은 JSON 또는 logfmt 형식의 구조화된 로그를 효율적으로 처리하기 위해 설계되었습니다. Rust에서 구축되어 빠른 인덱싱과 파싱을 제공합니다. 따라서 압축되거나 압축되지 않은 어떤 로그 파일이든 빠르게 검색할 수 있습니다.
 #hl #구조화된_로그 #Rust #효율적_처리
 
 #hashtags:
-1. #로깅_도구
-2. #구조화된_데이터
-3. #빠른_검색_속도
-
-3 번째 검색 내용
-제목: JFrog는 "쉐도우 AI 탐지"를 공개하여 기업 소프트웨어 공급망에서 은밀한 AI 위험을 처리합니다.
-주소: https://www.infoq.com/news/2025/12/jfrog-shadow-ai-detection/
-설명: JFrog는 오늘 소프트웨어 공급 체인 플랫폼을 확장하여 AI 그림자 감지를 위한 새로운 기능을 도입했습니다. 이 기능은 엔터프라이즈에게 AI 모델과 API 호출이 개발 파이프라인에 침투하는 것을 관리하지 않는 데 시각성과 제어를 제공합니다.
-#JFrog #소프트웨어_공급_체인 #AI_감지 #API_호출
-
-#hashtags: #JFrog, #소프트웨어_공급_체인, #AI_감지, #API_호출
-
-4 번째 검색 내용
-제목: AWS 지속적 함수 소개: 상태 있는 로직이 Lambda 코드에 직접 포함됩니다.
-주소: https://www.infoq.com/news/2025/12/aws-lambda-durable-functions/
-설명: AWS는 Lambda에 대한 지속적인 기능을 공개했습니다. 이 기능은 대기 중 비용 부과 없이 상태와 재시도 로직을 관리할 수 있게 합니다. 고급 기능으로는 체크포인트, 최대 1년간의 일시 정지 및 단순화된 오케스트레이션이 있어 Durable Functions는 복잡한 서버리스 애플리케이션을 간소화합니다.
-#AWS #지속적인 기능 #서버리스 애플리케이션 #체크포인트
-
-#hashtags:
-1. #AWS
-2. #지속적인 기능
-3. #서버리스 애플리케이션
+#로그_분석
+#JSON_로그
+#빠른_인덱싱
 
 5 번째 검색 내용
-제목: MySQL 저장소 분석: 개발 감소와 기여자 기반의 축소
+제목: 제프로그 공개 "쉐도우 AI 탐지"를 통해 기업 소프트웨어 공급망에서 은폐된 AI 위험 대처
 
-(Note: The translation may not be perfect as it is a technical term. Please check the meaning and context before using it.)
-주소: https://www.infoq.com/news/2025/12/mysql-declining-development/
-설명: 최근 보고서는 MySQL 서버의 저장소 통계를 분석하여 프로젝트의 상태, Oracle의 MySQL에 대한 협력 및 커뮤니티 엣지의 미래를 평가하려고 합니다. Percona의 소프트웨어 엔지니어 매니저인 Julia Vural이 작성했습니다:
-and Provide - #hashtags. Add 3 hashtags related to the translated content.
-#MySQL #Oracle #Percona #데이터베이스
+(Note: The translation may not be perfect as it is a technical term. Please double-check the translation for accuracy.)
+주소: https://www.infoq.com/news/2025/12/jfrog-shadow-ai-detection/
+설명: JFrog 오늘은 소프트웨어 공급 체인 플랫폼을 확장하여 개발 파이프라인에 침입한 종종 관리되지 않는 AI 모델과 API 호출을 감시할 수 있도록 설계된 새로운 기능인 Shadow AI Detection을 추가했습니다.
+#JFrog #소프트웨어공급체인플랫폼 #ShadowAIDetection #AI감시
+
+Translated sentence: JFrog today expanded its Software Supply Chain Platform with a new feature called Shadow AI Detection, designed to give enterprises visibility and control over the often-unmanaged AI models and API calls creeping into their development pipelines.
+#JFrog #소프트웨어공급체인플랫폼 #ShadowAIDetection #AI감시
+
+Hashtags: #JFrog, #소프트웨어공급체인플랫폼, #ShadowAIDetection, #AI감시
 
 6 번째 검색 내용
-제목: Netflix 스트리밍: 1분 이내에 100만 장치로부터 라이브로 전환
+제목: AWS 지속적 함수 소개: 상태 있는 로직이 Lambda 코드에 직접 포함됩니다.
+주소: https://www.infoq.com/news/2025/12/aws-lambda-durable-functions/
+설명: AWS는 Lambda에 대한 지속적인 기능을 공개했습니다. 이 기능은 대기 중 비용이 발생하지 않으면서 상태 관리와 재시도 로직을 처리할 수 있게 합니다. 고급 기능인 체크포인트, 최대 1년간의 일시 중지 및 단순화된 오케스트레이션으로 서버리스 애플리케이션을 간소화합니다.
+#AWS #지속적인 기능 #서버리스 애플리케이션 #체크포인트
 
-(Note: The translation may not be perfect as it is a direct translation from English to Korean. The sentence structure and grammar might need adjustments for natural Korean language flow.)
-주소: https://www.infoq.com/news/2025/12/netflix-live-streaming-pipeline/
-설명: Netflix의 전세계적인 라이브 스트리밍 플랫폼은 클라우드 기반의 인쇄, 사용자 정의 라이브 원본, Open Connect 배달 및 실시간 추천을 통해 백만 명의 관객에게 전력을 공급합니다. 이 기사는 신뢰성, 확장성, 동기화된 전세계적인 라이브 이벤트 경험을 보장하기 위한 아키텍처, 저해상도 파이프라인, 적응형 비트레이트 스트리밍 및 운영 모니터링을 탐구합니다.
-#Netflix #라이브스트리밍 #클라우드기반 #실시간추천
-
-Hashtags: #Netflix #라이브스트리밍 #클라우드기반 #실시간추천
+#hashtags: #AWS #지속적인 함수 #서버리스 #체크포인트
 
 7 번째 검색 내용
-제목: Vitest팀이 안정적인 브라우저 모드와 시각적 회귀 테스트를 포함한 버전 4.0을 발표합니다.
-주소: https://www.infoq.com/news/2025/12/vitest-4-browser-mode/
-설명: Vitest 4.0, Vite 테스팅 프레임워크는 브라우저 기반 테스트를 혁신시키며, 안정화, 비주얼 리전션 지원, 디버깅 향상을 포함합니다. 주요 기능인 안정적인 Browser Mode와 Playwright Traces 통합으로 워크플로우를 간소화합니다. 개발자들은 더욱 끊임없는 업그레이드 경로와 최적화된 경험을 얻어, Vitest를 전체적인 테스팅 솔루션으로 강조합니다.
-#Vitest #브라우저기반테스트 #테스팅솔루션 #개발자
+제목: 내가 작성한 문장을 번역하겠습니다:
 
-#hashtags: #ViteTestingFramework, #BrowserBasedTesting, #ComprehensiveTestingSolution
+MySQL 저장소 분석은 개발 감소와 기여자 기반의 축소를 드러냅니다.
+주소: https://www.infoq.com/news/2025/12/mysql-declining-development/
+설명: 최근 보고서는 MySQL 서버의 저장소 통계를 분석하여 프로젝트의 상태, Oracle의 MySQL 대한 헌신, 커뮤니티 에디션의 미래를 평가하기 위해 작성되었습니다. Percona의 소프트웨어 엔지니어 매니저인 Julia Vural이 작성했습니다:
+
+#MySQL #Oracle #Percona
 
 8 번째 검색 내용
-제목: AWS Lambda 관리 인스턴스: 서버리스 유연성이 EC2 비용 모델과 만나려니까요.
-주소: https://www.infoq.com/news/2025/12/aws-lambda-managed-instances/
-설명: AWS Lambda Managed Instances의 서버리스 기능을 Amazon EC2와 원활하게 결합하여 최적의 성능과 비용 효율성을 달성합니다. 안정적인 작업 부하에 설계되었으며, 인스턴스 관리를 자동화하고 핫 시작을 줄이며 다중 동시성을 지원합니다.
-#AWS #서버리스 #인스턴스 관리 #비용효율적
+제목: Netflix 스트리밍을 100만 장치에서 1분 이내로 실시간으로 전송하는 것에서 On-Demand를 Live로 변경합니다.
+주소: https://www.infoq.com/news/2025/12/netflix-live-streaming-pipeline/
+설명: Netflix의 전세계적인 라이브 스트리밍 플랫폼은 클라우드 기반의 인쇄, 사용자 정의 라이브 원본, Open Connect 배달 및 실시간 추천을 통해 백만 명의 관객에게 파워를 제공합니다. 이 기사는 신뢰성, 확장성, 동기화된 전세계적 라이브 이벤트 경험을 보장하기 위한 아키텍처, 저지연 파이프라인, 적응형 비트레이트 스트리밍 및 운영 모니터링을 탐구합니다.
+#Netflix #라이브스트리밍 #클라우드컴퓨팅 #실시간추천
 
-Hashtags: #AWS, #서버리스, #인스턴스_관리, #비용효율적
+Hashtags: #Netflix #라이브스트리밍 #클라우드컴퓨팅 #실시간추천
 
 9 번째 검색 내용
-제목: 캐브 추가: 실시간 데이터 질성 모니터링을 플랫폼에 통합
-
-(Note: The translation may not be perfect, as Korean grammar and sentence structure can differ significantly from English.)
-주소: https://www.infoq.com/news/2025/12/grab-kafka-data-quality/
-설명: Grab은 Apache Kafka 데이터 질성을 실시간으로 모니터링하기 위해 내부 플랫폼을 업데이트했습니다. 시스템은 FlinkSQL과 LLM를 사용하여 구문적과 의미적인 오류를 감지합니다. 현재 100개 이상의 주제를 추적하고 있으며, 잘못된 데이터가 다운스트림 사용자에게 도달하지 않도록 방지합니다. 이 예측적인 전략은 데이터 스트림을 신뢰할 수 있는 제품으로 대처하는 산업 추세와 일치합니다.
-#Grab #ApacheKafka #FlinkSQL #LLM
-
-#hashtags: #데이터분석 #인공지능 #실시간데이터처리
+제목: Vitest팀이 안정적인 브라우저 모드와 시각적 리전 테스팅을 포함한 버전 4.0를 발표합니다.
+주소: https://www.infoq.com/news/2025/12/vitest-4-browser-mode/
+설명: Vitest 4.0, Vite 테스팅 프레임워크, 브라우저 기반 테스트를 혁신하며 안정화, 시각적 리전 지원을 내장하고 디버깅을 향상시켰습니다. 주요 기능으로는 안정적인 Browser Mode와 Playwright Traces 통합이 있어 워크플로우를 간소화합니다. 개발자들은 더 낮은 업그레이드 경로와 최적화된 경험을 얻으며, Vitest가 완전한 테스팅 솔루션으로 강조되었습니다.
+#Vitest #브라우저기반테스트 #테스팅솔루션
+#인공지능 #의료 #금융 #교통
 
 10 번째 검색 내용
+제목: AWS Lambda 관리 인스턴스: 서버리스 유연성이 EC2 비용 모델과 만나려니까요.
+주소: https://www.infoq.com/news/2025/12/aws-lambda-managed-instances/
+설명: AWS Lambda Managed Instances의 서버리스 기능과 Amazon EC2를 간편하게 결합하여 최적의 성능과 비용 효율을 달성합니다. 안정적인 워크로드에 설계되었으며, 인스턴스 관리를 자동화하고 핫 시작을 줄이며 다중 동시성을 지원합니다.
+#AWS #서버리스 #인스턴스 관리 #최적화
+
+#hashtags: #AWS #서버리스 #인스턴스 관리 #최적화
+
+11 번째 검색 내용
+제목: 캐브 추가: 실시간 데이터 질성 모니터링을 플랫폼에 통합
+
+(Note: The translation may not be perfect as it is a machine translation. Please check for accuracy if needed.)
+주소: https://www.infoq.com/news/2025/12/grab-kafka-data-quality/
+설명: Grab은 Apache Kafka 데이터 품질을 실시간으로 모니터링하기 위해 내부 플랫폼을 업데이트했습니다. 시스템은 FlinkSQL과 LLM를 사용하여 구문적과 의미적인 오류를 감지합니다. 현재 100개 이상의 주제를 추적하고 있으며, 잘못된 데이터가 다운스트림 사용자에게 도달하지 않도록 방지합니다. 이 활동적인 전략은 데이터 스트림을 신뢰할 수 있는 제품으로 대처하는 산업 추세와 일치합니다.
+#Grab #ApacheKafka #FlinkSQL #LLM
+
+#hashtags: #데이터분석 #인공지능 #데이터처리
+
+12 번째 검색 내용
 제목: NVIDIA Dynamo는 다중 노드 LLM 인프레런스 문제를 해결합니다.
 주소: https://www.infoq.com/news/2025/12/nvidia-dynamo-kubernetes/
 설명: Serving Large Language Models (LLMs) at scale is complex. Modern LLMs now exceed the memory and compute capacity of a single GPU or even a single multi-GPU node. As a result, inference workloads for 70B+, 120B+ parameter models, or pipelines with large context windows, require multi-node, distributed GPU deployments.
-#인공지능 #머신러닝 #분산처리
+#인공지능 #대규모언어모델 #분산처리
 
-11 번째 검색 내용
-제목: 카론츠 변환율을 70% 향상시킵니다. 새로운 확장성 있는 기능 플랫폼을 AWS에서 도입합니다.
-주소: https://www.infoq.com/news/2025/12/karrot-aws-feature-platform/
-설명: Karrot은 AWS 서비스를 활용한 확장성 있는 아키텍처로 이전 추천 시스템을 대체했습니다. 이전 솔루션의 끊임없는 결합, 제한된 확장성, 및 신뢰도 문제를 해결하기 위해 분산된, 이벤트 주도 아키텍처로 AWS 기반의 확장성 있는 클라우드 서비스를 선택했습니다.
-#클라우드컴퓨팅 #확장성 #추천시스템
-
-Translated content hashtags: #클라우드컴퓨팅, #확장성, #추천시스템
-
-12 번째 검색 내용
-제목: 소프트웨어 공학자로서 자신을 성장시키고, AI를 사용하여 소프트웨어 개발
-
-(Note: The translation may not be perfect as it is a direct translation without considering the natural flow of Korean language. However, it conveys the meaning of the original sentence.)
-주소: https://www.infoq.com/news/2025/12/develop-software-AI/
-설명: AI : 소프트웨어 공학자로서 작업을 공유하는 것은 다른 사람들을 영감을 주고, 피드백을 초래하며, 개인 성장을 장려합니다. 수헤일 패텔은 QCon London에서 이렇게 말했습니다. 오류와 실행 문제를 정규화하고 자신의 소유자로 인식함으로써 신뢰를 건설합니다. 이것은 복잡성을 이해하는 데 도움이 됩니다. AI는 자동화를 가능하게 하지만, 적절한 안내, 맞춤형 컨텍스트와 보안 가드레일을 갖추고 있어야 합니다.
-#소프트웨어공학자 #AI #신뢰성 #개인성장
-
-Hashtags: #softwareengineer, #trust, #personalgrowth
+Translated content: Serving Large Language Models (LLMs) at scale is complex. Modern LLMs now exceed the memory and compute capacity of a single GPU or even a single multi-GPU node. As a result, inference workloads for 70B+, 120B+ parameter models, or pipelines with large context windows, require multi-node, distributed GPU deployments.
+#인공지능 #대규모언어모델 #분산처리
 
 13 번째 검색 내용
-제목: Arm이 AI 기반의 코퓨터 어시스턴트를 출시하여 작업 플로우를 Arm 클라우드 컴퓨팅으로 마이그레이션합니다.
+제목: 카론츠 변환율을 70%로 향상시키며, AWS에서 확장성 있는 새로운 기능 플랫폼으로 개선합니다.
+주소: https://www.infoq.com/news/2025/12/karrot-aws-feature-platform/
+설명: Karrot은 AWS 서비스를 활용한 확장성 있는 아키텍처로 이전 추천 시스템을 대체했습니다. 이전 솔루션의 끊임없는 결합, 제한된 확장성, 및 신뢰도 문제를 해결하기 위해 분산된, 이벤트 기반 아키텍처를 스케일러블한 클라우드 서비스 위에 구축했습니다.
+#클라우드 #확장성 #추천시스템
+
+#hashtags: #클라우드컴퓨팅, #확장성있는아키텍처, #추천알고리즘
+
+14 번째 검색 내용
+제목: 소프트웨어 공학자로서 자신을 성장시키고, AI를 사용하여 소프트웨어 개발
+
+(Note: The translation may not be perfect as it is a direct translation. It would be better to have a native Korean speaker review and adjust the sentence for proper grammar and flow.)
+주소: https://www.infoq.com/news/2025/12/develop-software-AI/
+설명: AI : 소프트웨어 공학자로서 작업을 공유하는 것은 다른 사람들을 감동시키고, 피드백을 초래하며, 개인 성장을 장려합니다. 수헤일 페테일은 QCon London에서 이러한 내용을 말했습니다. 오류와 사고를 정규화하고 자신의 소유자로 간주함으로써 신뢰를 건설합니다. 이는 복잡성을 이해하는 데 도움이 됩니다. AI는 자동화를 가능하게 하지만, 적절한 안내, 맞춤형 컨텍스트와 보안 가드레일을 갖추고 있어야 합니다.
+#소프트웨어공학자 #신뢰성 #AI #자동화
+#복잡성 #이해 #안전 #안내 #컨텍스트
+
+15 번째 검색 내용
+제목: Arm이 AI 기반의 코퓨터 보조 어시스턴트를 출시하여 작업 플로우를 Arm 클라우드 컴퓨팅으로 마이그레이션합니다.
 주소: https://www.infoq.com/news/2025/12/arm-copilot-migration-tool/
 설명: At the recent GitHub Universe 2025 developer conference, Arm unveiled the Cloud migration assistant custom agent, a tool designed to help developers automate, optimize, and accelerate the migration of their x86 cloud workflows to Arm infrastructure.
                      #Arm #CloudMigration #DeveloperConference
 
 Translated content: 
-                     최근 GitHub Universe 2025 개발자 컨퍼런스에서 Arm은 x86 클라우드 워크플로를 Arm 인프라로 이동하는 데 도움이 되는 것을 위한 개발자들을 도와주기 위해 설계된 도구인 Cloud migration assistant custom agent를 폭로했습니다.
-                     #Arm #클라우드 이동 #개발자 컨퍼런스
-
-14 번째 검색 내용
-제목: 시스템 초기화 프로젝트는 실시간 다중 클라우드 검색 및 자동화를 통해 확장을 공개합니다.
-주소: https://www.infoq.com/news/2025/12/system-initiative-multi-cloud/
-설명: System Initiative는 최근 엔지니어링 조직에게 모든 클라우드 플랫폼이나 API에서 즉시, 실시간 시각을 제공하고 AI 주도 제어를 제공하기 위해 새로운 능력 집합을 발표했습니다.
-#클라우드 #엔지니어링 #AI
-
-Translated sentence: System Initiative recently announced a major set of new capabilities designed to give engineering organizations instant, real-time visibility and AI-driven control across any cloud platform or API.
-Hashtags: #클라우드 #엔지니어링 #AI
-
-15 번째 검색 내용
-제목: 메모리는 AI 에이전트를 위한 전체 규모의 메모리 계층으로 SQL과 MongoDB에 확장됩니다.
-주소: https://www.infoq.com/news/2025/12/memori/
-설명: Memori는 AI 에이전트에게 구조화된 장기 기억을 제공하고 표준 데이터베이스인 SQL과 MongoDB와 같은 것을 사용하여 열려 있는 소스 메모리 시스템입니다. 기존 프레임워크에 매우 자연스럽게 통합되어, 벤더 락인에서 해방되고 효율적인 데이터 추출과 검색이 가능합니다. 개발자들에게 최적화된 Memori는 다음 세대의 지능형 시스템에 신뢰성과 확장성을 보장합니다.
-#인공지능 #메모리시스템 #데이터베이스 #개발자용
-
-#hashtags: #AI #MemorySystem #DatabaseDevelopment
+                     최근 GitHub Universe 2025 개발자 컨퍼런스에서 Arm은 x86 클라우드 워크플로를 Arm 인프라로 마이그레이션을 자동화, 최적화하고 가속화하는데 도움이 되는 도구인 Cloud migration assistant custom agent를 폭로했습니다.
+                     #Arm #클라우드마이그레이션 #개발자컨퍼런스
 
