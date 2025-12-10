@@ -1,0 +1,136 @@
+1 번째 검색 내용
+제목: 에이전트릭 포스크리스: 에이전트릭 앱용 포스크리스, 빠른 포크링과 AI 준비 기능 제공
+[INST] Agentic Postgres: Postgres for Agentic Apps with Fast Forking and AI-Ready Features [/INST]
+주소: https://www.infoq.com/news/2025/12/agentic-postgres-fast-forking/
+설명: Tiger Data, TimescaleDB의 기업체, Postgres 기반의 AI 에이전트와 개발자를 위한 데이터베이스인 Agentic Postgres를 출시했습니다. 이것은 Postgres를 확장하여 빠른 forking, MCP 서버, 원시 BM25 및 벡터 검색, 터미널 액세스용 CLI를 포함합니다.
+#인공지능 #데이터베이스 #AI_에이전트 #개발자
+
+Hashtags: #인공지능, #데이터베이스, #AI_에이전트, #개발자
+
+2 번째 검색 내용
+제목: OpenAI의 새로운 GPT-5.1 모델은 더 빠르고 대화형입니다.
+주소: https://www.infoq.com/news/2025/12/openai-gpt-51/
+설명: AI : OpenAI가 GPT-5 모델의 업그레이드를 최근에 발표했습니다. GPT‑5.1 Instant, 기본 대화 모델은 지시 수행에 대한 개선이 있으며, GPT‑5.1 Thinking, 사고 모델은 더 빠르고 이해하기 쉬운 응답을 제공합니다. GPT‑5.1-Codex-Max, 코딩 모델은 압축을 사용하여 긴 실행 작업을 수행할 수 있도록 훈련되었습니다.
+#인공지능 #OpenAI #GPT5
+
+Hashtags: #인공지능, #OpenAI, #GPT5
+
+3 번째 검색 내용
+제목: Replit은 다형적 개발을 위한 새로운 AI 통합 소개
+
+(Note: The translation may not be perfect as it is a machine translation. Please review and make necessary adjustments if needed.)
+주소: https://www.infoq.com/news/2025/12/replit-ai-integrations/
+설명: Replit은 Replit AI Integrations을 소개했습니다. 이것은 IDE 내에서 사용자가 third-party 모델을 직접 선택하고, 인프레넌스를 실행하는데 필요한 코드를 자동으로 생성해주는 기능입니다.
+#Replit #AIIntegrations #IDE #인프레넌스
+
+#hashtags: #Replit, #AIIntegrations, #IDE, #인프레넌스
+
+4 번째 검색 내용
+제목: AWS가 데이터베이스 절약 플랜을 출시하였습니다. 이는 엔진 유연성과 비용 절감 효과가 있으며, 최대 35%의 비용 절감을 제공합니다.
+주소: https://www.infoq.com/news/2025/12/aws-database-savings-plans/
+설명: AWS는 Database Savings Plans을 출시하여, 고객들이 일관된 사용량에 대한 약속으로 데이터베이스 비용을 최대 35% 감소시킬 수 있도록 합니다. 이 기능은 AWS 지역간의 마이그레이션과 확장에서 유연성을 향상시키며, 데이터베이스 비용 절감 효과와 미래의 데이터베이스 약속 방향에 대한 긍정적인 커뮤니티 피드백을 강조합니다.
+#AWS #데이터베이스비용절감 #유연성 #미래의데이터베이스약속
+
+Hashtags: #AWS, #데이터베이스비용절감, #유연성, #미래의데이터베이스약속
+
+5 번째 검색 내용
+제목: 빅크 발표: 다음 세대의 JavaScript 배포 인프라와 클라우드 플레이어 통합을 포함한 Photon 출시
+
+(Note: The translation may not be perfect, as some phrases might need to be adjusted for natural Korean sentence structure.)
+주소: https://www.infoq.com/news/2025/12/photon-deployment-javascript/
+설명: Vike는 JavaScript 서버를 모든 플랫폼에서 배포하는데 있어 새로운 프레임워크인 Photon을 소개합니다. 개발자의 경험을 향상시키기 위해 클라우드플레이 통합, 핫모듈 대체, 무료 설정 등과 같은 기능을 제공합니다. 협력적인 열람 소스로서 Photon은 서버 배포를 간소화하면서 유연성을 제공하여 현대적인 웹 개발에 필수적인 도구가 됩니다.
+#Vike #Photon #JavaScript #웹개발
+#hashtags: #웹서버배포 #열람소스 #개발자경험향상 #클라우드플레이통합
+
+6 번째 검색 내용
+제목: [INST] 팟 감지: JVM 언어에서 동시성 문제 검색
+[/INST]
+주소: https://www.infoq.com/news/2025/12/fray-detects-concurrency-issues/
+설명: Carnegie Mellon University는 JVM 프로그램에서 버그를 찾고 재생할 수 있는 동시성 테스팅 도구인 Fray를 소개했습니다. Kotlin으로 작성되었으며, 이 연구 논문을 기반으로 하여 모든 동시성 문제를 찾아내지는 못하지만, 최근 연구를 활용하여 그들을 탐지할 기회를 최대화합니다.
+#CarnegieMellonUniversity #동시성 #테스팅도구 #JVM프로그램
+
+Hashtags: #CarnegieMellonUniversity, #동시성, #테스팅도구, #JVM프로그램
+
+7 번째 검색 내용
+제목: 벨소프트 강화된 Java 이미지 공개
+
+(Note: The translation may not be perfect as it is a proper noun and specific term. However, the meaning should be clear.)
+주소: https://www.infoq.com/news/2025/12/bellsoft-hardened-images/
+설명: BellSoft는 Java 컨테이너에 대한 Hardened Images를 출시하며, 95%의 CVE 감소와 30%의 자원 절약을 보장합니다. Alpaquita Linux를 기반으로 한 3-in-1 솔루션은 런타임 최적화, OS 하드닝, 및 CVE 수정과 함께 제공됩니다. Chainguard와 Distroless보다는 안전하고 유연한 대안으로 사용할 수 있으며, 현재 3단계에서 사용 가능합니다.
+#BellSoft #HardenedImages #JavaContainers #CVE #런타임최적화 #OS하드닝 #CVE수정 #안전하고유연한대안 #Chainguard #Distroless
+
+8 번째 검색 내용
+제목: 자바 뉴스 요약: JDK 26 런드다운, JDK 27 익스퍼트 그룹, 글래시핑, 토르노도VM, 스프링 gRPC
+주소: https://www.infoq.com/news/2025/12/java-news-roundup-dec01-2025/
+설명: AI : 12월 1일의 이번 주 Java 뉴스 요약은 다음과 같습니다: JDK 26이 Rampdown Phase One에서 진행중; JDK 27 전문가 그룹의 결성; TornadoVM 2.0과 Spring gRPC 1.0 GA 출시; GlassFish 7.1의 포인트 리리스; 2025년 12월 에디션의 Open Liberty; JHipster 9.0의 첫 베타 릴리즈와 Hibernate Search 8.2의 두 번째 RC 릴리즈입니다.
+#Java #JDK26 #TornadoVM #HibernateSearch
+
+#hashtags: #Java #JDK26 #TornadoVM #HibernateSearch
+
+9 번째 검색 내용
+제목: AWS CodeCommit은 일반 사용 가능성을 다시 복구하고 있습니다.
+[INST] AWS CodeCommit은 일반 사용 가능성으로 다시 복구되었습니다. [/INST]
+주소: https://www.infoq.com/news/2025/12/aws-codecommit-ga/
+설명: AWS 최근에는 AWS CodeCommit이 다시 일반적으로 사용 가능하며, 2026년 초에 새로운 기능인 Git Large File Storage가 추가될 것입니다. 이 변화는 이전에 서비스가 더 이상 개발되지 않을 것임을 선언한 클라우드 제공자에게 의미적으로 중요합니다. 새로운 계정에 대해 이 서비스를 열어두고, 외부 대체 서비스로 마이그레이션을 권장했습니다.
+#AWS #CodeCommit #클라우드_제공자
+
+Hashtags: #AWS, #CodeCommit, #클라우드_제공자
+
+10 번째 검색 내용
+제목: HL은 빠르고, 라스트 기반의 JSON 로그 보기를 제공하며, 파싱 속도가 1GiB/s에서 2GiB/s까지 다양합니다.
+주소: https://www.infoq.com/news/2025/12/hl-log-viewer/
+설명: AI : hl은 JSON 또는 logfmt 형식의 구조화된 로그를 효율적으로 처리하기 위해 설계되었습니다. Rust에서 구축되어 빠른 인덱싱과 파싱을 제공합니다. 따라서 압축되거나 압축되지 않은 어떤 로그 파일이든 빠르게 검색할 수 있습니다.
+#hl #구조화된_로그 #Rust #효율적_처리
+
+#hashtags:
+#로그_분석
+#JSON_로그
+#빅데이터_처리
+
+11 번째 검색 내용
+제목: JFrog는 "쉐도우 AI 탐지"를 공개하여 기업 소프트웨어 공급망에서 은폐된 AI 위험을 처리합니다.
+주소: https://www.infoq.com/news/2025/12/jfrog-shadow-ai-detection/
+설명: JFrog 오늘은 소프트웨어 공급 체인 플랫폼을 확장하여 개발 파이프라인에 침입하는 AI 모델과 API 호출을 관리하기 위해 새로운 기능인 Shadow AI Detection을 도입했습니다.
+#JFrog #소프트웨어공급체인플랫폼 #ShadowAIDetection #AI관리
+
+Translated sentence: JFrog today expanded its Software Supply Chain Platform with a new feature called Shadow AI Detection, designed to give enterprises visibility and control over the often-unmanaged AI models and API calls creeping into their development pipelines.
+#JFrog #소프트웨어공급체인플랫폼 #ShadowAIDetection #AI관리
+
+Hashtags:
+1. #JFrog
+2. #소프트웨어공급체인플랫폼
+3. #ShadowAIDetection
+4. #AI관리
+
+12 번째 검색 내용
+제목: AWS 지속적인 함수 소개: 상태 있는 로직이 Lambda 코드에 직접 포함됩니다.
+주소: https://www.infoq.com/news/2025/12/aws-lambda-durable-functions/
+설명: AWS는 Lambda에 대한 지속적인 기능을 공개했습니다. 이 기능은 대기 중 비용 부과 없이 상태와 재시도 로직을 관리할 수 있게 합니다. 고급 기능으로는 체크포인트, 최대 1년 동안의 일시 중지 및 간소화된 오케스트레이션이 있어 복잡한 서버리스 애플리케이션을 간편하게 처리합니다.
+#AWS #Lambda #지속적인 기능 #서버리스 애플리케이션
+
+#hashtags: #AWS, #Lambda, #DurableFunctions
+
+13 번째 검색 내용
+제목: MySQL 저장소 분석: 개발 감소와 기여자 기반의 축소
+
+(Note: The translation may not be perfect as it is a technical term. Please check the meaning and context before using it.)
+주소: https://www.infoq.com/news/2025/12/mysql-declining-development/
+설명: AI : 최근 보고서는 MySQL 서버의 저장소 통계를 분석하여 프로젝트의 상태, Oracle의 MySQL에 대한 협력 및 커뮤니티 엣지의 미래를 평가하는 데 사용되었습니다.
+#MySQL #Oracle #커뮤니티엣지
+
+14 번째 검색 내용
+제목: Netflix 스트리밍을 100만 장치에서 1분 이내로 실시간으로 전송하는 것에서 On-Demand를 Live로 변경합니다.
+주소: https://www.infoq.com/news/2025/12/netflix-live-streaming-pipeline/
+설명: Netflix의 전세계적인 라이브 스트리밍 플랫폼은 클라우드 기반의 인쇄, 사용자 정의 라이브 원본, Open Connect 배달 및 실시간 추천을 통해 백만 명의 관객에게 전력을 공급합니다. 이 기사는 신뢰성, 확장성, 동기화된 전세계적인 라이브 이벤트 경험을 보장하기 위한 아키텍처, 저지연 파이프라인, 적응형 비트레이트 스트리밍, 운영 모니터링을 조사합니다.
+#네플리스 #라이브스트리밍 #클라우드기반 #실시간추천
+
+#hashtags: #Netflix #LiveStreaming #CloudComputing #RealTimeRecommendations
+
+15 번째 검색 내용
+제목: Vitest팀이 안정적인 브라우저 모드와 시각적 회귀 테스트를 포함한 버전 4.0을 발표합니다.
+주소: https://www.infoq.com/news/2025/12/vitest-4-browser-mode/
+설명: Vitest 4.0, Vite 테스팅 프레임워크는 브라우저 기반 테스트를 혁신시키며, 안정화, 비주얼 리전션 지원, 디버깅 향상을 포함합니다. 주요 기능인 안정적인 Browser Mode와 Playwright Traces 통합으로 워크플로우를 간소화합니다. 개발자들은 더욱 끊임없는 업그레이드 경로와 최적화된 경험을 얻어, Vitest를 전체적인 테스팅 솔루션으로 강조합니다.
+#Vitest #브라우저기반테스트 #테스팅솔루션 #개발자
+
+#hashtags: #ViteTestingFramework, #BrowserBasedTesting, #ComprehensiveTestingSolution
+
