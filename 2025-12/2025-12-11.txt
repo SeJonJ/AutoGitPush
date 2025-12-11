@@ -1,0 +1,134 @@
+1 번째 검색 내용
+제목: 구글 클라우드는 130,000 노드를 가진 GKE 클러스터로 거대한 Kubernetes 규모 확장 데모 실시
+
+(Note: The translation may not be perfect as it is a machine translation. Please review and make necessary adjustments if needed.)
+주소: https://www.infoq.com/news/2025/12/gke-130000-node-cluster/
+설명: AI : Google Kubernetes Engine (GKE) 팀은 이미 130,000 노드를 가진 공개적으로 최대의 Kubernetes 클러스터를 성공적으로 구축하고 운영했다는 사실을 밝혔습니다.
+#GoogleKubernetesEngine #Kubernetes #클라우드컴퓨팅
+
+2 번째 검색 내용
+제목: 지속적인 기능과 워너 보글스의 마지막 키노트: AWS re:Invent 2025의 강조 사항
+
+(Note: The translation may not be perfect as it is a direct translation from English to Korean. It would be better if a native Korean speaker checks and adjusts the translation for proper grammar and sentence structure.)
+주소: https://www.infoq.com/news/2025/12/highlights-reinvent-2025-werner/
+설명: AI : 2025년 re:Invent는 라스베가스에서 진행되었습니다. 예상대로 AI가 키노트의 주요 주제였지만, 커뮤니티는 서버리스 공간에서의 발표들에 더 관심을 가졌습니다. Lambda Managed Instances와 Lambda Durable Functions가 중점적으로 언급되었습니다. 이 컨퍼런스는 Amazon CTO Werner Vogels의 마지막 키노트를 표명했습니다.
+#reInvent2025 #서버리스 #Lambda #WernerVogels
+
+Translated sentence: The 2025 edition of re:Invent recently took place in Las Vegas. As anticipated, AI was a significant focus of the keynotes, but the community was more intrigued by announcements in the serverless space, including Lambda Managed Instances and Lambda Durable Functions. The conference marked the final keynote for Amazon CTO Werner Vogels after 14 years.
+#hashtags: #reInvent2025, #서버리스, #Lambda, #WernerVogels
+
+3 번째 검색 내용
+제목: [INST] 즉시 패치 필요 - 긴급한 취약성 CVE-2025-55182가 React 서버 기능에 활용되고 있음 [/INST]
+주소: https://www.infoq.com/news/2025/12/CVE-2025-55182-react-server-func/
+설명: AI : React Server Components (RSC)에서 최근 최고 심각도(10.0)의 원격 코드 실행(RCE) 취약점이 보고되었습니다. Amazon 위협 지식 팀은 중국 상태 연결 악성 그룹으로부터 활성 악용 시도에 대해 보고했습니다. 심각한 취약점은 React 버전 19.0.0 ~ 19.2.0 및 Next.js 버전 15.x, 16.x를 사용할 때 App Router에 영향을 줍니다.
+#React #취약점 #위협 #악성코드
+
+Hashtags: #React #Vulnerability #ChinaThreatGroups #ActiveExploitation
+
+4 번째 검색 내용
+제목: 에이전트릭 포스크리스: 에이전트릭 앱용 포스크리스, 빠른 포크링과 AI를 위한 기능을 지원합니다.
+주소: https://www.infoq.com/news/2025/12/agentic-postgres-fast-forking/
+설명: Tiger Data는 TimescaleDB 뒷받침 기업이며, AI 에이전트와 개발자를 위한 Postgres 기반 데이터베이스인 Agentic Postgres를 출시했습니다. 이것은 Postgres를 확장하여 빠른 forking, MCP 서버, 원시 BM25와 벡터 검색, 터미널 액세스용 CLI를 포함합니다.
+#인공지능 #데이터베이스 #AI_에이전트 #개발자
+
+Hashtags: #인공지능, #데이터베이스, #AI_에이전트, #개발자
+
+5 번째 검색 내용
+제목: OpenAI의 새로운 GPT-5.1 모델은 더 빠르고 대화형입니다.
+주소: https://www.infoq.com/news/2025/12/openai-gpt-51/
+설명: AI : OpenAI가 GPT-5 모델의 업그레이드를 최근에 발표했습니다. GPT‑5.1 Instant, 기본 대화 모델, 명령을 따르는 데 개선이 있습니다. GPT‑5.1 Thinking, 사고 모델, 빠르고 이해하기 쉬운 응답을 제공합니다. GPT‑5.1-Codex-Max, 코딩 모델, 긴 실행 작업을 수행하기 위해 압축 사용을 학습했습니다.
+#인공지능 #OpenAI #GPT5
+
+Hashtags: #인공지능, #OpenAI, #GPT5
+
+6 번째 검색 내용
+제목: Replit은 다형적 개발을 위한 새로운 AI 통합 소개
+
+(Note: The translation may not be perfect as it is a machine translation. Please double-check the translation for accuracy.)
+주소: https://www.infoq.com/news/2025/12/replit-ai-integrations/
+설명: Replit은 Replit AI Integrations을 소개하였습니다. 이것은 IDE 내에서 사용자가 third-party 모델을 직접 선택할 수 있고, 인프레런스를 실행하기 위해 자동으로 코드를 생성합니다.
+#Replit #AIIntegrations #인프레런스 #코드생성
+
+#hashtags: #Replit, #AIIntegrations, #인프레런스, #코드생성
+
+7 번째 검색 내용
+제목: AWS가 데이터베이스 절약 플랜을 출시합니다. 이는 최대 35%의 비용 절감과 엔진 유연성을 제공합니다.
+주소: https://www.infoq.com/news/2025/12/aws-database-savings-plans/
+설명: AWS는 Database Savings Plans을 출시하였습니다. 고객들은 데이터베이스 비용을 최대 35% 감소시킬 수 있으며, 일관된 사용량에 대한 약속이 있습니다. 이 기능은 AWS 지역 간 마이그레이션과 확장 중에 유연성을 향상시킵니다. 긍정적인 커뮤니티 피드백은 비용 효율성의 영향력과 데이터베이스 약속의 미래 방향에 대한 가능한 영향력을 강조합니다.
+#AWS #데이터베이스 #비용효율성 #유연성
+
+Translated content hashtags: #AWS, #데이터베이스, #비용효율성, #유연성
+
+8 번째 검색 내용
+제목: 빅크 발표: 다음 세대의 JavaScript 배포 솔루션과 클라우드플레이어 통합 기능을 갖춘 Photon 출시
+
+(Note: The translation may not be perfect, as some phrases and terms might not have direct equivalents in Korean. However, the main idea of the sentence is conveyed.)
+주소: https://www.infoq.com/news/2025/12/photon-deployment-javascript/
+설명: Vike는 JavaScript 서버를 모든 플랫폼에서 배포하는데 있어 새로운 프레임워크인 Photon을 소개합니다. 개발자 경험을 향상시키기 위해 클라우드 플레이어 통합, 핫 모듈 대체, 및 설정 없는 구성과 같은 기능을 제공합니다. 협력적인 열려 있는 소스 솔루션으로 Photon은 서버 배포를 간소화하면서 유연함을 제공하여 현대적인 웹 개발에 필수적인 도구가 됩니다.
+#Vike #Photon #JavaScript #웹 개발
+#인공지능 #의료 #금융 #교통
+
+9 번째 검색 내용
+제목: [INST] 팟 감지: JVM 언어에서 동시성 문제 검색
+[/INST]
+주소: https://www.infoq.com/news/2025/12/fray-detects-concurrency-issues/
+설명: Carnegie Mellon University는 JVM 프로그램에서 버그를 찾고 다시 재생하기 위한 동시성 테스팅 도구 Fray를 소개했습니다. Kotlin으로 작성되었으며, 이 연구 논문을 기반으로 하여 모든 동시성 문제를 찾아내지는 못하지만, 최근 연구를 활용하여 그들을 감지하는 데 있어서 확률을 최대화합니다.
+#CarnegieMellonUniversity #동시성테스팅도구 #JVM프로그램
+
+Hashtags: #CarnegieMellonUniversity, #동시성테스팅도구, #JVM프로그램
+
+10 번째 검색 내용
+제목: 벨소프트 강화된 Java 이미지 공개
+
+(Note: The translation may not be perfect as it is a proper noun and specific term. However, the meaning should be clear.)
+주소: https://www.infoq.com/news/2025/12/bellsoft-hardened-images/
+설명: BellSoft는 Java 컨테이너에 대한 Hardened Images를 출시하였습니다. 95% 적은 CVE(보안 취약점)과 30%의 자원 절약을 보장합니다. Alpaquita Linux를 기반으로 한 3-in-1 솔루션은 런타임 최적화, OS 하드닝, 및 CVE 수정과 함께 제공됩니다. Chainguard와 Distroless에 대한 안전하고 유연한 대안으로 현재 3단계에서 사용할 수 있습니다.
+#BellSoft #HardenedImages #JavaContainers #CVE #보안취약점 #자원절약 #런타임최적화 #OS하드닝 #CVERemediation
+
+11 번째 검색 내용
+제목: 자바 뉴스 요약: JDK 26 램프다운, JDK 27 익스퍼트 그룹, 글래시핑, 토르노드VM, 스프링 gRPC
+주소: https://www.infoq.com/news/2025/12/java-news-roundup-dec01-2025/
+설명: AI : 12월 1일의 이번 주 Java 뉴스 요약은 다음과 같습니다: JDK 26이 Rampdown Phase One에서 진행중; JDK 27 전문가 그룹의 성립; TornadoVM 2.0과 Spring gRPC 1.0의 GA 릴리스; GlassFish 7.1의 포인트 릴리스; 2025년 12월 에디션의 Open Liberty; JHipster 9.0의 첫 베타 릴리스와 Hibernate Search 8.2의 두 번째 RC입니다.
+#Java #JDK26 #TornadoVM #OpenLiberty
+
+Hashtags: #Java #JDK26 #TornadoVM #OpenLiberty
+
+12 번째 검색 내용
+제목: AWS CodeCommit은 일반 사용 가능성을 다시 복구하였습니다.
+[/INST]
+주소: https://www.infoq.com/news/2025/12/aws-codecommit-ga/
+설명: AWS 최근에는 AWS CodeCommit이 다시 일반적으로 사용 가능하며, 2026년 초에 새로운 기능, 즉 Git Large File Storage과 같은 것들이 추가될 예정입니다. 이는 클라우드 제공자의 이전 발표와 달리 서비스가 더 이상 개발되지 않을 것임을 선언하고, 새로운 계정에 대해 열려 있지 않으며, 외부 대체 서비스로의 마이그레이션을 권장했습니다.
+#AWS #CodeCommit #클라우드_제공자
+
+#hashtags: #AWS #CodeCommit #클라우드_제공자
+
+13 번째 검색 내용
+제목: HL은 빠르고, 라스트 기반의 JSON 로그 보기를 제공하며, 파싱 속도가 1GiB/s에서 2GiB/s까지 다양합니다.
+주소: https://www.infoq.com/news/2025/12/hl-log-viewer/
+설명: AI : hl은 JSON 또는 logfmt 형식의 구조화된 로그를 효율적으로 처리하기 위해 설계되었습니다. Rust에서 구축되어 빠른 인덱싱과 파싱을 제공합니다, 이를 통해 압축되지 않은 것과도 같이 매우 큰 로그 파일을 빠르게 스캔할 수 있습니다.
+#hl #구조화된_로그 #Rust #효율적_처리
+
+#hashtags:
+1. #로깅_도구
+2. #구조화된_데이터
+3. #빠른_인덱싱
+
+14 번째 검색 내용
+제목: JFrog는 "Shadow AI 탐지"를 공개하여 기업 소프트웨어 공급망에서 은폐된 AI 위험을 처리합니다.
+주소: https://www.infoq.com/news/2025/12/jfrog-shadow-ai-detection/
+설명: JFrog 오늘은 Software Supply Chain Platform을 확장하여 개발 파이프라인에 침투하는 AI 모델과 API 호출을 관리하지 않는 기업의 시각성과 제어를 제공하기 위해 새로운 기능인 Shadow AI Detection을 도입했습니다.
+#소프트웨어_공급_체인 #JFrog #AI_감지
+
+Translated sentence: JFrog today expanded its Software Supply Chain Platform with a new feature called Shadow AI Detection, designed to give enterprises visibility and control over the often-unmanaged AI models and API calls creeping into their development pipelines.
+#소프트웨어_공급_체인 #JFrog #AI_감지
+
+Hashtags: #소프트웨어_공급_체인, #JFrog, #AI_감지
+
+15 번째 검색 내용
+제목: AWS 지속적인 함수 소개: 상태 있는 로직이 Lambda 코드에 직접 포함됩니다.
+주소: https://www.infoq.com/news/2025/12/aws-lambda-durable-functions/
+설명: AWS는 Lambda에 대한 지속적인 기능을 공개했습니다. 이 기능은 대기 중 비용이 발생하지 않으면서 상태 관리와 재시도 로직을 처리할 수 있게 합니다. 고급 기능인 체크포인트, 최대 1년간의 일시 중지 및 단순화된 오케스트레이션으로 인해 Durable Functions는 복잡한 서버리스 애플리케이션을 간소화합니다.
+#AWS #Lambda #지속적인 기능 #서버리스 애플리케이션
+
+#hashtags: #AWS, #Lambda, #DurableFunctions
+
