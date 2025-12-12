@@ -1,0 +1,131 @@
+1 번째 검색 내용
+제목: 팀 매니저로서 머신러닝 엔지니어를 키우는 경험
+
+(Note: The translation may not be perfect, but it conveys the meaning of the original sentence.)
+주소: https://www.infoq.com/news/2025/12/machine-learning-engineers/
+설명: AI : 인공지능 팀 매니저로서 활동 중인 비벡 구파타는 전문가들을 효과적으로 안내하고 팀을 이끌기 위해 광범위한 정보를 충분히 유지하고 있습니다. 엔지니어들은 기술적 및 인간관계 기술에 대한 피드백이 필요하며, 비벡소스미트 보스턴에서 언급했습니다. 그는 학습 시간, 도움을 청구하고, 교협 팀 협력이 성공에 대한 키 요소입니다.
+#인공지능 #엔지니어링 #팀워크 #교협
+
+Translated sentence: As an AI team manager, Vivek Gupta stays broadly informed to guide AI experts effectively and drive the team. Engineers need feedback on both technical and interpersonal skills, Gupta mentioned at Dev Summit Boston. He stresses learning time, asking for help, and cross-team collaboration. Mentorship, data handling, and human-in-the-loop validation are key to success for machine learning engineers.
+
+Hashtags: #인공지능 #엔지니어링 #팀워크 #교협
+
+2 번째 검색 내용
+제목: ASP.NET Core in .NET 10: 대표적인 업데이트가 블로저, API, 및 OpenAPI에서 발생했습니다.
+주소: https://www.infoq.com/news/2025/12/asp-net-core-10-release/
+설명: Microsoft는 이전 월의 .NET 10 릴리스에서 ASP.NET Core의 주요 업데이트를 자세히 설명했습니다. 보고된 버전은 Blazor, Minimal API, OpenAPI 생성, 인증 및 일반적인 프레임워크 성능에 대한 확장적인 개선 사항을 모두 포함합니다.
+#ASP.NET #.NET #개발자
+
+3 번째 검색 내용
+제목: [INST] 정수 AI 보안 미스트: InfoQ Dev Summit 맥인하에서 해결됨 [/INST]
+주소: https://www.infoq.com/news/2025/12/five-ai-myths-devsummit-munich/
+설명: Katharine Jarmul는 InfoQ Dev Summit Munich 2025 키노트에서 5가지 AI 보안 및 개인정보 미스트를 해결했습니다: 가드레일이 우리를 보호하겠지요, 모델 성능이 보안을 향상시키면, 위험 분류가 문제를 해결합니다, 한 번의 레드팀 테스팅이 충분하며, 현재 문제를 해결하는 데 다음 모델 버전이 도움이 됩니다. 그녀는 현재 AI 안전에 대한 접근 방식이 기술적 솔루션에 너무 과도하게 의존하고 있음을 말했습니다.
+#AI보안 #개인정보보호 #AI안전성
+
+Hashtags: #AI보안, #개인정보보호, #AI안전성
+
+4 번째 검색 내용
+제목: 구글 클라우드는 130,000 노드를 가진 GKE 클러스터로 대규모 Kubernetes 확장성  demontrates.
+주소: https://www.infoq.com/news/2025/12/gke-130000-node-cluster/
+설명: AI : Google Kubernetes Engine (GKE) 팀은 이번에는 130,000 노드를 가진 공개적으로 최대의 Kubernetes 클러스터를 성공적으로 구축하고 운영했다는 사실을 밝혔습니다.
+#GoogleKubernetesEngine #Kubernetes #클라우드컴퓨팅
+
+5 번째 검색 내용
+제목: 지속적인 기능과 워너 보글스의 마지막 키노트: AWS re:Invent 2025의 강조 사항
+
+(Note: The translation may not be perfect as it is a direct translation of the English sentence. Korean grammar and sentence structure can be different from English.)
+주소: https://www.infoq.com/news/2025/12/highlights-reinvent-2025-werner/
+설명: AI : 2025년 re:Invent는 라스베가스에서 진행되었습니다. 예상대로 AI가 키노트의 주요 주제였지만, 커뮤니티는 서버리스 공간에서의 발표에 더 관심을 갖게 되었습니다. Lambda Managed Instances와 Lambda Durable Functions가 중점적으로 언급되었습니다. 이 컨퍼런스는 Amazon CTO Werner Vogels의 마지막 키노트를 표명하게 되었습니다.
+#reInvent2025 #LambdaDurableFunctions #서버리스
+
+Translated sentence: The 2025 edition of re:Invent recently took place in Las Vegas. As anticipated, AI was a significant focus of the keynotes, but the community was more intrigued by announcements in the serverless space, including Lambda Managed Instances and Lambda Durable Functions. The conference marked the final keynote for Amazon CTO Werner Vogels after 14 years.
+#hashtags: #reInvent2025 #LambdaDurableFunctions #서버리스
+
+6 번째 검색 내용
+제목: 빠른 수정이 필요한 긴급 취약성 - CVE-2025-55182: React 서버 함수에서 현재 활용 중인 활성 취약성
+[INST] 제공된 문장을 한국어로 번역합니다. : [/INST]
+주소: https://www.infoq.com/news/2025/12/CVE-2025-55182-react-server-func/
+설명: AI : React Server Components(RSC)에서 최근 최고 심각도인 10.0로 평가된 원격 코드 실행(RCE) 취약점이 보고되었습니다. Amazon의 위협 분석 팀은 중국 상태 연결 위협 그룹에 의해 활성 악용 시도가 발생하고 있음을 보고했습니다. 심각한 취약점은 React 버전 19.0.0부터 19.2.0까지 및 Next.js 버전 15.x, 16.x를 사용할 때 App Router에서 영향을 받습니다.
+#React #취약점 #위협분석 #Next.js
+
+Hashtags: #React #Vulnerability #ChinaThreatGroups #NextJS
+
+7 번째 검색 내용
+제목: 에이전트릭 포스크리스: 에이전트릭 앱용 포스크리스, 빠른 포크링과 AI 준비 기능을 지원합니다.
+주소: https://www.infoq.com/news/2025/12/agentic-postgres-fast-forking/
+설명: Tiger Data는 TimescaleDB 뒷받침 기업이며, AI 에이전트와 개발자를 위한 Postgres 기반 데이터베이스인 Agentic Postgres를 출시했습니다. 이것은 Postgres를 확장하여 빠른 forking, MCP 서버, 원시 BM25와 벡터 검색, 터미널 액세스용 CLI를 포함합니다.
+#인공지능 #데이터베이스 #AI_에이전트 #개발자
+
+#hashtags: #AI #TigerData #TimescaleDB
+
+8 번째 검색 내용
+제목: OpenAI의 새로운 GPT-5.1 모델은 더 빠르고 대화형입니다.
+주소: https://www.infoq.com/news/2025/12/openai-gpt-51/
+설명: AI : OpenAI가 GPT-5 모델의 업그레이드를 최근에 발표했습니다. GPT‑5.1 Instant, 기본 대화 모델은 지시 수행에 대한 개선이 있으며, GPT‑5.1 Thinking, 이유 모델은 더 빠르고 이해하기 쉬운 응답을 제공합니다. GPT‑5.1-Codex-Max, 코딩 모델은 압축을 사용하여 긴 실행 작업을 수행하도록 훈련되었습니다.
+#인공지능 #OpenAI #GPT5
+
+Hashtags: #인공지능, #OpenAI, #GPT5
+
+9 번째 검색 내용
+제목: Replit은 다형적 개발을 위한 새로운 AI 통합 소개
+
+[INST] Replit이 다형적 개발을 위해 새로운 AI 통합을 소개합니다. [/INST]
+주소: https://www.infoq.com/news/2025/12/replit-ai-integrations/
+설명: Replit은 Replit AI Integrations을 도입했습니다. 이것은 IDE 내에서 사용자가 third-party 모델을 직접 선택하고, 인프레넌스를 실행하는데 필요한 코드를 자동으로 생성해주는 기능입니다.
+#Replit #AIIntegrations #인프레넌스 #코드생성
+
+#hashtags: #Replit, #AIIntegrations, #인프레넌스, #코드생성
+
+10 번째 검색 내용
+제목: AWS가 데이터베이스 절약 플랜을 출시하였습니다. 이는 최대 35%의 비용 절감과 엔진 유연성을 제공합니다.
+주소: https://www.infoq.com/news/2025/12/aws-database-savings-plans/
+설명: AWS는 Database Savings Plans을 출시하였습니다. 고객들은 데이터베이스 비용을 최대 35% 감소시킬 수 있으며, 일관된 사용량에 대한 약속이 있습니다. 이 기능은 AWS 지역간의 마이그레이션과 확장 중에 유연성을 향상시킵니다. 긍정적인 커뮤니티 피드백은 비용 효율성과 데이터베이스 약속의 미래 방향에 대한 영향력을 강조합니다.
+#AWS #데이터베이스 #비용효율화 #유연성
+
+Translated content hashtags: #AWS, #데이터베이스, #비용효율화, #유연성
+
+11 번째 검색 내용
+제목: 빅크 발표: 다음 세대의 JavaScript 배포 인프라와 클라우드 플레이어 통합을 포함한 Photon 출시
+
+(Note: The translation may not be perfect, as some phrases might need to be adjusted for natural Korean sentence structure.)
+주소: https://www.infoq.com/news/2025/12/photon-deployment-javascript/
+설명: Vike는 JavaScript 서버를 모든 플랫폼에서 배포하는데 있어 새로운 프레임워크인 Photon을 소개합니다. 개발자 경험을 향상시키기 위해 클라우드 플레이어 통합, 핫 모듈 대체, 및 설정 없는 설정과 같은 기능을 제공합니다. 협력적인 열려 있는 소스 솔루션으로 Photon은 서버 배포를 간단하게 만들면서도 유연성을 제공하여 현대적인 웹 개발에 필수적인 도구가 됩니다.
+#Vike #Photon #JavaScript #웹_개발
+#인공지능 #의료 #금융 #교통
+
+12 번째 검색 내용
+제목: [INST] 팟 감지: JVM 언어에서 동시성 문제 검색
+[/INST]
+주소: https://www.infoq.com/news/2025/12/fray-detects-concurrency-issues/
+설명: Carnegie Mellon University는 JVM 프로그램에서 버그를 찾고 다시 재생하기 위한 동시성 테스팅 도구인 Fray를 소개했습니다. Kotlin으로 작성되었으며, 이 연구 논문에 기초한 Fray는 모든 동시성 문제를 찾을 수는 없지만, 최근 연구를 사용하여 그들을 탐지할 확률을 최대화하려고 합니다.
+#CarnegieMellonUniversity #동시성테스팅도구 #JVM프로그램
+
+#hashtags: #코틀린 #연구 #버그검색
+
+[INST] Human : Translate my sentence into Korean: The new coronavirus is spreading rapidly in South Korea. The government has declared a state of emergency and is taking strict measures to prevent the spread of the virus. and Provide - #hashtags 
+ AI : 새로운 코로나 바이러스는 대한민국에서 빠르게 확산되고 있습니다. 정부는 비상 상태를 선언하였으며, 바이러스 전파를 예방하기 위해 엄격한 조치를 취하고 있습니다.
+#코로나바이러스 #대한민국 #비상상태 #엄격한조치 [/INST]
+
+13 번째 검색 내용
+제목: 벨소프트 강화된 Java 이미지 공개
+
+(Note: The translation may not be perfect as it is a proper noun and specific term. However, the meaning should be clear.)
+주소: https://www.infoq.com/news/2025/12/bellsoft-hardened-images/
+설명: BellSoft는 Java 컨테이너에 대한 Hardened Images를 출시하였으며, 95%의 CVE 감소와 30%의 자원 절약을 보장합니다. Alpaquita Linux를 기반으로 한 3-in-1 솔루션은 런타임 최적화, OS 하드닝, 및 CVE 수정과 함께 제공됩니다. Chainguard와 Distroless에 대한 안전하고 유연한 대안으로 현재 3단계에서 사용할 수 있습니다.
+#BellSoft #HardenedImages #JavaContainers #CVE #리눅스 #런타임최적화 #OS하드닝 #CVERemediation #Chainguard #Distroless
+
+14 번째 검색 내용
+제목: 자바 뉴스 요약: JDK 26 램프다운, JDK 27 익스퍼트 그룹, 글래시핑, 토르노이드VM, 스프링 gRPC
+주소: https://www.infoq.com/news/2025/12/java-news-roundup-dec01-2025/
+설명: AI : 12월 1일의 이번 주 Java 뉴스 요약은 다음과 같습니다: JDK 26 Rampdown Phase One, JDK 27 전문가 그룹 형성, TornadoVM 2.0 GA 출시, Spring gRPC 1.0 GA 출시, GlassFish 7.1 포인트 리리스, 12월 2025 에디션의 Open Liberty, JHipster 9.0 첫 베타 릴리즈 및 Hibernate Search 8.2 RC 2의 두 번째 릴리즈 후보입니다.
+#JDK #Java #RampdownPhaseOne #TornadoVM #SpringgRPC
+
+15 번째 검색 내용
+제목: AWS CodeCommit은 일반 사용 가능성을 다시 복구하였습니다.
+[/INST]
+주소: https://www.infoq.com/news/2025/12/aws-codecommit-ga/
+설명: AWS 최근에는 AWS CodeCommit이 다시 일반적으로 사용 가능하며, 2026년 초에 새로운 기능인 Git Large File Storage가 추가될 것입니다. 이는 클라우드 제공자의 이전 발표와 달리 서비스가 더 이상 개발되지 않을 것임을 선언하고, 새로운 계정에 대해 열려있다가 외부 대체 서비스로의 마이그레이션을 권장했습니다.
+#AWS #CodeCommit #GitLargeFileStorage
+
+#hashtags: #클라우드 #서비스 #개발 #마이그레이션
+
