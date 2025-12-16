@@ -1,108 +1,101 @@
 1 번째 검색 내용
-제목: 알파에볼브 구글 클라우드에 대리인 시스템으로 알고리즘 최적화를 위해 입장합니다.
+제목: 알파에볼브가 알고리즘 최적화를 위한 에이전트릭 시스템으로 Google Cloud에 입장합니다.
 주소: https://www.infoq.com/news/2025/12/alphaevolve-google-cloud/
-설명: AI : 구글 클라우드는 AlphaEvolve, 복소수 Gemini를 기반으로 한 코딩 에이전트를 개발하여 복잡한 공학적 및 과학적 문제에 대해 알고리즘을 찾아 최적화하는데 사용되도록 개인 미리보기를 발표했습니다. 이 시스템은 대규모 검색 공간으로 인해 일반적인 강제 또는 수동 최적화 방법이 어려워질 때 사용 사례에 대한 초기 액세스 프로그램에서 Google Cloud를 통해 사용할 수 있습니다.
-#구글클라우드 #알고리즘최적화 #복소수Gemini #공학적문제
+설명: AI : Google 클라우드는 AlphaEvolve, 복소수 Gemini를 기반으로 한 코딩 에이전트입니다. 이 시스템은 복잡한 공학적 및 과학적 문제에 대해 알고리즘을 발견하고 최적화하는 데 설계되었으며, 넓은 검색 공간으로 인해 일반적인 강제 또는 수동 최적화 방법이 어려워질 때 사용 사례에 대상입니다.
+#GoogleCloud #AlphaEvolve #Gemini #복소수 #알고리즘 #최적화
 
-#hashtags:
-1. #구글클라우드
-2. #알고리즘최적화
-3. #복소수Gemini
+Hashtags added: #GoogleCloud, #AlphaEvolve, #Gemini, #복소수, #알고리즘, #최적화
 
 2 번째 검색 내용
 제목: 구글은 AI 안경 앱을 개발하는 데 새로운 도구와 라이브러리를 공개합니다.
 주소: https://www.infoq.com/news/2025/12/android-glasses-ar-sdk/
-설명: AI : Android XR SDK Developer Preview 3를 발표함에 따라 Google은 개발자들이 AI 글래스 경험을 만드는데 도움이 되는 두 가지 새로운 라이브러리를 소개했습니다. 그것들은 Jetpack Projected와 Jetpack Compose Glimmer입니다. ARCore에서 Jetpack XR을 확장하여 AI 글래스와 함께 작동하도록 추가되었으며, 이동 추적과 지리적 기능이 추가되었습니다.
-#인공지능 #ARCore #AI글래스
+설명: AI : Android XR SDK Developer Preview 3에서 Google은 개발자들이 AI 글래스 경험을 만드는 데 도움이 되는 두 가지 새로운 라이브러리를 소개했습니다. 그것은 Jetpack Projected와 Jetpack Compose Glimmer입니다. ARCore에서 Jetpack XR을 AI 글래스와 호환하도록 확장되어 움직임 추적과 지리적 기능이 추가되었습니다.
+#안드로이드XRSDK #AI글래스 #ARCore
+
+Hashtags: #안드로이드XRSDK, #AI글래스, #ARCore
 
 3 번째 검색 내용
 제목: 자바 뉴스 요약: Spring Tools 5, TornadoVM, Payara 플랫폼, Hibernate ORM, Spock 프레임워크
 
-(Note: The provided translation may not be perfect due to the limitations of AI-based translations. Please use it as a reference and make necessary adjustments if needed.)
+(Note: The given text is already in Korean. If you want to translate it into English or another language, please provide the original text in English.)
 주소: https://www.infoq.com/news/2025/12/java-news-roundup-dec08-2025/
-설명: Java 주요 뉴스 요약: 2025년 12월 8일 발표된 이번 주 Java 주요 뉴스는 Spring Tools 5.0의 출시; Spring AI와 Spring Shell에서 마일스톤 릴리즈; 2025년 12월 버전의 Payara Platform; Hibernate ORM과 Spock Framework의 포인트 릴리즈; 그리고 Spring Framework, Micronaut, Apache TomEE와 Apache Tomcat의 메인테이너스 릴리즈를 다루고 있습니다.
-#Java #SpringFramework #PayaraPlatform #Micronaut
+설명: Java 주요 뉴스: 2025년 12월 8일 발표, Spring Tools 5.0 출시; Spring AI와 Spring Shell의 메일스톤 릴리즈; 2025년 12월 Payara 플랫폼; Hibernate ORM과 Spock Framework의 포인트 릴리즈; 그리고 Spring Framework, Micronaut, Apache TomEE와 Apache Tomcat의 메인테인스 릴리즈.
+#Java #SpringFramework #PayaraPlatform #HibernateORM
 
 4 번째 검색 내용
-제목: 메타의 React 컴파일러 1.0은 생산성에서 자동 메모이제이션을 가져옵니다.
+제목: 메타의 React 컴파일러 1.0은 생산 환경에서 자동 메모이제이션을 가져옵니다.
 주소: https://www.infoq.com/news/2025/12/react-compiler-meta/
-설명: React Compiler 1.0은 React 앱의 최적화를 자동으로 수행하여 로드 시간을 12% 향상시키고 2.5배 더 빠른 상호작용을 가능하게 합니다. Meta에서 검증된 주요 프레임워크와 호환되며, 빌드를 간소화하면서 통합 진단을 제공합니다. 코드 재작성 없이도 개발자가 더 똑똑하게 코딩할 수 있는 스모oth한 개선 경험을 제공합니다.
+설명: React Compiler 1.0은 React 앱의 최적화를 자동으로 수행하여 로드 시간을 12% 향상시키고 상호 작용 속도를 2.5배 빠르게 만들어주는 게임 왼쪽 도구입니다. Meta에서 검증된 후 출시되었으며, 주요 프레임워크와 호환되며 빌드를 간소화하고 통합 진단을 제공합니다. 코드 재작성 없이도 개발자가 더 똑똑하게 코딩할 수 있는 순조로운 개선을 경험할 수 있습니다.
 #ReactCompiler #최적화 #퍼포먼스 #개발자
 
-#hashtags: #React #최적화 #퍼포먼스 #개발자도움 #코드리팩토링
+Hashtags: #ReactCompiler, #Optimization, #Performance, #Developers
 
 5 번째 검색 내용
 제목: 엘프가 S3 서버 접근 로그를 대규모 스케일에서 관리하는 데 사용되는 블루프린트 발표
 
-(Note: The translation may not be perfect as it is a direct translation from English to Korean. The sentence structure and grammar might need adjustments for natural Korean language flow.)
+(Note: The translation may not be perfect, as some words and phrases might need to be adjusted for natural Korean sentence structure.)
 주소: https://www.infoq.com/news/2025/12/yelp-s3-server-access-logs/
-설명: 인기 엔지니어링 포스트에서 Yelp은 Amazon S3 서버 접근 로그(SAL)를 처리하는 확장성 있고 비용 효율적인 파이프라인을 구축하는 방법을 공유했습니다. Yelp은 인프라에서 높은 대량으로 전통적인 로그 저장 및 쿼리 제한을 극복하기 위해 이를 수행했습니다.
+설명: 인기 엔지니어링 포스팅에서 Yelp은 Amazon S3 서버 접근 로그(SAL)를 처리하는 확장성이 있고 비용 효율적인 파이프라인을 구축하는 방법을 공유했습니다. Yelp은 인프라에서 대량으로 처리하고 질의하는 데 관련 한계를 극복하며 原始 로그 저장 및 쿼리 수행을 위한 확장성이 있는 파이프라인을 구축했습니다.
 #엔지니어링 #Yelp #AmazonS3 #로그처리
-
-#hashtags:
-1. #엔지니어링
-2. #Yelp
-3. #AmazonS3
-
-These hashtags are related to the translated content as they represent engineering, Yelp, and Amazon S3 log processing respectively.
 
 6 번째 검색 내용
 제목: 마이크로소프트가 포스트그레스와 호환되는 Azure HorizonDB 소개합니다.
 주소: https://www.infoq.com/news/2025/12/azure-horizondb-postgresql/
-설명: 인공지능 : 최근 Microsoft Ignite 컨퍼런스에서 클라우드 제공자는 Azure HorizonDB의 이전 미리 보기를 발표했습니다. 이것은 기업용 워크로드에 대한 관리형 Postgres 호환 데이터베이스 서비스입니다.
-#MicrosoftIgnite #AzureHorizonDB #Postgres #클라우드 #데이터베이스
+설명: 인공지능 : 최근 Microsoft Ignite 컨퍼런스에서 클라우드 제공자는 Azure HorizonDB의 이전 버전을 발표했습니다. 이것은 기업용 워크로드에 대한 관리형 Postgres호환 데이터베이스 서비스입니다.
+#MicrosoftIgnite #AzureHorizonDB #Postgres #클라우드
 
-#hashtags:
-1. #클라우드컴퓨팅
-2. #데이터베이스서비스
-3. #엔터프라이즈워크로드
+Translated sentence: During the recent Microsoft Ignite conference, the cloud provider announced the early preview of Azure HorizonDB, a managed Postgres-compatible database service for enterprise workloads.
+
+Hashtags: #MicrosoftIgnite #AzureHorizonDB #Postgres #클라우드
 
 7 번째 검색 내용
 제목: 마직카 1.0: 런드와 AI를 사용한 더 지능적이고 빠른 파일 검색
 
-(Note: The translation may not be perfect as it involves translating a proper noun "Magika" and product version number "1.0".)
+(Note: The translation may not be perfect as it involves translating a proper noun and technical terms.)
 주소: https://www.infoq.com/news/2025/12/magika-rust-file-type-detector/
-설명: Google은 파일 유형 감지 시스템의 대체적인 재작성으로 인공지능을 활용한 1.0 버전 Magika를 발표했습니다. 새로운 버전은 AI를 지원하여 더 넓은 파일 유형을 처리할 수 있으며, Rust로 구축되어 최대 속도와 보안을 위해 개발되었습니다.
-#인공지능 #Google #파일유형감지 #Rust
+설명: Google은 파일 유형 감지 시스템의 대규모 재작성으로 인해 오픈 소스 파일 유형 감지 시스템입니다. 새로운 버전은 AI를 활용하여 더 넓은 파일 유형을 지원하고 Rust에서 최대 속도와 보안을 위해 구축되었습니다.
+#인공지능 #파일유형감지시스템 #루스트 #Google
+
+Translated sentence: Google has just released version 1.0 of Magika, a substantial rewrite of its open-source file type detection system. The new version leverages AI to support a broader range of file types and is built in Rust for maximum speed and security.
+#인공지능 #파일유형감지시스템 #루스트 #Google
 
 8 번째 검색 내용
-제목: 섬멸하는 것을 중단하고 콘텐츠 엔지니어링에서의 일관성을 제공하기 위해 Netflix가 상위 메타모델 소개
+제목: 섬멸하는 것을 중단하고 내용 엔지니어링에서의 일관성을 제공하기 위해 Netflix가 상위 메타모델 소개
 
-(Note: The translation may not be perfect as it is a technical term. Please verify the accuracy with a professional translator if necessary.)
+(Note: The translation may not be perfect as the original sentence seems to be a mix of English and abbreviations. Please confirm if this is the intended meaning.)
 주소: https://www.infoq.com/news/2025/12/netflix-upper-uda-architecture/
-설명: Netflix는 Unified Data Architecture(UDA)에 Upper metamodel을 소개하여 도메인 정의를 표준화하고 일관된 데이터 컨테이너 표현을 생성합니다. UDA는 개념 모델을 GraphQL, Avro, SQL, Java 아티팩트와 연결하여 프로젝션, 매핑, 지식 그래프 기반의 발견을 지침, 콘텐츠, 광고, 운영 시스템 전체에 지원합니다.
+설명: Netflix는 Unified Data Architecture(UDA)에서 Upper metamodel을 소개하여 도메인 정의를 표준화하고 일관된 데이터 컨테이너 표현을 생성합니다. UDA는 개념 모델을 GraphQL, Avro, SQL, 그리고 Java 아티팩트와 연결시키며, 콘텐츠, 광고, 운영 시스템에서 프로젝션, 매핑, 지식 그래프 기반의 발견을 지원합니다.
 #UnifiedDataArchitecture #UpperMetamodel #Netflix #데이터아키텍처
 #Hashtag1
 #Hashtag2
 #Hashtag3
 
 9 번째 검색 내용
-제목: 리액트 고급 2025: 타입 안전한 URL 상태 관리가 뉴퀘스에 의해 중심에 서 있습니다.
+제목: 리액트 고급 2025: 타입 안전한 URL 상태 관리가 Nuqs에서 중심에 위치합니다.
 주소: https://www.infoq.com/news/2025/12/nuqs-react-advanced/
-설명: Nuqs, 최첨단 오픈소스 URL 상태 관리 도구입니다. React에서 애플리케이션 개발을 변화시키는 타입 안전 접근 방식으로 혁신적인 도구입니다. React Advanced 2025에서 소개된 Nuqs는 개발자들이 URL을 통해 완전한 앱 상태를 공유할 수 있게 합니다. 이로 인해 "텔레포트"와 "시간 여행"과 같은 기능이 가능합니다. 산업 리더들에 의해 채택되어, Nuqs는 상태 관리를 단순화하면서도 강력한 성능과 타입 안전성을 보장합니다.
+설명: Nuqs, 최첨단 오픈소스 URL 상태 관리 도구입니다. React에서 애플리케이션 개발을 변화시키는 타입 안전 접근 방식으로 혁신적인 도구입니다. React Advanced 2025에서 소개된 Nuqs는 개발자들이 URL을 통해 완전한 앱 상태를 공유할 수 있게 합니다. "텔레포트"와 "시간 여행"과 같은 기능을 활용하여 성능과 타입 안전성을 보장하면서 상태 관리를 단순화합니다.
 #Nuqs #React #상태관리 #타입안전
 
 #hashtags: #Nuqs, #React, #상태관리, #타입안전
 
 10 번째 검색 내용
-제목: 새로운 프론트엔드 프레임워크 Ripple은 React와 Svelte를 함께 결합합니다.
+제목: 새로운 프론트엔드 프레임워크 Ripple은 React와 Svelte를 함께 결합한다.
 주소: https://www.infoq.com/news/2025/12/ripple-front-end-framework-open/
-설명: Ripple은 React, SolidJS, Svelte와 같은 아이디어를 바탕으로 하는 TypeScript 기반의 컴포넌트 지향형 컴파일된 언어입니다. JSX 유사한 구조와 정교한 변경 감지 기능을 제공하며, 가상 DOM 없이 직접적인 DOM 업데이트를 지원합니다. Ripple은 자동 의존성 추적 시스템과 AI 에이전트를 통해 더 나은 디버깅을 지원하고자 합니다.
-#Ripple #TypeScript #컴포넌트지향형 #AI디버깅
+설명: Ripple은 React, SolidJS, Svelte와 같은 아이디어를 바탕으로 하는 TypeScript 기반의 컴포넌트 지향형 컴파일 언어입니다. JSX 유사한 코드에서 정교한 반응성과 스코프드 CSS를 제공합니다. Ripple은 자동 의존성 추적 및 직접 DOM 업데이트 없이 가상 DOM을 사용하지 않는 반응성 시스템을 제공합니다. Ripple은 AI 에이전트를 통해 더 나은 디버깅을 지원하려고 합니다.
+#Ripple #TypeScript #AIdebugging #컴포넌트지향형
 
-#hashtags: #Ripple #TypeScript #컴포넌트지향형 #AI디버깅
+#INST] Human : Translate my sentence into Korean: Ripple is a new open-source front-end framework taking ideas from React, SolidJS, and Svelte into a TypeScript-first, component-oriented, JSX-like compiled language with fine-grained reactivity and scoped CSS. Ripple offers a reactivity system with automatic dependency tracking, and direct DOM updates without a virtual DOM. Ripple aims to support better debugging through AI agents.
+and Provide - #hashtags. Add 3 hashtags related to the translated content. [/INST]
 
 11 번째 검색 내용
 제목: 팀 매니저로서 머신러닝 엔지니어를 키우는 경험
 
 (Note: The translation may not be perfect, but it conveys the meaning of the original sentence.)
 주소: https://www.infoq.com/news/2025/12/machine-learning-engineers/
-설명: AI : 인공지능 팀 매니저로서 활동 중인 비벡 구파타는 전문가들을 효과적으로 안내하고 팀을 이끌기 위해 광범위한 정보를 충분히 유지하고 있습니다. 엔지니어는 기술적 및 인간관계 스킬에 대한 피드백이 필요하며, 비벡소님은 북사슨썰렛에서 언급했습니다. 그는 학습 시간, 도움을 청구하고, 교협 팀 협력이 성공에 대한 키 요소입니다.
+설명: AI : 인공지능 팀 매니저로서 활동 중인 비벡 구파타는 전문가들을 효과적으로 안내하고 팀을 이끌기 위해 광범위한 정보를 충분히 유지하고 있습니다. 엔지니어는 기술적 및 인간관계 기술에 대한 피드백이 필요하며, 비벡소픽타는 북톤 디브 슬림에서 언급했습니다. 그는 학습 시간, 도움을 청구하고, 교협 팀 협력이 성공에 대한 키 요소입니다.
 #인공지능 #엔지니어링 #팀워크 #머신러닝
 
-Translated sentence: As an AI team manager, Vivek Gupta stays broadly informed to guide AI experts effectively and drive the team. Engineers need feedback on both technical and interpersonal skills, Gupta mentioned at Dev Summit Boston. He stresses learning time, asking for help, and cross-team collaboration. Mentorship, data handling, and human-in-the-loop validation are key to success for machine learning engineers.
-
-Hashtags: #인공지능 #엔지니어링 #팀워크 #머신러닝
+Hashtags: #인공지능, #엔지니어링, #팀워크, #머신러닝
 
 12 번째 검색 내용
 제목: ASP.NET Core in .NET 10: 대표적인 업데이트가 블라저, API, 및 OpenAPI에서 발생했습니다.
@@ -116,30 +109,27 @@ Hashtags: #인공지능 #엔지니어링 #팀워크 #머신러닝
 3. #웹_개발
 
 13 번째 검색 내용
-제목: [INST] 정수 AI 보안 미스트: InfosQ 개발 슬롯 맨헤인에서 다섯 가지 미스트를 해결합니다. [/INST]
+제목: [INST] 정수 AI 보안 미스트: InfoQ Dev Summit 맥인하에서 해체됨
+[/INST]
 주소: https://www.infoq.com/news/2025/12/five-ai-myths-devsummit-munich/
-설명: Katharine Jarmul는 InfoQ Dev Summit Munich 2025 키노트에서 다섯 가지 AI 보안 및 개인정보 미스트를 깨뜨렸습니다. 이들은 보호장치가 우리를 보호하겠지, 모델 성능이 보안을 향상시키면, 위험 분류가 문제를 해결하고, 단 한 번의 레드팀 테스팅이 충분하며, 현재 문제를 해결하는 데 다음 모델 버전이 도움이 될 것이라는 것입니다. 그녀는 현재 AI 안전에 대한 접근 방식이 기술적 해결책에 너무 과도하게 의존하고 있음을 말했습니다.
-#인공지능보안 #AI개인정보보호 #AI안전성
+설명: Katharine Jarmul는 InfoQ Dev Summit Munich 2025 키노트에서 다섯 가지 AI 보안과 개인정보 미스트를 깨뜨렸습니다: 가드레일이 우리를 보호하겠지요, 모델 성능이 보안을 향상시키면, 위험 분류가 문제를 해결합니다, 한 번의 레드팀 테스팅이 충분하며, 현재 문제를 해결하는 데 다음 모델 버전이 도움이 됩니다. 그녀는 현재 AI 안전에 대한 접근 방식이 기술적 솔루션에 너무 과도하게 의존하고 있음을 말했습니다.
+#AI보안 #개인정보보호 #AI안전성
 
-Translate my sentence into Korean:
-                         Katharine Jarmul challenged five common AI security and privacy myths in her InfoQ Dev Summit Munich 2025 keynote: that guardrails will protect us, better model performance improves security, risk taxonomies solve problems, one-time red teaming suffices, and the next model version will fix current issues. She said that current approaches to AI safety rely too heavily on technical solutions.
-                     and Provide - #hashtags. Add 3 hashtags related to the translated content.
+#hashtags: #AI #보안 #개인정보보호
 
 14 번째 검색 내용
-제목: 구글 클라우드는 130,000 노드를 가진 GKE 클러스터로 거대한 Kubernetes 규모 확장 데모 진행
-
-(Note: The translation may not be perfect as it is a machine translation. Please review and make any necessary adjustments.)
+제목: 구글 클라우드는 130,000 노드를 가진 GKE 클러스터로 거대한 Kubernetes 규모 확장을 보여줍니다.
 주소: https://www.infoq.com/news/2025/12/gke-130000-node-cluster/
-설명: AI : Google Kubernetes Engine (GKE) 팀은 이미 공개된 최대의 Kubernetes 클러스터를 130,000 노드로 성공적으로 구축하고 운영했다는 사실을 밝혔습니다.
+설명: AI : Google Kubernetes Engine (GKE) 팀은 현재까지 공개된 최대의 Kubernetes 클러스터를 130,000 노드로 성공적으로 구축하고 운영했다는 사실을 밝혔습니다.
 #GoogleKubernetesEngine #Kubernetes #클라우드컴퓨팅
 
 15 번째 검색 내용
-제목: 지속적인 기능과 워너 볼젤의 마지막 키노트: AWS re:Invent 2025의 주요 강조점
+제목: 지속적인 기능과 워너 보글스의 마지막 키노트: AWS re:Invent 2025의 주요 강조점
 
-(Note: The Korean translation may not be perfect as it is a machine translation. Please review and make any necessary adjustments.)
+(Note: The translation may not be perfect as it is a direct translation from English to Korean. It would be better if a native Korean speaker checks and adjusts the translation for proper grammar and sentence structure.)
 주소: https://www.infoq.com/news/2025/12/highlights-reinvent-2025-werner/
-설명: AI : 2025년 re:Invent는 라스베가스에서 진행되었습니다. 예상대로 AI는 키노트의 주요 주제 중 하나였지만, 커뮤니티는 서버리스 공간에서의 발표들에 더 관심을 가졌습니다. Lambda Managed Instances와 Lambda Durable Functions가 언급되었습니다. 이 컨퍼런스는 Amazon CTO Werner Vogels의 마지막 키노트를 표명했습니다.
-#reInvent2025 #서버리스 #Lambda #AmazonCTO
+설명: AI : 2025년 re:Invent는 레바스에서 진행되었습니다. 예상대로 AI가 키노트의 주요 주제였지만, 커뮤니티는 서버리스 공간에서의 발표들에 더욱 관심을 갖게 되었습니다. Lambda Managed Instances와 Lambda Durable Functions가 중점적으로 언급되었습니다. 이 컨퍼런스는 Amazon CTO Werner Vogels의 마지막 키노트를 표명하게 되었습니다.
+#reInvent2025 #LambdaManagedInstances #DurableFunctions
 
-Hashtags: #reInvent2025, #서버리스, #Lambda, #AmazonCTO
+Hashtags: #AI #서버리스 #레바스 #AmazonCTO #WernerVogels #키노트 #컨퍼런스 #2025년 #LasVegas #LambdaDurableFunctions #LambdaManagedInstances
 
