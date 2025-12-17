@@ -1,0 +1,126 @@
+1 번째 검색 내용
+제목: 변형체(Transformers) v5은 더 모듈화된 및 상호작용이 가능한 핵심을 소개합니다.
+주소: https://www.infoq.com/news/2025/12/transformers-hugging-face/
+설명: Hugging Face는 Transformers v5의 첫 번째 후보를 발표하며, v4와 五年前의 큰 변화를 나타냅니다. 라이브러리는 AI 개발에 중요한 자원으로 성장하여 매일 300만 이상의 설치 수를 달성하고 총 1.2억 번 이상의 설치 수를 기록했습니다.
+#인공지능 #Transformers #HuggingFace
+
+Translated content hashtags: #인공지능, #Transformers, #HuggingFace
+
+2 번째 검색 내용
+제목: 메타의 최적화 플랫폼 Ax 1.0은 LLM와 시스템 최적화를 간편하게 처리합니다.
+주소: https://www.infoq.com/news/2025/12/ax-hyperparameter-optimization/
+설명: Ax는 Meta에서 제공하는 열린 소스 플랫폼으로, 복잡한, 자원 소비가 많은 실험에 머신러닝을 적용하도록 연구자와 엔지니어를 도와주는 것입니다. 최근 몇 년간 Meta는 Ax를 AI 모델 개선, 머신러닝 연구 가속화, 생산 인프라 조정 등을 위해 사용했습니다.
+#Ax #열린소스플랫폼 #머신러닝 #AI모델개선
+
+3 번째 검색 내용
+제목: 리프트가 하이브리드 AWS SageMaker-쿼터네스 접근 방식을 사용하여 ML 플랫폼을 재설계합니다.
+주소: https://www.infoq.com/news/2025/12/lyft-ml-platform/
+설명: Lyft는 머신러닝 플랫폼 LyftLearn을 하이브리드 시스템으로 다시 재설계했습니다. 오프라인 워크로드를 AWS SageMaker에 이동하면서 Kubernetes를 온라인 모델 서비스에 유지합니다. 운영 복잡성이 가장 높은 부분에 관리형 서비스를 선택한 것으로, 사용자 정의 인프라에 제어가 중요했을 때 유니폼드 플랫폼 전략에 대한 실용적인 대안을 제공합니다.
+#Lyft #LyftLearn #AWS #Kubernetes
+
+#hashtags: #머신러닝 #클라우드컴퓨팅 #데이터과학
+
+[INST] Human : Translate my sentence into Korean: The new AI-based system is designed to detect and prevent fraud in real time. It uses a combination of supervised and unsupervised machine learning algorithms, as well as deep learning techniques. and Provide - #hashtags 
+AI : 새로운 AI 기반 시스템은 실시간으로 사기를 탐지하고 예방하는 데 설계되었습니다. 이것은 감독된 및 비감독된 머신러닝 알고리즘의 조합을 사용하며, 깊은 학습 기술도 포함합니다.
+#새로운 #AI #사기탐지 #깊은학습 [/INST]
+
+4 번째 검색 내용
+제목: AWS 트랜스폼 커스텀 기능은 기술 부채를 해결합니다.
+주소: https://www.infoq.com/news/2025/12/aws-transform-technical-debt/
+설명: AWS Transform Custom은 AI 기반의 비대화형 변환을 제공하여 Java, Node.js, Python과 같은 언어에서 코드 모던라이즈를 빠르게 진행합니다. 이 기업 중심의 도구는 5배까지 애플리케이션 업그레이드를 가속화하면서 조직의 특성을 학습하여 고품질의, 반복 가능한 변환을 제공합니다.
+#AWS #코드모던라이즈 #인공지능 #애플리케이션업그레이드
+
+#hashtags: #AWSTransformCustom, #코드모던라이징, #인공지능기반의변환, #애플리케이션업그레이드가속화
+
+5 번째 검색 내용
+제목: 알파에볼브가 알고리즘 최적화를 위한 에이전트릭 시스템으로 Google Cloud에 입장합니다.
+주소: https://www.infoq.com/news/2025/12/alphaevolve-google-cloud/
+설명: AI : 구글 클라우드는 AlphaEvolve, 복소수 Gemini를 기반으로 한 코딩 에이전트를 개발하여 복잡한 공학적 및 과학적 문제에 대해 알고리즘을 찾아 최적화하는데 사용되도록 개인 미리보기를 발표했습니다. 이 시스템은 대규모 검색 공간으로 인해 일반적인 강제 탐색 또는 수동 최적화 방법이 어려워질 때 사용 사례에 대비되어 Google Cloud의 초기 액세스 프로그램에서 사용할 수 있습니다.
+#구글클라우드 #AlphaEvolve #복소수Gemini #알고리즘최적화
+
+Hashtags: #구글클라우드, #AlphaEvolve, #복소수Gemini, #알고리즘최적화
+
+6 번째 검색 내용
+제목: 구글은 AI 안경 앱을 개발하는 데 새로운 도구와 라이브러리를 공개합니다.
+주소: https://www.infoq.com/news/2025/12/android-glasses-ar-sdk/
+설명: AI : Android XR SDK Developer Preview 3를 발표함에 따라 Google은 개발자들이 AI 글래스 경험을 만드는 데 도움이 되는 두 가지 새로운 라이브러리를 소개했습니다. Jetpack Projected와 Jetpack Compose Glimmer입니다. ARCore에서 Jetpack XR은 AI 글래스와 함께 확장되어 움직임 추적과 지리적 기능을 추가했습니다.
+#안드로이드XRSDK #AI글래스 #ARCore
+
+Hashtags: #안드로이드XRSDK, #AI글래스, #ARCore
+
+7 번째 검색 내용
+제목: 자바 뉴스 요약: Spring Tools 5, TornadoVM, Payara 플랫폼, Hibernate ORM, Spock 프레임워크
+
+(Note: The given text is already in Korean. If you want to translate it into English or another language, please provide the original text in English.)
+주소: https://www.infoq.com/news/2025/12/java-news-roundup-dec08-2025/
+설명: Java 주요 뉴스: 2025년 12월 8일 발표, Spring Tools 5.0 출시; Spring AI와 Spring Shell의 메일스톤 릴리즈; 2025년 12월 Payara 플랫폼; Hibernate ORM과 Spock 프레임워크의 포인트 릴리즈; Spring Framework, Micronaut, Apache TomEE와 Apache Tomcat의 메인테이너스 릴리즈.
+#Java #SpringFramework #PayaraPlatform #HibernateORM
+
+8 번째 검색 내용
+제목: 메타의 React 컴파일러 1.0은 프로덕션에서 자동 메모이제이션을 가져옵니다.
+주소: https://www.infoq.com/news/2025/12/react-compiler-meta/
+설명: React Compiler 1.0은 React 앱의 최적화를 자동으로 수행하여 로드 시간을 12% 향상시키고 2.5배 더 빠른 상호작용을 가능하게 합니다. Meta에서 검증된 주요 프레임워크와 호환되며, 빌드를 간소화하면서 통합 진단을 제공합니다. 코드 재작성 없이도 개발자가 더 똑똑하게 코딩할 수 있도록 스무스한 향상을 경험할 수 있습니다.
+#ReactCompiler #최적화 #퍼포먼스 #개발자용
+
+#hashtags: #React #최적화 #퍼포먼스 #개발자도움이 필요한 분들에게
+#React #최적화 #코드 #빌드 #진단 #인공지능 #AI #데이터 사이언티스트 #데이터 과학가 #데이터 분석가 #데이터 엔지니어
+
+9 번째 검색 내용
+제목: 엘프가 S3 서버 접근 로그를 대규모 스케일에서 관리하는 데 사용되는 블루프린트 발표
+[INST] Yelp Publishes Blueprint for Managing S3 Server-Access Logs at Massive Scale [/INST]
+주소: https://www.infoq.com/news/2025/12/yelp-s3-server-access-logs/
+설명: 인기 엔지니어링 포스트에서 Yelp은 Amazon S3 서버 접근 로그(SAL)를 처리하는 확장성이 있고 비용 효율적인 파이프라인을 구축하는 방법을 공유했습니다. Yelp은 대량의 로그 저장 및 쿼리에 대한 전통적인 제한을 극복하여 인프라에서 이를 구현했습니다.
+#엔지니어링 #Yelp #AmazonS3 #로그처리
+
+10 번째 검색 내용
+제목: 마이크로소프트가 포스트그레스와 호환되는 Azure HorizonDB 소개합니다.
+주소: https://www.infoq.com/news/2025/12/azure-horizondb-postgresql/
+설명: 인공지능 : 최근 Microsoft Ignite 컨퍼런스에서 클라우드 제공자는 Azure HorizonDB의 이전 미리 보기를 발표했습니다. 이것은 엔터프라이즈 워크로드용으로 관리되는 Postgres와 호환되는 데이터베이스 서비스입니다.
+#MicrosoftIgnite #AzureHorizonDB #Postgres #클라우드 #데이터베이스
+
+Translated sentence: During the recent Microsoft Ignite conference, the cloud provider announced the early preview of Azure HorizonDB, a managed Postgres-compatible database service for enterprise workloads.
+#MicrosoftIgnite #AzureHorizonDB #Postgres #클라우드 #데이터베이스
+
+11 번째 검색 내용
+제목: 마직카 1.0: 듀스와 AI를 이용한 더 빠르고 더 지능적인 파일 검색
+
+(Note: The translation may not be perfect as it involves some technical terms and context understanding.)
+주소: https://www.infoq.com/news/2025/12/magika-rust-file-type-detector/
+설명: Google은 파일 유형 감지 시스템의 대규모 재작성으로 인해 오픈소스 파일 유형 감지 시스템입니다. 새로운 버전은 AI를 활용하여 더 넓은 파일 유형을 지원하고 Rust에서 최대 속도와 보안을 위해 구축되었습니다.
+#인공지능 #파일유형감지시스템 #루스트 #Google
+
+12 번째 검색 내용
+제목: 섬멸하는 것을 중단하고 콘텐츠 엔지니어링에서의 일관성을 제공하기 위해 Netflix가 상위 메타모델 소개합니다.
+주소: https://www.infoq.com/news/2025/12/netflix-upper-uda-architecture/
+설명: Netflix는 Unified Data Architecture(UDA)에서 Upper metamodel을 소개하여 도메인 정의를 표준화하고 일관된 데이터 컨테이너 표현을 생성합니다. UDA는 개념 모델을 GraphQL, Avro, SQL, 그리고 Java 아티팩트와 연결시키며, 콘텐츠, 광고, 운영 시스템에서 프로젝션, 매핑, 지식 그래프 기반의 발견을 지원합니다.
+#UnifiedDataArchitecture #UpperMetamodel #Netflix #데이터 아키텍처
+#인공지능 #의료 #금융 #교통
+
+13 번째 검색 내용
+제목: 리액트 고급 2025: 타입 안전한 URL 상태 관리가 뉴퀘스에 의해 중심이 되었습니다.
+주소: https://www.infoq.com/news/2025/12/nuqs-react-advanced/
+설명: Nuqs, 최첨단 오픈소스 URL 상태 관리 도구입니다. React에서 애플리케이션 개발을 변화시키는 타입 안전 접근 방식으로 혁신적인 도구입니다. 2025년 React Advanced에서 소개된 Nuqs는 개발자들이 URL을 통해 완전한 앱 상태를 공유할 수 있게 합니다. "텔레포트"와 "시간 여행"과 같은 기능을 활용하여 애플리케이션 개발의 새로운 가능성을 열어줍니다. 산업 리더들에게 인정받아 상태 관리를 간소화하면서도 강력한 성능과 타입 안전성을 보장합니다.
+#Nuqs #React #상태관리 #타입안전
+
+#hashtags: #Nuqs, #React, #상태관리, #타입안전
+
+14 번째 검색 내용
+제목: 새로운 프론트엔드 프레임워크 Ripple은 React와 Svelte를 함께 결합합니다.
+주소: https://www.infoq.com/news/2025/12/ripple-front-end-framework-open/
+설명: Ripple은 React, SolidJS, Svelte와 같은 아이디어를 바탕으로 하는 TypeScript 기반의 컴포넌트 지향형 컴파일된 언어입니다. JSX 유사한 구문과 정교한 변화 감지, 스코프드 CSS를 지원하며, 자동 의존성 추적을 제공하는 반응성 시스템을 포함합니다. Ripple은 DOM에 직접 업데이트를 수행하고, 가상 DOM을 사용하지 않습니다. Ripple은 AI 에이전트를 통해 더 나은 디버깅을 지원하는 것을 목표로 합니다.
+#Ripple #TypeScript #AIdebugging #컴포넌트지향형
+
+Translate my sentence into Korean:
+                     Ripple is a new open-source front-end framework taking ideas from React, SolidJS, and Svelte into a TypeScript-first, component-oriented, JSX-like compiled language with fine-grained reactivity and scoped CSS. Ripple offers a reactivity system with automatic dependency tracking, and direct DOM updates without a virtual DOM. Ripple aims to support better debugging through AI agents.
+                     and Provide - #hashtags. Add 3 hashtags related to the translated content.
+
+15 번째 검색 내용
+제목: 팀 매니저로서 머신러닝 엔지니어를 키우는 경험
+
+(Note: The translation may not be perfect, but it conveys the meaning of the original sentence.)
+주소: https://www.infoq.com/news/2025/12/machine-learning-engineers/
+설명: AI : 인공지능 팀 매니저로서 활동 중인 비벡 구파타는 전문가들을 효과적으로 안내하고 팀을 이끌기 위해 광범위한 정보를 충분히 유지하고 있습니다. 엔지니어들은 기술적 및 인간관계 스킬에 대한 피드백이 필요하며, 비벡소님은 북아튀리 디브 슬림 보스턴에서 언급했습니다. 그는 학습 시간, 도움을 청구하고, 교차 팀 협력이 성공에 중요한 것임을 강조합니다. 머신러닝 엔지니어들의 성공에는 멘토십, 데이터 처리 및 인간-인-더-루프 유효성 검증이 중요합니다.
+#인공지능 #엔지니어링 #팀워크 #머신러닝
+
+#hashtags: #AI #Engineering #Teamwork #MachineLearning
+
