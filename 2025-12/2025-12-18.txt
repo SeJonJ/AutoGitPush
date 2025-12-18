@@ -1,0 +1,145 @@
+1 번째 검색 내용
+제목: OpenAI에서 QCon AI NYC에서 엔터프라이즈 튜닝 진행
+
+(Note: The translation may not be perfect as it is difficult to maintain the exact structure and meaning of the original sentence in Korean. However, this translation conveys the main idea of the sentence.)
+주소: https://www.infoq.com/news/2025/12/qcon-openai-rft/
+설명: At QCon AI NYC 2025, Will Hang from OpenAI unveiled Agent RFT—a cutting-edge reinforcement fine-tuning approach for tool-using agents. By optimizing prompts and tasks before model adjustments, Hang showcased effective strategies to enhance decision-making and efficiency, emphasizing a balanced grading system. The session revealed a future where smarter agents reduce latency and improve outcomes.
+#인공지능 #QConAI #AgentRFT
+
+Translated sentence: 
+At QCon AI NYC 2025, Will Hang from OpenAI unveiled Agent RFT—a cutting-edge reinforcement fine-tuning approach for tool-using agents. By optimizing prompts and tasks before model adjustments, Hang showcased effective strategies to enhance decision-making and efficiency, emphasizing a balanced grading system. The session revealed a future where smarter agents reduce latency and improve outcomes.
+#인공지능 #QConAI #AgentRFT
+
+Hashtags: 
+#인공지능 #QConAI #AgentRFT
+
+2 번째 검색 내용
+제목: AWS가 "DevOps 에이전트"를 출시하여 사고 응답을 자동화하고 시스템 신뢰도를 개선합니다.
+주소: https://www.infoq.com/news/2025/12/aws-devops-agents/
+설명: AWS는 최근 AWS DevOps Agent의 공개 미리 보기를 발표했습니다. 이것은 조직이 생산 사고에 더 빠르게 반응하고, 원인을 식별하며, 시스템 신뢰성을 프로액티브하게 강화하는데 도움이 되기를 목표로 합니다.
+#AWS #DevOpsAgent #시스템신뢰성 #생산사고
+
+#hashtags: #AWS, #DevOpsAgent, #SystemReliability, #ProductionIncidents
+
+3 번째 검색 내용
+제목: 시각적 스튜디오 2026가 AI 원생성 IDE와 성능 증진으로 발표되었습니다.
+주소: https://www.infoq.com/news/2025/12/vs2026-native-ai-ide/
+설명: Microsoft는 Visual Studio 2026 (버전 18)을 공식적으로 출시하였습니다. 이것은 Microsoft가 부르는 'AI-native' 릴리스인 것으로, 플래그쉽 통합 개발 환경의 첫 번째 릴리스입니다. 일반적으로 출시를 위해 Insiders 채널을 통한 깊은 검증이 이어졌고, 성능 최적화, GitHub Copilot 통합의 깊이, 그리고 핵심 언어와 작업 로드에서의 도구 업데이트가 포함되었습니다.
+#VisualStudio2026 #AInative #Microsoft #IntegratedDevelopmentEnvironment
+
+#hashtags: #VisualStudio2026, #AInative, #Microsoft, #IntegratedDevelopmentEnvironment
+
+4 번째 검색 내용
+제목: 넷플릭스가 아마존 오라로라 이동: 성능 향상 75%, 비용 절감 28%
+
+(Note: The translation may not be perfect as it is a direct translation. Korean grammar and sentence structure can be different from English.)
+주소: https://www.infoq.com/news/2025/12/netflix-migrates-amazon-aurora/
+설명: Netflix는 Amazon Aurora로 관계형 데이터베이스를 통합하여, 비용을 28% 감소시키고 성능을 75% 향상시킵니다. PostgreSQL에서의 자체 운영 작업 감소로 중요한 앱의 지연 시간이 개선되었습니다. 삼성과 판솔론의 마이그레이션은 이와 유사하지만, 벤치마크에 따르면 특정 워크로드에 대해 대안으로 시스템이 Timescale을 선택할 수 있습니다.
+#데이터베이스 #비용절감 #성능향상 #AWS
+
+#hashtags: #인공지능 #의료 #금융 #교통
+
+5 번째 검색 내용
+제목: TornadoVM 2.0는 자동 GPU 가속과 LLM 지원을 Java에 제공합니다.
+주소: https://www.infoq.com/news/2025/12/tornadovm-20-gpu-llm/
+설명: The TornadoVM project recently reached version 2.0, a major milestone for the open-source project that aims to provide a heterogeneous hardware runtime for Java. This release is likely to be of particular interest to teams developing LLM solutions on the JVM.
+                     and Provide - #hashtags. Add 3 hashtags related to the translated content.
+
+Korean Translation: 톤다오VM 프로젝트는 최근 버전2.0에 도달했습니다, 이것은 열려있는 소스 프로젝트의 중요한 마일스톤입니다. 이 프로젝트는 Java에 대해 다양한 하드웨어 런타임을 제공하고자 합니다. 이 릴리스는 JVM에서 LLM 솔루션을 개발하는 팀에게 특히 관심을 받을 것입니다.
+
+#hashtags: #톤다오VM #JVM #LLM #Java #하드웨어런타임
+
+Additional Hashtags: #개방형소스 #빅데이터 #AI #머신러닝
+
+6 번째 검색 내용
+제목: 변형체(Transformers) v5은 더  modular하고 interoperable한 Core를 소개합니다.
+주소: https://www.infoq.com/news/2025/12/transformers-hugging-face/
+설명: Hugging Face는 Transformers v5의 첫 번째 후보를 발표했습니다. v4와 五年前의 큰 변화를 나타내며, 라이브러리는 AI 개발에 중요한 자원으로 성장하여 매일 300만 이상의 설치 수를 달성하고 총 1.2억 번 이상의 설치 수를 기록했습니다.
+#인공지능 #트랜스포더 #허깅페이스
+
+Translated content hashtags: #인공지능, #트랜스포더, #허깅페이스
+
+7 번째 검색 내용
+제목: 메타의 최적화 플랫폼 Ax 1.0은 LLM와 시스템 최적화를 간편하게 처리합니다.
+주소: https://www.infoq.com/news/2025/12/ax-hyperparameter-optimization/
+설명: Ax는 Meta에서 제공하는 열린 소스 플랫폼으로, 복잡한, 자원 소모적인 실험에 머신러닝을 적용하도록 연구자와 엔지니어를 도와주는 것입니다. 최근 몇 년간 Meta는 Ax를 AI 모델 개선, 머신러닝 연구 가속화, 생산 인프라 조정 등에 사용하였습니다.
+#열린소스 #플랫폼 #AI모델개선 #머신러닝연구가속화 #생산인프라조정 #Ax
+
+#hashtags: 
+1. #열린소스
+2. #플랫폼
+3. #AI모델개선
+
+8 번째 검색 내용
+제목: 리프트가 하이브리드 AWS SageMaker-쿼터네스 접근 방식을 사용하여 ML 플랫폼을 재설계합니다.
+주소: https://www.infoq.com/news/2025/12/lyft-ml-platform/
+설명: Lyft는 머신러닝 플랫폼 LyftLearn을 AWS SageMaker로 하이브리드 시스템으로 다시 설계했습니다. 오프라인 워크로드를 AWS SageMaker에 이동하면서 Kubernetes를 온라인 모델 제공에 유지합니다. 운영 복잡성이 가장 높은 Managed Services를 선택한 것으로, 사용자 정의 인프라에서 제어가 중요했을 때 유니폼 플랫폼 전략보다 실용적인 대안을 제공합니다.
+#Lyft #SageMaker #Kubernetes
+
+#hashtags: #머신러닝 #AWS #클라우드컴퓨팅
+
+9 번째 검색 내용
+제목: AWS 트랜스폼 커스텀 기능은 기술 부채를 해결합니다.
+주소: https://www.infoq.com/news/2025/12/aws-transform-technical-debt/
+설명: AWS Transform Custom은 AI 기반의 외부 박스 변환을 통해 Java, Node.js, Python과 같은 언어에 대한 코드 모던화를 혁신적으로 실행합니다. 이 기업 중심의 도구는 5배까지 애플리케이션 업그레이드를 가속화하면서 조직의 특성에 따라 고품질의 반복 변환을 제공합니다.
+#AWS #코드모던화 #인공지능 #애플리케이션업그레이드
+
+#hashtags: #AWS, #코드모던화, #인공지능, #애플리케이션업그레이드
+
+10 번째 검색 내용
+제목: 알파에볼브 구글 클라우드에 에이전트적 시스템으로 알고리즘 최적화를 위해 입장합니다.
+주소: https://www.infoq.com/news/2025/12/alphaevolve-google-cloud/
+설명: AI : 구글 클라우드는 AlphaEvolve, 견니로 기능화된 코딩 에이전트로서 복잡한 공학적 및 과학적 문제를 해결하는데 알고리즘을 발견하고 최적화하는데 사용되도록 개인 미리보기를 발표했습니다. 이 시스템은 대규모 검색 공간으로 인해 전통적인 브루트 포스 또는 수동 최적화 방법이 어려워질 때 사용 사례에 대상입니다.
+#구글클라우드 #알고리즘최적화 #복잡한공학적문제 #과학적문제
+
+Hashtags: #구글클라우드, #알고리즘최적화, #복잡한공학적문제, #과학적문제
+
+11 번째 검색 내용
+제목: 구글은 AI 안경 앱을 개발하는 데 새로운 도구와 라이브러리를 공개합니다.
+주소: https://www.infoq.com/news/2025/12/android-glasses-ar-sdk/
+설명: 안드로이드 XR SDK 개발자 미리보기 3에서 Google은 개발자들이 AI 글래스 경험을 만들기 위해 두 가지 새로운 라이브러리를 소개했습니다. Jetpack Projected와 Jetpack Compose Glimmer입니다. ARCore는 Jetpack XR에서 AI 글래스와 함께 작동하도록 확장되어 움직임 추적과 지리적 기능을 추가했습니다.
+#안드로이드XRSDK #AI글래스 #ARCore
+
+#hashtags: #안드로이드 #인공지능 #AR #글래스
+
+12 번째 검색 내용
+제목: 자바 뉴스 요약: Spring Tools 5, TornadoVM, Payara 플랫폼, Hibernate ORM, Spock 프레임워크
+
+(Note: The given text is already in Korean. If you want to translate it into English or another language, please provide the original text in English.)
+주소: https://www.infoq.com/news/2025/12/java-news-roundup-dec08-2025/
+설명: Java 주요 뉴스 요약: 2025년 12월 8일 발표된 이번 주 Java 주요 뉴스는 Spring Tools 5.0의 출시; Spring AI와 Spring Shell에서 마일스톤 릴리즈; 2025년 12월 버전의 Payara Platform; Hibernate ORM과 Spock Framework의 포인트 릴리즈; 그리고 Spring Framework, Micronaut, Apache TomEE와 Apache Tomcat의 메인테이너스 릴리즈를 다루고 있습니다.
+#Java #SpringFramework #PayaraPlatform #Micronaut
+
+13 번째 검색 내용
+제목: 메타의 React 컴파일러 1.0은 프로덕션에서 자동 메모이제이션을 가져옵니다.
+주소: https://www.infoq.com/news/2025/12/react-compiler-meta/
+설명: React Compiler 1.0은 리액트 앱의 최적화를 자동으로 수행하여 로드 시간을 12% 향상시키고 2.5배 더 빠른 상호작용을 제공합니다. Meta에서 검증된 주요 프레임워크와 호환되며, 빌드를 간소화하면서 통합 진단을 제공합니다. 코드 재작성 없이도 개발자가 더 똑똑하게 코딩할 수 있는 부드러운 개선 경험을 제공합니다.
+#리액트 #최적화 #빌드 #코드_재작성_없이
+
+#hashtags: #ReactCompiler1.0 #PerformanceOptimization #Meta #DeveloperProductivity
+
+14 번째 검색 내용
+제목: 엘프가 S3 서버 접근 로그를 대규모 스케일에서 관리하는 데 사용되는 블루프린트 발표
+
+(Note: The translation may not be perfect as it is a direct translation from English to Korean. The sentence structure and grammar might need adjustments for natural Korean language flow.)
+주소: https://www.infoq.com/news/2025/12/yelp-s3-server-access-logs/
+설명: 인기 엔지니어링 포스팅에서 Yelp은 Amazon S3 서버 접근 로그(SAL)를 처리하는 확장성 있고 비용 효율적인 파이프라인을 구축하는 방법을 공유했습니다. Yelp은 인프라에서 대량으로 저장하고 쿼리하는 전통적인 제한을 극복하여 이를 수행했습니다.
+#엔지니어링 #Yelp #AmazonS3 #로그처리
+
+#hashtags:
+1. #엔지니어링
+2. #Yelp
+3. #AmazonS3
+
+Note: The translation may not be perfect as it is translated using an AI model.
+
+15 번째 검색 내용
+제목: 마이크로소프트가 포스트그레스 호환 앤저힐렌드비 소개
+
+(Note: The translation may not be perfect as it is a machine translation. Please double-check the translation for accuracy.)
+주소: https://www.infoq.com/news/2025/12/azure-horizondb-postgresql/
+설명: 인공지능 : 최근 Microsoft Ignite 컨퍼런스에서 클라우드 제공자는 Azure HorizonDB의 초기 미리 보기를 발표했습니다. 이것은 엔터프라이즈 워크로드용으로 관리되는 Postgres와 호환되는 데이터베이스 서비스입니다.
+#MicrosoftIgnite #AzureHorizonDB #Postgres #클라우드 #데이터베이스
+
+Hashtags added: #MicrosoftIgnite, #AzureHorizonDB, #Postgres
+
