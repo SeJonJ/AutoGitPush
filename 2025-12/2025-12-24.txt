@@ -1,0 +1,135 @@
+1 번째 검색 내용
+제목: Nuxt는 성능 향상을 위해 원시 요청 취소와 비동기 핸들러 추출을 도입합니다.
+주소: https://www.infoq.com/news/2025/12/nuxt-performance-v4/
+설명: Nuxt 4.2는 데이터 핑크링 중에 원격 제어를 지원하여 개발자 경험을 향상시키고, 오류 처리를 개선하고, 실험적인 TypeScript 지원을 추가합니다. 번들 크기가 39% 감소하고 앱 디렉토리가 간편해졌으므로, 이 릴리스는 Nuxt를 Vue.js에 기반한 전체 스택 웹 애플리케이션의 주요 선택 사항으로 위치시킵니다.
+#Nuxt42 #데이터_핑크링 #개발자_경험_향상 #전체_스택_웹_애플리케이션
+
+#hashtags: #NuxtJS, #VueJS, #FullStackWebDevelopment
+
+2 번째 검색 내용
+제목: OpenAI와 Anthropic이 AGENTS.md와 Model Context Protocol을 새로운 Agentic AI Foundation에 기부합니다.
+주소: https://www.infoq.com/news/2025/12/agentic-ai-foundation/
+설명: OpenAI와 Anthropic은 AGENTS.md와 Model Context Protocol 프로젝트를 Linux Foundation의 Agentic AI Foundation(AAIF)에 기부했습니다. AAIF는 새로운 지향적 펀드입니다. Block은 goose 에이전트 프레임워크를 또 다른 창립 프로젝트로 기여하였고, 몇몇 기술 회사는 금액 1위 멤버로 가입했습니다.
+#지향적_펀드 #Agentic_AI_Foundation #OpenAI #Anthropic
+
+#hashtags: #지향적_펀드, #Agentic_AI_Foundation, #OpenAI, #Anthropic
+
+3 번째 검색 내용
+제목: 
+주소: https://www.infoq.com/news/2025/12/pinecone-drn-vector-workloads/
+설명: Pinecone는 벡터 데이터베이스의 새로운 용량 모드인 Dedicated Read Nodes(DRN)를 공개 미리 보기로 발표했습니다. 이는 고통력 응용 프로그램에 사용되는 것으로 명시된 성능과 비용을 제공하며, 대규모 스케일에서 사용되는 것으로 예상됩니다. 이러한 응용 프로그램은 세미어 검색, 추천 시스템 및 중요한 AI 서비스와 같습니다.
+#Pinecone #벡터데이터베이스 #고통력응용프로그램 #AI서비스
+
+Translated sentence: Pinecone recently announced the public preview of Dedicated Read Nodes (DRN), a new capacity mode for its vector database designed to deliver predictable performance and cost at scale for high-throughput applications such as billion-vector semantic search, recommendation systems, and mission-critical AI services.
+#Pinecone #벡터데이터베이스 #고통력응용프로그램 #AI서비스
+
+Hashtags added: #Pinecone, #벡터데이터베이스, #고통력응용프로그램, #AI서비스
+
+4 번째 검색 내용
+제목: 목표는 생성형 AI 추천으로 장바구니  /******/ 상호작용을 개선하여 11% 향상을 이루었습니다.
+
+(Note: The symbol "/" is not a part of the translation, it was used to indicate where the sentence should be split for the given format.)
+주소: https://www.infoq.com/news/2025/12/target-genai-model-recommend/
+설명: Translate my sentence into Korean:
+                         Target has deployed GRAM, a GenAI-powered accessory recommendation system for the Home category, using large language models to prioritize product attributes and capture aesthetic cohesion. The system helps shoppers find compatible accessories, integrates human-in-the-loop curation, and achieved measurable improvements in engagement and conversion.
+                     and Provide - #hashtags. Add 3 hashtags related to the translated content.
+
+Target은 인공지능을 활용한 GRAM, 홈 카테고리의 액세서리 추천 시스템을 배포했습니다. 이 시스템은 대규모 언어 모델을 사용하여 제품 특성을 우선 순위로 설정하고 아웃레트 연결성을 캡처합니다. 이 시스템은 소비자가 호환되는 액세서리를 찾아주며, 인간-in-the-loop 검토를 통합하고 참여도와 변환률에 실질적인 개선을 이루었습니다.
+#인공지능 #액세서리추천시스템 #홈카테고리
+
+Hashtags: #인공지능, #액세서리추천시스템, #홈카테고리
+
+5 번째 검색 내용
+제목: 토드: 모든 당신의 LLM에 대한 통합 CLI 도구로서, 기존의 것보다 향상된 UX를 약속합니다.
+주소: https://www.infoq.com/news/2025/12/llm-agent-cli/
+설명: During his sabbatical, Will McGugan, maker of Rich and Textual( frameworks for making Textual User Interfaces (TUI)), put his UI skills to work to build Toad. The newly publicly released tool aims to provide a unified, “beautiful” GUI for multiple coding agents in your terminal, accessible via the same tool via the Agent Communication Protocol (ACP).
+#인공지능 #터미널 #GUI
+
+Translate my sentence into Korean : 
+                         During his sabbatical, Will McGugan, maker of Rich and Textual( frameworks for making Textual User Interfaces (TUI)), put his UI skills to work to build Toad. The newly publicly released tool aims to provide a unified, “beautiful” GUI for multiple coding agents in your terminal, accessible via the same tool via the Agent Communication Protocol (ACP).
+                     and Provide - #hashtags. Add 3 hashtags related to the translated content.
+[/INST]
+
+6 번째 검색 내용
+제목: 네프튜네(Neptune)는 AI를 지원한 인프라스트럭처 코드와 클라우드 배포를 결합합니다.
+주소: https://www.infoq.com/news/2025/12/neptune-ai-platform-engineer/
+설명: AI : 이제 베타 버전으로 사용 가능합니다. Neptune은 대화형 AI 에이전트로, 클라우드 서비스를 설정하고 구성하는 데 필요한 것을 처리하며, 컨테이너화된 앱을 실행하기 위해 프로비저닝하고 연결하는 AI 플랫폼 엔지니어가 되어 있습니다. Neptune은 언어와 클라우드에 대한 지원을 제공하며, AWS, GCP, Azure와 같은 모든 클라우드 서비스에 적용됩니다.
+#베타버전 #AI엔진 #클라우드서비스
+
+Hashtags: #인공지능 #베타버전 #클라우드서비스 #AI엔진 #대화형AI #AWS #GCP #Azure
+
+7 번째 검색 내용
+제목: 메타 세부 정보 GEM 광고 모델을 LLM 규모 훈련, 하이브리드 병렬성, 지식 전달을 사용하여 구현합니다.
+주소: https://www.infoq.com/news/2025/12/meta-gem-ads-model/
+설명: Meta는 광고 생성 모델(GEM)이라는 기반 모델을 발표했습니다. 이 모델은 Meta의 플랫폼에서 광고 추천을 개선하기 위해 사용되며, 추천 시스템(RecSys)에서 주요 문제를 해결합니다. 이 모델은 일일 사용자-광고 상호작용의 수억 단위를 처리하며, 의미 있는 신호인 클릭과 변환이 매우 희소합니다.
+#메타 #광고 #추천시스템 #기반모델
+
+#hashtags: #AI #데이터분석 #광고마케팅
+
+8 번째 검색 내용
+제목: 자바 뉴스 요약: 글래시핑, 토르네이도VM, 스프링 셸, 와일드플라이, 하이브레이트, 코틀린
+주소: https://www.infoq.com/news/2025/12/java-news-roundup-dec15-2025/
+설명: AI : 이번 주의 Java 뉴스 요약은 2025년 12월 15일에 발표된 것으로, 다음 내용을 포함합니다: GlassFish 8.0의 15번째 마일스톤 릴리즈; Spring Shell 4.0의 첫 번째 릴리즈 кан디데이트; TornadoVM, Hibernate Reactive, Hibernate Search와 Kotlin에 대한 포인트 릴리즈; WildFly 39의 첫 번째 베타 릴리즈; 그리고 Micronaut Helidon과 Vert.x에 대한 메인테이너스 릴리즈입니다.
+#Java #뉴스요약 #프로그래밍언어 #서버사이드 #클라이언트사이드
+
+Translate my sentence into Korean:
+                         This week's Java roundup for December 15th, 2025, features news highlighting: the fifteenth milestone release of GlassFish 8.0; the first release candidate of Spring Shell 4.0; point releases of TornadoVM, Hibernate Reactive, Hibernate Search and Kotlin; the first beta release of WildFly 39; and maintenance releases of Micronaut Helidon and Vert.x.
+                     and Provide - #hashtags. Add 3 hashtags related to the translated content. [/INST]
+
+9 번째 검색 내용
+제목: IBM 연구소는 오픈소스 구성 가능한 에이전트 프레임워크인 CUGA를 헷싱팩에 소개합니다.
+주소: https://www.infoq.com/news/2025/12/ibm-cuga/
+설명: IBM 연구소는 Hugging Face Spaces에서 CUGA(Configurable Generalist Agent)를 발표하였습니다. 이 기업 중심의 에이전트 프레임워크는 열린 모델과 실제 워크플로우로 평가할 수 있도록 더 쉽게 사용할 수 있습니다. CUGA는 흔히 도구 오버헤드, 장기 수행 추론, 실패에서 복구하기 어려운 긴밀하게 결합된 에이전트 프레임워크보다 실용적인 대안으로 위치하고 있습니다.
+#IBM #CUGA #에이전트_프레임워크
+
+Hashtags: #IBM, #CUGA, #에이전트_프레임워크
+
+10 번째 검색 내용
+제목: AWS가 컨테이너화된 애플리케이션 배포를 간소화하기 위해 ECS 익스프레스 모드 출시
+
+(Note: The translation may not be perfect as it involves some technical terms. Please review and make necessary adjustments if needed.)
+주소: https://www.infoq.com/news/2025/12/aws-ecs-express-mode/
+설명: AWS는 Amazon ECS Express Mode를 발표하였습니다. 이것은 컨테이너화된 웹 애플리케이션과 API를 배포하는 단순화된 프로세스를 제공합니다. Express Mode를 사용하면, IAM 역할, 로드 밸런서 및 확장과 같은 부가 요구 사항에 대한 일반적인 세부 정보를 건너뛰어 생산성 준비 서비스를 한 번에 배포할 수 있습니다.
+#AWS #AmazonECSExpressMode #컨테이너화된웹애플리케이션 #API
+
+#hashtags: #AWS #AmazonECSExpressMode #ContainerizedWebApplications #APIs
+
+11 번째 검색 내용
+제목: QConAI NY 2025 - 신뢰성 있는 AI 플랫폼 설계: 확실한 것을 위한 도구, 발견을 위한 에이전트
+주소: https://www.infoq.com/news/2025/12/qcon-nvidia-platform/
+설명: Aaron Erickson at QCon AI NYC 2025에서는 에지틱 AI를 인공지능 문제로 다루는 것을 강조하였으며, 신뢰성을 확보하기 위해 확률적 및 결정적 시스템의 섞어서 사용에 초점을 맞추었습니다. 그는 위험을 최소화하고 성능을 최적화하기 위한 명확한 운영 구조를 강조하였으며, AI 워크플로우에서 특수화된 에이전트와 결정적 경로를 통해 정확도와 제어를 향상시키기 위해 중요성을 강조하였습니다.
+#인공지능 #QConAI #에지틱AI
+
+Hashtags: #인공지능, #QConAI, #에지틱AI
+
+12 번째 검색 내용
+제목: 구글 메트랙스는 재정의된 모델 평가 지표를 제공하여 JAX에 도입합니다.
+주소: https://www.infoq.com/news/2025/12/metrax-jax-evaluation-metrics/
+설명: Recently open-sourced by Google, Metrax is a JAX library providing standardized, performant metrics implementations for classification, regression, NLP, vision, and audio models.
+                     #인공지능 #머신러닝 #JAX라이브러리
+
+Translated sentence: 구글에서 최근 오픈소스로 발표한 Metrax는 JAX 라이브러리로, 분류, 회귀, NLP, 시각, 음성 모델의 표준화된 성능 좋은 메트릭 구현을 제공합니다.
+#인공지능 #머신러닝 #JAX라이브러리
+
+13 번째 검색 내용
+제목: AWS가 NAT 게이트웨이의 지역 사용 가능성을 소개합니다.
+주소: https://www.infoq.com/news/2025/12/aws-regional-nat-gateway/
+설명: AWS는 최근에 관리형 NAT 게이트웨이 서비스의 지역 사용 가능성을 소개했습니다. 새로운 기능으로 개발자들은 VPC에서 여러 가용성 영역(AZ)을 자동으로 커버하는 단일 NAT 게이트웨이를 만들 수 있습니다. 이로 인해 개발자들은 각 영역에서 별도의 게이트웨이와 공용 서브넷을 정의하는 것을 제거할 수 있으며, 고가용성을 제공합니다.
+#AWS #NATGateways #VPC #고가용성
+
+#hashtags: #AWS, #NATGateways, #VPC, #HighAvailability
+
+14 번째 검색 내용
+제목: 데카톤 회사가 데이터 파이프라인과 인프라 비용을 최적화하기 위해 폴어를 선택합니다.
+주소: https://www.infoq.com/news/2025/12/decathlon-spark-polars/
+설명: Decathlon, 세계 최고의 스포츠 소매점 중 하나, 최근에는 오픈 소스 라이브러리 Polars를 사용해 데이터 파이프라인을 최적화하기 위해 이 기술을 채택한 이유를 공유했습니다. Decathlon Digital팀은 Apache Spark에서 Polars로 작은 입력 데이터셋으로 마이그레이션하면 크게 빠르고 비용을 절약할 수 있다는 것을 발견했습니다.
+#Decathlon #Polars #오픈소스라이브러리
+
+Hashtags: #Decathlon, #Polars, #오픈소스라이브러리
+
+15 번째 검색 내용
+제목: AWS는 책임감 있는 AI와 업데이트된 ML과 생성형 AI 렌스로 Well-Architected Framework를 확장합니다.
+주소: https://www.infoq.com/news/2025/12/aws-expands-well-architected/
+설명: AWS re:Invent 2025에서 AWS는 Well-Architected Framework를 확장하여 새로운 Responsible AI Lens와 Machine Learning과 Generative AI Lens를 업데이트했습니다. 업데이트는 지배, 편향 완화, 규모가 확장할 수 있는 ML 워크플로우, 신뢰할 수 있는 AI 시스템 디자인을 포함한 전체 AI 생명주기에서 지침을 제공합니다.
+#AWSre:Invent #ResponsibleAI #MachineLearning #GenerativeAI
+
