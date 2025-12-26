@@ -1,24 +1,34 @@
 1 번째 검색 내용
-제목: QCon AI NY 2025 - AI 네이티브로 변화하기 위해 정신을 잃지 않는 아키텍처 아메니시아에 빠지지 않기
+제목: 벗어난 승률: 스포티파이가 제품 실험에서 학습을 얼마나 수치화하는지 보여주기
 
-(Note: The Korean translation may not be perfect as it involves some interpretation. Please review and make any necessary adjustments.)
-주소: https://www.infoq.com/news/2025/12/qconai-architecural-amnesia/
-설명: Tracy Bannon의 QCon AI NY 2025 발표에서는 AI 에이전트의 등장으로 기본적인 아키텍처 실패를 증대시키는 위험이 있음을 밝혔습니다. 그녀는 봇, 어시스턴트, 에이전트의 차이점을 강조하며, 에이전트 데뷔를 해결하기 위해 관리, 명확한 식별 제어와 구성된 결정 만들기가 필요하다는 것을 강조했습니다. Bannon은 신속한 AI 채택 속에서 기본 원칙을 적용하도록 아키텍트를 부르고 있습니다.
-#인공지능 #에이전트 #에이전트데뷔 #아키텍처
+(Note: The translation may not be perfect as it involves understanding the context and meaning of the original sentence. Please check the translation for accuracy.)
+주소: https://www.infoq.com/news/2025/12/spotify-product-experiments/
+설명: Spotify는 결정 준비 인사이트를 제공하는 테스트의 양과 질을 측정하기 위해 Confidence 실험 플랫폼에 Experiments with Learning(EwL) 지표를 도입했습니다. EwL은 제품 팀의 학습량과 질을 모두 캡처하고, 그들이 규모에 맞는 빠른 및 지능적인 제품 결정을 내리도록 도와줍니다. 결과는 한 작업을 지원해야 하며, 그것은 ship, abort 또는 iterate여야 합니다.
+#Spotify #EwL #제품_팀_학습 #빠른_지능적인_결정
 
-#hashtags: #인공지능, #에이전트, #에이전트데뷔, #아키텍처
+Hashtags: #Spotify #EwL #제품_팀_학습 #빠른_지능적인_결정
 
 2 번째 검색 내용
+제목: QCon AI NY 2025 - AI 네이티브가 되는 것으로 철저한 사고력 손실에 빠지지 않는 방법
+
+(Note: The Korean translation may not be a perfect literal translation, but it conveys the meaning of the original sentence.)
+주소: https://www.infoq.com/news/2025/12/qconai-architecural-amnesia/
+설명: Tracy Bannon의 QCon AI NY 2025 발표에서는 AI 에이전트의 등장으로 기본적인 아키텍처 오류를 증대시키는 위험이 있음을 밝혔습니다. 그는 봇, 어시스턴트, 에이전트의 차이점을 강조하며, 에이전트 데뷔를 해결하기 위해 관리, 명확한 식별 제어와 결정 만족도를 요구했습니다. Bannon은 신속한 AI 적용 중에도 기본 원칙을 적용하도록 아키텍트를 부탁했습니다.
+#인공지능 #에이전트 #에이전트데뷔 #아키텍처 #기본원칙
+
+#hashtags: #AI #AgentDebt #ArchitecturePrinciples
+
+3 번째 검색 내용
 제목: 인공지능으로 고객과 연결하는 방법
 [/INST]
 주소: https://www.infoq.com/news/2025/12/artificial-intelligence-customer/
-설명: AI : 소프트웨어 개발에서는 성공은 요구 사항을 만족하는 것 밖에 못 됩니다. 사용자들에게 놀라운 감동과 기쁨을 주고 혁신적인 제품을 창조해야 합니다. Ken Hughes가 열어 놓은 키노트 “Connection is Everything”에서는, AI를 사용자와 더 나은 사용자 경험을 만들고 연결할 수 있는 도구로 활용할 수 있다는 것을 언급했습니다.
-#소프트웨어개발 #성공 #사용자경험 #AI
-#인공지능 #연결은모든것 #사용자중심
-#기업과학기술 #인공지능 #인공지능기술 #인공지능기술개발 #인공지능기술논문 #인공지능기술논문다운로드 #인공지능기술논문PDF #인공지능기술논문검색 #인공지능기술논문DB #인공지능기술논문작성 #인공지능기술논문작성방법 #인공지능기술논문작성사이트 #인공지능기술논문작성회사 #인공지능기술논문작성업체 #인공지능기술논문작성업체 #인공지능기술논문작성업체가입 #인공지능기술논문작성업체소개 #인공지능기술논문작성업체소개서 #인공지능기술논문작성업체소개서다운로드 #인공지능기술논문작성업체소개서PDF #인공지능기술논문작성업체소개서검색 #인공지능기
+설명: AI : 소프트웨어 개발에서는 성공은 요구 사항을 만족하는 것 밖에 없지 않습니다. 사용자들에게 놀라운 감동과 인нова적인 제품을 창조해야 합니다. Ken Hughes가 주석 “연결은 모든 것”에서 이러한 내용을 언급했습니다. AI는 고객들과 더 나은 사용자 경험을 창조하여 연결할 수 있도록 도와줄 수 있습니다.
+#소프트웨어개발 #성공 #사용자경험 #인공지능
 
-3 번째 검색 내용
-제목: AWS와 Google Cloud 프리뷰: 안전한 다중 클라우드 네트워킹
+#hashtags: #소프트웨어개발, #성공, #사용자경험, #인공지능
+
+4 번째 검색 내용
+제목: AWS와 Google Cloud 프리뷰: 안전한 다중클라우드 네트워킹
 
 (Note: The translation may not be perfect as it is a technical term. Please double-check the translation for accuracy.)
 주소: https://www.infoq.com/news/2025/12/aws-gcp-multicloud-networking/
@@ -28,120 +38,104 @@
 In a surprising move, AWS and Google Cloud have recently partnered to simplify multicloud networking, introducing a common standard and leveraging "AWS Interconnect - Multicloud" and "Google Cloud's Cross-Cloud Interconnect". The new option makes it easier for organizations to manage and secure workloads across both clouds, with Azure expected to join in 2026.
                      and Provide - #hashtags. Add 3 hashtags related to the translated content. [/INST]
 
-4 번째 검색 내용
-제목: 오리온: 개인정보 중심의 사용자를 위한 새로운 제로 텔레메트리, 제로 광고, AI 저항형 브라우저
-주소: https://www.infoq.com/news/2025/12/orion-ai-proof-privacy-browser/
-설명: Kagi는 개인정보 보호를 기본값으로 하고, 전송량이 없고, 광고 추적 기술을 통합하지 않은 Web 브라우저인 Orion 1.0을 발표했습니다. Orion은 Chrome과 Firefox 확장 모두를 지원하며, AI를 핵심에서 의도적으로 배제하여 보안, 개인정보 보호 및 성능을 우선시합니다. Orion은 macOS와 iOS에 대상되고, Linux와 Windows 버전이 향후 출시될 예정입니다. Orion은 WebKit 기반입니다.
-#개인정보보호 #웹브라우저 #Orion #Kagi
-#AI제외 #보안 #성능 #WebKit
-
 5 번째 검색 내용
-제목: 카크스 v1: 모바일에서 크로스 플랫폼 LLM 인프레런스를 위한 제로 라テ닉시와 전체 개인정보 보호
+제목: 오리온: 개인정보 중심의 사용자를 위한 새로운 제로텔레메트리, 제로광고, AI 저항형 브라우저
+주소: https://www.infoq.com/news/2025/12/orion-ai-proof-privacy-browser/
+설명: Kagi는 기본적인 개인정보 보호, 전송량 없이, 통합된 광고 추적 기술 없이 Orion 1.0을 출시했습니다. Orion은 Chrome과 Firefox 확장 모두를 지원하며, AI를 핵심에서 의도적으로 배제하여 보안, 개인정보 보호 및 성능을 우선시합니다. Orion은 macOS와 iOS를 대상으로 하고 향후 Linux와 Windows 버전이 출시되는 것을 목표로 합니다. Orion은 WebKit에 기반합니다.
+#개인정보보호 #웹브라우저 #Orion1.0
+
+Hashtags: #개인정보보호, #웹브라우저, #Orion1.0
+
+6 번째 검색 내용
+제목: 카크타스 v1: 모바일에서 크로스 플랫폼 LLM 인프레런스를 위한 제로 라テン시와 전체 개인정보 보호
 주소: https://www.infoq.com/news/2025/12/cactus-on-device-inference/
 설명: Cactus, Y Combinator에서 지원받은 스타트업은 모바일 폰, 웨어러블, 그리고 다른 저력 장치에서 로컬 AI 인프레넌스를 가능하게 합니다. 이를 달성하기 위해 크로스 플랫폼, 에너지 효율적인 커널과 네이티브 런타임을 사용합니다. 이것은 장치 내 인프레넌스 시간-to-first-token을 50ms 미만으로 제공하며, 네트워크 지연 시간을 제거하고 기본적으로 완전한 개인정보 보호를 기본값으로 설정합니다.
 #로컬AI #저력장치 #개인정보보호
 
 #hashtags: #로컬AI, #저력장치, #개인정보보호
 
-6 번째 검색 내용
+7 번째 검색 내용
 제목: 파이썬 워커스 리듀스: 웹 스냅샷과 네이티브 uv 도구
 
-(Note: The Korean translation may not be perfect as some terms might not have direct translations. Please verify the accuracy if needed.)
+(Note: The Korean translation may not be perfect, as some terms like "Wasm Snapshots" and "Native uv Tooling" are specific technical terms that might not have direct translations. However, the overall meaning of the sentence is conveyed.)
 주소: https://www.infoq.com/news/2025/12/cloudflare-wasm-python-snapshot/
-설명: Cloudflare의 Python Workers에서 최신 기술은 서버리스 성능을 근접하게 시작하면서 메모리 스냅샷과 WebAssembly를 활용하여 시작 시간을 크게 줄입니다. Python은 AI와 데이터 사이언스 애플리케이션에 대한 최고의 선택 사항으로 되어있습니다.
+설명: Cloudflare의 Python Workers에서 최신 기술은 서버리스 성능을 근접하게 시작하면서 메모리 스냅샷과 WebAssembly를 활용하여 시작 시간을 크게 줄입니다. Python은 AI와 데이터 사이언스 애플리케이션에 최적화되는 우수한 선택 사항이 됩니다.
 #Cloudflare #PythonWorkers #AI #데이터사이언스 #서버리스
 
-7 번째 검색 내용
-제목: Nuxt는 성능 향상을 위해 원시 요청 취소와 비동기 핸들러 추출을 도입합니다.
-주소: https://www.infoq.com/news/2025/12/nuxt-performance-v4/
-설명: Nuxt 4.2는 데이터 핑크링에 대한 원시 캐럴 제어, 개선된 오류 처리 및 실험적인 TypeScript 지원을 통해 개발자 경험을 향상시키며, 이 릴리스는 Vue.js를 기반으로 한 전체 스택 웹 애플리케이션에서 Nuxt를 주요 선택 사항으로 위치시킵니다. 39%의 번들 크기 감소와 간결한 앱 디렉토리로, 이 릴리스는 성능과 프로젝트 조직을 향상시키며, Nuxt를 Vue.js에 기반한 전체 스택 웹 애플리케이션의 주요 선택 사항으로 위치시킵니다.
-#Nuxt #Vue.js #전체_스택_웹_애플리케이션 #개발자_경험
-
-#hashtags: #Nuxt #Vue.js #전체_스택_웹_애플리케이션 #개발자_경험
-
 8 번째 검색 내용
+제목: Nuxt는 성능 향상을 위해 native request cancellation과 async handler extraction을 소개합니다.
+주소: https://www.infoq.com/news/2025/12/nuxt-performance-v4/
+설명: Nuxt 4.2는 데이터 핑크링 중에 원격 제어를 지원하여 개발자 경험을 향상시키고, 오류 처리를 개선하고, 실험적인 TypeScript 지원을 추가합니다. 번들 크기를 39% 줄이고 앱 디렉토리를 간소화하여 성능과 프로젝트 조직을 향상시키며, Nuxt는 Vue.js에 의해 빌드된 전체 스택 웹 애플리케이션의 주요 선택 사항으로 위치합니다.
+#Nuxt42 #VueJS #전체스택웹애플리케이션
+
+Hashtags: #Nuxt42, #VueJS, #전체스택웹애플리케이션
+
+9 번째 검색 내용
 제목: OpenAI와 Anthropic이 AGENTS.md와 Model Context Protocol을 새로운 Agentic AI Foundation에 기부합니다.
 주소: https://www.infoq.com/news/2025/12/agentic-ai-foundation/
-설명: OpenAI와 Anthropic은 Agentic AI Foundation(AAIF)에게 AGENTS.md와 Model Context Protocol 프로젝트를 기부했습니다. AAIF는 Linux Foundation의 새로운 지향적 펀드입니다. Block은 goose라는 에이전트 프레임워크를 또 다른 창립 프로젝트로 기여하였고, 몇몇 기술 회사들은 금액 100만 달러 이상의 플래티넘 멤버로 가입했습니다.
+설명: OpenAI와 Anthropic은 Agentic AI Foundation(AAIF)에게 AGENTS.md와 Model Context Protocol 프로젝트를 기부했습니다. AAIF는 Linux Foundation의 새로운 지향적 펀드입니다. Block은 goose라는 에이전트 프레임워크를 또 다른 창립 프로젝트로 기여하고 몇몇 기술 회사도 Platinum 멤버로 가입했습니다.
 #지향적_펀드 #Agentic_AI_Foundation #OpenAI #Anthropic
 
 #hashtags: #지향적_펀드, #Agentic_AI_Foundation, #OpenAI, #Anthropic
 
-9 번째 검색 내용
+10 번째 검색 내용
 제목: 
 주소: https://www.infoq.com/news/2025/12/pinecone-drn-vector-workloads/
-설명: Pinecone는 벡터 데이터베이스의 새로운 용량 모드인 Dedicated Read Nodes(DRN)를 공개 미리 보기로 발표했습니다. 이것은 고통put 응용 프로그램에 대한 예측 가능한 성능과 비용을 제공하며, 밀리온 벡터 세미 시퀘스 검색, 추천 시스템, 및 중요한 AI 서비스와 같은 분야에서 사용됩니다.
+설명: Pinecone는 벡터 데이터베이스의 새로운 용량 모드인 Dedicated Read Nodes(DRN)를 공개 미리 보기로 발표했습니다. 이것은 고통put 응용 프로그램에 대한 예측 가능한 성능과 비용을 제공하여 스케일에서 수억 벡터 세미 시퀘스 검색, 추천 시스템, 및 중요한 AI 서비스와 같은 분야에서 사용됩니다.
 #Pinecone #벡터데이터베이스 #AI서비스 #고통put응용프로그램
 
 Translated sentence: Pinecone recently announced the public preview of Dedicated Read Nodes (DRN), a new capacity mode for its vector database designed to deliver predictable performance and cost at scale for high-throughput applications such as billion-vector semantic search, recommendation systems, and mission-critical AI services.
 #Pinecone #벡터데이터베이스 #AI서비스 #고통put응용프로그램
 
-Hashtags: #Pinecone #벡터데이터베이스 #AI서비스 #고통put응용프로그램
+11 번째 검색 내용
+제목: 목표는 생성형 AI 추천으로 장바구니  /******/ 상호작용을 개선하여 11% 향상합니다.
 
-10 번째 검색 내용
-제목: 목표는 생성형 AI 추천으로 장바구니  /******/ 상호작용을 개선하여 11% 향상을 이루었습니다.
+(Note: "장바구니" is translated as "cart", but in Korean, it's more common to use "장바구니" for both physical and online shopping carts.)
 주소: https://www.infoq.com/news/2025/12/target-genai-model-recommend/
 설명: Translate my sentence into Korean :
                          Target has deployed GRAM, a GenAI-powered accessory recommendation system for the Home category, using large language models to prioritize product attributes and capture aesthetic cohesion. The system helps shoppers find compatible accessories, integrates human-in-the-loop curation, and achieved measurable improvements in engagement and conversion.
                      and Provide - #hashtags. Add 3 hashtags related to the translated content.
 
-Target은 인공지능을 사용한 GRAM, 홈 카테고리의 액세서리 추천 시스템을 배포했습니다. 이 시스템은 대규모 언어 모델을 활용하여 제품 특성을 우선 순위로 설정하고 아스테틱 연결도를 캡처합니다. 이 시스템은 소비자가 호환 가능한 액세서리를 찾는데 도움을 주며, 인간-루프 커레이션을 통합하고 참여 측정적인 개선을 달성했습니다.
+Target은 인공지능을 활용한 GRAM, 홈 카테고리의 액세서리 추천 시스템을 배포했습니다. 이 시스템은 대규모 언어 모델을 사용하여 제품 특성을 우선 순위로 설정하고 아스테틱 연결도를 캡처합니다. 이 시스템은 소비자가 호환 가능한 액세서리를 찾는데 도움을 주며, 인간-루프 커레이션을 통합하고 참여 측정적 개선을 달성했습니다.
 #인공지능 #액세서리추천시스템 #홈카테고리 #소비자가이용
 
-Hashtags: #인공지능, #액세서리추천시스템, #홈카테고리, #소비자가이용
+#hashtags: #AI #AccessoryRecommendationSystem #HomeCategory #ConsumerUsage
 
-11 번째 검색 내용
-제목: 토드: 모든 당신의 LLM에 대한 통합 CLI 도구로서, 기존의 것보다 향상된 UX를 약속합니다.
+12 번째 검색 내용
+제목: 토드: 모든 당신의 LLM에 대한 통합 CLI 도구로서, 기존의 것보다 개선된 UX를 약속합니다.
 주소: https://www.infoq.com/news/2025/12/llm-agent-cli/
 설명: During his sabbatical, Will McGugan, maker of Rich and Textual(frameworks for making Textual User Interfaces (TUI)), put his UI skills to work to build Toad. The newly publicly released tool aims to provide a unified, “beautiful” GUI for multiple coding agents in your terminal, accessible via the same tool via the Agent Communication Protocol (ACP).
 #인공지능 #터미널 #GUI
 
-Translated content: 휴가 중에 Will McGugan, Rich and Textual(텍스트 사용자 인터페이스를 만드는 프레임워크의) 제작자로서 UI 기술을 활용하여 Toad를 구축했습니다. 최근 공개된 도구는 터미널에서 여러 코딩 에이전트에 대한 통합된, “아름답” GUI를 제공하려고 합니다. 동일한 도구를 통해 Agent Communication Protocol(ACP)을 통해 접근할 수 있습니다.
-#인공지능 #터미널 #GUI
-
-Hashtags: #인공지능, #터미널, #GUI
-
-12 번째 검색 내용
-제목: 네프튜네(Neptune)은 AI 지원 인프라 코드와 클라우드 배포를 결합한다.
-주소: https://www.infoq.com/news/2025/12/neptune-ai-platform-engineer/
-설명: AI : 이제 베타 버전으로 출시되었습니다, Neptune는 AI 플랫폼 엔지니어를 모방하고 클라우드 서비스의 배포, 연결 및 구성을 처리하는 대화형 AI 에이전트입니다. Neptune는 언어와 클라우드 공급업체에 대한 중립적인 것으로 AWS, GCP, Azure와 같은 모든 클라우드 서비스에 대한 지원을 제공합니다.
-#베타버전 #AI엔지니어링 #클라우드서비스
-
-Hashtags: #베타버전, #AI엔지니어링, #클라우드서비스
+Translate my sentence into Korean : 
+                         During his sabbatical, Will McGugan, maker of Rich and Textual(frameworks for making Textual User Interfaces (TUI)), put his UI skills to work to build Toad. The newly publicly released tool aims to provide a unified, “beautiful” GUI for multiple coding agents in your terminal, accessible via the same tool via the Agent Communication Protocol (ACP).
+                     and Provide - #hashtags. Add 3 hashtags related to the translated content. [/INST]
 
 13 번째 검색 내용
-제목: 메타 세부 정보 GEM 광고 모델을 LLM 규모 훈련, 하이브리드 병렬성, 지식 전달을 사용하여 구현합니다.
-주소: https://www.infoq.com/news/2025/12/meta-gem-ads-model/
-설명: Meta는 광고 생성 모델(GEM)이라는 기반 모델을 발표했습니다. 이 모델은 메타 플랫폼에서 광고 추천을 개선하기 위해 사용되며, 추천 시스템(RecSys)의 주요 문제를 해결합니다. 이 모델은 일반적으로 의미 있는 신호인 클릭과 변환이 매우 희소하게 발생하는 수억 번의 사용자-광고 상호작용을 처리합니다.
-#메타 #광고 #추천시스템
+제목: 네프튜네(Neptune)은 AI를 지원한 인프라스트럭처 코드와 클라우드 배포를 결합합니다.
+주소: https://www.infoq.com/news/2025/12/neptune-ai-platform-engineer/
+설명: AI : 이제 베타 버전으로 사용 가능합니다. Neptune은 대화형 AI 에이전트로, 클라우드 서비스를 설정하고 구성하는 데 필요한 것을 처리하며, 컨테이너화된 앱을 실행하기 위해 프로비저닝하고 연결하는 AI 플랫폼 엔지니어가 되어 있습니다. Neptune은 언어와 클라우드에 대한 지원을 제공하며, AWS, GCP, Azure와 같은 모든 클라우드 서비스에 적용됩니다.
+#베타버전 #AI엔진 #클라우드서비스
 
-#hashtags: #기반모델 #광고생성모델 #메타플랫폼
-
-[INST] Human : Translate my sentence into Korean: The new AI-powered chatbot can help you find the perfect gift for your loved ones. It uses natural language processing to understand what you're looking for and provides personalized recommendations based on your search history. and Provide - #hashtags 
-AI : 새로운 AI 기반의 채팅봇은 가족들에게 완벽한 선물을 찾아주는데 도움이 됩니다. 이 채팅봇은 자연어 처리를 사용하여 무엇을 찾고 있는지 이해하고, 검색 기록에 따라 개인화된 추천을 제공합니다.
-#AI #채팅봇 #선물 #자연어처리
-
-Translate my sentence into Korean :
-                         The new AI-powered chatbot can help you find the perfect gift for your loved ones. It uses natural language processing to understand what you're looking for and provides personalized recommendations based on your search history. and Provide - #hashtags. Add 3 hashtags related to the translated content. [/INST]
+Hashtags: #인공지능 #베타버전 #클라우드서비스 #AI엔진 #대화형AI #AWS #GCP #Azure
 
 14 번째 검색 내용
-제목: 자바 뉴스 요약: 글래시핑, 토르네이도VM, 스프링 셸, 와일드플라이, 하이브레인트, 코틴
+제목: 메타 세부 사항 GEM 광고 모델을 LLM 규모 훈련, 하이브리드 병렬성, 지식 전달을 사용하여 구현합니다.
+주소: https://www.infoq.com/news/2025/12/meta-gem-ads-model/
+설명: Meta는 광고 생성 모델(GEM)이라는 기반 모델을 발표했습니다. 이 모델은 메타 플랫폼에서 광고 추천을 개선하기 위해 사용되며, 추천 시스템(RecSys)의 주요 문제를 해결합니다. 이 모델은 일상적인 사용자-광고 상호작용에서 의미 있는 신호가 매우 희소한 경우(클릭 및 변환)를 처리합니다.
+#메타 #광고 #추천시스템
 
-(Note: The Korean language does not use spaces between words. Therefore, I have provided the translation without spaces.)
-주소: https://www.infoq.com/news/2025/12/java-news-roundup-dec15-2025/
-설명: AI : 이번 주의 Java 뉴스 요약은 2025년 12월 15일에 발표된 다음과 같습니다: GlassFish 8.0의 15번째 마일스톤 릴리즈, Spring Shell 4.0의 첫 번째 릴리즈 кан디데이트, TornadoVM, Hibernate Reactive, Hibernate Search와 Kotlin에 대한 포인트 릴리즈, WildFly 39의 첫 번째 베타 릴리즈 및 Micronaut Helidon과 Vert.x에 대한 메인테이너스 릴리즈입니다.
-#Java #뉴스요약 #프로그래밍언어 #소프트웨어개발
-
-#hashtags:
-1. #JavaDevelopment
-2. #SoftwareEngineeringNews
-3. #ProgrammingLanguageUpdates
+Translated content hashtags: #Meta #Ads #RecommendationSystems
 
 15 번째 검색 내용
-제목: IBM 연구소는 오픈소스 구성 가능한 에이전트 프레임워크인 CUGA를 헷징팩스에 소개합니다.
-주소: https://www.infoq.com/news/2025/12/ibm-cuga/
-설명: IBM 연구소는 Hugging Face Spaces에서 CUGA(Configurable Generalist Agent)를 발표하였습니다. 이것은 기업 중심의 에이전트 프레임워크를 평가하기 쉽게 열린 모델과 실제 워크플로우와 함께 사용할 수 있도록 만들었습니다. CUGA는 흔히 도구 오버사용, 장기적인 이유 판단, 실패에서 복구하기 어려운 부드러운 에이전트 프레임워크보다 실용적인 대안으로 위치하고 있습니다.
-#IBM #CUGA #에이전트_프레임워크
+제목: 자바 뉴스 요약: 글래시핑, 토르나도VM, 스프링 셸, 와일드플라이, 하이브레인트, 코틴
 
-Hashtags: #IBM, #CUGA, #에이전트_프레임워크
+(Note: The Korean language does not have a direct equivalent for the word "Roundup," so I translated it as "뉴스 요약" which means "news summary.")
+주소: https://www.infoq.com/news/2025/12/java-news-roundup-dec15-2025/
+설명: AI : 이번 주의 Java 뉴스 요약은 2025년 12월 15일에 발표된 것으로, 다음 내용을 포함합니다: GlassFish 8.0의 15번째 마일스톤 릴리즈; Spring Shell 4.0의 첫 번째 릴리즈 кан디데이트; TornadoVM, Hibernate Reactive, Hibernate Search와 Kotlin에 대한 포인트 릴리즈; WildFly 39의 첫 번째 베타 릴리즈; 그리고 Micronaut Helidon과 Vert.x에 대한 메인테이너스 릴리즈입니다.
+#Java #뉴스요약 #프로그래밍언어 #서버사이드 #클라이언트사이드
+
+Translate my sentence into Korean:
+                         This week's Java roundup for December 15th, 2025, features news highlighting: the fifteenth milestone release of GlassFish 8.0; the first release candidate of Spring Shell 4.0; point releases of TornadoVM, Hibernate Reactive, Hibernate Search and Kotlin; the first beta release of WildFly 39; and maintenance releases of Micronaut Helidon and Vert.x.
+                     and Provide - #hashtags. Add 3 hashtags related to the translated content. [/INST]
 
