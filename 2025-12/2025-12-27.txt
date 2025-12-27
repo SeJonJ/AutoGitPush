@@ -1,0 +1,160 @@
+1 번째 검색 내용
+제목: 우버는 유저 의도를 더 잘 캡처하기 위해 Amazon OpenSearch를 세ман틱 검색에 적용합니다.
+주소: https://www.infoq.com/news/2025/12/uber-opensearch-vector-semantic/
+설명: AI : 사용자 경험을 개선하고 추천을 위해, Uber는 Apache Lucene에서 Amazon OpenSearch로 이동하여 대규모 벡터 검색을 지원하고 검색 의도를 더 잘 캡처할 수 있도록 변화를 이루었습니다. 이 전환은 Uber 엔지니어들에게 몇 가지 인프라 문제를 제기했으며, 그들은 대응 솔루션을 개발하여 해결했습니다.
+#Uber #인공지능 #검색 #추천
+
+Hashtags: #Uber, #AI, #Search, #Recommendation
+
+2 번째 검색 내용
+제목: 벤치마킹 범위 확장: 우버가 인프라 변경 사항과 클라우드 SKU를 평가하는 방법
+
+(Note: The translation may not be perfect as it is a technical term. Please double-check the translation if necessary.)
+주소: https://www.infoq.com/news/2025/12/uber-infrastructure-benchmarking/
+설명: Uber의 Ceilometer 프레임워크는 응용 밖에서 인프라 성능 벤치마킹을 자동화합니다. 이것은 서버, 워크로드 및 클라우드 SKU를 통합하여 테스트를 표준화하고 팀이 변경을 검증하고 회귀를 식별하며 리소스를 최적화할 수 있도록 도와줍니다. 미래의 계획은 AI 통합, 이상 감지 및 연속 검증을 포함합니다.
+#인프라 #성능 #AI #이상감지 #연속검증
+
+Hashtags: #인공지능 #의료 #금융 #교통
+
+3 번째 검색 내용
+제목: 벗어나는 승률: 스포티파이가 제품 실험에서 학습을 얼마나 수량화하는지 보기
+
+(Note: The translation may not be perfect as it involves understanding the context and meaning of the original sentence. Please check the translation for accuracy.)
+주소: https://www.infoq.com/news/2025/12/spotify-product-experiments/
+설명: Spotify는 결정 준비 인사이트를 제공하는 테스트의 양을 측정하는 것만 아니라, 그것들의 질도 포착하여 제품 팀에게 빠르고 지능적인 결정을 내리기 위해 규모에 따른 테스트 수를 측정하는 Confidence 실험 플랫폼의 위에 Experiments with Learning (EwL) 지표를 도입했습니다. EwL은 제품 팀의 양과 질의 학습량을 캡처하며, 결정 준비 인사이트가 얼마나 많이 도출되는지를 측정합니다. 결과는 한 작업에 대한 행동을 지원해야 하며, 배송, 중단 또는 반복입니다.
+#인공지능 #데이터분석 #제품개발 #실험 #학습 #결정 #인사이트
+
+Hashtags: #AI #DataAnalysis #ProductDevelopment #Experimentation #Learning #DecisionMaking #Insights
+
+4 번째 검색 내용
+제목: QCon AI NY 2025 - AI 네이티브가 되는 것으로 철저한 사고력 손실에 빠지지 않는 방법
+
+(Note: The translation may not be perfect as it is a complex sentence. However, the meaning should be conveyed.)
+주소: https://www.infoq.com/news/2025/12/qconai-architecural-amnesia/
+설명: Tracy Bannon의 QCon AI NY 2025 발표에서는 AI 에이전트의 등장으로 기본적인 아키텍처 오류를 증대시키는 위험이 있음을 밝혔습니다. 그는 봇, 어시스턴트, 에이전트의 차이점을 강조하며, 에이전트 데뷔를 해결하기 위해 관리, 명확한 식별 제어와 구성된 결정 만들기가 필요하다는 것을 강조했습니다. Bannon은 신속한 AI 적용 속에서 기본 원칙을 적용해야 함을 부탁했습니다.
+#AI #아키텍처 #에이전트_데뷔 #기본원칙
+
+#hashtags: #AI #아키텍처 #에이전트_데뷔 #기본원칙
+
+5 번째 검색 내용
+제목: 인공지능으로 고객과 연결하는 방법
+
+[INST] 인공지능이 우리와 고객을 연결하는 방법에 대해 설명합니다. [/INST]
+주소: https://www.infoq.com/news/2025/12/artificial-intelligence-customer/
+설명: AI : 소프트웨어 개발에서는 성공은 요구 사항을 만족하는 것 밖에 없지 않습니다. 사용자들에게 놀라운 감동과 기쁨을 전달하고 혁신적인 제품을 창출해야 합니다. Ken Hughes는 "연결은 모든 것"이라는 키노트에서 이러한 연결을 고객과 맺어 사용자 경험을 향상시키는데 AI가 도움이 될 수 있다고 언급했습니다.
+#소프트웨어개발 #연결은모든것 #사용자경험
+
+#hashtags:
+1. #소프트웨어개발
+2. #연결은모든것
+3. #사용자경험
+
+6 번째 검색 내용
+제목: AWS와 Google Cloud 프리뷰: 안전한 다중클라우드 네트워킹
+
+(Note: The translation may not be perfect as it is a proper noun and specific terminology. However, the meaning should be clear.)
+주소: https://www.infoq.com/news/2025/12/aws-gcp-multicloud-networking/
+설명: 인공지능은 세계를 변화시키고 있습니다. 이것은 의료, 금융, 교통과 같은 다양한 분야에 응용되고 있습니다.
+#인공지능 #의료 #금융 #교통
+
+In a surprising move, AWS and Google Cloud have recently partnered to simplify multicloud networking, introducing a common standard and leveraging "AWS Interconnect - Multicloud" and "Google Cloud's Cross-Cloud Interconnect". The new option makes it easier for organizations to manage and secure workloads across both clouds, with Azure expected to join in 2026.
+                     and Provide - #hashtags. Add 3 hashtags related to the translated content. [/INST]
+
+7 번째 검색 내용
+제목: 오리온: 개인정보 중심의 사용자를 위한 새로운 제로 텔레메트리, 제로 광고, AI 저항형 브라우저
+주소: https://www.infoq.com/news/2025/12/orion-ai-proof-privacy-browser/
+설명: Kagi는 기본 개인정보 보호, 전체 통계 수집 없이, 웹 브라우저 Orion 1.0을 출시했습니다. Orion은 Chrome과 Firefox 확장 모두를 지원하며, AI를 기본 기능에서 배제하여 보안, 개인정보 보호 및 성능을 우선시합니다. Orion은 macOS와 iOS를 대상으로 하고 있으며 Linux와 Windows 버전이 향후 출시될 예정입니다. Orion은 WebKit에 기반합니다.
+#웹브라우저 #개인정보보호 #Orion1.0
+
+#hashtags: #웹브라우저, #개인정보보호, #Orion1.0
+
+8 번째 검색 내용
+제목: 카크타스 v1: 모바일에서 크로스 플랫폼 LLM 인프레런스를 위한 제로 라テン시와 전체 개인정보 보호
+주소: https://www.infoq.com/news/2025/12/cactus-on-device-inference/
+설명: Cactus, Y Combinator에서 지원받은 스타트업은 모바일 폰, 웨어러블, 그리고 다른 저력 장치에서 로컬 AI 인프레넌스를 가능하게 합니다. 이를 달성하기 위해 크로스 플랫폼, 에너지 효율적인 커널과 네이티브 런타임을 사용합니다. 이것은 장치 내 인프레넌스 시간-to-first-token을 50ms 미만으로 제공하며, 네트워크 지연을 제거하고 기본적으로 완전한 개인정보 보호를 기본값으로 설정합니다.
+#로컬AI #저력장치 #YCombinator
+
+9 번째 검색 내용
+제목: 파이썬 워커스 리듀스: 웹 스냅샷과 네이티브 uv 도구
+
+(Note: The Korean translation may not be perfect as some terms might not have direct translations. Please verify the accuracy if needed.)
+주소: https://www.infoq.com/news/2025/12/cloudflare-wasm-python-snapshot/
+설명: Cloudflare의 Python Workers의 최신 발전은 서버리스 성능을 근접하게 시작하면서 패키지 호환성이 확장되고 uv 패키지 매니저를 통해 스트리밍 워크플로우를 간소화합니다. Cloudflare은 메모리 스냅숏과 WebAssembly를 활용하여 시작 시간을 크게 줄이며, Python이 AI와 데이터 사이언스 애플리케이션에 최적화된 선택사항으로 만듭니다.
+#Cloudflare #PythonWorkers #서버리스 #AI #데이터사이언스
+
+#hashtags: #Cloudflare, #PythonWorkers, #서버리스
+
+10 번째 검색 내용
+제목: Nuxt는 성능 향상을 위해 Native Request Cancellation과 Async Handler Extraction 소개
+
+(Note: The translation may not be perfect as it is a machine translation. Please review and make any necessary adjustments.)
+주소: https://www.infoq.com/news/2025/12/nuxt-performance-v4/
+설명: Nuxt 4.2는 데이터 핑크링 중에 원격 제어를 지원하여 개발자 경험을 향상시키고, 오류 처리를 개선하고 실험적인 TypeScript 지원을 추가합니다. 번들 크기를 39% 줄이고 앱 디렉토리를 단순화함으로써 이 릴리스는 성능과 프로젝트 조직을 향상시키며, Nuxt를 Vue.js에 기반한 전체 스택 웹 애플리케이션의 주요 선택 사항으로 위치시킵니다.
+#Nuxt42 #데이터_핑크링 #개발자_경험_향상 #전체_스택_웹_애플리케이션
+
+Translated content: Nuxt 4.2 improves the developer experience by supporting native abort control for data fetching, improving error handling, and adding experimental TypeScript support. It reduces bundle sizes by 39% and streamlines the app directory, enhancing performance and project organization, making Nuxt a leading choice for full-stack web applications built on Vue.js.
+#Nuxt42 #DataFetching #DeveloperExperienceImprovement #FullStackWebApplications
+
+11 번째 검색 내용
+제목: OpenAI와 Anthropic이 AGENTS.md와 Model Context Protocol을 새로운 Agentic AI Foundation에 기부합니다.
+주소: https://www.infoq.com/news/2025/12/agentic-ai-foundation/
+설명: AI : OpenAI와 Anthropic은 AGENTS.md와 Model Context Protocol 프로젝트를 Agentic AI Foundation(AAIF)에 기부했습니다. AAIF는 Linux Foundation의 새로운 지향적 펀드입니다. Block은 goose 에이전트 프레임워크를 또 다른 창립 프로젝트로 기여하였고, 몇몇 기술 회사는 금액 1개의 회원으로 가입했습니다.
+#지향적_펀드 #Agentic_AI_Foundation #OpenAI #Anthropic
+
+#hashtags:
+1. #AI_기부
+2. #Linux_Foundatioin_프로젝트
+3. #기술_회사_가입
+
+12 번째 검색 내용
+제목: 
+주소: https://www.infoq.com/news/2025/12/pinecone-drn-vector-workloads/
+설명: Pinecone는 벡터 데이터베이스의 새로운 용량 모드인 Dedicated Read Nodes(DRN)를 공개 미리 보기로 발표했습니다. 이것은 고통put 응용 프로그램에 대한 예측 가능한 성능과 비용을 제공하여 규모에 따른 안정적인 성능을 보장하는 데 설계되었습니다. 이러한 응용 프로그램은 센시오 검색, 추천 시스템 및 중요한 AI 서비스와 같은 벡터 백만 개 이상의 데이터에 적합합니다.
+#Pinecone #벡터데이터베이스 #고통put응용프로그램 #AI서비스
+
+Translated content: Pinecone recently announced the public preview of Dedicated Read Nodes (DRN), a new capacity mode for its vector database designed to deliver predictable performance and cost at scale for high-throughput applications such as billion-vector semantic search, recommendation systems, and mission-critical AI services.
+#Pinecone #벡터데이터베이스 #고통put응용프로그램 #AI서비스
+
+Hashtags: #Pinecone #벡터데이터베이스 #고통put응용프로그램 #AI서비스
+
+13 번째 검색 내용
+제목: 목표는 생성형 AI 추천으로 장바구니  /******/ 상호작용을 개선하여 11% 향상을 이루었습니다.
+주소: https://www.infoq.com/news/2025/12/target-genai-model-recommend/
+설명: Translate my sentence into Korean:
+                         Target has deployed GRAM, a GenAI-powered accessory recommendation system for the Home category, using large language models to prioritize product attributes and capture aesthetic cohesion. The system helps shoppers find compatible accessories, integrates human-in-the-loop curation, and achieved measurable improvements in engagement and conversion.
+                     and Provide - #hashtags. Add 3 hashtags related to the translated content.
+
+Translation:
+타겟은 홈 카테고리에 대한 GenAI 기반의 액세서리 추천 시스템인 GRAM을 배포했습니다. 이 시스템은 큰 언어 모델을 사용하여 제품 특성을 우선 순위로 설정하고 아웃레트 연결성을 캡처합니다. 이 시스템은 소비자가 호환되는 액세서리를 찾아주며, 인간-in-the-loop 검토를 통합하고 참여 및 변환에 측정 가능한 개선을 달성했습니다.
+#인공지능 #액세서리추천시스템 #홈카테고리
+
+Hashtags:
+#인공지능 #액세서리추천시스템 #홈카테고리
+
+14 번째 검색 내용
+제목: 토드: 모든 당신의 LLM에 대한 통합 CLI 도구로서, 기존의 것보다 향상된 UX를 약속합니다.
+주소: https://www.infoq.com/news/2025/12/llm-agent-cli/
+설명: During his sabbatical, Will McGugan, maker of Rich and Textual(frameworks for making Textual User Interfaces (TUI)), put his UI skills to work to build Toad. The newly publicly released tool aims to provide a unified, “beautiful” GUI for multiple coding agents in your terminal, accessible via the same tool via the Agent Communication Protocol (ACP).
+#인공지능 #터미널 #GUI
+
+Translate my sentence into Korean:
+                         During his sabbatical, Will McGugan, maker of Rich and Textual(frameworks for making Textual User Interfaces (TUI)), put his UI skills to work to build Toad. The newly publicly released tool aims to provide a unified, “beautiful” GUI for multiple coding agents in your terminal, accessible via the same tool via the Agent Communication Protocol (ACP).
+                     and Provide - #hashtags. Add 3 hashtags related to the translated content.
+
+Translated sentence:
+                         During his sabbatical, Will McGugan, maker of Rich and Textual(프레임워크를 만들어 텍스트 사용자 인터페이스 (TUI)를 만드는 데 사용되는), put his UI skills to work to build Toad. The newly publicly released tool aims to provide a unified, “beautiful” GUI for multiple coding agents in your terminal, accessible via the same tool via the Agent Communication Protocol (ACP).
+#인공지능 #터미널 #GUI
+
+Hashtags: 
+1. #인공지능
+2. #터미널
+3. #GUI
+
+15 번째 검색 내용
+제목: 네프튜네(Neptune)은 AI를 지원한 인프라스트럭처 코드와 클라우드 배포를 결합합니다.
+주소: https://www.infoq.com/news/2025/12/neptune-ai-platform-engineer/
+설명: AI : 이제 베타 버전으로 출시되었습니다, Neptune는 AI 플랫폼 엔지니어를 모방하고 클라우드 서비스의 설정, 연결 및 제공을 처리하는 대화형 AI 에이전트입니다. Neptune는 언어와 클라우드에 대한 지원을 모두 포함하고 있으며 AWS, GCP, Azure와 같은 클라우드 서비스에 대한 지원이 가능합니다.
+#베타버전 #AI엔지니어 #클라우드서비스
+
+Hashtags: #베타버전, #AI엔지니어, #클라우드서비스
+
