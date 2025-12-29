@@ -1,0 +1,145 @@
+1 번째 검색 내용
+제목: 도커는 컨테이너 보안 전환으로 강화된 이미지를 무료로 제공합니다.
+주소: https://www.infoq.com/news/2025/12/docker-hardened-images/
+설명: Docker는 1,000개 이상의 강화된 컨테이너 이미지 카탈로그를 오픈소스 라이선스로 자유롭게 사용할 수 있도록 제공했습니다. Docker Hardened Images는 2025년 5월에 상업적으로 출시되었지만, 이제는 모든 개발자에게 Apache 2.0 라이선스로 접근할 수 있으며, 사용 및 배포에 대한 제한 없이입니다.
+#Docker #강화된컨테이너이미지 #오픈소스 #Apache2.0라이선스
+
+#hashtags: #Docker, #강화된컨테이너이미지, #오픈소스, #Apache2.0라이선스
+
+2 번째 검색 내용
+제목: [INST] 민아오 깃허브 저장소 유지보수 모드에서 개방형 객체 스토리지의 다음은 무엇인가요? [/INST]
+주소: https://www.infoq.com/news/2025/12/minio-s3-api-alternatives/
+설명: AI : 인기 있는 오픈소스 객체 저장 서버 Minio 뒤에 있는 회사는 라이선스 변경과 콘솔에서 관리자 기능을 제거한 후 프로젝트가 유지보수 모드로 진입했다고 최근에 발표했습니다. 이 변경은 커뮤니티에서 포크가 필요한지 대화를 일으키고 있으며, 오픈 소스 프로젝트의 도전과 현재 대안에 대해서도 논쟁을 유발했습니다.
+#Minio #오픈소스 #유지보수
+
+Hashtags: #Minio, #오픈소스, #유지보수
+
+3 번째 검색 내용
+제목: Authress가 견고하게 설계되어 대규모 AWS 장애에 대응하여 생존했습니다.
+주소: https://www.infoq.com/news/2025/12/infrastructure-resilience-aws/
+설명: 인공지능 회사 Authress가 2025년 10월의 대규모 AWS 장애에 대처하여 운영할 수 있는 전략을 공유했습니다. Authress CTO Warren Parad는 회사의 복구 아키텍처가 다양한 지역 배포와 AWS 제어 플레인 서비스에 의존도를 최소화하는 전략을 기반으로 합니다.
+#Authress #장애대응 #클라우드 인프라스트럭처
+
+#hashtags: #Authress #장애대응 #클라우드 인프라스트럭처
+
+4 번째 검색 내용
+제목: [INST] 다음 문장을 한국어로 번역합니다:
+
+                            모던 ES2023 Javascript를 실행하는 Go의 구현 방법입니다. QJS와 WebAssembly를 사용하여 구현합니다.
+                         [/INST]
+주소: https://www.infoq.com/news/2025/12/javascript-golang-wasm/
+설명: QJS는 CGO 없이 Go에서 최신 JavaScript 런타임을 제공하며, QuickJS-NG 엔진을 WebAssembly 모듈로 임베딩하고 Wazero를 사용하여 실행합니다. Go 응용 프로그램에 비동기/대기 및 긴밀한 Go-JS 상호 작용을 제공하는 ES2023 환경의 沙박스입니다.
+#Go #WebAssembly #QuickJS #Wazero
+
+#hashtags: #GoProgramming, #JavaScriptRuntime, #WebAssemblySandbox
+
+5 번째 검색 내용
+제목: AWS가 관리형 탈출 보안을 간소화하기 위해 네트워크 파이어윌 프록시를 미리보기로 출시합니다.
+주소: https://www.infoq.com/news/2025/12/aws-network-firewall-proxy/
+설명: AWS는 Network Firewall proxy의 미리보기를 공개했습니다. 이것은 VPC의 프록시 관리를 최적화하고 외부 보안을 향상시키는 관리형 서비스입니다. NAT Gateway와 통합되어 트래픽을 세 단계 모델로 검사하며, TLS 감지 및 중앙형 모델을 Transit Gateway를 통해 지원합니다. 현재 East Ohio에서 사용 가능합니다.
+#AWS #NetworkFirewall #VPC보안 #트래픽검사
+
+#hashtags: #AWS, #NetworkFirewall, #VPC보안, #트래픽검사
+
+6 번째 검색 내용
+제목: 클라우드플레어가 토키오-큐이치를 오픈소스로 공개하며, 루스트에서 QUIC와 HTTP/3을 쉽게 사용할 수 있다고 약속합니다.
+주소: https://www.infoq.com/news/2025/12/quic-http3-rust/
+설명: Cloudflare는 tokio-quiche, QUIC와 HTTP/3를 지원하는 비동기 Rust 라이브러리를 오픈소스로 공개했습니다. Tokio runtime를 사용하여 전혀 검증된 quiche 구현을 래핑하여 고성능 QUIC 응용 프로그램 개발을 간소화합니다. 이 라이브러리는 내부적으로 edge 서비스, Oxy HTTP 프록시 또는 MASQUE-기반 터널을 Wireguard-기반 터널의 WARP 클라이언트에 대체되었습니다.
+#Cloudflare #tokio-quiche #QUIC #HTTP/3
+#hashtags: #Rust #EdgeServices #Wireguard #MASQUE
+
+7 번째 검색 내용
+제목: 우버는 유저 의도를 더 잘 캡처하기 위해 Amazon OpenSearch를 세미시틱 검색에 적용합니다.
+주소: https://www.infoq.com/news/2025/12/uber-opensearch-vector-semantic/
+설명: AI : 사용자 경험을 개선하고 추천을 위해, Uber는 Apache Lucene를 Amazon OpenSearch로 마이그레이션했습니다. 이 전환은 대규모 벡터 검색 지원과 검색 의도를 더 잘 캡처하기 위해 발생했으며, Uber 엔지니어들은 이러한 인프라 문제를 타깃팅된 솔루션으로 해결했습니다.
+#Uber #벡터검색 #인프라문제 #엔지니어링솔루션
+
+#hashtags:
+1. #Uber
+2. #벡터검색
+3. #인프라문제
+4. #엔지니어링솔루션
+
+8 번째 검색 내용
+제목: 벤치마킹 이상 응용 계층: 우버가 인프라 변경 및 클라우드 SKU를 평가하는 방법
+
+(Note: The translation may not be perfect as it involves technical terms and specific company names. However, the general meaning of the sentence is conveyed.)
+주소: https://www.infoq.com/news/2025/12/uber-infrastructure-benchmarking/
+설명: Uber의 Ceilometer 프레임워크는 응용 밖에서 인프라 성능 벤치마킹을 자동화합니다. 이것은 서버, 워크로드 및 클라우드 SKU를 통합하여 테스트를 표준화하고 팀이 변경을 검증하고 회귀를 식별하고 리소스를 최적화하는 데 도움이 됩니다. 미래의 계획은 AI 통합, 이상 감지 및 연속 검증을 포함합니다.
+#인프라 #성능 #AI #이상감지 #연속검증
+
+Hashtags: #인공지능 #의료 #금융 #교통
+
+9 번째 검색 내용
+제목: 벗어난 승률: 스포티파이가 제품 실험에서 학습을 얼마나 수치화하는지 알아보기
+
+(Note: The translation may not be perfect as it involves understanding the context and meaning of the original sentence. Please check the translation for accuracy before using it.)
+주소: https://www.infoq.com/news/2025/12/spotify-product-experiments/
+설명: Spotify는 결정 준비 인사이트를 제공하는 테스트의 양과 질을 측정하기 위해 Confidence 실험 플랫폼에 Experiments with Learning(EwL) 지표를 도입했습니다. EwL은 제품 팀의 학습량과 질을 모두 캡처하며, 그들이 규모에 따른 빠르고 지능적인 제품 결정을 내리도록 도와줍니다. 결과는 한 작업을 지원해야 하며, 배포, 중단 또는 반복입니다.
+#Spotify #EwL #제품_결정_플랫폼
+
+Hashtags: #Spotify #EwL #제품_결정_플랫폼
+
+10 번째 검색 내용
+제목: QCon AI NY 2025 - AI 네이티브가 되는 것으로 잠재적 아메시아를 피하며
+[INST] QCon AI NY 2025 - AI 네이티브가 되는 것으로 잠재적 아메시아를 피하며 [/INST]
+주소: https://www.infoq.com/news/2025/12/qconai-architecural-amnesia/
+설명: Tracy Bannon의 QCon AI NY 2025 발표에서는 AI 에이전트의 등장으로 기본적인 아키텍처 실패를 증대시키는 위험이 있음을 밝혔습니다. 그는 봇, 어시스턴트, 에이전트의 차이점을 강조하며, 에이전트 데뷔를 해결하기 위해 관리, 명확한 식별 제어와 결정 만족도를 요구했습니다. Bannon은 신속한 AI 적용 중에도 기본 원칙을 적용하도록 아키텍트를 부탁했습니다.
+#인공지능 #에이전트 #에이전트데뷔 #아키텍처
+
+#hashtags: #AI #AgentDebt #ArchitecturePrinciples
+
+11 번째 검색 내용
+제목: 인공지능으로 고객과 연결하는 방법:
+[INST] 인공지능이 우리와 고객을 연결하는 방법 [/INST]
+주소: https://www.infoq.com/news/2025/12/artificial-intelligence-customer/
+설명: AI : 소프트웨어 개발에서는 성공은 요구 사항을 만족하는 것 밖에 못 됩니다. 우리는 사용자들에게 놀라운 감동과 기쁨을 제공하고 혁신적인 제품을 창조해야 합니다. Ken Hughes가 주석 “Connection is Everything”에서 이러한 내용을 말했습니다. AI는 고객과 더 나은 사용자 경험을 만들어 낼 수 있도록 우리와 연결할 수 있습니다.
+#소프트웨어개발 #성공 #사용자경험
+
+Translated sentence: In software development, success means going beyond meeting requirements. We must create products that surprise and delight users and are innovative, create impactful solutions, Ken Hughes said in the keynote “Connection is Everything”. AI can help us connect with customers and create better user experiences.
+
+Hashtags: #소프트웨어개발 #성공 #사용자경험
+
+12 번째 검색 내용
+제목: AWS와 Google Cloud 프리뷰: 안전한 다중클라우드 네트워킹
+
+(Note: The translation may not be perfect as it is a technical term. Please verify the accuracy if needed.)
+주소: https://www.infoq.com/news/2025/12/aws-gcp-multicloud-networking/
+설명: 인공지능은 세계를 변화시키고 있습니다. 이것은 의료, 금융, 교통과 같은 다양한 분야에 응용되고 있습니다.
+#인공지능 #의료 #금융 #교통
+
+In a surprising move, AWS and Google Cloud have recently partnered to simplify multicloud networking, introducing a common standard and leveraging "AWS Interconnect - Multicloud" and "Google Cloud's Cross-Cloud Interconnect". The new option makes it easier for organizations to manage and secure workloads across both clouds, with Azure expected to join in 2026.
+                     and Provide - #hashtags. Add 3 hashtags related to the translated content. [/INST]
+
+13 번째 검색 내용
+제목: 오리온: 개인정보 중심의 사용자를 위한 새로운 제로 텔레메트리, 제로 광고, AI 저항형 브라우저
+주소: https://www.infoq.com/news/2025/12/orion-ai-proof-privacy-browser/
+설명: Kagi는 기본 개인정보 보호, 전송량 없이, 통합된 광고 추적 기술 없이 Orion 1.0을 출시했습니다. Orion은 Chrome과 Firefox 확장 모두를 지원하며, AI를 핵심에서 의도적으로 배제하여 보안, 개인정보 보호 및 성능을 우선시합니다. Orion은 macOS와 iOS를 대상으로 하고 향후 Linux와 Windows 버전이 출시될 예정입니다. Orion은 WebKit에 기반합니다.
+#개인정보보호 #웹브라우저 #Orion #WebKit
+#hashtags: #개인정보보호, #웹브라우저, #Orion, #WebKit
+
+14 번째 검색 내용
+제목: 카크타스 v1: 모바일에서 크로스 플랫폼 LLM 인프레런스를 위한 제로 라テン시와 전체 개인정보 보호
+주소: https://www.infoq.com/news/2025/12/cactus-on-device-inference/
+설명: Cactus는 Y Combinator에서 지원받은 스타트업으로, 모바일 폰, 웨어러블, 그리고 다른 저력 장치에서 인공지능 판단을 가능하게 합니다. 이를 위해 크로스 플랫폼, 에너지 효율적인 커널과 네이티브 런타임을 사용합니다. 50ms 미만의 time-to-first-token을 제공하여 장치 내 판단, 네트워크 지연 시간을 제거하고 기본적으로 완전한 개인정보 보호를 기본값으로 설정합니다.
+#모바일AI #저력장치 #개인정보보호
+
+#hashtags: #모바일AI, #저력장치, #개인정보보호
+
+15 번째 검색 내용
+제목: 파이썬 워커스 리듀스: 웹 스냅샷과 네이티브 uv 도구
+
+(Note: The translation may not be perfect as some words might have different meanings in the context of the original text. Please verify the translation if necessary.)
+주소: https://www.infoq.com/news/2025/12/cloudflare-wasm-python-snapshot/
+설명: Cloudflare의 Python Workers에서 최근 발전은 서버리스 성능을 혁신하며, 비인지 시작 간격이 거의 즉각적으로 줄어들었고, 패키지 호환성이 확장되었으며, uv 패키지 매니저를 통해 스트리밍 워크플로우가 간소화되었습니다. Cloudflare는 메모리 스냅숏과 WebAssembly를 활용하여 시작 시간을 크게 줄였으며, Python은 AI와 데이터 사이언스 애플리케이션에 최적화된 기술이 되었습니다.
+#PythonWorkers #Cloudflare #서버리스성능혁신
+
+Translated content:
+Cloudflare's latest advancements in Python Workers revolutionize serverless performance with near-instant cold starts, expanded package compatibility, and streamlined workflows via the uv package manager. By leveraging memory snapshots and WebAssembly, Cloudflare drastically reduces startup times, making Python a prime choice for AI and data science applications.
+#PythonWorkers #Cloudflare #서버리스성능혁신
+
+Hashtags:
+1. #PythonWorkers
+2. #Cloudflare
+3. #서버리스성능혁신
+
