@@ -1,0 +1,138 @@
+1 번째 검색 내용
+제목: AWS는 데이터 주거소 지침과 하이브리드 클라우드 지침을 통해 Well‑Architected 가이드를 확장합니다.
+주소: https://www.infoq.com/news/2025/12/aws-well-architected-drhc-lens/
+설명: 이번 해에 AWS는 하이브리드 클라우드 서비스 Lens와 함께 웰 아키텍처 데이터 주소 지정을 출시했습니다. 이 렌즈는 데이터 분류, 운영 방법, 자동화, 준수성과 관련된 가이드를 제공하며, 기업들이 데이터 위치를 관리하면서 보안, 비용, 및 재생력을 최적화하는 데 도움이 됩니다.
+#하이브리드클라우드 #데이터주소지정 #AWS #웰아키텍처
+
+#hashtags: #클라우드솔루션 #데이터관리 #보안최적화
+
+Translated sentence: Earlier this year, AWS launched the Well-Architected Data Residency with Hybrid Cloud Services Lens, providing guidance for hybrid cloud workloads. The lens covers data classification, operational practices, automation, and compliance, helping organizations manage data location while optimizing security, cost, and resilience.
+
+#hashtags: #AWS #클라우드솔루션 #데이터관리 #보안최적화
+
+2 번째 검색 내용
+제목: SIMA 2는 보지 못한 3차원 및 사진과 같은 현실성 있는 세계를 일반화하기 위해 Gemini와 자기개선을 활용합니다.
+주소: https://www.infoq.com/news/2025/12/sima-2-gemini-agent/
+설명: AI : Google DeepMind 연구원들은 SIMA 2(Scalable Instructable Multiworld Agent)를 소개했습니다. Gemini 기반 모델로 구축된 일반적인 에이전트로, 여러 3D 가상 게임 환경에서 이해하고 행동할 수 있습니다. SIMA 2 아키텍처는 게임 플레이와 Gemini 사전 학습 데이터를 사용한 Gemini Flash-Lite 모델을 교육했습니다.
+#인공지능 #DeepMind #SIMA2 #Gemini
+
+Hashtags: #인공지능, #DeepMind, #SIMA2, #Gemini
+
+3 번째 검색 내용
+제목: 공유 포인트 프레임워크 1.22는 농작물 기반 빌드 도구 체인과 갱신된 프로젝트 기본 라인으로 배송됩니다.
+주소: https://www.infoq.com/news/2025/12/spfx-1-22-heft/
+설명: Microsoft는 SharePoint Framework(SPFx) 버전 1.22의 일반 사용 가능성을 발표했습니다. SPFx 개발자들에게 빌드와 도구 경험을 모던화하는 중심이 있는 릴리스입니다. 이 변화는 SPFx 솔루션이 어떻게 만들어지는지에 대한 기본적인 업데이트로, 기술 부채를 해결하고, 확장성을 향상시키며, Microsoft 도구체인 표준과 일치시키려는 목적을 가지고 있습니다.
+#SPFx #Microsoft #도구체인 #기술부채
+
+#hashtags: #SPFx, #Microsoft, #도구체인, #기술부채
+
+4 번째 검색 내용
+제목: 미셼린 실용주의적인 방법으로 AIOPs 도달하기 위해 대규모 비전 없음
+
+(Note: The translation may not be perfect as it involves understanding the context and meaning of the original sentence. Please verify the translation if necessary.)
+주소: https://www.infoq.com/news/2025/12/michelin-aiops/
+설명: Michelin의 중국 운영 그룹은 AIOps 플랫폼을 구현하는 방법에 대해 쓴 글이 있습니다. 그들이 전 세계적인 IT 지도에 어긋나는 것으로부터 이동하기 위해서 경험한 실수와 조직적 저항을 설명합니다. 또한, 벤더의 제안을 넘어 실용적인 배포에 도달하는 방법을 설명합니다.
+#AIOps #IT Governance #Michelin
+
+5 번째 검색 내용
+제목: 동남아시아와 인도의 개발자들이 2025년에 실제로 AI를 어떻게 사용하고 있는지
+
+(Note: The translation may not be perfect as it is a direct translation from English to Korean. The sentence structure and grammar might need adjustments for natural Korean language flow.)
+주소: https://www.infoq.com/news/2025/12/ai-developers-apac/
+설명: Agoda의 AI 개발자 보고서 2025는 동남아시아와 인도에서 AI가 개발자들의 일반적인 도구로 되어 있음을 보여주며, 실제 생산성 증대를 이루면서 신뢰도, 기술, 조직 준비와 같은 새로운 질문을 제기합니다. 현재는 개발자들이 서로에게 배우거나 온라인에서 학습하는 데 더 많이 사용되고 있는 것보다는 조직 주도적인 프로그램입니다.
+#인공지능 #동남아시아 #개발자 #AI_개발자_보고서_2025
+
+Hashtags: #인공지능, #동남아시아, #개발자
+
+6 번째 검색 내용
+제목: 자바 뉴스 요약: Spring Vault, LangChain4j, Seed4J, Infinispan, Gradle
+주소: https://www.infoq.com/news/2025/12/java-news-roundup-dec22-2025/
+설명: Java 주요 뉴스 요약: 2025년 12월 22일, Spring Vault에서 새로운 인터페이스, VaultClient 및 ReactiveVaultClient; LangChain4j와 Seed4J에 대한 포인트 릴리즈; Micronaut, Quarkus 및 Infinispan에 대한 메인테인스 릴리즈; 그리고 Gradle 9.3의 두 번째 리리즈 кан디데이트입니다.
+#Java #SpringVault #Micronaut #Quarkus
+#Infinispan #Gradle #뉴스요약
+
+7 번째 검색 내용
+제목: 도커는 컨테이너 보안 전환으로 강화된 이미지를 무료로 제공합니다.
+주소: https://www.infoq.com/news/2025/12/docker-hardened-images/
+설명: Docker는 1,000개 이상의 강화된 컨테이너 이미지 카탈로그를 오픈소스 라이선스로 자유롭게 사용할 수 있도록 제공했습니다. Docker Hardened Images는 2025년 5월에 상업적으로 출시되었지만, 이제는 모든 개발자에게 Apache 2.0 라이선스로 접근할 수 있으며, 사용 및 배포에 대한 제한 없이입니다.
+#Docker #강화된컨테이너이미지 #오픈소스 #Apache2.0라이선스
+
+#hashtags: #Docker, #강화된컨테이너이미지, #오픈소스, #Apache2.0라이선스
+
+8 번째 검색 내용
+제목: [INST] 민아오 깃허브 저장소 유지보수 모드에서 개방형 객체 스토리지의 다음은 무엇인가요? [/INST]
+주소: https://www.infoq.com/news/2025/12/minio-s3-api-alternatives/
+설명: AI : 인기 있는 오픈소스 객체 저장 서버 Minio 뒤에 있는 회사는 라이선스 변경과 콘솔에서 관리자 기능을 제거한 후 프로젝트가 유지보수 모드로 진입했다고 최근에 발표했습니다. 이 변경은 커뮤니티에서 포크가 필요한지 대화를 일으키고 있으며, 오픈 소스 프로젝트의 도전과 현재의 대안을 논쟁의 주제로 간주됩니다.
+#Minio #오픈소스 #유지보수모드
+
+Hashtags: #Minio, #오픈소스, #유지보수모드
+
+9 번째 검색 내용
+제목: Authress가 견고하게 설계되어 대규모 AWS 장애에 대응하여 생존했습니다.
+주소: https://www.infoq.com/news/2025/12/infrastructure-resilience-aws/
+설명: 인공지능 회사 Authress가 2025년 10월의 대규모 AWS 장애에 대처하여 운영할 수 있는 전략을 공유했습니다. Authress CTO Warren Parad는 회사의 복구 아키텍처가 다양한 지역 배포와 AWS 제어 플레인 서비스에 의존도를 최소화하는 전략을 기반으로 합니다.
+#Authress #장애대처 #클라우드인프라
+
+#hashtags: #Authress #장애대처 #클라우드인프라
+
+10 번째 검색 내용
+제목: [INST] 다음 문장을 한국어로 번역하십시오:
+
+                            모던 ES2023 Javascript를 Go에서 실행하는 QJS와 WebAssembly 사용
+                         [/INST]
+주소: https://www.infoq.com/news/2025/12/javascript-golang-wasm/
+설명: QJS는 CGO 없이 Go에서 최신 JavaScript 런타임입니다. QuickJS-NG 엔진을 WebAssembly 모듈로 임베딩하고 Wazero를 사용하여 Go 응용 프로그램에 비동기/대기 및 긴 Go-JS 상호 작용과 함께 ES2023 환경을 샌드박스로 제공합니다.
+#Go #WebAssembly #QuickJS
+
+#hashtags:
+1. #GoProgramming
+2. #WebAssemblyEnvironment
+3. #QuickJSInteroperability
+
+11 번째 검색 내용
+제목: AWS가 관리형 탈출 보안을 간소화하기 위해 네트워크 파이어윌 프록시를 미리보기로 출시합니다.
+주소: https://www.infoq.com/news/2025/12/aws-network-firewall-proxy/
+설명: AWS는 Network Firewall proxy의 미리보기를 공개했습니다. 이것은 VPC의 프록시 관리를 최적화하고 외부 보안을 향상시키는 관리형 서비스입니다. NAT Gateway와 통합되어 트래픽을 세 단계 모델로 검사하며, TLS 감독과 중앙형 모델을 Transit Gateway를 통해 지원합니다. 현재 East Ohio에서 사용 가능합니다.
+#AWS #NetworkFirewall #보안 #VPC
+
+#hashtags: #AWS, #NetworkFirewall, #Security, #VPC
+
+12 번째 검색 내용
+제목: 클라우드플레어가 토키오-큐이치를 오픈소스로 공개하며, 루스트에서 QUIC와 HTTP/3을 쉽게 사용할 수 있다고 약속합니다.
+주소: https://www.infoq.com/news/2025/12/quic-http3-rust/
+설명: Cloudflare는 tokio-quiche, QUIC와 HTTP/3를 지원하는 비동기 Rust 라이브러리를 오픈소스로 공개했습니다. Tokio 런타임를 사용하여 전혀 검증된 quiche 구현을 래핑하여 고성능 QUIC 응용 프로그램 개발을 간소화합니다. 이 라이브러리는 내부적으로 edge 서비스, Oxy HTTP 프록시 또는 MASQUE-기반 터널을 Wireguard-기반 터널로 WARP 클라이언트에서 대체되었습니다.
+#Cloudflare #tokio-quiche #QUIC #HTTP/3
+#인공지능 #의료 #금융 #교통
+
+13 번째 검색 내용
+제목: 우버는 유저 의도를 더 잘 캡처하기 위해 세미시스트 검색을 위한 Amazon OpenSearch를 채택합니다.
+주소: https://www.infoq.com/news/2025/12/uber-opensearch-vector-semantic/
+설명: AI : 사용자 경험을 개선하고 추천을 위해, Uber는 Apache Lucene에서 Amazon OpenSearch로 마이그레이션을 진행했습니다. 이를 통해 대규모의 벡터 검색을 지원하고 검색 의도를 더 잘 캡처할 수 있게 되었습니다. 이 전환은 Uber 엔지니어들에게 몇 가지 인프라 문제를 만들어 냈으며, 그들은 대응 솔루션을 목적 지향적으로 구현했습니다.
+#Uber #AmazonOpenSearch #검색 #추천
+
+#hashtags:
+1. #Uber
+2. #AmazonOpenSearch
+3. #검색
+4. #추천
+
+14 번째 검색 내용
+제목: 벤치마킹 이상 응용 계층: 우버가 인프라 변경 및 클라우드 SKU를 평가하는 방법
+
+(Note: The translation may not be perfect as the original sentence seems to be a title or heading, and the Korean language does not have direct equivalents for some English words. However, it conveys the general meaning of the original text.)
+주소: https://www.infoq.com/news/2025/12/uber-infrastructure-benchmarking/
+설명: Uber의 Ceilometer 프레임워크는 응용 밖에서 인프라 성능 벤치마킹을 자동화합니다. 이것은 서버, 워크로드 및 클라우드 SKU를 통합하여 테스트를 표준화하고 팀이 변경을 검증하고 회귀를 식별하며 리소스를 최적화할 수 있도록 도와줍니다. 미래의 계획은 AI 통합, 이상 감지 및 연속 검증을 포함합니다.
+#인프라 #성능 #AI #이상감지 #연속검증
+
+Hashtags: #인공지능 #의료 #금융 #교통
+
+15 번째 검색 내용
+제목: 벗어난 승률: 스포티파이가 제품 실험에서 학습을 얼마나 수치화하는지 보여주기
+
+(Note: The translation may not be perfect as it involves understanding the context and meaning of the original sentence. Please check the translation for accuracy.)
+주소: https://www.infoq.com/news/2025/12/spotify-product-experiments/
+설명: Spotify는 결정 준비 인사이트를 제공하는 테스트의 양을 측정하는 것 외에도, "승리"만 측정하는 Confidence 실험 플랫폼 위에 Experiments with Learning(EwL) 지표를 소개했습니다. EwL는 제품 팀의 학습량과 질을 모두 캡처하며, 그들이 규모에 따른 빠르고 지능적인 제품 결정을 내리도록 도와줍니다. 결과는 한 작업을 지원해야 합니다: 배포, 중단 또는 반복입니다.
+#데이터분석 #제품개발 #스포티파이
+
+#hashtags: #데이터분석, #제품개발, #스포티파이
+
