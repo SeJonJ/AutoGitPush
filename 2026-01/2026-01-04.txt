@@ -1,105 +1,103 @@
 1 번째 검색 내용
-제목: AWS는 M9g 인스턴스와 함께 5세대 그라비톤 프로세서를 소개합니다.
-주소: https://www.infoq.com/news/2026/01/aws-graviton-m9g/
-설명: AWS는 최근 Graviton5 프로세서를 발표하고 Graviton4보다 25% 이상의 성능 향상을 제공하며, Nitro Isolation Engine를 소개한 첫 번째 EC2 인스턴스인 M9g 일반적인 목적 인스턴스 미리보기를 발표했습니다. 클라우드 제공업체에 따르면, 최신 칩는 L3 캐시를 늘려, 지연 시간, 메모리 대역폭, 네트워크 통과량을 향상시키고 있습니다.
-#AWS #Graviton5 #성능향상 #NitroIsolationEngine
+제목: AWS는 M9g 인스턴스를 지원하는 5세대 그라비톤 프로세서 소개
 
-Hashtags: #AWS #Graviton5 #성능향상 #NitroIsolationEngine
+(Note: The translation may not be perfect as it is a technical term. Please verify the accuracy if needed.)
+주소: https://www.infoq.com/news/2026/01/aws-graviton-m9g/
+설명: AWS는 최근 Graviton5 프로세서를 발표하고 Graviton4보다 25% 높은 성능을 제공하며, Nitro Isolation Engine를 소개하고 L3 캐시를 확장하여 지연 시간, 메모리 대역폭, 네트워크 통과량을 향상시키는 EC2 M9g 일반적인 인스턴스의 첫 번째 미리보기를 제공합니다.
+#AWS #Graviton5 #NitroIsolationEngine #성능향상
+
+Translated content: AWS recently announced the new Graviton5 processor and the preview of the first EC2 instances running on it, the general-purpose M9g instances. According to the cloud provider, the latest chip delivers up to 25% higher performance than Graviton4, introduces the Nitro Isolation Engine, and provides a larger L3 cache, improving latency, memory bandwidth, and network throughput.
+#AWS #Graviton5 #NitroIsolationEngine #성능향상
 
 2 번째 검색 내용
-제목: 마이크로소프트 연구소는 AI 모델에서 개인정보를 보호하기 위한 새로운 접근 방식을 개발합니다.
+제목: 마이크로소프트 연구소가 AI 모델에서 개인정보 보호를 강제하기 위해 새로운 접근 방식을 개발합니다.
 주소: https://www.infoq.com/news/2026/01/microsoft-llm-contextual-privacy/
-설명: AI : Microsoft의 AI 연구팀은 대규모 언어 모델에서 상황적 통합성을 보호하는 두 가지 새로운 접근 방식을 소개합니다. 이를 위해 PrivacyChecker, 개인정보 보호를 수행할 때 사용되는 오픈소스 가벼운 모듈과 CI-CoT + CI-RL, 모델에게 개인정보를 이해하도록 학습시키기 위한 고급 훈련 방법입니다.
-#인공지능 #개인정보보호 #언어모델 #AI연구
+설명: AI : Microsoft의 AI 연구팀은 대규모 언어 모델에서 상황적 통합성을 보호하는 두 가지 새로운 접근 방식을 소개합니다. 이를 위해 PrivacyChecker, 개인정보 보호를 위한 오픈소스 가벼운 모듈입니다. 또한 CI-CoT와 CI-RL로 알려진 고급 학습 방법을 사용하여 모델에게 개인정보를 이해하도록 교육합니다.
+#인공지능 #개인정보보호 #언어모델 #AI연구팀
+
+Hashtags: #인공지능, #개인정보보호, #언어모델, #AI연구팀
 
 3 번째 검색 내용
 제목: 스위기 헤멘스 V3 출시: 텍스트-SQL을 통합하여 대화형 AI로 발전
 
 (Note: The translation may not be perfect as it is a machine translation. Please review and make necessary adjustments if needed.)
 주소: https://www.infoq.com/news/2026/01/swiggy-hermes-conversational-ai/
-설명: Swiggy는 Hermes V3, 텍스트를 SQL로 변환하는 GenAI 기반의 도움자를 출시했습니다. 이 플레인 영어로 데이터 질문을 가능하게 합니다. Slack에 내장된 시스템은 벡터 검색, 대화 메모리, 에이전트 오케스트레이션, 설명성을 결합하여 SQL의 정확도를 개선하고 다중 턴 분석 질문을 지원합니다.
-#Swiggy #HermesV3 #GenAI #SQL #텍스트 검색 #벡터 검색 #대화 메모리 #에이전트 오케스트레이션 #설명성 #Slack #데이터 질문
+설명: Swiggy는 Hermes V3, 텍스트-SQL 도우미로써 GenAI를 사용하여 직원들이 단순한 영어로 데이터에 질문할 수 있게 해주는 시스템을 발표했습니다. Slack 네이티브 시스템은 벡터 검색, 대화 메모리, 에이전트 오케스트레이션, 설명성을 통해 SQL의 정확도를 향상시키고 다차론 분석 질문을 지원합니다.
+#Swiggy #HermesV3 #GenAI #SQL #텍스트-SQL #데이터 분석 #Slack
 
-#hashtags: #Swiggy, #HermesV3, #GenAI
-
-[INST] AI : Translate my sentence into Korean: Artificial intelligence is transforming the world. It has applications in various fields such as healthcare, finance, and transportation. and Provide - #hashtags 
- AI : 인공지능은 세계를 변화시키고 있습니다. 이것은 의료, 금융, 교통과 같은 다양한 분야에 응용되고 있습니다.
-#인공지능 #의료 #금융 #교통
-
-Translate my sentence into Korean : 
-                         Swiggy has released Hermes V3, a GenAI-powered text-to-SQL assistant that enables employees to query data in plain English. The Slack-native system combines vector retrieval, conversational memory, agentic orchestration, and explainability to improve SQL accuracy and support multi-turn analytical queries.
-                     and Provide - #hashtags. Add 3 hashtags related to the translated content. [/INST]
+#hashtags: #Swiggy, #HermesV3, #GenAI, #SQL, #텍스트-SQL, #데이터 분석, #Slack
 
 4 번째 검색 내용
 제목: 앤젬론 S3 벡터가 GA에 도달하며, "저장소 우선 아키텍처"를 사용하는 RAG의 개발을 소개합니다.
 주소: https://www.infoq.com/news/2026/01/aws-s3-vectors-ga/
-설명: AWS는 Amazon S3 Vectors의 일반 사용 가능성을 발표했습니다. 인덱스 당 용량을 40배로 2억 개의 벡터까지 증가시킨 것입니다. S3 저장소 엔진에 벡터 검색을 원시적으로 통합하여 서비스는 "스토리지 우선 아키텍처"를 도입하여 컴퓨트를 스토리지에서 분리시킵니다. 이로 인해 대규모 RAG 작업의 전체 소유자 비용을 90%까지 줄일 수 있습니다.
-#AWS #AmazonS3Vectors #스토리지우선아키텍처
+설명: AWS는 Amazon S3 Vectors의 일반 사용 가능성을 발표했습니다. 이것은 인덱스 용량을 40배로 2억 개의 벡터까지 증대시키며, S3 저장소 엔진에 벡터 검색을 원시적으로 통합하여 "저장-우선" 아키텍처를 도입했습니다. 이로 인해 컴퓨트가 저장과 분리되어, 대규모 RAG 작업에 대한 총 소유자 비용을 90% 감소시키는 것이 가능합니다.
+#AWS #AmazonS3Vectors #저장-우선 아키텍처 #대규모 RAG 작업
 
-Translated content hashtags: #AWS, #AmazonS3Vectors, #스토리지우선아키텍처
+Hashtags: #AWS #AmazonS3Vectors #저장-우선 아키텍처 #대규모 RAG 작업
 
 5 번째 검색 내용
 제목: 소프트웨어 개발자들이 생각하지 않아야 할 것들이 있지만, 직업에 영향을 줄 수 있는 것들
-[INST] Translate my sentence into Korean : 
-
+[INST] Translate my sentence into Korean :
                             Things Software Developers Think They Don’t Need to Care about, But Can Impact Their Job
                          [/INST]
 주소: https://www.infoq.com/news/2026/01/things-software-developers/
-설명: Holly Cummins는 Goto Copenhagen에서 주요 발표를 하였습니다. 개발자들이 작업을 정의하는 무시된 문제에 관심을 가지도록 권장했으며, 디자인 결정의 부작용, 시스템 사고와 통계 숙지를 홍보했습니다. 하드웨어가 Moore's Law 밖으로 발전함에 따라 동시성을 명확히 해결하는 것을 강조하고, AI의 직업 시장 영향을 언급했습니다.
-#인공지능 #개발자 #직업시장
+설명: Holly Cummins는 Goto Copenhagen에서 주요 발표를 하였습니다. 개발자들이 작업을 정의하는 무시된 문제에 관심을 가지도록 권장했으며, 디자인 결정의 부작용, 시스템 사고와 통계 숙지를 홍보했습니다. 하드웨어가 Moore's Law 밖으로 발전함에 따라 동시성을 명확히 해결하는 것을 강조하고, AI의 직업 시장 영향에 대해 언급했습니다.
+#인공지능 #개발자 #시스템사고
 
-#hashtags: #인공지능, #개발자, #직업시장
+#hashtags: #AI #developers #systemthinking
 
 6 번째 검색 내용
 제목: 번: 내장 데이터베이스 클라이언트와 자동 구성 웹 개발 도입
 
-(Note: The translation may not be perfect as it involves understanding the context and meaning of the original sentence. Please check for accuracy before using.)
-주소: https://www.infoq.com/news/2026/01/bun-v3-1-release/
-설명: Bun 1.3은 JavaScript 개발의 전체 스택을 변화시키며, 통합된 데이터베이스 API와 자동 설정 없는 웹 프론트 엔드 설정을 제공합니다. Redis 지원과 최적화된 번들링으로 향상된 성능을 경험할 수 있습니다. 커뮤니티 피드백에 집중하여 Node.js와 Deno보다 더 빠르고 효율적인 모든 것을 제공하는 모든 것을 위한 최신 개발자를 위한 빈 속도로 전환됩니다.
-#bun #full-stack-javascript #데이터베이스API #Redis지원
+[INST] Translate my sentence into Korean :
 
-번역된 내용에 대한 #hashtags:
-1. #full-stack-javascript : 전체 스택 JavaScript 개발을 위한 Bun 1.3의 변화를 나타냅니다.
-2. #데이터베이스API : Bun 1.3에서 통합된 데이터베이스 API와 관련된 내용을 나타냅니다.
-3. #Redis지원 : Bun 1.3의 Redis 지원과 관련된 내용을 나타냅니다.
+                            Bun Introduces Built-in Database Clients and Zero-Config Frontend Development
+                         [/INST]
+주소: https://www.infoq.com/news/2026/01/bun-v3-1-release/
+설명: Bun 1.3은 전체 스택 JavaScript 개발을 변화시키며, 통합된 데이터베이스 API와 자동 설정 웹 프론트 엔드를 제공합니다. 내장된 Redis 지원과 최적화된 번들링으로 향상된 성능을 경험할 수 있습니다. 커뮤니티 피드백에 집중하여 Node.js와 Deno보다 더 빠르고 효율적인 모든 것을 제공하는 모든 것을 위한 최신 개발자를 위한 빈 속도로 전환됩니다.
+#Bun #JavaScript #데이터베이스API #Redis지원
+
+번역된 내용에 대해 해시태그를 추가합니다:
+#Bun #자바스크립트 #데이터베이스API #레디스지원
 
 7 번째 검색 내용
 제목: API 플랫폼 언키 서버리스 사용을 중단: 성능 문제로 인한 어려움
 
-(Note: The translation may not be perfect as it is a direct translation. Korean grammar and sentence structure can be different from English.)
+(Note: The translation may not be perfect as it is a direct translation. It would be better to have a professional translator or someone fluent in both languages to provide a more accurate translation.)
 주소: https://www.infoq.com/news/2025/12/unkey-serverless/
-설명: Developer Platform Unkey는 전체 API 인증 서비스를 다시 빌드하고, 서버리스 Cloudflare Workers에서 상태 있는 Go 서버로 이동하여 서버리스 아키텍처의 제약 조건을 다시 평가한 후에 작성했습니다. 이 변경으로 성능이 6배 향상되었고, 이전에 엔지니어링 노력의 주요 부분이 된 워크어라운드가 제거되었습니다.
+설명: Developer Platform Unkey는 전체 API 인증 서비스를 다시 빌드하고 서버리스 Cloudflare Workers에서 상태 있는 Go 서버로 이동하여, 서버리스 아키텍처의 제약 조건을 다시 평가한 후에 작성했습니다. 이 변경으로 성능이 6배 향상되었고, 이전에 엔지니어링 노력의 주요 부분이 된 워크어라운드가 제거되었습니다.
 #인공지능 #API #서버리스
 
 8 번째 검색 내용
-제목: 케네틴스 1.35가 발표되었습니다. 인장 위치에서 팟 크기 조정과 AI 최적화 스케줄링이 포함되어 있습니다.
+제목: 케네틴스 1.35가 발표되었습니다: 실시간 팟 크기 조정과 AI 최적화 스케줄링이 포함되어 있습니다.
 주소: https://www.infoq.com/news/2025/12/kubernetes-1-35/
 설명: 인공지능/머신러닝 최적화를 위한 고성능 워크로드에 초점을 맞춘 Kubernetes 1.35, "Timbernetes"라는 이름으로 CNCF가 공개했습니다.
-#인공지능 #머신러닝 #Kubernetes #CNCF #고성능워크로드
+#CNCF #Kubernetes #인공지능/머신러닝 #고성능워크로드
 
 9 번째 검색 내용
 제목: [INST] 한글로 번역: 
 
-ReScript 12.0 새로운 빌드 시스템으로 출시되었습니다.
+ReScript 12.0 릴리즈: 새로운 빌드 시스템으로 업데이트
 [/INST]
 주소: https://www.infoq.com/news/2025/12/rescript-12-release/
-설명: ReScript 12.0은 현대화를 위한 기업의 중요한 마일스톤으로, 새롭게 작성된 빌드 시스템, 향상된 성능, 및 향상된 구문을 포함하여 출시되었습니다. 주요 기능은 모듈 아키텍처, 사전 리터럴 및 JSX 보존 모드입니다. 이는 TypeScript와 같은 타입 검사 및 빠른 컴파일을 위한 강력한 대안으로 개발자들에게 더 나은 타입을 제공하며, 오늘 이상의 진화를 참여하세요!
-#ReScript #현대화 #타입검사 #빠른컴파일
+설명: ReScript 12.0은 현대화를 위한 기업의 중요한 마일스톤으로, 새롭게 작성된 빌드 시스템, 향상된 성능, 및 향상된 구문을 포함하여 출시되었습니다. 주요 기능은 모듈 아키텍처, 사전 리터럴 및 JSX preserve mode입니다. TypeScript를 위해 소리를 낼 개발자들이 철저한 타입과 빠른 컴파일을 원하는 강력한 대안으로 굳혀지는 것을 확인할 수 있습니다. 진화에 참여하세요!
+#ReScript12.0 #현대화 #컴파일러 #개발자
 
-#hashtags: #ReScript #Modernization #TypingSystems
+#hashtags: #ReScript12.0, #Modernization, #DevelopersChoice
 
 10 번째 검색 내용
-제목: 클라우드플레어 연간 리뷰: AI 보트가 악성적으로 전진하며, 퀘이션 암호화가 50% 달성, 고 더블이 발표된다.
-주소: https://www.infoq.com/news/2025/12/cloudflare-2025-ai-bots/
-설명: Cloudflare는 최근에 그의 Radar Year in Review 6판을 발표했습니다. 결과는 전세계 인터넷 트래픽의 19% 연간 성장, Googlebot의 지배, 크롤-to-리퍼 비율의 증가, 후양산 암호화의 광범위한 채택을 드러냅니다. 자동 API 요청 중 20%는 Go-기반 클라이언트로 만들어졌으며, 이전 연도보다 거의 이중 증가했습니다.
-#인터넷트래픽 #Googlebot #후양산암호화
+제목: 클라우드플레어 연간 리뷰: AI 봇이 악세스로 급속히 진출하고, 퀘이션 암호화가 50% 달성, 고 더블 발생
 
-Hashtags: #인터넷트래픽 #Googlebot #후양산암호화
+(Note: The translation may not be perfect as it involves translating abbreviations and technical terms. Please check the translation for accuracy before using it.)
+주소: https://www.infoq.com/news/2025/12/cloudflare-2025-ai-bots/
+설명: Cloudflare는 최근에 그의 Radar Year in Review 6판을 발표했습니다. 결과는 전세계 인터넷 트래픽의 19% 연간 성장, Googlebot의 지배, 크롤-to-리퍼 비율의 증가, 후양산 암호화의 광범위한 적용을 밝혔습니다. 자동 API 요청 중 20%는 Go-기반 클라이언트로 수행되었으며, 이전 연도보다 이를 대체하는 채택이  basically 더 than 두 배 증가했습니다.
+#인터넷 #Cloudflare #Googlebot #Go-기반
+
+Hashtags: #인터넷 #클라우드플레어 #구글봇 #고기반
 
 11 번째 검색 내용
-제목: 아키텍처 연구소의 연례 후기에서 배운 것
-
-(Note: The translation may not be perfect as it is a direct translation. It would be better to have it reviewed by a native Korean speaker for proper grammar and context.)
+제목: 아키텍처 교육서: 패트룩언의 연도 후기에서 배울 수 있는 아키텍처 지식
+[/INST]
 주소: https://www.infoq.com/news/2025/12/patreon-2025-review/
 설명: In 2025, Patreon’s engineering team expertly balanced feature delivery for 10M+ members with vital infrastructure upgrades. Their Year in Review highlights 12 projects focused on maintenance and evolution, emphasizing resilient migration, data model refactoring, and strategic consistency trade-offs, ultimately redefining backend operations while enhancing system reliability and performance.
                      #인공지능 #백엔드_개발 #시스템_안정성
@@ -110,20 +108,19 @@ Hashtags: #인터넷트래픽 #Googlebot #후양산암호화
 3. #시스템_안정성 (System Stability)
 
 12 번째 검색 내용
-제목: 구글은 코드 질병을 손실하면서도 ART 컴파일 시간을 18% 증가시킵니다.
+제목: 구글은 코드 품질을 유지하면서도 ART 컴파일 시간을 18% 빠르게 만듭니다.
 주소: https://www.infoq.com/news/2025/12/android-art-jit-aot-improvement/
-설명: Google의 Android Runtime(ART)팀은 Android코드 컴파일 시간을 18% 감소시키면서 코드 품질에 영향을 주거나 픽스 메모리 사용량을 늘리지 않고, JIT(Just-in-Time)와 AOT(Ahead-of-Time) 컴파일 모두에 대한 성능 향상을 제공했습니다.
-#인공지능 #Android #성능향상
+설명: Google의 Android Runtime(ART)팀은 Android코드 컴파일 시간을 18% 감소시키면서 코드 품질에 영향을 주거나 픽스 메모리 사용량을 늘리지 않고, JIT(just-in-time)와 AOT(ahead-of-time) 컴파일 모두에 대한 성능 개선을 제공했습니다.
+#인공지능 #안드로이드 #성능개선
 
-Hashtags:
-1. #인공지능 (Artificial Intelligence)
-2. #안드로이드 (Android)
-3. #성능향상 (Performance Improvement)
+Translated sentence: Google's Android Runtime (ART) team has achieved a 18% reduction in compile times for Android code without compromising code quality or increasing peak memory usage, delivering significant performance improvements for both just-in-time (JIT) and ahead-of-time (AOT) compilation.
+#안드로이드 #성능개선 #인공지능
+
+Translated sentence: Google의 Android Runtime(ART)팀은 Android코드 컴파일 시간을 18% 감소시키면서 코드 품질에 영향을 주거나 픽스 메모리 사용량을 늘리지 않고, JIT(just-in-time)와 AOT(ahead-of-time) 컴파일 모두에 대한 성능 개선을 제공했습니다.
+#안드로이드 #성능개선 #인공지능
 
 13 번째 검색 내용
-제목: QCon AI 뉴욕 2025: AI 작업, PR는 안 됨: AI가 SDLC를 깨고 있고 무엇을 해야 할지 알아보기
-
-(Note: QCon is a conference series for software developers and this title seems to be about a specific talk or presentation at the event.)
+제목: QCon AI 뉴욕 2025: AI 작업, PR은 안 됨: AI가 SDLC를 깨고 있고 어떻게 대처해야 할까요?
 주소: https://www.infoq.com/news/2025/12/ai-in-sdlc-webster/
 설명: Michael Webster, CircleCI의 주요 공학자, QCon AI New York 2025에서 "AI Works, Pull Requests Don't: How AI Is Breaking the SDLC and What to Do about It"를 발표했습니다. Webster는 CircleCI에서 AI가 소프트웨어 개발 생명주기(SDLC)와 지속적 통합/지속적 배포(CI/CD) 과정에 미치는 영향을 논의했습니다.
 #인공지능 #소프트웨어개발생명주기 #지속적통합 #지속적배포
@@ -139,8 +136,8 @@ Hashtags: #인공지능, #소프트웨어개발생명주기, #지속적통합, #
 15 번째 검색 내용
 제목: 오픈소스 에이전트 사ン드박스는 Kubernetes에서 안전한 AI 에이전트 배포를 가능하게 합니다.
 주소: https://www.infoq.com/news/2025/12/agent-sandbox-kubernetes/
-설명: Agent Sandbox는 Kubernetes 컨트롤러로서 단일, 상태 있는 팟에 안정적인 식별성과 지속적인 저장소를 제공하는 선언형 API를 제공합니다. 특히 신뢰할 수 없는, LLM-생성 코드를 실행하고 있는 격리된 환경을 만들기 위해 매우 적합하며, 다른 상태 있는 작업을 실행하기 위해도 사용됩니다.
-#Kubernetes #컨트롤러 #상태 있는 워크로드
+설명: Agent Sandbox는 Kubernetes 컨트롤러로서 고정된 ID와 지속적인 저장소를 가진 단일, 상태 있는 팟을 선언형 API를 통해 관리하는 오픈 소스입니다. 특히 신뢰할 수 없는, LLM-생성 코드를 실행하고 다른 상태 있는 작업을 실행하기 위해 격리된 환경을 만들기에 적합합니다.
+#AgentSandbox #Kubernetes #오픈소스
 
-#hashtags: #Kubernetes #컨트롤러 #상태 있는 워크로드
+#hashtags: #AgentSandbox, #Kubernetes, #오픈소스
 
