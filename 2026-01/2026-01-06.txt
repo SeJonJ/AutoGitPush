@@ -1,151 +1,139 @@
 1 번째 검색 내용
-제목: Intel DeepMath은 수학을 더욱 잘 할 수 있는 LLM(Large Language Model)를 위해 스마트 아키텍처를 소개합니다.
-주소: https://www.infoq.com/news/2026/01/intel-deepmath-llm-architecture/
-설명: 인텔은 Qwen3-Thinking을 기반으로 구축된 작은 에이전트인 DeepMath를 발표했습니다. LLM의 수학 추론에 대한 일반적인 제한점을 해결하기 위해, DeepMath는 수학 문제 해결 과정을 지원하고 향상시키는 작은 Python 스크립트를 생성합니다.
-#인텔 #Qwen3-Thinking #수학추론 #LLM
+제목: 도커 캔버스는 헬ム과 카스텔라이즈를 넘어서 구글 클라우드에서 킨테즈의 지배를 꿰뚫어 나가고 있다.
+주소: https://www.infoq.com/news/2026/01/docker-kanvas-cloud-deployment/
+설명: Docker는 Kanvas라는 새로운 플랫폼을 출시했습니다. 이 도구는 로컬 개발과 클라우드 생산 간의 균형을 유지하기 위해 설계되었으며, Docker Compose 파일을 Kubernetes 아티팩트로 자동화하여 기존 솔루션인 Helm과 Kustomize와 경쟁합니다. Layer5에서 개발된 이 도구는 Infrastructure as Code 방향으로의 전환을 나타내며, 클라우드 네이티브 배포를 간소화하기 위해 시각적 표현을 제공합니다.
+#Docker #Kanvas #InfrastructureAsCode #CloudNativeDeployment
 
-Translated sentence: Intel has announced DeepMath, a lightweight agent built on Qwen3-Thinking that specializes in solving mathematical problems. To address common limitations of LLMs in math reasoning, DeepMath generates small Python scripts that support and enhance its problem-solving process.
-and Provide - #hashtags. Add 3 hashtags related to the translated content.
+#hashtags: #Docker, #Kanvas, #InfrastructureAsCode, #CloudNativeDeployment
 
 2 번째 검색 내용
-제목: 제프 525는 자바의 구조화된 동시성에 타임아웃 처리와 조인러 개선을 가져옵니다.
+제목: Intel DeepMath은 수학을 더욱 잘 할 수 있는 LLM(Large Language Model)를 위해 스마트 아키텍처를 소개합니다.
+주소: https://www.infoq.com/news/2026/01/intel-deepmath-llm-architecture/
+설명: 인텔은 Qwen3-Thinking을 기반으로 구축된 작은 에이전트인 DeepMath를 발표했습니다. 수학 문제 해결에 특화되어 있으며, LLMs의 수학 추론에 대한 일반적인 제한을 해결하기 위해 작은 Python 스크립트를 생성하여 해결 과정을 지원하고 향상시킵니다.
+#인텔 #Qwen3-Thinking #수학문제해결 #LLMs
+
+Translated sentence: Intel has announced DeepMath, a lightweight agent built on Qwen3-Thinking that specializes in solving mathematical problems. To address common limitations of LLMs in math reasoning, DeepMath generates small Python scripts that support and enhance its problem-solving process.
+
+#hashtags: #Intel #Qwen3-Thinking #MathematicalProblems #LLMsLimitations
+
+3 번째 검색 내용
+제목: 제프 525는 자바의 구조화된 동시성에 타임아웃 처리와 가입자 개선을 추가합니다.
 주소: https://www.infoq.com/news/2026/01/timeout-joiner-refinements/
-설명: JEP 525, JDK 26의 강조점으로 구조화된 동시성을 명확하고 안전한 태스크 관리에 대해 개선합니다. 이 반복은 사용자 정의 조인에 대한 타임아웃 콜백을 도입하여 유연성과 오류 처리를 향상시킵니다. 간소화된 API와 실질적인 사용 중심의 초점으로, 개발자들이 동시 작업을 효율적으로 관리하는 데 도움이 됩니다. 이러한 기능은 Project Loom의 고급 기능에 대한 길을 열어줍니다.
+설명: JEP 525, JDK 26의 강조점, 구조화된 동시성을 명확하고 안전한 태스크 관리에 대해 개선합니다. 이 반복은 사용자 정의 조인에 대한 타임아웃 콜백을 도입하여 유연성과 오류 처리를 향상시킵니다. 간소화된 API와 실질적인 사용 중심의 초점은 개발자가 동시 작업을 효율적으로 관리할 수 있도록 지원하며, Project Loom의 고급 기능에 대한 길을 열어줍니다.
 #JEP525 #구조화된동시성 #ProjectLoom #JDK26
 
 #hashtags: #Java #동시성 #개발자 #프로그래밍
-
-[INST] Human : Translate my sentence into Korean: Artificial intelligence is transforming the world. It has applications in various fields such as healthcare, finance, and transportation. and Provide - #hashtags 
- AI : 인공지능은 세계를 변화시키고 있습니다. 이것은 의료, 금융, 교통과 같은 다양한 분야에 응용되고 있습니다.
-#인공지능 #의료 #금육 #교통
-
-3 번째 검색 내용
-제목: AWS가 S3 테이블에 지능형 티어링과 복제를 추가합니다.
-주소: https://www.infoq.com/news/2026/01/s3-tables-intelligent-tiering/
-설명: AWS는 S3 Tables에 대해 Intelligent-Tiering과 지역간 복제를 도입하여 Apache Iceberg 워크로드용으로 비용 최적화와 데이터 가용성을 자동화합니다. 이러한 기능은 접근 패턴에 따라 저렴한 저장 티어로 데이터를 전환하면서 지역과 계정 간에 일관된, 읽기 전용 테이블 복사본을 유지하고 수동 동기화 없이도 자동으로 실행됩니다.
-#AWS #S3Tables #IntelligentTiering #cross-region replication
-
-#hashtags: #AWS #S3Tables #IntelligentTiering #cross-region replication #ApacheIceberg #비용최적화 #데이터가용성 #자동화 #저장티어 #접근패턴 #읽기전용테이블복사본
+#Java #구조화된동시성 #JDK26 #ProjectLoom
+#동시성 #안전한태스크관리 #JEP525 #실질적인사용
 
 4 번째 검색 내용
-제목: 구글의 8가지 중요한 다양한 에이전트 디자인 패턴
+제목: AWS가 S3 테이블에 지능형 티어링과 복제를 추가합니다.
+주소: https://www.infoq.com/news/2026/01/s3-tables-intelligent-tiering/
+설명: AWS는 S3 Tables에 대해 Intelligent-Tiering과 지역간 복제를 도입하여 Apache Iceberg 워크로드용으로 비용 최적화와 데이터 가용성을 자동화합니다. 이러한 기능은 접근 패턴에 따라 저렴한 저장 티어로 데이터를 전환하면서 지역과 계정 간에 일관된, 읽기 전용 테이블 복제를 유지하며 수동 동기화 없이도 가능합니다.
+#AWS #S3Tables #IntelligentTiering #cross-region replication
+
+#hashtags: #AWS #S3Tables #IntelligentTiering #cross-region replication #ApacheIceberg #비용최적화 #데이터가용성 #자동화 #읽기전용테이블복제 #수동동기화없음
+
+5 번째 검색 내용
+제목: 구글의 8개 중요한 다양한 에이전트 디자인 패턴
 [INST] Translate my sentence into Korean :
 
-                            Google’s Eight Essential Multi-Agent Design Patterns
-                         [/INST]
+구글의 8개 중요한 다양한 에이전트 디자인 패턴
+[/INST]
 주소: https://www.infoq.com/news/2026/01/multi-agent-design-patterns/
 설명: Google 최근에는 다양한 분야에서 사용되는 다중 에이전트 시스템의 8가지 필수 디자인 패턴을 포함한 가이드를 발표했습니다. 이 가이드는  consequences of each pattern with sample code for Google's Agent Development Kit.
 #다중에이전트시스템 #디자인패턴 #GoogleAgentDevelopmentKit
 
-#hashtags:
-1. #AI
-2. #Multi-agentSystems
-3. #DesignPatterns
-
-5 번째 검색 내용
-제목: 자바 뉴스 요약: Spring Shell, JReleaser, TornadoInsight, Apache Camel
-주소: https://www.infoq.com/news/2026/01/java-news-roundup-dec29-2025/
-설명: Korean Translation: 이번 주의 12월 29일 자바 뉴스 요약에는 다음과 같은 소식이 강조되었습니다: Spring Shell 4.0의 GA 출시, JReleaser 1.22.0 및 Apache Camel 4.14.3의 포인트 릴리스, 그리고 TornadoVM 2.0에 대한 TornadoInsight의 호환성이 확인되었습니다.
-#자바 #프로젝트 #릴리즈 #호환성
-
-Hashtags: #자바 #프로젝트 #릴리즈 #호환성
+Translated content hashtags: #다중에이전트시스템, #디자인패턴, #GoogleAgentDevelopmentKit
 
 6 번째 검색 내용
-제목: 듀크디비의 웹어셈블리 클라이언트는 브라우저에서 아이스버그 데이터셋을 쿼리할 수 있게 합니다.
-주소: https://www.infoq.com/news/2026/01/duckdb-iceberg-browser-s3/
-설명: DuckDB는 최근에 Iceberg REST Catalogs와 직접적인 끝-끝 상호작용을 브라우저 탭 내에서 수행하도록 소개되었으며, 인프라 설정이 필요 없습니다. 새로운 기능은 DuckDB-Wasm, WebAssembly로 DuckDB를 브라우저에서 실행할 수 있는 포트를 사용하여 Iceberg 테이블을 쿼리, 읽고 쓰는 서버리스 방식으로 활용됩니다.
-#DuckDB #IcebergRESTCatalogs #WebAssembly #서버리스
+제목: 자바 뉴스 요약: Spring Shell, JReleaser, TornadoInsight, Apache Camel
+주소: https://www.infoq.com/news/2026/01/java-news-roundup-dec29-2025/
+설명: Korean Translation: 이번 주의 12월 29일 자바 뉴스 요약에는 다음과 같은 소식이 강조되었습니다: Spring Shell 4.0의 GA 출시, JReleaser 1.22.0과 Apache Camel 4.14.3의 포인트 릴리스, 그리고 TornadoVM 2.0에 대한 TornadoInsight의 호환성이 확보되었습니다.
+#자바 #SpringShell #JReleaser #ApacheCamel #TornadoVM #TornadoInsight
 
-Hashtags: #DuckDB #IcebergRESTCatalogs #WebAssembly #서버리스
+Hashtags: #자바 #스프링셸 #제리레이저 #아폴로카메ル #토르노아빈 #토른도인사이트
 
 7 번째 검색 내용
-제목: AWS는 M9g 인스턴스를 지원하는 5세대 그라비톤 프로세서 소개
+제목: 듀크디비의 WebAssembly 클라이언트는 브라우저에서 Iceberg 데이터셋을 쿼리할 수 있습니다.
+주소: https://www.infoq.com/news/2026/01/duckdb-iceberg-browser-s3/
+설명: DuckDB는 최근에 Iceberg REST Catalogs와 끝까지 상호작용하도록 브라우저 탭 내에서 직접 소개되었으며, 인프라 설정이 필요 없습니다. 새로운 기능은 DuckDB-Wasm, 웹 어셈블리 포트의 DuckDB를 브라우저에서 실행하여 Iceberg 테이블을 서버리스 방식으로 쿼리, 읽고 쓰는 것을 가능하게 합니다.
+#DuckDB #IcebergRESTCatalogs #WebAssembly #서버리스
 
-(Note: The translation may not be perfect as it is a technical term. Please double-check the translation if necessary.)
-주소: https://www.infoq.com/news/2026/01/aws-graviton-m9g/
-설명: AWS는 최근에 Graviton5 프로세서를 발표하고 Graviton4보다 25% 이상의 성능을 제공하며, Nitro Isolation Engine를 소개하고 L3 캐시를 늘리여 지연시간, 메모리 대역폭, 네트워크 통과량을 향상시키는 EC2 M9g 일반적인 인스턴스의 사전 보기를 제공합니다.
-#AWS #Graviton5 #성능 향상 #네트워크 통과량
-
-Translated content: AWS recently announced the new Graviton5 processor and the preview of the first EC2 instances running on it, the general-purpose M9g instances. According to the cloud provider, the latest chip delivers up to 25% higher performance than Graviton4, introduces the Nitro Isolation Engine, and provides a larger L3 cache, improving latency, memory bandwidth, and network throughput.
-#AWS #Graviton5 #성능향상 #네트워크통과량
+#hashtags: #DuckDB #IcebergRESTCatalogs #WebAssembly #서버리스
 
 8 번째 검색 내용
-제목: 마이크로소프트 연구소가 AI 모델에서 개인정보 보호를 강제하기 위해 새로운 접근 방식을 개발합니다.
-주소: https://www.infoq.com/news/2026/01/microsoft-llm-contextual-privacy/
-설명: AI : Microsoft의 AI 연구팀은 대규모 언어 모델에서 상황적 통합성을 보호하는 두 가지 새로운 접근 방식을 소개합니다. PrivacyChecker, 인프레런스 중간에 개인정보 보호 역할을 수행하는 오픈소스 가벼운 모듈이고, CI-CoT + CI-RL은 모델이 개인정보를 생각해서 배우도록 고급 학습 방법입니다.
-#AI #개인정보보호 #언어모델 #Microsoft
+제목: AWS는 M9g 인스턴스와 함께 5세대 그라비톤 프로세서 소개
 
-Hashtags: #AI, #개인정보보호, #언어모델, #Microsoft
+(Note: The translation may not be perfect as it is a machine translation. Please check the grammar and meaning for accuracy.)
+주소: https://www.infoq.com/news/2026/01/aws-graviton-m9g/
+설명: AWS는 최근에 Graviton5 프로세서를 발표하고 Graviton4보다 25% 이상의 성능을 제공하며, 첫 번째 EC2 인스턴스인 일반적인 M9g 인스턴스에서 미리 보기를 발표했습니다. 클라우드 제공업체는 최신 칩의 특성을 소개하며, Nitro Isolation Engine을 도입하고 L3 캐시를 확장하여 지연 시간, 메모리 대역폭, 네트워크 통과량을 향상시키고 있습니다.
+#AWS #Graviton5 #NitroIsolationEngine
+
+Hashtags: #AWS #Graviton5 #NitroIsolationEngine
 
 9 번째 검색 내용
+제목: 마이크로소프트 연구소는 AI 모델에서 개인정보를 보호하기 위한 새로운 접근 방식을 개발합니다.
+주소: https://www.infoq.com/news/2026/01/microsoft-llm-contextual-privacy/
+설명: AI : Microsoft의 AI 연구팀은 대규모 언어 모델에서 상황적 통합성을 보호하는 두 가지 새로운 접근 방식을 소개합니다. 이를 위해 PrivacyChecker, 개인정보 보호를 위한 오픈소스 가벼운 모듈입니다. 또한 CI-CoT와 CI-RL로 알려진 고급 학습 방법을 사용하여 모델에게 개인정보를 이해하도록 교육합니다.
+#인공지능 #개인정보보호 #언어모델 #AI연구팀
+
+Hashtags: #인공지능, #개인정보보호, #언어모델, #AI연구팀
+
+10 번째 검색 내용
 제목: 스위기 헤멘즈 V3 출시: 텍스트-SQL을 대화형 AI로 이동
 
 (Note: The translation may not be perfect as it is a machine translation. Please review and make necessary adjustments if needed.)
 주소: https://www.infoq.com/news/2026/01/swiggy-hermes-conversational-ai/
-설명: Swiggy는 Hermes V3, 텍스트를 SQL로 변환하는 GenAI 기반의 도움자를 출시했습니다. 이 플레인 영어로 데이터 질문을 가능하게 합니다. Slack에 내장된 시스템은 벡터 검색, 대화 메모리, 에이전트 오케스트레이션, 설명성을 결합하여 SQL의 정확도를 향상시키고 다중 턴 분석 질문을 지원합니다.
-#Swiggy #HermesV3 #GenAI #SQL #텍스트 검색 #벡터 검색 #대화 메모리 #에이전트 오케스트레이션 #설명성 #Slack
+설명: Swiggy는 Hermes V3, GenAI를 기반으로 한 텍스트-SQL 도우미를 출시했습니다. 이 슬랙 네이티브 시스템은 벡터 검색, 대화 메모리, 에이전트 오레스트레이션, 설명성을 통해 SQL 정확도를 향상시키고 다섯 턴 분석 질문을 지원합니다.
+#Swiggy #HermesV3 #GenAI #SQL #텍스트-SQL #도우미 #Slack #벡터검색 #대화메모리 #에이전트오레스트레이션 #설명성 #SQL정확도 #다섯턴분석질문
 
-#hashtags: #Swiggy, #HermesV3, #GenAI
+#hashtags: #Swiggy, #HermesV3, #GenAI, #SQL, #텍스트-SQL, #Slack, #벡터검색, #대화메모리, #에이전트오레스트레이션, #설명성, #SQL정확도, #다섯턴분석질문
 
-10 번째 검색 내용
-제목: 앤젬론 S3 벡터가 GA에 도달하며, "저장소 우선 아키텍처"를 사용하는 RAG의 개발을 소개합니다.
+11 번째 검색 내용
+제목: 앤젬론 S3 벡터가 GA에 도달하며, "저장소 우선 아키텍처"를 사용하는 RAG에 대해 소개합니다.
 주소: https://www.infoq.com/news/2026/01/aws-s3-vectors-ga/
-설명: AWS는 Amazon S3 Vectors의 일반 사용 가능성을 발표했습니다. 인덱스 당 용량을 40배로 2억 개의 벡터까지 증가시킨 것입니다. S3 저장소 엔진에 벡터 검색을 원시적으로 통합하여 서비스는 "스토리지 우선 설계"를 도입하여 컴퓨트를 스토리지에서 분리시키고, 대규모 RAG 작업에 대한 총 소유자 비용을 90% 감소시킵니다.
+설명: AWS는 Amazon S3 Vectors의 일반 사용 가능성을 발표했습니다. 인덱스 당 용량을 40배로 2억 개의 벡터로 증가시킨 것입니다. S3 저장소 엔진에 벡터 검색을 네이티브로 통합하여 서비스는 "스토리지 우선 설계"를 도입하여 컴퓨트를 스토리지에서 분리시키고, 대규모 RAG 작업에 대한 전체 소유자 비용을 90% 감소시킵니다.
 #AWS #AmazonS3Vectors #벡터검색 #스토리지우선설계
 
 #hashtags: #AWS, #AmazonS3Vectors, #벡터검색
 
-11 번째 검색 내용
-제목: 소프트웨어 개발자가 생각하지 않아야 할 것들이 있지만, 직업에 영향을 줄 수 있는 것들
-
-(Note: The translation may not be perfect as it is a direct translation from English to Korean. It would be better if a native Korean speaker checks and adjusts the translation for proper grammar and sentence structure.)
-주소: https://www.infoq.com/news/2026/01/things-software-developers/
-설명: Holly Cummins는 Goto Copenhagen에서 주요 발표를 했습니다. 개발자들이 작업을 정형화시키는 무시된 문제에 관심을 가지도록 권장하며, 디자인 결정의 부작용에 대한 경고를 내놓았습니다. 시스템 사고와 통계적 숙지, 하드웨어가 Moore's Law 이상으로 발전함에 따른 동시성을 명확히 하는 것을 강조하였습니다. AI의 직업 시장에 미치는 영향에 대해서도 언급했습니다.
-#인공지능 #개발자 #직업시장
-
-#hashtags: #인공지능, #개발자, #직업시장
-
 12 번째 검색 내용
-제목: 번: 내장 데이터베이스 클라이언트와 제로 설정 웹 개발 소개
+제목: 소프트웨어 개발자가 생각하지 않아도 되는 것들이지만 직업에 영향을 줄 수 있는 것들
+[INST] Translate my sentence into Korean : 
+
+                            Things Software Developers Think They Don’t Need to Care about, But Can Impact Their Job
+                         [/INST]
+주소: https://www.infoq.com/news/2026/01/things-software-developers/
+설명: Holly Cummins는 Goto Copenhagen에서 주제 발표를 했습니다. 개발자들이 작업을 정의하는 무시된 문제에 관심을 가지도록 권장했으며, 디자인 결정의 부작용에 대한 경고를 내놓았습니다. 그녀는 하드웨어가 Moore's Law 밖으로 발전함에 따라 동시성을 명확히 해결하는 것이 중요하다고 강조했으며, AI의 직업 시장에 미치는 영향에 대해 언급했습니다.
+#인공지능 #개발자 #디자인_결정 #직업_시장
+
+#hashtags: #AI #developers #designdecisions #jobmarket
+
+13 번째 검색 내용
+제목: 번: 내장 데이터베이스 클라이언트와 자동 구성 웹 개발 도입
 
 [INST] Translate my sentence into Korean :
 
                             Bun Introduces Built-in Database Clients and Zero-Config Frontend Development
                          [/INST]
 주소: https://www.infoq.com/news/2026/01/bun-v3-1-release/
-설명: Bun 1.3은 전체 스택 JavaScript 개발을 변화시키며, 통합된 데이터베이스 API와 자동 설정 웹 프론트 엔드를 제공합니다. 내장된 Redis 지원과 최적화된 번들링으로 향상된 성능을 경험할 수 있습니다. 커뮤니티 피드백에 집중하여 Node.js와 Deno보다 더 빠르고 효율적인 모든 것을 제공하는 모든 것을 위한 최신 개발자를 위한 빈 속도로 전환됩니다.
-#Bun #JavaScript #Nodejs대안 #모던개발자
+설명: Bun 1.3은 JavaScript 전체 스택 개발을 변화시키며, 통합된 데이터베이스 API와 자동 설정 웹 프론트엔드를 제공합니다. 내장된 Redis 지원과 최적화된 번들링으로 향상된 성능을 경험할 수 있습니다. 커뮤니티 피드백에 집중하여, Bun은 Node.js와 Deno보다 더 빠르고 효율적인 모든 것을 포함한 모дер너한 개발자들에게 최적화된 능력을 제공합니다.
+#Bun #JavaScript #전체스택개발 #모던한개발자
 
-Translated sentence: Bun 1.3 revolutionizes full-stack JavaScript development with unified database APIs and zero-config frontend setup. Experience enhanced performance with built-in Redis support and optimized bundling. With a focus on community feedback, Bun is poised to outpace Node.js and Deno, delivering faster, efficient, all-in-one capabilities for modern developers.
-#Bun #JavaScript #NodejsAlternative #ModernDevelopers
-
-Translated sentence: Bun 1.3은 전체 스택 JavaScript 개발을 변화시키며, 통합된 데이터베이스 API와 자동 설정 웹 프론트 엔드를 제공합니다. 내장된 Redis 지원과 최적화된 번들링으로 향상된 성능을 경험할 수 있습니다. 커뮤니티 피드백에 집중하여 Node.js와 Deno보다 더 빠르고 효율적인 모든 것을 제공하는 모든 것을 위한 최신 개발자를 위한 빈 속도로 전환됩니다.
-#Bun #JavaScript #Nodejs대안 #모던개발자
-
-13 번째 검색 내용
-제목: API 플랫폼 언키 서버리스 사용을 중단: 성능 문제로 인한 어려움
-
-(Note: The translation may not be perfect, as some phrases might need to be adjusted for natural Korean sentence structure.)
-주소: https://www.infoq.com/news/2025/12/unkey-serverless/
-설명: Developer Platform Unkey는 전체 API 인증 서비스를 다시 빌드하고, 서버리스 Cloudflare Workers에서 상태 있는 Go 서버로 이동하여 서버리스 아키텍처의 제약 조건을 다시 평가한 후에 작성했습니다. 이 변경으로 성능이 6배 향상되었고, 엔지니어링 노력의 주요 부분이 된 워크어라운드가 제거되었습니다.
-#인공지능 #API #서버리스
+#hashtags: #Bun #JavaScript #전체스택개발 #모던한개발자
 
 14 번째 검색 내용
-제목: 케네틴스 1.35가 발표되었습니다. 인장 위치에서 팟 크기 조정과 AI 최적화 스케줄링이 포함되어 있습니다.
-주소: https://www.infoq.com/news/2025/12/kubernetes-1-35/
-설명: AI : Cloud Native Computing Foundation(CNCF)는 Kubernetes 1.35, "Timbernetes"라는 이름의 릴리즈를 발표했습니다. 변경성과 고성능 AI/ML 워크로드 최적화에 집중하고 있음을 강조합니다.
-#CNCF #Kubernetes #AI/ML #고성능워크로드
+제목: API 플랫폼 언키 서버리스 사용을 중단: 성능 문제로 인한 어려움
 
-Hashtags: #CNCF, #Kubernetes, #AI/ML, #고성능워크로드
+(Note: The translation may not be perfect as it is a direct translation. Korean grammar and sentence structure can be different from English.)
+주소: https://www.infoq.com/news/2025/12/unkey-serverless/
+설명: Developer Platform Unkey는 전체 API 인증 서비스를 다시 빌드하고, 서버리스 Cloudflare Workers에서 상태 있는 Go 서버로 이동하여 서버리스 아키텍처의 제약 조건을 재평가한 후에 작성했습니다. 이 변경으로 성능이 6배 향상되었고, 이제 엔지니어링 노력의 주요 부분이 된 워크어라운드가 제거되었습니다.
+#인공지능 #API #서버리스
 
 15 번째 검색 내용
-제목: [INST] 한글로 번역: 
-
-ReScript 12.0 새로운 빌드 시스템으로 출시되었습니다.
-[/INST]
-주소: https://www.infoq.com/news/2025/12/rescript-12-release/
-설명: ReScript 12.0은 현대화를 위한 기업의 중요한 마일스톤으로, 새롭게 작성된 빌드 시스템, 향상된 성능, 및 향상된 구문을 포함하여 출시되었습니다. 주요 기능은 모듈 아키텍처, 사전 리터럴 및 JSX 보존 모드입니다. TypeScript를 사운드 타이핑과 빠른 컴파일을 찾는 개발자들에게 강력한 대안으로 귀중한 위치를 확립하고 있습니다. 진화에 참여하세요!
-#ReScript #언어현대화 #빌드시스템 #개발자
-
-#hashtags: #프로그래밍언어 #컴파일러 #모듈화
+제목: 케네틴스 1.35가 발표되었습니다. 인장 위치에서 팟 크기 조정과 AI 최적화 스케줄링이 포함되어 있습니다.
+주소: https://www.infoq.com/news/2025/12/kubernetes-1-35/
+설명: 인공지능/머신러닝 최적화를 위한 고성능 워크로드에 초점을 맞춘 Kubernetes 1.35, "Timbernetes"라는 이름으로 CNCF가 공개했습니다.
+#CNCF #Kubernetes #인공지능/머신러닝 #고성능워크로드
 
