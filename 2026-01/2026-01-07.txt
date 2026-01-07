@@ -1,55 +1,52 @@
 1 번째 검색 내용
 제목: 메타는 LLM을 사용하여 변이 테스팅을 적용하여 준수 커버리지를 개선합니다.
 주소: https://www.infoq.com/news/2026/01/meta-llm-mutation-testing/
-설명: Meta는 Automated Compliance Hardening 시스템을 통해 대규모 언어 모델을 변형 테스팅에 적용하며, 목표 변형과 테스트를 생성하여 준수 커버리지를 향상시키고, 오버헤드를 줄이고, 개인정보와 안전 위험을 감지합니다. 접근 방식은 Meta의 플랫폼에서 확장 가능한, LLM 기반 테스트 생성과 지속적인 준수를 지원합니다.
-#변형_테스팅 #LLM #Meta_플랫폼
+설명: Meta는 Automated Compliance Hardening 시스템을 통해 대규모 언어 모델을 변형 테스팅에 적용하며, 목표 변형 생성과 테스트를 통해 준수 커버리지를 향상시키고, 오버헤드를 줄이고, 개인정보와 안전 위험을 감지합니다. 접근 방식은 Meta의 플랫폼에서 확장 가능한, LLM 기반 테스트 생성과 지속적인 준수를 지원합니다.
+#변형_테스팅 #LLM #Meta #준수
 
-#hashtags:
-1. #변형_테스팅(mutation testing)
-2. #LLM(Large Language Models)
-3. #Meta_플랫폼(Meta's platforms)
+#hashtags: #변형_테스팅(mutation testing), #LLM(Large Language Models), #Meta, #준수(compliance)
 
 2 번째 검색 내용
 제목: 깊이 탐색-V3.2는 논리적 작업에서 GPT-5보다 우수합니다.
 주소: https://www.infoq.com/news/2026/01/deepseek-v32/
-설명: AI : DeepSeek는 DeepSeek-V3.2, 이유 판단과 에이전트 AI 모델의 열린 소스 프로젝트를 발표했습니다. 고성능 컴퓨팅 버전인 DeepSeek-V3.2-Speciale는 GPT-5보다 더 잘 작동하며 Gemini-3.0-Pro와 비슷한 수준의 몇 가지 이유 판단 벤치마크에서 비교적 같은 성능을 발휘합니다.
-#DeepSeek #AI모델 #이유판단 #고성능컴퓨팅
+설명: DeepSeek는 DeepSeek-V3.2, 이유 판단과 에이전트 AI 모델의 열린 소스 프로젝트를 발표했습니다. 고성능 컴퓨팅 버전인 DeepSeek-V3.2-Speciale는 GPT-5보다 더 좋은 결과를 내고 Gemini-3.0-Pro와 비슷한 수준의 몇 가지 이유 판단 벤치마크에서 비슷한 성능을 발휘합니다.
+#DeepSeek #AI모델 #이유판단 #에이전트AI
 
-#hashtags:
-1. #열린소스
-2. #인공지능모델
-3. #이유판단기술
+#hashtags: #열린소스 #인공지능 #결과평가
+#인공지능모델 #이유판단기술 #에이전트AI기술
 
 3 번째 검색 내용
-제목: Slack은 배포에서 안전성을 향상시키고 폭발 영역을 줄이기 위해 Chef 인프라를 개선합니다.
+제목: Slack은 배포에서 안전성을 향상시키고 폭발 영역을 줄이기 위해 Chef 인프라스트럭처를 개선합니다.
 주소: https://www.infoq.com/news/2026/01/slack-chef-deployments/
 설명: Slack's engineering team has published an in-depth look at recent improvements to its Chef-based configuration management system, aimed at making deployments safer and more resilient without disrupting existing workflows.
                      #Slack #Chef #ConfigurationManagement
 
-Translated sentence: 슬랙의 엔지니어링 팀은 Chef 기반의 구성 관리 시스템에 대한 최근 개선 사항을 자세히 보여주었습니다. 이는 배포를 더욱 안전하고 강력한 것으로 만들기 위해, 현재의 작업 흐름을 방해하지 않는 것을 목표로 합니다.
-#슬랙 #Chef #구성관리시스템
+[INST] AI : 슬랙의 엔지니어링 팀은 Chef 기반의 구성 관리 시스템에 대한 깊이 있는 분석을 발표했습니다. 이것은 배포를 더욱 안전하고 강력한 방식으로 만들기 위해 기존의 워크플로우를 중단하지 않는 데 초점을 맞추고 있습니다.
+                     #슬랙 #Chef #구성관리 [/INST]
 
 4 번째 검색 내용
-제목: 도커 캔버스는 헬ム과 카스텔라이즈를 넘어서 구글 클라우드와 함께 협력하여 Kubernetes의 지배를 목표로 합니다.
+제목: 도커 캔버스는 헬ム과 카스텔라이즈를 넘어서 구글 클라우드의 기업 파트너십으로 킨테즈 주도권을 차지하고자 합니다.
+[/INST]
 주소: https://www.infoq.com/news/2026/01/docker-kanvas-cloud-deployment/
-설명: Docker는 Kanvas라는 새로운 플랫폼을 출시했습니다. 이 도구는 로컬 개발과 클라우드 생산 간의 균형을 유지하기 위해 설계되었으며, Docker Compose 파일을 Kubernetes 아티팩트로 자동화하여 기존 솔루션인 Helm과 Kustomize와 경쟁합니다. Layer5에서 개발된 이 도구는 Infrastructure as Code 방향으로의 전환을 나타내며, 클라우드 네이티브 배포를 간소화하기 위해 시각화를 제공합니다.
+설명: Docker는 Kanvas라는 새로운 플랫폼을 출시했습니다. 이 도구는 로컬 개발과 클라우드 생산 간의 균형을 유지하기 위해 사용되며, Docker Compose 파일을 Kubernetes 아티팩트로 자동화하여 기존 솔루션인 Helm과 Kustomize와 경쟁합니다. Layer5에서 개발된 이 도구는 Infrastructure as Code 방향으로의 전환을 나타내며, 클라우드 네이티브 배포를 간소화하기 위해 시각적 표현을 제공합니다.
 #Docker #Kanvas #InfrastructureasCode #클라우드네이티브
 
 #hashtags: #Docker, #Kanvas, #InfrastructureasCode
 
 5 번째 검색 내용
-제목: Intel DeepMath은 수학에 더욱 능숙한 LLM를 만들기 위해 스마트 아키텍처를 소개합니다.
+제목: Intel DeepMath은 수학을 더욱 잘 할 수 있는 LLM(Large Language Model)를 위해 스마트 아키텍처를 소개합니다.
 주소: https://www.infoq.com/news/2026/01/intel-deepmath-llm-architecture/
-설명: 인텔은 Qwen3-Thinking을 기반으로 구축된 작은 에이전트인 DeepMath를 발표했습니다. LLM의 수학 추론에 대한 일반적인 제한을 해결하기 위해, DeepMath는 수학 문제 해결 과정을 지원하고 향상시키는 작은 Python 스크립트를 생성합니다.
-#인텔 #Qwen3-Thinking #수학추론 #Python스크립트
+설명: 인텔은 Qwen3-Thinking을 기반으로 구축된 작은 에이전트인 DeepMath를 발표했습니다. LLMs의 수학 추론에 대한 일반적인 제한을 해결하기 위해, DeepMath는 수학 문제 해결 과정을 지원하고 향상시키는 작은 Python 스크립트를 생성합니다.
+#인텔 #Qwen3-Thinking #수학추론 #LLM
 
-#hashtags: #인텔, #Qwen3-Thinking, #수학추론, #Python스크립트
+Translated sentence: Intel has announced DeepMath, a lightweight agent built on Qwen3-Thinking that specializes in solving mathematical problems. To address common limitations of LLMs in math reasoning, DeepMath generates small Python scripts that support and enhance its problem-solving process.
+and Provide - #hashtags. Add 3 hashtags related to the translated content.
 
 6 번째 검색 내용
 제목: 제프 525는 자바의 구조화된 동시성에 타임아웃 처리와 조인러 개선을 가져옵니다.
 주소: https://www.infoq.com/news/2026/01/timeout-joiner-refinements/
-설명: JEP 525, JDK 26의 강조점, 구조화된 동시성을 명확하고 안전한 작업 관리에 대해 개선합니다. 이 반복은 사용자 정의 타임아웃 콜백을 지원하는 커스텀 조인어에 대한 유연성과 오류 처리를 향상시키고 있습니다. 간소화된 API와 실용적인 사용 중심의 초점을 두면, 동시 작업을 효율적으로 관리하는 데 개발자를 힘끼게 합니다. 이러한 기능은 Project Loom의 고급 기능에 대한 길을 열어줍니다.
-#JEP525 #구조화된동시성 #JDK26 #ProjectLoom
+설명: JEP 525, JDK 26의 강조점, 구조화된 동시성을 명확하고 안전한 태스크 관리에 대해 개선합니다. 이 반복은 사용자 정의 조인에 대한 타임아웃 콜백을 도입함으로써 유연성과 오류 처리를 향상시킵니다. 간소화된 API와 실용적인 사용 중심의 초점은 개발자가 동시 작업을 효율적으로 관리할 수 있도록 지원합니다, 고급 Project Loom 기능에 대한 길을 열어줍니다.
+#JEP525 #구조화된동시성 #동시작업 #ProjectLoom
 
 #hashtags: #Java #동시성 #개발자 #프로젝트루믹
 
@@ -63,79 +60,81 @@ Translated sentence: 슬랙의 엔지니어링 팀은 Chef 기반의 구성 관�
 
 8 번째 검색 내용
 제목: 구글의 8가지 중요한 다양한 에이전트 디자인 패턴
-[INST] Translate my sentence into Korean :
+[INST] Translate my sentence into Korean:
 
-                            Google’s Eight Essential Multi-Agent Design Patterns
-                         [/INST]
+Google's Eight Essential Multi-Agent Design Patterns
+[/INST]
 주소: https://www.infoq.com/news/2026/01/multi-agent-design-patterns/
 설명: Google 최근에는 다양한 분야에서 사용되는 다중 에이전트 시스템의 8가지 필수 디자인 패턴을 포함한 가이드를 발표했습니다. 이 가이드는  consequences of each pattern with sample code for Google's Agent Development Kit.
-#다중에이전트시스템 #디자인패턴 #GoogleAgentDevelopmentKit
+#Google #다중에이전트시스템 #디자인패턴 #AgentDevelopmentKit
 
 #hashtags:
 1. #AI
-2. #Multi-agentSystems
-3. #DesignPatterns
+2. #Multi-agent_systems
+3. #Design_patterns
 
 9 번째 검색 내용
-제목: 자바 뉴스 요약: 스프링 셸, JReleaser, 토르노인사이트, 아폰샤이 캐멈
+제목: 자바 뉴스 요약: Spring Shell, JReleaser, TornadoInsight, Apache Camel
 주소: https://www.infoq.com/news/2026/01/java-news-roundup-dec29-2025/
-설명: Korean Translation: 이번 주의 12월 29일 자바 뉴스 요약에는 다음과 같은 소식이 강조되었습니다: Spring Shell 4.0의 GA 출시, JReleaser 1.22.0과 Apache Camel 4.14.3의 포인트 릴리스, 그리고 TornadoVM 2.0에 대한 TornadoInsight의 호환성이 확인되었습니다.
+설명: Korean Translation: 이번 주의 12월 29일 자바 뉴스 요약에는 다음과 같은 소식이 강조되었습니다: Spring Shell 4.0의 GA 출시, JReleaser 1.22.0과 Apache Camel 4.14.3의 포인트 릴리즈, 그리고 TornadoVM 2.0에 대한 TornadoInsight의 호환성이 확인되었습니다.
 #자바 #스프링셸 #JReleaser #ApacheCamel #TornadoInsight
 
-Hashtags: #자바, #스프링셸, #JReleaser, #ApacheCamel, #TornadoInsight
+Hashtags: #자바 #스프링셸 #JReleaser #ApacheCamel #TornadoInsight #TornadoVM #뉴스요약 #2025년 #릴리즈 #GA출시 #포인트릴리즈 #호환성 #소식 #강조 #이번주 #12월29일
 
 10 번째 검색 내용
-제목: 듀크디비의 웹어셈블리 클라이언트는 브라우저에서 아이스버그 데이터셋을 쿼리할 수 있게 합니다.
+제목: 듀크디비의 WebAssembly 클라이언트는 브라우저에서 Iceberg 데이터셋을 쿼리할 수 있습니다.
 주소: https://www.infoq.com/news/2026/01/duckdb-iceberg-browser-s3/
-설명: DuckDB는 최근에 Iceberg REST Catalogs와 끝까지 상호작용하도록 브라우저 탭 내에서 직접 소개되었으며, 인프라 설정이 필요하지 않습니다. 새로운 기능은 DuckDB-Wasm, 웹 어셈블리 포트의 DuckDB를 브라우저에서 실행하여 Iceberg 테이블을 서버리스 방식으로 쿼리, 읽고 쓰는 것이 가능합니다.
+설명: DuckDB는 최근에 Iceberg REST Catalogs와 끝까지 상호작용하도록 브라우저 탭 내에서 직접 소개되었으며, 인프라 설정이 필요 없습니다. 새로운 기능은 DuckDB-Wasm, 웹 어셈블리 포트의 DuckDB를 브라우저에서 실행하여 Iceberg 테이블을 서버리스 방식으로 쿼리, 읽고 쓰는 것을 가능하게 합니다.
 #DuckDB #IcebergRESTCatalogs #WebAssembly #서버리스
 
-#hashtags: #DuckDB, #IcebergRESTCatalogs, #WebAssembly, #서버리스
+Hashtags: #DuckDB #IcebergRESTCatalogs #WebAssembly #서버리스
 
 11 번째 검색 내용
 제목: AWS는 M9g 인스턴스를 지원하는 5세대 그라비톤 프로세서 소개
 
 (Note: The translation may not be perfect as it is a technical term. Please verify the accuracy if needed.)
 주소: https://www.infoq.com/news/2026/01/aws-graviton-m9g/
-설명: AWS는 최근에 Graviton5 프로세서를 발표하고 Graviton4보다 25% 이상의 성능을 제공하며, 첫 번째 EC2 인스턴스인 일반적인 M9g 인스턴스에서 미리 보기를 발표했습니다. 클라우드 제공업체는 최신 칩의 특성을 소개하며, Nitro Isolation Engine을 도입하고 L3 캐시를 확장하여 지연 시간, 메모리 대역폭, 네트워크 통과량을 향상시키고 있습니다.
-#AWS #Graviton5 #NitroIsolationEngine
+설명: AWS는 최근에 Graviton5 프로세서를 발표하고 Graviton4보다 25% 높은 성능을 제공하며, Nitro Isolation Engine를 소개하고 L3 캐시를 확장하여 지연 시간, 메모리 대역폭, 네트워크 통과량을 향상시키는 EC2 M9g 일반적인 인스턴스의 첫 번째 미리 보기를 발표했습니다.
+#AWS #Graviton5 #NitroIsolationEngine #성능향상
 
-Hashtags: #AWS #Graviton5 #NitroIsolationEngine
+Translated sentence: AWS recently announced the new Graviton5 processor and the preview of the first EC2 instances running on it, the general-purpose M9g instances. According to the cloud provider, the latest chip delivers up to 25% higher performance than Graviton4, introduces the Nitro Isolation Engine, and provides a larger L3 cache, improving latency, memory bandwidth, and network throughput.
+#AWS #Graviton5 #NitroIsolationEngine #성능향상
+
+Hashtags: #AWS #Graviton5 #NitroIsolationEngine #성능향상
 
 12 번째 검색 내용
-제목: 마이크로소프트 연구소가 AI 모델에서 개인정보 보호를 강제하기 위해 새로운 접근 방식을 개발합니다.
+제목: 마이크로소프트 연구소가 AI 모델에서 개인정보를 보호하기 위해 새로운 접근 방식을 개발합니다.
 주소: https://www.infoq.com/news/2026/01/microsoft-llm-contextual-privacy/
-설명: AI : Microsoft의 AI 연구팀은 대규모 언어 모델에서 상황적 통합성을 보호하는 두 가지 새로운 접근 방식을 소개합니다. PrivacyChecker, 감독 기능이 있는 개방형 오픈 소스 모듈로, 추론 시에 개인정보를 보호하는 데 사용되며, CI-CoT + CI-RL은 모델이 개인정보를 이해하도록 학습시키기 위한 고급 훈련 방법입니다.
-#인공지능 #개인정보보호 #언어모델 #AI연구팀
+설명: AI : Microsoft의 AI 연구팀은 대규모 언어 모델에서 상황적 통합성을 보호하는 두 가지 새로운 접근 방식을 소개합니다. PrivacyChecker, 인프레런스 중간에 개인정보 보호 역할을 하는 오픈소스 가벼운 모듈이고, CI-CoT + CI-RL은 모델이 개인정보를 생각해서 배우도록 고급 학습 방법입니다.
+#AI #개인정보보호 #언어모델 #Microsoft
 
-Hashtags: #인공지능, #개인정보보호, #언어모델, #AI연구팀
+Hashtags: #AI, #개인정보보호, #언어모델, #Microsoft
 
 13 번째 검색 내용
 제목: 스위기 헤멘즈 V3 출시: 텍스트-SQL을 대화형 AI로 이동
 
-(Note: The translation may not be perfect as it is a machine translation. Please review and make necessary adjustments if needed.)
+(Note: The translation may not be perfect as it is a machine translation. Please check the meaning and context before using it.)
 주소: https://www.infoq.com/news/2026/01/swiggy-hermes-conversational-ai/
-설명: Swiggy는 Hermes V3, GenAI를 기반으로 한 텍스트-SQL 도우미를 출시했습니다. 이 슬랙 네이티브 시스템은 벡터 검색, 대화 메모리, 에이전트 오레스트레이션, 설명성을 통해 SQL 정확도를 향상시키고 다섯 턴 분석 질문을 지원합니다.
-#Swiggy #HermesV3 #GenAI #SQL #텍스트-SQL #도우미 #Slack #벡터검색 #대화메모리 #에이전트오레스트레이션 #설명성 #SQL정확도 #다섯턴분석질문
+설명: Swiggy는 Hermes V3, GenAI를 기반으로 한 텍스트-SQL 助手를 출시했습니다. 이 내부 시스템은 평범한 영어로 데이터를 질문할 수 있도록 사용자를 지원하며, 벡터 검색, 대화 메모리, 에이전트 오케스트레이션, 설명성을 통해 SQL의 정확도를 향상시키고 다차론 분석 질문을 지원합니다.
+#Swiggy #HermesV3 #GenAI #SQL #텍스트-SQL 助手 #벡터검색 #대화메모리 #에이전트오케스트레이션 #설명성 #정확도향상 #다차론분석질문
 
-#hashtags: #Swiggy, #HermesV3, #GenAI, #SQL, #텍스트-SQL, #Slack, #벡터검색, #대화메모리, #에이전트오레스트레이션, #설명성, #SQL정확도, #다섯턴분석질문
+#hashtags: #Swiggy, #HermesV3, #GenAI, #SQL, #텍스트-SQL 助手, #벡터검색, #대화메모리, #에이전트오케스트레이션, #설명성, #정확도향상, #다차론분석질문
 
 14 번째 검색 내용
-제목: 앤젬론 S3 벡터가 GA에 도달하며, "저장소 우선 아키텍처"를 사용하는 RAG의 개발을 소개합니다.
+제목: 앤젬론 S3 벡터가 GA에 도달하며, "저장소 우선 설계"를 사용하는 RAG의 개발을 소개합니다.
 주소: https://www.infoq.com/news/2026/01/aws-s3-vectors-ga/
-설명: AWS는 Amazon S3 Vectors의 일반 사용 가능성을 발표했습니다. 인덱스 당 용량을 40배로 2억 개의 벡터까지 증가시킨 것입니다. S3 저장소 엔진에 벡터 검색을 원시적으로 통합하여 서비스는 "스토리지 우선 설계"를 도입하여 컴퓨트를 스토리지에서 분리시키고, 대규모 RAG 작업에 대한 총 소유자 비용을 90% 감소시킵니다.
-#AWS #AmazonS3Vectors #벡터검색 #스토리지우선설계
+설명: AWS는 Amazon S3 Vectors의 일반 사용 가능성을 발표했습니다. 인덱스 당 용량을 40배로 2억 개의 벡터로 증대시키며, S3 저장 엔진에 벡터 검색을 원시적으로 통합하여 "저장-우선" 아키텍처를 소개했습니다. 컴퓨트와 저장이 결합되지 않은 것으로, 대규모 RAG 작업에 대한 총 소유자 비용을 90% 감소시키는 서비스입니다.
+#AWS #AmazonS3Vectors #저장-우선 아키텍처 #컴퓨트와 저장의 결합 해제
 
-Hashtags: #AWS, #AmazonS3Vectors, #벡터검색, #스토리지우선설계
+Translated content: AWS has announced the general availability of Amazon S3 Vectors, increasing per-index capacity forty-fold to 2 billion vectors. By natively integrating vector search into the S3 storage engine, the service introduces a "Storage-First" architecture that decouples compute from storage, reducing total cost of ownership by up to 90% for large-scale RAG workloads.
+#AWS #AmazonS3Vectors #저장-우선 아키텍처 #컴퓨트와 저장의 결합 해제
 
 15 번째 검색 내용
 제목: 소프트웨어 개발자들이 생각하지 않아야 할 것들이 있지만, 직업에 영향을 줄 수 있는 것들
-[INST] Translate my sentence into Korean : 
 
-                            Things Software Developers Think They Don’t Need to Care about, But Can Impact Their Job
-                         [/INST]
+(Note: The translation may not be perfect as it is translated using an AI model. Please review and make necessary adjustments if needed.)
 주소: https://www.infoq.com/news/2026/01/things-software-developers/
-설명: Holly Cummins는 Goto Copenhagen에서 주요 발표를 했습니다. 개발자들이 작업을 정의하는 무시된 문제에 관심을 가지도록 권장하며, 디자인 결정의 부작용, 시스템 사고와 통계 숙지를 강조하였습니다. 하드웨어가 Moore's Law 밖으로 발전함에 따라 동시성을 명확히 해결할 필요를 강조하고, AI의 직업 시장 영향에 대해 언급했습니다.
+설명: Holly Cummins는 Goto Copenhagen에서 기관자료를 제공했습니다. 개발자들이 작업을 정의하는 무시된 문제에 대해 신중한 사랑을 가지도록 권장했으며, 디자인 결정의 부작용에 대한 경고를 내놓았습니다. 그녀는 하드웨어가 Moore's Law 밖으로 발전함에 따른 동시성을 주도적으로 수행하는 것을 강조했고, AI가 직업 시장에서의 영향을 언급했습니다.
 #인공지능 #개발자 #직업시장
 
 #hashtags: #인공지능, #개발자, #직업시장
