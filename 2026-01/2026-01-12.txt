@@ -1,136 +1,136 @@
 1 번째 검색 내용
-제목: AWS가 전송 중인 데이터의 암호화를 강제하기 위해 VPC 암호화 제어 도입
+제목: 클라우드플레어는 코드로 인프라를 확장하고 쉬프트-리트 보안 실천을 통해 보안 방어 시스템을 강화합니다.
+주소: https://www.infoq.com/news/2026/01/cloudflare-security-shift-left/
+설명: Cloudflare는 인프라센스 코드를 구현하여 자동화된 정책 적용으로 수백개의 제품 계정에서 수동 구성 오류를 제거했습니다. 매일 약 30개의 병합 요청을 처리하며, 배포 전에 보안 위반을 검출하여 발생한 사건 후에는 캐치하고 있습니다.
+#인프라센스코드 #자동화 #보안
 
-(Note: The translation may not be perfect, as some phrases might not have a direct equivalent in Korean. However, the meaning should still be conveyed.)
-주소: https://www.infoq.com/news/2026/01/aws-vpc-encryption-controls/
-설명: AWS는 최근 VPC 암호화 제어를 소개했습니다. 고객들은 이 기능을 통해 VPC 내부와 간에 교환되는 트래픽이 암호화되었는지 확인할 수 있으며, 지원되는 경우 암호화를 필요로 할 수도 있습니다. 기능은 암호화되지 않은 트래픽에 대한 시각성을 제공하고, 호환된 Nitro-기반 인프라를 사용하여 규칙 적용을 지원합니다. 암호화되지 않은 트래픽에 대한 시각성을 제공하고, 암호화가 불가능한 리소스를 제외할 수도 있습니다.
-#AWS #VPC #암호화 #트래픽
-#인프라 #Nitro #규칙 적용
+Hashtags: #인프라센스코드, #자동화, #보안
 
 2 번째 검색 내용
-제목: 내부 개발 워크플로우의 Claude Code 작성자
+제목: 사실적 정확도를 평가하기 위해 소개된 FACTS Benchmark Suite
+[INST] FACTS Benchmark Suite은 대규모 언어 모델의 사실적인 정확도를 평가하기 위해 소개되었습니다. [/INST]
+주소: https://www.infoq.com/news/2026/01/facts-benchmark-suite/
+설명: A new industry benchmark aimed at systematically evaluating the factual accuracy of LLMs has been released with the launch of the FACTS Benchmark Suite. Developed by the FACTS team in collaboration with Kaggle, the suite expands earlier work on factual grounding and introduces a broader, multi-dimensional framework for measuring how reliably language models produce factually correct responses.
+#인공지능 #FACTS #언어모델 #사실확인
 
-(Note: The translation may not be perfect as it is difficult to translate the title structure directly. However, this is a rough translation of the given sentence into Korean.)
-주소: https://www.infoq.com/news/2026/01/claude-code-creator-workflow/
-설명: Claude Code의 창성자인 Boris Cherny는 Anthropic에서 어떻게 사용하는지 설명했습니다. 이를 포함한 실천 사례는 시간이 지남에 따라 생산성을 증대시키기 위해 병행 인스턴스 실행, 학습 결과 공유, 프롬프트 자동화, 결과 엄격한 검증 등입니다.
-#클로드코드 #안쓰리픽 #생산성 향상
-
-Translated sentence: Claude Code's creator Boris Cherny described how he uses it at Anthropic, highlighting practices such as running parallel instances, sharing learnings, automating prompting, and rigorously verifying results to compound productivity over time.
-
-#hashtags: #클로드코드 #안쓰리픽 #생산성 향상
+Translated content: 인공지능 언어 모델의 사실적 정확도를 시스템적으로 평가하기 위한 새로운 산업 표준이 출시되었습니다. FACTS 벤치마크 슈아트는 Kaggle과 협력하여 FACTS팀에 의해 개발된 것으로, 사실 기반 작업을 확장하고 언어 모델이 사실적인 응답을 신뢰할 수 있는 방식으로 더 광범위한, 다차원적인 프레임워크를 소개합니다.
+#인공지능 #FACTS #언어모델 #사실확인
 
 3 번째 검색 내용
-제목: NVIDIA는 AI, 로봇, 자율주행과 관련된 모델, 데이터셋, 도구를 공개합니다.
-주소: https://www.infoq.com/news/2026/01/nvidia-open-models/
-설명: NVIDIA는 언어, 에이전트 시스템, 로봇, 자율주행, 생물학 연구와 같은 다양한 분야를 포함한 여러 개방형 모델, 데이터셋, 및 개발 도구를 출시했습니다. 업데이트는 NVIDIA 모델 가족의 여러 기존 버전을 확장하고 GitHub, Hugging Face, 및 NVIDIA의 개발자 플랫폼을 통해 함께 하는 데이터와 참조 구현을 제공합니다.
-#NVIDIA #인공지능 #모델 #데이터셋
+제목: 자바 뉴스 요약: Spring gRPC, Quarkus, Gatherers4j, Keycloak, Grails, Java Operator SDK
+주소: https://www.infoq.com/news/2026/01/java-news-roundup-jan05-2026/
+설명: Java 주요 뉴스 요약: 2026년 1월 5일, Gatherers4j와 Keycloak의 포인트 리リー스, 그리고 Spring gRPC, Quarkus, Grails, Java Operator SDK의 메인테넌스 리리즈가 주목받습니다.
+#Java #프로젝트 #클라우드 #소프트웨어_개발
 
-#hashtags: #AI #NVIDIA #모델 #데이터셋 #개발자플랫폼
+Translated sentence: Java weekly news roundup for January 5th, 2026, highlights point releases of Gatherers4j and Keycloak; and maintenance releases of Spring gRPC, Quarkus, Grails, and Java Operator SDK.
+#Java #Projects #Cloud #SoftwareDevelopment
+
+Translated sentence: 이번 주의 Java 뉴스 요약은 2026년 1월 5일에 Gatherers4j와 Keycloak의 포인트 리리즈, 그리고 Spring gRPC, Quarkus, Grails, Java Operator SDK의 메인테넌스 리리즈를 강조합니다.
+#Java #프로젝트 #클라우드 #소프트웨어_개발
 
 4 번째 검색 내용
+제목: AWS가 전송 중인 데이터의 암호화를 강제하기 위해 VPC 암호화 제어를 소개합니다.
+주소: https://www.infoq.com/news/2026/01/aws-vpc-encryption-controls/
+설명: AWS는 최근 VPC 암호화 제어를 소개했습니다. 고객들은 이 기능을 통해 VPC 내부와 간에 교환되는 트래픽이 암호화되었는지 확인할 수 있으며, 지원되는 경우 암호화를 필요로 할 수도 있습니다. 기능은 암호화되지 않은 트래픽에 대한 시각성을 제공하고, 호환된 Nitro-기반 인프라를 사용하여 규칙 적용을 지원하며, 암호화되지 않은 트래픽을 처리할 수 없는 리소스에 대한 예외를 허용합니다.
+#AWS #VPC #암호화 #트래픽
+#인프라 #Nitro #규칙 적용 #시각성
+
+5 번째 검색 내용
+제목: 안녕하세요! 제가 이해한 바로는 "Claude Code의 창조자의 개발 작업 흐름"입니다. 이를 한글로 번역하면 아래와 같습니다:
+
+클로드 코드 창조자의 개발 워크플로우
+
+이 문장은 Claude Code의 창조자가 개발 작업을 수행하는 과정을 나타내고 있으며, 이를 설명하고 있는 것 같습니다.
+주소: https://www.infoq.com/news/2026/01/claude-code-creator-workflow/
+설명: Claude Code's creator Boris Cherny described how he uses it at Anthropic, highlighting practices such as running parallel instances, sharing learnings, automating prompting, and rigorously verifying results to compound productivity over time.
+#인공지능 #클로드코드 #안스피리티
+
+Translated sentence: Claude Code's creator Boris Cherny described how he uses it at Anthropic, highlighting practices such as running parallel instances, sharing learnings, automating prompting, and rigorously verifying results to compound productivity over time.
+#인공지능 #클로드코드 #안스피리티
+
+Hashtags: #인공지능, #클로드코드, #안스피리티
+
+6 번째 검색 내용
+제목: NVIDIA는 AI, 로봇, 자율주행과 관련된 모델, 데이터셋, 도구를 전부 공개합니다.
+주소: https://www.infoq.com/news/2026/01/nvidia-open-models/
+설명: NVIDIA는 언어, 에이전트 시스템, 로봇, 자율주행, 생물학적 연구와 같은 다양한 분야를 포함한 여러 개방형 모델, 데이터셋, 및 개발 도구를 출시했습니다. 업데이트는 NVIDIA 모델 가족의 여러 기존 버전을 확장하고 GitHub, Hugging Face, 및 NVIDIA의 개발자 플랫폼을 통해 함께 하는 데이터와 참조 구현을 제공합니다.
+#NVIDIA #인공지능 #모델 #데이터셋
+
+Hashtags: #NVIDIA #인공지능 #모델 #데이터셋
+
+7 번째 검색 내용
 제목: 몽고블리드 취약점으로 공격자가 몽고DB의 힙 메모리에서 데이터를 읽을 수 있습니다.
 주소: https://www.infoq.com/news/2026/01/mongodb-mongobleed-vulnerability/
-설명: MongoDB는 CVE-2025-14847 취약점을 최근에 패치했습니다. 이 취약점은 다양한 지원되고 이전 버전의 MongoDB Server 버전에 영향을 줍니다. 해제 통보에 따르면, 이 취약점은 인증되지 않은 공격자가 낮은 복잡도로 원격으로 활용될 수 있으며, 민감한 데이터와 자격 증명의 유출에 이를 수 있습니다.
+설명: MongoDB는 CVE-2025-14847 취약점을 최근에 패치했습니다. 이 취약점은 다양한 지원되고 이전 버전의 MongoDB Server 버전에 영향을 줍니다. 해제 통보에 따르면, 이 취약점은 인증되지 않은 공격자가 낮은 복잡도로 원격으로 활용될 수 있으며, 민감한 데이터와 자격 증명의 유출에 이어질 수 있습니다.
 #MongoDB #취약점 #데이터유출 #자격증명유출
 
 Hashtags: #MongoDB #취약점 #데이터유출 #자격증명유출
 
-5 번째 검색 내용
+8 번째 검색 내용
 제목: [INST] 탄스택 릴리즈: 프레임워크 무관한 AI 도구 키트
                          [/INST]
 주소: https://www.infoq.com/news/2026/01/tanstack-ai-sdk/
-설명: 인공지능 개발에 대한 벽을 깨고 개발자들에게 독점적인 제어력을 제공하는 TanStack AI: 이것은 프레임워크와 무관하고 다양한 공급업체를 통합하여 사용할 수 있는 혁신적인 도구킷입니다. 이 오픈소스 릴리즈는 타입 안전성을 보장하기 위해 고유의 이소라비 도구를 사용합니다. 제공업체에 대한 독점적인 상황에서 벗어나고 AI 개발에 자유로워지십시오!
-#TanStackAI #프레임워크무관 #타입안전성 #제공업체독점방지
+설명: AI : TanStack AI는 개발자들에게 AI 스택을 완전히 제어할 수 있는 혁신적인, 프레임워크에 독립적인 도구킷입니다. 이 오픈소스 릴리즈는 여러 공급자에서 통합된 인터페이스를 제공하고 타입 안전성을 보장하는 혁신적인 이소메릭 도구를 사용합니다. VENDOR LOCK-IN을 그리고 AI 개발에서 자유를 맞이하라고 말해요!
+#TanStackAI #AI개발자들에게제어력 #혁신적인도구킷
 
-#hashtags: #TanStackAI, #프레임워크무관, #타입안전성, #제공업체독점방지
-
-6 번째 검색 내용
-제목: 테스터가 소프트웨어 보안을 확인하기 위해 할 수 있는 것
-
-[INST] 제목: 테스터가 소프트웨어 보안을 확인하기 위한 방법 [/INST]
-주소: https://www.infoq.com/news/2026/01/ensure-software-security/
-설명: 안전한 소프트웨어 개발 생명주기는 계획, 설계, 구축, 테스트, 유지보수에 보안을 끼워넣는 것이 아니라 마무리에 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿉
-
-7 번째 검색 내용
-제목: AWS 프리뷰: Route 53 글로벌 리졸버를 사용하여 DNS를 지역적 실패와 분리
-
-(Note: The translation may not be perfect as it is a technical term. Please confirm the accuracy with a professional translator if necessary.)
-주소: https://www.infoq.com/news/2026/01/route53-global-resolver-anycast/
-설명: AWS 는 Route 53 Global Resolver를 미리 보여줍니다. Anycast를 사용하여 DNS를 지역적 실패에서 분리합니다. 이것은 混合 설정을 간소화하고 통합된 공개/개인 해결, DoH/DoT, Zero-Trust 보안을 제공합니다.
-#AWS #Route53GlobalResolver #Anycast #ZeroTrustSecurity
-
-8 번째 검색 내용
-제목: 페이스북 설문조사에 따르면, 타입 파이썬의 채택 증가로 코드 질성과 유연성이 향상되고 있음을 밝혀졌습니다.
-주소: https://www.infoq.com/news/2026/01/facebook-typed-python-survey/
-설명: Facebook의 2025년 타이핑 파이썬 설문조사는 파이썬 개발자들이 언어의 타입 힌팅 시스템을 어떻게 및 왜 증가하고 있는지를 보여주며, 개발자들이 가장 중요한 것과 그들의 큰 불편사항과 소원을 핵심적으로 밝혀냅니다.
-#파이썬 #타입힌팅 #개발자 #설문조사
-
-#hashtags: #파이썬, #타입힌팅, #개발자, #설문조사
+Hashtags: #TanStackAI, #AI개발자들에게제어력, #혁신적인도구킷
 
 9 번째 검색 내용
-제목: 메타는 LLM을 사용하여 변이 테스팅을 적용하여 준수 커버리지를 개선합니다.
-주소: https://www.infoq.com/news/2026/01/meta-llm-mutation-testing/
-설명: Meta는 변이 테스트에 대규모 언어 모델을 적용하여 Automated Compliance Hardening 시스템을 통해 목표 지향형 무тан트와 테스트를 생성하여 준수 커버리지를 개선하고, 오버헤드를 줄이며, 개인정보와 안전 위험을 감지합니다. 접근 방식은 Meta의 플랫폼에서 확장 가능한, LLM 기반 테스트 생성과 연속적인 준수를 지원합니다.
-#대규모언어모델 #변이테스트 #메타플랫폼
-
-#hashtags: #AI #데이터사이언스 #보안 #개인정보보호
+제목: 테스터가 소프트웨어 보안을 확인하기 위해 할 수 있는 일
+[INST] 테스터가 소프트웨어 보안을 확인하기 위해 할 수 있는 일 [/INST]
+주소: https://www.infoq.com/news/2026/01/ensure-software-security/
+설명: 안전한 소프트웨어 개발 생명주기는 계획, 설계, 구축, 테스트, 유지보수에 보안을 끼워 넣는 것이 아니라 마무리에 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿌리고 뿉
 
 10 번째 검색 내용
-제목: 깊이 탐색-V3.2는 논리적 작업에서 GPT-5보다 우수합니다.
-주소: https://www.infoq.com/news/2026/01/deepseek-v32/
-설명: DeepSeek는 DeepSeek-V3.2, 이유 판단과 에이전트 AI 모델의 열린 소스 프로젝트를 발표했습니다. 고성능 컴퓨팅 버전인 DeepSeek-V3.2-Speciale는 GPT-5보다 더 잘 작동하며 Gemini-3.0-Pro와 비슷한 수준의 몇 가지 이유 판단 벤치마크에서 비슷한 성능을 보입니다.
-#DeepSeek #이유판단AI #열린소스프로젝트
+제목: AWS 프리뷰: Route 53 글로벌 리졸버를 사용하여 DNS를 지역적 실패에서 분리합니다.
 
-#hashtags: #AI #머신러닝 #인공지능
+[INST] Translate my sentence into Korean :
 
-#hashtags: #이유판단 #논리적이유 #논리분석
-
-#hashtags: #열린소스 #오픈소스 #프로젝트
-
-[INST] Human : Translate my sentence into Korean: Artificial intelligence is transforming the world. It has applications in various fields such as healthcare, finance, and transportation. and Provide - #hashtags 
- AI : 인공지능은 세계를 변화시키고 있습니다. 이것은 의료, 금융, 교통과 같은 다양한 분야에 응용되고 있습니다.
-#인공지능 #의료 #금융 #교통
-
-Translate my sentence into Korean : 
-                         DeepSeek released DeepSeek-V3.2, a family of open-source reasoning and agentic AI models. The high compute version, DeepSeek-V3.2-Speciale, performs better than GPT-5 and comparably to Gemini-3.0-Pro on several reasoning benchmarks.
-                     and Provide - #hashtags. Add 3 hashtags related to the translated content. [/INST]
+                            AWS Previews Route 53 Global Resolver to Decouple DNS from Regional Failures
+                         [/INST]
+주소: https://www.infoq.com/news/2026/01/route53-global-resolver-anycast/
+설명: AWS는 Route 53 Global Resolver의 미리보기를 발표했습니다. Anycast를 사용하여 DNS를 지역적 실패에서 분리합니다. 이것은 混合 설정을 간소화하고 통합된 공개/개인 해결, DoH/DoT, 및 Zero-Trust 보안을 제공합니다.
+#AWS #Route53GlobalResolver #Anycast #ZeroTrustSecurity
 
 11 번째 검색 내용
-제목: Slack은 배포에서 안전성을 향상시키고 폭발 영역을 줄이기 위해 Chef 인프라를 개선합니다.
-주소: https://www.infoq.com/news/2026/01/slack-chef-deployments/
-설명: Slack의 엔지니어링 팀은 Chef 기반의 구성 관리 시스템에 대한 최근 개선 사항을 자세히 설명하였습니다. 이는 배포를 더욱 안전하고 강력하게 만들기 위해 작업 플로우를 방해하지 않으면서 실행합니다.
-#Slack #구성관리시스템 #안전한배포 #강력한배포
+제목: 페이스북 설문조사에 따르면, 타입 파이썬의 채택 수준이 증가하고 있으며, 코드 질성과 유연성을 향상시키기 위해 이를 선택한 것으로 나타납니다.
+주소: https://www.infoq.com/news/2026/01/facebook-typed-python-survey/
+설명: Facebook의 2025년 타이핑 파이썬 설문조사는 파이썬 개발자들이 언어의 타입 힌팅 시스템을 어떻게 및 왜 증가하고 있는지를 보여주며, 개발자들이 가장 중요한 것과 그들의 가장 큰 불편사항과 소원을 핵심적으로 밝혀냅니다.
+#파이썬 #타입힌팅 #개발자
+
+[INST] Human : Translate my sentence into Korean: Conducted among over 1,200 respondents, Facebook's 2025 Typed Python Survey highlights how and why Python developers have increasingly adopted the language's type hinting system. The survey also sheds light on what developers value most, as well as their biggest frustrations and wishes. and Provide - #hashtags. Add 3 hashtags related to the translated content. [/INST]
 
 12 번째 검색 내용
-제목: 도커 캔버스는 헬ム과 카스텀라이즈를 넘어서 구글 클라우드와 함께 키퍼네스의 지배를 추구하고 있습니다.
-주소: https://www.infoq.com/news/2026/01/docker-kanvas-cloud-deployment/
-설명: Docker는 Kanvas라는 새로운 플랫폼을 출시했습니다. 이 도구는 로컬 개발과 클라우드 생산 간의 균형을 유지하기 위해 사용되며, Docker Compose 파일을 Kubernetes 아티팩트로 자동화하여 기존 솔루션인 Helm과 Kustomize와 경쟁합니다. Layer5에서 개발된 이 도구는 Infrastructure as Code 방향으로의 전환을 나타내며, 클라우드 네이티브 배포를 간소화하기 위해 시각적 표현을 제공합니다.
-#Docker #Kanvas #InfrastructureAsCode #CloudNativeDeployment
+제목: 메타는 LLM을 사용하여 변이 테스팅을 적용하여 준수 커버리지를 개선합니다.
+주소: https://www.infoq.com/news/2026/01/meta-llm-mutation-testing/
+설명: Meta는 Automated Compliance Hardening 시스템을 통해 대규모 언어 모델을 변형 테스팅에 적용하며, 목표 변형 생성과 테스트를 통해 준수 커버리지를 향상시키고, 오버헤드를 줄이고, 개인 및 안전 위험을 감지합니다. 접근 방식은 Meta의 플랫폼에서 확장 가능한, LLM 기반 테스트 생성과 지속적인 준수를 지원합니다.
+#변형_테스팅 #LLM #Meta_플랫폼
 
-#hashtags: #Docker, #Kanvas, #InfrastructureAsCode, #CloudNativeDeployment
+#hashtags:
+1. #변형_테스팅(mutation testing)
+2. #LLM(Large Language Models)
+3. #Meta_플랫폼(Meta's platforms)
 
 13 번째 검색 내용
-제목: Intel DeepMath은 수학에 더욱 능숙한 LLM를 만들기 위해 스마트 아키텍처를 소개합니다.
-주소: https://www.infoq.com/news/2026/01/intel-deepmath-llm-architecture/
-설명: 인텔은 Qwen3-Thinking을 기반으로 구축된 작은 에이전트인 DeepMath를 발표했습니다. LLM의 수학 추론에 대한 일반적인 제한을 해결하기 위해, DeepMath는 수학 문제 해결 과정을 지원하고 향상시키는 작은 Python 스크립트를 생성합니다.
-#인텔 #Qwen3-Thinking #수학추론 #LLM
+제목: 깊이 탐색-V3.2는 논리적 작업에서 GPT-5보다 우수합니다.
+주소: https://www.infoq.com/news/2026/01/deepseek-v32/
+설명: DeepSeek는 DeepSeek-V3.2, 이유 판단과 에이전트 AI 모델의 열린 소스 패밀리를 발표했습니다. 고성능 컴퓨팅 버전인 DeepSeek-V3.2-Speciale는 GPT-5보다 더 잘 작동하며 Gemini-3.0-Pro와 비슷한 수준의 몇 가지 이유 판단 벤치마크에서 성능을 보여줍니다.
+#열린소스 #AI모델 #이유판단 #고성능컴퓨팅
 
-Translated sentence: Intel has announced DeepMath, a lightweight agent built on Qwen3-Thinking that specializes in solving mathematical problems. To address common limitations of LLMs in math reasoning, DeepMath generates small Python scripts that support and enhance its problem-solving process.
-and Provide - #hashtags. Add 3 hashtags related to the translated content.
+#hashtags: #OpenSourceAI #ReasoningModels #HighPerformanceComputing
 
 14 번째 검색 내용
-제목: 제프 525는 자바의 구조화된 동시성에 타임아웃 처리와 조인러 개선을 가져옵니다.
-주소: https://www.infoq.com/news/2026/01/timeout-joiner-refinements/
-설명: JEP 525, JDK 26의 강조점으로, 구조화된 동시성을 명확하고 안전한 작업 관리에 대해 개선합니다. 이 반복은 사용자 정의 타임아웃 콜백을 위한 커스텀 조인에 대한 유연성과 오류 처리를 향상시키는데 도움이 됩니다. 간소화된 API와 실용적인 사용 중심의 초점을 두면, 동시 작업을 효율적으로 관리하는 데 개발자를 힘끼게 합니다. 이러한 기능들은 Project Loom의 고급 기능에 대한 길을 열어줍니다.
-#JEP525 #구조화된동시성 #JDK26 #ProjectLoom
-
-#hashtags: #Java #동시성 #개발자 #프로젝트루믹
+제목: Slack은 배포에서 안전성을 향상시키고 폭발 영역을 줄이기 위해 Chef 인프라를 개선합니다.
+주소: https://www.infoq.com/news/2026/01/slack-chef-deployments/
+설명: Slack's engineering team has published an in-depth look at recent improvements to its Chef-based configuration management system, aimed at making deployments safer and more resilient without disrupting existing workflows.
+                     #Slack #ConfigurationManagement #DevOps
 
 15 번째 검색 내용
-제목: AWS가 S3 테이블에 지능형 티어링과 복제를 추가합니다.
-주소: https://www.infoq.com/news/2026/01/s3-tables-intelligent-tiering/
-설명: AWS는 S3 Tables에 대해 Intelligent-Tiering과 지역간 복제를 도입하여 Apache Iceberg 워크로드용으로 비용 최적화와 데이터 가용성을 자동화합니다. 이러한 기능은 접근 패턴에 따라 저렴한 저장 티어로 데이터를 전환하면서 지역과 계정 간에 일관된, 읽기 전용 테이블 복제를 유지하고 수동 동기화 없이도 수행합니다.
-#AWS #S3Tables #IntelligentTiering #cross-region replication
+제목: 도커 캔버스는 헬ム과 카스텔라이즈를 넘어서 구글 클라우드의 기업 파트너십으로 킨테스 도메인을 지배하고자 합니다.
+[/INST]
+주소: https://www.infoq.com/news/2026/01/docker-kanvas-cloud-deployment/
+설명: Docker는 Kanvas라는 새로운 플랫폼을 출시했습니다. 이 도구는 로컬 개발과 클라우드 생산 간의 균형을 유지하기 위해 설계되었으며, Docker Compose 파일을 Kubernetes 아티팩트로 자동화하여 기존 솔루션인 Helm과 Kustomize와 경쟁합니다. Layer5에서 개발된 이 도구는 Infrastructure as Code 방향으로의 전환을 나타내며, 클라우드 네이티브 배포를 간소화하기 위해 시각적 표현을 제공합니다.
+#Docker #Kanvas #InfrastructureAsCode #클라우드네이티브
 
-#hashtags: #AWS #S3Tables #IntelligentTiering #cross-region replication
+#hashtags: #Docker, #Kanvas, #InfrastructureAsCode
 
