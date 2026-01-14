@@ -1,0 +1,134 @@
+1 번째 검색 내용
+제목: QCon 로덴 2026: 실천자 주도 트랙 연결성과 생산성 AI 엔지니어링
+[INST] QCon London 2026: Practitioner-Led Tracks on Connectivity & Production AI Engineering을 한글로 번역합니다. [/INST]
+주소: https://www.infoq.com/news/2026/01/qcon-london-2026-ai-engineering/
+설명: QCon London 2026는 3월 16일부터 19일까지 개최되며, 고급 리더에게 15개 트랙을 제공합니다. 주요 세션은 MCP를 통한 시스템 통합, AI 엔지니어링, 및 분산 시스템 디버깅과 관련이 있습니다. 현대적인 보안, Staff+ 인사이트, 및 성능 최적화에 대한 팀원 주도 및 실용적인 토론을 통해 모던 보안, Staff+ 인사이트, 및 성능 최적화를 탐색할 수 있습니다.
+#QConLondon2026 #시스템통합 #AI엔지니어링 #디버깅분산시스템
+#보안최적화 #성능최적화 #Staff+인사이트
+
+2 번째 검색 내용
+제목: 분산된 모바일 분석 해결: 우버의 플랫폼 중심 접근 방식
+
+(Note: The translation may not be perfect as it is a technical term. Please confirm the accuracy with a professional translator if necessary.)
+주소: https://www.infoq.com/news/2026/01/uber-mobile-analytics-platform/
+설명: Uber Engineering는 플랫폼 중심의 모바일 분석 재설계를 소개합니다. iOS와 Android에서 이벤트 인стру먼트레이션을 표준화하여 교차 플랫폼 일관성을 향상시키고, 엔지니어링 노력을 줄이며, 제품과 데이터 팀에 신뢰할 수 있는 인사이트를 제공합니다.
+#UberEngineering #모바일분석 #플랫폼중심설계
+
+Hashtags: #UberEngineering, #모바일분석, #플랫폼중심설계
+
+3 번째 검색 내용
+제목: LangGrant은 LEDGE MCP 서버를 공개하여 기업 데이터베이스에서 에이전트적인 AI를 활성화합니다.
+주소: https://www.infoq.com/news/2026/01/langgrant-ledge-mcp-server/
+설명: LangGrant는 LEDGE MCP Server, 대규모 언어 모델이 복잡한 데이터베이스 환경을 이동하지 않고도 직접적으로 액세스하거나 노출하지 않은 상태에서 이유를 추론할 수 있는 새로운 기업 플랫폼을 출시했습니다.
+#LEDGEMCPServer #대규모언어모델 #데이터베이스환경 #LangGrant
+
+Translated sentence: LangGrant has launched the LEDGE MCP Server, a new enterprise platform designed to let large language models reason across complex database environments without directly accessing or exposing underlying data.
+Hashtags: #LEDGEMCPServer #대규모언어모델 #데이터베이스환경 #LangGrant
+
+4 번째 검색 내용
+제목: 구글은 제메니 CLI에 대한 맥락 기반 개발 확장인 컨덕터를 소개합니다.
+주소: https://www.infoq.com/news/2026/01/google-conductor/
+설명: Google은 Gemini CLI의 새로운 미리 보기 확장 도구인 Conductor를 발표했습니다. 이 확장은 AI 지원 소프트웨어 개발에 구조화된, 컨텍스트 기반 접근 방식을 소개합니다. 이 확장은 대화형 코딩 도구의 일반적인 제한 사항을 해결하는데 설계되었습니다: 세션 간에 프로젝트 컨텍스트가 잃어버리는 것입니다.
+#Google #GeminiCLI #AI #소프트웨어개발
+#인공지능 #구조화된 #컨텍스트기반 #소프트웨어개발도구
+
+5 번째 검색 내용
+제목: 마이크로소프트 공유 타입스크립트 7 업데이트 알림
+
+(Note: The translation may not be perfect as it is a machine translation. Please review and make necessary adjustments if needed.)
+주소: https://www.infoq.com/news/2026/01/typescript-7-progress/
+설명: Microsoft의 TypeScript 7, 프로젝트 코르사라는 코드네임으로 컴파일러를 완전히 Go로 재작성하여, 빌드 속도가 10배 이상 빨라지고 메모리 사용량이 줄어들었습니다. 기본적으로 엄격 모드를 활성화한 이 업데이트는 타입 안전성을 향상시키면서도 호환성을 유지합니다. 개발자들은 대규모 코드베이스에서 성능 향상과 향상된 효율성에 대해 열정적입니다.
+#TypeScript7 #프로젝트코르사 #컴파일러 #성능향상
+#인공지능 #의료 #금융 #교통
+
+6 번째 검색 내용
+제목: AWS CloudWatch가 통합 관찰 플랫폼으로 발전하며, Apache Iceberg 지원이 추가되었습니다.
+주소: https://www.infoq.com/news/2026/01/aws-cloudwatch-unified-logs/
+설명: AWS는 Amazon CloudWatch를 운영 및 보안 사용 사례에서 로그 관리를 통합하여 확장했습니다. 원시 OCSF 정규화와 Apache Iceberg 호환 저장소를 S3 Tables를 통해 통합함으로써, 업데이트는 데이터 사이로 제거하고 여러 AWS 계정과 지역에서 Zero-ETL 분석을 가능하게 합니다.
+#AWS #AmazonCloudWatch #S3Tables #ZeroETLAnalytics
+
+#hashtags: #AWS, #AmazonCloudWatch, #S3Tables, #ZeroETLAnalytics
+
+7 번째 검색 내용
+제목: 구글은 LLM 행동을 더욱 이해하기 위해 Gemma Scope 2를 발표합니다.
+주소: https://www.infoq.com/news/2026/01/google-gemma-scope-2/
+설명: 인공지능 모델 Gemini 3의 행동을 해석하는 데 사용되는 도구 집합입니다. Gemma Scope 2는 연구자가 출현하는 모델 행동을 분석하고, AI 에이전트를 검증하고 디버깅하며, 보안 문제인 탈출, 헬루캐니와 사랑스러운 성향과 같은 대응 전략을 설계할 수 있도록 도와주는 데 도움이 됩니다.
+#인공지능 #모델분석 #보안문제 #AI에이전트
+
+Hashtags: #인공지능, #모델분석, #보안문제
+
+8 번째 검색 내용
+제목: 클라우드플레어는 코드로 인프라를 확장하며, 쉬프트-리브 보안 실천을 통해 보안 방법을 구현합니다.
+주소: https://www.infoq.com/news/2026/01/cloudflare-security-shift-left/
+설명: Cloudflare는 인프라센스 코드를 구현하여 자동화된 정책 적용으로 수백개의 제품 계정에서 수동 구성 오류를 제거했습니다. 매일 약 30개의 병합 요청을 처리하며, 배포 전에 보안 위반을 발견하여 사건이 발생한 후에는 캐치하고 있습니다.
+#인프라센스코드 #자동화 #보안
+
+#hashtags: #인프라센스코드, #자동화, #보안
+
+9 번째 검색 내용
+제목: 사실 정확도를 평가하기 위해 대규모 언어 모델의 사실 정확도를 평가하기 위한 FACTS Benchmark Suite가 소개되었습니다.
+주소: https://www.infoq.com/news/2026/01/facts-benchmark-suite/
+설명: A new industry benchmark aimed at systematically evaluating the factual accuracy of LLMs has been released with the launch of the FACTS Benchmark Suite. Developed by the FACTS team in collaboration with Kaggle, the suite expands earlier work on factual grounding and introduces a broader, multi-dimensional framework for measuring how reliably language models produce factually correct responses.
+#인공지능 #FACTS #언어모델 #사실확인
+
+Translated content: 인공지능 언어 모델의 사실적 정확도를 시스템적으로 평가하기 위한 새로운 산업 표준이 출시되었습니다. FACTS 벤치마크 슈이트는 Kaggle과 협력하여 FACTS 팀에 의해 개발되었으며, 사실 기반 작업을 확장하고 언어 모델이 사실적인 응답을 신뢰할 수 있는 방식으로 더 광범위한, 다차원적인 프레임워크를 소개합니다.
+#인공지능 #FACTS #언어모델 #사실확인
+
+10 번째 검색 내용
+제목: 자바 뉴스 요약: Spring gRPC, Quarkus, Gatherers4j, Keycloak, Grails, Java Operator SDK
+주소: https://www.infoq.com/news/2026/01/java-news-roundup-jan05-2026/
+설명: Java 주요 뉴스 요약: 2026년 1월 5일, Gatherers4j와 Keycloak의 포인트 리リー스, 그리고 Spring gRPC, Quarkus, Grails, Java Operator SDK의 메인테넌스 리리즈를 강조한 이번 주의 Java 주요 뉴스 요약입니다.
+#Java #프로그래밍 #오픈소스 #뉴스요약
+
+#hashtags:
+1. #JavaProgramming
+2. #OpenSourceNews
+3. #WeeklyRoundup
+
+11 번째 검색 내용
+제목: AWS가 전송 중인 데이터의 암호화를 강제하기 위해 VPC 암호화 제어 도입
+
+(Note: The translation may not be perfect, as some phrases might need to be adjusted for natural Korean sentence structure.)
+주소: https://www.infoq.com/news/2026/01/aws-vpc-encryption-controls/
+설명: AWS는 최근 VPC 암호화 제어를 소개했습니다. 고객은 이 기능을 통해 VPC 내부와 간에 교환되는 트래픽이 암호화되었는지 확인할 수 있으며, 지원되는 경우 암호화를 필요로 할 수 있습니다. 기능은 암호화되지 않은 트래픽에 대한 시각성을 제공하고, 암호화가 불가능한 리소스를 제외하는 것이 가능합니다.
+#AWS #VPC #암호화 #트래픽
+
+#hashtags: #AWS #VPC #암호화 #트래픽
+
+12 번째 검색 내용
+제목: 안내문: 클로드 코드의 창조자의 개발 작업 흐름
+
+[인스턴트 번역] 클로드 코드의 창조자의 개발 작업 흐름 [/인스턴트 번역]
+주소: https://www.infoq.com/news/2026/01/claude-code-creator-workflow/
+설명: Claude Code's creator Boris Cherny described how he uses it at Anthropic, highlighting practices such as running parallel instances, sharing learnings, automating prompting, and rigorously verifying results to compound productivity over time.
+#인공지능 #클로드코드 #안스피리티
+
+Translated sentence: Claude Code's creator Boris Cherny described how he uses it at Anthropic, highlighting practices such as running parallel instances, sharing learnings, automating prompting, and rigorously verifying results to compound productivity over time.
+#인공지능 #클로드코드 #안스피리티
+
+13 번째 검색 내용
+제목: NVIDIA는 AI, 로봇, 자율주행과 관련된 모델, 데이터셋, 도구를 공개합니다.
+주소: https://www.infoq.com/news/2026/01/nvidia-open-models/
+설명: NVIDIA는 언어, 에이전트 시스템, 로봇, 자율주행, 생물학 연구와 같은 다양한 분야에 대한 열거 모델, 데이터셋, 개발 도구를 공개했습니다. 업데이트는 NVIDIA 모델 가족의 여러 존재하는 것을 확장하고 GitHub, Hugging Face, 및 NVIDIA 개발자 플랫폼에서 함께 학습 데이터와 참조 구현을 제공합니다.
+#NVIDIA #인공지능 #AI모델 #데이터셋 #개발도구
+
+#hashtags: #NVIDIA, #인공지능, #AI모델, #데이터셋, #개발도구
+
+14 번째 검색 내용
+제목: 몽고블리드 취약점으로 공격자가 몽고DB의 힙 메모리에서 데이터를 읽을 수 있습니다.
+주소: https://www.infoq.com/news/2026/01/mongodb-mongobleed-vulnerability/
+설명: MongoDB는 CVE-2025-14847 취약점을 최근에 패치했습니다. 이 취약점은 다양한 지원되고 이전 버전의 MongoDB Server 버전에 영향을 줍니다. 해제 통보에 따르면, 이 취약점은 인증 없이 원격으로 사용자가 낮은 복잡도를 갖고 활용될 수 있으며, 민감한 데이터와 자격 증명의 유출을 악용할 수 있는 정도로 이어질 수 있습니다.
+#MongoDB #취약점 #데이터유출 #자격증명유출
+
+#hashtags: #MongoDB #취약점 #데이터유출 #자격증명유출
+
+15 번째 검색 내용
+제목: TanStack가 공개한 프레임워크 독립적인 AI 도구킷
+
+(Note: The translation may not be perfect as it is a direct translation. It would be better to have a professional translator or someone fluent in both languages to provide a more accurate translation.)
+주소: https://www.infoq.com/news/2026/01/tanstack-ai-sdk/
+설명: 인공지능을 사용하여 개발자가 AI 스택에 대한 독점적인 제어력을 얻게 해주는 혁신적인, 프레임워크에 관계없이 TanStack AI를 소개합니다. 이 오픈 소스 릴리스는 여러 공급자에서 통합된 인터페이스를 제공하고 타입 안전성을 보장하는 혁신적인 이소멘틱 도구를 사용합니다. 벤더 잠금에 이르기 전에 인공지능 개발에 자유를 선사해 주세요!
+#인공지능 #오픈소스 #타입안전성 #이소멘틱도구
+
+#hashtags: #AIdevelopment, #TanStack, #Frameworkagnostic
+
