@@ -1,0 +1,133 @@
+1 번째 검색 내용
+제목: 안드로이드 스튜디오 엇터 빌드 에이전트 워크플로우 향상 및 LLM 유연성 추가
+
+(Note: The translation may not be perfect as it involves technical terms. Please review the translation and make any necessary adjustments.)
+주소: https://www.infoq.com/news/2026/01/android-studio-otter-llm-flex/
+설명: AI : 최신 Android Studio Otter 기능 릴리스는 개발자들이 AI 기능을 통합하는 작업 흐름에서 쉽게 도움이 되는 여러 새로운 기능을 소개합니다. LLM를 사용할 때 선택할 수 있는 능력, 장치 상호 작용을 통해 확장된 에이전트 모드, 자연어 테스팅 지원 등이 포함됩니다.
+#AndroidStudioOtter #AI기능 #개발자용도
+
+Hashtags: #AndroidStudioOtter, #AI기능, #개발자용도
+
+2 번째 검색 내용
+제목: 클라우드플레어가 솔트 구성 관리 디버깅을 자동화하여 릴리스 지연 시간 감소
+
+(Note: The translation may not be perfect as it is a technical term. However, the meaning should be clear.)
+주소: https://www.infoq.com/news/2026/01/cloudflare-salt-configuration/
+설명: Cloudflare는 최근 SaltStack(Salt)를 사용하여 거대한 글로벌 풀을 관리하는 방법을 공유했습니다. 그들은 "잠깐의 모래" 문제에 필요한 엔지니어링 작업에 대해 설명했습니다. 이 문제는 백만 개의 상태 애플리케이션 중 하나의 구성 오류를 찾는 것에 관심을 가지고 있습니다. Cloudflare의 Site Reliability Engineering(SRE)팀은 구성 감시성이 어떻게 재설계되었는지 설명했습니다.
+#Cloudflare #SaltStack #SiteReliabilityEngineering
+
+Translated content hashtags: #Cloudflare #SaltStack #SiteReliabilityEngineering
+
+3 번째 검색 내용
+제목: [INST] 펄루미가 네이티브 지원을 추가합니다. 테라폼과 HCL
+[/INST]
+주소: https://www.infoq.com/news/2026/01/pulumi-adds-terraform-hcl/
+설명: Pulumi는 이제 Terraform과 HCL을 원시적으로 지원하며, Pulumi Cloud에서 HCL 실행 및 상태 관리를 직접 수행할 수 있습니다. 현재 개인 베타 단계에서 2026년 1분기 출시로 예정되어 있으며, 이 업데이트는 레거시 도구에서 마이그레이션을 지원합니다. 최근 라이센스 변경으로 영향을 받은 팀에게 새로운 금융 탈출 방법을 제공하여 현재 HashiCorp 계약의 크레딧을 제공합니다.
+#Pulumi #Terraform #금융적탈출방법 #라이선스변경
+
+4 번째 검색 내용
+제목: 클라우드플레어 R2 SQL에서 데이터 분석을 위해 집계 기능 소개
+
+(Note: The translation may not be perfect as it is a technical term. Please double-check the translation for accuracy.)
+주소: https://www.infoq.com/news/2026/01/cloudflare-r2-sql-aggregations/
+설명: Cloudflare는 R2 SQL에서 집계를 지원한다는 것을 최근에 발표했습니다. 이 기능으로 개발자들은 R2에 저장된 데이터에 SQL 쿼리를 실행할 수 있어집니다. 이 향상사항은 R2 SQL의 기본적인 필터링 밖에 없는 것을 넘어서 분석 작업용도로 활용할 때 별도의 데이터 웨어하우스 도구를 사용하지 않아도 됩니다.
+#R2SQL #집계 #데이터분석
+
+Translated content: Cloudflare recently announced support for aggregations in R2 SQL, a new feature that lets developers run SQL queries on data stored in R2. This enhancement expands R2 SQL beyond basic filtering and makes it more useful for analytical workloads without requiring separate data warehouse tools.
+#R2SQL #집계 #데이터분석
+
+5 번째 검색 내용
+제목: [INST] 앵크타입은 앵크레깅스를 소개합니다. 앵크 안전 정규 표현식을 사용합니다.
+                         [/INST]
+주소: https://www.infoq.com/news/2026/01/arkregex-introduced-typescript/
+설명: ArkRegex를 소개합니다: JavaScript의 RegExp에 대한 혁신적인 솔루션으로, 정규 표현식에서 타입 안전성을 보장하면서 런타임 오버헤드가 발생하지 않습니다. 원시 기능, 예를 들어 캡처 그룹과 같은 것에 순조로운 통합을 통해 TypeScript 개발을 혁명적으로 변화시키고 런타임 실패를 제거합니다. 정규 표현식을 간단하게—ArkRegex을 경험하세요!
+#ArkRegex #정규표현식 #TypeScript #JavaScript
+
+#hashtags: #정규표현식, #TypeScript, #JavaScript
+
+6 번째 검색 내용
+제목: [INST] 350PB, 백만 이벤트, 한 시스템: 우버의 교차 지역 데이터 레이크와 재난 복구 [/INST]
+주소: https://www.infoq.com/news/2026/01/uber-hivesync-data-lake/
+설명: Uber’s HiveSync는 여러 지역에서 데이터를 일관성 있게 유지하기 위한 분산화된, 지역 간 배치 복제 시스템입니다. 5억 개의 Hive 이벤트와 8PB의 데이터 복제를 처리하며, 이벤트 기반 작업, 하이브리드 RPC 및 DistCp 전략, DAG 기반 조정 및 동적 슬라이딩을 사용하여 데이터 복제를 수행합니다. 이는 재해 복구, 수평 확장 및 지역간 99.99%의 데이터 일관성을 허용합니다.
+#HiveSync #데이터 일관성 #재해 복구 #수평 확장
+
+#hashtags: #HiveSync, #데이터일관성, #재해복구, #수평확장
+
+7 번째 검색 내용
+제목: 클라우드플레어 '코드오렌지: 실패를 작게 하기' 재난 대응 계획 출시, 전세계적인 서비스 중단으로 인해
+
+[INST] Translate my sentence into Korean : 
+                            Cloudflare Launches ‘Code Orange: Fail Small’ Resilience Plan After Multiple Global Outages
+                         [/INST]
+주소: https://www.infoq.com/news/2026/01/cloudflare-resilience-plan/
+설명: Cloudflare는 지난 6주 동안 2차 대규모 네트워크 중단이 발생한 후에도, Code Orange: Fail Small 이라는 상세한 복구 초기화를 발표했습니다. 이 계획은 대규모 서비스 중단을 예방하기 위한 전체적인 계획입니다.
+#Cloudflare #CodeOrange #FailSmall
+
+8 번째 검색 내용
+제목: [INST] 기술 리더십 경로를 따라 가는 중
+[/INST]
+주소: https://www.infoq.com/news/2026/01/technical-leadership-path/
+설명: Technical leaders face challenges beyond individual contributor work: aligning with business on investments, managing systemic aspects, mentoring, and keeping up with a changing codebase. We need technical alignment—shared codestyle, implementation patterns, and standards—to avoid accidental complexity. Leadership grows through practicing skills, improving team issues, and acting as a role model.
+
+#인공지능 #의료 #금융 #교통
+
+#인공지능_리더십 #코드스타일 #비상식적_복잡성 피하기
+
+9 번째 검색 내용
+제목: AWS는 일관된 ML 가격 조정에서 EC2 용량 블록 비율을 15%로 높였습니다.
+주소: https://www.infoq.com/news/2026/01/ec2-ml-capacity-price-hike/
+설명: AWS는 ML을 위한 EC2 용량 블록 가격을 모든 지역에서 15%로 올렸습니다. 이 일관된 가격 상승은 NVIDIA GPU를 기반으로 하는 상위 티어 인스턴스의 공급 체계 压力와 inflation을 강조합니다. 제한된 대안이 있어 기업들은 더 높은 비용을 겪게 됩니다, 효과적인 워크로드 최적화 및 비용 관리 전략의 필요성을 강조합니다.
+#AWS #EC2 #ML #가격상승
+
+#hashtags: #클라우드컴퓨팅 #공급체계压력 #인플레이션 #비용관리 #워크로드최적화
+
+10 번째 검색 내용
+제목: 미스트랄은 핸드라이팅된 및 구조화된 문서에서 향상된 정확도를 갖춘 OCR 3를 발표합니다.
+주소: https://www.infoq.com/news/2026/01/mistral-ocr3/
+설명: Mistral은 Mistral OCR 3을 발표했습니다. 이는 Mistral의 최신 글자 인식 모델입니다. 이 버전은 다양한 문서 유형에서 높은 정확도를 갖추기 위해 중요하게 집중했으며, 핵심 표시, 복잡한 표와 같은 다양한 문서 유형을 처리할 수 있습니다.
+#OCR #글자인식 #문서처리
+
+#hashtags: #OCR, #글자인식, #문서처리
+
+11 번째 검색 내용
+제목: Django 6.0 버전이 내장된 백그라운드 작업과 네이티브 CSP 지원으로 발표되었습니다.
+주소: https://www.infoq.com/news/2026/01/django-6-release/
+설명: Django 6.0가 출시되었습니다. 개발자들에게 내장된 작업 프레임워크, 콘텐츠 보안 정책으로 향상된 보안성, 모듈화 디자인을 위한 템플릿 파트리얼과 같은 최신 기능을 제공합니다. 이 릴리스는 Python 3.12에서 3.14까지 지원하며, 웹 애플리케이션 개발을 간소화하면서도 깨끗한, 빠른 디자인을 홍보합니다. Django가 웹 애플리케이션 개발 경로를 모던라이즈하는 열정에 참여해주세요!
+#Django #웹_애플리케이션_개발 #Python3.12_~_3.14 #모듈화_디자인
+
+#hashtags: #Django6.0 #WebApplicationDevelopment #Python3.12_~_3.14 #ModularDesign
+
+12 번째 검색 내용
+제목: Agoda는 다양한 데이터 파이프라인을 단일한 진리 원천으로 통합하는 방법
+[INST] Translate my sentence into English:
+How Agoda Unified Multiple Data Pipelines into a Single Source of Truth
+[/INST]
+주소: https://www.infoq.com/news/2026/01/agoda-unified-data-pipeline/
+설명: Agoda는 최근에 독립적인 데이터 파이프라인을 중앙화된 Apache Spark 기반 플랫폼으로 통합하여 금융 데이터의 일관성 문제를 제거했습니다. 회사는 자동 유효성 검사, 기계학습 기반의 이상 감지 및 데이터 계약을 결합한 다층적인 질성 프레임워크를 구현했으며, 일일 예약 거래 수백만 건을 처리하고 있습니다.
+#데이터 통합 #중앙화 #Apache Spark
+
+#hashtags: #인공지능 #빅데이터 #금융분석
+
+13 번째 검색 내용
+제목: 인공지능 기반의 코드 에디터 커서가 토큰 효율성을 개선하기 위해 동적 컨텍스트 검색을 소개합니다.
+주소: https://www.infoq.com/news/2026/01/cursor-dynamic-context-discovery/
+설명: Cursor는 대규모 언어 모델에 전달할 요청의 컨텍스트 크기를 최소화하기 위한 새로운 접근 방식을 제안했습니다. 이를 동적 컨텍스트 발견이라고 부르며, 정적인 큰 컨텍스트를 앞서 포함하는 것에서 멀어지고, 에이전트가 필요한 정보만 동적으로 검색할 수 있도록 합니다. 이는 토큰 사용량을 줄여주고 혼란스러운 또는 관련 없는 세부 사항을 포함하는 것을 제한합니다.
+#AI #NLP #DynamicContextDiscovery
+
+#hashtags: #인공지능 #자연어처리 #동적컨텍스트발견
+
+14 번째 검색 내용
+제목: Vercel이 로컬 파일시스템을 사용하는 맥스 도구를 오픈소스로 공개합니다.
+[Context Retrieval Using Local Filesystems](https://vercel.com/blog/context-retrieval-using-local-filesystems)
+주소: https://www.infoq.com/news/2026/01/vercel-bash-tool/
+설명: Vercel은 Bash 도구를 오픈소스로 공개하여 AI 에이전트가 파일시스템 기반의 명령을 실행할 수 있도록 해주며, 모델 프롬프트에 대한 컨텍스트를 검색하는데 사용할 수 있습니다.
+#Vercel #Bash #AI #파일시스템 #컨텍스트
+
+15 번째 검색 내용
+제목: QCon 로덴 2026: 실무자가 주도한 트랙들 - 연결성과 생산성 AI 엔지니어링
+
+(Note: The year "2026" is written in English in the original sentence. If you want to write it in Korean, it would be "2026년 QCon 로덴".)
+주소: https://www.infoq.com/news/2026/01/qcon-london-2026-ai-engineering/
+설명: QCon London 2026는 3월 16일부터 19일까지 개최되며,  senior leads에게 15개 트랙을 제공합니다. 주요 세션은 MCP를 통한 시스템 통합, AI 엔지니어링, 및 분산 시스템 디버깅과 관련이 있습니다. 현대적인 보안, Staff+ 인사이트, 및 성능 최적화에 대한 팀원 주도 및 실용적인 토론을 통해 모던 보안, Staff+ 인사이트, 및 성능 최적화를 탐색할 수 있습니다.
+#QConLondon2026 #시스템통합 #AI엔지니어링 #디버깅 #분산시스템 #보안 #Staff+인사이트 #성능최적화
+
