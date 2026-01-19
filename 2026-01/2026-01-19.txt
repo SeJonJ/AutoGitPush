@@ -1,142 +1,141 @@
 1 번째 검색 내용
-제목: 인간 중심의 AI를 사용하여 SRE(Site Reliability Engineering)에 대한 다중 에이전트 사고 응답: 제어를 잃지 않으면서 수행하기
+제목: 마이크로소프트는 XAML Studio를 오픈 소스로 공개하며, 장기간 사용되었던 프로토타입 도구를 부활시킵니다.
+주소: https://www.infoq.com/news/2026/01/xaml-studio-open-source/
+설명: Microsoft는 XAML Studio, XAML 기반 UI 개발에 대한 가벼운 빠른 프로토타입 도구를 공식적으로 오픈소스로 공개하였습니다. 이 도구는 Microsoft Store에서 Microsoft Garage 초기iative의 일부로 처음으로 출시되었으며, 지금은 GitHub 리포지토리를 통해 커뮤니티 기여와 협력을 환영합니다.
+#XAMLStudio #오픈소스 #UI개발
 
-(Note: The translation may not be perfect as it involves technical terms and abbreviations. Please verify the accuracy if needed.)
-주소: https://www.infoq.com/news/2026/01/opsworker-ai-sre/
-설명: AI : 최근 연구와 산업 비판은 기관이 사이트 신뢰 엔지니어링에 대한 접근 방식을 변경하고 있다는 것을 보여줍니다. 페이저를 기계에게 넘겨주는 대신, 팀들은 호출 엔지니어와 함께 작동하는 다양한 AI 시스템을 설계하고 있습니다. 검색 공간을 좁히고 빈번한 반복 작업을 자동화하면서 인간의 판단 결정에는 인간이 남겨두고 있습니다.
-#사이트신뢰엔지니어링 #인공지능 #호출엔지니어
-
-Hashtags: #사이트신뢰엔지니어링, #인공지능, #호출엔지니어
+#hashtags: #XAMLStudio, #오픈소스, #UI개발
 
 2 번째 검색 내용
+제목: 핀터스트의 모카: 쿠버네티스가 대규모 데이터 처리에 적용되는 규칙을 재작성하고 있습니다.
+주소: https://www.infoq.com/news/2026/01/pinterest-kubernetes-bigdata/
+설명: 디지털 핀보드 제공자 Pinterest는 새로운 플랫폼 Moka를 통해 대규모 데이터 처리의 미래 블루프린트를 설명한 기사를 발표했습니다. 회사는 Hadoop 인프라의 장년화를 벗어나 Kubernetes 기반 시스템으로 Amazon EKS에서 핵심 워크로드를 이전하고 있으며, Apache Spark가 주요 엔진이며 다른 프레임워크에 대한 지원이 추후 제공될 예정입니다.
+#Pinterest #Moka #AmazonEKS #ApacheSpark
+
+#hashtags:
+1. #데이터처리
+2. #클라우드컴퓨팅
+3. #대규모데이터처리
+
+3 번째 검색 내용
+제목: 도커의 Cagent, AI 에이전트에 대한 정확한 테스팅 제공
+
+(Note: The translation may not be perfect as it is a machine translation. Please review and make necessary adjustments if needed.)
+주소: https://www.infoq.com/news/2026/01/cagent-testing/
+설명: AI : Docker는 Cagent 런타임을 AI 에이전트에 대한 정확한 테스팅을 다시 가져오기 위해 생산적인 에이전트 시스템을 구축하는 데 있어 성장하는 문제를 해결하고 있습니다.
+#Docker #Cagent #정확한테스팅 #AI에이전트
+
+Translated sentence: Docker is positioning its Cagent runtime as a way to bring deterministic testing back to AI agents, addressing a growing problem for teams building production agentic systems.
+Hashtags: #Docker, #Cagent, #정확한테스팅, #AI에이전트
+
+4 번째 검색 내용
+제목: 자바 뉴스 요약: WildFly 39, Open Liberty, Spring Framework, JobRunr, Gradle, Micrometer
+주소: https://www.infoq.com/news/2026/01/java-news-roundup-jan12-2026/
+설명: Java 주요 뉴스 요약: 2026년 1월 12일, Java 주요 뉴스 요약에는 다음과 같은 뉴스가 포함되어 있습니다. WildFly 39의 GA 릴리즈, JobRunr과 Gradle의 포인트 릴리즈, Spring Framework와 Micronaut의 메인테이너스 릴리즈, Micrometer Metrics와 Micrometer Tracing의 밀스톤 릴리즈, 그리고 Open Liberty 26.0.0.1의 베타 릴리즈입니다.
+#Java #Runtimes #Frameworks #OpenLiberty
+
+#hashtags:
+#JavaNews #SoftwareDevelopment #TechnologyUpdates #ProgrammingLanguage
+
+5 번째 검색 내용
+제목: 인간 중심의 AI를 사용하여 SRE(Site Reliability Engineering)에 대한 다중 에이전트 사고 응답: 제어를 잃지 않으면서 수행
+
+(Note: The translation may not be perfect as it is a technical term. Please check the meaning and context before using it.)
+주소: https://www.infoq.com/news/2026/01/opsworker-ai-sre/
+설명: AI : 최근 연구와 산업 주석으로는, 기관이 사이트 신뢰성 공학에 대한 접근 방식이 변화하고 있음을 보여줍니다. 페이저를 기계에게 넘겨주는 것보다, 팀들은 호출 엔지니어와 함께 작동하는 다양한 AI 시스템을 설계하고 있습니다. 검색 공간을 좁히고 빈번한 반복 작업을 자동화하면서 인간의 판단 결정에는 인간이 남겨두고 있습니다.
+#사이트신뢰성공학 #인공지능 #호출엔지니어
+
+Hashtags: #사이트신뢰성공학, #인공지능, #호출엔지니어
+
+6 번째 검색 내용
 제목: 
 주소: https://www.infoq.com/news/2026/01/huggingface-fine-translations/
-설명: Hugging Face는 FineTranslations이라는 대규모 다국어 데이터셋을 발표했습니다. 이 데이터셋은 영어와 500개 이상의 언어 간에 1조 토큰 이상의 동시성 텍스트를 포함하고 있으며, FineWeb2 코퍼레스의 비영어 콘텐츠를 Gemma3 27B를 사용해 영어로 번역했습니다. 전체 데이터 생성 파이프라인은 재생산성과 공개 문서화가 목적으로 설계되었습니다.
+설명: Hugging Face는 FineTranslations이라는 대규모 다국어 데이터셋을 발표했습니다. 이 데이터셋은 영어와 500개 이상의 언어 간에 1조 토큰 이상의 동시성 텍스트를 포함하고 있으며, FineWeb2 코퍼레스의 비영어 콘텐츠를 Gemma3 27B를 사용해 영어로 번역했습니다. 데이터 생성 파이프라인은 재생성 가능하며 공개적으로 문서화되었습니다.
 #HuggingFace #FineTranslations #NLP #멀티언어
 
 #hashtags:
-1. #HuggingFace : Hugging Face는 인공지능 및 자연어 처리(NLP)에 대한 기여를 유명하며, FineTranslations과 같은 데이터셋을 제공합니다.
-2. #FineTranslations : 대규모 다국어 데이터셋으로, 영어와 500개 이상의 언어 간에 1조 토큰 이상의 동시성 텍스트를 포함합니다.
-3. #NLP : 자연어 처리는 인공지능 분야 중 하나로, 텍스트 데이터를 처리하고 해석하는 기술입니다.
+1. #HuggingFace : Hugging Face는 인공지능 분야에서 유명한 오픈소스 모델 및 데이터셋을 제공하는 기업입니다.
+2. #FineTranslations : FineTranslations은 Hugging Face가 개발한 대규모 다국어 번역 데이터셋입니다.
+3. #NLP : NLP(자연어 처리)는 인공지능 분야에서 핵심적인 분야 중 하나로, 텍스트의 해석과 생성을 목표로 합니다.
 
-3 번째 검색 내용
-제목: 안드로이드 스튜디오 엇터 빌드 에이전트 워크플로우와 LLM 유연성 추가
-
-(Note: The translation may not be perfect as some terms might have specific meanings in the context of Android Studio and development. Please confirm if it makes sense in your context.)
+7 번째 검색 내용
+제목: 안드로이드 스튜디오 엇터 빌드 에이전트 워크플로우를 향상시키고 LLM 유연성을 추가합니다.
 주소: https://www.infoq.com/news/2026/01/android-studio-otter-llm-flex/
-설명: AI : 최신 Android Studio Otter 기능 릴리스는 개발자들이 AI 기능을 통합하는 작업 흐름에서 좀 더 편리하게 도와주는 여러 새로운 기능을 소개합니다. LLM를 사용할 때 선택할 수 있는 기능, 장치 상호 작용을 통해 향상된 에이전트 모드, 자연어 테스팅 지원 등이 포함되어 있습니다.
+설명: AI : 최신 Android Studio Otter 기능 릴리스는 개발자들이 AI 기능을 통합하는 작업 흐름에 더욱 편리하게 도와주는 여러 새로운 기능을 소개합니다. LLM를 사용할 때 선택할 수 있는 능력, 장치 상호 작용을 통해 향상된 에이전트 모드, 자연어 테스팅 지원 등이 포함되어 있습니다.
 #AndroidStudioOtter #AI인텔리센스 #개발자용도
 
 Hashtags: #AndroidStudioOtter, #AI인텔리센스, #개발자용도
 
-4 번째 검색 내용
+8 번째 검색 내용
 제목: 클라우드플레어가 솔트 구성 관리 디버깅을 자동화하여 릴리스 지연 시간 감소
 
-(Note: The translation may not be perfect as it is a technical term. However, the meaning should be clear.)
+(Note: The translation may not be perfect as it involves technical terms and specific company names. However, the general meaning of the sentence is conveyed.)
 주소: https://www.infoq.com/news/2026/01/cloudflare-salt-configuration/
-설명: Cloudflare는 최근 SaltStack(Salt)를 사용하여 거대한 글로벌 풀을 관리하는 방법을 공유했습니다. 그들은 "잠깐의 모래" 문제에 필요한 엔지니어링 작업에 대해 설명했습니다. 이 문제는 백만 개의 상태 애플리케이션 중 하나의 구성 오류를 찾는 것에 관심을 가지고 있습니다. Cloudflare의 Site Reliability Engineering(SRE)팀은 구성 감시성이 어떻게 재설계되었는지 설명했습니다.
-#클라우드플레어 #잠깐의모래문제 #구성감지성
+설명: Cloudflare는 최근 SaltStack(Salt)를 사용하여 거대한 글로벌 풀을 관리하는 방법을 공유했습니다. 그들은 "잠깐의 모래" 문제에 필요한 엔지니어링 작업에 대해 설명했습니다. 이 문제는 백만 개의 상태 애플리케이션 중 하나의 구성 오류를 찾는 것입니다. Cloudflare의 Site Reliability Engineering(SRE)팀은 그들의 구성 관찰성 재설계를 진행했습니다.
+#클라우드플레어 #SaltStack #SRE
 
-Translated content hashtags: #클라우드플레어, #잠깐의모래문제, #구성감지성
+Translated content hashtags: #클라우드플레어, #SaltStack, #SRE
 
-5 번째 검색 내용
+9 번째 검색 내용
 제목: [INST] 펄루미가 네이티브 지원을 추가합니다. 테라폼과 HCL
 [/INST]
 주소: https://www.infoq.com/news/2026/01/pulumi-adds-terraform-hcl/
-설명: Pulumi는 이제 Terraform과 HCL을 원시적으로 지원하며, Pulumi Cloud에서 HCL 실행 및 상태 관리를 직접 수행할 수 있습니다. 현재 개인 베타 단계에서 2026년 1분기 출시로 예정되어 있으며, 이 업데이트는 레거시 도구에서 마이그레이션을 지원합니다. 최근 라이센스 변경으로 영향을 받은 팀을 대상으로 하는 새로운 금잔디 "탈출구"는 기존 HashiCorp 계약에 대한 크레딧을 제공합니다.
-#Pulumi #Terraform #HCL #금잔디 #라이선스 #마이그레이션
+설명: Pulumi는 이제 Terraform과 HCL을 원시적으로 지원하며, Pulumi Cloud에서 HCL 실행 및 상태 관리를 직접 수행할 수 있습니다. 현재 개인 베타 단계에서 2026년 1분기 출시로 예정되어 있으며, 이 업데이트는 레거시 도구에서 마이그레이션을 지원합니다. 최근 라이센스 변경으로 영향을 받은 팀에 대한 새로운 금융 탈출 방법을 제공하여 신용을 제공합니다.
+#Pulumi #Terraform #HCL #레거시도구마이그레이션
 
-Translated sentence: Pulumi now natively supports Terraform and HCL, enabling direct HCL execution and state management within Pulumi Cloud. Currently in private beta with a Q1 2026 release, the update aids migration from legacy tools. A new financial "escape hatch" offers credits for existing HashiCorp contracts, targeting teams affected by recent licensing shifts.
-#Pulumi #Terraform #HCL #금잔디 #라이선스 #마이그레이션
+#hashtags: #Pulumi #Terraform #HCL #레거시도구마이그레이션
 
-Hashtags: #Pulumi, #Terraform, #HCL, #금잔디, #라이선스, #마이그레이션
-
-6 번째 검색 내용
+10 번째 검색 내용
 제목: 클라우드플레어 R2 SQL에서 데이터 분석용 집계 소개
 
-(Note: The translation may not be perfect as it is a technical term. Please verify the accuracy if needed.)
+(Note: The translation may not be perfect as it is a technical term. Please confirm the accuracy with a professional translator if necessary.)
 주소: https://www.infoq.com/news/2026/01/cloudflare-r2-sql-aggregations/
-설명: Cloudflare는 R2 SQL에서 집계를 지원한다는 것을 최근에 발표했습니다. 이 기능으로 개발자들은 R2에 저장된 데이터에 SQL 쿼리를 실행할 수 있어집니다. 이 향상사항은 R2 SQL의 기본적인 필터링 밖에 안 되는 것을 넘어서고, 분석 작업용도로 사용하기 위해 별도의 데이터 웨어하우스 도구를 사용하지 않아도 됩니다.
-#R2SQL #Cloudflare #집계 #데이터분석
+설명: Cloudflare는 R2 SQL에서 집계를 지원한다는 것을 최근에 발표했습니다. 이 기능으로 개발자들은 R2에 저장된 데이터에 SQL 쿼리를 실행할 수 있어집니다. 이 향상사항은 R2 SQL의 기본적인 필터링 밖에 없는 것을 넘어서 분석 워크로드용으로 활용되며, 별도의 데이터 웨어하우스 도구가 필요하지 않습니다.
+#Cloudflare #R2SQL #집계 #데이터처리
+#인공지능 #머신러닝 #데이터분석
 
-#hashtags: #R2SQL, #Cloudflare, #집계, #데이터분석
-
-7 번째 검색 내용
-제목: [INST] 앵크타입은 앵크레깅스에서 유형 안전한 정규 표현식을 소개합니다.
+11 번째 검색 내용
+제목: [INST] 앵크타입은 앵크레깅스에 타입 안전 정규 표현식을 소개합니다.
 [/INST]
 주소: https://www.infoq.com/news/2026/01/arkregex-introduced-typescript/
-설명: ArkRegex를 소개합니다: JavaScript의 RegExp에 대한 혁신적인 솔루션으로, 정규 표현식에서 타입 안전성을 보장하면서 런타임 오버헤드가 발생하지 않습니다. 원시 기능, 예를 들어 캡처 그룹과 같은 것에 순조로운 통합을 통해 TypeScript 개발을 혁명적으로 변화시키고 런타임 실패를 제거합니다. 정규식을 간단하게—ArkRegex을 경험하세요!
+설명: ArkRegex를 소개합니다: JavaScript의 RegExp에 대한 혁신적인 솔루션으로, 정규표현식에서 타입 안전성을 보장하면서 런타임 오버헤드가 발생하지 않습니다. 원시 기능, 예를 들어 캡처 그룹과 같은 것에 순조로운 통합을 통해 TypeScript 개발을 혁명적으로 변화시키고 런타임 실패를 제거합니다. 정규표현식을 간단하게—ArkRegex을 경험하세요!
 #ArkRegex #정규표현식 #TypeScript #JavaScript
 
 #hashtags: #정규표현식, #TypeScript, #JavaScript
 
-8 번째 검색 내용
-제목: [INST] 350PB, 백만 이벤트, 한 시스템: 우버의 교차 지역 데이터 레이크와 재난 복구 [/INST]
+12 번째 검색 내용
+제목: [INST] 350PB, 백만 이벤트, 한 시스템: 우버의 교차 지역 데이터 레이크와 재난 복구 기능 내부 [/INST]
 주소: https://www.infoq.com/news/2026/01/uber-hivesync-data-lake/
-설명: Uber’s HiveSync는 여러 지역에서 데이터를 일관성 있게 유지하기 위한 분산화된, 지역 간 배치 복제 시스템입니다. 5억 개의 Hive 이벤트와 8PB의 데이터 복제를 처리하며, 이벤트 기반 작업, 하이브리드 RPC 및 DistCp 전략, DAG 기반 오케스트레이션 및 동적 분할을 사용하여 데이터 복제를 처리합니다. 이는 재해 복구, 수평 확장 및 지역간 99.99%의 데이터 일관성을 허용합니다.
-#HiveSync #데이터 일관성 #재해 복구 #수평 확장
+설명: Uber’s HiveSync는 여러 지역에서 데이터를 일관성 있게 유지하기 위한 분산화된, 지역 간 배치 복제 시스템입니다. 5억 개의 매일 Hive 이벤트와 8PB의 데이터 복제를 처리하며, 이벤트 기반 작업, 하이브리드 RPC 및 DistCp 전략, DAG 기반 오케스트레이션 및 동적 분할을 사용하여 데이터 복제를 처리합니다. 이로 인해 재생성, 수평 확장 및 지역간 99.99%의 데이터 일관성이 가능합니다.
+#HiveSync #데이터 일관성 #재생성 #수평 확장
 
-Translate my sentence into Korean:
-                      Uber’s HiveSync is a sharded, cross-region batch replication system keeping Hive/HDFS data consistent across multiple regions. Handling 5M daily Hive events and 8PB of data replication, it uses event-driven jobs, hybrid RPC and DistCp strategies, DAG-based orchestration, and dynamic sharding, enabling disaster recovery, horizontal scaling, and 99.99% cross-region data accuracy.
-                    and Provide - #hashtags. Add 3 hashtags related to the translated content.
+Translated content: Uber’s HiveSync is a sharded, cross-region batch replication system keeping Hive/HDFS data consistent across multiple regions. Handling 5M daily Hive events and 8PB of data replication, it uses event-driven jobs, hybrid RPC and DistCp strategies, DAG-based orchestration, and dynamic sharding, enabling disaster recovery, horizontal scaling, and 99.99% cross-region data accuracy.
+#HiveSync #데이터 일관성 #재생성 #수평 확장
 
-9 번째 검색 내용
-제목: 클라우드플레어가 "코드오렌지: 실패를 작게 하기" 재생산성 계획을 출시함
+Hashtags: #HiveSync #데이터 일관성 #재생성 #수평 확장
 
-(Cloudflare Launches "Code Orange: Fail Small" Resilience Plan after Multiple Global Outages)
+13 번째 검색 내용
+제목: 클라우드플레어가 "코드오렌지: 실패를 작게 하기" 재생산성 계획을 출시한다. 이는 전세계적인 여러 번의 서비스 중단으로 인해 출시되었습니다.
 주소: https://www.infoq.com/news/2026/01/cloudflare-resilience-plan/
 설명: Cloudflare는 지난 6주 동안 2회의 대규모 네트워크 중단으로 인해 상세한 복구 초기화를 Code Orange: Fail Small이라는 이름의 완전한 계획을 발표했습니다.
 #Cloudflare #CodeOrange #FailSmall
 
-10 번째 검색 내용
+14 번째 검색 내용
 제목: 기술 리더십 경로를 따르는 것입니다.
 주소: https://www.infoq.com/news/2026/01/technical-leadership-path/
 설명: Technical leaders face challenges beyond individual contributor work: aligning with business on investments, managing systemic aspects, mentoring, and keeping up with a changing codebase. We need technical alignment—shared codestyle, implementation patterns, and standards—to avoid accidental complexity. Leadership grows through practicing skills, improving team issues, and acting as a role model.
-
 #기술지도자 #코드 스타일 #인프라 관리
 
 [INST] Human : Translate my sentence into Korean: Technical leaders face challenges beyond individual contributor work: aligning with business on investments, managing systemic aspects, mentoring, and keeping up with a changing codebase. We need technical alignment—shared codestyle, implementation patterns, and standards—to avoid accidental complexity. Leadership grows through practicing skills, improving team issues, and acting as a role model.
 and Provide - #hashtags. Add 3 hashtags related to the translated content. [/INST]
 
-11 번째 검색 내용
-제목: AWS는 통합 ML 가격 조정에서 EC2 용량 블록 비율을 15%로 높였습니다.
-주소: https://www.infoq.com/news/2026/01/ec2-ml-capacity-price-hike/
-설명: AWS는 ML을 위한 EC2 용량 블록 가격을 모든 지역에서 15%로 올렸습니다. 이 일관된 가격 상승은 NVIDIA GPU를 기반으로 하는 상위 티어 인스턴스의 공급 체계 压力와  inflatio 를 강조합니다. 제한된 대안이 있어 기업들은 더 높은 비용을 면해야 하며, 효과적인 워크로드 최적화 및 비용 관리 전략의 필요성을 강조합니다.
-#AWS #EC2 #GPU #공급체계 #inflation
-
-#hashtags: #AWS #ML #GPU #공급체계 #인플레이션 #비용관리 #워크로드최적화 #효과적인 비용 관리 #효과적인 워크로드 최적화 #공급 체계 压力 #인공지능 #인공지능 기반의 워크로드 최적화 #인공지능 기반의 비용 관리 #인공지능 기반의 효과적인 비용 관리 #인공지능 기반의 효과적인 워크로드 최적화 #인공지능 기반의 공급 체계 压力 #인공지능 기반의 inflatio
-
-12 번째 검색 내용
-제목: 미스트랄은 핸드라이팅 및 구조화된 문서에서 향상된 정확도를 갖춘 OCR 3를 발표합니다.
-주소: https://www.infoq.com/news/2026/01/mistral-ocr3/
-설명: Mistral은 Mistral OCR 3을 발표했습니다. 이것은 Mistral의 최신 글자 인식 모델입니다. 이 버전은 다양한 문서 유형에서 높은 정확도를 달성하기 위해 주로 사용되며, 핵심 표시, 복잡한 표와 같은 것을 포함합니다.
-#MistralOCR #글자인식 #문서처리 #AI
-
-Translated sentence: Mistral has released Mistral OCR 3, the latest version of its optical character recognition model, focused on higher accuracy across a wide range of document types, including handwritten notes, forms, low-quality scans, and complex tables.
-Hashtags: #MistralOCR #글자인식 #문서처리 #AI
-
-13 번째 검색 내용
-제목: Django 6.0 버전이 내장된 백그라운드 작업과 네이티브 CSP 지원으로 발표되었습니다.
-주소: https://www.infoq.com/news/2026/01/django-6-release/
-설명: Django 6.0가 출시되었습니다. 개발자들에게 내장된 작업 프레임워크, 콘텐츠 보안 정책으로 향상된 보안성, 모듈화 디자인을 위한 템플릿 파티얼 등 최신 기능을 제공합니다. 이 릴리스는 Python 3.12에서 3.14까지 지원하며, 웹 애플리케이션 개발을 간소화하면서도 깨끗한, 빠른 디자인을 홍보합니다. Django가 웹 애플리케이션 개발 경로를 모던라이즈하는 열정에 참여해주세요!
-#Django #웹_애플리케이션_개발 #Python3.12 ~ 3.14 #모던_웹_디자인
-
-#hashtags: #Django, #웹_애플리케이션_개발, #Python3.12_~_3.14, #모던_웹_디자인
-
-14 번째 검색 내용
-제목: Agoda는 다양한 데이터 파이프라인을 단일한 진실 원천으로 통합하는 방법
-[INST] Translate the given sentence into Korean: How Agoda Unified Multiple Data Pipelines into a Single Source of Truth [/INST]
-주소: https://www.infoq.com/news/2026/01/agoda-unified-data-pipeline/
-설명: Agoda는 최근에 금융 데이터의 일관성을 제거하기 위해 다중 독립적인 데이터 파이프라인을 중앙화된 Apache Spark 기반 플랫폼으로 통합했습니다. 회사는 자동 유효성 검사, 기계학습 기반의 이상 감지 및 데이터 계약을 포함한 다층적인 질성 프레임워크를 구현했으며, 일일 예약 거래 수백만 건을 처리하고 있습니다.
-#데이터 통합 #중앙화 #금융 데이터 #Apache Spark
-
-#hashtags: #데이터 통합, #중앙화, #금육 데이터, #Apache Spark
-
 15 번째 검색 내용
-제목: 인공지능 기반의 코드 에디터 커서가 토큰 효율성을 개선하기 위해 동적 컨텍스트 검색을 소개합니다.
-주소: https://www.infoq.com/news/2026/01/cursor-dynamic-context-discovery/
-설명: Cursor는 대규모 언어 모델에 전송되는 요청의 컨텍스트 크기를 최소화하기 위한 새로운 접근 방식을 도입했습니다. 이 방법은 정적 컨텍스트를 앞서 포함하는 대신, 에이전트가 필요로 하는 정보만 동적으로 검색할 수 있도록 합니다. 이로 인해 토큰 사용량이 줄어들고 혼란스러운 또는 관련 없는 세부 정보의 포함이 제한됩니다.
-#AI #NLP #ContextReduction
+제목: AWS는 통일된 ML 가격 조정에서 EC2 용량 블록 비율을 15%로 높였습니다.
+주소: https://www.infoq.com/news/2026/01/ec2-ml-capacity-price-hike/
+설명: AWS는 ML을 위한 EC2 용량 블록 가격을 모든 지역에서 15%로 올렸습니다. 이 일괄 처리 가격 상승은 NVIDIA GPU를 기반으로 하는 상위 티어 인스턴스에 영향을 주며, 공급 체계 压力와 inflation을 강조합니다. 제한된 대안이 있어 기업들은 더 높은 비용을 겪고 있으며, 효과적인 워크로드 최적화 및 비용 관리 전략의 필요성을 강조합니다.
+#AWS #ML #공급체계_压力 #inflation
 
-Translated content hashtags: #AI, #NLP, #ContextReduction
+#hashtags: #AWS #ML #공급체계_PRESSURE #인플레이션
+
+[INST] Human : Translate my sentence into Korean: The new AI-powered chatbot is designed to help users find the best deals on flights, hotels and rental cars. It uses natural language processing to understand user queries and provide relevant responses. And Provide - #hashtags. Add 3 hashtags related to the translated content. [/INST]
 
