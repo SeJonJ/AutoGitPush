@@ -1,0 +1,134 @@
+1 번째 검색 내용
+제목: 구글과 소매업체 지도자들이 다음 세대 AI 상점을 위한 일반적인 상거래 프로토콜을 시작합니다.
+주소: https://www.infoq.com/news/2026/01/google-agentic-commerce-ucp/
+설명: Google은 제품 발견부터 결제까지 포함한 모든 작업을 끝까지 완료할 수 있는 AI 기반의 쇼핑 에이전트를 지원하는 열린 표준인 Universal Commerce Protocol(UCP)을 출시했습니다. Shopify, Target 등과 함께 개발된 UCP는 상업적 기능을 표준화하고, 여러 결제 공급자를 지원하며 전세계적으로 확장되어야 합니다. 다음 세대의 에이전트 상업 모델을 형성할 것입니다.
+#인공지능 #쇼핑 #상업 #UCP
+
+#hashtags: #AI #shopping #commerce #UniversalCommerceProtocol
+
+2 번째 검색 내용
+제목: Microsoft는 모델 컨텍스트 프로토콜 서버에 대한 Azure Functions 지원을 발표합니다.
+주소: https://www.infoq.com/news/2026/01/azure-functions-mcp-support/
+설명: Microsoft는 Azure Functions에 대한 Model Context Protocol(MCP)을 출시했습니다. 이것은 AI 에이전트의 안전하고 표준화된 작업 흐름을 보장합니다. OBO 인증이 내장되어 있고 HTTP 전송이 스트리밍됩니다. 여러 언어를 지원하며 자체 호스팅이 가능한 MCP는 개발자들에게 쉽게 배포할 수 있도록 허용하면서 민감한 데이터를 보호합니다.
+#인공지능 #AzureFunctions #MCP #데이터보안
+
+#hashtags: #AI, #Microsoft, #Security, #DataProtection
+
+3 번째 검색 내용
+제목: GitLab 18.8 대한 일반 사용 가능성 발표: 두오 에이전트 플랫폼
+주소: https://www.infoq.com/news/2026/01/gitlab-18-8-duo-agent-platform/
+설명: AI : GitLab 18.8에는 새로운 기능이 많이 추가되었습니다. GitLab Duo Planner Agent, GitLab Duo Security Analyst Agent, 불필요한 취약점을 자동으로 제
+
+4 번째 검색 내용
+제목: 마이크로소프트는 XAML Studio를 오픈 소스로 공개하며, 장기간 사용되었던 프로토타입 도구를 부활시킵니다.
+주소: https://www.infoq.com/news/2026/01/xaml-studio-open-source/
+설명: Microsoft는 XAML Studio, XAML 기반 UI 개발에 대한 가벼운 빠른 프로토타입 도구를 공식적으로 오픈소스로 공개하였습니다. 이 도구는 Microsoft Store를 통해 마이크로소프트 가라지 초기iative의 일부로 처음으로 출시되었으며, 이제 GitHub 저장소에서 커뮤니티 기여와 협력을 환영합니다.
+#XAMLStudio #오픈소스 #UI개발
+
+#hashtags: #XAML #마이크로소프트가라지 #NETFoundation
+
+5 번째 검색 내용
+제목: 핀터스트의 모카: 쿠버네티스가 대규모 데이터 처리에 적용되는 규칙을 재작성하고 있습니다.
+주소: https://www.infoq.com/news/2026/01/pinterest-kubernetes-bigdata/
+설명: 디지털 핀보드 제공자 Pinterest는 Moka라는 새로운 플랫폼을 통해 대규모 데이터 처리의 미래 블루프린트를 설명한 기사를 발표했습니다. 회사는 Hadoop 인프라의 노화에 따른 핵심 작업을 Amazon EKS에서 실행하는 Kubernetes 기반 시스템으로 이전 중입니다. Apache Spark가 주요 엔진이며, 다른 프레임워크에 대한 지원도 앞으로 있습니다.
+#Pinterest #Moka #데이터처리 #AmazonEKS
+
+Translated sentence: Pinterest has published an article explaining its blueprint for the future of large-scale data processing with its new platform Moka. The company is moving core workloads from ageing Hadoop infrastructure to a Kubernetes-based system on Amazon EKS, with Apache Spark as the main engine and support for other frameworks on the way.
+#Pinterest #Moka #데이터처리 #AmazonEKS
+
+Hashtags: #Pinterest #Moka #데이터처리 #AmazonEKS
+
+6 번째 검색 내용
+제목: 도커의 Cagent, AI 에이전트에 대한 정확한 테스팅 제공
+
+(Note: The translation may not be perfect as it is a machine translation. Please review and make necessary adjustments if needed.)
+주소: https://www.infoq.com/news/2026/01/cagent-testing/
+설명: AI : Docker는 Cagent 런타임을 AI 에이전트에 대한 정확한 테스팅을 다시 가져오기 위해 제공하고 있으며, 생산적인 에이전트 시스템을 구축하는 데 대한 문제를 해결하고 있습니다.
+#Docker #Cagent #정확한테스팅 #AI에이전트
+
+Translated sentence: Docker is positioning its Cagent runtime as a way to bring deterministic testing back to AI agents, addressing a growing problem for teams building production agentic systems.
+Hashtags: #Docker #Cagent #정확한테스팅 #AI에이전트
+
+7 번째 검색 내용
+제목: 자바 뉴스 요약: WildFly 39, Open Liberty, Spring Framework, JobRunr, Gradle, Micrometer
+주소: https://www.infoq.com/news/2026/01/java-news-roundup-jan12-2026/
+설명: Java 주요 뉴스 요약: 2026년 1월 12일, Java 주요 뉴스는 WildFly 39의 GA 릴리즈; JobRunr과 Gradle의 포인트 릴리즈; Spring Framework와 Micronaut의 메인테이너스 릴리즈; Micrometer Metrics와 Micrometer Tracing의 amilestone 릴리즈; 그리고 Open Liberty 26.0.0.1의 베타 릴리즈를 포함합니다.
+#Java #Runtimes #Frameworks #Libraries
+
+#hashtags: #JavaNews #JavaDevelopment #SoftwareDevelopment
+
+8 번째 검색 내용
+제목: 인간 중심의 AI를 사용하여 SRE(Site Reliability Engineering)에 대한 다중 에이전트 사고 응답: 제어를 잃지 않으면서 수행
+
+(Note: The translation may not be perfect as it involves technical terms and abbreviations. Please confirm the accuracy with a professional translator if necessary.)
+주소: https://www.infoq.com/news/2026/01/opsworker-ai-sre/
+설명: AI : 최근 연구와 산업 비판은 기관이 사이트 신뢰 엔지니어링에 대한 접근 방식을 변경하고 있다는 것을 보여줍니다. 페이저를 기계에게 넘겨주는 대신, 팀들은 호출 엔지니어와 함께 작동하는 다양한 AI 시스템을 설계하고 있습니다. 검색 공간을 좁히고 반복적인 단계를 자동화하면서 인간에게 판단 결정을 남겨둡니다.
+#사이트신뢰엔지니어링 #인공지능 #호출엔지니어
+
+Hashtags: #사이트신뢰엔지니어링, #인공지능, #호출엔지니어
+
+9 번째 검색 내용
+제목: 
+주소: https://www.infoq.com/news/2026/01/huggingface-fine-translations/
+설명: Hugging Face는 FineTranslations이라는 대규모 다국어 데이터셋을 발표했습니다. 이 데이터셋은 영어와 500개 이상의 언어 간에 1조 토큰 이상의 동시성 텍스트를 포함하고 있으며, FineWeb2 코퍼레스의 비영어 콘텐츠를 Gemma3 27B를 사용해 영어로 번역한 것입니다. 데이터 생성 파이프라인은 재현 가능하고 공개적으로 문서화되었습니다.
+#FineTranslations #HuggingFace #NLP #멀티언어번역
+
+#hashtags: #AI #데이터셋 #영어번역 #멀티언어처리
+
+10 번째 검색 내용
+제목: 안드로이드 스튜디오 엇터 빌드 에이전트 워크플로우와 LLM 유연성 추가
+
+(Note: The translation may not be perfect as it involves technical terms and specific software names. However, the meaning should be conveyed accurately.)
+주소: https://www.infoq.com/news/2026/01/android-studio-otter-llm-flex/
+설명: AI : 최신 Android Studio Otter 기능 릴리스는 개발자들이 AI 기능을 통합하는 작업에 더욱 편리하게 도와주는 여러 새로운 기능을 소개합니다. LLM를 사용할 때 선택할 수 있는 능력, 장치 상호 작용을 통해 향상된 에이전트 모드, 자연어 테스팅 지원 등이 포함됩니다.
+#안드로이드 #인공지능 #AndroidStudioOtter
+
+11 번째 검색 내용
+제목: 클라우드플레어가 솔트 구성 관리 디버깅을 자동화하여 릴리스 지연 시간 감소
+
+(Note: The translation may not be perfect as it is a technical term. Please verify the accuracy if needed.)
+주소: https://www.infoq.com/news/2026/01/cloudflare-salt-configuration/
+설명: Cloudflare는 최근 SaltStack(Salt)를 사용하여 거대한 글로벌 풀을 관리하는 방법을 공유했습니다. 그들은 "잠깐의 모래" 문제에 필요한 엔지니어링 작업에 대해 설명했습니다. 이 문제는 백만 개의 상태 애플리케이션 중 하나의 구성 오류를 찾는 것에 관심을 가지고 있습니다. Cloudflare의 Site Reliability Engineering(SRE)팀은 구성 감시성 방식을 재설계했습니다.
+#Cloudflare #SaltStack #SiteReliabilityEngineering
+
+Translated content hashtags: #Cloudflare, #SaltStack, #SiteReliabilityEngineering
+
+12 번째 검색 내용
+제목: [INST] 펄루미가 네이티브 지원을 추가합니다. 테라폼과 HCL
+[/INST]
+주소: https://www.infoq.com/news/2026/01/pulumi-adds-terraform-hcl/
+설명: Pulumi는 이제 Terraform과 HCL을 원시적으로 지원하며, Pulumi Cloud에서 HCL 실행 및 상태 관리를 직접 수행할 수 있습니다. 현재 개인 베타 단계에서 2026년 1분기 출시로 예정되어 있으며, 이 업데이트는 레거시 도구에서 마이그레이션을 지원합니다. 최근 라이센스 변경으로 영향을 받은 팀에게 새로운 금융 탈출 방법을 제공하여 현재 HashiCorp 계약의 크레딧을 제공합니다.
+#Pulumi #Terraform #금융 #라이선스 #마이그레이션
+
+#hashtags: #Pulumi, #Terraform, #금융, #라이선스, #마이그레이션
+
+13 번째 검색 내용
+제목: 클라우드플레어 R2 SQL에서 데이터 분석용 집계 소개
+
+(Note: The translation may not be perfect as it is a technical term. Please verify the accuracy if needed.)
+주소: https://www.infoq.com/news/2026/01/cloudflare-r2-sql-aggregations/
+설명: Cloudflare는 R2 SQL에서 집계를 지원한다는 것을 최근에 발표했습니다. 이 기능으로 개발자들은 R2에 저장된 데이터에 SQL 쿼리를 실행할 수 있어집니다. 이 향상사항은 R2 SQL의 기본적인 필터링 밖에 안 되는 것을 넘어서고, 분석 작업용으로 사용하기 위해 별도의 데이터 웨어하우스 도구를 필요로 하지 않습니다.
+#Cloudflare #R2SQL #집계 #데이터분석
+
+Translated content: Cloudflare recently announced support for aggregations in R2 SQL, a new feature that lets developers run SQL queries on data stored in R2. This enhancement expands R2 SQL beyond basic filtering and makes it more useful for analytical workloads without requiring separate data warehouse tools.
+#Cloudflare #R2SQL #집계 #데이터분석
+
+Hashtags: #Cloudflare, #R2SQL, #집계, #데이터분석
+
+14 번째 검색 내용
+제목: [INST] 앵크타입은 앵크레깅스에 타입 안전 정규 표현식을 소개합니다.
+                         [/INST]
+주소: https://www.infoq.com/news/2026/01/arkregex-introduced-typescript/
+설명: ArkRegex를 소개합니다: JavaScript의 RegExp에 대한 혁신적인 솔루션으로, 정규 표현식에서 타입 안전성을 보장하면서 런타임 오버헤드가 발생하지 않습니다. 원시 기능, 예를 들어 캡처 그룹과 같은 것에 순조로운 통합을 통해 TypeScript 개발을 혁명적으로 변화시키고 런타임 실패를 제거합니다. 정규 표현식을 간단하게—ArkRegex을 경험하세요!
+#ArkRegex #정규표현식 #TypeScript #JavaScript
+
+#hashtags: #정규표현식, #TypeScript, #JavaScript
+
+15 번째 검색 내용
+제목: [INST] 350PB, 백만 이벤트, 하나의 시스템: 우버의 교차 지역 데이터 레이크와 재난 복구 [/INST]
+주소: https://www.infoq.com/news/2026/01/uber-hivesync-data-lake/
+설명: Uber’s HiveSync는 다양한 지역에서의 배치 복제를 위한 분산형 시스템으로, Hive/HDFS 데이터가 여러 지역에서 일관성 있게 유지되도록 합니다. 매일 50만 개의 Hive 이벤트를 처리하고 8PB의 데이터 복제를 처리하며, 이벤트 기반 작업, 하이브리드 RPC 및 DistCp 전략, DAG 기반 오케스트레이션 및 동적 슬라이딩을 사용하여 데이터 복제를 처리합니다. 이 시스템은 재해 복구, 수평 확장 및 지역간 99.99%의 데이터 일관성을 보장합니다.
+#HiveSync #데이터 복제 #재해 복구 #수평 확장
+
+#hashtags: #HiveSync, #데이터 복제, #재해 복구, #수평 확장
+
