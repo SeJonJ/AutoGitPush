@@ -1,51 +1,52 @@
 1 번째 검색 내용
-제목: [INST] 사이버아크가 AI 에이전트를 보호하는 방법: 명령 감지기와 역사 인식 유효성 검증 [/INST]
+제목: [INST] 사이버아크가 AI 에이전트를 보호하는 방법: 명령 감지기와 역사 인식 유효성 검증을 통해 [/INST]
 주소: https://www.infoq.com/news/2026/01/cyberark-agents-defenses/
-설명: AI : 악의적인 명령이 숨겨진 외부 데이터에서 탈출하지 못하도록 대화상에 들어오는 모든 텍스트를 신뢰할 수 없는 것으로 취급해야 합니다. Niv Rabin, CyberArk의 주요 소프트웨어 아키텍트는 이러한 방법을 개발하였습니다. 그들은 명령 감지와 역사 인식 유효성 검증을 기반으로 한 접근 방식을 사용하여 악의적인 입력 데이터와 컨텍스트-역사 독살에 대비합니다.
-#인공지능 #보안 #데이터 유효성 검증
+설명: AI : 악의적인 지시가 숨겨진 외부 데이터에서 오는 것을 방지하기 위해, 에이전트의 컨텍스트에 들어오는 모든 텍스트는 신뢰할 수 없는 것으로 처리해야 합니다. Niv Rabin, CyberArk의 주요 소프트웨어 아키텍트는 이를 보호하기 위한 접근 방식을 개발했습니다. 그들은 인стру크션 감지와 역사 인식 유효성 검사를 기반으로 한 접근 방식을 사용합니다. 이것은 악의적인 입력 데이터와 컨텍스트-역사 독살에 대비하는 데 도움이 됩니다.
+#인공지능 #보안 #데이터 유효성 검사
 
 Translated sentence: To prevent agents from obeying malicious instructions hidden in external data, all text entering an agent's context must be treated as untrusted, says Niv Rabin, principal software architect at AI-security firm CyberArk. His team developed an approach based on instruction detection and history-aware validation to protect against both malicious input data and context-history poisoning.
 
-Hashtags: #인공지능 #보안 #데이터 유효성 검증
+Hashtags: #인공지능보안 #데이터유효성검사 #악의적인입력데이터 
+
+Translated sentence: To prevent agents from obeying malicious instructions hidden in external data, all text entering an agent's context must be treated as untrusted, says Niv Rabin, principal software architect at AI-security firm CyberArk. His team developed an approach based on instruction detection and history-aware validation to protect against both malicious input data and context-history poisoning.
+
+Hashtags: #인공지능보안 #데이터유효성검사 #악의적인입력데이터
 
 2 번째 검색 내용
 제목: 인더픽스 공지: 클로드 코워크 발표
 
-[INST] 이 문장을 한국어로 번역해주세요: [/INST]
-
-인더픽스는 클로드 코워크를 발표합니다.
+[INST] 인더픽스가 "클로드 코워크"를 발표한다는 공지를 번역해주세요. [/INST]
 주소: https://www.infoq.com/news/2026/01/claude-cowork/
-설명: Claude Cowork: Anthropic의 인공지능 에이전트는 macOS에서 파일 관리를 혁신시키고 있습니다. 고급 자동화 기능을 통해 문서 처리를 향상시키며, 파일을 구성하고 다양한 단계의 워크플로우를 실행합니다. 사용자는 최근 발생한 이슈로 인해 백업 필요에 주의해야 합니다. 데이터 무결성을 보장하면서 효율적인 오피스 솔루션을 탐색할 수 있습니다.
-#ClaudeCowork #macOS #파일관리 #워크플로우 #데이터무결성
-
-#hashtags: #ClaudeCowork, #macOS, #파일관리, #워크플로우, #데이터무결성
+설명: Claude Cowork: Anthropic의 인공지능 에이전트는 macOS의 파일 관리를 혁신시키고 있습니다. 고급 자동화 기능을 통해 문서 처리를 향상시키며, 파일을 구성하고 다양한 단계의 워크플로우를 실행합니다. 사용자는 최근 발생한 이슈에 따라 백업 필요성에 주의해야 합니다. 효율적인 오피스 솔루션을 탐색하면서도 데이터 무결성을 보장하는 것이 중요합니다.
+#ClaudeCowork #macOS #파일관리 #오피스솔루션
+#인공지능 #에이전트 #데이터무결성 #백업필요성
+#효율적인워크플로우 #문서처리 향상 #다양한단계의워크플로우 실행
 
 3 번째 검색 내용
-제목: [INST] 스케일에서의 데이터 흐름 추적 및 제어: 메타의 개인정보 인식 인프라
+제목: [INST] 대규모의 GenAI에서 개인정보보호를 고려한 Meta의 데이터 흐름 추적 및 제어: Tracking and Controlling Data Flows at Scale in GenAI: Meta’s Privacy-Aware Infrastructure
 [/INST]
 주소: https://www.infoq.com/news/2026/01/meta-pai-genai-data-flows/
-설명: Meta는 인공지능 개발을 지원하면서도 개인정보 보호를 강조하는 Privacy-Aware Infrastructure(PAI)를 확장하였습니다. 복잡한 데이터 흐름에서 개인정보 보호를 유지하면서, 대규모 상속 추적, PrivacyLib 도구화와 런타임 정책 제어를 사용하여 AI 워크로드, 예를 들어 Meta AI 안경에 대한 일관된 개인정보 보호를 적용할 수 있습니다.
+설명: Meta는 인공지능 개발을 지원하면서 개인정보를 보호하는 Privacy-Aware Infrastructure(PAI)를 확장하였습니다. 복잡한 데이터 흐름에서 개인정보 보호를 강제할 수 있는 일관된 방식으로 AI 워크로드, 예를 들어 Meta AI 안경과 같은 것을 지원합니다. 대규모 상속 추적, PrivacyLib 인стру먼테이션 및 실행 정책 제어를 사용하여 시스템을 구현합니다.
 #인공지능 #개인정보보호 #MetaAI #PrivacyAwareInfrastructure
 
-#hashtags: #인공지능개발, #데이터프로세싱, #개인정보보호기술
+#hashtags: #AI #데이터프리빙니티 #개인정보보호기술
 
 4 번째 검색 내용
-제목: [INST] MIT의 재귀 언어 모델이 장기 컨텍스트 작업에서 성능을 향상시킨다.
-[/INST]
+제목: [INST] MIT의 재귀 언어 모델이 장기 컨텍스트 작업에서 성능을 향상시키고 있습니다. [/INST]
 주소: https://www.infoq.com/news/2026/01/mit-recursive-lm/
-설명: AI : MIT CSAIL 연구원들은 Recursive Language Models(RLM)라는 기술을 발표했습니다. RLM은 LLM의 성능을 길게 맞춰 처리하는데 도움이 됩니다. RLMs는 프로그래밍 환경을 사용하여 입력을 재귀적으로 분해하고 처리할 수 있으며, 기본 LLM보다 100배 이상의 길이의 프롬프트를 처리할 수 있습니다.
+설명: AI : MIT CSAIL 연구원들은 Recursive Language Models(RLM)라는 기술을 발표했습니다. RLM은 LLM의 성능을 장기 컨텍스트 작업에 대해 향상시키기 위해 프로그래밍 환경을 사용하여 재귀적으로 입력을 분해하고 처리합니다. RLM은 기본 LLM보다 100배 이상의 길이의 제안에 대응할 수 있습니다.
 #인공지능 #MITCSAIL #RecursiveLanguageModels
 
 #hashtags: #AIresearch #NLPtechniques #Longcontexttasks
 
 5 번째 검색 내용
-제목: Salesforce는 1,000개 이상의 EKS 클러스터를 Karpenter로 마이그레이션하여 확장 속도와 효율성을 향상시킵니다.
+제목: Salesforce는 1,000+ EKS 클러스터를 Karpenter로 마이그레이션하여 조정 속도와 효율성을 개선합니다.
 주소: https://www.infoq.com/news/2026/01/salesforce-eks-karpenter/
 설명: Salesforce는 1,000개 이상의 Amazon Elastic Kubernetes Service(EKS) 클러스터를 Karpenter로 차단적으로 이전했습니다. Karpenter는 AWS의 열린 소스 노드 프로비저닝 및 자동 조정 솔루션입니다.
 #Salesforce #EKS #Karpenter
 
 6 번째 검색 내용
-제목: 프리즈마 7: 라스트 무료 아키텍처와 성능 향상
+제목: 프리즈마7: 라스트 무료 아키텍처와 성능 향상
 
 (Note: The translation may not be perfect as it is a machine translation. Please double-check for accuracy if needed.)
 주소: https://www.infoq.com/news/2026/01/prisma-7-performance/
@@ -54,21 +55,20 @@ Hashtags: #인공지능 #보안 #데이터 유효성 검증
 #TypSafety #DatabaseSupport
 
 7 번째 검색 내용
-제목: 구글과 소매업체 지도자들이 다음 세대 AI 쇼핑을 위한 통용 상거래 프로토콜 출시
-
-(Note: The translation may not be perfect, as some phrases might need to be adjusted for natural Korean sentence structure.)
+제목: 구글과 소매업체 지도자들이 다음 세대 AI 쇼핑을 위한 일반적인 상거래 프로토콜을 출시합니다.
 주소: https://www.infoq.com/news/2026/01/google-agentic-commerce-ucp/
-설명: Google은 제품 발견부터 결제까지 포함한 전체 작업을 완료하는 AI 기반의 상거래 에이전트를 지원하는 개방형 표준인 Universal Commerce Protocol(UCP)을 출시했습니다. UCP는 Shopify, Target 및 기타 기업과 협력하여 개발되었으며, 상거래 능력을 표준화하고, 여러 결제 공급자를 지원하며 전세계적으로 확장됩니다. 다음 세대의 에이전트 기반 상거래를 형성합니다.
+설명: Google은 제품 발견부터 결제까지 포함한 전체 작업을 완료하는 AI 기반의 상거래 에이전트를 지원하기 위해 공개 표준으로 개발된 Universal Commerce Protocol(UCP)을 출시했습니다. UCP는 상거래 능력을 표준화하고, 여러 결제 제공자를 지원하며, 전세계적으로 확장되어야 합니다. 다음 세대의 에이전트 기반 상거래를 형성할 것입니다.
 #인공지능 #상거래 #UCP
 
-#hashtags: #AI #ecommerce #globalstandard
+Hashtags: #인공지능, #상거래, #UCP
 
 8 번째 검색 내용
-제목: 마이크로소프트는 모델 컨텍스트 프로토콜 서버에 대한 Azure Functions 지원을 발표합니다.
+제목: Microsoft가 모델 컨텍스트 프로토콜 서버에 대한 Azure Functions 지원을 발표합니다.
 주소: https://www.infoq.com/news/2026/01/azure-functions-mcp-support/
-설명: Microsoft는 Azure Functions에 대해 Model Context Protocol(MCP)을 출시했습니다. 이는 AI 에이전트의 안전하고 표준화된 워크플로우를 보장합니다. 내장된 OBO 인증과 스트리밍 HTTP 전송으로 주요 보안 문제를 해결합니다. 이제 MCP는 여러 언어를 지원하고 자체 호스팅을 가능하게 하며, 개발자들에게 쉽게 배포할 수 있도록 보호적인 데이터 처리를 허용합니다.
-#MCP #AzureFunctions #AI #보안 #표준화
-#인공지능 #보안 #표준화 #워크플로우
+설명: Microsoft는 Azure Functions에 대해 Model Context Protocol(MCP)을 출시했습니다. 이것은 AI 에이전트의 안전하고 표준화된 작업 흐름을 보장합니다. 내장된 OBO 인증과 스트리밍 가능한 HTTP 전송으로 주요 보안 문제를 해결합니다. 이제 MCP는 여러 언어와 자체 호스팅을 지원하며, 개발자들에게 쉽게 배포할 수 있도록 안전한 데이터를 보호합니다.
+#인공지능 #MCP #AzureFunctions #보안
+
+#hashtags: #AI #MCP #AzureFunctions #Security
 
 9 번째 검색 내용
 제목: GitLab 18.8 대한 일반 사용 가능성 발표: 두오 에이전트 플랫폼
@@ -78,59 +78,52 @@ Hashtags: #인공지능 #보안 #데이터 유효성 검증
 10 번째 검색 내용
 제목: 마이크로소프트는 XAML Studio를 오픈 소스로 공개하며, 장기간 사용되었던 프로토타입 도구를 부활시킵니다.
 주소: https://www.infoq.com/news/2026/01/xaml-studio-open-source/
-설명: Microsoft는 XAML Studio, XAML 기반 UI 개발에 대한 가벼운 빠른 프로토타입 도구를 공식적으로 오픈소스로 공개하였습니다. 이 도구는 Microsoft Store를 통해 마이크로소프트 가라지 초기iative의 일부로 처음으로 출시되었으며, 이제 GitHub 저장소에서 커뮤니티 기여와 협력을 환영합니다.
+설명: Microsoft는 XAML Studio, XAML 기반 UI 개발에 대한 가벼운 빠른 프로토타입 도구를 공식적으로 오픈소스로 공개하였습니다. 이 도구는 Microsoft Store를 통해 마이크로소프트 가라지 초기iative의 일부로 처음으로 발표되었으며, 이제 GitHub 리포지토리를 통해 커뮤니티 기여와 협업을 환영합니다.
 #XAMLStudio #오픈소스 #UI개발
 
-#hashtags: #XAML #마이크로소프트가라지 #NETFoundation
+#hashtags: #XAML #MicrosoftGarage #NETFoundation
 
 11 번째 검색 내용
-제목: 핀터스트의 모카: 쿠버네티스가 대규모 데이터 처리에 적용되는 규칙을 재작성하고 있습니다.
+제목: 핀터스트의 모카: Kubernetes가 대규모 데이터 처리에 적용되는 규칙을 재작성하고 있습니다.
 주소: https://www.infoq.com/news/2026/01/pinterest-kubernetes-bigdata/
-설명: 디지털 핀보드 제공자 Pinterest는 Moka라는 새로운 플랫폼을 통해 대규모 데이터 처리의 미래 블루프린트를 설명한 기사를 발표했습니다. 회사는 Hadoop 인프라의 노화에 따른 핵심 작업을 Amazon EKS 기반 Kubernetes 시스템으로 이전하고 있으며, Apache Spark가 주요 엔진이며 다른 프레임워크에 대한 지원이 추후 제공될 예정입니다.
+설명: 디지털 핀보드 제공자 Pinterest는 새로운 플랫폼 Moka를 통해 대규모 데이터 처리의 미래 블루프린트를 설명한 기사를 발표했습니다. 회사는 Hadoop 인프라의 장년화를 벗어나 Kubernetes 기반 시스템을 Amazon EKS에서 핵심 워크로드를 이전하고 있으며, Apache Spark가 주요 엔진이며 다른 프레임워크에 대한 지원이 추후 제공될 예정입니다.
 #Pinterest #Moka #데이터처리 #AmazonEKS
 
-Translated sentence: Pinterest, a digital pinboard provider, has published an article explaining its blueprint for the future of large-scale data processing with its new platform Moka. The company is moving core workloads from aging Hadoop infrastructure to a Kubernetes-based system on Amazon EKS, with Apache Spark as the main engine and support for other frameworks on the way.
+Translated sentence: Pinterest has published an article explaining its blueprint for the future of large-scale data processing with its new platform Moka. The company is moving core workloads from ageing Hadoop infrastructure to a Kubernetes-based system on Amazon EKS, with Apache Spark as the main engine and support for other frameworks on the way.
 #Pinterest #Moka #데이터처리 #AmazonEKS
 
 12 번째 검색 내용
-제목: 도커의 Cagent, AI 에이전트에 대한 정확한 테스팅 제공
-
-(Note: The translation may not be perfect as it is a machine translation. Please review and make necessary adjustments if needed.)
+제목: 도커의 Cagent, AI 에이전트에 대한 정확한 테스팅을 제공합니다.
 주소: https://www.infoq.com/news/2026/01/cagent-testing/
-설명: Docker는 Cagent runtime을 사용하여 AI 에이전트에 대한 정확한 테스팅을 다시 가져오고자 하며, 생산적인 에이전트 시스템을 구축하는 데 있어 늘어난 문제를 해결하고 있습니다.
-#Docker #Cagent #AI #테스팅
+설명: AI : Docker는 Cagent 런타임을 AI 에이전트에 대한 정확한 테스팅을 다시 가져오기 위해 생산적인 에이전트 시스템을 구축하는 데 있어 성장하는 문제를 해결하고 있습니다.
+#Docker #Cagent #정확한테스팅 #AI에이전트
 
 Translated sentence: Docker is positioning its Cagent runtime as a way to bring deterministic testing back to AI agents, addressing a growing problem for teams building production agentic systems.
-Hashtags: #Docker, #Cagent, #AI, #testing
+Hashtags: #Docker #Cagent #정확한테스팅 #AI에이전트
 
 13 번째 검색 내용
 제목: 자바 뉴스 요약: WildFly 39, Open Liberty, Spring Framework, JobRunr, Gradle, Micrometer
 주소: https://www.infoq.com/news/2026/01/java-news-roundup-jan12-2026/
-설명: Java 주요 뉴스: 2026년 1월 12일, WildFly 39의 GA 릴리즈; JobRunr과 Gradle의 포인트 릴리즈; Spring Framework와 Micronaut의 메인테이너스 릴리즈; Micrometer Metrics와 Micrometer Tracing의 amilestone 릴리즈; Open Liberty 26.0.0.1의 베타 릴리즈입니다.
-#Java #Runtle #OpenLiberty #WildFly
+설명: Java 주요 뉴스: 2026년 1월 12일, WildFly 39의 GA 릴리즈; JobRunr과 Gradle의 포인트 릴리즈; Spring Framework와 Micronaut의 메인테이너스 릴리즈; Micrometer Metrics와 Micrometer Tracing의 밀스톤 릴리즈; Open Liberty 26.0.0.1의 베타 릴리즈입니다.
+#Java #Runtle #OpenLiberty #Micronaut
 
-#hashtags: #Java #Runtle #OpenLiberty #WildFly
+#hashtags: #JavaNews, #SoftwareUpdates, #DevelopmentTools
 
 14 번째 검색 내용
-제목: 인간 중심의 AI를 사용하여 SRE(Site Reliability Engineering)에 대한 다중 에이전트 사고 응답: 제어를 잃지 않으면서 수행하는 방법
+제목: 인간 중심의 AI를 사용하여 SRE(Site Reliability Engineering)에 대한 다중 에이전트 응급 대처: 제어를 잃지 않으면서 수행하기
 
-(Note: The translation may not be perfect as it involves technical terms and abbreviations. Please check the translation for accuracy.)
+(Note: The translation may not be perfect as it involves technical terms and abbreviations. Please check the translation for accuracy before using it.)
 주소: https://www.infoq.com/news/2026/01/opsworker-ai-sre/
-설명: AI : 최근 연구와 산업 비판은 기관이 사이트 신뢰 엔지니어링에 대한 접근 방식을 변경하고 있다는 것을 보여줍니다. 페이저를 기계에게 넘겨주는 대신, 팀들은 호출 엔지니어와 함께 작동하는 다양한 AI 시스템을 설계하고 있습니다. 검색 공간을 좁히고 번거로운 단계를 자동화하면서 인간에게 판단 결정을 남겨둔다.
-#사이트신뢰엔지니어링 #인공지능 #호출엔지니어
+설명: AI : 최근 연구와 산업 주석으로는, 기관이 사이트 신뢰성 공학에 대한 접근 방식이 변화하고 있음을 보여줍니다. 페이저를 기계에게 넘겨주는 것보다, 팀들은 호출 엔지니어와 함께 작동하는 다양한 AI 시스템을 설계하고 있습니다. 검색 공간을 좁히고 번거로운 단계를 자동화하면서 인간의 판단 결정에는 인간이 남깁니다.
+#사이트신뢰성공학 #인공지능 #호출엔지니어
 
-Hashtags: #사이트신뢰엔지니어링, #인공지능, #호출엔지니어
+Hashtags: #사이트신뢰성공학, #인공지능, #호출엔지니어
 
 15 번째 검색 내용
-제목: 휴지 페이스가 발표한 FineTranslations: 천억 토큰의 다국어 대조 텍스트 데이터셋
-
-(Note: The translation may not be perfect as it is a direct translation from English to Korean without considering the grammar and structure of the Korean language.)
+제목: 
 주소: https://www.infoq.com/news/2026/01/huggingface-fine-translations/
-설명: Hugging Face는 FineTranslations이라는 대규모 다국어 데이터셋을 발표했습니다. 이 데이터셋은 영어와 500개 이상의 언어 간에 1조 토큰 이상의 동시성 텍스트를 포함하고 있으며, FineWeb2 코퍼레스의 비영어 콘텐츠를 Gemma3 27B를 사용해 영어로 번역했습니다. 전체 데이터 생성 파이프라인은 재생산성과 공개 문서화가 목적으로 설계되었습니다.
+설명: Hugging Face는 FineTranslations이라는 대규모 다국어 데이터셋을 발표했습니다. 이 데이터셋은 영어와 500개 이상의 언어 간에 1조 토큰 이상의 동시성 텍스트를 포함하고 있으며, FineWeb2 코퍼레스의 비영어 콘텐츠를 Gemma3 27B를 사용해 영어로 번역한 것입니다. 전체 데이터 생성 파이프라인은 재생산성과 공개 문서화가 가능하도록 설계되었습니다.
 #HuggingFace #FineTranslations #NLP #멀티언어
 
-#hashtags:
-1. #HuggingFace : Hugging Face는 인공지능 기반의 자연어 처리(NLP) 모델을 개발하고 유지보수하는 데 중요한 역할을 합니다.
-2. #FineTranslations : FineTranslations은 대규모 다국어 데이터셋으로, 다양한 언어를 번역하고 처리하는 데 도움이 됩니다.
-3. #NLP : NLP(자연어 처리)는 인공지능 기반의 문서 분석, 번역, 질문 및 대화 등을 포함하여 자연어와 컴퓨터 간의 통신을 가능하게 합니다.
+#hashtags: #HuggingFace, #FineTranslations, #NLP, #멀티언어
 
