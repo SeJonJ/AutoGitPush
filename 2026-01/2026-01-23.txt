@@ -1,0 +1,140 @@
+1 번째 검색 내용
+제목: [INST] 열린 결제 표준 x402가 주요 업그레이드에서 기능을 확장합니다. [/INST]
+주소: https://www.infoq.com/news/2026/01/x402-agentic-http-payments/
+설명: After six months of real-world usage, the open payment standard x402 has received a major update, extending the protocol beyond single-request, exact-amount payments. The release adds support for wallet-based identity, automatic API discovery, dynamic payment recipients, expanded multi-chain and fiat support via CAIP standards, and a fully modular SDK for custom networks and payment schemes.
+#오픈페이먼트표준 #x402 #CAIP표준
+
+Translated content: 실제 사용 후 6개월 지난 오픈 페이먼트 표준 x402는 단일 요청, 정확한 금액 결제를 넘어 확장되었습니다. 이 릴리즈는 지갑 기반 식별, API 자동 검색, 동적인 결제 수신자, CAIP 표준을 통한 다양한 체인 및 화폐 지원 및 사용자 정의 네트워크와 결제 방식을 위한 완전히 모듈화된 SDK를 추가합니다.
+#오픈페이먼트표준 #x402 #CAIP표준
+
+2 번째 검색 내용
+제목: 유럽 데이터 소프트라우티 초기화 프로젝트에서 신뢰 프레임워크 발표
+
+(Note: The translation may not be perfect as it is a direct translation from English to Korean. The sentence structure and grammar might need adjustments for natural flow in the Korean language.)
+주소: https://www.infoq.com/news/2026/01/data-sovereignty-trust-framework/
+설명: 인공지능 및 데이터 소벌리티를 중심으로 한 Gaia-X 신뢰 프레임워크의 다니브 출시는 규정 준수 자동화와 분야 및 지역 간 상호 운용성을 지원하여 신뢰할 수 있는 데이터 거래 및 서비스 상호 작용을 보장합니다. Gaia-X 슬림 2025은 AI와 데이터 소벌리티를 주제로 한 협의 대화를 진행하고 유럽과 이상의  innovative 지역에서 지원되는 데이터 공간 솔루션을 발표했습니다.
+#인공지능 #데이터소벌리티 #가이아-X #유럽 #인нова테이션
+#Gaia-XSummit2025 #데이터공간솔루션 #신뢰성 있는 데이터 거래 #상호운용성 #규정준수자동화
+
+3 번째 검색 내용
+제목: AWS 유럽 국가 소프트웨어 클라우드를 출시하면서 미국 법적 관할에 대한 의문 제기
+
+(Note: The translation may not be perfect as it is a direct translation from English to Korean. The sentence structure and grammar might need adjustments for natural Korean.)
+주소: https://www.infoq.com/news/2026/01/aws-european-sovereign-cloud/
+설명: AWS는 유럽 국가 소프트웨어 클라우드를 €7.8억 인헤스로 출시했습니다, 이것은 EU 규정 요구 사항을 충족하고 지역적 긴장감에서 데이터 개인정보 문제를 해결하기 위해 설계되었습니다. 글로벌 지역과의 운영 분리가 있어도, 미국 데이터 액세스에 대한 법적 보호에 대한 질문은 여전히 남아 있습니다. 경쟁자인 Microsoft와 지역 제공업체는 더 강력한 국가 소프트웨어 클라우드 옵션을 제공할 수 있습니다.
+#유럽소프트웨어클라우드 #AWS #데이터개인정보 #경쟁자
+
+Translated content: AWS has launched its European Sovereign Cloud with a €7.8 billion investment, designed to meet EU regulatory demands and address data privacy concerns amid geopolitical tensions. Despite its operational separation from global regions, questions linger about legal protections against U.S. data access. Competitors like Microsoft and local providers may present stronger sovereignty options.
+#EuropeanSovereignCloud #AWS #DataPrivacy #Competitors
+
+Translated content: AWS has launched its European Sovereign Cloud with a €7.8 billion investment, designed to meet EU regulatory demands and address data privacy concerns amid geopolitical tensions. Despite its operational separation from global regions, questions linger about legal protections against U.S. data access. Competitors like Microsoft and local providers may present stronger sovereignty options.
+#EuropeanSovereignCloud #AWS #DataPrivacy #Competitors
+
+4 번째 검색 내용
+제목: [INST] 사이버아크가 AI 에이전트를 보호하는 방법: 명령 감지기와 역사 인식 검증 [/INST]
+주소: https://www.infoq.com/news/2026/01/cyberark-agents-defenses/
+설명: AI : 악의적인 명령이 숨겨진 외부 데이터에서 탈출하지 못하도록 모든 텍스트가 에이전트의 컨텍스트에 들어오는 것을 믿을 수 없는 것으로 취급해야 합니다. Niv Rabin, CyberArk AI-보안 기업의 주요 소프트웨어 아키텍트는 이를 보호하기 위해 명령 감지 및 역사 인식 검증 기반의 접근 방식을 개발했습니다.
+#AI보안 #데이터보안 #악의적인입력
+
+Translated sentence: To prevent agents from obeying malicious instructions hidden in external data, all text entering an agent's context must be treated as untrusted, says Niv Rabin, principal software architect at AI-security firm CyberArk. His team developed an approach based on instruction detection and history-aware validation to protect against both malicious input data and context-history poisoning.
+
+Hashtags: #AI보안 #데이터보안 #악의적인입력
+
+5 번째 검색 내용
+제목: 인간적(Anthropic)이 Claude CoWork을 발표합니다.
+
+[INST] Translate my sentence into Korean:
+
+                            Anthropic Announces Claude CoWork
+                         [/INST]
+주소: https://www.infoq.com/news/2026/01/claude-cowork/
+설명: Claude Cowork: Anthropic의 인공지능 에이전트는 macOS에서 파일 관리를 혁신시키고 있습니다. 고급 자동화 기능을 통해 문서 처리를 향상시키며, 파일을 구성하고 다양한 단계 워크플로우를 실행합니다. 사용자는 최근 발생한 이슈에 따라 백업 필요성에 주의해야 합니다. 데이터 무결성을 보장하면서 효율적인 오피스 솔루션을 탐색할 수 있습니다.
+#ClaudeCowork #macOS #파일관리 #워크플로우 #데이터무결성
+
+#hashtags: #ClaudeCowork, #macOS, #filemanagement, #AIagent, #workflowautomation
+
+6 번째 검색 내용
+제목: Tracking and Controlling Data Flows at Scale in GenAI: Meta's Privacy-Aware Infrastructure
+
+[INST] 이 문장을 한국어로 번역해주세요 : [/INST]
+
+데이터 흐름의 추적 및 제어를 규모에 따라 구현하는 GenAI: Meta의 개인정보 관련 인프라
+
+[INST] 번역결과 확인 : [/INST]
+주소: https://www.infoq.com/news/2026/01/meta-pai-genai-data-flows/
+설명: Meta는 인공지능 개발을 지원하면서도 개인정보 보호를 강조하는 Privacy-Aware Infrastructure(PAI)를 확장하였습니다. 복잡한 데이터 흐름에서 개인정보 보호를 유지하면서도 Meta AI 안경과 같은 AI 워크로드에 일관된 개인정보 보호 적용을 가능하게 합니다. 대규모 상속 추적, PrivacyLib 인стру먼트, 실시간 정책 제어를 사용하여 수동 병목 현상이 발생하지 않으면서 개인정보 보호를 강조합니다.
+#인공지능 #개인정보보호 #MetaAI
+
+#hashtags: #AI #Privacy #DataFlow
+
+7 번째 검색 내용
+제목: MIT의 재귀 언어 모델이 장기 컨텍스트 작업에서 성능을 향상시킨다.
+주소: https://www.infoq.com/news/2026/01/mit-recursive-lm/
+설명: AI : MIT CSAIL 연구원들은 Recursive Language Models(RLM)라는 기술을 발표했습니다. RLM은 LLM의 성능을 길게 맞춰 처리하는데 도움이 됩니다. 이 기술은 프로그래밍 환경을 사용하여 입력을 재귀적으로 분해하고 처리할 수 있으며, 기본 LLM보다 100배 이상의 길이의 프롬프트를 처리할 수 있습니다.
+#인공지능 #MITCSAIL #RecursiveLanguageModels
+
+#hashtags: #AItechnology #NaturalLanguageProcessing #LongContextTasks
+
+8 번째 검색 내용
+제목: Salesforce는 1,000+ EKS 클러스터를 Karpenter로 마이그레이션하여 확장 속도와 효율성을 개선합니다.
+주소: https://www.infoq.com/news/2026/01/salesforce-eks-karpenter/
+설명: Salesforce는 1,000개 이상의 Amazon Elastic Kubernetes Service(EKS) 클러스터를 Karpenter로 차단적으로 이전했습니다. Karpenter는 AWS의 오픈소스 노드 프로비저닝 및 자동 조정 솔루션입니다.
+#Salesforce #EKS #Karpenter
+
+9 번째 검색 내용
+제목: 프리즈마7: 라스트 무료 아키텍처와 성능 향상
+
+(Note: The translation may not be perfect as it is a machine translation. Please double-check the translation for accuracy.)
+주소: https://www.infoq.com/news/2026/01/prisma-7-performance/
+설명: Prisma ORM 7.0는 TypeScript 우선 순위 ORM 경영 맵에서 라스트 무료 아키텍처로, 쿼리 3배 더 빠르게, 번들 90% 작은 것을 제공하고 개발자 경험을 향상시키며 다양한 데이터베이스를 지원합니다. 동적 구성과 간소화된 아티팩트 관리로 생산성을 향상시키고 Node.js 프로젝트에 최신 성능과 타입 안전성을 추가합니다.
+#PrismaORM #TypeScript #Node.js #성능 #안전한 형식
+
+#hashtags: #PrismaORM, #TypeScript, #Node.js, #성능, #안전한 형식
+
+10 번째 검색 내용
+제목: 구글과 소매업체 지도자들이 다음 세대 AI 쇼핑을 위한 일반적인 상거래 프로토콜을 출시합니다.
+주소: https://www.infoq.com/news/2026/01/google-agentic-commerce-ucp/
+설명: Google은 제품 발견부터 결제까지 포함한 전체 작업을 완료하는 AI 기반의 상거래 에이전트를 지원하기 위해 공개 표준으로 개발된 Universal Commerce Protocol(UCP)을 출시했습니다. UCP는 상거래 능력을 표준화하고, 여러 결제 제공업체를 지원하며, 전세계적으로 확장되어야 합니다. 다음 세대의 에이전트 기반 상거래를 형성할 것입니다.
+#인공지능 #상거래 #UCP
+
+Hashtags: #인공지능, #상거래, #UCP
+
+11 번째 검색 내용
+제목: 마이크로소프트는 모델 컨텍스트 프로토콜 서버에 대한 Azure Functions 지원을 발표합니다.
+주소: https://www.infoq.com/news/2026/01/azure-functions-mcp-support/
+설명: Microsoft는 Azure Functions에 대해 Model Context Protocol(MCP)을 출시했습니다. 이것은 AI 에이전트의 안전하고 표준화된 작업 흐름을 보장합니다. OBO 인증이 내장되어 있고 HTTP 전송이 스트리밍됩니다. 여러 언어를 지원하며 자체 호스팅을 지원하면서 MCP는 개발자들에게 쉽게 배포할 수 있도록 안전한 데이터를 보호합니다.
+#인공지능 #AzureFunctions #MCP #데이터보안
+
+#hashtags: #AI #Microsoft #CloudComputing #Security
+
+12 번째 검색 내용
+제목: [INST] 깃랩 18.8 버전이 두오 에이전트 플랫폼의 일반 사용 가능성을 발표합니다. [/INST]
+주소: https://www.infoq.com/news/2026/01/gitlab-18-8-duo-agent-platform/
+설명: AI : GitLab 18.8에는 새로운 기능이 많이 포함되어 있습니다. GitLab Duo Planner Agent, GitLab Duo Security Analyst Agent, 불필요한 취약점을 자동으로 제
+
+13 번째 검색 내용
+제목: 마이크로소프트는 XAML Studio를 오픈 소스로 공개하며, 장기간 사용되었던 프로토타입 도구를 살리겠다.
+주소: https://www.infoq.com/news/2026/01/xaml-studio-open-source/
+설명: Microsoft는 XAML Studio, XAML 기반 UI 개발에 대한 가벼운 빠른 프로토타입 도구를 공식적으로 오픈소스로 공개하였습니다. 이 도구는 Microsoft Store에 통해 Microsoft Garage 초기iative의 일부로 처음으로 출시되었으며, 지금은 GitHub 저장소를 통해 커뮤니티 기여와 협력을 환영합니다.
+#XAMLStudio #오픈소스 #UI개발 #MicrosoftGarage
+
+#hashtags: #XAMLStudio, #오픈소스, #UI개발, #MicrosoftGarage
+
+14 번째 검색 내용
+제목: 핀터스트의 모카: 쿠버네티스가 대규모 데이터 처리에 적용되는 규칙을 다시 쓰고 있습니다.
+주소: https://www.infoq.com/news/2026/01/pinterest-kubernetes-bigdata/
+설명: 디지털 핀보드 제공자 Pinterest는 Moka라는 새로운 플랫폼을 통해 대규모 데이터 처리의 미래 블루프린트를 설명한 기사를 발표했습니다. 회사는 장기간 사용된 Hadoop 인프라에서 핵심 작업을 Amazon EKS에 있는 Kubernetes 기반 시스템으로 이전하고 있으며, Apache Spark가 주요 엔진이며 다른 프레임워크에 대한 지원이 추후 제공될 예정입니다.
+#Pinterest #Moka #데이터처리 #AmazonEKS
+
+Translated sentence: Pinterest, a digital pinboard provider, has published an article explaining its blueprint for the future of large-scale data processing with its new platform Moka. The company is moving core workloads from aging Hadoop infrastructure to a Kubernetes-based system on Amazon EKS, with Apache Spark as the main engine and support for other frameworks on the way.
+#Pinterest #Moka #데이터처리 #AmazonEKS
+
+15 번째 검색 내용
+제목: 도커의 Cagent, AI 에이전트에 대한 정확한 테스팅을 제공합니다.
+주소: https://www.infoq.com/news/2026/01/cagent-testing/
+설명: Docker는 Cagent runtime을 사용하여 AI 에이전트에 대한 정확한 테스팅을 다시 가져오려고 합니다. 이것은 생산적인 에이전트 시스템을 구축하는 데 있어 점차 큰 문제가 되고 있습니다.
+#Docker #Cagent #AI #테스팅
+
+Translated sentence: Docker is positioning its Cagent runtime as a way to bring deterministic testing back to AI agents, addressing a growing problem for teams building production agentic systems.
+Hashtags: #Docker, #Cagent, #AI, #testing
+
