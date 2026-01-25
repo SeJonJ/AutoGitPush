@@ -1,105 +1,115 @@
 1 번째 검색 내용
-제목: 구글의 일반적인 상업 프로토콜(UCP)이 에이전트릭 쇼핑을 강화합니다.
-주소: https://www.infoq.com/news/2026/01/google-ucp/
-설명: Google은 AI 기반 플랫폼에서 상업활동을 향상시키기 위해 개방형 표준인 Universal Commerce Protocol(UCP)를 오픈소스로 출시했습니다. UCP는 고객, 비즈니스, 결제 공급자 간의 순조롭게 상호작용하도록 통용되는 공동 언어를 만들어 냅니다.
-#인공지능 #UCP #상업활동 #결제
+제목: [INST] 이 문장을 한글로 번역해주세요 :
 
-Hashtags: #인공지능, #UCP, #상업활동, #결제
+                            두 개의 누락된 문자: Regex 오류로 AWS GitHub 저장소가 공급 체인 위험에 노출되었습니다.
+                         [/INST]
+주소: https://www.infoq.com/news/2026/01/aws-github-vulnerability/
+설명: AWS는 최근에 인기 있는 AWS 관리형 GitHub 오픈소스 저장소에서 영향을 받는 구성 문제를 인식한 보안 공지를 발표했습니다. CodeBreach라고 명명된 중요한 취약점은 AWS CodeBuild를 활용하여 악의적인 코드 도입과 저장소 탈취가 발생할 수 있는 상황이 되었습니다.
+#AWS #CodeBreach #보안취약점
+
+Translated sentence: AWS recently published a security bulletin acknowledging a configuration issue affecting some popular AWS-managed open-source GitHub repositories. Dubbed CodeBreach, the critical vulnerability could have resulted in the introduction of malicious code and hijacking of the repositories leveraging AWS CodeBuild.
+and Provide - #hashtags. Add 3 hashtags related to the translated content.
+#AWS #CodeBreach #보안취약점
 
 2 번째 검색 내용
-제목: 만료된 Oracle 인텔리저트는 빠른 정렬 알고리즘을 오픈 소스 데이터베이스에 공개합니다.
-주소: https://www.infoq.com/news/2026/01/oracle-patent-sorting-databases/
-설명: Recent article reports that Oracle patent on fast sorting method has expired, allowing open source databases to use it freely. Mark Callaghan, inventor of sorting algorithm, shows how this 20-year-old approach can speed up sorting similar data and could make database systems faster and more efficient.
-#Oracle #fastsortingmethod #opensourcedatabase #databaseefficiency
+제목: 구글의 일반적인 상업 프로토콜(UCP)이 에이전트릭 쇼핑을 강화합니다.
+주소: https://www.infoq.com/news/2026/01/google-ucp/
+설명: Google은 AI 기반 플랫폼에서 상업활동을 향상시키기 위해 열려 있는 표준인 Universal Commerce Protocol(UCP)을 개발했습니다. UCP는 소비자, 업체, 결제 공급자 간의 순조로운 상호작용을 가능하게 합니다.
+#인공지능 #UCP #상업활동
 
-Translated content: 최근 기사는 Oracle의 빠른 정렬 방법 인텔리전지 만료되어, 오픈소스 데이터베이스에서 자유롭게 사용할 수 있도록 합니다. Mark Callaghan, 정렬 알고리즘의 발명가, 이 20년간 사용된 방법으로 비슷한 데이터를 빠르게 정렬하는 방법을 보여주며, 데이터베이스 시스템이 더 빠르고 효율적일 수 있다는 것을 보여줍니다.
-#Oracle #빠른정렬방법 #오픈소스데이터베이스 #데이터베이스효율성
+Translated sentence: Google has launched the Universal Commerce Protocol (UCP), an open-source standard designed to enhance commerce on AI-powered platforms. UCP creates a common language for agentic shopping, enabling seamless interactions among consumers, businesses, and payment providers.
+#인공지능 #UCP #상업활동
 
-Hashtags: #Oracle #빠른정렬방법 #오픈소스데이터베이스 #데이터베이스효율성
+Hashtags added: #인공지능, #UCP, #상업활동
 
 3 번째 검색 내용
+제목: 만료된 Oracle 인텔리제이트는 빠른 정렬 알고리즘을 오픈 소스 데이터베이스에 공개합니다.
+주소: https://www.infoq.com/news/2026/01/oracle-patent-sorting-databases/
+설명: Recent article reports that Oracle patent on fast sorting method has expired, allowing open source databases to use it freely. Mark Callaghan, inventor of sorting algorithm, shows how this 20-year-old approach can speed up sorting similar data and could make database systems faster and more efficient.
+#오라클 #정렬알고리즘 #데이터베이스 #효율성
+
+Translated content: 오라클 패턴트 빠른 정렬 방법이 만료되어 오픈소스 데이터베이스에서 자유롭게 사용할 수 있습니다. Mark Callaghan, 정렬 알고리즘의 발명가, 이 20년간 사용된 방법으로 비슷한 데이터를 빠르게 정렬하는 방법을 보여줍니다. 이것은 데이터베이스 시스템이 더 빠르고 효율적으로 작동할 수 있습니다.
+#오라클 #정렬알고리즘 #데이터베이스 #효율성
+
+4 번째 검색 내용
 제목: [INST] 랭프 내부 코딩 에이전트를 구축하여 엔지니어링 풀 리퀘스트의 30%를 동력화합니다. [/INST]
 주소: https://www.infoq.com/news/2026/01/ramp-coding-agent-platform/
-설명: Ramp는 Inspect의 아키텍처를 공유했습니다. 이 내부 코딩 에이전트는 회사의 웹 프론트엔드와 백엔드 리포지토리에서 약 30%의 합성 풀 요청에 대해 매우 빠르게 채택되었습니다. 금융 기업은 이를 어떻게 구현했는지 자세한 기술 사양을 공유했습니다. 이것은 AI 에이전트가 인간 엔지니어와 같은 개발 환경에 접근할 수 있도록 하는 시스템을 만들었음을 설명합니다.
+설명: Ramp는 Inspect의 아키텍처를 공유했습니다. 이 내부 코딩 에이전트는 회사의 프론트엔드와 백엔드 리포지토리에서 약 30%의 병합된 풀 요청에 대해 매우 빠르게 채택되었습니다. 금융 기업은 이를 어떻게 구현했는지 자세한 기술 사양을 공유했습니다. 이것은 AI 에이전트가 인간 엔지니어와 같은 개발 환경에 접근할 수 있도록 하는 시스템을 만들었음을 설명합니다.
 #금융 #AI #개발환경
 
 Translated content hashtags: #금육 #AI #개발환경
 
-4 번째 검색 내용
-제목: 빈지로 공지: Oxfmt 알파 버전이 라스트로 기반한 성능과 프리티어 호환성을 제공합니다.
+5 번째 검색 내용
+제목: 빈지로 공지: Oxfmt 알파 버전이 라스트로 기능 강력하고 프리티어 호환성을 지원합니다.
 주소: https://www.infoq.com/news/2026/01/oxfmt-rust-prettier/
 설명: VoidZero는 Oxfmt를 공개했습니다. Rust 기반의 최신 코드 포맷터로, JavaScript와 TypeScript 프로젝트에서 Prettier보다 30배 이상 빠른 성능을 제공합니다. Prettier 구성과 호환되며, 개발자들의 효율성 및 스타일 일관성 요구에 답변합니다. 부드러운 마이그레이션, 향상된 기능, 커뮤니티 주도 개선에 대한 약속을 즐깁니다.
 #Oxfmt #코드포맷터 #Rust #JavaScript #TypeScript
 #hashtags: #개발자 #효율성 #스타일일관성
 
-5 번째 검색 내용
+6 번째 검색 내용
 제목: 문장: DoorDash는 AI를 사용하여 채팅과 전화에서 안전을 적용하며, 사고 발생 비율을 50% 줄임
 
 [INST] Translate my sentence into Korean : 
                             DoorDash Applies AI to Safety Across Chat and Calls, Cutting Incidents by 50%
                          [/INST]
 주소: https://www.infoq.com/news/2026/01/doordash-safechat-ai-safety/
-설명: DoorDash는 대화, 이미지, 음성 통화에 대한 다셨다가 고객과 Dasher 사이의 모니터링을 위한 AI 기반 안전 시스템인 SafeChat를 배포했습니다. 텍스트 모дера션 아키텍처, 머신러닝 모델, 및 인간 검토를 사용하여 SafeChat는 실시간으로 위험한 콘텐츠를 감지합니다. 이를 통해 즉시 조치가 가능하며, 약 50% 정도의 낮은 및 중간 심각도의 안전 사고 발생 횟수가 줄어듭니다.
+설명: DoorDash는 대화, 이미지, 음성 통화에 대한 다시자와 고객 사이의 안전 모니터링을 위해 AI 기반인 SafeChat 시스템을 배포합니다. 텍스트 모дера션 아키텍처, 머신러닝 모델과 인간 검토를 사용하여 SafeChat는 실시간에서 위험한 콘텐츠를 감지합니다. 이로 인해 대량의 안전 사고 발생 확률이 약 50% 줄어들며, 즉시 조치가 가능합니다.
 #안전성 #DoorDash #AI
 
-Hashtags: #안전성, #DoorDash, #AI
+Hashtags: #안전성 #DoorDash #AI
 
-6 번째 검색 내용
+7 번째 검색 내용
 제목: OpenCost는 2025년 기록과 2026년 로드맵 설정
 
 (Note: The translation may not be perfect as it is translated using an AI model. Please review and make necessary adjustments if needed.)
 주소: https://www.infoq.com/news/2026/01/opencost-roadmap-2026/
-설명: 인공지능 프로젝트, 비영리 소스 코드 기반의 비용과 자원 관리 도구로써 CNCF(클라우드 네이티브 컴퓨팅 재단)에서 호스팅되고 있습니다. 2025년 진행 상황을 회고하고 2026년의 우선 순위를 정리한 연간 후기를 발표했습니다.
-#인공지능프로젝트 #CNCF #비용관리 #자원관리
+설명: 인공지능 프로젝트, 클라우드 네이티브 컴퓨팅 재단(CNCF)에서 호스팅되는 열려 있는 소스 비용과 자원 관리 도구입니다. 2025년 진행 사항을 보고하고 2026년 우선 순위를 설명한 연간 후기를 발표했습니다.
+#인공지능 #클라우드네이티브컴퓨팅재단(CNCF) #비용관리 #자원관리
 
-Hashtags: #인공지능프로젝트, #CNCF, #비용관리, #자원관리
+Hashtags: #인공지능, #클라우드네이티브컴퓨팅재단(CNCF), #비용관리, #자원관리
 
-7 번째 검색 내용
-제목: [INST] 결제 표준 x402가 주요 업그레이드에서 기능을 확장합니다. [/INST]
+8 번째 검색 내용
+제목: [INST] 열린 결제 표준 x402가 주요 업그레이드에서 기능을 확장합니다. [/INST]
 주소: https://www.infoq.com/news/2026/01/x402-agentic-http-payments/
 설명: After six months of real-world usage, the open payment standard x402 has received a major update, extending the protocol beyond single-request, exact-amount payments. The release adds support for wallet-based identity, automatic API discovery, dynamic payment recipients, expanded multi-chain and fiat support via CAIP standards, and a fully modular SDK for custom networks and payment schemes.
 #오픈페이먼트표준 #x402 #CAIP표준
 
-Translated content: 실제 사용을 통해 6개월 지난 오픈 페이먼트 표준 x402는 단일 요청, 정확한 금액 결제를 넘어 확장되었습니다. 이 릴리즈는 지갑 기반 식별, API 자동 검색, 동적인 결제 수신자, CAIP 표준을 통한 다양한 체인 및 화폐 지원 및 사용자 정의 네트워크와 결제 방식에 대한 완전히 모듈화된 SDK를 추가합니다.
+Translated content: 실제 사용 후 6개월 지난 오픈 결제 표준 x402는 단일 요청, 정확한 금액 결제를 넘어 확장되었습니다. 이 릴리즈는 지갑 기반 식별, 자동 API 검색, 동적인 결제 수신자, CAIP 표준을 통한 다양한 체인 및 화폐 지원 및 사용자 정의 네트워크와 결제 방법을 위한 완전히 모듈화된 SDK를 추가합니다.
 #오픈페이먼트표준 #x402 #CAIP표준
 
-8 번째 검색 내용
-제목: 유럽 데이터 소프트라우티 초기화 프로젝트에서 신뢰 프레임워크 발표
-
-(Note: The translation may not be perfect, as the original sentence seems to contain some abbreviations or terms that might need clarification. Please confirm if this is an accurate representation of your intended meaning.)
-주소: https://www.infoq.com/news/2026/01/data-sovereignty-trust-framework/
-설명: 인공지능 및 데이터 소프리넷 슬롯머신 가이아-엑스 신뢰 프레임워크의 단우주 발표는 규제 자동화 기능을 포함하고 있으며, 분야와 지역 간에 상호 작용을 지원하여 신뢰할 수 있는 데이터 거래 및 서비스 상호 작용을 보장합니다. Gaia-X 슬롯머신 2025 회의에서는 AI와 데이터 소프리넷 문제를 주제로 간접적인 토론을 진행하고, 유럽과 이상의 혁신을 지원하는 데이터 스페이스 솔루션을 발표했습니다.
-#가이아엑스 #인공지능 #데이터소프리넷 #유럽혁신
-
-Translated content: The Danube release of the Gaia-X trust framework provides mechanisms for the automation of compliance and supports interoperability across sectors and geographies to ensure trusted data transactions and service interactions. The Gaia-X Summit 2025 hosted facilitated discussions on AI and data sovereignty, and presented data space solutions that support innovation across Europe and beyond.
-#GaiaX #ArtificialIntelligence #DataSovereignty #EuropeanInnovation
-
-Hashtags:
-1. GaiaX
-2. ArtificialIntelligence
-3. DataSovereignty
-4. EuropeanInnovation
-
 9 번째 검색 내용
+제목: 유럽 데이터 소프트라우티 초기화 프로젝트는 신뢰 프레임워크를 발표했습니다.
+주소: https://www.infoq.com/news/2026/01/data-sovereignty-trust-framework/
+설명: 인공지능 및 데이터 소득권의 문제를 다루는 Gaia-X 신뢰 프레임워크의 단체 준수를 자동화하고, 분야와 지역을 초과하는 상호운용성을 지원하여 신뢰할 수 있는 데이터 거래 및 서비스 상호작용을 보장합니다. Gaia-X 슬림 2025은 AI와 데이터 소득권에 대한 협의 토크를 진행하고, 유럽과 이상의 발전을 지원하는 데이터 스페이스 솔루션을 제시했습니다.
+#인공지능 #데이터소득권 #가이아-X #유럽발전
+
+Hashtags: #인공지능, #데이터소득권, #가이아-X, #유럽발전
+
+10 번째 검색 내용
 제목: AWS 유럽 국가 소프트웨어 클라우드를 출시하면서 미국 법적 관할에 대한 질문이 있습니다.
 주소: https://www.infoq.com/news/2026/01/aws-european-sovereign-cloud/
-설명: AWS는 유럽 국가 소프트웨어 클라우드를 €7.8억 원의 투자로 출시했습니다, 이것은 EU 규정 요구 사항을 충족하고 지역적인 긴장감에서 데이터 개인정보 문제를 해결하기 위해 설계되었습니다. 글로벌 지역과의 운영 분리와도 함께, 미국 데이터 액세스에 대한 법적인 보호에 대한 질문들이 남아있습니다. 경쟁자인 Microsoft와 지역 제공업체는 더 강력한 소닉성 옵션을 제공할 수 있습니다.
-#유럽소프트웨어클라우드 #AWS #데이터개인정보 #지역적긴장감
+설명: AWS는 유럽 수상성 클라우드를 €7.8억 인력으로 출시했습니다, 이것은 EU 규정 요구 사항을 충족하고 지역간 긴장감에서 데이터 개인정보 문제를 해결하기 위해 설계되었습니다. 전역 지역과의 운영적 분리로부터도 떨어져 있음에도 불구하고, 미국 데이터 액세스에 대한 법적 보호에 대한 질문은 여전히 남아 있습니다. 경쟁자인 Microsoft와 지역 제공업체는 더 강력한 수상성 옵션을 제공할 수 있습니다.
+#유럽수상성클라우드 #AWS #데이터개인정보
 
 Translated content: AWS has launched its European Sovereign Cloud with a €7.8 billion investment, designed to meet EU regulatory demands and address data privacy concerns amid geopolitical tensions. Despite its operational separation from global regions, questions linger about legal protections against U.S. data access. Competitors like Microsoft and local providers may present stronger sovereignty options.
 #EuropeanSovereignCloud #AWS #DataPrivacy #GeopoliticalTensions
 
-10 번째 검색 내용
+Hashtags: 
+1. #EuropeanSovereignCloud
+2. #DataPrivacy
+3. #GeopoliticalTensions
+
+11 번째 검색 내용
 제목: [INST] 사이버아크가 AI 에이전트를 보호하는 방법: 명령 감지기와 역사 인식 검증 [/INST]
 주소: https://www.infoq.com/news/2026/01/cyberark-agents-defenses/
-설명: AI : 악의적인 명령이 숨겨진 외부 데이터에 따르지 않도록 모든 텍스트가 에이전트의 컨텍스트에 들어오는 것을 믿을 수 없다고 말합니다. Niv Rabin, CyberArk의 주요 소프트웨어 아키텍트입니다. 그의 팀은 명령 감지와 역사 인식을 기반으로 하는 접근 방식을 개발하여 악의적인 입력 데이터와 컨텍스트-역사 독살에 대비합니다.
-#인공지능 #보안 #데이터 수집
+설명: AI : 악의적인 명령이 숨겨진 외부 데이터에서 탈출하지 못하도록 대화스택을 보호하기 위해, 모든 텍스트가 에이전트의 컨텍스트에 들어오는 것은 신뢰할 수 없는 것으로 취급되어야 합니다. Niv Rabin, CyberArk의 주요 소프트웨어 아키텍트는 이를 보호하기 위해 명령 감지와 역사 인식 유효성 검사를 기반으로 한 접근 방식을 개발했습니다.
+#안전성 #인공지능 #데이터보안
 
 Translated sentence: To prevent agents from obeying malicious instructions hidden in external data, all text entering an agent's context must be treated as untrusted, says Niv Rabin, principal software architect at AI-security firm CyberArk. His team developed an approach based on instruction detection and history-aware validation to protect against both malicious input data and context-history poisoning.
 
-Hashtags: #인공지능보안 #데이터독살방어 #AI보안기업
+Hashtags: #안전성 #인공지능 #데이터보안
 
-11 번째 검색 내용
+12 번째 검색 내용
 제목: 인간적(Anthropic)이 Claude CoWork을 발표합니다.
 
 [INST] Translate my sentence into Korean:
@@ -107,41 +117,31 @@ Hashtags: #인공지능보안 #데이터독살방어 #AI보안기업
                             Anthropic Announces Claude CoWork
                          [/INST]
 주소: https://www.infoq.com/news/2026/01/claude-cowork/
-설명: Claude Cowork: Anthropic의 인공지능 에이전트는 macOS에서 파일 관리를 혁신시키고 있습니다. 고급 자동화 기능을 통해 문서 처리를 향상시키며, 파일을 구성하고 다양한 단계 워크플로우를 실행합니다. 사용자는 최근 발생한 이슈에 따라 백업 필요성에 주의해야 합니다. 데이터 무결성을 보장하면서 효율적인 오피스 솔루션을 탐색할 수 있습니다.
+설명: Claude Cowork: Anthropic의 인공지능 에이전트는 macOS에서 파일 관리를 혁신시키고 있습니다. 고급 자동화 기능을 통해 문서 처리를 향상시키며, 파일을 구성하고 다양한 단계 워크플로우를 실행합니다. 사용자는 최근 발생한 이슈에 따라 백업 필요에 주의해야 합니다. 데이터 무결성을 보장하면서도 효율적인 오피스 솔루션을 탐색하세요.
 #ClaudeCowork #macOS #파일관리 #오피스솔루션
-#인공지능 #데이터무결성 #백업필요성
-
-12 번째 검색 내용
-제목: [INST] 스케일에서의 데이터 흐름 추적 및 제어: 메타의 개인정보 관련 인프라
-[/INST]
-주소: https://www.infoq.com/news/2026/01/meta-pai-genai-data-flows/
-설명: Meta는 인공지능 개발을 위해 확장성이 있는 Privacy-Aware Infrastructure(PAI)를 사용하면서 복잡한 데이터 흐름에서 개인정보 보호를 강제할 수 있습니다. 대규모 유전자 추적, PrivacyLib 도구화와 실시간 정책 제어를 사용하여 시스템은 AI 워크로드, 예를 들어 Meta AI 안경에 대한 일관된 개인정보 보호를 적용할 수 있으며 수동 병목을 소개하지 않습니다.
-#인공지능 #개인정보보호 #데이터플로우 #메타AI
-
-#hashtags: #AI, #Privacy, #DataFlow, #MetaAI
+#인공지능 #데이터무결성 #백업필요에주의
 
 13 번째 검색 내용
+제목: [INST] 스케일에서의 데이터 흐름 추적 및 제어: 메타의 개인정보 관련 인프라
+                             [/INST]
+주소: https://www.infoq.com/news/2026/01/meta-pai-genai-data-flows/
+설명: Meta는 인공지능 개발을 지원하면서 개인정보 보호를 강조하는 Privacy-Aware Infrastructure(PAI)를 확장하였습니다. 복잡한 데이터 흐름에서 개인정보 보호를 유지하면서 PAI를 대규모 상속 추적, PrivacyLib 인стру먼테이션, 실시간 정책 제어를 사용하여 AI 워크로드에 일관된 개인정보 보호 강요가 가능합니다.
+#인공지능 #개인정보보호 #데이터플로우 #메타AI
+
+#hashtags: #AI #Privacy #DataFlow
+
+14 번째 검색 내용
 제목: [INST] MIT의 재귀 언어 모델이 장기 컨텍스트 작업에서 성능을 향상시키고 있습니다.
 [/INST]
 주소: https://www.infoq.com/news/2026/01/mit-recursive-lm/
-설명: AI : MIT CSAIL 연구원들은 Recursive Language Models(RLM)라는 기술을 발표했습니다. RLM은 LLM의 성능을 장기 컨텍스트 작업에 대해 향상시키기 위해 프로그래밍 환경을 사용하여 재귀적으로 입력을 분해하고 처리합니다. RLM은 기본 LLM보다 100배 이상의 길이의 프롬프트를 처리할 수 있습니다.
+설명: AI : MIT CSAIL 연구원들은 Recursive Language Models(RLM)라는 기술을 발표했습니다. RLM은 LLM의 성능을 길게 맞춤 작업에 대해 개선하기 위해 프로그래밍 환경을 사용하여 재귀적으로 입력을 분해하고 처리합니다. RLM은 기본 LLM보다 100배 이상의 길이의 제안까지 처리할 수 있습니다.
 #인공지능 #MITCSAIL #RecursiveLanguageModels
 
-#hashtags: #AItechnology #NaturalLanguageProcessing #LongContextTasks
-
-14 번째 검색 내용
-제목: Salesforce는 1,000개 이상의 EKS 클러스터를 Karpenter로 마이그레이션하여 확장 속도와 효율성을 향상시킵니다.
-주소: https://www.infoq.com/news/2026/01/salesforce-eks-karpenter/
-설명: Salesforce는 1,000개 이상의 Amazon Elastic Kubernetes Service(EKS) 클러스터를 Karpenter로 차단적으로 이전했습니다. Karpenter는 AWS의 열린 소스 노드 프로비저닝 및 자동 조정 솔루션입니다.
-#Salesforce #EKS #Karpenter
+Hashtags: #인공지능, #MITCSAIL, #RecursiveLanguageModels
 
 15 번째 검색 내용
-제목: 프리즈마7: 라스트 무료 아키텍처와 성능 향상
-
-(Note: The translation may not be perfect as it is a machine translation. Please review and make any necessary adjustments.)
-주소: https://www.infoq.com/news/2026/01/prisma-7-performance/
-설명: Prisma ORM 7.0는 TypeScript 우선 순위 ORM 경영 맵에서 라스트 무료 아키텍처로, 쿼리 3배 더 빠르게, 번들 90% 작은 것과 개발자 경험을 향상시키는 것으로 변화를 이루었습니다. 동적 구성과 간소화된 아티팩트 관리로, Prisma는 생산성을 높여 주요 데이터베이스를 지원합니다. Node.js 프로젝트에 최신 성능과 타입 안전성으로 노드.js 프로젝트를 업그레이드하십시오.
-#PrismaORM #TypeScript #Node.js #Performance
-#Hashtag2
-#Hashtag3
+제목: Salesforce는 1,000+ EKS 클러스터를 Karpenter로 마이그레이션하여 확장 속도와 효율성을 개선합니다.
+주소: https://www.infoq.com/news/2026/01/salesforce-eks-karpenter/
+설명: Salesforce는 1,000개 이상의 Amazon Elastic Kubernetes Service(EKS) 클러스터를 Karpenter로 차단적으로 이전했습니다. Karpenter는 AWS의 오픈소스 노드 프로비저닝 및 자동 조정 솔루션입니다.
+#Salesforce #EKS #Karpenter
 
