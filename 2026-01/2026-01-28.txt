@@ -1,0 +1,152 @@
+1 번째 검색 내용
+제목: 자바 뉴스 요약: Oracle 중요 패치 업데이트, Grizzly 5, Payara 플랫폼, 그랄VM, 리버리카 JDK
+
+(Note: The given sentence is a list of Java-related terms and products. I have translated each term into Korean as follows:)
+
+Oracle Critical Patch Update = Oracle 중요 패치 업데이트
+Grizzly 5 = Grizzly 5
+Payara Platform = Payara 플랫폼
+GraalVM = 그랄VM
+Liberica JDK = 리버리카 JDK
+주소: https://www.infoq.com/news/2026/01/java-news-roundup-jan19-2026/
+설명: AI : 이번 주의 Java 뉴스 요약은 2026년 1월 19일에 발표된 JEP 527, Post-Quantum Hybrid Key Exchange for TLS 1.3을 위한 JDK 27; GlassFish Grizzly 5.0; Oracle Critical Patch Update(CPU) Advisory의 분기별 릴리스; 2026년 1월 Payara Platform; 그리고 Liberica JDK, GraalVM, OpenXava, Ktor에 대한 유지보수 릴리스를 다루고 있습니다.
+#Java #R�그램 #PayaraPlatform #OracleCPUAdvisory
+
+Hashtags: #JavaProgramming #PayaraServer #OracleSecurityUpdates
+
+2 번째 검색 내용
+제목: OpenAI와 Anthropic이 건강에 중점을 두는 AI 플랫폼 소개
+
+(Note: The translation may not be perfect as it is a machine translation. Please review and make any necessary adjustments.)
+주소: https://www.infoq.com/news/2026/01/openai-anthropic-healthcare/
+설명: OpenAI와 Anthropic은 의료 중심의 AI 제품을 발표하였습니다. 이들의 모델은 일반적인 대화 사용에서 규제된 의료 및 생명 과학 환경으로 확장되어 있습니다. 모두 기술 통합, 상호 운영성, 및 지배를 강조하고 있으며, 이는 AI 시스템이 기존의 의료 인프라에서 직접 작동할 수 있도록 설계된 AI 시스템으로 변화를 나타냅니다.
+#의료 #AI #OpenAI
+
+#hashtags: #의료 #AI #OpenAI #Anthropic #생명과학 #규제 #기술통합 #상호운영성 #지배
+
+3 번째 검색 내용
+제목: 셀더가 CNCF에 사자원 프로젝트로 참여합니다.
+주소: https://www.infoq.com/news/2026/01/cedar-joins-cncf-sandbox/
+설명: Cedar, AWS에서 설계한 오픈소스 정책 언어, CNCF에 Sandbox 프로젝트로 가입했습니다. 애플리케이션 권한의 세부 단위 관리를 위해 코드와 접근 제어를 분리하는데 사용되며, 검증 가능한, 높은 성능의 정책 엔진을 사용합니다. Cedar는 RBAC, ABAC, ReBAC를 지원하며, 일반적인 목적 도구인 OPA보다 안전하고 분석 가능한 대안을 제공합니다.
+#CNCF #Cedar #정책언어 #접근제어
+
+Hashtags: #CNCF, #Cedar, #정책언어, #접근제어
+
+4 번째 검색 내용
+제목: [INST] 
+
+Rust 기여자가 AI를 도움으로 한 컴파일러 개발을 탐색하며 Rue 언어를 사용합니다.
+
+[/INST]
+주소: https://www.infoq.com/news/2026/01/steve-klabnik-rue-language-ai/
+설명: 인нова틱한 프로그래머 스티브 클라빈, 루스에 대한 기여으로 알려진 스티브 클라빈, 메모리 안전성을 향상시키고 가비지 컬렉션 없이 시스템 프로그래밍 언어 Rue를 공개합니다. 개발자의 효율성을 고려한 디자인으로, "inout" 매개변수를 사용하여 소유 관리를 간소화하며 Anthropic의 Claude AI와 협력하여 개발을 빠르게 진행합니다. Rue에 대해 rue-lang.dev에서 탐색하십시오.
+
+#루스 #Rue #메모리안전성 #소유관리 #AI개발 #ClaudeAI
+
+5 번째 검색 내용
+제목: 구글은 모바일 및 엣지 장치에서 함수 호출을 최적화한 Gemma 3 270M 변형 릴리스
+
+(Note: The translation may not be perfect as it is a machine translation. Please review and make necessary adjustments if needed.)
+주소: https://www.infoq.com/news/2026/01/functiongemma-edge-function-call/
+설명: FunctionGemma는 Gemma 3 270M 모델의 새로운, 가벼운 버전입니다. 자연어를 구조화된 함수와 API 호출로 정교하게 튜닝했으며, AI 에이전트가 "말 뿐만 아니라 행동"을 할
+
+6 번째 검색 내용
+제목: aspire 13.1은 MCP 통합, CLI 향상 사항, 그리고 Azure 배포 업데이트를 가져옵니다.
+주소: https://www.infoq.com/news/2026/01/dotnet-aspire-13-1-release/
+설명: Aspire 13.1는 다양한 언어를 지원하는 플랫폼 기반을 소개한 Aspire 13에서 발표되었습니다. 이 릴리즈는 개발자의 생산성을 향상시키기 위해 명령줄 인터페이스를 개선하고, AI 지원 개발 워크플로우에 더 深刻한 지원을 제공하며, 대시보드 경험의 조정과 Azure 기반 환경에서의 배포 행동이 명확해진 것입니다.
+#Aspire13_1 #개발자생산성 #AI지원개발 #Azure배포
+
+Hashtags: #Aspire13_1, #개발자생산성, #AI지원개발, #Azure배포
+
+7 번째 검색 내용
+제목: 스프링 뉴스 요약: 첫 번째 마일스톤 릴리즈 - 부트, 보안, 통합, 모듈리스, AMQP
+
+(Note: The translation may not be perfect as it involves technical terms. Please verify the accuracy if needed.)
+주소: https://www.infoq.com/news/2026/01/spring-news-roundup-jan19-2026/
+설명: AI : 2026년 1월 19일 주에서는 스프링 생태계에서 많은 활동이 있었으며, 이 기간에는 첫 번째 마일스톤 릴리즈로 Spring Boot, Spring Security, Spring Integration, Spring Modulith, Spring AMQP가 발표되었습니다. 또한 Spring AI의 두 번째 마일스톤 릴리즈도 함께 발표되었습니다.
+#스프링 #스프링부트 #스프링AI
+
+Translated sentence: There was a flurry of activity in the Spring ecosystem during the week of January 19th, 2026, highlighting the first milestone releases of: Spring Boot; Spring Security; Spring Integration; Spring Modulith; and Spring AMQP; along with the second milestone release of Spring AI.
+and Provide - #hashtags. Add 3 hashtags related to the translated content.
+#스프링부트 #스프링AI #스프링생태계
+
+8 번째 검색 내용
+제목: [INST] 도어닷쉬에서 다중 팔광 기계인 무리 장착 방식으로 A/B 테스트 향상
+[/INST]
+주소: https://www.infoq.com/news/2026/01/multi-armed-bandits-doordash/
+설명: 인공지능 개발자 Caixia Huang와 Alex Weinstein은 DoorDash 엔지니어들로서, 실험이 필수적임을 인정하면서도 전통적인 A/B 테스팅은 너무나 느리고 비쌈을 주장합니다. 이러한 제한을 해결하기 위해, 실험을 최적화하는 "다중 손잡이(Multi-Armed Bandits)" 접근 방식을 채택했습니다.
+#인공지능 #실험 #빅데이터 # DoorDash
+
+Translated sentence: While experimentation is essential, traditional A/B testing can be excessively slow and expensive, according to DoorDash engineers Caixia Huang and Alex Weinstein. To address these limitations, they adopted a "multi-armed bandits" (MAB) approach to optimize their experiments.
+
+Hashtags: #인공지능 #실험 #빅데이터 #DoorDash
+
+9 번째 검색 내용
+제목: [INST] 이 문장을 한글로 번역해주세요 :
+
+                            두 개의 누락된 문자: Regex 오류로 AWS GitHub 저장소가 공급 체인 위험에 노출되었습니다.
+                         [/INST]
+주소: https://www.infoq.com/news/2026/01/aws-github-vulnerability/
+설명: AWS는 최근에 인기 있는 AWS 관리형 GitHub 오픈소스 저장소에서 영향을 받는 구성 문제를 인식한 보안 공지를 발표했습니다. CodeBreach라고 불리우는 중요한 취약점은 AWS CodeBuild를 활용하여 악의적인 코드 도입과 저장소 탈취에 이어질 수 있는 상황이 발생할 수 있습니다.
+#AWS #CodeBreach #보안취약점
+
+Translated sentence: AWS recently published a security bulletin acknowledging a configuration issue affecting some popular AWS-managed open-source GitHub repositories. Dubbed CodeBreach, the critical vulnerability could have resulted in the introduction of malicious code and hijacking of the repositories leveraging AWS CodeBuild.
+and Provide - #hashtags. Add 3 hashtags related to the translated content.
+
+10 번째 검색 내용
+제목: 구글의 일반적인 상거래 프로토콜(UCP)이 에이전트릭 쇼핑을 강화합니다.
+주소: https://www.infoq.com/news/2026/01/google-ucp/
+설명: Google은 AI 기반 플랫폼에서 상업활동을 향상시키기 위해 개방형 표준인 Universal Commerce Protocol(UCP)를 오픈소스로 출시했습니다. UCP는 고객, 비즈니스, 결제 공급자 간의 순조롭게 상호작용하도록 통용되는 공동 언어를 만들어 냅니다.
+#인공지능 #UCP #상업활동 #결제 #플랫폼
+
+Hashtags: #인공지능, #UCP, #상업활동, #결제, #플랫폼
+
+11 번째 검색 내용
+제목: 만료된 Oracle 인텔리저트는 빠른 정렬 알고리즘을 오픈 소스 데이터베이스에 열어 놓습니다.
+주소: https://www.infoq.com/news/2026/01/oracle-patent-sorting-databases/
+설명: Recent article reports that Oracle patent on fast sorting method has expired, allowing open source databases to use it freely. Mark Callaghan, inventor of sorting algorithm, shows how this 20-year-old approach can speed up sorting similar data and could make database systems faster and more efficient.
+#Oracle #fastsortingmethod #opensourcedatabase #databaseefficiency
+
+Translate my sentence into Korean:
+                         A recent article reports that an Oracle patent on a fast sorting method has expired, allowing open source databases to use it freely. Mark Callaghan, the inventor behind the sorting algorithm, shows how this 20-year-old approach can speed up sorting similar data and could make database systems faster and more efficient.
+                     and Provide - #hashtags. Add 3 hashtags related to the translated content. [/INST]
+
+12 번째 검색 내용
+제목: [INST] 랩트랩이 개발 요청 30%를 위한 내부 코딩 에이전트 구축
+[/INST]
+주소: https://www.infoq.com/news/2026/01/ramp-coding-agent-platform/
+설명: Ramp는 Inspect의 아키텍처를 공유했습니다. 이 내부 코딩 에이전트는 회사의 웹 프론트엔드와 백엔드 저장소에서 약 30%의 병합된 풀 리퀘스트에 대해 매우 빠르게 채택되었습니다. 금융 기업은 이를 어떻게 구현했는지 자세한 기술 사양을 공유했습니다. 이것은 AI 에이전트가 인간 엔지니어와 같은 개발 환경에 접근할 수 있도록 하는 시스템을 만들었음을 설명합니다.
+#금융 #AI #개발_환경
+
+Translated content hashtags: #금육 #AI #개발_환경
+
+13 번째 검색 내용
+제목: 빈지로 공지: Oxfmt 알파 버전이 라스트로 기능 강화되고, 프리티어 호환성이 있습니다.
+주소: https://www.infoq.com/news/2026/01/oxfmt-rust-prettier/
+설명: VoidZero는 Oxfmt를 공개했습니다. Rust 기반의 최신 코드 포맷터로, JavaScript와 TypeScript 프로젝트에서 Prettier보다 30배 이상의 성능을 제공합니다. Prettier 구성과 호환되며, 개발자들의 효율성 및 스타일 일관성 요구에 답변합니다. 부드러운 마이그레이션, 향상된 기능, 커뮤니티 주도 개선에 대한 약속을 즐깁니다.
+#Oxfmt #Rust #코드포맷터
+
+#hashtags: #Rust, #코드포맷터, #Oxfmt
+
+14 번째 검색 내용
+제목: 문장: DoorDash는 채팅과 전화에서 AI를 적용하여 안전성을 높이고, 사건 발생 수를 50% 줄임
+
+[INST] Translate my sentence into Korean : 
+                            DoorDash Applies AI to Safety across Chat and Calls, Cutting Incidents by 50%
+                         [/INST]
+주소: https://www.infoq.com/news/2026/01/doordash-safechat-ai-safety/
+설명: DoorDash는 대화, 이미지, 음성 통화에 대한 다시자와 고객 사이의 안전 모니터링을 위한 AI 기반 안전 시스템인 SafeChat를 배포했습니다. 텍스트 모дера티징 아키텍처, 머신러닝 모델, 및 인간 검토를 사용하여 SafeChat는 실시간으로 위험한 콘텐츠를 감지합니다. 이를 통해 즉각적인 조치가 가능하고 낮은 및 중간 심각도의 안전 사건을 약 50% 줄여줍니다.
+#안전성 #AI #DoorDash
+
+Hashtags: #안전성, #AI, #DoorDash
+
+15 번째 검색 내용
+제목: OpenCost는 2025년 기록과 2026년 로드맵 설정
+
+(Note: The translation may not be perfect as it is translated using an AI model. Please review and make necessary adjustments if needed.)
+주소: https://www.infoq.com/news/2026/01/opencost-roadmap-2026/
+설명: 인공지능 프로젝트, 비영리 소스 코드 기반의 비용과 자원 관리 도구로써 CNCF(클라우드 네이티브 컴퓨팅 재단)에서 호스팅되고 있습니다. 2025년 진행 상황을 회고하고 2026년 우선 순위를 정리한 연간 후기를 발표했습니다.
+#인공지능프로젝트 #CNCF #비용관리 #자원관리
+
+Hashtags: #인공지능프로젝트, #CNCF, #비용관리, #자원관리
+
