@@ -1,137 +1,138 @@
 1 번째 검색 내용
-제목: 빠른 크로스 플랫폼 프레임워크 '스쿬'이 이제 전부 오픈소스로 공개되었습니다.
-주소: https://www.infoq.com/news/2026/01/swift-skip-open-sourced/
-설명: AI : 스킵, iOS와 Android 앱을 단일 Swift/SwiftUI 코드베이스로 개발하는 솔루션으로 설계되었습니다. 3년간의 개발 후, 스킵 팀은 제품을 완전히 오픈 소스로 공개하고자 결정했습니다. 이를 통해 사용률 증진과 커뮤니티 기여를 장려하는 것입니다.
-#스킵 #오픈소스 #앱개발 #SwiftUI
-
-Hashtags: #스킵, #오픈소스, #앱개발, #SwiftUI
+제목: 구글 딥마인드는 다국어 언어 모델에 대한 ATLAS 확장법을 소개합니다.
+주소: https://www.infoq.com/news/2026/01/google-deepmind-atlas/
+설명: Google DeepMind 연구원들은 다국어 언어 모델에 대한 확장 법칙인 ATLAS를 소개했습니다. 이는 모델 크기, 훈련 데이터 량, 지원하는 언어 수가 증가할 때 모델 크기, 훈련 데이터 량, 언어 섞음과의 상호작용을 정식으로 형식화합니다.
+#인공지능 #다국어 #언어모델 #GoogleDeepMind
 
 2 번째 검색 내용
-제목: 철도: 시스템 장애 진단을 위해 로그, 메트릭, 트레이스, 알림의 중요성 강조
-[INST] Translate my sentence into Korean : 
-                            Railway Highlights the Importance of Logs, Metrics, Traces, and Alerts for Diagnosing System Failure
-                         [/INST]
-주소: https://www.infoq.com/news/2026/01/railway-diagnosing-failure/
-설명: 철도 공학팀은 관찰성과를 설명하는 완전한 가이드를 발표했습니다. 개발자와 SRE 팀은 로그, 메트릭, 트레이스, 알림을 함께 사용하여 프로덕션 시스템 실패를 이해하고 진단할 수 있는 방법을 설명합니다.
-#철도 #공학팀 #관찰성과 #개발자 #SRE팀
+제목: 빠른 크로스 플랫폼 프레임워크 '스쿬'이 이제 전부 오픈소스로 공개되었습니다.
+주소: https://www.infoq.com/news/2026/01/swift-skip-open-sourced/
+설명: AI : 스킵, iOS와 Android 앱을 단일 Swift/SwiftUI 코드베이스로 생성하는 솔루션인 데 대해 3년간의 개발 후, 그 제품을 완전히 오픈 소스로 만들고자 결정한 팀은 이를 사용 및 커뮤니티 기여를 촉진하기 위해 이 결정을 내렸습니다.
+#오픈소스 #스쿼트 #스위프트UI
 
-Hashtags: #railwayengineering, #observabilityguide, #developerandSREteams
+Translated sentence: After three years of development, the team behind Skip, a solution designed to create iOS and Android apps from a single Swift/SwiftUI codebase, has announced their decision to make the product completely open source, in order to foster adoption and community contribution.
+#오픈소스 #스쿼트 #스위프트UI
 
 3 번째 검색 내용
+제목: 철도: 시스템 장애 진단에 대한 로그, 메트릭, 트레이스, 알림의 중요성을 강조합니다.
+주소: https://www.infoq.com/news/2026/01/railway-diagnosing-failure/
+설명: 철도 공학팀은 관찰성과를 이용한 완전한 가이드를 발표하였습니다. 개발자와 SRE팀은 로그, 메트릭, 트레이스, 알림을 함께 사용하여 생산 시스템 오류를 이해하고 진단할 수 있는 방법을 설명합니다.
+#철도 #공학팀 #관찰성과 #오류진단
+
+Hashtags: #railway, #engineeringteam, #observability
+
+4 번째 검색 내용
 제목: 구글 빅퀴리 SQL 원시 관리형 인프레런스 추가
 
 (Note: The translation may not be perfect as it is a technical term. However, the meaning should be clear.)
 주소: https://www.infoq.com/news/2026/01/bigquery-sql-huggingface-managed/
-설명: Google은 BigQuery에서 SQL 원시 관리형 인프레런스를 180,000+의 Hugging Face 모델에 대해 출시했습니다. 미리 보기는 ML 생명 주기를 통합된 SQL 인터페이스로 축소하고, Kubernetes나 Vertex AI 관리가 필요 없도록 합니다. 주요 기능은 endpoint_idle_ttl을 통한 자동 리소스 지원과 데이터 웨어하우스 허용 권한으로 보안한 식별 기반 실행입니다.
-#Google #BigQuery #SQL #인프레런스
-#ML #관리형 #인터페이스 #데이터웨어하우스 허용 권한
-#자동 리소스 지원 #보안 #인프레런스 #Kubernetes #VertexAI
-
-4 번째 검색 내용
-제목: 구글은 다국어 번역을 위해 TranslateGemma Open Models를 소개합니다.
-주소: https://www.infoq.com/news/2026/01/google-translategemma-models/
-설명: Google는 Gemma 3 아키텍처를 기반으로 한 열린 번역 모델 세트인 TranslateGemma를 발표했습니다. 이것은 55개 언어에서 기계 번역을 지원하고 모바일, 엣지 장치, 소비자 하드웨어, 클라우드 가속화기와 같은 다양한 플랫폼에서 실행할 수 있는 4B, 12B, 27B 파라미터 변형을 제공합니다.
-#번역 #기계번역 #클라우드가속화기
-
-Hashtags: #번역, #기계번역, #클라우드가속화기
+설명: Google은 BigQuery에서 SQL 원시 관리형 인프레런스를 180,000+의 Hugging Face 모델에 대해 출시했습니다. 미리 보기는 ML 생명주기를 통합된 SQL 인터페이스로 축소하고, Kubernetes나 Vertex AI 관리가 필요 없도록 합니다. 주요 기능은 endpoint_idle_ttl을 자동으로 리소스 관리하고, 데이터 웨어하우스 권한을 사용하여 보안한 식별 기반 실행을 포함합니다.
+#Google #BigQuery #ML #인프레런스
+#SQL #HuggingFace #데이터웨어하우스 #인공지능
 
 5 번째 검색 내용
-제목: .NET 10이 AWS Lambda에서 관리형 런타임과 기본 이미지로 사용 가능해졌습니다.
-주소: https://www.infoq.com/news/2026/01/dotnet-10-available-for-aws/
-설명: AWS Lambda는 .NET 10을 지원하여 서버리스 애플리케이션 개발에 사용할 수 있습니다. 이 업데이트로, 개발자들은 .NET 10을 Lambda 함수를 빌드링 및 실행하는 데 관리형 런타임과 컨테이너 기반 이미지 모두로 사용할 수 있습니다.
-#AWS #.NET10 #서버리스애플리케이션
+제목: 구글은 다국어 번역을 위해 TranslateGemma Open Models를 소개합니다.
+주소: https://www.infoq.com/news/2026/01/google-translategemma-models/
+설명: Google는 Gemma 3 아키텍처를 기반으로 한 열린 번역 모델 집합인 TranslateGemma를 발표했습니다. 이것은 55개 언어에서 기계 번역을 지원하고, 모바일과 엣지 장치부터 소비자 하드웨어까지 실행할 수 있는 플랫폼을 대상으로 합니다. 4B, 12B, 27B 매개변수 버전이 제공되며, 이러한 모델은 4B, 12B, 27B 매개변수 버전을 지원하고 있습니다.
+#번역 #기계번역 #Google #Gemma3
+
+#hashtags: #AI #TranslationModels #MachineLearning
 
 6 번째 검색 내용
-제목: HTML 초기화 지시어 명령 모두 모든 주요 브라우저에서 기본 지원 달성
+제목: .NET 10이 AWS Lambda에서 관리형 런타임과 기본 이미지로 사용 가능합니다.
+주소: https://www.infoq.com/news/2026/01/dotnet-10-available-for-aws/
+설명: AWS Lambda는 .NET 10을 지원하여 서버리스 애플리케이션 개발에 사용할 수 있습니다. 이 업데이트로, 개발자들은 .NET 10을 Lambda 함수를 빌드링 및 실행하는 데 관리형 런타임과 컨테이너 기반 이미지 모두로 사용할 수 있습니다.
+#AWS #.NET10 #서버리스
 
-(Note: The translation may not be perfect as it is a technical term. Please confirm if the meaning is correct.)
-주소: https://www.infoq.com/news/2026/01/html-invoker-commands/
-설명: HTML Invoker Commands API는 웹 상호작용을 혁신시키며, 개발자들이 JavaScript 없이 팝오버와 대화상자 제어를 생성할 수 있도록 허용합니다. 주요 브라우저에서 지원되어 사용자 경험을 간소화하고 페이지 로드 속도를 향상시킵니다. 선언적 접근 방식은 접근성을 장려하고 개발자들에게 권한을 제공하며, JavaScript 종속성의 감소에 대한 중요한 단계를 표시합니다.
-#HTMLInvokerCommandsAPI #웹상호작용 #접근성 #JavaScript독립성
-
-#hashtags: #HTMLInvokerCommandsAPI, #웹상호작용, #접근성, #JavaScript독립성
+#hashtags:
+1. #AWS
+2. #.NET10
+3. #서버리스
 
 7 번째 검색 내용
-제목: 자바 뉴스 요약: Oracle 중요 패치 업데이트, Grizzly 5, Payara 플랫폼, 그랄VM, 리버리카 JDK
+제목: HTML 초기화 지시어 명령 모두 모든 주요 브라우저에서 기본 지원 달성
 
-(Note: The given sentence is already in Korean. If you want a translation into another language, please provide the specific language.)
-주소: https://www.infoq.com/news/2026/01/java-news-roundup-jan19-2026/
-설명: AI : 이번 주의 Java 뉴스 요약은 2026년 1월 19일에 발표된 JEP 527, Post-Quantum Hybrid Key Exchange for TLS 1.3을 위한 JDK 27; GlassFish Grizzly 5.0; Oracle Critical Patch Update(CPU) Advisory의 분기별 릴리스; 2026년 1월 Payara Platform; 그리고 Liberica JDK, GraalVM, OpenXava, Ktor에 대한 유지보수 릴리스를 다루고 있습니다.
-#Java #R�뉴스 #Oracle #JDK27
+(Note: The translation may not be perfect as it involves technical terms. Please review and make necessary adjustments if needed.)
+주소: https://www.infoq.com/news/2026/01/html-invoker-commands/
+설명: HTML Invoker Commands API는 웹 상호작용을 혁신시키며, 개발자들이 JavaScript 없이 팝오버와 대화상자 제어를 생성할 수 있게 합니다. 주요 브라우저에서 지원되며, 사용자 경험을 간소화하고 페이지 로드 속도를 향상시킵니다. 선언적 접근 방식은 접근성을 장려하고 개발자들에게 권한을 부여하며, JavaScript 종속성의 감소에 대한 중요한 단계를 표시합니다.
+#HTMLInvokerCommandsAPI #웹상호작용 #접근성 #JavaScript독립성
 
-#hashtags: #Java #RopyNews #Oracle #JDK27
+#hashtags:
+#웹개발 #인터랙티비티 #접근성최적화
 
 8 번째 검색 내용
+제목: 자바 뉴스 요약: Oracle 중요 패치 업데이트, Grizzly 5, Payara 플랫폼, 그랄VM, 리버리카 JDK
+
+(Note: The given sentence is already in English. If you want to translate it into Korean, please provide the original text in another language.)
+주소: https://www.infoq.com/news/2026/01/java-news-roundup-jan19-2026/
+설명: AI : 이번 주의 Java 뉴스 요약은 2026년 1월 19일에 발표된 JEP 527, Post-Quantum Hybrid Key Exchange for TLS 1.3을 위한 JDK 27; GlassFish Grizzly 5.0; Oracle Critical Patch Update(CPU) Advisory의 분기별 릴리스; 2026년 1월 Payara Platform; 그리고 Liberica JDK, GraalVM, OpenXava, Ktor의 유지보수 릴리스를 다루고 있습니다.
+#Java #R�그램 #PayaraPlatform #OracleCPUAdvisory
+
+Hashtags: #JavaProgramming #PayaraServer #OracleSecurityUpdates
+
+9 번째 검색 내용
 제목: OpenAI와 Anthropic이 건강에 중점을 두는 AI 플랫폼 소개
 
-(Note: The translation may not be perfect as it is a machine translation. Please double-check the translation for accuracy.)
+(Note: The translation may not be perfect as it is a machine translation. Please review and make necessary adjustments if needed.)
 주소: https://www.infoq.com/news/2026/01/openai-anthropic-healthcare/
-설명: OpenAI와 Anthropic은 의료 중심의 AI 제품을 발표했습니다. 이는 일반적인 대화 사용에서 규정 내 临床과 생명과학 환경으로 모델을 확장하고 있습니다. 모두 기술 통합, 상호 운영성, 및 지배에 강조를 합니다. 이는 AI 시스템이 기존의 의료 인프라에서 직접 작동하도록 설계된 방향으로 변화를 보여줍니다.
-#의료 #AI #OpenAI
+설명: OpenAI와 Anthropic은 의료 중심의 AI 제품을 발표하였습니다. 이 모델은 일반적인 대화 사용에서 규제된 의료 및 생명 과학 환경으로 확장되어 있으며, 기술 통합, 상호 운영성, 지배 등을 강조하고 있습니다. 이는 AI 시스템이 기존의 의료 인프라에서 직접 작동할 수 있도록 설계된 방향으로 변화를 보이고 있음을 나타냅니다.
+#의료AI #OpenAI #Anthropic
 
 #hashtags: #의료AI, #OpenAI, #Anthropic
 
-9 번째 검색 내용
-제목: 셀럭이 CNCF에 사자원 프로젝트로 참여합니다.
-주소: https://www.infoq.com/news/2026/01/cedar-joins-cncf-sandbox/
-설명: Cedar, AWS에서 설계한 오픈 소스 정책 언어, CNCF에 사안박스 프로젝트로 가입했습니다. 애플리케이션 권한의 세부 단위 관리를 위해 코드와 접근 제어를 분리하는데 사용되며, 검증 가능한, 높은 성능의 정책 엔진을 사용합니다. Cedar는 RBAC, ABAC, ReBAC를 지원하며, 일반적인 목적 도구인 OPA보다 안전하고 분석 가능한 대체 기능을 제공합니다.
-#CNCF #Cedar #정책언어
-
-#hashtags: #오픈소스 #접근제어 #검증가능 #높은성능 #정책엔진 #RBAC #ABAC #ReBAC #안전하고분석가능한대체기능 #AWS #OPA
-
 10 번째 검색 내용
+제목: 셀더가 CNCF에 사자원 프로젝트로 참여합니다.
+주소: https://www.infoq.com/news/2026/01/cedar-joins-cncf-sandbox/
+설명: Cedar, AWS에서 설계한 오픈소스 정책 언어, CNCF에 Sandbox 프로젝트로 가입했습니다. 애플리케이션 권한의 세부 단위 관리를 위해 코드와 접근 제어를 분리하는데 사용되며, 검증 가능한, 높은 성능의 정책 엔진을 사용합니다. Cedar는 RBAC, ABAC, ReBAC와 같은 일반적인 목적 도구인 OPA보다 안전하고 분석 가능한 대안을 제공합니다.
+#CNCF #Cedar #정책언어 #접근제어
+
+#hashtags: #CNCF, #Cedar, #정책언어, #접근제어
+
+11 번째 검색 내용
 제목: [INST] 
 
-Rust 기여자가 AI 지원 컴파일러 개발을 탐색하며 Rue 언어를 사용하여 새로운 언어 개발
+Rust 기여자가 AI를 도움으로 한 컴파일러 개발을 탐색하며 Rue 언어를 사용합니다.
 
 [/INST]
 주소: https://www.infoq.com/news/2026/01/steve-klabnik-rue-language-ai/
-설명: 인нова적인 프로그래머 스티브 클라빈, 루스에 대한 기여으로 유명한 스티브 클라빈, 메모리 안전성을 향상시키고 가비지 컬렉션 없이 시스템 프로그래밍 언어인 루에를 공개합니다. 개발자의 효율성을 고려한 디자인으로, "inout" 매개변수를 사용하여 소유 관리를 간소화하며 Anthropic의 Claude AI와 협력하여 개발을 빠르게 진행합니다. 루에를 rue-lang.dev에서 탐색하세요.
-#루 #메모리안전성 #AI개발 #루에 #루언어
-
-#hashtags: #루언어 #메모리안전성 #AI개발 #루에 #스티브클라빈 #인нова적인프로그래머 #협력 #개발빠르게 #소유관리 #개발자효율성 #탐색 #루에언어 #RueLanguage
-
-11 번째 검색 내용
-제목: 구글은 모바일과 엣지 장치에서 함수 호출을 최적화한 Gemma 3 270M 변형 릴리스
-
-(Note: The translation may not be perfect as it is a machine translation. Please check the accuracy before using it.)
-주소: https://www.infoq.com/news/2026/01/functiongemma-edge-function-call/
-설명: FunctionGemma는 Gemma 3 270M 모델의 새로운, 가볍게 변형된 버전입니다. 자연어를 구조화된 함수와 API 호출로 정밀하게 조절하여 AI 에이전트가 "말 뿐만 아니라 행동"을 할
+설명: 인нова적인 프로그래머 스티브 클라빈, 루스에 대한 기여으로 알려진 스티브 클라빈, 메모리 안전성을 향상시키고 가비지 컬렉션 없이 시스템 프로그래밍 언어인 Rue를 발표합니다. 개발자의 효율성을 고려한 디자인으로, "inout" 매개변수를 사용하여 소유 관리를 간소화하며 Anthropic의 Claude AI와 협력하여 개발을 빠르게 진행합니다. Rue에 대해 rue-lang.dev에서 탐색하십시오.
+#Rue #시스템프로그래밍언어 #메모리안전성 #가비지컬렉션없음
+#인공지능 #ClaudeAI #소유관리
 
 12 번째 검색 내용
-제목: aspire 13.1은 MCP 통합, CLI 향상 사항, 그리고 Azure 배포 업데이트를 가져옵니다.
-주소: https://www.infoq.com/news/2026/01/dotnet-aspire-13-1-release/
-설명: Aspire 13.1는 다음과 같은 증분 업데이트로, Aspire 13에서 소개된 다국어 플랫폼 기반을 확장하여 출시되었습니다. 이 릴리스는 개발자의 생산성을 향상시키기 위해 명령줄 인터페이스에 대한 개선, AI 지원 개발 워크플로우에 더욱 深刻한 지원, 대시보드 경험의 정교화와 Azure 기반 환경에서의 배포 행동이 명확하도록 개선되었습니다.
-#Aspire13_1 #AI_지원_개발 #명령줄_인터페이스 #Azure_기반_환경
+제목: 구글은 모바일과 엣지 장치에서 함수 호출을 최적화한 Gemma 3 270M 변형 릴리스
 
-#hashtags: #Aspire13_1, #AI_지원_개발, #명령줄_인터페이스, #Azure_기반_환경
+(Note: The translation may not be perfect as it is a machine translation. Please review and make necessary adjustments if needed.)
+주소: https://www.infoq.com/news/2026/01/functiongemma-edge-function-call/
+설명: FunctionGemma는 Gemma 3 270M 모델의 새로운, 가볍게 변형된 버전입니다. 자연어를 구조화된 함수와 API 호출로 정확하게 튜닝했으며, AI 에이전트가 "단지 말하는 것보다 더 많은 일"을 할 수 있도록 합니다.
+#자연어처리 #AI에이전트 #구조화된함수
+
+[INST] Human : Translate my sentence into Korean: FunctionGemma is a new, lightweight version of the Gemma 3 270M model, fine-tuned to translate natural language into structured function and API calls, enabling AI agents to "do more than just talk" and act. and Provide - #hashtags. Add 3 hashtags related to the translated content. [/INST]
 
 13 번째 검색 내용
-제목: 스프링 뉴스 요약: 첫 번째 마일스톤 리얼에서 부트, 보안, 통합, 모듈리스, AMQP
+제목: aspire 13.1은 MCP 통합, CLI 향상 사항, 그리고 Azure 배포 업데이트를 가져옵니다.
+주소: https://www.infoq.com/news/2026/01/dotnet-aspire-13-1-release/
+설명: Aspire 13.1는 다양한 언어를 지원하는 플랫폼 기반을 소개한 Aspire 13에 대한 증분 업데이트로 발표되었습니다. 이 업데이트는 개발자의 생산성을 향상시키기 위해 명령 줄 인터페이스를 개선하고, AI 지원 개발 워크플로우에 더욱 깊은 지원을 제공하며, 대시보드 경험을 향상시키고, Azure 기반 환경에서의 배포 행동을 명확하게 합니다.
+#Aspire13_1 #개발자_생산성 #AI_지원_개발 #Azure_배포
+
+#hashtags: #Aspire13_1, #개발자_생산성, #AI_지원_개발, #Azure_배포
+
+14 번째 검색 내용
+제목: 스프링 뉴스 요약: 첫 번째 마일스톤 릴리즈 - 부트, 보안, 통합, 모듈리스, AMQP
 
 (Note: The Korean translation may not be perfect as it involves technical terms related to Spring Framework. Please verify the accuracy if needed.)
 주소: https://www.infoq.com/news/2026/01/spring-news-roundup-jan19-2026/
-설명: AI : 2026년 1월 19일 주에서는 스프링 생태계에서 많은 활동이 있었으며, 첫 번째 마일스톤 릴리즈로 Spring Boot, Spring Security, Spring Integration, Spring Modulith, Spring AMQP가 발표되었습니다. 또한 Spring AI에 대한 두 번째 마일스톤 릴리즈도 함께 발표되었습니다.
-#스프링 #스프링부트 #스프링AI
+설명: 인공지능 : 2026년 1월 19일 주에서 스프링 생태계에서는 활발한 활동이 있었으며, 첫 번째 마일스톤 릴리즈로 Spring Boot, Spring Security, Spring Integration, Spring Modulith, Spring AMQP가 공개되었습니다. 그리고 두 번째 마일스톤 릴리즈인 Spring AI도 발표되었습니다.
+#스프링 #스프링부트 #스프링시큐리티 #스프링통합 #스프링모듈리스 #스프링AMQP #스프링AI
 
-Hashtags: #스프링부트, #스프링AI, #스프링생태계
-
-14 번째 검색 내용
-제목: [INST] 도어닷쉬에서 다중 펀치 방낙지를 활용한 A/B 테스트 향상
-[/INST]
-주소: https://www.infoq.com/news/2026/01/multi-armed-bandits-doordash/
-설명: 인공지능은 실험이 필수적입니다만, A/B 테스트는 너무 느리고 비쌈을 따라 DoorDash 엔지니어 Caixia Huang와 Alex Weinstein에 의하면. 이러한 제한을 해결하기 위해, 그들은 "다중 핸드 밴디트"(MAB) 접근 방식을 사용하여 실험을 최적화했습니다.
-#인공지능 #A/B테스트 #다중핸드밴디트 #실험
+Hashtags: #스프링, #스프링부트, #스프링시큐리티, #스프링통합, #스프링모듈리스, #스프링AMQP, #스프링AI
 
 15 번째 검색 내용
-제목: [INST] 이 문장을 한글로 번역해주세요 :
+제목: [INST] 도어드래쉬에서 다중 펀치 방낙이를 활용한 A/B 테스팅 향상
+[/INST]
+주소: https://www.infoq.com/news/2026/01/multi-armed-bandits-doordash/
+설명: 인공지능 개발자 Caixia Huang와 Alex Weinstein은 DoorDash 엔지니어들로서, 실험이 필수적임을 인정하면서도 A/B 테스팅은 너무 느리고 비쌈을 주장합니다. 이러한 제한을 해결하기 위해, 실험을 최적화하는 "다중 손목 밴디트(MAB)" 접근 방식을 채택했습니다.
+#인공지능 #실험 #최적화 # DoorDash
 
-                            두 개의 누락된 문자: Regex 오류로 AWS GitHub 저장소가 공급 체인 위험에 노출되었습니다.
-                         [/INST]
-주소: https://www.infoq.com/news/2026/01/aws-github-vulnerability/
-설명: AWS는 최근에 인기 있는 AWS 관리형 GitHub 오픈소스 저장소에서 영향을 받는 구성 문제를 인식한 보안 공지를 발표했습니다. CodeBreach라고 불리우는 중요한 취약점은 AWS CodeBuild를 활용하여 악의적인 코드 도입과 저장소 탈취에 이어질 수 있었습니다.
-#AWS #CodeBreach #보안취약점
-
-Translated sentence: AWS recently published a security bulletin acknowledging a configuration issue affecting some popular AWS-managed open-source GitHub repositories. Dubbed CodeBreach, the critical vulnerability could have resulted in the introduction of malicious code and hijacking of the repositories leveraging AWS CodeBuild.
-and Provide - #hashtags. Add 3 hashtags related to the translated content.
+#hashtags: #인공지능, #실험, #최적화, #DoorDash
 
