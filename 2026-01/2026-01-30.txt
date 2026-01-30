@@ -1,0 +1,131 @@
+1 번째 검색 내용
+제목: 우버는 정적 제한에서 분산 저장용량 관리를 우선 순위 인식으로 이동합니다.
+주소: https://www.infoq.com/news/2026/01/uber-priority-aware-load-manager/
+설명: Uber 엔지니어들은 저장 플랫폼을 정적 레이트 제한에서 우선순위 인식 로드 관리 시스템으로 발전시키는 방법을 자세히 설명했습니다. 이 접근 방식은 Docstore와 Schemaless, Uber의 MySQL 기반 분산 데이터베이스를 보호하고 중요한 트래픽을 우선시하며, 과부하 상황에서 동적으로 로드를 제거합니다.
+
+#Uber #저장소 #데이터베이스 #로드관리 #인공지능
+
+2 번째 검색 내용
+제목: 건설 소프트웨어 기업에서 사람들이 성장할 수 있는 곳 만들기
+[INST] Translate my sentence into Korean :
+
+                            Building Software Organisations Where People Can Thrive
+                         [/INST]
+주소: https://www.infoq.com/news/2026/01/organisations-people-thrive/
+설명: Korean: 지속적인 학습, 유연성, 강력한 지원 네트워크가 성공적인 팀의 기반이 되며, Matthew Card는 언급했습니다. 신뢰는 일관된, 공정한 리더십으로 구축되고, 독소행동, 편견, 마이크로아그레시션을 초기에 대처하여 신뢰를 건설합니다. 성장, 정서적 안전감과 책임의 인간 우선 리더십은 견고함, 협력, 성능을 기반으로 합니다.
+
+#hashtags: #리더십 #성장 #정서적안전감
+#hashtags2: #인간우선리더십 #신뢰 #독소행동
+#hashtags3: #팀성공 #견고함 #협력
+
+3 번째 검색 내용
+제목: 구글 딥마인드는 다국어 언어 모델에 적용할 수 있는 ATLAS 확장법칙을 소개합니다.
+주소: https://www.infoq.com/news/2026/01/google-deepmind-atlas/
+설명: Google DeepMind 연구원들은 다국어 언어 모델에 대한 확장 법칙인 ATLAS를 소개했습니다. 이는 모델 크기, 훈련 데이터 량, 지원 언어 수가 증가할 때 모델 크기, 훈련 데이터 량, 언어 섞임과의 상호 작용을 정식으로 형식화하는 것입니다.
+#인공지능 #다국어 #언어모델 #ATLAS
+
+4 번째 검색 내용
+제목: 빠른 크로스 플랫폼 프레임워크 '스쿼'가 이제 전부 오픈소스로 공개되었습니다.
+주소: https://www.infoq.com/news/2026/01/swift-skip-open-sourced/
+설명: AI : 스킵, iOS와 Android 앱을 단일 Swift/SwiftUI 코드베이스로 생성하는 솔루션으로 설계되었습니다. 개발 후 3년간의 노력 끝에, 스킵 팀은 제품을 완전히 오픈 소스로 공개하고자 결정했으며, 적응과 커뮤니티 기여를 장려하기 위해서입니다.
+#스킵 #오픈소스 #Swift/SwiftUI #앱개발
+
+Hashtags: #스킵, #오픈소스, #Swift/SwiftUI, #앱개발
+
+5 번째 검색 내용
+제목: 철도: 시스템 장애 진단에 대한 로그, 메트릭, 트레이스, 알림의 중요성을 강조합니다.
+주소: https://www.infoq.com/news/2026/01/railway-diagnosing-failure/
+설명: 철도 공학팀은 관찰성과를 설명하는 완전한 가이드를 발표했습니다. 개발자와 SRE 팀은 로그, 메트릭, 트레이스, 알림을 함께 사용하여 생산 시스템 오류를 이해하고 진단할 수 있는 방법을 설명합니다.
+#철도 #공학팀 #관찰성과 #개발자 #SRE팀
+
+Hashtags: #railwayengineering, #observabilityguide, #developerandSREteams
+
+6 번째 검색 내용
+제목: 구글 빅퀴리 SQL 원시형 관리형 인프레런스 추가
+
+(Note: The translation may not be perfect as it is a technical term. However, this should give you an idea of how the sentence would look in Korean.)
+주소: https://www.infoq.com/news/2026/01/bigquery-sql-huggingface-managed/
+설명: Google은 BigQuery에서 SQL 원시 관리형 인프레런스를 180,000+의 Hugging Face 모델에 대해 출시했습니다. 미리 보기는 ML 생명 주기를 통합된 SQL 인터페이스로 축소하고, Kubernetes나 Vertex AI 관리가 필요하지 않도록 만듭니다. 주요 기능은 endpoint_idle_ttl로 자동 리소스 관리와 데이터 웨어하우스 허용 권한을 사용하여 보안한 식별 기반 실행입니다.
+#Google #BigQuery #인프레런스 #ML
+#SQL #HuggingFace #데이터웨어하우스 허용 권한 #자동리소스관리
+
+7 번째 검색 내용
+제목: 구글은 다국어 번역을 위해 TranslateGemma Open Models를 소개합니다.
+주소: https://www.infoq.com/news/2026/01/google-translategemma-models/
+설명: Google는 Gemma 3 아키텍처를 기반으로 한 열린 번역 모델 집합인 TranslateGemma를 출시했습니다. 이것은 55개 언어에서 기계 번역을 지원하고 모바일, 엣지 장치, 소비자 하드웨어, 클라우드 가속화기와 같은 다양한 플랫폼에서 실행할 수 있는 4B, 12B, 27B 매개변수 버전을 제공합니다.
+#번역 #기계번역 #클라우드가속화기
+
+8 번째 검색 내용
+제목: .NET 10이 AWS Lambda에서 관리형 런타임과 기본 이미지로 사용 가능합니다.
+주소: https://www.infoq.com/news/2026/01/dotnet-10-available-for-aws/
+설명: AWS Lambda는 .NET 10을 지원하여 서버리스 애플리케이션 개발에 사용할 수 있습니다. 이 업데이트로, 개발자들은 .NET 10을 Lambda 함수를 빌드링 및 실행하는 데 관리형 런타임과 컨테이너 기반 이미지 모두로 사용할 수 있습니다.
+#AWS #.NET10 #서버리스애플리케이션
+
+#hashtags: #AWS, #.NET10, #서버리스애플리케이션
+
+9 번째 검색 내용
+제목: HTML 초기화 지시어 명령 모두 모든 주요 브라우저에서 기본 지원 달성
+
+(Note: The translation may not be perfect as it involves technical terms. Please check the meaning and context before using it.)
+주소: https://www.infoq.com/news/2026/01/html-invoker-commands/
+설명: 인공지능 번역기는 HTML Invoker Commands API로 웹 상호작용을 혁신시키며, JavaScript 없이 팝오버와 대화상자 제어 버튼을 만들어 주고 있습니다. 모든 주요 브라우저에서 지원되며, 사용자 경험을 간소화하고 페이지 로드 속도를 향상시키는데 기여합니다. 선언적 접근 방식은 접근성을 장려하고 개발자들에게 권한을 부여하며, JavaScript 종속성을 줄이는 중요한 단계를 의미합니다.
+#인공지능번역기 #HTMLInvokerCommandsAPI #웹상호작용 #접근성
+#선언적접근방식 #JavaScript종속성 #사용자경험 #페이지로드속도
+#개발자가능력 향상 #접근성 장려 #HTML Invoker Commands API 지원 브라우저
+
+10 번째 검색 내용
+제목: 자바 뉴스 요약: Oracle 중요 패치 업데이트, Grizzly 5, Payara 플랫폼, 그랄VM, 리버리카 JDK
+
+(Note: The translation may not be perfect as it is a technical term. Please check for accuracy if needed.)
+주소: https://www.infoq.com/news/2026/01/java-news-roundup-jan19-2026/
+설명: AI : 이번 주의 Java 뉴스 요약은 2026년 1월 19일에 발표된 JEP 527, Post-Quantum Hybrid Key Exchange for TLS 1.3을 위한 JDK 27; GlassFish Grizzly 5.0; Oracle Critical Patch Update(CPU) Advisory의 분기별 릴리스; 2026년 1월 Payara Platform; 그리고 Liberica JDK, GraalVM, OpenXava, Ktor에 대한 유지보수 릴리스를 다루고 있습니다.
+#Java #R�뉴스 #Oracle #JDK27
+
+#hashtags: #Java #RopyNews #Oracle #JDK27
+
+11 번째 검색 내용
+제목: OpenAI와 Anthropic이 건강에 중점을 두는 AI 플랫폼 소개
+
+(Note: The translation may not be perfect as it is a machine translation. Please check the meaning and context before using it.)
+주소: https://www.infoq.com/news/2026/01/openai-anthropic-healthcare/
+설명: OpenAI와 Anthropic은 의료 중심의 AI 제품을 발표했습니다. 이는 일반적인 대화 사용에서 관리되는 临床和生命科学환경으로 모델을 확장하고 있습니다. 둘의 발표는 기술 통합, 상호 운영성, 및 지배에 초점을 맞추고 있으며, 이는 AI 시스템이 기존의 의료 인프라에서 직접 작동하도록 설계된 것으로 변화를 보여줍니다.
+#의료 #AI #OpenAI #Anthropic
+
+#hashtags: #의료AI, #OpenAI, #Anthropic
+
+12 번째 검색 내용
+제목: 셀럭이 CNCF에 사자원 프로젝트로 참여합니다.
+주소: https://www.infoq.com/news/2026/01/cedar-joins-cncf-sandbox/
+설명: Cedar, AWS에서 설계한 오픈소스 정책 언어, CNCF에 Sandbox 프로젝트로 가입했습니다. 애플리케이션 권한의 세부 단위 관리를 위해 코드와 접근 제어를 분리하는데 사용되며, 검증 가능한, 높은 성능의 정책 엔진을 사용합니다. Cedar는 RBAC, ABAC, ReBAC를 지원하며, 일반적인 목적 도구인 OPA보다 안전하고 분석 가능한 대안을 제공합니다.
+#CNCF #Cedar #정책언어 #접근제어
+
+#hashtags: #CNCF, #Cedar, #정책언어, #접근제어
+
+13 번째 검색 내용
+제목: [INST] 
+
+Rust 기여자가 AI를 도움으로 한 컴파일러 개발을 탐색하는 Rue 언어로 변환합니다.
+
+[/INST]
+주소: https://www.infoq.com/news/2026/01/steve-klabnik-rue-language-ai/
+설명: 인нова적인 프로그래머 스티브 클라빈, 루스에 대한 기여으로 알려진 스티브 클라빈, 메모리 안전성을 향상시키고 가비지 컬렉션 없이 시스템 프로그래밍 언어인 루에를 공개합니다. 개발자의 효율성을 고려한 디자인으로, "inout" 매개변수를 사용하여 소유 관리를 간소화하며 Anthropic의 Claude AI와 협력하여 개발을 빠르게 진행합니다. 루에를 rue-lang.dev에서 탐색하세요.
+
+#루 #메모리안전성 #AI개발 #루에 #루언어
+
+#hashtags: #루언어, #메모리안전성, #AI개발
+
+14 번째 검색 내용
+제목: 구글은 모바일 및 엣지 장치에서 함수 호출을 최적화한 Gemma 3 270M 변형 릴리스
+
+(Note: The translation may not be perfect as it is a machine translation. Please review and make necessary adjustments if needed.)
+주소: https://www.infoq.com/news/2026/01/functiongemma-edge-function-call/
+설명: FunctionGemma는 Gemma 3 270M 모델의 새로운, 가볍게 변형된 버전입니다. 자연어를 구조화된 함수와 API 호출로 정확하게 튜닝했으며, AI 에이전트가 "말 뿐만 아니라 행동"을 할
+
+15 번째 검색 내용
+제목: aspire 13.1은 MCP 통합, CLI 향상 사항, 그리고 Azure 배포 업데이트를 가져옵니다.
+주소: https://www.infoq.com/news/2026/01/dotnet-aspire-13-1-release/
+설명: Aspire 13.1는 다양한 언어를 지원하는 플랫폼 기반을 소개한 Aspire 13에 대한 증분 업데이트로 발표되었습니다. 이 업데이트는 개발자의 생산성을 향상시키기 위해 명령줄 인터페이스를 개선하고, AI 지원 개발 워크플로우에 더욱 깊은 지원을 제공하며, 대시보드 경험을 향상시키고, Azure 기반 환경에서의 배포 행동을 명확하게 합니다.
+#Aspire13_1 #개발자_생산성 #AI_지원_개발 #Azure_배포
+
+#hashtags: #Aspire13_1, #개발자_생산성, #AI_지원_개발, #Azure_배포
+
