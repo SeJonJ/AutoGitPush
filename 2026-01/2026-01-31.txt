@@ -1,0 +1,131 @@
+1 번째 검색 내용
+제목: Rspack 버전 1.7 출시: 1.x 최종 업데이트, 2.0 전환 전에
+
+[INST] Rspack 버전 1.7 출시: 1.x 최종 업데이트 전에 2.0 전환을 위한 [/INST]
+주소: https://www.infoq.com/news/2026/01/rspack-final-rust/
+설명: Rspack 1.7가 출시되었습니다. 주요 버전 전환을 준비하면서 성능과 플러그인 호환성을 향상시킵니다. 주요 기능으로는 SWC 플러그인 호환성 개선, 원시 자산을 바이트로 내보내기, 동적 모듈에 대한 기본 레이지 컴파일이 포함되어 있습니다. Rspack은 웹팩과 API 호환성을 유지하면서 80%의 성능 향상을 보고한 Rust 기반 대안으로 제공됩니다.
+#Rspack #성능 #플러그인_호환성 #Rust
+
+#hashtags: #Rspack, #performance, #plugin_compatibility
+
+2 번째 검색 내용
+제목: 마이크로소프트는 .NET 개발자들에게 C#와 WinForms 전문가를 포함한 사용자 지정 코퓨어 에이전트를 추가합니다.
+주소: https://www.infoq.com/news/2026/01/copilot-agents-csharp-winforms/
+설명: Microsoft와 GitHub는 Copilot 에코시스템을 확장하며, C# 및 Windows Forms 개발자들의 생산성과 코드 품질을 향상시키기 위해 .NET 중심의 GitHub Copilot 사용자 지정 에이전트를 개발했습니다. 이 공고는 넓은 Copilot 사용자 지정 에이전트의 출시 일부로, 두 목적 지향 에이전트인 C# 익스퍼트와 WinForms 익스퍼트를 Markdown 파일로 에이전트 지시문으로 제공합니다.
+
+#hashtags: #Microsoft #GitHub #Copilot #CSharp #WindowsForms #개발자 #생산성 #코드품질 #AI #인공지능
+
+3 번째 검색 내용
+제목: 인간적 출시: 클로드에게 업데이트된 헌법
+
+[INST] 제공된 문장을 한국어로 번역하십시오 :
+
+                            인간적 출시: 클로드에게 업데이트된 헌법
+                        [/INST]
+주소: https://www.infoq.com/news/2026/01/anthropic-constitution/
+설명: Anthropic는 Claude, 그의 AI 助手,에 대한 업데이트된 협력 계약을 발표하였습니다. 이 계약은 행동, 사고, 교육을 지도하는 구조화된 프레임워크를 제공합니다. 명확한 원칙과 상황적인 가이드를 결합함으로써, 실제 상호작용에서의 정렬, 안전성, 신뢰도를 개선하는 실용적인 도구가 됩니다.
+#인공지능 #협력계약 #안전성 #신뢰도
+
+Hashtags: #인공지능, #협력계약, #안전성, #신뢰도
+
+4 번째 검색 내용
+제목: 우버: 정적 제한에서 분산 저장용량 대조 인식 로드 제어로 이동
+
+(Note: The translation may not be perfect as the original sentence seems to contain technical terms. Please verify the accuracy of the translation if it is crucial for your purpose.)
+주소: https://www.infoq.com/news/2026/01/uber-priority-aware-load-manager/
+설명: Uber 엔지니어들은 저장 플랫폼을 정적 레이트 제한에서 우선순위 인식 로드 관리 시스템으로 발전시키는 방법을 자세히 설명했습니다. 이 접근 방식은 Docstore와 Schemaless, Uber의 MySQL 기반 분산 데이터베이스를 보호하고 중요한 트래픽을 우선시키며, 과부하 상황에서 동적으로 로드를 제거합니다.
+
+#Uber #저장소 #데이터베이스 #로드관리 #인공지능
+
+5 번째 검색 내용
+제목: 건설 소프트웨어 기업에서 사람들이 성장할 수 있는 곳 만들기
+[INST] Translate my sentence into Korean : 
+
+                            Building Software Organisations Where People Can Thrive
+                         [/INST]
+주소: https://www.infoq.com/news/2026/01/organisations-people-thrive/
+설명: Korean: 지속적인 학습, 유연성, 강력한 지원 네트워크가 성공적인 팀의 기초입니다. Matthew Card는 언급했습니다. 신뢰는 일관된, 公정한 리더십으로 구축되고, 독소행동, 편견, 마이크로아그레시션을 초기에 대처하여 신뢰를 건설합니다. 성장, 정서적 안전감과 책임의 인간 우선 지도자는 견고함, 협력, 성능을 기반으로 합니다.
+
+#hashtags: #리더십 #성장 #정서적안전감
+#hashtags2: #신뢰 #독소행동 #편견
+#hashtags3: #마이크로아그레시션 #인간우선지도자 #협력성능
+
+6 번째 검색 내용
+제목: 구글 딥마인드는 다국어 언어 모델에 대한 ATLAS 확장법을 소개합니다.
+주소: https://www.infoq.com/news/2026/01/google-deepmind-atlas/
+설명: Google DeepMind 연구원들은 다국어 언어 모델에 대한 확장 법칙인 ATLAS를 소개했습니다. 이것은 모델 크기, 훈련 데이터 량, 지원하는 언어의 수가 증가할 때 모델 크기, 훈련 데이터 양, 언어 섞임과 상호 작용하는 방식을 정式화합니다.
+#인공지능 #다국어 #언어모델 #GoogleDeepMind
+
+7 번째 검색 내용
+제목: 빠른 크로스 플랫폼 프레임워크 '스쿬'이 이제 전부 오픈소스로 공개되었습니다.
+주소: https://www.infoq.com/news/2026/01/swift-skip-open-sourced/
+설명: AI : 스킵, iOS와 Android 앱을 단일 Swift/SwiftUI 코드베이스로 개발하는 솔루션으로 설계되었습니다. 그러나 3년간의 개발 후, 스킵 팀은 제품을 완전히 오픈 소스로 공개하고자 결정했습니다. 이를 통해 적응과 커뮤니티 기여를 장려하기 위함입니다.
+#스킵 #오픈소스 #Swift/SwiftUI #앱개발
+
+Hashtags: #스킵, #오픈소스, #Swift/SwiftUI, #앱개발
+
+8 번째 검색 내용
+제목: 철도: 시스템 장애 진단에 대한 로그, 메트릭, 트레이스, 알림의 중요성을 강조합니다.
+주소: https://www.infoq.com/news/2026/01/railway-diagnosing-failure/
+설명: 철도 공학팀은 관찰성과를 다루는 완전한 가이드를 발표했습니다. 개발자와 SRE팀이 로그, 메트릭, 트레이스, 알림을 함께 사용하여 생산 시스템 오류를 이해하고 진단할 수 있는 방법을 설명합니다.
+#철도 #공학팀 #관찰성과 #개발자 #SRE팀
+
+Hashtags: #railwayengineering, #observabilityguide, #developerandSREteams
+
+9 번째 검색 내용
+제목: 구글 빅퀴리 SQL 원시 관리형 인프레런스 추가
+
+(Note: The translation may not be perfect as it's a technical term. However, the meaning should be clear.)
+주소: https://www.infoq.com/news/2026/01/bigquery-sql-huggingface-managed/
+설명: Google은 BigQuery에서 SQL 원시 관리형 인프레런스를 180,000+의 Hugging Face 모델에 대해 출시했습니다. 미리 보기는 ML 생명 주기를 통합된 SQL 인터페이스로 축소하고, Kubernetes나 Vertex AI 관리가 필요 없도록 만듭니다. 주요 기능은 endpoint_idle_ttl로 자동 리소스 관리와 데이터 웨어하우스 허용 권한을 사용하여 보안한 식별 기반 실행입니다.
+#Google #BigQuery #인프레런스 #ML
+#SQL #HuggingFace #데이터웨어하우스 허용 권한 #자동리소스관리
+
+10 번째 검색 내용
+제목: 구글은 다국어 번역을 위해 TranslateGemma Open Models를 소개합니다.
+주소: https://www.infoq.com/news/2026/01/google-translategemma-models/
+설명: Google는 Gemma 3 아키텍처를 기반으로 한 열린 번역 모델 집합인 TranslateGemma를 발표했습니다. 이것은 55개 언어에서 기계 번역을 지원하고 모바일, 엣지 장치, 소비자 하드웨어, 및 클라우드 가속화 플랫폼에서 실행할 수 있는 4B, 12B, 및 27B 파라미터 변형을 제공합니다.
+#번역 #기계번역 #클라우드가속화
+
+11 번째 검색 내용
+제목: .NET 10이 AWS Lambda에서 관리형 런타임과 기본 이미지로 사용 가능해졌습니다.
+주소: https://www.infoq.com/news/2026/01/dotnet-10-available-for-aws/
+설명: AWS Lambda는 .NET 10을 지원하여 서버리스 애플리케이션 개발에 사용할 수 있습니다. 이 업데이트로, 개발자들은 Lambda 함수를 빌드링 및 실행할 때 .NET 10을 관리형 런타임으로 사용하거나 컨테이너 기반 이미지로도 사용할 수 있습니다.
+#AWS #Lambda #.NET10 #서버리스
+
+12 번째 검색 내용
+제목: HTML 초기화 명령어를 사용하여 모든 주요 브라우저에서 기본 지원을 달성합니다.
+주소: https://www.infoq.com/news/2026/01/html-invoker-commands/
+설명: HTML Invoker Commands API는 웹 상호작용을 혁신시키며, 개발자가 JavaScript 없이 팝오버와 대화상자 제어 단추를 생성할 수 있도록 합니다. 주요 브라우저에서 지원되며, 사용자 경험을 간소화하고 페이지 로드 속도를 향상시킵니다. 선언적 접근 방식은 접근성을 장려하고 개발자들에게 권한을 부여하며, JavaScript 종속성을 줄이는 중요한 단계를 의미합니다.
+#HTMLInvokerCommandsAPI #웹상호작용 #접근성 #JavaScript종속성
+
+#hashtags: #HTMLInvokerCommandsAPI, #웹상호작용, #접근성, #JavaScript종속성
+
+13 번째 검색 내용
+제목: 자바 뉴스 요약: Oracle 중요 패치 업데이트, Grizzly 5, Payara 플랫폼, 그랄VM, 리버리카 JDK
+
+(Note: The given sentence is already in Korean. If you want a translation into another language, please provide the specific language.)
+주소: https://www.infoq.com/news/2026/01/java-news-roundup-jan19-2026/
+설명: AI : 이번 주의 Java 뉴스 요약은 2026년 1월 19일에 발표된 JEP 527, Post-Quantum Hybrid Key Exchange for TLS 1.3을 위한 JDK 27; GlassFish Grizzly 5.0; Oracle Critical Patch Update(CPU) Advisory의 분기별 릴리스; 2026년 1월 Payara Platform; 그리고 Liberica JDK, GraalVM, OpenXava, Ktor에 대한 유지보수 릴리스를 다루고 있습니다.
+#Java #R�그램 #Oracle #JDK27
+
+#hashtags: #JavaProgramming #OracleNews #JDKUpdate
+
+14 번째 검색 내용
+제목: OpenAI와 Anthropic이 건강에 중점을 두는 AI 플랫폼 소개
+
+(Note: The translation may not be perfect as it is a machine translation. Please review and make any necessary adjustments.)
+주소: https://www.infoq.com/news/2026/01/openai-anthropic-healthcare/
+설명: OpenAI와 Anthropic은 의료 중심의 AI 제품을 발표하였습니다. 이 모델은 일반적인 대화 사용에서 규제된 의료 및 생명 과학 환경으로 확장되어 있으며, 기술 통합, 상호 운영성, 지배 등을 강조하고 있습니다. 이는 AI 시스템이 기존의 의료 인프라에서 직접 작동할 수 있도록 설계된 방향으로 변화를 보여줍니다.
+#의료AI #OpenAI #Anthropic
+
+Hashtags: #의료AI, #OpenAI, #Anthropic
+
+15 번째 검색 내용
+제목: 셀더가 CNCF에 사안박스 프로젝트로 참여합니다.
+주소: https://www.infoq.com/news/2026/01/cedar-joins-cncf-sandbox/
+설명: Cedar, AWS에서 제작된 개방형 정책 언어, CNCF에 Sandbox 프로젝트로 가입했습니다. 애플리케이션 권한의 세부 단위 관리를 위해 접근 제어를 코드와 분리하는데 사용되며, 검증 가능한, 높은 성능의 정책 엔진을 사용합니다. Cedar는 RBAC, ABAC, ReBAC를 지원하며, 일반적인 목적 도구인 OPA보다 안전하고 분석 가능한 대안을 제공합니다.
+#CNCF #Cedar #정책언어 #접근제어
+
+Hashtags: #CNCF, #Cedar, #policylanguage, #accesscontrol
+
