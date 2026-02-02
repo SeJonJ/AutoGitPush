@@ -1,0 +1,139 @@
+1 번째 검색 내용
+제목: 체인가드는 20위 이미지를 벗어난 컨테이너 CVE(Common Vulnerabilities and Exposures)를 98% 찾습니다.
+주소: https://www.infoq.com/news/2026/01/chainguard-opensource-vulns/
+설명: The latest State of Trusted Open Source report from Chainguard gives details on current industry thinking about vulnerabilities in container images and the long tail of open-source dependencies. The report offers a data-driven view of production environments based on more than 1,800 container image projects and 10,100 vulnerability instances observed between September and November 2025.
+#인공지능 #의료 #금융 #교통
+
+Translated sentence: 최신 Chainguard에서 제공한 Trusted Open Source 상태 보고서는 컨테이너 이미지에서 취약점과 오픈소스 종속성의 긴 꼬리에 대한 현재 산업 생각을 제공합니다. 보고서는 9월부터 11월까지 관찰된 1,800개 이상의 컨테이너 이미지 프로젝트와 10,100개 이상의 취약성 인스턴스를 기반으로 생산 환경에 대한 데이터 주도적 관점을 제공합니다.
+#컨테이너 #보안 #오픈소스 #보고서
+
+2 번째 검색 내용
+제목: OpenAI가 무료로 제공하는 Prism, LaTeX 원천 기반의 통합 GPT-5.2 작업 환경을 출시했습니다.
+주소: https://www.infoq.com/news/2026/01/openai-prism/
+설명: OpenAI는 GPT-5.2를 직접적으로 통합한 Prism이라는 무료, 클라우드 기반 LaTeX 작업 공간을 출시했습니다. 이 플랫폼은 문서 편집, 컴파일, 인용 관리 및 AI가 도움이 되는 수정을 단 하나의 웹 기반 작업 공간에 결합했습니다. 이것은 장문 형식 과학적 문서를 생산하는 연구원들에게 목표되어 있습니다.
+#인공지능 #OpenAI #LaTeX #과학적_문서
+
+Hashtags:
+1. #인공지능 (Artificial Intelligence)
+2. #OpenAI (OpenAI, the company that developed Prism)
+3. #LaTeX (The document preparation system used in the platform)
+4. #과학적_문서 (Scientific documents)
+
+3 번째 검색 내용
+제목: OpenEverest: 오픈 소스 데이터베이스 자동화 플랫폼
+[INST] Translate my sentence into Korean :
+
+                            OpenEverest: Open Source Platform for Database Automation
+                         [/INST]
+주소: https://www.infoq.com/news/2026/01/openeverest-kubernetes-databases/
+설명: Percona는 최근에 OpenEverest를 발표했습니다. 이것은 자동화된 데이터베이스 제공 및 관리를 지원하는 여러 데이터베이스 기술을 지원하는 오픈소스 플랫폼입니다. 처음으로 Percona Everest로 출시되었습니다. OpenEverest는 Kubernetes 인프라에서 호스팅할 수 있으며, 클라우드나 온-프레미스에서도 사용할 수 있습니다.
+#Percona #OpenEverest #데이터베이스 #Kubernetes
+
+#hashtags: #데이터베이스, #클라우드, #온프레미스
+
+4 번째 검색 내용
+제목: 구글이 모든 AlloyDB에 대해 관리형 연결 풀링 소개
+
+(Note: The translation may not be perfect as it is a machine translation. Please review and make necessary adjustments if needed.)
+주소: https://www.infoq.com/news/2026/01/alloydb-managed-connection-pool/
+설명: Google Cloud는 AlloyDB for PostgreSQL에 대한 관리형 커넥션 풀링을 출시했습니다. 이로 인해 클라이언트 연결이 3배로 증가하고, 거래 처리량은 5배까지 향상됩니다. 이 기능은 데이터베이스 관리를 간소화하며 연결 자동화와 지연 시간 감소를 제공합니다.
+#GoogleCloud #AlloyDB #PostgreSQL #데이터베이스_관리
+
+#hashtags: #클라우드컴퓨팅 #데이터베이스 #PostgreSQL #GoogleCloudPlatform
+
+5 번째 검색 내용
+제목: NVIDIA Dynamo Planner는 SLO에 기반한 자동화를 다중 노드 LLM 인풋에 가져옵니다.
+주소: https://www.infoq.com/news/2026/01/nvidia-dynamo-ai-kubernetes/
+설명: Microsoft와 NVIDIA는 Azure Kubernetes Service(AKS)에서 NVIDIA Dynamo를 실행하기 위한 두 번째 협력 결과물을 발표했습니다. 첫 번째 발표는 분산 GPU 시스템에서 12만 토큰당 초당 原천량을 목표로 합니다.
+#AzureKubernetesService #NVIDIA #인공지능모델 #대규모언어모델 #통계분석
+
+Translated sentence: Microsoft and NVIDIA have released Part 2 of their collaboration on running NVIDIA Dynamo for large language model inference on Azure Kubernetes Service (AKS). The first announcement aimed for a raw throughput of 1.2 million tokens per second on distributed GPU systems.
+and Provide - #hashtags. Add 3 hashtags related to the translated content.
+
+6 번째 검색 내용
+제목: 마이크로소프트는 OData .NET(ODL) 9.0.0 미리 보기 3를 출시합니다: 안전성, 현대적인 API, 사양 준수
+주소: https://www.infoq.com/news/2026/01/odata-net-preview-9/
+설명: Microsoft는 OData .NET (ODL) 9.0.0 Preview 3를 발표하였습니다. 이것은 OData .NET 클라이언트 및 코어 라이브러리의 최신 미리 보기 버전입니다. 이 미리 보기는 안전한 기본 동작, 런타임 API 정리 및 OData 사양에 더 가까운 준수를 중점으로 라이브러리의 모던화 노력을 계속하고 있습니다. 팀은 안정적인 9.x 릴리스로 이동하는 데 집중하고 있습니다.
+#인공지능 #OData #라이브러리모던화
+
+#hashtags: #AI #OData #LibraryModernization
+
+7 번째 검색 내용
+제목: 우버가 네트워크 관측성과 AI를 위해 클라우드 네이티브 재구성을 준비한다.
+주소: https://www.infoq.com/news/2026/01/uber-network-observability/
+설명: Transportation company Uber has published a detailed account of its new observability platform on its blog, emphasizing that for them, network visibility is now a strategic capability rather than a set of discrete monitoring tools.
+#Uber #ObservabilityPlatform #NetworkVisibility #StrategicCapability
+
+8 번째 검색 내용
+제목: Rspack 버전 1.7 발표: 1.x 업데이트의 마지막 최종 버전, 2.0 전환 전에
+
+[INST] Rspack 버전 1.7 발표: 1.x 업데이트의 마지막 최종 버전, 2.0 전환 전에 [/INST]
+주소: https://www.infoq.com/news/2026/01/rspack-final-rust/
+설명: Rspack 1.7가 출시되었습니다. 주요 버전 전환을 준비하면서 성능과 플러그인 호환성을 향상시킵니다. 주요 기능은 SWC 플러그인 호환성 개선, 원시 자산을 바이트로 내보내는 기능, 동적 모듈에 대한 기본 레이지 컴파일과 같습니다. Rspack은 80%의 성능 향상을 보고한 웹팩의 빠른, 라스트 기반 대안으로서 API 호환성을 유지합니다.
+#Rspack #성능 #플러그인_호환성 #레이지_컴파일
+
+#hashtags: #Rspack, #performance, #plugin_compatibility, #lazy_compilation
+
+9 번째 검색 내용
+제목: 마이크로소프트는 .NET 개발자들에게 C#와 WinForms 전문가를 포함한 사용자 지정 코퓨아이트 에이전트를 추가합니다.
+주소: https://www.infoq.com/news/2026/01/copilot-agents-csharp-winforms/
+설명: Microsoft와 GitHub는 Copilot 에코시스템을 확장하며, C# 및 Windows Forms 개발자들의 생산성과 코드 품질을 향상시키기 위해 .NET 중심의 GitHub Copilot 사용자 지정 에이전트를 개발했습니다. 이 공고는 범위 내 Copilot 사용자 지정 에이전트의 발표 일부로, C# 전문가와 WinForms 전문가라는 목적 지향 에이전트를 형식으로 에이전트 지시서 Markdown 파일로 소개했습니다.
+
+#인공지능 #코딩도움 #CSharp #WindowsForms
+
+10 번째 검색 내용
+제목: 인간적 출시: 클로드에게 업데이트된 헌법
+
+(Note: The translation may not be perfect as it is a proper noun and specific term, but it conveys the meaning of the original sentence.)
+주소: https://www.infoq.com/news/2026/01/anthropic-constitution/
+설명: Anthropic는 Claude, 그의 AI 助手,에 대한 업데이트된 협정서를 발표하였습니다. 이 협정서는 행동, 사유, 교육을 지도하는 구조화된 프레임워크를 제공합니다. 명확한 원칙과 상황적인 가이드를 결합하여 실제 상호작용에서의 정렬, 안전성, 신뢰도를 개선하는 실용적인 도구입니다.
+#인공지능 #협정서 #안전성 #신뢰도
+
+#hashtags: #AI #Constitution #AlignmentSafetyReliability
+
+11 번째 검색 내용
+제목: 우버: 정적 제한에서 분배 인식 로드 제어로 분산 저장 이동
+
+(Note: The translation may not be perfect as it is a technical term. Please verify the accuracy if needed.)
+주소: https://www.infoq.com/news/2026/01/uber-priority-aware-load-manager/
+설명: Uber 엔지니어들은 저장 플랫폼을 정적 레이트 제한에서 우선순위 인식 로드 관리 시스템으로 발전시키는 방법을 자세히 설명했습니다. 이 접근 방식은 Docstore와 Schemaless, Uber의 MySQL 기반 분산 데이터베이스를 보호하며, 중요한 트래픽에 우선순위를 부여하고, 과부하 상황에서 동적으로 로드를 제거합니다.
+
+#Uber #저장소 #데이터베이스 #로드관리시스템
+
+Hashtags: #Uber #StoragePlatform #LoadManagementSystem
+
+12 번째 검색 내용
+제목: 건설 소프트웨어 기업에서 사람들이 성장할 수 있는 곳 만들기
+[INST] Translate my sentence into Korean :
+
+                            Building Software Organisations Where People Can Thrive
+                         [/INST]
+주소: https://www.infoq.com/news/2026/01/organisations-people-thrive/
+설명: Korean: 지속적인 학습, 유연성, 강력한 지원 네트워크가 성공적인 팀의 기초입니다. Matthew Card는 언급했습니다. 신뢰는 일관된, 公정한 리더십으로 구축되고 독해행동, 편견, 마이크로아그레시션을 초기에 대처하여 얻습니다. 성장, 심리안전감각과 책임감을 혼합하여 인간 우선 지도자가 견고함, 협력, 성능을 유도합니다.
+#인류우선 #지도자 #성공적인팀
+
+Hashtags: #인류우선 #지도자 #성공적인팀
+
+13 번째 검색 내용
+제목: 구글 딥마인드는 다국어 언어 모델에 적용할 수 있는 ATLAS 확장법칙을 소개합니다.
+주소: https://www.infoq.com/news/2026/01/google-deepmind-atlas/
+설명: Google DeepMind 연구원들은 다국어 언어 모델에 대한 확장 법칙인 ATLAS를 소개했습니다. 이는 모델 크기, 훈련 데이터 량, 지원 언어 수가 증가할 때 모델 크기, 훈련 데이터 량, 언어 섞인 상황에 대한 형식화된 상호 작용을 정의합니다.
+#인공지능 #다국어 #언어모델 #GoogleDeepMind
+
+14 번째 검색 내용
+제목: 빠른 크로스 플랫폼 프레임워크 'Skip'이 이제 전부 오픈소스로 열려있습니다.
+주소: https://www.infoq.com/news/2026/01/swift-skip-open-sourced/
+설명: AI : 스킵, iOS와 Android 앱을 단일 Swift/SwiftUI 코드베이스로 생성하는 솔루션으로 설계되었습니다. 개발 후 3년간의 노력 끝에 스킵 팀은 제품을 완전히 오픈 소스로 공개하고, 채택과 커뮤니티 기여를 장려하기 위해 이러한 결정을 내렸습니다.
+#스킵 #오픈소스 #앱개발 #SwiftUI
+
+Translated sentence: After three years of development, the team behind Skip, a solution designed to create iOS and Android apps from a single Swift/SwiftUI codebase, has announced their decision to make the product completely open source, in order to foster adoption and community contribution.
+#hashtags: #Skip #OpenSource #AppDevelopment #SwiftUI
+
+15 번째 검색 내용
+제목: 철도: 시스템 장애 진단에 대한 로그, 메트릭, 트레이스, 알림의 중요성을 강조합니다.
+주소: https://www.infoq.com/news/2026/01/railway-diagnosing-failure/
+설명: 철도 공학팀은 관찰성과를 이용한 완전한 가이드를 발표했습니다. 개발자와 SRE팀은 로그, 메트릭, 트레이스, 알림을 함께 사용하여 생산 시스템 오류를 이해하고 진단할 수 있는 방법을 설명합니다.
+#철도 #공학팀 #관찰성과 #오류진단
+
+#hashtags: #RailwayEngineering, #ObservabilityGuide, #DevelopersSREteams
+
