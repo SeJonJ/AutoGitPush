@@ -1,0 +1,153 @@
+1 번째 검색 내용
+제목: 에어비엔비가 "로컬처럼 결제"를 통해 글로벌체크아웃을 확장, 14개월 내에 220개 시장으로 확장
+
+(Note: The translation may not be perfect as it is a direct translation from English to Korean. The sentence structure and grammar might need adjustments for natural Korean language flow.)
+주소: https://www.infoq.com/news/2026/02/airbnb-global-payaslocal/
+설명: Airbnb는 "Pay as a Local" 초기화이브로 전세계적인 결제를 확장하며, 220개 시장에서 20여가지 지역별 선호도 높은 결제 방법을 지원합니다. 회사는 결제 시스템을 도메인 중심 서비스, 재사용 가능한 흐름 아키텍처, 중앙 집중식 구성으로 리플랩폼하여, 다양한 지역의 결제 방법에 대한 통합 속도, 신뢰도, 테스트, 관측성을 향상시키고 있습니다.
+#Airbnb #PayAsALocal #결제방법 #지역별선호도
+
+Translated content hashtags: #Airbnb, #PayAsALocal, #결제방법, #지역별선호도
+
+2 번째 검색 내용
+제목: 내가 설정한 조건: A New IEEE Standard Enabling Online Privacy and Aiming to Replace Cookies
+[INST] 이 문장을 한국어로 번역하십시오. : [/INST]
+주소: https://www.infoq.com/news/2026/02/myterms-privacy-cookies/
+설명: Nicknamed MyTerms, the new 7012-2025 IEEE standard defines mechanisms for exchanging personal information between individuals and online service providers, and specifies how individuals can enforce their privacy requirements during transactions.
+                     #개인정보 #MyTerms #IEEE표준
+
+Translated sentence: Nicknamed MyTerms, the new 7012-2025 IEEE standard defines mechanisms for exchanging personal information between individuals and online service providers, and specifies how individuals can enforce their privacy requirements during transactions.
+                     #개인정보 #MyTerms #IEEE표준
+
+Hashtags: #개인정보, #MyTerms, #IEEE표준
+
+3 번째 검색 내용
+제목: 오픈소스 파이썬 라이브러리인 DAGGR가 검사 가능한 AI 워크플로에 도입되었습니다.
+주소: https://www.infoq.com/news/2026/02/daggr-open-source/
+설명: 인공지능 팀은 Daggr, 다양한 AI 워크플로우를 간단하게 구축하고 디버깅하는데 도움이 되는 새로운 오픈소스 Python 라이브러리를 출시했습니다. Daggr은 개발자가 워크플로우를 프로그래밍 방식으로 정의할 수 있도록 하며, 각 파이프라인 단계에서 중간 상태, 입력 및 출력을 자동으로 노출하는 시각적 캔버스를 생성합니다.
+#Daggr #오픈소스 #AI #워크플로우
+
+#hashtags: #인공지능, #Daggr, #오픈소스
+
+4 번째 검색 내용
+제목: [INST] 이 문장을 한국어로 번역합니다:
+
+                            개방적인 응답 사양 통합된 에이전트  LLM 워크플로우를 허용합니다.
+                         [/INST]
+주소: https://www.infoq.com/news/2026/02/openai-open-responses/
+설명: OpenAI's Open Responses는 에이전트적인 AI 워크플로우를 표준화하고, API 분리와  seamless transitions between proprietary and open-source models. Supported by partners like Hugging Face and Vercel, this specification enhances reasoning visibility and tool execution, streamlining complex workflows and boosting productivity for developers. Empower your AI integration today!
+                     #OpenResponses #AIIntegration #WorkflowEfficiency
+
+Translate my sentence into Korean : 
+                         OpenAI's Open Responses는 에이전트적인 AI 워크플로우를 표준화하고, API 분리와  seamless transitions between proprietary and open-source models. Supported by partners like Hugging Face and Vercel, this specification enhances reasoning visibility and tool execution, streamlining complex workflows and boosting productivity for developers. Empower your AI integration today!
+                     and Provide - #hashtags. Add 3 hashtags related to the translated content. [/INST]
+
+5 번째 검색 내용
+제목: 클라우드플레어의 매트릭스 홈서버 데모가 AI로 생성된 코드 주장에 대한 논쟁을 일으켰습니다.
+주소: https://www.infoq.com/news/2026/02/cloudflare-matrix-homeserver-ai/
+설명: Cloudflare 블로그에서는 Workers를 사용한 "제품 등급" Matrix homeserver가 커뮤니티 검토에 견고하지 못했다는 주장이 있습니다. 연합, 부분적인 암호화, 인증 로직에 TODO 코멘트가 포함되어 있어 미리 검토되지 않은 AI 출력으로 보였습니다. Matrix의 Matthew Hodgson은 이 구현 "아직 기능적인 Matrix 서버를 구성하는 것으로 정의되지 않았다"고 움직입니다.
+#인공지능 #Matrix #Cloudflare #검토
+
+Translated sentence: Cloudflare 블로그에서는 Workers를 사용한 "제품 등급" Matrix homeserver가 커뮤니티 검토에 견고하지 못했다는 주장이 있습니다. 연합, 부분적인 암호화, 인증 로직에 TODO 코멘트가 포함되어 있어 미리 검토되지 않은 AI 출력으로 보였습니다. Matrix의 Matthew Hodgson은 이 구현 "아직 기능적인 Matrix 서버를 구성하는 것으로 정의되지 않았다"고 움직입니다.
+
+#hashtags: #인공지능 #Matrix #Cloudflare #검토
+
+6 번째 검색 내용
+제목: 자바 뉴스 요약: Jakarta EE 12, Spring Shell, Open Liberty, Quarkus, Tomcat, JHipster, Gradle
+주소: https://www.infoq.com/news/2026/02/java-news-roundup-jan26-2026/
+설명: Java 랩업: 2026년 1월 26일, Java 랩업에는 다음과 같은 소식이 포함되어 있습니다: Jakarta EE 12의 마일스톤 및 GA 릴리즈 스케줄 업데이트; 2026년 1월 에디션의 Open Liberty; Quarkus에 대한 포인트 릴리즈; Spring Shell, Apache Tomcat 및 Gradle에 대한 유지보수 릴리즈; 그리고 JHipster 9.0의 첫 번째 및 두 번째 베타 릴리즈입니다.
+#Java #JakartaEE #Runtupleup #JHipster
+
+#hashtags: #Java, #JakartaEE, #Runtupleup, #JHipster
+
+7 번째 검색 내용
+제목: 체인가드는 컨테이너 CVE를 찾아내는데 98%의 효과를 달성하며, 이러한 CVE들은 최고 20개 이미지 밖에 숨어 있습니다.
+주소: https://www.infoq.com/news/2026/01/chainguard-opensource-vulns/
+설명: The latest State of Trusted Open Source report from Chainguard gives details on current industry thinking about vulnerabilities in container images and the long tail of open-source dependencies. The report offers a data-driven view of production environments based on more than 1,800 container image projects and 10,100 vulnerability instances observed between September and November 2025.
+#인공지능 #의료 #금융 #교통
+
+Translated sentence: 최신 Chainguard에서 제공한 Trusted Open Source 상태 보고서는 컨테이너 이미지에서 취약점과 오픈소스 종속성의 긴 꼬리에 대한 현재 산업 사고에 대한 세부 정보를 제공합니다. 보고서는 9월부터 11월까지 관찰된 1,800개의 컨테이너 이미지 프로젝트와 10,100개의 취약점 인스턴스를 기반으로 생산 환경을 데이터 주도적으로 보여줍니다.
+#컨테이너 #취약점 #오픈소스 #보고서
+
+Hashtags: #컨테이너 #취약점 #오픈소스 #보고서
+
+8 번째 검색 내용
+제목: OpenAI가 무료로 제공하는 Prism, LaTeX 원본 기반의 통합 GPT-5.2 작업 환경을 출시했습니다.
+주소: https://www.infoq.com/news/2026/01/openai-prism/
+설명: OpenAI는 GPT-5.2를 직접적으로 통합한 무료, 클라우드 기반 LaTeX 작업 환경인 Prism을 출시했습니다. 이 플랫폼은 문서 편집, 컴파일, 참조 관리 및 AI가 도움이 되는 수정을 단 하나의 웹 기반 작업 환경에 결합했습니다. 이것은 장문 형식 과학적 문서를 생산하는 연구원들에게 목표되어 있습니다.
+#인공지능 #OpenAI #LaTeX #학술문서
+
+#hashtags:
+1. #인공지능
+2. #OpenAI
+3. #LaTeX
+
+These hashtags are related to the translated content as they mention OpenAI, artificial intelligence, and LaTeX, which are the main topics discussed in the translation.
+
+9 번째 검색 내용
+제목: OpenEverest: 오픈 소스 데이터베이스 자동화 플랫폼
+[INST] Translate my sentence into Korean :
+
+                            OpenEverest: Open Source Platform for Database Automation
+                         [/INST]
+주소: https://www.infoq.com/news/2026/01/openeverest-kubernetes-databases/
+설명: Percona는 최근에 OpenEverest를 발표했습니다. 이것은 자동화된 데이터베이스 제공 및 관리를 지원하는 여러 데이터베이스 기술을 지원하는 오픈소스 플랫폼입니다. 처음으로 Percona Everest로 출시되었습니다. OpenEverest는 Kubernetes 인프라에서 호스팅할 수 있고, 클라우드나 온-프레미스에서도 사용할 수 있습니다.
+#Percona #OpenEverest #데이터베이스 #Kubernetes
+
+#hashtags: #데이터베이스, #클라우드, #온프레미스
+
+10 번째 검색 내용
+제목: 구글이 모든 AlloyDB에 대해 관리형 커넥션 풀링 소개
+
+(Note: The translation may not be perfect as it is a machine translation. Please review and make necessary adjustments if needed.)
+주소: https://www.infoq.com/news/2026/01/alloydb-managed-connection-pool/
+설명: Google Cloud는 AlloyDB for PostgreSQL에 대한 관리형 커넥션 풀링을 출시했습니다. 이로 인해 클라이언트 연결이 3배로 증가하고, 트랜잭션 처리량은 5배까지 향상됩니다. 이 기능은 데이터베이스 관리를 간소화하며, 커넥션 관리를 자동화하고 지연 시간을 줄입니다.
+#GoogleCloud #AlloyDB #PostgreSQL #데이터베이스_관리
+
+#hashtags: #클라우드컴퓨팅 #데이터베이스 #트랜잭션처리량
+
+11 번째 검색 내용
+제목: NVIDIA Dynamo Planner는 SLO에 기반한 자동화를 다중 노드 LLM 인텐션에 가져옵니다.
+주소: https://www.infoq.com/news/2026/01/nvidia-dynamo-ai-kubernetes/
+설명: Microsoft와 NVIDIA는 Azure Kubernetes Service(AKS)에서 NVIDIA Dynamo를 실행하기 위한 협력 프로젝트의 부분 2를 발표했습니다. 첫 번째 발표는 분산 GPU 시스템에서 1.2만 토큰 당 초당 원시 처리량을 목표로 합니다.
+#인공지능 #클라우드컴퓨팅 #NVIDIA #Microsoft
+
+Translated sentence: Microsoft and NVIDIA have released Part 2 of their collaboration on running NVIDIA Dynamo for large language model inference on Azure Kubernetes Service (AKS). The first announcement aimed for a raw throughput of 1.2 million tokens per second on distributed GPU systems.
+and Provide - #hashtags. Add 3 hashtags related to the translated content.
+
+12 번째 검색 내용
+제목: 마이크로소프트는 OData .NET(ODL) 9.0.0 미리 보기 3를 배포합니다: 안전성, 현대적인 API, 사양 준수
+
+[INST] Microsoft ships OData .NET (ODL) 9.0.0 Preview 3: Safety, Modern APIs, and Spec Compliance [/INST]
+주소: https://www.infoq.com/news/2026/01/odata-net-preview-9/
+설명: Microsoft는 OData .NET (ODL) 9.0.0 Preview 3를 발표했습니다. 이것은 OData .NET 클라이언트 및 코어 라이브러리의 최신 미리 보기 버전입니다. 이 미리 보기는 안전한 기본 동작, 런타임 API 정리 및 OData 사양에 더 엊겨진 것을 중점으로 하고 있습니다. 팀은 안정적인 9.x 릴리스를 목표로 합니다.
+#인공지능 #데이터분석 #OData
+
+Translated sentence: Microsoft released OData .NET (ODL) 9.0.0 Preview 3, the latest preview iteration of the OData .NET client and core libraries, continuing the modernisation effort of the library. This preview focuses on safer default behaviours, runtime API cleanup, and closer conformance with the OData specification as the team works toward a stable 9.x release.
+
+#hashtags: #인공지능 #데이터분석 #OData
+
+13 번째 검색 내용
+제목: 우버, 네트워크 관측성과 CLOUD 네이티브 재구성을 통해 AI에 대비합니다.
+주소: https://www.infoq.com/news/2026/01/uber-network-observability/
+설명: Transportation company Uber는 새로운 관측성 플랫폼에 대한 자세한 설명을 블로그에 게시했습니다. 그들은 네트워크 보기가 이제 전략적인 능력이 되었고, 분리된 모니터링 도구의 집합이 아닌 것을 강조했습니다.
+#Uber #관측성플랫폼 #네트워크보기
+
+#hashtags: #Uber, #관측성플랫폼, #네트워크보기
+
+14 번째 검색 내용
+제목: Rspack 버전 1.7 출시: 1.x 업데이트의 마지막 최종 버전, 2.0 전환 전에
+
+[INST] Rspack 버전 1.7 출시: 1.x 업데이트의 마지막 최종 버전, 2.0 전환 전에 [/INST]
+주소: https://www.infoq.com/news/2026/01/rspack-final-rust/
+설명: Rspack 1.7가 출시되었습니다. 주요 버전 전환을 준비하면서 성능과 플러그인 호환성을 향상시킵니다. 주요 기능은 SWC 플러그인 호환성 개선, 원시 자산을 바이트로 내보내는 것이 native, 동적 모듈에 대한 기본 레이지 컴파일입니다. Rspack은 webpack과 API 호환성을 유지하면서 80%의 성능 향상을 보고 있으며, Rust 기반의 빠른 대안으로 제공됩니다.
+#Rspack #Rust #웹팩_대안
+
+Hashtags: #Rspack #Rust #웹팩_대안
+
+15 번째 검색 내용
+제목: 마이크로소프트는 .NET 개발자들에게 C#와 WinForms 전문가를 포함한 사용자 지정 코퓨아이트 에이전트를 추가합니다.
+주소: https://www.infoq.com/news/2026/01/copilot-agents-csharp-winforms/
+설명: Microsoft와 GitHub는 Copilot 에코시스템을 .NET 중심의 GitHub Copilot 사용자 지정 에이전트로 확장했습니다. 이 에이전트는 C# 및 Windows Forms 개발자들의 생산성과 코드 품질을 향상시키기 위해 설계되었으며, 에이전트 지침 Markdown 파일로 제공됩니다. 이 선언은 범용 Copilot 사용자 지정 에이전트의 발표 일부로, 두 목적 지향형 에이전트인 C# Expert와 WinForms Expert를 제공합니다.
+
+#hashtags: #Microsoft #GitHub #Copilot #CSharp #WindowsForms #개발자 #생산성 #코드품질 #AI #인공지능
+
