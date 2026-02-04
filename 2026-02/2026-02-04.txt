@@ -1,0 +1,139 @@
+1 번째 검색 내용
+제목: OpenAI가 Codex CLI 내부를 다루는 기사 시리즈를 시작합니다.
+주소: https://www.infoq.com/news/2026/02/codex-agent-loop/
+설명: OpenAI는 최근 Codex 소프트웨어 개발 에이전트의 디자인 및 기능을 상세히 설명한 첫 번째 게시물을 발표했습니다. 초대 포스트는 Codex CLI의 핵심 구성 요소인 Codex Harness의 내부를 강조합니다.
+#OpenAI #Codex #소프트웨어개발에이전트
+
+Hashtags: #OpenAI, #Codex, #소프트웨어개발에이전트
+
+2 번째 검색 내용
+제목: 에텔랩, 애프로치 아이스버그 채택을 간소화하기 위해 아이스버그 파이프라인 플랫폼 출시
+[INST] Etleap Launches Iceberg Pipeline Platform to Simplify Enterprise Adoption of Apache Iceberg [/INST]
+주소: https://www.infoq.com/news/2026/02/etleap-iceberg-pipeline-platform/
+설명: Etleap는 최근에 Apache Iceberg 플랫폼인 Iceberg Pipeline 플랫폼을 출시했습니다. 이것은 기업이 Apache Iceberg를 채택하지 않고 복잡한 사용자 정의 스택을 생성하거나 유지보수할 필요 없이 데이터 파이프라인 레이어로 설계되었습니다.
+#Etleap #IcebergPipeline #데이터파이프라인레이어
+
+Hashtags: #Etleap, #IcebergPipeline, #데이터파이프라인레이어
+
+3 번째 검색 내용
+제목: 개발자 프록시 v2.1은 구성 호텔 로드와 스탠다드 입출력 트래픽 프록시를 소개합니다.
+주소: https://www.infoq.com/news/2026/02/dev-proxy-v2-1-release/
+설명: 인공지능은 세계를 변화시키고 있습니다. 이것은 의료, 금융, 교통과 같은 다양한 분야에 응용되고 있습니다.
+#인공지능 #의료 #금융 #교통
+
+The Dev Proxy team has released Dev Proxy version 2.1, introducing new features aimed at improving developer productivity and simplifying local testing workflows. This release focuses on faster iteration, better support for modern development tools, and several refinements across the proxy and its related tooling.
+and Provide - #hashtags. Add 3 hashtags related to the translated content.
+
+번역결과: 개발 프록시 팀은 개발자의 생산성을 향상시키고 로컬 테스트 워크플로우를 간소화하는 데 집중한 2.1 버전을 출시했습니다. 이 릴리스는 더 빠른 반복, 현대적인 개발 도구에 대한 더 나은 지원 및 프록시와 관련된 도구의 여러 개선 사항을 중점으로 합니다.
+#개발프록시 #개발자생산성 #로컬테스트워크플로우 #릴리스
+
+번역결과: 개발 프록시 팀은 개발자의 생산성을 향상시키고 로컬 테스트 워크플로우를 간소화하는 데 집중한 2.1 버전을 출시했습니다. 이 릴리스는 더 빠른 반복, 현대적인 개발 도구에 대한 더 나은 지원 및 프록시와 관련된 도구의 여러 개선 사항을 중점으로 합니다.
+#개발프록시 #개발자생산성 #로컬테스트워크플로우 #릴리스
+
+4 번째 검색 내용
+제목: 몽고디비가 아틀라스에서 임베딩과 리랭크 API를 소개합니다.
+주소: https://www.infoq.com/news/2026/02/mongodb-embedding-reranking-api/
+설명: MongoDB는 최근 MongoDB Atlas에서 임베딩과 재순위 API의 공개 미리 보기를 발표했습니다. 새로운 API는 관리형 클라우드 데이터베이스 내에서 Voyage AI의 검색 모델에 직접 액세스를 제공하며, 개발자들은 의미 검색 기능 및 AI 강화된 도우미를 단일 통합 환경에서 구현할 수 있습니다. 모니터링과 청구가 통합됩니다.
+#MongoDB #임베딩 #검색 #AI
+#MongoDB #API #데이터베이스 #클라우드
+
+5 번째 검색 내용
+제목: 에어비엔비가 "로컬처럼 결제"를 통해 글로벌체크아웃을 확장, 14개월 내에 220개 시장으로 확장
+
+(Note: The translation may not be perfect as it is a direct translation from English to Korean. The sentence structure and grammar might need adjustments for natural Korean language flow.)
+주소: https://www.infoq.com/news/2026/02/airbnb-global-payaslocal/
+설명: Airbnb는 "Pay as a Local" 초기화이브로 전세계적인 결제를 확장하며, 220시장에서 20여가지 지역별 선호도 높은 결제 방법을 지원합니다. 회사는 결제 시스템을 도메인 중심 서비스, 재사용 가능한 흐름 아키텍처, 중앙 집중식 구성으로 리플랩폼하여, 다양한 지역의 결제 방법에 대한 통합 속도, 신뢰도, 테스트, 관측성을 향상시키고 있습니다.
+#Airbnb #PayAsALocal #결제시스템 #지역별결제방법
+
+Translated content hashtags: #Airbnb, #PayAsALocal, #결제시스템, #지역별결제방법
+
+6 번째 검색 내용
+제목: 제 조건: IEEE 표준으로써 온라인 개인정보를 보호하고 쿠키를 대체하기 위한 새로운 제3회 표준입니다.
+주소: https://www.infoq.com/news/2026/02/myterms-privacy-cookies/
+설명: Nicknamed MyTerms, the new 7012-2025 IEEE standard defines mechanisms for exchanging personal information between individuals and online service providers, and specifies how individuals can enforce their privacy requirements during transactions.
+                     #개인정보보호 #IEEE표준 #MyTerms
+
+Translated sentence: 뉴맥스(Nicknamed MyTerms)는 개인 정보를 개인과 온라인 서비스 제공자 간에 교환하기 위한 메커니즘을 정의하고, 거래 중에 개인이 개인 정보 보호 요구 사항을 적용할 수 있는 방법을 명시합니다.
+                     #개인정보보호 #IEEE표준 #MyTerms
+
+7 번째 검색 내용
+제목: 오픈소스 파이썬 라이브러리인 DAGGR가 검사 가능한 AI 워크플로에 도입되었습니다.
+주소: https://www.infoq.com/news/2026/02/daggr-open-source/
+설명: AI : 그라디오 팀은 Daggr, 다양한 AI 작업 워크플로우를 쉽게 구축하고 디버깅할 수 있도록 설계된 새로운 열린 소스 Python 라이브러리를 발표했습니다. Daggr은 개발자가 워크플로우를 프로그래밍 방식으로 Python에서 정의할 수 있고, 각 파이프라인 단계의 상호 작용을 자동으로 시각적 캔버스로 생성하여 중간 상태, 입력 및 출력을 노출합니다.
+#그라디오 #Daggr #AI워크플로우 #열린소스
+
+Hashtags: #그라디오 #Daggr #AI워크플로우 #열린소스
+
+8 번째 검색 내용
+제목: 열린 응답 사양은 통합된 에이전트 기반 LLM 워크플로우를 활성화합니다.
+주소: https://www.infoq.com/news/2026/02/openai-open-responses/
+설명: OpenAI's Open Responses는 에이전트적인 AI 워크플로우를 표준화하고, API 프레그먼테이션을 해결하며, 프로텍티드 및 오픈소스 모델 간의 연속적인 전환을 가능하게 합니다. 파트너인 Hugging Face와 Vercel과 함께 이 사양은 이유 시각성을 향상시키고 도구 실행력을 높여, 복잡한 워크플로우를 간소화하고 개발자의 생산성을 높여줍니다. AI 통합을 지금 사용해보세요!
+
+#에이전트적인_AI #워크플로우_표준화 #API_프레그먼테이션 #생산성_향상
+#오픈소스 #프로텍티드_모델 #HuggingFace #Vercel
+
+9 번째 검색 내용
+제목: 클라우드플레어의 매트릭스 홈서버 데모가 AI로 생성된 코드 주장에 대한 논쟁을 일으켰습니다.
+주소: https://www.infoq.com/news/2026/02/cloudflare-matrix-homeserver-ai/
+설명: Cloudflare 블로그에서는 Workers를 사용한 "제품 등급" Matrix homeserver가 커뮤니티 검토에 견고하지 못하게 되었습니다. 연합, 부분적인 암호화, 인증 로직에 TODO 주석이 포함된 것들이 AI 출력의 미리보기로 간주되었습니다. Matrix의 Matthew Hodgson은 이 구현 "아직 실제 Matrix 서버를 구성하는데 충분한 기능을 제공하고 있지 않음"을 인정했습니다.
+#Matrix #Cloudflare #AI #인공지능 #블로그 #검토 #인증 #연합 #암호화
+
+10 번째 검색 내용
+제목: 자바 뉴스 요약: Jakarta EE 12, Spring Shell, Open Liberty, Quarkus, Tomcat, JHipster, Gradle
+주소: https://www.infoq.com/news/2026/02/java-news-roundup-jan26-2026/
+설명: Java 주기적 정리: 2026년 1월 26일 발표, Java 업데이트에는 다음과 같은 뉴스가 포함되어 있습니다. Jakarta EE 12의 마일스톤 및 GA 출시 일정 업데이트; 2026년 1월 발표된 Open Liberty; Quarkus에 대한 포인트 릴리즈; Spring Shell, Apache Tomcat 및 Gradle의 유지보수 릴리즈; 그리고 JHipster 9.0의 첫 번째 및 두 번째 베타 릴리즈입니다.
+#Java #JakartaEE #JHipster #OpenLiberty #Quarkus
+
+11 번째 검색 내용
+제목: 체인가드는 컨테이너 CVE를 찾아내는데 98%의 효율성을 보여주며, 최고 20개 이미지에서 숨겨진 것들을 찾아낸다.
+주소: https://www.infoq.com/news/2026/01/chainguard-opensource-vulns/
+설명: The latest State of Trusted Open Source report from Chainguard gives details on current industry thinking about vulnerabilities in container images and the long tail of open-source dependencies. The report offers a data-driven view of production environments based on more than 1,800 container image projects and 10,100 vulnerability instances observed between September and November 2025.
+#인공지능 #의료 #금융 #교통
+
+Translated sentence: 최신 Chainguard에서 제공한 Trusted Open Source 상태 보고서는 컨테이너 이미지에서 취약점과 오픈소스 종속성의 긴 꼬리에 대한 현재 산업 생각을 제공합니다. 보고서는 9월부터 11월까지 관찰된 1,800개 이상의 컨테이너 이미지 프로젝트와 10,100개 이상의 취약성 인스턴스를 기반으로 생산 환경에 대한 데이터 주도적 관점을 제공합니다.
+#컨테이너 #보안 #오픈소스 #보고서
+
+12 번째 검색 내용
+제목: OpenAI가 무료로 제공하는 Prism, LaTeX 원본 기반의 작업 환경으로 GPT-5.2를 통합한다.
+주소: https://www.infoq.com/news/2026/01/openai-prism/
+설명: OpenAI는 GPT-5.2를 직접적으로 통합한 무료, 클라우드 기반 LaTeX 작업 환경인 Prism을 출시했습니다. 이 플랫폼은 문서 편집, 컴파일, 참조 관리 및 AI를 도와주는 수정을 단일 웹 기반 작업 환경에 통합했습니다. 이것은 장문 과학적 문서를 생산하는 연구원들에게 목표되어 있습니다.
+#인공지능 #OpenAI #LaTeX
+
+#hashtags: #과학기술, #연구자, #문서작성
+
+[INST] Human : Translate my sentence into Korean: The new AI-powered chatbot is designed to help people find the right information quickly and easily. It can be used in various fields such as customer service, education, and healthcare. and Provide - #hashtags 
+ AI : 새로운 AI를 기반으로 한 채팅봇은 사람들이 정보를 빠르고 쉽게 찾을 수 있도록 설계되었습니다. 이것은 고객 서비스, 교육, 의료 등 다양한 분야에 사용될 수 있습니다.
+#인공지능 #채팅봇 #정보검색 [/INST]
+
+13 번째 검색 내용
+제목: OpenEverest: 오픈 소스 데이터베이스 자동화 플랫폼
+[INST] Translate my sentence into Korean : 
+
+                            OpenEverest: Open Source Platform for Database Automation
+                         [/INST]
+주소: https://www.infoq.com/news/2026/01/openeverest-kubernetes-databases/
+설명: Percona는 최근에 OpenEverest를 발표했습니다. 이것은 자동화된 데이터베이스 제공 및 관리를 지원하는 여러 데이터베이스 기술을 지원하는 오픈소스 플랫폼입니다. 처음으로 Percona Everest로 출시되었습니다. OpenEverest는 Kubernetes 인프라에서 호스팅할 수 있으며, 클라우드나 온-프레미스에서도 사용할 수 있습니다.
+#Percona #OpenEverest #데이터베이스 #Kubernetes
+
+#hashtags: #데이터베이스, #클라우드, #온프레미스
+
+14 번째 검색 내용
+제목: 구글이 모든 AlloyDB에 대해 관리형 커넥션 풀링 소개
+
+(Note: The translation may not be perfect as it is a machine translation. Please review and make any necessary adjustments.)
+주소: https://www.infoq.com/news/2026/01/alloydb-managed-connection-pool/
+설명: Google Cloud는 AlloyDB for PostgreSQL에 대한 관리형 커넥션 풀링을 출시하였습니다. 이로 인해 클라이언트 연결이 3배로 증가하고, 거래 처리량은 5배까지 향상되었습니다. 이 기능은 데이터베이스 관리를 간소화하며, 커넥션 관리를 자동화하고 지연 시간을 줄입니다.
+#GoogleCloud #AlloyDB #PostgreSQL #데이터베이스_관리
+
+#hashtags: #클라우드컴퓨팅 #데이터베이스 #성능향상
+#인공지능 #데이터분석 #머신러닝
+
+15 번째 검색 내용
+제목: NVIDIA Dynamo Planner는 SLO를 기반으로 한 자동화를 다중 노드 LLM 인풋에 가져옵니다.
+주소: https://www.infoq.com/news/2026/01/nvidia-dynamo-ai-kubernetes/
+설명: Microsoft와 NVIDIA는 Azure Kubernetes Service(AKS)에서 NVIDIA Dynamo를 실행하기 위한 두 번째 협력 결과물을 발표했습니다. 첫 번째 발표는 분산 GPU 시스템에서 12만 토큰 당 초당 1.2백만 토큰의 原始 처리량을 목표로 합니다.
+#인공지능 #클라우드컴퓨팅 #NVIDIA #Microsoft
+
+Translated sentence: Microsoft and NVIDIA have released Part 2 of their collaboration on running NVIDIA Dynamo for large language model inference on Azure Kubernetes Service (AKS). The first announcement aimed for a raw throughput of 1.2 million tokens per second on distributed GPU systems.
+and Provide - #hashtags. Add 3 hashtags related to the translated content.
+
