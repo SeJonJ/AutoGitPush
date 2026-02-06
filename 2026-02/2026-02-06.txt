@@ -1,0 +1,145 @@
+1 번째 검색 내용
+제목: 열락코드: 열락 소스 AI 코딩 에이전트, 클로드 코드와 코�y잔과 경쟁하는
+[INST] Translate my sentence into Korean : 
+
+                            OpenCode: an Open-source AI Coding Agent Competing with Claude Code and Copilot
+                         [/INST]
+주소: https://www.infoq.com/news/2026/02/opencode-coding-agent/
+설명: AI : OpenCode는 오픈소스 AI 코딩 도구로, native 터미널 기반 UI, 다중 세션 지원 및 75개 이상의 모델과 호환성을 갖추고 있습니다. Claude, OpenAI, Gemini 등 여러 모델에 대한 지원을 제공하며, CLI 도구 외에도 데스크톱 앱과 VS Code, Cursor 등의 IDE 확장 기능으로 사용할 수 있습니다.
+#오픈소스 #AI코딩도구 #OpenCode
+
+#hashtags: #오픈소스 #AI #코딩도구
+
+2 번째 검색 내용
+제목: 테스트 주도 개발과 생산 테스팅에서 피드백 받기
+
+(Note: The translation may not be perfect as it is a direct translation of the English phrase. In Korean, it would be more natural to say "테스트 주도 개발과 실제 운영 중인 시스템에서의 테스팅으로부터 피드백을 받는 것" or something similar.)
+주소: https://www.infoq.com/news/2026/02/feedback-TDD-production/
+설명: 팀은 끝점 간 테스트보다는 단위 테스트와 통합 테스트에 강조하며, TDD, 페어 프로그래밍, 및 좋은 디자인을 사용하여 작은 변경 사항을 주기적으로 배포하고, 실제 피드백을 위해 생산 환경에서 테스트하며, 기능 토글을 사용하여 위험을 줄이는 것을 강조한다고 Ola Hast와 Asgaut Mjølne Söderbom은 연속 배포에 대한 발표에서 언급했습니다.
+#연속배포 #페어프로그래밍 #기능토글
+
+#hashtags: #연속배포, #페어프로그래밍, #기능토글
+
+3 번째 검색 내용
+제목: 구글이 모델 컨텍스트 프로토콜에서 gRPC 지원을 추진합니다.
+주소: https://www.infoq.com/news/2026/02/google-grpc-mcp-transport/
+설명: Google Cloud는 기업에 중요한 핵심 간격을 닫고 있습니다. gRPC 전송 패키지를 도입하여 Model Context Protocol(MCP)에 대해, 이미 gRPC를 사용하고 있는 기업과의 통합을 향상시킵니다. 이 게임 챔저는 개발 거슬림을 줄여주며 AI 에이전트가 기존 서비스와 연결되도록 보장하면서 성능과 효율성을 높여줍니다. AI 통합의 변화적인 경로에 참여하십시오!
+#GoogleCloud #AI통합 #gRPC #성능향상
+
+Hashtags: #GoogleCloud, #AI통합, #gRPC, #성능향상
+
+4 번째 검색 내용
+제목: 링크드인 재설계: 저베이커를 카프카와 xDS로 대체하여 규모에 따른 서비스 발견 다시 구성
+[INST] Translate the given Korean sentence back into English : [/INST]
+
+LinkedIn Re-Architects Service Discovery: Replacing Zookeeper with Kafka and xDS at Scale
+주소: https://www.infoq.com/news/2026/02/linkedin-service-discovery/
+설명: LinkedIn's engineering team successfully upgraded its legacy ZooKeeper service discovery platform to enhance scalability and performance. By leveraging Apache Kafka and the xDS protocol, the new architecture enables eventual consistency, supports multiple languages, and allows migration without downtime. Post-upgrade, latency vastly improved, facilitating hundreds of thousands of app instances.
+#인공지능 #서비스 발견 #
+
+5 번째 검색 내용
+제목: 자바는 데이터 지향 프로그래밍을 레코드 넘어서 확장하기 위해 캐리어 클래스를 탐색합니다.
+주소: https://www.infoq.com/news/2026/02/java-beyond-records/
+설명: The OpenJDK Amber project has published a new design note proposing “carrier classes” and “carrier interfaces” to extend record-style data modeling to more Java types. The proposal preserves concise state descriptions, derived methods, and pattern matching, while relaxing structural constraints that limit records.
+#OpenJDK #AmberProject #JavaTypes #CarrierClasses #CarrierInterfaces #RecordStyleDataModeling
+
+6 번째 검색 내용
+제목: 버셀 개발팀은 에이전트 명령을 위한 열린 에코시스템인 'Skills.sh'를 소개합니다.
+주소: https://www.infoq.com/news/2026/02/vercel-agent-skills/
+설명: Vercel은 Skills.sh를 공개 소스로 출시했습니다. 이것은 AI 에이전트가 명령 라인을 통해 재사용 가능한 작업, 즉 스킬들을 표준화된 방식으로 실행할 수 있도록 설계되었습니다.
+#Vercel #Skills.sh #AI #명령줄 #재사용가능한작업
+
+#hashtags: #AI #Vercel #Skills.sh #CommandLine
+
+7 번째 검색 내용
+제목: 에이전트 트레이스: 커서가 AI 코드 인정을 위한 열린 사양 제안
+
+(Note: The translation may not be perfect as it involves some technical terms and context understanding. Please verify the translation if necessary.)
+주소: https://www.infoq.com/news/2026/02/agent-trace-cursor/
+설명: Cursor는 AI가 생성한 코드의 인정을 소프트웨어 프로젝트에서 표준화하기 위해 공개 사양으로 Agent Trace를 발표했습니다. RFC(Request for Comments) 형식으로 발표되었으며, 버전 관리 코드베이스에서 AI와 인간의 작성 사항을 공정하게 기록하는 비즈니스 중립적 포맷을 정의합니다.
+#인공지능 #소프트웨어 #코드 #버전관리
+
+Translated sentence: Cursor has published Agent Trace, a draft open specification aimed at standardizing how AI-generated code is attributed in software projects. Released as a Request for Comments (RFC), the proposal defines a vendor-neutral format for recording AI contributions alongside human authorship in version-controlled codebases.
+and Provide - #hashtags. Add 3 hashtags related to the translated content.
+
+#인공지능 #소프트웨어 #코드 #버전관리
+
+8 번째 검색 내용
+제목: Astro는 버전 6 베타를 발표하며 개발 서버를 재설계하고 최초의 Cloudflare Workers를 지원합니다.
+주소: https://www.infoq.com/news/2026/02/astro-v6-beta-cloudflare/
+설명: Astro 6 Beta는 웹 개발을 변화시키며, Vite의 Environment API를 지원하고 우선순위가 높은 Cloudflare Workers 지원과 안정적인 실시간 콘텐츠 수집을 통해 서버를 개선했습니다. 성능과 보안에 중점을 두고 있으며, 실시간 데이터 업데이트와 강력한 Content Security Policy 지원을 제공합니다. 콘텐츠 주도 사이트를 위해 설계되었으며, 프레임워크에 독립적인 상태로 변화에 대처할 수 있습니다.
+#Astro6Beta #웹개발 #성능 #보안
+#ContentSecurityPolicy #프레임워크독립적 #실시간데이터업데이트
+
+9 번째 검색 내용
+제목: [INST] 이 문장을 한국어로 번역하십시오:
+
+                            깃허브는 기존 보호 기능이 옳은 트래픽을 차단했을 때 계층화된 방어 시스템을 다시 개발합니다.
+                         [/INST]
+주소: https://www.infoq.com/news/2026/02/github-layered-def/
+설명: GitHub engineers recently traced user reports of unexpected “Too Many Requests” errors to abuse-mitigation rules that had accidentally remained active long after the incidents that prompted them.
+#GitHub #오류 #보안
+
+Translated content: GitHub 엔지니어들은 사용자가 예상치 못한 "너무 많은 요청" 오류를 보고할 때, 사건이 발생한 후에도 잘못된 방식으로 악용 방지 규칙이 활성화되어 있었음을 찾았습니다.
+#GitHub #오류 #보안
+
+10 번째 검색 내용
+제목: OpenAI가 Codex CLI 내부를 다루는 기사 시리즈를 시작합니다.
+주소: https://www.infoq.com/news/2026/02/codex-agent-loop/
+설명: OpenAI는 최근 Codex 소프트웨어 개발 에이전트의 디자인 및 기능을 상세히 설명한 첫 번째 게시물을 발표했습니다. 초대 글은 Codex CLI의 핵심 구성 요소인 Codex Harness의 내부를 강조합니다.
+#OpenAI #Codex #소프트웨어개발에이전트
+
+Hashtags: #OpenAI, #Codex, #소프트웨어개발에이전트
+
+11 번째 검색 내용
+제목: 에텔랩, 애프로쉬 아이스버그 적용을 간소화하기 위해 아이스버그 파이프라인 플랫폼 출시
+
+(Note: The translation may not be perfect as it is a machine translation. Please review and make any necessary adjustments.)
+주소: https://www.infoq.com/news/2026/02/etleap-iceberg-pipeline-platform/
+설명: Etleap는 최근에 Apache Iceberg 플랫폼인 Iceberg Pipeline 플랫폼을 출시했습니다. 이것은 기업이 Apache Iceberg를 사용하려고 복잡한 사용자 정의 스택을 구축하거나 유지보수할 필요 없이 사용할 수 있도록 설계되었습니다.
+#Etleap #IcebergPipeline #데이터파이프라인
+
+Hashtags: #Etleap, #IcebergPipeline, #데이터파이프라인
+
+12 번째 검색 내용
+제목: 개발자 프록시 v2.1은 구성 호텔 로드와 스탠다드 입출력 트래픽 프록시를 소개합니다.
+주소: https://www.infoq.com/news/2026/02/dev-proxy-v2-1-release/
+설명: 인공지능은 세계를 변화시키고 있습니다. 이것은 의료, 금융, 교통과 같은 다양한 분야에 응용되고 있습니다.
+#인공지능 #의료 #금융 #교통
+
+The Dev Proxy team has released Dev Proxy version 2.1, introducing new features aimed at improving developer productivity and simplifying local testing workflows. This release focuses on faster iteration, better support for modern development tools, and several refinements across the proxy and its related tooling.
+and Provide - #hashtags. Add 3 hashtags related to the translated content.
+
+번역결과: 개발 프록시 팀은 개발자의 생산성을 향상시키고 로컬 테스트 워크플로우를 간소화하는 데 집중한 2.1 버전을 출시했습니다. 이 릴리스는 더 빠른 반복, 현대적인 개발 도구에 대한 더 나은 지원 및 프록시와 관련 도구의 여러 개선 사항을 중점으로 합니다.
+#개발프록시 #개발자생산성 #로컬테스트워크플로우 #릴리스
+
+#hashtags: #개발프록시, #개발자생산성, #로컬테스트워크플로우, #릴리스
+
+13 번째 검색 내용
+제목: 몽고디비가 아틀라스에서 임베딩과 리랭크 API를 소개합니다.
+주소: https://www.infoq.com/news/2026/02/mongodb-embedding-reranking-api/
+설명: MongoDB는 최근 MongoDB Atlas에서 임베딩과 재순위 API의 공개 미리 보기를 발표했습니다. 새로운 API는 관리형 클라우드 데이터베이스 내에서 Voyage AI의 검색 모델에 직접 액세스를 제공하며, 개발자들은 의미 검색 기능과 AI 강화된 도우미를 단일 통합 환경에서 생성할 수 있습니다. 모니터링과 청구가 통합됩니다.
+#MongoDB #임베딩 #검색 #AI
+#MongoDBAtlas #도우미 #의미검색
+
+14 번째 검색 내용
+제목: 에어비엔비가 "로컬처럼 결제"를 통해 글로벌체크아웃을 확장, 14개월 내에 220개 시장으로 확장
+
+(Note: The translation may not be perfect as it is a direct translation from English to Korean. The sentence structure and grammar might need adjustments for natural Korean.)
+주소: https://www.infoq.com/news/2026/02/airbnb-global-payaslocal/
+설명: Airbnb는 "Pay as a Local" 초기화이브로 전세계적인 결제를 확장하며, 220시장에서 20여가지 지역별 선호도 높은 결제 방법을 지원합니다. 회사는 결제 시스템을 도메인 중심 서비스, 재사용 가능한 흐름 아키텍처, 중앙 집중식 구성으로 리플랩폼하여, 다양한 지역의 결제 방법에 대한 통합 속도, 신뢰도, 테스트, 관측성을 향상시키고 있습니다.
+#Airbnb #PayAsALocal #결제방법 #전세계적인_결제
+
+Translated content hashtags: #Airbnb, #PayAsALocal, #결제방법, #전세계적인_결제
+
+15 번째 검색 내용
+제목: 내가 설정한 조건: 새로운 IEEE 표준으로 인터넷 개인 정보를 보호하고, 쿠키를 대체하려는 목적을 가진 MyTerms 번역
+
+[INST] MyTerms: a New IEEE Standard Enabling Online Privacy and Aiming to Replace Cookies [/INST]
+주소: https://www.infoq.com/news/2026/02/myterms-privacy-cookies/
+설명: Nicknamed MyTerms, the new 7012-2025 IEEE standard defines mechanisms for exchanging personal information between individuals and online service providers, and specifies how individuals can enforce their privacy requirements during transactions.
+                     #개인정보 #IEEE표준 #개인정보보호
+
+Translated sentence: 뉴맥스(MyTerms)라는 별명을 가진 7012-2025 IEEE 표준은 개인 정보를 교환하는 데 사용되는 메커니즘을 정의하고, 거래 중에 개인이 자신의 개인 정보 보호 요구 사항을 적용할 수 있도록 지정합니다.
+                     #개인정보 #IEEE표준 #개인정보보호
+
