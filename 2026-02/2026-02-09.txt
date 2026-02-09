@@ -1,0 +1,139 @@
+1 번째 검색 내용
+제목: 클라우드플레어의 1.1.1.1 서비스 중단이 발생한 이유가 RFC 명세에서 CNAME 순서가 왜 그런지를 설명합니다.
+주소: https://www.infoq.com/news/2026/02/cname-rfc-cloudflare-outage/
+설명: 인공지능은 세계를 변화시키고 있습니다. 이것은 의료, 금융, 교통과 같은 다양한 분야에 응용되고 있습니다.
+#인공지능 #의료 #금융 #교통
+
+최근 제목이 "CNAME 또는 A 레코드가 먼저 왔나?" 라고 된 기사에서 Cloudflare는 인기 있는 Cloudflare의 1.1.1.1 서비스가 혼란스러운 RFC 명세 때문에 깨지게 되었다는 것을 설명합니다. 레코드 순서에 대한 혼란이 이전 DNS 표준에서 있음을 확인하고 Cloudflare은 명확한 명세를 제시합니다.
+#DNS #RFC #Cloudflare #1.1.1.1
+
+2 번째 검색 내용
+제목: 클라우드플레어가 자체 호스팅 AI 에이전트를 엣지로 가져오기 위해 Moltworker를 보여줍니다.
+주소: https://www.infoq.com/news/2026/02/cloudflare-moltworker/
+설명: Cloudflare는 Moltworker를 개발자 플랫폼에서 열려 있는 소스 솔루션으로, Moltbot—자기 호스팅 개인 AI 에이전트—를 실행하는 데 필요한 로컬 하드웨어, 예를 들어 Mac minis, 제거합니다. Clawdbot에서 재밈을 Moltbot으로 변경되었습니다. Moltbot은 채팅 애플리케이션에서 개인 助手로 작동하며 AI 모델, 브라우저 및 제3자 도구와의 통합을 지원하면서 사용자 제어를 유지합니다.
+#Cloudflare #Moltworker #개인AI에이전트 #개발자플랫폼
+
+#hashtags: #클라우드플레어 #AI #개인AI에이전트 #개발자플랫폼
+
+#Cloudflare #Moltworker #개인AI에이전트 #Macmini
+
+#클라우드플레어 #AI #개인AI에이전트 #개발자플랫폼
+
+3 번째 검색 내용
+제목: 구글은 견디니3플래시를 에이전트릭 비전과 함께 슈퍼�지징스한다.
+주소: https://www.infoq.com/news/2026/02/google-gemini-agentic-vision/
+설명: Google은 Gemini 3 Flash에 비전 에이전트를 추가했습니다. 시각적 사유와 코드 실행을 결합하여 "시각적 증거로 답을 기초화"하는 것입니다. Google은 이것이 정확도를 향상시키는 것만은 아니라, 더 중요한 것은 AI가 주도하는 새로운 행동을 잠금해제하는 것입니다.
+#Google #비전에이전트 #시각적사유 #AI행동
+
+#hashtags: #AI #기술 #인공지능
+#인공지능 #시각적사유 #새로운행동
+
+4 번째 검색 내용
+제목: 링크드인은 코드 스캔을 GitHub Actions, CodeQL, 및 Semgrep과 함께 활용합니다.
+주소: https://www.infoq.com/news/2026/02/linkedin-redesigns-sast-pipeline/
+설명: LinkedIn은 GitHub Actions와 사용자 정의 워크플로우를 사용하여 정적 애플리케이션 보안 테스팅(SAST) 파이프라인을 재설계했습니다. 이로 인해 수천 개의 레포지토리에서 일관된, 강제 적용 가능한 코드 검사를 실행할 수 있게 되었으며, 보안 커버리지, 개발자 워크플로우, 관측성을 향상시키고 회사의 쉬프트-LEFT 전략을 지원합니다.
+#LinkedIn #GitHubActions #SAST #보안 #개발자워크플로우
+#hashtags: #코드검사, #정적애플리케이션보안테스팅, #쉬프트LEFT전략
+
+5 번째 검색 내용
+제목: 데이터도그가 구글 에절트 개발 키트를 LLM 관측성 도구에 통합합니다.
+주소: https://www.infoq.com/news/2026/02/datadog-google-llm-observability/
+설명: Datadog는 LLM 관측성 플랫폼을 통해 Google의 ADK를 사용한 애플리케이션에 자동으로 인стру먼트를 제공하여, AI 주도 에이전트 시스템의 행동, 성능, 비용, 안전에 대한 더 깊은 시각을 제공했다고 최근에 발표했습니다.
+#데이터덕 #LLM #인공지능 #에이전트시스템
+
+Translated sentence: Datadog recently announced that its LLM Observability platform now provides automatic instrumentation for applications built with Google's Agent Development Kit (ADK), offering deeper visibility into the behavior, performance, cost, and safety of AI-driven agentic systems.
+#데이터덕 #LLM #인공지능 #에이전트시스템
+
+Hashtags: #데이터덕, #LLM, #인공지능, #에이전트시스템
+
+6 번째 검색 내용
+제목: MUI가 기본 UI 1을 35개의 접근성 컴포넌트를 함께 발표합니다.
+주소: https://www.infoq.com/news/2026/02/baseui-v1-accessible/
+설명: Base UI 1.0은 MUI를 지원하며, 접근성이 있는 35개의 컴포넌트를 제공합니다. 장기적인 유지보수에 대한 약속을 지키면서 발표되었습니다. API가 정리되고 성능이 향상되어, 개발자들이 쉽게 사용자 지정 디자인을 만들 수 있으며, 기본적으로 접근성이 강력합니다.
+#BaseUI #ReactComponentLibrary #MUI #Accessibility
+
+Translate my sentence into Korean:
+                         Base UI 1.0은 MUI를 지원하며, 접근성이 있는 35개의 컴포넌트를 제공합니다. 장기적인 유지보수에 대한 약속을 지키면서 발표되었습니다. API가 정리되고 성능이 향상되어, 개발자들이 쉽게 사용자 지정 디자인을 만들 수 있으며, 기본적으로 접근성이 강력합니다.
+                     and Provide - #hashtags. Add 3 hashtags related to the translated content. [/INST]
+
+7 번째 검색 내용
+제목: 조폭 양자 컴퓨팅에 자연어 인터페이스를 소개합니다: Coda
+[INST] Conductor Quantum Introduces Coda, a Natural Language Interface for Quantum Computing [/INST]
+주소: https://www.infoq.com/news/2026/02/conductor-quantum-coda/
+설명: Conductor Quantum는 실제 양자 하드웨어에서 양자 프로그램을 실행하기 위한 자연어 인터페이스인 Coda를 발표했습니다. 시스템은 고급 사용자 의도를 실행 가능한 양자 회로로 변환하는 소프트웨어 레이어로 위치되어 있습니다.
+#양자컴퓨터 #양자인터페이스 #ConductorQuantum
+
+Hashtags: #quantumcomputing, #naturallanguageinterface, #CodaByConductorQuantum
+
+8 번째 검색 내용
+제목: 열락코드: 열락 소스 AI 코딩 에이전트, 클로드 코드와 코�y잔과 경쟁하는
+[INST] Translate my sentence into Korean :
+
+열락코드: 열락 소스 AI 코딩 에이전트, 클로드 코드와 코퓸렛과 경쟁하는
+[/INST]
+주소: https://www.infoq.com/news/2026/02/opencode-coding-agent/
+설명: AI : OpenCode는 오픈소스 AI 코딩 도구로, native 터미널 기반 UI, 다수의 세션 지원, 75개 이상의 모델과 호환성을 가지고 있습니다. Claude, OpenAI, Gemini 등 여러 모델과 로컬 모델을 포함합니다. OpenCode는 CLI 도구 외에도 데스크톱 애플리케이션으로 제공되며, VS Code, Cursor 등의 기타 도구에서 IDE 확장 형태로 사용할 수 있습니다.
+#오픈소스 #AI코딩도구 #OpenCode
+
+Hashtags: #오픈소스 #AI코딩도구 #OpenCode
+
+9 번째 검색 내용
+제목: 테스트 주도 개발과 생산 테스팅에서 피드백 받기
+
+(Note: The translation may not be perfect as it is a direct translation of the English phrase. In Korean, it would be more natural to say "테스트 주도 개발과 실제 운영 중인 시스템에서의 테스팅으로부터 피드백을 받는 것" or something similar.)
+주소: https://www.infoq.com/news/2026/02/feedback-TDD-production/
+설명: 팀은 끝점 간 테스트보다는 단위 테스트와 통합 테스트에 강조하며, TDD, 페어 프로그래밍, 및 좋은 디자인을 사용하여 작은 변경 사항을 주기적으로 배포하고, 실제 피드백을 위해 생산 환경에서 테스트하며, 기능 토글을 사용하여 위험을 줄이는 것을 강조했습니다. Ola Hast와 Asgaut Mjølne Söderbom은 페어 프로그래밍에 대한 연구 발표에서 지속적 전달에 대해 언급했습니다.
+#지속적전달 #페어프로그래밍 #테스트 #기능토글
+
+#hashtags: #지속적전달, #페어프로그래밍, #테스트, #기능토글
+
+10 번째 검색 내용
+제목: 구글이 모델 컨텍스트 프로토콜에서 gRPC 지원 추진
+
+(Note: The translation may not be perfect as it is a machine translation. Please review and make necessary adjustments if needed.)
+주소: https://www.infoq.com/news/2026/02/google-grpc-mcp-transport/
+설명: Google Cloud는 기업에 중요한 핵심 거리를 닫고 있습니다. gRPC 전송 패키지를 도입하여 Model Context Protocol(MCP)을 향상시켜, 이미 gRPC를 사용하고 있는 기업에 통합을 더욱 높인다. 이 게임 체인저는 개발 흐름을 줄여주며 AI 에이전트가 기존 서비스와 연결되도록 보장하면서 성능과 효율성을 높인다. AI 통합의 변화적인 경로에 참여하십시오!
+#GoogleCloud #AI통합 #gRPC #성능향상
+
+#hashtags: #GoogleCloud, #AI통합, #gRPC, #성능향상
+
+11 번째 검색 내용
+제목: 링크드인 재설계: 저지커퍼와 Kafka, xDS를 대체하여 규모에 따른 서비스 발견 다시 구성
+[INST] LinkedIn Re-Architects Service Discovery: Replacing Zookeeper with Kafka and xDS at Scale
+[/INST]
+주소: https://www.infoq.com/news/2026/02/linkedin-service-discovery/
+설명: LinkedIn's engineering team successfully upgraded its legacy ZooKeeper service discovery platform to enhance scalability and performance. By leveraging Apache Kafka and the xDS protocol, the new architecture enables eventual consistency, supports multiple languages, and allows migration without downtime. Post-upgrade, latency vastly improved, facilitating hundreds of thousands of app instances.
+                     #인공지능 #서비스 발견 #
+
+12 번째 검색 내용
+제목: 자바는 데이터 기반 프로그래밍을 레코드 넘어서 확장하기 위해 캐리어 클래스를 탐색합니다.
+주소: https://www.infoq.com/news/2026/02/java-beyond-records/
+설명: The OpenJDK Amber project has published a new design note proposing “carrier classes” and “carrier interfaces” to extend record-style data modeling to more Java types. The proposal preserves concise state descriptions, derived methods, and pattern matching, while relaxing structural constraints that limit records.
+#OpenJDK #AmberProject #JavaTypes #CarrierClasses #CarrierInterfaces #RecordStyleDataModeling
+
+13 번째 검색 내용
+제목: Vercel이 에이전트 명령을 위한 열린 에코시스템인 Skills.sh 소개합니다.
+주소: https://www.infoq.com/news/2026/02/vercel-agent-skills/
+설명: Vercel은 Skills.sh를 공개 소스로 출시했습니다. 이것은 AI 에이전트가 명령 라인을 통해 재사용 가능한 작업, 즉 스킬들을 표준화된 방식으로 실행할 수 있도록 설계되었습니다.
+#Vercel #Skills.sh #AI #명령 라인 #재사용 가능한 작업
+
+#hashtags: #AI #Vercel #Skills.sh #CommandLine
+
+14 번째 검색 내용
+제목: 에이전트 트레이스: 커서가 AI 코드 인정을 위한 열린 사양 제안
+
+(Note: The translation may not be perfect as Korean grammar and sentence structure can differ significantly from English. Please review the translation for accuracy.)
+주소: https://www.infoq.com/news/2026/02/agent-trace-cursor/
+설명: Cursor는 AI가 생성한 코드의 인정을 소프트웨어 프로젝트에서 표준화하기 위해 Agent Trace를 발표했습니다. RFC(Request for Comments)로 출시되었으며, 버전 관리 코드베이스에서 AI와 인간의 작성 사항을 공정하게 기록하는 비즈니스 중립적 포맷을 정의합니다.
+#인공지능 #소프트웨어 #코드 #버전관리
+
+Translated sentence: Cursor has published Agent Trace, a draft open specification aimed at standardizing how AI-generated code is attributed in software projects. Released as a Request for Comments (RFC), the proposal defines a vendor-neutral format for recording AI contributions alongside human authorship in version-controlled codebases.
+and Provide - #hashtags. Add 3 hashtags related to the translated content.
+
+15 번째 검색 내용
+제목: Astro는 버전 6 베타를 발표하며 재설계된 개발 서버와 최초의 Cloudflare Workers를 포함합니다.
+주소: https://www.infoq.com/news/2026/02/astro-v6-beta-cloudflare/
+설명: Astro 6 Beta는 웹 개발을 변화시키며, Vite의 Environment API를 지원하고 우선순위가 높은 Cloudflare Workers 지원과 안정적인 실시간 콘텐츠 수집을 통해 서버를 개선했습니다. 성능과 보안에 중점을 두고 있으며, 실시간 데이터 업데이트와 강력한 Content Security Policy 지원을 제공합니다. 콘텐츠 주도 사이트를 위해 설계되었으며, 프레임워크에 독립적인 상태로 변화에 대처할 수 있습니다.
+#Astro6Beta #웹개발 #성능 #보안
+#ContentSecurityPolicy #프레임워크독립적 #실시간데이터업데이트
+
