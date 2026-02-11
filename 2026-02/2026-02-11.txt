@@ -1,0 +1,150 @@
+1 번째 검색 내용
+제목: [INST] 기본 문장 번역: 
+
+GitHub Copilot SDK를 사용하면 개발자들이 Copilot CLI의 엔진을 앱에 통합할 수 있습니다. [/INST]
+주소: https://www.infoq.com/news/2026/02/github-copilot-sdk/
+설명: AI : 기술 미리 보기로 GitHub에서 사용 가능한 GitHub Copilot SDK는 개발자들이 GitHub Copilot CLI에 사용되는 동일한 엔진을 자신의 앱에 임베딩하여, 에이전트적 워크플로우를 구축하는 것이 더 쉽게 됩니다.
+#기술미리보기 #GitHubCopilotSDK #에이전트적워크플로우
+
+Hashtags: #AI #Development #Productivity
+
+2 번째 검색 내용
+제목: QCon 20년 기념 컨퍼런스: 생산성 AI, 강력성, 스태프+ 엔지니어링
+
+(Note: The translation may not be perfect as Korean grammar and sentence structure can differ significantly from English. Please review the translation for accuracy.)
+주소: https://www.infoq.com/news/2026/02/qcon-previews-20th-anniversary/
+설명: 축제의 20년 기념일을 축하한다면서 QCon의 2026년 런던과 산프란시스코에서는 에이전트 AI의 공학적 현실, 안정적인 아키텍처, 플랫폼 ROI에 초점을 맞출 것입니다. 프로그램은 시리즈의 두 차례 기간 동안 실무자가 주도적인 콘텐츠를 선택하고, 회사들인 조오스, UBS, 및 링크드인의 상위 엔지니어들이 골라낸 것을 계속합니다.
+#QCon #에이전트AI #공학적현실 #안정적아키텍처 #플랫폼ROI
+
+#hashtags: #AI #기술 #축제 #공학적현실 #안정적아키텍처 #플랫폼ROI #에이전트AI #QCon #런던 #산프란시스코 #Zoox #UBS #LinkedIn
+
+3 번째 검색 내용
+제목: 벨소프트 조사에 따르면, 컨테이너 보안 실천이 개발자들의 목표를 훼손하고 있습니다.
+주소: https://www.infoq.com/news/2026/02/bellsoft-container-security/
+설명: Container security incidents are becoming a routine reality for software teams, and the tools meant to protect them may be making the problem worse.
+
+번역: 컨테이너 보안 사고는 소프트웨어 팀에게 일상적인 현실이 되고 있으며, 그들을 보호하기 위해 의도한 도구가 문제를 더욱 악화시키고 있을 수 있습니다.
+
+#hashtags: #컨테이너보안 #소프트웨어팀 #보안도구
+
+번역: Container security incidents are becoming a routine reality for software teams, and the tools meant to protect them may be making the problem worse.
+                     and Provide - #hashtags. Add 3 hashtags related to the translated content. [/INST]
+
+4 번째 검색 내용
+제목: 바람 서프: 개발 중에 AI 모델을 비교하기 위해 아레나 모드 소개
+[INST] Translate my sentence into Korean :
+
+Windsurf Introduces Arena Mode to Compare AI Models During Development
+[/INST]
+주소: https://www.infoq.com/news/2026/02/windsurf-arena-mode/
+설명: Windsurf는 Arena Mode를 내부 개발 환경에서 대규모 언어 모델을 옆으로 비교하면서 실제 코딩 작업에 집중할 수 있도록 개발자들에게 소개했습니다. 이 기능은 사용자가 기존의 개발 컨텍스트 내에서 직접 모델을 평가하는 것을 목적으로 하며, 공개 벤치마크나 외부 평가 웹사이트에 의존하지 않습니다.
+#Windsurf #ArenaMode #언어모델평가
+
+Hashtags: #Windsurf, #ArenaMode, #언어모델평가
+
+5 번째 검색 내용
+제목: 웹투크: 최소 리액트 프레임워크가 알파로 도달합니다.
+주소: https://www.infoq.com/news/2026/02/waku-react-framework/
+설명: Waku 1.0 alpha, a lightweight React framework, achieves a major milestone with stable public APIs, shifting focus to bug fixes and compatibility. Ideal for mostly-static sites, it offers flexible rendering options. Built on Vite and Hono, Waku prioritizes developer experience, targeting small projects without the complexity of heavier frameworks like Next.js.
+#웹개발 #리액트프레임워크 #개발자경험
+
+Translated content: 
+Waku 1.0 alpha, a lightweight React framework, achieves a major milestone with stable public APIs, shifting focus to bug fixes and compatibility. Ideal for mostly-static sites, it offers flexible rendering options. Built on Vite and Hono, Waku prioritizes developer experience, targeting small projects without the complexity of heavier frameworks like Next.js.
+#웹개발 #리액트프레임워크 #개발자경험
+
+6 번째 검색 내용
+제목: 우버가 내부 검색 인덱싱을 OpenSearch에서 푸시 기반 수집으로 이동합니다.
+주소: https://www.infoq.com/news/2026/02/uber-pull-based-opensearch/
+설명: Uber는 대규모 스트리밍 데이터에 대한 신빙성, 백프레셔 처리 및 다국적 일관성을 개선하면서 인기 있는 검색 경험을 지원하고 재구동을 간소화하는 OpenSearch로 내부 검색 인덱싱을 전환합니다.
+#Uber #OpenSearch #대규모스트리밍데이터 #실시간검색
+
+7 번째 검색 내용
+제목: Xcode 26.3에서는 인간적 코딩이 통합되어 안스틴 에이전트와 OpenAI Codex를 위한 Anthropic Claude 에이전트 지원됩니다.
+주소: https://www.infoq.com/news/2026/02/xcode-26-3-agentic-coding/
+설명: 인공지능 개발 도구 Xcode의 최신 릴리즈, Xcode 26.3은 코딩 에이전트, 예를 들어 Anthropic의 Claude 에이전트와 OpenAI의 Codex와 같은 복잡한 작업을 처리하고 개발자의 생산성을 향상시키는데 도움이 됩니다.
+#Xcode #코딩_에이전트 #인공지능_개발_도구
+
+Translated sentence: The latest release of Xcode, Xcode 26.3, extends support for coding agents, such as Anthropic's Claude Agent and OpenAI's Codex, helping developers tackle complex tasks and improve their productivity.
+and Provide - #hashtags. Add 3 hashtags related to the translated content.
+
+8 번째 검색 내용
+제목: 클라우드플레어 가 경로 기반 에지 라우팅을 위한 수직 마이크로 프론트엔드 템플릿 출시
+
+[INST] Translate the given sentence into Korean: [/INST]
+
+클라우드플레어가 경로 기반 에지 라우팅을 위한 수직 마이크로 프론트엔드 템플릿을 출시했습니다.
+주소: https://www.infoq.com/news/2026/02/cloudflare-vmfe-template/
+설명: Cloudflare는 Vertical Microfrontends(VMFE) 워커 템플릿을 출시했습니다. 이를 통해 특정 URL 경로에 대한 스택을 독립적인 팀이 관리할 수 있으며, CI/CD 효율성을 높여줍니다. 이 아키텍처는 낮은 지연시간으로 요청을 스트림하면서 SPA 경험을 제공합니다. 팀 자율성과 효율적인 개발 방법을 장려합니다. 이 아키텍처는 대규모 팀에 적합하며, 운영 상호 작용에 대한 트레이드오프가 있습니다.
+#Cloudflare #VMFE #Microfrontends
+#hashtag1
+#hashtag2
+#hashtag3
+
+9 번째 검색 내용
+제목: 다음 Moca 릴리즈: 에이전트 정의 언어를 열려 있는 소스 지정으로 발표합니다.
+주소: https://www.infoq.com/news/2026/02/agent-definition-language/
+설명: Moca는 공개 소스로 Agent Definition Language(ADL)를 발표했습니다. 이것은 프레임워크와 플랫폼에 상관없이 AI 에이전트가 정의되고, 검토되고, 관리되는 방식을 표준화하기 위한 벤더 중립적인 사양입니다. 프로젝트는 Apache 2.0 라이선스 아래에서 발표되었으며, OpenAPI가 API에 대해 수행하는 역할과 비슷한 "정의 계층"을 AI 에이전트에 대한 누락된 위치로 배치되어 있습니다.
+#인공지능 #ADL #Moca
+
+Hashtags: #AI #ADL #Moca
+
+10 번째 검색 내용
+제목: 자바 뉴스 요약: GlassFish 8.0, OmniHai 1.0, LangChain4j, Infinispan, Hibernate, JobRunr
+
+(Note: The given text is already in Korean.)
+주소: https://www.infoq.com/news/2026/02/java-news-roundup-feb02-2026/
+설명: AI : 2월 2일에 발표된 이번 주의 Java 뉴스 요약은 GlassFish 8.0과 OmniHai 1.0의 GA 릴리즈, LangChain4j, Infinispan, JBang의 포인트 릴리즈, Helidon과 JobRunr의 메인테이너스 릴리즈, 그리고 Hibernate ORM, Hibernate Reactive, Hibernate Search의 밀스톤 릴리즈를 강조합니다.
+#Java #Runtimes #Hibernate #GlassFish
+
+Hashtags: #Java #Runtimes #Hibernate #GlassFish
+
+11 번째 검색 내용
+제목: 클라우드플레어의 1.1.1.1 서비스 중단으로 인한 CNAME 순위 지정 사양에 대해 설명합니다.
+[/INST]
+주소: https://www.infoq.com/news/2026/02/cname-rfc-cloudflare-outage/
+설명: 인공지능은 세계를 변화시키고 있습니다. 이것은 의료, 금융, 교통과 같은 다양한 분야에 응용되고 있습니다.
+#인공지능 #의료 #금융 #교통
+
+최근 제목이 "CNAME 또는 A 레코드가 먼저 왔나?" 라는 글에서 Cloudflare는 인기 있는 Cloudflare의 1.1.1.1 서비스가 혼란스러운 RFC 명세 때문에 깨지게 되었다는 사실을 설명합니다. 이후 혼란의 원인을 찾고 이전 DNS 표준의 레코드 순서에 대한 불명확함을 식별하였습니다. Cloudflare은 명확한 지침을 제시하는 수정된 명세를 제안합니다.
+#DNS #RFC #Cloudflare #1.1.1.1
+
+12 번째 검색 내용
+제목: 클라우드플레어가 자체 호스팅 AI 에이전트를 엣지로 가져오기 위해 Moltworker를 보여줍니다.
+주소: https://www.infoq.com/news/2026/02/cloudflare-moltworker/
+설명: Cloudflare는 Moltworker를 개발자 플랫폼에서 열려 있는 소스 솔루션으로, Moltbot—자기 호스팅 개인 AI 에이전트—를 실행하는 데 로컬 하드웨어가 필요 없도록 제공했습니다. Clawdbot에서 재밈을 받은 Moltbot는 채팅 애플리케이션에서 개인 助手로 작동하며, AI 모델, 브라우저, 및 제3자 도구와의 통합을 지원하면서 사용자 제어를 유지합니다.
+#Cloudflare #Moltworker #개인AI에이전트
+
+#hashtags: #클라우드플레어 #멀트워커 #개인AI에이전트
+#hashtags: #로컬하드웨어 #Moltbot #AI모델통합
+#hashtags: #브라우저통합 #개인대화助手 #제3자도구 통합
+
+13 번째 검색 내용
+제목: 구글은 견딜리3플래시를 에이전트릭비전과 함께 슈퍼챠지지(Supercharges)합니다.
+[INST] Translate my sentence into Korean : 
+                            Google Supercharges Gemini 3 Flash with Agentic Vision
+                         [/INST]
+주소: https://www.infoq.com/news/2026/02/google-gemini-agentic-vision/
+설명: Google은 Gemini 3 Flash에 비전 에이전트를 추가했습니다. 시각적 사유와 코드 실행을 결합하여 "시각적 증거로 답을 기반으로 한다"는 것입니다. Google은 이것이 정확도를 향상시키는 것만 아니라, 더 중요한 것은 AI가 주도하는 새로운 행동을 잠금해 개방한다는 것입니다.
+#Google #비전에이전트 #AI행동 #정확도향상
+
+Translated sentence: Google has added agentic vision to Gemini 3 Flash, combining visual reasoning with code execution to "ground answers in visual evidence". According to Google, this not only improves accuracy, but more importantly unlocks entirely new AI-driven behaviors.
+#Google #비전에이전트 #AI행동 #정확도향상
+
+14 번째 검색 내용
+제목: 링크드인은 코드 스캔을 위해 깃허브 액션, 코드QL, 및 세미그레프를 활용합니다.
+주소: https://www.infoq.com/news/2026/02/linkedin-redesigns-sast-pipeline/
+설명: LinkedIn은 GitHub Actions와 사용자 정의 워크플로우를 이용하여 정적 애플리케이션 보안 테스팅(SAST) 파이프라인을 재구성했습니다. 이로 인해 수천 개의 레포지토리에서 일관된, 강제 적용 가능한 코드 검사를 실시할 수 있게 되었으며, 보안 커버리지, 개발자 워크플로우, 관측성을 향상시키고 회사의 쉬프트-레프트 전략을 지원합니다.
+#LinkedIn #GitHubActions #SAST #보안 #개발자워크플로우
+#hashtags: #코드검사, #정적애플리케이션보안테스팅, #쉬프트레프트
+
+15 번째 검색 내용
+제목: 데이터도그가 구글 에이전트 개발 키트를 LLM 관측성 도구에 통합합니다.
+주소: https://www.infoq.com/news/2026/02/datadog-google-llm-observability/
+설명: Datadog는 LLM 관측성 플랫폼을 통해 Google의 ADK를 사용한 애플리케이션에 자동으로 인стру먼트를 제공하여, AI 주도 에이전트 시스템의 행동, 성능, 비용, 안전에 대한 더 깊은 시각을 제공했다고 최근에 발표했습니다.
+#데이터덕 #LLM #인공지능 #에이전트시스템
+
+Translated sentence: Datadog recently announced that its LLM Observability platform now provides automatic instrumentation for applications built with Google's Agent Development Kit (ADK), offering deeper visibility into the behavior, performance, cost, and safety of AI-driven agentic systems.
+#데이터덕 #LLM #인공지능 #에이전트시스템
+
+Hashtags: #데이터덕, #LLM, #인공지능, #에이전트시스템
+
