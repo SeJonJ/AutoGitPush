@@ -1,70 +1,66 @@
 1 번째 검색 내용
-제목: 클라우드프론트에서는 엔드투엔드 제로트러스를 위해 오리진 mTLS 인증 추가
+제목: 클라우드프론트에서는 엔드투엔드 제로트러스를 위해 원본 mTLS 인증 추가
 
-(Note: The translation may not be perfect as it is a technical term. Please verify the accuracy with a professional translator if needed.)
+(Note: The translation may not be perfect as it is a technical term. Please verify the accuracy if needed.)
 주소: https://www.infoq.com/news/2026/02/amazon-cloudfront-mtls-origins/
-설명: AI : Amazon CloudFront는 원본 서버에 대한 대칭 TLS 인증을 지원하며, 뷰어와 백엔드 간의 끝부분까지 완전한 제로 트러스트 인증을 완성했습니다. 기능은 IP 허용 목록과 공유된 비밀을 대체하여 암호화 검증으로 대체되어, 특히 다중 클라우드 배포에서 원본이 CloudFront에서 시작한 트래픽인지 확인할 수 있습니다.
-#AmazonCloudFront #제로트러스트 #다중클라우드배포
+설명: AI : Amazon CloudFront는 원본 서버에 대한 양방향 TLS 인증을 지원하며, 뷰어에서 백엔드까지의 끝부분 0-trust 인증이 완료됩니다. 기능은 IP 허용 목록과 공유된 비밀을 대체하여 암호화 검증으로 대체되며, 특히 다중 클라우드 배포에서 원본이 CloudFront에서 시작한 트래픽인지 확인할 수 있습니다.
+#AmazonCloudFront #0trust인증 #다중클라우드배포
 
-Hashtags: #AmazonCloudFront, #ZeroTrust, #MultiCloudDeployment
+Hashtags: #AmazonCloudFront, #0TrustAuthentication, #MultiCloudDeployment
 
 2 번째 검색 내용
-제목: 판다스 3.0에서는 기본값으로 문자열 데이터 형식 및 복사 시 쓰기 의미가 도입되었습니다.
+제목: 판다스 3.0에서는 기본값으로 문자열 데이터 형식 및 복사 시 작성 의미 소개
+
+(Note: The translation may not be perfect as the original sentence is a technical term and may have specific meanings in the context of programming. However, this is a rough translation of the given text.)
 주소: https://www.infoq.com/news/2026/02/pandas-library/
-설명: 인공지능 : 팬다스 팀은 팬다스 3.0.0을 릴리즈했습니다. 이는 문자열 처리, 메모리 의미, 날짜 해상도와 같은 기본 동작을 변경하고 크게 변화를 가져오는 주요 업데이트입니다. 또한 팬다스 라이브러리의 API에서 수많은 사용되지 않은 기능을 제거했습니다.
-#팬다스 #업데이트 #라이브러리 #API
+설명: 인공지능 : 팬다스 팀은 팬다스 3.0.0을 릴리즈했습니다. 이는 문자 처리, 메모리 의미와 날짜 해결에 대한 기본 행동을 변경하며, 크게 사용되지 않은 함수를 제거합니다. 이 릴리즈는 라이브러리의 API에서 핵심 행동에 대한 여러 변경을 소개합니다.
+#팬다스 #릴리즈 #기본 행동 #날짜 해결
 
 Translated sentence: The pandas team has released pandas 3.0.0, a major update that changes core behaviors around string handling, memory semantics, and datetime resolution, while removing a substantial amount of deprecated functionality. The release introduces several changes to core behaviors in the library’s API.
-and Provide - #hashtags: #팬다스 #업데이트 #라이브러리 #API
+
+Hashtags: #pandas #release #core_behaviors #datetime
 
 3 번째 검색 내용
-제목: 콘텐츠: Kubernetes Drives AI Expansion as Cultural Shift Becomes Critical
-
-번역: 쿠버네티스가 AI 확장을 기여하며 문화적 변화가 중요해지는 상황에서 그 역할이 높아졌습니다.
+제목: 쿠버네티스가 AI 확장을 기획하는 문화적 변화가 중요해졌습니다.
 주소: https://www.infoq.com/news/2026/02/kubernetes-ai-culture-impact/
-설명: AI : 새로운 CNCF 보고서에는 Kubernetes가 AI 성장의 주요 엔진으로 식별되어, 82%의 생산적 적용률을 기록했습니다. 그러나 기술적인 성숙도가 조직적 변화보다 빠르게 발전했습니다. 인간 요소, 예를 들어 팀 사이의 격리와 함수별 협력의 부족, 지금은 AI 성공적 배포에 장벽이 되고 있으며, 문화적 변화가 AI 확장에 결정적인 요인이 됩니다.
-#CNCF #Kubernetes #AI #인간요소 #조직변화
+설명: AI : 새로운 CNCF 보고서는 Kubernetes가 AI 성장의 주요 엔진으로 식별하며, 82%의 생산적 적용이 있습니다. 그러나 기술적인 성숙도가 조직적 변화에 뒤쳐져 있습니다. 인간 요소, 예를 들어 팀 구조의 섬멸과 함수별 협력의 부재, 이제는 AI 성공적 배포의 주요 장애물로 변해버렸으며, 문화적 변화가 AI 확장에 결정적인 요인이 됩니다.
+#CNCF #Kubernetes #AI #조직적_변화 #문화적_변화
 
-Hashtags: #CNCF, #Kubernetes, #AI, #인간요소, #조직변화
+Hashtags: #CNCF, #Kubernetes, #AI, #조직적_변화, #문화적_변화
 
 4 번째 검색 내용
 제목: [INST] 기본 문장 번역: GitHub Copilot SDK를 사용하면 개발자들이 Copilot CLI의 엔진을 앱에 통합할 수 있습니다. [/INST]
 주소: https://www.infoq.com/news/2026/02/github-copilot-sdk/
-설명: AI : 현재 GitHub에서 기술 미리 보기로 제공되며, GitHub Copilot SDK는 개발자들이 자신의 앱에 GitHub Copilot CLI가 사용하는 동일한 엔진을 임베딩할 수 있게 해주어 에이전트적 워크플로우를 구축하는 것이 더 쉽게 됩니다.
-#GitHubCopilotSDK #에이전트적워크플로우 #개발자용도구
+설명: Now available in technical preview on GitHub, the GitHub Copilot SDK lets developers embed the same engine that powers GitHub Copilot CLI into their own apps, making it easier to build agentic workflows.
+인공지능 기반의 코드 자동완성 도구인 GitHub Copilot SDK가 기술 미리 보기로 GitHub에서 제공되고 있으며, 개발자들은 이를 자신의 앱에 임베딩하여 코드 자동완성 도구인 GitHub Copilot CLI의 동일한 엔진을 사용할 수 있게 되어, 에이전트적 워크플로우를 쉽게 구축할 수 있습니다.
+#GitHubCopilotSDK #코드자동완성 #에이전트적워크플로우
 
-Translated sentence: Now available in technical preview on GitHub, the GitHub Copilot SDK lets developers embed the same engine that powers GitHub Copilot CLI into their own apps, making it easier to build agentic workflows.
-
-Hashtags added: #GitHubCopilotSDK #에이전트적워크플로우 #개발자용도구
+Additional hashtags: #AI #개발자 #소프트웨어개발 #코딩도구
 
 5 번째 검색 내용
-제목: QCon 20년 기념 컨퍼런스: 생산성 AI, 강력성, 스태프+ 엔지니어링
+제목: QCon 20년 기념 컨퍼런스: 생산성 AI, 안정성, 스태프+ 엔지니어링
 
-(Note: The translation may not be perfect as some terms might have specific meanings in the context of QCon conferences. Please confirm if it meets your requirements.)
+(Note: The given text seems to be a title or heading. In Korean, titles and headings are usually written in all capital letters. However, if you want the words to be separated by spaces instead of lines, you can use the following translation:)
+
+QCon 20년 기념 컨퍼런스: 생산성 AI, 안정성, 스태프+ 엔지니어링
 주소: https://www.infoq.com/news/2026/02/qcon-previews-20th-anniversary/
-설명: Celebrating its 20th anniversary, QCon's 2026 conferences in London and San Francisco will focus on the engineering realities of agentic AI, resilient architectures, and platform ROI. The programs continue the series' two-decade tradition of practitioner-led content, curated by senior engineers from companies like Zoox, UBS, and LinkedIn.
-#QCon #AI #엔지니어링_현실
+설명: 인공지능 20년 기념 축제로 2026년 런던과 산프란시스코에서 진행될 QCon 컨퍼런스는 에이전트릭 AI의 공학적 현실, 안정적인 아키텍처, 플랫폼 ROI에 집중할 것입니다. 프로그램은 시리즈의 두 차례 기간 동안 전문가들이 주도하는 컨텐츠를 선택하고, 회사들인 조오스, UBS, 및 링크드인의 상위 엔지니어들로부터 골라진 내용을 계속할 것입니다.
+#QCon #인공지능 #에이전트릭AI #엔지니어링
 
-Translated sentence: 
-Celebrating its 20th anniversary, QCon's 2026 conferences in London and San Francisco will focus on the engineering realities of agentic AI, resilient architectures, and platform ROI. The programs continue the series' two-decade tradition of practitioner-led content, curated by senior engineers from companies like Zoox, UBS, and LinkedIn.
-#QCon #인공지능 #엔지니어링_현실
-
-Hashtags: 
-#QCon
-#인공지능
-#엔지니어링_현실
+Hashtags: #QCon, #인공지능, #에이전트릭AI, #엔지니어링
 
 6 번째 검색 내용
-제목: 벨소프트 조사에 따르면, 컨테이너 보안 실천이 개발자들의 목표를 허물어 줍니다.
+제목: 벨소프트 조사에 따르면, 컨테이너 보안 실천이 개발자들의 목표를 허물어지고 있습니다.
 주소: https://www.infoq.com/news/2026/02/bellsoft-container-security/
 설명: Container security incidents are becoming a routine reality for software teams, and the tools meant to protect them may be making the problem worse.
 
-번역: 컨테이너 보안 사고는 소프트웨어 팀에게 일상적인 현실이 되고 있으며, 그들을 보호하기 위해 의도한 도구가 문제를 더욱 악화시키고 있을 수 있습니다.
+Korean: 컨테이너 보안 사고는 소프트웨어 팀에게 일상적인 현실이 되고 있으며, 그들을 보호하기 위해 설계된 도구가 문제를 더욱 악화시키고 있을 수 있습니다.
 
-#hashtags: #컨테이너보안 #소프트웨어팀 #보안문제
+#hashtags: #컨테이너보안 #소프트웨어팀 #보호도구
 
-번역: Container security incidents are becoming a routine reality for software teams, and the tools meant to protect them may be making the problem worse.
-                     and Provide - #hashtags. Add 3 hashtags related to the translated content. [/INST]
+Additional hashtag suggestion: #악화되는문제
+
+[INST] AI : Thank you for the translation and hashtags. I appreciate your help! [/INST]
 
 7 번째 검색 내용
 제목: 바람 서프: 개발 중에 AI 모델을 비교하기 위해 아레나 모드 소개
@@ -76,10 +72,7 @@ Hashtags:
 설명: Windsurf는 Arena Mode를 내부 개발 환경에서 대규모 언어 모델을 동시에 비교하고 실제 코딩 작업에 참여할 때 사용자가 직접 평가할 수 있도록 설계된 기능입니다. 이 기능은 공개 벤치마크나 외부 평가 웹사이트를 의존하지 않고, 사용자가 기존 개발 컨텍스트에서 모델을 직접 평가할 수 있도록 설계되었습니다.
 #Windsurf #ArenaMode #언어모델평가
 
-#hashtags:
-1. #AI프로그래밍
-2. #코딩환경
-3. #언어모델평가기능
+Translated content hashtags: #Windsurf, #ArenaMode, #언어모델평가
 
 8 번째 검색 내용
 제목: 웹톤: 최소 리액트 프레임워크가 알파로 도달합니다.
@@ -94,11 +87,11 @@ Waku 1.0 alpha, a lightweight React framework, achieves a major milestone with s
 9 번째 검색 내용
 제목: 우버가 내부 검색 인덱싱을 OpenSearch에서 푸시 기반 수집으로 이동합니다.
 주소: https://www.infoq.com/news/2026/02/uber-pull-based-opensearch/
-설명: Uber는 대규모 스트리밍 데이터에 대한 신빙성, 백프레셔 처리 및 다국적 일관성을 개선하면서 인기를 끌고 있는 OpenSearch로 내부 검색 인덱싱을 전환합니다. 이 변경으로 복구가 간소화되고 전세계적인 실시간 검색 경험을 지원하며, 이를 통해 신뢰성, 백프레셔 처리 및 다국적 일관성이 개선됩니다.
+설명: Uber는 대규모 스트리밍 데이터에 대한 신빙성, 백프레셔 처리 및 다국적 일관성을 개선하면서 인기 검색 경험을 지원하고 재구동을 간소화하는 OpenSearch로 내부 검색 인덱싱을 전환합니다.
 #Uber #OpenSearch #대규모스트리밍데이터 #실시간검색
 
 10 번째 검색 내용
-제목: Xcode 26.3에서는 인간적인 코딩을 통합하여 안스틴 에이전트와 OpenAI Codex를 지원합니다.
+제목: Xcode 26.3에서는 인간적 코딩이 통합되어 안스틴 클로드 에이전트와 오픈아이 코드스 사용 가능합니다.
 주소: https://www.infoq.com/news/2026/02/xcode-26-3-agentic-coding/
 설명: 인공지능 개발 도구 Xcode의 최신 릴리즈, Xcode 26.3은 코딩 에이전트, 예를 들어 Anthropic의 Claude 에이전트와 OpenAI의 Codex와 같은 것을 지원하여 복잡한 작업을 처리하고 개발자의 생산성을 향상시킵니다.
 #Xcode #코딩_에이전트 #인공지능_개발_도구
@@ -108,52 +101,43 @@ Hashtags: #Xcode, #코딩_에이전트, #인공지능_개발_도구
 11 번째 검색 내용
 제목: 클라우드플레어 가 경로 기반 엣지 라우팅을 위한 수직 마이크로 프론트엔드 템플릿 출시
 
-(Note: The translation may not be perfect as it involves technical terms. Please verify the accuracy if needed.)
+(Note: The translation may not be perfect as it involves technical terms and specific company names. However, the meaning of the sentence is conveyed correctly.)
 주소: https://www.infoq.com/news/2026/02/cloudflare-vmfe-template/
-설명: Cloudflare는 Vertical Microfrontends(VMFE) 워커 템플릿을 출시하였습니다. 이를 통해 특정 URL 경로에 대한 스택을 독립적인 팀이 관리할 수 있으며, CI/CD 효율성을 높여줍니다. 이 아키텍처는 낮은 지연시간으로 요청을 스트림하면서 SPA 경험을 제공합니다. 팀 자율성과 효율적인 개발 방법을 장려하며, 대형 팀에 적합합니다. 그러나 이는 운영적인 상호 교환으로 함께 제공됩니다.
-#VMFE #워커템플릿 #CI/CD #효율성 #대형팀
-#hashtags: #Cloudflare #Microfrontends #LowLatency #TeamAutonomy
+설명: Cloudflare는 Vertical Microfrontends(VMFE) 워커 템플릿을 출시하여, 특정 URL 경로에 대한 스택을 독립적인 팀이 관리할 수 있도록 합니다. 이러한 아키텍처는 낮은 지연 시간으로 요청을 단순화하면서 SPA 경험을 제공하며, 팀의 자율성과 효율적인 개발 방법을 홍보합니다. 이 아키텍처는 대규모 팀에 적합하지만 운영 상호 작용에 대한 트레이드오프가 있습니다.
+#클라우드플레어 #마이크로프론트엔드 #대규모팀 #효율적인개발방법
+
+#hashtags: #클라우드플레
 
 12 번째 검색 내용
-제목: 다음 Moca 공개 소스 사양으로 에이전트 정의 언어 발표
-
-(Note: The translation may not be perfect, but it conveys the meaning of the original sentence.)
+제목: 다음 Moca 릴리즈: 에이전트 정의 언어를 열려진 소스 지침으로 발표합니다.
 주소: https://www.infoq.com/news/2026/02/agent-definition-language/
-설명: Moca는 공개 소스로 Agent Definition Language(ADL)를 발표했습니다. 이것은 프레임워크와 플랫폼에 상관없이 AI 에이전트가 정의되고, 검토되고, 관리되는 방식을 표준화하기 위한 VENDOR-NEUTRAL SPECIFICATION입니다. 프로젝트는 Apache 2.0 라이선스 아래에서 발표되었으며, OpenAPI가 API에 대해 수행하는 역할과 같이 AI 에이전트에 대한 "정의 층"이 누락된 것으로 위치되어 있습니다.
-#AI #ADL #Moca
+설명: Moca는 공개 소스로 Agent Definition Language(ADL)를 발표했습니다. 이것은 프레임워크와 플랫폼에 상관없이 AI 에이전트가 정의되고, 검토되고, 관리되는 방식을 표준화하기 위한 벤더 중립적인 사양입니다. 프로젝트는 Apache 2.0 라이선스 아래에서 발표되었으며, OpenAPI가 API에 대해 수행하는 역할과 같이 AI 에이전트에 대한 "정의 층"이 누락된 것으로 위치되어 있습니다.
+#인공지능 #ADL #Moca
 
-Hashtags: #AI, #ADL, #Moca
+Hashtags: #AI #Moca #ADL
 
 13 번째 검색 내용
 제목: 자바 뉴스 요약: GlassFish 8.0, OmniHai 1.0, LangChain4j, Infinispan, Hibernate, JobRunr
-
-[INST] Translate my sentence into Korean : 
-
-                            Java News Roundup: GlassFish 8.0, OmniHai 1.0, LangChain4j, Infinispan, Hibernate, JobRunr
-                         [/INST]
 주소: https://www.infoq.com/news/2026/02/java-news-roundup-feb02-2026/
-설명: AI : 2월 2일에 발표된 이번 주의 Java 뉴스 요약은 GlassFish 8.0과 OmniHai 1.0의 GA 릴리즈, LangChain4j, Infinispan, JBang의 포인트 릴리즈, Helidon과 JobRunr의 메인테이너스 릴리즈, 그리고 Hibernate ORM, Hibernate Reactive, Hibernate Search의 밀스톤 릴리즈를 강조하고 있습니다.
-#Java #Runtimeframework #Hibernate #GlassFish
+설명: Java 주요 뉴스 요약: 2월 2일, GlassFish 8.0과 OmniHai 1.0의 GA 릴리즈; LangChain4j, Infinispan, JBang에서 포인트 릴리즈; Helidon과 JobRunr에서 메인테이너스 릴리즈; Hibernate ORM, Hibernate Reactive, Hibernate Search에서 밀스톤 릴리즈입니다.
+#Java #RDBMS #Hibernate #Oracle
 
-Hashtags: #Java #Runtimeframework #Hibernate #GlassFish
+#hashtags: #JavaNews #RDBMS #OracleTechnology
 
 14 번째 검색 내용
-제목: 클라우드플레어의 1.1.1.1 서비스 중지와 관련된 CNAME 순서 문제에 대한 RFC 명세 번역
+제목: 클라우드플레어의 1.1.1.1 서비스 중단을 일으킨 CNAME 순서 지정 RFC 사양
 
-[INST] 제공된 문장을 한글로 번역하십시오:
-
-                            CNAME 순서 문제가 RFC 명세에서 클라우드플레어의 1.1.1.1 서비스 중지를 인정합니다.
-                         [/INST]
+(주의: 이 번역은 철자와 문법에 오류가 있을 수 있습니다. 실제로 사용하기 전에 확인해주시길 바랍니다.)
 주소: https://www.infoq.com/news/2026/02/cname-rfc-cloudflare-outage/
 설명: 인공지능은 세계를 변화시키고 있습니다. 이것은 의료, 금융, 교통과 같은 다양한 분야에 응용되고 있습니다.
 #인공지능 #의료 #금융 #교통
 
-최근 제목이 "CNAME 또는 A 레코드가 먼저 왔나?" 라는 글에서 Cloudflare는 인기 있는 Cloudflare의 1.1.1.1 서비스가 혼란스러운 RFC 명세 때문에 깨지게 되었음을 설명합니다. 이 깨진 것과 이전 DNS 표준의 기록 순서에 대한 혼란에 대해 Cloudflare는 명확한 명세를 제안합니다.
+최근 제목이 "CNAME 또는 A 레코드가 먼저 왔나?" 라는 글에서 Cloudflare는 인기 있는 Cloudflare의 1.1.1.1 서비스가 혼란스러운 RFC 명세 때문에 깨지게 되었음을 설명합니다. 레코드 순서에 대한 혼란이 이전 DNS 표준에서 있었음을 발견하고 나서, Cloudflare는 확실한 명세를 제안합니다.
 #DNS #RFC #Cloudflare #1.1.1.1
 
 15 번째 검색 내용
-제목: 클라우드플레어가 자체 호스팅 AI 에이전트를 엣지로 가져오기 위해 Moltworker를 보여줍니다.
+제목: 클라우드플레어가 자율 호스팅 AI 에이전트를 엣지로 가져오기 위해 Moltworker를 보여줍니다.
 주소: https://www.infoq.com/news/2026/02/cloudflare-moltworker/
-설명: Cloudflare는 Moltworker를 개발자 플랫폼에서 열려 있는 소스로 Mac mini와 같은 로컬 하드웨어 없이 Moltbot—개인 AI 에이전트—를 실행할 수 있도록 소개했습니다. Clawdbot로 이전 명명된 Moltbot는 채팅 애플리케이션에서 개인 어시스턴트 역할을 하며, AI 모델, 브라우저, 및 제3자 도구와의 통합을 지원하면서 사용자 제어를 유지합니다.
+설명: Cloudflare는 Moltworker를 개발자 플랫폼에서 열려 있는 소스 솔루션으로, Moltbot—자기 호스팅 개인 AI 에이전트—를 실행하는 데 필요한 로컬 하드웨어, 예: Mac minis를 제거합니다. Clawdbot로 이전 명명된 Moltbot는 채팅 애플리케이션에서 개인 助手 역할을 수행하며, AI 모델, 브라우저, 및 제3자 도구와의 통합을 지원하면서 사용자 제어를 유지합니다.
 #개인AI에이전트 #Moltbot #CloudflareDeveloperPlatform
 
