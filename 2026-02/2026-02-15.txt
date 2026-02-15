@@ -1,0 +1,142 @@
+1 번째 검색 내용
+제목: 16 Claude 에이전트가 인간의 干칙없이 C 컴파일러를 구축했습니다... 거의.
+주소: https://www.infoq.com/news/2026/02/claude-built-c-compiler/
+설명: Anthropic는 자율 소프트웨어 개발의 한계를 탐색하기 위해 Claude Opus 4.6 AI 에이전트 16개를 사용하여 Rust 기반 C 컴파일러를 처음부터 만들었습니다. 에이전트는 공유 저장소에서 동시에 변경 사항을 조정하며 최종적으로 Linux 6.9 커널을 x86, ARM, RISC-V 및 다양한 기타 오픈 소스 프로젝트를 빌드할 수 있는 컴파일러를 생성했습니다.
+#인공지능 #자율소프트웨어 #Rust프로그래밍언어
+#오픈소스
+
+2 번째 검색 내용
+제목: [INST] 페이징에서 사망까지: Google Cloud SRE가 Gemini CLI를 사용한 장애 대응 방법 번역:
+
+                            페이징에서 사망까지: Google Cloud SREs가 Gemini CLI를 사용한 장애 대응 [/INST]
+주소: https://www.infoq.com/news/2026/02/google-sre-gemini-cli-outage/
+설명: Google Cloud SREs는 AI를 활용한 Gemini CLI를 내부적으로 실제 사건에서 장애 조치를 수행하는 방식을 설명한 최근 기사입니다. 이 접근 방식은 중요 인프라 운영에서의 신뢰도를 향상시키고, 지능적인 추론을 터미널 기반 운영 도구에 직접 통합하여 사건 응답 시간을 줄입니다.
+#인공지능 #GoogleCloud #GeminiCLI
+
+#hashtags: #AI #인프라운영 #사건응답시간 감소
+
+3 번째 검색 내용
+제목: 파이어스토어에서 파이프라인 작업 추가: 100개 이상의 새로운 쿼리 기능 포함
+
+(Note: The translation may not be perfect as it is a machine translation. Please review and make any necessary adjustments.)
+주소: https://www.infoq.com/news/2026/02/firestore-enterprise-pipeline/
+설명: Google은 Firestore의 쿼리 엔진을 개편하여 "파이프라인 연산"을 소개했습니다. 이것은 복잡한 서버 사이드 집계와 배열 풀어내기를 가능하게 합니다. 업데이트는 Firestore Enterprise를 선택적 인덱싱 모델로 이동시키며, 작성 속도를 우선 순위로 설정하고 비용을 줄일 수 있게 합니다. 그러나 미리 보기에는 실시간 및 에뮬레이터 지원이 부재하며, MongoDB와 같은 집계 기능과의 평등을 가져왔습니다.
+#Firestore #Google #데이터베이스
+
+4 번째 검색 내용
+제목: Nuxt Studio 출시: 제작 중 콘텐츠 편집에 대한 오픈 소스 CMS
+
+(Note: "Released" can be translated as "출시" in Korean, which means "released" or "launched.")
+주소: https://www.infoq.com/news/2026/02/nuxt-studio-cms/
+설명: Nuxt Studio를 소개합니다: Nuxt 웹사이트에 대한 최고의 오픈 소스 콘텐츠 관리 솔루션입니다. 강력한 자체 호스팅 모듈을 제공하여 콘텐츠에 대한 완전한 제어를 위해 사용할 수 있습니다. 인ту이티브 비주얼 에디터, 실시간 미리보기 및 스무트 통합을 통해 개발 작업 흐름을 향상시키고 콘텐츠 창작자들의 간격을 극복하십시오. 팀의 능력을 오늘 폭주시키세요!
+#NuxtStudio #콘텐츠관리 #개발작업흐름 #창작자
+
+#hashtags: #NuxtJS, #CMS, #ContentManagementSystem
+
+5 번째 검색 내용
+제목: 텔레포트는 기업 인프라에서 AI 에이전트를 보호하기 위해 에이전트릭 식별성 프레임워크를 출시합니다.
+[INST] Teleport launches agentic identity framework to secure AI agents across enterprise infrastructure. [/INST]
+주소: https://www.infoq.com/news/2026/02/teleport-secure-ai-agents/
+설명: AI : Teleport는 최근에 Teleport Agentic Identity Framework을 공개했습니다. 이것은 AI 중심의 보안 모델입니다. 이를 사용하면 기업이 클라우드와 온프레미스 환경에서 안전하게 독립적이고 半자율 인공지능 에이전트를 배포할 수 있습니다.
+#Teleport #AgenticIdentityFramework #AI보안모델 #클라우드와온프레미스
+
+Hashtags: #Teleport, #AgenticIdentityFramework, #AI보안모델, #클라우드와온프레미스
+
+6 번째 검색 내용
+제목: 샤드씨엔 릴리즈: 비주얼 프로젝트 빌더
+[INST] Translate my sentence into Korean :
+
+                            Shadcn Releases Visual Project Builder
+                         [/INST]
+주소: https://www.infoq.com/news/2026/02/shadcn-ui-builder/
+설명: AI : Shadcn의 혁신적인 시각적 프로젝트 빌더를 `npx shadcn create`로 접근할 수 있습니다. 이 도구는 개발자들이 코딩 전에 시각적으로 프로젝트 설정을 사용자 지정할 수 있게 해주며, 실시간 미리보기, 많은 테마 옵션, 프레임워크 지원과 함께 디자인 우선 접근 방식을 확장하는 데 도움이 됩니다. ui.shadcn.com/create를 통해 설계에 완전한 제어로 프로젝트 생성을 경험하세요!
+#Shadcn #시각적_프로젝트_빌더 #디자인_우선_접근_방식 #프레임워크_지원
+
+#hashtags: #Shadcn, #시각적_프로젝트_빌더, #디자인_우선_접근_방식, #프레임워크_지원
+
+7 번째 검색 내용
+제목: 웨이스컬(VillageSQL)은 확장에 중점을 두는 MySQL 포크로 출시되었습니다.
+주소: https://www.infoq.com/news/2026/02/villagesql-mysql/
+설명: AI : 새로운 오픈소스 프로젝트 VillageSQL이 MySQL의 추적 포크로서 AI와 에이전트 기반 작업을 위한 확장성과 기능 간격을 해결하기 위해 확장성을 높이는 데 집중하고 있습니다.
+#오픈소스 #VillageSQL #AI #에이전트기반작업
+
+Hashtags: #오픈소스, #VillageSQL, #AI, #에이전트기반작업
+
+8 번째 검색 내용
+제목: [INST] 오픈아이 단일 기본 PostgreSQL 인스턴스를 백만 개 이상의 쿼리로 확장하여 채팅 GPT에 사용
+[/INST]
+주소: https://www.infoq.com/news/2026/02/openai-runs-chatgpt-postgres/
+설명: OpenAI는 ChatGPT와 API 플랫폼을 지원하기 위해 PostgreSQL을 확장하는 방법을 설명했습니다. 이 시스템은 수백 억 명의 사용자가 초당 백만 개의 쿼리를 처리할 수 있도록 되어 있으며, Azure에서 단일 기본 포스트그레SQL 배포와 거의 50개의 읽기 복제본을 사용하여 쿼리 패턴을 최적화하고 쓰기 중심 작업을 분할 시스템으로 전송하여 낮은 지연 시간의 읽기를 유지하면서 쓰기 부담을 관리했습니다.
+#인공지능 #PostgreSQL #Azure #ChatGPT
+
+#hashtags: #AI #PostgreSQLScaling #CloudComputing
+
+9 번째 검색 내용
+제목: 영향력 있는 팀을 다양성을 통해 창출하는 세션 0 활용
+
+(Note: The translation may not be perfect as it is difficult to maintain the exact structure and meaning of the original sentence in Korean. However, the essence of the sentence is conveyed.)
+주소: https://www.infoq.com/news/2026/02/create-impactful-teams-diversity/
+설명: 다양한 팀원들이 영향력 있는 팀이 됩니다, Natan Žabkar Nordberg는 QCon London에서 영향력 있는 소프트웨어 팀을 만드는 데 참여하는 대화에서 언급했습니다. 세션 0은 기대치와 일치하는 방식으로 팀을 접근하고 있는지 확인하고 예상을 설정합니다.
+#영향력있는팀 #소프트웨어개발팀 #QConLondon
+
+10 번째 검색 내용
+제목: 웨이트앱 런스 기반의 미디어 파서를 사용하여 30억 장치에서 마비웨어 차단
+
+(Note: The translation may not be perfect as it is a direct translation. Korean grammar and sentence structure can be different from English.)
+주소: https://www.infoq.com/news/2026/02/whatsapp-rust-media-malware/
+설명: WhatsApp has rewritten its media handling library in Rust, replacing 160,000 lines of C++ with 90,000 lines of memory-safe code for 3 billion devices. The rollout, part of a system called Kaleidoscope, uses differential fuzzing to ensure bug-for-bug compatibility. The move mirrors a decade-long industry shift toward memory safety, tracing back to Mozilla's first Rust MP4 parser deployment in 2016.
+#WhatsApp #Rust #MemorySafety
+
+Translated sentence: 웨이츠앱은 메시지 처리 라이브러리를 루스트로 다시 작성하여, C++의 160,000줄을 90,000줄의 메모리 안전 코드로 대체하였습니다. 이 업데이트는 Kaleidoscope라는 시스템의 일부로, 버그와 버그 간 호환성을 보장하기 위해 차이점 퓨즈를 사용합니다. 이러한 변경은 10년 동안 산출되는 메모리 안전 방향으로, 2016년 Mozilla가 Rust로 MP4 파서를 처음으로 배포한 것을 따라합니다.
+#웨이츠앱 #루스트 #메모리안전
+
+Hashtags: #WhatsAppKR #RustKR #MemorySafetyKR
+
+11 번째 검색 내용
+제목: 클라우드프론트에서는 엔드투엔드 제로트러스를 위해 오리진 mTLS 인증 추가
+
+(Note: The translation may not be perfect as it is a technical term. Please confirm the accuracy with a professional translator if necessary.)
+주소: https://www.infoq.com/news/2026/02/amazon-cloudfront-mtls-origins/
+설명: AI : Amazon CloudFront는 원본 서버에 대한 양방향 TLS 인증을 지원하며, 뷰어와 백엔드 간의 끝부분까지 완전한 제로트러스 인증을 완성합니다. 기능은 IP 허용 목록과 공유된 비밀번호를 대체하여, 암호화 검증으로 교차 클라우드 배포에서 원본이 CloudFront에서 시작한 트래픽인지 확인할 수 있습니다.
+#AmazonCloudFront #교차클라우드배포 #제로트러스인증
+
+Hashtags: #AmazonCloudFront, #CrossCloudDeployment, #ZeroTrustAuthentication
+
+12 번째 검색 내용
+제목: 판다스 3.0에서는 기본값으로 문자열 데이터 형식 및 복사 시 쓰기 의미가 도입되었습니다.
+주소: https://www.infoq.com/news/2026/02/pandas-library/
+설명: 인공지능 : 팬다스 팀은 팬다스 3.0.0을 릴리즈했습니다. 이는 문자열 처리, 메모리 의미와 날짜 해상도에 대한 기본 동작을 변경하며, 크게 사용되지 않은 함수들을 제거합니다. 이 릴리즈는 라이브러리의 API에서 핵심 동작에 대한 여러 변경 사항을 소개합니다.
+#팬다스 #릴리즈 #기본동작 #날짜해상도
+
+Hashtags: #pandas #release #corebehaviors #datetimeresolution
+
+13 번째 검색 내용
+제목: 쿠버네티스가 AI 확장을 주도하며, 문화적 변화가 중요해지는 상황에서 이를 위한 역할입니다.
+
+(Kubernetes drives AI expansion as cultural shift becomes critical)
+주소: https://www.infoq.com/news/2026/02/kubernetes-ai-culture-impact/
+설명: AI : 새로운 CNCF 보고서는 Kubernetes가 AI 성장의 주요 엔진으로 식별하며, 82%의 생산적 적용이 있습니다. 그러나 기술적 성숙도가 조직 변화에 뒤떨어진 상황입니다. 인간 요소, 예를 들면 팀 구조의 독립성과 함수별 협력이 부족한 것이 현재 AI 성공적 배포에 장벽이 되고 있으며, 문화적 변화가 AI 확장에 결정적인 요소가 됩니다.
+#CNCF #Kubernetes #AI #조직변화 #문화적변화
+
+Hashtags: #CNCF, #Kubernetes, #AI, #조직변화, #문화적변화
+
+14 번째 검색 내용
+제목: [INST] 기본 문장 번역: GitHub Copilot SDK를 사용하면 개발자들이 Copilot CLI의 엔진을 앱에 통합할 수 있습니다. [/INST]
+주소: https://www.infoq.com/news/2026/02/github-copilot-sdk/
+설명: Now available in technical preview on GitHub, the GitHub Copilot SDK lets developers embed the same engine that powers GitHub Copilot CLI into their own apps, making it easier to build agentic workflows.
+인공지능 개발자가 사용할 수 있는 GitHub Copilot SDK가 기존의 GitHub Copilot CLI를 위한 엔진을 개발자의 앱에 임베딩하여, 에이전트적인 워크플로우를 구축하는데 더 쉽게 도와주고 있습니다.
+#GitHubCopilotSDK #에이전트적인워크플로우 #개발자용도
+
+Translated sentence: Now available in technical preview on GitHub, the GitHub Copilot SDK lets developers embed the same engine that powers GitHub Copilot CLI into their own apps, making it easier to build agentic workflows.
+Hashtags: #GitHubCopilotSDK #에이전트적인워크플로우 #개발자용도
+
+15 번째 검색 내용
+제목: QCon 20년 기념 컨퍼런스: 생산성 AI, 강력성, 스태프+ 엔지니어링
+
+(Note: The translation may not be perfect as some terms might have specific meanings in the context of QCon conferences. Please verify the meaning and context before using this translation.)
+주소: https://www.infoq.com/news/2026/02/qcon-previews-20th-anniversary/
+설명: QCon의 20년 기념식 콘퍼런스는 2026년 런던과 산프란시스코에서 에이전트적 AI, 안정적인 아키텍처, 플랫폼 ROI와 관련된 엔지니어링 현실을 중심으로 진행됩니다. 프로그램은 20년간의 전통을 이어가며, Zoox, UBS, LinkedIn과 같은 기업의 고급 엔지니어들로 이루어진 실무자 주도 콘텐츠를 선택합니다.
+#QCon #에이전트적AI #안정적인아키텍처 #플랫폼ROI
+
+#hashtags: #AI #엔지니어링 #기업 #콘퍼런스
+
