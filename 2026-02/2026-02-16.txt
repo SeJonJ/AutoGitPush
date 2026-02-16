@@ -1,0 +1,140 @@
+1 번째 검색 내용
+제목: 지역스택(LocalStack)은 AWS에서 공개된 커뮤니티 버전으로 개발자들의 걱정을 일으키고 있습니다.
+주소: https://www.infoq.com/news/2026/02/localstack-aws-community/
+설명: LocalStack는 AWS Cloud 에뮬레이터 배달의 변경을 최근에 발표했습니다. 인기 있는 오픈 소스 Community Edition을 삭제하고, 등록이 필요한 단일 이미지를 생성했습니다. 현재 가장 최신 커뮤니티 이미지를 갖는 프로젝트는 작업 플로우를 업데이트해야 합니다.
+#AWS #LocalStack #에뮬레이터
+
+2 번째 검색 내용
+제목: 16 Claude 에이전트가 인간의 干칙없이 C 컴파일러를 만들었습니다... 거의.
+주소: https://www.infoq.com/news/2026/02/claude-built-c-compiler/
+설명: Anthropic는 자율 소프트웨어 개발의 한계를 탐색하기 위해 Claude Opus 4.6 AI 에이전트 16개를 사용하여 Rust 기반 C 컴파일러를 처음부터 만들었습니다. 에이전트는 공유 저장소에서 동시에 변경 사항을 조정하며 최종적으로 Linux 6.9 커널을 x86, ARM, RISC-V 및 다양한 기타 오픈 소스 프로젝트를 빌드할 수 있는 컴파일러를 생성했습니다.
+#인공지능 #자율소프트웨어 #Rust_기반_C_컴파일러
+
+#hashtags: #인공지능, #자율소프트웨어, #Rust_기반_C_컴파일러
+
+3 번째 검색 내용
+제목: [INST] 페이징에서 사망까지: Google Cloud SRE가 Gemini CLI를 사용한 장애 대처 방법
+[/INST]
+주소: https://www.infoq.com/news/2026/02/google-sre-gemini-cli-outage/
+설명: Google Cloud SREs는 AI가 펑션한 Gemini CLI를 내부적으로 실제 사건에서 장애 해결을 위해 사용하는 방법을 설명한 최근 기사입니다. 이 접근 방식은 중요한 인프라 운영에서의 신뢰도를 향상시키고, 지능적인 추론을 터미널 기반 운영 도구에 직접 통합하여 사건 응답 시간을 줄입니다.
+#인공지능 #GoogleCloud #장애해결 #신뢰도 #운영도구
+
+Hashtags: #인공지능, #GoogleCloud, #장애해결, #신뢰도, #운영도구
+
+4 번째 검색 내용
+제목: 파이어스토어에서 파이프라인 작업 추가: 100개 이상의 새로운 쿼리 기능 포함
+
+(Note: The translation may not be perfect as it is a machine translation. Please review and make necessary adjustments if needed.)
+주소: https://www.infoq.com/news/2026/02/firestore-enterprise-pipeline/
+설명: Google은 Firestore의 쿼리 엔진을 개편하여 "파이프라인 연산"을 소개하였습니다. 이것은 복잡한 서버측 집계와 배열 풀어내기를 가능하게 합니다. 업데이트는 Firestore Enterprise를 선택적 인덱싱 모델로 이동시키며, 작성 속도를 우선시하고 비용을 줄일 수 있게 합니다. 그러나 미리 보기에는 실시간 및 에뮬레이터 지원이 부재합니다.
+#Firestore #GoogleCloudPlatform #데이터베이스 #쿼리엔진
+
+#hashtags: #Firestore, #GoogleCloudPlatform, #데이터베이스, #쿼리엔진
+
+5 번째 검색 내용
+제목: Nuxt Studio 출시: 생산성 편집기를 위한 오픈소스 CMS
+주소: https://www.infoq.com/news/2026/02/nuxt-studio-cms/
+설명: Nuxt Studio를 소개합니다: Nuxt 웹사이트에 대한 최고의 오픈 소스 콘텐츠 관리 솔루션입니다. 강력한 자체 호스팅 모듈을 제공하여 콘텐츠에 대한 완전한 제어를 위해 사용할 수 있습니다. 인ту이티브 비전컬 편집기, 실시간 미리보기 및 스무트 깃 통합을 통해 개발 작업 흐름을 향상시키고 콘텐츠 창조자들 사이에 구멍을 채우십시오. 팀의 능력을 오늘 폭발시키세요!
+#NuxtStudio #NuxtCMS #콘텐츠매니지먼트 #개발자용
+
+#hashtags: #NuxtJS, #CMS, #ContentManagementSystem
+
+6 번째 검색 내용
+제목: 텔레포트가 기업 인프라에서 AI 에이전트를 보호하기 위해 에이전트릭 식별성 프레임워크를 출시합니다.
+주소: https://www.infoq.com/news/2026/02/teleport-secure-ai-agents/
+설명: AI : Teleport는 최근에 Teleport Agentic Identity Framework을 공개했습니다. 이것은 AI 중심의 보안 모델입니다. 이를 사용하면 기업이 클라우드와 온프레미스 환경에서 안전하게 독립적이고 부분적으로 독립적인 AI 에이전트를 배포할 수 있습니다.
+#Teleport #AgenticIdentityFramework #AI보안모델 #클라우드와온프레미스환경
+
+Hashtags: #Teleport #AgenticIdentityFramework #AI보안모델 #클라우드와온프레미스환경
+
+7 번째 검색 내용
+제목: 샤드씨엔 릴리즈: 비주얼 프로젝트 빌더
+[INST] Translate my sentence into Korean :
+                            Shadcn Releases Visual Project Builder
+                         [/INST]
+주소: https://www.infoq.com/news/2026/02/shadcn-ui-builder/
+설명: AI : Shadcn의 혁신적인 시각적 프로젝트 빌더를 `npx shadcn create`를 통해 접근할 수 있습니다. 이 도구는 개발자들에게 코딩 전에 시각적으로 프로젝트 설정을 사용자 지정할 수 있게 해주며, 실시간 미리보기, 많은 테마 옵션, 프레임워크 지원과 함께 디자인 우선 접근 방식을 확장하는 데 도움이 됩니다. ui.shadcn.com/create를 통해 에픽리스 프로젝트 생성을 경험하세요!
+#Shadcn #시각적_프로젝트_빌더 #디자인_우선_접근 #프레임워크_지원
+
+#hashtags: #Shadcn, #시각적_프로젝트_빌더, #디자인_우선_접근, #프레임워크_지원
+
+8 번째 검색 내용
+제목: 웨이지SQL이 확장에 집중한 MySQL 분기 형성
+
+(Note: The translation may not be perfect, but it conveys the meaning of the original sentence.)
+주소: https://www.infoq.com/news/2026/02/villagesql-mysql/
+설명: AI : 새로운 오픈소스 프로젝트 VillageSQL이 MySQL의 추적 포크로서 AI와 에이전트 기반 작업을 위한 확장성과 기능 간격을 해결하기 위해 확장성을 높이는 데 집중하고 있습니다.
+#오픈소스 #VillageSQL #AI #에이전트기반작업
+
+Hashtags: #오픈소스, #VillageSQL, #AI, #에이전트기반작업
+
+9 번째 검색 내용
+제목: 오픈애이가 채팅GP트에 대해 싱글 기본 PostgreSQL 인스턴스를 백만 개 이상의 쿼리로 확장합니다.
+주소: https://www.infoq.com/news/2026/02/openai-runs-chatgpt-postgres/
+설명: OpenAI는 ChatGPT와 API 플랫폼을 지원하기 위해 PostgreSQL을 확장하는 방법을 설명했습니다. 이를 통해 수백 억 명의 사용자가 초당 백만 개의 쿼리를 처리할 수 있습니다. Azure에서 단일 기본 포스트그레SQL 배포와 거의 50개의 읽기 복제본을 사용하여 질의 패턴을 최적화하고 쓰기 중심 작업을 셔딩드 시스템으로 전송하여 OpenAI는 낮은 지연 시간의 읽기를 유지하면서 쓰기 부담을 관리했습니다.
+#PostgreSQL #Azure #ChatGPT
+#인공지능 #데이터베이스 #클라우드 #챗봇
+
+10 번째 검색 내용
+제목: 영향력 있는 팀을 다양성을 통해 창출하기 위한 세션 0 활용
+
+(Note: The translation may not be perfect as it is a direct translation. It would be better to consult with a professional translator for a more accurate and natural-sounding Korean translation.)
+주소: https://www.infoq.com/news/2026/02/create-impactful-teams-diversity/
+설명: 다양한 팀원들이 영향력 있는 팀이 됩니다, Natan Žabkar Nordberg는 QCon London에서 영향력 있는 소프트웨어 팀을 만드는 데 참여하는 대화에서 언급했습니다. 세션 0은 기대치와 일치하는 방식으로 팀을 접근하고 있는지 확인하고 예상을 설정하는 데 도움이 됩니다.
+#팀워크 #소프트웨어개발 #협업
+
+Translated sentence: Diverse and empowered teams are impactful teams, Natan Žabkar Nordberg mentioned in his talk on creating impactful software teams at QCon London. A session 0 helps set expectations and ensures that everyone is approaching the team in a compatible way.
+and Provide - #hashtags. Add 3 hashtags related to the translated content.
+
+Hashtags: #팀워크, #소프트웨어개발, #협업
+
+11 번째 검색 내용
+제목: 웨이트앱 런스 기반의 미디어 파서를 사용하여 30억 장치에서 마비웨어 차단
+
+(Note: The translation may not be perfect as it involves translating technical terms and company names. However, the meaning should be clear.)
+주소: https://www.infoq.com/news/2026/02/whatsapp-rust-media-malware/
+설명: WhatsApp has rewritten its media handling library in Rust, replacing 160,000 lines of C++ with 90,000 lines of memory-safe code for 3 billion devices. The rollout, part of a system called Kaleidoscope, uses differential fuzzing to ensure bug-for-bug compatibility. The move mirrors a decade-long industry shift toward memory safety, tracing back to Mozilla's first Rust MP4 parser deployment in 2016.
+#WhatsApp #Rust #MemorySafety #Kaleidoscope
+
+Translated sentence: 웨이츠앱은 메시지 처리 라이브러리를 루스트로 다시 작성하여, C++의 160,000줄을 90,000줄의 메모리 안전 코드로 대체하였습니다. 이 변경은 Kaleidoscope라는 시스템의 일부로, 버그 당 버그 호환성을 보장하기 위해 차이점 퓨즈를 사용합니다. 이러한 이동은 10년간 산업의 메모리 안전 방향으로 이어지고, Mozilla가 2016년에 Rust로 MP4 파서를 첫 배포한 것으로 추적됩니다.
+#웨이츠앱 #루스트 #메모리안전성 #Kaleidoscope
+
+12 번째 검색 내용
+제목: 클라우드프론트에서는 엔드투엔드 제로트러스를 위해 오리진 mTLS 인증 추가
+
+(Note: The translation may not be perfect as it is a technical term, but the meaning should be clear.)
+주소: https://www.infoq.com/news/2026/02/amazon-cloudfront-mtls-origins/
+설명: AI : Amazon CloudFront는 원본 서버에 대한 양방향 TLS 인증을 지원하며, 뷰어에서 백엔드까지의 끝부분 0-trust 인증이 완료됩니다. 기능은 IP 허용 목록과 공유된 비밀을 대체하여 암호화 검증으로 대체되며, 특히 다중 클라우드 배포에서 원본이 CloudFront에서 시작한 트래픽인지 확인할 수 있습니다.
+#AmazonCloudFront #0trust인증 #다중클라우드배포
+
+Hashtags: #AmazonCloudFront, #0TrustAuthentication, #MultiCloudDeployment
+
+13 번째 검색 내용
+제목: 판다스 3.0에서는 기본값으로 문자열 데이터 형식 및 복사 시 쓰기 의미가 도입되었습니다.
+주소: https://www.infoq.com/news/2026/02/pandas-library/
+설명: 인공지능 : 팬다스 팀은 팬다스 3.0.0을 릴리즈했습니다. 이는 문자 처리, 메모리 의미와 날짜 해결에 대한 기본 행동을 변경하며, 크게 사용되지 않은 함수들을 제거합니다. 이 릴리즈는 라이브러리의 API에서 핵심 행동에 대한 여러 변경 사항을 소개합니다.
+#팬다스 #릴리즈 #기본 행동 #날짜 해결
+
+Hashtags: #pandas #release #corebehaviors #datetimeresolution
+
+14 번째 검색 내용
+제목: 쿠버네티스가 AI 확장을 주도하며, 문화적 변화가 극히 중요해진다.
+[INST] Kubernetes Drives AI Expansion as Cultural Shift Becomes Critical [/INST]
+주소: https://www.infoq.com/news/2026/02/kubernetes-ai-culture-impact/
+설명: AI : 새로운 CNCF 보고서에는 Kubernetes가 AI 성장의 주요 엔진으로 식별되어, 82%의 생산적 채택률을 기록했습니다. 그러나 기술적 성숙도가 조직적 변화보다 빠르게 발전했습니다. 인간 요소, 예를 들어 팀 사이의 격리와 함수별 협력의 부족, 지금은 AI 성공적 배포에 장벽이 되고 있으며, 문화적 변화가 AI 확장에 결정적인 요소가 됩니다.
+#CNCF #Kubernetes #AI #인간요소 #조직변화
+
+Hashtags: #CNCF, #Kubernetes, #AI, #인간요소, #조직변화
+
+15 번째 검색 내용
+제목: GitHub Copilot SDK를 사용하면 개발자들이 Copilot CLI의 엔진을 앱에 통합할 수 있습니다.
+주소: https://www.infoq.com/news/2026/02/github-copilot-sdk/
+설명: Now available in technical preview on GitHub, the GitHub Copilot SDK lets developers embed the same engine that powers GitHub Copilot CLI into their own apps, making it easier to build agentic workflows.
+인공지능 개발자가 사용할 수 있는 GitHub Copilot SDK가 기존의 GitHub Copilot CLI를 위한 엔진을 개발자들의 앱에 임베딩하여, 에이전트적인 워크플로우를 구축하는데 더 쉽게 도와주고 있습니다.
+#GitHubCopilotSDK #에이전트적인워크플로우 #개발자용도
+
+Translated sentence: 인공지능 개발자가 사용할 수 있는 GitHub Copilot SDK가 기존의 GitHub Copilot CLI를 위한 엔진을 개발자들의 앱에 임베딩하여, 에이전트적인 워크플로우를 구축하는데 더 쉽게 도와주고 있습니다.
+#GitHubCopilotSDK #에이전트적인워크플로우 #개발자용도
+
+Hashtags: #GitHubCopilotSDK, #에이전트적인워크플로우, #개발자용도
+
