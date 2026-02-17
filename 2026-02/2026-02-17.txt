@@ -1,138 +1,138 @@
 1 번째 검색 내용
+제목: 크롬 144에서 출시된 시간 API: 자바스크립트 날짜/시간 표준화 진보
+
+(Note: The translation may not be perfect as some phrases might not have a direct equivalent in Korean. However, the meaning should still be conveyed.)
+주소: https://www.infoq.com/news/2026/02/chrome-temporal-date-api/
+설명: Chrome 144에서는 자바스크립트의 날짜와 시간 관리를 혁신적으로 변화시키는 Temporal API가 소개되었습니다. Date 객체에 대한 비판을 받은 것보다 더 나은 대안으로, Temporal은 해석 모호성, 시간대 복잡성, 변경 가능한 계산과 같은 문제를 해결합니다. 구분되는 유형이 있고 내장된 지원을 통해 개발자들이 날짜를 간편하게 처리할 수 있도록 돕습니다. 그러나 브라우저별로 적용률이 다양합니다.
+#Chrome144 #TemporalAPI #날짜와시간관리 #자바스크립트
+
+#hashtags: #자바스크립트개발자, #브라우저, #날짜및시간처리기술
+
+2 번째 검색 내용
+제목: GlassFish 8.0은 Jakarta EE 11과의 호환성을 제공하며, 보안 및 데이터 액세스를 향상시킨다.
+주소: https://www.infoq.com/news/2026/02/glassfish-8-released/
+설명: AI : 에클립스 재단은 가상 스레드 지원, 응용 보안 향상, 데이터 액세스 개선과 같은 기능을 포함한 GlassFish 8.0 버전을 출시했습니다. GlassFish 8.0은 Jakarta EE 11의 호환된 구현입니다. InfoQ에 대해 GlassFish 8.0에 대한 인터뷰를 진행한 Ondro Mihályi, Java 챔피언이자 OmniFish의 창립자입니다.
+#에클립스_재단 #GlassFish_8.0 #Jakarta_EE_11 #인터뷰
+
+Hashtags: #에클립스_재단, #GlassFish_8.0, #Jakarta_EE_11, #인터뷰
+
+3 번째 검색 내용
 제목: Agoda의 API 에이전트는 코드와 배포 없이 모든 API를 MCP로 변환합니다.
 주소: https://www.infoq.com/news/2026/02/agoda-api-agent/
 설명: Agoda engineers developed API Agent, enabling a single MCP server to access any internal REST or GraphQL API with zero code and zero deployments. The system reduces overhead from multiple APIs, supports AI-assisted queries, and uses in-memory SQL post-processing for safe, scalable data handling across internal services.
 #APIAgent #AgodaEngineers #RESTGraphQLAPI
 
-Translate my sentence into Korean: 
-                         Agoda 개발자들은 API Agent를 개발하여, 단일 MCP 서버가 내부의 REST 또는 GraphQL API에 대해 코드 없이 배포 없이 접근할 수 있도록 합니다. 시스템은 여러 API로부터 오버헤드를 줄이고, AI 지원 쿼리를 지원하며, 내부 서비스에서 안전하고 확장성 있는 데이터 처리를 위해 메모리 SQL 후처리를 사용합니다.
+Translate my sentence into Korean:
+                         Agoda 개발자들은 API Agent를 개발하여, 단일 MCP 서버가 내부의 REST 또는 GraphQL API에 대해 코드 없이 배포 없이 액세스할 수 있도록 합니다. 시스템은 여러 API로부터 오버헤드를 줄이고, AI 지원 쿼리를 지원하며, 안전한, 확장성 있는 내부 서비스에서 데이터 처리를 위해 메모리 SQL 후처리를 사용합니다.
                      and Provide - #hashtags. Add 3 hashtags related to the translated content.
 
-2 번째 검색 내용
-제목: 구글은 다중 에이전트 협력을 위한 스케일링 원리를 탐색합니다.
+4 번째 검색 내용
+제목: 구글이 다수 에이전트 협력을 위한 확장성 원칙 탐색
+
+(Note: The translation may not be perfect, as the original sentence seems to be a title or heading. In Korean, titles and headings are often translated differently than regular sentences.)
 주소: https://www.infoq.com/news/2026/02/google-agent-scaling-principles/
-설명: Google Research는 최적의 성능을 위해 에이전트 시스템을 설계하는 방법을 찾기 위해 180개의 에이전트 구성을 제어된 평가로 실행했습니다. 이를 통해 팀은 "AI 에이전트 시스템의 첫 번째 정량적인 확장 원칙"을 도출했습니다. 이는 다중 에이전트 조정이 결과를 안정적으로 개선하지 않고 실행 성능을 줄일 수 있음을 보여줍니다.
+설명: Google Research는 최적의 성능을 위해 에이전트 시스템을 설계하는 방법을 찾기 위해 180개의 에이전트 구성을 제어된 평가로 실행했습니다. 이를 통해 팀은 "AI 에이전트 시스템의 첫 번째 정량적인 확장 원칙"을 도출했습니다. 이는 다중 에이전트 조정이 결과를 안정적으로 개선하지 않고 실제 성능을 줄일 수 있음을 보여줍니다.
 #인공지능 #에이전트시스템 #에이전트조정 #확장원칙
 
-#hashtags: #AI #AgentSystems #MultiAgentCoordination #ScalingPrinciples
-
-3 번째 검색 내용
-제목: 자바 뉴스 요약: JDK 26-RC1, Spring 프레임워크, Open Liberty, EclipseStore, 그라들
-
-(Note: The given text is already in Korean. If you want to translate it into English or another language, please provide the original text in English.)
-주소: https://www.infoq.com/news/2026/02/java-news-roundup-feb09-2026/
-설명: Java 주요 뉴스: 2월 9일, 2026년에는 JDK 26의 첫 리リー스 캔디디트와 Gradle 9.4; Micrometer Metrics와 Micrometer Tracing의 마이ル스톤 릴리즈, Open Liberty 26.0.0.2과 EclipseStore 4.0의 베타 릴리즈, Spring Framework, Micronaut, Quarkus에 대한 메인테이너스 릴리즈가 강조되었습니다.
-#Java #JDK26 #Gradle9.4 #MicrometerMetrics #MicrometerTracing #OpenLiberty #EclipseStore #SpringFramework #Micronaut #Quarkus
-
-4 번째 검색 내용
-제목: 지역스택(LocalStack)은 AWS에서 공개된 커뮤니티 버전으로 개발자들의 걱정을 일으키고 있습니다.
-주소: https://www.infoq.com/news/2026/02/localstack-aws-community/
-설명: LocalStack는 AWS Cloud 에뮬레이터 배달의 변경을 최근에 발표했습니다. 인기 있는 오픈 소스 Community Edition을 삭제하고, 등록이 필요한 단일 이미지를 생성했습니다. 현재 가장 최신 커뮤니티 이미지를 가져오는 프로젝트는 작업 플로우를 업데이트해야 합니다.
-#AWS #LocalStack #에뮬레이터
+Hashtags: #인공지능, #에이전트시스템, #에이전트조정, #확장원칙
 
 5 번째 검색 내용
+제목: 자바 뉴스 요약: JDK 26-RC1, Spring 프레임워크, Open Liberty, EclipseStore, 그라들
+
+(Note: The given text is already in English. If you want to translate it into Korean, please provide the original sentence or context in another language.)
+주소: https://www.infoq.com/news/2026/02/java-news-roundup-feb09-2026/
+설명: Java 주요 뉴스 요약: 2026년 2월 9일 발표된 이번 주 Java 주요 뉴스는 JDK 26의 첫 리리스 캔디디드와 Gradle 9.4, Micrometer Metrics와 Micrometer Tracing의 마일스톤 릴리즈, Open Liberty 26.0.0.2과 EclipseStore 4.0의 베타 릴리즈, Spring Framework, Micronaut, Quarkus의 메인테이너스 릴리즈를 다루고 있습니다.
+#Java #JDK26 #Gradle9.4 #MicrometerMetrics #MicrometerTracing #OpenLiberty #EclipseStore #SpringFramework #Micronaut #Quarkus
+
+6 번째 검색 내용
+제목: 지역스택(LocalStack)은 AWS에서 공개된 커뮤니티 버전으로 개발자들의 걱정을 일으키고 있습니다.
+주소: https://www.infoq.com/news/2026/02/localstack-aws-community/
+설명: LocalStack는 AWS Cloud 에뮬레이터의 배달에 대한 최근 변경을 발표했습니다. 인기 있는 오픈 소스 Community Edition을 삭제하고, 등록이 필요한 단일 이미지를 생성했습니다. 현재 최신 커뮤니티 이미지를 가져오는 프로젝트는 작업 플로우를 업데이트해야 합니다.
+#LocalStack #AWSCloudEmulators #WorkflowUpdate
+
+Hashtags:
+1. #LocalStack
+2. #AWSCloudEmulators
+3. #WorkflowUpdate
+
+7 번째 검색 내용
 제목: 16 Claude 에이전트가 인간의 干칙없이 C 컴파일러를 구축했습니다... 거의.
 주소: https://www.infoq.com/news/2026/02/claude-built-c-compiler/
 설명: Anthropic는 자율 소프트웨어 개발의 한계를 탐색하기 위해 Claude Opus 4.6 AI 에이전트 16개를 사용하여 Rust 기반 C 컴파일러를 처음부터 만들었습니다. 에이전트는 공유 저장소에서 동시에 변경 사항을 조정하며 최종적으로 Linux 6.9 커널을 x86, ARM, RISC-V 및 다른 여러 개방형 프로젝트를 빌드할 수 있는 컴파일러를 생성했습니다.
 #인공지능 #자율소프트웨어 #컴파일러 #Rust
 
-#hashtags: #AI #autonomoussoftwaredevelopment #Rustprogramming
+#hashtags: #AI #AutonomousSoftwareDevelopment #Compilers
 
-6 번째 검색 내용
+8 번째 검색 내용
 제목: [INST] 페이징에서 사망까지: Google Cloud SRE가 Gemini CLI를 사용한 장애 대응 방법 번역:
 
                             페이징에서 사망까지: Google Cloud SREs가 Gemini CLI를 사용한 장애 대응 [/INST]
 주소: https://www.infoq.com/news/2026/02/google-sre-gemini-cli-outage/
-설명: Google Cloud SREs는 AI가 펑션한 괄호 Gemini CLI를 내부적으로 실제 사용자 환경의 장애 조치를 해결하는 방법을 설명하는 최근 기사를 번역합니다. 이 접근 방식은 중요한 인프라 작업에서 신뢰성을 향상시키고, 지능적인 추론을 터미널 기반의 운영 도구에 직접 통합하여 사건 응답 시간을 줄입니다.
-#인공지능 #AI #GoogleCloud
+설명: Google Cloud SREs는 실제 장애 발생 사례를 해결하기 위해 AI가 펑션한 Gemini CLI를 내부적으로 사용하는 방법을 설명한 최근 기사입니다. 이 접근 방식은 중요 인프라 운영에서의 신뢰도를 향상시키고, 지능적인 추론을 터미널 기반 운영 도구에 직접 통합하여 사건 응답 시간을 줄입니다.
+#인공지능 #GoogleCloud #장애처리
 
-번역된 내용에 대한 해시태그:
-#인공지능 #AI #GoogleCloud
-
-7 번째 검색 내용
-제목: 파이어스토어에서 폴리네임 쿼리 기능 추가: 100개 이상의 새로운 쿼리 기능 포함
-
-(Note: The translation may not be perfect as it is a machine translation. Please review and make any necessary adjustments.)
-주소: https://www.infoq.com/news/2026/02/firestore-enterprise-pipeline/
-설명: Google은 Firestore의 쿼리 엔진을 개편하여 "파이프라인 연산"을 소개하였습니다. 이것은 복잡한 서버 사이드 집계와 배열 풀어내기를 가능하게 합니다. 업데이트는 Firestore Enterprise를 선택적 인덱싱 모델로 이동시키며, 작성 속도를 우선 순위로 설정하고 비용을 줄일 수 있게 합니다. 그러나 미리 보기에는 실시간 및 에뮬레이터 지원이 부재하고 있습니다.
-#Firestore #Google #데이터베이스
-
-8 번째 검색 내용
-제목: Nuxt Studio 출시: 제품에서 콘텐츠 편집을 위한 오픈 소스 CMS
-주소: https://www.infoq.com/news/2026/02/nuxt-studio-cms/
-설명: Nuxt Studio를 소개합니다: Nuxt 웹사이트에 대한 최고의 오픈 소스 콘텐츠 관리 솔루션입니다. 강력한 자체 호스팅 모듈을 제공하여 콘텐츠에 대한 완전한 제어를 위해 사용할 수 있습니다. 인ту이티브 비전컬 편집기, 실시간 미리보기 및 Git 통합을 통해 개발 작업 흐름을 향상시키고 콘텐츠 창작자들의 간격을 극복하십시오. 팀의 능력을 오늘 발휘하세요!
-#NuxtStudio #콘텐츠관리 #개발작업흐름 #Git통합
-
-#hashtags: #NuxtStudio, #ContentManagement, #DevelopmentWorkflow, #GitIntegration
+Hashtags: #인공지능, #GoogleCloud, #장애처리
 
 9 번째 검색 내용
-제목: 텔레포트가 기업 인프라를 위한 AI 에이전트 보안을 위해 에이전트릭 식별성 프레임워크 출시
+제목: 파이어스토어에서 폴리네임 쿼리 기능 추가: 100개 이상의 새로운 쿼리 기능 포함
 
-(Note: The translation may not be perfect as it involves some technical terms and understanding of the context is required. Also, Korean grammar and sentence structure can be different from English.)
-주소: https://www.infoq.com/news/2026/02/teleport-secure-ai-agents/
-설명: AI : Teleport는 최근에 Teleport Agentic Identity Framework을 공개했습니다. 이것은 AI중심의 보안 모델입니다. 이를 사용하면 기업이 클라우드와 온프레미스 환경에서 안전하게 AI 에이전트를 자동화 및 半자동화로 배포할 수 있습니다.
-#인공지능 #보안 #AI에이전트 #클라우드 #온프레미스
-
-Hashtags: #인공지능, #보안, #AI에이전트, #클라우드, #온프레미스
+(Note: The translation may not be perfect as it is automatically translated. Please check the translation for accuracy.)
+주소: https://www.infoq.com/news/2026/02/firestore-enterprise-pipeline/
+설명: Google은 Firestore의 쿼리 엔진을 개선하여 "파이프라인 연산"을 소개했습니다. 이것은 복잡한 서버 사이드 집계와 배열 풀어내기를 가능하게 합니다. 업데이트는 Firestore Enterprise를 선택적 인덱싱 모델로 이동시키며, 작성자들에게 쓰기 속도와 비용을 우선 순위로 설정할 수 있게 합니다. 그러나 미리 보기에는 실시간 및 에뮬레이터 지원이 부재하고 있습니다.
+#Firestore #Google #데이터베이스
 
 10 번째 검색 내용
-제목: 샤드씨엔 릴리즈: 비주얼 프로젝트 빌더
+제목: Nuxt Studio 출시: 생산성 증진을 위한 오픈 소스 CMS 콘텐츠 편집
+
+(Note: "Released" can be translated as "출시" in Korean, which means "released" or "launched.")
+주소: https://www.infoq.com/news/2026/02/nuxt-studio-cms/
+설명: Nuxt Studio를 소개합니다: Nuxt 웹사이트에 대한 최고의 오픈 소스 콘텐츠 관리 솔루션입니다. 강력한 자체 호스팅 모듈을 제공하여 콘텐츠에 대한 완전한 제어를 위해 사용할 수 있습니다. 인ту이티브 비주얼 에디터, 실시간 프리뷰와 스무스하게 Git 통합을 포함하여 개발 작업 흐름을 향상시키고 콘텐츠 창작자들이 사용할 수 있는 구간을 다리를 건네십시오. 팀의 능력을 오늘 발휘하세요!
+#NuxtStudio #NuxtCMS #콘텐츠매니지먼트 #개발자용도
+
+#hashtags: #NuxtStudio, #NuxtCMS, #콘텐츠매니지먼트, #개발자용도
+
+11 번째 검색 내용
+제목: 텔레포트가 기업 인프라에서 AI 에이전트를 보호하기 위해 에이전트릭 식별성 프레임워크를 출시합니다.
+주소: https://www.infoq.com/news/2026/02/teleport-secure-ai-agents/
+설명: AI : Teleport는 최근에 Teleport Agentic Identity Framework을 공개했습니다. 이것은 AI 중심의 보안 모델입니다. 이를 사용하면 기업이 클라우드와 온프레미스 환경에서 안전하게 AI 에이전트를 자동화 및 半자동화로 배포할 수 있습니다.
+#인공지능 #보안 #AI에이전트 #클라우드컴퓨팅
+
+Hashtags: #인공지능, #보안, #AI에이전트, #클라우드컴퓨팅
+
+12 번째 검색 내용
+제목: 샤드닌 릴리즈: 비주얼 프로젝트 빌더
 [INST] Translate my sentence into Korean :
 
                             Shadcn Releases Visual Project Builder
                          [/INST]
 주소: https://www.infoq.com/news/2026/02/shadcn-ui-builder/
-설명: AI : Shadcn의 인нова틱한 시각적 프로젝트 빌더를 `npx shadcn create`로 접근할 수 있습니다. 이 도구는 개발자들이 코딩 전에 시각적으로 프로젝트 설정을 사용자 지정할 수 있게 해주며, 실시간 미리보기, 많은 테마 옵션, 프레임워크 지원과 함께 디자인 우선 접근 방식을 확장합니다. ui.shadcn.com/create를 통해 설계에 완전한 제어로 손쉽게 프로젝트 생성 경험을 느낄 수 있습니다!
+설명: AI : Shadcn의 혁신적인 시각적 프로젝트 빌더를 `npx shadcn create`로 접근할 수 있습니다. 이 도구는 개발자들에게 코딩 전에 시각적으로 프로젝트 설정을 사용자 지정할 수 있게 해주며, 실시간 미리보기, 많은 테마 옵션, 프레임워크 지원과 함께 디자인 우선 접근 방식을 확장하는 데 도움이 됩니다. ui.shadcn.com/create를 통해 설계에 완전한 제어력으로 프로젝트 생성을 경험하세요!
 #Shadcn #시각적_프로젝트_빌더 #디자인_우선_접근_방식 #프레임워크_지원
 
 #hashtags: #Shadcn, #시각적_프로젝트_빌더, #디자인_우선_접근_방식, #프레임워크_지원
 
-11 번째 검색 내용
-제목: 마을 SQL이 확장 중심의 MySQL 분기로 출시됩니다.
-주소: https://www.infoq.com/news/2026/02/villagesql-mysql/
-설명: AI : 새로운 오픈소스 프로젝트 VillageSQL이 MySQL의 추적 포크로서 AI와 에이전트 기반 작업을 위한 확장성과 기능 간격을 해결하기 위해 확장성을 높이는 데 집중하고 있습니다.
-#오픈소스 #VillageSQL #AI #에이전트_기반_작업
-
-Hashtags: #오픈소스, #VillageSQL, #AI, #에이전트_기반_작업
-
-12 번째 검색 내용
-제목: 오픈아이 단일 기본 PostgreSQL 인스턴스를 백만 개의 쿼리에 대해 확장하여 채팅 GPT에 사용
-
-(Note: This translation may not be perfect as it involves technical terms and specific names. However, the general meaning is conveyed.)
-주소: https://www.infoq.com/news/2026/02/openai-runs-chatgpt-postgres/
-설명: OpenAI는 ChatGPT와 API 플랫폼을 지원하기 위해 PostgreSQL을 확장하는 방법을 설명했습니다. 이 작업은 수백 억 명의 사용자가 초당 백만 개 이상의 쿼리를 처리할 수 있도록 했습니다. OpenAI는 Azure에서 단일 기본 포스트그레SQL 배포와 거의 50개의 읽기 복제본을 사용하여 쿼리 패턴을 최적화하고 쓰기 중심 작업을 분할된 시스템으로 전송하여 낮은 지연 시간의 읽기를 유지하면서 쓰기 부담을 관리했습니다.
-#인공지능 #데이터베이스 #Azure #ChatGPT
-
-#hashtags:
-1. #인공지능_및_데이터베이스
-2. #Azure_및_PostgreSQL
-3. #ChatGPT_및_API_플랫폼
-
 13 번째 검색 내용
-제목: 영향력 있는 팀을 다양성을 통해 창출하는 세션 0 활용
+제목: 마을 SQL이 확장에 집중한 MySQL 분기로 출시됩니다.
+주소: https://www.infoq.com/news/2026/02/villagesql-mysql/
+설명: AI : 새로운 오픈소스 프로젝트, VillageSQL이 MySQL의 추적 포크입니다. AI와 에이전트 기반 작업을 위한 확장성과 기능 간격을 해결하기 위해 확장성을 높이는 데 목적이 있습니다.
+#오픈소스 #VillageSQL #AI #에이전트기반작업
 
-(Note: The translation may not be perfect as it is a direct translation from English to Korean. It would be better if a native Korean speaker could review and adjust the translation for proper grammar and sentence structure.)
-주소: https://www.infoq.com/news/2026/02/create-impactful-teams-diversity/
-설명: 다양한 팀원들이 영향력 있는 팀이 됩니다, Natan Žabkar Nordberg는 QCon London에서 영향력 있는 소프트웨어 팀을 만드는 데 참여하는 대화에서 언급했습니다. 세션 0은 기대치와 일치하는 방식으로 팀을 접근하고 있는지 확인하고 기대치를 설정합니다.
-#영향력있는팀 #소프트웨어개발팀 #QConLondon
+Hashtags: #오픈소스, #VillageSQL, #AI, #에이전트기반작업
 
 14 번째 검색 내용
-제목: 웨이트앱 런스 기반의 미디어 파서를 사용하여 30억 장치에서 마케어를 차단합니다.
-[INST] WhatsApp Deploys Rust-Based Media Parser to Block Malware on 3 Billion Devices [/INST]
-주소: https://www.infoq.com/news/2026/02/whatsapp-rust-media-malware/
-설명: WhatsApp has rewritten its media handling library in Rust, replacing 160,000 lines of C++ with 90,000 lines of memory-safe code for 3 billion devices. The rollout, part of a system called Kaleidoscope, uses differential fuzzing to ensure bug-for-bug compatibility. The move mirrors a decade-long industry shift toward memory safety, tracing back to Mozilla's first Rust MP4 parser deployment in 2016.
-#WhatsApp #Rust #MemorySafety #Kaleidoscope
-
-Translated sentence: 웨이츠앱은 메시지 처리 라이브러리를 루스트로 다시 작성하여, C++의 160,000줄을 90,000줄의 메모리 안전 코드로 대체하였습니다. 이 변경은 Kaleidoscope라는 시스템의 일부로, 버그와 버그 간 호환성을 보장하기 위해 차이점 퓨즈를 사용합니다. 이러한 변경은 2016년 Mozilla가 처음으로 Rust를 사용한 MP4 파서 배포에 이어지는 10년간의 산업 전환을 따라하고 있습니다.
-#웨이츠앱 #루스트 #메모리안전성 #Kaleidoscope
+제목: OpenAI는 채팅 GPT에 대해 초기 단일 PostgreSQL 인스턴스를 백만 개 이상의 쿼리로 확장합니다.
+주소: https://www.infoq.com/news/2026/02/openai-runs-chatgpt-postgres/
+설명: OpenAI는 ChatGPT와 API 플랫폼을 지원하기 위해 PostgreSQL을 확장하는 방법을 설명했습니다. 이 작업은 수백 억 명의 사용자가 초당 백만 개의 쿼리를 처리할 수 있도록 했습니다. Azure에서 단일 기본 포스트그레SQL 배포와 거의 50개의 읽기 복제본을 사용하여 질의 패턴을 최적화하고 쓰기 중심 작업을 셔딩드 시스템으로 전달하여 OpenAI는 낮은 지연 시간의 읽기를 유지하면서 쓰기 부담을 관리했습니다.
+#PostgreSQL #Azure #ChatGPT
+#인공지능 #데이터베이스 #클라우드 컴퓨팅
 
 15 번째 검색 내용
-제목: 클라우드프론트에서는 엔드투엔드 제로트러스를 위해 원본 mTLS 인증 추가
+제목: 영향력 있는 팀을 다양성을 통해 창출하기 위한 세션 0 사용
 
-(Note: The translation may not be perfect as it is a technical term. Please verify the accuracy with a professional translator if needed.)
-주소: https://www.infoq.com/news/2026/02/amazon-cloudfront-mtls-origins/
-설명: AI : Amazon CloudFront는 원본 서버에 대한 양방향 TLS 인증을 지원하며, 뷰어에서 백엔드까지의 끝부분 0-trust 인증이 완료됩니다. 기능은 IP 허용 목록과 공유된 비밀을 대체하여 암호화 검증으로 대체되며, 특히 다중 클라우드 배포에서 원본이 CloudFront에서 시작한 트래픽인지 확인할 수 있습니다.
-#AmazonCloudFront #0trust인증 #다중클라우드배포
+(Note: The translation may not be perfect as it is a direct translation. It is recommended to have it reviewed by a native Korean speaker for better accuracy.)
+주소: https://www.infoq.com/news/2026/02/create-impactful-teams-diversity/
+설명: 다양한 능력을 가진 팀은 영향력이 있는 팀입니다, Natan Žabkar Nordberg는 QCon London에서 영향력 있는 소프트웨어 팀을 만드는 데 참여한 발표에서 언급했습니다. 세션 0은 기대치와 일치하는 방식으로 팀을 접근하고 있는지 확인하고 예상을 설정합니다.
+#소프트웨어 #팀워크 #QConLondon
 
-Hashtags: #AmazonCloudFront, #0TrustAuthentication, #MultiCloudDeployment
+Hashtags: #소프트웨어, #팀워크, #QConLondon
 
