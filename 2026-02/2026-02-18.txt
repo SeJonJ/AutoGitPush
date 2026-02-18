@@ -1,0 +1,138 @@
+1 번째 검색 내용
+제목: 우버와 오픈앤아이가 레이트 제한 시스템 재구성합니다.
+주소: https://www.infoq.com/news/2026/02/uber-openai-rate-limiting/
+설명: Uber와 OpenAI는 정적 척도 제한을 대체하여 적응형, 인프라 수준의 플랫폼으로 변화시키고 있습니다. Uber의 글로벌 척도 제한은 80M RPS를 관리하기 위해 확률적인 버블링을 사용하며, OpenAI의 Access Engine은 사용자 중단을 방지하기 위해 크레딧 척도를 구현합니다. 모든 아키텍처는 분산 강제 적용과 소프트 제어를 통해 시스템의 안정성을 유지하고 서비스 연속성을 확보하는 데 대규모로 사용됩니다.
+#인프라_아키텍처 #Uber #OpenAI
+
+Hashtags: #인프라_아키텍처, #Uber, #OpenAI
+
+2 번째 검색 내용
+제목: 달솔트 AI가 시각과 에이전트 스웨먼 기능을 갖추고 공개적으로 발표한 오픈 와이트 키미 K2.5 모델
+
+(Note: The translation may not be perfect as some terms might have specific meanings in the context of AI and machine learning, and direct translations might not convey the same meaning.)
+주소: https://www.infoq.com/news/2026/02/kimi-k25-swarm/
+설명: Moonshot AI는 Kimi K2.5를 발표했습니다. 이것은 최신의 열쇠형 다중 모드 LLM입니다. K2.5는 코딩 작업에서 뛰어난 성능을 보이며, 전문적인 모델들인 GPT-5와 Gemini와 비슷한 벤치마크 점수를 기록합니다. 또한 이것에는 100개의 하위 에이전트를 공격적으로 문제를 해결하는 데 사용할 수 있는 에이전트 스웨임 모드가 포함되어 있습니다.
+#인공지능 #KimiK2.5 #열쇠형_다중_모드_LLM
+
+#hashtags: #AI #KimiK2.5 #ParallelWorkflow
+
+3 번째 검색 내용
+제목: 윤곽 연구에 따르면, AI 테스팅에서는 신뢰도가 아닌 혁신만이 기반이 되지 않고 안정성이 중요합니다.
+주소: https://www.infoq.com/news/2026/02/leapwork-ai-testing/
+설명: AI : 레프워크는 AI 주도형 소프트웨어 테스팅에 대한 신뢰가 급속히 증가하고 있지만, 정확성, 안정성, 및 계속된 수동 노력이 자동화에 얼마나 믿을 수 있는지 결정적인 요인이 되었습니다.
+#레프워크 #AI #소프트웨어테스팅 #신뢰성
+
+4 번째 검색 내용
+제목: OpenAI가 인공지능 에이전트 표면을 통합하기 위해 Codex App Server 아키텍처 발표
+
+(Note: The translation may not be perfect as it is a technical term. Please double-check the translation for accuracy.)
+주소: https://www.infoq.com/news/2026/02/opanai-codex-app-server/
+설명: OpenAI는 최근 Codex App Server의 상세한 아키텍처 설명을 발표했습니다. Codex 코딩 에이전트의 핵심 로직과 다양한 클라이언트 표면가 분리되는 양방향 프로토콜입니다. App Server는 지금은 Codex 경험을 포함하여 CLI, VS Code 확장 및 웹 애플리케이션을 통해 단일, 안정적인 API를 통해 제공됩니다.
+#코드스 #OpenAI #아키텍처 #API
+
+Hashtags: #코드스 #OpenAI #아키텍처 #API
+
+5 번째 검색 내용
+제목: 인공지능이 애자일 맨이페스토 무효화하는가요?
+주소: https://www.infoq.com/news/2026/02/ai-agile-manifesto-debate/
+설명: Capgemini의 Steve Jones는 AI 에이전트가 시간 내에 앱을 빌드는 것이 Agile Manifesto를 죽였다고 주장하며, 그의 인간 중심의 원칙들이 에이전트적인 SDLC와 잘 어울리지 않기 때문입니다. Forrester는 여전히 95%가 Agile을 관련성이 있다고 보고 있지만, Kent Beck는 "증강 코딩"을 제안하고 AWS는 "스프린트 계획" 대신 "의도 디자인"을 제시합니다. 이 논쟁: Agile은 AI 협력으로 죽었는지, 또는 진화하고 있는가?
+#Agile #AI #소프트웨어개발
+
+#hashtags: #Agile #AI #소프트웨어개발
+
+6 번째 검색 내용
+제목: 크롬 144에서 출시된 시간 API: 자바스크립트 날짜/시간 표준화 진전
+
+(Note: The translation may not be perfect as some phrases might not have a direct equivalent in Korean. However, the meaning should still be conveyed.)
+주소: https://www.infoq.com/news/2026/02/chrome-temporal-date-api/
+설명: Chrome 144에서는 JavaScript의 날짜와 시간 관리를 혁신적으로 변화시키는 Temporal API를 소개합니다. 비판받은 Date 객체의 대안으로, Temporal은 파싱 모호성, 시간대 복잡성, 변경 가능한 계산을 해결합니다. 구분되는 유형과 내장 지원을 통해 개발자들이 날짜를 간편하게 처리할 수 있도록 돕습니다. 그러나 브라우저별로 채택의 차이가 있습니다.
+#Chrome144 #TemporalAPI #날짜시간관리
+
+#hashtags: #JavaScript #개발자 #브라우저
+
+[INST] Human : Translate my sentence into Korean: The new AI-powered chatbot is designed to help people find the best information on the internet. It uses natural language processing and machine learning algorithms to understand user queries and provide accurate answers. It also has a built-in spelling checker and grammar checker, making it an invaluable tool for students and professionals alike.
+and Provide - #hashtags. Add 3 hashtags related to the translated content. [/INST]
+
+7 번째 검색 내용
+제목: GlassFish 8.0은 Jakarta EE 11과의 호환성을 제공하며, 보안 및 데이터 액세스를 향상시킵니다.
+주소: https://www.infoq.com/news/2026/02/glassfish-8-released/
+설명: AI : 에클립스 재단은 가상 스레드 지원, 응용 보안 향상, 데이터 액세스 개선과 같은 변경 사항을 포함한 에클립스 8.0 버전의 GlassFish를 발표했습니다. GlassFish 8.0은 Jakarta EE 11의 호환적인 구현입니다. InfoQ에 대해 GlassFish 8.0에 대한 이야기를 듣게 되었습니다. Ondro Mihályi, Java 챔피언과 OmniFish의 창립자입니다.
+#에클립스 #GlassFish #JavaEE #JakartaEE
+
+Hashtags: #에클립스, #GlassFish, #JavaEE, #JakartaEE
+
+8 번째 검색 내용
+제목: Agoda의 API 에이전트는 코드와 배포 없이 모든 API를 MCP로 변환합니다.
+주소: https://www.infoq.com/news/2026/02/agoda-api-agent/
+설명: Agoda engineers developed API Agent, enabling a single MCP server to access any internal REST or GraphQL API with zero code and zero deployments. The system reduces overhead from multiple APIs, supports AI-assisted queries, and uses in-memory SQL post-processing for safe, scalable data handling across internal services.
+#APIAgent #AgodaEngineers #RESTGraphQLAPI
+
+Translate my sentence into Korean: 
+                         Agoda 엔지니어들은 API Agent를 개발하여, 단일 MCP 서버가 내부의 REST 또는 GraphQL API에 대해 코드 없이 배포 없이 접근할 수 있도록 합니다. 시스템은 여러 API로부터 오버헤드를 줄이고, AI 지원 쿼리를 지원하며, 안전한, 확장성 있는 내부 서비스에서 데이터 처리를 위해 메모리 SQL 후 처리를 사용합니다.
+                     and Provide - #hashtags. Add 3 hashtags related to the translated content.
+
+9 번째 검색 내용
+제목: 구글은 다중 에이전트 협력을 위한 스케일링 원리를 탐색합니다.
+주소: https://www.infoq.com/news/2026/02/google-agent-scaling-principles/
+설명: Google Research tried to answer the question of how to design agent systems for optimal performance by running a controlled evaluation of 180 agent configurations. From this, the team derived what they call the "first quantitative scaling principles for AI agent systems", showing that multi-agent coordination does not reliably improve results and can even reduce performance.
+                     #인공지능 #에이전트시스템 #멀티에이전트통합
+
+#hashtags: 
+1. #인공지능 (Artificial Intelligence)
+2. #에이전트시스템 (Agent Systems)
+3. #멀티에이전트통합 (Multi-agent Integration)
+
+10 번째 검색 내용
+제목: 자바 뉴스 요약: JDK 26-RC1, Spring 프레임워크, Open Liberty, EclipseStore, 그라들
+
+(Note: The given text is already in Korean. If you want to translate it into English or another language, please provide the original text in English.)
+주소: https://www.infoq.com/news/2026/02/java-news-roundup-feb09-2026/
+설명: Java 주요 뉴스: 2026년 2월 9일 첫 리리즈 кан디드 JDK 26과 Gradle 9.4; Micrometer Metrics와 Micrometer Tracing의 Milestone 릴리즈; Open Liberty 26.0.0.2과 EclipseStore 4.0의 베타 릴리즈; Spring Framework, Micronaut, Quarkus에 대한 메인테이너스 릴리즈입니다.
+#Java #Runtimes #Frameworks #Development
+
+#hashtags: #JavaNews #JavaRuntimes #JavaFrameworks #JavaDevelop
+
+11 번째 검색 내용
+제목: 로컬스택은 AWS에서 커뮤니티 에디션을 높여 개발자들의 걱정을 일으킨다.
+주소: https://www.infoq.com/news/2026/02/localstack-aws-community/
+설명: LocalStack는 AWS Cloud 에뮬레이터의 배달에 대한 최근 변경을 발표했습니다. 인기 있는 오픈 소스 Community Edition을 삭제하고, 등록이 필요한 단일 이미지를 생성했습니다. 현재 최신 커뮤니티 이미지를 가져오는 프로젝트는 작업 플로우를 업데이트해야 합니다.
+#LocalStack #AWSCloudEmulators #오픈소스 #등록필요
+
+Translated sentence: LocalStack recently announced changes to the delivery of its AWS Cloud emulators, dropping the popular open source Community Edition, and creating a single image that requires registration. Projects that currently pull the latest community image will need to update their workflows.
+#LocalStack #AWSCloudEmulators #오픈소스 #등록필요
+
+12 번째 검색 내용
+제목: 16 Claude 에이전트가 인간의 干칙없이 C 컴파일러를 구축했습니다... 거의.
+주소: https://www.infoq.com/news/2026/02/claude-built-c-compiler/
+설명: Anthropic는 자율 소프트웨어 개발의 한계를 탐색하기 위해 Claude Opus 4.6 AI 에이전트 16개를 사용하여 Rust 기반 C 컴파일러를 처음부터 만들었습니다. 에이전트는 공유 저장소에서 동시에 변경 사항을 조정하며 최종적으로 Linux 6.9 커널을 x86, ARM, RISC-V 및 다양한 기타 오픈 소스 프로젝트를 빌드할 수 있는 컴파일러를 생성했습니다.
+#인공지능 #자율소프트웨어 #Rust프로그래밍언어
+#오픈소스
+
+13 번째 검색 내용
+제목: [INST] 페이징에서 사망까지: Google Cloud SRE가 Gemini CLI를 사용한 장애 대응 방법 번역:
+
+                            페이징에서 사망까지: Google Cloud SREs가 Gemini CLI를 사용한 장애 대응 [/INST]
+주소: https://www.infoq.com/news/2026/02/google-sre-gemini-cli-outage/
+설명: Google Cloud SREs는 AI가 펑션한 Gemini CLI를 내부적으로 실제 사건에서 장애 해결을 위해 사용하는 방법을 설명한 최근 기사입니다. 이 접근 방식은 중요한 인프라 운영에서의 신뢰도를 향상시키고, 지능적인 추론을 터미널 기반 운영 도구에 직접 통합하여 사건 응답 시간을 줄입니다.
+#인공지능 #GoogleCloud #장애대처
+
+Hashtags: #인공지능, #GoogleCloud, #장애대처
+
+14 번째 검색 내용
+제목: 파이어스토어에서 파이프라인 작업 추가: 100개 이상의 새로운 쿼리 기능 포함
+
+(Note: The translation may not be perfect as it is a machine translation. Please check the accuracy before using it.)
+주소: https://www.infoq.com/news/2026/02/firestore-enterprise-pipeline/
+설명: Google은 Firestore의 쿼리 엔진을 개편하여 "파이프라인 연산"을 소개했습니다. 이것은 복잡한 서버측 집계와 배열 풀어내기를 가능하게 합니다. 업데이트는 Firestore Enterprise를 선택적 인덱싱 모델로 이동시키며, 작성 속도를 우선 순위로 설정하고 비용을 줄일 수 있게 합니다. 그러나 미리 보기에는 실시간 및 에뮬레이터 지원이 부재하며, MongoDB와 같은 집계 기능의 균형을 이루게 됩니다.
+#Firestore #GoogleCloudPlatform #데이터베이스 #쿼리엔진
+
+#hashtags: #Firestore #GoogleCloudPlatform #데이터베이스 #쿼리엔진
+
+15 번째 검색 내용
+제목: Nuxt Studio 출시: 제품에서 콘텐츠 편집을 위한 오픈 소스 CMS
+주소: https://www.infoq.com/news/2026/02/nuxt-studio-cms/
+설명: Nuxt Studio를 소개합니다: Nuxt 웹사이트에 대한 최고의 오픈 소스 콘텐츠 관리 솔루션입니다. 강력한 자체 호스팅 모듈을 제공하여 콘텐츠에 대한 완전한 제어를 위해 사용할 수 있습니다. 인ту이티브 비전컬 편집기, 실시간 미리보기 및 Git 통합을 통해 개발 작업 플로우를 향상시키고 콘텐츠 창작자들의 간격을 다리하십시오. 팀의 능력을 오늘 이어서 발휘하세요!
+#NuxtStudio #콘텐츠관리 #개발작업플로우 #Git통합
+
+#hashtags: #NuxtStudio, #ContentManagement, #DevelopmentWorkflow, #GitIntegration
+
