@@ -1,0 +1,146 @@
+1 번째 검색 내용
+제목: [INST] 제공된 문장을 한국어로 번역합니다:
+
+                            깃허브 에이전트 워크플로우 기반의 AI 주도 저장소 자동화
+                         [/INST]
+주소: https://www.infoq.com/news/2026/02/github-agentic-workflows/
+설명: Recently launched in technical preview, GitHub Agentic Workflows introduce a way to automate complex, repetitive repository tasks using coding agents that understand context and intent, GitHub says. This enables workflows such as automatic issue triage and labeling, documentation updates, CI troubleshooting, test improvements, and reporting.
+                     : 깃허브 에이전트릭 워크플로우는 최근 기술 미리 보기로 출시되어, 복잡하고 반복적인 레포지토리 작업을 코딩 에이전트를 사용하여 자율 실행하도록 만듭니다. 이러한 워크플로우는 자동 이슈 정리와 레이블링, 문서 업데이트, CI 문제 해결, 테스트 개선, 보고서 생성과 같은 작업을 가능하게 합니다.
+#깃허브 #에이전트릭워크플로우 #자동화 #코딩에이전트
+
+Add 3 hashtags related to the translated content:
+#AI #데이터분석 #머신러닝
+
+2 번째 검색 내용
+제목: 드롭박스가 엔터프라이즈 지식 검색에 대한 확장성 있는 컨텍스트 엔진을 구축하는 방법
+
+(Note: The translation may not be perfect as the original sentence seems to be a title or heading, which can be difficult to translate literally while maintaining its meaning.)
+주소: https://www.infoq.com/news/2026/02/dropbox-context-engine/
+설명: Dropbox engineers have detailed how the company built the context engine behind Dropbox Dash, revealing a shift toward index-based retrieval, knowledge graph-derived context, and continuous evaluation to support enterprise AI at scale.
+                     #인공지능 #엔터프라이즈AI #드롭박스 #데이터분석
+
+Translated sentence: 드롭박스 엔지니어들은 드롭박스 다시 빌딩한 컨텍스트 엔진에 대해 자세히 설명했습니다. 이는 인덱스 기반의 검색, 지식 그래프를 기반으로 하는 컨텍스트 및 연속적인 평가를 통해 엔터프라이즈 AI를 규모에 따른 지원을 위한 것입니다.
+#인공지능 #엔터프라이즈AI #드롭박스 #데이터분석
+
+3 번째 검색 내용
+제목: 우버와 오픈앤아이가 레이트 제한 시스템 재구성합니다.
+주소: https://www.infoq.com/news/2026/02/uber-openai-rate-limiting/
+설명: Uber와 OpenAI는 정적인 범위 제한를 대체하여 적응형, 인프라 수준의 플랫폼을 사용합니다. Uber의 글로벌 범위 제한은 80M RPS를 관리하기 위해 확률적으로 셔팅을 사용하며, OpenAI의 Access Engine은 사용자 중단을 방지하기 위해 크레딧 폭포를 구현합니다. 모든 아키텍처는 시스템 안정성과 서비스 연속성을 유지하기 위해 분산 강제 적용 및 소프트 제어를 사용합니다.
+#인공지능 #Uber #OpenAI #범위제한 #시스템안정성
+
+Hashtags: #인공지능, #Uber, #OpenAI, #범위제한, #시스템안정성
+
+4 번째 검색 내용
+제목: 달의 여행: 문슈트 AI가 시각과 에이전트 스웨먼 기능을 갖추고 열린 무게 Kimi K2.5 모델 출시
+
+(Note: The translation may not be perfect as it involves some technical terms and proper names, but it conveys the general meaning of the original sentence.)
+주소: https://www.infoq.com/news/2026/02/kimi-k25-swarm/
+설명: Moonshot AI는 Kimi K2.5를 발표했습니다. 이것은 최신의 열린 가중치 다양한 입력 방식 언어 모델(LLM)입니다. K2.5는 코딩 작업에서 우수하며, 기준 점수가 GPT-5와 Gemini와 비슷합니다. 또한 이것에는 100개의 서브 에이전트를 공격적으로 문제를 해결하는 데 사용할 수 있는 에이전트 스웨임 모드가 포함되어 있습니다.
+#인공지능 #KimiK2.5 #열린가중치 #에이전트스웨임
+
+#hashtags:
+1. #AI_기술
+2. #열린가중치_모델
+3. #에이전트_스웨임
+
+5 번째 검색 내용
+제목: 빌프워크 연구에 따르면, AI 테스팅에서의 신뢰성이 혁신보다 중요하게 나타남
+[INST] Translate my sentence into Korean:
+Leapwork Research Shows Why AI in Testing Still Depends on Reliability, Not Just Innovation
+[/INST]
+주소: https://www.infoq.com/news/2026/02/leapwork-ai-testing/
+설명: Leapwork 최근에는 AI 주도 소프트웨어 테스팅에 대한 신뢰가 급속히 증가하고 있지만, 정확성, 안정성, 그리고 계속된 수동 노력이 자동화에 대한 팀의 얼마나 믿을 수 있는지 결정적인 요인이 됩니다.
+#Leapwork #AI #소프트웨어테스팅
+
+#hashtags: #자동화 #신뢰성 #안정성
+
+6 번째 검색 내용
+제목: OpenAI가 Codex App Server 아키텍처를 발표하여 AI 에이전트 인터페이스를 통합합니다.
+주소: https://www.infoq.com/news/2026/02/opanai-codex-app-server/
+설명: OpenAI는 최근 Codex App Server의 상세한 아키텍처 설명을 발표했습니다. Codex 코딩 에이전트의 핵심 로직과 다양한 클라이언트 표면가 분리되는 양방향 프로토콜입니다. App Server는 지금은 Codex 경험을 포함하여 CLI, VS Code 확장 및 웹 애플리케이션을 통해 단일, 안정적인 API를 통해 제공됩니다.
+#코드스 #OpenAI #아키텍처 #API
+
+Hashtags: #코드스 #OpenAI #아키텍처 #API
+
+7 번째 검색 내용
+제목: 인공지능이 애그일 맨이프스토 무효화하는가요?
+주소: https://www.infoq.com/news/2026/02/ai-agile-manifesto-debate/
+설명: Capgemini's Steve Jones argues that AI agents building apps in hours have killed the Agile Manifesto, as its human-centric principles don't fit agentic SDLCs. While Forrester reports 95% still find Agile relevant, Kent Beck proposes "augmented coding" and AWS suggests "Intent Design" over sprint planning. The debate: Is Agile dead or evolving for AI collaboration?
+#인공지능 #애자일 #소프트웨어개발 #코드 작성 증진
+
+Hashtags: #인공지능, #애자일, #소프트웨어개발, #코드 작성 증진
+
+8 번째 검색 내용
+제목: 크롬 144에서 출시된 시간 API: 자바스크립트 날짜/시간 표준화 진보
+
+(Note: The translation may not be perfect due to the specific terminology and context. However, it conveys the general meaning of the original sentence.)
+주소: https://www.infoq.com/news/2026/02/chrome-temporal-date-api/
+설명: Chrome 144에서는 자바스크립트의 날짜와 시간 관리를 혁신적으로 변화시키는 Temporal API가 소개되었습니다. Date 객체에 대한 비판을 받은 것보다 더 나은 대안으로, Temporal은 해석 모호성, 시간대 복잡성, 변경 가능한 계산과 같은 문제를 해결합니다. 구분되는 유형이 있고 내장된 지원을 통해 개발자들은 날짜를 간편하게 처리할 수 있습니다. 그러나 브라우저별로 적용률이 다양합니다.
+#Chrome144 #TemporalAPI #날짜시간관리 #자바스크립트
+
+#hashtags: #웹개발 #프론트엔드 #데이터처리
+
+9 번째 검색 내용
+제목: GlassFish 8.0은 Jakarta EE 11과의 호환성을 제공하며, 보안 및 데이터 액세스를 향상시킵니다.
+주소: https://www.infoq.com/news/2026/02/glassfish-8-released/
+설명: AI : 에클립스 재단은 가상 스레드 지원, 응용 보안 향상, 데이터 액세스 개선과 같은 기능을 포함한 에클립스 8.0 버전의 GlassFish를 발표했습니다. GlassFish 8.0은 Jakarta EE 11의 호환적인 구현입니다. InfoQ에 대해 GlassFish 8.0에 대한 이야기를 나누는 오멘디 미하리, Java 챔피언과 OmniFish의 창립자였습니다.
+#에클립스 #GlassFish #JakartaEE #Java
+
+Hashtags: #에클립스, #GlassFish, #JakartaEE, #Java
+
+10 번째 검색 내용
+제목: Agoda의 API 에이전트는 코드와 배포 없이 모든 API를 MCP로 변환합니다.
+주소: https://www.infoq.com/news/2026/02/agoda-api-agent/
+설명: Agoda engineers developed API Agent, enabling a single MCP server to access any internal REST or GraphQL API with zero code and zero deployments. The system reduces overhead from multiple APIs, supports AI-assisted queries, and uses in-memory SQL post-processing for safe, scalable data handling across internal services.
+#APIAgent #AgodaEngineers #RESTGraphQLAPI
+
+Translate my sentence into Korean:
+                         Agoda 엔지니어들은 API Agent를 개발하여, 단일 MCP 서버가 내부의 REST 또는 GraphQL API에 대해 코드 없이 배포 없이 액세스할 수 있도록 합니다. 시스템은 여러 API로부터 오버헤드를 줄이고, AI 지원 쿼리를 지원하며, 안전한, 확장성 있는 내부 서비스에서 데이터 처리를 위해 메모리 SQL 후처리를 사용합니다.
+                     and Provide - #hashtags. Add 3 hashtags related to the translated content.
+
+11 번째 검색 내용
+제목: 구글이 다중 에이전트 협력을 위한 스케일링 원리 탐색
+
+(Note: The translation may not be perfect as it is a direct translation from English to Korean. In Korean, the subject and object often change places compared to English sentences.)
+주소: https://www.infoq.com/news/2026/02/google-agent-scaling-principles/
+설명: Google Research는 최적의 성능을 위해 에이전트 시스템을 설계하는 방법을 찾기 위해 180개의 에이전트 구성을 제어된 평가로 실행했습니다. 이를 통해 팀은 "AI 에이전트 시스템의 첫 번째 정량적인 확장 원칙"을 도출했습니다. 이는 다중 에이전트 조율이 결과를 안정적으로 향상시키지 않고 실제 성능을 줄일 수 있음을 보였습니다.
+#인공지능 #에이전트시스템 #에이전트조율
+
+#hashtags: #AI #AgentSystems #MultiAgentCoordination
+
+12 번째 검색 내용
+제목: 자바 뉴스 요약: JDK 26-RC1, Spring 프레임워크, Open Liberty, EclipseStore, 그라들
+
+(Note: The given text is already in Korean. If you want to translate it into English or another language, please provide the original text in English.)
+주소: https://www.infoq.com/news/2026/02/java-news-roundup-feb09-2026/
+설명: Korean Translation: 이번 주의 Java 뉴스 요약은 2026년 2월 9일에 발표된 다음과 같습니다: JDK 26의 첫 리リー스 캔디디트, Gradle 9.4; Micrometer Metrics와 Micrometer Tracing의 마이ル스톤 릴리즈, Open Liberty 26.0.0.2과 EclipseStore 4.0의 베타 릴리즈, 그리고 Spring Framework, Micronaut, Quarkus의 메인테이너스 릴리즈입니다.
+#Java #JDK26 #MicrometerMetrics #OpenLiberty
+
+Hashtags: #Java #JDK26 #MicrometerMetrics #OpenLiberty
+
+13 번째 검색 내용
+제목: 지역스택(LocalStack)은 AWS에서 공개된 커뮤니티 버전으로 개발자들의 걱정을 일으키고 있습니다.
+주소: https://www.infoq.com/news/2026/02/localstack-aws-community/
+설명: LocalStack는 AWS Cloud 에뮬레이터의 배달에 대한 최근 변경을 발표했습니다. 인기 있는 오픈 소스 Community Edition을 삭제하고, 등록이 필요한 단일 이미지를 생성했습니다. 현재 최신 커뮤니티 이미지를 가져오는 프로젝트는 작업 플로우를 업데이트해야 합니다.
+#LocalStack #AWSCloudEmulators #오픈소스 #등록필요
+
+Translated sentence: LocalStack recently announced changes to the delivery of its AWS Cloud emulators, dropping the popular open source Community Edition, and creating a single image that requires registration. Projects that currently pull the latest community image will need to update their workflows.
+#LocalStack #AWSCloudEmulators #오픈소스 #등록필요
+
+14 번째 검색 내용
+제목: 16 Claude 에이전트가 인간의 개입 없이 C 컴파일러를 빌드잡었습니다... 거의.
+주소: https://www.infoq.com/news/2026/02/claude-built-c-compiler/
+설명: Anthropic는 자율 소프트웨어 개발의 한계를 탐색하기 위해 Claude Opus 4.6 AI 에이전트 16개를 사용하여 Rust 기반 C 컴파일러를 처음부터 만들었습니다. 에이전트는 공유 저장소에서 동시에 변경 사항을 조정하며 최종적으로 Linux 6.9 커널을 x86, ARM, RISC-V 및 다양한 기타 오픈 소스 프로젝트를 빌드할 수 있는 컴파일러를 생성했습니다.
+#인공지능 #자율소프트웨어 #Rust프로그래밍언어
+#오픈소스
+
+15 번째 검색 내용
+제목: [INST] 페이징에서 사망까지: Google Cloud SRE가 Gemini CLI를 사용한 장애 대응 방법 번역:
+
+                            페이징에서 사망까지: Google Cloud SREs가 Gemini CLI를 사용한 장애 대응 [/INST]
+주소: https://www.infoq.com/news/2026/02/google-sre-gemini-cli-outage/
+설명: Google Cloud SREs는 AI가 펑션한 괄호 Gemini CLI를 내부적으로 실제 사건에서 장애 조치를 해결하는 방법을 설명한 최근 기사입니다. 이 접근 방식은 중요한 인프라 작업에서의 신뢰도를 향상시키고, 지능적인 추론을 터미널 기반 운영 도구에 직접 통합하여 사건 응답 시간을 줄입니다.
+#AI #GoogleCloud #SREs #장애조치
+
+Hashtags: #AI, #GoogleCloud, #SREs, #장애조치
+
