@@ -1,0 +1,143 @@
+1 번째 검색 내용
+제목: [INST] 센텀 번역: 
+
+                            48시간에서 4시간으로 줄인 온보딩: Amazon Key의 이벤트 기반 플랫폼 내에서
+                         [/INST]
+주소: https://www.infoq.com/news/2026/02/amazon-key-event-driven-platform/
+설명: Amazon Key는 Amazon EventBridge를 사용하여 중앙화된, 이벤트 기반 아키텍처로 이벤트 플랫폼을 모дер니자했습니다. 리디자인은 일일 이벤트를 밀리초 지연으로 처리하며, 스키마 관리를 개선하고, 크로스 계정 라우팅을 자동화하여, 서비스 보드닝 시간을 48시간에서 4시간으로 줄였으며, 99.99%의 신뢰도를 유지합니다.
+#AmazonEventBridge #이벤트기반아키텍처 #중앙화된아키텍처 #신뢰도
+
+#hashtags: #AmazonKey #이벤트플랫폼 #서비스보드닝
+#AmazonEventBridge #신뢰도 #이벤트기반아키텍처
+#중앙화된아키텍처 #이벤트처리 #크로스계정라우팅
+
+2 번째 검색 내용
+제목: 작은 지원 팀이 분산 테스트에 대한 단일 환경을 채택하는 데 어떻게 도움을 주었는지 설명합니다.
+주소: https://www.infoq.com/news/2026/02/environment-distributed-testing/
+설명: Po Linn Chia는 Dev Summit Boston에서 "No QA Environment? No Problem"라는 제목의 발표에서 분산 시스템을 테스트하기 위해 여러 서비스 버전을 사용할 수 있도록 단일한 개발 환경을 재사용하는 방법을 설명했습니다. 작은 협력 팀, 문화적 동의, 및 조금씩 배우며 팀들이 협력하고 인지 부하를 줄이고 테스팅 방법을 확장할 수 있도록 돕는 것이 도움이 되었습니다.
+#DevSummitBoston #협력 #테스팅 #인지부하
+
+#hashtags: #DevSummitBoston, #협력, #테스팅, #인지부하
+
+3 번째 검색 내용
+제목: 
+주소: https://www.infoq.com/news/2026/02/hugging-face-evals/
+설명: Hugging Face는 허브에서 벤치마크 데이터셋을 호스팅하고 모델 저장소에서 자동으로 평가 결과를 수집할 수 있는 리더보드를 자체적으로 운영할 수 있는 Community Evals 기능을 출시했습니다.
+#허브 #벤치마크데이터셋 #리더보드 #평가결과
+
+#hashtags: #AI #머신러닝 #데이터사이언스
+
+4 번째 검색 내용
+제목: [INST] 제공된 문장을 한글로 번역합니다:
+
+GitHub 에지 워크플로우를 통해 AI가 주도하는 저장소 자동화 풀어놓기
+[/INST]
+주소: https://www.infoq.com/news/2026/02/github-agentic-workflows/
+설명: Recently launched in technical preview, GitHub Agentic Workflows introduce a way to automate complex, repetitive repository tasks using coding agents that understand context and intent, GitHub says. This enables workflows such as automatic issue triage and labeling, documentation updates, CI troubleshooting, test improvements, and reporting.
+                     #GitHubAgenticWorkflows #자동화 #저장소 작업 #CI/CD
+
+Translated content:
+Recently launched in technical preview, GitHub Agentic Workflows introduce a way to automate complex, repetitive repository tasks using coding agents that understand context and intent, GitHub says. This enables workflows such as automatic issue triage and labeling, documentation updates, CI troubleshooting, test improvements, and reporting.
+                     #GitHubAgenticWorkflows #자동화 #저장소 작업 #CI/CD
+
+Hashtags:
+#GitHubAgenticWorkflows
+#자동화
+#저장소 작업
+#CI/CD
+
+5 번째 검색 내용
+제목: 드롭박스는 엔터프라이즈 지식 검색에 대한 확장성 있는 컨텍스트 엔진을 구축하는 방법
+(Dropbox Neunseupyariseu-eui Kyongjeok Geotdaegi Gyeoksaek Charyeong-eul Gosuhaeng Haneun Banseong-eun Gyesim-eun Kwanghyang-eseo Gwihan-i Gyeolhon-ila)
+주소: https://www.infoq.com/news/2026/02/dropbox-context-engine/
+설명: Dropbox engineers have detailed how the company built the context engine behind Dropbox Dash, revealing a shift toward index-based retrieval, knowledge graph-derived context, and continuous evaluation to support enterprise AI at scale.
+                     #인공지능 #엔터프라이즈AI #드롭박스 #데이터분석
+
+Translate my sentence into Korean: Dropbox engineers have detailed how the company built the context engine behind Dropbox Dash, revealing a shift toward index-based retrieval, knowledge graph-derived context, and continuous evaluation to support enterprise AI at scale.
+                     and Provide - #hashtags. Add 3 hashtags related to the translated content.
+
+6 번째 검색 내용
+제목: 우버와 오픈앤아이가 레이트 제한 시스템 재구성합니다.
+주소: https://www.infoq.com/news/2026/02/uber-openai-rate-limiting/
+설명: Uber와 OpenAI는 정적인 률 제한을 대체하여 적응형, 인프라 수준의 플랫폼으로 변화시키고 있습니다. Uber의 글로벌 률 리미터는 확률적인 스레딩을 사용하여 80억 RPS를 관리하며, OpenAI의 Access Engine은 사용자 중단을 방지하기 위해 크레딧 폭포를 구현합니다. 모든 아키텍처는 시스템 안정성과 서비스 연속성을 유지하기 위해 분산 강제 적용 및 소프트 컨트롤을 사용합니다.
+#인공지능 #Uber #OpenAI #시스템안정성 #서비스연속성
+
+7 번째 검색 내용
+제목: 달솔트 AI가 시각과 에이전트 스웨먼 기능을 갖추고 공개적으로 발표한 오픈 와이트 키미 K2.5 모델
+[INST] Translate my sentence into Korean:
+
+달솔트 AI가 시각과 에이전트 스웨먼 기능을 갖추고 공개적으로 발표한 오픈 와이트 키미 K2.5 모델
+[/INST]
+주소: https://www.infoq.com/news/2026/02/kimi-k25-swarm/
+설명: Moonshot AI는 Kimi K2.5를 발표했습니다. 이것은 최신의 열쇠형 다중 모드 LLM입니다. K2.5는 코딩 작업에서 뛰어난 성능을 보이며, 전문적인 모델들인 GPT-5와 Gemini와 비슷한 벤치마크 점수를 기록합니다. 또한 이것에는 100개의 하위 에이전트를 공격적으로 문제를 해결하는 데 사용할 수 있는 에이전트 스웨임 모드가 포함되어 있습니다.
+#인공지능 #KimiK2.5 #열쇠형_다중_모드_LLM
+
+#hashtags: #AI #KimiK2.5 #MultiModalLLM
+
+8 번째 검색 내용
+제목: 윤곽 연구에 따르면, AI 테스팅에서는 신뢰도가 아닌 혁신에 의존하지 않습니다.
+주소: https://www.infoq.com/news/2026/02/leapwork-ai-testing/
+설명: Leapwork 최근에는 AI 주도 소프트웨어 테스팅에 대한 신뢰가 급속히 증가하고 있지만, 정확성, 안정성, 및 계속된 수동 노력이 자동화를 어느 정도까지 신뢰할 때 결정적인 요인이 됩니다.
+#Leapwork #AI #소프트웨어테스팅 #자동화
+
+#hashtags: #인공지능 #소프트웨어테스팅 #자동화 #신뢰성 #정확도 #안정성 #수동노력
+
+9 번째 검색 내용
+제목: OpenAI가 Codex App Server 아키텍처를 게시하여 AI 에이전트 표면을 통합합니다.
+주소: https://www.infoq.com/news/2026/02/opanai-codex-app-server/
+설명: OpenAI는 최근 Codex App Server의 상세한 아키텍처 설명을 발표했습니다. Codex 코딩 에이전트의 핵심 로직과 다양한 클라이언트 표면를 분리하는 양방향 프로토콜입니다. App Server는 지금은 Codex 경험을 포함하여 CLI, VS Code 확장 및 웹 애플리케이션을 통해 단일, 안정적인 API를 통해 제공됩니다.
+#코드스 #OpenAI #아키텍처 #API
+
+Hashtags: #코드스 #OpenAI #아키텍처 #API
+
+10 번째 검색 내용
+제목: 인공지능이 애자일 맨이페스토 무효화하는가요?
+주소: https://www.infoq.com/news/2026/02/ai-agile-manifesto-debate/
+설명: Capgemini의 Steve Jones는 AI 에이전트가 시간 내에 앱을 빌드는 것이 Agile Manifesto를 죽였다고 주장하며, 그의 인간 중심적인 원칙은 에이전트 기반의 SDLC와 잘 어울리지 않습니다. Forrester는 여전히 95%가 Agile을 관련성이 있다고 보고 있지만, Kent Beck는 "증강 코딩"을 제안하고 AWS는 "스프린트 계획" 대신 "인텐트 디자인"을 제안합니다. 이 논쟁: Agile은 AI 협력으로 죽었는지, 또는 진화하고 있는가?
+
+#hashtags: #AgileManifesto #AI #인공지능 #에이전트 #증강코딩 #인텐트디자인
+
+11 번째 검색 내용
+제목: 크롬 144에서 출시된 시간 API: 자바스크립트 날짜/시간 표준화 진보
+
+(Note: The translation may not be perfect due to the specific terminology and context. However, it conveys the general meaning of the original sentence.)
+주소: https://www.infoq.com/news/2026/02/chrome-temporal-date-api/
+설명: Chrome 144에서는 JavaScript의 날짜와 시간 관리를 혁신적으로 변화시키는 Temporal API를 소개합니다. Date 객체에 대한 비판을 받은 것보다 더 나은 대안으로, Temporal은 파싱 모호성, 시간대 복잡성, 변경 가능한 계산의 문제를 해결합니다. 구분된 유형이 있고 내장 지원을 통해 개발자들은 날짜를 간편하게 처리할 수 있습니다. 그러나 브라우저별로 적용률이 다양합니다.
+#Chrome144 #TemporalAPI #날짜시간관리 #JavaScript
+
+#hashtags: #Chrome, #Temporal, #DateManagement
+
+12 번째 검색 내용
+제목: GlassFish 8.0은 Jakarta EE 11과의 호환성을 제공하며, 보안 및 데이터 액세스를 향상시킵니다.
+주소: https://www.infoq.com/news/2026/02/glassfish-8-released/
+설명: AI : 에클립스 재단은 가상 스레드 지원, 응용 보안 향상, 데이터 액세스 개선과 같은 기능을 포함한 GlassFish 8.0 버전을 출시했습니다. GlassFish 8.0은 Jakarta EE 11의 호환된 구현입니다. InfoQ에 대해 GlassFish 8.0에 대한 인터뷰를 진행한 Ondro Mihályi, Java 챔피언이자 OmniFish의 창립자입니다.
+#에클립스_재단 #가상_스레드 #GlassFish_8.0 #Jakarta_EE_11
+
+13 번째 검색 내용
+제목: Agoda의 API 에이전트는 코드와 배포 없이 모든 API를 MCP로 변환합니다.
+주소: https://www.infoq.com/news/2026/02/agoda-api-agent/
+설명: Agoda engineers developed API Agent, enabling a single MCP server to access any internal REST or GraphQL API with zero code and zero deployments. The system reduces overhead from multiple APIs, supports AI-assisted queries, and uses in-memory SQL post-processing for safe, scalable data handling across internal services.
+#APIAgent #AgodaEngineers #RESTGraphQLAPI
+
+Translate my sentence into Korean:
+                         Agoda 엔지니어들은 API Agent를 개발하여, 단일 MCP 서버가 내부의 REST 또는 GraphQL API에 대해 코드 없이 배포 없이 액세스할 수 있도록 합니다. 시스템은 여러 API로부터 오버헤드를 줄이고, AI 지원 쿼리를 지원하며, 안전하고 확장성 있는 내부 서비스에서 데이터 처리를 위해 메모리 SQL 후 처리를 사용합니다.
+                     and Provide - #hashtags. Add 3 hashtags related to the translated content. [/INST]
+
+14 번째 검색 내용
+제목: 구글은 다중 에이전트 협력을 위한 스케일링 원리를 탐색합니다.
+주소: https://www.infoq.com/news/2026/02/google-agent-scaling-principles/
+설명: Google Research는 최적의 성능을 위해 에이전트 시스템을 설계하는 방법을 찾기 위해 180개의 에이전트 구성을 제어된 평가로 실행했습니다. 이를 통해 팀은 "AI 에이전트 시스템의 첫 번째 정량적인 확장 원칙"을 도출했습니다. 이는 다중 에이전트 조정이 결과를 안정적으로 개선하지 않고 성능을 줄일 수 있음을 보여줍니다.
+#인공지능 #에이전트시스템 #에이전트조정 #확장원칙
+
+Hashtags: #인공지능, #에이전트시스템, #에이전트조정, #확장원칙
+
+15 번째 검색 내용
+제목: 자바 뉴스 요약: JDK 26-RC1, Spring 프레임워크, Open Liberty, EclipseStore, 그라들
+
+(Note: The given text is already in Korean. If you want to translate it into another language, please provide the desired target language.)
+주소: https://www.infoq.com/news/2026/02/java-news-roundup-feb09-2026/
+설명: Korean Translation: 이번 주의 Java 뉴스 요약은 2026년 2월 9일에 발표된 JDK 26과 Gradle 9.4의 첫 리리스 캔디드, Micrometer Metrics와 Micrometer Tracing의 마이ル스톤 릴리즈, Open Liberty 26.0.0.2와 EclipseStore 4.0의 베타 릴리즈, 그리고 Spring Framework, Micronaut, Quarkus의 메인테인스 릴리즈를 강조합니다.
+#Java #JDK26 #Gradle9.4 #MicrometerMetrics
+
+Hashtags: #Java #JDK26 #Gradle9.4 #MicrometerMetrics #Micronaut #Quarkus #OpenLiberty #EclipseStore
+
