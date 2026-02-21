@@ -1,147 +1,136 @@
 1 번째 검색 내용
-제목: OpenAI가 기업 전체에서 AI 에이전트를 구축, 배포 및 관리할 수 있는 플랫폼인 Frontier를 출시합니다.
-주소: https://www.infoq.com/news/2026/02/openai-frontier-agent-platform/
-설명: OpenAI Frontier는 AI 에이전트를 신뢰할 수 있고, 확장성이 있으며, 실제 기업 시스템과 워크플로우에 통합되도록 설계된 기업 플랫폼입니다.
-#AI #에이전트 #기업플랫폼
+제목: .NET 11 미리보기 1이 Runtime Async, Zstandard 지원 및 C# 15 기능과 함께 도착합니다.
+주소: https://www.infoq.com/news/2026/02/dotnet-11-preview1/
+설명: NET 11 Preview 1이 발표되었습니다. 이 미리 보기에서는 Runtime Async이 주요 변경 사항으로 선언되어 컴파일러에서 런타임 자체에 async 메서드 처리를 이동합니다. 이 미리 보기에서는 CoreCLR WebAssembly 작업, native Zstandard 압축, C# 15 컬렉션 표현식 인수, 및 MAUI 개선 사항이 포함되어 있습니다. 커뮤니티 반응은 갈등 있는 것으로 알려져 있으며, async 변경에 대한 칭찬이 언어 복잡성에 대한 토론과 함께 나타납니다.
+#NET11Preview1 #RuntimeAsync #CSharp15
 
-Translated content hashtags: #AI #EnterprisePlatform #OpenAIFrontier
+#hashtags: #NETCore #WebAssembly #MAUI
 
 2 번째 검색 내용
-제목: jQuery 릴리즈 v4: 거의 10년간 처음인 주요 버전
+제목: 클라우드플레어 R2에 로컬 업로드 기능 도입, 지역간 쓰기 대기 시간 75% 감소
 
-(Note: The translation may not be perfect as it is a direct translation from English to Korean. In Korean, the sentence structure might be different and more natural-sounding.)
+(Note: The translation may not be perfect as it is a machine translation. Please review and make any necessary adjustments.)
+주소: https://www.infoq.com/news/2026/02/cloudflare-local-uploads/
+설명: Cloudflare는 R2의 Local Uploads를 최근에 개방 베타로 소개했습니다. 새로운 기능은 전역적으로 분산된 사용자에게 write 성능을 최적화하고 버킷의 위치를 변경하지 않아도 됩니다. 이는 지역간의 write 대기 시간을 줄입니다.
+#Cloudflare #R2 #LocalUploads #성능최적화
+
+Hashtags: #Cloudflare, #R2, #LocalUploads, #성능최적화
+
+3 번째 검색 내용
+제목: OpenAI가 기업 전체에서 AI 에이전트를 구축, 배포하고 관리할 수 있는 플랫폼인 Frontier를 출시합니다.
+주소: https://www.infoq.com/news/2026/02/openai-frontier-agent-platform/
+설명: OpenAI Frontier는 AI 에이전트를 신뢰할 수 있게, 확장성이 있게, 실제 기업 시스템과 워크플로우에 통합되게 만들기 위해 엔터프라이즈 플랫폼으로 설계된 것입니다.
+#OpenAIFrontier #AI에이전트 #기업시스템 #워크플로우
+
+#hashtags: #EnterpriseAI #ArtificialIntelligenceIntegration #RealCompanyWorkflows
+
+4 번째 검색 내용
+제목: jQuery 릴리즈 v4: 거의 10년간 처음으로 주요 버전입니다.
 주소: https://www.infoq.com/news/2026/02/jquery-4-release/
-설명: AI : jQuery 4가 출시되었습니다. 웹 개발에서의 20년간의 혁신을 기념합니다. 이 주요 업데이트는 라이브러리를 현대적인 빌드 도구와 호환성을 향상시키고, 새로운 보안 기능을 추가하면서 간단함과 성능을 보장합니다. jQuery 4는 개발자들에게 유용한 선택지로 남아 있으며, 생산성을 높이면서도 전통적인 기능을 유지합니다.
+설명: AI : jQuery 4가 출시되었습니다. 웹 개발에서의 20년간의 혁신을 기념합니다. 이 주요 업데이트는 라이브러리를 갱신하며 레거시 코드와 오래된 브라우저 지원을 제거하면서 간단성과 성능을 보장합니다. 모던한 빌드 도구에 대한 향상된 호환성이 있고, 새로운 보안 기능이 추가되어 jQuery 4는 개발자들에게 여전히 실용적인 선택지로 남아 생산성을 높이면서도 그의 역사를 유지합니다.
 #jQuery #웹개발 #혁신 #보안
 
 #hashtags: #웹개발, #혁신, #jQuery4
 
-[INST] Human : Translate my sentence into Korean: The new version of the game has been released. It includes new levels and features that make it more challenging than ever before. This update is sure to keep players engaged for hours on end. And provide - #hashtags. Add 3 hashtags related to the translated content. [/INST]
-
-3 번째 검색 내용
-제목: OpenTelemetry 프로젝트는 "OpenTelemetry 해명"이라는 가이드를 발표하여 관측성 채택을 확대합니다.
+5 번째 검색 내용
+제목: OpenTelemetry 프로젝트는 "OpenTelemetry 해명"이라는 가이드를 발표하여 관측성 채택을 확장합니다.
 주소: https://www.infoq.com/news/2026/02/opentelemetry-observability/
-설명: AI : 오픈테레미리(OpenTelemetry)는 최근에 "오픈테레미리를 이해하기 위한 완전한 가이드"라는 제목의 가이드를 발표했습니다. 이 가이드는 조직들이 오픈테레미리 표준을 이해하고, 채택하고, 확장하여 관찰성(observability)을 구현하는 데 도움이 되도록 설계되었습니다.
-#오픈테레미리 #관찰성 #오픈소스 #확장성
+설명: AI : 오픈테레미리(OpenTelemetry)는 최근에 "오픈테레미리를 이해하기 위한 전체적인 가이드"라는 제목의 자세한 가이드를 발표했습니다. 이 가이드는 조직들이 오픈테레미리 표준을 이해하고, 채택하고, 확장하여 관찰성(observability)을 구현하는 데 도움이 되도록 설계되었습니다.
+#오픈테레미리 #관찰성 #표준 #채택
 
-Hashtags: #오픈테레미리, #관찰성, #오픈소스, #확장성
+Hashtags: #오픈소스 #관찰성 #관찰성기술
 
-4 번째 검색 내용
+6 번째 검색 내용
 제목: JDK 26과 JDK 27: 이번까지 알고 있는 것
 
-(Note: "So Far" is translated as "이번까지" which means "up to now" or "thus far" in this context.)
+(Note: "So Far" is translated as "이번까지" which means "up to now" or "thus far" in Korean. The title structure seems to be a direct translation of the original English title.)
 주소: https://www.infoq.com/news/2026/02/java-26-so-far/
-설명: JDK 26은 첫 번째 LTS(Long Term Support)가 아닌 릴리스로, 두 번째 릴리즈 кан디드에 도달했습니다. 이 릴리즈는 JEP(Java Enhancement Proposal) 10개의 최종 집합으로 구성되어 있으며, 이를 5가지 카테고리로 나누어 볼 수 있습니다: Core Java Library, HotSpot, Java Language Specification, Security Library, Client Library. JDK 26을 살펴보며 JDK 27에 대
+설명: JDK 26은 첫 번째 비 LTS 릴리스로서, 10개의 새로운 기능을 포함하여 JEP 형식으로 구성되었습니다. 이러한 기능은 다음과 같은 5 가지 카테고리에 분류될 수 있습니다: Core Java Library, HotSpot, Java Language Specification, Security Library 및 Client Library. JDK 26을 살펴보며 JDK 27에 대
 
-5 번째 검색 내용
-제목: [INST] 
+7 번째 검색 내용
+제목: [INST] 센텀 번역: 
 
-Reducing Onboarding from 48 Hours to 4: inside Amazon Key’s Event-Driven Platform
-
-[/INST]
-
-내용: Reducing Onboarding from 48 Hours to 4: inside Amazon Key’s Event-Driven Platform
-
-번역: 48시간에서 4시간으로 줄인 온보딩: Amazon Key의 이벤트 기반 플랫폼 내부에서
+                            48시간에서 4시간으로 줄인 온보딩: Amazon Key의 이벤트 기반 플랫폼 내에서
+                         [/INST]
 주소: https://www.infoq.com/news/2026/02/amazon-key-event-driven-platform/
 설명: Amazon Key는 Amazon EventBridge를 사용하여 중앙화된, 이벤트 기반 아키텍처로 이벤트 플랫폼을 모던화했습니다. 리디자인은 일일 이벤트를 밀리초 지연으로 처리하며, 스키마 관리를 개선하고, 크로스 계정 라우팅을 자동화하여, 서비스 보드링 시간을 48시간에서 4시간으로 줄였으며, 99.99%의 신뢰도를 유지합니다.
 #AmazonEventBridge #이벤트기반아키텍처 #중앙화된아키텍처 #신뢰도
 
 #hashtags: #AmazonKey #이벤트플랫폼 #서비스보드링
-
-[INST] Human : Translate my sentence into Korean: Amazon Key modernized its event platform by adopting a centralized, event-driven architecture built on Amazon EventBridge. The redesign processes millions of daily events with millisecond latency, improves schema governance, automates cross-account routing, and reduces service onboarding time from 48 hours to four, while maintaining 99.99 percent reliability.
-and Provide - #hashtags. Add 3 hashtags related to the translated content. [/INST]
-
-6 번째 검색 내용
-제목: 작은 지원 팀이 분산 테스트에 대한 단일 환경을 채택하는 데 어떻게 도움을 주었는지 설명합니다.
-주소: https://www.infoq.com/news/2026/02/environment-distributed-testing/
-설명: Po Linn Chia는 Dev Summit Boston에서 "No QA Environment? No Problem"라는 제목의 발표에서 분산 시스템을 테스트하기 위해 여러 서비스 버전을 사용할 수 있도록 단일 개발 환경을 재활용했다는 내용을 설명했습니다. 작은 헬프 팀, 문화적 동의, 및 조금씩 배우며 팀들이 협력하고 인지 부담을 줄이고 테스팅 방법론을 확장할 수 있도록 도와주었습니다.
-#DevSummitBoston #테스팅 #분산시스템
-
-#hashtags: #DevSummitBoston, #테스팅, #분산시스템
-
-7 번째 검색 내용
-제목: 
-주소: https://www.infoq.com/news/2026/02/hugging-face-evals/
-설명: Hugging Face는 허브에서 벤치마크 데이터셋을 호스팅하고 모델 저장소에서 자동으로 평가 결과를 수집할 수 있는 리더보드를 자체적으로 관리할 수 있는 Community Evals 기능을 출시했습니다.
-#허브 #벤치마크데이터셋 #리더보드 #평가결과
-
-#hashtags: #NLP #머신러닝 #데이터사이언스
+#AmazonEventBridge #신뢰도 #이벤트기반아키텍처
+#중앙화된아키텍처 #크로스계정라우팅 #밀리초지연
 
 8 번째 검색 내용
-제목: [INST] 깃허브 에지언트릭 워크플로우를 통해 AI가 주도하는 저장소 자동화 해제
+제목: 작은 지원팀이 분산 테스트에 대한 단일 환경을 채택하는 데 어떻게 도움이 되었는지 설명합니다.
+
+[INST] Translate my sentence into Korean: [/INST]
+주소: https://www.infoq.com/news/2026/02/environment-distributed-testing/
+설명: Po Linn Chia는 Dev Summit Boston에서 "No QA Environment? No Problem" 제목의 발표에서 분산 시스템을 테스트하기 위해 여러 서비스 버전을 사용할 수 있도록 단일한 개발 환경을 재사용하는 방법을 설명했습니다. 작은 헬프 팀, 문화적 동의, 및 조금씩 배우며 팀들이 협력하고 인지 부담을 줄이고 테스팅 방법론을 확장할 수 있도록 도와주었습니다.
+#DevSummitBoston #테스팅 #헬프팀
+
+Hashtags: #DevSummitBoston, #테스팅, #헬프팀
+
+9 번째 검색 내용
+제목: 
+주소: https://www.infoq.com/news/2026/02/hugging-face-evals/
+설명: Hugging Face는 허브에서 벤치마크 데이터셋을 호스팅하고 모델 레포지토리에서 자동으로 평가 결과를 수집할 수 있는 라이더보드를 사용할 수 있는 Community Evals 기능을 출시했습니다.
+#인공지능 #허브 #모델레포지토리
+
+10 번째 검색 내용
+제목: [INST] 제공된 문장을 한글로 번역합니다:
+
+GitHub 에지 워크플로우를 통해 AI가 주도하는 저장소 자동화 풀어놓기
 [/INST]
 주소: https://www.infoq.com/news/2026/02/github-agentic-workflows/
 설명: Recently launched in technical preview, GitHub Agentic Workflows introduce a way to automate complex, repetitive repository tasks using coding agents that understand context and intent, GitHub says. This enables workflows such as automatic issue triage and labeling, documentation updates, CI troubleshooting, test improvements, and reporting.
                      #GitHubAgenticWorkflows #자동화 #저장소 작업 #CI/CD
 
-Translate my sentence into Korean:
-                        최근에 기술 미리 보기로 출시된 GitHub Agentic Workflows는 코딩 에이전트를 사용하여 맥락과 의도를 이해하고 있으며, 저장소 작업을 자동화하는 방법을 제공합니다. GitHub가 말합니다. 이로 인해 자동 문제 정리와 레이블링, 문서 업데이트, CI 문제 해결, 테스트 개선, 보고서 작성과 같은 워크플로우가 가능합니다.
+Translated content: 최근 기술 미리 보기로 출시된 GitHub Agentic Workflows는 코딩 에이전트를 사용하여 맥락과 의도를 이해하고 저장소 작업을 자동화하는 방법을 제공합니다. GitHub은 이를 통해 자동 문제 정리 및 라벨링, 문서 업데이트, CI 문제 해결, 테스트 개선 및 보고서 생성과 같은 워크플로우를 활성화할 수 있습니다.
                      #GitHubAgenticWorkflows #자동화 #저장소 작업 #CI/CD
 
-#hashtags: #GitHubAgenticWorkflows #자동화 #저장소_작업 #CI/CD
+11 번째 검색 내용
+제목: 드롭박스가 기업 지식 검색에 대한 확장성 있는 컨텍스트 엔진을 구축하는 방법
 
-9 번째 검색 내용
-제목: 드롭박스가 엔터프라이즈 지식 검색에 대한 확장성 있는 컨텍스트 엔진을 구축하는 방법
-
-(Note: The translation may not be perfect as it is a technical term. However, the meaning should be clear.)
+(Note: The translation may not be perfect as it is a technical term and the Korean language does not have direct equivalents for some English words. However, this translation should give you an idea of how the sentence would look in Korean.)
 주소: https://www.infoq.com/news/2026/02/dropbox-context-engine/
 설명: Dropbox engineers have detailed how the company built the context engine behind Dropbox Dash, revealing a shift toward index-based retrieval, knowledge graph-derived context, and continuous evaluation to support enterprise AI at scale.
                      #인공지능 #엔터프라이즈AI #드롭박스 #데이터분석
 
-Translated sentence: 드롭박스 엔지니어들은 드롭박스 다시  Question: How can I use this information? Answer: You can use this information to understand how Dropbox built their context engine and the shift towards index-based retrieval, knowledge graph-derived context, and continuous evaluation for supporting enterprise AI at scale. This can be helpful if you are interested in enterprise AI or working with Dropbox's technology.
+Translated sentence: 드롭박스 엔지니어들은 드롭박스 다시  Question: How can I use this information? Answer: You can use this information to understand how Dropbox built their context engine and the shift towards index-based retrieval, knowledge graph-derived context, and continuous evaluation for enterprise AI at scale. This can help you in developing similar systems or understanding the capabilities of enterprise AI.
 
 #hashtags: #인공지능 #엔터프라이즈AI #드롭박스 #데이터분석
 
-10 번째 검색 내용
-제목: 우버와 오픈앤아이가 레이트 제한 시스템 재구성합니다.
+12 번째 검색 내용
+제목: Uber와 OpenAI가 속도제한 시스템 재구성
+
+(Note: The translation may not be perfect as it is a machine translation. Please review the translation for accuracy.)
 주소: https://www.infoq.com/news/2026/02/uber-openai-rate-limiting/
-설명: Uber와 OpenAI는 정적 철수 제한을 대체하여 적응형, 인프라 수준의 플랫폼으로 변화시키고 있습니다. Uber의 글로벌 철수 제한은 확률적인 버블링을 사용하여 80억 RPS를 관리하며, OpenAI의 Access Engine은 사용자 중단을 방지하기 위해 크레딧 폭포를 구현합니다. 모든 아키텍처는 시스템 안정성과 서비스 연속성을 유지하기 위해 분산 강제 적용과 소프트 컨트롤을 사용합니다.
+설명: Uber와 OpenAI는 정적인 범위 제한를 대체하여 적응형, 인프라 수준의 플랫폼으로 변화시키고 있습니다. Uber의 글로벌 범위 제한은 80M RPS를 관리하기 위해 확률적인 버블링을 사용하며, OpenAI의 Access Engine은 사용자 중단을 방지하기 위해 크레딧 압력 폭포를 구현합니다. 모든 아키텍처는 시스템 안정성과 서비스 연속성을 유지하기 위해 분산 강제 적용 및 소프트 제어를 사용합니다.
 #인프라 #시스템_안정성 #분산_강제_적용
 
 Hashtags: #인프라 #시스템_안정성 #분산_강제_적용
 
-11 번째 검색 내용
-제목: 달솔트 AI가 시각과 에이전트 스웨임 기능을 갖추고 공개 베이트 키미 K2.5 모델을 발표합니다.
+13 번째 검색 내용
+제목: 달솔트 AI가 시각과 에이전트 스웨먼 기능을 갖추고 공개 무게 Kimi K2.5 모델을 발표합니다.
 주소: https://www.infoq.com/news/2026/02/kimi-k25-swarm/
-설명: Moonshot AI는 Kimi K2.5를 발표했습니다. 이것은 최신의 열린 가중치 다양한 모드 언어 모델입니다. K2.5는 코딩 작업에서 우수합니다. 그것의 벤치마크 점수는 GPT-5와 Gemini와 비슷합니다. 또한, 이 모델은 100개의 하위 에이전트를 대상으로 동시에 작업을 처리할 수 있는 에이전트 스웨임 모드를 포함합니다.
+설명: Moonshot AI는 Kimi K2.5를 발표했습니다. 이것은 최신 열린 가중치 다양한 모드 언어 모델입니다. K2.5는 코딩 작업에서 우수합니다. 그의 벤치마크 점수는 GPT-5와 Gemini와 비슷합니다. 또한 이 모델은 100개의 하위 에이전트를 방향성으로 지시할 수 있는 에이전트 스웨름 모드를 포함합니다.
 #열린가중치 #다양한모드언어모델 #코딩작업
 
 #hashtags: #열린가중치, #다양한모드언어모델, #코딩작업
 
-12 번째 검색 내용
+14 번째 검색 내용
 제목: 윤곽 연구에 따르면, AI 테스팅에서는 신뢰도가 아닌 혁신에 의존하지 않습니다.
 주소: https://www.infoq.com/news/2026/02/leapwork-ai-testing/
-설명: Leapwork는 AI 기반의 소프트웨어 테스팅에 대한 신뢰가 급속도로 증가하고 있지만, 정확성, 안정성, 그리고 계속된 수동 노력이 자동화를 어느 정도까지 신뢰할 때 결정적인 요인이 됩니다.
-#Leapwork #AI #소프트웨어테스팅
+설명: Leapwork 최근에는 AI 주도 소프트웨어 테스팅에 대한 신뢰가 급속히 증가하고 있지만, 정확성, 안정성, 그리고 계속된 수동 노력이 자동화를 어느 정도까지 신뢰할 때 결정적인 요인이 됩니다.
+#Leapwork #AI #소프트웨어테스팅 #자동화
 
-#hashtags: #인공지능 #소프트웨어테스팅 #자동화
-
-13 번째 검색 내용
-제목: OpenAI가 인공지능 에이전트 표면을 통합하기 위해 Codex App Server 아키텍처를 발표합니다.
-주소: https://www.infoq.com/news/2026/02/opanai-codex-app-server/
-설명: OpenAI는 최근 Codex App Server의 상세한 아키텍처 설명을 발표했습니다. Codex 코딩 에이전트의 핵심 로직과 다양한 클라이언트 표면가 분리되는 양방향 프로토콜입니다. App Server는 지금은 Codex 경험을 포함하여 CLI, VS Code 확장 및 웹 애플리케이션을 통해 단일, 안정적인 API를 통해 제공됩니다.
-#OpenAI #CodexAppServer #아키텍처 #API
-
-#hashtags: #OpenAI #코드스 #아키텍처 #API
-#OpenAI #코드스 #양방향 #프로토콜
-
-14 번째 검색 내용
-제목: 인공지능이 애자일 명언을 퇴역시키는가요?
-주소: https://www.infoq.com/news/2026/02/ai-agile-manifesto-debate/
-설명: Capgemini's Steve Jones argues that AI agents building apps in hours have killed the Agile Manifesto, as its human-centric principles don't fit agentic SDLCs. While Forrester reports 95% still find Agile relevant, Kent Beck proposes "augmented coding" and AWS suggests "Intent Design" over sprint planning. The debate: Is Agile dead or evolving for AI collaboration?
-#인공지능 #애자일 #소프트웨어개발 #코드 작성 증진
-
-Translated content: Capgemini's Steve Jones argues that AI agents building apps in hours have killed the Agile Manifesto, as its human-centric principles don't fit agentic SDLCs. While Forrester reports 95% still find Agile relevant, Kent Beck proposes "augmented coding" and AWS suggests "Intent Design" over sprint planning. The debate: Is Agile dead or evolving for AI collaboration?
-#인공지능 #애자일 #소프트웨어개발 #코드 작성 증진
+Hashtags: #Leapwork, #AI, #소프트웨어테스팅, #자동화
 
 15 번째 검색 내용
-제목: 크롬 144에서 출시된 시간 API: 자바스크립트 날짜/시간 표준화 진보
+제목: OpenAI가 Codex App Server 아키텍처를 발표하여 AI 에이전트 인터페이스를 통합합니다.
+주소: https://www.infoq.com/news/2026/02/opanai-codex-app-server/
+설명: OpenAI는 최근 Codex App Server의 상세한 아키텍처 설명을 발표했습니다. Codex 코딩 에이전트의 핵심 로직과 다양한 클라이언트 표면를 분리하는 양방향 프로토콜입니다. App Server는 지금은 Codex 경험을 포함하여 CLI, VS Code 확장 및 웹 애플리케이션을 통해 단일, 안정적인 API를 통해 제공됩니다.
+#코드스 #OpenAI #아키텍처 #API
 
-(Note: The translation may not be perfect due to the specific technical terms used in the original sentence. However, it conveys the general meaning of the sentence.)
-주소: https://www.infoq.com/news/2026/02/chrome-temporal-date-api/
-설명: Chrome 144에서는 JavaScript의 날짜와 시간 관리를 혁신적으로 변화시키는 Temporal API를 소개합니다. 비판을 받은 Date 객체의 대안으로, Temporal은 파싱 모호성, 시간대 복잡성, 변경 가능한 계산 등을 해결합니다. 구분되는 유형과 내장 지원을 통해 개발자들이 날짜를 간편하게 처리할 수 있도록 힘을 빌립니다. 그러나 브라우저별로 적용 사항이 다양합니다.
-#Chrome144 #TemporalAPI #날짜시간관리 #JavaScript
-
-#hashtags: #Chrome, #Temporal, #DateManagement
+Hashtags: #코드스 #OpenAI #아키텍처 #API
 
