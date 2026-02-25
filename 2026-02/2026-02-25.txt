@@ -1,125 +1,138 @@
 1 번째 검색 내용
-제목: 애플 연구원들은 펠렛-UI 라이트를 소개합니다. 이것은 장치에서 AI 모델을 사용하여 UI를 보고 제어할 수 있는 온-디바이스 AI 모델입니다.
-주소: https://www.infoq.com/news/2026/02/apple-ferret-ui-lite-on-device/
-설명: 애플의 Ferret-UI Lite는 모바일과 데스크톱 화면에 최적화된 3B개의 매개변수를 갖추고 있으며, 화면 이미지를 해석하고 UI 요소인 아이콘과 텍스트를 이해하고 앱에서 예를 들어 메시지를 읽거나 건강 데이터를 확인하는 등의 작업을 수행할 수 있도록 설계되었습니다.
-#모바일 #데스크톱 #UI #애플 #Ferret-UI Lite
+제목: AWS 비디오 인코딩 서비스에 대한 특허 침해 보호 제거
+
+(Note: The translation may not be perfect as it is a direct translation from English to Korean. In Korean, the subject usually comes before the verb, so the sentence structure might be different.)
+주소: https://www.infoq.com/news/2026/02/aws-drops-patent-protection/
+설명: AWS는 비디오 트랜스코딩 및 스트리밍 서비스를 사용하는 고객에게 법적 보호를 제거했습니다. 이로 인해 코덱 권한자들에게 저작권 침해 주장으로부터 노출될 수 있습니다. 이 변경 사항은 6가지 서비스를 포함하고 있으며, 인기 파일 기반 비디오 처리 서비스 MediaConvert와 라이브 비디오 인코딩 서비스 MediaLive를 포함합니다.
+#AWS #비디오트랜스코딩 #저작권침해
+
+Translated sentence: AWS has removed its legal protections for customers using its video transcoding and streaming services, potentially exposing them to patent infringement claims from codec rights holders. The change affects six services, including the popular file-based video processing service MediaConvert and live video encoding service MediaLive.
+#AWS #VideoTranscoding #PatentInfringement #CodecRights
+
+Hashtags added: #AWS #VideoTranscoding #PatentInfringement #CodecRights
 
 2 번째 검색 내용
-제목: 플랫폼 엔지니어링 라보스 확장 계획에서는 다중 클라우드 지원을 포함합니다.
-주소: https://www.infoq.com/news/2026/02/formae-multi-cloud/
-설명: Platform Engineering Labs는 오늘 인프라스트럭처-as-Code(IaC) 플랫폼 formae의 주요 업데이트를 발표했습니다. Google Cloud Platform(GCP), Microsoft Azure, Oracle Cloud Infrastructure(OCI), OVHcloud에 대한 베타 지원을 추가하였습니다.
-#인프라스트럭처 #formae #클라우드플랫폼
+제목: 애플 연구원들은 펠렛-UI 라이트, 장치에서 AI 모델을 사용하여 UI를 보고 제어할 수 있는 것을 소개합니다.
+주소: https://www.infoq.com/news/2026/02/apple-ferret-ui-lite-on-device/
+설명: Apple의 Ferret-UI Lite는 모바일과 데스크탑 화면에 최적화된 3B개 매개변수 모델입니다. 이 모델은 화면 이미지를 해석하고, 아이콘과 텍스트와 같은 UI 요소를 이해하며, 메시지 읽기, 건강 데이터 확인 등 앱과 상호작용하는 데 사용됩니다.
+#Ferret-UI Lite #모바일 #데스크탑 #화면 해석 #UI 요소 이해 #상호작용
 
 3 번째 검색 내용
-제목: AI "빙크 코딩"이 오픈소스를 위기에 처한다는 것을 나타내며, 유지보수자들이 위기에 처한다.
-주소: https://www.infoq.com/news/2026/02/ai-floods-close-projects/
-설명: 인공지능이 버그 보상을 제출한 20%를 달성하면 cURL의 버그 보상 프로그램을 중단했습니다. Mitchell Hashimoti는 AI 코드를 Ghostty에서 금지했습니다. Steve Ruiz는 tldraw의 모든 외부 PR를 닫았습니다. 경제 연구가 "비브 코딩"이 오픈 소스를 유지하는 사용자 참여를 약화시킨다는 것을 발견했습니다. 개발자들이 AI 에이전트에게 업무를 위임할수록, 문서 방문 및 버그 보고서는 오픈 소스 생태계의 유지 가능성을 위협하고 있습니다.
-#인공지능 #오픈소스 #개발자 #비브코딩
+제목: 플랫폼 엔지니어링 라보스 멀티클라우드 지원으로 확장
 
-Translated content:
-Artificial intelligence is transforming the world. It has applications in various fields such as healthcare, finance, and transportation. and Provide - #hashtags 
-AI : 인공지능은 세계를 변화시키고 있습니다. 이것은 의료, 금융, 교통과 같은 다양한 분야에 응용되고 있습니다.
-#인공지능 #의료 #금융 #교통
+(Note: The translation may not be perfect as it is a machine translation. Please double-check the translation for accuracy.)
+주소: https://www.infoq.com/news/2026/02/formae-multi-cloud/
+설명: Platform Engineering Labs는 오늘 인프라스트럭처-as-Code(IaC) 플랫폼 formae의 주요 업데이트를 발표했습니다. Google Cloud Platform(GCP), Microsoft Azure, Oracle Cloud Infrastructure(OCI), OVHcloud에 대한 베타 지원을 추가하였습니다.
+#인프라스트럭처 #IaC #플랫폼엔진어리닝레브스 #오픈소스
+
+#hashtags: #인프라 #클라우드 #개발자
+
+#인프라스트럭처 #IaC #플랫폼엔진어리닝레브스 #오픈소스
+
+#인프라 #클라우드 #개발자
 
 4 번째 검색 내용
+제목: AI "빙크 코딩"이 오픈소스를 위기에 처한다는 것을 나타내며, 유지보수자들이 위기에 처한다.
+주소: https://www.infoq.com/news/2026/02/ai-floods-close-projects/
+설명: 인공지능이 버그 보상을 제출한 20%를 넘게 되면 Daniel Stenberg가 cURL의 버그 보상 프로그램을 중단했습니다. Mitchell Hashimoti는 AI 코드를 Ghostty에서 금지하였습니다. Steve Ruiz는 tldraw의 모든 외부 PR를 닫았습니다. 경제 연구가 "비브 코딩"이 오픈 소스를 유지하는 사용자 참여를 약화시키고 있음을 발견했습니다. 개발자들이 AI 에이전트에게 업무를 위임함에 따라 문서 방문 및 버그 보고가 축소되어 오픈 소스 생태계의 유지 가능성이 위험해졌습니다.
+#인공지능 #오픈소스 #개발자 #비브코딩
+
+#hashtags: #AI #OpenSource #Developers #VibeCoding
+
+5 번째 검색 내용
 제목: 퀘슨이 OTelBench를 통해 오픈테레미터 인프라와 AI 성능을 평가합니다.
 주소: https://www.infoq.com/news/2026/02/quesma-otel-bench-performance-ai/
-설명: Quesma는 OpenTelemetry 파이프라인과 AI 기반 도구 검증을 위한 열린 소스 패키지인 OTelBench를 출시했습니다. 이것은 collector의 스트레스 아래 성능을 평가하며, LLM가 복잡한 SRE 작업 like 컨텍스트 전파에 어떻게 정확히 대처하는지를 테스트합니다. 초기 데이터는 AI 에이전트가 성공 율을 30% 미만으로 달성할 때도 있음을 보여주며, 코드 생성과 제품 관찰성 간의 차이를 강조합니다.
+설명: Quesma는 OpenTelemetry 파이프라인과 AI 기반 도구를 평가하는 데 사용할 수 있는 오픈소스 슈트 OTelBench를 출시했습니다. 이것은 collector의 스트레스 아래 성능을 평가하며, LLMs가 복잡한 SRE 작업에 대해 정확하게 컨텍스트 전파를 처리하는 방식을 테스트합니다. 초기 데이터는 AI 에이전트가 성공률이 30% 미만인 경우가 많음을 보여줍니다. 코드 생성과 프로덕션 관찰성 간의 차이를 강조합니다.
 #OpenTelemetry #AI #SRE
 
 #hashtags: #OpenTelemetry, #AI, #SRE
 
-5 번째 검색 내용
+6 번째 검색 내용
 제목: 자바 뉴스 요약: JDK26-RC2, Payara 플랫폼, 하이버네이트, 쿼크스, 아파치 캠엘, 자카르타 EE 12
 주소: https://www.infoq.com/news/2026/02/java-news-roundup-feb16-2026/
-설명: Java 주요 뉴스 요약: 2월 16일, 2026년에는 JDK 26의 두 번째 리리즈 캔디들이 포함되어 있습니다. Jakarta EE 12에 대한 업데이트도 포함되어 있으며, Payara Platform은 2월 2026년 버전입니다. Apache Camel에는 2월 2026년 버전의 포인트 릴리즈가 포함되어 있으며, Hibernate Search와 Quarkus에는 유지보수 릴리즈가 포함되어 있습니다.
-#Java #JDK26 #JakartaEE12 #PayaraPlatform
+설명: Java 주요 뉴스 요약: 2월 16일, 2026년에는 JDK 26의 두 번째 리리즈 캔디디트; Jakarta EE 12의 업데이트; Payara Platform의 2월 2026 편; Apache Camel의 포인트 릴리스; 히버네이트 검색과 퀘어크스의 메인테인스 릴리스입니다.
+#자바 #JDK26 #JakartaEE12 #PayaraPlatform
 
-#hashtags: #Java #JDK26 #JakartaEE12 #PayaraPlatform
+#hashtags: #자바뉴스 #컴퓨터프로그래밍 #소프트웨어개발
 
-6 번째 검색 내용
+7 번째 검색 내용
 제목: Uforwarder: 우버의 확장성 있는 Kafka 소비자 프록시를 사용하여 효율적인 이벤트 기반 마이크로서비스
 [/INST]
 주소: https://www.infoq.com/news/2026/02/uber-uforwarder-kafka-push-proxy/
-설명: Uber는 Kafka 콘솔 프록시인 uForwarder를 오픈소스로 공개했습니다. 이 시스템은 일일적으로 여러 피보이트의 데이터를 처리하고 천억 개의 메시지를 다룰 수 있는 것을 목표로 했습니다. uForwarder는 규모가 큰 이벤트 기반 마이크로서비스에서 확장성, 작업 분리 및 하드웨어 효율성을 개선하기 위해 컨텍스트 인식 라우팅, 헤드-of-line 블록핑 완화, 적응형 자동 리밸런싱 및 파티션 수준의 지연 처리를 도입했습니다.
-#uForwarder #Kafka #이벤트기반마이크로서비스 #확장성
-#hashtags: #Uber #오픈소스 #데이터처리 #컨텍스트인식라우팅
+설명: Uber는 uForwarder, 트리리안의 삼천억 개 메시지와 다수 피비바이트의 데이터를 매일 처리할 수 있는 푸시 기반 Kafka 소비자 프록시를 오픈소스로 공개했습니다. 시스템은 확장성, 작업 격리 및 하드웨어 효율성을 향상시키기 위해 규모가 큰 이벤트 주도 마이크로서비스에서 컨텍스트 인식 라우팅, 헤드-of-line 블록핑 완화, 적응적인 자동 리밸런싱, 파티션 수준의 지연 처리를 도입합니다.
+#이벤트주도마이크로서비스 #확장성 #하드웨어효율성
 
-7 번째 검색 내용
-제목: TSSLint 3.0: 최종 주요 릴리즈로서 감소된 의존성을 가지고 있습니다.
-주소: https://www.infoq.com/news/2026/02/tsslint-3-release-final/
-설명: TSSLint 3, Johnson Chu의 가벼운 TypeScript 정적 분석 도구는 의존성을 줄이고 Node에서 .ts IMPORT를 지원하며 성능을 향상시킵니다. TSLint의 영감으로 나온 것으로, 근본적인 진단과 수정을 제공하며, 대규모 프로젝트에서 정적 분석을 간소화합니다.
-#TSSLint3 #TypeScriptLinter #개발자도구 #대규모프로젝트
+Translated content: Uber has open-sourced uForwarder, a push-based Kafka consumer proxy built to handle trillions of messages and multiple petabytes of data daily. The system introduces context-aware routing, head-of-line blocking mitigation, adaptive auto-rebalancing, and partition-level delay processing to improve scalability, workload isolation, and hardware efficiency in large-scale event-driven microservices.
+#event-driven #scalability #hardware_efficiency
 
-#hashtags: #TSSLint3, #TypeScriptLinter, #개발자도구, #대규모프로젝트
+Hashtags added: 
+1. #이벤트주도마이크로서비스
+2. #확장성
+3. #하드웨어효율성
 
 8 번째 검색 내용
+제목: TSSLint 3.0: 최종 주요 릴리즈로서 감소된 의존성을 가지고 있습니다.
+주소: https://www.infoq.com/news/2026/02/tsslint-3-release-final/
+설명: TSSLint 3, Johnson Chu의 가벼운 TypeScript 검사 도구는 의존성을 줄이고 Node에서 .ts IMPORT를 지원하여 성능을 향상시킵니다. TSLint의 영적 후계자로, 근본적인 진단과 수정은 거의 즉각 제공합니다. 개발자 도구와 새로운 TSL 호환성 레이어는 대규모 프로젝트에서의 검사를 간소화합니다.
+#TSSLint3 #TypeScriptLinter #개발자도구
+
+Hashtags: #TypeScript #검사도구 #개발자도구
+
+9 번째 검색 내용
 제목: 인간적 연구: AI 코딩 지원으로 개발자의 기술 마스터리가 17% 감소합니다.
 주소: https://www.infoq.com/news/2026/02/ai-coding-skill-formation/
 설명: Anthropic research shows developers using AI assistance scored 17% lower on comprehension tests when learning new coding libraries, though productivity gains were not statistically significant. Those who used AI for conceptual inquiry scored 65% or higher, while those delegating code generation to AI scored below 40%.
 #인공지능 #개발자 #코딩라이브러리
 
-Translate my sentence into Korean :
-                         Anthropic research shows developers using AI assistance scored 17% lower on comprehension tests when learning new coding libraries, though productivity gains were not statistically significant. Those who used AI for conceptual inquiry scored 65% or higher, while those delegating code generation to AI scored below 40%.
-                     and Provide - #hashtags. Add 3 hashtags related to the translated content.
-
-Anthropic research shows developers using AI assistance scored 17% lower on comprehension tests when learning new coding libraries, though productivity gains were not statistically significant. Those who used AI for conceptual inquiry scored 65% or higher, while those delegating code generation to AI scored below 40%.
+#hashtags:
 #인공지능 #개발자 #코딩라이브러리
 
-9 번째 검색 내용
-제목: [INST] 리빙 사이버 샌드박스 에이전트 SDK 출시로 에이전트 API 분산 문제 해결
+10 번째 검색 내용
+제목: [INST] 리빙 사이버 샌드박스 에이전트 SDK를 출시하여 에이전트 API 분산 문제 해결
 [/INST]
 주소: https://www.infoq.com/news/2026/02/rivet-agent-sandbox-sdk/
 설명: Rivet Sandbox Agent SDK는 개발자들이 Claude Code, Codex, OpenCode, Amp 등의 다양한 에이전트 런타임을 사용하여 코딩하는데 일반적인 API를 제공합니다. 이것은 역사적으로 에이전트 통합이 복잡하고 유지보수가 어렵게 만드는 에이전트 API의 분산성과 세션 처리, 스트리밍 형식을 해결합니다.
-#에이전트_SDK #Rivet_Sandbox #통합_솔루션
+#에이전트_SDK #Rivet_Sandbox #통합_개발
 
-Hashtags: #에이전트_SDK, #Rivet_Sandbox, #통합_솔루션
-
-10 번째 검색 내용
-제목: 스프링 뉴스 요약: 두 번째 마일스톤 릴리즈 - 부트, 보안, 통합, 모듈리스, AMQP
-주소: https://www.infoq.com/news/2026/02/spring-news-roundup-feb16-2026/
-설명: Korean: 2월 16일 주에서 봄 생태계에서 활발한 활동이 있었으며, 이는 Spring Boot, Spring Security, Spring Integration, Spring Modulith, Spring AMQP의 두 번째 마일스톤 릴리즈와 함께 Spring Session, Spring for Apache Kafka, Spring LDAP의 첫 번째 마일스톤 릴리즈를 강조합니다.
-#Spring #생태계 #RubyOnRails
-
-Hashtags: #Spring #생태계 #RubyOnRails
+Hashtags: #에이전트_SDK, #Rivet_Sandbox, #통합_개발
 
 11 번째 검색 내용
-제목: 데이터브릿스가 AI 작업 로드에 적합한 PostgreSQL 데이터베이스인 Lakehouse를 소개합니다.
-주소: https://www.infoq.com/news/2026/02/databricks-lakebase-postgresql/
-설명: Databricks는 최근 Lakehouse의 일반 사용 가능성을 발표했습니다. Lakebase는 계산과 저장이 독립적으로 확장되는 서버리스, PostgreSQL 기반 OLTP 데이터베이스입니다. Lakebase는 Databricks 플랫폼에 통합되어 있어, 거래와 분석 모두 결합된 하이브리드 솔루션을 제공합니다.
-#데이터브릭스 #레이크하우스 #OLTP데이터베이스 #서버리스
+제목: 스프링 뉴스 요약: 두 번째 마일스톤 릴리즈 - 부트, 보안, 통합, 모듈리스, AMQP
+주소: https://www.infoq.com/news/2026/02/spring-news-roundup-feb16-2026/
+설명: There was a flurry of activity in the Spring ecosystem during the week of February 16th, 2026, highlighting the second milestone releases of: Spring Boot; Spring Security; Spring Integration; Spring Modulith; and Spring AMQP; along with the first milestone releases of Spring Session, Spring for Apache Kafka and Spring LDAP.
+#스프링 #소프트웨어개발 #오픈소스
+
+Translated content: 스프링 에코시스템에서 2월 16일 주에 많은 활동이 있었으며, Spring Boot; Spring Security; Spring Integration; Spring Modulith; 그리고 Spring AMQP의 두 번째 마일스톤 릴리즈와 Spring Session, Spring for Apache Kafka, Spring LDAP의 첫 번째 마일스톤 릴리즈가 강조되었습니다.
+#스프링 #소프트웨어개발 #오픈소스
 
 12 번째 검색 내용
-제목: TypeScript 6 Beta 출시: 개발자들에게 TypeScript 재작성을 위해 업그레이드를 초대합니다.
-주소: https://www.infoq.com/news/2026/02/typescript-6-released-beta/
-설명: AI : 타입스크립트 팀은 최근에 타입스크립트 6을 베타로 발표했습니다. 이 발표는 전체적인 기능 추가보다는 주요 전환점으로 작용합니다. 이것은 타입스크립트 6에서 타입스크립트 코드를 Go로 재작성하여 시간이 지남에 따라 폭발적으로 증가한 기본 성능 문제를 해결하는데 집중합니다.
-#타입스크립트 #Go #성능 #코드 리팩토링
+제목: 데이터브릿스는 AI 작업 로드에 적합한 PostgreSQL 데이터베이스인 Lakehouse를 소개합니다.
+주소: https://www.infoq.com/news/2026/02/databricks-lakebase-postgresql/
+설명: Databricks는 최근 Lakehouse의 일반 사용 가능성을 발표했습니다. Lakebase는 계산과 저장이 독립적으로 확장되는 서버리스, PostgreSQL 기반 OLTP 데이터베이스입니다. Lakebase는 Databricks 플랫폼에 통합되어 있어, 거래형 및 분석적 기능을 결합한 하이브리드 솔루션을 제공합니다.
+#Databricks #Lakebase #OLTP #데이터베이스 #서버리스
 
-#hashtags:
-1. #타입스크립트_6
-2. #Go_프로그래밍
-3. #성능_최적화
+#hashtags: #데이터분석, #클라우드컴퓨팅, #트랜잭션처리
 
 13 번째 검색 내용
-제목: 오픈아이 인공지능 소개: 코드스 에이전트가 대규모 소프트웨어 개발 지원
+제목: TypeScript 6 Beta 출시: 개발자들에게 TypeScript 재작성을 위해 업그레이드하는 것을 초대합니다.
+주소: https://www.infoq.com/news/2026/02/typescript-6-released-beta/
+설명: AI : 타입스크립트 팀은 최근에 타입스크립트 6을 베타로 발표했습니다. 이 발표는 전체적인 기능 추가를 목표로 한 것이 아니라, 기술 부채 제거와 표준화에 집중하고 있습니다. 타입스크립트 6은 타입스크립트 코드의 재작성을 Go로 목표로 한 TypeScript 7을 위해 시스템을 준비하는 데 도움이 됩니다.
+#타입스크립트 #Go #기술부채 #표준화
 
-(Note: The translation may not be perfect as it is a direct translation from English to Korean. The sentence structure and grammar might need adjustments for natural flow in the Korean language.)
-주소: https://www.infoq.com/news/2026/02/openai-harness-engineering-codex/
-설명: OpenAI는 Codex 에이전트가 생성하고 테스트하고 배포하는 밀리온 라인의 프로덕션 시스템을 자동화하는 Harness Engineering 기반 엔지니어링 방법론을 소개합니다. 플랫폼은 관찰성, 아키텍처 제약 조건, 구조화된 문서를 통해 주요 소프트웨어 개발 워크플로우를 자동화합니다.
-#인공지능 #HarnessEngineering #Codex #소프트웨어개발
-#인공지능 #HarnessEngineering #코드스 #소프트웨어개발
+#hashtags: #타입스크립트, #Go, #기술부채, #표준화
 
 14 번째 검색 내용
-제목: AWS는 RDS에서 SQL Server 데이터베이스 이벤트를 트리거하는 Lambda 함수 실행을 가능하게 합니다.
-주소: https://www.infoq.com/news/2026/02/aws-lambda-rds-trigger-events/
-설명: AWS는 최근에 Amazon RDS for SQL Server용 이벤트 주도 패턴을 설명한 블로그 포스팅입니다. 개발자들은 CloudWatch Logs와 SQS를 통해 데이터베이스 이벤트에 대응하여 Lambda 함수를 트리거할 수 있습니다.
-#AWS #AmazonRDSforSQLServer #이벤트주도패턴 #Lambda
+제목: 오픈애이가 소개합니다: 코드스 에이전트는 대규모 소프트웨어 개발을 위한 하댄스 엔지니어링 강화
+[INST] OpenAI Introduces Harness Engineering: Codex Agents Power Large-Scale Software Development
+주소: https://www.infoq.com/news/2026/02/openai-harness-engineering-codex/
+설명: OpenAI는 Codex 에이전트가 생성하고 테스트하며 배포하는 밀리온 라인의 프로덕션 시스템을 자동화하는 Harness Engineering, AI 기반의 엔지니어링 방법론을 소개합니다. 플랫폼은 관찰성, 아키텍처 제약 조건, 구조화된 문서화를 통해 주요 소프트웨어 개발 워크플로우를 자동화합니다.
+#인공지능 #HarnessEngineering #Codex #소프트웨어개발
+
+#hashtags: #AI, #HarnessEngineering, #Codex
 
 15 번째 검색 내용
-제목: .NET 11 미리보기 1이 런타임 비동기, Zstandard 지원 및 C# 15 기능으로 도착합니다.
-주소: https://www.infoq.com/news/2026/02/dotnet-11-preview1/
-설명: NET 11 Preview 1이 발표되었습니다. 이 미리 보기에서는 컴파일러에서 런타임으로 async 메서드 처리를 이동하는 Runtime Async을 주요 변경 사항으로 선택했습니다. 이 미리 보기에서는 CoreCLR WebAssembly 작업,  native Zstandard 압축, C# 15 컬렉션 표현식 인수, 및 MAUI 개선 사항이 포함되었습니다. 커뮤니티 반응은 갈등 있는데, async 변경에 대한 찬사가 있지만 언어 복잡성에 대한 토론이 있습니다.
-#NET11 #RuntimeAsync #CSharp15 #MAUI
-
-#hashtags: #NETCore #WebAssembly #Zstandard
+제목: AWS는 RDS에서 SQL Server 데이터베이스 이벤트를 트리거하는 Lambda 함수 실행을 허용합니다.
+주소: https://www.infoq.com/news/2026/02/aws-lambda-rds-trigger-events/
+설명: AWS는 최근에 Amazon RDS for SQL Server에 대한 이벤트 주도 패턴을 설명한 블로그 포스팅입니다. 개발자들은 CloudWatch Logs와 SQS를 통해 데이터베이스 이벤트에 응답하여 Lambda 함수를 트리거할 수 있습니다.
+#AWS #AmazonRDS #Lambda #CloudWatchLogs #SQS
 
