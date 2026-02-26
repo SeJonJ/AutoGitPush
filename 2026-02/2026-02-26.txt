@@ -1,0 +1,138 @@
+1 번째 검색 내용
+제목: 칼리엄에서 10년 후: 강력한 암호화, 안전한 정책, 큰 클러스터에 대한 명확한 시각성
+
+(Note: The translation may not be perfect as it is a machine translation. Please review and make any necessary adjustments.)
+주소: https://www.infoq.com/news/2026/02/cilium-119/
+설명: Cilium 1.19가 발표되었습니다. eBPF 기반의 네트워킹과 보안 프로젝트로 10년간 개발되었습니다. 이번 릴리즈에는 주요 기능이 없으며, 보안 강화, 암호화를 엄격하게 관리하고, 네트워크 정책 행동을 깔끔하게 조정하고, 대규모 Kubernetes 클러스터에 대한 확장성을 개선합니다.
+#Cilium #eBPF #Kubernetes #보안강화
+
+Hashtags: #Cilium #eBPF #Kubernetes #보안강화
+
+2 번째 검색 내용
+제목: 워퍼: 라스트 POWERED 리액트 가상화 라이브러리
+주소: https://www.infoq.com/news/2026/02/warper-rust-react/
+설명: Warper 7.2는 최신 기술의 React 가상화 라이브러리로, Rust와 WebAssembly를 활용하여 성능에서 최적화되었습니다. 0 할당 핫 패스와 O(1) 원형 버퍼 연산을 통해 100,000개의 항목도 120 FPS를 달성합니다. 컴파크한 8.7KB 크기와 일반적인 번들러 호환성으로 구분됩니다. UI 렌더링의 효율적인 새로운 시대를 탐색하세요!
+#Warper7.2 #ReactVirtualizationLibrary #RustWebAssembly #UIrenderingEfficiency
+
+#hashtags: #React #PerformanceOptimization #WebDevelopment
+
+3 번째 검색 내용
+제목: 구글은 AI 에이전트 시대로 발전한 개발자 문서를 소개합니다.
+주소: https://www.infoq.com/news/2026/02/google-documentation-ai-agents/
+설명: Google은 Developer Knowledge API의 공개 미리 보기를 발표했습니다. 이는 Model Context Protocol(MCP) 서버와 함께 제공되어, AI 개발 도구에게 Google의 공식 개발자 문서에 쉽고 머신 가독성 있는 방법을 제공합니다.
+#인공지능 #Google #개발자_문서
+
+4 번째 검색 내용
+제목: AWS 비디오 인코딩 서비스에 대한 특허 침해 보호 해제
+
+(Note: The translation may not be perfect as it is a direct translation. It would be better to have it translated by a professional translator or someone fluent in both languages.)
+주소: https://www.infoq.com/news/2026/02/aws-drops-patent-protection/
+설명: AWS는 비디오 트랜스코딩 및 스트리밍 서비스를 사용하는 고객에게 법적 보호를 제거했습니다. 이로 인해 코덱 권한자들에게 저작권 침해 주장으로부터 노출될 수 있습니다. 이 변경 사항은 파일 기반 비디오 처리 서비스 MediaConvert과 라이브 비디오 인코딩 서비스 MediaLive 등 6가지 서비스에 영향을 줍니다.
+#AWS #비디오트랜스코딩 #저작권침해
+
+Translated sentence: AWS has removed its legal protections for customers using its video transcoding and streaming services, potentially exposing them to patent infringement claims from codec rights holders. The change affects six services, including the popular file-based video processing service MediaConvert and live video encoding service MediaLive.
+and Provide - #hashtags. Add 3 hashtags related to the translated content.
+
+5 번째 검색 내용
+제목: 애플 연구원들은 펠렛-UI 라이트, 장치에서 AI 모델을 사용하여 UI를 보고 제어할 수 있는 것을 소개합니다.
+주소: https://www.infoq.com/news/2026/02/apple-ferret-ui-lite-on-device/
+설명: 애플의 Ferret-UI Lite는 모바일과 데스크탑 화면에 최적화된 3B개 매개변수 모델입니다. 이 모델은 화면 이미지를 해석하고, 아이콘과 텍스트와 같은 UI 요소를 이해하며, 메시지 읽기, 건강 데이터 확인 등 앱과 상호작용하는 데 사용됩니다.
+#애플 #Ferret-UI Lite #화면 해석 #UI 요소 이해
+
+Translated sentence: Apple's Ferret-UI Lite is a 3B-parameter model optimized for mobile and desktop screens, designed to interpret screen images, understand UI elements such as icons and text, and interact with apps by, e.g., reading messages, checking health data, and more.
+
+#hashtags: #애플 #Ferret-UI Lite #화면 해석 #UI 요소 이해
+
+6 번째 검색 내용
+제목: 플랫폼 엔지니어링 라보스 멀티클라우드 지원으로 확장
+
+(Note: The translation may not be perfect as the original sentence seems to have some grammatical errors or missing context. Please confirm if this is the intended meaning.)
+주소: https://www.infoq.com/news/2026/02/formae-multi-cloud/
+설명: Platform Engineering Labs는 오늘 인프라스트럭처-as-Code(IaC) 플랫폼 formae의 주요 업데이트를 발표하였습니다. Google Cloud Platform(GCP), Microsoft Azure, Oracle Cloud Infrastructure(OCI), OVHcloud에 대한 베타 지원을 추가하였습니다.
+#인프라스트럭처 #IaC #플랫폼엔진어리닝레브스 #오픈소스
+
+Hashtags: #인프라스트럭처, #IaC, #플랫폼엔진어리닝레브스, #오픈소스
+
+7 번째 검색 내용
+제목: AI "빙크 코딩"이 오픈소스를 위기에 처한다는 것을 나타내며, 유지보수자들이 위기에 처한다.
+주소: https://www.infoq.com/news/2026/02/ai-floods-close-projects/
+설명: 인공지능이 버그 보상을 제출한 20%를 달성하면 cURL의 버그 보상 프로그램을 중단했습니다. Mitchell Hashimoti는 AI 코드를 Ghostty에서 금지했습니다. Steve Ruiz는 tldraw의 모든 외부 PR를 닫았습니다. 경제 연구가 "비브 코딩"이 오픈 소스를 유지하는 사용자 참여를 약화시키고 있음을 발견했습니다. 개발자들이 AI 에이전트에게 업무를 위임함에 따라 문서 방문 및 버그 보고서는 오픈 소스 생태계의 유지보수에 위협을 제공합니다.
+#인공지능 #오픈소스 #개발자 #비브코딩
+
+Translated content:
+인공지능이 버그 보상을 제출한 20%를 달성하면 cURL의 버그 보상 프로그램을 중단했습니다. Mitchell Hashimoti는 AI 코드를 Ghostty에서 금지했습니다. Steve Ruiz는 tldraw의 모든 외부 PR를 닫았습니다. 경제 연구가 "비브 코딩"이 오픈 소스를 유지하는 사용자 참여를 약화시키고 있음을 발견했습니다. 개발자들이 AI 에이전트에게 업무를 위임함에 따라 문서 방문 및 버그 보고서는 오픈 소스 생태계의 유지보수에 위협을 제공합니다.
+#인공지능 #오픈소스 #개발자 #비브코딩
+
+8 번째 검색 내용
+제목: 퀘슨이 OTelBench를 통해 오픈테레미터 인프라와 AI 성능을 평가합니다.
+주소: https://www.infoq.com/news/2026/02/quesma-otel-bench-performance-ai/
+설명: Quesma는 OpenTelemetry 파이프라인과 AI 기반 도구 검증을 위한 열린 소스 패키지인 OTelBench를 출시했습니다. 이것은 컬렉터의 스트레스 아래 성능을 평가하며, LLM가 복잡한 SRE 작업에서 컨텍스트 전파를 어떻게 처리하는지 테스트합니다. 초기 데이터는 AI 에이전트가 성공 率을 30% 미만으로 달성할 때가 많이 나타납니다. 이것은 코드 생성과 프로덕션 관찰성 간의 차이를 강조합니다.
+#OpenTelemetry #AI #SRE
+
+#hashtags: #OpenTelemetry, #AI, #SRE
+
+9 번째 검색 내용
+제목: 자바 뉴스 요약: JDK26-RC2, Payara 플랫폼, 하이버네이트, 쿼크스, 아파치 캠엘, 자카르타 EE 12
+주소: https://www.infoq.com/news/2026/02/java-news-roundup-feb16-2026/
+설명: Java 주요 뉴스 요약: 2월 16일, 2026년에는 JDK 26의 두 번째 리리즈 캔디디트, Jakarta EE 12의 업데이트, 2월 2026년 버전의 Payara Platform, Apache Camel의 포인트 릴리스, 허비어트 검색과 쿼크스의 메인테이너스 릴리스를 다루고 있습니다.
+#Java #JDK26 #PayaraPlatform #ApacheCamel #HibernateSearch #Quarkus
+
+10 번째 검색 내용
+제목: Uforwarder: 우버의 확장성 있는 Kafka 소비자 프록시를 사용하여 효율적인 이벤트 기반 마이크로서비스
+[/INST]
+주소: https://www.infoq.com/news/2026/02/uber-uforwarder-kafka-push-proxy/
+설명: Uber는 uForwarder, 트리리안의 삼엄 기반 Kafka 소비자 프록시를 열려 소스로 공개했습니다. 이 시스템은 일일적으로 여러 피테바이트의 데이터를 처리하고 수 trillions의 메시지를 처리할 수 있는 것을 위해 구축되었습니다. 이 시스템은 규모가 큰 이벤트 기반 마이크로서비스에서 확장성, 작업 분리 및 하드웨어 효율성을 개선하기 위해 컨텍스트 인식 라우팅, 헤드-of-line 블록핑 완화, 적응적인 자동 리밸런싱 및 파티션 수준의 지연 처리를 도입합니다.
+#Kafka #이벤트기반마이크로서비스 #확장성 #작업분리
+
+Hashtags: #Kafka #이벤트기반마이크로서비스 #확장성 #작업분리
+
+11 번째 검색 내용
+제목: TSSLint 3.0: 최종 주요 릴리즈, 감소된 의존성으로 인해
+[/INST]
+주소: https://www.infoq.com/news/2026/02/tsslint-3-release-final/
+설명: TSSLint 3, Johnson Chu의 가벼운 TypeScript 정적 분석 도구는 의존성을 줄이고 Node에서 .ts IMPORT를 지원하며 성능을 향상시킵니다. TSLint의 영감으로 나온 것으로, 근본적인 진단과 수정을 제공하며, 대규모 프로젝트에서 정적 분석을 간소화합니다.
+#TSSLint3 #TypeScript #정적분석도구
+
+12 번째 검색 내용
+제목: 인간적 연구: AI 코딩 지원으로 개발자의 기술 마스터리가 17% 감소합니다.
+주소: https://www.infoq.com/news/2026/02/ai-coding-skill-formation/
+설명: Anthropic research shows developers using AI assistance scored 17% lower on comprehension tests when learning new coding libraries, though productivity gains were not statistically significant. Those who used AI for conceptual inquiry scored 65% or higher, while those delegating code generation to AI scored below 40%.
+#인공지능 #코딩 #학습
+
+Translate my sentence into Korean :
+                         Anthropic research shows developers using AI assistance scored 17% lower on comprehension tests when learning new coding libraries, though productivity gains were not statistically significant. Those who used AI for conceptual inquiry scored 65% or higher, while those delegating code generation to AI scored below 40%.
+                     and Provide - #hashtags. Add 3 hashtags related to the translated content.
+
+Anthropic research shows developers using AI assistance scored 17% lower on comprehension tests when learning new coding libraries, though productivity gains were not statistically significant. Those who used AI for conceptual inquiry scored 65% or higher, while those delegating code generation to AI scored below 40%.
+#인공지능 #코딩 #학습
+
+Translate my sentence into Korean :
+                         Anthropic research shows developers using AI assistance scored 17% lower on comprehension tests when learning new coding libraries, though productivity gains were not statistically significant. Those who used AI for conceptual inquiry scored 65% or higher, while those delegating code generation to AI scored below 40%.
+                     and Provide - #hashtags. Add 3 hashtags related to the translated content.
+
+Anthropic research shows developers using AI assistance scored 17% lower on comprehension tests when learning new coding libraries, though productivity gains were not statistically significant. Those who used AI for conceptual inquiry scored 65% or higher, while those delegating code generation to AI scored below 40%.
+#인공지능 #코딩 #학습
+
+13 번째 검색 내용
+제목: [INST] 리빙 사이버 샌드박스 에이전트 SDK 출시로 에이전트 API 분산 문제 해결
+[/INST]
+주소: https://www.infoq.com/news/2026/02/rivet-agent-sandbox-sdk/
+설명: Rivet Sandbox Agent SDK는 개발자들이 Claude Code, Codex, OpenCode, Amp 등의 다양한 에이전트 런타임을 사용하여 코딩하기 위해 일반적인 API를 제공합니다. 이것은 역사적으로 에이전트 통합이 복잡하고 유지보수가 어려운 이유인 에이전트 API의 분산성, 세션 처리 및 스트리밍 형식을 해결합니다.
+#에이전트_SDK #Rivet_Sandbox #에이전트_통합
+
+Hashtags: #에이전트_SDK, #Rivet_Sandbox, #에이전트_통합
+
+14 번째 검색 내용
+제목: 스프링 뉴스 요약: 두 번째 마일스톤 릴리즈 - 부트, 보안, 통합, 모듈리스, AMQP
+주소: https://www.infoq.com/news/2026/02/spring-news-roundup-feb16-2026/
+설명: Korean Translation: 2월 16일 주에서 스프링 생태계에서는 많은 활동이 있었으며, 이는 Spring Boot; Spring Security; Spring Integration; Spring Modulith; 그리고 Spring AMQP의 두 번째 마일스톤 릴리즈와 함께 Spring Session, Spring for Apache Kafka, 그리고 Spring LDAP의 첫 번째 마일스톤 릴리즈를 강조합니다.
+#스프링 #릴리즈 #생태계
+
+Hashtags: #스프링 #릴리즈 #생태계
+
+15 번째 검색 내용
+제목: 데이터브릿스는 AI 작업 로드에 대한 PostgreSQL 데이터베이스인 Lakehouse를 소개합니다.
+주소: https://www.infoq.com/news/2026/02/databricks-lakebase-postgresql/
+설명: Databricks는 최근 Lakehouse의 일반 사용 가능성을 발표했습니다. Lakebase는 계산과 저장이 독립적으로 확장되는, PostgreSQL 기반의 OLTP 데이터베이스입니다. Databricks 플랫폼에 통합되어 트랜잭션과 분석 모두를 결합한 하이브리드 솔루션을 제공합니다.
+#데이터브릭스 #레이크하우스 #OLTP데이터베이스 #하이브리드솔루션
+
