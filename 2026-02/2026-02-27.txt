@@ -1,0 +1,123 @@
+1 번째 검색 내용
+제목: 핀터스트의 CDC(Change Data Capture)를 사용한 데이터 수집은 데이터베이스 지연 시간을 24시간에서 15분으로 줄였습니다.
+주소: https://www.infoq.com/news/2026/02/pinterest-cdc-db-ingestion/
+설명: Pinterest는 Kafka, Flink, Spark, Iceberg를 사용한 CDC 기반 데이터베이스 인젝션 프레임워크를 출시했습니다. 시스템은 24+ 시간에서 15분의 데이터 가용성 지연 시간을 줄였으며, 변경된 레코드만 처리하고, 증분 업데이트와 삭제를 지원하며, 천계량 수준의 데이터를 수천 개의 파이프라인에서 확장할 수 있으며, 비용과 효율성을 최적화합니다.
+#CDC #데이터베이스 #Pinterest #Kafka #Flink #Spark #Iceberg #데이터처리 #데이터 가용성 #비용 및 효율성
+
+2 번째 검색 내용
+제목: ASP.NET Core .NET 11 미리 보기 1에서는 새로운 Blazor 컴포넌트, 향상된 탐색 및 WebAssembly가 도입되었습니다.
+주소: https://www.infoq.com/news/2026/02/asp-net-core-11-preview1/
+설명: Microsoft는 .NET 11 Preview 1에서 ASP.NET Core를 출시하면서 Blazor 컴포넌트인 EnvironmentBoundary, Label, DisplayName과 같은 새로운 컴포넌트를 도입했으며, 상대 URI 탐색, QuickGrid 행 클릭 이벤트, WebAssembly에서 IHostedService 지원, 환경 변수 구성, OpenAPI 이진 파일 응답 스키마, WSL에서 자동 개발 인증 신뢰와 같은 다양한 기능을 추가했습니다.
+#ASP.NETCore #Blazor #.NET11Preview1
+
+#hashtags: #ASP.NETCore, #Blazor, #.NET11Preview1
+
+3 번째 검색 내용
+제목: [INST] 소프트웨어 리더십 팀 성장에서 배운 교훈
+[/INST]
+주소: https://www.infoq.com/news/2026/02/software-leadership-team/
+설명: 인공지능은 세계를 변화시키고 있습니다. 이것은 의료, 금융, 교통과 같은 다양한 분야에 응용되고 있습니다.
+#인공지능 #의료 #금융 #교통
+
+Thiago Ghisi는 QCon London에서 Lessons from Growing Engineering Organizations를 주제로 언어에서 매니저와 상위 IC들을 안내하여 그 아래에 강력한 리더십 그룹을 구축했는 방법을 설명했습니다. 정기적인 동기화, 기대치의 조정, 광범위한 목표에 대한 합의로 리더들은 문화와 성능의 곱셈기가 됩니다. 문화는 무엇을 하는지에 있어서 무엇을 말하는지보다 중요합니다.
+#리더십 #엔지니어링_조직 #문화 #성능
+#인공지능 #의료 #금융 #교통
+
+4 번째 검색 내용
+제목: 마이크로소프트 에이전트 프레임워크 RC는 .NET과 파이썬을 사용하여 에이전트 개발을 간단하게 합니다.
+주소: https://www.infoq.com/news/2026/02/ms-agent-framework-rc/
+설명: Microsoft는 .NET와 Python에 대해 Release Candidate 상태를 달성한 Microsoft Agent Framework을 발표했습니다. 이 기점은 1.0 버전에 plan된 것으로 인식되고 있는 API 표면이 안정적이며 완성도가 높음을 나타내며, 일반 사용 가능성 발표를 준비하는 데 이 단계를 설정합니다.
+#MicrosoftAgentFramework #NET #Python
+
+5 번째 검색 내용
+제목: 칼리엄에서 10년 후: 강력한 암호화, 안전한 정책, 큰 클러스터에 대한 명확한 시각성
+
+(Note: The translation may not be perfect as it involves some interpretation. Please review and make any necessary adjustments.)
+주소: https://www.infoq.com/news/2026/02/cilium-119/
+설명: Cilium 1.19가 발표되었습니다. 이는 eBPF 기반의 네트워킹과 보안 프로젝트로 10년간 개발되었습니다. 이 릴리즈에서는 보안 강화, 암호화를 엄격하게 관리하고, 네트워크 정책 행동을 깔끔하게 조정하며, 대규모 Kubernetes 클러스터에 대한 확장성을 개선하는 데 초점을 맞추고 있습니다.
+#Cilium #eBPF #보안강화 #네트워크정책 #Kubernetes
+
+Hashtags: #Cilium, #eBPF, #보안강화, #네트워크정책, #Kubernetes
+
+6 번째 검색 내용
+제목: 워퍼: 라스트 파워드 리액트 가상화 라이브러리
+주소: https://www.infoq.com/news/2026/02/warper-rust-react/
+설명: Warper 7.2는 최신 기술의 React 가상 라이브러리로, Rust와 WebAssembly를 활용하여 성능에서 최적화되었습니다. 0 할당 핫 패스와 O(1) 원형 버퍼 연산을 통해 100,000개의 항목도 120 FPS를 달성합니다. 컴파크한 8.7KB 크기와 일반적인 번들러 호환성으로 구분됩니다. UI 렌더링의 효율적인 새로운 시대를 탐색하세요!
+#Warper7.2 #React #Rust #WebAssembly
+#hashtags: #UI렌더링 #성능최적화 #오픈소스
+
+7 번째 검색 내용
+제목: 구글은 AI 에이전트 시대로 발전한 개발자 문서를 소개합니다.
+주소: https://www.infoq.com/news/2026/02/google-documentation-ai-agents/
+설명: Google은 Developer Knowledge API의 공개 미리 보기를 발표했습니다. 이는 Model Context Protocol(MCP) 서버와 함께 제공되며, AI 개발 도구에게 Google의 공식 개발자 문서에 쉽고 머신 가독성이 있는 방법을 제공합니다.
+#인공지능 #Google #개발자_문서
+
+8 번째 검색 내용
+제목: AWS 비디오 인코딩 서비스에 대한 특허 침해 보호 해제
+
+(Note: The translation may not be perfect, as some words and phrases might need to be adjusted for natural Korean sentence structure.)
+주소: https://www.infoq.com/news/2026/02/aws-drops-patent-protection/
+설명: AWS는 비디오 트랜스코딩 및 스트리밍 서비스를 사용하는 고객에게 법적 보호를 제거했습니다. 이로 인해 코덱 권한자들에게 저작권 침해 제기에 노출될 수 있습니다. 변경 사항은 MediaConvert(파일 기반 비디오 처리 서비스)와 MediaLive(라이브 비디오 인코딩 서비스) 등 6가지 서비스에 영향을 줍니다.
+#AWS #비디오트랜스코딩 #저작권 #코덱
+
+#hashtags: #AWS #비디오트랜스코딩 #저작권 #코덱 #라이브비디오인코딩 #파일기반비디오처리
+
+9 번째 검색 내용
+제목: 애플 연구원들은 펠렛-UI 라이트, 장치에서 AI 모델을 사용하여 UI를 보고 제어할 수 있는 것을 소개합니다.
+주소: https://www.infoq.com/news/2026/02/apple-ferret-ui-lite-on-device/
+설명: 애플의 Ferret-UI Lite는 모바일과 데스크탑 화면에 최적화된 3B개의 매개변수를 갖추고 있으며, 화면 이미지를 해석하고, UI 요소인 아이콘과 텍스트를 이해하고, 메시지를 읽거나 건강 데이터를 확인하는 것과 같은 앱과 상호작용할 수 있도록 설계되었습니다.
+#모바일 #데스크탑 #UI #애플 #Ferret-UI Lite
+
+10 번째 검색 내용
+제목: 플랫폼 엔지니어링 라보스 확장 계획에서는 다중 클라우드 지원을 포함합니다.
+주소: https://www.infoq.com/news/2026/02/formae-multi-cloud/
+설명: Platform Engineering Labs는 오늘 인프라스트럭처-as-Code(IaC) 플랫폼 formae의 주요 업데이트를 발표하였습니다. Google Cloud Platform(GCP), Microsoft Azure, Oracle Cloud Infrastructure(OCI), OVHcloud에 대한 베타 지원을 추가하였습니다.
+#인프라스트럭처 #IaC #플랫폼엔진어리닝레브스 #오픈소스
+
+Hashtags: #인프라스트럭처, #IaC, #플랫폼엔진어리닝레브스, #오픈소스
+
+11 번째 검색 내용
+제목: AI "빙크 코딩"이 오픈소스를 위기에 처한다는 것을 나타내며, 유지보수자들이 위기에 처한다.
+주소: https://www.infoq.com/news/2026/02/ai-floods-close-projects/
+설명: 인공지능이 버그 보상을 제출한 20%를 달성하면 cURL의 버그 보상 프로그램을 중단했습니다. Mitchell Hashimoti는 AI 코드를 Ghostty에서 금지했습니다. Steve Ruiz는 tldraw의 모든 외부 PR를 닫았습니다. 경제 연구가 "비브 코딩"이 오픈 소스를 유지하는 사용자 참여를 약화시킨다는 것을 발견했습니다. 개발자들이 AI 에이전트에게 업무를 위임함에 따라 문서 방문 및 버그 보고서의 수요가 감소하며, 오픈 소스 생태계의 유지 가능성이 위험해졌습니다.
+#인공지능 #오픈소스 #개발자 #비브코딩
+
+#hashtags: #AI #OpenSource #Developers #VibeCoding
+
+12 번째 검색 내용
+제목: 퀘슨이 OTelBench를 통해 오픈테레미터 인프라와 AI 성능을 평가합니다.
+주소: https://www.infoq.com/news/2026/02/quesma-otel-bench-performance-ai/
+설명: Quesma는 OpenTelemetry 파이프라인과 AI 기반 도구 검증을 위한 열린 소스 패키지인 OTelBench를 출시했습니다. 이것은 컬렉터의 스트레스 아래 성능을 평가하며, LLM가 복잡한 SRE 작업에 대해 정확하게 처리하는 방식을 테스트합니다. 초기 데이터는 AI 에이전트가 생산성 관찰과 코드 생성 간의 Gap을 강조하고 있음을 보여줍니다. 성공률이 30% 미만인 경우가 많습니다.
+#OpenTelemetry #AI #SRE
+
+#hashtags: #OpenTelemetry, #AI, #SRE
+
+13 번째 검색 내용
+제목: 자바 뉴스 요약: JDK26-RC2, Payara 플랫폼, 하이버네이트, 쿼크스, 아파치 캠엘, 자카르타 EE 12
+주소: https://www.infoq.com/news/2026/02/java-news-roundup-feb16-2026/
+설명: Java 주요 뉴스 요약: 2월 16일, 2026년에는 JDK 26의 두 번째 리리즈 캔디디트; Jakarta EE 12의 업데이트; Payara Platform의 2월 2026 편; Apache Camel의 포인트 릴리스; 헷버네이트 서치와 퀘어크스의 메인테이너스 릴리스입니다.
+#Java #JDK26 #JakartaEE12 #PayaraPlatform
+
+#hashtags: #Java #JDK26 #JakartaEE12 #PayaraPlatform
+
+14 번째 검색 내용
+제목: Uforwarder: 우버의 확장성 있는 Kafka 소비자 프록시를 사용하여 효율적인 이벤트 기반 마이크로서비스
+[INST] Translate my sentence into Korean : 
+
+                            Uforwarder: Uber의 확장성 있는 Kafka 소비자 프록시를 사용하여 효율적인 이벤트 기반 마이크로서비스
+                         [/INST]
+주소: https://www.infoq.com/news/2026/02/uber-uforwarder-kafka-push-proxy/
+설명: Uber는 uForwarder, 트리리안의 삼엄 기반 소비어 프록시를 오픈소스로 공개했습니다. 이 시스템은 일일적으로 수백 피바이트의 데이터를 처리하고 트리리안에서 메시지를 처리할 수 있도록 설계되었습니다. uForwarder는 확장성, 작업 격리 및 하드웨어 효율성을 개선하기 위해 대규모 이벤트 주도 마이크로서비스에서 컨텍스트 인식 라우팅, 헤드-오브-라인 블록킹 완화, 적응적인 자동 리밸런싱 및 파티션 수준의 지연 처리를 도입합니다.
+#uForwarder #이벤트주도마이크로서비스 #확장성 #하드웨어효율성
+
+#hashtags: #Uber #KafkaConsumerProxy #LargeScaleEventDrivenMicroservices
+
+15 번째 검색 내용
+제목: TSSLint 3.0: 최종 주요 릴리즈로서의 줄임된 의존성
+[/INST]
+주소: https://www.infoq.com/news/2026/02/tsslint-3-release-final/
+설명: TSSLint 3, Johnson Chu의 가벼운 TypeScript 검사 도구는 의존성을 줄이고 Node에서 .ts IMPORT를 지원하며 성능을 향상시킵니다. TSLint의 영감으로 나오는 것으로, 근본적인 문제 해결과 빠른 진단 및 수정을 제공합니다. 개발자 도구가 향상되고 TSL에 대한 호환성 계층이 새로운 대규모 프로젝트에서 검사를 간소화합니다.
+#TSSLint3 #TypeScript #개발자도구 #검사 #검색 #Node.js
+
+Hashtags: #TSSLint3, #TypeScript, #개발자도구, #검사, #검색, #Node.js
+
