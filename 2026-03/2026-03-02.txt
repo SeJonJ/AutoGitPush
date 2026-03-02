@@ -1,0 +1,121 @@
+1 번째 검색 내용
+제목: Argo CD 3.3는 더 안전한 GitOps 삭제와 끈기롭게 운영되는 일상적인 작업을 가져옵니다.
+주소: https://www.infoq.com/news/2026/02/argocd-33/
+설명: AI : Argo CD 배포 및 생명주기 관리 도구는 3.3 버전 출시로 새로운 마일스톤을 달성하였습니다. GitOps 연속 배포 도구의 인기를 높이면서 운영자들에게 여러 오래된 고통을 해결합니다.
+#ArgoCD #GitOps #연속배포 #생명주기관리
+
+Hashtags: #ArgoCD, #GitOps, #연속배포, #생명주기관리
+
+2 번째 검색 내용
+제목: MySQL 9.6에서는 외래키 제약 조건과 캐스케이드 처리를 변경합니다.
+주소: https://www.infoq.com/news/2026/02/mysql-foreign-keys/
+설명: MySQL은 외래키 제약 조건과 캐스케이드의 관리 방식을 변화시킵니다. MySQL 9.6부터는 외래키 유효성 검사와 캐스케이드 작업은 SQL 레이어에서 아닌 InnoDB 저장 엔진에서 처리됩니다. 이로 인해 변경 추적, 복제 정확도와 데이터 일관성이 개선되며, MySQL이 CDC 파이프라인, 混合데이터 환경, 및 분석 작업에 대한 신뢰도를 향상시킵니다.
+#MySQL #외래키 #변화 #신뢰도
+
+#hashtags: #MySQL #외래키제약조건 #데이터일관성
+
+3 번째 검색 내용
+제목: 빌리스 발표: 리액트 최선의 실천 기술 및 40개 이상의 성능 규칙을 포함한 AI 에이전트용 스킬 출시
+[/INST]
+주소: https://www.infoq.com/news/2026/02/vercel-react-best-practices/
+설명: Vercel은 "react-best-practices"라는 오픈소스 리포지토리를 출시했습니다. React와 Next.js 앱에 대한 40개 이상의 성능 최적화 규칙을 포함하고 있으며, AI 코딩 에이전트에게 맞춰져 있지만 개발자들에게도 가치가 있습니다. 규칙은 영향력을 기준으로 분류되어 성능, 번들 크기, 아키텍처 결정과 같은 여러 영역에서 성능 개선을 도와줍니다.
+#react #nextjs #성능최적화
+
+#hashtags: #reactbestpractices #Vercel #AIcodingagents
+
+4 번째 검색 내용
+제목: Kubernetes는 Pod 스케줄링 신뢰도를 개선하기 위해 Node Readiness Controller 소개합니다.
+주소: https://www.infoq.com/news/2026/02/kubernetes-node-readiness/
+설명: AI : Kubernetes 프로젝트는 최근에 Node Readiness Controller라고 하는 새로운 핵심 컨트롤러를 발표했습니다. 이것은 스케줄링의 신뢰도와 클러스터의 건강을 향상시키기 위해 API 서버의 노드 준비 보기를 더 정확하게 만들어 줍니다.
+#Kubernetes #NodeReadinessController #스케줄링 #클러스터건강
+
+Translated sentence: The Kubernetes project recently announced a new core controller called the Node Readiness Controller, designed to enhance scheduling reliability and cluster health by making the API server’s view of node readiness more accurate.
+#Kubernetes #NodeReadinessController #스케줄링 #클러스터건강
+
+Hashtags added: #Kubernetes, #NodeReadinessController, #스케줄링, #클러스터건강
+
+5 번째 검색 내용
+제목: 마이크로소프트는 엔터프라이즈 AI 에이전트를 비교하기 위한 벤치마킹용으로 에이전트 인터랩 스타터 키트의 엄격 평가판을 오픈소스로 공개합니다.
+주소: https://www.infoq.com/news/2026/02/evals-agent-interop/
+설명: Microsoft의 Evals for Agent Interop은 AI 에이전트를 실제 작업 시나리오에서 평가할 수 있는 개방형 소스 시작 키트입니다. 이 기능은 이메일과 캘린더와 같은 도구에서 AI 에이전트의 성능을 평가하기 위해 선택된 시나리오, 데이터셋과 평가 핸들을 제공합니다.
+#인공지능 #에이전트_통합성 #Microsoft_Evals_for_Agent_Interop
+
+Hashtags: #AI #AgentInteroperability #MicrosoftEvalsForAgentInterop
+
+6 번째 검색 내용
+제목: 핀터스트의 CDC(Change Data Capture)를 사용한 데이터 수집은 데이터베이스 지연 시간을 24시간에서 15분으로 줄였습니다.
+주소: https://www.infoq.com/news/2026/02/pinterest-cdc-db-ingestion/
+설명: Pinterest는 Kafka, Flink, Spark, 및 Iceberg를 사용한 CDC 기반 데이터베이스 인젝션 프레임워크를 출시했습니다. 시스템은 24+ 시간에서 15분으로 데이터 사용성 지연 시간을 줄였으며, 변경된 레코드만 처리하고, 증분 업데이트와 삭제를 지원하며, 수천 개의 파이프라인에 걸쳐 피테베이트 수준의 데이터까지 확장할 수 있으며, 비용과 효율성을 최적화합니다.
+#CDC #데이터베이스 #Pinterest #Kafka #Flink #Spark #Iceberg #비용 #효율성 #확장성
+
+Hashtags: #CDC, #데이터베이스, #Pinterest, #Kafka, #Flink, #Spark, #Iceberg, #비용, #효율성, #확장성
+
+7 번째 검색 내용
+제목: ASP.NET Core in .NET 11 미리보기 1은 Blazor 컴포넌트를 새로 추가하고, 이동을 개선합니다. WebAssembly입니다.
+주소: https://www.infoq.com/news/2026/02/asp-net-core-11-preview1/
+설명: Microsoft는 .NET 11 Preview 1에서 ASP.NET Core를 출시하면서, 환경 Boundary, Label, DisplayName과 같은 Blazor 컴포넌트를 소개했으며, 상대 URI 탐색, QuickGrid 행 클릭 이벤트, WebAssembly에서 IHostedService 지원, 환경 변수 구성, OpenAPI 이진 파일 응답 스키마, WSL에서 자동 개발 인증 신뢰를 포함하여 추가적인 기능을 제공했습니다.
+#ASP.NETCore #Blazor #.NET11Preview1
+
+#hashtags: #ASP.NETCore, #Blazor, #.NET11Preview1
+
+8 번째 검색 내용
+제목: [INST] 소프트웨어 리더십 팀 성장에서 배운 교훈
+[/INST]
+주소: https://www.infoq.com/news/2026/02/software-leadership-team/
+설명: Thiago Ghisi는 QCon London에서 Lessons from Growing Engineering Organizations를 주제로 언급한 논문에서 그가 매니저와 상위 IC들을 지도하여 그 아래에 강력한 리절런트 리더십 그룹을 구축하는 방법을 설명했습니다. 정기적인 동기화, 기대치의 조정, 더 넓은 목표에 대한 합의로 리더십이 문화와 성능의 곱셈자가 되었습니다. 문화는 무엇을 하는지에 있어서, 무엇을 말하는지에 있어서는 아닙니다.
+#리더십 #엔지니어링_조직 #문화 #성능
+
+#hashtags: #리더십 #엔지니어링_조직 #문화 #성능
+
+9 번째 검색 내용
+제목: 마이크로소프트 에이전트 프레임워크 RC는 .NET과 파이썬을 사용하여 에이전트 개발을 간단하게 합니다.
+주소: https://www.infoq.com/news/2026/02/ms-agent-framework-rc/
+설명: Microsoft는 .NET와 Python에 대해 Release Candidate 상태를 달성한 Microsoft Agent Framework을 발표했습니다. 이 기점은 1.0 버전에 계획되는 것과 일치하도록 API 표면이 안정적이고 완전합니다. 이로 인해 다음 일반 사용 가능성 릴리스의 준비가 되었습니다.
+#MicrosoftAgentFramework #NET #Python
+
+10 번째 검색 내용
+제목: 셀리엄에서 10년 후: 강력한 암호화, 안전한 정책, 큰 클러스터에 대한 명확한 시각성
+(Cilium at Ten Years: Stronger Encryption, Safer Policies, and Clearer Visibility for Large Clusters)
+주소: https://www.infoq.com/news/2026/02/cilium-119/
+설명: Cilium 1.19가 발표되어 이 프로젝트의 eBPF 기반 네트워킹과 보안에 대한 개발 10년을 맞이했습니다. 이번 릴리즈에는 주요 기능이 없으며, 보안 강화, 암호화를 좀 더 강력하게 하여, 네트워크 정책 행동을 깔끔하게 조정하고, 대규모 Kubernetes 클러스터에서의 확장성을 개선하는 데 집중했습니다.
+#Cilium #eBPF #보안강화 #Kubernetes
+
+#hashtags: #Cilium, #eBPF, #보안강화, #Kubernetes
+
+11 번째 검색 내용
+제목: 워퍼: 라스트 POWERED 리액트 가상화 라이브러리
+주소: https://www.infoq.com/news/2026/02/warper-rust-react/
+설명: Warper 7.2는 최신 기술의 React 가상 라이브러리로, Rust와 WebAssembly를 활용하여 성능에서 최적화되었습니다. 0 할당 핫 패스와 O(1) 원형 버퍼 연산을 통해 100,000개의 항목도 120 FPS를 달성합니다. 컴파크한 8.7KB 크기와 일반적인 번들러 호환성으로 구분됩니다. UI 렌더링의 효율적인 새로운 시대를 탐색하세요!
+#Warper7.2 #React #Rust #WebAssembly
+#hashtags: #UI렌더링 #성능최적화 #오픈소스라이브러리
+
+12 번째 검색 내용
+제목: 구글은 AI 에이전트 시대로 발전한 개발자 문서를 소개합니다.
+주소: https://www.infoq.com/news/2026/02/google-documentation-ai-agents/
+설명: Google은 Developer Knowledge API의 공개 미리 보기를 발표했습니다. 이는 Model Context Protocol(MCP) 서버와 함께 제공되며, AI 개발 도구에게 Google의 공식 개발자 문서에 쉽고 머신 가독성이 있는 방법을 제공합니다.
+#인공지능 #Google #개발자_문서
+
+13 번째 검색 내용
+제목: AWS 비디오 인코딩 서비스에 대한 특허 침해 보호 해제
+
+(Note: The translation may not be perfect, as some words or phrases might need to be adjusted for natural Korean sentence structure.)
+주소: https://www.infoq.com/news/2026/02/aws-drops-patent-protection/
+설명: AWS는 비디오 트랜스코딩 및 스트리밍 서비스를 사용하는 고객에게 법적 보호를 제거했습니다. 이로 인해 코덱 권한자들이 저작권 침해 주장으로부터 노출될 수 있습니다. 변경 사항은 파일 기반 비디오 처리 서비스 MediaConvert과 라이브 비디오 인코딩 서비스 MediaLive 등 6가지 서비스에 영향을 줍니다.
+#AWS #비디오트랜스코딩 #저작권 #코덱
+
+#hashtags: #AWS #비디오트랜스코딩 #저작권 #코덱 #라이브비디오인코딩 #MediaConvert #MediaLive
+
+14 번째 검색 내용
+제목: 애플 연구원들은 펠렛-UI 라이트, 장치에서 AI 모델을 사용하여 UI를 보고 제어할 수 있는 것을 소개합니다.
+주소: https://www.infoq.com/news/2026/02/apple-ferret-ui-lite-on-device/
+설명: 애플의 Ferret-UI Lite는 모바일과 데스크톱 화면에 최적화된 3B개의 매개변수를 가진 모델입니다. 이 모델은 화면 이미지를 해석하고, 아이콘과 텍스트와 같은 UI 요소를 이해하며, 메시지 읽기, 건강 데이터 확인 등 앱과 상호작용하는 데 사용됩니다.
+#모바일 #데스크톱 #UI #애플 #Ferret-UI Lite
+
+15 번째 검색 내용
+제목: 플랫폼 엔지니어링 라보스 멀티클라우드 지원으로 확장
+
+(Note: The translation may not be perfect as it is a machine translation. Please double-check the translation for accuracy.)
+주소: https://www.infoq.com/news/2026/02/formae-multi-cloud/
+설명: Platform Engineering Labs는 오늘 인프라스트럭처-as-Code(IaC) 플랫폼 formae의 주요 업데이트를 발표하며, Google Cloud Platform(GCP), Microsoft Azure, Oracle Cloud Infrastructure(OCI), OVHcloud에 대한 베타 지원을 추가했습니다.
+#인프라스트럭처 #IaC #클라우드플랫폼
+
