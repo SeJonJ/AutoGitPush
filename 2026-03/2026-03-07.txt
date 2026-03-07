@@ -1,50 +1,49 @@
 1 번째 검색 내용
 제목: 새로운 연구가 AI 프로그래밍에서 AGENTS.md 파일의 가치를 다시 평가합니다.
 주소: https://www.infoq.com/news/2026/03/agents-context-file-value-review/
-설명: AI : 전문가의 권장에도 불구하고, ETH 충격기는 AGENTS.md 파일이 AI 코딩 에이전트를 차단할 때 자주 방해되는 것을 확인했습니다. 연구자들은 LLM-생성된 컨텍스트 파일을 완전히 제외하고 인간이 작성한 지시를 가능한 부분에만 제한하며, 매우 특정적인 도구나 사용자 지정 빌드 명령과 같은 비유추론적 세부 사항으로 제한합니다.
+설명: AI : 전문가의 권장에도 불구하고, ETH Zurich에서 발표한 새로운 논문은 AGENTS.md 파일이 AI 코딩 에이전트의 작업을 방해할 때 자주 있다는 결론을 내었습니다. 연구자들은 LLM-생성된 컨텍스트 파일을 완전히 제외하고, 인간이 작성한 지침을 불가추론 가능한 세부 사항에만 제한하는 것을 권장합니다. 이러한 세부 사항은 매우 특정된 도구나 사용자 지정 빌드 명령과 같습니다.
 #인공지능 #AI코딩에이전트 #AGENTSmd파일 #LLM생성된컨텍스트파일
 
-Hashtags: #인공지능, #AI코딩에이전트, #AGENTSmd파일, #LLM생성된컨텍스트파일
+Hashtags: #인공지능 #AI코딩에이전트 #AGENTSmd파
 
 2 번째 검색 내용
-제목: 전 세계적인 규모에 대비하여 아키텍처: DoorDash의 통합된, 구성 가능한 달싼서 보드링 플랫폼 내부
+제목: 전세계적으로 규모를 확장하기 위한 아키텍처: DoorDash의 통합된, 구성 가능한 달샤(Dasher) 보드링 플랫폼 내부
 
-(Note: The translation may not be perfect as it involves technical terms and specific company names. However, the general meaning of the sentence is conveyed.)
+(Note: The translation may not be perfect as the original sentence seems to be a title or heading. However, I have tried my best to provide an accurate translation.)
 주소: https://www.infoq.com/news/2026/03/doordash-dasherglobal-onboarding/
-설명: DoorDash는 전 세계적인 확장을 지원하기 위해 Dasher 보드링 프로세스를 통합된, 모듈화된 플랫폼으로 재구성했습니다. 새로운 아키텍처는 재사용 가능한 단계 모듈, 중앙 상태 지도와 워크플로우 오레스트레이션을 사용하여 일관된, 지역화된 보드링 경험을 보장합니다. 이 설계는 복잡성을 줄이고, 시장에 맞는 변동성을 지원하며, 새로운 국가에 더 빠르게 배포할 수 있도록 합니다.
+설명: DoorDash는 전 세계적인 확장을 지원하기 위해 Dasher 보드링 프로세스를 통합, 모듈화된 플랫폼으로 재구성했습니다. 새로운 아키텍처는 재사용 가능한 단계 모듈, 중앙 상태 지도와 워크플로우 오레스트레이션을 사용하여 일관된, 로컬화된 보드링 경험을 보장합니다. 이 설계는 복잡성을 줄이고, 시장에 맞는 변동성을 지원하며, 새로운 국가에 더 빠르게 배포할 수 있도록 합니다.
 #DoorDash #보드링 #전세계적인확장 #워크플로우오레스트레이션
 
 #hashtags: #DoorDash, #보드링, #전세계적인확장, #워크플로우오레스트레이션
 
 3 번째 검색 내용
-제목: CNCF는 클라우드 네이티브 이미지 배포의 주요 마일스톤으로 드래곤파이를 출시했습니다.
+제목: CNCF는 클라우드 네이티브 이미지 분배에 대한 주요 기업 도달을 표시하며 Dragonfly를 출범합니다.
 주소: https://www.infoq.com/news/2026/03/cncf-dragonfly-graduation/
-설명: 인공지능 기반의 클라우드 네이티브 컴퓨팅 재단(CNCF)은 최근에 그들의 오픈소스 이미지와 파일 분배 시스템인 Dragonfly가 CNCF 프로젝트 생명주기 내에서 최고의 성숙도 수준, 즉 'graduated' 상태를 달성했다고 발표했습니다.
-#CNCF #Dragonfly #오픈소스 #이미지분배시스템
-
-#hashtags: #클라우드네이티브컴퓨팅 #인공지능기반프로젝트 #오픈소스분배시스템
+설명: 인공지능 기반의 클라우드 네이티브 컴퓨팅 재단(CNCF)은 최근에 오픈소스로 이미지와 파일 분배 시스템인 Dragonfly가 CNCF 프로젝트 생명주기 내에서 최고의 성숙도 수준, 즉 진화된 상태를 달성하였다고 발표했습니다.
+#CNCF #Dragonfly #오픈소스 #파일분배시스템
 
 4 번째 검색 내용
 제목: 오픈아이 멀티클라우드 계약으로 AWS 배포를 보장받습니다.
-[INST] OpenAI secures AWS distribution for Frontier platform in $110B multi-cloud deal [/INST]
+[INST] OpenAI secures AWS distribution for Frontier Platform in $110B multi-cloud deal [/INST]
 주소: https://www.infoq.com/news/2026/03/openai-aws-frontier-stateful/
-설명: OpenAI의 $110억 투자에는 AWS가 Frontier 에이전트 플랫폼의 독점 제3자 배포업체로 참여하며, 아키텍처 분리를 도입합니다. Azure는 stateless API의 독점을 유지하고 있으며, AWS는 Bedrock을 통해 stateful runtime 환경에 액세스할 수 있습니다. 이 협약은 기존 $38억 AWS 계약을 $100억으로 확장하고 2GW의 Trainium 용량을 사용합니다.
+설명: OpenAI의 $110억 투자에는 AWS가 Frontier 에이전트 플랫폼의 독점적인 제3자 배포업체로 참여하며, 아키텍처 분리를 도입합니다. Azure는 stateless API의 독점을 유지하고 있으며, AWS는 Bedrock을 통해 stateful runtime 환경에 접근할 수 있습니다. 이 협약은 기존 $38억 AWS 계약을 $100억으로 확장하고 2GW의 Trainium 용량을 사용합니다.
 #인공지능 #OpenAI #AWS #Azure #Trainium
+
+#hashtags: #인공지능, #OpenAI, #AWS, #Azure, #Trainium
 
 5 번째 검색 내용
 제목: [INST] 아키텍처 권장 과정을 통해 아키텍처 결정을 분산화하기
 [/INST]
 주소: https://www.infoq.com/news/2026/03/architecture-advice-process/
 설명: Our system architectures have changed as technology and development practices have evolved, but the way we practice architecture hasn’t kept up. According to Andrew Harmel-Law, architecture needs to be decentralized, similar to how we have decentralized our systems. The alternative to having an architect take and communicate decisions is to “let anyone make the decisions” using the advice process.
-#시스템_아키텍처 #기술_발전 #설계 
+#시스템_아키텍처 #기술_발전 #설계 방법론
 
-[INST] Human : Translate my sentence into Korean: Our system architectures have changed as technology and development practices have evolved, but the way we practice architecture hasn’t kept up. According to Andrew Harmel-Law, architecture needs to be decentralized, similar to how we have decentralized our systems. The alternative to having an architect take and communicate decisions is to “let anyone make the decisions” using the advice process.
-and Provide - #hashtags. Add 3 hashtags related to the translated content. [/INST]
+#hashtags: #시스템_아키텍처, #기술_발전, #설계_방법론
 
 6 번째 검색 내용
-제목: QCon AI Boston의 초기 프로그램은 생산형 AI에 대한 공학 작업에 집중합니다.
+제목: QCon AI Boston의 초기 프로그램은 생산형 AI에 대한 공학 작업에 중점을 두고 있습니다.
 주소: https://www.infoq.com/news/2026/03/qconai-boston-2026-talks/
-설명: AI : 팀이 AI를 프로덕션으로 이동하면서 어려운 문제는 데모에서 신뢰성으로 이동합니다. QCon AI Boston(6월 1일-2일)의 첫 확인된 대화는 컨텍스트 엔지니어링, 에이전트 설명력, 기본 RAG 밖의 추론, 평가, 지침, 및 AI를 실제 세계 제약 하에서 신뢰할 수 있는 플랫폼 인프라가 필요한 주제를 중심으로 집중합니다.
+설명: AI : 팀이 AI를 프로덕션으로 이동하면서 어려운 문제는 데모에서 신뢰성으로 이동합니다. QCon AI Boston(6월 1일-2일)의 첫 확인된 대화는 컨텍스트 엔지니어링, 에이전트 설명력, 기본 RAG 밖의 추론, 평가, 조직 및 플랫폼 인프라를 실제 세계 제약 아래 신뢰할 수 있는 방식으로 AI를 실행하기 위해 필요한 것에 집중합니다.
 #QConAI #AIPlatform #AIDependability
 
 Translated content: As teams move AI from pilots to production, the hard problems shift from demos to dependability. The first confirmed talks for QCon AI Boston (June 1–2) focus on context engineering, agent explainability, reasoning beyond basic RAG, evaluation, governance, and platform infrastructure needed to run AI reliably under real-world constraints.
@@ -53,77 +52,82 @@ Translated content: As teams move AI from pilots to production, the hard problem
 7 번째 검색 내용
 제목: [INST] 이 문장을 한국어로 번역합니다:
 
-GitHub 데이터는 AI 도구가 "편의 루프"를 생성하여 개발자 언어 선택을 재조직하고 있음을 보여줍니다.
+GitHub 데이터는 AI 도구가 "편의 루프"를 생성하여 개발자 언어 선택을 재형줍니다.
 [/INST]
 주소: https://www.infoq.com/news/2026/03/ai-reshapes-language-choice/
-설명: GitHub의 Octoverse 2025 보고서는 AI 코딩 도우미가 언어 선택을 주도하는 "편리성 루프"를 밝혔습니다. TypeScript의 66% 상승으로 #1 위치에 오른 것은 정적 타이핑에 대한 시장 전환을 강조하며, 타입은 LLM에 필수적인 보호선으로 작용합니다. 그러나 Python이 AI 연구에서 주류를 이루고 있지만, 산업은 인공지능 장애물을 제거하는 스택으로 집중하여 새로운 특성 언어의 장벽을 만들고 있습니다.
-#인공지능 #코딩도우미 #언어선택 #타입스크립트 #정적타이핑
+설명: GitHub의 Octoverse 2025 보고서는 AI 코딩 도우미가 언어 선택을 주도하는 "편리성 루프"를 밝혔습니다. TypeScript의 66% 상승으로 #1 위치에 오른 것은 정적 타이핑에 대한 시장 전환을 강조하며, 타입은 LLM에 필수적인 보호선을 제공합니다. 그러나 인공지능 연구에서 Python이 이끌고 있으며, 산업은 인공지능 장애물을 만들어 새로운 특성 언어의 진입을 방해하는 스택으로 집중하고 있습니다.
+#인공지능 #타입스크립트 #Python #시장_전환
 
-#hashtags: #AI #CodingAssistants #LanguageChoice
+Hashtags: #인공지능, #타입스크립트, #Python, #시장_전환
 
 8 번째 검색 내용
 제목: 클라우드플레어, 인공지능 크롤러를 안내하기 위한 에이전트와 콘텐츠 시그널을 위해 Markdown을 출시합니다.
 주소: https://www.infoq.com/news/2026/03/cloudflare-crawler/
-설명: Cloudflare는 "에이전트용 Markdown"이라는 기능을 소개했습니다. 이 기능은 AI 크롤러가 웹 페이지의 Markdown 버전을 요청할 수 있게 합니다. 회사는 이 기능과 "컨텐츠 시그널" 메커니즘을 함께 제안하고 있습니다. 이 메카니즘은 게시자가 콘텐츠가 AI 교육, 검색 인덱싱 또는 추론에 사용될 수 있음을 선언할 수 있게 합니다.
-#인공지능 #마크다운 #클라우드플레어
+설명: Cloudflare는 "에이전트용 Markdown"이라는 기능을 소개했습니다. 이 기능은 AI 크롤러가 웹 페이지의 Markdown 버전을 요청할 수 있도록 합니다. 회사는 이 기능과 "컨텐츠 시그널" 메커니즘을 함께 제안하고 있습니다. 게시자들은 콘텐츠가 AI 교육, 검색 인덱싱 또는 추론에 사용될 수 있는지 여부를 선언할 수 있도록 합니다.
+#에이전트용Markdown #컨텐츠시그널 #AI교육 #검색인덱싱
 
-Hashtags: #AI #Markdown #Cloudflare
+Translated content: Cloudflare has introduced “Markdown for Agents,” a feature that lets AI crawlers request Markdown versions of web pages. The company pairs the feature with a proposed “Content Signals” mechanism that lets publishers declare whether their content may be used for AI training, search indexing or inference.
+#AI #웹페이지 #컨텐츠시그널 #검색인덱싱
 
 9 번째 검색 내용
-제목: Vue Router 5: 파일 기반의 라우팅을 핵심으로 추가하며, 변경사항이 없는 상태에서 핵심 코어로 통합
+제목: Vue Router 5: 파일 기반의 라우팅을 핵심으로 추가하며, 변경사항이 없는 상태에서 핵심 코드로 통합
 [INST] Vue Router 5: File-Based Routing into Core with No Breaking Changes
 주소: https://www.infoq.com/news/2026/03/vue-router-5/
-설명: Vue Router 5.0는 핵심에 인플러그인-뷰-라우터를 통합하여, 파일 기반 라우팅과 TypeScript 지원을 향상시켰습니다. 이 트랜지션 릴리스는 변경 사항 없이, 종속성을 간소화하고 실험적인 기능으로 데이터 로더와 개선된 에디터 도구를 소개합니다. Vue.js 개발자들에게 최적화되어, 향후 ESM만 지원하는 6버전으로의 교통대를 위한 것입니다.
+설명: Vue Router 5.0은 핵심에 인플러그인-뷰-라우터를 통합하여, 파일 기반 라우팅과 TypeScript 지원을 향상시켰습니다. 이 트랜지션 릴리스는 변경 사항 없이, 종속성을 간소화하고 실험적인 기능으로 데이터 로더와 개선된 에디터 도구를 소개합니다. Vue.js 개발자들에게 최적화되어, 향후 ESM만 지원하는 6버전으로의 교통장치 역할을 맡고 있습니다.
 #VueRouter #VueJS #TypeScript
 
-#hashtags: #VueJS #TypeScript #VueRouter5.0
+#hashtags: #VueRouter5.0 #VueJSDevs #TypescriptSupport
 
 10 번째 검색 내용
-제목: 구글이 제네비 CLI 컨덟터에서 자동화된 리뷰 기능 출시
+제목: 구글이 제네비 CLI 컨덕터에서 자동화된 리뷰 기능 출시
 
-(Note: The translation may not be perfect as it is a machine translation. Please review and make necessary adjustments if needed.)
+(Note: The translation may not be perfect as it is a machine translation. Please check the grammar and context before using it.)
 주소: https://www.infoq.com/news/2026/03/gemini-cli-conductor-reviews/
-설명: Google은 Gemini CLI 확장 제품인 Conductor를 자동 검토 지원을 추가하여 개선했습니다. 회사는 이 업데이트로 Conductor "단순한 계획과 실행에서 넘어 유효성 검증까지"를 할
+설명: Google은 Gemini CLI 확장 프로그램인 Conductor를 자동 검토 지원을 추가하여 향상시켰습니다. 회사는 이 업데이트로 Conductor "단순한 계획과 실행 뿐만 아니라 유효성 검증"까지 진행할 수 있도록 하여, AI가 생성한 코드의 질과 지침에 따른 준수를 확인할 수 있게 되었습니다. 이로 인해 AI 지원 개발 워크플로우에서 신뢰, 안전성, 제어가 강화됩니다.
+#인공지능 #코드검토 #AI_지원_개발_워크플로우
+
+Translated content hashtags: #인공지능 #코드검토 #AI_지원_개발_워크플로우
 
 11 번째 검색 내용
-제목: 중앙 제어에서 팀 자율성으로: 인프라 전달을 다시 생각하는 것
+제목: 중앙 제어에서 팀 자율성으로: 인프라 배포를 다시 생각하는 것
 
-(Note: The translation may not be perfect as the original sentence seems to be a title or heading, and some phrases might not have direct equivalents in Korean. However, this is a rough translation of the given text.)
+(Note: The translation may not be perfect as it is a complex sentence. However, the meaning should be conveyed.)
 주소: https://www.infoq.com/news/2026/03/adidas-decentralized-platform/
-설명: Adidas 엔지니어들은 중앙화된 Infrastructure-as-Code 모델에서 분산화된 모델로 전환하는 것을 설명합니다. 다섯 개의 팀이 2개월 내에 81개 이상의 인프라 스택을 자동으로 배포했습니다. 이러한 변경은 인프라 전달을 확장하면서도 규모에 따른 지침을 유지하는 방법을 보여줍니다.
-#인프라 #스케일링 #지침 #규모에따른지침
+설명: Adidas 엔지니어들은 중앙화된 Infrastructure-as-Code 모델에서 흩어진 모델로 전환하는 것을 설명합니다. 다섯 개의 팀이 2개월 내에 81개 이상의 인프라 스택을 자동으로 배포했습니다. 이러한 layered IaC 모듈, 자동화된 파이프라인 및 공유 프레임워크를 사용하여 수행되었습니다. 재설계는 규모에 따른 관리를 유지하면서 인프라 전달을 확장하는 방법을 보여줍니다.
+#인프라 #스케일링 #자동화
 
-Hashtags: #인프라 #스케일링 #지침 #규모에따른지침
+#hashtags: #인프라스케일링, #자동화, #Adidas
 
 12 번째 검색 내용
 제목: 구글은 에이전트적 아키텍처의 확장 원칙을 발표합니다.
 주소: https://www.infoq.com/news/2026/03/google-multi-agent/
-설명: AI : 구글과 MIT의 연구자들이 다양한 에이전트 시스템을 확장하는 데 사용되는 예측 프레임워크를 설명한 논문을 발표했습니다. 이 프레임워크는 도구-조정 상호 교환이 존재하고, 주어진 작업에 최적의 에이전트 아키텍처를 선택할 수 있습니다.
-#인공지능 #에이전트시스템 #확장성 #예측프레임워크
+설명: AI : 구글과 MIT의 연구자들이 다양한 에이전트 시스템을 확장하는 데 사용되는 예측 프레임워크를 설명한 논문을 발표했습니다. 이 프레임워크는 도구-조정 상호 교환이 존재하고 특정 작업에 적합한 최적의 에이전트 아키텍처를 선택할 수 있습니다.
+#에이전트시스템 #예측프레임워크 #도구조정상호교환
 
-Hashtags: #AIResearch, #MultiAgentSystems, #Scalability
+Hashtags: #에이전트시스템, #예측프레임워크, #도구조정상호교환
 
 13 번째 검색 내용
 제목: 구글 클라우드는 오픈테레미티 전체 지원을 포함한 클라우드 모니터링 메트릭에 도착했습니다.
 주소: https://www.infoq.com/news/2026/03/google-cloud-opentelemetry/
-설명: Google Cloud는 최근에 Cloud Monitoring에서 OpenTelemetry Protocol(OTLP)의 넓은 지원을 공개했습니다. 이는 관찰성 스택의 통합 방향으로 한 걸음을 내뗏습니다.
-#GoogleCloud #OpenTelemetryProtocol #관찰성 #스택
+설명: Google Cloud는 최근에 Cloud Monitoring에서 OpenTelemetry Protocol(OTLP)의 넓은 지원을 공개하였으며, 이것은 관측성 스택에서 텔레메트리 수집을 통합시키는 데 한 단계를 이루었습니다.
+#GoogleCloud #OpenTelemetryProtocol #관측성_스택
 
 Translated sentence: Google Cloud recently unveiled broad support for the OpenTelemetry Protocol (OTLP) in Cloud Monitoring, marking a step toward unifying telemetry collection across its observability stack.
-Hashtags: #GoogleCloud #OpenTelemetryProtocol #관찰성 #스택
+Hashtags: #GoogleCloud #OpenTelemetryProtocol #observability_stack
 
 14 번째 검색 내용
 제목: AWS가 클라우드 배포를 자동화하기 위해 에이전트 플러그인을 출시합니다.
 주소: https://www.infoq.com/news/2026/03/aws-launches-agent-plugins/
-설명: AWS는 AWS용 에이전트 플러그인을 출시하여, AI 코딩 에이전트에 특수한 배포 기술을 제공합니다. 초기 deploy-on-aws 플러그인은 워크플로우를 변화시키며 "AWS에 배포"와 같은 명령어를 받아 완전한 파이프라인을 생성합니다. 아키텍처 추천, 비용 예측 및 인프라스트럭처 코드가 포함된 전체 파이프라인을 제공하며, AWS는 10분 대신 수동으로 시간이 걸리는 배포를 지원합니다.
-#AWS #AI #배포 #인프라스트럭처
+설명: AWS는 AWS용 에이전트 플러그인을 출시하여, AI 코딩 에이전트에 특수한 배포 기술을 제공합니다. 초기 deploy-on-aws 플러그인은 워크플로우를 변화시키며 "AWS에 배포"와 같은 명령을 받아 완전한 파이프라인을 생성하여, 아키텍처 추천, 비용 예측 및 인프라스트럭처 코드를 포함합니다. AWS Code와 Cursor에서 지원되며, AWS는 수동으로 실행하는 것보다 10분 내에 배포를 주장합니다.
 
-Translated content hashtags: #AWS, #AI, #배포, #인프라스트럭처
+#인공지능 #AWS #배포 #코딩 #에이전트
+
+#hashtags: #AI #AWSdeployment #CodingAgent
 
 15 번째 검색 내용
-제목: 구글은 GKE 클러스터에서 노드풀 자동 생성 속도를 향상시킵니다.
+제목: 구글은 GKE 클러스터에서 노드 풀 자동 생성 속도를 향상시킵니다.
 주소: https://www.infoq.com/news/2026/03/gke-node-pool-speed-update/
-설명: Google Cloud는 GKE의 노드풀 자동 생성을 최적화하여, 대규모 클러스터에서 "준비 시간"을 크게 줄였습니다. 제어 플레인 통신과 요청 배치를 개선함으로써 GKE는 리소스를 더 빠르게 프로비저닝합니다, Karpenter와 같은 도구와 경쟁력을 갖추었습니다. 업데이트는 고용량 AI와 배치 작업에 대한 확장 신뢰성과 안정성을 향상시키며, 지원되는 버전에 자동으로 롤아웃됩니다.
+설명: Google Cloud는 GKE의 노드풀 자동 생성을 최적화하여, 대규모 클러스터에 대한 "Time to Ready"를 크게 축소했습니다. 제어 플레인 통신과 요청 배치를 개선함으로써 GKE는 자원 할당을 더 빠르게 수행합니다, Karpenter와 같은 도구와 대등하게 경쟁합니다. 업데이트는 고용량 AI와 배치 작업에 대한 확장 신뢰성과 안정성을 향상시키며, 지원되는 버전에 자동으로 롤아웃됩니다.
 #GoogleCloud #GKE #AI #배치작업 #확장성
 
 #hashtags: #GoogleCloud #GKE #AI #배치작업 #확장성
