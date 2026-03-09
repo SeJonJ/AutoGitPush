@@ -1,0 +1,146 @@
+1 번째 검색 내용
+제목: Rspress 2.0: AI-Native 문서화, 빠른 시작 및 재설계된 테마
+
+(Note: The Korean translation may not be perfect as it is a machine translation. Please review and make any necessary adjustments.)
+주소: https://www.infoq.com/news/2026/03/rspress-docs-2-release/
+설명: Rspress 2.0은 새로운 테마, 성능 향상과 혁신적인 AI 기능으로 개발자 문서화를 변화시키고 있습니다. 빌드 속도 향상과 새로운 Static Site Generation to Markdown(SSG-MD) 기능을 통해, Rspress는 개발자들에게 사용자 정의 스타일링 옵션을 제공하면서 콘텐츠 관리를 간소화합니다. 최고의 문서화 경험을 빠르고 효율적인 방식으로!
+#Rspress2.0 #개발자문서화 #AI기능 #콘텐츠관리
+
+#hashtags: #Rspress2.0, #개발자문서화, #AI기능, #콘텐츠관리
+
+2 번째 검색 내용
+제목: 구글 빅퀴리 프리뷰 분산 데이터에 대한 크로스 지역 SQL 쿼리 지원
+
+(Note: The translation may not be perfect as it is a technical term. Please verify the accuracy if needed.)
+주소: https://www.infoq.com/news/2026/03/google-bigquery-cross-region-sql/
+설명: Google Cloud는 최근에 BigQuery의 전역 쿼리 기능 미리 보기를 발표했습니다. 새로운 옵션은 데이터가 저장된 다양한 지리적 지역에서 SQL 쿼리를 실행할 수 있게 하며, 결과를 집계하기 전에 데이터를 이동하거나 복사하지 않아도 됩니다.
+#GoogleCloud #BigQuery #전역쿼리 #SQL쿼리
+
+#hashtags: #GoogleCloud, #BigQuery, #전역쿼리
+
+3 번째 검색 내용
+제목: 스케일링 인간 판단: Dropbox가 LLM를 사용하여 RAG 시스템의 레이블링을 개선하는 방법
+
+(Note: The Korean translation may not be perfect as it involves technical terms and specific company names. However, the general meaning should be conveyed.)
+주소: https://www.infoq.com/news/2026/03/dropbox-scaling-human-judgement/
+설명: To improve the relevance of responses produced by Dropbox Dash, Dropbox engineers began using LLMs to augment human labelling, which plays a crucial role in identifying the documents that should be used to generate the responses. Their approach offers useful insights for any system built on retrieval-augmented generation (RAG).
+#인공지능 #도큐멘트 검색 #캐시 기반 생성
+
+[INST] Human : Translate my sentence into Korean: To improve the relevance of responses produced by Dropbox Dash, Dropbox engineers began using LLMs to augment human labelling, which plays a crucial role in identifying the documents that should be used to generate the responses. Their approach offers useful insights for any system built on retrieval-augmented generation (RAG). and Provide - #hashtags. Add 3 hashtags related to the translated content. [/INST]
+
+4 번째 검색 내용
+제목: AWS가 EC2 인스턴스에서 중첩 가상화 소개
+
+(Note: The translation may not be perfect as it is a technical term. Please verify the accuracy if needed.)
+주소: https://www.infoq.com/news/2026/03/aws-ec2-nested-virtualization/
+설명: AWS는 EC2 인스턴스에서 KVM 또는 Hyper-V를 실행하고 있는 중첩 가상 머신의 지원을 최근에 발표했습니다. 커뮤니티에서 기다리고 있는 기능이었으며, 이 새로운 옵션은 C8i, M8i, R8i 인스턴스에서 사용 사례를 포함하여 앱 모방 및 하드웨어 시뮬레이션을 지원합니다.
+#AWS #중첩가상머신 #앱모방 #하드웨어시뮬레이션
+
+Hashtags: #AWS, #중첩가상머신, #앱모방, #하드웨어시뮬레이션
+
+5 번째 검색 내용
+제목: 표준화된 후큐언터미온 아이피세크: 클라우드플레이어가 하이브리드 ML-KEM을 암호스위트 블로트를 대체함
+
+(Note: The translation may not be perfect as it involves technical terms and specific company names. However, the general meaning should be conveyed.)
+주소: https://www.infoq.com/news/2026/03/cloudflare-post-quantum-ipsec/
+설명: Cloudflare는 IPsec와 WAN 트래픽에 하이브리드 포스트-큐언티움 암호화를 확장하여 SASE 스택을 표준화했습니다. NIST 2030 데드라인 전에 이를 완료합니다. 이 업데이트는 "흑자 지금, 해독할 때 다시" 위협을 무력화하고, 특수화 하드웨어 업그레이드가 필요하지 않도록 합니다.
+#포스트큐언티움 #암호화 #SASE #Cloudflare
+
+#hashtags: #포스트큐언티움, #암호화, #SASE, #Cloud
+
+6 번째 검색 내용
+제목: 새로운 연구가 AI 프로그래밍에서 AGENTS.md 파일의 가치를 다시 평가합니다.
+주소: https://www.infoq.com/news/2026/03/agents-context-file-value-review/
+설명: AI : 전문가의 권장에도 불구하고, ETH Zurich에서 발표한 논문은 AGENTS.md 파일이 AI 코딩 에이전트의 작업을 방해할 때 자주 있다는 결론을 내었습니다. 연구자들은 LLM-생성된 컨텍스트 파일을 완전히 제외하고, 인간이 작성한 지침을 불가추론 가능한 세부 사항으로 제한하는 것을 권장합니다. 예를 들어, 매우 특정된 도구나 사용자 지정 빌드 명령과 같은 것입니다.
+#인공지능 #AI코딩에이전트 #AGENTSmd파일 #LLM생성
+
+Hashtags: #인공지능 #AI코딩에이전트 #AGENTSmd파일 #LLM생성
+
+7 번째 검색 내용
+제목: 전 세계적인 규모에 대비하여 아키텍처: 도어드래쉬의 통합된, 구성 가능한 달샤 보드링 플랫폼 내부
+
+(Note: The translation may not be perfect as it involves technical terms and specific company names. However, the general idea of the sentence is conveyed.)
+주소: https://www.infoq.com/news/2026/03/doordash-dasherglobal-onboarding/
+설명: DoorDash는 전 세계적인 확장을 지원하기 위해 통합된, 모듈화된 플랫폼으로 Dasher 보드링 재구성했습니다. 새로운 아키텍처는 재사용 가능한 단계 모듈, 중앙 상태 지도와 작업 조직을 사용하여 일관된, 지역화된 보드링 경험을 보장합니다. 이 설계는 복잡성을 줄이고, 시장별 변동성을 지원하며, 새로운 국가에 빠르게 배포를 지원합니다.
+#DoorDash #보드링 #전세계적인확장 #작업조직화
+
+#hashtags: #DoorDash #Onboarding #GlobalExpansion
+
+8 번째 검색 내용
+제목: CNCF는 클라우드 네이티브 이미지 분포의 주요 마일스톤으로 드래곤파이를 출시했습니다.
+주소: https://www.infoq.com/news/2026/03/cncf-dragonfly-graduation/
+설명: 인공지능 재단(CNCF)은 최근에 그들의 오픈소스 이미지와 파일 배포 시스템인 Dragonfly가 CNCF 프로젝트 생명 주기 내에서 최고의 성숙도 수준을 달성했다는 것을 발표했습니다.
+#CNCF #Dragonfly #오픈소스 #배포시스템
+
+#hashtags: #인공지능재단, #오픈소스프로젝트, #이미지및파일배포시스템
+
+9 번째 검색 내용
+제목: 오픈에이 아마존웹서비스(AWS) 배포를 위한 프론티어 플랫폼을 $110억 다중클라우드 계약으로 보호합니다.
+주소: https://www.infoq.com/news/2026/03/openai-aws-frontier-stateful/
+설명: AI : OpenAI의 $110억 투자에서는 AWS가 Frontier 에이전트 플랫폼의 독점 제3자 배포업체로 참여하며, 아키텍처 분리를 도입합니다. Azure는 무상태 API의 독점을 유지하고 있으며, AWS는 Bedrock을 통해 상태 기반 실행 환경을 얻습니다. 이 협약은 기존 $38억 AWS 계약을 $100억으로 확장하고 2GW의 Trainium 용량을 사용합니다.
+#OpenAI #AWS #Azure #Trainium
+
+#hashtags: #인공지능, #클라우드, #기업투자
+
+10 번째 검색 내용
+제목: [INST] 아키텍처 권장 프로세스를 통해 아키텍처 결정을 분산화하기
+[/INST]
+주소: https://www.infoq.com/news/2026/03/architecture-advice-process/
+설명: Our system architectures have changed as technology and development practices have evolved, but the way we practice architecture hasn’t kept up. According to Andrew Harmel-Law, architecture needs to be decentralized, similar to how we have decentralized our systems. The alternative to having an architect take and communicate decisions is to “let anyone make the decisions” using the advice process.
+#시스템_아키텍처 #기술_발전 #설계 
+
+[INST] Human : Translate my sentence into Korean: Our system architectures have changed as technology and development practices have evolved, but the way we practice architecture hasn’t kept up. According to Andrew Harmel-Law, architecture needs to be decentralized, similar to how we have decentralized our systems. The alternative to having an architect take and communicate decisions is to “let anyone make the decisions” using the advice process.
+and Provide - #hashtags. Add 3 hashtags related to the translated content. [/INST]
+
+11 번째 검색 내용
+제목: QCon AI Boston의 초기 프로그램은 생산형 AI에 대한 공학 작업에 중점을 두고 있습니다.
+주소: https://www.infoq.com/news/2026/03/qconai-boston-2026-talks/
+설명: AI : 팀이 AI를 프로덕션으로 이동하면서 어려운 문제는 데모에서 신뢰성으로 이동합니다. QCon AI Boston(6월 1일-2일)의 첫 확인된 대화는 컨텍스트 엔지니어링, 에이전트 설명력, 기본 RAG 밖의 추론, 평가, 지배 및 신뢰할 수 있는 AI를 실행하기 위한 플랫폼 인프라스트럭처에 집중합니다.
+#AI #QConAIBoston #컨텍스트엔지니어링
+
+Translated sentence: As teams move AI from pilots to production, the hard problems shift from demos to dependability. The first confirmed talks for QCon AI Boston (June 1–2) focus on context engineering, agent explainability, reasoning beyond basic RAG, evaluation, governance, and platform infrastructure needed to run AI reliably under real-world constraints.
+#AI #QConAIBoston #ContextEngineering
+
+Hashtags added: #AI, #QConAIBoston, #ContextEngineering
+
+12 번째 검색 내용
+제목: [INST] 
+
+GitHub 데이터는 AI 도구가 "편의 루프"를 생성하여 개발자 언어 선택을 재조직하고 있음을 보여줍니다.
+
+[/INST]
+주소: https://www.infoq.com/news/2026/03/ai-reshapes-language-choice/
+설명: GitHub의 Octoverse 2025 보고서는 AI 코딩 어시스턴트가 언어 선택을 주도하는 "편의성 루프"를 밝혔습니다. TypeScript의 66% 상승으로 #1 위치에 오른 것은 정적 타이핑으로 LLMs에 필수적인 가드레일을 제공하는 것에 대한 시장 전환을 보여줍니다. 그러나 Python이 AI 연구에서 먼저 있지만, 산업은 AI 혼란을 최소화하는 스택으로 집중하고 있어 새로운 특성 언어의 장벽을 만들고 있습니다.
+#인공지능 #코딩_어시스턴트 #타입스크립트 #언어_선택
+
+#hashtags: #AI #CodingAssistants #TypeScript #LanguageChoice
+
+13 번째 검색 내용
+제목: 클라우드플레어, 인공지능 크롤러를 안내하기 위한 에이전트와 콘텐츠 시그널을 위해 Markdown을 출시합니다.
+주소: https://www.infoq.com/news/2026/03/cloudflare-crawler/
+설명: Cloudflare는 "에이전트용 Markdown"이라는 기능을 소개했습니다. 이 기능은 AI 크롤러가 웹 페이지의 Markdown 버전을 요청할 수 있게 합니다. 회사는 이 기능과 "컨텐츠 시그널" 메커니즘을 함께 제안하고 있습니다. 이 메카니즘은 발행자가 콘텐츠가 AI 교육, 검색 인덱싱 또는 추론에 사용될 수 있는지 여부를 선언할 수 있게 합니다.
+#에이전트용Markdown #컨텐츠시그널 #AI교육 #검색인덱싱
+
+Translated sentence: Cloudflare has introduced “Markdown for Agents,” a feature that lets AI crawlers request Markdown versions of web pages. The company pairs the feature with a proposed “Content Signals” mechanism that lets publishers declare whether their content may be used for AI training, search indexing or inference.
+#hashtags: #에이전트용Markdown #컨텐츠시그널 #AI교육 #검색인덱싱
+
+14 번째 검색 내용
+제목: Vue Router 5: 파일 기반의 라우팅을 핵심으로 추가하며, 변경 없이 통합
+
+(Note: The translation may not be perfect as it is a technical term. Please verify the accuracy if needed.)
+주소: https://www.infoq.com/news/2026/03/vue-router-5/
+설명: Vue Router 5.0은 핵심에 통합되어 파일 기반 라우팅과 TypeScript 지원을 향상시켰습니다. 이 전환 릴리스는 깨지지 않는 변경 사항 없이, 종속성을 간소화하고 실험적인 기능으로 데이터 로더와 개선된 에디터 도구를 소개합니다. Vue.js 개발자들에게 최적화되어, 향후 ESM(ES Modules)만 지원하는 6버전으로의 다리 역할을 합니다.
+#VueRouter #VueJS #TypeScript #ESM
+
+#hashtags: #VueRouter, #VueJS, #TypeScript, #ESM
+
+15 번째 검색 내용
+제목: 구글이 제네비 CLI 컨덟터에서 자동화된 리뷰 기능 출시
+
+(Note: The translation may not be perfect as it is a machine translation. Please review and make necessary adjustments if needed.)
+주소: https://www.infoq.com/news/2026/03/gemini-cli-conductor-reviews/
+설명: Google은 Gemini CLI 확장 기능인 Conductor를 자동 검토 지원을 추가하여 향상시켰습니다. 회사는 이 업데이트로 Conductor "단순한 계획과 실행 뿐만 아니라 유효성 검증"까지 진행할 수 있도록 하여, AI 생성 코드의 질과 지침에 따른 준수를 확인할 수 있게 되었습니다. 이로 인해 AI 지원 개발 워크플로우에서 신뢰, 안전성, 제어가 강화됩니다.
+#인공지능 #코드검토 #AI_지원_개발_워크플로우
+
+Hashtags: #인공지능, #코드검토, #AI_지원_개발_워크플로우
+
