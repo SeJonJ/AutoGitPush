@@ -1,0 +1,139 @@
+1 번째 검색 내용
+제목: 넷플릭스는 400개의 제품 클러스터에서 RDS PostgreSQL을 Aurora PostgreSQL로 자동으로 마이그레이션합니다.
+[INST] Netflix Automates RDS PostgreSQL to Aurora PostgreSQL Migration Across 400 Production Clusters
+주소: https://www.infoq.com/news/2026/03/netflix-automates-rds-aurora/
+설명: Netflix 엔지니어들은 내부 자동화 플랫폼을 설명합니다. 이 플랫폼은 약 400개의 RDS PostgreSQL 클러스터를 Aurora로 이전하여, 다운타임과 운영 위험을 줄였습니다. 플랫폼은 복제, CDC 처리, 조정된 전환, 롤백을 지원하며, 서비스 팀에 자체 서비스 마이그레이션 워크플로우를 지원합니다.
+#Netflix #엔지니어링 #데이터베이스 #자동화
+
+#hashtags:
+1. #NetflixEngineering
+2. #DatabaseMigration
+3. #AutomationPlatform
+
+2 번째 검색 내용
+제목: 자바 뉴스 요약: Apache Solr 10, LangChain4j, Grails, JobRunr, Gradle, Devnexus, Commonhaus
+주소: https://www.infoq.com/news/2026/03/java-news-roundup-mar02-2026/
+설명: Java 주요 뉴스 요약: 3월 2일, Apache Solr 10의 GA 릴리즈; LangChain4j, JobRunr, Multik, Gradle에 대한 포인트 릴리즈; Grails와 Keycloak에 대한 메인테이너스 릴리즈; Devnexus 2026; 그리고 Pi4J가 Commonhaus Foundation에 합류함.
+#Java #Runtimes #Frameworks #Conferences
+
+3 번째 검색 내용
+제목: 마이크로소프트는 MCP C# SDK v1.0을 출시하며, 최신 프로토콜 사양에 대한 전체 지원을 제공합니다.
+주소: https://www.infoq.com/news/2026/03/mcp-csharp-v1/
+설명: Microsoft는 2025-11-25 MCP 사양에 대한 전체 지원을 제공하며, 인증 흐름, 도구와 리소스에 대한 아이콘 지원, 범위 동의 증분, URL 모드 추출, 샘플링 시 도구 호출, 길게 실행되는 HTTP 요청을 처리하는 데에 대한 개선 사항을 포함하여 1.0 버전의 공식 MCP C# SDK를 발표했습니다.
+#MCP #CSharpSDK #인증흐름
+
+Translated content: Microsoft has released version 1.0 of the official MCP C# SDK, bringing full support for the 2025-11-25 MCP Specification. The release introduces enhanced authorization flows, icon support for tools and resources, incremental scope consent, URL mode elicitation, tool calling in sampling, and improved handling of long-running HTTP requests.
+#MCP #CSharpSDK #인증흐름
+
+Hashtags added: #MCP, #CSharpSDK, #인증흐름
+
+4 번째 검색 내용
+제목: Rspress 2.0: AI-Native 문서화, 빠른 시작 및 재설계된 테마
+
+(Note: The Korean translation may not be perfect as it is a machine translation. Please review and make any necessary adjustments.)
+주소: https://www.infoq.com/news/2026/03/rspress-docs-2-release/
+설명: Rspress 2.0은 새로운 테마, 성능 향상과 혁신적인 AI 기능으로 개발자 문서화를 변화시키고 있습니다. 빌드 속도 향상과 새로운 Static Site Generation to Markdown(SSG-MD) 기능을 통해, Rspress는 개발자들에게 사용자 정의 스타일링 옵션을 제공하면서 콘텐츠 관리를 간소화합니다. 최고의 문서화 경험을 빠르고 효율적인 방식으로!
+#Rspress2.0 #개발자문서화 #AI기능 #콘텐츠관리
+
+#hashtags: #Rspress2.0 #개발자문서화 #AI기능 #콘텐츠관리
+
+5 번째 검색 내용
+제목: 구글 빅퀴리 프리뷰 분산 데이터에 대한 크로스 지역 SQL 쿼리 지원
+
+(Note: The translation may not be perfect as it is a technical term. Please confirm the accuracy with a professional translator if necessary.)
+주소: https://www.infoq.com/news/2026/03/google-bigquery-cross-region-sql/
+설명: Google Cloud는 최근에 BigQuery의 전역 쿼리 기능 미리 보기를 발표했습니다. 새로운 옵션은 데이터가 저장된 다양한 지리적 지역에서 SQL 쿼리를 실행할 수 있게 하며, 결과를 집계하기 전에 데이터를 이동하거나 복사하지 않아도 됩니다.
+#GoogleCloud #BigQuery #전역쿼리 #SQL쿼리
+
+#hashtags: #GoogleCloud, #BigQuery, #전역쿼리
+
+6 번째 검색 내용
+제목: 스케일링 인간 판단: Dropbox가 LLM를 사용하여 RAG 시스템의 레이블링을 개선하는 방법
+
+(Note: The translation may not be perfect as it is a technical term. Please check for accuracy if needed.)
+주소: https://www.infoq.com/news/2026/03/dropbox-scaling-human-judgement/
+설명: To improve the relevance of responses produced by Dropbox Dash, Dropbox engineers began using LLMs to augment human labelling, which plays a crucial role in identifying the documents that should be used to generate the responses. Their approach offers useful insights for any system built on retrieval-augmented generation (RAG).
+#인공지능 #도큐먼트 검색 #캐시 기반 생성
+
+[INST] Human : Translate my sentence into Korean: To improve the relevance of responses produced by Dropbox Dash, Dropbox engineers began using LLMs to augment human labelling, which plays a crucial role in identifying the documents that should be used to generate the responses. Their approach offers useful insights for any system built on retrieval-augmented generation (RAG). and Provide - #hashtags. Add 3 hashtags related to the translated content. [/INST]
+
+7 번째 검색 내용
+제목: AWS가 EC2 인스턴스에서 중첩 가상화 소개
+
+(Note: The translation may not be perfect as it is a technical term. Please confirm the accuracy with a professional translator if necessary.)
+주소: https://www.infoq.com/news/2026/03/aws-ec2-nested-virtualization/
+설명: AWS는 EC2 인스턴스에서 KVM 또는 Hyper-V를 실행하고 있는 중첩 가상 머신의 지원을 최근에 발표했습니다. 커뮤니티에서 기대되었던 기능입니다. 이 새로운 옵션은 지원되는 C8i, M8i, R8i 인스턴스에서 앱 모방 및 하드웨어 시뮬레이션과 같은 사용 사례를 활성화합니다.
+#AWS #EC2 #중첩가상머신
+
+Hashtags: #AWS, #EC2, #중첩가상머신
+
+8 번째 검색 내용
+제목: 표준화된 후큐언터미온 아이피세크: 클라우드플레어가 비트블로우를 대체하기 위해 하이브리드 ML-KEM을 채택합니다.
+주소: https://www.infoq.com/news/2026/03/cloudflare-post-quantum-ipsec/
+설명: Cloudflare는 IPsec와 WAN 트래픽에 하이브리드 포스트-큐언티움 암호화를 확장하여 SASE 스택을 표준화했습니다. NIST 2030 데드라인 전에 이를 수행합니다. 이 업데이트는 "흑자 지금, 해독할 때 다시" 위협을 비활성화하고 특수화 하드웨어 업그레이드가 필요하지 않도록 합니다.
+#포스트큐언티움 #암호화 #SASE
+
+Hashtags: #포스트큐언티움 #암호화 #SASE
+
+9 번째 검색 내용
+제목: 새로운 연구가 AI 프로그래밍에서 AGENTS.md 파일의 가치를 다시 평가합니다.
+주소: https://www.infoq.com/news/2026/03/agents-context-file-value-review/
+설명: AI : 전문가의 권장에도 불구하고, ETH Zurich에서 발표한 논문은 AGENTS.md 파일이 AI 코딩 에이전트의 작업을 방해할 수 있다는 결론을 내었습니다. 연구자들은 LLM-생성된 컨텍스트 파일을 완전히 제외하고, 인간이 쓴 지시를 추론할 수 없는 세부 사항으로 제한하며, 특정 도구나 사용자 지정 빌드 명령과 같은 고유한 도구를 포함합니다.
+#인공지능 #AI코딩에이전트 #AGENTSmd파일
+
+Hashtags: #인공지능, #AI코딩에이전트, #AGENTSmd파일
+
+10 번째 검색 내용
+제목: 전 세계적인 규모에 대비하여 아키텍처: DoorDash의 통합된, 구성 가능한 달싼서 보드링 플랫폼 내부
+
+(Note: The translation may not be perfect as it involves technical terms and specific company names. However, the general idea of the sentence is conveyed.)
+주소: https://www.infoq.com/news/2026/03/doordash-dasherglobal-onboarding/
+설명: DoorDash는 전 세계적인 확장을 지원하기 위해 Dasher 보드링 프로세스를 통합된, 모듈화된 플랫폼으로 재구성했습니다. 새로운 아키텍처는 재사용 가능한 단계 모듈, 중앙 상태 지도와 작업 조직을 사용하여 일관된, 지역화된 보드링 경험을 보장합니다. 이 설계는 복잡성을 줄이고, 시장에 맞는 변형을 지원하며, 새로운 국가에 더 빠르게 배포할 수 있습니다.
+#DoorDash #보드링 #전세계적인확장 #작업조직화
+
+#hashtags: #DoorDash, #보드링, #전세계적인확장, #작업조직화
+
+11 번째 검색 내용
+제목: CNCF는 클라우드 네이티브 이미지 분배에 대한 주요 기점을 표시하며 드래곤파이를 출격합니다.
+주소: https://www.infoq.com/news/2026/03/cncf-dragonfly-graduation/
+설명: 인공지능 기반의 클라우드 네이티브 컴퓨팅 재단(CNCF)은 최근에 오픈소스로 이미지와 파일 분배 시스템인 Dragonfly를 CNCF 프로젝트 생명주기의 가장 높은 성숙도 수준인 graduated 상태에 달성했다고 공지했습니다.
+#CNCF #Dragonfly #오픈소스 #분배시스템
+
+12 번째 검색 내용
+제목: 오픈아이 멀티클라우드 계약으로 AWS 배포를 보장받습니다.
+[INST] OpenAI secures AWS distribution for Frontier Platform in $110B multi-cloud deal [/INST]
+주소: https://www.infoq.com/news/2026/03/openai-aws-frontier-stateful/
+설명: OpenAI의 $110억 투자에는 AWS가 Frontier 에이전트 플랫폼의 독점적인 제3자 배포업체로 참여하며, 아키텍처 분리를 도입합니다. Azure는 stateless API의 독점 유지; AWS는 Bedrock을 통해 stateful runtime 환경에 대한 액세스를 얻습니다. 이 협약은 기존 $38억 AWS 계약을 $100억으로 확장하고 Trainium 용량의 2GW를 맞춥니다.
+#인공지능 #OpenAI #AWS #Azure #Trainium
+
+#hashtags: #인공지능, #OpenAI, #AWS, #Azure, #Trainium
+
+13 번째 검색 내용
+제목: [INST] 아키텍처 권장 과정을 통해 아키텍처 결정을 분산화하기
+[/INST]
+주소: https://www.infoq.com/news/2026/03/architecture-advice-process/
+설명: Our system architectures have changed as technology and development practices have evolved, but the way we practice architecture hasn’t kept up. According to Andrew Harmel-Law, architecture needs to be decentralized, similar to how we have decentralized our systems. The alternative to having an architect take and communicate decisions is to “let anyone make the decisions” using the advice process.
+#시스템_아키텍처 #아키텍처_발전 #데윈먼트_실천방법
+
+Translated content hashtags: #시스템_아키텍처, #아키텍처_발전, #데윈먼트_실천방법
+
+14 번째 검색 내용
+제목: QCon AI Boston의 초기 프로그램은 생산형 AI에 있어서 공학 작업에 중점을 두고 있습니다.
+주소: https://www.infoq.com/news/2026/03/qconai-boston-2026-talks/
+설명: AI : 팀이 AI를 프로덕션으로 이동하면서 어려운 문제는 데모에서 신뢰성으로 이동합니다. QCon AI Boston(6월 1일-2일)의 첫 확인된 대화는 컨텍스트 엔지니어링, 에이전트 설명력, 기본 RAG 밖의 추론, 평가, 관리 및 실행을 위한 플랫폼 인프라가 필요하다는 것을 중점으로 집중합니다.
+#AI #QConAIBoston #컨텍스트엔지니어링
+
+Hashtags: #AI #QConAIBoston #컨텍스트엔지니어링
+
+15 번째 검색 내용
+제목: [INST] 
+
+GitHub 데이터는 AI 도구가 "편의 루프"를 생성하여 개발자의 언어 선택을 재형하고 있음을 보여줍니다.
+
+[/INST]
+주소: https://www.infoq.com/news/2026/03/ai-reshapes-language-choice/
+설명: GitHub의 Octoverse 2025 보고서는 AI 코딩 도우미가 언어 선택을 주도하는 "편리성 루프"를 밝혔습니다. TypeScript의 66% 상승으로 #1 위치에 이르러 정적 타입이 잠재적 언어 모델(LLM)을 위한 필수 보호장치를 제공함을 보여줍니다. 그러나 Python은 AI 연구에서 이빨을 놓고 있지만, 산업은 인공지능 장애물을 줄이기 위한 스택으로 집중하여 새로운 특성 언어의 장벽을 만들고 있습니다.
+#인공지능 #코딩도우미 #타입스크립트 #언어선택
+
+#hashtags: #AI #CodingAssistants #TypeScript #ProgrammingLanguages
+
