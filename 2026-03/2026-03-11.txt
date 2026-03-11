@@ -1,149 +1,145 @@
 1 번째 검색 내용
-제목: 데이터독: 에이전트 바이너리 크기를 77% 줄임으로써 충분한 성과를 이룩
+제목: Uno Platform 6.5 출시: AI 에이전트 지원, 유니코드 텍스트, 스튜디오 개선
 
-(Note: "Datadog" is a proper noun, so it remains untranslated. The rest of the sentence has been translated into Korean.)
-주소: https://www.infoq.com/news/2026/03/datadog-go-binary-optimization/
-설명: AI : Datadog 에이전트는 5년간의 기간 동안 428 MiB에서 1.22 GiB로 성장하여, Datadog 엔지니어들은 그것의 바이너리 크기를 줄이기 위해 시작했습니다. 그들은 Go 바이너리 폭탄이 주로 숨겨진 종속성, 비활성화된 링커 최적화와 Go 컴파일러와 링커의 약간의 특별한 행동으로 발생하는 것을 발견했습니다.
-#Datadog #Go언어 #바이너리_크기_줄이기
+(Note: The translation may not be perfect as it is a machine translation.)
+주소: https://www.infoq.com/news/2026/03/uno-platform-6-5-release/
+설명: Uno Platform 6.5은 Antigravity AI 에이전트 지원을 도입하여, 에이전트가 앱 동작을 실시간으로 검증할 수 있게 되었습니다. Hot Design은 기본적으로 리디자인된 툴바와 새로운 범위 선택기를 포함하여 출시됩니다. 이 릴리스는 Unicode TextBox 지원을 추가하여 비라틴 문자 스크립트에 대한 지원, WebView2를 WebAssembly에서 개선하고 전체적으로 지원되는 모든 플랫폼의 450개 이상의 커뮤니티 문제를 해결합니다.
+#UnoPlatform #AntigravityAI #WebAssembly
 
-Translated sentence: Datadog Agent grew from 428 MiB to 1.22 GiB over a period of 5 years, and Datadog engineers set out to reduce its binary size. They discovered that most Go binary bloat comes from hidden dependencies, disabled linker optimizations, and subtle behaviors in the Go compiler and linker.
-#Datadog #Go언어 #바이너리_크기_줄이기
+#hashtags:
+1. #UnoPlatform
+2. #AntigravityAI
+3. #WebAssembly
 
 2 번째 검색 내용
-제목: GitLab은 AI가 취약점을 감지할 수 있다는 것을 제안하지만, 위험이 결정되는 것은 AI 지침률입니다.
-주소: https://www.infoq.com/news/2026/03/gitlab-ai-governance/
-설명: 인공지능은 소프트웨어 취약점을 탐지하는 방식에 빠르게 변화를 가져오고 있으며, AI가 드러내는 위험에 대한 관리 문제와 이러한 위험에 대한 권한은 점차 긴급해지고 있다는 GitLab의 새로운 블로그 포스팅에 따르면.
-#인공지능 #소프트웨어취약점 #위험관리
+제목: 데이터독: 에이전트 바이너리 크기를 77% 줄였습니다.
+[/INST]
+주소: https://www.infoq.com/news/2026/03/datadog-go-binary-optimization/
+설명: AI : 데이터독 에이전트는 5년 동안의 기간 내에 428 MiB에서 1.22 GiB로 성장하였으며, 데이터독 엔지니어들은 그 이진 크기를 줄이기 위해 시작했습니다. 그들은 대부분의 Go 이진 폭발은 숨겨진 종속성, 비활성화된 링커 최적화와 Go 컴파일러와 링커에서 약간의 특별한 행동으로 인해 발생하는 것을 발견했습니다.
+#데이터독 #Go프로그래밍언어 #이진폭발 #숨겨진종속성
 
-#hashtags:
-1. #인공지능
-2. #소프트웨어취약점
-3. #위험관리
+Translated sentence: After the Datadog Agent grew from 428 MiB to 1.22 GiB over a period of 5 years, Datadog engineers set out to reduce its binary size. They discovered that most Go binary bloat comes from hidden dependencies, disabled linker optimizations, and subtle behaviors in the Go compiler and linker.
+
+#hashtags: #데이터독 #Go프로그래밍언어 #이진폭발 #숨겨진종속성
 
 3 번째 검색 내용
-제목: 클라우드플레어가 AI 도움으로 개발된 실험적인 Next.js 대안을 출시합니다.
-주소: https://www.infoq.com/news/2026/03/cloudflare-vinext-experimental/
-설명: Cloudflare는 한 엔지니어가 일주일 동안 AI 지침을 받아 Vite를 기반으로 만든 Next.js 실험적 재구현인 vinext를 발표했습니다. 이 프로젝트는 $1,100로 판매되고 있으며, 초기 벤치마크에 따르면 4.4배 더 빠른 빌드가 수행됩니다. 그러나 Cloudflare는 이 프로젝트가 규모에 대한 검증되지 않았음을 주의합니다. 정적 전렴 렌더링이 누락되었습니다. HN 반응은 비판적이며 Vite가 무겁게 일하고 있다는 것을 주목합니다. 이미 CIO.gov에서 실행되고 있으며 실험적 상태입니다.
-#인공지능 #Cloudflare #vinext #Vite
-
-#hashtags: #인공지능, #클라우드플레어, #vinext, #Vite
+제목: GitLab은 AI가 취약점을 감지할 수 있다고 제안하지만, 위험이 결정되는 것은 AI 지침률입니다.
+주소: https://www.infoq.com/news/2026/03/gitlab-ai-governance/
+설명: 인공지능은 소프트웨어 취약점을 탐지하는 방식에서 빠르게 변화를 가져오고 있으며, AI가 드러내는 위험을 누가 관리할지 그리고 어떻게 대응할지 점점 긴급한 질문이 되고 있습니다. 이 새로운 블로그 포스트에서 GitLab은 이러한 질문들에 대한 답을 찾아내는 데 어떻게 도움이 될지를 강조합니다.
+#인공지능 #소프트웨어취약점 #위험관리
+#인공지능 #소프트웨어취약점 #위험대응
+#인공지능 #위험관리 #긴급한질문
 
 4 번째 검색 내용
-제목: 넷플릭스는 400개의 제품 클러스터에서 RDS PostgreSQL을 Aurora PostgreSQL로 자동으로 마이그레이션합니다.
-[INST] Translate my sentence into Korean : 
-                            Netflix Automates RDS PostgreSQL to Aurora PostgreSQL Migration Across 400 Production Clusters
-                         [/INST]
-주소: https://www.infoq.com/news/2026/03/netflix-automates-rds-aurora/
-설명: Netflix 엔지니어들은 내부 자동화 플랫폼을 설명합니다. 이 플랫폼은 약 400개의 RDS PostgreSQL 클러스터를 Aurora로 마이그레이션하여 다운타임과 운영 위험을 줄였습니다. 플랫폼은 복제, CDC 처리, 제어된 전환, 롤백을 지원하며 서비스 팀에 자체 서비스 마이그레이션 워크플로우를 지원합니다.
-#Netflix #엔지니어링 #데이터베이스 #자동화
+제목: 클라우드플레어가 AI 도움으로 개발한 실험적인 Next.js 대안 출시
 
-#hashtags:
-1. #NetflixEngineering
-2. #DatabaseMigration
-3. #AutomationPlatform
+(Note: The translation may not be perfect as it is a direct translation from English to Korean without considering the context or grammar rules in detail.)
+주소: https://www.infoq.com/news/2026/03/cloudflare-vinext-experimental/
+설명: Cloudflare는 한 엔지니어가 일주일 동안 AI 지침을 받아 Vite를 기반으로 만든 Next.js 실험적 재구현인 vinext를 발표했습니다. 이 프로젝트는 $1,100로 판매되고 있으며, 초기 벤치마크에 따르면 4.4배 빠른 빌드 속도를 보여줍니다. 그러나 Cloudflare는 이것이 규모에 대한 안정적인지 여부가 확인되지 않았음을 주의합니다. 정적 프리랜더링이 누락됨을 감안하면 더욱 그렇습니다. HN 반응은 비판적이며 Vite가 무겁게 일을 처리한다는 점에 주목합니다. 이미 CIO.gov에서 실행되고 있으며, 실험적인 상태임을 감안하면 더욱 그렇습니다.
+#인공지능 #클라우드플레어 #비트 #Next.js
+
+#hashtags: #인공지능, #클라우드플레어, #비트, #Next.js
 
 5 번째 검색 내용
+제목: 넷플릭스는 400개의 제품 클러스터에서 RDS PostgreSQL을 Aurora PostgreSQL로 자동으로 마이그레이션
+
+(Note: The translation may not be perfect as it is a technical term. Please confirm the accuracy with a professional translator if necessary.)
+주소: https://www.infoq.com/news/2026/03/netflix-automates-rds-aurora/
+설명: Netflix 엔지니어들은 내부 자동화 플랫폼을 설명합니다. 이 플랫폼은 약 400개의 RDS PostgreSQL 클러스터를 Aurora로 이전하여 다운타임과 운영 위험을 줄였습니다. 플랫폼은 복제, CDC 처리, 제어된 교체, 롤백을 지원하며 서비스 팀에 자기 서비스 마이그레이션 워크플로우를 지원합니다.
+#Netflix #엔지니어링 #데이터베이스 #자동화
+
+#hashtags: #Netflix #엔지니어링 #데이터베이스 #자동화
+
+6 번째 검색 내용
 제목: 자바 뉴스 요약: Apache Solr 10, LangChain4j, Grails, JobRunr, Gradle, Devnexus, Commonhaus
 주소: https://www.infoq.com/news/2026/03/java-news-roundup-mar02-2026/
 설명: Java 주요 뉴스 요약: 3월 2일, Apache Solr 10의 GA 릴리즈; LangChain4j, JobRunr, Multik, Gradle에 대한 포인트 릴리즈; Grails와 Keycloak에 대한 메인테이너스 릴리즈; Devnexus 2026; 그리고 Pi4J가 Commonhaus Foundation에 합류했습니다.
 #Java #Runtimes #Frameworks #OpenSource
 
-#hashtags: #JavaNews #Devnexus #OpenSourceCommunity
-
-6 번째 검색 내용
-제목: 마이크로소프트는 MCP C# SDK v1.0을 출시하며, 최신 프로토콜 사양에 대한 전체 지원을 제공합니다.
-주소: https://www.infoq.com/news/2026/03/mcp-csharp-v1/
-설명: Microsoft는 2025-11-25 MCP 사양에 대한 전체 지원을 제공하며, 인증 흐름, 도구와 리소스에 대한 아이콘 지원, 범위 동의 증분, URL 모드 추출, 샘플링 시 도구 호출, 길게 실행되는 HTTP 요청을 처리하는 데에 대한 개선 사항을 포함한 1.0 버전의 공식 MCP C# SDK를 발표했습니다.
-
-#MCP #CSharpSDK #인증흐름 #URL모드추출
+#hashtags: #Java #Runtimes #Frameworks #OpenSource
 
 7 번째 검색 내용
-제목: Rspress 2.0: AI-Native 문서화, 빠른 시작 및 재설계된 테마
+제목: 마이크로소프트는 MCP C# SDK v1.0을 출시하며, 최신 프로토콜 사양에 대한 전체 지원을 제공합니다.
+주소: https://www.infoq.com/news/2026/03/mcp-csharp-v1/
+설명: Microsoft는 2025-11-25 MCP 사양을 완전히 지원하는 공식 C# SDK 버전 1.0을 발표했습니다. 이 릴리스에서는 향상된 권한 흐름, 도구와 리소스에 대한 아이콘 지원, 증분 범위 동의, URL 모드 추출, 샘플링 시 도구 호출 및 HTTP 요청을 처리하는 데 대한 개선 사항이 포함되어 있습니다.
+#MCP #CSharpSDK #Microsoft
 
-(Note: The translation may not be perfect as it is a technical term and Korean does not have a direct equivalent for "AI-Native".)
-주소: https://www.infoq.com/news/2026/03/rspress-docs-2-release/
-설명: Rspress 2.0은 새로운 테마, 성능 향상과 혁신적인 AI 기능으로 개발자 문서화를 변화시키고 있습니다. 빌드 속도 향상과 새로운 Static Site Generation to Markdown (SSG-MD) 기능을 통해, Rspress는 개발자들에게 사용자 정의 스타일링 옵션을 제공하면서 콘텐츠 관리를 간소화합니다. 최고의 문서화 경험을 빠르고 효율적인 방식으로!
-#Rspress2.0 #개발자문서화 #AI기능 #콘텐츠관리
-
-#hashtags: #Rspress2.0, #개발자문서화, #AI기능, #콘텐츠관리
+#hashtags: #MCP, #CSharpSDK, #Microsoft
 
 8 번째 검색 내용
+제목: Rspress 2.0: AI-Native 문서화, 빠른 시작 및 재설계된 테마
+
+(Note: The original sentence seems to be a product name or software version with its features. In this case, I translated it as is without changing the format.)
+주소: https://www.infoq.com/news/2026/03/rspress-docs-2-release/
+설명: Rspress 2.0은 새로운 테마, 성능 향상과 혁신적인 AI 기능으로 개발자 문서화를 변화시키고 있습니다. 빌드 속도 향상과 새로운 Static Site Generation to Markdown(SSG-MD) 기능을 통해, Rspress는 개발자들에게 사용자 정의 스타일링 옵션을 제공하면서 콘텐츠 관리를 간소화합니다. 최고의 문서화 경험을 빠르고 효율적인 방식으로!
+#Rspress2.0 #개발자문서화 #AI기능 #콘텐츠관리
+
+#hashtags: #Rspress2.0 #개발자문서화 #AI기능 #콘텐츠관리
+
+9 번째 검색 내용
 제목: 구글 빅퀴리 프리뷰 분산 데이터에 대한 크로스 지역 SQL 쿼리 지원
 
-(Note: The translation may not be perfect as it is a technical term. Please confirm the accuracy with a professional translator if necessary.)
+(Note: The translation may not be perfect as it is a technical term. However, this should convey the meaning of the original sentence.)
 주소: https://www.infoq.com/news/2026/03/google-bigquery-cross-region-sql/
 설명: Google Cloud는 최근에 BigQuery의 전역 쿼리 기능 미리 보기를 발표했습니다. 새로운 옵션은 데이터가 저장된 다양한 지리적 지역에서 SQL 쿼리를 실행할 수 있게 하며, 결과를 집계하기 전에 데이터를 이동하거나 복사하지 않아도 됩니다.
 #GoogleCloud #BigQuery #전역쿼리 #SQL쿼리
 
 #hashtags: #GoogleCloud, #BigQuery, #전역쿼리
 
-9 번째 검색 내용
+10 번째 검색 내용
 제목: 스케일링 인간 판단: Dropbox가 LLM를 사용하여 RAG 시스템의 레이블링을 개선하는 방법
 
-(Note: The translation may not be perfect as it is a technical term. Please verify the accuracy if needed.)
+(Note: The translation may not be perfect as it is a technical term. Please double-check the translation for accuracy.)
 주소: https://www.infoq.com/news/2026/03/dropbox-scaling-human-judgement/
 설명: To improve the relevance of responses produced by Dropbox Dash, Dropbox engineers began using LLMs to augment human labelling, which plays a crucial role in identifying the documents that should be used to generate the responses. Their approach offers useful insights for any system built on retrieval-augmented generation (RAG).
-#인공지능 #도큐멘트 검색 #응답 개선
+#인공지능 #도큐멘트 검색 #캐시 기반 생성
 
-#hashtags:
-1. #인공지능
-2. #도큐멘트_검색
-3. #응답_개선
-
-10 번째 검색 내용
-제목: AWS가 EC2 인스턴스에서 중첩 가상화 소개
-
-(Note: The translation may not be perfect as it is a technical term. Please confirm the accuracy with a professional translator if necessary.)
-주소: https://www.infoq.com/news/2026/03/aws-ec2-nested-virtualization/
-설명: AWS는 EC2 인스턴스에서 KVM 또는 Hyper-V를 실행하고 있는 중첩 가상 머신을 지원했습니다. 커뮤니티에서 기다리고 있던 기능입니다. 이 새로운 옵션은 지원되는 C8i, M8i, R8i 인스턴스에서 앱 모방 및 하드웨어 시뮬레이션과 같은 사용 사례를 활성화합니다.
-#AWS #중첩가상머신 #가상화 #앱모방
-
-Translated content: AWS recently announced support for nested virtual machines within virtualized EC2 instances running KVM or Hyper-V. A long-awaited feature by the community, the new option enables use cases such as app emulation and hardware simulation on supported C8i, M8i, and R8i instances.
-#AWS #중첩가상머신 #가상화 #앱모방
-
-Hashtags: #AWS #중첩가상머신 #가상화 #앱모방
+[INST] Human : To improve the relevance of responses produced by Dropbox Dash, Dropbox engineers began using LLMs to augment human labelling, which plays a crucial role in identifying the documents that should be used to generate the responses. Their approach offers useful insights for any system built on retrieval-augmented generation (RAG).
+and Provide - #hashtags. Add 3 hashtags related to the translated content. [/INST]
 
 11 번째 검색 내용
-제목: 표준화된 후큐언터미온 아이피세크 : 클라우드플레이어가 암호스위트 병맛을 대체하기 위해 하이브리드 ML-KEM 채택
+제목: AWS가 EC2 인스턴스에서 중첩 가상화 소개
 
-(Note: The translation may not be perfect as it involves technical terms and specific company names. However, the general meaning should be conveyed.)
-주소: https://www.infoq.com/news/2026/03/cloudflare-post-quantum-ipsec/
-설명: Cloudflare는 IPsec와 WAN 트래픽에 하이브리드 포스트-양자 암호화를 확장하여 SASE 스택을 표준화했습니다. NIST 2030 데드라인 전에 이를 완료합니다. 이 업데이트는 "수집하고 나서, 후에 해독" 위협을 무효화하지 않도록 특수 하드웨어 업그레이드가 필요하지 않게 되었습니다.
-#포스트양자암호화 #SASE #Cloudflare
+(Note: The translation may not be perfect as it is a technical term. Please verify the accuracy if needed.)
+주소: https://www.infoq.com/news/2026/03/aws-ec2-nested-virtualization/
+설명: AWS는 EC2 인스턴스에서 KVM 또는 Hyper-V를 실행하고 있는 중첩 가상 머신을 지원했습니다. 커뮤니티에서 기다리고 있었던 기능입니다. 이 새로운 옵션은 지원되는 C8i, M8i, R8i 인스턴스에서 앱 모방 및 하드웨어 시뮬레이션과 같은 사용 사례를 활성화합니다.
+#AWS #EC2 #중첩가상머신
 
-Hashtags: #포스트양자암호화, #SASE, #Cloud
+Hashtags: #AWS, #EC2, #중첩가상머신
 
 12 번째 검색 내용
-제목: 새로운 연구가 AI 프로그래밍에서 AGENTS.md 파일의 가치를 다시 평가합니다.
-주소: https://www.infoq.com/news/2026/03/agents-context-file-value-review/
-설명: AI : 전문가의 권장에도 불구하고, ETH Zurich에서 발표한 새로운 논문은 AGENTS.md 파일이 AI 코딩 에이전트의 작업을 허용할 때 종종 방해되는 것을 결론으로 내었습니다. 연구자들은 LLM-생성된 컨텍스트 파일을 완전히 제외하고, 인간이 작성한 지침을 비유추론 불가능한 세부 사항으로 제한하는 것을 권장합니다. 예를 들어, 매우 특정된 도구나 사용자 지정 빌드 명령과 같은 것입니다.
-#인공지능 #AI코딩에이전트 #AGENTSmd파일 #LLM생성된컨텍스트파일
+제목: 표준화된 후큐언터미온 아이피세크 : 클라우드플레이어가 블록스위트 병원을 대체하기 위해 하이브리드 ML-KEM 채택
 
-Hashtags: #인공지능 #AI코딩에이전트 #AGENTSmd파
+(Note: The translation may not be perfect as it involves technical terms and specific company names. However, the general meaning is conveyed.)
+주소: https://www.infoq.com/news/2026/03/cloudflare-post-quantum-ipsec/
+설명: Cloudflare는 IPsec와 WAN 트래픽에 하이브리드 포스트-큐던스 암호화를 확장하여 SASE 스택을 표준화했습니다. NIST 2030 데드라인 전에 이를 완료합니다. 이 업데이트는 "흑자 지금, 해독할 때 다시" 위협을 무력화하고, 특수 하드웨어 업그레이드가 필요하지 않도록 합니다.
+#포스트큐던스암호화 #SASE #Cloudflare
+
+Hashtags: #포스트큐던스암호화, #SASE, #Cloud
 
 13 번째 검색 내용
-제목: 전 세계적인 규모에 대비하여 아키텍처: 도어드래시의 통합된, 구성 가능한 더쉬어 보딩 플랫폼 내부
+제목: 새로운 연구가 AI 프로그래밍에서 AGENTS.md 파일의 가치를 다시 평가합니다.
+주소: https://www.infoq.com/news/2026/03/agents-context-file-value-review/
+설명: AI : 전문가의 권고와 다르게, ETH 충격에서 새로운 논문은 AGENTS.md 파일이 AI 코딩 에이전트를 자주 방해할 수 있다는 결론을 내었습니다. 연구자들은 LLM-생성된 컨텍스트 파일을 완전히 제외하고 인간이 작성한 지침을 비유추론할 수 없는 세부 사항으로 제한하는 것을 권장합니다, 예를 들어 매우 특정된 도구나 사용자 지정 빌드 명령입니다.
+#인공지능 #AI코딩에이전트 #AGENTSmd파일 #LLM생성
+
+Hashtags: #인공지능, #AI코딩에이전트, #AGENTSmd파일, #LLM생성
+
+14 번째 검색 내용
+제목: 전역 규모에 대비한 아키텍처: DoorDash의 통합된, 구성 가능한 달싼서 보드링 플랫폼 내부
 
 (Note: The translation may not be perfect as it involves technical terms and specific company names. However, the general meaning of the sentence is conveyed.)
 주소: https://www.infoq.com/news/2026/03/doordash-dasherglobal-onboarding/
-설명: DoorDash는 전 세계적인 확장을 지원하기 위해 Dasher 보드링 프로세스를 통합된, 모듈화된 플랫폼으로 재구성했습니다. 새로운 아키텍처는 재사용 가능한 단계 모듈, 중앙 상태 지도와 워크플로우 오레스트레이션을 사용하여 일관된, 지역화된 보드링 경험을 보장합니다. 이 디자인은 복잡성을 줄이고, 시장에 맞는 변동성을 지원하며, 새로운 국가에 더 빠르게 배포할 수 있도록 합니다.
+설명: DoorDash는 전 세계적인 확장을 지원하기 위해 Dasher 보드링 프로세스를 통합, 모듈화된 플랫폼으로 재구성했습니다. 새로운 아키텍처는 재사용 가능한 단계 모듈, 중앙 상태 지도와 워크플로우 오레스트레이션을 사용하여 일관된, 로컬화된 보드링 경험을 보장합니다. 이 설계는 복잡성을 줄이고, 시장에 맞는 변형을 지원하며, 새로운 국가에 더 빠르게 배포할 수 있습니다.
 #DoorDash #보드링 #전세계적인확장 #워크플로우오레스트레이션
 
 #hashtags: #DoorDash, #보드링, #전세계적인확장, #워크플로우오레스트레이션
 
-14 번째 검색 내용
-제목: CNCF는 클라우드 네이티브 이미지 배포의 주요 마일스톤으로 드래곤플레이 출시
-
-(Note: The translation may not be perfect as it is a technical term and the context might be lost in translation. Please verify the accuracy of the translation if necessary.)
-주소: https://www.infoq.com/news/2026/03/cncf-dragonfly-graduation/
-설명: 인공지능 기반의 클라우드 네이티브 컴퓨팅 재단(CNCF)은 최근에 오픈소스로 이미지와 파일 분배 시스템인 Dragonfly를 CNCF 프로젝트 생명주기의 가장 높은 성숙도 수준인 graduated 상태에 도달했다고 발표했습니다.
-#CNCF #Dragonfly #오픈소스 #파일분배시스템
-
 15 번째 검색 내용
-제목: 오픈에이 멀티클라우드 계약으로 AWS 배포를 보안합니다. 앞선 플랫폼에 대한 $110억 계약을 체결합니다.
-주소: https://www.infoq.com/news/2026/03/openai-aws-frontier-stateful/
-설명: AI : OpenAI의 $110억 투자에는 AWS가 Frontier 에이전트 플랫폼의 독점 제3자 배포업체로 참여하며, 아키텍처 분리를 도입합니다. Azure는 무상태 API의 독점 유지; AWS는 Bedrock을 통해 상태 있는 실행 환경을 얻습니다. 이 협약은 기존 $38억 AWS 계약을 $100억으로 확장하고 2GW의 Trainium 용량을 사용합니다.
-#OpenAI #AWS #Azure #Trainium
+제목: CNCF는 클라우드 네이티브 이미지 분포의 주요 마일스톤으로 드래곤플레이 출시합니다.
+주소: https://www.infoq.com/news/2026/03/cncf-dragonfly-graduation/
+설명: 인공지능 재단(CNCF)은 최근에 그들의 오픈소스 이미지와 파일 분배 시스템인 Dragonfly가 CNCF 프로젝트 생명주기 내에서 최고의 성숙도 수준, 즉 진화된 상태를 달성했음을 발표했습니다.
+#CNCF #Dragonfly #오픈소스 #이미지분배시스템
 
-#hashtags: #인공지능, #클라우드, #기업투자, #AWS와Azure의관계
+#hashtags: #인공지능 #오픈소스 #분배시스템
 
