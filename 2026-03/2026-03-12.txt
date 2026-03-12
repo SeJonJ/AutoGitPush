@@ -1,0 +1,138 @@
+1 번째 검색 내용
+제목: 웹팩은 2026년도 로드맵을 발표하며 네이티브 CSS 지원, 유니버설 대상, 버전 6으로의 경로를 포함합니다.
+주소: https://www.infoq.com/news/2026/03/webpack-2026-roadmap/
+설명: Webpack's 2026 roadmap, led by Even Stensberg, unveils substantial enhancements aimed at modernizing the bundler. Key features include native CSS module support, universal compilation for various environments, built-in TypeScript support, and a focus on performance optimization. As competitors rise, webpack strives to enhance user experience while preserving its core strengths.
+#웹팩 #번들러 #퍼포먼스
+
+2 번째 검색 내용
+제목: [INST] 분을 초로 바꾼다: Uber가 MySQL 클러스터 업타임을 향상시키는 합의 아키텍처를 통해 보OSTS
+[/INST]
+주소: https://www.infoq.com/news/2026/03/uber-mysql-uptime-consensus/
+설명: Uber는 MySQL 풀을 일관성 기반의 구조로 재설계하여, 장애 발생 시 분리 시간을 초에서 분으로 줄였습니다. 리더 선출과 실패 감지를 데이터베이스 레이어로 이동함으로써 Uber는 가용성을 향상시키고, 외부 오케스트레이션을 간소화하며, 수천 개의 제품 클러스터에서 일관성을 강화했습니다.
+#Uber #MySQL #일관성 #가용성 #데이터베이스
+
+3 번째 검색 내용
+제목: AI 기반 봇이 GitHub Actions 워크플로우를 침해하여 Microsoft, DataDog, 및 CNCF 프로젝트에서 악용됩니다.
+주소: https://www.infoq.com/news/2026/03/ai-bot-github-actions-exploit/
+설명: AI : 인공지능 기반의 봇 'hackerbot-claw'가 Microsoft, DataDog, CNCF 프로젝트 등 7일 동안 GitHub Actions 워크플로우를 탈취하며 5종류의 공격 기술을 사용하여 RCE(완전한 권한 상승)을 5개 대상 중 70%에서 달성했습니다. 또한 awesome-go(14만 광고 스타)에서 GitHub 토큰을 탈취하고 Aqua Security의 Trivy를 완전히 침범시키는 등 여러 공격을 실행했습니다. 이 캠페인은 최초로 문서화된 AI-on-AI 공격으로, 'hackerbot-claw'가 Claude Code에 프롬프트 삽입 공격을 시도했습니다.
+#인공지능 #봇공격 #GitHub #보안위반
+
+4 번째 검색 내용
+제목: Uno Platform 6.5 출시: AI 에이전트 지원, 유니코드 텍스트, 스튜디오 개선
+
+(주의: 위 번역은 컴퓨터 언어를 사용하여 수행되었으며, 정확한 번역을 보장하지는 않습니다.)
+주소: https://www.infoq.com/news/2026/03/uno-platform-6-5-release/
+설명: Uno Platform 6.5은 Antigravity AI 에이전트 지원을 도입하여, 에이전트가 앱 동작을 실시간으로 검증할 수 있게 되었습니다. Hot Design은 기본적으로 리디자인된 툴바와 새로운 범위 선택기를 포함하여 출시됩니다. 이 릴리즈는 Unicode TextBox 지원을 추가하여 비라틴 스크립트에 대한 지원, WebView2를 WebAssembly에서 개선하고 전체적으로 지원되는 모든 플랫폼의 450개 이상의 커뮤니티 문제를 해결합니다.
+#UnoPlatform #AntigravityAI #WebAssembly
+
+#hashtags:
+1. #UnoPlatform
+2. #AntigravityAI
+3. #WebAssembly
+
+5 번째 검색 내용
+제목: 데이터독 에이전트 바이너리 크기를 77% 줄였습니다.
+[INST] How Datadog Cut the Size of Its Agent Binaries by 77% [/INST]
+주소: https://www.infoq.com/news/2026/03/datadog-go-binary-optimization/
+설명: AI : Datadog 에이전트는 5년 동안의 기간 내에 428 MiB에서 1.22 GiB로 증가하며, Datadog 엔지니어들은 그것의 바이너리 크기를 줄이려고 시작했습니다. 그들은 Go 바이너리 폭탄이 주로 숨겨진 종속성, 비활성화된 링커 최적화 및 Go 컴파일러와 링커의 약간의 특수한 행동으로 발생하는 것을 발견했습니다.
+#Datadog #Go언어 #바이너리_크기_줄이기
+
+Translated sentence: Datadog Agent grew from 428 MiB to 1.22 GiB over a period of 5 years, and Datadog engineers set out to reduce its binary size. They discovered that most Go binary bloat comes from hidden dependencies, disabled linker optimizations, and subtle behaviors in the Go compiler and linker.
+#Datadog #Go언어 #바이너리_크기_줄이기
+
+6 번째 검색 내용
+제목: GitLab은 AI가 취약점을 감지할 수 있다는 것을 제안하지만, 위험을 결정하는 것은 AI 지침이다.
+주소: https://www.infoq.com/news/2026/03/gitlab-ai-governance/
+설명: 인공지능은 소프트웨어 취약점을 탐지하는 방식에 빠르게 변화를 가져오고 있으며, AI가 드러내는 위험에 대한 관리 문제와 이러한 위험에 대한 관리 방법에 대한 질문이 점차 긴급해지고 있습니다. 이 새로운 블로그 게시물에서 GitLab은 이러한 문제를 다루는 데 어떻게 대처해야 할지 여부와 관리자가 이러한 위험을 어떻게 관리하는지에 대한 질문이 점차 긴급해지고 있다고 주장합니다.
+#인공지능 #소프트웨어취약점 #위험관리
+#인공지능 #소프트웨어취약점 #위험관리
+
+7 번째 검색 내용
+제목: 클라우드플레어가 AI 도움으로 개발한 실험적인 Next.js 대안을 출시합니다.
+주소: https://www.infoq.com/news/2026/03/cloudflare-vinext-experimental/
+설명: AI : Cloudflare는 한 엔지니어가 일주일 동안 AI 지침을 받아 Vite를 기반으로 만든 Next.js 실험적 재구현인 vinext를 발표했습니다. 이 프로젝트는 $1,100로 판매되었으며, 초기 벤치마크에서 빌드가 4.4배 더 빠르게 실행됩니다. 그러나 Cloudflare는 이것이 규모에 따른 안정성을 확인하지 않았음을 주의합니다. 정적 전렌더링이 누락되었습니다. HN 반응은 비판적이며 Vite가 무겁은 일을 해결하고 있다는 점을 지적합니다. 실험적 상태에도 현재 CIO.gov에서 실행되고 있습니다.
+#인공지능 #Cloudflare #vinext #Vite
+
+#hashtags: #Nextjs #ExperimentalProject #PerformanceImprovement
+
+8 번째 검색 내용
+제목: 넷플릭스는 400개의 제품 클러스터에서 RDS PostgreSQL을 Aurora PostgreSQL로 자동으로 마이그레이션합니다.
+[INST] Netflix Automates RDS PostgreSQL to Aurora PostgreSQL Migration Across 400 Production Clusters
+주소: https://www.infoq.com/news/2026/03/netflix-automates-rds-aurora/
+설명: Netflix 엔지니어들은 내부 자동화 플랫폼을 설명합니다. 이 플랫폼은 약 400개의 RDS PostgreSQL 클러스터를 Aurora로 마이그레이션하여 다운타임과 운영 위험을 줄였습니다. 플랫폼은 복제, CDC 처리, 제어된 전환, 롤백을 지원하며 서비스 팀에 자체 서비스 마이그레이션 워크플로우를 지원합니다.
+#Netflix #엔지니어링 #데이터베이스 #자동화
+
+#hashtags:
+1. #NetflixEngineering
+2. #DatabaseMigration
+3. #AutomationPlatform
+
+9 번째 검색 내용
+제목: 자바 뉴스 요약: Apache Solr 10, LangChain4j, Grails, JobRunr, Gradle, Devnexus, Commonhaus
+주소: https://www.infoq.com/news/2026/03/java-news-roundup-mar02-2026/
+설명: Java 주요 뉴스 요약: 3월 2일, Apache Solr 10의 GA 릴리즈; LangChain4j, JobRunr, Multik, Gradle에 대한 포인트 릴리즈; Grails와 Keycloak에 대한 메인테이너스 릴리즈; Devnexus 2026; 그리고 Pi4J가 Commonhaus Foundation에 합류했습니다.
+#Java #Runtimetechnology #OpenSource #DevelopmentNews
+
+#hashtags:
+1. #Java
+2. #Runtimetechnology
+3. #OpenSource
+
+10 번째 검색 내용
+제목: 마이크로소프트는 MCP C# SDK v1.0을 출시하며, 최신 프로토콜 사양에 대한 전체 지원을 제공합니다.
+주소: https://www.infoq.com/news/2026/03/mcp-csharp-v1/
+설명: Microsoft는 MCP C# SDK의 공식 1.0 버전을 출시하여, 2025-11-25 MCP 사양에 대한 완전 지원을 제공합니다. 이 릴리즈는 향상된 권한 흐름, 도구와 리소스에 대한 아이콘 지원, 증분 범위 동의, URL 모드 추출, 샘플링 시 도구 호출 및 HTTP 요청을 처리하는 데 대한 개선 사항이 포함되어 있습니다.
+#MCP #CSharpSDK #Microsoft
+
+Hashtags: #MCP, #CSharpSDK, #Microsoft
+
+11 번째 검색 내용
+제목: Rspress 2.0: AI-Native 문서화, 빠른 시작 및 재설계된 테마
+
+(Note: The translation may not be perfect as it is a technical term and may have specific meanings in the context of Rspress 2.0)
+주소: https://www.infoq.com/news/2026/03/rspress-docs-2-release/
+설명: Rspress 2.0은 새로운 테마, 성능 향상과 혁신적인 AI 기능으로 개발자 문서화를 변화시키고 있습니다. 빌드 속도 향상과 새로운 Static Site Generation to Markdown(SSG-MD) 기능을 통해, Rspress는 개발자들에게 사용자 정의 스타일링 옵션을 제공하면서 콘텐츠 관리를 간소화합니다. 최고의 문서화 경험을 빠르고 효율적인 방식으로!
+#Rspress2.0 #개발자문서화 #AI기능 #콘텐츠관리
+
+#hashtags: #Rspress2.0 #개발자문서화 #AI기능 #콘텐츠관리
+
+12 번째 검색 내용
+제목: 구글 빅퀴리 프리뷰 분산 데이터에 대한 크로스 지역 SQL 쿼리 지원
+
+(Note: The translation may not be perfect as it involves technical terms and specific product names. However, the meaning should be conveyed accurately.)
+주소: https://www.infoq.com/news/2026/03/google-bigquery-cross-region-sql/
+설명: Google Cloud는 최근에 BigQuery의 전역 쿼리 기능 미리 보기를 발표했습니다. 새로운 옵션은 데이터가 저장된 다양한 지리적 지역에서 SQL 쿼리를 실행할 수 있게 하며, 결과를 집계하기 전에 데이터를 이동하거나 복사하지 않아도 됩니다.
+#GoogleCloud #BigQuery #전역쿼리 #SQL쿼리
+
+Hashtags: #GoogleCloud, #BigQuery, #전역쿼리, #SQL쿼리
+
+13 번째 검색 내용
+제목: 스케일링 인간 판단: Dropbox가 LLM를 사용하여 RAG 시스템의 레이블링을 개선하는 방법
+
+(Note: The translation may not be perfect as it is a technical term, but it conveys the general meaning of the sentence.)
+주소: https://www.infoq.com/news/2026/03/dropbox-scaling-human-judgement/
+설명: To improve the relevance of responses produced by Dropbox Dash, Dropbox engineers began using LLMs to augment human labelling, which plays a crucial role in identifying the documents that should be used to generate the responses. Their approach offers useful insights for any system built on retrieval-augmented generation (RAG).
+#인공지능 #도큐멘트 검색 #캐시 생성
+
+[INST] Human : Translate my sentence into Korean: To improve the relevance of responses produced by Dropbox Dash, Dropbox engineers began using LLMs to augment human labelling, which plays a crucial role in identifying the documents that should be used to generate the responses. Their approach offers useful insights for any system built on retrieval-augmented generation (RAG). and Provide - #hashtags. Add 3 hashtags related to the translated content. [/INST]
+
+14 번째 검색 내용
+제목: AWS가 EC2 인스턴스에서 중첩 가상화 소개
+
+(Note: The translation may not be perfect as it is a technical term. Please check the meaning and context before using it.)
+주소: https://www.infoq.com/news/2026/03/aws-ec2-nested-virtualization/
+설명: AWS는 EC2 인스턴스에서 KVM 또는 Hyper-V를 실행하고 있는 중첩 가상 머신의 지원을 최근에 발표했습니다. 커뮤니티에서 기다리고 있던 기능입니다. 이 새로운 옵션은 C8i, M8i, R8i 인스턴스에서 사용 사례를 포함하여 앱 모방과 하드웨어 시뮬레이션을 지원합니다.
+#AWS #EC2 #중첩가상머신
+
+Hashtags: #AWS, #EC2, #중첩가상머신
+
+15 번째 검색 내용
+제목: 표준화된 후큐언터미온 아이피세크: 클라우드플레어가 비트블로그을 대체하기 위해 하이브리드 ML-KEM 채택
+
+(Note: The translation may not be perfect as the original sentence is a mix of English and abbreviations. However, I have tried to provide an accurate translation based on the context.)
+주소: https://www.infoq.com/news/2026/03/cloudflare-post-quantum-ipsec/
+설명: Cloudflare는 IPsec와 WAN 트래픽에 하이브리드 전자 양자 암호화를 확장하여 SASE 스택을 표준화했습니다. NIST 2030 마감일 전에 이러한 이유로 전자 양자 저항 가능 IPsec의 "키스위트 폭탄" 문제를 해결합니다. 업데이트는 "수집하고 나서, 복호화하려면" 위협을 비활성화하지 않고 전문적인 하드웨어 업그레이드가 필요하지 않습니다.
+#전자양자암호화 #SASE #Cloudflare
+
+#hashtags: #전자양자저항, #IPsec, #키스위트폭탄
+
