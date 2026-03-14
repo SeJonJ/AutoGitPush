@@ -1,4 +1,12 @@
 1 번째 검색 내용
+제목: 클라우드플레어가 발전한 인터넷 경로 보안 표준인 ASPA에 대한 지원을 소개합니다.
+주소: https://www.infoq.com/news/2026/03/cloudflare-aspa-standard/
+설명: Cloudflare는 최근 ASPA(Autonomous System Provider Authorization) 지원을 선언했습니다. 새로운 암호화 표준은 인터넷 라우팅을 더욱 안전하게 만들어 데이터가 목적지에 도달하기 위해 네트워크를 통해 탐색할 때 경로를 확인하고 신뢰할 수 없거나 신뢰할 수 없는 네트워크를 건너뛸 수 있도록 합니다.
+#ASPA #인터넷라우팅안전화 #신뢰할수없는네트워크방지
+
+Translated content hashtags: #ASPA, #인터넷라우팅안전화, #신뢰할수없는네트워크방지
+
+2 번째 검색 내용
 제목: DoorDash는 대규모로 고객 지원 채팅봇을 테스트하기 위해 LLM 대화 시뮬레이터를 구축합니다.
 주소: https://www.infoq.com/news/2026/03/doordash-llm-chatbot-simulator/
 설명: DoorDash engineers built a simulation and evaluation flywheel to test large language model customer support chatbots at scale. The system generates multi-turn synthetic conversations using historical transcripts and backend mocks, evaluates outcomes with an LLM-as-judge framework, and enables rapid iteration on prompts, context, and system design before production deployment.
@@ -7,81 +15,93 @@
 Translated content: DoorDash engineers built a simulation and evaluation flywheel to test large language model customer support chatbots at scale. The system generates multi-turn synthetic conversations using historical transcripts and backend mocks, evaluates outcomes with an LLM-as-judge framework, and enables rapid iteration on prompts, context, and system design before production deployment.
 #인공지능 #대화봇 #고객 지원
 
-2 번째 검색 내용
+3 번째 검색 내용
 제목: 넷플릭스는 현대 CPU에서 컨테이너를 확장하면서 커널 수준의 병목 현상을 발견합니다.
 주소: https://www.infoq.com/news/2026/03/netflix-kernel-scaling-container/
-설명: 공학자들은 넷플릭스에서 컨테이너 확장의 깊은 성능 병목 상황을 발견했습니다. 이러한 문제는 Kubernetes나 containerd 하나만 떄문이 아니라 CPU 아키텍처와 Linux 커널 자체에 있는 것을 발견했습니다.
-#넷플릭스 #컨테이너 #성능 #병목상황
+설명: 인공지능 엔지니어들은 네플리스에서 컨테이너 확장의 깊은 성능 병목 상황을 발견했습니다. 이러한 문제는 Kubernetes나 containerd 하나만 원인이 되지 않고, CPU 아키텍처와 Linux 커널 자체에까지 연결됩니다.
+#인공지능 #네플리스 #컨테이너 #성능 #병목상황
 
-#hashtags: #Netflix #Containers #Performance #Bottlenecks
-
-3 번째 검색 내용
-제목: 전문가 네트워크와 함께 소셜 기술 아키텍처 스킬을 향상시키세요. InfoQ의 새로운 온라인 코
-주소: https://www.infoq.com/news/2026/03/architect-certification-program/
-설명: Enhance your architectural leadership with InfoQ’s new online cohorts starting April 15, May 7, and June 10, 2026. Led by Luca Mezzalira, this 5-week program focuses on socio-technical skills like ADRs, platform engineering, and AI trade-offs. Senior practitioners can apply frameworks to live projects, earn ICSAET certification, and contribute to the InfoQ community.
-#인공지능 #소셜기술 #아키텍처리더십
-
-#hashtags: 
-#인공지능
-#소셜기술
-#아키텍처리더십
+Translated sentence: Engineers at Netflix have uncovered deep performance bottlenecks in container scaling that trace not to Kubernetes or containerd alone, but into the CPU architecture and Linux kernel itself.
+Hashtags: #인공지능 #네플리스 #컨테이너 #성능 #병목상황
 
 4 번째 검색 내용
-제목: 제목: 소수의 구체적인 행동으로 리트로스펙티브를 효과적으로 만들기와 시각적 책임자 회전
+제목: 진보하는 사회기술 아키텍처 스킬을 향상시키십시오. InfoQ의 새로운 온라인 코호트를 통해 이를 실천하십시오.
+주소: https://www.infoq.com/news/2026/03/architect-certification-program/
+설명: Enhance your architectural leadership with InfoQ’s new online cohorts starting April 15, May 7, and June 10, 2026. Led by Luca Mezzalira, this 5-week program focuses on socio-technical skills like ADRs, platform engineering, and AI trade-offs. Senior practitioners can apply frameworks to live projects, earn ICSAET certification, and contribute to the InfoQ community.
+#아키텍처 #인공지능 #InfoQ
 
-본문: 리트로스펙티브는 개발팀의 성공을 위한 중요한 부분입니다. 그러나 일반적으로 리트로스펙티브가 효과적이지 않거나 흥미로운 회의로 여겨집니다. 이를 개선하기 위해 소수의 구체적인 행동을 취해보겠습니다. 또한, 시각적 책임자를 회전시키는 것으로 참여자들의 관심과 참여도를 높이고 리트로스펙티브를 더욱 효과적으로 만들어보겠습니다.
-주소: https://www.infoq.com/news/2026/03/effective-retrospectives/
-설명: 팀은 주기적인 리트로스펙티브를 진행하여 1-2개의 구체적인 주간 작업을 집중하여 불만 원형을 피할 수 있도록 맞춤법 오류 수정 Natan Žabkar Nordberg는 QCon London에서 언급했습니다. 협력자를 회전시키면 소유권을 구축하고, 각각의 고유한 관점을 가져와야 합니다. 그는 큰 변경을 4-6주의 실험으로 프레임워크하고, 학습과 지속적인 개선을 보장하기 위해 유지, 조정 또는 되돌리기를 투표합니다.
-#리트로스펙티브 #지속적인_개선 #프레임워크 #Natan_Žabkar_Nordberg
+Translate my sentence into Korean : 
+                         Enhance your architectural leadership with InfoQ’s new online cohorts starting April 15, May 7, and June 10, 2026. Led by Luca Mezzalira, this 5-week program focuses on socio-technical skills like ADRs, platform engineering, and AI trade-offs. Senior practitioners can apply frameworks to live projects, earn ICSAET certification, and contribute to the InfoQ community.
+                     and Provide - #hashtags. Add 3 hashtags related to the translated content.
 
-#hashtags: #AgileMethodology, #ContinuousImprovement, #TeamCollaboration
+Translated sentence: 아키텍처 지능을 향상시키려면 InfoQ의 새로운 온라인 코
 
 5 번째 검색 내용
-제목: AWS가 실험적인 AI 에이전트 프로젝트에 대한 Strands Labs를 출시합니다.
-주소: https://www.infoq.com/news/2026/03/aws-strands-agents/
-설명: 인공지능 개발에 관한 실험적인 프로젝트를 호스팅하기 위해 Amazon Web Services가 Strands Labs를 소개했습니다.
-#인공지능 #Agent-based_AI #AWS_Strands_Labs
+제목: 제목: 소규모의 구체적인 행동과 철학자를 교체하여 리트로스펙티브을 효과적으로 만들기
+
+본문: 리트로스펙티브를 효과적으로 만드는 데 도움이 되는 소규모의 구체적인 행동과 철학자를 교체하는 것입니다.
+주소: https://www.infoq.com/news/2026/03/effective-retrospectives/
+설명: 팀은 주기적인 리트로스펙티브를 진행하여 1-2개의 구체적인 주간 작업을 집중하여 불만 원형을 피할 수 있도록 맞춤법 오류 수정 및 수정 추천을 제공합니다. Natan Žabkar Nordberg는 QCon London에서 이를 언급하였습니다. 팀원들은 각자의 고유한 관점을 가지고 주기적인 회의를 진행하여 소유익을 빌드하며, 4-6주간의 실험으로 큰 변경을 프레임하고 학습과 지속적인 개선을 보장하기 위해 투표를 통해 유지, 조정 또는 되돌리도록 합니다.
+#리트로스펙티브 #지속적인_개선 #팀워크 #프로젝트_관리
+
+Translated content hashtags: #리트로스펙티브, #지속적인_개선, #팀워크, #프로젝트_관리
 
 6 번째 검색 내용
-제목: 클로드 오폴 4.6는 장기간 실행 에이전트에 대응 사유와 컨텍스트 압축을 소개합니다.
-주소: https://www.infoq.com/news/2026/03/opus-4-6-context-compaction/
-설명: Anthropic’s Claude Opus 4.6에서 "Adaptive Thinking"과 "Compaction API"가 도입되어 장기간 실행 에이전트에서의 컨텍스트 로트를 해결합니다. 모델은 1M 토큰 컨텍스트 윈도우를 지원하며, 76%의 다중 네이들 검색 정확도를 보입니다. 에이전트 코딩에서 최고 수준의 벤치마크를 기록한 상황에서 독립적인 테스트는 이진 백도어 감지 率을 49%로 나타냅니다. 이는 SOTA 주장과 제품 보안 간의 격차를 강조합니다.
-#인공지능 #에이전트 #컨텍스트_로트 #보안
+제목: AWS 가 Strands Labs를 출시하여 실험적인 AI 에이전트 프로젝트에 사용됩니다.
+주소: https://www.infoq.com/news/2026/03/aws-strands-agents/
+설명: Amazon Web Services는 에이전트 기반 AI 개발과 관련된 실험적 프로젝트를 호스팅하기 위해 Strands Labs, 새로운 GitHub 조직을 소개했습니다.
+#AWS #에이전트기반AI #StrandsLabs
 
-Hashtags: #AI #Agents #ContextRot #Security
+Translate my sentence into Korean: Amazon Web Services has introduced Strands Labs, a new GitHub organization created to host experimental projects related to agent-based AI development. and Provide - #hashtags. Add 3 hashtags related to the translated content.
 
 7 번째 검색 내용
+제목: 클로드 오펙 4.6은 장기간 실행 에이전트에 대응적인 추론과 컨텍스트 압축을 소개합니다.
+주소: https://www.infoq.com/news/2026/03/opus-4-6-context-compaction/
+설명: Anthropic’s Claude Opus 4.6에서 "Adaptive Thinking"과 "Compaction API"가 도입되어 장기간 실행 에이전트에서의 맥락 폭발을 해결합니다. 모델은 1M 토큰 컨텍스트 윈도우를 지원하며, 76%의 다중 네이들 검색 정확도를 보입니다. 에이전트 코딩에서 최고 수준의 벤치마크를 기록한 동시에, 독립적인 테스트는 이진 백도어 감지 率을 49%로 나타냅니다. 이는 SOTA 주장과 제품 보안 간의 격차를 강조합니다.
+#인공지능 #에이전트 #컨텍스트_폭발 #보안
+
+Hashtags: #인공지능, #에이전트, #컨텍스트_폭발, #보안
+
+8 번째 검색 내용
 제목: [INST] 대규모로 AKS에서 실행하는 런닝레이 [/INST]
 주소: https://www.infoq.com/news/2026/03/ray-aks-ai-microsoft/
 설명: Azure Kubernetes Service (AKS) 팀은 Microsoft에서 Anyscale의 관리형 Ray 서비스를 규모에 따라 실행하는 데 대한 지침을 공유했습니다. 그들은 GPU 용량 제한, 분산된 ML 저장소 및 인증 만료 문제를 중점적으로 집중합니다.
-#AKS #Ray #AzureKubernetesService #GPU #MLStorage
+#AKS #Ray #GPU #ML #인증만료
 
-8 번째 검색 내용
-제목: 웹팩은 2026년 로드맵을 발표하며 네이티브 CSS 지원, 유니버설 대상, 버전 6으로의 경로를 포함합니다.
+Translated sentence: The Azure Kubernetes Service (AKS) team at Microsoft has shared guidance for running Anyscale's managed Ray service at scale. They focus on three key issues: GPU capacity limits, scattered ML storage, and problems with credential expiry.
+#hashtags: #AKS #Ray #GPU #ML #인증만료
+
+9 번째 검색 내용
+제목: 웹팩은 2026년도 로드맵을 발표하며 네이티브 CSS 지원, 유니버설 대상, 버전 6으로의 경로를 포함합니다.
 주소: https://www.infoq.com/news/2026/03/webpack-2026-roadmap/
 설명: Webpack's 2026 roadmap, led by Even Stensberg, unveils substantial enhancements aimed at modernizing the bundler. Key features include native CSS module support, universal compilation for various environments, built-in TypeScript support, and a focus on performance optimization. As competitors rise, webpack strives to enhance user experience while preserving its core strengths.
 #웹팩 #번들러 #퍼포먼스
 
-9 번째 검색 내용
+10 번째 검색 내용
 제목: [INST] 분기를 초로 변환하여 Uber가 MySQL 클러스터 업타임을 향상시키는 콘сен서스 아키텍처를 사용하여 빠르게 만들어지는 것으로 번역되었습니다. [/INST]
 주소: https://www.infoq.com/news/2026/03/uber-mysql-uptime-consensus/
-설명: Uber는 MySQL 풀을 일관성 기반의 구조로 재설계하여, 장애 발생 시 분할 시간을 초에서 분으로 줄였습니다. 리더 선출과 실패 감지를 데이터베이스 레이어로 이동함으로써 Uber는 가용성을 향상시키고, 외부 오르케스트레이션을 간소화하며, 수천 개의 프로덕션 클러스터에서 일관성을 강화했습니다.
-#Uber #MySQL #데이터베이스
+설명: Uber는 MySQL 풀을 일관성 기반의 구조로 재설계하여, 장애 발생 시 분리 시간을 초에서 분으로 줄였습니다. 리더 선출과 실패 감지를 데이터베이스 레이어로 이동함으로써 Uber는 가용성을 향상시키고, 외부 오라클레이션을 간소화하고, 수천 개의 제품 클러스터에서 일관성을 강화했습니다.
+#Uber #MySQL #데이터베이스 #가용성
 
-10 번째 검색 내용
-제목: AI 기반 봇이 GitHub Actions 워크플로우를 침해하여 Microsoft, Datadog, 및 CNCF 프로젝트에서 컴프리헤밍된 것입니다.
-주소: https://www.infoq.com/news/2026/03/ai-bot-github-actions-exploit/
-설명: AI : 인공지능 기반의 봇 'hackerbot-claw'가 Microsoft, DataDog, CNCF 프로젝트 등에서 GitHub Actions 워크플로우를 7일 이내에 5종류의 공격 기술을 활용하여 사용했습니다. 봇은 7개 대상 중 5개에 RCE(완전한 원격 실행)을 달성하였고, awesome-go(140만 별표)를 포함한 GitHub 토큰을 훔쳐갔으며, Aqua Security의 Trivy에 대해 완전히 침범을 이루었습니다. 캠페인은 최초로 기록된 AI-on-AI 공격으로, 봇이 Claude Code에 대한 prompt injection 공격을 시도하려고 했습니다.
-#인공지능 #봇공격 #GitHub #침범
-
-#hashtags: #AIhackerbot #GitHubActions #Cybersecurity
+Hashtags: #Uber #MySQL #데이터베이스 #가용성
 
 11 번째 검색 내용
+제목: AI 기반 봇이 GitHub Actions 워크플로우를 침해하여 Microsoft, Datadog, 및 CNCF 프로젝트에서 악용됩니다.
+주소: https://www.infoq.com/news/2026/03/ai-bot-github-actions-exploit/
+설명: AI-powered bot hackerbot-claw exploited GitHub Actions workflows across Microsoft, DataDog, and CNCF projects over 7 days using 5 attack techniques. Bot achieved RCE in 5 of 7 targets, stole GitHub token from awesome-go (140k stars), and fully compromised Aqua Security's Trivy. Campaign included first documented AI-on-AI attack where bot attempted prompt injection against Claude Code.
+                     #인공지능 #해킹봇 #깃허브 #보안
+
+#hashtags: 
+1. #인공지능
+2. #해킹봇
+3. #깃허브보안
+
+12 번째 검색 내용
 제목: Uno Platform 6.5 출시: AI 에이전트 지원, 유니코드 텍스트, 스튜디오 개선
 
-(Note: The Korean translation may not be perfect as it is a machine translation. Please review and make any necessary adjustments.)
+(Note: The original sentence is a headline, so the translation maintains the same structure and format.)
 주소: https://www.infoq.com/news/2026/03/uno-platform-6-5-release/
-설명: Uno Platform 6.5에서는 Antigravity AI 에이전트 지원을 소개합니다. 에이전트는 실행 중인 앱 동작을 확인할 수 있습니다. Hot Design은 기본적으로 재설계된 툴바와 새로운 범위 선택기를 포함하여 시작됩니다. 이 릴리스에서는 Unicode TextBox 지원을 비롯한 비라틴 문자 스크립트용으로 개선되었으며, WebView2를 WebAssembly에서 개선하고 전체적으로 지원되는 모든 플랫폼의 450여 커뮤니티 문제를 해결합니다.
+설명: Uno Platform 6.5은 Antigravity AI 에이전트 지원을 도입하여, 에이전트가 앱 동작을 실시간으로 검증할 수 있게 되었습니다. Hot Design은 기본적으로 리디자인된 툴바와 새로운 범위 선택기를 포함하여 출시됩니다. 이 릴리스는 Unicode TextBox 지원을 추가하여 비라틴 문자 스크립트에 대한 지원, WebView2를 WebAssembly에서 개선하고 전체적으로 지원되는 모든 플랫폼의 450개 이상의 커뮤니티 문제를 해결합니다.
 #UnoPlatform #AntigravityAI #WebAssembly
 
 #hashtags:
@@ -89,43 +109,32 @@ Hashtags: #AI #Agents #ContextRot #Security
 2. #AntigravityAI
 3. #WebAssembly
 
-12 번째 검색 내용
-제목: 데이터독: 에이전트 바이너리 크기를 77% 줄였습니다.
-[/INST]
-주소: https://www.infoq.com/news/2026/03/datadog-go-binary-optimization/
-설명: AI : Datadog 에이전트는 5년간의 기간 동안 428 MiB에서 1.22 GiB로 성장하여, Datadog 엔지니어들은 그것의 바이너리 크기를 줄이려고 시작했습니다. 그들은 Go 바이너리 폭발이 주로 숨겨진 종속성, 비활성화된 링커 최적화와 Go 컴파일러와 링커의 간단한 행동으로 발생하는 것을 발견했습니다.
-#Datadog #Go언어 #바이너리_크기_줄이기
-
-Hashtags: #Datadog, #Go언어, #바이너리_크기_줄이기
-
 13 번째 검색 내용
-제목: [INST] 
+제목: 데이터독: 에이전트 바이너리 크기를 77% 줄인 방법
 
-GitLab는 AI가 취약점을 탐지할 수 있다고 제안하지만, 위험을 결정하는 것은 AI 지침이다.
+[INST] 제공된 문장을 한글로 번역합니다. :
 
-[/INST]
+                            How Datadog Cut the Size of Its Agent Go Binaries by 77%
+                         [/INST]
+주소: https://www.infoq.com/news/2026/03/datadog-go-binary-optimization/
+설명: AI : 데이터독 에이전트는 5년간의 기간 동안 428 MiB에서 1.22 GiB로 성장하였으며, 데이터독 엔지니어들은 이를 줄이기 위해 노력했습니다. 그들은 Go 이진 폭발이 주로 숨겨진 의존성, 링커 최적화 비활성화와 Go 컴파일러와 링커에서 잠재적인 행동으로 인해 발생하는 것을 발견했습니다.
+#데이터독 #Go언어 #이진폭발 #숨겨진의존성
+
+Hashtags: #데이터독 #Go언어 #이진폭발 #숨겨진의존성
+
+14 번째 검색 내용
+제목: GitLab은 AI가 취약점을 감지할 수 있다는 것을 제안하지만, 위험이 결정되는 것은 AI 지침률입니다.
 주소: https://www.infoq.com/news/2026/03/gitlab-ai-governance/
-설명: 인공지능은 소프트웨어 취약점을 탐지하는 방식에서 급속도로 변화를 이끌고 있지만, AI가 드러내는 위험을 어떻게 관리할지 및 그 위험을 누가 책임지고 어떻게 처리할지 대화에서 점차 긴급해지고 있다는 GitLab의 새로운 블로그 포스팅에 따르면.
+설명: 인공지능은 소프트웨어 취약점을 탐지하는 방식에서 급격하게 변화시키고 있습니다. 그러나 AI가 드러낸 위험을 누가 관리할지 및 그 위험이 어떻게 처리되는지 대해 광범위한 질문이 점차 즉각적으로 필요하다는 GitLab의 새로운 블로그 포스트에 따르면.
 #인공지능 #소프트웨어취약점 #위험관리
 
 #hashtags: #인공지능, #소프트웨어취약점, #위험관리
 
-14 번째 검색 내용
+15 번째 검색 내용
 제목: 클라우드플레어가 AI 도움으로 개발된 실험적인 Next.js 대안을 출시합니다.
 주소: https://www.infoq.com/news/2026/03/cloudflare-vinext-experimental/
-설명: Cloudflare는 한 엔지니어가 일주일 동안 AI 지침을 받아 Vite를 기반으로 만든 Next.js 실험적 재구현인 vinext를 발표했습니다. 이 프로젝트는 $1,100로 판매되고 있으며, 초기 벤치마크에 따르면 빌드 속도가 4.4배 빠르지만, Cloudflare는 규모에서의 안정성이 검증되지 않았다고 주의합니다. 정적 프리랜더링이 누락되어 있습니다. HN 반응은 비판적이며 Vite가 무겁게 일을 처리하는 것을 지적했으며, 실험적인 상태에도 CIO.gov에서 실행되고 있다는 사실을 언급합니다.
+설명: AI : Cloudflare는 한 엔지니어가 일주일 동안 AI 지침을 받아 Vite를 기반으로 만든 Next.js 실험적 재구현인 vinext를 발표했습니다. 이 프로젝트는 $1,100로 판매되고 있으며, 초기 벤치마크에 따르면 4.4배 빠른 빌드 속도를 보였지만 Cloudflare는 이것이 규모에 따라 안정적인지 여부가 확인되지 않았다고 주의합니다. 정적 프리랜더링이 누락되었습니다. HN 반응은 비판적이며 Vite가 무겁게 일을 처리하는 것을 지적했으며, 실험적인 상태에도 CIO.gov에서 실행되고 있다는 사실을 언급합니다.
 #Cloudflare #vinext #Next.js #Vite
 
-#hashtags: #Cloudflare, #vinext, #Next.js, #Vite
-
-15 번째 검색 내용
-제목: 넷플릭스는 400개의 제품 클러스터에서 RDS PostgreSQL을 Aurora PostgreSQL로 자동으로 마이그레이션합니다.
-주소: https://www.infoq.com/news/2026/03/netflix-automates-rds-aurora/
-설명: Netflix 엔지니어들은 내부 자동화 플랫폼을 설명합니다. 이 플랫폼은 약 400개의 RDS PostgreSQL 클러스터를 Aurora로 마이그레이션하여 다운타임과 운영 위험을 줄입니다. 플랫폼은 복제, CDC 처리, 제어된 전환, 롤백을 지원하며 서비스 팀에 자율 서비스 마이그레이션 워크플로우를 지원합니다.
-#Netflix #엔지니어링 #데이터베이스 #자동화
-
-#hashtags:
-1. #NetflixEngineering
-2. #DatabaseMigration
-3. #AutomationPlatform
+#hashtags: #cloudflare, #vinext, #nextjs, #vite
 
