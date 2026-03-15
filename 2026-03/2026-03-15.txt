@@ -1,0 +1,135 @@
+1 번째 검색 내용
+제목: 그랩이 안드로이드에서 이미지 캐싱을 최적화하는 방법: 시간에 대한 LRU 기반의 시간 인식 알고리즘
+
+(Note: The translation may not be perfect as it involves technical terms. Please review and make necessary adjustments if needed.)
+주소: https://www.infoq.com/news/2026/03/grab-tlru-image-cache/
+설명: AI : 그랩 엔지니어들은 안드로이드 앱의 이미지 캐시 관리를 개선하기 위해 Least Recently Used(LRU) 캐시에서 Time-Aware Least Recently Used(TLRU) 캐시로 전환했습니다. 이로 인해 스토리지를 효과적으로 재활용할 수 있었고, 사용자 경험을 저하하거나 서버 비용을 늘리지 않은 상태에서 이를 가능했습니다.
+#그랩 #안드로이드앱 #이미지캐시관리 #스토리지재활용
+
+#hashtags:
+1. #그랩_엔지니어링
+2. #안드로이드_앱_최적화
+3. #이미지_캐시_관리_전환
+
+2 번째 검색 내용
+제목: 구글 연구원들은 대규모 언어 모델에 대한 베이지안 교육 방법을 제안합니다.
+주소: https://www.infoq.com/news/2026/03/google-bayesian-llm/
+설명: Google Research는 대규모 언어 모델을 최적의 베이지안 시스템의 예측에서 배우며 베이지안 추론을 근사화하도록 교육하는 훈련 방법을 제안했습니다. 접근은 모델이 새로운 정보를 받으며 신뢰도를 업데이트하는 방식을 개선하는 것에 집중합니다.
+#머신러닝 #인공지능 #베이지안추론
+
+Translated sentence: Google Research has proposed a training method that teaches large language models to approximate Bayesian reasoning by learning from the predictions of an optimal Bayesian system. The approach focuses on improving how models update beliefs as they receive new information during multi-step interactions.
+
+#hashtags: #머신러닝 #인공지능 #베이지안추론
+
+3 번째 검색 내용
+제목: 클라우드플레어가 발전한 인터넷 경로 보안 표준인 ASPA에 대한 지원을 소개합니다.
+주소: https://www.infoq.com/news/2026/03/cloudflare-aspa-standard/
+설명: Cloudflare는 최근 ASPA(Autonomous System Provider Authorization) 지원을 선언했습니다. 새로운 암호화 표준은 인터넷 라우팅을 더 안전하게 만들어 데이터가 목적지에 도달하기 위해 네트워크를 통해 탐색할 때 경로를 확인하고 신뢰할 수 없거나 신뢰할 수 없는 네트워크를 건너뛸 수 있도록 합니다.
+#ASPA #인터넷라우팅안전화 #신뢰할수없는네트워크방지
+
+Translated content hashtags: #ASPA, #인터넷라우팅안전화, #신뢰할수없는네트워크방지
+
+4 번째 검색 내용
+제목: DoorDash는 대규모로 고객 지원 채팅봇을 테스트하기 위해 LLM 대화 시뮬레이터를 구축합니다.
+주소: https://www.infoq.com/news/2026/03/doordash-llm-chatbot-simulator/
+설명: DoorDash engineers built a simulation and evaluation flywheel to test large language model customer support chatbots at scale. The system generates multi-turn synthetic conversations using historical transcripts and backend mocks, evaluates outcomes with an LLM-as-judge framework, and enables rapid iteration on prompts, context, and system design before production deployment.
+#인공지능 #대화체계 #채팅봇
+
+Translated content: DoorDash engineers built a simulation and evaluation flywheel to test large language model customer support chatbots at scale. The system generates multi-turn synthetic conversations using historical transcripts and backend mocks, evaluates outcomes with an LLM-as-judge framework, and enables rapid iteration on prompts, context, and system design before production deployment.
+#인공지능 #대화체계 #채팅봇
+
+5 번째 검색 내용
+제목: 넷플릭스는 현대 CPU에서 컨테이너를 확장할 때 커널 수준의 병목 현상을 발견합니다.
+주소: https://www.infoq.com/news/2026/03/netflix-kernel-scaling-container/
+설명: 인공지능 엔지니어들은 네플리스에서 Kubernetes나 containerd 뿐만 아니라 CPU 아키텍처와 Linux 커널 자체에 있는 깊은 성능 병목을 발견했습니다.
+#인공지능 #네플리스 #CPU_아키텍처 #Linux_커널
+
+Translated sentence: Engineers at Netflix have uncovered deep performance bottlenecks in container scaling that trace not to Kubernetes or containerd alone, but into the CPU architecture and Linux kernel itself.
+and Provide - #hashtags. Add 3 hashtags related to the translated content.
+
+6 번째 검색 내용
+제목: 진보하는 사회기술 아키텍처 스킬을 향상시키십시오. InfoQ의 새로운 온라인 코호트를 통해 이를 실천하십시오.
+주소: https://www.infoq.com/news/2026/03/architect-certification-program/
+설명: InfoQ의 새로운 온라인 코
+
+7 번째 검색 내용
+제목: 제목: 소수의 구체적인 행동으로 리트로스펙티브를 효과적으로 만들기와 시각적 지도자 회전
+
+본문: 리트로스펙티브는 개발팀의 성공을 위한 중요한 부분입니다. 그러나 많은 경우에서 리트로스펙티브가 효과적이지 않거나 흥미로운 회의가 아닐 수 있습니다. 이를 개선하기 위해 소수의 구체적인 행동을 취하고 시각적 지도자를 회전시키는 것이 도움이 될 수 있습니다.
+주소: https://www.infoq.com/news/2026/03/effective-retrospectives/
+설명: 팀은 주기적인 리트로스피닝을 진행하여 1-2개의 구체적인 주간 작업을 집중하여 불만 원형을 피할 수 있도록 맞춤법 오류를 QCon London에서 언급한 Natan Žabkar Nordberg입니다. 협력자를 회전시키면 소유권을 구축하고, 각각의 고유한 관점을 가져와야 합니다. 그는 큰 변경을 4-6주의 실험으로 프레임워크하고, 학습과 지속적인 개선을 보장하기 위해 유지, 조정 또는 되돌리기를 투표하도록 합니다.
+#리트로스피닝 #소유권 #지속적 개선
+
+번역된 내용에 대한 #hashtags: #팀워크팀, #애자일, #프로젝트관리
+
+8 번째 검색 내용
+제목: AWS가 실험적인 AI 에이전트 프로젝트에 대한 Strands Labs를 출시합니다.
+주소: https://www.infoq.com/news/2026/03/aws-strands-agents/
+설명: Amazon Web Services는 에이전트 기반 AI 개발과 관련된 실험적인 프로젝트를 호스팅하기 위해 Strands Labs, 새로운 GitHub 조직을 소개했습니다.
+#AWS #에이전트기반AI #StrandsLabs
+
+Translated sentence: Amazon Web Services has introduced Strands Labs, a new GitHub organization created to host experimental projects related to agent-based AI development.
+Hashtags: #AWS #에이전트기반AI #StrandsLabs
+
+9 번째 검색 내용
+제목: 클로드 오펠 4.6은 장기간 실행 에이전트에 대응 사유와 컨텍스트 압축을 소개합니다.
+주소: https://www.infoq.com/news/2026/03/opus-4-6-context-compaction/
+설명: Anthropic’s Claude Opus 4.6에서는 "Adaptive Thinking"과 "Compaction API"를 도입하여 긴 실행 에이전트에서의 컨텍스트 로트를 해결합니다. 모델은 1M 토큰 컨텍스트 윈도우를 지원하며, 76%의 다중 네이들 검색 정확도를 보입니다. 에이전트 코딩에서 최고 수준의 벤치마크를 기록함에도 불구하고, 독립적인 테스트는 이진 백도어 탐지 율을 49%로 나타냅니다. 이는 SOTA 주장과 제품 보안 간의 격차를 강조합니다.
+#인공지능 #에이전트 #컨텍스트_로트 #보안
+
+#hashtags: #AI #Agents #ContextRot #Security
+
+10 번째 검색 내용
+제목: [INST] 대규모로 AKS에서 실행하는 런닝레이 [/INST]
+주소: https://www.infoq.com/news/2026/03/ray-aks-ai-microsoft/
+설명: Azure Kubernetes Service(AKS) 팀은 Microsoft에서 Anyscale의 관리형 Ray 서비스를 규모에 따라 실행하는 데 대한 지침을 공유했습니다. 그들은 GPU 용량 제한, 분산된 ML 저장소, 인증 만료 문제와 같은 세 가지 주요 이슈에 집중합니다.
+#AKS #Ray #GPU #인증만료
+
+Translated sentence: The Azure Kubernetes Service (AKS) team at Microsoft has shared guidance for running Anyscale's managed Ray service at scale. They focus on three key issues: GPU capacity limits, scattered ML storage, and problems with credential expiry.
+#hashtags: #AKS #Ray #GPU #인증만료
+
+11 번째 검색 내용
+제목: 웹팩은 2026년 로드맵을 발표하며 네이티브 CSS 지원, 유니버설 대상, 버전 6으로의 경로를 포함합니다.
+주소: https://www.infoq.com/news/2026/03/webpack-2026-roadmap/
+설명: Webpack's 2026 roadmap, led by Even Stensberg, unveils substantial enhancements aimed at modernizing the bundler. Key features include native CSS module support, universal compilation for various environments, built-in TypeScript support, and a focus on performance optimization. As competitors rise, webpack strives to enhance user experience while preserving its core strengths.
+#웹팩 #번들러 #퍼포먼스
+
+12 번째 검색 내용
+제목: [INST] 분기를 초로 바꾸는 것: Uber가 MySQL 클러스터 업타임을 향상시키는 합의 아키텍처를 통해 돕습니다. [/INST]
+주소: https://www.infoq.com/news/2026/03/uber-mysql-uptime-consensus/
+설명: Uber는 MySQL 풀을 일관성 기반의 구조로 재설계하여, 장애 발생 시 분기 시간을 초에서 분으로 줄였습니다. 리더 선출과 실패 감지를 데이터베이스 레이어로 이동함으로써 Uber는 가용성을 향상시키고, 외부 오케스트레이션을 간소화하며, 수천 개의 제품 클러스터에서 일관성을 강화했습니다.
+#Uber #MySQL #데이터베이스
+
+13 번째 검색 내용
+제목: AI 기반 봇이 GitHub Actions 워크플로우를 Microsoft, Datadog, 및 CNCF 프로젝트에 걸칩니다.
+주소: https://www.infoq.com/news/2026/03/ai-bot-github-actions-exploit/
+설명: AI-powered bot hackerbot-claw exploited GitHub Actions workflows across Microsoft, DataDog, and CNCF projects over 7 days using 5 attack techniques. Bot achieved RCE in 5 of 7 targets, stole GitHub token from awesome-go (140k stars), and fully compromised Aqua Security's Trivy. Campaign included first documented AI-on-AI attack where bot attempted prompt injection against Claude Code.
+                     #인공지능 #해킹봇 #깃허브 #보안
+
+#hashtags: 
+1. #인공지능
+2. #해킹봇
+3. #깃허브보안
+
+14 번째 검색 내용
+제목: Uno Platform 6.5 출시: AI 에이전트 지원, 유니코드 텍스트, 스튜디오 개선
+
+(주의: 위 번역은 컴퓨터 언어를 사람으로부터 인식하여 해석하고 대화를 이어가는 AI에 대한 지원을 포함한 Uno Platform 6.5의 출시를 알리는 데 도움이 됩니다.)
+주소: https://www.infoq.com/news/2026/03/uno-platform-6-5-release/
+설명: Uno Platform 6.5에서는 Antigravity AI 에이전트 지원을 도입하여, 에이전트가 앱 동작을 실시간으로 검증할 수 있게 되었습니다. Hot Design은 기본적으로 리디자인된 툴바와 새로운 범위 선택기를 포함하여 출시됩니다. 이 릴리스는 Unicode TextBox 지원을 추가하여 비라틴 문자 스크립트에 대한 지원을 확장합니다, WebView2를 WebAssembly에서 개선하고 전체적으로 지원되는 모든 플랫폼에서 커뮤니티 문제를 450개 이상 해결합니다.
+#UnoPlatform #AntigravityAI #WebAssembly
+
+#hashtags:
+1. #UnoPlatform
+2. #AntigravityAI
+3. #WebAssembly
+
+15 번째 검색 내용
+제목: 데이터독: 에이전트 바이너리 크기를 77% 줄임으로써 축소
+[/INST]
+주소: https://www.infoq.com/news/2026/03/datadog-go-binary-optimization/
+설명: AI : Datadog 에이전트는 5년간의 기간 동안 428 MiB에서 1.22 GiB로 증가하여, Datadog 엔지니어들은 그 이진 크기를 줄이기 위해 시작했습니다. 그들은 Go 이진 폭발이 주로 숨겨진 의존성, 비활성화된 링커 최적화와 Go 컴파일러와 링커에서 약간의 특별한 행동으로 인해 발생하는 것을 발견했습니다.
+#Datadog #Go언어 #이진폭발 #엔지니어링
+
+Hashtags: #Datadog, #Go언어, #이진폭발, #엔지니어링
+
