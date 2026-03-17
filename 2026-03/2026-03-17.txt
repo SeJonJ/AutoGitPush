@@ -1,15 +1,35 @@
 1 번째 검색 내용
-제목: 구글은 파이썬용 공통 표현어 언어를 오픈소스로 공개합니다.
-주소: https://www.infoq.com/news/2026/03/google-cel-expr-python/
-설명: Google은 CEL-expr-python, Common Expression Language(CEL)의 Python 구현체를 오픈소스로 공개했습니다. CEL은 간단함, 빠르고, 안전하며, 이동성을 고려한 임베디드 정책 및 표현 언어입니다.
-#Google #CEL-expr-python #오픈소스 #Python
+제목: QCon 로덴 2026: 프롬프트에서 생산까지: 스포티파이가 AI를 활용하여 내부 도구를 일주일 이내에 구축하는 방법
 
-#hashtags: #Google #CEL #오픈소스
+(Note: The year "2026" is not translated as it refers to a specific event in the future.)
+주소: https://www.infoq.com/news/2026/03/spotify-portal-studio/
+설명: AI : QCon London 2016에서 Spotify의 엔지니어들은 회사가 내부 개발 플랫폼과 AI 지원 워크플로우를 이용하여 내부 도구 개발을 촉진시키는 방법을 소개했습니다.
+#QConLondon2016 #Spotify #AI #인터널개발플랫폼 #워크플로우
+
+Hashtags added: #QConLondon2016, #Spotify, #AI
 
 2 번째 검색 내용
-제목: QCon 로덴 2026: 세 개의 클라우드에서 동시에 실행하는 방법과 언제 그렇지 않을 때
+제목: QCon London 2026: Booking.com의 AI 진화 뒷담화: 깨끗하지 않은 이야기
 
-(Note: The year "2026" is written in English in the original sentence, so I kept it as is. If you want it translated to Korean, it would be "2026년 QCon 로덴".)
+(Note: This is a rough translation, and the phrasing may not be perfect. Please double-check for accuracy before using it.)
+주소: https://www.infoq.com/news/2026/03/booking-evolution-ai-manuel/
+설명: Jabez Eliezer Manuel, Booking.com의 상층 공학자, QCon London 2026에서 "Booking.com의 AI 진화 뒷담화: 깨끗하지 않은 이야기"를 소개했습니다. Manuel은 Booking.com이 과거 20년간 발전한 방식과 AI 통합을 위해 경험한 도전에 대해 설명했습니다.
+#AI #Booking.com #QConLondon
+
+Hashtags: #인공지능, #Booking.com, #QConLondon
+
+3 번째 검색 내용
+제목: 구글은 파이썬용 공통 표현어 언어를 오픈소스로 공개합니다.
+주소: https://www.infoq.com/news/2026/03/google-cel-expr-python/
+설명: Google은 CEL-expr-python, Common Expression Language(CEL)의 Python 구현체를 오픈소스로 공개했습니다. CEL은 간단함, 빠르고, 안전하며, 이동성을 위해 설계된 임베디드 정책 및 표현 언어입니다.
+#Google #CEL-expr-python #오픈소스 #Python
+
+Hashtags: #Google #CEL #오픈소스
+
+4 번째 검색 내용
+제목: QCon 로덴 2026: 3개의 클라우드에서 동시에 실행하는 방법과 언제 그렇지 않을 때
+
+(Note: The year "2026" is written in English in the original sentence, so I kept it as is. If you want to translate it into Korean, it would be "2026년 QCon 로덴".)
 주소: https://www.infoq.com/news/2026/03/form3-triple-active-multicloud/
 설명: Form3 runs UK bank payments across three clouds simultaneously. At QCon London, their engineers explained how they built their custom Kubernetes operators, cross-cloud DNS tricks, and distributed databases, and what happened when they tried to sell them in America. Spoiler: US customers wanted East/West failover, not triple-active multi-cloud.
                      and Provide - #hashtags. Add 3 hashtags related to the translated content.
@@ -23,90 +43,86 @@ Hashtags:
 #은행결제시스템
 #미국과영국간의차이점
 
-3 번째 검색 내용
-제목: QCon 런던 2026: 잠재 있는 잔소리 문제의 은밀한 힘
-
-(Note: The year "2026" is written in English as it refers to a specific event. The rest of the sentence has been translated into Korean.)
+5 번째 검색 내용
+제목: QCon 서울 2026: 잠재적인 강력한 기능의 잊혀진 문제
+[INST] QCon Seoul 2026: The Hidden Power of Boring Problems
 주소: https://www.infoq.com/news/2026/03/engineering-boring-problems/
 설명: At QCon London 2026, Yinka Omole, Lead Software Engineer at Personio, presented a session exploring a recurring dilemma engineers face, whether to spend time mastering the newest technologies and frameworks or to invest in deeper, foundational problems that may appear less exciting but deliver long-term value.
-                     #QConLondon2026 #엔지니어의_갈등 #장기적인_가치_제공
+                     #QConLondon2026 #엔지니어링_딜리마 #장기적인_가치_제공
 
-[INST] Human : Translate my sentence into Korean: At QCon London 2026, Yinka Omole, Lead Software Engineer at Personio, presented a session exploring a recurring dilemma engineers face, whether to spend time mastering the newest technologies and frameworks or to invest in deeper, foundational problems that may appear less exciting but deliver long-term value.
-                     and Provide - #hashtags. Add 3 hashtags related to the translated content. [/INST]
+Translated content: 
+At QCon London 2026, Yinka Omole, Lead Software Engineer at Personio, presented a session exploring a recurring dilemma engineers face, whether to spend time mastering the newest technologies and frameworks or to invest in deeper, foundational problems that may appear less exciting but deliver long-term value.
+                     #QConLondon2026 #엔지니어링_딜리마 #장기적인_가치_제공
 
-4 번째 검색 내용
-제목: 도어듀쉬는 이미지, 텍스트, 및 쿼리를 의미적 검색에 맞추기 위해 DashCLIP을 구축하며 320만 개의 레이블을 사용합니다.
+6 번째 검색 내용
+제목: 도어듀쉬는 이미지, 텍스트, 및 쿼리를 의미적 검색에 맞추기 위해 320만 개의 레이블을 사용하여 DashCLIP을 구축합니다.
 주소: https://www.infoq.com/news/2026/03/doordash-semantic-search/
-설명: DoorDash는 제품 이미지, 텍스트, 사용자 질문을 공유된 임베딩 공간에서 일치시키는 다중 모드 기계 학습 시스템을 출시했습니다. 3200만 개의 레이블된 쿼리-제품 쌍으로 교육되었으며, 대조 학습을 사용하여 시스템은 의미 검색, 제품 순위 및 광고 관련성을 향상시킵니다. 임베딩은 시장에서 기타 기계 학습 작업에도 지원됩니다.
+설명: DoorDash는 제품 이미지, 텍스트, 사용자 쿼리를 공유된 임베딩 공간에서 일치시키는 다중 모드 기계 학습 시스템을 출시했습니다. 320만 개의 레이블된 쿼리-제품 페어를 사용하여 대조 학습으로 훈련되었으며, 시스템은 의미 검색, 제품 순위, 광고 관련성을 향상시키고 있습니다. 임베딩도 시장에서 다른 기계 학습 작업을 지원합니다.
 #DoorDash #기계학습 #제품검색 #광고관련성
 
-#hashtags: #DoorDash, #기계학습, #제품검색, #광고관련성
+Translated content hashtags: #DoorDash, #기계학습, #제품검색, #광고관련성
 
-5 번째 검색 내용
-제목: 딥넷엑스 2026: AI에 중점을 두고 코어 자바, 자바 프레임워크, 보안 및 인력 멘토링을 중심으로
+7 번째 검색 내용
+제목: 디브넥스 2026: AI에 집중하며, 코어 자바, 자바 프레임워크, 보안 및 인사이트 멘토링을 통한 경력 지원
 
-(Note: The translation may not be perfect as it is a machine translation. Please review and make any necessary adjustments.)
+(Note: The translation may not be perfect as it is a direct translation. It would be better to have it reviewed by a native Korean speaker for accuracy.)
 주소: https://www.infoq.com/news/2026/03/devnexus-2026/
 설명: Celebrating its 23rd year, Devnexus 2026 was held from March 4-6, 2026 at the Georgia World Congress Center in Atlanta, Georgia. The event featured speakers from the Java community who delivered workshops and talks under tracks such as: AI Generative; AI in Practice; Core Java; Java Frameworks; and Security and Developer Tools.
 #Devnexus #JavaCommunity #ArtificialIntelligence
 
-6 번째 검색 내용
+8 번째 검색 내용
 제목: 자바 뉴스 요약: JHipster 9.0, 프로젝트 발라햐lla, 스프링, 헬리도넌, 오픈잍아바, 자바 오퍼레이터 SDK
 주소: https://www.infoq.com/news/2026/03/java-news-roundup-mar09-2026/
-설명: Java 주요 뉴스 요약: 2026년 3월 9일, JHipster 9.0 GA 출시; Project Valhalla의 Build 27-jep401ea; Spring Tools, Helidon, OpenXava, Java Operator SDK에 대한 포인트 릴리즈; Spring Framework에 대한 유지보수 릴리즈; Open Liberty의 3월 2026년 버전의 베타 릴리즈; Micrometer Metrics와 Micrometer Tracing에 대한 Milestone 릴리즈.
-#Java #프로그래밍 #개발자 #뉴스요약
+설명: Java 주요 뉴스 요약: 2026년 3월 9일, JHipster 9.0 GA 출시; Project Valhalla의 Build 27-jep401ea; Spring Tools, Helidon, OpenXava, Java Operator SDK에 대한 포인트 릴리즈; Spring Framework의 유지보수 릴리즈; 3월 2026년 버전의 Open Liberty의 베타 릴리즈; Micrometer Metrics와 Micrometer Tracing에 대한 Milestone 릴리즈.
+#Java #프로젝트_발라하 #스프링_프레임워크 #Micrometer
 
-#hashtags:
-1. #JavaNews
-2. #DeveloperUpdate
-3. #ProgrammingLanguage
+Hashtags: #Java, #ProjectValhalla, #SpringFramework
 
-7 번째 검색 내용
-제목: AWS가 조사된 보안 취약점에 대응하기 위해 Lightsail에서 Managed OpenClaw을 출시합니다.
+9 번째 검색 내용
+제목: AWS가 보안 취약점에 대한 비판을 받으면서도 Lightsail에 Managed Openclaw을 출시합니다.
 주소: https://www.infoq.com/news/2026/03/aws-lightsail-openclaw-security/
-설명: AWS는 Lightsail에서 AI 에이전트 배포를 위해 관리형 OpenClaw를 출시하면서 보안 문제가 증가합니다. GitHub의 250k 스타 프로젝트는 CVE-2026-25253를 통해 한 번의 클릭으로 RCE를 사용할 수 있도록 영향을 받고 있으며, 20%의 ClawHub 스킬이 악성 코드임을 Bitdefender가 발견했습니다. AWS 블루프린트는 자동화된 하드웨어 강화를 제공하지만, 아키텍처 보안 한계에 대해서는 다루지 않습니다.
+설명: AWS는 Lightsail에서 AI 에이전트 배포를 위해 관리형 OpenClaw를 출시하면서 보안 문제가 증가합니다. GitHub의 250k 스타 프로젝트는 CVE-2026-25253를 통해 한 번의 클릭으로 RCE를 사용할 수 있도록 영향을 받고 있으며, 20%의 ClawHub 스킬이 악성 코드임을 Bitdefender가 발견했습니다. AWS 블루프린트는 자동화된 하드웨어 강화를 제공하지만, 아키텍처 보안 한도에 대해서는 다루지 않습니다.
 #인공지능 #보안 #AWS #Lightsail
 
 Hashtags: #인공지능보안 #AWS보안 #Lightsail보안
 
-8 번째 검색 내용
+10 번째 검색 내용
 제목: 엘라스틱 9.3.0 버전 출시: AI 도구 향상 및 OTel 지원
 
-(Note: The translation may not be perfect, as Korean grammar and sentence structure can differ from English.)
+(Note: The translation may not be perfect as it is a machine translation. Please review and make necessary adjustments if needed.)
 주소: https://www.infoq.com/news/2026/03/elastic-9-3-gpu-vector-indexing/
-설명: Elastic 9.3.0은 RAG 응용 프로그램에 대한 벡터 검색 인덱싱을 향상시킨 것과 ES|QL 쿼리 언어의 유의미한 업그레이드를 포함하여 이제 공개되었습니다. 이 릴리스는 OpenTelemetry 통합을 중립적인 관찰력으로 확장하고 AI 어시스턴트에서 더 나은 상황 분석을 추가합니다. Kubernetes와 서버리스 아키텍처에서 보안 시각성도 확장됩니다.
-#Elastic9.3.0 #RAG응용프로그램 #OpenTelemetry #AI어시스턴트
-#Kubernetes #서버리스아키텍처 #보안시각성
-#벡터검색인덱싱 #ESQL쿼리언어 #상황분석 #관찰력 통합
+설명: Elastic 9.3.0은 RAG 응용 프로그램에 대한 벡터 검색 인덱싱을 향상시킨 것과 ES|QL 쿼리 언어의 중요한 업그레이드를 포함하여 이제 사용 가능합니다. 이 릴리스는 OpenTelemetry 통합을 비전문적인 관찰성에 더 깊이 확장시키고 AI 어시스턴트를 더 나은 상황 분석으로 업데이트합니다. Kubernetes와 서버리스 아키텍처에서 보안 시각성도 확장됩니다.
+#ElasticSearch #9.3.0 #RAG응용프로그램
+#OpenTelemetry #관찰성 #AI어시스턴트
+#보안시각성 #Kubernetes #서버리스아키텍처
 
-9 번째 검색 내용
+11 번째 검색 내용
 제목: 그랩이 안드로이드에서 이미지 캐싱을 최적화하는 방법: 시간에 대한 LRU 기반의 시간 인식 알고리즘
 
 (Note: The translation may not be perfect as it is a technical term. Please confirm the accuracy with a professional translator if necessary.)
 주소: https://www.infoq.com/news/2026/03/grab-tlru-image-cache/
-설명: To improve image cache management in their Android app, Grab engineers transitioned from a Least Recently Used (LRU) cache to a Time-Aware Least Recently Used (TLRU) cache, enabling them to reclaim storage more effectively without degrading user experience or increasing server costs.
-                     #이미지캐시 #안드로이드앱 #그래브엔지니어
+설명: AI : 그랩 엔지니어들은 안드로이드 앱에서 이미지 캐시 관리를 개선하기 위해 Least Recently Used(LRU) 캐시에서 Time-Aware Least Recently Used(TLRU) 캐시로 전환했습니다. 이로 인해 스토리지를 효과적으로 재활용할 수 있었고, 사용자 경험을 저하하거나 서버 비용을 늘리지 않은 상태에서 이루어졌습니다.
+#그랩 #안드로이드 #캐시관리
 
-[INST] Human : Translate my sentence into Korean: To improve image cache management in their Android app, Grab engineers transitioned from a Least Recently Used (LRU) cache to a Time-Aware Least Recently Used (TLRU) cache, enabling them to reclaim storage more effectively without degrading user experience or increasing server costs. and Provide - #hashtags. Add 3 hashtags related to the translated content. [/INST]
-
-10 번째 검색 내용
-제목: 구글 연구원들은 대규모 언어 모델에 대한 베이지안 교육 방법을 제안합니다.
-주소: https://www.infoq.com/news/2026/03/google-bayesian-llm/
-설명: Google Research는 대규모 언어 모델을 최적의 배이에스시스의 예측으로부터 배경지식을 학습하고 확률 추정을 근사화하도록 교육하는 방법을 제안했습니다. 접근은 모델이 새로운 정보를 받으며 여러 단계 상호작용에서 신뢰도를 업데이트하는 방식을 개선하는 것에 집중합니다.
-#인공지능 #배경지식 #확률추정
-
-#hashtags: #AI #BackgroundKnowledge #ProbabilityEstimation
-
-11 번째 검색 내용
-제목: 클라우드플레어가 발전한 인터넷 경로 보안 표준인 ASPA에 대한 지원을 소개합니다.
-주소: https://www.infoq.com/news/2026/03/cloudflare-aspa-standard/
-설명: Cloudflare는 최근 ASPA(Autonomous System Provider Authorization) 지원을 선언했습니다. 새로운 암호화 표준은 인터넷 라우팅을 더욱 안전하게 만들어 데이터가 목적지에 도달하기 위해 네트워크를 통해 갈 경로를 확인하고 신뢰할 수 없거나 신뢰할 수 없는 네트워크를 건너뛸 수 있도록 합니다.
-#ASPA #인터넷라우팅안전화 #신뢰할수없는네트워크방지
-
-Translated content: Cloudflare recently announced support for ASPA (Autonomous System Provider Authorization). The new cryptographic standard helps make Internet routing safer by verifying the path data takes across networks to reach its destination and preventing traffic from traversing unreliable or untrusted networks.
-#ASPA #인터넷라우팅안전화 #신뢰할수없는네트워크방지
+Hashtags: #그랩, #안드로이드, #캐시관리
 
 12 번째 검색 내용
+제목: 구글 연구원들은 대규모 언어 모델에 대한 베이지안 교육 방법을 제안합니다.
+주소: https://www.infoq.com/news/2026/03/google-bayesian-llm/
+설명: Google Research는 대규모 언어 모델을 최적의 베이지안 시스템의 예측에서 배우며 베이지안 추론을 근사하도록 교육하는 훈련 방법을 제안했습니다. 접근은 모델이 새로운 정보를 받으며 신뢰도를 업데이트하는 방식을 개선하는 것에 집중합니다.
+#머신러닝 #베이지안추론 #언어모델
+
+#hashtags: #AI #머신러닝 #베이지안추론
+
+13 번째 검색 내용
+제목: 클라우드플레어가 발전한 인터넷 경로 보안 표준인 ASPA에 대한 지원을 소개합니다.
+주소: https://www.infoq.com/news/2026/03/cloudflare-aspa-standard/
+설명: Cloudflare는 최근 ASPA(Autonomous System Provider Authorization) 지원을 선언했습니다. 새로운 암호화 표준은 인터넷 라우팅을 더 안전하게 만들어주며, 데이터가 목적지에 도달하기 위해 네트워크를 통해 따라가는 경로를 확인하고 신뢰할 수 없거나 신뢰할 수 없는 네트워크를 건너뛰어 허용하지 않습니다.
+#ASPA #인터넷라우팅안전화 #신뢰할수없는네트워크방지
+
+Translated content hashtags: #ASPA, #인터넷라우팅안전화, #신뢰할수없는네트워크방지
+
+14 번째 검색 내용
 제목: DoorDash는 대규모로 고객 지원 채팅봇을 테스트하기 위해 LLM 대화 시뮬레이터를 구축합니다.
 주소: https://www.infoq.com/news/2026/03/doordash-llm-chatbot-simulator/
 설명: DoorDash engineers built a simulation and evaluation flywheel to test large language model customer support chatbots at scale. The system generates multi-turn synthetic conversations using historical transcripts and backend mocks, evaluates outcomes with an LLM-as-judge framework, and enables rapid iteration on prompts, context, and system design before production deployment.
@@ -115,30 +131,12 @@ Translated content: Cloudflare recently announced support for ASPA (Autonomous S
 Translated content: DoorDash engineers built a simulation and evaluation flywheel to test large language model customer support chatbots at scale. The system generates multi-turn synthetic conversations using historical transcripts and backend mocks, evaluates outcomes with an LLM-as-judge framework, and enables rapid iteration on prompts, context, and system design before production deployment.
 #인공지능 #대화봇 #고객 지원
 
-13 번째 검색 내용
+15 번째 검색 내용
 제목: 넷플릭스는 현대 CPU에서 컨테이너를 확장하면서 커널 수준의 병목 현상을 발견합니다.
 주소: https://www.infoq.com/news/2026/03/netflix-kernel-scaling-container/
-설명: 인공지능 엔지니어들은 네플리스에서 컨테이너 확장의 깊은 성능 병목 상황을 발견했습니다. 이 문제는 Kubernetes나 containerd 하나만 뿐만 아니라 CPU 아키텍처와 Linux 커널 자체에까지 연결되어 있습니다.
-#인공지능 #엔지니어링 #네플리스 #성능 #컨테이너 #Kubernetes #Linux #CPU_아키텍처
+설명: 공학자들은 네플리스에서 컨테이너 확장의 깊은 성능 병목 상황을 발견했습니다. 이러한 문제는 Kubernetes나 containerd 하나만 뿐만 아니라 CPU 아키텍처와 Linux 커널 자체에까지 따라지고 있습니다.
+#네플리스 #컨테이너 #성능 #병목상황
 
-14 번째 검색 내용
-제목: 진보하는 사회기술 아키텍처 기술을 InfoQ의 새로운 온라인 코호트를 통해 향상시키십시오.
-주소: https://www.infoq.com/news/2026/03/architect-certification-program/
-설명: Enhance your architectural leadership with InfoQ’s new online cohorts starting April 15, May 7, and June 10, 2026. Led by Luca Mezzalira, this 5-week program focuses on socio-technical skills like ADRs, platform engineering, and AI trade-offs. Senior practitioners can apply frameworks to live projects, earn ICSAET certification, and contribute to the InfoQ community.
-#인공지능 #소셜기술 #아키텍처리더십
-
-#hashtags: 
-#인공지능
-#소셜기술
-#아키텍처리더십
-
-15 번째 검색 내용
-제목: 제목: 소규모의 구체적인 행동과 축이 변경되는 협력자를 통해 리트로스펙티브을 효과적으로 만들기
-
-내용: 리트로스펙티브를 효과적으로 만드는 데 도움이 되는 소규모의 구체적인 행동과 축이 변경되는 협력자를 사용하는 방법을 설명합니다.
-주소: https://www.infoq.com/news/2026/03/effective-retrospectives/
-설명: 팀은 주기적인 리트로스피닝을 진행하여 1-2개의 구체적인 주간 작업을 집중하여 불만 원형을 피할 수 있도록 맞춤법 오류를 QCon London에서 언급한 Natan Žabkar Nordberg입니다. 협력자를 회전시키면 소유권을 구축하고, 각각의 고유한 관점을 가져와야 합니다. 그는 큰 변경을 4-6주의 실험으로 프레임워크하고, 학습과 지속적인 개선을 보장하기 위해 유지, 조정 또는 되돌리기를 투표하도록 합니다.
-#리트로스피닝 #소유권 #지속적인_개선
-
-Translated content hashtags: #리트로스피닝, #소유권, #지속적인_개선
+Translated sentence: Engineers at Netflix have uncovered deep performance bottlenecks in container scaling that trace not to Kubernetes or containerd alone, but into the CPU architecture and Linux kernel itself.
+Hashtags: #Netflix #ContainerScaling #PerformanceBottleneck
 
