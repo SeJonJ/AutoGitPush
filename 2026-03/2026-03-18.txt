@@ -1,86 +1,119 @@
 1 번째 검색 내용
+제목: 이란 전쟁으로 여러 개의 AWS 데이터 센터가 피해를 입어, 다중 AZ 가정에 대한 기본 가정을 깨뜨리고 있습니다.
+주소: https://www.infoq.com/news/2026/03/aws-multiaz-conflict-outage/
+설명: 이번 달 초에는 아랍 무인 비행기가 AWS 데이터 센터 3개를 UAE와 바레인에서 폭격하여, 다양한 서비스의 중지와 장애가 발생했습니다. 이러한 사건은 동일 AWS 지역 내의 여러 설치를 영향받았으며, 글로벌 클라우드 인프라와 다중 AZ 배포에 대한 커뮤니티 안에서 광범위한 토론을 유발했습니다.
+#아랍무인비행기 #AWS데이터센터 #글로벌클라우드인프라
+
+2 번째 검색 내용
+제목: QCon 로덴 2026: 오픈테레미터를 사용하여 큐이닝 병목을 풀어내기
+
+(Note: The given sentence seems to be a title or heading for a conference. In this case, I translated it into Korean as follows: "QCon 로덴 2026: 오픈테레미터를 사용하여 큐이닝 병목을 풀어내기". However, the sentence structure and grammar might need adjustments depending on the context it is used in.)
+주소: https://www.infoq.com/news/2026/03/queue-otel-observability/
+설명: At QCon London 2026, Julian Wreford and Oli Lane from Gearset showcased how distributed tracing and SLOs solve asynchronous observability gaps. By shifting from queue-size metrics to latency-based alerts, the team improved incident response. Key technical takeaways included using OpenTelemetry trace state for async duration tracking and wide events to uncover hidden architectural waste.
+                     #QConLondon2026 #인시넌트 #async #observability
+
+Add 3 hashtags related to the translated content:
+#QConLondon2026 #인시넌트 #async #observability
+
+3 번째 검색 내용
+제목: QCon 로덴 2026: 개체 중심의 관측성: 네플리스 규모에서의 E2E 지식 그래프 구축
+
+(Note: The given text is a title, and it may not be grammatically correct in Korean. However, the meaning should still be conveyed.)
+주소: https://www.infoq.com/news/2026/03/ontology-at-netflix/
+설명: Prasanna Vijayanathan과 Renzo Sanchez-Silva, 모두 Netflix의 엔지니어들은 QCon London 2026에서 "Ontology‐Driven Observability: Building the E2E Knowledge Graph at Netflix Scale"를 발표했습니다. 그들은 Netflix 사용자 경험을 모델링하는 엔드투엔드 지식 그래프의 설계 및 구현에 대해 토의했습니다.
+#인공지능 #데이터시각화 #네플리스
+
+Translated sentence: Prasanna Vijayanathan and Renzo Sanchez-Silva, both Engineers at Netflix, presented “Ontology‐Driven Observability: Building the E2E Knowledge Graph at Netflix Scale” at QCon London 2026, where they discussed the design and implementation of an end-to-end knowledge graph that models the Netflix user experience.
+and Provide - #hashtags. Add 3 hashtags related to the translated content.
+
+4 번째 검색 내용
 제목: QCon 로덴 2026: DVD에서 글로벌 스트리밍으로 어떻게 Netflix의 상업 아키텍처가 실제로 발전했는지
 
-(Note: The given sentence seems to be a title or heading, so the translation provided is in Korean as well.)
+(Note: The given Korean translation may not be perfect due to the lack of context and the fact that "QCon London 2026" is a specific event name, which might not have an exact equivalent in Korean. However, the main idea of the sentence has been translated.)
 주소: https://www.infoq.com/news/2026/03/netflix-dvds-to-global-streaming/
 설명: Dynamic principal engineer at Netflix, Kasia Trapszo, expertly navigates the evolution of the company’s commerce architecture from a DVD rental service to a global streaming giant. Her insights on pragmatic adaptations to billing systems reveal invaluable lessons on agility, localization, and the complexity of modern payment landscapes.
 #인공지능 #넷플릭스 #결제시스템
 
 [INST] Human : Translate my sentence into Korean: Dynamic principal engineer at Netflix, Kasia Trapszo, expertly navigates the evolution of the company’s commerce architecture from a DVD rental service to a global streaming giant. Her insights on pragmatic adaptations to billing systems reveal invaluable lessons on agility, localization, and the complexity of modern payment landscapes. and Provide - #hashtags. Add 3 hashtags related to the translated content. [/INST]
 
-2 번째 검색 내용
-제목: QCon 로덴 2026: 생산성 AI 시스템에 대한 신뢰할 수 있는 검색
+5 번째 검색 내용
+제목: QCon London 2026: 생산성 AI 시스템에 대한 신뢰할 수 있는 검색
 
 (Note: The year "2026" is not translated, as it is a specific event date.)
 주소: https://www.infoq.com/news/2026/03/retrieval-production-ai/
 설명: At QCon London 2026, Lan Chu, AI Tech Lead at Rabobank, shared lessons from deploying a production AI search system used internally by more than 300 users across 10,000 documents. Her experience shows that most failures in RAG systems stem from indexing and retrieval, rather than the language model itself.
-                     #인공지능 #QConLondon2026 #Rabobank
+                     #인공지능 #QConLondon2026 #Rabobank #검색시스템
 
-Translate my sentence into Korean:
-                         QCon London 2026에서 Rabobank의 AI Tech Lead인 Lan Chu는 300명 이상의 사용자가 10,000개 문서를 통해 내부적으로 사용되는 생산성 AI 검색 시스템을 배포하면서 경험을 공유했습니다. 그의 경험은 RAG 시스템의 대부분의 실패가 인덱싱과 검색, 아닌 언어 모델 자체에서 발생하는 것으로 나타났습니다.
-                     #인공지능 #QConLondon2026 #Rabobank
+Translate my sentence into Korean: 
+                         At QCon London 2026, Lan Chu, AI Tech Lead at Rabobank, shared lessons from deploying a production AI search system used internally by more than 300 users across 10,000 documents. Her experience shows that most failures in RAG systems stem from indexing and retrieval, rather than the language model itself.
+                     and Provide - #hashtags. Add 3 hashtags related to the translated content.
 
-Add 3 hashtags related to the translated content:
-#AIsearchsystem #RAGsystems #LanguageModel
+Translation: 
+                         QCon 런던 2026에서 Rabobank의 AI Tech Lead인 랜칭은 10,000 문서를 내부 300명 이상의 사용자가 사용하는 생산성 높인 AI 검색 시스템을 배포한 경험을 공유했습니다. 그의 경험은 RAG 시스템에서 실패의 대부분이 인덱싱과 검색에서 발생하고, 언어 모델 자체는 아닌 것을 보여줍니다.
+                     #인공지능 #QCon런던2026 #Rabobank #검색시스템
 
-3 번째 검색 내용
-제목: QCon 로덴 2026: 몬조에서 항상 배송하고 인간 이상으로
+#hashtags: #인공지능 #AI #검색 #RABOBANK #QConLondon2026
 
-(Note: The given sentence seems to be a title or event name. In this case, I translated it into Korean as provided above.)
+6 번째 검색 내용
+제목: QCon 로덴 2026: 몬조에서 계속적으로 배송하고 인간 이상
+
+(Note: The given sentence seems to be a title or event name. In Korean, it would remain mostly the same with some minor adjustments for grammar and flow.)
 주소: https://www.infoq.com/news/2026/03/shipping-monzo/
 설명: At QCon London 2026, Suhail Patel, a principal engineer at Monzo who leads the bank's platform group, described how the bank has built a developer platform capable of shipping hundreds of changes to production every day.
 #QConLondon #Monzo #DeveloperPlatform
 
-4 번째 검색 내용
-제목: QCon 로덴 2026: 비동기 API를 대규모에서 관리하는 방법
+7 번째 검색 내용
+제목: QCon 런던 2026: 비동기 API를 대규모로 관리하는 방법
 
 (Note: The year "2026" is not a standard way to express time in Korean, but it was kept as-is for the translation.)
 주소: https://www.infoq.com/news/2026/03/managing-async-apis/
 설명: At QCon London 2026, Ian Cooper, senior principal engineer at Just Eat Takeaway, discussed managing asynchronous APIs in production, showing how endpoint definitions can drive code generation, schema registration, and the automation of messaging infrastructure.
 #QConLondon #APIManagement #AsynchronousAPIs
 
-Translated sentence: 
-                        퀘론 런던 2026에서 Ian Cooper, Just Eat Takeaway의 상술 주요 기술자,는 프로덕션에서 비동기 API를 관리하고 비동기 API의 엔드포인트 정의가 코드 생성, 스키마 등록 및 메시징 인프라스트럭처 자동화를 위해 어떻게 다루는지 논의했습니다.
-#QConLondon #API관리 #비동기API
+Translated content: 
+QCon 런던 2026에서 Ian Cooper, Just Eat Takeaway의 상층 원장 공학자,는 프로덕션에서 비동기 API를 관리하고 비동기 API의 엔드포인트 정의가 코드 생성, 스키마 등록 및 메시징 인프라스트럭처 자동화를 위해 어떻게 작동하는지 설명했습니다.
+#QCon런던 #API관리 #비동기API
 
-Hashtags: #QConLondon, #API관리, #비동기API
+Additional hashtags:
+#JustEatTakeaway #코드생성 #스키마등록
 
-5 번째 검색 내용
-제목: QCon 로덴 2026: 다양한 클라우드 전략은 제품 문제이므로 그렇게 처리하십시오.
-[INST] QCon London 2026: Your Multi-Cloud Strategy Is a Product Problem — Treat It Like One
+8 번째 검색 내용
+제목: QCon 로덴 2026: 다양한 클라우드 전략은 제품 문제이기 때문에 제품처럼 대처하라
+
+(Note: The year "2026" is not translated as it refers to a specific event in the future.)
 주소: https://www.infoq.com/news/2026/03/jpmc-multicloud-product-strategy/
-설명: JP Morgan Chase 공장 Luis Albinati와 Surabhi Mahajan은 멀티클라우드 복잡성을 엔지니어링만으로는 해결할 수 없다고 주장했습니다. QCon London에서 발표하면서 멀티클라우드를 제품으로 간주하여 능력 매핑, 요구 관리, 정의된 사용자를 통해 혼란을 다스리는 방법을 보였습니다.
-#멀티클라우드 #엔지니어링 #QConLondon
+설명: JP Morgan Chase 공장 Luis Albinati와 Surabhi Mahajan은 다중 클라우드 복잡성을 엔지니어링만으로는 해결할 수 없다고 주장했습니다. QCon London에서 발표하면서, 다중 클라우드를 제품으로 간주하여 능력 매핑, 요구 관리, 정의된 사용자를 통해 혼란을 억제한다는 방법을 보였습니다.
+#다중클라우드 #엔지니어링 #혼란 #억제
 
-Hashtags: #멀티클라우드, #엔지니어링, #QConLondon
+Hashtags: #다중클라우드, #엔지니어링, #혼란, #억제
 
-6 번째 검색 내용
+9 번째 검색 내용
 제목: AI는 소프트웨어 공학 성능을 증대시키고 있다고 2025년 DORA 보고서에서 언급합니다.
 주소: https://www.infoq.com/news/2026/03/ai-dora-report/
-설명: AI : 인공지능은 소프트웨어 개발의 방식을 빠르게 변화시키고 있으며, 그 영향은 기대하지 못한 복잡함이 있습니다. 2025년 개발 및 평가 연구 (DORA) 보고서, 제목은 "인공지능 도움을 받은 소프트웨어 개발의 현황"입니다. 이 보고서에 따르면, AI는 소프트웨어 배포 성능을 자동으로 향상시키지는 않습니다.
+설명: AI : 인공지능은 소프트웨어 개발의 방식을 빠르게 변화시키고 있으며, 그 영향은 기대하지 못한 복잡함이 있습니다. 2025년 개발 및 평가 연구 (DORA) 보고서, 제목은 "인공지능 도움으로 소프트웨어 개발"입니다. 이 보고서는 AI가 소프트웨어 배포 성능을 자동으로 향상시키지 않았음을 발견했습니다.
 #인공지능 #소프트웨어개발 #DORA보고서
 
 Hashtags: #인공지능, #소프트웨어개발, #DORA보고서
 
-7 번째 검색 내용
-제목: QCon 로덴 2026: 모든 기술 부채는 동등하지 않습니다.
+10 번째 검색 내용
+제목: QCon London 2026: 모든 기술 부채는 동등하지 않습니다.
 주소: https://www.infoq.com/news/2026/03/tech-debt-not-equal/
-설명: Joy Ebertz, Imprint의 주요 공장장, QCon London 2026에서 AI 기반 코드 생산으로 인한 빠른 기술 부채 처리 우선 순위를 결정하는 혁신적인 프레임워크를 제시했습니다. 그녀의 6문항 접근 방식은 완벽주의 상태를 도전함으로써, 영향과 비용을 평가하고 기본적인 부채에 집중할 수 있도록 팀을 지원합니다. Jot은 기술 결정을 금융 용어로 번역하여, 더 똑똑한 엔지니어링을 가능하게 합니다.
+설명: Joy Ebertz, Imprint의 주요 공장장, QCon London 2026에서 AI 기반 코드 생산으로 인한 빠른 기술 부채 처리 우선 순위를 결정하는 혁신적인 프레임워크를 제안했습니다. 그녀의 6문항 접근 방식은 완벽주의 상식을 도전함으로써, 영향과 비용을 평가하고 중요한 부채에 집중할 수 있도록 팀을 지원합니다. Jot은 기술 결정을 금윤적 용어로 번역하여, 더 똑똑한 엔지니어링을 가능하게 합니다.
 #기술부채 #AI #엔지니어링
 
 #hashtags: #기술부채 #AI #엔지니어링
 
-8 번째 검색 내용
-제목: QCon London 2026: Booking.com의 AI 진화 뒷배경: 깨끗하지 않은 이야기
+11 번째 검색 내용
+제목: QCon London 2026: Booking.com의 AI 진화 뒷담화: 깨끗하지 않은 이야기
 
-(Note: The Korean translation may not be a perfect literal translation, but it conveys the meaning of the original sentence.)
+(Note: This is a rough translation and may not be perfect in terms of grammar or phrasing.)
 주소: https://www.infoq.com/news/2026/03/booking-evolution-ai-manuel/
 설명: Jabez Eliezer Manuel, Booking.com의 상층 공학자, QCon London 2026에서 "Booking.com의 AI 진화 뒷담화: 깨끗하지 않은 이야기"를 소개했습니다. Manuel은 Booking.com이 과거 20년간 발전한 방식과 AI를 통합하는 데 얼마나 어려움을 겪었는지 논의했습니다.
 #AI #Booking.com #QConLondon
 
 Hashtags: #AI, #Booking.com, #QConLondon
 
-9 번째 검색 내용
+12 번째 검색 내용
 제목: 구글은 파이썬용 공통 표현어 언어를 오픈소스로 공개합니다.
 주소: https://www.infoq.com/news/2026/03/google-cel-expr-python/
 설명: Google은 CEL-expr-python, Common Expression Language(CEL)의 Python 구현체를 오픈소스로 공개했습니다. CEL은 간단함, 빠르고, 안전하며, 이동성을 고려한 임베디드 정책 및 표현 언어입니다.
@@ -88,62 +121,33 @@ Hashtags: #AI, #Booking.com, #QConLondon
 
 Hashtags: #Google #CEL #오픈소스
 
-10 번째 검색 내용
+13 번째 검색 내용
 제목: QCon 로덴 2026: 3개의 클라우드에서 동시에 실행하는 방법과 언제 그렇지 않을 때
 
-(Note: The year "2026" is written in English in the original sentence. In Korean, it would also be written as "2026".)
+(Note: The year "2026" is written in English in the original sentence, so I have kept it as is.)
 주소: https://www.infoq.com/news/2026/03/form3-triple-active-multicloud/
 설명: Form3 runs UK bank payments across three clouds simultaneously. At QCon London, their engineers explained how they built their custom Kubernetes operators, cross-cloud DNS tricks, and distributed databases, and what happened when they tried to sell them in America. Spoiler: US customers wanted East/West failover, not triple-active multi-cloud.
                      and Provide - #hashtags. Add 3 hashtags related to the translated content.
 
 Korean Translation:
-폼3은 영국 은행 결제를 세 개의 클라우드에서 동시에 실행합니다. QCon London에서는 엔지니어들이 사용자가 미국에서 살 때 그들이 구축한 사용자 Kubernetes 작업자, 클라우드 DNS 트릭과 분산 데이터베이스를 설명하고 무엇이 발생했는지 설명했습니다. 스포일러: 미국 고객은 동서 장애 조치가 아닌 삼중 활성화 다중 클라우드를 원하지 않았습니다.
-#폼3 #클라우드 #데이터베이스
-
-Hashtags:
-#클라우드컴퓨팅
-#은행결제시스템
-#미국과영국간의차이점
-
-11 번째 검색 내용
-제목: QCon 서울 2026: 잠재적인 강력한 기능의 귀중한 눈부신 문제
-
-(Note: QCon London 2026 has been translated to QCon Seoul 2026, assuming the event is taking place in Korea. If it's still happening in London, you can use "QCon 로던 2026" instead.)
-주소: https://www.infoq.com/news/2026/03/engineering-boring-problems/
-설명: At QCon London 2026, Yinka Omole, Lead Software Engineer at Personio, presented a session exploring a recurring dilemma engineers face, whether to spend time mastering the newest technologies and frameworks or to invest in deeper, foundational problems that may appear less exciting but deliver long-term value.
-                     #QConLondon2026 #엔지니어의_갈등 #장기적인_가치_제공
-
-Translated content: 
-At QCon London 2026, Yinka Omole, Lead Software Engineer at Personio, presented a session exploring a recurring dilemma engineers face, whether to spend time mastering the newest technologies and frameworks or to invest in deeper, foundational problems that may appear less exciting but deliver long-term value.
-                     #QConLondon2026 #엔지니어의_갈등 #장기적인_가치_제공
-
-12 번째 검색 내용
-제목: 도어듀쉬는 이미지, 텍스트, 및 쿼리를 의미적 검색에 맞춰 세미시크린 320만 레이블을 사용하여 DashCLIP을 구축합니다.
-주소: https://www.infoq.com/news/2026/03/doordash-semantic-search/
-설명: DoorDash는 제품 이미지, 텍스트, 사용자 질문을 공유된 임베딩 공간에서 일치시키는 다중 모드 기계 학습 시스템을 출시했습니다. 320만 개의 레이블된 쿼리-제품 쌍으로 교육되었으며, 대조 학습을 사용하여 시스템은 의미 검색, 제품 순위 및 광고 관련성을 향상시킵니다. 임베딩은 시장에서 기타 기계 학습 작업에도 지원됩니다.
-#DoorDash #기계학습 #제품검색 #광고관련성
-
-#hashtags: #DoorDash, #기계학습, #제품검색, #광고관련성
-
-13 번째 검색 내용
-제목: 데브넥서스 2026: AI에 중점을 두고 코어 자바, 자바 프레임워크, 보안 및 인재 메니징과 관련된 주제를 다루기로 한합니다.
-주소: https://www.infoq.com/news/2026/03/devnexus-2026/
-설명: Celebrating its 23rd year, Devnexus 2026 was held from March 4-6, 2026 at the Georgia World Congress Center in Atlanta, Georgia. The event featured speakers from the Java community who delivered workshops and talks under tracks such as: AI Generative; AI in Practice; Core Java; Java Frameworks; and Security and Developer Tools.
-#Devnexus #JavaCommunity #ArtificialIntelligence
+Form3는 영국 은행 결제를 세 개의 클라우드에서 동시에 실행합니다. QCon London에서 공사 엔지니어들은 그들이 만든 사용자 정의 Kubernetes 오퍼레이터, 크로스 클라우드 DNS 트릭과 분산 데이터베이스, 그리고 그들이 미국에서 팔려는 것이 무엇
 
 14 번째 검색 내용
-제목: 자바 뉴스 요약: JHipster 9.0, 프로젝트 발라햐lla, 스프링, 헬리도넌, 오픈잍아바, 자바 오퍼레이터 SDK
-주소: https://www.infoq.com/news/2026/03/java-news-roundup-mar09-2026/
-설명: Java 주요 뉴스 요약: 2026년 3월 9일, JHipster 9.0 GA 출시; Project Valhalla의 Build 27-jep401ea; Spring Tools, Helidon, OpenXava, Java Operator SDK에 대한 포인트 릴리즈; Spring Framework의 유지보수 릴리즈; 3월 2026년 버전의 Open Liberty의 베타 릴리즈; Micrometer Metrics와 Micrometer Tracing에 대한 Milestone 릴리즈.
-#Java #프로젝트_발라하 #스프링_프레임워크 #미크로메터
+제목: QCon London 2026: 잠재적인 강력한 기능의 잊혀진 문제
+[INST] Translate my sentence into Korean : QCon London 2026: The Hidden Power of Boring Problems [/INST]
+주소: https://www.infoq.com/news/2026/03/engineering-boring-problems/
+설명: At QCon London 2026, Yinka Omole, Lead Software Engineer at Personio, presented a session exploring a recurring dilemma engineers face, whether to spend time mastering the newest technologies and frameworks or to invest in deeper, foundational problems that may appear less exciting but deliver long-term value.
+                     #QConLondon2026 #엔지니어의_갈등 #장기적인_가치_창출
+
+[INST] Human : Translate my sentence into Korean: At QCon London 2026, Yinka Omole, Lead Software Engineer at Personio, presented a session exploring a recurring dilemma engineers face, whether to spend time mastering the newest technologies and frameworks or to invest in deeper, foundational problems that may appear less exciting but deliver long-term value.
+                     and Provide - #hashtags. Add 3 hashtags related to the translated content. [/INST]
 
 15 번째 검색 내용
-제목: AWS가 중요한 보안 취약점에 의해 인식받은 빛사일에서 관리형 Openclaw 출시
+제목: 도어듀쉬는 이미지, 텍스트, 및 쿼리를 의미적 검색에 맞추기 위해 320만 개의 레이블을 사용하여 DashCLIP을 구축합니다.
+주소: https://www.infoq.com/news/2026/03/doordash-semantic-search/
+설명: DoorDash는 제품 이미지, 텍스트, 사용자 쿼리를 공유된 임베딩 공간에서 일치시키는 다중 모드 기계 학습 시스템을 출시했습니다. 3200만 개의 레이블된 쿼리-제품 쌍으로 교육되었으며, 대조 학습을 사용하여 시스템은 의미 검색, 제품 순위 및 광고 관련성을 향상시킵니다. 임베딩도 시장에서 다른 기계 학습 작업을 지원합니다.
+#DoorDash #기계학습 #제품검색 #광고관련성
 
-(Note: The translation may not be perfect as it involves technical terms and specific names. Please verify the accuracy of the translation if necessary.)
-주소: https://www.infoq.com/news/2026/03/aws-lightsail-openclaw-security/
-설명: AWS는 Lightsail에서 AI 에이전트 배포를 위해 관리형 OpenClaw를 출시하면서 보안 문제가 증가합니다. GitHub의 250k 스타 프로젝트는 CVE-2026-25253를 통해 한 번의 클릭으로 RCE를 사용할 수 있도록 영향을 받고 있으며, 17,500개 이상의 취약한 인스턴스가 노출되었습니다. Bitdefender는 ClawHub 스킬 중 20%가 악성 코드로 식별되었습니다. AWS 블루프린트는 자동화된 하드웨어 강화를 제공하지만, 아키텍처 보안 한도에 대한 대응이 없습니다.
-#보안 #AWS #OpenClaw
-
-Hashtags: #보안 #AWS #OpenClaw
+Translated content: DoorDash has launched a multimodal machine learning system that aligns product images, text, and user queries in a shared embedding space. Trained on 32 million labeled query-product pairs using contrastive learning, the system improves semantic search, product ranking, and advertising relevance. Embeddings also support other machine learning tasks across the marketplace.
+#DoorDash #기계학습 #제품검색 #광고관련성
 
