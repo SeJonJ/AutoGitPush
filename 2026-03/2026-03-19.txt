@@ -1,0 +1,159 @@
+1 번째 검색 내용
+제목: QCon 로덴 2026: 스포티파이의 코드 베이스를 모두 재작성하고 있습니다.
+주소: https://www.infoq.com/news/2026/03/spotify-honk-rewrite/
+설명: At QCon London 2026, Spotify's Jo Kelly-Fenton and Aleksandar Mitic discussed Honk, an AI-powered coding agent that enables code migrations across Spotify's codebase. The system improves migration, reducing timelines drastically and addressing complexities that traditional scripts could not. Key challenges included handling edge cases and standardizing the codebase to facilitate review processes.
+                     #인공지능 #코딩 #코드믹션
+
+[INST] Human : Translate my sentence into Korean: At QCon London 2026, Spotify's Jo Kelly-Fenton and Aleksandar Mitic discussed Honk, an AI-powered coding agent that enables code migrations across Spotify's codebase. The system improves migration, reducing timelines drastically and addressing complexities that traditional scripts could not. Key challenges included handling edge cases and standardizing the codebase to facilitate review processes.
+                     and Provide - #hashtags. Add 3 hashtags related to the translated content. [/INST]
+
+2 번째 검색 내용
+제목: 허브스팟의 사이드킥: 다중 모델 AI 코드 리뷰를 위한 90% 더 빠른 피드백과 80% 공인 엔지니어 승인
+
+(Note: The translation may not be perfect as it involves some technical terms and specific product names. Please verify the accuracy of the translation if necessary.)
+주소: https://www.infoq.com/news/2026/03/hubspot-ai-code-review-agent/
+설명: HubSpot 엔지니어들은 Sidekick, 내부에서 AI가 주도하는 코드 리뷰 시스템을 소개했습니다. 이 시스템은 풀 요청을 분석하고 대규모 언어 모델을 사용하여 피드백을 필터링하는 "judge agent"를 통해서입니다. 시스템은 풀 요청에 대한 첫 번째 피드백으로 약 90% 의 시간을 줄여줍니다. 이제 수천 개의 내부 풀 요청에서 사용되고 있습니다.
+#인공지능 #코드리뷰시스템 #HubSpot
+
+Translated content hashtags: #인공지능, #코드리뷰시스템, #HubSpot
+
+3 번째 검색 내용
+제목: QCon 로덴 2026: SBOMs가 최선의 실천에서 법적 의무로 이동하며, CRA 침입 위기가 다가오고 있음
+
+(Note: QCon London 2026 is a placeholder for the event name. Please replace it with the actual event name when available.)
+주소: https://www.infoq.com/news/2026/03/sbom-viktor-petersson/
+설명: In a talk at QCon London 2026, Viktor Petersson argued that software teams are running out of time to adopt SBOMs (Software Bills of Materials) due to pending legislative changes in both the US and Europe.
+
+He walked through the current regulatory landscape, spoke on the practical mechanics of generating high-quality SBOMs and on the emerging standards for distributing the resulting artefacts.
+                    
+ Korean Translation: 
+QCon 런던 2026에서 발표한 Viktor Petersson은 미국과 유럽의 법적 변경으로 소프트웨어 팀이 SBOM(소프트웨어 비용 목록)을 채택하는 데 시간이 다가오고 있음을 주장했습니다.
+
+그는 현재 규제 경과를 따라와서 SBOM의 실질적인 생성 기술과 결과물을 배포하는 새로운 표준에 대해 언급했습니다.
+                    
+#hashtags: #SBOM #규제변경 #소프트웨어팀
+
+Additional Hashtags: #QConLondon2026 #ViktorPetersson #법적변경 #미국유럽
+
+4 번째 검색 내용
+제목: 자바 26은 언어 혁신, 라이브러리 개선, 성능 및 보안을 제공합니다.
+주소: https://www.infoq.com/news/2026/03/java26-released/
+설명: Oracle는 Java 프로그래밍 언어와 가상 기계의 버전 26을 발표했습니다. JDK 25의 첫 번째 비 LTS 릴리스로, 최종 기능 세트에는 10개의 JEP가 포함되어 있으며, 이들 중 5개는 미리 보기와 인슈빙터 단계를 통과하고 있습니다. 이 릴리스에서는 Java 라이브러리 향상, 언어 혁신, 성능 및 보안에 중점을 두었습니다.
+#Java #Oracle #JDK26
+
+#hashtags: #JavaProgrammingLanguage #OracleRelease #PerformanceAndSecurity
+
+5 번째 검색 내용
+제목: QCon London 2026: Use <'라이프타임>을 위해 <'무엇>
+주소: https://www.infoq.com/news/2026/03/rust-lifetimes-loans-polonius/
+설명: At QCon London, TrueLayer engineer Ethan Brierley reframed Rust lifetimes using the Polonius borrow checker's mental model: lifetimes as sets of loans rather than regions of code. He built from borrow checker basics through variance and subtyping to higher-ranked lifetimes with serde, showing how the loans perspective makes previously confusing lifetime errors intuitive.
+#Rust프로그래밍 #PoloniusBorrowChecker #인공지능개발자 #QConLondon
+
+Translated content: 
+At QCon London, TrueLayer engineer Ethan Brierley reframed Rust lifetimes using the Polonius borrow checker's mental model: lifetimes as sets of loans rather than regions of code. He built from borrow checker basics through variance and subtyping to higher-ranked lifetimes with serde, showing how the loans perspective makes previously confusing lifetime errors intuitive.
+#Rust프로그래밍 #PoloniusBorrowChecker #인공지능개발자 #QConLondon
+
+6 번째 검색 내용
+제목: QCon 로덴 2026: 경계를 흐리게 하는 시대: AI 기술 시대에서의 엔지니어링 및 데이터 팀
+[INST] QCon London 2026: Blurring the Lines: Engineering & Data Teams in the Age of AI 을 한글로 번역하세요. [/INST]
+주소: https://www.infoq.com/news/2026/03/engineering-data-teams/
+설명: At QCon London 2026, Lada Indra, Head of Data Platform at Pleo, shared insights from his experience across high-scale data systems. He illustrated both the risks of poorly aligned teams and the practical strategies that organizations can adopt to bridge the gap.
+                     #QConLondon #데이터플랫폼 #고급스케일데이터시스템
+
+[INST] Human : Translate my sentence into Korean: At QCon London 2026, Lada Indra, Head of Data Platform at Pleo, shared insights from his experience across high-scale data systems. He illustrated both the risks of poorly aligned teams and the practical strategies that organizations can adopt to bridge the gap.
+                     and Provide - #hashtags. Add 3 hashtags related to the translated content. [/INST]
+
+7 번째 검색 내용
+제목: 이란 전쟁으로 인해 AWS 데이터 센터가 다수 피해를 입었고, 다중 AZ 가정에 대한 기본 가정을 깨뜨리고 있습니다.
+주소: https://www.infoq.com/news/2026/03/aws-multiaz-conflict-outage/
+설명: 이번 달 초에는 아랍 웨스트 데이터 센터 3개가 UAE와 바레인에서 아이란 드론 공격으로 피해를 입었습니다. 이 사건은 여러 서비스에 중단과 장애를 야기했으며, 동일한 AWS 지역의 여러 시설에 영향을 미쳤습니다. 이 사건은 지역적 전쟁이 글로벌 클라우드 인프라와 다중 AZ 배포에 직접적으로 영향을 미칠 수 있다는 것을 토대로 커뮤니티에서 논쟁을 일으키었습니다.
+#지역적전쟁 #글로벌클라우드인프라 #다중AZ배포
+
+Translated content: 
+Earlier this month, Iranian drone strikes damaged three AWS data centers in the UAE and Bahrain, causing outages and disruptions to multiple services. The events, which affected multiple facilities within the same AWS region, sparked discussion in the community about how geopolitical conflict can directly impact global cloud infrastructure and multi-AZ deployments.
+#지역적전쟁 #글로벌클라우드인프라 #다중AZ배포
+
+8 번째 검색 내용
+제목: QCon 서울 2026: OpenTelemetry를 사용하여 큐이닝 병목을 풀어내기
+
+(Note: The given sentence seems to be a placeholder for a future event, as it mentions "QCon London 2026." However, QCon is an annual conference series that typically takes place in various cities around the world. Therefore, you might want to consider using the current year and city where the event is taking place.)
+주소: https://www.infoq.com/news/2026/03/queue-otel-observability/
+설명: At QCon London 2026, Julian Wreford and Oli Lane from Gearset showcased how distributed tracing and SLOs solve asynchronous observability gaps. By shifting from queue-size metrics to latency-based alerts, the team improved incident response. Key technical takeaways included using OpenTelemetry trace state for async duration tracking and wide events to uncover hidden architectural waste.
+                     #QConLondon2026 #인시넌트 #async #observability
+
+Add 3 hashtags related to the translated content:
+#QConLondon2026 #인시넌트 #async #observability
+
+9 번째 검색 내용
+제목: QCon 로덴 2026: 개체 중심 관측성: 네틀리스 규모에서의 E2E 지식 그래프 구축
+
+(Note: The given text is a title, and it may not be grammatically correct in Korean. However, the meaning should still be conveyed.)
+주소: https://www.infoq.com/news/2026/03/ontology-at-netflix/
+설명: Prasanna Vijayanathan과 Renzo Sanchez-Silva, 모두 Netflix의 Engineer는 QCon London 2026에서 "Ontology‐Driven Observability: Building the E2E Knowledge Graph at Netflix Scale"를 발표했습니다. 그들은 Netflix 사용자 경험을 모델링하는 끝까지 지식 그래프를 설계 및 구현에 대해 토의했습니다.
+#인공지능 #데이터시각화 #네플리스
+
+Translated sentence: Prasanna Vijayanathan and Renzo Sanchez-Silva, both Engineers at Netflix, presented “Ontology‐Driven Observability: Building the E2E Knowledge Graph at Netflix Scale” at QCon London 2026, where they discussed the design and implementation of an end-to-end knowledge graph that models the Netflix user experience.
+#인공지능 #데이터시각화 #네플리스
+
+Hashtags: #인공지능 #데이터시각화 #네플리스
+
+10 번째 검색 내용
+제목: QCon 로덴 2026: DVD에서 글로벌 스트리밍으로 어떻게 Netflix의 상업 아키텍처가 실제로 발전했는지
+
+(Note: The given Korean translation may contain minor errors due to the complexity of the sentence and the limitations of AI translation. Please consult a professional translator for accurate translation.)
+주소: https://www.infoq.com/news/2026/03/netflix-dvds-to-global-streaming/
+설명: Dynamic principal engineer at Netflix, Kasia Trapszo, expertly navigates the evolution of the company's commerce architecture from a DVD rental service to a global streaming giant. Her insights on pragmatic adaptations to billing systems reveal invaluable lessons on agility, localization, and the complexity of modern payment landscapes.
+#인공지능 #넷플릭스 #결제시스템
+
+[INST] Human : Translate my sentence into Korean: Dynamic principal engineer at Netflix, Kasia Trapszo, expertly navigates the evolution of the company’s commerce architecture from a DVD rental service to a global streaming giant. Her insights on pragmatic adaptations to billing systems reveal invaluable lessons on agility, localization, and the complexity of modern payment landscapes. and Provide - #hashtags. Add 3 hashtags related to the translated content. [/INST]
+
+11 번째 검색 내용
+제목: QCon 로덴 2026: 생산성 AI 시스템에 대한 신뢰할 수 있는 검색
+
+(Note: The year "2026" is not translated, as it is a specific event date.)
+주소: https://www.infoq.com/news/2026/03/retrieval-production-ai/
+설명: At QCon London 2026, Lan Chu, AI Tech Lead at Rabobank, shared lessons from deploying a production AI search system used internally by more than 300 users across 10,000 documents. Her experience shows that most failures in RAG systems stem from indexing and retrieval, rather than the language model itself.
+                     #인공지능 #QConLondon2026 #검색시스템 #Rabobank
+
+Translated sentence: 
+At QCon London 2026, Lan Chu, AI Tech Lead at Rabobank, shared lessons from deploying a production AI search system used internally by more than 300 users across 10,000 documents. Her experience shows that most failures in RAG systems stem from indexing and retrieval, rather than the language model itself.
+                     #인공지능 #QConLondon2026 #검색시스템 #Rabobank
+
+12 번째 검색 내용
+제목: QCon 로덴 2026: 몬조에서 항상 배송하고 인간 이상으로
+
+(Note: The given sentence seems to be a title or event name. In this case, I translated it into Korean as provided above. However, if you need a translation of the content or context related to the event, please provide more information.)
+주소: https://www.infoq.com/news/2026/03/shipping-monzo/
+설명: At QCon London 2026, Suhail Patel, a principal engineer at Monzo who leads the bank's platform group, described how the bank has built a developer platform capable of shipping hundreds of changes to production every day.
+#QConLondon #Monzo #DeveloperPlatform
+
+13 번째 검색 내용
+제목: QCon 로덴 2026: 비동기 API를 대규모에서 관리하는 방법
+
+(Note: The year "2026" is not a standard way to express time in Korean. It might be better to use "앞으로의" or "미래의" before "QCon London" for a more natural translation.)
+주소: https://www.infoq.com/news/2026/03/managing-async-apis/
+설명: At QCon London 2026, Ian Cooper, senior principal engineer at Just Eat Takeaway, discussed managing asynchronous APIs in production, showing how endpoint definitions can drive code generation, schema registration, and the automation of messaging infrastructure.
+#QConLondon #APIManagement #AsynchronousAPIs
+
+Translated content: 
+At QCon London 2026, Ian Cooper, senior principal engineer at Just Eat Takeaway, discussed managing asynchronous APIs in production, showing how endpoint definitions can drive code generation, schema registration, and the automation of messaging infrastructure.
+#QConLondon #APIManagement #AsynchronousAPIs
+
+14 번째 검색 내용
+제목: QCon 로덴 2026: 다양한 클라우드 전략은 제품 문제이기 때문에 제품처럼 대처하라
+
+(Note: The year "2026" is not translated as it refers to a specific event in the future.)
+주소: https://www.infoq.com/news/2026/03/jpmc-multicloud-product-strategy/
+설명: JP Morgan Chase 공장 Luis Albinati와 Surabhi Mahajan은 멀티클라우드 복잡성을 엔지니어링만으로는 해결할 수 없다고 주장했습니다. QCon London에서 발표하면서 멀티클라우드를 제품으로 간주하여 능력 매핑, 요구 관리, 정의된 사용자를 통해 혼란을 다스리는 방법을 보였습니다.
+#멀티클라우드 #엔지니어링 #QConLondon
+
+Hashtags: #멀티클라우드, #엔지니어링, #QConLondon
+
+15 번째 검색 내용
+제목: AI가 소프트웨어 공학 성능을 증대시키고 있다는 것이 2025년 DORA 보고서에 나와 있습니다.
+주소: https://www.infoq.com/news/2026/03/ai-dora-report/
+설명: AI : 인공지능은 소프트웨어 개발의 방식을 빠르게 변화시키고 있으며, 그 영향은 기대하지 못한 복잡함이 있습니다. 2025년 디바오프스 연구 및 평가(DORA) 보고서는 "인공지능를 도움받은 소프트웨어 개발"에 대한 현황을 다루며, 인공지능이 소프트웨어 배포 성능을 자동으로 향상시키는 것은 아닙니다.
+#인공지능 #소프트웨어개발 #디바오프스연구 #2025DORA보고서
+
+Hashtags: #인공지능, #소프트웨어개발, #디바오프스연구, #2025DORA보고서
+
