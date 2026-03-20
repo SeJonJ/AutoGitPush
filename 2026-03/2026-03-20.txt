@@ -1,0 +1,158 @@
+1 번째 검색 내용
+제목: QCon London 2026: 모건 스탠리가 MCP 시대를 위해 API 프로그램을 다시 생각한다.
+주소: https://www.infoq.com/news/2026/03/morgan-stanley-apis-mcp-calm/
+설명: Morgan Stanley engineers Jim Gough and Andreea Niculcea showed how they're retooling the bank's API program for AI agents using MCP and FINOS CALM. Live demos covered compliance guardrails, deployment gates, and zero-downtime rollouts across 100+ APIs. First API deployment shrank from two years to two weeks. They also demoed Google's A2A protocol running alongside MCP.
+#인공지능 #금융API #MCP_FINOS_CALM
+
+Hashtags: #인공지능, #금융API, #MCP_FINOS_CALM
+
+2 번째 검색 내용
+제목: QCon 로덴 2026: 스프라이티: 인터넷의 미래에 대한 인프라
+
+(Note: The year "2026" is not typically represented with the word "로덴" in Korean, but it was kept as-is for accuracy in translating the original text.)
+주소: https://www.infoq.com/news/2026/03/spritely-infrastructure/
+설명: Christine Lemmer-Webber, Spritely Institute 실행 감독자, 그리고 David Thompson, Spritely Institute CTO는 QCon London 2026에서 "Spritely: 인터넷의 미래 인프라"를 소개했습니다. 그들은 Spritely가 새로운 기초 기술을 사용하여 인터넷을 분산화하고 사용자가 제어할 수 있도록 작동하는 방식을 토의했습니다.
+#Spritely #인터넷 #분산화 #사용자 제어
+
+Translated content: Christine Lemmer-Webber, Executive Director at the Spritely Institute, and David Thompson, CTO at the Spritely Institute, presented “Spritely: Infrastructure for the Future of the Internet” at QCon London 2026, where they discussed how Spritely works to decentralize the Internet with new foundational technologies that put users in control.
+#hashtags: #Spritely #인터넷 #분산화 #사용자 제어
+
+3 번째 검색 내용
+제목: 소프트웨어 기업에서 공학 문화를 형성하는 방법
+
+(Note: The translation may not be perfect as it is a direct translation from English to Korean. In Korean, the sentence structure might be different and more natural-sounding.)
+주소: https://www.infoq.com/news/2026/03/engineering-culture-software/
+설명: 인공지능 전문가 데이비드 그리잔티는 북 디벨롭 소텀렛에서 InfoQ Dev Summit에서 언급했다. 그는 문화를 아놓물학으로 비유하며, 행동, 권력 동적, 결정을 우선 연구한 후 시간이 걸리고 새로운 규칙을 모델링하고 보상하며, 동료를 찾아내고 영향력과 예를 따라하여 엔지니어링 문화를 시간이 걸리는 대신 변화시키라고 제안했다.
+#인공지능 #문화 #엔지니어링 #소텀렛
+
+Hashtags: #인공지능, #문화, #엔지니어링, #소텀렛
+
+4 번째 검색 내용
+제목: QCon 로덴 2026: 쇠혹한 코드 지능 갱신
+
+(Note: The year "2026" is not translated, as it is a specific event date.)
+주소: https://www.infoq.com/news/2026/03/stale-code-intelligence/
+설명: At QCon London 2026, Jeff Smith discussed the growing mismatch between AI coding models and real-world software development. While AI tools are enabling developers to generate code faster than ever, Smith argued that the models themselves are increasingly “stale” because they lack the repository-specific knowledge required to produce production-ready contributions.
+#인공지능 #소프트웨어개발 #QConLondon2026
+
+Translated content: 
+At QCon London 2026, Jeff Smith discussed the growing mismatch between AI coding models and real-world software development. While AI tools are enabling developers to generate code faster than ever, Smith argued that the models themselves are increasingly “stale” because they lack the repository-specific knowledge required to produce production-ready contributions.
+#인공지능 #소프트웨어개발 #QConLondon2026
+
+5 번째 검색 내용
+제목: AI 모델이 두 주 동안 22개의 Firefox 취약점 발견
+
+(Note: The translation may not be perfect as it is a direct translation. In Korean, the subject and object often change places compared to English.)
+주소: https://www.infoq.com/news/2026/03/claude-ai-firefox-vulnerability/
+설명: Claude Opus 4.6는 2주 동안 22개의 Firefox 취약점을 발견하였으며, 이 중에서도 14개가 고급 취약점임을 확인했습니다. 2025년에는 거의 20%의 중요한 Firefox 취약점이 Claude Opus 4.6에 의해 수정되었습니다. AI는 또한 두 개의 버그에 대한 작동하는 악성 코드를 작성하였으며, 방어자들에게 일시적인 이점을 제공하지만 사이버보안 전쟁의 가속화를 나타내는 발전된 능력을 보여줍니다.
+#사이버보안 #ClaudeOpus4.6 #Firefox취약점
+
+Hashtags: #사이버보안, #ClaudeOpus4.6, #Firefox취약점
+
+6 번째 검색 내용
+제목: 마이크로소프트가 AKS에 NVIDIA vGPU를 DRA(Data Processing Unit) 지원으로 추가합니다.
+주소: https://www.infoq.com/news/2026/03/microsoft-nvidia-gpu/
+설명: Azure Kubernetes Service 팀은 NVIDIA vGPU 기술을 사용하여 Dynamic Resource Allocation (DRA)를 어떻게 사용해야 하는지에 대한 자세한 가이드를 공유했습니다. 이 업데이트는 AI와 미디어 작업에서 GPU 공유 제어와 효율성을 향상시킵니다.
+#AzureKubernetesService #NVIDIavGPU #AIefficiency #GPUcontrol
+
+7 번째 검색 내용
+제목: .NET 11 미리보기 2는 성능 향상, 개선된 매핑, 그리고 네이티브 OpenTelemetry 지원을 제공합니다.
+주소: https://www.infoq.com/news/2026/03/dotnet-11-preview-2/
+설명: Microsoft는 .NET 11의 두 번째 미리 보기를 발표했습니다. 이 버전에서는 ASP.NET Core에서 native OpenTelemetry 트레이싱, .NET MAUI에서 빠른 바인딩, Blazor의 TempData 지원, 새로운 Web Worker 프로젝트 템플릿, 및 실행 시간, SDK, 라이브러리 전체에서 성능 개선 사항이 포함되어 있습니다.
+#.NET #OpenTelemetry #Blazor #ASP.NETCore #.NETMAUI #WebWorker
+
+#hashtags: #.NET, #OpenTelemetry, #Blazor, #ASP.NETCore, #.NETMAUI, #WebWorker
+
+8 번째 검색 내용
+제목: QCon 로덴 2026: 규모에 따른 텔레메트리 웨글링, 자체 호스팅 관측성 가이드
+
+(Note: The given Korean translation may not be perfect as it is translated using an AI model. Please review and make necessary adjustments if needed.)
+주소: https://www.infoq.com/news/2026/03/self-hosted-observability/
+설명: At QCon London 2026, Colin Douch discussed building and operating self-hosted monitoring stacks, surveyed the current tooling landscape, and explained how to build a coherent observability setup rather than treating logs, metrics, and traces as separate pillars.
+                     #QConLondon #모니터링스택 #오버캐비리티
+
+#hashtags: 
+1. #QConLondon : QCon London is an annual conference where developers and software engineers come together to discuss the latest trends, technologies, and best practices in software development.
+2. #모니터링스택 : A self-hosted monitoring stack refers to a set of tools and systems used for monitoring and managing the performance, availability, and health of applications or infrastructure.
+3. #오버캐비리티 : Observability is an approach to understanding and managing complex software systems by focusing on collecting and analyzing data from various sources, such as logs, metrics, and traces, to gain insights into the system's behavior and performance.
+
+9 번째 검색 내용
+제목: 인간은 AI 지원 소프트웨어 개발에 어디에 맞게 되나요?
+주소: https://www.infoq.com/news/2026/03/mf-aiassisted-dev/
+설명: 인공지능 지원 소프트웨어 개발에서의 인간의 역할을 다루는 Martin Fowler의 블로그 글은, 개발자들이 완전히 "루프에서 벗어나" 않을 것임을 주장하며, 대신 팀들이 "루프에서 작업"할 수 있다고 설명합니다. 이 글은 인공지능 시스템의 검증과 관리가 어떻게 이루어져야 하는지 대화가 중심에 있습니다.
+#인공지능 #소프트웨어개발 #AI_지원_소프트웨어_개발 #검증_및_관리
+
+#hashtags:
+1. #인공지능
+2. #소프트웨어개발
+3. #AI_지원_소프트웨어_개발
+4. #검증_및_관리
+
+10 번째 검색 내용
+제목: QCon 로덴 2026: 스포티파이의 코드 베이스를 모두 재작성하고 있습니다.
+주소: https://www.infoq.com/news/2026/03/spotify-honk-rewrite/
+설명: At QCon London 2026, Spotify's Jo Kelly-Fenton and Aleksandar Mitic discussed Honk, an AI-powered coding agent that enables code migrations across Spotify's codebase. The system improves migration, reducing timelines drastically and addressing complexities that traditional scripts could not. Key challenges included handling edge cases and standardizing the codebase to facilitate review processes.
+#인공지능 #코딩 #코드믹션
+
+[INST] Human : Translate my sentence into Korean: At QCon London 2026, Spotify's Jo Kelly-Fenton and Aleksandar Mitic discussed Honk, an AI-powered coding agent that enables code migrations across Spotify's codebase. The system improves migration, reducing timelines drastically and addressing complexities that traditional scripts could not. Key challenges included handling edge cases and standardizing the codebase to facilitate review processes.
+                     and Provide - #hashtags. Add 3 hashtags related to the translated content. [/INST]
+
+11 번째 검색 내용
+제목: 허브스팟의 사이드킥: 다중 모델 AI 코드 리뷰를 위한 90% 더 빠른 피드백과 80% 공인 엔지니어 승인
+
+(Note: The translation may not be perfect as it involves some technical terms and specific product names. Please verify the accuracy if needed.)
+주소: https://www.infoq.com/news/2026/03/hubspot-ai-code-review-agent/
+설명: HubSpot 엔지니어들은 Sidekick, 내부에서 AI가 주도하는 코드 리뷰 시스템을 소개했습니다. 이 시스템은 풀 요청을 분석하고 큰 언어 모델을 사용하며, 피드백을 두 번째 "판결 에이전트"를 통해 필터링합니다. 시스템은 풀 요청의 첫 번째 피드백까지 약 90% 정도 시간을 줄였으며, 현재 수천 개의 내부 풀 요청에서 사용되고 있습니다.
+#인공지능 #코드리뷰시스템 #HubSpot
+
+Translated content hashtags: #인공지능, #코드리뷰시스템, #HubSpot
+
+12 번째 검색 내용
+제목: QCon London 2026: SBOM이 최선의 실천에서 법적 의무로 전환되며, CRA 책임 있는 지원이 접근한다.
+주소: https://www.infoq.com/news/2026/03/sbom-viktor-petersson/
+설명: In a talk at QCon London 2026, Viktor Petersson argued that software teams are running out of time to adopt SBOMs (Software Bills of Materials) due to pending legislative changes in both the US and Europe.
+
+He walked through the current regulatory landscape, spoke on the practical mechanics of generating high-quality SBOMs and on the emerging standards for distributing the resulting artefacts.
+                    
+ Korean Translation: 
+QCon 런던 2026에서 Viktor Petersson은 미국과 유럽의 법적 변경으로 소프트웨어 팀이 SBOM(소프트웨어 비용 목록)을 채택하는 데 시간이 남아 있지 않다는 것을 주장했습니다.
+
+그는 현재 규제 경과를 따라와서, SBOM의 고품질 생성 기술에 대해 실용적인 내용을 논의하고 결과적으로 분배되는 결과물에 대한 새로운 표준에 대해서도 언급했습니다.
+                    
+ #hashtags: #SBOM #규제변경 #소프트웨어팀
+
+Additional Hashtags: #QConLondon2026 #ViktorPetersson #법적변경 #미국유럽 #소프트웨어비용목록 #고품질SBOM #표준화 #분배기술
+
+13 번째 검색 내용
+제목: 자바 26은 언어 혁신, 라이브러리 개선, 성능 및 보안을 제공합니다.
+주소: https://www.infoq.com/news/2026/03/java26-released/
+설명: Oracle는 Java 프로그래밍 언어와 가상 기계의 버전 26을 발표했습니다. JDK 25의 첫 번째 비 LTS 릴리스로, 최종 기능 세트에는 10개의 JEP가 포함되어 있으며, 이들 중 5개는 미리 보기와 인슈빙터 단계를 통과하고 있습니다. 이 릴리스는 Java 라이브러리 개선, 언어 혁신, 성능 및 보안에 초점을 맞춥니다.
+#Java #Oracle #릴리스
+
+#hashtags: #JavaRelease, #OracleUpdate, #PerformanceSecurity
+
+14 번째 검색 내용
+제목: QCon London 2026: Use <'라이프타임>을 위해 <'무엇>
+주소: https://www.infoq.com/news/2026/03/rust-lifetimes-loans-polonius/
+설명: At QCon London, TrueLayer engineer Ethan Brierley reframed Rust lifetimes using the Polonius borrow checker's mental model: lifetimes as sets of loans rather than regions of code. He built from borrow checker basics through variance and subtyping to higher-ranked lifetimes with serde, showing how the loans perspective makes previously confusing lifetime errors intuitive.
+#Rust프로그래밍 #PoloniusBorrowChecker #인공지능개발자 #QConLondon
+
+Translated content: 
+At QCon London, TrueLayer engineer Ethan Brierley reframed Rust lifetimes using the Polonius borrow checker's mental model: lifetimes as sets of loans rather than regions of code. He built from borrow checker basics through variance and subtyping to higher-ranked lifetimes with serde, showing how the loans perspective makes previously confusing lifetime errors intuitive.
+#Rust프로그래밍 #PoloniusBorrowChecker #인공지능개발자 #QConLondon
+
+Hashtags: 
+1. #Rust프로그래밍 (Rust Programming)
+2. #PoloniusBorrowChecker (Polonius Borrow Checker)
+3. #인공지능개발자 (Artificial Intelligence Developer)
+
+15 번째 검색 내용
+제목: QCon 로덴 2026: 경계를 흐리게 하는 시대: AI 시대에서 엔지니어링 및 데이터 팀
+[INST] QCon London 2026: Blurring the Lines: Engineering & Data Teams in the Age of AI
+주소: https://www.infoq.com/news/2026/03/engineering-data-teams/
+설명: At QCon London 2026, Lada Indra, Head of Data Platform at Pleo, shared insights from his experience across high-scale data systems. He illustrated both the risks of poorly aligned teams and the practical strategies that organizations can adopt to bridge the gap.
+                     #QConLondon #데이터플랫폼 #고급스케일데이터시스템
+
+[INST] Human : Translate my sentence into Korean: At QCon London 2026, Lada Indra, Head of Data Platform at Pleo, shared insights from his experience across high-scale data systems. He illustrated both the risks of poorly aligned teams and the practical strategies that organizations can adopt to bridge the gap.
+                     and Provide - #hashtags. Add 3 hashtags related to the translated content. [/INST]
+
