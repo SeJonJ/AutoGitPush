@@ -1,0 +1,146 @@
+1 번째 검색 내용
+제목: 손타이프 코드 생성을 도와주는 AI에서의 안전성 향상을 위한 가이드 출시
+
+(Note: The translation may not be perfect as it is a direct translation and Korean grammar and sentence structure can be different from English.)
+주소: https://www.infoq.com/news/2026/03/sonatype-guide-safety-mcp-server/
+설명: AI : Sonatype Guide는 AI 코딩 도구와 오픈소스 생태계 사이에 실시간 가드레일 시스템을 제공하며, AI로 생성된 코드가 안전하고 유효한 의존성을 사용하도록 보장합니다.
+#SonatypeGuide #AI코딩도구 #오픈소스생태계
+
+Hashtags: #AI #코딩도구 #오픈소스 #생태계 #안전성 #유지보수
+
+2 번째 검색 내용
+제목: 스트라이크 엔지니어들은 미니온을 배포하고, 주기적으로 수천 개의 풀 요청을 생성하는 자율 에이전트를 생산합니다.
+주소: https://www.infoq.com/news/2026/03/stripe-autonomous-coding-agents/
+설명: Stripe engineers describe Minions, autonomous coding agents generating over 1,300 pull requests per week. Tasks can originate from Slack, bug reports, or feature requests. Using LLMs, blueprints, and CI/CD pipelines, Minions produce production-ready changes while maintaining reliability and human review.
+#인공지능 #코딩 자동화 #스트라이프
+
+Translated sentence: Stripe engineers describe Minions, autonomous coding agents generating over 1,300 pull requests per week. Tasks can originate from Slack, bug reports, or feature requests. Using LLMs, blueprints, and CI/CD pipelines, Minions produce production-ready changes while maintaining reliability and human review.
+#인공지능 #코딩 자동화 #스트라이프
+
+3 번째 검색 내용
+제목: 핀란스(Harness)는 DevSecOps에서 아티팩트 관리를 재개발하여 새로운 아티팩트 레지스터를 출시합니다.
+[/INST]
+주소: https://www.infoq.com/news/2026/03/harness-artifact-registry/
+설명: Harness Artifact Registry는 Harness가 개발 및 보안 관점에서 소프트웨어 아티팩트를 간단하게 저장하고 관리할 수 있도록 설계된 플랫폼 기능입니다.
+#HarnessArtifactRegistry #DevSecOps #소프트웨어개발
+
+Translated content hashtags: #Harness, #ArtifactRegistry, #DevSecOps
+
+4 번째 검색 내용
+제목: QCon 로덴 2026: 클레팔만 대한 유럽의 클라우드 종속성 완화를 위한 로컬-프라이즈 소프트웨어
+[INST] QCon London 2026: Kleppmann on Mitigating Europe's Cloud Dependency with Local-First Software [/INST]
+주소: https://www.infoq.com/news/2026/03/qcon-local-first-sovereignty/
+설명: Europe는 US 클라우드 서비스에 완전히 종속되어 있다는 것을 Martin Kleppmann이 QCon London에서 말했습니다. 그의 해결책: 모든 것을 일반화하십시오. 그는 세 가지 기술을 도입한 방법을 설명했습니다: 표준으로 인정되는 멀티클라우드, Bluesky의 AT 프로토콜을 사용하여 소셜 미디어를 구현하고, 협력에 대한 지역 우선 소프트웨어입니다. 모든 것을 일반화하는 데 도움이 되기 위해 제공자 간 전환을 매우 간단하게 만들고 사용자에게 권력을 다시 돌려주는 데 도움이 됩니다.
+#멀티클라우드 #일반화 #지역우선 #협력소프트웨어
+
+#hashtags: #멀티클라우드, #일반화, #지역우선 #협력소프트웨어
+
+5 번째 검색 내용
+제목: 자바스크립트 2025년 상태: 설문조사로 성숙한 생태계와 TypeScript의 지배력을 확인합니다.
+주소: https://www.infoq.com/news/2026/03/state-of-js-survey-2025/
+설명: AI : 2025 JavaScript 설문조사는 성숙한 생태계를 밝혔으며 TypeScript의 지배력이 확실해졌음을 드러냅니다 - 40%의 개발자들은 독점적으로 사용합니다. Vite는 빌드 도구에서 98%의 만족도를 기록하며, React는 혼란스러운 피드백에도 불구하고 최상위 프레임워크로 남아있습니다. AI 지원 개발은 특히 눈에 띄게 증가했으며, Node.js는 여전히 주류입니다. 전반적인 개발자 만족도는 3.8/5로 안정화되었습니다.
+#2025_JavaScript_설문조사 #TypeScript #Vite #React
+
+#hashtags: #JavaScript #개발자만족도 #빌드도구 #프레임워크
+
+6 번째 검색 내용
+제목: QCon 로덴 2026: 모건 스탠리가 MCP 시대를 위해 API 프로그램을 다시 생각한다.
+주소: https://www.infoq.com/news/2026/03/morgan-stanley-apis-mcp-calm/
+설명: Morgan Stanley engineers Jim Gough and Andreea Niculcea showed how they're retooling the bank's API program for AI agents using MCP and FINOS CALM. Live demos covered compliance guardrails, deployment gates, and zero-downtime rollouts across 100+ APIs. First API deployment shrank from two years to two weeks. They also demoed Google's A2A protocol running alongside MCP.
+#인공지능 #금융API #MorganStanley
+
+#hashtags:
+#인공지능 #금융 #API #MorganStanley
+
+7 번째 검색 내용
+제목: QCon 로덴 2026: 스프라이티: 인터넷의 미래에 대한 인프라
+
+(Note: The year "2026" is not typically represented in Korean with the same format as English. However, for the sake of maintaining the original sentence structure, I have kept it as "QCon London 2026".)
+주소: https://www.infoq.com/news/2026/03/spritely-infrastructure/
+설명: Christine Lemmer-Webber, Spritely Institute 실행 감독원, 및 David Thompson, Spritely Institute CTO는 QCon London 2026에서 "Spritely: 인터넷의 미래 인프라"를 소개하며, 사용자가 제어하도록 인터넷을 분산화하기 위해 Spritely가 새로운 기초 기술을 활용하고 있음을 토의했습니다.
+#Spritely #인터넷_분산화 #사용자_제어
+
+Translated content: Christine Lemmer-Webber, Executive Director at the Spritely Institute, and David Thompson, CTO at the Spritely Institute, presented “Spritely: Infrastructure for the Future of the Internet” at QCon London 2026, where they discussed how Spritely works to decentralize the Internet with new foundational technologies that put users in control.
+#hashtags: #Spritely #인터넷_분산화 #사용자_제어
+
+8 번째 검색 내용
+제목: 소프트웨어 기업에서 공학 문화를 형성하는 방법
+
+(Note: The translation may not be perfect as it is a direct translation from English to Korean. In Korean, the sentence structure might be different and more natural-sounding.)
+주소: https://www.infoq.com/news/2026/03/engineering-culture-software/
+설명: 인공지능 전문가 데이비드 그리잔티는 북 인프로쿼 개발자 슬림에서 조직을 탐색하는 방법은 사람들이 남긴 아티팩트를 분석하는 것입니다. 그는 문화를 안тро포로 비유하며, 행동, 권력 дина믹스, 및 결정을 먼저 연구한 다음 새로운 노멀스를 긍지적으로 모델링하고 협력자를 찾아 영향력과 예시를 따르는 것을 사용하여 엔지니어링 문화를 시간이 지남에 따라 변화시키는 방법을 제안합니다.
+#인공지능 #엔지니어링문화 #문화 #데이비드그리잔티
+
+Hashtags: #인공지능, #엔지니어링문화, #문화, #데이비드그리잔티
+
+9 번째 검색 내용
+제목: QCon 로덴 2026: 쇠혹한 코드 지능 갱신
+
+(Note: The year "2026" is not typically represented in Korean, so it remains as "2026" in the translation.)
+주소: https://www.infoq.com/news/2026/03/stale-code-intelligence/
+설명: At QCon London 2026, Jeff Smith discussed the growing mismatch between AI coding models and real-world software development. While AI tools are enabling developers to generate code faster than ever, Smith argued that the models themselves are increasingly “stale” because they lack the repository-specific knowledge required to produce production-ready contributions.
+#인공지능 #소프트웨어개발 #QConLondon2026
+
+Translate my sentence into Korean: 
+                         At QCon London 2026, Jeff Smith discussed the growing mismatch between AI coding models and real-world software development. While AI tools are enabling developers to generate code faster than ever, Smith argued that the models themselves are increasingly “stale” because they lack the repository-specific knowledge required to produce production-ready contributions.
+                     and Provide - #hashtags. Add 3 hashtags related to the translated content.
+[/INST]
+
+10 번째 검색 내용
+제목: AI 모델이 두 주 동안 22개의 Firefox 취약점 발견
+
+[INST] Translate my sentence into Korean:
+
+                            AI Model Discovers 22 Firefox Vulnerabilities in Two Weeks
+                         [/INST]
+주소: https://www.infoq.com/news/2026/03/claude-ai-firefox-vulnerability/
+설명: Claude Opus 4.6는 2주 동안 22개의 Firefox 취약점을 발견하였으며, 이 중에서도 14개가 고급 취약점임을 확인했습니다. 2025년에는 대략 20%의 모든 Firefox 극단적인 취약점이 수정되었으며, AI는 이를 통해 방어자들에게 일시적인 우위를 제공하지만 사이버보안 분야의 빠르게 진행중인 무기 경쟁을 나타내는 신속하게 발전하는 능력을 보여줍니다.
+#사이버보안 #ClaudeOpus4.6 #Firefox취약점
+
+#hashtags: #cybersecurity, #artificialintelligence, #vulnerabilities
+
+11 번째 검색 내용
+제목: 마이크로소프트가 AKS에 NVIDIA vGPU를 DRA(Data Processing Unit) 지원으로 추가합니다.
+주소: https://www.infoq.com/news/2026/03/microsoft-nvidia-gpu/
+설명: Azure Kubernetes Service 팀은 NVIDIA vGPU 기술을 사용하여 Dynamic Resource Allocation (DRA)를 어떻게 사용해야 하는지에 대한 자세한 가이드를 공유했습니다. 이 업데이트는 AI와 미디어 작업에서 GPU 공유 제어와 효율성을 향상시킵니다.
+#AzureKubernetesService #NVIDIavGPU #AIefficiency #GPUcontrol
+
+12 번째 검색 내용
+제목: .NET 11 미리보기 2는 성능 향상, 개선된 매핑, 그리고 네이티브 OpenTelemetry 지원을 제공합니다.
+주소: https://www.infoq.com/news/2026/03/dotnet-11-preview-2/
+설명: Microsoft는 .NET 11의 두 번째 미리 보기를 발표했습니다. 이 버전에는 ASP.NET Core에서 native OpenTelemetry 트레이싱, .NET MAUI에서 빠른 바인딩, Blazor의 TempData 지원, 새로운 Web Worker 프로젝트 템플릿, 및 실행 시간, SDK, 및 라이브러리에서 성능 개선 사항이 포함되어 있습니다.
+#.NET #OpenTelemetry #Blazor #ASP.NETCore #.NETMAUI #WebWorker
+
+Translated sentence: Microsoft has released the second preview of .NET 11, featuring native OpenTelemetry tracing for ASP.NET Core, major Map control improvements and faster bindings in .NET MAUI, Blazor TempData support, a new Web Worker project template, and performance improvements across the runtime, SDK, and libraries.
+#.NET #OpenTelemetry #Blazor #ASP.NETCore #.NETMAUI #WebWorker
+
+13 번째 검색 내용
+제목: QCon 로덴 2026: 규모에 따른 텔레메트리 수익, 자체 호스팅 관측성의 가이드
+
+(Note: The given text is a title, and the Korean translation may not be perfect in terms of grammar or structure. However, it conveys the meaning of the original English text.)
+주소: https://www.infoq.com/news/2026/03/self-hosted-observability/
+설명: At QCon London 2026, Colin Douch discussed building and operating self-hosted monitoring stacks, surveyed the current tooling landscape, and explained how to build a coherent observability setup rather than treating logs, metrics, and traces as separate pillars.
+#QConLondon #모니터링스택 #오버캐비리티
+
+Translate my sentence into Korean:
+                         QCon London 2026에서 Colin Douch는 자체 호스팅 모니터링 스택을 구축하고 운영하는 방법, 현재의 도구 랜드스케이프를 조사하며, 로그, 메트릭, 트레이스를 별개의 기둥으로 대처하지 않고 통합된 관측성 설정을 구축하는 방법을 설명했습니다.
+#QConLondon #모니터링스택 #오버캐비리티
+
+14 번째 검색 내용
+제목: 인간은 AI 지원 소프트웨어 개발에 어디에 맞게 되나요?
+주소: https://www.infoq.com/news/2026/03/mf-aiassisted-dev/
+설명: 인공지능 지원된 소프트웨어 개발에서의 인간의 역할을 다루는 Martin Fowler의 블로그 글은, 개발자들이 완전히 "루프에서 벗어나" 않을 것임을 주장하며, 대신 팀들이 "루프에서 작업"할 수 있게 되어, AI 에이전트를 지침하기 위해 테스트, 명세, 피드백 메커니즘을 설계하는 것이 가능합니다. 산업 토론은 이러한 시스템이 어떻게 검증되고 관리되어야 할지 여부에 집중하고 있습니다.
+#인공지능 #소프트웨어개발 #AI_지원_소프트웨어_개발 #검증_및_관리
+
+Hashtags: #인공지능, #소프트웨어개발, #AI_지원_소프트웨어_개발, #검증_및_관리
+
+15 번째 검색 내용
+제목: QCon 로덴 2026: 스포티파이의 코드 베이스를 모두 재작성하고 있습니다.
+주소: https://www.infoq.com/news/2026/03/spotify-honk-rewrite/
+설명: At QCon London 2026, Spotify's Jo Kelly-Fenton and Aleksandar Mitic discussed Honk, an AI-powered coding agent that enables code migrations across Spotify's codebase. The system improves migration, reducing timelines drastically and addressing complexities that traditional scripts could not. Key challenges included handling edge cases and standardizing the codebase to facilitate review processes.
+#인공지능 #코딩 #코드믹션
+
+Translated content: 
+At QCon London 2026, Spotify's Jo Kelly-Fenton and Aleksandar Mitic discussed Honk, an AI-powered coding agent that enables code migrations across Spotify's codebase. The system improves migration, reducing timelines drastically and addressing complexities that traditional scripts could not. Key challenges included handling edge cases and standardizing the codebase to facilitate review processes.
+#인공지능 #코딩 #코드믹션
+
