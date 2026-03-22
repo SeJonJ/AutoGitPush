@@ -1,142 +1,147 @@
 1 번째 검색 내용
-제목: QCon London 2026: Tansu.io 소개 - Kafka를 엄격한 운영을 위해 다시 생각하기
+제목: AWS 오라클 Aurora DSQL를 확장하여 플레이그라운드, 새로운 도구 통합 및 드라이버 커넥터를 추가함
 
-(Note: The given text seems to be a placeholder for the year 2026, but I have translated it as is.)
-주소: https://www.infoq.com/news/2026/03/tansu-stateless-kafka-compatible/
-설명: AI : Peter Morgan은 QCon London에서 Tansu를 소개했습니다. 이것은 Kafka와 호환되는, 상태가 없고, 리더가 없는 브로커입니다. 0으로 확장할 수 있으며, S3, SQLite, Postgres와 같은 플러그인 스토리지를 사용할 수 있습니다. 브로커 측에서 스키마 유효성 검사가 가능하고, Iceberg와 Delta Lake에 직접적으로 쓰여질 수 있습니다. Rust로 작성되어 20MB의 RAM을 사용하고 10밀리초 이내에 시작됩니다.
-#QConLondon #Tansu #RustProgramming #DistributedSystems
+(Note: The translation may not be perfect as it is a technical term. Please review and make necessary adjustments if needed.)
+주소: https://www.infoq.com/news/2026/03/aurora-dsql-playground-updates/
+설명: Amazon은 Aurora DSQL의 몇 가지 업데이트를 발표했습니다. 이는 사용성, 통합 및 개발자 도구에 초점을 맞춥니다. 이러한 개선 사항에는 브라우저에서 데이터베이스를 직접 탐색하고 실험할 수 있는 새로운 Aurora DSQL Playground가 포함됩니다. 등록 없이도, 연결 비용 없이도 개발자들에게 제공됩니다.
+#AWS #AmazonAurora #DSQL
+
+Hashtags: #AWS, #AmazonAurora, #DSQL
 
 2 번째 검색 내용
-제목: 손타이프 코드 생성을 도와주는 AI에서의 안전성 향상을 위한 가이드 출시
+제목: QCon 론도ン AI 코딩 상태 보고서: 더 능력 있어짐, 비쌈, 더 위험한 코딩 에이전트
 
-(Note: The translation may not be perfect as it is a direct translation. It would be better to have it reviewed by a native Korean speaker for accuracy.)
+(Note: The translation may not be perfect as it is a direct translation. Please check the grammar and context for accuracy.)
+주소: https://www.infoq.com/news/2026/03/ai-coding-state/
+설명: In her QCon London keynote, Birgitta Böckeler, AI-Coding lead at Thoughtworks, reflected on the changes in the AI coding space over the past year. She emphasised a shift from vibe coding to using autonomous coding agents or swarms of agents. According to her, two major concerns in the field are the worsening security landscape and the rising costs of agent-based development.
+#인공지능 #코딩 #QConLondon
+
+Translated content: 
+In her QCon London keynote, Birgitta Böckeler, AI-Coding lead at Thoughtworks, reflected on the changes in the AI coding space over the past year. She emphasised a shift from vibe coding to using autonomous coding agents or swarms of agents. According to her, two major concerns in the field are the worsening security landscape and the rising costs of agent-based development.
+#인공지능 #코딩 #QConLondon
+
+Hashtags: 
+1. #인공지능 (Artificial Intelligence)
+2. #코딩 (Coding)
+3. #QConLondon (QCon London, the event where Birgitta Böckeler gave her keynote)
+
+3 번째 검색 내용
+제목: QCon London 2026: Tansu.io 소개 - Kafka를 엄격한 운영을 위해 다시 생각하기
+
+(Note: The given sentence seems to be a title or heading for an event, and the Korean translation provided above reflects that structure.)
+주소: https://www.infoq.com/news/2026/03/tansu-stateless-kafka-compatible/
+설명: AI : Peter Morgan은 QCon London에서 Tansu를 소개했습니다. 이것은 Kafka와 호환되는, 상태가 없고, 리더가 없는 브로커입니다. 0으로 확장할 수 있으며, S3, SQLite, Postgres와 같은 플러그인 스토리지를 사용할 수 있습니다. 브로커 측에서 스키마 유효성 검사가 가능하고, Iceberg와 Delta Lake에 직접적으로 쓰여질 수 있습니다. Rust로 작성되어 20MB의 RAM을 사용하며 10밀리초 이내에 시작됩니다.
+#QConLondon #Tansu #Kafka #Rust
+#hashtags: #OpenSource #Scalability #DataProcessing
+
+4 번째 검색 내용
+제목: 손타이프 코드 생성을 도와주는 AI에서 안전성을 향상시키기 위한 가이드 출시
+
+(Note: The translation may not be perfect as it is a direct translation from English to Korean. It would be better if a native Korean speaker checks and confirms the translation.)
 주소: https://www.infoq.com/news/2026/03/sonatype-guide-safety-mcp-server/
 설명: AI : Sonatype Guide는 AI 코딩 도구와 오픈소스 생태계 사이에 실시간 가드레일 시스템을 제공하며, AI로 생성된 코드가 안전한, 유효한 및 유지보수가 가능한 의존성을 사용하는지 확인합니다.
 #오픈소스 #AI코딩도구 #가드레일시스템
 
-#hashtags:
-1. #오픈소스
-2. #AI코딩도구
-3. #가드레일시스템
+Hashtags: #오픈소스, #AI코딩도구, #가드레일시스템
 
-3 번째 검색 내용
-제목: 스트라이크 엔지니어들은 미니온을 배포하고, 주기적으로 수천 개의 풀 요청을 생성하는 자율 에이전트를 생산합니다.
+5 번째 검색 내용
+제목: 스트라이크 엔지니어들은 미니온을 배포하고, 주기적으로 수천 개의 풀 요청을 생성하는 자율 에이전트를 운영합니다.
 주소: https://www.infoq.com/news/2026/03/stripe-autonomous-coding-agents/
 설명: Stripe engineers describe Minions, autonomous coding agents generating over 1,300 pull requests per week. Tasks can originate from Slack, bug reports, or feature requests. Using LLMs, blueprints, and CI/CD pipelines, Minions produce production-ready changes while maintaining reliability and human review.
 #인공지능 #코딩 자동화 #스트라이프
 
-Translated sentence: Stripe engineers describe Minions, autonomous coding agents generating over 1,300 pull requests per week. Tasks can originate from Slack, bug reports, or feature requests. Using LLMs, blueprints, and CI/CD pipelines, Minions produce production-ready changes while maintaining reliability and human review.
+Translated content: Stripe engineers describe Minions, autonomous coding agents generating over 1,300 pull requests per week. Tasks can originate from Slack, bug reports, or feature requests. Using LLMs, blueprints, and CI/CD pipelines, Minions produce production-ready changes while maintaining reliability and human review.
 #인공지능 #코딩 자동화 #스트라이프
 
-4 번째 검색 내용
-제목: 핀스캐이 개발, 보안, 운영(DevSecOps)을 위해 새로운 아티팩트 레지스트리로 아티팩트 관리를 재상상한다.
+6 번째 검색 내용
+제목: 핀스캐이 개발, 보안, 운영(DevSecOps)을 위해 새로운 아티팩트 레지스트리로 아티팩트 관리를 재생각합니다.
 주소: https://www.infoq.com/news/2026/03/harness-artifact-registry/
 설명: Harness Artifact Registry는 Harness가 개발 및 보안 관점에서 소프트웨어 아티팩트를 간단하게 저장하고 관리할 수 있도록 설계된 플랫폼 기능입니다.
 #HarnessArtifactRegistry #DevSecOps #소프트웨어개발
 
 Translated content hashtags: #Harness, #ArtifactRegistry, #DevSecOps
 
-5 번째 검색 내용
-제목: QCon 로덴 2026: 클레팔만 대한 유럽의 클라우드 종속성을 로컬 우선 소프트웨어로 완화하기
-
-(Note: The given text seems to be a title or heading, and it is not grammatically correct in Korean. Here's an attempt to provide a more accurate translation while maintaining the original structure:)
-
-QCon London 2026: Kleppmann on Mitigating Europe's Cloud Dependency with Local-First Software
-주소: https://www.infoq.com/news/2026/03/qcon-local-first-sovereignty/
-설명: Europe는 US 클라우드 서비스에 완전히 종속되어 있다는 것을 Martin Kleppmann이 QCon London에서 말했습니다. 그의 해결책: 모든 것을 일반화하십시오. 그는 세 가지 기술을 도입한 방법을 설명했습니다: 디팩토 표준을 통해 멀티클라우드, Bluesky의 AT 프로토콜을 위한 소셜 미디어, 및 협력에 대한 지역 우선 소프트웨어, 모두 제공자를 전환하는 것이 매우 간단하게 만들고 사용자에게 권력을 다시 돌려주기 위해 설계되었습니다.
-#클라우드서비스 #일반화 #협력소프트웨어
-#지역우선 #사용자권력 #제공업체전환
-
-6 번째 검색 내용
-제목: 자바스크립트 2025년 상태: 조사에 따르면 성숙한 생태계로 변화하며 TypeScript가 지배력을 확보함
-
-(Note: The translation may not be perfect as it is a complex sentence. However, the meaning should be conveyed accurately.)
-주소: https://www.infoq.com/news/2026/03/state-of-js-survey-2025/
-설명: AI : 2025 JavaScript 설문조사는 성숙한 생태계를 밝혔으며 TypeScript의 지배력이 확실해졌음을 드러냅니다 - 40%의 개발자들은 독점적으로 사용합니다. Vite는 빌드 도구에서 98%의 만족도를 기록하며, React는 혼란스러운 피드백에도 불구하고 최상위 프레임워크로 남아있습니다. AI 지원 개발은 특히 대두합니다. Node.js는 여전히 주류를 이루고 있으며, 개발자 만족도는 3.8/5로 안정화됩니다.
-#2025_JavaScript_설문조사 #TypeScript #Vite #Node.js
-
-#hashtags: #JavaScript #AI #DeveloperSatisfaction
-
 7 번째 검색 내용
-제목: QCon 론도ン 2026: 모건 스탈리 API 프로그램을 MCP 시대에 대한 생각을 다시 고려합니다.
-주소: https://www.infoq.com/news/2026/03/morgan-stanley-apis-mcp-calm/
-설명: Morgan Stanley engineers Jim Gough and Andreea Niculcea showed how they're retooling the bank's API program for AI agents using MCP and FINOS CALM. Live demos covered compliance guardrails, deployment gates, and zero-downtime rollouts across 100+ APIs. First API deployment shrank from two years to two weeks. They also demoed Google's A2A protocol running alongside MCP.
-#인공지능 #금융API #MCP_FINOS_CALM
+제목: QCon 로덴 2026: 클레팔만 대한 유럽의 클라우드 종속성을 로컬 프로젝트 우선 순위로 완화하는 방법
 
-#hashtags: #인공지능, #금융API, #MCP_FINOS_CALM
+(Note: The given text is a title, and it may not be grammatically correct in Korean. However, the meaning should still be conveyed.)
+주소: https://www.infoq.com/news/2026/03/qcon-local-first-sovereignty/
+설명: Europe는 US 클라우드 서비스에 완전히 종속되어 있다는 것을 Martin Kleppmann이 QCon London에서 말했습니다. 그의 해결책: 모든 것을 일반화하십시오. 그는 세 가지 기술을 도입한 방법을 설명했습니다: 멀티클라우드를 통해 사실상의 표준으로 이루어졌습니다, Bluesky의 AT 프로토콜을 위한 소셜 미디어, 협력을 위한 지역 우선 소프트웨어, 모든 것을 간단하게 전환하는 것이 가능하도록 설계되었으며 사용자에게 권력을 다시 돌려주기 위해 제공됩니다.
+#멀티클라우드 #블루스키 #지역우선 #협력소프트웨어
+
+Hashtags: #멀티클라우드 #블루스키 #지역우선 #협력소프트웨어 #사용자권력 #클라우드서비스종속성 #QConLondon
 
 8 번째 검색 내용
+제목: 자바스크립트 2025년 상태: 설문조사로 성숙한 생태계와 TypeScript의 지배력을 확인합니다.
+주소: https://www.infoq.com/news/2026/03/state-of-js-survey-2025/
+설명: AI : 2025 JavaScript 설문조사는 성숙한 생태계를 밝혔으며 TypeScript의 지배력이 확실해졌습니다 - 40%의 개발자들은 독점적으로 사용합니다. Vite는 빌드 도구에서 98%의 만족도를 기록하며, React는 혼란스러운 피드백에도 불구하고 최상위 프레임워크로 남아 있습니다. AI 지원 개발은 특히 의미 있게 증가했으며, Node.js는 여전히 강력합니다. 전반적인 개발자 만족도는 3.8/5로 안정화되었습니다.
+#2025StateOfJavaScript #TypeScript #Vite #React
+
+#hashtags: #JavaScript #TypeScript #Vite #React #Nodejs #DeveloperSatisfaction
+
+9 번째 검색 내용
+제목: QCon 로덴 2026: 모건 스탠리가 MCP 시대를 위해 API 프로그램을 다시 생각한다.
+주소: https://www.infoq.com/news/2026/03/morgan-stanley-apis-mcp-calm/
+설명: Morgan Stanley engineers Jim Gough and Andreea Niculcea showed how they're retooling the bank's API program for AI agents using MCP and FINOS CALM. Live demos covered compliance guardrails, deployment gates, and zero-downtime rollouts across 100+ APIs. First API deployment shrank from two years to two weeks. They also demoed Google's A2A protocol running alongside MCP.
+#인공지능 #금융API #MorganStanley
+
+#hashtags:
+#인공지능 #금융 #API #MorganStanley
+
+10 번째 검색 내용
 제목: QCon 로덴 2026: 스프라이티: 인터넷의 미래를 위한 인프라
 
 (Note: The year "2026" is written in English in the original sentence, so I have kept it as is.)
 주소: https://www.infoq.com/news/2026/03/spritely-infrastructure/
-설명: Christine Lemmer-Webber, Spritely Institute 실행 대표장이자 David Thompson, Spritely Institute CTO는 QCon London 2026에서 "Spritely: 인터넷의 미래 인프라"를 발표하며, Spritely가 인터넷을 분산화시키기 위해 새로운 기초 기술을 도입함으로써 사용자가 제어의 주체가 되는 방식으로 작동하는 방법을 논의했습니다.
-#Spritely #인터넷_분산화 #기초_기술
+설명: Christine Lemmer-Webber, Spritely Institute 실행 대표장이자 David Thompson, Spritely Institute CTO는 QCon London 2026에서 "Spritely: 인터넷의 미래 인프라"를 소개하며, 사용자가 제어하도록 인터넷을 분산화하기 위해 Spritely가 새로운 기초 기술을 활용하고 있다는 것을 토의했습니다.
+#Spritely #인터넷 #분산화 #제어권
 
-Translated content: Christine Lemmer-Webber, executive director at the Spritely Institute, and David Thompson, CTO at the Spritely Institute, presented “Spritely: Infrastructure for the Future of the Internet” at QCon London 2026, where they discussed how Spritely works to decentralize the Internet with new foundational technologies that put users in control.
-#hashtags: #Spritely #인터넷_분산화 #기초_기술
+Hashtags: #Spritely, #인터넷, #분산화, #제어권
 
-9 번째 검색 내용
+11 번째 검색 내용
 제목: 소프트웨어 기업에서 공학 문화를 형성하는 방법
 
-(Note: The translation may not be perfect as it is a direct translation. It would be better to consult with a professional translator or someone fluent in both languages for a more accurate and natural-sounding translation.)
+(Note: The translation may not be perfect as it is a direct translation from English to Korean. The sentence structure and grammar might need adjustments for natural flow in the Korean language.)
 주소: https://www.infoq.com/news/2026/03/engineering-culture-software/
-설명: 인공지능 전문가 데이비드 그리잔티는 북 디벨푸트 InfoQ 슬림에서 말했다. 조직을 탐색하는 방법은 사람들이 남긴 아티팩트를 분석하여 찾을 수 있습니다. 문화를 어느 정도 연구한 후에는 행동, 권력 дина믹스, 결정 등을 모델링하고 새로운 규칙을 보상하며, 사이를 만들고 영향력과 예시를 따르는 것으로 엔지니어링 문화를 오래 된 시간 동안 변경할 수 있습니다.
-#인공지능 #엔지니어링문화 #문화연구 #영향력
+설명: 인공지능 전문가 데이비드 그리잔티는 북 디벨롭 소텀렛에서 InfoQ Dev Summit에서 언급했다. 그는 문화를 아놓물학으로 비유하며, 행동, 권력 дина믹스, 결정을 우선적으로 연구한 후 새로운 노멀들을 견고하게 모델링하고 상응자를 찾아 영향력과 예시를 따라하며 엔지니어링 문화를 시간이 지남에 따라 변화시키는 것을 추천했다.
+#인공지능 #문화 #엔지니어링 #소텀렛
 
-Translated sentence: You can find your way through an organization by figuring out what artifacts people leave behind, David Grizzanti mentioned at InfoQ Dev Summit Boston.  He compared culture to anthropology, suggested studying behaviors, power dynamics, and decisions first, and then patiently model and reward new norms, build allies, and use influence and leading by example, to shift engineering culture over time.
-and Provide - #hashtags. Add 3 hashtags related to the translated content.
+Hashtags: #인공지능, #문화, #엔지니어링, #소텀렛
 
-10 번째 검색 내용
-제목: QCon 로덴 2026: 쇠혹한 코드 지능 갱신
+12 번째 검색 내용
+제목: QCon 로덴 2026: 쇠빵같은 코드의 지능적인 갱신
 
-(Note: The year "2026" is not translated, as it is a specific event date.)
+(Note: The year "2026" is written in English in the original sentence, so I kept it as is. However, if you want to write it in Korean, it would be "2026년".)
 주소: https://www.infoq.com/news/2026/03/stale-code-intelligence/
 설명: At QCon London 2026, Jeff Smith discussed the growing mismatch between AI coding models and real-world software development. While AI tools are enabling developers to generate code faster than ever, Smith argued that the models themselves are increasingly “stale” because they lack the repository-specific knowledge required to produce production-ready contributions.
 #인공지능 #소프트웨어개발 #QConLondon2026
 
-[INST] Human : Translate my sentence into Korean: At QCon London 2026, Jeff Smith discussed the growing mismatch between AI coding models and real-world software development. While AI tools are enabling developers to generate code faster than ever, Smith argued that the models themselves are increasingly “stale” because they lack the repository-specific knowledge required to produce production-ready contributions.
-and Provide - #hashtags. Add 3 hashtags related to the translated content. [/INST]
+Translated content: 
+At QCon London 2026, Jeff Smith discussed the growing mismatch between AI coding models and real-world software development. While AI tools are enabling developers to generate code faster than ever, Smith argued that the models themselves are increasingly “stale” because they lack the repository-specific knowledge required to produce production-ready contributions.
+#인공지능 #소프트웨어개발 #QConLondon2026
 
-11 번째 검색 내용
+13 번째 검색 내용
 제목: AI 모델이 두 주 내에 22개의 Firefox 취약점 발견
 
-(Note: The translation may not be perfect as it is a direct translation. In Korean, the word order in sentences can be different from English.)
+(Note: The translation may not be perfect as it is a machine translation. Please review and make necessary adjustments if needed.)
 주소: https://www.infoq.com/news/2026/03/claude-ai-firefox-vulnerability/
-설명: Claude Opus 4.6는 2주 동안 22개의 Firefox 취약점을 발견하였으며, 이 중에서도 14개가 고급 취약점임을 확인했습니다. 2025년에는 대략 20%의 모든 Firefox 극단적인 취약점이 수정되었으며, AI도 2개의 버그에 대한 작동 중지를 작성하였습니다. 이는 방어자들에게 일시적인 우위를 제공하지만, 사이버보안 분야에서 가속화되는 무기 경쟁을 나타내고 있음을 밝혔습니다.
+설명: Claude Opus 4.6는 2주 동안 22개의 Firefox 취약점을 발견하였으며, 이 중에서도 14개가 고급 취약점임을 확인했습니다. 2025년에는 거의 20%의 중요한 Firefox 취약점이 Claude Opus 4.6에 의해 수정되었습니다. AI는 또한 두 개의 버그에 대한 작동하는 악성 코드를 작성하였으며, 방어자들에게 일시적인 이점을 제공하지만 사이버보안 전쟁의 빠르게 진행되고 있음을 나타내는 새로운 능력입니다.
 #사이버보안 #ClaudeOpus4.6 #Firefox취약점
 
-12 번째 검색 내용
-제목: 마이크로소프트가 AKS에 NVIDIA vGPU를 DRA(Data Processing Unit) 지원으로 추가합니다.
+14 번째 검색 내용
+제목: 마이크로소프트가 AKS에 NVIDIA vGPU를 DRA(Data Processing Unit)에서 지원하도록 추가합니다.
 주소: https://www.infoq.com/news/2026/03/microsoft-nvidia-gpu/
 설명: Azure Kubernetes Service 팀은 NVIDIA vGPU 기술을 사용하여 Dynamic Resource Allocation (DRA)를 어떻게 사용해야 하는지에 대한 자세한 가이드를 공유했습니다. 이 업데이트는 AI와 미디어 작업에서 GPU 공유 제어와 효율성을 향상시킵니다.
 #AzureKubernetesService #NVIDIavGPU #AIefficiency #GPUcontrol
 
-13 번째 검색 내용
+15 번째 검색 내용
 제목: .NET 11 미리보기 2는 성능 향상, 개선된 매핑 및 네이티브 OpenTelemetry 지원을 제공합니다.
 주소: https://www.infoq.com/news/2026/03/dotnet-11-preview-2/
-설명: Microsoft는 .NET 11의 두 번째 미리 보기를 발표했습니다. ASP.NET Core에서 native OpenTelemetry 추적, .NET MAUI에서 빠른 바인딩, Blazor TempData 지원, 새로운 Web Worker 프로젝트 템플릿, 실행 시간, SDK, 라이브러리 전체에서 성능 개선 등을 포함합니다.
-#.NET11 #OpenTelemetry #ASP.NETCore #.NETMAUI
+설명: Microsoft는 .NET 11의 두 번째 미리 보기를 발표했습니다. 이 버전에서는 ASP.NET Core용 네이티브 OpenTelemetry 트레이싱, .NET MAUI의 빠른 바인딩, Blazor TempData 지원, 새로운 Web Worker 프로젝트 템플릿, 및 실행 시간, SDK, 및 라이브러리에서 성능 개선 사항이 포함되어 있습니다.
+#.NET #OpenTelemetry #Blazor #ASP.NETCore
 
-14 번째 검색 내용
-제목: QCon 로덴 2026: 규모에 따른 텔레메트리 웨글링, 자체 호스팅 가능한 관측성 안내서
+Translated sentence: Microsoft has released the second preview of .NET 11, featuring native OpenTelemetry tracing for ASP.NET Core, major Map control improvements and faster bindings in .NET MAUI, Blazor TempData support, a new Web Worker project template, and performance improvements across the runtime, SDK, and libraries.
+#.NET #OpenTelemetry #Blazor #ASP.NETCore
 
-(Note: The given text is a title or heading. In Korean, titles and headings are usually written in all capital letters.)
-주소: https://www.infoq.com/news/2026/03/self-hosted-observability/
-설명: At QCon London 2026, Colin Douch discussed building and operating self-hosted monitoring stacks, surveyed the current tooling landscape, and explained how to build a coherent observability setup rather than treating logs, metrics, and traces as separate pillars.
-#QConLondon #모니터링스택 #오버캐비리티
-
-Translated sentence: 
-                        퀘론 런던 2026에서 Colin Douch는 자체 호스팅 모니터링 스택을 구축하고 운영하는 방법, 현재의 도구 랜드스케이프를 조사하고 로그, 메트릭, 트레이스를 별개의 기둥으로 대처하지 않고 통합된 오버캐비리티 설정을 구축하는 방법을 설명했습니다.
-#퀘론런던 #모니터링스택 #오버캐비리티
-
-Hashtags: #퀘론런던, #모니터링스택, #오버캐비리티
-
-15 번째 검색 내용
-제목: 인간은 AI 지원 소프트웨어 개발에 어디에 맞게 되나요?
-주소: https://www.infoq.com/news/2026/03/mf-aiassisted-dev/
-설명: 인공지능 지원된 소프트웨어 개발에서의 인간의 역할을 다루는 Martin Fowler의 블로그 글은, 개발자들이 완전히 "루프에서 벗어나" 않을 것임을 주장하며, 대신 팀들이 "루프에서 작업"할 수 있다고 설명합니다. 이 글은 인공지능 시스템의 검증과 관리가 어떻게 이루어져야 하는지 대화가 중심에 있습니다.
-#인공지능 #소프트웨어개발 #검증 #관리
-
-Hashtags: #인공지능, #소프트웨어개발, #검증, #관리
+Hashtags: #.NET #OpenTelemetry #Blazor #ASP.NETCore
 
