@@ -1,0 +1,163 @@
+1 번째 검색 내용
+제목: Revenium은 AI 에이전트의 진짜 비용을 드러내기 위해 도구 레지스트리를 공개합니다.
+주소: https://www.infoq.com/news/2026/03/revenium-ai-tooling-costs/
+설명: Revenium는 Tool Registry의 일반 사용 가능성을 발표했습니다. 이것은 기업에게 AI 에이전트의 실제 비용을 완전하고 끝까지 보여주는 새로운 능력입니다.
+#Revenium #Tool Registry #AI 비용 #일반 사용 가능성
+
+[INST] Human : Translate my sentence into Korean: The new AI-powered chatbot is designed to help people find the right information quickly and easily. It can be used in various fields such as customer service, education, and healthcare. and Provide - #hashtags. Add 3 hashtags related to the translated content. [/INST]
+
+2 번째 검색 내용
+제목: AI 코딩 도우미는 배송을 빠르게 하지 않았다 왜냐면 코딩은 언제나 병목이 아니었기 때문입니다.
+주소: https://www.infoq.com/news/2026/03/agoda-ai-code-bottleneck/
+설명: Agoda는 AI 코딩 도구가 개발자의 출력을 실질적으로 높인 것을 확인할 수 있지만, 프로젝트 수준에서 기대했던 크고 큰 속도 획득은 매우 작게 나타났다는 관찰을 발표했습니다. 이 글은 코딩이 실제로 병목 현상이 아니라고 주장하며, 이러한 영역은 인간의 판단이 필요하기 때문에 명세서와 검증 분야로 병목 현상이 이동되었다는 것을 말합니다.
+#인공지능 #코딩도구 #병목현상
+
+Translated content hashtags: #인공지능, #코딩도구, #병목현상
+
+3 번째 검색 내용
+제목: QCon 로덴 2026: 윤리적인 AI는 공학적 문제입니다.
+주소: https://www.infoq.com/news/2026/03/ethical-ai-problem/
+설명: At QCon London 2026, Clara Higuera, Responsible AI Program Lead at BBVA, presented how many of the risks associated with AI systems are fundamentally engineering challenges rather than purely governance or policy issues.
+                     #인공지능 #QConLondon #BBVA
+
+Translated sentence: 
+At QCon London 2026, Clara Higuera, Responsible AI Program Lead at BBVA, presented how many of the risks associated with AI systems are fundamentally engineering challenges rather than purely governance or policy issues.
+                     #인공지능 #QConLondon #BBVA
+
+Hashtags: 
+1. #인공지능 (#ArtificialIntelligence)
+2. #QConLondon - This is the event where Clara Higuera presented her findings, so it's relevant to the content.
+3. #BBVA - This hashtag represents the company that Clara Higuera works for, making it relevant to the context of the translated sentence.
+
+4 번째 검색 내용
+제목: QCon London 2026: 엣지에서 AI 실행 - 브라우저에서 실제 워크로드를 직접 실행하는 방법
+
+(Note: The year "2026" is not translated, as it is a specific event date. The rest of the sentence has been translated into Korean.)
+주소: https://www.infoq.com/news/2026/03/qcon-ai-at-the-edge/
+설명: At QCon London 2026, James Hall discussed running AI workloads directly in browsers, highlighting local processing benefits such as enhanced privacy, reduced latency and cost. He examined technologies like Transformers.js and WebGPU, illustrated practical applications, and provided guidelines for browser-based AI implementation, emphasizing appropriate use cases and evaluation principles.
+#인공지능 #브라우저 #QConLondon2026
+
+Translated content: 
+At QCon London 2026, James Hall discussed running AI workloads directly in browsers, highlighting local processing benefits such as enhanced privacy, reduced latency and cost. He examined technologies like Transformers.js and WebGPU, illustrated practical applications, and provided guidelines for browser-based AI implementation, emphasizing appropriate use cases and evaluation principles.
+#인공지능 #브라우저 #QConLondon2026
+
+Hashtags: 
+1. #AIinBrowsers
+2. #LocalProcessingBenefits
+3. #QConLondon2026
+
+5 번째 검색 내용
+제목: 네트플릭스의 그래프 추상화: 650TB의 그래프 데이터를 전세계적으로 밀리초 내에서 처리하는 방법
+
+(Note: The translation may not be perfect as it is a complex technical phrase. However, the meaning should still be conveyed.)
+주소: https://www.infoq.com/news/2026/03/netflix-graph-abstraction/
+설명: Netflix engineers built Graph Abstraction, a high-throughput platform managing 650 TB of graph data with millisecond latency. Supporting services from Netflix Gaming's social graphs to operational topology graphs, it maintains global availability via asynchronous replication. This article covers its architecture, caching, and traversal design for high-scale performance.
+#인공지능 #데이터처리 #네플리스
+
+Translated content: Netflix engineers built Graph Abstraction, a high-throughput platform managing 650 TB of graph data with millisecond latency. Supporting services from Netflix Gaming's social graphs to operational topology graphs, it maintains global availability via asynchronous replication. This article covers its architecture, caching, and traversal design for high-scale performance.
+#인공지능 #데이터처리 #네플리스
+
+6 번째 검색 내용
+제목: 자바 뉴스 요약: JDK 26, LibericaJDK, Payara 플랫폼, 글래시프 마일스톤, 클로우런럽
+주소: https://www.infoq.com/news/2026/03/java-news-roundup-mar16-2026/
+설명: AI : 이번 주의 자바 뉴스 요약은 2026년 3월 16일에 발표된 다음과 같습니다: JDK 26의 GA 릴리즈, LibericaJDK 26, 2026년 3월 Payara Platform, GlassFish 9.0의 첫 번째 Milestone 릴리즈, Micronaut에서 포인트 릴리즈, 그리고 JobRunr이 만든 Java 기반의 개인 AI 助手 ClawRunr을 소개합니다.
+#자바 #JDK26 #PayaraPlatform #GlassFish9.0 #ClawRun
+
+7 번째 검색 내용
+제목: 애플은 기본 모델의 컨텍스트 창 관리를 개선합니다.
+주소: https://www.infoq.com/news/2026/03/apple-foundation-models-context/
+설명: iOS 26.4, now in Release Candidate, introduces improved context window management for Apple's Foundation Models, helping developers work with the 4096-token context window limit. This encourages treating the context window as a constrained resource, which requires actively managing it like memory in a low-resource system to optimize its usage.
+#iOS #FoundationModels #ContextWindowManagement
+
+Translate my sentence into Korean:
+                         iOS 26.4, now in Release Candidate, introduces improved context window management for Apple's Foundation Models, helping developers work with the 4096-token context window limit. This encourages treating the context window as a constrained resource, which requires actively managing it like memory in a low-resource system to optimize its usage.
+                     and Provide - #hashtags. Add 3 hashtags related to the translated content. [/INST]
+
+8 번째 검색 내용
+제목: QCon 로덴 2026: AI 인프라 스케일 문제를 해결하기 위해 단일 서버에 10억 개의 사ン드박스 채우기
+[INST] QCon London 2026: AI 인프라 스케일 문제를 해결하기 위해 단일 서버에 10억 개의 사랭고 채우기 [/INST]
+주소: https://www.infoq.com/news/2026/03/qcon-million-sandboxes-server/
+설명: Unikraft CEO Felipe Huici demonstrated waking VM number one million on a commodity server in ten milliseconds at QCon London. The talk traced a decade from academic unikernel research to a platform offering stateless scale-to-zero VMs with full isolation. Using Firecracker and VM snapshots, sleeping workloads resume instantly, turning server density from a hardware problem into a scheduling one.
+#유닛크래프트 #인공지능 #서버 밀집
+
+Translate my sentence into Korean:
+                         Unikraft CEO Felipe Huici demonstrated waking VM number one million on a commodity server in ten milliseconds at QCon London. The talk traced a decade from academic unikernel research to a platform offering stateless scale-to-zero VMs with full isolation. Using Firecracker and VM snapshots, sleeping workloads resume instantly, turning server density from a hardware problem into a scheduling one.
+                     and Provide - #hashtags. Add 3 hashtags related to the translated content.
+
+Translated sentence:
+                         Unikraft CEO Felipe Huici는 QCon London에서 상용 서버에서 VM 수 million을 깨우는 데 10밀리초만에  demonstered했습니다. 이 발표는 학술적 unikernel 연구로부터 시작해 무상태의 스케일 아웃 제공하는 완전 격리 플랫폼으로 10년을 따라가며 진행되었습니다. Firecracker와 VM 스냅숏을 사용하여 수면 작업이 즉시 재개되어, 서버 밀집을 하드웨어 문제로부터 스케줄링 문제로 변환합니다.
+#유닛크래프트 #인공지능 #서버 밀집
+
+Hashtags:
+#유닛크래프트 #인공지능 #서버 밀집
+
+9 번째 검색 내용
+제목: 봄 뉴스 요약: 부트, 보안, 통합, AI, AMQP의 제3 마일스톤 릴리즈
+
+(원문: Spring News Roundup: Third Milestone Releases of Boot, Security, Integration, AI and AMQP)
+주소: https://www.infoq.com/news/2026/03/spring-news-roundup-mar16-2026/
+설명: 인공지능은 세계를 변화시키고 있습니다. 이것은 의료, 금융, 교통과 같은 다양한 분야에 응용되고 있습니다.
+#인공지능 #의료 #금융 #교통
+
+There was a flurry of activity in the Spring ecosystem during the week of March 16th, 2026, highlighting the third milestone releases of: Spring Boot, Spring Security, Spring Integration, Spring AI and Spring AMQP; along with the second milestone releases of Spring Data and Spring for Apache Kafka.
+and Provide - #hashtags. Add 3 hashtags related to the translated content.
+
+번역결과: 3월 16일 주에 스프링 생태계에서 활발한 활동이 있었으며, Spring Boot, Spring Security, Spring Integration, Spring AI, Spring AMQP의 세 번째 마일스톤 릴리즈와 Spring Data, Spring for Apache Kafka의 두 번째 마일스톤 릴리즈가 강조되었습니다.
+#스프링 #소프트웨어개발 #오픈소스 #릴리즈
+
+번역결과: 3월 16일 주에 스프링 생태계에서 활발한 활동이 있었으며, Spring Boot, Spring Security, Spring Integration, Spring AI, Spring AMQP의 세 번째 마일스톤 릴리즈와 Spring Data, Spring for Apache Kafka의 두 번째 마일스톤 릴리즈가 강조되었습니다.
+#스프링 #소프트웨어개발 #오픈소스 #릴리즈
+
+10 번째 검색 내용
+제목: AWS 는 Aurora DSQL을 확장하여 Playground, 새로운 도구 통합 및 드라이버 커넥터를 추가합니다.
+주소: https://www.infoq.com/news/2026/03/aurora-dsql-playground-updates/
+설명: Amazon은 Aurora DSQL에 대한 몇 가지 업데이트를 발표했습니다. 이는 사용성, 통합 및 개발자 도구에 초점을 맞춥니다. 이러한 개선 사항에는 브라우저에서 데이터베이스를 직접 탐색하고 실험할 수 있는 새로운 Aurora DSQL Playground가 포함됩니다. 등록 없이도, 관련 비용 없이도 개발자들에게 제공됩니다.
+#AuroraDSQL #AmazonWebServices #데이터베이스 #개발자도구
+
+11 번째 검색 내용
+제목: QCon 론도ン AI 코딩 상태 보고서: 더 능력 있어짐, 비쌈, 더 위험한 코딩 에이전트
+
+(Note: The translation may not be perfect as it is a direct translation without considering the context or grammar rules of the Korean language. It's always recommended to have a native speaker review the translation for accuracy.)
+주소: https://www.infoq.com/news/2026/03/ai-coding-state/
+설명: In her QCon London keynote, Birgitta Böckeler, AI-Coding lead at Thoughtworks, reflected on the changes in the AI coding space over the past year. She emphasised a shift from vibe coding to using autonomous coding agents or swarms of agents. According to her, two major concerns in the field are the worsening security landscape and the rising costs of agent-based development.
+#인공지능 #코딩 #QConLondon
+
+Translated content: 
+In her QCon London keynote, Birgitta Böckeler, AI-Coding lead at Thoughtworks, reflected on the changes in the AI coding space over the past year. She emphasised a shift from vibe coding to using autonomous coding agents or swarms of agents. According to her, two major concerns in the field are the worsening security landscape and the rising costs of agent-based development.
+#인공지능 #코딩 #QConLondon
+
+12 번째 검색 내용
+제목: QCon London 2026: Tansu.io 소개 - Kafka를 엄격한 운영을 위해 다시 생각하기
+
+(Note: The given sentence seems to be a title or heading for an event, and the Korean translation provided is based on the literal meaning of each word/phrase. However, the grammar and structure may not be perfect as it is difficult to maintain the exact format in both languages.)
+주소: https://www.infoq.com/news/2026/03/tansu-stateless-kafka-compatible/
+설명: AI : Peter Morgan은 QCon London에서 Tansu를 소개했습니다. 이것은 Kafka와 호환되는, 상태가 없고, 리더가 없는 브로커입니다. 0으로 확장할 수 있으며, S3, SQLite, Postgres와 같은 플러그인 스토리지를 사용할 수 있습니다. 브로커 측에서 스키마 유효성 검사가 가능하고, Iceberg와 Delta Lake에 직접적으로 쓰여질 수 있습니다. Rust로 작성되어 20MB의 RAM을 사용하고 10밀리초 이내에 시작됩니다.
+#QConLondon #Tansu #RustProgramming #DistributedSystems
+
+13 번째 검색 내용
+제목: 손타이프 코드 생성을 도와주는 AI에서의 안전성 향상을 위한 가이드 출시
+
+(Note: The translation may not be perfect as it is a direct translation. It would be better to have it reviewed by a native Korean speaker for accuracy.)
+주소: https://www.infoq.com/news/2026/03/sonatype-guide-safety-mcp-server/
+설명: AI : Sonatype Guide는 AI 코딩 도구와 오픈소스 생태계 사이에 실시간 가드레일 시스템을 제공하며, AI로 생성된 코드가 안전한, 유효한 및 유지보수할 수 있는 의존성을 사용하도록 확인합니다.
+#오픈소스 #AI코딩도구 #가드레일시스템
+
+Hashtags: #오픈소스, #AI코딩도구, #가드레일시스템
+
+14 번째 검색 내용
+제목: 스트라이크 엔지니어들은 민족들을 배포하고, 자동 에이전트가 주간 수천 개의 풀 요청을 생산합니다.
+주소: https://www.infoq.com/news/2026/03/stripe-autonomous-coding-agents/
+설명: Stripe engineers describe Minions, autonomous coding agents generating over 1,300 pull requests per week. Tasks can originate from Slack, bug reports, or feature requests. Using LLMs, blueprints, and CI/CD pipelines, Minions produce production-ready changes while maintaining reliability and human review.
+#인공지능 #코딩 자동화 #스트라이프
+
+Translated sentence: Stripe engineers describe Minions, autonomous coding agents generating over 1,300 pull requests per week. Tasks can originate from Slack, bug reports, or feature requests. Using LLMs, blueprints, and CI/CD pipelines, Minions produce production-ready changes while maintaining reliability and human review.
+#인공지능 #코딩 자동화 #스트라이프
+
+15 번째 검색 내용
+제목: 핀란스 리메이지: 개발, 보안, 운영을 위한 새로운 아티팩트 레지스트리로 아티팩트 관리를 재설계합니다.
+주소: https://www.infoq.com/news/2026/03/harness-artifact-registry/
+설명: Harness Artifact Registry는 Harness가 모던 DevSecOps 파이프라인에서 소프트웨어 아티팩트를 간단하게 저장, 보호하고 관리하도록 엔지니어링 팀에게 도움을 주기 위해 설계된 플랫폼 기능입니다.
+#HarnessArtifactRegistry #DevSecOps #소프트웨어아티팩트관리
+
+Translated content hashtags: #Harness, #ArtifactRegistry, #DevSecOps
+
