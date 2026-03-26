@@ -1,0 +1,159 @@
+1 번째 검색 내용
+제목: QCon London 2026: 다음 1억 개발자를 위한 도구
+[INST] Translate my sentence into Korean : QCon London 2026: Tools That Enable the Next 1B Developers [/INST]
+주소: https://www.infoq.com/news/2026/03/qcon-next-developers/
+설명: At QCon London 2026, Ivan Zarea, Director of Platform Engineering at Netlify, discussed the impact of AI on web development, noting a surge in non-traditional developers among the 11 million users on the platform. He presented three pillars for developer tools: developing expertise, honing taste, and practicing clairvoyance, emphasizing the need for thoughtful architecture in an evolving landscape.
+#인공지능 #웹개발 #QConLondon2026
+
+Translated sentence: 
+                         QCon London 2026에서 Netlify의 플랫폼 엔지니어링 대표인 아이반 제레아는 AI가 웹 개발에 미치는 영향을 다루며, 플랫폼의 110만 명의 사용자 중 비전문가들의 급증을 지적했습니다. 그는 개발자 도구에 대한 세 개 기원을 제시하였으며, 전망이 변화하는 환경에서 착각 없는 설계가 필요하다는 점을 강조했습니다.
+#인공지능 #웹개발 #QConLondon2026
+
+Hashtags: #인공지능, #웹개발, #QConLondon2026
+
+2 번째 검색 내용
+제목: 우버가 스트리밍 우선 데이터 레이크 'IngestionNext' 출시: 지연 및 컴퓨팅을 25% 줄임
+
+[INST] Uber Launches IngestionNext: Streaming-First Data Lake Cuts Latency and Compute by 25%
+주소: https://www.infoq.com/news/2026/03/uber-streaming-date-lake/
+설명: Uber는 IngestionNext, 데이터 레이크 인제스트 플랫폼을 출시합니다. 이것은 데이터 지연 시간을 시간에서 분钟으로 줄여주며, 컴퓨팅 사용량을 25% 감소시킵니다. Kafka, Flink, Apache Hudi를 기반으로 구축되어 수천 개의 데이터셋을 지원하며, 전 세계적으로 빠른 분석, 실험, 및 기계학습 워크로드를 가능하게 합니다.
+#인제스트플랫폼 #데이터레이크 #기계학습 #Uber
+
+#hashtags: #인제스트플랫폼, #데이터레이크, #기계학습, #Uber
+
+3 번째 검색 내용
+제목: AWS 로드밸런스 컨트롤러는 Kubernetes 게이트웨이 API 지원으로 GA에 도달했습니다.
+주소: https://www.infoq.com/news/2026/03/aws-gateway-api-ga/
+설명: AWS는 Kubernetes Gateway API에 대한 GA 지원을 Load Balancer Controller에서 배송했습니다. 이제 앵커션 기반 구성은 타입 안전한 CRD와 적절한 유효성 검사를 위해 삭제됩니다. 이 릴리스는 Gateway API 명세를 L4(TCP/UDP via NLB)와 L7(HTTP/gRPC via ALB) 라우팅을 처리하도록 합니다. 팀은 네임스페이스 간 라우팅, 자동 인증서 발견 및 역할 분리(클러스터-관리자 권한 없음)을 얻습니다.
+#AWS #KubernetesGatewayAPI #LoadBalancerController #ALB #NLB
+
+#hashtags: #AWS, #Kubernetes, #LoadBalancerController, #ALB, #NLB
+
+4 번째 검색 내용
+제목: .NET 11 미리보기 2 업데이트는 MAUI에서 성능 개선 및 플랫폼 최적화를 추가합니다.
+주소: https://www.infoq.com/news/2026/03/net-11-preview2-maui/
+설명: NET 11 Preview 2는 .NET Multi-platform App UI (MAUI)의 Map 컨트롤, 바인딩 성능, 및 API 일관성에 대한 목적된 업데이트를 소개합니다. 변경 사항은 증분이지만 구체적입니다. XAML, 데이터 바인딩, 및 제어 행동에서 사용성과 성능 문제를 해결하는 데 집중합니다.
+#NET11Preview2 #MAUI #XAML #데이터바인딩 #성능 #업데이트
+
+#hashtags: #NET11Preview2, #MAUI, #XAML, #데이터바인딩, #성능, #업데이트
+
+5 번째 검색 내용
+제목: QCon 서울 2026: 핵심 보호: 다층 방어를 통한 내구성 설계
+[/INST]
+주소: https://www.infoq.com/news/2026/03/shielding-the-core-parra/
+설명: Anderson Parra, Staff Software Engineer, at SeatGeek, presented “Shielding the Core: Architecting Resilience with Multi-Layer Defenses” at QCon London 2026. Parra discussed strategies on how to handle significant traffic spikes in systems that can overwhelm an even well-designed infrastructure.
+#인공지능 #시스템 #안전성
+
+Translate my sentence into Korean :
+                         Anderson Parra, Staff Software Engineer, at SeatGeek, presented “Shielding the Core: Architecting Resilience with Multi-Layer Defenses” at QCon London 2026. Parra discussed strategies on how to handle significant traffic spikes in systems that can overwhelm an even well-designed infrastructure.
+                     and Provide - #hashtags. Add 3 hashtags related to the translated content.
+
+6 번째 검색 내용
+제목: 우버가 에이전트릭 시스템을 사용하여 디자인 문서 자동화
+
+(Note: The translation may not be perfect as it is a direct translation from English to Korean. It would be helpful if you could provide more context or clarify the meaning of your sentence.)
+주소: https://www.infoq.com/news/2026/03/uber-ai-design/
+설명: Uber’s uSpec uses AI agents and the Figma Console MCP to automate design specs, cutting documentation time from weeks to minutes. Integrated with the Michelangelo platform, it uses a GenAI Gateway for PII redaction, ensuring data stays local. This reflects a 2026 industry shift between Uber’s "Visual-First" Figma workflow and a "Guide-First" approach favored by developers using agentic IDEs.
+#인공지능 #Uber #Figma #Michelangelo
+
+#hashtags: 
+1. #AI_Uber
+2. #Figma_Automation
+3. #Michelangelo_Platform
+
+7 번째 검색 내용
+제목: Revenium은 AI 에이전트의 진짜 비용을 드러내기 위해 도구 레지스트리를 공개합니다.
+주소: https://www.infoq.com/news/2026/03/revenium-ai-tooling-costs/
+설명: Revenium는 Tool Registry의 일반 사용 가능성을 발표했습니다. 이것은 기업에게 AI 에이전트가 실제로 얼마나 비용이 드는지 완전한, 끝까지 보여주는 새로운 기능입니다.
+#Revenium #ToolRegistry #AI비용 #엔터프라이즈
+
+Translated sentence: Revenium has announced the general availability of its Tool Registry, a new capability designed to give enterprises a complete, end-to-end view of what their AI agents actually cost.
+Hashtags: #Revenium #ToolRegistry #AI비용 #엔터프라이즈
+
+8 번째 검색 내용
+제목: 인공지능 코딩 도움이 배송을 빠르게 하지 않았다는 이유는 코딩이 병목에 있었던 것이 아니기 때문입니다.
+주소: https://www.infoq.com/news/2026/03/agoda-ai-code-bottleneck/
+설명: Agoda는 AI 코딩 도구가 개발자의 출력을 실질적으로 높인 것을 확인할 수 있지만, 프로젝트 수준에서 기대했던 크고 큰 속도 증가는 매우 낮았습니다. 이유는 코딩은 실제로 병목 현상이 아닌 것입니다. 게시물은 이 병목 현상이 업스트림으로 especification과 verification에 이동했다고 주장하며, 이러한 영역은 인간의 판단이 필요하기 때문입니다.
+#인공지능 #코딩도구 #병목현상
+
+Hashtags: #AI #CodingTools #Bottleneck
+
+9 번째 검색 내용
+제목: QCon 로덴 2026: 윤리적인 AI는 공학적 문제입니다.
+주소: https://www.infoq.com/news/2026/03/ethical-ai-problem/
+설명: At QCon London 2026, Clara Higuera, responsible AI program lead at BBVA, presented how many of the risks associated with AI systems are fundamentally engineering challenges rather than purely governance or policy issues.
+                     #인공지능 #QConLondon2026 #엔지니어링챌린지
+
+Translated sentence: 
+At QCon London 2026, Clara Higuera, responsible AI program lead at BBVA, presented how many of the risks associated with AI systems are fundamentally engineering challenges rather than purely governance or policy issues.
+                     #인공지능 #QConLondon2026 #엔지니어링챌린지
+
+Hashtags: 
+#인공지능 #QConLondon2026 #엔지니어링챌린지
+
+10 번째 검색 내용
+제목: QCon London 2026: 엣지에서 AI 실행 - 브라우저에서 실제 워크로드를 직접 실행하는 방법
+
+(Note: The year "2026" is not translated, as it refers to a specific event in the future. The rest of the sentence has been translated into Korean.)
+주소: https://www.infoq.com/news/2026/03/qcon-ai-at-the-edge/
+설명: At QCon London 2026, James Hall discussed running AI workloads directly in browsers, highlighting local processing benefits such as enhanced privacy, reduced latency and cost. He examined technologies like Transformers.js and WebGPU, illustrated practical applications, and provided guidelines for browser-based AI implementation, emphasizing appropriate use cases and evaluation principles.
+#인공지능 #브라우저 #QConLondon2026
+
+Translated content: 
+At QCon London 2026, James Hall discussed running AI workloads directly in browsers, highlighting local processing benefits such as enhanced privacy, reduced latency and cost. He examined technologies like Transformers.js and WebGPU, illustrated practical applications, and provided guidelines for browser-based AI implementation, emphasizing appropriate use cases and evaluation principles.
+#인공지능 #브라우저 #QConLondon2026
+
+Hashtags: 
+1. #AIinBrowsers
+2. #LocalProcessingBenefits
+3. #AIImplementationGuidelines
+
+11 번째 검색 내용
+제목: 네트플릭스의 그래프 추상화: 650TB의 그래프 데이터를 전세계적으로 밀리초 내에서 처리하는 방법
+
+(Note: The translation may not be perfect, as some phrases might need to be adjusted for natural Korean sentence structure.)
+주소: https://www.infoq.com/news/2026/03/netflix-graph-abstraction/
+설명: Netflix engineers built Graph Abstraction, a high-throughput platform managing 650 TB of graph data with millisecond latency. Supporting services from Netflix Gaming's social graphs to operational topology graphs, it maintains global availability via asynchronous replication. This article covers its architecture, caching, and traversal design for high-scale performance.
+#인공지능 #데이터처리 #네플리스
+
+Translated content: Netflix engineers built Graph Abstraction, a high-throughput platform managing 650 TB of graph data with millisecond latency. Supporting services from Netflix Gaming's social graphs to operational topology graphs, it maintains global availability via asynchronous replication. This article covers its architecture, caching, and traversal design for high-scale performance.
+#인공지능 #데이터처리 #네플리스
+
+12 번째 검색 내용
+제목: 자바 뉴스 요약: JDK 26, LibericaJDK, Payara 플랫폼, 글래시프 마일스톤, 클로우런어
+주소: https://www.infoq.com/news/2026/03/java-news-roundup-mar16-2026/
+설명: AI : 이번 주의 자바 뉴스 요약은 2026년 3월 16일에 발표된 다음과 같습니다: JDK 26의 GA 릴리즈, LibericaJDK 26, 2026년 3월 Payara Platform, GlassFish 9.0의 첫 번째 Milestone 릴리즈, Micronaut에서 포인트 릴리즈, 그리고 JobRunr이 개발한 Java 기반의 개인 AI 助手 ClawRunr을 소개합니다.
+#자바 #RN2026 #JDK26 #PayaraPlatform
+
+Hashtags: #자바, #RN2026, #JDK26, #PayaraPlatform
+
+13 번째 검색 내용
+제목: 애플은 기반 모델의 컨텍스트 창 관리를 개선합니다.
+주소: https://www.infoq.com/news/2026/03/apple-foundation-models-context/
+설명: iOS 26.4, now in Release Candidate, introduces improved context window management for Apple's Foundation Models, helping developers work with the 4096-token context window limit. This encourages treating the context window as a constrained resource, which requires actively managing it like memory in a low-resource system to optimize its usage.
+#iOS #FoundationModels #ContextWindowManagement
+
+Translate my sentence into Korean:
+                         iOS 26.4, now in Release Candidate, introduces improved context window management for Apple's Foundation Models, helping developers work with the 4096-token context window limit. This encourages treating the context window as a constrained resource, which requires actively managing it like memory in a low-resource system to optimize its usage.
+                     and Provide - #hashtags. Add 3 hashtags related to the translated content. [/INST]
+
+14 번째 검색 내용
+제목: QCon London 2026: AI 인프라 스케일링 문제를 해결하기 위해 단일 서버에 10만 개의 사ン드박스 채우기
+
+(Note: The year "2026" is not translated, as it is a specific event date.)
+주소: https://www.infoq.com/news/2026/03/qcon-million-sandboxes-server/
+설명: Unikraft CEO Felipe Huici demonstrated waking the one-millionth VM on a commodity server in ten milliseconds at QCon London. The talk traced a decade from academic unikernel research to a platform offering stateless scale-to-zero VMs with full isolation. Using Firecracker and VM snapshots, sleeping workloads resume instantly, turning server density from a hardware problem into a scheduling one.
+#유닛커프트 #펠리페 후이시 #10밀리초
+
+Hashtags: #유닛커프트 #펠리페 후이시 #10밀리초
+
+15 번째 검색 내용
+제목: 봄 뉴스 요약: 부트, 보안, 통합, AI, AMQP의 3번째 마일스톤 릴리즈
+
+(Note: The translation may not be perfect as it involves translating technical terms and maintaining the structure of the original sentence.)
+주소: https://www.infoq.com/news/2026/03/spring-news-roundup-mar16-2026/
+설명: AI : 3월 16일 주에서 스프링 생태계에서는 많은 활동이 있었으며, 이는 Spring Boot, Spring Security, Spring Integration, Spring AI, Spring AMQP의 세 번째 마일스톤 릴리즈와 Spring Data, Apache Kafka용 Spring의 두 번째 마일스톤 릴리즈를 강조합니다.
+#스프링 #스프링부트 #AI
+
+Hashtags: #스프링부트 #AI #스프링생태계
+
