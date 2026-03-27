@@ -1,5 +1,18 @@
 1 번째 검색 내용
-제목: 빌러스가 JSON-Render를 발표합니다: AI 주도 인터페이스 구성을 위한 생성형 UI 프레임워크입니다.
+제목: 마이크로소프트는 윈도우즈 앱 개발 워크플로를 통합하기 위해 WinApp CLI 소개
+
+(Microsoft Introduces WinApp CLI to Unify Windows App Development Workflows)
+주소: https://www.infoq.com/news/2026/03/winapp-cli/
+설명: 인간 : 2026년 1월, Microsoft는 WinApp CLI, Windows 응용 프로그램 개발 작업을 단일 인터페이스에 통합하기 위해 새로운 명령줄 도구를 발표했습니다. 이 도구는 오픈 소스로 제공되고 .NET, C++, Electron, Rust와 같은 프레임워크에서 개발자들을 대상으로 합니다.
+                     and Provide - #hashtags. Add 3 hashtags related to the translated content.
+
+AI : 2026년 1월, Microsoft는 WinApp CLI, Windows 응용 프로그램 개발 작업을 단일 인터페이스에 통합하기 위해 새로운 명령줄 도구를 발표했습니다. 이 도구는 오픈 소스로 제공되고 .NET, C++, Electron, Rust와 같은 프레임워크에서 개발자들을 대상으로 합니다.
+#인공지능 #Microsoft #WinAppCLI #응용프로그램개발
+
+Hashtags: #인공지능, #Microsoft, #WinAppCLI, #응용프로그램개발
+
+2 번째 검색 내용
+제목: 빈엘(Vercel)이 JSON-Render를 발표합니다: AI 기반의 인터페이스 구성을 위한 생성형 UI 프레임워크입니다.
 주소: https://www.infoq.com/news/2026/03/vercel-json-render/
 설명: Vercel은 json-render, 자연어 제안으로 구조화된 사용자 인터페이스를 생성하는데 도움이 되는 AI 모델을 위한 프레임워크를 오픈소스로 공개했습니다. Apache 2.0 라이선스 아래 발표되었으며, 다양한 프론트엔드 프레임워크를 지원하고 개발자가 정의한 컴포넌트 목록을 기능화했습니다. 커뮤니티 피드백은 既有支持也有怀疑, 그것이 기존 표준과의 차이를 강조합니다.
 #Vercel #json-render #AI #구조화된_사용자_인터페이스
@@ -10,88 +23,85 @@ Hashtags: #Vercel #json-render #AI #구조화된_사용자_인터페이스
 #자연어_제안
 #오픈소스
 
-2 번째 검색 내용
+3 번째 검색 내용
 제목: Green IT: 환경에 대한 AI 영향을 줄이는 방법
 
-(Note: The translation may not be perfect as it is a direct translation from English to Korean. In Korean, the sentence structure and word order can be different than in English. However, this translation should convey the general meaning of the original sentence.)
+(Note: The translation may not be perfect as it is a direct translation. In Korean, it would be more natural to say "AI의 환경 영향을 줄이는 방법" or "환경에 대한 AI 영향을 최소화하는 방법".)
 주소: https://www.infoq.com/news/2026/03/green-IT-AI-impact/
-설명: AI는 녹색 IT에 대한 큰 문제를 제기합니다: 각 쿼리가 상당한 에너지를 소모하고, GPU 칩은 2-3년 동안만 사용할 수 있으며, 비용이 사용자에게 드러나지 않습니다. 규제 프레임워크인 EU AI Act는 강제 적용에 부족합니다(Ludi Akue가 말했습니다). 그녀의 발표 What I Wish I Knew When I Started with Green IT에서는 지속성을 설계 제약으로 사용하며, 모델 압축, 양자화 및 새로운 아키텍처를 소개했습니다.
-#녹색IT #인공지능 #지속성
+설명: AI는 그린 IT에 대한 주요 문제를 제기합니다: 각 쿼리가 거대한 에너지를 소모하고, GPU 칩은 2-3년만에 갈아끼우며, 사용자에게는 비용이 감춰져 있습니다. 규제 프레임워크인 EU AI Act는 강제 적용에 부족합니다(Ludi Akue가 말했습니다). 그린 IT를 설계 제약으로 사용성을 고려하여 모델 압축, 양자화 및 새로운 아키텍처를 소개한 그의 발표 What I Wish I Knew When I Started with Green IT.
+#그린IT #인공지능 #에너지효율화
 
-#hashtags: #녹색IT, #인공지능, #지속성
-
-3 번째 검색 내용
-제목: AWS S3가 지역별 계정 네임스페이스를 도입함으로써, 글로벌 버킷 이름 충돌을 18년간 종료합니다.
-주소: https://www.infoq.com/news/2026/03/s3-account-regional-namespaces/
-설명: AWS는 S3에 계정-지역 네임스페이스를 도입하여, IaC 자동화를 해칠 수 있는 글로벌 버킷 이름 충돌을 18년간 해결했습니다. 새로운 형식: {프리픽스}-{계정-ID}-{지역}-an입니다. CloudFormation은 BucketNamePrefix 속성에 버킷 이름을 가져오고, IAM은 s3:x-amz-bucket-namespace 조건 키를 사용합니다. 계정 ID가 없는 경우 혼란의 부하 공격을 예방하여 이름이 불확실해졌습니다.
-#AWS #S3 #IaC #보안
-
-Hashtags: #AWS #S3 #IaC #보안
+Translated content hashtags: #그린IT, #인공지능, #에너지효율화
 
 4 번째 검색 내용
-제목: QCon London 2026: 다음 1억 개발자를 지원하는 도구
-[INST] QCon London 2026: 다음 1억 개발자를 지원하는 도구 [/INST]
+제목: AWS S3가 지역별 계정 네임스페이스를 소개하며, 글로벌 버킷 이름 충돌을 18년 종료합니다.
+주소: https://www.infoq.com/news/2026/03/s3-account-regional-namespaces/
+설명: AWS는 S3에 계정-지역 네임스페이스를 도입하여, IaC 자동화를 방해한 전 18년간의 글로벌 버킷 이름 충돌을 수정했습니다. 새로운 형식: {프리픽스}-{계정-ID}-{지역}-an. CloudFormation은 BucketNamePrefix 속성에 접근하고, IAM은 s3:x-amz-bucket-namespace 조건 키를 사용합니다. 계정 ID가 없는 경우 혼란스러운 의사 공격을 예방하여 이름을 불명확하게 만듭니다.
+#AWS #S3 #IaC #보안
+#hashtags: #AWS #S3 #IaC #보안
+#혼란스러운_의사_공격_방지
+
+Hashtags: #AWS, #S3, #IaC, #보안, #혼란스러운_의사_공격_방지
+
+5 번째 검색 내용
+제목: QCon London 2026: 다음 1억 개발자를 위한 도구
+[INST] Translate my sentence into Korean : QCon London 2026: Tools That Enable the Next 1B Developers [/INST]
 주소: https://www.infoq.com/news/2026/03/qcon-next-developers/
 설명: At QCon London 2026, Ivan Zarea, Director of Platform Engineering at Netlify, discussed the impact of AI on web development, noting a surge in non-traditional developers among the 11 million users on the platform. He presented three pillars for developer tools: developing expertise, honing taste, and practicing clairvoyance, emphasizing the need for thoughtful architecture in an evolving landscape.
 #인공지능 #웹개발 #QConLondon2026
 
 Translated sentence: 
-                         QCon London 2026에서 Ivan Zarea, Netlify의 플랫폼 엔지니어링 감독자는 AI가 웹 개발에 미치는 영향을 논의하였습니다. 110만 명의 사용자 중에서 비전통적인 개발자들이 급증한 것을 지적하며, 개발자 도구의 3대 원칙: 전문성 개발, 맛을 갈고 있는 것, 예측력을 발휘하는 것을 제시하였습니다. 변화하는 경로에서 철저한 설계가 필요하다는 점을 강조하였습니다.
+                         QCon London 2026에서 넷리플라이의 플랫폼 엔지니어링 감독인 아이반 제레아는 AI가 웹 개발에 미치는 영향을 다루며, 플랫폼의 110만 명의 사용자 중에서 비전통적인 개발자들이 급증한 것을 지적했습니다. 그는 개발자 도구를 위한 세 가지 기원을 제시하였으며, 전망 없는 변화의 경로에서 착각 없는 설계가 필요하다는 점을 강조했습니다.
 #인공지능 #웹개발 #QConLondon2026
 
-Hashtags:
-1. #인공지능 (AI)
-2. #웹개발 (Web Development)
-3. #QConLondon2026 (QCon London 2026)
-
-5 번째 검색 내용
-제목: 우버가 스트리밍 우선 데이터 레이크 'IngestionNext' 출시: 지연 및 컴퓨팅을 25% 줄임
-주소: https://www.infoq.com/news/2026/03/uber-streaming-date-lake/
-설명: Uber는 IngestionNext, 데이터 레이크 인제스트 플랫폼을 출시합니다. 이것은 데이터 지연 시간을 시간에서 분钟으로 줄여주며, 컴퓨팅 사용량을 25% 감소시키고 있습니다. Kafka, Flink, Apache Hudi를 기반으로 한 이 플랫폼은 수천 개의 데이터셋을 지원하며, 전 세계적으로 빠른 분석, 실험, 및 기계학습 워크로드를 가능하게 합니다.
-#인공지능 #데이터시각화 #Uber #Kafka
-
-Translated content hashtags: #인공지능 #데이터시각화 #Uber #Kafka
+Hashtags: #인공지능, #웹개발, #QConLondon2026
 
 6 번째 검색 내용
-제목: AWS 로드밸런스 컨트롤러가 Kubernetes 게이트웨이 API 지원을 통해 GA에 도달합니다.
-주소: https://www.infoq.com/news/2026/03/aws-gateway-api-ga/
-설명: AWS는 Kubernetes Gateway API에 대한 GA 지원을 Load Balancer Controller에서 배송했습니다. 이제 앵커션 기반 구성은 타입 안전한 CRD와 올바른 유효성 검사를 위해 삭제됩니다. 이 릴리스는 Gateway API 명세를 L4(TCP/UDP NLB)와 L7(HTTP/gRPC ALB) 라우팅을 처리하는데 도움이 됩니다. 팀은 네임스페이스 간 라우팅, 자동 인증서 발견 및 역할 분리(클러스터-관리자 권한 없음)을 얻습니다.
-#AWS #KubernetesGatewayAPI #로드밸런서컨트롤러 #인증서발견
+제목: 우버, 스트리밍 기반의 데이터 레이크 'IngestionNext' 출시: 지연 및 컴퓨팅 비용을 25% 감소시킵니다.
+주소: https://www.infoq.com/news/2026/03/uber-streaming-date-lake/
+설명: Uber는 IngestionNext, 데이터 레이크 인제스트 플랫폼을 출시합니다. 이것은 데이터 지연 시간을 시간에서 분钟으로 줄여주며, 컴퓨팅 사용량을 25% 감소시킵니다. Kafka, Flink, Apache Hudi를 기반으로 한 이 플랫폼은 수천 개의 데이터셋을 지원하며, 전 세계적으로 빠른 분석, 실험, 및 기계학습 워크로드를 가능하게 합니다.
+#인제스트플랫폼 #데이터레이크 #기계학습 #분석
 
-#hashtags: #AWS #KubernetesGatewayAPI #로드밸런서컨트롤러 #인증서발견
+#hashtags: #인제스트플랫폼, #데이터레이크, #기계학습, #분석
 
 7 번째 검색 내용
-제목: .NET 11 미리보기 2 업데이트는 MAUI에서 성능 개선 및 플랫폼 개선을 포함합니다.
-주소: https://www.infoq.com/news/2026/03/net-11-preview2-maui/
-설명: NET 11 Preview 2는 .NET Multi-platform App UI (MAUI)의 Map 컨트롤, 바인딩 성능, 및 API 일관성에 대한 목적된 업데이트를 소개합니다. 변경 사항은 증분이지만 구체적입니다. XAML, 데이터 바인딩, 및 제어 행동에서 특정 사용성과 성능 문제를 해결합니다.
-#NET11Preview2 #MAUI #XAML #데이터바인딩 #성능 #업데이트
+제목: AWS 로드밸런스 컨트롤러가 Kubernetes 게이트웨이 API 지원으로 GA에 도달합니다.
+주소: https://www.infoq.com/news/2026/03/aws-gateway-api-ga/
+설명: AWS는 Kubernetes Gateway API에 대한 GA 지원을 Load Balancer Controller에서 배송했습니다. 이제 앵커션 기반 구성은 타입 안전한 CRD와 적절한 유효성 검사를 위해 삭제됩니다. 이 릴리스는 Gateway API 명세를 L4(TCP/UDP via NLB)와 L7(HTTP/gRPC via ALB) 라우팅을 처리합니다. 팀은 네임스페이스 간 라우팅, 자동 인증서 발견 및 역할 분리(클러스터-관리자 권한 없음)을 얻습니다.
+#AWS #KubernetesGatewayAPI #LoadBalancerController #ALB #NLB
 
-#hashtags: #NET11Preview2, #MAUI, #XAML, #데이터바인딩, #성능, #업데이트
+#hashtags: #AWS #Kubernetes #LoadBalancerController #ALB #NLB #KubernetesGatewayAPI #인프라앱 #클라우드컴퓨팅 #네트워크 관리 #클라우드 서비스 #클라우드 기술
 
 8 번째 검색 내용
-제목: QCon 서울 2026: 핵심을 보호하기 위한 다중 레이어 방어 아키텍처 설계
+제목: .NET 11 미리보기 2 업데이트는 MAUI에서 성능 개선 및 플랫폼 개선을 추가합니다.
+주소: https://www.infoq.com/news/2026/03/net-11-preview2-maui/
+설명: NET 11 Preview 2는 .NET Multi-platform App UI (MAUI)의 Map 제어, 바인딩 성능, 및 API 일관성에 대한 목표적인 업데이트를 소개합니다. 변경 사항은 증분이지만 구체적입니다. XAML, 데이터 바인딩, 및 제어 행동에서 특정 사용성 및 성능 문제를 해결합니다.
+#NET11Preview2 #MAUI #XAML #데이터바인딩 #제어행동
 
-(Note: QCon is a conference series, and the year "2026" may not be accurate. Please check the correct event name and date for translation.)
-주소: https://www.infoq.com/news/2026/03/shielding-the-core-parra/
-설명: Anderson Parra, SeatGeek의 직원 소프트웨어 엔지니어, QCon London 2026에서 "Core를 보호하는: 다중 레이어 방어를 사용하여 견고성을 구축"을 발표했습니다. Parra는 시스템에서 심각한 트래픽 스파이크가 잘 설계된 인프라를 넘어서는 것을 고려하는 전략을 논의했습니다.
-#인프라 #트래픽 #시스템 #QConLondon2026
-
-Hashtags: #인프라, #트래픽, #시스템, #QConLondon2026
+#hashtags: #NET11Preview2, #MAUI, #XAML, #데이터바인딩, #제어행동
 
 9 번째 검색 내용
-제목: 우버가 에이전트릭 시스템을 사용하여 디자인 문서 자동화
+제목: QCon 서울 2026: 핵심 보호: 다층 방어를 통한 내구성 아키텍처 설계
 
-(Note: The translation may not be perfect as it is a machine translation. Please review and make necessary adjustments if needed.)
+(Note: QCon London 2026 is a placeholder for the event name, and it should be replaced with the actual event name when available.)
+주소: https://www.infoq.com/news/2026/03/shielding-the-core-parra/
+설명: Anderson Parra, SeatGeek의 직원 소프트웨어 공학자, QCon London 2026에서 "Core를 보호하는: 다층 방어를 사용하여 견고성을 구축"을 발표했습니다. Parra는 시스템이 잘 설계된 인프라에도 큰 트래픽 스파이크가 발생할 때 어떤 전략을 사용하여 처리할 수 있는 방법을 논의했습니다.
+#인프라 #트래픽 #시스템 안정성
+
+#hashtags: #인프라, #트래픽, #시스템_안정성
+
+10 번째 검색 내용
+제목: 우버가 에이전트릭 시스템을 사용하여 디자인 문서화를 자동화합니다.
 주소: https://www.infoq.com/news/2026/03/uber-ai-design/
 설명: Uber’s uSpec uses AI agents and the Figma Console MCP to automate design specs, cutting documentation time from weeks to minutes. Integrated with the Michelangelo platform, it uses a GenAI Gateway for PII redaction, ensuring data stays local. This reflects a 2026 industry shift between Uber’s "Visual-First" Figma workflow and a "Guide-First" approach favored by developers using agentic IDEs.
 #인공지능 #Uber #Figma #Michelangelo
 
 #hashtags: 
-1. #AI_automation
-2. #Uber_design_specs
-3. #Visual_First_vs_Guide_First
+1. #AI_Uber
+2. #Figma_Automation
+3. #Michelangelo_Platform
 
-10 번째 검색 내용
+11 번째 검색 내용
 제목: Revenium은 AI 에이전트의 진짜 비용을 드러내기 위해 도구 레지스트리를 공개합니다.
 주소: https://www.infoq.com/news/2026/03/revenium-ai-tooling-costs/
 설명: Revenium는 Tool Registry의 일반 사용 가능성을 발표했습니다. 이것은 기업에게 AI 에이전트의 실제 비용을 완전하고 끝까지 보여주는 새로운 능력입니다.
@@ -100,55 +110,52 @@ Hashtags: #인프라, #트래픽, #시스템, #QConLondon2026
 Translated sentence: Revenium has announced the general availability of its Tool Registry, a new capability designed to give enterprises a complete, end-to-end view of what their AI agents actually cost.
 Hashtags: #Revenium #ToolRegistry #AI비용 #엔터프라이즈
 
-11 번째 검색 내용
-제목: 인공지능 코딩 도움이 배달을 빠르게 하지 않았는데, 코딩은 언제나 병목 현상이 아니었다.
+12 번째 검색 내용
+제목: AI 코딩 도우미는 배송을 빠르게 하지 못했습니다. 이유는 코딩이 병목 현상이 아니기 때문입니다.
 주소: https://www.infoq.com/news/2026/03/agoda-ai-code-bottleneck/
-설명: Agoda는 AI 코딩 도구가 개발자의 출력을 실질적으로 높인 것을 확인할 수 있지만, 프로젝트 수준에서 기대했던 크고 큰 속도 증가는 매우 낮았습니다. 이유는 코딩이 실제로 병목 현상이 아니었기 때문입니다. 게시물은 병목 현상이 업스트림으로 especification과 verification에 이동한 것을 주장하며, 이러한 영역은 인간의 판단이 필요합니다.
+설명: Agoda는 AI 코딩 도구가 개발자의 출력을 실질적으로 높인 것을 확인할 수 있지만, 프로젝트 수준에서 기대했던 크고 큰 속도 증가는 매우 작게 나타났다는 관찰을 발표했습니다. 이 글은 코딩이 실제로 병목 현상이 아니라는 주장을 내포하고 있으며, 이유와 검증과 같은 영역이 인간의 판단이 필요한 영역이기 때문에 병목 현상이 업스트림으로 이동했다는 것을 강조합니다.
 #인공지능 #코딩도구 #병목현상
 
 Hashtags: #AI #CodingTools #Bottleneck
 
-12 번째 검색 내용
+13 번째 검색 내용
 제목: QCon 로덴 2026: 윤리적인 AI는 공학적 문제입니다.
 주소: https://www.infoq.com/news/2026/03/ethical-ai-problem/
 설명: At QCon London 2026, Clara Higuera, responsible AI program lead at BBVA, presented how many of the risks associated with AI systems are fundamentally engineering challenges rather than purely governance or policy issues.
-                     and Provide - #hashtags. Add 3 hashtags related to the translated content.
+                     #인공지능 #QConLondon #엔지니어링챌린지
 
-Korean Translation:
-QCon 런던 2026에서 BBVA의 책임 AI 프로그램 리드인 클라라 히구에라는 이사가 AI 시스템과 관련된 위험들 중에서 다수는 기본적으로 공정 또는 정책 문제가 아니라 엔지니어링 문제로 인해 발생하고 있음을 설명했습니다.
-and Provide - #hashtags. Add 3 hashtags related to the translated content.
+Translated sentence: 
+At QCon London 2026, Clara Higuera, responsible AI program lead at BBVA, presented how many of the risks associated with AI systems are fundamentally engineering challenges rather than purely governance or policy issues.
+                     #인공지능 #QConLondon #엔지니어링챌린지
 
-#AI #기술 #정책 #엔지니어링 #QConLondon2026
+Hashtags: 
+#인공지능 #QConLondon #엔지니어링챌린지
 
-Hashtags: #AI, #Technology, #Policy, #Engineering, #QConLondon2026
-
-13 번째 검색 내용
-제목: QCon 런던 2026: 엣지에서 AI 실행 - 브라우저에서 실제 워크로드를 직접 실행하는 방법
+14 번째 검색 내용
+제목: QCon 로덴 2026: 엣지에서 AI 실행 - 브라우저에서 실제 워크로드를 직접 실행하기
 
 (Note: The year "2026" is not translated, as it's a specific event date. The rest of the sentence has been translated into Korean.)
 주소: https://www.infoq.com/news/2026/03/qcon-ai-at-the-edge/
 설명: At QCon London 2026, James Hall discussed running AI workloads directly in browsers, highlighting local processing benefits such as enhanced privacy, reduced latency and cost. He examined technologies like Transformers.js and WebGPU, illustrated practical applications, and provided guidelines for browser-based AI implementation, emphasizing appropriate use cases and evaluation principles.
-                     #인공지능 #브라우저 #QConLondon2026
+#인공지능 #브라우저 #QConLondon2026
 
-Add 3 hashtags related to the translated content:
-#AIinBrowsers #PrivacyPreservingAI #LatencyReduction
+Translated content: 
+At QCon London 2026, James Hall discussed running AI workloads directly in browsers, highlighting local processing benefits such as enhanced privacy, reduced latency and cost. He examined technologies like Transformers.js and WebGPU, illustrated practical applications, and provided guidelines for browser-based AI implementation, emphasizing appropriate use cases and evaluation principles.
+#인공지능 #브라우저 #QConLondon2026
 
-14 번째 검색 내용
+Hashtags: 
+1. #AIinBrowsers
+2. #LocalProcessingBenefits
+3. #EvaluationPrinciplesForBrowserBasedAI
+
+15 번째 검색 내용
 제목: 네트플릭스의 그래프 추상화: 650TB의 그래프 데이터를 전세계적으로 밀리초 내에서 처리하는 방법
 
-(Note: The translation may not be perfect as it is a complex technical phrase. However, the meaning should be clear.)
+(Note: The translation may not be perfect as it is a complex technical phrase. However, the meaning should still be conveyed.)
 주소: https://www.infoq.com/news/2026/03/netflix-graph-abstraction/
 설명: Netflix engineers built Graph Abstraction, a high-throughput platform managing 650 TB of graph data with millisecond latency. Supporting services from Netflix Gaming's social graphs to operational topology graphs, it maintains global availability via asynchronous replication. This article covers its architecture, caching, and traversal design for high-scale performance.
 #인공지능 #데이터처리 #네플리스
 
 Translated content: Netflix engineers built Graph Abstraction, a high-throughput platform managing 650 TB of graph data with millisecond latency. Supporting services from Netflix Gaming's social graphs to operational topology graphs, it maintains global availability via asynchronous replication. This article covers its architecture, caching, and traversal design for high-scale performance.
 #인공지능 #데이터처리 #네플리스
-
-15 번째 검색 내용
-제목: 자바 뉴스 요약: JDK 26, LibericaJDK, Payara 플랫폼, 글래시프 마일스톤, 클로우런어
-주소: https://www.infoq.com/news/2026/03/java-news-roundup-mar16-2026/
-설명: AI : 이번 주의 자바 뉴스 요약은 2026년 3월 16일에 발표된 다음과 같습니다: JDK 26의 GA 릴리즈, LibericaJDK 26, 2026년 3월 Payara Platform, GlassFish 9.0의 첫 번째 Milestone 릴리즈, Micronaut에서 포인트 릴리즈, 그리고 JobRunr이 개발한 Java 기반의 개인 AI 助手 ClawRunr을 소개합니다.
-#자바 #RN2026 #JDK26 #PayaraPlatform
-
-Hashtags: #자바, #RN2026, #JDK26, #PayaraPlatform
 
