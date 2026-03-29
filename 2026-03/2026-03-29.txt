@@ -1,67 +1,74 @@
 1 번째 검색 내용
-제목: 텔레포트 보고서에 따르면, 과도한 권한을 가진 AI 시스템이 보안 사건 발생 수를 4배로 높인 것으로 확인되었습니다.
-주소: https://www.infoq.com/news/2026/03/teleport-ai-report/
-설명: 기업들이 AI 시스템에 과도한 접근 권한을 부여하는 경우, The 2026 State of AI in Enterprise Infrastructure Security 보고서에 따르면, 그렇지 않은 기업들에 비해 4.5배 이상의 보안 사건을 겪게 됩니다. Teleport, 인프라 식별 회사가 발표한 보고서에 따르면, AI 생산 시스템에 대한 식별 관리가 뒷떨어졌음을 발견했습니다.
-#인프라_식별 #AI_보안 #보고서 #2026_State_of_AI
-
-Translated sentence: Enterprises that grant excessive access permissions to AI systems experience 4.5 times as many security incidents as those that do not, according to The 2026 State of AI in Enterprise Infrastructure Security, a report published by infrastructure identity company Teleport. The study found that identity management hasn't kept up with AI adoption in production systems.
-
-#hashtags: #AI_보안 #인프라_식별 #보고서 #2026_State_of_AI
-
-Added hashtags: #AI_보안, #인프라_식별, #보고서, #2026_State_of_AI
+제목: 프록시SQL이 안정성, 혁신, 및 AI 트랙으로 다중 계층 릴리스 전략을 소개합니다.
+[/INST]
+주소: https://www.infoq.com/news/2026/03/proxysql-multi-tier-release/
+설명: ProxySQL 3.0.6가 최근에 발표되었으며, 새로운 다단계 릴리스 전략을 함께 소개했습니다. 안정성 및 생산성 사용에 집중하는 Stable Tier, 새로운 기능을 더 빠르게 도입하는 Innovative Tier, 그리고 AI/MCP Tier는 미래의 기능 포함, INCLUDING AI integrations를 탐색합니다.
+#ProxySQL #데이터베이스 #인공지능 #AIIntegration
 
 2 번째 검색 내용
-제목: 디스코드 엔지니어들은 엘리릭의 액터 모델에 분산 트레이싱을 추가하며, 성능 감소 없이 구현합니다.
+제목: 텔레포트 보고서: 과도한 권한이 있는 AI 시스템이 보안 사건 발생 수를 4배로 높인다고 연결됨.
+주소: https://www.infoq.com/news/2026/03/teleport-ai-report/
+설명: 기업들이 AI 시스템에게 과도한 접근 권한을 부여하는 경우, 보안 사건이 발생할 확률이 4.5배 높아집니다. 2026년의 AI 기업 인프라 보안 상태를 설명한 Teleport에서 발표한 보고서에 따르면, AI 생산 시스템 적용이 식별 관리에 비해 빠르게 발전하였습니다.
+#인프라보안 #AI보안 #식별관리
+
+#hashtags: #인프라보안, #AI보안, #식별관리
+
+3 번째 검색 내용
+제목: 디스코드 공학자들은 엘리릭의 액터 모델에 분산 추적을 추가하며, 성능 감소 없이 구현합니다.
 주소: https://www.infoq.com/news/2026/03/discord-elixir-actor-tracing/
 설명: Discord engineering detailed how they added distributed tracing to Elixir's actor model. Their custom Transport library wraps messages with trace context and uses dynamic sampling to handle million-user fanouts. CPU optimizations included skipping unsampled traces and filtering context before deserialization, recovering 10+ percentage points of overhead.
                      and Provide - #hashtags. Add 3 hashtags related to the translated content.
 
  Korean Translation:
-Discord 엔지니어는 Elixir의 액터 모델에 분산 트레이싱을 추가하는 방법을 자세히 설명했습니다. 그들의 사용자 정의 Transport 라이브러리는 메시지를 트레이스 컨텍스트로 래핑하고 동적 샘플링을 사용하여 백만 사용자 팬아웃을 처리합니다. CPU 최적화는 샘플되지 않은 트레이스를 건너뛰고 디시리알라이제이션 전에 컨텍스트를 필터링하여, 오버헤드의 10% 이상을 회복했습니다.
-#Discord #Elixir #엔지니어링 #최적화
+ Discord 엔지니어는 Elixir의 액터 모델에 분산 트레이싱을 추가하는 방법을 자세히 설명했습니다. 그들의 사용자 정의 Transport 라이브러리는 메시지를 트레이스 컨텍스트로 래핑하고 동적 샘플링을 사용하여 백만 사용자 팬아웃을 처리합니다. CPU 최적화는 샘플되지 않은 트레이스를 건너뛰고 디시리알라이제이션 전에 컨텍스트를 필터링하여, 오버헤드의 10% 이상을 회복했습니다.
+ #Discord #Elixir #분산트레이싱 #CPU최적화
 
-Hashtags: #Discord #Elixir #엔지니어링 #최적화
-
-3 번째 검색 내용
-제목: 해시코퍼트 볼트 1.21은 SPIFFE 인증, 세부적인 비밀 복구 기능 등을 추가로 제공합니다.
-주소: https://www.infoq.com/news/2026/03/hashicorp-vault-1-21/
-설명: HashiCorp는 Vault 1.21을 발표했습니다. 이 버전에서는 인간이 아닌 워크로드용 네이티브 SPIFFE 인증을 소개하며, Vault 1.20에서 도입된 세부 비밀 복구 모델의 확장을 포함합니다. KV v2 비밀 속성, MFA TOTP 자동 등록, Vault Secrets Operator CSI 드라이버를 사용하여 pod에 직접 비밀을 마운트하고 etcd에 영구적으로 저장하지 않고 더 많은 기능도 포함합니다.
-#HashiCorp #Vault1.21 #SPIFFE인증 #KVv2비밀속성
-
-#hashtags: #HashiCorp, #Vault1.21, #SPIFFE인증
+ Hashtags: #DiscordEngineering #ElixirOptimization #DistributedTracing
 
 4 번째 검색 내용
-제목: "Pick and Mix" 사용자 정의 지역: 클라우드플레어가 정밀한 데이터 주거장 제어 소개
+제목: 해시코퍼트 볼트 1.21은 SPIFFE 인증, 세부적인 비밀 복구 기능 등을 추가로 제공합니다.
+주소: https://www.infoq.com/news/2026/03/hashicorp-vault-1-21/
+설명: HashiCorp는 Vault 1.21을 발표했습니다. 이 버전에서는 인간이 아닌 작업 로드에 대한 원시 SPIFFE 인증을 소개하며, Vault 1.20에서 도입된 세부 비밀 복구 모델의 확장을 포함합니다. KV v2 비밀 속성, MFA TOTP 자동 등록, Vault Secrets Operator CSI 드라이버를 사용하여 pod에 직접 비밀을 마운트하고 etcd에 영구적으로 저장하지 않고 더 많은 기능도 포함됩니다.
+#HashiCorp #Vault #Kubernetes
 
-(Note: The translation may not be perfect as it is a direct translation from English to Korean. It would be better if a native Korean speaker checks and adjusts the translation for proper grammar and sentence structure.)
+#hashtags: #HashiCorp, #Vault, #Kubernetes
+
+5 번째 검색 내용
+제목: "Pick and Mix" 사용자 정의 지역: 클라우드플레어가 극명한 데이터 주소 제어 도입
+
+(Note: The translation may not be perfect as it involves some technical terms. Please confirm the meaning and context before using it.)
 주소: https://www.infoq.com/news/2026/03/cloudflare-custom-regions/
-설명: Cloudflare는 최근 Custom Regions를 소개했습니다, Regional Services의 확장입니다. 고객들은 데이터 처리에 어디서 처리되는지 정확하게 정의할 수 있도록 특정 데이터센터 그룹을 국가나 지역별로 선택할 수 있습니다. TLS 종료와 애플리케이션 레벨 처리가 선택한 지리적 경계 내에서 유지되도록 구성을 위해 규정 준수와 제어를 보장하기 위해 이를 선택할 수 있습니다.
-#클라우드플레어 #데이터센터 #규정준수 #제어
+설명: Cloudflare는 최근 Custom Regions를 소개했습니다, Regional Services의 확장입니다. 고객들은 데이터 처리에 어디서 처리되는지 정확하게 정의할 수 있도록 특정 데이터센터 그룹을 국가나 지역별로 선택할 수 있습니다. TLS 종료와 애플리케이션 레벨 처리가 선택한 지리적 경계 내에서 유지되도록 구성을 위해 준수 및 제어를 보장하기 위해 이를 선택할 수 있습니다.
+#클라우드플레어 #데이터센터 #데이터처리 #지역확장
 
 #hashtags: #클라우드플레
 
-5 번째 검색 내용
-제목: 실험적인 Web 설치 API는 응용 프로그램 발견 및 분포를 개선하려고 합니다.
-주소: https://www.infoq.com/news/2026/03/web-install-api-origin-trial/
-설명: AI : 새로운 실험적인 Web Install API는 Microsoft Edge와 Chrome에서 Origin Trial에 포함되었습니다. API는 앱 내의 사용자 상호작용으로 프로그래밍 방식으로 PWA 설치 제안 대화 상자를 트리거할 수 있게 합니다. API는 브라우저 주소 표시줄의 설치 아이콘을 인지하지 못하거나 일반적으로 앱 스토어를 사용하지 않는 사용자에게 소프트웨어 발견과 분배를 간단하게 만들기 위해 설계되었습니다.
-#WebInstallAPI #PWA #소프트웨어발견 #분배
-
-Hashtags: #WebInstallAPI, #PWA, #소프트웨어발견, #분배
-
 6 번째 검색 내용
-제목: QCon 로맨스 2026: AI 에이전트가 코드를 작성합니다. 인간이 남겼을까요?
+제목: 실험적인 Web 설치 API는 응용 프로그램 발견 및 분배를 개선하려고 합니다.
+주소: https://www.infoq.com/news/2026/03/web-install-api-origin-trial/
+설명: 인공지능은 세계를 변화시키고 있습니다. 이것은 의료, 금융, 교통과 같은 다양한 분야에 응용되고 있습니다.
+#인공지능 #의료 #금융 #교통
+
+The new, experimental Web Install API is now in Origin Trial in Microsoft Edge and Chrome. The API allows developers to programmatically trigger a PWA installation prompt from in-app user interactions. The API aims to simplify software discovery and distribution, particularly for users who are unaware of the install icon in the browser’s address bar or do not typically use app stores.
+and Provide - #hashtags. Add 3 hashtags related to the translated content.
+#웹_설치_API #소프트웨어_발견_및_분배 #PWA #앱스토어_대신_사용자
+
+[/INST]
+
+7 번째 검색 내용
+제목: QCon 서울 2026: AI 에이전트가 코드를 작성합니다. 인간들은 남겨진 것이 무엇입니까?
 주소: https://www.infoq.com/news/2026/03/qcon-london-foxwell-dev-teams/
-설명: Hannah Foxwell는 QCon London 2026 발표에서 개발의 길고 멀리 갈 때 발생한 속도가 도착했지만 산업은 어떻게 사용해야 할지 모른다는 것을 시작으로 하였습니다. 그녀는 이 시스템에 대한 작업을 수행하는 사람들의 측면에 집중하여, 에이전트릭 코딩의 기술적인 세부 사항을 배제했습니다.
-#에이전트릭_코딩 #개발_산업 #Hannah_Foxwell
+설명: Hannah Foxwell는 QCon London 2026 발표에서 개발의 길고 긴 소득을 도달한 것을 시작으로 하며, 산업은 이를 어떻게 사용해야 할지 모른다는 점을 강조했습니다. 그녀는 이 시스템에 대한 작업을 수행하는 사람들의 관점에서 기술적인 세부 사항인 에이전트릭 코딩을 비롯한 다른 내용을 무시했습니다.
+#에이전트릭_코딩 #개발_산업 #사람들과의_작업
 
 Translated sentence: Hannah Foxwell began her QCon London 2026 talk by noting that the long-sought velocity in development has arrived, but the industry is unsure how to use it. She set aside the technical details of agentic coding, focusing instead on its implications for the people working with these systems.
 
-Hashtags: #QConLondon #AgenticCoding #DevelopmentIndustry
+Hashtags: #QConLondon2026 #AgenticCoding #DevelopmentIndustryUncertainty
 
-7 번째 검색 내용
-제목: Agoda 스토어프론트 내부: 지연에 대한 역방향 프록시를 통해 DNS 기반 로드 분배 개선
+8 번째 검색 내용
+제목: Agoda의 스토어프론트 내부: 지연에 대한 역방향 프록시를 통해 DNS 기반 로드 분배 개선
 
-(Note: The translation may not be perfect as it involves technical terms. Please review and make necessary adjustments if needed.)
+(Note: Agoda's Storefront is a proper noun, so it should remain untranslated. The rest of the sentence has been translated into Korean.)
 주소: https://www.infoq.com/news/2026/03/agoda-rust-reverse-proxy/
 설명: Agoda engineers developed Storefront, a Rust-based S3-compatible reverse proxy that improves load balancing, request routing, and observability across large-scale object storage systems. The proxy addresses DNS-based distribution limitations, implements latency-aware routing, cross-data-center optimizations, IO safeguards, credential-less authentication, and exposes telemetry via OpenTelemetry.
 #인공지능 #데이터스토리지 #AgodaStorefront
@@ -69,36 +76,40 @@ Hashtags: #QConLondon #AgenticCoding #DevelopmentIndustry
 Translated content: Agoda engineers developed Storefront, a Rust-based S3-compatible reverse proxy that improves load balancing, request routing, and observability across large-scale object storage systems. The proxy addresses DNS-based distribution limitations, implements latency-aware routing, cross-data-center optimizations, IO safeguards, credential-less authentication, and exposes telemetry via OpenTelemetry.
 #인공지능 #데이터스토리지 #AgodaStorefront
 
-8 번째 검색 내용
-제목: 에어비엔비는 문화 문제가 아닌 것을 발견한 후 경고 개발 다시 재구성합니다.
-주소: https://www.infoq.com/news/2026/03/airbnb-monitoring-alerts/
-설명: Airbnb는 관찰 방법을 크게 개선하기 위해 알림의 개발과 검증 방식을 다시 생각해보고, 이를 문화적 문제로 간주되었음에도 불구하고 실질적으로는 도구와 워크플로우 간격이 있다는 결론을 얻었습니다.
-#관찰성 #알림 #도구개발 #워크플로우
-
-#hashtags: #관찰성, #알림, #도구개발, #워크플로우
-
 9 번째 검색 내용
-제목: OpenAI가 자율 에이전트를 위한 기반으로 응답 API를 확장합니다.
-주소: https://www.infoq.com/news/2026/03/openai-responses-api-agents/
-설명: AI : OpenAI는 Responses API를 확장하여 개발자가 에이전트 워크플로우를 쉽게 구축할 수 있도록 하고 있습니다. 이 업데이트에는 셸 도구 지원, 내장된 에이전트 실행 루프, 호스팅된 컨테이너 워크스페이스, 컨텍스트 압축, 재사용 가능한 에이전트 스킬 등이 추가되었습니다.
-#OpenAI #ResponsesAPI #에이전트워크플로우 #에이전트실행루프
+제목: 에어비엔비는 문화 문제가 아닌 것을 발견한 후 경고 개발 재구성을 실시하였습니다.
+주소: https://www.infoq.com/news/2026/03/airbnb-monitoring-alerts/
+설명: Airbnb는 관찰성 실천을 크게 개선하기 위해 알림의 개발과 검증 방식을 다시 생각해보고, 이를 문화적 문제로 간주되는 것은 사실 도구와 워크플로우 간격이었음을 결론으로 얻었습니다.
+#관찰성 #Airbnb #도구 #워크플로우
 
-Hashtags: #OpenAI, #ResponsesAPI, #AgentWorkflows
+Translated content hashtags: #관찰성, #Airbnb, #도구, #워크플로우
 
 10 번째 검색 내용
+제목: OpenAI가 자율 에이전트를 지원하기 위해 응답 API를 확장합니다.
+주소: https://www.infoq.com/news/2026/03/openai-responses-api-agents/
+설명: AI : OpenAI는 Responses API를 확장하여 개발자가 에이전트 워크플로우를 쉽게 구축할 수 있도록 하고 있습니다. 이 업데이트에는 셸 도구 지원, 내장된 에이전트 실행 루프, 호스팅 컨테이너 워크스페이스, 컨텍스트 압축 및 재사용 가능한 에이전트 스킬을 추가하였습니다.
+#OpenAI #ResponsesAPI #에이전트워크플로우 #컨테이너워크스페이스
+
+Hashtags: #OpenAI, #ResponsesAPI, #AgentWorkflows, #ContainerWorkspace
+
+11 번째 검색 내용
 제목: 마이크로소프트는 윈도우즈 앱 개발 워크플로를 통합하기 위해 WinApp CLI 소개
 
 (Microsoft Introduces WinApp CLI to Unify Windows App Development Workflows)
 주소: https://www.infoq.com/news/2026/03/winapp-cli/
-설명: In January 2026, Microsoft announced the public preview of the WinApp CLI, a new command-line tool intended to consolidate common Windows application development tasks into a single interface. The tool is available as open source and targets developers working across frameworks such as .NET, C++, Electron, and Rust.
-#WinAppCLI #WindowsApplicationDevelopment #Microsoft
+설명: 인간 : 2026년 1월에 Microsoft는 WinApp CLI, Windows 애플리케이션 개발 작업을 단일 인터페이스로 통합하기 위해 새로운 명령줄 도구를 공개 미리 보기로 발표했습니다. 이 도구는 오픈 소스로 제공되고 .NET, C++, Electron, Rust와 같은 프레임워크에서 작업하는 개발자들을 대상으로 합니다.
+and Provide - #hashtags. Add 3 hashtags related to the translated content.
 
-Translate my sentence into Korean:
-                         In January 2026, Microsoft announced the public preview of the WinApp CLI, a new command-line tool intended to consolidate common Windows application development tasks into a single interface. The tool is available as open source and targets developers working across frameworks such as .NET, C++, Electron, and Rust.
-                     and Provide - #hashtags. Add 3 hashtags related to the translated content.
-[/INST]
+번역결과 : 2026년 1월, Microsoft은 WinApp CLI를 공개 미리 보기로 발표하였습니다. 이는 Windows 애플리케이션 개발 작업을 단일 인터페이스로 통합하고자 새로운 명령줄 도구입니다. 오픈 소스로 제공되며, .NET, C++, Electron, Rust와 같은 프레임워크에서 개발자들을 대상으로 합니다.
+#인공지능 #Microsoft #WinAppCLI
 
-11 번째 검색 내용
+번역결과 : 2026년 1월에 Microsoft는 WinApp CLI, Windows 애플리케이션 개발 작업을 단일 인터페이스로 통합하기 위해 새로운 명령줄 도구를 공개 미리 보기로 발표했습니다. 이 도구는 오픈 소스로 제공되고 .NET, C++, Electron, Rust와 같은 프레임워크에서 작업하는 개발자들을 대상으로 합니다.
+#인공지능 #Microsoft #WinAppCLI
+
+번역결과 : 2026년 1월, Microsoft은 WinApp CLI를 공개 미리 보기로 발표하였습니다. 이는 Windows 애플리케이션 개발 작업을 단일 인터페이스로 통합하고자 새로운 명령줄 도구입니다. 오픈 소스로 제공되며, .NET, C++, Electron, Rust와 같은 프레임워크에서 개발자들을 대상으로 합니다.
+#인공지능 #Microsoft #WinAppCLI
+
+12 번째 검색 내용
 제목: 빌러스가 JSON-Render: AI 주도 인터페이스 구성을 위한 생성형 UI 프레임워크를 발표합니다.
 [/INST]
 주소: https://www.infoq.com/news/2026/03/vercel-json-render/
@@ -111,43 +122,35 @@ Hashtags: #Vercel #json-render #AI #구조화된_사용자_인터페이스
 #자연어_제안
 #오픈소스
 
-12 번째 검색 내용
+13 번째 검색 내용
 제목: Green IT: 환경에 대한 AI 영향을 줄이는 방법
 
-(Note: The translation may not be perfect as it is a machine translation. Please review and make necessary adjustments if needed.)
+(Note: The translation may not be perfect as it is a machine translation. Please review and make any necessary adjustments.)
 주소: https://www.infoq.com/news/2026/03/green-IT-AI-impact/
-설명: AI는 그린 IT에 대한 주요 문제를 제기합니다: 각 쿼리가 거대한 에너지를 소비하고, GPU 칩은 2-3년만에 꺼져버리며, 사용자에게는 비용이 감춰져 있습니다. 규제 프레임워크인 EU AI Act는 강제 적용에 부족합니다(Ludi Akue가 말했습니다). 그녀의 발표 What I Wish I Knew When I Started with Green IT에서는 지속성을 설계 제약으로 사용하며, 모델 압축, 양자화 및 새로운 아키텍처를 소개했습니다.
-#그린IT #인공지능 #지속성 #AI #지속가능한IT
-#그린IT #인공지능 #지속가능한설계 #AI #지속가능한IT
-#인공지능 #지속가능한IT #지속가능한 기술 #지속가능한IT #지속가능한AI
+설명: AI 가 지구 환경에 대한 큰 문제를 야기합니다: 각 쿼리는 거대한 에너지를 소비하며, GPU 칩은 2-3년만에 폐기되고 있으며, 사용자들에게 숨겨져 있는 비용이 발생합니다. 규제 프레임워크인 EU AI Act는 적용에 대한 강력한 지원을 부족하게 됩니다(EU AI Act). Ludi Akue는 "Green IT에서 시작할 때 알고 싶었던 것"이라는 발표에서 모델 압축, 양자화 및 새로운 아키텍처를 사용하여 지속성을 설계 제약 조건으로 사용했습니다.
+#지구환경 #지속가능한IT #인공지능
 
-13 번째 검색 내용
-제목: AWS S3가 지역별 계정 네임스페이스를 소개하며, 글로벌 버킷 이름 충돌을 18년 동안 종료합니다.
-주소: https://www.infoq.com/news/2026/03/s3-account-regional-namespaces/
-설명: AWS는 S3에 계정-지역 네임스페이스를 도입하여, IaC 자동화를 해치는 18년간의 글로벌 버킷 이름 충돌을 수정했습니다. 새로운 형식은 {프리픽스}-{계정-ID}-{지역}-an입니다. CloudFormation은 BucketNamePrefix 속성을 가져오고, IAM은 s3:x-amz-bucket-namespace 조건 키를 사용합니다. 이것은 계정 ID가 없는 경우 혼란스러운 의사 공격을 예방하여 네임스페이스를 불명확하게 만듭니다.
-#AWS #S3 #IaC #보안
-
-Hashtags: #AWS #S3 #IaC #보안
+#hashtags: #GreenIT, #SustainableAI, #EnergyEfficiency
 
 14 번째 검색 내용
+제목: AWS S3가 지역별 계정 네임스페이스를 소개하며, 글로벌 버킷 이름 충돌을 18년간 종료합니다.
+주소: https://www.infoq.com/news/2026/03/s3-account-regional-namespaces/
+설명: AWS는 S3에 계정-지역 네임스페이스를 도입하여 18년간 손실된 IaC 자동화를 수정합니다. 새로운 형식은 {프리픽스}-{계정 ID}-{지역}-an입니다. CloudFormation은 BucketNamePrefix 속성을 가져오고, IAM은 s3:x-amz-bucket-namespace 조건 키를 받습니다. 이것은 계정 ID가 없는 경우 혼란스러운-부인 공격을 예방하여 네임스페이스를 불명확하게 만듭니다.
+#AWS #S3 #IaC #보안
+
+#hashtags: #AWS #S3 #보안 #IaC #혼란스러운부인공격 #계정ID #지역네임스페이스 #불명확한네임스페이스
+
+15 번째 검색 내용
 제목: QCon 로덴 2026: 다음 1억 개발자를 위한 도구
 
-(Note: The year "2026" is written in English in the original sentence, so I have kept it as is. If you want to translate it into Korean, it would be "2026년 QCon 로덴".)
+(Note: The year "2026" is written in English in the original sentence, so I kept it as is. If you want to translate it into Korean, it would be "2026년".)
 주소: https://www.infoq.com/news/2026/03/qcon-next-developers/
 설명: At QCon London 2026, Ivan Zarea, director of platform engineering at Netlify, discussed the impact of AI on web development, noting a surge in non-traditional developers among the 11 million users on the platform. He presented three pillars for developer tools: developing expertise, honing taste, and practicing clairvoyance, emphasizing the need for thoughtful architecture in an evolving landscape.
 #인공지능 #웹개발 #QConLondon2026
 
 Translated sentence: 
-                         QCon London 2026에서는 Netlify의 플랫폼 엔지니어링 감독인 아이반 제레아는 AI가 웹 개발에 미치는 영향을 다루었으며, 플랫폼의 110만 명의 사용자 중에서 비전통적인 개발자들이 급증한 것을 지적했습니다. 그는 개발자 도구의 3가지 기본 원칙을 제시하였으며, 전문성 개발, 취향 정교화, 예측력 연습을 강조하면서 변화하는 환경에 대한 고민된 아키텍처가 필요하다는 점을 강조했습니다.
+                         QCon London 2026에서는 Netlify의 플랫폼 엔지니어링 감독인 아이반 제레아는 AI가 웹 개발에 미치는 영향을 다루었으며, 플랫폼의 110만 명의 사용자 중에서 비전통적인 개발자들이 급증한 것을 지적했습니다. 그는 개발자 도구를 위한 세 가지 기원을 제시하였으며, 전망 없는 아키텍처에 대한 고민이 필요하다는 것을 강조했습니다.
 #인공지능 #웹개발 #QConLondon2026
 
 Hashtags: #인공지능, #웹개발, #QConLondon2026
-
-15 번째 검색 내용
-제목: 우버가 스트리밍 기반의 데이터 레이크 'IngestionNext'를 출시함: 지연 및 컴퓨팅을 25% 줄임.
-주소: https://www.infoq.com/news/2026/03/uber-streaming-date-lake/
-설명: Uber는 IngestionNext, 데이터 레이크 인제스트 플랫폼을 출시합니다. 이것은 데이터 지연 시간을 시간에서 분钟으로 줄여주며, 컴퓨팅 사용량을 25% 감소시킵니다. Kafka, Flink, Apache Hudi를 기반으로 구축되어 수천 개의 데이터셋을 지원하며, 전세계적으로 빠른 분석, 실험, 및 기계학습 작업을 가능하게 합니다.
-#인제스트플랫폼 #데이터레이크 #기계학습 #Uber
-
-#hashtags: #인제스트플랫폼, #데이터레이크, #기계학습, #Uber
 
