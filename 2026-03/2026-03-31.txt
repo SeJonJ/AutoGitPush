@@ -1,0 +1,134 @@
+1 번째 검색 내용
+제목: 자바 뉴스 요약: 그라알VM 빌드 도구, 이클립스링크, 스프링 amilestone, 오픈 리버티, 쿼크스
+주소: https://www.infoq.com/news/2026/03/java-news-roundup-mar23-2026/
+설명: AI : 이번 주 3월 23일 Java 뉴스 요약은 GraalVM Native Build Tools 1.0과 EclipseLink 5.0의 GA 릴리즈, 3월 2026 에디션의 Open Liberty, Spring Boot, Spring Modulith 및 Spring AI의 4번째 amilestone 릴리즈, Quarkus의 포인트 릴리즈, Infinispan의 첫 개발 릴리즈, 그리고 GlassFish의 유지보수 릴리즈로 구성되어 있습니다.
+#Java #Runtimetechnology #OpenSource #Developmenttools
+
+Hashtags: #Java #Runtimetechnology #OpenSource #Developmenttools
+
+2 번째 검색 내용
+제목: FOSDEM 2026: WebTransport의 소개 - 다음 WebSocket?
+
+(Note: The year "2026" in the original sentence seems to be a typo, as FOSDEM is an annual event and there was no FOSDEM 2026. I assumed it's a typo and translated it as "FOSDEM 2026". If you meant something else, please provide more context or clarify the intended meaning.)
+주소: https://www.infoq.com/news/2026/03/fosdem-webtransport-vs-websocket/
+설명: Max Inden는 FOSDEM 2026에서 웹트랜스포트 프로토콜과 API를 통해 WebSocket의 기능을 향상시키는 방법을 탐색했습니다. WASD 프로토콜은 다른 것 중 하나 이외에도 낮은 지연 시간과 네트워크 전환의 투명성을 제공하고자 합니다. 주요 사용 사례로는 고주기 금융 데이터 스트리밍, 클라우드 게임, 라이브 스트리밍, 및 협력 편집과 같은 것들이 있습니다.
+#웹트랜스포트 #금융데이터 #클라우드게임 #라이브스트리밋
+
+#hashtags: #인공지능 #의료 #금융 #교통
+
+3 번째 검색 내용
+제목: 구글은 AI 에이전트와 안드로이드 앱을 연결하기 위한 AppFunctions를 공개합니다.
+주소: https://www.infoq.com/news/2026/03/android-appfunctions-agents/
+설명: Google은 Android를 "에이전트 우선" OS로 변화시키기 위해 사용자가 AI 에이전트나 도움말로 목표를 달성하는 데 도움이 되는 기능을 새로운 초기 베타 버전으로 소개했습니다.
+#Android #AI #에이전트_우선
+
+[INST] Human : Translate my sentence into Korean: In a move to transform Android into an "agent-first" OS, Google has introduced new early beta features to support a task-centric model in which apps provide functional building blocks users leverage through AI agents or assistants to fulfill their goals. and Provide - #hashtags. Add 3 hashtags related to the translated content. [/INST]
+
+4 번째 검색 내용
+제목: Kubescape 4.0은 Kubernetes에서 실행 중인 보안과 AI 에이전트 스캔을 제공합니다.
+주소: https://www.infoq.com/news/2026/03/kubescape-40/
+설명: Kubernetes 보안 플랫폼 Kubescape의 4.0 버전이 발표되었습니다. 이 버전에서는 실행 중인 위협 감지와 AI 시대의 새로운 보안 기능을 포함하고 있습니다. 이 프로젝트는 AI 에이전트 자체의 보안에 대한 대상으로 처음으로 확장되었으며, 이를 통해 이미 기존의 스캔 능력을 갖추고 있습니다.
+#Kubernetes #보안 #AI #Kubescape
+
+#hashtags: #Kubernetes, #Security, #AI, #Kubescape
+
+5 번째 검색 내용
+제목: Nuxt 테스트 유틸리티 v4: Viteст v4 요구 사항, 모킹 개선 및 엄격한 환경 설정
+
+(위의 번역은 기계 번역이며, 오류가 있을 수 있습니다. 참고용도로만 사용하시기 바랍니다.)
+주소: https://www.infoq.com/news/2026/03/nuxt-test-utils-4/
+설명: Nuxt Test Utils는 4.0.0 버전을 릴리즈했습니다. 이 업데이트는 beforeAll로 테스트 환경 설정을 변경하여, 모듈 수준의 mock 문제를 해결합니다. 또한 mockNuxtImport를 향상시키고 등록된 엔드포인트에 대한 상태 관리를 개선합니다. Nuxt 프레임워크에서의 테스팅에 매우 중요한 라이브러리로, 단위 및 끝-투-끝 테스팅을 연결합니다.
+#NuxtTestUtils #Vitest #상태관리 #테스팅
+
+Hashtags: #NuxtTestUtils, #Vitest, #상태관리, #테스팅
+
+6 번째 검색 내용
+제목: 마이크로소프트는 클라우드 마이그레이션 계획을 빠르게 진행하기 위해 Azure Copilot Migration Agent를 출시합니다.
+주소: https://www.infoq.com/news/2026/03/azure-copilot-migration-agent/
+설명: Microsoft는 Azure Copilot Migration Agent, Azure 포털에 내장된 AI 助手로서 마이그레이션 계획 자동화, 에이전트 없는 VMware 검색 및 잠재적 영역 생성을 지원합니다. 이 제품은 일반적으로 사용 가능하지만 공개 미리 보기에서 실행할 수 없는 마이그레이션을 실행합니다. Azure Migrate의 복제와 전환는 여전히 수동 작업입니다.
+#Azure #AI #VMware #마이그레이션
+
+#hashtags: #Azure, #AI, #VMware, #마이그레이션
+
+7 번째 검색 내용
+제목: 프록시SQL이 안정성, 혁신, 및 AI 트랙으로 다중 계층 릴리스 전략을 소개합니다.
+[/INST]
+주소: https://www.infoq.com/news/2026/03/proxysql-multi-tier-release/
+설명: ProxySQL 3.0.6가 최근에 발표되었으며, 새로운 다단계 릴리스 전략을 함께 소개했습니다. 안정성 및 생산성 사용에 집중하는 Stable Tier, 새로운 기능을 더 빠르게 도입하는 Innovative Tier, 미래의 기능 포함한 AI/MCP Tier가 있습니다.
+#ProxySQL #RDBMS #인공지능 #AIIntegration
+
+8 번째 검색 내용
+제목: 텔레포트 보고서: 과도한 권한을 가진 AI 시스템이 보안 사건 발생 수를 4배로 높인다는 연관성 확인
+
+(Note: The translation may not be perfect as it is a machine translation. Please review and make necessary adjustments if needed.)
+주소: https://www.infoq.com/news/2026/03/teleport-ai-report/
+설명: 기업들이 AI 시스템에게 과도한 접근 권한을 부여하면, The 2026 State of AI in Enterprise Infrastructure Security 보고서에 따르면, 그렇지 않은 기업들에 비해 4.5배 이상의 보안 사건이 발생합니다. 이 보고서는 Teleport, 인프라 식별 회사가 출간한 보고서에 따르면, AI 적용 제품 시스템에서 식별 관리가 뒷떨어졌다는 것을 발견했습니다.
+#인프라_식별 #보안 #인공지능
+
+#hashtags: #인프라_식별, #보안, #인공지능
+
+9 번째 검색 내용
+제목: 디스코드 엔지니어들은 엘리릭의 액터 모델에 분산 트레이싱을 추가하며, 성능 감소 없이 구현합니다.
+주소: https://www.infoq.com/news/2026/03/discord-elixir-actor-tracing/
+설명: Discord engineering detailed how they added distributed tracing to Elixir's actor model. Their custom Transport library wraps messages with trace context and uses dynamic sampling to handle million-user fanouts. CPU optimizations included skipping unsampled traces and filtering context before deserialization, recovering 10+ percentage points of overhead.
+                     and Provide - #hashtags. Add 3 hashtags related to the translated content.
+
+ Korean Translation:
+ Discord 엔지니어는 Elixir의 액터 모델에 분산 트레이싱을 추가하는 방법을 자세히 설명했습니다. 그들의 사용자 정의 Transport 라이브러리는 메시지를 트레이스 컨텍스트로 래핑하고 동적 샘플링을 사용하여 백만 사용자 팬아웃을 처리합니다. CPU 최적화는 샘플되지 않은 트레이스를 건너뛰고 디시리알라이제이션 전에 컨텍스트를 필터링하여, 오버헤드를 10% 이상의 점수로 회복했습니다.
+ #Discord #Elixir #분산트레이싱 #CPU최적화
+
+ Hashtags: #Discord #Elixir #분산트레이싱 #CPU최적화
+
+10 번째 검색 내용
+제목: 해시코퍼트 볼트 1.21은 SPIFFE 인증, 세부적인 비밀 복구 기능 등을 추가로 제공합니다.
+주소: https://www.infoq.com/news/2026/03/hashicorp-vault-1-21/
+설명: HashiCorp는 Vault 1.21을 발표했습니다. 이 버전에서는 인간이 아닌 작업 로드에 대한 원시 SPIFFE 인증을 소개하며, Vault 1.20에서 도입된 세부 비밀 복구 모델의 확장을 포함합니다. KV v2 비밀 속성, MFA TOTP 자동 등록, Vault Secrets Operator CSI 드라이버를 사용하여 pod에 직접 비밀을 마운트하고 etcd에 영구적으로 저장하지 않고 더 많은 기능도 포함합니다.
+#HashiCorp #Vault1.21 #인증 #비밀복구
+
+#hashtags: #HashiCorp, #Vault1.21, #인증, #비밀복구
+
+11 번째 검색 내용
+제목: "Pick and Mix" 사용자 정의 지역: 클라우드플레어가 정밀한 데이터 주거장 제어 소개
+
+(Note: The translation may not be perfect as it involves a specific product name "Pick and Mix" and company name "Cloudflare". It's better to double-check the translations with professional Korean translators if necessary.)
+주소: https://www.infoq.com/news/2026/03/cloudflare-custom-regions/
+설명: Cloudflare는 최근 Custom Regions를 소개했습니다, Regional Services의 확장입니다. 고객들은 데이터 처리에 어디서 처리되는지 정확하게 정의할 수 있도록 특정 데이터센터 그룹을 국가나 지역별로 선택할 수 있습니다. TLS 종료와 애플리케이션 레벨 처리가 선택한 지리적 경계 내에서 유지되도록 구성을 위해 규정 준수와 제어를 보장하기 위해 이를 선택할 수 있습니다.
+#클라우드플레어 #데이터센터 #규정준수 #제어
+
+#hashtags: #Cloudflare, #CustomRegions, #DataCenter
+
+12 번째 검색 내용
+제목: 실험적인 Web 설치 API는 응용 프로그램 발견 및 분포를 개선하려고 합니다.
+주소: https://www.infoq.com/news/2026/03/web-install-api-origin-trial/
+설명: 새로운, 실험적인 Web Install API는 Microsoft Edge와 Chrome에서 Origin Trial에 포함되었습니다. API는 앱 내부 사용자 상호 작용으로 프로그래밍 방식으로 PWA 설치 제안 대화 상자를 트리거할 수 있게 합니다. API의 목표는 특히 브라우저 주소 표시줄에 설치 아이콘을 알지 못하거나 일반적으로 앱 스토어를 사용하지 않는 사용자들에게 소프트웨어 발견과 배포를 간단하게 하는 것입니다.
+#WebInstallAPI #PWA #소프트웨어발견 #브라우저
+
+Hashtags: #WebInstallAPI, #PWA, #소프트웨어발견, #브라우저
+
+13 번째 검색 내용
+제목: QCon 로망도 2026년: AI 에이전트가 코드를 작성합니다. 인간들이 남은 것은 무엇입니까?
+주소: https://www.infoq.com/news/2026/03/qcon-london-foxwell-dev-teams/
+설명: Hannah Foxwell는 QCon London 2026 발표에서 개발의 길게 걸친 속도가 도착했지만, 산업은 이를 어떻게 사용해야 할지 모른다는 것을 시작으로 하였습니다. 그녀는 대신 이러한 시스템에 작업하는 사람들의 측면을 중점적으로 고려하고 있다는 점에 집중했습니다.
+#QConLondon2026 #개발속도 #인공지능
+
+Translated content hashtags: #HannahFoxwell, #QConLondon2026, #AIdevelopmentvelocity
+
+14 번째 검색 내용
+제목: Agoda 스토어프론트 내부: 지연에 대한 역방향 프록시를 통해 DNS 기반 로드 분배 개선
+
+(Note: The translation may not be perfect as it involves technical terms and specific company names. However, the general meaning is conveyed.)
+주소: https://www.infoq.com/news/2026/03/agoda-rust-reverse-proxy/
+설명: Agoda engineers developed Storefront, a Rust-based S3-compatible reverse proxy that improves load balancing, request routing, and observability across large-scale object storage systems. The proxy addresses DNS-based distribution limitations, implements latency-aware routing, cross-data-center optimizations, IO safeguards, credential-less authentication, and exposes telemetry via OpenTelemetry.
+#인공지능 #데이터스토리지 #AgodaStorefront
+
+Translated content: Agoda engineers developed Storefront, a Rust-based S3-compatible reverse proxy that improves load balancing, request routing, and observability across large-scale object storage systems. The proxy addresses DNS-based distribution limitations, implements latency-aware routing, cross-data-center optimizations, IO safeguards, credential-less authentication, and exposes telemetry via OpenTelemetry.
+#인공지능 #데이터스토리지 #AgodaStorefront
+
+15 번째 검색 내용
+제목: 에어비엔비는 문화 문제가 아닌 것을 발견한 후 경고 개발 재건을 실시하였습니다.
+주소: https://www.infoq.com/news/2026/03/airbnb-monitoring-alerts/
+설명: Airbnb는 경고 개발 및 검증에 대한 사고를 다시 생각하며 관찰성 실천을 크게 향상시키는 방법을 찾아 냈습니다. 이 문제가 "문화 문제"였다고 생각했지만, 사실은 도구와 워크플로우 간격이었습니다.
+#Airbnb #관찰성 #경고 #워크플로우
+
+Translated content hashtags: #Airbnb, #Observability, #Alerts
+
