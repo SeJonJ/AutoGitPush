@@ -1,89 +1,89 @@
 1 번째 검색 내용
-제목: [INST] 피피이(PyPI) 공급망 공격으로 악성 코드가 침입하여 LiteLLM에서 민감한 정보 유출을 허용합니다. [/INST]
+제목: [INST] 파이피 공급망 공격으로 악성 코드가 침입하여 LiteLLM 손상, 민감한 정보 유출을 허용합니다. [/INST]
 주소: https://www.infoq.com/news/2026/03/litellm-supply-chain-attack/
-설명: AI : 미래검색 연구원 Callum McMahon이 발견한 공급망 공격으로, LiteLLM을 PyPI에서 침투하여 약 40,000번의 손상된 버전 다운로드가 발생했습니다. 이 손상된 버전은 민감한 정보를 수집하고 전송할 수 있는 악성 페이로드를 설치합니다. LiteLLM은 일일 300만 번 대략 다운로드됩니다.
-#공급망공격 #LiteLLM #악성코드
+설명: AI : 미래검색 연구원 Callum McMahon이 발견한 공급망 공격으로, LiteLLM을 PyPI에서 침입하여 약 40,000번의 손상된 버전 다운로드를 유도했습니다. LiteLLM은 일일 3백만 번 다운로드 됩니다.
+#공급망공격 #LiteLLM #침입 #손상된버전
 
-Translated sentence: Discovered by FutureSearch researcher Callum McMahon, a supply chain attack against LiteLLM on PyPI resulted in over 40 thousand downloads of a compromised version that installed a malicious payload capable of harvesting and exfiltrating sensitive information. LiteLLM is downloaded roughly 3 million times per day.
-and Provide - #hashtags. Add 3 hashtags related to the translated content.
+#hashtags: #공급망공격, #침입, #손상된버전
 
 2 번째 검색 내용
 제목: 에이전트릭 AI 패턴은 공학 교육을 강화합니다.
 주소: https://www.infoq.com/news/2026/03/agentic-engineering-patterns/
-설명: Paul Duvall 최근 인공지능 지원 개발과 연결된 엔지니어링 패턴 라이브러리를 논의했습니다. 그는 고품질의 배포를 위한 실천을 중심으로 이 주제에 대해 설명하였습니다. Paul Stack과 Gergely Orosz의 관련 논의는 리미징 및 사양 기반 개발로 이동하고 있음을 강조합니다.
-#인공지능 #엔지니어링패턴 #고품질배포
-
-#hashtags: #AI #EngineeringPatterns #HighQualityDelivery
+설명: Paul Duvall는 인공지능 지원 개발에 사용되는 엔지니어링 패턴 라이브러리를 최근에 논의했습니다. 그는 고품질의 배포를 위한 실천을 중심으로 이 주제에 대한 관련 논의가 Paul Stack과 Gergely Orosz에서 발생하고 있음을 강조합니다. 이러한 논의는 패턴 리미즈와 명세 주도 개발로 변화를 이루고 있음을 보여줍니다.
+#인공지능 #엔지니어링패턴 #고품질배포 #명세주도개발
 
 3 번째 검색 내용
-제목: 쿠버네티스 자동조정은 VENDOR 도구를 넘어서는 새로운 관찰성 중심으로 집중해야 합니다.
+제목: Kubernetes 자동 조정은 공급업체 도구를 넘어서는 새로운 관찰성 중심으로 집중해야 합니다.
 주소: https://www.infoq.com/news/2026/03/kubernetes-observability/
-설명: 인프라스트럭처와 관련된 메트릭에서 벗어나 배정 행동, 스케줄링 지연 및 비용 효율성과 같은 스케일링 동작에 대한 더 깊은 인사이트를 제공하는 새로운 플랫폼 독립적인 관측성 방법이 등장하고 있으며, Kubernetes 자동 스케일러의 채택가속화에 따라 전통적인 인프라 메트릭에서 벗어나 배정 행동, 스케줄링 지연, 비용 효율성과 같은 스케일링 동작에 대한 더 깊은 인사이트를 제공하는 새로운 플랫폼 독립적인 관측성 방법이 등장하고 있습니다.
-#Kubernetes #자동스케일러 #비용효율성 #관측성
+설명: 인프라스트럭처와 관련된 메트릭에서 벗어나 배정 행동, 스케줄링 지연 및 비용 효율성을 더 깊은 이해로 전환하는 새로운 플랫폼 독립적인 관측성 방법이 발생하고 있습니다.
+#Kubernetes #자동조정 #비용효율성
+
+#hashtags: #Kubernetes #자동조정 #비용효율성
 
 4 번째 검색 내용
 제목: 탄스택 시작은 서버와 클라이언트 경계를 강제하기 위해 중요한 보호 기능을 소개합니다.
 주소: https://www.infoq.com/news/2026/03/tanstack-import-protection/
-설명: TanStack Start는 전체 스택 React 응용 프로그램에서 서버와 클라이언트 코드가 혼합되지 않도록 방지하기 위한 import 보호를 소개했습니다. 이 Vite 플러그인은 개발 및 빌드 프로세스에서 자동으로 가져오기를 확인합니다. 파일 명명 규칙이나 명시적 마커를 사용하여 위험한 가져오기를 차단하며, 보안을 향상시키고 추가 개발자 입력 없이 버그를 줄입니다.
-#TanStackStart #importProtection #보안 #버그 감소
+설명: TanStack Start는 전체 스택 React 응용 프로그램에서 서버와 클라이언트 코드가 혼합되지 않도록 방지하기 위한 임포트 보호를 소개했습니다. 이 Vite 플러그인은 개발 및 빌드 프로세스에서 자동으로 임포트를 확인합니다. 파일 명명 규칙이나 명시적 마커를 사용하여 위험한 임포트를 차단하며, 보안을 향상시키고 추가 개발자 입력 없이 버그를 줄입니다.
+#TanStack #Start #임포트보호 #보안
 
-Hashtags: #TanStackStart, #importProtection, #보안, #버그 감소
+#hashtags: #TanStack, #Start, #임포트보호, #보안
 
 5 번째 검색 내용
 제목: 클라우드플레어가 에지에서 활성 API 취약점 검색 기능 추가
 
-(Note: The translation may not be perfect as it is a technical term. Please verify the accuracy if needed.)
+(Note: The translation may not be perfect, as some terms like "Active API Vulnerability Scanning" and "Edge" might have specific meanings in the context of Cloudflare. However, this is a rough translation of the given sentence into Korean.)
 주소: https://www.infoq.com/news/2026/03/cloudflare-api-vulnerability/
-설명: Cloudflare는 Web와 API 취약점 검색기의 오픈 베타를 발표했습니다. 이 동적 애플리케이션 보안 테스트(DAST) 도구는 API 시드 플랫폼의 일부입니다.
-#클라우드플레어 #웹 #API #보안 #검색기
+설명: Cloudflare는 Web와 API 취약점 검색기의 오픈 베타를 발표했습니다. 이 동적 응용 보안 테스트(DAST) 도구는 API 시드 플랫폼의 일부입니다.
+#Cloudflare #API #보안 #검색기
 
 Translated sentence: Cloudflare has announced the open beta of its Web and API Vulnerability Scanner. This Dynamic Application Security Testing (DAST) tool is part of the API Shield platform.
-#hashtags: #클라우드플레어, #웹, #API, #보안, #검색기
+Hashtags: #Cloudflare #API #보안 #검색기
 
 6 번째 검색 내용
-제목: QCon 로덴 2026: 팀 토폴로지가 '에이전시의 인프라'로 활용되는 것을 위한 AI
+제목: QCon 로덴 2026: 팀 토폴로지를 '에이전시의 인프라'로 사용하기
 
-(Note: The given sentence seems to be a title or heading, and the translation provided is based on the assumption that it should remain similar in structure. If you need a more natural Korean sentence, please provide more context or clarify your requirements.)
+(Note: The given sentence seems to be a title or heading for an event. In this case, I translated it into Korean while maintaining the structure and meaning as close as possible.)
 주소: https://www.infoq.com/news/2026/03/ai-agency-team-topologies/
 설명: At QCon London 2026, Matthew Skelton argued that AI success depends on organizational maturity. He highlighted bounded agency, security, and stewardship as key to managing AI agents. By using Innovation and Practices Enabling Teams, companies can drive knowledge diffusion and optimize internal processes to see real-world returns on their AI investments.
-#인공지능 #기업성숙도 #AI에이전트관리
+#인공지능 #기업성숙도 #AI관리
 
-[INST] Human : Translate my sentence into Korean: At QCon London 2026, Matthew Skelton argued that AI success depends on organizational maturity. He highlighted bounded agency, security, and stewardship as key to managing AI agents. By using Innovation and Practices Enabling Teams, companies can drive knowledge diffusion and optimize internal processes to see real-world returns on their AI investments.
-                     and Provide - #hashtags. Add 3 hashtags related to the translated content. [/INST]
+Translated content hashtags: #인공지능, #기업성숙도, #AI관리
 
 7 번째 검색 내용
-제목: KubeVirt v1.8은 Kubernetes에서 다중 하이퍼바이저 지원과 비밀성 계산을 제공합니다.
+제목: KubeVirt v1.8는 Kubernetes에서 다중 하이퍼바이저 지원과 비밀성 계산을 제공합니다.
 주소: https://www.infoq.com/news/2026/03/kubevirt-18-announcement/
-설명: Version 1.8 of KubeVirt was announced at KubeCon + CloudNativeCon Europe 2026. The release is aligned with Kubernetes v1.35, and the most significant addition is a Hypervisor Abstraction Layer (HAL) that allows the project to use backends other than KVM. In an announcement post on the CNCF blog, the maintainers announced the new release, broken down by their SIGs.
-                     #KubeVirt #HypervisorAbstractionLayer #CloudNativeComputing
+설명: KubeVirt의 1.8 버전은 KubeCon + CloudNativeCon Europe 2026에서 발표되었습니다. 이 릴리즈는 Kubernetes v1.35와 호환되며, 가장 중요한 추가 사항은 Hypervisor Abstraction Layer(HAL)입니다. 이 HAL은 KVM 외의 백엔드를 사용할 수 있게 해주며, CNCF 블로그에서 유지보수자들이 새로운 릴리즈를 발표했습니다.
+#KubeVirt #HypervisorAbstractionLayer #CNCF
 
-#hashtags: #KubeVirt, #HypervisorAbstractionLayer, #CloudNativeComputing
+Hashtags: #Kubernetes, #Virtualization, #CloudComputing
 
 8 번째 검색 내용
-제목: 디스코드 오픈소스 오스프리 안전 규칙 엔진 처리 2.3백만 규칙 每秒
+제목: 디스코드 오픈소스 오스프리 안전 규칙 엔진 처리 2.3만 개의 규칙 每秒
 
-(Note: The translation may not be perfect as some words and phrases might have been slightly altered to fit the Korean language structure.)
+(Note: The translation may not be perfect as it is a direct translation from English to Korean without considering the context or grammar rules of the Korean language.)
 주소: https://www.infoq.com/news/2026/03/discord-osprey/
-설명: AI : Discord는 Osprey, 400억 일간 작업과 2.3만 개의 규칙당 1초에 처리하는 안전 규칙 엔진을 오픈소스로 공개했습니다. Osprey는 멀티언어 아키텍처를 사용합니다: Rust 코디네이터가 트래픽을 관리하고, 상태 없는 Python 워커들이 로직을 실행하며, 파이썬 기반의 도메인 특화 언어인 SML를 사용합니다. 이 설계로는 신뢰와 안전 팀이 고급 스케일에서 실시간 위협 완화를 배포할 수 있습니다.
-#Discord #Osprey #안전규칙엔진 #멀티언어아키텍처
-
-#hashtags: #Discord #Osprey #안전규칙엔진 #멀티언어아키텍처
+설명: AI : Discord는 Osprey, 400억 일간 작업과 2.3만 개의 규칙당 1초에 처리하는 안전 규칙 엔진을 오픈소스로 공개했습니다. Osprey는 런 기반 코디네이터가 트래픽을 관리하고, 상태 없는 Python 워커들이 로직을 실행하며, 파이썬 기반의 도메인 특화 언어인 SML을 사용합니다. 이 설계로 신뢰와 안전 팀은 고급 스케일에서 실시간 위협 완화를 배포할 수 있습니다.
+#Discord #Osprey #안전규칙엔진 #신뢰와안전
 
 9 번째 검색 내용
-제목: 자바 뉴스 요약: 그라알VM 빌드 도구, 에클립스링크, 스프링 amilestone, 오픈 리버티, 쿼크스
+제목: 자바 뉴스 요약: 그라알VM 빌드 도구, 에클립스 링크, 스프링 밀스톤, 오픈 리버티, 쿼크스
 주소: https://www.infoq.com/news/2026/03/java-news-roundup-mar23-2026/
-설명: AI : 이번 주 3월 23일 Java 뉴스 요약은 GraalVM Native Build Tools 1.0과 EclipseLink 5.0의 GA 릴리즈, 3월 2026 에디션의 Open Liberty, Spring Boot, Spring Modulith 및 Spring AI의 4번째 Milestone 릴리즈, Quarkus의 포인트 릴리즈, Infinispan의 첫 개발 릴리즈, 그리고 GlassFish의 유지보수 릴리즈로 구성되어 있습니다.
-#Java #Runtimes #Frameworks #Development
+설명: Korean Translation: 이번 주의 Java 뉴스 요약은 2026년 3월 23일에 발표된 다음과 같습니다: GraalVM Native Build Tools 1.0과 EclipseLink 5.0의 GA 릴리즈, 2026년 3월 편집본의 Open Liberty, Spring Boot, Spring Modulith 및 Spring AI에 대한 4번째 Milestone 릴리즈, Quarkus에 대한 포인트 릴리즈, Infinispan에 대한 첫 개발 릴리즈 및 GlassFish에 대한 유지보수 릴리즈입니다.
+#Java #뉴스요약 #프로그래밍언어 #오픈소스
+
+Hashtags:
+1. #JavaNewsSummary
+2. #ProgrammingLanguage
+3. #OpenSourceTechnology
 
 10 번째 검색 내용
 제목: FOSDEM 2026: WebTransport의 소개 - 다음 WebSocket?
 
 (Note: The year "2026" in the original sentence seems to be a typo, as FOSDEM is an annual event and there was no FOSDEM 2026. I assumed it should be "FOSDEM 2023" or any other relevant year.)
 주소: https://www.infoq.com/news/2026/03/fosdem-webtransport-vs-websocket/
-설명: Max Inden는 FOSDEM 2026에서 웹트랜스포트 프로토콜과 API를 통해 WebSocket의 기능을 향상시키는 방법을 탐색했습니다. WASD 2026은 중요한 사용 사례, 예를 들어 고주파 금융 데이터 스트리밍, 클라우드 게임, 라이브 스트리밍, 및 협력적 편집과 같은 다양한 분야에서 낮은 지연 시간과 네트워크 전환의 투명성을 제공하기 위해 개발되고 있습니다.
+설명: Max Inden는 FOSDEM 2026에서 웹트랜스포트 프로토콜과 API를 통해 WebSocket의 기능을 향상시키는 방법을 탐색했습니다. WASD는 다른 것 중 하나 이외에도 낮은 지연 시간과 네트워크 전환의 투명성을 제공하고자 합니다. 주요 사용 사례로는 고주기 금융 데이터 스트리밍, 클라우드 게임, 라이브 스트리밍, 및 협력 편집이 있습니다.
 #웹트랜스포트 #금융데이터 #클라우드게임 #라이브스트리밍
-
-#hashtags: #인공지능 #의료 #금육 #교통
+#인공지능 #의료 #교통
 
 11 번째 검색 내용
 제목: 구글은 AI 에이전트와 안드로이드 앱을 연결하기 위한 AppFunctions를 공개합니다.
@@ -96,14 +96,17 @@ Translated sentence: Cloudflare has announced the open beta of its Web and API V
 12 번째 검색 내용
 제목: Kubescape 4.0은 Kubernetes에서 실행 중인 보안과 AI 에이전트 스캔을 제공합니다.
 주소: https://www.infoq.com/news/2026/03/kubescape-40/
-설명: Kubernetes 보안 플랫폼 Kubescape의 4.0 버전이 발표되었습니다. 이 버전에서는 실행 중인 위협 감지와 AI 시대 보안 기능 집합이 추가되었습니다. 이 프로젝트는 AI 에이전트 자체의 보안에 대
+설명: Kubernetes 보안 플랫폼 Kubescape의 4.0 버전이 발표되었습니다. 이 버전에서는 실행 중인 위협 감지와 AI 시대의 새로운 보안 기능을 포함하고 있습니다. 이 프로젝트는 AI 에이전트 자체의 보안에 대한 대상으로 처음으로 확장되었으며, 이미 설립된 스캔 기능과 함께 사용됩니다.
+#Kubernetes #보안 #AI #Kubescape
+
+#hashtags: #Kubernetes, #보안, #AI, #Kubescape
 
 13 번째 검색 내용
-제목: Nuxt 테스트 유틸즈 v4: Viteст v4 요구 사항, 모킹 개선 및 더 엄격한 환경 설정
+제목: Nuxt Test Utils v4: Vitest v4 요구 사항, 모킹 개선 및 엄격한 환경 설정
 
-(위의 번역은 기계 번역으로 제공되며, 오류가 있을 수 있습니다.)
+(Note: The translation may not be perfect as it is a technical term. Please confirm if the meaning is correctly conveyed.)
 주소: https://www.infoq.com/news/2026/03/nuxt-test-utils-4/
-설명: Nuxt Test Utils는 4.0.0 버전을 릴리즈했습니다. 이 업데이트는 beforeAll로 테스트 환경 설정을 변경하여, 모듈 수준의 모킹에 대한 문제를 해결합니다. 또한 mockNuxtImport를 향상시키고 등록된 엔드포인트에 대한 상태 관리를 개선합니다. Nuxt 프레임워크의 테스팅에 매우 중요한 라이브러리로, 단위 및 끝-투-끝 테스팅을 연결합니다.
+설명: Nuxt Test Utils는 4.0.0 버전을 릴리즈했습니다. 이 업데이트는 beforeAll로 테스트 환경 설정을 변경하여, 모듈 수준의 모킹에 대한 문제를 해결합니다. 또한 mockNuxtImport를 향상시키고 등록된 엔드포인트에 대한 상태 관리를 개선합니다. Nuxt 프레임워크에서의 테스팅에 매우 중요한 라이브러리로, 단위 및 끝-투-끝 테스팅을 연결하는 데 도움이 됩니다.
 #NuxtTestUtils #Vitest #테스팅 #Nuxt프레임워크
 
 #hashtags: #NuxtTestUtils, #Vitest, #테스팅, #Nuxt프레임워크
@@ -111,20 +114,18 @@ Translated sentence: Cloudflare has announced the open beta of its Web and API V
 14 번째 검색 내용
 제목: 마이크로소프트는 클라우드 마이그레이션 계획을 빠르게 진행하기 위해 Azure Copilot Migration Agent를 출시합니다.
 주소: https://www.infoq.com/news/2026/03/azure-copilot-migration-agent/
-설명: Microsoft는 Azure Copilot Migration Agent, Azure 포털에 내장된 AI 助手로서 마이그레이션 계획 자동화, 에이전트 없는 VMware 검색 및 잠재적 영역 생성을 지원합니다. 일반적으로 사용 가능한 것으로 표시되지만 에이전트는 공개 미리 보기에서 실행할 수 없습니다. Azure Migrate의 복제와 교체는 여전히 수동 작업입니다.
-#Azure #마이그레이션 #VMware #AI
+설명: Microsoft는 Azure Copilot Migration Agent, 인공지능 助手로 Azure 포털에 내장된 마이그레이션 계획 자동화, 에이전트 없는 VMware 검색 및 잠재적 영역 생성을 지원하는 것입니다. 일반적으로 사용 가능한 것으로 표시되지만, 이 에이전트는 마이그레이션을 실행할 수 없고 공개 미리 보기에 있습니다. Azure Migrate의 복제와 교체는 여전히 수동 작업입니다.
+#Azure #인공지능 #마이그레이션
 
-#hashtags: #Azure, #마이그레이션, #VMware, #AI
+#hashtags: #Azure, #인공지능, #마이그레이션
 
 15 번째 검색 내용
-제목: 프록시SQL은 안정성, 혁신, 및 AI 트랙으로 다중 계층 출시 전략을 소개합니다.
+제목: 프록시SQL이 안정화된, 혁신적인, 및 AI 트랙으로 구성된 다단계 출시 전략을 소개합니다.
 [INST] ProxySQL Introduces Multi-Tier Release Strategy With Stable, Innovative, and AI Tracks [/INST]
 주소: https://www.infoq.com/news/2026/03/proxysql-multi-tier-release/
-설명: ProxySQL 3.0.6가 최근에 발표되었으며, 새로운 다단계 릴리스 전략을 함께 소개했습니다. 안정성 및 생산성 사용에 집중하는 Stable Tier, 새로운 기능을 더 빠르게 도입하는 Innovative Tier, 그리고 AI/MCP Tier는 미래의 기능 포함, 포함된 AI 기능 등 앞으로의 능력을 탐색합니다.
-#ProxySQL #릴리스전략 #인공지능통합
+설명: ProxySQL 3.0.6가 최근에 발표되었으며, 새로운 다단계 릴리스 전략을 함께 제시했습니다. 안정성 기반 계층은 신뢰도와 생산성 사용에 중점을 두고 있으며, 혁신적인 기능이 더 빠르게 소개되는 혁신 계층과 AI/MCP 계층은 미래의 기능 포함, 포함된 AI 기능 포함하여 미래의 기능을 탐색합니다.
+#ProxySQL #AIIntegration #미래의기능 #신뢰성_기반_계층
 
 Translated content: ProxySQL 3.0.6 was recently released, along with a new multi-tier release strategy. The Stable Tier focuses on reliability and production use, the Innovative Tier introduces newer features earlier, and the AI/MCP Tier explores future capabilities, including AI integrations.
-#ProxySQL #릴리스전략 #인공지능통합
-
-Hashtags: #ProxySQL #릴리스전략 #인공지능통합
+#ProxySQL #AIIntegration #미래의기능 #신뢰성_기반_계층
 
