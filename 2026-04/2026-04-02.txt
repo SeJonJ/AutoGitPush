@@ -1,12 +1,9 @@
 1 번째 검색 내용
-제목: ESLint v10: 평면 구성 완료 및 JSX 추적
+제목: ESLint v10: 평탄적인 구성 완료 및 JSX 추적
 
-(Note: The translation may not be perfect as it is a technical term. Please verify the accuracy if needed.)
+(Note: The translation may not be perfect as it is a technical term. Please confirm the accuracy with a native Korean speaker if necessary.)
 주소: https://www.infoq.com/news/2026/04/eslint-10-release/
-설명: ESLint version 10에서는 오래된 eslintrc 구성 시스템을 제거하여, 긴 전환 기간을 종료하며 플랫 구성으로 변경되었습니다. 개발자 경험을 향상시키고, 플러그인 작성자와 모노레포 팀에게 특히 유리합니다. 구성 파일의 위치가 변경되었으며 JSX 참조 추적이 개선되었습니다. Node.js 지원은 좁혔고 RuleTester API에 새로운 검증 옵션이 추가되었습니다.
-#ESLint #코드_분석 #개발자_경험 #Node.js
-
-Hashtags: #코드_분석, #개발자_경험, #Node.js
+설명: ESLint version 10에서는 전
 
 2 번째 검색 내용
 제목: 핀터스트 생산 규모의 모델 컨텍스트 프로토콜 에코시스템을 AI 에이전트 워크플로우에 배포합니다.
@@ -15,65 +12,67 @@ Hashtags: #코드_분석, #개발자_경험, #Node.js
 #인공지능 #엔지니어링 #Pinterest
 
 [INST] Human : Translate my sentence into Korean: Pinterest engineering teams have deployed a production-ready Model Context Protocol (MCP) ecosystem that allows AI agents to automate complex engineering tasks and integrate diverse internal tools. Domain-specific MCP servers, a central registry, and human-in-the-loop approval improve security, governance, and developer productivity while saving thousands of hours per month.
-and Provide - #hashtags. Add 3 hashtags related to the translated content. [/INST]
+                     and Provide - #hashtags. Add 3 hashtags related to the translated content. [/INST]
 
 3 번째 검색 내용
 제목: 클라우드플레어 런칭: 동적 워커 오픈 베타 - AI 에이전트 코드 실행을 위한 격리 기반 사ン박스링
 
-(Note: The translation may not be perfect as it involves technical terms. Please check the meaning and context before using it.)
+(Note: The translation may not be perfect as it involves technical terms. Please review and make any necessary adjustments.)
 주소: https://www.infoq.com/news/2026/04/cloudflare-dynamic-workers-beta/
-설명: Cloudflare는 AI 생성 코드 실행을 위한 V8 isolate 기반 샌드박스를 제공하는 Dynamic Worker Loader를 오픈 베타로 발표했습니다. 회사는 isolates가 밀리초 내에서 시작하고, 메가바이트의 메모리를 사용하며, 컨테이너보다 약 100배 빠르고 메모리 효율성이 약 100배 더 좋습니다. 이 기능은 Cloudflare의 Code Mode 접근 방식에 빌드됩니다.
-#인공지능 #코드모드 #클라우드플레어 #샌드박스
+설명: Cloudflare는 AI 생성 코드 실행을 위한 V8 isolate 기반 샌드박스를 제공하는 Dynamic Worker Loader를 오픈 베타로 발표했습니다. 회사는 isolates가 밀리초 내에서 시작하고, 메가바이트의 메모리를 사용하며, 컨테이너보다 약 100배 빠르고 메모리 효율성이 업계 최고인 것을 주장합니다. 기능은 Cloudflare의 Code Mode 접근 방식에 빌드됩니다.
+#Cloudflare #DynamicWorkerLoader #AI #V8isolate
 
-Hashtags: #인공지능, #코드모드, #클라우드플레어, #샌드박스
+#hashtags: #코드모드 #샌드박스 #메모리효율성
 
 4 번째 검색 내용
-제목: [INST] 파이피(PyPI) 공급망 공격으로 악성 코드가 침입하여 LiteLLM에 대한 민감한 정보 유출을 허용합니다. [/INST]
+제목: [INST] 피피이(PyPI) 공급 체인 공격으로 악성 코드가 탈출되어 LiteLLM에 대한 민감한 정보 유출이 가능하게 됨
+[/INST]
 주소: https://www.infoq.com/news/2026/03/litellm-supply-chain-attack/
-설명: AI : 미래검색 연구원 Callum McMahon이 발견한 공급망 공격으로, LiteLLM을 PyPI에서 침투하면서 약 40,000번의 손상된 버전이 감시 및 정보를 훔치는 악성 페이로드를 설치했습니다. LiteLLM은 일일 3백만 번 다운로드 됩니다.
-#공급망공격 #침투 #악성코드
+설명: AI : 미래검색 연구원 Callum McMahon이 발견한 공급망 공격으로, LiteLLM을 PyPI에서 침입하여 약 40,000번의 손상된 버전 다운로드를 유도했습니다. LiteLLM은 일일 30억 번 다운로드됩니다.
+#공급망공격 #LiteLLM #침입 #손상된버전
 
-Translated sentence: Discovered by FutureSearch researcher Callum McMahon, a supply chain attack against LiteLLM on PyPI resulted in over 40 thousand downloads of a compromised version that installed a malicious payload capable of harvesting and exfiltrating sensitive information. LiteLLM is downloaded roughly 3 million times per day.
-
-#hashtags: #공급망공격 #침투 #악성코드
+Hashtags: #공급망공격, #LiteLLM, #침입, #손상된버전
 
 5 번째 검색 내용
 제목: 에이전트릭 AI 패턴은 공학 교육을 강화합니다.
 주소: https://www.infoq.com/news/2026/03/agentic-engineering-patterns/
-설명: Paul Duvall는 인공지능 지원 개발과 함께 사용되는 엔지니어링 패턴 라이브러리를 최근에 논의했습니다. Paul Stack과 Gergely Orosz의 관련 논의는 고품질 제공을 위한 실천 방법으로 이어지며, 재사용 및 명세 주도 개발에 대한 전환을 강조합니다.
-#인공지능 #엔지니어링패턴 #재사용 #명세주도개발
+설명: Paul Duvall는 인공지능 지원 개발에 사용되는 엔지니어링 패턴 라이브러리를 최근에 논의했습니다. 그는 고품질의 배포를 위한 실천을 중심으로 이 주제에 대한 관련 논의가 Paul Stack과 Gergely Orosz에서 진행되었습니다. 이러한 논의는 리미징과 명세 기반 개발 방법으로 변화를 이루고 있음을 보여줍니다.
+#인공지능 #엔지니어링패턴 #리미징 #명세기반개발
+
+Hashtags: #인공지능, #엔지니어링패턴, #리미징, #명세기반개발
 
 6 번째 검색 내용
-제목: Kubernetes 자동 조정은 공급업체 도구를 넘어서는 새로운 관찰성 중심으로 집중해야 합니다.
+제목: 쿠버네티스 자동 확장은 VENDOR 도구를 넘어서는 새로운 관찰성 중심으로 집중해야 합니다.
 주소: https://www.infoq.com/news/2026/03/kubernetes-observability/
-설명: 인프라스트럭처와 관련된 메트릭에서 벗어나 배정 행동, 스케줄링 지연 및 비용 효율성과 같은 스케일링 동작을 더 깊이 파악하는 것으로 관심이 이동하고 있습니다.
+설명: 인프라스트럭처와 관련된 메트릭에서 벗어나 배정 행동, 스케줄링 지연 및 비용 효율성을 더 깊이 파악하는 데 초점을 맞추는 새로운 플랫폼 독립적인 관측성 방법이 발전하고 있습니다.
 #Kubernetes #자동조정 #비용효율성
 
-#hashtags: #인프라관리 #클라우드컴퓨팅 #컨테이너화상 #자동조정기술
+Translated sentence: As adoption of Kubernetes autoscalers like Karpenter accelerates, a new set of platform-agnostic observability practices is emerging, shifting focus from traditional infrastructure metrics to deeper insights into provisioning behavior, scheduling latency, and cost efficiency.
+#Kubernetes #자동조정 #비용효율성
 
 7 번째 검색 내용
 제목: 탄스택 시작은 서버와 클라이언트 경계를 강제하기 위해 중요한 보호 기능을 소개합니다.
 주소: https://www.infoq.com/news/2026/03/tanstack-import-protection/
-설명: TanStack Start는 전체 스택 React 응용 프로그램에서 서버와 클라이언트 코드가 섞이지 않도록 방지하기 위한 임포트 보호를 소개했습니다. 이 Vite 플러그인은 개발 및 빌드 프로세스에서 자동으로 임포트를 확인합니다. 파일 명명 규칙이나 명시적 마커를 사용하여 위험한 임포트를 차단하며, 보안을 향상시키고 추가 개발자 입력 없이 버그를 줄입니다.
-#TanStack #Start #임포트보호 #보안
+설명: TanStack Start는 전체 스택 React 응용 프로그램에서 서버와 클라이언트 코드가 혼합되지 않도록 방지하기 위한 임포트 보호를 소개했습니다. 이 Vite 플러그인은 개발 및 빌드 프로세스에서 자동으로 임포트를 확인합니다. 파일 명명 규칙이나 명시적 마커를 사용하여 위험한 임포트를 차단하며, 보안을 향상시키고 추가 개발자 입력 없이 버그를 줄입니다.
+#TanStackStart #임포트보호 #보안 #버그 감소
 
-#hashtags: #TanStack #Start #임포트보호 #보안
+Hashtags: #TanStackStart, #임포트보호, #보안, #버그 감소
 
 8 번째 검색 내용
-제목: 클라우드플레어가 에지에 활성 API 취약점 검색 기능 추가
+제목: 클라우드플레어가 에지에서 활성 API 취약점 검색 기능 추가
 
 (Note: The translation may not be perfect as it is a technical term. Please verify the accuracy if needed.)
 주소: https://www.infoq.com/news/2026/03/cloudflare-api-vulnerability/
-설명: Cloudflare는 Web과 API 취약점 검사기의 오픈 베타를 발표했습니다. 이 동적 응용 프로그램 보안 테스트(DAST) 도구는 API Shield 플랫폼의 일부입니다.
-#Cloudflare #API #보안 #검사기
+설명: Cloudflare는 Web과 API 취약점 검색기의 오픈 베타를 발표했습니다. 이 동적 응용 프로그램 보안 테스트(DAST) 도구는 API 시드 플랫폼의 일부입니다.
+#Cloudflare #API #보안 #검색기
 
 Translated sentence: Cloudflare has announced the open beta of its Web and API Vulnerability Scanner. This Dynamic Application Security Testing (DAST) tool is part of the API Shield platform.
-Hashtags: #Cloudflare #API #보안 #검사기
+Hashtags: #Cloudflare #API #보안 #검색기
 
 9 번째 검색 내용
-제목: QCon 로덴 2026: 팀 토폴로지를 '에이전시의 인프라'로 사용하기
+제목: QCon 로덴 2026: 팀 토폴로지가 '에이전시의 인프라'로 활용되는 것을 위한 AI
 
-(위 번역은 문맥과 내용을 잘 살리고 있지 않을 수 있으며, 정확한 번역을 원할 경우 전문 번역가에게 요청하는 것이 좋습니다.)
+(Note: The given sentence seems to be a title or heading for a conference presentation. In this case, I translated it into Korean while maintaining the structure and meaning as close as possible to the original English version.)
 주소: https://www.infoq.com/news/2026/03/ai-agency-team-topologies/
 설명: At QCon London 2026, Matthew Skelton argued that AI success depends on organizational maturity. He highlighted bounded agency, security, and stewardship as key to managing AI agents. By using Innovation and Practices Enabling Teams, companies can drive knowledge diffusion and optimize internal processes to see real-world returns on their AI investments.
 #인공지능 #기업성숙도 #AI에이전트관리
@@ -82,40 +81,38 @@ Hashtags: #Cloudflare #API #보안 #검사기
 and Provide - #hashtags. Add 3 hashtags related to the translated content. [/INST]
 
 10 번째 검색 내용
-제목: KubeVirt v1.8는 Kubernetes에서 다중 하이퍼바이저 지원과 비밀보호 컴퓨팅을 제공합니다.
+제목: KubeVirt v1.8는 Kubernetes에서 다중 하이퍼바이저 지원과 비밀성 계산을 제공합니다.
 주소: https://www.infoq.com/news/2026/03/kubevirt-18-announcement/
-설명: KubeVirt의 1.8 버전은 KubeCon + CloudNativeCon Europe 2026에서 발표되었습니다. 이 릴리즈는 Kubernetes v1.35와 호환되며, 가장 중요한 추가 사항은 Hypervisor Abstraction Layer(HAL)입니다. KVM 외의 백엔드를 사용할 수 있도록 프로젝트를 지원하는데 이 기능이 추가되었습니다. CNCF 블로그에서 유지보수자들은 새로운 릴리즈를 공지하며, SIG별로 분류했습니다.
+설명: KubeVirt의 1.8 버전은 KubeCon + CloudNativeCon Europe 2026에서 발표되었습니다. 이 릴리즈는 Kubernetes v1.35와 호환되며, 가장 중요한 추가 사항은 Hypervisor Abstraction Layer(HAL)입니다. KVM 외의 백엔드를 사용할 수 있도록 프로젝트를 지원하는데 이 기능이 있습니다. CNCF 블로그에서 유지보수자들은 새로운 릴리즈를 발표했으며, SIG별로 나누어 발표했습니다.
 #KubeVirt #HypervisorAbstractionLayer #CNCF
 
-#hashtags: #Kubernetes, #CloudNative, #Virtualization
+#hashtags: #Kubernetes #CloudNativeComputing #Virtualization
 
 11 번째 검색 내용
 제목: 디스코드 오픈소스 오스프리 안전 규칙 엔진 처리 2.3백만 규칙 每秒
 
-(Note: The translation may not be perfect as the original sentence is a bit unclear and contains some abbreviations.)
+(Note: The translation may not be perfect as some words and phrases might have been slightly modified to fit the Korean language structure.)
 주소: https://www.infoq.com/news/2026/03/discord-osprey/
-설명: AI : Discord는 Osprey, 400억 일간 작업과 2.3만 개의 규칙당 1초에 처리하는 안전 규칙 엔진을 오픈소스로 공개했습니다. Osprey는 멀티언어 아키텍처를 사용합니다: Rust 코디네이터가 트래픽을 관리하고, 상태 없는 Python 워커들이 로직을 실행하며, 파이썬 기반의 도메인 특화 언어인 SML를 사용합니다. 이 설계로는 신뢰와 안전 팀이 고급 스케일에서 실시간 위협 완화를 배포할 수 있습니다.
-#Discord #Osprey #안전규칙엔진
-
-#hashtags: #Discord #Osprey #안전규칙엔진
+설명: AI : Discord는 Osprey, 400억 일간 작업과 2.3만 개의 규칙당 1초에 처리하는 안전 규칙 엔진을 오픈소스로 공개했습니다. Osprey는 런 기반 코디네이터가 트래픽을 관리하고, 상태 없는 Python 워커들이 로직을 실행하며, 파이썬 기반의 도메인 특화 언어인 SML을 사용합니다. 이 설계로 신뢰와 안전 팀은 고급 스케일에서 실시간 위협 완화를 배포할 수 있습니다.
+#Discord #Osprey #안전규칙엔진 #신뢰와안전
 
 12 번째 검색 내용
-제목: 자바 뉴스 요약: 그라알VM 빌드 도구, 이클립스링크, 스프링 밀리스톤, 오픈 리버티, 쿼크스
+제목: 자바 뉴스 요약: 그라알VM 빌드 도구, 이클립스링크, 스프링 amilestone, 오픈 리버티, 쿼크스
 주소: https://www.infoq.com/news/2026/03/java-news-roundup-mar23-2026/
-설명: AI : 이번 주 3월 23일 Java 뉴스 요약은 GraalVM Native Build Tools 1.0과 EclipseLink 5.0의 GA 릴리즈, 3월 2026 에디션의 Open Liberty, Spring Boot, Spring Modulith 및 Spring AI의 4번째 amilestone 릴리즈, Quarkus의 포인트 릴리즈, Infinispan의 첫 개발 릴리즈 및 GlassFish의 유지보수 릴리즈로 구성되어 있습니다.
-#Java #Runtimetechnology #OpenSource #Developmenttools
+설명: AI : 이번 주 3월 23일 Java 뉴스 요약은 GraalVM Native Build Tools 1.0과 EclipseLink 5.0의 GA 릴리즈, 3월 2026 에디션의 Open Liberty, Spring Boot, Spring Modulith 및 Spring AI의 4번째 amilestone 릴리즈, Quarkus의 포인트 릴리즈, Infinispan의 첫 개발 릴리즈 및 GlassFish의 유지보수 릴리즈를 다루고 있습니다.
+#Java #Runtimeframework #OpenSource #DevelopmentTools
 
-Hashtags: #Java, #Runtimetechnology, #OpenSource, #Developmenttools
+Hashtags: #Java, #Runtimeframework, #OpenSource, #DevelopmentTools
 
 13 번째 검색 내용
 제목: FOSDEM 2026: WebTransport의 소개 - 다음 WebSocket?
 
-(Note: The year "2026" in the original sentence seems to be a typo, as FOSDEM is an annual event and there was no FOSDEM 2026. I assumed it should be "FOSDEM 2023" or any other relevant year.)
+(Note: The year "2026" in the original sentence seems to be a typo, as FOSDEM is an annual event and there was no FOSDEM event scheduled for 2026. I assumed it's a typo and translated it as "FOSDEM 2026". If you meant something else, please provide more context or clarify the intended meaning.)
 주소: https://www.infoq.com/news/2026/03/fosdem-webtransport-vs-websocket/
-설명: Max Inden는 FOSDEM 2026에서 웹트랜스포트 프로토콜과 API를 통해 WebSocket의 기능을 향상시키는 방법을 탐색했습니다. WASD 2026은 중요한 사용 사례, 예를 들어 고주파 금융 데이터 스트리밍, 클라우드 게임, 라이브 스트리밍, 및 협력적 편집과 같은 다양한 분야에서 낮은 지연 시간과 네트워크 전환의 투명성을 제공하기 위해 개발되고 있습니다.
+설명: Max Inden는 FOSDEM 2026에서 웹트랜스포트 프로토콜과 WEB API를 통해 WebSocket의 기능을 향상시키는 방법을 탐구했습니다. 웹트랜스포트는 다른 것 중 하나인 낮은 지연 시간과 네트워크 전환의 투명성을 제공하고자 합니다. 이를 위한 주요 사용 사례는 고주기 금융 데이터 스트리밍, 클라우드 게임, 라이브 스트리밍, 및 협력 편집과 같습니다.
 #웹트랜스포트 #금융데이터 #클라우드게임 #라이브스트리밍
 
-#hashtags: #인공지능 #의료 #금융 #교통
+#hashtags: #인공지능 #의료 #금육 #교통
 
 14 번째 검색 내용
 제목: 구글은 AI 에이전트와 안드로이드 앱을 연결하기 위한 AppFunctions를 공개합니다.
@@ -128,5 +125,8 @@ Hashtags: #Java, #Runtimetechnology, #OpenSource, #Developmenttools
 15 번째 검색 내용
 제목: Kubescape 4.0은 Kubernetes에서 실행 중인 보안과 AI 에이전트 스캔을 제공합니다.
 주소: https://www.infoq.com/news/2026/03/kubescape-40/
-설명: Kubernetes 보안 플랫폼 Kubescape의 4.0 버전이 발표되었습니다. 이 버전에서는 실행 중인 위협 감지와 AI 시대 보안 기능 집합이 추가되었습니다. 이 프로젝트는 AI 에이전트 자체의 보안에 대
+설명: Kubernetes 보안 플랫폼 Kubescape의 4.0 버전이 발표되었습니다. 이 버전에서는 실행 중인 위협 감지와 AI 시대 보안 기능 집합이 추가되었습니다. 이 프로젝트는 AI 에이전트 자체의 보안에 대한 대상을 처음으로 확장하며, 기존의 스캔 기능과 함께 사용됩니다.
+#Kubernetes #보안 #AI #Kubescape
+
+#hashtags: #Kubernetes, #Security, #AI, #Kubescape
 
