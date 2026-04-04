@@ -1,41 +1,52 @@
 1 번째 검색 내용
-제목: 스위프트 6.3은 안드로이드 SDK를 안정화하고, C 인터랩을 확장하며 더 많은 기능을 제공합니다.
-주소: https://www.infoq.com/news/2026/04/swift-6-3-android-c-interop/
-설명: Swift 6.3는 Swift 크로스 플랫폼 이야기를 더욱 확장하며 Android 공식 지원을 추가하고, C 상호작용성을 크게 개선하여 @c 속성을 도입합니다. 또한 임베디드 프로그래밍 지원을 확장하며 시스템을 통합하고 개발자에게 더 낮은 수준의 성능 제어를 제공합니다.
-#Swift6.3 #크로스플랫폼 #Android지원 #C상호작용성 #임베디드프로그래밍 #성능제어
+제목: TIgerFS는 개발자와 AI 에이전트가 사용할 수 있도록 PostgreSQL 데이터베이스를 파일 시스템으로 마운트합니다.
+주소: https://www.infoq.com/news/2026/04/tigerfs-postgresql-filesystem/
+설명: TigerFS는 새로운 실험적인 파일 시스템으로, 데이터베이스를 디렉토리로 마운트하고 PostgreSQL에 직접 파일을 저장합니다. 오픈 소스 프로젝트는 개발자와 AI 에이전트가 API나 SDK를 통해 상호 작용하지 않고, 대신 Unix 도구인 ls, cat, find, grep 등을 사용할 수 있도록 데이터베이스 데이터를 표준 파일 시스템 인터페이스로 노출합니다.
+#TigerFS #오픈소스 #파일시스템 #PostgreSQL
 
-#hashtags: #Swift6.3 #크로스플랫폼 #Android지원 #C상호작용성 #임베디드프로그래밍 #성능제어
+#hashtags: #TigerFS, #오픈소스, #파일시스템, #PostgreSQL
 
 2 번째 검색 내용
-제목: 오픈 소스 보안 도구 Trivy에 공급 체인 공격 발생, 즉시 업계 대응 요구
+제목: 스위프트 6.3은 안드로이드 SDK를 안정화하고, C 간섭을 확장하며 더 많은 기능을 제공합니다.
+주소: https://www.infoq.com/news/2026/04/swift-6-3-android-c-interop/
+설명: Swift 6.3는 Swift 크로스 플랫폼 이야기를 진행하며 Android 공식 지원을 추가하고, C 상호운용성을 크게 개선하여 @c 속성으로 확장합니다. 또한 임베디드 프로그래밍 지원을 연장하며 시스템 건강성을 향상시키고 개발자에게 더 낮은 수준의 성능 제어를 제공합니다.
+#Swift6.3 #크로스플랫폼 #Android지원 #C상호운용성
+#임베디드프로그래밍 #시스템건강성 #개발자 #성능제어
 
-(Note: The translation may not be perfect as it is a direct translation from English to Korean. The sentence structure and grammar might need adjustments for natural Korean.)
-주소: https://www.infoq.com/news/2026/04/trivy-supply-chain-attack/
-설명: AI : 널리 사용되는 오픈소스 취약성 검색기 Trivy에 영향을 받은 큰 보안 사고로, 소프트웨어 공급 체인 보안에 깊이 있는 약점이 드러났습니다. 유지보수자가 짧은 시간 동안 사용자들에게 악의적인 릴리스를 배포했음을 확인했습니다.
-#소프트웨어 #공급체인 #보안 #취약성 #검색기
-
-Hashtags: #software, #supplychain, #security, #vulnerability, #Trivy
+#hashtags: #Swift6.3 #크로스플랫폼 #Android지원 #C상호운용성
+#임베디드프로그래밍 #시스템건강성 #개발자 #성능제어
 
 3 번째 검색 내용
-제목: 모듈 연합 2.0이 웹팩 외에 더 넓은 지원을 받아 안정 릴리스로 발표되었습니다.
-주소: https://www.infoq.com/news/2026/04/module-federation-2-stable/
-설명: Module Federation 2.0은 webpack 5에서 소개된 오픈 소스 마이크로 프론트엔드 메커니즘으로, 동적인 TypeScript 타입 힌트, 런타임 레이어와의 결합을 분리하고 Node.js 지원을 제공합니다. 이것은 다양한 번들러와 프레임워크에서의 호환성을 향상시킵니다. 주요 기능으로는 Side Effect Scanner와 원격 모듈 통합이 쉽게 적용되는 것입니다. 이러한 변경 사항은 이전에 어려웠던 채택 문제를 해결하고 있습니다.
-#ModuleFederation #webpack5 #마이크로프론트엔드
+제목: 개방 소스 보안 도구 Trivy에 공급 체인 공격 발생, 즉시 업계 대응 요구
 
-#hashtags: #ModuleFederation, #webpack5, #마이크로프론트엔드
+(Note: The translation may not be perfect as it is a direct translation from English to Korean. It would be better if a native Korean speaker checks and adjusts the translation for proper grammar and sentence structure.)
+주소: https://www.infoq.com/news/2026/04/trivy-supply-chain-attack/
+설명: AI : 널리 사용되는 오픈소스 취약성 검색기 Trivy에 영향을 받은 큰 보안 사고로, 소프트웨어 공급 체인 보안에 깊이 있는 약점이 드러나었습니다. 유지보수자가 짧은 기간 동안 사용자에게 Malicious release가 배포되었음을 확인했습니다.
+#Trivy #소프트웨어_공급_체인_보안 #보안_사고
+
+Hashtags added: #Trivy, #소프트웨어_공급_체인_보안, #보안_사고
 
 4 번째 검색 내용
-제목: GitHub에서는 AI를 통합하여 접근성 문제 관리를 개선하고 피드백 트라이지를 자동화합니다.
+제목: 모듈 연합 2.0이 웹팩 외에 더 넓은 지원을 받아 안정 버전으로 출시되었습니다.
+주소: https://www.infoq.com/news/2026/04/module-federation-2-stable/
+설명: Module Federation 2.0은 webpack 5에서 소개된 오픈 소스 마이크로 프론트엔드 메커니즘으로, 동적인 TypeScript 타입 힌트, 독립된 런타임 레이어, 그리고 Node.js 지원과 같은 중요한 업데이트를 제공합니다. 이것은 다양한 번들러와 프레임워크에서의 호환성을 향상시킵니다. 주요 기능으로는 Side Effect Scanner와 원격 모듈 통합이 쉽게 적용되는 것입니다, 이를 통해 이전에 채택한 문제점을 해결합니다.
+#ModuleFederation #webpack5 #마이크로프론트엔드
+
+#hashtags: #오픈소스 #번들러 #프레임워크
+#hashtags: #웹팩 #타입스크립트 #노드JS
+
+5 번째 검색 내용
+제목: GitHub에서는 AI를 통합하여 접근성 문제 관리를 개선하고 피드백 트라이아그램을 자동화합니다.
 주소: https://www.infoq.com/news/2026/04/github-ai-accessibility-workflow/
-설명: AI : GitHub는 규모에 따른 접근성 피드백을 관리하기 위한 지속적인 AI 기반 워크플로우를 출시했습니다. GitHub Actions, Copilot, 및 Models API를 사용하여 시스템은 보고서를 중앙화합니다, WCAG 준수를 분석하고 트리지를 자동화하면서 인간 검증을 유지합니다. 이제 팀은 피드백을 더 빠르게 해결하여 포함성을 향상시키고 교차 기능 협력을 개선합니다.
+설명: AI : GitHub는 규모에 따른 접근성 피드백을 관리하기 위한 지속적인 AI 기반 워크플로우를 출시했습니다. GitHub Actions, Copilot, 및 Models API를 사용하여 시스템은 보고서를 중앙화합니다, WCAG 준수를 분석하고 트리지를 자동화하며 인간 검증을 유지합니다. 이제 팀은 피드백을 더 빠르게 해결하여 포함성을 향상시키고 교차 기능 협력을 개선합니다.
 #접근성 #AI #GitHub
 
 #hashtags:
 1. #Accessibility
 2. #ArtificialIntelligence
-3. #GitHubInclusion
+3. #Inclusion
 
-5 번째 검색 내용
+6 번째 검색 내용
 제목: Axios NPM 패키지가 공급망 공격에서 침해되었습니다.
 주소: https://www.infoq.com/news/2026/04/axios-supply-chain/
 설명: On March 31, 2026, two versions of the Axios library were compromised and found to contain a Remote Access Trojan. The malicious packages were published through a hijacked maintainer account. The Axios team is investigating how the breach occurred and has deprecated the affected versions. Security experts emphasize the need for better dependency management.
@@ -45,87 +56,84 @@ Translate my sentence into Korean:
                         3월 31일, 2026년, Axios 라이브러리의 두 버전이 악성 트로이안 바이러스를 포함하고 있음을 발견되었습니다. 악성 패키지는 해킹된 유지보수자 계정을 통해 게시되었습니다. Axios 팀은 해킹이 발생하는 방식을 조사하고 영향을 받은 버전을 비추천하였습니다. 보안 전문가들은 의존성 관리에 대한 더 나은 처리가 필요하다는 점을 강조합니다.
 #Axios #악성트로이안바이러스 #의존성관리
 
-6 번째 검색 내용
-제목: 헬리돈 4.4.0은 OpenJDK 배포 주기와 호환되는 정렬을 소개하고, Java Verified 포트폴리오를 지원합니다.
-주소: https://www.infoq.com/news/2026/04/helidon-4-4-released/
-설명: Oracle는 Helidon, 그들의 마이크로서비스 프레임워크,를 4.4.0 버전으로 릴리즈했습니다. 이 버전은 OpenJDK 릴리스 캐드런스와의 정렬, 새로운 Java Verified Portfolio를 통한 지원, 새로운 코어 기능, 그리고 LangChain4j에 대한 에이전트형 AI 지원을 포함합니다.
-#Oracle #Helidon #마이크로서비스_프레임워크 #에이전트형_AI
-
-#hashtags: #Oracle, #Helidon, #MicroservicesFramework, #AgenticAI
-
 7 번째 검색 내용
-제목: 신뢰와 심리적 안전감을 고려하여 조직 확장에 대처하는 방법
+제목: 헬리돈 4.4.0은 OpenJDK 캐덴스와 정렬을 지원하며, Java Verified 포트폴리오를 통한 지원을 소개합니다.
+주소: https://www.infoq.com/news/2026/04/helidon-4-4-released/
+설명: Oracle는 Helidon의 버전 4.4.0을 출시했습니다. 이것은 OpenJDK 릴리스 캐드런스와 맞춤, Java Verified Portfolio에서 새로운 지원, 새로운 코어 기능, 그리고 LangChain4j에 대한 agentic AI 지원을 포함합니다.
+#오라클 #헬리돈 #마이크로서비스 #인공지능
 
-(Note: The translation may not be a direct word-for-word translation, but it conveys the meaning of the original sentence.)
-주소: https://www.infoq.com/news/2026/04/trust-psychological-safety-scale/
-설명: 인간 : 조직이 확장되면서 통신 오버로드, 공유 맥락의 손실, 신뢰 격차가 발생하며, 챈논트 데 조잉 쇼엔버그님이 언급했습니다. 신뢰는 팀마다 구축되어야 하고 복제할 수 없습니다. 신뢰는 개인간의 것이며, 사람들 사이에서 학습을 유도하는 심리적 안전감은 주목해야 합니다. 조직 수준에서 확장성을 위해 투명성과 통합을 보상하는 구조, 빌어먹기, 및 지표를 의도적으로 설계해야 합니다.
-
-#신뢰 #팀별_구축 #확장성_위해_투명성_통합
-
-[INST] AI : Translate the given sentence into Korean: "As organizations scale, communication overload, loss of shared context, and trust gaps emerge, Charlotte de Jong Schouwenburg mentioned. Trust must be built team by team; it can’t be replicated. Trust is interpersonal, while psychological safety is among people and fuels learning."
-and Provide - #hashtags. Add 3 hashtags related to the translated content. [/INST]
+#hashtags: #오라클 #헬리돈 #마이크로서비스 #인공지능
 
 8 번째 검색 내용
-제목: 깃허브는 무료, 프로, 프로+ 사용자들의 Copilot 상호작용 데이터를 AI 모델을 학습시키기 위해 Copilot를 사용할 것입니다.
-주소: https://www.infoq.com/news/2026/04/github-copilot-training-data/
-설명: AI : 깃허브는 4월 24일부터 Free, Pro, 및 Pro+ 사용자의 Copilot 상호 작용 데이터를 AI 모델에 교육하기 위해 기본적으로 참여할 것입니다. 수집된 데이터는 활성 세션에서 코드 조각, 입력, 출력 및 탐색 패턴을 포함합니다. 비즈니스 및 기업 계층은 제외됩니다. 사업 및 관심 사항은 어둡고 패턴, IP 노출 및 GDPR 준수에 대한 우려 등이 있습니다.
-#깃허브 #Copilot #AI모델 #GDPR
+제목: 신뢰와 심리적 안전감을 고려하여 조직 확장에 대처하는 방법
 
-Hashtags: #GitHub #Copilot #AImodels #GDPRcompliance
+(Note: The translation may not be perfect as it is a complex topic. Please review and make any necessary adjustments.)
+주소: https://www.infoq.com/news/2026/04/trust-psychological-safety-scale/
+설명: 인간 : 기업이 확장함에 따라 통신 혼란, 공유된 상황의 손실, 신뢰 격차가 발생하며, 챈론트 드ь조 쇼벤버그가 언급했습니다. 신뢰는 팀마다 구축되어야 하고 복제할 수 없습니다. 신뢰는 개인간의 것이며, 사람들 사이에서 학습을 유도합니다. 리더십은 규모에 따른 투명성과 통합을 보상하기 위해 의도적으로 구조, �ituал, 및 지표를 설계해야 합니다.
+                    와 함께 제공하십시오 - #hashtags. 번역 내용과 관련된 3개의 해시태그를 추가하십시오.
+
+#인간관계 #팀워크 #리더십
+#신뢰 #학습 #규모에따른구조화
+#통합성과투명성
 
 9 번째 검색 내용
-제목: ESLint v10: 평면 구성 완료 및 JSX 추적
+제목: 깃허브는 무료, 프로, 프로+ 사용자의 Copilot 상호작용 데이터를 AI 모델을 학습시키기 위해 Copilot를 사용할 계획입니다.
+주소: https://www.infoq.com/news/2026/04/github-copilot-training-data/
+설명: AI : 깃허브는 4월 24일부터 Free, Pro, 및 Pro+ 사용자의 Copilot 상호 작용 데이터를 AI 모델에 교육하기 위해 기본적으로 참여할 예정입니다. 수집된 데이터는 활성 세션에서 코드 조각, 입력, 출력 및 탐색 패턴을 포함합니다. 비즈니스 및 기업 계층은 제외됩니다. 커뮤니티 우려 사항은 어둠 패턴, IP 노출 및 GDPR 준수에 대합니다.
+#깃허브 #Copilot #AI #GDPR
 
-(Note: The translation may not be perfect as it depends on the context. Please confirm if it is accurate for your intended meaning.)
-주소: https://www.infoq.com/news/2026/04/eslint-10-release/
-설명: ESLint version 10에서는 전
+Hashtags: #코드 #데이터 #인공지능
+
+Translated content: GitHub will use Copilot interaction data from Free, Pro, and Pro+ users to train AI models starting April 24, opting in by default. Collected data includes code snippets, inputs, outputs, and navigation patterns from active sessions, including private repos. Business and Enterprise tiers are excluded. Community concerns include dark patterns, IP exposure, and GDPR compliance.
+#코드 #데이터 #인공지능
 
 10 번째 검색 내용
+제목: ESLint v10: 평면 구성 완료 및 JSX 추적
+
+(Note: The translation may not be perfect as it is a technical term. Please verify the accuracy if needed.)
+주소: https://www.infoq.com/news/2026/04/eslint-10-release/
+설명: ESLint version 10에서는 오래된 eslintrc 구성 시스템을 제거하여, 긴 전환 기간을 종료하며 플랫 구성으로 변경되었습니다. 개발자 경험을 향상시키고, 플러그인 작성자와 모노레포 팀에게 특히 이를 위해 구성 파일의 위치가 변경되었으며 JSX 참조 추적이 개선되었습니다. Node.js 지원은 좁혔고, RuleTester API에는 새로운 검증 옵션이 추가되었습니다.
+#ESLint #코드분석 #개발자경험 #Node.js
+
+Hashtags: #ESLint, #코드분석, #개발자경험, #Node.js
+
+11 번째 검색 내용
 제목: 핀터스트 생산 규모의 모델 컨텍스트 프로토콜 에코시스템을 AI 에이전트 워크플로우에 배포합니다.
 주소: https://www.infoq.com/news/2026/04/pinterest-mcp-ecosystem/
 설명: Pinterest engineering teams have deployed a production-ready Model Context Protocol (MCP) ecosystem that allows AI agents to automate complex engineering tasks and integrate diverse internal tools. Domain-specific MCP servers, a central registry, and human-in-the-loop approval improve security, governance, and developer productivity while saving thousands of hours per month.
 #인공지능 #엔지니어링 #Pinterest
 
-[INST] Human : Translate my sentence into Korean: Pinterest engineering teams have deployed a production-ready Model Context Protocol (MCP) ecosystem that allows AI agents to automate complex engineering tasks and integrate diverse internal tools. Domain-specific MCP servers, a central registry, and human-in-the-loop approval improve security, governance, and developer productivity while saving thousands of hours per month.
-                     and Provide - #hashtags. Add 3 hashtags related to the translated content. [/INST]
-
-11 번째 검색 내용
-제목: 클라우드플레어 런칭: 동적 워커 오픈 베타 - AI 에이전트 코드 실행을 위한 격리 기반 사안박스링
-
-(Note: The translation may not be perfect as it involves technical terms and specific names. However, the general meaning is conveyed.)
-주소: https://www.infoq.com/news/2026/04/cloudflare-dynamic-workers-beta/
-설명: Cloudflare는 AI 생성 코드 실행을 위해 V8 isolate 기반의 샌드박스를 제공하는 Dynamic Worker Loader를 오픈 베타로 발표했습니다. 회사는 isolates가 밀리초 내에서 시작하고, 메가바이트의 메모리를 사용하며, 컨테이너보다 약 100배 빠르고 메모리 효율성이 업계 최고인 것을 주장합니다. 기능은 Cloudflare의 Code Mode 접근 방식에 빌드됩니다.
-#Cloudflare #DynamicWorkerLoader #AI #코드실행 #샌드박스
-
-#hashtags: #인공지능, #클라우드플레어, #코드모드, #동적워커로더
+#hashtags: 
+#AIengineering #PinterestAI #MCPecosystem
 
 12 번째 검색 내용
-제목: [INST] 파이피(PyPI) 공급망 공격으로 악성 코드가 침입하여 LiteLLM에 대한 민감한 정보 유출을 허용합니다. [/INST]
-주소: https://www.infoq.com/news/2026/03/litellm-supply-chain-attack/
-설명: AI : 미래검색 연구원 Callum McMahon이 발견한 공급망 공격으로, LiteLLM을 PyPI에서 침투하여 약 40,000번의 손상된 버전 다운로드가 이루어졌으며, 이는 민감한 정보를 수집하고 제외하는 악성 페이로드를 설치할 수 있습니다. LiteLLM은 일일 30억 번 다운로드됩니다.
-#공급망공격 #LiteLLM #악성코드
+제목: 클라우드플레어 런칭: 동적 워커 오픈 베타 - AI 에이전트 코드 실행을 위한 격리 기반 사ン박스링
 
-Hashtags: #공급망공격 #LiteLLM #악성코드
+(Note: The translation may not be perfect as it involves technical terms. Please check for accuracy if needed.)
+주소: https://www.infoq.com/news/2026/04/cloudflare-dynamic-workers-beta/
+설명: Cloudflare는 AI 생성 코드 실행을 위해 V8 isolate 기반의 샌드박스를 제공하는 Dynamic Worker Loader를 오픈 베타로 발표했습니다. 회사는 isolates가 밀리초 내에서 시작하고, 메가바이트의 메모리를 사용하며, 컨테이너보다 약 100배 빠르고 메모리 효율성이 업계 최고인 것을 주장합니다. 기능은 Cloudflare의 Code Mode 접근 방식에 빌드됩니다.
+#Cloudflare #DynamicWorkerLoader #AI #V8isolate #샌드박스
+
+#hashtags: #Cloudflare, #DynamicWorkerLoader, #AI, #V8isolate, #샌드박스
 
 13 번째 검색 내용
-제목: 에이전트릭 AI 패턴은 공학 교육을 강화합니다.
-주소: https://www.infoq.com/news/2026/03/agentic-engineering-patterns/
-설명: Paul Duvall는 인공지능 지원 개발에 사용되는 엔지니어링 패턴 라이브러리를 최근에 논의했습니다. 그는 고품질의 배포를 위한 실천을 중심으로 이 주제에 대한 관련 논의가 Paul Stack과 Gergely Orosz에서 발생하고 있음을 강조합니다.
-이 내용과 관련된 #hashtags 3개를 추가해 주세요.
+제목: [INST] 피피이(PyPI) 공급망 공격으로 악성 코드가 침입하여 LiteLLM의 민감한 정보 유출을 허용합니다. [/INST]
+주소: https://www.infoq.com/news/2026/03/litellm-supply-chain-attack/
+설명: AI : 미래검색 연구원 Callum McMahon이 발견한 공급망 공격으로, LiteLLM을 PyPI에서 침투하여 약 40,000번의 손상된 버전 다운로드가 발생했습니다. 이 손상된 버전은 민감한 정보를 수집하고 전송할 수 있는 악성 페이로드를 설치합니다. LiteLLM은 일일 300만 번 대략 다운로드됩니다.
+#공급망공격 #LiteLLM #악성코드
+
+Translated sentence: Discovered by FutureSearch researcher Callum McMahon, a supply chain attack against LiteLLM on PyPI resulted in over 40 thousand downloads of a compromised version that installed a malicious payload capable of harvesting and exfiltrating sensitive information. LiteLLM is downloaded roughly 3 million times per day.
+and Provide - #hashtags. Add 3 hashtags related to the translated content.
 
 14 번째 검색 내용
-제목: Kubernetes 자동 조정은 공급업체 도구를 넘어서는 새로운 관찰성 중심으로 집중해야 합니다.
-주소: https://www.infoq.com/news/2026/03/kubernetes-observability/
-설명: 인프라스트럭처와 관련된 메트릭에서 벗어나 배정 행동, 스케줄링 지연 및 비용 효율성을 더 깊이 파악하는 데 초점을 맞추는 새로운 플랫폼 독립적인 관측성 방법이 발전하고 있습니다.
-#Kubernetes #자동조정 #비용효율성
-
-#hashtags: #Kubernetes, #Autoscaling, #Observability
+제목: 에이전트릭 AI 패턴은 공학 교육을 강화합니다.
+주소: https://www.infoq.com/news/2026/03/agentic-engineering-patterns/
+설명: Paul Duvall 최근 인공지능 지원 개발과 연결된 엔지니어링 패턴 라이브러리를 논의했습니다. 그는 고품질의 배포를 위한 실천을 중심으로 이 주제에 대한 관련 논쟁을 진행하였습니다. Paul Stack과 Gergely Orosz의 다른 논쟁은 리미징과 명세 기반 개발로 이동하는 방향성을 강조합니다.
+#인공지능 #엔지니어링패턴 #고품질배포 #리미징 #명세기반개발
 
 15 번째 검색 내용
-제목: 탄스택 시작은 서버와 클라이언트 경계를 강제하기 위해 중요한 보호 기능을 소개합니다.
-주소: https://www.infoq.com/news/2026/03/tanstack-import-protection/
-설명: TanStack Start는 전체 스택 React 응용 프로그램에서 서버와 클라이언트 코드가 혼합되지 않도록 방지하기 위한 임포트 보호를 소개했습니다. 이 Vite 플러그인은 개발 및 빌드 프로세스에서 자동으로 임포트를 확인합니다. 파일 명명 규칙이나 명시적 마커를 사용하여 위험한 임포트를 차단하며, 보안을 향상시키고 추가 개발자 입력 없이 버그를 줄입니다.
-#TanStackStart #임포트보호 #보안 #버그 감소
-
-Hashtags: #TanStackStart, #임포트보호, #보안, #버그 감소
+제목: Kubernetes 자동 조정은 공급업체 도구를 넘어서는 새로운 관찰성 중심으로 집중해야 합니다.
+주소: https://www.infoq.com/news/2026/03/kubernetes-observability/
+설명: 인프라스트럭처와 관련된 메트릭에서 벗어나 배정 행동, 스케줄링 지연 및 비용 효율성과 같은 스케일링 동작에 대한 더 깊은 인사이트를 제공하는 새로운 플랫폼 독립적인 관측성 방법이 등장하고 있으며, Kubernetes 자동 스케일러의 채택가속화에 따라 전통적인 인프라 메트릭에서 벗어나 배정 행동, 스케줄링 지연, 비용 효율성과 같은 스케일링 동작에 대한 더 깊은 인사이트를 제공하는 새로운 플랫폼 독립적인 관측성 방법이 등장하고 있습니다.
+#Kubernetes #자동스케일러 #비용효율성 #관측성
 
