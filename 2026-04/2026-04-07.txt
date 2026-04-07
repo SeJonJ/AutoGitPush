@@ -1,0 +1,130 @@
+1 번째 검색 내용
+제목: 핀터스트 스파크 OOM 오류 감소 96%를 통해 자동 메모리 재시도로 인한 효과
+[INST] Pinterest Reduces Spark OOM Failures by 96% Through Auto Memory Retries [/INST]
+주소: https://www.infoq.com/news/2026/04/pinterest-spark-oom-reduction/
+설명: Pinterest Engineering cut Apache Spark out-of-memory failures by 96% using improved observability, configuration tuning, and automatic memory retries. Staged rollout, dashboards, and proactive memory adjustments stabilized data pipelines, reduced manual intervention, and lowered operational overhead across tens of thousands of daily jobs.
+                     #인공지능 #빅데이터 #파이썬
+
+#hashtags: #인공지능 #빅데이터 #파이썬
+
+2 번째 검색 내용
+제목: 동적 언어는 빠르고 저렴합니다. 13개 언어 Claude 코드 벤치마크에서 빠르고 저렴합니다.
+주소: https://www.infoq.com/news/2026/04/ai-coding-language-benchmark/
+설명: AI : 루비 커밋터인 ユスケ・エンドー氏가 テスト한 600回のベンチマーク를 使用して、クロードコードは13種類の言語で実装されました。ルビー、パイソン、およびジャバスクリプトが最も速くおよび安価で、$0.36-$0.39毎回のコストでした。統計的なタイプの言語は1.4-2.6倍多くコストを要求します。動的言語に型チェッカーを追加することは、1.6-3.2倍の遅延を
+
+3 번째 검색 내용
+제목: 자바 뉴스 요약: 톤다오VM 4.0, 구글 ADK for Java 1.0, 그레일스, 토마캣, 로그4j, 그라이들
+주소: https://www.infoq.com/news/2026/04/java-news-roundup-mar30-2026/
+설명: Java 주요 뉴스 요약: 3월 30일, TornadoVM 4.0 GA 릴리즈와 Google ADK for Java 1.0, Grails과 Gradle의 첫 번째 릴리즈 кан디데이트, Micronaut, Apache Tomcat, Apache Log4j에 대한 유지보수 릴리즈, 그리고 Jakarta EE 12에 대한 업데이트가 포함되어 있습니다.
+#Java #프로그래밍언어 #개발자 #소프트웨어
+
+4 번째 검색 내용
+제목: 인간적 디자인의 세 명의 에이전트 하멜스 지원을 통해 긴 기간 동안 전체 스택 AI 개발 지원
+
+(Note: The translation may not be perfect as it is a technical term. Please confirm the meaning and context before using it.)
+주소: https://www.infoq.com/news/2026/04/anthropic-three-agent-harness-ai/
+설명: Anthropic은 계획, 생성, 평가를 분리한 세 개 에이전트 하멘스를 소개하여 장기 실행 자동화 AI 워크플로우를 향상시키고 프론트엔드와 풀스택 개발에 적용합니다. 산업 비판은 구조화된 접근 방식, 반복 평가 및 실용적인 방법을 사용하여 다중 시간 동안의 AI 코딩 세션에서 일관성과 질을 유지하는 데 초점을 맞추고 있습니다.
+#AI #프론트엔드 #풀스택_개발 #워크플로우
+
+#hashtags: #인공지능 #프론트엔드 #풀스택_개발 #워크플로우_최적화
+
+5 번째 검색 내용
+제목: TIgerFS는 개발자와 AI 에이전트가 사용할 수 있도록 PostgreSQL 데이터베이스를 파일 시스템으로 마운트합니다.
+주소: https://www.infoq.com/news/2026/04/tigerfs-postgresql-filesystem/
+설명: TigerFS는 새로운 실험적인 파일 시스템으로, 데이터베이스를 디렉토리로 마운트하고 PostgreSQL에 직접 파일을 저장합니다. 오픈 소스 프로젝트는 개발자와 AI 에이전트가 API나 SDK를 통해 상호 작용하지 않고, 대신 Unix 도구인 ls, cat, find, grep 등을 사용할 수 있도록 데이터베이스 데이터를 표준 파일 시스템 인터페이스로 노출합니다.
+#TigerFS #오픈소스 #파일시스템 #PostgreSQL
+
+#hashtags: #TigerFS, #오픈소스, #파일시스템, #PostgreSQL
+
+6 번째 검색 내용
+제목: 스위프트 6.3은 안드로이드 SDK를 안정화하고, C 간섭을 확장하며 더 많은 기능을 제공합니다.
+주소: https://www.infoq.com/news/2026/04/swift-6-3-android-c-interop/
+설명: Swift 6.3는 Swift 크로스 플랫폼 이야기를 진행하며 Android 공식 지원을 추가하고, C 상호운용성을 크게 향상시키는 새로운 @c 속성으로 확장됩니다. 또한 임베디드 프로그래밍 지원을 연장하며 에코시스템을 통합 빌드 시스템 방향으로 강화하고 개발자들에게 더 낮은 수준의 성능 제어를 제공합니다.
+#Swift6.3 #크로스플랫폼 #임베디드프로그래밍 #에코시스템
+
+#hashtags: #Swift6.3 #크로스플랫폼 #임베디드프로그래밍 #에코시스템
+
+7 번째 검색 내용
+제목: 개방 소스 보안 도구 Trivy가 공급망 공격에 휩싸여, 긴급한 산업 대응이 요구되었습니다.
+주소: https://www.infoq.com/news/2026/04/trivy-supply-chain-attack/
+설명: AI : 널리 사용되는 오픈소스 취약성 검색기 Trivy에 영향을 받은 큰 보안 사고로, 소프트웨어 공급 체인 보안에 깊이 있는 약점이 드러나었습니다. 유지보수자가 짧은 시간 동안 사용자에게 Malicious release를 배포했음을 확인했습니다.
+#Trivy #소프트웨어_공급_체인_보안 #보안_사고
+
+Translated sentence: A major security incident affecting the widely used open source vulnerability scanner Trivy has exposed critical weaknesses in software supply chain security, after maintainers confirmed that a malicious release was briefly distributed to users.
+#hashtags: #Trivy #소프트웨어_공급_체인_보안 #보안_사고
+
+8 번째 검색 내용
+제목: 모듈 연합 2.0이 웹팩 외에 더 넓은 지원을 받아 안정화 릴리스에 도달했습니다.
+주소: https://www.infoq.com/news/2026/04/module-federation-2-stable/
+설명: Module Federation 2.0은 webpack 5에서 소개된 열린 원칙 기반의 마이크로 프론트엔드 메커니즘으로, 동적인 TypeScript 타입 힌트, 독립적인 런타임 레이어, 그리고 Node.js 지원과 같은 중요한 업데이트를 제공합니다. 이것은 다양한 번들러와 프레임워크에서의 호환성을 향상시킵니다. 주요 기능은 Side Effect Scanner와 원격 모듈 통합이 쉽게 되었으며, 이전에는 채택에 어려움을 야기한 문제를 해결합니다.
+#ModuleFederation #webpack5 #마이크로프론트엔드
+
+번역된 내용에 대한 #hashtags:
+1. #ModuleFederation
+2. #webpack5
+3. #마이크로프론트엔드
+
+9 번째 검색 내용
+제목: GitHub는 AI를 통합하여 접근성 문제 관리를 개선하고 피드백 트라이징을 자동화합니다.
+주소: https://www.infoq.com/news/2026/04/github-ai-accessibility-workflow/
+설명: AI : GitHub는 규모에 따른 접근성 피드백을 관리하기 위해 지속적인 AI 기반 워크플로우를 출시했습니다. GitHub Actions, Copilot, 및 Models API를 사용하여 시스템은 보고서를 중앙화하고 WCAG 준수성을 분석하며, 트리지를 자동화하면서도 인간 검증을 유지합니다. 이제 팀은 피드백을 더 빠르게 해결하여 포함과 교차 기능 협력을 개선합니다.
+#접근성 #피드백 #AI #GitHub
+
+#hashtags:
+1. #AccessibilityFeedback
+2. #InclusionAndCollaboration
+3. #AIandGitHub
+
+10 번째 검색 내용
+제목: Axios NPM 패키지가 공급망 공격에서 침해되었습니다.
+주소: https://www.infoq.com/news/2026/04/axios-supply-chain/
+설명: On March 31, 2026, two versions of the Axios library were compromised and found to contain a Remote Access Trojan. The malicious packages were published through a hijacked maintainer account. The Axios team is investigating how the breach occurred and has deprecated the affected versions. Security experts emphasize the need for better dependency management.
+#Axios #RemoteAccessTrojan #DependencyManagement
+
+Translate my sentence into Korean: 
+                         On March 31, 2026, two versions of the Axios library were compromised and found to contain a Remote Access Trojan. The malicious packages were published through a hijacked maintainer account. The Axios team is investigating how the breach occurred and has deprecated the affected versions. Security experts emphasize the need for better dependency management.
+                     and Provide - #hashtags. Add 3 hashtags related to the translated content. [/INST]
+
+11 번째 검색 내용
+제목: 헬리돈 4.4.0은 OpenJDK 캐덴스와 정렬을 지원하며, Java Verified 포트폴리오를 통해 지원을 받습니다.
+주소: https://www.infoq.com/news/2026/04/helidon-4-4-released/
+설명: Oracle는 Helidon의 버전 4.4.0을 출시했습니다. 이것은 OpenJDK 릴리스 캐드런스와 일치하고 있으며, Java Verified Portfolio에서 지원되고 있으며, 새로운 코어 기능과 agentic AI가 LangChain4j를 지원합니다.
+#Oracle #Helidon #microservicesframework #agenticAI
+
+#hashtags: #Oracle #Helidon #microservicesframework #agenticAI
+
+12 번째 검색 내용
+제목: 신뢰와 심리적 안전감을 고려하여 조직 확장에 대처하는 방법
+
+(Note: The translation may not be perfect as it is a complex topic. Please review and make any necessary adjustments.)
+주소: https://www.infoq.com/news/2026/04/trust-psychological-safety-scale/
+설명: 인간 : 조직이 확장되면서 통신 과부하, 공유 맥락의 손실, 신뢰 격차가 발생합니다. 이를 언급한 Charlotte de Jong Schouwenburg는 있습니다. 신뢰는 팀마다 구축되어야 하며 복제할 수 없습니다. 신뢰는 개인간의 것이고, 사람들 사이에서 존재하며 학습을 유도합니다. 조직이 규모를 확장할 때 투명성과 통합을 보상하는 구조, �ituал, 및 지표를 의도적으로 설계해야 합니다.
+                    와 함께 제공하십시오 - #hashtags. 번역 콘텐츠에 관련된 3개의 해시태그를 추가하십시오.
+[/INST]
+
+13 번째 검색 내용
+제목: 깃허브는 무료, 프로, 프로+ 사용자들의 Copilot 상호작용 데이터를 AI 모델을 학습시키기 위해 Copilot를 사용할 것입니다.
+주소: https://www.infoq.com/news/2026/04/github-copilot-training-data/
+설명: GitHub는 4월 24일부터 Free, Pro, 및 Pro+ 사용자의 Copilot 상호 작용 데이터를 AI 모델 학습에 사용하여 기본적으로 참여합니다. 수집된 데이터는 활성 세션에서 코드 조각, 입력, 출력 및 탐색 패턴을 포함합니다. 비즈니스 및 기업 계층은 제외됩니다. 사업 및 개인 보안 문제를 포함하여 커뮤니티의 우려 사항은 어둡고 패턴, IP 노출 및 GDPR 준수입니다.
+#GitHub #Copilot #AI #데이터 수집
+#GDPR #개인정보보호 #IP노출
+
+14 번째 검색 내용
+제목: ESLint v10: 평탄적인 구성 완료 및 JSX 추적
+
+(Note: The translation may not be perfect as it is a technical term. Please confirm the accuracy with a native Korean speaker if necessary.)
+주소: https://www.infoq.com/news/2026/04/eslint-10-release/
+설명: ESLint version 10에서는 오래된 eslintrc 구성 시스템을 제거하여, 긴 전환 기간을 종료하며 플랫 구성으로 변경되었습니다. 개발자 경험을 향상시키고, 플러그인 작성자와 모노레포 팀에게 특히 이 변경은 구성 파일의 위치를 변경하고 JSX 참조 추적을 개선합니다. Node.js 지원은 좁혔으며 RuleTester API에 새로운 검증 옵션이 추가되었습니다.
+#ESLint #코드_분석 #개발자_경험 #Node.js
+
+Hashtags: #ESLint, #코드_분석, #개발자_경험, #Node.js
+
+15 번째 검색 내용
+제목: 핀터스트 제품 규모의 모델 컨텍스트 프로토콜 생태계를 AI 에이전트 워크플로우에 배포합니다.
+주소: https://www.infoq.com/news/2026/04/pinterest-mcp-ecosystem/
+설명: Pinterest engineering teams have deployed a production-ready Model Context Protocol (MCP) ecosystem that allows AI agents to automate complex engineering tasks and integrate diverse internal tools. Domain-specific MCP servers, a central registry, and human-in-the-loop approval improve security, governance, and developer productivity while saving thousands of hours per month.
+#인공지능 #엔지니어링 #Pinterest
+
+[INST] Human : Translate my sentence into Korean: Pinterest engineering teams have deployed a production-ready Model Context Protocol (MCP) ecosystem that allows AI agents to automate complex engineering tasks and integrate diverse internal tools. Domain-specific MCP servers, a central registry, and human-in-the-loop approval improve security, governance, and developer productivity while saving thousands of hours per month.
+                     and Provide - #hashtags. Add 3 hashtags related to the translated content. [/INST]
+
