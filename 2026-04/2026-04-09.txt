@@ -1,0 +1,138 @@
+1 번째 검색 내용
+제목: 탐슨 CSS 4.2가 Webpack 플러그인, 새로운 팔레트와 논리적 속성 유틸리티를 배송합니다.
+주소: https://www.infoq.com/news/2026/04/tailwind-css-4-2-webpack/
+설명: Tailwind CSS 버전 4.2.0, 2026년 2월 18일에 발표되었습니다. 이 버전에는 스트리밍 통합을 위한 webpack 플러그인과 네 개의 새로운 컬러 팔레트가 포함되어 있습니다. 이 업데이트는 현재 프로젝트에 있는 팀과 다국어 애플리케이션을 개발하는 팀에게 특히 유리합니다.
+#TailwindCSS #웹개발 #프론트엔드 #다국어
+
+#hashtags: #tailwindcss, #webdevelopment, #frontend, #multilingualapps
+
+2 번째 검색 내용
+제목: 클라우드플레어와 젠트룩 지리스트가 AI를 기반으로 한 캐시 최적화에 대한 접근 방식을 제시합니다.
+주소: https://www.infoq.com/news/2026/04/cloudflare-ai-caching-strategies/
+설명: Cloudflare와 ETH Zurich는 AI 주도 크롤러 트래픽이 CDN과 데이터베이스에서 전통적인 캐싱을 어려워하는 방식을 강조합니다. 그들은 사람용 성능과 AI 서비스를 동시에 유지하면서도 캐시 효율성과 시스템 안정성을 유지하기 위해 AI 인식 전략을 제안합니다. 이러한 전략은 별도의 캐시 계층, 적응형 알고리즘 및 크롤러 당 요금 모델로 구성됩니다.
+#인공지능 #CDN #데이터베이스 #캐싱
+
+#hashtags: #AI #CDN #데이터베이스 #캐싱 #인공지능_주도_크롤러_트래픽 #성능_및_효율성_균형_유지 #별도의_캐시_계층 #적응형_알고리즘 #크롤러_당_요금_모델
+
+3 번째 검색 내용
+제목: [INST] 기본 사용 가능성: GitHub Actions 사용자 지정 실행자 이미지 일반 사용 가능
+[/INST]
+주소: https://www.infoq.com/news/2026/04/github-actions-custom-runners/
+설명: GitHub는 호스팅된 러너에 대한 사용자 정의 이미지 사용을 공지했습니다. 10월에 시작된 공개 미리 보기 단계를 떠나 이제입니다. 이 기능은 팀이 실제로 워크플로우 요구 사항을 충족하는 가상 머신 이미지를 생성하기 위해 GitHub에서 승인된 기본 이미지를 사용할 수 있도록 합니다.
+#GitHub #사용자 정의 이미지 #가상 머신 이미지 #워크플로우 요구 사항
+
+#hashtags:
+1. #GitHubCustomImages
+2. #VirtualMachineImage
+3. #WorkflowRequirements
+
+4 번째 검색 내용
+제목: 내부 스포티파이의 2025 워프드 아카이브: AI 뉴레이리어 대량 생성과 개인정보 교환
+
+(Note: The translation may not be perfect as it involves some technical terms and context understanding. Please check the meaning and context before using it.)
+주소: https://www.infoq.com/news/2026/04/spotify-wrapped-privacy/
+설명: Spotify의 개발팀은 2025년 "Wrapped Archive"를 개발하여, 1.4억 명의 개인화된 보고서를 35억 명의 사용자에게 생성했습니다. 이 시스템은 키 리스닝 일과 언어 모델을 사용하여 이야기를 작성합니다. 기업들이 점차 이야기 요약을 제공함에 따라, 사용자 개인정보와 데이터 추적에 대한 걱정은 인사이트와 개인정보 보호 간의 균형을 유지하는 데 필요함을 강조합니다.
+#Spotify #WrappedArchive #개인정보보호 #데이터추적
+
+#hashtags: #Spotify, #WrappedArchive, #개인정보보호, #데이터추적
+
+5 번째 검색 내용
+제목: 이스티오가 AI 시대에 적합한 기능을 추가하여 발전함: 다중클러스터, 환경모드, 인텐션 기능
+
+(Note: The translation may not be perfect as it is a machine translation. Please review and make necessary adjustments if needed.)
+주소: https://www.infoq.com/news/2026/04/istio-ai-multicluster/
+설명: AI : Cloud Native Computing Foundation(CNCF)는 Istio의 주요 진화를 발표했습니다. 이 변경은 AI 기반 작업을 위해 서비스 메시를 "미래에 준비" 상태로 만들기 위한 새로운 능력을 소개합니다.
+#CNCF #Istio #AI #서비스_메시
+
+Translated sentence: The Cloud Native Computing Foundation (CNCF) has announced a major evolution of Istio, introducing new capabilities aimed at making service meshes “future-ready” for AI-driven workloads.
+
+Hashtags: #CNCF #Istio #AI #서비스_메시
+
+6 번째 검색 내용
+제목: 인간적으로 비뚤어진 사람이 Claude 코드 원본을 npm 소스 맵 파일을 통해 폭포하였습니다.
+주소: https://www.infoq.com/news/2026/04/claude-code-source-leak/
+설명: Anthropic's Claude Code CLI had its full TypeScript source exposed after a source map file was accidentally included in version 2.1.88 of its npm package. The 512,000-line codebase was archived to GitHub within hours. Anthropic called it a packaging error caused by human error. The leak revealed unreleased features, internal model codenames, and multi-agent orchestration architecture.
+#인공지능 #코드 #보안
+
+Translated content: 
+Anthropic's Claude Code CLI had its full TypeScript source exposed after a source map file was accidentally included in version 2.1.88 of its npm package. The 512,000-line codebase was archived to GitHub within hours. Anthropic called it a packaging error caused by human error. The leak revealed unreleased features, internal model codenames, and multi-agent orchestration architecture.
+#인공지능 #코드 #보안
+
+Hashtags: 
+#인공지능 #코드 #보안
+
+7 번째 검색 내용
+제목: 구글이 개방적으로 공유하는 실험적인 다중 에이전트 오케스트레이션 테스트베드 SCIoN
+
+(Note: The translation may not be perfect as the original sentence is a proper noun and contains technical terms. It's recommended to double-check the translation with a professional translator or someone familiar with the subject matter.)
+주소: https://www.infoq.com/news/2026/04/google-agent-testbed-scion/
+설명: Designed to manage concurrent agents running in containers across local and remote compute, Scion is an experimental orchestration testbed that enables developers to run groups of specialized agents with isolated identities, credentials, and shared workspaces.
+#컨테이너 #오케스트레이션 #실험적 #테스트베드
+
+Translated content: 
+Designed to manage concurrent agents running in containers across local and remote compute, Scion is an experimental orchestration testbed that enables developers to run groups of specialized agents with isolated identities, credentials, and shared workspaces.
+#컨테이너 #오케스트레이션 #실험적 #테스트베드
+
+8 번째 검색 내용
+제목: 핀터스트 스파크 OOM 오류 감소 96%를 통해 자동 메모리 재시도로 실행
+
+(Note: The translation may not be perfect as it is a technical term. Please verify the accuracy if needed.)
+주소: https://www.infoq.com/news/2026/04/pinterest-spark-oom-reduction/
+설명: Pinterest Engineering cut Apache Spark out-of-memory failures by 96% using improved observability, configuration tuning, and automatic memory retries. Staged rollout, dashboards, and proactive memory adjustments stabilized data pipelines, reduced manual intervention, and lowered operational overhead across tens of thousands of daily jobs.
+#인공지능 #빅데이터 #스파크
+
+Translated content: Pinterest Engineering cut Apache Spark out-of-memory failures by 96% using improved observability, configuration tuning, and automatic memory retries. Staged rollout, dashboards, and proactive memory adjustments stabilized data pipelines, reduced manual intervention, and lowered operational overhead across tens of thousands of daily jobs.
+#인공지능 #빅데이터 #스파크
+
+9 번째 검색 내용
+제목: 동적 언어는 빠르고 저렴합니다. 13개 언어 Claude 코드 벤치마크에서 빠른 성능을 보였습니다.
+주소: https://www.infoq.com/news/2026/04/ai-coding-language-benchmark/
+설명: AI : 루비 커밋터인 ユスケ・エンドー氏가 テストした Claude Code를 13つの言語で実装し、簡素なGitを実装しました。 Ruby, Python, JavaScriptが最も速くおよび安い($0.36-$0.39)として、統計的にタイプ付きの言語は1.4-2.6倍から高くなります。動的言語に型チェッカーを追加することで、1.6-3.2倍の遅延が発生します。完全なデータセットはGitHubで利用可能です。
+#인공지능 #클로드코드 #루비 #파이썬 #자바스크립트 #統計的型付き言語 #動的言語
+
+10 번째 검색 내용
+제목: 자바 뉴스 요약: 톤다오VM 4.0, 구글 ADK for Java 1.0, 그레일스, 토마캣, 로그4j, 그라이들
+주소: https://www.infoq.com/news/2026/04/java-news-roundup-mar30-2026/
+설명: Java 주요 뉴스 요약: 3월 30일, TornadoVM 4.0 GA 릴리즈와 Google ADK for Java 1.0, Grails과 Gradle의 첫 번째 릴리즈 кан디데이트, Micronaut, Apache Tomcat, Apache Log4j에 대한 유지보수 릴리즈, 그리고 Jakarta EE 12에 대한 업데이트가 포함되어 있습니다.
+#Java #프로그래밍언어 #개발자 #소프트웨어
+
+11 번째 검색 내용
+제목: 인간적 디자인의 세 명의 에이전트 하멘스 지원은 긴 기간 동안 전체 스택 AI 개발을 지원합니다.
+주소: https://www.infoq.com/news/2026/04/anthropic-three-agent-harness-ai/
+설명: Anthropic은 계획, 생성, 평가를 분리한 세 개 에이전트 하멘스를 소개하여 장기 실행 자동화 AI 워크플로우를 향상시키고 프론트엔드와 풀스택 개발에 적용합니다. 산업 비판은 구조화된 접근 방식, 반복적인 평가, 및 실용적인 방법을 사용하여 멀티 시간 AI 코딩 세션에서 일관성과 질을 유지하는 데 초점을 맞추고 있습니다.
+#AI #개발 #워크플로우
+#인공지능 #개발 #워크플로우
+
+12 번째 검색 내용
+제목: TIgerFS는 개발자와 AI 에이전트가 사용할 수 있도록 PostgreSQL 데이터베이스를 파일 시스템으로 마운트합니다.
+주소: https://www.infoq.com/news/2026/04/tigerfs-postgresql-filesystem/
+설명: TigerFS는 새로운 실험적인 파일 시스템으로, 데이터베이스를 디렉토리로 마운트하고 PostgreSQL에 직접 파일을 저장합니다. 오픈 소스 프로젝트는 개발자와 AI 에이전트가 API나 SDK를 통해 상호 작용하지 않고, 대신 Unix 도구인 ls, cat, find, grep과 같은 표준 파일 시스템 인터페이스를 통해 데이터에 접근할 수 있습니다.
+#TigerFS #오픈소스 #파일시스템 #PostgreSQL
+
+#hashtags: #TigerFS #오픈소스 #파일시스템 #PostgreSQL
+
+13 번째 검색 내용
+제목: 스위프트 6.3은 안드로이드 SDK를 안정화하고, C 간섭을 확장하며 더 많은 기능을 제공합니다.
+주소: https://www.infoq.com/news/2026/04/swift-6-3-android-c-interop/
+설명: Swift 6.3는 Swift 크로스 플랫폼 이야기를 진행하며 Android에 대한 공식 지원을 추가하고, C 상호 운용성을 크게 향상시키는 새로운 @c 속성으로 인해 첨언되었습니다. 또한 임베디드 프로그래밍 지원을 확장하고 시스템 방향을 통합하며 개발자에게 더 낮은 수준의 성능 제어를 제공합니다.
+#Swift6.3 #크로스플랫폼 #임베디드프로그래밍 #성능제어
+
+#hashtags: #Swift6.3 #크로스플랫폼 #임베디드프로그래밍 #성능제어
+
+14 번째 검색 내용
+제목: 개방 소스 보안 도구 Trivy가 공급 체인 공격에 휩싸이며 긴급한 산업 대응을 유발하였습니다.
+주소: https://www.infoq.com/news/2026/04/trivy-supply-chain-attack/
+설명: AI : 널리 사용되는 오픈소스 취약성 검색기 Trivy에 영향을 받은 큰 보안 사고로, 소프트웨어 공급 체인 보안에 깊이 있는 약점이 드러나었습니다. 유지보수자가 사용자에게 짧은 기간 동안 악의적인 릴리스를 배포했음을 확인했습니다.
+#소프트웨어 #공급체인 #보안 #취약성 #검색기
+
+Hashtags: #software, #supplychain, #security, #vulnerability, #Trivy
+
+15 번째 검색 내용
+제목: 모듈 연합 2.0이 웹팩 외에 더 넓은 지원을 받아 안정 릴리스로 발표되었습니다.
+주소: https://www.infoq.com/news/2026/04/module-federation-2-stable/
+설명: Module Federation 2.0은 webpack 5에서 소개된 오픈 소스 마이크로 프론트엔드 메커니즘으로, 동적인 TypeScript 타입 힌트, 런타임 레이어와 분리, Node.js 지원과 같은 중요한 업데이트를 제공합니다. 이것은 다양한 번들러와 프레임워크에서의 호환성을 향상시킵니다. 주요 기능으로는 Side Effect Scanner와 원격 모듈 통합이 쉽게 적용되는 것입니다, 이를 통해 이전에 채택한 문제를 해결합니다.
+#ModuleFederation #webpack5 #마이크로프론트엔드
+
+#hashtags: #오픈소스 #번들러 #프레임워크
+#hashtags: #웹팩 #타입스크립트 #노드JS
+
