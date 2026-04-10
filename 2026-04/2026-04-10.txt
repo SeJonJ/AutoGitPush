@@ -1,0 +1,144 @@
+1 번째 검색 내용
+제목: 클라우드플레어가 소개합니다: TypeScript CMS, 워드프레스 후보로 위치한 웹사이트 관리 시스템입니다.
+주소: https://www.infoq.com/news/2026/04/cloudflare-emdash-wordpress/
+설명: Cloudflare는 EmDash라는 새로운 오픈소스 CMS를 미리 보기로 발표했습니다. WordPress의 "정신적 후계자"로 설명되는 EmDash는 서버리스, 개발자 중심의 아키텍처를 중심으로 재구성된 CMS 모델입니다. AI 원시 기능, 개발자 도구, WordPress에서 마이그레이션 경로가 포함되어 있으며, WordPress와 더 넓은 CMS 커뮤니티 내에서 논쟁을 일으키고 있습니다.
+#Cloudflare #EmDash #CMS #AI #서버리스
+
+2 번째 검색 내용
+제목: 우버의 허브 연합이 16K 데이터셋과 10PB 이상을 분산화하여 규모에 따른 중단 없는 분석을 수행합니다.
+주소: https://www.infoq.com/news/2026/04/uber-hive-decentralized-data/
+설명: Uber는 Hive 데이터 웨어하우스를 분산하여 16,000개의 데이터셋(전체 용량 10펠바이트 이상)를 포인터 기반 연합으로 마이그레이션했습니다. 이 마이그레이션은 서비스 중지 시간 없음, 엄격한 ACL 적용, 향상된 관리 및 분석 및 기계 학습 작업을 위한 확장성 있고 도메인 특화 데이터셋을 보장합니다.
+#데이터 마이그레이션 #Uber #기계학습 #분석
+
+#hashtags: #데이터분석, #AI, #HiveDataWarehouse
+
+3 번째 검색 내용
+제목: AAIF의 MCP 개발 슬롯: 게이트웨이, gRPC, 및 관측성 신호 프로토콜 강화
+
+(Note: The translation may not be perfect as some terms might have specific meanings in the context of AAIF's MCP Dev Summit. Please confirm if it meets your requirements.)
+주소: https://www.infoq.com/news/2026/04/aaif-mcp-summit/
+설명: The MCP Dev Summit North America 2026, held on April 2-3 at the New York Marriott Marquis, gathered about 1,200 attendees. Hosted by the Linux Foundation's Agentic AI Foundation, discussions focused on the Model Context Protocol's evolution and enterprise adoption, particularly by Amazon and Uber, emphasizing security, interoperability, and scaling for production.
+#MCPDevSummit #ModelContextProtocol #EnterpriseAdoption
+
+Translated content: 
+The MCP Dev Summit North America 2026, held on April 2-3 at the New York Marriott Marquis, gathered about 1,200 attendees. Hosted by the Linux Foundation's Agentic AI Foundation, discussions focused on the Model Context Protocol's evolution and enterprise adoption, particularly by Amazon and Uber, emphasizing security, interoperability, and scaling for production.
+#MCPDevSummit #ModelContextProtocol #EnterpriseAdoption
+
+4 번째 검색 내용
+제목: 개발자 엔지니어링 직장인으로서의 리더십 기술 개발
+[INST] 제공된 문장을 한국어로 번역합니다. :
+
+                            [/INST]
+개발자 엔지니어링 직장인으로서의 리더십 기술 향상
+
+(Note: The translation may not be a direct word-for-word translation, but it conveys the meaning of the original sentence.)
+주소: https://www.infoq.com/news/2026/04/leadership-skills/
+설명: 인공지능은 세계를 변화시키고 있습니다. 이것은 의료, 금융, 교통과 같은 다양한 분야에 응용되고 있습니다.
+#인공지능 #의료 #금융 #교통
+
+Work isn’t the only place where you can develop valuable leadership skills, Sophie Weston mentioned in the video The Principal Engineer’s Path from her QCon London talk. She suggested thinking about the things you do outside of your job where you can learn and practice useful leadership skills, and bringing your full skill set - your whole self - to work.
+and Provide - #hashtags. Add 3 hashtags related to the translated content.
+#리더십 #직장외부 #전문적인지능 #QConLondon
+
+5 번째 검색 내용
+제목: aspire 13.2가 확장된 CLI, TypeScript AppHost 미리보기, 및 대시보드 개선으로 발표되었습니다.
+주소: https://www.infoq.com/news/2026/04/aspire-13-2-release/
+설명: ASPIRE 13.2는 CLI의 확장된 기능을 포함하여 분리 모드와 프로세스 관리, TypeScript AppHost 미리 보기, 대시보드 텔레메트리 내보내기 및 가져오기, Docker Compose 안정적인 게시, Microsoft Foundry 통합, Azure Virtual Network 지원을 포함하며 VS Code 확장의 주요 업데이트를 포함합니다. 이 릴리스에는 구성 파일과 리소스 명령에 대한 여러 깨지는 변경 사항도 포함되어 있습니다.
+#ASPIRE13.2 #VSCode #AzureVirtualNetwork #MicrosoftFoundry
+
+6 번째 검색 내용
+제목: 구글이 클라우드에서 AI 에이전트 실행을 지원하는 MCP 지원을 콜랩에 도입합니다.
+주소: https://www.infoq.com/news/2026/04/colab-mcp-server/
+설명: Google은 Colab MCP Server를 오픈소스로 발표하였습니다. AI 에이전트는 Google Colab과 직접적으로 Model Context Protocol(MCP)를 통해 상호작용할 수 있게 되었습니다. 프로젝트는 개발자들이 자신의 컴퓨터에서 계산 집중한 또는 보안적으로 위험한 작업을 전송할 수 있도록, 로컬 에이전트 워크플로우를 클라우드 기반 실행과 연결하는 것을 목표로 합니다.
+#인공지능 #GoogleColab #MCPServer
+
+#hashtags: #AI #Google #CloudComputing
+
+7 번째 검색 내용
+제목: Tailwind CSS 4.2가 Webpack 플러그인, 새로운 팔레트와 논리적 속성 유틸리티를 배송합니다.
+주소: https://www.infoq.com/news/2026/04/tailwind-css-4-2-webpack/
+설명: Tailwind CSS 버전 4.2.0, 2026년 2월 18일에 발표되었습니다. 이 버전에는 스트리밍 통합을 위한 webpack 플러그인이 포함되어 있으며, 4개의 새로운 컬러 팔레트가 추가되었습니다. 이 업데이트는 논리적 속성 유틸리티를 확장하고 재컴파일 속도를 3.8배로 향상시키며, 기존 프로젝트에 있는 팀과 다국어 애플리케이션을 개발하는 팀에게 특히 유용합니다.
+#TailwindCSS #웹개발 #업데이트 #멀티언어
+
+#hashtags: #tailwindcss, #webdevelopment, #update, #multilingualapplications
+
+8 번째 검색 내용
+제목: 클라우드플레어와 젠트룩 지리스트가 AI를 기반으로 한 캐시 최적화에 대한 접근 방식을 제시합니다.
+주소: https://www.infoq.com/news/2026/04/cloudflare-ai-caching-strategies/
+설명: AI : Cloudflare와 ETH Zurich는 AI 주도 크롤러 트래픽이 CDN과 데이터베이스에서 전통적인 캐싱을 어려워하는 방식을 강조합니다. 그들은 사람용 성능과 AI 서비스를 동시에 유지하면서도 캐시 효율성과 시스템 안정성을 유지하기 위해 AI 인식 전략을 제안합니다. 이들은 별도의 캐시 계층, 적응형 알고리즘, 및 크롤러 당 요금 모델을 포함하여 구현했습니다.
+#인공지능 #CDN #데이터베이스
+
+Hashtags: #인공지능 #CDN #데이터베이스
+
+9 번째 검색 내용
+제목: [INST] 기본 사용 가능성: GitHub Actions 사용자 지정 실행자 이미지 일반 사용 가능
+[/INST]
+주소: https://www.infoq.com/news/2026/04/github-actions-custom-runners/
+설명: GitHub는 호스팅된 러너에 대한 사용자 정의 이미지 사용을 공지했습니다. 10월에 시작된 공개 미리 보기 단계를 떠나 이제 그들은. 이 기능으로 팀은 GitHub에서 승인받은 기본 이미지를 사용하고 그들의 워크플로우 요구 사항을 충족하는 가상 머신 이미지를 생성할 수 있습니다.
+#GitHub #사용자 정의 이미지 #가상 머신 이미지 #워크플로우 요구 사항
+
+#hashtags:
+1. #GitHubCustomImages
+2. #VirtualMachineImages
+3. #WorkflowRequirements
+
+10 번째 검색 내용
+제목: 내부 스포티파이의 2025 워프드 아카이브에서: AI 뉴레이리어와 개인정보 교환
+
+(Note: The translation may not be perfect as it is a direct translation from English to Korean. The meaning and context might need some adjustments for natural Korean language usage.)
+주소: https://www.infoq.com/news/2026/04/spotify-wrapped-privacy/
+설명: Spotify의 개발팀은 2025년 "Wrapped Archive"를 개발하여, 350만 명의 사용자에게 1.4억 개의 개인화된 보고서를 생성했습니다. 이 시스템은 주요 듣는 날짜를 식별하고 언어 모델을 사용하여 이야기를 구성합니다. 기업들이 점차 이야기 요약을 제공함에 따라, 사용자 개인정보와 데이터 추적에 대한 걱정은 인사이트와 개인정보 보호 간의 균형을 유지하는 데 필요함을 강조합니다.
+#Spotify #WrappedArchive #인사이트와 #개인정보보호
+
+#hashtags: #Spotify, #WrappedArchive, #인사이트와 #개인정보보호
+
+11 번째 검색 내용
+제목: 이스티오가 AI 시대에 적합한 기능을 개발하여 다중클러스터, 환경모드, 추론 기능 포함
+
+(Note: The translation may not be perfect as it is a machine translation. Please review and make necessary adjustments if needed.)
+주소: https://www.infoq.com/news/2026/04/istio-ai-multicluster/
+설명: AI : Cloud Native Computing Foundation(CNCF)는 Istio의 주요 진화를 발표했습니다. 이번 발표에서는 AI 기반 작업을 위해 서비스 메시를 "미래에 준비" 상태로 만들기 위한 새로운 기능을 소개하였습니다.
+#CNCF #Istio #AI #서비스_메시
+
+Hashtags: #CloudNativeComputingFoundation, #Istio, #ArtificialIntelligence
+
+12 번째 검색 내용
+제목: 인간적으로 비뚤어진 사람이 클로드 코드 원본을 npm 소스 맵 파일을 통해 폭포하였습니다.
+주소: https://www.infoq.com/news/2026/04/claude-code-source-leak/
+설명: Anthropic's Claude Code CLI had its full TypeScript source exposed after a source map file was accidentally included in version 2.1.88 of its npm package. The 512,000-line codebase was archived to GitHub within hours. Anthropic called it a packaging error caused by human error. The leak revealed unreleased features, internal model codenames, and multi-agent orchestration architecture.
+#인공지능 #코드 #보안오류
+
+Translated sentence: 
+Anthropic's Claude Code CLI had its full TypeScript source exposed after a source map file was accidentally included in version 2.1.88 of its npm package. The 512,000-line codebase was archived to GitHub within hours. Anthropic called it a packaging error caused by human error. The leak revealed unreleased features, internal model codenames, and multi-agent orchestration architecture.
+#인공지능 #코드 #보안오류
+
+Hashtags: 
+#인공지능 #코드 #보안오류
+
+13 번째 검색 내용
+제목: 구글이 개방적으로 공유하는 실험적인 다중 에이전트 오케스트레이션 테스트베드 SCIoN
+
+(Note: The translation may not be perfect as the original sentence seems to contain a mix of English and Korean words. Please confirm if this is the intended meaning.)
+주소: https://www.infoq.com/news/2026/04/google-agent-testbed-scion/
+설명: Designed to manage concurrent agents running in containers across local and remote compute, Scion is an experimental orchestration testbed that enables developers to run groups of specialized agents with isolated identities, credentials, and shared workspaces.
+#컨테이너 #오케스트레이션 #실험적 #테스트베드
+
+Translated content: 
+Designed to manage concurrent agents running in containers across local and remote compute, Scion is an experimental orchestration testbed that enables developers to run groups of specialized agents with isolated identities, credentials, and shared workspaces.
+#컨테이너 #오케스트레이션 #실험적 #테스트베드
+
+14 번째 검색 내용
+제목: 핀터스트 자동 메모리 재시도를 통해 스파크 OOM 오류 감소 96%
+[INST] Pinterest reduces Spark OOM failures by 96% through Auto Memory Retries [/INST]
+주소: https://www.infoq.com/news/2026/04/pinterest-spark-oom-reduction/
+설명: Pinterest Engineering cut Apache Spark out-of-memory failures by 96% using improved observability, configuration tuning, and automatic memory retries. Staged rollout, dashboards, and proactive memory adjustments stabilized data pipelines, reduced manual intervention, and lowered operational overhead across tens of thousands of daily jobs.
+#인공지능 #데이터분석 #스파크
+
+Translated content: Pinterest Engineering cut Apache Spark out-of-memory failures by 96% using improved observability, configuration tuning, and automatic memory retries. Staged rollout, dashboards, and proactive memory adjustments stabilized data pipelines, reduced manual intervention, and lowered operational overhead across tens of thousands of daily jobs.
+#인공지능 #데이터분석 #스파크
+
+15 번째 검색 내용
+제목: 동적 언어는 빠르고 저렴합니다. 13개 언어 Claude 코드 벤치마크에서 빠르고 저렴합니다.
+주소: https://www.infoq.com/news/2026/04/ai-coding-language-benchmark/
+설명: AI : 루비 커밋터인 ユスケ・エンドー氏가 テスト한 600回のベンチマーク를 使用して、クロードコードは13種類の言語で実装されました。ルビー、パイソン、およびジャバスクリプトが最も速くおよび安価で、$0.36-$0.39毎回のコストでした。統計的なタイプの言語は1.4-2.6倍多くコストを要求します。動的言語に型チェッカーを追加することが、1.6-3.2倍の遅延を
+
