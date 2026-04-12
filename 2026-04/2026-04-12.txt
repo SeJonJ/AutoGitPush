@@ -1,0 +1,131 @@
+1 번째 검색 내용
+제목: 에티 1000개 샤드, 425TB의 MySQL 샤딩 아키텍처를 Vitess로 마이그레이션합니다.
+주소: https://www.infoq.com/news/2026/04/etsy-vitess-sharding-migration/
+설명: Etsy 엔지니어링 팀은 최근 회사가 MySQL 슬라딩 인프라를 Vitess로 이전하는 방법을 설명했습니다. 이 변경으로 Etsy의 내부 시스템에서 shard routing을 Vitess로 이동하여 vindex를 사용하여 resharding 데이터와 이전에 슬라딩되지 않은 테이블을 슬라딩하는 기능을 활성화할 수 있게 되었습니다.
+#MySQL #Vitess #슬라딩 #데이터베이스
+
+2 번째 검색 내용
+제목: CNCF와 Kusari가 클라우드 네이티브 프로젝트를 통해 소프트웨어 공급 체인 보안 강화를 위해 협력합니다.
+주소: https://www.infoq.com/news/2026/04/cncf-kusari-security/
+설명: 인공지능 기반의 보안 도구를 제공하는 Kusari와 Cloud Native Computing Foundation(CNCF)가 클라우드 네이티브 프로젝트에서 소프트웨어 공급 체인 보안을 강화하기 위해 새로운 협력을 발표했습니다. CNCF가 호스팅하는 프로젝트에 대해 Kusari의 AI 기반 보안 도구를 무료로 접근할 수 있게 되었습니다.
+#인공지능 #소프트웨어 #보안 #클라우드네이티브
+
+Hashtags: #인공지능, #소프트웨어, #보안, #클라우드네이티브
+
+3 번째 검색 내용
+제목: 구글 클라우드는 포스트그레쿼스 코어 기능에 대한 진행 중인 작업을 강조합니다.
+주소: https://www.infoq.com/news/2026/04/google-cloud-postgresql/
+설명: Google Cloud는 PostgreSQL에 대한 최근 기술적 기여를 명확하게 설명했습니다. 이것은 논리적 복제, 업그레이드 프로세스 및 전체 시스템 안정성에 대한 개선을 강조합니다. 이 업데이트는 업스트림 커뮤니티와의 지속적인 협력과 함께 코어 엔진에 대한 확장성, 복제 및 운영 문제를 해결하기 위한 개선 사항을 중점으로 집중합니다.
+#GoogleCloud #PostgreSQL #데이터베이스 #기술발전
+
+Hashtags: #GoogleCloud, #PostgreSQL, #데이터베이스, #기술발전
+
+4 번째 검색 내용
+제목: [INST] 안녕하세요! 저는 영어로 작성된 문장을 한글로 번역해드리겠습니다. 원래 문장은 무엇인가요? [/INST]
+주소: https://www.infoq.com/news/2026/04/safari-scrollend-support/
+설명: AI : Safari의 12월에 발표한 버전 26.2는 스크롤 이벤트를 지원하여 주요 브라우저와 완전히 맞춥니다. 이 이벤트는 스크롤이 확실히 끝난 것을 알리며, 작업 대체 방법 없이도 더 신뢰할 수 있는 상호 작용을 가능하게 합니다. UI 업데이트와 스크롤 완료에 따른 데이터 검색을 관리하는 개발자들의 성능을 향상시킵니다.
+#Safari #버전26.2 #스크롤 이벤트 #UI 업데이트
+
+#hashtags: #Safari, #버전26.2, #스크롤 이벤트
+
+5 번째 검색 내용
+제목: 클라우드플레어가 소개합니다: TypeScript CMS, 워드프레스의 후계자로 위치한 것입니다.
+주소: https://www.infoq.com/news/2026/04/cloudflare-emdash-wordpress/
+설명: Cloudflare는 EmDash라는 새로운 오픈소스 CMS를 미리 보기로 발표했습니다. WordPress의 "정신적 후계자"라고 설명하는 EmDash는 서버리스, 개발자 중심의 아키텍처를 중심으로 CMS 모델을 재구성했습니다. AI 원시 기능, 개발자 도구, WordPress에서 마이그레이션 경로가 포함되어 있어, WordPress와 더 넓은 CMS 커뮤니티에서 논쟁을 일으키고 있습니다.
+#Cloudflare #EmDash #CMS #AI #서버리스
+
+6 번째 검색 내용
+제목: 우버의 허브 연합이 16K데이터셋과 10PB 이상을 분산처리하여 규모에 따른 중단 없는 분석 서비스를 제공합니다.
+주소: https://www.infoq.com/news/2026/04/uber-hive-decentralized-data/
+설명: Uber는 16,000개의 데이터셋를 전체 10펠바이트 이상으로 분산 데이터 웨어하우스 Hive에서 해체하고 포인터 기반 협력을 사용하여 이동했습니다. 이 이동은 중단 시간이 0, ACL의 엄격한 적용, 관리 개선 및 분석 및 머신러닝 작업에 대해 확장 가능한, 도메인 특정 데이터셋을 보장합니다.
+#Uber #데이터웨어하우스 #분산 #분석 #머신러닝
+#hashtags: #데이터분석 #AI #클라우드컴퓨팅
+
+7 번째 검색 내용
+제목: AAIF의 MCP 개발 슬롯: 게이트웨이, gRPC, 및 관측성 신호 프로토콜 강화
+
+(위 번역은 문맥과 내용에 따른 최선의 번역입니다. 원문의 정확한 의미와 내용을 전달하기 위해 추가적인 정보나 설명이 필요할 수 있습니다.)
+주소: https://www.infoq.com/news/2026/04/aaif-mcp-summit/
+설명: The MCP Dev Summit North America 2026, held on April 2-3 at the New York Marriott Marquis, gathered about 1,200 attendees. Hosted by the Linux Foundation's Agentic AI Foundation, discussions focused on the Model Context Protocol's evolution and enterprise adoption, particularly by Amazon and Uber, emphasizing security, interoperability, and scaling for production.
+#MCPDevSummit #ModelContextProtocol #EnterpriseAdoption
+
+Translated content: 
+The MCP Dev Summit North America 2026, held on April 2-3 at the New York Marriott Marquis, gathered about 1,200 attendees. Hosted by the Linux Foundation's Agentic AI Foundation, discussions focused on the Model Context Protocol's evolution and enterprise adoption, particularly by Amazon and Uber, emphasizing security, interoperability, and scaling for production.
+#MCPDevSummit #ModelContextProtocol #EnterpriseAdoption
+
+8 번째 검색 내용
+제목: 개발자 엔지니어링 직장인으로서의 리더십 기술 개발
+[INST] 제공된 문장을 한글로 번역합니다. :
+
+                            [/INST]
+개발자 엔지니어링 직장인으로서의 리더십 기술 개발
+주소: https://www.infoq.com/news/2026/04/leadership-skills/
+설명: 인공지능은 세계를 변화시키고 있습니다. 이것은 의료, 금융, 교통과 같은 다양한 분야에 응용되고 있습니다.
+#인공지능 #의료 #금융 #교통
+
+Work isn’t the only place where you can develop valuable leadership skills, Sophie Weston mentioned in the video The Principal Engineer’s Path from her QCon London talk. She suggested thinking about the things you do outside of your job where you can learn and practice useful leadership skills, and bringing your full skill set - your whole self - to work.
+and Provide - #hashtags. Add 3 hashtags related to the translated content.
+#리더십 #직장외부 #전문가의로 #QConLondon
+
+9 번째 검색 내용
+제목: aspire 13.2가 확장된 CLI, TypeScript AppHost 미리보기, 및 대시보드 개선으로 발표되었습니다.
+주소: https://www.infoq.com/news/2026/04/aspire-13-2-release/
+설명: ASPIRE 13.2는 CLI의 확장된 기능을 포함하여 분리 모드와 프로세스 관리, TypeScript AppHost 미리 보기, 대시보드 텔레메트리 내보내기 및 가져오기, Docker Compose 안정적인 게시, Microsoft Foundry 통합, Azure Virtual Network 지원을 포함하며 VS Code 확장의 주요 업데이트를 포함합니다. 이 릴리스에는 구성 파일과 리소스 명령에 대한 여러 깨지는 변경 사항도 포함되어 있습니다.
+#ASPIRE13.2 #VSCode #AzureVirtualNetwork #MicrosoftFoundry
+
+10 번째 검색 내용
+제목: 구글이 클라우드에서 AI 에이전트를 실행하는데 대체 가능성을 제공하여 Colab에 MCP 지원 추가
+
+(Note: This translation may not be perfect, as it is an automatic translation. Please check the meaning and context before using it.)
+주소: https://www.infoq.com/news/2026/04/colab-mcp-server/
+설명: Google은 Colab MCP Server를 오픈소스로 발표하여, AI 에이전트가 Google Colab과 직접적으로 Model Context Protocol(MCP)를 통해 상호작용할 수 있게 되었습니다. 프로젝트는 개발자들이 자신의 컴퓨터에서 계산 집중이거나 보안상 위험한 작업을 처리하지 않도록 하고, 클라우드 기반 실행과 로컬 에이전트 워크플로우를 연결하는데 설계되었습니다.
+#인공지능 #GoogleColab #MCPServer
+
+#hashtags: #AI #Google #CloudComputing
+
+11 번째 검색 내용
+제목: 탐슨 CSS 4.2가 웹팩 플러그인, 새로운 팔레트 및 논리적 속성 유틸리티를 배송합니다.
+주소: https://www.infoq.com/news/2026/04/tailwind-css-4-2-webpack/
+설명: Tailwind CSS 버전 4.2.0, 2026년 2월 18일에 발표되었습니다. 이 버전에는 스트리밍 통합을 위한 webpack 플러그인과 네 개의 새로운 컬러 팔레트가 포함되어 있습니다. 이 업데이트는 현재 프로젝트에 있는 팀과 다국어 애플리케이션을 개발하는 팀에게 특히 유리합니다.
+#TailwindCSS #웹개발 #프론트엔드 #다국어
+
+#hashtags: #tailwindcss, #webdevelopment, #frontend, #multilingualapps
+
+12 번째 검색 내용
+제목: 클라우드플레어와 젠트리히 기술대학교는 AI를 기반으로 캐시 최적화에 대한 접근 방식을 제시합니다.
+주소: https://www.infoq.com/news/2026/04/cloudflare-ai-caching-strategies/
+설명: Cloudflare와 ETH Zurich는 AI 주도 크롤러 트래픽이 CDN과 데이터베이스에서 전통적인 캐싱을 어려워하는 방식을 강조합니다. 그들은 인간 사용자와 AI 서비스를 위한 성능을 균형 맞추면서도 캐시 효율성과 시스템 안정성을 유지하기 위해 AI 인식 전략을 제안합니다. 이러한 전략은 별도의 캐시 계층, 적응형 알고리즘 및 크롤러 당 요금 모델과 같은 것들입니다.
+#인공지능 #CDN #데이터베이스 #캐싱
+
+#hashtags: #AI #CDN #데이터베이스 #캐싱 #성능 #안정성 #인간사용자 #AI서비스
+
+13 번째 검색 내용
+제목: GitHub Actions 사용자 정의 실행자 이미지가 일반 사용 가능성에 도달했습니다.
+주소: https://www.infoq.com/news/2026/04/github-actions-custom-runners/
+설명: GitHub는 호스팅된 러너에 대한 사용자 정의 이미지 사용을 공지했습니다. 10월에 시작된 공개 미리 보기 단계를 떠나 이제입니다. 이 기능은 팀이 실제로 워크플로우 요구 사항을 충족하는 가상 머신 이미지를 생성하기 위해 GitHub에서 승인된 기본 이미지를 사용할 수 있게 합니다.
+#GitHub #사용자정의이미지 #가상머신이미지 #워크플로우요구사항
+
+Translated sentence: GitHub has just announced the availability of custom images for its hosted runners. They've finally left the public preview phase that started back in October behind them. This feature will enable teams to use a GitHub-approved base image and then construct a virtual machine image that really meets their workflow requirements.
+and Provide - #hashtags. Add 3 hashtags related to the translated content.
+
+14 번째 검색 내용
+제목: 내부 스포티파이의 2025 워프드 아키브에서: AI 뉴레이리어 대량 생성과 개인정보 교환 문제
+
+(Note: The translation may not be perfect as it involves translating technical terms and phrases. Please review the translation for accuracy.)
+주소: https://www.infoq.com/news/2026/04/spotify-wrapped-privacy/
+설명: Spotify의 개발팀은 2025년 "Wrapped Archive"를 개발하여, 350만 명의 사용자에게 1.4억 개의 개인화된 보고서를 생성했습니다. 이 시스템은 주요 듣는 날과 언어 모델을 사용하여 이야기를 작성합니다. 기업들이 점차 이야기 요약을 제공함에 따라, 사용자 개인정보와 데이터 추적에 대한 걱정은 인사이트와 개인정보 보호 간의 균형을 유지하는 데 필요함을 강조합니다.
+#Spotify #WrappedArchive #인사이트와 #개인정보보호
+
+#hashtags: #Spotify, #WrappedArchive, #인사이트와 #개인정보보호
+
+15 번째 검색 내용
+제목: 이스티오가 AI 시대에 적합한 기능을 추가하여 발전함: 다중클러스터, 어빌리언트 모드, 인텐션 기능
+
+(Note: The translation may not be perfect as it is a machine translation. Please review and make necessary adjustments if needed.)
+주소: https://www.infoq.com/news/2026/04/istio-ai-multicluster/
+설명: AI : Cloud Native Computing Foundation(CNCF)는 Istio의 주요 진화를 발표했습니다. 이 변경은 AI 기반 작업을 위해 서비스 메시를 "미래에 준비" 되도록 하기 위한 새로운 기능을 소개합니다.
+#CNCF #Istio #AI #서비스_메시
+
+Translated sentence: The Cloud Native Computing Foundation (CNCF) has announced a major evolution of Istio, introducing new capabilities aimed at making service meshes “future-ready” for AI-driven workloads.
+Hashtags: #CNCF #Istio #AI #서비스_메시
+
