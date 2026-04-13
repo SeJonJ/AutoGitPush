@@ -1,145 +1,128 @@
 1 번째 검색 내용
-제목: [INST] 기본 사용 가능성에 도달한 GitHub Copilot CLI
-[/INST]
-주소: https://www.infoq.com/news/2026/04/github-copilot-cli-ga/
-설명: AI : 깃허브는 Copilot CLI를 일반 사용자에게 출시하였으며, 터미널에 직접적으로 생성형 AI를 제공합니다. GitHub CLI와 통합되어 자연어 명령 제안과 코드 설명을 제공합니다. 최근 업데이트는 "에이전티크" 워크플로우를 Autopilot 모드와 GPT-5.4 지원으로 소개하며, 새로운 기업 텔레메트리를 통해 개발 팀의 사용량을 추적합니다.
-#깃허브 #CopilotCLI #생성형AI #에이전티크워크플로우
+제목: AWS가 지속 가능성 콘솔을 API 액세스와 범위 1-3 이중 감충량 보고서로 출시합니다.
+주소: https://www.infoq.com/news/2026/04/aws-sustainability-console/
+설명: AWS는 서비스와 지역별 Scope 1-3 배출량 데이터를 제공하며, API 액세스, 구성 가능한 CSV 출력 및 청구 권한과 분리된 수첩 보고서를 포함한 독립형 지속 콘솔을 출시했습니다. AWS CTO Werner Vogels는 이를 관측성 스택의 지연, 비용 및 오류율과 함께 탄소를 아키텍처 메트릭으로 간주했습니다.
+#AWS #수첩보고서 #관측성스택
 
-Hashtags: #GitHub #CopilotCLI #AIIntegration #EnterpriseTelemetry
+Translated sentence: AWS launched a standalone Sustainability console with API access, configurable CSV exports, and Scope 1-3 emissions data by service and Region. The console decouples emissions reporting from billing permissions. AWS CTO Werner Vogels framed carbon as an architectural metric belonging alongside latency, cost, and error rates in the observability stack.
+#AWS #SustainabilityConsole #CarbonMetric #ObservabilityStack
+
+Translated sentence: AWS launched a standalone Sustainability console with API access, configurable CSV exports, and Scope 1-3 emissions data by service and Region. The console decouples emissions reporting from billing permissions. AWS CTO Werner Vogels framed carbon as an architectural metric belonging alongside latency, cost, and error rates in the observability stack.
+#AWS #수첩보고서 #탄소메트릭 #관측성스택
 
 2 번째 검색 내용
-제목: 에티 1000개 샤드, 425TB의 MySQL 샤딩 아키텍처를 Vitess로 마이그레이션합니다.
-주소: https://www.infoq.com/news/2026/04/etsy-vitess-sharding-migration/
-설명: Etsy 엔지니어링 팀은 최근 회사가 MySQL 슬라딩 인프라를 Vitess로 이전했다는 내용을 설명했습니다. 이 변경으로 Etsy의 내부 시스템에서 shard routing을 Vitess로 이동하여 vindex를 사용하여 resharding 데이터와 이전에 슬라딩되지 않은 테이블을 슬라딩하는 기능을 활성화할 수 있게 되었습니다.
-#Etsy #MySQL #Vitess #슬라딩 #데이터베이스
+제목: 인간적 릴리스: 클로드 미스토스 미리보기를 사이버 보안 기능으로 함께 발표하지만 공개 액세스를 제한합니다.
+주소: https://www.infoq.com/news/2026/04/anthropic-claude-mythos/
+설명: Anthropic는 최고의 AI 모델인 Claude Mythos Preview를 소개했습니다. 이 모델은 이전 버전에 비해 추론, 코딩, 사이버보안 등에서 크게 향상되었습니다. 이 모델은 공개적으로 제공되지 않고, 기술 회사들의 컨소시엄을 통해 Project Glasswing 프로젝트에서 접근할 수 있는 제한된 액세스만 허용됩니다. 내부 테스트에서 모델이 효과적으로 중요한 보안 오류를 발견할 수 있는 능력을 확인했습니다.
+#인공지능 #사이버보안 #클라우드미스트프리뷰 #프로젝트글래싱웍
 
 3 번째 검색 내용
-제목: CNCF와 Kusari가 클라우드 네이티브 프로젝트에서 소프트웨어 공급 체인 보안을 강화하기 위해 협력합니다.
-주소: https://www.infoq.com/news/2026/04/cncf-kusari-security/
-설명: 인공지능 기반의 보안 도구를 제공하는 Kusari와 Cloud Native Computing Foundation(CNCF)가 클라우드 네이티브 프로젝트에서 소프트웨어 공급 체인 보안을 강화하기 위해 새로운 협력을 발표했습니다. CNCF가 호스팅하는 프로젝트에 대해 Kusari의 AI 기반 보안 도구를 무료로 접근할 수 있게 되었습니다.
-#인공지능 #소프트웨어 공급 체인 #보안 #클라우드네이티브
+제목: 자바 뉴스 요약: JDK 27 출시 일정, 하이버네이트, 언그체인4j, 키클로크, 헬리돈, 주니 CLI
+주소: https://www.infoq.com/news/2026/04/java-news-roundup-apr06-2026/
+설명: AI : 이번 주 4월 6일 Java 뉴스 요약은 다음과 같습니다: Primitive Types in Patterns, instanceof와 switch에 대한 5차 미리보기, JDK 27의 제안된 출시 일정, Hibernate, LangChain4j, Keycloak 및 Google ADK for Java의 포인트 릴리스, Helidon에 대한 유지보수 릴리스, Spring Cloud Gateway에서 CVE 발견 및 JetBrains IDEs에 Junie CLI가 통합되었습니다.
+#Java #RN_20260406 #프로그래밍언어뉴스 #JetBrainsIDE
 
-Hashtags: #인공지능, #소프트웨어공급체인, #보안, #클라우드네이티브
+Hashtags: #Java #RN_20260406 #프로그래밍언어뉴스 #JetBrainsIDE
 
 4 번째 검색 내용
+제목: [INST] 기본 사용 가능성이 되는 GitHub Copilot CLI 도달
+[/INST]
+주소: https://www.infoq.com/news/2026/04/github-copilot-cli-ga/
+설명: AI : 깃허브는 Copilot CLI를 일반적으로 사용 가능하게 론칭했습니다, 터미널에 생성형 AI를 직접 제공합니다. GitHub CLI와 통합되어 자연어 명령 제안과 코드 설명을 제공합니다. 최근 업데이트는 "에이지닉" 워크플로우를 Autopilot 모드와 GPT-5.4 지원으로 확장하고, 개발 팀의 사용량을 추적하기 위한 새로운 엔터프라이즈 테레미터를 도입했습니다.
+#깃허브 #CopilotCLI #생성형AI #에이지닉워크플로우
+
+Hashtags: #GitHub #CopilotCLI #AIIntegration
+
+5 번째 검색 내용
+제목: 에티 1000개 샤드, 425TB의 MySQL 샤딩 아키텍처를 Vitess로 마이그레이션합니다.
+주소: https://www.infoq.com/news/2026/04/etsy-vitess-sharding-migration/
+설명: Etsy 엔지니어링 팀은 최근 회사가 MySQL 슬라딩 인프라를 Vitess로 이전하는 방법을 설명했습니다. 이 변경으로 Etsy의 내부 시스템에서 shard routing을 Vitess로 이동하여 vindex를 사용하여 resharding 데이터와 이전에 슬라딩되지 않은 테이블을 슬라딩하는 기능을 활성화할 수 있게 되었습니다.
+#MySQL #Vitess #슬라딩 #데이터베이스
+
+6 번째 검색 내용
+제목: CNCF와 Kusari가 클라우드 네이티브 프로젝트에서 소프트웨어 공급 체인 보안을 강화하기 위해 협력합니다.
+주소: https://www.infoq.com/news/2026/04/cncf-kusari-security/
+설명: 인공지능 기반의 클라우드 네이티브 컴퓨팅 재단(CNCF)과 Kusari는 클라우드 네이티브 프로젝트에서 소프트웨어 공급 체인 보안을 강화하기 위한 새로운 협력을 발표했습니다. CNCF가 호스팅하는 프로젝트에 대해 Kusari의 AI 기반 보안 도구를 무료로 접근할 수 있게 되었습니다.
+#인공지능 #클라우드네이티브 #소프트웨어공급체인보안
+
+Hashtags: #인공지능, #클라우드네이티브, #소프트웨어공급체인보안
+
+7 번째 검색 내용
 제목: 구글 클라우드는 포스트그레쿼스 코어 기능에 대한 진행 중인 작업을 강조합니다.
 주소: https://www.infoq.com/news/2026/04/google-cloud-postgresql/
-설명: Google Cloud는 PostgreSQL에 대한 최근 기술적 기여를 명확하게 설명했습니다. 이는 논리적 복제, 업그레이드 프로세스 및 전체 시스템 안정성에 대한 개선을 강조합니다. 이 업데이트는 상위 커뮤니티와의 협력이 지속되고 있음을 보여주며, 규모, 복제 및 운영 문제를 해결하기 위한 코어 엔진에 대한 개선에 집중합니다.
+설명: Google Cloud는 PostgreSQL에 대한 최근 기술적 기여를 명확하게 설명했습니다. 이것은 논리적 복제, 업그레이드 프로세스 및 전체 시스템 안정성에 대한 개선을 강조합니다. 이 업데이트는 업스트림 커뮤니티와의 지속적인 협력과 함께 코어 엔진에 대한 확장성, 복제 및 운영 문제를 해결하기 위한 개선 사항을 중점으로 집중합니다.
 #GoogleCloud #PostgreSQL #데이터베이스 #기술발전
 
 #hashtags: #GoogleCloud, #PostgreSQL, #데이터베이스, #기술발전
 
-5 번째 검색 내용
-제목: [INST] 안녕하세요! 저는 영어로 작성된 문장을 한글로 번역해드리겠습니다. 문장은 다음과 같이 변환됩니다: [/INST]
+8 번째 검색 내용
+제목: [INST] 이 문장을 한국어로 번역하십시오:
 
-Safari가 스크롤 끝에서 발생하는 이벤트 지원을 추가하고, 기본 웹 브라우저 커버리지를 완성합니다.
+                            사파리가 스크롤 엔드 이벤트 지원 추가, 기본 브라우저 커버리지 완성
+                         [/INST]
 주소: https://www.infoq.com/news/2026/04/safari-scrollend-support/
-설명: AI : 사파리가 12월에 버전 26.2를 출시하면서 스크롤엔드 이벤트 지원을 추가했습니다. 이 이벤트는 스크롤이 확실히 끝난 것을 알리며, 더이상 작업 대체를 필요로 하지 않고 신뢰할 수 있는 상호 작용을 가능하게 합니다. UI 업데이트와 스크롤 완료 기반의 데이터 검색을 관리하는 개발자들에게 성능을 향상시킵니다.
+설명: AI : 사파리가 12월에 버전 26.2를 출시하면서 스크롤엔드 이벤트 지원을 추가했습니다. 이 이벤트는 스크롤이 확실히 끝난 것을 알리며, 더이상 작업 대체를 필요로 하지 않고 더 신뢰할 수 있는 상호 작용을 가능하게 합니다. UI 업데이트와 스크롤 완료 기반의 데이터 검색을 관리하는 개발자들에게 성능을 향상시킵니다.
 #사파리 #스크롤엔드이벤트 #UI업데이트
 
-Hashtags: #사파리 #스크롤엔드이벤트 #UI업데이트
-
-6 번째 검색 내용
-제목: 클라우드플레어가 소개합니다: TypeScript CMS, 워드프레스의 후계자로 위치한 것입니다.
-주소: https://www.infoq.com/news/2026/04/cloudflare-emdash-wordpress/
-설명: Cloudflare는 EmDash라는 새로운 오픈소스 CMS를 미리 보기로 발표했습니다. WordPress의 "정신적 후계자"로 설명되는 이 시스템은 서버리스, 개발자 중심의 아키텍처로 새로운 CMS 모델을 재구성하고 있습니다. EmDash에는 AI 기능, 개발자 도구 및 WordPress로부터 마이그레이션 경로가 포함되어 있으며, 이는 WordPress와 넓은 CMS 커뮤니티 내에서 논쟁을 일으키고 있습니다.
-#Cloudflare #EmDash #CMS #AI #서버리스
-
-7 번째 검색 내용
-제목: 우버의 허브 연합이 16K 데이터셋과 10PB 이상을 분산화하여 규모에 따른 중단 없는 분석을 수행합니다.
-주소: https://www.infoq.com/news/2026/04/uber-hive-decentralized-data/
-설명: Uber는 Hive 데이터 웨어하우스를 분산하여 16,000개의 데이터셋(전체 용량 10펠바이트 이상)를 포인터 기반 연합으로 마이그레이션했습니다. 이 마이그레이션은 서비스 중지 시간 없음, 엄격한 ACL 적용, 개선된 관리, 분석과 기계 학습 작업을 위한 확장성 있고 도메인 특화 데이터셋을 보장합니다.
-#데이터 웨어하우스 #Uber #포인터 기반 연합
-
-Hashtags: #데이터분석 #기계학습 #클라우드컴퓨팅
-
-8 번째 검색 내용
-제목: AAIF의 MCP 개발 슬롯: 게이트웨이, gRPC, 및 관측성 신호 프로토콜 강화
-
-(Note: The translation may not be perfect as some terms might have specific meanings in the context of AAIF's MCP Dev Summit. Please confirm if the translation is accurate and appropriate for your purpose.)
-주소: https://www.infoq.com/news/2026/04/aaif-mcp-summit/
-설명: The MCP Dev Summit North America 2026, held on April 2-3 at the New York Marriott Marquis, gathered about 1,200 attendees. Hosted by the Linux Foundation's Agentic AI Foundation, discussions focused on the Model Context Protocol's evolution and enterprise adoption, particularly by Amazon and Uber, emphasizing security, interoperability, and scaling for production.
-#MCPDevSummit #ModelContextProtocol #EnterpriseAdoption
-
-Translated content: 
-The MCP Dev Summit North America 2026, held on April 2-3 at the New York Marriott Marquis, gathered about 1,200 attendees. Hosted by the Linux Foundation's Agentic AI Foundation, discussions focused on the Model Context Protocol's evolution and enterprise adoption, particularly by Amazon and Uber, emphasizing security, interoperability, and scaling for production.
-#MCPDevSummit #ModelContextProtocol #EnterpriseAdoption
+Hashtags: #사파리, #스크롤엔드이벤트, #UI업데이트
 
 9 번째 검색 내용
-제목: 개발자 엔지니어링 직장인으로서의 리더십 기술 개발
-[INST] 제공된 문장을 한글로 번역합니다. :
+제목: 클라우드플레어가 소개합니다: TypeScript CMS, 워드프레스의 후계자로 위치한 것입니다.
+주소: https://www.infoq.com/news/2026/04/cloudflare-emdash-wordpress/
+설명: Cloudflare는 EmDash라는 새로운 오픈소스 CMS를 미리 보기로 발표했습니다. WordPress의 "영혼의 후계자"라고 설명하는 EmDash는 서버리스, 개발자 중심의 아키텍처를 기반으로 재구성되었으며, AI 원생 기능, 개발자 도구, 그리고 WordPress에서 마이그레이션 경로가 있습니다. 이는 WordPress와 넓은 CMS 커뮤니티 내에서 논쟁을 일으킵니다.
+#Cloudflare #EmDash #CMS #AI #서버리스
 
-                            [/INST]
-개발자 엔지니어링 직장인으로서의 리더십 기술 개발
+10 번째 검색 내용
+제목: 우버의 허브 연합이 16K 데이터셋과 10PB 이상을 분산화하여 규모에 따른 중단 없는 분석을 수행합니다.
+주소: https://www.infoq.com/news/2026/04/uber-hive-decentralized-data/
+설명: Uber는 Hive 데이터 웨어하우스를 분산하여 16,000개의 데이터셋(전체 용량 10펠바이트 이상)을 포인터 기반 협력을 통해 마이그레이션했습니다. 이 마이그레이션은 서비스 중지 시간 없음, 엄격한 ACL 제한, 개선된 관리, 분석과 기계 학습 작업을 위한 확장성 있고 도메인 특화 데이터셋을 보장합니다.
+#데이터베이스 #마이그레이션 #Uber #분석
+
+#hashtags: #데이터베이스, #마이그레이션, #Uber, #분석
+
+11 번째 검색 내용
+제목: AAIF의 MCP 개발 슬롯: 게이트웨이, gRPC, 및 관측성 신호 프로토콜 강화
+
+(Note: The translation may not be perfect as some terms might not have direct translations in Korean. However, it conveys the meaning of the original sentence.)
+주소: https://www.infoq.com/news/2026/04/aaif-mcp-summit/
+설명: MCP Dev Summit North America 2026은 4월 2일-3일에 뉴욕 마리오트 마퀴스에서 열렸으며, 약 1,200명의 참석자가 모여었습니다. 라인 재단의 Agentic AI 재단이 주최한 이 행사에서는 Model Context Protocol의 발전과 기업 채택, 특히 Amazon과 Uber와의 채택에 초점을 맞췄으며, 보안, 상호운용성, 생산화를 위한 확장에 중점을 두었습니다.
+#MCPDevSummit #AgenticAI #ModelContextProtocol
+
+12 번째 검색 내용
+제목: 개발자 엔지니어링 대표 역할로의 이동을 위한 리더십 스킬 개발
+
+(Note: The translation may not be a direct word-for-word translation, but it conveys the meaning of the original sentence in Korean.)
 주소: https://www.infoq.com/news/2026/04/leadership-skills/
 설명: 인공지능은 세계를 변화시키고 있습니다. 이것은 의료, 금융, 교통과 같은 다양한 분야에 응용되고 있습니다.
 #인공지능 #의료 #금융 #교통
 
 Work isn’t the only place where you can develop valuable leadership skills, Sophie Weston mentioned in the video The Principal Engineer’s Path from her QCon London talk. She suggested thinking about the things you do outside of your job where you can learn and practice useful leadership skills, and bringing your full skill set - your whole self - to work.
 and Provide - #hashtags. Add 3 hashtags related to the translated content.
-#리더십 #직장외부 #전문가의경로
-
-10 번째 검색 내용
-제목: aspire 13.2가 확장된 CLI, TypeScript AppHost 미리보기, 및 대시보드 개선으로 발표되었습니다.
-주소: https://www.infoq.com/news/2026/04/aspire-13-2-release/
-설명: AI : Aspire 13.2는 CLI의 확장된 기능을 포함하여 분리 모드와 프로세스 관리, TypeScript AppHost 미리 보기, 대시보드 텔레메트리 내보내기 및 가져오기, Docker Compose 안정적인 게시, Microsoft Foundry 통합, Azure Virtual Network 지원 및 VS Code 확장의 주요 업데이트를 포함하고 있습니다. 이 릴리스는 구성 파일과 리소스 명령에 대한 여러 깨지는 변경 사항을 포함합니다.
-#Aspire13.2 #VSCode #AzureVirtualNetwork #MicrosoftFoundry
-
-Hashtags: #Aspire13.2, #VSCode, #AzureVirtualNetwork, #MicrosoftFoundry
-
-11 번째 검색 내용
-제목: 구글이 클라우드에서 AI 에이전트를 실행하는데 대체 가능성을 제공하며 Colab에 MCP 지원을 추가합니다.
-주소: https://www.infoq.com/news/2026/04/colab-mcp-server/
-설명: Google은 Colab MCP Server를 오픈소스로 발표하였습니다. AI 에이전트는 Google Colab과 직접적으로 Model Context Protocol(MCP)를 통해 상호작용할 수 있게 되었습니다. 프로젝트는 개발자들이 자신의 컴퓨터에서 계산 집중한 또는 보안적으로 위험한 작업을 전달할 수 있도록, 로컬 에이전트 워크플로우와 클라우드 기반 실행을 연결하는 것을 목표로 합니다.
-#인공지능 #GoogleColab #MCPServer
-
-Hashtags: #AI, #GoogleColab, #MCPServer
-
-12 번째 검색 내용
-제목: Tailwind CSS 4.2가 Webpack 플러그인, 새로운 팔레트와 논리적 속성 유틸리티를 배송합니다.
-주소: https://www.infoq.com/news/2026/04/tailwind-css-4-2-webpack/
-설명: Tailwind CSS 버전 4.2.0, 2026년 2월 18일에 발표되었습니다. 이 버전에는 스트리밍 통합을 위한 webpack 플러그인과 네 개의 새로운 컬러 팔레트가 포함되어 있습니다. 이 업데이트는 현재 프로젝트에 있는 팀과 다국어 애플리케이션을 개발하는 팀에게 특히 유용합니다.
-#TailwindCSS #웹개발 #스트리밍통합
-
-#hashtags: #TailwindCSS, #웹개발, #스트리밍통합
+#리더십 #자기발전 #작업밖에서의경험
 
 13 번째 검색 내용
-제목: 클라우드플레어와 젠트리히 기술대학교는 AI를 기반으로 캐시 최적화에 대한 접근 방식을 제시합니다.
-주소: https://www.infoq.com/news/2026/04/cloudflare-ai-caching-strategies/
-설명: Cloudflare와 ETH Zurich는 AI 주도 크롤러 트래픽이 CDN과 데이터베이스에서 전통적인 캐싱을 어려워하는 방식을 강조합니다. 그들은 사람용 성능과 AI 서비스를 동시에 유지하면서도 캐시 효율성과 시스템 안정성을 유지하기 위해 AI 인식 전략을 제안합니다. 이러한 전략은 별도의 캐시 계층, 적응형 알고리즘 및 크롤러 당 요금 모델과 같은 것들입니다.
-#인공지능 #CDN #데이터베이스
+제목: 구글이 클라우드에서 AI 에이전트를 실행하는데 대체 가능성을 제공합니다.
 
-추가 해시태그: #AI_캐싱 #성능_균형 #시스템_안정성
+[INST] Translate my sentence into Korean:
 
-[INST] Human : Translate my sentence into Korean: Cloudflare and ETH Zurich highlight how AI-driven crawler traffic challenges traditional caching in CDNs and databases. They propose AI-aware strategies including separate cache tiers, adaptive algorithms, and pay-per-crawl models to balance performance for human users and AI services while maintaining cache efficiency and system stability.
-                     and Provide - #hashtags. Add 3 hashtags related to the translated content. [/INST]
+Google Brings MCP Support to Colab, Enabling Cloud Execution for AI Agents
+주소: https://www.infoq.com/news/2026/04/colab-mcp-server/
+설명: Google은 Colab MCP Server를 오픈소스로 발표하였습니다. AI 에이전트는 Google Colab과 직접적으로 Model Context Protocol(MCP)를 통해 상호작용할 수 있게 되었습니다. 프로젝트는 로컬 에이전트 워크플로우와 클라우드 기반 실행을 연결하여 개발자들은 자신의 머신에서 계산 집중적이거나 보안상 위험한 작업을 전달할 수 있습니다.
+#인공지능 #GoogleColab #MCPServer
+
+#hashtags: #AI, #Google, #CloudComputing
 
 14 번째 검색 내용
-제목: [INST] 기본 사용 가능성: GitHub Actions 사용자 지정 실행자 이미지 일반 사용 가능
-[/INST]
-주소: https://www.infoq.com/news/2026/04/github-actions-custom-runners/
-설명: GitHub는 호스팅된 러너에 대한 사용자 정의 이미지 사용을 공지했습니다. 10월에 시작된 공개 미리 보기 단계를 떠나 이제입니다. 이 기능은 팀이 실제로 워크플로우 요구 사항을 충족하는 가상 머신 이미지를 생성하기 위해 GitHub에서 승인된 기본 이미지를 사용할 수 있게 합니다.
-#GitHub #사용자 정의 이미지 #가상 머신 이미지 #워크플로우 요구 사항
-
-#hashtags:
-1. #GitHubUpdate
-2. #CustomImages
-3. #WorkflowOptimization
+제목: .NET Aspire 13.2가 확장된 CLI, TypeScript AppHost 미리보기, 및 대시보드 개선으로 발표되었습니다.
+주소: https://www.infoq.com/news/2026/04/aspire-13-2-release/
+설명: ASPIRE 13.2는 CLI의 확장된 기능을 포함하여 분리 모드와 프로세스 관리, TypeScript AppHost 미리 보기, 대시보드 전송 및 가져오기, Docker Compose 안정적인 게시, Microsoft Foundry 통합, Azure Virtual Network 지원 및 VS Code 확장의 주요 업데이트를 포함합니다. 이 릴리스에는 구성 파일과 리소스 명령에 대한 여러 깨지는 변경 사항도 포함되어 있습니다.
+#ASPIRE13.2 #VSCode #AzureVirtualNetwork #MicrosoftFoundry
 
 15 번째 검색 내용
-제목: 내부 스포티파이의 2025 워프드 아카이브: AI 뉴레이리어 대량 생성과 개인정보 교환
+제목: 탐슨 CSS 4.2에 Webpack 플러그인, 새로운 팔레트 및 논리적 속성 유틸리티가 배송됩니다.
+주소: https://www.infoq.com/news/2026/04/tailwind-css-4-2-webpack/
+설명: Tailwind CSS 버전 4.2.0, 2026년 2월 18일에 발표되었습니다. 이 버전에는 스트리밍 통합을 위한 webpack 플러그인이 포함되어 있으며, 4개의 새로운 컬러 팔레트가 추가되었습니다. 이 업데이트는 논리적 속성 유틸리티를 확장하고 재컴파일 속도를 3.8배로 향상시키며, 기존 프로젝트에 있는 팀과 다국어 애플리케이션을 개발하는 팀에게 특히 유용합니다.
+#TailwindCSS #webpack #재컴파일 #멀티언어
 
-(Note: The translation may not be perfect as it involves some technical terms and context understanding. Please review the translation for accuracy.)
-주소: https://www.infoq.com/news/2026/04/spotify-wrapped-privacy/
-설명: Spotify의 개발팀은 2025년 "Wrapped Archive"를 개발하여, 350만 명의 사용자에게 1.4억 개의 개인화된 보고서를 생성했습니다. 이 시스템은 주요 듣는 날을 식별하고 언어 모델을 사용하여 이야기를 조합합니다. 기업들이 점차 이야기 요약을 제공함에 따라, 사용자 개인정보와 데이터 추적에 대한 우려가 지속되며, 통찰과 개인정보 보호 간의 균형을 유지하는 데 필요한 조치가 필요합니다.
-#WrappedArchive #개인정보보호 #데이터추적
-
-Translated content:
-Spotify's engineering team developed the 2025 "Wrapped Archive," generating 1.4 billion personalized reports for 350 million users. This system identifies key listening days and crafts narratives using a language model. As companies increasingly provide narrative recaps, concerns about user privacy and data tracking persist, necessitating a balance between insights and privacy safeguards.
-#WrappedArchive #개인정보보호 #데이터추적
-
-Hashtags:
-1. #WrappedArchive
-2. #개인정보보호
-3. #데이터추적
+#hashtags: #tailwindcss, #webpack, #recompilation, #multilingual-applications
 
