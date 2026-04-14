@@ -1,0 +1,143 @@
+1 번째 검색 내용
+제목: 구글은 로컬 우선, 장치에서의 AI 추론에 중점을 두고 Gemma 4를 발표했습니다.
+주소: https://www.infoq.com/news/2026/04/gemma-4-android-ai-inference/
+설명: AI : 견마4의 출시로 인해, Google은 Android 개발에 대한 지역적인, 자율 인공지능을 지원하기 위해 소프트웨어 전체 생명주기를 지원하는 데 사용되는 모델의 가족을 설계했습니다. 이것은 코딩부터 제품까지입니다.
+#견마4 #인공지능 #안드로이드_개발
+
+Translated sentence: With the release of Gemma 4, Google aims to enable local, agentic AI for Android development through a family of models designed to support the entire software lifecycle, from coding to production.
+#hashtags: #견마4 #인공지능 #안드로이드_개발
+
+2 번째 검색 내용
+제목: 리프트는 AI와 인간이 반복적으로 참여하는 지역화 전략을 통해 글로벌 지역화를 확장합니다.
+주소: https://www.infoq.com/news/2026/04/lyft-ai-localization-pipeline/
+설명: Lyft는 AI 기반의 로컬화 시스템을 구현하여 앱과 웹 콘텐츠 번역 속도를 높였습니다. 대규모 언어 모델과 인간 검토를 사용하는 이중 파이프라인을 사용하여 대부분의 콘텐츠를 몇 분 내에 처리합니다. 국제 출시 속도를 향상시키고, 브랜드 일관성을 보장하며, 지역 표현과 법적인 메시징과 같은 복잡한 사례를 효율적으로 처리합니다.
+#AI #로컬화 #번역 #Lyft
+
+Hashtags: #인공지능, #로컬화, #번역
+
+3 번째 검색 내용
+제목: AWS가 지속 가능성 콘솔을 API 액세스와 범위 1-3 이중 감축량 보고서로 출시합니다.
+주소: https://www.infoq.com/news/2026/04/aws-sustainability-console/
+설명: AWS는 서비스와 지역별 Scope 1-3 배출량 데이터를 제공하며, API 액세스, 구성 가능한 CSV 출력 및 독립형 수익 허용에서 배출 보고를 분리합니다. AWS CTO Werner Vogels는 이상, 비용, 오류 등과 함께 대화성 지표로 배출량을 삼았습니다.
+#AWS #배출량 #대화성 지표
+
+#hashtags: #AWS #배출량 #대화성_지표
+
+4 번째 검색 내용
+제목: 인간적 릴리즈는 클로드 미스토스 미리보기를 사이버 보안 기능으로 발표하지만 공개 액세스를 제한합니다.
+주소: https://www.infoq.com/news/2026/04/anthropic-claude-mythos/
+설명: Anthropic는 최고의 AI 모델인 Claude Mythos Preview를 소개했습니다. 이 모델은 이전 버전에 비해 추론, 코딩, 사이버 보안 등을 크게 향상시킵니다. 이 모델은 공개적으로 접근할 수 없고, 기술 회사들의 컨소시엄인 Project Glasswing 통해 제한된 액세스만 가능합니다. 내부 테스트에서는 모델이 효과적으로 중요한 보안 오류를 발견할 수 있는 능력을 드러냈습니다.
+#인공지능 #사이버보안 #프로젝트글래스윙
+
+Translated content hashtags: #인공지능 #사이버보안 #프로젝트글래스윙
+
+5 번째 검색 내용
+제목: 자바 뉴스 요약: JDK 27 출시 일정, Hibernate, LangChain4j, Keycloak, Helidon, Junie CLI
+
+[INST] Translate my sentence into Korean :
+
+                            Java News Roundup: JDK 27 Release Schedule, Hibernate, LangChain4j, Keycloak, Helidon, Junie CLI
+                         [/INST]
+주소: https://www.infoq.com/news/2026/04/java-news-roundup-apr06-2026/
+설명: AI : 이번 주 4월 6일 Java 뉴스 요약은 다음과 같습니다: Primitive Types in Patterns, instanceof와 switch에 대한 5차 미리보기, JDK 27의 제안된 출시 일정, Hibernate, LangChain4j, Keycloak 및 Google ADK for Java의 포인트 릴리스, Helidon에 대한 유지보수 릴리스, Spring Cloud Gateway에서 CVE 발견 및 JetBrains IDEs에 Junie CLI가 통합되었습니다.
+#Java #RN_20260406 #프로그래밍언어뉴스 #JetBrainsIDE
+
+Hashtags: #Java #RN_20260406 #프로그래밍언어뉴스 #JetBrainsIDE
+
+6 번째 검색 내용
+제목: [INST] 기본 사용 가능성에 도달한 GitHub Copilot CLI
+[/INST]
+주소: https://www.infoq.com/news/2026/04/github-copilot-cli-ga/
+설명: AI : 깃허브는 Copilot CLI를 일반적으로 사용 가능하게 론칭했습니다, 터미널에 생성적 AI를 직접 제공합니다. GitHub CLI와 통합되어 자연어 명령 제안과 코드 설명을 제공합니다. 최근 업데이트는 "에이지닉" 워크플로우를 Autopilot 모드와 GPT-5.4 지원으로 확장하며, 개발 팀의 사용량을 추적하기 위한 새로운 엔터프라이즈 테레미터를 도입했습니다.
+#깃허브 #코드 #AI #터미널
+
+#hashtags: #AI #코드 #개발팀 #깃허브 #터미널
+
+7 번째 검색 내용
+제목: 에티 1000개 샤드, 425TB의 MySQL 샤딩 아키텍처를 Vitess로 마이그레이션합니다.
+주소: https://www.infoq.com/news/2026/04/etsy-vitess-sharding-migration/
+설명: Etsy 엔지니어링 팀은 최근 회사가 MySQL 슬라딩 인프라를 Vitess로 이전했다는 내용을 설명했습니다. 이 변경으로 Etsy의 내부 시스템에서 shard routing을 Vitess로 이동하여 vindex를 사용하여 resharding 데이터와 이전에 슬라딩되지 않은 테이블을 슬라딩하는 기능을 활성화할 수 있게 되었습니다.
+#Etsy #MySQL #Vitess #슬라딩 #데이터베이스
+
+8 번째 검색 내용
+제목: CNCF와 Kusari가 클라우드 네이티브 프로젝트에서 소프트웨어 공급 체인 보안을 강화하기 위해 협력합니다.
+주소: https://www.infoq.com/news/2026/04/cncf-kusari-security/
+설명: CNCF와 Kusari는 클라우드 네이티브 프로젝트에서 소프트웨어 공급 체인 보안을 강화하기 위해 협력하고, CNCF가 호스팅하는 프로젝트에 대한 Kusari의 AI 기반 보안 도구를 무료로 접근할 수 있게 되었습니다.
+#인공지능 #소프트웨어 #보안 #클라우드네이티브
+
+9 번째 검색 내용
+제목: 구글 클라우드는 포스트그레스쿼л 코어 기능에 대한 진행 중인 작업을 강조합니다.
+주소: https://www.infoq.com/news/2026/04/google-cloud-postgresql/
+설명: Google Cloud는 PostgreSQL에 대한 최근 기술적 기여를 명확하게 설명했습니다. 이는 논리적 복제, 업그레이드 프로세스, 및 전체 시스템의 안정성을 개선한 것에 초점을 맞춥니다. 이 업데이트는 업스트림 커뮤니티와의 협력이 지속되고 있음을 강조하며, 규모, 복제 및 운영 문제를 해결하기 위한 코어 엔진에 대한 개선 사항을 중심으로 합니다.
+#GoogleCloud #PostgreSQL #데이터베이스 #기술적기여
+
+Translated content hashtags: #GoogleCloud, #PostgreSQL, #데이터베이스, #기술적기여
+
+10 번째 검색 내용
+제목: [INST] 이 문장을 한국어로 번역합니다:
+
+Safari가 스크롤 끝 이벤트 지원 추가, 기본 브라우저 커버리지 완성 [/INST]
+주소: https://www.infoq.com/news/2026/04/safari-scrollend-support/
+설명: AI : Safari의 12월에 발표한 버전 26.2는 스크롤 이벤트를 지원하여 주요 브라우저와 완전히 맞춥니다. 이 이벤트는 스크롤이 확실히 끝난 것을 알리며, 작업 대체 방법 없이도 더 신뢰할 수 있는 상호 작용을 가능하게 합니다. UI 업데이트와 스크롤 완료를 기반으로 데이터 검색을 관리하는 개발자에게 성능을 향상시킵니다.
+#Safari #스크롤 #UI #데이터 검색
+
+Hashtags: #Safari, #스크롤, #UI, #데이터 검색
+
+11 번째 검색 내용
+제목: 클라우드플레어가 소개합니다: TypeScript CMS, Wordpress의 후계자로 위치된 것입니다.
+주소: https://www.infoq.com/news/2026/04/cloudflare-emdash-wordpress/
+설명: Cloudflare는 EmDash라는 새로운 오픈소스 CMS를 미리 보기로 발표했습니다. WordPress의 "정신적 후계자"라고 설명하는 EmDash는 서버리스, 개발자 중심의 아키텍처를 중심으로 CMS 모델을 재구성했습니다. AI 원시 기능, 개발자 도구, WordPress에서 마이그레이션 경로가 포함되어 있어, WordPress와 더 넓은 CMS 커뮤니티 내에서 논쟁을 일으키고 있습니다.
+#Cloudflare #EmDash #CMS #AI #WordPress
+
+12 번째 검색 내용
+제목: 우버의 허브 연합이 16K 데이터셋과 10PB 이상을 분산화하여 규모에 따른 중단 없는 분석을 수행합니다.
+주소: https://www.infoq.com/news/2026/04/uber-hive-decentralized-data/
+설명: Uber는 Hive 데이터 웨어하우스를 분산하여 16,000개의 데이터셋(전체 용량 10펀티바이트 이상)를 포인터 기반 협력을 통해 마이그레이션했습니다. 이 마이그레이션은 서비스 중지 시간 없음, 엄격한 ACL 적용, 향상된 관리, 분석과 기계학습 작업을 위한 확장성 있고 도메인 특화 데이터셋을 보장합니다.
+#데이터베이스 #마이그레이션 #Uber #분석
+
+#hashtags: #데이터베이스, #마이그레이션, #Uber, #분석
+
+13 번째 검색 내용
+제목: AAIF의 MCP 개발 슬롯: 게이트웨이, gRPC, 및 관측성 신호 프로토콜 강화
+
+(Note: The translation may not be perfect as some terms might not have direct equivalents in Korean. However, it conveys the meaning of the original sentence.)
+주소: https://www.infoq.com/news/2026/04/aaif-mcp-summit/
+설명: The MCP Dev Summit North America 2026, held on April 2-3 at the New York Marriott Marquis, gathered about 1,200 attendees. Hosted by the Linux Foundation's Agentic AI Foundation, discussions focused on the Model Context Protocol's evolution and enterprise adoption, particularly by Amazon and Uber, emphasizing security, interoperability, and scaling for production.
+#MCPDevSummit #ModelContextProtocol #EnterpriseAdoption
+
+Translated content: 
+MCP Dev Summit North America 2026은 4월 2일-3일에 뉴욕 맥리오트 마리코트 호텔에서 약 1,200명의 참석자가 모여 있었습니다. Linux 재단의 Agentic AI 재단이 주최한 이 회의에서는 Model Context Protocol의 발전과 기업 적용, 특히 Amazon과 Uber와의 협력을 중심으로 보안, 상호운용성, 생산화를 위한 확장에 대해 논의가 이루어졌습니다.
+#MCPDevSummit #ModelContextProtocol #기업적용
+
+Hashtags:
+1. #인공지능
+2. #Linux재단
+3. #모델컨텍스트프로토콜
+
+14 번째 검색 내용
+제목: 개발자 엔지니어링 직장인으로서의 리더십 스킬 개발
+[INST] 제공된 문장을 한글로 번역합니다. :
+
+                            [/INST]
+개발자 엔지니어링 직장인으로서의 리더십 스킬 개발
+
+[INST] 제시된 문장을 한국어로 번역합니다. :
+
+                            리더십 기술 개발을 위한 주요 엔지니어링 직장인
+[/INST]
+주소: https://www.infoq.com/news/2026/04/leadership-skills/
+설명: 인공지능은 세계를 변화시키고 있습니다. 이것은 의료, 금육, 교통과 같은 다양한 분야에 응용되고 있습니다.
+#인공지능 #의료 #금육 #교통
+
+작업은 유용한 리더십 기술을 배우고 연습할 수 있는 곳 중 하나만 아님, Sophie Weston이 비디오 The Principal Engineer's Path에서 언급했습니다. 그녀는 직업 외에서 배울 수 있고 연습할 수 있는 유용한 리더십 스킬을 생각하고, 전체 기술 세트 - 자신의 모든 자신 -을 작업에 가져와라고 제안했습니다.
+#리더십 #개발 #교육 #인공지능
+
+15 번째 검색 내용
+제목: 구글이 클라우드에서 AI 에이전트를 실행하는데 대체 가능성을 제공하며 Colab에 MCP 지원을 추가합니다.
+주소: https://www.infoq.com/news/2026/04/colab-mcp-server/
+설명: Google은 Colab MCP Server를 오픈소스로 발표하여, AI 에이전트가 Google Colab과 직접 상호작용할 수 있도록 합니다. 프로젝트는 로컬 에이전트 워크플로우를 클라우드 기반 실행으로 연결하고, 개발자들은 자신의 머신에서 계산 집중적이거나 보안상 위험한 작업을 전달할 수 있습니다.
+#인공지능 #GoogleColab #클라우드컴퓨팅
+
+Translated content: Google has released the open-source Colab MCP Server, enabling AI agents to directly interact with Google Colab through the Model Context Protocol (MCP). The project is designed to bridge local agent workflows with cloud-based execution, allowing developers to offload compute-intensive or potentially unsafe tasks from their own machines.
+#인공지능 #GoogleColab #클라우드컴퓨팅
+
