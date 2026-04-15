@@ -1,0 +1,132 @@
+1 번째 검색 내용
+제목: 새로운 Rowhammer 공격으로 NVIDIA GPU에 대한 전체 시스템 침략 가능
+
+(Note: The translation may not be perfect as it is a technical term. Please verify the accuracy if needed.)
+주소: https://www.infoq.com/news/2026/04/rowhammer-attacks-nvidia/
+설명: 보안 연구자들은 NVIDIA GPU를 대상으로 새로운 Rowhammer 공격 클래스를 발표하였습니다. 이 공격은 메모리 손상에서 전체 시스템 침략까지 계급을 올려, 하드웨어 수준의 보안 위험에 대한 중요한 변화를 나타냅니다.
+#Rowhammer #NVIDIAGPU #보안위험
+
+2 번째 검색 내용
+제목: 인간적 논문은 LLM에서 감정과 같은 메커니즘으로 인한 행동 영향을 검토합니다.
+주소: https://www.infoq.com/news/2026/04/anthropic-paper-llms/
+설명: Anthropic의 최근 논문은 대규모 언어 모델이 감정과 관련된 개념을 내부적으로 표현하는 방식과 이러한 표현이 모델의 응답에 미치는 영향을 조사합니다. 이 작업은 회사의 해석성 연구의 일부로, Claude Sonnet 4.5의 내부 활성화를 분석하여 모델 응답에 대한 기본 메커니즘을 이해하는 데 도움이 됩니다.
+#인공지능 #언어모델 #감정처리
+
+Translated content: Anthropic's recent paper examines how large language models internally represent concepts related to emotions and how these representations influence behavior. The work is part of the company’s interpretability research and focuses on analyzing internal activations in Claude Sonnet 4.5 to understand the mechanisms behind model responses better.
+#인공지능 #언어모델 #감정처리
+
+3 번째 검색 내용
+제목: 에어비엔비가 높은 대량 메트릭 파이프라인을 OpenTelemetry로 마이그레이션합니다.
+주소: https://www.infoq.com/news/2026/04/airbnd-opentelemetry-vmagent/
+설명: Airbnb의 관측성 엔지니어링 팀은 StatsD와 전용 Veneur 기반 집계 파이프라인으로부터 대규모 마이그레이션을 떠나 현대적인, 오픈소스 메트릭 스택을 OpenTelemetry 프로토콜(OTLP), OpenTelemetry Collector, 및 VictoriaMetrics의 vmagent를 기반으로 구축했습니다. 이 결과적인 시스템은 현재 생산 환경에서 10억 개 이상의 샘플을 초기화합니다.
+#OpenTelemetry #관측성엔지니어링 #Airbnb #VictoriaMetrics
+
+#hashtags: #OpenTelemetry, #관측성엔지니어링, #Airbnb, #VictoriaMetrics
+
+4 번째 검색 내용
+제목: 구글은 로컬 우선, 장치에서의 AI 추론에 중점을 두고 Gemma 4를 발표했습니다.
+주소: https://www.infoq.com/news/2026/04/gemma-4-android-ai-inference/
+설명: AI : 견마4의 출시로 인해, Google은 Android 개발에 대한 지역적인, 에이전트적인 AI를 활성화하기 위해 소프트웨어 생명주기의 모든 부분을 지원하는 모델 패밀리를 설계했습니다. 코딩부터 제품까지.
+#견마4 #AI #안드로이드_개발
+
+#hashtags: #인공지능 #견마4 #안드로이드_개발
+
+5 번째 검색 내용
+제목: 리프트는 AI와 인간이 반복적으로 참여하는 지역화 전략을 통해 글로벌 지역화를 확장합니다.
+주소: https://www.infoq.com/news/2026/04/lyft-ai-localization-pipeline/
+설명: Lyft는 AI 기반의 로컬화 시스템을 구현하여 앱과 웹 콘텐츠 번역 속도를 높였습니다. 대규모 언어 모델과 인간 검토를 사용하는 이중 파이프라인을 사용하여 대부분의 콘텐츠를 몇 분 내에 처리합니다. 국제 출시 속도를 향상시키고, 브랜드 일관성을 보장하며, 지역 용어와 법적인 메시징과 같은 복잡한 경우를 효율적으로 처리합니다.
+#AI #로컬화 #번역 #Lyft
+
+Hashtags: #인공지능, #로컬화, #번역, #Lyft
+
+6 번째 검색 내용
+제목: AWS가 지속 가능성 콘솔을 API 액세스와 범위 1-3 이중 감축량 보고서로 출시합니다.
+주소: https://www.infoq.com/news/2026/04/aws-sustainability-console/
+설명: AWS는 서비스와 지역별 Scope 1-3 배출량 데이터, API 액세스, 구성 가능한 CSV 출력을 포함한 독립형 수충 콘솔을 출시했습니다. 이 콘솔은 배출량 보고와 청구 권한을 분리합니다. AWS CTO Werner Vogels는 탄소를 지연 시간, 비용, 오류 률과 함께 관찰성 스택의 아키텍처 메트릭으로 간주해야 한다고 설명했습니다.
+#AWS #수충 #관찰성_스택
+
+Hashtags: #AWS, #수충, #관찰성_스택
+
+7 번째 검색 내용
+제목: 인간적 릴리스: 클로드 미스토스 미리보기를 사이버 보안 기능으로 함께 발표하지만 공개 액세스를 제한합니다.
+주소: https://www.infoq.com/news/2026/04/anthropic-claude-mythos/
+설명: Anthropic는 최고의 AI 모델인 Claude Mythos Preview를 소개했습니다. 이 모델은 이전에 발표된 것보다 대화, 코딩, 사이버 보안 등 능력이 크게 향상되었습니다. 이 모델은 공개적으로 접근할 수 없고, 기술 회사들의 컨소시엄인 Project Glasswing을 통해 제한된 액세스만 가능합니다. 내부 테스트에서는 모델이 효과적으로 중요한 보안 오류를 발견할 수 있는 능력을 드러냈습니다.
+#인공지능 #사이버보안 #프로젝트글래스윙
+
+Translated sentence: Anthropic has introduced Claude Mythos Preview, its most advanced AI model, improving significantly in reasoning, coding, and cybersecurity. Unlike previous releases, it will not be publicly available. Access is limited to a consortium of tech companies through Project Glasswing. Internal tests revealed the model's ability to discover critical security flaws effectively.
+
+#hashtags: #인공지능 #사이버보안 #프로젝트글래스윙
+
+8 번째 검색 내용
+제목: 자바 뉴스 요약: JDK 27 출시 일정, Hibernate, LangChain4j, Keycloak, Helidon, Junie CLI
+
+[INST] Translate my sentence into Korean :
+                            Java News Roundup: JDK 27 Release Schedule, Hibernate, LangChain4j, Keycloak, Helidon, Junie CLI
+                         [/INST]
+주소: https://www.infoq.com/news/2026/04/java-news-roundup-apr06-2026/
+설명: AI : 이번 주의 Java 뉴스 요약은 4월 6일, 2026년에 발표된 다음과 같습니다: Primitive Types in Patterns의 5차 미리보기, instanceof와 switch; JDK 27의 제안된 릴리스 일정; Hibernate, LangChain4j, Keycloak 및 Google ADK for Java의 포인트 릴리스; Helidon에 대한 유지보수 릴리스; Spring Cloud Gateway에서 CVE; 그리고 JetBrains IDEs에 Junie CLI가 통합되었습니다.
+#Java #RN #프로그래밍_언어 #프레임워크
+
+#hashtags:
+1. #JavaNews
+2. #ProgrammingLanguage
+3. #SoftwareDevelopment
+
+9 번째 검색 내용
+제목: [INST] 기본 사용 가능성에 도달한 GitHub Copilot CLI
+[/INST]
+주소: https://www.infoq.com/news/2026/04/github-copilot-cli-ga/
+설명: AI : 깃허브는 Copilot CLI를 일반적으로 사용 가능하게 론칭했습니다, 터미널에 생성형 AI를 직접 제공합니다. GitHub CLI와 통합되어 자연어 명령 제안과 코드 설명을 제공합니다. 최근 업데이트는 "에이지닉" 워크플로우를 Autopilot 모드와 GPT-5.4 지원으로 확장하고, 개발 팀의 사용량을 추적하기 위한 새로운 엔터프라이즈 테레미터를 도입했습니다.
+#깃허브 #코드 #AI #터미널
+
+#hashtags: #AI #코드 #개발팀 #깃허브 #터미널
+
+10 번째 검색 내용
+제목: 에티 1000개 샤드, 425TB의 MySQL 샤딩 아키텍처를 Vitess로 마이그레이션합니다.
+주소: https://www.infoq.com/news/2026/04/etsy-vitess-sharding-migration/
+설명: Etsy 엔지니어링 팀은 최근 회사가 MySQL 슬라딩 인프라를 Vitess로 이전하는 방법을 설명했습니다. 이 변경으로 Etsy의 내부 시스템에서 shard routing을 Vitess로 이동하여 vindex를 사용하여 resharding 데이터와 이전에 슬라딩되지 않은 테이블을 슬라딩하는 기능을 활성화할 수 있게 되었습니다.
+#MySQL #Vitess #슬라딩 #데이터베이스
+
+11 번째 검색 내용
+제목: CNCF와 Kusari가 클라우드 네이티브 프로젝트에서 소프트웨어 공급 체인 보안을 강화하기 위해 협력합니다.
+주소: https://www.infoq.com/news/2026/04/cncf-kusari-security/
+설명: 인공지능 기반의 보안 도구를 제공하는 Kusari와 Cloud Native Computing Foundation(CNCF)가 클라우드 네이티브 프로젝트에서 소프트웨어 공급 체인 보안을 강화하기 위해 새로운 협력을 발표했습니다. CNCF가 호스팅하는 프로젝트에 대해 Kusari의 AI 지원 보안 도구를 무료로 접근할 수 있게 되었습니다.
+#인공지능 #보안 #소프트웨어공급체인 #클라우드네이티브
+
+#hashtags: #AI #Security #SoftwareSupplyChain #CloudNative
+
+12 번째 검색 내용
+제목: 구글 클라우드는 포스트그레쿼스 코어 기능에 대한 진행 중인 작업을 강조합니다.
+주소: https://www.infoq.com/news/2026/04/google-cloud-postgresql/
+설명: Google Cloud는 최근 혁신적인 기술 기여를 PostgreSQL에 대해 설명했습니다. 이 업데이트는 로직 복제, 업그레이드 프로세스 및 전체 시스템 안정성에 대한 개선 사항을 강조하고 있으며, 확장성, 복제 및 운영 문제를 해결하기 위해 핵심 엔진의 개선 사항을 중점적으로 다루고 있습니다.
+#GoogleCloud #PostgreSQL #데이터베이스 #확장성
+
+Hashtags: #GoogleCloud, #PostgreSQL, #데이터베이스, #확장성
+
+13 번째 검색 내용
+제목: [INST] 이 문장을 한국어로 번역하십시오:
+
+                            사파리가 스크롤 엔드 이벤트 지원 추가, 기본 브라우저 커버리지 완성
+                        [/INST]
+주소: https://www.infoq.com/news/2026/04/safari-scrollend-support/
+설명: AI : 사파리가 12월에 버전 26.2를 출시하면서 스크롤엔드 이벤트 지원을 추가했습니다. 이 이벤트는 스크롤이 확실히 끝난 것을 알리며, 스크롤 완료에 따른 UI 업데이트와 데이터 펑킹의 신뢰성 있는 상호 작용을 위해 워크어라운드가 필요하지 않도록 합니다. 개발자들이 스크롤 완료에 따른 UI 업데이트와 데이터 펑킹의 성능을 향상시키는 데 도움이 됩니다.
+#사파리 #스크롤엔드이벤트 #개발자 #성능 향상
+
+Hashtags: #사파리, #스크롤엔드이벤트, #개발자, #성능향상
+
+14 번째 검색 내용
+제목: 클라우드플레어가 소개합니다: TypeScript CMS, 워드프레스의 후계자로 위치한 것입니다.
+주소: https://www.infoq.com/news/2026/04/cloudflare-emdash-wordpress/
+설명: Cloudflare는 EmDash라는 새로운 오픈소스 CMS를 미리 보기로 발표했습니다. WordPress의 "정신적 후계자"로 설명되는 EmDash는 서버리스, 개발자 중심의 아키텍처를 중심으로 재구성된 CMS 모델입니다. AI 원시 기능, 개발자 도구, WordPress에서 마이그레이션 경로가 포함되어 있어, WordPress와 더 넓은 CMS 커뮤니티 내에서 논쟁을 일으키고 있습니다.
+#Cloudflare #EmDash #CMS
+
+#hashtags: #오픈소스 #서버리스 #개발자중심아키텍처
+
+15 번째 검색 내용
+제목: 우버의 허브 연합이 16K 데이터셋과 10PB 이상을 분산처리하여 규모에 따른 중단 없는 분석을 수행한다.
+주소: https://www.infoq.com/news/2026/04/uber-hive-decentralized-data/
+설명: Uber는 Hive 데이터 웨어하우스를 분산하여 16,000개의 데이터셋(전체 용량 10펠바이트 이상)를 포인터 기반 협력을 통해 마이그레이션했습니다. 이 마이그레이션은 서비스 중지 시간 없음, 엄격한 ACL 적용, 개선된 관리, 분석과 기계 학습 작업에 대한 확장성이 있는 도메인 특화 데이터셋을 보장합니다.
+#데이터베이스 #마이그레이션 #Uber #분석
+
+#hashtags: #데이터베이스, #마이그레이션, #Uber, #분석
+
