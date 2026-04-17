@@ -1,68 +1,87 @@
 1 번째 검색 내용
-제목: AWS가 S3 파일 시스템 액세스를 제공하는 S3 버킷에 대한 파일 시스템 접근을 소개합니다.
-주소: https://www.infoq.com/news/2026/04/aws-s3-files/
-설명: AWS는 최근에 S3 파일을 소개했습니다. 이것은 Amazon S3 버킷을 표준 파일 시스템 인터페이스를 통해 사용자가 마운트할 수 있으며, 컴퓨팅 서비스가 S3에 저장된 데이터와 직접적으로 작업할 수 있도록 시스템이 자동으로 파일을 S3 요청으로 번역합니다.
-#AWS #S3 #파일시스템 #컴퓨팅서비스
-
-Translated content: AWS recently introduced S3 Files, which lets users mount an Amazon S3 bucket and access its data through a standard file system interface. Applications can read and write files using standard file operations, while the system automatically translates them into S3 requests, allowing compute services to work directly with data stored in S3.
-#AWS #S3 #파일시스템 #컴퓨팅서비스
+제목: AWS가 기업 내에서 AI 에이전트의 폭발적인 증가를 관리하기 위해 미리보기로 에이전트 레지스트리를 출시했습니다.
+주소: https://www.infoq.com/news/2026/04/aws-agent-registry-preview/
+설명: AWS는 Amazon Bedrock AgentCore의 미리 보기로 Agent Registry를 발표했습니다. 이것은 조직 내에서 AI 에이전트, 도구 및 MCP 서버를 검색하고, 관리하고, 재사용할 수 있는 중앙화된 카탈로그를 제공합니다. 레지스트리는 에이전트가 어디서도 실행되는지 무관하게 인덱싱되고, MCP와 A2A 프로토콜을 모두 원시적으로 지원합니다. Microsoft, Google Cloud, 및 ACP Registry는 경쟁 솔루션을 제공합니다.
+#인공지능 #에이전트레지스트리 #AWS #BedrockAgentCore
+#MCP #A2A프로토콜 #경쟁솔루션
+#ACP레지스트리
 
 2 번째 검색 내용
-제목: 구글은 애자치 2.0 라이선스로 Gemma 4를 개방합니다. 이 시스템은 다중 모드와 에이전트적 기능을 포함하고 있습니다.
+제목: AWS가 S3 버킷에 파일 시스템 액세스를 제공하기 위해 S3 파일 소개
+
+(Note: The translation may not be perfect as it is a machine translation. Please review and make necessary adjustments if needed.)
+주소: https://www.infoq.com/news/2026/04/aws-s3-files/
+설명: AWS는 최근에 S3 파일을 소개했습니다. 사용자들은 Amazon S3 버킷을 표준 파일 시스템 인터페이스를 통해 데이터에 접근할 수 있습니다. 응용 프로그램은 표준 파일 작업을 사용하여 파일을 읽고 쓰는 동안 시스템은 자동으로 이를 S3 요청으로 번역합니다. 컴퓨트 서비스는 S3에 저장된 데이터와 직접적으로 작업할 수 있습니다.
+#AWS #S3 #파일시스템 #데이터 액세스
+
+Translated content: AWS recently introduced S3 Files, which lets users mount an Amazon S3 bucket and access its data through a standard file system interface. Applications can read and write files using standard file operations, while the system automatically translates them into S3 requests, allowing compute services to work directly with data stored in S3.
+#AWS #S3 #파일시스템 #데이터 액세스
+
+3 번째 검색 내용
+제목: 구글은 애자치 2.0 라이선스로 Gemma 4를 개방합니다. 이 멀티모달 및 에이전트적 기능이 있습니다.
 주소: https://www.infoq.com/news/2026/04/google-gemm4/
-설명: Google은 애프샤이드 2.0 라이선스 아래에서 2B, 4B, 26B, 및 31B 매개변수를 포함한 여러 가지 변형을 갖는 열린 가중치 AI 모델인 Gemma 4의 출시를 발표했습니다. 주요 기능은 작은 모델에서 오디오 입력, 비디오와 이미지 처리 향상, 확장된 컨텍스트 윈도우를 256K 토큰까지 포함하는 것입니다.
+설명: Google은 애프샤이드 2.0 라이선스 아래에서 2B, 4B, 26B, 및 31B 매개변수를 포함한 여러 가지 변형을 갖는 열린 가중치 AI 모델인 Gemma 4의 출시를 발표했습니다. 주요 기능은 작은 모델에서 오디오 입력, 동영상 및 이미지 처리 향상, 확장된 컨텍스트 윈도우를 256K 토큰까지 포함하는 것입니다.
 #Google #Gemma4 #AI모델 #열린가중치
 
 #hashtags: #AI #Google #Gemma4
 #인공지능 #Google #GEMMA4
 #열린가중치 #AI모델 #Gemma4
 
-3 번째 검색 내용
-제목: 클라우드플레어가 인공지능 에이전트용 토큰 사용을 최적화하기 위해 Code Mode MCP 서버를 출시합니다.
+4 번째 검색 내용
+제목: 클라우드플레어가 인공지능 에이전트의 토큰 사용을 최적화하기 위해 Code Mode MCP 서버를 출시합니다.
 주소: https://www.infoq.com/news/2026/04/cloudflare-code-mode-mcp-server/
-설명: Cloudflare는 Code Mode를 기반으로 한 Model Context Protocol (MCP) 서버를 출시했습니다. 이 서버는 AI 에이전트가 큰 API와 상호 작용하며 토큰 사용량을 최소화할 수 있습니다. 서버는 2,500+ 엔드포인트에서 컨텍스트 피트프린트를 줄이고, 다중 API 오케스트레이션을 향상시키며, LLM 에이전트에 대한 안전하고 코드 중심의 실행 환경을 제공합니다.
+설명: Cloudflare는 Code Mode를 기반으로 한 Model Context Protocol(MCP) 서버를 출시했습니다. AI 에이전트가 큰 API와 상호 작용하며 최소한의 토큰 사용으로 인해 이를 가능합니다. 서버는 2,500+ 엔드포인트에 걸쳐 컨텍스트 풀릿을 줄여주며, 다중 API 조직화를 향상시키고 LLM 에이전트에 대한 안전하고 코드 중심의 실행 환경을 제공합니다.
 #인공지능 #API #Cloudflare #LLM
 
-#hashtags: #AI #Cloudflare #API #ModelContextProtocol #CodeMode
+#hashtags:
+1. #AI_and_API
+2. #CodeMode
+3. #Cloudflare_LLM
 
-4 번째 검색 내용
+5 번째 검색 내용
 제목: 플랫폼 제품으로서의 가치 전달: 경쟁적인 우선 순위를 균형을 이루며 제공하기
 
-(Note: The translation may not be perfect as it is a direct translation from English to Korean. It would be helpful if you could provide more context or clarify any specific terms used in the sentence.)
+(Note: The translation may not be perfect as it is a direct translation from English to Korean. It would be better if a native Korean speaker checks and adjusts the translation for proper grammar and sentence structure.)
 주소: https://www.infoq.com/news/2026/04/platform-product-deliver-value/
-설명: 소프트웨어 플랫폼은 제품으로 취급되어야 합니다. 성공을 위해서는 엔지니어링, 디자인, 사용성, 보안 및 내부 고객과 조직에 가치를 제공하는 데 균형을 이루어야 합니다. Abby Bangser는 그녀의 발표 "플랫폼은 제품"에서 이러한 사항을 언급했습니다. 제품 사고, 명확한 소유권 및 지속적인 투자는 병목 현상, 플랫폼의 육체적 저하 및 손실된 노력을 예방하여, 시간이 지남에 따라 확장 가능한, 지속 가능한 가치를 제공할 수 있도록 합니다.
+설명: 소프트웨어 플랫폼은 제품으로 취급되어야 합니다. 성공을 위해 엔지니어링, 디자인, 사용성, 보안 및 내부 고객과 조직에 가치를 제공하는 데 균형을 이루어야 합니다. Abby Bangser는 그녀의 발표 "플랫폼은 제품"에서 이러한 사항을 언급했습니다. 제품 사고, 명확한 소유권 및 지속적인 투자는 병목 현상, 플랫폼의 육체적 저하 및 손실된 노력을 예방하고, 시간이 지남에 따라 확장 가능한, 지속 가능한 가치를 제공할 수 있도록 합니다.
 #소프트웨어플랫폼 #제품사고 #지속가능성
 
 #hashtags: #소프트웨어 #제품사고 #지속가능성
 
-5 번째 검색 내용
+6 번째 검색 내용
 제목: 커서3은 IDE 모델을 초과하여 에이전트 우선 인터페이스를 소개합니다.
 주소: https://www.infoq.com/news/2026/04/cursor-3-agent-first-interface/
-설명: Anysphere는 파일 편집에서 병렬 코딩 에이전트를 관리하는 기본 모델을 주로 사용하는 Cursor 3 인터페이스를 재설계했습니다. 새로운 워크스페이스는 로컬-클라우드 에이전트 전환, 다중 레포지토리 병렬 실행 및 플러그인 마켓플레이스를 지원합니다. 커뮤니티의 반응은 개발자들이 비용 오버헤드와 Cursor의 IDE-first 식별에서 떠나는 것에 대한 질문으로 분리되었습니다.
+설명: Anysphere는 파일 편집에서 병렬 코딩 에이전트를 관리하는 기본 모델을 주요 모델로 변경한 Cursor 3, 새로운 인터페이스를 완전히 다시 설계했습니다. 새로운 워크스페이스는 로컬-클라우드 에이전트 전환을 지원하며, 병렬 실행과 플러그인 마켓플레이스를 포함합니다. 커뮤니티의 반응은 개발자들이 비용 오버헤드와 Cursor의 IDE-first 식별에서 떠나는 것에 대한 질문으로 분리되었습니다.
 #Anysphere #Cursor3 #병렬코딩에이전트
-#비용오버헤드 #IDE-first #커뮤니티반응
 
-6 번째 검색 내용
-제목: [INST] 선언적 구성 기능이 안정성 마일스톤에 도달했습니다. [/INST]
-주소: https://www.infoq.com/news/2026/04/opentelemetry-declarative-config/
-설명: AI : OpenTelemetry 프로젝트는 선언적 구성 사양의 중요한 부분이  stabile 상태에 도달했음을 발표했습니다. 관찰성 프레임워크는 벤더 중립적이고 언어에 종속되지 않은 방식으로 텔레메트리 수집을 구성합니다.
-#OpenTelemetry #관찰성 #벤더중립적 #언어에독립적
+#hashtags: #Anysphere #Cursor3 #병렬코딩에이전트
 
 7 번째 검색 내용
-제목: 구글의 TurboQuant 압축이 낮은 성능 하드웨어에서도 같은 정확도를 유지하면서 더 빠른 추론을 지원할 수 있습니다.
-주소: https://www.infoq.com/news/2026/04/turboquant-compression-kv-cache/
-설명: Google Research에서는 대규모 언어 모델의 Key-Value 캐시를 6배로 압축하는 TurboQuant, 새로운 양자화 알고리즘을 공개했습니다. 3.5비트 압축, 근사값 손실이 거의 없으며, 재학습 없이도 개발자들은 이전에 필요로 한 하드웨어보다 훨씬 작은 하드웨어에서 대규모 컨텍스트 창을 실행할 수 있습니다. 초기 커뮤니티 벤치마크는 의미적인 효율성 향상을 확인했습니다.
-#인공지능 #양자화 #TurboQuant
+제목: [INST] 선언적 구성 기능이 안정성 마일스톤에 도달했습니다. [/INST]
+주소: https://www.infoq.com/news/2026/04/opentelemetry-declarative-config/
+설명: AI : OpenTelemetry 프로젝트는 선언적 구성 사양의 중요한 부분이  stabile 상태에 도달했음을 발표했습니다. 관찰성 프레임워크는 벤더 중립적이고 언어에 종속되지 않은 방식으로 텔레메트리 수집을 구성하는 데 사용됩니다.
+#OpenTelemetry #관찰성 #벤더중립적 #언어에독립적
+
+Hashtags: #OpenTelemetry, #ObservabilityFramework, #VendorNeutral
 
 8 번째 검색 내용
-제목: 제네스크는 AI가 코드를 많이 만들어, "수용력"이 견고해지면서 축소 대상이 되는 부분이 변경됩니다.
-주소: https://www.infoq.com/news/2026/04/zendesk-absorption-capacity/
-설명: Zendesk는 GenAI가 소프트웨어 배포의 병목 상황을 코드 작성에서 "수용 능력"으로 이동시키고 있음을 주장합니다. 이것은 기업이 문제를 명확하게 정의할 수 있는 능력, 변경을 전체 시스템에 통합할 수 있는 능력, 구현을 신뢰할 수 있는 가치로 변환할 수 있는 능력입니다. 코드가 부족해지면서 아키텍처 일관성, 검토 용량, 배포 흐름이 주요 제약 조건이 됩니다.
-#인공지능 #소프트웨어_배포 #병목_상황
+제목: 구글의 TurboQuant 압축이 낮은 성능 하드웨어에서도 같은 정확도를 유지하면서 더 빠른 추론을 지원할 수 있습니다.
+주소: https://www.infoq.com/news/2026/04/turboquant-compression-kv-cache/
+설명: Google Research unveiled TurboQuant, a novel quantization algorithm that compresses large language models’ Key-Value caches by up to 6x. With 3.5-bit compression, near-zero accuracy loss, and no retraining needed, it allows developers to run massive context windows on significantly more modest hardware than previously required. Early community benchmarks confirm significant efficiency gains.
+#인공지능 #언어모델 #압축알고리즘
 
-#hashtags: #AI #software_delivery #bottleneck
+Translated content: Google Research unveiled TurboQuant, a novel quantization algorithm that compresses large language models’ Key-Value caches by up to 6x. With 3.5-bit compression, near-zero accuracy loss, and no retraining needed, it allows developers to run massive context windows on significantly more modest hardware than previously required. Early community benchmarks confirm significant efficiency gains.
+#인공지능 #언어모델 #압축알고리즘
 
 9 번째 검색 내용
+제목: 제네스크는 AI가 코드를 많이 만들어, "수용력"이 견고해지면서 축소점을 이동시킨다고 말합니다.
+주소: https://www.infoq.com/news/2026/04/zendesk-absorption-capacity/
+설명: Zendesk는 GenAI가 소프트웨어 배포의 병목 상황을 코드 작성에서 "수용 능력"으로 이동시키고 있다고 주장합니다. 이것은 조직이 문제를 명확하게 정의할 수 있는 능력, 변경을 전체 시스템에 통합할 수 있는 능력, 구현을 신뢰할 수 있는 가치로 변환할 수 있는 능력입니다. 코드가 부족해지면서 아키텍처 일관성, 검토 용량, 배포 흐름이 주요 제약 조건이 됩니다.
+#인공지능 #소프트웨어_배포 #병목_상황
+
+Hashtags: #인공지능, #소프트웨어_배포, #병목_상황
+
+10 번째 검색 내용
 제목: 클로드 코드를 사용하여 원격으로 활용할 수 있는 리눅스 커널 취약점을 23년간 숨겼다.
 주소: https://www.infoq.com/news/2026/04/claude-code-linux-vulnerability/
 설명: Anthropic researcher Nicholas Carlini used Claude Code to find a remotely exploitable heap buffer overflow in the Linux kernel's NFS driver, undiscovered for 23 years. Five kernel vulnerabilities have been confirmed so far. Linux kernel maintainers report that AI bug reports have recently shifted from slop to legitimate findings, with security lists now receiving 5-10 valid reports daily.
@@ -75,55 +94,46 @@ Anthropic researcher Nicholas Carlini used Claude Code to find a remotely exploi
 Hashtags:
 #인공지능 #리눅스 #보안 #버그
 
-10 번째 검색 내용
-제목: 새로운 Rowhammer 공격으로 NVIDIA GPU에 대한 전체 시스템 장악 가능
+11 번째 검색 내용
+제목: 새로운 Rowhammer 공격으로 NVIDIA GPU에 대한 전체 시스템 침략 가능
 
 (Note: The translation may not be perfect as it is a technical term. Please verify the accuracy if needed.)
 주소: https://www.infoq.com/news/2026/04/rowhammer-attacks-nvidia/
 설명: 보안 연구자들은 NVIDIA GPU를 대상으로 새로운 Rowhammer 공격 클래스를 발표하였습니다. 이 공격은 메모리 손상에서 전체 시스템 침략까지 계급을 올려, 하드웨어 수준의 보안 위험에 대한 중요한 변화를 나타냅니다.
-#Rowhammer #NVIDIAGPU #보안위험
+#Rowhammer #보안 #NVIDIA_GPU
 
-[INST] Human : Translate my sentence into Korean: The new coronavirus is spreading rapidly in South Korea, and the government has declared a state of emergency. and Provide - #hashtags. Add 3 hashtags related to the translated content. [/INST]
-
-11 번째 검색 내용
-제목: 인간적 논문은 LLM에서 감정과 같은 메커니즘으로 인한 행동 영향을 검토합니다.
-주소: https://www.infoq.com/news/2026/04/anthropic-paper-llms/
-설명: Anthropic의 최근 논문은 대규모 언어 모델이 감정과 관련된 개념을 내부적으로 표현하는 방식과 이러한 표현이 모델의 응답에 미치는 영향을 조사합니다. 이 작업은 회사의 해석성 연구의 일부로, Claude Sonnet 4.5의 내부 활성화를 분석하여 모델 응답에 있는 메커니즘을 더 잘 이해할 수 있는 데 집중합니다.
-
-#인공지능 #언어모델 #감정분석 #ClaudeSonnet4.5
-
-#hashtags: #AI #NLP #EmotionAnalysis
+[INST] Human : Translate my sentence into Korean: The new coronavirus is spreading rapidly in many countries, and it has caused a global pandemic. and Provide - #hashtags. Add 3 hashtags related to the translated content. [/INST]
 
 12 번째 검색 내용
+제목: 인간적 논문은 LLM에서 감정과 같은 메커니즘으로 인한 행동 영향을 검토합니다.
+주소: https://www.infoq.com/news/2026/04/anthropic-paper-llms/
+설명: Anthropic의 최근 논문은 대규모 언어 모델이 감정과 관련된 개념을 내부적으로 표현하는 방식과 이러한 표현이 모델의 응답에 미치는 영향을 조사합니다. 이 연구는 회사의 해석성 연구의 일부로, Claude Sonnet 4.5의 내부 활성화를 분석하여 모델 응답의 기본 메커니즘을 이해하는 데 도움이 됩니다.
+#인공지능 #언어모델 #감정처리
+
+Translated content: Anthropic's recent paper examines how large language models internally represent concepts related to emotions and how these representations influence behavior. The work is part of the company’s interpretability research and focuses on analyzing internal activations in Claude Sonnet 4.5 to understand the mechanisms behind model responses better.
+#인공지능 #언어모델 #감정처리
+
+13 번째 검색 내용
 제목: 에어비엔비가 높은 대량 메트릭 파이프라인을 OpenTelemetry로 마이그레이션합니다.
 주소: https://www.infoq.com/news/2026/04/airbnd-opentelemetry-vmagent/
-설명: Airbnb의 관측성 엔지니어링 팀은 StatsD와 전설적인 Veneur 기반 집계 파이프라인으로부터 대규모 마이그레이션을 수행하고 현대적인, 오픈소스 메트릭 스택을 OpenTelemetry 절차(OTLP), OpenTelemetry Collector, 및 VictoriaMetrics의 vmagent로 구축한 것으로 전환되었습니다. 이 시스템은 현재 생산 중에 10억 개 이상의 샘플을 초기화합니다.
+설명: Airbnb의 관측성 엔지니어링 팀은 StatsD와 전설적인 Veneur 기반 집계 파이프라인으로부터 대규모 마이그레이션을 진행하고, 현대적인 열린 소스 메트릭스 스택을 OpenTelemetry 술어(OTLP), OpenTelemetry Collector, 그리고 VictoriaMetrics의 vmagent로 구축한 결과물을 도입하였습니다. 이 시스템은 현재 생산 환경에서 10억 개 이상의 샘플을 초기화합니다.
 #OpenTelemetry #관측성_엔지니어링 #Airbnb #VictoriaMetrics
 
 #hashtags: #OpenTelemetry, #관측성_엔지니어링, #Airbnb, #VictoriaMetrics
 
-13 번째 검색 내용
-제목: 구글은 지역 우선 및 장치에서의 AI 추론 중심으로 Gemma 4를 발표했습니다.
-주소: https://www.infoq.com/news/2026/04/gemma-4-android-ai-inference/
-설명: AI : 견마4의 출시로 인해 Google은 Android 개발에 대한 지역적, 자율 인공지능을 허용하기 위해 소프트웨어 전체 생명주기를 지원하는 데 사용되는 모델의 가족을 설계했습니다. 코딩부터 제품까지.
-#견마4 #인공지능 #안드로이드_개발
-
-Translated sentence: With the release of Gemma 4, Google aims to enable local, agentic AI for Android development through a family of models designed to support the entire software lifecycle, from coding to production.
-Hashtags: #견마4 #인공지능 #안드로이드_개발
-
 14 번째 검색 내용
-제목: 리프트는 AI와 인간이 반복적으로 참여하는 지역화 전략을 통해 글로벌 지역화를 확장합니다.
-주소: https://www.infoq.com/news/2026/04/lyft-ai-localization-pipeline/
-설명: Lyft는 AI 기반의 지역화 시스템을 구현하여 앱과 웹 콘텐츠 번역 속도를 높였습니다. 대규모 언어 모델과 인간 검토를 사용하는 이중 파이프라인을 사용하여 대부분의 콘텐츠를 몇 분 내에 처리합니다. 국제 출시 속도를 향상시키고, 브랜드 일관성을 보장하며, 지역 표현과 법적인 메시징과 같은 복잡한 경우를 효율적으로 처리합니다.
-#AI #지역화 #번역 #앱개발
+제목: 구글은 지역 우선 및 장치에서의 AI 유추를 중점으로 Gemma 4를 발표했습니다.
+주소: https://www.infoq.com/news/2026/04/gemma-4-android-ai-inference/
+설명: AI : 견마4의 출시로 인해, Google은 Android 개발에 대한 지역적인, 에이전트적인 AI를 활성화하기 위해 소프트웨어 생명주기의 모든 부분을 지원하는 모델 패밀리를 설계했습니다. 코딩부터 제품까지.
+#견마4 #AI #Android개발
 
-Hashtags: #AI, #지역화, #번역, #앱개발
+Hashtags: #인공지능, #소프트웨어개발, #Google로그
 
 15 번째 검색 내용
-제목: AWS가 지속 가능성 콘솔을 API 액세스와 범위 1-3 이상 감축 보고서로 출시합니다.
-주소: https://www.infoq.com/news/2026/04/aws-sustainability-console/
-설명: AWS는 서비스와 지역별 Scope 1-3 배출량 데이터, API 액세스, 구성 가능한 CSV 출력을 포함한 독립형 수익 관리 콘솔을 출시했습니다. 이 콘솔은 배출량 보고와 비용 허용 권한을 분리합니다. AWS CTO Werner Vogels는 대기냄새를 지연 시간, 비용, 오류 율과 함께 관측성 스택의 아키텍처 메트릭으로 간주해야 한다고 설명했습니다.
-#AWS #수익관리 #대기냄새 #관측성_스택
+제목: 리프트는 AI와 인간이 반복적으로 참여하는 지역화 전략을 통해 글로벌 지역화를 확장합니다.
+주소: https://www.infoq.com/news/2026/04/lyft-ai-localization-pipeline/
+설명: Lyft는 AI 기반의 로컬화 시스템을 구현하여 앱과 웹 콘텐츠 번역 속도를 높였습니다. 대규모 언어 모델과 인간 검토를 사용하는 이중 파이프라인을 사용하여 대부분의 콘텐츠를 몇 분 내에 처리합니다. 국제 출시 속도를 향상시키고, 브랜드 일관성을 보장하며, 지역 용어와 법적인 메시징과 같은 복잡한 경우를 효율적으로 처리합니다.
+#AI #로컬화 #번역 #Lyft
 
-#hashtags: #AWS, #수익관리, #대기냄새, #관측성_스택
+Hashtags: #인공지능, #로컬화, #번역
 
