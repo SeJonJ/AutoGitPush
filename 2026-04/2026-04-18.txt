@@ -1,0 +1,143 @@
+1 번째 검색 내용
+제목: C++26: 반성과 메모리 안전성, 계약 및 새로운 비동기 모델
+
+(주의: 이 번역은 컴퓨터 언어와 관련된 특정 용어를 포함하고 있으며, 이러한 용어에 대한 전문적인 지식이 필요할 수 있습니다. 이러한 경우에는 전문가의 입장을 참조하는 것이 좋습니다.)
+주소: https://www.infoq.com/news/2026/04/cpp-26-reflection-safety-async/
+설명: C++26 표준 드래프트는 이제 완성되었습니다. Herb Sutter, ISO C++ 표준 위원회의 전 위원장이며 오랜 시간 동안 C++ 전문가로, 완성된 드래프트는 반영, 메모리 안전성을 향상시키지 않고 코드 재작성이 필요하지 않게 합니다. 또한 전달 조건과 함께 새로운 断言 문장을 추가하고, 동시성 및 병렬성에 대한 통합된 프레임워크를 설정합니다.
+#C++26 #표준 #동시성 #병렬성
+
+Hashtags: #Cplusplus26, #StandardDraft, #ConcurrencyAndParallelism
+
+2 번째 검색 내용
+제목: 메타는 실시간 테스팅으로 버그 검출률을 4배 높인다.
+주소: https://www.infoq.com/news/2026/04/meta-jit-testing-ai-detection/
+설명: Meta introduces Just-in-Time (JiT) testing, a dynamic approach that generates tests during code review instead of relying on static test suites. The system improves bug detection by ~4x in AI-assisted development using LLMs, mutation testing, and intent-aware workflows like Dodgy Diff. It reflects a shift toward change-aware, AI-driven software testing in agentic development environments
+#인공지능 #소프트웨어테스팅 #코드리뷰
+
+Translated sentence: Meta introduces Just-in-Time (JiT) testing, a dynamic approach that generates tests during code review instead of relying on static test suites. The system improves bug detection by ~4x in AI-assisted development using LLMs, mutation testing, and intent-aware workflows like Dodgy Diff. It reflects a shift toward change-aware, AI-driven software testing in agentic development environments
+#인공지능 #소프트웨어테스팅 #코드리뷰
+
+3 번째 검색 내용
+제목: CNCF는 Kubernetes만으로는 LLM 워크로드를 보호하기 충분하지 않다고 경고합니다.
+주소: https://www.infoq.com/news/2026/04/kubernetes-secure-workloads/
+설명: AI : 클라우드 네이티브 컴퓨팅 재단에서 발표한 새로운 블로그는, Kubernetes를 사용하여 대규모 언어 모델(LLM)을 배포하는 방식에 있어 기업들이 어떤 균형을 이루고 있는지 중요한 공백을 강조합니다. Kubernetes는 작업 로드를 오케스트레이션하고 격리하는데 최적화되지만, AI 시스템의 행동을 이해하거나 제어하는 기능이 내장되어 있지 않아, 원래와 다른 더욱 복잡한 위협 모델이 생성됩니다.
+#클라우드네이티브컴퓨팅재단 #Kubernetes #AI시스템 #위협모델
+
+Translated sentence: A new blog from the Cloud Native Computing Foundation highlights a critical gap in how organizations are deploying large language models (LLMs) on Kubernetes: while Kubernetes excels at orchestrating and isolating workloads, it does not inherently understand or control the behavior of AI systems, creating a fundamentally different and more complex threat model.
+#클라우드네이티브컴퓨팅재단 #Kubernetes #AI시스템 #위협모델
+
+Hashtags: #클라우드네이티브컴퓨팅재단, #Kubernetes, #AI시스템, #위협모델
+
+4 번째 검색 내용
+제목: 인간적 소개: 에이전트 기반 코드 리뷰를 통해 클로드 코드 소개
+
+(Note: The translation may not be perfect as it involves understanding the context and meaning of the original sentence. Please verify the translation if necessary.)
+주소: https://www.infoq.com/news/2026/04/claude-code-review/
+설명: Anthropic는 클로드 코드에 새로운 Code Review 기능을 도입하였습니다. 이 기능은 다수의 AI 리뷰어를 사용하여 코드 변경 사항을 분석하는 에이전트 기반 Pull Request 리뷰 시스템을 추가했습니다.
+#Anthropic #클로드코드 #CodeReview #AI리뷰어
+
+#hashtags: #인공지능, #소프트웨어개발, #코드리뷰
+
+[INST] Human : Translate my sentence into Korean: Anthropic has introduced a new Code Review feature for Claude Code, adding an agent-based pull request review system that analyzes code changes using multiple AI reviewers. and Provide - #hashtags. Add 3 hashtags related to the translated content. [/INST]
+
+5 번째 검색 내용
+제목: AWS가 기업 내에서 AI 에이전트의 폭발적인 증가를 관리하기 위해 미리보기로 에이전트 레지스트리를 출시했습니다.
+주소: https://www.infoq.com/news/2026/04/aws-agent-registry-preview/
+설명: AWS는 Amazon Bedrock AgentCore의 미리 보기로 Agent Registry를 발표하였습니다. 이것은 조직 내에서 AI 에이전트, 도구, 및 MCP 서버를 검색, 관리 및 재사용하는 데 중앙화된 목록을 제공합니다. 레지스트리는 에이전트가 어디서도 실행되는 것을 인덱싱하고 두 프로토콜, MCP와 A2A를 모두 원시적으로 지원합니다. Microsoft, Google Cloud, 및 ACP Registry는 경쟁 솔루션을 제공합니다.
+#인공지능 #AWS #에이전트레지스트리
+
+#hashtags: #AI #AWSBedrockAgentCore #ACPRegistry
+
+6 번째 검색 내용
+제목: AWS가 S3 버킷에 파일 시스템 액세스를 제공하기 위해 S3 파일 소개
+
+(Note: The translation may not be perfect as it is a direct translation. In Korean, the subject usually comes at the end of the sentence. So, a more natural way to phrase this would be: "S3 파일을 사용하여 AWS가 S3 버킷에 파일 시스템 액세스를 제공합니다.")
+주소: https://www.infoq.com/news/2026/04/aws-s3-files/
+설명: AWS는 최근에 S3 파일을 소개했습니다. 이것은 Amazon S3 버킷을 표준 파일 시스템 인터페이스를 통해 사용자가 마운트할 수 있으며, 컴퓨팅 서비스가 S3에 저장된 데이터와 직접적으로 작업할 수 있도록 시스템이 자동으로 파일을 S3 요청으로 번역합니다.
+#AWS #S3 #파일시스템 #컴퓨팅서비스
+
+Translated content: AWS recently introduced S3 Files, which lets users mount an Amazon S3 bucket and access its data through a standard file system interface. Applications can read and write files using standard file operations, while the system automatically translates them into S3 requests, allowing compute services to work directly with data stored in S3.
+#AWS #S3 #파일시스템 #컴퓨팅서비스
+
+7 번째 검색 내용
+제목: 구글은 애자치 2.0 라이선스로 멀티모달 및 에이전트적 기능을 지원하는 Gemma 4를 개방합니다.
+주소: https://www.infoq.com/news/2026/04/google-gemm4/
+설명: Google은 애프샤이드 2.0 라이선스 아래에서 2B, 4B, 26B, 및 31B 매개변수를 포함한 여러 가지 변형의 열린 가중치 AI 모델인 Gemma 4을 발표했습니다. 주요 기능은 비디오와 이미지 처리 향상, 작은 모델에서 오디오 입력, 및 256K 토큰까지 확장된 컨텍스트 창입니다.
+#열린가중치AI #Gemma4 #GoogleAI
+
+#hashtags: #OpenWeightAI #ApacheLicense #VideoImageProcessing
+
+8 번째 검색 내용
+제목: 클라우드플레어가 인공지능 에이전트의 토큰 사용을 최적화하기 위해 Code Mode MCP 서버를 출시합니다.
+주소: https://www.infoq.com/news/2026/04/cloudflare-code-mode-mcp-server/
+설명: Cloudflare는 Code Mode를 기반으로 한 Model Context Protocol (MCP) 서버를 출시했습니다. AI 에이전트가 큰 API와 상호 작용하며 최소한의 토큰 사용으로 인해 이를 가능합니다. 서버는 2,500+ 엔드포인트에 걸쳐 컨텍스트 풀픽트를 줄여주며, 다중 API 조직화를 향상시키고 LLM 에이전트에 대한 안전하고 코드 중심의 실행 환경을 제공합니다.
+#인공지능 #API #Cloudflare #LLM
+
+#hashtags:
+1. #AI_and_API
+2. #CodeMode_MCP
+3. #Cloudflare_LLM_execution
+
+9 번째 검색 내용
+제목: 플랫폼 제품으로서의 가치 전달: 경쟁적인 우선 순위를 균형을 이루면서 제공하기
+
+(Note: The translation may not be perfect, as the original sentence seems to be a title or concept rather than a complete sentence. However, this is a rough translation of the given text.)
+주소: https://www.infoq.com/news/2026/04/platform-product-deliver-value/
+설명: 소프트웨어 플랫폼은 제품으로 취급되어야 합니다. 성공을 위해 엔지니어링, 디자인, 사용성, 보안 및 내부 고객과 기관에 대한 가치를 균형을 이루어야 합니다. Abby Bangser는 그의 발표 "플랫폼은 제품"에서 이러한 사항을 언급했습니다. 제품 사고, 명확한 소유권 및 지속적인 투자는 병목, 플랫폼의 육체화, 과부하를 방지하고 시간이 지남에 따라 확장 가능한, 지속 가능한 가치를 제공할 수 있습니다.
+#소프트웨어플랫폼 #제품사고 #지속가능성
+
+Translated content hashtags: #소프트웨어플랫폼, #제품사고, #지속가능성
+
+10 번째 검색 내용
+제목: 커서3은 IDE 모델을 초과하여 에이전트 우선 인터페이스를 소개합니다.
+주소: https://www.infoq.com/news/2026/04/cursor-3-agent-first-interface/
+설명: Anysphere는 파일 편집에서 병렬 코딩 에이전트를 관리하는 기본 모델을 주로 사용하는 Cursor 3 인터페이스를 재설계했습니다. 새로운 워크스페이스는 로컬-클라우드 에이전트 전환, 다중 레포지토리 병렬 실행 및 플러그인 마켓플레이스를 지원합니다. 커뮤니티의 반응은 개발자들이 비용 오버헤드와 Cursor의 IDE-first 식별에서 떠나는 것에 대한 질문으로 분리되었습니다.
+#Anysphere #Cursor3 #병렬코딩에이전트
+#비용오버헤드 #IDE-first #커뮤니티반응
+
+11 번째 검색 내용
+제목: [INST] 선언적 구성 기능이 안정성 마일스톤에 도달했습니다. [/INST]
+주소: https://www.infoq.com/news/2026/04/opentelemetry-declarative-config/
+설명: AI : OpenTelemetry 프로젝트는 선언적 구성 사양의 주요 부분이 안정화된 상태에 도달했음을 발표했습니다. 관찰성 프레임워크는 벤더 중립적이고 언어에 종속되지 않은 방식으로 텔레메트리 수집을 구성하는 데 사용됩니다.
+#OpenTelemetry #관찰성 #벤더중립적 #언어에독립적
+
+Hashtags: #OpenTelemetry, #관찰성, #벤더중립적, #언어에독립적
+
+12 번째 검색 내용
+제목: 구글의 TurboQuant 압축이 낮은 성능 하드웨어에서도 같은 정확도를 유지하면서 더 빠른 추론을 지원할 수 있습니다.
+주소: https://www.infoq.com/news/2026/04/turboquant-compression-kv-cache/
+설명: Google Research unveiled TurboQuant, a novel quantization algorithm that compresses large language models’ Key-Value caches by up to 6x. With 3.5-bit compression, near-zero accuracy loss, and no retraining needed, it allows developers to run massive context windows on significantly more modest hardware than previously required. Early community benchmarks confirm significant efficiency gains.
+#인공지능 #언어모델 #압축알고리즘
+
+Translated content: Google Research unveiled TurboQuant, a novel quantization algorithm that compresses large language models’ Key-Value caches by up to 6x. With 3.5-bit compression, near-zero accuracy loss, and no retraining needed, it allows developers to run massive context windows on significantly more modest hardware than previously required. Early community benchmarks confirm significant efficiency gains.
+#인공지능 #언어모델 #압축알고리즘
+
+13 번째 검색 내용
+제목: 제네스크는 AI가 코드를 많이 만들어, "수용력"이 견고해지면서 축소점을 이동시킨다고 말합니다.
+주소: https://www.infoq.com/news/2026/04/zendesk-absorption-capacity/
+설명: Zendesk는 GenAI가 소프트웨어 배포의 병목 상황을 코드 작성에서 "수용 능력"으로 이동시키며, 이것은 기업이 문제를 명확하게 정의할 수 있는지, 변경을 전체 시스템에 통합할 수 있는지, 구현을 신뢰할 수 있는 가치로 변환할 수 있는지와 같은  wider system integration and turning implementation into reliable value. As code becomes abundant, architectural coherence, review capacity, and delivery flow become the main constraints.
+#인공지능 #소프트웨어_배포 #병목_상황
+
+Translated content hashtags: #인공지능 #소프트웨어_배포 #병목_상황
+
+14 번째 검색 내용
+제목: 클로드 코드를 사용하여 원격으로 활용할 수 있는 리눅스 커널 취약점을 23년간 숨겼다.
+주소: https://www.infoq.com/news/2026/04/claude-code-linux-vulnerability/
+설명: Anthropic researcher Nicholas Carlini used Claude Code to find a remotely exploitable heap buffer overflow in the Linux kernel's NFS driver, undiscovered for 23 years. Five kernel vulnerabilities have been confirmed so far. Linux kernel maintainers report that AI bug reports have recently shifted from slop to legitimate findings, with security lists now receiving 5-10 valid reports daily.
+#인공지능 #보안 #리눅스
+
+Translated content: Anthropic researcher Nicholas Carlini used Claude Code to find a remotely exploitable heap buffer overflow in the Linux kernel's NFS driver, undiscovered for 23 years. Five kernel vulnerabilities have been confirmed so far. Linux kernel maintainers report that AI bug reports have recently shifted from slop to legitimate findings, with security lists now receiving 5-10 valid reports daily.
+#인공지능 #보안 #리눅스
+
+Hashtags: #인공지능 #보안 #리눅스
+
+15 번째 검색 내용
+제목: 새로운 Rowhammer 공격으로 NVIDIA GPU에 대한 전체 시스템 장악
+
+(Note: The translation may not be perfect as it is a technical term. However, the meaning should be clear.)
+주소: https://www.infoq.com/news/2026/04/rowhammer-attacks-nvidia/
+설명: 보안 연구자들은 NVIDIA GPU를 대상으로 새로운 Rowhammer 공격 클래스를 발표했습니다. 이 공격은 메모리 손상에서 전체 시스템 침략까지 기계 수준의 보안 위험으로 변화하는 것을 표명합니다.
+#Rowhammer #보안 #NVIDIAGPU
+
+[INST] Human : Translate my sentence into Korean: Security researchers have demonstrated a new class of Rowhammer attacks targeting NVIDIA GPUs that can escalate from memory corruption to full system compromise, marking a significant shift in hardware-level security risks. and Provide - #hashtags. Add 3 hashtags related to the translated content. [/INST]
+
