@@ -1,0 +1,140 @@
+1 번째 검색 내용
+제목: 구글의 알테리아는 완전 자율 에이전트 수학 연구의 상태 예측을 향상시킵니다.
+주소: https://www.infoq.com/news/2026/04/deepmind-aletheia-agentic-math/
+설명: AI : 구글은 Gemini 3 Deep Think을 사용한 인공지능 Aletheia를 발표했습니다. Aletheia는 FirstProof 챌린지에서 6/10의 새로운 수학 문제를 해결할 수 있었으며, IMO-ProofBench에서 ~91.9%를 기록했습니다. 이는 자동화된 연구 수준 증명 발견에 인간 干악 없이 의미 있는 변화가 발생한 것을 나타냅니다.
+#인공지능 #증명 #수학 #자동화
+
+Hashtags: #AI #ProofDiscovery #Mathematics #Automation
+
+2 번째 검색 내용
+제목: AWS는 자동화된 사고 조사를 위한 DevOps 에이전트의 일반 사용 가능성을 발표합니다.
+주소: https://www.infoq.com/news/2026/04/aws-devops-agent-ga/
+설명: AWS는 DevOps Agent, 개발자와 운영자가 AWS 환경에서 문제를 해결하고, 배포를 분석하며, 운영 작업을 자동화하는데 생성형 AI를 사용한 도움이 되는 지능적인 助手를 일반 사용 가능성을 발표했습니다.
+#AWS #DevOpsAgent #AIassistant #운영 #자동화
+
+Translated sentence: AWS has announced the general availability of DevOps Agent, a generative AI–powered assistant designed to help developers and operators troubleshoot issues, analyze deployments, and automate operational tasks across AWS environments.
+and Provide - #hashtags. Add 3 hashtags related to the translated content.
+
+3 번째 검색 내용
+제목: [INST] 풀루미가 전체 눈 런타임 지원 추가
+[/INST]
+주소: https://www.infoq.com/news/2026/04/pulumi-bun-support/
+설명: AI : 풀루미는 이제 푸르미의 완전히 지원되는 런타임으로 바뀌었습니다. 이전에는 노드.js 설치가 필요없이 전체 인프라 프로그램을 Bun으로 실행하는데 한정되어 있었지만, 풀루미 3.227.0의 새로운 릴리스로 런타임: 푸른 설정이 가능합니다.
+#풀루미 #런타임 #푸르미 #노드.js
+
+Hashtags: #Pulumi #Bun #InfrastructureProgram
+
+4 번째 검색 내용
+제목: 효과 v4 Beta: 다시 작성된 런타임, 작은 번들 및 통합 패키지 시스템
+[/INST]
+주소: https://www.infoq.com/news/2026/04/effect-v4-beta/
+설명: Effect v4 beta, a TypeScript framework for building applications, features a complete rewrite of its core fiber runtime, offering reduced memory usage and smaller bundle sizes. The new release consolidates ecosystem packages under a single version number and introduces unstable modules for rapid feature development. Migration guides are available for users transitioning from v3 to v4.
+                     #TypeScript #Framework #FiberRuntime
+
+Translated content: 
+Effect v4 beta, TypeScript 프레임워크를 사용하여 응용 프로그램을 빌드하는 데 도움이 됩니다. 이 새로운 버전은 코어 파이버 런타임의 완전한 재작성을 포함하고 있으며, 메모리 사용량을 줄여 번들 크기를 줄였습니다. 새로운 릴리스는 v3에서 v4로 전환하는 데 도움이 되는 마이그레이션 가이드를 제공합니다.
+#TypeScript #프레임워크 #파이버런타임
+
+Additional hashtags:
+#코어파이버런타임 #메모리사용량 #번들크기 #마이그레이션가이드
+
+5 번째 검색 내용
+제목: C++26: 반성과 메모리 안전, 계약, 새로운 비동기 모델
+
+(Note: The Korean translation may not be perfect as it is a programming language topic. Please review the translation for accuracy.)
+주소: https://www.infoq.com/news/2026/04/cpp-26-reflection-safety-async/
+설명: C++26 표준 草案은 이제 완성되었습니다. Herb Sutter, C++ 전문가와 ISO C++ 표준 위원회 소장으로서 보고합니다. 최종 완성 버전에는 반射를 도입하며, 메모리 안전성을 향상시키지 않고 코드 재작성이 필요한 것은 없습니다. 또한 계약을 추가하여 전제 조건과 후속 조건을 함께 포함하며, 새로운 断言 문장을 도입하고 동시성 및 병렬성에 대한 통합된 프레임워크를 설정합니다.
+#C++26 #표준 #동시성 #병렬성
+
+Hashtags: #Cplusplus26, #StandardDraft, #ConcurrencyParallelism
+
+6 번째 검색 내용
+제목: 메타는 실시간 테스트를 사용하여 버그 검출률을 4배 높인다.
+주소: https://www.infoq.com/news/2026/04/meta-jit-testing-ai-detection/
+설명: Meta introduces Just-in-Time (JiT) testing, a dynamic approach that generates tests during code review instead of relying on static test suites. The system improves bug detection by ~4x in AI-assisted development using LLMs, mutation testing, and intent-aware workflows like Dodgy Diff. It reflects a shift toward change-aware, AI-driven software testing in agentic development environments
+#인공지능 #소프트웨어테스팅 #코드리뷰
+
+Translated sentence: Meta introduces Just-in-Time (JiT) testing, a dynamic approach that generates tests during code review instead of relying on static test suites. The system improves bug detection by ~4x in AI-assisted development using LLMs, mutation testing, and intent-aware workflows like Dodgy Diff. It reflects a shift toward change-aware, AI-driven software testing in agentic development environments
+#인공지능 #소프트웨어테스팅 #코드리뷰
+
+7 번째 검색 내용
+제목: CNCF는 Kubernetes만으로는 LLM 워크로드를 보호하기 충분하지 않다고 경고합니다.
+주소: https://www.infoq.com/news/2026/04/kubernetes-secure-workloads/
+설명: AI : 클라우드 네이티브 컴퓨팅 재단에서 발표한 새로운 블로그는 Kubernetes를 사용하여 대규모 자연어 모델(LLM)을 배포하는 방식에 있어 기업들이 어떤 중요한 공백을 가지고 있는지 강조합니다. Kubernetes는 작업 로드를 조정하고 격리하는 데 최적화되지만, AI 시스템의 행동을 이해하거나 제어하는 것은 기본적으로 이해하지 않습니다. 이는 기존과 달리 더욱 복잡한 위협 모델을 만들어 내고 있습니다.
+#클라우드네이티브컴퓨팅재단 #Kubernetes #대규모자연어모델 #위협모델
+
+Translated content:
+AI : 클라우드 네이티브 컴퓨팅 재단에서 발표한 새로운 블로그는 Kubernetes를 사용하여 대규모 자연어 모델(LLM)을 배포하는 방식에 있어 기업들이 어떤 중요한 공백을 가지고 있는지 강조합니다. Kubernetes는 작업 로드를 조정하고 격리하는 데 최적화되지만, AI 시스템의 행동을 이해하거나 제어하는 것은 기본적으로 이해하지 않습니다. 이는 기존과 달리 더욱 복잡한 위협 모델을 만들어 내고 있습니다.
+#클라우드네이티브컴퓨팅재단 #Kubernetes #대규모자연어모델 #위협모델
+
+Hashtags:
+1. #클라우드네이티브컴퓨팅재단
+2. #Kubernetes
+3. #대규모자연어모델
+4. #위협모델
+
+8 번째 검색 내용
+제목: 인간적 소개: 에이전트 기반 코드 리뷰를 통해 클로드 코드 소개
+
+(Note: The translation may not be perfect as it involves understanding the context and meaning of the original sentence. Please check the translation for accuracy.)
+주소: https://www.infoq.com/news/2026/04/claude-code-review/
+설명: Anthropic는 클로드 코드에 새로운 Code Review 기능을 도입했습니다. 이 기능은 다수의 AI 리뷰어를 사용하여 코드 변경 사항을 분석하는 에이전트 기반 Pull Request 리뷰 시스템을 추가했습니다.
+#인공지능 #코드리뷰 #클로드코드
+
+9 번째 검색 내용
+제목: AWS가 기업 내에서 AI 에이전트의 폭발적인 증가를 관리하기 위해 미리보기로 에이전트 레지스트리를 출시했습니다.
+주소: https://www.infoq.com/news/2026/04/aws-agent-registry-preview/
+설명: AWS는 Amazon Bedrock AgentCore의 미리 보기로 Agent Registry를 발표하였습니다. 이것은 조직 내에서 AI 에이전트, 도구, 및 MCP 서버를 검색, 관리 및 재사용하는 데 중앙 목록을 제공합니다. 레지스트리는 에이전트가 어디서나 실행되는 것을 인덱싱하고 기본적으로 MCP와 A2A 프로토콜을 지원합니다. Microsoft, Google Cloud, 및 ACP Registry는 경쟁 솔루션을 제공합니다.
+#AWS #AI #AgentRegistry #BedrockAgentCore
+
+#hashtags: #AWS #AI #AgentRegistry #BedrockAgentCore
+
+10 번째 검색 내용
+제목: AWS가 S3 파일 시스템 액세스를 제공하는 S3 버킷에 대한 파일 시스템 접근을 소개합니다.
+주소: https://www.infoq.com/news/2026/04/aws-s3-files/
+설명: AWS는 최근에 S3 파일을 소개했습니다. 이것은 Amazon S3 버킷을 표준 파일 시스템 인터페이스를 통해 사용자가 마운트할 수 있게 합니다. 응용 프로그램은 표준 파일 작업을 사용하여 파일을 읽고 쓰는 동안 시스템이 S3 요청으로 자동으로 변환되어 계산 서비스가 S3에 저장된 데이터와 직접적으로 작업할 수 있도록 합니다.
+#AWS #S3 #파일시스템
+
+#hashtags: #AWS, #S3, #파일시스템
+
+11 번째 검색 내용
+제목: 구글은 애자치 2.0 라이선스로 멀티모달 및 에이전트적 기능을 지원하는 Gemma 4를 개방합니다.
+주소: https://www.infoq.com/news/2026/04/google-gemm4/
+설명: Google은 애프샤이드 2.0 라이선스 아래에서 2B, 4B, 26B, 및 31B 매개변수를 포함한 여러 가지 변형을 갖는 열린 가중치 AI 모델인 Gemma 4의 출시를 발표했습니다. 주요 기능은 작은 모델에서 오디오 입력, 비디오와 이미지 처리 향상, 확장된 컨텍스트 윈도우를 256K 토큰까지 포함하는 것입니다.
+#Google #Gemma4 #AI모델 #열린가중치
+
+#hashtags: #AI #Google #Gemma4
+#인공지능 #Google #GEMMA4
+#열린가중치 #AI모델 #Gemma4
+
+12 번째 검색 내용
+제목: 클라우드플레어가 인공지능 에이전트의 토큰 사용을 최적화하기 위해 Code Mode MCP 서버를 출시합니다.
+주소: https://www.infoq.com/news/2026/04/cloudflare-code-mode-mcp-server/
+설명: Cloudflare는 Code Mode를 기반으로 한 Model Context Protocol (MCP) 서버를 출시하였습니다. AI 에이전트가 큰 API와 상호작용하며 최소한의 토큰 사용을 위해 여러 엔드포인트 2,500+ 을 통해 컨텍스트 피트프릿 감소를 가져오고, API 다중화 개선과 안전한 코드 중심의 실행 환경을 LLM 에이전트에게 제공합니다.
+#인공지능 #API #Cloudflare #LLM
+
+#hashtags: #AI, #Cloudflare, #API, #ModelContextProtocol, #CodeMode
+
+13 번째 검색 내용
+제목: 플랫폼 제품으로서의 가치 전달와 경쟁적인 우선 순위 균형을 유지하며 제공하기
+
+(Note: The translation may not be perfect as it is a direct translation from English to Korean. It would be better if a native Korean speaker checks and adjusts the sentence for proper grammar and context.)
+주소: https://www.infoq.com/news/2026/04/platform-product-deliver-value/
+설명: 소프트웨어 플랫폼은 제품으로 취급되어야 합니다. 성공을 위해서는 엔지니어링, 디자인, 사용성, 보안 및 내부 고객과 조직에 가치를 제공하는 데 균형을 이루어야 합니다. Abby Bangser는 그의 발표 "플랫폼은 제품"에서 이러한 사항을 언급했습니다. 제품 사고, 명확한 소유권 및 지속적인 투자는 병목 현상, 플랫폼의 육체적 저하 및 손실된 노력을 예방하여, 시간이 지남에 따라 확장 가능한, 지속 가능한 가치를 제공할 수 있도록 합니다.
+#소프트웨어플랫폼 #제품사고 #지속가능성
+
+#hashtags: #소프트웨어개발 #기업전략 #디지털TRANSFORMATION
+
+14 번째 검색 내용
+제목: 커서3은 IDE 모델을 넘어서어 에이전트 우선 인터페이스를 소개합니다.
+주소: https://www.infoq.com/news/2026/04/cursor-3-agent-first-interface/
+설명: Anysphere는 파일 편집에서 병렬 코딩 에이전트를 관리하는 기본 모델을 변경한 Cursor 3, 새로운 인터페이스를 구현했습니다. 새로운 워크스페이스는 로컬-클라우드 에이전트 전환, 다중 레포지토리 병렬 실행 및 플러그인 마켓플레이스를 지원합니다. 커뮤니티의 반응은 개발자들이 비용 오버헤드와 Cursor의 IDE-first 식별에서 떠나는 것에 대한 질문으로 분리되었습니다.
+#Anysphere #Cursor3 #병렬코딩에이전트
+#비용오버헤드 #IDE-first #커뮤니티반응
+
+15 번째 검색 내용
+제목: [INST] 선언적 구성 기능이 안정성 마일스톤에 도달했습니다. [/INST]
+주소: https://www.infoq.com/news/2026/04/opentelemetry-declarative-config/
+설명: AI : OpenTelemetry 프로젝트는 선언적 구성 사양의 중요한 부분이 안정화된 상태에 도달했음을 발표했습니다. 관찰성 프레임워크는 벤더 중립적이고 언어에 종속되지 않은 방식으로 텔레메트리 수집을 구성하는 방법입니다.
+#OpenTelemetry #관찰성 #벤더중립적 #언어에독립적
+
