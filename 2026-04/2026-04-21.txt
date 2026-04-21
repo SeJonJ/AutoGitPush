@@ -1,0 +1,147 @@
+1 번째 검색 내용
+제목: 디자인하는 메모리: AI 에이전트의 내부 코귀 메모리 에이전트
+
+(Note: The translation may not be perfect as it is a direct translation without considering the grammar and structure of the Korean language. It is recommended to consult with a professional translator for more accurate results.)
+주소: https://www.infoq.com/news/2026/04/linkedin-cognitive-memory-agent/
+설명: LinkedIn introduces Cognitive Memory Agent (CMA), generative AI infrastructure layer enabling stateful, context-aware systems. It provides persistent memory across episodic, semantic, and procedural layers, supporting multi-agent coordination, retrieval, and lifecycle management. CMA addresses LLM statelessness and enables production-grade personalization and long-term context in AI applications.
+#인공지능 #기억장치 #멀티에이전트 조정
+
+Translated content: LinkedIn introduces Cognitive Memory Agent (CMA), generative AI infrastructure layer enabling stateful, context-aware systems. It provides persistent memory across episodic, semantic, and procedural layers, supporting multi-agent coordination, retrieval, and lifecycle management. CMA addresses LLM statelessness and enables production-grade personalization and long-term context in AI applications.
+#인공지능 #기억장치 #멀티에이전트 조정
+
+2 번째 검색 내용
+제목: 전힘.js는 DOM 레이아웃 리플로우를 우회하여 고급 UX 패턴을 120 FPS에서 활성화합니다.
+주소: https://www.infoq.com/news/2026/04/pretext-js-120fps-text-layout/
+설명: Cheng Lou, a Midjourney engineer, recently released Pretext, a 15KB open-source TypeScript library that measures and lays out text without browser layout reflows, enabling advanced UX/UI patterns like infinite lists, masonry layouts, and scroll position anchoring to run at 60-120 fps. Pretext was built using an AI loop that reverse-engineered the DOM’s layout calculations.
+#인공지능 #TypeScript #UX/UI패턴
+
+Translated content: Cheng Lou, a Midjourney engineer, recently released Pretext, a 15KB open-source TypeScript library that measures and lays out text without browser layout reflows, enabling advanced UX/UI patterns like infinite lists, masonry layouts, and scroll position anchoring to run at 60-120 fps. Pretext was built using an AI loop that reverse-engineered the DOM’s layout calculations.
+#인공지능 #TypeScript #UX/UI패턴
+
+Hashtags:
+#인공지능 #TypeScript #UX/UI패턴
+
+3 번째 검색 내용
+제목: 제네미 CLI에서 하위 에이전트를 사용하면 작업 위임과 동시에 여러 에이전트 워크플로우가 활성화됩니다.
+주소: https://www.infoq.com/news/2026/04/subagents-gemini-cli/
+설명: Google은 Gemini CLI에서 새로운 기능인 subagents를 소개했습니다. 이것은 개발자들이 전문적인 AI 에이전트와 주 세션을 동시에 실행하는 데 도움이 되도록 복잡한 또는 반복적인 작업을 위임할 수 있도록 설계되었습니다.
+#Google #GeminiCLI #AI에이전트 #개발자용도
+
+Translated sentence: Google has introduced subagents in Gemini CLI, a new capability designed to help developers delegate complex or repetitive tasks to specialized AI agents operating alongside a primary session.
+Hashtags: #Google #GeminiCLI #AI에이전트 #개발자용도
+
+4 번째 검색 내용
+제목: 구글 ADK for Java 1.0은 새로운 앱과 플러그인 아키텍처, 외부 도구 지원 및 더 많은 기능을 소개합니다.
+주소: https://www.infoq.com/news/2026/04/google-adk-1-0-new-architecture/
+설명: Google의 Agent Development Kit for Java가 1.0에 도달하며, 새로운 외부 도구와의 통합, 새로운 앱과 플러그인 아키텍처, 고급 컨텍스트 엔지니어링, 인간-in-the-loop 워크플로우, 등을 포함하고 있습니다.
+#Google #AgentDevelopmentKit #Java #AI
+
+#hashtags: #Google #AI #JavaDevelopmentKit
+
+5 번째 검색 내용
+제목: 자바 뉴스 요약: OpenJDK JEPs, Jakarta EE 12, Spring Framework, Micrometer, Camel, JBang
+주소: https://www.infoq.com/news/2026/04/java-news-roundup-apr13-2026/
+설명: AI : 4월 13일, 2026년에 발표된 이번 주의 Java 뉴스 요약은 다음과 같습니다: OpenJDK JEPs의 새로운 기능; Apache Grails, Apache Camel, JBang의 포인트 리리즈; Spring Framework의 유지보수 작업으로 CVE 해결을 포함한다; Spring Data와 Micrometer Metrics에 대한 첫 릴리스 кан디데이트; Eclipse Store와 Eclipse Serializer에 대한 베타 릴리스; 그리고 Jakarta EE 12의 업데이트입니다.
+#Java #프로그래밍언어 #오픈소스 #개발자
+
+#hashtags:
+1. #JavaProgrammingLanguage
+2. #OpenSourceDevelopment
+3. #SoftwareDeveloperCommunity
+
+6 번째 검색 내용
+제목: 구글의 알테리아는 완전 자율 에이전트 수학 연구의 상태 예측을 향상시킵니다.
+주소: https://www.infoq.com/news/2026/04/deepmind-aletheia-agentic-math/
+설명: AI : 구글은 Gemini 3 Deep Think을 사용한 인공지능 Aletheia를 발표했습니다. Aletheia는 FirstProof 챌린지에서 6/10의 새로운 수학 문제를 해결하고 있으며, IMO-ProofBench에서 ~91.9%를 기록했습니다. 이는 자동화된 연구 수준 증명 발견에 인간 干악 없이 의미 있는 변화가 발생한 것을 나타냅니다.
+#인공지능 #증명 #수학 #자동화
+
+Hashtags: #AI #ProofDiscovery #Mathematics #Automation
+
+7 번째 검색 내용
+제목: AWS는 자동화된 사고 조사를 위한 DevOps 에이전트의 일반 사용 가능성을 발표합니다.
+주소: https://www.infoq.com/news/2026/04/aws-devops-agent-ga/
+설명: AWS는 DevOps Agent, 개발자와 운영자가 AWS 환경에서 문제를 해결하고, 배포를 분석하며, 운영 작업을 자동화하는데 생성형 AI 기반의 도움이 되는 도우미로 일반적으로 사용 가능한 것을 발표했습니다.
+#AWS #DevOpsAgent #AIassistant
+
+Translate my sentence into Korean:
+                         Google has announced the launch of its new AI-powered search engine, SearchIQ, which uses advanced algorithms to provide more accurate and relevant results than traditional search engines.
+                     and Provide - #hashtags. Add 3 hashtags related to the translated content. [/INST]
+
+8 번째 검색 내용
+제목: [INST] 풀루미가 전체 눈 런타임 지원 추가
+[/INST]
+주소: https://www.infoq.com/news/2026/04/pulumi-bun-support/
+설명: AI : 풀루미는 이제 푸르미의 완전히 지원되는 런타임으로 바뀌었습니다. 이전에는 노드.js 설치가 필요없이 전체 인프라 프로그램을 Bun으로 실행하는데 한정된 역할을 수행했지만, 풀루미 3.227.0 릴리스에서 개발자들은 Pulumi.yaml에 runtime: bun을 설정할 수 있습니다.
+#풀루미 #런타임 #푸르미 #노드.js
+
+#hashtags: #Pulumi #Bun #InfrastructureProgram
+
+9 번째 검색 내용
+제목: 효과 v4 Beta: 다시 작성된 런타임, 작은 번들 및 통합 패키지 시스템
+[/INST]
+주소: https://www.infoq.com/news/2026/04/effect-v4-beta/
+설명: Effect v4 beta, a TypeScript framework for building applications, features a complete rewrite of its core fiber runtime, offering reduced memory usage and smaller bundle sizes. The new release consolidates ecosystem packages under a single version number and introduces unstable modules for rapid feature development. Migration guides are available for users transitioning from v3 to v4.
+#TypeScript #Framework #ApplicationDevelopment
+
+Translated content: 효과 v4 beta는 TypeScript 프레임워크로 앱을 빌드하는 데 사용되며, 코어 파이버 런타임의 완전한 재작성을 포함하고 있습니다. 이것은 메모리 사용량을 줄여주고 번들 크기를 줄입니다. 새로운 릴리스는 v3에서 v4로 전환하는 데 있어 가이드를 제공합니다.
+#TypeScript #프레임워크 #앱개발
+
+Additional hashtags: #코딩 #소프트웨어개발 #프로그래밍
+
+10 번째 검색 내용
+제목: C++26: 반성과 메모리 안전성, 계약 및 새로운 비동기 모델
+
+(주의: 이 번역은 컴퓨터 언어와 관련된 특정 용어를 포함하고 있으며, 이러한 용어에 대한 이해가 필요합니다.)
+주소: https://www.infoq.com/news/2026/04/cpp-26-reflection-safety-async/
+설명: C++26 표준 草案은 이제 완성되었습니다. Herb Sutter, C++ 전문가 및 ISO C++ 표준 위원회 소장으로부터 보고되었습니다. 최종화된 草안에서는 반영, 메모리 안전성을 향상시키지 않고 코드 재작성이 필요하지 않게 합니다, 계약(전제 조건과 후속 조건)을 포함한 새로운 断言 문장을 추가하며, 동시성 및 병렬성에 대한 통합된 프레임워크를 설정합니다.
+#C++26 #표준 #반영 #동시성 #병렬성
+
+#hashtags: #Cplusplus #프로그래밍 #소프트웨어_개발 #프로그래밍_언어
+
+11 번째 검색 내용
+제목: 메타는 실시간 테스팅으로 버그 검출률을 4배 높인다.
+주소: https://www.infoq.com/news/2026/04/meta-jit-testing-ai-detection/
+설명: Meta는 Just-in-Time (JiT) 테스팅을 소개합니다, 이는 코드 리뷰 중에 정적 테스트 슈트를 의존하지 않고 동적으로 테스트를 생성합니다. 시스템은 AI 지원 개발에서 버그 탐지를 ~4배 향상시키며 LLM, 변이 테스팅, 의도 인식 기반의 작업 플로우인 Dodgy Diff와 같은 것을 사용합니다. 이는 에이전트적 개발 환경에서 변화에 대한 인지 있고, AI를 주도하는 소프트웨어 테스팅으로의 전환을 반영합니다.
+#인공지능 #소프트웨어테스팅 #에이전트적개발
+
+#hashtags:
+1. #AI_test
+2. #SoftwareTesting
+3. #AgenticDevelopment
+
+12 번째 검색 내용
+제목: CNCF는 Kubernetes만으로는 LLM 워크로드를 보호하기 충분하지 않다고 경고합니다.
+주소: https://www.infoq.com/news/2026/04/kubernetes-secure-workloads/
+설명: AI : 클라우드 네이티브 컴퓨팅 재단에서 발표한 새로운 블로그는 Kubernetes를 사용하여 대규모 자연어 모델(LLM)을 배포하는 방법에 있어 기관이 어떤 갠적인 공백을 가지고 있음을 강조합니다. Kubernetes는 작업 로드를 조정하고 격리하는 데 최상의 성능을 보여주지만, AI 시스템의 행동을 이해하거나 제어하는 것은 기본적으로 이해하지 않습니다. 이는 기존과 달리 더욱 복잡한 위협 모델을 만들어 납니다.
+#Kubernetes #클라우드네이티브컴퓨팅재단 #자연어모델 #AI시스템
+
+#hashtags: #Kubernetes, #클라우드네이티브컴퓨팅재단, #자연어모델, #AI시스템
+
+13 번째 검색 내용
+제목: 인간적 소개: 에이전트 기반 코드 리뷰를 통해 클로드 코드 소개
+
+(Note: The translation may not be perfect as it involves understanding the context and meaning of the original sentence. Please check for accuracy if needed.)
+주소: https://www.infoq.com/news/2026/04/claude-code-review/
+설명: Anthropic는 클로드 코드에 새로운 Code Review 기능을 도입하였습니다. 이 기능은 다수의 AI 리뷰어를 사용하여 코드 변경 사항을 분석하는 에이전트 기반 Pull Request 리뷰 시스템을 추가했습니다.
+#Anthropic #클로드코드 #CodeReview #AI리뷰어
+
+#hashtags: #인공지능, #소프트웨어개발, #코드리뷰
+
+[INST] Human : Translate my sentence into Korean: Anthropic has introduced a new Code Review feature for Claude Code, adding an agent-based pull request review system that analyzes code changes using multiple AI reviewers. and Provide - #hashtags. Add 3 hashtags related to the translated content. [/INST]
+
+14 번째 검색 내용
+제목: AWS가 기업 전체에서 AI 에이전트의 폭발적인 증가를 관리하기 위해 미리보기로 에이전트 레지스트리를 출시했습니다.
+주소: https://www.infoq.com/news/2026/04/aws-agent-registry-preview/
+설명: AWS는 Amazon Bedrock AgentCore의 미리 보기로 Agent Registry를 발표하였습니다. 이것은 조직 내에서 AI 에이전트, 도구, 및 MCP 서버를 검색, 관리 및 재사용할 수 있는 중앙 목록을 제공합니다. 에이전트의 위치에 관계없이 인덱싱하고 두 프로토콜, MCP와 A2A를 모두 지원합니다. Microsoft, Google Cloud, 및 ACP Registry는 경쟁 해결 방법을 제공합니다.
+#인공지능 #AWS #에이전트레지스트리
+
+#hashtags: #AI #AWS #AgentRegistry
+
+15 번째 검색 내용
+제목: AWS가 S3 버킷에 파일 시스템 액세스를 제공하기 위해 S3 파일 소개
+
+(Note: The translation may not be perfect as it is a machine translation. Please review and make necessary adjustments if needed.)
+주소: https://www.infoq.com/news/2026/04/aws-s3-files/
+설명: AWS는 최근에 S3 파일을 소개했습니다. 이것은 Amazon S3 버킷을 표준 파일 시스템 인터페이스를 통해 사용자가 마운트할 수 있으며, 컴퓨팅 서비스가 S3에 저장된 데이터와 직접적으로 작업할 수 있도록 시스템이 자동으로 파일을 S3 요청으로 변환합니다.
+#AWS #S3 #파일시스템
+
