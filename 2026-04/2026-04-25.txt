@@ -1,0 +1,134 @@
+1 번째 검색 내용
+제목: 엘프는 1,000개 이상의 카산드라 노드 업그레이드에 무중단 서비스를 달성합니다.
+주소: https://www.infoq.com/news/2026/04/yelp-cassandra-upgrade/
+설명: Yelp는 Apache Cassandra 인프라를 1,000개 이상의 노드로 대규모 업그레이드를 완료하였으며, 서비스 중지 없이 제공하였습니다. 이것은 규모에 따른 stateful 시스템을 관리하는 데 얼마나 효과적인지 보여주고 있습니다.
+#Yelp #ApacheCassandra #대규모업그레이드 #stateful시스템
+
+Translated content hashtags: #Yelp, #ApacheCassandra, #대규모업그레이드, #stateful시스템
+
+2 번째 검색 내용
+제목: 해시코퍼트 빌트 2.0은 IBM 라이프사이클로 전환되는 것을 표시하며, 새로운 식별성 연합을 소개합니다.
+주소: https://www.infoq.com/news/2026/04/vault-2-0-ibm-identity/
+설명: HashiCorp는 Vault 2.0을 발표하였습니다. IBM 버전 관리 및 지원 모델로 인수 후에 이동했습니다. 업데이트는 정적 자격 증명 없이 비밀 동기화를 위한 Workload Identity Federation, SCIM 2.0 프로비저닝, 및 스토리지 엔진의 성능 향상을 소개합니다. 또한 계정 기반 보안 우선 순위를 설정하고 레거시 아키텍처 구성 요소를 제거합니다.
+#HashiCorp #Vault2.0 #IBM #보안
+
+#hashtags: #HashiCorp, #Vault2.0, #IBM, #보안
+
+3 번째 검색 내용
+제목: 리액트 네비게이션 8.0 알파 버전에는 네이티브 바텀 탭, 타입스크립트 추론 재구성 및 히스토리가 포함되어 있습니다.
+주소: https://www.infoq.com/news/2026/04/react-navigation-8-alpha/
+설명: React Navigation has released version 8.0 in alpha, updating its routing library for React Native and web applications. Notable changes include native bottom tabs as the default, enhanced TypeScript inference, and deep linking enabled by default. The update prioritizes stability and includes a guide for migration from version 7.x.
+#ReactNavigation #ReactNative #DeepLinking
+
+[INST] Human : Translate my sentence into Korean: React Native has released version 0.64 with improved performance, new APIs, and bug fixes. This release also includes support for Android 11 and iOS 14. The update focuses on improving the overall stability of the framework and provides a guide for upgrading from previous versions.
+and Provide - #hashtags. Add 3 hashtags related to the translated content. [/INST]
+
+4 번째 검색 내용
+제목: 구글이 소개하는 룸 3.0: 코틀린 우선 순위, 비동기, 다플랫폼 저장소 라이브러리
+주소: https://www.infoq.com/news/2026/04/room-3-kotlin-async-sqlite/
+설명: Room 3.0은 Android의 지속성 라이브러리의 주요 업데이트로, 핵심 영역에서 깨지는 변경 사항을 소개합니다. 새로운 릴리스는 Android 지속성 레이어를 Kotlin Multiplatform으로 현대화하고 JavaScript와 WebAssembly 플랫폼 지원을 확장합니다.
+#Android #지속성 #KotlinMultiplatform #WebAssembly
+
+Translated content: Room 3.0 is a major update to Android's persistence library that introduces breaking changes in key areas. The new release focuses on modernizing Android persistence layer around Kotlin Multiplatform and expands platform support to include JavaScript and WebAssembly.
+#Android #persistence #KotlinMultiplatform #JavaScript #WebAssembly
+
+5 번째 검색 내용
+제목: 그라폴라가 카프카를 사용하여 로키를 재설계하고, 코딩 에이전트에 관측성을 가져오기 위해 CLI를 배포합니다.
+주소: https://www.infoq.com/news/2026/04/grafana-loki-ai-agents/
+설명: At GrafanaCON 2026 in Barcelona, Grafana Labs announced Grafana 13 with the new Loki Kafka-backed architecture at the ingestion layer and the AI Observability in Grafana Cloud to monitor and evaluate AI systems in real time. In particular, the new CLI called GCX was announced, designed to surface Grafana Cloud data inside agentic development environments.
+                     #인공지능모니터링 #그라펜아 #그라펜아클라우드
+
+Add 3 hashtags related to the translated content:
+#AI모니터링 #그라펜아클라우드데이터 #바르셀로나2026
+
+6 번째 검색 내용
+제목: 관측성과 테레미터의 도입으로 소프트웨어 공학 실천에 기여하는 방법
+
+(Note: The translation may not be perfect as it is a complex sentence. However, the meaning should be conveyed correctly.)
+주소: https://www.infoq.com/news/2026/04/observability-telemetry/
+설명: 인공지능은 세계를 변화시키고 있습니다. 이것은 의료, 금융, 교통과 같은 다양한 분야에 응용되고 있습니다.
+#인공지능 #의료 #금육 #교통
+
+관찰성 모델은 서버리스, 이벤트 주도 아키텍처와 함께 발전해야 합니다. OpenTelemetry는 개발자들이 실제 시스템 행동을 설명하는 일관성 있고 높은 품질의 데이터를 출력할 수 있도록 벤더에서 분리되는 텔레메트리를 제공합니다. 공유 용어와 좋은 관찰성 모델은 디버깅을 빠르게 하고 신뢰도, 속도, 개발자 생산성을 향상시킵니다.
+#서버리스 #관찰성_모델 #OpenTelemetry #디버깅
+#인공지능 #의료 #금육 #교통 #서버리스 #관찰성_모델 #OpenTelemetry #디버깅
+
+7 번째 검색 내용
+제목: 드롭박스는 깃허브와 협력하여 모노레포 크기를 87GB에서 20GB로 줄였습니다.
+주소: https://www.infoq.com/news/2026/04/dropbox-reduces-git-optimization/
+설명: Dropbox는 Git 델타 압축을 최적화하여 백엔드 모노레포를 87GB에서 20GB로 줄였습니다. 이 변경사항은 clone 시간, CI 성능, 개발자의 속도를 향상시키며, 대규모 엔지니어링 워크플로우에서 레포지토리 스토리지 비효율성이 영향을 미치는 것을 강조합니다.
+#Dropbox #Git #레포지토리_스토리지_비효율성
+
+Translated content hashtags: #Dropbox, #Git, #레포지토리_스토리지_비효율성
+
+8 번째 검색 내용
+제목: 클라우드플레어 사ン드박스가 일반 사용 가능성을 달성하며, AI 에이전트에게 지속적인 격리된 환경을 제공합니다.
+주소: https://www.infoq.com/news/2026/04/cloudflare-sandboxes-ga/
+설명: 클라우드플레어는 AI 에이전트 워크로드용으로 지속적인 격리된 Linux 환경을 제공하는 Sandboxes와 Containers를 일반 사용자에게 릴리스했습니다. 새로운 기능은 egress 프록시를 통해 보안한 자격 증명 삽입, PTY 터미널 지원, 지속적인 코드 인터프리터, 파일 시스템 모니터링, 세션 복구를 위한 스냅숏 기반 기능입니다. 활성 CPU 가격은 사용된 사이클만 청구합니다.
+#인공지능 #클라우드플레어 #AI에이전트워크로드
+
+Hashtags: #인공지능, #클라우드플레어, #AI에이전트워크로드
+
+9 번째 검색 내용
+제목: 클라우드플레어가 기업이 보안 및 지침에 대한 위험을 면해 엔터프라이즈 아키텍처인 MCP를 소개합니다.
+주소: https://www.infoq.com/news/2026/04/cloudflare-mcp/
+설명: Cloudflare는 Model Context Protocol(MCP) 배포를 기업 전체에서 확장하는데 대한 참조 아키텍처를 제시했습니다. 이것은 프로덕션 준비된 에이전트 시스템을 위해 중앙 집중식 지원, 원격 서버 인프라, 및 비용 제어를 주요 요구 사항으로 포함합니다.
+#클라우드플레어 #MCP #에이전트시스템 #비용제어
+
+Translated sentence: Cloudflare has outlined a reference architecture for scaling Model Context Protocol (MCP) deployments across the enterprise, positioning centralized governance, remote server infrastructure, and cost controls as key requirements for production-ready agent systems.
+#클라우드플레어 #MCP #에이전트시스템 #비용제어
+
+10 번째 검색 내용
+제목: pnpm 11 리눅스 캐닝: ESM 배포, 공급 체인 기본 설정 및 새로운 저장소 형식
+
+(Note: The translation may not be perfect as some terms might not have direct equivalents in Korean. However, it conveys the general meaning of the original sentence.)
+주소: https://www.infoq.com/news/2026/04/pnpm-11-rc-release/
+설명: pnpm 11 RC has been released, featuring significant changes in performance, security, and configuration. Key updates include an SQLite-backed store index, tighter security defaults, and a consolidated build script setting. It now requires Node.js v22 or later. Global installs are isolated by default, and new commands enhance usability. Migration guidance is available in the documentation.
+#pnpm #Node.js #빌드스크립트 #보안
+
+Translated content: pnpm 11 RC has been released, featuring significant changes in performance, security, and configuration. Key updates include an SQLite-backed store index, tighter security defaults, and a consolidated build script setting. It now requires Node.js v22 or later. Global installs are isolated by default, and new commands enhance usability. Migration guidance is available in the documentation.
+#pnpm #Node.js #빌드스크립트 #보안
+
+11 번째 검색 내용
+제목: 인간적 기업은 인공지능 에이전트 배포를 단순화하기 위해 관리형 에이전트 소개합니다.
+주소: https://www.infoq.com/news/2026/04/anthropic-managed-agents/
+설명: Anthropic은 Claude에서 Managed Agents를 소개합니다. Claude는 에이전트 기반 워크플로우의 관리 실행 계층입니다. 에이전트 논리와 실행 상황 문제를 처리하는 것과 같은 런타임 문제를 분리합니다. 시스템은 외부 도구를 사용하여 장기간 다단계 워크플로우, 오류 복구 및 세션 연속성을 위한 메타-하란스 아키텍처를 지원합니다.
+#에이전트 #워크플로우 #클라우드컴퓨팅
+#인공지능 #AI #데이터분석
+#클라우드컴퓨팅 #클라우드컴퓨팅 서비스 #AI 기반 워크플로우
+
+12 번째 검색 내용
+제목: Slack 알림 시스템 재구성, 설정 참여 증가 5배 보고
+
+(Note: The Korean translation may not be a direct word-for-word translation but rather a translation that conveys the meaning of the original sentence.)
+주소: https://www.infoq.com/news/2026/04/slack-new-notification-system/
+설명: Slack는 활동과 전달을 분리한 통합 아키텍처로 알림 시스템을 재구성하여 플랫폼 간 일관성을 개선했습니다. 재설계는 선호도를 단순화하고, 변환 과정에서 이전 설정을 유지하며, 알림 설정과의 사용자 참여가 5배 증가하고 지원 티켓이 감소했습니다.
+#Slack #알림시스템 #일관성 #사용자참여
+
+Hashtags: #Slack, #알림시스템, #일관성, #사용자참여
+
+13 번째 검색 내용
+제목: GitHub은 최근의 서비스 중단을 인정하며, 확장성 문제와 아키텍처적 약점을 언급합니다.
+주소: https://www.infoq.com/news/2026/04/github-outages-scaling/
+설명: GitHub는 플랫폼 전체에서 서비스를 중단시킨 최근 여러 가용성과 성능 문제에 대해 공개적으로 대처하였으며, 이러한 사건을 빠른 성장, 아키텍처 결합, 시스템 부하를 처리하는 데의 한계에 인정했습니다.
+#GitHub #가용성 #성능 #시스템_부하
+
+Hashtags: #GitHub #가용성 #성능 #시스템_부하
+
+14 번째 검색 내용
+제목: 클라우드플레어가 인공지능 에이전트용 지속적인 실행 환경인 '프로젝트 텔릭'을 소개합니다.
+주소: https://www.infoq.com/news/2026/04/cloudflare-project-think/
+설명: AI : Cloudflare의 Project Think은 AI 에이전트에 대한 새로운 프레임워크를 소개합니다. 무상태 오케스트레이션에서 지속적인 액터 기반 인프라로 변화하여, 에이전트가 메모리를 관리하고 코드를 안전하게 실행할 수 있는 커널과 같은 런타임을 제공합니다. 핵심 기술은 Fibers를 사용한 체크포인트 진행 및 관계형 대화를 위한 Session API, 에이전트의 효율성과 내구성을 향상시키는 것입니다.
+#인공지능 #클라우드플레어 #프로젝트핵 #AI에이전트
+
+Hashtags: #인공지능, #클라우드플레
+
+15 번째 검색 내용
+제목: 디자인하는 기억: 리눅스의 사 kennis 에이전트 내부
+
+(Note: The translation may not be perfect as it is a direct translation from English to Korean. It would be better if a native Korean speaker checks and adjusts the translation for proper grammar and sentence structure.)
+주소: https://www.infoq.com/news/2026/04/linkedin-cognitive-memory-agent/
+설명: LinkedIn은 Cognitive Memory Agent(CMA)를 소개합니다. 이것은 상태 및 맥락에 대한 인식을 가진 시스템을 지원하는 생성형 AI 인프라 레이어입니다. 이 기술은 사건, 의미, 과정 모두를 지원하며, 다중 에이전트 협력, 검색, 수명 관리와 같은 기능을 제공합니다. CMA는 LLM(Language Model)의 상태 없음과 연결되어 생산성 등급의 개인화와 AI 응용 프로그램에서 장기적인 맥락을 지원합니다.
+#인공지능 #CMA #상태 및 맥락 인식
+#AI 개인화 #장기적 맥락
+
