@@ -1,0 +1,138 @@
+1 번째 검색 내용
+제목: AWS 워크메일 서비스 중단 및 앱 러너 유지 모드로 이동
+
+(원문: AWS Ends WorkMail and Moves App Runner to Maintenance Mode)
+주소: https://www.infoq.com/news/2026/04/aws-deprecates-workmail-apprunne/
+설명: AWS는 최근에 WorkMail이 중단되고 있다고 공지하였으며, App Runner도 새로운 고객을 받지 않고 유지보수 모드로 전환될 예정입니다. 여러 개인 서비스와 기능이 유지보수 또는 절단 단계에 진입하여, AWS 커뮤니티 내에서 걱정과 토론을 유발했습니다.
+#AWS #WorkMail #AppRunner #유지보수 #절단 단계
+
+Hashtags: #AWS, #WorkMail, #AppRunner
+
+2 번째 검색 내용
+제목: 클라우드플레어가 대형캐시보다 고속CPU를 위해 에지스택을 최적화합니다.
+주소: https://www.infoq.com/news/2026/04/cache-parallelism-cloudflare/
+설명: Cloudflare는 최근 Gen 13 서버를 소개했습니다. 이것은 회사의 네트워크가 트래픽을 처리하는 방식에 변화를 일으키고 있습니다. 대신 속도를 위해 큰 CPU 캐시에 의존하지 않고, 최근 AMD 기반 서버에서 병렬로 작동하는 여러 프로세서 코어를 활용하도록 소프트웨어를 재설계했습니다.
+#클라우드플레어 #Gen13서버 #AMD기반서버 #병렬처리
+
+3 번째 검색 내용
+제목: 엘프는 1,000개 이상의 카산드라 노드 업그레이드에 무중단 서비스를 달성합니다.
+주소: https://www.infoq.com/news/2026/04/yelp-cassandra-upgrade/
+설명: Yelp는 Apache Cassandra 인프라를 1,000개 이상의 노드로 대규모 업그레이드를 완료했으며, 서비스 중지 없이 실행되었습니다. 이것은 규모에 따른 상태 있는 시스템을 관리하는 데 대한 블루프린트를 제공합니다.
+#Yelp #ApacheCassandra #대규모업그레이드 #서비스중지없음
+
+Translated sentence: Yelp has completed a large-scale upgrade of its Apache Cassandra infrastructure, spanning more than 1,000 nodes, without any service downtime, offering a blueprint for managing stateful systems at scale.
+Hashtags: #Yelp #ApacheCassandra #대규모업그레이드 #서비스중지없음
+
+4 번째 검색 내용
+제목: 해시코퍼트 빌트 2.0은 IBM 라이프사이클로 전환되는 것을 표시하며, 새로운 식별성 연합을 도입합니다.
+주소: https://www.infoq.com/news/2026/04/vault-2-0-ibm-identity/
+설명: HashiCorp는 Vault 2.0을 발표했습니다. IBM 버전 관리 및 지원 모델로 인하여 취득 후에 이동했습니다. 업데이트는 정적 자격 증명 없이 비밀 동기화, SCIM 2.0 프로비저닝을 소개하고 스토리지 엔진의 성능 향상을 포함합니다. 또한 계정 기반 보안과 인증서 자동화를 우선 순위로 설정하면서 레거시 아키텍처 구성 요소를 제거합니다.
+#HashiCorp #Vault2.0 #IBM버전관리 #보안자동화
+
+#hashtags: #HashiCorp, #Vault2.0, #IBM버전관리, #보안자동화
+
+5 번째 검색 내용
+제목: 리액트 네비게이션 8.0 알파 버전에는 네이티브 바텀 탭, 타입스크립트 추론 재구성 및 히스토리가 포함되어 있습니다.
+주소: https://www.infoq.com/news/2026/04/react-navigation-8-alpha/
+설명: React Navigation has released version 8.0 in alpha, updating its routing library for React Native and web applications. Notable changes include native bottom tabs as the default, enhanced TypeScript inference, and deep linking enabled by default. The update prioritizes stability and includes a guide for migration from version 7.x.
+#ReactNavigation #ReactNative #DeepLinking
+
+[INST] Human : Translate my sentence into Korean: React Native has released version 0.64 with improved performance, new APIs, and bug fixes. This release also includes support for Android 11 and iOS 14, as well as improvements to the Dark Mode feature. The update prioritizes stability and includes a guide for migration from version 0.63.
+and Provide - #hashtags. Add 3 hashtags related to the translated content. [/INST]
+
+6 번째 검색 내용
+제목: 구글이 소개합니다: 코틀린 우선순위, 비동기, 다플랫폼 저장소 라이브러리 3.0
+[INST] Translate my sentence into Korean :
+                            Google Introduces Room 3.0: a Kotlin-First, Async, Multiplatform Persistence Library
+                         [/INST]
+주소: https://www.infoq.com/news/2026/04/room-3-kotlin-async-sqlite/
+설명: Room 3.0은 Android의 지속성 라이브러리의 주요 업데이트로, 핵심 영역에서 깨지는 변경 사항을 소개합니다. 새로운 릴리스는 Android 지속성 레이어를 Kotlin Multiplatform으로 현대화하고 JavaScript와 WebAssembly의 플랫폼 지원을 확장합니다.
+#Android #지속성 #KotlinMultiplatform #JavaScript #WebAssembly
+
+Hashtags: #Android #Persistence #KotlinMultiplatform #JavaScript #WebAssembly
+
+7 번째 검색 내용
+제목: 그라폴라가 카프카를 사용하여 로키를 재설계하고, 코딩 에이전트에 관측성을 가져오기 위해 CLI를 배포합니다.
+주소: https://www.infoq.com/news/2026/04/grafana-loki-ai-agents/
+설명: At GrafanaCON 2026 in Barcelona, Grafana Labs announced Grafana 13 with the new Loki Kafka-backed architecture at the ingestion layer and the AI Observability in Grafana Cloud to monitor and evaluate AI systems in real time. In particular, the new CLI called GCX was announced, designed to surface Grafana Cloud data inside agentic development environments.
+                     #그라폰아콘2026 #인공지능모니터링 #그라폰클라우드
+
+Translate my sentence into Korean: 
+                         At GrafanaCON 2026 in Barcelona, Grafana Labs announced Grafana 13 with the new Loki Kafka-backed architecture at the ingestion layer and the AI Observability in Grafana Cloud to monitor and evaluate AI systems in real time. In particular, the new CLI called GCX was announced, designed to surface Grafana Cloud data inside agentic development environments.
+                     and Provide - #hashtags. Add 3 hashtags related to the translated content.
+
+8 번째 검색 내용
+제목: 관측성과 테레미터의 도입으로 소프트웨어 공학 실천에 어떻게 개선될까요?
+
+(Note: The translation may not be perfect as it is a complex sentence. However, the meaning should be conveyed.)
+주소: https://www.infoq.com/news/2026/04/observability-telemetry/
+설명: AI : 서버리스와 이벤트 주도 아키텍처에 맞춰 관측성은 발전해야 합니다. OpenTelemetry는 개발자가 벤더에서 분리되어 실제 시스템 행동을 설명하는 일관된, 고품질의 데이터를 출력할 수 있도록 혼란을 제거할 수 있습니다. 공유 용어와 좋은 관측성은 디버깅을 빠르게 하고 신뢰도를 향상시키며, 속도와 개발자 생산성을 향상시킵니다.
+#서버리스 #관측성 #OpenTelemetry
+
+Hashtags: #서버리스 #관측성 #OpenTelemetry
+
+9 번째 검색 내용
+제목: 드롭박스가 깃허브와 협력하여 모노레포 크기를 87GB에서 20GB로 줄임
+[INST] Translate my sentence into Korean : 
+                            Dropbox Collaborates with GitHub to Reduce Monorepo Size from 87GB to 20GB
+                         [/INST]
+주소: https://www.infoq.com/news/2026/04/dropbox-reduces-git-optimization/
+설명: Dropbox는 Git 델타 압축을 최적화하여 백엔드 모노레포를 87GB에서 20GB로 줄였습니다. 이 변경사항은 clone 시간, CI 성능, 개발자의 속도를 향상시키며, 대규모 엔지니어링 워크플로우에서 레포지토리 스토리지 비효율성이 영향을 미치는 것을 강조합니다.
+#Dropbox #Git #레포지토리_스토리지_비효율성
+
+Hashtags: #Dropbox, #Git, #레포지토리_스토리지_비효율성
+
+10 번째 검색 내용
+제목: 클라우드플레어 사ン드박스가 일반 사용 가능성을 달성하며, AI 에이전트에게 지속적인 격리된 환경을 제공합니다.
+주소: https://www.infoq.com/news/2026/04/cloudflare-sandboxes-ga/
+설명: Cloudflare는 AI 에이전트 워크로드용으로 지속적인 격리된 Linux 환경을 제공하는 Sandboxes와 Containers를 일반 사용자에게 릴리스했습니다. 새로운 기능은 egress 프록시를 통해 보안한 자격 증명 삽입, PTY 터미널 지원, 지속적인 코드 인터프리터, 파일 시스템 모니터링, 세션 복구를 위한 스냅숏 기반 기능입니다. 활성 CPU 가격은 사용된 사이클만 청구합니다.
+#Cloudflare #Sandboxes #Containers #AI #Linux #Security
+
+#hashtags: #Cloudflare, #Sandboxes, #Containers, #AI, #Linux, #Security
+
+11 번째 검색 내용
+제목: 클라우드플레어가 기업이 보안 및 지침 위험에 직면할 때 엔터프라이즈 아키텍처를 소개합니다.
+주소: https://www.infoq.com/news/2026/04/cloudflare-mcp/
+설명: Cloudflare는 Model Context Protocol(MCP) 배포를 기업 전체에서 확장하는데 대한 참조 아키텍처를 제시했습니다. 이것은 프로덕션 준비된 에이전트 시스템에 필요한 중앙 통합 지도, 원격 서버 인프라 및 비용 제어를 강조하고 있습니다.
+#클라우드플레어 #모델컨텍스트프로토콜 #에이전트시스템
+
+Hashtags: #클라우드플레
+
+12 번째 검색 내용
+제목: pnpm 11 리눅스 캐닝: ESM 배포, 공급 체인 기본 설정 및 새로운 저장소 형식
+
+(Note: The translation may not be perfect as it involves technical terms. Please review and make any necessary adjustments.)
+주소: https://www.infoq.com/news/2026/04/pnpm-11-rc-release/
+설명: pnpm 11 RC has been released, featuring significant changes in performance, security, and configuration. Key updates include an SQLite-backed store index, tighter security defaults, and a consolidated build script setting. It now requires Node.js v22 or later. Global installs are isolated by default, and new commands enhance usability. Migration guidance is available in the documentation.
+#pnpm #Node.js #빌드_스크립트
+
+Translated content: pnpm 11 RC has been released, featuring significant changes in performance, security, and configuration. Key updates include an SQLite-backed store index, tighter security defaults, and a consolidated build script setting. It now requires Node.js v22 or later. Global installs are isolated by default, and new commands enhance usability. Migration guidance is available in the documentation.
+#pnpm #Node.js #빌드_스크립트
+
+Hashtags: #pnpm #Node.js #빌드_스크립트
+
+13 번째 검색 내용
+제목: 인간적 기업은 인공지능 에이전트 배포를 간소화하기 위해 관리형 에이전트 소개합니다.
+주소: https://www.infoq.com/news/2026/04/anthropic-managed-agents/
+설명: Anthropic은 Claude에서 Managed Agents를 소개합니다. Claude는 에이전트 기반 워크플로우의 관리 실행 계층입니다. 에이전트 로직을 런타임 문제와 같은 오르체스트레이션, 사안드박스, 상태 관리, 인증서를 분리합니다. 시스템은 외부 도구를 사용하여 장기간 멀티 단계 워크플로우를 지원하며, 오류 복구와 세션 연속성을 통해 메타-하라스 아키텍처를 통합합니다.
+#인공지능 #에이전트기반워크플로우 #클라우드컴퓨팅
+#오류복구 #세션연속성 #메타하라스아키텍처
+
+14 번째 검색 내용
+제목: Slack 알림 시스템 재구성, 설정 참여 증가 5배 보고
+
+(Note: The translation may not be perfect as it is a direct translation. Korean grammar and sentence structure can be different from English.)
+주소: https://www.infoq.com/news/2026/04/slack-new-notification-system/
+설명: Slack는 활동과 전달을 분리하여 통합된 아키텍처로 알림 시스템을 재구성했습니다. 이러한 변경으로 플랫폼 간 일관성이 향상되었고, 사용자 참여와 지원 티켓의 감소를 초래했습니다.
+#Slack #알림시스템 #일관성 #사용자참여 #지원티켓
+
+Hashtags: #Slack, #알림시스템, #일관성, #사용자참여, #지원티켓
+
+15 번째 검색 내용
+제목: GitHub은 최근의 서비스 중단을 인정하며, 확장성 문제와 아키텍처적 약점을 언급합니다.
+주소: https://www.infoq.com/news/2026/04/github-outages-scaling/
+설명: GitHub는 플랫폼 전체에서 서비스를 중단시킨 최근 여러 가용성과 성능 문제에 대해 공개적으로 대처했습니다. 이 사건은 빠른 성장, 아키텍처 결합, 시스템 부하를 처리하는 데 한계가 있었음을 인정하며 발생시켰습니다.
+#GitHub #가용성 #성능 #시스템_부하
+
+Hashtags: #GitHub, #가용성, #성능, #시스템_부하
+
