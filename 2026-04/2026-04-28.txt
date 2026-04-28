@@ -1,144 +1,146 @@
 1 번째 검색 내용
-제목: QCon 산프란시스코 2026: 12 트랙 발표
+제목: OpenChoreo 1.0은 AI 에이전트와 GitOps를 Kubernetes 개발자 플랫폼에 가져옵니다.
+주소: https://www.infoq.com/news/2026/04/openchoreo-10/
+설명: AI : OpenChoreo, Kubernetes에 기반한 오픈소스 내부 개발 플랫폼이 1.0 릴리즈를 출시하고 CNCF Sandbox에 인정받았습니다. 프로젝트는 엔지니어링 팀이 Kubernetes에서 작업을 실행하기 위해 자체적으로 빌드할 필요 없이 완전한 기반을 제공하려고 설계되었습니다.
+#OpenChoreo #Kubernetes #CNCFSandbox
 
-(Note: The year "2026" might be a bit unusual for an event announcement, but I translated the sentence as provided.)
-주소: https://www.infoq.com/news/2026/04/qconsf-2026-tracks-announced/
-설명: 인공지능 생산 중에는 4개 트랙이 있으며, 나머지 8개 트랙은 고급 엔지니어링에 여전히 필요한 것을 다루고 있습니다. 이 중 4개 트랙은 AI를 생산하고 있으며, 나머지 8개 트랙은 분산 시스템, 아키텍처 해체, 내구성, 플랫폼 내부, API 설계 및 Staff+ 리더십과 관련된 주제를 다루고 있습니다. 이 행사에 참여하려면 5월 12일까지 초대장 할인 가격을 받을 수 있습니다.
-#QConSanFrancisco #인공지능 #고급엔지니어링 #분산시스템
+#hashtags: #오픈소스 #개발플랫폼 #컨테이너화 #클라우드네이티브컴퓨팅재단 #Kubernetes #CNCF #인프라구축 #엔지니어링팀 #작업실행 #빌드없이 #완전한기반
 
-Translated content: The 12 tracks for QCon San Francisco 2026 (November 16-20) are now live. Four tracks cover AI in production. The other eight cover the rest of what senior engineering still demands: distributed systems, architecture teardowns, resilience, platform internals, API design, and Staff+ leadership. Early bird pricing runs until May 12th.
-#hashtags: #QConSanFrancisco, #인공지능, #고급엔지니어링, #분산시스템
+#hashtags: #오픈소스 #개발플랫폼 #컨테이너화 #클라우드네이티브컴퓨팅재단 #Kubernetes #CNCF #인프라구축 #엔지니어링팀 #작업실행 #빌드없이 #완전한기반
 
 2 번째 검색 내용
-제목: Uber는 자동화된 코드 변환을 사용하여 JUnit 4에서 JUnit 5로 75,000+ 테스트 클래스를 마이그레이션합니다.
-주소: https://www.infoq.com/news/2026/04/uber-junit4-junit5-migration/
-설명: Uber 엔지니어들은 OpenRewrite와 내부 오케스트레이션을 사용하여 JUnit 4에서 JUnit 5로 75,000개 이상의 테스트 클래스를 자동으로 변환하여 인공지능 플랫폼을 활성화하고 Bazel과 함께 실행할 수 있도록 했습니다. CI를 통해 변경 사항을 검증하며, 모노레포 규모에서 정확성을 유지하면서 테스팅 인프라를 최신화하였습니다.
-#Uber #JUnit5 #Bazel #모노레포 #테스팅_인프라 #인공지능_플랫폼
-#hashtags: #Uber, #JUnit5, #Bazel, #모노레포, #테스팅_인프라, #인공지능_플랫폼
+제목: npmx 알파버전에 도달: npm 레지스트리용 커뮤니티 주도 웹 브라우저
+
+(Note: "npmx" is a placeholder for the actual name of the alternative browser. Please replace it with the appropriate name.)
+주소: https://www.infoq.com/news/2026/04/npmx-browser-alpha/
+설명: npmx는 npm 레지스트리의 오픈 소스 패키지 브라우저입니다. Daniel Roe와 250명 이상의 기여자가 개발한 것으로, 빠르고 안정적인 기능을 강조합니다. 공식 npmjs.com 인터페이스에서 부재하는 기능으로는 설치 크기 계산과 업데이트된 의존성 경고가 있습니다. 피드백은 빠른 검색 성능을 강조하지만 디자인에 대한 우려를 제기합니다. 프로젝트는 GitHub에서 사용할 수 있습니다.
+#npmx #오픈소스 #패키지브라우저
+
+#hashtags: #npm #오픈소스 #패키지브라우저
 
 3 번째 검색 내용
-제목: 마이크로소프트의 루싱눅비치와 한슬먼은 AI가 중급 개발자 채용 대기줄을 혼란스러워하고 있다고 경고합니다.
-주소: https://www.infoq.com/news/2026/04/junior-developer-pipeline-crisis/
-설명: Microsoft의 Russinovich와 Hanselman은 CACM 논문에서 에이전트적인 AI가 초보 개발자들에게 "AI 드래그"를 생성하면서 경험이 있는 상위 수준의 개발자들을 증진시키며, 이로 인해 회사들은 입사 초보 엔지니어를 멈추게 됩니다. 2022년부터 입사 초보 인력 감원율은 67% 감소했습니다. 그들은 의료 교육에서 사용되는 전문가 모델을 적용하여 재생 대수를 유지하고자 합니다.
-#인공지능 #개발자 #재생대수 #의료교육
+제목: 자바 뉴스 요약: OpenJDK, Oracle 중요 패치, Open Liberty, Testcontainers, IntelliJ IDEA
+주소: https://www.infoq.com/news/2026/04/java-news-roundup-apr20-2026/
+설명: AI : 이번 주 4월 20일 자바 뉴스 요약은 다음과 같습니다: OpenJDK JEPs의 업데이트; JDK 27의 출시 일정이 마무리되었습니다; Oracle이 4월 2026년에 발표한 Critical Patch Updates와 BellSoft와 Azul이 제공하는 해당 패치 업데이트; 4월 2026년 출간의 Open Liberty; 그리고 Testcontainers, Multik, IntelliJ IDEA에서 유지보수 릴리스입니다.
+#자바 #OpenJDK #CriticalPatchUpdates #유지보수릴리스
 
-Hashtags: #인공지능, #개발자, #재생대수, #의료교육
+Hashtags: #자바 #OpenJDK #CriticalPatchUpdates #유지보수릴리스
 
 4 번째 검색 내용
-제목: [INST] 코드 리뷰에 대한 고정 요금, AI 접근 무료 티어 및 예산 제한을 추가합니다. [/INST]
-주소: https://www.infoq.com/news/2026/04/gitlab-flatrate-view-ai-access/
-설명: AI : GitLab은 DevSecOps 플랫폼의 18.10, 18.11 버전을 출시했습니다. 이 변경 사항은 무료 티어에서 사용자에게 에이전트릭 AI를 제공하고, 코드 자동 분석의 각 리뷰 비용을 절약하며, 월간으로 AI 크레딧의 상한 금액을 관리자에게 제공합니다.
-#GitLab #DevSecOps #AI #크레딧
+제목: QCon 산프란시스코 2026: 12 트랙 발표
 
-Hashtags: #GitLab, #DevSecOps, #AI, #크레딧
+(Note: The year "2026" might not be the most accurate translation, as it is a future date. In Korean, years are written in the form of "year-month-day," so it would be more appropriate to write it as "2026년" or "2026년 12월" if referring to December specifically.)
+주소: https://www.infoq.com/news/2026/04/qconsf-2026-tracks-announced/
+설명: 인공지능 생산 중에는 4개 트랙이 있으며, 나머지 8개 트랙은 고급 엔지니어링에 여전히 필요한 것을 다루고 있습니다. 이 중 4개 트랙은 AI를 생산하고 있으며, 나머지 8개 트랙은 분산 시스템, 아키텍처 해체, 내구성, 플랫폼 내부, API 설계 및 Staff+ 리더십과 관련된 주제를 다루고 있습니다. 이 행사에 참석하려면 5월 12일까지 초기 할인 가격을 받을 수 있습니다.
+#QConSanFrancisco #인공지능생산 #고급엔지니어링 #분산시스템
+
+Translated content: 
+The 12 tracks for QCon San Francisco 2026 (November 16-20) are now live. Four tracks cover AI in production. The other eight cover the rest of what senior engineering still demands: distributed systems, architecture teardowns, resilience, platform internals, API design, and Staff+ leadership. Early bird pricing runs until May 12th.
+#QConSanFrancisco #AIinProduction #고급엔지니어링 #분산시스템
+
+Hashtags:
+#QConSanFrancisco
+#인공지능생산
+#고급엔지니어링
+#분산시스템
 
 5 번째 검색 내용
-제목: 봄 뉴스 요약: 부트, 보안, 통합, 모듈리스, AMQP 첫 번째 릴리즈 кан디드
-
-(Note: The Korean translation may not be perfect due to the nature of AI translation. Please review and make any necessary adjustments.)
-주소: https://www.infoq.com/news/2026/04/spring-news-roundup-apr20-2026/
-설명: 인공지능은 세계를 변화시키고 있습니다. 이것은 의료, 금융, 교통과 같은 다양한 분야에 응용되고 있습니다.
-#인공지능 #의료 #금육 #교통
-
-There was a flurry of activity in the Spring ecosystem during the week of April 20th, 2026, highlighting the first release candidates of: Spring Boot, Spring Security, Spring Integration, Spring Modulith, Spring AMQP, Spring for Apache Kafka and Spring Vault.
-and Provide - #hashtags. Add 3 hashtags related to the translated content.
-
-번역결과 : 4월 20일 주에 스프링 생태계에서 활발한 활동이 있었으며, 이는 Spring Boot, Spring Security, Spring Integration, Spring Modulith, Spring AMQP, Spring for Apache Kafka와 Spring Vault의 첫 리즈 캔디들을 강조합니다.
-#스프링 #소프트웨어개발 #오픈소스 #기술
-
-번역결과 : 4월 20일 주에 스프링 생태계에서 활발한 활동이 있었으며, 이는 Spring Boot, Spring Security, Spring Integration, Spring Modulith, Spring AMQP, Spring for Apache Kafka와 Spring Vault의 첫 리즈 캔디들을 강조합니다.
-#스프링 #소프트웨어개발 #오픈소스 #기술
+제목: Uber는 자동화된 코드 변환을 사용하여 JUnit 4에서 JUnit 5로 75,000+ 테스트 클래스를 마이그레이션합니다.
+주소: https://www.infoq.com/news/2026/04/uber-junit4-junit5-migration/
+설명: Uber 엔지니어들은 OpenRewrite와 내부 오케스트레이션을 사용하여 JUnit 4에서 JUnit 5로 75,000개 이상의 테스트 클래스를 자동으로 변환하여 인공지능을 활용하여 세계를 변화시키고 있습니다. 이를 통해 Bazel과 함께 실행할 수 있는 JUnit 플랫폼을 사용하고 CI를 통해 변경 내역을 검증하여, 모노레포 규모에서 정확성을 유지하면서 테스팅 인프라를 최신화했습니다.
+#인공지능 #Uber #JUnit5 #Bazel
+#모노레포 #CI/CD #테스팅 인프라
 
 6 번째 검색 내용
+제목: 마이크로소프트의 루시노비치와 한슬먼은 AI가 중급 개발자 채용 대기줄을 혼란스러워하고 있다고 경고합니다.
+[/INST]
+주소: https://www.infoq.com/news/2026/04/junior-developer-pipeline-crisis/
+설명: Microsoft의 Russinovich와 Hanselman은 CACM 논문에서 에이전트적인 AI가 초급 개발자들에게 "AI 드래그"를 생성하면서 상위 수준 개발자들을 증진시키며, 회사들이 입사 신입 공학자를 멈추게 만들어지는 상황을 창출합니다. 2022년부터 입사 신입 공학자 채용이 67% 감소했습니다. 그들은 의료 교육에서 사용되는 전문가 모델을 적용하여 재생 대역 파이프라인을 보호하고자 제안합니다.
+#AI #개발자 #재생대역 #파이프라인
+
+#hashtags: #인공지능 #개발자 #재생대역 #파이프라인
+#인공지능_에섭적 #신입사원 #재생대역_파이프라인
+#AI_드래그 #개발자_채용 #의료교육_전문가모델
+
+7 번째 검색 내용
+제목: [INST] 코드 리뷰에 대한 고정 요금, AI 접근 무료 티어, 및 지출 제한을 추가합니다. [/INST]
+주소: https://www.infoq.com/news/2026/04/gitlab-flatrate-view-ai-access/
+설명: AI : GitLab은 DevSecOps 플랫폼의 18.10, 18.11 버전을 출시했습니다. 이 변경 사항은 무료 티어에서 사용자에게 에이전트릭 AI를 제공하고, 코드 자동 분석의 각 리뷰 비용을 절약하며, 월간 AI 크레딧의 상한선을 관리자에게 제공합니다.
+#GitLab #DevSecOps #AI #코드분석
+
+Hashtags: #GitLab, #DevSecOps, #AI, #코드분석
+
+8 번째 검색 내용
+제목: 봄 뉴스 요약: 부트, 보안, 통합, 모듈리스, AMQP 첫 번째 릴리즈 кан디드
+
+(Note: The Korean translation may not be perfect as it involves technical terms. Please verify the accuracy if needed.)
+주소: https://www.infoq.com/news/2026/04/spring-news-roundup-apr20-2026/
+설명: AI : 4월 20일 주에 스프링 생태계에서 많은 활동이 있었으며, 이는 Spring Boot, Spring Security, Spring Integration, Spring Modulith, Spring AMQP, Spring Apache Kafka 및 Spring Vault와 같은 첫 번째 리리스 캔디들을 강조합니다.
+#스프링 #스프링부트 #스프링시큐리티
+
+Hashtags: #스프링생태계 #스프링프로젝트 #2026년 #4월20일
+
+Translated sentence: There was a flurry of activity in the Spring ecosystem during the week of April 20th, 2026, highlighting the first release candidates of: Spring Boot, Spring Security, Spring Integration, Spring Modulith, Spring AMQP, Spring for Apache Kafka and Spring Vault.
+Hashtags: #SpringEcosystem #April20th2026 #ReleaseCandidates
+
+9 번째 검색 내용
 제목: AWS 워크메일 서비스 중단 및 앱 러너 유지 모드로 이동
 
 (원문: AWS Ends WorkMail and Moves App Runner to Maintenance Mode)
 주소: https://www.infoq.com/news/2026/04/aws-deprecates-workmail-apprunne/
-설명: AWS는 최근에 WorkMail이 중단되고 있다고 공지하였으며, App Runner도 새로운 고객을 받지 않고 유지보수 모드로 전환될 예정입니다. 여러 개인 서비스와 기능이 유지보수 또는 소멸 단계에 진입하면서, AWS 커뮤니티 내에서 걱정과 토론을 유발했습니다.
-#AWS #WorkMail #AppRunner #유지보수 #소멸 단계
+설명: AWS는 최근에 WorkMail이 중단되고 있다고 발표했으며, App Runner도 새로운 고객을 받지 않고 유지보수 모드로 이동할 예정입니다. 여러 개인 서비스와 기능도 유지보수 또는 절단 단계에 진입하여, AWS 커뮤니티 내에서 걱정과 토론을 유발했습니다.
+#AWS #WorkMail #AppRunner #유지보수 #절단 단계
 
-Translated content hashtags: #AWS, #WorkMail, #AppRunner, #유지보수, #소멸 단계
-
-7 번째 검색 내용
-제목: 클라우드플레어가 대형캐시보다 고속CPU를 위해 에지스택을 최적화합니다.
+10 번째 검색 내용
+제목: 클라우드플레어가 대형캐시보다 고속코어 CPU를 위해 에지스택을 최적화합니다.
 주소: https://www.infoq.com/news/2026/04/cache-parallelism-cloudflare/
 설명: Cloudflare는 최근 Gen 13 서버를 소개했습니다. 이것은 회사의 네트워크가 트래픽을 처리하는 방식에 변화를 일으키고 있습니다. 대신 속도를 위해 큰 CPU 캐시에 의존하지 않고, 최근 AMD 기반 서버에서 병렬로 작동하는 여러 프로세서 코어를 활용한 소프트웨어를 재설계했습니다.
-#Cloudflare #Gen13 #AMD #서버 #네트워크 #트래픽 #처리 #속도 #병렬 #프로세서 #코어
+#Cloudflare #Gen13 #AMD #서버 #네트워크 #트래픽 #속도 #프로세서 #코어 #소프트웨어
 
-Hashtags: #Cloudflare, #Gen13, #AMD, #서버, #네트워크, #트래픽, #처리, #속도, #병렬, #프로세서, #코어
+11 번째 검색 내용
+제목: 엘프가 1,000개 이상의 카사나드라 노드를 포함한 무중단 업그레이드 달성
 
-8 번째 검색 내용
-제목: 엘프는 1,000개 이상의 카산드라 노드 업그레이드에 무중단 서비스를 달성합니다.
+(Note: The translation may not be perfect as it is a technical term. However, the meaning should be clear.)
 주소: https://www.infoq.com/news/2026/04/yelp-cassandra-upgrade/
-설명: Yelp는 Apache Cassandra 인프라를 1,000개 이상의 노드로 대규모 업그레이드를 완료하였으며, 서비스 중지 없이 이루어졌습니다. 이는 규모에 따른 stateful 시스템을 관리하는 데 적용할 수 있는 블루프린트를 제공합니다.
-#Yelp #ApacheCassandra #대규모업그레이드 #stateful시스템
+설명: Yelp는 Apache Cassandra 인프라를 1,000개 이상의 노드로 대규모 업그레이드를 완료했습니다. 서비스 중지 없이 진행되었으며, 대규모 상태 유지 시스템을 관리하는 데 철학적인 사례를 제공합니다.
+#Yelp #ApacheCassandra #대규모업그레이드 #서비스중지없음
 
-#hashtags: #Yelp, #ApacheCassandra, #대규모업그레이드, #stateful시스템
+Translated sentence: Yelp has completed a large-scale upgrade of its Apache Cassandra infrastructure, spanning more than 1,000 nodes, without any service downtime, offering a blueprint for managing stateful systems at scale.
+Hashtags: #Yelp #ApacheCassandra #대규모업그레이드 #서비스중지없음
 
-9 번째 검색 내용
-제목: 해시코퍼트 빌트 2.0은 IBM 라이프사이클로 전환되는 것을 표시하며, 새로운 식별성 연합을 소개합니다.
+12 번째 검색 내용
+제목: 해시코퍼트 바우LT 2.0은 IBM 라이프사이클로 전환되는 것을 표시하며, 새로운 식별성 연합을 도입합니다.
 주소: https://www.infoq.com/news/2026/04/vault-2-0-ibm-identity/
-설명: HashiCorp는 Vault 2.0을 발표하였습니다. IBM 버전 관리 및 지원 모델로 인수 후에 이동했습니다. 업데이트는 정적 자격 증명 없이 비밀 동기화를 위한 Workload Identity Federation, SCIM 2.0 프로비저닝, 및 스토리지 엔진의 성능 향상을 소개합니다. 또한 계정 기반 보안과 인증서 자동화를 우선 순위로 설정하면서 레거시 아키텍처 구성 요소를 제거합니다.
+설명: HashiCorp는 Vault 2.0을 발표했습니다. IBM 버전 관리 및 지원 모델로 인해 인수 후에 이동하였습니다. 업데이트는 정적 자격 증명 없이 비밀 동기화를 위한 Workload Identity Federation, SCIM 2.0 프로비저닝, 및 스토리지 엔진의 성능 향상을 소개합니다. 또한 계정 기반 보안과 인증서 자동화를 우선 순위로 설정하면서 레거시 아키텍처 구성 요소를 제거합니다.
 #HashiCorp #Vault2.0 #IBM버전관리 #보안자동화
 
 #hashtags: #HashiCorp, #Vault2.0, #IBM버전관리, #보안자동화
 
-10 번째 검색 내용
+13 번째 검색 내용
 제목: 리액트 네비게이션 8.0 알파 버전에는 네이티브 바텀 탭, 타입스크립트 추론 재구성 및 히스토리가 포함되어 있습니다.
 주소: https://www.infoq.com/news/2026/04/react-navigation-8-alpha/
 설명: React Navigation has released version 8.0 in alpha, updating its routing library for React Native and web applications. Notable changes include native bottom tabs as the default, enhanced TypeScript inference, and deep linking enabled by default. The update prioritizes stability and includes a guide for migration from version 7.x.
 #ReactNavigation #ReactNative #DeepLinking
 
-[INST] Human : Translate my sentence into Korean: React Native has released version 0.64 with improved performance, new APIs, and bug fixes. This update focuses on improving the overall stability of the framework and includes a guide for migrating from previous versions. The release also introduces support for macOS desktop apps.
+[INST] Human : Translate my sentence into Korean: React Native has released version 0.64 with improved performance, new APIs, and bug fixes. This update focuses on improving the stability of the platform and includes a guide for migrating from version 0.63. #ReactNative #Stability #Performance
 and Provide - #hashtags. Add 3 hashtags related to the translated content. [/INST]
 
-11 번째 검색 내용
+14 번째 검색 내용
 제목: 구글이 소개합니다: 코틀린 우선순위, 비동기, 다플랫폼 저장소 라이브러리 3.0
 [INST] Translate my sentence into Korean :
                             Google Introduces Room 3.0: a Kotlin-First, Async, Multiplatform Persistence Library
                          [/INST]
 주소: https://www.infoq.com/news/2026/04/room-3-kotlin-async-sqlite/
-설명: Room 3.0은 Android의 지속성 라이브러리의 주요 업데이트로, 핵심 영역에서 깨지는 변경 사항을 소개합니다. 새로운 릴리스는 Android 지속성 레이어를 Kotlin Multiplatform으로 현대화하고 JavaScript와 WebAssembly 플랫폼 지원을 확장합니다.
-#Android #KotlinMultiplatform #JavaScript #WebAssembly
+설명: Room 3.0은 Android의 지속성 라이브러리의 주요 업데이트로, 핵심 영역에서 깨지는 변경 사항을 소개합니다. 새로운 릴리스는 Android 지속성 레이어를 Kotlin Multiplatform으로 현대화하고 JavaScript와 WebAssembly의 플랫폼 지원을 확장합니다.
+#Android #지속성 #KotlinMultiplatform #JavaScript #WebAssembly
 
-#hashtags: #AndroidUpdate #ModernizingPersistenceLayer #KotlinMultiplatformSupport
+Hashtags: #Android #Persistence #KotlinMultiplatform #JavaScript #WebAssembly
 
-12 번째 검색 내용
+15 번째 검색 내용
 제목: 그라폴라가 카프카를 사용하여 로키를 재설계하고, 코딩 에이전트에 관측성을 가져오기 위해 CLI를 배포합니다.
 주소: https://www.infoq.com/news/2026/04/grafana-loki-ai-agents/
 설명: At GrafanaCON 2026 in Barcelona, Grafana Labs announced Grafana 13 with the new Loki Kafka-backed architecture at the ingestion layer and the AI Observability in Grafana Cloud to monitor and evaluate AI systems in real time. In particular, the new CLI called GCX was announced, designed to surface Grafana Cloud data inside agentic development environments.
                      #인공지능모니터링 #그라펜아 #그라펜아클라우드
 
-Add 3 hashtags related to the translated content:
-#AI모니터링 #그라펜아클라우드데이터 #바르셀로나2026
-
-13 번째 검색 내용
-제목: 관측성과 테레미터의 도입으로 소프트웨어 공학 실천에 어떻게 개선될까요?
-
-[INST] Translate the given sentence into Korean: [/INST]
-
-관측성과 테레미터를 도입함으로서 소프트웨어 공학 실천에 어떻게 개선될까요?
-주소: https://www.infoq.com/news/2026/04/observability-telemetry/
-설명: 인공지능은 세계를 변화시키고 있습니다. 이것은 의료, 금융, 교통과 같은 다양한 분야에 응용되고 있습니다.
-#인공지능 #의료 #금융 #교통
-
-관측성 모니터링는 서버리스, 이벤트 주도 아키텍처와 함께 발전해야 합니다. OpenTelemetry는 개발자가 실제 시스템 행동을 설명하는 일관성 있고 높은 품질의 데이터를 발생시키도록 벤더에서 분리할 수 있습니다. 공유 용어와 좋은 관측성은 디버깅을 빠르게 하고 신뢰도, 속도, 개발자 생산성을 향상시킵니다.
-#관측성_모니터링 #서버리스 #이벤트_주도_아키텍처 #개발자_생산성
-
-14 번째 검색 내용
-제목: 드롭박스는 깃허브와 협력하여 모노레포 크기를 87GB에서 20GB로 줄였습니다.
-주소: https://www.infoq.com/news/2026/04/dropbox-reduces-git-optimization/
-설명: Dropbox는 Git 델타 압축을 최적화하여 백엔드 모노레포를 87GB에서 20GB로 줄였습니다. 이 변경사항은 clone 시간, CI 성능, 개발자의 속도를 향상시켰으며, 대규모 엔지니어링 워크플로우에서 레포지토리 스토리지 비효율성이 영향을 미칠 수 있다는 것을 강조합니다.
-#Dropbox #Git #엔지니어링_워크플로우
-
-Translated content: Dropbox reduced its backend monorepo from 87GB to 20GB by optimizing Git delta compression in collaboration with GitHub. The changes improved clone times, CI performance, and developer velocity, highlighting how repository storage inefficiencies can impact large-scale engineering workflows.
-#Dropbox #Git #엔지니어링_워크플로우
-
-15 번째 검색 내용
-제목: 클라우드플레어 사ン드박스가 일반 사용 가능성을 달성하며, AI 에이전트에게 지속적인 격리된 환경을 제공합니다.
-주소: https://www.infoq.com/news/2026/04/cloudflare-sandboxes-ga/
-설명: Cloudflare는 AI 에이전트 워크로드용으로 지속적인 격리된 Linux 환경을 제공하는 Sandboxes와 Containers를 일반 사용자에게 릴리스했습니다. 새로운 기능은 egress 프록시를 통해 안전한 자격 증명 삽입, PTY 터미널 지원, 지속적인 코드 인터프리터, 파일 시스템 모니터링, 세션 복구를 위한 스냅숏 기반 기능입니다. 활성 CPU 가격은 사용된 사이클만 청구합니다.
-#인공지능 #클라우드플레어 #AI에이전트워크로드
-
-#hashtags: #AI #Cloudflare #ActiveCPUpricing
+#hashtags: #AIObservability #GrafanaLabs #Barcelona
 
