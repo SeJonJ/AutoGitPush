@@ -1,0 +1,137 @@
+1 번째 검색 내용
+제목: 슬랙이 긴 기간 동안 다중 에이전트 시스템의 컨텍스트를 관리하는 방법
+
+(Note: The translation may not be perfect as it is a technical term. Please confirm the accuracy with a professional translator if necessary.)
+주소: https://www.infoq.com/news/2026/04/slack-agent-context-management/
+설명: To sustain productivity in long-running agent systems, Slack engineers moved away from accumulating chat logs and started using structured memory, validation, and distilled truth to maintain coherence and accuracy of long-running agent systems.
+                     #인공지능 #대화기반시스템 #정확성 #일관성
+
+Translated sentence: 장기적으로 실행 중인 에이전트 시스템의 생산성을 유지하려면, Slack 엔지니어들은 대화 로그를 누적하는 것을 포기하고 구조화된 메모리, 검증, 및 정리된 진실을 사용하여 장기적으로 실행 중인 에이전트 시스템의 일관성과 정확성을 유지하기 시작했습니다.
+                     #인공지능 #대화기반시스템 #정확성 #일관성
+
+2 번째 검색 내용
+제목: 구글 클라우드는 AI 에이전트 개발 생명주기를 간소화하기 위해 에이전트 CLI를 소개합니다.
+주소: https://www.infoq.com/news/2026/04/agents-cli-google-cloud/
+설명: Google Cloud는 Agent Platform의 Agents CLI를 소개하였습니다. AI 에이전트 개발 생명주기를 로컬 프로토타입부터 제품 배포까지 간편하게 진행할 수 있도록 목표로 합니다. 이 릴리스는 에이전트 개발의 일반적인 문제점 중 하나를 해결하고자 하며, 서비스와 환경에 걸쳐 분산된 도구와 인프라가 있습니다.
+#GoogleCloud #AI에이전트 #에이전트개발생명주기 #도구및인프라
+
+#hashtags: #GoogleCloud, #AI에이전트, #에이전트개발생명주기, #도구및인프라
+
+3 번째 검색 내용
+제목: GitHub은 eBPF를 사용하여 배포 위험을 제거하고 순환 실패를 예방합니다.
+주소: https://www.infoq.com/news/2026/04/github-ebpf-deployment/
+설명: GitHub는 eBPF를 활용하여 배포 안전성을 향상시키고, 장애 발생 중에 복구를 차단할 수 있는 숨겨진 순환 의존성을 탐지하고 예방할 수 있는 새로운 접근 방식을 소개했습니다.
+#eBPF #배포안전성 #장애발생중에복구차단 #GitHub
+
+Hashtags: #eBPF, #deployment_safety, #outage_recovery
+
+4 번째 검색 내용
+제목: 레가르 케리슨과 세드릭 클라번의 LLM 성능 및 평가
+
+(Note: The Korean translation may not be perfect as it is a machine translation. Please review and make any necessary adjustments.)
+주소: https://www.infoq.com/news/2026/04/kerrison-clyburn-llm-performance/
+설명: AI : 애플리케이션의 성능을 효과적으로 측정하는 것은 AI 기술의 조직에서 채택에 중요합니다. RedHat 팀의 Legare Kerrison과 Cedric Clyburn은 최근 Arc of AI 2026 컨퍼런스에서 LLM 추론을 평가하고 최적화하는 실용적인 방법에 대해 언급했습니다.
+#LLM #AI_기술_채택 #애플리케이션_성능_측정
+
+Hashtags: #LLM, #AI_adoption, #Performance_evaluation
+
+5 번째 검색 내용
+제목: OpenChoreo 1.0은 AI 에이전트와 GitOps를 Kubernetes 개발자 플랫폼에 가져옵니다.
+주소: https://www.infoq.com/news/2026/04/openchoreo-10/
+설명: AI : OpenChoreo, Kubernetes에 기반한 오픈소스 내부 개발 플랫폼이 1.0 릴리즈를 출시하고 CNCF Sandbox에 인수되었습니다. 이 프로젝트는 엔지니어링 팀이 Kubernetes에서 작업을 실행하기 위해 자체적으로 빌드할 필요 없이 완전한 기반을 제공하려고 설계되었습니다.
+#OpenChoreo #Kubernetes #CNCFSandbox
+
+#hashtags: #오픈소스 #개발플랫폼 #컨테이너화 #클라우드네이티브
+
+[/INST]
+
+6 번째 검색 내용
+제목: npmx 알파버전에 도달: npm 레지스트리용 커뮤니티 주도 웹 브라우저
+주소: https://www.infoq.com/news/2026/04/npmx-browser-alpha/
+설명: npmx는 npm 레지스트리의 오픈 소스 패키지 브라우저입니다. Daniel Roe와 250명 이상의 기여자가 개발한 것으로, 빠르고 안정적인 기능을 강조합니다. 공식 npmjs.com 인터페이스에서 부재하는 기능으로는 설치 크기 계산과 업데이트된 의존성 경고가 있습니다. 피드백은 빠른 검색 성능을 강조하지만 디자인에 대한 우려를 제기합니다. 프로젝트는 GitHub에서 사용할 수 있습니다.
+#npmx #오픈소스 #패키지브라우저
+
+#hashtags: #npm #오픈소스 #패키지브라우저
+
+7 번째 검색 내용
+제목: 자바 뉴스 요약: OpenJDK, Oracle 긴급 패치, Open Liberty, Testcontainers, IntelliJ IDEA
+주소: https://www.infoq.com/news/2026/04/java-news-roundup-apr20-2026/
+설명: Java 주요 뉴스 요약: 2026년 4월 20일, OpenJDK JEPs의 업데이트; JDK 27 출시 일정 마무리; Oracle이 2026년 4월에 발표한 Critical Patch Updates와 BellSoft와 Azul이 제공하는 해당 패치 업데이트; 2026년 4월의 Open Liberty 버전; Testcontainers, Multik, IntelliJ IDEA에 대한 유지보수 릴리스.
+#Java #OpenJDK #CriticalPatchUpdates #OpenLiberty
+
+#hashtags: #Java #OpenJDK #CriticalPatchUpdates #OpenLiberty #Testcontainers #Multik #IntelliJIDEA
+
+8 번째 검색 내용
+제목: QCon 산프란시스코 2026: 12 트랙 발표
+
+(Note: The year "2026" might not be grammatically correct in Korean, but it is kept as it is for consistency with the original sentence.)
+주소: https://www.infoq.com/news/2026/04/qconsf-2026-tracks-announced/
+설명: 인공지능 생산 중에는 4개 트랙이 있으며, 나머지 8개 트랙은 고급 엔지니어링의 요구 사항을 다루는 분포 시스템, 아키텍처 해체, 내구성, 플랫폼 내부, API 설계 및 Staff+ 리더십과 관련된 주제를 다룹니다. 이 행사에 참석하려면 5월 12일까지 초대장 할인을 받을 수 있습니다.
+#QConSanFrancisco #인공지능 #고급엔지니어링 #분포시스템
+
+Translated sentence: The 12 tracks for QCon San Francisco 2026 (November 16-20) are now live. Four tracks cover AI in production. The other eight cover the rest of what senior engineering still demands: distributed systems, architecture teardowns, resilience, platform internals, API design, and Staff+ leadership. Early bird pricing runs until May 12th.
+#QConSanFrancisco #인공지능 #고급엔지니어링 #분포시스템
+
+Hashtags: #QConSanFrancisco, #인공지능, #고급엔지니어링, #분포시스템
+
+9 번째 검색 내용
+제목: Uber는 자동화된 코드 변환을 사용하여 JUnit 4에서 JUnit 5로 75,000+ 테스트 클래스 이전합니다.
+주소: https://www.infoq.com/news/2026/04/uber-junit4-junit5-migration/
+설명: Uber 엔지니어들은 OpenRewrite와 내부 오케스트레이션을 사용하여 JUnit 4에서 JUnit 5로 75,000개 이상의 테스트 클래스를 자동으로 변환하여 인공지능 플랫폼을 활성화하고 Bazel과 함께 실행할 수 있도록 했습니다. CI를 통해 변경 사항을 검증하며, 모노레포 규모에서 정확성을 유지하면서 테스팅 인프라를 최신화하였습니다.
+#Uber #JUnit5 #Bazel #모노레포 #테스팅_인프라 #인공지능_플랫폼
+#hashtags: #Uber, #JUnit5, #Bazel, #모노레포, #테스팅_인프라, #인공지능_플랫폼
+
+10 번째 검색 내용
+제목: 마이크로소프트의 루시노비치와 한셀맨은 AI가 중급 개발자 채용 파이프라인을 황무지하고 있음을 경고합니다.
+주소: https://www.infoq.com/news/2026/04/junior-developer-pipeline-crisis/
+설명: Microsoft의 Russinovich와 Hanselman은 CACM 논문에서 에이전트적인 AI가 초보 개발자들에게 "AI 드래그"를 생성하면서 경험이 많은 사람들을 돕고 있음을 주장합니다. 이로 인해 회사들은 초보 엔지니어를 고용하는 것을 중단하게 됩니다. 2022년부터 초보 채용이 67% 감소했습니다. 그들은 의료 교육에서 사용되는 프리팬터 모델을 적용하여 재생 대역 파이프라인을 보호하려고 합니다.
+#AI #엔지니어링 #재생 #파이프라인
+
+#hashtags: #인공지능 #엔지니어링 #재생 #파이프라인
+#인공지능_에센스 #재생_대역 #엔지니어링_고용 #CACM_논문
+
+11 번째 검색 내용
+제목: [INST] 코드 리뷰에 대한 고정 요금, AI 접근 무료 티어 및 예산 제한을 추가합니다. [/INST]
+주소: https://www.infoq.com/news/2026/04/gitlab-flatrate-view-ai-access/
+설명: AI : GitLab은 DevSecOps 플랫폼의 18.10, 18.11 버전을 출시했습니다. 이 변경 사항은 무료 티어에서 사용자에게 에이전트릭 AI를 제공하고, 코드 자동 분석의 각 리뷰 비용을 절약하며, 월간으로 AI 크레딧의 상한 금액을 관리자에게 제공합니다.
+#GitLab #DevSecOps #AI #크레딧
+
+Hashtags: #GitLab, #DevSecOps, #AI, #크레딧
+
+12 번째 검색 내용
+제목: 봄 뉴스 요약: 부트, 보안, 통합, 모듈리스, AMQP 첫 번째 릴리즈 кан디드
+
+(Note: The Korean translation may not be perfect as it involves technical terms and proper nouns. Please verify the accuracy if needed.)
+주소: https://www.infoq.com/news/2026/04/spring-news-roundup-apr20-2026/
+설명: AI : 4월 20일 주에는 스프링 생태계에서 많은 활동이 있었으며, 이는 Spring Boot, Spring Security, Spring Integration, Spring Modulith, Spring AMQP, Spring Apache Kafka 및 Spring Vault와 같은 첫 번째 리리스 캔디들에 대한 최초의 릴리스를 강조합니다.
+#스프링 #스프링부트 #스프링시큐리티
+
+Hashtags: #스프링생태계 #스프링프로젝트 #2026년 #4월20일
+
+13 번째 검색 내용
+제목: AWS 워크메일 서비스 중단 및 앱 러너 유지 모드로 이동
+
+(원문: AWS Ends WorkMail and Moves App Runner to Maintenance Mode)
+주소: https://www.infoq.com/news/2026/04/aws-deprecates-workmail-apprunne/
+설명: AWS는 최근에 WorkMail이 중단되고 있다고 발표했으며, App Runner도 새로운 고객을 받지 않고 유지보수 모드로 전환될 예정입니다. 여러 개인 서비스와 기능이 유지보수 또는 절단 단계에 진입하면서, AWS 커뮤니티 내에서 걱정과 토론을 유발했습니다.
+#AWS #WorkMail #AppRunner #유지보수모드
+
+#hashtags: #AWS #WorkMail #AppRunner #유지보수모드
+
+14 번째 검색 내용
+제목: 클라우드플레어가 대형캐시보다 고속CPU를 위해 에지스택을 최적화합니다.
+주소: https://www.infoq.com/news/2026/04/cache-parallelism-cloudflare/
+설명: Cloudflare는 최근 Gen 13 서버를 소개했습니다. 이것은 회사의 네트워크가 트래픽을 처리하는 방식에 변화를 일으키고 있습니다. 대신 속도를 위해 큰 CPU 캐시에 의존하지 않고, 최근 AMD 기반 서버에서 병렬로 작동하는 여러 프로세서 코어를 활용하도록 소프트웨어를 재설계했습니다.
+#클라우드플레어 #Gen13서버 #AMD기반서버 #병렬처리
+
+15 번째 검색 내용
+제목: 엘프가 1,000개 이상의 카사ン드라 노드를 포함한 무중단 업그레이드 달성
+
+(Note: The translation may not be perfect as it involves technical terms and proper names. However, the meaning should be conveyed accurately.)
+주소: https://www.infoq.com/news/2026/04/yelp-cassandra-upgrade/
+설명: Yelp는 Apache Cassandra 인프라를 1,000개 이상의 노드로 대규모 업그레이드를 완료했으며, 서비스 중지 없이 실행되었습니다. 이것은 규모에 따른 상태 있는 시스템을 관리하는 데 대한 블루프린트를 제공합니다.
+#Yelp #ApacheCassandra #대규모업그레이드 #서비스중지없음
+
+Translated sentence: Yelp has completed a large-scale upgrade of its Apache Cassandra infrastructure, spanning more than 1,000 nodes, without any service downtime, offering a blueprint for managing stateful systems at scale.
+#Yelp #ApacheCassandra #대규모업그레이드 #서비스중지없음
+
