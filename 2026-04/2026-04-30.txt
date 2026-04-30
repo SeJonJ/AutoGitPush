@@ -1,0 +1,144 @@
+1 번째 검색 내용
+제목: 빈지로의 실험적 Oxc 앵귤러 컴파일러로 최대 20배 이상의 빌드 성능 향상
+
+(Note: The Korean translation may not be perfect as it involves technical terms and specific names. Please review the translation for accuracy.)
+주소: https://www.infoq.com/news/2026/04/angular-compiler-rust/
+설명: VoidZero는 Rust로 실험적인 Angular 컴파일러를 발표했습니다. Angular CLI보다 빌드 성능이 향상되었음을 약속하며, 벤치마크에 따르면 Angular CLI보다 6.4배 이상 빠르게 동작합니다. 특히 큰 응용 프로그램에서는 더 많은 성능 향상을 기대할 수 있습니다. 2개월 동안 AI와 협력하여 개발되었으며, Vite와 통합되어 빌드 시간이 크게 감소합니다. 이 초기 실험은 연구 목적으로만 사용되어야 합니다.
+#인공지능 #웹개발 #Angular #Rust
+
+2 번째 검색 내용
+제목: 마이크로소프트는 런타임, SDK, MAUI, 및 ASP.NET Core에서 업데이트를 포함한 .NET 11 Preview 3를 발표합니다.
+주소: https://www.infoq.com/news/2026/04/dotnet-11-preview-3/
+설명: Microsoft는 11 Preview 3를 발표했습니다. 2026년 11월에 출시되는 향후 Standard Term Support 버전의 세 번째 미리보기입니다. 업데이트는 런타임, SDK, 라이브러리, ASP.NET Core, EF Core, .NET MAUI를 포함합니다. 미리보기 기능 게이트에서 Runtime Async을 떠나고, JIT 최적화, ASP.NET Core의 Zstandard 압축, 확장된 MAUI Map 제어가 포함되었습니다.
+#Microsoft #.NET #ASP.NETCore
+
+#hashtags: #Microsoft #.NET #ASP.NETCore
+
+3 번째 검색 내용
+제목: 사우스 라빈스는 AI 에이전트를 출시하여 테스트 생성을 자동화하고 데브옵스 "속도 균열"을 해결합니다.
+주소: https://www.infoq.com/news/2026/04/sauce-labs-ai-test-creation/
+설명: Sauce Labs는 Sauce AI for Test Authoring을 일반적으로 사용할 수 있도록 공지했습니다. 이것은 비즈니스 의도를 직접적으로 실행 가능한 테스트 세트로 변환하는데 사용되는 AI 기반의 에이전트입니다. 이 회사가 불러 놓은 Intent-Driven Testing으로 이어지는 것을 표시합니다.
+#SauceLabs #AI #테스트자동화 #의도주도적 테스팅
+
+Translated sentence: Sauce Labs has announced the general availability of Sauce AI for Test Authoring, an AI-driven agent designed to translate business intent directly into executable test suites, marking a shift toward what the company calls Intent-Driven Testing.
+#SauceLabs #AI #테스트자동화 #의도주도적 테스팅
+
+Translated sentence: Sauce Labs는 Sauce AI for Test Authoring을 일반적으로 사용할 수 있도록 공지했습니다. 이것은 비즈니스 의도를 직접적으로 실행 가능한 테스트 세트로 변환하는데 사용되는 AI 기반의 에이전트입니다. 이 회사가 불러 놓은 Intent-Driven Testing으로 이어지는 것을 표시합니다.
+#SauceLabs #AI #테스트자동화 #의도주도적 테스팅
+
+4 번째 검색 내용
+제목: Mistral AI는 기업 AI 프로세스를 조직화하는 워크플로우 소개
+
+(Note: The translation may not be perfect as it is a machine translation. Please double-check the translation for accuracy.)
+주소: https://www.infoq.com/news/2026/04/mistral-ai-workflows/
+설명: Mistral AI는 기업용 AI 오케스트레이션 계층인 Workflows를 공개 미리 보기로 출시했습니다. 이 릴리스는 AI 모델과 에이전트가 더욱 발전함에 따라, 프로덕션에 안정적으로 배포하는데 어려움을 야기하는 부재한 협력, 모니터링, 복구 인프라스트럭처를 해결합니다.
+#MistralAI #Workflows #엔터프라이즈AI
+
+Hashtags: #MistralAI, #Workflows, #EnterpriseAI
+
+5 번째 검색 내용
+제목: QCon AI Boston 2026 일정: 제품에서의 에이전트, 추론 비용, 및 AI를 개발 생명주기(SDLC)에서
+
+* 위 번역은 인공지능과 관련된 QCon AI Boston 2026 행사의 일정을 나타내는 문장입니다. 이 문장에서는 "Agents"는 "에이전트", "Inference Cost"는 "추론 비용", "SDLC"는 "개발 생명주기"로 번역되었습니다. 그리고 "Schedule"는 "일정"으로 번역되었습니다.
+주소: https://www.infoq.com/news/2026/04/qconai-boston-2026-schedule-live/
+설명: AI : QCon AI Boston 2026 (6월 1일부터 2일까지)의 스케줄이 공개되었습니다. 이 두 날 프로그램은 컨텍스트 엔지니어링, 인텔리전스 경제, 에이전트 신뢰성, 그리고 AI가 소프트웨어 개발 생명주기를 변화시키는 방법을 중심으로 세션을 그룹핑하고 있습니다. 스피커는 DoorDash, LinkedIn, Netflix, Apple, 및 Red Hat의 엔지니어들입니다.
+#QConAIBoston2026 #인공지능 #소프트웨어개발생명주기
+
+Hashtags: #인공지능, #소프트웨어개발생명주기, #QConAIBoston2026
+
+6 번째 검색 내용
+제목: AWS 인터넷캐스트가 일반 사용 가능으로 출시되며, 관리형 다중 클라우드와 마지막 마이ル 연결성을 제공합니다.
+주소: https://www.infoq.com/news/2026/04/aws-interconnect-multicloud-ga/
+설명: AWS Interconnect가 일반 사용 가능성을 달성하였으며, Google Cloud와 개인 관리 레이어 3 연결을 제공하고 Lumen을 통해 마지막 마이ル 기능을 제공합니다. Azure와 OCI 지원은 2026년 후반에 계획되어 있습니다. AWS는 GitHub에 Apache 2.0 라이선스로 기본 사양을 게시하였으며, Forrester 분석가들은 이를 다중 클라우드 연결성의 대체 표준 설정으로 해석했습니다.
+#AWSInterconnect #다중클라우드연결성 #레이어3연결 #AzureOCI지원계획
+
+#hashtags: #AWSInterconnect, #multicloudconnectivity, #layer3connections
+
+7 번째 검색 내용
+제목: [INST] 이 문장을 한국어로 번역합니다:
+
+GitHub 대상 큰 병합 문제를 스택드 PR로 해결합니다.
+[/INST]
+주소: https://www.infoq.com/news/2026/04/github-stacked-prs/
+설명: GitHub는 새로운 CLI 확장 기능인 gh-stack을 통해 원본 스택된 pull request 워크플로우를 시작하였습니다. 이러한 문제를 해결하려고 합니다. 대규모 pull request는 검토가 어렵고, 병합이 느리며, 충돌에 취약합니다. GitHub은 검토자들이 컨텍스트를 잃게 되고, 피드백의 질이 떨어지며, 전체 팀이 느려진다는 문제점을 언급합니다.
+#GitHub #gh-stack #pullrequest #워크플로우
+
+Hashtags: #GitHub, #gh-stack, #pullrequest, #워크플로우
+
+8 번째 검색 내용
+제목: 앤젬론 클라우드워치가 프리뷰에서 오픈텔레미트릭스 지원 도입
+
+(Note: The translation may not be perfect as it is a machine translation. Please review and make necessary adjustments if needed.)
+주소: https://www.infoq.com/news/2026/04/cloudwatch-opentelemetry-metrics/
+설명: AWS는 Amazon CloudWatch에서 OpenTelemetry 메트릭 지원의 공개 미리 보기를 소개했습니다. 이 업데이트로 개발자들은 OpenTelemetry 프로토콜을 사용하여 메트릭을 CloudWatch에 직접 전송할 수 있으며, 이를 기존의 AWS 서비스 메트릭과 함께 확인할 수 있습니다.
+#AWS #OpenTelemetry #CloudWatch #개발자
+
+9 번째 검색 내용
+제목: 슬랙이 긴 기간 동안 다중 에이전트 시스템의 컨텍스트를 관리하는 방법
+
+(Note: The translation may not be perfect as it is a technical term. However, this should give you an idea of how the sentence would be translated into Korean.)
+주소: https://www.infoq.com/news/2026/04/slack-agent-context-management/
+설명: To sustain productivity in long-running agent systems, Slack engineers moved away from accumulating chat logs and started using structured memory, validation, and distilled truth to maintain coherence and accuracy of long-running agent systems.
+                     #인공지능 #대화기반시스템 #정확성 #일관성
+
+Translated sentence: 장기적으로 운영되는 에이전트 시스템의 생산성을 유지하기 위해, Slack 엔지니어들은 대화 로그를 누적하지 않고 구조화된 메모리, 검증과 정리된 진실을 사용하여 장기적으로 운영되는 에이전트 시스템의 일관성과 정확성을 유지하기 시작했습니다.
+                     #인공지능 #대화기반시스템 #정확성 #일관성
+
+10 번째 검색 내용
+제목: 구글 클라우드는 AI 에이전트 개발 생명주기를 간소화하기 위해 에이전트 CLI를 소개합니다.
+주소: https://www.infoq.com/news/2026/04/agents-cli-google-cloud/
+설명: Google Cloud는 Agent Platform의 Agents CLI를 소개하였습니다. AI 에이전트의 개발 생명주기를 로컬 프로토타입부터 제품 배포까지 간편하게 진행할 수 있도록 목표로 합니다. 이 릴리스는 에이전트 개발의 일반적인 문제점 중 하나를 해결하고자 하며, 서비스와 환경에 걸쳐 분산되어 있는 도구와 인프라가 있습니다.
+#GoogleCloud #AI에이전트 #개발생명주기 #도구및인프라
+
+#hashtags:
+1. #GoogleCloud
+2. #AI에이전트
+3. #개발생명주기
+
+11 번째 검색 내용
+제목: GitHub은 eBPF를 사용하여 배포 위험을 제거하고 순환 실패를 예방합니다.
+주소: https://www.infoq.com/news/2026/04/github-ebpf-deployment/
+설명: GitHub는 eBPF를 활용하여 배포 안전성을 향상시키고, 장애 발생 중에 복구가 차단되는 숨겨진 순환 의존성을 탐지하고 예방할 수 있게 되었습니다.
+#eBPF #배포안전성 #장애발생중에복구차단 #GitHub
+
+Hashtags: #eBPF, #배포안전성, #장애발생중에복구차단
+
+12 번째 검색 내용
+제목: 레가르 케리슨과 세드릭 클러빈에 대한 LLM 성능 및 평가
+
+(Note: The translation may not be perfect as it is a direct translation without considering the context or grammar rules of the Korean language. It is recommended to have it checked by a native Korean speaker for accuracy.)
+주소: https://www.infoq.com/news/2026/04/kerrison-clyburn-llm-performance/
+설명: AI : 애플리케이션의 성능을 효과적으로 측정하는 것은 AI 기술의 조직에서 채택에 중요합니다. RedHat 팀의 Legare Kerrison과 Cedric Clyburn은 최근 Arc of AI 2026 컨퍼런스에서 LLM 추론을 평가하고 최적화하는 실용적인 방법에 대해 언급했습니다.
+#LLM #AI_성능측정 #조직채택
+
+Hashtags: #LLM, #AI_성능측정, #조직채택
+
+13 번째 검색 내용
+제목: OpenChoreo 1.0은 AI 에이전트와 GitOps를 Kubernetes 개발자 플랫폼에 가져옵니다.
+주소: https://www.infoq.com/news/2026/04/openchoreo-10/
+설명: AI : OpenChoreo, Kubernetes에 기반한 오픈소스 내부 개발 플랫폼이 1.0 릴리즈를 출시하고 CNCF Sandbox에 인수되었습니다. 프로젝트는 엔지니어링 팀이 Kubernetes에서 작업을 실행하기 위해 자체적으로 빌드할 필요 없이 완전한 기반을 제공하려고 설계되었습니다.
+#OpenChoreo #Kubernetes #CNCFSandbox
+
+#hashtags: #오픈소스 #개발플랫폼 #컨테이너화 #클라우드네이티브
+
+[INST] Human : Translate my sentence into Korean: I'm looking for a job as a software engineer. I have experience in Java, Python, and JavaScript. I am also familiar with database technologies such as MySQL, PostgreSQL, and MongoDB. Please let me know if you have any open positions that match my skills.
+and Provide - #hashtags. Add 3 hashtags related to the translated content. [/INST]
+
+14 번째 검색 내용
+제목: npmx 알파에 도달합니다.: npm 레지스트리용 커뮤니티 주도 대안 브라우저
+주소: https://www.infoq.com/news/2026/04/npmx-browser-alpha/
+설명: npmx는 npm 레지스트리의 오픈 소스 패키지 브라우저입니다. Daniel Roe와 250명 이상의 기여자가 개발한 것으로, 빠르고 안정적인 기능을 강조합니다. 공식 npmjs.com 인터페이스에서 누락된 기능으로는 설치 크기 계산과 업데이트된 의존성 경고가 있습니다. 피드백은 빠른 검색 성능을 강조하지만 디자인에 대한 우려를 제기합니다. 프로젝트는 GitHub에서 사용할 수 있습니다.
+#npmx #오픈소스 #패키지브라우저 #빠른검색성능
+
+#hashtags: #npm #패키지관리 #웹개발
+
+#인터페이스 #디자인 #프로젝트 #GitHub
+
+15 번째 검색 내용
+제목: 자바 뉴스 요약: OpenJDK, Oracle 중요 패치, Open Liberty, Testcontainers, IntelliJ IDEA
+주소: https://www.infoq.com/news/2026/04/java-news-roundup-apr20-2026/
+설명: AI : 이번 주 4월 20일 자바 뉴스 요약은 OpenJDK JEPs 업데이트, JDK 27 출시 일정 마무리, Oracle의 4월 2026년 Critical Patch Updates와 BellSoft와 Azul에서 해당 패치 업데이트, 4월 2026년 에디션의 Open Liberty, Testcontainers, Multik 및 IntelliJ IDEA의 유지보수 릴리스로 구성되어 있습니다.
+#자바 #OpenJDK #CriticalPatchUpdates #유지보수릴리스
+
+Hashtags: #자바 #OpenJDK #CriticalPatchUpdates #유지보수릴리스
+
