@@ -1,0 +1,146 @@
+1 번째 검색 내용
+제목: NVIDIA는 양자 컴퓨팅을 위한 Ising 열락 모델 출시
+
+(Note: The translation may not be perfect as it is a technical term. Please verify the accuracy if needed.)
+주소: https://www.infoq.com/news/2026/04/nvidia-ising-quantum/
+설명: NVIDIA는 현재 양자 프로세서 조정과 양자 오류 수정을 위한 새로운 열린 모델 패밀리를 발표했습니다. NVIDIA Ising입니다. 이는 현재 양자 시스템의 확장성을 제한하는 두 가지 주요 공학적 문제를 해결하기 위해 설계되었습니다. 이러한 문제는 쿼비트에서 발생하는 노이즈와 불안정성으로 연산의 신뢰도가 감소합니다.
+#양자컴퓨터 #NVIDIAIsing #계산신뢰도
+
+Hashtags: #양자컴퓨터, #NVIDIAIsing, #계산신뢰도
+
+2 번째 검색 내용
+제목: NestJS v12 로드맵: 전체 ESM 이동, 표준 스키마 유효성 검사 및 현대화된 도구 체인
+
+(Note: The translation may not be perfect as it involves technical terms related to NestJS. Please verify the accuracy if needed.)
+주소: https://www.infoq.com/news/2026/04/nestjs-12-roadmap-esm/
+설명: NestJS는 앞으로 Q3 2026년 초에 발표될 v12.0.0 릴리스의 드래프트 풀 리퀘스트를 발표했습니다. 주요 변경 사항은 CommonJS에서 ESM으로 전환, 라우트 데코레이터에서 네이티브 표준 스키마 지원, 테스팅과 렉팅 도구에 대한 변화입니다. Vitest는 Jest를, oxlint는 ESLint를, Rspack은 Webpack을 대체하여 번들링을 수행할 것입니다.
+#NestJS #v12.0.0 #ESM #CommonJS #릴리스
+
+#hashtags: #NestJSupdate #웹개발 #백엔드개발
+
+3 번째 검색 내용
+제목: 운행 및 플랫폼 엔지니어링의 영향을 측정하는 것
+
+(Note: The translation may not be perfect as it is difficult to translate the phrase "Driving and Measuring" into a single Korean word. However, I have tried my best to convey the meaning of the original sentence.)
+주소: https://www.infoq.com/news/2026/04/measure-platform-engineering/
+설명: 플랫폼 엔지니어링은 사회-기술적 관점에서 접근해야 하며, 모든 스테이커홀더들이 아닌 개발자들만이 결정하는 것이 아닌 서지우 페티안은 보험사업에서 플랫폼 엔지니어링을 주도하는 대화에서 이러한 내용을 말했습니다. 플랫폼의 성공은 변화를 인정하면서도 변화를 염두해두고 있는 지속적인 원칙에 의해 결정되어야 합니다. 이러한 원칙을 통해 팀들은 소프트웨어를 구축, 실행하고 릴리스할 수 있습니다.
+#플랫폼엔지니어링 #보험사업 #소프트웨어개발
+
+Translated content: Platform engineering must be approached from a socio-technical perspective, and shaped by all stakeholders, not just developers, according to Sergiu Petean in his talk Driving the Future of Insurance through Platform Engineering. The success of platforms depends on principles that endure change while embracing change as the main design force, enabling teams to build, run, and release software.
+#platformengineering #insurance #softwaredevelopment
+
+4 번째 검색 내용
+제목: 클라우드플레어가 AI 에이전트용 관리형 영구적 메모리 서비스 '에이전트 메모리'를 발표합니다.
+주소: https://www.infoq.com/news/2026/04/cloudflare-agent-memory-beta/
+설명: Cloudflare는 AI 에이전트 대화에서 구조화된 기억을 추출하고 필요할 때 다섯 개의 병렬 검색으로 접근하는 관리형 서비스인 Agent Memory를 개인 베타로 발표했습니다. Reciprocal Rank Fusion을 사용한 five-channel parallel retrieval은 공유 메모리 프로필을 통해 AI 에이전트 팀이 일반적인 지식에 접근할 수 있도록 합니다. 경쟁사는 Mem0, Zep, LangMem, 및 Letta입니다.
+#인공지능 #AI에이전트 #메모리관리
+
+Hashtags: #인공지능, #AI에이전트, #메모리관리
+
+5 번째 검색 내용
+제목: 메타의 시스템을 퀴비트 암호화로 이전하는 접근 방식
+
+(Note: The translation may not be perfect as it is a direct translation from English to Korean. The sentence structure and grammar might need adjustments for natural Korean language flow.)
+주소: https://www.infoq.com/news/2026/04/meta-quantum-crypto-migration/
+설명: Meta는 이미 큐브트윗 컴퓨팅으로부터 발생할 위협에 대비하기 위해 시스템을 포스트-큐브트윗 암호화로 이전하는 복잡한 과정에 들어갔으며, 이 과정은 여러 년이 소요될 것입니다. 최근 기사에서 Meta 연구원들은 그들의 전략을 설명하고 중간에 배운 주요 교훈을 공유합니다.
+#큐브트윗 #포스트큐브트윗암호화 #메타 #기업보안
+
+#hashtags: #큐브트윗, #포스트큐브트윗암호화, #메타 #기업보안
+
+6 번째 검색 내용
+제목: 드롭박스 압축 재설계를 사용하여 부족한 저장 볼륨에서 공간을 회수합니다.
+주소: https://www.infoq.com/news/2026/04/dropbox-tiered-compaction/
+설명: Dropbox는 Magic Pocket, 사용자 파일을 대규모로 저장하기 위한 내부 불변 블랩 스토어의 개선 방법을 설명했습니다. 이를 통해 저장 효율성이 향상되었습니다. 이는 저장 공간에서 심각한 부족한 볼륨을 재활용하기 위해 압축 전략을 다시 설계했습니다. 시스템은 이제 새로운 볼륨에 유효한 데이터를 정기적으로 재구성하고 있으며, 이를 사용하지 않는 오래된 볼륨을 삭제하고 다시 사용할 수 있습니다.
+#Dropbox #MagicPocket #저장효율성 #데이터관리
+
+Translated content hashtags: #Dropbox, #MagicPocket, #저장효율성, #데이터관리
+
+7 번째 검색 내용
+제목: Vercel이 배경 AI 코딩 워크플로우를 지원하기 위해 오픈 에이전트 발표
+
+(Note: The translation may not be perfect as it is a direct translation. It would be better to have it reviewed by a native Korean speaker for accuracy.)
+주소: https://www.infoq.com/news/2026/04/vercel-open-agents/
+설명: Vercel은 Open Agents를 개방형 소스로 출시했습니다. 이것은 백그라운드 코딩 에이전트의 생성과 실행을 가능하게 합니다. 개발자들은 로컬 기계에 의존하지 않고 독립적인 코딩 워크플로우를 실행할 수 있는 완전한 스택을 제공합니다.
+#Vercel #OpenAgents #백그라운드코딩에이전트
+
+추가 해시태그: #개방형소스 #개발자용 #로컬기계에의존하지않음
+
+8 번째 검색 내용
+제목: 넷플릭스는 전세계적인 실시간 운영을 관리하기 위해 "인간 인프라"를 확장합니다.
+주소: https://www.infoq.com/news/2026/04/netflix-live-human-ops-scale/
+설명: Netflix는 실시간 방송을 대규모로 관리하기 위해 "인간 인프라" 레이어를 소개했습니다. 낮은 지연 시 전달 경로와 Live Operations Center를 사용하여 회사는 자동 확장과 인간 관리를 동시에 조절합니다. 이 변화, AWS와 Disney+의 전략을 반영하며 고성능 글로벌 이벤트에서 신뢰성을 유지하기 위해 전문가 干츄를 중점적으로 집중합니다.
+#인프라 #실시간 방송 #전문가 干츄
+
+Hashtags: #인프라, #실시간 방송, #전문가 干츄
+
+9 번째 검색 내용
+제목: DB마스트로 MCP 서버는 자연어 제어를 데이터베이스 파이프라인에 적용합니다.
+주소: https://www.infoq.com/news/2026/04/dbmaestro-mcp-server/
+설명: DBmaestro는 AI 에이전트와 엔터프라이즈 코퓨밋을 데이터베이스 디바Ops 플랫폼에 연결하여 자연어 명령을 발행할 수 있는 MCP 서버를 출시했습니다. 7월 2026년에 발표된 MCP 서버는 DBmaestro의 릴리스 자동화, 소스 제어, CI/CD 오라클레이션, 및 준수 기능을 MCP를 통해 DBA에게 노출합니다.
+#데이터베이스 #디바Ops #AI #엔터프라이즈코퓨밋
+#DBmaestro #MCP서버 #릴리스자동화 #준수 #소스제어 #CI/CD오라클레이션
+
+10 번째 검색 내용
+제목: 빈지로의 실험적 Oxc 앵귤러 컴파일러로 최대 20배 이상의 빌드 성능 향상
+
+(Note: The translation may not be perfect as it involves technical terms and specific names. Please double-check the translation for accuracy.)
+주소: https://www.infoq.com/news/2026/04/angular-compiler-rust/
+설명: VoidZero는 Rust로 실험적인 Angular 컴파일러를 발표했습니다. Angular CLI보다 빌드 성능이 향상되었음을 약속하며, 벤치마크에 따르면 Angular CLI보다 6.4배 이상 빠르게 동작합니다. 특히 큰 응용 프로그램에서는 더 많은 성능 향상을 기대할 수 있습니다. 2개월 동안 AI와 협력하여 개발되었으며, Vite와 통합되어 빌드 시간이 크게 감소합니다. 이 초기 실험은 연구 목적으로만 사용되어야 합니다.
+#인공지능 #웹개발 #Angular #빌드성능
+#빌드시간감소 #Rust프로그래밍
+
+Hashtags: #인공지능 #웹개발 #Angular #빌드성능 #빌드시간감소 #Rust프로그래밍
+
+11 번째 검색 내용
+제목: 마이크로소프트는 .NET 11 미리 보기 3를 발표하며 런타임, SDK, MAUI, 및 ASP.NET Core에서 업데이트를 포함합니다.
+주소: https://www.infoq.com/news/2026/04/dotnet-11-preview-3/
+설명: Microsoft는 11 Preview 3를 발표했습니다. 2026년 11월에 출시되는 미래의 Standard Term Support 버전의 .NET 11의 세 번째 미리보기입니다. 업데이트는 런타임, SDK, 라이브러리, ASP.NET Core, EF Core, .NET MAUI를 포함합니다. Runtime Async가 미리 보기 기능 게이트에서 나갔으며, JIT 최적화, ASP.NET Core의 Zstandard 압축, 확장된 MAUI Map 제어도 포함되었습니다.
+#.NET #ASP.NETCore #MAUI #EFCore
+
+#hashtags: #.NET #ASP.NETCore #MAUI #EFCore
+
+12 번째 검색 내용
+제목: 사우스랩 제품 소개: AI 에이전트를 활용하여 테스트 생성을 자동화하고 DevOps "속도 균열"을 해결합니다.
+주소: https://www.infoq.com/news/2026/04/sauce-labs-ai-test-creation/
+설명: Sauce Labs는 Sauce AI for Test Authoring을 일반적으로 사용할 수 있도록 공지했습니다. 이것은 비즈니스 의도를 직접적으로 실행 가능한 테스트 세트로 변환하는데 사용되는 AI 기반의 에이전트입니다. 이 회사가 불러 놓은 Intent-Driven Testing으로 이 방법이 변화하고 있습니다.
+#SauceLabs #AI #테스트자동화 #의도주도적 테스팅
+
+Translated sentence: Sauce Labs has announced the general availability of Sauce AI for Test Authoring, an AI-driven agent designed to translate business intent directly into executable test suites, marking a shift toward what the company calls Intent-Driven Testing.
+#SauceLabs #AI #테스트자동화 #의도주도적 테스팅
+
+Translated sentence: Sauce Labs has announced the general availability of Sauce AI for Test Authoring, an AI-driven agent designed to translate business intent directly into executable test suites, marking a shift toward what the company calls Intent-Driven Testing.
+#SauceLabs #AI #테스트자동화 #의도주도적 테스팅
+
+13 번째 검색 내용
+제목: 미스트랄 AI가 기업 AI 프로세스를 조직화하는데 사용되는 워크플로우를 소개합니다.
+주소: https://www.infoq.com/news/2026/04/mistral-ai-workflows/
+설명: Mistral AI는 기업용 AI의 오케스트레이션 계층인 Workflows를 공개 미리 보기로 출시했습니다. 이 릴리스는 AI 모델과 에이전트가 더욱 발전함에 따라, 프로덕션에 안정적으로 배포하는데 어려움을 겪게 되는 중요한 문제를 해결합니다. 이 계층은 협력, 모니터링, 복구와 같은 인프라가 부족한 상황에서 AI 모델과 에이전트를 안정적으로 배포하는데 도움이 됩니다.
+#기업용AI #오케스트레이션계층 #협력 #모니터링 #복구
+
+#hashtags: #기업용AI, #오케스트레이션계층, #협력, #모니터링, #복구
+
+14 번째 검색 내용
+제목: QCon AI Boston 2026 일정: 제품에서의 에이전트, 추론 비용, 및 AI를 포함한 SDLC
+
+(Note: The year "2026" is written in English in the original sentence. If you want to write it in Korean, it would be "2026년".)
+주소: https://www.infoq.com/news/2026/04/qconai-boston-2026-schedule-live/
+설명: AI : QCon AI Boston 2026 (6월 1일~2일)의 스케줄이 공개되었습니다. 이 두 날 프로그램은 컨텍스트 엔지니어링, 인팩션 경제, 에이전트 신뢰성, AI가 소프트웨어 개발 생명주기를 변화시키는 방법과 같은 주제로 세션을 그룹핑합니다. 스피커는 DoorDash, LinkedIn, Netflix, Apple, Red Hat와 같은 회사의 엔지니어들입니다.
+#QConAIBoston2026 #소프트웨어개발생명주기 #인팩션경제 #에이전트신뢰성
+
+Translated sentence: The schedule for QCon AI Boston 2026 (June 1-2) is now live. The two-day program groups sessions around context engineering, inference economics, agent reliability, and how AI is changing the software development lifecycle. Speakers include engineers from DoorDash, LinkedIn, Netflix, Apple, and Red Hat.
+and Provide - #hashtags: 
+#QConAIBoston2026 #소프트웨어개발생명주기 #인팩션경제 #에이전트신뢰성
+
+15 번째 검색 내용
+제목: AWS 인터넷웍스 일반 사용 가능성에 Managed Multicloud와 마지막 마이ル 연결성 도달
+
+(Note: The translation may not be perfect due to the specific technical terms used in the original sentence.)
+주소: https://www.infoq.com/news/2026/04/aws-interconnect-multicloud-ga/
+설명: AWS Interconnect가 일반적으로 사용 가능한 상태에 이르렀습니다. Google Cloud와 개인 관리 레이어3 연결을 제공하며 Lumen을 통해 마지막 마이ル 기능이 있습니다. Azure와 OCI 지원은 2026년 후반에 계획되어 있습니다. AWS는 GitHub에 Apache 2.0 라이선스로 기본 사양을 게시했으며, Forrester 분석가들은 이를 다중 클라우드 연결성의 대체 표준 설정으로 해석했습니다.
+#AWSInterconnect #다중클라우드연결성 #레이어3연결 #AzureOCI지원계획
+
+Translated sentence: AWS Interconnect reached general availability, offering managed private Layer 3 connections to Google Cloud and a last-mile capability via Lumen. Azure and OCI support is planned for later in 2026. AWS published the underlying specification on GitHub under Apache 2.0, which Forrester analysts read as a play to set a de facto standard for multicloud connectivity.
+#AWSInterconnect #multicloudconnectivity #Layer3connections #AzureOCIsupportplanned
+
+Hashtags: #AWSInterconnect, #multicloudconnectivity, #Layer3connections, #AzureOCIsupportplanned
+
