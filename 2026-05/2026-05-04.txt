@@ -1,9 +1,7 @@
 1 번째 검색 내용
-제목: 클라우드플레어가 LLM를 실행하기 위해 고성능 인프라 구축
-
-(Note: The translation may not be perfect as it is a machine translation. Please review and make necessary adjustments if needed.)
+제목: 클라우드플레어가 LLM을 실행하기 위해 고성능 인프라를 구축합니다.
 주소: https://www.infoq.com/news/2026/05/cloudflare-llm-infrastructure/
-설명: Cloudflare는 최근에 전역 네트워크를 통해 대규모 AI 언어 모델을 실행하기 위한 새로운 인프라를 발표했습니다. 이러한 모델은 비쌈 하드웨어에 의존하고 있으며, 입력과 출력을 처리하는 데 대량의 텍스트를 처리해야 합니다. Cloudflare는 모델의 입력 처리와 출력 생성을 다른 최적화된 시스템으로 분리합니다.
+설명: Cloudflare는 최근에 전 세계 네트워크에서 대규모 AI 언어 모델을 실행하기 위해 새로운 인프라를 발표했습니다. 이러한 모델은 비쌈 하드웨어를 사용하고 대량의 입력과 출력 텍스트를 처리해야 하기 때문에 Cloudflare는 입력 처리와 출력 생성을 다른 최적화된 시스템으로 분리합니다.
 #인공지능 #클라우드플레어 #언어모델
 
 #hashtags: #AI #Cloudflare #NaturalLanguageProcessing
@@ -11,31 +9,32 @@
 2 번째 검색 내용
 제목: DuckLake 1.0: 데이터 레이크 형식과 SQL 캐폴로그 메타데이터
 
-(Note: The translation may not be perfect as it is a technical term, and the Korean language does not have direct equivalents for some English words.)
+(Note: The translation may not be perfect as it is a technical term, and some context might be needed for an accurate translation.)
 주소: https://www.infoq.com/news/2026/05/ducklake-sql-catalog/
-설명: AI : DuckDB Labs는 데이터 레이크 형식인 DuckLake 1.0을 최근에 발표했습니다. 이것은 테이블 메타데이터를 SQL 데이터베이스에 저장하고 있지 않으며, 대신 객체 스토리지에 걸쳐 여러 파일에 분산되어 있습니다. 첫 번째 구현은 DuckDB 확장으로 제공되고 있으며, 캐폴로그에 저장된 작은 업데이트, 개선된 정렬 및 파티션 옵션, 그리고 Iceberg 스타일의 데이터 기능과 호환성을 포함합니다.
+설명: AI : DuckDB Labs는 데이터 레이크 형식인 DuckLake 1.0을 최근에 발표했습니다. 이것은 테이블 메타데이터를 SQL 데이터베이스에 저장하고 있지 않으며, 대신 객체 스토리지에서 여러 파일에 걸쳐 저장됩니다. 첫 번째 구현은 DuckDB 확장으로 제공되고 있으며, 캐폴로그에 저장된 작은 업데이트, 개선된 정렬 및 파티션 옵션, 그리고 Iceberg 스타일의 데이터 기능과 호환성을 포함합니다.
 #DuckDBLabs #DuckLake #데이터레이크
 
 3 번째 검색 내용
-제목: 직업런(JobRunr)은 오픈소스 Java AI 에이전트인 클로우런(ClawRunr)을 소개합니다.
+제목: 작업런 클로우런어를 개발 중입니다.
+[/INST]
 주소: https://www.infoq.com/news/2026/05/clawrunr/
-설명: JobRunr는 ClawRunr이라는 열린 소스 Java AI 에이전트를 도입했습니다. 이전에는 JavaClaw로 알려져 있으며, 사용자의 하드웨어에서 실행되고 대화형 상호작용과 지속적인 태스크 실행을 결합하여 MCP 도구, 브라우저 자동화, 웹, Telegram, Discord 채널을 사용하며 JobRunr을 예약, 재시도 및 모니터링에 사용합니다.
-#JobRunr #ClawRunr #AI #Java
+설명: JobRunr는 ClawRunr이라는 오픈소스 Java AI 에이전트를 도입했습니다. 이전에는 JavaClaw로 알려져 있으며, 사용자의 하드웨어에서 실행되고 대화형 상호작용을 결합하여 지속적인 작업 실행, MCP 도구, 브라우저 자동화, 웹, Telegram, Discord 채널을 사용하며 JobRunr을 스케줄링, 재시도, 모니터링 위해 설계되었습니다.
+#JobRunr #ClawRunr #AIagent #오픈소스 #Java
 
-#hashtags: #JobRunr, #ClawRunr, #AI, #Java
+#hashtags: #JobRunr #ClawRunr #AIagent #오픈소스 #Java
 
 4 번째 검색 내용
 제목: [INST] 콘플런트가 스키마 ID를 카프카 헤더로 이동시키여 스키마 관리를 간소화합니다. [/INST]
 주소: https://www.infoq.com/news/2026/05/confluent-kafka-header-schema-id/
-설명: 인공지능 소개: Confluent는 Apache Kafka에서 스키마 ID를 메시지 페이로드에서 레코드 헤더로 이동시키는 새로운 접근 방식을 제안합니다. 이 업데이트는 Schema Registry와 통합되어, 직렬화 형식의 호환성을 개선하고 이벤트 기반 아키텍처에서 데이터와 메타데이터 간의 결합을 줄입니다.
-#스키마 관리 #직렬화 형식 #이벤트 기반 아키텍처
+설명: 인공지능 기업 콘플루언트는 애프로치 카프카에서 스키마 ID를 메시지 페이로드에서 레코드 헤더로 이동시키는 새로운 접근 방식을 소개합니다. 이 업데이트는 스키마 관리와 진화를 간단하게 만들기 위해 적용되며, 직렬화 형식의 호환성을 향상시키고 이벤트 주도 아키텍처에서 데이터와 메타데이터 간의 결합을 줄입니다.
+#콘플루언트 #스키마 #카프카 #이벤트주도아키텍처
 
-#hashtags: #인공지능 #ApacheKafka #Confluent #스키마 관리
+#hashtags: #인공지능, #스키마관리, #직렬화형식, #이벤트주도아키텍처
 
 5 번째 검색 내용
 제목: 메타는 하이퍼스케일에서 성능 최적화를 자동화하기 위해 통합된 AI 에이전트를 배포합니다.
 주소: https://www.infoq.com/news/2026/05/meta-ai-agents-hyperscale/
-설명: Meta는 AI 기반의 용량 효율성 플랫폼을 공개했습니다. 이 플랫폼은 전 세계 인프라에서 성능 문제를 자동으로 감지하고 해결하는데 통합된 AI 에이전트를 사용하며, 하이퍼스케일의 자기 최적화 시스템으로의 중요한 발전을 의미합니다.
+설명: Meta는 AI 기반의 용량 효율성 플랫폼을 공개했습니다. 이 플랫폼은 전 세계 인프라에서 성능 문제를 자동으로 감지하고 해결하는데 통합된 AI 에이전트를 사용하며, 하이퍼스케일의 자기 최적화 시스템에 대한 중요한 발전을 의미합니다.
 #인공지능 #하이퍼스케일 #자기최적화시스템
 
 #hashtags: #AI #Hyperscale #SelfOptimizingSystems
@@ -43,47 +42,47 @@
 6 번째 검색 내용
 제목: Vitest 4.1: 테스트 태그, 네이티브 Node.js 실행 및 AI 에이전트 보고서
 
-(Note: The translation may not be perfect as some terms like "Test Tags" and "AI Agent Reporter" might have specific meanings in the context of Vitest and could be translated differently.)
+(Note: The translation may not be perfect as some terms might have specific meanings in the context of Vitest and its community.)
 주소: https://www.infoq.com/news/2026/05/vitest-4-1-ai-agents/
-설명: Vitest 4.1은 VoidZero에서 개발한 JavaScript 테스팅을 향상시키는 기능으로, 테스트 태그를 사용하여 필터링 및 구성할 수 있고, Vite의 모듈 러너를 우회하기 위한 실험적 모드와 새로운 라이프사이클 후크를 포함합니다. 이 버전부터는 Vite 8에 지원됩니다. 특히, Jest보다 성능이 향상된 점을 강조합니다. 이 릴리즈는 문제를 해결하고 마이그레이션을 위한 가이드를 제공합니다.
+설명: Vitest 4.1은 VoidZero에서 개발한 JavaScript 테스팅을 향상시키는 기능으로, 테스트 태그를 사용하여 필터링 및 구성할 수 있고, Vite의 모듈 러너를 우회하기 위한 실험적 모드와 새로운 라이프사이클 후크를 포함합니다. 이 버전부터는 Vite 8에 지원됩니다. 특히, Jest보다 성능이 향상된 것을 발견했습니다. 이 릴리즈는 문제를 해결하고 마이그레이션 가이드를 제공합니다.
 #Vitest #JavaScript테스팅 #Vite #성능향상
 
 #hashtags: #JavaScript #개발자 #소프트웨어테스팅
 
 7 번째 검색 내용
-제목: 브로드콤 빈긴 벨레로를 CNCF에 기부하며, 큐버네티스 백업을 커뮤니티 지도에 이동시킵니다.
+제목: 브로드콤 빈긴 벨레로를 CNCF에 기부하며, 카우버네스 백업을 커뮤니티 지도에 이동시킵니다.
 주소: https://www.infoq.com/news/2026/05/broadcom-velero-cncf/
-설명: Broadcom는 Velero, Kubernetes 네이티브 백업, 복원 및 마이그레이션 프로젝트를 CNCF(클라우드 네이티브 컴퓨팅 재단)에 샌드박스 프로젝트로 기여하고 공지했습니다. Velero는 Kubernetes API 레이어에서 작동하며, 하이퍼바이저 또는 스토리지 레이어 스냅숏을 통해 클러스터 상태를 캡처합니다. 대신 Custom Resource Definitions(CRDs)를 사용합니다.
+설명: Broadcom는 Velero, Kubernetes 네이티브 백업, 복원 및 마이그레이션 프로젝트를 CNCF(클라우드 네이티브 컴퓨팅 재단)에 샌드박스 프로젝트로 기여하고 공지했습니다. Velero는 Kubernetes API 레이어에서 작동하며, 하이퍼바이저 또는 스토리지 레이어 스냅숏을 통해 클러스터 상태를 캡처하는 대신 Custom Resource Definitions(CRDs)를 사용합니다.
 #Kubernetes #Velero #CNCF
 
 #hashtags: #Kubernetes, #Velero, #CNCF
 
 8 번째 검색 내용
-제목: NVIDIA는 양자 컴퓨팅을 위한 Ising 열락 모델 출시
+제목: NVIDIA는 양자 계산에 대한 열린 모델 시스템 출시
 
-(Note: The translation may not be perfect as it is a technical term. Please confirm the accuracy with a professional translator if necessary.)
+(Note: The translation may not be perfect as it is a technical term. However, the meaning should be clear.)
 주소: https://www.infoq.com/news/2026/04/nvidia-ising-quantum/
-설명: NVIDIA는 현재 양자 프로세서 조정 및 양자 오류 수정을 위한 새로운 열린 모델 패밀리를 발표했습니다. NVIDIA Ising입니다. 이는 현재 양자 시스템의 확장성을 제한하는 두 가지 주요 공학적 문제를 해결하기 위해 설계되었습니다. 이러한 문제는 쿼비트에서 노이즈와 불안정성으로 인해 계산의 신뢰도가 감소합니다.
-#양자컴퓨터 #NVIDIAIsing #계산신뢰도
+설명: NVIDIA는 현재 양자 프로세서 조정 및 양자 오류 수정을 위한 새로운 열린 모델 패밀리를 발표했습니다. NVIDIA Ising입니다. 이는 현재 양자 시스템의 확장성에 제한되는 두 가지 주요 공학적 문제를 해결하기 위해 설계되었습니다. 이러한 문제는 쿼비트(qubits)에서 발생하는 노이즈와 불안정성으로 연산의 신뢰도가 감소합니다.
+#양자컴퓨터 #NVIDIAIsing #오류수정
 
-Hashtags: #양자컴퓨터, #NVIDIAIsing, #계산신뢰도
+Translated content hashtags: #양자컴퓨터, #NVIDIAIsing, #오류수정
 
 9 번째 검색 내용
-제목: NestJS v12 로드맵: 전체 ESM 이동, 표준 스키마 유효성 검사 및 현대화된 도구 체인
+제목: NestJS v12 로드맵: 전체 ESM 이동, 표준 스키마 유효성 검사 및 모дер니즈된 도구 체인
 
-(Note: The translation may not be perfect as it is a technical term. Please verify the accuracy if needed.)
+(Note: The translation may not be perfect as it is a technical term. Please double-check the translation for accuracy.)
 주소: https://www.infoq.com/news/2026/04/nestjs-12-roadmap-esm/
 설명: NestJS는 다음 Q3 2026년 초에 발표될 v12.0.0 릴리스의 드래프트 풀 리퀘스트를 발표했습니다. 주요 변경 사항은 CommonJS에서 ESM으로의 전환, 라우트 데코레이터에서 네이티브 표준 스키마 지원, 테스팅과 렉팅 도구에 대한 변경입니다. Vitest가 Jest를 대체하고, oxlint가 ESLint를 대체하며, Rspack이 Webpack을 대체하여 번들링을 수행할 예정입니다.
-#NestJS #v12.0.0 #ESM #CommonJS #릴리스
-
-#hashtags: #NestJSUpdate #FrontendDevelopment #BackedDevelopment
+#NestJS #v12.0.0 #릴리스 #변경사항
+#CommonJS #ESM #라우트데코레이터 #테스팅 #렉팅도구 #Vitest #oxlint #Rspack #번들링
+#NestJS #v12.0.0 #릴리스 #변경사항
 
 10 번째 검색 내용
 제목: 운전하고 플랫폼 엔지니어링의 영향을 측정하기
 
-(Note: The translation may not be perfect as it is difficult to maintain the exact structure and meaning of the original sentence in Korean. However, this translation conveys the general idea of driving and measuring the impact of platform engineering.)
+(Note: The translation may not be perfect as it is difficult to translate the phrase "Driving and Measuring" into a single Korean word. However, I have tried my best to convey the meaning of the original sentence.)
 주소: https://www.infoq.com/news/2026/04/measure-platform-engineering/
-설명: 플랫폼 엔지니어링은 사회-기술적 관점에서 접근해야 하며, 모든 스테이커홀더들이 아닌 개발자들만이 결정하는 것이 아닌 서지우 페티안은 보험사업에서 플랫폼 엔지니어링을 주도하는 대화에서 이러한 내용을 말했습니다. 플랩폼의 성공은 변화를 인정하면서도 변화를 염두해두고 있는 지속적인 원칙에 의해 결정되어야 합니다. 이러한 원칙을 통해 팀들은 소프트웨어를 구축, 실행하고 릴리스할 수 있습니다.
+설명: 플랫폼 엔지니어링은 사회적-기술적 관점에서 접근해야 하며, 모든 스테이커홀더들이 아닌 개발자들만이 결정하는 것이 아닌 서지우 페티안은 보험사업에서 플랫폼 엔지니어링을 주도하는 발표에서 말했습니다. 플랩폼의 성공은 변화를 인정하면서도 변화를 염두에 둔 지침이 있는 것이 중요합니다. 이러한 원칙은 소프트웨어를 구축, 실행하고 출시할 수 있도록 팀을 돕기 위해 변화에 대한 인정을 받으면서도 변화의 주요 설계 힘이 됩니다.
 #플랩폼엔지니어링 #보험사업 #소프트웨어개발
 
 Hashtags: #플랩폼엔지니어링, #보험사업, #소프트웨어개발
@@ -91,45 +90,43 @@ Hashtags: #플랩폼엔지니어링, #보험사업, #소프트웨어개발
 11 번째 검색 내용
 제목: 클라우드플레어가 AI 에이전트용 관리형 영구적 메모리 서비스 '에이전트 메모리'를 발표합니다.
 주소: https://www.infoq.com/news/2026/04/cloudflare-agent-memory-beta/
-설명: Cloudflare는 AI 에이전트 대화에서 구조화된 기억을 추출하고 필요할 때 5채널 병렬 검색으로 꺼내는 관리형 서비스인 Agent Memory를 개인 베타로 발표했습니다. 공유 메모리 프로필을 사용하면 AI 에이전트의 팀이 공통 지식에 접근할 수 있습니다. 경쟁자는 Mem0, Zep, LangMem, 및 Letta입니다.
+설명: AI : 클라우드플레어는 사설 베타에서 Agent Memory를 발표했습니다. 이것은 AI 에이전트 대화에서 구조화된 기억을 추출하고 5채널 병렬 검색으로 Reciprocal Rank Fusion을 사용하여 요청에 따라 꺼내는 관리형 서비스입니다. 공유 메모리 프로필은 AI 에이전트 팀이 일반적인 지식에 접근할 수 있게 합니다. 경쟁자는 Mem0, Zep, LangMem, 및 Letta입니다.
+#클라우드플레어 #AgentMemory #AI기억 #관리형서비스
 
-#인공지능 #AI에이전트 #메모리관리 #클라우드플레어
+Hashtags: #클라우드플레어, #AgentMemory, #AI기억, #관리형서비스
 
 12 번째 검색 내용
-제목: 메타의 시스템을 퀴비트 암호화로 이전하는 접근 방식
+제목: 메타의 시스템을 퀘이츠 암호화로 이전하는 접근 방식
 
-(Note: The translation may not be perfect as it is a machine translation. Please review and make any necessary adjustments.)
+(Note: The translation may not be perfect as it is a direct translation without considering the context or grammar rules of the Korean language. It is recommended to have it checked by a native speaker or professional translator for accuracy.)
 주소: https://www.infoq.com/news/2026/04/meta-quantum-crypto-migration/
-설명: Meta는 이미 양자 컴퓨팅으로부터 발생할 위협에 대비하고 양자 암호학을 사용한 후 양자 암호학 암호화로 시스템을 마이그레이션하는 복잡한 과정에 들어갔습니다. 최근 기사에서 Meta 연구원들은 전략을 설명하고 거기까지 가는 데 있었던 중요한 교훈을 공유했습니다.
-#양자컴퓨팅 #암호학 #Meta
+설명: Meta는 이미 양자 컴퓨팅으로부터 제기되는 위협에 대비하고 양자 암호학을 사용하는 후양자 암호학 시스템으로 시스템을 이전하는 복잡한 과정을 여러 년이 걸릴 것입니다. 최근 기사에서 Meta 연구원들은 그들의 전략과 그 길을 따라왔던 중요한 교훈을 공유합니다.
+#양자컴퓨팅 #후양자암호학 #Meta
 
-Hashtags: #양자컴퓨팅, #암호학, #Meta
+#hashtags: #양자컴퓨팅, #후양자암호학, #Meta
 
 13 번째 검색 내용
-제목: 드롭박스 압축 재설계를 사용하여 언더필 저장 볼륨에서 공간을 회복합니다.
+제목: 드롭박스 압축 재설계를 사용하여 언더필 저장소 볼륨에서 공간을 회복합니다.
 주소: https://www.infoq.com/news/2026/04/dropbox-tiered-compaction/
-설명: Dropbox는 Magic Pocket, 사용자 파일을 대규모로 저장하기 위한 내부 불변 블랩 스토어의 개선 방법을 설명했습니다. 이를 통해 저장 효율성이 향상되었습니다. 이는 저장 공간에서 매우 부족한 볼륨을 재활용하기 위해 압축 전략을 다시 설계했습니다. 시스템은 이제 새로운 볼륨에 유효한 데이터를 정기적으로 재구성하고, 이를 사용하지 않는 오래된 볼륨을 삭제하고 다시 사용할 수 있습니다.
-#Dropbox #MagicPocket #저장효율성 #데이터관리
+설명: Dropbox는 Magic Pocket, 사용자 파일을 대규모로 저장하는 내부 불변 블랏 스토어의 개선 방법을 설명했습니다. 이를 통해 저장 효율성이 향상되었습니다. 이를 위해 공간을 재사용하기 위해 빈도 낮은 스토리지 볼륨에서 데이터를 재구성한 방식을 다시 설계했습니다. 시스템은 이제 새로운 볼륨에 유효한 데이터를 기간 동안 정기적으로 재구성하고, 이전의 부분적으로 사용된 볼륨을 지우고 다시 사용할 수 있습니다.
+#Dropbox #MagicPocket #스토리지효율화 #데이터관리
 
-Translated content: Dropbox recently explained how it improved storage efficiency in Magic Pocket, the company's internal immutable blob store for storing user files at scale, by redesigning compaction strategies to reclaim space from severely underfilled storage volumes. The system now periodically reorganizes valid data into new volumes, allowing old, partially used ones to be cleared and reused.
-#Dropbox #MagicPocket #저장효율성 #데이터관리
-
-Hashtags: #Dropbox, #MagicPocket, #저장효율성, #데이터관리
+Translated content hashtags: #Dropbox, #MagicPocket, #스토리지효율화, #데이터관리
 
 14 번째 검색 내용
-제목: 버셀 개발팀은 백그라운드 AI 코딩 워크플로우를 지원하기 위해 오픈 에이전트 출시
+제목: Vercel이 배경 AI 코딩 워크플로우를 지원하기 위해 오픈 에이전트 발표
 
-(Note: The translation may not be perfect as it is a direct translation from English to Korean. It would be better if the sentence was rephrased for natural flow in Korean.)
+(Note: The translation may not be perfect as it is a machine translation. Please review and make necessary adjustments if needed.)
 주소: https://www.infoq.com/news/2026/04/vercel-open-agents/
-설명: Vercel은 Open Agents를 시작하였습니다. 이것은 배경 코딩 에이전트의 생성과 실행을 가능하게 하는 오픈소스 앱입니다. 개발자들이 로컬 기계에 의존하지 않고 독립적인 코딩 워크플로우를 실행할 수 있는 완전한 스택을 제공합니다.
-#Vercel #OpenAgents #배경코딩에이전트 #독립적인코딩워크플로우
+설명: Vercel은 Open Agents를 오픈소스로 출시했습니다. 이것은 백그라운드 코딩 에이전트를 생성하고 실행할 수 있는 환경을 제공합니다. 개발자들은 로컬 기계에 의존하지 않고 독립적인 코딩 워크플로우를 실행할 수 있는 완전한 스택을 제공받습니다.
+#Vercel #OpenAgents #백그라운드코딩에이전트
 
-#hashtags: #Vercel, #OpenAgents, #배경코딩에이전트, #독립적인코딩워크플로우
+#hashtags: #Vercel, #OpenAgents, #백그라운드코딩에이전트
 
 15 번째 검색 내용
 제목: 넷플릭스는 전세계적인 실시간 운영을 관리하기 위해 "인간 인프라"를 확장합니다.
 주소: https://www.infoq.com/news/2026/04/netflix-live-human-ops-scale/
-설명: Netflix는 실시간 방송을 대규모로 관리하기 위해 "인간 인프라" 레이어를 도입했습니다. 낮은 지연 시 전달 경로와 Live Operations Center를 사용하여 회사는 자동 확장과 인간 감독을 균형 잡기 시작했습니다. 이 변화, AWS와 Disney+에서 사용하는 전략을 반영하며, 고성능 글로벌 이벤트 중에 신뢰성을 유지하기 위해 전문가의 개입을 유지합니다.
+설명: Netflix는 실시간 방송을 대규모로 관리하기 위해 "인간 인프라" 레이어를 소개했습니다. 낮은 지연 시 전달 경로와 Live Operations Center를 사용하여 회사는 자동 확장과 인간 관리를 균형을 이루고 있습니다. 이 변화, AWS와 Disney+에서 사용되는 전략을 반영하며, 고성능 글로벌 이벤트 중에 신뢰성을 유지하기 위해 전문가의 개입을 유지합니다.
 #인프라 #실시간 방송 #Netflix
 
 Hashtags: #인프라, #실시간 방송, #Netflix
