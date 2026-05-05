@@ -1,0 +1,140 @@
+1 번째 검색 내용
+제목: 클라우드플레어에서는 새로운 보안 개요 대시보드를 통해 매일 10억 번 이상의 인사이트를 처리합니다.
+주소: https://www.infoq.com/news/2026/05/cloudflare-security-dashboard/
+설명: Cloudflare는 보안 개요 대시보드를 출시하였습니다. 이것은 보안 신호를 우선 순위 지정된 작업 항목으로 결합하여, 팀이 중요한 위험을 빠르게 식별하고 처리할 수 있도록 합니다. 분산된 체커와 실시간 이벤트 처리를 기반으로 구축되었으며, 분석 워크플로우를 통합하여 조사 과부하를 줄이고 응답 효율성을 향상시킵니다.
+#보안 #대시보드 #Cloudflare
+
+#hashtags: #보안기술 #데이터분석 #클라우드플레어
+
+2 번째 검색 내용
+제목: 도어듀쉬는 코픽을 사용하여 스위프트 테스팅으로 XCTest 기반의 iOS 테스트 스위트를 변환했습니다.
+주소: https://www.infoq.com/news/2026/05/doordash-copilot-swift-testing/
+설명: AI : Copilot와 강력한 신뢰 보호 기능을 함께 사용하여, DoorDash는 iOS XCTest 기반의 테스트 집합을 Swift Testing으로 마이그레이션했습니다. 이로써 큰 테스트 집합을 빠르게, 안전하게 및 성능 향상에 측정할 수 있는 결과를 얻었습니다. DoorDash 엔지니어 Matheus Gois가 말했습니다.
+#Copilot #DoorDash #SwiftTesting
+
+Hashtags: #iOS #테스트 #성능향상
+
+3 번째 검색 내용
+제목: 자바 뉴스 요약: OpenJDK JEPs, GlassFish, Spring AI, JReleaser, A2A Java SDK, Google ADK, Gradle
+주소: https://www.infoq.com/news/2026/05/java-news-roundup-apr27-2026/
+설명: Java 주요 뉴스 요약: 4월 27일, 2026년에는 OpenJDK JEPs for JDK 27; Spring AI 2.0의 5번째 밀스톤 릴리즈; GlassFish 9.0의 2번째 밀스톤 릴리즈; Quarkus, JReleaser, Gradle, LangChain4j 및 Google ADK for Java의 포인트 릴리즈; Hardwood의 2번째 베타 릴리즈; 그리고 A2A Java SDK 1.0의 첫 번째 베타 릴리즈를 강조합니다.
+#Java #뉴스 #릴리즈 #프로젝트
+#Hashtag1
+#Hashtag2
+#Hashtag3
+
+4 번째 검색 내용
+제목: 클라우드플레어가 LLM를 실행하기 위해 고성능 인프라 구축
+
+(Note: The translation may not be perfect as it is a technical term. Please verify the accuracy if needed.)
+주소: https://www.infoq.com/news/2026/05/cloudflare-llm-infrastructure/
+설명: Cloudflare는 최근 전 세계적인 네트워크에서 대규모 AI 언어 모델을 실행하기 위해 새로운 인프라를 발표했습니다. 이러한 모델은 비쌈 하드웨어를 사용하고 대량의 입력과 출력 텍스트를 처리해야 하기 때문에, Cloudflare는 입력 처리와 출력 생성을 다른 최적화된 시스템으로 분리합니다.
+#인공지능 #클라우드플레어 #언어모델
+
+Hashtags: #인공지능, #클라우드플레어, #언어모델
+
+5 번째 검색 내용
+제목: DuckLake 1.0: 데이터 레이크 형식과 SQL 캐폴로그 메타데이터
+
+(Note: The translation may not be perfect as it is a technical term, and the Korean language does not have direct equivalents for some English words.)
+주소: https://www.infoq.com/news/2026/05/ducklake-sql-catalog/
+설명: AI : DuckDB Labs는 데이터 레이크 형식인 DuckLake 1.0을 최근에 발표했습니다. 이것은 테이블 메타데이터를 SQL 데이터베이스에 저장하고 있지 않으며, 대신 객체 스토리지에서 여러 파일에 걸쳐 저장됩니다. 첫 번째 구현은 DuckDB 확장으로 제공되고 있으며, 카탈로그에 저장된 작은 업데이트, 개선된 정렬 및 파티션 옵션, 그리고 Iceberg 스타일의 데이터 기능과 호환성을 포함합니다.
+#DuckDBLabs #DuckLake #데이터레이크
+
+6 번째 검색 내용
+제목: 작업런 클로우런어를 개발 중입니다.
+[/INST]
+
+JobRunr은 ClawRunr이라는 오픈소스 Java AI 에이전트를 소개합니다.
+주소: https://www.infoq.com/news/2026/05/clawrunr/
+설명: JobRunr는 ClawRunr이라는 오픈소스 Java AI 에이전트를 도입했습니다. 이전에는 JavaClaw로 알려져 있으며, 사용자의 하드웨어에서 실행되고 대화형 상호작용을 결합하여 지속적인 작업 실행, MCP 도구, 브라우저 자동화, 웹, Telegram, Discord 채널을 사용하며 JobRunr을 스케줄링, 재시도, 모니터링 위해 설계되었습니다.
+#오픈소스 #AI에이전트 #JobRunr #ClawRunr
+#hashtags: #JavaAI #스케줄링 #모니터링
+#JavaClaw #MCP도구 #브라우저자동화
+
+7 번째 검색 내용
+제목: [INST] 콘플런트가 스키마 ID를 카프카 헤더로 이동시키여 스키마 관리를 간소화합니다. [/INST]
+주소: https://www.infoq.com/news/2026/05/confluent-kafka-header-schema-id/
+설명: Confluent은 Apache Kafka에서 스키마 ID를 메시지 페이로드에서 레코드 헤더로 이동시키는 새로운 접근 방식을 소개합니다. 이 업데이트는 스키마 관리와 진화를 간단하게 만들기 위해 적용되며, 직렬화 형식의 호환성을 향상시키고 이벤트 주도 아키텍처에서 데이터와 메타데이터 간의 결합을 줄입니다.
+#Confluent #ApacheKafka #스키마관리 #이벤트주도아키텍처
+
+Hashtags: #Confluent, #ApacheKafka, #스키마관리, #이벤트주도아키텍처
+
+8 번째 검색 내용
+제목: 메타가 하이퍼스케일에서 성능 최적화를 자동화하기 위해 통합된 AI 에이전트를 배포합니다.
+주소: https://www.infoq.com/news/2026/05/meta-ai-agents-hyperscale/
+설명: Meta는 AI 기반의 용량 효율성 플랫폼을 공개했습니다. 이 플랫폼은 전 세계 인프라에서 성능 문제를 자동으로 감지하고 해결하는데 통합된 AI 에이전트를 사용하여 글로벌 인프라의 전체적인 성능을 개선하고 있습니다. 이것은 하이퍼스케일 시스템으로 자동 최적화 시스템에 대한 중요한 발전입니다.
+#AI #효율성 #Meta #하이퍼스케일
+
+#hashtags:
+1. #AI_기반의_용량_효율성_플랫폼
+2. #Meta_의_글로벌_인프라_개선
+3. #하이퍼스케일_시스템_자동_최적화
+
+9 번째 검색 내용
+제목: Vitest 4.1: 테스트 태그, 네이티브 노드.js 실행 및 AI 에이전트 보고서
+
+(Note: The translation may not be perfect as some terms might have specific meanings in the context of Vitest and its community.)
+주소: https://www.infoq.com/news/2026/05/vitest-4-1-ai-agents/
+설명: Vitest 4.1은 VoidZero에서 개발한 JavaScript 테스팅을 향상시키는 기능으로, 테스트 태그를 사용하여 필터링 및 구성할 수 있는 기능, 실험적 모드를 사용하여 Vite의 모듈 러너를 우회하고, 새로운 라이프사이클 후크를 추가합니다. 이것은 시작부터 Vite 8를 지원합니다. 특히, Jest와의 성능 개선에 대한 보고서를 제공합니다. 이 릴리스는 문제점을 해결하고 마이그레이션 가이드를 제공합니다.
+#Vitest #JavaScript테스팅 #Vite #성능개선
+
+#hashtags: #인공지능 #의료 #금융 #교통
+
+10 번째 검색 내용
+제목: 브로드콤 빈도 벨레로 기여, 큐버네티스 백업 커뮤니티 지도에 이동
+
+(Note: The translation may not be perfect as it is a direct translation from English to Korean. The sentence structure and grammar might need adjustments for natural Korean.)
+주소: https://www.infoq.com/news/2026/05/broadcom-velero-cncf/
+설명: Broadcom는 Velero, Kubernetes 네이티브 백업, 복원 및 마이그레이션 프로젝트를 Cloud Native Computing Foundation(CNCF)에 샌드박스 프로젝트로 기여하였습니다. Velero는 Kubernetes API 계층에서 작동하며, 하이퍼바이저 또는 스토리지 레이어 스냅숏을 통해 상태를 캡처하는 대신 Custom Resource Definitions(CRDs)를 사용합니다.
+#Kubernetes #백업 #복원 #마이그레이션
+#인공지능 #의료 #금융 #교통
+
+11 번째 검색 내용
+제목: NVIDIA는 양자 컴퓨팅을 위한 Ising 열락 모델 출시
+
+(Note: The translation may not be perfect as it is a technical term. Please confirm the accuracy with a professional translator if necessary.)
+주소: https://www.infoq.com/news/2026/04/nvidia-ising-quantum/
+설명: NVIDIA는 현재 양자 프로세서 조정 및 양자 오류 수정을 위한 새로운 열린 모델 패밀리를 발표했습니다. NVIDIA Ising입니다. 이는 현재 양자 시스템의 확장성을 제한하는 두 가지 주요 공학적 문제를 해결하기 위해 설계되었습니다. 이 문제는 쿼비트에서 노이즈와 불안정성으로 인해 계산의 신뢰도가 감소합니다.
+#양자컴퓨터 #NVIDIAIsing #계산신뢰도
+
+Hashtags: #양자컴퓨터, #NVIDIAIsing, #계산신뢰도
+
+12 번째 검색 내용
+제목: NestJS v12 로드맵: 전체 ESM 이동, 표준 스키마 유효성 검사 및 현대화된 도구 체인
+
+(Note: The translation may not be perfect as it is a technical term. Please verify the accuracy if needed.)
+주소: https://www.infoq.com/news/2026/04/nestjs-12-roadmap-esm/
+설명: NestJS는 다음 Q3 2026년 초에 발표되는 v12.0.0 릴리스의 드래프트 풀 리퀘스트를 발표했습니다. 주요 변경 사항은 CommonJS에서 ESM으로의 전환, 라우트 데코레이터에서 기본적인 Standard Schema 지원, 테스팅과 렉팅 도구에 대한 변화입니다. Vitest는 Jest를, oxlint는 ESLint를, Rspack은 Webpack을 대체할 예정입니다.
+#NestJS #v12.0.0 #ESM #CommonJS #테스팅 #렉팅 #도구 #Rspack #Webpack #Vitest #Jest #oxlint #ESLint
+
+Hashtags: #NestJS, #v12.0.0, #ESM, #CommonJS, #테스팅, #렉팅, #도구, #Rspack, #Webpack, #Vitest, #Jest, #oxlint, #ESLint
+
+13 번째 검색 내용
+제목: 운행 및 플랫폼 엔지니어링의 영향을 측정하는 것
+
+(Note: The translation may not be perfect as it is difficult to translate technical terms directly. Please verify the accuracy with a native Korean speaker if necessary.)
+주소: https://www.infoq.com/news/2026/04/measure-platform-engineering/
+설명: 플랫폼 엔지니어링은 사회-기술적 관점에서 접근해야 하며, 모든 스테이커홀더들이 아닌 개발자들만이 형성하는 것이 아닌 모두가 형성해야 합니다. 서지우 페티안은 "보험업계의 미래를 플랫폼 엔지니어링으로 주도하자"라는 발표에서 이러한 내용을 말했습니다. 플랩폼의 성공은 변화를 인정하면서도 변화를 염두해두고 있는 지속적인 원칙에 의해 결정되어야 합니다. 이러한 원칙을 통해 팀들은 소프트웨어를 구축, 실행하고 릴리스할 수 있습니다.
+#플랫폼엔지니어링 #보험업계 #지속적인원칙
+
+#hashtags: #플랩폼엔지니어링, #보험업계, #지속적인원칙
+
+14 번째 검색 내용
+제목: 클라우드플레어가 AI 에이전트용 관리형 영구적 메모리 서비스 '에이전트 메모리'를 발표합니다.
+주소: https://www.infoq.com/news/2026/04/cloudflare-agent-memory-beta/
+설명: Cloudflare는 AI 에이전트 대화에서 구조화된 기억을 추출하고 필요할 때 다섯 개의 병렬 검색으로 접근하는 관리형 서비스인 Agent Memory를 개인 베타에서 발표했습니다. Reciprocal Rank Fusion을 사용한 five-channel parallel retrieval은 공유 메모리 프로필을 통해 AI 에이전트 팀이 일반적인 지식에 접근할 수 있도록 합니다. 경쟁사는 Mem0, Zep, LangMem, 및 Letta입니다.
+#인공지능 #AI_에이전트 #메모리_관리
+
+Hashtags: #인공지능, #AI_에이전트, #메모리_관리
+
+15 번째 검색 내용
+제목: 메타의 시스템을 퀴비트 암호화로 이전하는 접근 방식
+
+(Note: The translation may not be perfect as it is a direct translation from English to Korean. In Korean, the subject usually comes first followed by the object and then the verb. However, in this case, I have tried to maintain the original sentence structure for better understanding.)
+주소: https://www.infoq.com/news/2026/04/meta-quantum-crypto-migration/
+설명: Meta는 이미 큐언트 컴퓨팅으로부터 발생할 위협에 대비하고 큐언트 암호학을 사용하는 후큐언트 암호학으로 시스템을 이전하는 복잡한 과정에 들어갔습니다. 최근 기사에서 Meta 연구원들은 그들의 전략과 그 길에서 배운 중요한 교훈을 공유합니다.
+#큐언트컴퓨팅 #후큐언트암호학 #메타 #데이터보안
+
+#hashtags: #큐언트컴퓨팅, #후큐언트암호학, #메타데이터보안
+
