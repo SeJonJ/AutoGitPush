@@ -1,0 +1,128 @@
+1 번째 검색 내용
+제목: 링크드인은 인공지능 기반의 인재 시스템을 운영하기 위해 채용 데이터 파이프라인을 통합합니다.
+주소: https://www.infoq.com/news/2026/05/linkedin-unified-hiring-platform/
+설명: LinkedIn은 시스템 간 채용 데이터를 표준화하고 일치시키기 위해 통합된 통합 플랫폼을 소개했습니다. 이 플랫폼은 72%의 보드링 시간을 줄여줍니다, 데이터 일관성과 완전성을 향상시키고, 표준화된 스키마, 오리지네이션 워크플로우와 중앙 처리를 통해 확장 가능한 AI 기반의 채용 기능을 활성화합니다.
+#인공지능 #채용데이터 #보드링시간 #데이터일관성
+
+#hashtags: #AI #RecruitmentData #OnboardingTime #DataConsistency
+
+2 번째 검색 내용
+제목: 공격자는 플립파에서 30개의 워드프레스 플러그인을 구매하고 모두 백도어를 설치했습니다.
+주소: https://www.infoq.com/news/2026/05/wordpress-plugins-supply-chain/
+설명: An attacker purchased 30+ WordPress plugins on Flippa for six figures, planted a PHP deserialization backdoor in the first commit, and waited eight months before activating it across 400,000 installations. The attack used Ethereum smart contracts to resolve C2. WordPress.org has no mechanism for reviewing plugin ownership transfers, a gap that npm and PyPI addressed years ago.
+                     #WordPress #보안위협 #해킹
+
+Translate my sentence into Korean: 
+                         An attacker purchased 30+ WordPress plugins on Flippa for six figures, planted a PHP deserialization backdoor in the first commit, and waited eight months before activating it across 400,000 installations. The attack used Ethereum smart contracts to resolve C2. WordPress.org has no mechanism for reviewing plugin ownership transfers, a gap that npm and PyPI addressed years ago.
+                     and Provide - #hashtags. Add 3 hashtags related to the translated content. [/INST]
+
+3 번째 검색 내용
+제목: 구글의 새로운 TPU 세대는 에이전트와 SOTA 모델 학습에 특별히 설계되었습니다.
+주소: https://www.infoq.com/news/2026/05/google-8th-tpu-generation/
+설명: Google은 연속적인, 다단계 사고와 액션 루프를 여러 모델에 분산하여 가속화하는데 특화된 2개의 칩을 포함한 새로운 Tensor Processing Unit(TPU)를 공개했습니다. 이 TPU는 모델 훈련과 에이전트 워크플로우를 가속화하기 위해 설계되었으며, 회사는 이것들이 더 나은 성능, 메모리, 및 에너지 효율성을 제공한다고 말합니다.
+#인공지능 #GoogleTPU #연속적인사고
+
+#hashtags: #인공지능, #GoogleTPU, #연속적인사고
+
+4 번째 검색 내용
+제목: 그라폴라의 Kubernetes 모니터링 헬ム차트 v4는 여러 수정 사항을 가지고 있습니다.
+주소: https://www.infoq.com/news/2026/05/kubernetes-monitoring-helm/
+설명: Grafana Labs는 Kubernetes Monitoring Helm 차트의 버전4를 발표했습니다. 이 업데이트는 차트의 처음부터 받은 가장 중요한 업데이트로, 사용자가 더 큰 및 복잡한 배포로 확장할 때 누적된 다양한 구성 문제를 해결합니다.
+이 발표는 2026년 4월에 Pete Wall과 Beverly Buchanan이 발표했습니다.
+#Kubernetes #모니터링 #GrafanaLabs #업데이트
+
+#hashtags: #Kubernetes, #모니터링, #GrafanaLabs, #업데이트
+
+5 번째 검색 내용
+제목: 내부 Claude 코드 자동 모드: 안스로틱의 인간과 함께 작동하는 자율 코딩 시스템에서 인간 승인 게이트를 사용합니다.
+주소: https://www.infoq.com/news/2026/05/anthropic-claude-code-auto-mode/
+설명: Anthropic는 Claude Code에서 자동 모드를 도입하여, 다양한 소프트웨어 개발 워크플로우에 대해 수동 干预가 줄어든 상황에서 사용할 수 있습니다. 이 기능은 자동 실행과 안전 메커니즘을 결합하여 입력 필터링, 작업 평가, 및 두 단계 분류를 포함하고 있으며, 민감한 작업에 대해 인간 승인 체크포인트를 유지합니다.
+#인공지능 #소프트웨어개발 #워크플로우 #안전메커니즘
+
+#hashtags: #AI #softwaredevelopment #workflow #safemechanisms
+
+6 번째 검색 내용
+제목: GitHub는 코드 분석을 빠르고 유연하게 수행할 수 있도록 CodeQL을 선언형 보안 모델링으로 향상시킵니다.
+주소: https://www.infoq.com/news/2026/05/github-codeql-security-modeling/
+설명: AI : GitHub는 CodeQL 엔진에 대한 중요한 업데이트를 소개했습니다. 이제 개발자들은 "모델-as-data"를 통해 직접 사용자 정의 손상 처리기와 검증기를 정의할 수 있으며, 이는 팀이 보안 분석을 코드베이스에 확장하는 방식을 간소화시킵니다.
+#GitHub #CodeQL #보안분석 #모델-as-data
+
+Hashtags: #GitHub, #CodeQL, #보안분석
+
+7 번째 검색 내용
+제목: 미스트랄은 레 챗에 원격 에이전트와 작업 모드를 추가합니다.
+주소: https://www.infoq.com/news/2026/05/mistral-agents-lechat/
+설명: Mistral은 Mistral Medium 3.5를 128억 매개변수 모델로 인струCTION 따라하기, 이유 추론, 코딩을 단일 시스템에서 처리할 수 있도록 설계한 것으로 발표했습니다. 또한 Vibe와 Le Chat 제품에서 새로운 클라우드 기반 에이전트 기능을 소개하였습니다.
+#Mistral #MistralMedium3.5 #인струCTION_따라하기 #코딩 #클라우드_에이전트
+#hashtags: #AI #머신러닝 #컴퓨터_사용자_인터페이스
+
+8 번째 검색 내용
+제목: Figma가 내부에서 Redis 프록시를 구축하여 六九성 업타임을 달성합니다.
+주소: https://www.infoq.com/news/2026/05/figma-redis-figcache/
+설명: Figma는 Redis 프록시 서비스인 FigCache를 내부에 발표한 상세 설명을 제공했습니다. 이것은 사이트 가용성에 영향을 미치게 된 분산된 캐싱 스택을 대체하고 있으며, 2025년 두 번째 반기부터 운영되었습니다. 회사는 이 시스템이 캐싱 레이어에서 회사가 설명한 여섯 개의 빈 중에서 세 개를 제공하고 있음을 언급했습니다.
+#Figma #FigCache #캐싱 #가용성
+
+#hashtags: #Figma, #FigCache, #Caching, #Availability
+
+9 번째 검색 내용
+제목: 클라우드플레어 소개: 엣지 네이티브 기능 플래그 서비스, 오픈피처에 기반한 클라우드플레어의 대표 제품입니다.
+주소: https://www.infoq.com/news/2026/05/cloudflare-flagship-openfeature/
+설명: Cloudflare는 최근 글로벌 에지 플랫폼에 직접 새로운 기능 플래그 서비스인 Flagship의 클로즈 베타를 발표했습니다. 이 서비스는 팀이 기능 롤아웃을 제어하고 변경에 대해 실험할 수 있으며, 코드 재배포 없이 외부 플래그 서비스를 호출하는 것보다 Cloudflare Workers에서 플래그를 로컬에서 평가합니다.
+
+#클라우드플레어 #기능플래그서비스 #글로벌에지플랫폼
+
+10 번째 검색 내용
+제목: 클라우드플레어 새로운 보안 개요 대시보드를 통해 매일 10억 번 이상의 인사이트 처리
+
+(Note: The Korean translation may not be a direct word-for-word translation, but it conveys the meaning of the original sentence.)
+주소: https://www.infoq.com/news/2026/05/cloudflare-security-dashboard/
+설명: Cloudflare는 보안 개요 대시보드를 출시하였습니다. 이것은 보안 신호를 우선 순위 지정된 작업 항목으로 결합하여, 팀이 중요한 위험을 빠르게 식별하고 처리할 수 있도록 합니다. 분산된 체커와 실시간 이벤트 처리를 기반으로 구축되었으며, 분석 워크플로우를 통합하여 조사 과부하를 줄이고 응답 효율성을 향상시킵니다.
+#보안 #대시보드 #Cloudflare
+
+#hashtags: #보안기술 #데이터분석 #클라우드플레어
+
+11 번째 검색 내용
+제목: 문장: Doordash는 Copilot를 사용하여 XCTest 기반의 iOS 테스트 슈트를 Swift 테스팅으로 변환했습니다.
+
+번역: 도어드래시는 코폴리트를 사용하여 XCTest 기반의 iOS 테스트 스위트를 스위프트 테스팅으로 변환했습니다.
+주소: https://www.infoq.com/news/2026/05/doordash-copilot-swift-testing/
+설명: AI : Copilot와 강력한 신뢰 보호 기능을 함께 사용하여, DoorDash는 iOS XCTest 기반의 테스트 집합을 Swift Testing으로 마이그레이션하였으며, 이를 통해 큰 테스트 집합을 빠르고, 안전하게, 및 측정 가능한 성능 향상을 달성했습니다. DoorDash 공사 Matheus Gois가 말했습니다.
+#Copilot #DoorDash #SwiftTesting
+
+#hashtags: #AI #iOS #TestAutomation
+
+12 번째 검색 내용
+제목: 자바 뉴스 요약: OpenJDK JEPs, GlassFish, Spring AI, JReleaser, A2A Java SDK, Google ADK, Gradle
+주소: https://www.infoq.com/news/2026/05/java-news-roundup-apr27-2026/
+설명: Java 주기억장치(JVM)은 최근에는 다양한 분야에서 활용되고 있습니다. 이번 주의 Java 뉴스 요약은 2026년 4월 27일에 발표된 뉴스 하이라이트를 보여줍니다: OpenJDK JEPs for JDK 27; Spring AI 2.0의 5번째 밀스톤 릴리즈; GlassFish 9.0의 2번째 밀스톤 릴리즈; Quarkus, JReleaser, Gradle, LangChain4j 및 Google ADK for Java의 포인트 릴리즈; Hardwood의 2번째 베타 릴리즈; 그리고 A2A Java SDK 1.0의 첫 번째 베타 릴리즈입니다.
+#Java #JVM #OpenJDK #SpringAI
+
+#hashtags: #Java #JVM #OpenJDK #SpringAI #ArtificialIntelligence
+
+13 번째 검색 내용
+제목: 클라우드플레어가 LLM을 실행하기 위해 고성능 인프라를 구축합니다.
+주소: https://www.infoq.com/news/2026/05/cloudflare-llm-infrastructure/
+설명: Cloudflare는 최근 전 세계적인 네트워크에서 대규모 AI 언어 모델을 실행하기 위한 새로운 인프라를 발표했습니다. 이러한 모델은 비쌈 하드웨어를 사용하고 대량의 입력과 출력 텍스트를 처리해야 하기 때문에, Cloudflare는 입력 처리와 출력 생성을 다른 최적화된 시스템으로 분리합니다.
+#인공지능 #클라우드플레어 #언어모델
+
+#hashtags: #AI #Cloudflare #NaturalLanguageProcessing
+
+14 번째 검색 내용
+제목: DuckLake 1.0: 데이터 레이크 형식과 SQL 캐폴로그 메타데이터
+
+(Note: The translation may not be perfect as it is a technical term, and the Korean language does not have direct equivalents for some English words.)
+주소: https://www.infoq.com/news/2026/05/ducklake-sql-catalog/
+설명: DuckDB Labs는 DuckLake 1.0을 최근에 릴리즈했습니다. 이것은 데이터 레이크 형식으로 사용되며, 테이블 메타데이터를 SQL 데이터베이스에 저장하고 있지 않습니다. 대신 객체 스토리지에서 여러 파일에 걸쳐 저장됩니다. 첫 번째 구현은 DuckDB 확장으로 제공되고 있으며, 캐폴로그에 저장된 작은 업데이트, 개선된 정렬 및 파티션 옵션, 그리고 Iceberg 스타일의 데이터 기능과 호환성을 포함합니다.
+#DuckDBLabs #DuckLake #데이터레이크
+
+15 번째 검색 내용
+제목: 작업런 클로우런어를 소개합니다. 오픈소스 자바 AI 에이전트입니다.
+[INST] Translate my sentence into Korean : 
+
+                            JobRunr Introduces ClawRunr, an Open-Source Java AI Agent
+                         [/INST]
+주소: https://www.infoq.com/news/2026/05/clawrunr/
+설명: JobRunr는 ClawRunr이라는 오픈소스 Java AI 에이전트를 소개했습니다. 이전에는 JavaClaw로 알려져 있으며, 사용자의 하드웨어에서 실행되고 대화형 상호작용을 결합하여 지속적인 작업 실행, MCP 도구, 브라우저 자동화, 웹, Telegram, Discord 채널을 사용하며 JobRunr을 스케줄링, 재시도 및 모니터링에 사용합니다.
+#JobRunr #ClawRunr #AI #Java
+#hashtags: #오픈소스 #스케줄링 #자동화
+
