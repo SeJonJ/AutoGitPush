@@ -1,0 +1,147 @@
+1 번째 검색 내용
+제목: GitHub는 현대적인 CI CD 시스템에서 에이전트릭 워크플로우를 어떻게 보호하고 있는가요?
+주소: https://www.infoq.com/news/2026/05/github-agentic-workflows/
+설명: AI : GitHub는 CI/CD 파이프라인에서 에이전트 워크플로우의 방어 깊이 보안 아키텍처를 자세히 설명했습니다. 이 디자인은 독립성, 제한된 실행 및 감사성을 중점으로 자동화된 AI 에이전트를 안전하게 통합하고 위험을 줄이는데 집중합니다. 이를 위해 샌드박스 환경, 제한된 권한 및 전체 실행 추적성을 사용합니다.
+#CI/CD #보안아키텍처 #에이전트워크플로우
+
+#hashtags: #보안 #에이전트 #AI
+
+[INST] Human : Can you please provide the translation in English? [/INST]
+
+2 번째 검색 내용
+제목: 클라우드플레어가 "아티팩트" 베타를 출시하며, AI 에이전트에 대한 Git과 같은 버전 제어 기능 소개
+
+(Note: The translation may not be perfect as it is a machine translation. Please review and make any necessary adjustments.)
+주소: https://www.infoq.com/news/2026/05/cloudflare-artifacts-ai-agents/
+설명: Cloudflare는 Artifacts라고 한 새로운 시스템을 Git 스타일의 버전 제어를 AI 에이전트에게 가져오기 위해 베타 릴리즈했습니다. 개발자들은 에이전트가 생성한 결과물을 추적, 관리하고 동시에 전통적인 코드와 같은 정교함을 갖추기 위해 사용할 수 있습니다.
+#인공지능 #버전제어 #Cloudflare
+
+Translated sentence: Cloudflare has announced the beta release of Artifacts, a new system designed to bring Git-style version control to AI agents, enabling developers to track, manage, and evolve agent-generated outputs with the same rigor as traditional code.
+#인공지능 #버전제어 #Cloud
+
+3 번째 검색 내용
+제목: OpenAI가 에이전트 워크플로우의 지연 시간을 줄이기 위해 웹소켓 기반의 실행 모드를 소개합니다.
+주소: https://www.infoq.com/news/2026/05/openai-websocket-responses-api/
+설명: OpenAI는 웹소켓 기반의 실행 모드를 소개하여 Responses API의 에이전트 워크플로우 성능을 향상시키고 코딩 에이전트와 실시간 AI 시스템에서 사용됩니다. 업데이트는 HTTP 요청-응답 사이클을 지속적인 연결로 대체하여 지연 시간을 40%까지 줄입니다. 이를 통해 생산성 규모의 AI 시스템에서 스트리밍, 도구 실행, 다단계 조직화가 향상됩니다.
+#인공지능 #웹소켓 #AI_시스템_최적화
+
+Hashtags: #인공지능, #웹소켓, #AI_시스템_최적화
+
+4 번째 검색 내용
+제목: [INST] 소프트웨어 디자인에 적용할 최고의 간단한 시스템을 선택하는 것이 현재 가장 좋은 방법입니다. [/INST]
+주소: https://www.infoq.com/news/2026/05/best-simple-system-design/
+설명: Choosing between building up technical debt and missing delivery deadlines is a false dichotomy, Daniel Terhorst-North argued in his talk Best Simple System for Now. Programmers love to generalize rather than solve the immediate problem at hand, which can make future changes difficult. Instead, we need to build the skills and instincts for keeping things simple.
+#인공지능 #의료 #금융 #교통
+
+Translated content: 
+Choosing between building up technical debt and missing delivery deadlines is a false dichotomy, Daniel Terhorst-North argued in his talk Best Simple System for Now. Programmers love to generalize rather than solve the immediate problem at hand, which can make future changes difficult. Instead, we need to build the skills and instincts for keeping things simple.
+#프로그래밍 #기술부채 #빌드 #시스템_설계
+
+Hashtags: 
+#프로그래밍 #기술부채 #빌드 #시스템_설계
+
+5 번째 검색 내용
+제목: 구글은 다음 '26에서 GKE 에이전트 샌드박스와 하퍼클러스터를 발표합니다. Kubernetes를 AI 에이전트로 위치시킵니다.
+주소: https://www.infoq.com/news/2026/05/gke-agent-sandbox-hypercluster/
+설명: Google은 Cloud Next '26에 GKE Agent Sandbox와 hypercluster을 발표했습니다. Agent Sandbox는 gVisor 커널 격리를 사용하여 300개의 sandbox당 초기화되고 실행되는 안전한 agent 코드를 1초에 300개의 sandbox로 구축되었으며, Kubernetes SIG Apps 서브프로젝트로 열려 있습니다. 현재 이것은 세 대 중 유일한 네이티브 에이전트 사산박스입니다. Hypercluster는 단일 컨트롤 플레인으로부터 10억 개의 칩을 관리합니다.
+#GKEAgentSandbox #hypercluster #GoogleCloudNext '26
+
+Hashtags: #GKEAgentSandbox, #hypercluster, #GoogleCloudNext'26
+
+6 번째 검색 내용
+제목: 주요 오픈소스 저자가 소프트웨어 공급망에서의 신뢰보다는 검증을 선호합니다.
+주소: https://www.infoq.com/news/2026/05/stenberg-curl-verification-trust/
+설명: In a blog post published in March 2026, Daniel Stenberg, creator and lead developer of curl, makes the case that the software industry's default position of trusting well-known components is no longer adequate. Stenberg argues that users and organizations should actively verify the software they consume, and he uses curl's own practices as a concrete example of how that can be done.
+#인공지능 #의료 #금융 #교통
+
+Translated content: 
+In a blog post published in March 2026, Daniel Stenberg, creator and lead developer of curl, makes the case that the software industry's default position of trusting well-known components is no longer adequate. Stenberg argues that users and organizations should actively verify the software they consume, and he uses curl's own practices as a concrete example of how that can be done.
+#소프트웨어 #신뢰성 #검증 #curl
+
+Hashtags: 
+#소프트웨어 #신뢰성 #검증 #curl
+
+7 번째 검색 내용
+제목: 링크드인 채용 데이터 파이프라인을 통합하여 AI 주도형 인재 시스템에 힘을 빌려 줍니다.
+주소: https://www.infoq.com/news/2026/05/linkedin-unified-hiring-platform/
+설명: LinkedIn은 시스템 간 채용 데이터를 표준화하고 일치시키기 위해 통합된 통합 플랫폼을 소개했습니다. 이 플랫폼은 72%의 보드링 시간을 줄여, 데이터의 일관성과 완전성을 향상시키고, 표준화된 스키마, 오리진레이션 워크플로우와 중앙 데이터 처리를 통해 확장 가능한 AI 기반의 채용 기능을 활성화합니다.
+#인공지능 #채용 #데이터통합
+
+#hashtags: #AI #Recruitment #DataIntegration
+
+8 번째 검색 내용
+제목: 공격자는 플리퍼에서 30개의 워드프레스 플러그인을 구매하고 모두 백도어를 설치했습니다.
+주소: https://www.infoq.com/news/2026/05/wordpress-plugins-supply-chain/
+설명: An attacker purchased 30+ WordPress plugins on Flippa for six figures, planted a PHP deserialization backdoor in the first commit, and waited eight months before activating it across 400,000 installations. The attack used Ethereum smart contracts to resolve C2. WordPress.org has no mechanism for reviewing plugin ownership transfers, a gap that npm and PyPI addressed years ago.
+                     #WordPress #보안위협 #해킹
+
+Translated content: 
+An attacker purchased 30+ WordPress plugins on Flippa for six figures, planted a PHP deserialization backdoor in the first commit, and waited eight months before activating it across 400,000 installations. The attack used Ethereum smart contracts to resolve C2. WordPress.org has no mechanism for reviewing plugin ownership transfers, a gap that npm and PyPI addressed years ago.
+                     #WordPress #보안위협 #해킹
+
+9 번째 검색 내용
+제목: 구글의 새로운 TPU 세대는 에이전트와 SOTA 모델 학습을 위해 특별히 설계되었습니다.
+주소: https://www.infoq.com/news/2026/05/google-8th-tpu-generation/
+설명: Google은 연속적인, 다단계 사고와 액션 루프를 여러 모델에 분산하여 가속화하는데 특화된 2개의 칩을 포함한 새로운 Tensor Processing Units(TPUs)를 공개했습니다. 이 TPUs는 모델 훈련 및 에이전트 워크플로우에 대한 가속화를 위해 설계되었으며, 회사는 이것들이 성능, 메모리, 에너지 효율성을 향상시키고 있다고 말합니다.
+#TPU #Google #AI #에너지효율성
+#hashtags: #TensorProcessingUnits, #GoogleAI, #EfficientComputing
+
+10 번째 검색 내용
+제목: 그라파나의 Kubernetes 모니터링 헬ム차트 v4는 여러 수정 사항을 가지고 있습니다.
+주소: https://www.infoq.com/news/2026/05/kubernetes-monitoring-helm/
+설명: Grafana Labs는 Kubernetes Monitoring Helm 차트의 버전4를 발표하였습니다. 이 업데이트는 차트의 처음부터 받은 가장 중요한 업데이트로, 2026년 4월에 Pete Wall과 Beverly Buchanan이 발표한 것입니다. 이 업데이트는 사용자가 더 큰 및 복잡한 배포로 확장함에 따른 많은 구성 문제를 해결합니다.
+#GrafanaLabs #KubernetesMonitoring #HelmChart #업데이트
+
+#hashtags: #GrafanaLabs, #KubernetesMonitoring, #HelmChart, #업데이트
+
+11 번째 검색 내용
+제목: 내부 Claude Code Auto 모드: 안스로봇의 자동 코딩 시스템에서 인간 승인 게이트를 사용합니다.
+주소: https://www.infoq.com/news/2026/05/anthropic-claude-code-auto-mode/
+설명: Anthropic은 Claude Code에서 자동 모드를 도입하여, 다양한 소프트웨어 개발 워크플로우에 대해 수동 干预량을 줄이고 있습니다. 이 기능은 자동 실행과 안전성 계층화 메커니즘, 입력 필터링, 작업 평가, 두 단계 분류 등을 포함하고 있으며, 민감한 작업에 대해 인간 승인 체크포인트를 유지합니다.
+#인공지능 #소프트웨어개발 #워크플로우 #안전성_계층화
+
+#hashtags:
+1. #AI_소프트웨어_개발
+2. #워크플로우_안전성_계층화
+3. #인간_승인_체크포인트
+
+12 번째 검색 내용
+제목: [INST] 코드 분석을 빠르고 유연하게 수행하기 위해 GitHub에서 CodeQL을 확장합니다. 선언형 보안 모델링으로 향상된 [/INST]
+
+GitHub은 CodeQL을 선언형 보안 모델링을 사용하여 더 빠르고 유연한 분석을 위해 확장합니다.
+주소: https://www.infoq.com/news/2026/05/github-codeql-security-modeling/
+설명: AI : GitHub는 CodeQL 엔진에 대한 중요한 업데이트를 소개했습니다. 이제 개발자들은 "모델-as-data"를 통해 직접 사용자 정의 손상 처리기와 검증기를 정의할 수 있으며, 이는 팀이 보안 분석을 코드베이스에 확장하는 방식을 간소화시키고 있습니다.
+#GitHub #CodeQL #보안분석 #모델-as-data
+
+Hashtags: #GitHub, #CodeQL, #보안분석
+
+13 번째 검색 내용
+제목: 미스트랄은 레 챗에 원격 에이전트와 작업 모드를 추가합니다.
+주소: https://www.infoq.com/news/2026/05/mistral-agents-lechat/
+설명: Mistral은 Mistral Medium 3.5를 128억 매개변수 모델로 인струCTION 따라하기, 이유 추론, 코딩을 단일 시스템에서 처리할 수 있도록 설계한 것으로 발표했습니다. 또한 Vibe와 Le Chat 제품에서 새로운 클라우드 기반 에이전트 기능을 소개하였습니다.
+#Mistral #MistralMedium3.5 #인струCTION_따라하기 #코딩 #클라우드_에이전트_기능
+
+Translated content: Mistral has released Mistral Medium 3.5, a 128-billion parameter model designed to handle instruction following, reasoning, and coding within a single system, and introduced new cloud-based agent capabilities in its Vibe and Le Chat products.
+#Mistral #MistralMedium3.5 #인струCTION_따라하기 #코딩 #클라우드_에이전트_기능
+
+14 번째 검색 내용
+제목: Figma는 6자리 중요도를 달성하기 위해 내부에 Redis 프록시를 구축합니다.
+주소: https://www.infoq.com/news/2026/05/figma-redis-figcache/
+설명: Figma는 Redis 프록시 서비스를 내부에서 FigCache라고 하는 것으로 분산된 캐싱 스택을 대체하여 사이트 가용성의 부담이 되었던 것으로 변경했습니다. 이 시스템은 2025년 두 번째 반기부터 운영되어 캐싱 레이어에서 회사가 설명한 六개의 빈자리(six nines)의 가용성을 제공했습니다.
+#Figma #Redis #캐싱 #가용성
+
+Hashtags: #Figma #Redis #캐싱 #가용성
+
+15 번째 검색 내용
+제목: 클라우드플레어 소개: 엣지 네이티브 기능 플래그 서비스, 오픈피처에 기반한 새로운 제품
+
+[INST] Translate my sentence into Korean : 
+                            Cloudflare Introduces Flagship: an Edge-Native Feature Flag Service Built on OpenFeature
+                         [/INST]
+주소: https://www.infoq.com/news/2026/05/cloudflare-flagship-openfeature/
+설명: Cloudflare는 최근 글로벌 에지 플랫폼에 직접 새로운 기능 플래그 서비스인 Flagship의 닫힌 베타를 발표했습니다. 이 서비스는 팀이 기능 롤아웃을 제어하고 변경에 대해 실험할 수 있으며, 코드 재배포 없이 외부 플래그 서비스를 호출하는 것보다 Cloudflare Workers에서 플래그를 로컬에서 평가합니다.
+#Cloudflare #Flagship #기능플래그서비스 #글로벌에지플랫폼
+
+Translated content: Cloudflare recently announced the closed beta of Flagship, a new feature flag service built directly into its global edge platform. The service lets teams control feature rollouts and experiment with changes without redeploying code, while evaluating flags locally in Cloudflare Workers rather than calling external flag services.
+#Cloudflare #Flagship #기능플래그서비스 #글로벌에지플랫폼
+
