@@ -1,127 +1,137 @@
 1 번째 검색 내용
+제목: 복사 실패와 더러운 프래그먼트: 리눅스 페이지 캐시 취약점을 모든 주요 배포에 대상으로 합니다.
+주소: https://www.infoq.com/news/2026/05/copy-fail-dirty-frag-linux/
+설명: Two recent Linux kernel vulnerabilities have been disclosed: Copy Fail (CVE-2026-31431) on April 29, 2026, and Dirty Frag (CVE-2026-43284 and CVE-2026-43500) on May 7, 2026. Both allow local users to gain root access, affecting multiple Linux distributions. These vulnerabilities exploit flaws in the page cache via different subsystems, necessitating immediate patching by affected organizations.
+#Linux #KernelVulnerability #CyberSecurity
+
+Translated content: 두 가지 최근 Linux 커널 취약점이 공개되었습니다: Copy Fail (CVE-2026-31431)은 4월 29일, 2026년에 발표되고, Dirty Frag (CVE-2026-43284와 CVE-2026-43500)은 5월 7일, 2026년에 발표되었습니다. 이러한 취약점은 로컬 사용자가 root 액세스를 획득할 수 있도록 하며, 여러 Linux 배포판에 영향을 미칩니다. 이러한 취약점은 페이지 캐시의 결함을 통해 다양한 서브시스템을 통해 활용되었으며, 영향을 받는 기관들에게 즉시 패치를 적용하도록 요구됩니다.
+#Linux #커널취약점 #사이버보안
+
+Hashtags: #Linux #커널취약점 #사이버보안
+
+2 번째 검색 내용
 제목: 캔지에, 새로운 오픈소스 컴파일 언어로서 네이티브 효과 처리기와 알지리믹 데이터 형식을 지원하는 것입니다.
 주소: https://www.infoq.com/news/2026/05/cangjie-effect-handlers-adt/
 설명: Prof. Dan Ghica, who leads the Programming Languages Lab at Huawei’s Edinburgh Research Centre, recently presented Cangjie (CJ), a new application development language that features algebraic data types and effect handlers. The open-sourced language is positioned as a counterpart to Java, Kotlin, or Swift. Cangjie is taught by 80+ universities in China.
 #인공지능 #프로그래밍언어 #중국
 
-Translated content hashtags: #인공지능, #프로그래밍언어, #중국
-
-2 번째 검색 내용
-제목: 코더 에이전트는 자체 호스팅 인프라에서 AI 코딩 워크플로우를 실행할 수 있게 합니다.
-주소: https://www.infoq.com/news/2026/05/coder-agents-self-hosted-ai/
-설명: Coder Agents는 모델에 관계없이 기업이 클라우드 기반 서비스를 사용하지 않고 자체 인프라에서 AI 코딩 에이전트를 실행할 수 있도록 설계된 플랫폼입니다. 이로써 팀은 코드, 데이터 및 실행 환경을 완전히 제어할 수 있습니다.
-#모델에_관계없음 #자체_인프라 #완전히_제어
-
-Translated content hashtags: #AI #CoderAgents #ModelAgnostic
+Translated content: Prof. Dan Ghica, who leads the Programming Languages Lab at Huawei’s Edinburgh Research Centre, recently presented Cangjie (CJ), a new application development language that features algebraic data types and effect handlers. The open-sourced language is positioned as a counterpart to Java, Kotlin, or Swift. Cangjie is taught by 80+ universities in China.
+#인공지능 #프로그래밍언어 #중국
 
 3 번째 검색 내용
-제목: 네틸즈 서비스는 인터벌 인식 캐시를 사용하여 Apache Druid에서 84%의 쿼리 결과를 캐시에서 제공합니다.
+제목: 코더 에이전트는 자체 호스팅 인프라에서 AI 코딩 워크플로우를 실행할 수 있게 합니다.
+주소: https://www.infoq.com/news/2026/05/coder-agents-self-hosted-ai/
+설명: Coder Agents는 모델에 관계없이 기업이 클라우드 기반 서비스를 의존하지 않고 자체 인프라에서 AI 코딩 에이전트를 실행할 수 있도록 설계된 플랫폼입니다. 이로써 팀은 코드, 데이터 및 실행 환경을 완전히 제어할 수 있습니다.
+#모델에 관계없음 #자체 인프라 #완전히 제어
+
+#hashtags: #AI #코딩에이전트 #클라우드컴퓨팅
+
+4 번째 검색 내용
+제목: 네틸즈(Netflix)는 인터벌 인식 캐시를 사용하여 Apache Druid에서 84%의 쿼리 결과를 캐시에서 제공합니다.
 주소: https://www.infoq.com/news/2026/05/netflix-druid-interval-cache/
-설명: Netflix는 Apache Druid의 성능을 interval aware caching으로 개선합니다. 이를 통해 84%의 분석 결과가 캐시에서 제공되고, 쿼리 부하가 33% 감소합니다. 시스템은 롤링 윈도우 쿼리를 재사용 가능한 시간 단위로 분해하여, 최근 데이터에 대한만 재계산을 허용하며, 규모에서는 스캔 볼륨을 줄이고 P90 지연 시간을 개선하며, 실시간 분석 워크로드를 최적화합니다.
+설명: Netflix는 Apache Druid의 성능을 interval aware caching으로 개선합니다. 이를 통해 84%의 분석 결과가 캐시에서 제공되고, 쿼리 부하가 33% 감소합니다. 시스템은 롤링 윈도우 쿼리를 재사용 가능한 시간 단위로 분해하여, 최근 데이터에 대한만 재계산을 허용하며, 규모에서는 스캔 볼륨을 줄이고 P90 지연 시간을 개선하며, 실시간 분석 작업 로드를 최적화합니다.
 #인공지능 #데이터분석 #스케일링 #Netflix
 
 Hashtags: #인공지능, #데이터분석, #스케일링, #Netflix
 
-4 번째 검색 내용
+5 번째 검색 내용
 제목: 새로운 DORA 보고서에 따르면, 강력한 공학 기반이 AI 투자 수익률을 주도합니다.
 주소: https://www.infoq.com/news/2026/05/dora-roi-ai-assisted-dev-report/
-설명: Google Cloud의 DORA팀은 AI를 소프트웨어 개발에서 ROI를 평가하는 데 사용되는 프레임워크를 포함한 보고서를 출시했습니다. 성공적인 AI 구현은 기업 시스템이라는 것을 강조합니다. 보고서는 J-Curve 모델을 가치 실현에 대한 소개로 진행됩니다. 또한, 장기적 이익을 달성하기 위해 인력 유지와 프로세스 재설계의 중요성도 논의합니다.
+설명: Google Cloud의 DORA팀은 AI를 소프트웨어 개발에서 ROI를 평가하는 데 사용되는 프레임워크를 포함한 보고서를 발표했습니다. 성공적인 AI 구현은 기업 시스템이라는 것을 강조합니다 rather than just tools. The report introduces a J-Curve model for value realization. It also discusses the importance of workforce retention and process redesign for achieving long-term gains.
 #인공지능 #소프트웨어개발 #ROI평가 #기업시스템
 
-#hashtags: #AIinSoftwareDevelopment #OrganizationalSystems #LongTermGains
-
-5 번째 검색 내용
-제목: 넷플릭스가 '모델 라이프사이클 그래프'를 도입하여 기업용 머신러닝을 확장합니다.
-주소: https://www.infoq.com/news/2026/05/netflix-ml-graph/
-설명: Netflix는 머신러닝 시스템을 관리하기 위한 그래프 기반 아키텍처를 개발했습니다, 이것을 Model Lifecycle Graph라고 합니다. 이 시스템은 데이터셋, 모델, 특성, 워크플로우 간의 연결관계를 매핑하며, ML 작업 확장에 대한 문제를 해결합니다. 이것은 발견성, 지도력과 구성 재사용을 향상시키고 엔지니어와 데이터 사이언티스트가 자원 서비스 접근 방식을 지원합니다.
-#머신러닝 #모델라이프사이클그래프 #확장성 #발견성
-
-Hashtags: #머신러닝 #모델라이프사이클그래프 #확장성 #발견성
+#hashtags: #AIinSoftwareDevelopment, #LongTermGains, #OrganizationalSystems
 
 6 번째 검색 내용
-제목: 자바 뉴스 요약: 그라알VM, 스프링 AI, 잡런R, 글래시프, 그라일스, 그루비, 큐어크스 에이전트 MCP
-주소: https://www.infoq.com/news/2026/05/java-news-roundup-may04-2026/
-설명: Java 주요 뉴스 요약: 2026년 5월 4일, OpenJDK JEPs를 위한 JDK 27의 대상; Spring AI 2.0의 6번째 amilestone 릴리즈; Grails 8.0의 첫 밀스톤 릴리즈; Groovy 6.0의 첫 밀스톤 릴리즈; JobRunr에서 포인트 릴리즈; GlassFish, TomEE와 Tomcat의 유지보수 릴리즈; GraalVM에 대한 가속화된 릴리즈 트레인; 새로운 Quarkus Agent MCP server.
-#Java #JDK27 #SpringAI #Grails8.0 #Groovy6.0 #JobRunr #GlassFish #TomEE #Tomcat #GraalVM #QuarkusAgentMCP
+제목: 넷플릭스가 '모델 라이프사이클 그래프'를 도입하여 기업용 머신러닝을 확장합니다.
+주소: https://www.infoq.com/news/2026/05/netflix-ml-graph/
+설명: Netflix는 머신러닝 시스템을 관리하기 위한 그래프 기반 아키텍처를 개발했습니다, 이것을 Model Lifecycle Graph라고 합니다. 이 시스템은 데이터셋, 모델, 특성, 워크플로우 간의 연결관계를 매핑하며, ML 작업 확장에 대한 문제를 해결합니다. 이것은 발견성, 지도력과 구성 재사용을 향상시키고 엔지니어와 데이터 사이언티스트에게 자체 서비스 접근 방식을 지원합니다.
+#머신러닝 #모델라이프사이클그래프 #데이터 관리 #확장성
+
+#hashtags: #머신러닝 #모델라이프사이클그래프 #데이터 관리 #확장성
 
 7 번째 검색 내용
-제목: MySQL 9.7: 첫 번째 주요 LTS 버전으로 8.4 이후에 엔터프라이즈 기능을 커뮤니티 에디션에 추가합니다.
-주소: https://www.infoq.com/news/2026/05/mysql-97-lts/
-설명: Oracle는 MySQL 9.7.0의 일반 사용 가능성을 발표했습니다. 이는 MySQL 8.4 이후에 처음으로 주요 릴리스인 것으로, 새로운 9.7 LTS 릴리스 시리즈의 시작을 표시합니다. 이 릴리스는 MySQL 개발 활동의 감소와 Oracle가 프로젝트에 대한 장기적인 약속에 대한 커뮤니티 걱정에 발표되었습니다.
-#MySQL #Oracle #릴리스 #개발 #장기적_약속
-
-#hashtags: #MySQL, #Oracle, #릴리스, #개발, #장기적_약속
+제목: 자바 뉴스 요약: 그라알VM, 스프링 AI, 잡런R, 글래시프, 그라일스, 그루비, 큐어크스 에이전트 MCP
+주소: https://www.infoq.com/news/2026/05/java-news-roundup-may04-2026/
+설명: Java 주요 뉴스: 2026년 5월 4일 이번 주의 Java 뉴스는 OpenJDK JEPs를 위한 JDK 27 대상; Spring AI 2.0의 6번째 amilestone 릴리즈; Grails 8.0의 첫 밀스톤 릴리즈; Groovy 6.0의 첫 밀스톤 릴리즈; JobRunr에서 포인트 릴리즈; GlassFish, TomEE와 Tomcat의 유지보수 릴리즈; GraalVM에 대한 가속화된 릴리즈 트레인; 그리고 Quarkus Agent MCP 서버의 새로운 릴리즈입니다.
+#Java #JDK27 #SpringAI #Grails8.0
+#Groovy6.0 #JobRunr #GlassFish #TomEE #Tomcat #GraalVM #QuarkusAgentMCPServer
 
 8 번째 검색 내용
-제목: Fonttrio 개발 시작: 오픈소스 폰트 쌍 레지스터를 위한 shadcn/ui
+제목: MySQL 9.7: 첫 번째 주요 LTS 버전으로 8.4 이후에 엔터프라이즈 기능을 커뮤니티 에디션에 추가합니다.
+주소: https://www.infoq.com/news/2026/05/mysql-97-lts/
+설명: Oracle는 MySQL 9.7.0의 일반 사용 가능성을 발표했습니다. 이는 MySQL 8.4 이후에 처음으로 주요 릴리스인 것으로, 새로운 9.7 LTS 릴리스 시리즈의 시작을 표시합니다. 이 릴리스는 MySQL 개발 활동이 감소하고 Oracle가 프로젝트에 대한 장기적인 커밋먼트에 대한 커뮤니티의 걱정에 도착했습니다.
+#MySQL #Oracle #LTS #릴리스
 
-[INST] Fonttrio의 개발이 시작되었습니다. 이것은 오픈소스 폰트 쌍을 관리하는 레지스터입니다. 이 프로젝트는 shadcn/ui에 사용되기 위해 개발됩니다. [/INST]
-주소: https://www.infoq.com/news/2026/05/fonttrio-shadcn-fonts/
-설명: Fonttrio는 셰드콘/UI 프로젝트에 특화된 열린 소스 폰트 조합 레지스터입니다. 49개의 선택한 폰트 조합이 있으며, 단일 명령으로 설치할 수 있습니다. Dima Kapish에 의해 개발되었으며, 웹 애플리케이션의 폰트 선택과 구성을 간소화합니다. 도구는 셰드콘 CLI와  seamlessly 통합됩니다. CSS 변수와 타입로그라피 스케일을 자동으로 생성합니다.
-#Fonttrio #셰드콘 #폰트선택 #타입로그라피
-
-#hashtags: #FontPairingRegistry #OpenSource #WebApplicationDesign
+#hashtags: #MySQL, #Oracle, #LTS, #릴리스
 
 9 번째 검색 내용
-제목: 클라우드플레어가 동적 워크플로우를 배송함으로써, 테넌트와 에이전트 코드에 지속적인 실행을 제공합니다.
-주소: https://www.infoq.com/news/2026/05/cloudflare-dynamic-workflows/
-설명: Cloudflare는 Dynamic Workflows, 지속적인 실행 엔진을 확장하여 테넌트, 에이전트, 또는 요청 당 런타임 시 워크플로우 코드가 다르게 만들 수 있는 MIT 라이선스를 갖춘 라이브러리를 발표했습니다. Dynamic Workers에 기반한 라이브러리는 플랫폼이 근접하게 비용 없는 상태로 수백만 개의 고유한 지속적인 워크플로우를 서비스할 수 있습니다. CI/CD와 에이전트 실행이 주요 사용 사례입니다.
-#Cloudflare #DynamicWorkflows #지속적인워크플로우 #CI/CD
+제목: Fonttrio 개발 시작: 오픈소스 폰트 쌍 레지스터를 위한 shadcn/ui
 
-#hashtags: #클라우드플레어 #동적워크플로우 #지속적인_워크플로우 #CI/CD
+[INST] Fonttrio 개발 시작을 한국어로 번역합니다. : [/INST]
 
-#hashtags: #클라우드플레이어 #동적워크플로우 #지속적인_워크플로우 #CI/CD
+Fonttrio 개발 진행: 오픈소스 폰트 쌍 레지스터를 위한 shadcn/ui
+주소: https://www.infoq.com/news/2026/05/fonttrio-shadcn-fonts/
+설명: Fonttrio는 shadcn/ui 프로젝트에 대한 열려 있는 소스 폰트 조합 레지스트리입니다. 49개의 선택적 폰트 조합이 있으며, 단일 명령으로 설치할 수 있습니다. Dima Kapish에 의해 개발되었으며, 웹 애플리케이션의 폰트 선택과 구성을 간소화합니다. 도구는 shadcn CLI와  seamlessly 통합됩니다., CSS 변수와 타입 그래프 스케일을 자동으로 생성합니다.
+#shadcn #Fonttrio #폰트선택 #웹애플리케이션
+
+#hashtags: #shadcn, #Fonttrio, #fontselection
 
 10 번째 검색 내용
-제목: AWS 오라클 서버리스를 개선합니다: 45% 빠르게 시작, 30% 더 높은 처리량
+제목: 클라우드플레어가 동적 워크플로우를 배송하며, 테넌트와 에이전트 코드에 지속적인 실행을 제공합니다.
+주소: https://www.infoq.com/news/2026/05/cloudflare-dynamic-workflows/
+설명: Cloudflare는 Dynamic Workflows, 지속적인 실행 엔진을 확장하여 테넌트, 에이전트, 또는 요청에 따라 실행 중에 작업 코드가 다르도록 MIT 라이선스로 제공되는 라이브러리를 빌드했습니다. Dynamic Workers에 기반한 라이브러리는 플랫폼이 근사적으로 0 대기 비용으로 백만 개의 고유한 지속적인 작업 워크플로를 서비스할 수 있습니다. CI/CD와 에이전트 계획 실행이 주요 사용 사례입니다.
+#클라우드플레어 #동적작업 #지속적인작업워크플로 #CI/CD
 
-[INST] AWS 오라클 서버리스를 개선하여 45% 빠르게 시작하고 30% 더 많은 처리량을 얻습니다. [/INST]
-주소: https://www.infoq.com/news/2026/05/aurora-serverless-v4/
-설명: AWS는 최근에 WorkMail이 중단되고 있다고 발표했으며, App Runner도 새로운 고객을 받지 않고 유지보수 모드로 이동할 예정입니다. 여러 개인 서비스와 기능도 유지보수 또는 절단 단계에 진입하여, AWS 커뮤니티 내에서 걱정과 토론을 유발했습니다.
-#AWS #WorkMail #AppRunner #유지보수 #절단 단계
-
-Hashtags: #AWS, #WorkMail, #AppRunner
+Hashtags: #클라우드플레
 
 11 번째 검색 내용
+제목: AWS 오라클 서버리스 개선: 시작 업 45% 빠르고, 트루퓨츠 30% 높음.
+주소: https://www.infoq.com/news/2026/05/aurora-serverless-v4/
+설명: AWS는 최근에 WorkMail이 중단되고 있다고 발표했으며, App Runner도 새로운 고객을 받지 않고 유지보수 모드로 전환될 예정입니다. 여러 다른 인기가 낮은 서비스와 기능이 유지보수 또는 절명 단계에 진입하고 있어, AWS 커뮤니티 내에서 걱정과 토론을 유발했습니다.
+#AWS #WorkMail #AppRunner
+
+#hashtags: #AWS #WorkMail #AppRunner
+
+12 번째 검색 내용
 제목: GitHub는 현대적인 CI CD 시스템에서 에이전트릭 워크플로우를 어떻게 보호하고 있는가요?
 주소: https://www.infoq.com/news/2026/05/github-agentic-workflows/
-설명: AI : GitHub는 CI/CD 파이프라인에서 에이전트 워크플로우의 방어 깊이 보안 아키텍처를 자세히 설명했습니다. 이 디자인은 독립성, 제한된 실행 및 감사성을 중점으로 자동화된 AI 에이전트를 안전하게 통합하고, 잠재적인 공격 방지, 권한 상승 및 의도하지 않은 행동과 같은 위험을 완화하는데 사용됩니다. 이를 위해 샌드박스 환경, 제한된 권한 및 전체 실행 추적성을 사용합니다.
+설명: AI : GitHub는 CI/CD 파이프라인에서 에이전트 워크플로우의 방어 깊이 보안 아키텍처를 자세히 설명했습니다. 이 디자인은 독립성, 제한된 실행 및 감사성을 중점으로 자동화된 AI 에이전트를 안전하게 통합하고, 잠재적인 공격 방지, 권한 상승 및 의도하지 않은 작업과 같은 위험을 완화하는데 사용됩니다. 이를 위해 샌드박스 환경, 제한된 권한 및 전체 실행 추적성을 사용합니다.
 #CI/CD #보안 #에이전트워크플로우
 
 Hashtags: #CI/CD, #보안, #에이전트워크플로우
 
-12 번째 검색 내용
-제목: 클라우드플레어가 "아티팩트" 베타 출시, AI 에이전트에 대한 Git 같은 버전 제어 도입
-
-(Note: The translation may not be perfect as it involves technical terms and specific names. Please review the translation for accuracy.)
-주소: https://www.infoq.com/news/2026/05/cloudflare-artifacts-ai-agents/
-설명: Cloudflare는 Artifacts라고 하는 새로운 시스템을 개발자가 AI 에이전트에서 생성된 결과를 같은 수준의 정교함으로 추적, 관리 및 진화시키는데 광역 버전 제어와 같은 기능을 가지도록 설계한 것을 베타 릴리스하였습니다.
-#인공지능 #AI_에이전트 #버전_제어
-
-[INST] Human : Translate my sentence into Korean: Cloudflare has announced the beta release of Artifacts, a new system designed to bring Git-style version control to AI agents, enabling developers to track, manage, and evolve agent-generated outputs with the same rigor as traditional code. and Provide - #hashtags. Add 3 hashtags related to the translated content. [/INST]
-
 13 번째 검색 내용
-제목: OpenAI가 에이전트 워크플로우의 지연 시간을 줄이기 위해 웹소켓 기반의 실행 모드를 소개합니다.
-주소: https://www.infoq.com/news/2026/05/openai-websocket-responses-api/
-설명: OpenAI는 웹소켓 기반의 실행 모드를 소개하여 Responses API의 에이전트 워크플로우 성능을 향상시키고 코딩 에이전트와 실시간 AI 시스템에서 사용됩니다. 업데이트는 HTTP 요청-응답 사이클을 지속 연결로 대체하여 지연 시간을 40%까지 줄입니다. 이를 통해 프로덕션 규모의 AI 시스템에서 스트리밍, 도구 실행, 다단계 오케스트레이션을 향상시킵니다.
-#인공지능 #OpenAI #ResponsesAPI
+제목: 클라우드플레어가 "아티팩트" 베타를 출시하며, AI 에이전트에 대한 Git과 같은 버전 관리 도입
 
-Hashtags: #인공지능 #OpenAI #ResponsesAPI
+(Note: The translation may not be perfect as it is a machine translation. Please review and make any necessary adjustments.)
+주소: https://www.infoq.com/news/2026/05/cloudflare-artifacts-ai-agents/
+설명: Cloudflare는 Artifacts를 이름으로 새로운 시스템을 개발하여 AI 에이전트에게 Git 스타일의 버전 제어를 가져오고, 개발자들이 에이전트에서 생성된 출력을 추적, 관리하고 진화시키는데 동일한 엄격함을 제공할 수 있도록 설계했습니다.
+#인공지능 #버전제어 #Cloudflare
+
+Translated sentence: Cloudflare has announced the beta release of Artifacts, a new system designed to bring Git-style version control to AI agents, enabling developers to track, manage, and evolve agent-generated outputs with the same rigor as traditional code.
+#인공지능 #버전제어 #Cloud
 
 14 번째 검색 내용
+제목: OpenAI가 에이전트 워크플로우의 지연 시간을 줄이기 위해 웹소켓 기반의 실행 모드를 소개합니다.
+주소: https://www.infoq.com/news/2026/05/openai-websocket-responses-api/
+설명: AI : OpenAI는 웹소켓 기반의 실행 모드를 소개하여 코딩 에이전트와 실시간 AI 시스템의 작업 흐름 성능을 향상시키고 있습니다. 이 업데이트는 HTTP 요청-응답 사이클을 지속적인 연결로 대체하여 지연 시간을 최소화하며, 생산성 규모의 AI 시스템에서 스트리밍, 도구 실행, 다단계 조직화를 개선합니다.
+#웹소켓 #코딩에이전트 #실시간AI시스템 #생산성규모의AI시스템
+
+Hashtags: #웹소켓 #코딩에이전트 #실시간AI시스템 #생산성규모의AI시스템
+
+15 번째 검색 내용
 제목: [INST] 소프트웨어 디자인에 적용할 최고의 간단한 시스템을 선택하는 것이 현재 가장 좋은 방법입니다. [/INST]
 주소: https://www.infoq.com/news/2026/05/best-simple-system-design/
 설명: Choosing between building up technical debt and missing delivery deadlines is a false dichotomy, Daniel Terhorst-North argued in his talk Best Simple System for Now. Programmers love to generalize rather than solve the immediate problem at hand, which can make future changes difficult. Instead, we need to build the skills and instincts for keeping things simple.
                      #인공지능 #의료 #금융 #교통
 
-Translated sentence: 기술 부채와 배송 데드라인을 놓치는 것 사이에서 선택하는 것은 거짓 둘레입니다, Daniel Terhorst-North은 그의 발표 Best Simple System for Now에서 주장했습니다. 프로그래머들은 즉시 해결해야 하는 문제를 일반화하는 것을 좋아합니다, 이로 인해 미래의 변경에 어려움이 발생할 수 있습니다. 대신 것들을 간단하게 유지하기 위해 필요한 스킬과 감각을 구축해야 합니다.
-                     #인공지능 #의료 #금융 #교통
+Translated content: 
+Choosing between building up technical debt and missing delivery deadlines is a false dichotomy, Daniel Terhorst-North argued in his talk Best Simple System for Now. Programmers love to generalize rather than solve the immediate problem at hand, which can make future changes difficult. Instead, we need to build the skills and instincts for keeping things simple.
+                     #프로그래밍 #간단함 #기술부채
 
-15 번째 검색 내용
-제목: 구글은 다음 '26에서 GKE 에이전트 샌드박스와 하퍼클러스터를 발표합니다. Kubernetes를 AI 에이전트로 위치시킵니다.
-주소: https://www.infoq.com/news/2026/05/gke-agent-sandbox-hypercluster/
-설명: Google은 Cloud Next '26에 GKE Agent Sandbox와 hypercluster을 발표했습니다. Agent Sandbox는 gVisor 커널 격리를 사용하여 300개의 sandbox 단위로 초당 1초에 안전한 에이전트 코드 실행, Kubernetes SIG Apps 서브프로젝트로 구현된 열린 소스입니다. 현재는 세 대 중 유일한 네이티브 에이전트 샌드박스입니다. Hypercluster는 단일 컨트롤 플레인으로부터 10억 개의 칩을 관리합니다.
-#GKEAgentSandbox #hypercluster #GoogleCloudNext '26
-
-#hashtags: #Kubernetes #GoogleCloudPlatform #CloudComputing
+#hashtags: 
+1. #프로그래밍
+2. #간단함
+3. #기술부채
 
