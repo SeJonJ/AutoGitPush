@@ -1,46 +1,57 @@
 1 번째 검색 내용
-제목: GitHub 은 기밀 검색의 확장을 위해 MCP 서버 통합의 일반 사용성을 발표합니다.
+제목: 그라파나의 피로스코프 2.0는 규모에 따른 연속적인 프로필링이 실질적으로 가능하게 합니다.
+주소: https://www.infoq.com/news/2026/05/pyroscope-2-profiling/
+설명: Grafana Labs는 Pyroscope 2.0을 출시했습니다. 이것은 연속적인 프로파일링 데이터베이스로서 재설계된 오픈소스입니다. 이 버전에서는 저장비용, 쿼리 성능, 운영 복잡성을 개선합니다. 주요 변경 사항은 프로파일 데이터를 처리하는 데 필요한 단일 쓰기 경로, 무상태 쿼리 처리 및 프로파일링 데이터에 대한 향상된 기능입니다. 이것은 OpenTelemetry 프로토콜을 지원하며, 현재의 관찰성 트렌드와 일치합니다.
+#GrafanaLabs #Pyroscope2.0 #연속적인프로파일링데이터베이스 #OpenTelemetry프로토콜
+
+#hashtags: #GrafanaLabs, #Pyroscope2.0, #연속적인프로파일링데이터베이스, #OpenTelemetry프로토콜
+
+2 번째 검색 내용
+제목: AWS WorkSpaces는 AI 에이전트가 API 없이 레거시 데스크톱 응용 프로그램을 실행할 수 있도록 허용합니다.
+주소: https://www.infoq.com/news/2026/05/aws-workspaces-ai-agents/
+설명: AWS는 Amazon WorkSpaces가 AI 에이전트용 관리형 가상 데스크톱을 공개 미리 보기로 제공할 수 있다고 발표했습니다. 에이전트는 IAM을 통해 인증되고, API를 사용하지 않고도 레거시 애플리케이션을 계산 비전과 입력 시뮬레이션으로 실행할 수 있습니다. Reflex 벤치마크에 따르면, 비전 에이전트는 API 에이전트에 비해 45배 더 많은 토큰을 소모합니다.
+#인공지능 #AWS #가상데스크톱
+
+Hashtags: #인공지능, #AWS, #가상데스크톱
+
+3 번째 검색 내용
+제목: [INST] 깃허브의 비밀 스캔 확장 공지: MCP 서버 통합 일반 사용 가능성 [/INST]
 주소: https://www.infoq.com/news/2026/05/github-mcp-secret-scanning/
 설명: AI : GitHub는 MCP Server를 통해 비밀 검색 지원의 일반 사용 가능성을 발표했습니다. 이것은 AI 지원과 에이전트 기반 개발 워크플로우에 자동화된 인증 탐지 및 수정 기능을 확장합니다.
 #GitHub #MCPServer #비밀검색 #자동화 #인증탐지 #수정
 
 Hashtags: #GitHub, #MCPServer, #비밀검색
 
-2 번째 검색 내용
-제목: AdonisJS v7는 종단간 타입 안전성, 재구성된 스타터 키트와 제로 설정 OpenTelemetry를 선보냅니다.
+4 번째 검색 내용
+제목: AdonisJS v7는 종단간 타입 안전성, 재구성된 스타터 키트와 ゼロコンフィグ オープンテレメトリ를 포함합니다.
 주소: https://www.infoq.com/news/2026/05/adonis-v7-opentelemetry/
-설명: AdonisJS 버전 7은 종단간 타입 안전성을 도입하고 리워크된 스타터 키트, 향상된 문서화를 함께 포함합니다. 이 릴리즈는 OpenTelemetry에 대한 45개 이상의 업데이트 패키지와 3개의 새로운 패키지를 포함합니다. Node.js 24을 요구하며, 네이티브 API를 사용할 수 있습니다. 프레임워크는 컨벤션-오버-구성 접근 방식을 강조하면서 라우팅, ORM, 인증과 같은 도구를 제공합니다.
+설명: AdonisJS 버전 7은 종단간 타입 안전성을 도입하고 다시 작성된 스타터 키트와 함께 개선된 문서화를 포함합니다. 이 릴리즈는 OpenTelemetry에 대한 45개 이상의 업데이트 패키지와 3개의 새로운 패키지를 포함합니다. Node.js 24을 요구하며, 네이티브 API를 사용할 수 있습니다. 프레임워크는 규칙-오버-구성 접근 방식을 강조하면서 라우팅, ORM, 및 인증에 대한 도구를 제공합니다.
 #AdonisJS #Node.js #타입안전성 #프레임워크
 
-#hashtags: #AdonisJS #Node_js #TypeSafety #ConventionOverConfiguration
+Hashtags: #AdonisJS #Node.js #타입안전성 #프레임워크
 
-3 번째 검색 내용
-제목: 복사 실패와 더러운 폭발: 리눅스 페이지 캐시 취약점이 모든 주요 배포에 대상
-
-[INST] Translate my sentence into Korean :
-                            Copy Fail and Dirty Frag: Linux Page-Cache Exploits Target Every Major Distribution
-                         [/INST]
+5 번째 검색 내용
+제목: 복사 실패와 더러운 프래그먼트: 리눅스 페이지 캐시 취약점을 모든 주요 배포에 대상으로 합니다.
 주소: https://www.infoq.com/news/2026/05/copy-fail-dirty-frag-linux/
 설명: Two recent Linux kernel vulnerabilities have been disclosed: Copy Fail (CVE-2026-31431) on April 29, 2026, and Dirty Frag (CVE-2026-43284 and CVE-2026-43500) on May 7, 2026. Both allow local users to gain root access, affecting multiple Linux distributions. These vulnerabilities exploit flaws in the page cache via different subsystems, necessitating immediate patching by affected organizations.
 #Linux #KernelVulnerability #CyberSecurity
 
 Translated content: 
-                    두 가지 최근 Linux 커널 취약점이 공개되었습니다: Copy Fail (CVE-2026-31431)은 4월 29일, 2026년에 발표되고, Dirty Frag (CVE-2026-43284와 CVE-2026-43500)은 5월 7일, 2026년에 발표되었습니다. 이들은 로컬 사용자가 root 액세스를 획득할 수 있도록 하며, 여러 Linux 배포판에 영향을 미칩니다. 이러한 취약점은 페이지 캐시의 결함을 통해 다양한 서브시스템을 통해 활용되었으며, 영향을 받는 기관들에게 즉시 패치를 적용하도록 요구됩니다.
+                    두 가지 최근 Linux 커널 취약점이 공개되었습니다: Copy Fail (CVE-2026-31431)은 4월 29일, 2026년에 발표되고, Dirty Frag (CVE-2026-43284와 CVE-2026-43500)은 5월 7일, 2026년에 발표되었습니다. 이 취약점들은 로컬 사용자가 root 액세스를 획득할 수 있도록 하며, 여러 Linux 배포판에 영향을 미칩니다. 이러한 취약점들은 페이지 캐시의 결함을 통해 다양한 서브시스템을 통해 활용되었으며, 영향을 받는 기관들에게 즉시 패치를 적용하도록 요구됩니다.
 #Linux #커널취약점 #사이버보안
 
 Hashtags: #Linux #커널취약점 #사이버보안
 
-4 번째 검색 내용
+6 번째 검색 내용
 제목: 캔지에, 새로운 오픈소스 컴파일 언어로서 네이티브 효과 처리기와 알지리믹 데이터 형식을 지원하는 것입니다.
 주소: https://www.infoq.com/news/2026/05/cangjie-effect-handlers-adt/
 설명: Prof. Dan Ghica, who leads the Programming Languages Lab at Huawei’s Edinburgh Research Centre, recently presented Cangjie (CJ), a new application development language that features algebraic data types and effect handlers. The open-sourced language is positioned as a counterpart to Java, Kotlin, or Swift. Cangjie is taught by 80+ universities in China.
 #인공지능 #프로그래밍언어 #중국
 
-Translated content:
-Prof. Dan Ghica, who leads the Programming Languages Lab at Huawei’s Edinburgh Research Centre, recently presented Cangjie (CJ), a new application development language that features algebraic data types and effect handlers. The open-sourced language is positioned as a counterpart to Java, Kotlin, or Swift. Cangjie is taught by 80+ universities in China.
+Translated content: Prof. Dan Ghica, who leads the Programming Languages Lab at Huawei’s Edinburgh Research Centre, recently presented Cangjie (CJ), a new application development language that features algebraic data types and effect handlers. The open-sourced language is positioned as a counterpart to Java, Kotlin, or Swift. Cangjie is taught by 80+ universities in China.
 #인공지능 #프로그래밍언어 #중국
 
-5 번째 검색 내용
+7 번째 검색 내용
 제목: 코더 에이전트는 자체 호스팅 인프라에서 AI 코딩 워크플로우를 실행할 수 있게 합니다.
 주소: https://www.infoq.com/news/2026/05/coder-agents-self-hosted-ai/
 설명: Coder Agents는 모델에 관계없이 기업이 클라우드 기반 서비스를 의존하지 않고 자체 인프라에서 AI 코딩 에이전트를 실행할 수 있도록 설계된 플랫폼입니다. 이로써 팀은 코드, 데이터 및 실행 환경을 완전히 제어할 수 있습니다.
@@ -48,87 +59,79 @@ Prof. Dan Ghica, who leads the Programming Languages Lab at Huawei’s Edinburgh
 
 Hashtags: #모델에 관계없는 #AI #클라우드기반서비스와의독립
 
-6 번째 검색 내용
+8 번째 검색 내용
 제목: 네틸즈 인터넷 전문가입니다. 네틸즈는 캐시를 사용하여 84%의 질의 결과를 제공합니다. Apache Druid에서 간격 인식 캐싱을 사용하고 있습니다.
 
-[INST] Netflix serves 84% of query results from cache with interval-aware caching in Apache Druid [/INST]
+[INST] 네틸즈는 캐시를 사용하여 84%의 질의 결과를 제공합니다. Apache Druid에서 간격 인식 캐싱을 사용하고 있습니다. [/INST]
 주소: https://www.infoq.com/news/2026/05/netflix-druid-interval-cache/
-설명: Netflix는 Apache Druid의 성능을 interval aware caching으로 개선합니다. 이것은 캐시에서 84%의 분석 결과를 제공하고 쿼리 부하를 33% 줄여줍니다. 시스템은 롤링 윈도우 쿼리를 재사용 가능한 시간 단위로 분해합니다, 이로 인해 최근 데이터에 대해만 재계산하고 부분적인 캐시 재사용을 허용할 수 있습니다. 규모가 큰 경우 이는 스캔 볼륨을 줄여, P90 대기 시간을 개선하고 실시간 분석 워크로드를 최적화합니다.
-#인공지능 #데이터분석 #네플리스 #ApacheDruid
+설명: Netflix는 Apache Druid의 성능을 interval aware caching으로 개선합니다. 이것은 캐시에서 84%의 분석 결과를 제공하고, 쿼리 부담을 33% 줄여줍니다. 시스템은 롤링 윈도우 쿼리를 재사용할 수 있는 재사용 가능한 시간 단위로 분해됩니다. 규모에서는 스캔 볼륨을 줄여, P90 대기 시간을 개선하고, 실시간 분석 작업 로드를 최적화합니다.
+#Netflix #ApacheDruid #성능개선 #실시간분석
 
-#hashtags: #AI #dataanalysis #Netflix #ApacheDruid
-
-7 번째 검색 내용
-제목: 새로운 DORA 보고서에 따르면, 강력한 공학 기반이 AI 투자 수익률을 주도합니다.
-주소: https://www.infoq.com/news/2026/05/dora-roi-ai-assisted-dev-report/
-설명: Google Cloud의 DORA팀은 AI를 소프트웨어 개발에서 ROI를 평가하는 데 사용되는 프레임워크를 포함한 보고서를 출시했습니다. 성공적인 AI 구현은 기업 시스템이 아닌 도구에 의존하지 않습니다. 보고서는 J-Curve 모델을 가치 실현에 대한 소개로 사용됩니다. 또한, 장기적인 이익을 달성하기 위해 인력 유지와 프로세스 재설계의 중요성도 논의합니다.
-#인공지능 #소프트웨어개발 #ROI평가 #기업시스템
-
-#hashtags: #AIinSoftwareDevelopment #OrganizationalSystems #LongTermGains
-
-8 번째 검색 내용
-제목: 넷플릭스가 '모델 라이프사이클 그래프'를 도입하여 기업용 머신러닝을 확장합니다.
-주소: https://www.infoq.com/news/2026/05/netflix-ml-graph/
-설명: Netflix는 머신러닝 시스템을 관리하기 위한 그래프 기반 아키텍처를 개발했습니다, 이것을 Model Lifecycle Graph라고 합니다. 이 시스템은 데이터셋, 모델, 특성, 워크플로우 간의 연결관계를 매핑하며, ML 운영을 확장할 때 발생하는 문제를 해결합니다. 이것은 찾아볼 수 있성, 지도자와 구성 재사용을 지원하면서 공학자들과 데이터 과학가들에게 자체 서비스 접근 방식을 지원합니다.
-#머신러닝 #모델라이프사이클그래프 #넷플릭스
-
-#hashtags: #머신러닝 #모델라이프사이클그래프 #넷플릭스
+#hashtags: #Netflix #ApacheDruid #성능개선 #실시간분석
 
 9 번째 검색 내용
-제목: 자바 뉴스 요약: 그라알VM, 스프링 AI, 잡런R, 글래시프, 그라일스, 그루비, 큐어크스 에이전트 MCP
-주소: https://www.infoq.com/news/2026/05/java-news-roundup-may04-2026/
-설명: Java 주요 뉴스 요약: 2026년 5월 4일, OpenJDK JEPs를 위한 JDK 27의 대상; Spring AI 2.0의 6번째 Milestone 릴리즈; Grails 8.0의 첫 번째 Milestone 릴리즈; Groovy 6.0의 첫 번째 Alpha 릴리즈; JobRunr에서 포인트 릴리즈; GlassFish, TomEE, Tomcat의 유지보수 릴리즈; GraalVM에 대한 가속화된 릴리즈 트레인; 새로운 Quarkus Agent MCP 서버.
-#Java #JDK27 #SpringAI #Grails8.0 #Groovy6.0
-#JobRunr #GlassFish #TomEE #Tomcat #GraalVM #QuarkusAgentMCP
+제목: 새로운 DORA 보고서에 따르면, 강력한 공학 기반이 AI 투자 수익률을 주도합니다.
+주소: https://www.infoq.com/news/2026/05/dora-roi-ai-assisted-dev-report/
+설명: Google Cloud의 DORA팀은 AI를 소프트웨어 개발에서 ROI를 평가하는 데 사용되는 프레임워크를 포함한 보고서를 출시했습니다. 성공적인 AI 구현은 기업 시스템이 아닌 도구에만 의존하지 않음을 강조합니다. 보고서는 J-Curve 모델을 가치 실현에 대한 소개로 확장됩니다. 또한, 긴 기간 이익을 달성하기 위해 인력 유지와 프로세스 재설계의 중요성을 논의합니다.
+#인공지능 #소프트웨어개발 #ROI평가 #J-Curve모델
+#기업시스템 #인력유지 #프로세스재설계
 
 10 번째 검색 내용
-제목: MySQL 9.7: 첫 번째 주요 LTS 버전으로 8.4 이후에 엔터프라이즈 기능을 커뮤니티 에디션에 추가합니다.
-주소: https://www.infoq.com/news/2026/05/mysql-97-lts/
-설명: Oracle는 MySQL 9.7.0의 일반 사용 가능성을 발표하였습니다. 이는 MySQL 8.4 이후에 처음으로 주요 릴리스로 시작되고, 9.7 LTS 릴리스 시리즈의 첫 번째 일반적인 사용 가능성입니다. 이 릴리스는 MySQL 개발 활동이 감소하며 Oracle의 프로젝트에 대한 장기적인 커밋먼트에 대한 커뮤니티 걱정 상황에서 발표되었습니다.
-#MySQL #Oracle #RDBMS #데이터베이스
+제목: 넷플릭스가 '모델 라이프사이클 그래프'를 도입하여 기업용 머신러닝을 확장합니다.
+주소: https://www.infoq.com/news/2026/05/netflix-ml-graph/
+설명: Netflix는 머신러닝 시스템을 관리하기 위한 그래프 기반 아키텍처를 개발했습니다, 이것을 Model Lifecycle Graph라고 합니다. 이 시스템은 데이터셋, 모델, 특성, 워크플로우 간의 연결관계를 매핑하며, ML 작업 확장에 대한 문제를 해결합니다. 이것은 발견성, 지도성, 구성 재사용 및 엔지니어와 데이터 과학자가 자체 서비스 접근 방식을 지원하는 데 도움이 됩니다.
+#머신러닝 #모델라이프사이클그래프 #확장성 #발견성
+
+Hashtags: #머신러닝 #모델라이프사이클그래프 #확장성 #발견성
 
 11 번째 검색 내용
+제목: 자바 뉴스 요약: 그라알VM, 스프링 AI, 잡런R, 글래시핑, 그라일스, 그루비, 큐어크스 에이전트 MCP
+
+(Note: The Korean translation may not be perfect as some of the terms are specific to the Java ecosystem and might not have direct translations. However, I've tried my best to provide an accurate representation.)
+주소: https://www.infoq.com/news/2026/05/java-news-roundup-may04-2026/
+설명: Java 주요 뉴스 요약: 2026년 5월 4일, OpenJDK JEPs를 위한 JDK 27의 목표, Spring AI 2.0의 6번째 amilestone 릴리즈, Grails 8.0의 첫 밀스톤 릴리즈, Groovy 6.0의 첫 밀스톤 릴리즈, JobRunr에서 포인트 릴리즈, GlassFish, TomEE와 Tomcat에 대한 유지보수 릴리즈, GraalVM의 가속화된 릴리즈 트레인, 새로운 Quarkus Agent MCP server.
+#Java #JDK27 #SpringAI #Grails8.0 #Groovy6.0
+#JobRunr #GlassFish #TomEE #Tomcat #GraalVM #QuarkusAgentMCPserver
+
+12 번째 검색 내용
+제목: MySQL 9.7: 첫 번째 주요 LTS 버전으로 8.4 이후에 엔터프라이즈 기능을 커뮤니티 에디션에 추가합니다.
+주소: https://www.infoq.com/news/2026/05/mysql-97-lts/
+설명: Oracle는 MySQL 9.7.0의 일반 사용 가능성을 발표했습니다. 이는 MySQL 8.4 이후에 처음으로 주요 릴리스인 것으로, 새로운 9.7 LTS 릴리스 시리즈의 시작을 표시합니다. 이 릴리스는 MySQL 개발 활동이 감소하고 Oracle가 프로젝트에 대한 장기적인 헌신에 대한 커뮤니티의 걱정에 도착했습니다.
+#MySQL #Oracle #릴리스 #개발 #헌신
+
+Translated content: Oracle has announced the general availability of MySQL 9.7.0, marking the start of a new 9.7 LTS release series and the first major one since MySQL 8.4. The release arrives amid community concerns about declining MySQL development activity and Oracle's long-term commitment to the project.
+#MySQL #Oracle #LTS #개발 #헌신
+
+Translated content: Oracle has announced the general availability of MySQL 9.7.0, marking the start of a new 9.7 LTS release series and the first major one since MySQL 8.4. The release arrives amid community concerns about declining MySQL development activity and Oracle's long-term commitment to the project.
+#MySQL #Oracle #LTS #개발 #헌신
+
+13 번째 검색 내용
 제목: Fonttrio 개발 시작: 오픈소스 폰트 쌍 레지스터를 위한 shadcn/ui
 
 [INST] Fonttrio 개발 시작을 한국어로 번역합니다. : [/INST]
 
 Fonttrio 개발 시작: 오픈소스 폰트 쌍 레지스터를 위한 shadcn/ui
 주소: https://www.infoq.com/news/2026/05/fonttrio-shadcn-fonts/
-설명: Fonttrio는 셰드콘/UI 프로젝트에 특화된 열려있는 소스 폰트 조합 레지스트리입니다. 49개의 선택한 폰트 조합이 단일 명령으로 설치할 수 있습니다. Dima Kapish에 의해 개발되었으며, 웹 애플리케이션의 폰트 선택과 구성을 간소화합니다. 도구는 셰드콘 CLI와  seamlessly 통합됩니다. CSS 변수와 타입로그라피 스케일을 자동으로 생성합니다.
-#Fonttrio #셰드콘 #폰트선택 #타입로그라피
+설명: Fonttrio는 셰드콘/UI 프로젝트에 특화된 열린 소스 폰트 조합 레지스트리입니다. 49개의 선택한 폰트 조합이 있으며, 단일 명령으로 설치할 수 있습니다. Dima Kapish에 의해 개발되었으며, 웹 애플리케이션의 폰트 선택과 구성을 간소화합니다. 도구는 shadcn CLI와  seamlessly 통합됩니다., CSS 변수와 타입 그래프 스케일을 자동으로 생성합니다.
+#Fonttrio #셰드콘 #폰트선택 #타입그래프
 
 #hashtags: #FontPairingRegistry #OpenSource #WebApplicationDesign
 
-12 번째 검색 내용
+14 번째 검색 내용
 제목: 클라우드플레어가 동적 워크플로우를 배송하며, 테넌트와 에이전트 코드에 지속적인 실행을 제공합니다.
 주소: https://www.infoq.com/news/2026/05/cloudflare-dynamic-workflows/
-설명: Cloudflare는 Dynamic Workflows, 지속적인 실행 엔진을 확장하여 테넌트, 에이전트, 또는 요청 당 런타임 시 워크플로우 코드가 다르게 만들 수 있는 MIT 라이선스를 갖춘 라이브러리를 발표했습니다. Dynamic Workers에 기반한 라이브러리는 플랫폼이 근접하게 비용 없는 상태로 수백만 개의 고유한 지속적인 워크플로우를 서비스할 수 있습니다. CI/CD와 에이전트 실행은 주요 사용 사례입니다.
-#클라우드플레어 #동적워크플로우 #지속적인 실행엔진 #CI/CD
+설명: Cloudflare는 Dynamic Workflows, 지속적인 실행 엔진을 확장하여 테넌트, 에이전트, 또는 요청 당 런타임 시 워크플로우 코드가 다르게 만들 수 있는 MIT 라이선스를 갖춘 라이브러리를 발표했습니다. Dynamic Workers에 기반한 라이브러리는 플랫폼이 가장 적은 유지보수 비용으로 백만 개의 고유한 지속적인 워크플로우를 제공할 수 있습니다. CI/CD와 에이전트 실행이 주요 사용 사례입니다.
+#클라우드플레어 #동적워크플로우 #지속적인워크플로우 #CI/CD
 
-Hashtags: #클라우드플레어 #동적워크플로우 #지속적인 실행엔진 #CI/CD
-
-13 번째 검색 내용
-제목: AWS 오라클 서버리스 개선: 시작 업 45% 빠르고, 트루퓨츠 30% 높음.
-주소: https://www.infoq.com/news/2026/05/aurora-serverless-v4/
-설명: AWS는 최근에 WorkMail이 중단되고 있다고 발표했으며, App Runner도 새로운 고객을 받지 않고 유지보수 모드로 전환될 예정입니다. 여러 다른 인기가 낮은 서비스와 기능도 유지보수 또는 절명 단계에 진입하고 있어, AWS 커뮤니티 내에서 걱정과 토론을 유발했습니다.
-#AWS #서비스 #유지보수 #절명
-
-#hashtags: #AWS #서비스 #유지보수 #절명
-
-14 번째 검색 내용
-제목: GitHub는 현대적인 CI CD 시스템에서 에이전트릭 워크플로우를 어떻게 보호하고 있는가요?
-주소: https://www.infoq.com/news/2026/05/github-agentic-workflows/
-설명: AI : GitHub는 CI/CD 파이프라인에서 에이전트 워크플로우의 방어 깊이 보안 아키텍처를 자세히 설명했습니다. 이 디자인은 독립성, 제한된 실행 및 감사성을 중점으로 자동화된 AI 에이전트를 안전하게 통합하고, 잠재적인 공격 방지, 권한 상승 및 의도하지 않은 작업과 같은 위험을 완화하는데 사용됩니다. 이를 위해 샌드박스 환경, 제한된 권한 및 전체 실행 추적성을 사용합니다.
-#CI/CD #보안 #에이전트_워크플로우
-
-Hashtags: #CI/CD, #보안, #에이전트_워크플로우
+Hashtags: #클라우드플레어 #동적워크플로우 #지속적인워크플로우 #CI/CD
 
 15 번째 검색 내용
-제목: 클라우드플레어가 "아티팩트" 베타를 출시하고, AI 에이전트에 대한 Git과 같은 버전 제어를 소개합니다.
-주소: https://www.infoq.com/news/2026/05/cloudflare-artifacts-ai-agents/
-설명: Cloudflare는 Artifacts라고 한 새로운 시스템을 Git 스타일의 버전 제어를 AI 에이전트에게 가져오기 위해 베타 릴리즈했습니다. 개발자들은 에이전트가 생성한 결과물을 추적, 관리하고 변화를 적용할 수 있으며, 동일한 정교함을 갖춘 전통적인 코드와 같이 처리할 수 있습니다.
-#인공지능 #버전제어 #Cloudflare
+제목: AWS 오라클 서버리스를 개선합니다: 45% 빠르게 시작, 30% 더 높은 처리량
 
-Translated sentence: Cloudflare has announced the beta release of Artifacts, a new system designed to bring Git-style version control to AI agents, enabling developers to track, manage, and evolve agent-generated outputs with the same rigor as traditional code.
-#인공지능 #버전제어 #Cloud
+[INST] AWS 오라클 서버리스를 개선하여 45% 더 빠르게 시작하고 30% 더 많은 처리량을 얻습니다. [/INST]
+주소: https://www.infoq.com/news/2026/05/aurora-serverless-v4/
+설명: AWS는 최근에 WorkMail이 중단되고 있다고 공지했으며, App Runner도 새로운 고객을 받지 않고 유지보수 모드로 전환될 예정입니다. 여러 개인 서비스와 기능이 유지보수 또는 절단 단계에 진입하면서, AWS 커뮤니티 내에서 걱정과 토론을 유발했습니다.
+#AWS #WorkMail #AppRunner #유지보수모드
+
+#hashtags: #AWS #WorkMail #AppRunner #유지보수모드
 
