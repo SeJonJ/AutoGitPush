@@ -1,136 +1,133 @@
 1 번째 검색 내용
-제목: 오픈애이 오픈소스로 공개한 심포니(Symphony)는 자율 코딩 에이전트 조직화를 위한 SPEC.md입니다.
+제목: 이동 API가 최근에 사용 가능한 기준으로 변경되어 역사 API의 대체물로 제공됩니다.
+주소: https://www.infoq.com/news/2026/05/navigation-api-browser/
+설명: Navigation API는 싱글 페이지 애플리케이션의 클라이언트 측 탐색을 관리하는 새로운 인터페이스입니다. 2026년 1월부터 주요 브라우저에서 사용할 수 있습니다. 이 API는 History API의 제한점을 해결하고 통합된 이벤트 모델과 향상된 히스토리 관리를 제공합니다. 주요 기능은 navigate 이벤트, 자동 URL 업데이트 및 통합 오류 처리입니다.
+#NavigationAPI #싱글페이지애플리케이션 #클라이언트측탐색 #히스토리관리
+
+#hashtags: #SinglePageApplications #ClientSideNavigation #BrowserAPIs
+
+2 번째 검색 내용
+제목: [INST] 열린 소스로 공개된 OpenAI 심포니, 자율 코딩 에이전트 조직화를 위한 SPEC.md
+[/INST]
 주소: https://www.infoq.com/news/2026/05/openai-symphony-agents/
-설명: OpenAI Symphony는 프로젝트 관리 도구를 사용하여 다양한 코딩 에이전트를 조정하는 에이전트 오레스테이터입니다. 개발자가 상호 작용 코딩 세션을 관리하는 대신, Symphony는 "작업"을 각각 독립적으로 완료까지 작업 에이전트에게 할당합니다. 작업이 완료되면 결과 출력을 검토하는 인간이 책임지게 됩니다.
+설명: OpenAI Symphony는 프로젝트 관리 도구를 사용하여 다양한 코딩 에이전트를 조정하는 에이전트 오레스테이터입니다. 개발자들이 상호작용 코딩 세션을 관리하는 대신, Symphony는 "작업"을 각각 독립적으로 완료까지 작업 에이전트에게 할당합니다. 작업이 완료되면 결과 출력을 검토하는 인간이 책임지게 됩니다.
 #OpenAI #Symphony #프로젝트_관리_도구
 
 #hashtags: #OpenAI, #Symphony, #프로젝트_관리_도구
 
-2 번째 검색 내용
-제목: 네오뱅크 모잠로는 100개 팀과 12,000개 dbt 모델을 통해 데이터 메시를 관리하고 있습니다.
+3 번째 검색 내용
+제목: 네오뱅크 모노조 100팀과 12,000개의 dbt 모델을 통해 관리되는 데이터 메시를 구축합니다.
 주소: https://www.infoq.com/news/2026/05/monzo-data-mesh/
 설명: Monzo는 최근 데이터 웨어하우스를 100개 이상의 팀이 작업하고 있으며 12,000개 이상의 dbt 모델을 지원하기 위해 다시 설계했습니다. Monzo는 "메시" 접근 방식을 소개하여 웨어하우스 비용을 약 40% 감소시키고 데이터 전달 속도를 25% 향상시킵니다.
-#데이터_웨어하우스 #메시_접근_방식 #모노조 #데이터_전달_속도 #비용_감소
+#데이터_웨어하우스 #Monzo #DBT_모델
 
-Translated sentence: Monzo recently redesigned its data warehouse to support more than 100 teams working on over 12,000 dbt models. Introducing a so-called "meshy" approach, Monzo cut warehouse costs by about 40% and improved data delivery speed by 25%.
-#데이터_웨어하우스 #메시_접근_방식 #모노조 #데이터_전달_속도 #비용_감소
-
-3 번째 검색 내용
-제목: Ubuntu는 로컬 AI를 우선시하고 클라우드-초기 운영체제 통합을 선호합니다.
-주소: https://www.infoq.com/news/2026/05/ubuntu-on-device-ai/
-설명: Ubuntu는 AI 전략을 명시하였습니다. 이를 산업 추세와 달리, 클라우드 중심, AI-first 운영 체계로 향한 것이 아니라, 미래의 릴리스에는 지역 지능, 모듈 설계, 엄격한 사용자 제어를 중점으로 집중할 것입니다.
-#Ubuntu #AI전략 #지역지능 #모듈설계
-
-Translated sentence: Ubuntu has outlined its AI strategy, describing it as a deliberate departure from industry trends towards cloud-centric, AI-first operating systems. Instead, the company says, Ubuntu will focus future releases on local intelligence, modular design, and strict user control.
-#Ubuntu #AI전략 #지역지능 #모듈설계
-
-Hashtags: #Ubuntu, #AI전략, #지역지능, #모듈설계
+Hashtags: #데이터_분석, #데이터_기술, #Monzo_데이터_솔루션
 
 4 번째 검색 내용
-제목: 구글은 reCAPTCHA의 후계자로 클라우드 FRAUD 방어를 소개합니다.
-주소: https://www.infoq.com/news/2026/05/cloud-fraud-defense-recaptcha/
-설명: AI : 최근 Next '26 회의에서 Google은 reCAPTCHA의 후계자인 Google Cloud Fraud Defense를 소개했습니다. 플랫폼은 기본적인 보트 감지를 넘어 로그인, 계정 생성, 결제 흐름 전체에서 온라인 사기를 대처하는 데 도움이 됩니다. 조직은 의심스러운 행동을 감지하고 악용을 차단하며, 가짜 계정, 자동 공격, 거래 사기와 같은 것을 포함합니다.
-#인공지능 #사기방지 #GoogleCloudFraudDefense
-
-Hashtags: #인공지능, #사기방지, #GoogleCloudFraudDefense
+제목: Ubuntu는 로컬 AI를 우선시하고 클라우드-초기 운영체제 통합을 선호한다.
+주소: https://www.infoq.com/news/2026/05/ubuntu-on-device-ai/
+설명: Ubuntu는 AI 전략을 명시하였습니다. 이를 산업 추세와 달리, 클라우드 중심, AI-first 운영 체계로의 비판적인 철거를 선택한다고 설명했습니다. 대신, 회사는 미래의 릴리스에서 지역 지능, 모듈 디자인, 그리고 엄격한 사용자 제어를 중점으로 집중할 것을 말했습니다.
+#Ubuntu #AI전략 #지역지능 #모듈디자인
 
 5 번째 검색 내용
-제목: 마이크로소프트가 13.3인치를 포함한 주요 배포 및 프론트엔드 업데이트를 발표합니다.
-주소: https://www.infoq.com/news/2026/05/aspire-13-3-release/
-설명: Microsoft는 Aspire 13.3을 발표했습니다. Azure, Kubernetes, 및 Compose와 같은 배포를 폭넘기는 새로운 Aspire Destroy 명령을 소개합니다. 이 릴리스에서는 미리 보기에 Kubernetes 배포가 표준화되며, Next.js와 Vite의 최초 클래스 JavaScript 게시를 지원하고 브라우저 로그 캡처와 기본 활성화된 컨테이너 터널이 추가되었습니다. 이에 따른 개발자가 검토해야 할 여러 깨지는 변경 사항도 포함되어 있습니다.
-#Aspire13.3 #AzureKubernetes #ContainerTunnel
+제목: 구글은 reCAPTCHA의 후계자로 클라우드 악성 방어를 소개합니다.
+주소: https://www.infoq.com/news/2026/05/cloud-fraud-defense-recaptcha/
+설명: AI : 최근 Next '26 회의에서 Google은 reCAPTCHA의 후계자인 Google Cloud Fraud Defense를 소개했습니다. 플랫폼은 기본적인 보트 감지를 넘어 로그인, 계정 생성, 결제 흐름 전체에서 온라인 사기를 대처하는 데 도움이 됩니다. 조직은 의심스러운 행동을 감지하고 악용을 차단하며, 가짜 계정, 자동 공격, 거래 사기와 같은 악성 행위를 포함합니다.
+#Next26 #GoogleCloudFraudDefense #온라인사기방지
 
-#hashtags: #Azure #Kubernetes #Containers
+Translated content: At the recent Next '26 conference, Google introduced Google Cloud Fraud Defense, the successor to reCAPTCHA. The platform goes beyond basic bot detection to address broader online fraud across login, account creation, and payment flows, helping organizations detect suspicious behavior and block abuse, including fake accounts, automated attacks, and transaction fraud.
+#Next26 #GoogleCloudFraudDefense #온라인사기방지
+
+Hashtags: #Next26, #GoogleCloudFraudDefense, #온라인사기방지
 
 6 번째 검색 내용
-제목: 인간적 소개: 클로드 코드 자동화를 위한 루틴 도입
-
-(Note: The translation may not be perfect as it is a machine translation. Please check for accuracy and context.)
-주소: https://www.infoq.com/news/2026/05/anthropic-routines-claude/
-설명: Anthropic는 Claude Code에 새로운 기능인 Routines을 도입했습니다. 개발자들은 일정, API 호출 또는 외부 이벤트에 응답하여 자동화된 코딩 워크플로우를 구성할 수 있습니다.
-#인공지능 #코딩 #워크플로우
-
-Translated content hashtags: #Anthropic, #Routines, #ClaudeCode
+제목: 마이크로소프트는 13.3인치를 사용하고 주요 배포 및 프론트엔드 업데이트가 있는 Aspire를 발표합니다.
+주소: https://www.infoq.com/news/2026/05/aspire-13-3-release/
+설명: Microsoft는 Aspire 13.3을 발표하였습니다. Azure, Kubernetes, 및 Compose와 같은 배포를 철거하기 위한 새로운 Aspire Destroy 명령을 소개합니다. 이 릴리스에서는 미리 보기에 Kubernetes 배포가 추가되었으며, Next.js와 Vite에 대한 첫 번째 클래스 JavaScript 게시를 지원하고 있습니다. 또한 브라우저 로그 캡처와 기본적으로 활성화된 컨테이너 터널이 추가되었습니다. 개발자들이 확인하여야 할 몇 가지 깨지는 변경 사항도 함께 포함되어 있습니다.
+#Aspire13.3 #Azure #Kubernetes #ContainerTunnel
 
 7 번째 검색 내용
-제목: 클라우드플레어가 확률적 실행을 지원하는 작업 흐름 V2를 소개합니다. 이제 동시에 50,000개의 작업 흐름을 처리할 수 있습니다.
+제목: 인간적 소개: 클로드 코드 자동화를 위한 루틴 도입
 
-[INST] Translate my sentence into Korean:
-                            Cloudflare Introduces Workflows V2 with Deterministic Execution and 50K Concurrent Workflows
-                         [/INST]
-주소: https://www.infoq.com/news/2026/05/cloudflare-workflows-v2-release/
-설명: Cloudflare는 Workflows V2를 소개합니다. 이것은 분산된 워크플로우 오케스트레이션 시스템으로서, 정확한 재실행이 가능하며, 관찰성이 향상되고, 대규모 확장 업그레이드에 포함됩니다. 50,000개의 동시적인 인스턴스와 2M개의 큐에 대기 중인 워크플로우를 지원합니다. AI 에이전트, 데이터 파이프라인 및 배경 처리에 분산 시스템에서 향상된 신뢰성을 제공합니다.
-#클라우드플레어 #워크플로우V2 #AI에이전트 #데이터파이프라인
+(Note: The translation may not be perfect as it is a machine translation. Please check for accuracy if needed.)
+주소: https://www.infoq.com/news/2026/05/anthropic-routines-claude/
+설명: Anthropic는 Claude Code에 새로운 기능인 Routines을 도입했습니다. 개발자들은 일정, API 호출 또는 외부 이벤트에 의해 자동으로 실행되는 코딩 워크플로우를 구성할 수 있습니다.
+#인공지능 #코딩 #워크플로우
 
-#hashtags: #분산시스템 #확장성 #배경처리
-
-추가 해시태그: #CloudflareWorkflowsV2 #워크플로우 #오케스트레이션 #AI #데이터처리
+Translated sentence: Anthropic has introduced a new feature called Routines for Claude Code, allowing developers to configure automated coding workflows that run on schedules, through API calls, or in response to external events.
+and Provide - #hashtags. Add 3 hashtags related to the translated content.
 
 8 번째 검색 내용
-제목: 디스코드는 3월 음성 서비스 중단이 발생한 원인을 밝혔습니다: 숨겨진 순환 의존성이 그것을 트리거했다.
-주소: https://www.infoq.com/news/2026/05/discord-circular-dependency/
-설명: Discord는 2026년 3월 25일의 음성 서비스 중단에 대한 자세한 사후 분석을 발표했습니다. 이 분석에 따르면, 이전에 검출되지 않은 순환 종속성이 음성 인프라스트럭처에서 발생하여 플랫폼 곳곳에서 음성 서비스를 중단시킨 캐시 실패가 일어났습니다.
-#Discord #음성서비스 #사후분석 #순환종속성
+제목: 클라우드플레어가 확률적 실행을 지원하는 2차 작업 흐름 소개와 동시에 실행되는 50,000개의 작업 흐름 지원
 
-Hashtags: #Discord, #음성서비스, #사후분석, #순환종속성
+(Note: The translation may not be perfect as it is a machine translation. Please review and make any necessary adjustments.)
+주소: https://www.infoq.com/news/2026/05/cloudflare-workflows-v2-release/
+설명: Cloudflare는 Workflows V2를 소개합니다. 이것은 분산된 워크플로우 오케스트레이션 시스템으로서, 정확한 재실행이 가능하며, 관찰성이 향상되고, 대규모 확장 업그레이드에 포함됩니다. 50,000개의 동시 인스턴스와 2M개의 대기 워크플로우를 지원합니다. AI 에이전트, 데이터 파이프라인 및 배경 처리에 대한 신뢰성이 분산 시스템에서 향상되었습니다.
+#클라우드플레어 #워크플로우V2 #AI에이전트 #데이터파이프라인
+
+Translated content hashtags: #클라우드플레
 
 9 번째 검색 내용
-제목: 벤치마킹 AI 에이전트를 구글 컨테이너 엔진(Kubernetes)에서 실행하는 것입니다.
-주소: https://www.infoq.com/news/2026/05/ai-agents-kubernetes-rag/
-설명: Brandon Foley는 CNCF 블로그에 AI 코딩 에이전트가 격리된 버그를 찾고 수정할 수 있다는 벤치마킹 스터디를 발표했습니다. 하지만 시스템 전체적인 영향을 이해하는 데 많은 어려움을 겪고 있습니다. 이것은 자동화된 버그 수정을 개선하기 위한 주요 방법으로 개선된 코드 검색이 최
+제목: 디스코드는 3월 음성 서비스 중단이 발생한 원인을 밝혔습니다: 숨겨진 순환 의존성이 그것을 트리거했다.
+주소: https://www.infoq.com/news/2026/05/discord-circular-dependency/
+설명: Discord는 2026년 3월 25일의 목소리 서비스 중단에 대한 자세한 사후 분석을 발표하였습니다. 이 중단은 이전에 감지되지 않았던 순환 종속성으로 인해 캐스케이딩 실패가 발생하여 플랫폼 곳곳에서 목소리 서비스가 중단되었습니다.
+#Discord #목소리서비스중단 #사후분석
+
+#hashtags: #Discord #목소리서비스 #사후분석
 
 10 번째 검색 내용
-제목: SolidJS 2.0 Beta: 첫 번째 클래스 비동기, 재구성된 스펜스 및 결정적인 배치
+제목: 벤치마킹 AI 에이전트를 구글 컨테이너 오케스트레이션에서 실행하는 것입니다.
+주소: https://www.infoq.com/news/2026/05/ai-agents-kubernetes-rag/
+설명: Brandon Foley는 CNCF 블로그에 AI 코딩 에이전트가 격리된 버그를 찾고 수정할 수 있다는 벤치마킹 스터디를 발표했습니다. 하지만 시스템 전체적인 영향을 이해하는 데 많은 어려움을 겪고 있습니다. 이것은 자동화된 버그 수정을 개선하는 주요 방법으로 개선된 코드 검색이 아닌지 문제를 제기합니다.
+#인공지능 #코딩에이전트 #버그수정
 
-(Note: The Korean translation may not be perfect as it involves technical terms from a specific programming framework.)
-주소: https://www.infoq.com/news/2026/05/solidjs-2-async/
-설명: SolidJS 2.0 Beta는 async 처리와 반응성에 대한 중요한 변경 사항을 소개합니다. async는 이제 프레임워크 내에서 직접적으로 Promise를 사용할 수 있도록 first-class 기능으로 변경되었습니다. 업데이트는 변경, 상태 처리 및 중요한 부분 단위 변경에 새로운 원시 형식을 포함합니다. 이 버전은 가상 DOM 없이도 정교한 반응성을 유지하면서 개발자 경험을 향상시키기 위해 설계되었습니다.
-#SolidJS #Reactivity #AsyncHandling
-
-#hashtags: #SolidJS, #Reactivity, #AsyncHandling
+Hashtags: #인공지능, #코딩에이전트, #버그수정
 
 11 번째 검색 내용
-제목: 문님이 2.0 버전을 발표하며, WASM 플러그인 툴체인과 개선된 CLI를 포함한 Moonrepo 릴리즈
-[INST] Translate my sentence into Korean :
-                            Moonrepo Releases Moon v2.0 with WASM Plugin Toolchains and Overhauled CLI
-                         [/INST]
+제목: SolidJS 2.0 Beta: 첫 번째 클래스 비동기, 다시 작성된 스펜스와 결정적인 배치
+
+(Note: The Korean translation may not be perfect as it involves technical terms related to programming languages.)
+주소: https://www.infoq.com/news/2026/05/solidjs-2-async/
+설명: SolidJS 2.0 Beta는 async 처리와 반응성에서 중요한 변경 사항을 소개합니다. async는 이제 프레임워크 내에서 직접적으로 Promise를 사용할 수 있도록 첫 번째 클래스 기능으로 구현되었습니다. 업데이트는 변경, 상태 처리 및 중단 호환성을 포함하여 새로운 원시 요소를 추가했습니다. 이 버전은 가상 DOM 없이도 정교한 반응성을 유지하면서 개발자 경험을 향상시키기 위해 설계되었습니다.
+#SolidJS #async #reactivity #virtualDOM
+
+#hashtags: #SolidJS, #async, #reactivity
+
+12 번째 검색 내용
+제목: 문님은 2.0 버전을 WASM 플러그인 툴체인과 개선된 CLI로 발표합니다.
+[/INST]
 주소: https://www.infoq.com/news/2026/05/moonrepo-2-release/
-설명: Moonrepo는 v1 이후의 첫 번째 주요 업데이트인 moon v2.0을 발표했습니다. 이 버전에서는 플러그인 기반의 도구체인 시스템과 JSON, TOML 등 여러 구성 형식을 지원합니다. CLI는 작업 상속 및 Docker 통합을 향상시키는 데 재구조화되었습니다. 중요한 변경 사항으로는 아키텍처 변경과 VCS 지원의 개선이 있습니다.
+설명: Moonrepo는 v1 이후의 첫 번째 주요 업데이트인 moon v2.0을 발표했습니다. 이 버전에서는 플러그인 기반 도구체인 시스템과 JSON, TOML 등 여러 구성 형식을 지원합니다. CLI는 작업 상속 및 Docker 통합을 향상시킨 것으로 재구조화되었습니다. 중요한 변경 사항은 아키텍처 전환과 VCS 지원의 개선입니다.
 #moonrepo #moonv2.0 #도구체인시스템
 
 Hashtags: #moonrepo, #moonv2.0, #도구체인시스템
 
-12 번째 검색 내용
+13 번째 검색 내용
 제목: 소프트웨어 기업의 사회적 시스템 확장
 
-(Note: The translation may not be perfect as it is difficult to translate technical terms directly. However, the meaning of the phrase should still be conveyed.)
+(Note: The translation may not be perfect as the original sentence seems to be a title or topic, and the Korean language does not have a direct equivalent for "Scaling" in this context. However, I tried my best to provide an accurate translation.)
 주소: https://www.infoq.com/news/2026/05/scale-social-system-software-org/
-설명: 빠르게 확장되는 팀은 그들의 사회적 시스템이 확대될 때 신뢰와 정서적 안전감을 다시 재건축해야 합니다. 의도적인, 중복된 통신이 다양한 포맷에서 모든 사람이 동기가 일치하도록 유지할 수 있습니다. 팀 간 리틴, 부자매 시스템, 및 회전 협의자는 팀 간 슬로우를 줄이고 팀 사이에 대리 역할을 수행하여 다리를 건너 놓습니다. 리더들은 이러한 속도를 가속화하기 위해 원하는 취약성을 표현하며 모델링합니다.
-#팀워크 #정서적안전감 #소셜시스템
+설명: 빠르게 확장되는 팀은 그들의 사회적 시스템이 확대될 때 신뢰와 정서적 안전감을 다시 재구성해야 합니다. 의도적인, 중복된 통신이 다양한 형식에서 실행되면 모든 사람이 동기가 일치하는 것으로 유지됩니다. 팀 간 빈도수 제한, 버디 시스템과 회전 발표자를 사용하여 사이로 벽을 줄이고 팀 간 다리를 건너 놓습니다. 리더들은 이러한 속도를 빠르게 만들기 위해 원하는 취약성을 표현하며 모델링합니다.
+#팀워크 #통신 #리더십
 
-#hashtags: #팀워크, #정서적안전감, #소셜시스템
-
-13 번째 검색 내용
-제목: 핀터스트 공장 엔지니어들이 CPU 좀비를 제거하여 생산 병목을 해결합니다.
-주소: https://www.infoq.com/news/2026/05/pinterest-cpu-zombies-bottleneck/
-설명: Pinterest는 Kubernetes 기반의 PinCompute 플랫폼에서 머신러닝 트레이닝 작업에 영향을 주는 CPU 부족 문제를 식별하고 해결했습니다. 엔지니어들은 이 문제를 사용되지 않는 Amazon ECS 에이전트로 추적하였으며, 이로 인한 메모리 cgroup 누출이 원인이 되었습니다. 에이전트를 비활성화함으로써 그들은 성능을 안정화시킵니다. 이 사례는 시스템 기본 설정을 이해하는 데 있어서 효과적인 문제 해결에 대한 중요성을 보여줍니다.
-#인공지능 #Kubernetes #Pinterest
-
-#hashtags: #AI #K8s #Pinterest
+Hashtags: #팀워크, #통신, #리더십
 
 14 번째 검색 내용
-제목: 인간적 추적 세 가지 겹쳐진 제품 변경에 대해 착각을 덮친 크로드 코드 질리티 불만 6주간
+제목: 핀터스트 공장 엔지니어들이 CPU 좀비를 제거하여 생산 병목을 해결합니다.
+주소: https://www.infoq.com/news/2026/05/pinterest-cpu-zombies-bottleneck/
+설명: AI : Pinterest는 Kubernetes 기반의 PinCompute 플랫폼에서 머신러닝 트레이닝 작업에 영향을 주는 CPU 부족 문제를 식별하고 해결했습니다. 엔지니어들은 이 문제를 사용되지 않는 Amazon ECS 에이전트로 추적하였으며, 이로 인한 메모리 cgroup 누출을 원인으로 확인했습니다. 에이전트를 비활성화함으로써 그들은 성능을 안정화시키었습니다. 이 사례는 시스템 기본 설정을 이해하는 데 있어 효과적인 문제 해결에 대한 중요성을 보여줍니다.
+#Pinterest #Kubernetes #CPUstarvation #머신러닝 #트러블슈팅
+
+#hashtags: #Pinterest, #Kubernetes, #CPUstarvation, #머신러닝, #트러블슈팅
+
+15 번째 검색 내용
+제목: 인간적 추적 세 가지 겹쳐진 제품 변경에 대해 착각을 덮친 크로드 코드 질리티 불만 6주간의 이야기
+
+(Note: The translation may not be perfect as the original sentence seems to contain some abbreviations or technical terms that might not have direct translations in Korean. However, I tried my best to convey the meaning of the sentence.)
 주소: https://www.infoq.com/news/2026/05/anthropic-claude-code-postmortem/
 설명: Anthropic published a postmortem tracing six weeks of Claude Code quality complaints to three overlapping product-layer changes: a reasoning effort downgrade, a caching bug that progressively erased the model's own thinking, and a system prompt verbosity limit that caused a 3% quality drop. The API and model weights were unaffected. All issues were resolved April 20.
 #인공지능 #클로드코드 #품질문제
 
 Translated content: Anthropic published a postmortem tracing six weeks of Claude Code quality complaints to three overlapping product-layer changes: a reasoning effort downgrade, a caching bug that progressively erased the model's own thinking, and a system prompt verbosity limit that caused a 3% quality drop. The API and model weights were unaffected. All issues were resolved April 20.
 #인공지능 #클로드코드 #품질문제
-
-15 번째 검색 내용
-제목: Kubernetes v1.36 출시: 보안 기본 설정이 강화되고 AI 워크로드 지원이 성숙해진다.
-주소: https://www.infoq.com/news/2026/05/kubernetes-1-36-released/
-설명: Kubernetes v1.36, 2026년에 발표된 버전, 보안, AI 작업 로드와 API 확장성에 초점을 맞춘 70개의 향상 사항을 포함합니다. 일반 사용 가능성으로 진행되는 주요 기능은 User Namespaces, Mutating Admission Policies, Fine-Grained Kubelet API Authorization입니다. 이 릴리스는 워크로드 관리를 위한 새로운 기능을 소개하고 AI 자원 할당에 대한 새로운 기능도 포함합니다.
-#Kubernetes #보안 #AI #워크로드_관리
-#인공지능 #보안 #Kubernetes #워크로드_관리
 
