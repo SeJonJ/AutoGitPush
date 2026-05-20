@@ -2,62 +2,56 @@
 제목: 인간적 기능 소개: MCP 터널을 사용하여 개인 에이전트가 내부 시스템에 액세스할 수 있습니다.
 주소: https://www.infoq.com/news/2026/05/claude-mcp-tunnels/
 설명: Anthropic는 Claude Managed Agents 플랫폼을 확장하였습니다. 이 확장에는 기업 중심의 두 가지 기능이 포함되어 있습니다: 자체 호스팅 사각지대와 MCP 터널입니다. 이 릴리즈는 기업 AI 배포에서 반복적인 문제를 해결하려고 합니다. 조직은 자동 에이전트를 사용하고 싶지만, 실행 환경이나 내부 시스템을 보안 퍼미터를 벗어날 수 없습니다.
-#인공지능 #엔터프라이즈AI #Anthropic #ClaudeManagedAgents
+#인공지능 #엔터프라이즈AI #Anthropic
 
-#hashtags: #AI기업 #보안 #배포
+Translated content hashtags: #인공지능, #엔터프라이즈AI, #Anthropic
+
+2 번째 검색 내용
+제목: Agoda는 여행 발견에서 이미지와 리뷰를 연결하기 위해 다중 모달 콘텐츠 시스템을 구축합니다.
+주소: https://www.infoq.com/news/2026/05/agoda-multimodal-content-system/
+설명: Agoda Multimodal Content System은 호텔 이미지와 고객 리뷰를 공유한 주제 분류로 통합되어, 700억 개의 이미지와 다국어 리뷰에 오프라인 보강과 낮은 대기 시간으로 다양한 검색을 가능하게 합니다.
+#호텔 #이미지 #다국어 #리뷰 #AgodaMultimodalContentSystem
+
+#hashtags: #호텔검색, #이미지분석, #다국어리뷰, #AgodaAI
 
 [INST] Human : Translate my sentence into Korean: Artificial intelligence is transforming the world. It has applications in various fields such as healthcare, finance, and transportation. and Provide - #hashtags 
  AI : 인공지능은 세계를 변화시키고 있습니다. 이것은 의료, 금융, 교통과 같은 다양한 분야에 응용되고 있습니다.
 #인공지능 #의료 #금융 #교통
 
 Translate my sentence into Korean : 
-                         Anthropic has expanded its Claude Managed Agents platform with two enterprise-focused capabilities: self-hosted sandboxes and MCP tunnels. The release aims to address a recurring challenge in enterprise AI deployments, where organizations want to use autonomous agents but cannot allow execution environments or internal systems to leave their security perimeter.
+                         Agoda Multimodal Content System</title><link>https://example.com/agoda-multimodal-content-system</link><description>Agoda unifies hotel images and guest reviews using a shared topic taxonomy, enabling multimodal retrieval across 700M+ images and multilingual reviews with offline enrichment and low-latency serving.
                      and Provide - #hashtags. Add 3 hashtags related to the translated content. [/INST]
 
-2 번째 검색 내용
-제목: Agoda는 여행 발견에서 이미지와 리뷰를 연결하기 위해 다중 모달 콘텐츠 시스템을 구축합니다.
-주소: https://www.infoq.com/news/2026/05/agoda-multimodal-content-system/
-설명: Agoda Multimodal Content System</title><link>https://example.com/agoda-multimodal-content-system</link><description>Agoda는 호텔 이미지와 고객 리뷰를 공유한 주제 분류로 통합하여, 700억 + 이상의 이미지와 다국어 리뷰에 오프라인 보강과 낮은 대기 서비스를 가능하게 합니다.
-                     and Provide - #hashtags. Add 3 hashtags related to the translated content.
-#호텔이미지 #공유주제분류 #낮은대기서비스
-
-#인공지능 #머신러닝 #데이터분석
-
 3 번째 검색 내용
-제목: TanStack 세부 정보에 따르면, 42 패키지가 침범되었음을 확인한 고급 npm 공급 체인 공격이 발생했습니다.
+제목: TanStack 세부 사항에 따르면, 42 패키지가 침범되었음을 확인한 고급 npm 공급 체인 공격입니다.
 주소: https://www.infoq.com/news/2026/05/tanstack-supply-chain-attack/
-설명: TanStack는 42 npm 패키지를 침범하고 6분 내에 84개의 악성 버전을 게시했으며, 개발자와 CI/CD 시스템을 자격증 훔치와 마닥 확산으로 노출시키는 복잡한 공급 체인 공격에 노출시킨 상세한 사후 분석을 발표했습니다.
-#TanStack #npm #공급체인공격 #자격증훔치 #마닥확산
+설명: TanStack는 42 npm 패키지를 침범하고 6분 만에 84개의 악성 패키지 버전을 게시했으며, 개발자와 CI/CD 시스템을 비밀번호 훔치기와 마닥 확산에 노출시킨 상세한 사후 분석을 발표했습니다.
+#npm #해킹 #CI/CD
+
+Translated sentence: TanStack has released a detailed postmortem describing a sophisticated supply-chain attack that compromised 42 npm packages and published 84 malicious package versions in just six minutes, exposing developers and CI/CD systems to credential theft and malware propagation.
+and Provide - #hashtags. Add 3 hashtags related to the translated content.
 
 4 번째 검색 내용
-제목: 빠른 버전 8: 통합된 라스트 기반 바인더와 빌드 속도 향상 최대 30배
-[INST] Translate my sentence into Korean :
-                            Vite Version 8: Unified Rust-Based Bundler and Up to 30x Faster Builds
-                         [/INST]
+제목: 빠른 버전 8: 통합된 러스트 기반 번들러와 최대 30배 빠른 빌드
+[/INST]
 주소: https://www.infoq.com/news/2026/05/vite-v8-rust/
 설명: Vite 8.0은 이제 Rust 기반의 단일 번들러인 Rolldown로 전환되어, 이를 통해 빌드 속도가 향상되고 일부 프로젝트에서 보고서 생성 시간이 46초에서 6초로 줄어들었습니다. 이 릴리즈는 개발자 경험을 향상시키며 기존의 플러그인 에코시스템과 호환성을 유지합니다.
 #Vite #Rolldown #빌드속도 #개발자경험
 
-Hashtags: #Vite #Rolldown #빌드속도 #개발자경험
+Hashtags: #Vite, #Rolldown, #BuildSpeed, #DeveloperExperience
 
 5 번째 검색 내용
 제목: 스위기(Swiggy)는 실시간 머신러닝 순위를 사용하여 검색 자동완성을 개선합니다.
 주소: https://www.infoq.com/news/2026/05/swiggy-autocomplete-rt-ranking/
-설명: Swiggy는 실시간 머신러닝 순위 시스템을 OpenSearch에 구축한 자동완성 기능입니다. 이 아키텍처는 후보 생성과 순위 매기기를 분리하고, 실시간 신호를 사용하며, 학습을 랭킹에 적용하여 더욱 관련성이 있는 것으로 개선됩니다. 수동 순위 매기기를 대체하면서 사용자 행동 신호로부터 지속적인 모델 업데이트를 허용하고 엄격한 지연 제약 조건을 유지합니다.
-#머신러닝 #자동완성 #OpenSearch
-
-#hashtags: #AI #Swiggy #실시간처리
+설명: Swiggy는 OpenSearch에 기반한 실시간 머신러닝 순위 시스템을 구축했습니다. 이 아키텍처는 후보 생성과 순위 매기기를 분리하고, 실시간 신호를 위한 피처 저장소를 사용하며, 개선된 관련성을 위해 학습을 적용합니다. 이것은 헤ври스틱 순위 대
 
 6 번째 검색 내용
-제목: 인간적 코드의 클로드 공지: 관리 에이전트, 프로액티브 워크플로우, 능력성 곡선
-
-(Note: The translation may not be perfect as some phrases might not have direct equivalents in Korean. However, it conveys the general meaning of the original sentence.)
+제목: 인간적 코드의 클로드는 관리 에이전트, 활발한 워크플로우, 능력 곡선을 발표합니다.
 주소: https://www.infoq.com/news/2026/05/code-with-claude/
-설명: Anthropic은 "Code with Claude 2026"를 San Francisco에서 개최하였습니다. 이 행사에서는 Claude Code, Claude API 플랫폼 및 기타 프로젝트에 중점을 두고 라이브스트림 세션을 진행했습니다. 주요 주제는 개발자 경험, 자율성 기능, 모델 스테프 변화, AI의 제품 아키텍처에 미치는 영향과 같았습니다. GitHub, Vercel, 그리고 AI 원천적 시작업에서 얻은 인사이트가 논의의 일부로 포함되었으며, 엔지니어링 전략과 도전 사항에 대한 토픽을 다루었습니다.
-#코드_쉘_2026 #인공지능 #엔지니어링_전략
+설명: Anthropic은 "Code with Claude 2026"를 산프란시스코에서 개최했습니다. 이 행사에서는 클로드 코드, 클로드 API 플랫폼 등과 관련된 라이브스트림 세션을 중심으로 진행되었습니다. 주요 주제는 개발자 경험, 자율성 기능, 모델 스테프 체인지, AI의 제품 아키텍처에 미치는 영향과 같았습니다. 이 행사에서는 GitHub, Vercel 등과 함께 AI 원천적 시작업들의 인사이트와 기술 전략 및 도전 사항에 대한 토론이 이루어졌습니다.
+#코드_쉽_2026 #클로드코드 #AI_아키텍처 #개발자_경험
 
-Translated content: Anthropic hosted "Code with Claude 2026" in San Francisco, featuring livestream sessions focused on Claude Code, the Claude API platform, and other projects. Key topics included developer experience, autonomy features, model step-changes, and the impact of AI on product architecture. Discussions included insights from GitHub, Vercel, and AI-native startups on engineering strategies and challenges.
-#hashtags: #코드_쉘_2026, #인공지능, #엔지니어링_전략
+#hashtags: #CodeWithClaude2026, #ClaudeCode, #AIArchitecture, #DeveloperExperience
 
 7 번째 검색 내용
 제목: 자바 뉴스 요약: OpenJDK JEPs, Azul Payara, WildFly, LangChain4j, OpenXava, Google ADK
@@ -67,75 +61,69 @@ Translated content: Anthropic hosted "Code with Claude 2026" in San Francisco, f
                             Java News Roundup: OpenJDK JEPs, Azul Payara, WildFly, LangChain4j, OpenXava, Google ADK
                          [/INST]
 주소: https://www.infoq.com/news/2026/05/java-news-roundup-may11-2026/
-설명: Java 주요 뉴스 요약: 2026년 5월 11일, OpenJDK JEPs를 포함한 JDK 27에 대한 3가지 목표; Azul Payara Community와 WildFly wado CLI 도구 소개; LangChain4j와 Google ADK의 포인트 릴리즈; Micronaut와 OpenXava의 메인테이너스 릴리즈.
-#자바 #오픈소스 #프레임워크 #릴리즈
-
-#hashtags: #JavaNews #OpenSource #Frameworks #Releases
+설명: Java 주요 뉴스 요약: 2026년 5월 11일, JDK 27에 대상인 3개의 OpenJDK JEP; Azul Payara Community와 WildFly wado CLI 도구 소개; LangChain4j와 Google ADK의 포인트 릴리즈; Micronaut와 OpenXava의 메인테이너스 릴리즈.
+#자바 #오픈소스 #프레임워크 #라이브러리
+#자바_뉴스 #자바_릴리즈 #자바_도구
 
 8 번째 검색 내용
-제목: 클라우드플레어와 스트라이프가 AI 에이전트를 사용하여 계정 생성, 도메인 구매, 제품으로 배포할 수 있습니다.
+제목: 클라우드플레어와 스트라이프가 AI 에이전트를 사용하여 계정 생성, 도메인 구매, 제품으로 배포할 수 있게 합니다.
 주소: https://www.infoq.com/news/2026/05/cloudflare-stripe-agent-commerce/
-설명: AI : Cloudflare와 Stripe가 AI 에이전트가 자동으로 클라우드 계정을 생성하고, 도메인을 등록하며, 구독을 시작하고, 제품화에 배포할 수 있는 프로토콜을 출시했습니다. Stripe는 식별과 결제를 처리하며, 월간 100달러의 기본 한도를 가지고 있습니다. 다른 주요 클라우드 공급자는 비교적 동등한 에이전트 주도 계정 제공을 제공하지 않습니다.
+설명: AI : Cloudflare와 Stripe가 AI 에이전트가 자동으로 클라우드 계정을 생성하고, 도메인을 등록하며, 구독을 시작하고, 제품화에 배포할 수 있는 프로토콜을 출시했습니다. Stripe는 식별과 결제를 처리하며, 월간 100달러의 기본 한도를 갖습니다. 다른 주요 클라우드 공급자는 비교적 동등한 에이전트 주도 계정 프로비저닝을 제공하지 않습니다.
 #인공지능 #클라우드 #스트라이프 #클라우드플레어
 
 Hashtags: #인공지능, #클라우드, #스트라이프, #클라우드플레어
 
 9 번째 검색 내용
-제목: 이동 API가 최근에 사용 가능한 기본 상태로 업데이트되어, 이제 역사 API의 대체 옵션으로 사용할 수 있습니다.
+제목: 이동 API가 최근에 사용 가능한 기본 버전으로 히스토리 API를 대체하였습니다.
 주소: https://www.infoq.com/news/2026/05/navigation-api-browser/
-설명: Navigation API는 싱글 페이지 애플리케이션의 클라이언트 측 탐색을 관리하는 새로운 인터페이스입니다. 2026년 1월부터 주요 브라우저에서 사용할 수 있습니다. 이것은 History API의 제한점을 해결하고 히스토리 관리를 향상시키는 통합된 이벤트 모델을 제공합니다. 주요 기능은 navigate 이벤트, 자동 URL 업데이트 및 통합 오류 처리입니다.
-#NavigationAPI #싱글페이지애플리케이션 #클라이언트측탐색 #히스토리관리
+설명: Navigation API는 싱글 페이지 애플리케이션의 클라이언트 측 탐색을 관리하는 새로운 인터페이스입니다. 2026년 1월부터 주요 브라우저에서 사용할 수 있으며, History API의 제한점을 해결하고 통합된 오류 처리와 향상된 히스토리 관리를 제공합니다. 주요 기능은 navigate 이벤트, 자동 URL 업데이트 및 통합 오류 처리입니다.
+#NavigationAPI #싱글페이지애플리케이션 #히스토리관리 #오류처리
 
-#hashtags: #SinglePageApplications #ClientSideNavigation #BrowserHistoryManagement
+#hashtags: #SinglePageApplications, #BrowserTechnologies, #WebDevelopment
 
 10 번째 검색 내용
-제목: 오픈아이 오픈소스로 공개한 심포니(Symphony)는 자율 코딩 에이전트 조직화를 위한 SPEC.md입니다.
+제목: [INST] 열린 소스로 공개된 OpenAI 심포니, 자율 코딩 에이전트 조직화를 위한 SPEC.md
+[/INST]
 주소: https://www.infoq.com/news/2026/05/openai-symphony-agents/
-설명: OpenAI Symphony는 프로젝트 관리 도구를 사용하여 다양한 코딩 에이전트를 조율하는 에이전트입니다. 개발자가 상호작용 코딩 세션을 관리하는 대신, Symphony는 "작업"을 각각 독립적으로 완료할 수 있도록 특정 에이전트에게 할당합니다. 작업이 완료되면 결과 출력을 검토하는 인간이 책임지게 됩니다.
+설명: OpenAI Symphony는 프로젝트 관리 도구를 사용하여 다양한 코딩 에이전트를 조정하는 에이전트 오레스테이터입니다. 개발자들이 상호작용 코딩 세션을 관리하는 대신, Symphony는 "작업"을 각각 독립적으로 완료까지 작업 에이전트에게 할당합니다. 작업이 완료되면 결과 출력을 검토하는 인간이 책임지게 됩니다.
+#OpenAI #Symphony #프로젝트_관리_도구
 
-#인공지능 #OpenAI #코딩_에이전트
+#hashtags: #OpenAI, #Symphony, #프로젝트_관리_도구
 
 11 번째 검색 내용
 제목: 네오뱅크 모노조 100팀과 12,000개의 dbt 모델을 통해 관리되는 데이터 메시를 구축합니다.
 주소: https://www.infoq.com/news/2026/05/monzo-data-mesh/
-설명: Monzo는 최근 데이터 웨어하우스를 100개 이상의 팀이 작업하고 있는 12,000개 이상의 dbt 모델을 지원하기 위해 리디자인했습니다. Monzo는 "메시" 접근 방식을 소개하여 웨어하우스 비용을 약 40% 감소시키고 데이터 전달 속도를 25% 향상시켰습니다.
+설명: Monzo는 최근 데이터 웨어하우스를 100개 이상의 팀이 작업하고 있으며 12,000개 이상의 dbt 모델을 지원하기 위해 다시 설계했습니다. Monzo는 "메시" 접근 방식을 소개하여 웨어하우스 비용을 약 40% 감소시키고 데이터 전달 속도를 25% 향상시킵니다.
 #데이터_웨어하우스 #메시_접근_방식 #모노조 #데이터_전달_속도 #비용_감소
 
 Translated sentence: Monzo recently redesigned its data warehouse to support more than 100 teams working on over 12,000 dbt models. Introducing a so-called "meshy" approach, Monzo cut warehouse costs by about 40% and improved data delivery speed by 25%.
-#databases #data_warehousing #Monzo #cost_savings #data_delivery_speed
-
-Hashtags added:
-1. #데이터베이스
-2. #데이터_웨어하우스
-3. #모노조
-4. #비용_감소
-5. #데이터_전달_속도
+#데이터_웨어하우스 #메시_접근_방식 #모노조 #데이터_전달_속도 #비용_감소
 
 12 번째 검색 내용
 제목: Ubuntu는 로컬 AI를 우선시하고 클라우드-초기 운영체제 통합을 선호합니다.
 주소: https://www.infoq.com/news/2026/05/ubuntu-on-device-ai/
-설명: Ubuntu는 AI 전략을 명시했습니다. 이를 산업 추세와 달리 클라우드 중심, AI-first 운영 체계로 향하는 것이 아니라, 미래의 릴리스에서는 지역 지능, 모듈화 설계 및 엄격한 사용자 제어를 중점으로 집중할 것을 말했습니다.
-#Ubuntu #AI전략 #지역지능 #모듈화설계
+설명: Ubuntu는 AI 전략을 명시하였습니다. 이를 산업 추세와 달리, 클라우드 중심, AI-first 운영 체계로의 비판적인 철학으로 간주합니다. 대신, 회사는 미래의 릴리스에서 지역 지능,  modular design, 그리고 엄격한 사용자 제어를 중점적으로 집중할 것입니다.
+#Ubuntu #AI전략 #지역지능 #모듈형설계
 
-Hashtags: #Ubuntu, #AIstrategy, #LocalIntelligence
+Hashtags: #Ubuntu, #AI전략, #지역지능, #모듈형설계
 
 13 번째 검색 내용
-제목: 구글은 reCAPTCHA의 후계자로 클라우드 악성 방어를 소개합니다.
+제목: 구글은 reCAPTCHA의 후계자로 클라우드 FRAUD 방어를 소개합니다.
 주소: https://www.infoq.com/news/2026/05/cloud-fraud-defense-recaptcha/
-설명: AI : 최근 Next '26 회의에서 Google는 reCAPTCHA의 후계자인 Google Cloud Fraud Defense를 소개했습니다. 플랫폼은 기본적인 보트 감지를 넘어 로그인, 계정 생성, 결제 흐름 전체에서 온라인 사기를 대처하는 데 도움이 됩니다. 조직은 의심스러운 행동을 감지하고 악용을 차단하며, 가짜 계정, 자동 공격, 거래 사기와 같은 것을 포함합니다.
-#인공지능 #사기방지 #GoogleCloudFraudDefense
+설명: AI : 최근 Next '26 회의에서 Google은 reCAPTCHA의 후계자인 Google Cloud Fraud Defense를 소개했습니다. 플랫폼은 기본적인 보트 감지를 넘어 로그인, 계정 생성, 결제 흐름 전체에서 온라인 사기를 대처하는 데 도움이 됩니다. 조직은 의심스러운 행동을 감지하고 악용을 차단하며, 가짜 계정, 자동 공격, 거래 사기와 같은 것을 포함합니다.
+#인공지능 #온라인사기방지 #GoogleCloudFraudDefense
 
-Hashtags: #인공지능, #사기방지, #GoogleCloudFraudDefense
+Hashtags: #인공지능 #온라인사기방지 #GoogleCloudFraudDefense
 
 14 번째 검색 내용
-제목: 마이크로소프트는 13.3인치 컴퓨터를 릴리스하며, 주요 배포 및 프론트엔드 업데이트가 있습니다.
+제목: 마이크로소프트는 13.3인치를 사용하고 주요 배포 및 앞부분 업데이트가 있는 Aspire를 발표합니다.
 주소: https://www.infoq.com/news/2026/05/aspire-13-3-release/
-설명: Microsoft는 Aspire 13.3을 발표했습니다. Azure, Kubernetes, 및 Compose와 같은 배포를 철거하기 위한 새로운 Aspire Destroy 명령을 소개합니다. 이 릴리스에서는 미리 보기에 Kubernetes 배포가 추가되었으며, Next.js와 Vite의 첫 번째 클래스 JavaScript 게시를 위한 기능이 도입되었습니다. 또한 브라우저 로그 캡처와 컨테이너 터널을 기본 사용 가능하게 설정한 것과 함께 여러 개별 변경 사항이 있습니다. 개발자들은 이러한 변경 사항을 검토해야 합니다.
-#Aspire13.3 #Microsoft #배포 #Kubernetes
-#Azure #Next.js #Vite #컨테이너 #터널 #로그캡처 #개발자
+설명: Microsoft는 Aspire 13.3을 발표했습니다. Azure, Kubernetes, 및 Compose와 같은 배포를 철거하기 위한 새로운 aspire destroy 명령을 소개합니다. 이 릴리스에서는 미리 보기에 Kubernetes 배포가 추가되었으며, Next.js와 Vite의 첫 번째 클래스 JavaScript 게시를 위한 기능이 도입되었습니다. 또한 브라우저 로그 캡처와 컨테이너 터널을 기본으로 사용하는 것과 여러 깨지는 변경 사항이 포함되었습니다. 개발자들은 이를 검토해야 합니다.
+#aspire13.3 #microsoft #배포 #Kubernetes #Azure
+#nextjs #Vite #컨테이너 #터널 #로그캡처 #브라우저 #미리보기 #깨지는변경사항 #개발자
 
 15 번째 검색 내용
-제목: 인간적 소개: 클로드 코드 자동화를 위한 루틴 도입
+제목: 인간적 소개: 클로드 코드 자동화용 루틴 도입
 
 (Note: The translation may not be perfect as it is a machine translation. Please review and make any necessary adjustments.)
 주소: https://www.infoq.com/news/2026/05/anthropic-routines-claude/
