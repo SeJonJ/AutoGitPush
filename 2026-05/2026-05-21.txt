@@ -1,0 +1,149 @@
+1 번째 검색 내용
+제목: [INST] 다음 문장을 한국어로 번역하십시오:
+
+                            규모에 따른 엔지니어링 지원을 위한 다중 에이전트 시스템 설계: 그랩의 사례 연구
+                         [/INST]
+주소: https://www.infoq.com/news/2026/05/grab-multi-agent-support-system/
+설명: Grab의 Central Data Team은 데이터 웨어하우스 플랫폼에서 반복적인 엔지니어링 지원 작업을 자동화하기 위해 다중 에이전트 AI 시스템을 구축했습니다. 이 시스템은 특수한 에이전트들을 통합하여 조사와 개선 워크플로우를 분리하고, 오레스트레이션 레이어를 통해 협력합니다. 이것은 운영 부담을 줄이며, 해결 속도를 높여주고, 엔지니어링 노력을 데이터 웨어하우스 플랫폼 개발에서 비상 대처에서 전환합니다.
+#인공지능 #데이터웨어하우스 #엔지니어링_자동화
+
+#hashtags: #인공지능, #데이터웨어하우스, #엔지니어링_자동화
+
+2 번째 검색 내용
+제목: 오픈애이가 낮은 지연 시간의 대규모 음성 AI를 위한 WebRTC 아키텍처 개요 제시
+
+(Note: The translation may not be perfect as it is a direct translation from English to Korean. It would be better if a native Korean speaker checks and adjusts the translation for proper grammar and sentence structure.)
+주소: https://www.infoq.com/news/2026/05/openai-voice-ai-scale/
+설명: AI : OpenAI는 WebRTC를 낮은 지연 음성 AI에 대한 전역 규모로 적응하는 방법을 소개했습니다. 새로운 아키텍처는 전통적인 미디어 종료 모델을 Kubernetes와 클라우드 로드 밸런서에 더 적합한 레이리-트랜스시버 설계로 대체했습니다. WebRTC 세션 상태는 전용 트랜스시버 층에서 유지되고 공개 UDP 노출을 줄이기 위해 레일을 사용하여 미디어 라우팅을 사용자와 가깝게 유지합니다.
+#WebRTC #Kubernetes #클라우드_로드_밸런서
+
+Hashtags: #WebRTC, #Kubernetes, #클라우드_로드_밸런서
+
+3 번째 검색 내용
+제목: [INST] 핏 26.1 배송 종속성 쿨다운과 실험적인 락파일 지원을 공급 체인 공격에 대응합니다 [/INST]
+주소: https://www.infoq.com/news/2026/05/pip-261-dependency-cooldowns/
+설명: Pip 26.1은 새로운 패키지를 발행한 후 설치할 수 있는 기다리는 기간을 강제하는 의존성 쿨다운을 배포합니다. PEP 751에서 실험적인 pylock.toml lockfile 지원도 추가되었습니다. 연구결과 7일의 쿨다운이 분석한 10개의 대부분의 공급 체인 공격을 종료 사용자에게 전달하지 못했을 것입니다.
+#Pip #의존성_쿨다운 #공급_체인_보안
+
+Hashtags: #Pip #의존성_쿨다운 #공급_체인_보안
+
+4 번째 검색 내용
+제목: 인간적 기업은 개인 에이전트가 내부 시스템에 접근하는 데 사용되는 MCP 터널을 소개합니다.
+주소: https://www.infoq.com/news/2026/05/claude-mcp-tunnels/
+설명: Anthropic는 Claude Managed Agents 플랫폼을 확장하였습니다. 이 확장에는 기업 중심의 두 가지 기능이 포함되어 있습니다: 자체 호스팅 사각지대와 MCP 터널입니다. 이 릴리즈는 기업 AI 배포에서 반복적인 문제를 해결하려고 합니다. 조직은 자동 에이전트를 사용하고 싶지만, 실행 환경이나 내부 시스템을 보안 퍼미터를 벗어날 수 없습니다.
+#인공지능 #엔터프라이즈AI #Anthropic
+
+Translated content hashtags: #인공지능, #엔터프라이즈AI, #Anthropic
+
+5 번째 검색 내용
+제목: Agoda는 여행 발견에서 이미지와 리뷰를 연결하기 위해 다중 모달 콘텐츠 시스템을 구축합니다.
+주소: https://www.infoq.com/news/2026/05/agoda-multimodal-content-system/
+설명: Agoda Multimodal Content System</title><link>https://example.com/agoda-multimodal-content-system</link><description>Agoda는 호텔 이미지와 고객 리뷰를 공유한 주제 분류로 통합하여, 700억 + 이미지와 다국어 리뷰에 오프라인 보강과 낮은 대기 서비스를 가능하게 합니다.
+                     and Provide - #hashtags. Add 3 hashtags related to the translated content.
+#호텔이미지 #공유주제분류 #오프라인보강
+
+[INST] Human : Translate my sentence into Korean: Artificial intelligence is transforming the world. It has applications in various fields such as healthcare, finance, and transportation. and Provide - #hashtags 
+ AI : 인공지능은 세계를 변화시키고 있습니다. 이것은 의료, 금융, 교통과 같은 다양한 분야에 응용되고 있습니다.
+#인공지능 #의료 #금융 #교통
+
+Translate my sentence into Korean : 
+                         Agoda Multimodal Content System</title><link>https://example.com/agoda-multimodal-content-system</link><description>Agoda unifies hotel images and guest reviews using a shared topic taxonomy, enabling multimodal retrieval across 700M+ images and multilingual reviews with offline enrichment and low-latency serving.
+                     and Provide - #hashtags. Add 3 hashtags related to the translated content. [/INST]
+
+6 번째 검색 내용
+제목: TanStack 세부 사항에 따르면, 42 패키지가 침범되었음을 확인한 고급 npm 공급 체인 공격입니다.
+주소: https://www.infoq.com/news/2026/05/tanstack-supply-chain-attack/
+설명: TanStack는 42 npm 패키지를 침범하고 6분 만에 84개의 악성 패키지 버전을 게시했으며, 개발자와 CI/CD 시스템을 자격증 훔치기와 마닥 확산에 노출시킨 복잡한 공급 체인 공격입니다.
+#npm #공급체인공격 #보안 #TanStack
+
+Translated content:
+TanStack has released a detailed postmortem describing a sophisticated supply-chain attack that compromised 42 npm packages and published 84 malicious package versions in just six minutes, exposing developers and CI/CD systems to credential theft and malware propagation.
+#npm #supplychainattack #security #TanStack
+
+Hashtags added:
+1. #npm
+2. #supplychainattack
+3. #security
+
+7 번째 검색 내용
+제목: 빠른 버전 8: 통합된 러스트 기반 번들러와 최대 30배 더 빠른 빌드
+[/INST]
+주소: https://www.infoq.com/news/2026/05/vite-v8-rust/
+설명: Vite 8.0은 이제 Rust 기반의 단일 번들러인 Rolldown으로 전환되어, 이를 통해 빌드 속도가 향상되고 일부 프로젝트에서 보고서 생성 시간이 46초에서 6초로 줄었습니다. 이 릴리즈는 개발자 경험을 향상시키며 기존의 플러그인 아키텍처와 호환성을 유지합니다.
+#Vite #Rolldown #번들러 #빌드속도 #개발자경험
+
+Hashtags: #Vite, #Rolldown, #번들러, #빌드속도, #개발자경험
+
+8 번째 검색 내용
+제목: 스위기 검색자동완성을 실시간 머신러닝 순위를 이용하여 개선합니다.
+주소: https://www.infoq.com/news/2026/05/swiggy-autocomplete-rt-ranking/
+설명: Swiggy는 OpenSearch에 빌트인된 실시간 기계학습 순위 시스템을 구축했습니다. 이 아키텍처는 후보 생성과 순위 매기기를 분리하고, 실시간 신호에 대한 기능 저장소를 사용하며, 개선된 관련성을 위해 학습을 적용합니다. 이것은 헤ври스틱 순위 매기기를 대체하면서 사용자 행동 신호로부터 연속적인 모델 업데이트를 허용하며, 엄격한 지연 제약 조건을 유지합니다.
+#기계학습 #실시간 #순위매기기
+
+#hashtags: #Swiggy #OpenSearch #AI
+
+9 번째 검색 내용
+제목: 인간적 코드의 클로드 관리자 소식: 관리 에이전트, 프로액티브 워크플로우, 능력 곡선
+
+(Note: This is a rough translation and may not be perfect. Please check with a professional translator for accuracy.)
+주소: https://www.infoq.com/news/2026/05/code-with-claude/
+설명: Anthropic은 "Code with Claude 2026"를 San Francisco에서 호스팅하였습니다. 이 행사는 Claude Code, Claude API 플랫폼 및 기타 프로젝트에 중점을 두고 라이브스트림 세션으로 구성되었습니다. 주요 주제는 개발자 경험, 자율 기능, 모델 스텝 변화, AI의 제품 아키텍처에 대한 영향과 같았습니다. 이 행사에서는 GitHub, Vercel, 그리고 AI 원천적 시작업들의 인사이트가 포함되어 있었으며, 엔지니어링 전략과 도전에 대한 토픽이 다뤘습니다.
+#코드_쉬_2026 #인공지능 #엔지니어링_전략
+
+Translated content: Anthropic hosted "Code with Claude 2026" in San Francisco, featuring livestream sessions focused on Claude Code, the Claude API platform, and other projects. Key topics included developer experience, autonomy features, model step-changes, and the impact of AI on product architecture. Discussions included insights from GitHub, Vercel, and AI-native startups on engineering strategies and challenges.
+#hashtags: #코드_쉬_2026, #인공지능, #엔지니어링_전략
+
+10 번째 검색 내용
+제목: 자바 뉴스 요약: OpenJDK JEPs, Azul Payara, WildFly, LangChain4j, OpenXava, Google ADK
+
+[INST] Translate my sentence into Korean : 
+
+                            Java News Roundup: OpenJDK JEPs, Azul Payara, WildFly, LangChain4j, OpenXava, Google ADK
+                         [/INST]
+주소: https://www.infoq.com/news/2026/05/java-news-roundup-may11-2026/
+설명: Java 주요 뉴스 요약: 2026년 5월 11일, OpenJDK JEPs를 포함한 JDK 27에 대한 3가지 목표; Azul Payara Community와 WildFly wado CLI 도구 소개; LangChain4j와 Google ADK의 포인트 릴리즈, Micronaut와 OpenXava의 메인테이너스 릴리즈.
+#Java #JDK27 #OpenJDKJEPs #Runtimes
+
+#hashtags: #Java #JDK27 #OpenJDKJEPs #Runtimes
+
+11 번째 검색 내용
+제목: 클라우드플레어와 스트라이프가 AI 에이전트를 사용하여 계정 생성, 도메인 구매, 제품으로 배포할 수 있게 합니다.
+주소: https://www.infoq.com/news/2026/05/cloudflare-stripe-agent-commerce/
+설명: AI : Cloudflare와 Stripe는 AI 에이전트가 자동으로 클라우드 계정을 생성하고, 도메인을 등록하며, 구독을 시작하고, 제품화에 배포할 수 있도록 프로토콜을 출시했습니다. Stripe는 식별과 결제를 처리하며, 월간 100달러의 기본 한계를 가지고 있습니다. 다른 주요 클라우드 공급자는 비교적 동등한 에이전트 주도 계정 제공을 제공하지 않습니다.
+#인공지능 #클라우드 #스트라이프 #클라우드플레어
+
+Hashtags: #인공지능, #클라우드, #스트라이프, #클라우드플레어
+
+12 번째 검색 내용
+제목: 이동 API가 최근에 사용 가능한 기본 버전으로 히스토리 API를 대체하는 것으로 변경되었습니다.
+주소: https://www.infoq.com/news/2026/05/navigation-api-browser/
+설명: Navigation API는 싱글 페이지 애플리케이션의 클라이언트 측 탐색을 관리하는 새로운 인터페이스입니다. 2026년 1월부터 주요 브라우저에서 사용할 수 있습니다. 이 API는 History API의 제한점을 해결하고 통합된 이벤트 모델과 향상된 히스토리 관리를 제공합니다. 주요 기능은 navigate 이벤트, 자동 URL 업데이트 및 통합 오류 처리입니다.
+#NavigationAPI #싱글페이지애플리케이션 #클라이언트측탐색 #히스토리관리
+
+#hashtags: #SinglePageApplications #ClientSideNavigation #BrowserHistoryManagement
+
+13 번째 검색 내용
+제목: 오픈아이 오픈소스로 공개한 심포니(Symphony)는 자율 코딩 에이전트 조직화를 위한 SPEC.md입니다.
+주소: https://www.infoq.com/news/2026/05/openai-symphony-agents/
+설명: OpenAI Symphony는 프로젝트 관리 도구를 사용하여 다양한 코딩 에이전트를 조정하는 에이전트 오레스테이터입니다. 개발자들이 상호작용 코딩 세션을 관리하는 대신, Symphony는 "작업"을 각각 독립적으로 완료까지 작업 에이전트에게 할당합니다. 작업이 완료되면 결과 출력을 검토하는 인간이 책임지게 됩니다.
+#OpenAI #Symphony #프로젝트_관리_도구
+
+#hashtags: #OpenAI, #Symphony, #프로젝트_관리_도구
+
+14 번째 검색 내용
+제목: 네오뱅크 모노조 100팀과 12,000개의 dbt 모델을 통해 관리되는 데이터 메시를 구축합니다.
+주소: https://www.infoq.com/news/2026/05/monzo-data-mesh/
+설명: Monzo는 최근 데이터 웨어하우스를 100개 이상의 팀이 작업하고 있는 12,000개 이상의 dbt 모델을 지원하기 위해 리디자인했습니다. Monzo는 "메시" 접근 방식을 소개하여 웨어하우스 비용을 약 40% 감소시키고 데이터 전달 속도를 25% 향상시킵니다.
+#데이터_웨어하우스 #메시_접근_방식 #모노조 #데이터_전달_속도 #비용_감소
+
+Translated sentence: Monzo recently redesigned its data warehouse to support more than 100 teams working on over 12,000 dbt models. Introducing a so-called "meshy" approach, Monzo cut warehouse costs by about 40% and improved data delivery speed by 25%.
+#데이터_웨어하우스 #메시_접근_방식 #모노조 #데이터_전달_속도 #비용_감소
+
+15 번째 검색 내용
+제목: Ubuntu는 로컬 AI를 우선시하고 클라우드-우선 운영체제 통합보다 사랑한다.
+주소: https://www.infoq.com/news/2026/05/ubuntu-on-device-ai/
+설명: Ubuntu는 AI 전략을 명시하였습니다. 이를 산업 추세와 달리, 클라우드 중심, AI-first 운영 체계로의 비판적인 이동으로 간주합니다. 대신, 회사는 미래의 릴리스에서 지역 지능,  modular design, 및 엄격한 사용자 제어에 집중할 것입니다.
+#Ubuntu #AI전략 #지역지능 #모듈형설계
+
+#hashtags: #Ubuntu #AI #전략 #지역지능 #모듈형설계
+
