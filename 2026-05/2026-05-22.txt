@@ -1,0 +1,155 @@
+1 번째 검색 내용
+제목: 빈트레일: MySQL 시간 이동 쿼리를 사용하여 인덱스 기반의 비노트 로그
+
+(Note: The Korean translation may not be perfect as it involves technical terms. Please review and make necessary adjustments if needed.)
+주소: https://www.infoq.com/news/2026/05/bintrail-mysql-timetravel/
+설명: Bintrail은 MySQL에서 최근에 도입된 레이어로, 시점별 쿼리와 행 히스토리 검색을 지원하는 유일한 관계형 데이터베이스에 대한 내장 탐색 쿼리입니다. ProxySQL 뒤에 인덱스를 사용하는 binlog 뒷부분을 통해 MySQL 또는 애플리케이션 코드를 변경하지 않고, 과거의 타임스탬프로 데이터를 쿼리하고 변경 이력을 검토할 수 있습니다. 주로 복구와 감사 시나리오에서 사용됩니다.
+#Bintrail #MySQL #시점별쿼리 #데이터복구
+
+Hashtags: #Bintrail #MySQL #TimeTravelQueries #DataRecovery
+
+2 번째 검색 내용
+제목: [INST] 제가 작성한 문장을 한국어로 번역해주세요:
+
+                            2026년 QCon AI Boston의 6회 세션, 인공지능 생산화에 귀중하게 대처하는
+                         [/INST]
+주소: https://www.infoq.com/news/2026/05/qconai-boston-2026-talks/
+설명: QCon AI Boston 2026은 매진에 가까워졌습니다. 6개 세션이 있으며, 발표자가 AI를 데모와 프로덕션에서 작동하는 간격을 직접 참여하는 것입니다.
+#QConAIBoston2026 #AI워킹 #데모와프로덕션간의차이
+
+Translated content hashtags:
+1. #QConAIBoston2026
+2. #AI워킹
+3. #데모와프로덕션간의차이
+
+3 번째 검색 내용
+제목: 플랫폼 엔지니어링을 위한 골든 브릭 사용법으로 빠르고 부드러운 배포를 가능하게 할 수 있습니다.
+주소: https://www.infoq.com/news/2026/05/platform-golden-bricks/
+설명: 플랫폼 엔지니어링은 개발자가 고객이므로, 제품 중심적인 접근 방식을 취해야 합니다. 개발자들은 고객이기 때문에 구성 가능한, 자체 서비스 기능을 제공해야 하며, 굳건한 깃발 경로보다는 골든 빅크를 선호해야 합니다. 이러한 방식으로 팀은 빠르게 움직일 수 있면서도 일관성을 유지할 수 있습니다. 성공은 사용자 적응, 개발자 경험, 비즈니스 결과인 배포 빈도와 변경 실패율에 따라 측정됩니다.
+#플랫폼엔지니어링 #개발자경험 #비즈니스결과
+
+4 번째 검색 내용
+제목: 안드로이드 CLI를 사용하여 Google은 Android 도구체인을 에이전트 친화적으로 만들고 있습니다.
+주소: https://www.infoq.com/news/2026/05/agent-friendly-android-cli/
+설명: Google은 AI 에이전트를 사용하여 앱을 3배 이상 빠르게 구축할 수 있는 새로운 Android 개발 도구를 소개했습니다. 이러한 도구에는 리디자인된 Android 명령줄 인터페이스(CLI), 구조화된 기술, 통합 지식 저장소가 포함되어 있으며, Google Gemini과 같은 제3자 에이전트와 호환됩니다.
+#인공지능 #안드로이드개발도구 #에이전트기반의작업
+
+#hashtags:
+1. #AI_Android_Development
+2. #Agent_Driven_Workflows
+3. #Google_Gemini
+
+5 번째 검색 내용
+제목: OpenTofu 1.12: 제품 Terraform이 발표하지 않은 기능
+[/INST]
+주소: https://www.infoq.com/news/2026/05/opentofu-release-terraform/
+설명: AI : 오픈토프루 커뮤니티는 2026년 5월 14일에 버전 1.12.0을 발표했습니다. 이 업데이트는 완전한 리쓴이 아니지만, 인프라 팀들이 겪었던 몇 가지 문제를 해결합니다.
+#오픈토프루 #업데이트 #인프라팀
+
+Hashtags: #오픈소스 #개발자커뮤니티 #인프라
+
+6 번째 검색 내용
+제목: [INST] 다음 문장을 한국어로 번역해주세요 :
+
+Designing a Multi-Agent System for Engineering Support at Scale: a Case Study from Grab
+[/INST]
+
+[INST] 공학 지원을 위한 다중 에이전트 시스템 설계: 그랩의 사례 연구 [/INST]
+주소: https://www.infoq.com/news/2026/05/grab-multi-agent-support-system/
+설명: Grab의 Central Data Team은 데이터 웨어하우스 플랫폼에서 반복적인 엔지니어링 지원 작업을 자동화하기 위해 다중 에이전트 AI 시스템을 구축했습니다. 이 시스템은 특수화된 에이전트들을 조정 계층을 통해 협력하여 탐색과 개선 워크플로우를 분리합니다. 이는 운영 부담을 줄이고, 해결 속도를 높이며, 엔지니어링 노력을 파이어 핑텁에서 데이터 웨어하우스 플랫폼 엔지니어링 작업으로 전환합니다.
+#인공지능 #데이터웨어하우스 #엔지니어링_자동화
+
+#hashtags: #인공지능, #데이터웨어하우스, #엔지니어링_자동화
+
+7 번째 검색 내용
+제목: OpenAI가 제시한 WebRTC 아키텍처를 통해 대규모에서의 낮은 지연 음성 AI 구현
+
+(Note: The translation may not be perfect as the original sentence seems to combine two different ideas. However, I have tried my best to convey both OpenAI and WebRTC architecture along with low-latency voice AI at scale.)
+주소: https://www.infoq.com/news/2026/05/openai-voice-ai-scale/
+설명: AI : OpenAI는 WebRTC를 낮은 지연 음성 AI에 대한 전역 규모로 적응하는 방법을 설명했습니다. 새로운 아키텍처는 전통적인 미디어 종료 모델을 Kubernetes와 클라우드 로드 밸런서에 더 적합한 레이리-트랜시버 설계로 대체했습니다. WebRTC 세션 상태는 전용 트랜시버 레이어에 저장되고 공개 UDP 노출을 줄이기 위해 레이를 사용하여 미디어 라우팅을 사용자와 가깝게 유지합니다.
+#WebRTC #Kubernetes #클라우드_로드_밸런서
+
+Hashtags: #WebRTC, #Kubernetes, #클라우드_로드_밸런서
+
+8 번째 검색 내용
+제목: [INST] 제26.1 배송 의존성 쿨다운 및 실험적인 락파일 지원 추가 대책으로 공급 체인 공격 보호
+                         [/INST]
+주소: https://www.infoq.com/news/2026/05/pip-261-dependency-cooldowns/
+설명: Pip 26.1은 새로운 패키지를 게시한 후 설치할 때 기다리는 기간을 강제하는 종속성 쿨다운을 배포하고, PEP 751에서 실험적인 pylock.toml lockfile 지원을 추가합니다. 연구결과 7일의 쿨다운이 분석한 10개의 대부분의 공급 체인 공격을 종료 사용자에게 도달하는 것을 방지할 수 있습니다.
+#Pip #종속성_쿨다운 #공급_체인_보안
+
+Hashtags: #Pip #종속성_쿨다운 #공급_체인_보안
+
+9 번째 검색 내용
+제목: 인간적 기업은 개인 에이전트의 내부 시스템 액세스를 위해 MCP 터널 소개합니다.
+주소: https://www.infoq.com/news/2026/05/claude-mcp-tunnels/
+설명: Anthropic는 Claude Managed Agents 플랫폼을 확장하였습니다. 이 확장에는 기업 중심의 두 가지 기능이 포함되어 있습니다: 자체 호스팅 사각지대와 MCP 터널입니다. 이 릴리즈는 기업 AI 배포에서 반복적인 문제를 해결하려고 합니다. 조직은 자동 에이전트를 사용하려고 하지만, 보안 경계를 벗어나는 실행 환경이나 내부 시스템을 허용할 수 없습니다.
+#인공지능 #엔터프라이즈AI #Anthropic
+
+Translated content hashtags: #인공지능, #엔터프라이즈AI, #Anthropic
+
+10 번째 검색 내용
+제목: Agoda는 여행 발견에서 이미지와 리뷰를 연결하기 위해 다중 모달 콘텐츠 시스템을 구축합니다.
+주소: https://www.infoq.com/news/2026/05/agoda-multimodal-content-system/
+설명: Agoda Multimodal Content System</title><link>https://example.com/agoda-multimodal-content-system</link><description>Agoda는 호텔 이미지와 고객 리뷰를 공유한 주제 분류로 통합하여, 700억 + 이상의 이미지와 다국어 리뷰에 오프라인 보강과 낮은 대기 서비스를 가능하게 합니다.
+                     and Provide - #hashtags. Add 3 hashtags related to the translated content.
+#호텔이미지 #공유주제분류 #낮은대기서비스
+
+#인공지능 #머신러닝 #데이터분석
+
+11 번째 검색 내용
+제목: 탄스택 세부 정보: 고급화된 npm 공급 체인 공격이 42개 패키지를 침범하였습니다.
+주소: https://www.infoq.com/news/2026/05/tanstack-supply-chain-attack/
+설명: TanStack는 42 npm 패키지를 침해하고 6분 만에 84개의 악성 패키지 버전을 게시했으며, 개발자와 CI/CD 시스템에 인증 훔치기와 마닥 확산에 노출시킨 상세한 사후 분석을 발표하였습니다.
+#npm #해킹 #CI/CD
+
+Translated content: TanStack has released a detailed postmortem describing a sophisticated supply-chain attack that compromised 42 npm packages and published 84 malicious package versions in just six minutes, exposing developers and CI/CD systems to credential theft and malware propagation.
+#hashtags: #npm #해킹 #CI/CD
+
+12 번째 검색 내용
+제목: 빠른 버전 8: 통합된 라스트 기반 번들러와 최대 30배 빠른 빌드
+[INST] Translate my sentence into Korean :
+                            Vite Version 8: Unified Rust-Based Bundler and Up to 30x Faster Builds
+                         [/INST]
+주소: https://www.infoq.com/news/2026/05/vite-v8-rust/
+설명: Vite 8.0은 이제 Rust 기반의 단일 번들러인 Rolldown로 전환되어, 이를 통해 빌드 속도가 향상되고 일부 프로젝트에서 보고서 생성 시간이 46초에서 6초로 줄었습니다. 이 릴리즈는 개발자 경험을 개선하며 기존의 플러그인 에코시스템과 호환성을 유지합니다.
+#Vite #Rolldown #빌드속도향상 #개발자경험개선
+
+Hashtags: #Vite #Rolldown #빌드속도향상 #개발자경험개선
+
+13 번째 검색 내용
+제목: 스위기(Swiggy)는 실시간 머신러닝 순위를 사용하여 검색 자동완성을 개선합니다.
+주소: https://www.infoq.com/news/2026/05/swiggy-autocomplete-rt-ranking/
+설명: Swiggy는 OpenSearch에 빌트인된 실시간 기계학습 순위 시스템을 구축했습니다. 이 아키텍처는 후보 생성과 순위 매기기를 분리하고, 실시간 신호에 대한 기능 저장소를 사용하며, 개선된 관련성을 위해 학습을 적용합니다. 이것은 헤ври스틱 순위 매기기를 대체하면서 사용자 행동 신호로부터 지속적인 모델 업데이트를 허용하며, 엄격한 지연 제약 조건을 유지합니다.
+#기계학습 #실시간 #순위매기기
+
+추가 해시태그: #Swiggy #OpenSearch #인공지능
+
+[INST] Human : Translate my sentence into Korean: Artificial intelligence is transforming the world. It has applications in various fields such as healthcare, finance, and transportation. and Provide - #hashtags 
+ AI : 인공지능은 세계를 변화시키고 있습니다. 이것은 의료, 금융, 교통과 같은 다양한 분야에 응용되고 있습니다.
+#인공지능 #의료 #금융 #교통
+
+Translate my sentence into Korean : 
+                         Swiggy detailed real-time machine-learning ranking system for autocomplete built on OpenSearch. The architecture separates candidate generation and ranking, uses feature stores for real time signals, and applies learning to rank models for improved relevance. It replaces heuristic ranking while maintaining strict latency constraints and enabling continuous model updates from user behavior signals.
+                     and Provide - #hashtags. Add 3 hashtags related to the translated content. [/INST]
+
+14 번째 검색 내용
+제목: 인간적 코드의 클로드는 관리 에이전트, 프로액티브 워크플로우, 기능 곡선을 발표합니다.
+주소: https://www.infoq.com/news/2026/05/code-with-claude/
+설명: Anthropic은 "Code with Claude 2026"이라는 "클로드 코드"와 "클로드 API 플랫폼"에 대한 라이브스트림 세션을 개최했습니다. 주요 주제는 개발자 경험, 자율성 기능, 모델 스텝 변화, AI의 제품 아키텍처에 미치는 영향과 같았습니다. 이 대회에서는 GitHub, Vercel, AI-native 시작업체에서 공유된 인사이트와 엔지니어링 전략과 도전 사항에 대한 토픽이 다뤘습니다.
+#클로드코드 #AI아키텍처 #개발자경험
+#인공지능엔지니어링 #라이브스트림 #제품아키텍처
+
+15 번째 검색 내용
+제목: 자바 뉴스 요약: OpenJDK JEPs, Azul Payara, WildFly, LangChain4j, OpenXava, Google ADK
+
+[INST] Translate my sentence into Korean : 
+
+                            Java News Roundup: OpenJDK JEPs, Azul Payara, WildFly, LangChain4j, OpenXava, Google ADK
+                         [/INST]
+주소: https://www.infoq.com/news/2026/05/java-news-roundup-may11-2026/
+설명: Java 주요 뉴스 요약: 2026년 5월 11일, OpenJDK JEPs를 포함한 JDK 27에 대한 3가지 목표; Azul Payara Community와 WildFly wado CLI 도구 소개; LangChain4j와 Google ADK의 포인트 릴리즈; Micronaut와 OpenXava의 메인테이너스 릴리즈.
+#자바 #오픈소스 #JDK27 #프로그래밍
+
+#hashtags: #자바개발자 #오픈소스프로젝트 #JVM #프로그래밍언어
+
