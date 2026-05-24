@@ -1,129 +1,137 @@
 1 번째 검색 내용
+제목: AWS MCP 서버가 GA에 도달하며, 전체 API 커버리지와 IAM 기반 관리를 포함합니다.
+주소: https://www.infoq.com/news/2026/05/aws-mcp-ga/
+설명: AWS는 최근에 관리형 모델 컨텍스트 프로토콜(MCP) 서버를 일반적으로 사용할 수 있게 되었습니다. AI 코딩 에이전트는 AWS API, 문서, 및 운영 워크플로우를 표준 인터페이스를 통해 제어된 접근을 제공합니다. 이것은 AI 에이전트와 AWS 서비스를 연결하는 더 안전하고 감사할 수 있는 방법입니다.
+#AWS #인공지능 #보안 #감사성 #API
+
+Translated content hashtags: #AWS, #인공지능, #보안, #감사성, #API
+
+2 번째 검색 내용
 제목: 구글 클라우드는 빅퀴어에서 엔진 간 아이스버그 지원 소개
 
-(Note: The translation may not be perfect as it is a technical term. Please verify the accuracy if needed.)
+(Note: The translation may not be perfect as it is a technical term. Please confirm the accuracy with a professional translator if needed.)
 주소: https://www.infoq.com/news/2026/05/google-cross-engine-iceberg/
-설명: AI : 지난 달의 Apache Iceberg 슬랙에서 Google은 Apache Iceberg를 BigQuery에 대한 새로운 상호 운용성 기능을 발표했습니다. 서버리스 Iceberg REST 카탈로그 미리 보기는 팀이 BigQuery와 Spark, Flink, Trino와 같은 엔진에서 동일한 Apache Iceberg 테이블을 생성, 업데이트 및 쿼리할 수 있도록 상호 운용성을 제공합니다.
+설명: AI : 지난 달의 Apache Iceberg 슬롯에서 Google은 Apache Iceberg를 BigQuery에 대한 새로운 상호 운용성 기능을 발표했습니다. 서버리스 Iceberg REST 카탈로그 미리보기는 팀이 BigQuery와 Spark, Flink, Trino와 같은 엔진에서 동일한 Apache Iceberg 테이블을 생성, 업데이트 및 쿼리할 수 있도록 상호 운용성을 제공합니다.
 #ApacheIceberg #BigQuery #상호운용성
 
 Hashtags: #ApacheIceberg, #BigQuery, #Interoperability
 
-2 번째 검색 내용
-제목: 우버는 실시간 신호와 리스트 위치 순위를 사용하여 레스토랑 추천을 개선합니다.
-주소: https://www.infoq.com/news/2026/05/uber-eats-ranking-system/
-설명: Uber는 Uber Eats Home Feed 추천 시스템을 근접 실시간 사용자 시퀘언스 기능과 생성형 리커머서 모델로 업데이트합니다. 시스템은 수동으로 만든 기능에서 변환기 기반 시퀘언스 모델로 진화하며, 기능의 신선도를 24시간에서 초당 줄여고, 점수 기반의 포인트와 실시간 개인화를 위한 컨텍스트 랭킹을 위해 리스트 기반의 GenRec으로 전환됩니다.
-#Uber #UberEats #인공지능 #추천시스템
-#실시간개인화 #컨텍스트랭킹
-
 3 번째 검색 내용
-제목: InfoQ는 고급 소프트웨어 전문가들에게 온라인 AI 공학 코호트와 인증을 출시합니다.
+제목: 우버는 실시간 신호와 목록별 순위 기법을 사용하여 식당 추천을 개선합니다.
+주소: https://www.infoq.com/news/2026/05/uber-eats-ranking-system/
+설명: Uber는 Uber Eats Home Feed 추천 시스템을 근접 실시간 사용자 시퀘언스 기능과 생성형 리커머서 모델로 업데이트합니다. 시스템은 수동으로 설계된 기능에서 변환기 기반 시퀘언스 모델로 진화하며, 기능의 신선도를 24시간에서 초당 줄여고, 점수 기반의 포인트와 실시간 개인화를 위한 컨텍스트 랭킹을 향상시키기 위해 리스트 기반의 GenRec으로 전환됩니다.
+#인공지능 #UberEats #추천시스템
+
+Hashtags: #인공지능, #UberEats, #추천시스템
+
+4 번째 검색 내용
+제목: InfoQ가 온라인 AI 공학 코호트와 인증을 senior 소프트웨어 전문가들에게 출시합니다.
 주소: https://www.infoq.com/news/2026/05/ai-engineering-certification-pro/
-설명: InfoQ는 생산 AI 시스템에 대한 고급 실무자를 위한 온라인 AI 엔지니어링 인증을 5주간 출시했습니다. RAG, 에이전트, AI 플랫폼, evals, 신뢰도, 운영 상정과 관련된 내용을 포함합니다.
+설명: InfoQ는 생산 AI 시스템에 대한 고급 실무자를 위한 온라인 AI 엔지니어링 인증을 5주간 출시했습니다. RAG, 에이전트, AI 플랫폼, evals, 신뢰도, 운영 상이점 등을 포함합니다.
 #AI엔지니어링인증 #생산AI시스템 #고급실무자
 
 #hashtags: #AI #인공지능 #InfoQ
-추가 해시태그: #AI엔지니어링 #실무자 #생산AI시스템 #인증프로그램
-
-4 번째 검색 내용
-제목: 디스코드는 스컬라DB를 대규모 크기로 관리하기 위해 자동화를 중심으로 데이터베이스 작업을 재구성합니다.
-주소: https://www.infoq.com/news/2026/05/discord-scylladb-automation/
-설명: Discord는 새로운 내부 오케스트레이션 프레임워크인 Scylla Control Plane(SCP)를 기반으로 데이터베이스 작업을 재구성하여, 이전에 수동 작업으로 며칠 걸리는 대규모 ScyllaDB 클러스터 관리 작업을 자동화할 수 있게 되었습니다.
-#데이터베이스 #ScyllaDB #Discord
+추가 해시태그: #머신러닝 #데이터과학 #AI엔지니어링
 
 5 번째 검색 내용
+제목: 디스코드는 스쿼리DB를 대규모 규모로 관리하기 위해 자동화를 중심으로 데이터베이스 작업을 재구성합니다.
+주소: https://www.infoq.com/news/2026/05/discord-scylladb-automation/
+설명: Discord는 새로운 내부 오케스트레이션 프레임워크인 Scylla Control Plane(SCP)를 기반으로 데이터베이스 작업을 재구성하여, 이전에 수동 작업으로 일주일 소요되는 대규모 ScyllaDB 클러스터 관리 작업을 자동화할 수 있게 되었습니다.
+#데이터베이스 #ScyllaDB #Discord
+
+6 번째 검색 내용
 제목: xAI 는 Grok Skills를 발표하고, 응답 API를 업데이트한 도구입니다.
 [INST] Translate my sentence into Korean: xAI Releases Grok Skills and Updates Tool Calling Responses API [/INST]
 주소: https://www.infoq.com/news/2026/05/xai-grok-skills/
 설명: xAI는 Grok Skills와 함께 Responses API를 위한 Grok 4.3의 향상 사항을 발표했습니다. 이로 인해 모델은 모든 대화에서 유지되는 持久적인 사용자 지정 지식을 보유할 수 있습니다.
-#인공지능 #xAI #Grok_Skills
+#xAI #GrokSkills #ResponsesAPI
 
-6 번째 검색 내용
-제목: 클라우드플레어는 브라우저를 실행하여 리빌드한 에이전트 인프라스트럭처와 6층 플랫폼으로 에이전트 인프라스트럭처 스택을 완성합니다.
-주소: https://www.infoq.com/news/2026/05/cloudflare-agent-platform-stack/
-설명: Cloudflare는 컨테이너 플랫폼에서 Browser Run을 다시 구축하여, 4배 높은 동시성과 50% 더 빠른 응답 시간을 제공합니다. 업그레이드는 ше스 레이어 에이전트 인프라스트럭처 스택의 완성을 이루며: 컴퓨팅(Dynamic Workers + Sandboxes), 오리진(Dynamic Workflows), 메모리(Agent Memory), 브라우징(Browser Run), 상업(Stripe Projects).
-
-#클라우드플레어 #컨테이너플랫폼 #동시성 #응답시간
+#hashtags:
+1. #인공지능
+2. #NLP
+3. #대화형_인공지능
 
 7 번째 검색 내용
-제목: 빈트레일: MySQL 타임 트래블 쿼리를 사용하여 인덱스된 비노그 로그
-
-(Note: The translation may not be perfect as it involves technical terms and specific product names. However, the meaning should be conveyed accurately.)
-주소: https://www.infoq.com/news/2026/05/bintrail-mysql-timetravel/
-설명: Bintrail은 MySQL에서 최근에 도입된 레이어로, 시점별 쿼리와 행 히스토리 검색을 지원하는 유일한 관계형 데이터베이스에 대한 원천적인 질의 기능입니다. ProxySQL 뒤에 인덱싱된 비노트 로그를 사용하여 MySQL 또는 애플리케이션 코드를 변경하지 않고, 과거 타임스탬프에 대한 데이터 쿼리와 변경 이력 검토를 지원합니다. 주로 복구 및 감사 시나리오에 사용됩니다.
-#Bintrail #MySQL #복구 #감사
-
-#hashtags: #관계형데이터베이스 #비노트로그 #ProxySQL
+제목: 클라우드플레어가 브라우저를 실행하여 리빌드하고 6층 플랫폼을 사용하여 에이전트 인프라스트럭처 스택을 완성합니다.
+주소: https://www.infoq.com/news/2026/05/cloudflare-agent-platform-stack/
+설명: Cloudflare는 컨테이너 플랫폼에서 Browser Run을 다시 구축하여, 4배 높은 동시성과 50% 더 빠른 응답 시간을 제공했습니다. 업그레이드는 6계층의 에이전트 인프라스트럭처 스택을 완성합니다: 컴퓨팅(Dynamic Workers + Sandboxes), 오리진(Dynamic Workflows), 메모리(Agent Memory), 브라우징(Browser Run), 상업(Stripe Projects).
+#클라우드플레어 #컨테이너플랫폼 #동시성 #응답시간
+#인프라스트럭처 #에이전트인프라스트럭처 #브라우징 #상업
+#클라우드서비스 #컨테이너화 #웹사이트 성능 #동시 요청 처리 능력
 
 8 번째 검색 내용
-제목: [INST] 제가 작성한 문장을 한국어로 번역해주세요:
+제목: 빈트레일: MySQL 시간 이동 쿼리를 사용하여 인덱스 기반의 비노트 로그
 
-                            2026년 QCon AI Boston에서 열린 6개 세션: AI 생산화를 귀중하게 취급합니다.
-                         [/INST]
-주소: https://www.infoq.com/news/2026/05/qconai-boston-2026-talks/
-설명: QCon AI Boston 2026은 매진에 가까워졌습니다. speaker들이 AI의 demo와 production 간 차이를 직접적으로 대화하는 6개 세션이 있습니다.
-#QConAIBoston2026 #AIinProduction #DemoToProduction
+(Note: The translation may not be perfect as it involves technical terms. Please review and make necessary adjustments if needed.)
+주소: https://www.infoq.com/news/2026/05/bintrail-mysql-timetravel/
+설명: Bintrail은 MySQL에서 최근에 도입된 레이어로, 시점별 쿼리와 행 히스토리 검색을 지원하는 유일한 관계형 데이터베이스에 대한 원천적인 질의 기능입니다. ProxySQL 뒤에 인덱싱된 비노트 로그를 사용하고 MySQL 또는 애플리케이션 코드를 변경하지 않은 상태에서 Bintrail을 지원합니다. 데이터를 과거의 타임스탬프로 쿼리하고 변경 이력을 검토할 수 있으며, 주로 복구와 감사 시나리오에 사용됩니다.
+#Bintrail #MySQL #데이터베이스 #복구 #감사
+
+#hashtags: #MySQL #데이터베이스 #BINTRAIL #복구 #감사
 
 9 번째 검색 내용
-제목: 플랫폼 엔지니어링을 위한 골든 브릭 사용법으로 빠르고 부드러운 배포를 가능하게 할 수 있습니다.
-주소: https://www.infoq.com/news/2026/05/platform-golden-bricks/
-설명: 플랫폼 엔지니어링은 개발자가 고객이기 때문에 제품 중심적으로 진행되어야 합니다. 개발자들은 고객이기 때문에 재사용 가능한, 자체 서비스를 제공해야 하며, 견고한 레고 블럭이라는 것이 더 좋습니다. 이러한 방식으로 팀은 빠르게 움직일 수 있지만 일관성을 유지할 수 있습니다. 성공은 사용자 적응, 개발자 경험, 비즈니스 결과인 배포 빈도와 변경 실패율로 측정됩니다.
-#플랩폼엔지니어링 #개발자중심적 #일관성유지 #빠른움직임
+제목: [INST] 제가 작성한 문장을 한국어로 번역해주세요:
 
-Translated content hashtags: #platformengineering, #developerfocused, #consistency, #speed, #adoption.
+                            2026년 QCon AI Boston의 6회 세션, 인공지능 생산화에 귀중하게 대처하는
+                         [/INST]
+주소: https://www.infoq.com/news/2026/05/qconai-boston-2026-talks/
+설명: QCon AI Boston 2026은 매진에 가까워졌습니다. 6개 세션이 있으며, 발표자들이 AI의 데모와 프로덕션에서 작동하는 간격을 직접 참여하는 것입니다.
+#QConAIBoston2026 #인공지능 #데모와프로덕션 #발표자참여
+
+#hashtags: #인공지능 #데모와프로덕션 #발표자참여
 
 10 번째 검색 내용
-제목: 안드로이드 CLI를 사용하여 Google은 Android 도구 체인을 에젼 친화적으로 만들고 있습니다.
-주소: https://www.infoq.com/news/2026/05/agent-friendly-android-cli/
-설명: Google은 AI 에이전트를 사용하여 앱을 3배 이상 빠르게 구축할 수 있는 새로운 Android 개발 도구를 소개했습니다. 이러한 도구에는 리디자인된 Android 명령줄 인터페이스(CLI), "구조화된 기술"과 통합된 지식 저장소가 포함되어 있으며, Google Gemini과 같은 제3자 에이전트와 호환됩니다.
-#인공지능 #안드로이드개발도구 #에이전트기반의작업
+제목: 플랫폼 엔지니어링을 위한 골든 브릭 사용법으로 빠른 및 부드러운 배포를 가능하게 할 수 있습니다.
+주소: https://www.infoq.com/news/2026/05/platform-golden-bricks/
+설명: 플랫폼 엔지니어링은 개발자가 고객이기 때문에 제품 중심적으로 진행되어야 합니다. 개발자는 고객이기 때문에 구성 가능한, 자체 서비스 기능을 제공해야 하며, 굳은 금속 경로보다는 골든 빅크를 사용하여 팀이 빠르게 움직일 수 있도록 해야 합니다. 성공은 적응, 개발자 경험, 및 비즈니스 결과인 배포 빈도와 변경 실패율로 측정됩니다.
+#플랫폼엔지니어링 #개발자경험 #제품중심적으로진행되어야합니다
 
-#hashtags: #AI #AndroidDevelopmentTools #AgentDrivenWorkflows
+Translated content hashtags: #플랫폼엔지니어링, #개발자경험, #제품중심적으로진행되어야합니다
 
 11 번째 검색 내용
-제목: OpenTofu 1.12: 제품 Terraform이 발표하지 않은 기능
-[/INST]
+제목: 안드로이드 CLI를 사용하여 Google은 Android 도구체인을 에이전트 친화적으로 만들고 있습니다.
+주소: https://www.infoq.com/news/2026/05/agent-friendly-android-cli/
+설명: Google은 AI 에이전트를 사용하여 앱을 3배 이상 빠르게 개발할 수 있는 새로운 Android 개발 도구를 소개했습니다. 이러한 도구는 리디자인된 Android 명령줄 인터페이스(CLI), "구조화된 기술"과 통합된 지식 저장소를 포함하고 있으며, Google Gemini에서 뿐만 아니라 제3자 에이전트인 Claude Code와 Codex와 호환됩니다.
+#Android #AI #개발도구
+
+#hashtags: #안드로이드 #인공지능 #개발도구
+
+12 번째 검색 내용
+제목: OpenTofu 1.12: 이 기능은 Terraform이 발표하지 않은 기능입니다.
 주소: https://www.infoq.com/news/2026/05/opentofu-release-terraform/
-설명: AI : 오픈토프루 커뮤니티는 2026년 5월 14일에 버전 1.12.0을 발표했습니다. 이 업데이트는 완전한 리쓴이지만, 인프라 팀들이 겪었던 몇몇 문제를 해결합니다.
+설명: AI : 오픈토프루 커뮤니티는 2026년 5월 14일에 버전 1.12.0을 발표했습니다. 이 업데이트는 완전한 리쓴이 아니지만, 인프라 팀들이 겪었던 몇 가지 문제를 해결합니다.
 #오픈토프루 #인프라팀 #업데이트
 
 Hashtags: #오픈소스 #개발자커뮤니티 #인프라
 
-12 번째 검색 내용
-제목: [INST] 다음 문장을 한국어로 번역하십시오:
+13 번째 검색 내용
+제목: [INST] 다음 문장을 한국어로 번역해주세요:
 
-                            규모에 따른 엔지니어링 지원을 위한 다양한 에이전트 시스템 설계: 그랩의 사례 연구
-                         [/INST]
+Designing a Multi-Agent System for Engineering Support at Scale: a Case Study from Grab
+[/INST]
+
+[INST] 공학 지원을 위한 다중 에이전트 시스템 설계: 그랩의 사례 연구 [/INST]
 주소: https://www.infoq.com/news/2026/05/grab-multi-agent-support-system/
-설명: Grab의 Central Data Team은 데이터 웨어하우스 플랫폼에서 반복적인 엔지니어링 지원 작업을 자동화하기 위해 다중 에이전트 AI 시스템을 구축했습니다. 이 시스템은 특수화된 에이전트들을 조정 레이어를 통해 협력하여 탐색과 개선 워크플로우를 분리합니다. 이는 운영 부담을 줄이고, 해결 속도를 높이며, 엔지니어링 노력을 데이터 웨어하우스 플랫폼 개발에서 불꽃 끄는 것에서 전환합니다.
+설명: Grab의 Central Data Team은 데이터 웨어하우스 플랫폼에서 반복적인 엔지니어링 지원 작업을 자동화하기 위해 다중 에이전트 AI 시스템을 구축했습니다. 이 시스템은 특수화된 에이전트들을 조정 계층으로 통합하여 탐색과 개선 워크플로우를 분리합니다. 운영 부담을 줄이고, 해결 속도를 높이며, 엔지니어링 노력을 데이터 웨어하우스 플랫폼 개발에서 불꽃 쳐다기 작업으로부터 전환합니다.
 #인공지능 #데이터웨어하우스 #엔지니어링_지원
 
 #hashtags: #인공지능, #데이터웨어하우스, #엔지니어링_지원
 
-13 번째 검색 내용
-제목: 오픈에이 웹RTC 아키텍처 제시: 스케일에서의 낮은 지연 음성 AI 지원
+14 번째 검색 내용
+제목: 오픈앤아이가 낮은 지연 시스템에서의 음성 AI를 위한 WebRTC 아키텍처 개요 제시
 
-(Note: The translation may not be perfect as it involves technical terms and specific company names. However, the general meaning is conveyed.)
+(Note: The translation may not be perfect as it is a direct translation from English to Korean. It would be better if a native Korean speaker checks and adjusts the translation for proper grammar and sentence structure.)
 주소: https://www.infoq.com/news/2026/05/openai-voice-ai-scale/
-설명: AI : OpenAI는 WebRTC를 낮은 지연 음성 AI에 대한 전역 규모로 적응하는 방법을 설명했습니다. 새로운 아키텍처는 전통적인 미디어 종료 모델을 Kubernetes와 클라우드 로드 밸런서에 더 잘 적합한 레이리-트랜스시버 설계로 대체했습니다. WebRTC 세션 상태는 전용 트랜스시버 층에 저장되고 공개 UDP 노출을 줄이기 위해 레이리를 사용하여 미디어 라우팅을 사용자와 가깝게 유지합니다.
+설명: AI : OpenAI는 WebRTC를 낮은 지연 음성 AI에 대한 전역 규모로 적응하는 방법을 설명했습니다. 새로운 아키텍처는 전통적인 미디어 종료 모델을 Kubernetes와 클라우드 로드 밸런서에 더 적합한 레이리-트랜스시버 설계로 대체했습니다. WebRTC 세션 상태는 전용 트랜스시버 층에서 유지되고 공개 UDP 노출을 줄이기 위해 레일을 사용하여 미디어 라우팅을 사용자와 가까운 상태를 유지합니다.
 #WebRTC #Kubernetes #클라우드_로드_밸런서
 
 Hashtags: #WebRTC, #Kubernetes, #클라우드_로드_밸런서
 
-14 번째 검색 내용
-제목: [INST] 제26.1 배송 의존성 쿨다운 및 실험적인 락파일 지원 추가 대책으로 공급 체인 공격 전략 [/INST]
+15 번째 검색 내용
+제목: [INST] 제26.1 배송 종속성 쿨다운 및 실험적인 락파일 지원 도입 대응 공급 체인 공격 [/INST]
 주소: https://www.infoq.com/news/2026/05/pip-261-dependency-cooldowns/
-설명: Pip 26.1은 새로운 패키지를 발행한 후 설치할 때 기다리는 기간을 강제하는 종속성 쿨다운을 배포하고, PEP 751에서 실험적인 pylock.toml lockfile 지원을 추가했습니다. 연구결과 7일의 쿨다운이 10개 분석된 공급 체인 공격 중 8개를 종료 사용자에게 도달하는 것을 방지할 수 있습니다.
+설명: Pip 26.1은 새로운 패키지를 발행한 후 설치할 때 기다리는 기간을 강제하는 종속성 쿨다운을 배포하고, PEP 751에서 실험적인 pylock.toml lockfile 지원을 추가했습니다. 연구결과 7일의 쿨다운이 분석한 10개의 대부분의 공급 체인 공격을 종료 사용자에게 도달하는 것을 방지할 수 있습니다.
 #Pip #종속성_쿨다운 #공급_체인_보안
 
 Hashtags: #Pip #종속성_쿨다운 #공급_체인_보안
-
-15 번째 검색 내용
-제목: 인간적 기업은 개인 에이전트가 내부 시스템에 접근하기 위해 MCP 터널 소개합니다.
-주소: https://www.infoq.com/news/2026/05/claude-mcp-tunnels/
-설명: Anthropic는 Claude Managed Agents 플랫폼을 확장하였습니다: 자체 호스팅 사각지대와 MCP 터널입니다. 이 릴리즈는 기업 AI 배포에서 반복적인 문제를 해결하려고 합니다. 조직은 자동 에이전트를 사용하고 싶지만, 보안 경계를 벗어나는 실행 환경이나 내부 시스템을 허용할 수 없습니다.
-#Anthropic #ClaudeManagedAgents #기업AI #보안 #실행환경
-
-Translated sentence: Anthropic has expanded its Claude Managed Agents platform with two enterprise-focused capabilities: self-hosted sandboxes and MCP tunnels. The release aims to address a recurring challenge in enterprise AI deployments, where organizations want to use autonomous agents but cannot allow execution environments or internal systems to leave their security perimeter.
-
-#hashtags: #Anthropic #ClaudeManagedAgents #기업AI #보안 #실행환경
 
