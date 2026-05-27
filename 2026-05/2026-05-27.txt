@@ -1,87 +1,100 @@
 1 번째 검색 내용
-제목: 플랫폼 엔지니어링 라보스 확장 포메이드에 Kubernetes 지원, 네이티브 헬름 통합
+제목: Pullfrog AI: 오픈소스 코드라빗 대체제로 깃허브 액션으로 동작하는 것입니다.
+주소: https://www.infoq.com/news/2026/05/pullfrog-ai-github/
+설명: Pullfrog은 Colin McDonnell이 설계한 열린 소스 AI 기반의 GitHub 봇입니다. GitHub Actions에서 자동화를 위해 설계되었으며, 다양한 LLM 공급업체와 통합이 가능합니다. 주요 기능은 pull request 검토 오케스트레이션, 이슈 정리 및 CI 수정입니다. 모든 작업은 GitHub의 환경에서 관리됩니다. 도구는 BYOK(Bring Your Own Key) 모델을 사용하여 액세스를 위해 설계되었습니다.
+#GitHub #AI #자동화
 
-(Note: The translation may not be perfect as some terms might have specific meanings in the context of platform engineering labs and Kubernetes. Please confirm if the translation is accurate for your intended meaning.)
-주소: https://www.infoq.com/news/2026/05/formae-k8s-helm-integration/
-설명: Platform Engineering Labs는 formae, 인프라스트럭처-as-Code 오픈소스 플랫폼의 주요 업데이트를 발표했습니다. Kubernetes 전체 지원, Helm 네이티브 통합, .tfvars 직접 호환성, 그리고 클라우드 네이티브 인프라 관리를 간소화하는 새로운 공개 플러그인 허브를 도입했습니다.
-#인프라스트럭처 #Kubernetes #Helm #클라우드네이티브
+#hashtags: #GitHubBot #AIIntegration #ModelAgnosticApproach
 
 2 번째 검색 내용
-제목: InfoQ 온라인 인증 프로그램: 새로운 AI 공학과 기업 조직 아키텍처 코호트
+제목: 플랫폼 엔지니어링 라보스 확장 포맷에 Kubernetes 지원, 네이티브 헬름 통합
 
-(Note: The given text is already in Korean. If you want to translate it into English, please provide the original language.)
+(Note: The translation may not be perfect as some terms like "Platform Engineering Labs" and "Expands formae" might not have direct translations in Korean.)
+주소: https://www.infoq.com/news/2026/05/formae-k8s-helm-integration/
+설명: Platform Engineering Labs는 formae, Infrastructure-as-Code 플랫폼의 주요 업데이트를 발표했습니다. Kubernetes 전체 지원, Helm 네이티브 통합, .tfvars 직접 호환성, 그리고 클라우드 네이티브 인프라 관리를 간소화하는 새로운 공개 플러그인 허브를 도입했습니다.
+#인프라쌍스 #클라우드네이티브 #포르메 #formae
+
+Hashtags: #인프라쌍스, #클라우드네이티브, #포르메, #formae
+
+3 번째 검색 내용
+제목: InfoQ 온라인 인증 프로그램: 새로운 AI 공학 및 기업 조직 아키텍처 코호트
+
+(Note: The given sentence seems to be a title or heading, and it may not have a direct translation in Korean. However, I translated the words as close as possible to the original meaning.)
 주소: https://www.infoq.com/news/2026/05/online-cohort-certification-prog/
 설명: InfoQ는 AI 공학과 기업 아키텍처 코
 
-3 번째 검색 내용
-제목: 구글이 AI 워터마킹에 사용되는 SynthID 채택을 확장합니다. 콘텐츠 검출 API를 미리 보여줍니다.
-주소: https://www.infoq.com/news/2026/05/google-synthid-content-detection/
-설명: Google의 SynthID, AI 생성물에 감각을 눈 못보게 삽입하는 것으로 설계된 기술, Google Cloud의 Gemini Enterprise Agent Platform에서 Content Detection API를 추가하였습니다. Nvidia와 OpenAI 등 여러 산업 플레이어들이 채택한 후입니다.
-#인공지능 #GoogleCloud #ContentDetectionAPI
-
 4 번째 검색 내용
-제목: 탬보UI는 자바로 TUI를 빌드하는 데 더 나은 기능을 제공할 것을 약속합니다.
-주소: https://www.infoq.com/news/2026/05/tamboui-java-tui/
-설명: The call to action “to make 2026 the year of Java in the terminal” was quickly responded to by the launch of TamboUI. Inspired by Ratatui, the library used in Claude CLI, it promises support ranging from low-level terminal drawing to high-level APIs such as components and event handling. Currently at version 0.3.0, it has already been adopted by major projects such as Maven and Spring.
-#터미널 #자바 #TamboUI
+제목: 구글이 인공지능 웨터마크 적용을 위해 SynthID 채택 확장, 콘텐츠 검출 API 미리보기
 
-Translated content: The call to action “to make 2026 the year of Java in the terminal” was quickly responded to by the launch of TamboUI. Inspired by Ratatui, the library used in Claude CLI, it promises support ranging from low-level terminal drawing to high-level APIs such as components and event handling. Currently at version 0.3.0, it has already been adopted by major projects such as Maven and Spring.
-#터미널 #자바 #TamboUI
+(Note: The translation may not be perfect as it is a technical term. Please verify the accuracy if needed.)
+주소: https://www.infoq.com/news/2026/05/google-synthid-content-detection/
+설명: Google의 SynthID, AI 생성물에 감각을 눈에 띄지 않는 신호를 삽입하도록 설계된 것은 Google Cloud의 Gemini Enterprise Agent Platform에서 Content Detection API를 추가하였으며, Nvidia와 OpenAI 등 여러 산업 플레이어들의 채택을 통해 인기를 얻었습니다.
+#인공지능 #GoogleCloud #SynthID
+
+#hashtags: #AI #Google #GeminiEnterpriseAgentPlatform
 
 5 번째 검색 내용
-제목: 자바 뉴스 요약: WildFly, Micronaut, Spring AI, Apache Fory, GlassFish 플러그인, Open Liberty
-주소: https://www.infoq.com/news/2026/05/java-news-roundup-may18-2026/
-설명: AI : 이번 주의 Java 뉴스 요약은 5월 18일, 2026년에 발표된 소식을 강조합니다: WildFly 40, Micronaut 5.0, Maven Embedded GlassFish Plugin 8.0과 Apache Fory 1.0의 GA 릴리스; 2026년 5월 에디션의 Open Liberty; Gatherers4j, Apache 및 Kafka의 포인트 릴리스와 Spring AI 2.0의 7번째 Milestone 릴리스입니다.
-#Java #Runtimetechnology #OpenSource #Development
+제목: 탬보아이(TamboUI)는 자바로 TUI를 빌드하기 위해 더 나은 기능을 제공할 것을 약속합니다.
+주소: https://www.infoq.com/news/2026/05/tamboui-java-tui/
+설명: The call to action “to make 2026 the year of Java in the terminal” was quickly responded to by the launch of TamboUI. Inspired by Ratatui, the library used in Claude CLI, it promises support ranging from low-level terminal drawing to high-level APIs such as components and event handling. Currently at version 0.3.0, it has already been adopted by major projects such as Maven and Spring.
+                     #터미널 #자바 #TamboUI
 
-Hashtags: #Java, #Runtimetechnology, #OpenSource, #Development
+Translated content: The call to action “to make 2026 the year of Java in the terminal” was quickly responded to by the launch of TamboUI. Inspired by Ratatui, the library used in Claude CLI, it promises support ranging from low-level terminal drawing to high-level APIs such as components and event handling. Currently at version 0.3.0, it has already been adopted by major projects such as Maven and Spring.
+                     #터미널 #자바 #TamboUI
 
 6 번째 검색 내용
-제목: 마이크로소프트가 대규모 AI 취약점 연구에 사용되는 MDASH를 소개합니다.
+제목: 자바 뉴스 요약: WildFly, Micronaut, Spring AI, Apache Fory, GlassFish 플러그인, Open Liberty
+주소: https://www.infoq.com/news/2026/05/java-news-roundup-may18-2026/
+설명: AI : 이번 주의 Java 뉴스 요약은 5월 18일, 2026년에 발표된 GA 릴리즈로 WildFly 40, Micronaut 5.0, Maven Embedded GlassFish Plugin 8.0과 Apache Fory 1.0; 5월 2026년 출간의 Open Liberty; Gatherers4j, Apache와 Kafka에서 포인트 릴리즈; 그리고 Spring AI 2.0의 7번째 Milestone 릴리즈입니다.
+#Java #RNW #개발자 #프로그래밍
+
+Hashtags: #Java, #RNW, #개발자, #프로그래밍
+
+7 번째 검색 내용
+제목: 마이크로소프트가 대규모 AI 취약점 연구에 대해 MDASH를 소개합니다.
 주소: https://www.infoq.com/news/2026/05/microsoft-mdash/
 설명: Microsoft는 MDASH라고 하는 AI 기반의 취약점 발견 시스템을 소개했습니다. Windows와 Microsoft 소프트웨어 환경에서 대규모 코드 검증을 자동화하는데 설계된 다중 모델 에이전트적 보안 플랫폼입니다. 시스템은 복잡한 코드베이스를 스캔, 검증, 논의하고 취약점을 발견합니다. 이 시스템은 100여 개의 특수화된 AI 에이전트가 함께 작동하며 취약점을 찾아냅니다.
 #인공지능 #보안플랫폼 #코드검증
 
 #hashtags: #AI #SecurityPlatform #CodeAuditing
 
-7 번째 검색 내용
+8 번째 검색 내용
 제목: 제마4 다중 토큰 예측은 토큰 생성 속도에서 최대 ~3배 빠르게 작동합니다.
 주소: https://www.infoq.com/news/2026/05/gemma4-multi-token-prediction/
-설명: Gemma 4는 추측 디코딩을 사용하여 다중 토큰 예측(MTP) 드래프터와 결합될 수 있으며, 모델이 단 한 번의 지나가기에 여러 토큰을 생성할 수 있게 되어, 품질 저하 없이 최대 ~3× 더 빠른 추론 시간을 달성할 수 있습니다.
-#Gemma4 #MTP #디코딩
+설명: Gemma 4는 추론 속도를 빠르게 하기 위해 여러 토큰을 동시에 생성할 수 있는 다중 토큰 예측(MTP) 드래프터와 결합될 수 있으며, 이를 통해 모델은 한 번의 지나치고 여러 가지 질성 손실 없이 최대 ~3× 더 빠른 추론을 달성할 수 있습니다.
+#Gemma4 #다중토큰예측 #추론속도 #인공지능
 
-Hashtags: #Gemma4, #MTP, #디코딩
-
-8 번째 검색 내용
-제목: 노드JS가 내장된 가상 파일 시스템을 제안하며, AI 생성 기여의 논쟁을 일으킨다.
-주소: https://www.infoq.com/news/2026/05/node-js-file-system/
-설명: Matteo Collina는 Node.js core에 대한 Virtual File System(VFS)를 node:vfs 모듈을 통해 제안했습니다. 이 제안은 약 19,000줄의 코드를 포함하고 있으며, 일반적인 워크플로우 문제를 해결합니다. 그러나 AI의 사용에 대한 걱정이 생기면서 코드 검증과 필요성에 대한 논쟁이 일어났습니다.
-#Node.js #VFS #AI #코드검증 #필요성
-
-Hashtags: #Node.js, #VFS, #AI, #코드검증, #필요성
+#hashtags: #AI #MachineLearning #NLP #ComputerScience
 
 9 번째 검색 내용
-제목: OpenJDK 뉴스 요약: Vector API, 컴팩트 객체 헤더 및 JDK 27에서 G1GC 기본 설정
+제목: 노드JS가 내장 가상 파일 시스템 제안, AI 생성 기여의 논쟁을 유발합니다.
+주소: https://www.infoq.com/news/2026/05/node-js-file-system/
+설명: Matteo Collina는 Node.js core에 대한 Virtual File System(VFS)를 node:vfs 모듈을 통해 제안했습니다. 이 제안은 약 19,000줄의 코드를 포함하고 있으며, 일반적인 워크플로우 문제를 해결합니다. 그러나 AI 개발에 대한 사용에 대한 우려가 생겨, Node.js 생태계에서의 검증 및 필요성에 대한 논쟁이 일어났습니다.
+#Node.js #VFS #AI #검증 #필요성
+
+Hashtags: #Node.js, #VFS, #AI, #검증, #필요성
+
+10 번째 검색 내용
+제목: OpenJDK 뉴스 요약: 벡터 API, 컴팩트 객체 헤더 및 JDK 27에서 G1GC 기본 설정
 
 (Note: The translation may not be perfect as it is a technical term. Please verify the accuracy if needed.)
 주소: https://www.infoq.com/news/2026/05/jdk-news-roundup-may18-2026/
 설명: There was a flurry of activity in the OpenJDK ecosystem during the week of May 18th, 2026, highlighting three JEPs elevated from Proposed to Target to Targeted and three JEPs elevated from Candidate to Proposed to Target for JDK 27. The proposed release schedule has also been finalized.
+#OpenJDK #JEPs #JDK27
 
-한글 번역: OpenJDK 생태계에서 5월 18일 주에는 3개의 JEP가 Proposed에서 Target으로, Candidate에서 Proposed에서 Target으로 승격되어 있었으며, JDK 27의 제안된 출시 일정도 마무리되었습니다.
-#OpenJDK #JEP #JDK27
-
-#hashtags: #Java #개발자 #소프트웨어
-
-10 번째 검색 내용
-제목: 구글이 Genkit 응용 프로그램에 대한 미들웨어 아키텍처 소개합니다.
-주소: https://www.infoq.com/news/2026/05/google-genkit-middleware/
-설명: Google은 Genkit의 Middleware를 개방형 소스 프레임워크로 인공지능 및 에이전트적 응용 프로그램을 구축하는 데 도입했습니다. 업데이트는 모델 호출, 도구 실행 및 생성 루프에 프로그래밍 가능한 간섭 계층을 추가하여 개발자들이 제품 내 AI 시스템의 신뢰도, 안전성, 및 조직화에 더 많은 제어를 제공합니다.
-#인공지능 #제품AI #Genkit
-
-Hashtags: #AI #ProductAI #Genkit
+Translated sentence: 오픈JDK 생태계에서는 5월 18일 주에 많은 활동이 있었으며, JDK 27에 대해 Proposed를 Target으로, Candidate를 Proposed로, 그리고 다시 Target으로 승격한 3개의 JEP가 강조되었습니다. 또한 제안된 릴리스 일정도 마무리되었습니다.
+#오픈JDK #JEPs #JDK27
 
 11 번째 검색 내용
-제목: AWS MCP 서버가 GA에 도달하며, 전체 API 커버리지와 IAM 기반 관리를 포함합니다.
+제목: 구글이 Genkit 응용 프로그램에 대한 미들웨어 아키텍처 소개합니다.
+주소: https://www.infoq.com/news/2026/05/google-genkit-middleware/
+설명: Google은 Genkit의 Middleware를 개방형 소스 프레임워크로 인공지능 및 에이전트적 응용 프로그램을 구축하는 데 도입했습니다. 업데이트는 모델 호출, 도구 실행 및 생성 루프에 프로그래밍 가능한 중간 층을 추가하여 개발자들이 제품 내의 AI 시스템의 신뢰도, 안전성, 및 조직화에 대한 제어를 더 얻게 합니다.
+#인공지능 #Genkit #Middleware
+
+#hashtags: #AI #Genkit #Middleware
+
+12 번째 검색 내용
+제목: AWS MCP 서버가 GA에 도달하며, 전체 API 커버리지와 IAM 기반 지속적인 관리를 포함합니다.
 주소: https://www.infoq.com/news/2026/05/aws-mcp-ga/
 설명: AWS는 최근에 관리형 모델 컨텍스트 프로토콜(MCP) 서버를 일반적으로 사용할 수 있게 되었습니다. AI 코딩 에이전트는 AWS API, 문서, 및 운영 워크플로우를 표준 인터페이스를 통해 제어된 접근을 제공합니다. 이것은 AI 에이전트와 AWS 서비스를 연결하는 더 안전하고 감사할 수 있는 방법입니다.
 #AWS #인공지능 #보안
@@ -90,37 +103,29 @@ Translated sentence: AWS has recently made its managed Model Context Protocol (M
 and Provide - #hashtags. Add 3 hashtags related to the translated content.
 #AWS #인공지능 #보안
 
-12 번째 검색 내용
+13 번째 검색 내용
 제목: 구글 클라우드는 빅퀴어에서 엔진 간 아이스버그 지원 소개
 
-(Note: The translation may not be perfect as it is a technical term, but the meaning should be clear.)
+(Note: The translation may not be perfect as it is a technical term. However, the meaning should be clear.)
 주소: https://www.infoq.com/news/2026/05/google-cross-engine-iceberg/
-설명: AI : 지난 달의 Apache Iceberg 슬랙에서 Google은 Apache Iceberg를 BigQuery에 대한 새로운 상호 운용성 기능을 발표했습니다. 서버리스 Iceberg REST 카탈로그 미리보기는 팀이 BigQuery와 엔진으로 Spark, Flink, Trino 등과 같은 Apache Iceberg 테이블을 생성, 업데이트 및 쿼리할 때 데이터를 복사하지 않도록 허용합니다.
+설명: AI : 지난 달의 Apache Iceberg 슬롯에서 Google은 Apache Iceberg를 BigQuery에 대한 새로운 상호 운용성 기능을 발표했습니다. 서버리스 Iceberg REST 카탈로그 미리보기는 팀이 BigQuery와 엔진으로 Spark, Flink, Trino 등과 같은 Apache Iceberg 테이블을 생성, 업데이트 및 쿼리할 때 데이터를 복사하지 않도록 허용합니다.
 #ApacheIceberg #BigQuery #상호운용성
 
 Hashtags: #ApacheIceberg, #BigQuery, #Interoperability
 
-13 번째 검색 내용
+14 번째 검색 내용
 제목: 우버는 실시간 신호와 목록별 순위 기법을 사용하여 식당 추천을 개선합니다.
 주소: https://www.infoq.com/news/2026/05/uber-eats-ranking-system/
-설명: Uber는 Uber Eats Home Feed 추천 시스템을 근접 실시간 사용자 시퀘언스 기능과 생성형 리커머서 모델로 업데이트합니다. 시스템은 수동으로 설계된 기능에서 변환기 기반 시퀘언스 모델로 진화하며, 기능의 신선도를 24시간에서 초당 줄여고, 점수 기반의 포인트와 실시간 개인화를 위한 컨텍스트 랭킹을 향상시키기 위해 리스트 기반의 GenRec으로 전환됩니다.
-#Uber #UberEats #AI #추천시스템
-#인공지능 #우버에츠 #시스템 #추천
-#실시간 개인화 #컨텍스트 랭킹
-
-14 번째 검색 내용
-제목: InfoQ가 고급 소프트웨어 전문가들을 위한 온라인 AI 공학 코호트와 인증을 출시합니다.
-주소: https://www.infoq.com/news/2026/05/ai-engineering-certification-pro/
-설명: InfoQ는 생산 AI 시스템에 대한 고급 실무자를 위한 온라인 AI 엔지니어링 인증을 5주간 출시했습니다. RAG, 에이전트, AI 플랫폼, evals, 신뢰도, 운영 상이점과 같은 주요 주제를 포함합니다.
-#AI엔지니어링인증 #생산AI시스템 #고급실무자
-
-#hashtags: #AI #인공지능 #데이터사이언스
+설명: Uber는 Uber Eats Home Feed 추천 시스템을 근접 실시간 사용자 시퀘언스 기능과 생성형 리커머서 모델로 업데이트합니다. 시스템은 수동으로 만든 기능에서 변환기 기반 시퀘언스 모델로 진화하며, 기능 신선도를 24시간에서 초당 줄여고, 점수 기반의 포인트와 실시간 개인화를 위한 컨텍스트 랭킹을 향상시키기 위해 리스트 기반의 GenRec으로 전환됩니다.
+#Uber #UberEats #AI #추천알고리즘
+#인공지능 #우버에츠 #추천알고리즘 #개인화
 
 15 번째 검색 내용
-제목: 디스코드는 스컬라DB를 대규모 규모로 관리하기 위해 자동화를 중심으로 데이터베이스 작업을 재구성합니다.
-주소: https://www.infoq.com/news/2026/05/discord-scylladb-automation/
-설명: Discord는 새로운 내부 오케스트레이션 프레임워크인 Scylla Control Plane(SCP)를 기반으로 데이터베이스 작업을 재구성하여, 이전에 수동 작업으로 일주일 이상 걸리는 대규모 ScyllaDB 클러스터 관리 작업을 자동화할 수 있게 되었습니다.
-#Discord #ScyllaControlPlane #데이터베이스_관리 #오케스트레이션_프레임워크
+제목: InfoQ가 온라인 AI 공학 코호트와 인증을 senior 소프트웨어 전문가들에게 출시합니다.
+주소: https://www.infoq.com/news/2026/05/ai-engineering-certification-pro/
+설명: InfoQ는 생산 AI 시스템에 대한 고급 실무자를 위한 온라인 AI 엔지니어링 인증을 5주간 출시했습니다. RAG, 에이전트, AI 플랫폼, evals, 신뢰도, 운영 상이점 등을 포함합니다.
+#AI엔지니어링인증 #생산AI시스템 #고급실무자
 
-#hashtags: #Discord #ScyllaControlPlane #데이터베이스_관리 #오케스트레이션_프레임워크
+#hashtags: #AI #인공지능 #InfoQ
+추가 해시태그: #AI엔지니어링 #실무자 #생산성과
 
