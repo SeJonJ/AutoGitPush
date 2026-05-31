@@ -1,0 +1,130 @@
+1 번째 검색 내용
+제목: Arm은 기존의 SAST 도구보다 우수한 AI 보안 프레임워크인 Metis를 오픈소스로 공개합니다.
+주소: https://www.infoq.com/news/2026/05/arm-metis-agentic-security/
+설명: Arm has open-sourced Metis, an agentic AI security framework designed to autonomously uncover complex software vulnerabilities. Unlike traditional pattern-based tools, Metis applies semantic reasoning to analyze cross-component dependencies and provides clear, natural language explanations for its findings.
+#인공지능 #보안 #소프트웨어 #취약점
+
+Translate my sentence into Korean: 
+                         Arm has open-sourced Metis, an agentic AI security framework designed to autonomously uncover complex software vulnerabilities. Unlike traditional pattern-based tools, Metis applies semantic reasoning to analyze cross-component dependencies and provides clear, natural language explanations for its findings.
+                     and Provide - #hashtags. Add 3 hashtags related to the translated content.
+
+2 번째 검색 내용
+제목: 구글 클라우드가 철도사업의 생산 계정을 중지하여, 전체 플랫폼에서 8시간 동안 서비스 중단
+
+(Note: The translation may not be perfect as it is a machine translation. Please check the meaning and context before using it.)
+주소: https://www.infoq.com/news/2026/05/railway-gcp-account-outage/
+설명: Google Cloud의 자동화된 시스템이 철도사업의 생산 계정을 알림없이 중지하게 되어, 300만 명의 사용자에게 영향을 미치는 8시간 동안 플랫폼 전체 장애가 발생했습니다. 캐스케이드는 AWS와 바레메탈 모두의 워크로드를 포함하여 제어 평면이 GCP에 호스팅되었기 때문에 전체적으로 다운되었습니다. 철도는 GCP를 예비용으로만 사용할 수 있는 상태로 내란다.
+#인공지능 #클라우드서비스 #장애 #철도
+
+#hashtags: #AI #cloudservices #outage #railway
+
+3 번째 검색 내용
+제목: [INST] 데이터 수집을 펑테비트 규모로 신뢰성 있게 재구성한 메타의 방법 [/INST]
+주소: https://www.infoq.com/news/2026/05/meta-cdc-migration/
+설명: Meta의 엔지니어링 팀은 최근 회사가 매일 몇 피바이트의 MySQL 소셜 그래프 데이터를 전송하는 데이터 인제스션 플랫폼을 향상한 신뢰성과 운영 효율을 위해 마이그레이션했다는 방법을 설명했습니다. 팀은 전환 중에 다운타임이 발생하지 않도록 기술들인 리버스 쉐도우링과 연속적인 체크섬 모니터링을 사용했습니다.
+#데이터베이스 #데이터마이그레이션 #Meta
+
+Translated sentence: Meta's engineering team recently outlined how the company migrated a data ingestion platform that transfers several petabytes of MySQL social graph data daily to improve reliability and operational efficiency. The team used techniques like reverse shadowing and continuous checksum monitoring to ensure zero downtime during the transition.
+#데이터베이스 #데이터마이그레이션 #Meta
+
+Hashtags: #데이터베이스, #데이터마이그레이션, #Meta
+
+4 번째 검색 내용
+제목: 인공지능 지원 마이그레이션 도구는 팀이 ingress-nginx에서 Higress로 몇 분 만에 쉽게 이동할 수 있도록 도와줍니다.
+주소: https://www.infoq.com/news/2026/05/ai-nginx-higress/
+설명: AI : 클라우드 네이티브 컴퓨팅 재단은 인공지능을 도와서 엔지니어들이 60개의 ingress-nginx 리소스를 Higress로 이전할 수 있는 새로운 AI 지원 이전 접근 방식을 강조했습니다. 이것은 Kubernetes 네트워킹 및 게이트웨이 인프라를 최신화하기 위해 인공지능이 점차적으로 적용되는 방식을 보여줍니다.
+#클라우드네이티브컴퓨팅재단 #인공지능 #Kubernetes네트워킹 #게이트웨이인프라모дер니제이션
+
+Hashtags: #클라우드네이티브컴퓨팅재단, #인공지능, #Kubernetes네트워킹, #게이트웨이인프라모더니제이션
+
+5 번째 검색 내용
+제목: [INST] 깃허브 슬래시 에이전트 워크플로우 토큰 소비를 최대 62%까지 감소시키기 위해 매일 오디트와 MCP 프린링을 사용합니다. [/INST]
+주소: https://www.infoq.com/news/2026/05/github-agentic-token-savings/
+설명: GitHub은 에이전트릭 CI 워크플로우의 토큰 비용을 62%까지 절약할 수 있도록 사용되지 않는 MCP 도구를 제거하고, 일부 MCP 호출을 gh CLI로 교체하며, 매일 “auditor”와 “optimizer” 에이전트를 실행합니다. 토큰 사용량을 추적하기 위해 token-usage.jsonl 아티팩트와 모델별 비용을 추적하고 회귀를 발견하기 위한 Effective Tokens 메트릭을 사용합니다.
+#에이전트릭 #토큰_절약 #CI_워크플로우
+#hashtags: #에이전트릭Ci, #토큰_절약_방법, #GitHub_최적화
+
+6 번째 검색 내용
+제목: 계정성은 AI의 목표이며, EU 규정이 투명성을 지원합니다.
+주소: https://www.infoq.com/news/2026/05/accountability-AI-EU-regulations/
+설명: AI 편향은 인간의 편향과 같이 언어와 살아가는 경험에서 비롯됩니다; 그리고  эти 두 가지는 분리할 수 없습니다. AI 변화는 피해를 일으키는 행위를 더 쉽게 실행할 수 있도록 변화를 가져옵니다. EU 규정은 AI에 적용되며, 디지털 제품은 제품입니다. 최종 목표는 책임감: 회사들은 투명성을 보장하고 법은 일을 완료하는 데 필요한 가장 간단한 AI를 사용할 때 이익을 부여해야 합니다.
+#인공지능 #편향 #책임감
+
+Hashtags: #AI #Bias #Ethics #Accountability #Transparency #DigitalProducts #EuropeanUnionRegulations
+
+7 번째 검색 내용
+제목: 마이크로소프트는 첫 번째 일반적인 목적 서버 리눅스 배포판인 Azure Linux 4.0을 발표합니다.
+주소: https://www.infoq.com/news/2026/05/azure-linux-4-server/
+설명: Microsoft는 Open Source Summit에서 Azure Linux 4.0과 Azure Container Linux을 발표했습니다. Azure Linux 4.0은 Azure VM용 Fedora 기반 일반적인 서버 배포입니다, Microsoft가 컨테이너 호스팅 밖에서도 지원하는 Linux를 제공한 첫 번째 시점입니다. Azure Container Linux은 Flatcar를 기반으로 변경 불가능한 컨테이너 최적화된 호스트입니다.
+#AzureLinux #Microsoft #컨테이너 #Flatcar
+
+#hashtags: #AzureLinux, #Microsoft, #컨테이너, #Flatcar
+
+8 번째 검색 내용
+제목: 클라우드플레어가 클로드 관리 에이전트 지원 추가
+
+(Note: The translation may not be perfect as it is a proper noun and technical term. However, this is the best possible translation given the context.)
+주소: https://www.infoq.com/news/2026/05/cloudflare-claude-agents/
+설명: Cloudflare는 최근 Claude Managed Agents 지원을 추가했습니다. 개발자들은 Cloudflare에서 Claude 에이전트를 실행하고 관리할 수 있습니다. 개발자들은 에이전트를 사설 시스템에 연결할 수 있으며, 에이전트 활동을 Cloudflare 서비스를 통해 모니터링할 수 있습니다.
+#클라우드플레어 #클로드 #에이전트 #머신러닝
+
+#hashtags: #AI #CloudComputing #DataProcessing
+
+9 번째 검색 내용
+제목: LinkedIn은 반복적인 시스템 절멍을 원인으로 하는 커널 락 충돌 문제를 식별했습니다.
+
+(Note: The translation may not be perfect as the original sentence seems to be a title or heading, and Korean grammar and structure may differ from English in such cases.)
+주소: https://www.infoq.com/news/2026/05/linkedin-kernel-lock-freeze/
+설명: LinkedIn 엔지니어들은 데이터베이스가 사용자 피드를 POWERING하는 것에 대한 일시적이고 재귀적인 다운타임이 발생하고 그 후 유용한 추적을 남기지 않고 복구되면서 해결책을 찾아내야 했습니다. 그들은 eBPF를 사용하여 off-CPU 프로파일링을 통해 원인을 발견하는 새로운 접근 방식을 개발해야 했습니다.
+#인공지능 #데이터베이스 #eBPF
+
+Translated sentence: LinkedIn engineers encountered short-lived, recurring outages where the database powering their user feed became unavailable and then recovered without leaving helpful traces, they had to devise a novel approach to uncover the root cause using off-CPU profiling with eBPF.
+#인공지능 #데이터베이스 #eBPF
+
+Hashtags: #인공지능 #데이터베이스 #eBPF
+
+10 번째 검색 내용
+제목: Azure 로직 앱은 에이전트 워크플로에 사ン드박스 코드 인터프리터를 추가합니다.
+주소: https://www.infoq.com/news/2026/05/azure-logic-apps-agents/
+설명: Microsoft는 Azure Logic Apps에 sandboxed 코드 인터프리터를 추가했습니다. 이로 인해 통합 워크플로우 내의 에이전트가 Python, JavaScript, C#, PowerShell을 Hyper-V 격리 세션에서 생성하고 실행할 수 있게 되었습니다. 아키텍트는 워크플로우 별로 모델 선택에 대한 전체 제어를 얻을 수 있습니다. 이 기능은 Logic Apps를 Foundry와 Copilot Studio와 함께 통합 에이전트 플랫폼으로 위치시키게 됩니다.
+#AzureLogicApps #코드인터프리터 #통합에이전트플랫폼
+#Hyper-V격리세션
+
+Hashtags: #AzureLogicApps, #코드인터프리터, #통합에이전트플랫폼
+
+11 번째 검색 내용
+제목: 사랑 쿠르카르니, 제품에서 깊은 연구 에이전트 빌드 경험에서 배운 것
+
+(Note: The name "Sarang Kulkarni" is written in the original text as it is a proper noun. In Korean, it remains the same.)
+주소: https://www.infoq.com/news/2026/05/kulkarni-deep-research-agents/
+설명: Deep Research Agentic Systems은 AI 에이전트로서 복잡한 작업을 위해 동적 추론, 다단계 정보 검색 및 구조화된 분석 보고서를 생성하는 데 설계되었습니다. Thoughtworks의 Sarang Kulkarni는 Arc of AI Conference 2026에서 깊은 추론을 위한 다중 에이전트 연구 시스템을 배포하는 방법과 Deep Research Agents를 개발하는 데서 얻은 교훈을 언급했습니다.
+#인공지능 #AI에이전트 #깊은학습
+
+12 번째 검색 내용
+제목: Pullfrog AI: 오픈소스 코드라빗 대체제로 깃허브 액션으로 동작하는 것입니다.
+주소: https://www.infoq.com/news/2026/05/pullfrog-ai-github/
+설명: Pullfrog은 코린 맥도널의 열려 있는 소스 AI 기반 GitHub 봇입니다. GitHub Actions에서 자동화를 위해 설계되었으며, 다양한 LLM 공급업체와 통합할 수 있습니다. 주요 기능은 pull 요청 검토 오케스트레이션, 이슈 정리 및 CI 수정입니다. 모든 작업은 GitHub의 환경에서 관리됩니다. 도구는 BYOK(Bring Your Own Key) 모델로 액세스하기 위해 작동합니다.
+#GitHub #AI #자동화
+#인공지능 #GitHub #자동화
+
+13 번째 검색 내용
+제목: 플랫폼 엔지니어링 라보스 확장 포메이드에서 Kubernetes 지원, 네이티브 Hеlm 통합
+
+(Note: The translation may not be perfect as some terms might have specific meanings in the context of platform engineering labs and Kubernetes. Please confirm if the meaning is correct before using it.)
+주소: https://www.infoq.com/news/2026/05/formae-k8s-helm-integration/
+설명: Platform Engineering Labs는 formae, 인프라스트럭처-as-Code 오픈소스 플랫폼의 주요 업데이트를 발표했습니다. Kubernetes 전체 지원, Helm 네이티브 통합, .tfvars 직접 호환성, 그리고 클라우드 네이티브 인프라 관리를 간소화하는 새로운 공개 플러그인 허브를 도입했습니다.
+#인프라스트럭처 #Kubernetes #Helm #클라우드네이티브
+
+14 번째 검색 내용
+제목: InfoQ 온라인 인증 프로그램: 새로운 AI 공학과 기업 조직 아키텍처 코호트
+
+(Note: The translation may not be perfect, as some phrases might need to be adjusted for natural Korean sentence structure.)
+주소: https://www.infoq.com/news/2026/05/online-cohort-certification-prog/
+설명: InfoQ는 AI 공학과 기업 아키텍처 코
+
+15 번째 검색 내용
+제목: 구글은 인공지능 웨터마킹에 대한 SynthID 채택을 확장합니다. 콘텐츠 검출 API를 미리 보여줍니다.
+주소: https://www.infoq.com/news/2026/05/google-synthid-content-detection/
+설명: Google의 SynthID, AI 생성물에 감각을 눈 못떠서 삽입하는 것으로 설계되어 있습니다. Google Cloud의 Gemini Enterprise Agent Platform에서 Content Detection API를 추가하였으며, Nvidia와 OpenAI 등 여러 산업 플레이어들이 채택한 후입니다.
+#인공지능 #GoogleCloud #ContentDetectionAPI
+
