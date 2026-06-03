@@ -1,75 +1,82 @@
 1 번째 검색 내용
-제목: OpenTelemetry가 "블루프린트" 초기화를 시작하여 기업 관측성 사용을 간단하게 만들어 줍니다.
-주소: https://www.infoq.com/news/2026/06/opentelemetry-blueprints-launch/
-설명: AI : OpenTelemetry는 관측성 시스템을 규모에 따라 복잡성이 증가하는 것을 줄이기 위해 "블루프린트" 초기화이브를 소개했습니다.
-#OpenTelemetry #관측성 #복잡성 #규모에따른복잡성
+제목: 노드.제스 한 개의 주요 릴리즈로 이동하며, 노드 27으로 시작합니다.
+주소: https://www.infoq.com/news/2026/06/nodejs-release-changes/
+설명: Node.js 는 10월 2026년부터 버전 27에서 시작하여 한 해에 두 번의 주요 릴리스를 1번으로 변경됩니다. 모든 릴리스는 Long-Term Support(LTS)가 되며, 홀수와 짝수 버전의 구분이 제거됩니다. Alpha 채널도 초기 테스트를 위해 소개될 것입니다. 이 결정은 유지보수 문제와 사용자 요구 사항을 적합하게 맞추려는 노력의 일부입니다.
+#Node.js #유지보수 #릴리스 일정 #사용자 요구 사항
 
-Hashtags: #OpenTelemetry, #관측성, #복잡성, #규모에따른복잡성
+#hashtags: #NodeJS #MaintenanceChallenges #UserNeeds
 
 2 번째 검색 내용
-제목: 구글 워크스페이스 CLI: 인간과 AI 에이전트를 위해 통합된 명령줄 도구
-[INST] Translate my sentence into Korean :
-                            Google Workspace CLI: Unified Command-Line Tool Built for Humans and AI Agents
-                         [/INST]
-주소: https://www.infoq.com/news/2026/06/google-workspace-cli/
-설명: Google은 Google Workspace에 대한 새로운 CLI를 발표했습니다. Drive, Gmail, 및 캘린더와 같은 여러 서비스에 대한 통합 인터페이스를 제공합니다. Rust에서 구축된 도구는 API 변경에 동적으로 적응하고 100개 이상의 번들 기능을 포함합니다. Node.js와 Google Cloud 프로젝트가 필요한 설정입니다. 초기 커뮤니티 피드백은 동적 기능과 설정 도전에 대해 균형을 이루고 있습니다.
-#Google #GoogleWorkspace #CLI #Node.js
-#hashtags: #Rust #API #GoogleCloudProject
+제목: OpenTelemetry는 "블루프린트" 초기화를 시작하여 엔터프라이즈 오버잭티비리 적용을 간소화합니다.
+주소: https://www.infoq.com/news/2026/06/opentelemetry-blueprints-launch/
+설명: AI : OpenTelemetry는 관측성 시스템을 규모에 따라 복잡하게 배포하고 운영하는 데 대한 증가하는 복잡성을 줄이기 위해 "블루프린트" 초기화이브를 소개했습니다.
+#OpenTelemetry #관측성 #배포 #운영
+
+Hashtags: #관측성시스템, #규모에따른복잡성, #OpenTelemetryInitiative
 
 3 번째 검색 내용
-제목: 자바 뉴스 요약: OpenJDK JEPs, Hazelcast, Quarkus, Hibernate, Koog, JHipster, Endive을 소개합니다.
-주소: https://www.infoq.com/news/2026/06/java-news-roundup-may25-2026/
-설명: Java 주기적 요약: 2026년 5월 25일에는 다음과 같은 뉴스를 강조합니다. JDK 27의 두 개 JEP에서 목표로 한 생명 주기 변경; Koog 1.0 GA 출시; Hazelcast, Quarkus, Hibernate 및 JHipster의 포인트 릴리스; Spring AI 2.0의 8번째 amilestone 릴리스; 그리고 Endive, JVM-native WebAssembly(Wasm) 런타임입니다.
-#Java #WebAssembly #Endive #SpringAI
-#Hashtag1
-#Hashtag2
-#Hashtag3
+제목: 구글 워크스페이스 CLI: 인간과 AI 에이전트를 위해 통합된 명령줄 도구입니다.
+주소: https://www.infoq.com/news/2026/06/google-workspace-cli/
+설명: Google은 Google Workspace에 대한 새로운 CLI를 발표했습니다. Drive, Gmail, 및 캘린더와 같은 여러 서비스에 대한 통합 인터페이스를 제공합니다. Rust로 구축되었으며 API 변경에 동적으로 적응하고 100개 이상의 번들된 기능을 포함합니다. Node.js와 Google Cloud 프로젝트가 필요한 설정입니다. 초기 커뮤니티 피드백은 동적 기능과 설정 도전에 대한 긍정적이고 부정적인 응답을 강조합니다.
+#Google #GoogleWorkspace #CLI #Node.js
+#GoogleCloud #Rust
+#설정 #동적 #API #기능 #서비스 #통합 #인터페이스
 
 4 번째 검색 내용
+제목: 자바 뉴스 요약: OpenJDK JEPs, Hazelcast, Quarkus, Hibernate, Koog, JHipster, Endive을 소개합니다.
+주소: https://www.infoq.com/news/2026/06/java-news-roundup-may25-2026/
+설명: Java 주기적 요약: 2026년 5월 25일에 발표된 이번 주의 Java 주기적 요약은 다음과 같습니다. JDK 27에 대상되었던 두 개의 JEP으로 인한 생명 주기 변경; Koog 1.0 GA 출시; Hazelcast, Quarkus, Hibernate 및 JHipster의 포인트 리리스; Spring AI 2.0의 8번째 amilestone 릴리즈; 그리고 Endive, JVM-native WebAssembly(Wasm) 런타임입니다.
+#Java #JDK27 #WebAssembly #Endive
+
+#hashtags: #Java #JDK27 #WebAssembly #Endive
+
+5 번째 검색 내용
 제목: 클로드 코드는 병렬 에이전트 조정을 위한 동적 워크플로 추가
 
-(Note: The translation may not be perfect as it is a technical term. Please verify the accuracy with a professional translator if needed.)
+(Note: The translation may not be perfect as it is a technical term. Please double-check the translation for accuracy.)
 주소: https://www.infoq.com/news/2026/06/dynamic-workflows-claude-code/
-설명: Anthropic은 Claude Code의 새로운 기능인 Dynamic Workflows를 소개했습니다. 이 기능은 복잡한 소프트웨어 엔지니어링 작업을 처리하기 위해 단일 워크플로우 내에서 대량의 AI 에이전트를 조정하는 데 설계되었습니다. 기능은 Claude가 작업을 구성하고 실행하며, 결과를 검증하고 최종 답변을 제공하기 전에 동시에 실행할 수 있도록 동적으로 오르케스트레이션 스크립트를 생성하고 작업을 구분합니다.
+설명: Anthropic은 Claude Code의 새로운 기능인 Dynamic Workflows를 소개했습니다. 이 기능은 복잡한 소프트웨어 엔지니어링 작업을 처리하기 위해 단일 워크플로우 내에서 대량의 AI 에이전트를 조정하는 데 설계되었습니다. 기능은 Claude가 작업을 구성하고, 부분 작업으로 나누어 동시에 실행하며, 결과를 검증한 후 최종 답변을 제공하는 데 도움이 됩니다.
 #인공지능 #소프트웨어엔지니어링 #워크플로우 #클로드코드
 
 #hashtags: #AI #SoftwareEngineering #WorkflowManagement #ClaudeCode
 
-5 번째 검색 내용
-제목: 쇼핑이프리 보고서에 따르면, 넓은 우선순위 엔진으로 인해 GraphQL 실행이 15배 더 빠르게 실행됩니다.
+6 번째 검색 내용
+제목: 샵이프리 보고서에 따르면, 브레드스 퍼스트 엔진으로 인해 GraphQL 실행이 15배 빠르게 실행되었습니다.
 주소: https://www.infoq.com/news/2026/06/shopify-graphql-cardinal-bfs/
-설명: Shopify는 GraphQL Cardinal, 깊이 우선 실행을 대체하여 너비 우선 실행으로 새로운 실행 엔진을 소개했습니다. 재설계는 대규모 GraphQL 성능을 향상시키며, 15배 빠른 필드 실행, GC 오버헤드를 6배 줄이고 +4s P50 지연 잠재적 이점을 제공합니다. 이 기능은 상용 거래 질의에 대한 실행 계층 효율성과 배치된 리졸버 처리를 중심으로 집중합니다.
-#GraphQL #Cardinal #Shopify #성능 향상
+설명: Shopify는 GraphQL Cardinal, 깊이 우선 순회를 범위 우선 실행으로 대체한 새로운 실행 엔진을 소개했습니다. 재설계는 대규모 GraphQL 성능을 향상시키며, 15배 더 빠른 필드 실행, GC 오버헤드가 6배 줄어들고 P50 지연 시간이 +4초 증가합니다. 실행 계층의 효율성과 고 카드리널리티 상거래 쿼리에 대한 배치 리졸버 처리를 중점적으로 집중합니다.
+#GraphQL #Cardinal #Shopify #HighPerformance
 #인공지능 #의료 #금융 #교통
 
-6 번째 검색 내용
+7 번째 검색 내용
 제목: 나쁜 호스트 취약점이 AI 에이전트, 평가자, 및 LLM 게이트웨이를 노출시킵니다.
 주소: https://www.infoq.com/news/2026/06/badhost-ai-systems-vulnerability/
-설명: BadHost는 인기 있는 Python 웹 프레임워크 Starlette의 고급 취약점 중 하나입니다. 이 취약점은 HTTP Host 헤더를 잘못 형식화한 요청을 사용하여 경로 기반 접근 제어를 우회하고 민감한 AI 에이전트 인프라와 같은 다양한 시스템에 액세스할 수 있도록 합니다.
-#인공지능 #취약점 #웹프레임워크
+설명: BadHost는 Python 웹 프레임워크 Starlette의 널리 사용되는 고급 인증 우회 취약점입니다. 이 취약점은 공격자가 잘못된 HTTP Host 헤더를 사용하여 경로 기반 액세스 제어를 우회하고, 민감한 AI 에이전트 인프라와 같은 다른 시스템에 접근할 수 있도록 합니다.
+#인공지능 #보안 #취약점
 
-#hashtags: #AI #Vulnerability #WebFramework
-
-7 번째 검색 내용
-제목: A Trailing Slash Bypassed AWS API Gateway Authorization: /
-
-[INST] 아웃풋을 한글로 번역해주세요 : [/INST]
-
-트레일링 슬래시가 AWS API Gateway 인증을 우회했습니다.
-주소: https://www.infoq.com/news/2026/06/aws-api-gateway-auth-bypass/
-설명: AI : AWS HTTP API의 경
+#hashtags: #AI #SecurityVulnerability #PythonFramework
 
 8 번째 검색 내용
-제목: DuckDB 큐악: HTTP를 사용한 클라이언트/서버 프로토콜을 통한 다중 사용자 분석
+제목: A Trailing Slash Bypassed AWS API Gateway Authorization: /인스턴트/
 
-(Note: The translation may not be perfect as it is a technical term. However, the meaning should be clear.)
-주소: https://www.infoq.com/news/2026/05/duckdb-quack-protocol/
-설명: DuckDB는 최근에 Quack이라는 HTTP를 사용하는 원격 프로토콜을 발표했습니다. 이 프로토콜은 네트워크를 통해 동시에 여러 DuckDB 인스턴스가 같은 데이터베이스에 연결하고 작업할 수 있게 되었습니다. 이 프로토콜은 이전에는 대부분 로컬과 임베디드인 DuckDB 데이터베이스에 client-server 기능을 도입합니다.
-#DuckDB #원격프로토콜 #HTTP #데이터베이스
-#hashtags: #데이터분석 #데이터처리 #임베디드시스템
+이 문장은 영어로 작성되었으며, 한글로 번역하기는 어렵지만, "/인스턴트/"를 사용하여 표시할 수 있습니다.
+주소: https://www.infoq.com/news/2026/06/aws-api-gateway-auth-bypass/
+설명: AI : AWS HTTP API 경로에 뒷슬래시를 추가하면 Lambda 인증 인증이 전혀 무효화되어, 금융기관에서 무인증 송금이 가능해졌습니다. 이 문제의 원인은 AWS HTTP API의 많이 사용하는 경로 매핑과 인증 레이어 간의 경로 정규화 불일치입니다. gRPC-Go에서 동일한 취약성 클래스가 CVE-2026-33186를 통해 나타났습니다.
+#AWS #인증 #금육기관 #취약성
+
+Hashtags: #AWS, #인증, #금육기관, #취약성
 
 9 번째 검색 내용
-제목: Arm 은 Metis, AI 보안 프레임워크를 공개 소스로 발표합니다. 이 기술은 전통적인 SAST 도구에 비해 성능이 우수합니다.
+제목: DuckDB 큐악: HTTP를 사용한 클라이언트/서버 프로토콜을 통한 다중 사용자 분석
+
+(Note: The translation may not be perfect as it is a technical term. However, this should convey the meaning of the original sentence.)
+주소: https://www.infoq.com/news/2026/05/duckdb-quack-protocol/
+설명: DuckDB는 최근에 Quack이라는 HTTP를 사용하는 원격 프로토콜을 발표했습니다. 이 프로토콜은 네트워크에서 동시에 같은 데이터베이스를 연결하고 작업할 수 있는 DuckDB 인스턴스 간의 클라이언트-서버 기능을 소개합니다. 이 데이터베이스는 이전에는 대부분 로컬과 임베디드이었습니다.
+#DuckDB #원격프로토콜 #HTTP #클라이언트서버
+
+#hashtags: #데이터베이스 #네트워크 #인공지능 #AI #기술
+
+10 번째 검색 내용
+제목: Arm은 기존의 SAST 도구보다 우수한 AI 보안 프레임워크인 Metis를 오픈소스로 공개합니다.
 주소: https://www.infoq.com/news/2026/05/arm-metis-agentic-security/
 설명: Arm has open-sourced Metis, an agentic AI security framework designed to autonomously uncover complex software vulnerabilities. Unlike traditional pattern-based tools, Metis applies semantic reasoning to analyze cross-component dependencies and provides clear, natural language explanations for its findings.
 #인공지능 #보안 #소프트웨어 #취약점
@@ -77,20 +84,20 @@ Hashtags: #OpenTelemetry, #관측성, #복잡성, #규모에따른복잡성
 Translated content: Arm has open-sourced Metis, an agentic AI security framework designed to autonomously uncover complex software vulnerabilities. Unlike traditional pattern-based tools, Metis applies semantic reasoning to analyze cross-component dependencies and provides clear, natural language explanations for its findings.
 #인공지능 #보안 #소프트웨어 #취약점
 
-10 번째 검색 내용
+11 번째 검색 내용
 제목: 구글 클라우드가 철도사업의 생산 계정을 중지하여, 전체 플랫폼에서 8시간 동안 서비스 중단
 
-(Note: The translation may not be perfect as it is a direct translation from English to Korean. The sentence structure and grammar might need adjustments for natural Korean.)
+(Note: The translation may not be perfect as it is a machine translation. Please double-check the translation for accuracy.)
 주소: https://www.infoq.com/news/2026/05/railway-gcp-account-outage/
-설명: Google Cloud의 자동화 시스템이 철도 생산 계정을 알림없이 중지하게 되어, 300만 명의 사용자에게 영향을 미치는 8시간 동안 전체 플랫폼 장애가 발생했습니다. 캐스케이드는 AWS와 바레메탈 모두의 워크로드를 포함하여 제어 평면이 GCP에 호스팅되었기 때문에 전체적으로 다운되었습니다. 철도는 GCP를 백업만 가능한 상태로 낮추고 있습니다.
-#인공지능 #클라우드서비스 #장애 #철도
+설명: Google Cloud의 자동화 시스템이 철도사업의 생산 계정을 알림없이 중지하면서, 300만 명의 사용자에게 영향을 미치는 8시간 동안 플랫폼 전체 장애가 발생했습니다. 캐스케이드는 AWS와 바레메탈 모두의 워크로드를 포함하여 제어 평면이 GCP에 호스팅되었기 때문에 전체적으로 다운되었습니다. 철도는 GCP를 백업만 가능한 상태로 낮추고 있습니다.
+#인공지능 #클라우드서비스 #장애 #GoogleCloudPlatform
 
-#hashtags: #AI #cloudservices #outage #railway
+#hashtags: #AI #cloudservices #outage #GoogleCloudPlatform
 
-11 번째 검색 내용
-제목: [INST] 데이터 수집을 펑테비트 규모로 신뢰성 있게 재구성한 메타의 방법 [/INST]
+12 번째 검색 내용
+제목: [INST] 데이터 수집을 펑테비트 규모에서의 신뢰성으로 재구성한 메타의 방법 [/INST]
 주소: https://www.infoq.com/news/2026/05/meta-cdc-migration/
-설명: Meta의 엔지니어링 팀은 최근 회사가 매일 몇 피바이트의 MySQL 소셜 그래프 데이터를 전송하는 데이터 인제스션 플랫폼을 향상된 신뢰도와 운영 효율성을 위해 마이그레이션했다는 방법을 설명했습니다. 팀은 전환 중에 다운타임이 발생하지 않도록 기술들인 리버스 쉐도우링과 연속적인 체크섬 모니터링을 사용했습니다.
+설명: Meta의 엔지니어링 팀은 최근 회사가 매일 몇 피바이트의 MySQL 소셜 그래프 데이터를 전송하는 데이터 인제스션 플랫폼을 향상된 신뢰성과 운영 효율성을 위해 마이그레이션했는 방법을 자세히 설명했습니다. 팀은 전환 중에 다운타임이 발생하지 않도록 기술들인 리버스 쉐도우링과 연속적인 체크섬 모니터링을 사용했습니다.
 #데이터베이스 #데이터마이그레이션 #Meta
 
 Translated sentence: Meta's engineering team recently outlined how the company migrated a data ingestion platform that transfers several petabytes of MySQL social graph data daily to improve reliability and operational efficiency. The team used techniques like reverse shadowing and continuous checksum monitoring to ensure zero downtime during the transition.
@@ -98,36 +105,28 @@ Translated sentence: Meta's engineering team recently outlined how the company m
 
 Hashtags: #데이터베이스, #데이터마이그레이션, #Meta
 
-12 번째 검색 내용
-제목: 인공지능 지원 마이그레이션 도구는 팀이 ingress-nginx에서 Higress로 몇 분 만에 쉽게 이동할 수 있도록 도와줍니다.
+13 번째 검색 내용
+제목: 인공지능 지원 마이그레이션 도구는 팀이 ingress-nginx에서 Higress로 몇 분 만에 이동할 수 있도록 도와줍니다.
 주소: https://www.infoq.com/news/2026/05/ai-nginx-higress/
-설명: AI : 클라우드 네이티브 컴퓨팅 재단은 인공지능을 도와서 엔지니어들이 60개의 ingress-nginx 리소스를 Higress로 이전할 수 있는 새로운 AI 지원 이전 접근 방식을 강조했습니다. 이것은 약 30분 내에 완료되었으며, 인공지능이 Kubernetes 네트워킹 및 게이트웨이 인프라를 모던화하는 데 점차적으로 적용되어 있음을 보여줍니다.
-#클라우드네이티브컴퓨팅재단 #인공지능 #Kubernetes네트워킹 #게이트웨이인프라모던화
+설명: AI : 클라우드 네이티브 컴퓨팅 재단은 인공지능을 도와서 엔지니어들이 60개의 ingress-nginx 리소스를 Higress로 이전할 수 있는 새로운 AI 지원 이전 접근 방식을 강조했습니다. 이것은 Kubernetes 네트워킹 및 게이트웨이 인프라를 모던화하기 위해 인공지능이 점차 적용되는 방식을 보여줍니다.
+#클라우드네이티브컴퓨팅재단 #인공지능 #Kubernetes #게이트웨이인프라모던화
 
 Translated sentence: The Cloud Native Computing Foundation has highlighted a new AI-assisted migration approach that enabled engineers to migrate 60 ingress-nginx resources to Higress in roughly 30 minutes, demonstrating how artificial intelligence is increasingly being applied to modernize Kubernetes networking and gateway infrastructure.
-Hashtags: #클라우드네이티브컴퓨팅재단 #인공지능 #Kubernetes네트워킹 #게이트웨이인프라모던화
-
-13 번째 검색 내용
-제목: [INST] 깃허브 슬래시 에이전트 워크플로우 토큰 소비를 최대 62%까지 줄여 일간 감사와 MCP 정리를 통해 [/INST]
-주소: https://www.infoq.com/news/2026/05/github-agentic-token-savings/
-설명: GitHub은 에이전트릭 CI 워크플로우의 토큰 비용을 62%까지 절약할 수 있도록 사용되지 않는 MCP 도구를 제거하고, 일부 MCP 호출을 gh CLI로 교체하며, 매일 “auditor”와 “optimizer” 에이전트를 실행합니다. 토큰 사용량을 추적하기 위해 token-usage.jsonl 아티팩트와 모델별 비용을 추적하고 회귀를 발견하기 위한 Effective Tokens 메트릭을 사용합니다.
-#에이전트릭 #토큰_절약 #CI_워크플로우
-#hashtags: #에이전트릭Ci, #토큰_절약_방법, #GitHub_효과적_토큰
+Hashtags: #클라우드네이티브컴퓨팅재단 #인공지능 #Kubernetes #게이트웨이인프라모던화
 
 14 번째 검색 내용
-제목: 계정성은 AI의 목표이며, EU 규정이 투명성을 지원합니다.
-주소: https://www.infoq.com/news/2026/05/accountability-AI-EU-regulations/
-설명: AI 편향은 인간의 편향과 같이 언어와 살아가는 경험에서 나오고 있습니다; 그리고  эти 두 가지는 분리할 수 없습니다. AI 변화는 피해를 일으키는 행위를 더 쉽게 실행할 수 있도록 변화를 가져옵니다. EU 규정은 AI에 적용되며, 디지털 제품은 제품입니다. 최종 목표는 책임감: 회사들은 투명성을 보장하고 법은 일을 완료하는 데 필요한 AI의 가장 간단한 것을 사용할 때를 선호해야 합니다.
-#인공지능 #책임감 #규제
+제목: [INST] 깃허브 슬래시 에이전트 워크플로우 토큰 소비를 최대 62%까지 줄여 매일 감사와 MCP 정리를 통해 [/INST]
+주소: https://www.infoq.com/news/2026/05/github-agentic-token-savings/
+설명: GitHub은 에이전트릭 CI 워크플로우의 토큰 비용을 62%까지 절약할 수 있도록 사용되지 않는 MCP 도구를 제거하고, 일부 MCP 호출을 gh CLI로 교체하며, 매일 “감사자”와 “최적화자” 에이전트를 실행합니다. 토큰 사용량을 추적하고 모델 간 비용 변동과 회귀를 검출하기 위해 token-usage.jsonl 아티팩트와 Effective Tokens 메트릭을 사용합니다.
+#에이전트릭 #토큰_절약 #CI_워크플로우
 
-Hashtags: #인공지능, #책임감, #규제
+Hashtags: #에이전트릭, #토큰_절약, #CI_워크플로우
 
 15 번째 검색 내용
-제목: 마이크로소프트는 첫 번째 일반적인 목적의 서버 리눅스 배포판인 Azure Linux 4.0을 발표합니다.
-[/INST]
-주소: https://www.infoq.com/news/2026/05/azure-linux-4-server/
-설명: Microsoft는 Open Source Summit에서 Azure Linux 4.0과 Azure Container Linux을 발표했습니다. Azure Linux 4.0은 Azure VM용 Fedora 기반 일반적인 서버 배포입니다, Microsoft가 컨테이너 호스팅 밖에서도 지원하는 Linux를 제공한 첫 번째 시점입니다. Azure Container Linux은 Flatcar를 기반으로 변경 불가능한 컨테이너 최적화된 호스트입니다.
-#AzureLinux #Microsoft #컨테이너 #Flatcar
+제목: 계정성은 AI의 목표이며, EU 규정이 투명성을 지원합니다.
+주소: https://www.infoq.com/news/2026/05/accountability-AI-EU-regulations/
+설명: AI 편향은 인간의 편향과 같이 언어와 살아가는 경험에서 출발합니다; 둘은 모두 인공지능과 인간 편향을 갖습니다.  эти 및 AI는 분리할 수 없으며, AI는 악의 행동을 더 쉽게 실행할 수 있도록 변화를 가져옵니다. EU 규정은 AI에 적용되고, 디지털 제품은 제품입니다. 최종 목표는 책임감: 회사들은 투명성을 보장하고 법은 일반적인 AI를 사용하도록 향한 것입니다.
+#인공지능 #편향 #책임감 #법률변화
 
-#hashtags: #AzureLinux, #Microsoft, #컨테이너, #Flatcar
+#hashtags: #AIethics, #AIaccountability, #EUregulations
 
