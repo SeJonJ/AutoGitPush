@@ -1,0 +1,137 @@
+1 번째 검색 내용
+제목: [INST] 계정당 초당 30개 이상의 업데이트: 우버는 배치를 사용하여 레지더 처리 확장
+[/INST]
+주소: https://www.infoq.com/news/2026/06/uber-payment-batching-system/
+설명: Uber는 규모에 따른 착수 대처 문제를 해결하기 위한 고속 금융 레지더 처리 시스템을 도입했습니다. 250ms 배치, Redis 협력 및 乐观 원자 업데이트를 사용하여 시스템은 계정당 30개 이상의 초당 처리를 지원하면서도 일관성과 감사 가능성을 유지합니다. 이로 인해 분산된 재무 철학 인프라에서 몇 시간의 처리 파이프라인을 분钟으로 줄였습니다.
+#분산처리 #금융인프라 #레지더처리시스템
+
+Translated content hashtags: #분산처리, #금육인프라, #레지더처리시스템
+
+2 번째 검색 내용
+제목: 데이터 기반 대화 문화가 플랫폼 엔지니어링을 지원하는 방법:
+
+[INST] 데이터 기반 대화 문화가 플랫폼 엔지니어링에 어떻게 지원할 수 있는지 번역해주세요. [/INST]
+주소: https://www.infoq.com/news/2026/06/data-driven-platform-engineering/
+설명: To provide SRE as a service, a team built a center of excellence, introducing Federated SREs and roles like production manager and technical tribe lead. They created a culture of data-driven conversations where SLOs and SLAs were democratised. Surviving growing cognitive load meant continuously simplifying architecture and embedding sovereignty and resilience into platform design decisions.
+#SRE #서비스 #데이터주도적응대 #코드리뷰
+
+Translated content: 
+To provide SRE as a service, a team built a center of excellence, introducing Federated SREs and roles like production manager and technical tribe lead. They created a culture of data-driven conversations where SLOs and SLAs were democratised. Surviving growing cognitive load meant continuously simplifying architecture and embedding sovereignty and resilience into platform design decisions.
+#SRE #서비스 #데이터주도적응대 #코드리뷰
+
+Hashtags: 
+#SRE #서비스 #데이터주도적응대 #코드리뷰
+
+3 번째 검색 내용
+제목: AWS는 삼성 트리 데이터 센터 네트워크를 랜덤 그래프 이론으로 대체, 라우터 69% 감소
+
+(Note: The translation may not be perfect as it is a technical term. Please check the meaning and context before using it.)
+주소: https://www.infoq.com/news/2026/06/aws-random-graph-data-center/
+설명: AWS는 새로운 데이터센터 빌드에 대해 탄력적 네트워크 그래프, 가우시 랜덤 그래프 이론을 기반으로 한 평면 네트워크 아키텍처를 기본으로 설정하였습니다. 이 디자인은 탄력적 네트워크 그래프에서 토르(Top of Rack) 장비들을 직접 메시 연결로 대체하여, 라우터를 69% 줄였으며, 통과량을 33% 높이고, 네트워크 전력 소모를 40% 감소시킵니다.
+#데이터센터 #탄력적네트워크그래프 #라우터 #통과량 #전력소모
+
+Translated sentence: AWS announced that Resilient Network Graphs, a flat network architecture based on quasi-random graph theory, is now the default for most new data center builds. The design replaces fat-tree hierarchies with direct ToR-to-ToR mesh connections using passive optical ShuffleBoxes, cutting routers by 69%, boosting throughput by 33%, and reducing network power consumption by 40%.
+#AWS #데이터센터 #탄력적네트워크그래프 #라우터 #통과량 #전력소모
+
+4 번째 검색 내용
+제목: 다음 .js 16.2: 개발 시작 속도가 400% 빠르고, 렌더링 속도가 빠르며, AI 에이전트용 더 깊은 도구를 제공합니다.
+주소: https://www.infoq.com/news/2026/06/nextjs-6-2/
+설명: Vercel has released Next.js 16.2, featuring performance enhancements that make development startup 400% faster and rendering up to 60% quicker. The update includes AI-assisted development tools, improved Turbopack efficiency, and better error reporting. Migration from Next.js 15 is supported, and compatibility is set for Node.js 20.9 and TypeScript 5.1 or newer.
+#Next.js #Vercel #성능개선
+
+Translated content: Vercel has released Next.js 16.2, featuring performance enhancements that make development startup 400% faster and rendering up to 60% quicker. The update includes AI-assisted development tools, improved Turbopack efficiency, and better error reporting. Migration from Next.js 15 is supported, and compatibility is set for Node.js 20.9 and TypeScript 5.1 or newer.
+#Next.js #Vercel #성능개선
+
+Hashtags: #Next.js, #Vercel, #성능개선
+
+5 번째 검색 내용
+제목: 구글의 전세계적인 서비스 풀에서 조정된 A/B 테스트 시스템 내부
+
+(Note: The translation may not be perfect as it is a direct translation without considering the context and grammar rules of the Korean language. It's always recommended to have a native speaker or professional translator check the translation for accuracy.)
+주소: https://www.infoq.com/news/2026/06/google-fleet-ab-experimentation/
+설명: Google은 분산 서비스에서 실험 할당, 노출 로깅 및 구성 전파를 표준화하기 위한 대규모 A/B 실험 시스템을 공유했습니다. 이 접근 방식은 제품 간의 일관된 측정, 실험 충돌 감소 및 데이터 기반 결정 만들기에 대규모 신뢰성을 향상시키는 것을 가능하게 합니다.
+#Google #A/B실험 #분산서비스 #데이터기반결정
+
+#hashtags: #Google #A/BExperimentation #DistributedServices #DataDrivenDecisionMaking
+
+6 번째 검색 내용
+제목: 노드.제스 한 번의 주요 릴리즈로 이동하며, 노드 27에서 시작합니다.
+주소: https://www.infoq.com/news/2026/06/nodejs-release-changes/
+설명: Node.js 는 10월 2026년부터 버전 27에서 시작하여 한 해에 두 번의 주요 릴리스를 1번으로 변경됩니다. 모든 릴리스는 Long-Term Support(LTS)가 되며, 홀수와 짝수 버전의 구분이 제거됩니다. Alpha 채널도 초기 테스트를 위해 소개될 것입니다. 이 결정은 유지보수 문제와 사용자 요구 사항을 적합하게 맞추려는 노력의 일부입니다.
+#Node.js #유지보수 #릴리스 일정 #사용자 요구 사항
+
+#hashtags: #NodeJS #MaintenanceChallenges #UserNeeds
+
+7 번째 검색 내용
+제목: OpenTelemetry는 "블루프린트" 초기화를 시작하여 엔터프라이즈 오버잭티비리 적용을 간소화합니다.
+주소: https://www.infoq.com/news/2026/06/opentelemetry-blueprints-launch/
+설명: AI : OpenTelemetry는 관측성 시스템을 규모에 따라 복잡하게 배포하고 운영하는 데 대한 증가하는 복잡성을 줄이기 위해 "블루프린트" 초기화이브를 소개했습니다.
+#OpenTelemetry #관측성 #배포 #운영
+
+Hashtags: #관측성시스템, #규모에따른복잡성, #OpenTelemetryInitiative
+
+8 번째 검색 내용
+제목: 구글 워크스페이스 CLI: 인간과 AI 에이전트를 위해 통합된 명령줄 도구
+[/INST]
+주소: https://www.infoq.com/news/2026/06/google-workspace-cli/
+설명: Google은 Google Workspace에 대한 새로운 CLI를 발표했습니다. Drive, Gmail, 및 캘린더와 같은 여러 서비스에 대한 통합 인터페이스를 제공합니다. Rust로 구축되었으며 API 변경에 동적으로 적응하고 100개 이상의 번들된 기능을 포함합니다. Node.js와 Google Cloud 프로젝트가 필요한 설정입니다. 초기 커뮤니티 피드백은 동적 기능과 설정 도전에 대한 긍정적이고 부정적인 응답을 강조합니다.
+#Google #GoogleWorkspace #CLI #Node.js
+#GoogleCloud #Rust #API #동적 기능 #설정 도전 #커뮤니티 피드백
+
+9 번째 검색 내용
+제목: 자바 뉴스 요약: OpenJDK JEPs, Hazelcast, Quarkus, Hibernate, Koog, JHipster, Endive을 소개합니다.
+주소: https://www.infoq.com/news/2026/06/java-news-roundup-may25-2026/
+설명: Java 주기억장치(JEP) 2개를 포함한 이번 5월 25일 주간 Java 뉴스 요약에는 다음과 같은 소식이 있습니다: JDK 27의 목표로 지정된 두 개의 JEP에서 수명 변경; Koog 1.0 GA 릴리스; Hazelcast, Quarkus, Hibernate 및 JHipster의 포인트 릴리스; Spring AI 2.0의 8번째 amilestone 릴리스; 그리고 Endive, JVM-native WebAssembly(Wasm) 런타임입니다.
+#Java #JDK27 #WebAssembly #Endive
+
+#hashtags: #Java #JDK27 #WebAssembly #Endive
+
+10 번째 검색 내용
+제목: 클로드 코드는 병렬 에이전트 조정을 위한 동적 워크플로우를 추가합니다.
+주소: https://www.infoq.com/news/2026/06/dynamic-workflows-claude-code/
+설명: Anthropic은 Claude Code의 새로운 기능인 Dynamic Workflows를 소개했습니다. 이 기능은 복잡한 소프트웨어 엔지니어링 작업을 처리하는 데 도움이 되며, 단일 워크플로우 내에서 대규모의 AI 에이전트를 조정하고 관리합니다. 기능은 Claude가 작업을 구성하여 실행하고, 결과를 검증하고, 최종 답변을 제공하기 전에 동시에 실행할 수 있도록 동적으로 오르케스트레이션 스크립트를 생성하고 작업을 분할할 수 있습니다.
+#인공지능 #소프트웨어엔지니어링 #워크플로우 #클로드코드
+
+#hashtags: #AI #SoftwareEngineering #WorkflowManagement #ClaudeCode
+
+11 번째 검색 내용
+제목: 샵이프리 보고서는 넓은 우선순위 엔진으로 인해 GraphQL 실행 속도가 15배 향상됩니다.
+주소: https://www.infoq.com/news/2026/06/shopify-graphql-cardinal-bfs/
+설명: Shopify는 GraphQL Cardinal, 깊이 우선 순회를 범위 우선 실행으로 대체한 새로운 실행 엔진을 소개했습니다. 재설계는 대규모 GraphQL 성능을 향상시키며, 15배 더 빠른 필드 실행, GC 오버헤드가 6배 줄어들고 P50 지연 시간이 +4초 증가합니다. 실행 층에서의 효율성과 고 카드리널리티 상거래 쿼리에 대한 배치 리졸버 처리를 중점적으로 집중합니다.
+#GraphQL #Cardinal #Shopify #HighPerformance
+#인공지능 #의료 #금융 #교통
+
+12 번째 검색 내용
+제목: 나쁜 호스트 취약점으로 AI 에이전트, 평가자, 및 LLM 게이트웨이가 노출됩니다.
+주소: https://www.infoq.com/news/2026/06/badhost-ai-systems-vulnerability/
+설명: BadHost는 인기 있는 Python 웹 프레임워크 Starlette의 고급 취약점 중 하나입니다. 이 취약점은 HTTP Host 헤더를 잘못 형식화한 요청을 사용하여 경로 기반 액세스 제어를 우회하고 민감한 AI 에이전트 인프라와 같은 다양한 시스템에 접근할 수 있게 합니다.
+#인공지능 #취약점 #웹프레임워크
+
+#hashtags: #AI #Vulnerability #WebFramework
+
+13 번째 검색 내용
+제목: A Trailing Slash Bypassed AWS API Gateway Authorization: /
+
+[INST] 아웃틀링 슬래시가 AWS API Gateway 인증을 우회했습니다. [/INST]
+주소: https://www.infoq.com/news/2026/06/aws-api-gateway-auth-bypass/
+설명: AI : AWS HTTP API의 경
+
+14 번째 검색 내용
+제목: DuckDB 큐악: HTTP를 사용한 클라이언트/서버 프로토콜을 통한 다중 사용자 분석
+
+(Note: The translation may not be perfect as some phrases might need to be adjusted for natural Korean sentence structure.)
+주소: https://www.infoq.com/news/2026/05/duckdb-quack-protocol/
+설명: DuckDB는 최근에 Quack이라는 HTTP를 사용하는 원격 프로토콜을 발표했습니다. 이 프로토콜은 DuckDB 인스턴스가 네트워크上의 동일한 데이터베이스에 연결하고 작업할 수 있도록 여러 DuckDB 인스턴스를 지원합니다. 이 프로토콜은 이전에는 대부분 로컬과 임베디드된 데이터베이스에 클라이언트-서버 기능을 도입합니다.
+#DuckDB #원격프로토콜 #HTTP #데이터베이스
+
+#hashtags: #데이터분석 #데이터처리 #고성능데이터베이스
+
+15 번째 검색 내용
+제목: Arm은 기존의 SAST 도구보다 우수한 AI 보안 프레임워크인 Metis를 오픈소스로 공개합니다.
+주소: https://www.infoq.com/news/2026/05/arm-metis-agentic-security/
+설명: Arm has open-sourced Metis, an agentic AI security framework designed to autonomously uncover complex software vulnerabilities. Unlike traditional pattern-based tools, Metis applies semantic reasoning to analyze cross-component dependencies and provides clear, natural language explanations for its findings.
+#인공지능 #보안 #소프트웨어 #취약점
+
+Translated content: Arm has open-sourced Metis, an agentic AI security framework designed to autonomously uncover complex software vulnerabilities. Unlike traditional pattern-based tools, Metis applies semantic reasoning to analyze cross-component dependencies and provides clear, natural language explanations for its findings.
+#인공지능 #보안 #소프트웨어 #취약점
+
