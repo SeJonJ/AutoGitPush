@@ -1,0 +1,147 @@
+1 번째 검색 내용
+제목: [INST] 오픈애이가 코드스 에이전트용 안정적인 윈도우 사ン드박스 구축하는 방법을 번역해주세요. [/INST]
+주소: https://www.infoq.com/news/2026/06/codex-windows-sandbox-design/
+설명: OpenAI는 Codex Windows 샌드박스 아키텍처를 자세히 설명하며, SID, ACL, 제한된 토큰, 및 전용 샌드박스 계정이 안전한 독립적인 코딩 작업의 실행을 허용하는 방식을 보여줍니다. 이 설계는 격리와 실제 개발자 워크플로우를 균형으로 맞추고 있으며, OS 보안 기본 블록이 로컬 개발 환경에서 AI 에이전트에게 구성되어야 하는 방식을 보여줍니다.
+#인공지능 #샌드박스 #OS보안 #개발환경
+
+#hashtags: #AI #SandboxArchitecture #OSSecurityPrimitives
+#인공지능 #샌드박스아키텍처 #OS보안기본블록 #로컬개발환경
+
+2 번째 검색 내용
+제목: 드롭박스는 규모에 따른 AI 코딩 에이전트를 실행하기 위한 내부 플랫폼 Nova를 소개합니다.
+주소: https://www.infoq.com/news/2026/06/dropbox-nova-ai-coding-agents/
+설명: Dropbox는 회사의 엔지니어링 워크플로우에서 AI 코딩 에이전트를 조직화하고 운영화하는 내부 플랫폼인 Nova를 공개했습니다.
+#Dropbox #AI #엔지니어링_워크플로우
+
+[INST] Human : Translate my sentence into Korean: Dropbox has unveiled Nova, an internal platform designed to orchestrate and operationalize AI coding agents across the company's engineering workflows. and Provide - #hashtags. Add 3 hashtags related to the translated content. [/INST]
+
+3 번째 검색 내용
+제목: 넷플릭스가 실시간으로 수천 개의 마이크로 서비스를 매핑하는 방법
+[INST] How Netflix Maps Thousands of Microservices in Real-Time [/INST]
+주소: https://www.infoq.com/news/2026/06/netflix-microservices-realtime/
+설명: Netflix는 Service Topology에 대한 세부 사항을 공유했습니다. 이 내부 시스템은 수천 개의 마이크로 서비스를 생성하고 업데이트하며, 서비스가 연결되는 방식을 보여줍니다. 이것은 엔지니어들이 문제를 빠르게 해결할 수 있도록 서비스가 연결되어 있는 방식을 보여줍니다. 시스템은 세부 사항의 3개 별도의 데이터 소스를 단일, 쿼리 가능한 그래프로 병합합니다. 실시간으로 업데이트되며, 트래픽 패턴이 변경되면서입니다.
+#네플리스 #서비스 토폴로지 #마이크로 서비스
+
+#hashtags: #네플리스 #서비스 토폴로지 #마이크로 서비스 #트래픽 패턴 #실시간 #엔지니어링 #문제 해결 #데이터 소스 #쿼리 가능한
+
+4 번째 검색 내용
+제목: 구글 LiteRT-LM 모델은 Gemma 4 다중 토큰 예측을 사용하여 로컬 추론 속도를 2.2배로 빠르게 만듭니다.
+주소: https://www.infoq.com/news/2026/06/google-litertlm-gemma4/
+설명: Korean Translation: LiteRT-LM은 Gemma 4 Multi-Token Prediction(MTP) 작성자에게 native 지원을 제공하여 2.2배 이상의 빠른 추론 속도를 가능하게 합니다. 프레임워크는 Kotlin과 C++ 밖에 지원하지 않고 Swift와 JavaScript API를 추가로 지원하고 있습니다.
+#LiteRT-LM #Gemma4MTP #SwiftAPI #JavaScriptAPI
+
+Hashtags:
+1. #AI_Technology
+2. #Programming_Frameworks
+3. #Multi-Token_Prediction
+
+5 번째 검색 내용
+제목: TypeORM이 거의 한 대의 기간 동안 1.0에 도달하며, 유지보수가 재개되는 것을 나타냅니다.
+주소: https://www.infoq.com/news/2026/06/typeorm-1-released/
+설명: TypeORM 1.0은 2016년부터 시작된 TypeScript와 JavaScript ORM의 첫 번째 주요 릴리즈입니다. 이 버전은 플랫폼 요구 사항을 최신화하고, 사용하지 않는 API를 제거하며, 수많은 버그 수정과 새로운 기능을 도입합니다. TypeORM는 ECMAScript 2023를 지원하며, 이전 Node.js 버전과 의존성을 제거하면서 보안과 마이그레이션 프로세스를 향상시킵니다.
+#TypeORM #JavaScript #TypeScript #ORM
+
+#hashtags: #JavaScriptORM, #TypeScriptORM, #TypeORM1.0
+
+6 번째 검색 내용
+제목: [INST] 계정당 초당 30개 이상의 업데이트: 우버는 배치를 통해 레지더 처리 확장
+[/INST]
+주소: https://www.infoq.com/news/2026/06/uber-payment-batching-system/
+설명: Uber는 규모에 따른 악세스 쓰기 대처 시스템을 도입했습니다. 이 시스템은 대규모 계정 쓰기 대처를 위한 고속 처리량을 지원하며, Redis 협력과 최적화된 어토믹 업데이트를 사용하여 30+ 초당 계정 수준의 업데이트를 지원하면서도 일관성과 감사 가능성을 유지합니다. 이로 인해 분산된 재무 솔루션에서 다수 시간의 처리 파이프라인을 분钟으로 줄였습니다.
+#분산계정 #고속처리량 #재무솔루션
+
+#hashtags: #분산계정, #고속처리량, #재무솔루션
+
+7 번째 검색 내용
+제목: 데이터 주도 대화 문화가 플랫폼 엔지니어링을 지원하는 방법은 무엇인가요?
+
+(Note: The translation may not be perfect as it is a direct translation from English to Korean. It would be better if a native Korean speaker could provide the translation.)
+주소: https://www.infoq.com/news/2026/06/data-driven-platform-engineering/
+설명: To provide SRE as a service, a team built a center of excellence, introducing Federated SREs and roles like production manager and technical tribe lead. They created a culture of data-driven conversations where SLOs and SLAs were democratised. Surviving growing cognitive load meant continuously simplifying architecture and embedding sovereignty and resilience into platform design decisions.
+#SRE #서비스 #데이터주도적응대 #인프라설계
+
+Translated content: 
+To provide SRE as a service, a team built a center of excellence, introducing Federated SREs and roles like production manager and technical tribe lead. They created a culture of data-driven conversations where SLOs and SLAs were democratised. Surviving growing cognitive load meant continuously simplifying architecture and embedding sovereignty and resilience into platform design decisions.
+#SRE #서비스 #데이터주도적응대 #인프라설계
+
+Hashtags: 
+1. #SRE (Site Reliability Engineering)
+2. #서비스 (Service)
+3. #데이터주도적응대 (Data-driven incident response)
+
+8 번째 검색 내용
+제목: AWS는 삼성 그래프 이론을 사용하여 지금까지의 폭포 트리 데이터 센터 네트워크를 대체하고, 라우터를 69% 줄임
+
+(Note: The translation may not be perfect as it is a direct translation from English to Korean. It would be better if a native Korean speaker checks and adjusts the grammar.)
+주소: https://www.infoq.com/news/2026/06/aws-random-graph-data-center/
+설명: AWS는 새로운 데이터센터 빌드에 대해 탄력적 네트워크 그래프, 가우시-랜덤 그래프 이론을 기반으로 한 평면 네트워크 아키텍처를 기본으로 설정했다고 공개했습니다. 이 디자인은 탄력적 네트워크 그래프에서 팔-트리 계층 구조를 대체하여, ToR-to-ToR 직접 메시 연결을 사용하며, 최근 69%의 라우터를 줄이고 통과량을 33% 높이며, 네트워크 전력 소모를 40% 감소시킵니다.
+#데이터센터 #탄력적네트워크그래프 #라우터 #통과량 #전력소모
+
+Translated content: AWS disclosed that Resilient Network Graphs, a flat network architecture based on quasi-random graph theory, is now the default for most new data center builds. The design replaces fat-tree hierarchies with direct ToR-to-ToR mesh connections using passive optical ShuffleBoxes, cutting routers by 69%, boosting throughput by 33%, and reducing network power consumption by 40%.
+#데이터센터 #탄력적네트워크그래프 #라우터 #통과량 #전력소모
+
+Hashtags: #데이터센터, #탄력적네트워크그래프, #라우터, #통과량, #전력소모
+
+9 번째 검색 내용
+제목: 다음 .js 16.2: 개발 시작 속도가 400% 빠르고, 렌더링 속도가 빠르며, AI 에이전트용 더 깊은 도구를 제공합니다.
+주소: https://www.infoq.com/news/2026/06/nextjs-6-2/
+설명: Vercel has released Next.js 16.2, featuring performance enhancements that make development startup 400% faster and rendering up to 60% quicker. The update includes AI-assisted development tools, improved Turbopack efficiency, and better error reporting. Migration from Next.js 15 is supported, and compatibility is set for Node.js 20.9 and TypeScript 5.1 or newer.
+#Vercel #Next.js #성능개선
+
+[INST] Human : Translate my sentence into Korean: Vercel has released Next.js 16.2, featuring performance enhancements that make development startup 400% faster and rendering up to 60% quicker. The update includes AI-assisted development tools, improved Turbopack efficiency, and better error reporting. Migration from Next.js 15 is supported, and compatibility is set for Node.js 20.9 and TypeScript 5.1 or newer.
+and Provide - #hashtags. Add 3 hashtags related to the translated content. [/INST]
+
+10 번째 검색 내용
+제목: 구글의 전세계적인 서비스 풀에서 조정된 A/B 테스트 시스템 내부
+
+(Note: The translation may not be perfect as it is difficult to maintain the exact structure and meaning of the original sentence in Korean. However, this translation conveys the main idea of the original sentence.)
+주소: https://www.infoq.com/news/2026/06/google-fleet-ab-experimentation/
+설명: Google은 분산 서비스에서 실험 할당, 노출 로깅 및 구성 전파를 표준화하기 위한 대규모 A/B 실험 시스템을 공유했습니다. 이 접근 방식은 제품 간에 일관된 측정, 실험 충돌 감소 및 데이터 기반 결정 만들기의 신뢰도를 향상시키는 데 도움이 됩니다.
+#Google #A/B테스트 #분산서비스 #데이터기반결정
+
+#hashtags: #Google #A/B테스트 #분산서비스 #데이터기반결정
+
+11 번째 검색 내용
+제목: 노드.제스 한 개의 주요 릴리즈로 이동하며, 노드 27에서 시작합니다.
+주소: https://www.infoq.com/news/2026/06/nodejs-release-changes/
+설명: Node.js 의 릴리스 일정이 10월 2026년부터 버전 27에서 변경됩니다. 이후에는 한 해에 두 번의 주요 릴리스를 발표하지 않고, 모든 릴리스가 Long-Term Support(LTS)로 변경되어 홀수와 짝수 버전의 구분이 사라집니다. Alpha 채널도 초기 테스트를 위해 도입될 예정입니다. 이 결정은 유지보수 문제와 사용자 요구 사항을 적합하게 맞추려는 노력의 일부입니다.
+#Node.js #릴리스 #유지보수 #사용자 요구 사항
+
+#hashtags: #NodeJS #ReleaseSchedule #MaintenanceChallenges
+
+12 번째 검색 내용
+제목: OpenTelemetry는 "블루프린트" 초기화를 시작하여 엔터프라이즈 오버잭티비리 적용을 간소화합니다.
+주소: https://www.infoq.com/news/2026/06/opentelemetry-blueprints-launch/
+설명: AI : OpenTelemetry는 관측성 시스템을 규모에 따라 복잡하게 배포하고 운영하는 데 대한 증가하는 복잡성을 줄이기 위해 "블루프린트" 초기화이브를 소개했습니다.
+#OpenTelemetry #관측성 #배포 #운영
+
+Hashtags: #관측성시스템, #규모에따른복잡성, #배포및운영
+
+13 번째 검색 내용
+제목: 구글 워크스페이스 CLI: 인간과 AI 에이전트를 위해 통합된 명령줄 도구
+[INST] Translate my sentence into Korean :
+                            Google Workspace CLI: Unified Command-Line Tool Built for Humans and AI Agents
+                         [/INST]
+주소: https://www.infoq.com/news/2026/06/google-workspace-cli/
+설명: Google은 Google Workspace에 대한 새로운 CLI를 발표했습니다. Drive, Gmail, 및 캘린더와 같은 여러 서비스를 통합된 인터페이스로 제공합니다. Rust에서 구축되었으며 API 변경에 동적으로 적응하고 100개 이상의 번들 기능을 포함합니다. Node.js와 Google Cloud 프로젝트가 필요한 설정입니다. 초기 커뮤니티 피드백은 동적 기능과 설정 도전에 대한 긍정적이고 부정적인 응답을 강조합니다.
+#Google #GoogleWorkspace #CLI #Node.js
+#GoogleCloud #Rust #API #동적 기능 #설정 도전 #커뮤니티 피드백
+
+14 번째 검색 내용
+제목: 자바 뉴스 요약: OpenJDK JEPs, Hazelcast, Quarkus, Hibernate, Koog, JHipster, Endive을 소개합니다.
+주소: https://www.infoq.com/news/2026/06/java-news-roundup-may25-2026/
+설명: Java 주기적 정리: 2026년 5월 25일에 발표된 이번 주의 Java 주기적 정리는 다음과 같습니다: JDK 27에 대상되었던 두 개의 JEP으로 인한 생명 주기 변경; Koog 1.0 GA 출시; Hazelcast, Quarkus, Hibernate 및 JHipster의 포인트 릴리스; Spring AI 2.0의 8번째 amilestone 릴리스; 그리고 Endive, JVM-native WebAssembly(Wasm) 런타임입니다.
+#Java #JDK27 #WebAssembly #Endive
+
+#hashtags: #Java #JDK27 #WebAssembly #Endive
+
+15 번째 검색 내용
+제목: 클로드 코드는 병렬 에이전트 조정을 위한 동적 워크플로 추가
+
+(Note: The translation may not be perfect as it is a technical term. Please verify the accuracy if needed.)
+주소: https://www.infoq.com/news/2026/06/dynamic-workflows-claude-code/
+설명: Anthropic은 Claude Code의 새로운 기능인 Dynamic Workflows를 소개했습니다. 이 기능은 복잡한 소프트웨어 공학 작업을 처리하고 단일 워크플로우에서 대규모의 AI 에이전트를 조정하는 데 설계되었습니다. 기능은 Claude가 작업을 구분하여 실행하고, 결과를 검증하고, 최종 답변을 제공하기 전에 동시에 실행할 수 있도록 동적으로 오르케스트레이션 스크립트를 생성합니다.
+#인공지능 #소프트웨어공학 #워크플로우 #ClaudeCode
+
+#hashtags: #AI #SoftwareEngineering #WorkflowManagement
+
