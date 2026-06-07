@@ -1,0 +1,147 @@
+1 번째 검색 내용
+제목: 클라우드플레어: 쿼리 계획 병목 현상 확인 클릭하우스
+[INST] Cloudflare Identifies Query Planning Bottleneck in ClickHouse [/INST]
+
+이 문장은 "Cloudflare Identifies Query Planning Bottleneck in ClickHouse"를 한글로 번역한 것입니다. 클라우드플레어(Cloudflare)가 클릭하우스(ClickHouse)에서 쿼리 계획 병목 현상을 확인했음을 나타냅니다.
+주소: https://www.infoq.com/news/2026/06/cloudflare-clickhouse-bottleneck/
+설명: Cloudflare는 최근 ClickHouse의 쿼리 계획 단계에서 충돌을 발견하고 ClickHouse의 빌링 파이프라인의 느림을 추적한 것을 설명했습니다. 팀은 병목을 분석하여 ClickHouse를 수정하여 쿼리별로 부품 목록의 복사본을 제거하고, 부품 필터링을 개선하기 위해 전용 잠금을 공유 잠금으로 대체했습니다.
+
+#ClickHouse #빌링파이프라인 #쿼리계획단계 #병목 #개선
+#Hashtags: #데이터분석 #데이터베이스 #클라우드플랫폼
+
+2 번째 검색 내용
+제목: 오픈애이가 코드스 에이전트용 안전한 윈도우 사ン박스 구축하는 방법
+
+(Note: The translation may not be perfect as it is a technical term. However, the meaning should be clear.)
+주소: https://www.infoq.com/news/2026/06/codex-windows-sandbox-design/
+설명: OpenAI는 Codex Windows 샌드박스 아키텍처를 자세히 설명하며, SID, ACL, 제한된 토큰, 및 전용 샌드박스 계정이 안전한 독립적인 코딩 작업의 실행을 허용하는 방식을 보여줍니다. 이 설계는 격리와 실제 개발자 워크플로우를 균형으로 맞추고 있으며, OS 보안 기본 블록이 로컬 개발 환경에서 AI 에이전트에 대해 어떻게 구성되어야 하는지를 보여줍니다.
+#인공지능 #샌드박스 #OS보안 #로컬개발환경
+
+#hashtags: #AI #SandboxArchitecture #OSSecurity #LocalDevelopmentEnvironments
+
+3 번째 검색 내용
+제목: 드롭박스는 규모에 따른 AI 코딩 에이전트를 실행하기 위한 내부 플랫폼인 노바를 소개합니다.
+주소: https://www.infoq.com/news/2026/06/dropbox-nova-ai-coding-agents/
+설명: Dropbox는 회사의 엔지니어링 워크플로우에서 AI 코딩 에이전트를 조직화하고 실행하는 내부 플랫폼인 Nova를 공개했습니다.
+#Dropbox #AI #엔지니어링_워크플로우
+
+Translated sentence: Dropbox has unveiled Nova, an internal platform designed to orchestrate and operationalize AI coding agents across the company's engineering workflows.
+Hashtags: #Dropbox #AI #엔지니어링_워크플로우
+
+4 번째 검색 내용
+제목: 넷플릭스가 실시간으로 수천 개의 마이크로서비스를 매핑하는 방법
+
+(Note: The translation may not be perfect as it is a direct translation from English to Korean. The sentence structure and grammar might need adjustments for natural flow in the Korean language.)
+주소: https://www.infoq.com/news/2026/06/netflix-microservices-realtime/
+설명: Netflix는 Service Topology에 대한 세부 사항을 공유했습니다. 이 내부 시스템은 수천 개의 마이크로 서비스를 생성하고 업데이트하며, 실시간 종속성 그래프를 만듭니다. 이것은 엔지니어들이 서비스가 어떻게 연결되었는지 보여주고, 문제를 더 빠르게 해결할 수 있도록 도움을 줍니다. 시스템은 3개의 별도 데이터 소스를 하나의 쿼리 가능한 그래프로 병합합니다. 실시간으로 업데이트되며, 트래픽 패턴이 변경되면서 거의 실시간으로 업데이트됩니다.
+#네플리스 #서비스 토폴로지 #마이크로서비스 #실시간 업데이트
+
+Translated content: Netflix has shared details about Service Topology. This internal system creates and updates a live dependency graph for thousands of microservices. It helps engineers see how services connect and resolve issues more quickly. The system merges three separate data sources into a single, queryable graph. It updates almost in real-time as traffic patterns shift.
+#Netflix #ServiceTopology #Microservices #RealTimeUpdate
+
+5 번째 검색 내용
+제목: 구글 LiteRT-LM 로컬 추론 속도를 2.2배까지 높여 제공하는 Gemma 4의 다중 토큰 예측입니다.
+주소: https://www.infoq.com/news/2026/06/google-litertlm-gemma4/
+설명: AI : LiteRT-LM은 Gemma 4 Multi-Token Prediction(MTP) 작성자에게 native 지원을 제공하여 2.2x의 빠른 추론 속도를 달성할 수 있습니다. 프레임워크는 Kotlin과 C++ 이외에 Swift와 JavaScript API를 지원하며 확장되고 있습니다.
+#LiteRT-LM #Gemma4MTP #빠른추론속도 #SwiftAPI
+#hashtags : #인공지능, #머신러닝, #프레임워크
+
+6 번째 검색 내용
+제목: TypeORM이 거의 한 대의 기간 후에 1.0으로 발표되며, 유지보수가 재개된 것을 나타냅니다.
+주소: https://www.infoq.com/news/2026/06/typeorm-1-released/
+설명: TypeORM 1.0은 2016년 시작된 TypeScript와 JavaScript ORM의 첫 번째 주요 릴리스입니다. 이 버전은 플랫폼 요구 사항을 최신화하고, 사용하지 않는 API를 제거하며, 수많은 버그 수정과 새로운 기능을 도입합니다. TypeORM는 ECMAScript 2023를 지원하며, 이전 Node.js 버전과 종속성을 제거하면서 보안과 마이그레이션 프로세스를 향상시킵니다.
+#TypeORM #TypeScript #JavaScript #ORM
+
+#hashtags: #TypeScript, #JavaScript, #ORM
+
+7 번째 검색 내용
+제목: [INST] 계정당 초당 30개 이상의 업데이트: 우버는 배치를 통해 레지더 처리 확장
+[/INST]
+주소: https://www.infoq.com/news/2026/06/uber-payment-batching-system/
+설명: Uber는 규모에 따른 악세스 쓰기 대처 시스템을 도입했습니다. 이 시스템은 대규모 계정 쓰기 대처를 위한 고속 처리 능력을 갖추고 있으며, 분산된 금융 인프라에서 일관성과 감사 가능성을 유지하면서 30개 이상의 계정당 초당 처리를 지원합니다. 250ms 배치, Redis 조율 및 최적화된 어폰믹 원자 업데이트를 사용하여 이 시스템은 분산된 금융 인프라에서 다수 시간의 처리 파이프라인을 분钟으로 줄입니다.
+#분산처리 #금융인프라 #Uber #고속처리
+
+Translated content: Uber introduced a high-throughput financial ledger processing system designed to handle hot account write contention at scale. Using 250ms batching, Redis coordination, and optimistic atomic updates, the system supports 30+ updates per second per account while preserving consistency and auditability, reducing multi-hour processing pipelines to minutes in its distributed accounting infrastructure.
+#분산처리 #금융인프라 #Uber #고속처리
+
+8 번째 검색 내용
+제목: 데이터 기반 대화 문화가 플랫폼 엔지니어링을 지원하는 방법:
+
+[INST] 데이터 기반 대화 문화가 플랫폼 엔지니어링에 어떻게 지원할 수 있는지 번역해주세요. [/INST]
+주소: https://www.infoq.com/news/2026/06/data-driven-platform-engineering/
+설명: To provide SRE as a service, a team built a center of excellence, introducing Federated SREs and roles like production manager and technical tribe lead. They created a culture of data-driven conversations where SLOs and SLAs were democratised. Surviving growing cognitive load meant continuously simplifying architecture and embedding sovereignty and resilience into platform design decisions.
+#SRE #서비스 #데이터주도적응대 #코어앤셀렉션
+
+Translated content: 
+To provide SRE as a service, a team built a center of excellence, introducing Federated SREs and roles like production manager and technical tribe lead. They created a culture of data-driven conversations where SLOs and SLAs were democratised. Surviving growing cognitive load meant continuously simplifying architecture and embedding sovereignty and resilience into platform design decisions.
+#SRE #서비스 #데이터주도적응대 #코어앤셀렉션
+
+Additional hashtags: 
+#플랫폼디자인 #데이터주도적응대 #코드리뷰
+
+9 번째 검색 내용
+제목: AWS는 삼성 트리 데이터 센터 네트워크를 랜덤 그래프 이론으로 대체, 라우터 69% 감소
+
+(Note: The translation may not be perfect as it is a technical term. Please double-check the translation if necessary.)
+주소: https://www.infoq.com/news/2026/06/aws-random-graph-data-center/
+설명: AWS는 새로운 데이터센터 빌드에 대해 탄력적 네트워크 그래프, 거의 난수 그래프 이론을 기반으로 한 평면 네트워크 아키텍처를 기본으로 설정하고 있다. 이 디자인은 지극히 계층화된 Fat-Tree 계층 구조를 직접 ToR-to-ToR 메시 연결로 대체하며, 팔시브 光절차 ShuffleBox를 사용함으로써 라우터를 69% 감소시키고, 스루풋을 33% 높이며, 네트워크 전력 소모를 40% 줄임으로써 절약한다.
+#데이터센터 #탄력적네트워크그래프 #라우터 #스루풋
+
+Translated content: AWS disclosed that Resilient Network Graphs, a flat network architecture based on quasi-random graph theory, is now the default for most new data center builds. The design replaces fat-tree hierarchies with direct ToR-to-ToR mesh connections using passive optical ShuffleBoxes, cutting routers by 69%, boosting throughput by 33%, and reducing network power consumption by 40%.
+#데이터센터 #탄력적네트워크그래프 #라우터 #스루풋
+
+Hashtags: #데이터센터 #탄력적네트워크그래프 #라우터 #스루풋
+
+10 번째 검색 내용
+제목: 다음.js 16.2: 개발 시작 속도가 400% 빠르고, 렌더링 속도가 빠르며, AI 에이전트용으로 더 깊은 도구를 제공합니다.
+주소: https://www.infoq.com/news/2026/06/nextjs-6-2/
+설명: Vercel has released Next.js 16.2, featuring performance enhancements that make development startup 400% faster and rendering up to 60% quicker. The update includes AI-assisted development tools, improved Turbopack efficiency, and better error reporting. Migration from Next.js 15 is supported, and compatibility is set for Node.js 20.9 and TypeScript 5.1 or newer.
+#Next.js #Vercel #성능개선
+
+Translate my sentence into Korean :
+                         Vercel has released Next.js 16.2, featuring performance enhancements that make development startup 400% faster and rendering up to 60% quicker. The update includes AI-assisted development tools, improved Turbopack efficiency, and better error reporting. Migration from Next.js 15 is supported, and compatibility is set for Node.js 20.9 and TypeScript 5.1 or newer.
+                     and Provide - #hashtags. Add 3 hashtags related to the translated content. [/INST]
+
+11 번째 검색 내용
+제목: 구글의 전세계적인 서비스 풀에서 조정된 A/B 테스트 시스템 내부
+
+(Note: The translation may not be perfect as it is a complex sentence. However, the meaning should still be conveyed.)
+주소: https://www.infoq.com/news/2026/06/google-fleet-ab-experimentation/
+설명: Google은 분산 서비스에서 실험 할당, 노출 로깅 및 구성 전파를 표준화하기 위한 대규모 A/B 실험 시스템을 공유했습니다. 이 접근 방식은 제품 간의 일관된 측정, 실험 충돌 감소 및 데이터 기반 결정 만들기에 대규모 신뢰성을 향상시키며, 이를 통해 일관된 측정, 실험 충돌 감소 및 데이터 기반 결정 만들기에 대한 신뢰성을 향상시키고 있습니다.
+#데이터분석 #실험 #Google #분산서비스
+
+Translated content: Google has shared details of its fleet wide large scale A/B experimentation system designed to standardize experiment assignment, exposure logging, and configuration propagation across distributed services. The approach enables consistent measurement across products, reduces experiment conflicts, and improves reliability of data driven decision making at scale.
+#데이터분석 #실험 #Google #분산서비스
+
+12 번째 검색 내용
+제목: 노드.제스 한 번의 주요 릴리즈로 이동하며, 노드 27에서 시작합니다.
+주소: https://www.infoq.com/news/2026/06/nodejs-release-changes/
+설명: Node.js 는 10월 2026년부터 버전 27에서 시작하여 연도에 두 번의 주요 릴리스를 1개로 변경됩니다. 모든 릴리스는 Long-Term Support(LTS)가 되며, 홀수와 짝수 버전의 구분이 제거됩니다. Alpha 채널도 초기 테스트를 위해 소개될 것입니다. 이 결정은 유지보수 문제와 사용자 요구 사항을 적합하게 맞추는 데 초점을 맞추고 있습니다.
+#Node.js #유지보수 #릴리스 일정 #사용자 요구 사항
+
+#hashtags: #NodeJSUpdate #MaintenanceChallenges #UserNeedsAlignment
+
+13 번째 검색 내용
+제목: OpenTelemetry는 "블루프린트" 초기화를 시작하여 기업 관측성 적용을 간소화합니다.
+주소: https://www.infoq.com/news/2026/06/opentelemetry-blueprints-launch/
+설명: AI : OpenTelemetry는 관측성 시스템을 규모에 따라 복잡하게 배포하고 운영하는 데 대한 증가하는 복잡성을 줄이기 위해 "블루프린트" 초기화이브를 소개했습니다.
+#OpenTelemetry #관측성 #배포 #운영
+
+Translated sentence: OpenTelemetry has introduced a new "Blueprints" initiative aimed at reducing the growing complexity of deploying and operating observability systems at scale.
+Hashtags: #OpenTelemetry #Observability #Deployment #Operations
+
+14 번째 검색 내용
+제목: 구글 워크스페이스 CLI: 인간과 AI 에이전트를 위해 통합된 명령 줄 도구입니다.
+주소: https://www.infoq.com/news/2026/06/google-workspace-cli/
+설명: Google은 Google Workspace에 대한 새로운 CLI를 발표했습니다. Drive, Gmail, 및 캘린더와 같은 여러 서비스에 대한 통합 인터페이스를 제공합니다. Rust로 구축되었으며 API 변경에 동적으로 적응하고 100개 이상의 번들된 기능을 포함합니다. Node.js와 Google Cloud 프로젝트가 필요한 설정입니다. 초기 커뮤니티 피드백은 동적 기능과 설정 도전에 대한 긍정적이고 부정적인 응답을 강조합니다.
+#Google #GoogleWorkspace #CLI #Node.js
+#GoogleCloud #Rust #API #Drive #Gmail #Calendar #설정 #동적 #기능 #커뮤니티피드백
+
+15 번째 검색 내용
+제목: 자바 뉴스 요약: OpenJDK JEPs, Hazelcast, Quarkus, Hibernate, Koog, JHipster, Endive을 소개합니다.
+주소: https://www.infoq.com/news/2026/06/java-news-roundup-may25-2026/
+설명: Java 주기적 정리: 2026년 5월 25일에는 다음과 같은 뉴스를 강조합니다. JDK 27의 두 개 JEP에서 수명 변경; Koog 1.0 GA 출시; Hazelcast, Quarkus, Hibernate 및 JHipster의 포인트 릴리스; Spring AI 2.0의 8번째 amilestone 릴리스; 또한 Endive, JVM-native WebAssembly(Wasm) 런타임입니다.
+#Java #JDK27 #WebAssembly #Endive
+
+#hashtags: #Java #JDK27 #WebAssembly #Endive
+
