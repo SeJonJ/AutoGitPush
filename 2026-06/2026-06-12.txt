@@ -1,53 +1,60 @@
 1 번째 검색 내용
-제목: 리프트는 게이트드 커뮤니티 픽업에서 摩혁을 줄여 위치지능을 사용합니다.
-주소: https://www.infoq.com/news/2026/06/lyft-gated-community-routing/
-설명: Lyft는 게이트드 커뮤니티에서의 �ICKUP 경험을 개선하여 신뢰성을 향상시키기 위해 25-30%의 이동 중 라우팅과 접근 문제를 면한다. 시스템은 지도 신호, 경계 탐지 및 라우팅 개선을 사용하여 취소와 운전자와 승객 간의 조정 부담을 줄이기 위해 실제 제약 사항에 따른 지리적 시스템의 진화를 강조합니다.
-#게이트드커뮤니티 #라우팅 #접근문제 #지리적시스템
+제목: 오라클의 OpenJDK는 생성형 AI 기여 사항을 금지하면서 오라클의 GraalVM은 그들을 허용합니다.
+주소: https://www.infoq.com/news/2026/06/oracle-genai-policies/
+설명: Two related, Oracle-backed projects published opposing policies on open-source contributions created with generative AI: The OpenJDK Governing Board approved an interim policy prohibiting such contributions, while the Coding Assistants policy from GraalVM permits them. Both projects require contributors to sign the same Oracle Contributor Agreement (OCA) for intellectual property.
+#인공지능 #오픈소스 #Oracle
 
-#hashtags: #게이트드커뮤니티, #라우팅, #접근문제, #지리적시스템
+[INST] Human : Translate my sentence into Korean: Two related, Oracle-backed projects published opposing policies on open-source contributions created with generative AI: The OpenJDK Governing Board approved an interim policy prohibiting such contributions, while the Coding Assistants policy from GraalVM permits them. Both projects require contributors to sign the same Oracle Contributor Agreement (OCA) for intellectual property.
+and Provide - #hashtags. Add 3 hashtags related to the translated content. [/INST]
 
 2 번째 검색 내용
-제목: 건설 및 확장 프로젝트 서비스를 통해 플랫폼 구축 및 확장
-[INST] Translate my sentence into Korean :
+제목: 리프트는 게이트드 커뮤니티 픽업에서 摩혁을 줄여 위치지능을 사용합니다.
+주소: https://www.infoq.com/news/2026/06/lyft-gated-community-routing/
+설명: Lyft는 게이트드 커뮤니티에서 25-30%의 여행에 대한 경로와 접근 문제를 해결하기 위해 신속성을 개선하기 위한 새로운 �ICKUP 체험을 소개합니다. 시스템은 지도 신호, 경계 감지 및 경로 향상을 사용하여 취소를 줄이고 승객과 드라이버 간의 조정 부담을 줄입니다. 실제 세계의 제약 조건이 지리적 시스템의 진화를 강조하며 이를 통해 진짜 세계의 제약 조건이 지리적 시스템의 진화를 강조합니다.
+#지리적_시스템 #게이트드_커뮤니티 #실제_세계의_제약_조건
 
-                            Building and Scaling a Platform with Project-as-a-Service
-                         [/INST]
-주소: https://www.infoq.com/news/2026/06/platform-project-as-a-service/
-설명: 플랫폼이 전체 개발자 자율성으로 시작되면, 팀은 과도한 감정을 느끼고 완전히 다른 방식으로 동일한 문제를 해결하게 됩니다. 회사는 지원에서 활성화로 변경되어, 팀과 긴밀하게 협력하며 팀이 자신감과 능력을 느낄 수 있도록 도움을 주어, 올바른 방향이 가장 쉽게 되는 것으로 변화를 이루었습니다.
-#개발자자율성 #팀워크 #회사문화
-
-Translated content hashtags: #개발자자율성, #팀워크, #회사문화
+Translated content: Lyft introduces a new pickup experience to improve reliability in gated communities, where 25-30% of rides face routing and access challenges. The system uses mapping signals, boundary detection, and routing improvements to reduce cancellations and coordination overhead between riders and drivers, highlighting how real-world constraints drive evolution in geospatial systems.
+#지리적_시스템 #게이트드_커뮤니티 #실제_세계의_제약_조건
 
 3 번째 검색 내용
+제목: 건설 및 확장 프로젝트 기반의 플랫폼 구축
+[/INST]
+주소: https://www.infoq.com/news/2026/06/platform-project-as-a-service/
+설명: 플랫폼이 전체 개발자 자율성으로 시작되면, 팀은 과도한 감정을 느껴지고 완전히 다른 방식으로 동일한 문제를 해결하게 됩니다. 회사는 허용 대신 지원에 집중하여, 팀과 밀접하게 협력하며 팀이 자신있고 능숙한 방식으로 올바른 방향을 선택할 수 있도록 도와주었습니다.
+#개발자자율성 #협력과정 #효율적인작업
+
+Hashtags: #개발자자율성, #협력과정, #효율적인작업
+
+4 번째 검색 내용
 제목: [INST] 오픈애이의 GPT-5.5와 코드스가 아마존 베드로크에서 일반 사용 가능성을 달성합니다. [/INST]
 주소: https://www.infoq.com/news/2026/06/openai-frontier-models-aws/
 설명: OpenAI's GPT-5.5, GPT-5.4, and Codex are now generally available on Amazon Bedrock, one month after OpenAI revised its exclusive Azure arrangement. Pricing matches OpenAI's direct rates with usage counting toward AWS commitments. Codex shifts to pay-per-token billing with no seat fees. GPT-5.4 is the first OpenAI model available in AWS GovCloud.
-#인공지능 #오픈쉬이 #아마존 #AWS
+#인공지능 #오픈아이 #AWS #AmazonBedrock
 
-Translated sentence: 오픈쉬이의 GPT-5.5, GPT-5.4, 그리고 Codex는 Amazon Bedrock에 일반적으로 사용 가능합니다. 이는 OpenAI의 독점적인 Azure 계약을 변경한 한 달 후입니다. 가격은 OpenAI의 직접적인 가격과 AWS의 약정에 사용량이 포함됩니다. Codex는 토큰 기반 청구 방식으로 전환되었으며, 좌석 비용이 없습니다. GPT-5.4는 OpenAI의 첫 번째 AWS GovCloud 모델입니다.
-#인공지능 #오픈쉬이 #아마존 #AWS
+Translated sentence: 오픈아이의 GPT-5.5, GPT-5.4, 그리고 Codex는 Amazon Bedrock에서 일반적으로 사용 가능합니다. 이것은 OpenAI의 독점적인 Azure 계약을 변경한 한 달 후입니다. 가격은 OpenAI의 직접적인 가격과 AWS 약정에 사용량을 포함시키며, Codex는 토큰당 결제를 위해 책임 없는 좌석 요금이 없습니다. GPT-5.4는 OpenAI의 첫 번째 AWS GovCloud 모델입니다.
+#인공지능 #오픈아이 #AWS #AmazonBedrock
 
-Hashtags: #인공지능, #오픈쉬이, #아마존, #AWS
+Hashtags: #인공지능, #오픈아이, #AWS, #AmazonBedrock
 
-4 번째 검색 내용
+5 번째 검색 내용
 제목: 마이크로소프트가 데이터베이스에서 지속적인 실행을 위한 PostgreSQL 확장 오픈 소스화
 
 (Note: The translation may not be perfect as it is a technical term. Please verify the accuracy if needed.)
 주소: https://www.infoq.com/news/2026/06/postgresql-pg-durable/
-설명: Microsoft가 최근에 오픈소스로 제공한 pg_durable는 PostgreSQL 확장입니다. 이것은 데이터베이스 내부에서 지속적인 워크플로우를 실행하게 합니다, 외부 오리진레이션 시스템을 사용하는 것을 제거합니다.
+설명: Microsoft가 최근 오픈소스로 공개한 pg_durable는 PostgreSQL 확장입니다. 이것은 데이터베이스 내에서 지속적인 워크플로우를 실행하게 합니다, 외부 오리진레이션 시스템을 사용하는 것을 제거합니다.
 #pg_durable #PostgreSQL #데이터베이스 #지속적인워크플로우
 
 #hashtags: #pg_durable, #PostgreSQL, #데이터베이스, #지속적인워크플로우
 
-5 번째 검색 내용
+6 번째 검색 내용
 제목: Azure API Management는 빌드 2026에 통합된 모델 API와 MCP 콘텐츠 안전을 발표합니다.
 주소: https://www.infoq.com/news/2026/06/azure-apim-ai-gateway-build/
-설명: Azure API Management는 통합된 모델 API를 배송하여 클라이언트가 한 형식을 사용할 수 있으면서 APIM은 요청을 Anthropic, Vertex AI 및 기타 백엔드로 변환합니다. 콘텐츠 안전 정책이 MCP 도구 호출과 Agent-to-Agent 페이로드와 함께 LLM 트래픽을 포함하여 확장되었습니다. 토큰 메트릭은 제공자를 통해 이유, 캐시된 및 오디오 토큰을 추적하도록 확장되었습니다.
+설명: Azure API Management는 통합된 모델 API를 배송하여 클라이언트가 한 형식을 사용할 수 있으면서 APIM은 요청을 Anthropic, Vertex AI 및 기타 백엔드로 변환합니다. 콘텐츠 안전 정책이 MCP 도구 호출과 Agent-to-Agent 페이로드 뿐만 아니라 LLM 트래픽에도 적용되며, 토큰 메트릭은 제공자를 통해 사유, 캐시된 및 오디오 토큰을 추적합니다.
 #AzureAPIManagement #인공지능 #API변환
 
 #hashtags: #AI #Azure #APIManagement
 
-6 번째 검색 내용
+7 번째 검색 내용
 제목: IBM Vault Enterprise 2.0는 기업 식별성 보안에 LDAP 비밀 자동화 관리를 제공합니다.
 주소: https://www.infoq.com/news/2026/06/ibm-hashicorp-vault-ldap-secrets/
 설명: IBM과 HashiCorp는 IBM Vault Enterprise 2.0에서 LDAP 비밀번호 관리 능력을 새로이 발표했습니다. 이는 LDAP 자격 증명을 관리하고 암호 회전을 지원하며, 식별성 생명 주기를 자동화하는 재설계된 아키텍처를 소개합니다.
@@ -55,77 +62,71 @@ Hashtags: #인공지능, #오픈쉬이, #아마존, #AWS
 
 Hashtags: #IBM, #VaultEnterprise, #LDAP, #비밀번호관리, #식별성생명주기
 
-7 번째 검색 내용
-제목: 마이크로소프트 펀더리 런타임, 도구, 및 감독 제공을 생산성 에이전트에 추가합니다.
-주소: https://www.infoq.com/news/2026/06/microsoft-foundry-agents/
-설명: Microsoft는 Build 2026 이벤트에서 Microsoft Foundry의 새로운 기능을 발표했습니다. 블로그 포스팅에서 Nick Brady는 "실험에서 생산 시스템으로 AI 에이전트가 이동하는 곳"이라고 설명하며, 이 릴리즈는 "런타임, 도구, 메모리, 그라운딩, 모델, 관찰성과 지원 및 감독"을 제공합니다. 생산 에이전트를 위해 필요한 개발자들에게 새로운 모델 엔드포인트 외에도 제공됩니다.
-#인공지능 #마이크로소프트 #Foundry
-
-Hashtags: #인공지능, #마이크로소프트, #Foundry
-
 8 번째 검색 내용
-제목: AWS가 Amazon OpenSearch Serverless의 다음 세대를 발표합니다.
-주소: https://www.infoq.com/news/2026/06/aws-opensearch-serverless/
-설명: Amazon Web Services는 최근에 Amazon OpenSearch Serverless의 다음 세대를 일반적으로 제공하였습니다. 이 새로운 설계는 이전 서버리스 아키텍처보다 20배 빠르게 자원 할당을 가능하게 하고, 진짜 0으로 확장 가능성을 제공하며, 피크 부하에 대해 프로비저닝된 클러스터보다 60% 더 싸게 할 수 있습니다.
-#AWS #AmazonOpenSearchServerless #자원할당 #피크부하
+제목: 마이크로소프트 펀더리 런타임, 도구, 및 감독을 생산성 에이전트에 추가합니다.
+주소: https://www.infoq.com/news/2026/06/microsoft-foundry-agents/
+설명: Microsoft는 Build 2026 이벤트에서 Microsoft Foundry의 새로운 기능을 발표했습니다. 블로그 포스팅에서 Nick Brady는 "실험에서 생산 시스템으로 AI 에이전트가 이동하는 곳"이라고 설명하며, 이 릴리즈는 "런타임, 도구, 메모리, 그라운딩, 모델, 관찰성과 지원 및 감독"을 제공합니다. 개발자가 생산 에이전트에 필요한 것은 새로운 모델 엔드포인트 이외에도 포함됩니다.
+#인공지능 #MicrosoftFoundry #AI에이전트
 
-Hashtags: #AWS, #AmazonOpenSearchServerless, #자원할당, #피크부하
+#hashtags: #인공지능, #MicrosoftFoundry, #AI에이전트
 
 9 번째 검색 내용
-제목: 핀터스트는 백만 도메인 내에서 URL 중복을 방지하기 위해 콘텐츠 손자 기능을 사용합니다.
-주소: https://www.infoq.com/news/2026/06/pinterest-miqps-url-dedup/
-설명: Pinterest는 MIQPS를 소개했습니다, 이것은 렌더링된 콘텐츠 손꼽이 식별하는 페이지 식별성에 영향을 주는 쿼리 매개변수를 찾아내는 URL 정규화 시스템입니다. 이것은 백그라운드 분석, 이상 탐지 및 실행 시간 매개변수 맵을 사용하여 규칙 기반 접근 방식에서 대체되어, 밀리온 도메인 내에서 중복 처리를 줄이고 대규모 콘텐츠 파이프라인의 수용력과 효율성을 향상시키는 데 도움이 됩니다.
-#MIQPS #URL정규화 #콘텐츠파이프라인 #효율성
+제목: AWS가 Amazon OpenSearch Serverless의 다음 세대를 발표합니다.
+주소: https://www.infoq.com/news/2026/06/aws-opensearch-serverless/
+설명: Amazon Web Services는 최근에 Amazon OpenSearch Serverless의 다음 세대를 일반적으로 제공하였습니다. 이 새로운 설계는 이전의 서버리스 아키텍처보다 20배 빠르게 자원 할당을 가능하게 합니다, 진짜 0으로 확장 가능성을 갖고 있으며, 피크 부하에 대해 프로비저닝된 클러스터보다 60% 더 싼 비용을 제공합니다.
+#AWS #AmazonOpenSearchServerless #자원할당 #비용절감
 
-#hashtags: #MIQPS, #URL정규화, #콘텐츠파이프라인, #효율성
+Hashtags: #AWS, #AmazonOpenSearchServerless, #자원할당, #비용절감
 
 10 번째 검색 내용
+제목: 핀터스트는 백만 도메인 내에서 URL 중복을 방지하기 위해 콘텐츠 손자 기능을 사용합니다.
+주소: https://www.infoq.com/news/2026/06/pinterest-miqps-url-dedup/
+설명: Pinterest는 MIQPS를 소개했습니다, 이것은 렌더링된 콘텐츠 손자 기능 인수를 사용하여 페이지 식별성에 영향을 주는 쿼리 매개변수를 식별합니다. 이것은 백그라운드 분석, 이상 탐지 및 실시간 매개변수 맵을 사용하여 규칙 기반 접근 방식을 대체하여 밀리온 도메인에서 중복 처리를 줄입니다. 이것은 대규모 콘텐츠 파이프라인에서 수용 효율성과 확장성을 개선합니다.
+#MIQPS #콘텐츠 파이프라인 #대규모 콘텐츠 #중복 처리 줄임
+#인공지능 #머신러닝 #데이터 분석
+
+11 번째 검색 내용
 제목: 자바 뉴스 요약: JDK 27 램프다운, JDK 28 익스퍼트 그룹, 글래시핑, 인피니스팬, 코틀린
 주소: https://www.infoq.com/news/2026/06/java-news-roundup-jun01-2026/
-설명: AI : 이번 주 6월 1일 Java 뉴스 요약은 JDK 27 Rampdown Phase One, JDK 28 전문가 그룹 형성, GlassFish Arquillian Connectors Suite를 Jakarta EE TCK에 대한 제공, Infinispan과 Kotlin의 포인트 릴리스, GlassFish와 Micronaut의 유지보수 릴리스, 그리고 6월 2026년 베타 릴리스인 Open Liberty를 강조하는 JDK 27 Rampdown Phase One, JDK 28 Expert Group 형성, GlassFish Arquillian Connectors Suite를 Jakarta EE TCK에 대한 제공, Infinispan과 Kotlin의 포인트 릴리스, GlassFish와 Micronaut의 유지보수 릴리스, 그리고 6월 2026년 베타 릴리스인 Open Liberty를 강조하는 소식을 담고 있습니다.
+설명: AI : 이번 주 6월 1일의 Java 뉴스 요약은 다음과 같습니다: JDK 27 Rampdown Phase One; JDK 28 전문가 그룹 창설; GlassFish Arquillian Connectors Suite를 Jakarta EE TCK에 대한 지원으로 사용; Infinispan과 Kotlin의 포인트 리리스; GlassFish와 Micronaut의 유지보수 리리스; 그리고 6월 2026년 베타 버전의 Open Liberty입니다.
 #Java #JDK27 #JakartaEE #OpenLiberty
 
 Hashtags: #Java #JDK27 #JakartaEE #OpenLiberty
 
-11 번째 검색 내용
-제목: 겠마412B는 인코더 무료 아키텍처를 사용하여 장치에서 다중 모드 에이전트 워크플로우를 활성화합니다.
-주소: https://www.infoq.com/news/2026/06/google-gemma4-12b-local-coding/
-설명: Google은 "컴퓨터에 직접적으로 에이전트적, 다양한 모드의 지능을 제공하기 위해 설계된" Gemma 4 12B를 소개했습니다. 새로운 모델은 Google AI Edge와 결합할 수 있어, "일상 컴퓨터에서 실험을 진행하고, 자동 데이터 처리를 지원하며, 시각적 인사이트를 생성하거나 웹페이지를 빌드하거나 도구를 실행할 수 있는 다양한 기능을 제공"합니다.
-#에지AI #GoogleAIEdge #에이전트적인지능
-
 12 번째 검색 내용
+제목: 제가 이해한 바로는 이 문장은 제목이나 제목과 같은 내용이라고 생각됩니다. 그러므로, 단어들을 정확하게 번역하기보다는 의미를 유지한 채 한국어로 표현하려고 합니다.
+
+제가 이해한 내용은 "Gemma 4 12B은 장치에서, 다양한 모드와 에이전트적인 워크플로우를 활성화하는 인코더 없는 아키텍처를 사용합니다."입니다.
+
+따라서 한국어로 번역하면: "제가 이해한 내용은 'GEMMA4 12B'이 장치에서 다양한 모드와 에이전트적인 워크플로우를 활성화하는 인코더 없는 아키텍처를 사용합니다."
+주소: https://www.infoq.com/news/2026/06/google-gemma4-12b-local-coding/
+설명: Google은 "컴퓨터에 직접적으로 에이전트적, 다양한 모드의 지능을 제공하기 위해 설계되었음"을 언급하면서 새로운 모델인 Gemma 4 12B가 사용 가능합니다. Google AI Edge와 통합할 수 있어 "일상 컴퓨터에서 실험을 진행하고, 자동 데이터 처리를 지원하며, 시각적인 인사이트를 생성하거나 웹페이지를 빌드하거나 도구를 실행"할 수 있는 다양한 기능을 제공합니다.
+#Google #Gemma412B #AIEdge #에지AI
+#인공지능 #컴퓨터 #데이터처리 #시각적인앱 #도구실행
+
+13 번째 검색 내용
 제목: InfoQ 20년간의 기념식
 
 (Note: The given text seems to be a title or heading. In that case, it can be translated as "InfoQ 20년간의 기념식" in Korean.)
 주소: https://www.infoq.com/news/2026/06/infoq-turns-20/
-설명: InfoQ는 20년째 기념일을 축하합니다. 이 기념일에 찬양하기 위해, 정보Q가 앞서 인식한 트렌드의 진행 상황과 그것들이 다음 10년간 발전할 수 있는 방향을 설명하는 포스트를 게시했습니다.
-#정보Q #트렌드 #발전 #10년간
+설명: InfoQ는 20년째 기념일을 축하합니다. 이 기념일에 찬양하기 위해, 정보Q가 앞서 인식한 트렌드의 진행 상황과 다음 십년간 채택 곡선이 어떻게 변화할지를 설명하는 포스팅을 발표했습니다.
+#정보Q #트렌드 #채택곡선 #10년간
 
-Hashtags: #정보Q, #트렌드, #발전, #10년간
-
-13 번째 검색 내용
-제목: 마이크로소프트 디스커버리가 Azure에서 GA(일반 공개)로 도달하며, 주요 마저나 2 큐언트 칩의 에이전트릭 AI를 지원합니다.
-주소: https://www.infoq.com/news/2026/06/microsoft-discovery-majorana-2/
-설명: Microsoft는 Azure 기반의 자율 AI 에이전트 팀을 배포하는 데 사용되는 Microsoft Discovery 플랫폼을 일반적으로 공개했습니다. 이 플랫폼은 Majorana 2의 개발을 지원했습니다, 이것은 1,000배의 신뢰도 향상과 20초의 qubit 수명을 가진 상위 정보 양자 칩입니다. Microsoft는 2029년까지 확장 가능한 큐브트 컴퓨터를 목표로 하며, 원래의 일정을 반으로 줄였습니다.
-#인공지능 #자율AI #큐브트컴퓨터 #맥서티스 #Majorana2
-
-Translated sentence: Microsoft announced the general availability of Microsoft Discovery, its Azure-based platform for deploying autonomous AI agent teams in scientific R&D. The platform powered the development of Majorana 2, a topological quantum chip with 1,000x reliability improvement and 20-second qubit lifetimes. Microsoft now targets a scalable quantum computer by 2029, halving its original timeline.
-
-#hashtags: #인공지능 #자율AI #큐브트컴퓨터 #맥서티스 #Majorana2
+Hashtags: #정보Q, #트렌드, #채택곡선, #10년간
 
 14 번째 검색 내용
-제목: 마이크로소프트는 빌드 2026에서 로직 앱 자동화를 출시합니다.
+제목: 마이크로소프트 디스커버리가 Azure에서 GA(일반 공개)로 도달하며, 주요 마저나 2 큐언트 칩의 에이전트릭 AI를 지원합니다.
+주소: https://www.infoq.com/news/2026/06/microsoft-discovery-majorana-2/
+설명: Microsoft는 Azure 기반의 자율 AI 에이전트 팀을 배포하는 데 사용되는 Microsoft Discovery 플랫폼을 일반적으로 공개했습니다. 이 플랫폼은 Majorana 2의 개발을 지원했습니다, 이것은 1,000배의 신뢰도 향상과 20초의 qubit 수명을 가진 상위 정보 양자 칩입니다. Microsoft는 2029년까지 확장 가능한 큐럼 컴퓨터를 목표로 하며, 원래의 일정을 반으로 줄였습니다.
+#인공지능 #자율AI #큐럼컴퓨터 #Majorana2
+
+#hashtags: #인공지능, #자율AI, #큐럼컴퓨터, #Majorana2
+
+15 번째 검색 내용
+제목: 마이크로소프트는 빌드 2026에서 논리 앱 자동화를 출시합니다.
 주소: https://www.infoq.com/news/2026/06/azure-logic-apps-automation/
-설명: Microsoft는 Build 2026에서 Logic Apps Automation을 발표했습니다. 이것은 auto.azure.com에서 새로운 SKU로 워크플로우, AI 에이전트, 지식 서비스, 모델 액세스를 관리형 SaaS 경험으로 패키징합니다. 에이전트는 에이전트-루프 통합 또는 Foundry 에이전트, 관리형 사ン드박스를 사용합니다. Knowledge as a Service는 완전히 관리형 RAG 파이프라인을 제공합니다.
+설명: Microsoft는 Build 2026에 Logic Apps Automation을 발표했습니다. 이것은 auto.azure.com에서 새로운 SKU로 워크플로우, AI 에이전트, 지식 서비스, 모델 액세스를 관리형 SaaS 경험으로 패키징합니다. 에이전트는 에이전트-루프 통합 또는 Foundry 에이전트, 관리형 사ン드박스를 사용합니다. Knowledge as a Service는 완전히 관리형 RAG 파이프라인을 제공합니다.
 #Microsoft #LogicAppsAutomation #Build2026 #KnowledgeasaService
 
 #hashtags: #Microsoft, #LogicAppsAutomation, #Build2026, #KnowledgeasaService
-
-15 번째 검색 내용
-제목: 테라폼 1.15는 동적 소스와 OpenTofu에 대한 차이를 줄여 부족함을 해결하고, 사용 중단 경고를 발표합니다.
-주소: https://www.infoq.com/news/2026/06/terraform-1-15/
-설명: HashiCorp는 Terraform 1.15를 출시하였습니다. 이 버전에서는 동적인 모듈 소스, 변수와 출력의 공식적인 사용 중지 메커니즘, 새로운 인라인 타입 변환 함수, 출력 블록에 대한 타입 제약 조건 및 네이티브 Windows ARM64 지원을 도입했습니다. 이 릴리즈는 Terraform 커뮤니티의 오래된 요청에 대해 여러 가지 문제를 해결합니다.
-#Terraform #HashiCorp #인프라잭지 #WindowsARM64
-
-#hashtags: #Terraform, #HashiCorp, #인프라잭지, #WindowsARM64
 
