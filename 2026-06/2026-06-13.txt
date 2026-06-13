@@ -1,0 +1,135 @@
+1 번째 검색 내용
+제목: 구글이 개발자, 자동화 및 AI 에이전트를 위해 Colab CLI 출시
+
+(Note: The translation may not be perfect as it is a machine translation. Please check the meaning and context before using it.)
+주소: https://www.infoq.com/news/2026/06/google-colab-cli/
+설명: Google은 Google Colab CLI, 로컬 터미널에서 원격 Colab 런타임과 직접 상호작용할 수 있는 개발자와 AI 에이전트를 위한 명령줄 도구를 공지했습니다.
+#Google #Colab #AI #CommandLineInterface
+
+#hashtags:
+1. #Google
+2. #Colab
+3. #CommandLineInterface
+
+2 번째 검색 내용
+제목: Slack은 EMR 파이프라인에서 SSH를 제거하고 700개 이상의 작업을 REST 기반 아키텍처로 마이그레이션합니다.
+주소: https://www.infoq.com/news/2026/06/slack-ssh-rest-quarry-migration/
+설명: Slack는 Amazon EMR 파이프라인에서 SSH 기반 실행을 REST 기반 오케스트레이션 계층으로 대체하여 Quarry라고 부르는 모던화된 데이터 플랫폼을 구현했습니다. 이 마이그레이션은 700개 이상의 Airflow 운영자를 포함하며, 보안성, 신뢰도, 관측성을 향상시키고 프로덕션 클러스터에서 SSH 접근을 직접 제거하여 서버 사이드 작업 생명 주기 모델을 활성화했습니다.
+#Slack #데이터플랫폼 #마이그레이션 #오케스트레이션계층
+#Hashtags: #CloudComputing #BigData #DataAnalytics
+
+3 번째 검색 내용
+제목: 앵귤러의 공식 에이전트 스킬은 AI 코딩 도구가 현대 앵귤러를 작성하는데 도움이 됩니다.
+주소: https://www.infoq.com/news/2026/06/angular-agent-skills/
+설명: Google의 Angular팀은 Angular코드를 작성하는데 도움이 되는 AI코딩 에이전트의 능력을 향상시키기 위해 angular/skills라는 저장소를 발표했습니다. 이 저장소에는 코드 생성과 애플리케이션 스캐폴딩에 대한 기술이 포함되어 있으며, 현재의 Angular 규칙을 강화합니다. 저장소는 AI 제안을 개선하기 위해 업데이트된 컨텍스트를 제공하는 스냅숏 역할을 합니다.
+#Angular #AI코딩에이전트 #코드생성 #스캐폴딩
+
+#Hashtags: #Angular #AI코딩에이전트 #코드생성 #스캐폴딩
+
+4 번째 검색 내용
+제목: 
+주소: https://www.infoq.com/news/2026/06/pinecone-ai-agents-onelake/
+설명: Pinecone는 Nexus 지식 엔진과 Microsoft OneLake 간의 새로운 통합을 발표했습니다. 이 통합은 기업 데이터에 대해 엔터프라이즈 AI 에이전트가 접근하고 이유를 추론하는 방식을 기본적으로 변경하려고 합니다.
+#Pinecone #Nexus #OneLake #엔터프라이즈AI #데이터 액세스
+
+Translated sentence: Pinecone has announced a new integration between its Nexus knowledge engine and Microsoft OneLake, aiming to fundamentally change how enterprise AI agents access and reason over corporate data.
+Hashtags: #Pinecone #Nexus #OneLake #엔터프라이즈AI #데이터 액세스
+
+5 번째 검색 내용
+제목: [INST] 안전하게 Azure 컨테이너 앱 사산란에서 신뢰할 수 없는 AI 에이전트 코드 실행
+[/INST]
+주소: https://www.infoq.com/news/2026/06/untrusted-ai-agents-sandboxes/
+설명: Microsoft는 Azure Container Apps Sandboxes의 공개 미리 보기를 발표했습니다. 이 새로운 ARM 자원 유형은 Microsoft.App/SandboxGroups입니다. 이 코드는 에이전트가 생성한 불신있는 코드를 실행하며, 하드웨어 격리된 환경에서 격리됩니다. 각 샌드박스는 OCI 디스크 이미지로부터 1초 이내에 시작됩니다. 동시에 수천 개의 인스턴스까지 확장할 수 있으며, 유휴 상태일 때는 비용이 없습니다.
+#AzureContainerAppsSandboxes #Microsoft #컨테이너 앱
+
+#hashtags: #Azure #컨테이너 #샌드박스
+
+6 번째 검색 내용
+제목: 오라클의 OpenJDK는 생성형 AI 기여를 금지하면서 오라클의 GraalVM은 그들을 허용합니다.
+주소: https://www.infoq.com/news/2026/06/oracle-genai-policies/
+설명: Two related, Oracle-backed projects published opposing policies on open-source contributions created with generative AI: The OpenJDK Governing Board approved an interim policy prohibiting such contributions, while the Coding Assistants policy from GraalVM permits them. Both projects require contributors to sign the same Oracle Contributor Agreement (OCA) for intellectual property.
+#인공지능 #오픈소스 #Oracle
+
+[INST] Human : Translate my sentence into Korean: Two related, Oracle-backed projects published opposing policies on open-source contributions created with generative AI: The OpenJDK Governing Board approved an interim policy prohibiting such contributions, while the Coding Assistants policy from GraalVM permits them. Both projects require contributors to sign the same Oracle Contributor Agreement (OCA) for intellectual property.
+and Provide - #hashtags. Add 3 hashtags related to the translated content. [/INST]
+
+7 번째 검색 내용
+제목: 리프트는 게이트드 커뮤니티 픽업에서 摩혁을 줄여 위치지능을 사용합니다.
+주소: https://www.infoq.com/news/2026/06/lyft-gated-community-routing/
+설명: Lyft는 게이트드 커뮤니티에서 25-30%의 여행에 대한 경로와 접근 문제를 해결하기 위해 신속성을 개선하기 위한 새로운 �ICKUP 체험을 설명합니다. 시스템은 지도 신호, 경계 감지 및 경로 향상을 사용하여 취소를 줄이고 승객과 운전자 간의 조정 부담을 줄입니다. 실제 세계의 제약 조건이 지리적 시스템의 진화를 강조합니다.
+#지리적_시스템 #게이트드_커뮤니티 #인공지능_개선
+
+Hashtags: #지리적_시스템, #게이트드_커뮤니티, #인공지능_개선
+
+8 번째 검색 내용
+제목: 건설 및 확장 프로젝트 서비스를 통한 플랫폼 구축 및 확장
+[INST] Building and Scaling a Platform with Project-as-a-Service [/INST]
+주소: https://www.infoq.com/news/2026/06/platform-project-as-a-service/
+설명: 플랫폼이 전체 개발자 자율성으로 시작되면, 팀은 과도한 감정을 느껴지고 완전히 다른 방식으로 동일한 문제를 해결하게 됩니다. 회사는 허용에서 지원으로 전환하여, 팀과 밀접하게 협력하며 팀이 자신있고 능동적인 방식을 선택할 수 있도록 도와주는 것으로 변화했습니다.
+#개발자자율성 #팀워크 #효과적인협력
+
+Translated sentence: When a platform started with total developer autonomy, teams felt overwhelmed and ended up solving the same problems in completely different ways. The company shifted to enablement over support, working together with teams intensively, and helping teams feel confident and capable, turning the right way into being the easiest way.
+
+Hashtags: #개발자자율성 #팀워크 #효과적인협력
+
+9 번째 검색 내용
+제목: [INST] 오픈애이의 GPT-5.5와 코드스가 아마존 베드로크에서 일반 사용 가능성을 달성합니다. [/INST]
+주소: https://www.infoq.com/news/2026/06/openai-frontier-models-aws/
+설명: OpenAI's GPT-5.5, GPT-5.4, and Codex are now generally available on Amazon Bedrock, one month after OpenAI revised its exclusive Azure arrangement. Pricing matches OpenAI's direct rates with usage counting toward AWS commitments. Codex shifts to pay-per-token billing with no seat fees. GPT-5.4 is the first OpenAI model available in AWS GovCloud.
+#인공지능 #오픈쉬이 #AWS #클라우드 컴퓨팅
+
+Translated sentence: OpenAI's GPT-5.5, GPT-5.4, and Codex are now generally available on Amazon Bedrock, one month after OpenAI revised its exclusive Azure arrangement. Pricing matches OpenAI's direct rates with usage counting toward AWS commitments. Codex shifts to pay-per-token billing with no seat fees. GPT-5.4 is the first OpenAI model available in AWS GovCloud.
+#인공지능 #오픈쉬이 #AWS #클라우드 컴퓨팅
+
+10 번째 검색 내용
+제목: 마이크로소프트는 데이터베이스에서 지속적인 실행을 위한 PostgreSQL 확장 오픈 소스화
+
+(Note: The translation may not be perfect as it is a technical term. Please check the meaning and context before using it.)
+주소: https://www.infoq.com/news/2026/06/postgresql-pg-durable/
+설명: Microsoft가 최근 오픈소스로 공개한 pg_durable는 PostgreSQL 확장입니다. 이것은 데이터베이스 내에서 지속적인 워크플로우를 실행하게 합니다, 외부 오리진레이션 시스템을 사용하는 것을 제거합니다.
+#pg_durable #PostgreSQL #데이터베이스 #지속적인워크플로우
+
+#hashtags: #pg_durable, #PostgreSQL, #데이터베이스, #지속적인워크플로우
+
+11 번째 검색 내용
+제목: Azure API Management는 빌드 2026에 통합된 모델 API와 MCP 콘텐츠 안전을 발표합니다.
+
+(Note: The year "2026" in the original sentence seems to be a typo or placeholder, so I kept it as is in the translation.)
+주소: https://www.infoq.com/news/2026/06/azure-apim-ai-gateway-build/
+설명: Azure API Management는 통합된 모델 API를 배송하여 클라이언트가 한 형식을 사용할 수 있으면서 APIM은 요청을 Anthropic, Vertex AI 및 기타 백엔드로 변환합니다. 콘텐츠 안전 정책이 MCP 도구 호출과 Agent-to-Agent 페이로드와 함께 LLM 트래픽을 포함하여 확장되었습니다. 토큰 메트릭은 공급자를 통해 이유, 캐시된 및 오디오 토큰을 추적하도록 확장되었습니다.
+#AzureAPIManagement #인공지능 #API #데이터처리
+
+#hashtags: #AI #데이터처리 #AzureAPIManagement #인공지능처리
+
+12 번째 검색 내용
+제목: IBM Vault Enterprise 2.0는 기업 식별성 보안에 자동화된 LDAP 비밀 관리를 제공합니다.
+주소: https://www.infoq.com/news/2026/06/ibm-hashicorp-vault-ldap-secrets/
+설명: IBM과 HashiCorp는 IBM Vault Enterprise 2.0에서 LDAP 비밀번호 관리 능력을 새로이 발표했습니다. 이는 LDAP 자격 증명을 관리하고 암호 회전을 지원하며, 식별성 생명 주기를 자동화하는 재설계된 아키텍처를 소개합니다.
+#IBM #VaultEnterprise2.0 #LDAP #비밀번호관리 #암호회전 #식별성생명주기 #자동화
+
+Hashtags: #IBM, #VaultEnterprise2.0, #LDAP, #비밀번호관리, #암호회전, #식별성생명주기, #자동화
+
+13 번째 검색 내용
+제목: 마이크로소프트 펀더리 런타임, 도구, 및 감독을 생산성 에이전트에 추가합니다.
+주소: https://www.infoq.com/news/2026/06/microsoft-foundry-agents/
+설명: Microsoft는 Build 2026 이벤트에서 Microsoft Foundry의 새로운 기능을 발표했습니다. 블로그 포스팅에서 Nick Brady는 "실험에서 생산 시스템으로 AI 에이전트가 이동하는 장소"라고 지칭한 Foundry를 언급합니다. 발표된 기능은 개발자가 생산 에이전트에 필요한 "런타임, 도구, 메모리, 그라운딩, 모델, 관찰성과 지윤성"을 제공하는 것으로, 새로운 모델 엔드포인트만 추가되는 것이 아니라고 합니다.
+#인공지능 #MicrosoftFoundry #생산에이전트 #AI에이전트
+
+#hashtags: #AI #Microsoft #ProductionAgents
+
+14 번째 검색 내용
+제목: AWS가 Amazon OpenSearch Serverless의 다음 세대를 발표합니다.
+주소: https://www.infoq.com/news/2026/06/aws-opensearch-serverless/
+설명: Amazon Web Services는 최근에 Amazon OpenSearch Serverless의 다음 세대를 일반적으로 제공하였습니다. 이 새로운 설계는 이전의 서버리스 아키텍처보다 20배 빠르게 자원 할당을 수행할 수 있도록 합니다, 진짜 0 확장성을 지원하고, 피크 로드에 비해 프로비저닝된 클러스터보다 60% 더 싸게 할 수 있습니다.
+#AWS #AmazonOpenSearchServerless #서버리스
+
+Hashtags: #AWS, #AmazonOpenSearchServerless, #서버리스
+
+15 번째 검색 내용
+제목: 핀터스트는 백만 도메인 간의 URL 중복을 방지하기 위해 콘텐츠 손자 비밀번호를 사용합니다.
+주소: https://www.infoq.com/news/2026/06/pinterest-miqps-url-dedup/
+설명: Pinterest는 MIQPS, 웹페이지 식별성을 렌더링된 콘텐츠 기능 인쇄에서 식별하는 쿼리 매개변수를 소개했습니다. 이것은 백그라운드 분석, 이상 감지 및 실시간 매개변수 맵을 사용하여 규칙 기반 접근 방식을 대체하여 밀리온 도메인에서 중복 처리를 줄입니다. 이로 인해 대규모 콘텐츠 파이프라인의 수용력과 효율성이 향상됩니다.
+#MIQPS #웹페이지_식별성 #중복_처리_줄이기 #대규모_콘텐츠_파이프라인
+
+#hashtags: #MIQPS, #웹페이지_식별성, #중복_처리_줄이기, #대규모_콘텐츠_파이프라인
+
