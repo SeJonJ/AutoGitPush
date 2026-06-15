@@ -1,0 +1,154 @@
+1 번째 검색 내용
+제목: AWS가 ElastiCache에서 Valkey용 지속적인 저장소 옵션 소개
+
+(Note: The translation may not be perfect as it is a machine translation. Please check the grammar and meaning for accuracy.)
+주소: https://www.infoq.com/news/2026/06/elasticache-valkey-durability/
+설명: AWS는 Amazon ElastiCache for Valkey의 지속성을 최근에 소개했습니다. 실패를 극복하여 안전한 데이터 보존을 가능하게 합니다. 이것은 캐시 밖에서 지원을 확장하고, 데이터 손실을 최소화하거나 작성 대기 시간을 유지하는 새로운 옵션을 제공합니다. Redis fork를 지원하는 사용 사례의 범위가 확장됩니다.
+#AWS #AmazonElastiCache #데이터보존 #지속성
+
+#hashtags: #AWS #AmazonElastiCache #데이터보존 #지속성
+
+2 번째 검색 내용
+제목: 테라폼 MCP 서버는 AI 도움자가 테라폼 인프라와 상호작용할 수 있게 합니다.
+주소: https://www.infoq.com/news/2026/06/terraform-mcp-server-ga/
+설명: HashiCorp는 Terraform MCP Server의 일반 사용 가능성을 발표했습니다. 이것은 오픈 소스 MCP 서버로, 에이전트가 Terraform Registry API와 통합할 수 있도록 합니다. 회사는 인프라 팀의 생산성을 향상시키고 엔지니어들에게 반복적인 작업을 덜어주는 것으로 이를 설명했습니다.
+#HashiCorp #TerraformMCPServer #인프라팀생산성향상
+
+Translated content: HashiCorp has announced the general availability of the Terraform MCP Server, an open-source MCP server that enables agents to integrate with Terraform Registry APIs. The company says that it can improve infrastructure teams productivity by relieving engineers of rote tasks.
+#HashiCorp #TerraformMCPServer #인프라팀생산성향상
+
+3 번째 검색 내용
+제목: AWS가 CDK Mixins을 소개하여 구성 가능한 인프라 추상화를 위해 인트로디스드
+
+[INST] Translate my sentence into Korean :
+
+                            AWS Introduces CDK Mixins for Composable Infrastructure Abstractions
+                         [/INST]
+주소: https://www.infoq.com/news/2026/06/cdk-mixins-aws/
+설명: AWS가 CDK Mixins을 새로운 AWS CDK 기능으로 최근에 발표했습니다. 개발자들은 AWS 리소스에 재사용 가능한 기능을 추가할 수 있는 새로운 기능입니다. Mixins는 다양한 생성 유형의 작업을 처리하며, 인프라 코드를 더 유연하고 재사용 가능하게 만듭니다.
+#AWS #CDKMixins #인프라코딩 #유연성
+
+Translated sentence: AWS recently announced CDK Mixins, a new AWS CDK feature that lets developers add reusable capabilities like security, monitoring, and configuration to AWS resources. Mixins work across different construct types, making infrastructure code more flexible and reusable.
+
+Hashtags: #AWS #CDKMixins #인프라코딩 #유연성
+
+4 번째 검색 내용
+제목: 웹MCP 표준 제안: 에이전트적인 웹 실행을 위한 크롬에서 사용 가능 (오리진 투앙)
+주소: https://www.infoq.com/news/2026/06/webmcp-web-agent-standard-chrome/
+설명: Google 최근 Chrome 149에서 WebMCP가 원본 시험 진행 중이라고 발표했습니다. 새로운 WebMCP 표준 제안은 웹사이트가 브라우저 AI 에이전트에게 도구를 노출할 수 있도록 허용합니다(예: JavaScript 함수와 HTML 양식). 이러한 에이전트는 사용자 작업을 신뢰할 수 있는 방법으로 대체할 수 있습니다(예: 화면 읽기) 대신 비쌈(예: DOM 스크래핑)과 같은 가능성이 높고 종종 신뢰할 수 없는 추측을 사용해야 합니다.
+#인공지능 #웹MCP #브라우저AI
+
+Hashtags: #인공지능, #웹MCP, #브라우저AI
+
+5 번째 검색 내용
+제목: 구글이 개발자, 자동화와 AI 에이전트를 위해 Colab CLI 출시
+
+(Note: The translation may not be perfect as it is a machine translation. Please check the meaning and context before using it.)
+주소: https://www.infoq.com/news/2026/06/google-colab-cli/
+설명: Google은 Google Colab CLI, 로컬 터미널에서 원격 Colab 런타임과 직접 상호작용할 수 있는 개발자와 AI 에이전트를 위한 명령줄 도구를 공지했습니다.
+#Google #ColabCLI #AI #로컬터미널 #원격런타임
+
+Translated sentence: Google has announced the Google Colab CLI, a command-line tool that allows developers and AI agents to interact with remote Colab runtimes directly from a local terminal.
+Hashtags: #Google #ColabCLI #AI #로컬터미널 #원격런타임
+
+6 번째 검색 내용
+제목: Slack은 EMR 파이프라인에서 SSH를 제거하고 700여 개의 작업을 REST 기반 아키텍처로 마이그레이션합니다.
+주소: https://www.infoq.com/news/2026/06/slack-ssh-rest-quarry-migration/
+설명: Slack는 Amazon EMR 파이프라인에서 SSH 기반 실행을 REST 기반의 오케스트레이션 계층으로 대체하여 Quarry라고 부르는 모던화된 데이터 플랫폼을 구현했습니다. 이 마이그레이션은 700개 이상의 Airflow 운영자를 포함하며, 보안성, 신뢰도, 관측성을 향상시키고 프로덕션 클러스터에서 SSH 접근을 직접 제거하여 서버 사이드 작업 생명 주기 모델을 활성화했습니다.
+#Slack #데이터플랫폼 #AWS #Airflow
+
+#hashtags: #Slack #데이터플랫폼 #AWS #Airflow
+
+7 번째 검색 내용
+제목: 앵귤러의 공식 에이전트 스킬은 AI 코딩 도구가 현대 앵귤러를 작성하는데 도움이 됩니다.
+주소: https://www.infoq.com/news/2026/06/angular-agent-skills/
+설명: Google의 Angular팀은 Angular코드를 작성하는데 도움이 되는 AI코딩 에이전트의 능력을 향상시키기 위한 Agent Skills를 중심으로 레포지토리 angular/skills를 발표했습니다. 이 레포지토리에는 코드 생성과 애플리케이션 스캐폴딩을 위한 기술이 포함되어 있으며, 현재의 Angular 규칙을 강화합니다. 레포지토리는 AI 제안을 개선하기 위해 업데이트된 컨텍스트를 제공하는 스냅숏 역할을 합니다.
+#Angular #AI코딩에이전트 #AgentSkills
+
+#hashtags: #Angular #AI코딩에이전트 #AgentSkills
+
+8 번째 검색 내용
+제목: 
+주소: https://www.infoq.com/news/2026/06/pinecone-ai-agents-onelake/
+설명: Pinecone는 Nexus 지식 엔진과 Microsoft OneLake 간의 새로운 통합을 발표했습니다. 이 기술은 기업 데이터에 대한 접근 및 사고를 기본적으로 변화시키는 방식으로 엔터프라이즈 AI 에이전트에게 접근하도록 목표를 지정했습니다.
+#Pinecone #Nexus #OneLake #엔터프라이즈AI
+
+#hashtags:
+1. #AI기술
+2. #데이터 접근
+3. #기업 데이터 분석
+
+9 번째 검색 내용
+제목: [INST] 안전하게 Azure 컨테이너 앱 사산란에서 신뢰할 수 없는 AI 에이전트 코드 실행
+[/INST]
+주소: https://www.infoq.com/news/2026/06/untrusted-ai-agents-sandboxes/
+설명: Microsoft는 Azure Container Apps Sandboxes의 공개 미리 보기를 발표했습니다. 이 새로운 ARM 리소스 유형은 Microsoft.App/SandboxGroups입니다. 이 코드는 에이전트가 생성한 불신있는 코드를 실행하며, 하드웨어 격리된 환경에서 격리됩니다. 각 샌드박스는 OCI 디스크 이미지로부터 1초 이내에 시작됩니다. 동시에 수천 개의 인스턴스까지 확장할 수 있으며, 유휴 상태일 때는 비용이 없습니다.
+#AzureContainerApps #SandboxGroups #MicrosoftARM
+
+#hashtags: #Azure #CloudComputing #Containers
+
+10 번째 검색 내용
+제목: 오라클의 OpenJDK는 생성형 AI 기여 사항을 금지하면서 오라클의 GraalVM은 그들을 허용합니다.
+주소: https://www.infoq.com/news/2026/06/oracle-genai-policies/
+설명: Two related, Oracle-backed projects published opposing policies on open-source contributions created with generative AI: The OpenJDK Governing Board approved an interim policy prohibiting such contributions, while the Coding Assistants policy from GraalVM permits them. Both projects require contributors to sign the same Oracle Contributor Agreement (OCA) for intellectual property.
+#인공지능 #오픈소스 #Oracle
+
+Translate my sentence into Korean :
+                         Two related, Oracle-backed projects published opposing policies on open-source contributions created with generative AI: The OpenJDK Governing Board approved an interim policy prohibiting such contributions, while the Coding Assistants policy from GraalVM permits them. Both projects require contributors to sign the same Oracle Contributor Agreement (OCA) for intellectual property.
+                     and Provide - #hashtags. Add 3 hashtags related to the translated content.
+[/INST]
+
+11 번째 검색 내용
+제목: 리프트는 게이트드 커뮤니티 픽업에서 摩혁을 줄여 위치지능을 사용합니다.
+주소: https://www.infoq.com/news/2026/06/lyft-gated-community-routing/
+설명: Lyft는 게이트드 커뮤니티에서 25-30%의 이동 경로와 접근 문제를 겪는 여부에 관계없이 신뢰성을 향상시키기 위해 새로운 �ICKUP 체험을 소개합니다. 이 시스템은 지도 신호, 경계 감지 및 경로 개선을 사용하여 취소와 운전자와 승객 간의 조정 부담을 줄입니다. 실제 세계의 제약 조건이 지리학적 시스템의 진화를 촉진하는 방식을 강조합니다.
+#지리학 #게이트드커뮤니티 #인공지능 #운송 #실시간 #데이터분석
+
+Translated content: Lyft introduces a new pickup experience to improve reliability in gated communities, where 25-30% of rides face routing and access challenges. The system uses mapping signals, boundary detection, and routing improvements to reduce cancellations and coordination overhead between riders and drivers, highlighting how real-world constraints drive evolution in geospatial systems.
+#지리학 #게이트드커뮤니티 #인공지능 #운송 #실시간 #데이터분석
+
+12 번째 검색 내용
+제목: 건설 및 확장 프로젝트 서비스를 통해 플랫폼 구축 및 확장
+[INST] Translate my sentence into Korean :
+
+                            Building and Scaling a Platform with Project-as-a-Service
+                         [/INST]
+주소: https://www.infoq.com/news/2026/06/platform-project-as-a-service/
+설명: 플랫폼이 전체 개발자 자율성으로 시작되면, 팀은 과도한 감정을 느껴지고 완전히 다른 방식으로 동일한 문제를 해결하게 됩니다. 회사는 허용에서 지원으로 전환하여, 팀과 密切 협력하며 팀이 자신감과 능력을 느낄 수 있도록 도움을 주어, 올바른 방향이 가장 쉽게 되는 것으로 만들었습니다.
+#개발자자율성 #팀워크 #지원과정 #허용
+
+Translated sentence: When a platform started with total developer autonomy, teams felt overwhelmed and ended up solving the same problems in completely different ways. The company shifted to enablement over support, working together with teams intensively, and helping teams feel confident and capable, turning the right way into being the easiest way.
+
+Hashtags: #개발자자율성 #팀워크 #지원과정 #허용
+
+13 번째 검색 내용
+제목: [INST] 오픈애이의 GPT-5.5와 코드스가 아마존 베드로크에서 일반적으로 사용할 수 있는 상태에 도달했습니다. [/INST]
+주소: https://www.infoq.com/news/2026/06/openai-frontier-models-aws/
+설명: OpenAI's GPT-5.5, GPT-5.4, and Codex are now generally available on Amazon Bedrock, one month after OpenAI revised its exclusive Azure arrangement. Pricing matches OpenAI's direct rates with usage counting toward AWS commitments. Codex shifts to pay-per-token billing with no seat fees. GPT-5.4 is the first OpenAI model available in AWS GovCloud.
+#인공지능 #오픈쉬이 #아마존빅덱 #AWS
+
+Translated sentence: 오픈쉬이의 GPT-5.5, GPT-5.4, 그리고 Codex는 Amazon Bedrock에 일반적으로 사용 가능합니다. 이는 OpenAI의 독점적인 Azure 계약을 변경한 한 달 후입니다. 가격은 OpenAI의 직접적인 가격과 AWS의 약정에 사용량을 포함시키며, Codex는 토큰당 청구 방식으로 전환되고 좌석 비용이 없습니다. GPT-5.4는 OpenAI 모델 중 첫 번째 AWS GovCloud에서 사용 가능합니다.
+#인공지능 #오픈쉬이 #아마존빅덱 #AWS
+
+Hashtags: #인공지능, #오픈쉬이, #아마존빅덱, #AWS
+
+14 번째 검색 내용
+제목: 마이크로소프트가 데이터베이스에서 지속적인 실행을 위한 PostgreSQL 확장 오픈 소스화
+
+(Note: The translation may not be perfect, as some phrases might need to be adjusted for natural Korean sentence structure.)
+주소: https://www.infoq.com/news/2026/06/postgresql-pg-durable/
+설명: Microsoft가 최근 오픈소스로 공개한 pg_durable는 PostgreSQL 확장입니다. 이것은 데이터베이스 내에서 지속적인 워크플로우를 실행하게 합니다, 외부 오리진레이션 시스템을 사용하는 것을 제거합니다.
+#pg_durable #PostgreSQL #데이터베이스 #지속적인워크플로우
+
+#hashtags: #pg_durable, #PostgreSQL, #데이터베이스, #지속적인워크플로우
+
+15 번째 검색 내용
+제목: Azure API Management는 빌드 2026에 통합된 모델 API와 MCP 콘텐츠 안전을 발표합니다.
+
+(Note: The year "2026" seems to be a typo or placeholder, as Build is an annual event and there is no Build conference scheduled for the year 2026. Please provide the correct information if available.)
+주소: https://www.infoq.com/news/2026/06/azure-apim-ai-gateway-build/
+설명: Azure API Management는 통합된 모델 API를 출시하여 클라이언트가 한 형식을 사용할 수 있으면서 APIM은 요청을 Anthropic, Vertex AI 및 기타 백엔드로 변환합니다. 콘텐츠 안전 정책이 MCP 도구 호출과 Agent-to-Agent 페이로드와 함께 LLM 트래픽에 적용되며, 토큰 메트릭은 제공자를 통해 이유, 캐시된 및 오디오 토큰을 추적합니다.
+#AzureAPIManagement #인공지능 #API변환
+
+#hashtags: #AI #Azure #APIManagement
+
