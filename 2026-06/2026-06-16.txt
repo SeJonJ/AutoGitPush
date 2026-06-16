@@ -1,24 +1,55 @@
 1 번째 검색 내용
-제목: Xcode 27은 에이전트 통합을 확장하고, UI를 갱신하며, DeviceHub을 소개합니다.
-주소: https://www.infoq.com/news/2026/06/xcode-27-agents-device-hub/
-설명: Apple은 WWDC 2026에서 Xcode 27을 소개했습니다. 이것은 코딩 에이전트를 사용하여 작업을 시작하고, 새로운 프로젝트 아이디어를 반복하며, 워크스페이스를 사용자 정의할 때 매우 쉽게 만듭니다. 또한 DeviceHub을 통합된 시뮬레이터와 장치 관리에 대해 소개하며, Organizer와 Instruments 등과 같은 여러 개선 사항도 포함되었습니다.
-#WWDC2026 #Xcode27 #AppleImprovements
+제목: 인공지능 코딩 에이전트가 자신들의 스택오버플로우를 얻었다.
+주소: https://www.infoq.com/news/2026/06/stack-overflow-for-agents/
+설명: Stack Overflow는 AI 코딩 에이전트를 위한 베타 API 우선 지식 교환 서비스인 Stack Overflow for Agents를 발표했습니다. 이 서비스는 회사가 부르는 에헤메리컬 인텔리전스 갭을 닫기 위한 방법으로 제시되며, 에이전트가 독립적으로 같은 수정과 패턴을 다시 발견하는 대신 공동 메모리를 통해 공유합니다.
+#인공지능 #AI_에이전트 #Stack_Overflow
 
-#hashtags: #WWDC2026, #Xcode27, #AppleImprovements
+Hashtags: #인공지능, #AI_에이전트, #Stack_Overflow
 
 2 번째 검색 내용
-제목: 인간적 설명: 클로드가 자신의 실행 핀스를 만드는 방법을 설명합니다.
-[INST] Translate my sentence into Korean :
+제목: PostgreSQL 19 베타에서는 SQL 그래프 쿼리와 동시적폭포 테이블 재배치 도입
 
-                            Anthropic Explains How Claude Builds Its Own Execution Harnesses
-                         [/INST]
-주소: https://www.infoq.com/news/2026/06/claude-code-harnesses/
-설명: Anthropic는 Claude Code의 최근에 소개된 Dynamic Workflows 뒷받침 시스템의 추가 세부 사항을 발표했습니다. 이 기능은 AI 에이전트를 위한 사용자 정의 실행 하arness를 생성하는 방식으로 복잡한 작업을 수행하도록 팀의 AI 에이전트를 조정하는 데 사용되며, 이것은 #인공지능 #AI_에이전트 #복잡한_작업 해시태그와 함께 강조됩니다.
+(Note: The translation may not be perfect as some terms might have specific meanings in the context of PostgreSQL. Please verify the accuracy if it's crucial for your purpose.)
+주소: https://www.infoq.com/news/2026/06/postgresql-19-graph-queries/
+설명: PostgreSQL 19 Beta가 발표되었으며, 9월에 일반적으로 사용할 수 있는 상태로 전환될 예정입니다. 이 릴리스에서는 원시 SQL 속성 그래프 쿼리(SQL/PGQ)를 지원하고, 저장소를 재구성하는데 중단 없이 동시 실행을 수행할 수 있도록 표준화된 테이블 레팡킹을 도입하며, 성능, 관찰성, 및 관리를 개선한 넓은 집합의 개선 사항을 포함합니다.
+#PostgreSQL #데이터베이스 #성능개선 #관리개선
+
+#hashtags: #PostgreSQL, #데이터베이스, #성능개선, #관리개선
 
 3 번째 검색 내용
+제목: 자바 뉴스 요약: A2A Java SDK 1.0, Jakarta EE 12, JNoSQL, GraalVM, Micrometer, OpenXava, Gradle
+
+[INST] Translate my sentence into Korean : 
+
+                            Java News Roundup: A2A Java SDK 1.0, Jakarta EE 12, JNoSQL, GraalVM, Micrometer, OpenXava, Gradle
+                         [/INST]
+주소: https://www.infoq.com/news/2026/06/java-news-roundup-jun08-2026/
+설명: AI : 이번 주 6월 8일 Java 뉴스 요약은 다음과 같습니다: A2A Java SDK 1.0의 GA 릴리즈, Jakarta EE 12의 업데이트, Micrometer Metrics와 Micrometer Tracing의 포인트 릴리즈, GraalVM Native Build Tools와 OpenXava의 메인테인스 릴리즈, Gradle 9.6의 두 번째 릴리즈 후보 및 Eclipse JNoSQL 1.2의 첫 밀스톤 릴리즈입니다.
+#Java #RNW #뉴스요약 #프로그래밍
+
+4 번째 검색 내용
+제목: Xcode 27은 에이전트 통합을 확장하고, UI를 개편하며, DeviceHub을 소개합니다.
+주소: https://www.infoq.com/news/2026/06/xcode-27-agents-device-hub/
+설명: Apple은 WWDC 2026에서 Xcode 27을 소개했습니다. 이것은 코딩 에이전트를 사용하여 작업을 시작하고, 새로운 프로젝트 아이디어를 반복하며, 워크스페이스를 사용자 정의할 때 매우 쉽게 만듭니다. 또한 DeviceHub을 통합된 시뮬레이터와 장치 관리에 대해 소개하고 있으며, Organizer와 Instruments의 향상 사항 중 하나 이상 포함되어 있습니다.
+#WWDC2026 #Xcode27 #AppleImprovements
+
+#hashtags:
+1. #WWDC2026
+2. #Xcode27
+3. #AppleImprovements
+
+5 번째 검색 내용
+제목: 인간적 설명: 클로드가 자신의 실행 핀스를 만드는 방법을 설명합니다.
+주소: https://www.infoq.com/news/2026/06/claude-code-harnesses/
+설명: Anthropic는 Claude Code의 최근에 소개된 Dynamic Workflows 뒷받침 시스템의 추가 세부 사항을 발표했습니다. 이 기능은 AI 에이전트를 위한 사용자 정의 실행 하arness를 생성하여 복잡한 작업을 협력하는 팀의 동기화를 위해 설계되었습니다.
+#인공지능 #ClaudeCode #워크플로우 #AI에이전트
+
+Hashtags: #인공지능, #클로드코드, #워크플로우, #AI에이전트
+
+6 번째 검색 내용
 제목: 스프링 뉴스 요약: 부트, 보안, 통합, 모듈리스, 스프링 AI 2.0의 포인트 릴리즈
 
-(Note: The translation may not be perfect as it is a proper noun-heavy sentence.)
+(Note: The translation may not be perfect as it involves translating technical terms and product names.)
 주소: https://www.infoq.com/news/2026/06/spring-news-roundup-jun08-2026/
 설명: There was a flurry of activity in the Spring ecosystem during the week of June 8th, 2026, highlighting point releases of: Spring Boot, Spring Security, Spring Session, Spring Integration, Spring Modulith, Spring AMQP and Spring Vault; and GA releases of Spring AI 2.0 and Spring Data 2026.0.0
                      #스프링 #소프트웨어개발 #기술업데이트
@@ -26,85 +57,80 @@
 Translated sentence: 스프링 에코시스템에서 6월 8일 주에는 많은 활동이 있었으며, Spring Boot, Spring Security, Spring Session, Spring Integration, Spring Modulith, Spring AMQP, Spring Vault와 같은 포인트 리リー스가 강조되었고, Spring AI 2.0과 Spring Data 2026.0.0의 GA 리리스도 발표되었습니다.
 #스프링 #소프트웨어개발 #기술업데이트
 
-4 번째 검색 내용
+7 번째 검색 내용
 제목: 화살표JS 1.0에 도달하며, 에이전트릭 시대의 첫 번째 UI 프레임워크로 재정의됩니다.
 주소: https://www.infoq.com/news/2026/06/arrowjs-v1-agentic/
-설명: ArrowJS는 Justin Schroeder가 개발한 반응형 UI 라이브러리로, 3년간의 개발 후 1.0 릴리스를 달성했습니다. 이 라이브러리는 기본 웹 기술을 활용하며, JSX와 컴파일러를 피합니다. 특징으로는 불신 코드를 실행하는데 필요한 WASM 샌드박스가 선택적입니다. 프레임워크의 최소주의 성격은 3개의 주요 함수, reactive, html, 및 component에서 강조됩니다.
+설명: ArrowJS는 Justin Schroeder가 개발한 반응형 UI 라이브러리로, 3년간의 개발 후 1.0 릴리스를 달성했습니다. 이 라이브러리는 기본적인 웹 기술을 활용하며, JSX와 컴파일러를 피합니다. 특징으로는 불확실한 코드를 실행하는데 선택적 WASM 샌드박스가 있습니다. 프레임워크의 최소주의 성격은 3개의 주요 함수, reactive, html, 및 component에서 강조됩니다.
 #ArrowJS #반응형UI라이브러리 #WASM #JSX
 
-#hashtags:
-#ReactJS #VueJS #AngularJS
+#hashtags: #ReactJS #VueJS #Angular
 
-5 번째 검색 내용
+8 번째 검색 내용
 제목: 인간적 발표와 일시적으로 클로드 팩블 5 중지
 
-(Note: The translation may not be perfect as it is a direct translation without considering the context or grammar rules of the Korean language.)
+(Note: The translation may not be perfect as it is a direct translation from English to Korean without considering the context or grammar rules of the Korean language.)
 주소: https://www.infoq.com/news/2026/06/claude-5-release/
 설명: On June 9, 2026, Anthropic launched Claude Fable 5, a model designed for long-horizon tasks, but it was taken offline shortly after due to a U.S. government export directive. It shares architecture with Claude Mythos 5, supporting extensive token usage. The model includes mandatory data retention requirements, which have affected its deployment with partners like Microsoft.
-#인공지능 #모델 #대규모_작업
+#인공지능 #모델 #대규모_작업 #미국정부_수출제한
 
-Hashtags:
-1. #인공지능 (Artificial Intelligence)
-2. #모델 (Model)
-3. #대규모_작업 (Long-horizon tasks)
+Translated content hashtags: 
+1. #ArtificialIntelligence
+2. #ClaudeFable5
+3. #ExportRestrictions
 
-6 번째 검색 내용
-제목: 스프링부트 4.1에는 gRPC 자동 구성, SSRF 방지 및 코틀린 2.3 지원이 추가되었습니다.
+9 번째 검색 내용
+제목: 스프링부트 4.1은 gRPC 자동 구성, SSRF 방지 및 코틀린 2.3 지원을 추가합니다.
 주소: https://www.infoq.com/news/2026/06/spring-boot-4-1/
-설명: AI : Broadcom은 2026년 6월 10일에 Spring Boot 4.1을 발표하여 gRPC 자동 구성, HTTP-client SSRF 보호 및 Kotlin 2.3로의 업그레이드를 제공했습니다. 또한 레이지 데이터 소스 연결, @Async 메서드에 대한 비동기 컨텍스트 전파 및 OpenTelemetry 지원의 개선을 포함하고 있습니다. Broadcom은 발표 일정이 비정상적으로 두 번 변경되었습니다. 처음에는 5월 11일부터 22일까지의 기간에서 6월 1일부터 5일까지, 그리고 그 후에 6월 8일부터 12일까지로 변경되었습니다.
+설명: Broadcom은 2026년 6월 10일에 Spring Boot 4.1을 발표하여 gRPC 자동 구성, HTTP-client SSRF 보호, 그리고 Kotlin 2.3로의 업그레이드를 제공했습니다. 또한 레이지 데이터 소스 연결, @Async 메서드에 대한 비동기 컨텍스트 전파 및 OpenTelemetry 지원의 개선을 포함하고 있습니다. Broadcom은 발표 일정이 비정상적으로 두 번 변경되었습니다. 처음에는 5월 11일부터 22일까지의 기간에서 6월 1일부터 5일까지, 그리고 이를 6월 8일부터 12일까지로 변경했습니다.
 #SpringBoot #Broadcom #Kotlin #OpenTelemetry
 
 #hashtags: #SpringBoot #Broadcom #Kotlin #OpenTelemetry
 
-7 번째 검색 내용
-제목: Vercel Labs는 원본 없는(Zero-Native)을 Zig 기반의 크로스 플랫폼 네이티브 애플리케이션 프레임워크로 오픈소스화합니다.
+10 번째 검색 내용
+제목: Vercel Labs는 원본 없는 네이티브(Zero-Native)를 지그 기반의 크로스 플랫폼 네이티브 애플리케이션 프레임워크로 오픈소스 공개합니다.
 주소: https://www.infoq.com/news/2026/06/zero-native-zig-xplatform-vercel/
-설명: Vercel Labs는 최근 zero-native를 오픈소스로 공개했습니다. zero-native는 Electron 런타임을 우회하고 네이티브 OS WebViews를 사용하여 작은, 효율적인 네이티브 앱을 달성할 수 있다고 주장합니다. zero-native는 Zig으로 작성되어 네이티브 C 라이브러리와 직접 상호 작용하며, 빠른 증분 컴파일 시간을 기능화했습니다.
+설명: Vercel Labs는 최근 zero-native를 오픈소스로 공개했습니다. zero-native는 Electron 런타임을 우회하고 네이티브 OS WebViews를 사용하여 작은, 효율적인 네이티브 앱을 달성할 수 있습니다. zero-native는 Zig으로 작성되어 네이티브 C 라이브러리와 직접 상호 작용하며, 빠른 증분 컴파일 시간을 기능화했습니다.
 #zero-native #VercelLabs #Zig
 
-#hashtags: #네이티브_데스크톱_애플리케이션 #오픈소스 #빠른_컴파일_시간
+#hashtags: #오픈소스 #네이티브_앱 #크로스플랫폼_프레임워크
 
-8 번째 검색 내용
-제목: AWS가 ElastiCache에서 Valkey용 지속적인 저장소 옵션 소개
+11 번째 검색 내용
+제목: AWS가 ElastiCache에서 Valkey용 지속적인 저장소 옵션 도입
 
-(Note: The translation may not be perfect as it is a machine translation. Please check the grammar and meaning to ensure accuracy.)
+(Note: The translation may not be perfect as it is a machine translation. Please double-check the translation for accuracy.)
 주소: https://www.infoq.com/news/2026/06/elasticache-valkey-durability/
-설명: AWS는 Amazon ElastiCache for Valkey의 지속성을 최근에 소개했습니다. 실패를 극복하여 신뢰할 수 있는 데이터 보존을 가능하게 합니다. 이 기능은 캐시 밖에서 지속적인 워크로드에 대한 지원을 확장하며, 데이터 손실을 최소화하거나 작성 연산 지연 시간을 유지하는 새로운 옵션을 제공합니다. Redis fork를 지원하는 사용 사례의 범위를 확장합니다.
+설명: AWS는 Amazon ElastiCache for Valkey의 지속성을 최근에 소개했습니다. 실패를 극복하여 신뢰할 수 있는 데이터 보존을 가능하게 합니다. 이 기능은 캐시 밖에서 지속적인 작업 로드를 지원하며, 데이터 손실을 최소화하거나 쓰기 대기 시간을 유지하는 두 가지 옵션을 제공합니다. Redis fork를 지원하는 사용 사례의 범위를 확장합니다.
 #AWS #AmazonElastiCache #데이터보존 #지속성
 
 #hashtags: #AWS #AmazonElastiCache #데이터보존 #지속성
 
-9 번째 검색 내용
+12 번째 검색 내용
 제목: 테라폼 MCP 서버는 AI 도움자가 테라폼 인프라와 상호작용할 수 있게 합니다.
 주소: https://www.infoq.com/news/2026/06/terraform-mcp-server-ga/
-설명: HashiCorp는 Terraform MCP Server의 일반 사용 가능성을 발표했습니다. 이것은 오픈 소스 MCP 서버로, 에이전트가 Terraform Registry API와 통합할 수 있도록 합니다. 회사는 인프라 팀의 생산성을 향상시키고 엔지니어들에게 반복적인 작업을 줄여주는 것으로 설명했습니다.
-#HashiCorp #TerraformMCPServer #인프라팀생산성 #반복적인작업 줄이기
+설명: HashiCorp는 Terraform MCP Server의 일반 사용 가능성을 발표했습니다. 이것은 오픈 소스 MCP 서버로, 에이전트가 Terraform Registry API와 통합할 수 있도록 합니다. 회사는 인프라 팀의 생산성을 향상시키고 엔지니어들에게 반복적인 작업을 떼어주는 것으로 이를 설명했습니다.
+#HashiCorp #TerraformMCPServer #인프라팀생산성향상
 
-Translated sentence: HashiCorp has announced the general availability of the Terraform MCP Server, an open-source MCP server that enables agents to integrate with Terraform Registry APIs. The company says that it can improve infrastructure teams productivity by relieving engineers of rote tasks.
-Hashtags: #HashiCorp #TerraformMCPServer #인프라팀생산성 #반복적인작업 줄이기
+Translated content: HashiCorp has announced the general availability of the Terraform MCP Server, an open-source MCP server that enables agents to integrate with Terraform Registry APIs. The company says that it can improve infrastructure teams productivity by relieving engineers of rote tasks.
+#HashiCorp #TerraformMCPServer #인프라팀생산성향상
 
-10 번째 검색 내용
-제목: AWS가 구성 가능한 인프라 추상화를 위해 CDK Mixins 소개
-
-(Note: The translation may not be perfect as it depends on the context. Please make sure to check for accuracy if this is for a professional purpose.)
+13 번째 검색 내용
+제목: AWS가 CDK Mixins을 소개하여 구성 가능한 인프라 추상화를 위해 제공합니다.
 주소: https://www.infoq.com/news/2026/06/cdk-mixins-aws/
-설명: AWS가 CDK Mixins을 새로운 AWS CDK 기능으로 최근에 발표했습니다. 개발자들은 AWS 리소스에 재사용 가능한 기능을 추가할 수 있는 새로운 기능입니다. Mixins는 다양한 생성 유형의 작업을 처리하며, 인프라 코드를 더 유연하고 재사용 가능하게 만듭니다.
-#AWS #CDKMixins #인프라코딩 #유연성
+설명: AWS가 CDK Mixins이라는 새로운 AWS CDK 기능을 발표했습니다. 개발자들은 보안, 모니터링, 구성과 같은 재사용 가능한 기능을 AWS 리소스에 추가할 수 있게 해주는 Mixins입니다. Mixins는 다양한 construct 유형에서 작동하며, 인프라스트럭처 코드를 더 유연하고 재사용 가능하게 만듭니다.
+#AWS #CDKMixins #인프라스트럭처 #재사용성
 
-Translated sentence: AWS recently announced CDK Mixins, a new AWS CDK feature that lets developers add reusable capabilities like security, monitoring, and configuration to AWS resources. Mixins work across different construct types, making infrastructure code more flexible and reusable.
+#hashtags: #AWS, #CDKMixins, #인프라스트럭처, #재사용성
 
-Hashtags: #AWS #CDKMixins #인프라코딩 #유연성
-
-11 번째 검색 내용
-제목: 웹 MCP 표준 제안: 에이전트적인 웹 실행을 위한 크롬에서 사용 가능 (오리진 트라이얼)
+14 번째 검색 내용
+제목: 웹 MCP 표준 제안: 에이전트릭 웹 액션 지원 현재 Chrome에서 사용 가능 (오리진 트라이얼)
 주소: https://www.infoq.com/news/2026/06/webmcp-web-agent-standard-chrome/
-설명: Google 최근 Chrome 149에서 WebMCP가 원본 시험 진행 중이라고 발표했습니다. 새로운 WebMCP 표준 제안은 웹사이트가 브라우저 AI 에이전트에게 도구를 노출할 수 있게 합니다(예: JavaScript 함수와 HTML 양식). 이렇게 하면 사용자 행동을 신뢰할 수 있는 방법으로 대체할 수 있습니다(예: 화면 읽기) 대신에, DOM 스크래핑과 같은 비쌈비 및 일관성이 낮은 추측을 사용하지 않아야 합니다.
+설명: Google 최근 Chrome 149에서 WebMCP가 원본 시험 진행 중이라고 발표했습니다. 새로운 WebMCP 표준 제안은 웹사이트가 브라우저 AI 에이전트에게 도구를 노출할 수 있도록 허용합니다(예: JavaScript 함수와 HTML 양식). 이러한 에이전트는 사용자 작업을 신뢰할 수 있는 방법으로 대체할 수 있습니다(예: 화면 읽기) 대신 비쌈(예: DOM 스크래핑)과 같은 가능성이 높고 종종 신뢰할 수 없는 추측을 사용해야 합니다.
 #인공지능 #웹MCP #브라우저AI
 
-Hashtags: #인공지능, #웹MCP, #브라우저AI
+#hashtags: #인공지능, #웹MCP, #브라우저AI
 
-12 번째 검색 내용
-제목: 구글이 개발자, 자동화, 및 AI 에이전트를 위해 Colab CLI 출시
+15 번째 검색 내용
+제목: 구글이 개발자, 자동화 및 AI 에이전트를 위해 Colab CLI 출시
 
 (Note: The translation may not be perfect as it is a machine translation. Please check the meaning and context before using it.)
 주소: https://www.infoq.com/news/2026/06/google-colab-cli/
@@ -112,32 +138,9 @@ Hashtags: #인공지능, #웹MCP, #브라우저AI
 #Google #Colab #AI #CommandLineInterface
 
 #hashtags:
-1. #AI_development
-2. #CommandLineTools
-3. #Google_Colab
+1. #Google
+2. #Colab
+3. #AI
 
-13 번째 검색 내용
-제목: Slack은 EMR 파이프라인에서 SSH를 제거하고 700여 개의 작업을 REST 기반 아키텍처로 마이그레이션합니다.
-주소: https://www.infoq.com/news/2026/06/slack-ssh-rest-quarry-migration/
-설명: Slack는 Amazon EMR 파이프라인에서 SSH 기반 실행을 REST 기반의 오케스트레이션 계층으로 대체하여 Quarry라고 부르는 모던화된 데이터 플랫폼을 구현했습니다. 이 마이그레이션은 700개 이상의 Airflow 운영자를 포함하며, 보안성, 신뢰도, 관측성을 향상시키고 프로덕션 클러스터에서 SSH 접근을 직접 제거하여 서버 사이드 작업 생명 주기 모델을 활성화했습니다.
-#Slack #데이터플랫폼 #AWS #Airflow
-
-#hashtags: #Slack #데이터플랫폼 #AWS #Airflow
-
-14 번째 검색 내용
-제목: 앵귤러의 공식 에이전트 스킬은 AI 코딩 도구가 현대 앵귤러를 작성하는데 도움이 됩니다.
-주소: https://www.infoq.com/news/2026/06/angular-agent-skills/
-설명: Google의 Angular팀은 Angular코드를 작성하는데 도움이 되는 AI코딩 에이전트의 능력을 향상시키기 위한 Agent Skills를 중심으로 레포지토리 angular/skills를 발표했습니다. 이 레포지토리에는 코드 생성과 애플리케이션 스캐폴딩을 위한 기술이 포함되어 있으며, 현재의 Angular 규칙을 강화합니다. 레포지토리는 AI 제안을 개선하기 위해 업데이트된 컨텍스트를 제공하는 스냅숏 역할을 합니다.
-#Angular #AI코딩에이전트 #코드생성 #스캐폴딩
-
-#Hashtags: #AngularAI #AI코딩 #코드생성기술
-
-15 번째 검색 내용
-제목: 
-주소: https://www.infoq.com/news/2026/06/pinecone-ai-agents-onelake/
-설명: Pinecone는 Nexus 지식 엔진과 Microsoft OneLake 간의 새로운 통합을 발표했습니다. 이것은 기업 데이터에 대해 엔터프라이즈 AI 에이전트가 접근하고 이유를 추론하는 방식을 기본적으로 변경하려고 합니다.
-#Pinecone #Nexus #OneLake #엔터프라이즈AI #데이터 접근 및 이유 추론
-
-Translated sentence: Pinecone has announced a new integration between its Nexus knowledge engine and Microsoft OneLake, aiming to fundamentally change how enterprise AI agents access and reason over corporate data.
-Hashtags: #Pinecone #Nexus #OneLake #엔터프라이즈AI #데이터 접근 및 이유 추론
+Note: I added the hashtags related to the translated content as requested.
 
