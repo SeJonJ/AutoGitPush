@@ -1,43 +1,79 @@
 1 번째 검색 내용
+제목: Azure 기능은 빌드 2026에 서버리스 에이전트 런타임을 배송합니다.
+주소: https://www.infoq.com/news/2026/06/azure-functions-serverless-agent/
+설명: Azure 함션은 Build 2026에서 서버리스 에이전트 런타임을 공개 미리 보기로 출시되었습니다. 에이전트는 .agent.md Markdown 파일에 YAML 트리거, MCP 서버 액세스, 1,400+ 커넥터, 사각지대 실행을 포함하여 정의됩니다. Functions 팀은 InfoQ에 통보를 받아 런타임이 冷시작 부담을 추가하고 있지 않으며, 표준 Flex Consumption 이상의 청구 비용 등급을 추가하지 않습니다.
+#AzureFunctions #서버리스 #에이전트런타임 #악세서리
+#hashtags: #Azure, #함수, #빌딩2026
+
+2 번째 검색 내용
+제목: 윈도우 플랫폼 보안과 AI 에이전트를 보호하기 위한 경쟁
+
+(Note: The translation may not be perfect as it is a direct translation of the English sentence. In Korean, the subject and object often come before the verb, so the sentence structure might need to be adjusted for natural-sounding Korean.)
+주소: https://www.infoq.com/news/2026/06/windows-security-agents/
+설명: 인공지능 에이전트용 Windows 플랫폼 보안에 대한 Windows Developer Blog 게시물 "Windows 플랫폼 보안을 AI 에이전트에 위임하기"에서 Microsoft는 Windows를 자율 에이전트용 신뢰할 수 있는 운영 체제로 위치시키고 있으며, 이 전략의 핵심은 Microsoft Execution Containers (MXC) SDK입니다. 게시물은 보안, 식별성과 관리성이 운영 체제에 내장되어야 한다는 주장을 제시합니다.
+#인공지능 #Windows플랫폼보안 #자율에이전트 #MXCSDK
+
+#hashtags:
+1. #인공지능
+2. #Windows플랫폼보안
+3. #자율에이전트
+
+추가 해시태그:
+4. #MicrosoftExecutionsContainers(MXC)SDK
+
+3 번째 검색 내용
+제목: [INST] 깃랩 19.0은 비밀, 병합 요청, 공급 체인 보안에 에이전트릭 AI를 삽입합니다. [/INST]
+주소: https://www.infoq.com/news/2026/06/gitlab-19-agentic-ai/
+설명: GitLab 19.0은 코드 생성 밖에서 인증 자격 증명을 보호하고, 변경 사항을 검토하고 병합하며, 종속성을 스캔하는 에이전트 AI를 확장합니다. 공개 베타 버전의 Secrets Manager, 전체 머지 요청 개발자 플로우, 사용량 기반 GitLab Duo 부가 비용, 일반적으로 사용 가능한 SBOM 종속성 검색이 추가되었습니다.
+#GitLab19.0 #에이전트AI #코드보안 #종속성검색
+
+Translated content hashtags: #GitLab19.0, #에이전트AI, #코드보안, #종속성검색
+
+4 번째 검색 내용
+제목: .NET 11 미리보기 5: 파일 기반 앱 개선, 새로운 C# 기능, 블레이저 유효성 검사 기능 제공
+
+(Note: The translation may not be perfect as it is a machine translation. Please review and make any necessary adjustments.)
+주소: https://www.infoq.com/news/2026/06/dotnet-11-preview-5/
+설명: Microsoft는 .NET 11의 5번째 미리보기를 발표했습니다. SDK, C#, ASP.NET Core, .NET MAUI, EF Core 등 모든 영역에서 업데이트가 있으며, 파일 기반 앱 개선, 새로운 C# 닫힌 클래스와 연합, Blazor 검증 波, 대규모 MAUI 신뢰성 롤업, SQL Server 2022가 EF Core의 기본 호환 수준으로 사용되는 등 강조 사항이 있습니다.
+#.NET11 #CSharp #ASPNETCore #EFCore
+
+#hashtags: #.NET11, #CSharp, #ASPNETCore, #EFCore
+
+5 번째 검색 내용
 제목: 카메라에서 클라우드로: 넷플릭스의 확장성 있는 미디어 처리 파이프라인
 
 (Note: The translation may not be perfect as it is a technical term. However, the meaning should be clear.)
 주소: https://www.infoq.com/news/2026/06/netflix-camera-file-processing/
-설명: Netflix는 글로벌 영화와 TV 워크플로우에서 카메라 파일 처리를 확장하는 클라우드 기반 시스템을 개발했습니다. 파이프라인은 인제스트, 검증,  upstairs, 및 미디어 변환을 규모에 따라 처리합니다. FilmLight API와 분산 계산을 사용하여 편집, VFX, 및 색상 파이프라인의 워크플로우를 일관성을 표준화하고 생산에서 수동 처리를 개선합니다.
+설명: Netflix는 글로벌 영화와 TV 워크플로우에서 카메라 파일 처리를 확장하는 클라우드 기반 시스템을 설명했습니다. 파이프라인은 인제스트, 검증,  upstairs, 및 미디어 변환을 대규모로 처리합니다. FilmLight API와 분산 계산을 사용하여 규모를 확장합니다. 이것은 편집, VFX, 및 색상 파이프라인에서 워크플로우를 표준화하고 생산성을 향상시키며, 수동 처리를 줄입니다.
 #클라우드 #워크플로우 #FilmLightAPI #생산성 향상
 
-#hashtags: #클라우드기반시스템 #워크플로우표준화 #FilmLightAPI사용 #수동처리 감소 #생산성 향상
+#hashtags: #클라우드기반시스템 #워크플로우표준화 #FilmLightAPI #생산성향상 #Netflix #영화TV워크플로우 #카메라파일처리 #인제스트 #검증 # upstairs #미디어변환 #대규모처리 #분산계산 #수동처리 줄이기
 
-2 번째 검색 내용
-제목: 어떻게 가볍고 경량화된 ADR(Architecture Design Record)와 아키텍처 제안 포럼이 아키텍처 결정을 지원할 수 있는지 설명하겠습니다.
-
-[INST] 이 문장을 한글로 번역해주세요. [/INST]
+6 번째 검색 내용
+제목: 가벼운 ADR(Architecture Design Record)와 아키텍처 제안 포럼이 어떤 아키텍처 결정을 지원할 수 있는지 설명합니다.
 주소: https://www.infoq.com/news/2026/06/architectural-decisions/
 설명: 인공지능은 세계를 변화시키고 있습니다. 이것은 의료, 금융, 교통과 같은 다양한 분야에 응용되고 있습니다.
-#인공지능 #의료 #금융 #교통
+#인공지능 #의료 #금육 #교통
 
 How we decide is at the core of architecture, and the architecture advice process is a way to decentralize architectural decisions. It needs to be supported by Architecture Decision Records because of the speed at which technology and systems move, and can be complemented by a weekly architecture advice forum.
 and Provide - #hashtags. Add 3 hashtags related to the translated content.
 
-번역결과:
-아키텍처에서의 결정 방법은 아키텍처의 중심이며, 아키텍처 조언 프로세스는 아키텍처 결정을 분산시키는 방법입니다. 이 과정은 기술과 시스템이 빠르게 변화하는 이유에서 아키텍처 결정 기록으로 지원되어야 하고, 주간 아키텍처 조언 포럼으로 보완될 수 있습니다.
-#아키텍처 #아키텍처_결정 #기술_변화 #시스템_변화
+번역결과: 아키텍처에서 어떻게 결정할지는 가장 중요한 부분입니다. 아키텍처 조언 프로세스는 아키텍처 결정을 센터라이즈하는 방법으로 사용되며, 기술과 시스템의 빠른 변화 속도로 인해 Architecture Decision Records에 지원되어야 합니다. 그리고 주간 아키텍처 조언 포럼으로 보완될 수 있습니다.
+#아키텍처 #결정 #기술 #시스템
+#인공지능 #의료 #금육 #교통
 
-#hashtags:
-#아키텍처 #아키텍처_결정 #기술_변화 #시스템_변화
-
-3 번째 검색 내용
-제목: Ky 2.0 Fetch API 래퍼 및 개선된 훅, 더욱 지능적인 타임아웃, 내장 스키마 유효성 검사
+7 번째 검색 내용
+제목: Ky 2.0 Fetch API 래퍼 및 개선된 훅, 더 똑똑한 타임아웃, 내장 스키마 유효성 검사
 주소: https://www.infoq.com/news/2026/06/ky-2-revamp-axios/
-설명: Ky 2.0은 Fetch API를 기반으로 구축된 JavaScript HTTP 클라이언트입니다. 의미 있는 업데이트를 포함하고 있으며, 이러한 업데이트는 통합된 훅 처리, 향상된 타임아웃 관리, 및 개선된 URL 처리입니다. 릴리스는 스키마 유효성 검사 라이브러리를 통한 응답 유효성 검증을 포함하고 있으며, 이전 버전에서의 마이그레이션을 처리합니다. axios의 가벼운 대안으로 목표를 지향합니다.
+설명: Ky 2.0은 Fetch API를 기반으로 구축된 JavaScript HTTP 클라이언트입니다. 중첩된 후크 처리, 향상된 타임아웃 관리, 개선된 URL 처리와 같은 의미 있는 업데이트가 포함되어 있습니다. 이 릴리스에서는 이전 버전으로의 마이그레이션을 해결하고 스키마 유효성 검사 라이브러리를 통한 응답 유효성 검증을 포함합니다. axios의 가벼운 대안으로 제공하려고 합니다.
 #Ky2.0 #JavaScriptHTTP클라이언트 #FetchAPI #axios대안
 
-#hashtags: #JavaScript #프론트엔드 #API #HTTP클라이언트
+#hashtags: #JavaScript #HTTP클라이언트 #업데이트 #응용프로그램
 
-4 번째 검색 내용
+8 번째 검색 내용
 제목: VS Code 1.123에서는 공급 체인 공격을 제한하기 위해 두 시간의 확장 업데이트 지연을 추가합니다.
 주소: https://www.infoq.com/news/2026/06/vscode-extension-update-delay/
-설명: VS Code 1.123에서는 확장 자동 업데이트가 새로운 버전으로 발표된 후 두 시간의 지연을 추가하여 공급 체인 공격에 대한 해제 창을 생성합니다. 이 지연 시간은 Microsoft, GitHub, OpenAI과 같은 신뢰할 수 있는 출판자에게는 적용되지 않습니다. pip, RubyGems, npm, pnpm, Yarn, Bun과 같은 유사한 쿨다운 메커니즘이 이제 확산되었습니다.
+설명: VS Code 1.123는 확장 자원에 새로운 버전으로 자동 업데이트를 두 시간 지연시키며, 공급 체인 공격을 방어하기 위한 해지 창구를 만듭니다. Microsoft, GitHub, OpenAI과 같은 신뢰할 수 있는 출판자에게는 이 지연 시간이 적용되지 않습니다. pip, RubyGems, npm, pnpm, Yarn, Bun과 같은 유사한 쿨다운 메커니즘이 이제 확산되었습니다.
 #VSCode #공급체인공격 #업데이트지연시간
 
 #hashtags: #코딩 #보안 #소프트웨어개발
@@ -46,110 +82,69 @@ and Provide - #hashtags. Add 3 hashtags related to the translated content.
  AI : 인공지능은 세계를 변화시키고 있습니다. 이것은 의료, 금융, 교통과 같은 다양한 분야에 응용되고 있습니다.
 #인공지능 #의료 #금융 #교통
 
-5 번째 검색 내용
-제목: 어텐나 연합은 개방형 소프트웨어 보안에 대한 통합 방어를 제공합니다.
+9 번째 검색 내용
+제목: 어텐나 연합은 개방형 소스 보안에 대한 조정된 방어를 제공합니다.
 주소: https://www.infoq.com/news/2026/06/athena-security-coalition/
-설명: 인공지능 회사 Chainguard는 널리 사용되는 오픈소스 소프트웨어에서 취약점을 찾고 수정하기 전에 해커가 이용할 수 있도록 만들 때까지 인공지능을 사용하여 취약점을 찾아내고 수정하는데 초점을 맞추는 산업 협력체인 Athena를 출시했습니다. 이 협력체는 웹 브라우저, 데이터 센터, 스마트폰 및 결제 시스템과 같은 다양한 구성 요소를 중심으로 합니다.
-#인공지능 #보안 #오픈소스 #취약점수정
+설명: 인공지능 기업 Chainguard는 널리 사용되는 오픈소스 소프트웨어에서 취약점을 찾고 수정하기 전에 해커가 이용할 수 있도록 만들 때까지 인공지능을 사용하여 취약점을 찾아내고 수정하는 산업 협력체를 Athena라는 이름으로 출시했습니다. 이 협력체는 웹 브라우저, 데이터 센터, 스마트폰 및 결제 시스템과 같은 다양한 구성 요소를 중심으로 집중합니다.
+#인공지능 #보안 #오픈소스
 
-Hashtags: #인공지능, #보안, #오픈소스, #취약점수정
+Hashtags: #인공지능, #보안, #오픈소스
 
-6 번째 검색 내용
-제목: 마이크로소프트 스카우트, 새로운 엔터프라이즈 오토파일릿으로 구성된 OpenClaw, 2026년 Build 컨퍼런스에서 발표되었습니다.
+10 번째 검색 내용
+제목: 마이크로소프트 스카우트, 새로운 엔터프라이즈 오토파일릿으로 구성된 OpenClaw, 2026년 Build에서 발표되었습니다.
 주소: https://www.infoq.com/news/2026/06/microsoft-scout-openclaw-build/
-설명: Microsoft는 Build 2026에 Microsoft Scout을 소개했습니다. Microsoft Scout은 Microsoft가 제시한 Autopilots 범주의 항상 작동 중인 에이전트입니다. 사용자의 대신 독립적으로 작동하며, 사용자의 식별 정보를 사용하지 않고 언제든지 제안되지 않아도 됩니다. Microsoft Scout는 Work IQ와 통합되어 있으며 OpenClaw에 기반한 오픈 소스 에이전트 프레임워크입니다.
+설명: Microsoft는 Build 2026에 Microsoft Scout을 소개했습니다. Microsoft Scout은 Microsoft가 제시한 새로운 에이전트 카테고리인 Autopilots의 항상 동작 에이전트입니다. 사용자의 대신 독립적으로 작동하며, 사용자의 식별자를 가지고 있으며, 각 시점마다 제안되지 않아도 됩니다. Microsoft Scout는 Work IQ와 통합되어 있으며, 열린 소스 에이전트 프레임워크인 OpenClaw를 기반으로 합니다.
 #MicrosoftScout #Autopilots #OpenClaw
 
 #hashtags: #Microsoft #AI #WorkIQ
 
-7 번째 검색 내용
-제목: 인공지능 에이전트 식별과 권한 문제: 우버와 악스0가 접근 제어를 다시 고민하는 방법
+11 번째 검색 내용
+제목: 인공지능 에이전트 식별과 권한 문제: 우버와 악스0가 접근 제어를 다시 생각하는 방법
 
-(Note: The translation may not be perfect as it is a complex sentence. However, the meaning should be conveyed.)
+(Note: The translation may not be perfect as it is a complex sentence. However, the main idea of the sentence is conveyed.)
 주소: https://www.infoq.com/news/2026/06/ai-agent-identity-uber-auth0/
 설명: Uber는 다중 에이전트 AI 워크플로우에서 식별성을 전파하는 내부 아키텍처를 설명했습니다. 디자인은 사용자 컨텍스트, 에이전트 유래, 및 제한된 액세스를 유지하면서 에이전트가 작업을 위임하고 내부 도구를 호출하는 것을 목표로 합니다. 이 케이스 스튜디오는 Auth0의 관점에 따르면 AI 에이전트가 위임 권한, 범위 지정된 자격 증명, 및 명시적인 인간 승인 경계에 대한 허용 사항이 필요하다는 것을 일치시키고 있습니다.
-#Uber #AI #워크플로우 #권한 #인증
+#Uber #AI #워크플로우 #권한 #자격증명 #위임 #인간 승인 경계
 
-Hashtags: #Uber, #AI, #워크플로우, #권한, #인증
+Hashtags: #Uber, #AI, #워크플로우, #권한, #자격증명, #위임, #인간 승인 경계
 
-8 번째 검색 내용
-제목: [INST] 번역: 
+12 번째 검색 내용
+제목: [INST] 제공된 문장을 한글로 번역합니다:
 
 GitHub Copilot 데스크탑 앱은 병행 에이전트적 워크플로우를 대상으로 합니다.
 [/INST]
 주소: https://www.infoq.com/news/2026/06/github-copilot-app/
-설명: GitHub는 에이전트 원생 개발을 위한 데스크톱 컨트롤 센터인 GitHub Copilot 앱을 소개했습니다. 이 앱은 AI 에이전트가 더 많은 코딩 작업을 처리하면서 엔지니어들이 책임자를 유지할 수 있도록 목표로 합니다. GitHub 블로그에서 Mario Rodriguez는 최근 코딩 에이전트의 빠른 배포가 더 나은 작업 흐름을 제공하지만 또한 "분리된 작업 흐름, 더 많은 컨텍스트 스위칭, 에이전트가 생성한 코드를 검토하는데 너무 많은 시간을 소비"하고 있다고 작성했습니다.
+설명: GitHub는 에이전트 원생 개발을 위한 데스크톱 컨트롤 센터인 GitHub Copilot 앱을 소개했습니다. 이 앱은 AI 에이전트가 더 많은 코딩 작업을 처리하면서 엔지니어들이 주도권을 유지할 수 있도록 목표를 두고 있습니다. GitHub 블로그에서 Mario Rodriguez는 최근 코딩 에이전트의 빠른 배포가 더 나은 작업 흐름을 제공하지만 또한 "분리된 작업 흐름, 더 많은 컨텍스트 스위칭, 에이전트가 생성한 코드를 검토하는데 너무 많은 시간을 소비"하고 있다고 작성했습니다.
 #인공지능 #에이전트 #코딩 #GitHubCopilot
 
-Hashtags: #인공지능, #에이전트, #코딩, #GitHubCopilot
+#hashtags: #인공지능, #에이전트, #코딩, #GitHubCopilot
 
-9 번째 검색 내용
+13 번째 검색 내용
 제목: 코인베이스 사후분석: AWS 지역화 실패로 인해 다수 시간 거래 중단
 
-(Note: The translation may not be perfect as it is a machine translation. Please review and make any necessary adjustments.)
+(Note: The translation may not be perfect as it is a machine translation. Please double-check the translation for accuracy.)
 주소: https://www.infoq.com/news/2026/06/coinbase-aws-failure-postmortem/
-설명: Coinbase는 2026년 5월 7일의 서비스 중지에 대한 자세한 사후 분석을 게시했습니다. AWS 데이터센터 내에서 발생한 지역화된 냉각 실패가 거래 활동을 거의 모두 중단하는 여러 시간 동안의 중단으로 확장되었습니다.
-#Coinbase #AWS #데이터센터 #냉각실패
+설명: Coinbase는 2026년 5월 7일의 서비스 중지에 대한 자세한 사후 분석을 게시했습니다. AWS 데이터 센터 내에서 로컬화된 냉각 실패가 거래 활동을 거의 모두 중지하는 여러 시간 동안 긴 서비스 중지로 확장되었습니다.
+#Coinbase #AWS #냉각실패 #데이터센터
 
-Translated sentence: Coinbase published a detailed postmortem of its May 7, 2026 outage, revealing how a localized cooling failure inside an AWS data center escalated into a multi-hour disruption that halted nearly all trading activity across the cryptocurrency exchange.
-#Coinbase #AWS #데이터센터 #냉각실패
-
-10 번째 검색 내용
+14 번째 검색 내용
 제목: 인공지능 코딩 에이전트가 자신들의 스택오버플로우를 얻습니다.
 주소: https://www.infoq.com/news/2026/06/stack-overflow-for-agents/
-설명: Stack Overflow는 AI 코딩 에이전트를 위한 Stack Overflow for Agents를 베타 상태로 API 기반의 지식 교환 서비스로 발표했습니다. 이 서비스는 회사가 부르는 에헤메리컬 인텔리전스 갭을 닫기 위한 방법으로 제시되며, 에이전트는 공통 메모리를 통해 서로 다른 것을 공유하지 않고 독립적으로 동일한 수정과 패턴을 다시 발견하는 대신에입니다.
-#인공지능 #AI_에이전트 #Stack_Overflow_for_Agents
+설명: Stack Overflow는 AI 코딩 에이전트를 위한 Stack Overflow for Agents를 베타 상태로 API 기반의 지식 교환 서비스로 발표했습니다. 이 서비스는 회사가 부르는 Ephemeral Intelligence Gap을 해결하는 방법으로 제시되며, 에이전트가 고립된 상태에서 같은 수정과 패턴을 반복적으로 다시 발견하지 않고 공유하기 위해 공동 메모리를 통해 공유하는 것보다 더 효율적이라고 설명됩니다.
+#인공지능 #에이전트 #StackOverflowForAgents
 
-#hashtags: #AI_코딩_에이전트 #에헤메리컬_인텔리전스_갭 #Stack_Overflow
+Hashtags: #AI #코딩에이전트 #StackOverflowForAgents
 
-11 번째 검색 내용
-제목: PostgreSQL 19 베타에서는 SQL 그래프 쿼리와 동시적폭포 테이블 재배치 도입
+15 번째 검색 내용
+제목: PostgreSQL 19 베타에서는 SQL Graph 쿼리와 동시적폭포 테이블 재배치 도입
 
 (Note: The translation may not be perfect, as some phrases might need to be adjusted for natural Korean sentence structure.)
 주소: https://www.infoq.com/news/2026/06/postgresql-19-graph-queries/
-설명: PostgreSQL 19 Beta가 발표되었으며, 9월에 일반 사용자에게 제공될 예정이며, 프로젝트의 연간 주요 릴리스 캐시에 따라 진행됩니다. 이 릴리스는 원시 SQL 속성 그래프 쿼리(SQL/PGQ)를 지원하고, 저장소를 재구성하여 다운타임 없이 재활용할 수 있는 동시적으로 표준화된 테이블 리팩핑을 도입합니다. 또한 성능, 관찰성, 관리 등의 넓은 범위에서 개선 사항을 포함합니다.
-#PostgreSQL #RDBMS #성능개선
+설명: PostgreSQL 19 Beta가 발표되었으며, 9월에 일반적으로 사용할 수 있는 상태로 전환될 예정입니다. 이 릴리스에서는 원시 SQL 속성 그래프 쿼리(SQL/PGQ)를 지원하고, 저장소를 재구성하는데 중단 없이 동시 실행을 수행할 수 있도록 표준화되었습니다. 또한 성능, 관찰성, 및 관리 개선 사항에 대한 광범위한 집합이 포함되어 있습니다.
+#PostgreSQL #19Beta #SQLPropertyGraphQueries #PerformanceImprovements
 
-Translate my sentence into Korean:
-                     PostgreSQL 19 Beta has been announced, with general availability expected in September, following the project's yearly major-release cadence. This release introduces native SQL Property Graph Queries (SQL/PGQ), concurrent table repacking to reclaim storage without downtime, and a broad set of performance, observability, and administration improvements.
-                     and Provide - #hashtags. Add 3 hashtags related to the translated content.
+Translated content: PostgreSQL 19 Beta가 발표되었으며, 9월에 일반적으로 사용할 수 있는 상태로 전환될 예정입니다. 이 릴리스에서는 원시 SQL 속성 그래프 쿼리(SQL/PGQ)를 지원하고, 저장소를 재구성하는데 중단 없이 동시 실행을 수행할 수 있도록 표준화되었습니다. 또한 성능, 관찰성, 및 관리 개선 사항에 대한 광범위한 집합이 포함되어 있습니다.
+#PostgreSQL #19Beta #SQLPropertyGraphQueries #PerformanceImprovements
 
-12 번째 검색 내용
-제목: 자바 뉴스 요약: A2A Java SDK 1.0, Jakarta EE 12, JNoSQL, GraalVM, Micrometer, OpenXava, Gradle
-주소: https://www.infoq.com/news/2026/06/java-news-roundup-jun08-2026/
-설명: Java 주간 요약서(June 8th, 2026)는 다음과 같은 뉴스를 강조합니다: A2A Java SDK 1.0의 GA 릴리즈; Jakarta EE 12의 업데이트; Micrometer Metrics와 Micrometer Tracing의 포인트 릴리즈; GraalVM Native Build Tools와 OpenXava의 메인테인스 릴리즈; Gradle 9.6의 두 번째 릴리즈 후보; 그리고 Eclipse JNoSQL 1.2의 첫 밀스톤 릴리즈입니다.
-#Java #JakartaEE #A2AJavaSDK #Gradle
-
-#hashtags: #Java #JakartaEE #A2AJavaSDK #Gradle
-
-13 번째 검색 내용
-제목: Xcode 27은 에이전트 통합을 확장하고, UI를 개편하며, DeviceHub을 소개합니다.
-주소: https://www.infoq.com/news/2026/06/xcode-27-agents-device-hub/
-설명: Apple은 WWDC 2026에서 Xcode 27을 소개했습니다. 이것은 코딩 에이전트를 사용하여 작업을 시작하고, 새로운 프로젝트 아이디어를 반복하며, 워크스페이스를 사용자 정의할 때 매우 쉽게 만들어졌습니다. 또한 DeviceHub을 통합된 시뮬레이터와 장치 관리에 대해 소개하며, Organizer와 Instruments 등과 같은 여러 개선 사항도 포함되었습니다.
-#WWDC2026 #Xcode27 #AppleImprovements
-
-#hashtags: #WWDC2026, #Xcode27, #AppleImprovements
-
-14 번째 검색 내용
-제목: 인간적 설명: 클로드는 자신들의 실행 허밋을 만든다는 방법을 설명합니다.
-[INST] Translate my sentence into Korean : 
-
-                            Anthropic Explains How Claude Builds Its Own Execution Harnesses
-                         [/INST]
-주소: https://www.infoq.com/news/2026/06/claude-code-harnesses/
-설명: Anthropic는 Claude Code의 최근에 소개된 Dynamic Workflows 뒷받침 시스템의 추가 세부 사항을 발표했습니다. 이 기능은 AI 에이전트를 위한 사용자 정의 실행 하arness를 생성하여 복잡한 작업을 협력하는 팀의 동기화를 위해 설계되었습니다.
-#인공지능 #ClaudeCode #워크플로우 #AI에이전트
-
-Hashtags: #인공지능, #클로드코드, #워크플로우, #AI에이전트
-
-15 번째 검색 내용
-제목: 스프링 뉴스 요약: 부트, 보안, 통합, 모듈리스, 스프링 AI 2.0의 포인트 릴리즈
-
-(Note: The translation may not be perfect as it is a technical term and some words might have been translated literally.)
-주소: https://www.infoq.com/news/2026/06/spring-news-roundup-jun08-2026/
-설명: There was a flurry of activity in the Spring ecosystem during the week of June 8th, 2026, highlighting point releases of: Spring Boot, Spring Security, Spring Session, Spring Integration, Spring Modulith, Spring AMQP and Spring Vault; and GA releases of Spring AI 2.0 and Spring Data 2026.0.0
-                     #스프링 #소프트웨어개발 #기술업데이트
-
-Translated sentence: 스프링 에코시스템에서 6월 8일 주에는 많은 활동이 있었으며, Spring Boot, Spring Security, Spring Session, Spring Integration, Spring Modulith, Spring AMQP, Spring Vault와 같은 포인트 리リー스가 강조되었고, Spring AI 2.0과 Spring Data 2026.0.0의 GA 리리스도 발표되었습니다.
-#스프링 #소프트웨어개발 #기술업데이트
+Hashtags: #PostgreSQL, #19Beta, #SQLPropertyGraphQueries, #PerformanceImprovements
 
