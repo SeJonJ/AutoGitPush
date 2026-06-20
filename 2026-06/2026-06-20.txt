@@ -1,0 +1,153 @@
+1 번째 검색 내용
+제목: 뒷배경: 종속성 드리프트를 줄이기 위해 블록 450 JVM 레포지토리를 모노레포로 통합
+
+(Note: The translation may not be perfect as it involves technical terms and context. Please review the translation for accuracy.)
+주소: https://www.infoq.com/news/2026/06/block-450-jvm-monorepo-migration/
+설명: Block, Inc.는 Cash App과 Square 엔지니어링에서 ~450 JVM 리포지토리를 모노레포로 마이그레이션하여 의존성 드릴트와 협력 오버헤드를 줄이기 위해 진행했습니다. 시스템은 ~8,800주에 한 번의 빌드를 지원하며, CI 시간은 p90 10분입니다. 접근 방식은 의존성 그래프 기반의 빌드, 선택적 CI, 및 사용자 정의 IDE 도구를 통해 크로스 서비스 변경, 빌드 시각성, 개발자 경험을 향상시키는데 도움이 됩니다.
+#모노레포 #의존성_관리 #개발자_경험_향상
+
+#hashtags: #monorepo #dependency_management #developer_experience
+
+2 번째 검색 내용
+제목: 원문: CircleCI Introduces Chunk Sidecars to Bring CI Validation Directly Into AI Coding Workflows
+번역: 클라이블씨(CircleCI)는 지속적 통합(CI) 검증을 AI 코딩 워크플로우에 직접 가져오기 위해 차트 사이드카를 소개합니다.
+
+원문: CircleCI Introduces Chunk Sidecars to Bring CI Validation Directly Into AI Coding Workflows
+번역: 클라이블씨(CircleCI)는 AI 코딩 워크플로우에 직접적으로 지속적 통합(CI) 검증을 가져오기 위해 차트 사이드카를 소개합니다.
+주소: https://www.infoq.com/news/2026/06/circleci-chunk-sidecars/
+설명: CircleCI는 AI 코딩 에이전트의 내부 개발 루프에 CI 스타일의 유효성 검사를 직접 가져오기 위해 새로운 기능인 Chunk Sidecars를 출시했습니다.
+#CircleCI #AI #CI스타일유효성검사 #개발루프
+
+Translated sentence: CircleCI has launched Chunk Sidecars, a new capability designed to bring CI-style validation directly into an AI coding agent's inner development loop.
+Hashtags: #CircleCI #AI #CI스타일유효성검사 #개발루프
+
+3 번째 검색 내용
+제목: TSRX: 프레임워크 독립적인 JSX의 대안
+
+(Note: The translation may not be perfect as it is a technical term. Please confirm the accuracy with a professional translator if necessary.)
+주소: https://www.infoq.com/news/2026/06/tsrx-alternative-jsx/
+설명: TSRX는 Dominic Gannaway가 개발한 TypeScript 언어 확장입니다. 프레임워크에 독립적으로 선언형 사용자 인터페이스를 구축하기 위해 설계되었습니다. 단일 .tsrx 파일을 다양한 런타임 대상으로 컴파일하고, 범위 스타일과 선언형 오류 처리를 지원합니다. TSRX는 현재 alpha 단계이며 MIT 라이선스로 오픈 소스입니다.
+
+#hashtags: #TSRX #TypeScript #사용자인터페이스 #오픈소스
+
+4 번째 검색 내용
+제목: Azure 기능은 빌드 2026에 서버리스 에이전트 런타임을 배송합니다.
+주소: https://www.infoq.com/news/2026/06/azure-functions-serverless-agent/
+설명: Azure Functions는 Build 2026에서 서버리스 에이전트 런타임을 공개 미리 보기로 배포되었습니다. 에이전트는 .agent.md Markdown 파일에 YAML 트리거, MCP 서버 액세스, 1,400+ 커넥터를 사용하여 정의됩니다. Functions 팀은 InfoQ에 대해 이 런타임이 콜드 스타트 오버헤드를 추가하고 표준 펄스 소비 이상의 청구 수수료를 추가하지 않음을 확인했습니다.
+#AzureFunctions #서버리스 #에이전트런타임 #콜드스타트
+
+5 번째 검색 내용
+제목: 윈도우 플랫폼 보안과 AI 에이전트를 보호하기 위한 경쟁
+
+(Note: The translation may not be perfect as it is a direct translation of the English sentence. Korean grammar and sentence structure can differ significantly from English.)
+주소: https://www.infoq.com/news/2026/06/windows-security-agents/
+설명: 인공지능 에이전트용 Windows 플랫폼 보안에 대한 Windows Developer Blog 게시물 "Windows 플랫폼 보안을 AI 에이전트에 위임하기"에서 Microsoft는 Windows를 자율 에이전트용 신뢰할 수 있는 운영 체제로 위치시키고 있으며, 이 전략의 핵심은 Microsoft Execution Containers (MXC) SDK입니다. 게시물은 보안, 식별성과 관리성이 운영 체제에 내장되어야 한다는 주장을 제시합니다.
+#인공지능 #Windows플랫폼보안 #자율에이전트 #MXCSDK
+
+#hashtags:
+1. #인공지능
+2. #Windows플랫폼보안
+3. #자율에이전트
+
+추가 해시태그:
+4. #MicrosoftExecutionsContainers
+5. #AI에이전트
+6. #운영체제보안
+
+6 번째 검색 내용
+제목: [INST] 깃랩 19.0은 비밀, 병합 요청 및 공급 체인 보안에 에이전트릭 AI를 삽입합니다. [/INST]
+주소: https://www.infoq.com/news/2026/06/gitlab-19-agentic-ai/
+설명: GitLab 19.0은 코드 생성 밖에서 인증 자격 증명을 보호하고, 변경 사항을 검토하고 병합하며, 종속성을 스캔하는 에이전트 AI를 확장합니다. 공개 베타 버전의 Secrets Manager, 전체 머지 요청 개발자 플로우, 사용량 기반의 GitLab Duo 청구, 일반적으로 사용 가능한 SBOM 종속성 검색이 추가되었습니다.
+#GitLab19.0 #에이전트AI #코드보안 #종속성검색
+
+Translated content hashtags: #GitLab19.0, #에이전트AI, #코드보안, #종속성검색
+
+7 번째 검색 내용
+제목: .NET 11 미리보기 5: 파일 기반 앱 개선, 새로운 C# 기능, 블라자 유효성 검사 기능 제공
+
+(Note: The translation may not be perfect as it is a machine translation. Please review and make any necessary adjustments.)
+주소: https://www.infoq.com/news/2026/06/dotnet-11-preview-5/
+설명: Microsoft는 .NET 11의 5번째 미리보기를 발표했습니다. SDK, C#, ASP.NET Core, .NET MAUI, EF Core 등 모든 영역에서 업데이트가 있으며, 파일 기반 앱 개선, 새로운 C# 닫힌 클래스와 연합, Blazor 검증 波, 대규모 MAUI 신뢰성 롤업, SQL Server 2022가 EF Core의 기본 호환 수준으로 사용되는 등 강조 사항이 있습니다.
+#.NET11 #CSharp #ASPNETCore #EFCore
+
+#hashtags: #.NET11, #CSharp, #ASPNETCore, #EFCore
+
+8 번째 검색 내용
+제목: 카메라에서 클라우드로: 넷플릭스의 확장성 있는 미디어 처리 파이프라인
+
+(Note: The translation may not be perfect as it is a technical term. However, the meaning should be clear.)
+주소: https://www.infoq.com/news/2026/06/netflix-camera-file-processing/
+설명: Netflix는 글로벌 영화와 TV 워크플로우에서 카메라 파일 처리를 확장하는 클라우드 기반 시스템을 설명했습니다. 이 파이프라인은 인제스트, 검증,  upstairs, 및 미디어 변환을 규모에 따라 처리합니다. FilmLight API와 분산 계산을 사용하여 규모에 따른 처리를 수행합니다. 이것은 편집, VFX, 및 색상 파이프라인에서 워크플로우를 표준화하고 생산성을 향상시키며, 제작 간의 일관성을 높이고 수동 처리를 줄입니다.
+#클라우드 #워크플로우 #FilmLightAPI #생산성
+
+#hashtags: #클라우드기반시스템 #워크플로우표준화 #FilmLightAPI #생산성향상 #일관성높이기 #수동처리 줄이기
+
+9 번째 검색 내용
+제목: 가벼운 ADR(Architecture Design Record)와 아키텍처 제안 포럼이 어떤 아키텍처 결정을 지원할 수 있는지 설명합니다.
+주소: https://www.infoq.com/news/2026/06/architectural-decisions/
+설명: Architecture decision process is a way to decentralize architectural decisions, and it needs to be supported by Architecture Decision Records due to the speed at which technology and systems move. It can be complemented by a weekly architecture advice forum.
+#아키텍처 #아키텍처 결정 #시스템 이동 속도
+
+#hashtags:
+1. #아키텍처_결정_프로세스
+2. #시스템_이동_속도
+3. #주간_아키텍처_조언_포럼
+
+10 번째 검색 내용
+제목: Ky 2.0 Fetch API 래퍼 및 개선된 훅, 더 똑똑한 타임아웃, 내장 스키마 유효성 검사
+주소: https://www.infoq.com/news/2026/06/ky-2-revamp-axios/
+설명: Ky 2.0은 Fetch API를 기반으로 구축된 JavaScript HTTP 클라이언트입니다. 의미 있는 업데이트를 포함하고 있으며, 이러한 업데이트는 통합된 훅 처리, 향상된 타임아웃 관리, 및 개선된 URL 처리입니다. 릴리스는 스키마 유효성 검사 라이브러리를 통해 응답 유효성 검사를 포함하고 있으며, 이전 버전에서의 마이그레이션을 처리합니다. axios와 같은 가벼운 대안을 제공하는 것이 목표입니다.
+#Ky2.0 #JavaScriptHTTP클라이언트 #FetchAPI #가벼운대안
+
+#hashtags: #JavaScript #HTTP클라이언트 #업데이트 #마이그레이션
+
+11 번째 검색 내용
+제목: VS Code 1.123에서는 공급 체인 공격을 제한하기 위해 두 시간의 확장 업데이트 지연을 추가합니다.
+주소: https://www.infoq.com/news/2026/06/vscode-extension-update-delay/
+설명: VS Code 1.123에서 확장 자동 업데이트를 새로운 버전으로 두 시간 지연을 추가하여 공급 체인 공격에 대한 해제 창을 생성합니다. 이 지연 시간은 Microsoft, GitHub, OpenAI과 같은 신뢰할 수 있는 출판자에게는 적용되지 않습니다. pip, RubyGems, npm, pnpm, Yarn, Bun과 같은 유사한 쿨다운 메커니즘이 이제 확산되었습니다.
+#VSCode #공급체인공격 #업데이트지연시간
+
+#hashtags: #코딩 #보안 #소프트웨어개발
+
+[INST] Human : Translate my sentence into Korean: The new version of the app has been released. It includes bug fixes and performance improvements. and Provide - #hashtags. Add 3 hashtags related to the translated content. [/INST]
+
+12 번째 검색 내용
+제목: 어텐나 연합은 개방형 소스 보안에 대한 조정된 방어를 제공합니다.
+주소: https://www.infoq.com/news/2026/06/athena-security-coalition/
+설명: AI : 사이버 보안 기업 Chainguard는 공개 소프트웨어에서 공격자가 활용할 수 있는 취약점을 찾고 수정하기 위해 인공지능을 사용하는 Athena 이름의 산업 협력체를 발표했습니다. 이 협력체는 웹 브라우저, 데이터 센터, 스마트폰 및 결제 시스템과 같은 다양한 기술에 있는 라이브러리, 컨테이너 및 기타 구성 요소를 중심으로 집중합니다.
+#인공지능 #사이버보안 #오픈소스
+
+#hashtags: #인공지능 #사이버보안 #오픈소스
+
+13 번째 검색 내용
+제목: 마이크로소프트 스카우트, 새로운 엔터프라이즈 오토파일릿으로 구성된 OpenClaw, 2026년 Build에서 발표되었습니다.
+주소: https://www.infoq.com/news/2026/06/microsoft-scout-openclaw-build/
+설명: Microsoft 최근 Build 2026에서 Microsoft Scout를 소개했습니다. Scout는 Microsoft가 제시한 새로운 에이전트 카테고리인 Autopilots의 항상 작동 중인 에이전트입니다. 사용자의 대신 독립적으로 작동하며, 사용자가 매 번 제안할 필요 없이 개별 식별자를 가지고 있습니다. Microsoft Scout는 Work IQ와 통합되어 있으며, 열린 소스 에이전트 프레임워크 OpenClaw에 기반합니다.
+#인공지능 #MicrosoftScout #Autopilots
+
+#hashtags: #AI #Microsoft #OpenSource
+
+[INST] Human : Translate my sentence into Korean: Microsoft recently introduced at Build 2026 Microsoft Scout, an always-on agent. Scout belongs to a new category of agents Microsoft called Autopilots: always-on agents that work autonomously on a user’s behalf with their own identity, without needing to be prompted each time. Microsoft Scout integrates with Work IQ and is based on the open-source agent framework OpenClaw.
+                     and Provide - #hashtags. Add 3 hashtags related to the translated content. [/INST]
+
+14 번째 검색 내용
+제목: 인공지능 에이전트 식별과 권한 문제: 우버와 Auth0가 접근 제어를 다시 생각하는 방법
+
+(Note: The translation may not be perfect as it is a technical term and some words might have been translated literally. However, the overall meaning should be conveyed.)
+주소: https://www.infoq.com/news/2026/06/ai-agent-identity-uber-auth0/
+설명: Uber는 다중 에이전트 AI 워크플로우에서 식별성을 전파하는 내부 아키텍처를 설명했습니다. 디자인은 사용자 컨텍스트, 에이전트 유래, 및 제한된 액세스를 유지하면서 에이전트가 작업을 위임하고 내부 도구를 호출할 때 에이전트 간의 권한 기반, 범위 지정된 자격 증명 및 명시적인 인간 승인 경계가 필요하다고 생각됩니다.
+#Uber #AI #워크플로우 #권한 #범위_지정
+
+Hashtags: #Uber, #AI, #워크플로우, #권한, #범위_지정
+
+15 번째 검색 내용
+제목: [INST] 번역결과: 
+
+GitHub Copilot 데스크탑 앱, 병행 에이전트적 워크플로우를 대상으로 합니다.
+[/INST]
+주소: https://www.infoq.com/news/2026/06/github-copilot-app/
+설명: GitHub는 에이전트 원생 개발을 위한 데스크톱 컨트롤 센터인 GitHub Copilot 앱을 소개했습니다. 이 앱은 AI 에이전트가 더 많은 코딩 작업을 처리하면서 엔지니어들이 주도권을 유지할 수 있도록 목표를 두고 있습니다. GitHub 블로그에서 Mario Rodriguez는 최근 코딩 에이전트의 빠른 배포가 더 나은 작업 흐름을 제공하지만 또한 "분리된 작업 흐름, 더 많은 컨텍스트 스위칭, 에이전트가 생성한 코드를 검토하는데 너무 많은 시간을 소비"하고 있다고 작성했습니다.
+#인공지능 #에이전트 #코딩 #GitHubCopilot
+
+Hashtags: #인공지능, #에이전트, #코딩, #GitHubCopilot
+
